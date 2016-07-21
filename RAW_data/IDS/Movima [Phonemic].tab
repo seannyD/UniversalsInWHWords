@@ -1,0 +1,1311 @@
+entry_id	trans_english	Movima_Phonemic
+1.1	world	[mundo]
+1.21	earth, land	
+1.212	earth=ground, soil	ɬakam̉-ɓa
+1.213	dust	βus-kʷa
+1.214	mud	ɓuɓun̉-kʷa
+1.215	sand	wiʔwis
+1.22	mountain, hill	ɗuɗuʔ-kʷa
+1.222	cliff, precipice	ɬaβaɬ-kʷa
+1.23	plain, field	ɓen̉-ʔi
+1.24	valley	--
+1.25	island	pai-ɬim
+1.26	mainland	--
+1.27	shore	ɓih-ra
+1.28	cave	siɬ-kʷa
+1.31	water	tomi
+1.32	sea	--
+1.322	calm (of sea)	tah-poh
+1.323	rough (of sea)	
+1.324	foam	taβa-kʷa
+1.329	ocean	--
+1.33	lake	pou-lo
+1.34	gulf, bay	wala-čo
+1.341	lagoon	
+1.342	reef	--
+1.343	headland, point	
+1.35	wave	papau-ɬa
+1.352	tide	
+1.353	lowtide	osni-wanas
+1.354	hightide	
+1.36	river, stream, brook	in̉-wa
+1.362	whirlpool	
+1.37	spring, well	lu-βe
+1.38	swamp	ɓeteɬ-kʷa
+1.39	waterfall	--
+1.41	woods, forest	čaʔ-mo
+1.42	tree (cf 08.600)	koʔo
+1.43	wood	koʔo
+1.44	stone, rock	čam-pa
+1.45	earthquake	
+1.51	sky	ɓen̉-ra
+1.52	sun	tinno
+1.53	moon	yeh-čo
+1.54	star	ɗiɗin-kʷa
+1.55	lightning	yam-pa
+1.56	thunder	wurul-čeɬ
+1.57	lightning (as striking)	tapel-čeɬ
+1.58	storm	luʔ-waʔa
+1.59	rainbow	koʔo-čaʔa
+1.61	light (noun)	hel-ra
+1.62	darkness	payaʔ-ni
+1.63	shade, shadow	laɓa-yas
+1.64	dew	ɓeɬ-lo
+1.71	air	--
+1.72	wind	pou-muh
+1.73	cloud	ɓe-yas
+1.74	fog	βu-ɓuh-ni
+1.75	rain (noun)	luʔluʔu
+1.76	snow (noun)	--
+1.77	ice	--
+1.78	weather	--
+1.81	fire	βeʔe
+1.82	flame (noun)	βeʔe
+1.83	smoke (noun)	ɓuh-ru
+1.84	ashes	βeʔe-βus
+1.841	embers	ɗe-la-kʷa
+1.851	burn (vb trans)	is-na
+1.852	burn (vb intrans)	ta-leles
+1.86	light, kindle, ignite	ɓa-ta-les
+1.861	extinguish	ros-na
+1.87	match (noun)	pah-wela
+1.88	firewood	koʔo
+1.89	charcoal	ɗe-la-kʷa
+2.1	person, human being	huye-ni
+2.21	man (vs. woman)	iti-la-kʷa
+2.22	woman	kʷeya
+2.23	male	
+2.24	female	
+2.25	boy	ɗiči-ye
+2.251	young man (adolescent)	oβeni-wankʷa
+2.26	girl	ɗiči-ye
+2.261	young woman (adolescent)	tol-kosya
+2.27	child	ɗiči-ye
+2.28	infant, baby	tami-ɓa
+2.31	husband	al-wah
+2.32	wife	al-wah
+2.33	marry	na-ye
+2.34	marriage, wedding	na-ye-wanas
+2.341	divorce	--
+2.35	father	paʔa
+2.36	mother	maʔa
+2.37	parents	ɓihaha-wa
+2.38	married man	na-ye-wanne
+2.39	married woman	na-ye-wanne
+2.41	son	mah-ni
+2.42	daughter	mah-ni
+2.43	offspring (son or daughter)	mah-ni
+2.44	brother	al-lakʷa
+2.444	older brother	a-kai
+2.445	younger brother	a-na
+2.45	sister	al-kʷeya
+2.454	older sister	a-kai
+2.455	younger sister	a-na
+2.456	sibling	al-len
+2.458	twins	
+2.46	grandfather	nonoʔo
+2.461	old man	ɓitoʔo
+2.47	grandmother	nonoʔo
+2.471	old woman	ɓitoʔo
+2.48	grandson	ona-čo
+2.49	granddaughter	ona-čo
+2.51	uncle	yayaʔa
+2.511	mother's brother	yayaʔa
+2.512	father's brother	yayaʔa
+2.52	aunt	aiku
+2.521	mother's sister	aiku
+2.522	father's sister	aiku
+2.53	nephew	yani-kai
+2.54	niece	yani-kai
+2.55	cousin	--
+2.56	ancestors	hei-ɬe
+2.57	descendants	mah-ni
+2.61	father-in-law (of a man)	ul-čaɬ
+2.611	father-in-law (of a woman)	ul-čaɬ
+2.62	mother-in-law (of a man)	ul-čaɬ
+2.621	mother-in-law (of a woman)	ul-čaɬ
+2.63	son-in-law (of a man)	ul-čaɬ
+2.631	son-in-law (of a woman)	ul-čaɬ
+2.64	daughter-in-law (of a man)	ul-čaɬ
+2.641	daughter-in-law (of a woman)	ul-�aɬ
+2.71	stepfather	--
+2.72	stepmother	--
+2.73	stepson	--
+2.74	stepdaughter	--
+2.75	orphan	ɓata-yah
+2.76	widow	kaini-ɓeɬ
+2.77	widower	kaini-ɓeɬ
+2.81	relatives, kinsmen	al-kaka-ye
+2.82	family	--
+2.91	I	inɬa
+2.92	you (singular)	ul-kʷan̉
+2.93	he/she/it	us-ko; is-ne; as-ko
+2.94	we	--
+2.941	we (inclusive)	i-ɗe
+2.942	we (exclusive)	iʔ-ɬi
+2.95	you (plural)	i-ɓi
+2.96	they	is-ko
+3.11	animal	popoi-kʷa
+3.12	male (adj)	--
+3.13	female (adj)	--
+3.15	livestock	nono-wam-poi
+3.16	pasture	--
+3.18	herdsman	βela-poi-pa
+3.19	stable, stall	[kawayo]-wanɗi
+3.2	cattle (bovine)	[waka]
+3.21	bull	[toro]
+3.22	ox	[weye]
+3.23	cow	[waka]
+3.24	calf	--
+3.25	sheep	[masa]
+3.26	ram	--
+3.28	ewe	--
+3.29	lamb	--
+3.32	boar	kayoti
+3.34	sow	--
+3.35	pig	koči
+3.36	goat	[čiβo]
+3.37	he-goat	[čiβo]
+3.38	kid	--
+3.41	horse (equine)	[kawayo]
+3.42	stallion	[portro]
+3.44	mare	[yewa]
+3.45	foal, colt	--
+3.46	ass, donkey	[ɓuro]
+3.47	mule	[mula]
+3.5	fowl	hoʔme
+3.52	cock, rooster	toro-ware
+3.54	hen	mata-ware
+3.55	chicken	hoʔme
+3.56	goose	--
+3.57	duck	kon̉-kore
+3.58	nest	ɓaɓaɬ-kʷa
+3.581	bird	hoʔme
+3.582	seagull	letos
+3.583	heron	toɓa
+3.584	eagle	
+3.585	hawk	
+3.586	vulture	tuspaʔa
+3.591	bat	ɓosin̉
+3.592	parrot	sariɗi
+3.593	crow	čača
+3.594	dove	toloɗo
+3.596	owl	suwuwunta
+3.61	dog	pako
+3.614	rabbit	ɓatus
+3.62	cat	miči
+3.622	opossum	pusa-ra
+3.63	mouse, rat	noɬ-kʷa
+3.65	fish	ɓi-lau
+3.652	fin (dorsal)	
+3.653	fishscale	
+3.654	gill	
+3.655	shell	momoɬ-kʷa
+3.661	shark	--
+3.662	porpoise, dolphin	pah-ʔi
+3.663	whale	--
+3.664	stingray	čaβoʔo
+3.665	freshwater eel	ɓurai
+3.71	wolf	--
+3.72	lion	ɗonto-kʷa
+3.73	bear	ɓanama
+3.74	fox	pako-nanaʔa
+3.75	deer	ɗauhes
+3.76	monkey	si-ɗoh
+3.77	elephant	[elepante]
+3.78	camel	--
+3.81	insect	
+3.811	louse	ɗamʔi
+3.812	nit (louse egg)	
+3.813	flea	
+3.814	centipede	čaβoʔɬeɬeu-mo
+3.815	scorpion	kun̉-sisiwa
+3.816	cockroach	moɗon̉
+3.817	ant	či-heɬ
+3.818	spider	si-wa
+3.819	spider web	
+3.82	bee	čuiɗi
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	omaile
+3.83	fly	ɗumui
+3.831	sandfly (midge), gnat	čičin̉ɬa
+3.832	mosquito	kawun̉
+3.84	worm	rumʔi
+3.85	snake	mimiɗi
+3.91	firefly	ɗetaɗi
+3.92	butterfly	ɗelto-βen̉
+3.93	grasshopper	
+3.94	snail	mehɬa
+3.95	frog	siɓa
+3.96	lizard	sikoʔya
+3.97	crocodile, alligator	yonali
+3.98	turtle	sono
+4.11	body	loɓaɓa
+4.12	skin, hide	to-ɓen̉-kʷakʷa
+4.13	flesh	[waka]
+4.14	hair (head)	risa-kʷa
+4.142	beard	čuska-mora
+4.144	body hair	risa-kʷa
+4.145	pubic hair	
+4.146	dandruff	
+4.15	blood	ɗonʔi
+4.151	vein, artery	
+4.16	bone	nunʔi
+4.162	rib	ɓeβes-kʷakʷa
+4.17	horn	čan-kʷa
+4.18	tail	ɓa-ɬeu-kʷa
+4.19	back	ɗuɗu-kʷa
+4.191	spine	ɗuɗu-kʷakʷa
+4.2	head	ba-kʷakʷa
+4.201	side of head, temple	
+4.202	skull	
+4.203	brain	taβalo-ɓakʷa-ni
+4.204	face	mora-kʷa
+4.205	forehead	ɓe-ra
+4.207	jaw	kʷinto-nun
+4.208	cheek	poh-ra
+4.209	chin	
+4.21	eye	čo-ra
+4.212	eyebrow	ɓaɬ-ra-kʷa
+4.213	eyelid	moɬ-ra-kʷa
+4.214	eyelash	lowan-ɗi
+4.215	blink	lilim̉-wa
+4.22	ear	lon̉-toto
+4.221	earlobe	wolo-toto
+4.222	earwax	
+4.23	nose	ɓači-kʷa
+4.231	nostril	
+4.232	mucus (nasal)	noro-čičimɬa
+4.24	mouth	kʷana-kʷa
+4.241	beak	tuʔ-ɬaʔa
+4.25	lip	ɗosɬa-kʷa
+4.26	tongue	ruɬ-kʷa
+4.27	tooth	soi-ɬa
+4.271	gums	ɓala-kʷa
+4.272	molartooth	
+4.28	neck	woroʔo
+4.281	nape of neck	
+4.29	throat	takaka-kʷa
+4.3	shoulder	ɗolala-kʷa
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	ɓosa-kʷa
+4.312	armpit	čowi-kʷa
+4.32	elbow	ɓaru-kʷa
+4.321	wrist	
+4.33	hand	čopa
+4.331	palm of hand	
+4.34	finger	ɗimpa
+4.342	thumb	
+4.344	fingernail	čo-rimpa
+4.345	claw	
+4.35	leg	ɬari-kʷa
+4.351	thigh	ɗino-kʷa
+4.352	calf of leg	
+4.36	knee	ɓamo-kʷa
+4.37	foot	ɓari-kʷa
+4.371	ankle	
+4.372	heel	ɓasi-kʷa
+4.374	footprint	
+4.38	toe	ɗim-poh
+4.392	wing	toβai-kʷa
+4.393	feather	mumun̉-kʷa
+4.4	chest	ɓeʔ-ɬaɬa-kʷa
+4.41	breast (of woman)	čah-kʷa
+4.412	nipple, teat	
+4.42	udder	
+4.43	navel	ɗim-mo-kʷa
+4.44	heart	hasɬa-wanra
+4.441	lung	[pulmone]
+4.45	liver	sonɗo
+4.451	kidney	torin-ɗi
+4.452	spleen	
+4.46	stomach	hasɬa-wanra
+4.461	intestines, guts	čirus-kʷa
+4.462	waist	
+4.463	hip	mosi-kʷakʷa
+4.464	buttocks	ɗinsi-kʷa
+4.47	womb	čoɗowi-kʷa
+4.49	testicle	hoɬ-kʷakʷa
+4.492	penis	teya-kʷa
+4.51	breathe, breath	ɬou-ka-teʔe
+4.52	yawn, gape	halai-kʷa
+4.521	hiccough	ɬeʔ-kʷa
+4.53	cough	howo-kʷa
+4.54	sneeze	čis-kʷa
+4.55	perspire	tayoka
+4.56	spit	ɗoton̉-ɬa
+4.57	vomit	lel-kʷa
+4.58	bite	lam̉-na
+4.59	lick	ɗoi-na
+4.591	dribble	či-lo-si
+4.61	sleep	horo-kʷa
+4.612	snore	ɬoro-ɗon̉
+4.62	dream	ɓeisi-kʷa
+4.63	wake up	tama-ye
+4.64	break wind	roson̉-kʷa
+4.65	urinate	čoh-kʷa
+4.66	defecate	momo-kʷa
+4.67	have sexual intercourse	
+4.68	shiver	lititi
+4.69	bathe	ɬam̉-ɬam̉
+4.71	beget (of father)	mah-mah-nina
+4.72	born (to be)	tami-ɬe
+4.73	pregnant	himo-ɓa
+4.732	conceive	ham-ɓaičo
+4.74	live, living, life	i-teʔ-ni
+4.75	die, dead	kai-ni
+4.751	drowned	kai-ni-loɬ
+4.76	kill	tikoi-na
+4.77	corpse	loɓaɓa
+4.78	bury (the dead)	wulako-čaye
+4.79	grave, tomb	koača
+4.81	strong, mighty, powerful	ɗin̉-teh
+4.82	weak	ɗin̉-teh-ɬeɬe
+4.83	well, health	ya-yuʔu
+4.84	sick, sickness	tera-ni
+4.841	fever	romoi
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	ɗailoβa-wawa
+4.852	bruise	
+4.853	swelling	wotos-ni
+4.854	itch	čukul-ni
+4.855	blister	woslo-ɬe
+4.856	boil (noun)	sin̉-ʔi
+4.857	pus	ɗon̉-lowa
+4.858	scar	
+4.86	cure, heal	ta-raɬ-poh-na
+4.87	physician	lawahes-čaye-pa
+4.88	medicine, drug	lawahes
+4.89	poison	[βeneno]
+4.91	tired, weary	ɓa-teʔe
+4.912	rest	ah-teteh
+4.92	lazy	kʷayi-ma
+4.93	bald	tos-ɓa-kʷa
+4.94	lame	tes-ka-ɗi-wa
+4.95	deaf	sin̉-loto
+4.96	mute	lol-wani-wansi
+4.97	blind	sin̉-čora
+4.98	intoxicated	laya-kʷa
+4.99	naked, bare	banne
+5.11	eat	kai-kai
+5.12	food	kana
+5.121	cooked	is-ʔi
+5.122	raw	mol-ra
+5.123	ripe	ɓeu-ni
+5.124	green, unripe	mol-ra
+5.125	rotten	ɗon̉-ra-ni
+5.13	drink	ya-lo-we
+5.14	hunger	mau-ʔi
+5.141	famine	mau-ʔi-wawa
+5.15	thirst	yalowe-sičakʷa
+5.16	suck	čulum-na
+5.18	chew	ɗon-ka-ɓa-na
+5.181	swallow	koke-ɬe
+5.19	choke	sin̉-čočoɬ-na
+5.21	cook	ɗehahal
+5.22	boil (vb)	lo-kokon̉
+5.23	roast, fry	is-na
+5.24	bake	taya-ko
+5.25	oven	[horno]
+5.26	pot, cooking vessel	wutu
+5.27	kettle	
+5.28	pan	ča-paye
+5.31	dish	ča-ɗo
+5.32	plate	ča-ɗo
+5.33	bowl	sapaʔ-mo
+5.34	pitcher, jug	loto-ɓa
+5.35	cup, drinking vessel	sapaʔ-mo
+5.36	saucer	--
+5.37	spoon	[kučara]
+5.38	knife	kači-ra
+5.39	fork	tirin-či
+5.391	tongs	
+5.41	meal (a)	kana
+5.42	breakfast	--
+5.43	lunch	čonsi-tiʔi
+5.44	dinner	lo-kʷa
+5.45	supper	--
+5.46	peel	tos-na
+5.47	sieve, strain	kona-ɬe
+5.48	scrape	ɓoɬ-na
+5.49	stir, mix	pos-na
+5.51	bread	pam-ɓa
+5.53	dough	činaɬa-ɓun̉
+5.54	knead	nika-ɓa
+5.55	meal, flour	[arina]-βas
+5.56	crush, grind	latos-na
+5.57	mill	
+5.58	mortar	enɬe-ɗuʔu
+5.59	pestle	ɓarin-kʷa
+5.61	meat	[waka]-toɗa
+5.63	sausage	--
+5.64	soup, broth	pola-kaka-loɬ
+5.65	vegetables	--
+5.66	bean	ma-ɗo
+5.7	potato	[papa]
+5.71	fruit	ɓaɓa-kʷa
+5.712	bunch	po-heɬ
+5.75	fig	--
+5.76	grape	--
+5.77	nut	čuhan̉-mo
+5.78	olive	--
+5.79	oil	[aseite]
+5.791	grease, fat	mes-kʷa
+5.81	salt	ɗoyon̉
+5.82	pepper	--
+5.821	chili pepper	čihi
+5.84	honey	čuiɗin-lo
+5.85	sugar	[asukar]
+5.86	milk (noun)	non-lo
+5.87	milk (vb)	či-na-čo
+5.88	cheese	[keso]
+5.89	butter	--
+5.9	beverage, drink	ya-lo-we
+5.91	mead	--
+5.92	wine	[wino]
+5.93	beer	--
+5.94	fermented drink	poʔ-so
+5.97	egg	hoɬ-kʷa
+5.971	egg yolk	ti-čo
+6.11	put on (clothes)	ɗoʔwe-čeɬ
+6.12	clothing, clothes	ɗoʔwe
+6.13	tailor	--
+6.21	cloth	ɗoʔwe-wan-oh
+6.22	wool	--
+6.23	linen, flax	--
+6.24	cotton	buhɗin-mori
+6.25	silk	--
+6.27	felt	--
+6.28	fur	risa-kʷa
+6.29	leather	ɓeɓen̉-kʷa
+6.31	spin	haβun̉-na
+6.32	spindle	
+6.33	weave	sama-ɗin-ɬeu
+6.34	loom	
+6.35	sew	sita-ʔoh
+6.36	needle	mo-ɗin-ɬaris
+6.37	awl	
+6.38	thread	ɓuh-ɗi
+6.39	dye	lowewe
+6.41	cloak	
+6.411	poncho	
+6.42	woman's dress	čon-ʔoh
+6.43	coat	--
+6.44	shirt	[kamisa]
+6.45	collar	wo-roʔo
+6.46	skirt	
+6.461	grass-skirt	--
+6.48	trousers	[karsone]
+6.49	stocking, sock	--
+6.51	shoe	[sapato]
+6.52	boot	--
+6.54	shoemaker, cobbler	--
+6.55	hat, cap	čoran-kʷan-to
+6.57	belt, girdle	sun̉-ka-pin̉
+6.58	glove	--
+6.59	veil	--
+6.61	pocket	[ɓosiya]
+6.62	button	[wotone]
+6.63	pin	
+6.71	ornament, adornment	ti-heʔe
+6.72	jewel	--
+6.73	ring (for finger)	[sortiha]
+6.74	bracelet	--
+6.75	necklace	nowe-ɗi
+6.76	bead	ɗiɗin-kʷa
+6.77	earring	mon̉-loto
+6.78	headband, headdress	
+6.79	tattoo	--
+6.81	handkerchief, rag	ɗoʔwe-wan-oh
+6.82	towel	--
+6.91	comb	e-ɬa
+6.92	brush	--
+6.921	braid	sama-ɗin-ɬeu
+6.93	razor	--
+6.94	ointment	[pomaɗa]
+6.95	soap	[hawol]
+6.96	mirror	[espeho]
+7.11	dwell, live	as-kʷaʔa
+7.12	house	as-na
+7.13	hut	
+7.131	garden-house	--
+7.14	tent	[tolɗo]
+7.15	yard, court	lolos
+7.16	men's house	--
+7.17	cookhouse	ɗehahal-wanas
+7.18	meeting house	in̉-loɓa-wanɗi
+7.21	room	tan̉-čo
+7.22	door, gate	ra-ɗa
+7.221	doorpost, jamb	
+7.23	lock (noun)	--
+7.231	latch, door-bolt	--
+7.24	key	--
+7.25	window	[wentana]
+7.26	floor	ɬakam̉-ɓa
+7.27	wall	ɬaβaɬ-kʷa
+7.31	fireplace	βeʔe-wanas
+7.32	stove	--
+7.33	chimney	--
+7.37	ladder	
+7.42	bed	horo-wanas
+7.421	pillow	
+7.422	blanket	ɓoʔ-we-wanra-ni
+7.43	chair	[siya]
+7.44	table	[mesa]
+7.45	lamp, torch	[lamparina]
+7.46	candle	βeʔe-pin̉
+7.47	shelf	
+7.48	trough	rawe-ta
+7.51	roof	ko-re
+7.52	thatch	ɗi-mas
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	čaʔ-βos
+7.57	board	[taula]
+7.58	arch	--
+7.61	mason	--
+7.62	brick	--
+7.63	mortar	--
+7.64	adobe	toto-kʷa
+8.11	farmer	ɓai-ɬim-pa
+8.12	field (for cultivation)	ɓai-ɬim
+8.13	garden	ɓai-ɬim
+8.15	cultivate, till	ɓai-ɬim-tiʔi
+8.16	fence	čaʔ-ɓes
+8.17	ditch	[sanha]
+8.21	plow	--
+8.212	furrow	
+8.22	dig	woʔ-na
+8.23	spade	--
+8.24	shovel	čaka-tora-wa
+8.25	hoe	--
+8.26	fork	
+8.27	rake	--
+8.31	sow	raka-mo-čo-na
+8.311	seed	ɗiɗin-kʷa
+8.32	mow, reap	
+8.33	sickle, scythe	--
+8.34	thresh	haβuɬ-na
+8.35	threshing-floor	--
+8.41	crop, harvest	ɓaʔ-na
+8.42	grain (barley, oats etc)	
+8.43	wheat	[trigo]
+8.44	barley	--
+8.45	rye	--
+8.46	oats	--
+8.47	maize, corn	kʷah-taʔa
+8.48	rice	[aroso]
+8.51	grass	ɗi-mas
+8.52	hay	--
+8.53	plant (noun)	
+8.531	plant (vb)	wul-na
+8.54	root	ɗuɗuɬ-kʷa
+8.55	branch	toleh-kʷa
+8.56	leaf	loran-kʷa
+8.57	flower	morin-kʷa
+8.6	tree	koʔo
+8.61	oak	--
+8.62	beech	--
+8.63	birch	--
+8.64	pine	--
+8.65	fir	--
+8.66	acorn	--
+8.67	vine	
+8.68	tobacco	yoma-ris
+8.69	smoke (tobacco)	[sekaru]-na
+8.691	pipe	
+8.72	tree stump	ɗuɗuɬ-kʷa
+8.73	tree trunk	ɓoɓoh-kʷa
+8.74	forked branch	čaʔ-ɬa
+8.75	bark	to-ɓen̉-kʷa
+8.76	sap	lo-si-kʷa
+8.81	palm tree	
+8.82	coconut	--
+8.83	citrus fruit	[limo]
+8.84	banana tree	pere
+8.85	banyan	--
+8.91	sweet potato	
+8.912	yam	
+8.92	tapioca, manioc, cassava	čina-ɬa
+8.93	gourd	sawam-po
+8.931	pumpkin, squash	sawam-po
+8.94	bamboo	
+8.941	sugar cane	ča-raye
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	wolototo
+9.11	do, make	hisa-na
+9.12	work	tih-ka-rim
+9.14	bend	watul-na
+9.15	fold	ya-na-ɓa
+9.16	tie, bind	hama-ɬe
+9.161	untie	mata-ɬe
+9.18	chain	[kaɗena]
+9.19	rope, cord	ɗaβul-čo-ɗi
+9.192	knot (noun)	
+9.21	strike (hit, beat)	ɓai-na
+9.211	pound with fist	han̉-na
+9.22	cut	ɗaha-čo-na
+9.221	cut down	lata-ɓoh
+9.222	chop, hew	lan̉-na
+9.223	stab	čaʔ-na
+9.23	knife	ka-či-ra
+9.24	scissors, shears	[tihera]
+9.25	ax	lai-ɬa
+9.251	adze	--
+9.26	break	kan̉-ka-čo-na
+9.261	broken	ruh-ra
+9.27	split	oi-ka-pin̉
+9.28	tear	peɬa-čo-na
+9.29	flay, skin	tos-ɓen̉-na
+9.31	rub, wipe	hus-na
+9.32	stretch	ɬowa-pin̉
+9.33	pull	ɬowe-ɬe
+9.34	spread out	pasin̉-na
+9.341	hang up	oɬa-ɬe
+9.342	press	roma-čo
+9.343	squeeze, wring	roma-lo
+9.35	pour	yeɬ-na
+9.36	wash	loh-na
+9.37	sweep	pula-čo
+9.38	broom	pupu-mo
+9.422	tool	
+9.43	carpenter	roya-pa
+9.44	build	en-poh-na
+9.46	bore	raɬa-čo
+9.461	hollow out	
+9.48	saw	hiɬ-ka-pin̉-na
+9.49	hammer	[martiyo]
+9.5	nail	[kalaβo]
+9.56	glue	
+9.6	smith, blacksmith	--
+9.61	forge	--
+9.62	anvil	--
+9.63	cast (metals)	--
+9.64	gold	[oro]
+9.65	silver	[polata]
+9.66	copper, bronze	--
+9.67	iron	[hiyero]
+9.68	lead (noun)	--
+9.69	tin, tinplate	--
+9.71	potter	paya-ɓa-pa
+9.72	mold (clay etc)	paya-ɓa
+9.73	clay	ɓuɓun̉-kʷa
+9.74	glass	
+9.75	weave, plait	sama-ɗin-ɬeu
+9.76	basket	sam-res-mo
+9.77	mat	powol
+9.771	rug	--
+9.78	netbag	
+9.79	fan (noun)	hum̉-wanra-ni
+9.791	fan (vb)	hum̉-čeɬ
+9.81	carve	ɗase-ɬe
+9.82	sculptor	--
+9.83	statue	--
+9.84	chisel	--
+9.88	paint (noun)	[pintura]
+9.89	paint (vb)	[pintar]-na
+10.11	move	i-ye-ni
+10.12	turn over	βola-čo
+10.13	turn around	ɗa-pil-na
+10.14	wind, wrap	sum̉-na
+10.15	roll	pila-čo
+10.16	drop (vb)	tata-βos-eɬ-na
+10.17	twist	yon̉-čeɬ
+10.21	rise	ɗeʔ-ɬeɬe
+10.22	raise, lift	pota-mo
+10.23	fall	tam̉-βos-eɬ
+10.24	drip	či-lolo
+10.25	throw	haran̉-na
+10.252	catch (ball)	yon̉-na
+10.26	shake	lirih-na
+10.32	flow	sa-βau-tiʔi
+10.33	sink	ya-ɓa-kʷa
+10.34	float	pam̉-pam̉
+10.35	swim	ko-ma-lo
+10.351	dive	lum̉-lum̉
+10.352	splash	rupe-ɬe
+10.36	sail (vb)	
+10.37	fly (vb)	ha-βuh-ɓuʔu
+10.38	blow	ha-βuɬ-na
+10.41	creep, crawl	wel-čo
+10.412	kneel	en-či-na-mo
+10.413	crouch	wa-ɗul-pin̉
+10.42	slide, slip	ka-čin̉-ni
+10.43	jump, leap	ɗes-čeɬ
+10.431	kick	ɬeke-ɬe
+10.44	dance	telo
+10.45	walk	i-lo-ni
+10.451	limp	tes-čeɬ
+10.46	run	hayi
+10.47	go	hoi-wa
+10.471	go up	wele-ɬe
+10.472	climb	wele-ɬe
+10.473	go down	tam̉-ɓa-ɬe
+10.474	go out	čiči
+10.48	come	hi-wawa
+10.481	come back	sal-moɬ
+10.49	go away, depart	nan-ɗuʔ-wa
+10.491	disappear	ɗe-wahaʔa
+10.51	flee	hai-wane-ɬe
+10.52	follow	kʷei-na
+10.53	pursue	kʷeya-seɬ-na
+10.55	reach, arrive	hoʔ-yah
+10.56	approach	nen-kʷa-niwa
+10.57	enter	am-on
+10.61	carry (bear)	pen̉-na
+10.612	carry-in-hand	ɬi-na
+10.613	carry-on-shoulder	hoya-ɬe
+10.614	carry-on-head	ha-karim
+10.615	carry-underarm	ɬi-na
+10.62	bring	hiwa-ɬe-na
+10.63	send	ho-paye-na
+10.64	lead (vb)	onah-ɬe-na
+10.65	drive	tuka-ɬe
+10.66	ride	as-poye-ɬe
+10.67	push, shove	use-ɬe
+10.71	road	pai-towa
+10.72	path	to-waneɬ
+10.74	bridge	
+10.75	carriage, wagon, cart	[kareta]
+10.76	wheel	
+10.77	axle	
+10.78	yoke	
+10.81	ship	--
+10.83	boat	[barko]
+10.831	canoe	huβe
+10.832	outrigger	--
+10.84	raft	
+10.85	oar	
+10.851	paddle (noun)	sala-ye-ɗo
+10.852	row (vb)	saya-βe
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	--
+10.91	harbor, port	to-kʷikʷi
+10.92	land (vb)	ɗita-βe
+11.11	have	ninin-ɬa
+11.12	own, possess	ninɬ-niɬ-na
+11.13	take	sui-na
+11.14	seize, grasp	wai-pa
+11.15	hold	eu-na
+11.16	get, obtain	ɓaʔ-kʷi
+11.17	keep, retain	ah-pa-na
+11.18	thing	ko-wa
+11.21	give	kaya-ɬe
+11.22	give back	čonah-na
+11.24	preserve, look after	aya-ye-na
+11.25	save, rescue	toka-yah-na
+11.27	destroy	ɓa-ka-lomah-na
+11.28	harm, injure, damage	kea-ra-na
+11.31	seek, look for	sal-na
+11.32	find	duma-ye
+11.33	lose	kʷale-na
+11.34	release, let go	nana-ra
+11.43	money	[polata]
+11.44	coin	[real]
+11.51	rich	[riko]
+11.52	poor	kʷah-pa
+11.53	beggar	
+11.54	avaricious, stingy	ui-yei-na
+11.61	lend	ɓo-te
+11.62	borrow	ɓote-poh-na
+11.63	owe	ɓawa-ɓawa-ra
+11.64	debt	ɓawa-ɓawa-ra
+11.65	pay (vb)	ɓawa-ra
+11.66	account, reckoning	heyaʔa
+11.69	tax, tribute	[multa]
+11.77	hire	čina-čo-čaye
+11.78	wages	ɓau-ra
+11.79	earn	ɓaʔ-kʷi
+11.81	buy	rim-eɬ-na
+11.82	sell	rim-a-ɬe
+11.83	trade, barter	ɓau-ra-na
+11.84	merchant	rim-a-ɬe-pa
+11.85	market (place)	rim-ɬe-karim-wanas
+11.86	store, shop	[tienɗa]
+11.87	price	čon-rim-eɬ
+11.88	dear (costly, expensive)	ɗin̉-rim-eɬ
+11.89	cheap	ɓei-rim-eɬ
+11.91	share (distribute)	kʷahe-na
+11.92	weigh	paʔ-na
+12.1	after	hai-ɬe
+12.11	behind	mo-sisi
+12.2	beside	al-pan-ɬe
+12.3	down, below	yan̉-lo
+12.4	before	ɓu-raɗa
+12.41	front	em-ɓura-ɗaʔa
+12.5	inside, in	čo-ɗowi
+12.6	outside	ɓan̉-kʷan-ɬe
+12.7	under	ɗai-ko
+12.8	up, above	[ariwa]
+12.11	place	as-kʷaʔa
+12.12	put	ɓan̉-na
+12.13	sit	as-čeɬ
+12.14	lie down	ɗe-čeɬ
+12.15	stand	en-čeɬ
+12.16	remain, stay	ela-ye
+12.17	remains, left overs	pun̉-ra-ni
+12.21	collect, gather	kul-na
+12.212	pick up	wai-na
+12.213	pile up	sotaʔ-loɓa-na
+12.22	join, unite	in̉-na
+12.23	separate	sotah-na
+12.232	divide	al-ka-čo-waniɬ-na
+12.24	open	kel-na
+12.25	shut, close	poʔ-na
+12.26	cover	ɓoʔwe-na
+12.27	hide, conceal	kʷala-ra
+12.31	high	ku-ɗes
+12.32	low	yan̉-lo
+12.33	top	čuru-ɗuʔu
+12.34	bottom	ya-si-ni-wa
+12.35	end	ka-ɗeʔe
+12.352	pointed	peʔ-res
+12.353	edge	tori-ɗi
+12.36	side	toma-haʔa
+12.37	middle, center	tam-pin̉-ni
+12.41	right (side)	čo-ni
+12.42	left (side)	ho-li
+12.43	near (adv)	su-we
+12.44	far (adv)	kiʔ-lah
+12.45	east	
+12.46	west	
+12.47	north	čoi-muh
+12.48	south	ku-hui
+12.53	grow	ɓihau-ni
+12.54	measure	paʔ-na
+12.541	span, fathom	
+12.55	large, big	mereʔe
+12.56	small, little	to-čiʔi
+12.57	long	ku-ra
+12.58	tall	ku-ɗes
+12.59	short	te-ɗes
+12.61	wide, broad	pou-čo
+12.62	narrow	to-čiʔ-čo
+12.63	thick (in dimension)	ɗu-yuʔu
+12.65	thin (in dimension)	so-roi-ni
+12.67	deep	ku-si
+12.68	shallow	te-si
+12.71	flat	im-kaka-wah-ni
+12.73	straight	čon-lo
+12.74	crooked	hapa-ɬe
+12.75	hook	hah-ɬe
+12.76	corner	to-čiči
+12.77	cross	toʔ-piɬe
+12.78	square	--
+12.81	round	ha-pil
+12.82	circle	ha-pil-na
+12.83	sphere, ball	[pelota]
+12.84	line	ɗaβul-ɗi
+12.85	hole	raɬ-čočo
+12.92	like, similar	im-kara-ni
+12.93	change	ɓon̉-ra
+13.0	zero, nothing	
+13.1	one	sotaʔ-ra
+13.2	two	oi-ra
+13.3	three	tas-ra
+13.4	four	oi-ka-ra
+13.5	five	[sinko]
+13.6	six	
+13.7	seven	
+13.8	eight	
+13.9	nine	
+13.10	ten	
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	
+13.106	thousand	
+13.107	count	paʔ-na
+13.14	every, all	ɓa-ra
+13.15	much, many	kau-ra
+13.16	more	ɗo-čiʔi
+13.17	little (quantity), few	ɓei-ra
+13.18	enough	mana-ra
+13.181	some	kaka-ra
+13.19	multitude, crowd	ka-we
+13.21	full	ɗol-ra
+13.22	empty	hem-me
+13.23	part, piece	ɓei-ka-ra
+13.24	half	tam-pin̉
+13.33	alone, only	sokaʔ-te
+13.34	first	nai-či
+13.35	last	yaʔ-ko
+13.36	second	oi-ra-ni-nira
+13.37	pair	sotaʔ-to-βah
+13.38	two times	oi-lomah
+13.42	third	tas-ra-ni-nira
+13.44	three times	tas-lomah
+14.11	time	
+14.12	age	han-ka-tinnonaʔ-kʷi
+14.13	new	pola-ra
+14.14	young	o-βe-ni
+14.15	old	ɓi-hau
+14.16	early	po-ra-ka
+14.17	late	po-la
+14.18	now	al-ka-βa
+14.19	immediately	yaʔ-ɬe
+14.21	swift, fast, quick	so-rin̉
+14.22	slow	hi-ɓal
+14.23	hasten, hurry	ɗin̉-ka-ye
+14.24	retard, delay	aya-na
+14.25	begin, beginning	ɓan̉-win̉
+14.252	last, endure	ɗi-ra
+14.26	end (temporal)	ya-lomah
+14.27	finish	ɓa-lomah
+14.28	cease, stop	ah-teʔe
+14.29	ready	loi-ʔi
+14.31	always	hem-piteɬ
+14.32	often	čon̉
+14.33	sometimes	kaka-lomah
+14.331	soon	al-ka-βani
+14.332	long-time (for a)	kau-yemes
+14.34	never	eɬaʔ-lomah-ni
+14.35	again	rei-ka
+14.41	day	he-mes
+14.42	night	i-mai-ni
+14.43	dawn	čon-mayo
+14.44	morning	i-mayo
+14.45	noon, midday	čon-si
+14.451	afternoon	wa-lai-lo
+14.46	evening	wa-lai-lo
+14.47	today	neye-mes
+14.48	tomorrow	tawaʔ-ni
+14.481	day-after-tomorrow	oi-yemes-na-wawa
+14.49	yesterday	laʔ-hemes
+14.491	day-before-yesterday	
+14.51	hour	[ora]
+14.53	clock, timepiece	[relo]
+14.61	week	[semana]
+14.62	Sunday	[lomiko]
+14.63	Monday	[lunes]
+14.64	Tuesday	[maretes]
+14.65	Wednesday	[mierkoles]
+14.66	Thursday	[weβes]
+14.67	Friday	[mierenes]
+14.68	Saturday	[sawaɗo]
+14.71	month	yeh-čo
+14.73	year	tinno-naʔa
+14.74	winter	tomi-wawa
+14.75	spring	ɓaʔkʷin-wawa
+14.76	summer	osni-wawa
+14.77	autumn	--
+14.78	season	--
+15.21	smell (vb intrans)	ho-es-ni
+15.212	sniff	sen-na
+15.22	smell (vb trans)	pa-yes-na
+15.25	fragrant, good smelling	hira-nes-ni
+15.26	stinking, bad smelling	pusa-ni
+15.31	taste	o-wes-na
+15.35	sweet	ta-ɗoi-ni
+15.36	salty	ɬo-maʔ-ni
+15.37	bitter	sese-ni
+15.38	acid, sour	rapis-ni
+15.39	brackish	ɬom-ɗi-ni
+15.41	hear	pa-loto
+15.42	listen	pa-wa-na
+15.44	sound, noise	ɗin̉-sineɬ
+15.45	loud	ɗitas-ɬe
+15.46	quiet, silence	ɗai-lo
+15.51	see	ɗe-wah-na
+15.52	look, look at	βel-na
+15.55	show	čusa-pa
+15.56	shine	heʔ-les-ni
+15.57	bright	heʔ-les
+15.61	color	lowe-kʷi
+15.62	light (in color)	ta-βoh-ni
+15.63	dark (in color)	tu-βus-ni
+15.64	white	ta-βoh
+15.65	black	tun-ni
+15.66	red	rapal
+15.67	blue	suβu
+15.68	green	noʔna
+15.69	yellow	sere
+15.71	touch	tol-na
+15.712	pinch	ɓin̉-na
+15.72	feel	pa-yes-na
+15.74	hard	ɗin̉-ra
+15.75	soft	hu-sau-ni
+15.76	rough	ča-puh-ni
+15.77	smooth	ti-ɬoi-ni
+15.78	sharp	pe-res-ni
+15.79	blunt, dull	pe-res-ɬeʔe
+15.81	heavy	ɗinoʔ-ni
+15.82	light (in weight)	sa-ɗoi-ni
+15.83	wet, damp	luʔ-ɗai-ni
+15.84	dry	we-rel-ni
+15.85	hot	kʷah-les
+15.851	warm	tayo-ka
+15.86	cold	hilo-ka
+15.87	clean	ha-yau
+15.88	dirty, soiled	čo-es-ni
+15.89	wrinkled	sulu-ni
+16.11	soul, spirit	ɓau-ra-wawa
+16.15	surprised, astonished	hol-ɓaičo
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	ɓele-ka
+16.25	laugh	ho-si-čeɬ
+16.251	smile	yo-me-čeɬ
+16.26	play	kʷina-naʔa
+16.27	love	kʷah-es-na
+16.29	kiss	pu-run̉-na
+16.3	embrace	huɬ-na
+16.31	pain	tiβih
+16.32	grief, sorrow, sadness	ruh-ka-ɓaičo
+16.33	anxiety, worry	ruhal-ni-wa
+16.34	regret, be sorry	ɬaβo-ye
+16.35	pity	ɬaβo-ye-na
+16.37	cry, weep	hiyi
+16.38	tear (noun)	hiwan-lo
+16.39	groan	
+16.41	hate	ɗona-ye
+16.42	anger	sutu-ka
+16.44	envy, jealousy	kema-ye-ɬe
+16.45	shame (noun)	čaha-ni-wa
+16.48	proud	hon̉-ka-toɬ
+16.51	dare	mirin̉-čeɬ
+16.52	brave	o-βe-ni
+16.53	fear, fright	tino-ka
+16.54	danger	o-mau-ni
+16.62	desire, want	yei-na
+16.622	choose	hon̉-na
+16.63	hope	ɗis-ɬan̉-wa
+16.65	faithful	hina-ye-wa
+16.66	true	čon-lomah
+16.67	lie, tell lies	tiha-si
+16.68	deceit	kil-mo
+16.69	forgive	tata-ɓaɬ-kʷa
+16.71	good	ɗo-koi
+16.72	bad	um̉-ɓe
+16.73	right, correct	čon-lo
+16.74	wrong	hayau-ɬeʔe
+16.76	fault	kau-ham-pa
+16.77	mistake, error	san-ka-pa-ni
+16.78	blame	ɗon-ka-ra-na
+16.79	praise	ɓele-pa-na
+16.81	beautiful	hiran-ni
+16.82	ugly	čo-es-ni
+16.83	greedy	u-yei-ni
+16.84	clever	bis-pa
+17.11	mind	pa-kuʔ-wanas
+17.13	think (= reflect)	i-ɓaičo-βaɬ-na
+17.14	think (= be of the opinion)	pa-ɓaičo
+17.15	believe	wawa-sina-poh-na
+17.16	understand	pa-wa-ne-ɬe
+17.17	know	o-na-ra-na
+17.171	guess	čona-ra
+17.172	imitate	im-pa-na
+17.18	seem	hai-son̉
+17.19	idea, notion	pem-ɓaičo
+17.21	wise	ɓis-on̉
+17.22	foolish, stupid	[son-so]
+17.23	insane, crazy	sa-ɓaičo
+17.24	learn	βan̉-ka-pa
+17.242	study	ɗim̉-ɓaičo-βaɬna
+17.25	teach	βata-pa
+17.26	pupil	βata-pa-n-čaye
+17.27	teacher	βata-pa-n-čaye-pa
+17.28	school	[eskʷela]
+17.31	remember	to-ɓaičo
+17.32	forget	kiʔ-lai-ni
+17.34	clear, plain	ɗeɗe-ye
+17.35	obscure	hana-ɓaičo
+17.36	secret	
+17.37	sure, certain	hoʔ-loes
+17.38	explain	ona-loes-poh-na
+17.41	intention, purpose	ham-ɓaičo
+17.42	cause	kau-ham-pa
+17.43	doubt	kʷai-ɓaičo
+17.44	suspect	ɗah-ka-wanne
+17.441	betray	pa-ka-ye
+17.45	need, necessity	huma-ra
+17.46	easy	ɓate-has-ra-ɗaʔa
+17.47	difficult	ɓate-has-ra
+17.48	try, attempt	ɗim̉-ɓaičo-na
+17.49	way, manner	ham-pa
+17.51	and	če
+17.52	because	ɓo
+17.53	if	ɗiʔ
+17.54	or	ka-ɓo
+17.55	yes, affirmative	čon-lomah
+17.56	no, negative	ka-ʔi
+17.61	how?	han-win̉
+17.62	how many?	han-ka-ra
+17.63	how much?	han-ka-rimeɬ
+17.64	what?	eɬe-ɬaʔa
+17.65	when?	eɬ-lomah
+17.66	where?	nay-aʔa
+17.67	which?	han-raʔa
+17.68	who?	han-ne
+17.69	why?	kema-ra
+18.11	voice	
+18.12	sing	leu-leu
+18.13	shout, cry out	ka-mamai
+18.15	whisper	tawaʔ-čeɬ
+18.16	mumble	
+18.17	whistle	sim̉-ɬa
+18.18	shriek, screech	wa-ra-ɗai
+18.19	howl	woʔ-le
+18.21	speak, talk	i-wani
+18.211	stutter, stammer	san-ka-wani
+18.22	say	han-kʷa
+18.221	tell story	ah-lomah
+18.222	speech (make a)	kem-ka-pan-ye-čeɬ
+18.23	silent (be)	way-as-ɬe
+18.24	language	al-wani-wanas
+18.26	word	i-wani-wansi
+18.28	name	eɬe
+18.31	ask (question, inquire)	ɗaha-wane-ɬe
+18.32	answer	čai-wane-ɬe
+18.33	admit, confess	kem-panas-čeɬ
+18.34	deny	ka-ɓaičo
+18.35	ask, request	ɗah-kʷa-na
+18.36	promise	ayana-poh-na
+18.37	refuse	kaʔ-poh-na
+18.38	forbid	uta-ɓe
+18.39	rebuke, scold	hu-na
+18.41	call (=summon)	haya-moɬ
+18.42	call (=name)	eɬ-na-pa
+18.43	announce	ɓoko-čaye
+18.44	threaten	čun̉-čopan-ɬeɬe
+18.45	boast	mereʔ-poh-čeɬ
+18.51	write	ɓen-a-ɓen̉
+18.52	read	lew-a-ɓen̉
+18.56	paper	al-wam-ɓen̉
+18.57	pen	ɓen-a-ɓen̉-wanra
+18.61	book	al-wam-ɓen̉
+18.67	poet	--
+18.71	flute	[polauta]
+18.72	drum	pono-tiʔi
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	[pais]
+19.12	one's native country	lolos
+19.15	city, town	lolos
+19.16	village	lolos
+19.17	boundary	ya-pa-naʔa
+19.21	people (populace)	hu-ye-ni
+19.23	tribe, clan	al-leʔe
+19.24	chief, chieftain	en-ona
+19.25	staff, walking stick	čaʔ-pa
+19.31	rule, govern	en-ona-na
+19.32	king, ruler	--
+19.33	queen	--
+19.36	noble, nobleman	--
+19.37	citizen, subject	
+19.41	master	kau-čin-a-čo
+19.42	slave	čin-čin-čo-ye
+19.43	servant	čin-čin-čo-ye
+19.44	freeman	--
+19.45	command, order	čin-a-čo
+19.46	obey	hai-wa-ne-ɬe
+19.47	let, permit	ten-a-pan-ɬe
+19.51	friend, companion	al-ra
+19.52	enemy	al-či
+19.54	neighbor	al-as-wanne
+19.55	stranger	hei-ye
+19.56	guest	yeɬ-wanne
+19.57	host	
+19.58	help, aid	al-pa-na
+19.59	hinder, prevent	kaʔ-poh-na
+19.61	custom	he-yaʔa
+19.62	strife, quarrel	hara-kaka-ye
+19.63	conspiracy, plot	
+19.65	meet	kah-a-ɬe
+19.72	prostitute	
+20.11	fight (vb)	haraɬ
+20.13	war, battle	hara-wanas
+20.14	peace	hayau-lomah
+20.15	army	
+20.17	soldier	[solɗao]
+20.21	weapons, arms	
+20.22	club	koʔ-pin̉
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	ta-ni-lo
+20.25	arrow	huɬ-pa
+20.26	spear	
+20.27	sword	[espara]
+20.28	gun, cannon	[eskopeta]
+20.31	armor (defensive)	--
+20.33	helmet	--
+20.34	shield	--
+20.35	fortress	--
+20.36	tower	[tore]
+20.41	victory	hula-ra-weɬe
+20.42	defeat	hula-ra-na
+20.43	attack	hara-ɬe-na
+20.44	defend	ɓore-na
+20.45	retreat	čoi-si
+20.46	surrender	ya-ɓaičo
+20.47	captive, prisoner	
+20.471	guard, sentinel	ah-pa-na
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	ɓilau-pa
+20.52	fishhook	hah-ɬa
+20.53	fishing line	ɗaβul-ɗi
+20.54	fishnet	
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	ɓay-eɬ
+20.62	shoot	man-na
+20.63	miss (target)	hei-wah
+20.64	trap (noun)	[tarampa]
+20.65	trap (vb)	
+21.11	law	kema-lomah-weɬ-wansi
+21.15	court	--
+21.16	judge (vb)	aʔaye-kʷan-čaye
+21.17	judgment	
+21.18	judge (noun)	čopa-loes-kʷan-čaye-pa
+21.21	plaintiff	--
+21.22	defendant	--
+21.23	witness	ona-lomah-poh-na
+21.24	swear	
+21.25	oath	mam-ɓaičo-wanas
+21.31	accuse	kema-ye-weɬ-na
+21.32	condemn	koβih-niɬ-na-poh-na
+21.33	convict (vb)	aʔaye-kʷan-čaye
+21.34	acquit	tata-ɓaɬ-kʷan-ɬe-na
+21.35	guilty	koβih-koβih
+21.36	innocent	ko-kaʔ-βih
+21.37	penalty, punishment	hara-ɗa-kʷan-wanas
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	tikoi-čaye
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	tol-kara-na
+21.52	thief	tol-kara-na-pa
+22.11	religion	
+22.12	God	[dios]
+22.13	temple, church	[elesiya]
+22.14	altar	[altare]
+22.15	sacrifice, offering	el-eɬ-wan-rani
+22.16	worship	lew-a-lo
+22.17	pray	ɗah-kʷan-as-čeɬ
+22.18	priest	paʔi
+22.19	holy, sacred	way-es
+22.22	preach	ɗin̉-te-ɬe-na
+22.23	bless	hayau-lomah-poh-na
+22.24	curse	um̉-ɓe
+22.26	fast (vb)	[ayuna]-tiʔi
+22.31	heaven	ɓen̉-ra
+22.32	hell	čočo-ɬim
+22.35	demon (evil spirit)	kaini-wawa
+22.37	idol	
+22.42	magic, witchcraft, sorcery	ukʷam-pa-tiʔi
+22.43	sorcerer, witch	ukʷam-pa
+22.44	fairy, elf	
+22.45	ghost, phantom	en̉-en-ra
+22.47	omen, portent	pakeɬ-wanra

@@ -1,0 +1,1299 @@
+Name:	Bengali
+SIL classification: 	Indo-European > Indo-Iranian > Indo-Aryan > Eastern zone > Bengali-Assamese > Bengali
+ISO 639-3 code:	ben
+WALS classification:	Family: Indo-European > Genus: Indic
+WALS coordinates: 	24° N, 90° E
+Compiler:	Anju Saxena
+Data entry personnel:	Anju Saxena, Mohini Pimpalkhare
+License:       This work is licensed under a Creative Commons Attribution 3.0 Unported License
+
+
+S01.100	the world	বিশ্ব	biśba	The Amazon is the longest river in the world.		
+S01.210	the land	জমি	jami	The captain sighted land in the distance. 		
+S01.212	the soil	মাটি	māṭi	The soil is pretty good in this area.		
+S01.213	the dust	ধুলো	dhulo	The house had not been cleaned and there was dust on the furniture.		
+S01.214	the mud	মৃত্তিকা, কাদা	mr̖ttikā, kādā	His shoes were covered with mud.		
+S01.215	the sand	বালি	bāli	There is sand on this part of the beach.		
+S01.220	the mountain or hill	পর্বত, পাহাড়	parbata, pāhār̖ā	–		
+S01.222	the cliff or precipice	পর্বত, পর্বতগাত্র	parbata, parbatagātra	–		
+S01.230	the plain	সমতল	samatala	–		
+S01.240	the valley	উপত্যকা	upatyakā	The valley was surrounded by high mountains.		
+S01.250	the island	দ্বীপ	dbīpa	Sicily is a Mediterranean island.		
+S01.260	the mainland	মূল ভূখন্ড	mūl bhūkhanḍa	–		
+S01.270	the shore	তীর	tīra	–		
+S01.280	the cave	গুহা	guhā	The hunter lit a torch and entered the cave.		
+S01.310	the water	পানি, জল	pāni, jala	The inhabitants get their water from the river.		
+S01.320	the sea	সমুদ্র, সাগর	samudra, sāgara	The ship is sailing in the sea.		
+S01.322	calm	শান্ত	śānta	a calm sea		
+S01.323	rough(2)	অশান্ত	aśānta 	a rough sea		
+S01.324	the foam	ফেনা	phenā	Foam formed on the polluted river.		
+S01.329	the ocean	সাগর, মহাসাগর	sāgara, mahāsāgara	The Pacific Ocean is larger than the Atlantic Ocean.		
+S01.330	the lake	সরঃ, সরসী, দীঘি	dīghi	This lake's water is safe for drinking.		
+S01.340	the bay	উপসাগর	upasāgara	–		
+S01.341	the lagoon	উপহ্রদ	upahrada	–		
+S01.342	the reef	প্রবাল	prabāla	The ship was wrecked on a reef.		
+S01.343	the cape	অন্তরীপ	antarīpa	–		
+S01.350	the wave	তরঙ্গ	taraṅga	The tallest waves are found in the Pacific Ocean. 		
+S01.352	the tide	ঢেউ	ḍheu	–		
+S01.353	the low tide	মরাকটাল	marākaṭāla	During low tide the rock is exposed.		
+S01.354	the high tide	জোয়ার	joyāra	The rock is not visible during high tide.		
+S01.360	the river or stream	নদী	nadī	–		
+S01.362	the whirlpool	ঘূর্ণি	ghūrṇi	–		
+S01.370	the spring or well	কুয়া	kuyā	–		
+S01.380	the swamp	জলাভূমি	jalābhūmi	Be careful, there are crocodiles in the swamp.		
+S01.390	the waterfall	ঝোরা, ঝর্ণা	jharṇā	The waterfall runs dry in the summer.		
+S01.410	the woods or forest	বন	bana	There are many wild animals in the forest.		
+S01.430	the wood	কাঠ	kāṭha	The table is made of wood.		
+S01.440	the stone or rock	পাষাণ, শিলা	pāṣāṇa, śilā	–		
+S01.450	the earthquake	ভূকম্পন	bhūkampana	The house was destroyed by an earthquake.		
+S01.510	the sky	আকাশ	ākāśa	There were white clouds in the blue sky.		
+S01.520	the sun	সূর্য, অরুণ	sūrya, aruṇa	The sun rises in the east.		
+S01.530	the moon	চাঁদ, চন্দ্র	cānda, candra	The moon shone brightly in the clear night sky.		
+S01.540	the star	তারকা	tārakā	The stars shone brightly in the clear night sky.		
+S01.550	the lightning	বজ্রপাত	bajrapāta	I was momentarily blinded by the lightening.		
+S01.560	the thunder	অশনি, নির্ঘাত, বাজ	bāja	The thunder was deafening.		
+S01.570	the bolt of lightning	বজ্রপাত	bajrapāta	–		
+S01.580	the storm	বাত্যা, ঝড়	jhaŗa	It's more than just rain-it's a real storm!		
+S01.590	the rainbow	রংধণু	ramdhaṇu	After the storm, a rainbow appeared in the sky.		
+S01.610	the light	আলো, বাতি	ālo, bāti	The fire gave a bright light.		
+S01.620	the darkness	আঁধার	ān̄dhāra	After the sunset, darkness quickly fell.		
+S01.630	the shade or shadow	ছায়া	chāyā	–		
+S01.640	the dew	শিশির	śiśira	The trees were wet from the morning dew.		
+S01.710	the air	অনিল	anila 	The air is cool and fresh here in the mountains.		
+S01.720	the wind	পবন	pabana 	The wind blew so hard it knocked down the tree.		
+S01.730	the cloud	মেঘ	megha	There were white clouds in the blue sky.		
+S01.740	the fog	কুয়াশা	kuyāśā	The fog is so thick I can't see the road.		
+S01.750	the rain	বৃষ্টি	br̥ṣṭi	After the rain, the sun appeared again.		
+S01.760	the snow	তুষার	tuṣāra	Snow fell all night and covered the city.		
+S01.770	the ice	বরফ	barapha	A layer of ice formed over the lake.		
+S01.780	the weather	আবহাওয়া	ābahāoyā	I hope that tomorrow the weather will be nicer than today.		
+S01.810	the fire	অগ্নি	agni	The fire is brightly burning in the fireplace.		
+S01.820	the flame	বহ্নি	bahni 	The flames were so high they reached the helicopter.		
+S01.830	the smoke	ধূম, ধোঁয়া	dhūma, dhon̄yā	Heavy smoke billowed from the burning house.		
+S01.840	the ash	ছাই	chāi	He let the cigarette ash fall on the floor.		
+S01.841	the embers	অলাত, কয়লা	kayalā	–		
+S01.851	to burn(1)	জ্বালানো	jbālāno	She burnt all her ex-boyfriend's old letters.		
+S01.852	to burn(2)	পোড়া	por̖ā	Our house is burning! Call the fire fighters!		
+S01.860	to light	জ্বালানো	jbālāno	She lit a match.		
+S01.861	to extinguish	নিভানো	nibhāno	The fire fighters extinguished the fire.		
+S01.870	the match	দিয়াশলাই	diyāśālāi	–		
+S01.880	the firewood	অগ্নিকাষ্ঠ	agnikāṣṭha	The boys collected firewood and built a bonfire.		
+S01.890	the charcoal	কয়লা	kayalā	This fireplace is lit by charcoal, not wood.		
+S02.100	the person	ব্যক্তি	byakti	This table can be lifted by one person.		
+S02.210	the man	মানুষ	mānuṣa	The man had a long beard.		
+S02.220	the woman	মহিলা, নারী	mahilā, nārī	The woman wore a pretty dress.		
+S02.230	male(1)	পুরুষ	puruṣa	I have ten male and twelve female students.		
+S02.240	female(1)	মহিলা	mahilā	I have ten male and twelve female students.		
+S02.250	the boy	বালক	bālaka	One day this boy will grow to be a man.		
+S02.251	the young man	ছোকরা	chokarā 	The young man was not married.		
+S02.260	the girl	বালিকা	bālikā	One day this girl will grow to be a woman.		
+S02.261	the young woman 	ছুঁড়ি	chun̄r̖i 			
+S02.270	the child(1)	শিশু	śiśu	Many children were playing in the water. 		
+S02.280	the baby	শিশু	śiśu	She's still a baby and can only have milk.		
+S02.310	the husband	পতি	pati 	She married her husband last year.		
+S02.320	the wife	পত্নী	patnī	He married his wife last year.		
+S02.330	to marry	বিবাহ করা	bibāha karā	She married a man 10 years her junior.		
+S02.340	the wedding	বিবাহ	bibāha	When we were married, a thousand people came to the wedding.		
+S02.341	the divorce	বিবাহবিচ্ছেদ	bibāhabiccheda	After the divorce, he married another woman.		
+S02.350	the father	পিতা	pitā	My father came home late last night.		
+S02.360	the mother	মাতা, মা	mātā, mā	My mother came home late last night.		
+S02.370	the parents	পিতামাতা	pitāmātā	My parents live in the village.		
+S02.380	the married man	বিবাহিত পুরুষ	bibāhita puruṣa	As a married man he had more privileges. 		
+S02.390	the married woman	বিবাহিত মহিলা	bibāhita mahilā	As a married woman she had more privileges.		
+S02.410	the son	পুত্র	putra	I have one son and one daughter.		
+S02.420	the daughter	কন্যা	kanyā	I have one son and one daughter.		
+S02.430	the child(2)	সন্তান	santāna 	I have two children, a son and a daughter.		
+S02.440	the brother	ভাই	bhāi	I have two brothers, one younger and one older than me.		
+S02.444	the older brother	বড় ভাই	bar̖a bhāi	My older brother is married, but my younger brother still lives at home.		
+S02.445	the younger brother	ছোট ভাই	choṭa bhāi	My older brother is married, but my younger brother still lives at home.		
+S02.450	the sister	বোন	bona	I have two sisters, one younger and one older than me.		
+S02.454	the older sister	বড় বোন	bar̖a bona	My older sister is married, but my younger sister still lives at home.		
+S02.455	the younger sister	ছোট বোন	choṭa bona	My older sister is married, but my younger sister still lives at home.		
+S02.456	the sibling	ভাই-বোন	bhāi-bona	I have two siblings, one brother and one sister.		
+S02.458	the twins	যমজ	yamaja	–		
+S02.460	the grandfather	দাদা, নানা	dādā, nānā	My grandfather is 80 years old.		 
+S02.461	the old man	বৃদ্ধ	br̖ddha 	That old man looks like my grandfather.		
+S02.470	the grandmother	দাদী, নানী	dādī, nānī	My grandmother is 70 years old.		
+S02.471	the old woman	বুড়ি	bur̖i	That old woman looks like my grandmother.		
+S02.480	the grandson	নাতি	nāti	My grandson is 5 years older than my granddaughter.		
+S02.490	the granddaughter	নাতনী	nātanī	My grandson is 5 years older than my granddaughter.		
+S02.510	the uncle	চাচা, খালু, মামা, ফুপা	cācā, khālu, māmā, phupā	I have two uncles, one on my father's side and one on my mother's side.		
+S02.511	the mother's brother	মামা	māmā	–		
+S02.512	the father's brother	চাচা	cācā	–		
+S02.520	the aunt	চাচী, খালা, মামী, ফুপু	cācī, khālā, māmī, phupu	–		
+S02.521	the mother's sister	খালা	khālā	–		
+S02.522	the father's sister	খালু, ফুপু	khālu, phupu	–		
+S02.530	the nephew	ভাতিজা	bhātijā	–		
+S02.540	the niece	ভাতিজী	bhātijī	–		
+S02.550	the cousin	-	-	–		
+S02.560	the ancestors	পূর্বসূরী	pūrbasūrī	–		
+S02.570	the descendants	সন্ততি	santati 	–		
+S02.610	the father-in-law (of a man)	শ্বশুর	śbaśura 	–		
+S02.611	the father-in-law (of a woman)	শ্বশুর	śbaśura 	–		
+S02.620	the mother-in-law (of a man)	শাশুড়ি	śāśur̖i 	–		
+S02.621	the mother-in-law (of a woman)	শাশুড়ি	śāśur̖i 	–		
+S02.630	the son-in-law (of a man)	জামাই	jāmāi	–		
+S02.631	the son-in-law (of a woman)	জামাই	jāmāi	–		
+S02.640	the daughter-in-law (of a man)	বধূ, বউ	badhū, bau	–		
+S02.641	the daughter-in-law (of a woman)	বধূ, বউ	badhū, bau	–		
+S02.710	the stepfather	সৎ বাবা	satt bābā	–		
+S02.720	the stepmother	সৎ মা	satt mā	–		
+S02.730	the stepson	সৎ ছেলে	satt chele	–		
+S02.740	the stepdaughter	সৎ মেয়ে	satt meye	–		
+S02.750	the orphan	অনাথ	anātha	–		
+S02.760	the widow	বিধবা	bidhabā	–		
+S02.770	the widower	বিধবা	bidhabā	–		
+S02.810	the relatives	আত্মীয়	āthīya	–		
+S02.820	the family	পরিবার	paribāra	–		
+S02.910	I	আমি	āmi	–		
+S02.920	you (singular)	তুই, তুমি	tui, tumi	–		
+S02.930	he/she/it	সে/ সে/ এটা	se/ se/ eṭā	–		
+S02.940	we	আমরা	āmarā	–		
+S02.941	we (inclusive)	আমরা	āmarā	–		
+S02.942	we (exclusive)	আমরা	āmarā	–		
+S02.950	you (plural)	তোমরা	tomarā	–		
+S02.960	they	তারা	tārā	–		
+S03.110	the animal	প্রাণী	prāṇī	On the small island they found rabbits, foxes, snakes, mice and many other animals.		
+S03.120	male(2)	পুরুষ	puruṣa	Only male lions have manes.		
+S03.130	female(2)	মহিলা	mahilā	Only female monkeys look after their offspring.		
+S03.150	the livestock	পশু	paśu 	–		
+S03.160	the pasture	পশুচারণভূমি	paśucāraṇabhūmi	–		
+S03.180	the herdsman	রাখাল	rākhāla 	–		
+S03.190	the stable or stall	আস্তাবল	āstābala 	–		
+S03.200	the cattle	গবাদি	gabādi 	–		
+S03.210	the bull	ষাঁড়	ṣaṇḍa 	–		
+S03.220	the ox	ষাঁড়	ṣan̄r̖a 			
+S03.230	the cow	গাভী	gābhī	–		
+S03.240	the calf	বাছুর	bāchura 	–		
+S03.250	the sheep	ভেড়া	bher̖ā	The farmers raised sheep for wool and milk.		
+S03.260	the ram	মেষ	meṣa	–		
+S03.280	the ewe	ভেড়ী	bher̖ī	–		
+S03.290	the lamb	ভেড়া	bher̖ā	–		
+S03.320	the boar	পুংশূকর	puṁśūkara	The hunter shot the boar in the forest.		
+S03.340	the sow	শূকরী	śūkarī	–		
+S03.350	the pig	শূকর	śūkara	There are three pigs in the sty.		
+S03.360	the goat	ছাগল	chāgala	–		
+S03.370	the he-goat	ছাগল	chāgala	–		
+S03.380	the kid	কচিকাঁচা	kacikān̄cā 	–		
+S03.410	the horse	ঘোড়া	ghor̖ā	The policeman mounted the horse and rode away.		
+S03.420	the stallion	প্রজননক্ষম ঘোড়া	prajananakṣa ghor̖ā	–		
+S03.440	the mare	ঘুড়ি, ঘোটকী	ghur̖i, ghoṭakī	–		
+S03.450	the foal or colt	অশ্বশাবক	aśbaśābaka	–		
+S03.460	the donkey	গাধা	gādhā	That donkey is almost as large as a horse.		
+S03.470	the mule	খচ্চর	khaccara	–		
+S03.500	the fowl	বুনোপাখি	bunopākhi	–		
+S03.520	the cock/rooster	মোরগ	moraga	The farmer owns ten hens but only two roosters.		
+S03.540	the hen	কুক্কুটী, মুরগী	kukkuṭi, muragī	The farmer owns ten hens but only two roosters.		
+S03.550	the chicken	মুরগি, মুরগীর ছানা	muragi, muragīra chānā	–		
+S03.560	the goose	রাজহংস	rājahaṁsa	–		
+S03.570	the duck	হংস	haṁsa 	–		
+S03.580	the nest	নীড়	nīr̖a	Many birds build nests in trees.		
+S03.581	the bird	পাখি	pākhi	–		
+S03.582	the seagull	সীগাল	sīgāla	–		
+S03.583	the heron	কাঁক পাখি	kān̄ka pākhi	–		
+S03.584	the eagle	ঈগল	īgala	–		
+S03.585	the hawk	বাজপাখি	bāja pākhi	–		
+S03.586	the vulture	গৃধ্র, শকুন	śakuna	–		
+S03.591	the bat	বাদুড়,বাদুর	bādur̖a,bādura	–		
+S03.592	the parrot	তোতা	totā 	–		
+S03.593	the cow	গাই, গাইগোরু	gāi, gāigoru	–		
+S03.594	the dove	পায়রা	pāyarā 	–		
+S03.596	the owl	পেঁচা	pen̄cā	–		
+S03.610	the dog	কুকুর	kukura	–		
+S03.614	the rabbit	খরগোশ	kharagośa	–		
+S03.620	the cat	বিড়াল	bir̖āla	–		
+S03.622	the opossum	-	-	–		
+S03.630	the mouse or rat	ইঁদুর	in̄dura	–		
+S03.650	the fish	মাছ	mācha	–		
+S03.652	the fin	অংশু	aṁśu 	–		
+S03.653	the scale	শল্ক	śalka	–		
+S03.654	the gill	কঙ্কত	kaṅkata 	–		
+S03.655	the shell	শেল	śela	–		
+S03.661	the shark	হাঙর	hāṅara	–		
+S03.662	the porpoise or dolphin	শুশুক	śuśuka 	–		
+S03.663	the whale	তিমি	timi	–		
+S03.664	the stingray	-	-	–		
+S03.665	the freshwater eel	-	-	–		
+S03.710	the wolf	শেয়াল	śeyāla	–		
+S03.720	the lion	সিংহ	siṁha	–		
+S03.730	the bear	বহন,ভালুক	bahana, bhāluka	–		
+S03.740	the fox	শিয়াল	śiyāla	–		
+S03.750	the deer	হরিণ	hariṇa	–		
+S03.760	the monkey	বানর	bānara	–		
+S03.770	the elephant	হাতি	hāti	–		
+S03.780	the camel	উষ্ট্র, ঊট	uṣṭra, ūṭa	–		
+S03.810	the insect	পতঙ্গ	pataṅga	–		
+S03.811	the head louse	উকুন	ukuna 	–		
+S03.812	the nit	নিকি, উকুনের ডিম	niki, ukunera ḍima	–		
+S03.813	the flea	উপমক্ষিকা, মক্ষিকা	makṣikā	–		
+S03.814	the centipede	কেন্নো	kenno	–		
+S03.815	the scorpion	বৃশ্চিক	briścika 	–		
+S03.816	the cockroach	আরশোলা	āraśolā	–		
+S03.817	the ant	উই	ui	–		
+S03.818	the spider	মাকড়সা	mākar̖asā	–		
+S03.819	the spider web	মাকড়সা ওয়েব	mākar̖asā oyeba	–		
+S03.820	the bee	ভ্রমর	bhramara 	–		
+S03.821	the beeswax	মোম	moma 	–		
+S03.822	the beehive	মৌচাক	maucāka 	–		
+S03.823	the wasp	বল্লা	ballā 	–		
+S03.830	the fly	ওড়া, -	or̖ā, makṣikā	–		
+S03.831	the sandfly or midge or gnat	ডাঁশ	ḍān̄śa 	–		
+S03.832	the mosquito	মশা	maśā	–		
+S03.840	the worm	কৃমি	krimi	–		
+S03.850	the snake	সাপ	sāpa	–		
+S03.910	the firefly	জোনাকি	jonāki	–		
+S03.920	the butterfly	প্রজাপতি	prajāpati	–		
+S03.930	the grasshopper	পতঙ্গ	pataṅga 	–		
+S03.940	the snail	শামুক	śāmuka 	–		
+S03.950	the frog	ব্যাঙ	byāṅa	–		
+S03.960	the lizard	টিকটিকি	ṭikaṭiki	–		
+S03.970	the crocodile or alligator	কুমির	kumira	–		
+S03.980	the turtle	কচ্ছপ	kacchapa	–		
+S04.110	the body	শরীর, দেহ	śarīra, deha	–		
+S04.120	the skin or hide	ত্বক	tbaka	–		
+S04.130	the flesh	মাংস	māṁsa	–		
+S04.140	the hair	চুল	cula	–		
+S04.142	the beard	শ্মশ্রু	śmaśru 	–		
+S04.144	the body hair	চুল 	cula	–		
+S04.145	the pubic hair	চুল	cula	–		
+S04.146	the dandruff	খুশকি	khuśaki	–		
+S04.150	the blood	রক্ত	rakta	–		
+S04.151	the vein or artery	শিরা	śirā	–		
+S04.160	the bone	হাড়	hār̖a	–		
+S04.162	the rib	পর্শুকা	parśukā 	–		
+S04.170	the horn	শিং	śiṁ	–		
+S04.180	the tail	লেজ	leja	–		
+S04.190	the back	পিছনে	pichane	–		
+S04.191	the spine	মেরুদণ্ড	merudanḍa	–		
+S04.200	the head	মাথা	māthā	–		
+S04.201	the temples	রগ	raga	–		
+S04.202	the skull	খুলি	khuli 			
+S04.203	the brain	বুদ্ধি	buddhi	–		
+S04.204	the face	মুখ	mukha	–		
+S04.205	the forehead	ললাট	lalāṭa 	–		
+S04.207	the jaw	চোয়াল	coyāla	The boxer punched his opponent on the jaw.		
+S04.208	the cheek	গাল	gāla	–		
+S04.209	the chin	থোঁতা	thon̄tā	–		
+S04.210	the eye	নয়ন	nayana	–		
+S04.212	the eyebrow	ভুরু	bhuru 	–		
+S04.213	the eyelid	-	-	–		
+S04.214	the eyelash	পক্ষ্ম	pakṣma	–		
+S04.215	to blink	পলক ফেলা 	palaka phelā			
+S04.220	the ear	কান	kāna	–		
+S04.221	the earlobe	-	-	–		
+S04.222	the earwax	খইল	khaila 	–		
+S04.230	the nose	নাক	nāka	–		
+S04.231	the nostril	নাসা	nāsā 	–		
+S04.232	the nasal mucus	শ্লেষ্মা	śleṣmā 	–		
+S04.240	the mouth	মুখ	mukha	–		
+S04.241	the beak	চঞ্চু	cañcu	–		
+S04.250	the lip	ঠোঁট	ṭhon̄ṭa	–		
+S04.260	the tongue	জিহ্বা	jihbā	–		
+S04.270	the tooth	দাঁত	dān̄ta	–		
+S04.271	the gums	মাড়ি	mār̖i	–		
+S04.272	the molar tooth	ইসদন্ত	isadanta	–		
+S04.280	the neck	ঘাড়	ghār̖a	–		
+S04.281	the nape of the neck	গ্রীবা	grībā 	–		
+S04.290	the throat	গলা	galā	–		
+S04.300	the shoulder	কাঁধ	kān̄dha	–		
+S04.301	the shoulderblade	-	-	–		
+S04.302	the collarbone	কণ্ঠা	kaṇṭhā	–		
+S04.310	the arm	বাহু	bāhu	–		
+S04.312	the armpit	বগল	bagala	–		
+S04.320	the elbow	কনুই	kanui	–		
+S04.321	the wrist	কব্জি	kabji	–		
+S04.330	the hand	হাত	hāta	–		
+S04.331	the palm of the hand	খাবল	khābala	–		
+S04.340	the finger	আঙুল	āṅula	–		
+S04.342	the thumb	বৃদ্ধাঙ্গুষ্ঠ	briddhāṅguṣṭha 	–		
+S04.344	the fingernail	নখ	nakha	–		
+S04.345	the claw	নখ	nakha	The cat dug his claws into my leg.		
+S04.350	the leg	কদম	kadama	–		
+S04.351	the thigh	ঊরু	ūru 	–		
+S04.352	the calf of the leg	-	-	–		
+S04.360	the knee	জানু	jānu 	–		
+S04.370	the foot	পাদ	pāda	–		
+S04.371	the ankle	চরণ	caraṇa	–		
+S04.372	the heel	এড়ি	er̖i	–		
+S04.374	the footprint	-	-	–		
+S04.380	the toe	পায়ের আঙ্গুল	pāyera āṅgula	–		
+S04.392	the wing	ডানা	ḍānā	–		
+S04.393	the feather	পাখনা	pākhanā	–		
+S04.400	the chest	বুক	buka	–		
+S04.410	the breast	স্তন	stana	–		
+S04.412	the nipple or teat	বোটা	boṭā	–		
+S04.420	the udder	পালান	pālāna	–		
+S04.430	the navel	নাভি	nābhi 	–		
+S04.440	the heart	হৃদয়	hr̥daya	–		
+S04.441	the lung	ফুসফুস	phusaphusa	–		
+S04.450	the liver	লিভার	libhāra 	–		
+S04.451	the kidney	বৃক্ক	brikka	–		
+S04.452	the spleen	প্লীহা	plīhā 	–		
+S04.460	the stomach	পাকাশয়	pākāśaya 	Her stomach could not digest the tough meat.		
+S04.461	the intestines or guts	অন্ত্র	antra	–		
+S04.462	the waist	কোমর	komara	–		
+S04.463	the hip	কটি	kaṭi	–		
+S04.464	the buttocks	নিতম্ব	nitamba 	–		
+S04.470	the womb	জঠর	jaṭhara 	–		
+S04.490	the testicles	মুষ্ক	muṣka 			
+S04.492	the penis	শিশ্ন, লিঙ্গ	śiśna, liṅga	–		
+S04.510	to breathe	শ্বাস প্রশ্বাস কারা, শ্বাস প্রশ্বাস নেওয়া	śbasa-pbhraśbasa kārā, śbasa-pbhraśbasa neoyā	–		
+S04.520	to yawn	হাই নেওয়া	hāi neoyā	–		
+S04.521	to hiccough (to hiccup)	উঁকি নেওয়া, উঁকি আসা	un̄ki neoyā, un̄ki āsā	–		
+S04.530	to cough	-	kāśi āsā, kāśi deoyā	–		
+S04.540	to sneeze	হাঁচা	han̄cā	–		
+S04.550	to perspire	ঘামা	ghāmā 	–		
+S04.560	to spit	-	thutu deoyā, thutu phelā	–		
+S04.570	to vomit	বমি কারা	bami kārā	–		
+S04.580	to bite	কামড়ানো	kāmar̖āno	–		
+S04.590	to lick	চাটা	cāṭā	–		
+S04.591	to dribble	লালাঝরা	lālājharā	Watch out, the baby is dribbling on your shirt!		
+S04.610	to sleep	ঘুমান	ghumāna	–		
+S04.612	to snore	নাক ডাকার শব্দ	nāka ḍākāra śabda	–		
+S04.620	to dream	স্বপ্ন আসা	sbapna āsā, sbapna dekhā	–		
+S04.630	to wake up	ঘুম থেকে ওঠা	ghuma theke oṭhā	I wake up at seven every morning.		
+S04.640	to fart	পাদা	pādā	–		
+S04.650	to piss	-	mūtra tyāga	–		
+S04.660	to shit	পায়খানা করা	pāyakhānā karā	–		
+S04.670	to have sex	সম্ভোগ করা	sambhoga karā	–		
+S04.680	to shiver	-	kāmpana deoyā, kāmpano	–		
+S04.690	to bathe	নাওয়া	nāoyā	She likes to bathe before going to bed.		
+S04.710	to beget	পয়দা করা	payadā karā	–		
+S04.720	to be born	উদ্গত হওয়া	udgata haoyā	–		
+S04.730	pregnant	গর্ভবতী	garbhabatī	–		
+S04.732	to conceive	ভাবা	bhābā			
+S04.740	to be alive	-	jībita thākā	I thought he was dead, but he's still alive.		
+S04.750	to die	মরা	marā	–		
+S04.751	to drown	ডুবা	ḍubā 	The dog fell into the river and drowned.		
+S04.760	to kill	নিহত করা	nihata  karā	–		
+S04.770	the corpse	লাশ,  মৃতদেহ	lāśa , mr̥tadeha	–		
+S04.780	to bury	পোড়ানো	por̖āno	–		
+S04.790	the grave	কবর	kabara	–		
+S04.810	strong	বলিষ্ঠ	baliṣṭha	She's a strong woman and can lift 50 kilos.		
+S04.820	weak	দুর্বল	durbala	He's so weak that he cannot even lift 5 kilos.		
+S04.830	healthy	স্বাস্থ্যসম্মত	sbāsthyasammata	–		
+S04.840	sick/ill	অসুস্থ	asustha	–		
+S04.841	the fever	জ্বর	jbara	–		
+S04.842	the goitre/goiter	-	-	–		
+S04.843	the cold	সর্দি	sardi	He caught a cold after swimming in the lake at night.		
+S04.850	the wound or sore	ক্ষত	kṣata	–		
+S04.852	the bruise	কালশিরে	kālaśire	–		
+S04.853	the swelling	গজ	gaja	–		
+S04.854	the itch	চুলকানো	culakāno	The itch was caused by an insect bite.		
+S04.855	the blister	ফোসকা	phosakā	–		
+S04.856	the boil	ফোড়া	phor̖ā 	The boy's body is covered in boils.		
+S04.857	the pus	ফুসকুড়ি	phusakur̖i 	–		
+S04.858	the scar	খুঁত	khun̄ta			
+S04.860	to cure	আরোগ্য করা	ārogya karā	The treatment cured the patient's illness.		
+S04.870	the physician	কুচিকিত্সক	kucikitsaka 	–		
+S04.880	the medicine	ঔষধ	auṣadha	–		
+S04.890	the poison	বিষ	biṣa	–		
+S04.910	tired	শ্রান্ত	śrānta 	–		
+S04.912	to rest	জিরানো	 jirāno	–		
+S04.920	lazy	অলস	alasa	–		
+S04.930	bald	টাক	ṭāka	–		
+S04.940	lame	খোঁড়া	khon̄r̖ā	–		
+S04.950	deaf	বধির	badhira	–		
+S04.960	mute	নীরব	nīraba	–		
+S04.970	blind	অন্ধ	andha	–		
+S04.980	drunk	মাতাল	mātāla	They became drunk after drinking too much beer.		
+S04.990	naked	উলঙ্গ	ulaṅga	The child does not like to wear clothes, and goes around naked.		
+S05.110	to eat	আহার করা	āhāra karā	The child has eaten the fruit.		
+S05.120	the food	খাদ্য	khādya	–		
+S05.121	cooked	রাঁধা	ran̄dhā	Cooked bananas taste even better than raw bananas.		
+S05.122	raw	কাঁচা	kān̄cā	Cooked bananas taste even better than raw bananas.		
+S05.123	ripe	পাকা	pākā	Unripe bananas have a green colour, whereas ripe bananas are yellow.		
+S05.124	unripe	আপাকা	āpākā 	Unripe bananas have a green colour, whereas ripe bananas are yellow.		
+S05.125	rotten	পচা	pacā	a rotten apple or mango		
+S05.130	to drink	পান করা	pāna karā	drink water		
+S05.140	to be hungry	-	kṣudhā lāgā	–		
+S05.141	the famine	আকাল	ākāla	–		
+S05.150	to be thirsty	-	-	–		
+S05.160	to suck	চোষা	coṣā	The baby is sucking milk.		
+S05.180	to chew	কামড়ানো	kāmar̖āno	This meat is so tough I can hardly chew it!		
+S05.181	to swallow	গেলা	gelā 	You need to chew this meat well before you can swallow it.		
+S05.190	to choke	রোধা	rodhā	The smoke was choking the fire fighters./The assailant choked his victim.		
+S05.210	to cook	রাঁধা	rān̄dhā 	She was cooking a soup for her mother.		
+S05.220	to boil	সিঝা	sijhā	The water is boiling.		
+S05.230	to roast or fry	ভাজা	bhājā	–		
+S05.240	to bake	সেকা	sekā 	We are baking some bread.		
+S05.250	the oven	চুল্লি	culli	–		
+S05.260	the pot	পাত্র	pātra	He is cooking soup for the whole family in a big pot.		
+S05.270	the kettle	কেটলি	keṭali	The water is boiling in the kettle.		
+S05.280	the pan	কন্দু	kandu	–		
+S05.310	the dish	খঞ্চা	khañcā	–		
+S05.320	the plate	পিরিচ	pirica	–		
+S05.330	the bowl	জামবাটি	jāmabāṭi 	–		
+S05.340	the jug/pitcher	গাগরি	gāgari 	–		
+S05.350	the cup	পেয়ালা	peyālā	–		
+S05.360	the saucer	পিরিচ	pirica	–		
+S05.370	the spoon	চামচ	cāmaca	He ate the soup with a spoon. 		
+S05.380	the knife(1)	ছুরি	churi	–		
+S05.390	the fork	কাঁটা	kān̄ṭā	–		
+S05.391	the tongs	চিমটা	cimaṭā 	–		
+S05.410	the meal	আহার	āhāra 	Dinner is the main meal of the day for most people.		
+S05.420	the breakfast	প্রাতরাশ	prātarāśa	–		
+S05.430	the lunch	মধ্যাহ্নভোজ	madhyāhnabhoja	–		
+S05.440	the dinner	ভোজ	bhoja 	–		
+S05.450	the supper	ভোজ	bhoja	–		
+S05.460	to peel	ছোলা	cholā	This knife is good for peeling potatoes.		
+S05.470	to sieve or to strain	ছাঁকা	chan̄kā 	She strained the coffee before serving it.		
+S05.480	to scrape	চাঁচা	cān̄chā	Scrape the carrots and slice them thinly.		
+S05.490	to stir or to mix	ঘাঁটা	ghān̄ṭā	–		
+S05.510	the bread	রুটি	ruṭi	–		
+S05.530	the dough	লেচি	leci	–		
+S05.540	to knead	মাখা	mākhā	Knead the dough for three minutes.		
+S05.550	the flour	আটা	āṭā	–		
+S05.560	to crush or to grind	পিষা	piṣā	–		
+S05.570	the mill	ভানা	bhānā 	–		
+S05.580	the mortar(1)	খল	khala	–		
+S05.590	the pestle	নোড়া	nor̖ā			
+S05.610	the meat	মাংস	māṁsa	–		
+S05.630	the sausage	-	-	–		
+S05.640	the soup	সুপ, ঝোল	supa, jhola	Clear chicken soup can relieve the symptoms of the common cold.		
+S05.650	the vegetables	শাকসব্জী	śākasabjī	–		
+S05.660	the bean	শিম	śima 	–		
+S05.700	the potato	আলু	ālu	–		
+S05.710	the fruit	ফল	phala	–		
+S05.712	the bunch	গুচ্ছ	guccha	–		
+S05.750	the fig	ডুমুর	ḍumura	–		
+S05.760	the grape	আঙুর	āṅura	–		
+S05.770	the nut	বাদাম	bādāma	–		
+S05.780	the olive	জলপাই	jalapāi	–		
+S05.790	the oil	তেল	tela	–		
+S05.791	the grease or fat	ঘুষ, তেল	ghuṣa, tela	–		
+S05.810	the salt	নুন	nuna	–		
+S05.820	the pepper	গোলমরিচ	golamarica	–		
+S05.821	the chili pepper	কাঁচা মরিচ	kān̄cā marica	–		
+S05.840	the honey	মধু	madhu	–		
+S05.850	the sugar	চিনি	cini	–		
+S05.860	the milk	দুধ	dudha	–		
+S05.870	to milk	দোহন করা	dohana karā	–		
+S05.880	the cheese	পনির	panira	–		
+S05.890	the butter	মাখন	mākhana	–		
+S05.900	the drink	পানীয়	pānīya	–		
+S05.910	the mead	তৃণ	triṇa 	–		
+S05.920	the wine	মদ	mada	–		
+S05.930	the beer	বিয়ার	biyāra	–		
+S05.940	the fermented drink	-	-	–		
+S05.970	the egg	ডিম	ḍima	–		
+S05.971	the yolk	ডিমের কুসুম	ḍimera kusuma	–		
+S06.110	to put on	-	por̖āno	The child can already put on his clothes by himself.		
+S06.120	the clothing or clothes	পোষাক	poṣāka	–		
+S06.130	the tailor	দর্জি	darji	–		
+S06.210	the cloth	জামাকাপড়	jāmākāpar̖a	–		
+S06.220	the wool	ঊর্ণা	ūrṇā 	–		
+S06.230	the linen	ক্ষৌম	kṣauma 	–		
+S06.240	the cotton	তুলা	tulā	–		
+S06.250	the silk	রেশম	reśama	–		
+S06.270	the felt	পশমি	paśami	–		
+S06.280	the fur	পশম	paśama	–		
+S06.290	the leather	চর্ম	carma 	–		
+S06.310	to spin	ঘোরা	ghorā 	–		
+S06.320	the spindle	তর্কু	tarku 	–		
+S06.330	to weave	বোনা	bonā			
+S06.340	the loom	তাঁত	tān̄ta	–		
+S06.350	to sew	সেলাই করা	selāi karā			
+S06.360	the needle(1)	সূচি	sūci	–		
+S06.370	the awl	আরা	ārā	–		
+S06.380	the thread	সুতা	sutā	–		
+S06.390	to dye	রং করা	raṁ karā	The weaver dyed the cloth bright red.		
+S06.410	the cloak	আবরণ	ābaraṇa	–		
+S06.411	the poncho	-	-	–		
+S06.420	the (woman's) dress	পোশাক	pośāka	–		
+S06.430	the coat	কোট, আংরাখা	koṭa, āṃrākhā	–		
+S06.440	the shirt	শার্ট	śārṭa	–		
+S06.450	the collar	কলার	kalāra 	–		
+S06.460	the skirt	ঘাগরা	ghāgarā	–		
+S06.461	the grass-skirt	-	-	–		
+S06.480	the trousers	পাতলুন	pātaluna 	–		
+S06.490	the sock or stocking	মোজা	mojā	–		
+S06.510	the shoe	জুতা	jutā	–		
+S06.520	the boot	বুট	buṭa	–		
+S06.540	the shoemaker	চামার	cāmāra	–		
+S06.550	the hat or cap	টুপি	ṭupi	–		
+S06.570	the belt	বন্ধনী	bandhanī	–		
+S06.580	the glove	দস্তানা	dastānā 	–		
+S06.590	the veil	ঘোমটা	ghomaṭā	During the wedding the bride wore a veil that hid her face.		
+S06.610	the pocket	পকেট, জেব	pakeṭa, jeba	He put the money in his shirt pocket.		
+S06.620	the button	বোতাম	botāma 	–		
+S06.630	the pin	খুঁট	khun̄ṭa 	The torn shirt was held together by pins.		
+S06.710	the ornament or adornment	-	-	Her hair was adorned with silver oranments.		
+S06.720	the jewel	রত্ন	ratna	–		
+S06.730	the ring	অঙ্গুরি	aṅguri	–		
+S06.740	the bracelet	চুড়	cur̖ 	She wore a solid gold bracelet.		
+S06.750	the necklace	মালা	mālā	Her necklace was made of pearls and coral.		
+S06.760	the bead	পুঁতি	pun̄ti 	–		
+S06.770	the earring	ইয়ারিং	iyāriṁ	The pirate wore one earring.		
+S06.780	the headband or headdress	-	-	–		
+S06.790	the tattoo	উলকি	ulaki	–		
+S06.810	the handkerchief or rag	রুমাল	rumāla	–		
+S06.820	the towel	তোয়ালে	toyāle 	–		
+S06.910	the comb	চিরুনি	ciruni	–		
+S06.920	the brush	ব্রাশ	brāśa 	He used the brush to thoroughly brush his hair.		
+S06.921	the plait/braid	বিনুনি	binuni	–		
+S06.930	the razor	ক্ষুর	kṣura	While he was shaving the razor cut his face.		
+S06.940	the ointment	মলম	malama 	–		
+S06.950	the soap	সাবান	sābāna	A bar of soap was placed by the sink.		
+S06.960	the mirror	আয়না	āyanā	He looked at himself in the mirror that hung on the wall.		
+S07.110	to live	টিকা, টেকা	ṭikā, ṭekā	A family of five lives in that large house.		
+S07.120	the house	ঘর, আবাস	ghara, ābāsa	–		
+S07.130	the hut	উটজ	uṭaja	–		
+S07.131	the garden-house	বাগান বাড়ি	bāgāna bār̖i	–		
+S07.140	the tent	তাঁবু	tān̄bu 	–		
+S07.150	the yard or court	চতুষ্ক	catuṣka	–		
+S07.160	the men's house	-	-	–		
+S07.170	the cookhouse	বাবুর্চিখানা	bāburcikhānā	–		
+S07.180	the meeting house	-	-	–		
+S07.210	the room	কামরা	kāmarā	–		
+S07.220	the door or gate	দরজা	darajā	–		
+S07.221	the doorpost	-	-	–		
+S07.230	the lock	কুলুপ, তালা	tālā	–		
+S07.231	the latch or door-bolt	হুড়কা	hur̖kā	–		
+S07.240	the key	চাবি	cābi	–		
+S07.250	the window	জানালা	jānālā	–		
+S07.260	the floor	মেঝে	mejhe	–		
+S07.270	the wall	দেয়াল	deyāla	The walls of our house are very thick.		
+S07.310	the fireplace	-	-	–		
+S07.320	the stove	চুল্লি	culli	She put the kettle on the stove and lit the fire.		
+S07.330	the chimney	চিমনি	cimani 	–		
+S07.370	the ladder	মই	mai	–		
+S07.420	the bed	বিছানা	bichānā	–		
+S07.421	the pillow	উপাধান	upādhāna 	–		
+S07.422	the blanket	কম্বল	kambala	–		
+S07.430	the chair	কেদারা	kedārā	–		
+S07.440	the table	মেজ	meja	–		
+S07.450	the lamp or torch	দীপ	dīpa	–		
+S07.460	the candle	বাতি	bāti 	–		
+S07.470	the shelf	তাক	tāka	Put it back on the top shelf.		
+S07.480	the trough	তাগারি	tāgāri 	–		
+S07.510	the roof	ছাদ	chāda	–		
+S07.520	the thatch	চালাঘর	cālāghara 	–		
+S07.530	the ridgepole	-	-	–		
+S07.540	the rafter	-	-	–		
+S07.550	the beam	বিম	bima 	–		
+S07.560	the post or pole	মেরু	meru	a fence post		
+S07.570	the board	পাটা	pāṭā	–		
+S07.580	the arch	খিলান	khilāna	–		
+S07.610	the mason	স্হপতি	sthapati 	–		
+S07.620	the brick	ইট	iṭa 	–		
+S07.630	the mortar(2)	খল	khala	–		
+S07.640	the adobe	বাড়ি	bār̖i	–		
+S08.110	the farmer	কৃষক	kr̥ṣaka	The poor farmer did not own the land he cultivated.		
+S08.120	the field	মাঠ	māṭha	The field was planted with cabbage.		
+S08.130	the garden	উদ্দ্যান	uddyāna	Behind the house was a garden where the family grew vegetables.		
+S08.150	to cultivate	চাষ করা	cāṣa karā	There is no more land left to cultivate.		
+S08.160	the fence	বেড়া	ber̖ā	–		
+S08.170	the ditch	খন্দ	khanda	–		
+S08.210	to plough/plow	হল	hala	–		
+S08.212	the furrow	সীতা	sītā 	–		
+S08.220	to dig	কোদলানো	kodalāno	–		
+S08.230	the spade	কোদাল	kodāla	–		
+S08.240	the shovel	বেলচা	belacā 	–		
+S08.250	the hoe	নিড়ানো	nir̖āno	–		
+S08.260	the fork(2)/pitchfork	-	kānṭā 	–		
+S08.270	the rake	আঁচড়া	ān̄car̖ā	–		
+S08.310	to sow	আজ্জানো, বপন করা	ājjāno, bapana karā	–		
+S08.311	the seed	বীজ	bīja	–		
+S08.320	to mow	কাটা	kāṭā 	–		
+S08.330	the sickle or scythe	কাস্তে	kāste	–		
+S08.340	to thresh	ঝাড়া	jhār̖ā	–		
+S08.350	the threshing-floor	খামার	khāmāra 	–		
+S08.410	the harvest	ফসল	phasala 	–		
+S08.420	the grain	দানা	dānā	–		
+S08.430	the wheat	গম	gama	–		
+S08.440	the barley	যব	yaba	–		
+S08.450	the rye	রাই	rāi	–		
+S08.460	the oats	চিড়া	cir̖ā	–		
+S08.470	the maize/corn	ভুট্টা	bhuṭṭā	The bought corn-on-the-cob from the vendor in the park.		
+S08.480	the rice	ভাত	bhāta	They ate their rice with the stew.		
+S08.510	the grass	ঘাস	ghāsa	Green grass was growing in the forest clearing.		
+S08.520	the hay	পালুই, খড়	pālui, khar̖ 	–		
+S08.530	the plant	গাছপালা, উদ্ভিদ	gāchapālā, udbhida	–		
+S08.531	to plant	পোঁতা	pon̄tā	–		
+S08.540	the root	মূল	mūla	–		
+S08.550	the branch	শাখা	śākhā	–		
+S08.560	the leaf	পাতা	pātā	–		
+S08.570	the flower	ফুল	phula	–		
+S08.600	the tree	গাছ	gācha	–		
+S08.610	the oak	ওক	oka	–		
+S08.620	the beech	মসৃণ বাকল	masriṇa bākala	–		
+S08.630	the birch	ভূর্জ	bhūrja	–		
+S08.640	the pine	পাইন গাছ	pāina gācha	–		
+S08.650	the fir	-	-	–		
+S08.660	the acorn	ওক বীজ	oka bīja	–		
+S08.670	the vine	-	-	–		
+S08.680	the tobacco	তামাক	tāmāka	–		
+S08.690	to smoke	-	dhūmapān karā	–		
+S08.691	the pipe	নল	nala	–		
+S08.720	the tree stump	গুঁড়ি	gun̄r̖i	–		
+S08.730	the tree trunk	কান্ড	kānḍa	–		
+S08.740	the forked branch	-	-	–		
+S08.750	the bark	ছাল	chāla	–		
+S08.760	the sap	অঙ্কুর	aṅkura	The farmers collected the sap from the maple trees to make syrup. 		
+S08.810	the palm tree	তাল গাছ	tāla gācha	Dates grow on palm trees. 		
+S08.820	the coconut	নারকোল	nārakola	The boy picked a green coconut and drank its juice.		
+S08.830	the citrus fruit	লেবু	lebu	–		
+S08.840	the banana	কলা	kalā	The monkey peeled the banana and ate it.		
+S08.850	the banyan	বট গাছ	baṭa gācha	–		
+S08.910	the sweet potato	মিষ্টি আলু	miṣṭi ālu	–		
+S08.912	the yam	গাছ আলু	gācha ālu	–		
+S08.920	the cassava/manioc	-	-	The farmer grew cassava/manioc to feed his family. 		
+S08.930	the gourd	অলাবু, লাউ	alābu, lāu	–		
+S08.931	the pumpkin or squash	কুমড়া	kumar̖ā	–		
+S08.940	the bamboo	বাঁশ	bān̄śa	–		
+S08.941	the sugar cane	আখ	ākha	–		
+S08.960	the fish poison	-	-	–		
+S08.970	the nettle	বিছুটি	bichuṭi 	–		
+S08.980	the mushroom	ছত্রাক	chatrāka	–		
+S09.110	to do	করা	karā	A has climbed on a tree. B says to A: "What are you doing up there?"		
+S09.120	the work	কাজ	kāja	I can't go out because I have too much work.		
+S09.140	to bend	-	bānkāno, bānkā kārā 	I'll bend the branches away so that you can get through.		
+S09.150	to fold	ভাঁজ করা	bhān̄ja karā	She folded the piece of paper and put it in the envelope.		
+S09.160	to tie	আবদ্ধ করা	ābaddha karā	He tied his dog to a tree.		
+S09.161	to untie	আলুলায়িত করা, খোলা	ālulāyita karā, kholā	He untied his dog from the tree.		
+S09.180	the chain	শৃঙ্খল	śr̥ṅkhala	–		
+S09.190	the rope	রশি	raśi	They tied up the prisoner with rope.		
+S09.192	the knot	গিঁট	gin̄ṭa	Can you help me undo this knot?		
+S09.210	to strike or hit or beat	চোটানো, মারা	coṭāno, mārā	–		
+S09.211	to pound	ছেঁচা	chencā (deoyā) 	He pounded the door with his fist.		
+S09.220	to cut	কুচানো, কাঁটা	kucāno, kān̄ṭā	The thieves cut the phone wires and entered the house.		
+S09.221	to cut down	ছিন্ন	chinna 	Before building the road, we first have to cut down many trees.		
+S09.222	to chop	কোপানো	kopāno	chopping wood for the fire		
+S09.223	to stab	ছুরি মারা 	churi mārā	Brutus stabbed Caesar to death.		
+S09.230	the knife(2)	চাকু	cāku	To chop the onions I need a knife.		
+S09.240	the scissors or shears	কাঁচি	kān̄ci	–		
+S09.250	the axe/ax	কুঠার	kuṭhāra	–		
+S09.251	the adze	বাইস	bāisa	–		
+S09.260	to break	ভাঙা	bhāṅā	The thieves got into the house by breaking a window.		
+S09.261	broken	ভগ্ন	bhagna	The radio is broken, it won't turn on.		
+S09.270	to split	বিভক্ত কারা	bibhakta kārā	This log is too large, we have to split it into two.		
+S09.280	to tear	ছেঁড়া	chen̄r̖ā	She tore a piece of her blouse to use as a bandange.		
+S09.290	to skin	চাঁছা	cān̄chā	The cook skinned the chicken before frying it.		
+S09.310	to rub	কচলানো	kacalāno 	He rubbed the fragrant leaves between his fingers.		
+S09.320	to stretch	টেনে বাড়ানো	ṭene bār̖āno	Don't stretch the rubber band too much.		
+S09.330	to pull	টানা	ṭānā 	Help me move the piano: you push and I'll pull.		
+S09.340	to spread out	চারানো	cārāno	They spread out the mat on the ground and sat on it.		
+S09.341	to hang up	টাঙানো	ṭāṅāno	Hang your coat up on the hook.		
+S09.342	to press	ঠাসা	ṭhāsā 	The little boys pressed their noses against the glass.		
+S09.343	to squeeze	কচলানো	kacalāno 	She squeezed some oranges and drank the juice.		
+S09.350	to pour	ঢালা	ḍhālā	He poured the wine into the glass.		
+S09.360	to wash	ধোয়া	dhoyā	She washed her son's feet.		
+S09.370	to sweep	-	jhān̄ṭa deoyā	He swept the path in front of the house.		
+S09.380	the broom	ঝাঁটা	jhān̄ṭā	–		
+S09.422	the tool	যন্ত্রপাতি	yantrapāti	–		
+S09.430	the carpenter	বাড়ই, ছুতার	bār̖ai, chutāra	–		
+S09.440	to build	নির্মাণ	nirmāṇa	build a house		
+S09.460	to bore	বিঁধ করা	bin̄dha kārā	–		
+S09.461	to hollow out	ছিদ্র করা	chidra karā	–		
+S09.480	the saw	করাত	karāta	One needs a saw to cut down a tree.		
+S09.490	the hammer	হাতুড়ি	hātur̖i	–		
+S09.500	the nail	পেরেক , নখ	pereka , nakha	–		
+S09.560	the glue	আঠা	āṭhā	–		
+S09.600	the blacksmith	কামার	kāmāra	–		
+S09.610	to forge	-	-	From a piece of scrap iron, the blacksmith forged a sword blade.		
+S09.620	the anvil	নিহাই	nihāi 	–		
+S09.630	to cast	ঢালা	ḍhālā 	The goldsmith melted the coins and cast them into a goblet.		
+S09.640	the gold	সোনা	sonā	The bracelet is made of gold.		
+S09.650	the silver	রুপা	rupā	The necklace is made of silver.		
+S09.660	the copper	তাম্র	tāmra 	The coin is made of copper.		
+S09.670	the iron	লৌহ	lauha 	–		
+S09.680	the lead	সীসা	sīsā	–		
+S09.690	the tin or tinplate	টিন	ṭina	The cup was made of tin.		
+S09.710	the potter	কুমোর	kumora 	The potter made jars.		
+S09.720	to mould/mold	-	-	She molded the clay into a dish before firing it.		
+S09.730	the clay	মৃত্	mr̖ita	–		
+S09.740	the glass	কাঁচ	kān̄ca	The window is made of glass.		
+S09.750	to weave or plait/braid	বোনা	bonā	–		
+S09.760	the basket	টুকরি	ṭukari	She carried the fruit home in a basket.		
+S09.770	the mat	গদি	gadi	–		
+S09.771	the rug	কম্বল	kambala	–		
+S09.780	the netbag	থলে	thale	–		
+S09.790	the fan	পাখা	pākhā	The lady had a delicate fan made of sandalwood.		
+S09.791	to fan	বাতাস করা	bātāsa karā	People in the audience were fanning themselves with their programmes.		
+S09.810	to carve	খুদা	khudā	Michaelangelo carved this figure from a single block of marble.		
+S09.820	the sculptor	ভাস্কর	bhāskara 	Rodin was a French sculptor.		
+S09.830	the statue	মূর্তি	mūrti	The sculptor made a statue of a woman.		
+S09.840	the chisel	বাটালি	bāṭāli 	–		
+S09.880	the paint	রং, রঙ	raṁ, raṅa	–		
+S09.890	to paint	দাগা	dāgā	We need to paint our house.		
+S10.110	to move	সরা	sarā	This rock is so heavy that it cannot be moved.		
+S10.120	to turn	ঘুরা, ঘোরা	ghurā, ghorā 	to turn one's head		
+S10.130	to turn around	ঘুরা, ঘোরা	ghurā, ghorā 	He heard someone call out his name and turned around.		
+S10.140	to wrap	মুড়া, মোড়া	mur̖ā, mor̖ā	He wrapped the fish in leaves and steamed it.		
+S10.150	to roll	গড়ানো	gar̖āno	He rolled the log down the hill.		
+S10.160	to drop	টোপানো	ṭopāno	We dropped the stone into the water.		
+S10.170	to twist	মচকানো	macakāno	She twisted the wire around the branch.		
+S10.210	to rise	ফুটা, ফোটা	phuṭā, phoṭā 	The sun rises in the east.		
+S10.220	to raise or lift	তোলা	tolā	–		
+S10.230	to fall	পড়া	par̖ā	The ripe coconut fell on the ground.		
+S10.240	to drip	ঝরা	jharā	The tap is dripping, shut it tightly!		
+S10.250	to throw	ছুড়া, ছোড়া	chur̖ā, chor̖ā	Don't throw stones, it's dangerous!		
+S10.252	to catch	লোফা	lophā	She caught the ball and passed it to her team mate.		
+S10.260	to shake	ঝাঁকা	jhān̄kā	Shake the bottle before pouring out the sauce.		
+S10.320	to flow	ছুটা, ছোটা	chuṭā, choṭā	The river flows to the sea.		
+S10.330	to sink	ডুবা	ḍubā 	The coconut fell into the water and sank.		
+S10.340	to float	-	bhāsā, bhese thākā	The raft floated on the river.		
+S10.350	to swim	সাঁতরানো	sān̄tarāno	He drowned because he could not swim.		
+S10.351	to dive	ডুব মারা	ḍuba mārā	Diving too deeply is dangerous.		
+S10.352	to splash	ছিটানো	chiṭāno	The girl splashed water in the boy's face.		
+S10.360	to sail	পাল তোলা	pāla tolā	The ship sailed from America to Australia.		
+S10.370	to fly	ওড়া	or̖ā 	Look at that bird flying up in the sky!		
+S10.380	to blow	ফুঁকা, ফোঁকা	phun̄kā, phon̄kā 	The wind is blowing hard.		
+S10.410	to crawl	-	hāmā deoyā, hāmāgur̖i 	The baby is still crawling, it can't walk yet.		
+S10.412	to kneel	নতজানু হওয়া	natajānu haoyā	The messenger kneeled before the king.		
+S10.413	to crouch	গুড়ি মারা 	guri mārā	She crouched under the sink to fix the pipes.		
+S10.420	to slide or slip	পিছলানো	pichalāno	–		
+S10.430	to jump	তড়পানো, লাফানো	tar̖pāno, lāphāno	The children were so happy they jumped up and down.		
+S10.431	to kick	লাথি মারা	lāthi mārā	He kicked the ball.		
+S10.440	to dance	নাচা	nācā	Though the music stopped they kept on dancing.		
+S10.450	to walk	হাঁটা	hān̄ṭā 	The children walk to school every day.		
+S10.451	to limp	ল্যাংচানো	lyāṁcāno 	After his foot injury he limped for months.		
+S10.460	to run	দৌড়ানো	daur̖āno	They ran all the way to school.		
+S10.470	to go	চলা	calā	Sometimes I go to school by car, sometimes on foot.		
+S10.471	to go up	চড়া	car̖ā	I went up on the roof to get a better view.		
+S10.472	to climb	চড়া	car̖ā	If you want to pick mangos, you must climb the tree.		
+S10.473	to go down	ঢলা	ḍhalā	Come down from the roof or you'll fall down.		
+S10.474	to go out	বাইরে যাওয়া	bāire yāoyā	Get out of here before you get hurt!		
+S10.480	to come	আসা	āsā	When I came to school it was still closed.		
+S10.481	to come back	ফিরে আসা	phire āsā	He left and then came back an hour later.		
+S10.490	to leave	যাওয়া	yāoyā	The guest arrived yesterday and left this morning.		
+S10.491	to disappear	লুকানো	lukāno	The man disappeared without a trace.		
+S10.510	to flee	পালানো	pālāno	Because of the fire they had to flee their home.		
+S10.520	to follow	অনুসরণ (করা)	anusaraṇa (karā)	I came here first, my family followed me later.		
+S10.530	to pursue	পশ্চাদ্ধাবন করা 	paśchāddhaban karā	The policeman pursued the thief.		
+S10.550	to arrive	পৌঁছা	paun̄chā	The guest arrived yesterday and left this morning.		
+S10.560	to approach	নিকটবর্তী হওয়া	nikaṭabartī haoyā	As we approached the city we could see the lights in the distance.		
+S10.570	to enter	ঢোকা	ḍhokā	She entered the room and sat down.		
+S10.610	to carry	বহন করা	bahana karā	She carried her baby home.		
+S10.612	to carry in hand	হাতে বহন করা	hāte bahana karā	She carried a stone in her hand.		
+S10.613	to carry on shoulder	কাঁধে বহন করা	kān̄dhe bahana karā	He carried the books on his shoulder.		
+S10.614	to carry on head	মাথায় বহন করা	māthāya bahana karā	She carried the fruit basket on her head.		
+S10.615	to carry under the arm	বগলে বহন করা	bagale bahana karā	She carried her bag under her arm.		
+S10.620	to bring	আনা	ānā	Please bring me the book you are holding.		
+S10.630	to send	পাঠানো	pāṭhāno	She sent her parents some money.		
+S10.640	to lead	নেতৃত্ব দেওয়া	netritba deoyā	The dog led the hunter to the fox.		
+S10.650	to drive	চালানো	cālāno	He can drive a car, but not a truck.		
+S10.660	to ride	চড়া	car̖ā	She rides her horse to work every day.		
+S10.670	to push	নাড়ানো	nār̖āno	Don't push me or I'll fall down.		
+S10.710	the road	রাস্তা	rāstā	Many cars drove up and down the road.		
+S10.720	the path	রাস্তা	rāstā	The path leads from the house to the field.		
+S10.740	the bridge	সেতু	setu	A beautiful bridge stood over the river.		
+S10.750	the cart or wagon	শকট	śakaṭa	The cart was pulled by a horse.		
+S10.760	the wheel	চাকা	cākā	The car has four wheels.		
+S10.770	the axle	অক্ষদন্ড	akṣadanḍa	–		
+S10.780	the yoke	জোয়াল	joyāla	–		
+S10.810	the ship	জাহাজ	jāhāja	–		
+S10.830	the boat	নৌকা	naukā	–		
+S10.831	the canoe	ডিঙি	ḍiṅi	–		
+S10.832	the outrigger	-	-	–		
+S10.840	the raft	ভেলা	bhelā	–		
+S10.850	the oar	দাঁড়	dān̄r̖a	–		
+S10.851	the paddle	বৈঠা	baiṭhā	–		
+S10.852	to row	বাওয়া	bāoyā	–		
+S10.860	the rudder	হাল	hāla	–		
+S10.870	the mast	মাস্তুল, মালুমকাঠ	māstula, mālumakāṭha	–		
+S10.880	the sail	পাল	pāla	–		
+S10.890	the anchor	নোঙর	noṅara	–		
+S10.910	the port	বন্দর	bandara	–		
+S10.920	to land	-	-	–		
+S11.110	to have	থাকা	thākā	The boy has a flower in his hand.		
+S11.120	to own	মালিকানা	mālikānā	The woman owns a car.		
+S11.130	to take	ধরা	dharā	I took my bag and walked to the market square.		
+S11.140	to grasp	জড়ানো	jar̖āno 	Make sure you grasp the rope with both hands.		
+S11.150	to hold	ধরা	dharā	I held the baby in my arms.		
+S11.160	to get	পাওয়া	pāoyā	–		
+S11.170	to keep	রাখা	rākhā 	I like the hat you gave me and I'd like to keep it.		
+S11.180	the thing	জিনিস	jinisa	My brother is rich, and many things in his house are never used.		
+S11.210	to give	দেওয়া	deoyā 	The girl gave the boy a flower.		
+S11.220	to give back	ফিরিয়ে দেওয়া	phiriye deoyā	I lent you my watch, and you haven't given it back yet.		
+S11.240	to preserve	সংরক্ষণ করা	saṃrakṣaṇa kārā	I think these traditional customs should be preserved. / The wreck was preserved by the muddy sea bed.		
+S11.250	to rescue	রক্ষা করা	rakṣā karā	He saved his friend from drowning.		
+S11.270	to destroy	ধ্বংস করা	dhbaṁsa karā	The school was completely destroyed by fire.		
+S11.280	to injure	অপকার	apakāra 	The falling tree injured two loggers.		
+S11.310	to look for	খোঁজ  করা	khon̄ja kārā	I am looking for my purse; I must have lost it on my way.		
+S11.320	to find	পাওয়া	pāoyā	I had lost my purse but I found it again.		
+S11.330	to lose	হারানো	hārāno	I had lost my purse but I found it again.		
+S11.340	to let go	যেতে দেওয়া	yete deoyā	She let go of the rope.		
+S11.430	the money	টাকা	ṭākā	A thousand dollars is a lot of money.		
+S11.440	the coin	মুদ্রা	mudrā	I don't have any coins left, only paper money.		
+S11.510	rich	ধনী, সমৃদ্ধ	dhanī, samr̥d'dha	The beggar invested his money so well that he became rich.		
+S11.520	poor	গরীব, দরিদ্র	garība, daridra	After he became rich, he donated a lot of money to poor people.		
+S11.530	the beggar	ভিক্ষুক	bhikṣuka	The beggar collected money in a cup.		
+S11.540	stingy	কঞ্জুস	kan͂jusa	He is so stingy he doesn't heat his house even in winter.		
+S11.610	to lend	দেওয়ানো, দেওয়া	deoyāno	Can you lend me your ladder?		
+S11.620	to borrow	ধার করা	dhāra karā	Can I borrow your ladder?		
+S11.630	to owe	ধারা, ঋণ করা	dhārā, dhāna karā	My brother owes me 100 Euros.	 	
+S11.640	the debt	ঋণ	r̥ṇa	He now had enough money to pay off his father's outstanding debts.		
+S11.650	to pay	মজুরি দেয়া	majuri deyā	I paid 100 Euros for this book.		
+S11.660	the bill	বিল	bila	–		
+S11.690	the tax	কর	kara	If you don't pay your taxes, you go to jail.		
+S11.770	to hire	ভারা, ভাড়া	bhārā, bhār̖ā	We need to hire/employ more workers if we want to finish the task in time.		
+S11.780	the wages	পরিভৃতি, বেতন	paribhr̖ti, betana	The job's not very exciting, but he earns a good wage.		
+S11.790	to earn	কামানো	kāmāno 	The job's not very exciting, but he earns a good wage.		
+S11.810	to buy	কেনা	kenā 	I bought ten bananas for a dollar.		
+S11.820	to sell	বেচা	becā	He sold his car for five thousand Euros.		
+S11.830	to trade or barter	বেচাকেনা করা	becākenā karā	The farmer traded his cow for three goats.		
+S11.840	the merchant	ব্যবসায়ী	byabasāyī	–		
+S11.850	the market	বাজার	bājāra	He is going to the market to buy vegetables.		
+S11.860	the shop/store	দোকান	dokāna	There are no shops in the market, only open stalls.		
+S11.870	the price	দাম, মূল্য	dāma, mūlya	The price of these bananas is two dollars a bunch.		
+S11.880	expensive	মূল্যবান	mūlyabāna	Mangos are more expensive than bananas.		
+S11.890	cheap	সস্তা	sastā	Bananas are so cheap even poor people can afford them.		
+S11.910	to share	বখরা করা 	bakharā kārā	The girl shared the cookies with her brother.		
+S11.920	to weigh	পরিমাণ করা	parimāṇa kārā 	The bag weighs 10 kilograms.		
+S12.110	the place	জায়গা	jāyagā 	This place is too hot, let's look for a cooler place.		
+S12.120	to put	রাখা	rākhā	He put the book on the table.		
+S12.130	to sit	জেঁকে বসা	jān̄ke basā	Let's sit under the tree.		
+S12.140	to lie down	শয়ন	śayana 	She lay down in her bed but could not fall asleep.		
+S12.150	to stand	দাঁড়ান	dān̄r̖āno	He got tired of standing and sat down.		
+S12.160	to remain	থাকা	thākā	I plan to remain here for a week.		
+S12.170	the remains	ধ্বংসাবশেষ	dhbaṃsābaśeṣa	After the earthquake, some people continued to live in the remains of their homes.		
+S12.210	to gather	জড়ো করা	jar̖o karā	He gathered wild mushrooms for dinner.		
+S12.212	to pick up	কুড়ানো	kur̖āno 	She picked up the stone and then threw it down again.		
+S12.213	to pile up	স্তুপ করা	stupa kārā	He piled up the mushrooms he had collected.		
+S12.220	to join	জোড়ানো	jor̖āno 	He joined the two boards with nails.		
+S12.230	to separate	পৃথক  করা	pr̥thaka  kārā	He separated the two boards by pulling out the nails.		
+S12.232	to divide	বিভাজন	bibhājana	She divided the bananas equally among the children.		
+S12.240	to open	খোলা	kholā	He opened the door and went out.		
+S12.250	to shut	বন্ধ করা	bandha karā	After coming in, he shut the door.		
+S12.260	to cover	ঢাকা	ḍhākā	He covered the child with a blanket.		
+S12.270	to hide	গোপন করা	gopana kārā	Hide your money here, so no one can find it.		
+S12.310	high	উচ্চ	ucca	The eagle flew so high it was hardly visible.		
+S12.320	low	অল্প	alpa	The bat flew so low its wings brushed against the bush.		
+S12.330	the top	সর্বোচ্চ, শীর্ষ	sarbocca, śīrṣa	The top of the tree caught fire.		
+S12.340	the bottom	তলা	talā	The coin was lying on the bottom of the pond.		
+S12.350	the end(1)	শেষ	śeṣa	At the end of the village stood a small house.		
+S12.352	pointed	তীক্ষ্ণ	tīkṣṇa	He pierced the leather with a pointed knife.		
+S12.353	the edge	কিনারা	kinārā	–		
+S12.360	the side	পাশ	pāśa	There were trees on both sides of the house.		
+S12.370	the middle	মধ্য	madhya	–		
+S12.410	right(1)	ডান	ḍāna	on the right side		
+S12.420	left	বাম	bāma	on the left side		
+S12.430	near	নিকট	nikaṭa	She was standing near enough to hear what they said.		
+S12.440	far	দূর	dūra	–		
+S12.450	the east	পূর্ব	pūrba	–		
+S12.460	the west	পশ্চিম	paścima	–		
+S12.470	the north	উত্তর	uttara	–		
+S12.480	the south	দক্ষিণ	dakṣiṇa	–		
+S12.530	to grow	গজানো	gajāno	–		
+S12.540	to measure	মাপা	māpā	–		
+S12.541	the fathom	গভীরতা মাপা	gabhīratā māpā	–		
+S12.550	big	বড়	bar̖a	–		
+S12.560	small	ছোট	choṭa	–		
+S12.570	long	লম্বা, দীর্ঘ	lambā, dīrgha	–		
+S12.580	tall	লম্বা	lambā	–		
+S12.590	short	ছোট	choṭa	–		
+S12.610	wide	প্রশস্ত	praśasta	–		
+S12.620	narrow	সরু	saru	–		
+S12.630	thick	পুরু	puru	a thick board		
+S12.650	thin	পাতলা	pātalā	a thin board		
+S12.670	deep	গভীর	gabhīra	–		
+S12.680	shallow	অগভীর	agabhīra	–		
+S12.710	flat	চ্যাপ্টা	cyāpṭā	–		
+S12.730	straight	সটান	saṭāna 	–		
+S12.740	crooked	কুটিল	kuṭila 	–		
+S12.750	the hook	হুক	huka	–		
+S12.760	the corner	কোণ	koṇa	–		
+S12.770	the cross	অতিক্রম	atikrama	–		
+S12.780	the square	চৌকো	cauko	–		
+S12.810	round	গোল	gola	–		
+S12.820	the circle	বৃত্ত	br̥itta	–		
+S12.830	the ball	বল	bala	–		
+S12.840	the line	লাইন, সারি	lāina, sāri	–		
+S12.850	the hole	গর্ত	garta	–		
+S12.920	similar	অনুরূপ	anurūpa	–		
+S12.930	to change	পরিবর্তন	paribartana	The baby changed her life.		
+S13.100	ten	দশ	daśa	ten trees		
+S13.101	eleven	এগারো	egāro	eleven trees		
+S13.102	twelve	বারো	bāro	twelve trees		
+S13.103	fifteen	পনের	panera	fifteen trees		
+S13.104	twenty	কুড়ি	kur̖i	twenty trees		
+S13.105	a hundred	শত	śata	a hundred trees		
+S13.106	a thousand	হাজার	hājāra	a thousand trees		
+S13.107	to count	গুনতি করা, গোনা	gunati kārā, gonā	The teacher was counting the children as they got on the bus.		
+S13.140	all	সব	saba	All the children got on the bus.		
+S13.150	many	অনেক	aneka	There are many children on the bus.		
+S13.160	more	বেশি	beśi	Today I found more mushrooms than yesterday.		
+S13.170	few	অল্প	alpa	There are few mushrooms in this forest.		
+S13.180	enough	যথেষ্ট	yatheṣṭa	Today I found enough mushrooms for our supper.		
+S13.181	some	কিছু	kichu	Today we found some mushrooms.		
+S13.190	the crowd	ভীড়	bhīr̖a	There was a large crowd of people waiting outside the theatre.		
+S13.210	full	পূর্ণ	pūrṇa	An empty pot is easier to carry than a full pot.		
+S13.220	empty	ফাঁকা	phān̄kā	An empty pot is easier to carry than a full pot.		
+S13.230	the part	খন্ড	khanḍa	The front part of the car was badly damaged.		
+S13.240	the half	অর্ধেক	ardheka	She cut the banana in two halves and gave one half to her husband.		
+S13.330	only	একমাত্র	ekamātra	Saturn is the only planet with rings.		
+S13.340	first	প্রথম	prathama	You are the first person I see today.		
+S13.350	last	শেষ	śeṣa	You were last person I saw before going to bed.		
+S13.360	second	দ্বিতীয়	dbitīya	You are the second person I see today.		
+S13.370	the pair	জোড়া	jor̖ā	a pair of shoes		
+S13.380	twice/two times	দুইবার	duibāra	He came over twice today.		
+S13.420	third	তৃতীয়	tr̥tīya	You are the third person I see today.		
+S13.440	three times	তিন বার	ṭina bāra	He came over three times today.		
+S14.110	the time	সময়	samaya	Only time can heal her pain.		
+S14.120	the age	বয়স	bayasa	At this age the baby can only drink milk.		
+S14.130	new	নতুন	natuna	I bought a new car.		
+S14.140	young	যুবক	yubaka	He is too young to eat solid foods.		
+S14.150	old	পুরনো, বৃদ্ধ	purano, briddha	She is so old that all her teeth are gone.		
+S14.160	early	আগে	āge	Come early, otherwise you won't get any cake.		
+S14.170	late	দেরি	deri	Don't come late, otherwise you won't get any cake.		
+S14.180	now	এখন	ekhana	I was sick last week, but I'm fine now.		
+S14.190	immediately	এখুনি	ekhuni	Come here immediately!		
+S14.210	fast	দ্রুত	druta	That man runs as fast as a horse.		
+S14.220	slow	ধীর	dhīra	That horse runs as slow as a human.		
+S14.230	to hurry	তাড়াহুড়ো করা	tār̖āhur̖o karā	Please hurry, or we'll be late.		
+S14.240	to be late	দেরী হওয়া	derī haoyā	We expected her by 10 o'clock, but she was late.		
+S14.250	to begin	আরম্ভ করা	ārambha kārā	I began the work yesterday.		
+S14.252	to last	টিকানো	ṭikāno	The dry season lasts three months.		
+S14.260	the end(2)	প্রান্ত	prānta	At the end of the harvest there is a celebration.		
+S14.270	to finish	সমাপন করা	samāpana  kārā	I began building my house five years ago, but only finished it this year.		
+S14.280	to cease	নিবৃত্ত করা	nibr̖tta kārā	The two sides promised to cease all hostile acts against each other.		
+S14.290	ready	তৈরি	tairi	I'm ready to go, but my husband is still in the shower.		
+S14.310	always	সর্বদা	sarbadā	He always comes late.		
+S14.320	often	প্রায়শই	prāyaśai	He often comes late, but today he's on time.		
+S14.330	sometimes	ক্কচিত্, কখনো	kkacit, kakhano	Sometimes he comes late, but more often he's on time.		
+S14.331	soon	তাড়াতাড়ি	tār̖ātār̖i	Don't go yet, he'll be here soon.		
+S14.332	for a long time	দীর্ঘ সময়	dīrgha samaya	He waited for a long time, but she never came.		
+S14.340	never	কখনো না	kakhano nā	I never eat pork.		
+S14.350	again	আবার	ābāra	I was there yesterday, but today I'm going again.		
+S14.410	the day(1)	দিনের	dinera	The days are very hot here, but the nights are cool.		
+S14.420	the night	রাত্রি	rātri	The days very hot here, but the nights are cool.		
+S14.430	the dawn	ভোর	bhora	The sun comes up at dawn.		
+S14.440	the morning	সকাল	sakāla	The children go to school in the morning.		
+S14.450	the midday	মধ্যাহ্ন	madhyāhna 	We prefer having dinner at midday rather than in the evening.		
+S14.451	the afternoon	অপরাহ্ন	aparāhna 	In the aftertoon I like to take a nap.		
+S14.460	the evening	সন্ধ্যা	sandhyā	We prefer having dinner at midday rather than in the evening.		
+S14.470	today	আজ	āja	He's not in today, please call again tomorrow morning.		
+S14.480	tomorrow	আগামীকাল	āgāmīkāla	He's not in today, please call again tomorrow morning.		
+S14.481	the day after tomorrow	পরশু	paraśu	She's leaving tomorrow and coming back the day after tomorrow.		
+S14.490	yesterday	গতকাল	gatakāla	She left the day before yesterday and arrived yesterday.		
+S14.491	the day before yesterday	গত পরশু	gata paraśu	She left the day before yesterday and arrived yesterday.		
+S14.510	the hour	ঘন্টা	ghanṭā	The day here lasts 15 hours in midsummer.		
+S14.530	the clock	ঘড়ি	ghar̖i	That clock on the wall was bought by my grandfather.		
+S14.610	the week	সপ্তাহ	saptāha	I'm planning to stay for a week or two.		
+S14.620	Sunday	রবিবার	rabibāra	On Sunday we go to church.		
+S14.630	Monday	সোমবার	somabāra	On Monday we go to work.		
+S14.640	Tuesday	মঙ্গলবার	maṅgalabāra	On Tuesday we're having a party.		
+S14.650	Wednesday	বুধবার	budhabāra	On Wednesday there is a holiday.		
+S14.660	Thursday	বৃহস্পতিবার	br̥haspatibāra	On Thursday my mother is arriving.		
+S14.670	Friday	শুক্রবার	śukrabāra	On Friday we go to the mosque.		
+S14.680	Saturday	শনিবার	śanibāra	On Saturday we go to the synagogue.		
+S14.710	the month	মাস	māsa	There are twelve months in a year.		
+S14.730	the year	সাল, বছর	sāla, bachara	A year normally lasts 365 days.		
+S14.740	the winter	শীতকাল	śītakāla	The winters are very cold here.		
+S14.750	the spring(2)	বসন্তকাল	basantakāla	The tree blooms in the spring.		
+S14.760	the summer	গ্রীষ্ম	grīṣma	The summers are very hot here.		
+S14.770	the autumn/fall	হেমন্ত	hemanta	In the autumn it gets cooler.		
+S14.780	the season	ঋতু	r̥itu	There are only two seasons here, the dry season and the wet season.		
+S15.210	to smell(1)	শুঁকা	śun̄kā 	The flower smells pleasant.		
+S15.212	to sniff	শুঁকা	śunkā	He opened the milk and sniffed it.		
+S15.220	to smell(2)	-	ghrāṇa (neoyā)	I think I smell gas!		
+S15.250	fragrant	সুগ'ন্ধ	sugandha	–		
+S15.260	stinking 	দুর্গন্ধ ছড়ানো	dūrgandha char̖āno	–		
+S15.310	to taste	চাখা	cākhā	This soup tastes very good.		
+S15.350	sweet	মিষ্টি	miṣṭi	The ripe fruit is sweet.		
+S15.360	salty	লবণাক্ত, নোনতা	labaṇākta , nonatā	The soup is too salty, add some water.		
+S15.370	bitter	তিক্ত	tikta 	The medicine is bitter, take it with honey.		
+S15.380	sour	টক	ṭaka	Sprinkle a little sugar over the strawberries if they are sour.		
+S15.390	brackish	ঈষৎ লোনা	īṣatta lonā	brackish water		
+S15.410	to hear	শোনা	śonā 	I heard the sound of rain splashing on the window.		
+S15.420	to listen	শোনা	śonā 	Listen to the strange noise in the engine.		
+S15.440	the sound or noise	কোলাহল	kolāhala	There were strange sounds coming from the next room.		
+S15.450	loud	প্রবল	prabala	The music is very loud.		
+S15.460	quiet	ভব্য, শান্ত	bhabya, śānta	We have to be quiet so as not to wake the baby.		
+S15.510	to see	দেখা	dekhā	I see a house in the distance.		
+S15.520	to look	দেখা	dekhā	I'm looking but I can't see the house.		
+S15.550	to show	দেখানো	dekhāno	She showed me her house.		
+S15.560	to shine	ঝিলিক দেওয়া	jhilika deoyā	That lamp is shining in my eyes.		
+S15.570	bright	উজ্জ্বল	ujjbala	I awoke from the bright sunlight.		
+S15.610	the colour/color	রং	raṁ	My shirt is red, but I'd prefer a different colour.		
+S15.620	light(2)	লঘু	laghu 	–		
+S15.630	dark	আঁধার	āmdhāra	It is dark in the room because the lamp is broken.		
+S15.640	white	সাদা	sādā	(snow)		
+S15.650	black	কাল	kāla	(charcoal)		
+S15.660	red	লাল	lāla	(blood)		
+S15.670	blue	নীল	nīla	(sky)		
+S15.680	green	সবুজ	sabuja	(leaves)		
+S15.690	yellow	হলুদ	haluda	(yolk of chicken egg)		
+S15.710	to touch	ছোঁয়া	chomyā	The child wanted to touch everything.		
+S15.712	to pinch	টিপা, টেপা	ṭipā, ṭepā	Mum, the boy pinched me!		
+S15.720	to feel	পরশ	paraśa	Feel (the quality of) this cloth!		
+S15.740	hard	শক্ত	śakta	Diamond is the hardest substance known to man.		
+S15.750	soft	নরম	narama	a soft pillow		
+S15.760	rough(1)	অসমতল	asamatala	Her hands were rough from hard work.		
+S15.770	smooth	মোলায়েম	molāyema	smooth skin		
+S15.780	sharp	ধারাল	dhārāla	The knife is very sharp.		
+S15.790	blunt	ভোঁতা	bhontā 	This knife is blunt and does not cut well.		
+S15.810	heavy	ভারী	bhārī	The suitcase is too heavy for me to carry.		
+S15.820	light(1)	হালকা	hālakā 	You can carry this bag, it's fairly light.		
+S15.830	wet	আর্দ্র	ārdra	He fell into the water, so his clothes are now wet.		
+S15.840	dry	শুষ্ক	śuṣka	The clothes were in the sun for a long time and are now dry.		
+S15.850	hot	গরম	garama	It's better to do the work now because later it'll be too hot.		
+S15.851	warm	উষ্ণ	uṣṇa	The sun is shining and there's no wind, so it's warm and you can go out without a coat.		
+S15.860	cold	শীতল	śītala	It's cold outside, so you need warm clothes.		
+S15.870	clean	পরিষ্কার	pariṣkāra	I washed my hands, so now they are clean.		
+S15.880	dirty	নোংরা	nonrā	My hands are dirty from the work, so I need to wash them before the meal.		
+S15.890	wrinkled	-	bali, kockāno	the wrinkled face of a 90-year old man	bali 'wrinkled (skin)', kockāno 'wrinkled (clothes)'	
+S16.110	the soul or spirit	আত্মা	ātmā	–		
+S16.150	surprised or astonished	বিস্মিত	bismita	–		
+S16.180	the good luck	ভাল ভাগ্য, সৌভাগ‍্য	bhāla bhāgya, saubhāgya	–		
+S16.190	the bad luck	খারাপ ভাগ্য, দূর্ভাগ্য	khārāpa bhāgya, dūrbhāgya	–		
+S16.230	happy	সুখী	sukhī	–		
+S16.250	to laugh	হাসা	hāsā	–		
+S16.251	to smile	হাসা	hāsā 	–		
+S16.260	to play	ক্রীড়া করা, খেলা করা	krīr̖ā karā, khelā karā	–		
+S16.270	to love	ভালোবাসা	bhālobāsā	I love you.		
+S16.290	to kiss	চুম্বন করা	cumbana karā	–		
+S16.300	to embrace	জাপটানো	jāpaṭāno 	–		
+S16.310	the pain	বেদনা	bedanā 	–		
+S16.320	the grief	শোক	śoka 	–		
+S16.330	the anxiety	উদ্বেগ	udbēga	–		
+S16.340	to regret or be sorry	হা-হুতাশ করা	hā-hutāśa kārā	I regret my mistake./I am sorrry about my mistake.		
+S16.350	the pity	দরদ	darada	–		
+S16.370	to cry	আর্তনাদ করা	ārtanāda karā	–		
+S16.380	the tear	ছেঁড়া	chen̄r̖ā 	–		
+S16.390	to groan	গোঙানো	goṅāno	–		
+S16.410	to hate	ঘৃণা করা	ghr̖iṇā kārā	–		
+S16.420	the anger	রাগ	rāga	–		
+S16.440	the envy or jealousy	ঈর্ষা	īrṣā	–		
+S16.450	the shame	লজ্জা	lajjā	–		
+S16.480	proud	গর্ব	garba	–		
+S16.510	to dare	সাহস করা	sāhasa kārā	–		
+S16.520	brave	সাহসী	sāhasī	–		
+S16.530	the fear	ভয়	bhaya	–		
+S16.540	the danger	বিপদ	bipada	–		
+S16.620	to want	চাওয়া	cāoyā	–		
+S16.622	to choose	বাছা	bāchā	–		
+S16.630	to hope	আশা করা	āśā kārā	–		
+S16.650	faithful	বিশ্বাসী	biśbāsī	–		
+S16.660	true	সত্য	satya	–		
+S16.670	to lie(2)	মিথ্যা বলা	mitthā balā	–		
+S16.680	the deceit	ভন্ড	bhanḍa 	–		
+S16.690	to forgive	ক্ষমা করা	kṣamā kārā	–		
+S16.710	good	ভাল	bhāla	–		
+S16.720	bad	খারাপ	khārāpa	–		
+S16.730	right(2)	ঠিক	ṭhika	–		
+S16.740	wrong	ভুল	bhula	–		
+S16.760	the fault	দোষ	doṣa	It's your fault we missed the bus!		
+S16.770	the mistake	ভুল	bhula	–		
+S16.780	the blame	দোষারোপ	doṣāropa	–		
+S16.790	the praise	প্রশংসা	praśansā	–		
+S16.810	beautiful	সুন্দর	sundara	–		
+S16.820	ugly	কুরূপ	kurūpa	–		
+S16.830	greedy	লোভী	lobhī	–		
+S16.840	clever	চতুর	catura	–		
+S17.110	the mind	মন	mana	I don't know what's going on in her mind.		
+S17.130	to think(1)	ভাবা	bhābā	You should think first before speaking.		
+S17.140	to think(2)	ভাবা	bhābā 	I think that this is not right.		
+S17.150	to believe	বিশ্বাস করা	biśbāsa karā	You shouldn't believe everything you read.		
+S17.160	to understand	বোঝা, সমঝানো	bojhā, samajhāno 	I do not understand why they left us so early.		
+S17.170	to know	জানা	jānā	They know that we are coming today.		
+S17.171	to guess	অনুমান করা	ānomāna karā	Guess how much money I have.		
+S17.172	to imitate	অনুকরণ করা	anukaraṇa kārā	–		
+S17.180	to seem	মনে হওয়া	mane haoyā	The house seems to be empty.		
+S17.190	the idea	ধারনা	dhāranā	–		
+S17.210	wise	জ্ঞানী	jñānī	–		
+S17.220	stupid	মূর্খ	mūrkha	–		
+S17.230	mad	পাগল	pāgala	–		
+S17.240	to learn	শেখা	śekhā	Where did you learn to cook so well?		
+S17.242	to study	পড়া	par̖ā	I have to study for my test.		
+S17.250	to teach	শিক্ষা দেওয়া	śikṣā deoyā	–		
+S17.260	the pupil	শিষ্য, ছাত্র	śiṣya, chātra	There are 10 pupils in the class, aged 6-7.		
+S17.270	the teacher	শিক্ষক	śikṣaka	–		
+S17.280	the school	বিদ্যালয়	bidyālaya	The children go to school every morning.		
+S17.310	to remember	মনে রাখা	mane rākhā	Do you remember the name of your first teacher?		
+S17.320	to forget	ভুলে যাওয়া	bhule yāoyā	–		
+S17.340	clear	পরিষ্কার	pariṣkāra	a clear explanation		
+S17.350	obscure	অজ্ঞাত	ajñāta 	an obscure reason		
+S17.360	secret	গোপন	gopana	–		
+S17.370	certain	নিশ্চিত	niścita	It is certain that the theft occurred during the night.		
+S17.380	to explain	ব্যাখ্যা করা	byākhyā karā	–		
+S17.410	the intention	অভিপ্রায়	ābhiprāya	It was not his intention to wake the baby up.		
+S17.420	the cause	কারণ	kāraṇa	What was the cause of the accident?		
+S17.430	the doubt	দ্বন্দ্ব	dbandba	–		
+S17.440	to suspect	সন্দেহ করা	sandeha kārā	The police suspected that he was a drug dealer.		
+S17.441	to betray	বিশ্বাসঘাতকতা করা	biśbāsaghātakatā	–		
+S17.450	the need or necessity	প্রয়োজন	prayojana	–		
+S17.460	easy	সহজ	sahaja	–		
+S17.470	difficult	কঠিন	kaṭhina	–		
+S17.480	to try	চেষ্টা করা	ceṣṭā kārā	–		
+S17.490	the manner	পদ্ধতি	paddhati	–		
+S17.510	and	এবং	ebaṁ	–		
+S17.520	because	কারণ	kāraṇa	–		
+S17.530	if	যদি	yadi	–		
+S17.540	or	অথবা	athabā	–		
+S17.550	yes	হাঁ	hān̄	–		
+S17.560	no	না	nā	–		
+S17.610	how?	কেমন	kemana	–		
+S17.620	how many?	কত	kata	–		
+S17.630	how much?	কত	kata	–		
+S17.640	what?	কি	ki	What is that thing on the table?		
+S17.650	when?	কখন	kakhana	–		
+S17.660	where?	কোথায়	kothāya	–		
+S17.670	which?	কোন	kona	–		
+S17.680	who?	কে	ke	–		
+S17.690	why?	কেন	kena	–		
+S18.110	the voice	স্বর	sbara	–		
+S18.120	to sing	গাওয়া	gāoyā	–		
+S18.130	to shout	চিল্লানো	cillāno	Be careful, he shouted, "a lion!"		
+S18.150	to whisper	গুঞ্জরন করা, ফিসফিস করা	guñjarana kārā, phisphis kārā 	–		
+S18.160	to mumble	বিড়বিড় করা 	bir̖bir̖ kārā	The little boy mumbled something about wanting to go to the toilet.		
+S18.170	to whistle	সিটি দেওয়া	siṭi deoyā	–		
+S18.180	to shriek	চিক্কুর মারা 	cikkura kārā	–		
+S18.190	to howl	গর্জন করা 	garjāno kārā	–		
+S18.210	to speak or talk	বলা	balā 			
+S18.211	to stutter or stammer	তোতলামি করা	totalāmi kārā	–		
+S18.220	to say	বলা	balā	She said she'd be late.		
+S18.221	to tell	বলা	balā	Our grandmother told us a story.		
+S18.222	the speech	বাক, ভাষণ	bhāṣaṇa	In his speech, the chief thanked the guests.		
+S18.230	to be silent	চুপ থাকা	cup thākā	–		
+S18.240	the language	ভাষা	bhāṣā	–		
+S18.260	the word	শব্দ	śabda	–		
+S18.280	the name	নাম	nāma	What's your name?		
+S18.310	to ask(1)	জিজ্ঞাসা করা	jijñāsā kārā	Where is your mother?, he asked.		
+S18.320	to answer	জবাব করা	jabāba kārā	I asked him where his mother was, but he didn't answer.		
+S18.330	to admit	কবুল করা	kabula kārā	The suspect admitted he stole the car.		
+S18.340	to deny	ইনকার করা, অস্বীকার করা	inakāra kārā, asbīkāra karā	She denied she was the thief.		
+S18.350	to ask(2)	চাওয়া	cāoyā	She asked for a glass of water.		
+S18.360	to promise	অঙ্গীকার করা 	aṅgīkāra kārā	–		
+S18.370	to refuse	প্রত্যাখ্যান করা	pratyākhyāna kārā	–		
+S18.380	to forbid	মানা করা 	mānā kārā	–		
+S18.390	to scold	ধাতানো 	dhātāna	–		
+S18.410	to call(1)	ডাকা	ḍākā	The king called his ministers for a meeting.		
+S18.420	to call(2)	ডাকা	ḍākā	The parents decided to call their son David.		
+S18.430	to announce	ঘোষনা	ghoṣanā	–		
+S18.440	to threaten	শাসানো	śāsāno	–		
+S18.450	to boast	-	dampho	–		
+S18.510	to write	লেখা	lekhā 	–		
+S18.520	to read	পড়া	par̖ā 	–		
+S18.560	the paper	কাগজ	kāgaja	She took a piece of paper and wrote down her name.		
+S18.570	the pen	কলম	kalama	You must use a pen, not a pencil.		
+S18.610	the book	গ্রন্থ, পুস্তক	grantha, pustaka	–		
+S18.670	the poet	কবি	kabi	–		
+S18.710	the flute	বাঁশি	bān̄śi	He plays the flute and she plays the violin.		
+S18.720	the drum	ঢোল	ḍhola	Don't beat the drum so hard, it's too loud.		
+S18.730	the horn or trumpet	ভেঁপু	bhempu	–		
+S18.740	the rattle	ঝুমঝুমি	jhumajhumi	–		
+S19.110	the country	দেশ	deśa	He has traveled to Japan, China, India, and many other countries.		
+S19.120	the native country	স্থানীয় দেশ	sthānīya deśa	After the civil war ended, the refugees were able to return to their native country.		
+S19.150	the town	শহর	śahara	Farmers come into town to sell their produce.		
+S19.160	the village	গ্রাম	grāma	The farmers' fields are near their village.		
+S19.170	the boundary	সীমানা	sīmānā	The province boundary is also the border between the two countries.		
+S19.210	the people	জনগণ	janagaṇa	The president is unpopular, but the people adore his daughter.		
+S19.230	the clan	গোষ্ঠী	goṣṭhī 	The entire clan lives in one large house.		
+S19.240	the chieftain	দলনেতা	dalanetā	–		
+S19.250	the walking stick	ছড়ি	char̖i 	–		
+S19.310	to rule or govern	শাসন করা	śāsana karā	The president ruled the country for 25 years.		
+S19.320	the king	রাজা	rājā	King David		
+S19.330	the queen	রানী	rānī	Queen Elizabeth		
+S19.360	the noble	উদার	udāra 	Nobles are exempt from paying taxes.		
+S19.370	the citizen	নাগরিক	nāgarika	a citizen of Germany		
+S19.410	the master	প্রভু	prabhu	–		
+S19.420	the slave	দাস	dāsa	–		
+S19.430	the servant	চাকর	cākara	–		
+S19.440	the freeman	-	-	His mother was a slave, but his father was a freeman.		
+S19.450	to command or order	পরিত্রাণ করা, আদেশ করা	paritrāṇa kārā, ādeśa karā	The officer commanded them to line up against the wall.		
+S19.460	to obey	শোনা	śonā 	Soldiers are expected to obey their superiors.		
+S19.470	to permit	মঞ্জুর করা	mañjura kārā	I am afraid I cannot permit my daughter to marry you.		
+S19.510	the friend	মিত্র	mitra	–		
+S19.520	the enemy	শত্রু	śatru	–		
+S19.540	the neighbour	প্রতিবেশী	pratibeśī	It's hard to sleep because the neighbors are noisy.		
+S19.550	the stranger	অপরিচিত	aparicita	She's not afraid of strangers.		
+S19.560	the guest	অতিথী	atithī	–		
+S19.570	the host	নিমন্ত্রয়িতা	nimantrayitā 	The host offered his guests some wine.		
+S19.580	to help	সাহায্য করা	sāhāyya kārā	–		
+S19.590	to prevent	নিবার  করা	nibāra kārā	The police prevented the demonstrators from entering the building.		
+S19.610	the custom	প্রথা	prathā	–		
+S19.620	the quarrel	ঝগড়া	jhagar̖ā 	We have a quarrel with the neighbors over their noise.		
+S19.630	the plot	পরিকল্পনা	parikalpanā	There was a plot to kill the queen.		
+S19.650	to meet	মিলা	milā	We agreed to meet in front of the theatre.		
+S19.720	the prostitute	রূপোপজীবিনী, গস্তানি, বেশ্যা	rūpopajībinī, gastāni, beśya	–		
+S20.110	to fight	লড়া	lar̖ā	The two tribes have been fighting for weeks.		
+S20.130	the war or battle	যুদ্ধ	yuddha , lar̖āi	–		
+S20.140	the peace	শান্তি	śānti	–		
+S20.150	the army	সেনাবাহিনী	senābāhinī	The Roman army conquered Jerusalem.		
+S20.170	the soldier	সৈন্য	sainya	–		
+S20.210	the weapons	অস্ত্রশস্ত্র	astraśastra	–		
+S20.220	the club	গদা	gadā	–		
+S20.222	the battle-axe	-	-	–		
+S20.230	the sling	নিক্ষেপণ	nikṣepaṇa	–		
+S20.240	the bow	ইন্দ্রায়ুধ	indrāyudha 	–		
+S20.250	the arrow	তীর	tīra	–		
+S20.260	the spear	বর্শা	barśā 	–		
+S20.270	the sword	অসি	asi 	–		
+S20.280	the gun	বন্দুক	banduka	She shot the thief with a gun.		
+S20.310	the armour	কবচ	kabaca 	The knight wore a shining armor.		
+S20.330	the helmet	শিরস্ত্র	śirastra	Put on your helmet when you ride a motorcycle.		
+S20.340	the shield	ঢালী	ḍhālī 	He held up his shield to protect his head from the attack.		
+S20.350	the fortress	কেল্লা	kellā 	–		
+S20.360	the tower	মিনার	mināra 	From the tower you can see the entire town.		
+S20.410	the victory	জয়লাভ	jayalābha	–		
+S20.420	the defeat	পরাজয়	parājaya	–		
+S20.430	the attack	আক্রমণ	ākramaṇa	–		
+S20.440	to defend	সংরক্ষণ করা	saṃrakṣaṇa kārā	He defended himself but the robber took his wallet.		
+S20.450	to retreat	পিছানো	pichāno 	–		
+S20.460	to surrender	সমর্পণ করা	samarpaṇa kārā	–		
+S20.470	the captive or prisoner	জেলখানা	jelakhānā	–		
+S20.471	the guard	সান্ত্রি, প্রহরা	sāntri, praharā	I wanted to go in but the guard wouldn't let me.		
+S20.480	the booty	-	-	–		
+S20.490	the ambush	তাক	tāka	–		
+S20.510	the fisherman	মৎসজীবি	mattsajībi	–		
+S20.520	the fishhook	বড়শী	bar̖aśī	–		
+S20.530	the fishing line	ফাতনা	phātanā 	–		
+S20.540	the fishnet	বেড়াজাল	ber̖ājāla	–		
+S20.550	the fish trap	জাল	jāla	–		
+S20.560	the bait	টোপ	ṭopa	Worms are used as bait.		
+S20.610	to hunt	শিকার করা	śikāra kārā	–		
+S20.620	to shoot	এড়া, কিশলয়	er̖ā, kiśalaya	She shot the intruder with her gun.		
+S20.630	to miss	ফসকানো	phasakāno	He shot at the bird but missed it.		
+S20.640	the trap	ফাঁদ	phān̄da	The hunter lay a trap for the bear.		
+S20.650	to trap	ফাঁদে ফালানো	phān̄da phālāno	The hunter trapped a fox.		
+S21.110	the law	আইন	āina	There ought to be a law against cutting down trees.		
+S21.150	the court	কাচারি	kācāri	–		
+S21.160	to adjudicate	সাব্যস্ত করা	sābyasta kārā	–		
+S21.170	the judgment	সাব্যস্ত	phayasālā 	–		
+S21.180	the judge	ধর্মাধিকারী, জজ	dharmādhikārī, jaja	–		
+S21.210	the plaintiff	সওয়াল, বাদী	soyāla, bādī	–		
+S21.220	the defendant	প্রতিবাদী	pratibādī	–		
+S21.230	the witness	সাক্ষী	sākṣī	–		
+S21.240	to swear	হলফ করা 	halapha kārā	I swear to tell the truth.		
+S21.250	the oath	শপথ	śapatha 	–		
+S21.310	to accuse	অভিযুক্ত	abhiyukta 	She accused him of stealing her purse.		
+S21.320	to condemn	ছি-ছি করা	chi-chi kārā	The judge condemned the defendant and sentenced him to two years in prison.		
+S21.330	to convict	-	-	He was convicted and sentenced to life in prison.		
+S21.340	to acquit	রেহাই দেওয়া	rehāi deoyā	The defendant was acquitted of all charges.		
+S21.350	guilty	দোষী	doṣī	The judge found the defendant guilty.		
+S21.360	innocent	নির্দোষ	nirdoṣa	He was punished even though he was innocent.		
+S21.370	the penalty or punishment	শাস্তি	śāsti	–		
+S21.380	the fine	সুন্দর	sundara	I had to pay a fine of $100 for speeding.		
+S21.390	the prison	জেলখানা	jelakhānā	–		
+S21.420	the murder	খুন	khuna	Murder is punished very severely.		
+S21.430	the adultery	পারদার্য, ব্যভিচার	pāradārya, byābhicāra	–		
+S21.440	the rape	ধর্ষণ	dharṣaṇa	–		
+S21.460	the arson	-	-	–		
+S21.470	the perjury	মিথ্যা হলফ	mitthā halapha	–		
+S21.510	to steal	চুরি করা	curi karā	–		
+S21.520	the thief	চোর	cora	–		
+S22.110	the religion	ধর্ম	dharma	–		
+S22.120	the god	স্রষ্টা	sraṣṭā	–		
+S22.130	the temple	মন্দির	mandira	–		
+S22.140	the altar	বেদী	bedī	–		
+S22.150	the sacrifice	বলি	bali	–		
+S22.160	to worship	পূজা করা	pūjā karā	–		
+S22.170	to pray	প্রার্থনা করা	prārthanā karā	The farmers prayed for rain.		
+S22.180	the priest	পুরোহিত	purohita	–		
+S22.190	holy	পবিত্র	pabitra 	–		
+S22.220	to preach	ধর্মপ্রচার	dharmapracāra	–		
+S22.230	to bless	আশীর্বাদ করা	āśīrbāda kara	–		
+S22.240	to curse	অভিশাপ দেওয়া	abhiśāpa deoya	–		
+S22.260	to fast	উপবাস করা	upabāsa kārā	–		
+S22.310	the heaven	স্বর্গ	sbarga	–		
+S22.320	the hell	নরক	naraka	–		
+S22.350	the demon	দানব	dānaba	–		
+S22.370	the idol	প্রতিমা	pratimā	–		
+S22.420	the magic	জাদু	jādu	–		
+S22.430	the sorcerer or witch	ডাইনি	ḍāinī	–		
+S22.440	the fairy or elf	পরী	parī	–		
+S22.450	the ghost	ভূত	bhūta	–		
+S22.470	the omen	অশুভ সংকেত	aśubha saṁketa	–		

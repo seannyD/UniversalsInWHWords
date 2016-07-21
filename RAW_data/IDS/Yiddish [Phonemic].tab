@@ -1,0 +1,1311 @@
+entry_id	trans_english	Yiddish_Phonemic
+1.1	world	velt
+1.21	earth, land	erd
+1.212	earth=ground, soil	grunt
+1.213	dust	štojb; porex
+1.214	mud	blote
+1.215	sand	zamd
+1.22	mountain, hill	barg; bergl
+1.222	cliff, precipice	feldz
+1.23	plain, field	plejn; feld
+1.24	valley	tol
+1.25	island	indzl
+1.26	mainland	jaboše
+1.27	shore	breg
+1.28	cave	hejl
+1.31	water	vaser
+1.32	sea	jam
+1.322	calm (of sea)	ruik
+1.323	rough (of sea)	umruik
+1.324	foam	šam
+1.329	ocean	o'kean
+1.33	lake	'ozere
+1.34	gulf, bay	ajngos
+1.341	lagoon	la'gun
+1.342	reef	rif
+1.343	headland, point	jaboše-cung; kap
+1.35	wave	xvalʸe
+1.352	tide	jam-flejc
+1.353	lowtide	onflejc
+1.354	hightide	opflejc
+1.36	river, stream, brook	tajx; box; ričke
+1.362	whirlpool	keslgrub
+1.37	spring, well	kval; brune(m); 'krenice
+1.38	swamp	zump
+1.39	waterfall	'vaserfal
+1.41	woods, forest	vald
+1.42	tree (cf 08.600)	bojm
+1.43	wood	holc
+1.44	stone, rock	štejn
+1.45	earthquake	'erd-citerniš
+1.51	sky	himl
+1.52	sun	zun
+1.53	moon	levone
+1.54	star	štern
+1.55	lightning	blic
+1.56	thunder	duner
+1.57	lightning (as striking)	blic
+1.58	storm	šturem
+1.59	rainbow	regn-bojgn
+1.61	light (noun)	lixt
+1.62	darkness	'fincterniš
+1.63	shade, shadow	šotn, sotn
+1.64	dew	rose; toj
+1.71	air	luft
+1.72	wind	vint
+1.73	cloud	volkn; xmare
+1.74	fog	nepl; tu'man
+1.75	rain (noun)	regn
+1.76	snow (noun)	šnej
+1.77	ice	ajz
+1.78	weather	veter
+1.81	fire	fajer
+1.82	flame (noun)	flam
+1.83	smoke (noun)	rojx
+1.84	ashes	aš
+1.841	embers	holeveškes; žar
+1.851	burn (vb trans)	farbrenen
+1.852	burn (vb intrans)	brenen
+1.86	light, kindle, ignite	(on)cindn
+1.861	extinguish	(far)'lešn
+1.87	match (noun)	'švebele; zaplke
+1.88	firewood	brenholc
+1.89	charcoal	holckojln
+2.1	person, human being	menč
+2.21	man (vs. woman)	mancbil; 'mansparšojn
+2.22	woman	vajb; froj
+2.23	male	zoxer
+2.24	female	nekejve
+2.25	boy	jingl, 'jingele
+2.251	young man (adolescent)	boxer
+2.26	girl	'mejdele, mejdl
+2.261	young woman (adolescent)	mejdl
+2.27	child	kind
+2.28	infant, baby	'ejfele
+2.31	husband	man
+2.32	wife	vajb
+2.33	marry	'xasene hobn
+2.34	marriage, wedding	'xasene
+2.341	divorce	get
+2.35	father	tate; foter
+2.36	mother	mame; muter
+2.37	parents	tate-mame
+2.38	married man	'xasene-gehater; bavajbter
+2.39	married woman	'xasene-gehate; bamante
+2.41	son	zun
+2.42	daughter	toxter
+2.43	offspring (son or daughter)	kind
+2.44	brother	bruder
+2.444	older brother	'elterer bruder
+2.445	younger brother	'yingerer bruder
+2.45	sister	švester
+2.454	older sister	'eltere švester
+2.455	younger sister	'yingere švester
+2.456	sibling	bruder; švester; mitkind
+2.458	twins	cviling
+2.46	grandfather	zejde
+2.461	old man	alter; zokn
+2.47	grandmother	bobe
+2.471	old woman	alte; skejne
+2.48	grandson	'ejnikl
+2.49	granddaughter	'ejnikl
+2.51	uncle	feter
+2.511	mother's brother	(der) mames bruder
+2.512	father's brother	(dem) tatns bruder
+2.52	aunt	mume
+2.521	mother's sister	(der) mames švester
+2.522	father's sister	(dem) tatns švester
+2.53	nephew	plimenik; 'brudern-zun; 'švestern-zun
+2.54	niece	pli'menice; 'brudern-toxter; 'švestern-toxter
+2.55	cousin	(ge) švester'kind
+2.56	ancestors	oves (-avojsejnu)
+2.57	descendants	'kindskinder
+2.61	father-in-law (of a man)	(a mans) šver
+2.611	father-in-law (of a woman)	(a frojs) šver
+2.62	mother-in-law (of a man)	(a mans) šviger
+2.621	mother-in-law (of a woman)	(a frojs) šviger
+2.63	son-in-law (of a man)	(a mans) ejdem
+2.631	son-in-law (of a woman)	(a frojs) ejdem
+2.64	daughter-in-law (of a man)	(a mans) šnur
+2.641	daughter-in-law (of a woman)	(a frojs) šnur
+2.71	stepfather	'štiftate, 'štiffoter
+2.72	stepmother	'štifmame, 'štifmuter
+2.73	stepson	štifzun
+2.74	stepdaughter	'štiftoxter
+2.75	orphan	josem, jesoyme
+2.76	widow	almone
+2.77	widower	almen
+2.81	relatives, kinsmen	krojvim; frajnt (lex)
+2.82	family	mišpoxe
+2.91	I	ix
+2.92	you (singular)	du
+2.93	he/she/it	er/zi/es
+2.94	we	mir
+2.941	we (inclusive)	mir
+2.942	we (exclusive)	mir
+2.95	you (plural)	ir
+2.96	they	zej
+3.11	animal	xaje
+3.12	male (adj)	menlex
+3.13	female (adj)	vajblex
+3.15	livestock	fix
+3.16	pasture	paše
+3.18	herdsman	pastex
+3.19	stable, stall	štal
+3.2	cattle (bovine)	fix; behejmes
+3.21	bull	bik; buhaj
+3.22	ox	oks
+3.23	cow	ku
+3.24	calf	kalb
+3.25	sheep	šof; šeps
+3.26	ram	baran
+3.28	ewe	šof
+3.29	lamb	lam
+3.32	boar	'vald-xazer; ka'ban
+3.34	sow	'xazerte; lʸoxe
+3.35	pig	xazer
+3.36	goat	cig; koze
+3.37	he-goat	bok; cap
+3.38	kid	'cikele
+3.41	horse (equine)	ferd
+3.42	stallion	oger
+3.44	mare	škape; klʸače
+3.45	foal, colt	lošik
+3.46	ass, donkey	ejzl
+3.47	mule	'mojlejzl
+3.5	fowl	of
+3.52	cock, rooster	hon
+3.54	hen	hun
+3.55	chicken	hindl
+3.56	goose	gandz
+3.57	duck	kačke
+3.58	nest	nest
+3.581	bird	fojgl
+3.582	seagull	meve
+3.583	heron	caplʸe
+3.584	eagle	odler
+3.585	hawk	falk
+3.586	vulture	grif
+3.591	bat	'fledermojz
+3.592	parrot	papu'gaj
+3.593	crow	kro; vorone
+3.594	dove	tojb
+3.596	owl	sove
+3.61	dog	hunt
+3.614	rabbit	kinigl; krolikl
+3.62	cat	kac
+3.622	opossum	o'pos
+3.63	mouse, rat	mojz; ščur
+3.65	fish	fiš
+3.652	fin (dorsal)	'flusfeder
+3.653	fishscale	šup
+3.654	gill	žabre
+3.655	shell	'mejer-kepl; 'jam-multerl; 'žabe-šisele
+3.661	shark	hajfiš
+3.662	porpoise, dolphin	'jam-xazer; delʸ'fin
+3.663	whale	valfiš
+3.664	stingray	'fišštexler
+3.665	freshwater eel	'zisvaser-venger
+3.71	wolf	volf
+3.72	lion	lejb
+3.73	bear	ber
+3.74	fox	fuks
+3.75	deer	hirš
+3.76	monkey	malpe
+3.77	elephant	helfand, helfant
+3.78	camel	keml
+3.81	insect	in'sekt
+3.811	louse	lojz
+3.812	nit (louse egg)	nisl
+3.813	flea	floj
+3.814	centipede	'sax-fisler
+3.815	scorpion	egdiš; skorp'jon
+3.816	cockroach	tara'kan
+3.817	ant	muraške, 'mereške
+3.818	spider	špin
+3.819	spider web	špinvebs; povitiɲe
+3.82	bee	bin
+3.821	beeswax	'binenvaks
+3.822	beehive	binštok
+3.823	wasp	vesp
+3.83	fly	flig
+3.831	sandfly (midge), gnat	muk
+3.832	mosquito	ko'mar
+3.84	worm	vorem
+3.85	snake	šlang
+3.91	firefly	'glivorem
+3.92	butterfly	flaterl; 'zumer-fejgele
+3.93	grasshopper	špringer
+3.94	snail	šnek; pojle-rojle
+3.95	frog	žabe; froš
+3.96	lizard	'jaščerke
+3.97	crocodile, alligator	kroko'dil; aligator
+3.98	turtle	čerepaxe
+4.11	body	guf; kerper
+4.12	skin, hide	hojt
+4.13	flesh	flejš
+4.14	hair (head)	hor
+4.142	beard	bord
+4.144	body hair	hor
+4.145	pubic hair	'erve-hor
+4.146	dandruff	šupn
+4.15	blood	blut
+4.151	vein, artery	oder; vene; arterje
+4.16	bone	bejn
+4.162	rib	rip
+4.17	horn	horn
+4.18	tail	ek; vejdl; švanc
+4.19	back	rukn; plejce
+4.191	spine	ruknbejn
+4.2	head	kop
+4.201	side of head, temple	šlejf
+4.202	skull	šarbn
+4.203	brain	mojex
+4.204	face	ponem
+4.205	forehead	štern
+4.207	jaw	kajer; bordbejn
+4.208	cheek	bak
+4.209	chin	bord; gombe; morde
+4.21	eye	ojg
+4.212	eyebrow	brem
+4.213	eyelid	oygn-lepl, oygn-ledl
+4.214	eyelash	vije
+4.215	blink	pintlen
+4.22	ear	ojer
+4.221	earlobe	lepl
+4.222	earwax	'ojern-vaks
+4.23	nose	noz
+4.231	nostril	nozlox
+4.232	mucus (nasal)	šlajm
+4.24	mouth	mojl
+4.241	beak	šnobl
+4.25	lip	lip
+4.26	tongue	cung
+4.27	tooth	con
+4.271	gums	jasles
+4.272	molartooth	bakcon
+4.28	neck	nakn; kark
+4.281	nape of neck	pa'tilʸnice
+4.29	throat	haldz; gorgl
+4.3	shoulder	aksl
+4.301	shoulderblade	'lopetke
+4.302	collarbone	šlislbejn
+4.31	arm	orem; hant
+4.312	armpit	paxve
+4.32	elbow	elnbojgn
+4.321	wrist	'hantgelenk
+4.33	hand	hant
+4.331	palm of hand	dloɲe
+4.34	finger	finger
+4.342	thumb	grober finger
+4.344	fingernail	nogl
+4.345	claw	krel
+4.35	leg	fus
+4.351	thigh	polʸke
+4.352	calf of leg	litke
+4.36	knee	kni
+4.37	foot	fus
+4.371	ankle	knexl
+4.372	heel	pjate
+4.374	footprint	špur; fusdruk
+4.38	toe	finger (fun fus)
+4.392	wing	fligl
+4.393	feather	feder
+4.4	chest	brust (kastn)
+4.41	breast (of woman)	brust
+4.412	nipple, teat	(n) opl
+4.42	udder	ajter
+4.43	navel	nopl; pupik
+4.44	heart	harc
+4.441	lung	lung
+4.45	liver	leber
+4.451	kidney	nir
+4.452	spleen	milc
+4.46	stomach	mogn
+4.461	intestines, guts	gederem; kiškes
+4.462	waist	talʸe
+4.463	hip	hift; lend; klub
+4.464	buttocks	ge'zes; grob(e) flejš; toxes
+4.47	womb	traxt
+4.49	testicle	bejc(e); ej
+4.492	penis	penis; 'menlexer ejver
+4.51	breathe, breath	'otemen, otem
+4.52	yawn, gape	'genecn; gafn; glocn
+4.521	hiccough	'šluk(er)cn
+4.53	cough	hus(t)n
+4.54	sneeze	nisn
+4.55	perspire	švicn
+4.56	spit	špajen
+4.57	vomit	brexn; 'mejkenen
+4.58	bite	bajsn
+4.59	lick	lekn
+4.591	dribble	gavern
+4.61	sleep	šlofn
+4.612	snore	xropen
+4.62	dream	'xolemen (zix)
+4.63	wake up	ufxapn zix; ufvekn zix
+4.64	break wind	farcn
+4.65	urinate	uri'nirn; maštn zajn
+4.66	defecate	ojsmaxn zix; hobn dem mogn
+4.67	have sexual intercourse	šlofn (mit); hobn tašmeš-hamite
+4.68	shiver	citern
+4.69	bathe	bodn (zix)
+4.71	beget (of father)	gebojrn
+4.72	born (to be)	gebojrn vern
+4.73	pregnant	trogedik
+4.732	conceive	far'gejn in trogn
+4.74	live, living, life	lebn; 'lebedik; lebn
+4.75	die, dead	štarbn; tojt
+4.751	drowned	dertrunken, dertronken
+4.76	kill	(der)'hargenen
+4.77	corpse	mes; 'barmenen
+4.78	bury (the dead)	bagrobn; mekaber zajn; brengen cu kvure
+4.79	grave, tomb	kejver
+4.81	strong, mighty, powerful	štark; mextik, maxtik
+4.82	weak	švax
+4.83	well, health	ge'zunt
+4.84	sick, sickness	krank, krenk
+4.841	fever	hic; fiber
+4.842	goiter	volʸe
+4.843	cold (catarrh)	farkilung; kater
+4.85	wound, sore	vund
+4.852	bruise	nerek; klap
+4.853	swelling	gešvilexc; bajl
+4.854	itch	'bajseniš
+4.855	blister	bloter
+4.856	boil (noun)	geš'vir
+4.857	pus	ejter
+4.858	scar	šram; šnar
+4.86	cure, heal	hejln
+4.87	physician	dokter
+4.88	medicine, drug	refue
+4.89	poison	sam
+4.91	tired, weary	mid; farmatert; 'ojsgematert
+4.912	rest	('op)ruen (zix)
+4.92	lazy	fojl
+4.93	bald	lise
+4.94	lame	lom; 'hinkedik
+4.95	deaf	tojb
+4.96	mute	štum
+4.97	blind	blind
+4.98	intoxicated	šiker
+4.99	naked, bare	naket; hojl
+5.11	eat	esn
+5.12	food	esn(varg)
+5.121	cooked	ge'koxt
+5.122	raw	roj
+5.123	ripe	cajtik
+5.124	green, unripe	grin; 'umcajtik
+5.125	rotten	far'fojlt
+5.13	drink	trinken
+5.14	hunger	hunger
+5.141	famine	hunger
+5.15	thirst	doršt
+5.16	suck	zojgn
+5.18	chew	kajen
+5.181	swallow	šlingen
+5.19	choke	vargn zix; štikn zix; krekn zix
+5.21	cook	koxn
+5.22	boil (vb)	koxn
+5.23	roast, fry	brotn; preglen
+5.24	bake	bakn
+5.25	oven	ojvn
+5.26	pot, cooking vessel	top
+5.27	kettle	kesl
+5.28	pan	fan; s'kovrede
+5.31	dish	teler; majxl; ge'rixt
+5.32	plate	teler
+5.33	bowl	šisl
+5.34	pitcher, jug	krug; krigl
+5.35	cup, drinking vessel	gloz; glezl, tepl
+5.36	saucer	tecl
+5.37	spoon	lefl
+5.38	knife	meser
+5.39	fork	gopl
+5.391	tongs	cvang
+5.41	meal (a)	molcajt
+5.42	breakfast	'iberbajsn; frištik
+5.43	lunch	onbajsn
+5.44	dinner	mitog; varmes
+5.45	supper	večere
+5.46	peel	šejln
+5.47	sieve, strain	zajen
+5.48	scrape	šobn; rajbn
+5.49	stir, mix	mišn
+5.51	bread	brojt
+5.53	dough	tejg
+5.54	knead	knetn
+5.55	meal, flour	mel
+5.56	crush, grind	(ce)š'tojsn; (ce)'rajbn; (ce)'moln
+5.57	mill	mil
+5.58	mortar	štejsl
+5.59	pestle	'ejberšte fun štejsl
+5.61	meat	flejš
+5.63	sausage	vuršt
+5.64	soup, broth	zup; jojx
+5.65	vegetables	grinsn; grinvarg; gortnvarg
+5.66	bean	bob; bebl; fasolʸe
+5.7	potato	kar'tofl; bulʸbe
+5.71	fruit	ojps; fruxt
+5.712	bunch	hengl
+5.75	fig	fajg
+5.76	grape	vajntrojb
+5.77	nut	nus
+5.78	olive	ejlbirt; masline
+5.79	oil	ejl; bojml
+5.791	grease, fat	fets
+5.81	salt	zalc
+5.82	pepper	fefer
+5.821	chili pepper	feferl
+5.84	honey	honik
+5.85	sugar	cuker
+5.86	milk (noun)	milx
+5.87	milk (vb)	melkn
+5.88	cheese	kez
+5.89	butter	puter
+5.9	beverage, drink	ge'trank
+5.91	mead	med
+5.92	wine	vajn
+5.93	beer	bir
+5.94	fermented drink	maške
+5.97	egg	ej
+5.971	egg yolk	gelxl
+6.11	put on (clothes)	onton
+6.12	clothing, clothes	klejder; malbušim; bgodim
+6.13	tailor	šnajder
+6.21	cloth	sxojre; cajg; štof
+6.22	wool	vol
+6.23	linen, flax	lajvnt; flaks
+6.24	cotton	bavl
+6.25	silk	zajd
+6.27	felt	pojšt; filc
+6.28	fur	pelc; futer; rojxvarg
+6.29	leather	leder
+6.31	spin	špinen
+6.32	spindle	špindl
+6.33	weave	vebn
+6.34	loom	vebštul
+6.35	sew	nejen
+6.36	needle	nodl
+6.37	awl	(n)ol
+6.38	thread	fodem
+6.39	dye	farb
+6.41	cloak	mantl; cudek
+6.411	poncho	pončo
+6.42	woman's dress	(vajberš) klejd
+6.43	coat	mantl
+6.44	shirt	hemd
+6.45	collar	kolner
+6.46	skirt	(halb) klejdl; rekl
+6.461	grass-skirt	grozn klejdl
+6.48	trousers	hojzn
+6.49	stocking, sock	zok
+6.51	shoe	šux
+6.52	boot	štivl
+6.54	shoemaker, cobbler	šuster
+6.55	hat, cap	hitl; hut; 'kapeluš; 'kapelič
+6.57	belt, girdle	pas(ik); gartl; gor'sedl
+6.58	glove	henčke
+6.59	veil	šlejer
+6.61	pocket	'kešene; taš
+6.62	button	knepl
+6.63	pin	špilʸke
+6.71	ornament, adornment	cir
+6.72	jewel	cirung
+6.73	ring (for finger)	fingerl
+6.74	bracelet	bras'lʸet
+6.75	necklace	haldzband; haldzšnur
+6.76	bead	krel; 'pačerke
+6.77	earring	ojringl
+6.78	headband, headdress	kopband; 'kop(ba)puc
+6.79	tattoo	ta'tu
+6.81	handkerchief, rag	tixl; šmate
+6.82	towel	hantex
+6.91	comb	kam, keml
+6.92	brush	baršt, berštl
+6.921	braid	cop
+6.93	razor	'golmeser
+6.94	ointment	zalb
+6.95	soap	zejf
+6.96	mirror	špigl
+7.11	dwell, live	vojnen
+7.12	house	hojz; štub
+7.13	hut	xate; hajzke; xalupe
+7.131	garden-house	alʸtane
+7.14	tent	ge'celt
+7.15	yard, court	hojf
+7.16	men's house	--
+7.17	cookhouse	gorkix
+7.18	meeting house	bes-medreš
+7.21	room	štub; cimer
+7.22	door, gate	tir; tojer
+7.221	doorpost, jamb	'bajštidl
+7.23	lock (noun)	šlos; šlesl
+7.231	latch, door-bolt	(far)ruker
+7.24	key	šlisl
+7.25	window	fencter
+7.26	floor	padloge; 'podleke; dil
+7.27	wall	vant
+7.31	fireplace	ka'min
+7.32	stove	ojvn
+7.33	chimney	kojmen
+7.37	ladder	lejter
+7.42	bed	bet
+7.421	pillow	kišn
+7.422	blanket	koldre; koc
+7.43	chair	štul; benkl
+7.44	table	tiš
+7.45	lamp, torch	lomp
+7.46	candle	lixt
+7.47	shelf	polece
+7.48	trough	žoleb; 'korete; multer; dejže
+7.51	roof	dax
+7.52	thatch	'štrojener dax
+7.53	ridgepole	balknslup
+7.54	rafter	krokve; balkn
+7.55	beam	balkn
+7.56	post, pole	slup
+7.57	board	bret
+7.58	arch	bojgn
+7.61	mason	mulʸer
+7.62	brick	cigl
+7.63	mortar	vapne
+7.64	adobe	adobe
+8.11	farmer	pojer; 'erdarbeter; farmer
+8.12	field (for cultivation)	feld
+8.13	garden	gortn
+8.15	cultivate, till	baarbetn
+8.16	fence	plojt; park(a)n
+8.17	ditch	grub
+8.21	plow	akern
+8.212	furrow	gare; brozde
+8.22	dig	grobn
+8.23	spade	'lopete; ridl; špodl
+8.24	shovel	'lopete; ridl; šufl
+8.25	hoe	sape
+8.26	fork	vidle
+8.27	rake	grablʸe
+8.31	sow	zejen
+8.311	seed	zojmen
+8.32	mow, reap	košen; šnajdn
+8.33	sickle, scythe	serp; kose
+8.34	thresh	drešn
+8.35	threshing-floor	tojk
+8.41	crop, harvest	ge'reteniš; šnit
+8.42	grain (barley, oats etc)	tvue
+8.43	wheat	vejc
+8.44	barley	gerštn
+8.45	rye	korn
+8.46	oats	hober
+8.47	maize, corn	kukuruze; pap'šoj
+8.48	rice	rajz
+8.51	grass	groz
+8.52	hay	hej
+8.53	plant (noun)	ge'viks; flanc
+8.531	plant (vb)	far'zecn; far'flancn
+8.54	root	vorcl
+8.55	branch	cvajg
+8.56	leaf	blat
+8.57	flower	blum; kvejt
+8.6	tree	bojm
+8.61	oak	demb
+8.62	beech	buk
+8.63	birch	bereze
+8.64	pine	sosne
+8.65	fir	jodle
+8.66	acorn	'xazer-nisl
+8.67	vine	vajnštok
+8.68	tobacco	tabik; ti'tun
+8.69	smoke (tobacco)	rejxern
+8.691	pipe	lʸulʸke; pipke
+8.72	tree stump	pɲak; korč; stočik
+8.73	tree trunk	štam
+8.74	forked branch	cegoplte(r) cvajg
+8.75	bark	kore
+8.76	sap	sok; zaft
+8.81	palm tree	palʸme
+8.82	coconut	'kokusnus
+8.83	citrus fruit	'citrusfruxt
+8.84	banana tree	ba'nane-bojm
+8.85	banyan	banjan
+8.91	sweet potato	batate
+8.912	yam	jam
+8.92	tapioca, manioc, cassava	man'jok
+8.93	gourd	kerbes
+8.931	pumpkin, squash	diɲe; ka'bak(l)
+8.94	bamboo	bam'bu
+8.941	sugar cane	'cukerror
+8.96	fish poison (root)	
+8.97	nettle	'kropeve
+8.98	mushroom	šveml; švojm
+9.11	do, make	ton; maxn
+9.12	work	arbetn
+9.14	bend	bejgn
+9.15	fold	cu'nojfknejčn, cu'nojflejgn
+9.16	tie, bind	(far)'bindn
+9.161	untie	opbindn; ce'bindn
+9.18	chain	kejt
+9.19	rope, cord	štrik; šnur
+9.192	knot (noun)	knup; knipl
+9.21	strike (hit, beat)	šlogn
+9.211	pound with fist	derlangen mit der fojst/mitn kulik
+9.22	cut	šnajdn
+9.221	cut down	arophakn
+9.222	chop, hew	hakn
+9.223	stab	štexn
+9.23	knife	meser
+9.24	scissors, shears	šer(l)
+9.25	ax	hak
+9.251	adze	'bonderhak
+9.26	break	(ce)'brexn
+9.261	broken	ce'broxn
+9.27	split	(ce)'špaltn
+9.28	tear	(ce)'rajsn
+9.29	flay, skin	šindn; 'paseven
+9.31	rub, wipe	rajbn; višn
+9.32	stretch	(ojs)štrekn; ('ojs)cijen
+9.33	pull	cijen
+9.34	spread out	('ojs)šprejtn; (ojs)lejgn
+9.341	hang up	('uf)hengen
+9.342	press	presn; kvečn; drikn
+9.343	squeeze, wring	(ojs)kvečn; ('ojs)dringen; ('ojs)drejen
+9.35	pour	gisn; šitn
+9.36	wash	vašn
+9.37	sweep	(ojs)kern
+9.38	broom	bezem
+9.422	tool	maxšer
+9.43	carpenter	stolʸer
+9.44	build	bojen
+9.46	bore	'egbern; bojern
+9.461	hollow out	(ojs)hojln
+9.48	saw	zeg
+9.49	hammer	hamer
+9.5	nail	čvok; nogl
+9.56	glue	klej
+9.6	smith, blacksmith	šmid; kovalʸ
+9.61	forge	šmidn; koven
+9.62	anvil	kovadle
+9.63	cast (metals)	(op)gisn
+9.64	gold	gold
+9.65	silver	zilber
+9.66	copper, bronze	kuper; brondz
+9.67	iron	ajzn
+9.68	lead (noun)	blaj
+9.69	tin, tinplate	cin; blex
+9.71	potter	teper
+9.72	mold (clay etc)	'furemen
+9.73	clay	lejm
+9.74	glass	gloz
+9.75	weave, plait	vebn; flextn
+9.76	basket	kojš; kojber; korb; košik
+9.77	mat	rogože
+9.771	rug	tepex; koc
+9.78	netbag	neczak
+9.79	fan (noun)	foxer
+9.791	fan (vb)	fox(e)n
+9.81	carve	šnicn
+9.82	sculptor	skulʸptor
+9.83	statue	statue
+9.84	chisel	dlot, 'dolete
+9.88	paint (noun)	moln
+9.89	paint (vb)	farb
+10.11	move	rirn zix
+10.12	turn over	'iberdrejen (zix), 'iberkern (zix)
+10.13	turn around	'ojsdrejen (zix); a'rumdrejen (zix)
+10.14	wind, wrap	viklen
+10.15	roll	kačen (zix), kajklen (zix)
+10.16	drop (vb)	lozn faln; oplozn
+10.17	twist	korčen
+10.21	rise	(uf)hejbn zix
+10.22	raise, lift	(uf)hejbn
+10.23	fall	faln
+10.24	drip	kapen
+10.25	throw	varfn
+10.252	catch (ball)	xapn
+10.26	shake	šoklen; trejslen
+10.32	flow	gisn zix; flisn
+10.33	sink	zinken; 'untergejn
+10.34	float	švimen
+10.35	swim	švimen
+10.351	dive	'untertunken zix, 'untertukn zix
+10.352	splash	špricn; plʸušken
+10.36	sail (vb)	forn mit a šif; zeglen
+10.37	fly (vb)	flijen
+10.38	blow	blozn
+10.41	creep, crawl	krixn
+10.412	kneel	knijen
+10.413	crouch	ajnbejgn zix
+10.42	slide, slip	gličn zix
+10.43	jump, leap	špringen
+10.431	kick	briken; drigen; kopen
+10.44	dance	tancn
+10.45	walk	gejn (cu fus)
+10.451	limp	hinken
+10.46	run	lojfn
+10.47	go	gejn; forn
+10.471	go up	arufgejn; arufforn
+10.472	climb	(aruf)krixn
+10.473	go down	aropgejn; aropforn
+10.474	go out	arojsgejn; arojsforn
+10.48	come	kumen
+10.481	come back	cu'rikkumen; umkern zix
+10.49	go away, depart	avekgejn; avekforn
+10.491	disappear	farš'vundn vern; nelem vern
+10.51	flee	ant'lojfn
+10.52	follow	noxgejn; noxforn
+10.53	pursue	noxgejn; noxlojfn
+10.55	reach, arrive	dergejn; der'forn; 'onkumen
+10.56	approach	cugejn; 'cukumen
+10.57	enter	arajngejn; arajnforn
+10.61	carry (bear)	trogn
+10.612	carry-in-hand	trogn (in der hant)
+10.613	carry-on-shoulder	trogn (afn aksl)
+10.614	carry-on-head	trogn (afn kop)
+10.615	carry-underarm	trogn (untern orem)
+10.62	bring	brengen
+10.63	send	šikn
+10.64	lead (vb)	firn
+10.65	drive	trajbn; firn; šo'firn
+10.66	ride	rajtn; forn
+10.67	push, shove	štupn; štojsn
+10.71	road	veg
+10.72	path	šteg; steške
+10.74	bridge	brik
+10.75	carriage, wagon, cart	karete; bojd; vogn; fur
+10.76	wheel	rod
+10.77	axle	aks
+10.78	yoke	jox
+10.81	ship	šif
+10.83	boat	šifl; lotke
+10.831	canoe	ka'nu
+10.832	outrigger	
+10.84	raft	plit; tratve
+10.85	oar	vesle
+10.851	paddle (noun)	ruder; 'lopete
+10.852	row (vb)	rudern
+10.86	rudder	kerme
+10.87	mast	mastbojm
+10.88	sail (noun)	zegl
+10.89	anchor	anker
+10.91	harbor, port	port; havn
+10.92	land (vb)	aroplozn zix; landn
+11.11	have	hobn
+11.12	own, possess	farmogn
+11.13	take	nemen
+11.14	seize, grasp	(far)'xapn
+11.15	hold	haltn
+11.16	get, obtain	krign; bakumen; nemen; ajnšafn zix
+11.17	keep, retain	(ba)'haltn; lozn ba zix; blajbn ba
+11.18	thing	zax
+11.21	give	gebn
+11.22	give back	curikgebn; umkern
+11.24	preserve, look after	(uf)hitn
+11.25	save, rescue	'rateven; matsl zajn
+11.27	destroy	xorev maxn; ceš'tern; fartilikn
+11.28	harm, injure, damage	šatn; bejzs/šlexts ton
+11.31	seek, look for	zuxn
+11.32	find	gefinen; opzuxn
+11.33	lose	far'lirn; onvern
+11.34	release, let go	bafrajen; oplozn
+11.43	money	gelt
+11.44	coin	matbeje
+11.51	rich	rajx
+11.52	poor	orem; bedales
+11.53	beggar	betler
+11.54	avaricious, stingy	gajcik; žedne; karg
+11.61	lend	lajen; borgn
+11.62	borrow	lajen (ba); borgn (ba)
+11.63	owe	zajn šuldik; kumen
+11.64	debt	xojv
+11.65	pay (vb)	coln
+11.66	account, reckoning	xežbm; 'rexenung
+11.69	tax, tribute	štajer; cindz
+11.77	hire	onšteln
+11.78	wages	sxires; ge'colt
+11.79	earn	fardinen
+11.81	buy	(ajn)kojfn; ('ajn)handlen
+11.82	sell	far'kojfn; farhandlen
+11.83	trade, barter	ojsbajtn; (far)'štexeven
+11.84	merchant	sojxer
+11.85	market (place)	mark
+11.86	store, shop	krom; klejt; ge'velb
+11.87	price	prajz; mekex
+11.88	dear (costly, expensive)	tajer; kostik
+11.89	cheap	volvl; bilik
+11.91	share (distribute)	tejln
+11.92	weigh	vegn
+12.1	after	nox
+12.11	behind	hinter
+12.2	beside	lebn
+12.3	down, below	a'rop; untn
+12.4	before	far
+12.41	front	fornt
+12.5	inside, in	'ineveynik; in
+12.6	outside	mi'xuc; in drojsn
+12.7	under	unter
+12.8	up, above	af; a'ruf; ojbn
+12.11	place	ort
+12.12	put	lejgn; šteln; zecn
+12.13	sit	zicn
+12.14	lie down	lejgn zix
+12.15	stand	šteln zix
+12.16	remain, stay	blajbn
+12.17	remains, left overs	'iberblajbs
+12.21	collect, gather	klajbn
+12.212	pick up	uflkajbn; ufhejbn
+12.213	pile up	onklajbn
+12.22	join, unite	farejnikn
+12.23	separate	optejln
+12.232	divide	(op)tejln
+12.24	open	'efenen
+12.25	shut, close	far'maxn; cumaxn
+12.26	cover	far'dekn; cudekn
+12.27	hide, conceal	(far)ba'haltn
+12.31	high	hojx
+12.32	low	'niderik
+12.33	top	'ejberšte; špic
+12.34	bottom	'unteršte; dno
+12.35	end	sof
+12.352	pointed	špicik
+12.353	edge	breg; ek
+12.36	side	zajt
+12.37	middle, center	mit(n); center
+12.41	right (side)	rexts
+12.42	left (side)	links
+12.43	near (adv)	noent
+12.44	far (adv)	vajt
+12.45	east	mizrex
+12.46	west	majrev
+12.47	north	cofn
+12.48	south	dorem
+12.53	grow	vaksn
+12.54	measure	mestn
+12.541	span, fathom	klafter
+12.55	large, big	grojs
+12.56	small, little	klejn
+12.57	long	lang
+12.58	tall	hojx
+12.59	short	kurc
+12.61	wide, broad	brejt
+12.62	narrow	eng
+12.63	thick (in dimension)	grob
+12.65	thin (in dimension)	din
+12.67	deep	tif
+12.68	shallow	plačik; plitke
+12.71	flat	flax; plačik
+12.73	straight	glajx
+12.74	crooked	krum
+12.75	hook	hok(n)
+12.76	corner	vinkl
+12.77	cross	cejlem
+12.78	square	kva'drat
+12.81	round	'kajlex(d)ik
+12.82	circle	rod; krajz; kajlexl
+12.83	sphere, ball	kajlex; balem
+12.84	line	liɲe
+12.85	hole	lox
+12.92	like, similar	vi; glajx; enlex
+12.93	change	bajtn
+13.0	zero, nothing	(n)ulʸ; gorni(š)t
+13.1	one	ejns
+13.2	two	cvej
+13.3	three	draj
+13.4	four	fir
+13.5	five	fin(e)f
+13.6	six	zeks
+13.7	seven	zibn
+13.8	eight	axt
+13.9	nine	najn
+13.10	ten	cen
+13.101	eleven	el(e)f
+13.102	twelve	cvel(e)f
+13.103	fifteen	fufcn
+13.104	twenty	cvancik, cvoncik
+13.105	hundred	hundert
+13.106	thousand	tojznt
+13.107	count	cejln
+13.14	every, all	jeder; ale
+13.15	much, many	a sax
+13.16	more	mer; nox
+13.17	little (quantity), few	vejnik; vincik
+13.18	enough	genug
+13.181	some	a bisl; 'etlexe; epes
+13.19	multitude, crowd	ojlem; ha'mojn
+13.21	full	ful
+13.22	empty	lejdik
+13.23	part, piece	tejl; štik(l)
+13.24	half	halb; helft
+13.33	alone, only	a'lejn; nor; blojz
+13.34	first	eršt
+13.35	last	lect
+13.36	second	cvejt
+13.37	pair	por
+13.38	two times	cvej mol
+13.42	third	drit
+13.44	three times	draj mol
+14.11	time	cajt
+14.12	age	elter
+14.13	new	naj
+14.14	young	jung
+14.15	old	alt
+14.16	early	fri
+14.17	late	špet
+14.18	now	ict; a'cind
+14.19	immediately	glajx; tejkef
+14.21	swift, fast, quick	gix; geš'vind
+14.22	slow	pamelex; pavolʸe
+14.23	hasten, hurry	(h)ajln zix
+14.24	retard, delay	far'haltn; ophaltn
+14.25	begin, beginning	onhejb
+14.252	last, endure	gedojern
+14.26	end (temporal)	sof
+14.27	finish	endikn (zix)
+14.28	cease, stop	ufhern
+14.29	ready	grejt; fartik
+14.31	always	ale mol; tomed
+14.32	often	oft; a sax mol
+14.33	sometimes	a mol; tejl mol
+14.331	soon	bald; in gixn
+14.332	long-time (for a)	(šojn) lang; a lange cajt
+14.34	never	kejn mol ni(š)t
+14.35	again	nox a mol; vider a mol
+14.41	day	tog
+14.42	night	naxt
+14.43	dawn	baginen; kajor; fartog
+14.44	morning	inder'fri
+14.45	noon, midday	mitog
+14.451	afternoon	'noxmitog; ba'tog
+14.46	evening	ovnt; afder'naxt
+14.47	today	hajnt
+14.48	tomorrow	morgn
+14.481	day-after-tomorrow	iber morgn
+14.49	yesterday	nextn
+14.491	day-before-yesterday	'ejernextn
+14.51	hour	šo
+14.53	clock, timepiece	zejger(l)
+14.61	week	vox
+14.62	Sunday	zuntik
+14.63	Monday	montik
+14.64	Tuesday	dinstik
+14.65	Wednesday	mitvox
+14.66	Thursday	'donerštik
+14.67	Friday	frajtik
+14.68	Saturday	šabes
+14.71	month	xojdeš
+14.73	year	jor
+14.74	winter	vinter
+14.75	spring	friling; vesne
+14.76	summer	zumer
+14.77	autumn	harpst; osʸen
+14.78	season	cajt fun jor
+15.21	smell (vb intrans)	šmekn
+15.212	sniff	ɲuxen; smoren; šnapn
+15.22	smell (vb trans)	šmekn
+15.25	fragrant, good smelling	'šmekedik
+15.26	stinking, bad smelling	farštunken
+15.31	taste	tam
+15.35	sweet	zis
+15.36	salty	ge'zalcn
+15.37	bitter	biter
+15.38	acid, sour	zojer
+15.39	brackish	halb ge'zalcn
+15.41	hear	hern
+15.42	listen	cuhern zix; ajnhern zix
+15.44	sound, noise	klang; tuml
+15.45	loud	hojx; šrajik
+15.46	quiet, silence	štil; štilkejt
+15.51	see	zen
+15.52	look, look at	kukn
+15.55	show	vajzn
+15.56	shine	šajnen
+15.57	bright	lixtik; glancik
+15.61	color	ko'lir
+15.62	light (in color)	hel
+15.63	dark (in color)	tunkl
+15.64	white	vajs
+15.65	black	švarc
+15.66	red	rojt
+15.67	blue	blo(j)
+15.68	green	grin
+15.69	yellow	gel
+15.71	touch	(on) rirn
+15.712	pinch	knajpn
+15.72	feel	filn
+15.74	hard	hart
+15.75	soft	vejx
+15.76	rough	šorstik
+15.77	smooth	glat(ik)
+15.78	sharp	šarf
+15.79	blunt, dull	temp
+15.81	heavy	šver
+15.82	light (in weight)	lajxt; gring
+15.83	wet, damp	nas; fajxt
+15.84	dry	trukn
+15.85	hot	hejs
+15.851	warm	varem
+15.86	cold	kalt
+15.87	clean	rejn; zojber
+15.88	dirty, soiled	kojtik; šmucik; 'ajngerixt
+15.89	wrinkled	fark'nejčt; cek'nejčt
+16.11	soul, spirit	nešome; gajst
+16.15	surprised, astonished	farxidešt; farvundert
+16.18	good fortune, luck	mazl
+16.19	misfortune, bad luck	šli'mazl
+16.23	joyful, glad, happy	frejlex; gliklex; mole-simxe
+16.25	laugh	laxn
+16.251	smile	šmejxlen
+16.26	play	špiln (zix)
+16.27	love	lib hobn
+16.29	kiss	kušn
+16.3	embrace	haldzn; a'rumnemen
+16.31	pain	veytik
+16.32	grief, sorrow, sadness	trojer; umet; car
+16.33	anxiety, worry	dajge; zorg; umru
+16.34	regret, be sorry	bang ton; xarote hobn
+16.35	pity	raxmones
+16.37	cry, weep	vejnen
+16.38	tear (noun)	trer
+16.39	groan	krexcn
+16.41	hate	fajnt hobn
+16.42	anger	kas; brojges
+16.44	envy, jealousy	kine; 'ejferzuxt
+16.45	shame (noun)	buše; xarpe
+16.48	proud	štolc
+16.51	dare	dervegn zix
+16.52	brave	baharct
+16.53	fear, fright	mojre; paxed
+16.54	danger	sakone
+16.62	desire, want	veln; garn
+16.622	choose	ojsklajbn
+16.63	hope	hofn
+16.65	faithful	ge'traj
+16.66	true	'emes(dik)
+16.67	lie, tell lies	lajgn; lign zogn
+16.68	deceit	opnar(n)
+16.69	forgive	mojxl zajn
+16.71	good	gut
+16.72	bad	šlext
+16.73	right, correct	rixtik; rext; ko'rekt
+16.74	wrong	'umrixtik; umrext; 'umkorekt
+16.76	fault	šuld
+16.77	mistake, error	toes; grajz
+16.78	blame	šuld
+16.79	praise	lojbn
+16.81	beautiful	šejn
+16.82	ugly	mies
+16.83	greedy	žedne; gajcik
+16.84	clever	klug
+17.11	mind	mojex; zinen; ge'dank; mejnung
+17.13	think (= reflect)	traxtn
+17.14	think (= be of the opinion)	mejnen
+17.15	believe	glejbn
+17.16	understand	far'štejn
+17.17	know	visn
+17.171	guess	trefn; rotn
+17.172	imitate	noxmaxn; 'noxkrimen
+17.18	seem	daxtn zix
+17.19	idea, notion	ge'dank; rajen
+17.21	wise	klug; xoxem
+17.22	foolish, stupid	nariš
+17.23	insane, crazy	mešuge; meturef
+17.24	learn	('ojs)lernen (zix)
+17.242	study	lernen (zix); štu'dirn
+17.25	teach	lernen, lerern
+17.26	pupil	talmed
+17.27	teacher	lerer; melamed
+17.28	school	šul; xejder
+17.31	remember	gedenken; dermonen zix
+17.32	forget	far'gesn
+17.34	clear, plain	klor
+17.35	obscure	umklor; nepldik
+17.36	secret	sod, besodik
+17.37	sure, certain	zixer; gevis
+17.38	explain	gebn cu far'štejn; der'klern
+17.41	intention, purpose	kivn; cil
+17.42	cause	gojrem
+17.43	doubt	sofek
+17.44	suspect	xojšed zajn
+17.441	betray	bojged zajn; far'ratn
+17.45	need, necessity	nojt; 'nejtikajt; ba'derfeniš
+17.46	easy	gring; lajxt
+17.47	difficult	šver
+17.48	try, attempt	pruvn; pru'birn
+17.49	way, manner	ojfn
+17.51	and	un
+17.52	because	vajl; vorem; vorn
+17.53	if	ojb; az
+17.54	or	oder
+17.55	yes, affirmative	jo; afirma'tiv
+17.56	no, negative	nejn; nega'tiv
+17.61	how?	vi (azoj)
+17.62	how many?	vifl
+17.63	how much?	vifl
+17.64	what?	vos
+17.65	when?	ven
+17.66	where?	vu
+17.67	which?	voser; velxer
+17.68	who?	ver
+17.69	why?	far vos
+18.11	voice	kol; štim
+18.12	sing	zingen
+18.13	shout, cry out	šrajen; ojsrufn
+18.15	whisper	šušken; šepčen
+18.16	mumble	beben
+18.17	whistle	fajfn
+18.18	shriek, screech	kvičen
+18.19	howl	vojen; reven
+18.21	speak, talk	redn
+18.211	stutter, stammer	štamlen; hiken
+18.22	say	zogn
+18.221	tell story	der'cejln; far'cejln
+18.222	speech (make a)	rede (haltn a)
+18.23	silent (be)	štil; švajgn
+18.24	language	lošn; šprax
+18.26	word	vort
+18.28	name	nomen
+18.31	ask (question, inquire)	fregn
+18.32	answer	en(t)fer; čuve
+18.33	admit, confess	mojde zajn; cugebn
+18.34	deny	'lejkenen
+18.35	ask, request	betn
+18.36	promise	cuzogn
+18.37	refuse	opzogn
+18.38	forbid	far'vern
+18.39	rebuke, scold	firhaltn; ojsvarfn; ojsredn; firvarfn
+18.41	call (=summon)	rufn
+18.42	call (=name)	(on)rufn
+18.43	announce	onzogn; mojdije zajn
+18.44	threaten	strašen; šteln in sakone
+18.45	boast	barimen zix
+18.51	write	šrajbn
+18.52	read	'lej(e)nen
+18.56	paper	pa'pir
+18.57	pen	pen; feder
+18.61	book	bixl; bux; sejfer
+18.67	poet	po'et
+18.71	flute	flejt
+18.72	drum	pojk
+18.73	horn, trumpet	horn; tru'mejt
+18.74	rattle	kalekotke; grager
+19.11	country	land
+19.12	one's native country	hejmland
+19.15	city, town	štot; štetl
+19.16	village	dorf
+19.17	boundary	grenec
+19.21	people (populace)	folk; menčn
+19.23	tribe, clan	šejvet; klan
+19.24	chief, chieftain	roš; šef
+19.25	staff, walking stick	štekn
+19.31	rule, govern	re'girn; geveltikn
+19.32	king, ruler	mejlex; mojšl
+19.33	queen	malke
+19.36	noble, nobleman	adlman; porec
+19.37	citizen, subject	birger; 'untertaner
+19.41	master	bale'bos
+19.42	slave	šklaf; knext
+19.43	servant	mešores; badiner
+19.44	freeman	frajer (menč); frajer birger
+19.45	command, order	ba'feln; koman'dirn
+19.46	obey	folgn
+19.47	let, permit	(der)'lozn; gebn re'šus
+19.51	friend, companion	xaver; (guter-)'frajnd
+19.52	enemy	sojne
+19.54	neighbor	šoxn
+19.55	stranger	fremder
+19.56	guest	gast
+19.57	host	'gastgeber; maxnes-ojrex
+19.58	help, aid	helfn
+19.59	hinder, prevent	štern
+19.61	custom	mineg
+19.62	strife, quarrel	krig (e'raj)
+19.63	conspiracy, plot	faršverung; kom'plot
+19.65	meet	ba'gegenen
+19.72	prostitute	prostitutke
+20.11	fight (vb)	šlogn zix
+20.13	war, battle	milxome; šlaxt
+20.14	peace	šolem; fridn
+20.15	army	ar'mej
+20.17	soldier	zelner; sol'dat
+20.21	weapons, arms	gever
+20.22	club	flokn; štekn
+20.222	battle-ax	krigshak
+20.23	sling	varflke; kacepulʸke
+20.24	bow	bojgn
+20.25	arrow	fajl
+20.26	spear	špiz
+20.27	sword	šverd
+20.28	gun, cannon	biks; har'mat
+20.31	armor (defensive)	pancer
+20.33	helmet	kaske; kiver
+20.34	shield	šild
+20.35	fortress	festung
+20.36	tower	tojer
+20.41	victory	ni'coxn
+20.42	defeat	mapole
+20.43	attack	a'tak(e); onfal
+20.44	defend	fartejdikn
+20.45	retreat	optretn; cu'rikcijen zix
+20.46	surrender	'untergebn zix
+20.47	captive, prisoner	plʸenik; ge'fangener
+20.471	guard, sentinel	šojmer; vexter
+20.48	booty, spoils	rojb
+20.49	ambush	loker; ambuskade; 'iberfal
+20.51	fisherman	fišer
+20.52	fishhook	hačik
+20.53	fishing line	ventke
+20.54	fishnet	fišnec
+20.55	fish trap	'fišpastke
+20.56	bait	cišpajz
+20.61	hunt	gejn af ge'jeg
+20.62	shoot	šisn
+20.63	miss (target)	far'šisn
+20.64	trap (noun)	pastke
+20.65	trap (vb)	xapn/ pakn
+21.11	law	ge'zec; din; ju'ri
+21.15	court	ge'rixt; bez(d)n
+21.16	judge (vb)	mišpetn
+21.17	judgment	mišpet; psak
+21.18	judge (noun)	rixter; dajen
+21.21	plaintiff	tojveje; 'onkloger
+21.22	defendant	ba'suldikter; ('ajn)geklogter; nitbe
+21.23	witness	ejdes
+21.24	swear	švern
+21.25	oath	švue
+21.31	accuse	bašuldikn
+21.32	condemn	farmišpetn
+21.33	convict (vb)	farmišpetn; gefinen šuldik
+21.34	acquit	frajzogn; rejnvašn
+21.35	guilty	šuldik
+21.36	innocent	'umšuldik
+21.37	penalty, punishment	štrof
+21.38	fine	geltštrof; knas
+21.39	prison, jail	tfise; turme
+21.42	murder	mord; recixe
+21.43	adultery	nijef
+21.44	rape	farg'valdikung; meanes zajn
+21.46	arson	'untercindung
+21.47	perjury	falše švue
+21.51	steal	'ganvenen
+21.52	thief	ganef
+22.11	religion	religje; das
+22.12	God	got; hašem-jisborex
+22.13	temple, church	klojster; šul/šil
+22.14	altar	alʸ'tar; mizbejex
+22.15	sacrifice, offering	korbn
+22.16	worship	dinen; far'getern
+22.17	pray	mispalel zajn; tfile ton
+22.18	priest	galex; rov
+22.19	holy, sacred	hejlik
+22.22	preach	'daršenen; prejdikn
+22.23	bless	benčn
+22.24	curse	šeltn; šiltn
+22.26	fast (vb)	fastn
+22.31	heaven	himl
+22.32	hell	genem
+22.35	demon (evil spirit)	šed
+22.37	idol	gec
+22.42	magic, witchcraft, sorcery	kišef
+22.43	sorcerer, witch	'kišef-maxer, 'kišef-maxern
+22.44	fairy, elf	feje; šretl
+22.45	ghost, phantom	ruex; opduxt
+22.47	omen, portent	onzog; vorcejxn; simen

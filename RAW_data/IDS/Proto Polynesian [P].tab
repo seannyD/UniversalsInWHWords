@@ -1,0 +1,1311 @@
+entry_id	trans_english	Proto_Polynesian_Phonemic
+1.1	world	
+1.21	earth, land	PPN *ʔuta; *nuku; *fanua; *kele
+1.212	earth=ground, soil	PPN *kele; *fanua; *kau; *ta(a)kaŋa; PEP *repo
+1.213	dust	PPN *efu; PNP *pu(u)-efu; *(r)efu; *lefu; *pUefu
+1.214	mud	PPN *(ʔ)oru; *(q)oru; *pela; *kele; *repo; *Lepo; *taʔe
+1.215	sand	PPN *ʔone; *qone; *'one; *oneone; *kili-kili
+1.22	mountain, hill	PPN *maʔuŋa; *maquŋa; *siwi; *afu; *tuqasiwi
+1.222	cliff, precipice	*PPN *mato; *pari; *paLi; *kala
+1.23	plain, field	PPN *papa
+1.24	valley	
+1.25	island	PPN *motu
+1.26	mainland	
+1.27	shore	PPN *quta
+1.28	cave	PPN *ʔana; *qana
+1.31	water	PPN *vai; *wai; *wari; *waLi; *suu; *sū; *su-a; *lanu
+1.32	sea	PPN *wasa; *tahi; *tasi; *miti; *moano; *lau
+1.322	calm (of sea)	
+1.323	rough (of sea)	PPN *sou; *lepu; *lili
+1.324	foam	PPN *pusa; *fiho; *fuka; *huka; PEP *fuka
+1.329	ocean	
+1.33	lake	PPN *loto; *namo; *rano; *lano; *ʔano
+1.34	gulf, bay	PPN *fana; *faŋa; *mana
+1.341	lagoon	PPN *loto; *nama
+1.342	reef	PPN *awa; *hakau; *moana; *ʔulu-ʔulu; *feo; *puŋa; *lase
+1.343	headland, point	PPN *mata; *la(q)e; *siku
+1.35	wave	PPN *peau; *pali; *ŋalu; *(ṅ)-alu; PEP *kale
+1.352	tide	
+1.353	lowtide	PPN *(ma)masa
+1.354	hightide	PPN *huʔa; *huqa; *ua
+1.36	river, stream, brook	PPN *wai-tafe; *pihi; *sali; *tafe
+1.362	whirlpool	PPN *lipo; *Lipo
+1.37	spring, well	PPN *puna; *pun-a; *fun-a; *tupu
+1.38	swamp	PPN *rano; *fusi; *(q)oru; *lepu; *lepo
+1.39	waterfall	PPN *safu; *hafu
+1.41	woods, forest	PPN *wao; *ŋaheze; *ŋaheLe; PEP *ŋahele
+1.42	tree (cf 08.600)	PPN *kau; *kai; *fuʔu; *fuqu; *waqakau; *qakau; *raʔa
+1.43	wood	PPN *kai; *kau; *raʔakau; *raqakau; *(ra)ʔakau
+1.44	stone, rock	PPN *maka; *kala; *kalaa; *ʔutu; *fatu; *koofatu; *poofatu; *teko
+1.45	earthquake	
+1.51	sky	PPN *laŋi; *laṅi
+1.52	sun	PPN *ʔaho <qaho>; *laqa(a); *laʔA; *laʔa(a)
+1.53	moon	PPN *maasina; *ma-sina; *ma-lama; *kawake
+1.54	star	PPN *fetuʔu; *fetuqu; *fetu'u; *fetū
+1.55	lightning	PPN *ʔuhila; *quhila; *(u)hila
+1.56	thunder	PPN *fatitili
+1.57	lightning (as striking)	PPN *suwelo
+1.58	storm	PPN *afaa; *'afaa(t); *'afā(t)
+1.59	rainbow	PPN *ʔumata; *(a)nuanua; PNP *nua-nua
+1.61	light (noun)	PPN *rama; *lama; *ʔama; *'ama; *marama; *maarama; *hina; *sina; *sulu; *su sulu; *huelo
+1.62	darkness	PPN *kele; *po(o)ʔuli. *po(o)quli; *matuke; *kiwa; *liko; PEP *kele
+1.63	shade, shadow	PPN *malu; *qata; *ʔata; *ata
+1.64	dew	PPN *sau; *sasau; *sa'u; *afu afu
+1.71	air	PPN *saʔu
+1.72	wind	PPN *muLe; *muze; *mataŋi; *mat-aṅi; *sau; *sau-sau; *sawili; *ti(q)u; *tiu
+1.73	cloud	PPN *ao; *ʔao; <qao>; *kapua; *puulefu
+1.74	fog	PPN *hau; *kofu; *k(a, o)fu; *puulefu
+1.75	rain (noun)	PPN *ʔuha <*quha>; *timu
+1.76	snow (noun)	
+1.77	ice	
+1.78	weather	
+1.81	fire	PPN *afi; *(q)ati; *ka kaha
+1.82	flame (noun)	PPN *zito; *muLa
+1.83	smoke (noun)	PPN *lala; *ʔahu <*qahu>; *'asu
+1.84	ashes	PPN *rafu; *refu
+1.841	embers	
+1.851	burn (vb trans)	PPN *lito; *kilia(a); *kaha; *kaatia; <*qafu>; kama; *paka; *lala
+1.852	burn (vb intrans)	PPN *zito; *kaha; *sunu
+1.86	light, kindle, ignite	PPN *tafu; *tu(u)ŋi; *tuŋi(a); *tutu(n)
+1.861	extinguish	PPN *poko; *mate; *tinai; *tin(a, e)i; *pi(q)o;*pio; PNP *tinaʔi
+1.87	match (noun)	
+1.88	firewood	PPN *fafie
+1.89	charcoal	PPN *ranahu; *malala; *ŋa(a)rahu; *ŋALahu; *na-lafu; PNP *ŋalafu
+2.1	person, human being	PPN *toko-; *taŋata; *tau; *l-ava
+2.21	man (vs. woman)	PPN *taŋata; *taʔane; *taqane; *haakoi
+2.22	woman	PPN *fine; *fa-fine; *ma-fine; *ta-fine
+2.23	male	PPN taʔane
+2.24	female	
+2.25	boy	PPN *t(a, e)iti
+2.251	young man (adolescent)	
+2.26	girl	
+2.261	young woman (adolescent)	PPN *pii
+2.27	child	PPN *tama; *fua-tasi
+2.28	infant, baby	
+2.31	husband	PPN *ʔaawaŋa; *sava; *hava
+2.32	wife	PEP *punarua; *sava; *hava
+2.33	marry	PPN *qa(a)waŋa; *ʔAwaŋa
+2.34	marriage, wedding	
+2.341	divorce	
+2.35	father	PPN *tama; *tama/na; *tamai; *t-ama-na
+2.36	mother	PPN *tina; *tinana; *t-ina(na); *nana; *nau; *fae; *fa(a)qe(a, e)
+2.37	parents	PPN *matuʔa; *matuqa
+2.38	married man	
+2.39	married woman	
+2.41	son	
+2.42	daughter	
+2.43	offspring (son or daughter)	PPN *momo; *ʔuhiki; *faanau
+2.44	brother	
+2.444	older brother	
+2.445	younger brother	
+2.45	sister	
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	PPN *tahi/na, *tahina; *t-ahi-na; *tehi/na; *tuaka/na; *kawe
+2.458	twins	PPN *maasaŋa; *masaṅ-a
+2.46	grandfather	PPN *tupu/na
+2.461	old man	PPN *tafito; *tupuʔa, a; *kui; PNP *lufa
+2.47	grandmother	
+2.471	old woman	PPN *kui
+2.48	grandson	PPN *mokopuna; *makupuna; *maka-pu-na
+2.49	granddaughter	
+2.51	uncle	
+2.511	mother's brother	PPN *tuaŋane
+2.512	father's brother	
+2.52	aunt	
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	PPN *ʔilaamutu; *qilaamutu
+2.54	niece	
+2.55	cousin	
+2.56	ancestors	PPN *kui
+2.57	descendants	PPN *fuaaŋa
+2.61	father-in-law (of a man)	PPN *fuŋaoi; *fuŋaona
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	PPN *funooŋa
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	
+2.72	stepmother	
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	
+2.76	widow	
+2.77	widower	
+2.81	relatives, kinsmen	PPN *funaoŋa; *fuaaŋa; *funo; *kaaiŋa; *asi-na; *ahi-na; *taʔokete; *taqokete
+2.82	family	
+2.91	I	PPN *au; *kita; *aku; *kau
+2.92	you (singular)	PPN *koe; *ko-e
+2.93	he/she/it	PPN *ia
+2.94	we	PPN *-ta; *ki-tato; *kita
+2.941	we (inclusive)	
+2.942	we (exclusive)	PPN *kima/tou
+2.95	you (plural)	PPN *(ou)tou; *kimo(u)/to(l)u
+2.96	they	PPN *kira/to(l)u; *hila; *la; *'a; *(ki)lato(l)u; *(ki)laatou
+3.11	animal	PPN *manu
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	
+3.16	pasture	
+3.18	herdsman	
+3.19	stable, stall	
+3.2	cattle (bovine)	
+3.21	bull	
+3.22	ox	
+3.23	cow	
+3.24	calf	
+3.25	sheep	
+3.26	ram	
+3.28	ewe	
+3.29	lamb	
+3.32	boar	
+3.34	sow	
+3.35	pig	PPN *puaka
+3.36	goat	
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	
+3.47	mule	
+3.5	fowl	PPN *moa
+3.52	cock, rooster	
+3.54	hen	
+3.55	chicken	
+3.56	goose	
+3.57	duck	
+3.58	nest	PPN *punaŋa; *punuŋa
+3.581	bird	PPN *manu; *moso
+3.582	seagull	
+3.583	heron	PPN *matuku
+3.584	eagle	
+3.585	hawk	
+3.586	vulture	
+3.591	bat	PPN *peka; *peka-peka
+3.592	parrot	PPN *ka(a)kaa; *kAkaa
+3.593	crow	
+3.594	dove	PPN *kulu-kulu; *lupe; *ku(u)ku(u); *kuku
+3.596	owl	PPN *lulu
+3.61	dog	PPN *kulii
+3.614	rabbit	
+3.62	cat	
+3.622	opossum	
+3.63	mouse, rat	PPN *kumaa; *labaw; *kiole, *kioLe
+3.65	fish	PPN *ika; *ma-lau
+3.652	fin (dorsal)	
+3.653	fishscale	PPN *ʔuna-fi; *qunafi; *una(f)
+3.654	gill	PPN *laumea; *'asa
+3.655	shell	PPN *pule; *sisi
+3.661	shark	PPN *mako; *maŋoo; *maŋO; *n(e)iufi
+3.662	porpoise, dolphin	PPN *masimasi
+3.663	whale	PPN *paikea; *pala(a)oa; *paLAoa
+3.664	stingray	PPN *fai; *foto
+3.665	freshwater eel	PPN *tuna; *toke; *silu; *koqilo
+3.71	wolf	
+3.72	lion	
+3.73	bear	
+3.74	fox	
+3.75	deer	
+3.76	monkey	
+3.77	elephant	
+3.78	camel	
+3.81	insect	PPN *muu; *wiiwii; *waawaa
+3.811	louse	PPN *kutu; *zehe
+3.812	nit (louse egg)	PPN *li(s, h)a; *lih(ae)
+3.813	flea	PPN *kutu-fiti
+3.814	centipede	
+3.815	scorpion	
+3.816	cockroach	PPN *kakalu(u)
+3.817	ant	PPN *loo; *lo; *looʔata; *ane
+3.818	spider	PPN *ka-lewe-lewe
+3.819	spider web	PPN *ka-lewe-lewe; *leve; *vele
+3.82	bee	
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	
+3.83	fly	PPN *laŋo; *ŋalo
+3.831	sandfly (midge), gnat	PPN *na(ʔ)o; <*na(q)o-na(q)o>
+3.832	mosquito	PPN *namu; *lamu
+3.84	worm	PPN *ilo; *noke; *toke; *kelemutu; *(qa)nufe; *ʔanufe; *fee; *qulo
+3.85	snake	PPN *ŋata; *gata
+3.91	firefly	
+3.92	butterfly	PPN *pepe
+3.93	grasshopper	PPN *se(ʔ)e; *seqe
+3.94	snail	PPN *ŋata
+3.95	frog	
+3.96	lizard	PPN *moko; *pili
+3.97	crocodile, alligator	
+3.98	turtle	PPN *fonu; *kea
+4.11	body	PPN *tina(na); *tino
+4.12	skin, hide	PPN *tapa; *kili; *paku
+4.13	flesh	
+4.14	hair (head)	PPN *awe; *fulu; *lauʔulu; *qulu; *ʔulu
+4.142	beard	PPN *kumi-kumi; *kumi; *kawa
+4.144	body hair	PPN *fulu
+4.145	pubic hair	PPN *fure
+4.146	dandruff	PPN *lafa
+4.15	blood	PPN *toto
+4.151	vein, artery	PPN *ua; *ua-ua
+4.16	bone	PPN *hui; *hiwi; *h(i, u)wi; *iwi; *kuti
+4.162	rib	PPN *lala; *kawakawa
+4.17	horn	
+4.18	tail	PPN *iku; *siku
+4.19	back	PPN *tuʔa; *pa(a)-pa(a)tuʔa
+4.191	spine	
+4.2	head	PPN *pane; *fofoŋa; *qulu; *ʔulu; *'ulu
+4.201	side of head, temple	
+4.202	skull	
+4.203	brain	PPN *lolo
+4.204	face	PPN **fofoŋa; haŋa; *mata
+4.205	forehead	PPN *laʔe; *lae; *laqe; *raʔe; *faŋa
+4.207	jaw	PPN taŋa; *kauʔahe; *kauqahe; *aqa; *aa
+4.208	cheek	PPN *kauʔahe; *kauqahe
+4.209	chin	PPN *kauʔahe; *kauqahe; *kumi-kumi; *kumukumu; *taŋa; *vahe
+4.21	eye	PPN *mata; *ko(o)nohi; *kOnohi; *pula
+4.212	eyebrow	PPN *kape
+4.213	eyelid	PPN *lefa
+4.214	eyelash	
+4.215	blink	PPN *kamo
+4.22	ear	PPN *roŋo; *taliŋa
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	PPN *isu; *usu; *(iu)su
+4.231	nostril	
+4.232	mucus (nasal)	PPN *isupeʔe; *isupeqe; *huupeqe; *tuŋu; *fiho
+4.24	mouth	PPN *ŋutu; *ŋaa; *mafa; *fafa; *taŋa
+4.241	beak	PPN *ŋutu
+4.25	lip	
+4.26	tongue	PPN *ʔalelo; *qalelo
+4.27	tooth	PPN *nifo; *n-ifo
+4.271	gums	
+4.272	molartooth	
+4.28	neck	PPN *uʔa; *uqa; *kia; *ka(a)kii
+4.281	nape of neck	PPN *uqa, *uʔa
+4.29	throat	PPN *taŋa; *uʔa; *ka(a)kii; *kia
+4.3	shoulder	PPN *keke
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	*PPN *liŋa
+4.312	armpit	PPN *ke(q)eke(q)e; *keekee; *fine
+4.32	elbow	PPN *siku
+4.321	wrist	
+4.33	hand	PPN *lima; *liŋa
+4.331	palm of hand	PPN *
+4.34	finger	PPN *mataa-lima; *matikuku; *lisi
+4.342	thumb	
+4.344	fingernail	PPN *maikuku
+4.345	claw	PPN *kuku; *maikuku
+4.35	leg	PPN *waqe; *waʔe
+4.351	thigh	PPN *teŋa; *paka; *koihaŋa; *kuufaa
+4.352	calf of leg	
+4.36	knee	PPN *turi
+4.37	foot	PPN *waʔe; *va'e
+4.371	ankle	
+4.372	heel	
+4.374	footprint	PPN *tapu-waʔe
+4.38	toe	PPN *matikuku
+4.392	wing	PPN *kapakau; *kapa; *kapa-kapa
+4.393	feather	PPN *pala(ʔ, h)a; *fulu; *kula; *lawe
+4.4	chest	PPN *fata-fata; *uma
+4.41	breast (of woman)	PPN *huhu; *susu; *uma
+4.412	nipple, teat	PPN *susu; *huhu
+4.42	udder	
+4.43	navel	PPN *uso; *iho; *pito
+4.44	heart	PPN *finaŋalo
+4.441	lung	PPN *maʔa-maʔa; *maqamaqa
+4.45	liver	PPN *ʔate; *qate
+4.451	kidney	PPN *mape
+4.452	spleen	
+4.46	stomach	PPN *koopuu; *koopoo; *kopu; *manawa; *ʔalo; *qalo; *kete; *kona; *tinaqe; *tinae; *tia
+4.461	intestines, guts	PPN *silo; *ŋaakau; *tinaqe; *tinae; *waawaa; *ma-nava; *fekafeka; *qalo; *ʔalo
+4.462	waist	
+4.463	hip	PPN *noko
+4.464	buttocks	PPN *noko; tipi; *muri; *lemu; *sope
+4.47	womb	PPN *ewe
+4.49	testicle	PPN *kala; *rie; *Lie; *laso
+4.492	penis	PPN *ule
+4.51	breathe, breath	PPN *ŋaa; *na; *ma-nawa; *maanawa; *mapu; *sela
+4.52	yawn, gape	PPN *fakamaawaa
+4.521	hiccough	
+4.53	cough	PPN *fuu; *male; *m(a, e)le; *tale; *tuŋu
+4.54	sneeze	PPN *ti(s, f)e; *tihe
+4.55	perspire	PPN *kakawa; *(ka)kawa
+4.56	spit	PPN *ʔaʔanu; *qaqanu; *suki; *puqaki; *ifo
+4.57	vomit	PPN *lua; *lu-aki
+4.58	bite	PPN *kati; *kom-i
+4.59	lick	PPN *lami; *miti; *ʔepo; *qemo
+4.591	dribble	
+4.61	sleep	PPN *pipiki; *mohe
+4.612	snore	
+4.62	dream	PPN *lika; *miti
+4.63	wake up	PPN *ʔara; *mata-ʔara; *ofo; *hala; *fa/faŋu; *faṅu(n)
+4.64	break wind	PPN *puu; *teʔe; *suu
+4.65	urinate	PPN *mimi; *mi(i)
+4.66	defecate	PPN *feka-feka; *ta'e; *taʔe <taqe>; *teʔe; *tiko
+4.67	have sexual intercourse	PPN *fai; *haqi; *oli; *oLi; *oni oni
+4.68	shiver	PPN *tete; *lifu; *ŋatali; *ŋaaluelue
+4.69	bathe	PPN *kaukau; *lanu(m); *'anu
+4.71	beget (of father)	
+4.72	born (to be)	PPN *faanau; *fa-nau
+4.73	pregnant	PPN *sapuu; *sapu; *hapuu
+4.732	conceive	
+4.74	live, living, life	PPN *maʔuri; *maquri; *ola; *ʔuli; *ʔuʔi
+4.75	die, dead	PPN *mate; *ma-mate; *kero; *'oti
+4.751	drowned	PPN *lemo; le-lemo; *-lemo; *lemo(s); *malemo; *paremo
+4.76	kill	
+4.77	corpse	PPN *qaŋaqaŋa
+4.78	bury (the dead)	PPN *tanu; *tano; *tanu(m); *fala
+4.79	grave, tomb	PPN *fala
+4.81	strong, mighty, powerful	PPN *kafa; *ma(a)losi; *mana; *mafi; *ta'a
+4.82	weak	PPN *ŋo(o)-ŋo(o); *wai-wai; *ŋaawari; *ŋase-ŋase(a); *loma
+4.83	well, health	PPN *ola
+4.84	sick, sickness	PPN *maki; *masaki; *ma-saki; *mahaki; *ma-haki; *kafo; *li(i)la(a)
+4.841	fever	
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	PPN *maki; *pala; *tane; *kafo
+4.852	bruise	PPN *qunoko
+4.853	swelling	PPN *pona; *fula; *pula; *puku; *puke; *puŋa; *poka; *tupu; *fuse; *kozopupuu
+4.854	itch	PPN *fune(fune); *maŋeo; *maqene; *maʔene
+4.855	blister	PPN *kana; *kozopupuu
+4.856	boil (noun)	PPN *-faa; *patu
+4.857	pus	PPN *pilau; *pala
+4.858	scar	PPN *patu; *kali
+4.86	cure, heal	PPN *mafu; *ola
+4.87	physician	
+4.88	medicine, drug	
+4.89	poison	
+4.91	tired, weary	PPN *maanunu; *hemo
+4.912	rest	PPN *tau; *toka; *(q)oki(q)oki; *hili; *ili
+4.92	lazy	PPN *noa
+4.93	bald	PPN *kila; *ali; *mozi
+4.94	lame	PPN *kopa; *koki; *maoa; *sape
+4.95	deaf	PPN *tuli
+4.96	mute	PPN *m-utu
+4.97	blind	PPN *kui
+4.98	intoxicated	PPN *kona
+4.99	naked, bare	PPN *tafaŋafaŋa
+5.11	eat	PPN *ka; *kai; *kei; *faŋaʔi; *faŋa; *taumafa
+5.12	food	PPN *ʔoho; *ʔoso <*qoso>; *kai; *taumafa
+5.121	cooked	PPN *rara; *maoa; *moso; *masa
+5.122	raw	PPN *mata; *ʔota; *qota; *ota
+5.123	ripe	PPN *pala; *leu; *makulu
+5.124	green, unripe	PPN *mata; *ota
+5.125	rotten	PPN *pela; *pilo, *piLo; *pilau; *popo; *pala; *keza; *pizo
+5.13	drink	PPN *unu; *inu; *inu(m)
+5.14	hunger	PPN *hoŋe; *fiakai
+5.141	famine	PPN *hoŋe
+5.15	thirst	
+5.16	suck	PPN *huhu; *komo; *miti
+5.18	chew	PPN *lam(u, i); *mama; *ŋali; *ŋau; *ŋu(u)ŋu(u)
+5.181	swallow	PPN *folo; *moni
+5.19	choke	PPN *ku kumi
+5.21	cook	PPN *taʔo; *neki; *tafu; *lala
+5.22	boil (vb)	PPN *lili
+5.23	roast, fry	PPN *tunu; *taʔo; *taqo; *faku; *paka
+5.24	bake	PPN *taʔo
+5.25	oven	PPN *ʔumu; *qumu; *haaŋii
+5.26	pot, cooking vessel	PPN *kulo; *kuzo; *kuLo
+5.27	kettle	
+5.28	pan	
+5.31	dish	
+5.32	plate	
+5.33	bowl	PPN *taanoʔa; <*taanoqa>; *kumete
+5.34	pitcher, jug	PPN *ipu
+5.35	cup, drinking vessel	PPN *ipu
+5.36	saucer	
+5.37	spoon	PPN *ao; *sisi; *selu
+5.38	knife	PPN *sele
+5.39	fork	
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	PPN *qoso; *ʔo(h, s)o
+5.44	dinner	
+5.45	supper	
+5.46	peel	PPN *fule; *foke; *fohi; *hisi; *sisi; *tasi
+5.47	sieve, strain	PPN *tupuqa
+5.48	scrape	PPN *laku; *(la)laku; *tasi; *waru; *salu; *falu; *maqa; *fazo; *kili; *sakalo; *saqalo; *saʔalo; *seru
+5.49	stir, mix	PPN *firo; *nane; *natu; *nawa; *sola-sola; *kanoni; *seu
+5.51	bread	
+5.53	dough	
+5.54	knead	PPN *lapu; *nane; *natu; *o(o)qi; *oʔi
+5.55	meal, flour	
+5.56	crush, grind	PPN *holo; *ŋatu; *roqi; *o(o)qi; *oʔi; *wari; *waLi
+5.57	mill	
+5.58	mortar	
+5.59	pestle	
+5.61	meat	PPN *kakano; *kiko; *kanofi; *kan-o
+5.63	sausage	
+5.64	soup, broth	
+5.65	vegetables	
+5.66	bean	
+5.7	potato	
+5.71	fruit	PPN *fua; *pua
+5.712	bunch	PPN *kau; *kofukofu; *kawei
+5.75	fig	
+5.76	grape	
+5.77	nut	
+5.78	olive	
+5.79	oil	
+5.791	grease, fat	PPN *sinu; *mo(o)mona; *mOmona; *ŋako
+5.81	salt	PPN *pa(k, ʔ)atai
+5.82	pepper	
+5.821	chili pepper	
+5.84	honey	
+5.85	sugar	
+5.86	milk (noun)	
+5.87	milk (vb)	
+5.88	cheese	
+5.89	butter	
+5.9	beverage, drink	PPN *(i, u)nu
+5.91	mead	
+5.92	wine	
+5.93	beer	
+5.94	fermented drink	PPN *maa; *mara; *masi; *m-asi; *m-ahi
+5.97	egg	
+5.971	egg yolk	
+6.11	put on (clothes)	PPN *tala; *kofu; *kafu; *sume; *hume
+6.12	clothing, clothes	PPN *kafu; *kofu
+6.13	tailor	
+6.21	cloth	
+6.22	wool	
+6.23	linen, flax	
+6.24	cotton	
+6.25	silk	
+6.27	felt	
+6.28	fur	
+6.29	leather	
+6.31	spin	PPN *taka
+6.32	spindle	
+6.33	weave	PPN *faʔu; *fatu; *la-laŋa; *tia
+6.34	loom	
+6.35	sew	PPN *tia; *tui
+6.36	needle	PPN *sika; *hau; *sau; *kuti
+6.37	awl	
+6.38	thread	PPN *ʔatu; *afo; *kafa; *kaalawa; *makawe
+6.39	dye	
+6.41	cloak	
+6.411	poncho	
+6.42	woman's dress	
+6.43	coat	
+6.44	shirt	
+6.45	collar	
+6.46	skirt	
+6.461	grass-skirt	
+6.48	trousers	
+6.49	stocking, sock	
+6.51	shoe	
+6.52	boot	
+6.54	shoemaker, cobbler	
+6.55	hat, cap	
+6.57	belt, girdle	PPN *taatua; *kiekie
+6.58	glove	
+6.59	veil	
+6.61	pocket	
+6.62	button	
+6.63	pin	
+6.71	ornament, adornment	PPN *laakei; *niko
+6.72	jewel	
+6.73	ring (for finger)	PPN *mama
+6.74	bracelet	PPN *mama
+6.75	necklace	PPN *kasoa; *lei, *Lei
+6.76	bead	
+6.77	earring	PPN *sau
+6.78	headband, headdress	PPN *lemo; *pale; *puulou; *lave
+6.79	tattoo	PPN *tatau; *(ta)tau
+6.81	handkerchief, rag	
+6.82	towel	
+6.91	comb	PPN *selu
+6.92	brush	
+6.921	braid	PPN *firi; *filo; *tali
+6.93	razor	
+6.94	ointment	
+6.95	soap	
+6.96	mirror	PPN *qata; *ʔata; *fakaata
+7.11	dwell, live	PPN *toka; *nofo; *noho
+7.12	house	PPN *fale
+7.13	hut	PPN *ruru; *LuLu
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	PPN *malaqe; *malaʔe
+7.21	room	PPN *kano; *loki
+7.22	door, gate	
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	
+7.26	floor	
+7.27	wall	PPN *ʔaa; *qaa; *pakitara
+7.31	fireplace	PPN *lafu; *'afu
+7.32	stove	
+7.33	chimney	
+7.37	ladder	
+7.42	bed	
+7.421	pillow	PPN *ʔuluŋa; *ʔoluŋa; *kali
+7.422	blanket	
+7.43	chair	
+7.44	table	
+7.45	lamp, torch	PPN *rama; *sulu(i)
+7.46	candle	
+7.47	shelf	PPN *fata
+7.48	trough	
+7.51	roof	PPN *ato(f)
+7.52	thatch	PPN *ʔato; *qato; *inaki; *rau
+7.53	ridgepole	PPN *fufu; *taʔufufu; *t(a, o)q(o, u)fufu; *t(a, o)ʔ(o, u)fufu
+7.54	rafter	PPN *kaso; *fatuŋa; *hoka
+7.55	beam	PPN *fatuŋa
+7.56	post, pole	PPN *pou; *tia; *ti(ʔ)a; *ti(q)a; *toko; *take
+7.57	board	PPN *papa
+7.58	arch	PPN *aze; *ale
+7.61	mason	
+7.62	brick	
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	
+8.12	field (for cultivation)	
+8.13	garden	PPN *were; *maqala; *maʔala
+8.15	cultivate, till	PPN *suo(o); *mafi
+8.16	fence	PPN *paa; *pa; *ʔaa; *kolo; *taŋa; *qaa
+8.17	ditch	PPN *sa(a)lia; *haalia; *lua
+8.21	plow	PPN *salu
+8.212	furrow	
+8.22	dig	PPN *k(a, e)li; *keli; *kaLi; *kenu; *kazi; *ketu
+8.23	spade	
+8.24	shovel	
+8.25	hoe	PPN *suo(o)
+8.26	fork	PPN *saŋa; *fana; *mana; *kausaŋa; *maŋamaŋa
+8.27	rake	
+8.31	sow	
+8.311	seed	PPN *kano; *fu(ʔ)ero; *pulapula; *pula
+8.32	mow, reap	
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	PPN *utu; *fuat-a
+8.42	grain (barley, oats etc)	
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	
+8.48	rice	
+8.51	grass	PPN *m(a, o)huku; *mahuku; *suku
+8.52	hay	
+8.53	plant (noun)	
+8.531	plant (vb)	PPN *tanu; *tanu(m); *tano; *to(ʔ)u; *feki
+8.54	root	PPN *aka
+8.55	branch	PPN *maŋa; *raʔa-raʔa; *peka; *laʔa
+8.56	leaf	PPN *lau; *pele
+8.57	flower	PPN *pua; *fiti; *see; *tiale; *funa
+8.6	tree	PPN *kau
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	PPN *fue; *aka
+8.68	tobacco	
+8.69	smoke (tobacco)	
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	PPN *puʔu; *pu(q)u; *fuʔu; *tumu; *take; *tafito; *kau
+8.74	forked branch	
+8.75	bark	PPN *tapa; *ao(a); *koo
+8.76	sap	PPN *pulu
+8.81	palm tree	PPN *piu
+8.82	coconut	PPN *niu; *erehi
+8.83	citrus fruit	PPN *moli
+8.84	banana tree	PPN *futi
+8.85	banyan	PPN *qaoa
+8.91	sweet potato	PPN *kumala; *ku(u)mala; *kao; *moi(i); *moI; *hamo
+8.912	yam	PPN *ʔufi; *qufi
+8.92	tapioca, manioc, cassava	
+8.93	gourd	
+8.931	pumpkin, squash	
+8.94	bamboo	PPN *kofe
+8.941	sugar cane	PPN *too
+8.96	fish poison (root)	
+8.97	nettle	PPN *salato; *sa-lato
+8.98	mushroom	
+9.11	do, make	PPN *fai; *saŋa; *tafu; *saka; *fatu; *mafi
+9.12	work	PPN *mafi
+9.14	bend	PPN *fatu; *numi; *noku; *loku; *piko; *pelu; *ŋaofe
+9.15	fold	PPN *pelu; *mapelu; *noku; *loku; *kolu; *fatu; *numi; *lipi; *kopi
+9.16	tie, bind	PPN *faʔu; *faqu; *fau(s); *fus-i; *futu; *kawei; *saqi; *saʔi; *lawa; *li(i)lii; *takai
+9.161	untie	PPN *tala; wete
+9.18	chain	
+9.19	rope, cord	PPN *ta(l, r)i; *maea; *afo; *tali; *kalihi; *awe; *makawe; *kaalawa; *fenu(u)
+9.192	knot (noun)	PPN *patu; *pona; *puku
+9.21	strike (hit, beat)	PPN *paa; *palo; *sau; *sasa; *taa; *tuki
+9.211	pound with fist	PPN *palu; *penu
+9.22	cut	PPN *motu; *mutu; *ko-koti; *koti(f); *sele; *tafa; *tipi; *tope
+9.221	cut down	PPN *kini; *tua
+9.222	chop, hew	PPN *sau; *ta(a)lai; *tALai; (q)a(a)lisi
+9.223	stab	PPN *suki; *soka; *hoka; *hu(u)maki; *welo; *pa(s, f)u, *pahu
+9.23	knife	PPN *sele; *kofe; *polo; *mata
+9.24	scissors, shears	PPN *kuti
+9.25	ax	PPN *matau; *toki; *lipi
+9.251	adze	PPN *toki; *(q)a(a)lisi
+9.26	break	PPN *koto; *fati; *foa; *tofo(n); *poka
+9.261	broken	PPN *foha
+9.27	split	PPN *fasi; *fa(a)si; *matata; *sana; *kapiti; *kali; *sae
+9.28	tear	PPN *ewe; *masae; *sae
+9.29	flay, skin	PPN *fohi; *sole; *fufu; *hisi; *hoLe
+9.31	rub, wipe	PPN *solo; *olo; *faro; *amo; *mulu; *mili; *kana; *pani
+9.32	stretch	PPN *fa(a)loo; *fAloo; *pekapeka
+9.33	pull	
+9.34	spread out	PPN *fola; *fola(s); *(ma)fola; *ma(a)lufa; *mafela; *feLa; *na'a; *'atu; *Laha; *lala
+9.341	hang up	PPN *hili; *safe; *zewa; *Lewa
+9.342	press	PPN *koko; *lomi; *taʔomi; *ŋatu
+9.343	squeeze, wring	PPN *fota; *kopi(t); *koko; *kum-aki; *kum-i; *ku kumi; *taqomi; *taʔomi; *lomi
+9.35	pour	PPN *(li)liŋi; *pua
+9.36	wash	PPN *soloi; *fano; *fulu; *tafi; *tapi
+9.37	sweep	PPN *tafi
+9.38	broom	PPN *safu
+9.422	tool	PPN
+9.43	carpenter	
+9.44	build	
+9.46	bore	PPN *wili; *fao
+9.461	hollow out	PPN *leke; *poko
+9.48	saw	PPN *kili
+9.49	hammer	
+9.5	nail	PPN *faqo; *titi
+9.56	glue	PPN *pili; *pulu(t); *piki; *pia pia
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	
+9.64	gold	
+9.65	silver	
+9.66	copper, bronze	
+9.67	iron	
+9.68	lead (noun)	
+9.69	tin, tinplate	
+9.71	potter	
+9.72	mold (clay etc)	PPN *puŋa
+9.73	clay	
+9.74	glass	
+9.75	weave, plait	PPN *firi; *nino; *tali, taLi
+9.76	basket	PPN *kato; *kete; *lafi
+9.77	mat	PPN *fala; *kie; *kiekie; *fatuŋa; ʔepa; *faaliki; *pola
+9.771	rug	
+9.78	netbag	PPN *taŋa; *tan-a; *kaka; *kete; *puutee; *pute
+9.79	fan (noun)	PPN *fue; *pekahi; *taʔili; *taqili; *ili
+9.791	fan (vb)	
+9.81	carve	PPN *ta(a)lai; *taLai
+9.82	sculptor	
+9.83	statue	PPN *a(a)fua; *tiki; *ata
+9.84	chisel	PPN *toŋi
+9.88	paint (noun)	PPN *pani
+9.89	paint (vb)	PPN *peta; *tosi; *tusi
+10.11	move	PPN *firi; *keu; *oni oni
+10.12	turn over	PPN *tafuli; *tul(a, e)ki; *sua; *fuli; *fili; *taafiti; *ketu
+10.13	turn around	PPN *liu; *winli; *kaapui; *kapu; *liko; *puni; *taŋa; *fa(a)liu; *liu; *fuli; *haŋa; *teka; *fati; *fuli
+10.14	wind, wrap	PPN *kapu; *kaapui; *kofu; *a-fo; *afi; *li(i)lii; *Lii; *LiLi; *takai; *pookai; *kope; *punu(t); *puni(t)
+10.15	roll	PPN *teka; *fili; *lulu
+10.16	drop (vb)	
+10.17	twist	PPN *piko; *wili; *miŋi; *lino; *nino; *fenu(u); *filo(s); *milo(s); *ka(a)wiri
+10.21	rise	PPN *eʔa; *eqa; *malaŋa
+10.22	raise, lift	PPN *ketu; *liaki; *sa(a)pai; *siki; *laŋa; *mašiki; *masiki; *sua; *sili
+10.23	fall	PPN *makulu; *siŋa; *opa; *lutu
+10.24	drip	PPN *tulu; *zu(u); *sali
+10.25	throw	PPN *maka; *nou; *pi(ʔ)u; *fiu; *tili; *tolo; *liaki; *welo
+10.252	catch (ball)	PPN *sapo
+10.26	shake	PPN *nini; *oʔi; *oqi; *ŋaue; *natali; *ŋatali; *ŋaaluelue; *lulu; *lu(u)luu; *lue; *tete; *mania; *poze; *poLe
+10.32	flow	PPN *tafe; *pihi; *sali; *pua
+10.33	sink	PPN *asu; *lom-aki; *lom-i; *luku; *ŋoto
+10.34	float	PPN *manu; *maaŋi; *ma-ʔanu; *'anu; *maqanu; *ope; *tere; *uto; *zewa; *Lewa
+10.35	swim	PPN *kaukau; *kau
+10.351	dive	PPN *sopu; *ruku; *luku; *lom-aki; *lom-i
+10.352	splash	
+10.36	sail (vb)	
+10.37	fly (vb)	PPN *lele; *kopa
+10.38	blow	PPN *ani; *aŋi; *pusi; *pus-i; *pu-pu(t); *falala; *ifi; *muze; *sawili; *paa
+10.41	creep, crawl	PPN *neke neke
+10.412	kneel	
+10.413	crouch	
+10.42	slide, slip	PPN *solo; *(pa)seke
+10.43	jump, leap	PPN *fiti; *lele; *rei; *Lei; *sopo; *panau; *ʔoso
+10.431	kick	PPN *ʔaka; *qaka; *sake
+10.44	dance	PPN *mako; *saka; *sak-a; *se(q)a; *kapa; *huLa
+10.45	walk	PPN *laka; *fano; *maliu; *qalu; *lao; *roo; *sa(a)qele; *sAʔele; *takafi
+10.451	limp	PPN *tipa; *luli; *LuLi
+10.46	run	PPN *lele; *kifu
+10.47	go	PPN *fano; *laka; *maliu; *ʔalu; *roo; *saʔele
+10.471	go up	PPN *hake; *ato; *fa-nake; *fa-nai
+10.472	climb	PPN *ato; *heke; *hake; *sake; *ake; *kake; *piki; *fanai
+10.473	go down	PPN *solo
+10.474	go out	
+10.48	come	PPN *maliu; *saqu
+10.481	come back	PPN *foki; *maliu; *fuli
+10.49	go away, depart	PPN *masuq(e, i); *tuku; *walho
+10.491	disappear	PPN *ŋalo; *nimo; *numi
+10.51	flee	PPN *roo; *halu; *kalo; *sao; *sola
+10.52	follow	PPN *ʔalu; *qalu; *fai
+10.53	pursue	
+10.55	reach, arrive	PPN *hoko; *soko; *tae; *lau
+10.56	approach	PPN *fotu; *ofi ofi
+10.57	enter	PPN *huru; *ofi-ofi; *tomo; *tama
+10.61	carry (bear)	PPN *kawe; *ʔavatu; *fafa; *tali(k); *sapai
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	PPN *fafa; *fua; *ʔamo; *qamo
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	
+10.63	send	PPN *fekau
+10.64	lead (vb)	PPN *taki; *ala(f)
+10.65	drive	PPN *folau
+10.66	ride	
+10.67	push, shove	PPN *keu; *tule; *take; *pa(s, f)u; *pahu
+10.71	road	
+10.72	path	PPN *hala; *hala(n); *sala; *te-a
+10.74	bridge	PPN *te-a
+10.75	carriage, wagon, cart	
+10.76	wheel	
+10.77	axle	
+10.78	yoke	
+10.81	ship	PPN *pola
+10.83	boat	PPN *waka; *vaka; *folau
+10.831	canoe	PPN *waka
+10.832	outrigger	PPN *ama; *hama; *sama(n)
+10.84	raft	PPN *kiato
+10.85	oar	PPN ʔalo
+10.851	paddle (noun)	PPN *fohe; *qalo
+10.852	row (vb)	PPN *qalo
+10.86	rudder	PPN *uli(ṅ)
+10.87	mast	PPN *tila; *fanaa
+10.88	sail (noun)	PPN *laa; *tere
+10.89	anchor	
+10.91	harbor, port	PPN *taulaŋa
+10.92	land (vb)	
+11.11	have	PPN *fai
+11.12	own, possess	PPN *no(o)
+11.13	take	PPN *toʔo; *toqo; *saru; *lilo; *la(q)uka
+11.14	seize, grasp	PPN *kapo; *hapo; *sapo; *puke; *lasu; *saru; *sopu; *kuku; *siko; *piki; *kape
+11.15	hold	PPN *sapo; *sopu; *piki; *lafi(t); *lapi(t)
+11.16	get, obtain	
+11.17	keep, retain	
+11.18	thing	PPN *meqa; *meʔa; *me-a; *afa
+11.21	give	PPN *foo; *foaki; *hoo; *fo-aki; *soli; *qatu
+11.22	give back	
+11.24	preserve, look after	
+11.25	save, rescue	
+11.27	destroy	PPN *solo; *ofa
+11.28	harm, injure, damage	PPN *mafoa; *kaŋa
+11.31	seek, look for	PPN *kumi; *k(i, u)mi; *uŋa; *sala
+11.32	find	
+11.33	lose	
+11.34	release, let go	
+11.43	money	
+11.44	coin	
+11.51	rich	
+11.52	poor	PPN *mativa; *matiwa; *wewe
+11.53	beggar	PPN *hu(u)
+11.54	avaricious, stingy	
+11.61	lend	
+11.62	borrow	
+11.63	owe	
+11.64	debt	
+11.65	pay (vb)	PPN *totoŋi; *utu
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	PPN *utu
+11.79	earn	
+11.81	buy	PPN *hoko
+11.82	sell	PPN *hoko
+11.83	trade, barter	PPN *tau
+11.84	merchant	
+11.85	market (place)	
+11.86	store, shop	
+11.87	price	PPN *tau
+11.88	dear (costly, expensive)	
+11.89	cheap	PPN *noa
+11.91	share (distribute)	PPN *taki-; *wase; *wahe; *maawae; *tufa; *tusa
+11.92	weigh	PPN *fua
+12.1	after	
+12.11	behind	PPN *muri
+12.2	beside	
+12.3	down, below	PPN *hifo; *ifo; *lalo
+12.4	before	PPN *ʔaro; *tuai; *muqa; *muʔa
+12.41	front	PPN *muʔa; *muqa; *tuai; *haŋa; *qaro; *ʔaro; *'alo(f)
+12.5	inside, in	PPN *lalo; *(la)lo; *loto; *poko; *(ʔ)i
+12.6	outside	PPN *fafo
+12.7	under	PPN *lalo
+12.8	up, above	PPN *fafo; *hake; *luŋa; *ʔaluŋa
+12.11	place	PPN *waa; *faʔasi; *faqasi; *i; *mea
+12.12	put	PPN *tuku; *tau
+12.13	sit	PPN *nofo; *noho; *toka; *lolo
+12.14	lie down	PPN *takoto; *ta/koto
+12.15	stand	PPN *tuʔu; *tuqu; *sako
+12.16	remain, stay	PPN *nofo
+12.17	remains, left overs	PPN *toe; *toeŋa
+12.21	collect, gather	PPN *fono; *haʔo; *sao; *luku; *mui; *tanaki; *toli; *kofi; *kato; *faki; *futi, *fut-i
+12.212	pick up	PPN *kato; *faki; *toli
+12.213	pile up	PPN afu; *puke. *pil
+12.22	join, unite	PPN *soko; *sokosoko; *ao; *toli; *a(a)naki; *saʔi; *fono; *pili; *fuhi; *kaapiti; *kapiti; *lafo(t)
+12.23	separate	PPN *maawae; *wahe; *wase; *masuʔie; *masuq(e, i)
+12.232	divide	PPN maawae; *faʔasi; *wahe; *wase
+12.24	open	PPN *puu; *are-are; *fuke; *fela; *feLa; *mafela; *Laha
+12.25	shut, close	PPN *kopiti; *pono
+12.26	cover	PPN *kofu; *kafu; *hafu(t); *ʔufi <*qufi>; *puni; *puipui: *kapu; *kapi; *poki; *uta; *həb; *kəpi
+12.27	hide, conceal	PPN *fuu; *fun-a; *lilo; *mumuni;*muni; *puni; *punaŋa
+12.31	high	PPN *tike; *afu
+12.32	low	
+12.33	top	PPN *tumu; *sili; *ata; *foṅ-a; *nihi; *ni(f, s)i; *fafo
+12.34	bottom	
+12.35	end	PPN *siku; *iku; *potu; *mutu; *lato(n)
+12.352	pointed	PPN *popo; *tusi; *mata; *ti(s, f)i; *tihi; *tala
+12.353	edge	PPN *tapa; *tafa; *ni(ʔ)(i)a(ʔ)o; *ni(i)ao; *nIao; *nihi; *ni(f, s)i; *pae; *kau; *lipi; *fatuŋa
+12.36	side	PPN *tafa; *tapa; *paʔasi; *kau; *pae
+12.37	middle, center	
+12.41	right (side)	PPN *mataʔu; *mataqu; *ma-ta'u; *kataʔu; *katau; *kAtau
+12.42	left (side)	PPN *mauii; *sema; *kaui(i)
+12.43	near (adv)	PPN *tata; *ofi-ofi; *pili; *nei
+12.44	far (adv)	PPN *mamaʔo; <*mamaqo>; *tafiti; *laa; *hau
+12.45	east	PPN *hake; *sasake
+12.46	west	PPN *sisifo; *laki
+12.47	north	PPN *tokelau
+12.48	south	PPN *toŋa
+12.53	grow	PPN *tupu; *somo; *tili
+12.54	measure	PPN *rofa; *lofa; *'ofa
+12.541	span, fathom	PPN *haŋa; *rofa; *saṅa; *haṅa
+12.55	large, big	PPN *nui; *lasi; *poka; *ʔuke; *kafa
+12.56	small, little	PPN *riki; *iti; *liki; *riki; *kisi; *mata-liki; *qiti
+12.57	long	PPN *loa
+12.58	tall	
+12.59	short	PPN *poto
+12.61	wide, broad	PPN *laulasi; *lapa; *laupapa; *faalasi
+12.62	narrow	PPN *(ʔ)oho; *kopiti
+12.63	thick (in dimension)	PPN *matolu; *ma(a)tolu; *newenewe
+12.65	thin (in dimension)	PPN *ale-ale; *manifi; *ʔaŋo-ʔaŋo; *li(i)la(a); *pakau
+12.67	deep	PPN *ŋoto; *fofonu
+12.68	shallow	PPN *m-asa(t)
+12.71	flat	PPN *papa; *lafa;*lafa-lafa; *lapa; *laupapa; *kaupapa; *ma(a)lena; *lata; *fafo
+12.73	straight	PPN *sako
+12.74	crooked	PPN *sisi(f); *nasa; *loku; *piko; *mapelu; *ŋaofe; *teke
+12.75	hook	PPN *laʔu; *laqu; *lohu
+12.76	corner	PPN *tuliki; *kona; *siku
+12.77	cross	
+12.78	square	
+12.81	round	PPN *taka; *pae; *po(e, i)
+12.82	circle	PPN *taka; *teka; *liko
+12.83	sphere, ball	PPN *patu
+12.84	line	PPN *qatu; *ʔatu; *kaalawa
+12.85	hole	PPN *puta; *poko; *puu; *leke; *lua; *lu(a, o); *fao; *ŋutu
+12.92	like, similar	PPN *pe(e); *pE; *fela; *pela; *tusa; *lite; *Lite
+12.93	change	
+13.0	zero, nothing	
+13.1	one	PPN *taha; *ha; *sa; *se; *tasi
+13.2	two	PPN *rua; *lua; *rie; *Lie; *'ua
+13.3	three	PPN *tolu; *tolo; *tou
+13.4	four	PPN *faa; *fa
+13.5	five	PPN *lima
+13.6	six	PPN *ono
+13.7	seven	PPN *fitu
+13.8	eight	PPN *walu; *valu
+13.9	nine	PPN *hiwa; *siwa; *siva; *hiva
+13.10	ten	PPN *haŋafulu; *fulu; *hafe
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	PPN *tekau
+13.105	hundred	PPN *rau; *au; *lau; *hafe
+13.106	thousand	PPN *afe; *lefu
+13.107	count	PPN *pau
+13.14	every, all	PPN *ka(a)toa; *lako(f)
+13.15	much, many	PPN *mano; *ma-no; *mahu; *lawa; *lau; *nanea; *lasi
+13.16	more	
+13.17	little (quantity), few	
+13.18	enough	PPN *lawa; *nanea
+13.181	some	
+13.19	multitude, crowd	PPN *tini; *kapi; *kapikapi; *ʔapiʔapi; *nuku
+13.21	full	PPN *fonu; *fofonu; *kanoni; *kapi; *fiu; *(maa)kona; *musu
+13.22	empty	PPN *ʔaŋoʔaŋo; *fua
+13.23	part, piece	PPN *tape; *koŋa; *mala; *maawae
+13.24	half	
+13.33	alone, only	PPN *anake; *l-ava; *soko-; *hoko; *hua
+13.34	first	PPN *matua(aki)
+13.35	last	
+13.36	second	
+13.37	pair	
+13.38	two times	
+13.42	third	
+13.44	three times	
+14.11	time	
+14.12	age	
+14.13	new	PPN *foʔou; <*foqou> <*fo'ou>; *fou
+14.14	young	PPN *pi; *pii
+14.15	old	PPN *tafito; <*tupuqa>; *tupuʔa; *tuai
+14.16	early	
+14.17	late	
+14.18	now	PPN *ni
+14.19	immediately	
+14.21	swift, fast, quick	PPN *wawe; *solo; *soLo
+14.22	slow	
+14.23	hasten, hurry	
+14.24	retard, delay	
+14.25	begin, beginning	PPN *kamata
+14.252	last, endure	PPN *maqu; *maʔu
+14.26	end (temporal)	
+14.27	finish	PPN *qoti; *ʔoti; <*qotiV>; *lawa; *iku; *potu; *mutu; *lato(n)
+14.28	cease, stop	PPN *'oti
+14.29	ready	
+14.31	always	PPN *tauV
+14.32	often	PPN *sokosoko; *soko
+14.33	sometimes	
+14.331	soon	PPN *ta(a)iV
+14.332	long-time (for a)	PPN *tuai; *leva
+14.34	never	
+14.35	again	PPN *Vfoki; *foki; PPN *toe; PNP *toe
+14.41	day	PPN *ʔaho; <*qaho>; *aho; *ʔaso; *aso; *qaso
+14.42	night	PPN *poo; *poṅi; *po(ṅ)
+14.43	dawn	PPN *maliko; *maLiko; *ata; *seŋ(a, i)
+14.44	morning	PPN *poŋi-poŋi
+14.45	noon, midday	
+14.451	afternoon	
+14.46	evening	PPN *afi-afi; *afi; *poŋipoŋi; *maliko; *liko; *(ma)Liko
+14.47	today	PPN *kua
+14.48	tomorrow	PPN *poŋi-poŋi; *(ʔ)aapoŋi-poŋi
+14.481	day-after-tomorrow	PPN *-ina
+14.49	yesterday	PPN *ana(n)afi; *ana/nafi; *n(e)afi; *qana-poo
+14.491	day-before-yesterday	PPN *-ina
+14.51	hour	
+14.53	clock, timepiece	
+14.61	week	
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	PPN *malama
+14.73	year	PPN *ta'u
+14.74	winter	
+14.75	spring	
+14.76	summer	
+14.77	autumn	
+14.78	season	PPN *taʔu; *taqu
+15.21	smell (vb intrans)	PPN *namu; *soŋi; *sauŋa
+15.212	sniff	
+15.22	smell (vb trans)	
+15.25	fragrant, good smelling	PPN *ka-kala; *m-aṅon-i; *manoni; *manoṅi
+15.26	stinking, bad smelling	PPN *ʔelo; *qelo; *pulau; *pilau; *pizo; *piLo
+15.31	taste	PPN *namu; *kamata
+15.35	sweet	PPN *maaŋazo; *suqam(a, e)lie; *ma-mi
+15.36	salty	PPN *maʔai
+15.37	bitter	PPN *masa; *kawa; *kona; *fehu
+15.38	acid, sour	PPN *kawa; *kona; *mara; *m-asi; *m-ahi; *masa
+15.39	brackish	
+15.41	hear	PPN *roŋo; *fanoŋo; *faloŋo; *lono; *loṅo; *'ono; *nono
+15.42	listen	PPN *fanoŋolife
+15.44	sound, noise	PPN *olo; *koo; *kulu; *ṅulu; *lili; *kekekeke; *pa(a)tatoo; *palalaa; *pAtatoo
+15.45	loud	
+15.46	quiet, silence	PPN *loŋo; *liŋo; *liṅo; *ruru; *LuLu; *maluu; *ma(a)lie; *manino; *nia; *maa; *m(a, e)lino; *ma-lino; *naqa; *naʔa
+15.51	see	PPN *mata; *kite
+15.52	look, look at	PPN *tiro; *pula(t)
+15.55	show	PPN *tusi
+15.56	shine	PPN *kikila; *ŋiŋila; *pula; *kama; *tapa; *sina; *hina; *soata; *qali; *aLi; *qaatea; *tafaŋafaŋa; *ma(a)lena; *maqa; *maʔa; *fola
+15.57	bright	PPN *marama
+15.61	color	PPN *kano
+15.62	light (in color)	PPN *moka moka
+15.63	dark (in color)	PPN *ʔuli; *quli; *kiwa; *tako
+15.64	white	PPN *teko; *moka-moka; *tea; *pute-a; *mote-a
+15.65	black	PPN *kele; *paʔo; *ʔuli; *quli
+15.66	red	PPN *kula; *me(ʔ)a; *mea; *m-ila; *kefu; *kefukefu; *feLo
+15.67	blue	PPN *usi; ʔusi
+15.68	green	PPN *mata
+15.69	yellow	PPN *reŋareŋa; *reŋa(reŋa); *seṅa; *felo
+15.71	touch	PPN *paa; *faa-faa; *paki; *amo; *kawei
+15.712	pinch	PPN *kini; *laqu; *laʔu
+15.72	feel	PPN *fia
+15.74	hard	
+15.75	soft	PPN *faro; *ma(a)lena; *mole-mole; *mozi; *ŋaele; *ŋolu; *peʔe
+15.76	rough	PPN *feke-feke
+15.77	smooth	
+15.78	sharp	PPN *popo; *kohi; *koi; *tala
+15.79	blunt, dull	PPN *pusuki; *paku
+15.81	heavy	PPN *mamafa; *ma-fa(t)
+15.82	light (in weight)	PPN *maʔamaʔa; *maqamaqa; *m-aʔa
+15.83	wet, damp	PPN *lali; *LaLi; *palapala; *suu; *su; *su-a; *siu; *puzu; *puLu
+15.84	dry	PPN paku; *paka; *pakaka; *masa; *(ma)masa; *maha; *'ano
+15.85	hot	PPN *rara; *wela; *ʔa(a)fu; *qa(a)fu; *fana; *mafana; *kasa; *kaha
+15.851	warm	PPN *maafana; *mafana; *ma-fana(s)
+15.86	cold	PPN *ʔanu; *qanu; *makalili; *makaLiLi; *lili
+15.87	clean	PPN *maʔa; *saʔalo
+15.88	dirty, soiled	PPN *keza; *liko; *pela; *fela; *pala-pala; *sawa
+15.89	wrinkled	PPN *kolu; *kalu; *poli
+16.11	soul, spirit	PPN *ʔana-ʔana; *feqao; *qaitu; *aitu; *maquri; *maʔuri; *qaŋaqaŋa; *ma-nava; *vai-lua
+16.15	surprised, astonished	PPN *ofo
+16.18	good fortune, luck	PPN *manuuqia; *ma-tua
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	PPN *fali; *mali; *koLi; *fiu; *kona
+16.25	laugh	PPN *kata; *sisi
+16.251	smile	PPN *ni
+16.26	play	PPN *takalo
+16.27	love	PPN *fia; *finaŋalo; *hofi; *kolo; *manako; *ʔaloʔofa; *qaloqofa; *ʔalo(f); *pele
+16.29	kiss	PPN *soŋi
+16.3	embrace	PPN *nani; *amo; *afi(i)
+16.31	pain	PPN *suki; *mamae
+16.32	grief, sorrow, sadness	
+16.33	anxiety, worry	PPN *mamae; *peu
+16.34	regret, be sorry	
+16.35	pity	PPN *qaloqofa; *ʔaloʔofa
+16.37	cry, weep	PPN *taŋi; *taŋi-sia; *taṅi(s); *kuha
+16.38	tear (noun)	PPN *loqi-mata; *lo
+16.39	groan	PPN *ŋuu
+16.41	hate	PPN *fesia
+16.42	anger	PPN *kilia(a); *lili; *lilia; *ʔita; *sauaa; *nene; *poni(s)
+16.44	envy, jealousy	PPN *fuaʔa; *fuaqa; *fuu-a
+16.45	shame (noun)	PPN *maa; *luma
+16.48	proud	
+16.51	dare	
+16.52	brave	PPN *mata-toqa; *toqa; *toʔa; *manawa-nui
+16.53	fear, fright	PPN *mataku; *ma-taku(t); *lika; *ilifia
+16.54	danger	
+16.62	desire, want	PPN *ʔaloʔofa; *kolo; *fia; *fiafia; *piapia; *hofi; *finaŋolo; *manako; *poze; *mina; *m-ina; *poLe; *ifo; *kuha
+16.622	choose	PPN *fili
+16.63	hope	
+16.65	faithful	
+16.66	true	PPN *ma(a)qo(z, n)i; *m(a, o)ʔo(L, n)i; *pono
+16.67	lie, tell lies	PPN *losi; *loi
+16.68	deceit	PPN *lasu; *losi; *teke
+16.69	forgive	
+16.71	good	
+16.72	bad	PPN *lialia; *keza; *sa'a(t); *ha'a(t); *kino
+16.73	right, correct	PPN *tonu; *pono; *tika
+16.74	wrong	PPN *sala
+16.76	fault	
+16.77	mistake, error	PPN *sala; *see-see
+16.78	blame	PPN *nanu
+16.79	praise	PPN *teni; *sula
+16.81	beautiful	
+16.82	ugly	
+16.83	greedy	
+16.84	clever	
+17.11	mind	PPN *ma-nava
+17.13	think (= reflect)	PPN *masalo; *masal(a, o); *nanu
+17.14	think (= be of the opinion)	
+17.15	believe	
+17.16	understand	PPN *roŋo
+17.17	know	PPN *kite; *ʔilo; *qilo; *tahuŋa; *tafuŋa; *t(a, o)huŋa
+17.171	guess	
+17.172	imitate	
+17.18	seem	
+17.19	idea, notion	
+17.21	wise	
+17.22	foolish, stupid	
+17.23	insane, crazy	PPN *wale
+17.24	learn	PPN *ako
+17.242	study	
+17.25	teach	PPN *ako; *ako(n)
+17.26	pupil	
+17.27	teacher	
+17.28	school	
+17.31	remember	PPN *manatu
+17.32	forget	PPN *ŋalo
+17.34	clear, plain	PPN *fola
+17.35	obscure	
+17.36	secret	PPN *nimo
+17.37	sure, certain	
+17.38	explain	
+17.41	intention, purpose	PPN *ke; *kolo; *foa
+17.42	cause	PPN *faka; *faa; *fa; PPN *taa-V
+17.43	doubt	
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	
+17.46	easy	PPN *ŋose; *ma-a'a
+17.47	difficult	PPN ŋataʔa; *ŋataqa; *na-ta'a; *faiŋataʔa; *sao
+17.48	try, attempt	PPN *mili
+17.49	way, manner	
+17.51	and	PPN *ma; *maa; *pe ~ po; *kaS; *ka; *kae; *kai
+17.52	because	PPN *faa-; *faka-
+17.53	if	PPN *ke; *me; *pe; *kana; *kanaS
+17.54	or	PPN *loa
+17.55	yes, affirmative	
+17.56	no, negative	PPN *ʔikai; *tikai; *ʔaaoʔe; *qaaaoqe; *ʔaua; *teʔe; *(t, s)eʔe; *tee; *tE; *le; *kore, koLe
+17.61	how?	PPN *pehe-fea; *pefea; *pesee; *feefee; *kuha
+17.62	how many?	PPN *fiha
+17.63	how much?	PPN *fiha
+17.64	what?	PPN *hafa; *haa; *afa; *(h)afa
+17.65	when?	PPN *fea
+17.66	where?	PPN *fea; *fee; *fEa
+17.67	which?	
+17.68	who?	PPN *hai
+17.69	why?	PPN *haa
+18.11	voice	PPN *leʔo; *leqo
+18.12	sing	PPN *laŋi; *sua
+18.13	shout, cry out	PPN *taŋi; *kaa; *kalaŋa; *soo; *tapa
+18.15	whisper	PPN *fafana
+18.16	mumble	PPN *lea; *walo; *koohumu
+18.17	whistle	PPN *mapu; *ma-pu; *oki oki; *fio
+18.18	shriek, screech	PPN *kaa
+18.19	howl	PPN *(q)au; *kaa
+18.21	speak, talk	PPN *nani; *lea; *walo; *lau; *pa(a)lau; *koolelo; *kooLeLo
+18.211	stutter, stammer	PPN *ku(u)kuu; *kukuu
+18.22	say	PPN *muna; *fu(q)a
+18.221	tell story	PPN *tala
+18.222	speech (make a)	
+18.23	silent (be)	PPN *loŋo; *liṅo
+18.24	language	PPN *leʔo; *ʔalelo
+18.26	word	PPN *kupu
+18.28	name	PPN *hiŋoa; *kaapiki
+18.31	ask (question, inquire)	PPN *fesu; *hu(u)huu
+18.32	answer	
+18.33	admit, confess	PPN *fa(q)aki; *fAki
+18.34	deny	PPN *hele
+18.35	ask, request	PPN *fesu; *kole; *pati
+18.36	promise	
+18.37	refuse	
+18.38	forbid	PPN *tapu; *lafu(i); *Laahui
+18.39	rebuke, scold	PPN *ŋutu
+18.41	call (=summon)	PPN *kasi; *tapa; *kalaŋa
+18.42	call (=name)	PPN *tapa
+18.43	announce	PPN *tapa
+18.44	threaten	
+18.45	boast	PPN *pa(a)lau
+18.51	write	
+18.52	read	
+18.56	paper	
+18.57	pen	
+18.61	book	
+18.67	poet	
+18.71	flute	PPN *fano
+18.72	drum	PPN *pasu; *lali
+18.73	horn, trumpet	PPN *puu
+18.74	rattle	
+19.11	country	PPN *fanua; *kaaiŋa
+19.12	one's native country	
+19.15	city, town	
+19.16	village	
+19.17	boundary	PPN *lipa; *tusi; *l(a, e)va
+19.21	people (populace)	
+19.23	tribe, clan	
+19.24	chief, chieftain	PPN *sau; *ʔariki; *qariki; *t-upu
+19.25	staff, walking stick	PPN *toki; *toko; *toko(n)
+19.31	rule, govern	PPN *sau
+19.32	king, ruler	
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	PPN *latu; ʔatu
+19.42	slave	PPN *lopa
+19.43	servant	PPN *fekau
+19.44	freeman	
+19.45	command, order	PPN *tono; *fekau; *sau
+19.46	obey	
+19.47	let, permit	
+19.51	friend, companion	PPN *feʔao; *feqao; *soa; *soa-na; *hoa-na
+19.52	enemy	
+19.54	neighbor	
+19.55	stranger	
+19.56	guest	PPN *kau; *soko-; *sokosoko
+19.57	host	
+19.58	help, aid	
+19.59	hinder, prevent	PPN *pae; *a(a)raqi
+19.61	custom	PPN *mas(a, e)ni; *aŋa; *faqa; *tau-; *kano
+19.62	strife, quarrel	PPN *fekiki; *ta(a)maki; *tAmaki
+19.63	conspiracy, plot	
+19.65	meet	
+19.72	prostitute	
+20.11	fight (vb)	PPN *ta(a)maki; *faʔi
+20.13	war, battle	
+20.14	peace	PPN *ma(a)lie
+20.15	army	
+20.17	soldier	
+20.21	weapons, arms	
+20.22	club	
+20.222	battle-ax	
+20.23	sling	PPN *maka; *sele
+20.24	bow	PPN *ŋasau; *kaufana
+20.25	arrow	PPN *ŋasau
+20.26	spear	PPN *tao; *fuata
+20.27	sword	
+20.28	gun, cannon	
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	
+20.35	fortress	PPN *kolo; *na'a
+20.36	tower	
+20.41	victory	
+20.42	defeat	PPN *ŋaki
+20.43	attack	
+20.44	defend	PPN *feqao; *pale
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	PPN *leʔo; *leqo; *tiaki
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	
+20.52	fishhook	PPN *paa; *ma(a)taku; *mAtaʔu
+20.53	fishing line	PPN *afo
+20.54	fishnet	
+20.55	fish trap	PPN *heqe; *fiinaki
+20.56	bait	PPN *ma(a)unu; *m(a, o)unu
+20.61	hunt	
+20.62	shoot	PPN *fana
+20.63	miss (target)	
+20.64	trap (noun)	PPN *sele
+20.65	trap (vb)	
+21.11	law	
+21.15	court	
+21.16	judge (vb)	PPN *fifili
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	
+21.24	swear	
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	PPN *fa(a)nako; *fa-nako; *kaihaqa; *kaihaʔa
+21.52	thief	
+22.11	religion	
+22.12	God	PPN *qatua; *ʔatua
+22.13	temple, church	
+22.14	altar	
+22.15	sacrifice, offering	PPN *mori, *mOri
+22.16	worship	PPN *mori; *mOri
+22.17	pray	PPN *supa; *lotu
+22.18	priest	PPN *tahuŋa; *tufuŋa; *t(a, o)huŋa
+22.19	holy, sacred	PPN *tapu; *laka, *Laka
+22.22	preach	
+22.23	bless	
+22.24	curse	
+22.26	fast (vb)	
+22.31	heaven	
+22.32	hell	
+22.35	demon (evil spirit)	
+22.37	idol	
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	
+22.44	fairy, elf	
+22.45	ghost, phantom	PPN *ʔaitu; *qaitu; *aitu; *vai-lua; *maliko, *maLiko
+22.47	omen, portent	

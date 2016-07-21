@@ -1,0 +1,1311 @@
+entry_id	trans_english	Panare_Phonemic
+1.1	world	ano
+1.21	earth, land	ano
+1.212	earth=ground, soil	ano
+1.213	dust	ano ičik
+1.214	mud	pasakun
+1.215	sand	mičin
+1.22	mountain, hill	iʔ
+1.222	cliff, precipice	iʔ tan
+1.23	plain, field	wanaʔ
+1.24	valley	iʔ n-anahtə-hpə
+1.25	island	
+1.26	mainland	ano
+1.27	shore	mah-pana
+1.28	cave	toʔ yahtan
+1.31	water	tɨna
+1.32	sea	tɨna yɨm
+1.322	calm (of sea)	
+1.323	rough (of sea)	tɨna w-as-amɨ-hpə kakəʔ
+1.324	foam	t-yakoe
+1.329	ocean	tɨna yɨm
+1.33	lake	tɨna yɨm
+1.34	gulf, bay	tɨna wɨsɨʔkə
+1.341	lagoon	[rauna] pe mən
+1.342	reef	--
+1.343	headland, point	--
+1.35	wave	tɨna w-as-amɨ-hpə kakəʔ
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	tɨna
+1.362	whirlpool	
+1.37	spring, well	tɨna w-at-ankapəh-sa
+1.38	swamp	yɨkuhpə
+1.39	waterfall	t-yɨputuʔ
+1.41	woods, forest	ihča (/ih-ya/)
+1.42	tree (cf 08.600)	iye
+1.43	wood	iye
+1.44	stone, rock	toʔ
+1.45	earthquake	ano sɨrɨnma-toʔ
+1.51	sky	kaʔ
+1.52	sun	ehčerekun
+1.53	moon	wanə
+1.54	star	kaʔ yakɨn
+1.55	lightning	t-učeɲama-k
+1.56	thunder	kanoʔ pərən
+1.57	lightning (as striking)	-učeɲama-
+1.58	storm	kanoʔ
+1.59	rainbow	amana t-yači
+1.61	light (noun)	y-uwiyu-n
+1.62	darkness	kawaame
+1.63	shade, shadow	tyuuna
+1.64	dew	kityo
+1.71	air	aipe n-a-sɨn
+1.72	wind	tyapapači
+1.73	cloud	keʔɲato
+1.74	fog	kanoʔ ičik
+1.75	rain (noun)	kanoʔ
+1.76	snow (noun)	tɨʔnatəke mən
+1.77	ice	tɨʔnatəke mən
+1.78	weather	
+1.81	fire	wahto
+1.82	flame (noun)	wahto y-o-n
+1.83	smoke (noun)	wahto ičik
+1.84	ashes	tukəənə
+1.841	embers	wahto
+1.851	burn (vb trans)	-uka-
+1.852	burn (vb intrans)	aʔ (-tɨ, -ti); yuwaatɨn
+1.86	light, kindle, ignite	-ɨputuhtə-
+1.861	extinguish	-oɲehka-
+1.87	match (noun)	wahto
+1.88	firewood	wahto
+1.89	charcoal	karamatə
+2.1	person, human being	eʔɲapa
+2.21	man (vs. woman)	apok
+2.22	woman	wɨnkɨk
+2.23	male	apok
+2.24	female	wɨnkɨk
+2.25	boy	apok ken
+2.251	young man (adolescent)	tyikon, apok
+2.26	girl	wɨnkɨk ken
+2.261	young woman (adolescent)	tyikon, wɨnkɨk
+2.27	child	-ken
+2.28	infant, baby	namča
+2.31	husband	tamu-n
+2.32	wife	pɨk
+2.33	marry	-ɨtamuh-ta-
+2.34	marriage, wedding	tamu-n yantoʔ
+2.341	divorce	tamu-n pɨnka-
+2.35	father	yɨm
+2.36	mother	y-anə; -anə
+2.37	parents	iʔyaka-e
+2.38	married man	tɨ-pɨ-ken
+2.39	married woman	tɨ-tamu-ken
+2.41	son	-əwan
+2.42	daughter	-yɨnsɨn
+2.43	offspring (son or daughter)	nken
+2.44	brother	-yako; -pin
+2.444	older brother	--
+2.445	younger brother	--
+2.45	sister	-ɲasuk; -yako
+2.454	older sister	--
+2.455	younger sister	--
+2.456	sibling	iʔyakae
+2.458	twins	[moročo] pe
+2.46	grandfather	-əʔnahpən
+2.461	old man	wačon pe mənək
+2.47	grandmother	-nok; wačon
+2.471	old woman	wačon pe mənək
+2.48	grandson	
+2.49	granddaughter	
+2.51	uncle	--
+2.511	mother's brother	-y-awo-n
+2.512	father's brother	yɨm yako
+2.52	aunt	--
+2.521	mother's sister	-anə yako
+2.522	father's sister	-waʔɲaiʔɲe
+2.53	nephew	--
+2.54	niece	--
+2.55	cousin	-yako; -pin; -ɲasuk
+2.56	ancestors	iʔyaka-e pɨ
+2.57	descendants	ken ken watanka-pəh-sa
+2.61	father-in-law (of a man)	-pɨk čɨm
+2.611	father-in-law (of a woman)	-tamun yɨm
+2.62	mother-in-law (of a man)	-pɨk čanə
+2.621	mother-in-law (of a woman)	-tamun yanə
+2.63	son-in-law (of a man)	paamɨyɨm, tyɨnsɨn tamun
+2.631	son-in-law (of a woman)	nken tamun
+2.64	daughter-in-law (of a man)	
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	
+2.72	stepmother	
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	namča čenka-sa
+2.76	widow	wɨnkɨk čenka-sa
+2.77	widower	apok čenka-sa
+2.81	relatives, kinsmen	iʔyaka-e
+2.82	family	iʔyaka-e
+2.91	I	yu
+2.92	you (singular)	amən
+2.93	he/she/it	mək; mukuh
+2.94	we	--
+2.941	we (inclusive)	yuto-kon; weʔɲəkon
+2.942	we (exclusive)	ana
+2.95	you (plural)	aɲimonton
+2.96	they	kamonton
+3.11	animal	nəʔna
+3.12	male (adj)	apok
+3.13	female (adj)	wɨnkɨk
+3.15	livestock	tato yɨkɨ
+3.16	pasture	wanaʔ yɨpun
+3.18	herdsman	tato yɨkɨ čenpa-ɲe
+3.19	stable, stall	tato yɨkɨ yɨwɨk
+3.2	cattle (bovine)	[paʔka]
+3.21	bull	[toro]
+3.22	ox	--
+3.23	cow	[paʔka]
+3.24	calf	[paʔka] nken
+3.25	sheep	[oweha]
+3.26	ram	
+3.28	ewe	
+3.29	lamb	
+3.32	boar	
+3.34	sow	
+3.35	pig	[kučiɲa]
+3.36	goat	[čiwa]
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	[kawaare]
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	
+3.47	mule	[mura]
+3.5	fowl	tunko
+3.52	cock, rooster	paraaru
+3.54	hen	paraaru
+3.55	chicken	paraaru
+3.56	goose	--
+3.57	duck	mičiči
+3.58	nest	-po
+3.581	bird	tunko
+3.582	seagull	
+3.583	heron	waraka
+3.584	eagle	yɨmuk
+3.585	hawk	yɨmuk
+3.586	vulture	yɨmuk
+3.591	bat	ɲinke
+3.592	parrot	ara
+3.593	crow	
+3.594	dove	tuwuk
+3.596	owl	mɨrɨkɨ
+3.61	dog	kərənəpən
+3.614	rabbit	
+3.62	cat	[miči]
+3.622	opossum	awanke
+3.63	mouse, rat	tɨnka
+3.65	fish	kana
+3.652	fin (dorsal)	-y-arako-e
+3.653	fishscale	-puhpə
+3.654	gill	y-ɨntasɨkorʸo-e
+3.655	shell	-puhpə
+3.661	shark	--
+3.662	porpoise, dolphin	
+3.663	whale	--
+3.664	stingray	pankeik
+3.665	freshwater eel	kariɲa
+3.71	wolf	--
+3.72	lion	--
+3.73	bear	--
+3.74	fox	yoroko
+3.75	deer	wɨiki
+3.76	monkey	kuhkuk
+3.77	elephant	--
+3.78	camel	--
+3.81	insect	nəʔna
+3.811	louse	sɨhpən
+3.812	nit (louse egg)	sɨhpən
+3.813	flea	səhpən
+3.814	centipede	tyimeipe
+3.815	scorpion	kayooka
+3.816	cockroach	kɨrɨsa
+3.817	ant	anətə
+3.818	spider	ankaya
+3.819	spider web	ankaya meik
+3.82	bee	akamo
+3.821	beeswax	
+3.822	beehive	akamo po
+3.823	wasp	akamo
+3.83	fly	tyuwinke
+3.831	sandfly (midge), gnat	wɨnkə
+3.832	mosquito	masak
+3.84	worm	winiči
+3.85	snake	ake
+3.91	firefly	ompəkə
+3.92	butterfly	kočapin
+3.93	grasshopper	kɨrɨsa
+3.94	snail	waʔka
+3.95	frog	kɨɨwo
+3.96	lizard	onkomin
+3.97	crocodile, alligator	onwe
+3.98	turtle	yaʔra
+4.11	body	arʸe
+4.12	skin, hide	-pi-hpə
+4.13	flesh	-puʔ
+4.14	hair (head)	-iʔ-pok
+4.142	beard	tansi pok
+4.144	body hair	
+4.145	pubic hair	yɨnəsɨ pok
+4.146	dandruff	
+4.15	blood	meičuʔ
+4.151	vein, artery	-yowaɲeik
+4.16	bone	-yəhpə
+4.162	rib	-yoorʸo-e yəhpə
+4.17	horn	(...) pana səkən
+4.18	tail	-yɨtɨkɨn
+4.19	back	-mpae
+4.191	spine	
+4.2	head	-pu-n
+4.201	side of head, temple	menya
+4.202	skull	-pu-n yəhpə
+4.203	brain	-pu-n y-aarɨ
+4.204	face	-petya-
+4.205	forehead	-yɨ-menya
+4.207	jaw	petya yəhpə
+4.208	cheek	-petya-
+4.209	chin	-y-amu-n
+4.21	eye	o; -y-o-n
+4.212	eyebrow	onči poh-to
+4.213	eyelid	o pihpə
+4.214	eyelash	onči poh-to
+4.215	blink	yosomarʸeka-
+4.22	ear	-pana-
+4.221	earlobe	pana y-irityu-n
+4.222	earwax	pana yakɨn weik
+4.23	nose	-əəwa-
+4.231	nostril	-əəwan y-ahta-n
+4.232	mucus (nasal)	tyəwarɨčakun
+4.24	mouth	ta; -ənta-
+4.241	beak	ta; -ənta-
+4.25	lip	ihpi
+4.26	tongue	-iɲo-
+4.27	tooth	yə-
+4.271	gums	yə-n yapo
+4.272	molartooth	yə-n tosenpe mən
+4.28	neck	-pɨmɨ-
+4.281	nape of neck	-pɨmɨ
+4.29	throat	-waaru-
+4.3	shoulder	-mata-
+4.301	shoulderblade	mata-n yəhpə
+4.302	collarbone	-karahpə-
+4.31	arm	-y-apə-
+4.312	armpit	-y-ata
+4.32	elbow	-piriči-
+4.321	wrist	-eɲa-n y-araku-
+4.33	hand	-eɲa-
+4.331	palm of hand	-eɲa y-awa
+4.34	finger	-eɲa-n yɨ-pu-n
+4.342	thumb	-eɲan yɨpun yɨm pe mən
+4.344	fingernail	-eɲa-n yɨ-pu-n y-o-n
+4.345	claw	-ihta yɨpun
+4.35	leg	
+4.351	thigh	-peik; peih-tyo
+4.352	calf of leg	-y-uhsu-n
+4.36	knee	-čeʔmu-
+4.37	foot	pata; y-ihta-
+4.371	ankle	-əʔraʔmu-
+4.372	heel	pata-n y-ɨmu-n
+4.374	footprint	ihta-hpə
+4.38	toe	pata yɨ-pu-n
+4.392	wing	-apə
+4.393	feather	-iʔ-pok
+4.4	chest	-kupu-
+4.41	breast (of woman)	mak
+4.412	nipple, teat	mah pɨtun
+4.42	udder	mak
+4.43	navel	-ponwa
+4.44	heart	iɲə; t-yawa
+4.441	lung	-kupu-; -y-awaaso-
+4.45	liver	-y-inki-
+4.451	kidney	tyeʔyah pəko
+4.452	spleen	
+4.46	stomach	pače; -pačeik
+4.461	intestines, guts	pače; -pačeik
+4.462	waist	pačein wan
+4.463	hip	-y-aʔmata-n
+4.464	buttocks	-unwa-n
+4.47	womb	pačein wa-n
+4.49	testicle	-yɨmu-n
+4.492	penis	wə; yukɨn
+4.51	breathe, breath	-yači-
+4.52	yawn, gape	-ɨn-ta-pima
+4.521	hiccough	čoʔ kaik mən
+4.53	cough	čɨčɨsɨkɨ
+4.54	sneeze	-usɨwɨčiʔka-
+4.55	perspire	-ɨnkamahta-
+4.56	spit	y-ɨtyaku-n yama-
+4.57	vomit	-uwəčiɲompətɨ-n
+4.58	bite	-ɨnə-n
+4.59	lick	-ɨkaema-
+4.591	dribble	əntarečuka-
+4.61	sleep	-okuetyi-n
+4.612	snore	-ɨkaranapu-n (-mi, -mɨ)
+4.62	dream	-učepətɨ-n
+4.63	wake up	-uwəhta-ma-n
+4.64	break wind	-əh-pačei-ka
+4.65	urinate	asuhta-n
+4.66	defecate	aika
+4.67	have sexual intercourse	yɨkun; yoʔ-; yosoʔ
+4.68	shiver	atəətapa-
+4.69	bathe	y-okupin (akuiʔ-)
+4.71	beget (of father)	y-apoo-n
+4.72	born (to be)	-apataka-n
+4.73	pregnant	anɨme
+4.732	conceive	-ɨmuʔra-ta
+4.74	live, living, life	onkono; onkono-pe
+4.75	die, dead	y-usuka-n
+4.751	drowned	as-ɨɨwahpa-
+4.76	kill	-uwə-
+4.77	corpse	(object) + usuka-sa
+4.78	bury (the dead)	-ɨmunta-
+4.79	grave, tomb	t-yaka eʔɲapa munta-toʔ
+4.81	strong, mighty, powerful	sɨɨrɨ-pe
+4.82	weak	sɨɨrɨ-pe ehke
+4.83	well, health	korʸa; korʸa-pe
+4.84	sick, sickness	
+4.841	fever	-puruwə-n
+4.842	goiter	awo
+4.843	cold (catarrh)	tamunko
+4.85	wound, sore	čoori
+4.852	bruise	wəhs-awa-hpə
+4.853	swelling	tohpanse
+4.854	itch	sɨhsɨh-pe
+4.855	blister	eɲesuketya-
+4.856	boil (noun)	tuke
+4.857	pus	y-uʔmunku-n
+4.858	scar	
+4.86	cure, heal	-ɨ[kurah]-tə-
+4.87	physician	[watora]
+4.88	medicine, drug	tuʔɲen
+4.89	poison	awa-tə
+4.91	tired, weary	pɨrɨ-hpə
+4.912	rest	
+4.92	lazy	anuhki-pe
+4.93	bald	--
+4.94	lame	kasah-pe yutən
+4.95	deaf	etya-poʔ-ka
+4.96	mute	t-oromaen-ke ehke
+4.97	blind	a-ɲi-tyə wehke
+4.98	intoxicated	t-ɨkɨrɨɨ-se
+4.99	naked, bare	korʸea
+5.11	eat	yu-č-erema-n
+5.12	food	č-erema-n-toʔ
+5.121	cooked	y-əʔməh-sa
+5.122	raw	oka
+5.123	ripe	tyukin
+5.124	green, unripe	oka
+5.125	rotten	y-usuka-sa
+5.13	drink	nɨkorooman
+5.14	hunger	tinkehpən
+5.141	famine	wehke č-erema-n-toʔ wehtyoʔ
+5.15	thirst	yɨʔnaʔkin
+5.16	suck	-ɨkamuhkə-
+5.18	chew	-ompa-n
+5.181	swallow	-onoʔma-
+5.19	choke	-uhtuku-
+5.21	cook	-əʔməh-ka-n
+5.22	boil (vb)	-əʔməh-ka-
+5.23	roast, fry	-ɨputuurə-; -ayi-
+5.24	bake	-ayi-
+5.25	oven	č-erema-n-toʔ yawato
+5.26	pot, cooking vessel	maraʔ
+5.27	kettle	eɲə
+5.28	pan	maraʔ
+5.31	dish	pɨčaara
+5.32	plate	pɨčaara
+5.33	bowl	maraʔ; maraʔ-kin
+5.34	pitcher, jug	kɨwɨkɨ
+5.35	cup, drinking vessel	maraʔ-kin
+5.36	saucer	pɨčaara nkin
+5.37	spoon	[kučara]
+5.38	knife	parae
+5.39	fork	č-erema-n-toʔ y-an-toʔ
+5.391	tongs	č-erema-n-toʔ y-an-toʔ
+5.41	meal (a)	č-erema-n-toʔ
+5.42	breakfast	--
+5.43	lunch	--
+5.44	dinner	--
+5.45	supper	--
+5.46	peel	-ihka-
+5.47	sieve, strain	-asuuka-
+5.48	scrape	-ihka-
+5.49	stir, mix	-aʔkowa-
+5.51	bread	[pan]
+5.53	dough	[pan] maanə-to
+5.54	knead	--
+5.55	meal, flour	[pan] maanə-toʔ
+5.56	crush, grind	-apo-
+5.57	mill	y-apo-toʔ
+5.58	mortar	ako
+5.59	pestle	ako yan
+5.61	meat	tyo
+5.63	sausage	--
+5.64	soup, broth	... -pon
+5.65	vegetables	-yun
+5.66	bean	ehčipen
+5.7	potato	wanka kaik mən
+5.71	fruit	-yempan
+5.712	bunch	tyɨpuhpə
+5.75	fig	--
+5.76	grape	--
+5.77	nut	
+5.78	olive	--
+5.79	oil	karapa
+5.791	grease, fat	karapa; ...-kaʔ
+5.81	salt	paamə
+5.82	pepper	--
+5.821	chili pepper	pimi
+5.84	honey	wənə
+5.85	sugar	[asuuka]
+5.86	milk (noun)	[paʔka] matɨ-n
+5.87	milk (vb)	yipiʔ(-ku)
+5.88	cheese	[paʔka] matɨ-n
+5.89	butter	--
+5.9	beverage, drink	yu-kun
+5.91	mead	--
+5.92	wine	--
+5.93	beer	ok
+5.94	fermented drink	katah-pa mɨnkae
+5.97	egg	... moe
+5.971	egg yolk	
+6.11	put on (clothes)	-ɨnapontə-
+6.12	clothing, clothes	-po; [kamiča]
+6.13	tailor	--
+6.21	cloth	
+6.22	wool	--
+6.23	linen, flax	--
+6.24	cotton	tokətə
+6.25	silk	--
+6.27	felt	--
+6.28	fur	nəʔna iʔ-pok
+6.29	leather	nəna pi-hpə
+6.31	spin	-areʔma-
+6.32	spindle	punwa
+6.33	weave	-ɨkaʔ-(pɨ)(pi); yɨkaʔɲe
+6.34	loom	tokətə ka-toʔ
+6.35	sew	-ɨpɨtɨpə-
+6.36	needle	[kuča]
+6.37	awl	
+6.38	thread	tokətə
+6.39	dye	waače; ankuk
+6.41	cloak	--
+6.411	poncho	
+6.42	woman's dress	
+6.43	coat	--
+6.44	shirt	
+6.45	collar	
+6.46	skirt	sɨkɨwi
+6.461	grass-skirt	--
+6.48	trousers	-peh-po
+6.49	stocking, sock	pata ye
+6.51	shoe	pata ye
+6.52	boot	--
+6.54	shoemaker, cobbler	--
+6.55	hat, cap	-yoroko-e
+6.57	belt, girdle	-yɨʔmɨ
+6.58	glove	-eɲa-n ye
+6.59	veil	--
+6.61	pocket	kanowa
+6.62	button	yapəh-toʔ
+6.63	pin	
+6.71	ornament, adornment	
+6.72	jewel	--
+6.73	ring (for finger)	
+6.74	bracelet	
+6.75	necklace	ty-apo
+6.76	bead	əʔnan
+6.77	earring	
+6.78	headband, headdress	-yoroko-e
+6.79	tattoo	
+6.81	handkerchief, rag	
+6.82	towel	--
+6.91	comb	mankak
+6.92	brush	
+6.921	braid	
+6.93	razor	tansi pok č-ahkə-toʔ
+6.94	ointment	t-ahpə-nə-toʔ
+6.95	soap	[awon]
+6.96	mirror	
+7.11	dwell, live	
+7.12	house	perʸaka; -yɨwɨk
+7.13	hut	perʸaka; -yɨwɨk
+7.131	garden-house	
+7.14	tent	--
+7.15	yard, court	yɨ-pata-n
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	yɨ-pata-n
+7.22	door, gate	nata mukun
+7.221	doorpost, jamb	
+7.23	lock (noun)	nata muku-toʔ
+7.231	latch, door-bolt	--
+7.24	key	[yaawe]
+7.25	window	y-usəhpə-nə-toʔ
+7.26	floor	ano
+7.27	wall	
+7.31	fireplace	wahto pata-n
+7.32	stove	
+7.33	chimney	
+7.37	ladder	yos-an-toʔ
+7.42	bed	tatə; ičik
+7.421	pillow	pu-n yapo
+7.422	blanket	[kowiiya]
+7.43	chair	[siya]
+7.44	table	
+7.45	lamp, torch	[ərəntəəna]
+7.46	candle	--
+7.47	shelf	iye, ikityə maika-toʔ
+7.48	trough	
+7.51	roof	perʸaka yɨ-pu-n
+7.52	thatch	osae yan
+7.53	ridgepole	perʸaka yɨpun
+7.54	rafter	perʸaka nwan
+7.55	beam	pehka
+7.56	post, pole	
+7.57	board	iye
+7.58	arch	--
+7.61	mason	[semento] maanə-ɲe
+7.62	brick	ano
+7.63	mortar	[semento]
+7.64	adobe	ano maanə-sa
+8.11	farmer	
+8.12	field (for cultivation)	
+8.13	garden	yɨmə
+8.15	cultivate, till	--
+8.16	fence	y-ankahtə-toʔ
+8.17	ditch	
+8.21	plow	--
+8.212	furrow	--
+8.22	dig	ano ka-n
+8.23	spade	ano ka-to
+8.24	shovel	
+8.25	hoe	--
+8.26	fork	
+8.27	rake	--
+8.31	sow	iyahpəka-
+8.311	seed	-yahpə
+8.32	mow, reap	yamɨ-n
+8.33	sickle, scythe	--
+8.34	thresh	-apo-
+8.35	threshing-floor	y-apo-toʔ
+8.41	crop, harvest	arʸɨpɨ; -ntaka
+8.42	grain (barley, oats etc)	
+8.43	wheat	--
+8.44	barley	--
+8.45	rye	--
+8.46	oats	--
+8.47	maize, corn	keʔɲak
+8.48	rice	[aaro]
+8.51	grass	wanaʔ yɨ-pu-n
+8.52	hay	--
+8.53	plant (noun)	arʸɨpɨ
+8.531	plant (vb)	-aamə-
+8.54	root	-yimik
+8.55	branch	iye y-apə-n
+8.56	leaf	-yan
+8.57	flower	-yipin; ehčipipin
+8.6	tree	-yo; iye
+8.61	oak	--
+8.62	beech	--
+8.63	birch	--
+8.64	pine	--
+8.65	fir	--
+8.66	acorn	--
+8.67	vine	keʔɲatə
+8.68	tobacco	kowae
+8.69	smoke (tobacco)	
+8.691	pipe	
+8.72	tree stump	eʔyahpə
+8.73	tree trunk	iye
+8.74	forked branch	-yapə-
+8.75	bark	iye pi-hpə
+8.76	sap	iye sɨkun
+8.81	palm tree	osae; kuruwa; anka
+8.82	coconut	--
+8.83	citrus fruit	[maranka]
+8.84	banana tree	paare yo
+8.85	banyan	--
+8.91	sweet potato	čok
+8.912	yam	čok
+8.92	tapioca, manioc, cassava	uto
+8.93	gourd	maraʔ
+8.931	pumpkin, squash	kaya ma
+8.94	bamboo	tapi; kasanka
+8.941	sugar cane	karana
+8.96	fish poison (root)	kayin
+8.97	nettle	--
+8.98	mushroom	
+9.11	do, make	-ɨn(-kɨ:-ki)
+9.12	work	-amohkayin-(-mɨ)(-mi)
+9.14	bend	-oʔmei-; -anoʔ(-pɨ)(-pi)
+9.15	fold	-ipityuʔ(-ku)
+9.16	tie, bind	-ɨpɨrɨn(-mɨ)(-mi)
+9.161	untie	-ɨpɨrɨmɨ-hka-
+9.18	chain	amčiri
+9.19	rope, cord	awa; warara
+9.192	knot (noun)	y-ɨpɨrɨ-n-sa
+9.21	strike (hit, beat)	-ɨpuʔmo-
+9.211	pound with fist	-ɨpuʔmo-
+9.22	cut	-ɨkɨtə-
+9.221	cut down	-ama-
+9.222	chop, hew	-ama-
+9.223	stab	-uwə-
+9.23	knife	parae
+9.24	scissors, shears	mera
+9.25	ax	čihtyə
+9.251	adze	
+9.26	break	-uwəhkɨtə-; -əhkətə-
+9.261	broken	
+9.27	split	-ɨpetyaka-
+9.28	tear	at-ahka-
+9.29	flay, skin	-ihka-
+9.31	rub, wipe	-ɨpanawaʔ(-kɨ)(-ki)
+9.32	stretch	əsɨkuʔna-
+9.33	pull	-amataka-
+9.34	spread out	-ayimo-
+9.341	hang up	-amaika-
+9.342	press	-ɨpiʔ (-ku)
+9.343	squeeze, wring	-ɨpiʔ(-ku)
+9.35	pour	-ama-
+9.36	wash	-ukoka-
+9.37	sweep	-eimeiʔ(-ku)(-kui)
+9.38	broom	y-eimeih-tyo
+9.422	tool	
+9.43	carpenter	iye pək mənək
+9.44	build	-amaanə-; -ɨmə-
+9.46	bore	-ɨpə-
+9.461	hollow out	-ahta-ka-
+9.48	saw	-ɨkɨtə-
+9.49	hammer	[matiya]
+9.5	nail	iye y-apəh-toʔ
+9.56	glue	y-ɨpuʔkə-to
+9.6	smith, blacksmith	--
+9.61	forge	--
+9.62	anvil	--
+9.63	cast (metals)	--
+9.64	gold	[oro]
+9.65	silver	[arata]
+9.66	copper, bronze	--
+9.67	iron	amčiri
+9.68	lead (noun)	--
+9.69	tin, tinplate	--
+9.71	potter	ano maanə-ɲe
+9.72	mold (clay etc)	ano maanə-
+9.73	clay	ano
+9.74	glass	kiririn
+9.75	weave, plait	ɨkaʔ(-pɨ)(-pi)
+9.76	basket	tawa
+9.77	mat	sunwa
+9.771	rug	--
+9.78	netbag	[saku]
+9.79	fan (noun)	papeik
+9.791	fan (vb)	-ɨpapeiʔma-
+9.81	carve	iye maanə-
+9.82	sculptor	--
+9.83	statue	--
+9.84	chisel	--
+9.88	paint (noun)	waače; ankuk; ayawa
+9.89	paint (vb)	
+10.11	move	-oʔnomaʔ; -os-oʔnomaʔ-
+10.12	turn over	-areɲaka-
+10.13	turn around	-oponaka-; -os-oponaka-
+10.14	wind, wrap	-awontə-
+10.15	roll	-areɲaka-
+10.16	drop (vb)	-ɨpɨnka-
+10.17	twist	-operʸe; -otatyimi-
+10.21	rise	-os-an(-mɨ)(-mi)
+10.22	raise, lift	-an(-mɨ)(-mi)
+10.23	fall	-uwiɲa-
+10.24	drip	asutapəʔ(-tɨ)(-ti); apa-
+10.25	throw	-ama-
+10.252	catch (ball)	-apəʔ(-sɨ)(-si)
+10.26	shake	atəəpa-; -ɨkəhtə-
+10.32	flow	-uwəhtə-
+10.33	sink	-ən(-mɨ)(-mi)
+10.34	float	əmɨʔka
+10.35	swim	akueʔ(-pɨ)(-pi)
+10.351	dive	-ə-n(-mɨ)(-mi)
+10.352	splash	-oʔorinka-
+10.36	sail (vb)	yu-tə-n tɨna mpaintya
+10.37	fly (vb)	yu-tə-n kawə
+10.38	blow	ɨpapeiʔma-; -apeʔma-
+10.41	creep, crawl	yu-tə-n anapo
+10.412	kneel	yo-s-amaikan tɨčeʔmun po
+10.413	crouch	-os-amaika-
+10.42	slide, slip	-uwəh-taih-ka-
+10.43	jump, leap	-ɨpaatə; -ahpə-n(-mɨ)(-mi)
+10.431	kick	-ompayiima- ihtan ke
+10.44	dance	-otačima-
+10.45	walk	-ataraama-
+10.451	limp	yu-tə-n kasah-pe
+10.46	run	yu-tə-n tainɲe
+10.47	go	yu-tə-n
+10.471	go up	-osan(-mɨ)(-mi)
+10.472	climb	-osan(-mɨ)(-mi)
+10.473	go down	-uwəhtə-
+10.474	go out	apataka-
+10.48	come	-uwəpɨn (-ə-, əpɨ-, əpi-)
+10.481	come back	-os-awaama-
+10.49	go away, depart	yu-tə-n
+10.491	disappear	-uw-əʔmarapa-
+10.51	flee	-yupe-
+10.52	follow	yu-tə-n yɨ-pəkə-n
+10.53	pursue	yu-tə-n t-yɨmɨhpə
+10.55	reach, arrive	-us-ɨmɨnka-
+10.56	approach	-ataʔmu-
+10.57	enter	-ən (-mɨ: -mi)
+10.61	carry (bear)	-ankə-
+10.612	carry-in-hand	-ankə- yeɲa
+10.613	carry-on-shoulder	-ankə- mata po
+10.614	carry-on-head	-ankə- pun-po
+10.615	carry-underarm	-ankə- y-ahta
+10.62	bring	-ɲeʔ(-pɨ)(-pi)
+10.63	send	-ankə-
+10.64	lead (vb)	-ankə-; yu-tə-n paken
+10.65	drive	-ɨtyimi-
+10.66	ride	--
+10.67	push, shove	-ompayii-ma-
+10.71	road	čɨma
+10.72	path	čɨma
+10.74	bridge	okətə-n-toʔ
+10.75	carriage, wagon, cart	kanowa
+10.76	wheel	kanowa patan
+10.77	axle	ihtan yapo
+10.78	yoke	
+10.81	ship	--
+10.83	boat	kanowa, tɨna-hkua mən
+10.831	canoe	kanowa, tɨna-hkua mən
+10.832	outrigger	--
+10.84	raft	kanowa, tɨna-hkua mən
+10.85	oar	-yɨkɨ
+10.851	paddle (noun)	-yɨkɨ
+10.852	row (vb)	yutən, yu-wəhtə-n
+10.86	rudder	--
+10.87	mast	--
+10.88	sail (noun)	--
+10.89	anchor	--
+10.91	harbor, port	kanowa samaika-to
+10.92	land (vb)	-usamɨnkan mahpana
+11.11	have	mo
+11.12	own, possess	mo
+11.13	take	ya-n(-mɨ)(-mi)
+11.14	seize, grasp	yapəʔ(-sɨ)(-si)
+11.15	hold	yapəʔ(-sɨ)(-si)
+11.16	get, obtain	ya-n(-mɨ)(-mi)
+11.17	keep, retain	-amaika-
+11.18	thing	ikityə; -iyu
+11.21	give	y-uʔ(-tu)(-tui)
+11.22	give back	yuʔ(-tu)(-tui) ɲankə
+11.24	preserve, look after	-ičenpa-
+11.25	save, rescue	-eɲa-ka-
+11.27	destroy	-uriʔma-
+11.28	harm, injure, damage	-awa-; -amasɨhtapo-
+11.31	seek, look for	-ipəʔ(-tɨ)(-ti); -ɨnaapaka-
+11.32	find	-ɨnaapaka-
+11.33	lose	-əʔmarapa-
+11.34	release, let go	-ɨpɨnka-
+11.43	money	[arata]
+11.44	coin	[arata] ɲe
+11.51	rich	t-ɨʔna-se
+11.52	poor	t-ɨna-se ehke
+11.53	beggar	--
+11.54	avaricious, stingy	tamɨɲe
+11.61	lend	
+11.62	borrow	[-ɨpirehtyatə-]
+11.63	owe	mo tuhsen pɨ
+11.64	debt	mo tuhsen pɨ
+11.65	pay (vb)	-ipima-
+11.66	account, reckoning	--
+11.69	tax, tribute	--
+11.77	hire	-apoʔma-
+11.78	wages	
+11.79	earn	
+11.81	buy	ya-n(-mɨ)(-mi)
+11.82	sell	-ipima-
+11.83	trade, barter	-ipima-
+11.84	merchant	ikityə pima-ɲe
+11.85	market (place)	ikityə y-an-to
+11.86	store, shop	ikityə y-an-to
+11.87	price	--
+11.88	dear (costly, expensive)	tyipiče
+11.89	cheap	tyipiče ehke
+11.91	share (distribute)	-ayimo-
+11.92	weigh	-apə-
+12.1	after	-pəkə-n
+12.11	behind	-pəkə-n
+12.2	beside	-yɨpaye
+12.3	down, below	yeʔɲe; yehkə
+12.4	before	paken; yawaʔna
+12.41	front	yɨ-petya-n
+12.5	inside, in	t-ya
+12.6	outside	-aʔya
+12.7	under	yeʔɲe; yehkə
+12.8	up, above	yapaya; yapayaʔkə
+12.11	place	pata; -ɨ-pata-n
+12.12	put	-amaika-
+12.13	sit	-os-amaika-
+12.14	lie down	-uwiɲa-
+12.15	stand	-osan(-mɨ)(-mi) pika
+12.16	remain, stay	-os-amaika-
+12.17	remains, left overs	-yakonpək
+12.21	collect, gather	yaʔkityə-; -opooma-
+12.212	pick up	
+12.213	pile up	-os-aʔkityə-
+12.22	join, unite	-ɨtɨhtə-
+12.23	separate	-iʔyaka-; piyaka-
+12.232	divide	-iʔyaka-; piyaka-
+12.24	open	-ipipu-ka-
+12.25	shut, close	-ipipu-
+12.26	cover	-awontə-
+12.27	hide, conceal	-ɨnan(-mɨ)(-mi)
+12.31	high	kawə
+12.32	low	kawə ehke
+12.33	top	-ipipu-n
+12.34	bottom	y-unwan yeʔɲe
+12.35	end	kiɲə
+12.352	pointed	tɨ-počiri-ke
+12.353	edge	-ɨn-ta-n
+12.36	side	-yooro-e
+12.37	middle, center	ikitya
+12.41	right (side)	arʸe yaka
+12.42	left (side)	poe yaka
+12.43	near (adv)	ɲenča ehke
+12.44	far (adv)	ɲenča
+12.45	east	ehčerekun wosanto
+12.46	west	ehčerekun wənto
+12.47	north	ehčerekun wosanto yooroe
+12.48	south	
+12.53	grow	-uwəhsa-
+12.54	measure	-apə-
+12.541	span, fathom	--
+12.55	large, big	tosen-pe; tosan-pe
+12.56	small, little	pɨɨča; ari-pɨɨča
+12.57	long	t-ankəča-ke
+12.58	tall	kawə
+12.59	short	kawə ehke
+12.61	wide, broad	t-ankəča-ke
+12.62	narrow	t-ankəča-ke ehke
+12.63	thick (in dimension)	asɨɨ-pe
+12.65	thin (in dimension)	pityaka-sa
+12.67	deep	yukwai-pe
+12.68	shallow	yukwai-pe ehke
+12.71	flat	kanapai-ke
+12.73	straight	təhsan
+12.74	crooked	toʔmeik
+12.75	hook	wənətə
+12.76	corner	ty-əwan
+12.77	cross	--
+12.78	square	--
+12.81	round	tɨ-muruhku-ke
+12.82	circle	
+12.83	sphere, ball	[perota]
+12.84	line	
+12.85	hole	tahta
+12.92	like, similar	mɨnkaik
+12.93	change	-eɲakantə-
+13.0	zero, nothing	wehke
+13.1	one	tyityasa
+13.2	two	asak
+13.3	three	asonwa
+13.4	four	asaʔnan
+13.5	five	eɲa-katoome
+13.6	six	tyityasa eɲa-katoe-tyo
+13.7	seven	asak ku-eɲa-katoe-tyo
+13.8	eight	asaʔnan kiʔɲe
+13.9	nine	asaʔnan eɲa-katoe-tyo
+13.10	ten	(asa)pana eɲa yɨpun
+13.101	eleven	tyityasa pata yɨpun
+13.102	twelve	asak pata yɨpun
+13.103	fifteen	pata-katoome
+13.104	twenty	(asa)pana pata yɨpun
+13.105	hundred	[sien] pe
+13.106	thousand	[mil] pe
+13.107	count	yuʔ(-ku)
+13.14	every, all	atawən
+13.15	much, many	kure
+13.16	more	-yimityaka
+13.17	little (quantity), few	kure ehke ča
+13.18	enough	čanko; mainči
+13.181	some	kura pɨkapɨ
+13.19	multitude, crowd	kure eʔɲapa
+13.21	full	tuke
+13.22	empty	ataarɨʔka
+13.23	part, piece	iʔyahpə
+13.24	half	t-usu-kɨtə
+13.33	alone, only	-nkən
+13.34	first	paken
+13.35	last	kiɲə
+13.36	second	ty-asaʔna-n
+13.37	pair	asaʔnən
+13.38	two times	asak kiɲo pək
+13.42	third	ty-asonwa-n
+13.44	three times	asonwo pək
+14.11	time	
+14.12	age	
+14.13	new	pik, y-an-se
+14.14	young	pih-pe
+14.15	old	yuwačon-pe
+14.16	early	
+14.17	late	
+14.18	now	amenkən
+14.19	immediately	amenkən sa putuk
+14.21	swift, fast, quick	peʔɲe
+14.22	slow	tamai-pe
+14.23	hasten, hurry	peʔɲe (+ verb)
+14.24	retard, delay	-urupa-(-mɨ)(-mi)
+14.25	begin, beginning	-iʔyahtə-; iʔyahtətoʔ
+14.252	last, endure	arikɨʔka
+14.26	end (temporal)	-iriʔma-
+14.27	finish	-ɨmɨnka-
+14.28	cease, stop	-ɨpɨnka-; -os-awaama-
+14.29	ready	
+14.31	always	
+14.32	often	tuwəʔnaamak
+14.33	sometimes	tyuwiʔyɨnčaaɲe
+14.331	soon	peʔɲe
+14.332	long-time (for a)	tuwəʔnaamak
+14.34	never	
+14.35	again	t-yako-pe
+14.41	day	wataweikasa
+14.42	night	sɨpaawə
+14.43	dawn	-ataweika-
+14.44	morning	anawənkən
+14.45	noon, midday	wewa
+14.451	afternoon	koʔmanpe
+14.46	evening	koʔmanpe
+14.47	today	muya muh
+14.48	tomorrow	anawən
+14.481	day-after-tomorrow	koeɲan
+14.49	yesterday	koeɲan
+14.491	day-before-yesterday	koeɲan
+14.51	hour	[ora]
+14.53	clock, timepiece	ehčerekun ɲityo
+14.61	week	[semana]
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	wənə riʔma-
+14.73	year	onkoma riʔma-
+14.74	winter	kano-nya
+14.75	spring	kanoʔ ukampe
+14.76	summer	kamaawə
+14.77	autumn	
+14.78	season	
+15.21	smell (vb intrans)	-ɨsɨɨwahta-
+15.212	sniff	
+15.22	smell (vb trans)	-eʔmu-
+15.25	fragrant, good smelling	apasu-təpək; t-apo-ke
+15.26	stinking, bad smelling	yahtəʔka; t-ɨkɨ-ke
+15.31	taste	-apə-
+15.35	sweet	t-ukatɨ-ke
+15.36	salty	kasuh-pa
+15.37	bitter	tuʔɲe
+15.38	acid, sour	katahpe
+15.39	brackish	kasuhpa
+15.41	hear	-itya-
+15.42	listen	-itya-
+15.44	sound, noise	-yaipu
+15.45	loud	t-apuʔmo-ke
+15.46	quiet, silence	wehke tyaipu
+15.51	see	-iɲei-
+15.52	look, look at	-usəhpə-
+15.55	show	ɲipo
+15.56	shine	-učeɲama-
+15.57	bright	oweka-tə
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	tɨ-puru-ke
+15.64	white	tamuʔɲe
+15.65	black	tɨ-puru-ke
+15.66	red	t-ukin-ke
+15.67	blue	t-akuʔya-ke
+15.68	green	t-akuʔya-ke
+15.69	yellow	t-ukin-ke
+15.71	touch	-apə-; -eɲah-pa-
+15.712	pinch	-ihka-; -ipiri-kɨtə-
+15.72	feel	-apə-
+15.74	hard	karatah-pe
+15.75	soft	karatah-pe ehke
+15.76	rough	t-ərəʔrə-če
+15.77	smooth	t-ɨkarin-ke
+15.78	sharp	t-ɨyɨh-ke
+15.79	blunt, dull	t-ɨyɨ-ke ehke
+15.81	heavy	taməʔɲe
+15.82	light (in weight)	taməʔɲe ehke
+15.83	wet, damp	t-ərəmə-če
+15.84	dry	t-ukočike-če
+15.85	hot	katapəhtə
+15.851	warm	
+15.86	cold	t-ɨʔnatə-ke
+15.87	clean	tɨpuru-ke ehke
+15.88	dirty, soiled	tɨpuru-ke
+15.89	wrinkled	yu-weh-pityu-sa
+16.11	soul, spirit	iɲə
+16.15	surprised, astonished	yos-awantəka-sa
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	aya-pe
+16.25	laugh	-os-onoʔ(-pɨ)(-pi)
+16.251	smile	
+16.26	play	-os-amaɲi(-pɨ)(-pi)
+16.27	love	-ɨpɨɨma-
+16.29	kiss	-uwaʔkɨmiʔ(-kɨ)(-ki)
+16.3	embrace	-uwaʔkɨmiʔ(-kɨ)(-ki)
+16.31	pain	-munko
+16.32	grief, sorrow, sadness	ayape ehke yučin
+16.33	anxiety, worry	-usuruku-
+16.34	regret, be sorry	
+16.35	pity	
+16.37	cry, weep	-tyei(-mɨ)(-mi)
+16.38	tear (noun)	t-yon usukun
+16.39	groan	-ɨkara(-pɨ)(-pi)
+16.41	hate	-uiyaʔ-ka; aɲ-ipi-ʔka
+16.42	anger	wɨsɨpe
+16.44	envy, jealousy	-os-awanpika-
+16.45	shame (noun)	-eʔyapa (-mɨ: -mi)
+16.48	proud	-otaʔrə-
+16.51	dare	
+16.52	brave	nkasɨmɨʔ-ka
+16.53	fear, fright	yɨnkasɨ
+16.54	danger	awatə
+16.62	desire, want	iʔ(-pɨ)(-pi)
+16.622	choose	-imenka-
+16.63	hope	t-yɨpəh-t-yon
+16.65	faithful	
+16.66	true	ayan
+16.67	lie, tell lies	asu; t-ičemaʔ-ke
+16.68	deceit	muʔna-tə
+16.69	forgive	t-onke-če
+16.71	good	ayape
+16.72	bad	arʸɨpɨ-pe
+16.73	right, correct	t-ah-se ehke
+16.74	wrong	t-ah-se
+16.76	fault	
+16.77	mistake, error	t-ah-se
+16.78	blame	-aʔkama-
+16.79	praise	ayape y-aʔkama-
+16.81	beautiful	korʸa-pe
+16.82	ugly	taʔme
+16.83	greedy	
+16.84	clever	tinča-ke
+17.11	mind	
+17.13	think (= reflect)	-uč-inča-ma-
+17.14	think (= be of the opinion)	
+17.15	believe	
+17.16	understand	t-inča
+17.17	know	t-inča
+17.171	guess	
+17.172	imitate	-ɨkuʔ(-ku)
+17.18	seem	
+17.19	idea, notion	
+17.21	wise	t-inča-ke
+17.22	foolish, stupid	t-inča-ke ehke
+17.23	insane, crazy	t-inča-ke ehke
+17.24	learn	[-ɨpirentya-]
+17.242	study	[-ɨpirentya-]
+17.25	teach	[-ɨpirentya-ma-]
+17.26	pupil	[pirentya-ɲe]
+17.27	teacher	[pirentya-ma-ɲe]
+17.28	school	[pirentya-nəto]
+17.31	remember	-uč-inča-ma-
+17.32	forget	-on(ke)-
+17.34	clear, plain	katapon
+17.35	obscure	katapon ehke
+17.36	secret	
+17.37	sure, certain	ayan kiɲe
+17.38	explain	-aʔkama- arʸipeɲe
+17.41	intention, purpose	-ɲepe; -toʔpe
+17.42	cause	-ɲepe; -toʔpe
+17.43	doubt	
+17.44	suspect	
+17.441	betray	-uʔ(-tu)
+17.45	need, necessity	
+17.46	easy	aʔroka-tə ehke
+17.47	difficult	aʔroka-tə; wenkama-tə
+17.48	try, attempt	-apə-
+17.49	way, manner	mɨnkaik
+17.51	and	-yako; yaʔnən; yaʔkən
+17.52	because	-npək; -npan
+17.53	if	-npək; -npan
+17.54	or	
+17.55	yes, affirmative	aye
+17.56	no, negative	čiʔka
+17.61	how?	sɨnkae
+17.62	how many?	əhsa
+17.63	how much?	əhsa tɨnse
+17.64	what?	nəhpa
+17.65	when?	sɨnkae-ya; sɨnka-ya-wo
+17.66	where?	əhtə; əhtə-na; əhtɨ-no
+17.67	which?	tɨnapa
+17.68	who?	nək
+17.69	why?	əhkaik čɨnpək
+18.11	voice	-yaipu
+18.12	sing	waare(-mɨ)(-mi)
+18.13	shout, cry out	yɨkarah(pətɨn)
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	-ityakin(-mɨ)(-mi)
+18.18	shriek, screech	yɨkɨhtɨ(-mɨ)(-mi)
+18.19	howl	
+18.21	speak, talk	-oromaepun(-mɨ)(-mi)
+18.211	stutter, stammer	-ɨnkɨʔ-pətɨ-n
+18.22	say	ka-
+18.221	tell story	oromae yaʔkama-
+18.222	speech (make a)	
+18.23	silent (be)	ntapoʔka
+18.24	language	oromaepu
+18.26	word	oromaepu
+18.28	name	-ičeik
+18.31	ask (question, inquire)	-aʔkapo-
+18.32	answer	
+18.33	admit, confess	-os-aʔkama-
+18.34	deny	-ɨnanɨʔ(-pɨ)(-pi)
+18.35	ask, request	-aʔkapo-
+18.36	promise	
+18.37	refuse	-ɨnanɨʔ(-pɨ)(-pi)
+18.38	forbid	-ɨnanɨʔ(-pɨ)(-pi)
+18.39	rebuke, scold	-ompiʔ(ku)
+18.41	call (=summon)	-aʔkapo-
+18.42	call (=name)	-ičeihtyə-
+18.43	announce	-aʔkama-
+18.44	threaten	
+18.45	boast	-otaʔrə-
+18.51	write	-amenkə-
+18.52	read	[kapeere] ɲei-
+18.56	paper	[kapeere]
+18.57	pen	[kapeere] y-amenkə-to
+18.61	book	[kapeere]
+18.67	poet	
+18.71	flute	aramataimə; ariʔrik
+18.72	drum	
+18.73	horn, trumpet	kaaču
+18.74	rattle	[maraka]
+19.11	country	pata
+19.12	one's native country	yɨ-pata-n
+19.15	city, town	tato pata-n
+19.16	village	pata
+19.17	boundary	
+19.21	people (populace)	eʔɲapa
+19.23	tribe, clan	
+19.24	chief, chieftain	iʔyan
+19.25	staff, walking stick	iye
+19.31	rule, govern	-apoʔma-
+19.32	king, ruler	--
+19.33	queen	--
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	-ičein
+19.42	slave	n-apoʔma-n
+19.43	servant	n-apoʔma-n
+19.44	freeman	
+19.45	command, order	apoʔma-nə-toʔ
+19.46	obey	-os-apəʔ(-sɨ)
+19.47	let, permit	ənaanɨpɨʔka
+19.51	friend, companion	-powənan
+19.52	enemy	-
+19.54	neighbor	-powənan
+19.55	stranger	tonkonan
+19.56	guest	panakon
+19.57	host	
+19.58	help, aid	-uwayuupa-
+19.59	hinder, prevent	-ɨnaama-; -ahtə-
+19.61	custom	
+19.62	strife, quarrel	-us-ənə-
+19.63	conspiracy, plot	
+19.65	meet	-apoo-
+19.72	prostitute	
+20.11	fight (vb)	-us-ənə-
+20.13	war, battle	-us-ənə-
+20.14	peace	as-ɨnəʔ-ka weʔ-n-toʔ
+20.15	army	[waaria]
+20.17	soldier	[waaria]
+20.21	weapons, arms	-kon
+20.22	club	iye
+20.222	battle-ax	
+20.23	sling	tunko puʔmato
+20.24	bow	kaʔka
+20.25	arrow	kaʔka poin mən
+20.26	spear	[ərainčihtyə]
+20.27	sword	[ehpaara]
+20.28	gun, cannon	kapuuča
+20.31	armor (defensive)	wəʔ-nanɨʔ-n-toʔ
+20.33	helmet	arako
+20.34	shield	wəʔ-nanɨʔ-n-to
+20.35	fortress	
+20.36	tower	
+20.41	victory	tyɨ-pək wəh-sayuupa-toʔ
+20.42	defeat	tyɨ-pək wəh-sayuupa-toʔ
+20.43	attack	
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	kana y-an-ɲe pe mənək
+20.52	fishhook	wənətə
+20.53	fishing line	wənətə yači
+20.54	fishnet	kana y-an-toʔ
+20.55	fish trap	kana yanto
+20.56	bait	kana yok
+20.61	hunt	ataraama-
+20.62	shoot	-uwə-; -ama-
+20.63	miss (target)	-ikima-; -ɨɲama-
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	apoʔma-nəto
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	
+21.24	swear	
+21.25	oath	
+21.31	accuse	-aʔkama-
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	awa-nə-toʔ
+21.38	fine	
+21.39	prison, jail	mukuʔnto
+21.42	murder	-ama-
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	-imempa-
+21.52	thief	timi-ɲe
+22.11	religion	
+22.12	God	marʸewaka
+22.13	temple, church	mukuʔma-nə-toʔ
+22.14	altar	
+22.15	sacrifice, offering	
+22.16	worship	
+22.17	pray	
+22.18	priest	
+22.19	holy, sacred	
+22.22	preach	
+22.23	bless	-uwayuupa-
+22.24	curse	-ihkimɨ(-kɨ)(-ki)
+22.26	fast (vb)	
+22.31	heaven	
+22.32	hell	
+22.35	demon (evil spirit)	mahtikiri; tukuəik
+22.37	idol	
+22.42	magic, witchcraft, sorcery	kowae t-uka-k
+22.43	sorcerer, witch	iʔyan
+22.44	fairy, elf	
+22.45	ghost, phantom	koičamun
+22.47	omen, portent	

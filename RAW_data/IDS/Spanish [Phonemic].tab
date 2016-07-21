@@ -1,0 +1,1311 @@
+entry_id	trans_english	Spanish_Phonemic
+1.1	world	mundo
+1.21	earth, land	tierra
+1.212	earth=ground, soil	suelo
+1.213	dust	polvo
+1.214	mud	lodo
+1.215	sand	arena
+1.22	mountain, hill	montaɲa; loma; cerro
+1.222	cliff, precipice	acantilado; barranca
+1.23	plain, field	pampa; llanura; campo
+1.24	valley	valle
+1.25	island	isla
+1.26	mainland	continente; tierra firme
+1.27	shore	ribera; playa; costa
+1.28	cave	cueva; gruta
+1.31	water	agua
+1.32	sea	mar
+1.322	calm (of sea)	calma
+1.323	rough (of sea)	agitado (mar); borrascoso
+1.324	foam	espuma
+1.329	ocean	océano
+1.33	lake	lago
+1.34	gulf, bay	golfo; bahía
+1.341	lagoon	laguna
+1.342	reef	arrecife
+1.343	headland, point	promontorio; punta
+1.35	wave	ola
+1.352	tide	marea
+1.353	lowtide	bajamar
+1.354	hightide	pleamar
+1.36	river, stream, brook	río; corriente; arroyo
+1.362	whirlpool	remolino
+1.37	spring, well	manantial; pozo
+1.38	swamp	pantano
+1.39	waterfall	cascada; salto
+1.41	woods, forest	bosque; selva
+1.42	tree (cf 08.600)	árbol
+1.43	wood	madera
+1.44	stone, rock	piedra; roca
+1.45	earthquake	terremoto; temblor
+1.51	sky	cielo
+1.52	sun	sol
+1.53	moon	luna
+1.54	star	estrella
+1.55	lightning	relámpago
+1.56	thunder	trueno
+1.57	lightning (as striking)	rayo
+1.58	storm	tempestad; tormenta
+1.59	rainbow	arco iris
+1.61	light (noun)	luz
+1.62	darkness	oscuridad; tinieblas
+1.63	shade, shadow	sombra
+1.64	dew	rocío
+1.71	air	aire
+1.72	wind	viento
+1.73	cloud	nube
+1.74	fog	neblina; niebla
+1.75	rain (noun)	lluvia
+1.76	snow (noun)	nieve
+1.77	ice	hielo
+1.78	weather	tiempo
+1.81	fire	fuego
+1.82	flame (noun)	llama
+1.83	smoke (noun)	humo
+1.84	ashes	cenizas
+1.841	embers	brasas
+1.851	burn (vb trans)	quemar, quemarse
+1.852	burn (vb intrans)	arder
+1.86	light, kindle, ignite	encender
+1.861	extinguish	apagar; extinguir
+1.87	match (noun)	fósforo; cerilla
+1.88	firewood	leɲa
+1.89	charcoal	carbón
+2.1	person, human being	persona
+2.21	man (vs. woman)	hombre
+2.22	woman	mujer
+2.23	male	varón; macho
+2.24	female	hembra
+2.25	boy	muchacho
+2.251	young man (adolescent)	el joven
+2.26	girl	muchacha
+2.261	young woman (adolescent)	la joven
+2.27	child	niɲo
+2.28	infant, baby	niɲo; bebé; nene
+2.31	husband	marido; esposo
+2.32	wife	esposa
+2.33	marry	casarse
+2.34	marriage, wedding	casamiento; boda
+2.341	divorce	divorcio
+2.35	father	padre
+2.36	mother	madre
+2.37	parents	padres
+2.38	married man	hombre casado
+2.39	married woman	mujer casada
+2.41	son	hijo
+2.42	daughter	hija
+2.43	offspring (son or daughter)	hijo, hija
+2.44	brother	hermano
+2.444	older brother	hermano mayor
+2.445	younger brother	hermano menor
+2.45	sister	hermana
+2.454	older sister	hermana mayor
+2.455	younger sister	hermana menor
+2.456	sibling	hermano/ hermana
+2.458	twins	gemelos; mellizo
+2.46	grandfather	abuelo
+2.461	old man	anciano; hombre viejo
+2.47	grandmother	abuela
+2.471	old woman	anciana; mujer vieja
+2.48	grandson	nieto
+2.49	granddaughter	nieta
+2.51	uncle	tío
+2.511	mother's brother	hermano de la madre
+2.512	father's brother	hermano del padre
+2.52	aunt	tía
+2.521	mother's sister	hermana de la madre
+2.522	father's sister	hermana del padre
+2.53	nephew	sobrino
+2.54	niece	sobrina
+2.55	cousin	primo/ prima
+2.56	ancestors	antepasados
+2.57	descendants	descendientes
+2.61	father-in-law (of a man)	suegro
+2.611	father-in-law (of a woman)	suegro
+2.62	mother-in-law (of a man)	suegra
+2.621	mother-in-law (of a woman)	suegra
+2.63	son-in-law (of a man)	yerno
+2.631	son-in-law (of a woman)	yerno
+2.64	daughter-in-law (of a man)	nuera
+2.641	daughter-in-law (of a woman)	nuera
+2.71	stepfather	padrastro
+2.72	stepmother	madrastra
+2.73	stepson	hijastro; entenado
+2.74	stepdaughter	hijastra; entenada
+2.75	orphan	huérfano/ huérfana
+2.76	widow	viuda
+2.77	widower	viudo
+2.81	relatives, kinsmen	parientes, parentela
+2.82	family	familia
+2.91	I	yo
+2.92	you (singular)	tú, usted
+2.93	he/she/it	él/ ella/ ello
+2.94	we	nosotros/ nosotras
+2.941	we (inclusive)	nosotros/ nosotras
+2.942	we (exclusive)	nosotros/ nosotras
+2.95	you (plural)	ustedes
+2.96	they	ellos, ellas
+3.11	animal	animal
+3.12	male (adj)	masculino; macho
+3.13	female (adj)	femenino; hembra
+3.15	livestock	ganado
+3.16	pasture	pradera; potrero
+3.18	herdsman	pastor; vaquero
+3.19	stable, stall	establo
+3.2	cattle (bovine)	ganado
+3.21	bull	toro
+3.22	ox	buey
+3.23	cow	vaca
+3.24	calf	becerro; ternero
+3.25	sheep	oveja
+3.26	ram	carnero; morueco
+3.28	ewe	oveja
+3.29	lamb	borrego; cordero
+3.32	boar	jabalí
+3.34	sow	puerca; cochina; cerda
+3.35	pig	cerdo; puerco; chancho
+3.36	goat	cabra
+3.37	he-goat	chivo; macho cabrío
+3.38	kid	cabrito
+3.41	horse (equine)	caballo
+3.42	stallion	caballo padre; semental
+3.44	mare	yegua
+3.45	foal, colt	potro, potrillo
+3.46	ass, donkey	asno; burro
+3.47	mule	mulo/ mula
+3.5	fowl	ave
+3.52	cock, rooster	gallo
+3.54	hen	gallina
+3.55	chicken	pollo
+3.56	goose	ganso
+3.57	duck	pato; ánade
+3.58	nest	nido
+3.581	bird	pájaro; ave
+3.582	seagull	gaviota
+3.583	heron	garza
+3.584	eagle	águila
+3.585	hawk	gavilán; halcón
+3.586	vulture	buitre
+3.591	bat	murciélago
+3.592	parrot	loro; papagayo
+3.593	crow	cuervo
+3.594	dove	paloma
+3.596	owl	lechuza; buho
+3.61	dog	perro
+3.614	rabbit	conejo
+3.62	cat	gato
+3.622	opossum	zarigüeya
+3.63	mouse, rat	ratón, rata
+3.65	fish	pez, pescado
+3.652	fin (dorsal)	aleta
+3.653	fishscale	escama
+3.654	gill	agalla
+3.655	shell	valva
+3.661	shark	tiburón
+3.662	porpoise, dolphin	delfín
+3.663	whale	ballena
+3.664	stingray	raya; pastinaca
+3.665	freshwater eel	anguila de agua dulce
+3.71	wolf	lobo
+3.72	lion	león
+3.73	bear	oso
+3.74	fox	zorro
+3.75	deer	venado; ciervo/a
+3.76	monkey	mono
+3.77	elephant	elefante
+3.78	camel	camello
+3.81	insect	insecto
+3.811	louse	piojo
+3.812	nit (louse egg)	liendre
+3.813	flea	pulga
+3.814	centipede	ciempiés
+3.815	scorpion	alacrán; escorpión
+3.816	cockroach	cucaracha
+3.817	ant	hormiga
+3.818	spider	araɲa
+3.819	spider web	telaraɲa
+3.82	bee	abeja
+3.821	beeswax	cera de abeja
+3.822	beehive	colmena
+3.823	wasp	avispa
+3.83	fly	mosca
+3.831	sandfly (midge), gnat	jején
+3.832	mosquito	mosquito
+3.84	worm	lombriz; gusano
+3.85	snake	culebra; serpiente
+3.91	firefly	luciérnaga
+3.92	butterfly	mariposa
+3.93	grasshopper	saltamontes
+3.94	snail	caracol
+3.95	frog	rana
+3.96	lizard	lagartija
+3.97	crocodile, alligator	cocodrilo; caimán
+3.98	turtle	tortuga
+4.11	body	cuerpo
+4.12	skin, hide	piel; cutis; pellejo
+4.13	flesh	carne
+4.14	hair (head)	cabello; pelo
+4.142	beard	barba
+4.144	body hair	vello
+4.145	pubic hair	pelo púbico
+4.146	dandruff	caspa
+4.15	blood	sangre
+4.151	vein, artery	vena; arteria
+4.16	bone	hueso
+4.162	rib	costilla
+4.17	horn	cuerno
+4.18	tail	cola
+4.19	back	espalda
+4.191	spine	espinazo; espina dorsal
+4.2	head	cabeza
+4.201	side of head, temple	sien
+4.202	skull	cráneo; calavera
+4.203	brain	cerebro; sesos
+4.204	face	cara
+4.205	forehead	frente
+4.207	jaw	mandíbula
+4.208	cheek	mejilla
+4.209	chin	mentón; barbilla
+4.21	eye	ojo
+4.212	eyebrow	ceja
+4.213	eyelid	párpado
+4.214	eyelash	pestaɲa
+4.215	blink	parpadear; pestaɲear
+4.22	ear	oreja
+4.221	earlobe	lóbulo
+4.222	earwax	cerumen
+4.23	nose	nariz
+4.231	nostril	ventana de la nariz
+4.232	mucus (nasal)	moco
+4.24	mouth	boca
+4.241	beak	pico
+4.25	lip	labio
+4.26	tongue	lengua
+4.27	tooth	diente
+4.271	gums	encías
+4.272	molartooth	molar, muela
+4.28	neck	cuello
+4.281	nape of neck	nuca
+4.29	throat	garganta
+4.3	shoulder	hombro
+4.301	shoulderblade	escápula; omóplato
+4.302	collarbone	clavícula
+4.31	arm	brazo
+4.312	armpit	sobaco; axila
+4.32	elbow	codo
+4.321	wrist	muɲeca
+4.33	hand	mano
+4.331	palm of hand	palma de la mano
+4.34	finger	dedo
+4.342	thumb	pulgar
+4.344	fingernail	uɲa
+4.345	claw	garra
+4.35	leg	pierna; pata
+4.351	thigh	muslo
+4.352	calf of leg	pantorrilla
+4.36	knee	rodilla
+4.37	foot	pie
+4.371	ankle	tobillo
+4.372	heel	talón
+4.374	footprint	huella
+4.38	toe	dedo del pie
+4.392	wing	ala
+4.393	feather	pluma
+4.4	chest	pecho
+4.41	breast (of woman)	seno
+4.412	nipple, teat	pezón; teta
+4.42	udder	ubre
+4.43	navel	ombligo
+4.44	heart	corazón
+4.441	lung	pulmón
+4.45	liver	hígado
+4.451	kidney	riɲón
+4.452	spleen	bazo
+4.46	stomach	estómago; barriga
+4.461	intestines, guts	intestinos; tripas
+4.462	waist	cintura
+4.463	hip	cadera
+4.464	buttocks	nalgas; trasero
+4.47	womb	matriz; vientre
+4.49	testicle	testículo
+4.492	penis	pene
+4.51	breathe, breath	respirar; aliento
+4.52	yawn, gape	bostezar
+4.521	hiccough	tener hipo
+4.53	cough	toser
+4.54	sneeze	estornudar
+4.55	perspire	sudar
+4.56	spit	escupir, saliva
+4.57	vomit	vomitar
+4.58	bite	morder
+4.59	lick	lamer
+4.591	dribble	gotear; babear
+4.61	sleep	dormir
+4.612	snore	roncar
+4.62	dream	soɲar
+4.63	wake up	despertarse
+4.64	break wind	ventosear; flato
+4.65	urinate	orinar; mear
+4.66	defecate	defecar; excremento
+4.67	have sexual intercourse	tener relaciones sexuales
+4.68	shiver	temblar
+4.69	bathe	baɲar(se)
+4.71	beget (of father)	engendrar; procrear
+4.72	born (to be)	nacer
+4.73	pregnant	embarazada; preɲada
+4.732	conceive	concebir
+4.74	live, living, life	vivir, vivo, vida
+4.75	die, dead	morir, muerto
+4.751	drowned	ahogado
+4.76	kill	matar
+4.77	corpse	cadáver
+4.78	bury (the dead)	enterrar; sepultar
+4.79	grave, tomb	sepulcro; tumba
+4.81	strong, mighty, powerful	fuerte; poderoso
+4.82	weak	débil
+4.83	well, health	sano; salud
+4.84	sick, sickness	enfermo, enfermedad
+4.841	fever	fiebre
+4.842	goiter	bocio; coto
+4.843	cold (catarrh)	catarro; resfriado
+4.85	wound, sore	herida; llaga
+4.852	bruise	cardenal; magulladura; contusión
+4.853	swelling	hinchazón
+4.854	itch	comezón
+4.855	blister	ampolla
+4.856	boil (noun)	furúnculo, forúnculo
+4.857	pus	pus
+4.858	scar	cicatriz
+4.86	cure, heal	sanar; curar
+4.87	physician	doctor; médico
+4.88	medicine, drug	medicina; remedio
+4.89	poison	veneno
+4.91	tired, weary	cansado
+4.912	rest	descansar
+4.92	lazy	perezoso, flojo
+4.93	bald	calvo; pelado
+4.94	lame	lisiado
+4.95	deaf	sordo
+4.96	mute	mudo
+4.97	blind	ciego
+4.98	intoxicated	ebrio; embriagado
+4.99	naked, bare	desnudo
+5.11	eat	comer
+5.12	food	comida; alimento
+5.121	cooked	cocido, cocinado
+5.122	raw	crudo
+5.123	ripe	maduro
+5.124	green, unripe	inmaduro, no maduro; verde
+5.125	rotten	podrido
+5.13	drink	beber
+5.14	hunger	hambre
+5.141	famine	hambre
+5.15	thirst	sed
+5.16	suck	chupar
+5.18	chew	masticar; mascar
+5.181	swallow	tragar
+5.19	choke	sofocar
+5.21	cook	cocinar
+5.22	boil (vb)	hervir
+5.23	roast, fry	asar; freír
+5.24	bake	hornear
+5.25	oven	horno
+5.26	pot, cooking vessel	olla
+5.27	kettle	caldera
+5.28	pan	cacerola; cazuela
+5.31	dish	plato; fuente
+5.32	plate	plato
+5.33	bowl	tazón
+5.34	pitcher, jug	cántaro; jarro
+5.35	cup, drinking vessel	taza; copa
+5.36	saucer	platillo
+5.37	spoon	cuchara
+5.38	knife	cuchillo
+5.39	fork	tenedor
+5.391	tongs	tenazas
+5.41	meal (a)	comida
+5.42	breakfast	desayuno
+5.43	lunch	almuerzo
+5.44	dinner	comida
+5.45	supper	cena
+5.46	peel	pelar
+5.47	sieve, strain	cribar; colar; cerner
+5.48	scrape	raspar; rallar
+5.49	stir, mix	mezclar; mixturar
+5.51	bread	pan
+5.53	dough	masa
+5.54	knead	amasar
+5.55	meal, flour	harina
+5.56	crush, grind	aplastar; moler
+5.57	mill	molino
+5.58	mortar	mortero
+5.59	pestle	mano de mortero
+5.61	meat	carne
+5.63	sausage	salchicha
+5.64	soup, broth	sopa
+5.65	vegetables	legumbres
+5.66	bean	frijol; poroto
+5.7	potato	papa
+5.71	fruit	fruta
+5.712	bunch	racimo
+5.75	fig	higo
+5.76	grape	uva
+5.77	nut	nuez
+5.78	olive	aceituna; oliva
+5.79	oil	aceite
+5.791	grease, fat	grasa
+5.81	salt	sal
+5.82	pepper	pimienta
+5.821	chili pepper	ají
+5.84	honey	miel
+5.85	sugar	azúcar
+5.86	milk (noun)	leche
+5.87	milk (vb)	ordeɲar
+5.88	cheese	queso
+5.89	butter	mantequilla; manteca
+5.9	beverage, drink	bebida
+5.91	mead	aguamiel
+5.92	wine	vino
+5.93	beer	cerveza
+5.94	fermented drink	bebida fermentada
+5.97	egg	huevo
+5.971	egg yolk	yema
+6.11	put on (clothes)	vestirse
+6.12	clothing, clothes	ropa
+6.13	tailor	sastre
+6.21	cloth	tela
+6.22	wool	lana
+6.23	linen, flax	lino
+6.24	cotton	algodón
+6.25	silk	seda
+6.27	felt	fieltro
+6.28	fur	piel
+6.29	leather	cuero; piel
+6.31	spin	hilar
+6.32	spindle	huso
+6.33	weave	tejer
+6.34	loom	telar
+6.35	sew	coser
+6.36	needle	aguja
+6.37	awl	punzón
+6.38	thread	hilo
+6.39	dye	teɲir
+6.41	cloak	capa; manta
+6.411	poncho	poncho; ruana
+6.42	woman's dress	vestido
+6.43	coat	abrigo; saco
+6.44	shirt	camisa
+6.45	collar	cuello
+6.46	skirt	falda
+6.461	grass-skirt	falda de hierbas
+6.48	trousers	pantalones; calzones
+6.49	stocking, sock	media; calcetín
+6.51	shoe	zapato
+6.52	boot	bota
+6.54	shoemaker, cobbler	zapatero
+6.55	hat, cap	sombrero; gorro
+6.57	belt, girdle	cinturón; faja
+6.58	glove	guante
+6.59	veil	velo
+6.61	pocket	bolsillo
+6.62	button	botón
+6.63	pin	alfiler
+6.71	ornament, adornment	adorno; ornato
+6.72	jewel	joya
+6.73	ring (for finger)	anillo; sortija
+6.74	bracelet	brazalete; pulsera
+6.75	necklace	collar
+6.76	bead	chaquira; abalorio
+6.77	earring	arete; aro; pendiente
+6.78	headband, headdress	cinta; tocado
+6.79	tattoo	tatuaje
+6.81	handkerchief, rag	paɲuelo; trapo
+6.82	towel	toalla
+6.91	comb	peine
+6.92	brush	cepillo
+6.921	braid	trenzar
+6.93	razor	navaja de afeitar
+6.94	ointment	ungüento
+6.95	soap	jabón
+6.96	mirror	espejo
+7.11	dwell, live	habitar; vivir; morar
+7.12	house	casa
+7.13	hut	cabaɲa; choza
+7.131	garden-house	casa de huerta; granja
+7.14	tent	toldo
+7.15	yard, court	cancha; patio
+7.16	men's house	casa de hombres
+7.17	cookhouse	cocina
+7.18	meeting house	casa de reunión
+7.21	room	cuarto; pieza
+7.22	door, gate	puerta
+7.221	doorpost, jamb	jamba de puerta; larguero
+7.23	lock (noun)	cerradura; candado
+7.231	latch, door-bolt	cerrojo
+7.24	key	llave
+7.25	window	ventana
+7.26	floor	suelo
+7.27	wall	pared; muro
+7.31	fireplace	fogón
+7.32	stove	estufa
+7.33	chimney	chimenea
+7.37	ladder	escalera
+7.42	bed	cama
+7.421	pillow	almohada
+7.422	blanket	frazada; cobija
+7.43	chair	silla
+7.44	table	mesa
+7.45	lamp, torch	lámpara; antorcha
+7.46	candle	vela
+7.47	shelf	repisa
+7.48	trough	batea; artesa
+7.51	roof	techo
+7.52	thatch	paja
+7.53	ridgepole	cumbrera
+7.54	rafter	viga
+7.55	beam	viga
+7.56	post, pole	poste
+7.57	board	tabla
+7.58	arch	arco
+7.61	mason	albaɲil; masón
+7.62	brick	ladrillo
+7.63	mortar	argamasa
+7.64	adobe	adobe
+8.11	farmer	labrador; ranchero; agricultor
+8.12	field (for cultivation)	campo; chacra
+8.13	garden	jardín; huerto
+8.15	cultivate, till	cultivar; labrar
+8.16	fence	cerca, cerco
+8.17	ditch	zanja; canal
+8.21	plow	arar
+8.212	furrow	surco
+8.22	dig	excavar; cavar
+8.23	spade	laya
+8.24	shovel	pala
+8.25	hoe	azadón, azada
+8.26	fork	horqueta
+8.27	rake	rastro, rastrillo
+8.31	sow	sembrar; desparramar
+8.311	seed	semilla
+8.32	mow, reap	segar; cosechar
+8.33	sickle, scythe	hoz; guadaɲa
+8.34	thresh	trillar; desgranar
+8.35	threshing-floor	era; lugar para trillar
+8.41	crop, harvest	cosecha; siega
+8.42	grain (barley, oats etc)	grano
+8.43	wheat	trigo
+8.44	barley	cebada
+8.45	rye	centeno
+8.46	oats	avena
+8.47	maize, corn	maíz
+8.48	rice	arroz
+8.51	grass	hierba; pasto
+8.52	hay	heno; paja
+8.53	plant (noun)	planta
+8.531	plant (vb)	plantar; sembrar
+8.54	root	raíz
+8.55	branch	rama
+8.56	leaf	hoja
+8.57	flower	flor
+8.6	tree	árbol
+8.61	oak	roble
+8.62	beech	haya
+8.63	birch	abedul
+8.64	pine	pino
+8.65	fir	abeto
+8.66	acorn	bellota
+8.67	vine	enredadera; bejuco; liana
+8.68	tobacco	tabaco
+8.69	smoke (tobacco)	fumar
+8.691	pipe	pipa
+8.72	tree stump	tocón; cepa
+8.73	tree trunk	tronco
+8.74	forked branch	rama bifurcada
+8.75	bark	corteza
+8.76	sap	savia
+8.81	palm tree	palmera
+8.82	coconut	coco
+8.83	citrus fruit	cítrico
+8.84	banana tree	plátano; banano
+8.85	banyan	baniano
+8.91	sweet potato	camote; batata
+8.912	yam	ɲame
+8.92	tapioca, manioc, cassava	mandioca; yuca
+8.93	gourd	calabaza
+8.931	pumpkin, squash	zapallo; calabaza, calabazo
+8.94	bamboo	bambú
+8.941	sugar cane	caɲa de azúcar
+8.96	fish poison (root)	barbasco
+8.97	nettle	ortiga
+8.98	mushroom	hongo; seta
+9.11	do, make	hacer
+9.12	work	trabajar
+9.14	bend	encorvar; doblar
+9.15	fold	doblar
+9.16	tie, bind	amarrar; atar
+9.161	untie	desatar
+9.18	chain	cadena
+9.19	rope, cord	cuerda; soga
+9.192	knot (noun)	nudo
+9.21	strike (hit, beat)	golpear
+9.211	pound with fist	machacar con el puɲo
+9.22	cut	cortar
+9.221	cut down	tumbar; talar
+9.222	chop, hew	tajar; picar
+9.223	stab	apuɲalar
+9.23	knife	cuchillo
+9.24	scissors, shears	tijeras
+9.25	ax	hacha
+9.251	adze	azuela
+9.26	break	quebrar
+9.261	broken	quebrado
+9.27	split	hender; partir
+9.28	tear	romper; rasgar
+9.29	flay, skin	desollar
+9.31	rub, wipe	frotar; enjugar
+9.32	stretch	alargar; estirar; tender
+9.33	pull	tirar; jalar
+9.34	spread out	extender; esparcir
+9.341	hang up	colgar
+9.342	press	apretar; oprimir
+9.343	squeeze, wring	estrujar; exprimir
+9.35	pour	vaciar; verter; derramar
+9.36	wash	lavar
+9.37	sweep	barrer
+9.38	broom	escoba
+9.422	tool	herramienta
+9.43	carpenter	carpintero
+9.44	build	edificar; construir
+9.46	bore	perforar
+9.461	hollow out	ahuecar
+9.48	saw	serrucho; sierra
+9.49	hammer	martillo
+9.5	nail	clavo
+9.56	glue	cola; adhesivo
+9.6	smith, blacksmith	herrero
+9.61	forge	fragua
+9.62	anvil	yunque
+9.63	cast (metals)	fundir
+9.64	gold	oro
+9.65	silver	plata
+9.66	copper, bronze	cobre; bronce
+9.67	iron	hierro
+9.68	lead (noun)	plomo
+9.69	tin, tinplate	estaɲo
+9.71	potter	alfarero
+9.72	mold (clay etc)	moldear; formar
+9.73	clay	barro; arcilla
+9.74	glass	vidrio
+9.75	weave, plait	tejer; trenzar
+9.76	basket	cesto; canasto, canasta
+9.77	mat	estera
+9.771	rug	tapete; alfombra
+9.78	netbag	bolsa de malla
+9.79	fan (noun)	abanico
+9.791	fan (vb)	abanicar; aventar; ventilar
+9.81	carve	esculpir
+9.82	sculptor	escultor
+9.83	statue	estatua
+9.84	chisel	escoplo; cincel
+9.88	paint (noun)	pintura
+9.89	paint (vb)	pintar
+10.11	move	mover
+10.12	turn over	volcar; dar(se) vuelta
+10.13	turn around	dar vuelta; voltear
+10.14	wind, wrap	enrollar; envolver
+10.15	roll	rodar; arrollar, enrollar
+10.16	drop (vb)	dejar caer
+10.17	twist	torcer
+10.21	rise	ascender; subir
+10.22	raise, lift	levantar
+10.23	fall	caer
+10.24	drip	gotear; escurrir
+10.25	throw	echar; tirar
+10.252	catch (ball)	coger
+10.26	shake	sacudir
+10.32	flow	fluir; correr
+10.33	sink	hundir
+10.34	float	flotar
+10.35	swim	nadar
+10.351	dive	zambullirse
+10.352	splash	salpicar
+10.36	sail (vb)	navegar
+10.37	fly (vb)	volar
+10.38	blow	soplar
+10.41	creep, crawl	gatear
+10.412	kneel	arrodillarse
+10.413	crouch	agacharse; ponerse en cuclillas
+10.42	slide, slip	resbalar
+10.43	jump, leap	saltar; brincar
+10.431	kick	patear
+10.44	dance	bailar
+10.45	walk	caminar; andar
+10.451	limp	lisiar
+10.46	run	correr
+10.47	go	ir
+10.471	go up	subir
+10.472	climb	trepar
+10.473	go down	bajar; descender
+10.474	go out	salir
+10.48	come	venir
+10.481	come back	volver; regresar
+10.49	go away, depart	irse; marcharse; partir
+10.491	disappear	desaparecer
+10.51	flee	huir
+10.52	follow	seguir
+10.53	pursue	perseguir
+10.55	reach, arrive	llegar; alcanzar
+10.56	approach	acercarse; aproximarse
+10.57	enter	entrar
+10.61	carry (bear)	llevar; cargar
+10.612	carry-in-hand	llevar en la mano
+10.613	carry-on-shoulder	llevar a la espalda/ en el hombro
+10.614	carry-on-head	llevar sobre la cabeza
+10.615	carry-underarm	llevar bajo el brazo
+10.62	bring	traer
+10.63	send	enviar; mandar
+10.64	lead (vb)	guiar, conducir
+10.65	drive	conducir
+10.66	ride	montar
+10.67	push, shove	empujar
+10.71	road	carretera
+10.72	path	camino; senda
+10.74	bridge	puente
+10.75	carriage, wagon, cart	carro; carretón
+10.76	wheel	rueda
+10.77	axle	eje
+10.78	yoke	yugo
+10.81	ship	buque; barco
+10.83	boat	bote
+10.831	canoe	canoa
+10.832	outrigger	batanga
+10.84	raft	balsa
+10.85	oar	remo
+10.851	paddle (noun)	remo corto
+10.852	row (vb)	remar
+10.86	rudder	timón
+10.87	mast	mástil
+10.88	sail (noun)	vela
+10.89	anchor	ancla
+10.91	harbor, port	puerto
+10.92	land (vb)	desembarcar
+11.11	have	tener
+11.12	own, possess	poseer, tener
+11.13	take	tomar; coger
+11.14	seize, grasp	agarrar; empuɲar; coger; asir
+11.15	hold	tener (en mano); apoyar
+11.16	get, obtain	obtener; conseguir
+11.17	keep, retain	conservar; retener; guardar
+11.18	thing	cosa
+11.21	give	dar
+11.22	give back	devolver
+11.24	preserve, look after	conservar; proteger
+11.25	save, rescue	salvar; rescatar
+11.27	destroy	destruir
+11.28	harm, injure, damage	daɲar; herir
+11.31	seek, look for	buscar
+11.32	find	encontrar; hallar
+11.33	lose	perder
+11.34	release, let go	soltar; largar
+11.43	money	dinero
+11.44	coin	moneda
+11.51	rich	rico
+11.52	poor	pobre
+11.53	beggar	mendigo
+11.54	avaricious, stingy	avaro; mezquino
+11.61	lend	prestar
+11.62	borrow	pedir prestado
+11.63	owe	deber
+11.64	debt	deuda
+11.65	pay (vb)	pagar
+11.66	account, reckoning	calcul; cuenta
+11.69	tax, tribute	impuesto; tributo
+11.77	hire	alquilar; emplear
+11.78	wages	salario; sueldo
+11.79	earn	ganar
+11.81	buy	comprar
+11.82	sell	vender
+11.83	trade, barter	trocar
+11.84	merchant	comerciante
+11.85	market (place)	mercado
+11.86	store, shop	tienda; almacén
+11.87	price	precio
+11.88	dear (costly, expensive)	caro
+11.89	cheap	barato
+11.91	share (distribute)	repartir; distribuir
+11.92	weigh	pesar
+12.1	after	después
+12.11	behind	atrás; detrás
+12.2	beside	al lado de
+12.3	down, below	abajo; bajo; debajo
+12.4	before	delante; antes de
+12.41	front	delantero, delante
+12.5	inside, in	adentro, dentro
+12.6	outside	afuera, fuera; exterior
+12.7	under	debajo
+12.8	up, above	arriba; encima
+12.11	place	lugar; sitio
+12.12	put	poner
+12.13	sit	sentar
+12.14	lie down	acostarse; echarse
+12.15	stand	poner(se) de pie
+12.16	remain, stay	quedar; permanecer
+12.17	remains, left overs	sobras
+12.21	collect, gather	recoger; reunir
+12.212	pick up	recoger
+12.213	pile up	amontonar
+12.22	join, unite	juntar, unir
+12.23	separate	separar; apartar
+12.232	divide	dividir
+12.24	open	abrir
+12.25	shut, close	cerrar
+12.26	cover	cubrir
+12.27	hide, conceal	esconder
+12.31	high	alto; elevado
+12.32	low	bajo
+12.33	top	cima
+12.34	bottom	fondo
+12.35	end	final; extremo
+12.352	pointed	puntiagudo
+12.353	edge	borde; orilla; margen
+12.36	side	lado; costado
+12.37	middle, center	medio; centro
+12.41	right (side)	derecha
+12.42	left (side)	izquierda
+12.43	near (adv)	cerca; próximo
+12.44	far (adv)	lejos
+12.45	east	este; levante
+12.46	west	oeste; poniente
+12.47	north	norte
+12.48	south	sur
+12.53	grow	crecer
+12.54	measure	medir
+12.541	span, fathom	braza
+12.55	large, big	grande
+12.56	small, little	chico; pequeɲo
+12.57	long	largo
+12.58	tall	alto
+12.59	short	corto
+12.61	wide, broad	ancho; amplio
+12.62	narrow	angosto; estrecho
+12.63	thick (in dimension)	grueso
+12.65	thin (in dimension)	delgado
+12.67	deep	profundo; hondo
+12.68	shallow	bajo; poco profundo
+12.71	flat	plano
+12.73	straight	derecho; recto
+12.74	crooked	torcido
+12.75	hook	gancho
+12.76	corner	esquina; rincón
+12.77	cross	cruz
+12.78	square	cuadrado
+12.81	round	redondo
+12.82	circle	círculo
+12.83	sphere, ball	pelota; esfera; globo
+12.84	line	línea
+12.85	hole	agujero
+12.92	like, similar	semejante; parecido
+12.93	change	cambiar; mudar
+13.0	zero, nothing	cero; nada
+13.1	one	uno
+13.2	two	dos
+13.3	three	tres
+13.4	four	cuatro
+13.5	five	cinco
+13.6	six	seis
+13.7	seven	siete
+13.8	eight	ocho
+13.9	nine	nueve
+13.10	ten	diez
+13.101	eleven	once
+13.102	twelve	doce
+13.103	fifteen	quince
+13.104	twenty	veinte
+13.105	hundred	ciento, cien
+13.106	thousand	mil
+13.107	count	contar
+13.14	every, all	cada; todo
+13.15	much, many	mucho
+13.16	more	más
+13.17	little (quantity), few	poco
+13.18	enough	bastante; suficiente
+13.181	some	un poco; algo, alguno
+13.19	multitude, crowd	multitud
+13.21	full	lleno
+13.22	empty	vacío
+13.23	part, piece	pedazo, parte
+13.24	half	mitad
+13.33	alone, only	solo, solamente
+13.34	first	primero
+13.35	last	último
+13.36	second	segundo
+13.37	pair	par
+13.38	two times	dos veces
+13.42	third	tercero
+13.44	three times	tres veces
+14.11	time	tiempo
+14.12	age	edad
+14.13	new	nuevo
+14.14	young	tierno; joven
+14.15	old	viejo
+14.16	early	temprano
+14.17	late	tarde
+14.18	now	ahora
+14.19	immediately	en seguida; inmediatamente
+14.21	swift, fast, quick	rápido
+14.22	slow	despacio; lentamente
+14.23	hasten, hurry	apurarse; darse prisa
+14.24	retard, delay	demorar; retrasar; tardar
+14.25	begin, beginning	empezar; comenzar; inicio
+14.252	last, endure	durar
+14.26	end (temporal)	fin
+14.27	finish	acabar; terminar; finalizar
+14.28	cease, stop	terminar; detenerse; cesar
+14.29	ready	listo; preparado
+14.31	always	siempre
+14.32	often	a menudo; frecuentemente
+14.33	sometimes	a veces
+14.331	soon	pronto
+14.332	long-time (for a)	por mucho tiempo
+14.34	never	nunca; jamás
+14.35	again	otra vez; de nuevo
+14.41	day	día
+14.42	night	noche
+14.43	dawn	madrugada; amanecer
+14.44	morning	maɲana
+14.45	noon, midday	mediodía
+14.451	afternoon	tarde
+14.46	evening	vísperas; noche
+14.47	today	hoy
+14.48	tomorrow	maɲana
+14.481	day-after-tomorrow	pasado maɲana
+14.49	yesterday	ayer
+14.491	day-before-yesterday	anteayer
+14.51	hour	hora
+14.53	clock, timepiece	reloj
+14.61	week	semana
+14.62	Sunday	domingo
+14.63	Monday	lunes
+14.64	Tuesday	martes
+14.65	Wednesday	miércoles
+14.66	Thursday	jueves
+14.67	Friday	viernes
+14.68	Saturday	sábado
+14.71	month	mes
+14.73	year	aɲo
+14.74	winter	invierno
+14.75	spring	primavera
+14.76	summer	verano
+14.77	autumn	otoɲo
+14.78	season	estación
+15.21	smell (vb intrans)	oler; olfatear
+15.212	sniff	husmear
+15.22	smell (vb trans)	oler; olfatear
+15.25	fragrant, good smelling	fragante; bien oliente
+15.26	stinking, bad smelling	hediondo
+15.31	taste	gustar; saborear
+15.35	sweet	dulce
+15.36	salty	salado
+15.37	bitter	amargo
+15.38	acid, sour	ácido; agrio
+15.39	brackish	salobre
+15.41	hear	oír
+15.42	listen	escuchar
+15.44	sound, noise	sonido; ruido
+15.45	loud	alta (voz); ruidoso
+15.46	quiet, silence	silencio; tranquilo
+15.51	see	ver
+15.52	look, look at	mirar; contemplar
+15.55	show	mostrar; seɲalar
+15.56	shine	brillar
+15.57	bright	brillante; resplandor
+15.61	color	color
+15.62	light (in color)	claro
+15.63	dark (in color)	oscuro
+15.64	white	blanco
+15.65	black	negro
+15.66	red	rojo
+15.67	blue	azul
+15.68	green	verde
+15.69	yellow	amarillo
+15.71	touch	tocar
+15.712	pinch	pellizcar
+15.72	feel	sentir
+15.74	hard	duro
+15.75	soft	suave
+15.76	rough	áspero
+15.77	smooth	suave; liso
+15.78	sharp	afilado; aguzado; filoso
+15.79	blunt, dull	romo; embotado
+15.81	heavy	pesado
+15.82	light (in weight)	liviano; ligero
+15.83	wet, damp	mojado; húmedo
+15.84	dry	seco
+15.85	hot	caliente
+15.851	warm	tibio; cálido
+15.86	cold	frío
+15.87	clean	limpio
+15.88	dirty, soiled	sucio
+15.89	wrinkled	arrugado
+16.11	soul, spirit	alma
+16.15	surprised, astonished	sorprendido; estupefacto
+16.18	good fortune, luck	buena suerte
+16.19	misfortune, bad luck	mala suerte
+16.23	joyful, glad, happy	alegre; contento; feliz
+16.25	laugh	reír
+16.251	smile	sonreír
+16.26	play	jugar
+16.27	love	querer, amar
+16.29	kiss	besar
+16.3	embrace	abrazar
+16.31	pain	dolor
+16.32	grief, sorrow, sadness	tristeza; dolor; pena
+16.33	anxiety, worry	ansiedad; angustia; preocupación
+16.34	regret, be sorry	lamentar; sentir
+16.35	pity	compasión; lástima
+16.37	cry, weep	llorar
+16.38	tear (noun)	lágrima
+16.39	groan	gemir
+16.41	hate	odiar
+16.42	anger	enojo; ira; rabia
+16.44	envy, jealousy	envidia; celos
+16.45	shame (noun)	vergüenza
+16.48	proud	orgulloso
+16.51	dare	osar; atreverse
+16.52	brave	valiente
+16.53	fear, fright	miedo; susto
+16.54	danger	peligro
+16.62	desire, want	anhelar; desear
+16.622	choose	escoger; elegir
+16.63	hope	esperanza
+16.65	faithful	fiel
+16.66	true	verdadero
+16.67	lie, tell lies	mentir
+16.68	deceit	engaɲo
+16.69	forgive	perdonar
+16.71	good	bueno
+16.72	bad	malo
+16.73	right, correct	correcto
+16.74	wrong	incorrecto; falso
+16.76	fault	culpa
+16.77	mistake, error	equivocación; error
+16.78	blame	culpa; censura
+16.79	praise	exaltar; alabar
+16.81	beautiful	hermoso; bonito; lindo
+16.82	ugly	feo
+16.83	greedy	codicioso; voraz
+16.84	clever	hábil; capaz
+17.11	mind	mente; pensamiento
+17.13	think (= reflect)	pensar
+17.14	think (= be of the opinion)	creer; suponer
+17.15	believe	creer
+17.16	understand	entender; comprender
+17.17	know	saber; conocer
+17.171	guess	adivinar; acertar
+17.172	imitate	imitar
+17.18	seem	parecer
+17.19	idea, notion	idea; concepto
+17.21	wise	sabio
+17.22	foolish, stupid	necio; estúpido; tonto
+17.23	insane, crazy	loco; insano
+17.24	learn	aprender
+17.242	study	estudiar
+17.25	teach	enseɲar
+17.26	pupil	alumno
+17.27	teacher	profesor; maestro
+17.28	school	escuela; colegio
+17.31	remember	recordar; acordarse
+17.32	forget	olvidar
+17.34	clear, plain	claro; evidente
+17.35	obscure	obscuro
+17.36	secret	secreto
+17.37	sure, certain	seguro; cierto
+17.38	explain	explicar
+17.41	intention, purpose	propósito; intención
+17.42	cause	causar
+17.43	doubt	dudar
+17.44	suspect	sospechar
+17.441	betray	traicionar
+17.45	need, necessity	necesidad
+17.46	easy	fácil
+17.47	difficult	difícil
+17.48	try, attempt	tratar; probar
+17.49	way, manner	modo; manera
+17.51	and	y
+17.52	because	porque
+17.53	if	si
+17.54	or	o
+17.55	yes, affirmative	sí; afirmativo
+17.56	no, negative	no; negativo
+17.61	how?	¿cómo?
+17.62	how many?	¿cuántos?
+17.63	how much?	¿cuánto?
+17.64	what?	¿qué?
+17.65	when?	¿cuándo?
+17.66	where?	¿dónde?
+17.67	which?	¿cuál?
+17.68	who?	¿quién?
+17.69	why?	¿por qué?
+18.11	voice	voz
+18.12	sing	cantar
+18.13	shout, cry out	gritar
+18.15	whisper	cuchichear
+18.16	mumble	barbotar; hablar entre dientes
+18.17	whistle	silbar; chiflar
+18.18	shriek, screech	chillar
+18.19	howl	aullar
+18.21	speak, talk	hablar
+18.211	stutter, stammer	tartamudear; balbucear
+18.22	say	decir
+18.221	tell story	narrar; contar
+18.222	speech (make a)	pronunciar un discurso
+18.23	silent (be)	callarse
+18.24	language	lengua; idioma
+18.26	word	palabra
+18.28	name	nombre
+18.31	ask (question, inquire)	preguntar
+18.32	answer	contestar; responder
+18.33	admit, confess	admitir; confesar; reconocer
+18.34	deny	negar
+18.35	ask, request	pedir
+18.36	promise	prometer
+18.37	refuse	rehusar
+18.38	forbid	prohibir
+18.39	rebuke, scold	reprender
+18.41	call (=summon)	llamar
+18.42	call (=name)	llamarse
+18.43	announce	anunciar; avisar
+18.44	threaten	amenazar
+18.45	boast	jactarse
+18.51	write	escribir
+18.52	read	leer
+18.56	paper	papel
+18.57	pen	pluma
+18.61	book	libro
+18.67	poet	poeta
+18.71	flute	flauta
+18.72	drum	bombo; tambor
+18.73	horn, trumpet	trompeta; trompa; corneta
+18.74	rattle	matraca; cascabel
+19.11	country	país
+19.12	one's native country	patria
+19.15	city, town	ciudad
+19.16	village	pueblo
+19.17	boundary	límite; frontera
+19.21	people (populace)	pueblo; gente
+19.23	tribe, clan	tribu; clan
+19.24	chief, chieftain	jefe; cacique
+19.25	staff, walking stick	bastón; bordón
+19.31	rule, govern	gobernar
+19.32	king, ruler	rey; gobernante
+19.33	queen	reina
+19.36	noble, nobleman	noble
+19.37	citizen, subject	ciudadano; súbdito
+19.41	master	amo; dueɲo; patrón
+19.42	slave	esclavo
+19.43	servant	sirviente; criado
+19.44	freeman	hombre libre
+19.45	command, order	mandar; ordenar
+19.46	obey	obedecer
+19.47	let, permit	permitir; dejar
+19.51	friend, companion	amigo; compaɲero
+19.52	enemy	enemigo
+19.54	neighbor	vecino
+19.55	stranger	extranjero; forastero
+19.56	guest	huésped; invitado
+19.57	host	huésped, hospedero
+19.58	help, aid	ayudar
+19.59	hinder, prevent	impedir; estorbar
+19.61	custom	costumbre; hábito
+19.62	strife, quarrel	lucha; pleito; disputa
+19.63	conspiracy, plot	conspiración
+19.65	meet	encontrar
+19.72	prostitute	prostituta
+20.11	fight (vb)	pelear
+20.13	war, battle	guerra; batalla
+20.14	peace	paz
+20.15	army	ejército; tropas
+20.17	soldier	soldado
+20.21	weapons, arms	armas
+20.22	club	macana; garrote
+20.222	battle-ax	hacha de combate
+20.23	sling	honda
+20.24	bow	arco
+20.25	arrow	flecha
+20.26	spear	lanza
+20.27	sword	espada
+20.28	gun, cannon	escopeta; caɲón
+20.31	armor (defensive)	armadura
+20.33	helmet	yelmo
+20.34	shield	escudo
+20.35	fortress	fortaleza; castillo
+20.36	tower	torre
+20.41	victory	victoria
+20.42	defeat	derrota
+20.43	attack	atacar
+20.44	defend	defender
+20.45	retreat	huir; retirarse
+20.46	surrender	rendirse
+20.47	captive, prisoner	cautivo; preso; prisionero
+20.471	guard, sentinel	guardia; centinela
+20.48	booty, spoils	botín
+20.49	ambush	acechar; emboscar
+20.51	fisherman	pescador
+20.52	fishhook	anzuelo
+20.53	fishing line	cuerda de pescar
+20.54	fishnet	red; atarraya
+20.55	fish trap	nasa
+20.56	bait	cebo; carnada
+20.61	hunt	cazar
+20.62	shoot	tirar; disparar
+20.63	miss (target)	errar; fallar
+20.64	trap (noun)	trampa
+20.65	trap (vb)	atrapar
+21.11	law	ley
+21.15	court	tribunal
+21.16	judge (vb)	juzgar
+21.17	judgment	juicio
+21.18	judge (noun)	juez
+21.21	plaintiff	demandante
+21.22	defendant	acusado
+21.23	witness	testigo
+21.24	swear	jurar
+21.25	oath	juramento
+21.31	accuse	acusar; denunciar
+21.32	condemn	condenar
+21.33	convict (vb)	inculpar; condenar
+21.34	acquit	absolver; exculpar
+21.35	guilty	culpable
+21.36	innocent	inocente
+21.37	penalty, punishment	castigo
+21.38	fine	multa
+21.39	prison, jail	cárcel
+21.42	murder	asesinar; matar
+21.43	adultery	adulterio
+21.44	rape	violación
+21.46	arson	incendio premeditado
+21.47	perjury	perjurio
+21.51	steal	robar
+21.52	thief	ladrón
+22.11	religion	religión
+22.12	God	Dios
+22.13	temple, church	templo; iglesia
+22.14	altar	altar
+22.15	sacrifice, offering	ofrenda; sacrificio
+22.16	worship	adorar; culto
+22.17	pray	orar; rezar
+22.18	priest	cura; presbítero; sacerdote
+22.19	holy, sacred	sagrado; santo
+22.22	preach	predicar
+22.23	bless	bendecir
+22.24	curse	maldecir
+22.26	fast (vb)	ayunar
+22.31	heaven	cielo; paraíso
+22.32	hell	infierno
+22.35	demon (evil spirit)	demonio
+22.37	idol	ídolo
+22.42	magic, witchcraft, sorcery	brujería; hechicería
+22.43	sorcerer, witch	brujo/ bruja; hechicero
+22.44	fairy, elf	hada; duende
+22.45	ghost, phantom	fantasma
+22.47	omen, portent	agüero; presagio

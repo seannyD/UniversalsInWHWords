@@ -1,0 +1,237 @@
+,X,N1,WALS,IDS,Glotto,iso,glotto,area,langFam,subFam,InterrogativePosition,IDS2,Comments,Source
+1,1,Aché,Aché,Aché [Phonemic],Ach�,guq,ache1246,South America,Tupian,Tupi-Guarani Subgroup I,,Ach�_Phonemic,,IDS
+2,3,Aguaruna,Aguaruna,Aguaruna [Phonemic],Aguaruna,agr,agua1253,South America,Jivaroan,Jivaroan,,Aguaruna_Phonemic,,IDS
+3,6,"Albanian, Tosk",Albanian,"Albanian, Tosk [Phonemic]",Gheg Albanian,aln,gheg1238,Eurasia,Indo-European,Albanian,,Albanian._Tosk_Phonemic,not clear whether Tosk or Gheg Albanian ??,IDS
+4,10,Aramaic (Ancient),,Aramaic (Ancient) [Phonemic],Old Armaic,oar,olda1245,Eurasia,Afro-Asiatic,Aramaic,NA,Aramaic_Ancient_Phonemic,not on WALS,IDS
+5,11,Araona,Araona,Araona [Phonemic],Araona,aro,arao1248,South America,Tacanan,Araona-Toromono,,Araona_Phonemic,,IDS
+6,14,Armenian,Armenian (Eastern),"Armenian, Eastern [Phonemic]",Modern Armenian,hye,nucl1235,Eurasia,Indo-European,Armenian,2 Not initial interrogative phrase,Armenian._Eastern_Phonemic,on WALS both versions (Eastern and Western),IDS
+7,15,Armenian,Armenian (Western),"Armenian, Western [Phonemic]",,hye,nucl1235,Eurasia,Indo-European,Armenian,2 Not initial interrogative phrase,Armenian._Western_Phonemic,,IDS
+8,24,Avestan,,Avestan [Phonemic],Avestan,ave,aves1237,Eurasia,Indo-European,Northeastern Iranian,NA,Avestan_Phonemic,not on WALS,IDS
+9,25,"Aymara, Central",Aymara,Aymara [Phonemic], Southern Aymara,ayc,sout2996,South America,Aymara,Nuclear Aymara,2 Not initial interrogative phrase,Aymara_Phonemic,,IDS
+10,26,Ayoreo,Ayoreo,Ayoreo [Phonemic],Ayoreo,ayo,ayor1240,South America,Zamucoan,Zamuco-Ayoreo,,Ayoreo_Phonemic,,IDS
+11,30,Barí,Motilón (Chibchan),Barí [Phonemic],Bari (Chibchan),mot,bari1297,South America,Chibchan,Southern Magdalenic,,Bar�_Phonemic,,IDS
+12,31,Basque,Basque,Basque [Phonemic],Basque,eus,basq1248,Eurasia,Basque,Basque,,Basque_Phonemic,,IDS
+13,32,Baure,Baure,Baure [Phonemic],Baure,brg,baur1253,South America,Arawakan,Baure-Carmelito-Joaquiniano,1 Initial interrogative phrase,Baure_Phonemic,,IDS
+14,33,Bella Coola,Bella Coola,Bella Coola [Phonemic],Bella Coola,blc,bell1243,North America,Salishan,Salishan,,Bella_Coola_Phonemic,,IDS
+15,37,Breton,Breton,Breton [Phonemic],Breton,bre,bret1244,Eurasia,Indo-European,Southwestern Brythonic,1 Initial interrogative phrase,Breton_Phonemic,,IDS
+16,39,Bulgarian,Bulgarian,Bulgarian [Phonemic],Bulgarian,bul,bulg1262,Eurasia,Indo-European,Macedo-Bulgarian,1 Initial interrogative phrase,Bulgarian_Phonemic,,IDS
+17,40,Canela,Canela,Canela [Phonemic],Canela,ram,cane1242,South America,Nuclear-Macro-Je,Timbira,1 Initial interrogative phrase,Canela_Phonemic,,IDS
+18,41,Maquiritari,Carib (De\'kwana),Carib (De'kwana) [Phonemic],Maquiritari,mch,maqu1238,South America,Cariban,Guianan,1 Initial interrogative phrase,Carib_De.kwana_Phonemic,,IDS
+19,42,Cashibo-Cacataibo,Cashibo,Cashibo [Phonemic],Cashibo-Cacataibo,cbr,cash1251,South America,Panoan,Kashibo,,Cashibo_Phonemic,,IDS
+20,44,"Katukína, Panoan",,Catuquina [Phonemic],Panoan Katuk�na,knt,pano1254,South America,Panoan,Marubo Subgroup,NA,Catuquina_Phonemic,not on WALS,IDS
+21,45,Cavineña,Cavineña,Cavineña [Phonemic],Cavine�a,cav,cavi1250,South America,Tacanan,Tacanan,,Cavine�a_Phonemic,,IDS
+22,46,Chachi,Cayapa,Cayapa [Phonemic],Chachi,cbi,chac1249,South America,Barbacoan,Cayapa-Colorado,1 Initial interrogative phrase,Cayapa_Phonemic,,IDS
+23,47,Cayubaba,Cayuvava,Cayuvava [Phonemic],Cayubaba,cyb,cayu1262,South America,Cayuvava,Cayuvava,,Cayuvava_Phonemic,,IDS
+24,48,Central-Thai,,Central-Thai [Phonemic],Thai,tha,thai1261,Eurasia,Tai-Kadai,Lao-Thai,2 Not initial interrogative phrase,Central.Thai_Phonemic,,IDS
+25,49,Chácobo,Chácobo,Chácobo [Phonemic],Ch�cobo,cao,chac1251,South America,Panoan,Bolivian Nawa,1 Initial interrogative phrase,Ch�cobo_Phonemic,,IDS
+26,50,Chadong,,Chadong [Phonemic],Chadong,cdy,chad1240,Eurasia,Tai-Kadai,Maonan-Chadong,NA,Chadong_Phonemic,not on WALS,IDS
+27,52,"Chatino, Zacatepec",,"Chatino, Zacatepec [Phonemic]",Zacatepec Chatino,ctz,zaca1242,North America,Otomanguean,Eastern Chatino,NA,Chatino._Zacatepec_Phonemic,not on WALS,IDS
+28,55,"Chehalis, Upper",Chehalis (Upper),Chehalis (Upper) [Phonemic],Upper Chehalis,cjh,uppe1439,North America,Salishan,Inland Tsamosan,,Chehalis_Upper_Phonemic,,IDS
+29,56,Chipaya,,Chipaya [Phonemic],Chipaya,cap,chip1262,South America,Uru-Chipaya,Uru-Chipaya,,Chipaya_Phonemic,,IDS
+30,57,"Guaraní, Eastern Bolivian",Chiriguano,Chiriguano [Phonemic],Eastern Bolivian Guaran�,gui,east2555,South America,Tupian,Chiriguanic,,Chiriguano_Phonemic,,IDS
+31,58,"Chorote, Iyojwa\'ja",Chorote,Chorote [Phonemic],Iyo'wujwa Chorote,crq,iyow1239,South America,Matacoan,Chorote,,Chorote_Phonemic,,IDS
+32,59,Cofán,Cofán,Cofán [Phonemic],Cof�n,con,cofa1242,South America,Cof�n,Cof�n,,Cof�n_Phonemic,,IDS
+33,60,Colorado,Tsafiki,Colorado [Phonemic],Tsafiki,cof,colo1256,South America,Barbacoan,Cayapa-Colorado,,Colorado_Phonemic,,IDS
+34,68,Dehong,,Dehong [Phonemic],Kh�n,kkh,khun1259,Eurasia,Tai-Kadai,Southern Shan,2 Not initial interrogative phrase,Dehong_Phonemic,,IDS
+35,70,Ecun Buyang,,Ecun Buyang [Phonemic],Langnian Buyang,yln,lang1316,Eurasia,Tai-Kadai,Northern Buyang,NA,Ecun_Buyang_Phonemic,not on WALS,IDS
+36,71,Elamite,,Elamite [Phonemic],Elamite,elx,elam1244,Eurasia,NA,NA,NA,Elamite_Phonemic,not on WALS,IDS
+37,72,"Emberá, Northern",Embera,Embera [Phonemic],Northern Ember�,emp,nort2972,South America,Chocoan,Katio,,Embera_Phonemic,,IDS
+38,76,Epena,Epena Pedee,Epena [Phonemic],Epena,sja,epen1239,South America,Chocoan,San Juan,1 Initial interrogative phrase,Epena_Phonemic,,IDS
+39,77,Erzya,Mordvin (Erzya),Erza Mordvin [Phonemic],Erzya,myv,erzy1239,Eurasia,Uralic,Mordvin,,Erza_Mordvin_Phonemic,,IDS
+40,78,Ese Ejja,Ese Ejja,Ese Ejja [Phonemic],Ese Ejja,ese,esee1248,South America,Tacanan,Takanik-Chamik,1 Initial interrogative phrase,Ese_Ejja_Phonemic,double,IDS
+41,79,Ese Ejja,Ese Ejja,Ese Ejja (Huarayo) [Phonemic],,ese,esee1248,South America,Tacanan,Takanik-Chamik,1 Initial interrogative phrase,Ese_Ejja_Huarayo_Phonemic,double,IDS
+42,80,Estonian,Estonian,Estonian [Phonemic],Estonian,est,esto1258,Eurasia,Uralic,Finnic,1 Initial interrogative phrase,Estonian_Phonemic,,IDS
+43,81,Finnish,Finnish,Finnish [Phonemic],Finnish,fin,finn1318,Eurasia,Uralic,Nuclear Finnish,1 Initial interrogative phrase,Finnish_Phonemic,,IDS
+44,83,"German, Standard",German,German [Phonemic],Standard German,deu,stan1295,Eurasia,Indo-European,High Franconian,,German_Phonemic,,IDS
+45,88,Wayuu,Goajiro,Goajiro [Phonemic],Wayuu,guc,wayu1243,South America,Arawakan,Guajiro-Paraujano,1 Initial interrogative phrase,Goajiro_Phonemic,,IDS
+46,92,"Guaraní, Paraguayan",Guaraní,Guaraní [Phonemic],Paraguayan Guaran�,gug,para1311,South America,Tupian,Paraguay-Brazil Guarani,2 Not initial interrogative phrase,Guaran�_Phonemic,,IDS
+47,93,Puelche,Gününa Küne,Gününa Küne [Phonemic],Puelche,pue,puel1244,South America,Chon,Puelche,,G�n�na_K�ne_Phonemic,,IDS
+48,94,"Haida, Northern",Haida (Northern),Haida (Northern) [Phonemic],Northern Haida,hdn,nort2938,North America,Haida,Haida,3 Mixed,Haida_Northern_Phonemic,,IDS
+49,95,Hausa,Hausa,Hausa [Phonemic],Hausa,hau,haus1257,Africa,Afro-Asiatic,West Chadic A A.1,3 Mixed,Hausa_Phonemic,,IDS
+50,96,Hawaiian,Hawaiian,Hawaiian [Phonemic],Hawaiian,haw,hawa1245,Pacific,Austronesian,Central East Nuclear Polynesian,2 Not initial interrogative phrase,Hawaiian_Phonemic,,IDS
+51,102,Ignaciano,Ignaciano,Ignaciano [Phonemic],Ignaciano,ign,igna1246,South America,Arawakan,Moxo,1 Initial interrogative phrase,Ignaciano_Phonemic,,IDS
+52,106,Itonama,Itonama,Itonama [Phonemic],Itonama,ito,iton1250,South America,Itonama,Itonama,,Itonama_Phonemic,,IDS
+53,107,Kaingáng,Kaingang,Kaingáng [Phonemic],Kaingang,kgp,kain1272,South America,Nuclear-Macro-Je,Kaingangic,,Kaing�ng_Phonemic,,IDS
+54,108,Karajá,,Karajá [Phonemic],Karaj�,kpj,kara1500,South America,Nuclear-Macro-Je,Ofaie,2 Not initial interrogative phrase,Karaj�_Phonemic,,IDS
+55,111,Karok,Karok,Karok [Phonemic],Karok,kyh,karo1304,North America,Karok,Karok,,Karok_Phonemic,,IDS
+56,112,Khamuang of Chiang Mai,,Khamuang of Chiang Mai [Phonemic],Northern Thai,nod,nort2740,Eurasia,Tai-Kadai,Lao-Thai,2 Not initial interrogative phrase,"originally -thai 1261, tha",,IDS
+57,113,Khanty,Khanty,Khanty [Phonemic],Khanty,kca,khan1273,Eurasia,Uralic,Uralic,2 Not initial interrogative phrase,Khanty_Phonemic,,IDS
+58,117,Komi-Zyrian,Komi-Zyrian,Komi [Phonemic],Komi-Zyrian,kpv,komi1268,Eurasia,Uralic,Komi,,Komi_Phonemic,,IDS
+59,119,Kunza,Atacameño,Kunza [Phonemic],Kunza,kuz,kunz1244,South America,Kunza,Kunza,,Kunza_Phonemic,,IDS
+60,122,Lakkia,,Lakkia [Phonemic],Lakkia,lbc,lakk1238,Eurasia,Tai-Kadai,Lakkia-Biao,,Lakkia_Phonemic,,IDS
+61,123,Langja Buyang,,Langja Buyang [Phonemic],Langnian Buyang,yln,lang1316,Eurasia,Tai-Kadai,Northern Buyang,NA,Langja_Buyang_Phonemic,not on WALS,IDS
+62,124,"Saami, North",Saami (Northern),Lappish (North Saami) [Phonemic],Northern Sami,sme,nort2671,Eurasia,Uralic,Central Western Saami,,Lappish_North_Saami_Phonemic,,IDS
+63,127,Lengua,Lengua,Lengua [Phonemic],Lengua,leg,leng1262,South America,Lengua-Mascoy,Lengua-Mascoy,,Lengua_Phonemic,,IDS
+64,131,Li of Baoding,,Li of Baoding [Phonemic],,NA,nucl1241,NA,NA,NA,NA,Li_of_Baoding_Phonemic,"not on WALS, not on Glotto",IDS
+65,132,Limonese Creole,,Limonese Creole [Phonemic],Limonese Creole,qlm,limo1249,North America,Indo-European,Jamaicanic,NA,Limonese_Creole_Phonemic,not on WALS,IDS
+66,134,Maca,Maca,Maca [Phonemic],Maca,mca,maca1260,South America,Matacoan,Mataguayo I,,Maca_Phonemic,,IDS
+67,135,Macushi,Macushi,Macushi [Phonemic],Macushi,mbc,macu1259,South America,Cariban,Pemongan,1 Initial interrogative phrase,Macushi_Phonemic,,IDS
+68,136,Mansi,Mansi,Mansi [Phonemic],Mansi,mns,mans1258,Eurasia,Uralic,Uralic,2 Not initial interrogative phrase,Mansi_Phonemic,,IDS
+69,137,Maonan,,Maonan [Phonemic],Maonan,mmd,maon1241,Eurasia,Tai-Kadai,Maonan-Chadong,NA,Maonan_Phonemic,not on WALS,IDS
+70,138,Maori,Maori,Maori [Phonemic],Maori,mri,maor1246,Pacific,Austronesian,Tahitic,2 Not initial interrogative phrase,Maori_Phonemic,,IDS
+71,139,Mapudungun,Mapudungun,Mapudungun [Phonemic],Mapudungun,arn,mapu1245,South America,Araucanian,Araucanian,2 Not initial interrogative phrase,Mapudungun_Phonemic,,IDS
+72,140,"Mari, Eastern",Mari (Meadow),Mari [Phonemic],Eastern Mari,mhr,east2328,Eurasia,Uralic,Mari,,Mari_Phonemic,,IDS
+73,141,"Marquesan, North; Marquesan, South",Marquesan,Marquesan [Phonemic],North Marquesan,mrq,nort2845,Pacific,Austronesian,Nuclear Marquesic,,Marquesan_Phonemic,,IDS
+74,142,Mashco Piro,,Mashco Piro [Phonemic],Mashco Piro,cuj,mash1270,South America,Arawakan,Piroic,NA,Mashco_Piro_Phonemic,,IDS
+75,143,Mocoví,Mocoví,Mocoví [Phonemic],Mocov�,moc,moco1246,South America,Guaicuruan,Qom,1 Initial interrogative phrase,Mocov�_Phonemic,,IDS
+76,144,Tsimané,Mosetén,Mosetén [Phonemic],Moset�n-Chiman�,cas,mose1249,South America,Mosetenan,Mosetenan,1 Initial interrogative phrase,Moset�n_Phonemic,,IDS
+77,145,Movima,Movima,Movima [Phonemic],Movima,mzp,movi1243,South America,Movima,Movima,1 Initial interrogative phrase,Movima_Phonemic,,IDS
+78,148,Mulam,,Mulam [Phonemic],Mulam,mlm,mula1253,Eurasia,Tai-Kadai,Mulam-Kam,,Mulam_Phonemic,,IDS
+79,149,Mundurukú,Mundurukú,Mundurukú [Phonemic],Munduruk�,myu,mund1330,South America,Tupian,Mundurukuic,1 Initial interrogative phrase,Munduruk�_Phonemic,,IDS
+80,150,"Nahuatl, Highland Puebla",Nahuatl (Sierra de Zacapoaxtla),Nahuatl (Sierra de Zacapoaxtla) [Phonemic],Highland Puebla Nahuatl,azz,high1278,North America,Uto-Aztecan,Eastern Nahuatl,,Nahuatl_Sierra_de_Zacapoaxtla_Phonemic,,IDS
+81,151,Negerhollands,,Negerhollands [Phonemic],Negerhollands,dcr,nege1244,North America,Indo-European,Dutch Caribbean Creole,NA,Negerhollands_Phonemic,,IDS
+82,152,Nenets,Nenets,Nenets [Phonemic],Nenets,yrk,nene1249,Eurasia,Uralic,Samoyedic,,Nenets_Phonemic,,IDS
+83,153,Ninam,Shiriana,Ninam (Shirishana) [Phonemic],Ninam,shb,nina1238,South America,Yanomam,Ninam-Yanomam-Yaroame,1 Initial interrogative phrase,Ninam_Shirishana_Phonemic,,IDS
+84,154,Nivaclé,Chulupí,Nivaclé [Phonemic],Nivacl�,cag,niva1238,South America,Matacoan,Mataguayo I,,Nivacl�_Phonemic,,IDS
+85,156,Nootka,Nuuchahnulth,Nootka [Phonemic],,noo,noot1238,North America,Wakashan,Southern Wakashan,1 Initial interrogative phrase,Nootka_Phonemic,Not on Glotto,IDS
+86,158,Nung-Fengshan,Anong,Nung-Fengshan [Phonemic],Nung (Myanmar),nun,nung1282,Eurasia,Sino-Tibetan,Gunong,,Nung.Fengshan_Phonemic,different in Wals,IDS
+87,159,Nung-Lazhai,,Nung-Lazhai [Phonemic],,nut,nung1283,Eurasia,Tai-Kadai,Debao-Jingxi-Nung,2 Not initial interrogative phrase,Nung.Lazhai_Phonemic,wh-words not similar with #160,IDS
+88,160,Nung-Ninbei,,Nung-Ninbei [Phonemic],,nut,nung1283,Eurasia,Tai-Kadai,Debao-Jingxi-Nung,2 Not initial interrogative phrase,Nung.Ninbei_Phonemic,nong1247 - ash Harold,IDS
+89,161,Pakaásnovos,Wari\',Pacaas Novos [Phonemic],Wari',pav,wari1268,South America,Chapacuran,Wari-Oro Win,1 Initial interrogative phrase,Pacaas_Novos_Phonemic,,IDS
+90,162,Pacahuara,,Pacahuara [Phonemic],Pacahuara,pcp,paca1246,South America,Panoan,Bolivian Nawa,NA,Pacahuara_Phonemic,not on WALS,IDS
+91,163,Páez,Páez,Páez [Phonemic],P�ez,pbb,paez1247,South America,P�ezan,P�ezan,,P�ez_Phonemic,,IDS
+92,164,Eñepa,Panare,Panare [Phonemic],E'napa Woromaipu,pbh,enap1235,South America,Cariban,Pemong-Panare,,Panare_Phonemic,,IDS
+93,165,"Farsi, Western",Persian,Persian [Phonemic],Western Farsi,pes,west2369,Eurasia,Indo-European,Farsic,2 Not initial interrogative phrase,Persian_Phonemic,,IDS
+94,166,Pilagá,Pilagá,Pilagá [Phonemic],Pilag�,plg,pila1245,South America,Guaicuruan,Pilaga-Toba,1 Initial interrogative phrase,Pilag�_Phonemic,,IDS
+95,167,Polci,,Polci [Phonemic],Polci,plj,polc1243,Africa,Afro-Asiatic,Nyamzak,NA,Polci_Phonemic,not on WALS,IDS
+96,170,Proto Austronesian,,Proto Austronesian [Phonemic],,NA,NA,NA,NA,NA,NA,Proto_Austronesian_Phonemic,delete,IDS
+97,171,Proto Polynesian,,Proto Polynesian [Phonemic],,NA,NA,NA,NA,NA,NA,Proto_Polynesian_Phonemic,delete,IDS
+98,173,Puinave,Puinave,Puinave [Phonemic],Puinave,pui,puin1248,South America,Puinave,Puinave,,Puinave_Phonemic,,IDS
+99,174,Qau Kelao,,Qau Kelao [Phonemic],,gqu,gela1265,NA,NA,NA,NA,Qau_Kelao_Phonemic,"not on WALS, not on Glotto",IDS
+100,175,Qawasqar,Qawasqar,Qawasqar [Phonemic],Qawasqar,alc,qawa1238,South America,Kawesqar,North Central Alacufan,,Qawasqar_Phonemic,,IDS
+101,176,Rapa Nui,Rapanui,Rapa Nui [Phonemic],Rapanui,rap,rapa1244,Pacific,Austronesian,East Nuclear Polynesian,,Rapa_Nui_Phonemic,,IDS
+102,178,"Romani, Vlax",Romani (Kalderash); Romani (Lovari),Romani [Phonemic],,NA,roma1329,NA,NA,NA,NA,Romani_Phonemic,"not on WALS, not on Glotto",IDS
+103,180,Rotuman,Rotuman,Rotuman [Phonemic],Rotuman,rtm,rotu1241,Pacific,Austronesian,Central Pacific,2 Not initial interrogative phrase,Rotuman_Phonemic,,IDS
+104,181,Russian,Russian,Russian [Phonemic],Russian,rus,russ1263,Eurasia,Indo-European,East Slavic,1 Initial interrogative phrase,Russian_Phonemic,,IDS
+105,183,Sanapaná,,Sanapaná Dialect Angaité [Phonemic],,spn,nucl1655,NA,NA,NA,NA,Sanapan�_Dialect_Angait�_Phonemic,"not on WALS, not on Glotto",IDS
+106,184,Sanapaná,,Sanapaná Dialect Enlhet [Phonemic],,spn,nucl1655,NA,NA,NA,NA,Sanapan�_Dialect_Enlhet_Phonemic,double (row 106),IDS
+107,185,Sanchong Kelao,,Sanchong Kelao [Phonemic],,NA,gela1265,NA,NA,NA,NA,Sanchong_Kelao_Phonemic,"not on WALS, not on Glotto",IDS
+108,187,Ona,Selknam,Selknam [Phonemic],Selk'nam,ona,onaa1245,South America,Chonan,Insular Chonan,,Selknam_Phonemic,,IDS
+109,188,Selkup,Selkup,Selkup [Phonemic],Selkup,sel,selk1253,Eurasia,Uralic,Samoyedic,2 Not initial interrogative phrase,Selkup_Phonemic,,IDS
+110,189,Serbo-Croatian,Serbian-Croatian,Serbo-Croatian [Phonemic],Croatian,hrv,croa1245,Eurasia,Indo-European,South-Western Slavic,,Serbo.Croatian_Phonemic,,IDS
+111,190,Seri,Seri,Seri [Phonemic],Seri,sei,seri1257,North America,Hokan,Seri,2 Not initial interrogative phrase,Seri_Phonemic,,IDS
+112,191,Shan,,Shan [Phonemic],Shan,shn,shan1277,Eurasia,Tai-Kadai,Northern Shan,,Shan_Phonemic,double,IDS
+113,192,Shan (Dialect Northern Shan),,Shan (Dialect Northern Shan) [Phonemic],,shn,shan1277,Eurasia,Tai-Kadai,Northern Shan,,Shan_Dialect_Northern_Shan_Phonemic,double,IDS
+114,193,Shipibo-Conibo,Shipibo-Konibo,Shipibo-Conibo [Phonemic],Shipibo-Conibo,shp,ship1254,South America,Panoan,Shipibo-Konibo-Kapanawa,2 Not initial interrogative phrase,Shipibo.Conibo_Phonemic,,IDS
+115,194,Siona,Siona,Siona [Phonemic],Siona,snn,sion1247,South America,Tucanoan,Siona-Secoya,,Siona_Phonemic,,IDS
+116,195,Sirionó,Sirionó,Sirionó [Phonemic],Sirion�,srq,siri1273,South America,Tupian,Siriono-Jora,1 Initial interrogative phrase,Sirion�_Phonemic,,IDS
+117,196,"Slavonic, Old Church",,Slavonic (Old Church) [Phonemic],Old Church Slavonic,chu,chur1257,Eurasia,Indo-European,Eastern South Slavic,NA,Slavonic_Old_Church_Phonemic,not on WALS,IDS
+118,197,Southern Kam,,Southern Kam [Phonemic],,NA,kami1255,NA,NA,NA,NA,Southern_Kam_Phonemic,"not on WALS, not on Glotto",IDS
+119,198,Southern Tai of Songkhla,,Southern Tai of Songkhla [Phonemic],,NA,sout2746,Eurasia,Tai-Kadai,Lao-Thai,NA,Southern_Tai_of_Songkhla_Phonemic, was thai1261 ,IDS
+120,199,Spanish,Spanish,Spanish [Phonemic],Standard Spanish,spa,stan1288,Eurasia,Indo-European,Castilic,1 Initial interrogative phrase,Spanish_Phonemic,,IDS
+121,200,Sui,,Sui [Phonemic],Sui,swi,suii1243,Eurasia,Tai-Kadai,Maonan-Mak-Sui,,Sui_Phonemic,,IDS
+122,204,Tacana,Tacana,Tacana [Phonemic],Tacana,tna,taca1256,South America,Tacanan,Takanik,1 Initial interrogative phrase,Tacana_Phonemic,,IDS
+123,205,Tai Khuen,,Tai Khuen [Phonemic],Kh�n,kkh,khun1259,Eurasia,Tai-Kadai,Southern Shan,2 Not initial interrogative phrase,Tai_Khuen_Phonemic,,IDS
+124,206,Tai Lue,,Tai Lue [Phonemic],L�,khb,luuu1242,Eurasia,Tai-Kadai,Lue-Yong,,Tai_Lue_Phonemic,,IDS
+125,208,Tehuelche,Tehuelche,Tehuelche [Phonemic],Tehuelche,teh,tehu1242,South America,Chonan,Continental Chonan,,Tehuelche_Phonemic,,IDS
+126,209,Thai (Dialect Korat),,Thai (Dialect Korat) [Phonemic],,NA,thai1261,Eurasia,Tai-Kadai,Lao-Thai,NA,Thai_Dialect_Korat_Phonemic,could be laot1235,IDS
+127,210,Thai (Standard),,Thai (Standard) [Phonemic],,NA,thai1261,Eurasia,Tai-Kadai,Lao-Thai,NA,Thai_Standard_Phonemic,another Thai,IDS
+128,212,Tlingit,Tlingit,Tlingit [Phonemic],Tlingit,tli,tlin1245,North America,Athapaskan-Eyak-Tlingit,Athapaskan-Eyak-Tlingit,,Tlingit_Phonemic,,IDS
+129,213,Toba,Toba,Toba [Phonemic],Toba,tob,toba1269,South America,Guaicuruan,Pilaga-Toba,1 Initial interrogative phrase,Toba_Phonemic,,IDS
+130,214,Tokharian A,,Tokharian A [Phonemic],Tocharian A,xto,tokh1242,Eurasia,Indo-European,Tokharian,NA,Tokharian_A_Phonemic,,IDS
+131,215,Tokharian B,,Tokharian B [Phonemic],Tocharian B,txb,tokh1243,Eurasia,Indo-European,Tokharian,NA,Tokharian_B_Phonemic,,IDS
+132,216,Tongan,Tongan,Tongan [Phonemic],Tonga (Tonga Islands),ton,tong1325,Pacific,Austronesian,Tongic,2 Not initial interrogative phrase,Tongan_Phonemic,,IDS
+133,217,Trinitario,,Trinitario [Phonemic],Trinitario,trn,trin1274,South America,Arawakan,Moxo,NA,Trinitario_Phonemic,,IDS
+134,218,Trumaí,Trumai,Trumai [Phonemic],Trumai,tpy,trum1247,South America,Trumai,Trumai,1 Initial interrogative phrase,Trumai_Phonemic,,IDS
+135,222,Tsimshian,Tsimshian (Coast),Tsimshian [Phonemic],Nuclear Tsimshian,tsi,nucl1649,North America,Tsimshian,Tsimshian,2 Not initial interrogative phrase,Tsimshian_Phonemic,,IDS
+136,223,Tuamotuan,Tuamotuan,Tuamotuan [Phonemic],Tuamotuan,pmt,tuam1242,Pacific,Austronesian,Tahitic,,Tuamotuan_Phonemic,,IDS
+137,224,Tuyuca,Tuyuca,Tuyuca [Phonemic],Tuyuca,tue,tuyu1244,South America,Tucanoan,Tuyuca-Yuruti,,Tuyuca_Phonemic,,IDS
+138,226,Udmurt,Udmurt,Udmurt [Phonemic],Udmurt,udm,udmu1245,Eurasia,Uralic,Permian,,Udmurt_Phonemic,,IDS
+139,227,Waiwai,Wai Wai,Wai Wai [Phonemic],Waiwai,waw,waiw1244,South America,Cariban,Nuclear Waiwaian,,Wai_Wai_Phonemic,,IDS
+140,228,Waorani,Waorani,Waorani [Phonemic],Waorani,auc,waor1240,South America,Waorani,Waorani,,Waorani_Phonemic,,IDS
+141,229,Wapishana,Wapishana,Wapishana [Phonemic],Wapishana,wap,wapi1253,South America,Arawakan,Wapishanan,,Wapishana_Phonemic,,IDS
+142,230,Waurá,Waurá,Waurá [Phonemic],Waur�,wau,waur1244,South America,Arawakan,Waura-Mehinaku,,Waur�_Phonemic,,IDS
+143,231,Wayampi,Wayampi,Wayampi [Phonemic],Wayampi,oym,waya1270,South America,Tupian,Wayampi-Zoe-Emerillon,1 Initial interrogative phrase,Wayampi_Phonemic,,IDS
+144,233,Wichí Lhamtés Güisnay,Wichí,Wichí [Phonemic],Wich� Lhamt�s G�isnay,mzh,wich1264,South America,Matacoan,Wichi,1 Initial interrogative phrase,Wich�_Phonemic,,IDS
+145,234,Yámana,Yahgan,Yagán [Phonemic],Y�mana,yag,yama1264,South America,Y�mana,Y�mana,,Yag�n_Phonemic,,IDS
+146,235,Yagua,Yagua,Yagua [Phonemic],Yagua,yad,yagu1244,South America,Peba-Yagua,Peba-Yagua,1 Initial interrogative phrase,Yagua_Phonemic,,IDS
+147,236,Yaminahua,Yaminahua,Yaminahua [Phonemic],Yaminahua,yaa,yami1256,South America,Panoan,Yaminawa Complex,,Yaminahua_Phonemic,,IDS
+148,237,Yanomámi,Yanomámi,Yanomámi [Phonemic],Yanom�mi,wca,yano1262,South America,Yanomam,Yanomami-Yanimamo,,Yanomámi_Phonemic,,IDS
+149,238,Pumé,Yaruro,Yaruro [Phonemic],Pum�,yae,pume1238,South America,NA,NA,,Yaruro_Phonemic,,IDS
+150,239,Yavitero,,Yavitero [Phonemic],Yavitero,yvt,yavi1244,South America,Arawakan,Inland Northern Maipuran,NA,Yavitero_Phonemic,,IDS
+151,240,"Yiddish, Eastern",Yiddish,Yiddish [Phonemic],Eastern Yiddish,ydd,east2295,Eurasia,Indo-European,Yiddish,,Yiddish_Phonemic,,IDS
+152,241,Yuwana,,Yuwana [Phonemic],Yuwana,yau,yuwa1244,South America,NA,NA,NA,Yuwana_Phonemic,,IDS
+153,242,Zhuang-Longzhou,,Zhuang-Longzhou [Phonemic],Minz Zhuang,zgm,minz1236,Eurasia,Tai-Kadai,Debao-Jingxi-Nung,NA,Zhuang.Longzhou_Phonemic,not on WALS,IDS
+154,243,Zuni,Zuni,Zuni [Phonemic],Zuni,zun,zuni1245,North America,Zuni,Zuni,1 Initial interrogative phrase,Zuni_Phonemic,,IDS
+,,Archi,,,,aqc,arch1244,Eurasia,Nakh-Daghestanian,Daghestanian,2 Not initial interrogative phrase,,,WOLD
+,,Bezhta,,,,kap,bezh1248,Eurasia,Nakh-Daghestanian,Daghestanian,NA,,,WOLD
+,,Ceq Wong,,,,cwg,chew1245,Eurasia,Austroasiatic,,,,found as Chewong,WOLD
+,,Dutch,,,,nld,dutc1256,Eurasia,Indo-European,Modern Dutch,,,,WOLD
+,,English,,,,eng,stan1293,Eurasia,Indo-European,Germanic,1 Initial interrogative phrase,,,WOLD
+,,Gawwada,,,,gwd,gaww1239,Africa,Afro-Asiatic,Dullay,,,in WALS Dullay (Gollango),WOLD
+,,Gurindji,,,,gue,guri1247,Australia,Australian,Pama-Nyungan,,,not on Glotto,WOLD
+,,Hausa,,,,hau,haus1257,Africa,Afro-Asiatic,Chadic,3 Mixed,,in IDS,WOLD
+,,Hawaiian,,,,haw,hawa1245,Pacific,Austronesian,Central East Nuclear Polynesian,2 Not initial interrogative phrase,,in IDS,WOLD
+,,Hup,,,,jup,hupd1244,South America,Nadahup,Nadahup,1 Initial interrogative phrase,,Hupde in Glotto,WOLD
+,,Imbabura Quechua,,,,qvi,imba1240,South America,Quechua,Quechua,1 Initial interrogative phrase,,Quechua (Imbabura) in WALS,WOLD
+,,Indonesian,,,,ind,indo1316,,,,3 Mixed,,,WOLD
+,,Iraqw,,,,irk,iraq1241,,,,2 Not initial interrogative phrase,,,WOLD
+,,Japenese,,,,jpn,nucl1643,,,,2 Not initial interrogative phrase,,,WOLD
+,,Kali'na,,,,car,gali1262,,,,,, in wals Galibi Carib ,WOLD
+,,Kanuri,,,,knc,cent2050,,,,1 Initial interrogative phrase,,,WOLD
+,,Ket,,,,ket,kett1243,,,,2 Not initial interrogative phrase,,Kildin Sami in Glotto,WOLD
+,,Kildin Saami,,,,sjd,kild1236,,,,,,,WOLD
+,,Lower Sorbian,,,,dsb,lowe1385,,,,,,,WOLD
+,,Malagasy,,,,plt,plat1254,,,,1 Initial interrogative phrase,,,WOLD
+,,Manange,,,,nmm,mana1288,,,,,,,WOLD
+,,Mandarin Chinese,,,,cmn,mand1415,,,,2 Not initial interrogative phrase,,,WOLD
+,,Mapudungun,,,,arn,mapu1245,,,,2 Not initial interrogative phrase,,in IDS,WOLD
+,,Old High German,,,,goh,oldh1241,,,,,,not on WALS,WOLD
+,,Oroqen,,,,orh,oroq1238,,,,,,not on WALS,WOLD
+,,Otomi,,,,ote,mezq1235,,,,1 Initial interrogative phrase,,Many Otomi variations on Glotto,WOLD
+,,Q'eqchi',,,,kek,kekc1242,,,,,,"Kekchi in Glotto, K'ekch� in WALS",WOLD
+,,Romanian,,,,ron,roma1327,,,,1 Initial interrogative phrase,,,WOLD
+,,Sakha,,,,sah,yaku1245,,,,,,Yakut in Glotto and WALS,WOLD
+,,Saramaccan,,,,srm,sara1340,,,,,,,WOLD
+,,Selice Romani,,,,rmc,west2376,,,,,,,WOLD
+,,Seychelles Creole,,,,crs,sese1246,,,,,,Seselwa Creole French in Glotto,WOLD
+,,Swahili,,,,swh,swah1253,,,,2 Not initial interrogative phrase,,,WOLD
+,,Takia,,,,tbc,taki1248,,,,,,"Tarifit in Glotto, Berber in WALS",WOLD
+,,Tarifiyt Berber,,,,rif,tari1263,,,,1 Initial interrogative phrase,,,WOLD
+,,Thai,,,,tha,thai1261,,,,,,,WOLD
+,,Vietnamese,,,,vie,viet1252,,,,2 Not initial interrogative phrase,,,WOLD
+,,White Hmong,,,,mww,hmon1333,,,,,,Hmong Daw in WOLD,WOLD
+,,Wichí,,,,mzh,wich1264,,,,1 Initial interrogative phrase,,Wich� Lhamt�s G�isnay in Glotto,WOLD
+,,Yaqui,,,,yaq,yaqu1251,,,,2 Not initial interrogative phrase,,,WOLD
+,,Zinacantán Tzotzil,,,,tzz,tzot1259,,,,,,not on Glotto,WOLD
+,,Hindi,,,,hin,hind1269,,,,2 Not initial interrogative phrase,Hindi_IDS.csv,,Spraakbanken
+,,Marathi,,,,mar,mara1378,,,,2 Not initial interrogative phrase,Marathi_IDS.csv,,Spraakbanken
+,,Telugu,,,,tel,telu1262,,,,2 Not initial interrogative phrase,Telugu_IDS.csv,,Spraakbanken
+,,Bengali,,,,ben,beng1280,,,,,Bengali_IDS.csv,,Spraakbanken
+,,Panjabi,,,,pan,panj1256,,,,2 Not initial interrogative phrase,Punjabi_IDS.csv,,Spraakbanken
+,,Khasi,,,,kha,khas1269,,,,2 Not initial interrogative phrase,Khasi_IDS.csv,,Spraakbanken
+,,Tamil,,,,tam,tami1289,,,,2 Not initial interrogative phrase,Tamil_IDS.csv,,Spraakbanken
+,,Nepali,,,,nep,nepa1252,,,,2 Not initial interrogative phrase,Nepali_IDS.csv,,Spraakbanken
+,,Tibetan,,,,bod,tibe1272,,,,,Tibetan_IDS.csv,,Spraakbanken
+,,Kotgarhi,,,,bfz,maha1287,,,,,Kotgarhi_IDS.csv,in glotto Mahasu Pahari ,Spraakbanken
+,,Hungarian,,,,hun,hung1274,,,,2 Not initial interrogative phrase,Hungarian_Phonemic,,IDS
+,,Muisca,,,,chb,chib1270,,,,,Muisca_Phonemic,,IDS
+,,Yanomami,,,,wca,yano1262,,,,,Yanom�mi_Phonemic,,IDS
+,,Jaru,,,,ddj,jaru1254,,,,1 Initial interrogative phrase,,Djaru in WALS,WOLD
+,,Upper Sorbian,,,,hsb,uppe1395,,,,,,,
+,,Balinese,,,,ban,bali1278,,,,,,,
+,,Old Norse,,,,non,oldn1244,,,,,,Not on WALS,
+,,Czech,,,,ces,czec1258,,,,2 Not initial interrogative phrase,,,
+,,Lao,,,,lao,laoo1244,,,,2 Not initial interrogative phrase,,,
+,,Georgian,,,,kat,nucl1302,,,,2 Not initial interrogative phrase,,Modern Georgian on Wals,
+,,Wardaman,,,,wrr,ward1246,,,,2 Not initial interrogative phrase,,,
+,,Slovak,,,,slk,slov1269,,,,,,,
+,,Italian,,,,ita,ital1282,,,,1 Initial interrogative phrase,,,
+,,Konso,,,,kxc,kons1243,,,,,,Not on WALS,
+,,Amharic,,,,amh,amha1245,,,,2 Not initial interrogative phrase,,,
+,,Miriwung,,,,mep,miri1266,,,,,,,
+,,Serbian,,,,srp,serb1264,,,,,,Serbo-Croatian in WALS,
+,,Sundanese,,,,sun,sund1252,,,,2 Not initial interrogative phrase,,,
+,,Jaminjung,,,,djd,djam1255,,,,,,,
+,,Portuguese,,,,por,port1283,,,,,,,
+,,Middle Chinese,,,,ltc,midd1344,,,,,,Not on WALS,
+,,Javanese,,,,jav,java1254,,,,,,,
+,,Sranan,,,,srn,sran1240,,,,,,Sranana Tongo on Glotto,
+,,Greek,,,,ell,mode1248,,,,1 Initial interrogative phrase,,,
+,,Tok Pisin,,,,tpi,tokp1240,,,,,,,
+,,Avar,,,,ava,avar1256,,,,2 Not initial interrogative phrase,,,
+,,Malay,,,,zsm,stan1306,,,,,,,
+,,Sanskrit,,,,san,sans1269,,,,,,Not on WALS,
+,,Arabic (Moroccan),,,,ary,moro1292,,,,,,,
+,,French,,,,fra,stan1290,,,,1 Initial interrogative phrase,,,
+,,Arabic,,,,arb,stan1318,,,,,,,

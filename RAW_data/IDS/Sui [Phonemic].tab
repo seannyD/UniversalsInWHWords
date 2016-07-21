@@ -1,0 +1,1311 @@
+entry_id	trans_english	Sui_Phonemic
+1.1	world	te.3 ʔbən.1; si.1 kaj.1
+1.21	earth, land	ta.5 ti.6
+1.212	earth=ground, soil	nda:i.5; hum.5
+1.213	dust	wan.1 con.2
+1.214	mud	ʔboŋ.5
+1.215	sand	khin.3; nde.1
+1.22	mountain, hill	nu.2; pja.1
+1.222	cliff, precipice	khan.5 ćhin.3; khan.5 pja.1
+1.23	plain, field	nda:i.5 pjeŋ.2; ta.5 pjeŋ.2
+1.24	valley	cum.2 nu.2; qhoi.3 nu.2
+1.25	island	ta.5 ti.6
+1.26	mainland	faŋ.5 ʔnja.1
+1.27	shore	qa:m.1
+1.28	cave	nam.3
+1.31	water	ha:i.3
+1.32	sea	pjeŋ.2
+1.322	calm (of sea)	fuk.8
+1.323	rough (of sea)	ha:i.3
+1.324	foam	fu.4; ndam.1
+1.329	ocean	poŋ.4
+1.33	lake	qam.4 nam.3
+1.34	gulf, bay	ndja:p.7 nam.3
+1.341	lagoon	ʔnja.1; kui.3; ʔnja:ŋ.1
+1.342	reef	nam.3 cjap.7 cjun.2
+1.343	headland, point	ʔbən.5 nam.3; ʔbən.5
+1.35	wave	ʔdoŋ.1
+1.352	tide	mai.4
+1.353	lowtide	mai.4; quŋ.2 mai.4
+1.354	hightide	tin.2
+1.36	river, stream, brook	tin.2 kon.3; tin.2 nde.1
+1.362	whirlpool	ʔbən.1
+1.37	spring, well	nda.1 wan.1
+1.38	swamp	njen.2
+1.39	waterfall	zət.7
+1.41	woods, forest	ʔbən.1 la:p.7; ʔba.3 la:p.7
+1.42	tree (cf 08.600)	qum.4 ʔńa.3
+1.43	wood	qum.4 ʔńa.3
+1.44	stone, rock	wa.3 ljap.7; lap.7 wa.3
+1.45	earthquake	kha:ŋ.5 fən.1 la:u.4
+1.51	sky	ka.1 cje.1 nam.3
+1.52	sun	śa:ŋ.1
+1.53	moon	ndiŋ.5
+1.54	star	ʔdjam.5; tak.7 tau.1; ta.5 tau.1
+1.55	lightning	nam.3 ńi.2
+1.56	thunder	lo.5
+1.57	lightning (as striking)	lom.1; kha:ŋ.5
+1.58	storm	fa.3
+1.59	rainbow	mon.1
+1.61	light (noun)	fən.1
+1.62	darkness	ʔnui.1
+1.63	shade, shadow	ʔnui.1 śu.1
+1.64	dew	tin.2 śi.3
+1.71	air	wan.1
+1.72	wind	wi.1
+1.73	cloud	ma.2 wi.1
+1.74	fog	kwan.2
+1.75	rain (noun)	wuk.7; uk.7 ʔniŋ.1
+1.76	snow (noun)	ta:u.3; sut.7
+1.77	ice	ta:u.3; sut.7
+1.78	weather	sa:u.5 wi.1; lin.1 wi.1; ʔnjok.7 wi.1
+1.81	fire	ʔdap.7 wi.1
+1.82	flame (noun)	ja:ŋ.4 ho.6; ho.6 cha:i.4
+1.83	smoke (noun)	ndjət.7
+1.84	ashes	tha:n.1
+1.841	embers	zən.1; ʔai.3
+1.851	burn (vb trans)	zən.1 mba:n.1; ʔai.3 mba:n.1; mba:n.1
+1.852	burn (vb intrans)	ni.4 ʔbja:k.7
+1.86	light, kindle, ignite	mba:n.1
+1.861	extinguish	ni.4; ʔbja:k.7
+1.87	match (noun)	la:k.8 mba:n.1; la:k.8 ti.3 mba:n.1
+1.88	firewood	la:k.8 mba:n.1
+1.89	charcoal	la:k.8 ʔbja:k.7
+2.1	person, human being	la:k.8 ti.3
+2.21	man (vs. woman)	la:k.8 ka:u.3 fja.3; nu.4 ti.3
+2.22	woman	ʔɣe.1; ʔai.3 mba:n.1
+2.23	male	śa.3; ni.4 ʔbja:k.7
+2.24	female	ju.5 śa.1; tu.3 ʔa:u.1
+2.25	boy	ju.5 śa.3
+2.251	young man (adolescent)	li.4 fən.3; phu:t.7
+2.26	girl	pu.4
+2.261	young woman (adolescent)	ni.4
+2.27	child	pu.4 ni.4
+2.28	infant, baby	mba:n.1; ʔa;.3 mba:n.1
+2.31	husband	ni.4; ni.4 ʔbja:k.7
+2.32	wife	la:k.8
+2.33	marry	la:k.8 ʔbja:k.7
+2.34	marriage, wedding	la:k.8; zən.1 ti.6 lən.2
+2.341	divorce	fa:i.4 nu.4
+2.35	father	fa:i.4
+2.36	mother	nu.4
+2.37	parents	fe.2 nu.4
+2.38	married man	fe.2
+2.39	married woman	nu.4
+2.41	son	fa:i.4 nu.4 fe.2 nu.4
+2.42	daughter	la:k.8 qa.3 piŋ.5
+2.43	offspring (son or daughter)	qoŋ.5
+2.44	brother	ʔai.3 qa:u.5 mbe.1; ʔai.3 će.5; ʔai.3 la:u.4
+2.444	older brother	ja.4
+2.445	younger brother	ja.4
+2.45	sister	ha:n.1
+2.454	older sister	ha:n.1 hek.7
+2.455	younger sister	pu.4 ti.3; pu.4 la:u.4; luŋ.2; cu.2
+2.456	sibling	luŋ.2
+2.458	twins	pu.4 la:u.4; luŋ.2
+2.46	grandfather	pa.3; ni.4 ti.3
+2.461	old man	pa.3; fai.6
+2.47	grandmother	pa.3
+2.471	old woman	la:k.8 mba:n.1 fa:i.4; la:k.8 mba:n.1 nu.4
+2.48	grandson	la:k.8 ʔbja:k.7 fa:i.4; la:k.8 ʔbja:k.7 nu.4
+2.49	granddaughter	fa:i.4 nu.4 pja:u.6; fe.2 nu.4 pja:u.6
+2.51	uncle	qoŋ.5 kon.5
+2.511	mother's brother	zən.1 ti.6 lən.2
+2.512	father's brother	qoŋ.5 ta.1
+2.52	aunt	pu.4
+2.521	mother's sister	ni.4 te.1
+2.522	father's sister	ni.4
+2.53	nephew	ha:u.4; la:k.8 ha:u.4
+2.54	niece	ha:u.4; la:k.8 ha:u.4
+2.55	cousin	śa.3 la:k.8
+2.56	ancestors	śa.3 la:k.8
+2.57	descendants	pu.4 lən.2
+2.61	father-in-law (of a man)	ni.4 lən.2
+2.611	father-in-law (of a woman)	la:k.8 ʔum.3; la:k.8 kuk.7
+2.62	mother-in-law (of a man)	la:k.8 ʔbja:k.7 ʔum.3
+2.621	mother-in-law (of a woman)	la:k.8 qun.3
+2.63	son-in-law (of a man)	ni.4 qun.3
+2.631	son-in-law (of a woman)	ʔai.3 qun.3
+2.64	daughter-in-law (of a man)	hek.7
+2.641	daughter-in-law (of a woman)	ɣa:n.2
+2.71	stepfather	ju.2
+2.72	stepmother	ńa.2
+2.73	stepson	man.1
+2.74	stepdaughter	ndiu.1; ćin.1 ndju.1
+2.75	orphan	ćin.1 nda:u.1; nda:u.1
+2.76	widow	ndiu.1; ćin.1 ndju.1
+2.77	widower	ɣa.2 ju.2; ɣa.2 ju.2
+2.81	relatives, kinsmen	sa:u.1; ćin.1 sa:u.1
+2.82	family	ɣa.2 sa:u.1
+2.91	I	ćin.1 man.1; qa.3 man.1
+2.92	you (singular)	na:n.4 ta.3
+2.93	he/she/it	pui.1; hai.3; tak.8; kuŋ.3
+2.94	we	ni.4; ka:ŋ.3; hai.5; luŋ.3
+2.941	we (inclusive)	to.2 seŋ.1
+2.942	we (exclusive)	mu.2 cha:ŋ.4
+2.95	you (plural)	ʔai.3 hoŋ.5 po.4 / ʔai.3 hoŋ.5 fa.2
+2.96	they	ɣuŋ.6 ma.4
+3.11	animal	seŋ.1
+3.12	male (adj)	kui.2 tak.8; po.4 tak.8
+3.13	female (adj)	po.4
+3.15	livestock	ni.4 po.4; hai.5 po.4
+3.16	pasture	la:k.8 po.4
+3.18	herdsman	kui.2
+3.19	stable, stall	fa.2
+3.2	cattle (bovine)	tak.8 fa.2
+3.21	bull	ni.4 fa.2; hai.5 fa.2
+3.22	ox	fa.2 ʔa:u.1 cən.1
+3.23	cow	mhu.5 pui.1
+3.24	calf	ni.4 mhu.5; hai.5
+3.25	sheep	mhu.5
+3.26	ram	pja.4
+3.28	ewe	tak.8 pja.4
+3.29	lamb	la:k.8 pja.4
+3.32	boar	ma.4
+3.34	sow	tak.8 ma.4
+3.35	pig	ni.4 ma.4; ma.2 hai.5
+3.36	goat	la:k.8 ma.4
+3.37	he-goat	li.2
+3.38	kid	lo.2
+3.41	horse (equine)	qa:i.5 hai.3; hai.3 qa:i.5
+3.42	stallion	ni.4 qa:i.5; ra:ŋ.5 qa:i.5
+3.44	mare	qa:i.5
+3.45	foal, colt	ŋa:n.6
+3.46	ass, donkey	ŋa.2
+3.47	mule	hən.1; kuŋ.1
+3.5	fowl	nok.8
+3.52	cock, rooster	qok.7
+3.54	hen	jeu.2; ńa:u.2
+3.55	chicken	ljam.6
+3.56	goose	fuŋ.3 cən.3
+3.57	duck	qo.2
+3.58	nest	nok.8 jin.3 wu.5
+3.581	bird	qa.2
+3.582	seagull	pau.2 ta.3
+3.583	heron	pau.2
+3.584	eagle	qau.1 meu.4
+3.585	hawk	ʔjən.5
+3.586	vulture	nok.8 mjən.2; nok.8 khuŋ.6 ćho.2
+3.591	bat	quk.7
+3.592	parrot	ma.1
+3.593	crow	thu.5 ja.1; pja.4 ja.2
+3.594	dove	ći.6 ljən.6; to.2 ljən.6
+3.596	owl	peu.5
+3.61	dog	mum.4
+3.614	rabbit	meu.4
+3.62	cat	cai.2
+3.622	opossum	nho.3
+3.63	mouse, rat	mom.6
+3.65	fish	wi.1 mom.6
+3.652	fin (dorsal)	ʔdjən.5 mom.6
+3.653	fishscale	ʔńa:k.7 mom.6
+3.654	gill	qum.4 qhui.1 pa:u.4
+3.655	shell	ka:m.6
+3.661	shark	ʔńoŋ.5
+3.662	porpoise, dolphin	mom.6 ćin.3 wi.4
+3.663	whale	liu.6
+3.664	stingray	qha.1 laŋ.5
+3.665	freshwater eel	sɨ.3 cɨ.6
+3.71	wolf	ʔmi.1
+3.72	lion	cai.2; fu.5 li.4
+3.73	bear	nho.3 ca:ŋ.2
+3.74	fox	ʔbin.3
+3.75	deer	ʔbja:n.3
+3.76	monkey	sɨ.3 ja:ŋ.2
+3.77	elephant	mon.6
+3.78	camel	ca:ŋ.4
+3.81	insect	śu.3 ca:ŋ.4
+3.811	louse	lo.4 tho.4
+3.812	nit (louse egg)	nui.2
+3.813	flea	nan.2; mbjan.1
+3.814	centipede	kai.5 nan.2
+3.815	scorpion	mhat.7
+3.816	cockroach	ta.1 khup.7; to.6 khup.7
+3.817	ant	ta.1 kit.8 li.6
+3.818	spider	ʔda:p.7
+3.819	spider web	mət.8
+3.82	bee	ɣo.1
+3.821	beeswax	fa.3 ɣo.1
+3.822	beehive	luk.8
+3.823	wasp	ndja:k.7
+3.83	fly	fa.3 luk.8
+3.831	sandfly (midge), gnat	lu.1
+3.832	mosquito	mət.8 pa:k.8
+3.84	worm	lja:n.3; lja:n.3 qen.5
+3.85	snake	lja:n.3; lja:n.3 ŋwa:ŋ.6
+3.91	firefly	ne.4; ne.4 koŋ.5
+3.92	butterfly	nui.2
+3.93	grasshopper	mhən.3; ʔnun.1
+3.94	snail	to.2 ńi.6 ńot.8
+3.95	frog	ki.3
+3.96	lizard	mbi.3
+3.97	crocodile, alligator	miŋ.2
+3.98	turtle	hui.2; fui.2
+4.11	body	śaŋ.5; śai.2
+4.12	skin, hide	ʔni.3 ʔniŋ.3; ʔnjak.7 ʔniŋ.3
+4.13	flesh	ʔba.3
+4.14	hair (head)	ŋwa:ŋ.6; ʔdja:k.7 ʔau.1
+4.142	beard	qhui.1
+4.144	body hair	qup.7
+4.145	pubic hair	hui.2 sim.3
+4.146	dandruff	tja:u.5 ʔdoŋ.1
+4.15	blood	ndən.1
+4.151	vein, artery	pi.2
+4.16	bone	na:n.4
+4.162	rib	pjam.2; pjam.2 qam.4
+4.17	horn	njut.8
+4.18	tail	cən.1 nhon.5; cən.1 ljup.7
+4.19	back	kip.7 za:i.1 qam.4
+4.191	spine	ljup.7
+4.2	head	phja:t.7
+4.201	side of head, temple	jin.1 phja:t.7
+4.202	skull	jin.1
+4.203	brain	la:k.7
+4.204	face	ʔńui.1 la:k.7
+4.205	forehead	la:k.7 khət.7; la:k.7 hət.7
+4.207	jaw	pa:u.1
+4.208	cheek	hət.8
+4.209	chin	la:i.1
+4.21	eye	la:i.1
+4.212	eyebrow	qam.4
+4.213	eyelid	tha:i.1 ja:ŋ.4 ćin.3
+4.214	eyelash	qam.4
+4.215	blink	ʔńui.1 qam.4
+4.22	ear	ʔna.3
+4.221	earlobe	ta.5 pja:k.7; pa:u.1 qam.4
+4.222	earwax	ćem.2 ka:ŋ.1; ńa:k.7
+4.23	nose	ʔna.3
+4.231	nostril	ka:ŋ.1 te.3
+4.232	mucus (nasal)	nda.1
+4.24	mouth	mo.4 nda.1; miŋ.2
+4.241	beak	min.2 nda.1
+4.25	lip	min.2 nda.1
+4.26	tongue	ʔjap.7 nda.1
+4.27	tooth	qha.1
+4.271	gums	ńoŋ.6 qha.1
+4.272	molartooth	qe.4 qha.1
+4.28	neck	ʔnaŋ.1
+4.281	nape of neck	cum.2 ʔnaŋ.1
+4.29	throat	muk.8
+4.3	shoulder	pa:k.7
+4.301	shoulderblade	wi.5 pa:k.7; win.5 pa:k.7
+4.302	collarbone	ma.2
+4.31	arm	wjan.1
+4.312	armpit	śu.3 ca:ŋ.4; ʔńa:k.7 wjan.1
+4.32	elbow	wjan.1 ʔduŋ.3
+4.321	wrist	qo.4
+4.33	hand	hau.5 lən.2; qa.3 hau.5
+4.331	palm of hand	qo.6
+4.34	finger	ha.1; ʔu.1 ha.1
+4.342	thumb	la:k.7 ha.1
+4.344	fingernail	ćhin.1
+4.345	claw	te.3 ha:k.7
+4.35	leg	ta:u.4 ćhin.1; kuŋ.4 ćhin.1
+4.351	thigh	qo.4 ćhin.1; qo.4 mja.1
+4.352	calf of leg	mja.1
+4.36	knee	fa:n.3 mja.1
+4.37	foot	toŋ.1
+4.371	ankle	ni.4 toŋ.1
+4.372	heel	ljap.7 mja.1
+4.374	footprint	sim.3
+4.38	toe	pa.1
+4.392	wing	pa.1 la:u.4
+4.393	feather	ćit.7; ćau.4
+4.4	chest	qam.4 qu.5
+4.41	breast (of woman)	tin.1
+4.412	nipple, teat	joŋ.5 pa.1 joŋ.5 ćhin.1
+4.42	udder	śoŋ.1 tin.1
+4.43	navel	ɣui.2 tin.1
+4.44	heart	la:k.8 tin.1
+4.441	lung	wa.5
+4.45	liver	cən.1
+4.451	kidney	tak.7
+4.452	spleen	tiu.4
+4.46	stomach	qam.4 tiu.4
+4.461	intestines, guts	ha:i.4 ʔdua.1
+4.462	waist	śim.1
+4.463	hip	put.7
+4.464	buttocks	tap.7
+4.47	womb	lam.1 ja:u.3
+4.49	testicle	ljem.4 thje.2
+4.492	penis	ʔdo.5
+4.51	breathe, breath	loŋ.2
+4.52	yawn, gape	lam.1 loŋ.2
+4.521	hiccough	ha:i.4
+4.53	cough	ndən.1; lam.1 ja:u.3
+4.54	sneeze	ʔnum.5
+4.55	perspire	ʔnum.5 qe.4; cɨ.3 qe.3
+4.56	spit	cum.2 qe.4
+4.57	vomit	pje.1
+4.58	bite	tit.7; ńui.6 tit.7
+4.59	lick	qoŋ.6 peu.4
+4.591	dribble	lo.5; ʔa:u.1 lo.3
+4.61	sleep	kho.1
+4.612	snore	ʔək.7; ʔnam.3
+4.62	dream	khau.5 ɣuk.8
+4.63	wake up	jan.5
+4.64	break wind	ljuk.7
+4.65	urinate	re.1; re.1 tiu.3
+4.66	defecate	ći.2 re.1 tiu.3
+4.67	have sexual intercourse	kun.5
+4.68	shiver	ćit.8
+4.69	bathe	lin.5 ma.2
+4.71	beget (of father)	lja:k.7
+4.72	born (to be)	lo/6 śu.1
+4.73	pregnant	nun.2
+4.732	conceive	fa:n.2
+4.74	live, living, life	wjan.1
+4.75	die, dead	lju.1
+4.751	drowned	lin.5
+4.76	kill	tət.7
+4.77	corpse	ʔniu.5
+4.78	bury (the dead)	qe.4
+4.79	grave, tomb	tu.3 tiŋ.1; tu.3 qa:k.7
+4.81	strong, mighty, powerful	kau.5; ʔbja:n.3
+4.82	weak	he.4 ʔa:p.7
+4.83	well, health	ha:ŋ.4
+4.84	sick, sickness	ha:ŋ.4
+4.841	fever	thjak.7 la:k.8
+4.842	goiter	thjak.7 la:k.8
+4.843	cold (catarrh)	śu.3; ha:ŋ.4 pa:k.7
+4.85	wound, sore	tai.1
+4.852	bruise	ʔjum.5 tai.1
+4.853	swelling	ha.3
+4.854	itch	ha:i.2
+4.855	blister	ha:ŋ.5
+4.856	boil (noun)	fən.2
+4.857	pus	lik.8 lui.2; han.5
+4.858	scar	tjoŋ.5; weak
+4.86	cure, heal	ʔdai.1
+4.87	physician	pjeŋ.5; ćit.7
+4.88	medicine, drug	sut.7 na:n.4
+4.89	poison	je.1
+4.91	tired, weary	ʔńit.7 nho.1
+4.912	rest	ndaŋ.5 loŋ.2
+4.92	lazy	lan.5; tja:ŋ.3 te.5
+4.93	bald	pu.1; cum.2 lan.5
+4.94	lame	pu.1
+4.95	deaf	pu.1; ćit.8
+4.96	mute	tum.5 nam.3
+4.97	blind	lum.5; kət.7
+4.98	intoxicated	sok.8
+4.99	naked, bare	cum.2 lan.5
+5.11	eat	ho.4 ha.2
+5.12	food	zən.1 ho.4 ha.2; ʔai.3 ha:ŋ.6 qau.5 sja.3
+5.121	cooked	ha.2
+5.122	raw	ha.2 tu.2
+5.123	ripe	ho.4 ha.2 tu.2
+5.124	green, unripe	fe.3; ʔne.5
+5.125	rotten	lwa.5; lwa.5 ʔji.1
+5.13	drink	hət.7
+5.14	hunger	qam.4 lo.4
+5.141	famine	ʔdak.7
+5.15	thirst	khip.7 lo.5
+5.16	suck	ko.4; ʔmət.7
+5.18	chew	tjaŋ.5
+5.181	swallow	tu.3 lja:n.3
+5.19	choke	cje.1
+5.21	cook	ʔdən.3; ʔau.; qeŋ.1
+5.22	boil (vb)	sok.8
+5.23	roast, fry	ʔdjəp.7
+5.24	bake	sok.8
+5.25	oven	śu.1; mi.4 sok.8
+5.26	pot, cooking vessel	ran.2
+5.27	kettle	ɣəm.4
+5.28	pan	ʔja:k.7
+5.31	dish	siu.5 pa:k.7
+5.32	plate	śut.7
+5.33	bowl	mha:k.7; ma.6
+5.34	pitcher, jug	ʔdan.1
+5.35	cup, drinking vessel	hok.7
+5.36	saucer	śuŋ.1
+5.37	spoon	pja:u.6
+5.38	knife	sa:u.3
+5.39	fork	phja:u.1; kha:ŋ.1
+5.391	tongs	lu.4
+5.41	meal (a)	ceŋ.6
+5.42	breakfast	peŋ.2 cja.2
+5.43	lunch	tjep.8
+5.44	dinner	pon.2
+5.45	supper	tui.4
+5.46	peel	peŋ.2
+5.47	sieve, strain	cuŋ.1
+5.48	scrape	tjep.8
+5.49	stir, mix	ʔbja:i.5 te.3
+5.51	bread	mit.8
+5.53	dough	sa.1
+5.54	knead	ćem.2
+5.55	meal, flour	ʔau.4
+5.56	crush, grind	ʔau.4 śət.7
+5.57	mill	ʔau.4 wan.1
+5.58	mortar	ʔau.4 ʔńam.5
+5.59	pestle	mut.8; ɣut.8
+5.61	meat	pən.6; ɣu.2
+5.63	sausage	kot.8; fut.7
+5.64	soup, broth	qeu.2; jon.1
+5.65	vegetables	jon.1 fa.6 ʔau.4 mo.6
+5.66	bean	fa.6 ʔau.4 mo.6
+5.7	potato	ha:k.7
+5.71	fruit	ńen.6
+5.712	bunch	fan.5; pan.5
+5.75	fig	kwən.6 ńen.6
+5.76	grape	cəm.2 kəm.1
+5.77	nut	ndən.1 kum.1; kum.1
+5.78	olive	na:n.4
+5.79	oil	ca:u.5 ʔjen.3
+5.791	grease, fat	lu.5
+5.81	salt	ʔma.1
+5.82	pepper	fak.7 to.6
+5.821	chili pepper	qam.2 to.2
+5.84	honey	lja:n.5; lam.2 lja:n.5
+5.85	sugar	ʔŋa.1
+5.86	milk (noun)	siŋ.1
+5.87	milk (vb)	kwa.1 tjeŋ.1
+5.88	cheese	ća.6
+5.89	butter	jo:ŋ.4 wi.1; man.2 ha:n.3
+5.9	beverage, drink	lam.1; kai.2
+5.91	mead	ndja:n.5; koŋ.2
+5.92	wine	ʔit.7
+5.93	beer	toi.5
+5.94	fermented drink	jau.4
+5.97	egg	man.2
+5.971	egg yolk	pi.2
+6.11	put on (clothes)	na:u.2
+6.12	clothing, clothes	ʔdwa.1
+6.13	tailor	fu.4 cja:u.3
+6.21	cloth	ta:ŋ.2 luk.8
+6.22	wool	ta:ŋ.2
+6.23	linen, flax	tiu.4
+6.24	cotton	pan.3
+6.25	silk	ha:u.3 ʔit.7
+6.27	felt	ha:u.3 phi.4 ciu.6
+6.28	fur	kai.5
+6.29	leather	ʔńui.1 mha:n.3
+6.31	spin	tan.3
+6.32	spindle	ʔduk.7
+6.33	weave	tak.8 tip.7 ʔduk.7; ni.4 tip.7 ʔduk.7
+6.34	loom	ʔja.1
+6.35	sew	ma:u.4
+6.36	needle	ra:n.1; ha.1
+6.37	awl	fa:i.5; mjon.2
+6.38	thread	min.2; qa:u.3
+6.39	dye	zuŋ.4
+6.41	cloak	cən.1
+6.411	poncho	pi.2
+6.42	woman's dress	jat.8 fa:i.5
+6.43	coat	hok.7
+6.44	shirt	jat.8
+6.45	collar	ndaŋ.5
+6.46	skirt	tip.7
+6.461	grass-skirt	sum.1
+6.48	trousers	ha:k.8; sum.1 sui.3
+6.49	stocking, sock	fa:n.6; mbiu.1
+6.51	shoe	ńum.4
+6.52	boot	ʔba.1 ji.1
+6.54	shoemaker, cobbler	ʔduk.7 ʔu.1
+6.55	hat, cap	ʔduk.7 ra:u.3; ʔduk.7 chən.1 ji.3
+6.57	belt, girdle	qo.4 lin.6 ʔduk.7
+6.58	glove	śən.3
+6.59	veil	huŋ.3; fuŋ.3
+6.61	pocket	jo.1; ma:t.7
+6.62	button	ca:k.7
+6.63	pin	ʔai.3 fa:ŋ.1 ca:k.7
+6.71	ornament, adornment	ńon.4
+6.72	jewel	la:k.7 phan.1 ndən.1
+6.73	ring (for finger)	fa.3 mja.1
+6.74	bracelet	fa.3 qau.3; ʔma:n.5 qam.4
+6.75	necklace	sa:u.1
+6.76	bead	lu.2; tap.7
+6.77	earring	fin.1
+6.78	headband, headdress	wən.5
+6.79	tattoo	ndon.5
+6.81	handkerchief, rag	tom.5
+6.82	towel	ćoŋ.6 qha.1
+6.91	comb	fa.3 mja.1
+6.92	brush	fa.3 suk.8 ʔna.3
+6.921	braid	se.1; khe.1
+6.93	razor	se.1
+6.94	ointment	suk.8
+6.95	soap	lja.1; ʔbjam.1 lja.1
+6.96	mirror	mit.8 fut.7 qam.4
+7.11	dwell, live	ka:u.3
+7.12	house	ja:ŋ.4 ćen.6
+7.13	hut	nam.3 ʔda:ŋ.1; toŋ.2 cjau.5
+7.131	garden-house	ńa:u.6
+7.14	tent	ɣa:n.2
+7.15	yard, court	śa:n.1
+7.16	men's house	ɣa:n.2 śuŋ.1 ʔau.4; ɣa:n.2 he.4 ʔau.4
+7.17	cookhouse	hum.4
+7.18	meeting house	to.1; to.1 la:u.4
+7.21	room	lam.1 mai.4 fuŋ.3
+7.22	door, gate	ʔna:ŋ.1 to.1
+7.221	doorpost, jamb	tiu.2 mai.4 fuŋ.3
+7.23	lock (noun)	fa:ŋ.2
+7.231	latch, door-bolt	sja:ŋ.2
+7.24	key	thu.3
+7.25	window	lu.4
+7.26	floor	qoŋ.6 kwan.2
+7.27	wall	ʔde.3
+7.31	fireplace	ta:u.2
+7.32	stove	tjem.6 qam.1
+7.33	chimney	tha:n.6
+7.37	ladder	ʔun.1 taŋ.5; ʔun.1 ʔniŋ.3
+7.42	bed	śi.3
+7.421	pillow	teŋ.5
+7.422	blanket	cok.7; la.2 cu.2
+7.43	chair	ka:n.6; ća:k.7
+7.44	table	ca:u.2
+7.45	lamp, torch	qum.4 ɣa:n.2
+7.46	candle	ja.1 mu.2 ʔu.1 ɣa:n.2
+7.47	shelf	na.1
+7.48	trough	ni.4 lja:ŋ.4
+7.51	roof	la:k.8 qha:ŋ.1
+7.52	thatch	ni.4 lja:ŋ.4
+7.53	ridgepole	ra:m.3; qa:n.6
+7.54	rafter	pin.5
+7.55	beam	to.1 kuŋ.6
+7.56	post, pole	ʔai.3 śu.5 tin.2
+7.57	board	ćon.1
+7.58	arch	lu.5 tin.2 hoi.1
+7.61	mason	ʔai.3 he.4 mjeu.2
+7.62	brick	ʔɣa.5
+7.63	mortar	nda:i.5
+7.64	adobe	nda:i.5 ʔma.1
+8.11	farmer	ćoi.1 ʔda:i.5
+8.12	field (for cultivation)	ta:t.7
+8.13	garden	ʔnja:ŋ.1 na:m.3
+8.15	cultivate, till	ćoi.1
+8.16	fence	cət.8; qok.7
+8.17	ditch	thje.2 cha:n.6
+8.21	plow	ka:k.7; kha:t.7
+8.212	furrow	kwa:k.7; ne.2
+8.22	dig	sa.1
+8.23	spade	pa.2
+8.24	shovel	tau.5
+8.25	hoe	wan.1
+8.26	fork	qat.7; ʔa:u.1
+8.27	rake	ljem.4
+8.31	sow	tjap.7 ʔau.4; tui.2 ʔau.4
+8.311	seed	kam.3 miu.2; miu.2
+8.32	mow, reap	ʔau.4
+8.33	sickle, scythe	ʔau.4 mo.6 mjen.6
+8.34	thresh	ʔau.4 mo.6 la:u.4
+8.35	threshing-floor	ʔau.4 ʔboŋ.5
+8.41	crop, harvest	ʔau.4 mek.8
+8.42	grain (barley, oats etc)	ʔau.4
+8.43	wheat	ʔau.4
+8.44	barley	ʔau.4 ha:n.1; ʔdja.3 ʔau.4
+8.45	rye	fa.6 ʔau.4
+8.46	oats	wa:ŋ.1
+8.47	maize, corn	ʔau.4 fja:ŋ.3
+8.48	rice	kaŋ.1
+8.51	grass	ńha:ŋ.3
+8.52	hay	mbja.1
+8.53	plant (noun)	ha:ŋ.1
+8.531	plant (vb)	qam.4 mai.4; ni.4 mai.4
+8.54	root	ʔa.5 mai.4
+8.55	branch	wa.5
+8.56	leaf	ndun.1
+8.57	flower	nuk.8
+8.6	tree	mai.4
+8.61	oak	mai.4 ŋau.6
+8.62	beech	mai.4 so.3
+8.63	birch	thoŋ.3 mai.4 ti.3
+8.64	pine	ja:u.1
+8.65	fir	ʔjen.1
+8.66	acorn	śut.7; jen.3
+8.67	vine	qam.4 toŋ.2
+8.68	tobacco	kun.5 mai.4
+8.69	smoke (tobacco)	ni.4 mai.4
+8.691	pipe	ka:m.3 mai.4
+8.72	tree stump	pi.2 mai.4
+8.73	tree trunk	ha:u.2 mai.4
+8.74	forked branch	qa:m.5; fa:ŋ.4 ko.6
+8.75	bark	mai.4 śa:ŋ.3 cja:u.3
+8.76	sap	lam.1 ndja:k.7 nda:ŋ.7 nda:ŋ.1
+8.81	palm tree	mai.4 joŋ.2
+8.82	coconut	man.2 ha:n.3
+8.83	citrus fruit	qam.4 ʔɣa:k.7
+8.84	banana tree	mu.2 su.2
+8.85	banyan	pjo.6; pu.6
+8.91	sweet potato	pu.2
+8.912	yam	ja:u.1
+8.92	tapioca, manioc, cassava	na:ŋ.1
+8.93	gourd	fan.1
+8.931	pumpkin, squash	ʔui.3
+8.94	bamboo	tu.2
+8.941	sugar cane	ra.1
+8.96	fish poison (root)	he.4; ho.4
+8.97	nettle	he.4 qoŋ.1
+8.98	mushroom	ćau.1; cəm.3
+9.11	do, make	ljom.3
+9.12	work	phan.1
+9.14	bend	ci.5
+9.15	fold	la:k.7
+9.16	tie, bind	la:k.7
+9.161	untie	qut.7
+9.18	chain	ta:t.7; ʔnon.5; ta.3
+9.19	rope, cord	ćon.2 ta:t.7
+9.192	knot (noun)	qat.7
+9.21	strike (hit, beat)	pjam.3 ta:u.5; ha.3 ta:u.5
+9.211	pound with fist	te.5 tjak.7
+9.22	cut	kam.4; ta:k.7
+9.221	cut down	mit.8
+9.222	chop, hew	ju.1; jiu.1
+9.223	stab	kwa:n.1
+9.23	knife	tak.7; ʔeu.3
+9.24	scissors, shears	tiu.5; he.5
+9.25	ax	la.5
+9.251	adze	sit.7; pja:k.7
+9.26	break	phjok.7
+9.261	broken	njut.7
+9.27	split	sək.7; ću.2
+9.28	tear	śon.4
+9.29	flay, skin	tjət.8; ʔda:k.7
+9.31	rub, wipe	ndiu.1
+9.32	stretch	ʔdjan.5 phjoŋ.1
+9.33	pull	saŋ.2
+9.34	spread out	śan.4
+9.341	hang up	pan.3
+9.342	press	ɣən.6; ʔjau.5
+9.343	squeeze, wring	suk.8; lak.7
+9.35	pour	tjət.7
+9.36	wash	mai.4 tjət.7
+9.37	sweep	ća.3; tśa.3 sa:i.4
+9.38	broom	ʔai.3 ha:ŋ.6 mai.4
+9.422	tool	he.4; ʔda.1
+9.43	carpenter	kam.4 son.1
+9.44	build	qok.7; cət.8
+9.46	bore	ću.5 (v.n.)
+9.461	hollow out	ʔnon.5 (v.); cui.2 śət.7 (n.)
+9.48	saw	tjeŋ.1
+9.49	hammer	nam.3 ća:u.3
+9.5	nail	ha:ŋ.6 śət.7
+9.56	glue	ljan.1 śət.7
+9.6	smith, blacksmith	na:n.4 śət.7
+9.61	forge	ʔjau.5
+9.62	anvil	ćum.1
+9.63	cast (metals)	ńan.2
+9.64	gold	toŋ.2
+9.65	silver	śət.7
+9.66	copper, bronze	ćha:n.2
+9.67	iron	śek.7
+9.68	lead (noun)	he.4 mu.2 śin.4
+9.69	tin, tinplate	hum.5; khəm.5
+9.71	potter	po.3 li.4
+9.72	mold (clay etc)	lja.1
+9.73	clay	tjau.5
+9.74	glass	ʔdoŋ.3
+9.75	weave, plait	tjem.4
+9.76	basket	sa:u.1 ćiu.3
+9.77	mat	sjen.5
+9.771	rug	fen.5
+9.78	netbag	qok.7
+9.79	fan (noun)	śiu.5
+9.791	fan (vb)	hat.7; ndak.7
+9.81	carve	ho.4 ndak.7
+9.82	sculptor	cun.3; ŋhai.1
+9.83	statue	phja.3; lin.3
+9.84	chisel	ta:u.5 lən.2; fan.6 lən.2
+9.88	paint (noun)	tuk.7
+9.89	paint (vb)	ćon.6
+10.11	move	tok.7; lut.7
+10.12	turn over	pan.5; ʔbjət.7; ćau.1 ćeu.3
+10.13	turn around	ʔuk.7
+10.14	wind, wrap	tjem.1; jaŋ.4
+10.15	roll	tok.7
+10.16	drop (vb)	ljət.7
+10.17	twist	peŋ.5
+10.21	rise	wut.8
+10.22	raise, lift	koi.2; hap.7
+10.23	fall	nhai.1
+10.24	drip	lui.5
+10.25	throw	ʔɣam.1
+10.252	catch (ball)	sa.5 nam.3 ma:u.4
+10.26	shake	ʔmoŋ.1; thu.1
+10.32	flow	lui.2 nam.3
+10.33	sink	nhjap.7
+10.34	float	sjan.5 nam.3; ʔjau.5 nam.3
+10.35	swim	win.3
+10.351	dive	hup.8; ʔo.5
+10.352	splash	lwan.2; la.5; ha:t.8
+10.36	sail (vb)	ćok.8
+10.37	fly (vb)	pok.8; soŋ.1
+10.38	blow	pat.8
+10.41	creep, crawl	tiu.2; kwa.2
+10.412	kneel	ta:p.8; that.7
+10.413	crouch	tiu.2 wom.6 wom.6
+10.42	slide, slip	sa:m.3
+10.43	jump, leap	kwa.2
+10.431	kick	pja:u.5
+10.44	dance	pa:i.1
+10.45	walk	ho.4 sa.5 pa:i.1
+10.451	limp	ho.4 sa.4 ha:t.8
+10.46	run	ho.4 lui.5 pa:i.1
+10.47	go	pa:i.1 ʔnuk.7
+10.471	go up	tan.4
+10.472	climb	taŋ.1; ma.1
+10.473	go down	fan.6 taŋ.1; fan lən.2
+10.474	go out	man.6; laŋ.1 pa:i.1
+10.48	come	phja:m.1
+10.481	come back	nda:n.5
+10.49	go away, depart	ʔnjam.5
+10.491	disappear	tat.8; cek.8
+10.51	flee	thau.5
+10.52	follow	mba.3
+10.53	pursue	taŋ.1 ra:u.3
+10.55	reach, arrive	tai.2
+10.56	approach	tjoŋ.6
+10.57	enter	ʔun.1
+10.61	carry (bear)	seŋ.5
+10.612	carry-in-hand	qap.7
+10.613	carry-on-shoulder	ʔam.5
+10.614	carry-on-head	ta:p.7
+10.615	carry-underarm	kam.3 tai.2
+10.62	bring	ći.1
+10.63	send	tai.2 khun.1
+10.64	lead (vb)	ća.1 sɨ.6
+10.65	drive	ci.6
+10.66	ride	koŋ.3
+10.67	push, shove	khun.1
+10.71	road	khun.1 ti.3
+10.72	path	lo.4; ćiu.2
+10.74	bridge	chə.3
+10.75	carriage, wagon, cart	quk.8 luk.8 chə.3
+10.76	wheel	ʔjit.7
+10.77	axle	lwa.1 la:u.4
+10.78	yoke	lwa.1 ti.3
+10.81	ship	pa:i.2
+10.83	boat	pa:i.2 fan.1
+10.831	canoe	mai.4 qo.1 lwa.1
+10.832	outrigger	qo.1 lwa.1
+10.84	raft	ʔnaŋ.1
+10.85	oar	juŋ.6 ʔnaŋ.1; ca:n.1
+10.851	paddle (noun)	ʔa:u.1
+10.852	row (vb)	koi.2; hap.7
+10.86	rudder	ʔńam.1
+10.87	mast	ʔŋam.1
+10.88	sail (noun)	ʔdai.3
+10.89	anchor	ɣau.5; toŋ.1 se.1
+10.91	harbor, port	ha:i.1
+10.92	land (vb)	thi.5; fa:n.4
+11.11	have	ca:n.1 ku.1; su.3
+11.12	own, possess	ciu.5
+11.13	take	he.5 pha.5
+11.14	seize, grasp	he.4 pha.5; sən.6 ha:i.5; sja:ŋ.3
+11.15	hold	tha:u.3; la.6
+11.16	get, obtain	tha:u.3 thau.5
+11.17	keep, retain	tha.1
+11.18	thing	hoŋ.5 pa:i.1
+11.21	give	śen.2
+11.22	give back	fu.5
+11.24	preserve, look after	ho.3
+11.25	save, rescue	ka.4 sa.5
+11.27	destroy	loŋ.2 ti.3; khau.4; ɣat.7
+11.28	harm, injure, damage	ʔja:m.1 ha:i.1
+11.31	seek, look for	ʔja:m.1; ʔja:m.1 taŋ.1 joŋ.6
+11.32	find	ʔam.5; sjeu.3
+11.33	lose	kha:ŋ.1
+11.34	release, let go	ha:i.1
+11.43	money	cja:ŋ.1; son.5 cja:ŋ.1
+11.44	coin	sjoi.5
+11.51	rich	tha:u.3
+11.52	poor	śen.2 qoŋ.1
+11.53	beggar	ndjai.3
+11.54	avaricious, stingy	pe.1
+11.61	lend	pe.1 ndjai.3; mau.1 ji.1
+11.62	borrow	ʔai.3 he.4 fa:n.5
+11.63	owe	qe.4
+11.64	debt	sa:ŋ.3 tjan.1
+11.65	pay (vb)	ma.6 śen.2; ra.5 śen.2
+11.66	account, reckoning	mbiŋ.1
+11.69	tax, tribute	cjen.6
+11.77	hire	ndaŋ.5
+11.78	wages	hoŋ.6
+11.79	earn	ʔwa:ŋ.5 lən.2; lən.2
+11.81	buy	ʔwa:ŋ.5 ća:i.5; ća:i.5
+11.82	sell	ʔwa:ŋ.5 te.3; te.3
+11.83	trade, barter	kon.5
+11.84	merchant	ʔwa:ŋ.5 ʔna.3; ʔna.3
+11.85	market (place)	ʔwa:ŋ.5 ra:u.3; ra:u.3
+11.86	store, shop	ʔwa:ŋ.5 ʔnuk.7; ʔnuk.7
+11.87	price	ʔwa:ŋ.5 te.3; te.3
+11.88	dear (costly, expensive)	ʔwa:ŋ.5 ʔu.1; ʔu.1
+11.89	cheap	hən.2
+11.91	share (distribute)	man.6
+11.92	weigh	hui.6; fui.6
+12.1	after	nun.2; ʔniŋ.3
+12.11	behind	ʔjon.1
+12.2	beside	ńa:u.6
+12.3	down, below	ka.3
+12.4	before	ʔdja.1
+12.41	front	ɣup.7
+12.5	inside, in	cəp.7
+12.6	outside	thom.3; tap.8
+12.7	under	tu.3 ha:p.7
+12.8	up, above	tu.3 pan.1
+12.11	place	pan.1
+12.12	put	ŋai.1
+12.13	sit	mbja:ŋ.3 nda.1
+12.14	lie down	ŋap.8
+12.15	stand	hup.7
+12.16	remain, stay	qum.5
+12.17	remains, left overs	piu.3
+12.21	collect, gather	wa:ŋ.1
+12.212	pick up	ndam.5
+12.213	pile up	qum.4
+12.22	join, unite	te.3
+12.23	separate	jut.7 ton.4
+12.232	divide	śa.1
+12.24	open	tjem.6
+12.25	shut, close	ʔwa:ŋ.5
+12.26	cover	tum.3 ta.5
+12.27	hide, conceal	ta.5
+12.31	high	ʔwa:ŋ.5 fa.1
+12.32	low	ʔwa:ŋ.5 si.4
+12.33	top	phjai.5; ʔdi.1
+12.34	bottom	ʔwa:ŋ.1 nda.1 wan.1 ʔuk.7; tuŋ.3
+12.35	end	ʔwa:ŋ.5 nda.1 wan.1 tok.7; si.3
+12.352	pointed	pak.7; pe.2
+12.353	edge	na:n.4
+12.36	side	tom.5; hum.3
+12.37	middle, center	tu.3 ta:k.8; nhi.3
+12.41	right (side)	sa:p.7
+12.42	left (side)	la:u.4
+12.43	near (adv)	ti.3
+12.44	far (adv)	ʔɣa:i.3; tjaŋ.1
+12.45	east	wa:ŋ.1
+12.46	west	ndin.3
+12.47	north	fa:ŋ.3
+12.48	south	ʔnjap.7
+12.53	grow	ʔna.1
+12.54	measure	ńoŋ.2
+12.541	span, fathom	ʔba:ŋ.1
+12.55	large, big	ʔjam.1
+12.56	small, little	ʔdjai.5
+12.57	long	pjeŋ.2
+12.58	tall	śaŋ.2
+12.59	short	ćau.1
+12.61	wide, broad	qhau.1
+12.62	narrow	pa:u.1
+12.63	thick (in dimension)	liu.5
+12.65	thin (in dimension)	ljom.3; fa:ŋ.1
+12.67	deep	qom.6 lom.6
+12.68	shallow	lam.1
+12.71	flat	ćhiu.4
+12.73	straight	śen.1 thja:u.4
+12.74	crooked	khoŋ.3; qa:m.1
+12.75	hook	cup.7; taŋ.6
+12.76	corner	pjen.5
+12.77	cross	lin.4; me.2
+12.78	square	to.2; ʔjət.7; ti.3
+12.81	round	ɣa.2; ńi.6
+12.82	circle	ha:m.1
+12.83	sphere, ball	śi.5
+12.84	line	ŋo.4
+12.85	hole	ljok.8
+12.92	like, similar	śat.7
+12.93	change	pa:t.7
+13.0	zero, nothing	ću.3
+13.1	one	sup.8
+13.2	two	sup.8 ʔjət.7
+13.3	three	sup.8 ńi.6
+13.4	four	sup.8 ŋo.4
+13.5	five	ńi.6 sup.8
+13.6	six	pek.7
+13.7	seven	śen.1
+13.8	eight	jai.5
+13.9	nine	liu.4
+13.10	ten	kuŋ.2; to.1
+13.101	eleven	fai.3; to.1 fai.3
+13.102	twelve	sjeu.3
+13.103	fifteen	tum.4
+13.104	twenty	ti.3 mbja:ŋ.5
+13.105	hundred	tau.2 zən.1
+13.106	thousand	tik.7; pən.4
+13.107	count	tjaŋ.5
+13.14	every, all	hoŋ.1; ɣo.2
+13.15	much, many	mbja:ŋ.5
+13.16	more	pa:n.5; ćot.8
+13.17	little (quantity), few	la:u.3
+13.18	enough	tik.7 ʔjət.7; ti.6 ʔjət.7
+13.181	some	ton.4 lən.2; haŋ.2 lən.2
+13.19	multitude, crowd	tik.7 ńi.6; ti.6 ńi.6
+13.21	full	cau.6
+13.22	empty	ɣa.2 pai.1; ćot.8
+13.23	part, piece	tik.7 ha:m.1; ti.6 ha:m.1
+13.24	half	ha:m.1 pai.1
+13.33	alone, only	si.2 ta:i.2
+13.34	first	mbe.1
+13.35	last	mhai.5
+13.36	second	ruŋ.5
+13.37	pair	qa:u.5
+13.38	two times	la:u.4; qa:u.5
+13.42	third	pa:k.8
+13.44	three times	ham.1; qo.3
+14.11	time	fe.1
+14.12	age	na:i.6; si.2 na:i.6
+14.13	new	ta:m.1 si.2; ma.6 sa:ŋ.1
+14.14	young	hoi.5
+14.15	old	fa:n.1
+14.16	early	san.4 sut.7
+14.17	late	ʔda:n.5
+14.18	now	laŋ.4; ca:u.4; sau.3 ca.5
+14.19	immediately	ha:p.7
+14.21	swift, fast, quick	ləŋ.4; lət.7
+14.22	slow	he.4 śin.1
+14.23	hasten, hurry	taŋ.4; ʔni.3
+14.24	retard, delay	tum.3
+14.25	begin, beginning	cuŋ.6; ʔnam.3
+14.252	last, endure	cap.8 si.2; ʔnam.3
+14.26	end (temporal)	me.2 tjaŋ.1
+14.27	finish	tjaŋ.1 njaŋ.1
+14.28	cease, stop	pen.3 mi.4
+14.29	ready	ʔai.5
+14.31	always	ʔbən.1 wan.1
+14.32	often	sa:n.2; ʔńam.5
+14.33	sometimes	khi.3 ʔda:ŋ.1
+14.331	soon	śit.7 ham.1
+14.332	long-time (for a)	ta.5 wan.1
+14.34	never	te.3 ʔau.4 wan.1; hai.3 ʔńam.5
+14.35	again	ʔńam.5
+14.41	day	wan.1 na:i.6
+14.42	night	wan.1 ʔmu.3
+14.43	dawn	wan.1 na.3
+14.44	morning	wan.1 ʔńu.1
+14.45	noon, midday	wan.1 kon.5
+14.451	afternoon	cuŋ.3 thau.4
+14.46	evening	tam.2 qa:ŋ.1; cuŋ.3
+14.47	today	sin.3 ćhi.3
+14.48	tomorrow	wan.1 sin.3 ćhi.3
+14.481	day-after-tomorrow	ʔjət.7 sin.3 ćhi.3
+14.49	yesterday	ńi.6 sin.2 ćhi.3
+14.491	day-before-yesterday	ha:n.1 sin.4 ćhi.3
+14.51	hour	śi.5 sin.4 ćhi.3
+14.53	clock, timepiece	ŋo.4 sin.4 ćhi.3
+14.61	week	ljok.8 sin.4 ćhi.3
+14.62	Sunday	njen.2
+14.63	Monday	mbe.1
+14.64	Tuesday	njen.2 nho.1
+14.65	Wednesday	njen.2 sən.1
+14.66	Thursday	njen.2 sən.1
+14.67	Friday	njen.2 nho.1
+14.68	Saturday	njen.2 liŋ.3
+14.71	month	njen.2 fən.1
+14.73	year	ći.1; ći.1 cje.2
+14.74	winter	ńhu.1
+14.75	spring	ŋhu.1
+14.76	summer	ʔda:u.3 pa:k.7
+14.77	autumn	jik.7
+14.78	season	ljan.6
+15.21	smell (vb intrans)	ʔnaŋ.5; mat.8
+15.212	sniff	qam.1; ho.3
+15.22	smell (vb trans)	hum.3
+15.25	fragrant, good smelling	ŋai.5
+15.26	stinking, bad smelling	ŋan.4; ʔdi.3
+15.31	taste	ʔnjan.5; lo.5
+15.35	sweet	lo.5 la:u.4
+15.36	salty	ʔdet.7 set.7
+15.37	bitter	ndo.3
+15.38	acid, sour	qau.5
+15.39	brackish	ca:u.1 ʔda:ŋ.1
+15.41	hear	qa:ŋ.1 kwaŋ.2; qa:ŋ.1 loŋ.5
+15.42	listen	sak.7
+15.44	sound, noise	jik.7
+15.45	loud	ʔjam.1
+15.46	quiet, silence	pa:k.8
+15.51	see	ʔnam.1
+15.52	look, look at	ha:n.3
+15.55	show	śu.1
+15.56	shine	śu.1
+15.57	bright	mha:n.3
+15.61	color	tam.3
+15.62	light (in color)	ńap.8; pən.3
+15.63	dark (in color)	fja:m.5; lwa:t.8; ʔduk.7
+15.64	white	ʔda.3
+15.65	black	ʔma.3
+15.66	red	tju.5 tja:t.7
+15.67	blue	ńha:k.7 ńin.1; ŋa:i.6
+15.68	green	ʔdjan.1 ʔdjoi.3; ka:n.5 kai.1
+15.69	yellow	tau.6 nau.6
+15.71	touch	təm.1
+15.712	pinch	zan.1
+15.72	feel	za.3
+15.74	hard	ʔɣak.7; ʔam.3
+15.75	soft	sui.5; liŋ.3
+15.76	rough	sa.5
+15.77	smooth	ndu.3; sut.7
+15.78	sharp	ʔdu.3
+15.79	blunt, dull	ʔńit.7; nho.1; ŋa:m.5
+15.81	heavy	ɣa:ŋ.5
+15.82	light (in weight)	pjek.7; mhak.7; ʔda:ŋ.3
+15.83	wet, damp	tjut.8
+15.84	dry	kwan.1; cin.3 sən.
+15.85	hot	ha:n.6; ŋhai.5 ʔńo.1
+15.851	warm	win.1 ćhi.1 ʔda:i.1
+15.86	cold	ma:t.7
+15.87	clean	maŋ.4
+15.88	dirty, soiled	ku.1
+15.89	wrinkled	ka:n.1 ku.1 ʔbja:i.3
+16.11	soul, spirit	śa:n.3; peu.6; fja:n.3
+16.15	surprised, astonished	mjət.7; mbjun.1
+16.18	good fortune, luck	put.8
+16.19	misfortune, bad luck	khop.7
+16.23	joyful, glad, happy	ćit.7
+16.25	laugh	pha.5 loŋ.2
+16.251	smile	san.4; ʔbja.5 loŋ.2
+16.26	play	phja.3 loŋ.2
+16.27	love	ʔɣa.5 ha.2
+16.29	kiss	ʔŋe.3; ʔńe.3
+16.3	embrace	nam.3 nda.1
+16.31	pain	wa:n.1
+16.32	grief, sorrow, sadness	ńu.2; pən.4
+16.33	anxiety, worry	ndin.3 loŋ.2; ńu.2; he.4 pən.4
+16.34	regret, be sorry	me.2 tja:ŋ.3
+16.35	pity	ʔui.1
+16.37	cry, weep	ljat.7
+16.38	tear (noun)	su.4
+16.39	groan	pha.5 ʔui.1
+16.41	hate	śuŋ.3; juŋ.6 ka:n.6
+16.42	anger	ho.1; tok.7 kwan.1
+16.44	envy, jealousy	wai.4 śen.6
+16.45	shame (noun)	ma:ŋ.6; ʔńi.6; ńon.6
+16.48	proud	la:i.6
+16.51	dare	ma:ŋ.6
+16.52	brave	loŋ.2 śaŋ.2
+16.53	fear, fright	śu.5
+16.54	danger	fan.2 po.5
+16.62	desire, want	po.5
+16.622	choose	ʔda:i.1
+16.63	hope	ńau.5; pha.5
+16.65	faithful	ndum.2
+16.66	true	cho.1
+16.67	lie, tell lies	ko.1 cho.1
+16.68	deceit	cho.1 wu.1
+16.69	forgive	ʔwen.5
+16.71	good	pau.3
+16.72	bad	kiŋ.3; qhan.5
+16.73	right, correct	ńau.5
+16.74	wrong	qha.1 mau.2
+16.76	fault	ɣa:i.5; ʔdjup.7; kiŋ.3
+16.77	mistake, error	nhi.3; fa.3
+16.78	blame	fa.3
+16.79	praise	sin.1
+16.81	beautiful	śau.3
+16.82	ugly	śau.3
+16.83	greedy	ʔan.3; ton.5; cha:i.3
+16.84	clever	fa:ŋ.6 ca:u.1
+17.11	mind	śən.1 mbja:ŋ.5; fu.5
+17.13	think (= reflect)	cu.6 ji.1
+17.14	think (= be of the opinion)	śa:i.1; ɣa:i.6
+17.15	believe	ʔwa.3 waŋ.1; śaŋ.3
+17.16	understand	ŋa:n.5
+17.17	know	ća:u.5; śo.2
+17.171	guess	śo.2 si.2
+17.172	imitate	to.5; to.5 le.1
+17.18	seem	la:k.8 śo.2 sən.3; śo.2 sən.3
+17.19	idea, notion	ʔai.3 la:u.6 sɨ.3; la:u.6 sɨ.3
+17.21	wise	śo.2 śa:u.1
+17.22	foolish, stupid	ći.5
+17.23	insane, crazy	la:m.2
+17.24	learn	ɣa:ŋ.5 ɣau.1
+17.242	study	ʔńa:m.1 śau.3
+17.25	teach	ɣəm.5; mi.2 mi.2
+17.26	pupil	heu.5; tin.1
+17.27	teacher	śop.8
+17.28	school	mu.2 ti.2
+17.31	remember	ho.1; fa:i.4 ńi.4
+17.32	forget	ho.1
+17.34	clear, plain	ćhem.5
+17.35	obscure	fui.1; phje.2 tho.2
+17.36	secret	ʔńa:m.1; śen.6; na:n.1; na:n.2; ho.3; na:n.1
+17.37	sure, certain	si.5
+17.38	explain	pa:n.1 fa.2
+17.41	intention, purpose	ʔnjam.5; kap.7
+17.42	cause	wi.6; ka:i.6
+17.43	doubt	la:ŋ.1; ca.2 la:ŋ.1
+17.44	suspect	ɣo.3; me.2 lo.2
+17.441	betray	toi.5
+17.45	need, necessity	me.2; me.2 si.3
+17.46	easy	he.4 nhu.1
+17.47	difficult	ći.3 kuŋ.2
+17.48	try, attempt	ći.3 kuŋ.2
+17.49	way, manner	ma:ŋ.2; ni.4 ma:ŋ.2
+17.51	and	ndjoŋ.3 nhu.1; ndjoŋ.3 nau.2
+17.52	because	ʔai.3 nhu.1; to.2 nhu.1; lam.1 nhu.1
+17.53	if	ʔai.2 nhu.1; ʔai.2 nau.2
+17.54	or	ʔnja:i.5 ni.4 ma:ŋ.2
+17.55	yes, affirmative	na:i.6
+17.56	no, negative	ndjoŋ.3 na:i.6; cum.2 na:i.6
+17.61	how?	ca.5
+17.62	how many?	ndjoŋ.3; cum.2 ca.5
+17.63	how much?	lo.5
+17.64	what?	fuŋ.5; sja:ŋ.5
+17.65	when?	śip.8; ko.3
+17.66	where?	ju.5; śin.3; ŋa:u.6
+17.67	which?	tu.3 śim.5
+17.68	who?	khiu.1
+17.69	why?	śin.3
+18.11	voice	ća:ŋ.3; tu.3 fan.2
+18.12	sing	lot.8 ma.2
+18.13	shout, cry out	fan.2
+18.15	whisper	ća:ŋ.2 pai.6 fa:m.2
+18.16	mumble	ća:ŋ.2 fan.2
+18.17	whistle	me.2 tu.3 fan.2
+18.18	shriek, screech	lam.1 fan.2
+18.19	howl	le.1
+18.21	speak, talk	ʔda:n.1
+18.211	stutter, stammer	sa:i.3
+18.22	say	liŋ.4
+18.221	tell story	chən.4 zən.1
+18.222	speech (make a)	me.2 chən.4 zən.1
+18.23	silent (be)	śəŋ.3; khui.5
+18.24	language	ʔńi.1
+18.26	word	me.2 ʔa:u.1
+18.28	name	ćin.2 cɨ.6
+18.31	ask (question, inquire)	toi.5; phau.4
+18.32	answer	ʔik.7
+18.33	admit, confess	ju.5
+18.34	deny	sjen.3 pu.1
+18.35	ask, request	ja.2; sa:p.8 fu.3
+18.36	promise	wa.5
+18.37	refuse	qa.1
+18.38	forbid	cɨ.3; cɨ.6
+18.39	rebuke, scold	pjət.7
+18.41	call (=summon)	le.1
+18.42	call (=name)	sɨ.3
+18.43	announce	pu.5 siu.1
+18.44	threaten	tam.2; ńa:n.1; ljuŋ.3
+18.45	boast	ha:u.1
+18.51	write	kwə.2 ća.3
+18.52	read	cu.4 kwe.2; hən.2 qa:u.5
+18.56	paper	siŋ.2; qa:i.1
+18.57	pen	ʔba:n.3
+18.61	book	ka:i.1 ra:n.4
+18.67	poet	zən.1 min.4
+18.71	flute	śok.7
+18.72	drum	ʔai.3 qam.4
+18.73	horn, trumpet	tjun.4
+18.74	rattle	qha:m.3
+19.11	country	kwe.2 wa:ŋ.2; ʔai.3 wa:ŋ.2
+19.12	one's native country	ni.4 wa:ŋ.2
+19.15	city, town	zən.1 pa:k.7 siŋ.5
+19.16	village	zən.1 sau.3; ʔai.3 sau.3
+19.17	boundary	min.2 lin.1
+19.21	people (populace)	cən.3 sau.6
+19.23	tribe, clan	ʔńi.6
+19.24	chief, chieftain	ću.5
+19.25	staff, walking stick	zən.1 ti.2 zən.4
+19.31	rule, govern	ɣa:n.2 ta:i.5; ɣa:n.2 koŋ.2
+19.32	king, ruler	ʔai.3 mi.4 ɣu.3 ʔme.1
+19.33	queen	hek.7
+19.36	noble, nobleman	zən.1 sau.3; ʔai.3 sau.3
+19.37	citizen, subject	pa:ŋ.3
+19.41	master	haŋ.3
+19.42	slave	kwen.5
+19.43	servant	tu.3 ran.3; tu.3 cən.3
+19.44	freeman	jin.3 mau.4
+19.45	command, order	tu.3 ndo.3
+19.46	obey	ni.4 ći.1 ńui.6
+19.47	let, permit	tu.3 qui.5; tu.3 ʔnon.5
+19.51	friend, companion	ca:n.1 cən.3
+19.52	enemy	ho.4 pjeŋ.2
+19.54	neighbor	ćun.3 tui.1
+19.55	stranger	piŋ.1
+19.56	guest	wu.6 ćhi.1
+19.57	host	tiu.2 mai.4
+19.58	help, aid	nha.3
+19.59	hinder, prevent	nha.3 fa:i.5
+19.61	custom	śam.3; qham.3
+19.62	strife, quarrel	qa:n.6 śaŋ.1
+19.63	conspiracy, plot	mit.8 sik.7
+19.65	meet	cuŋ.5; pha:u.1
+19.72	prostitute	khui.3 ća.2
+20.11	fight (vb)	ńon.4 kaŋ.3 ma:u.1
+20.13	war, battle	tha.2
+20.14	peace	ceŋ.4; sən.1 li.1; jin.2
+20.15	army	ho.1 sui.1
+20.17	soldier	ta.3 ceŋ.1
+20.21	weapons, arms	fa:ŋ.4 su.3
+20.22	club	nut.7 ɣa:t.8
+20.222	battle-ax	thau.4 śa:ŋ.4
+20.23	sling	ʔai.3 ho.4 mom.6
+20.24	bow	ho.4 mom.6
+20.25	arrow	ma.2 śit.7
+20.26	spear	ćiu.3
+20.27	sword	ho.4 na:n.4
+20.28	gun, cannon	ʔai.3 ho.4 pja.4; ʔai.3 na.4 pja.4
+20.31	armor (defensive)	peŋ.4
+20.33	helmet	niu.4 ʔda:i.1
+20.34	shield	cəm.2
+20.35	fortress	ho.4 cəm.2
+20.36	tower	fa.2 li.2
+20.41	victory	fa.2 wjen.1
+20.42	defeat	ton.5
+20.43	attack	sim.3 ton.5
+20.44	defend	zən.1 cən.1
+20.45	retreat	ŋa:u.6 ʔbən.1
+20.46	surrender	qo.5 ca:ŋ.5; tu.3 qo.5
+20.47	captive, prisoner	ton.5 cui.1
+20.471	guard, sentinel	ʔnaŋ.1 cui.1
+20.48	booty, spoils	me.2 cui.1
+20.49	ambush	chu.6 fa.2
+20.51	fisherman	fa.2 śen.2
+20.52	fishhook	ɣa:n.2 la:u.2; la:u.2
+20.53	fishing line	mau.4 ha:i.5
+20.54	fishnet	ćha:ŋ.4 ća:n.3
+20.55	fish trap	ho.4 wi.1
+20.56	bait	cən.1 po.5
+20.61	hunt	ljak.7
+20.62	shoot	chjaŋ.6 će.2
+20.63	miss (target)	ʔai.3 ljak.7
+20.64	trap (noun)	cuŋ.3 ća:u.1
+20.65	trap (vb)	sa:ŋ.1 ti.1
+21.11	law	śi.3 tən.3
+21.15	court	ʔmui.1
+21.16	judge (vb)	cje.1 ʔwa.5
+21.17	judgment	cam.1; ni.4
+21.18	judge (noun)	ʔai.3 piu.1; ʔai.3 he.4 ća:i.3
+21.21	plaintiff	qen.1; sjen.1
+21.22	defendant	cam.1; ni.4 kwa:i.5
+21.23	witness	śoŋ.1
+21.24	swear
+21.25	oath
+21.31	accuse
+21.32	condemn
+21.33	convict (vb)
+21.34	acquit
+21.35	guilty
+21.36	innocent
+21.37	penalty, punishment
+21.38	fine
+21.39	prison, jail
+21.42	murder
+21.43	adultery
+21.44	rape
+21.46	arson
+21.47	perjury
+21.51	steal
+21.52	thief
+22.11	religion
+22.12	God
+22.13	temple, church
+22.14	altar
+22.15	sacrifice, offering
+22.16	worship
+22.17	pray
+22.18	priest
+22.19	holy, sacred
+22.22	preach
+22.23	bless
+22.24	curse
+22.26	fast (vb)
+22.31	heaven
+22.32	hell
+22.35	demon (evil spirit)
+22.37	idol
+22.42	magic, witchcraft, sorcery
+22.43	sorcerer, witch
+22.44	fairy, elf
+22.45	ghost, phantom
+22.47	omen, portent

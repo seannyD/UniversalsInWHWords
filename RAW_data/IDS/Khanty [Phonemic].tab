@@ -1,0 +1,1311 @@
+entry_id	trans_english	Khanty_Phonemic
+1.1	world	tər̃um
+1.21	earth, land	muw
+1.212	earth=ground, soil	muw
+1.213	dust	xiš; r̃aw
+1.214	mud	xəlɨ
+1.215	sand	səy
+1.22	mountain, hill	r̃en; saŋxum
+1.222	cliff, precipice	xar̃
+1.23	plain, field	xar̃
+1.24	valley	puxɨr̃
+1.25	island	muw
+1.26	mainland	xonɨŋ
+1.27	shore	- -
+1.28	cave	- -
+1.31	water	yiŋk
+1.32	sea	sʸor̃ɨs
+1.322	calm (of sea)	tewan
+1.323	rough (of sea)	xumpaŋ
+1.324	foam	nʸer̃
+1.329	ocean	wən sʸor̃ɨs
+1.33	lake	malaŋ
+1.34	gulf, bay	lux
+1.341	lagoon	- -
+1.342	reef	- -
+1.343	headland, point	pan nʸul
+1.35	wave	xump
+1.352	tide	yiŋk nux epattɨ yit; yink il pittɨ yit
+1.353	lowtide	yiŋk il pittɨ yit
+1.354	hightide	yiŋk nuxepattɨ yit
+1.36	river, stream, brook	as; yuxan; yər̃am; soyum
+1.362	whirlpool	- -
+1.37	spring, well	- -
+1.38	swamp	nʸur̃m
+1.39	waterfall	- -
+1.41	woods, forest	wənt
+1.42	tree (cf 08.600)	yux
+1.43	wood	yux
+1.44	stone, rock	kʸew
+1.45	earthquake	muw tor̃ʸiytɨ
+1.51	sky	tər̃umxar̃
+1.52	sun	xatl
+1.53	moon	tɨlasʸ
+1.54	star	xəs
+1.55	lightning	palaŋtut; poxal nʸol; pay nʸol
+1.56	thunder	poxal sɨy; mar̃itɨ sɨy
+1.57	lightning (as striking)	tut sultum; tut sem
+1.58	storm	tər̃um
+1.59	rainbow	nʸul yux
+1.61	light (noun)	nuwi; tut
+1.62	darkness	patlam
+1.63	shade, shadow	isxur̃
+1.64	dew	at yiŋk
+1.71	air	lɨl šuw
+1.72	wind	wot
+1.73	cloud	palaŋ
+1.74	fog	šiw
+1.75	rain (noun)	yer̃t
+1.76	snow (noun)	lonʸsʸ
+1.77	ice	yeŋk
+1.78	weather	tər̃um
+1.81	fire	tut; nay
+1.82	flame (noun)	tut nʸalum
+1.83	smoke (noun)	pəsaŋ
+1.84	ashes	xoyum
+1.841	embers	ay lawum sem
+1.851	burn (vb trans)	kutar̃ttɨ; letɨ
+1.852	burn (vb intrans)	letɨ
+1.86	light, kindle, ignite	wusʸittɨ; altɨ
+1.861	extinguish	xər̃attɨ
+1.87	match (noun)	sʸer̃anka
+1.88	firewood	tutʸyux
+1.89	charcoal	lawum
+2.1	person, human being	xannexə ~ nexə ~ xoyat
+2.21	man (vs. woman)	xə ~ iki ~ xə xoyat
+2.22	woman	ne
+2.23	male	xə; xor̃
+2.24	female	ne
+2.25	boy	pux
+2.251	young man (adolescent)	aylat pux
+2.26	girl	ewi
+2.261	young woman (adolescent)	aylat ewi
+2.27	child	nʸawr̃em
+2.28	infant, baby	ay nʸawr̃em
+2.31	husband	iki ~ xə
+2.32	wife	imi
+2.33	marry	imi tətɨ
+2.34	marriage, wedding	moy
+2.341	divorce	katna mantɨ
+2.35	father	asʸi
+2.36	mother	aŋki
+2.37	parents	aŋkʸeŋan-asʸeŋan
+2.38	married man	imʸeŋ xə
+2.39	married woman	ikʸeŋ imi
+2.41	son	pux
+2.42	daughter	ewi
+2.43	offspring (son or daughter)	yultɨ xasʸtɨ ewi-pux
+2.44	brother	yiwpux
+2.444	older brother	yay
+2.445	younger brother	apsʸi; apal
+2.45	sister	yiwewi
+2.454	older sister	upi
+2.455	younger sister	apsʸi; apalne
+2.456	sibling	yiwpux; yiwewi
+2.458	twins	- -
+2.46	grandfather	aŋksʸasʸi; sʸatsʸasʸi
+2.461	old man	pir̃sʸ ikʸi
+2.47	grandmother	aŋkaŋkʸi; sʸasʸi
+2.471	old woman	pir̃sʸ imi
+2.48	grandson	xilɨ
+2.49	granddaughter	xilne
+2.51	uncle	aki; yay; wər̃tɨ
+2.511	mother's brother	wər̃tɨ
+2.512	father's brother	aki; yay
+2.52	aunt	imi; nɨy; or̃tne
+2.521	mother's sister	imi; nɨy
+2.522	father's sister	imi; or̃tne
+2.53	nephew	lexə
+2.54	niece	or̃tne
+2.55	cousin	aspux; asewi
+2.56	ancestors	opr̃asʸit
+2.57	descendants	yultɨ xasʸtɨ ewi-pux
+2.61	father-in-law (of a man)	kʸilɨ ikʸi
+2.611	father-in-law (of a woman)	kʸilɨ ikʸi
+2.62	mother-in-law (of a man)	kʸilɨ imʸi
+2.621	mother-in-law (of a woman)	kʸilɨ imʸi
+2.63	son-in-law (of a man)	wʸeŋ
+2.631	son-in-law (of a woman)	ur̃ti wʸeŋ
+2.64	daughter-in-law (of a man)	mʸenʸ
+2.641	daughter-in-law (of a woman)	mʸenʸ
+2.71	stepfather	yiwlaŋ
+2.72	stepmother	anʸxʸi
+2.73	stepson	- -
+2.74	stepdaughter	- -
+2.75	orphan	yiwlɨ-aslɨ
+2.76	widow	ikʸelɨ xasʸum
+2.77	widower	imʸelɨ xasʸum
+2.81	relatives, kinsmen	r̃utɨt
+2.82	family	sʸemʸya
+2.91	I	ma
+2.92	you (singular)	naŋ
+2.93	he/she/it	luw
+2.94	we	muŋ
+2.941	we (inclusive)	muŋ pilewa
+2.942	we (exclusive)	muŋ taklewa
+2.95	you (plural)	nɨn
+2.96	they	lin; liw
+3.11	animal	woy-xul; wənt-woy
+3.12	male (adj)	xor̃
+3.13	female (adj)	ne
+3.15	livestock	woy-xul
+3.16	pasture	sʸaxər̃
+3.18	herdsman	woy-xul lawaltɨ xoyat
+3.19	stable, stall	osʸ
+3.2	cattle (bovine)	woy-xul
+3.21	bull	xor̃ mis
+3.22	ox	- -
+3.23	cow	mis
+3.24	calf	aymis
+3.25	sheep	oš
+3.26	ram	xor̃ oš
+3.28	ewe	ne oš
+3.29	lamb	oš pušax; oš kuy
+3.32	boar	xor̃ pur̃sʸ
+3.34	sow	ne pur̃sʸ
+3.35	pig	pur̃sʸ pušax; pur̃sʸ kuy
+3.36	goat	- -
+3.37	he-goat	- -
+3.38	kid	- -
+3.41	horse (equine)	low
+3.42	stallion	nʸewɨr̃
+3.44	mare	ne low
+3.45	foal, colt	nʸewar̃
+3.46	ass, donkey	- -
+3.47	mule	- -
+3.5	fowl	tuxlaŋ woy-xul
+3.52	cock, rooster	sʸisʸkur̃ek
+3.54	hen	ne sʸisʸkur̃ek
+3.55	chicken	sʸisʸkur̃ek pušax; sʸisʸkur̃ek kuy
+3.56	goose	lənt
+3.57	duck	wasɨ
+3.58	nest	tɨxal
+3.581	bird	tuxlaŋ woy; sʸisʸkʸi
+3.582	seagull	xalew
+3.583	heron	tor̃ɨ
+3.584	eagle	kur̃k
+3.585	hawk	wor̃š
+3.586	vulture	- -
+3.591	bat	tuxlaŋ aywoy
+3.592	parrot	yipi
+3.593	crow	wur̃ŋa
+3.594	dove	- -
+3.596	owl	aŋkal woy; maŋkla; yipi
+3.61	dog	amp; akar̃
+3.614	rabbit	šowar̃
+3.62	cat	katʸi
+3.622	opossum	- -
+3.63	mouse, rat	ay woy, muw xar̃ woy; leŋkar̃
+3.65	fish	xul
+3.652	fin (dorsal)	xul tax
+3.653	fishscale	som
+3.654	gill	nʸaxsʸem
+3.655	shell	kar̃ɨ
+3.661	shark	- -
+3.662	porpoise, dolphin	- -
+3.663	whale	[wəs]
+3.664	stingray	- -
+3.665	freshwater eel	- -
+3.71	wolf	wulɨ pur̃tɨ woy ~ pur̃woy
+3.72	lion	- -
+3.73	bear	moypar̃
+3.74	fox	wuxsar̃
+3.75	deer	wulɨ
+3.76	monkey	- -
+3.77	elephant	- -
+3.78	camel	- -
+3.81	insect	- -
+3.811	louse	tewtum
+3.812	nit (louse egg)	senɨ
+3.813	flea	sus
+3.814	centipede	- -
+3.815	scorpion	- -
+3.816	cockroach	tar̃akan
+3.817	ant	xašŋa
+3.818	spider	nʸimsar̃
+3.819	spider web	nʸimsar̃ pun ~ nʸimsar̃ xošap
+3.82	bee	maw pir̃um
+3.821	beeswax	- -
+3.822	beehive	maw pir̃um xot
+3.823	wasp	pos ~ pʸeslɨ; pir̃um
+3.83	fly	sɨr̃anta
+3.831	sandfly (midge), gnat	aywoy
+3.832	mosquito	pelŋa
+3.84	worm	nʸar̃woy; muwler̃
+3.85	snake	yeman woy
+3.91	firefly	- -
+3.92	butterfly	lɨpanta
+3.93	grasshopper	- -
+3.94	snail	- -
+3.95	frog	nawar̃ne
+3.96	lizard	susl
+3.97	crocodile, alligator	- -
+3.98	turtle	- -
+4.11	body	el
+4.12	skin, hide	sux
+4.13	flesh	nʸuxi
+4.14	hair (head)	əpat; əptat
+4.142	beard	tuš
+4.144	body hair	pun
+4.145	pubic hair	əptat
+4.146	dandruff	xayp
+4.15	blood	kalɨ ~ wur̃
+4.151	vein, artery	kalɨ yuš
+4.16	bone	luw
+4.162	rib	oŋtɨl
+4.17	horn	oŋat
+4.18	tail	lɨw
+4.19	back	šanš
+4.191	spine	šanšluw
+4.2	head	ux
+4.201	side of head, temple	wowtɨye
+4.202	skull	ux luw; ux xošap
+4.203	brain	wʸelum
+4.204	face	wʸenš
+4.205	forehead	wʸenš loxt; wʸenš luw
+4.207	jaw	ulsʸ
+4.208	cheek	wʸenš puŋal
+4.209	chin	aŋal
+4.21	eye	sem
+4.212	eyebrow	sem xulʸum
+4.213	eyelid	sem puŋal
+4.214	eyelash	sempun
+4.215	blink	r̃apsʸatɨ
+4.22	ear	pal
+4.221	earlobe	- -
+4.222	earwax	oŋx
+4.23	nose	nʸul
+4.231	nostril	nʸul wus
+4.232	mucus (nasal)	pulx
+4.24	mouth	uŋal
+4.241	beak	tuxlaŋ woy nʸul
+4.25	lip	tur̃up
+4.26	tongue	nʸalum
+4.27	tooth	pʸeŋk
+4.271	gums	pʸeŋknʸuxʸet
+4.272	molartooth	ulsʸpʸeŋk; lur̃altɨ pʸeŋk; wʸenš puŋal pʸeŋk
+4.28	neck	sapl
+4.281	nape of neck	putlaŋ
+4.29	throat	tur̃
+4.3	shoulder	laŋkar̃
+4.301	shoulderblade	poŋxal
+4.302	collarbone	- -
+4.31	arm	yoš
+4.312	armpit	puxat
+4.32	elbow	kunš olaŋ
+4.321	wrist	- -
+4.33	hand	yoš
+4.331	palm of hand	yoš pat
+4.34	finger	luy
+4.342	thumb	paŋ
+4.344	fingernail	kunškar̃
+4.345	claw	kunš
+4.35	leg	kur̃
+4.351	thigh	- -
+4.352	calf of leg	- -
+4.36	knee	šanš
+4.37	foot	kur̃pat
+4.371	ankle	- -
+4.372	heel	- -
+4.374	footprint	kur̃pat pos
+4.38	toe	luy
+4.392	wing	tuxl
+4.393	feather	pun
+4.4	chest	mʸewl
+4.41	breast (of woman)	esum
+4.412	nipple, teat	esum
+4.42	udder	mis esum
+4.43	navel	pup
+4.44	heart	sam
+4.441	lung	(xopsa); xupsa
+4.45	liver	muxat
+4.451	kidney	sɨyolaŋ
+4.452	spleen	- -
+4.46	stomach	- -
+4.461	intestines, guts	sulet
+4.462	waist	por̃x
+4.463	hip	- -
+4.464	buttocks	puy
+4.47	womb	- -
+4.49	testicle	kʸisʸ
+4.492	penis	- -
+4.51	breathe, breath	laltɨ; laltupsɨ ~ lal ~ lɨl
+4.52	yawn, gape	usʸinʸtatɨ
+4.521	hiccough	- -
+4.53	cough	xəlʸlʸitɨ
+4.54	sneeze	nʸaxɨstɨ
+4.55	perspire	šaŋkumtɨ
+4.56	spit	laksatɨ
+4.57	vomit	oxtɨ
+4.58	bite	pur̃tɨ
+4.59	lick	nʸulɨtɨ
+4.591	dribble	sʸur̃ʸitɨ
+4.61	sleep	ultɨ
+4.612	snore	tor̃ɨyttɨ
+4.62	dream	wəlmʸiyltɨ
+4.63	wake up	kur̃attɨ
+4.64	break wind	ponɨyltɨ
+4.65	urinate	kisʸtɨ
+4.66	defecate	posʸtɨ
+4.67	have sexual intercourse	utanttɨ
+4.68	shiver	tor̃ɨtɨ
+4.69	bathe	lʸuxʸitɨyltɨ; pewaltɨ
+4.71	beget (of father)	r̃utʸittɨ
+4.72	born (to be)	r̃utʸilatɨ; sema pʸitum
+4.73	pregnant	xunaŋ
+4.732	conceive	xunaŋa yitɨ
+4.74	live, living, life	wəltɨ; lɨlaŋ; wəlupsa
+4.75	die, dead	antəma yitɨ; sur̃ma yitɨ; xala
+4.751	drowned	šəytum
+4.76	kill	wʸeltɨ
+4.77	corpse	xala
+4.78	bury (the dead)	muwa puntɨ
+4.79	grave, tomb	xot
+4.81	strong, mighty, powerful	yur̃
+4.82	weak	sʸomlɨ ~ wʸewlɨ ~ wʸewtam
+4.83	well, health	talaŋ; talaŋ wəlupsa
+4.84	sick, sickness	kašeŋ ~ məšaŋ; kašɨ ~ məš
+4.841	fever	kaši r̃uw
+4.842	goiter	ay xotn bəltɨ; uksʸum kalɨ
+4.843	cold (catarrh)	potɨyltɨ kaši ~ potɨyltɨ məš
+4.85	wound, sore	nʸulum
+4.852	bruise	- -
+4.853	swelling	nux puwtopsa
+4.854	itch	kunšopsa
+4.855	blister	yuŋk nʸulum
+4.856	boil (noun)	lɨyaŋ nʸulum
+4.857	pus	lɨy
+4.858	scar	- -
+4.86	cure, heal	yamaltɨ
+4.87	physician	yamaltɨ xoyat
+4.88	medicine, drug	ler̃; pur̃tən
+4.89	poison	xaltɨ ler̃; tuyaŋ ler̃; poŋxaŋ ler̃
+4.91	tired, weary	wʸewtama pitum
+4.912	rest	r̃utʸsʸitɨ ~ sʸutʸsʸitɨ
+4.92	lazy	lenʸ ~ šək
+4.93	bald	əpat taklɨ
+4.94	lame	noxʸiyltɨ
+4.95	deaf	pallɨ
+4.96	mute	nʸalum taklɨ
+4.97	blind	semlɨ
+4.98	intoxicated	kusʸ
+4.99	naked, bare	nʸar̃lomt
+5.11	eat	letɨ
+5.12	food	letut; tep
+5.121	cooked	yetšum
+5.122	raw	nʸar̃
+5.123	ripe	poxiyim; pušum; yetšum
+5.124	green, unripe	nʸar̃
+5.125	rotten	lɨyum
+5.13	drink	yanʸsʸtɨ
+5.14	hunger	lelɨ
+5.141	famine	lelɨ
+5.15	thirst	tur̃ xoxtɨ; nʸalum sor̃tɨ
+5.16	suck	šeptɨ
+5.18	chew	lur̃ttɨ
+5.181	swallow	yuxʸi səxtatɨ
+5.19	choke	šaknɨyltɨ; lal yer̃mattɨ
+5.21	cook	put wʸer̃tɨ
+5.22	boil (vb)	kawar̃tti
+5.23	roast, fry	put wʸer̃tɨ
+5.24	bake	nʸanʸ wʸer̃tɨ
+5.25	oven	nʸanʸ wʸer̃tɨ kur̃
+5.26	pot, cooking vessel	put; lɨpʸi
+5.27	kettle	kʸew put
+5.28	pan	kew kar̃taŋ
+5.31	dish	put
+5.32	plate	an
+5.33	bowl	an
+5.34	pitcher, jug	suxtaput; kur̃ška
+5.35	cup, drinking vessel	an
+5.36	saucer	an
+5.37	spoon	nʸalɨ
+5.38	knife	kʸeši
+5.39	fork	wulka
+5.391	tongs	kar̃tɨ yoš
+5.41	meal (a)	letut
+5.42	breakfast	šay; alaŋ letut lewupsa
+5.43	lunch	xatl letut letapsa; xatl kutlup letapsa
+5.44	dinner	xatl kutlup letapsa
+5.45	supper	yetna letapsa
+5.46	peel	nʸir̃tɨ; xur̃tɨ
+5.47	sieve, strain	sistamttɨ
+5.48	scrape	kunštɨ
+5.49	stir, mix	lɨlattɨ; liltɨyltɨ
+5.51	bread	nʸanʸ
+5.53	dough	nʸanʸ šum
+5.54	knead	nʸanʸ omastɨ; muw r̃uwattɨ
+5.55	meal, flour	lant
+5.56	crush, grind	r̃awa šukatti; r̃awa wʸer̃tɨ
+5.57	mill	- -
+5.58	mortar	- -
+5.59	pestle	- -
+5.61	meat	nʸuxɨ
+5.63	sausage	- -
+5.64	soup, broth	lant; xošum yuŋk
+5.65	vegetables	sur̃nʸet
+5.66	bean	- -
+5.7	potato	kar̃təpka
+5.71	fruit	kar̃ɨ; lak; mor̃ʸi
+5.712	bunch	- -
+5.75	fig	- -
+5.76	grape	- -
+5.77	nut	noxar̃ sem
+5.78	olive	- -
+5.79	oil	wuy
+5.791	grease, fat	wuy
+5.81	salt	sul
+5.82	pepper	kur̃mʸek
+5.821	chili pepper	kur̃mʸek
+5.84	honey	maw
+5.85	sugar	sakkar̃
+5.86	milk (noun)	esumyiŋk
+5.87	milk (vb)	pəstɨ
+5.88	cheese	war̃ok
+5.89	butter	miswuy
+5.9	beverage, drink	yanʸsʸtut
+5.91	mead	mawaŋ yanʸsʸtut
+5.92	wine	wuna
+5.93	beer	piwa
+5.94	fermented drink	piwa
+5.97	egg	kar̃aŋ pušax
+5.971	egg yolk	- -
+6.11	put on (clothes)	ləmaltatɨ
+6.12	clothing, clothes	ləmatsux
+6.13	tailor	ləmatsux yonttɨ xoyat
+6.21	cloth	sʸeškan; nuy
+6.22	wool	pun sʸeškan
+6.23	linen, flax	sʸeškan
+6.24	cotton	sʸeškan
+6.25	silk	yer̃mak
+6.27	felt	katanka
+6.28	fur	woy punaŋ sux
+6.29	leather	sux
+6.31	spin	yeŋtti
+6.32	spindle	yeŋt
+6.33	weave	- -
+6.34	loom	- -
+6.35	sew	yonttɨ
+6.36	needle	yintup
+6.37	awl	yoš pur̃
+6.38	thread	suxum
+6.39	dye	olʸupn ner̃tɨ
+6.41	cloak	yer̃t sux
+6.411	poncho	- -
+6.42	woman's dress	yer̃nas
+6.43	coat	wan sax; xoptan
+6.44	shirt	yer̃nas
+6.45	collar	r̃ux
+6.46	skirt	yupka
+6.461	grass-skirt	- -
+6.48	trousers	ayer̃nas; kasʸ
+6.49	stocking, sock	wʸey
+6.51	shoe	sopʸek; pošmʸek
+6.52	boot	sopʸek
+6.54	shoemaker, cobbler	sopʸek yonttɨ xoyat; pošmʸek yonttɨ xoyat
+6.55	hat, cap	mʸil
+6.57	belt, girdle	antup
+6.58	glove	luyn pos
+6.59	veil	- -
+6.61	pocket	sʸep
+6.62	button	poxl ~ nʸul
+6.63	pin	- -
+6.71	ornament, adornment	xur̃am
+6.72	jewel	tɨnaŋ kʸew
+6.73	ring (for finger)	ləyt
+6.74	bracelet	- -
+6.75	necklace	tur̃lops
+6.76	bead	sak
+6.77	earring	sʸimsʸik
+6.78	headband, headdress	- -
+6.79	tattoo	- -
+6.81	handkerchief, rag	pulx pəsti sux; lanʸsʸak; r̃akasʸi
+6.82	towel	wenš moŋxtɨ sux
+6.91	comb	kunšup
+6.92	brush	sʸotka
+6.921	braid	sewtɨ; sew
+6.93	razor	- -
+6.94	ointment	ler̃
+6.95	soap	lunʸsʸax ~ moytek
+6.96	mirror	wenš wanttɨ wux
+7.11	dwell, live	wəltɨ
+7.12	house	xot
+7.13	hut	xot
+7.131	garden-house	xot
+7.14	tent	par̃sʸin xot
+7.15	yard, court	xot puŋal taxʸi
+7.16	men's house	- -
+7.17	cookhouse	- -
+7.18	meeting house	ux puntɨ; poyiksʸatɨ xot
+7.21	room	xot yit
+7.22	door, gate	ow; pəšas ow
+7.221	doorpost, jamb	ow xošap
+7.23	lock (noun)	tuman
+7.231	latch, door-bolt	ow kattup
+7.24	key	tuman nʸalum
+7.25	window	išnʸi
+7.26	floor	xotxar̃ɨ
+7.27	wall	xot pawar̃t; xot puŋal
+7.31	fireplace	kər̃
+7.32	stove	kər̃
+7.33	chimney	tur̃pa
+7.37	ladder	xəŋxep
+7.42	bed	ultɨ lot
+7.421	pillow	usum xɨr̃
+7.422	blanket	laŋkup
+7.43	chair	bəlas
+7.44	table	pasan
+7.45	lamp, torch	lampa
+7.46	candle	iswesʸa
+7.47	shelf	nur̃um
+7.48	trough	xur̃ɨ
+7.51	roof	xotlaŋal
+7.52	thatch	tur̃n xotlaŋal
+7.53	ridgepole	- -
+7.54	rafter	- -
+7.55	beam	pawar̃t
+7.56	post, pole	aŋkal; nɨr̃
+7.57	board	soxal
+7.58	arch	- -
+7.61	mason	kʸew seŋktɨ xoyat
+7.62	brick	kʸir̃masʸ
+7.63	mortar	- -
+7.64	adobe	- -
+8.11	farmer	muw xusʸa r̃əpittɨ xoyat
+8.12	field (for cultivation)	xar̃
+8.13	garden	osʸ; okr̃ot
+8.15	cultivate, till	muw šukattɨ
+8.16	fence	okr̃ot wer̃tɨ
+8.17	ditch	xulɨ
+8.21	plow	muw šukattɨ
+8.212	furrow	xulɨ
+8.22	dig	xʸir̃tɨ
+8.23	spade	sar̃; kar̃tsar̃
+8.24	shovel	sar̃
+8.25	hoe	- -
+8.26	fork	wula
+8.27	rake	kunšpaŋ yux
+8.31	sow	lant sem omastɨ
+8.311	seed	sem
+8.32	mow, reap	sewar̃tɨ
+8.33	sickle, scythe	tur̃n sewar̃tɨ kar̃tɨ
+8.34	thresh	- -
+8.35	threshing-floor	kum
+8.41	crop, harvest	lant tur̃n sewar̃tɨ pur̃a
+8.42	grain (barley, oats etc)	lant
+8.43	wheat	nuwi lant tur̃n; nuwi lant sem
+8.44	barley	- -
+8.45	rye	al nʸanʸ tur̃n
+8.46	oats	low lant
+8.47	maize, corn	- -
+8.48	rice	- -
+8.51	grass	tur̃n; wanši
+8.52	hay	tur̃n
+8.53	plant (noun)	tur̃n
+8.531	plant (vb)	omastɨ
+8.54	root	ler̃
+8.55	branch	nuw
+8.56	leaf	lɨpat
+8.57	flower	tʸatʸi
+8.6	tree	yux
+8.61	oak	- -
+8.62	beech	- -
+8.63	birch	sumat
+8.64	pine	bənši
+8.65	fir	xəl
+8.66	acorn	- -
+8.67	vine	- -
+8.68	tobacco	šar̃
+8.69	smoke (tobacco)	šar̃ laltɨ
+8.691	pipe	tur̃pka
+8.72	tree stump	aŋkal
+8.73	tree trunk	yux
+8.74	forked branch	nuw
+8.75	bark	kar̃
+8.76	sap	- -
+8.81	palm tree	- -
+8.82	coconut	- -
+8.83	citrus fruit	- -
+8.84	banana tree	- -
+8.85	banyan	- -
+8.91	sweet potato	eplaŋ kar̃təpka
+8.912	yam	yam; yams
+8.92	tapioca, manioc, cassava	- -
+8.93	gourd	- -
+8.931	pumpkin, squash	- -
+8.94	bamboo	- -
+8.941	sugar cane	- -
+8.96	fish poison (root)	- -
+8.97	nettle	- -
+8.98	mushroom	tulax
+9.11	do, make	wʸer̃tɨ; wʸer̃attɨ
+9.12	work	r̃əpittɨ
+9.14	bend	xutaltɨ; kusaltɨ
+9.15	fold	i taxʸiya punɨyltɨ
+9.16	tie, bind	yir̃tɨ
+9.161	untie	losɨtti
+9.18	chain	kar̃tkʸel; sʸuŋk
+9.19	rope, cord	kʸel
+9.192	knot (noun)	monxal
+9.21	strike (hit, beat)	xatʸsʸatɨ; weltɨ
+9.211	pound with fist	sʸaxnɨn xatʸsʸati
+9.22	cut	ewattɨ; sewar̃tɨ
+9.221	cut down	ewattɨ
+9.222	chop, hew	sewar̃tɨ
+9.223	stab	lonʸsʸtɨ
+9.23	knife	kʸeši
+9.24	scissors, shears	kat yonlun kʸeši
+9.25	ax	layum
+9.251	adze	- -
+9.26	break	šukattɨ
+9.261	broken	šukatum
+9.27	split	sewar̃tɨ
+9.28	tear	manšitɨ
+9.29	flay, skin	xur̃tɨ
+9.31	rub, wipe	ner̃tɨ
+9.32	stretch	lakka taltɨ
+9.33	pull	taltɨ
+9.34	spread out	laŋktɨ; par̃ŋaltɨ
+9.341	hang up	ixattɨ; exattɨ
+9.342	press	taŋar̃tti; nʸor̃ttɨ
+9.343	squeeze, wring	taŋar̃ttɨ
+9.35	pour	šošumtɨ
+9.36	wash	lʸuxattɨ; xul ner̃tɨ; xul muŋxtɨ
+9.37	sweep	yowaltɨ
+9.38	broom	yowlapsa
+9.422	tool	por̃mas
+9.43	carpenter	xot omastɨ xoyat
+9.44	build	omastɨ
+9.46	bore	pur̃attɨ
+9.461	hollow out	moxtɨ pur̃attɨ
+9.48	saw	yux ewattɨ kar̃tɨ
+9.49	hammer	sʸak ~ seŋkup
+9.5	nail	kar̃luŋk
+9.56	glue	aym
+9.6	smith, blacksmith	kar̃tɨ seŋktɨ xoyat
+9.61	forge	kar̃tɨ seŋktɨ
+9.62	anvil	kar̃tɨ seŋktɨ kʸew
+9.63	cast (metals)	kar̃tɨ pur̃mas wʸer̃tɨ
+9.64	gold	sor̃nʸi
+9.65	silver	sʸel wux
+9.66	copper, bronze	patar̃ ox
+9.67	iron	kar̃tɨ
+9.68	lead (noun)	- -
+9.69	tin, tinplate	- -
+9.71	potter	- -
+9.72	mold (clay etc)	wʸer̃attɨ; laktɨ
+9.73	clay	suxta
+9.74	glass	lɨs
+9.75	weave, plait	sewtɨ
+9.76	basket	xʸint; xošap
+9.77	mat	lapi
+9.771	rug	- -
+9.78	netbag	xolap
+9.79	fan (noun)	- -
+9.791	fan (vb)	sɨstamttɨ
+9.81	carve	lʸaktɨ; wʸer̃attɨ
+9.82	sculptor	wʸer̃attɨ xoyat
+9.83	statue	- -
+9.84	chisel	- -
+9.88	paint (noun)	olʸup
+9.89	paint (vb)	olʸuptatɨ
+10.11	move	xatlmatɨ; yelšak nʸoxtatɨ
+10.12	turn over	kar̃ematɨ
+10.13	turn around	lar̃ɨttɨ
+10.14	wind, wrap	yuwar̃matɨ
+10.15	roll	lar̃ɨttɨ
+10.16	drop (vb)	il pawattɨ
+10.17	twist	kar̃ematɨ; kʸer̃attɨ
+10.21	rise	nux wʸer̃latɨ; nux lolʸtɨ
+10.22	raise, lift	nux alumtɨ
+10.23	fall	il pitɨyltɨ
+10.24	drip	posɨtɨ; uwtɨ
+10.25	throw	wusʸkatɨ
+10.252	catch (ball)	katltɨ; weltɨ
+10.26	shake	par̃kattɨ
+10.32	flow	uwtɨ
+10.33	sink	yiŋka šəyittɨ
+10.34	float	wəsʸtɨ; wəsʸiyltɨ
+10.35	swim	wəsʸti; wəsʸiyltɨ
+10.351	dive	mar̃tatlʸatɨ; yiŋka wuxaltɨ
+10.352	splash	r̃uwtɨ; r̃uwaltɨ
+10.36	sail (vb)	wəsʸtɨ; wəsʸiyltɨ
+10.37	fly (vb)	pər̃latɨ
+10.38	blow	pultɨ
+10.41	creep, crawl	waŋkʸiyltɨ
+10.412	kneel	šanš əxtɨyn lolʸtɨ
+10.413	crouch	makar̃lɨyltɨ
+10.42	slide, slip	wulʸkʸematɨ
+10.43	jump, leap	nawar̃matɨ
+10.431	kick	šuŋxsatɨ
+10.44	dance	yaktɨ
+10.45	walk	mantɨ; yaŋxtɨ; šuštɨ
+10.451	limp	nuxtɨ
+10.46	run	xəxaltɨ
+10.47	go	mantɨ; šəšti
+10.471	go up	nux xəŋxtɨ
+10.472	climb	xəŋxtɨ; xəŋxʸiyltɨ
+10.473	go down	il eslasʸiyltɨ
+10.474	go out	kʸim etmiyltɨ; kʸim etlʸatɨ; kʸim etmatɨ
+10.48	come	yuxattɨ; yuxatɨyltɨ
+10.481	come back	yuxlɨ kʸer̃lɨyltɨ; yuxʸi yuxattɨ
+10.49	go away, depart	kʸim ettɨ
+10.491	disappear	wəšiyltɨ
+10.51	flee	xəxalti
+10.52	follow	kusʸtɨ; ar̃tasʸman wanttɨ
+10.53	pursue	nʸoxaltɨ
+10.55	reach, arrive	yuxattɨ
+10.56	approach	wanemiyltɨ
+10.57	enter	luŋtɨ
+10.61	carry (bear)	tətɨ; altɨ
+10.612	carry-in-hand	yoš lɨpʸiyn altɨ
+10.613	carry-on-shoulder	laŋkar̃ əxtɨyn altɨ
+10.614	carry-on-head	ux əxtɨyn alti
+10.615	carry-underarm	puxal lɨpʸiyn altɨ
+10.62	bring	tətɨ
+10.63	send	kittɨ
+10.64	lead (vb)	wanltatɨ; tətɨ
+10.65	drive	wošattɨ
+10.66	ride	mantɨ
+10.67	push, shove	pəxaltɨ
+10.71	road	yəš ~ pant
+10.72	path	yəš xər̃
+10.74	bridge	untas
+10.75	carriage, wagon, cart	- -
+10.76	wheel	lak
+10.77	axle	- -
+10.78	yoke	- -
+10.81	ship	tutaŋ xop
+10.83	boat	xop
+10.831	canoe	xop
+10.832	outrigger	- -
+10.84	raft	pur̃
+10.85	oar	ləp
+10.851	paddle (noun)	ləp
+10.852	row (vb)	lowaltɨ
+10.86	rudder	sewas
+10.87	mast	par̃š aŋkal
+10.88	sail (noun)	par̃š
+10.89	anchor	wuŋlep; yakar̃
+10.91	harbor, port	- -
+10.92	land (vb)	wut mantɨ; xoytɨ
+11.11	have	taytɨ
+11.12	own, possess	taytɨ
+11.13	take	wutɨ; wuylʸatɨ; alematɨ
+11.14	seize, grasp	alematɨ; katltɨ
+11.15	hold	taytɨ
+11.16	get, obtain	wutɨ; yoša pawattɨ; musʸattɨ; weltɨ
+11.17	keep, retain	taytɨ
+11.18	thing	ut ~ pur̃mas
+11.21	give	matɨ
+11.22	give back	matɨ; yuxlɨ kʸer̃latɨ
+11.24	preserve, look after	šawʸilatɨ
+11.25	save, rescue	nux pasayttɨ
+11.27	destroy	r̃awa šukattɨ; wonʸsʸala wʸer̃tɨ
+11.28	harm, injure, damage	atum wʸer̃tɨ
+11.31	seek, look for	kanštɨ
+11.32	find	əyttɨ; əytʸatɨ
+11.33	lose	ətšiyltɨ
+11.34	release, let go	esltɨ
+11.43	money	wux
+11.44	coin	ay wux
+11.51	rich	tasʸiŋ
+11.52	poor	nuša; šəkaŋ
+11.53	beggar	mʸet nuša
+11.54	avaricious, stingy	sʸakar̃
+11.61	lend	ar̃ɨntaya matɨ
+11.62	borrow	ar̃ɨntaya wutɨ
+11.63	owe	ar̃ɨntayɨŋa wəltɨ
+11.64	debt	ar̃ɨnta
+11.65	pay (vb)	suxuptatɨ
+11.66	account, reckoning	luŋtopsa
+11.69	tax, tribute	- -
+11.77	hire	mita wutɨ
+11.78	wages	wux wutɨ
+11.79	earn	wux pənuttɨ
+11.81	buy	ləttɨ
+11.82	sell	tɨnɨtɨ
+11.83	trade, barter	tɨnɨyltɨ; tɨnɨsatɨ
+11.84	merchant	sʸor̃asxə
+11.85	market (place)	tɨnɨsatɨ taxi
+11.86	store, shop	lapka
+11.87	price	tɨn
+11.88	dear (costly, expensive)	tɨnaŋ
+11.89	cheap	tɨnlɨ
+11.91	share (distribute)	or̃ttɨ
+11.92	weigh	weskalatɨ
+12.1	after	yəxat ~ sʸaxa
+12.11	behind	yulta ~ yupʸiyn
+12.2	beside	puŋaln
+12.3	down, below	iln; il
+12.4	before	yeln; yelpiyn; sɨr̃iya
+12.41	front	xot yelpʸi
+12.5	inside, in	lɨpiyn
+12.6	outside	kamɨn
+12.7	under	iln
+12.8	up, above	numpiyn
+12.11	place	taxi
+12.12	put	puntɨ; lonʸsʸtɨ
+12.13	sit	omastɨ
+12.14	lie down	ultɨ
+12.15	stand	lolʸtɨ
+12.16	remain, stay	xasʸtɨ
+12.17	remains, left overs	xasʸum utat
+12.21	collect, gather	akattɨ
+12.212	pick up	nux almiyltɨ
+12.213	pile up	- -
+12.22	join, unite	pʸilattɨ
+12.23	separate	katna or̃ttɨ
+12.232	divide	or̃tti
+12.24	open	punštɨ
+12.25	shut, close	lap pʸenttɨ
+12.26	cover	laŋktɨ
+12.27	hide, conceal	sawitɨ; xanʸattɨ
+12.31	high	kar̃sʸ
+12.32	low	lel
+12.33	top	nux; tiy; num
+12.34	bottom	pat; patɨ
+12.35	end	olaŋ; yuwolaŋ
+12.352	pointed	pastɨ; tɨyaŋ
+12.353	edge	tɨy; xonaŋ
+12.36	side	pʸelak; puŋal
+12.37	middle, center	kutlup
+12.41	right (side)	yams pʸelɨk; yams pʸelka
+12.42	left (side)	puwa pʸelɨk; puwa pʸelka
+12.43	near (adv)	wana; wanan
+12.44	far (adv)	xuwa; xuwn
+12.45	east	xatl etti pʸelak
+12.46	west	kew pʸelak; xatl omastɨ pʸelak
+12.47	north	uwas
+12.48	south	num muw; num olaŋ
+12.53	grow	enumtɨ
+12.54	measure	ar̃talatɨ; mʸer̃attɨ
+12.541	span, fathom	- -
+12.55	large, big	wən; wulaŋ
+12.56	small, little	ay
+12.57	long	xuw
+12.58	tall	kar̃sʸ
+12.59	short	wan
+12.61	wide, broad	wutaŋ
+12.62	narrow	wasʸ; yer̃mat
+12.63	thick (in dimension)	kul
+12.65	thin (in dimension)	wasʸ
+12.67	deep	mal
+12.68	shallow	pantaŋ
+12.71	flat	lupsax
+12.73	straight	tuŋ
+12.74	crooked	yuwr̃a
+12.75	hook	kur̃k
+12.76	corner	suŋ
+12.77	cross	pʸer̃na
+12.78	square	nʸalsuŋup
+12.81	round	yeŋta
+12.82	circle	lak
+12.83	sphere, ball	yeŋta xɨr̃
+12.84	line	sʸur̃tmʸil
+12.85	hole	wus
+12.92	like, similar	sʸi xur̃asup
+12.93	change	pʸelattɨ
+13.0	zero, nothing	wonʸsʸal; nemultɨ
+13.1	one	i ~ iy ~ it
+13.2	two	kat ~ katn
+13.3	three	xəlum
+13.4	four	nʸal
+13.5	five	wʸet
+13.6	six	xət
+13.7	seven	lapat
+13.8	eight	nʸiwal
+13.9	nine	yar̃tʸyaŋ
+13.10	ten	yaŋ
+13.101	eleven	iyxusʸyaŋ
+13.102	twelve	katxusʸyaŋ
+13.103	fifteen	wetxusʸyaŋ
+13.104	twenty	xus
+13.105	hundred	sot
+13.106	thousand	sʸur̃as
+13.107	count	nux luŋatti
+13.14	every, all	kasʸiŋ; isat
+13.15	much, many	ar̃
+13.16	more	ar̃šik
+13.17	little (quantity), few	šimal
+13.18	enough	tar̃mal
+13.181	some	mattɨ; təxut; šimal
+13.19	multitude, crowd	ar̃at
+13.21	full	teliye; teknak; tekanman
+13.22	empty	tal
+13.23	part, piece	pʸelak ~ šəp
+13.24	half	pʸelak ~ šəp
+13.33	alone, only	i ~ iy ~ it; atelt; təp
+13.34	first	olaŋmʸit
+13.35	last	yuxat
+13.36	second	kʸimʸit
+13.37	pair	- -
+13.38	two times	katpuš
+13.42	third	xəlmit
+13.44	three times	xəlmpuš
+14.11	time	mar̃; ar̃t; kem; pur̃a
+14.12	age	nəpat
+14.13	new	yilup
+14.14	young	aylat
+14.15	old	pir̃asʸ
+14.16	early	sɨr̃ɨ
+14.17	late	yəxat
+14.18	now	in ~ intam; welʸsʸi
+14.19	immediately	moxtɨ
+14.21	swift, fast, quick	pastɨ ~ kar̃kam
+14.22	slow	ayilta
+14.23	hasten, hurry	ter̃malatɨ
+14.24	retard, delay	an ter̃malatɨ
+14.25	begin, beginning	olaŋ; olŋaltɨ
+14.252	last, endure	muy wuš wəntɨ wəltɨ
+14.26	end (temporal)	yuwolaŋ
+14.27	finish	yetšuptatɨ; xultuptatɨ
+14.28	cease, stop	nux wulɨtɨ
+14.29	ready	yetšum
+14.31	always	isa pur̃ayn; kašiŋ pur̃ayn; ipuša; isat
+14.32	often	wankutlɨ
+14.33	sometimes	təxal pur̃ayn
+14.331	soon	sor̃a
+14.332	long-time (for a)	xuw
+14.34	never	nemult pur̃ayn
+14.35	again	yilpa ~ pasʸi
+14.41	day	xatl
+14.42	night	at
+14.43	dawn	xənʸlʸ
+14.44	morning	alaŋ
+14.45	noon, midday	xatl kutlup
+14.451	afternoon	xatl kutlup yuwpʸi pur̃a
+14.46	evening	yet
+14.47	today	tamxatl
+14.48	tomorrow	xalewat
+14.481	day-after-tomorrow	paxatl
+14.49	yesterday	mulxatl
+14.491	day-before-yesterday	xəlmit xatl
+14.51	hour	sʸos
+14.53	clock, timepiece	sʸos
+14.61	week	lapat
+14.62	Sunday	r̃utʸsʸatɨ xatl
+14.63	Monday	lapat olaŋ xatl
+14.64	Tuesday	lapat kimit xatl
+14.65	Wednesday	lapat xəlmit xatl
+14.66	Thursday	lapat nʸalmit xatl
+14.67	Friday	lapat wʸetmit xatl
+14.68	Saturday	lapat xətmit xatl
+14.71	month	tɨlasʸ
+14.73	year	ol; tal
+14.74	winter	tal
+14.75	spring	towi
+14.76	summer	luŋ
+14.77	autumn	sus
+14.78	season	- -
+15.21	smell (vb intrans)	epattɨ
+15.212	sniff	epsatɨ
+15.22	smell (vb trans)	epsatɨ
+15.25	fragrant, good smelling	yam əplaŋ
+15.26	stinking, bad smelling	lɨyum
+15.31	taste	lawʸematɨ
+15.35	sweet	eplaŋ
+15.36	salty	sulaŋ
+15.37	bitter	wusʸr̃em; wusʸr̃emaŋ
+15.38	acid, sour	wusʸlum; šumum
+15.39	brackish	sulaŋšik
+15.41	hear	xəltɨ
+15.42	listen	xəlanttɨ
+15.44	sound, noise	sɨy
+15.45	loud	sɨyaŋ
+15.46	quiet, silence	sɨylɨ
+15.51	see	wanttɨ
+15.52	look, look at	wanttɨ
+15.55	show	alʸtɨ
+15.56	shine	wulitɨ; sur̃ttɨ
+15.57	bright	nuwi
+15.61	color	elup
+15.62	light (in color)	nuwi; etar̃
+15.63	dark (in color)	pitɨxur̃aspʸi
+15.64	white	nuwi; yeŋk
+15.65	black	pitɨ
+15.66	red	wur̃tɨ
+15.67	blue	etar̃xar̃ɨ
+15.68	green	wustɨ; nʸar̃ tur̃n
+15.69	yellow	wusʸlum; xoym lɨpat
+15.71	touch	ketmiyltɨ
+15.712	pinch	- -
+15.72	feel	malasʸlatɨ
+15.74	hard	susum; tak
+15.75	soft	lepat
+15.76	rough	- -
+15.77	smooth	paylɨ
+15.78	sharp	pastɨ; tɨyn
+15.79	blunt, dull	nʸaš; tɨylɨ
+15.81	heavy	lawar̃t
+15.82	light (in weight)	kʸen
+15.83	wet, damp	yiŋkʸi
+15.84	dry	sor̃m
+15.85	hot	r̃uwaŋ; kawr̃um
+15.851	warm	mʸelk; xošm
+15.86	cold	isʸkʸi
+15.87	clean	sɨstam
+15.88	dirty, soiled	xəlaŋ
+15.89	wrinkled	- -
+16.11	soul, spirit	- -
+16.15	surprised, astonished	- -
+16.18	good fortune, luck	uy
+16.19	misfortune, bad luck	šək
+16.23	joyful, glad, happy	amtaŋ; kašiŋ
+16.25	laugh	nʸaxtɨ
+16.251	smile	nʸax mulaŋa yuwanttɨ
+16.26	play	yunttɨ
+16.27	love	mosman taytɨ
+16.29	kiss	mosaltatɨ
+16.3	embrace	apalttɨ; apalmatɨ
+16.31	pain	kaši
+16.32	grief, sorrow, sadness	šək
+16.33	anxiety, worry	- -
+16.34	regret, be sorry	šalittɨ
+16.35	pity	šalʸ
+16.37	cry, weep	xollatɨ
+16.38	tear (noun)	sem yiŋk
+16.39	groan	eŋaltɨ
+16.41	hate	- -
+16.42	anger	lɨk; kant; sam
+16.44	envy, jealousy	- -
+16.45	shame (noun)	yelem
+16.48	proud	yur̃aŋ
+16.51	dare	- -
+16.52	brave	paltaplɨ
+16.53	fear, fright	paltɨ wʸer̃
+16.54	danger	paltap wʸer̃
+16.62	desire, want	laŋxatɨ
+16.622	choose	pir̃itɨ
+16.63	hope	- -
+16.65	faithful	wʸesʸkat; šopaŋ
+16.66	true	wʸesʸkat; šop
+16.67	lie, tell lies	r̃oxpʸiyltɨ
+16.68	deceit	r̃oxpi
+16.69	forgive	- -
+16.71	good	yam
+16.72	bad	atum
+16.73	right, correct	tumtak; tuŋ; təs
+16.74	wrong	r̃oxpi; yowr̃a
+16.76	fault	wunawot
+16.77	mistake, error	yuwr̃a wʸer̃
+16.78	blame	lʸawtum
+16.79	praise	išiktɨ wer̃
+16.81	beautiful	wʸesʸiŋ
+16.82	ugly	xur̃aslɨ
+16.83	greedy	nʸelaŋ; sʸakar̃
+16.84	clever	nəmsaŋ; ušaŋ
+17.11	mind	nəmas; uš
+17.13	think (= reflect)	nəmastɨ
+17.14	think (= be of the opinion)	yama nəmastɨ
+17.15	believe	ewaltɨ
+17.16	understand	uša wʸer̃tɨ; uša wʸer̃iyltɨ
+17.17	know	wətɨ; wəylttɨ
+17.171	guess	nəmastɨ
+17.172	imitate	isʸitɨ wʸer̃tɨ
+17.18	seem	- -
+17.19	idea, notion	nəmas; uš
+17.21	wise	nəmsaŋ
+17.22	foolish, stupid	utšam ~ ušlɨ
+17.23	insane, crazy	utšam ~ ušlɨ
+17.24	learn	wənltɨyltɨ
+17.242	study	uša wʸer̃tɨ
+17.25	teach	wənltatɨ
+17.26	pupil	wənltɨyltɨ nʸawr̃em
+17.27	teacher	nʸawr̃em wənltatɨ xoyat
+17.28	school	nʸawr̃em wənltatɨ xot
+17.31	remember	nəmtɨ
+17.32	forget	yur̃ematɨ
+17.34	clear, plain	- -
+17.35	obscure	- -
+17.36	secret	xanʸi
+17.37	sure, certain	- -
+17.38	explain	- -
+17.41	intention, purpose	laŋxatɨ wʸer̃
+17.42	cause	muysar̃ pʸisʸ pata
+17.43	doubt	ant wətɨ wʸer̃
+17.44	suspect	ant wətɨ
+17.441	betray	yastatɨ; luptɨ; potar̃ttɨ
+17.45	need, necessity	mostɨ wʸer̃
+17.46	easy	ken
+17.47	difficult	lawar̃t
+17.48	try, attempt	wur̃atiyltɨ; ar̃talatɨ
+17.49	way, manner	- -
+17.51	and	pa
+17.52	because	sʸi pata; sʸir̃n
+17.53	if	ki
+17.54	or	amuy
+17.55	yes, affirmative	sʸitɨ sʸi
+17.56	no, negative	anta; antum
+17.61	how?	xutɨ; xutɨsa; muy wur̃n; muy sʸir̃n
+17.62	how many?	muy ar̃at; muykʸem; kamn
+17.63	how much?	muy ar̃at; muykʸem; kamn
+17.64	what?	muy
+17.65	when?	xun
+17.66	where?	xota; xulta; xulʸsʸa
+17.67	which?	muysar̃; kamnmit
+17.68	who?	xoy
+17.69	why?	muy pata ~ muya
+18.11	voice	tur̃sɨy
+18.12	sing	ar̃ɨtɨ
+18.13	shout, cry out	uwtɨ; xʸiyitɨ
+18.15	whisper	wušitɨ
+18.16	mumble	lomʸitɨ
+18.17	whistle	šəxumtɨ
+18.18	shriek, screech	uwatti; uwti
+18.19	howl	or̃ʸiyltɨ
+18.21	speak, talk	potar̃ttɨ
+18.211	stutter, stammer	- -
+18.22	say	luptɨ
+18.221	tell story	- -
+18.222	speech (make a)	yasaŋ taytɨ
+18.23	silent (be)	xusta wəltɨ
+18.24	language	yasaŋ
+18.26	word	yasaŋ
+18.28	name	nem
+18.31	ask (question, inquire)	inʸsʸastɨ
+18.32	answer	yuxlɨ luptɨ
+18.33	admit, confess	- -
+18.34	deny	- -
+18.35	ask, request	taka inʸsʸastɨ
+18.36	promise	yastatɨ
+18.37	refuse	at laŋxatɨ
+18.38	forbid	lap yer̃tti; lap yer̃tɨyltɨ
+18.39	rebuke, scold	- -
+18.41	call (=summon)	woxtɨ
+18.42	call (=name)	nemasatɨ; nemiyltɨ
+18.43	announce	yoxa luptɨ
+18.44	threaten	- -
+18.45	boast	iškasʸtɨ; or̃kasʸtɨ
+18.51	write	xanštɨ
+18.52	read	luŋatti
+18.56	paper	nepʸek
+18.57	pen	xanštɨ yux
+18.61	book	nepʸek
+18.67	poet	- -
+18.71	flute	- -
+18.72	drum	- -
+18.73	horn, trumpet	- -
+18.74	rattle	ay ləŋxanʸsʸup
+19.11	country	muw
+19.12	one's native country	r̃ət muw; šəšɨ muw
+19.15	city, town	woš
+19.16	village	kər̃t
+19.17	boundary	- -
+19.21	people (populace)	yox; mʸir̃
+19.23	tribe, clan	r̃ət
+19.24	chief, chieftain	kəsʸa
+19.25	staff, walking stick	suwyux
+19.31	rule, govern	kəsʸaylɨtɨ
+19.32	king, ruler	- -
+19.33	queen	- -
+19.36	noble, nobleman	- -
+19.37	citizen, subject	- -
+19.41	master	kəsʸa
+19.42	slave	- -
+19.43	servant	mʸitxə
+19.44	freeman	osa
+19.45	command, order	par̃ttɨ
+19.46	obey	lušittɨ
+19.47	let, permit	esltɨ
+19.51	friend, companion	ləxas
+19.52	enemy	wur̃ak
+19.54	neighbor	lepn wəltɨ xoyat
+19.55	stranger	paxoyat
+19.56	guest	moyŋ xoyat
+19.57	host	kəsʸa
+19.58	help, aid	nʸottɨ
+19.59	hinder, prevent	tur̃as wʸer̃tɨ
+19.61	custom	pisʸ; pisʸit
+19.62	strife, quarrel	wur̃asʸtɨ wʸer̃; lʸawattɨ wʸer̃
+19.63	conspiracy, plot	wur̃ak wʸer̃
+19.65	meet	yesʸalt wəyttɨ
+19.72	prostitute	posar̃
+20.11	fight (vb)	nʸul wʸeltɨ
+20.13	war, battle	lalʸ
+20.14	peace	lalʸlɨ wəlupsɨ
+20.15	army	- -
+20.17	soldier	- -
+20.21	weapons, arms	puškan
+20.22	club	- -
+20.222	battle-ax	- -
+20.23	sling	- -
+20.24	bow	yəxal
+20.25	arrow	nʸul
+20.26	spear	- -
+20.27	sword	altɨ kʸeši
+20.28	gun, cannon	puškan
+20.31	armor (defensive)	- -
+20.33	helmet	- -
+20.34	shield	- -
+20.35	fortress	- -
+20.36	tower	- -
+20.41	victory	nux pʸittɨ wʸer̃
+20.42	defeat	- -
+20.43	attack	lalʸ
+20.44	defend	lalistɨ
+20.45	retreat	yuxlɨ pʸela manɨyltɨ
+20.46	surrender	matɨ
+20.47	captive, prisoner	- -
+20.471	guard, sentinel	- -
+20.48	booty, spoils	wʸelpas
+20.49	ambush	xanʸemuman omastɨ
+20.51	fisherman	xul wʸelpaslatɨ xoyat
+20.52	fishhook	nʸaš
+20.53	fishing line	nʸaš kʸel
+20.54	fishnet	xolap
+20.55	fish trap	mʸerʸoša
+20.56	bait	- -
+20.61	hunt	wʸelpaslatɨ
+20.62	shoot	puškan esltɨ
+20.63	miss (target)	moxtɨ esltɨ
+20.64	trap (noun)	sesɨ; kar̃tsesɨ
+20.65	trap (vb)	katltɨ; kar̃tsesiyn wʸeltɨ
+21.11	law	sakkon
+21.15	court	sut
+21.16	judge (vb)	sutʸittɨ
+21.17	judgment	- -
+21.18	judge (noun)	sut xoyat
+21.21	plaintiff	- -
+21.22	defendant	- -
+21.23	witness	- -
+21.24	swear	- -
+21.25	oath	yastopsa
+21.31	accuse	wunawota luptɨ
+21.32	condemn	wunawota luptɨ
+21.33	convict (vb)	wunawota luptɨ
+21.34	acquit	tuŋa luŋattɨ
+21.35	guilty	wunawot
+21.36	innocent	wunawot taklɨ
+21.37	penalty, punishment	- -
+21.38	fine	aštr̃ap
+21.39	prison, jail	tʸur̃ʸma xot
+21.42	murder	wʸeltɨ wʸer̃
+21.43	adultery	posar̃
+21.44	rape	- -
+21.46	arson	wusʸittɨ wʸer̃; tuta lapattɨ wʸer̃
+21.47	perjury	- -
+21.51	steal	lolumtɨ
+21.52	thief	lolmax
+22.11	religion	tər̃um wʸer̃
+22.12	God	tər̃um
+22.13	temple, church	yemaŋ xot; tər̃um xot
+22.14	altar	yemaŋ taxʸi
+22.15	sacrifice, offering	yir̃
+22.16	worship	ux puntɨ
+22.17	pray	poyiksʸatɨ
+22.18	priest	pup
+22.19	holy, sacred	yemaŋ
+22.22	preach	wənltatɨ
+22.23	bless	yama luptɨ
+22.24	curse	tekattɨ
+22.26	fast (vb)	- -
+22.31	heaven	tər̃umxar̃
+22.32	hell	- -
+22.35	demon (evil spirit)	kulʸ
+22.37	idol	ləŋx
+22.42	magic, witchcraft, sorcery	sʸar̃tut
+22.43	sorcerer, witch	sʸar̃tne
+22.44	fairy, elf	- -
+22.45	ghost, phantom	yisxur̃
+22.47	omen, portent	- -

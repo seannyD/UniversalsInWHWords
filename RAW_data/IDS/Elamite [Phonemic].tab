@@ -1,0 +1,1311 @@
+entry_id	trans_english	Elamite_Phonemic
+1.1	world	
+1.21	earth, land	
+1.212	earth=ground, soil	muru-: OE mu-ru-it; ME, NE, AchE mu-ru-un
+1.213	dust	ME su-uk-ma
+1.214	mud	
+1.215	sand	
+1.22	mountain, hill	ME am-ni
+1.222	cliff, precipice	
+1.23	plain, field	
+1.24	valley	
+1.25	island	
+1.26	mainland	
+1.27	shore	AchE šà-ri-ut
+1.28	cave	NE du-ráš
+1.31	water	zul: ME zu-ul
+1.32	sea	AchE kam
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	
+1.329	ocean	
+1.33	lake	
+1.34	gulf, bay	
+1.341	lagoon	
+1.342	reef	
+1.343	headland, point	
+1.35	wave	
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	
+1.362	whirlpool	
+1.37	spring, well	OE zu-ul.la-li
+1.38	swamp	
+1.39	waterfall	
+1.41	woods, forest	
+1.42	tree (cf 08.600)	husa: NE, AchE hu-sa; ME hu-sa-a
+1.43	wood	NE hu-h-qat; NE hu-uk; ME, NE, AchE ma-lu
+1.44	stone, rock	AchE har; NE ú-h-um-ma
+1.45	earthquake	
+1.51	sky	
+1.52	sun	ME na-h-hu-un-te; OE nahiti = na-hi-ti; OE na-hu-te
+1.53	moon	OE na-ap[-ir(?)]; NE na-pir
+1.54	star	NE mar-du(-ú)
+1.55	lightning	luk: OE, ME lu-uk
+1.56	thunder	
+1.57	lightning (as striking)	
+1.58	storm	
+1.59	rainbow	OE, ME, NE ma-an-za-at
+1.61	light (noun)	hun: OE, ME hu-un; ME hu-ni-in
+1.62	darkness	
+1.63	shade, shadow	NE šad-da-ku
+1.64	dew	
+1.71	air	OE si-me-in
+1.72	wind	
+1.73	cloud	
+1.74	fog	
+1.75	rain (noun)	NE te-ip
+1.76	snow (noun)	
+1.77	ice	
+1.78	weather	
+1.81	fire	lim: ME li-im
+1.82	flame (noun)	
+1.83	smoke (noun)	
+1.84	ashes	
+1.841	embers	
+1.851	burn (vb trans)	
+1.852	burn (vb intrans)	lim-/ lum-: ME li-im-ma-áš-pi; li-im-ma-ak; ME lu-mu-un-ra
+1.86	light, kindle, ignite	
+1.861	extinguish	
+1.87	match (noun)	
+1.88	firewood	
+1.89	charcoal	
+2.1	person, human being	
+2.21	man (vs. woman)	bali: ME ba-li-be; AchE ru-h, ru-ú
+2.22	woman	
+2.23	male	AchE ba-li-na
+2.24	female	ME mu-h-ti-ir-ri; NE mu-h-ti-be; AchE mu-tur
+2.25	boy	
+2.251	young man (adolescent)	AchE pu-hu
+2.26	girl	
+2.261	young woman (adolescent)	AchE pu-h(u)
+2.27	child	OE pu-hi-e; AchE ma-ul(-la)/ -li
+2.28	infant, baby	zin: AchE zí-in
+2.31	husband	
+2.32	wife	AchE ir-ti-ri; ME ri-tu; NE ri-ti; ME ru-tu; NE ru-tú; AchE mu-tar, mu-ti
+2.33	marry	
+2.34	marriage, wedding	
+2.341	divorce	
+2.35	father	atta: OE, NE, AchE ad-da; ME at-ta
+2.36	mother	amma: OE, ME, NE, AchE am-ma
+2.37	parents	
+2.38	married man	
+2.39	married woman	
+2.41	son	OE pu-hu; ME, AchE ru-hu; šak: ME, NE ša-ak; AchE šá-ak, šá-ag-gi
+2.42	daughter	pak: ME pa-ak
+2.43	offspring (son or daughter)	puhu: ME, NE, AchE pu-hu
+2.44	brother	ME i-gi
+2.444	older brother	
+2.445	younger brother	
+2.45	sister	šutu: ME, NE šu-tú
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	
+2.458	twins	
+2.46	grandfather	
+2.461	old man	
+2.47	grandmother	
+2.471	old woman	
+2.48	grandson	NE ru-hu.šá-ak-ri
+2.49	granddaughter	
+2.51	uncle	eri: OE e-ri-ri
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	
+2.54	niece	
+2.55	cousin	iza: OE i-za
+2.56	ancestors	
+2.57	descendants	
+2.61	father-in-law (of a man)	
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	
+2.631	son-in-law (of a woman)	AchE iš-ti-ri
+2.64	daughter-in-law (of a man)	
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	
+2.72	stepmother	
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	
+2.76	widow	
+2.77	widower	
+2.81	relatives, kinsmen	OE, ME a-a-ni-ip; ME a-a-ni-ri
+2.82	family	
+2.91	I	OE u; OE, ME ù
+2.92	you (singular)	ME ni; ME, NE, AchE nu
+2.93	he/she/it	
+2.94	we	
+2.941	we (inclusive)	
+2.942	we (exclusive)	OE ni-ka; NE, AchE nu-ku
+2.95	you (plural)	AchE nu-mi
+2.96	they	
+3.11	animal	kun: NE ku-un
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	ME, NE, AchE áš; AchE ki-ti
+3.16	pasture	ahiš: NE a-h-iš; AchE ki-bat
+3.18	herdsman	AchE ba-at (?)-ir; NE ku-dúr
+3.19	stable, stall	
+3.2	cattle (bovine)	kutu: NE ku-tu
+3.21	bull	
+3.22	ox	ME pu-up-hi-in
+3.23	cow	
+3.24	calf	tila: AchE ti-la
+3.25	sheep	hidu: ME, AchE hi-du
+3.26	ram	AchE ráp-du; ráp-tam
+3.28	ewe	
+3.29	lamb	kari: AchE qa-ri, qa-ri-ri
+3.32	boar	
+3.34	sow	
+3.35	pig	NE pap-pi
+3.36	goat	kipšu/ kupši: AchE ki-ip-ši/-šu, ku-ip-šu; NE šá-h-ši-ik-me-me
+3.37	he-goat	kumaš: ME, NE ku-maš
+3.38	kid	pitu: AchE pi-tú/tu
+3.41	horse (equine)	lakpilan: NE lak-pi-la-an
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	dud(d)u: AchE du-du, du-ud-du
+3.46	ass, donkey	AchE du-ip; (i)tranku: AchE it-ra-an-ku; AchE ši-ši
+3.47	mule	paha: AchE pa-ha
+3.5	fowl	zamama: AchE za-ma-ma
+3.52	cock, rooster	
+3.54	hen	rum: ME ru-um
+3.55	chicken	
+3.56	goose	AchE hi-pu-ur, ip-pu-ur
+3.57	duck	AchE šu-da-ba(-h)
+3.58	nest	ME hu-pi-e
+3.581	bird	AchE ti-ut
+3.582	seagull	
+3.583	heron	
+3.584	eagle	OE ba-zi-zi; NE ba-iz-zí-zí
+3.585	hawk	
+3.586	vulture	
+3.591	bat	
+3.592	parrot	AchE qa-iš-ba-h
+3.593	crow	
+3.594	dove	
+3.596	owl	
+3.61	dog	AchE hal-ki-ni
+3.614	rabbit	
+3.62	cat	
+3.622	opossum	
+3.63	mouse, rat	
+3.65	fish	
+3.652	fin (dorsal)	
+3.653	fishscale	
+3.654	gill	
+3.655	shell	
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	
+3.665	freshwater eel	
+3.71	wolf	duma: AchE du-ma
+3.72	lion	
+3.73	bear	
+3.74	fox	
+3.75	deer	
+3.76	monkey	
+3.77	elephant	
+3.78	camel	zibbaru: AchE zib-ba-ru
+3.81	insect	
+3.811	louse	
+3.812	nit (louse egg)	
+3.813	flea	
+3.814	centipede	
+3.815	scorpion	lahi: NE la-hi (?)
+3.816	cockroach	
+3.817	ant	
+3.818	spider	
+3.819	spider web	
+3.82	bee	
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	
+3.83	fly	
+3.831	sandfly (midge), gnat	
+3.832	mosquito	
+3.84	worm	ME za-na-bu-na
+3.85	snake	šin: OE ši-in-pi; OE šim-bi
+3.91	firefly	
+3.92	butterfly	
+3.93	grasshopper	
+3.94	snail	
+3.95	frog	
+3.96	lizard	
+3.97	crocodile, alligator	
+3.98	turtle	
+4.11	body	
+4.12	skin, hide	NE ha-te-en
+4.13	flesh	NE i-iš-ti
+4.14	hair (head)	*ku-na; NE še-e
+4.142	beard	
+4.144	body hair	
+4.145	pubic hair	
+4.146	dandruff	
+4.15	blood	san: NE sa-an
+4.151	vein, artery	
+4.16	bone	
+4.162	rib	
+4.17	horn	kassu: ME, NE qa-as-su; NE kás-su
+4.18	tail	
+4.19	back	
+4.191	spine	
+4.2	head	ukku: ME uk-ku; NE, AchE uk-gi = ukku.e
+4.201	side of head, temple	
+4.202	skull	
+4.203	brain	
+4.204	face	
+4.205	forehead	
+4.207	jaw	
+4.208	cheek	
+4.209	chin	
+4.21	eye	el(t): ME el-ti; NE, AchE el
+4.212	eyebrow	
+4.213	eyelid	
+4.214	eyelash	
+4.215	blink	
+4.22	ear	siri: NE, AchE si-ri
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	AchE ši-um-me = šim.e
+4.231	nostril	
+4.232	mucus (nasal)	
+4.24	mouth	
+4.241	beak	
+4.25	lip	
+4.26	tongue	tit(-me): AchE ti-ut(-me)
+4.27	tooth	sihha[n]: ME si-h-ha
+4.271	gums	
+4.272	molartooth	
+4.28	neck	NE ti-pi (?)
+4.281	nape of neck	
+4.29	throat	
+4.3	shoulder	
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	
+4.312	armpit	
+4.32	elbow	
+4.321	wrist	
+4.33	hand	kir-/ kur-: ME ki-ir-pi; AchE kur-pi
+4.331	palm of hand	
+4.34	finger	
+4.342	thumb	
+4.344	fingernail	pur: NE pu-ur
+4.345	claw	
+4.35	leg	
+4.351	thigh	
+4.352	calf of leg	
+4.36	knee	
+4.37	foot	pat: ME, NE ba-at; ME pa-at
+4.371	ankle	
+4.372	heel	
+4.374	footprint	
+4.38	toe	
+4.392	wing	
+4.393	feather	putmaš: NE pu-ut-ma-áš
+4.4	chest	
+4.41	breast (of woman)	
+4.412	nipple, teat	
+4.42	udder	
+4.43	navel	
+4.44	heart	buni: OE (?); ME bu-ni
+4.441	lung	
+4.45	liver	NE ru-el-pa-mín
+4.451	kidney	
+4.452	spleen	
+4.46	stomach	
+4.461	intestines, guts	
+4.462	waist	
+4.463	hip	
+4.464	buttocks	
+4.47	womb	
+4.49	testicle	ruku: NE ru-ku
+4.492	penis	
+4.51	breathe, breath	
+4.52	yawn, gape	
+4.521	hiccough	
+4.53	cough	
+4.54	sneeze	
+4.55	perspire	
+4.56	spit	
+4.57	vomit	
+4.58	bite	
+4.59	lick	
+4.591	dribble	
+4.61	sleep	
+4.612	snore	
+4.62	dream	
+4.63	wake up	
+4.64	break wind	
+4.65	urinate	
+4.66	defecate	
+4.67	have sexual intercourse	
+4.68	shiver	
+4.69	bathe	
+4.71	beget (of father)	
+4.72	born (to be)	kuši-: ME ku-ši-in; AchE ku-ši-iš
+4.73	pregnant	
+4.732	conceive	du-: OE, ME, NE du-h; NE, AchE du-iš; OE duk
+4.74	live, living, life	OE, ME ta-ak-me; ME, NE da-ak-ki-me; ME ta-ak-ki-me
+4.75	die, dead	halpi-: NE, AchE hal-pi-ik; AchE hal-pi-ip; NE la-ha-an
+4.751	drowned	
+4.76	kill	
+4.77	corpse	
+4.78	bury (the dead)	
+4.79	grave, tomb	
+4.81	strong, mighty, powerful	AchE ib-ba(?)-ak; šilha-: NE šil-ha-h; OE ši-il-ha-ak; OE ši-il(?)-me
+4.82	weak	AchE iš-tuk-ra
+4.83	well, health	
+4.84	sick, sickness	
+4.841	fever	
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	
+4.852	bruise	AchE ha-pi
+4.853	swelling	
+4.854	itch	
+4.855	blister	
+4.856	boil (noun)	
+4.857	pus	
+4.858	scar	
+4.86	cure, heal	ME si-it-ti, si-it-me
+4.87	physician	
+4.88	medicine, drug	AchE qa(?)-pu(?)-ur
+4.89	poison	
+4.91	tired, weary	
+4.912	rest	
+4.92	lazy	
+4.93	bald	
+4.94	lame	
+4.95	deaf	
+4.96	mute	
+4.97	blind	
+4.98	intoxicated	
+4.99	naked, bare	
+5.11	eat	
+5.12	food	AchE ab-be-be
+5.121	cooked	
+5.122	raw	
+5.123	ripe	
+5.124	green, unripe	
+5.125	rotten	
+5.13	drink	
+5.14	hunger	
+5.141	famine	
+5.15	thirst	
+5.16	suck	
+5.18	chew	
+5.181	swallow	
+5.19	choke	
+5.21	cook	
+5.22	boil (vb)	
+5.23	roast, fry	kura-: ME ku-ra-at; OE, ME ku-ra-ak
+5.24	bake	
+5.25	oven	
+5.26	pot, cooking vessel	
+5.27	kettle	
+5.28	pan	
+5.31	dish	
+5.32	plate	
+5.33	bowl	
+5.34	pitcher, jug	piti: NE pi-ti
+5.35	cup, drinking vessel	
+5.36	saucer	
+5.37	spoon	NE ki-mal-tam
+5.38	knife	ME du-šu-um-ya; NE du-ši-um, du-ši-um-ir-ra
+5.39	fork	
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	
+5.44	dinner	
+5.45	supper	
+5.46	peel	
+5.47	sieve, strain	
+5.48	scrape	
+5.49	stir, mix	
+5.51	bread	ME ši-ip-ru-um; AchE ši-ip-ri-um
+5.53	dough	
+5.54	knead	
+5.55	meal, flour	NE e-ul; AchE u-ma-ma
+5.56	crush, grind	
+5.57	mill	
+5.58	mortar	
+5.59	pestle	
+5.61	meat	
+5.63	sausage	
+5.64	soup, broth	
+5.65	vegetables	
+5.66	bean	
+5.7	potato	
+5.71	fruit	hurpi: ME hu-ur-pi; AchE zib-ba
+5.712	bunch	
+5.75	fig	AchE pi-ut-(-ti)
+5.76	grape	AchE šá-ap-pan-na; šap(-pi)
+5.77	nut	
+5.78	olive	
+5.79	oil	appi: AchE ap-pi
+5.791	grease, fat	abba: OE ab-ba
+5.81	salt	anzi: AchE an-zí
+5.82	pepper	
+5.821	chili pepper	
+5.84	honey	AchE hal (?)-la (?)-ki
+5.85	sugar	
+5.86	milk (noun)	AchE sir-na
+5.87	milk (vb)	
+5.88	cheese	NE, AchE pa
+5.89	butter	
+5.9	beverage, drink	
+5.91	mead	
+5.92	wine	
+5.93	beer	
+5.94	fermented drink	AchE an-na-in
+5.97	egg	
+5.971	egg yolk	
+6.11	put on (clothes)	
+6.12	clothing, clothes	
+6.13	tailor	NE šá-h-ši-ik-ra
+6.21	cloth	NE tam-ši-um; AchE ik-tin
+6.22	wool	NE tuk-ki-me; tuk-na; NE im-na
+6.23	linen, flax	zali: AchE za-li
+6.24	cotton	NE qa-li-tam
+6.25	silk	
+6.27	felt	NE da-bar-ri-um
+6.28	fur	
+6.29	leather	NE šá-ir-šá-at-ti
+6.31	spin	
+6.32	spindle	
+6.33	weave	kurza-: NE kur-za-iš; kur-za-qa
+6.34	loom	
+6.35	sew	
+6.36	needle	
+6.37	awl	
+6.38	thread	
+6.39	dye	
+6.41	cloak	NE uk-ku-(h-)la-ki
+6.411	poncho	
+6.42	woman's dress	
+6.43	coat	NE hu-el-ip
+6.44	shirt	
+6.45	collar	
+6.46	skirt	
+6.461	grass-skirt	
+6.48	trousers	
+6.49	stocking, sock	
+6.51	shoe	NE ha-šá-ir
+6.52	boot	
+6.54	shoemaker, cobbler	
+6.55	hat, cap	NE uk-ku.ba-ti
+6.57	belt, girdle	
+6.58	glove	NE kur-ip
+6.59	veil	
+6.61	pocket	
+6.62	button	
+6.63	pin	
+6.71	ornament, adornment	ME qa-ar-ra-h, qa-ar-ra-ha
+6.72	jewel	
+6.73	ring (for finger)	NE šà-mi; ME si-mi-it-tum
+6.74	bracelet	
+6.75	necklace	
+6.76	bead	
+6.77	earring	
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	
+6.82	towel	
+6.91	comb	ME ah-hu-um; NE a-h-hu-im
+6.92	brush	
+6.921	braid	
+6.93	razor	
+6.94	ointment	hasu: NE, AchE ha-su-ip; ME mi-ir-ri-h
+6.95	soap	
+6.96	mirror	ME šu-(ú-)ha; OE šu-ha.zi-la
+7.11	dwell, live	
+7.12	house	NE a-a-in, a-hi-in, ha-a-in; ME a-i-in; a-a-ni
+7.13	hut	
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	ME tu-uš; ulhi: NE ul-hi; AchE ul-hi
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	
+7.22	door, gate	ME, NE, AchE hu-el; ME, NE hi-el; ME el; AchE e-el; AchE e-ul; NE ú-el; ME lu-gu-ú
+7.221	doorpost, jamb	ME hal-ti, ha-al-te-te
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	NE ku-un-nir
+7.26	floor	
+7.27	wall	ME te-ip-ta; ME hu-hu-un
+7.31	fireplace	
+7.32	stove	ME ku-ra-am-ma; ku-ra-na
+7.33	chimney	
+7.37	ladder	
+7.42	bed	
+7.421	pillow	
+7.422	blanket	NE gi-ut-máš-te; gi-ut-máš-ti
+7.43	chair	
+7.44	table	
+7.45	lamp, torch	hun: ME hu-ni-ir, hu-un-pu
+7.46	candle	
+7.47	shelf	
+7.48	trough	
+7.51	roof	a-ri; ME, NE ku-uk; NE me-nu-me
+7.52	thatch	
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	ME te-ti(-in)
+7.56	post, pole	šali: OE, ME ša-li
+7.57	board	NE šil-tur
+7.58	arch	
+7.61	mason	
+7.62	brick	ME, NE e-ri-en-tum; ME ú-ri-en-tu; ME hu-us-si-ip; ME ú-pa-at
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	
+8.12	field (for cultivation)	NE hal-la
+8.13	garden	NE ya-ad-da
+8.15	cultivate, till	
+8.16	fence	
+8.17	ditch	
+8.21	plow	āpi-: OE a-a-pi-h
+8.212	furrow	
+8.22	dig	
+8.23	spade	
+8.24	shovel	atti: AchE at-ti; šullu: AchE šu-ul-lu
+8.25	hoe	AchE at-ti
+8.26	fork	
+8.27	rake	
+8.31	sow	
+8.311	seed	par: ME pa-ar
+8.32	mow, reap	
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	NE hal-te-me; AchE šu-lu-um
+8.42	grain (barley, oats etc)	tarmi/u: AchE tar-mi; tar-mu; ME mu-ša-al(?)-lu
+8.43	wheat	ME, AchE ši-man
+8.44	barley	kur-ru-sa(-am/-an); ME, NE nu
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	
+8.48	rice	
+8.51	grass	
+8.52	hay	
+8.53	plant (noun)	
+8.531	plant (vb)	
+8.54	root	
+8.55	branch	
+8.56	leaf	
+8.57	flower	ME mi-ik-ki-ma
+8.6	tree	
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	
+8.68	tobacco	
+8.69	smoke (tobacco)	
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	
+8.74	forked branch	
+8.75	bark	
+8.76	sap	AchE in-na-in; OE mu-ul-li; NE mi-el; AchE mi-ul
+8.81	palm tree	
+8.82	coconut	
+8.83	citrus fruit	
+8.84	banana tree	
+8.85	banyan	
+8.91	sweet potato	
+8.912	yam	
+8.92	tapioca, manioc, cassava	
+8.93	gourd	
+8.931	pumpkin, squash	
+8.94	bamboo	
+8.941	sugar cane	
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	
+9.11	do, make	hut(t)a-: AchE hu-ud-da; OE, AchE hu-taš; OE hu-tan(?)-ki; ME, NE hu-ut-táh; OE hu-ut-te-eš
+9.12	work	
+9.14	bend	
+9.15	fold	
+9.16	tie, bind	rabba-: ME ra-ab-ba-h; AchE ráb-ba-qa
+9.161	untie	
+9.18	chain	
+9.19	rope, cord	NE, AchE šá-am
+9.192	knot (noun)	
+9.21	strike (hit, beat)	halpi-/u-: ME, NE hal-pu-h; AchE hal-pi-ya
+9.211	pound with fist	
+9.22	cut	NE máš-áš; šahši-: NE šá-h-ši-qa
+9.221	cut down	
+9.222	chop, hew	
+9.223	stab	
+9.23	knife	
+9.24	scissors, shears	
+9.25	ax	(h)ipiš: NE i-pi-iš; AchE hi-pi-is
+9.251	adze	
+9.26	break	
+9.261	broken	
+9.27	split	
+9.28	tear	
+9.29	flay, skin	
+9.31	rub, wipe	
+9.32	stretch	
+9.33	pull	sa-: ME, NE sa-h
+9.34	spread out	
+9.341	hang up	
+9.342	press	
+9.343	squeeze, wring	
+9.35	pour	
+9.36	wash	
+9.37	sweep	
+9.38	broom	
+9.422	tool	
+9.43	carpenter	NE be-la-ti-ra; NE kiš-ki-ip-man-na
+9.44	build	kuši-: ME ku-ši-ha; ku-si-iš; ku-ši-ik
+9.46	bore	AchE du-li-ib-be
+9.461	hollow out	
+9.48	saw	AchE el-pi
+9.49	hammer	NE sa-el
+9.5	nail	s/zikti: ME si-ik-ti; NE zik-ti-ip
+9.56	glue	
+9.6	smith, blacksmith	NE kás-zí-ra
+9.61	forge	kassa/i-, kazza/i-: ME qa-as-si-it-ri; ME qa-az-za-ak
+9.62	anvil	
+9.63	cast (metals)	šari-: ME ša-ri-h
+9.64	gold	ME la-an-si-ti-e; AchE la-áš-da
+9.65	silver	lani: OE la(?)-a-ni
+9.66	copper, bronze	NE [e-ri-ni]; NE sa-h; OE, ME sa-hi-i; NE si-hi-kak
+9.67	iron	NE har-gi; har-ki-an-na
+9.68	lead (noun)	NE ri-kur
+9.69	tin, tinplate	[a-na-ku]
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	halat: OE, AchE ha-la-at
+9.74	glass	
+9.75	weave, plait	
+9.76	basket	ME še-ri-it
+9.77	mat	
+9.771	rug	ME za-ba-ar
+9.78	netbag	
+9.79	fan (noun)	
+9.791	fan (vb)	
+9.81	carve	
+9.82	sculptor	
+9.83	statue	
+9.84	chisel	
+9.88	paint (noun)	
+9.89	paint (vb)	karsu-: AchE kar-su-iš-da, kar-su-qa
+10.11	move	
+10.12	turn over	
+10.13	turn around	
+10.14	wind, wrap	
+10.15	roll	
+10.16	drop (vb)	
+10.17	twist	
+10.21	rise	
+10.22	raise, lift	
+10.23	fall	
+10.24	drip	
+10.25	throw	
+10.252	catch (ball)	mari-: NE ma-ri-h; ME ma-ri-en-t(a)
+10.26	shake	
+10.32	flow	
+10.33	sink	
+10.34	float	
+10.35	swim	
+10.351	dive	
+10.352	splash	
+10.36	sail (vb)	
+10.37	fly (vb)	
+10.38	blow	
+10.41	creep, crawl	
+10.412	kneel	
+10.413	crouch	
+10.42	slide, slip	
+10.43	jump, leap	
+10.431	kick	
+10.44	dance	
+10.45	walk	pari-; uzzu-: ME uz-zu-un; uz-zu-un-ta
+10.451	limp	
+10.46	run	
+10.47	go	
+10.471	go up	
+10.472	climb	
+10.473	go down	
+10.474	go out	
+10.48	come	izzi-: NE, AchE iz-zí-iš; šinni-/ u-: AchE ši-in-nu-ik; ši-in-nu
+10.481	come back	
+10.49	go away, depart	
+10.491	disappear	
+10.51	flee	
+10.52	follow	
+10.53	pursue	
+10.55	reach, arrive	
+10.56	approach	
+10.57	enter	
+10.61	carry (bear)	kuti-: NE ku-ti-na; AchE ku-ti-šá
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	tela-: ME, NE te-la-ak-ni; OE te-la-ni-li
+10.63	send	da-: AchE da-an-da; NE, AchE da-h
+10.64	lead (vb)	
+10.65	drive	
+10.66	ride	AchE te-li-nu-ip
+10.67	push, shove	
+10.71	road	AchE ba[r-d]u; ME hu-te(-e)
+10.72	path	
+10.74	bridge	
+10.75	carriage, wagon, cart	
+10.76	wheel	
+10.77	axle	
+10.78	yoke	NE za-ap-pan
+10.81	ship	
+10.83	boat	
+10.831	canoe	
+10.832	outrigger	
+10.84	raft	
+10.85	oar	
+10.851	paddle (noun)	
+10.852	row (vb)	
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	
+10.91	harbor, port	
+10.92	land (vb)	
+11.11	have	
+11.12	own, possess	
+11.13	take	duma: AchE du-ma; du-ma-iš
+11.14	seize, grasp	
+11.15	hold	
+11.16	get, obtain	
+11.17	keep, retain	
+11.18	thing	
+11.21	give	duna-/i-: ME, NE du-ni-h; ME du-ni-ha; AchE du-na-áš, du-na-qa; li-; OE, ME, NE li-h; NE, AchE li-ik
+11.22	give back	
+11.24	preserve, look after	kutu-: ME, NE ku-tu-un; OE ku-tu-uš-li
+11.25	save, rescue	
+11.27	destroy	sari-: ME, NE sa-ri-h; AchE sa-ri-in-ti
+11.28	harm, injure, damage	
+11.31	seek, look for	
+11.32	find	bakka-: ME ba-ak-qa-h (?)
+11.33	lose	
+11.34	release, let go	
+11.43	money	
+11.44	coin	
+11.51	rich	NE sir
+11.52	poor	
+11.53	beggar	
+11.54	avaricious, stingy	
+11.61	lend	
+11.62	borrow	
+11.63	owe	
+11.64	debt	NE a-h-da-a
+11.65	pay (vb)	NE un-sa-ha; AchE un-sa-iš; AchE za-ag-gi-iš
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	AchE te-um-be; NE, AchE ha-nu
+11.79	earn	
+11.81	buy	
+11.82	sell	
+11.83	trade, barter	
+11.84	merchant	
+11.85	market (place)	
+11.86	store, shop	
+11.87	price	AchE šá-ak-ki-me/-mi; šá-gi-me
+11.88	dear (costly, expensive)	
+11.89	cheap	
+11.91	share (distribute)	
+11.92	weigh	
+12.1	after	
+12.11	behind	AchE ki-ik; NE, AchE me-mi; AchE me-ni
+12.2	beside	
+12.3	down, below	
+12.4	before	tibbe: ME, NE ti-ib-ba
+12.41	front	ME, NE ti-ib-ba; OE si-ma; ME, NE si-ma
+12.5	inside, in	OE a-ti-in; ME a-ti-ra; AchE ha-ti
+12.6	outside	ME ki-du-ú-ya; ki-du-ur; ki-du-um-ma; AchE ki-du
+12.7	under	NE, AchE šá-ra
+12.8	up, above	
+12.11	place	kate: ka-te; AchE qa-te, qa-te-ma
+12.12	put	b/pela-: AchE be-la, be-ip-la; da-/ta-: ME ta-at, da-h
+12.13	sit	
+12.14	lie down	
+12.15	stand	
+12.16	remain, stay	
+12.17	remains, left overs	
+12.21	collect, gather	
+12.212	pick up	
+12.213	pile up	
+12.22	join, unite	OE ta-r[í-ir]; ta-ri-ip
+12.23	separate	
+12.232	divide	
+12.24	open	ME te-iš; ME, NE tu-um-ba-h
+12.25	shut, close	kappa-: NE kap-pa-iš
+12.26	cover	
+12.27	hide, conceal	
+12.31	high	
+12.32	low	
+12.33	top	
+12.34	bottom	
+12.35	end	
+12.352	pointed	
+12.353	edge	
+12.36	side	
+12.37	middle, center	
+12.41	right (side)	
+12.42	left (side)	
+12.43	near (adv)	
+12.44	far (adv)	AchE šá-da-ni-qa
+12.45	east	NE ha-tin; ha-te-um-me
+12.46	west	NE šu-tin
+12.47	north	
+12.48	south	
+12.53	grow	
+12.54	measure	
+12.541	span, fathom	
+12.55	large, big	(h)azza-: NE, AchE az-za-qa; AchE ha-iz-za-ik-qa, ha-za-qa; rša-: AchE ir-šá-(an-)na; ME ri-ša-ar
+12.56	small, little	tila: AchE ti-la (?)
+12.57	long	
+12.58	tall	
+12.59	short	
+12.61	wide, broad	
+12.62	narrow	
+12.63	thick (in dimension)	
+12.65	thin (in dimension)	zikki: NE zik-ki
+12.67	deep	AchE du-šá-ra-ma
+12.68	shallow	
+12.71	flat	ME ma-šu-um
+12.73	straight	AchE iš-tur-rák-qa
+12.74	crooked	
+12.75	hook	
+12.76	corner	
+12.77	cross	
+12.78	square	
+12.81	round	irpi: ME ir-pi
+12.82	circle	pur: ME pu-ur
+12.83	sphere, ball	ME še-be
+12.84	line	
+12.85	hole	
+12.92	like, similar	
+12.93	change	
+13.0	zero, nothing	
+13.1	one	ki: AchE ki-ik(-ki/-qa); OE, AchE ki-ir
+13.2	two	mar: NE ma-ir, mar-ra; AchE mar
+13.3	three	ziti: AchE zí-ti
+13.4	four	
+13.5	five	AchE *tu-ku (?)
+13.6	six	
+13.7	seven	
+13.8	eight	
+13.9	nine	
+13.10	ten	
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	
+13.106	thousand	
+13.107	count	
+13.14	every, all	AchE un-ra
+13.15	much, many	AchE ir-še-ik-ki
+13.16	more	
+13.17	little (quantity), few	AchE ha-ri-ik-ki
+13.18	enough	
+13.181	some	
+13.19	multitude, crowd	
+13.21	full	huh: OE hu-úh
+13.22	empty	
+13.23	part, piece	AchE áš
+13.24	half	ME pír-ni; pír-nu-šu, pír-nu-ba
+13.33	alone, only	
+13.34	first	AchE ap-pu-qa-na
+13.35	last	
+13.36	second	
+13.37	pair	NE tuk
+13.38	two times	
+13.42	third	
+13.44	three times	
+14.11	time	AchE da-la-ri [= dalar.e]
+14.12	age	
+14.13	new	
+14.14	young	puhu.na: AchE pu-hu-na, pu-u-na, pu-un-na
+14.15	old	kara: AchE qa-ra
+14.16	early	irpi/ urpu-: AchE ir-pi; ME ur-pu-ub-ba; AchE ap-pu-qa
+14.17	late	AchE maš-šá, me-šá
+14.18	now	ME a-am; ME, NE, AchE am
+14.19	immediately	
+14.21	swift, fast, quick	
+14.22	slow	
+14.23	hasten, hurry	
+14.24	retard, delay	
+14.25	begin, beginning	
+14.252	last, endure	
+14.26	end (temporal)	AchE mur
+14.27	finish	AchE tar-ma; tar-maš
+14.28	cease, stop	
+14.29	ready	
+14.31	always	OE a-ka-da
+14.32	often	
+14.33	sometimes	
+14.331	soon	
+14.332	long-time (for a)	AchE me-ul-li(-ik)
+14.34	never	
+14.35	again	ME, NE ki-qa
+14.41	day	na[n]: AchE na-an-me, na-an-na
+14.42	night	AchE ši-ut-ma-na; OE, ME šu-ut-me; ME šu-ut-ti-me
+14.43	dawn	
+14.44	morning	
+14.45	noon, midday	
+14.451	afternoon	
+14.46	evening	AchE te-man; NE ki-in-na-ra
+14.47	today	
+14.48	tomorrow	
+14.481	day-after-tomorrow	
+14.49	yesterday	
+14.491	day-before-yesterday	
+14.51	hour	
+14.53	clock, timepiece	
+14.61	week	
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	AchE na(?)-na-me-n[a(?)]; ME si-in (?)
+14.73	year	ME pi-el; AchE be-ul
+14.74	winter	
+14.75	spring	
+14.76	summer	
+14.77	autumn	
+14.78	season	
+15.21	smell (vb intrans)	
+15.212	sniff	
+15.22	smell (vb trans)	
+15.25	fragrant, good smelling	
+15.26	stinking, bad smelling	
+15.31	taste	
+15.35	sweet	tena: AchE te-na; halki: OE, ME, NE hal-ki
+15.36	salty	
+15.37	bitter	
+15.38	acid, sour	AchE lu-lu-ki/-qa
+15.39	brackish	
+15.41	hear	hap-: OE, ME ha-ap-hu; ha-ap-ti
+15.42	listen	
+15.44	sound, noise	
+15.45	loud	
+15.46	quiet, silence	NE šà-na
+15.51	see	s/ziya-: NE si-ya-nu-un; ME si-ya-h, si-ya-áš-na; AchE zí-ya
+15.52	look, look at	
+15.55	show	šammi-: ME ša-am-me-iš; ša-am-mi-iš-ta
+15.56	shine	
+15.57	bright	
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	
+15.64	white	AchE ši-mi-ut
+15.65	black	
+15.66	red	
+15.67	blue	NE da-ban-ti-na
+15.68	green	NE hu-la-ap-na/ hu-ra-ap-na
+15.69	yellow	NE šu-un-ti-na
+15.71	touch	
+15.712	pinch	
+15.72	feel	
+15.74	hard	
+15.75	soft	
+15.76	rough	
+15.77	smooth	
+15.78	sharp	
+15.79	blunt, dull	
+15.81	heavy	AchE ab-ba-ra
+15.82	light (in weight)	
+15.83	wet, damp	
+15.84	dry	AchE zí-ti-qa
+15.85	hot	
+15.851	warm	
+15.86	cold	
+15.87	clean	
+15.88	dirty, soiled	
+15.89	wrinkled	
+16.11	soul, spirit	
+16.15	surprised, astonished	
+16.18	good fortune, luck	šá-da, šá-ud-da; NE, AchE ši-ri; ME šu-ru; OE šu-ri-na
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	NE tan-na-am-me
+16.25	laugh	
+16.251	smile	
+16.26	play	
+16.27	love	hani-: OE ha-ni-eš; ME, NE ha-ni-ik; OE ha-ni-in; OE ha(?)-ni-me
+16.29	kiss	
+16.3	embrace	
+16.31	pain	
+16.32	grief, sorrow, sadness	
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	
+16.37	cry, weep	
+16.38	tear (noun)	
+16.39	groan	
+16.41	hate	
+16.42	anger	
+16.44	envy, jealousy	
+16.45	shame (noun)	
+16.48	proud	
+16.51	dare	AchE qa-du-uk-qa
+16.52	brave	
+16.53	fear, fright	ipši: AchE ip-ši-ip; ip-ši-iš
+16.54	danger	
+16.62	desire, want	
+16.622	choose	
+16.63	hope	
+16.65	faithful	OE, NE ha-mi-ti; ME ha-mi-it
+16.66	true	siri: NE, AchĒ si-ri
+16.67	lie, tell lies	tit-: AchE ti-ti-ip; ti-ut-ki-um-me
+16.68	deceit	
+16.69	forgive	
+16.71	good	OE, NE a-a; OE, ME, NE ba-ha
+16.72	bad	AchE muš-nu-ik
+16.73	right, correct	
+16.74	wrong	
+16.76	fault	
+16.77	mistake, error	
+16.78	blame	
+16.79	praise	NE hi-šá
+16.81	beautiful	AchE ši-iš-ni
+16.82	ugly	
+16.83	greedy	
+16.84	clever	
+17.11	mind	
+17.13	think (= reflect)	lma-: AchE el-ma; el-man-da/ti; AchE ul-ma
+17.14	think (= be of the opinion)	
+17.15	believe	uri-: AchE u-ri-iš
+17.16	understand	
+17.17	know	turna-: NE tur-nah; AchE tur-na-u-ut
+17.171	guess	
+17.172	imitate	
+17.18	seem	
+17.19	idea, notion	
+17.21	wise	
+17.22	foolish, stupid	
+17.23	insane, crazy	
+17.24	learn	
+17.242	study	
+17.25	teach	
+17.26	pupil	
+17.27	teacher	
+17.28	school	
+17.31	remember	
+17.32	forget	
+17.34	clear, plain	
+17.35	obscure	
+17.36	secret	
+17.37	sure, certain	
+17.38	explain	
+17.41	intention, purpose	
+17.42	cause	
+17.43	doubt	
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	OE, ME, AchE me-en
+17.46	easy	
+17.47	difficult	
+17.48	try, attempt	
+17.49	way, manner	
+17.51	and	ayak: ME, NE, AchE a-ak; ME ya-ak
+17.52	because	appa: AchE ap-pa
+17.53	if	ME an-ka; NE, AchE an-qa
+17.54	or	
+17.55	yes, affirmative	
+17.56	no, negative	OE, ME, NE in-gi; NE, AchE in-na; ME, NE im-ma; ME, NE in-ni
+17.61	how?	AchE ap-pa
+17.62	how many?	
+17.63	how much?	
+17.64	what?	appa: ME, NE, AchE ap-pa; ME, AchE
+17.65	when?	
+17.66	where?	mur: ME, NE mu-ur
+17.67	which?	akka: ME ag-ga, ak-ka; ME, NE, AchE ak-qa
+17.68	who?	
+17.69	why?	
+18.11	voice	
+18.12	sing	
+18.13	shout, cry out	
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	
+18.18	shriek, screech	
+18.19	howl	
+18.21	speak, talk	turi/u-: ME tu-ru-nu-un-ki; NE tu-ru-h; AchE tur-ri-qa
+18.211	stutter, stammer	
+18.22	say	tiri-/turu-: ME ti-ri-in-ri; AchE ti-ri; ME, NE tu-ru-uk, tu-ru-un
+18.221	tell story	
+18.222	speech (make a)	
+18.23	silent (be)	
+18.24	language	
+18.26	word	šukkit: NE šu-uk-ki-it
+18.28	name	hiš: ME, NE, AchE hi-iš
+18.31	ask (question, inquire)	
+18.32	answer	
+18.33	admit, confess	
+18.34	deny	
+18.35	ask, request	
+18.36	promise	kulla-; OE, ME ku-ul-la-h
+18.37	refuse	
+18.38	forbid	
+18.39	rebuke, scold	
+18.41	call (=summon)	kulla-: OE, ME ku-ul-la-h; ME ku-ul-la-hu
+18.42	call (=name)	
+18.43	announce	
+18.44	threaten	
+18.45	boast	
+18.51	write	d/tallu-: ME ta-al-lu-h, da-al-lu-ha, ta-al-lu-h-šu
+18.52	read	b/pera-: AchE be-ra-an; be-ip-ra-an-ti; be-ip-rák
+18.56	paper	
+18.57	pen	
+18.61	book	
+18.67	poet	
+18.71	flute	
+18.72	drum	
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	hal: OE hal; OE, ME ha-al
+19.12	one's native country	
+19.15	city, town	[a-al]
+19.16	village	
+19.17	boundary	
+19.21	people (populace)	ME [ta]š-šu(?)-up; NE, AchE taš-šu-íp; OE, ME hu-úr-du
+19.23	tribe, clan	ME ah-pi; NE a-h-pi
+19.24	chief, chieftain	
+19.25	staff, walking stick	
+19.31	rule, govern	
+19.32	king, ruler	s/zunki: ME, NE su-gìr; NE su-kip; ME su-un-gìr, su-un-ki-ir; su-un-ki-ip/-kip
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	[ð]impti: OE si-im-it; OE, ME te-im-ti; ME, NE te-ip-ti; NE mu-uk-ti
+19.42	slave	AchE li-ba-um-me; AchE šá-u-lu(-um)-be
+19.43	servant	liba-: AchE li-ba-ir
+19.44	freeman	šalu.r: AchE šá-lu-ur
+19.45	command, order	ME me-el; ME gi-il; NE šera-; NE še-ra-h; še-ra-h-ši
+19.46	obey	
+19.47	let, permit	
+19.51	friend, companion	OE duk-ti-ir; NE kán-ir-ra
+19.52	enemy	beti: OE bi-ti-ir; ME pi-ti-ir; NE be-ti, be-it-ra
+19.54	neighbor	
+19.55	stranger	
+19.56	guest	
+19.57	host	
+19.58	help, aid	ta-: OE taš; ME táh-ha-an-ta; táh-ha-an-te
+19.59	hinder, prevent	
+19.61	custom	
+19.62	strife, quarrel	
+19.63	conspiracy, plot	
+19.65	meet	
+19.72	prostitute	
+20.11	fight (vb)	AchE be-ut
+20.13	war, battle	
+20.14	peace	gugu: OE gu-gu
+20.15	army	OE, ME, NE hi-it
+20.17	soldier	
+20.21	weapons, arms	NE ul-ki-na
+20.22	club	NE šá-li-mi
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	NE qa-am-ban
+20.25	arrow	NE ti-ut-ti-um; NE hi-iš-ki; NE sa-h
+20.26	spear	[šu-kur-ru-um]
+20.27	sword	
+20.28	gun, cannon	
+20.31	armor (defensive)	
+20.33	helmet	NE kar-ik
+20.34	shield	
+20.35	fortress	
+20.36	tower	
+20.41	victory	OE me-te(-en)
+20.42	defeat	
+20.43	attack	
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	
+20.48	booty, spoils	ME pu-uk-ri-ir
+20.49	ambush	
+20.51	fisherman	
+20.52	fishhook	
+20.53	fishing line	
+20.54	fishnet	
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	
+20.62	shoot	
+20.63	miss (target)	
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	ME šu-du-ur; AchE šu-tur
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	gini/u: OE gi-ni-ip; NE gi-ni-pi, gi-nu-ip
+21.24	swear	OE gi-ri-ip; ME gi-ri
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	
+21.52	thief	ME tu-uš-šu(?)-íp
+22.11	religion	
+22.12	God	nap/b: OE, ME, NE, AchE nap; AchE na-ap, na-ab-ba; ME, NE na-ap-pi; OE na-bí-ip
+22.13	temple, church	
+22.14	altar	
+22.15	sacrifice, offering	dala: NE da-la
+22.16	worship	
+22.17	pray	
+22.18	priest	OE šà-ti; NE, AchE šá-tin; AchE šá-tan
+22.19	holy, sacred	ME ak-pi (?)-ip
+22.22	preach	
+22.23	bless	
+22.24	curse	
+22.26	fast (vb)	
+22.31	heaven	OE kik; OE ki-ki-in; OE, ME, NE ki-ki-ip; ME ki-ik
+22.32	hell	
+22.35	demon (evil spirit)	
+22.37	idol	
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	
+22.44	fairy, elf	
+22.45	ghost, phantom	
+22.47	omen, portent	

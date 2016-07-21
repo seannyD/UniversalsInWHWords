@@ -1,0 +1,1311 @@
+entry_id	trans_english	Slavonic_Old_Church_Phonemic
+1.1	world	mirŭ; světŭ
+1.21	earth, land	zemlja
+1.212	earth=ground, soil	
+1.213	dust	prachŭ
+1.214	mud	brĭnĭje
+1.215	sand	pěsŭkŭ
+1.22	mountain, hill	gora; chlŭmŭ
+1.222	cliff, precipice	
+1.23	plain, field	město ravĭno; polje
+1.24	valley	dĭbrĭ
+1.25	island	otokŭ; ostrovŭ
+1.26	mainland	
+1.27	shore	brěgŭ; krajĭ
+1.28	cave	
+1.31	water	voda
+1.32	sea	morje
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	
+1.329	ocean	
+1.33	lake	jezero
+1.34	gulf, bay	
+1.341	lagoon	
+1.342	reef	
+1.343	headland, point	
+1.35	wave	vlŭna; valŭ
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	rěka; tokŭ; potokŭ
+1.362	whirlpool	
+1.37	spring, well	istočĭnikŭ; studenĭcĭ; kladęzi
+1.38	swamp	
+1.39	waterfall	
+1.41	woods, forest	lěsŭ
+1.42	tree (cf 08.600)	drěvo; dąbŭ
+1.43	wood	drŭva
+1.44	stone, rock	kamy; skala
+1.45	earthquake	
+1.51	sky	nebo
+1.52	sun	slŭnĭce
+1.53	moon	luna; měsęcĭ
+1.54	star	zvězda
+1.55	lightning	mlŭnĭjĭ; bliscanije
+1.56	thunder	gromŭ
+1.57	lightning (as striking)	
+1.58	storm	
+1.59	rainbow	
+1.61	light (noun)	světŭ
+1.62	darkness	tĭma; mrakŭ
+1.63	shade, shadow	sěnĭ; štěnĭ
+1.64	dew	
+1.71	air	vŭzduchŭ
+1.72	wind	větrŭ
+1.73	cloud	oblakŭ
+1.74	fog	mĭgla
+1.75	rain (noun)	dŭždĭ
+1.76	snow (noun)	sněgŭ
+1.77	ice	ledŭ
+1.78	weather	
+1.81	fire	ognĭ
+1.82	flame (noun)	plamy
+1.83	smoke (noun)	dymǎ
+1.84	ashes	popelŭ; pepelŭ
+1.841	embers	
+1.851	burn (vb trans)	žešti
+1.852	burn (vb intrans)	gorěti
+1.86	light, kindle, ignite	vŭžešti
+1.861	extinguish	
+1.87	match (noun)	
+1.88	firewood	
+1.89	charcoal	
+2.1	person, human being	člověkŭ
+2.21	man (vs. woman)	mąžĭ
+2.22	woman	žena
+2.23	male	mąžiskŭ
+2.24	female	ženiskŭ
+2.25	boy	otrokŭ
+2.251	young man (adolescent)	
+2.26	girl	děvica; otrokovica
+2.261	young woman (adolescent)	
+2.27	child	dětĭ
+2.28	infant, baby	otročę; mladĭnĭcĭ
+2.31	husband	mąžĭ; sąprągŭ
+2.32	wife	žena; sąprągŭ
+2.33	marry	(o)ženiti sę; posagati
+2.34	marriage, wedding	brakŭ; malŭženĭstvo
+2.341	divorce	
+2.35	father	otĭcĭ
+2.36	mother	mati
+2.37	parents	roditeli
+2.38	married man	
+2.39	married woman	
+2.41	son	synŭ
+2.42	daughter	dŭšti
+2.43	offspring (son or daughter)	
+2.44	brother	bratrŭ; bratŭ
+2.444	older brother	
+2.445	younger brother	
+2.45	sister	sestra
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	
+2.458	twins	
+2.46	grandfather	dědŭ
+2.461	old man	
+2.47	grandmother	baba
+2.471	old woman	
+2.48	grandson	vŭnukŭ
+2.49	granddaughter	vŭnuka
+2.51	uncle	stryjĭ; ujĭ
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	teta
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	synovĭ; synovĭcĭ; netĭjĭ
+2.54	niece	synovica; nestera
+2.55	cousin	bratu-čędŭ; sestričištĭ
+2.56	ancestors	
+2.57	descendants	
+2.61	father-in-law (of a man)	svekrŭ; tĭstĭ
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	svekry; tĭšta
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	zętĭ
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	snucha
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	otĭčimŭ; otĭčuchŭ
+2.72	stepmother	maštecha
+2.73	stepson	pastorŭku
+2.74	stepdaughter	pastorŭka; padŭšti
+2.75	orphan	sirŭ; sirota
+2.76	widow	vĭdova
+2.77	widower	
+2.81	relatives, kinsmen	roždenĭje
+2.82	family	domŭ
+2.91	I	
+2.92	you (singular)	
+2.93	he/she/it	
+2.94	we	
+2.941	we (inclusive)	
+2.942	we (exclusive)	
+2.95	you (plural)	
+2.96	they	
+3.11	animal	životŭ; zvěrĭ
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	skotŭ
+3.16	pasture	pažitĭ; pasti; pasomŭ
+3.18	herdsman	pastyrĭ; pastuchŭ
+3.19	stable, stall	chlěvŭ
+3.2	cattle (bovine)	*govędo; nuta
+3.21	bull	bykŭ
+3.22	ox	volŭ
+3.23	cow	krava
+3.24	calf	telę
+3.25	sheep	ovĭca
+3.26	ram	ovĭnŭ
+3.28	ewe	ovĭca
+3.29	lamb	agnę; agnĭcĭ
+3.32	boar	
+3.34	sow	svinija
+3.35	pig	prasę
+3.36	goat	koza
+3.37	he-goat	kozĭlŭ
+3.38	kid	kozĭlę
+3.41	horse (equine)	konjĭ
+3.42	stallion	
+3.44	mare	kobyla
+3.45	foal, colt	žrěbę
+3.46	ass, donkey	osilŭ
+3.47	mule	mĭskŭ
+3.5	fowl	
+3.52	cock, rooster	kurŭ; kokotŭ; pětelŭ
+3.54	hen	kokošĭ
+3.55	chicken	kurę; pŭtenĭcĭ
+3.56	goose	*gąsĭ; gusĭ
+3.57	duck	ąty
+3.58	nest	
+3.581	bird	pŭta; pŭtica
+3.582	seagull	
+3.583	heron	
+3.584	eagle	
+3.585	hawk	
+3.586	vulture	
+3.591	bat	
+3.592	parrot	
+3.593	crow	
+3.594	dove	
+3.596	owl	
+3.61	dog	pĭsŭ
+3.614	rabbit	
+3.62	cat	kotŭka
+3.622	opossum	
+3.63	mouse, rat	mysĭ
+3.65	fish	ryba
+3.652	fin (dorsal)	
+3.653	fishscale	
+3.654	gill	
+3.655	shell	
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	
+3.665	freshwater eel	
+3.71	wolf	vlŭkŭ
+3.72	lion	lĭvŭ
+3.73	bear	medvědĭ
+3.74	fox	lisŭ
+3.75	deer	jelenĭ
+3.76	monkey	pitikŭ
+3.77	elephant	
+3.78	camel	velĭbądŭ
+3.81	insect	
+3.811	louse	
+3.812	nit (louse egg)	
+3.813	flea	
+3.814	centipede	
+3.815	scorpion	
+3.816	cockroach	
+3.817	ant	
+3.818	spider	
+3.819	spider web	
+3.82	bee	bĭčela
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	
+3.83	fly	mucha
+3.831	sandfly (midge), gnat	
+3.832	mosquito	
+3.84	worm	črŭvĭ
+3.85	snake	zmija
+3.91	firefly	
+3.92	butterfly	
+3.93	grasshopper	
+3.94	snail	
+3.95	frog	
+3.96	lizard	
+3.97	crocodile, alligator	
+3.98	turtle	
+4.11	body	tělo
+4.12	skin, hide	koža
+4.13	flesh	plŭtĭ; męso
+4.14	hair (head)	vlasŭ
+4.142	beard	brada
+4.144	body hair	
+4.145	pubic hair	
+4.146	dandruff	
+4.15	blood	krŭvĭ
+4.151	vein, artery	
+4.16	bone	kostĭ
+4.162	rib	rebro
+4.17	horn	rogŭ
+4.18	tail	opašĭ; očesŭ; ošibŭ
+4.19	back	chribŭtŭ
+4.191	spine	
+4.2	head	glava
+4.201	side of head, temple	
+4.202	skull	kranijevŭ; lŭbŭ
+4.203	brain	mozgŭ
+4.204	face	lice
+4.205	forehead	čelo
+4.207	jaw	čeljustĭ
+4.208	cheek	lanita
+4.209	chin	
+4.21	eye	oko
+4.212	eyebrow	brŭvĭ
+4.213	eyelid	
+4.214	eyelash	
+4.215	blink	
+4.22	ear	ucho
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	nosŭ
+4.231	nostril	
+4.232	mucus (nasal)	
+4.24	mouth	usta
+4.241	beak	
+4.25	lip	ustĭna
+4.26	tongue	językŭ
+4.27	tooth	ząbŭ
+4.271	gums	
+4.272	molartooth	
+4.28	neck	vyja; šija
+4.281	nape of neck	
+4.29	throat	grŭlo
+4.3	shoulder	ramo; plešte
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	myšĭca
+4.312	armpit	
+4.32	elbow	lakŭlĭ
+4.321	wrist	
+4.33	hand	rąka
+4.331	palm of hand	
+4.34	finger	prŭstŭ; prĭstŭ
+4.342	thumb	palĭcĭ
+4.344	fingernail	nogŭtĭ
+4.345	claw	
+4.35	leg	golěnĭ
+4.351	thigh	
+4.352	calf of leg	
+4.36	knee	kolěno
+4.37	foot	noga
+4.371	ankle	
+4.372	heel	
+4.374	footprint	
+4.38	toe	prŭstŭ (?)
+4.392	wing	krilo
+4.393	feather	pero
+4.4	chest	prŭsi; grudĭ
+4.41	breast (of woman)	sŭsŭ; sŭsĭcĭ
+4.412	nipple, teat	
+4.42	udder	
+4.43	navel	pąpŭkŭ; pąpŭ
+4.44	heart	srŭdĭce
+4.441	lung	
+4.45	liver	jętro
+4.451	kidney	
+4.452	spleen	
+4.46	stomach	črěvo; ątroba
+4.461	intestines, guts	
+4.462	waist	
+4.463	hip	
+4.464	buttocks	
+4.47	womb	črěvo; ątroba
+4.49	testicle	isto; *mądo; lono
+4.492	penis	
+4.51	breathe, breath	dychati; dychanĭje; duchŭ
+4.52	yawn, gape	zinąti; zijati
+4.521	hiccough	
+4.53	cough	kašĭljati
+4.54	sneeze	
+4.55	perspire	potŭ
+4.56	spit	pljĭvati
+4.57	vomit	bljĭvati
+4.58	bite	grysti; kusati
+4.59	lick	lizati
+4.591	dribble	
+4.61	sleep	sŭpati; sŭnŭ
+4.612	snore	
+4.62	dream	sŭnŭ
+4.63	wake up	buditi; bŭděti
+4.64	break wind	
+4.65	urinate	sĭcati; sĭčĭ
+4.66	defecate	gnojĭ; govno; lajĭno
+4.67	have sexual intercourse	
+4.68	shiver	
+4.69	bathe	
+4.71	beget (of father)	roditi
+4.72	born (to be)	roditi
+4.73	pregnant	neprazdĭna
+4.732	conceive	
+4.74	live, living, life	žiti; živŭ; životŭ; žiznć
+4.75	die, dead	(u)mrěti; mrŭtvŭ; sŭmrŭtĭ
+4.751	drowned	
+4.76	kill	ubiti; umoriti
+4.77	corpse	tělo; trupŭ; navĭ
+4.78	bury (the dead)	pogreti
+4.79	grave, tomb	grobŭ
+4.81	strong, mighty, powerful	krěpŭkŭ; silĭnŭ
+4.82	weak	slabŭ
+4.83	well, health	sŭdravŭ; cělŭ; sŭdravĭje
+4.84	sick, sickness	bolĭnŭ; bolěznĭ; nedągŭ; jędza
+4.841	fever	
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	strupŭ; jazva; rana
+4.852	bruise	
+4.853	swelling	
+4.854	itch	
+4.855	blister	
+4.856	boil (noun)	
+4.857	pus	
+4.858	scar	
+4.86	cure, heal	cěliti; lěčiti
+4.87	physician	balĭji; vračĭ; lěkarĭ
+4.88	medicine, drug	balĭstvo; lěkŭ
+4.89	poison	jadŭ; otrava
+4.91	tired, weary	truzdŭ sę; trudĭnŭ
+4.912	rest	
+4.92	lazy	lěnŭ
+4.93	bald	vŭzlysŭ; plěšivŭ
+4.94	lame	chromŭ
+4.95	deaf	gluchŭ
+4.96	mute	němŭ
+4.97	blind	slěpŭ
+4.98	intoxicated	pĭjanŭ
+4.99	naked, bare	nagŭ; golŭ
+5.11	eat	jasti
+5.12	food	pišta; jadĭ; brašĭno; krŭma
+5.121	cooked	
+5.122	raw	
+5.123	ripe	
+5.124	green, unripe	
+5.125	rotten	
+5.13	drink	piti
+5.14	hunger	gladŭ
+5.141	famine	
+5.15	thirst	žęžda
+5.16	suck	sŭsati
+5.18	chew	
+5.181	swallow	
+5.19	choke	
+5.21	cook	variti
+5.22	boil (vb)	variti; vĭrěti
+5.23	roast, fry	pešti; pražiti
+5.24	bake	pešti
+5.25	oven	peštĭ
+5.26	pot, cooking vessel	grŭnĭcĭ
+5.27	kettle	kotĭlŭ
+5.28	pan	skovrada
+5.31	dish	misa; bljudo
+5.32	plate	misa; bljudo
+5.33	bowl	
+5.34	pitcher, jug	krŭčagŭ; čĭvanŭ; vrŭčĭ
+5.35	cup, drinking vessel	čaša
+5.36	saucer	
+5.37	spoon	lŭžica
+5.38	knife	
+5.39	fork	
+5.391	tongs	
+5.41	meal (a)	obědŭ
+5.42	breakfast	
+5.43	lunch	
+5.44	dinner	obědŭ
+5.45	supper	večerja
+5.46	peel	
+5.47	sieve, strain	
+5.48	scrape	
+5.49	stir, mix	(sŭ-)měsiti
+5.51	bread	chlěbŭ
+5.53	dough	těsto
+5.54	knead	uměsiti
+5.55	meal, flour	mąka
+5.56	crush, grind	mlěti
+5.57	mill	žrŭnŭvi; žrŭny
+5.58	mortar	
+5.59	pestle	
+5.61	meat	męso
+5.63	sausage	
+5.64	soup, broth	jucha
+5.65	vegetables	zelĭje
+5.66	bean	bobŭ
+5.7	potato	
+5.71	fruit	ovoštĭ
+5.712	bunch	
+5.75	fig	smoky
+5.76	grape	grozdŭ; groznŭ
+5.77	nut	orěchŭ
+5.78	olive	maslina
+5.79	oil	olějĭ; maslo
+5.791	grease, fat	
+5.81	salt	solĭ
+5.82	pepper	pĭperŭ
+5.821	chili pepper	
+5.84	honey	medŭ
+5.85	sugar	
+5.86	milk (noun)	mlěko
+5.87	milk (vb)	mlěsti
+5.88	cheese	syrŭ
+5.89	butter	
+5.9	beverage, drink	
+5.91	mead	medŭ
+5.92	wine	vino
+5.93	beer	pivo; olŭ
+5.94	fermented drink	
+5.97	egg	ajĭce
+5.971	egg yolk	
+6.11	put on (clothes)	oděti; oblěšti
+6.12	clothing, clothes	odežda; riza
+6.13	tailor	
+6.21	cloth	platŭ; sukno; rąbŭ
+6.22	wool	vlŭna
+6.23	linen, flax	platĭno; lĭnŭ
+6.24	cotton	
+6.25	silk	šelkŭ; godovablĭ; svila
+6.27	felt	plŭstĭ
+6.28	fur	kožuchŭ; krŭzno
+6.29	leather	koža; azno
+6.31	spin	pręsti
+6.32	spindle	vreteno
+6.33	weave	tŭkati
+6.34	loom	postavŭ
+6.35	sew	šiti
+6.36	needle	*igŭla; igŭlinŭ
+6.37	awl	šilo
+6.38	thread	nitĭ; ništa
+6.39	dye	
+6.41	cloak	plaštĭ; riza
+6.411	poncho	
+6.42	woman's dress	
+6.43	coat	riza; sračica
+6.44	shirt	riza; sračica; košulja
+6.45	collar	
+6.46	skirt	
+6.461	grass-skirt	
+6.48	trousers	nadragy
+6.49	stocking, sock	
+6.51	shoe	sapogŭ; črěvĭjĭ
+6.52	boot	
+6.54	shoemaker, cobbler	sapogošĭvĭcĭ; sapožĭnikŭ
+6.55	hat, cap	
+6.57	belt, girdle	pojasŭ
+6.58	glove	rąkavica
+6.59	veil	
+6.61	pocket	
+6.62	button	
+6.63	pin	
+6.71	ornament, adornment	ukrašenĭje
+6.72	jewel	
+6.73	ring (for finger)	prŭstenĭ
+6.74	bracelet	
+6.75	necklace	monisto; grivĭna; ožrělĭ
+6.76	bead	
+6.77	earring	
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	
+6.82	towel	rąčĭnikŭ
+6.91	comb	grebenĭ; česlŭ; česalo
+6.92	brush	
+6.921	braid	
+6.93	razor	britva; bričĭ
+6.94	ointment	mastĭ
+6.95	soap	
+6.96	mirror	zrĭcalo; *oględalo
+7.11	dwell, live	žiti; obitati
+7.12	house	domŭ; chramŭ; chyzŭ
+7.13	hut	
+7.131	garden-house	
+7.14	tent	skinĭji; kąšta
+7.15	yard, court	dvorŭ
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	
+7.22	door, gate	dvĭrĭ; vrata
+7.221	doorpost, jamb	
+7.23	lock (noun)	zamka
+7.231	latch, door-bolt	
+7.24	key	ključĭ
+7.25	window	okno
+7.26	floor	podŭ
+7.27	wall	zidŭ; stěna
+7.31	fireplace	ognište
+7.32	stove	
+7.33	chimney	
+7.37	ladder	
+7.42	bed	odrŭ; lože
+7.421	pillow	
+7.422	blanket	
+7.43	chair	sědalište
+7.44	table	trapeza
+7.45	lamp, torch	světilĭnikŭ
+7.46	candle	svěšta
+7.47	shelf	
+7.48	trough	
+7.51	roof	krovŭ; strěcha
+7.52	thatch	
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	brŭvŭno
+7.56	post, pole	
+7.57	board	dŭska
+7.58	arch	
+7.61	mason	
+7.62	brick	plinŭta
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	dělatelĭ; tęžatelĭ
+8.12	field (for cultivation)	selo; niva
+8.13	garden	vrŭtŭ; vrŭtogradŭ; ogradŭ
+8.15	cultivate, till	dělati
+8.16	fence	
+8.17	ditch	
+8.21	plow	orati; ralo
+8.212	furrow	brazda
+8.22	dig	kopati; ryti
+8.23	spade	rylo
+8.24	shovel	lopata
+8.25	hoe	motyka
+8.26	fork	
+8.27	rake	
+8.31	sow	sěti; sěmę
+8.311	seed	sěti; sěmę
+8.32	mow, reap	žęti
+8.33	sickle, scythe	srŭpŭ; kosa
+8.34	thresh	mlatiti; vrěšti
+8.35	threshing-floor	gumĭno
+8.41	crop, harvest	plodŭ; žętva
+8.42	grain (barley, oats etc)	žito
+8.43	wheat	pĭšenica
+8.44	barley	jęčĭněnŭ; jęčĭnŭ
+8.45	rye	rŭžĭ
+8.46	oats	ovĭsŭ
+8.47	maize, corn	
+8.48	rice	
+8.51	grass	trava
+8.52	hay	sěno
+8.53	plant (noun)	sadŭ
+8.531	plant (vb)	
+8.54	root	korenĭ
+8.55	branch	větvĭ; věja
+8.56	leaf	listŭ
+8.57	flower	cvětŭ; cvětĭcĭ
+8.6	tree	drěvo; dąbŭ
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	borŭ
+8.65	fir	jela
+8.66	acorn	želądĭ
+8.67	vine	loza
+8.68	tobacco	
+8.69	smoke (tobacco)	
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	
+8.74	forked branch	
+8.75	bark	
+8.76	sap	
+8.81	palm tree	
+8.82	coconut	
+8.83	citrus fruit	
+8.84	banana tree	
+8.85	banyan	
+8.91	sweet potato	
+8.912	yam	
+8.92	tapioca, manioc, cassava	
+8.93	gourd	
+8.931	pumpkin, squash	
+8.94	bamboo	
+8.941	sugar cane	
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	
+9.11	do, make	tvoriti; dělati
+9.12	work	trudŭ; dělo; (sŭ)dělati
+9.14	bend	sŭlęšti
+9.15	fold	sŭgŭnąti; sŭgybati
+9.16	tie, bind	sŭvęzati; povrěsti
+9.161	untie	
+9.18	chain	ąže železĭno
+9.19	rope, cord	vrŭvĭ
+9.192	knot (noun)	ązlŭ
+9.21	strike (hit, beat)	biti; udariti; tlěšti; uraziti
+9.211	pound with fist	
+9.22	cut	rězati; sěšti (-krojiti)
+9.221	cut down	
+9.222	chop, hew	
+9.223	stab	
+9.23	knife	nožĭ
+9.24	scissors, shears	
+9.25	ax	sěkyra (brady)
+9.251	adze	
+9.26	break	lomiti
+9.261	broken	
+9.27	split	cěpiti
+9.28	tear	dĭrati
+9.29	flay, skin	dĭrati
+9.31	rub, wipe	trěti
+9.32	stretch	rastęšti
+9.33	pull	vlěšti (tęgnąti)
+9.34	spread out	postĭlati; rasypati
+9.341	hang up	
+9.342	press	tiskati; žęti; gnesti
+9.343	squeeze, wring	
+9.35	pour	lĭjati
+9.36	wash	myti; plakati
+9.37	sweep	pomesti
+9.38	broom	
+9.422	tool	orądĭje
+9.43	carpenter	tektonŭ; drěvodělja
+9.44	build	zĭdati; graditi
+9.46	bore	
+9.461	hollow out	
+9.48	saw	pila
+9.49	hammer	mlatŭ
+9.5	nail	gvozdĭ
+9.56	glue	
+9.6	smith, blacksmith	kovačĭ
+9.61	forge	kovati
+9.62	anvil	nakovalo
+9.63	cast (metals)	
+9.64	gold	zlato
+9.65	silver	s(ŭ)rebro
+9.66	copper, bronze	mědĭ
+9.67	iron	želěso
+9.68	lead (noun)	olovo
+9.69	tin, tinplate	kositerŭ
+9.71	potter	grĭnĭčarĭ
+9.72	mold (clay etc)	
+9.73	clay	glina
+9.74	glass	stĭklo
+9.75	weave, plait	plesti
+9.76	basket	košĭ; krabĭjĭ
+9.77	mat	
+9.771	rug	
+9.78	netbag	
+9.79	fan (noun)	
+9.791	fan (vb)	
+9.81	carve	vajati
+9.82	sculptor	
+9.83	statue	tělo
+9.84	chisel	dlato
+9.88	paint (noun)	obrazŭ
+9.89	paint (vb)	
+10.11	move	dvignąti
+10.12	turn over	obratiti
+10.13	turn around	krątiti
+10.14	wind, wrap	(sŭ)viti
+10.15	roll	valiti
+10.16	drop (vb)	kaplja
+10.17	twist	
+10.21	rise	vŭstaniti
+10.22	raise, lift	vŭzęti; vŭzdvignąti; vŭznesti
+10.23	fall	pasti; padati
+10.24	drip	kaplja
+10.25	throw	mesti; vrěšti
+10.252	catch (ball)	
+10.26	shake	tręsti
+10.32	flow	tešti; pluti
+10.33	sink	pogręznąti; pogrąžati; topiti; tonąti
+10.34	float	pluti; plavati
+10.35	swim	pluti; plavati
+10.351	dive	
+10.352	splash	
+10.36	sail (vb)	jachati; pluti; plavati
+10.37	fly (vb)	poletěti
+10.38	blow	duchati; vějati
+10.41	creep, crawl	plŭziti; (prě)smykati sę
+10.412	kneel	
+10.413	crouch	
+10.42	slide, slip	
+10.43	jump, leap	skočiti
+10.431	kick	
+10.44	dance	plęsati
+10.45	walk	iti; choditi
+10.451	limp	
+10.46	run	tešti
+10.47	go	iti; choditi
+10.471	go up	
+10.472	climb	
+10.473	go down	
+10.474	go out	
+10.48	come	priti; gręsti
+10.481	come back	
+10.49	go away, depart	otiti; iziti
+10.491	disappear	
+10.51	flee	běžati
+10.52	follow	vŭ slědŭ iti; po-slědovati
+10.53	pursue	izgŭnati; goniti
+10.55	reach, arrive	priti; prispěti
+10.56	approach	približiti sę
+10.57	enter	vŭniti
+10.61	carry (bear)	nesti; nositi
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	prinesti
+10.63	send	(po-)sŭlati
+10.64	lead (vb)	vesti
+10.65	drive	gŭnati; goniti
+10.66	ride	jachati; voziti sę
+10.67	push, shove	
+10.71	road	pątĭ; cěsta
+10.72	path	stĭza; stĭdza
+10.74	bridge	mostŭ
+10.75	carriage, wagon, cart	kola; kolesa; vozŭ
+10.76	wheel	kolo
+10.77	axle	osĭ
+10.78	yoke	igo; jarĭmŭ
+10.81	ship	korabljĭ; ladĭji
+10.83	boat	korabljĭ
+10.831	canoe	
+10.832	outrigger	
+10.84	raft	
+10.85	oar	veslo
+10.851	paddle (noun)	
+10.852	row (vb)	
+10.86	rudder	krŭma; krŭmilo
+10.87	mast	jadro
+10.88	sail (noun)	jadrilo
+10.89	anchor	kotŭka; ankura
+10.91	harbor, port	pristanište
+10.92	land (vb)	
+11.11	have	iměti
+11.12	own, possess	pritęžati; sŭtęžati
+11.13	take	vŭzęti; bĭrati
+11.14	seize, grasp	jęti; chvatiti
+11.15	hold	drŭžati
+11.16	get, obtain	polučiti
+11.17	keep, retain	drŭžati
+11.18	thing	veštĭ
+11.21	give	dati
+11.22	give back	vŭ-; vŭz-; otŭ-dati
+11.24	preserve, look after	chraniti
+11.25	save, rescue	sŭpasti
+11.27	destroy	(po-; iz-)gubiti; razoriti
+11.28	harm, injure, damage	vrěditi; otŭštetiti
+11.31	seek, look for	iskati
+11.32	find	obrěsti
+11.33	lose	pogubiti
+11.34	release, let go	(otŭ)pustiti; rěšiti
+11.43	money	sĭrebro
+11.44	coin	sklęzĭ
+11.51	rich	bogatŭ
+11.52	poor	ubogŭ; nebogŭ; ništĭ
+11.53	beggar	ništĭ
+11.54	avaricious, stingy	sŭrebroljubĭcĭ
+11.61	lend	vŭ zajĭmŭ dajati
+11.62	borrow	zajęti
+11.63	owe	dlŭžĭnŭ byti
+11.64	debt	dlŭgŭ
+11.65	pay (vb)	vŭzdati
+11.66	account, reckoning	slovo
+11.69	tax, tribute	danĭ
+11.77	hire	najęti
+11.78	wages	mĭzda
+11.79	earn	
+11.81	buy	kupiti
+11.82	sell	prodati
+11.83	trade, barter	kuplją dějati
+11.84	merchant	kupĭcĭ
+11.85	market (place)	trŭgŭ; trŭžište; kuplja
+11.86	store, shop	
+11.87	price	cěna
+11.88	dear (costly, expensive)	dragŭ
+11.89	cheap	
+11.91	share (distribute)	
+11.92	weigh	
+12.1	after	
+12.11	behind	
+12.2	beside	
+12.3	down, below	
+12.4	before	
+12.41	front	
+12.5	inside, in	
+12.6	outside	
+12.7	under	
+12.8	up, above	
+12.11	place	město
+12.12	put	položiti; postaviti; klasti
+12.13	sit	sěděti
+12.14	lie down	ležati
+12.15	stand	stojati
+12.16	remain, stay	prěbyti; ostati
+12.17	remains, left overs	ostati
+12.21	collect, gather	sŭbĭrati
+12.212	pick up	
+12.213	pile up	
+12.22	join, unite	sŭčetati
+12.23	separate	(raz)ląčiti
+12.232	divide	
+12.24	open	otŭvrěsti; otvoriti
+12.25	shut, close	zatvoriti; zaklenąti; (za)vrěti; (za)ključiti
+12.26	cover	pokryti
+12.27	hide, conceal	sŭkryti
+12.31	high	vysokŭ
+12.32	low	nizŭkŭ
+12.33	top	vrŭchŭ
+12.34	bottom	dŭno
+12.35	end	konĭcĭ
+12.352	pointed	
+12.353	edge	ostrĭje; krajĭ; vŭskrilĭje
+12.36	side	rebra; strana
+12.37	middle, center	srěda
+12.41	right (side)	desnŭ
+12.42	left (side)	šujĭ; lěvŭ
+12.43	near (adv)	blizĭ; blizŭ
+12.44	far (adv)	daleče
+12.45	east	vŭstokŭ
+12.46	west	zapadŭ
+12.47	north	sěverŭ
+12.48	south	jugŭ
+12.53	grow	rasti
+12.54	measure	měriti
+12.541	span, fathom	
+12.55	large, big	velijĭ; velikŭ
+12.56	small, little	malŭ; chudŭ
+12.57	long	dlŭgŭ
+12.58	tall	
+12.59	short	kratŭkŭ
+12.61	wide, broad	širokŭ
+12.62	narrow	ązŭkŭ; těsnŭ
+12.63	thick (in dimension)	debelŭ
+12.65	thin (in dimension)	tĭnŭkŭ
+12.67	deep	gląbokŭ
+12.68	shallow	mělŭkŭ
+12.71	flat	ploskŭ
+12.73	straight	pravŭ
+12.74	crooked	strŭpĭlĭnŭ
+12.75	hook	ąkotĭ
+12.76	corner	ągŭlŭ (kutŭ)
+12.77	cross	krĭstŭ; križĭ
+12.78	square	
+12.81	round	(o)kruglŭ
+12.82	circle	krągŭ
+12.83	sphere, ball	
+12.84	line	
+12.85	hole	dupina
+12.92	like, similar	podobĭnŭ
+12.93	change	měniti
+13.0	zero, nothing	
+13.1	one	jedinŭ
+13.2	two	
+13.3	three	trĭje
+13.4	four	
+13.5	five	
+13.6	six	
+13.7	seven	
+13.8	eight	
+13.9	nine	
+13.10	ten	
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	
+13.106	thousand	
+13.107	count	
+13.14	every, all	vĭsěkŭ; kŭžĭdo; vĭsi
+13.15	much, many	mŭnogŭ
+13.16	more	bolijĭ; mŭnožějĭ; vęšte
+13.17	little (quantity), few	malo
+13.18	enough	dovolĭnŭ
+13.181	some	
+13.19	multitude, crowd	mŭnožĭstvo; narodŭ
+13.21	full	isplŭnŭ
+13.22	empty	tŭštĭ
+13.23	part, piece	čęstĭ; dělŭ
+13.24	half	polŭ
+13.33	alone, only	jedinŭ; jedino
+13.34	first	prŭvŭ
+13.35	last	poslědĭnĭjĭ
+13.36	second	
+13.37	pair	
+13.38	two times	
+13.42	third	tretĭjĭ
+13.44	three times	tri kraty; trišdy
+14.11	time	vrěmę; časŭ; godŭ
+14.12	age	vŭzdrastŭ; vrŭsta
+14.13	new	novŭ
+14.14	young	junŭ
+14.15	old	vetŭchŭ; starŭ
+14.16	early	rano; za utra
+14.17	late	pozdě
+14.18	now	nyně
+14.19	immediately	skoro; abĭje
+14.21	swift, fast, quick	skorŭ; jędro; brĭzo
+14.22	slow	mądĭnŭ; kŭsĭnŭ
+14.23	hasten, hurry	potŭštati sę; podvignąti sę; spěšiti
+14.24	retard, delay	mąditi; kŭsněti
+14.25	begin, beginning	nacęti; načęlo; načętŭkŭ
+14.252	last, endure	trajati
+14.26	end (temporal)	konĭčina; konĭcĭ
+14.27	finish	(sŭ-)konĭčati
+14.28	cease, stop	prěstati
+14.29	ready	gotovŭ
+14.31	always	vìsegda
+14.32	often	čęsto
+14.33	sometimes	někŭgda
+14.331	soon	
+14.332	long-time (for a)	
+14.34	never	nikoliže; nikŭgdaže; nikŭdaže
+14.35	again	paky
+14.41	day	dĭnĭ
+14.42	night	noštĭ
+14.43	dawn	rano; -brězgŭ; zorę
+14.44	morning	utro; jutro
+14.45	noon, midday	poludĭne
+14.451	afternoon	
+14.46	evening	večerŭ
+14.47	today	dĭnĭsĭ
+14.48	tomorrow	utrě
+14.481	day-after-tomorrow	
+14.49	yesterday	vĭčera
+14.491	day-before-yesterday	
+14.51	hour	godina; časŭ
+14.53	clock, timepiece	
+14.61	week	sobota; nedělja; sedmica
+14.62	Sunday	nedělja
+14.63	Monday	ponedělŭkŭ
+14.64	Tuesday	vŭtornikŭ
+14.65	Wednesday	tretĭjĭnikŭ; srěda
+14.66	Thursday	četurĭtŭkŭ
+14.67	Friday	pętŭkŭ; pętĭnica
+14.68	Saturday	sobota; sąbota
+14.71	month	měsęcĭ
+14.73	year	lěto
+14.74	winter	zima
+14.75	spring	vesna
+14.76	summer	žętva; lěto
+14.77	autumn	jesenĭ
+14.78	season	
+15.21	smell (vb intrans)	obonjati; ąchati
+15.212	sniff	
+15.22	smell (vb trans)	vonjati
+15.25	fragrant, good smelling	blagovonĭnŭ
+15.26	stinking, bad smelling	smrŭděti; smradŭ
+15.31	taste	vŭkusiti; vŭkusŭ
+15.35	sweet	sladŭkŭ
+15.36	salty	slanŭ
+15.37	bitter	gorĭkŭ
+15.38	acid, sour	kyslŭ
+15.39	brackish	
+15.41	hear	slyšati
+15.42	listen	slušati
+15.44	sound, noise	zvękŭ; zvąkŭ
+15.45	loud	velĭjĭ
+15.46	quiet, silence	tichŭ
+15.51	see	viděti; zĭrěti
+15.52	look, look at	žĭrěti; ględati; sŭmotriti
+15.55	show	pokazati; (j)aviti
+15.56	shine	světiti; blĭštati; sijati; lĭštati sę
+15.57	bright	světĭlŭ
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	tĭmĭnŭ
+15.64	white	bělŭ
+15.65	black	črŭnŭ
+15.66	red	črŭmĭnŭ; črĭvenŭ; rŭdrŭ
+15.67	blue	sinĭ
+15.68	green	zelenŭ
+15.69	yellow	žlĭtŭ
+15.71	touch	kosnąti; prikasati; prisęšti; osęzanĭje
+15.712	pinch	
+15.72	feel	osęgnąti; osęzati
+15.74	hard	žestokŭ; tvrŭdŭ
+15.75	soft	mękŭkŭ
+15.76	rough	srŭchŭkŭ
+15.77	smooth	gladŭkŭ
+15.78	sharp	ostrŭ
+15.79	blunt, dull	tąpŭ
+15.81	heavy	tęžĭkŭ
+15.82	light (in weight)	lĭgŭkŭ
+15.83	wet, damp	mokrŭ
+15.84	dry	suchŭ
+15.85	hot	toplŭ
+15.851	warm	
+15.86	cold	studenŭ
+15.87	clean	čistŭ
+15.88	dirty, soiled	nečistŭ
+15.89	wrinkled	
+16.11	soul, spirit	duša; duchŭ
+16.15	surprised, astonished	užasŭ
+16.18	good fortune, luck	kobĭ
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	radŭ; veselŭ; radostĭ; blaženŭ
+16.25	laugh	smějati sę
+16.251	smile	
+16.26	play	igrati
+16.27	love	ljuby; ljubiti
+16.29	kiss	lobŭzati; cělovati
+16.3	embrace	
+16.31	pain	bolěznĭ; strastĭ
+16.32	grief, sorrow, sadness	pečalĭ; skrŭbĭ; priskrŭbĭnŭ
+16.33	anxiety, worry	pečalĭ
+16.34	regret, be sorry	(ras)kajati sę
+16.35	pity	milostĭ; milosrŭdĭje
+16.37	cry, weep	plakati (sę)
+16.38	tear (noun)	slĭza
+16.39	groan	stenati
+16.41	hate	nenavistĭ
+16.42	anger	gněvŭ; jarostì
+16.44	envy, jealousy	zavistĭ; rĭvĭnĭje
+16.45	shame (noun)	studŭ; sramŭ
+16.48	proud	grŭdŭ
+16.51	dare	sŭměti; drŭzati
+16.52	brave	drŭzŭ; chrabŭrŭ
+16.53	fear, fright	strachŭ; bojaznĭ
+16.54	danger	běda
+16.62	desire, want	želěti
+16.622	choose	
+16.63	hope	upŭvanĭje; nadežda
+16.65	faithful	věrĭnŭ
+16.66	true	istina
+16.67	lie, tell lies	lŭža
+16.68	deceit	lĭstĭ; ląka
+16.69	forgive	otŭpustiti; prostiti
+16.71	good	dobrŭ; blagŭ
+16.72	bad	zŭlŭ
+16.73	right, correct	pravĭdĭnŭ
+16.74	wrong	
+16.76	fault	vina
+16.77	mistake, error	lĭstĭ
+16.78	blame	zazĭrěti
+16.79	praise	chvala
+16.81	beautiful	krasĭnŭ
+16.82	ugly	rąžĭnŭ
+16.83	greedy	
+16.84	clever	
+17.11	mind	umŭ
+17.13	think (= reflect)	mysliti
+17.14	think (= be of the opinion)	mĭněti; měniti
+17.15	believe	věrą jęti; věrovati
+17.16	understand	razuměti
+17.17	know	věděti; razuměti; znati
+17.171	guess	
+17.172	imitate	
+17.18	seem	(j)aviti sę
+17.19	idea, notion	
+17.21	wise	mądrŭ; prěmądrŭ
+17.22	foolish, stupid	bezumĭnŭ; bujĭ
+17.23	insane, crazy	neistovŭ
+17.24	learn	učiti sę
+17.242	study	
+17.25	teach	učiti
+17.26	pupil	učenikŭ
+17.27	teacher	učitelĭ
+17.28	school	
+17.31	remember	poměnąti; pomęnąti; pomĭněti
+17.32	forget	zabyti
+17.34	clear, plain	(j)avě; jasno
+17.35	obscure	
+17.36	secret	tajĭnŭ
+17.37	sure, certain	
+17.38	explain	sŭkazati
+17.41	intention, purpose	pomyšlenĭje
+17.42	cause	vina
+17.43	doubt	sąmĭnenĭje
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	potrěba; nąžda; nevolja
+17.46	easy	udobĭ
+17.47	difficult	ne udobĭ
+17.48	try, attempt	iskati; iskusiti
+17.49	way, manner	obrazŭ
+17.51	and	
+17.52	because	
+17.53	if	
+17.54	or	
+17.55	yes, affirmative	
+17.56	no, negative	
+17.61	how?	
+17.62	how many?	
+17.63	how much?	
+17.64	what?	
+17.65	when?	
+17.66	where?	
+17.67	which?	
+17.68	who?	
+17.69	why?	
+18.11	voice	glasŭ
+18.12	sing	pěti
+18.13	shout, cry out	vŭpiti; vŭzŭpiti; kričati
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	
+18.18	shriek, screech	
+18.19	howl	
+18.21	speak, talk	glagolati; věštati
+18.211	stutter, stammer	
+18.22	say	rešti; pověděti
+18.221	tell story	
+18.222	speech (make a)	
+18.23	silent (be)	mlŭčati
+18.24	language	językŭ
+18.26	word	glagolŭ; slovo
+18.28	name	imę
+18.31	ask (question, inquire)	vŭprositi
+18.32	answer	otŭvěštati
+18.33	admit, confess	ispovědati
+18.34	deny	otŭvrěšti sę; otŭmetati sę
+18.35	ask, request	prositi; moliti
+18.36	promise	oběštati
+18.37	refuse	otŭrešti
+18.38	forbid	(vŭz)braniti
+18.39	rebuke, scold	
+18.41	call (=summon)	(pri)zŭvati
+18.42	call (=name)	narešti
+18.43	announce	vŭzvěstiti; pověděti
+18.44	threaten	(za-)prětiti; groziti
+18.45	boast	chvaliti sę
+18.51	write	pĭsati
+18.52	read	čisti
+18.56	paper	chartija
+18.57	pen	trŭstĭ
+18.61	book	kŭnigy
+18.67	poet	
+18.71	flute	
+18.72	drum	
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	strana; zemlja
+19.12	one's native country	otĭčĭstvĭje
+19.15	city, town	gradŭ
+19.16	village	vĭsĭ
+19.17	boundary	prědělŭ
+19.21	people (populace)	ljudĭje; narodŭ
+19.23	tribe, clan	kolěno; rodŭ; plemę
+19.24	chief, chieftain	
+19.25	staff, walking stick	
+19.31	rule, govern	vlasti
+19.32	king, ruler	cěsar'ĭ; kral'ĭ
+19.33	queen	cěsarica
+19.36	noble, nobleman	boljarinŭ
+19.37	citizen, subject	graždaninŭ; žiteljĭ
+19.41	master	gospodĭ
+19.42	slave	rabŭ
+19.43	servant	sluga
+19.44	freeman	svobodĭ
+19.45	command, order	(po)velěti; zapověděti
+19.46	obey	poslušati
+19.47	let, permit	povelěti; ostaviti
+19.51	friend, companion	drugŭ; prijateljĭ; obĭštĭnikŭ
+19.52	enemy	vragŭ; neprijateljĭ
+19.54	neighbor	sąsědŭ
+19.55	stranger	stranĭnŭ
+19.56	guest	gostĭ
+19.57	host	gostinĭnikŭ
+19.58	help, aid	pomošti
+19.59	hinder, prevent	(vŭz)braniti
+19.61	custom	obyčaj; nravŭ
+19.62	strife, quarrel	pĭrja; sŭvada
+19.63	conspiracy, plot	
+19.65	meet	sŭrěsti
+19.72	prostitute	ljubodějica; blądĭnica
+20.11	fight (vb)	pĭrěti sę; brati
+20.13	war, battle	branĭ; ratĭ; kotora
+20.14	peace	mirŭ
+20.15	army	vojĭ
+20.17	soldier	vojinŭ
+20.21	weapons, arms	orąžĭja
+20.22	club	drŭkolĭ
+20.222	battle-ax	
+20.23	sling	prašta
+20.24	bow	ląkŭ
+20.25	arrow	strěla
+20.26	spear	kopĭje; sulica
+20.27	sword	mečĭ; kor(ŭ)da
+20.28	gun, cannon	
+20.31	armor (defensive)	orąžĭja
+20.33	helmet	šlěmŭ
+20.34	shield	štitŭ
+20.35	fortress	gradište
+20.36	tower	stlŭpŭ; synŭ
+20.41	victory	poběda
+20.42	defeat	
+20.43	attack	napadenĭje
+20.44	defend	
+20.45	retreat	běstvo
+20.46	surrender	prědati
+20.47	captive, prisoner	plěnĭnikŭ
+20.471	guard, sentinel	
+20.48	booty, spoils	koristĭ; plěnŭ
+20.49	ambush	zasada
+20.51	fisherman	
+20.52	fishhook	
+20.53	fishing line	
+20.54	fishnet	
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	loviti
+20.62	shoot	
+20.63	miss (target)	
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	zakonŭ
+21.15	court	sądŭ
+21.16	judge (vb)	sąditi
+21.17	judgment	sądŭ
+21.18	judge (noun)	sądĭji
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	sŭvědětelĭ
+21.24	swear	klęti sę
+21.25	oath	klętva; prisęga
+21.31	accuse	(vŭz)glagolati (na); vaditi (na)
+21.32	condemn	osąditi
+21.33	convict (vb)	obličiti
+21.34	acquit	pustiti
+21.35	guilty	(po)vinĭnŭ
+21.36	innocent	ne povinĭnŭ
+21.37	penalty, punishment	(po)kaznĭ
+21.38	fine	
+21.39	prison, jail	temĭnica
+21.42	murder	ubijĭstvo; ubojĭ
+21.43	adultery	prěljubodějanĭje
+21.44	rape	
+21.46	arson	
+21.47	perjury	lŭžesŭvěděnĭje
+21.51	steal	krasti; tatĭva; kradĭba
+21.52	thief	tatĭ
+22.11	religion	věra
+22.12	God	bogŭ
+22.13	temple, church	crŭky; chramŭ
+22.14	altar	ol(ŭ)tarĭ
+22.15	sacrifice, offering	žrŭtva
+22.16	worship	klaněti sę; pokloniti sę; čisti
+22.17	pray	moliti sę
+22.18	priest	ierejĭ; čistitel'ĭ; žĭrĭcĭ; svęštenikŭ; popŭ
+22.19	holy, sacred	svętŭ
+22.22	preach	propovědati
+22.23	bless	blagosloviti
+22.24	curse	(pro)klęti
+22.26	fast (vb)	postiti
+22.31	heaven	nebo
+22.32	hell	adŭ; pekle
+22.35	demon (evil spirit)	běsŭ
+22.37	idol	kumirŭ
+22.42	magic, witchcraft, sorcery	čari; vlŭšiba
+22.43	sorcerer, witch	věštica; vědĭma
+22.44	fairy, elf	
+22.45	ghost, phantom	prizrakŭ
+22.47	omen, portent	znamenĭje

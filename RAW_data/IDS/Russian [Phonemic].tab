@@ -1,0 +1,1311 @@
+entry_id	trans_english	Russian_Phonemic
+1.1	world	mir; svet
+1.21	earth, land	zemlja
+1.212	earth=ground, soil	počva
+1.213	dust	pyl
+1.214	mud	grjaz
+1.215	sand	pesok
+1.22	mountain, hill	gora; cholm, xolm
+1.222	cliff, precipice	skala
+1.23	plain, field	ravnina; pole
+1.24	valley	dolina
+1.25	island	ostrov
+1.26	mainland	materik
+1.27	shore	bereg; poberež ́je
+1.28	cave	pečera
+1.31	water	voda
+1.32	sea	more
+1.322	calm (of sea)	zatiš ́je
+1.323	rough (of sea)	burnoe more
+1.324	foam	pena
+1.329	ocean	okean
+1.33	lake	ozero
+1.34	gulf, bay	zaliv
+1.341	lagoon	laguna
+1.342	reef	rif
+1.343	headland, point	mys
+1.35	wave	volna (val)
+1.352	tide	morskoj priliv i otliv
+1.353	lowtide	nizšaja točka otliva
+1.354	hightide	vysšaja točka priliva
+1.36	river, stream, brook	reka; potok; ručej
+1.362	whirlpool	vodovorot
+1.37	spring, well	ključ; rodnik; istočnik; kolodec
+1.38	swamp	boloto
+1.39	waterfall	vodopad
+1.41	woods, forest	les
+1.42	tree (cf 08.600)	derevo
+1.43	wood	derevo
+1.44	stone, rock	kamen
+1.45	earthquake	zemle trjasenie
+1.51	sky	nebo
+1.52	sun	solnce
+1.53	moon	luna (mesjac)
+1.54	star	zvezda
+1.55	lightning	molnija
+1.56	thunder	grom
+1.57	lightning (as striking)	molnija
+1.58	storm	burja
+1.59	rainbow	raduga
+1.61	light (noun)	svet
+1.62	darkness	temnota; t ́ma; mrak
+1.63	shade, shadow	ten ́
+1.64	dew	rosa
+1.71	air	vozdux
+1.72	wind	veter
+1.73	cloud	oblako; tuča
+1.74	fog	tuman; mgla
+1.75	rain (noun)	dožd
+1.76	snow (noun)	sneg
+1.77	ice	led
+1.78	weather	pogoda
+1.81	fire	ogon
+1.82	flame (noun)	plamja
+1.83	smoke (noun)	dym
+1.84	ashes	pepel
+1.841	embers	poslednie krasnye ugol ́ki
+1.851	burn (vb trans)	žeč
+1.852	burn (vb intrans)	goret
+1.86	light, kindle, ignite	zažeč
+1.861	extinguish	tušit ́; gasit
+1.87	match (noun)	spička
+1.88	firewood	drova
+1.89	charcoal	drevesnyj ugal
+2.1	person, human being	čelovek
+2.21	man (vs. woman)	mužčina
+2.22	woman	ženščina
+2.23	male	mužskoj
+2.24	female	ženskij
+2.25	boy	mal ́čik
+2.251	young man (adolescent)	junoša; podrostok
+2.26	girl	devočka
+2.261	young woman (adolescent)	devuška
+2.27	child	rebenok (deti)
+2.28	infant, baby	mladenec
+2.31	husband	muž; suprug
+2.32	wife	žena; supruga
+2.33	marry	ženit ́sja; vyiti za muž
+2.34	marriage, wedding	brak; supružestvo; ženit ́ba; zamužestvo; svad ́ba
+2.341	divorce	razvod
+2.35	father	otec
+2.36	mother	mat
+2.37	parents	roditeli
+2.38	married man	
+2.39	married woman	
+2.41	son	syn
+2.42	daughter	doč
+2.43	offspring (son or daughter)	
+2.44	brother	brat
+2.444	older brother	staršij brat
+2.445	younger brother	mladšij brat
+2.45	sister	sestra
+2.454	older sister	staršaja sestra
+2.455	younger sister	mladšaja sestra
+2.456	sibling	brat/ sestra
+2.458	twins	bliznecy
+2.46	grandfather	deduška; ded
+2.461	old man	starik
+2.47	grandmother	babuška
+2.471	old woman	staruxa (baba)
+2.48	grandson	vnuk
+2.49	granddaughter	vnučka
+2.51	uncle	djadja
+2.511	mother's brother	djadja; mamin brat
+2.512	father's brother	djadja; otcov brat
+2.52	aunt	(tetka) t ́otja
+2.521	mother's sister	t ́otja; mamina sestra
+2.522	father's sister	t ́otja; otcova sestra
+2.53	nephew	plemjannik
+2.54	niece	plemjannica
+2.55	cousin	dvojurodnyj brat; dvojurodnaja sestra
+2.56	ancestors	predki
+2.57	descendants	potomki
+2.61	father-in-law (of a man)	test
+2.611	father-in-law (of a woman)	svëkor
+2.62	mother-in-law (of a man)	tešča
+2.621	mother-in-law (of a woman)	svekrov
+2.63	son-in-law (of a man)	zjat
+2.631	son-in-law (of a woman)	zjat
+2.64	daughter-in-law (of a man)	snoxa; nevestka
+2.641	daughter-in-law (of a woman)	žena syna
+2.71	stepfather	otčim
+2.72	stepmother	mačexa
+2.73	stepson	pasynok
+2.74	stepdaughter	padčerica
+2.75	orphan	sirota
+2.76	widow	vdova
+2.77	widower	vdovec
+2.81	relatives, kinsmen	rodnyje
+2.82	family	sem ́ja
+2.91	I	ja
+2.92	you (singular)	ty
+2.93	he/she/it	on; ona; ono
+2.94	we	my
+2.941	we (inclusive)	my
+2.942	we (exclusive)	my
+2.95	you (plural)	vy
+2.96	they	oni
+3.11	animal	životnoe; zver
+3.12	male (adj)	samec
+3.13	female (adj)	samka
+3.15	livestock	skot
+3.16	pasture	pastbišče
+3.18	herdsman	pastux
+3.19	stable, stall	xlev; stojlo
+3.2	cattle (bovine)	skot
+3.21	bull	byk
+3.22	ox	vol
+3.23	cow	korova
+3.24	calf	telënok
+3.25	sheep	ovca
+3.26	ram	baran
+3.28	ewe	ovca
+3.29	lamb	jagnënok
+3.32	boar	borov
+3.34	sow	svin ́ja
+3.35	pig	porosënok
+3.36	goat	koza
+3.37	he-goat	kozël
+3.38	kid	kozlënok
+3.41	horse (equine)	lošad ́(kon ́)
+3.42	stallion	žerebec
+3.44	mare	kobyla
+3.45	foal, colt	žerebënok
+3.46	ass, donkey	osël
+3.47	mule	mul
+3.5	fowl	kury
+3.52	cock, rooster	petux
+3.54	hen	kurica
+3.55	chicken	kurica
+3.56	goose	gus
+3.57	duck	utka
+3.58	nest	gnezdo
+3.581	bird	ptica
+3.582	seagull	čajka
+3.583	heron	caplja
+3.584	eagle	orël
+3.585	hawk	sokol
+3.586	vulture	grif
+3.591	bat	letučaja myš
+3.592	parrot	popugaj
+3.593	crow	vorona
+3.594	dove	golub
+3.596	owl	sova
+3.61	dog	sobaka (pës)
+3.614	rabbit	zajac
+3.62	cat	koška
+3.622	opossum	opossum; sumčataja krysa
+3.63	mouse, rat	myš ́; krysa
+3.65	fish	ryba
+3.652	fin (dorsal)	plavnik
+3.653	fishscale	češuja
+3.654	gill	žabry
+3.655	shell	skorlupa
+3.661	shark	akula
+3.662	porpoise, dolphin	morskaja svin ́ja
+3.663	whale	kit
+3.664	stingray	(električeskij) skat; (gigantskij morskoj d ́javol)
+3.665	freshwater eel	rečnoj ugor
+3.71	wolf	volk
+3.72	lion	lev
+3.73	bear	medved
+3.74	fox	lisa
+3.75	deer	olen ́
+3.76	monkey	obez ́jana
+3.77	elephant	slon
+3.78	camel	verbljud
+3.81	insect	nasekomoe
+3.811	louse	voš ́
+3.812	nit (louse egg)	gnida
+3.813	flea	bloxa
+3.814	centipede	mnogonožka
+3.815	scorpion	skorpion
+3.816	cockroach	tarakan
+3.817	ant	muravej
+3.818	spider	pauk
+3.819	spider web	pautina
+3.82	bee	pčela
+3.821	beeswax	vosk
+3.822	beehive	ulej
+3.823	wasp	osa
+3.83	fly	muxa
+3.831	sandfly (midge), gnat	moška; komar
+3.832	mosquito	moskit; komar
+3.84	worm	červ
+3.85	snake	zmeja (už)
+3.91	firefly	svetljak
+3.92	butterfly	babočka
+3.93	grasshopper	saranča; kuznečik
+3.94	snail	ulitka
+3.95	frog	ljaguška
+3.96	lizard	jaščerica
+3.97	crocodile, alligator	krokodil
+3.98	turtle	čerepaxa
+4.11	body	telo
+4.12	skin, hide	koža; škura
+4.13	flesh	(mjaso) telo
+4.14	hair (head)	volosy
+4.142	beard	boroda
+4.144	body hair	volosy na tele
+4.145	pubic hair	
+4.146	dandruff	perxot
+4.15	blood	krov
+4.151	vein, artery	vena; arterija
+4.16	bone	kost
+4.162	rib	rebro
+4.17	horn	rog
+4.18	tail	xvost
+4.19	back	spina
+4.191	spine	spinnoj xrebet
+4.2	head	golova
+4.201	side of head, temple	visok
+4.202	skull	čerep
+4.203	brain	mozg
+4.204	face	lico
+4.205	forehead	lob (čelo)
+4.207	jaw	čeljust
+4.208	cheek	ščeka
+4.209	chin	podborodok
+4.21	eye	glaz
+4.212	eyebrow	brov
+4.213	eyelid	veko
+4.214	eyelash	resnica
+4.215	blink	migat
+4.22	ear	uxo
+4.221	earlobe	močka uxa
+4.222	earwax	ušnaja sera
+4.23	nose	nos
+4.231	nostril	nozdrja
+4.232	mucus (nasal)	sliz
+4.24	mouth	rot
+4.241	beak	kljuv
+4.25	lip	guba
+4.26	tongue	jazyk
+4.27	tooth	zub
+4.271	gums	desna
+4.272	molartooth	korennoj zub
+4.28	neck	šeja
+4.281	nape of neck	atylok
+4.29	throat	gorlo
+4.3	shoulder	plečo
+4.301	shoulderblade	lopatka
+4.302	collarbone	ključica
+4.31	arm	ruka
+4.312	armpit	podmyška
+4.32	elbow	lokot
+4.321	wrist	zapjast ́je
+4.33	hand	ruka
+4.331	palm of hand	ladon
+4.34	finger	palec (perst)
+4.342	thumb	bol ́šoj palec
+4.344	fingernail	nogot
+4.345	claw	kogot
+4.35	leg	noga
+4.351	thigh	bedro
+4.352	calf of leg	ikra
+4.36	knee	koleno
+4.37	foot	noga
+4.371	ankle	lodyžka
+4.372	heel	pjatka
+4.374	footprint	sled
+4.38	toe	palec (na noge)
+4.392	wing	krylo
+4.393	feather	pero
+4.4	chest	grud
+4.41	breast (of woman)	grud
+4.412	nipple, teat	sosok
+4.42	udder	vymja
+4.43	navel	pupok
+4.44	heart	serdce
+4.441	lung	lëgkoe
+4.45	liver	pečenka; pečen
+4.451	kidney	počka
+4.452	spleen	selezënka
+4.46	stomach	brjuxo; život; želudok
+4.461	intestines, guts	kiški
+4.462	waist	talija
+4.463	hip	bedro; pojasn ́ica
+4.464	buttocks	jagodicy
+4.47	womb	matka
+4.49	testicle	mudo; jajco
+4.492	penis	polovoj; xuj
+4.51	breathe, breath	dyšat ́, dyxanie
+4.52	yawn, gape	zevat
+4.521	hiccough	ikat
+4.53	cough	kašljat
+4.54	sneeze	čixat
+4.55	perspire	potet
+4.56	spit	plevat
+4.57	vomit	blevat ́; izrygat
+4.58	bite	kusat ́ (gryzt ́)
+4.59	lick	lizat
+4.591	dribble	puskat ́ sljuni
+4.61	sleep	spat ́; son
+4.612	snore	xrapet
+4.62	dream	son (mečta)
+4.63	wake up	(raz)budit ́; prosnut ́sja
+4.64	break wind	perdet ́; bzdet
+4.65	urinate	močit ́sja; moča
+4.66	defecate	ispražnjat ́sja
+4.67	have sexual intercourse	sovokupit ́sja; ebat ́; eti; et
+4.68	shiver	drožat
+4.69	bathe	kupat ́sja
+4.71	beget (of father)	rodit
+4.72	born (to be)	rodit ́sja; roždënnyj (= né)
+4.73	pregnant	beremennaja
+4.732	conceive	začat
+4.74	live, living, life	žit ́; živoj; živuščij; žizn
+4.75	die, dead	umirat ́ umeret ́; mërtvyj; smert
+4.751	drowned	utonutyj
+4.76	kill	ubit
+4.77	corpse	trup
+4.78	bury (the dead)	(po)xoronit
+4.79	grave, tomb	mogila (grob)
+4.81	strong, mighty, powerful	sil ́nyj; močnyj
+4.82	weak	slabyj
+4.83	well, health	zdorovyj, zdorovje
+4.84	sick, sickness	bol ́noj; bolezn
+4.841	fever	žar; lixoradka
+4.842	goiter	zob
+4.843	cold (catarrh)	gripp
+4.85	wound, sore	rana
+4.852	bruise	sinjak
+4.853	swelling	opuxol
+4.854	itch	zud; česotka
+4.855	blister	voldyr
+4.856	boil (noun)	furunkul ́; naryv
+4.857	pus	gnoj
+4.858	scar	šram; rubec (?)
+4.86	cure, heal	vylečit ́; iscelit ́; lečit
+4.87	physician	vrač; lekar
+4.88	medicine, drug	lekarstvo
+4.89	poison	jad; otrava
+4.91	tired, weary	ustavšij; utomljennyj; ustalyj
+4.912	rest	otdyxat
+4.92	lazy	lenivyj
+4.93	bald	lysyj; plešivyj
+4.94	lame	xromoj
+4.95	deaf	gluxoj
+4.96	mute	nemoj
+4.97	blind	slepoj
+4.98	intoxicated	p ́janyj
+4.99	naked, bare	nagoj; golyj
+5.11	eat	jest ́ (kušat ́)
+5.12	food	pišča; jeda
+5.121	cooked	povarennyj
+5.122	raw	syroj
+5.123	ripe	spelyj, zrelyj
+5.124	green, unripe	nezrelyj; syroj
+5.125	rotten	gniloj
+5.13	drink	pit
+5.14	hunger	golod
+5.141	famine	golod, golodanie
+5.15	thirst	žažda
+5.16	suck	sosat
+5.18	chew	ževat
+5.181	swallow	glotat
+5.19	choke	davit ́sja
+5.21	cook	varit
+5.22	boil (vb)	kipjatit ́; kipet
+5.23	roast, fry	žarit
+5.24	bake	peč
+5.25	oven	peč
+5.26	pot, cooking vessel	goršok
+5.27	kettle	kotel
+5.28	pan	skovoroda
+5.31	dish	tarelka
+5.32	plate	tarelka
+5.33	bowl	bljudo
+5.34	pitcher, jug	kuvšin; kružka
+5.35	cup, drinking vessel	čaška
+5.36	saucer	bljudce
+5.37	spoon	ložka
+5.38	knife	nož
+5.39	fork	vilka
+5.391	tongs	ščipcy
+5.41	meal (a)	jeda
+5.42	breakfast	zavtrak
+5.43	lunch	vtoroj; zavtrak
+5.44	dinner	obed
+5.45	supper	užin
+5.46	peel	lupit
+5.47	sieve, strain	proseivat
+5.48	scrape	skresti
+5.49	stir, mix	mešat
+5.51	bread	xleb
+5.53	dough	testo
+5.54	knead	mesit
+5.55	meal, flour	muka
+5.56	crush, grind	molot
+5.57	mill	mel ́nica
+5.58	mortar	stupa
+5.59	pestle	pestik
+5.61	meat	mjaso
+5.63	sausage	kolbasa
+5.64	soup, broth	sup; uxa
+5.65	vegetables	zelen ́; ovošči
+5.66	bean	bob; fasol
+5.7	potato	kartofel
+5.71	fruit	frukty; plody
+5.712	bunch	kist ́; grozd ́; pačka
+5.75	fig	figa
+5.76	grape	vinograd
+5.77	nut	orex
+5.78	olive	olivka
+5.79	oil	maslo
+5.791	grease, fat	žir
+5.81	salt	sol
+5.82	pepper	perec
+5.821	chili pepper	krasnyj stručkovyj perec
+5.84	honey	mëd (m ́od)
+5.85	sugar	saxar
+5.86	milk (noun)	moloko
+5.87	milk (vb)	dojit
+5.88	cheese	syr (tvorog)
+5.89	butter	maslo
+5.9	beverage, drink	napitok
+5.91	mead	mëd
+5.92	wine	vino
+5.93	beer	pivo
+5.94	fermented drink	kvas
+5.97	egg	jajco
+5.971	egg yolk	želtok
+6.11	put on (clothes)	odet
+6.12	clothing, clothes	odežda; plat ́je
+6.13	tailor	portnoj
+6.21	cloth	tkan ́; sukno; materija
+6.22	wool	šerst
+6.23	linen, flax	len ́; xolst
+6.24	cotton	xlopok
+6.25	silk	šëlk
+6.27	felt	vojlok
+6.28	fur	mex
+6.29	leather	koža
+6.31	spin	sprjast ́; prjast
+6.32	spindle	vereteno
+6.33	weave	tkat ́; plesti
+6.34	loom	stanok
+6.35	sew	šit
+6.36	needle	igla; igolka
+6.37	awl	šilo
+6.38	thread	nit ́, nitka
+6.39	dye	krasit
+6.41	cloak	plašč
+6.411	poncho	[pončo]
+6.42	woman's dress	platje
+6.43	coat	pal ́to
+6.44	shirt	rubaška
+6.45	collar	vorotnik, vorotniček
+6.46	skirt	jubka
+6.461	grass-skirt	--
+6.48	trousers	štany (pantalony; brjuki)
+6.49	stocking, sock	čulok
+6.51	shoe	tuflja
+6.52	boot	sapog
+6.54	shoemaker, cobbler	sapožnik; bašmačnik
+6.55	hat, cap	šljapa; šapka
+6.57	belt, girdle	pojas; kušak
+6.58	glove	perčatka
+6.59	veil	vual
+6.61	pocket	karman
+6.62	button	pugovica
+6.63	pin	bulavka
+6.71	ornament, adornment	ukrašenie
+6.72	jewel	dragocennost
+6.73	ring (for finger)	kol ́co
+6.74	bracelet	braslet
+6.75	necklace	ožerel ́je
+6.76	bead	šarik
+6.77	earring	ser ́ga
+6.78	headband, headdress	povjazka na golove; golovnój ubor
+6.79	tattoo	tatuirovka
+6.81	handkerchief, rag	platok
+6.82	towel	polotence
+6.91	comb	greben ́, grebenka
+6.92	brush	ščëtka
+6.921	braid	kosa
+6.93	razor	britva
+6.94	ointment	maz
+6.95	soap	mylo
+6.96	mirror	zerkalo
+7.11	dwell, live	žit ́; obitat
+7.12	house	dom
+7.13	hut	xižina; lačuga
+7.131	garden-house	besedka
+7.14	tent	palatka; šatër
+7.15	yard, court	dvor
+7.16	men's house	osobyj dom dlja muščin
+7.17	cookhouse	nadvornaja kuxnja
+7.18	meeting house	molitvennyj dom
+7.21	room	komnata
+7.22	door, gate	dver ́; vorota
+7.221	doorpost, jamb	dvernoj kosjak
+7.23	lock (noun)	zamok
+7.231	latch, door-bolt	zapor
+7.24	key	ključ
+7.25	window	okno
+7.26	floor	pol
+7.27	wall	stena
+7.31	fireplace	kamin
+7.32	stove	peč
+7.33	chimney	truba
+7.37	ladder	lestnica
+7.42	bed	krovat ́; postel ́(lože)
+7.421	pillow	poduška
+7.422	blanket	odejalo
+7.43	chair	stul
+7.44	table	stol
+7.45	lamp, torch	lampa; fakel
+7.46	candle	sveča
+7.47	shelf	polka
+7.48	trough	vodopoj
+7.51	roof	kryša
+7.52	thatch	solomennaja kryša
+7.53	ridgepole	konëk
+7.54	rafter	stropilo; balka
+7.55	beam	brus
+7.56	post, pole	stojka; stolb
+7.57	board	doska
+7.58	arch	arka
+7.61	mason	kamenščik
+7.62	brick	kirpič
+7.63	mortar	izvestkovyj rastvor
+7.64	adobe	saman
+8.11	farmer	zemledelec; krest ́ janin; mužik
+8.12	field (for cultivation)	pole
+8.13	garden	ogorod; sad
+8.15	cultivate, till	paxat
+8.16	fence	zabor
+8.17	ditch	rov
+8.21	plow	paxat ́ (orat ́); plug
+8.212	furrow	borozda
+8.22	dig	kopat ́; ryt
+8.23	spade	zastup; lopata
+8.24	shovel	lopata
+8.25	hoe	motyga
+8.26	fork	vily
+8.27	rake	grabli
+8.31	sow	sejat
+8.311	seed	semja
+8.32	mow, reap	kosit ́; žat
+8.33	sickle, scythe	serp; kosa
+8.34	thresh	molotit
+8.35	threshing-floor	gumno; tok
+8.41	crop, harvest	žatva; urožaj
+8.42	grain (barley, oats etc)	zerno
+8.43	wheat	pšenica
+8.44	barley	jačmen
+8.45	rye	rož
+8.46	oats	ovës
+8.47	maize, corn	kukuruza
+8.48	rice	ris
+8.51	grass	trava
+8.52	hay	seno
+8.53	plant (noun)	rastenie; trava
+8.531	plant (vb)	sadit
+8.54	root	koren
+8.55	branch	suk; vetv
+8.56	leaf	list
+8.57	flower	cvetok
+8.6	tree	derevo
+8.61	oak	dub
+8.62	beech	buk
+8.63	birch	berëza
+8.64	pine	sosna
+8.65	fir	jel ́; jolka
+8.66	acorn	žolud
+8.67	vine	vinogradnaja loza
+8.68	tobacco	tabak
+8.69	smoke (tobacco)	kurit
+8.691	pipe	pipka
+8.72	tree stump	pen
+8.73	tree trunk	stvol
+8.74	forked branch	razdvoënnyj suk
+8.75	bark	kora
+8.76	sap	sok
+8.81	palm tree	pal ́ma
+8.82	coconut	kokos
+8.83	citrus fruit	citrus
+8.84	banana tree	banan
+8.85	banyan	indijskaja smokovnica
+8.91	sweet potato	jams; batat
+8.912	yam	jams; batat
+8.92	tapioca, manioc, cassava	tapioka
+8.93	gourd	tykva
+8.931	pumpkin, squash	tykva
+8.94	bamboo	bambuk
+8.941	sugar cane	saxarnyj trostnik
+8.96	fish poison (root)	otrava dlja ryb
+8.97	nettle	krapiva
+8.98	mushroom	grib
+9.11	do, make	delat ́; tvorit
+9.12	work	rabotat
+9.14	bend	gnut ́; sgibat
+9.15	fold	skladyvat
+9.16	tie, bind	svjazat
+9.161	untie	razvjazat
+9.18	chain	cep
+9.19	rope, cord	verëvka; kanat; šnur
+9.192	knot (noun)	uzel
+9.21	strike (hit, beat)	bit ́; udarit ́; kolotit ́; razit ́
+9.211	pound with fist	kolotit ́ kulakom
+9.22	cut	rezat ́; rubit
+9.221	cut down	rubit
+9.222	chop, hew	rubit ́; razrubat
+9.223	stab	vonzit ́; zakolot
+9.23	knife	nož
+9.24	scissors, shears	nožnicy
+9.25	ax	topor
+9.251	adze	teslo; strug
+9.26	break	lomat
+9.261	broken	razbityj
+9.27	split	raskolot
+9.28	tear	rvat ́; drat
+9.29	flay, skin	sdirat
+9.31	rub, wipe	teret
+9.32	stretch	rastjanut
+9.33	pull	tjanut
+9.34	spread out	stlat ́, rasstilat
+9.341	hang up	povesit
+9.342	press	žat ́ (žmut); davit
+9.343	squeeze, wring	sžimat
+9.35	pour	lit
+9.36	wash	myt ́; stirat
+9.37	sweep	mesti
+9.38	broom	metla
+9.422	tool	orudie
+9.43	carpenter	plotnik
+9.44	build	stroit ́; sozidat
+9.46	bore	buravit ́; sverlit
+9.461	hollow out	vydolbit
+9.48	saw	pila
+9.49	hammer	(molot) molotok
+9.5	nail	gvozd
+9.56	glue	klej
+9.6	smith, blacksmith	kuznec
+9.61	forge	kovat
+9.62	anvil	nakoval ́nja
+9.63	cast (metals)	lit ́; otlivat
+9.64	gold	zoloto
+9.65	silver	serebro
+9.66	copper, bronze	med ́; bronza
+9.67	iron	železo
+9.68	lead (noun)	svinec
+9.69	tin, tinplate	olovo; žest
+9.71	potter	goršečnik; gončar
+9.72	mold (clay etc)	lepit ́; (delat ́)
+9.73	clay	glina
+9.74	glass	steklo
+9.75	weave, plait	plesti, vpletat ́, zapletat
+9.76	basket	korzina; kuzov
+9.77	mat	mat; cynovka; kovrik
+9.771	rug	kovër
+9.78	netbag	avos ́ka
+9.79	fan (noun)	veer
+9.791	fan (vb)	vejat
+9.81	carve	vyrezat ́; gravir ovat
+9.82	sculptor	vajatel ́; skul ́ptor
+9.83	statue	statuja; izvajanie
+9.84	chisel	doloto; rezec
+9.88	paint (noun)	kraska
+9.89	paint (vb)	krasit
+10.11	move	dvinut
+10.12	turn over	perevernut ́
+10.13	turn around	vertet ́; krutit ́ (sja)
+10.14	wind, wrap	vit ́; zavernut
+10.15	roll	katit ́, katat
+10.16	drop (vb)	ronjat
+10.17	twist	krutit ́; sučit
+10.21	rise	vstat ́; podnjat ́ sja
+10.22	raise, lift	podnjat
+10.23	fall	past ́; padat ́; upast
+10.24	drip	kapat
+10.25	throw	brosit ́; kinut
+10.252	catch (ball)	xvatat ́, xvatit ́; nojmat
+10.26	shake	trjasti
+10.32	flow	teč
+10.33	sink	(po)topit ́, (po)tonut
+10.34	float	plávat
+10.35	swim	plyt ́; plavat
+10.351	dive	nyrjat
+10.352	splash	pleskat
+10.36	sail (vb)	plyt ́; plavat
+10.37	fly (vb)	letet ́, letat
+10.38	blow	dut ́; vejat
+10.41	creep, crawl	polzti, polzat
+10.412	kneel	stojat ́ na kolenjax
+10.413	crouch	presmykat ́ sja
+10.42	slide, slip	skol ́zit
+10.43	jump, leap	prygat ́, prygnut
+10.431	kick	udarit ́ nogoj
+10.44	dance	tancovat ́; pljasat
+10.45	walk	idti; xodit
+10.451	limp	xpamat
+10.46	run	bežat ́, begat
+10.47	go	idti; xodit
+10.471	go up	idti; xodit ́ na goru; podnjat ́ sja
+10.472	climb	lezt ́; lazit
+10.473	go down	sojti/sxodit
+10.474	go out	vyjti/ vyxodit
+10.48	come	pridti, prixodit
+10.481	come back	vernut ́sja
+10.49	go away, depart	ujti; uxodit
+10.491	disappear	isčeznut
+10.51	flee	bežat
+10.52	follow	sledit ́; (pre)sledovat
+10.53	pursue	presledovat ́; gnat
+10.55	reach, arrive	pridti; pribyt
+10.56	approach	približat ́sja; podojti, podxodit ́
+10.57	enter	voit ́i vstupit
+10.61	carry (bear)	nesti; nosit
+10.612	carry-in-hand	nesti v ruke
+10.613	carry-on-shoulder	nesti na pleče
+10.614	carry-on-head	nesti na golove
+10.615	carry-underarm	nesti pod rukoj
+10.62	bring	prinesti
+10.63	send	poslat
+10.64	lead (vb)	vesti; vodit
+10.65	drive	gnat ́; gonit
+10.66	ride	jexat ́; jezdit
+10.67	push, shove	tolkat ́; pixat
+10.71	road	doroga; put
+10.72	path	tropinka, tropa; dorožka
+10.74	bridge	most
+10.75	carriage, wagon, cart	povozka; telega
+10.76	wheel	koleso
+10.77	axle	os
+10.78	yoke	jarmo
+10.81	ship	korabl ́; sudno
+10.83	boat	lodka
+10.831	canoe	čelnok; kanoe
+10.832	outrigger	utlegar
+10.84	raft	plot; parom
+10.85	oar	veslo
+10.851	paddle (noun)	grebok
+10.852	row (vb)	gresti
+10.86	rudder	rul
+10.87	mast	mačta
+10.88	sail (noun)	parus
+10.89	anchor	jakor
+10.91	harbor, port	port; gavan
+10.92	land (vb)	pričalit
+11.11	have	imet
+11.12	own, possess	vladet ́; obladat ́; imet
+11.13	take	brat ́; vzjat
+11.14	seize, grasp	xvatat ́; sxvatit
+11.15	hold	deržat
+11.16	get, obtain	polučit ́; dostat ́; dobyt
+11.17	keep, retain	deržat
+11.18	thing	vešč
+11.21	give	dat
+11.22	give back	otdat ́; vozvraščat
+11.24	preserve, look after	xranit
+11.25	save, rescue	spasti; izbavit
+11.27	destroy	uničtožit ́; razrušit ́; istrebit
+11.28	harm, injure, damage	vredit
+11.31	seek, look for	iskat
+11.32	find	najti; naxodit
+11.33	lose	terjat ́; utratit
+11.34	release, let go	pustit
+11.43	money	den ́gi
+11.44	coin	moneta
+11.51	rich	bogatyj
+11.52	poor	bednyj; ubogij
+11.53	beggar	niščij
+11.54	avaricious, stingy	skupoj
+11.61	lend	ssudit ́; odolžit
+11.62	borrow	zanjat ́; zaimstvovat
+11.63	owe	byt ́ dolžnym
+11.64	debt	dolg
+11.65	pay (vb)	(za) platit
+11.66	account, reckoning	sčët
+11.69	tax, tribute	nalog; podat ́; dan
+11.77	hire	nanjat ́
+11.78	wages	plata; žalovanj ́e; zarplata
+11.79	earn	zarabotat
+11.81	buy	kupit
+11.82	sell	prodat
+11.83	trade, barter	torgovat
+11.84	merchant	kupec; torgovec
+11.85	market (place)	bazar; rynok (torg)
+11.86	store, shop	magazin; lavka
+11.87	price	cena
+11.88	dear (costly, expensive)	dorogoj
+11.89	cheap	dešëvyj
+11.91	share (distribute)	razdavat
+11.92	weigh	vzvesit
+12.1	after	posle
+12.11	behind	za
+12.2	beside	rjadom
+12.3	down, below	vniz, vnizu; pod
+12.4	before	do; pered; ran ́še
+12.41	front	vperedi
+12.5	inside, in	vnutri; v
+12.6	outside	vne; na dvore
+12.7	under	pod
+12.8	up, above	naverx, naverxu; nad; vyše
+12.11	place	mesto
+12.12	put	klast ́; položit ́; postavit
+12.13	sit	sidet ́; sest ́; sadit ́sja
+12.14	lie down	leč ́; ložit ́sja
+12.15	stand	stojat
+12.16	remain, stay	ostat ́sja
+12.17	remains, left overs	ostatki
+12.21	collect, gather	sobirat
+12.212	pick up	podnjat ́; podobrat
+12.213	pile up	nakopit ́i
+12.22	join, unite	soedinit ́; sovokupit
+12.23	separate	otdelit ́; razlučit
+12.232	divide	delit ́; razdelit
+12.24	open	otkryt ́; otvorit
+12.25	shut, close	zakryt ́; zatvorit
+12.26	cover	(po)kryt
+12.27	hide, conceal	skryt ́; prjatat
+12.31	high	vysokij
+12.32	low	nizkij
+12.33	top	verx; verxuška
+12.34	bottom	dno
+12.35	end	konec
+12.352	pointed	ostrokonečnyj
+12.353	edge	ostrië; kraj
+12.36	side	storona; bok
+12.37	middle, center	seredina
+12.41	right (side)	pravyj (desnoj)
+12.42	left (side)	levyj
+12.43	near (adv)	blizko
+12.44	far (adv)	daleko
+12.45	east	vostok
+12.46	west	zapad
+12.47	north	sever
+12.48	south	jug
+12.53	grow	rasti
+12.54	measure	merit
+12.541	span, fathom	pjad ́; sažen
+12.55	large, big	bol ́šoj
+12.56	small, little	malen ́kij
+12.57	long	dolgij; dlinnyj
+12.58	tall	vysokij
+12.59	short	korotkij
+12.61	wide, broad	širokij
+12.62	narrow	uzkij; tesnyj
+12.63	thick (in dimension)	tolstyj
+12.65	thin (in dimension)	tonkij
+12.67	deep	glubokij
+12.68	shallow	melkij
+12.71	flat	ploskij
+12.73	straight	prjamoj
+12.74	crooked	krivoj
+12.75	hook	krjuk
+12.76	corner	ugol
+12.77	cross	krest
+12.78	square	kvadrat
+12.81	round	kruglyj
+12.82	circle	krug
+12.83	sphere, ball	šar
+12.84	line	linija
+12.85	hole	dyra; otverstie
+12.92	like, similar	poxožij; podobnyj
+12.93	change	menjat
+13.0	zero, nothing	nol ́; nul
+13.1	one	odin, odna, odno
+13.2	two	dva, dve, dva
+13.3	three	tri
+13.4	four	četyre
+13.5	five	pjat
+13.6	six	šest
+13.7	seven	sem
+13.8	eight	vosem
+13.9	nine	devjat
+13.10	ten	desjat
+13.101	eleven	odinnadcat
+13.102	twelve	dvenadcat
+13.103	fifteen	pjatnadcat
+13.104	twenty	dvadcat
+13.105	hundred	sto
+13.106	thousand	tysjača
+13.107	count	sčitat
+13.14	every, all	každyj; vsjakij; vse
+13.15	much, many	mnogo
+13.16	more	bol ́še
+13.17	little (quantity), few	malo
+13.18	enough	dovol ́no
+13.181	some	neskol ́ko
+13.19	multitude, crowd	množestvo; tolpa
+13.21	full	polnyj
+13.22	empty	pustoj
+13.23	part, piece	čast ́
+13.24	half	pol-(polu-); polovina
+13.33	alone, only	odin; jedinstvennyj; tol ́ko
+13.34	first	pervyj
+13.35	last	poslednij
+13.36	second	vtoroj
+13.37	pair	para
+13.38	two times	dva raza; dvaždy
+13.42	third	tretij
+13.44	three times	triždy; tri raza
+14.11	time	vremja
+14.12	age	vozrast
+14.13	new	novyj
+14.14	young	molodoj; junyj
+14.15	old	staryj; vetxij
+14.16	early	rano
+14.17	late	pozdno
+14.18	now	teper
+14.19	immediately	srazu; totčas
+14.21	swift, fast, quick	bystryj; skoryj; šibkij
+14.22	slow	medlennyj
+14.23	hasten, hurry	toropit ́sja; spešit
+14.24	retard, delay	medlit ́; meškat
+14.25	begin, beginning	načat ́; načalo
+14.252	last, endure	dlit ́sja
+14.26	end (temporal)	konec
+14.27	finish	(o-)končit ́; doveršit ́
+14.28	cease, stop	perestat
+14.29	ready	gotovyj
+14.31	always	vsegda
+14.32	often	často
+14.33	sometimes	inogda
+14.331	soon	skoro
+14.332	long-time (for a)	dolgo
+14.34	never	nikogda
+14.35	again	opjat ́; eščë raz
+14.41	day	den
+14.42	night	noč
+14.43	dawn	rassvet
+14.44	morning	utro
+14.45	noon, midday	polden
+14.451	afternoon	den
+14.46	evening	večer
+14.47	today	segodnja
+14.48	tomorrow	zavtra
+14.481	day-after-tomorrow	poslezavtra
+14.49	yesterday	včera
+14.491	day-before-yesterday	tretjego dnja; dva dnja nazad
+14.51	hour	čas
+14.53	clock, timepiece	časy
+14.61	week	nedelja
+14.62	Sunday	voskresen ́je
+14.63	Monday	ponedel ́nik
+14.64	Tuesday	vtornik
+14.65	Wednesday	sreda
+14.66	Thursday	četverg
+14.67	Friday	pjatnica
+14.68	Saturday	subbota
+14.71	month	mesjac
+14.73	year	god
+14.74	winter	zima
+14.75	spring	vesna
+14.76	summer	leto
+14.77	autumn	osen
+14.78	season	vremja goda
+15.21	smell (vb intrans)	paxnut
+15.212	sniff	njuxat
+15.22	smell (vb trans)	cǔvstvorat ́ zapax
+15.25	fragrant, good smelling	dušistyj; blagovonnyj
+15.26	stinking, bad smelling	vonjučij; smradnyj
+15.31	taste	probovat ́ (na v kus)
+15.35	sweet	sladkij
+15.36	salty	solënyj
+15.37	bitter	gor ́kij
+15.38	acid, sour	kislyj
+15.39	brackish	solonovatyj
+15.41	hear	slyšat
+15.42	listen	slušat
+15.44	sound, noise	zvuk
+15.45	loud	gromkij
+15.46	quiet, silence	tixij; molčanie
+15.51	see	videt
+15.52	look, look at	smotret ́; gljadet
+15.55	show	pokazat ́; ukazat
+15.56	shine	svetit ́ sja; blistat ́; sjat ́; svetet
+15.57	bright	svetlyj; jarkij
+15.61	color	cvet
+15.62	light (in color)	svetlyj
+15.63	dark (in color)	tëmnyj
+15.64	white	belyj
+15.65	black	čërnyj
+15.66	red	krasnyj
+15.67	blue	sinij; goluboj
+15.68	green	zelënyj
+15.69	yellow	žëltyj
+15.71	touch	trogat
+15.712	pinch	uščipnut
+15.72	feel	ščupat ́; čuvstvovat
+15.74	hard	tvërdyj (žëstkij)
+15.75	soft	mjagkij
+15.76	rough	grubyj
+15.77	smooth	gladkij
+15.78	sharp	ostryj
+15.79	blunt, dull	tupoj
+15.81	heavy	tjažëlyj
+15.82	light (in weight)	lëgkij
+15.83	wet, damp	mokryj; syroj; vlažnyj
+15.84	dry	suxoj
+15.85	hot	žarkij; gorjačij
+15.851	warm	tëplyj
+15.86	cold	xolodnyj
+15.87	clean	čistyj
+15.88	dirty, soiled	grjaznyj
+15.89	wrinkled	morščinistyj
+16.11	soul, spirit	duša; dux
+16.15	surprised, astonished	udivlënnyj
+16.18	good fortune, luck	sčastie
+16.19	misfortune, bad luck	nesčastie
+16.23	joyful, glad, happy	radostnyj; rad; vesëlyj
+16.25	laugh	smejat ́sja
+16.251	smile	ulybat ́sja
+16.26	play	igrat
+16.27	love	ljubov ́; ljubit
+16.29	kiss	celovat
+16.3	embrace	obnjat ́; obnimat
+16.31	pain	bol ́; stradanie
+16.32	grief, sorrow, sadness	gore; pečal ́; skorb
+16.33	anxiety, worry	trevoga; bespokojstro; zabota
+16.34	regret, be sorry	žalet ́; kajat ́sja
+16.35	pity	žalost ́; sožalenie
+16.37	cry, weep	plakat
+16.38	tear (noun)	sleza
+16.39	groan	stonat
+16.41	hate	nenavist
+16.42	anger	gnev
+16.44	envy, jealousy	zavist ́; revnost
+16.45	shame (noun)	styd, stydlivost
+16.48	proud	gordyj; nadmennyj
+16.51	dare	smet ́; derzat
+16.52	brave	xrabryj
+16.53	fear, fright	strax; bojazn
+16.54	danger	opasnost
+16.62	desire, want	želat ́; xotet
+16.622	choose	vybrat ́; vybirat
+16.63	hope	nadežda
+16.65	faithful	vernyj
+16.66	true	istinnyj; pravil ́nyj; vernyj
+16.67	lie, tell lies	lož ́; lgat
+16.68	deceit	obman
+16.69	forgive	prostit
+16.71	good	xorošij
+16.72	bad	ploxoj; durnoj
+16.73	right, correct	pravyj, pravil ́nyj
+16.74	wrong	nepravil ́nyj; ošibočnyj
+16.76	fault	vina
+16.77	mistake, error	ošibka; zabluždenie
+16.78	blame	poricanie; uprëk
+16.79	praise	xvala
+16.81	beautiful	krasivyj; prekrasnyj
+16.82	ugly	nekrasivyj; durnoj
+16.83	greedy	žadnyj
+16.84	clever	xitryj; umnyj
+17.11	mind	um
+17.13	think (= reflect)	dumat ́; myslit
+17.14	think (= be of the opinion)	dumat ́ (mnit ́)
+17.15	believe	verit
+17.16	understand	ponjat ́; ponimat
+17.17	know	znat
+17.171	guess	gadat
+17.172	imitate	podražat
+17.18	seem	kazat ́sja
+17.19	idea, notion	ideja
+17.21	wise	mudryj; umnyj
+17.22	foolish, stupid	durackij; glupyj
+17.23	insane, crazy	bezumnyj; sumasšedšij
+17.24	learn	učit ́sja
+17.242	study	učit
+17.25	teach	učit
+17.26	pupil	učenik
+17.27	teacher	učitel
+17.28	school	škola; učilišče
+17.31	remember	pomnit
+17.32	forget	zabyt
+17.34	clear, plain	jasnyj, javnyj
+17.35	obscure	nejasnyj; smutnyj
+17.36	secret	tajnyj
+17.37	sure, certain	vernyj
+17.38	explain	ob-jasnit ́, po-jasnit
+17.41	intention, purpose	namerenie
+17.42	cause	pričina
+17.43	doubt	somnenie; somnevat ́sja
+17.44	suspect	podozrenie, podozrevat
+17.441	betray	predat
+17.45	need, necessity	nužda
+17.46	easy	lëgkij
+17.47	difficult	trudnyj
+17.48	try, attempt	pytat ́sja; probovat
+17.49	way, manner	obraz
+17.51	and	i
+17.52	because	potomu; čto
+17.53	if	jesli
+17.54	or	ili
+17.55	yes, affirmative	da
+17.56	no, negative	net
+17.61	how?	kak
+17.62	how many?	skol ́ko
+17.63	how much?	skol ́ko
+17.64	what?	čto
+17.65	when?	kogda
+17.66	where?	gde
+17.67	which?	kakoj
+17.68	who?	kto
+17.69	why?	počemu
+18.11	voice	golos
+18.12	sing	pet
+18.13	shout, cry out	kričat
+18.15	whisper	šeptat
+18.16	mumble	bormotat
+18.17	whistle	svistat
+18.18	shriek, screech	vizžat
+18.19	howl	vyt
+18.21	speak, talk	govorit
+18.211	stutter, stammer	zaikat ́sja; zapinat ́sja
+18.22	say	skazat
+18.221	tell story	rasskazat
+18.222	speech (make a)	proiznosit ́ reč
+18.23	silent (be)	molčat
+18.24	language	jazyk
+18.26	word	slovo
+18.28	name	imja
+18.31	ask (question, inquire)	sprosit
+18.32	answer	otvetit
+18.33	admit, confess	priznat ́sja
+18.34	deny	otricat ́; otkazat ́sja
+18.35	ask, request	prosit
+18.36	promise	obeščat ́; sulit
+18.37	refuse	otkazat
+18.38	forbid	zapretit
+18.39	rebuke, scold	upreknut
+18.41	call (=summon)	vyzvat ́ (zvat ́)
+18.42	call (=name)	nazvat ́; nazyvat ́sja
+18.43	announce	ob ́javit ́; vozvestit
+18.44	threaten	grozit
+18.45	boast	xvastat ́(sja)
+18.51	write	pisat
+18.52	read	čitat
+18.56	paper	bumaga
+18.57	pen	pero (avtoručka...)
+18.61	book	kniga
+18.67	poet	poet; (stixotvorec)
+18.71	flute	flejta
+18.72	drum	baraban
+18.73	horn, trumpet	truba
+18.74	rattle	treščotka
+19.11	country	strana
+19.12	one's native country	rodina; otečestvo
+19.15	city, town	gorod, gorodok
+19.16	village	selo; derevnja
+19.17	boundary	granica (rubež)
+19.21	people (populace)	narod
+19.23	tribe, clan	plemja; rod
+19.24	chief, chieftain	vožd
+19.25	staff, walking stick	palka
+19.31	rule, govern	pravit
+19.32	king, ruler	korol
+19.33	queen	koroleva
+19.36	noble, nobleman	dvorjanin
+19.37	citizen, subject	graždanin
+19.41	master	xozjain (gospodin)
+19.42	slave	rab; nevol ́nik
+19.43	servant	sluga
+19.44	freeman	svobodnyj; vol ́nyj
+19.45	command, order	prikazat
+19.46	obey	slušat ́sja
+19.47	let, permit	pozvolit ́; razrešit
+19.51	friend, companion	drug; prijatel
+19.52	enemy	vrag (neprijatel ́; nedrug)
+19.54	neighbor	sosed
+19.55	stranger	čužoj
+19.56	guest	gost
+19.57	host	xozjain
+19.58	help, aid	pomošč ́, pomoč
+19.59	hinder, prevent	mešat ́; prepjatstvovat
+19.61	custom	obyčaj; nravy
+19.62	strife, quarrel	ssora; razdor; spor
+19.63	conspiracy, plot	zagovor
+19.65	meet	vstretit
+19.72	prostitute	prostitutka; bljudnica; kurva
+20.11	fight (vb)	sražat ́sja; bit ́sja; drat ́sja
+20.13	war, battle	vojna; boj
+20.14	peace	mir
+20.15	army	armija (vojsko)
+20.17	soldier	soldat
+20.21	weapons, arms	oružie
+20.22	club	bulava; dubyna
+20.222	battle-ax	sekira
+20.23	sling	prašča
+20.24	bow	luk
+20.25	arrow	strela
+20.26	spear	kop ́jo
+20.27	sword	meč; sablja
+20.28	gun, cannon	ruž ́jo; puška
+20.31	armor (defensive)	bronja
+20.33	helmet	šlem
+20.34	shield	ščit
+20.35	fortress	krepost
+20.36	tower	bašnja
+20.41	victory	pobeda
+20.42	defeat	poraženie
+20.43	attack	ataka; nastuplenie
+20.44	defend	oborona; zaščita
+20.45	retreat	otstuplenie
+20.46	surrender	sdat ́sja
+20.47	captive, prisoner	plennyj (plennik)
+20.471	guard, sentinel	storož
+20.48	booty, spoils	dobyča
+20.49	ambush	zasada
+20.51	fisherman	rybak; rybolov
+20.52	fishhook	(rybolovnyj) krjučok
+20.53	fishing line	udilišče lesa
+20.54	fishnet	set
+20.55	fish trap	lovuška (dlaj ryb)
+20.56	bait	primanka
+20.61	hunt	oxota
+20.62	shoot	streljat
+20.63	miss (target)	promaxnut ́sja
+20.64	trap (noun)	lovuška
+20.65	trap (vb)	lovit ́ (v lovuškax)
+21.11	law	pravo
+21.15	court	sud
+21.16	judge (vb)	sudit
+21.17	judgment	prigovor
+21.18	judge (noun)	sud ́ja
+21.21	plaintiff	istec
+21.22	defendant	otvetčik
+21.23	witness	svidetel
+21.24	swear	prisjagat ́; kljast ́sja
+21.25	oath	kljatva; prisjaga
+21.31	accuse	obvinit
+21.32	condemn	osudit
+21.33	convict (vb)	priznat ́ vinovnym
+21.34	acquit	opravdat
+21.35	guilty	vinovnyj
+21.36	innocent	nevinnyj
+21.37	penalty, punishment	nakazanie; kara
+21.38	fine	štraf
+21.39	prison, jail	tjur ́ma (temnica)
+21.42	murder	ubijstvo
+21.43	adultery	preljubodejanie
+21.44	rape	iznasilovanie
+21.46	arson	podžog
+21.47	perjury	kljatvoprestuplenie; verolomstvo
+21.51	steal	vorovat ́; krast
+21.52	thief	vor
+22.11	religion	religija; vera
+22.12	God	bog
+22.13	temple, church	xram; cerkov
+22.14	altar	altar ́; prestol
+22.15	sacrifice, offering	žertva
+22.16	worship	poklonjat ́sja
+22.17	pray	molit ́sja
+22.18	priest	svjaščennik; pop
+22.19	holy, sacred	svjatoj
+22.22	preach	propovedat
+22.23	bless	blagoslovit
+22.24	curse	prokljast ́; proklinat
+22.26	fast (vb)	postit ́sja
+22.31	heaven	nebo; raj
+22.32	hell	ad
+22.35	demon (evil spirit)	bes
+22.37	idol	idol; kumir
+22.42	magic, witchcraft, sorcery	magija; čary; čarodejstvo; volšebstvo
+22.43	sorcerer, witch	ved ́ma; koldun ́ja; čarodejka
+22.44	fairy, elf	feja; el ́f
+22.45	ghost, phantom	prividenie; prizrak
+22.47	omen, portent	predznamenovanie; znak

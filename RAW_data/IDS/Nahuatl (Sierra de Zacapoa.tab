@@ -1,0 +1,1311 @@
+entry_id	trans_english	Nahuatl_Sierra_de_Zacapoaxtla_Phonemic
+1.1	world	tal-tikpa-k; tal-mani-k
+1.21	earth, land	tal
+1.212	earth=ground, soil	tal-pan
+1.213	dust	tal-neš; taal-neeš-yo
+1.214	mud	soki-t; soki-yo
+1.215	sand	šal
+1.22	mountain, hill	tepe-t
+1.222	cliff, precipice	tepe-hši-t
+1.23	plain, field	tal; tal-pan; ištawa-t
+1.24	valley	a-tekomol; atawit
+1.25	island	
+1.26	mainland	
+1.27	shore	a-ten-tenoh; ašošowil
+1.28	cave	tepe-koyo-k
+1.31	water	a-t
+1.32	sea	weyi a-t
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	poso-k; po-poso-ka
+1.329	ocean	
+1.33	lake	kampa tektok a-t
+1.34	gulf, bay	
+1.341	lagoon	
+1.342	reef	
+1.343	headland, point	
+1.35	wave	
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	weyi-a-t; apic̷ak, a-pic̷ak-ti
+1.362	whirlpool	
+1.37	spring, well	amel; pila; akomol; ameyal
+1.38	swamp	ačawtah; ačawit
+1.39	waterfall	panc̷ikʷi-ni in a-t
+1.41	woods, forest	kʷow-yoh; kʷow-tah
+1.42	tree (cf 08.600)	kʷowi-t; kʷawi-t
+1.43	wood	kʷowi-t; kʷow
+1.44	stone, rock	te-t
+1.45	earthquake	tal-olini; tal-olini-lo-t
+1.51	sky	elwi[y]ak
+1.52	sun	tona-l
+1.53	moon	mec̷-ti
+1.54	star	sitalin
+1.55	lightning	meyo-t
+1.56	thunder	topo-ni; totopoka
+1.57	lightning (as striking)	tapetani-lo-t
+1.58	storm	weyi kiowi-t
+1.59	rainbow	kosamalo-t
+1.61	light (noun)	ta-wi-a; ki-ta-neš-ti-a
+1.62	darkness	ta-yowa-yan; ta-yowa-ya-ni-lo-t
+1.63	shade, shadow	ekawil; i-[y]ekawil; ekawil-ti
+1.64	dew	ahwačti
+1.71	air	eheka-t
+1.72	wind	eheka-t
+1.73	cloud	miš-ti
+1.74	fog	miš-ti; ta-miš-tentok
+1.75	rain (noun)	kiowa-t; kiowi-t
+1.76	snow (noun)	ta-sek wec̷i; sek-ti
+1.77	ice	sek-ti; a-sek
+1.78	weather	
+1.81	fire	ti-t
+1.82	flame (noun)	mimi-li-ni
+1.83	smoke (noun)	pok-ti
+1.84	ashes	kʷow-neš
+1.841	embers	teko-l
+1.851	burn (vb trans)	-tata; ki-tati-(y)a
+1.852	burn (vb intrans)	tata; tone-wi
+1.86	light, kindle, ignite	-šootaa-l-tii
+1.861	extinguish	ki-sewi-a
+1.87	match (noun)	
+1.88	firewood	kʷowi-t; kʷow-tatil
+1.89	charcoal	teko-l
+2.1	person, human being	
+2.21	man (vs. woman)	taga-t; taka-t
+2.22	woman	siwa-t
+2.23	male	taga-t; okič-pil
+2.24	female	siwa-t
+2.25	boy	okič-pil; kone-t
+2.251	young man (adolescent)	itelpoč; okič-pil
+2.26	girl	swa-pil; kone-t
+2.261	young woman (adolescent)	ičpokat
+2.27	child	pili; kone-t; swaa-pil
+2.28	infant, baby	pili
+2.31	husband	i-[y]okič; i-taka-w
+2.32	wife	i-siwa-w; i-swa-c̷in
+2.33	marry	ki-namik-ti-[y]a
+2.34	marriage, wedding	ilwit; namik-ti-lis; ilwit-čiwalis
+2.341	divorce	
+2.35	father	i-tah-c̷in; te-tat
+2.36	mother	i-nan-c̷in
+2.37	parents	
+2.38	married man	taga-t nami-keh
+2.39	married woman	siwa-t nami-keh
+2.41	son	i-telpoč; i-kone-w; i-okič-pil
+2.42	daughter	i-swa-pil; ičpoč; i-kone-w
+2.43	offspring (son or daughter)	i-kone-w
+2.44	brother	ii-kni-w
+2.444	older brother	
+2.445	younger brother	
+2.45	sister	ii-kni-w; no-swaa-iknii-w
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	
+2.458	twins	nenec̷
+2.46	grandfather	tata-h weyi; i-weyi-tata-h
+2.461	old man	wewe-t; wewen-c̷in
+2.47	grandmother	nana-h weyi; i-weyi-nan-c̷in
+2.471	old woman	lama-c̷in
+2.48	grandson	i-šwi-w
+2.49	granddaughter	i-šwi-w-swa-pil
+2.51	uncle	
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	
+2.54	niece	
+2.55	cousin	i-wehka-swa-i-kni-w
+2.56	ancestors	wehka-w-kayo-t
+2.57	descendants	
+2.61	father-in-law (of a man)	mon-tat
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	mo-nan
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	mon-tikeh; i-mon-tikaw
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	i-swa-mon
+2.641	daughter-in-law (of a woman)	i-swa-mon
+2.71	stepfather	i-takpa-tat
+2.72	stepmother	i-takpa-nan
+2.73	stepson	imikakawal
+2.74	stepdaughter	
+2.75	orphan	mike-kawal
+2.76	widow	swa-kawal
+2.77	widower	taka-kawal
+2.81	relatives, kinsmen	i-čan-kaw
+2.82	family	i-čan-kawan
+2.91	I	neh-wa; neh; ni-
+2.92	you (singular)	teh; teh-wa; ti-
+2.93	he/she/it	yeh; yeh-wa; ∅
+2.94	we	teh-wa-n; ti- ~ t-...-h/-keh
+2.941	we (inclusive)	
+2.942	we (exclusive)	
+2.95	you (plural)	nan- ~ ta-...-h, -eh; nameh-wa-n
+2.96	they	yeh-wa-n; ∅-...-h
+3.11	animal	okʷil-in
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	kʷakʷehmeh
+3.16	pasture	taselo-t; ištawa-t; takomol
+3.18	herdsman	tapi-š-keh
+3.19	stable, stall	sin-kal
+3.2	cattle (bovine)	tapial-meh; kʷakʷeh-meh
+3.21	bull	kʷakʷoweh
+3.22	ox	kʷakʷoweh
+3.23	cow	kʷakʷoweh
+3.24	calf	kʷakʷow-kone-t; kʷakʷeh-c̷in
+3.25	sheep	ička-t
+3.26	ram	
+3.28	ewe	
+3.29	lamb	ička-t; ička-c̷in
+3.32	boar	kʷopic̷ot
+3.34	sow	tatokalis
+3.35	pig	pic̷o-t
+3.36	goat	[čiβah]
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	[kabayoh]
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	[burroh]
+3.47	mule	
+3.5	fowl	
+3.52	cock, rooster	kašti-l
+3.54	hen	pio; swa-pio
+3.55	chicken	pio; pio-kone-t
+3.56	goose	
+3.57	duck	
+3.58	nest	tapahsol; tako-čan
+3.581	bird	toto-c̷in
+3.582	seagull	
+3.583	heron	a-ten-patoh; apatoh
+3.584	eagle	kʷišin
+3.585	hawk	kʷišin
+3.586	vulture	c̷ohpilo-t
+3.591	bat	c̷inaka
+3.592	parrot	
+3.593	crow	kakalo-t
+3.594	dove	točtekolo-t
+3.596	owl	tololoh; kʷow-šašaka; čičti
+3.61	dog	ic̷kʷin-ti
+3.614	rabbit	toč-; točin
+3.62	cat	miston
+3.622	opossum	
+3.63	mouse, rat	kimičin
+3.65	fish	miči; miči-n
+3.652	fin (dorsal)	
+3.653	fishscale	i-tapač; ewa-t
+3.654	gill	
+3.655	shell	tapač
+3.661	shark	--
+3.662	porpoise, dolphin	
+3.663	whale	--
+3.664	stingray	
+3.665	freshwater eel	koa-miči-n
+3.71	wolf	
+3.72	lion	--
+3.73	bear	--
+3.74	fox	kʷek-ti
+3.75	deer	masa-t
+3.76	monkey	
+3.77	elephant	--
+3.78	camel	--
+3.81	insect	okʷil-c̷in
+3.811	louse	tekolo-t
+3.812	nit (louse egg)	ahsilit
+3.813	flea	tekpin-ti
+3.814	centipede	
+3.815	scorpion	
+3.816	cockroach	šopepe
+3.817	ant	aska-t
+3.818	spider	toka-t
+3.819	spider web	c̷awal
+3.82	bee	[sera]-okʷil-c̷in
+3.821	beeswax	
+3.822	beehive	[serah] okʷilkahon; i-čan in kolmena; nekc̷i-c̷in
+3.823	wasp	alsin; neškomeh
+3.83	fly	moyo-t
+3.831	sandfly (midge), gnat	čakistle; moyo-c̷in
+3.832	mosquito	šahkal-moyo-t
+3.84	worm	okʷil-c̷in; tal-ihkočin; tal-kʷetaš-kol
+3.85	snake	ko[w]a-t
+3.91	firefly	
+3.92	butterfly	papalo-t; čawa-papalo-t
+3.93	grasshopper	čapoli-n
+3.94	snail	šok-ti
+3.95	frog	kala-t; kʷeya; akʷeya
+3.96	lizard	maliguay; topeh; šilkʷowiši
+3.97	crocodile, alligator	
+3.98	turtle	
+4.11	body	i-naka-yo
+4.12	skin, hide	kʷetaš; i-kʷetaš-[y]io; i-ewa-yo
+4.13	flesh	i-naka-yo-h
+4.14	hair (head)	i-c̷on; c̷oon-ti
+4.142	beard	i-ten-c̷on-yo
+4.144	body hair	i-tohmi-yo
+4.145	pubic hair	
+4.146	dandruff	i-kʷa-ewa-yo
+4.15	blood	es-ti; es-yoh
+4.151	vein, artery	
+4.16	bone	omi-t
+4.162	rib	i-elčikiw
+4.17	horn	
+4.18	tail	i-kʷita-pil
+4.19	back	i-kampa; i-kʷita-pan; i-kan
+4.191	spine	i-kʷita-panomi[y]o
+4.2	head	i-c̷on-tekon; i-kʷa-ko
+4.201	side of head, temple	
+4.202	skull	mike-c̷on-tekoma-t
+4.203	brain	i-kʷa-tiš-yo
+4.204	face	i-iš-ko
+4.205	forehead	iš-kʷa-ko; iš-kʷa-y
+4.207	jaw	
+4.208	cheek	i-kama-nakas-tan; i-kačeteh
+4.209	chin	
+4.21	eye	i-iš-tololo
+4.212	eyebrow	i-iš-tohmi-yo
+4.213	eyelid	iš-pil-kʷetaš-yo
+4.214	eyelash	iš-pil; iš-pilwi-yo
+4.215	blink	ihkopi
+4.22	ear	i-nakas
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	yeka; i-yekac̷ol
+4.231	nostril	i-yekac̷ol-koyo-k
+4.232	mucus (nasal)	i-yeka-kʷi-t
+4.24	mouth	i-ten ~ teem-; i-kamak
+4.241	beak	i-tem-pil
+4.25	lip	i-ten-šipal
+4.26	tongue	i-nene-pil
+4.27	tooth	i-tan
+4.271	gums	i-kamanaka-yo
+4.272	molartooth	i-tan-koč
+4.28	neck	i-keč
+4.281	nape of neck	i-keč-kočta
+4.29	throat	i-toskak
+4.3	shoulder	i-ahkol
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	i-ahkol; i-ma-y; i-maka-yo
+4.312	armpit	i-sekatan
+4.32	elbow	i-molik
+4.321	wrist	i-ma-keč-tah; i-ma-keč-tan
+4.33	hand	i-ma-y; -maa ~ mah
+4.331	palm of hand	i-ma-iško; i-ma-kpal
+4.34	finger	i-ma-h-pil
+4.342	thumb	i-weyi ma-h-pil
+4.344	fingernail	isti
+4.345	claw	
+4.35	leg	i-kes; i-mec̷
+4.351	thigh	i-kes
+4.352	calf of leg	i-koc̷; i-koc̷-ko; i-koc̷i-kan
+4.36	knee	i-tan-kʷa-y
+4.37	foot	i-mec̷
+4.371	ankle	i-mec̷-keč-saliwiyan
+4.372	heel	i-koc̷
+4.374	footprint	taksa-lis; tac̷oniksalis
+4.38	toe	i-mec̷-ikši-pil
+4.392	wing	ahtapal
+4.393	feather	ihwi-t
+4.4	chest	i-el-pan
+4.41	breast (of woman)	i-čiči-wal
+4.412	nipple, teat	
+4.42	udder	
+4.43	navel	i-ši-k
+4.44	heart	yool; i-yolo
+4.441	lung	i-popoc̷o-a
+4.45	liver	
+4.451	kidney	i-e-yo
+4.452	spleen	
+4.46	stomach	i-poš
+4.461	intestines, guts	i-ihti-yo; i-kʷit-kowan
+4.462	waist	i-tahko-yan
+4.463	hip	
+4.464	buttocks	i-c̷in-tan
+4.47	womb	i-poš
+4.49	testicle	
+4.492	penis	
+4.51	breathe, breath	i-iyo-yo; iihyoyo; ihsika
+4.52	yawn, gape	koč-kama-čalo-a
+4.521	hiccough	c̷ikno-a
+4.53	cough	tatasi
+4.54	sneeze	ikšo-a; ikšo-lis
+4.55	perspire	mitoni-a
+4.56	spit	ki-čihča; i-čihči; i-ten-a-yo
+4.57	vomit	ta-kepa; mo-yoliš-kepa; mo-ihsota
+4.58	bite	ki-kehc̷oma
+4.59	lick	ta-pahpalo-(w)a; -pic̷ohtoya
+4.591	dribble	čičipika; čipini
+4.61	sleep	koči; -koh-koči
+4.612	snore	sosolka
+4.62	dream	ta-koči-ta; koči-lis; -koh-koči-ta
+4.63	wake up	k-ihšiti-a; ihsa; ihsa-lis; ihsa-tok
+4.64	break wind	
+4.65	urinate	mo-šišiša
+4.66	defecate	kʷita-t
+4.67	have sexual intercourse	
+4.68	shiver	kʷekʷetaka; wiwiška; wiwiyoka
+4.69	bathe	ki-pahpaka
+4.71	beget (of father)	
+4.72	born (to be)	ta-yoliti-a; ki-taka-tilti-a
+4.73	pregnant	oc̷titok
+4.732	conceive	
+4.74	live, living, life	yol-tok; nemi
+4.75	die, dead	miki; -miki-tii
+4.751	drowned	atohtoloa
+4.76	kill	-miki-tii; ki-mik-ti-[y]a
+4.77	corpse	mike-t
+4.78	bury (the dead)	ki-toka; ki-tal-toka
+4.79	grave, tomb	mike-koyo-k-ti; mike-tekoč
+4.81	strong, mighty, powerful	čikawa-k; čikawalis; čikaw-tok
+4.82	weak	wiwis-ti-k; amo čikawa-k; kʷekʷetaka
+4.83	well, health	pak-tok; pahti-k ya
+4.84	sick, sickness	mo-koko-a; koko-lis; koko-š-kakʷi
+4.841	fever	totoni-k
+4.842	goiter	
+4.843	cold (catarrh)	c̷ompil
+4.85	wound, sore	tatek-ti; koko-t
+4.852	bruise	šokolti-tok
+4.853	swelling	posawa-k; ki-posawa-l-ti-a
+4.854	itch	ahwayowa; ahwayowalis; sawa-t
+4.855	blister	asoloni
+4.856	boil (noun)	
+4.857	pus	temal
+4.858	scar	i-tatek
+4.86	cure, heal	ki-pahti-a
+4.87	physician	te-pahtih-keh
+4.88	medicine, drug	-pah; pahti
+4.89	poison	ta-pahwi-lo-ni
+4.91	tired, weary	siowi-k; siow-tok; kʷač-ti-k; kʷaw-ti-k
+4.912	rest	mo-sewi-a
+4.92	lazy	tac̷iwi; sonsoh
+4.93	bald	kʷa-šikal-ti-k
+4.94	lame	košo
+4.95	deaf	nakas-c̷ac̷a; nakas-tapal; nakas-c̷akʷi
+4.96	mute	amo wel-tahto-a; non-c̷in
+4.97	blind	amo ta-ča
+4.98	intoxicated	win-ti-tok; tawan-keh
+4.99	naked, bare	šikal-ti-k; šitac̷-ti-k
+5.11	eat	ta-kʷa; ta-kʷa-a
+5.12	food	ta-kʷa-l; ta-kʷa-lo-ni
+5.121	cooked	yoksi; ta-kʷa-l-čiwa
+5.122	raw	šošo-wi-k
+5.123	ripe	yoksi
+5.124	green, unripe	šošo-wi-k
+5.125	rotten	palak-ti-k; kihtakʷa; ihtakawi
+5.13	drink	tayi; ati
+5.14	hunger	mayana; apis; apis-ti
+5.141	famine	apis-ti; mayaan-miki
+5.15	thirst	a-miki; amik; amik-ti
+5.16	suck	ki-pipi-na; ki-pipi-c̷o-a
+5.18	chew	kic̷on-kʷahkʷa
+5.181	swallow	ki-tolo-a
+5.19	choke	ki-keč-pac̷-ka; kihiyo-mik-ti-a
+5.21	cook	
+5.22	boil (vb)	mo-molo-ka; molo-ni; čočopoka
+5.23	roast, fry	tewaik; tatewac̷
+5.24	bake	tatoki-a
+5.25	oven	
+5.26	pot, cooking vessel	ahpac̷-ti; kešahpas
+5.27	kettle	
+5.28	pan	akomit; tenašah
+5.31	dish	kašahpas; ahpaac̷-ti
+5.32	plate	kašit; kašahpas
+5.33	bowl	šikal
+5.34	pitcher, jug	a-c̷oc̷okol
+5.35	cup, drinking vessel	tayi-lo-ni
+5.36	saucer	kašahpas-konet
+5.37	spoon	
+5.38	knife	
+5.39	fork	
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	tamahsewa; [almasal]
+5.44	dinner	
+5.45	supper	ta-kʷa ta-yowa-k
+5.46	peel	ki-piš-ka; kišima; kišol-ewa; kakawa-t
+5.47	sieve, strain	ki-c̷ec̷elo-a
+5.48	scrape	kišitoma
+5.49	stir, mix	ki-nelo-a; kolini-a
+5.51	bread	
+5.53	dough	tiš-ti
+5.54	knead	ki-pahpačo-a
+5.55	meal, flour	
+5.56	crush, grind	ki-kʷečo-a; tiskeh
+5.57	mill	
+5.58	mortar	meta-t
+5.59	pestle	meta-ma-it
+5.61	meat	naka-t
+5.63	sausage	
+5.64	soup, broth	kil-a-t; e-mol
+5.65	vegetables	kili-t; kil-toni-l; waw-kilit
+5.66	bean	e-t; e-c̷iin
+5.7	potato	
+5.71	fruit	šoko-t
+5.712	bunch	
+5.75	fig	--
+5.76	grape	--
+5.77	nut	
+5.78	olive	--
+5.79	oil	
+5.791	grease, fat	tomawa-k; čawa-k
+5.81	salt	ista-t
+5.82	pepper	--
+5.821	chili pepper	či-l; čilito; koko-k
+5.84	honey	c̷ope-k-a-t; nekʷ-a-t
+5.85	sugar	
+5.86	milk (noun)	
+5.87	milk (vb)	ki-pac̷ka
+5.88	cheese	
+5.89	butter	
+5.9	beverage, drink	a-tol
+5.91	mead	
+5.92	wine	--
+5.93	beer	ok-ti
+5.94	fermented drink	mo-čikawa-l-tih; kokokat
+5.97	egg	pio-te-t
+5.971	egg yolk	pio-te-šoči-t
+6.11	put on (clothes)	mo-kʷey-ti-a; mo-taken-ti-a
+6.12	clothing, clothes	tasa-l; i-taken
+6.13	tailor	--
+6.21	cloth	tasa-l; tate-k
+6.22	wool	tohmi-t
+6.23	linen, flax	--
+6.24	cotton	
+6.25	silk	--
+6.27	felt	--
+6.28	fur	
+6.29	leather	kʷetaš
+6.31	spin	ta-c̷awa
+6.32	spindle	malaka-t
+6.33	weave	čayal-ti-k
+6.34	loom	kʷowtahkit
+6.35	sew	tahc̷oma
+6.36	needle	tahc̷oma-lo-ni
+6.37	awl	
+6.38	thread	ičti
+6.39	dye	ki-tapal-wi-a; kipa
+6.41	cloak	kapisayoh
+6.411	poncho	
+6.42	woman's dress	i-kʷey; i-taken
+6.43	coat	taken-ti; takem-it
+6.44	shirt	
+6.45	collar	koskat
+6.46	skirt	kʷeyi-t; i-kʷey
+6.461	grass-skirt	--
+6.48	trousers	
+6.49	stocking, sock	
+6.51	shoe	
+6.52	boot	
+6.54	shoemaker, cobbler	--
+6.55	hat, cap	i-kʷa-pikka; ikʷa-pikiloni
+6.57	belt, girdle	i-tahko-ilpi-ka
+6.58	glove	ma-tapeč; i-ma-pikka
+6.59	veil	--
+6.61	pocket	
+6.62	button	
+6.63	pin	
+6.71	ornament, adornment	
+6.72	jewel	--
+6.73	ring (for finger)	i-ma-tepos
+6.74	bracelet	
+6.75	necklace	koska-t
+6.76	bead	
+6.77	earring	i-nakas-tapilo-l
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	
+6.82	towel	
+6.91	comb	ta-c̷ikawas-wi-a
+6.92	brush	ki-šilwi-a; ikʷa-šiluas
+6.921	braid	mo-c̷on-ilpi-a; tamaihki-t
+6.93	razor	
+6.94	ointment	
+6.95	soap	šapoh
+6.96	mirror	teska-t
+7.11	dwell, live	kal-yeto-k; mo-čan-ti-a
+7.12	house	kal-i; i-čan
+7.13	hut	šah-kal
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	kal-iš-pan; kal-ten-oh
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	
+7.22	door, gate	kal-ten-c̷akʷi-lo-ni; kal-ten-ti
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	
+7.26	floor	
+7.27	wall	te-pami-t; te-paan
+7.31	fireplace	ti-komit; tekʷileh; ti-ko-n
+7.32	stove	
+7.33	chimney	
+7.37	ladder	
+7.42	bed	koč-pet; i-pet; tapeč
+7.421	pillow	kʷa-tapeč
+7.422	blanket	aya-taken; aya-t
+7.43	chair	sewi-lo-ni
+7.44	table	[mesah]
+7.45	lamp, torch	ta-wi-l; ta-wil-ti
+7.46	candle	ta-wi-l
+7.47	shelf	
+7.48	trough	kʷow-ta-paka-lo-ni
+7.51	roof	kal-kʷa-ko
+7.52	thatch	
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	kʷow-tok
+7.57	board	wapal
+7.58	arch	
+7.61	mason	te-pan-čiw-keh
+7.62	brick	tawah-wilis
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	
+8.12	field (for cultivation)	mil; milah; sintah; sin-mil
+8.13	garden	
+8.15	cultivate, till	tekiti milah
+8.16	fence	
+8.17	ditch	kʷemi-t; kanyoh; tal-kanyoh; akanyoh
+8.21	plow	[yuntah]tekiti
+8.212	furrow	kʷemi-t
+8.22	dig	kičkʷa; -koyoo-ni; ta-koyoo-ni
+8.23	spade	
+8.24	shovel	
+8.25	hoe	čapi
+8.26	fork	kʷawmašal
+8.27	rake	
+8.31	sow	
+8.311	seed	šinač
+8.32	mow, reap	
+8.33	sickle, scythe	ohoso
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	takilot; ta-piška
+8.42	grain (barley, oats etc)	
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	elo-t; ooloo-t; tago-l
+8.48	rice	
+8.51	grass	šiwi-t; saka-t
+8.52	hay	pač-ti; paštle; saka-t
+8.53	plant (noun)	
+8.531	plant (vb)	ki-tooka; ki-tal-tooka; seli-a
+8.54	root	nalwa-t
+8.55	branch	i-ma-yo
+8.56	leaf	šiwi-t
+8.57	flower	šoči-t
+8.6	tree	kʷowi-t
+8.61	oak	awat
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	awa[beyotah]
+8.67	vine	kʷo-meka-t
+8.68	tobacco	
+8.69	smoke (tobacco)	ta-čiči-na
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	kʷaw-ten-ti
+8.74	forked branch	
+8.75	bark	ewa-t
+8.76	sap	ičokilo
+8.81	palm tree	kʷow-šiwit
+8.82	coconut	
+8.83	citrus fruit	
+8.84	banana tree	
+8.85	banyan	--
+8.91	sweet potato	kamoh; tal-kamoh
+8.912	yam	
+8.92	tapioca, manioc, cassava	kʷowkamoh
+8.93	gourd	šikal; waho; tekoma-t
+8.931	pumpkin, squash	ayoh; ayoh-ti
+8.94	bamboo	aka-t
+8.941	sugar cane	owat c̷ope-k
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	nanaka-t; kosawi-k
+9.11	do, make	ki-čiwa; čih-čiiwa
+9.12	work	teki-t; -tekiti; čiwa-lis
+9.14	bend	tec̷il-ti-k; čiko-ti-k; ta-tec̷ilol
+9.15	fold	ta-kʷelpačo-a
+9.16	tie, bind	k-ilpi-a; ilpi-tok
+9.161	untie	ki-kaša-ni-a; ki-kahkawa; motoma-k
+9.18	chain	
+9.19	rope, cord	meka-t
+9.192	knot (noun)	ilpi-tok
+9.21	strike (hit, beat)	ki-maga; -mah-maga
+9.211	pound with fist	ki-kʷečo-a; ki-nac̷kʷalti-a
+9.22	cut	ki-teki; ki-kotona
+9.221	cut down	kʷitakepa
+9.222	chop, hew	kokotoc̷a; -teh-teki
+9.223	stab	ki-tihtikʷina-lti-a; tihtikʷini
+9.23	knife	
+9.24	scissors, shears	ta-teki-lo-ni
+9.25	ax	
+9.251	adze	
+9.26	break	ki-tapana; -tapani; kotoni
+9.261	broken	c̷ayak-ti-k; mo-hmoš-ti-k; tapak-ti-k
+9.27	split	ki-tapana
+9.28	tear	ki-c̷ayana
+9.29	flay, skin	
+9.31	rub, wipe	ki-šakʷalo-a
+9.32	stretch	ki-sowa
+9.33	pull	ki-tilana
+9.34	spread out	ki-takac̷o-a
+9.341	hang up	ki-pam-pilo-a; ki-pilo-a
+9.342	press	
+9.343	squeeze, wring	ki-pac̷ka; ki-pac̷o-a
+9.35	pour	ki-kepa
+9.36	wash	ki-paka
+9.37	sweep	ta-čpana; kočpana
+9.38	broom	očpawas
+9.422	tool	
+9.43	carpenter	kʷow-ta-čih-čiw-keh
+9.44	build	čihčiw-tok
+9.46	bore	ki-koyo-ni-a; koyoni
+9.461	hollow out	
+9.48	saw	ta-teki-lo-ni
+9.49	hammer	
+9.5	nail	ki-sohso-a
+9.56	glue	ki-pepečo-a
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	tepos-ti
+9.64	gold	
+9.65	silver	
+9.66	copper, bronze	
+9.67	iron	tepos; tepos-ti
+9.68	lead (noun)	
+9.69	tin, tinplate	
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	
+9.74	glass	teska-t
+9.75	weave, plait	kihkiti
+9.76	basket	čikiwi-t; tanah
+9.77	mat	peta-t; tapeč; akapeč-ti
+9.771	rug	--
+9.78	netbag	
+9.79	fan (noun)	ta-pipic̷a-lo-ni
+9.791	fan (vb)	ki-tamota
+9.81	carve	
+9.82	sculptor	--
+9.83	statue	nekec̷a-lis
+9.84	chisel	--
+9.88	paint (noun)	tapal; kʷikʷi-l-ti-k
+9.89	paint (vb)	ki-tapal-wi-a
+10.11	move	ki-olini-a; ki-manelo-a; ki-nelo-a
+10.12	turn over	ki-nelo-a
+10.13	turn around	ki-kepa; mo-kepa; mo-malaka-čo-a
+10.14	wind, wrap	ki-kemilo-a; ki-piki
+10.15	roll	te-tekʷino-l
+10.16	drop (vb)	
+10.17	twist	ki-tec̷ilo-a; mo-malaka-čo-a
+10.21	rise	-seen-tehko; tehko-ka
+10.22	raise, lift	ki-ahakʷi
+10.23	fall	wec̷i; -wec̷o
+10.24	drip	čičipika; čipini; čalani
+10.25	throw	ki-ta-mota
+10.252	catch (ball)	
+10.26	shake	wi-wiška; kʷe-kʷetaka
+10.32	flow	
+10.33	sink	pan-kalaki; mo-pac̷-toka
+10.34	float	nemi a-iš-ko
+10.35	swim	ahkʷi
+10.351	dive	
+10.352	splash	čačakʷaka; čačapaka; čačapani
+10.36	sail (vb)	
+10.37	fly (vb)	pata-ni
+10.38	blow	ki-pi-pic̷a; ki-pic̷a
+10.41	creep, crawl	mo-titilac̷a; mo-išakawilana
+10.412	kneel	mo-tan-kʷa-kec̷a
+10.413	crouch	
+10.42	slide, slip	ta-šolawa; alak-ti-k; alawa-k
+10.43	jump, leap	c̷ikʷi-ni
+10.431	kick	-mec̷-topeewa; ki-tel-iksa
+10.44	dance	mihtoti-a; kʷesaltin; wewes
+10.45	walk	-nemi; neh-nemi; -nen; -nehnen
+10.451	limp	
+10.46	run	mo-talo-(w)a
+10.47	go	neh-nemi; nemi; yowi ~ -ow ~ yow-; -yah
+10.471	go up	tehko; pan-kisa; kahakʷi
+10.472	climb	
+10.473	go down	temo-[w]a
+10.474	go out	kisa; -kiiš; ewtewa
+10.48	come	wic̷a; wala-; wiki
+10.481	come back	mo-kepa; išpeta-ni
+10.49	go away, depart	ki-kawa; ki-kač-tewa ?
+10.491	disappear	
+10.51	flee	čolo-a; čoloh-ti-nemi
+10.52	follow	-toka; ta-toh-toka; ki-sen-toka
+10.53	pursue	-toka
+10.55	reach, arrive	ki-ahsi; ehko
+10.56	approach	
+10.57	enter	kalaki
+10.61	carry (bear)	ta-mama; kʷika
+10.612	carry-in-hand	ki-mah-čana
+10.613	carry-on-shoulder	
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	-wiikaa; kʷal-kʷi; -waal-kʷii
+10.63	send	ki-titani
+10.64	lead (vb)	ki-yekana; -čaana
+10.65	drive	ki-neh-nemi-l-ti-a
+10.66	ride	
+10.67	push, shove	
+10.71	road	oh-ti
+10.72	path	oh-ti; oh-pic̷a-k
+10.74	bridge	
+10.75	carriage, wagon, cart	tal-kišti-lo-ni
+10.76	wheel	yowa-l-ti-k
+10.77	axle	
+10.78	yoke	
+10.81	ship	--
+10.83	boat	
+10.831	canoe	
+10.832	outrigger	--
+10.84	raft	
+10.85	oar	
+10.851	paddle (noun)	
+10.852	row (vb)	
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	
+10.91	harbor, port	
+10.92	land (vb)	
+11.11	have	ki-pi-[y]a
+11.12	own, possess	-w; -wan
+11.13	take	ki-kʷi; tahkʷani-a; kʷi-lia
+11.14	seize, grasp	ki-kʷi; -maa-kʷi-li
+11.15	hold	ki-kic̷ki-a
+11.16	get, obtain	
+11.17	keep, retain	ki-pi[y]a
+11.18	thing	tehsa
+11.21	give	ki-maka; ki-te-maka
+11.22	give back	
+11.24	preserve, look after	
+11.25	save, rescue	
+11.27	destroy	ki-weh-welo-a
+11.28	harm, injure, damage	ki-čiwilia mal; mo-ihtako-a
+11.31	seek, look for	ki-teemo-[w]a
+11.32	find	ki-ahsi; mo-mati
+11.33	lose	ki-polo-[w]a
+11.34	release, let go	
+11.43	money	tomin
+11.44	coin	
+11.51	rich	tomin piš-keh
+11.52	poor	naken amo kipia ten i-aška
+11.53	beggar	naken tahtani maj
+11.54	avaricious, stingy	c̷oc̷oka-t
+11.61	lend	
+11.62	borrow	tanew-ti; -tanewi
+11.63	owe	tawika
+11.64	debt	tawika-lis
+11.65	pay (vb)	taštawa; -ištaa
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	
+11.79	earn	
+11.81	buy	ki-ko[w]a
+11.82	sell	ki-namaka
+11.83	trade, barter	
+11.84	merchant	
+11.85	market (place)	
+11.86	store, shop	
+11.87	price	i-pati-w
+11.88	dear (costly, expensive)	pati-oh
+11.89	cheap	amo pati-oh
+11.91	share (distribute)	ki-šeh-šelo-a
+11.92	weigh	
+12.1	after	
+12.11	behind	ta-i-kampa; i-kampa; i-kan
+12.2	beside	anal; anal-pa; inakastan
+12.3	down, below	tani; ne win-tani
+12.4	before	ačto; ačto-pa
+12.41	front	ta-iš-pan; iš-ten-oh; iš-pan
+12.5	inside, in	ihti-k; ta-ihti-k; aktok; -ko
+12.6	outside	kalan; kalam-pa
+12.7	under	tatam-pa
+12.8	up, above	ahko; ipan; pani
+12.11	place	-kan; -an; seko; -ko
+12.12	put	ki-tali-a
+12.13	sit	ki-tokoc̷-tali-a; mo-tali-a
+12.14	lie down	ki-teka; wec̷-tok
+12.15	stand	ihka-tok; ihka-tok melawak; kec̷a
+12.16	remain, stay	mo-kawa
+12.17	remains, left overs	ten mo-kawa-k
+12.21	collect, gather	ki-ololo-a
+12.212	pick up	
+12.213	pile up	ki-nepano-a; ki-tema; mo-teema
+12.22	join, unite	ki-sen-tili-a; mo-nečiko-a
+12.23	separate	ki-šelo-a; ki-taman-šel-ka
+12.232	divide	ki-šelo-a; ki-tahko-šelo-a
+12.24	open	ta-tapo-[w]a
+12.25	shut, close	ki-c̷akʷa
+12.26	cover	ta-topalwi-a; ki-pačo-a; ki-c̷akʷa
+12.27	hide, conceal	ki-tati-a; ki-ičtakaewa
+12.31	high	wehka-pan; wehka-pan-ti-k
+12.32	low	
+12.33	top	ta-kʷa-pan
+12.34	bottom	
+12.35	end	kampa c̷on-tami
+12.352	pointed	kʷa-yeka-pic̷-ti-k; yeka-pic̷-ti-k
+12.353	edge	ta-ten-oh; tama-čiw-tok
+12.36	side	i-poš-nakas-tan
+12.37	middle, center	ta-tahko-yan
+12.41	right (side)	i-yek-ma-y
+12.42	left (side)	opoč-ti
+12.43	near (adv)	amo wehka; inawak; i-nakas-tan
+12.44	far (adv)	wehka
+12.45	east	tona-l-kisa-yampa
+12.46	west	tona-l-kalaki-ampa
+12.47	north	tani-pa
+12.48	south	ahko-pa
+12.53	grow	mo-skalti-a
+12.54	measure	ki-tama-čiwa
+12.541	span, fathom	
+12.55	large, big	weyi
+12.56	small, little	c̷ik-c̷in; c̷iki-c̷in
+12.57	long	weya-k
+12.58	tall	wehka-pan
+12.59	short	c̷ik-c̷in; nohnel; amo wehkapan; tokoc̷
+12.61	wide, broad	patawa-k; koyawa-k
+12.62	narrow	kopic̷-ti-k; pic̷awa-k
+12.63	thick (in dimension)	tilawa-k; tomawa-k
+12.65	thin (in dimension)	kakal-ti-k; kakalač-ti-k; pic̷awa-k
+12.67	deep	wehka-tan
+12.68	shallow	
+12.71	flat	
+12.73	straight	melawa-k; naal-; yeek
+12.74	crooked	čikol; čihkol-ti-k; ilakac̷-ti-k
+12.75	hook	
+12.76	corner	
+12.77	cross	
+12.78	square	
+12.81	round	yowa-l-ti-k
+12.82	circle	
+12.83	sphere, ball	te-olol-ti-k
+12.84	line	ki-tekpana; kisaloa
+12.85	hole	koyo-k; koyok-ti; tekoč
+12.92	like, similar	išiwki; tamati-s-neki; tamati
+12.93	change	ki-pata
+13.0	zero, nothing	amo teyi
+13.1	one	se; seya
+13.2	two	ome
+13.3	three	eyi
+13.4	four	nawi
+13.5	five	ma-kʷi-l
+13.6	six	čikʷa-sen
+13.7	seven	čik-ome
+13.8	eight	čikʷe-eyi
+13.9	nine	čik-nawi
+13.10	ten	mah-takti
+13.101	eleven	mah-taktion-se
+13.102	twelve	mah-taktiom-ome
+13.103	fifteen	kaštol
+13.104	twenty	sem-po[w]a-l
+13.105	hundred	ma-kʷil po[w]a-l
+13.106	thousand	se mil
+13.107	count	ta-po-[w]a
+13.14	every, all	seh-se; noči; noči-n
+13.15	much, many	kači; miak; nel; simi
+13.16	more	kači; miak; seki; ok seki
+13.17	little (quantity), few	kači tipi-c̷in
+13.18	enough	ongak miak; telahsi
+13.181	some	tehsa; aken, akin; aksaa
+13.19	multitude, crowd	
+13.21	full	pešon-tok
+13.22	empty	kinoki-a; iwki
+13.23	part, piece	tahko
+13.24	half	tahko
+13.33	alone, only	i-sel-ti; iškoyan; sayoh
+13.34	first	ačto
+13.35	last	wehka-wa
+13.36	second	
+13.37	pair	
+13.38	two times	ohpa
+13.42	third	
+13.44	three times	ešpa
+14.11	time	iksa
+14.12	age	šiw-yeh ya; ni-šwi-w; wewehyot
+14.13	new	yan[g]wi-k
+14.14	young	
+14.15	old	sol-ti-k; wewe-t
+14.16	early	kʷalkan
+14.17	late	wehka-wa
+14.18	now	aškan; aškan niman; yekin-c̷in
+14.19	immediately	
+14.21	swift, fast, quick	ihsi-wi-k; ihsiw-kayot; niman
+14.22	slow	yooliik
+14.23	hasten, hurry	mo-ihsiwi-li-a
+14.24	retard, delay	wehka-wa
+14.25	begin, beginning	pewa; c̷ine-wa
+14.252	last, endure	siiko; ta-šiko-a; kihyowi-a
+14.26	end (temporal)	
+14.27	finish	tami-a
+14.28	cease, stop	
+14.29	ready	nenken sah weli
+14.31	always	noči-pa; nači-pa; ačipa
+14.32	often	
+14.33	sometimes	
+14.331	soon	amo wehika
+14.332	long-time (for a)	wehika; wehka-wia
+14.34	never	amo-ikah; nion keman; amo keman
+14.35	again	ok sepa; ok
+14.41	day	tona-l
+14.42	night	yowa-l
+14.43	dawn	ta-nesi; kʷalkan
+14.44	morning	[de] kʷalkan; okyan-c̷in
+14.45	noon, midday	nepan-tah; tahko-tona-l
+14.451	afternoon	tiotak
+14.46	evening	
+14.47	today	aškan; aškan nihin tona-l
+14.48	tomorrow	mosta; imostika
+14.481	day-after-tomorrow	wiwta
+14.49	yesterday	yalwa
+14.491	day-before-yesterday	yo-wiwta
+14.51	hour	[horah]
+14.53	clock, timepiece	
+14.61	week	teč čikʷeyi tona-l
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	mec̷-ti
+14.73	year	šiwi-t; šiw-
+14.74	winter	keman ta-sese-ya
+14.75	spring	pewa ta-totoni-a ya
+14.76	summer	ta-totoni-lo-t
+14.77	autumn	
+14.78	season	welaman
+15.21	smell (vb intrans)	tahnekʷi
+15.212	sniff	
+15.22	smell (vb trans)	ahwiaya; ahwiayalis; ahwiyak
+15.25	fragrant, good smelling	ahwiyak; kʷal-c̷in ahwi[y]ak
+15.26	stinking, bad smelling	c̷ohyak; -c̷ohyaya
+15.31	taste	kieko-a
+15.35	sweet	c̷ope-k
+15.36	salty	ista-yoh; nel-ista-yoh; poye-k
+15.37	bitter	čiči-k; čičipah-ti-k
+15.38	acid, sour	šoko-k; šoko-pal-ti-k
+15.39	brackish	
+15.41	hear	kaki
+15.42	listen	ki-kaki
+15.44	sound, noise	kakalaka; c̷ilini; komoni
+15.45	loud	
+15.46	quiet, silence	mo-tamati-li-a
+15.51	see	k-ita; mo-ta
+15.52	look, look at	k-ita; ki-senita; ki-mowiso-a
+15.55	show	ki-neš-ti-a; -neeš-tii-li
+15.56	shine	pepetaka; milini; petani; kakawaka
+15.57	bright	
+15.61	color	tapa-l
+15.62	light (in color)	
+15.63	dark (in color)	
+15.64	white	ista-k; počik-ti-k
+15.65	black	til-ti-k
+15.66	red	čii-čii-; či-či-l-ti-k
+15.67	blue	šošok-ti-k
+15.68	green	šošok-ti-k
+15.69	yellow	kos-ti-k
+15.71	touch	
+15.712	pinch	kistekʷi
+15.72	feel	ki-mačili-a
+15.74	hard	takʷawa-k
+15.75	soft	yemaš-c̷in
+15.76	rough	šihšipin-ti-k; šašakač-ti-k
+15.77	smooth	alaš-ti-k; yemaš-c̷in
+15.78	sharp	ki-tentia
+15.79	blunt, dull	
+15.81	heavy	eti-k
+15.82	light (in weight)	ehkaw-ti-k
+15.83	wet, damp	pal-ti-k; a-tac̷-ti-k; kʷečawa-k
+15.84	dry	ki-wac̷a; waki; wayi-k
+15.85	hot	totooni-k; totok-ti-k; kawan-tok; kawak-ti-k
+15.851	warm	ki-to-toni-a; ki-kawanti-a
+15.86	cold	sese-k
+15.87	clean	čipawa-k; ki-čipawa; ki-pohpowa
+15.88	dirty, soiled	pic̷o-ti-k; c̷ohkʷil-ti-k; yayak-ti-k
+15.89	wrinkled	c̷oc̷ol-ti-k; kʷehkʷelpač-ti-k
+16.11	soul, spirit	i-yolo; i-tona-l; i-anima
+16.15	surprised, astonished	ki-mow-ti-a
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	yol-paki; yol-kisa; paki
+16.25	laugh	-wec̷ka; we-wec̷ka; wec̷ka-lis
+16.251	smile	iš-wec̷ka
+16.26	play	mawil-ti-a; awil; awil-ti
+16.27	love	ki-tasoh-ta
+16.29	kiss	ki-ten-amiki
+16.3	embrace	
+16.31	pain	te-koko-a; te-kokohkayo-t
+16.32	grief, sorrow, sadness	mo-yol-koko-a
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	te-ikneli-lis
+16.37	cry, weep	čoka; iš-čoka
+16.38	tear (noun)	iš-a-yo
+16.39	groan	sosolka
+16.41	hate	ki-ta-welita
+16.42	anger	kʷalan-ti; mo-kʷa-totoni-a
+16.44	envy, jealousy	čawa-lis; čawa-ti
+16.45	shame (noun)	pinawa
+16.48	proud	weyi-nekilis
+16.51	dare	moiiseewi-a
+16.52	brave	yol-čikawa-k; iš-mata-ti-k; tontoh-ti-k
+16.53	fear, fright	mow-kayot; mo-wi-lis; ki-mow-ti-a
+16.54	danger	owih-kan
+16.62	desire, want	ki-neki; ki-čiwa-s-neki; kelewi-a
+16.622	choose	kihita; kištali-a; ki-pehpena
+16.63	hope	ta-kʷawtamati-lis; ten kiča; -ča
+16.65	faithful	ta-kʷawtamati-lis; ta-nel-toka-lis
+16.66	true	mela-n; mela-wa-k
+16.67	lie, tell lies	takahkayawa; šolopih-ti
+16.68	deceit	
+16.69	forgive	-tapoh-poo-l
+16.71	good	kʷal-i; kʷali yetok
+16.72	bad	amo-kʷali
+16.73	right, correct	kʷali yetok
+16.74	wrong	
+16.76	fault	tahtakol
+16.77	mistake, error	mo-polo-a
+16.78	blame	
+16.79	praise	-kʷaal-kec̷a
+16.81	beautiful	kʷal-c̷in
+16.82	ugly	amo kʷal-c̷in; pic̷o-ti-k
+16.83	greedy	
+16.84	clever	
+17.11	mind	ta-mači-lis; el
+17.13	think (= reflect)	ta-nemi-li-a
+17.14	think (= be of the opinion)	-tanemilia
+17.15	believe	ki-nel-toka
+17.16	understand	ki-mati
+17.17	know	ki-mati
+17.171	guess	
+17.172	imitate	ki-nehnemi-lia-; ki-tenkʷi
+17.18	seem	iwtok; pane; nesi; ta-mati
+17.19	idea, notion	ta-mači-lis
+17.21	wise	ta-mat-keh; ta-mači-leh
+17.22	foolish, stupid	seensool; amo kipia mo-wisiot
+17.23	insane, crazy	kʷa-kep-tok; kʷakepi
+17.24	learn	mo-mač-ti-a
+17.242	study	mo-mač-ti-a
+17.25	teach	ki-mač-ti-a; ki-yek-neštili-a
+17.26	pupil	
+17.27	teacher	ta-mač-tih-keh
+17.28	school	
+17.31	remember	ihsa; k-ihšiti-a; k-el-namiki
+17.32	forget	ki-elka-wa; -el-kaawa
+17.34	clear, plain	yek melan; yek-nes-tok
+17.35	obscure	
+17.36	secret	ičta-ka
+17.37	sure, certain	melan; yek melan
+17.38	explain	ki-yek-ihto-a; ki-yek-ilis
+17.41	intention, purpose	-ti
+17.42	cause	-tii; -wi ~ -w
+17.43	doubt	amo ta-kʷawta-mati
+17.44	suspect	ki-paantii-a
+17.441	betray	
+17.45	need, necessity	mo-neki
+17.46	easy	amo owih
+17.47	difficult	owih; tel-owih
+17.48	try, attempt	-eko; -eh-eko
+17.49	way, manner	
+17.51	and	wan
+17.52	because	porin
+17.53	if	ta; ša
+17.54	or	
+17.55	yes, affirmative	kemah
+17.56	no, negative	amo; taa-
+17.61	how?	kinin; kini-w
+17.62	how many?	kanači; kanačin
+17.63	how much?	kanači
+17.64	what?	toni; koš; še
+17.65	when?	keman
+17.66	where?	kan; kam-pa; kanika; kansika
+17.67	which?	katin; katih-yeh-wa
+17.68	who?	akoni; naken
+17.69	why?	keyeh; [para] toni
+18.11	voice	
+18.12	sing	[kantar]o-a
+18.13	shout, cry out	c̷ahc̷i; yol-c̷ahc̷i
+18.15	whisper	ičtakata-noh-noc̷a
+18.16	mumble	
+18.17	whistle	ki-kisi; ta-pic̷a
+18.18	shriek, screech	
+18.19	howl	
+18.21	speak, talk	tahto-a; sani-lo-a
+18.211	stutter, stammer	ten-ohototi-a
+18.22	say	k-ihto-a; tahtoo; k-ili-a
+18.221	tell story	ki-ta-powi-a; sani-lo-a
+18.222	speech (make a)	
+18.23	silent (be)	ičta
+18.24	language	tahto-l
+18.26	word	tahto-l
+18.28	name	ki-tenewa
+18.31	ask (question, inquire)	tahtani; ki-matahtani-a
+18.32	answer	ki-nakili-a
+18.33	admit, confess	ki-seli-a; mo-yol-pata
+18.34	deny	amo mo-aškati-a
+18.35	ask, request	
+18.36	promise	ki-nawatili-a; ki-yek-kili-a; -yeek-teen-kaawa
+18.37	refuse	
+18.38	forbid	
+18.39	rebuke, scold	kʷalani
+18.41	call (=summon)	ki-noc̷a
+18.42	call (=name)	
+18.43	announce	ki-mati-l-ti-a
+18.44	threaten	
+18.45	boast	
+18.51	write	k-ihkʷilo-a; -tahkʷiloowili
+18.52	read	ta-[ler]oa
+18.56	paper	ama-t
+18.57	pen	
+18.61	book	
+18.67	poet	
+18.71	flute	ta-pic̷a-lo-ni; ta-pic̷-ti
+18.72	drum	
+18.73	horn, trumpet	
+18.74	rattle	ayakač
+19.11	country	
+19.12	one's native country	
+19.15	city, town	weyi-pan
+19.16	village	ičam-pa; [pʷebloh]
+19.17	boundary	
+19.21	people (populace)	taka-yot
+19.23	tribe, clan	
+19.24	chief, chieftain	weyi tahtohkeh
+19.25	staff, walking stick	i-topi-l
+19.31	rule, govern	kin-yekʷika; ta-yekana
+19.32	king, ruler	
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	i-čan-kaw; masewal-c̷in
+19.41	master	i-teko
+19.42	slave	takewal ten amo ki-taštawi-a
+19.43	servant	takewal
+19.44	freeman	
+19.45	command, order	tanawatil; -nahnawati
+19.46	obey	ki-takamati; -tataakamat; tamat
+19.47	let, permit	mah; mah...-kan
+19.51	friend, companion	i-tasoh-ikni-w; i-ma-ikni-w
+19.52	enemy	
+19.54	neighbor	i-čan-kaw; amo wehka čanih
+19.55	stranger	wehka-čan-eh; anal-tekoh; amo k-iš-mati-h
+19.56	guest	
+19.57	host	
+19.58	help, aid	ki-palewi-a
+19.59	hinder, prevent	kic̷akʷili-a
+19.61	custom	i-pano-lis; i-yalis; ki-ne-mač-tia
+19.62	strife, quarrel	
+19.63	conspiracy, plot	
+19.65	meet	-namiki
+19.72	prostitute	takanečiko-a
+20.11	fight (vb)	ta-tewi-a
+20.13	war, battle	ta-tewi-lis
+20.14	peace	yol-kʷali
+20.15	army	
+20.17	soldier	
+20.21	weapons, arms	
+20.22	club	
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	
+20.25	arrow	
+20.26	spear	
+20.27	sword	
+20.28	gun, cannon	tepos-tatopon; tatopon
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	čima-l
+20.35	fortress	
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	k-iš-namiki; ki-tewi-a
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	ki-yek-tali-a; ki-yek-pia; k-iewa
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	
+20.52	fishhook	
+20.53	fishing line	
+20.54	fishnet	mamata; kosolera
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	tamota
+20.62	shoot	tatoponi-a
+20.63	miss (target)	
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	tanawati-l
+21.15	court	
+21.16	judge (vb)	ta-iš-eh-eko-a; ta-neh-nemi-li-a
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	iš-pan-ti
+21.24	swear	ki-yek-k-ihto-a
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	ki-yokoli-a
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	tačteki
+21.52	thief	tačtek-keh
+22.11	religion	
+22.12	God	-teko-c̷in
+22.13	temple, church	tio-pan
+22.14	altar	
+22.15	sacrifice, offering	tamanal; te-tayokoli-l
+22.16	worship	mo-wistili-a
+22.17	pray	mo-tata-tawtili-a; ki-mo-wistili-a
+22.18	priest	tio-piškat
+22.19	holy, sacred	mo-wistika-c̷in
+22.22	preach	te-neštili-a
+22.23	bless	ki-tio-čiwa
+22.24	curse	ki-tel-čiwa
+22.26	fast (vb)	mo-sawa
+22.31	heaven	elwiak
+22.32	hell	mik-tan
+22.35	demon (evil spirit)	amo-kʷali
+22.37	idol	tata-[dios]
+22.42	magic, witchcraft, sorcery	nawa-lot
+22.43	sorcerer, witch	
+22.44	fairy, elf	masaka
+22.45	ghost, phantom	
+22.47	omen, portent	

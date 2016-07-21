@@ -1,0 +1,1311 @@
+entry_id	trans_english	Shipibo-Conibo_Phonemic
+1.1	world	nɨtɨ
+1.21	earth, land	ma-i
+1.212	earth=ground, soil	
+1.213	dust	poto; mai-poto
+1.214	mud	čawa-ti
+1.215	sand	ma-ši
+1.22	mountain, hill	ma-nã; mato; animanã
+1.222	cliff, precipice	kɨ-to
+1.23	plain, field	ṣ̌aβa
+1.24	valley	
+1.25	island	nasi
+1.26	mainland	
+1.27	shore	maši
+1.28	cave	kini; manã-kini
+1.31	water	hɨnɨ; õpaṣ̌; na-; nɨ-
+1.32	sea	
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	βakoṣ̌; βakoṣ̌-ati; makaš
+1.329	ocean	aniparo
+1.33	lake	iã; hɨnɨ
+1.34	gulf, bay	
+1.341	lagoon	iã; hɨnɨ
+1.342	reef	
+1.343	headland, point	
+1.35	wave	βɨčõ
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	paro; wɨã; βai
+1.362	whirlpool	samã
+1.37	spring, well	čãtomari
+1.38	swamp	
+1.39	waterfall	hɨnɨ maanai
+1.41	woods, forest	maniš; βõko; nii
+1.42	tree (cf 08.600)	hiwi
+1.43	wood	hiwi
+1.44	stone, rock	makã; maṣ̌aṣ̌
+1.45	earthquake	niwã
+1.51	sky	nai
+1.52	sun	βari
+1.53	moon	oṣ̌ɨ
+1.54	star	wištĩ
+1.55	lightning	kana
+1.56	thunder	ririiti; tirĩ iti
+1.57	lightning (as striking)	kana
+1.58	storm	niwɨ ɨwa
+1.59	rainbow	čirapa; nawã βai
+1.61	light (noun)	tɨnati; tiriti
+1.62	darkness	yamɨ
+1.63	shade, shadow	ota; βɨi; kaya; wɨa
+1.64	dew	niβi
+1.71	air	niwɨ; manaõ
+1.72	wind	niwɨ; niwɨaβa; niwɨ̃ ɨwa
+1.73	cloud	koĩ; čoma
+1.74	fog	wišnĩ
+1.75	rain (noun)	oi βɨti
+1.76	snow (noun)	oiṣ̌ɨwa
+1.77	ice	[iiro]
+1.78	weather	
+1.81	fire	čii
+1.82	flame (noun)	
+1.83	smoke (noun)	koĩ; čii-koĩ
+1.84	ashes	čii-mapo
+1.841	embers	c̷isto
+1.851	burn (vb trans)	mɨnoti; mɨšoati; tiriti
+1.852	burn (vb intrans)	kɨtɨti; ṣ̌anati; tiriti
+1.86	light, kindle, ignite	
+1.861	extinguish	nokaa-ti; noka-ti
+1.87	match (noun)	[hosporo]
+1.88	firewood	karo
+1.89	charcoal	c̷istɨ
+2.1	person, human being	honi
+2.21	man (vs. woman)	βɨ̃βo
+2.22	woman	aĩβo
+2.23	male	βɨ̃βo; βɨnɨ
+2.24	female	
+2.25	boy	βakɨ-βɨ̃βo; ranõ
+2.251	young man (adolescent)	yosi; βakɨ-ranõ
+2.26	girl	aĩβo-βakɨ; čiβa; čimĩ
+2.261	young woman (adolescent)	ṣ̌õtako
+2.27	child	βakɨ; βakɨ-šoko; čiβa
+2.28	infant, baby	βakɨ-šoko
+2.31	husband	βɨnɨ
+2.32	wife	awĩ
+2.33	marry	wano-ti; βɨno-ti
+2.34	marriage, wedding	wanoti
+2.341	divorce	
+2.35	father	papa
+2.36	mother	tita
+2.37	parents	aniβo; rarɨβo
+2.38	married man	βɨnoya
+2.39	married woman	
+2.41	son	βakɨ
+2.42	daughter	ini
+2.43	offspring (son or daughter)	βakɨ
+2.44	brother	
+2.444	older brother	hoči
+2.445	younger brother	čio
+2.45	sister	
+2.454	older sister	čipi
+2.455	younger sister	
+2.456	sibling	poi
+2.458	twins	
+2.46	grandfather	papa-yosi; yosi-šoko
+2.461	old man	yosi
+2.47	grandmother	tita-yo-ṣ̌ã
+2.471	old woman	yo-ṣ̌ã; ṣ̌ano
+2.48	grandson	βaβa
+2.49	granddaughter	βaβa
+2.51	uncle	koka; epa
+2.511	mother's brother	koka
+2.512	father's brother	
+2.52	aunt	waa-ta; waa; yaya; nači
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	koko
+2.54	niece	ini; noṣ̌a; pia
+2.55	cousin	rãčo; hõčo; poi
+2.56	ancestors	moaβo; yosi; rɨkɨ̃
+2.57	descendants	
+2.61	father-in-law (of a man)	koka; rayos
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	rayos
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	rayos
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	βaβã ɨwa
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	ɨpa; onãpapa
+2.72	stepmother	onã-tita
+2.73	stepson	noṣ̌a
+2.74	stepdaughter	ini
+2.75	orphan	kačiana
+2.76	widow	βɨnomaata aĩβo
+2.77	widower	kačiãti
+2.81	relatives, kinsmen	kaiβo
+2.82	family	
+2.91	I	ɨ-a
+2.92	you (singular)	mi-a
+2.93	he/she/it	ha; nato
+2.94	we	no-; noa
+2.941	we (inclusive)	
+2.942	we (exclusive)	
+2.95	you (plural)	mato
+2.96	they	hato
+3.11	animal	yoina
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	
+3.16	pasture	
+3.18	herdsman	
+3.19	stable, stall	
+3.2	cattle (bovine)	[waka]
+3.21	bull	[waka]-βɨnɨ
+3.22	ox	
+3.23	cow	
+3.24	calf	[waka]-βakɨ
+3.25	sheep	[oβiha]
+3.26	ram	
+3.28	ewe	
+3.29	lamb	[karaniro]-βakɨ
+3.32	boar	
+3.34	sow	
+3.35	pig	[koči]
+3.36	goat	[čiβo]
+3.37	he-goat	[čiβo]
+3.38	kid	
+3.41	horse (equine)	[kabayo]
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	[boro]
+3.47	mule	
+3.5	fowl	isa; hawɨki
+3.52	cock, rooster	atapa; atapa-βɨnɨ
+3.54	hen	atapa; atapaawĩ
+3.55	chicken	atapa
+3.56	goose	[kãso]
+3.57	duck	nonõ
+3.58	nest	naa
+3.581	bird	isa
+3.582	seagull	awai
+3.583	heron	mãṣ̌ã
+3.584	eagle	
+3.585	hawk	tɨtɨ
+3.586	vulture	ṣ̌ɨtɨ
+3.591	bat	kaši
+3.592	parrot	tomi; βawa
+3.593	crow	
+3.594	dove	noβɨṣ̌; ṣ̌oto
+3.596	owl	popo
+3.61	dog	očiti; hɨma-očiti
+3.614	rabbit	[koniho]
+3.62	cat	mišito
+3.622	opossum	
+3.63	mouse, rat	ṣ̌oya; maka-ṣ̌oya
+3.65	fish	yapa; piti
+3.652	fin (dorsal)	hĩpã; kačã; kãčã
+3.653	fishscale	ṣ̌aka; raṣ̌kã
+3.654	gill	
+3.655	shell	ṣ̌aka
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	iwi
+3.665	freshwater eel	koni; konĩ ɨwa
+3.71	wolf	
+3.72	lion	[riõ]
+3.73	bear	
+3.74	fox	maṣ̌o
+3.75	deer	čaṣ̌o
+3.76	monkey	šoni
+3.77	elephant	irihãti
+3.78	camel	[kamičo]
+3.81	insect	
+3.811	louse	ia
+3.812	nit (louse egg)	ia-hɨṣ̌ɨ
+3.813	flea	iki
+3.814	centipede	ṣ̌ako
+3.815	scorpion	niβo
+3.816	cockroach	
+3.817	ant	βona
+3.818	spider	yotã
+3.819	spider web	wasnõ
+3.82	bee	βona; ṣ̌ara
+3.821	beeswax	βoi
+3.822	beehive	βoya-βona
+3.823	wasp	βina
+3.83	fly	hošinaka
+3.831	sandfly (midge), gnat	naka; sɨβɨ
+3.832	mosquito	βii
+3.84	worm	ṣ̌ɨna; noĩ
+3.85	snake	rono
+3.91	firefly	kõkiš; poitɨrɨ
+3.92	butterfly	pɨ̃pɨ̃
+3.93	grasshopper	
+3.94	snail	
+3.95	frog	tokoro; toa
+3.96	lizard	ṣ̌ãβo; kapɨ
+3.97	crocodile, alligator	kapɨ
+3.98	turtle	ṣ̌awɨ
+4.11	body	yora
+4.12	skin, hide	βiči; ṣ̌aka
+4.13	flesh	nami; piti
+4.14	hair (head)	βoo; βo-
+4.142	beard	kɨ-ni; kɨspo; kɨni-kɨni
+4.144	body hair	rani
+4.145	pubic hair	βošti
+4.146	dandruff	matapo
+4.15	blood	himi
+4.151	vein, artery	pono
+4.16	bone	ṣ̌ao
+4.162	rib	pi-ši; pi-
+4.17	horn	mãčã
+4.18	tail	hina
+4.19	back	pɨka; kaṣ̌o; pɨ-
+4.191	spine	kaṣ̌o; kaṣ̌aṣ̌ao; ka-
+4.2	head	maṣ̌po; ma-po; βo-
+4.201	side of head, temple	ĩpɨiti; ĩ-
+4.202	skull	mapo-ṣ̌ao
+4.203	brain	manapo
+4.204	face	βɨ-manã; βɨ-
+4.205	forehead	βɨtõko; βɨ-ma-nã
+4.207	jaw	koi
+4.208	cheek	tamo
+4.209	chin	koi; ko-
+4.21	eye	βɨ-ro
+4.212	eyebrow	βɨrani; βɨro-karani
+4.213	eyelid	
+4.214	eyelash	βɨ-rani; βɨro-kɨṣ̌ni
+4.215	blink	βɨriiti; βɨṣ̌niti
+4.22	ear	pa-βiki; pa-
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	rɨ-kĩ; rɨ-
+4.231	nostril	
+4.232	mucus (nasal)	rɨ-šo
+4.24	mouth	kɨṣ̌a
+4.241	beak	ṣ̌ɨta; rɨ-
+4.25	lip	kɨṣ̌a; kɨβi
+4.26	tongue	hana
+4.27	tooth	ṣ̌ɨta; maka
+4.271	gums	ṣ̌ɨšpi
+4.272	molartooth	maka; maka-čipõ; ṣ̌ɨta
+4.28	neck	tɨ-ṣ̌o; tɨ-
+4.281	nape of neck	tɨṣ̌o
+4.29	throat	tɨ-ṣ̌o
+4.3	shoulder	pɨ-
+4.301	shoulderblade	pɨṣ̌o
+4.302	collarbone	
+4.31	arm	po-yã
+4.312	armpit	βaṣ̌ka; βa-
+4.32	elbow	põtõko
+4.321	wrist	mɨ-tɨki
+4.33	hand	mɨ-kɨ̃
+4.331	palm of hand	mɨ-kɨ-napaṣ̌
+4.34	finger	mɨ-toti; mɨ-βi
+4.342	thumb	mɨ-kɨ-mapo
+4.344	fingernail	mɨ̃-c̷is
+4.345	claw	mɨ̃-c̷is
+4.35	leg	witaṣ̌; kiši; wi-
+4.351	thigh	kiši
+4.352	calf of leg	wipoko
+4.36	knee	rã-βoṣ̌o; rã-tõko; rã-
+4.37	foot	taɨ
+4.371	ankle	taɨ patõko
+4.372	heel	taɨ-čipõ
+4.374	footprint	hama
+4.38	toe	taɨ-mɨβi
+4.392	wing	pɨi
+4.393	feather	pɨi; rani
+4.4	chest	ṣ̌oči
+4.41	breast (of woman)	ṣ̌o-ma; ṣ̌o-
+4.412	nipple, teat	
+4.42	udder	
+4.43	navel	poko-tɨṣ̌ɨ; no-
+4.44	heart	hoĩti
+4.441	lung	βõṣ̌ã
+4.45	liver	taka
+4.451	kidney	karɨko
+4.452	spleen	
+4.46	stomach	poko; poro; no-
+4.461	intestines, guts	poko
+4.462	waist	
+4.463	hip	
+4.464	buttocks	čiṣ̌o; či-
+4.47	womb	čiṣ̌ana; βakɨ-nanɨti
+4.49	testicle	hõ-; hoβoṣ̌ko
+4.492	penis	βoši; hina; hĩ
+4.51	breathe, breath	hoĩ-ti
+4.52	yawn, gape	ṣ̌aβa-ti
+4.521	hiccough	
+4.53	cough	oko-ti
+4.54	sneeze	hatišaniti
+4.55	perspire	niskã-ti
+4.56	spit	mičoti; tošβaati; kɨ-yõ
+4.57	vomit	kinã-ti
+4.58	bite	natɨṣ̌-ti
+4.59	lick	ta-ṣ̌o-ti
+4.591	dribble	kɨyõ βoti
+4.61	sleep	oṣ̌a-ti
+4.612	snore	rãṣ̌iti
+4.62	dream	nama-ti; oṣ̌a
+4.63	wake up	hištɨ̃hati; ratɨti
+4.64	break wind	c̷ipis
+4.65	urinate	hisõ-ti
+4.66	defecate	poi-ti
+4.67	have sexual intercourse	
+4.68	shiver	onic̷ati
+4.69	bathe	našima-ti; naši-ti
+4.71	beget (of father)	βakɨ-ati
+4.72	born (to be)	pikoti
+4.73	pregnant	tooya
+4.732	conceive	
+4.74	live, living, life	nɨtɨ; hiri-a; hati
+4.75	die, dead	mawa-ti; hirioma
+4.751	drowned	
+4.76	kill	rɨtɨ-ti
+4.77	corpse	
+4.78	bury (the dead)	miĩti
+4.79	grave, tomb	
+4.81	strong, mighty, powerful	koši; moka; kɨṣ̌to
+4.82	weak	paṣ̌na; yosma
+4.83	well, health	
+4.84	sick, sickness	isĩti; isĩ
+4.841	fever	yona
+4.842	goiter	roo
+4.843	cold (catarrh)	
+4.85	wound, sore	βiško; c̷ɨwɨ; pɨkɨ
+4.852	bruise	tonã
+4.853	swelling	ɨstɨ
+4.854	itch	ṣ̌oa
+4.855	blister	šomõ; toṣ̌βa
+4.856	boil (noun)	noβɨ
+4.857	pus	koo
+4.858	scar	toa; kɨṣ̌ɨti
+4.86	cure, heal	βɨ̃ṣ̌o-ati; βɨ̃ṣ̌oti
+4.87	physician	[rokotoro]
+4.88	medicine, drug	rao
+4.89	poison	moka
+4.91	tired, weary	piniti
+4.912	rest	tãti-ti
+4.92	lazy	
+4.93	bald	mayɨ̃; mapo-yɨ̃kɨ̃
+4.94	lame	
+4.95	deaf	paβɨ
+4.96	mute	hoi-oma; kɨ̃to
+4.97	blind	βɨ̃-čɨ
+4.98	intoxicated	paɨ̃-ti
+4.99	naked, bare	čopaoma
+5.11	eat	pi-; mɨpiti
+5.12	food	yoa
+5.121	cooked	
+5.122	raw	paṣ̌a
+5.123	ripe	toto
+5.124	green, unripe	paṣ̌a; ṣ̌oo
+5.125	rotten	payo-ti
+5.13	drink	ṣ̌ɨa-ti
+5.14	hunger	pitĩ iti; hawɨkiakasti
+5.141	famine	
+5.15	thirst	nomi; nomi-ti
+5.16	suck	oyo-ti; koko-ti
+5.18	chew	naka-ti
+5.181	swallow	ṣ̌ɨa-
+5.19	choke	
+5.21	cook	paṣ̌aati; yoa ati; waati
+5.22	boil (vb)	koβĩ-ti; koβĩ-hati
+5.23	roast, fry	ṣ̌oi-ti; šɨati; šɨiti
+5.24	bake	
+5.25	oven	
+5.26	pot, cooking vessel	kɨ̃ti; yami-kɨ̃ti; či-
+5.27	kettle	
+5.28	pan	
+5.31	dish	kɨ̃ča; rato
+5.32	plate	kɨ̃ča
+5.33	bowl	kɨ̃ča
+5.34	pitcher, jug	čomo
+5.35	cup, drinking vessel	
+5.36	saucer	
+5.37	spoon	[kočara]
+5.38	knife	čičika
+5.39	fork	čapa
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	
+5.44	dinner	
+5.45	supper	
+5.46	peel	ṣ̌oko-; ṣ̌oka-ti
+5.47	sieve, strain	toa-ti
+5.48	scrape	wɨṣ̌ati
+5.49	stir, mix	
+5.51	bread	
+5.53	dough	
+5.54	knead	kamosti
+5.55	meal, flour	ac̷apoto
+5.56	crush, grind	βitaṣ̌-ti; rɨnɨ-ti
+5.57	mill	
+5.58	mortar	
+5.59	pestle	
+5.61	meat	nami
+5.63	sausage	
+5.64	soup, broth	hɨnɨ
+5.65	vegetables	
+5.66	bean	poroto
+5.7	potato	poa
+5.71	fruit	βimi
+5.712	bunch	tɨṣ̌kã
+5.75	fig	
+5.76	grape	
+5.77	nut	
+5.78	olive	
+5.79	oil	ṣ̌ɨni
+5.791	grease, fat	ṣ̌ɨni
+5.81	salt	taši
+5.82	pepper	
+5.821	chili pepper	yoči
+5.84	honey	βona-hɨnɨ
+5.85	sugar	[asokaro]
+5.86	milk (noun)	ṣ̌oma
+5.87	milk (vb)	poc̷iti
+5.88	cheese	
+5.89	butter	
+5.9	beverage, drink	ṣ̌ɨati
+5.91	mead	
+5.92	wine	
+5.93	beer	βɨṣ̌nã
+5.94	fermented drink	paɨ; moka
+5.97	egg	hɨṣ̌ɨ; βači
+5.971	egg yolk	mãšĩ
+6.11	put on (clothes)	sawɨ-
+6.12	clothing, clothes	tari; sawɨ-ti; kotõ
+6.13	tailor	
+6.21	cloth	čopa
+6.22	wool	[rani]
+6.23	linen, flax	
+6.24	cotton	waṣ̌mɨ̃
+6.25	silk	
+6.27	felt	
+6.28	fur	rani
+6.29	leather	βiči
+6.31	spin	yomã ati
+6.32	spindle	iwi
+6.33	weave	ṣ̌ɨwa-
+6.34	loom	
+6.35	sew	kɨṣ̌ɨ-ti
+6.36	needle	ṣ̌omoṣ̌
+6.37	awl	
+6.38	thread	yomã
+6.39	dye	poko-ti
+6.41	cloak	
+6.411	poncho	
+6.42	woman's dress	saya; sawɨti
+6.43	coat	
+6.44	shirt	kotõ
+6.45	collar	tɨṣ̌o; tɨ-; rɨ-
+6.46	skirt	saya
+6.461	grass-skirt	
+6.48	trousers	čiaraṣ̌ti
+6.49	stocking, sock	
+6.51	shoe	
+6.52	boot	
+6.54	shoemaker, cobbler	
+6.55	hat, cap	maiti
+6.57	belt, girdle	čõpi
+6.58	glove	
+6.59	veil	
+6.61	pocket	
+6.62	button	[βotonis]
+6.63	pin	
+6.71	ornament, adornment	raoa-ti; kori; kapapiti
+6.72	jewel	
+6.73	ring (for finger)	mɨ-oso-ti
+6.74	bracelet	βašaati
+6.75	necklace	
+6.76	bead	moro
+6.77	earring	pa-rono-ti
+6.78	headband, headdress	maiti
+6.79	tattoo	
+6.81	handkerchief, rag	βɨsoikiiti
+6.82	towel	rasoikiiti
+6.91	comb	βoɨṣ̌ɨti
+6.92	brush	norɨti
+6.921	braid	ronokaṣ̌o; manɨṣ̌ti
+6.93	razor	
+6.94	ointment	
+6.95	soap	[haβõ]
+6.96	mirror	[ispiko]
+7.11	dwell, live	hati
+7.12	house	ṣ̌oβo
+7.13	hut	wɨnɨ̃
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	toβã
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	čikɨ; čitɨ; kɨnɨ
+7.22	door, gate	ṣ̌ɨpoti
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	[čaβi]
+7.25	window	
+7.26	floor	
+7.27	wall	čikɨ
+7.31	fireplace	
+7.32	stove	
+7.33	chimney	
+7.37	ladder	tapiti
+7.42	bed	rakati
+7.421	pillow	tɨpiti
+7.422	blanket	saβano
+7.43	chair	yakati
+7.44	table	
+7.45	lamp, torch	čii
+7.46	candle	
+7.47	shelf	tapas; tapo
+7.48	trough	ṣ̌aṣ̌o
+7.51	roof	ṣ̌oβo-pɨka; ṣ̌oβo-ṣ̌ɨwa; ṣ̌ɨwa
+7.52	thatch	
+7.53	ridgepole	ṣ̌oβo-maṣ̌ka; ma-; mapoti
+7.54	rafter	marakãti; mayoš
+7.55	beam	
+7.56	post, pole	hiwi
+7.57	board	
+7.58	arch	
+7.61	mason	
+7.62	brick	
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	waĩ teetai
+8.12	field (for cultivation)	wai
+8.13	garden	wai
+8.15	cultivate, till	tayã-ti; oro-ti
+8.16	fence	čitɨ; kɨnɨ
+8.17	ditch	ṣ̌ãkɨ̃
+8.21	plow	
+8.212	furrow	
+8.22	dig	mikati
+8.23	spade	
+8.24	shovel	
+8.25	hoe	
+8.26	fork	
+8.27	rake	mawɨti
+8.31	sow	βana-ti
+8.311	seed	βɨro
+8.32	mow, reap	c̷ɨkati
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	
+8.42	grain (barley, oats etc)	
+8.43	wheat	[tiriko]
+8.44	barley	[siβara]
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	ṣ̌ɨki
+8.48	rice	[aros]
+8.51	grass	
+8.52	hay	
+8.53	plant (noun)	βana; ṣ̌oṣ̌o
+8.531	plant (vb)	βana
+8.54	root	ta-põ
+8.55	branch	po-yã
+8.56	leaf	pɨi
+8.57	flower	hoa
+8.6	tree	hiwi; hawɨki
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	niši
+8.68	tobacco	romɨ
+8.69	smoke (tobacco)	hotiti; romɨ hotiti
+8.691	pipe	šinitapõ
+8.72	tree stump	rokaroka
+8.73	tree trunk	yora
+8.74	forked branch	
+8.75	bark	βiči; ṣ̌aka
+8.76	sap	βɨpõ
+8.81	palm tree	wanĩ
+8.82	coconut	
+8.83	citrus fruit	[rima; rimõ; narãṣ̌a]
+8.84	banana tree	parãta
+8.85	banyan	--
+8.91	sweet potato	kari
+8.912	yam	
+8.92	tapioca, manioc, cassava	ac̷a
+8.93	gourd	masɨ̃
+8.931	pumpkin, squash	warã
+8.94	bamboo	paka
+8.941	sugar cane	ṣ̌awi
+8.96	fish poison (root)	warawasko
+8.97	nettle	moɨ
+8.98	mushroom	kono
+9.11	do, make	ati
+9.12	work	tɨɨ-ti; tɨɨ; yono-ti
+9.14	bend	kapoti; katoti; takatoti
+9.15	fold	kato-
+9.16	tie, bind	nɨa-ti; nɨṣ̌a-ti
+9.161	untie	čoro-ti
+9.18	chain	[karinã]
+9.19	rope, cord	risβi
+9.192	knot (noun)	tõko
+9.21	strike (hit, beat)	tima-; čošati
+9.211	pound with fist	
+9.22	cut	čapaati; c̷ɨkãti; ṣ̌atɨ-
+9.221	cut down	poṣ̌ati; tarɨti
+9.222	chop, hew	
+9.223	stab	
+9.23	knife	
+9.24	scissors, shears	hamamati; βɨstɨti
+9.25	ax	roɨ; yami
+9.251	adze	tatɨti
+9.26	break	sɨkɨ; tɨsɨ; toɨti; c̷aati
+9.261	broken	tɨsɨ; c̷osa
+9.27	split	kaṣ̌kɨ-ti
+9.28	tear	
+9.29	flay, skin	
+9.31	rub, wipe	ṣ̌ɨyoti
+9.32	stretch	nɨ̃kɨa-ti; nɨ̃kɨ-ti; onɨ̃ti; c̷aniti
+9.33	pull	nini-ti
+9.34	spread out	wasãti; čopɨti
+9.341	hang up	wɨõti; panĩti; rõtãti
+9.342	press	βitaṣ̌ti
+9.343	squeeze, wring	c̷initi
+9.35	pour	čikoti
+9.36	wash	čoki-ti; pac̷a-ti
+9.37	sweep	mac̷o-; mawasti; wasãti
+9.38	broom	mac̷oti
+9.422	tool	
+9.43	carpenter	[karapĩtiro]
+9.44	build	-ati
+9.46	bore	pɨkati; kɨpɨkɨɨti; šokiti
+9.461	hollow out	pɨka-ti; kini-ati; pɨkɨ
+9.48	saw	[siročo; sira]
+9.49	hammer	
+9.5	nail	raβo
+9.56	glue	mɨtaṣ̌nameeti
+9.6	smith, blacksmith	yamĩ tɨɨtai
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	yami
+9.64	gold	kori
+9.65	silver	kori-ki
+9.66	copper, bronze	[βorõsi]
+9.67	iron	
+9.68	lead (noun)	
+9.69	tin, tinplate	yami βoi
+9.71	potter	mapokan teetai
+9.72	mold (clay etc)	
+9.73	clay	čawa
+9.74	glass	
+9.75	weave, plait	ṣ̌ɨwa-
+9.76	basket	tasa; naβiro
+9.77	mat	pišĩ; kawĩ
+9.771	rug	
+9.78	netbag	[borosa]; piša
+9.79	fan (noun)	paya-ti
+9.791	fan (vb)	payã-ti
+9.81	carve	
+9.82	sculptor	
+9.83	statue	
+9.84	chisel	
+9.88	paint (noun)	sika
+9.89	paint (vb)	sika-ti
+10.11	move	šakõti; taṣ̌kɨti
+10.12	turn over	rɨoti
+10.13	turn around	rãβɨti
+10.14	wind, wrap	nɨati; ṣ̌ɨiti; toro-ati
+10.15	roll	tarã-ti
+10.16	drop (vb)	mɨ-tinĩti
+10.17	twist	ramayati; yɨṣ̌kɨti; yošoti
+10.21	rise	kɨyati
+10.22	raise, lift	wakɨti
+10.23	fall	pakɨ-ti
+10.24	drip	šoroti; tosoti; siiiti
+10.25	throw	
+10.252	catch (ball)	βɨčitɨti; βiti
+10.26	shake	pɨrɨ̃ ati; šakõ-ti; yakia-ti
+10.32	flow	
+10.33	sink	hikiti
+10.34	float	toṣ̌βati; βɨčoti
+10.35	swim	sɨna; nono-
+10.351	dive	
+10.352	splash	sɨsɨati
+10.36	sail (vb)	
+10.37	fly (vb)	noya-ti
+10.38	blow	ṣ̌oõ iti
+10.41	creep, crawl	čiṣ̌kiti; mɨṣ̌o-ti
+10.412	kneel	čirãkooti
+10.413	crouch	βɨoti; c̷istiti
+10.42	slide, slip	raĩšati; βiča siβa
+10.43	jump, leap	čorõti
+10.431	kick	hamati
+10.44	dance	rãsati
+10.45	walk	nina-ti; niti
+10.451	limp	čãto-a-ti
+10.46	run	išto-ti
+10.47	go	ka-ti
+10.471	go up	
+10.472	climb	nɨɨti
+10.473	go down	apakɨti; pɨc̷ati
+10.474	go out	piko-ti; hokõ-ti
+10.48	come	ho-ti
+10.481	come back	βanɨti; nokoti
+10.49	go away, depart	ka-tã-wɨ
+10.491	disappear	toṣ̌koti
+10.51	flee	haβa-ti
+10.52	follow	kačiβã-ti; čiβã-ti
+10.53	pursue	kačiβãti
+10.55	reach, arrive	noko-ti; inã-ti
+10.56	approach	pataṣ̌-ti
+10.57	enter	naikiti; hiki-
+10.61	carry (bear)	βoti; papia
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	iati
+10.614	carry-on-head	ma-
+10.615	carry-underarm	
+10.62	bring	βɨ-ti; βiti; iwɨti
+10.63	send	βɨmati; raãti; yoiti
+10.64	lead (vb)	
+10.65	drive	ioti
+10.66	ride	
+10.67	push, shove	ṣ̌otõti
+10.71	road	βai
+10.72	path	hɨma
+10.74	bridge	kawati
+10.75	carriage, wagon, cart	[kariti]
+10.76	wheel	
+10.77	axle	
+10.78	yoke	
+10.81	ship	
+10.83	boat	
+10.831	canoe	nõti
+10.832	outrigger	
+10.84	raft	tapã
+10.85	oar	wĩti
+10.851	paddle (noun)	
+10.852	row (vb)	wina-ti
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	
+10.91	harbor, port	rɨpĩti
+10.92	land (vb)	
+11.11	have	-ya; iti
+11.12	own, possess	
+11.13	take	
+11.14	seize, grasp	c̷oma-ti; yatãti
+11.15	hold	tɨwãti
+11.16	get, obtain	βi-ti; inã-ti
+11.17	keep, retain	βɨ̃ṣ̌oati; niati
+11.18	thing	hawɨki
+11.21	give	inã; mɨ̃niti
+11.22	give back	βanɨti; hanati
+11.24	preserve, look after	koirãti
+11.25	save, rescue	kišpĩti
+11.27	destroy	kɨtokã βiti
+11.28	harm, injure, damage	masaati
+11.31	seek, look for	βɨ-nati
+11.32	find	mɨra-ti
+11.33	lose	βɨnoti
+11.34	release, let go	pakɨti
+11.43	money	kori-ki
+11.44	coin	kori-ki
+11.51	rich	hawɨkia; noɨ
+11.52	poor	hawɨkiaoma; onic̷apišoko
+11.53	beggar	yokamis
+11.54	avaricious, stingy	yoaši
+11.61	lend	
+11.62	borrow	
+11.63	owe	riβĩti
+11.64	debt	riβĩ
+11.65	pay (vb)	kopia-ti
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	
+11.79	earn	kanãti; mawĩti
+11.81	buy	maroti
+11.82	sell	maromati; maroti
+11.83	trade, barter	
+11.84	merchant	
+11.85	market (place)	[mirikato]
+11.86	store, shop	haĩ maroti ṣ̌oβo
+11.87	price	kopi
+11.88	dear (costly, expensive)	kopi
+11.89	cheap	kopima
+11.91	share (distribute)	mɨniti
+11.92	weigh	
+12.1	after	pɨkao
+12.11	behind	na-; či-; pɨkao; ka-
+12.2	beside	
+12.3	down, below	namã-
+12.4	before	rɨkɨ̃; βɨβõ
+12.41	front	βɨβõ
+12.5	inside, in	mɨrã; na-; napo; čičo
+12.6	outside	sɨiti; ra-
+12.7	under	namã-
+12.8	up, above	βočiki; manaõ; ma-; -õ; -ki
+12.11	place	ṣ̌aβa
+12.12	put	ati; sawɨmati
+12.13	sit	yaka-; yaka-mati; yasãti
+12.14	lie down	rakã-ti; raka-ti
+12.15	stand	ninati; niti; čaroti
+12.16	remain, stay	βanɨti
+12.17	remains, left overs	
+12.21	collect, gather	βiti; c̷aati; c̷ĩkiti
+12.212	pick up	
+12.213	pile up	c̷amaati; c̷amãti
+12.22	join, unite	sɨtɨti; c̷ĩkiti
+12.23	separate	ṣ̌ɨča
+12.232	divide	kaṣ̌kɨti; čapaati
+12.24	open	čopeti
+12.25	shut, close	
+12.26	cover	mapãti; mapoti
+12.27	hide, conceal	honɨ-ti
+12.31	high	kɨya; nɨ̃kɨ
+12.32	low	omo
+12.33	top	mato; ma-
+12.34	bottom	
+12.35	end	rɨ-
+12.352	pointed	kɨ̃šo; rɨ-kɨ̃šo
+12.353	edge	kɨ-; kɨiba; manaõ
+12.36	side	ĩspi; nɨkɨ
+12.37	middle, center	napõβɨkõ; mirio
+12.41	right (side)	mɨkaya-o
+12.42	left (side)	mɨṣ̌kao; mɨmio
+12.43	near (adv)	očoma
+12.44	far (adv)	očo
+12.45	east	βari pikotai (βari)
+12.46	west	βari kai (βari)
+12.47	north	čipõki
+12.48	south	rɨβoki
+12.53	grow	aniti; ṣ̌oṣ̌o-ti
+12.54	measure	topõ-ti
+12.541	span, fathom	
+12.55	large, big	ani; aspa; oe
+12.56	small, little	anima; anitama; maṣ̌ko
+12.57	long	mɨ̃kɨ; tapo
+12.58	tall	kɨya
+12.59	short	nɨ̃kɨma; tĩko
+12.61	wide, broad	pɨṣ̌tĩ
+12.62	narrow	hɨstɨati; kɨrɨṣ̌
+12.63	thick (in dimension)	kɨṣ̌to
+12.65	thin (in dimension)	ako; oši
+12.67	deep	nɨmĩ
+12.68	shallow	
+12.71	flat	pãča
+12.73	straight	kaya
+12.74	crooked	
+12.75	hook	wɨki
+12.76	corner	
+12.77	cross	[koros]
+12.78	square	paro; paroya; rasɨnɨ̃
+12.81	round	ratõrõ; ramaya
+12.82	circle	toro
+12.83	sphere, ball	tõrõ
+12.84	line	siõ; sɨrɨ
+12.85	hole	čipɨkɨ; kini
+12.92	like, similar	
+12.93	change	βaneti; kãpiãti
+13.0	zero, nothing	yamakɨ
+13.1	one	wɨstiora; haβičo
+13.2	two	ra-βɨ
+13.3	three	kimiša
+13.4	four	
+13.5	five	pičika
+13.6	six	sokota
+13.7	seven	kãčis
+13.8	eight	posaka
+13.9	nine	iskõ
+13.10	ten	čõka
+13.101	eleven	
+13.102	twelve	[rosina]
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	pača
+13.106	thousand	warãka
+13.107	count	topõ-ti
+13.14	every, all	-tiiβi; hatiβi
+13.15	much, many	iča
+13.16	more	
+13.17	little (quantity), few	haβičo; wɨsti
+13.18	enough	-yõ
+13.181	some	-ča
+13.19	multitude, crowd	
+13.21	full	βočo-ti; poto
+13.22	empty	ako; natati
+13.23	part, piece	kaṣ̌kɨ; pakɨṣ̌; tɨsɨ
+13.24	half	βɨ̃kɨṣ̌; napõβɨkõ; počinikõ
+13.33	alone, only	-βičo; -rɨs; -βiṣ̌
+13.34	first	rɨ-kɨ̃; -a; βɨβõ; -pari
+13.35	last	či-ni
+13.36	second	rɨkɨna pɨkao
+13.37	pair	raβɨtia
+13.38	two times	
+13.42	third	
+13.44	three times	
+14.11	time	-nõtiã
+14.12	age	
+14.13	new	βɨna
+14.14	young	homo
+14.15	old	yosi; payo; yosi-šoko
+14.16	early	yamɨ-kiri
+14.17	late	βasi; yãtã
+14.18	now	rama
+14.19	immediately	-pari
+14.21	swift, fast, quick	išto
+14.22	slow	ištoma
+14.23	hasten, hurry	ištõti
+14.24	retard, delay	βasiti
+14.25	begin, beginning	pɨokooti; pɨoti
+14.252	last, endure	βasi iti
+14.26	end (temporal)	
+14.27	finish	kɨyo-ti
+14.28	cease, stop	c̷asimati; yatãti
+14.29	ready	
+14.31	always	hatiβitiã; -pačo
+14.32	often	
+14.33	sometimes	
+14.331	soon	
+14.332	long-time (for a)	moatiã; ramama
+14.34	never	hawɨtiãβi
+14.35	again	
+14.41	day	nɨtɨ
+14.42	night	yamɨ
+14.43	dawn	nɨtɨ ṣ̌aβati
+14.44	morning	βakiš; -ya
+14.45	noon, midday	βari-manikɨtiã
+14.451	afternoon	
+14.46	evening	yamɨ-ti; yãtã-ti
+14.47	today	rama nɨtɨ̃
+14.48	tomorrow	βakiš
+14.481	day-after-tomorrow	
+14.49	yesterday	βakiš; iβa
+14.491	day-before-yesterday	wɨc̷a βakiš
+14.51	hour	[ora]
+14.53	clock, timepiece	[riros]
+14.61	week	[simanã]
+14.62	Sunday	
+14.63	Monday	[ronis]-nɨtɨ
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	oṣ̌ɨ
+14.73	year	βari-tia
+14.74	winter	mac̷i; hɨnɨtia
+14.75	spring	
+14.76	summer	βari-tia
+14.77	autumn	
+14.78	season	
+15.21	smell (vb intrans)	ṣ̌ɨtɨti; pɨṣ̌ɨti
+15.212	sniff	ṣ̌ɨtɨ
+15.22	smell (vb trans)	
+15.25	fragrant, good smelling	inĩ
+15.26	stinking, bad smelling	hãṣ̌o; pisi; ɨc̷ɨ
+15.31	taste	tana
+15.35	sweet	βata; kõhiti
+15.36	salty	
+15.37	bitter	moka
+15.38	acid, sour	βatiria hɨnɨ; paɨ; mokati
+15.39	brackish	
+15.41	hear	nĩka-ti
+15.42	listen	nĩka-ti
+15.44	sound, noise	roõ
+15.45	loud	
+15.46	quiet, silence	nɨtɨšoko
+15.51	see	oĩ-ti; histi
+15.52	look, look at	oĩ-ti
+15.55	show	
+15.56	shine	hoɨti; pɨnɨ-ti
+15.57	bright	paṣ̌na; pɨnɨ; ṣ̌ɨna
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	
+15.64	white	hoṣ̌o
+15.65	black	čɨṣ̌ɨ; nikoro; wiso
+15.66	red	hošĩ
+15.67	blue	yãkõ
+15.68	green	yãkõ paṣ̌na; šɨpa
+15.69	yellow	pãšĩ
+15.71	touch	mɨɨti; tiati
+15.712	pinch	otɨṣ̌ti
+15.72	feel	masa šinãti
+15.74	hard	čoriš
+15.75	soft	βaka; wačo; pači; yɨ̃kɨ̃
+15.76	rough	bɨṣ̌a; ṣ̌aṣ̌a
+15.77	smooth	
+15.78	sharp	kɨ̃-šo
+15.79	blunt, dull	
+15.81	heavy	iwɨ
+15.82	light (in weight)	ṣ̌apo
+15.83	wet, damp	mɨča-ati
+15.84	dry	c̷osĩti; tanoti; taraṣ̌ti
+15.85	hot	ṣ̌ana; βari ṣ̌ana-ti
+15.851	warm	ṣ̌ana; yooti
+15.86	cold	mac̷i
+15.87	clean	oro-ti; kɨrasma
+15.88	dirty, soiled	ošta; kɨras; taro
+15.89	wrinkled	čore; sipõ; βɨsipõ
+16.11	soul, spirit	kaya; yošĩ
+16.15	surprised, astonished	
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	masa-ti
+16.23	joyful, glad, happy	βɨnɨ-; hakõresi
+16.25	laugh	osã-ti
+16.251	smile	osã
+16.26	play	c̷initi
+16.27	love	noi-ti; kɨɨ̃ti; -kas
+16.29	kiss	βɨc̷oa-ti; βɨṣ̌ɨ-ti
+16.3	embrace	ikoti
+16.31	pain	čɨṣ̌a
+16.32	grief, sorrow, sadness	onis-ti; masa šinãti
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	onis-ati
+16.37	cry, weep	wini-ti; βɨõ-ti
+16.38	tear (noun)	βɨõ-ti
+16.39	groan	ɨniti; išiiti
+16.41	hate	omisti
+16.42	anger	sina-ti
+16.44	envy, jealousy	noc̷iti
+16.45	shame (noun)	raβĩ
+16.48	proud	
+16.51	dare	
+16.52	brave	sinati
+16.53	fear, fright	rakɨ-ati; ratɨ-
+16.54	danger	
+16.62	desire, want	kɨɨ̃-ti; kɨɨ̃
+16.622	choose	katoti
+16.63	hope	
+16.65	faithful	
+16.66	true	ikõ; kikini
+16.67	lie, tell lies	hãsoti
+16.68	deceit	parã-ti
+16.69	forgive	
+16.71	good	hakõ; hɨɨ
+16.72	bad	-koma; hakoma; mɨčo
+16.73	right, correct	põtɨ
+16.74	wrong	
+16.76	fault	oča-ti
+16.77	mistake, error	ramia-ti
+16.78	blame	
+16.79	praise	raβiti
+16.81	beautiful	hakõšoko; mɨc̷a; c̷iri
+16.82	ugly	mɨčo
+16.83	greedy	
+16.84	clever	
+17.11	mind	šinã
+17.13	think (= reflect)	šinã-ti
+17.14	think (= be of the opinion)	ikõhati
+17.15	believe	
+17.16	understand	nĩkati; onãti
+17.17	know	onãti
+17.171	guess	kikĩhati
+17.172	imitate	ikai kɨskaati
+17.18	seem	maĩ
+17.19	idea, notion	
+17.21	wise	onã
+17.22	foolish, stupid	šinãhoma; onama-šoko
+17.23	insane, crazy	βɨyos-ti
+17.24	learn	aṣ̌ɨti; onãti
+17.242	study	kirika ati
+17.25	teach	aṣ̌ɨati; onamati
+17.26	pupil	βakɨ
+17.27	teacher	
+17.28	school	[iscoira]
+17.31	remember	šinãti
+17.32	forget	βɨno-ti
+17.34	clear, plain	
+17.35	obscure	
+17.36	secret	honɨšoko
+17.37	sure, certain	
+17.38	explain	yoiti
+17.41	intention, purpose	
+17.42	cause	kopi; -ma; -n
+17.43	doubt	raβɨ šinãya
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	yorõti
+17.46	easy	
+17.47	difficult	atikoma; -koma
+17.48	try, attempt	tana-ti
+17.49	way, manner	nɨskataṣ̌
+17.51	and	
+17.52	because	-aĩ; aitiã; -anã; kopi
+17.53	if	-aĩ; -aitiã; -anã; -kɨ̃
+17.54	or	
+17.55	yes, affirmative	ɨ̃hɨ̃; hɨ̃; iki; hɨ̃-hɨ̃
+17.56	no, negative	-ma; -yama
+17.61	how?	hawɨ-kɨska
+17.62	how many?	hawɨ-tii
+17.63	how much?	
+17.64	what?	hawɨ
+17.65	when?	-aĩ; -aitiã; -anã; -aṣ̌; -i; -kɨtiã
+17.66	where?	hawɨ-rano
+17.67	which?	hawɨ-rato
+17.68	who?	c̷oa
+17.69	why?	
+18.11	voice	hoi
+18.12	sing	βɨwa; βɨwa-ti
+18.13	shout, cry out	saiiti
+18.15	whisper	βaṣ̌ɨṣ̌-
+18.16	mumble	
+18.17	whistle	ṣ̌oõ iti; ṣ̌õṣ̌ĩ iti; wisati
+18.18	shriek, screech	
+18.19	howl	kɨoti
+18.21	speak, talk	ati; yoyo; yoi-; toto iti
+18.211	stutter, stammer	hoi-koma; yošĩβakɨ
+18.22	say	ati; iti; yoi-ti
+18.221	tell story	
+18.222	speech (make a)	
+18.23	silent (be)	nɨtɨšoko; nɨtɨti
+18.24	language	hoi
+18.26	word	hoi; yoia
+18.28	name	hanɨ
+18.31	ask (question, inquire)	yoka-ti; pirikõta ati
+18.32	answer	kɨwĩti
+18.33	admit, confess	
+18.34	deny	
+18.35	ask, request	yoka-ti; yono-ti
+18.36	promise	yoia
+18.37	refuse	wašiti
+18.38	forbid	čitɨti
+18.39	rebuke, scold	
+18.41	call (=summon)	kɨna-ti
+18.42	call (=name)	
+18.43	announce	kɨšãti
+18.44	threaten	rakɨati
+18.45	boast	raβikaati
+18.51	write	wišati
+18.52	read	kirika yoyo-ati
+18.56	paper	kirika
+18.57	pen	
+18.61	book	kirika
+18.67	poet	
+18.71	flute	kina
+18.72	drum	[tãpora; βõpo]
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	nɨtɨ
+19.12	one's native country	
+19.15	city, town	hɨma
+19.16	village	hɨma
+19.17	boundary	
+19.21	people (populace)	honi
+19.23	tribe, clan	
+19.24	chief, chieftain	koraka; apo; koši
+19.25	staff, walking stick	kɨkoti
+19.31	rule, govern	
+19.32	king, ruler	apo
+19.33	queen	aĩβo-apo
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	iβo
+19.42	slave	
+19.43	servant	
+19.44	freeman	
+19.45	command, order	
+19.46	obey	kasoati; yoiti iti
+19.47	let, permit	-ma; potati; arɨsti
+19.51	friend, companion	rarɨβokɨska; raɨnanai
+19.52	enemy	rawi
+19.54	neighbor	
+19.55	stranger	nawa
+19.56	guest	
+19.57	host	
+19.58	help, aid	akĩti; kĩ
+19.59	hinder, prevent	
+19.61	custom	aṣ̌ɨ
+19.62	strife, quarrel	
+19.63	conspiracy, plot	
+19.65	meet	nokoti
+19.72	prostitute	c̷iniaĩβo
+20.11	fight (vb)	rɨtɨti; sina
+20.13	war, battle	
+20.14	peace	
+20.15	army	
+20.17	soldier	[sõtaro]
+20.21	weapons, arms	
+20.22	club	wino
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	ka-noti
+20.25	arrow	pia
+20.26	spear	c̷ac̷itaṣ̌o
+20.27	sword	[ispara]
+20.28	gun, cannon	tooati
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	[iskoro]; kɨɨti
+20.35	fortress	
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	
+20.44	defend	paranã iti
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	mɨča
+20.52	fishhook	miškiti
+20.53	fishing line	
+20.54	fishnet	rikãti; ani-rika
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	yomɨra-ti; mɨča
+20.62	shoot	tooati
+20.63	miss (target)	mɨčiti
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	ese
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	
+21.24	swear	
+21.25	oath	
+21.31	accuse	yoiti
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	očaoma
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	[karasira]
+21.42	murder	
+21.43	adultery	tɨamis
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	yo-mɨ-c̷o-ti
+21.52	thief	yo-mɨ-c̷o
+22.11	religion	
+22.12	God	[rios]; iβo
+22.13	temple, church	[ikirisia]; haĩ rios raβiti ṣ̌oβo
+22.14	altar	
+22.15	sacrifice, offering	
+22.16	worship	
+22.17	pray	risãti
+22.18	priest	paɨri
+22.19	holy, sacred	
+22.22	preach	riosɨ̃ hoi yoiti
+22.23	bless	[βinirisĩ]-ti
+22.24	curse	hakomati; ramiati
+22.26	fast (vb)	sama-
+22.31	heaven	nai
+22.32	hell	
+22.35	demon (evil spirit)	yošĩ
+22.37	idol	
+22.42	magic, witchcraft, sorcery	yoβɨti; kopiti; onãyati
+22.43	sorcerer, witch	roa; yoβɨ; onãya
+22.44	fairy, elf	
+22.45	ghost, phantom	yošĩ
+22.47	omen, portent	roa

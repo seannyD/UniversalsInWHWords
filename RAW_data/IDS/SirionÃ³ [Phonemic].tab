@@ -1,0 +1,1311 @@
+entry_id	trans_english	Sirionó_Phonemic
+1.1	world	
+1.21	earth, land	ibi; erekʷa
+1.212	earth=ground, soil	ibi
+1.213	dust	etuba; ekui̯i̯
+1.214	mud	
+1.215	sand	i̯ta ki̯i̯šĩ̯
+1.22	mountain, hill	ibi ibate
+1.222	cliff, precipice	
+1.23	plain, field	turukʸa
+1.24	valley	
+1.25	island	ama hoõ
+1.26	mainland	
+1.27	shore	eri'mei; erimia; eibi
+1.28	cave	ekʷa; eči̯mi̯tama
+1.31	water	i; ama
+1.32	sea	
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	ehuu; e'ri̯čoi̯
+1.329	ocean	
+1.33	lake	ama ni̯ša
+1.34	gulf, bay	
+1.341	lagoon	ama ni̯ša
+1.342	reef	
+1.343	headland, point	
+1.35	wave	erebera; i rebera
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	amã
+1.362	whirlpool	
+1.37	spring, well	tororoma; yeẽ
+1.38	swamp	ama nakʷa; eakʷa; eriekʷa
+1.39	waterfall	
+1.41	woods, forest	kiaa rĩ̯; ɲana
+1.42	tree (cf 08.600)	ira
+1.43	wood	ira
+1.44	stone, rock	si̯ta ~ hi̯ta ~ i̯ta
+1.45	earthquake	
+1.51	sky	ibei
+1.52	sun	tena
+1.53	moon	ɲasi
+1.54	star	ɲasi tata
+1.55	lightning	pi̯ri̯rã pi̯ri̯rã i̯
+1.56	thunder	si̯eu
+1.57	lightning (as striking)	ama
+1.58	storm	
+1.59	rainbow	ibei asa
+1.61	light (noun)	tata; erata
+1.62	darkness	pã i̯; itoneru
+1.63	shade, shadow	eriseĩ
+1.64	dew	i'sei
+1.71	air	eitu
+1.72	wind	ki̯ri̯ri̯ã
+1.73	cloud	ibeišĩ
+1.74	fog	si̯mo
+1.75	rain (noun)	ama; ɲaaki
+1.76	snow (noun)	
+1.77	ice	
+1.78	weather	ama mose; tena mose
+1.81	fire	tata; erata
+1.82	flame (noun)	
+1.83	smoke (noun)	tata-šĩ
+1.84	ashes	tata-ba; ekusubu
+1.841	embers	tata re'tei̯; taasi
+1.851	burn (vb trans)	mẽni; mučuuta; uča
+1.852	burn (vb intrans)	seni; ɲuuta
+1.86	light, kindle, ignite	sei̯; meni; tesae
+1.861	extinguish	muŋe; uke
+1.87	match (noun)	tata
+1.88	firewood	ɲea
+1.89	charcoal	ere'teĩ̯ ta'teĩ̯
+2.1	person, human being	mia; aba mo; emo
+2.21	man (vs. woman)	erãkʷẽ
+2.22	woman	kuɲa; erẽĩ
+2.23	male	ekimae; eramei̯; erakoĩ̯
+2.24	female	esi; ekʸã; ari; ereĩ̯
+2.25	boy	ečo; akẽ
+2.251	young man (adolescent)	akʷani̯nu
+2.26	girl	akʷani̯; ɲukaake; akẽ
+2.261	young woman (adolescent)	ɲukʷaake
+2.27	child	ei̯tãkeĩ; kiã ~ ekiã
+2.28	infant, baby	eitãkẽĩ
+2.31	husband	eru
+2.32	wife	enĩnĩsi; kuɲa; ememi
+2.33	marry	
+2.34	marriage, wedding	
+2.341	divorce	
+2.35	father	paba; e-ru; ŋu
+2.36	mother	tãĩ; esi
+2.37	parents	
+2.38	married man	
+2.39	married woman	
+2.41	son	eriirĩ; erukuča
+2.42	daughter	eriirĩ; erukuča
+2.43	offspring (son or daughter)	
+2.44	brother	ŋõŋe
+2.444	older brother	erikii
+2.445	younger brother	eribi
+2.45	sister	enoŋe
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	
+2.458	twins	eata
+2.46	grandfather	ãmẽĩ̯; erãmẽĩ̯
+2.461	old man	erekʷayã; amẽĩ̯
+2.47	grandmother	ari; ečari
+2.471	old woman	erekʷayã; ari
+2.48	grandson	erukuča riirĩ
+2.49	granddaughter	
+2.51	uncle	paba; eru noŋe
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	taĩ; esi noŋe
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	eriirĩ; enoŋe riirĩ
+2.54	niece	
+2.55	cousin	
+2.56	ancestors	
+2.57	descendants	
+2.61	father-in-law (of a man)	enoŋe ru
+2.611	father-in-law (of a woman)	eramei̯; amei̯
+2.62	mother-in-law (of a man)	enoŋe ninisi
+2.621	mother-in-law (of a woman)	ari; ečari
+2.63	son-in-law (of a man)	akʷani̯nu
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	
+2.72	stepmother	
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	esi či̯eča; eru či̯eča
+2.76	widow	eru či̯eča
+2.77	widower	eninisi či̯eča; ɲeseo he
+2.81	relatives, kinsmen	enoŋe; eresena
+2.82	family	
+2.91	I	se
+2.92	you (singular)	ne
+2.93	he/she/it	ae
+2.94	we	
+2.941	we (inclusive)	nane
+2.942	we (exclusive)	ure
+2.95	you (plural)	hẽ
+2.96	they	ae; ukĩ̯ ~ ũkĩ̯
+3.11	animal	
+3.12	male (adj)	
+3.13	female (adj)	
+3.15	livestock	
+3.16	pasture	
+3.18	herdsman	
+3.19	stable, stall	
+3.2	cattle (bovine)	tikʷasu
+3.21	bull	
+3.22	ox	tikʷasu; tikʷasu ramašĩ̯
+3.23	cow	tikʷasu
+3.24	calf	
+3.25	sheep	
+3.26	ram	
+3.28	ewe	
+3.29	lamb	
+3.32	boar	
+3.34	sow	
+3.35	pig	teasu; čeasu sokoi̯ he
+3.36	goat	kiikʷã muae
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	tikʷasu
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	
+3.47	mule	
+3.5	fowl	
+3.52	cock, rooster	ŋira-nu
+3.54	hen	ŋira
+3.55	chicken	
+3.56	goose	
+3.57	duck	yei
+3.58	nest	ekisa; erua
+3.581	bird	ŋireĩ̯
+3.582	seagull	
+3.583	heron	ŋari̯šĩ
+3.584	eagle	ŋira ri̯ša
+3.585	hawk	ŋira
+3.586	vulture	urubu
+3.591	bat	mui̯; mui̯ rusu
+3.592	parrot	ɲuru; si̯
+3.593	crow	miŋa; tebee
+3.594	dove	ɲurusi̯; ɲurusi̯ kʷasu
+3.596	owl	ɲekerea
+3.61	dog	ɲakʷa; ɲao-ɲao
+3.614	rabbit	či̯i̯ši̯; ti̯i̯si̯; sikʸiča kʷasu
+3.62	cat	ɲakʷa
+3.622	opossum	
+3.63	mouse, rat	sikiča; ɲaaši̯
+3.65	fish	si̯ra; hi̯ra
+3.652	fin (dorsal)	eɨ̃ye
+3.653	fishscale	si̯ra eke; eeke; si̯ra kiišĩ
+3.654	gill	etukʷayo
+3.655	shell	i̯tã ~ hi̯tã
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	--
+3.664	stingray	hi̯rae ~ si̯rae
+3.665	freshwater eel	musu; sarao
+3.71	wolf	
+3.72	lion	ɲakʷa i̯reĩ̯ he
+3.73	bear	
+3.74	fox	eoita
+3.75	deer	kiikʷã; kiikʷã nusu
+3.76	monkey	eruba
+3.77	elephant	--
+3.78	camel	--
+3.81	insect	
+3.811	louse	ki; eki
+3.812	nit (louse egg)	
+3.813	flea	eki; ki
+3.814	centipede	mua
+3.815	scorpion	kiraẽ
+3.816	cockroach	tatu
+3.817	ant	tasi; toi
+3.818	spider	ɲunusi̯
+3.819	spider web	ɲunusi̯ kisa
+3.82	bee	iraonu
+3.821	beeswax	irao ri̯mitã; ti̯mitã
+3.822	beehive	irao ritu
+3.823	wasp	kia; amaŋia
+3.83	fly	meru; aču
+3.831	sandfly (midge), gnat	ɲusarei̯
+3.832	mosquito	ɲi̯si̯õ
+3.84	worm	erosei̯; mae rosei̯; mi̯rara
+3.85	snake	mei̯; mei̯ kʷaču
+3.91	firefly	
+3.92	butterfly	anã; ana musu
+3.93	grasshopper	tuku
+3.94	snail	urukʷa; urukʷa rama
+3.95	frog	ɲui̯; ŋerekei; aru
+3.96	lizard	ɲi̯kʸare; tučuara kʷasu
+3.97	crocodile, alligator	ɲi̯kʸare; ɲi̯kʸarete
+3.98	turtle	kereerẽ; kereerẽ ŋasu
+4.11	body	erete
+4.12	skin, hide	ei̯re; ei̯
+4.13	flesh	
+4.14	hair (head)	ea; era
+4.142	beard	emuta
+4.144	body hair	maera; eri̯bi̯ču
+4.145	pubic hair	
+4.146	dandruff	eãkĩ tubi
+4.15	blood	eruki
+4.151	vein, artery	eči̯ã; erači
+4.16	bone	ekʸaŋe
+4.162	rib	erokeĩ
+4.17	horn	eramašĩ̯
+4.18	tail	e'rokoi̯
+4.19	back	ekite
+4.191	spine	ekitekĩ; enumikĩ
+4.2	head	eãkĩ
+4.201	side of head, temple	esiba
+4.202	skull	eresa kʷare; eãŋĩ
+4.203	brain	eitõõ; eãkĩ nukʷa; eãkĩ
+4.204	face	eruba; eresa
+4.205	forehead	eruba
+4.207	jaw	eračike
+4.208	cheek	eritii
+4.209	chin	eračita
+4.21	eye	eresa
+4.212	eyebrow	eresai̯kẽ
+4.213	eyelid	eresa-i̯re
+4.214	eyelash	eresa-ra
+4.215	blink	
+4.22	ear	eisa
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	ẽã
+4.231	nostril	eaŋia
+4.232	mucus (nasal)	eani
+4.24	mouth	ečuru
+4.241	beak	esĩ̯
+4.25	lip	ereme
+4.26	tongue	eekõ
+4.27	tooth	erẽĩ̯
+4.271	gums	ereĩ̯ suča
+4.272	molartooth	e'kʸa
+4.28	neck	ečosoi; eaču; eato; eati
+4.281	nape of neck	eato; eati
+4.29	throat	ečosoi
+4.3	shoulder	ečihii
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	ečiba
+4.312	armpit	erobobo
+4.32	elbow	ečimaŋũiana
+4.321	wrist	eoi
+4.33	hand	eo
+4.331	palm of hand	eo-ite
+4.34	finger	eo
+4.342	thumb	
+4.344	fingernail	eo ãĩ; eaĩ
+4.345	claw	
+4.35	leg	etimã; ekʷi
+4.351	thigh	eu
+4.352	calf of leg	
+4.36	knee	eŋĩã
+4.37	foot	ei
+4.371	ankle	eičuã
+4.372	heel	eita
+4.374	footprint	eiroŋia; erikere
+4.38	toe	ei-sã
+4.392	wing	eheo
+4.393	feather	erake; eheo
+4.4	chest	eši̯a ~ ei̯ši̯a; ekiã
+4.41	breast (of woman)	ekiã
+4.412	nipple, teat	ekʸã
+4.42	udder	tikʷasu-kʸã; ekiã
+4.43	navel	eiruã
+4.44	heart	ečĩ̯ã
+4.441	lung	ečĩ̯ã mebi̯
+4.45	liver	eya
+4.451	kidney	erikiši̯ĩ̯; ečeĩ̯
+4.452	spleen	
+4.46	stomach	eyabukʸa; eči̯ã; erie
+4.461	intestines, guts	eči̯i̯ke
+4.462	waist	enumi
+4.463	hip	ẽnũmi
+4.464	buttocks	eriita; ekiamita
+4.47	womb	ãkẽ nua; erie
+4.49	testicle	eči̯a
+4.492	penis	e'rãkoĩ̯ ~ erãkʷẽ
+4.51	breathe, breath	iabu
+4.52	yawn, gape	ɲurui̯ra
+4.521	hiccough	eačeĩ; maače
+4.53	cough	hooho i̯
+4.54	sneeze	asĩ̯
+4.55	perspire	
+4.56	spit	ɲinimu; ereni
+4.57	vomit	ɲemo ~ ɲomo
+4.58	bite	ši̯u
+4.59	lick	sere
+4.591	dribble	
+4.61	sleep	uke
+4.612	snore	
+4.62	dream	eke; ekerei̯kʷã ~ ekerai̯kʷã
+4.63	wake up	muma; ɲu-muma
+4.64	break wind	
+4.65	urinate	ŋaru
+4.66	defecate	usi̯
+4.67	have sexual intercourse	
+4.68	shiver	sõsõ sõsõ i̯; titi titi i̯
+4.69	bathe	ɲasu
+4.71	beget (of father)	
+4.72	born (to be)	ɲaakukʸa ~ ɲeakukʸa
+4.73	pregnant	mẽmi-re; erio; nanimae
+4.732	conceive	ti i̯
+4.74	live, living, life	ereko; siki
+4.75	die, dead	mano; eraake
+4.751	drowned	ɲi̯i̯mi̯
+4.76	kill	i̯kia; mutiã
+4.77	corpse	eraake; mano he
+4.78	bury (the dead)	ɲati
+4.79	grave, tomb	
+4.81	strong, mighty, powerful	
+4.82	weak	ekirãkʷã nea; ekʸaŋo
+4.83	well, health	mučerõ; muusã
+4.84	sick, sickness	ɲi̯masi; erasi; tasi; tomo
+4.841	fever	eraku; erui
+4.842	goiter	ečosoi rio
+4.843	cold (catarrh)	eã itose mea
+4.85	wound, sore	ekʷare; eure; esiasa
+4.852	bruise	
+4.853	swelling	ɲimirõ; eruru; sobobo
+4.854	itch	
+4.855	blister	ei̯rua
+4.856	boil (noun)	maeasi
+4.857	pus	ereeču
+4.858	scar	ečerõ i̯ma; erure
+4.86	cure, heal	kera; ɲerõ
+4.87	physician	aba mučerõsa
+4.88	medicine, drug	aba mukerasa
+4.89	poison	
+4.91	tired, weary	ekenea; erisirõ; ei̯tuba
+4.912	rest	ukʷa
+4.92	lazy	etomẽĩ̯; ekiatei
+4.93	bald	
+4.94	lame	ekʷatayã; ečio
+4.95	deaf	eisayã
+4.96	mute	ečeẽ ŋũ'iã
+4.97	blind	eresayã
+4.98	intoxicated	ekʸakʷa
+4.99	naked, bare	ečekʷa; ei̯rao eã
+5.11	eat	u; kʸaru
+5.12	food	eči̯u; euta
+5.121	cooked	
+5.122	raw	ei; eibi
+5.123	ripe	
+5.124	green, unripe	eaki; nini
+5.125	rotten	eai̯; ereĩ; emano
+5.13	drink	mei; iu
+5.14	hunger	ečimasi; ečiroro
+5.141	famine	
+5.15	thirst	ei̯sei̯
+5.16	suck	kiamu; siite
+5.18	chew	i̯kʸa; ši̯ĩ̯
+5.181	swallow	mokõ
+5.19	choke	ečosoi mumi
+5.21	cook	muči; uči
+5.22	boil (vb)	kʷara kʷara i̯; kara kara i̯
+5.23	roast, fry	ekiaẽ; eresi hi; sei
+5.24	bake	
+5.25	oven	mičae mučisa
+5.26	pot, cooking vessel	ɲĩõ; iračaẽ
+5.27	kettle	
+5.28	pan	
+5.31	dish	eči̯u riru; ekiarusa
+5.32	plate	
+5.33	bowl	
+5.34	pitcher, jug	ɲio; irasa
+5.35	cup, drinking vessel	eyukʸa
+5.36	saucer	
+5.37	spoon	erikekʷa
+5.38	knife	tikise
+5.39	fork	
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	
+5.44	dinner	
+5.45	supper	
+5.46	peel	ei̯ro; si̯bi̯ro; točo
+5.47	sieve, strain	
+5.48	scrape	sabi̯; sei̯
+5.49	stir, mix	
+5.51	bread	mičae
+5.53	dough	
+5.54	knead	
+5.55	meal, flour	ekui̯i̯; kui̯i̯
+5.56	crush, grind	točo
+5.57	mill	mua
+5.58	mortar	mua
+5.59	pestle	
+5.61	meat	soo; eroo
+5.63	sausage	
+5.64	soup, broth	erike; eri
+5.65	vegetables	
+5.66	bean	
+5.7	potato	
+5.71	fruit	ea
+5.712	bunch	eakʷa; ečesea
+5.75	fig	
+5.76	grape	
+5.77	nut	
+5.78	olive	
+5.79	oil	
+5.791	grease, fat	ekira; i̯eĩ̯kira; mae kira
+5.81	salt	emikesa
+5.82	pepper	
+5.821	chili pepper	kiamarɨ
+5.84	honey	irao
+5.85	sugar	ečɨ'eɨ
+5.86	milk (noun)	
+5.87	milk (vb)	tikʷasukiã ɲitia
+5.88	cheese	
+5.89	butter	
+5.9	beverage, drink	
+5.91	mead	
+5.92	wine	
+5.93	beer	
+5.94	fermented drink	erasi
+5.97	egg	eči̯a
+5.971	egg yolk	eči̯a bitere
+6.11	put on (clothes)	miŋe; kunui̯; kunuã
+6.12	clothing, clothes	tiru; ei̯rao
+6.13	tailor	
+6.21	cloth	tiru
+6.22	wool	eri̯bi̯ču; era
+6.23	linen, flax	
+6.24	cotton	ɲiɲu
+6.25	silk	
+6.27	felt	
+6.28	fur	
+6.29	leather	ei̯re; ei̯
+6.31	spin	
+6.32	spindle	ã; eã; amakʷa
+6.33	weave	
+6.34	loom	
+6.35	sew	eya eya
+6.36	needle	ɲuu
+6.37	awl	
+6.38	thread	esã
+6.39	dye	
+6.41	cloak	
+6.411	poncho	
+6.42	woman's dress	ei̯rao
+6.43	coat	
+6.44	shirt	
+6.45	collar	
+6.46	skirt	
+6.461	grass-skirt	--
+6.48	trousers	ekʷi
+6.49	stocking, sock	
+6.51	shoe	eiyao
+6.52	boot	
+6.54	shoemaker, cobbler	
+6.55	hat, cap	eite suča
+6.57	belt, girdle	enumi kʷasa
+6.58	glove	
+6.59	veil	
+6.61	pocket	
+6.62	button	
+6.63	pin	
+6.71	ornament, adornment	
+6.72	jewel	
+6.73	ring (for finger)	eo kʷasa
+6.74	bracelet	
+6.75	necklace	ewi; wi
+6.76	bead	
+6.77	earring	eisa resena
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	tiru čuke; ečuke
+6.82	towel	
+6.91	comb	ea mitirõsa; ea muturãsa
+6.92	brush	
+6.921	braid	ea uma hi
+6.93	razor	
+6.94	ointment	
+6.95	soap	eami̯čoi̯sa
+6.96	mirror	eresa reakʸa
+7.11	dwell, live	
+7.12	house	tučua; suča
+7.13	hut	
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	taikʷee;
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	
+7.22	door, gate	ei̯kesa
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	
+7.26	floor	ibi
+7.27	wall	etarona
+7.31	fireplace	
+7.32	stove	
+7.33	chimney	
+7.37	ladder	ečui̯sa
+7.42	bed	erua
+7.421	pillow	
+7.422	blanket	
+7.43	chair	erena
+7.44	table	
+7.45	lamp, torch	
+7.46	candle	
+7.47	shelf	
+7.48	trough	
+7.51	roof	tai ~ tei; tai kiite
+7.52	thatch	kiata
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	ĩwaẽ; eača
+7.57	board	ira mue hi
+7.58	arch	
+7.61	mason	
+7.62	brick	
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	
+8.12	field (for cultivation)	ko; eko
+8.13	garden	
+8.15	cultivate, till	
+8.16	fence	etarõsa
+8.17	ditch	ibi mae hi
+8.21	plow	
+8.212	furrow	
+8.22	dig	si̯bi̯koi̯; tia
+8.23	spade	
+8.24	shovel	arue
+8.25	hoe	
+8.26	fork	
+8.27	rake	
+8.31	sow	ɲutã; ɲitikia
+8.311	seed	i̯eĩ̯ ~ eaĩ̯; yeĩ̯
+8.32	mow, reap	
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	
+8.42	grain (barley, oats etc)	i̯aĩ̯
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	ibaši̯; abači̯
+8.48	rice	kɨa; kiata a
+8.51	grass	ira ruri; kʸata
+8.52	hay	
+8.53	plant (noun)	
+8.531	plant (vb)	
+8.54	root	erao
+8.55	branch	ira rãkʸã; erãkʸã; niike
+8.56	leaf	ero; iraro
+8.57	flower	euti
+8.6	tree	ira
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	isio
+8.68	tobacco	ero
+8.69	smoke (tobacco)	kʸaakʷa raã; ero raã
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	ei; eike; erita; ečurui
+8.74	forked branch	
+8.75	bark	eeke; ehe; eya
+8.76	sap	ira isi; eisi; ira-ri
+8.81	palm tree	siri; ɲiisui
+8.82	coconut	
+8.83	citrus fruit	ibaši ŋiaši̯
+8.84	banana tree	
+8.85	banyan	
+8.91	sweet potato	ɲiti
+8.912	yam	
+8.92	tapioca, manioc, cassava	nioi; manio
+8.93	gourd	ia; ia boke
+8.931	pumpkin, squash	ibamo
+8.94	bamboo	takʷa; subure
+8.941	sugar cane	takʷa reẽ ~ takʷa reĩ
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	urue; uruete
+9.11	do, make	ɨ; ɲao; saã; ɲuao
+9.12	work	ki̯ei̯ ki̯ei̯; taba taba i̯
+9.14	bend	
+9.15	fold	ečaakʷa; itukʸa
+9.16	tie, bind	ɲukʷa; musã
+9.161	untie	ɲura; mui̯
+9.18	chain	
+9.19	rope, cord	esã; kisasã; naasã
+9.192	knot (noun)	ei̯si̯ma; ei̯šĩ̯ hi; eči̯i̯šĩ̯
+9.21	strike (hit, beat)	kurukʷa; iruã nua; ukʷa
+9.211	pound with fist	
+9.22	cut	ɲisia; kʸišĩ̯; ɲui̯
+9.221	cut down	maɲa; mukoi̯; muki̯
+9.222	chop, hew	i̯; ši̯u; mučusa; mui̯
+9.223	stab	
+9.23	knife	
+9.24	scissors, shears	tikise kʷeĩ̯
+9.25	ax	siniɲa; eita
+9.251	adze	
+9.26	break	huẽ; ɲekia; obo; oso; soro
+9.261	broken	
+9.27	split	momo; ɲisia
+9.28	tear	
+9.29	flay, skin	
+9.31	rub, wipe	kiti; i̯si̯
+9.32	stretch	
+9.33	pull	ɲei̯; momo
+9.34	spread out	
+9.341	hang up	mučeseko; ɲeseko
+9.342	press	sõkʸa
+9.343	squeeze, wring	
+9.35	pour	ičerẽ; ɲusẽ; ičusẽ
+9.36	wash	i̯rei̯
+9.37	sweep	tii
+9.38	broom	tiisa; tiikʸa
+9.422	tool	
+9.43	carpenter	
+9.44	build	ɲao; saã
+9.46	bore	tasamo
+9.461	hollow out	ekʷa; esorei; enoroi; eɨmɨ
+9.48	saw	ira kišĩ̯sa
+9.49	hammer	
+9.5	nail	muča; ɲio
+9.56	glue	uča; muča
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	
+9.64	gold	
+9.65	silver	
+9.66	copper, bronze	
+9.67	iron	
+9.68	lead (noun)	
+9.69	tin, tinplate	
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	tuču
+9.74	glass	
+9.75	weave, plait	uma
+9.76	basket	iru; hinakõ ~ irakõ
+9.77	mat	hinua
+9.771	rug	
+9.78	netbag	
+9.79	fan (noun)	teekʷa
+9.791	fan (vb)	i̯ču
+9.81	carve	
+9.82	sculptor	
+9.83	statue	
+9.84	chisel	
+9.88	paint (noun)	
+9.89	paint (vb)	
+10.11	move	umi̯; siri; ɲere
+10.12	turn over	uba; ɲere; ɲiičere
+10.13	turn around	eba; ɲatičere
+10.14	wind, wrap	uma
+10.15	roll	mučere; kuruba
+10.16	drop (vb)	
+10.17	twist	ukʸa; uma; ɲaa; ɲuukia
+10.21	rise	huã; ɲuruã; ɲui̯
+10.22	raise, lift	
+10.23	fall	ŋoɨ; ukɨ; põ ɨ
+10.24	drip	
+10.25	throw	momo; ɲučã
+10.252	catch (ball)	
+10.26	shake	mutomo; maabal mutã; soroo
+10.32	flow	
+10.33	sink	
+10.34	float	mebi̯; ubu
+10.35	swim	ita
+10.351	dive	ɲĩĩmĩ
+10.352	splash	
+10.36	sail (vb)	
+10.37	fly (vb)	mebe
+10.38	blow	i̯ču
+10.41	creep, crawl	ŋata ŋũiã nese
+10.412	kneel	
+10.413	crouch	
+10.42	slide, slip	aŋi; esã
+10.43	jump, leap	maba; oo (erese)
+10.431	kick	ei̯rõ
+10.44	dance	ɲuruki; ečuruki
+10.45	walk	ŋata
+10.451	limp	
+10.46	run	učã
+10.47	go	kʸatu; oso
+10.471	go up	ɲui̯
+10.472	climb	ɲui̯
+10.473	go down	iti; ŋiči ~ kiči
+10.474	go out	usẽ
+10.48	come	tu; ŋaẽ
+10.481	come back	ɲebi
+10.49	go away, depart	sereča
+10.491	disappear	
+10.51	flee	učã
+10.52	follow	oso erui̯; mučã
+10.53	pursue	momita
+10.55	reach, arrive	
+10.56	approach	sɨɨčã
+10.57	enter	i̯ke; wa
+10.61	carry (bear)	kerao; suɨ
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	emu; keru; kurukʷaẽ
+10.63	send	mono
+10.64	lead (vb)	
+10.65	drive	
+10.66	ride	
+10.67	push, shove	emãɲã
+10.71	road	ɲeena; erike
+10.72	path	ei̯ča; ɲeena; erike
+10.74	bridge	iasaa; ira tieĩ; erasaa
+10.75	carriage, wagon, cart	
+10.76	wheel	namakʷa
+10.77	axle	
+10.78	yoke	
+10.81	ship	
+10.83	boat	
+10.831	canoe	kanõã
+10.832	outrigger	--
+10.84	raft	
+10.85	oar	amo ibukia; eibukia
+10.851	paddle (noun)	amã i̯bukʸa
+10.852	row (vb)	ibu
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	
+10.91	harbor, port	erasaa
+10.92	land (vb)	
+11.11	have	kereko
+11.12	own, possess	eča; kereko
+11.13	take	
+11.14	seize, grasp	isi; isirõ
+11.15	hold	
+11.16	get, obtain	isi; tea
+11.17	keep, retain	
+11.18	thing	mae
+11.21	give	mee; moeta
+11.22	give back	
+11.24	preserve, look after	kerekokiatu
+11.25	save, rescue	
+11.27	destroy	mutiã; momoo
+11.28	harm, injure, damage	maasi
+11.31	seek, look for	sekʸa; ɲibikʸa
+11.32	find	
+11.33	lose	mukiačã
+11.34	release, let go	oso; tini i̯
+11.43	money	kʸaao; mae isikʸa
+11.44	coin	
+11.51	rich	maeti
+11.52	poor	maeča reã
+11.53	beggar	
+11.54	avaricious, stingy	
+11.61	lend	
+11.62	borrow	
+11.63	owe	
+11.64	debt	
+11.65	pay (vb)	si̯bi̯šorõ; mučebi
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	
+11.79	earn	
+11.81	buy	isi; sirõ
+11.82	sell	mono; mee
+11.83	trade, barter	
+11.84	merchant	
+11.85	market (place)	
+11.86	store, shop	
+11.87	price	
+11.88	dear (costly, expensive)	
+11.89	cheap	
+11.91	share (distribute)	mučao čao
+11.92	weigh	
+12.1	after	aki̯ re; akere; kote
+12.11	behind	eruɨ; ekitera kiti
+12.2	beside	
+12.3	down, below	ibi kiti; -ki re
+12.4	before	kose; ɲii; none
+12.41	front	rane
+12.5	inside, in	ye; rie; hie
+12.6	outside	taikʷee
+12.7	under	eki re
+12.8	up, above	ibate
+12.11	place	eitee; erena; eama
+12.12	put	
+12.13	sit	ŋoi
+12.14	lie down	
+12.15	stand	huã; ɲumui; ɲuruã
+12.16	remain, stay	sikičõ; ɲiitaso; itõ
+12.17	remains, left overs	
+12.21	collect, gather	isi; isi-rõ; ɲibikia
+12.212	pick up	
+12.213	pile up	mati; munua
+12.22	join, unite	ɲi̯muča
+12.23	separate	ɲao; ɲisia; ɲi̯mučao
+12.232	divide	ɲisia; momo; mučao
+12.24	open	eekia hi
+12.25	shut, close	ɲati; matã; sokoitã; mumi
+12.26	cover	ɲati
+12.27	hide, conceal	
+12.31	high	
+12.32	low	
+12.33	top	earona
+12.34	bottom	
+12.35	end	eai
+12.352	pointed	eai
+12.353	edge	erĩmei; ereme
+12.36	side	ehii; ekuti; ekibi
+12.37	middle, center	eite
+12.41	right (side)	
+12.42	left (side)	
+12.43	near (adv)	rɨɨ̃; aɨčɨ; ehii
+12.44	far (adv)	mũmiri; i̯šo
+12.45	east	
+12.46	west	
+12.47	north	
+12.48	south	ɲiiseĩ̯ ŋuiti
+12.53	grow	siri; mebo; tiarõ
+12.54	measure	
+12.541	span, fathom	
+12.55	large, big	eri̯ša; ekʷasu
+12.56	small, little	eɲetẽ; ekʷake; eɲohõ
+12.57	long	eoko
+12.58	tall	eoko; ibate; ebuku
+12.59	short	ehua; eakʷa
+12.61	wide, broad	e'ɨkoɨ; eitee
+12.62	narrow	ečumumi; e'ɨkoɨ čɨã
+12.63	thick (in dimension)	ɲãnã
+12.65	thin (in dimension)	emi̯rĩ̯; ei̯re; eanamea; eitere
+12.67	deep	ekʷa; muku
+12.68	shallow	
+12.71	flat	eturã; ečiabiã
+12.73	straight	ečiabiã; ečaareã; eri̯i̯me
+12.74	crooked	
+12.75	hook	
+12.76	corner	ečimaŋũiana
+12.77	cross	
+12.78	square	
+12.81	round	eitee; ečere
+12.82	circle	
+12.83	sphere, ball	
+12.84	line	
+12.85	hole	esorei
+12.92	like, similar	eraaŋia
+12.93	change	siri; uba
+13.0	zero, nothing	emoa; mae eã
+13.1	one	mi̯i̯; ko-mi̯i̯
+13.2	two	ɲeremo
+13.3	three	ɲeremo
+13.4	four	
+13.5	five	
+13.6	six	
+13.7	seven	
+13.8	eight	
+13.9	nine	
+13.10	ten	
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	
+13.106	thousand	
+13.107	count	
+13.14	every, all	ha
+13.15	much, many	eata
+13.16	more	
+13.17	little (quantity), few	ko mi̯i̯; erukʷa
+13.18	enough	etubɨrɨã; eata; eča
+13.181	some	emo
+13.19	multitude, crowd	ečesea
+13.21	full	
+13.22	empty	eoreã; eoči̯
+13.23	part, piece	eboke; esike
+13.24	half	
+13.33	alone, only	ae; ačõ; mi̯i̯
+13.34	first	r̃ane; ɲii; nii; ɲiina
+13.35	last	erui̯na; eai
+13.36	second	
+13.37	pair	
+13.38	two times	
+13.42	third	
+13.44	three times	
+14.11	time	
+14.12	age	
+14.13	new	eyasu; eaki
+14.14	young	
+14.15	old	eimã; eai̯; esi̯ŋa
+14.16	early	eresaitõ nabe
+14.17	late	itõ; kʷẽ
+14.18	now	nãmõ; kote; ko mose
+14.19	immediately	
+14.21	swift, fast, quick	asi; areã; hai̯; mabi̯
+14.22	slow	miŋe; siniɲo; are
+14.23	hasten, hurry	
+14.24	retard, delay	
+14.25	begin, beginning	oko ramo
+14.252	last, endure	
+14.26	end (temporal)	
+14.27	finish	ewa; ua; wi̯; tawi̯
+14.28	cease, stop	tiba; ti i̯; hoo
+14.29	ready	hai̯
+14.31	always	bei̯
+14.32	often	
+14.33	sometimes	
+14.331	soon	
+14.332	long-time (for a)	
+14.34	never	bei̯
+14.35	again	-be; hi̯; no
+14.41	day	ɲaašĩ̯; tena
+14.42	night	isa; itonaru
+14.43	dawn	ɲaašɨ̃
+14.44	morning	
+14.45	noon, midday	
+14.451	afternoon	si̯maɲi
+14.46	evening	
+14.47	today	namo
+14.48	tomorrow	
+14.481	day-after-tomorrow	
+14.49	yesterday	kurɨ
+14.491	day-before-yesterday	
+14.51	hour	
+14.53	clock, timepiece	tena reasa
+14.61	week	
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	ɲasi
+14.73	year	tena
+14.74	winter	
+14.75	spring	
+14.76	summer	
+14.77	autumn	
+14.78	season	
+15.21	smell (vb intrans)	setõ
+15.212	sniff	
+15.22	smell (vb trans)	
+15.25	fragrant, good smelling	esi̯mu turã
+15.26	stinking, bad smelling	esi̯mu; ene
+15.31	taste	
+15.35	sweet	eči̯ei̯
+15.36	salty	erei; emike hi
+15.37	bitter	ero
+15.38	acid, sour	ereɨ
+15.39	brackish	
+15.41	hear	ɲanu; eisakʷa
+15.42	listen	ɲanu; ɲiisakʸa
+15.44	sound, noise	eu; eiamu; eri̯eu; ehuu
+15.45	loud	
+15.46	quiet, silence	eya; eči̯ã ŋoi
+15.51	see	mae (erese); tea
+15.52	look, look at	
+15.55	show	saaŋukia; teakukia; ɲekʷa
+15.56	shine	seni
+15.57	bright	eniniɲa; ereni
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	
+15.64	white	ešĩ
+15.65	black	ero'nei̯; sone; eišõ
+15.66	red	ei̯reĩ̯
+15.67	blue	erubi
+15.68	green	erubi
+15.69	yellow	ečo; eču
+15.71	touch	
+15.712	pinch	i̯šã
+15.72	feel	i̯kʷa
+15.74	hard	eãtã; eači; ei̯ma
+15.75	soft	etočei
+15.76	rough	eraašɨ̃
+15.77	smooth	
+15.78	sharp	erĩ̯me
+15.79	blunt, dull	
+15.81	heavy	eusi
+15.82	light (in weight)	
+15.83	wet, damp	eya; emia hi
+15.84	dry	ei̯ru; esi̯i̯; etuba; eči̯mama
+15.85	hot	maku; ɲue; iaku
+15.851	warm	eribebe
+15.86	cold	serui
+15.87	clean	
+15.88	dirty, soiled	etubi; e'kia; eronei̯
+15.89	wrinkled	eɨrura; eruba ɨrura
+16.11	soul, spirit	eaĩ; eaiŋe; ečiroke
+16.15	surprised, astonished	mua
+16.18	good fortune, luck	eroone; ha
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	eya
+16.25	laugh	i̯kʸa ~ hi̯kʸa
+16.251	smile	
+16.26	play	
+16.27	love	ebi; ɲosei̯; ɲesekʷa
+16.29	kiss	siite
+16.3	embrace	
+16.31	pain	masi
+16.32	grief, sorrow, sadness	eyayã; eya eã
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	
+16.37	cry, weep	ɲeseo
+16.38	tear (noun)	eresa-ri
+16.39	groan	
+16.41	hate	ukʷãyã
+16.42	anger	
+16.44	envy, jealousy	momae ~ mumae
+16.45	shame (noun)	ei̯reĩ̯
+16.48	proud	
+16.51	dare	
+16.52	brave	ei̯rãtã
+16.53	fear, fright	esikiče
+16.54	danger	
+16.62	desire, want	ɲosei̯; ebi
+16.622	choose	
+16.63	hope	
+16.65	faithful	
+16.66	true	i̯čoi̯ɲo eã; ei̯ete
+16.67	lie, tell lies	
+16.68	deceit	
+16.69	forgive	
+16.71	good	eturã
+16.72	bad	
+16.73	right, correct	
+16.74	wrong	
+16.76	fault	keraberã
+16.77	mistake, error	
+16.78	blame	
+16.79	praise	
+16.81	beautiful	eturã
+16.82	ugly	ei̯kʷã
+16.83	greedy	
+16.84	clever	
+17.11	mind	
+17.13	think (= reflect)	nua
+17.14	think (= be of the opinion)	
+17.15	believe	i̯kʷa
+17.16	understand	i̯kʷa
+17.17	know	i̯kʷa
+17.171	guess	
+17.172	imitate	
+17.18	seem	ɲekʷa
+17.19	idea, notion	
+17.21	wise	earakʷa; eakiatu
+17.22	foolish, stupid	earakʷayã
+17.23	insane, crazy	
+17.24	learn	ɲɨmaakiatu; ɲɨmaarakʷa
+17.242	study	ɲi̯maakiatu
+17.25	teach	teakukʸa; maakʸatu
+17.26	pupil	
+17.27	teacher	emaakiatusa
+17.28	school	
+17.31	remember	nua; muma; ɲumuma
+17.32	forget	tesarei̯
+17.34	clear, plain	
+17.35	obscure	
+17.36	secret	
+17.37	sure, certain	ae beɨ
+17.38	explain	
+17.41	intention, purpose	
+17.42	cause	
+17.43	doubt	
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	
+17.46	easy	etočei
+17.47	difficult	eãtã; ekʸato kutiã
+17.48	try, attempt	saã
+17.49	way, manner	
+17.51	and	
+17.52	because	ɲebe; tare
+17.53	if	mose; moi̯
+17.54	or	
+17.55	yes, affirmative	ae
+17.56	no, negative	tei; eã
+17.61	how?	maɲi̯
+17.62	how many?	
+17.63	how much?	maɲa
+17.64	what?	mae; ma
+17.65	when?	manose
+17.66	where?	mã; mãŋe
+17.67	which?	ma
+17.68	who?	aba
+17.69	why?	maerã
+18.11	voice	ečeẽ
+18.12	sing	ɨraseɨ
+18.13	shout, cry out	tasẽ
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	itoɲee; si̯i̯kei̯
+18.18	shriek, screech	
+18.19	howl	
+18.21	speak, talk	ɲee
+18.211	stutter, stammer	
+18.22	say	i̯; hue
+18.221	tell story	senei
+18.222	speech (make a)	
+18.23	silent (be)	ki̯ri̯ri̯
+18.24	language	ečeẽ
+18.26	word	ečeeŋuia
+18.28	name	ere
+18.31	ask (question, inquire)	
+18.32	answer	ečeẽ ni̯bi̯šorõ; si̯bi̯šorõ
+18.33	admit, confess	i̯kʷa
+18.34	deny	
+18.35	ask, request	ase ase i̯; ɲi̯mee
+18.36	promise	
+18.37	refuse	tẽã; isiteã
+18.38	forbid	
+18.39	rebuke, scold	
+18.41	call (=summon)	
+18.42	call (=name)	
+18.43	announce	senei
+18.44	threaten	
+18.45	boast	
+18.51	write	mesa
+18.52	read	
+18.56	paper	
+18.57	pen	
+18.61	book	
+18.67	poet	
+18.71	flute	ečui̯hui̯sa
+18.72	drum	
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	
+19.12	one's native country	
+19.15	city, town	suča kʷasu
+19.16	village	suča kʷasu
+19.17	boundary	
+19.21	people (populace)	mia
+19.23	tribe, clan	
+19.24	chief, chieftain	ererekʷa
+19.25	staff, walking stick	
+19.31	rule, govern	
+19.32	king, ruler	
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	enoŋe; eresena
+19.41	master	ererekʷa
+19.42	slave	
+19.43	servant	erima
+19.44	freeman	
+19.45	command, order	
+19.46	obey	aba čeẽ mumayã
+19.47	let, permit	
+19.51	friend, companion	ekʸato; eresena
+19.52	enemy	
+19.54	neighbor	ečabena; ehii hena
+19.55	stranger	
+19.56	guest	
+19.57	host	
+19.58	help, aid	
+19.59	hinder, prevent	
+19.61	custom	
+19.62	strife, quarrel	
+19.63	conspiracy, plot	
+19.65	meet	
+19.72	prostitute	
+20.11	fight (vb)	ukʷa ɲi̯ese; ɲi̯maaɲa aɲa
+20.13	war, battle	
+20.14	peace	siki turã; eya
+20.15	army	
+20.17	soldier	
+20.21	weapons, arms	[ama]
+20.22	club	
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	ŋiraa; eraa
+20.25	arrow	eruu; uu; uuba
+20.26	spear	
+20.27	sword	
+20.28	gun, cannon	[ama]; eruu; uu
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	
+20.35	fortress	
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	si̯ra maba
+20.52	fishhook	sɨra mabasa
+20.53	fishing line	
+20.54	fishnet	
+20.55	fish trap	ekiši̯ma; kiši̯ma
+20.56	bait	
+20.61	hunt	ŋata ŋata; mae rekia
+20.62	shoot	ɲio
+20.63	miss (target)	
+20.64	trap (noun)	mae isisa
+20.65	trap (vb)	
+21.11	law	
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	
+21.24	swear	
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	mukʸačã; isi; sirõ; moo
+21.52	thief	mae
+22.11	religion	
+22.12	God	
+22.13	temple, church	
+22.14	altar	
+22.15	sacrifice, offering	
+22.16	worship	
+22.17	pray	
+22.18	priest	
+22.19	holy, sacred	maei̯ae
+22.22	preach	
+22.23	bless	
+22.24	curse	
+22.26	fast (vb)	
+22.31	heaven	
+22.32	hell	
+22.35	demon (evil spirit)	aba čekʷayã i̯kʷã
+22.37	idol	
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	
+22.44	fairy, elf	
+22.45	ghost, phantom	
+22.47	omen, portent	

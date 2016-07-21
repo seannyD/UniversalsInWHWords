@@ -1,0 +1,1311 @@
+entry_id	trans_english	Negerhollands_Phonemic
+1.1	world	wərən
+1.21	earth, land	adu
+1.212	earth=ground, soil	gron
+1.213	dust	
+1.214	mud	baba ~ boba ~ buba
+1.215	sand	san
+1.22	mountain, hill	bɛrgi ~ bergə ~ berge
+1.222	cliff, precipice	grot sten
+1.23	plain, field	saban; gras-pis
+1.24	valley	faləi
+1.25	island	
+1.26	mainland	
+1.27	shore	
+1.28	cave	
+1.31	water	watu
+1.32	sea	se ~ ze
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	
+1.329	ocean	se ~ ze ~ zɛ
+1.33	lake	
+1.34	gulf, bay	bai
+1.341	lagoon	
+1.342	reef	klip
+1.343	headland, point	
+1.35	wave	strom
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	riva
+1.362	whirlpool	
+1.37	spring, well	pit ~ pɛt
+1.38	swamp	swampi
+1.39	waterfall	
+1.41	woods, forest	bus
+1.42	tree (cf 08.600)	bom
+1.43	wood	houtu ~ hautu
+1.44	stone, rock	sten
+1.45	earthquake	ot-kwek
+1.51	sky	hɛwun ~ hewun ~ himul ~ himun ~ hiwun
+1.52	sun	son
+1.53	moon	man
+1.54	star	stɛre
+1.55	lightning	wilik ~ wɛrlik
+1.56	thunder	tondu ~ dondu
+1.57	lightning (as striking)	wilik ~ wɛrlik
+1.58	storm	
+1.59	rainbow	
+1.61	light (noun)	lɛ
+1.62	darkness	duŋku
+1.63	shade, shadow	
+1.64	dew	dou
+1.71	air	
+1.72	wind	win ~ wɛn
+1.73	cloud	wolk
+1.74	fog	
+1.75	rain (noun)	rɛgən ~ regon ~ regun
+1.76	snow (noun)	
+1.77	ice	
+1.78	weather	
+1.81	fire	fi
+1.82	flame (noun)	fi
+1.83	smoke (noun)	smok
+1.84	ashes	(h)ašiši
+1.841	embers	
+1.851	burn (vb trans)	bran
+1.852	burn (vb intrans)	bran
+1.86	light, kindle, ignite	
+1.861	extinguish	it
+1.87	match (noun)	lusifer
+1.88	firewood	houtu
+1.89	charcoal	kol
+2.1	person, human being	folək
+2.21	man (vs. woman)	nom; man
+2.22	woman	frau
+2.23	male	man-
+2.24	female	frou-
+2.25	boy	yuŋ-kin
+2.251	young man (adolescent)	yuŋ-(man) ~ yoŋ
+2.26	girl	mɛnši
+2.261	young woman (adolescent)	mɛnši
+2.27	child	kin
+2.28	infant, baby	kin
+2.31	husband	man; (hou)-nom
+2.32	wife	frou; wif
+2.33	marry	trou
+2.34	marriage, wedding	trou
+2.341	divorce	
+2.35	father	fadə; popa ~ pupa; ta(i) ~ tita
+2.36	mother	ma(ma) ~ muma
+2.37	parents	
+2.38	married man	
+2.39	married woman	frou
+2.41	son	so
+2.42	daughter	mɛnši
+2.43	offspring (son or daughter)	kin
+2.44	brother	bru ~ buči
+2.444	older brother	
+2.445	younger brother	
+2.45	sister	šiši
+2.454	older sister	
+2.455	younger sister	
+2.456	sibling	
+2.458	twins	
+2.46	grandfather	gro(t)-pupa; gro-ta
+2.461	old man	
+2.47	grandmother	grani; grot-muma ~ grot-ma; gaŋ-gaŋ
+2.471	old woman	
+2.48	grandson	grot-kin
+2.49	granddaughter	grot-kin
+2.51	uncle	nom
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	mui
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	
+2.54	niece	
+2.55	cousin	gizin ~ kizin ~ kuzin
+2.56	ancestors	
+2.57	descendants	
+2.61	father-in-law (of a man)	skon-pupa; skon-ta
+2.611	father-in-law (of a woman)	skon-pupa; skon-ta
+2.62	mother-in-law (of a man)	skon-muma ~ skon-ma (?)
+2.621	mother-in-law (of a woman)	skon-muma ~ skon-ma (?)
+2.63	son-in-law (of a man)	skon-kin
+2.631	son-in-law (of a woman)	skon-kin
+2.64	daughter-in-law (of a man)	skon-kin (?)
+2.641	daughter-in-law (of a woman)	skon-kin (?)
+2.71	stepfather	dop-ta (?)
+2.72	stepmother	dop-ma
+2.73	stepson	dop-kin (?)
+2.74	stepdaughter	dop-kin (?)
+2.75	orphan	
+2.76	widow	
+2.77	widower	
+2.81	relatives, kinsmen	
+2.82	family	
+2.91	I	mi
+2.92	you (singular)	yu
+2.93	he/she/it	(h)am ~ (h)an; di
+2.94	we	ons
+2.941	we (inclusive)	--
+2.942	we (exclusive)	--
+2.95	you (plural)	yɛn ~ yin(i)
+2.96	they	sa ~ sɛ(l) ~ sɛn(d)r ~ si(n) ~ sini ~ sinr ~ sinu ~ zinə
+3.11	animal	bes
+3.12	male (adj)	man-
+3.13	female (adj)	frou-
+3.15	livestock	
+3.16	pasture	savan
+3.18	herdsman	wak-man
+3.19	stable, stall	stal
+3.2	cattle (bovine)	hani-bes
+3.21	bull	bul
+3.22	ox	
+3.23	cow	kui
+3.24	calf	ka(l)fi
+3.25	sheep	skap
+3.26	ram	(man-?)skap
+3.28	ewe	(frou-?)skap
+3.29	lamb	
+3.32	boar	be-fɛrgi
+3.34	sow	sik-fɛrgi
+3.35	pig	fɛrgi ~ fɛrki
+3.36	goat	kabrita
+3.37	he-goat	kabrita-bok
+3.38	kid	
+3.41	horse (equine)	kabai
+3.42	stallion	hɛŋgəs
+3.44	mare	meri
+3.45	foal, colt	
+3.46	ass, donkey	aksl; noli
+3.47	mule	burika ~ buriko
+3.5	fowl	hondu ~ hundu
+3.52	cock, rooster	hundu-han
+3.54	hen	hondu ~ hundu
+3.55	chicken	kikintši
+3.56	goose	gans
+3.57	duck	patpat ~ pačipači
+3.58	nest	nɛs
+3.581	bird	fegəl
+3.582	seagull	
+3.583	heron	
+3.584	eagle	
+3.585	hawk	kikin-dif
+3.586	vulture	
+3.591	bat	
+3.592	parrot	parat; papəgoi
+3.593	crow	
+3.594	dove	difi
+3.596	owl	
+3.61	dog	hun
+3.614	rabbit	
+3.62	cat	puši
+3.622	opossum	
+3.63	mouse, rat	miši ~ muši; roto(n)
+3.65	fish	fɛs
+3.652	fin (dorsal)	
+3.653	fishscale	(fɛs-)skɛl
+3.654	gill	
+3.655	shell	
+3.661	shark	hai
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	
+3.665	freshwater eel	
+3.71	wolf	wuluwulk
+3.72	lion	lion
+3.73	bear	
+3.74	fox	
+3.75	deer	
+3.76	monkey	babun; ǰako
+3.77	elephant	
+3.78	camel	
+3.81	insect	
+3.811	louse	lus
+3.812	nit (louse egg)	
+3.813	flea	floiu
+3.814	centipede	
+3.815	scorpion	skepiun
+3.816	cockroach	kak(a)laka
+3.817	ant	brambi
+3.818	spider	
+3.819	spider web	
+3.82	bee	
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	masbondo
+3.83	fly	fligi
+3.831	sandfly (midge), gnat	mampi ~ mumpi
+3.832	mosquito	moskit
+3.84	worm	wurum
+3.85	snake	slaŋ
+3.91	firefly	
+3.92	butterfly	
+3.93	grasshopper	
+3.94	snail	snal
+3.95	frog	
+3.96	lizard	kakates
+3.97	crocodile, alligator	kokro
+3.98	turtle	skilpad ~ skelbat ~ skelpan; marəkui
+4.11	body	lif
+4.12	skin, hide	lif
+4.13	flesh	flɛs ~ flɛis
+4.14	hair (head)	ha(r)
+4.142	beard	ba(r)d
+4.144	body hair	ha(r)
+4.145	pubic hair	ha(r)
+4.146	dandruff	
+4.15	blood	blut
+4.151	vein, artery	
+4.16	bone	ben
+4.162	rib	ribi
+4.17	horn	horən
+4.18	tail	stɛt ~ stet
+4.19	back	rigi ~ rɛgɛ
+4.191	spine	rigi-ben
+4.2	head	kop
+4.201	side of head, temple	
+4.202	skull	kop
+4.203	brain	
+4.204	face	gɛsɛ(g) ~ gusə
+4.205	forehead	kop
+4.207	jaw	kak
+4.208	cheek	kak
+4.209	chin	kak
+4.21	eye	hogo
+4.212	eyebrow	hogo-brai
+4.213	eyelid	
+4.214	eyelash	
+4.215	blink	
+4.22	ear	ho
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	nas ~ nɛs
+4.231	nostril	nas-i-gat
+4.232	mucus (nasal)	nas-i-slim
+4.24	mouth	mon ~ mun
+4.241	beak	mon ~ mun
+4.25	lip	mon ~ mun (?)
+4.26	tongue	toŋ
+4.27	tooth	tan
+4.271	gums	
+4.272	molartooth	kau-tat
+4.28	neck	nɛk
+4.281	nape of neck	nɛk
+4.29	throat	gorogoro; kel
+4.3	shoulder	skou
+4.301	shoulderblade	skou-ben
+4.302	collarbone	
+4.31	arm	han; ɛrum
+4.312	armpit	
+4.32	elbow	han
+4.321	wrist	han
+4.33	hand	han
+4.331	palm of hand	han
+4.34	finger	fiŋgu; han
+4.342	thumb	tum
+4.344	fingernail	(fiŋgu-)nagəl
+4.345	claw	nal (?)
+4.35	leg	futu
+4.351	thigh	bil ~ bɛl
+4.352	calf of leg	futu
+4.36	knee	kini; futu
+4.37	foot	futu
+4.371	ankle	futu
+4.372	heel	futu; hil
+4.374	footprint	
+4.38	toe	tɛtsi ~ təči
+4.392	wing	flɛgn
+4.393	feather	plim
+4.4	chest	bos
+4.41	breast (of woman)	bos
+4.412	nipple, teat	titi ~ tɛtɛ
+4.42	udder	titi ~ tɛtɛ
+4.43	navel	nabl
+4.44	heart	ha(r)t
+4.441	lung	
+4.45	liver	
+4.451	kidney	
+4.452	spleen	
+4.46	stomach	bik
+4.461	intestines, guts	darm ~ dɛrəm
+4.462	waist	west
+4.463	hip	
+4.464	buttocks	bil ~ bɛl
+4.47	womb	bik
+4.49	testicle	klut (?); sten (?)
+4.492	penis	man-ple
+4.51	breathe, breath	asɛm(trɛk) ~ azɛm; wɛn ~ win
+4.52	yawn, gape	win; gap
+4.521	hiccough	
+4.53	cough	koho
+4.54	sneeze	nis
+4.55	perspire	swet
+4.56	spit	
+4.57	vomit	
+4.58	bite	bit
+4.59	lick	lik ~ lɛk
+4.591	dribble	
+4.61	sleep	slap
+4.612	snore	
+4.62	dream	drom
+4.63	wake up	waku
+4.64	break wind	
+4.65	urinate	pipi
+4.66	defecate	kaka ~ koka
+4.67	have sexual intercourse	kankani
+4.68	shiver	
+4.69	bathe	
+4.71	beget (of father)	
+4.72	born (to be)	gibo ~ gɛborɛn
+4.73	pregnant	
+4.732	conceive	
+4.74	live, living, life	lif ~ lɛf
+4.75	die, dead	dot ~ dod
+4.751	drowned	droŋ
+4.76	kill	mata
+4.77	corpse	dot
+4.78	bury (the dead)	graf
+4.79	grave, tomb	graf
+4.81	strong, mighty, powerful	stɛrək
+4.82	weak	swak
+4.83	well, health	frai
+4.84	sick, sickness	sik
+4.841	fever	
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	
+4.852	bruise	
+4.853	swelling	swek
+4.854	itch	
+4.855	blister	
+4.856	boil (noun)	
+4.857	pus	
+4.858	scar	
+4.86	cure, heal	mɛn
+4.87	physician	doktu
+4.88	medicine, drug	tisam; progaši
+4.89	poison	
+4.91	tired, weary	mu
+4.912	rest	rɛs
+4.92	lazy	loi
+4.93	bald	
+4.94	lame	
+4.95	deaf	
+4.96	mute	
+4.97	blind	blɛn ~ blin ~ blain
+4.98	intoxicated	druŋ ~ druŋk
+4.99	naked, bare	nakun
+5.11	eat	yit
+5.12	food	yit
+5.121	cooked	kok
+5.122	raw	rau
+5.123	ripe	rip
+5.124	green, unripe	grun
+5.125	rotten	frot
+5.13	drink	driŋ ~ driŋg ~ driŋk
+5.14	hunger	hungu
+5.141	famine	
+5.15	thirst	dos
+5.16	suck	tɛtɛ
+5.18	chew	kou
+5.181	swallow	sorop
+5.19	choke	čok
+5.21	cook	kok
+5.22	boil (vb)	brou
+5.23	roast, fry	bran
+5.24	bake	bak
+5.25	oven	obən ~ obn ~ ovn ~ ovən
+5.26	pot, cooking vessel	pot
+5.27	kettle	ketəl ~ kitl
+5.28	pan	pan
+5.31	dish	bak
+5.32	plate	bak
+5.33	bowl	bak; komenči
+5.34	pitcher, jug	
+5.35	cup, drinking vessel	kominči ~ kaninči; kopi
+5.36	saucer	bak
+5.37	spoon	lepu
+5.38	knife	mɛs; nɛf ~ nef
+5.39	fork	forok
+5.391	tongs	
+5.41	meal (a)	frokos(t)
+5.42	breakfast	frokos(t)
+5.43	lunch	
+5.44	dinner	
+5.45	supper	
+5.46	peel	
+5.47	sieve, strain	
+5.48	scrape	krau
+5.49	stir, mix	
+5.51	bread	brot
+5.53	dough	
+5.54	knead	
+5.55	meal, flour	mil ~ mel; fanya ~ faria ~ farnya
+5.56	crush, grind	stam; slip
+5.57	mill	mula
+5.58	mortar	monti (?)
+5.59	pestle	monti-stok
+5.61	meat	flɛis ~ fles
+5.63	sausage	
+5.64	soup, broth	səp
+5.65	vegetables	
+5.66	bean	bonči
+5.7	potato	bata(ta) ~ batita
+5.71	fruit	
+5.712	bunch	
+5.75	fig	
+5.76	grape	
+5.77	nut	
+5.78	olive	
+5.79	oil	oli
+5.791	grease, fat	fɛt
+5.81	salt	saut(u)
+5.82	pepper	pɛpu
+5.821	chili pepper	
+5.84	honey	
+5.85	sugar	suku ~ suko
+5.86	milk (noun)	mɛlək ~ moluk
+5.87	milk (vb)	mɛlək
+5.88	cheese	kas
+5.89	butter	butu ~ botər
+5.9	beverage, drink	driŋ
+5.91	mead	
+5.92	wine	win
+5.93	beer	biɛr
+5.94	fermented drink	
+5.97	egg	eyu
+5.971	egg yolk	
+6.11	put on (clothes)	klet
+6.12	clothing, clothes	duku
+6.13	tailor	
+6.21	cloth	duku
+6.22	wool	
+6.23	linen, flax	gaimas
+6.24	cotton	katun
+6.25	silk	se (?)
+6.27	felt	
+6.28	fur	ha
+6.29	leather	fɛl
+6.31	spin	
+6.32	spindle	
+6.33	weave	ma
+6.34	loom	
+6.35	sew	nai
+6.36	needle	nal
+6.37	awl	
+6.38	thread	garən
+6.39	dye	
+6.41	cloak	
+6.411	poncho	
+6.42	woman's dress	kapoto ~ kaputo
+6.43	coat	kot
+6.44	shirt	hɛmɛtɛ
+6.45	collar	
+6.46	skirt	saya
+6.461	grass-skirt	
+6.48	trousers	bruk
+6.49	stocking, sock	kausn
+6.51	shoe	skun ~ skon
+6.52	boot	
+6.54	shoemaker, cobbler	skun-mɛka
+6.55	hat, cap	hut; karpus
+6.57	belt, girdle	bɛlt
+6.58	glove	han-sko
+6.59	veil	
+6.61	pocket	sak (?)
+6.62	button	
+6.63	pin	spɛl
+6.71	ornament, adornment	
+6.72	jewel	
+6.73	ring (for finger)	riŋ
+6.74	bracelet	braslɛt
+6.75	necklace	
+6.76	bead	kalela ~ kalila
+6.77	earring	oraŋu ~ raŋgu
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	(sak-)nɛstuk ~ nestuk ~ nistuk
+6.82	towel	
+6.91	comb	kam
+6.92	brush	bosl
+6.921	braid	plat
+6.93	razor	
+6.94	ointment	
+6.95	soap	sɛp
+6.96	mirror	spigəl; skifi
+7.11	dwell, live	wun ~ won
+7.12	house	hus
+7.13	hut	hus
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	
+7.16	men's house	
+7.17	cookhouse	kambus
+7.18	meeting house	
+7.21	room	kambu
+7.22	door, gate	do(r)
+7.221	doorpost, jamb	do-pos (?)
+7.23	lock (noun)	slot (?)
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	wɛnstu ~ vɛnstu ~ vɛnstər
+7.26	floor	flu
+7.27	wall	
+7.31	fireplace	fi-ple
+7.32	stove	fi-ple; kol-pat
+7.33	chimney	
+7.37	ladder	trap
+7.42	bed	bɛri
+7.421	pillow	kizinči(n)
+7.422	blanket	duku ~ dugu
+7.43	chair	stul
+7.44	table	taful ~ taul ~ tawul ~ tavul
+7.45	lamp, torch	lamp(ara)
+7.46	candle	kes ~ keəs
+7.47	shelf	
+7.48	trough	
+7.51	roof	
+7.52	thatch	
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	pos
+7.57	board	plaŋ
+7.58	arch	
+7.61	mason	
+7.62	brick	kliŋkə
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	fama
+8.12	field (for cultivation)	gron; kamina
+8.13	garden	hofi
+8.15	cultivate, till	guri
+8.16	fence	hɛkən
+8.17	ditch	dič
+8.21	plow	
+8.212	furrow	
+8.22	dig	tre
+8.23	spade	
+8.24	shovel	
+8.25	hoe	hou ~ hau
+8.26	fork	forok
+8.27	rake	
+8.31	sow	plan(t)
+8.311	seed	sat
+8.32	mow, reap	
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	
+8.42	grain (barley, oats etc)	
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	mais
+8.48	rice	ris
+8.51	grass	gras; bes-yet ~ bešət
+8.52	hay	wawara
+8.53	plant (noun)	plan(t)
+8.531	plant (vb)	plan(t)
+8.54	root	woltə
+8.55	branch	tak
+8.56	leaf	bla
+8.57	flower	blomɛnči ~ bluminstyi
+8.6	tree	bom
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	tou
+8.68	tobacco	tubak
+8.69	smoke (tobacco)	smok
+8.691	pipe	pipa
+8.72	tree stump	(s)tum
+8.73	tree trunk	
+8.74	forked branch	
+8.75	bark	lif fa di bom
+8.76	sap	
+8.81	palm tree	
+8.82	coconut	kokonət
+8.83	citrus fruit	lamunči
+8.84	banana tree	bakuba; bakuba-bom
+8.85	banyan	
+8.91	sweet potato	sut-batita
+8.912	yam	yamos ~ yamus
+8.92	tapioca, manioc, cassava	kasau; tanya
+8.93	gourd	sot(go); gubi
+8.931	pumpkin, squash	pampun
+8.94	bamboo	
+8.941	sugar cane	suku(-stok)
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	
+9.11	do, make	du; ma
+9.12	work	skop; wɛrək ~ wɛruk ~ wark
+9.14	bend	bok
+9.15	fold	fau
+9.16	tie, bind	bɛn ~ bin(t); las
+9.161	untie	los
+9.18	chain	kɛtiŋ
+9.19	rope, cord	tau
+9.192	knot (noun)	kanop ~ konop ~ konobə
+9.21	strike (hit, beat)	sla; stam
+9.211	pound with fist	stam
+9.22	cut	kap; sla; sni ~ šini; swoip
+9.221	cut down	tumbl
+9.222	chop, hew	kap; sla
+9.223	stab	stɛk
+9.23	knife	(kap-)mɛs; nɛf ~ nef
+9.24	scissors, shears	skɛk
+9.25	ax	aks
+9.251	adze	
+9.26	break	bre(k)
+9.261	broken	bre(k)
+9.27	split	bos
+9.28	tear	ske(r) ~ skɛ(r)
+9.29	flay, skin	fɛl
+9.31	rub, wipe	frɛf ~ frif; fig ~ fik; krou
+9.32	stretch	
+9.33	pull	dra
+9.34	spread out	
+9.341	hang up	haŋ
+9.342	press	strik
+9.343	squeeze, wring	friŋ
+9.35	pour	
+9.36	wash	was ~ waš
+9.37	sweep	fik ~ fig
+9.38	broom	bezum
+9.422	tool	
+9.43	carpenter	
+9.44	build	bou
+9.46	bore	
+9.461	hollow out	
+9.48	saw	
+9.49	hammer	hambu
+9.5	nail	nagəl
+9.56	glue	
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	
+9.64	gold	gau(t)
+9.65	silver	səlvu ~ zəlva
+9.66	copper, bronze	
+9.67	iron	izu
+9.68	lead (noun)	lot
+9.69	tin, tinplate	dɛn
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	baba ~ boba ~ buba
+9.74	glass	glas
+9.75	weave, plait	plat
+9.76	basket	makut(u)
+9.77	mat	mat
+9.771	rug	
+9.78	netbag	
+9.79	fan (noun)	
+9.791	fan (vb)	
+9.81	carve	
+9.82	sculptor	
+9.83	statue	
+9.84	chisel	
+9.88	paint (noun)	
+9.89	paint (vb)	
+10.11	move	
+10.12	turn over	drai obu
+10.13	turn around	drai
+10.14	wind, wrap	las; wul up
+10.15	roll	rol
+10.16	drop (vb)	drɛp
+10.17	twist	
+10.21	rise	hopo
+10.22	raise, lift	ris
+10.23	fall	drɛp; fal; tumbl
+10.24	drip	
+10.25	throw	goi ~ gui
+10.252	catch (ball)	faŋ; fat
+10.26	shake	šikl
+10.32	flow	kuri
+10.33	sink	sak
+10.34	float	
+10.35	swim	zwim ~ zwɛm
+10.351	dive	dikl
+10.352	splash	
+10.36	sail (vb)	zɛil(ə) ~ zel
+10.37	fly (vb)	flig
+10.38	blow	blas; wai
+10.41	creep, crawl	krub
+10.412	kneel	kini
+10.413	crouch	
+10.42	slide, slip	
+10.43	jump, leap	ǰum(b) ~ ǰomp; lɛp
+10.431	kick	skop
+10.44	dance	dans
+10.45	walk	wandu; rambl
+10.451	limp	
+10.46	run	kuri
+10.47	go	lo
+10.471	go up	lo abo(bo)
+10.472	climb	klim
+10.473	go down	sak ne
+10.474	go out	lo abiti
+10.48	come	ko
+10.481	come back	ko weran
+10.49	go away, depart	lo we
+10.491	disappear	
+10.51	flee	
+10.52	follow	fol(o)k
+10.53	pursue	ǰak
+10.55	reach, arrive	rak
+10.56	approach	ko kan
+10.57	enter	ko abini
+10.61	carry (bear)	dra
+10.612	carry-in-hand	dra
+10.613	carry-on-shoulder	dra
+10.614	carry-on-head	dra
+10.615	carry-underarm	dra
+10.62	bring	briŋ
+10.63	send	sti
+10.64	lead (vb)	
+10.65	drive	sti
+10.66	ride	ri
+10.67	push, shove	pok; pus ~ puz
+10.71	road	pat
+10.72	path	pat
+10.74	bridge	
+10.75	carriage, wagon, cart	kaloši ~karoši(n); petant
+10.76	wheel	wil
+10.77	axle	
+10.78	yoke	
+10.81	ship	skɛp
+10.83	boat	bot
+10.831	canoe	kano ~ kanu
+10.832	outrigger	
+10.84	raft	
+10.85	oar	rui
+10.851	paddle (noun)	
+10.852	row (vb)	rim
+10.86	rudder	
+10.87	mast	stok
+10.88	sail (noun)	zɛil-duk
+10.89	anchor	hɛŋka ~ həŋku
+10.91	harbor, port	
+10.92	land (vb)	
+11.11	have	(h)a
+11.12	own, possess	(h)a
+11.13	take	ne(m) ~ nen
+11.14	seize, grasp	fas; fat
+11.15	hold	fas
+11.16	get, obtain	kri(g)
+11.17	keep, retain	hou; bwa
+11.18	thing	gut
+11.21	give	gi
+11.22	give back	gi bak
+11.24	preserve, look after	hou; paso
+11.25	save, rescue	sorək
+11.27	destroy	ru op
+11.28	harm, injure, damage	
+11.31	seek, look for	suk
+11.32	find	fɛn ~ fin
+11.33	lose	folo
+11.34	release, let go	fri
+11.43	money	stibo ~ stibu
+11.44	coin	
+11.51	rich	
+11.52	poor	pobu ~ pubu
+11.53	beggar	bedl-man
+11.54	avaricious, stingy	glos; groma; rebən
+11.61	lend	len ~ lin
+11.62	borrow	len ~ lin
+11.63	owe	
+11.64	debt	
+11.65	pay (vb)	bətal ~ bital
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	bətal ~ bital
+11.79	earn	
+11.81	buy	kop
+11.82	sell	fərko ~ floko ~ froko ~ fruko
+11.83	trade, barter	rɛil
+11.84	merchant	
+11.85	market (place)	frufruko
+11.86	store, shop	
+11.87	price	
+11.88	dear (costly, expensive)	
+11.89	cheap	
+11.91	share (distribute)	pati
+11.92	weigh	met
+12.1	after	ast(ə)r ~ (n)astu
+12.11	behind	ast(ə)r ~ (n)astu
+12.2	beside	təsən
+12.3	down, below	af; doŋ; ne
+12.4	before	(a-)fo(r) ~ fu ~ na-fo
+12.41	front	(a-)fo(r) ~ fu ~ na-fo
+12.5	inside, in	(na-)biniši
+12.6	outside	a-bidi ~ a-bit(i) ~ (na-)bitiši; it
+12.7	under	(a)mole; (na-)undu ~ ondu
+12.8	up, above	abo(bo) ~ aobu ~ bo(bo) ~ bono ~ bu ~ (na-)bo(no) ~ obu; op
+12.11	place	pla(t)s; plɛ(k)
+12.12	put	du; lɛi; stik
+12.13	sit	sɛt ~ sit
+12.14	lie down	lɛi
+12.15	stand	(s)tan
+12.16	remain, stay	bli; da ~ lasta(n) ~ (li)sta ~ ta
+12.17	remains, left overs	
+12.21	collect, gather	rapo; pɛk ~ pik
+12.212	pick up	rapo
+12.213	pile up	
+12.22	join, unite	
+12.23	separate	
+12.232	divide	pati
+12.24	open	hopo
+12.25	shut, close	tu
+12.26	cover	tu
+12.27	hide, conceal	stiko(i) ~ stikui ~ stokui
+12.31	high	hok
+12.32	low	ne
+12.33	top	
+12.34	bottom	batum; mole-
+12.35	end	kaba; las
+12.352	pointed	
+12.353	edge	
+12.36	side	ši
+12.37	middle, center	mə(d)l ~ midi ~ midl
+12.41	right (side)	rɛči; ret ši
+12.42	left (side)	sliŋgu (-ši)
+12.43	near (adv)	tɛsən; (to)mɛs ~ tumɛs; kan
+12.44	far (adv)	fɛ(r) ~ fe
+12.45	east	ost
+12.46	west	
+12.47	north	not (?)
+12.48	south	sɛit
+12.53	grow	guri
+12.54	measure	mɛt
+12.541	span, fathom	fadam
+12.55	large, big	grot(o)
+12.56	small, little	klen ~ klɛn ~ klenši
+12.57	long	laŋ
+12.58	tall	hok
+12.59	short	ko(r)t
+12.61	wide, broad	bret
+12.62	narrow	nou
+12.63	thick (in dimension)	dik
+12.65	thin (in dimension)	din
+12.67	deep	dip
+12.68	shallow	
+12.71	flat	
+12.73	straight	tret
+12.74	crooked	krom
+12.75	hook	huk (?)
+12.76	corner	konu
+12.77	cross	
+12.78	square	skwe
+12.81	round	ron(t) ~ run
+12.82	circle	riŋ
+12.83	sphere, ball	bal
+12.84	line	lin
+12.85	hole	gat
+12.92	like, similar	glik ~ lɛik(i) ~ lik(i) ~ li
+12.93	change	drai
+13.0	zero, nothing	enten ~ intin ~ ɛntɛn
+13.1	one	en
+13.2	two	twe
+13.3	three	dri ~ tri
+13.4	four	fi
+13.5	five	fɛv ~ fɛif
+13.6	six	ses ~ sɛs
+13.7	seven	sewn
+13.8	eight	ak
+13.9	nine	negon
+13.10	ten	tin
+13.101	eleven	ɛlɛf ~ elef
+13.102	twelve	twalɛf
+13.103	fifteen	fitin ~ fetin
+13.104	twenty	twinti
+13.105	hundred	hunɛrt
+13.106	thousand	
+13.107	count	tɛl
+13.14	every, all	ekeren ~ ɛkɛrɛn; al(ga)
+13.15	much, many	fel; muči ~ muši
+13.16	more	me
+13.17	little (quantity), few	klɛn ~ klen ~ klenči
+13.18	enough	gənu(g) ~ gono
+13.181	some	som
+13.19	multitude, crowd	hop
+13.21	full	ful
+13.22	empty	slak
+13.23	part, piece	stɛk ~ (s)tɛki ~ stik(i)
+13.24	half	haləf
+13.33	alone, only	ale(n)
+13.34	first	ɛ(r)stə ~ ɛstu
+13.35	last	las(t) ~ lastə
+13.36	second	twedɛ
+13.37	pair	pa
+13.38	two times	twe-mal
+13.42	third	dridə
+13.44	three times	dri-mal
+14.11	time	tit
+14.12	age	
+14.13	new	niu
+14.14	young	yuŋ
+14.15	old	hou
+14.16	early	fru
+14.17	late	lat
+14.18	now	nu
+14.19	immediately	anstons
+14.21	swift, fast, quick	asɛ; gau; pošɛs
+14.22	slow	sudži ~ sutǰi
+14.23	hasten, hurry	lo gau
+14.24	retard, delay	ma lat
+14.25	begin, beginning	bigin
+14.252	last, endure	
+14.26	end (temporal)	kaba
+14.27	finish	kaba
+14.28	cease, stop	(s)top
+14.29	ready	kla
+14.31	always	al-tit
+14.32	often	dɛlo
+14.33	sometimes	
+14.331	soon	nu
+14.332	long-time (for a)	laŋ tit
+14.34	never	noit
+14.35	again	wɛran
+14.41	day	dak
+14.42	night	duŋku ~ duŋki
+14.43	dawn	
+14.44	morning	moruk
+14.45	noon, midday	twaləf i
+14.451	afternoon	astumɛnda ~ astumenda
+14.46	evening	duŋku ~ dunki; distu(it)
+14.47	today	fanda
+14.48	tomorrow	moruk
+14.481	day-after-tomorrow	dak astu morək
+14.49	yesterday	gɛstu ~ gistu
+14.491	day-before-yesterday	dak afo gistu
+14.51	hour	i
+14.53	clock, timepiece	holosi ~ holoči
+14.61	week	wek ~ wɛk
+14.62	Sunday	sunda
+14.63	Monday	manda
+14.64	Tuesday	disɛnda
+14.65	Wednesday	won(s)da
+14.66	Thursday	dondada
+14.67	Friday	frida
+14.68	Saturday	satada
+14.71	month	man
+14.73	year	ya(r)
+14.74	winter	
+14.75	spring	
+14.76	summer	
+14.77	autumn	
+14.78	season	
+15.21	smell (vb intrans)	rik
+15.212	sniff	
+15.22	smell (vb trans)	rik
+15.25	fragrant, good smelling	rik frai
+15.26	stinking, bad smelling	no rik frai; rik stin
+15.31	taste	pruf
+15.35	sweet	sut
+15.36	salty	saut(u)
+15.37	bitter	bitu
+15.38	acid, sour	
+15.39	brackish	
+15.41	hear	ho
+15.42	listen	listu
+15.44	sound, noise	gras
+15.45	loud	had
+15.46	quiet, silence	stil; sok
+15.51	see	ki
+15.52	look, look at	ki; waita
+15.55	show	wis
+15.56	shine	bliŋ; skin
+15.57	bright	
+15.61	color	kulɛ
+15.62	light (in color)	
+15.63	dark (in color)	swa(r)t
+15.64	white	wit
+15.65	black	swat
+15.66	red	ro
+15.67	blue	blau
+15.68	green	grun
+15.69	yellow	gel
+15.71	touch	
+15.712	pinch	gap
+15.72	feel	ful
+15.74	hard	tai
+15.75	soft	sudži ~ sutǰi
+15.76	rough	grof (?)
+15.77	smooth	
+15.78	sharp	skɛrp
+15.79	blunt, dull	
+15.81	heavy	swa
+15.82	light (in weight)	lɛ
+15.83	wet, damp	nat
+15.84	dry	drok ~ drog
+15.85	hot	bran; hɛt ~ het ~ hit
+15.851	warm	wɛr(ə)m ~ wərm
+15.86	cold	kaut(u); kot
+15.87	clean	skon; pi
+15.88	dirty, soiled	fil
+15.89	wrinkled	
+16.11	soul, spirit	zil
+16.15	surprised, astonished	
+16.18	good fortune, luck	frai glik
+16.19	misfortune, bad luck	lilək glik
+16.23	joyful, glad, happy	bli
+16.25	laugh	lak
+16.251	smile	
+16.26	play	spel ~ spɛl ~ spil
+16.27	love	wɛl
+16.29	kiss	kis
+16.3	embrace	
+16.31	pain	pin
+16.32	grief, sorrow, sadness	
+16.33	anxiety, worry	haras
+16.34	regret, be sorry	mi sari
+16.35	pity	
+16.37	cry, weep	kris
+16.38	tear (noun)	
+16.39	groan	
+16.41	hate	
+16.42	anger	kwat
+16.44	envy, jealousy	
+16.45	shame (noun)	
+16.48	proud	
+16.51	dare	dɛfo
+16.52	brave	kuraši
+16.53	fear, fright	baŋ
+16.54	danger	
+16.62	desire, want	maŋke
+16.622	choose	kais
+16.63	hope	hop
+16.65	faithful	
+16.66	true	wa(wa) ~ walget ~ warget ~ wargəit
+16.67	lie, tell lies	lik
+16.68	deceit	
+16.69	forgive	
+16.71	good	frai
+16.72	bad	lelik ~ lɛlik ~ likik
+16.73	right, correct	rɛk(t) ~ rɛt(u)
+16.74	wrong	no mi rɛt
+16.76	fault	fout
+16.77	mistake, error	fout
+16.78	blame	blame
+16.79	praise	
+16.81	beautiful	moi
+16.82	ugly	lelik ~ ləlik ~ lilik
+16.83	greedy	glos
+16.84	clever	
+17.11	mind	
+17.13	think (= reflect)	dɛŋk ~ diŋ(g)
+17.14	think (= be of the opinion)	dɛŋk ~ diŋ(g)
+17.15	believe	glof
+17.16	understand	fostan ~ fosto
+17.17	know	wet ~ wɛt
+17.171	guess	
+17.172	imitate	
+17.18	seem	
+17.19	idea, notion	
+17.21	wise	
+17.22	foolish, stupid	dom
+17.23	insane, crazy	
+17.24	learn	le
+17.242	study	le
+17.25	teach	le
+17.26	pupil	
+17.27	teacher	
+17.28	school	skol
+17.31	remember	diŋko
+17.32	forget	foget ~ fruget
+17.34	clear, plain	kla(r)
+17.35	obscure	
+17.36	secret	
+17.37	sure, certain	siki
+17.38	explain	
+17.41	intention, purpose	
+17.42	cause	ma(k)
+17.43	doubt	
+17.44	suspect	
+17.441	betray	
+17.45	need, necessity	nodi; maŋke
+17.46	easy	lɛ
+17.47	difficult	tai
+17.48	try, attempt	
+17.49	way, manner	mani
+17.51	and	a(n); ɛn
+17.52	because	as; fodɛtma ~ fodi(t)ma ~ foma
+17.53	if	a ~ a(l)s ~ az; ɛf; lɛik(i) ~ li(k) ~ liki
+17.54	or	a; o
+17.55	yes, affirmative	ya
+17.56	no, negative	nen; na ~ ni ~ no ~ nu
+17.61	how?	ho(so)
+17.62	how many?	huvel ~ huwe(l)
+17.63	how much?	huvel ~ huwe(l)
+17.64	what?	(a)wa ~ wat
+17.65	when?	wani ~ wɛn(i) ~ wini
+17.66	where?	abɛ ~ ape ~ (w)api ~ ɛpɛ; wapiši ~ wɛpiši
+17.67	which?	(a)wa ~ wat
+17.68	who?	awi(di)
+17.69	why?	(a)wama
+18.11	voice	stɛm
+18.12	sing	siŋ
+18.13	shout, cry out	skreyu ~ skreo
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	
+18.18	shriek, screech	skreyu ~ skreo
+18.19	howl	blas
+18.21	speak, talk	prat
+18.211	stutter, stammer	
+18.22	say	se
+18.221	tell story	se
+18.222	speech (make a)	se
+18.23	silent (be)	
+18.24	language	
+18.26	word	word ~ wort
+18.28	name	nam
+18.31	ask (question, inquire)	fra(g)
+18.32	answer	antu(u) ~ antwordt
+18.33	admit, confess	
+18.34	deny	
+18.35	ask, request	fra(g)
+18.36	promise	blof
+18.37	refuse	
+18.38	forbid	
+18.39	rebuke, scold	blame
+18.41	call (=summon)	rup
+18.42	call (=name)	nam; rup
+18.43	announce	se
+18.44	threaten	
+18.45	boast	bombaskit
+18.51	write	skrif
+18.52	read	les
+18.56	paper	pampi
+18.57	pen	
+18.61	book	buk
+18.67	poet	
+18.71	flute	flut
+18.72	drum	gumbe
+18.73	horn, trumpet	hor(ə)n
+18.74	rattle	
+19.11	country	lan
+19.12	one's native country	lan
+19.15	city, town	tap-(h)us
+19.16	village	
+19.17	boundary	
+19.21	people (populace)	fol(o)k ~ foluk ~ fulok ~ fuluk
+19.23	tribe, clan	
+19.24	chief, chieftain	
+19.25	staff, walking stick	stok
+19.31	rule, govern	
+19.32	king, ruler	kiniŋ
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	mɛstu ~ mestər
+19.42	slave	slau(v)n
+19.43	servant	tɛna
+19.44	freeman	
+19.45	command, order	ordu
+19.46	obey	du (?)
+19.47	let, permit	da ~ lasta(n) ~ (li)sta ~ ta
+19.51	friend, companion	mat(a); kontri; frən ~ frin; kabe ~ karaber
+19.52	enemy	
+19.54	neighbor	birən
+19.55	stranger	
+19.56	guest	guest
+19.57	host	
+19.58	help, aid	hɛlp
+19.59	hinder, prevent	hindu
+19.61	custom	
+19.62	strife, quarrel	gɛra
+19.63	conspiracy, plot	plat
+19.65	meet	fin op mi
+19.72	prostitute	
+20.11	fight (vb)	fɛgɛtə ~ figiti ~ fikiti
+20.13	war, battle	
+20.14	peace	
+20.15	army	
+20.17	soldier	šolat
+20.21	weapons, arms	
+20.22	club	baŋg(a)la
+20.222	battle-ax	
+20.23	sling	
+20.24	bow	
+20.25	arrow	
+20.26	spear	
+20.27	sword	sabəl
+20.28	gun, cannon	ru
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	
+20.35	fortress	fort
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	wak-man
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	fɛs-man
+20.52	fishhook	fɛs-huk
+20.53	fishing line	lin
+20.54	fishnet	tramil
+20.55	fish trap	fik
+20.56	bait	
+20.61	hunt	ǰak
+20.62	shoot	skit
+20.63	miss (target)	
+20.64	trap (noun)	fik
+20.65	trap (vb)	faŋ
+21.11	law	
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	
+21.23	witness	
+21.24	swear	swa
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	plimbo; fort
+21.42	murder	mord
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	lik
+21.51	steal	dif
+21.52	thief	dif
+22.11	religion	
+22.12	God	got
+22.13	temple, church	tɛmpəl ~ təmpl; kɛr(ə)k
+22.14	altar	
+22.15	sacrifice, offering	
+22.16	worship	
+22.17	pray	
+22.18	priest	domne ~ domni
+22.19	holy, sacred	
+22.22	preach	
+22.23	bless	
+22.24	curse	fluk
+22.26	fast (vb)	
+22.31	heaven	hɛmol ~ hɛməl ~ hewun ~ hiwun
+22.32	hell	hɛl
+22.35	demon (evil spirit)	
+22.37	idol	
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	
+22.44	fairy, elf	fɛri
+22.45	ghost, phantom	ges ~ gɛs; ǰumbi
+22.47	omen, portent	

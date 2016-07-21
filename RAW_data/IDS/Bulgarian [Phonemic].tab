@@ -1,0 +1,1311 @@
+entry_id	trans_english	Bulgarian_Phonemic
+1.1	world	svját
+1.21	earth, land	zemjá
+1.212	earth=ground, soil	zemjá; póčva
+1.213	dust	prax
+1.214	mud	kal
+1.215	sand	pjásək
+1.22	mountain, hill	planiná; xəlm
+1.222	cliff, precipice	strə́mna skalá; úrva; própast; [kanará]
+1.23	plain, field	ravniná; polé
+1.24	valley	doliná
+1.25	island	óstrov
+1.26	mainland	zemjá; súša; [kontinént]
+1.27	shore	brjag
+1.28	cave	pešterá
+1.31	water	vodá
+1.32	sea	moré
+1.322	calm (of sea)	spokójstvie; zatíšie
+1.323	rough (of sea)	razvəlnúvan
+1.324	foam	pjána
+1.329	ocean	[okeán]
+1.33	lake	ézero
+1.34	gulf, bay	záliv
+1.341	lagoon	[lagúna]
+1.342	reef	[rif]
+1.343	headland, point	nos
+1.35	wave	vəlná
+1.352	tide	príliv; ótliv
+1.353	lowtide	náj-nískata tóčka na ótliva
+1.354	hightide	náj-visókata tóčka na príliva
+1.36	river, stream, brook	reká; potók; rúčej
+1.362	whirlpool	vodo-vərtéž; vərtóp
+1.37	spring, well	ízvor; kládenec̷
+1.38	swamp	bláto; tresávište
+1.39	waterfall	vodopád
+1.41	woods, forest	gorá
+1.42	tree (cf 08.600)	dərvó
+1.43	wood	dərvó
+1.44	stone, rock	kámək; skalá; [kanará]
+1.45	earthquake	zeme-tresénie
+1.51	sky	nebé
+1.52	sun	slə́nc̷e
+1.53	moon	luná
+1.54	star	zvezdá
+1.55	lightning	mə́lnija; svet-kávic̷a
+1.56	thunder	grəm; grəmotévic̷a
+1.57	lightning (as striking)	grəm
+1.58	storm	búrja
+1.59	rainbow	dəgá
+1.61	light (noun)	svetliná
+1.62	darkness	təmniná; mrak
+1.63	shade, shadow	sjánka
+1.64	dew	rosá
+1.71	air	və́zdux
+1.72	wind	vjátər
+1.73	cloud	óblak
+1.74	fog	məglá
+1.75	rain (noun)	dəžd
+1.76	snow (noun)	snjag
+1.77	ice	led
+1.78	weather	vréme
+1.81	fire	ógən
+1.82	flame (noun)	plámək
+1.83	smoke (noun)	dim
+1.84	ashes	pépel
+1.841	embers	žar; žaráva
+1.851	burn (vb trans)	izgárjam/ izgorjá
+1.852	burn (vb intrans)	gorjá
+1.86	light, kindle, ignite	pálja; zapálvam/ zapálja
+1.861	extinguish	
+1.87	match (noun)	[kibrít]; kléčka [kibrít]
+1.88	firewood	dərvá za goréne
+1.89	charcoal	də́rveni və́glišta
+2.1	person, human being	čovék
+2.21	man (vs. woman)	mə́ž
+2.22	woman	žená
+2.23	male	mə́žki
+2.24	female	žénski
+2.25	boy	momčé
+2.251	young man (adolescent)	júnoša
+2.26	girl	momíče
+2.261	young woman (adolescent)	devójka
+2.27	child	deté
+2.28	infant, baby	[bébe]; pelenáče; mladenéc̷; kərmáče
+2.31	husband	səprúg; mə́ž
+2.32	wife	səprúga; žená
+2.33	marry	ožénvam se; omə́žvam se
+2.34	marriage, wedding	brák, ženítba; brakosəčetánie; svátba; venčávane, venčávka
+2.341	divorce	razvód
+2.35	father	baštá
+2.36	mother	májka
+2.37	parents	rodíteli
+2.38	married man	ožénen mə́ž
+2.39	married woman	omə́žena žená
+2.41	son	sín
+2.42	daughter	dəšterjá
+2.43	offspring (son or daughter)	deté; potómstvo, dec̷á; potómək, potómka
+2.44	brother	brát
+2.444	older brother	báte, bátjo, bátko, baj-
+2.445	younger brother	pó-málək brát
+2.45	sister	sestrá
+2.454	older sister	káka; pó-goljáma sestrá
+2.455	younger sister	pó-málka sestrá
+2.456	sibling	róden brát/ ródna sestrá
+2.458	twins	bliznác̷i
+2.46	grandfather	djádo
+2.461	old man	stárec̷; djádo
+2.47	grandmother	bába
+2.471	old woman	staríc̷a; bába
+2.48	grandson	vnúk
+2.49	granddaughter	vnúčka
+2.51	uncle	číčo
+2.511	mother's brother	vújčo
+2.512	father's brother	číčo
+2.52	aunt	lélja
+2.521	mother's sister	vújna
+2.522	father's sister	tétka; lélja
+2.53	nephew	plémennik
+2.54	niece	plémennica
+2.55	cousin	bratovčéd/ bratovčédka
+2.56	ancestors	prároditeli; práotc̷i
+2.57	descendants	potómc̷i
+2.61	father-in-law (of a man)	tə́st
+2.611	father-in-law (of a woman)	svékər
+2.62	mother-in-law (of a man)	tə́šta
+2.621	mother-in-law (of a woman)	svekə́rva
+2.63	son-in-law (of a man)	zét
+2.631	son-in-law (of a woman)	zét
+2.64	daughter-in-law (of a man)	snaxá
+2.641	daughter-in-law (of a woman)	snaxá
+2.71	stepfather	vtóri baštá
+2.72	stepmother	máštexa
+2.73	stepson	dovéden/ zaváren sín
+2.74	stepdaughter	dovédena/ zavárena dəsterjá
+2.75	orphan	sirák; siráče
+2.76	widow	vdovíc̷a
+2.77	widower	vdovéc̷
+2.81	relatives, kinsmen	rodníni, ródstvenic̷i
+2.82	family	seméjstvo; [famílija]
+2.91	I	áz
+2.92	you (singular)	tí, víe
+2.93	he/she/it	tój/ tjá/ tó
+2.94	we	níe
+2.941	we (inclusive)	níe
+2.942	we (exclusive)	níe
+2.95	you (plural)	víe
+2.96	they	té
+3.11	animal	živótno, dobíče
+3.12	male (adj)	mə́žki; mə́žkár; [saméc̷]
+3.13	female (adj)	ženská, ženski; [sámka]
+3.15	livestock	dobítək
+3.16	pasture	páša; pásbište, pásište
+3.18	herdsman	pastír; govedár
+3.19	stable, stall	konjúšna; obór; kravárnik
+3.2	cattle (bovine)	govéda; édər dobítək
+3.21	bull	bík
+3.22	ox	vól
+3.23	cow	kráva
+3.24	calf	telé
+3.25	sheep	ovc̷á
+3.26	ram	ovén; [kóč]
+3.28	ewe	ovc̷á
+3.29	lamb	ágne
+3.32	boar	nérez; šopár; gligán
+3.34	sow	svinjá; svinjá-májka
+3.35	pig	prasé
+3.36	goat	kozá
+3.37	he-goat	kozél
+3.38	kid	kozlé; járe
+3.41	horse (equine)	kón
+3.42	stallion	žrebéc̷
+3.44	mare	kobíla
+3.45	foal, colt	kónče; žrebčé
+3.46	ass, donkey	[magáre]; osél
+3.47	mule	[katər]; [múle]
+3.5	fowl	ptíc̷a
+3.52	cock, rooster	petél
+3.54	hen	kokóška
+3.55	chicken	píle
+3.56	goose	gə́ska
+3.57	duck	pátic̷a
+3.58	nest	gnezdó; pólog
+3.581	bird	ptíc̷a, ptíčka
+3.582	seagull	čájka
+3.583	heron	čápla
+3.584	eagle	orél
+3.585	hawk	jástreb
+3.586	vulture	lešojád
+3.591	bat	prílep
+3.592	parrot	[papagál]
+3.593	crow	vrána; [gárga]
+3.594	dove	gə́ləb
+3.596	owl	búxal; kukumjávka; sóva
+3.61	dog	kúče
+3.614	rabbit	záek
+3.62	cat	kótka
+3.622	opossum	[opósum]
+3.63	mouse, rat	míška; plə́x
+3.65	fish	ríba
+3.652	fin (dorsal)	pérka
+3.653	fishscale	ljúspa
+3.654	gill	xrilé
+3.655	shell	čerúpka; rákovina, rakovína
+3.661	shark	[akúla]
+3.662	porpoise, dolphin	[delfín]
+3.663	whale	[kít]
+3.664	stingray	--
+3.665	freshwater eel	zmiórka
+3.71	wolf	və́lk
+3.72	lion	lə́v
+3.73	bear	méčka
+3.74	fox	lisíc̷a
+3.75	deer	elén; sərná
+3.76	monkey	[majmúna]
+3.77	elephant	slón
+3.78	camel	[kamíla]
+3.81	insect	[nasekómo]
+3.811	louse	və́ška
+3.812	nit (louse egg)	gnída
+3.813	flea	bəlxá
+3.814	centipede	sto-nóžka
+3.815	scorpion	[skorpión]
+3.816	cockroach	xlebárka
+3.817	ant	mrávka
+3.818	spider	pájak
+3.819	spider web	pájažina
+3.82	bee	pčelá
+3.821	beeswax	pčélen vósək
+3.822	beehive	(pčélen) kóšer
+3.823	wasp	osá
+3.83	fly	muxá
+3.831	sandfly (midge), gnat	mušíc̷a; mušíčka; komárče
+3.832	mosquito	komár
+3.84	worm	čérvej
+3.85	snake	zmíja
+3.91	firefly	svetúlka
+3.92	butterfly	peperúda
+3.93	grasshopper	skakaléc̷
+3.94	snail	óxljuv
+3.95	frog	žába
+3.96	lizard	gúšter
+3.97	crocodile, alligator	[krokodíl]; [aligátor]
+3.98	turtle	mórska kostenúrka
+4.11	body	tjálo
+4.12	skin, hide	kóža
+4.13	flesh	plə́t
+4.14	hair (head)	kosá
+4.142	beard	bradá
+4.144	body hair	kósmi
+4.145	pubic hair	okosménie na pólovite órgani
+4.146	dandruff	pə́rxot
+4.15	blood	krə́v
+4.151	vein, artery	[vena]; [artérija]
+4.16	bone	kóst
+4.162	rib	rebró
+4.17	horn	róg
+4.18	tail	opáška
+4.19	back	grə́b
+4.191	spine	grəbnák
+4.2	head	glavá
+4.201	side of head, temple	sljápo okó; slepoóčie
+4.202	skull	čérep
+4.203	brain	mózək
+4.204	face	lic̷é
+4.205	forehead	čélo, čeló
+4.207	jaw	čéljust
+4.208	cheek	búza; straná
+4.209	chin	bradá, bradíčka
+4.21	eye	okó
+4.212	eyebrow	véžda
+4.213	eyelid	klepáč
+4.214	eyelash	mígla; resníc̷a; klépka
+4.215	blink	mígam; mígvam/ mígna; premígvam/ premígna
+4.22	ear	uxó
+4.221	earlobe	--
+4.222	earwax	úšna kál
+4.23	nose	nós
+4.231	nostril	nózdra
+4.232	mucus (nasal)	sopól
+4.24	mouth	ustá
+4.241	beak	kljún; čóvka
+4.25	lip	ústna
+4.26	tongue	ezík
+4.27	tooth	zə́b
+4.271	gums	venéc̷
+4.272	molartooth	kə́tnik; kə́ten zə́b
+4.28	neck	vrát; šíja
+4.281	nape of neck	tíl
+4.29	throat	gə́rlo
+4.3	shoulder	rámo
+4.301	shoulderblade	lopátka; pléška
+4.302	collarbone	kljúčic̷a
+4.31	arm	rəká
+4.312	armpit	míšnic̷a; podmíšnic̷a; podmíšnična jámka
+4.32	elbow	lákət
+4.321	wrist	kítka
+4.33	hand	rəká
+4.331	palm of hand	dlán
+4.34	finger	prə́st
+4.342	thumb	pálec̷
+4.344	fingernail	nókət
+4.345	claw	nókət
+4.35	leg	krák; nogá
+4.351	thigh	bedró
+4.352	calf of leg	praséc̷
+4.36	knee	koljáno
+4.37	foot	krák; nogá; stəpálo; xodílo
+4.371	ankle	glézen
+4.372	heel	petá
+4.374	footprint	sledá; otpečátək ot stə́pka
+4.38	toe	prə́st na krák
+4.392	wing	kriló
+4.393	feather	peró, perc̷é
+4.4	chest	grə́den kóš; gərdí
+4.41	breast (of woman)	gərdá, grə́d
+4.412	nipple, teat	zərnó
+4.42	udder	víme
+4.43	navel	pə́p
+4.44	heart	sərc̷é
+4.441	lung	bjál drób
+4.45	liver	čéren drób
+4.451	kidney	bə́brek
+4.452	spleen	[dalák]
+4.46	stomach	[stomáx]; korém
+4.461	intestines, guts	červó
+4.462	waist	krə́st; [tálija]
+4.463	hip	[xánš]; xə́lbok; bedró
+4.464	buttocks	sedálište; zádna část, zádnik, zádnica
+4.47	womb	utróba; mátka
+4.49	testicle	[testíkul]; [téstis]
+4.492	penis	[pénis]; člen
+4.51	breathe, breath	díšam; də́x
+4.52	yawn, gape	prozjávam se/ prozéja se; prozína se; prozjávka
+4.521	hiccough	xə́lc̷am, xəlc̷úkam
+4.53	cough	kášljam
+4.54	sneeze	kíxam, kíxvam/ kíxna
+4.55	perspire	potjá se
+4.56	spit	pljúja, pljúvam/ pljúna; xráča
+4.57	vomit	povrə́štam/ povə́rna
+4.58	bite	xápja; uxápvam/ uxápja
+4.59	lick	líža, lízvam/ lízna; blízvam/ blízna
+4.591	dribble	ligávja (se)
+4.61	sleep	spjá
+4.612	snore	xə́rkam
+4.62	dream	sənúvam
+4.63	wake up	búdja se, səbúždam/ səbúdja se
+4.64	break wind	pərdjá/ izpərdjá
+4.65	urinate	[uriníram]; pikája/ izpikája
+4.66	defecate	izxvə́rljam/ izxvə́rlja izpražnénija
+4.67	have sexual intercourse	ímam pólovi snošénija
+4.68	shiver	trepérja
+4.69	bathe	kə́pja (se)
+4.71	beget (of father)	səzdávam/ səzdám
+4.72	born (to be)	ráždam se/ rodjá se
+4.73	pregnant	brémenna
+4.732	conceive	začévam/ začéna
+4.74	live, living, life	ževéja; žív; živót
+4.75	die, dead	umíram/ umrá; mə́rtəv; umrjál
+4.751	drowned	udáven
+4.76	kill	ubívam/ ubíja
+4.77	corpse	trúp
+4.78	bury (the dead)	pogrébvam/ pogrebá
+4.79	grave, tomb	grób
+4.81	strong, mighty, powerful	sílen; móšten
+4.82	weak	sláb
+4.83	well, health	zdráv, zdráve
+4.84	sick, sickness	bólen; bólest
+4.841	fever	[temperatúra]; tréska
+4.842	goiter	[gúša]
+4.843	cold (catarrh)	prostúda; [xréma]; nastínka
+4.85	wound, sore	rána; jázva
+4.852	bruise	natə́rtvane, natə́rteno mjásto; [kontúzija]
+4.853	swelling	podutiná
+4.854	itch	sərbéž
+4.855	blister	príška; mexúr
+4.856	boil (noun)	círej
+4.857	pus	gnój
+4.858	scar	béleg
+4.86	cure, heal	lekúvam/ izlekúvam
+4.87	physician	lékar; [dóktor]
+4.88	medicine, drug	lekárstvo, lék
+4.89	poison	otróva
+4.91	tired, weary	umorén, izmorén
+4.912	rest	počívam (si)/ počína (si), otpočivam si/ otpočina (si)
+4.92	lazy	mərzelív
+4.93	bald	plešív
+4.94	lame	[kúc̷], xróm, okuc̷jál; [sakát]; osakatjal
+4.95	deaf	glúx
+4.96	mute	njám
+4.97	blind	sljáp
+4.98	intoxicated	opijanén; piján
+4.99	naked, bare	gól
+5.11	eat	jám; xránja se
+5.12	food	xraná
+5.121	cooked	sgótven
+5.122	raw	suróv
+5.123	ripe	zrjál
+5.124	green, unripe	zelén; neuzrjál
+5.125	rotten	gníl
+5.13	drink	píja
+5.14	hunger	glád
+5.141	famine	glád
+5.15	thirst	žážda
+5.16	suck	súča, smúča, smúkvam/ smúkna
+5.18	chew	də́vča, sdə́vkvam/ sdə́vča
+5.181	swallow	gə́ltam, glə́tvam/ glə́tna
+5.19	choke	dušá (se); zadušávam, zadušá (se); zadávjam/ zadávja (se); dávja (se)
+5.21	cook	gótvja, sgótvjam/ sgótvja
+5.22	boil (vb)	várja, svarjávam/ svárja
+5.23	roast, fry	peká; izpíčam/ izpeká; pə́rža
+5.24	bake	peká
+5.25	oven	[fúrna]
+5.26	pot, cooking vessel	[téndžera]
+5.27	kettle	[bakə́r]; kotél; čájnik
+5.28	pan	[tigán]; [tavá]; tavíčka; [gjuvéč]
+5.31	dish	paníca; činíja
+5.32	plate	[činíja]; plítka činíja; bljúdo
+5.33	bowl	kúpa; paníca
+5.34	pitcher, jug	[kána]; [stómna]
+5.35	cup, drinking vessel	čáša, čáška
+5.36	saucer	činíjka; podlóžka
+5.37	spoon	ləžíc̷a
+5.38	knife	nóž
+5.39	fork	vílica
+5.391	tongs	mašá; štípci
+5.41	meal (a)	jádene
+5.42	breakfast	zakúska
+5.43	lunch	óbed/ objád
+5.44	dinner	obéd; večérja
+5.45	supper	večérja
+5.46	peel	obélvam, obélja; bélja (se)
+5.47	sieve, strain	presjávam/ preséja; cedjá
+5.48	scrape	stə́rža, ostə́rgvam/ ostə́rža
+5.49	stir, mix	bə́rkam; smésvam/ smésja
+5.51	bread	xljáb
+5.53	dough	testó
+5.54	knead	mésja, zamésvam/ zamésjam/ zamésja, máčkam
+5.55	meal, flour	brašnó
+5.56	crush, grind	smáčkvam/ smáčkam; mélja
+5.57	mill	mélnica; vódenica
+5.58	mortar	[xaván(če)]
+5.59	pestle	čúkalo
+5.61	meat	mesó
+5.63	sausage	nádenica; [sudžúk]; [lukánka]; [salám]
+5.64	soup, broth	[súpa]; [buljón]
+5.65	vegetables	zelenčúk, zelenčúci
+5.66	bean	bób; [fasúl]
+5.7	potato	[kartóf]
+5.71	fruit	plód
+5.712	bunch	kítka; vrə́zka; čépka; grózd
+5.75	fig	smokínja
+5.76	grape	grózde
+5.77	nut	órex
+5.78	olive	maslína
+5.79	oil	máslo; ólio/ olívija
+5.791	grease, fat	más; mazniná
+5.81	salt	sól
+5.82	pepper	[pipér]; čér piper; čúška; pipérka
+5.821	chili pepper	ljúta čúška, ljúta pipérka; ljút červén pipér
+5.84	honey	méd
+5.85	sugar	záxar
+5.86	milk (noun)	mljáko
+5.87	milk (vb)	dojá
+5.88	cheese	sírene; [kaškavál]
+5.89	butter	máslo
+5.9	beverage, drink	pitié; napítka
+5.91	mead	medovína
+5.92	wine	víno
+5.93	beer	[bíra]
+5.94	fermented drink	[bozá]; [fermentírala] napítka
+5.97	egg	jajcé
+5.971	egg yolk	žəltə́k
+6.11	put on (clothes)	oblíčam/ obleká (se)
+6.12	clothing, clothes	oblekló; dréxi
+6.13	tailor	šiváč; krojáč
+6.21	cloth	plát, platnó; tə́kan; súkno; kə́rpa
+6.22	wool	və́lna
+6.23	linen, flax	lén
+6.24	cotton	[pamúk]
+6.25	silk	koprína
+6.27	felt	[fílc]; [fjótər]; plə́st; [kečé]
+6.28	fur	kóža (s kózina)
+6.29	leather	obrabótena kóža
+6.31	spin	predá; izprídam/ izpredá
+6.32	spindle	vreténo
+6.33	weave	təká
+6.34	loom	(təkáčen) stán
+6.35	sew	šíja
+6.36	needle	iglá
+6.37	awl	šílo
+6.38	thread	konéc
+6.39	dye	[bojadísvam]; [bojá]
+6.41	cloak	plášt; [mántija]; [pelerína]; namétka, nametálo
+6.411	poncho	[pónčo]; nametálo
+6.42	woman's dress	[róklja]
+6.43	coat	[paltó]
+6.44	shirt	ríza
+6.45	collar	[jaká, jakíčka]
+6.46	skirt	polá
+6.461	grass-skirt	--
+6.48	trousers	[pantalóni]
+6.49	stocking, sock	(də́ləg, kə́s) [čoráp]
+6.51	shoe	obúvka
+6.52	boot	[botúš]
+6.54	shoemaker, cobbler	obuštár; kərpáč; kə́rpja
+6.55	hat, cap	šápka; [kaskét]; [képe]
+6.57	belt, girdle	[kolán]; pójas
+6.58	glove	rəkavíca
+6.59	veil	[voál]; [búlo]
+6.61	pocket	[džób]
+6.62	button	[kópče]
+6.63	pin	[toplíjka]; [karfíca]
+6.71	ornament, adornment	ukrašénie; [ornamént]
+6.72	jewel	skəpocénnost; [bižú]
+6.73	ring (for finger)	prə́sten
+6.74	bracelet	grívna
+6.75	necklace	[gerdán]; [kolié]; ogərlíca
+6.76	bead	mənísto
+6.77	earring	obicá, óbica
+6.78	headband, headdress	[pándelka] za glavá; [kordéla]; nákit/ ukrašénie za glavá; lénta
+6.79	tattoo	[tatuiróvka]
+6.81	handkerchief, rag	(nósna) kə́rpa; parcál
+6.82	towel	kə́rpa
+6.91	comb	[grében]
+6.92	brush	čétka
+6.921	braid	zaplítam/ zapletá, pletá; plítka
+6.93	razor	brəsnáč
+6.94	ointment	[mexlém]; mazílo; [krem]
+6.95	soap	[sapún]
+6.96	mirror	ogledálo
+7.11	dwell, live	živéja; obitávam
+7.12	house	kə́šta; dóm
+7.13	hut	[kolíba]; xíža
+7.131	garden-house	[oranžeríja]; párnik
+7.14	tent	palátka
+7.15	yard, court	dvór
+7.16	men's house	--
+7.17	cookhouse	ljátna kúxnja
+7.18	meeting house	--
+7.21	room	stája
+7.22	door, gate	vratá; [pórta]; vrátnja, vrátnik
+7.221	doorpost, jamb	okačálnik; straná na kása na vratá
+7.23	lock (noun)	[bráva]; ključálka; [kofár]
+7.231	latch, door-bolt	[rezé]
+7.24	key	kljúč
+7.25	window	prozórec
+7.26	floor	pód
+7.27	wall	stená
+7.31	fireplace	[kamína]; ogníšte
+7.32	stove	péčka
+7.33	chimney	[komín]
+7.37	ladder	stə́lba
+7.42	bed	legló
+7.421	pillow	vəzglávnic̷a
+7.422	blanket	odejálo
+7.43	chair	stól
+7.44	table	[mása]
+7.45	lamp, torch	[lámpa]; [fákel]
+7.46	candle	svéšt
+7.47	shelf	[ráft]; políc̷a; lávic̷a
+7.48	trough	koríto; xranílka
+7.51	roof	pókriv
+7.52	thatch	sláma/ trəstíka za pókriv
+7.53	ridgepole	--
+7.54	rafter	[merték]
+7.55	beam	gredá
+7.56	post, pole	stə́lb; prə́t
+7.57	board	dəská
+7.58	arch	[árka]; svód
+7.61	mason	zidár; [djulgér(in)]; kamenodélec̷
+7.62	brick	[túxla]
+7.63	mortar	[xorosán]
+7.64	adobe	[kirpíč]
+8.11	farmer	zemedélec; zemedélski stópanin; [férmer]
+8.12	field (for cultivation)	níva
+8.13	garden	gradína
+8.15	cultivate, till	obrabótvam/ obrabótja; [kultivíram]; orá
+8.16	fence	ográda
+8.17	ditch	róv; ízkop; kanávka
+8.21	plow	izorávam/ izorá; orá; plúg; rálo
+8.212	furrow	brazdá
+8.22	dig	kopája
+8.23	spade	[lizgár]; [bél]; lopáta
+8.24	shovel	lopáta
+8.25	hoe	motíka
+8.26	fork	víla (za seno)
+8.27	rake	grebló; [tərmə́k]
+8.31	sow	séja
+8.311	seed	séme; zərnó
+8.32	mow, reap	kosjá; žə́na
+8.33	sickle, scythe	sə́rp; kosá
+8.34	thresh	vəršéja/ vəršá
+8.35	threshing-floor	gúmno; [xarmán]
+8.41	crop, harvest	[rekólta]
+8.42	grain (barley, oats etc)	zərnó
+8.43	wheat	pšeníca; žíto
+8.44	barley	ečemík, ečmík
+8.45	rye	rə́ž
+8.46	oats	ovés
+8.47	maize, corn	cárevica
+8.48	rice	[oríz]
+8.51	grass	trevá
+8.52	hay	senó
+8.53	plant (noun)	rasténie
+8.531	plant (vb)	sadjá
+8.54	root	kóren
+8.55	branch	klón
+8.56	leaf	líst, listó
+8.57	flower	c̷véte
+8.6	tree	dərvó
+8.61	oak	də́b
+8.62	beech	búk, búka
+8.63	birch	brezá
+8.64	pine	bór
+8.65	fir	elá
+8.66	acorn	žéləd
+8.67	vine	lóza
+8.68	tobacco	[tjutjún]
+8.69	smoke (tobacco)	púša
+8.691	pipe	[lulá]
+8.72	tree stump	pə́n; də́ner
+8.73	tree trunk	stvól; də́ner
+8.74	forked branch	[čatálest] klón
+8.75	bark	korá
+8.76	sap	məzgá; sók
+8.81	palm tree	[pálma]
+8.82	coconut	[kokósov] órex
+8.83	citrus fruit	[c̷ítrusov] plód
+8.84	banana tree	[banánovo] dərvó
+8.85	banyan	indíjska [smokínja]
+8.91	sweet potato	[batát]; sládək [kartóf]
+8.912	yam	sládək [tropíčen] [kartóf]
+8.92	tapioca, manioc, cassava	[tapióka]; [manióka]
+8.93	gourd	[kratúna]
+8.931	pumpkin, squash	tíkva
+8.94	bamboo	[bambúk]
+8.941	sugar cane	záxarna trəstíka
+8.96	fish poison (root)	--
+8.97	nettle	kopríva
+8.98	mushroom	gə́ba
+9.11	do, make	právja, naprávja
+9.12	work	rabótja
+9.14	bend	izvívam/ izvíja (se); svívam/ svíja (se); nagə́rbvam/nagə́rbjam/ nagə́rna se
+9.15	fold	sgə́vam/ sgə́na (se); nagə́vam/ nagə́na; svívam/ svíja
+9.16	tie, bind	vrə́zvam/ və́rža
+9.161	untie	razvə́rzvam/ razvə́rža
+9.18	chain	veríga
+9.19	rope, cord	vəžé; vəžénc̷e; vrə́v
+9.192	knot (noun)	və́zel
+9.21	strike (hit, beat)	údrjam/ udárja; bíja
+9.211	pound with fist	údrjam s [jumrúk]
+9.22	cut	réža
+9.221	cut down	otsíčam/ otseká
+9.222	chop, hew	seká
+9.223	stab	promúšvam/ promúša
+9.23	knife	nož
+9.24	scissors, shears	nóžica; nóžici
+9.25	ax	brádva
+9.251	adze	teslá
+9.26	break	čúpja (se), sčupvam/ sčúpja (se); razbívam/ razbíja (se)
+9.261	broken	sčúpen; razbít
+9.27	split	c̷épja (se); razc̷épvam/ razc̷épja (se)
+9.28	tear	kə́sam (se), skə́svam/ skə́sam (se)
+9.29	flay, skin	odíram/ oderá
+9.31	rub, wipe	tríja; bə́rša
+9.32	stretch	raztjágam/ raztégna (se); prostíram/ prostrá (se)
+9.33	pull	[də́rpam/ drə́pvam/ drə́pna]
+9.34	spread out	prostíram/ prostrá (se)
+9.341	hang up	zakáčam/ zakačá
+9.342	press	natískam/ natísvam/ natísna; stískam/ stísna
+9.343	squeeze, wring	izstískvam/ izstískam; izc̷eždam/ izc̷edjá; stískam/ stísna
+9.35	pour	léja; nalívam/ naléja
+9.36	wash	míja (se); perá
+9.37	sweep	metá
+9.38	broom	metlá
+9.422	tool	sečivó [instrumént]
+9.43	carpenter	dərvodélec̷; [dogramadžíja]
+9.44	build	strojá; gradjá
+9.46	bore	provərtjávam/ provə́rtam/ provərtjá; probívam/ probíja
+9.461	hollow out	dəlbája; izdəlbávam/ izdəlbája
+9.48	saw	[trión]
+9.49	hammer	čúk
+9.5	nail	gvózdej; [pirón]
+9.56	glue	lepílo
+9.6	smith, blacksmith	kováč
+9.61	forge	ková; kováčnic̷a
+9.62	anvil	nakoválnja
+9.63	cast (metals)	léja; otlívam/ otléja
+9.64	gold	zláto
+9.65	silver	srebró
+9.66	copper, bronze	méd; [bakə́r]; [bronz]
+9.67	iron	željázo
+9.68	lead (noun)	olóvo
+9.69	tin, tinplate	[kaláj]; [teneké]; [tenekíja]
+9.71	potter	grənčár
+9.72	mold (clay etc)	[fórma]; kalə́p
+9.73	clay	gliná; prə́t
+9.74	glass	stəkló
+9.75	weave, plait	pletá
+9.76	basket	kóšnica
+9.77	mat	rogózka
+9.771	rug	[kilím]; [čérga]
+9.78	netbag	mréža
+9.79	fan (noun)	vetriló
+9.791	fan (vb)	véja (si)
+9.81	carve	dəlbája; izrjázvam; izvájvam/ izvája
+9.82	sculptor	[skúlptor]; vajátel
+9.83	statue	[státuja]; izvajánie
+9.84	chisel	dletó
+9.88	paint (noun)	[bojá]
+9.89	paint (vb)	risúvam; [bojadísvam]
+10.11	move	dvíža (se); méstja (se)
+10.12	turn over	obrə́štam/ obrə́na (se); preobrə́štam/ preobrə́na (se); prekatúrvam/ prekatúrja (se)
+10.13	turn around	obrə́štam/ obrə́na (se) (krəgóm)
+10.14	wind, wrap	zavívam/ zavíja (se); uvívam/ uvíja; víja (se); omotávam/ omotája
+10.15	roll	tərkáljam/ tərkoljá (se); váljam (se)
+10.16	drop (vb)	púskam/ púštam/ púsna; izpúskam/ izpúštam/ izpúsna
+10.17	twist	usúkvam/ usúča (se); izvívam/ izvíja; zasúkvam/ zasúča; súča
+10.21	rise	izdígam/ izdígna se; vdígam/ vdígna se; stávam/ stána
+10.22	raise, lift	vdígam/ vdígna, dígam/ dígna; povdígam/ povdígna; izdígam/ izdígna; izprávjam/ izprávja
+10.23	fall	pádam/ pádna
+10.24	drip	kápja
+10.25	throw	xvə́rljam/ xvə́rlja
+10.252	catch (ball)	xváštam/ xvána
+10.26	shake	klatja (se), pokláštam/ poklátja (se); razkláštam/ razklátja; raztə́rsvam/ raztə́rsja (se); tresá (se)
+10.32	flow	teká; vlívam/ vléja se
+10.33	sink	potə́vam/ potə́na
+10.34	float	plávam; plúvam
+10.35	swim	plúvam; plávam
+10.351	dive	gmúrkam/ gmúrvam/ gmúrna se
+10.352	splash	c̷ópvam/ c̷ópna; prə́skam; naprə́skvam/ naprə́skam
+10.36	sail (vb)	plávam s platná; plávam, plúvam
+10.37	fly (vb)	letjá
+10.38	blow	dúxam; dúxvam/ dúxna; véja
+10.41	creep, crawl	pəlzjá; lázja
+10.412	kneel	koleníča
+10.413	crouch	svívam se; gótvja se da skóča
+10.42	slide, slip	xlə́zgam/ xlə́zvam/ xlə́zna (se); plə́zgam/ plə́zna (s)e
+10.43	jump, leap	skáčam/ skóča
+10.431	kick	rítam; rítvam/ rítna
+10.44	dance	igrája; tancúvam
+10.45	walk	vərvjá; xódja
+10.451	limp	[kúc̷am/, kúc̷(nu)vam, kúc̷na]; [nakúc̷vam]
+10.46	run	bjágam; tíčam
+10.47	go	otívam/ otída; xódja
+10.471	go up	káčvam/ káča se
+10.472	climb	izkáčvam/ izkačá (se); katérja se; káčvam/ káča se
+10.473	go down	slízam/ sljáza; spúskam/ spúštam/ spúsna se
+10.474	go out	izlízam/ izljáza
+10.48	come	ídvam/ dójda
+10.481	come back	vrə́štam/ və́rna se
+10.49	go away, depart	otívam/ otída si; zaminávam/ zamína
+10.491	disappear	izčézvam/ izčézna
+10.51	flee	bjágam; pobjágvam/ pobjágna
+10.52	follow	slédvam
+10.53	pursue	preslédvam
+10.55	reach, arrive	pristígam/ pristígna, stígam/ stígna; dostígam/ dostígna
+10.56	approach	dobližávam/ dobližá
+10.57	enter	vlízam/ vljáza
+10.61	carry (bear)	nósja
+10.612	carry-in-hand	nósja (na rəká)
+10.613	carry-on-shoulder	nósja (na rámo)
+10.614	carry-on-head	nósja (na glavá)
+10.615	carry-underarm	nósja (pod rəká)
+10.62	bring	donásjam/ donesá; nósja
+10.63	send	izpráštam/ izprátja
+10.64	lead (vb)	vódja
+10.65	drive	[káram]
+10.66	ride	jázdja, jáxam
+10.67	push, shove	bútam/ bútvam/ bútna (se)
+10.71	road	pə́t
+10.72	path	pətéka, pətéčka
+10.74	bridge	móst
+10.75	carriage, wagon, cart	kolá; [karúca]; [karéta]
+10.76	wheel	koleló
+10.77	axle	ós
+10.78	yoke	ígo; járem; xomót
+10.81	ship	kórab
+10.83	boat	lódka
+10.831	canoe	[kanú]; [rusálka]
+10.832	outrigger	straníčni poplávəci
+10.84	raft	[sál]
+10.85	oar	grebló; vesló
+10.851	paddle (noun)	grebló; vesló
+10.852	row (vb)	grebá/ grébvam/ grébna
+10.86	rudder	[kormílo]; [rúl]
+10.87	mast	[máčta]
+10.88	sail (noun)	kórabno platnó
+10.89	anchor	kótva
+10.91	harbor, port	pristánište
+10.92	land (vb)	slízam/ sváljam na súša; [debarkíram]
+11.11	have	ímam
+11.12	own, possess	pritežávam; ímam
+11.13	take	vzémam/ vzímam/ vzéma
+11.14	seize, grasp	xváštam/ xvána; ulávjam; sgrábčvam/ sgrábča
+11.15	hold	də́rža
+11.16	get, obtain	dobívam/ dobíja
+11.17	keep, retain	zapázvam/ zapázja; də́rža
+11.18	thing	néšto; véšt; predmét
+11.21	give	dávam/ dám
+11.22	give back	vrə́štam/ və́rna
+11.24	preserve, look after	zapázvam/ zapázja; də́rža; gríža se za
+11.25	save, rescue	spasjávam/ spasjá
+11.27	destroy	razrušávam/ ruzrušá
+11.28	harm, injure, damage	vredjá na; povréždam/ povredjá
+11.31	seek, look for	tə́rsja; potə́rsvam/ potə́rsja
+11.32	find	namíram/ namérja
+11.33	lose	gúbja; zagúbvam/ zagúbja
+11.34	release, let go	púskam/ púštam/ púsna
+11.43	money	[parí; pará]
+11.44	coin	[monéta]
+11.51	rich	bogát
+11.52	poor	béden
+11.53	beggar	prosják
+11.54	avaricious, stingy	svidlív; srebroljubív; álčen; skəperníčeski; stístnat
+11.61	lend	davám/ dám nazáem
+11.62	borrow	vzémam nazáem
+11.63	owe	dəlžá
+11.64	debt	də́lg
+11.65	pay (vb)	pláštam, zapláštam/ zaplatjá
+11.66	account, reckoning	smétka; smjátane
+11.69	tax, tribute	dánək; nalóg
+11.77	hire	naémam/ naéma
+11.78	wages	nádnic̷a; zapláta
+11.79	earn	pečélja
+11.81	buy	kupúvam/ kúpja
+11.82	sell	prodávam/ prodám
+11.83	trade, barter	tərgúvam
+11.84	merchant	tərgóvec̷
+11.85	market (place)	[pazár]; təržíšte
+11.86	store, shop	[magazín]
+11.87	price	c̷ená
+11.88	dear (costly, expensive)	skə́p
+11.89	cheap	[évtin]
+11.91	share (distribute)	deljá, razdéljam
+11.92	weigh	téglja (se), pretégljam/ pretéglja; mérja se
+12.1	after	sled; pósle
+12.11	behind	zad
+12.2	beside	do; pri; pokráj
+12.3	down, below	(na)dólu
+12.4	before	préd; otpréd
+12.41	front	prédna část; líceva straná/ část; [fasáda]
+12.5	inside, in	və́tre, otvə́tre
+12.6	outside	və́n ot; otvə́n
+12.7	under	pod
+12.8	up, above	góre (na); nad; otgóre
+12.11	place	mjásto; slágam/ slóža; postávjam/ postávja
+12.12	put	slágam/ slóža; postávjam/ postávja
+12.13	sit	sedjá
+12.14	lie down	ljágam/ légna si; ležá
+12.15	stand	stávam/ stána; stojá
+12.16	remain, stay	ostávam/ ostána
+12.17	remains, left overs	ostánki
+12.21	collect, gather	səbíram/ səberá (se); pribíram/ priberá
+12.212	pick up	vzémam/ vzéma; vdígam/ vdígna; povdígam/ povdígna
+12.213	pile up	trúpam (se); natrúpvam (se)
+12.22	join, unite	svə́rzvam/ svə́rža; səedinjávam (se)
+12.23	separate	otdéljam/ otdeljá; razdéljam/ razdeljá
+12.232	divide	délja (se), razdéljam (se)/ razdeljá (se)
+12.24	open	otvárjam/ otvórja (se)
+12.25	shut, close	zatvárjam/ zatvórja (se)
+12.26	cover	pokrívam/ pokríja
+12.27	hide, conceal	kríja (se); skrívam/ skríja (se); ukrívam/ ukríva (se); prikrívam/ prikríja (se); zakrívam/ zakríja; pokrívam/ pokríja
+12.31	high	visók; visóko; navisóko
+12.32	low	nísək; nísko
+12.33	top	vrə́x
+12.34	bottom	də́no
+12.35	end	kráj
+12.352	pointed	óstər; izóstren; zaóstren
+12.353	edge	ostrié; rə́b; kráj
+12.36	side	straná
+12.37	middle, center	sredá; [c̷éntər]
+12.41	right (side)	désen; djásno; djásnata strána
+12.42	left (side)	ljáv; ljávo; ljávata straná
+12.43	near (adv)	blízo, nablízo
+12.44	far (adv)	daléko/ daléč/ daléče; nadaléko/ nadaléč/ nadaléče
+12.45	east	íztok
+12.46	west	západ
+12.47	north	séver
+12.48	south	júg
+12.53	grow	rastá, porástvam/ porásna; izrástvam/ izrásna; narástvam/ narásna; otgléždam/ otglédam; [kultivíram]
+12.54	measure	mérja; izmérvam/ izmérja; mjárka, mjára
+12.541	span, fathom	pédja; mjárka
+12.55	large, big	goljám
+12.56	small, little	málək
+12.57	long	də́ləg
+12.58	tall	visók
+12.59	short	nísək; kə́s
+12.61	wide, broad	širók
+12.62	narrow	tésen
+12.63	thick (in dimension)	debél
+12.65	thin (in dimension)	tə́nək
+12.67	deep	dəlbók
+12.68	shallow	plítək
+12.71	flat	plósək
+12.73	straight	práv
+12.74	crooked	krív; izkríven; izvít
+12.75	hook	kúka; [čengél]
+12.76	corner	ə́gəl
+12.77	cross	krə́st
+12.78	square	[kvadráten]; [kvadrát]
+12.81	round	krə́gəl
+12.82	circle	krə́g
+12.83	sphere, ball	[sféra]; kəlbó
+12.84	line	[línija]; čertá
+12.85	hole	dúpka
+12.92	like, similar	podóben; sxóden
+12.93	change	menjá (se); izménjam/ izmenjá (se); proménjam/ promenjávam/ promenjá (se); sménjam/ smenjá
+13.0	zero, nothing	[núla]; níšto
+13.1	one	edín; ednó
+13.2	two	dvá/ dvé; dvé
+13.3	three	trí
+13.4	four	čétiri
+13.5	five	pét
+13.6	six	šést
+13.7	seven	sédem
+13.8	eight	ósem
+13.9	nine	dévet
+13.10	ten	déset
+13.101	eleven	edinádeset, edinájset
+13.102	twelve	dvanádeset, dvanájset
+13.103	fifteen	petnádeset, petnájset
+13.104	twenty	dvádeset
+13.105	hundred	stó
+13.106	thousand	[xiljáda]
+13.107	count	brojá
+13.14	every, all	vséki; vsíčki
+13.15	much, many	mnógo
+13.16	more	póveče
+13.17	little (quantity), few	málko; njákolko
+13.18	enough	dostátəčno
+13.181	some	málko; njákolko
+13.19	multitude, crowd	mnóžestvo; təlpá
+13.21	full	pə́len
+13.22	empty	prázen
+13.23	part, piece	část; parčé
+13.24	half	polovína
+13.33	alone, only	sám; edínstven; sámo
+13.34	first	prə́v
+13.35	last	posléden
+13.36	second	vtóri
+13.37	pair	[číft]; dvójka
+13.38	two times	dvá pə́ti; dváž
+13.42	third	tréti
+13.44	three times	trí pə́ti; tríž
+14.11	time	vréme
+14.12	age	və́zrast
+14.13	new	nóv
+14.14	young	mlád
+14.15	old	stár
+14.16	early	ránen; ráno
+14.17	late	kə́sen; kə́sno
+14.18	now	segá
+14.19	immediately	vednága, nezabávno
+14.21	swift, fast, quick	bə́rz
+14.22	slow	báven
+14.23	hasten, hurry	bə́rzam
+14.24	retard, delay	bávja (se); zabávjam/ zabávja
+14.25	begin, beginning	póčvam/ póčna; zapóčvam/ zapóčna (se); načálo
+14.252	last, endure	trája
+14.26	end (temporal)	kráj
+14.27	finish	svə́ršvam/ svə́rša
+14.28	cease, stop	prestávam/ prestána; spíram/ sprá
+14.29	ready	gotóv
+14.31	always	vínagi
+14.32	often	čésto
+14.33	sometimes	ponjákoga
+14.331	soon	skóro
+14.332	long-time (for a)	də́lgo; za də́lgo vréme
+14.34	never	níkoga
+14.35	again	pák; otnóvo
+14.41	day	dén
+14.42	night	nóšt
+14.43	dawn	zorá
+14.44	morning	sútrin; útre
+14.45	noon, midday	pládne; óbed
+14.451	afternoon	sledóbed
+14.46	evening	véčer
+14.47	today	dnés
+14.48	tomorrow	útre
+14.481	day-after-tomorrow	vdrúgiden
+14.49	yesterday	včéra
+14.491	day-before-yesterday	závčera
+14.51	hour	čás
+14.53	clock, timepiece	časóvnik
+14.61	week	sédmica
+14.62	Sunday	nedélja
+14.63	Monday	ponedélnik
+14.64	Tuesday	vtórnik
+14.65	Wednesday	srjáda
+14.66	Thursday	četvə́rtək
+14.67	Friday	pétək
+14.68	Saturday	sə́bota
+14.71	month	mésec
+14.73	year	godína
+14.74	winter	zíma
+14.75	spring	prólet
+14.76	summer	ljáto
+14.77	autumn	ésen
+14.78	season	godíšno vréme; [sezón]
+15.21	smell (vb intrans)	[miríša]
+15.212	sniff	dúša; [pomirísvam/ pomiríša]; [miríša]; podsmə́rčam/ podsmə́rkvam/ podsmə́rkna
+15.22	smell (vb trans)	[pomirísvam/ pomiríša]; [miríša]
+15.25	fragrant, good smelling	blagouxánen; [aromáten]; [aromatíčen]
+15.26	stinking, bad smelling	vonjášt, zlovónen
+15.31	taste	vkúsvam/ vkúsja
+15.35	sweet	sládək
+15.36	salty	solén
+15.37	bitter	gorčív
+15.38	acid, sour	kísel
+15.39	brackish	və́zsolen
+15.41	hear	čuvam/ čuja
+15.42	listen	slúšam
+15.44	sound, noise	zvúk; šúm
+15.45	loud	sílen; šúmen
+15.46	quiet, silence	tišiná; məlčánie
+15.51	see	viždam/ vídja
+15.52	look, look at	glédam
+15.55	show	pokázvam/ pokáža
+15.56	shine	svétja; blestjá
+15.57	bright	járək; svétəl
+15.61	color	c̷vját
+15.62	light (in color)	svétəl
+15.63	dark (in color)	tə́men
+15.64	white	bjál
+15.65	black	čéren
+15.66	red	červén
+15.67	blue	sín
+15.68	green	zelén
+15.69	yellow	žə́lt
+15.71	touch	dokósvam/ dokósna (se do); pípam/ pípna
+15.712	pinch	štípja; oštípvam/ oštípja
+15.72	feel	opípvam/ opípam; uséštam/ usétja; čúvstvuvam (se)
+15.74	hard	tvə́rd
+15.75	soft	mék
+15.76	rough	[grápav]; grúb
+15.77	smooth	gládək
+15.78	sharp	óstər
+15.79	blunt, dull	tə́p; iztə́pen
+15.81	heavy	téžək
+15.82	light (in weight)	lék
+15.83	wet, damp	mókər; vlážen
+15.84	dry	súx
+15.85	hot	goréšt
+15.851	warm	tópəl
+15.86	cold	studén
+15.87	clean	číst
+15.88	dirty, soiled	mrə́sen; izc̷ápan
+15.89	wrinkled	sbrə́čkan
+16.11	soul, spirit	dušá; dúx
+16.15	surprised, astonished	iznenádan; učúden; udivén
+16.18	good fortune, luck	[kəsmét]; štástie
+16.19	misfortune, bad luck	lóš [kəsmét]; neštastie
+16.23	joyful, glad, happy	rádosten; štastlív
+16.25	laugh	sméja se
+16.251	smile	usmíxvam/ usmíxna se
+16.26	play	igrája; svírja
+16.27	love	obíčam; óbič; ljubóv
+16.29	kiss	c̷elúvam/ c̷elúna
+16.3	embrace	pregrə́štam/ pregə́rna
+16.31	pain	bólka
+16.32	grief, sorrow, sadness	górest; skrə́b; žalost; pečál; žál
+16.33	anxiety, worry	bezpokójstvie/ bezpokójstvo; zagríženost; trevóga; ugríženost
+16.34	regret, be sorry	səžaljávam/ səžaljá
+16.35	pity	žál; səstradánie; mílost; səžalénie; žalost
+16.37	cry, weep	pláča
+16.38	tear (noun)	səlzá
+16.39	groan	pə́škam; sténa; óxkam
+16.41	hate	mrázja; nenavíždam/ nenavídja
+16.42	anger	jád; gnjáv
+16.44	envy, jealousy	závist; révnost
+16.45	shame (noun)	srám
+16.48	proud	górd
+16.51	dare	sméja; osmeljávam/ osmeljá se
+16.52	brave	xrábər; smél
+16.53	fear, fright	stráx; bojázən; upláxa
+16.54	danger	opásnost
+16.62	desire, want	želája; ískam
+16.622	choose	izbíram/ izberá
+16.63	hope	nadjávam se; nadéžda
+16.65	faithful	véren
+16.66	true	véren
+16.67	lie, tell lies	lə́ža
+16.68	deceit	izmáma
+16.69	forgive	proštávam/ prostjá (na)
+16.71	good	dobə́r
+16.72	bad	lóš
+16.73	right, correct	véren; právilen
+16.74	wrong	nevéren; neprávilen
+16.76	fault	gréška; viná
+16.77	mistake, error	gréška, pogréška
+16.78	blame	viná
+16.79	praise	poxvála
+16.81	beautiful	krasív; [xúbav]
+16.82	ugly	grózen
+16.83	greedy	lákom; álčen
+16.84	clever	úmen; inteligénten; xítər;
+17.11	mind	úm; rázum
+17.13	think (= reflect)	míslja
+17.14	think (= be of the opinion)	smjátam; míslja
+17.15	believe	vjárvam
+17.16	understand	razbíram/ razberá
+17.17	know	znája
+17.171	guess	gadája; nalúčvam/ nalúčkvam/ nalúčam/nalúčkam; predpolágam/ predpolóža
+17.172	imitate	podražávam; [imitíram]
+17.18	seem	izgléždam
+17.19	idea, notion	ponjátie; predstáva; [idéja]; mísəl
+17.21	wise	mə́dər
+17.22	foolish, stupid	glúpav; tə́p
+17.23	insane, crazy	lúd; (umo)pobə́rkan
+17.24	learn	úča; úča se; naučávam/ naúčvam/ naúča; izúčvam/ izúča
+17.242	study	úča se; úča; izučávam/ izúča; proúčvam/ proúča; slédvam
+17.25	teach	úča; obučávam; naučávam/ naúčvam/ naúča; prepodávam
+17.26	pupil	učeník
+17.27	teacher	učítel; prepodavátel
+17.28	school	učílište; [škóla]
+17.31	remember	pómnja; zapómnjam/ zapómnja; spómnjam/ spómnja si; pripómnjam/ pripómnja si; spómnjam/ spómnja si
+17.32	forget	zabrávjam/ zabrávja
+17.34	clear, plain	jásen
+17.35	obscure	nejásen; tə́men
+17.36	secret	tájna
+17.37	sure, certain	[síguren]; uvéren
+17.38	explain	objasnjávam/ objasnjá
+17.41	intention, purpose	namerénie; c̷él
+17.42	cause	pričína
+17.43	doubt	səmnjávam se
+17.44	suspect	podozíram/ podozrá
+17.441	betray	izdávam/ izdám; predávam/ predám; izménjam/ izmenjávam/ izmenjá
+17.45	need, necessity	núžda; neobxodímost
+17.46	easy	lésen
+17.47	difficult	trúden; téžək
+17.48	try, attempt	opítvam/ opítam (se); [próbvam]
+17.49	way, manner	náčin; spósob
+17.51	and	i; a
+17.52	because	zaštóto
+17.53	if	akó; dalí
+17.54	or	íli
+17.55	yes, affirmative	dá; utvərdítelen
+17.56	no, negative	ne; otric̷átelen
+17.61	how?	kák?
+17.62	how many?	kólko?
+17.63	how much?	kólko?
+17.64	what?	kakvó?; štó?
+17.65	when?	kogá?
+17.66	where?	kədé?
+17.67	which?	kój?
+17.68	who?	kój?
+17.69	why?	zaštó?
+18.11	voice	glás
+18.12	sing	péja
+18.13	shout, cry out	víkam
+18.15	whisper	šépna/ šeptjá
+18.16	mumble	mə́nkam; smə́nkvam/ smə́nkam
+18.17	whistle	svírkam; svírja
+18.18	shriek, screech	píštjá; kreštjá
+18.19	howl	víja
+18.21	speak, talk	govórja; prikázvam
+18.211	stutter, stammer	zaékvam/ zaékna; ečá; [peltéča]
+18.22	say	kázvam/ káža
+18.221	tell story	razkázvam/ razkáža; razprávjam/ razprávja
+18.222	speech (make a)	(proiznásjam/ proiznesá) réč
+18.23	silent (be)	məlčá
+18.24	language	ezík
+18.26	word	dúma
+18.28	name	íme
+18.31	ask (question, inquire)	pítam, popítvam/ popítam; zadávam vəprós
+18.32	answer	otgovárjam/ otgovórja
+18.33	admit, confess	priznávam/ priznája
+18.34	deny	otríčam/ otreká; otxvə́rljam/ otxvə́rlja; oprovergávam/ oprovergája
+18.35	ask, request	mólja; pomólvam/ pomólja
+18.36	promise	obeštávam/ obeštája
+18.37	refuse	otkázvam/ otkáža (na)
+18.38	forbid	zabranjávam/ zabranjá (na)
+18.39	rebuke, scold	ukorjávam/ ukorjá; uprékvam/ uprékna; mə́mrja; xókam
+18.41	call (=summon)	povíkvam/ povíkam; prizovjávam/ prizovjá; izvíkvam/ izvíkam
+18.42	call (=name)	naríčam/ nareká
+18.43	announce	objávjávam/ objávja; razglasjávam/ razglasjá
+18.44	threaten	zaplášvam/ zapláša; zastrašávam/ zastrašá
+18.45	boast	xválja se
+18.51	write	píša; napísvam/ napíša
+18.52	read	četá
+18.56	paper	[xartíja]
+18.57	pen	pisálka; peró; [ximikálka]
+18.61	book	kníga
+18.67	poet	[poét]; stixotvórec̷
+18.71	flute	[fléjta]; [kavál]
+18.72	drum	[barabán]; tə́pan
+18.73	horn, trumpet	[kórna]; [trompét]; [kornét]
+18.74	rattle	drənkálka
+19.11	country	straná
+19.12	one's native country	ródina; otéčestvo
+19.15	city, town	grád
+19.16	village	sélo
+19.17	boundary	gránic̷a
+19.21	people (populace)	naród
+19.23	tribe, clan	pléme; [klán]
+19.24	chief, chieftain	vóžd; glavatár
+19.25	staff, walking stick	tojága; [bastún]; prə́t
+19.31	rule, govern	[upravljávam]
+19.32	king, ruler	[c̷ár]; [král]
+19.33	queen	caríca; kralíca
+19.36	noble, nobleman	blagoródnik; [aristokrát]
+19.37	citizen, subject	graždanín; [pódanik]
+19.41	master	gospodár
+19.42	slave	rób
+19.43	servant	slúga
+19.44	freeman	svobóden čovék; počéten čovék
+19.45	command, order	zapovjádvam/ zapovjádam; [kománduvam]
+19.46	obey	podčinjávam/ podčinjá se; pokorjávam/ pokorjá se; slédvam; slúšam
+19.47	let, permit	pozvoljávam/ pozvoljá; razrešávam/ razrešá; púskam/ púštam/ púsna
+19.51	friend, companion	prijátel; drugár
+19.52	enemy	vrág; neprijátel
+19.54	neighbor	səséd
+19.55	stranger	nepoznát; čuždenéc
+19.56	guest	góst
+19.57	host	[domakín]
+19.58	help, aid	pomágam/ pomógna
+19.59	hinder, prevent	vəzprepjátstvuvam; préča
+19.61	custom	običáj
+19.62	strife, quarrel	[konflíkt]; [kavgá]; káranica; rázpra; spór
+19.63	conspiracy, plot	zágovor; [konspirácija]
+19.65	meet	sréštam/ sréštna (se s)
+19.72	prostitute	[prostitútka]; [publíčna] žená
+20.11	fight (vb)	sražávam se; bórja se; bíja se; vojúvam
+20.13	war, battle	vojná; sražénie; bój
+20.14	peace	mír
+20.15	army	[ármija]; vojská
+20.17	soldier	vojník; [voénen]; vóin
+20.21	weapons, arms	orə́žija
+20.22	club	tojága; prə́t; [sópa]
+20.222	battle-ax	bójna [brádva]; topór
+20.23	sling	práška
+20.24	bow	lə́k
+20.25	arrow	strelá
+20.26	spear	kópie
+20.27	sword	méč
+20.28	gun, cannon	orə́die; púška; [tóp]
+20.31	armor (defensive)	[brónja]; [dospéxi]; ríznic̷a
+20.33	helmet	šlém; [káska]
+20.34	shield	štít
+20.35	fortress	[krépost]
+20.36	tower	[kúla]
+20.41	victory	pobéda
+20.42	defeat	poražénie; pobéda
+20.43	attack	napádam/ napádna
+20.44	defend	zaštišávam/ zaštitávam/ zaštitjá
+20.45	retreat	otstə́pvam/ otstə́pja; ottégljam/ ottéglja se; [otdrə́pvam/ otdrə́pna se]
+20.46	surrender	predávam/ predám se; [kapitulíram]
+20.47	captive, prisoner	plénnik; zatvórnik
+20.471	guard, sentinel	[karaúl]; stráža; [časoví, časovój]; oxrána
+20.48	booty, spoils	pljáčka; voénni [troféi]
+20.49	ambush	zasáda; klópka; [kapán]
+20.51	fisherman	ribár
+20.52	fishhook	və́dic̷a
+20.53	fishing line	[kórda]; vrə́v; [šnúr]
+20.54	fishnet	ribárska mréža
+20.55	fish trap	--
+20.56	bait	strə́v
+20.61	hunt	lóvja; xódja na lóv; lovúvam
+20.62	shoot	stréljam; zastrélvam/ zastréljam; razstrélvam
+20.63	miss (target)	ne ulúčvam/ ulúča
+20.64	trap (noun)	[kapán]; klópka; prímka
+20.65	trap (vb)	xváštam/ xvána v [kapán]; vprímčvam/ vprímča
+21.11	law	právo; [jurisprudénc̷ija]; zakón
+21.15	court	sə́d
+21.16	judge (vb)	sə́dja
+21.17	judgment	rešénie; prisəda
+21.18	judge (noun)	sədijá
+21.21	plaintiff	[ištéc]
+21.22	defendant	podsədím; [otvétnik]
+21.23	witness	svidétel
+21.24	swear	zaklé̈vam/ zakəlná se; kəlná se
+21.25	oath	klétva
+21.31	accuse	obvinjávam/ obvinjá
+21.32	condemn	osə́ždam/ osə́dja
+21.33	convict (vb)	namíram/ namérja za vinóven; osə́ždam/ osə́dja
+21.34	acquit	opravdávam/ opravdája
+21.35	guilty	vinóven
+21.36	innocent	nevínen
+21.37	penalty, punishment	nakazánie
+21.38	fine	glóba
+21.39	prison, jail	zatvór; təmníca
+21.42	murder	ubívam/ ubíja
+21.43	adultery	preljubodejánie/ preljubodéjstvie; preljubodéjstvo
+21.44	rape	iznasílvane
+21.46	arson	paléž
+21.47	perjury	ləžesvidételstvuvane
+21.51	steal	kradá; otkrádvam/ otkrádna
+21.52	thief	kradéc̷
+22.11	religion	[relígija]; vjára
+22.12	God	Bóg
+22.13	temple, church	xrám; [c̷ə́rkva]; čérkva
+22.14	altar	[oltár]
+22.15	sacrifice, offering	[žértva]; žertvoprinošénie]
+22.16	worship	preklánjam/ preklonjá se pred; obožávam
+22.17	pray	mólja se
+22.18	priest	svešténik; [póp]
+22.19	holy, sacred	svját, sveštén
+22.22	preach	[propovjádvam]
+22.23	bless	[blagoslávjam]
+22.24	curse	proklínam/ prokəlná; kəlná
+22.26	fast (vb)	[póstja]
+22.31	heaven	nebé; [ráj]
+22.32	hell	[ád]; pə́kəl
+22.35	demon (evil spirit)	[démon]; [djávol]
+22.37	idol	[ídol]
+22.42	magic, witchcraft, sorcery	[magíja]; mag'ósničestvo; [vəlšébstvo]
+22.43	sorcerer, witch	[magjósnik]; [vəlšébnik]; čarodéec̷; [mag'ósnic̷a]; [véštic̷a]; [vəlšébnic̷a]; čarodéjka
+22.44	fairy, elf	[féja]; [élf]; górski dúx; samodíva
+22.45	ghost, phantom	dúx; prízrak
+22.47	omen, portent	predznamenovánie; známenie

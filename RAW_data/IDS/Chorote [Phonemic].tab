@@ -1,0 +1,1311 @@
+entry_id	trans_english	Chorote_Phonemic
+1.1	world	
+1.21	earth, land	axnat (f.)
+1.212	earth=ground, soil	axnat (f.)
+1.213	dust	lamak (m.)
+1.214	mud	isat
+1.215	sand	isye
+1.22	mountain, hill	takixnakiʔ
+1.222	cliff, precipice	takina (m.)
+1.23	plain, field	fʷex (f.)
+1.24	valley	--
+1.25	island	
+1.26	mainland	--
+1.27	shore	tewk takinaʔ
+1.28	cave	ixwo (f.)
+1.31	water	anat
+1.32	sea	--
+1.322	calm (of sea)	--
+1.323	rough (of sea)	--
+1.324	foam	-satyuʔ
+1.329	ocean	--
+1.33	lake	
+1.34	gulf, bay	--
+1.341	lagoon	anat-let (f.)
+1.342	reef	--
+1.343	headland, point	takina-ki-laseʔ
+1.35	wave	anat-isawompe
+1.352	tide	--
+1.353	lowtide	--
+1.354	hightide	--
+1.36	river, stream, brook	tewak (m.)
+1.362	whirlpool	ofʷatakiʔ
+1.37	spring, well	tokkiʔ
+1.38	swamp	naxe
+1.39	waterfall	anat-aleteyin
+1.41	woods, forest	linaʔ
+1.42	tree (cf 08.600)	alaʔ
+1.43	wood	alaʔ
+1.44	stone, rock	-poy (f.)
+1.45	earthquake	axnat-tiwesi
+1.51	sky	poleʔ
+1.52	sun	kilay
+1.53	moon	weʔla
+1.54	star	kates (f.)
+1.55	lightning	yexey (?); tˀakayi
+1.56	thunder	-syulteni
+1.57	lightning (as striking)	yexey (?)
+1.58	storm	afʷesyeyi
+1.59	rainbow	sapalkat
+1.61	light (noun)	lal; xloma
+1.62	darkness	axna
+1.63	shade, shadow	-peluk ~ -piluk (m.)
+1.64	dew	yista (m.)
+1.71	air	-yel (f.)
+1.72	wind	laxwu
+1.73	cloud	poleʔ (m.)
+1.74	fog	toxsa-ta; inyexkay
+1.75	rain (noun)	pexla
+1.76	snow (noun)	fʷiyit inyuneʔ
+1.77	ice	fʷiyit (m.)
+1.78	weather	lomaʔ
+1.81	fire	etyeʔ (f.)
+1.82	flame (noun)	lal (m.)
+1.83	smoke (noun)	toxsa
+1.84	ashes	taxlat (m.)
+1.841	embers	eytifʷuk
+1.851	burn (vb trans)	-wun
+1.852	burn (vb intrans)	etye otam
+1.86	light, kindle, ignite	-tofʷaniti ~ -tyufʷaniti; -xlanee
+1.861	extinguish	omateʔ ~ -tomateʔ
+1.87	match (noun)	etye-kas
+1.88	firewood	-xoxpat ~ -oxpat
+1.89	charcoal	fʷayokiʔ (f.)
+2.1	person, human being	inyoʔ
+2.21	man (vs. woman)	ayinye
+2.22	woman	axwuʔ
+2.23	male	ayinye (m.)
+2.24	female	axwuʔ
+2.25	boy	inye-was
+2.251	young man (adolescent)	yek
+2.26	girl	inye-weseʔ
+2.261	young woman (adolescent)	xloxsa
+2.27	child	kyale; kyale-ki
+2.28	infant, baby	
+2.31	husband	-kilwaʔ ~ -c̷ilwaʔ ~ -ilwaʔ
+2.32	wife	-kilfʷaʔ ~ -c̷ilfʷaʔ ~ -ilfʷaʔ
+2.33	marry	-fʷayi
+2.34	marriage, wedding	ti-fʷayi-c̷in
+2.341	divorce	-lewe ~ -liwe
+2.35	father	-naʔ ~ -nye (m.)
+2.36	mother	et; meme
+2.37	parents	-nawot ~ -nyewot
+2.38	married man	inyoʔ ti-fʷayi
+2.39	married woman	axwuʔ ti-fʷayi
+2.41	son	-as
+2.42	daughter	-axseʔ
+2.43	offspring (son or daughter)	-les
+2.44	brother	
+2.444	older brother	-kilyeʔ ~ -silyeʔ
+2.445	younger brother	-kini ~ -c̷ini ~ -ini
+2.45	sister	
+2.454	older sister	-kyaaxuʔ
+2.455	younger sister	-kixnyeʔ
+2.456	sibling	
+2.458	twins	-ntakkiʔ
+2.46	grandfather	-tʔek; totyuʔ
+2.461	old man	kixil
+2.47	grandmother	-eyi
+2.471	old woman	kixil-akiʔ
+2.48	grandson	-kiyes ~ siyes
+2.49	granddaughter	-kiyeʔ ~ -siyeʔ
+2.51	uncle	lieʔ
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	-tieʔ
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	
+2.54	niece	
+2.55	cousin	-tyelas
+2.56	ancestors	i-nyeyin epi -c̷oyeʔ
+2.57	descendants	-les ~ -lis
+2.61	father-in-law (of a man)	-kante-k
+2.611	father-in-law (of a woman)	-kante-k ~ -kyante-k (m.)
+2.62	mother-in-law (of a man)	-kanteʔ ~ -kyanteʔ
+2.621	mother-in-law (of a woman)	-kanteʔ
+2.63	son-in-law (of a man)	-fʷeluʔ ~ -fʷiluʔ
+2.631	son-in-law (of a woman)	-fʷeluʔ
+2.64	daughter-in-law (of a man)	-fʷeles
+2.641	daughter-in-law (of a woman)	-fʷeles
+2.71	stepfather	-wo-nawa ~ -yo-nawa
+2.72	stepmother	-wo-eta ~ -wo-ita ~ -yo-eta
+2.73	stepson	-asenek ~ -esenek ~ -axsenek
+2.74	stepdaughter	-axsenkiʔ ~ -exsenkiʔ
+2.75	orphan	kimpena (m.)
+2.76	widow	asyela-kiʔ
+2.77	widower	asyela
+2.81	relatives, kinsmen	exekyeʔ
+2.82	family	-xyeʔ (f.)
+2.91	I	y-em
+2.92	you (singular)	am
+2.93	he/she/it	l-am
+2.94	we	s-am
+2.941	we (inclusive)	y-em-el ~ s-am-el
+2.942	we (exclusive)	s-am
+2.95	you (plural)	am-el
+2.96	they	l-am-is
+3.11	animal	-lafʷa ~ lyefʷa
+3.12	male (adj)	l-ayinye
+3.13	female (adj)	axwuʔ
+3.15	livestock	--
+3.16	pasture	xupaykyet
+3.18	herdsman	sontas-i-woʔ
+3.19	stable, stall	alenta-xi-wet
+3.2	cattle (bovine)	[wakye]s
+3.21	bull	[tolo]
+3.22	ox	[tolo] inkixmayexiwoʔ
+3.23	cow	[wakye]
+3.24	calf	[wakye]laxseʔ
+3.25	sheep	sonta
+3.26	ram	sonta-yinye
+3.28	ewe	wole-poʔ (f.)
+3.29	lamb	sonta-las
+3.32	boar	kixniye
+3.34	sow	ixnixsa
+3.35	pig	ixnisa-tok
+3.36	goat	sonta-tok
+3.37	he-goat	sonta yinye (m.)
+3.38	kid	sonta-tok-las
+3.41	horse (equine)	alenta
+3.42	stallion	
+3.44	mare	alenta
+3.45	foal, colt	alenta-las (m.)
+3.46	ass, donkey	malekye-tok (m.)
+3.47	mule	malekyeʔ (m.)
+3.5	fowl	afʷena (f.)
+3.52	cock, rooster	wota-ayinye
+3.54	hen	wota-xa
+3.55	chicken	wota-las
+3.56	goose	
+3.57	duck	kaye; ixnyeni
+3.58	nest	xlup (m.)
+3.581	bird	afʷena (m.)
+3.582	seagull	--
+3.583	heron	akatax (f.)
+3.584	eagle	iston (m.)
+3.585	hawk	afʷenas-ikyeʔ
+3.586	vulture	
+3.591	bat	exeyeʔ (f.)
+3.592	parrot	eleʔ
+3.593	crow	wikis (f.)
+3.594	dove	ofʷoʔ; sipop; olaxa
+3.596	owl	kyustax (m.)
+3.61	dog	noʔo (m.)
+3.614	rabbit	nateʔ
+3.62	cat	tinuk
+3.622	opossum	
+3.63	mouse, rat	amaa (f.)
+3.65	fish	siyus
+3.652	fin (dorsal)	-fʷesimpe (f.)
+3.653	fishscale	lotis (f.)
+3.654	gill	
+3.655	shell	tax
+3.661	shark	--
+3.662	porpoise, dolphin	--
+3.663	whale	--
+3.664	stingray	siyixsyenatakiʔ
+3.665	freshwater eel	
+3.71	wolf	
+3.72	lion	iwaxla (m.)
+3.73	bear	--
+3.74	fox	woykiʔ
+3.75	deer	kilyeni
+3.76	monkey	alexyenakiʔ
+3.77	elephant	--
+3.78	camel	--
+3.81	insect	fʷelekiʔ
+3.811	louse	ixlyeʔ
+3.812	nit (louse egg)	inla-leʔkyuʔ (f.)
+3.813	flea	lataʔ (f.)
+3.814	centipede	isek waso
+3.815	scorpion	axlupastana
+3.816	cockroach	tʔatosey (f.)
+3.817	ant	tokis (m.)
+3.818	spider	siwalak (f.)
+3.819	spider web	siwalak-ixlek
+3.82	bee	telena
+3.821	beeswax	iyus (m.)
+3.822	beehive	iwos kac̷itun
+3.823	wasp	wonaʔ; akyot
+3.83	fly	katakiʔ (f.)
+3.831	sandfly (midge), gnat	
+3.832	mosquito	maleweʔ (m.); eyeʔ; fʷayoy
+3.84	worm	wesisitok (f.)
+3.85	snake	xuppa
+3.91	firefly	noyu (f.)
+3.92	butterfly	kopiyeʔ (f.)
+3.93	grasshopper	kyol
+3.94	snail	laʔpix (m.)
+3.95	frog	-les
+3.96	lizard	kyeʔla
+3.97	crocodile, alligator	aluta (m.)
+3.98	turtle	axnat-ic̷empe; kityeneʔ
+4.11	body	-fʷes (m.)
+4.12	skin, hide	-ax ~ -ex
+4.13	flesh	-syen (m.)
+4.14	hair (head)	-woleʔ (m.)
+4.142	beard	-poxsiʔ (f.) ~ -pyuxsiʔ
+4.144	body hair	-woleʔ ~ -yoleʔ (f.)
+4.145	pubic hair	-woleʔ
+4.146	dandruff	-xetek-lamak (f.)
+4.15	blood	-woyis ~ -yoyis
+4.151	vein, artery	-satayek ~ -syatayek (f.)
+4.16	bone	-weʔlak ~ -wilak (m.)
+4.162	rib	-xles ~ -xlis (m.)
+4.17	horn	-kyuʔ (f.)
+4.18	tail	-kyes; -kyes-kiʔ; -kyes-kina
+4.19	back	-kyeyi ~ -syeyi
+4.191	spine	-kyey-xi-weʔlak
+4.2	head	-xetek ~ -xitek (f.)
+4.201	side of head, temple	
+4.202	skull	-xetek-xi-weʔlak
+4.203	brain	-tekixli ~ -tikixli (f.)
+4.204	face	-tokyoʔ ~ -tyokyoʔ (m.)
+4.205	forehead	-tokyo-c̷eʔ (m.)
+4.207	jaw	-kyalomkiʔ (f.)
+4.208	cheek	-kyaloʔ ~ -c̷yaloʔ (m.)
+4.209	chin	-ek ~ -ik (f.)
+4.21	eye	-tateʔ (f.)
+4.212	eyebrow	-tokyo-seʔ ~ -tyokyo-seʔ
+4.213	eyelid	-tate-tax (f.)
+4.214	eyelash	-taseʔ ~ -tyeseʔ
+4.215	blink	-c̷em-c̷emiyeen
+4.22	ear	-kyoteʔ ~ -c̷yoteʔ ~ -yoteʔ (f.)
+4.221	earlobe	-kyote-xic̷eʔ (f.)
+4.222	earwax	leʔc̷i
+4.23	nose	-xnatowo ~ -xnyetowo
+4.231	nostril	-xnatowo-tyowe
+4.232	mucus (nasal)	-xnatiyey ~ -xnyetiyey
+4.24	mouth	ay ~ -ey (f.)
+4.241	beak	-paxsat (m.)
+4.25	lip	-paxsat ~ -pyesat (m.)
+4.26	tongue	-kax ~ -kyax (f.)
+4.27	tooth	-afʷeʔ ~ -efʷeʔ (f.)
+4.271	gums	-asan ~ -esan (f.)
+4.272	molartooth	-kyalomkiʔ ~ -c̷yalomkiʔ (f.)
+4.28	neck	-sapaʔ
+4.281	nape of neck	-xetekxixut (m.)
+4.29	throat	-wotyowe; -sapa-kiʔ
+4.3	shoulder	-lewe ~ -liwe
+4.301	shoulderblade	-kyalexnateʔ ~ -syalexnateʔ
+4.302	collarbone	waayimpe (m.)
+4.31	arm	-fʷopoʔ ~ -xyopoʔ (f.)
+4.312	armpit	-fʷopo-kiʔ ~ -xyopo-kiʔ (m.)
+4.32	elbow	-katokiʔ ~ -kyatokiʔ (f.)
+4.321	wrist	-kyoy-xiwolkakiʔ
+4.33	hand	-kyoy ~ -syoy (f.)
+4.331	palm of hand	-kyoy-tʔot
+4.34	finger	-yesikiʔ (f.)
+4.342	thumb	-yesiki-wu
+4.344	fingernail	-yesiki-pot
+4.345	claw	fʷiki-pot
+4.35	leg	-akyoxna ~ -ekyoxna
+4.351	thigh	-akyoxna ~ -ekyoxna
+4.352	calf of leg	-kaxsan (f.)
+4.36	knee	-kosletikiʔ ~ -kyusletikiʔ
+4.37	foot	-kalaʔ ~ -kyala (m.)
+4.371	ankle	-woxolan ~ -yoxolan (m.)
+4.372	heel	-poʔkyo ~ -pyokyoʔ (m.)
+4.374	footprint	-kaye (f.)
+4.38	toe	-fʷikiʔ (f.)
+4.392	wing	-fʷes (f.)
+4.393	feather	-woleʔ
+4.4	chest	-ot (f.)
+4.41	breast (of woman)	tˀ-ateʔ ~ -eteʔ
+4.412	nipple, teat	tˀ-ateʔ ~ -eteʔ (f.)
+4.42	udder	tˀ-ate
+4.43	navel	-lox ~ -lyox (f.)
+4.44	heart	-oxtaleʔ (f.)
+4.441	lung	-yelxiwetiki (f.)
+4.45	liver	-kaxlek ~ -kyaxlek (m.)
+4.451	kidney	-kyentiyeʔ ~ -syentiyeʔ (f.)
+4.452	spleen	-sipat
+4.46	stomach	-akxiwet
+4.461	intestines, guts	-kaxsiliʔ ~ -kyaxsiliʔ (m.)
+4.462	waist	-kʔyokiʔ
+4.463	hip	-akyonates ~ -ekyonates (f.)
+4.464	buttocks	-we-kyaloʔ ~ -wi-kyaloʔ
+4.47	womb	-towexe ~ -tyowexe
+4.49	testicle	-kemiʔ
+4.492	penis	-ok
+4.51	breathe, breath	-yelixiʔ
+4.52	yawn, gape	ay-yixsa ~ -ey-yixsa ~ -ay-c̷ixsa
+4.521	hiccough	-oʔpaleʔ
+4.53	cough	-koxokin
+4.54	sneeze	xnatisyem ~ xnyetisyem
+4.55	perspire	-kyunexen ~ syunexen
+4.56	spit	-fʷac̷uxnen ~ -fʷyec̷uxnen
+4.57	vomit	-koxin ~ -kyuxin
+4.58	bite	oka
+4.59	lick	napuʔ ~ -nyepuʔ
+4.591	dribble	
+4.61	sleep	-maʔa ~ -miʔe
+4.612	snore	-nakat ~ -nyakat
+4.62	dream	-fʷexlyen ~ -fʷixlyen
+4.63	wake up	owneʔ ~ -towneʔ
+4.64	break wind	
+4.65	urinate	-ol ~ -tol ~ -ul
+4.66	defecate	-xlam ~ -xlyem
+4.67	have sexual intercourse	-fʷaʔ
+4.68	shiver	-ekilalin ~ -ikilalin
+4.69	bathe	-nayianaxtiʔ ~ -nyeyianaxtiʔ
+4.71	beget (of father)	
+4.72	born (to be)	-eyin ~ -iyin ~ -wayin
+4.73	pregnant	-kimixnyen ~ -simixnyen
+4.732	conceive	
+4.74	live, living, life	-waxsan
+4.75	die, dead	-al ~ -el
+4.751	drowned	-elkaan ~ -ilkaan
+4.76	kill	-lan ~ -lyen
+4.77	corpse	-weʔlak
+4.78	bury (the dead)	-powe ~ -pyowe
+4.79	grave, tomb	ano (f.)
+4.81	strong, mighty, powerful	-toxseyin
+4.82	weak	xe-tuskiʔ
+4.83	well, health	-es ~ -se
+4.84	sick, sickness	xe-es
+4.841	fever	-laye ~ -lyaye (m.)
+4.842	goiter	loʔkʔat
+4.843	cold (catarrh)	-kakil ~ -kyakil
+4.85	wound, sore	xeyoyam
+4.852	bruise	
+4.853	swelling	tikyeʔen
+4.854	itch	lap-lap-iʔ
+4.855	blister	kalaliyam (m.)
+4.856	boil (noun)	inetas (f.)
+4.857	pus	-lyek
+4.858	scar	-kixso ~ -sixso (f.)
+4.86	cure, heal	-woxikyewa ~ -yoxikyewa
+4.87	physician	-kakye-xiwoʔ
+4.88	medicine, drug	-kakyeʔ ~ -kyakyeʔ
+4.89	poison	-kakye inyo ilyen
+4.91	tired, weary	-ola ~ -uxla
+4.912	rest	axap ~ -exep
+4.92	lazy	xe-tuskiʔ
+4.93	bald	la woli-yeʔ
+4.94	lame	akyoxna-xe-es
+4.95	deaf	xa -peysiin
+4.96	mute	xe-amtiʔ
+4.97	blind	talok
+4.98	intoxicated	-om ~ -xom ~ -xyum
+4.99	naked, bare	-naxlineʔ
+5.11	eat	-yekyun; -tox ~ -tyux
+5.12	food	-pen-ek ~ -pin-ik
+5.121	cooked	-pen-a
+5.122	raw	xe yoweʔ
+5.123	ripe	yoweʔ
+5.124	green, unripe	xe yoweʔ
+5.125	rotten	ifʷyesam
+5.13	drink	-ye
+5.14	hunger	-nalen
+5.141	famine	-nalyen ~ -nyelyen
+5.15	thirst	-yeyiʔ
+5.16	suck	-c̷oweʔ ~ -c̷yuweʔ
+5.18	chew	-tofʷiyin; -tani ~ -tyeni
+5.181	swallow	-tem ~ -tim
+5.19	choke	kyus
+5.21	cook	-ka-pen-an; -pen ~ pin
+5.22	boil (vb)	-nawayetiʔ ~ -nyewayetiʔ
+5.23	roast, fry	-senyen ~ -sinyen
+5.24	bake	-xlon ~ -xlyon
+5.25	oven	-kalanati ~ -kyalanati (f.)
+5.26	pot, cooking vessel	taas
+5.27	kettle	--
+5.28	pan	taas
+5.31	dish	tetik
+5.32	plate	tetik (f.)
+5.33	bowl	tetik
+5.34	pitcher, jug	-ateʔ ~ -eteʔ (f.)
+5.35	cup, drinking vessel	tetik
+5.36	saucer	tetik-laseʔ
+5.37	spoon	toxsinye
+5.38	knife	safʷeʔ ~ -syefʷeʔ (m.)
+5.39	fork	toxsinye-tok (f.)
+5.391	tongs	ot-es yakatamiʔ
+5.41	meal (a)	-pen-ek; -ak
+5.42	breakfast	--
+5.43	lunch	--
+5.44	dinner	-pen-ek ~ -pin-ek (f.)
+5.45	supper	--
+5.46	peel	tʔax-lane ~ tʔax-lyene
+5.47	sieve, strain	
+5.48	scrape	-kyeʔc̷eʔ ~ -syeʔc̷eʔ
+5.49	stir, mix	-panekyafʷey ~ -pyanekyafʷey
+5.51	bread	woye (f.)
+5.53	dough	--
+5.54	knead	-silyeni
+5.55	meal, flour	wac̷o-lamak
+5.56	crush, grind	et anateʔ ~ -tet anateʔ
+5.57	mill	laxwuxilakikiʔ
+5.58	mortar	winxlik (f.)
+5.59	pestle	wilik-ikyeʔ
+5.61	meat	-syen
+5.63	sausage	--
+5.64	soup, broth	-pen-ek-tepoʔo
+5.65	vegetables	--
+5.66	bean	
+5.7	potato	fʷelye-tok (f.)
+5.71	fruit	laʔ (m.)
+5.712	bunch	layxi-wet (m.)
+5.75	fig	--
+5.76	grape	c̷enye-tok (m.)
+5.77	nut	nokiki-tok (f.)
+5.78	olive	--
+5.79	oil	li-peʔ
+5.791	grease, fat	-peʔ
+5.81	salt	sifʷoniʔ
+5.82	pepper	ates
+5.821	chili pepper	ates (f.)
+5.84	honey	wona-teʔ ~ oxoʔnateʔ
+5.85	sugar	tic̷oyin-lamak
+5.86	milk (noun)	kaytyos
+5.87	milk (vb)	-kawoxni ~ -kyawoxni
+5.88	cheese	--
+5.89	butter	--
+5.9	beverage, drink	ates
+5.91	mead	fʷaayteʔ
+5.92	wine	--
+5.93	beer	--
+5.94	fermented drink	ates-i-tok (f.)
+5.97	egg	leʔkyuʔ (f.)
+5.971	egg yolk	lasxiwet (m.)
+6.11	put on (clothes)	-wo-yuyeʔ ~ -yo-wuyeʔ
+6.12	clothing, clothes	-wuy ~ -yuy; -waxaleʔ
+6.13	tailor	--
+6.21	cloth	waxaleʔ (m.)
+6.22	wool	sonta-woleʔ
+6.23	linen, flax	--
+6.24	cotton	walek (m.)
+6.25	silk	--
+6.27	felt	--
+6.28	fur	
+6.29	leather	-ax ~ -ex (m.)
+6.31	spin	-xleni ~ -xlini
+6.32	spindle	-sopa
+6.33	weave	atoxneʔ ~ -etoxneʔ
+6.34	loom	-fʷenyuk (f.)
+6.35	sew	atelyiʔ ~ -etelyiʔ; -katelan
+6.36	needle	itan (m.)
+6.37	awl	alaʔy-elinityam (m.)
+6.38	thread	-katelanat
+6.39	dye	-lenat oxtam
+6.41	cloak	-wi (m.)
+6.411	poncho	-fʷenyuk ~ -fʷinyuk (f.)
+6.42	woman's dress	-wuy ~ -yuy (f.)
+6.43	coat	potiyi (f.)
+6.44	shirt	--
+6.45	collar	--
+6.46	skirt	-wuy-tetyeeʔ
+6.461	grass-skirt	--
+6.48	trousers	-kyokileyis ~ -c̷yokileyis
+6.49	stocking, sock	-kamelyo
+6.51	shoe	-fʷey (m.)
+6.52	boot	--
+6.54	shoemaker, cobbler	na-fʷeyis-i-woʔ
+6.55	hat, cap	wonta (f.)
+6.57	belt, girdle	-fʷet ~ -fʷit (m.)
+6.58	glove	--
+6.59	veil	--
+6.61	pocket	-eliʔ ~ -iliʔ (f.)
+6.62	button	-tateʔ (f.)
+6.63	pin	apile-wita
+6.71	ornament, adornment	amis
+6.72	jewel	--
+6.73	ring (for finger)	-xukinyes ~ -xyukinyes (f.)
+6.74	bracelet	-palaʔ (f.)
+6.75	necklace	-yik (m.); kinyulaʔ
+6.76	bead	
+6.77	earring	-kawilikiʔ ~ -kyawilikiʔ (f.)
+6.78	headband, headdress	-ami
+6.79	tattoo	-leente
+6.81	handkerchief, rag	-xetek-pot; -xetek-pot-las
+6.82	towel	-tokyoʔ-tilexekiʔ
+6.91	comb	-xetek-xikyeʔ (f.)
+6.92	brush	
+6.921	braid	-kimiʔ ~ -simiʔ
+6.93	razor	-poxse-kyeʔ (f.)
+6.94	ointment	c̷ʔaxlakayi
+6.95	soap	waxale tilexeki
+6.96	mirror	tiyenaxay (f.)
+7.11	dwell, live	-eyne ~ -ine ~ -wane
+7.12	house	sawo ~ -syewo
+7.13	hut	sawo ~ -syewo
+7.131	garden-house	
+7.14	tent	tikinafʷom
+7.15	yard, court	-lafʷaxi-sawo
+7.16	men's house	--
+7.17	cookhouse	-ka-penan-a-wet (f.)
+7.18	meeting house	--
+7.21	room	
+7.22	door, gate	-kay ~ -kyay (f.)
+7.221	doorpost, jamb	
+7.23	lock (noun)	--
+7.231	latch, door-bolt	--
+7.24	key	sawo-kyeʔ
+7.25	window	-kay-las
+7.26	floor	axna-teʔ
+7.27	wall	isak
+7.31	fireplace	etye-xi-wet (m.)
+7.32	stove	--
+7.33	chimney	toxsa-kay (f.)
+7.37	ladder	tʔaxsayiʔ
+7.42	bed	-xawet ~ -xyewet ~ -awet
+7.421	pillow	-aysiwet ~ -eysiwet
+7.422	blanket	waʔleʔ (m.)
+7.43	chair	-wet ~ -wit (m.)
+7.44	table	-nakawet
+7.45	lamp, torch	kates-wux
+7.46	candle	li-peʔ (f.)
+7.47	shelf	
+7.48	trough	tayokiʔ
+7.51	roof	sawo ipyoʔ-apeʔe
+7.52	thatch	sawo ipyek
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	xlac̷ekiʔ
+7.57	board	alata (m.)
+7.58	arch	--
+7.61	mason	sawo-iwoʔ
+7.62	brick	apelki ~ -epilki (f.)
+7.63	mortar	--
+7.64	adobe	isat (m.)
+8.11	farmer	-kimayewoʔ (m.)
+8.12	field (for cultivation)	takaxnan
+8.13	garden	-axkanki-xi-wet (f.)
+8.15	cultivate, till	axnat -wayc̷ilat
+8.16	fence	-lafʷek (m.)
+8.17	ditch	anat-iwet
+8.21	plow	exan (?)
+8.212	furrow	inalesek (f.)
+8.22	dig	-texey ~ -tixiʔ
+8.23	spade	axnat-kyeʔ
+8.24	shovel	exnat ~ -ixnat
+8.25	hoe	axnat-kyeʔ
+8.26	fork	lakipoʔ (m.)
+8.27	rake	-kaye
+8.31	sow	-xkaxnan
+8.311	seed	lemtakiʔ
+8.32	mow, reap	--
+8.33	sickle, scythe	--
+8.34	thresh	-paʔteʔ ~ -pyeʔteʔ
+8.35	threshing-floor	--
+8.41	crop, harvest	-laʔ-kiʔmaʔ
+8.42	grain (barley, oats etc)	lemtakiʔ
+8.43	wheat	xupi-tok texekipoʔ
+8.44	barley	-kyalen (f.)
+8.45	rye	--
+8.46	oats	alenta-lak
+8.47	maize, corn	ipyek (m.)
+8.48	rice	xupi-tok
+8.51	grass	xupay
+8.52	hay	xop
+8.53	plant (noun)	naxkankiʔ
+8.531	plant (vb)	etesyem ~ -tetesyem
+8.54	root	fʷetis
+8.55	branch	-kaxs
+8.56	leaf	alaʔ-woleʔ (m.)
+8.57	flower	lawo (m.)
+8.6	tree	alaʔ (f.)
+8.61	oak	
+8.62	beech	--
+8.63	birch	--
+8.64	pine	
+8.65	fir	--
+8.66	acorn	--
+8.67	vine	yafʷayiin
+8.68	tobacco	inyewut; -xlanek ~ -xlyenek
+8.69	smoke (tobacco)	-xlaxnan
+8.691	pipe	-nawuti alaʔ ~ -nyewuti alaʔ
+8.72	tree stump	
+8.73	tree trunk	tesyuk (f.)
+8.74	forked branch	sawotiʔ (f.)
+8.75	bark	takataxay (f.)
+8.76	sap	ala-teʔe
+8.81	palm tree	wisyuk (f.)
+8.82	coconut	--
+8.83	citrus fruit	c̷afʷani-tok; noxsoyi
+8.84	banana tree	--
+8.85	banyan	--
+8.91	sweet potato	keoy; kyooy
+8.912	yam	
+8.92	tapioca, manioc, cassava	-wac̷oxnak
+8.93	gourd	sixnaye-tok
+8.931	pumpkin, squash	kiti-tok
+8.94	bamboo	sise-tok (m.)
+8.941	sugar cane	tic̷oyin
+8.96	fish poison (root)	
+8.97	nettle	atik (f.)
+8.98	mushroom	xlamoxlo
+9.11	do, make	-silyene
+9.12	work	-kixmen ~ -sixmen
+9.14	bend	-aykyel
+9.15	fold	apilkyafʷey ~ -epilkyafʷey
+9.16	tie, bind	-lanit ~ -lyenit; -fʷam
+9.161	untie	-laney ~ -lyeney
+9.18	chain	-yek ot
+9.19	rope, cord	niyek (f.)
+9.192	knot (noun)	koxsokiʔ (f.)
+9.21	strike (hit, beat)	axaʔ ~ -exeʔ
+9.211	pound with fist	-tawas
+9.22	cut	akatam; -ewaxam
+9.221	cut down	eletam ~ -teletam
+9.222	chop, hew	-fʷaxam
+9.223	stab	etam ~ -itam ~ -tetam
+9.23	knife	safʷeʔ
+9.24	scissors, shears	soxnates
+9.25	ax	alay (f.)
+9.251	adze	taxaxisa
+9.26	break	-kyeʔti ~ -syeʔti
+9.261	broken	-syey
+9.27	split	-fʷaxakiʔ
+9.28	tear	-kyoxsatiʔ ~ -c̷yoxsatiʔ
+9.29	flay, skin	tʔax-laney
+9.31	rub, wipe	-xlotiʔ ~ -xlyutiʔ
+9.32	stretch	-wetoyixtiʔ ~ -witoyixtiʔ
+9.33	pull	-tone ~ -tyone
+9.34	spread out	-kixnen ~ -c̷ixnen
+9.341	hang up	enfʷom ~ -infʷom
+9.342	press	etinim ~ -tetinim ~ -itinim
+9.343	squeeze, wring	-xloxnam
+9.35	pour	-sayixi ~ -syeyixi; -sayeten
+9.36	wash	-le ~ -li
+9.37	sweep	oʔwen -ofʷen
+9.38	broom	-wetxikyeʔ (f.)
+9.422	tool	-kimatesikyeʔ ~ -simatesikyeʔ
+9.43	carpenter	-wetes iwoʔ
+9.44	build	-silyene
+9.46	bore	alinityam ~ elinityam
+9.461	hollow out	-wo-xakiwa ~ -yo-akiwa
+9.48	saw	alakyeʔ
+9.49	hammer	otaxakixic̷i
+9.5	nail	tataxo
+9.56	glue	
+9.6	smith, blacksmith	ot-esiwoʔ
+9.61	forge	--
+9.62	anvil	fʷaxalaa totaxaa (f.)
+9.63	cast (metals)	-yoyi
+9.64	gold	ot es
+9.65	silver	ot
+9.66	copper, bronze	--
+9.67	iron	ot (m.)
+9.68	lead (noun)	ot-lec̷iʔ
+9.69	tin, tinplate	ot-lec̷iʔ
+9.71	potter	--
+9.72	mold (clay etc)	wasiinxikyeʔ (?)
+9.73	clay	isat
+9.74	glass	-taye tifʷayi
+9.75	weave, plait	-kapalate
+9.76	basket	walaaxi-wet (f.)
+9.77	mat	alisa; fʷiyi; sayine; isax
+9.771	rug	--
+9.78	netbag	
+9.79	fan (noun)	wikyex
+9.791	fan (vb)	
+9.81	carve	--
+9.82	sculptor	--
+9.83	statue	--
+9.84	chisel	--
+9.88	paint (noun)	-lexnat ~ -lixnat (m.)
+9.89	paint (vb)	-len ~ -lin
+10.11	move	-wet-wesin
+10.12	turn over	apilmet
+10.13	turn around	apilinkyafʷey ~ -epilinkyafʷey
+10.14	wind, wrap	-wetnafʷaan ~ -witnafʷaan
+10.15	roll	
+10.16	drop (vb)	tonisyem
+10.17	twist	-soyonixtam ~ -syoyonixtam
+10.21	rise	-wul ~ -yul
+10.22	raise, lift	-kimiʔ ~ -simiʔ
+10.23	fall	-nuneʔ ~ -nyuneʔ
+10.24	drip	tonisyem
+10.25	throw	-tate ~ -tyete
+10.252	catch (ball)	-kiʔmeʔ ~ -siʔmeʔ
+10.26	shake	-paxtiʔ ~ -pyextiʔ
+10.32	flow	-em
+10.33	sink	-elkaan ~ -ilkaan
+10.34	float	ey anat-apeʔe
+10.35	swim	-pan ~ -pyen
+10.351	dive	oyisyem ~ -toyisyem
+10.352	splash	
+10.36	sail (vb)	
+10.37	fly (vb)	-fʷeyeʔ ~ -fʷiyeʔ
+10.38	blow	-wuyiwey ~ -yuyiwey
+10.41	creep, crawl	-kosin
+10.412	kneel	-kosletiki -eteyin ~ -teteyin
+10.413	crouch	oosyem ~ -toosyem ~ -uusyem
+10.42	slide, slip	-kalatalet ~ -kyalatalet
+10.43	jump, leap	eletwom ~ -teletwom
+10.431	kick	-kala-axa ~ -kyala-axa
+10.44	dance	-lakyen
+10.45	walk	-skyuxnen ~ -tiskyuxnen
+10.451	limp	kala xe-es
+10.46	run	owen ~ -towen
+10.47	go	-ek; -em; -kin
+10.471	go up	-wul ~ -yul
+10.472	climb	-kyafʷeliin ~ -c̷yafʷeliin
+10.473	go down	eleten ~ -teleten
+10.474	go out	-no lawaa ~ -nyu lawaa
+10.48	come	-nam
+10.481	come back	apil ~ -epil
+10.49	go away, depart	-ek; -ma
+10.491	disappear	
+10.51	flee	-yiltan
+10.52	follow	ek-in -em-in; -kin-in
+10.53	pursue	ekin-in ~ -emin ~ -kin-in
+10.55	reach, arrive	-nas
+10.56	approach	xa tofʷen
+10.57	enter	oyi ~ -toyi ~ -uyi
+10.61	carry (bear)	-aasiʔ
+10.612	carry-in-hand	-ton -kyoyi
+10.613	carry-on-shoulder	-ton-olotese; -texlye ~ -tixlye
+10.614	carry-on-head	-ton-xetekiʔ
+10.615	carry-underarm	-ton-fʷapoki kyafʷey
+10.62	bring	-ton ~ -tyun
+10.63	send	
+10.64	lead (vb)	
+10.65	drive	-nayi-niye ~ -nyeyiniye
+10.66	ride	eyapeʔe ~ iapeʔe -waapeʔe
+10.67	push, shove	-fʷoma ~ -xyoma
+10.71	road	nayi (f.)
+10.72	path	nayi
+10.74	bridge	tipo-tapeʔe (m.)
+10.75	carriage, wagon, cart	[kaleta]
+10.76	wheel	xi-kalaʔ
+10.77	axle	--
+10.78	yoke	
+10.81	ship	--
+10.83	boat	akoye (f.)
+10.831	canoe	akoye
+10.832	outrigger	--
+10.84	raft	akoye-tiwoyetaxayiʔ
+10.85	oar	anat-ikyeʔ (f.)
+10.851	paddle (noun)	
+10.852	row (vb)	
+10.86	rudder	
+10.87	mast	--
+10.88	sail (noun)	--
+10.89	anchor	
+10.91	harbor, port	akoye-xi-wet
+10.92	land (vb)	
+11.11	have	poʔo
+11.12	own, possess	-amee; ya-ka
+11.13	take	-kiʔmeʔ ~ -siʔmeʔ
+11.14	seize, grasp	-kiʔmeʔ ~ -siʔmeʔ
+11.15	hold	-kiʔmeʔ ~ -siʔmeʔ
+11.16	get, obtain	-wetnetapeʔe ~ -witnetapeʔe
+11.17	keep, retain	-silyen
+11.18	thing	-kixmet; wasiin
+11.21	give	-wenam ~ -winam
+11.22	give back	ekyeley ~ -ikyeley
+11.24	preserve, look after	-yena
+11.25	save, rescue	-wasankit ~ -wyesankit
+11.27	destroy	-laxnaten ~ -lyexnaten
+11.28	harm, injure, damage	-silaxa
+11.31	seek, look for	-woyin ~ -yoyin
+11.32	find	-kyuteʔ ~ -syuteʔ
+11.33	lose	-laxnat ~ -lyexnat
+11.34	release, let go	-lane ~ -lyene
+11.43	money	ot-ʔa
+11.44	coin	eslaseʔ (m.); ot
+11.51	rich	-kaxay
+11.52	poor	-pilusa
+11.53	beggar	--
+11.54	avaricious, stingy	-ekal
+11.61	lend	-wenamkyu ~ -winamkyu
+11.62	borrow	alaxa ~ -talaxa
+11.63	owe	-wenama
+11.64	debt	
+11.65	pay (vb)	exni ~ -ixni
+11.66	account, reckoning	-xnosiʔ ~ -xnyusiʔ (f.)
+11.69	tax, tribute	--
+11.77	hire	
+11.78	wages	-kaxaʔ ~ -kyaxaʔ (f.)
+11.79	earn	xetitaye
+11.81	buy	-eki ~ -ki; -kaxayi
+11.82	sell	-wenam ~ -winam
+11.83	trade, barter	exekye ot-ey; -t-ot-ey ~ -ut-ey
+11.84	merchant	ka-wenanata
+11.85	market (place)	[wakye] tisyen-xi-sawo
+11.86	store, shop	waxale-xi-sawo
+11.87	price	laxaʔ (m.)
+11.88	dear (costly, expensive)	toxni
+11.89	cheap	xe toxni
+11.91	share (distribute)	-laxnaten -lyexnaten
+11.92	weigh	eynekalimpe ~ -inekalimpe
+12.1	after	kapaxataxnaa; onokyu
+12.11	behind	-mani-syem
+12.2	beside	-yipe
+12.3	down, below	isyem
+12.4	before	loyixi
+12.41	front	
+12.5	inside, in	kyafʷey
+12.6	outside	lawaa
+12.7	under	isyem; kyafʷey
+12.8	up, above	fʷom
+12.11	place	-wet ~ -wit
+12.12	put	eneʔ ~ -ineʔ
+12.13	sit	eyineʔ ~ -ineʔ; -wayine
+12.14	lie down	-xoʔneʔ ~ -xyoʔneʔ ~ -oʔneʔ
+12.15	stand	-kasit
+12.16	remain, stay	-mannine
+12.17	remains, left overs	
+12.21	collect, gather	-kimiyin ~ -simiyin (?)
+12.212	pick up	
+12.213	pile up	-fʷoxc̷eʔ ~ -xyoxc̷eʔ
+12.22	join, unite	-xotinim ~ -xyutinim ~ -otinim
+12.23	separate	-wenakit ~ -winakit
+12.232	divide	-woye-tam ~ -yoye-tam
+12.24	open	axlinityam ~ -talinityam
+12.25	shut, close	-pom ~ -pyom; -pofʷ-
+12.26	cover	-poapeʔe ~ -pyoapeʔe
+12.27	hide, conceal	-fʷexkin ~ -fʷixkin
+12.31	high	-toy ~ -tyoy
+12.32	low	isyem
+12.33	top	takixnaki atofʷom
+12.34	bottom	-yowey
+12.35	end	
+12.352	pointed	xipasatpoʔ
+12.353	edge	takina
+12.36	side	
+12.37	middle, center	xikyowe
+12.41	right (side)	-fʷeye
+12.42	left (side)	-lam
+12.43	near (adv)	xa-tofʷe
+12.44	far (adv)	-tofʷe
+12.45	east	maanuk
+12.46	west	xlaawesis
+12.47	north	wikina
+12.48	south	wuʔpax
+12.53	grow	-teyfʷom ~ -tifʷom
+12.54	measure	-kye-eneʔ ~ -kye-ineʔ
+12.541	span, fathom	--
+12.55	large, big	wux
+12.56	small, little	fʷamlaa; xelox; kyepis
+12.57	long	-toxiʔ
+12.58	tall	-toy ~ -tyoy
+12.59	short	xe toy
+12.61	wide, broad	isayiʔ
+12.62	narrow	xe isayiʔ
+12.63	thick (in dimension)	wuyi
+12.65	thin (in dimension)	xe-wuyi
+12.67	deep	apetyofʷiʔ
+12.68	shallow	xa-apetyofʷiʔ
+12.71	flat	
+12.73	straight	awextiʔ ~ -ewextiʔ
+12.74	crooked	-soyooyc̷i
+12.75	hook	walaatenafʷom
+12.76	corner	-yote? (f.)
+12.77	cross	--
+12.78	square	kapaakiʔ
+12.81	round	kyoyoyiʔ
+12.82	circle	kyoyoyiʔ
+12.83	sphere, ball	
+12.84	line	lapiwit
+12.85	hole	axlim
+12.92	like, similar	nestiki
+12.93	change	-teyet ~ -tiyet
+13.0	zero, nothing	taʔipa
+13.1	one	ifʷyenni
+13.2	two	intak
+13.3	three	iwyeʔc̷yela
+13.4	four	pawlic̷iʔ
+13.5	five	ifʷyenni sikyoy itifʷe
+13.6	six	
+13.7	seven	
+13.8	eight	iwyeʔc̷yela tom nexeye
+13.9	nine	pawlic̷i tom nexeye
+13.10	ten	itifʷami nuwa si-kyoy-ey
+13.101	eleven	
+13.102	twelve	
+13.103	fifteen	
+13.104	twenty	
+13.105	hundred	--
+13.106	thousand	--
+13.107	count	etitin ~ -ititin; -xnus
+13.14	every, all	kyeexeʔ
+13.15	much, many	lox; asaʔa
+13.16	more	moy syufʷe
+13.17	little (quantity), few	xa lox; fʷamlaa
+13.18	enough	wuwe
+13.181	some	
+13.19	multitude, crowd	-wit-totinim
+13.21	full	tapowe
+13.22	empty	nofʷi
+13.23	part, piece	-weysyeʔ
+13.24	half	-kyowe
+13.33	alone, only	-fʷanniʔ ~ -fʷyenniʔ
+13.34	first	-nayin ~ -nyeyin
+13.35	last	-mani-syem
+13.36	second	tomexeʔ
+13.37	pair	loyefʷa
+13.38	two times	intak-awixiyin
+13.42	third	iwyeʔc̷yela
+13.44	three times	iwyeʔc̷yelaxaay
+14.11	time	xloma
+14.12	age	--
+14.13	new	inkyeʔ
+14.14	young	
+14.15	old	yuxsa
+14.16	early	kyexlamat
+14.17	late	nooxtiʔ
+14.18	now	naxaki
+14.19	immediately	oxnokyuʔ
+14.21	swift, fast, quick	-kec̷ixin ~ -kic̷ixin; -paxsa
+14.22	slow	xa-kec̷ixin ~ xe-kic̷ixin
+14.23	hasten, hurry	-kec̷ixin ~ -kic̷ixin
+14.24	retard, delay	-fʷatax
+14.25	begin, beginning	-nayini ~ nyeyini
+14.252	last, endure	-toxseyc̷iin (?)
+14.26	end (temporal)	
+14.27	finish	-tewe ~ -tiwe
+14.28	cease, stop	-tefʷe ~ -tifʷe
+14.29	ready	wakat
+14.31	always	kyexkatayiʔ; kyaatay
+14.32	often	xaapaanitiin
+14.33	sometimes	yiyipa xloma
+14.331	soon	taxtaa
+14.332	long-time (for a)	paxyi
+14.34	never	kapaxa
+14.35	again	eekewaxa
+14.41	day	xloma (m.)
+14.42	night	axnax (f.)
+14.43	dawn	kyexlamat
+14.44	morning	xloma
+14.45	noon, midday	nalakis
+14.451	afternoon	nooxtiʔ
+14.46	evening	kilay yem isyem
+14.47	today	naxakiʔ
+14.48	tomorrow	ka-xloma-ta
+14.481	day-after-tomorrow	ke naltan tom c̷exeyi
+14.49	yesterday	nooxtiʔ
+14.491	day-before-yesterday	no oti c̷yuxa tom c̷axeye
+14.51	hour	--
+14.53	clock, timepiece	kilay-xikyeʔ (f.)
+14.61	week	inkixmaye
+14.62	Sunday	inyo-ʔmanniyin
+14.63	Monday	talaxam
+14.64	Tuesday	intak-isimen
+14.65	Wednesday	iyoyam
+14.66	Thursday	intak-tomiyeʔ
+14.67	Friday	-kixmayexe
+14.68	Saturday	[sawali]
+14.71	month	weʔla (m.)
+14.73	year	naxkap (f.)
+14.74	winter	fʷiyitip
+14.75	spring	nawop
+14.76	summer	kilay-sip
+14.77	autumn	lop
+14.78	season	--
+15.21	smell (vb intrans)	-xnewimpexe
+15.212	sniff	xnewentayiin ~ -xniwentayiin
+15.22	smell (vb trans)	-xnewene ~ -xniwene
+15.25	fragrant, good smelling	-ne; -kaxey
+15.26	stinking, bad smelling	-sot
+15.31	taste	-elyeyiʔ
+15.35	sweet	kˀekexey
+15.36	salty	noxsoyiʔ
+15.37	bitter	paxyi; xe-kʔekexey
+15.38	acid, sour	paxyi (?)
+15.39	brackish	
+15.41	hear	-peʔyeʔ ~ -piʔyeʔ
+15.42	listen	-kyuwa ~ -syuwa
+15.44	sound, noise	kixlami (m.)
+15.45	loud	kixlami
+15.46	quiet, silence	kyeniyin
+15.51	see	-wen ~ -win
+15.52	look, look at	-yen
+15.55	show	-wen-kixnam ~ -win-kinam
+15.56	shine	lepeʔep
+15.57	bright	lepeʔep (m.)
+15.61	color	-oniye ~ -xoniye ~ -xyuniye (m.)
+15.62	light (in color)	yakaxli
+15.63	dark (in color)	axna-wux
+15.64	white	lemiʔ
+15.65	black	-tula
+15.66	red	isyet
+15.67	blue	lasa
+15.68	green	-wac̷o
+15.69	yellow	kaʔc̷yutyuʔ
+15.71	touch	-kyeʔe
+15.712	pinch	-napeyiin ~ -nyepeyiin
+15.72	feel	-latey ~ -lyetey
+15.74	hard	tosey
+15.75	soft	xe tosey
+15.76	rough	-kixe; xe-liixi
+15.77	smooth	-liixi
+15.78	sharp	tasaxay
+15.79	blunt, dull	
+15.81	heavy	kyoyetiʔ ~ kyoxyetiʔ
+15.82	light (in weight)	xe kyoxyetiʔ
+15.83	wet, damp	-c̷at ~ -c̷yet
+15.84	dry	-elyey ~ -ilyey
+15.85	hot	kyuxsiʔ
+15.851	warm	
+15.86	cold	yuyi
+15.87	clean	-es ~ -se
+15.88	dirty, soiled	-taxloxli; -taxaʔ
+15.89	wrinkled	-soosin ~ -syuusin
+16.11	soul, spirit	-sakal ~ -syakal (f.)
+16.15	surprised, astonished	
+16.18	good fortune, luck	ixyetawe
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	-mkaxan
+16.25	laugh	-skiʔ ~ -tiskiʔ
+16.251	smile	-ski-yin ~ -tiski-yin
+16.26	play	-lakyen ~ -lyeken
+16.27	love	-soon ~ -syoon
+16.29	kiss	-c̷oʔlayam ~ -c̷yuʔlayam
+16.3	embrace	-kyafʷelap ~ -c̷yafʷelap
+16.31	pain	atixiʔ
+16.32	grief, sorrow, sadness	xe kaxen
+16.33	anxiety, worry	-telaxan ~ -tilaxan
+16.34	regret, be sorry	apeʔen ~ -epeʔen
+16.35	pity	-pelusen ~ -pilusen
+16.37	cry, weep	ap
+16.38	tear (noun)	-tate-teʔ
+16.39	groan	-wetpeylusen ~ -witpeylusen
+16.41	hate	-ayim
+16.42	anger	-fʷesye ~ -wexsye
+16.44	envy, jealousy	kaayenta
+16.45	shame (noun)	-fʷel
+16.48	proud	kexemsa (?)
+16.51	dare	
+16.52	brave	-tuskiʔ
+16.53	fear, fright	xe -fʷey ~ xe -fʷi
+16.54	danger	afʷesyexey (f.)
+16.62	desire, want	-telya
+16.622	choose	-yeniyin
+16.63	hope	
+16.65	faithful	
+16.66	true	ixyetiʔ
+16.67	lie, tell lies	-wo kiwac̷exa ~ -yo kiwac̷exa
+16.68	deceit	lam -wowexey ~ lam -yowexey
+16.69	forgive	-kyekyoyam ~ -syekyoyam
+16.71	good	-es ~ -se
+16.72	bad	-fʷesye
+16.73	right, correct	ixyetiʔ
+16.74	wrong	xe ixyetiʔ
+16.76	fault	
+16.77	mistake, error	ayikyamexey ~ -eyikyamexey
+16.78	blame	-timene
+16.79	praise	kexemsa
+16.81	beautiful	-es ~ -se
+16.82	ugly	xe-es
+16.83	greedy	
+16.84	clever	-axan ~ -exen
+17.11	mind	-talkyun-aye
+17.13	think (= reflect)	-talkyun ~ -tyelkyun
+17.14	think (= be of the opinion)	ixyeteyinaa
+17.15	believe	xa -kakyu -kyakyu
+17.16	understand	-peʔyeʔ ~ -piʔyeʔ
+17.17	know	-xaneʔ ~ -xene
+17.171	guess	
+17.172	imitate	woyetaxayi
+17.18	seem	
+17.19	idea, notion	-talkyun-aye ~ -tyelkyun-aye
+17.21	wise	-axan ~ -exen
+17.22	foolish, stupid	leʔlye
+17.23	insane, crazy	-taye-xe-es ~ -tyaye-xe-es
+17.24	learn	-wetn-axan-kinitiʔ
+17.242	study	-wetn-eyesan ~ -witn-eyesan
+17.25	teach	eyesan ~ -iyesan ~ -teyesan
+17.26	pupil	[eskwela]woʔ
+17.27	teacher	[eskwela]woʔ
+17.28	school	--
+17.31	remember	-taye-yuyi ~ -tyaye-yuyi
+17.32	forget	-taye-xe-yuwa
+17.34	clear, plain	ixyet ~ ixyeti
+17.35	obscure	xe ixyet
+17.36	secret	sam-sam-iyeen
+17.37	sure, certain	ixyeti
+17.38	explain	-fʷeleyin ~ -fʷileyin
+17.41	intention, purpose	--
+17.42	cause	
+17.43	doubt	xe-yeti
+17.44	suspect	-xoʔteʔ ~ -oʔteʔ ~ -xyuʔteʔ
+17.441	betray	-xowalkit ~ -xyuwalkit
+17.45	need, necessity	-sityen
+17.46	easy	xe eyetawexey
+17.47	difficult	eyetawexey
+17.48	try, attempt	-xeletam ~ -xiletam ~ -eletam
+17.49	way, manner	
+17.51	and	naxa
+17.52	because	
+17.53	if	
+17.54	or	
+17.55	yes, affirmative	iwoʔ
+17.56	no, negative	xee
+17.61	how?	napa
+17.62	how many?	napa-kawa
+17.63	how much?	napa
+17.64	what?	ten
+17.65	when?	napa-we
+17.66	where?	napa
+17.67	which?	ten; naxapa
+17.68	who?	ten-pa
+17.69	why?	yoteyin
+18.11	voice	-aa ~ -ee
+18.12	sing	-keynisyen
+18.13	shout, cry out	afʷiyin
+18.15	whisper	xa-kec̷iyap ~ -kic̷iyap
+18.16	mumble	
+18.17	whistle	-tawili; -fʷen
+18.18	shriek, screech	-nyoxlatinin
+18.19	howl	-taxni
+18.21	speak, talk	amtey; -kamtinen
+18.211	stutter, stammer	-amtey xe es
+18.22	say	-wokitee ~ -yokitee
+18.221	tell story	amtiwey ~ -emtiwey
+18.222	speech (make a)	naki tamtey
+18.23	silent (be)	-kyuwateʔ ~ -c̷yuwateʔ
+18.24	language	-lex ~ -lix (m.)
+18.26	word	-amtes ~ -emtes
+18.28	name	-ey ~ -i (m.)
+18.31	ask (question, inquire)	-yesen
+18.32	answer	-kyuxula ~ -syuxula
+18.33	admit, confess	--
+18.34	deny	
+18.35	ask, request	-axlam
+18.36	promise	-wenam-a
+18.37	refuse	
+18.38	forbid	xeenateʔ; xa -wan ~ xe -wyen
+18.39	rebuke, scold	emaa ~ -imaa
+18.41	call (=summon)	an-ey -paxlate
+18.42	call (=name)	
+18.43	announce	-fʷelam ~ -fʷilam
+18.44	threaten	opeyiʔ ~ -topeyiʔ
+18.45	boast	-wetwunit ~ -witwunit
+18.51	write	eʔtiʔ ~ -teʔtiʔ ~ -iʔtiʔ
+18.52	read	amte-xyen ~ -emte-xyen
+18.56	paper	-xokinek ~ -xukinek
+18.57	pen	-fʷes
+18.61	book	-xokinek ~ -xukinek (f.)
+18.67	poet	--
+18.71	flute	sapop ~ -syapop (m.)
+18.72	drum	pomitok (f.)
+18.73	horn, trumpet	-kyuʔ (f.)
+18.74	rattle	kilesina
+19.11	country	-wet ~ -wit (m.)
+19.12	one's native country	
+19.15	city, town	-siʔ (f.)
+19.16	village	-siʔ (m.)
+19.17	boundary	lapi-wet
+19.21	people (populace)	inyoʔ (m.)
+19.23	tribe, clan	-kaanyel
+19.24	chief, chieftain	nakiʔ (m.)
+19.25	staff, walking stick	-kyexat
+19.31	rule, govern	
+19.32	king, ruler	--
+19.33	queen	--
+19.36	noble, nobleman	--
+19.37	citizen, subject	-wet-ena ~ -wit-ena (m.)
+19.41	master	-amee (?)
+19.42	slave	-toysik ~ -tyoysik; -silyenek
+19.43	servant	-kawoʔ
+19.44	freeman	esixi
+19.45	command, order	-xloʔ ~ -xluʔ
+19.46	obey	-kyuwa
+19.47	let, permit	enateʔ
+19.51	friend, companion	-mafʷa ~ -myefʷa
+19.52	enemy	-kofʷax ~ -kyofʷax (m.)
+19.54	neighbor	-wet-efʷaʔ ~ -wit-efʷaʔ (m.)
+19.55	stranger	xe-lefʷa ~ xe-lifʷa
+19.56	guest	
+19.57	host	--
+19.58	help, aid	-nowaxa ~ -nyuwaxa
+19.59	hinder, prevent	
+19.61	custom	-key ~ -kyey (m.)
+19.62	strife, quarrel	-wetwomaxa ~ -witwomaxa
+19.63	conspiracy, plot	--
+19.65	meet	-wen ~ -win
+19.72	prostitute	--
+20.11	fight (vb)	-wet-lane ~ -wit-lane
+20.13	war, battle	-wak (f.)
+20.14	peace	
+20.15	army	totanim (m.)
+20.17	soldier	tokis
+20.21	weapons, arms	-loxsiʔ ~ -lyuxsiʔ
+20.22	club	-kyuʔ xletek
+20.222	battle-ax	--
+20.23	sling	
+20.24	bow	loxsiʔ (m.)
+20.25	arrow	-kyexeʔ ~ -c̷yexeʔ (m.)
+20.26	spear	-kʔok
+20.27	sword	safʷe-tok (m.)
+20.28	gun, cannon	
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	--
+20.35	fortress	--
+20.36	tower	--
+20.41	victory	anwom
+20.42	defeat	-teyin ~ -tiyin
+20.43	attack	-ekiye ~ -tekiye
+20.44	defend	-wet-yena ~ -wit-yena
+20.45	retreat	-taxla
+20.46	surrender	
+20.47	captive, prisoner	-kipanek
+20.471	guard, sentinel	nayiwoʔ (m.)
+20.48	booty, spoils	--
+20.49	ambush	-toskiin (?)
+20.51	fisherman	siyus-i-woʔ
+20.52	fishhook	-kaxnat ~ -kyaxnat (m.)
+20.53	fishing line	-kaxnat-xi-wet
+20.54	fishnet	naxak
+20.55	fish trap	iluxsena
+20.56	bait	
+20.61	hunt	-wesiʔ; akixnan
+20.62	shoot	-teyakiʔ ~ -tiyakiʔ
+20.63	miss (target)	-taleyi ~ -tyaleyi
+20.64	trap (noun)	-kakaxlot (f.)
+20.65	trap (vb)	
+21.11	law	--
+21.15	court	--
+21.16	judge (vb)	--
+21.17	judgment	--
+21.18	judge (noun)	nakiʔ
+21.21	plaintiff	--
+21.22	defendant	--
+21.23	witness	-wen-axa ~ -win-axa
+21.24	swear	--
+21.25	oath	--
+21.31	accuse	-fʷel ~ -fʷil (?)
+21.32	condemn	-otac̷e
+21.33	convict (vb)	--
+21.34	acquit	--
+21.35	guilty	intimenek
+21.36	innocent	--
+21.37	penalty, punishment	tisaxaki (?)
+21.38	fine	--
+21.39	prison, jail	-kalawetiki
+21.42	murder	ka-lan-kiyeta
+21.43	adultery	-oyiyin ~ -uyiyin (?)
+21.44	rape	
+21.46	arson	--
+21.47	perjury	--
+21.51	steal	fʷatan
+21.52	thief	wataxnata (m.)
+22.11	religion	--
+22.12	God	--
+22.13	temple, church	[dyos]xi-sawo
+22.14	altar	tʔaxsaa (m.)
+22.15	sacrifice, offering	tifʷeladyosey
+22.16	worship	--
+22.17	pray	--
+22.18	priest	payi (m.)
+22.19	holy, sacred	--
+22.22	preach	-kaneyesan
+22.23	bless	-kyoy enapeʔe
+22.24	curse	-wulin ~ -yulin
+22.26	fast (vb)	xa-yekyun
+22.31	heaven	poleʔ
+22.32	hell	--
+22.35	demon (evil spirit)	lamox (m.)
+22.37	idol	--
+22.42	magic, witchcraft, sorcery	-fʷelek (f.)
+22.43	sorcerer, witch	ayewu
+22.44	fairy, elf	--
+22.45	ghost, phantom	axnawoʔ; peyluki
+22.47	omen, portent	iwinaxa

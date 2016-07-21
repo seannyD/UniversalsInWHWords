@@ -1,0 +1,87 @@
+AllLangs_allSegments : True =  98.752370418117 , Mean of permutations =  111.105372200222 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_firstSegments : True =  76.9639930929639 , Mean of permutations =  136.106371914907 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_allSegments_byFamily : True =  98.752370418117 , Mean of permutations =  104.150309580443 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_firstSegment_byFamily : True =  76.9639930929639 , Mean of permutations =  100.186908619267 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_allSegments_byArea : True =  98.752370418117 , Mean of permutations =  109.021368588581 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_firstSegment_byArea : True =  76.9639930929639 , Mean of permutations =  125.799407034422 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_allSegments_byAreaAndFamily : True =  98.752370418117 , Mean of permutations =  102.740732968977 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_firstSegment_byAreaAndFamily : True =  76.9639930929639 , Mean of permutations =  93.6208850297429 . True > permutation in  0 out of 10000 permutations. 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_1_allSegments : True =  0.00492468011294933 , Mean of permutations =  0.000132946868424692 . True > permutation in  5722 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4978 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  1437 out of 10000 
+    t =  -0.260514035563486 , df =  44.1243412179897 , p =  0.795679237714386 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_1_firstSegments : True =  0.105415182010076 , Mean of permutations =  0.000575435176853491 . True > permutation in  9703 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5035 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  9411 out of 10000 
+    t =  -1.90435244317463 , df =  57.2506915863326 , p =  0.0618933437553051 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_2_allSegments : True =  0.00417597301781147 , Mean of permutations =  -6.63720603791501e-06 . True > permutation in  5603 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5298 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  1648 out of 10000 
+    t =  -0.230076844625965 , df =  44.669688094862 , p =  0.819082444451875 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_2_firstSegments : True =  0.084340224782492 , Mean of permutations =  0.000721733675437352 . True > permutation in  9567 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5034 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  9184 out of 10000 
+    t =  -1.61760709094361 , df =  58.2115655710282 , p =  0.111153897893602 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_3_allSegments : True =  0.00417597301781147 , Mean of permutations =  0.000361846315384173 . True > permutation in  5559 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5355 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  1695 out of 10000 
+    t =  -0.230076844625965 , df =  44.669688094862 , p =  0.819082444451875 
+
+
+InterrogativeOrder/InterrogativeOrderDifference_3_firstSegments : True =  0.084340224782492 , Mean of permutations =  0.000850833828345851 . True > permutation in  9579 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5038 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  9214 out of 10000 
+    t =  -1.61760709094361 , df =  58.2115655710282 , p =  0.111153897893602 
+
+
+InterrogativeOrder/InterrogativeOrder_RandomIndependentSamples_allSegments : Number of random samples where group 1 mean entropy > group 2 mean entropy =  4063 out of 10000 permutations
+
+InterrogativeOrder/InterrogativeOrder_RandomIndependentSamples_firstSegments : Number of random samples where group 1 mean entropy > group 2 mean entropy =  3991 out of 10000 permutations
+
+InterrogativeOrder/InterrogativeOrder_RandomIndependentSamples_area_allSegments : Number of random samples where group 1 mean entropy > group 2 mean entropy =  4737 out of 10000 permutations
+
+InterrogativeOrder/InterrogativeOrder_RandomIndependentSamples_area_firstSegments : Number of random samples where group 1 mean entropy > group 2 mean entropy =  4820 out of 10000 permutations
+
+InterrogativeOrder/InterrogativeOrder_PermuteFamilies_allSegments : True =  0.00417597301781147 , Mean of permutations =  -0.000997744518893443 . True > permutation in  6305 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4481 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  1826 out of 10000 
+
+
+InterrogativeOrder/InterrogativeOrder_PermuteFamilies_firstSegments : True =  0.084340224782492 , Mean of permutations =  -0.00113727944974085 . True > permutation in  9258 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4807 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  8628 out of 10000 
+
+
+InterrogativeOrder/InterrogativeOrder_PermuteAreas_allSegments : True =  0.00417597301781147 , Mean of permutations =  -0.00063593369460503 . True > permutation in  6203 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4864 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  2125 out of 10000 
+
+
+InterrogativeOrder/InterrogativeOrder_PermuteAreas_firstSegments : True =  0.084340224782492 , Mean of permutations =  -0.000921015394114521 . True > permutation in  9421 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4970 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  8779 out of 10000 
+

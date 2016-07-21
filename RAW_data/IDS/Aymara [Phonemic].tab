@@ -1,0 +1,1311 @@
+entry_id	trans_english	Aymara_Phonemic
+1.1	world	
+1.21	earth, land	uraḳi
+1.212	earth=ground, soil	uraḳi
+1.213	dust	laḳˀa
+1.214	mud	ɲiḳˀi
+1.215	sand	čˀalʸa
+1.22	mountain, hill	ḳulʸu
+1.222	cliff, precipice	
+1.23	plain, field	pampa
+1.24	valley	ḳʰirwa
+1.25	island	[isla]
+1.26	mainland	
+1.27	shore	ḳuta laka
+1.28	cave	tixi
+1.31	water	uma
+1.32	sea	[lamara]
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	xupʰuḳu
+1.329	ocean	mama-ḳuta
+1.33	lake	ḳuta
+1.34	gulf, bay	
+1.341	lagoon	ḳuta-ɲa
+1.342	reef	
+1.343	headland, point	
+1.35	wave	uxi
+1.352	tide	
+1.353	lowtide	
+1.354	hightide	
+1.36	river, stream, brook	xawira
+1.362	whirlpool	
+1.37	spring, well	pʰučˀu
+1.38	swamp	pʰusu; ḳʰuči
+1.39	waterfall	pʰaxča
+1.41	woods, forest	čˀumi
+1.42	tree (cf 08.600)	ḳuḳa; ali
+1.43	wood	kˀulʸu
+1.44	stone, rock	ḳala; ḳarḳa
+1.45	earthquake	
+1.51	sky	alax-pača; laḳampu
+1.52	sun	inti; wilʸka
+1.53	moon	pʰaxsi
+1.54	star	wara-wara
+1.55	lightning	ḳˀixu-ḳˀixu
+1.56	thunder	
+1.57	lightning (as striking)	lʸixu-lʸixu
+1.58	storm	wayra
+1.59	rainbow	kuurmi
+1.61	light (noun)	ḳʰana
+1.62	darkness	čˀamaka
+1.63	shade, shadow	čˀiwi
+1.64	dew	sulʸa
+1.71	air	
+1.72	wind	tʰaya
+1.73	cloud	ḳinaya
+1.74	fog	urpu
+1.75	rain (noun)	xalʸu
+1.76	snow (noun)	kʰunu
+1.77	ice	čʰulʸunkʰiya
+1.78	weather	
+1.81	fire	nina
+1.82	flame (noun)	lapʰaḳi
+1.83	smoke (noun)	xiḳˀi
+1.84	ashes	ḳʰilʸa
+1.841	embers	sankˀa
+1.851	burn (vb trans)	pʰičʰaɲa
+1.852	burn (vb intrans)	nakʰaɲa
+1.86	light, kindle, ignite	nakta-ɲa
+1.861	extinguish	xiwaḳaya-ɲa
+1.87	match (noun)	[pʰuspʰuru]
+1.88	firewood	pʰaya-ɲa-lawa
+1.89	charcoal	kˀilʸima
+2.1	person, human being	xaḳi
+2.21	man (vs. woman)	čača
+2.22	woman	warmi
+2.23	male	urḳu
+2.24	female	ḳaču
+2.25	boy	maxtˀa; yuḳalʸa
+2.251	young man (adolescent)	wayna
+2.26	girl	imilʸa
+2.261	young woman (adolescent)	tawaḳu
+2.27	child	wawa
+2.28	infant, baby	wawa
+2.31	husband	čača
+2.32	wife	warmi
+2.33	marry	xaḳi-časi-ɲa
+2.34	marriage, wedding	xaḳi-časiwi
+2.341	divorce	xarxta-ɲa
+2.35	father	awki; tata
+2.36	mother	tayka; mama
+2.37	parents	awki-naka
+2.38	married man	warmina xaḳi
+2.39	married woman	čačani warmi
+2.41	son	yuḳa; yuḳalʸa wawa
+2.42	daughter	pʰuča; imilʸa wawa
+2.43	offspring (son or daughter)	
+2.44	brother	xila
+2.444	older brother	xiliiri xila
+2.445	younger brother	sulʸkiri xila
+2.45	sister	kulʸaka
+2.454	older sister	xiliiri kulʸaka
+2.455	younger sister	sulʸkiri kulʸaka
+2.456	sibling	xila; kulʸaka
+2.458	twins	ispa; ispalʸa
+2.46	grandfather	ačila
+2.461	old man	awki-xaḳi; awkili
+2.47	grandmother	awiča
+2.471	old woman	tayka warmi; taykali
+2.48	grandson	alʸčʰi
+2.49	granddaughter	alʸčʰi
+2.51	uncle	tiwula
+2.511	mother's brother	
+2.512	father's brother	
+2.52	aunt	ipata; laḳusita
+2.521	mother's sister	
+2.522	father's sister	
+2.53	nephew	[suwrinu]
+2.54	niece	[suwrinu]
+2.55	cousin	xilata
+2.56	ancestors	ačačila
+2.57	descendants	
+2.61	father-in-law (of a man)	awkčˀi
+2.611	father-in-law (of a woman)	
+2.62	mother-in-law (of a man)	taykčˀi
+2.621	mother-in-law (of a woman)	
+2.63	son-in-law (of a man)	tulʸḳa
+2.631	son-in-law (of a woman)	
+2.64	daughter-in-law (of a man)	yuxčˀa
+2.641	daughter-in-law (of a woman)	
+2.71	stepfather	ḳʰipa awki
+2.72	stepmother	ḳʰipa tayka
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	iɲu; waxča
+2.76	widow	ixma
+2.77	widower	
+2.81	relatives, kinsmen	[parinti]
+2.82	family	uta
+2.91	I	naya
+2.92	you (singular)	xuma
+2.93	he/she/it	xupa
+2.94	we	nanaka
+2.941	we (inclusive)	xiwasa
+2.942	we (exclusive)	nanaka
+2.95	you (plural)	xumamaka
+2.96	they	xupanaka
+3.11	animal	uywa
+3.12	male (adj)	awki
+3.13	female (adj)	tayka
+3.15	livestock	uywa
+3.16	pasture	
+3.18	herdsman	awatiri
+3.19	stable, stall	uyu
+3.2	cattle (bovine)	uywa
+3.21	bull	
+3.22	ox	
+3.23	cow	[waka]
+3.24	calf	
+3.25	sheep	[uwixa; iwisa]
+3.26	ram	
+3.28	ewe	puytu
+3.29	lamb	
+3.32	boar	
+3.34	sow	kʰuči
+3.35	pig	kʰuči
+3.36	goat	[čiwa]
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	[kawalʸu]
+3.42	stallion	
+3.44	mare	
+3.45	foal, colt	
+3.46	ass, donkey	[asnu]
+3.47	mule	[mula]
+3.5	fowl	xamačˀi
+3.52	cock, rooster	kˀankˀa
+3.54	hen	walʸpa
+3.55	chicken	čʰiwčʰi
+3.56	goose	
+3.57	duck	pili
+3.58	nest	tapa
+3.581	bird	xamačˀi
+3.582	seagull	
+3.583	heron	
+3.584	eagle	paka
+3.585	hawk	mamani
+3.586	vulture	siwiḳˀara
+3.591	bat	čiɲi
+3.592	parrot	kˀalʸa
+3.593	crow	
+3.594	dove	urpila; kʰulʸkutaya
+3.596	owl	čˀusiḳa
+3.61	dog	anu
+3.614	rabbit	wankˀu
+3.62	cat	pʰisi; misi
+3.622	opossum	ačupalʸa
+3.63	mouse, rat	ačaku
+3.65	fish	čawlʸa
+3.652	fin (dorsal)	
+3.653	fishscale	lʸuχi
+3.654	gill	
+3.655	shell	lʸuχi
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	
+3.665	freshwater eel	
+3.71	wolf	
+3.72	lion	liwuna
+3.73	bear	xukumari
+3.74	fox	ḳamaḳi
+3.75	deer	taruka
+3.76	monkey	kˀusilʸu
+3.77	elephant	[ilipʰanti]
+3.78	camel	[kamilʸu]
+3.81	insect	laḳˀu
+3.811	louse	lapˀa
+3.812	nit (louse egg)	čˀiɲi
+3.813	flea	kˀuti
+3.814	centipede	warisana
+3.815	scorpion	
+3.816	cockroach	
+3.817	ant	kˀusiwalʸu
+3.818	spider	kusi-kusi
+3.819	spider web	lʸika
+3.82	bee	wayrunḳu
+3.821	beeswax	mapˀa
+3.822	beehive	
+3.823	wasp	pankataya
+3.83	fly	čʰičʰilʸankʰa
+3.831	sandfly (midge), gnat	čˀuspi
+3.832	mosquito	
+3.84	worm	silʸḳˀu
+3.85	snake	asiru
+3.91	firefly	
+3.92	butterfly	pilpintu
+3.93	grasshopper	tˀixu-tˀixu
+3.94	snail	čˀuru
+3.95	frog	kˀayra
+3.96	lizard	sutuwalʸu xararankʰu
+3.97	crocodile, alligator	[ḳuḳutrilʸu]
+3.98	turtle	[turtuka]
+4.11	body	xanči
+4.12	skin, hide	lipˀiči
+4.13	flesh	ayča
+4.14	hair (head)	ɲikˀuta
+4.142	beard	sunkʰa
+4.144	body hair	tˀarwa
+4.145	pubic hair	čˀina tˀarwa; alʸu tˀarwa
+4.146	dandruff	
+4.15	blood	wila
+4.151	vein, artery	sirka
+4.16	bone	čˀakʰa
+4.162	rib	xarapi
+4.17	horn	waχra
+4.18	tail	wičˀinkʰa
+4.19	back	ati
+4.191	spine	xikʰani
+4.2	head	pˀiḳi
+4.201	side of head, temple	
+4.202	skull	
+4.203	brain	liχwi
+4.204	face	axanu
+4.205	forehead	para
+4.207	jaw	aankʰa
+4.208	cheek	[mixilʸa]
+4.209	chin	
+4.21	eye	nayra
+4.212	eyebrow	nayra pʰičʰu
+4.213	eyelid	nayra lipˀiči
+4.214	eyelash	čˀipʰuḳu
+4.215	blink	čˀipʰuḳi-ɲa
+4.22	ear	xinču
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	nasa
+4.231	nostril	pˀiya
+4.232	mucus (nasal)	xurma
+4.24	mouth	laka
+4.241	beak	suru
+4.25	lip	ispilʸu
+4.26	tongue	laχra
+4.27	tooth	laka čˀakʰa
+4.271	gums	
+4.272	molartooth	aḳu
+4.28	neck	kunka
+4.281	nape of neck	ati
+4.29	throat	tˀulʸu
+4.3	shoulder	kalʸači
+4.301	shoulderblade	
+4.302	collarbone	
+4.31	arm	ampara
+4.312	armpit	čʰiḳʰanḳara
+4.32	elbow	muxlʸi
+4.321	wrist	
+4.33	hand	ampara
+4.331	palm of hand	ampara tˀaχlʸi
+4.34	finger	lukˀana
+4.342	thumb	tayka lukˀana
+4.344	fingernail	silʸu
+4.345	claw	
+4.35	leg	čara
+4.351	thigh	čara
+4.352	calf of leg	tˀusu
+4.36	knee	ḳunḳuri
+4.37	foot	kayu
+4.371	ankle	kayu muḳu
+4.372	heel	kayu wintu
+4.374	footprint	
+4.38	toe	kayu lukˀana
+4.392	wing	čʰiḳʰa
+4.393	feather	pʰuyu
+4.4	chest	ɲuɲu
+4.41	breast (of woman)	ɲuɲu
+4.412	nipple, teat	ɲuɲu
+4.42	udder	ɲuɲu
+4.43	navel	kururu
+4.44	heart	lʸuḳu
+4.441	lung	čuyma
+4.45	liver	kˀiwča
+4.451	kidney	maymuru
+4.452	spleen	xačˀa xankʰara
+4.46	stomach	pʰatanka
+4.461	intestines, guts	xipʰilʸa
+4.462	waist	čˀilʸa
+4.463	hip	tʰiχni
+4.464	buttocks	čˀina
+4.47	womb	xakaɲa
+4.49	testicle	ḳˀuruta
+4.492	penis	alʸu
+4.51	breathe, breath	
+4.52	yawn, gape	aysa-ɲa
+4.521	hiccough	xikˀu
+4.53	cough	čˀuχu-ɲa
+4.54	sneeze	xačˀista-ɲa
+4.55	perspire	xumpˀi-ɲa
+4.56	spit	tʰusa-ɲa
+4.57	vomit	waḳˀaḳi-ɲa
+4.58	bite	ačuḳa-ɲa
+4.59	lick	xalʸḳˀa-ɲa
+4.591	dribble	čˀaḳa-ɲa
+4.61	sleep	iki-ɲa
+4.612	snore	ḳʰurḳʰu-ɲa
+4.62	dream	iki
+4.63	wake up	sartχa-ɲa
+4.64	break wind	sira
+4.65	urinate	čʰuχu-ɲa
+4.66	defecate	xama-ɲa; yaḳˀa-ɲa
+4.67	have sexual intercourse	aniɲa; anisiɲa
+4.68	shiver	kʰatʰati-ɲa
+4.69	bathe	xarisi-ɲa
+4.71	beget (of father)	katu-ɲa
+4.72	born (to be)	yuri-ɲa
+4.73	pregnant	walʸḳˀi
+4.732	conceive	
+4.74	live, living, life	xaka-ɲa
+4.75	die, dead	xiwata; xiwa-ɲa
+4.751	drowned	
+4.76	kill	xiwaya-ɲa
+4.77	corpse	xiwata; amaya
+4.78	bury (the dead)	imanta-ɲa
+4.79	grave, tomb	amaya
+4.81	strong, mighty, powerful	čˀamani
+4.82	weak	lʸaytʰa
+4.83	well, health	kˀumara
+4.84	sick, sickness	usuta; usu
+4.841	fever	čʰuxčʰu
+4.842	goiter	ḳˀutu
+4.843	cold (catarrh)	
+4.85	wound, sore	usučata
+4.852	bruise	
+4.853	swelling	pˀusu
+4.854	itch	xasi
+4.855	blister	pukulʸu
+4.856	boil (noun)	xinḳˀi
+4.857	pus	
+4.858	scar	tˀiri
+4.86	cure, heal	ḳulʸa-ɲa
+4.87	physician	ḳulʸiri
+4.88	medicine, drug	ḳulʸa
+4.89	poison	ḳulʸa
+4.91	tired, weary	ḳarita; ḳari-ɲa
+4.912	rest	samara-ɲa
+4.92	lazy	xayra
+4.93	bald	ḳˀara
+4.94	lame	wiχču
+4.95	deaf	uḳara
+4.96	mute	amutu
+4.97	blind	xuykʰu
+4.98	intoxicated	umata
+4.99	naked, bare	ḳˀalanču
+5.11	eat	manḳˀa-ɲa
+5.12	food	manḳˀa
+5.121	cooked	pʰayata
+5.122	raw	čˀuḳi
+5.123	ripe	puḳuta
+5.124	green, unripe	čˀuχ-ɲa
+5.125	rotten	ɲusata
+5.13	drink	uma-ɲa
+5.14	hunger	manḳˀata awtxaɲa
+5.141	famine	
+5.15	thirst	umata awtxaaɲa
+5.16	suck	čˀamu-ɲa
+5.18	chew	kʰistʰu-ɲa
+5.181	swallow	malʸχtaya-ɲa
+5.19	choke	
+5.21	cook	pʰaya-ɲa
+5.22	boil (vb)	walʸaḳi-ɲa
+5.23	roast, fry	kanka-ɲa; tʰiχi-ɲa
+5.24	bake	[xurnu]-ɲa
+5.25	oven	[xurnu]
+5.26	pot, cooking vessel	pʰukʰu
+5.27	kettle	čatu
+5.28	pan	[kasirula]
+5.31	dish	čuwa
+5.32	plate	[platu]
+5.33	bowl	
+5.34	pitcher, jug	yuru
+5.35	cup, drinking vessel	[tasa]
+5.36	saucer	
+5.37	spoon	wislʸa
+5.38	knife	tumi
+5.39	fork	
+5.391	tongs	[tinasa]
+5.41	meal (a)	manḳˀa
+5.42	breakfast	manḳˀa
+5.43	lunch	manḳˀa
+5.44	dinner	manḳˀa
+5.45	supper	manḳˀa
+5.46	peel	silʸpˀira-ɲa
+5.47	sieve, strain	susu-ɲa
+5.48	scrape	kʰitʰu-ɲa
+5.49	stir, mix	tʰikʰi-ɲa; čˀalʸḳʰu-ɲa
+5.51	bread	tˀantˀa
+5.53	dough	
+5.54	knead	čapu-ɲa
+5.55	meal, flour	xakˀu
+5.56	crush, grind	silʸpˀxaɲa
+5.57	mill	[mulinu]
+5.58	mortar	
+5.59	pestle	
+5.61	meat	ayča
+5.63	sausage	[salčiča]
+5.64	soup, broth	luχru
+5.65	vegetables	
+5.66	bean	čˀiwa
+5.7	potato	amḳa; čˀuḳi
+5.71	fruit	muχsaaču
+5.712	bunch	
+5.75	fig	iwusa
+5.76	grape	uwasa
+5.77	nut	
+5.78	olive	[asiytuna]
+5.79	oil	[asiyti]
+5.791	grease, fat	
+5.81	salt	xayu
+5.82	pepper	
+5.821	chili pepper	waykˀa
+5.84	honey	miskˀi
+5.85	sugar	[asukara]
+5.86	milk (noun)	milʸkˀi
+5.87	milk (vb)	čˀawa-ɲa
+5.88	cheese	[kisu]
+5.89	butter	[mantika; mantikilʸa]
+5.9	beverage, drink	uma-ɲa
+5.91	mead	
+5.92	wine	[winu]
+5.93	beer	[sirwisa]
+5.94	fermented drink	kˀusa
+5.97	egg	kˀawna
+5.971	egg yolk	kˀawna ḳˀilʸu
+6.11	put on (clothes)	isisi-ɲa
+6.12	clothing, clothes	isi
+6.13	tailor	čˀukuri
+6.21	cloth	[tila]
+6.22	wool	tˀarwa
+6.23	linen, flax	[linu]
+6.24	cotton	ḳʰiya
+6.25	silk	--
+6.27	felt	--
+6.28	fur	lipˀiči
+6.29	leather	lipˀiči
+6.31	spin	ḳapu-ɲa
+6.32	spindle	ḳapu
+6.33	weave	sawu-ɲa
+6.34	loom	sawu-ɲa
+6.35	sew	čˀuku-ɲa
+6.36	needle	yawriḳalʸu
+6.37	awl	xunu-ɲa
+6.38	thread	čˀankʰa
+6.39	dye	samača-ɲa
+6.41	cloak	yaḳʰulʸa
+6.411	poncho	punču
+6.42	woman's dress	isi
+6.43	coat	isi
+6.44	shirt	isi
+6.45	collar	kuylʸu
+6.46	skirt	[pʰalta]
+6.461	grass-skirt	--
+6.48	trousers	[pantaluna]
+6.49	stocking, sock	[kalsitina]
+6.51	shoe	pˀulʸḳu
+6.52	boot	[pʰutasa]
+6.54	shoemaker, cobbler	
+6.55	hat, cap	tanka
+6.57	belt, girdle	lʸučˀu
+6.58	glove	[wantisa]
+6.59	veil	--
+6.61	pocket	[wulsiku]
+6.62	button	[wutuna]
+6.63	pin	
+6.71	ornament, adornment	kˀačača
+6.72	jewel	
+6.73	ring (for finger)	[surtixa]
+6.74	bracelet	čipana
+6.75	necklace	axuɲa
+6.76	bead	walʸḳa
+6.77	earring	[ariti]
+6.78	headband, headdress	
+6.79	tattoo	
+6.81	handkerchief, rag	
+6.82	towel	
+6.91	comb	sanu
+6.92	brush	
+6.921	braid	kˀana-ɲa
+6.93	razor	
+6.94	ointment	ḳaḳunta-ɲa
+6.95	soap	
+6.96	mirror	lirpʰu
+7.11	dwell, live	utxa-ɲa
+7.12	house	uta
+7.13	hut	čʰuxilʸa; tampu
+7.131	garden-house	
+7.14	tent	
+7.15	yard, court	utaanḳa
+7.16	men's house	
+7.17	cookhouse	
+7.18	meeting house	
+7.21	room	
+7.22	door, gate	punku
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	tˀuχu
+7.26	floor	uraḳi
+7.27	wall	pirḳa
+7.31	fireplace	ḳʰiri
+7.32	stove	
+7.33	chimney	
+7.37	ladder	patilʸ-patilʸa
+7.42	bed	ikiɲa; pataatˀi
+7.421	pillow	čˀixmaɲa
+7.422	blanket	ikiɲa
+7.43	chair	ḳunuɲa
+7.44	table	
+7.45	lamp, torch	
+7.46	candle	
+7.47	shelf	
+7.48	trough	lamana; pirki
+7.51	roof	
+7.52	thatch	wičʰu xičʰu
+7.53	ridgepole	
+7.54	rafter	lawa
+7.55	beam	
+7.56	post, pole	
+7.57	board	
+7.58	arch	
+7.61	mason	
+7.62	brick	
+7.63	mortar	
+7.64	adobe	[aruwi]
+8.11	farmer	yapučiri
+8.12	field (for cultivation)	yapu
+8.13	garden	
+8.15	cultivate, till	yapuča-ɲa
+8.16	fence	uyu
+8.17	ditch	larḳa
+8.21	plow	ḳʰulʸi-ɲa
+8.212	furrow	[suka]
+8.22	dig	pʰatˀsu-ɲa
+8.23	spade	[lampa]
+8.24	shovel	
+8.25	hoe	
+8.26	fork	
+8.27	rake	
+8.31	sow	sata-ɲa
+8.311	seed	xatʰa
+8.32	mow, reap	yawi-ɲa
+8.33	sickle, scythe	[xusi]
+8.34	thresh	mučʰa-ɲa
+8.35	threshing-floor	pˀiraɲa
+8.41	crop, harvest	aptʰapi
+8.42	grain (barley, oats etc)	
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	tunḳu
+8.48	rice	
+8.51	grass	ḳura
+8.52	hay	
+8.53	plant (noun)	ali
+8.531	plant (vb)	sata-ɲa
+8.54	root	sapʰi
+8.55	branch	laymi
+8.56	leaf	lapʰi
+8.57	flower	panḳara
+8.6	tree	ḳuḳa
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	
+8.68	tobacco	tʰuxsa-tʰuxsa
+8.69	smoke (tobacco)	
+8.691	pipe	
+8.72	tree stump	
+8.73	tree trunk	kˀulʸu
+8.74	forked branch	pˀalʸḳa
+8.75	bark	
+8.76	sap	
+8.81	palm tree	
+8.82	coconut	
+8.83	citrus fruit	
+8.84	banana tree	puḳuta; [latanu]
+8.85	banyan	--
+8.91	sweet potato	
+8.912	yam	
+8.92	tapioca, manioc, cassava	yuka
+8.93	gourd	
+8.931	pumpkin, squash	
+8.94	bamboo	suḳˀusa
+8.941	sugar cane	
+8.96	fish poison (root)	
+8.97	nettle	itapalʸu
+8.98	mushroom	sirkˀi
+9.11	do, make	lura-ɲa
+9.12	work	
+9.14	bend	ḳˀiwi-ɲa
+9.15	fold	ḳˀiwtˀa-ɲa
+9.16	tie, bind	ɲačˀa-ɲa
+9.161	untie	xarara-ɲa
+9.18	chain	
+9.19	rope, cord	wiska
+9.192	knot (noun)	muḳu
+9.21	strike (hit, beat)	liḳˀi-ɲa
+9.211	pound with fist	čˀaku-ɲa
+9.22	cut	kʰarxa-ɲa; kʰučxa-ɲa
+9.221	cut down	liwnuḳa-ɲa
+9.222	chop, hew	ḳˀalʸu-ɲa
+9.223	stab	
+9.23	knife	tumi
+9.24	scissors, shears	
+9.25	ax	[ača]
+9.251	adze	
+9.26	break	pˀaki-ɲa
+9.261	broken	pˀakita
+9.27	split	xalxa-ɲa
+9.28	tear	čˀiyxa-ɲa
+9.29	flay, skin	kʰarsu-ɲa; čˀiysu-ɲa
+9.31	rub, wipe	ḳaḳu-ɲa
+9.32	stretch	iḳatata-ɲa
+9.33	pull	xiya-ɲa
+9.34	spread out	wilʸitata-ɲa
+9.341	hang up	warku-ɲa
+9.342	press	ḳˀapʰi-ɲa
+9.343	squeeze, wring	ḳˀaptʰapi-ɲa
+9.35	pour	ḳˀuptʰapi-ɲa
+9.36	wash	xari-ɲa
+9.37	sweep	piča-ɲa
+9.38	broom	pičaɲa
+9.422	tool	
+9.43	carpenter	
+9.44	build	pirḳa-ɲa
+9.46	bore	pˀiyanta-ɲa
+9.461	hollow out	ḳaḳanta-ɲa
+9.48	saw	
+9.49	hammer	
+9.5	nail	
+9.56	glue	
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	ḳʰirḳtʰapiya-ɲa; ḳʰirḳʰiɲa
+9.64	gold	ḳuri; čuḳi
+9.65	silver	ḳulʸḳi
+9.66	copper, bronze	kˀawsi
+9.67	iron	
+9.68	lead (noun)	malʸa
+9.69	tin, tinplate	čayanta
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	ɲiwkˀi; lʸinkˀi
+9.74	glass	ḳʰispi
+9.75	weave, plait	sawa-ɲa; pˀita-ɲa
+9.76	basket	sapʰi
+9.77	mat	siχi
+9.771	rug	xantˀaku
+9.78	netbag	lʸika; saḳaɲa
+9.79	fan (noun)	
+9.791	fan (vb)	
+9.81	carve	
+9.82	sculptor	
+9.83	statue	tansa
+9.84	chisel	
+9.88	paint (noun)	samači
+9.89	paint (vb)	samača-ɲa
+10.11	move	unχta-ɲa
+10.12	turn over	xaḳukipa-ɲa
+10.13	turn around	xaḳukipa-ɲa
+10.14	wind, wrap	lʸawu-ɲa
+10.15	roll	ḳurumi-ɲa
+10.16	drop (vb)	
+10.17	twist	milʸkˀu-ɲa; kˀantʰi-ɲa
+10.21	rise	makata-ɲa
+10.22	raise, lift	apta-ɲa
+10.23	fall	tinku-ɲa
+10.24	drip	čˀaḳa-ɲa; čˀačˀa-ɲa
+10.25	throw	warta-ɲa
+10.252	catch (ball)	katu-ɲa
+10.26	shake	tʰala-ɲa
+10.32	flow	xala-ɲa
+10.33	sink	xununta-ɲa; čʰuḳu-ɲa
+10.34	float	tuyu-ɲa
+10.35	swim	tuyu-ɲa
+10.351	dive	
+10.352	splash	čˀitiḳkata-ɲa
+10.36	sail (vb)	
+10.37	fly (vb)	wiru-ɲa
+10.38	blow	pʰusa-ɲa
+10.41	creep, crawl	kumptaḳa-ɲa
+10.412	kneel	kilʸtˀasi-ɲa
+10.413	crouch	altˀa-ɲa
+10.42	slide, slip	lʸustˀta-ɲa
+10.43	jump, leap	tʰuḳta-ɲa
+10.431	kick	taki-ɲa
+10.44	dance	tʰuḳu-ɲa
+10.45	walk	sara-ɲa; čilʸḳi-ɲa
+10.451	limp	wiχči-ɲa
+10.46	run	tˀixu-ɲa
+10.47	go	sara-ɲa
+10.471	go up	makata-ɲa
+10.472	climb	warkkatta-ɲa
+10.473	go down	maḳa-ɲa; saraḳa-ɲa
+10.474	go out	mistu-ɲa
+10.48	come	xuta-ɲa
+10.481	come back	kuti-ɲa
+10.49	go away, depart	sarχa-ɲa
+10.491	disappear	
+10.51	flee	tˀixumuču-ɲa
+10.52	follow	arka-ɲa
+10.53	pursue	arknaḳa-ɲa
+10.55	reach, arrive	xikxata-ɲa (?); puri-ɲa
+10.56	approach	xakˀača-ɲa
+10.57	enter	manta-ɲa
+10.61	carry (bear)	apa-ɲa
+10.612	carry-in-hand	apa-ɲa
+10.613	carry-on-shoulder	ḳˀipi-ɲa
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	apa-ni-ɲa
+10.63	send	apaya-ɲa
+10.64	lead (vb)	irpa-ɲa
+10.65	drive	saraya-ɲa
+10.66	ride	latˀa-ɲa
+10.67	push, shove	nukʰu-ɲa
+10.71	road	tʰakʰi
+10.72	path	tʰakʰi
+10.74	bridge	čaka
+10.75	carriage, wagon, cart	
+10.76	wheel	muyu
+10.77	axle	
+10.78	yoke	[yuku]
+10.81	ship	--
+10.83	boat	wampu; yampu
+10.831	canoe	yampu
+10.832	outrigger	--
+10.84	raft	wampu
+10.85	oar	ɲuḳiɲa
+10.851	paddle (noun)	
+10.852	row (vb)	ɲuḳiɲa
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	ačiwa
+10.89	anchor	
+10.91	harbor, port	
+10.92	land (vb)	
+11.11	have	
+11.12	own, possess	
+11.13	take	katu-ɲa
+11.14	seize, grasp	katu-ɲa
+11.15	hold	
+11.16	get, obtain	xiki-ɲa
+11.17	keep, retain	imaɲa
+11.18	thing	yaa
+11.21	give	čura-ɲa
+11.22	give back	kutiya-ɲa
+11.24	preserve, look after	xarkˀa-ɲa
+11.25	save, rescue	ḳʰispiya-ɲa
+11.27	destroy	tukxa-ɲa; tˀunxa-ɲa
+11.28	harm, injure, damage	usuča-ɲa
+11.31	seek, look for	tʰaḳa-ɲa
+11.32	find	xikχata-ɲa
+11.33	lose	čʰaḳa-ɲa
+11.34	release, let go	antuta-ɲa
+11.43	money	ḳulʸḳi
+11.44	coin	
+11.51	rich	ḳamiri
+11.52	poor	tˀaḳʰi
+11.53	beggar	
+11.54	avaricious, stingy	mičˀa
+11.61	lend	maytˀa-ɲa
+11.62	borrow	maytˀasi-ɲa
+11.63	owe	manuu-ɲa
+11.64	debt	manu
+11.65	pay (vb)	
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	
+11.79	earn	
+11.81	buy	ala-ɲa
+11.82	sell	alxa-ɲa
+11.83	trade, barter	[turka]-ɲa
+11.84	merchant	alakipa
+11.85	market (place)	ḳʰatu
+11.86	store, shop	
+11.87	price	čani
+11.88	dear (costly, expensive)	
+11.89	cheap	iraḳata
+11.91	share (distribute)	lakiɲa
+11.92	weigh	tupu-ɲa
+12.1	after	ukata
+12.11	behind	ḳʰipaaχa
+12.2	beside	
+12.3	down, below	aynača
+12.4	before	nayraḳata
+12.41	front	
+12.5	inside, in	manḳʰa
+12.6	outside	anḳa
+12.7	under	manḳʰata
+12.8	up, above	amta; araχa; alaya
+12.11	place	čaḳa
+12.12	put	uskuɲa
+12.13	sit	ḳuntˀa-ɲa; ḳunu-ɲa
+12.14	lie down	ikintχa-ɲa
+12.15	stand	saytˀa-ɲa
+12.16	remain, stay	ḳʰipaḳta-ɲa
+12.17	remains, left overs	xiltˀa
+12.21	collect, gather	aptʰapi-ɲa
+12.212	pick up	
+12.213	pile up	ḳulʸučtˀa-; ḳulʸtˀa-; ḳutučtˀa-
+12.22	join, unite	
+12.23	separate	apxa-ɲa
+12.232	divide	xalxa-ɲa; lakxa-ɲa
+12.24	open	xistˀxa-ɲa
+12.25	shut, close	xistˀanta-ɲa
+12.26	cover	xanχata-ɲa
+12.27	hide, conceal	imanta-ɲa
+12.31	high	alaya
+12.32	low	
+12.33	top	čˀutu
+12.34	bottom	manḳʰa
+12.35	end	tukuya
+12.352	pointed	yaarata
+12.353	edge	laka
+12.36	side	tʰiya
+12.37	middle, center	taypi
+12.41	right (side)	kupi
+12.42	left (side)	čˀiḳa
+12.43	near (adv)	xakˀa
+12.44	far (adv)	xaya
+12.45	east	xalsu
+12.46	west	xalanta
+12.47	north	amsta; araχa
+12.48	south	aynača
+12.53	grow	xila-ɲa
+12.54	measure	tupu-ɲa
+12.541	span, fathom	luḳa
+12.55	large, big	xačˀa
+12.56	small, little	xiskˀa
+12.57	long	waru
+12.58	tall	araχa
+12.59	short	
+12.61	wide, broad	
+12.62	narrow	pˀisi
+12.63	thick (in dimension)	tʰuru
+12.65	thin (in dimension)	xučˀusa
+12.67	deep	manḳʰa
+12.68	shallow	pataki
+12.71	flat	pampa
+12.73	straight	čiḳa; čiḳpa
+12.74	crooked	milʸkˀuta
+12.75	hook	
+12.76	corner	kˀuču
+12.77	cross	čakana
+12.78	square	--
+12.81	round	muruḳˀu
+12.82	circle	muyu
+12.83	sphere, ball	muruḳˀu
+12.84	line	siḳi; sičˀi
+12.85	hole	pˀiya; ḳaḳa
+12.92	like, similar	kikpa
+12.93	change	xaḳukipa-ɲa
+13.0	zero, nothing	čˀusa
+13.1	one	maya
+13.2	two	paya
+13.3	three	kimsa
+13.4	four	pusi
+13.5	five	pʰisḳa
+13.6	six	suχta
+13.7	seven	paḳalʸḳu
+13.8	eight	kimsa ḳalʸḳu
+13.9	nine	lʸaatunka
+13.10	ten	tunka
+13.101	eleven	tunka mayani
+13.102	twelve	tunka payani
+13.103	fifteen	tunka pʰisḳani
+13.104	twenty	paatunka
+13.105	hundred	pataka
+13.106	thousand	waranḳa
+13.107	count	xakʰu-ɲa; wakʰu-ɲa
+13.14	every, all	sapa; taḳi
+13.15	much, many	anča
+13.16	more	xukˀampi
+13.17	little (quantity), few	xukˀa
+13.18	enough	walxa
+13.181	some	walkʰa
+13.19	multitude, crowd	
+13.21	full	pʰuḳa
+13.22	empty	čˀusa
+13.23	part, piece	
+13.24	half	čikata
+13.33	alone, only	sapa; sapaki
+13.34	first	nayriiri
+13.35	last	ḳʰipiiri
+13.36	second	payiiri
+13.37	pair	paya
+13.38	two times	paakuti
+13.42	third	kimsiiri
+13.44	three times	kimsakuti
+14.11	time	-pača
+14.12	age	wiɲa
+14.13	new	mačaḳa
+14.14	young	lʸulʸu
+14.15	old	ačači
+14.16	early	arumirxa
+14.17	late	xaypˀu
+14.18	now	xičʰa
+14.19	immediately	ančʰičpača
+14.21	swift, fast, quick	laḳa
+14.22	slow	kˀačata
+14.23	hasten, hurry	naakʰi
+14.24	retard, delay	ḳʰipʰara-ɲa
+14.25	begin, beginning	ḳalʸta-ɲa
+14.252	last, endure	
+14.26	end (temporal)	tuku
+14.27	finish	tuku-ɲa
+14.28	cease, stop	saytˀa-ɲa
+14.29	ready	
+14.31	always	-puni
+14.32	often	
+14.33	sometimes	
+14.331	soon	laḳa
+14.332	long-time (for a)	xayapača
+14.34	never	
+14.35	again	maampi
+14.41	day	uru
+14.42	night	aruma
+14.43	dawn	ḳʰantati
+14.44	morning	arumantʰi
+14.45	noon, midday	čika uru
+14.451	afternoon	xaypˀu
+14.46	evening	
+14.47	today	xičʰuuru
+14.48	tomorrow	arumirxa
+14.481	day-after-tomorrow	xurpanmantʰi
+14.49	yesterday	wasuru
+14.491	day-before-yesterday	waluuru; waruuru
+14.51	hour	
+14.53	clock, timepiece	
+14.61	week	
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	pʰaχsi
+14.73	year	mara
+14.74	winter	tʰaapača
+14.75	spring	awti
+14.76	summer	xalʸupača
+14.77	autumn	ḳasiwi
+14.78	season	
+15.21	smell (vb intrans)	mukʰi-ɲa
+15.212	sniff	
+15.22	smell (vb trans)	
+15.25	fragrant, good smelling	
+15.26	stinking, bad smelling	tʰuxsa
+15.31	taste	
+15.35	sweet	muχsa
+15.36	salty	xayukˀara
+15.37	bitter	xaχu
+15.38	acid, sour	kˀalʸkˀu
+15.39	brackish	
+15.41	hear	istˀa-ɲa
+15.42	listen	istˀa-ɲa; isčˀuki-ɲa
+15.44	sound, noise	
+15.45	loud	ḳʰuypʰi
+15.46	quiet, silence	čˀuxu
+15.51	see	uɲxa-ɲa
+15.52	look, look at	uɲta-ɲa
+15.55	show	uɲačtˀaya-ɲa
+15.56	shine	ḳʰana-ɲa
+15.57	bright	ḳʰaniri
+15.61	color	sami
+15.62	light (in color)	ḳʰana
+15.63	dark (in color)	čˀamaka
+15.64	white	xanḳˀu
+15.65	black	čˀiyara
+15.66	red	čupika
+15.67	blue	larama
+15.68	green	čˀuχ-ɲa
+15.69	yellow	ḳˀilʸu
+15.71	touch	lʸamkʰtˀa-ɲa
+15.712	pinch	kˀiči-ɲa
+15.72	feel	
+15.74	hard	čˀulʸḳʰi; ḳʰulu
+15.75	soft	xasa
+15.76	rough	čʰankʰa
+15.77	smooth	ḳuɲa (?)
+15.78	sharp	ari
+15.79	blunt, dull	
+15.81	heavy	xatʰi
+15.82	light (in weight)	pʰisna
+15.83	wet, damp	čˀarana
+15.84	dry	waɲa
+15.85	hot	xuntˀu
+15.851	warm	ačʰixu
+15.86	cold	tʰaya; alala
+15.87	clean	ḳˀuma
+15.88	dirty, soiled	ḳˀaɲu
+15.89	wrinkled	ḳˀuptʰapita
+16.11	soul, spirit	axayu
+16.15	surprised, astonished	
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	
+16.23	joyful, glad, happy	kusisita
+16.25	laugh	laru-ɲa
+16.251	smile	laru-ɲa
+16.26	play	anata-ɲa
+16.27	love	muna-ɲa
+16.29	kiss	xampˀati-ɲa
+16.3	embrace	walʸḳˀipta-ɲa
+16.31	pain	
+16.32	grief, sorrow, sadness	lʸaki
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	kʰuyapaya-ɲa
+16.37	cry, weep	xača-ɲa
+16.38	tear (noun)	xača
+16.39	groan	kˀaɲa-ɲa
+16.41	hate	uɲisi-ɲa
+16.42	anger	xačxa-ɲa
+16.44	envy, jealousy	
+16.45	shame (noun)	pˀinḳa
+16.48	proud	
+16.51	dare	
+16.52	brave	
+16.53	fear, fright	aχsara-ɲa
+16.54	danger	čixi
+16.62	desire, want	
+16.622	choose	axlʸi-ɲa
+16.63	hope	
+16.65	faithful	
+16.66	true	čiḳa
+16.67	lie, tell lies	kˀarisi-ɲa
+16.68	deceit	
+16.69	forgive	pampača-ɲa
+16.71	good	suma
+16.72	bad	ḳʰuru
+16.73	right, correct	čiḳa
+16.74	wrong	
+16.76	fault	xuča
+16.77	mistake, error	panta-ɲa
+16.78	blame	xuča
+16.79	praise	
+16.81	beautiful	kˀača; xiwaki
+16.82	ugly	aχta-ɲa
+16.83	greedy	
+16.84	clever	čˀikʰi
+17.11	mind	amuyu
+17.13	think (= reflect)	lupˀi-ɲa
+17.14	think (= be of the opinion)	
+17.15	believe	
+17.16	understand	amuya-ɲa
+17.17	know	yati-ɲa
+17.171	guess	xamu-ɲa
+17.172	imitate	yatχapaya-ɲa
+17.18	seem	
+17.19	idea, notion	amuyu
+17.21	wise	amawtˀa
+17.22	foolish, stupid	ipi
+17.23	insane, crazy	luḳʰi
+17.24	learn	yatiḳa-ɲa
+17.242	study	yatχata-ɲa
+17.25	teach	yatiča-ɲa
+17.26	pupil	yatiḳiri
+17.27	teacher	yatičiri
+17.28	school	yatiɲuta
+17.31	remember	amta-ɲa
+17.32	forget	arma-ɲa
+17.34	clear, plain	ḳʰana
+17.35	obscure	čˀamaka
+17.36	secret	imantata
+17.37	sure, certain	
+17.38	explain	yatičtˀa-ɲa
+17.41	intention, purpose	
+17.42	cause	
+17.43	doubt	
+17.44	suspect	amuya-ɲa
+17.441	betray	salʸḳxa-ɲa
+17.45	need, necessity	
+17.46	easy	
+17.47	difficult	čˀama
+17.48	try, attempt	uɲstaya-ɲa
+17.49	way, manner	
+17.51	and	-mpi
+17.52	because	
+17.53	if	
+17.54	or	-ča
+17.55	yes, affirmative	xiisa
+17.56	no, negative	xaniwa
+17.61	how?	kumasa
+17.62	how many?	ḳawḳʰanaksa
+17.63	how much?	ḳawḳʰsa
+17.64	what?	kunasa
+17.65	when?	kunarsa
+17.66	where?	kawkinsa
+17.67	which?	kawkisa
+17.68	who?	kʰitisa
+17.69	why?	kunatsa
+18.11	voice	aru
+18.12	sing	xaylʸi-ɲa
+18.13	shout, cry out	arnaḳa-ɲa
+18.15	whisper	xinčuru arχaya-ɲa
+18.16	mumble	
+18.17	whistle	kʰuyu-ɲa
+18.18	shriek, screech	kˀaɲa-ɲa
+18.19	howl	[awulʸi]-ɲa
+18.21	speak, talk	aru-ɲa; arsu-ɲa
+18.211	stutter, stammer	kʰakʰa-ɲa
+18.22	say	sa-ɲa
+18.221	tell story	xawari-ɲa
+18.222	speech (make a)	arstˀa-ɲa
+18.23	silent (be)	amuktˀa-ɲa
+18.24	language	aru
+18.26	word	aru
+18.28	name	suti
+18.31	ask (question, inquire)	xiskʰi-ɲa
+18.32	answer	xaysa-ɲa
+18.33	admit, confess	
+18.34	deny	xaniča-ɲa
+18.35	ask, request	mayi-ɲa
+18.36	promise	
+18.37	refuse	
+18.38	forbid	
+18.39	rebuke, scold	
+18.41	call (=summon)	xawsa-ɲa
+18.42	call (=name)	xawsasi-ɲa
+18.43	announce	yatiya-ɲa
+18.44	threaten	
+18.45	boast	
+18.51	write	ḳilʸḳa-ɲa
+18.52	read	uɲa-ɲa
+18.56	paper	
+18.57	pen	
+18.61	book	panka
+18.67	poet	yarḳwiku
+18.71	flute	ḳina
+18.72	drum	wankara
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	marka
+19.12	one's native country	
+19.15	city, town	marka
+19.16	village	marka
+19.17	boundary	ḳurpa
+19.21	people (populace)	marka-čiri
+19.23	tribe, clan	
+19.24	chief, chieftain	kuraka
+19.25	staff, walking stick	tʰuxru
+19.31	rule, govern	
+19.32	king, ruler	
+19.33	queen	ḳuya
+19.36	noble, nobleman	
+19.37	citizen, subject	marka-čiri
+19.41	master	
+19.42	slave	
+19.43	servant	
+19.44	freeman	
+19.45	command, order	
+19.46	obey	iyawaa-ɲa
+19.47	let, permit	-ya
+19.51	friend, companion	masi
+19.52	enemy	awḳa
+19.54	neighbor	xakˀasina
+19.55	stranger	
+19.56	guest	xawsata
+19.57	host	ḳurpačuta
+19.58	help, aid	yanapa-ɲa
+19.59	hinder, prevent	
+19.61	custom	
+19.62	strife, quarrel	čˀaχwa
+19.63	conspiracy, plot	
+19.65	meet	xiki-ɲa
+19.72	prostitute	pampa warmi
+20.11	fight (vb)	nuwasi-ɲa
+20.13	war, battle	čˀaχwa
+20.14	peace	
+20.15	army	
+20.17	soldier	palʸa-palʸa
+20.21	weapons, arms	
+20.22	club	
+20.222	battle-ax	
+20.23	sling	ḳˀurawa
+20.24	bow	
+20.25	arrow	mičˀi
+20.26	spear	
+20.27	sword	
+20.28	gun, cannon	
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	
+20.35	fortress	pukara
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	
+20.44	defend	tuwa-ɲa
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	paḳuma
+20.471	guard, sentinel	
+20.48	booty, spoils	
+20.49	ambush	ḳʰamiya-ɲa
+20.51	fisherman	kuturi
+20.52	fishhook	
+20.53	fishing line	
+20.54	fishnet	saḳaɲa
+20.55	fish trap	
+20.56	bait	likˀi
+20.61	hunt	katu-ɲa
+20.62	shoot	
+20.63	miss (target)	panta-ɲa
+20.64	trap (noun)	sipita
+20.65	trap (vb)	katxa-ɲa
+21.11	law	kamači
+21.15	court	
+21.16	judge (vb)	taripa-ɲa
+21.17	judgment	
+21.18	judge (noun)	taripiri
+21.21	plaintiff	tumpiri
+21.22	defendant	tumpata
+21.23	witness	uɲxiri
+21.24	swear	
+21.25	oath	
+21.31	accuse	čˀata-ɲa
+21.32	condemn	taripa-ɲa
+21.33	convict (vb)	xuča-ča-ɲa
+21.34	acquit	
+21.35	guilty	xučani
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	paḳuma
+21.42	murder	xiwaya(...)
+21.43	adultery	wačuḳa
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	luntʰata-ɲa
+21.52	thief	luntʰata
+22.11	religion	
+22.12	God	pačamama; wakˀa
+22.13	temple, church	
+22.14	altar	
+22.15	sacrifice, offering	luḳta
+22.16	worship	
+22.17	pray	
+22.18	priest	tata [kura]
+22.19	holy, sacred	ḳulʸaana
+22.22	preach	
+22.23	bless	
+22.24	curse	nanḳʰa-ɲa
+22.26	fast (vb)	
+22.31	heaven	alaχpača
+22.32	hell	
+22.35	demon (evil spirit)	supaya
+22.37	idol	wakˀa
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	layḳa
+22.44	fairy, elf	
+22.45	ghost, phantom	
+22.47	omen, portent	

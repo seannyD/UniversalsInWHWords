@@ -1,0 +1,1311 @@
+entry_id	trans_english	Toba_Phonemic
+1.1	world	ʔalwa
+1.21	earth, land	ʔalwa
+1.212	earth=ground, soil	ʔalwa
+1.213	dust	n-amoʁo-yaʁa
+1.214	mud	n-šaʁa
+1.215	sand	atoʁo
+1.22	mountain, hill	ḳasoʁonaʁa
+1.222	cliff, precipice	l-tokot
+1.23	plain, field	nʔonaʁa
+1.24	valley	kaʔam-ge
+1.25	island	delek; l-ḳaʁa-yaʁalate
+1.26	mainland	--
+1.27	shore	l-oi-ge
+1.28	cave	awak
+1.31	water	ʔet-aʁat
+1.32	sea	awaʁai
+1.322	calm (of sea)	n-to-goɲi
+1.323	rough (of sea)	--
+1.324	foam	l-či; l-koči
+1.329	ocean	awaʁai
+1.33	lake	lapel
+1.34	gulf, bay	l-tog-aʁasom
+1.341	lagoon	l-alat-ek
+1.342	reef	--
+1.343	headland, point	--
+1.35	wave	l-apaʁa
+1.352	tide	--
+1.353	lowtide	--
+1.354	hightide	--
+1.36	river, stream, brook	tala
+1.362	whirlpool	lʸ-iʔigelaʁa-so
+1.37	spring, well	ɲ-iʔilʸ-oʁoki
+1.38	swamp	ḳaʔim
+1.39	waterfall	--
+1.41	woods, forest	awiaḳ
+1.42	tree (cf 08.600)	ʔipaḳ; ḳoʔipaḳ
+1.43	wood	ʔipaḳ
+1.44	stone, rock	ḳaʔ; komaʔ
+1.45	earthquake	n-ačol-aʁan-aʁa
+1.51	sky	pigem
+1.52	sun	nalaʔ
+1.53	moon	kaʔago-ʁoik
+1.54	star	waḳah-ɲi; waḳ-ɲi
+1.55	lightning	ḳasoʁonaʁa
+1.56	thunder	n-alat-aʁa
+1.57	lightning (as striking)	n-ḳašileg-aʁa
+1.58	storm	l-ʔat l-taʔa-daik
+1.59	rainbow	kemoʁon-a-lo
+1.61	light (noun)	ǰiʔoḳ-či-giɲi
+1.62	darkness	n-apal-aʁa
+1.63	shade, shadow	paḳal
+1.64	dew	ʔaya
+1.71	air	l-ʔat
+1.72	wind	l-ʔat
+1.73	cloud	l-ʔok
+1.74	fog	šiwe
+1.75	rain (noun)	awot
+1.76	snow (noun)	aloɲi
+1.77	ice	aloɲi
+1.78	weather	--
+1.81	fire	nodek
+1.82	flame (noun)	l-ʔed-aʁa
+1.83	smoke (noun)	l-malaʔḳ
+1.84	ashes	alo
+1.841	embers	poḳo
+1.851	burn (vb trans)	y-awig-aʁat
+1.852	burn (vb intrans)	y-awik
+1.86	light, kindle, ignite	i-ʔed-aʁat-oigi
+1.861	extinguish	y-alamat
+1.87	match (noun)	leʔ
+1.88	firewood	nodek l-asoḳ; l-ašik
+1.89	charcoal	poḳo
+2.1	person, human being	šiy-aʁawa; šig-aʁawa
+2.21	man (vs. woman)	yale
+2.22	woman	ʔalo
+2.23	male	yale
+2.24	female	ʔalo
+2.25	boy	nogot-olek
+2.251	young man (adolescent)	nsoḳ
+2.26	girl	nogot-ole
+2.261	young woman (adolescent)	ḳaʔaɲi
+2.27	child	nogot; negot
+2.28	infant, baby	ʔoʔoʔ; ʔetaik
+2.31	husband	l-wa
+2.32	wife	l-wa
+2.33	marry	w-adon
+2.34	marriage, wedding	l-adon-aʁak
+2.341	divorce	--
+2.35	father	l-taʔa
+2.36	mother	l-ateʔe
+2.37	parents	l-taʔa-l
+2.38	married man	--
+2.39	married woman	--
+2.41	son	l-[i]ale-k; l-koʔo-ʁot
+2.42	daughter	l-[i]ale; l-koʔo-ḳte
+2.43	offspring (son or daughter)	l-[i]alaḳ-pi
+2.44	brother	l-ḳaya
+2.444	older brother	l-apičaḳaʔ
+2.445	younger brother	l-anoḳ
+2.45	sister	l-ḳaya
+2.454	older sister	l-apilte
+2.455	younger sister	l-anoʔo
+2.456	sibling	l-ḳaya
+2.458	twins	waǰaʔ
+2.46	grandfather	l-apiʔ
+2.461	old man	yi-ʔaʁaiki
+2.47	grandmother	l-kote
+2.471	old woman	yi-ʔaʁainaʔ
+2.48	grandson	la-wal
+2.49	granddaughter	la-wal
+2.51	uncle	n-tesḳoʔ
+2.511	mother's brother	n-tesḳoʔ
+2.512	father's brother	n-tesḳoʔ
+2.52	aunt	l-asodo
+2.521	mother's sister	l-asodo
+2.522	father's sister	l-asodo
+2.53	nephew	l-asošik
+2.54	niece	l-asoši
+2.55	cousin	l-ḳaya
+2.56	ancestors	l-taʔa-lpi
+2.57	descendants	ɲaʁat-aʁa
+2.61	father-in-law (of a man)	l-ačoʔ
+2.611	father-in-law (of a woman)	l-ačoʔ
+2.62	mother-in-law (of a man)	l-ačodo
+2.621	mother-in-law (of a woman)	l-ačodo
+2.63	son-in-law (of a man)	l-adon-aʁan-ek
+2.631	son-in-law (of a woman)	l-adon-aʁan-ek
+2.64	daughter-in-law (of a man)	l-ate
+2.641	daughter-in-law (of a woman)	l-ate
+2.71	stepfather	l-ʔaal-ek l-taʔa
+2.72	stepmother	l-ʔaal-e l-ateʔe
+2.73	stepson	l-ʔaal-ek lʸ-alek
+2.74	stepdaughter	l-ʔaal-e lʸ-ale
+2.75	orphan	saplo-ḳ; saplo-ʁo
+2.76	widow	paʔai
+2.77	widower	paʔai-k
+2.81	relatives, kinsmen	n-ʔak; l-apač-iǰaʁawa
+2.82	family	la-woʔ l-ʔek; la-woʔ l-aši
+2.91	I	ayim
+2.92	you (singular)	ʔam
+2.93	he/she/it	-maǰi
+2.94	we	ḳomiʔ; ḳomi
+2.941	we (inclusive)	--
+2.942	we (exclusive)	--
+2.95	you (plural)	ḳamiʔ; ḳami
+2.96	they	-maǰi-pi
+3.11	animal	šigiyak
+3.12	male (adj)	yale
+3.13	female (adj)	ʔalo
+3.15	livestock	la-lo
+3.16	pasture	ʔawaḳ-pi
+3.18	herdsman	[waaka] lʔo
+3.19	stable, stall	[waaka] l-maʔ
+3.2	cattle (bovine)	[waaka]; ɲi [waaka]
+3.21	bull	[waaka]
+3.22	ox	[woi]
+3.23	cow	[waaka]
+3.24	calf	[waaka] l-[i]ale-k
+3.25	sheep	ḳageta; ḳaigeta
+3.26	ram	ḳageta l-wad-aik
+3.28	ewe	ḳageta ʔalo
+3.29	lamb	ḳageta l-[i]ale-k
+3.32	boar	[kos] yale
+3.34	sow	[kos] ʔalo
+3.35	pig	kos l-ateʔe
+3.36	goat	ketaḳ
+3.37	he-goat	peenaḳ
+3.38	kid	ketaḳ l-[i]ale-k
+3.41	horse (equine)	[kaayo]
+3.42	stallion	[kaayo] l-wad-aik
+3.44	mare	[kaayo]
+3.45	foal, colt	[kaayo] l-[i]ale-k
+3.46	ass, donkey	[ʔašina]
+3.47	mule	[moola]
+3.5	fowl	--
+3.52	cock, rooster	ʔolgaʁa
+3.54	hen	ʔolgaʁa
+3.55	chicken	ʔolgaʁa
+3.56	goose	--
+3.57	duck	--
+3.58	nest	l-pataʔk
+3.581	bird	ḳoyo
+3.582	seagull	--
+3.583	heron	
+3.584	eagle	
+3.585	hawk	
+3.586	vulture	tegesan
+3.591	bat	mikai
+3.592	parrot	ʔeleʔ
+3.593	crow	--
+3.594	dove	ḳotoʔ
+3.596	owl	
+3.61	dog	pioḳ
+3.614	rabbit	danagišik
+3.62	cat	miiča
+3.622	opossum	ʔal
+3.63	mouse, rat	čigoʁonaʁa
+3.65	fish	nyaḳ
+3.652	fin (dorsal)	l-laʁa-ši
+3.653	fishscale	l-so
+3.654	gill	l-ḳost-e
+3.655	shell	l-ʔok
+3.661	shark	--
+3.662	porpoise, dolphin	--
+3.663	whale	--
+3.664	stingray	lakataik
+3.665	freshwater eel	amap
+3.71	wolf	--
+3.72	lion	sawaʁaik
+3.73	bear	--
+3.74	fox	waʁayaʁa
+3.75	deer	ɲiʔimši
+3.76	monkey	woyim
+3.77	elephant	loko-l-owe
+3.78	camel	--
+3.81	insect	
+3.811	louse	l-ala-ʁat
+3.812	nit (louse egg)	l-atoʁomata
+3.813	flea	pioḳ l-ala-ʁat
+3.814	centipede	
+3.815	scorpion	pelaḳtoik; pelaḳtoit
+3.816	cockroach	
+3.817	ant	ḳagesaḳ; ḳaigesaḳ
+3.818	spider	palačiǰaʁa
+3.819	spider web	l-ʔoʁon-ek
+3.82	bee	teʔesaḳ
+3.821	beeswax	pik l-apa ~ l-apa dapik
+3.822	beehive	wanaik
+3.823	wasp	
+3.83	fly	lotaʁaɲi
+3.831	sandfly (midge), gnat	čitole
+3.832	mosquito	ʔayat
+3.84	worm	ḳočiʔl
+3.85	snake	n-ʔad-aʁan-aḳ
+3.91	firefly	wačoʔo
+3.92	butterfly	toʁotoḳ
+3.93	grasshopper	šiikioʁoi
+3.94	snail	našiyo
+3.95	frog	miyo
+3.96	lizard	malaʁ-aik
+3.97	crocodile, alligator	da-ʔai-l-ʔok
+3.98	turtle	pot-aʁan-aʁat
+4.11	body	l-ʔok
+4.12	skin, hide	l-ʔok
+4.13	flesh	l-apat
+4.14	hair (head)	l-awe
+4.142	beard	l-ḳaʔ l-awe
+4.144	body hair	l-aso
+4.145	pubic hair	n-amo l-awe
+4.146	dandruff	l-ḳaik l-apagaʁ-a
+4.15	blood	l-tago-ʔ-ḳ
+4.151	vein, artery	l-ʔota
+4.16	bone	l-piʔinek
+4.162	rib	l-čišit
+4.17	horn	l-kowe
+4.18	tail	l-ʔad-aʁašit
+4.19	back	l-laḳ
+4.191	spine	l-laḳ l-piʔinek
+4.2	head	l-ḳaik
+4.201	side of head, temple	l-ḳaik l-ayi
+4.202	skull	l-ḳaik l-piʔinek
+4.203	brain	l-apiʔoʁo
+4.204	face	l-ašik
+4.205	forehead	l-atap
+4.207	jaw	l-anok
+4.208	cheek	l-amelke
+4.209	chin	l-ḳaʔ
+4.21	eye	l-ʔaite
+4.212	eyebrow	n-pe l-awe
+4.213	eyelid	l-ʔai l-apoʔ; l-ʔaite l-ḳaʔ
+4.214	eyelash	l-lote
+4.215	blink	n-ḳačigoʁo-ɲi
+4.22	ear	l-tela
+4.221	earlobe	l-tela da-ʔam
+4.222	earwax	l-tela lʸ-iʔiwa-ʁa
+4.23	nose	l-mik
+4.231	nostril	l-mik l-awak-o
+4.232	mucus (nasal)	n-kopiʔ
+4.24	mouth	al-ap
+4.241	beak	n-ašip
+4.25	lip	n-ašip; al-ak
+4.26	tongue	l-ačaʁat
+4.27	tooth	l-we
+4.271	gums	l-we l-apat
+4.272	molartooth	l-we l-anogi-ši
+4.28	neck	l-ḳosot
+4.281	nape of neck	l-anaʔḳ
+4.29	throat	l-ḳoičiki
+4.3	shoulder	l-alʸak
+4.301	shoulderblade	
+4.302	collarbone	l-ataʁaki l-piʔinek
+4.31	arm	l-waḳ
+4.312	armpit	l-saḳtaki
+4.32	elbow	l-ḳote
+4.321	wrist	l-waḳ n-kig-aʁaki
+4.33	hand	l-waḳ; n-apokn-a
+4.331	palm of hand	l-waḳ la-wel
+4.34	finger	l-[i]aʁaata
+4.342	thumb	l-[i]aʁaata l-ateʔe
+4.344	fingernail	l-nat
+4.345	claw	n-nat
+4.35	leg	l-či
+4.351	thigh	l-telʔeta; l-či l-amo
+4.352	calf of leg	lʸ-iʔači
+4.36	knee	l-lʸikte
+4.37	foot	l-apiaʔ
+4.371	ankle	n-ḳonakamo
+4.372	heel	lʸ-iʔaʁa
+4.374	footprint	l-apiaʔ lʸ-ik
+4.38	toe	l-ḳona
+4.392	wing	l-awa
+4.393	feather	l-awe
+4.4	chest	l-toge
+4.41	breast (of woman)	l-tete
+4.412	nipple, teat	l-tete l-ḳaik
+4.42	udder	l-tete
+4.43	navel	l-kom
+4.44	heart	l-kiǰaḳte
+4.441	lung	l-ači-ʔ
+4.45	liver	l-lamek
+4.451	kidney	l-či-giši
+4.452	spleen	l-paḳ
+4.46	stomach	da-ʔam
+4.461	intestines, guts	la-il-šik; la-wel l-ʔek
+4.462	waist	l-asot
+4.463	hip	lʸ-iige
+4.464	buttocks	n-ateʔ
+4.47	womb	l-koʔo-ʁoki
+4.49	testicle	l-ola
+4.492	penis	n-koʔoweʔ
+4.51	breathe, breath	l-ʔat
+4.52	yawn, gape	d-ato-tak
+4.521	hiccough	l-miaʔḳ
+4.53	cough	d-asoknata; d-asopnata
+4.54	sneeze	n-ḳašin
+4.55	perspire	n-soḳ-či-giɲi
+4.56	spit	n-ḳaigoḳ
+4.57	vomit	anol
+4.58	bite	i-nak
+4.59	lick	n-api-lek
+4.591	dribble	ɲit-ta-ɲi
+4.61	sleep	do-ʔoči
+4.612	snore	n-ḳolo-tak
+4.62	dream	de-čoʁon
+4.63	wake up	n-lo-wek
+4.64	break wind	do-ɲi
+4.65	urinate	l-te
+4.66	defecate	da-ʔat-aʁan
+4.67	have sexual intercourse	awok
+4.68	shiver	i-wiloʁol
+4.69	bathe	n-ačil
+4.71	beget (of father)	i-koʔo-n
+4.72	born (to be)	ɲi-giɲi
+4.73	pregnant	wal-aʁai
+4.732	conceive	--
+4.74	live, living, life	n-kaʔal-eek; l-kaʔal-aʁaik
+4.75	die, dead	lew-aʁaik
+4.751	drowned	ʔog-aʁaik
+4.76	kill	y-alawat
+4.77	corpse	lew-aʁaik
+4.78	bury (the dead)	i-laǰ-iɲi
+4.79	grave, tomb	n-wačiki
+4.81	strong, mighty, powerful	ʔaɲ-aʁaik
+4.82	weak	ḳomi-aʁaik
+4.83	well, health	no-ʔoi-ta
+4.84	sick, sickness	d-alola
+4.841	fever	l-ʔed-aʁa
+4.842	goiter	
+4.843	cold (catarrh)	n-apihn-a
+4.85	wound, sore	l-kolaʁ-a
+4.852	bruise	l-wet-ak
+4.853	swelling	l-alaač-i
+4.854	itch	de-šiki
+4.855	blister	l-čipalo-ʁo
+4.856	boil (noun)	l-wet-a
+4.857	pus	lʸ-iʔi
+4.858	scar	l-kolaʁ-a
+4.86	cure, heal	n-atad-en
+4.87	physician	n-atan-n-aʁan-aḳ
+4.88	medicine, drug	l-ataʔ
+4.89	poison	lew-aʁat
+4.91	tired, weary	n-asam-ɲi
+4.912	rest	n-mat-aʁak
+4.92	lazy	wal-aik
+4.93	bald	kiʔit-aik
+4.94	lame	wayod-aʁaik
+4.95	deaf	sa wa-ʔaḳa
+4.96	mute	
+4.97	blind	ḳanam-aik; sa n-awaa-ɲi
+4.98	intoxicated	taʁ-aik
+4.99	naked, bare	salw-aik; we-ta-wek
+5.11	eat	de-keʔe; čik
+5.12	food	nalʸik
+5.121	cooked	d-ato
+5.122	raw	sa d-ato
+5.123	ripe	yi; y-amoḳ
+5.124	green, unripe	l-adala
+5.125	rotten	n-čiga
+5.13	drink	n-yom
+5.14	hunger	l-ḳow-aʁa
+5.141	famine	yo-ḳowat
+5.15	thirst	l-akip
+5.16	suck	n-apigoḳ; lʸip
+5.18	chew	yo-ḳolʸišin; y-iʔiko-tak
+5.181	swallow	i-woʁon-a-ɲi; yo-ḳoḳoo-ta-ɲi
+5.19	choke	i-keno; d-atapla
+5.21	cook	de-woši
+5.22	boil (vb)	n-ačam; de-malʸi; ɲ-iʔam
+5.23	roast, fry	y-awot-tak; y-ato-ḳčit-ta
+5.24	bake	n-ḳatel-tak
+5.25	oven	l-ḳatel-aʁan-aʁaki
+5.26	pot, cooking vessel	l-ataʁaki
+5.27	kettle	na-[paawa]
+5.28	pan	--
+5.31	dish	n-koiget
+5.32	plate	koki; n-[plačiilʸo]
+5.33	bowl	n-[pelaato]
+5.34	pitcher, jug	n-[kaado]
+5.35	cup, drinking vessel	n-yom-aʁaki
+5.36	saucer	n-[plačiilʸo]
+5.37	spoon	l-emek
+5.38	knife	l-ailon-ek; l-ainon-ek; l-ain-ek
+5.39	fork	l-ʔad-aʁan-aḳte
+5.391	tongs	l-akon-aʁan-aʁat
+5.41	meal (a)	l-kiʔ-aʁak
+5.42	breakfast	--
+5.43	lunch	--
+5.44	dinner	--
+5.45	supper	--
+5.46	peel	i-kola
+5.47	sieve, strain	n-apiši-n
+5.48	scrape	ɲ-amadek; ɲ-ašiwek
+5.49	stir, mix	i-lʸoʁot; n-wiǰ-igi
+5.51	bread	ḳayaʁadai; [pan]
+5.53	dough	l-wigoʁo-šik
+5.54	knead	i-wigoḳ
+5.55	meal, flour	l-soč-i
+5.56	crush, grind	i-sok
+5.57	mill	n-amaikn-aʁan-aʁaki
+5.58	mortar	l-ʔad-aʁan-aʁaki
+5.59	pestle	l-ʔad-aʁan-aʁat
+5.61	meat	l-apat
+5.63	sausage	--
+5.64	soup, broth	l-elten-ek
+5.65	vegetables	wowe
+5.66	bean	
+5.7	potato	--
+5.71	fruit	al-a
+5.712	bunch	l-taʁale
+5.75	fig	--
+5.76	grape	--
+5.77	nut	--
+5.78	olive	--
+5.79	oil	
+5.791	grease, fat	l-čita; l-piyo
+5.81	salt	towe; ḳaʔ ɲ-iʔiwa
+5.82	pepper	čim-aʁad-ai
+5.821	chili pepper	--
+5.84	honey	dapik
+5.85	sugar	[ʔasooka]
+5.86	milk (noun)	l-čiʔ
+5.87	milk (vb)	n-lom
+5.88	cheese	--
+5.89	butter	--
+5.9	beverage, drink	n-yom-aʁat
+5.91	mead	n-ḳaʔapaʁa
+5.92	wine	lataʁa
+5.93	beer	--
+5.94	fermented drink	
+5.97	egg	l-koʔoweʔ
+5.971	egg yolk	l-ḳowi-oʁo
+6.11	put on (clothes)	n-sawat; n-apo-goɲi
+6.12	clothing, clothes	al-ogo
+6.13	tailor	n-tet-aʁan-aḳ
+6.21	cloth	n-poto-ǰik
+6.22	wool	ḳaigeta l-awe
+6.23	linen, flax	--
+6.24	cotton	waloḳ
+6.25	silk	--
+6.27	felt	--
+6.28	fur	l-awe
+6.29	leather	l-ʔok
+6.31	spin	l-ʔan
+6.32	spindle	l-ḳalehn-aʁan-aḳte
+6.33	weave	i-paʁah-ɲi
+6.34	loom	l-ʔoʁon-aʁan-aʁalaʔ
+6.35	sew	n-tet; n-čih-ɲi
+6.36	needle	l-ḳana
+6.37	awl	l-ḳana
+6.38	thread	l-tet-aʁan-aʁat
+6.39	dye	ḳoʔil-e; l-ḳoʔil-aʁan-aʁat
+6.41	cloak	--
+6.411	poncho	la-poʔ
+6.42	woman's dress	l-apoto
+6.43	coat	n-[saako]
+6.44	shirt	l-lom-aʁaki
+6.45	collar	lom-aʁaki l-ḳosot
+6.46	skirt	n-saat-a-gi
+6.461	grass-skirt	--
+6.48	trousers	l-amaʁaso
+6.49	stocking, sock	na-[meedia]
+6.51	shoe	l-apelaʔ
+6.52	boot	--
+6.54	shoemaker, cobbler	pelaʔ lʔo
+6.55	hat, cap	n-adoʔo
+6.57	belt, girdle	n-saat-aʁaki
+6.58	glove	--
+6.59	veil	--
+6.61	pocket	l-oʁoiki
+6.62	button	l-eg-aʁašte
+6.63	pin	
+6.71	ornament, adornment	n-ʔot-aʁat; lʸ-iʔoʁod-aʁat
+6.72	jewel	--
+6.73	ring (for finger)	n-čigi-šaḳte
+6.74	bracelet	l-waʁa-šik
+6.75	necklace	l-ḳola
+6.76	bead	damegaʁa al-a
+6.77	earring	l-šit-e
+6.78	headband, headdress	al-aʁa
+6.79	tattoo	n-ʔad-e
+6.81	handkerchief, rag	n-kopaḳ l-[i]alek
+6.82	towel	n-apilot-aʁat
+6.91	comb	n-tag-aḳte
+6.92	brush	n-pikn-aḳte
+6.921	braid	n-amoge
+6.93	razor	l-peteg-aʁan-aʁat
+6.94	ointment	l-pikn-aʁat
+6.95	soap	l-yo-ʁon-aʁat
+6.96	mirror	tann-aʁai
+7.11	dwell, live	n-a-lek; ne-ta-lek
+7.12	house	noyik
+7.13	hut	lʸ-iʔaʁaki; l-maʔ n-awek-a-ɲi
+7.131	garden-house	--
+7.14	tent	l-peʔl
+7.15	yard, court	l-api-aḳaʔ
+7.16	men's house	--
+7.17	cookhouse	l-woš-aʁaki
+7.18	meeting house	l-apon-aʁaki
+7.21	room	l-da-ḳaʔ
+7.22	door, gate	l-asom
+7.221	doorpost, jamb	l-asom l-ayi
+7.23	lock (noun)	--
+7.231	latch, door-bolt	l-eg-aʁašit
+7.24	key	l-em-aḳte
+7.25	window	l-alʸ-oʁoki
+7.26	floor	l-api-aḳaʔ
+7.27	wall	n-apo-ʁon-aʁat
+7.31	fireplace	--
+7.32	stove	--
+7.33	chimney	--
+7.37	ladder	n-api-aʁalaʔ
+7.42	bed	l-malaʔ
+7.421	pillow	n-ʔaʁan-aʁat
+7.422	blanket	l-ḳalehn-ek
+7.43	chair	n-soʔon-aʁaki
+7.44	table	l-kiʔ-aʁalaʔ
+7.45	lamp, torch	l-koyad-aʁan-aḳte
+7.46	candle	l-koyad-aʁan-aʁat
+7.47	shelf	--
+7.48	trough	n-yom-aʁaki
+7.51	roof	l-laḳ; la-poʔ
+7.52	thatch	ʔawaḳ-pi
+7.53	ridgepole	l-laʁa-šik
+7.54	rafter	l-lʸik-eʔ-te
+7.55	beam	ʔipaḳ (masc.)
+7.56	post, pole	ʔipaḳ (masc)
+7.57	board	ʔipaḳ (masc)
+7.58	arch	--
+7.61	mason	lo-sok l-ʔo
+7.62	brick	lo-sok
+7.63	mortar	n-ʔamn-aʁat
+7.64	adobe	lo-sok tok-či-gi
+8.11	farmer	--
+8.12	field (for cultivation)	l-an-aʁan-ḳaʔ
+8.13	garden	l-an-aʁan-ḳaʔ
+8.15	cultivate, till	i-ʔad-ot
+8.16	fence	[laamde]
+8.17	ditch	l-šid-ek
+8.21	plow	n-ʔayi-šigem; ya-ḳalagoʁ-oh-ɲi
+8.212	furrow	
+8.22	dig	n-šiʔ
+8.23	spade	šit-eget
+8.24	shovel	l-šid-aʁan-aʁat
+8.25	hoe	l-met-aʁan-aḳte
+8.26	fork	l-ʔad-aʁan-aḳte
+8.27	rake	l-kelog-aʁan-aḳte
+8.31	sow	y-aa-ɲi
+8.311	seed	al-a
+8.32	mow, reap	n-ḳat
+8.33	sickle, scythe	--
+8.34	thresh	n-asola
+8.35	threshing-floor	--
+8.41	crop, harvest	l-ḳat-aʁan-aʁak
+8.42	grain (barley, oats etc)	al-a
+8.43	wheat	--
+8.44	barley	--
+8.45	rye	--
+8.46	oats	--
+8.47	maize, corn	ʔawaʁa
+8.48	rice	--
+8.51	grass	ʔawaḳ-pi
+8.52	hay	--
+8.53	plant (noun)	l-an-gišik
+8.531	plant (vb)	y-aa-ɲi
+8.54	root	l-paʔaʔ
+8.55	branch	l-kowe
+8.56	leaf	l-awe
+8.57	flower	l-awo-ʁo; l-asowi-aʁa
+8.6	tree	ʔipaḳ (fem.)
+8.61	oak	--
+8.62	beech	--
+8.63	birch	--
+8.64	pine	--
+8.65	fir	--
+8.66	acorn	--
+8.67	vine	n-šiʔila
+8.68	tobacco	l-ašiid-ek
+8.69	smoke (tobacco)	y-ašiw
+8.691	pipe	l-ašiid-aʁan-aʁaki
+8.72	tree stump	l-amo
+8.73	tree trunk	l-asot
+8.74	forked branch	l-kowe
+8.75	bark	l-so
+8.76	sap	n-ate
+8.81	palm tree	čaik
+8.82	coconut	--
+8.83	citrus fruit	--
+8.84	banana tree	--
+8.85	banyan	--
+8.91	sweet potato	[wataata]
+8.912	yam	--
+8.92	tapioca, manioc, cassava	[manǰooka]
+8.93	gourd	čimai; ʔapaʁa; ḳaʔapaʁa
+8.931	pumpkin, squash	ltaɲi; ʔaadai; lalʸiyaʁai
+8.94	bamboo	wataʁat
+8.941	sugar cane	[kaaɲa]
+8.96	fish poison (root)	šipatoḳ; lpataik
+8.97	nettle	wowe poḳo
+8.98	mushroom	toʔolʸoʁoi
+9.11	do, make	i-ʔot
+9.12	work	do-ʔonat-aʁan
+9.14	bend	n-amaḳ-čit
+9.15	fold	y-iʔ-aʁan
+9.16	tie, bind	i-koɲiʔ
+9.161	untie	i-so-wek
+9.18	chain	[cadeena]
+9.19	rope, cord	l-aɲik
+9.192	knot (noun)	l-ḳote
+9.21	strike (hit, beat)	i-waʁan
+9.211	pound with fist	y-asaken
+9.22	cut	i-pelek; y-apiat
+9.221	cut down	i-kesoḳ-ot
+9.222	chop, hew	i-kesoḳ
+9.223	stab	i-ʔaǰ-igi
+9.23	knife	l-ailon-ek
+9.24	scissors, shears	n-kedaleg-aʁat
+9.25	ax	n-ḳačipe
+9.251	adze	--
+9.26	break	i-noʁon
+9.261	broken	w-akak
+9.27	split	de-poḳo-gi
+9.28	tear	i-kolaʁ-at-a-ʔage
+9.29	flay, skin	i-kola
+9.31	rub, wipe	i-piktee-lek
+9.32	stretch	n-alog-aʁat
+9.33	pull	n-awek
+9.34	spread out	i-pigii-ɲi
+9.341	hang up	i-pegen
+9.342	press	i-pataḳ
+9.343	squeeze, wring	n-lom
+9.35	pour	i-koʔ
+9.36	wash	i-yo
+9.37	sweep	i-kelok
+9.38	broom	l-kelog-aʁan-aḳte
+9.422	tool	l-ʔonat-aʁan-aʁat
+9.43	carpenter	ʔipaḳ l-ʔo
+9.44	build	n-ʔoʁoo-šigem
+9.46	bore	i-win-eek
+9.461	hollow out	n-šiǰ-igi
+9.48	saw	n-čig-aʁan-aʁat
+9.49	hammer	n-waʁan-aʁan-aḳte
+9.5	nail	l-eg-aʁašite
+9.56	glue	
+9.6	smith, blacksmith	lkat l-ʔo
+9.61	forge	--
+9.62	anvil	l-waʁan-aʁan-aʁalaʔ
+9.63	cast (metals)	--
+9.64	gold	--
+9.65	silver	--
+9.66	copper, bronze	--
+9.67	iron	--
+9.68	lead (noun)	--
+9.69	tin, tinplate	--
+9.71	potter	ʔalwa l-ʔo
+9.72	mold (clay etc)	--
+9.73	clay	ʔalwa
+9.74	glass	na č-a-wek
+9.75	weave, plait	i-paʁat
+9.76	basket	l-paḳt-a
+9.77	mat	l-akan-ek
+9.771	rug	--
+9.78	netbag	l-ḳotaki
+9.79	fan (noun)	n-ašiid-aḳte; n-asaw
+9.791	fan (vb)	y-ašiid-ot; y-asaw-n-oigi
+9.81	carve	--
+9.82	sculptor	--
+9.83	statue	l-ʔenaḳt-ak
+9.84	chisel	--
+9.88	paint (noun)	ǰinek
+9.89	paint (vb)	i-ʔamee-lek
+10.11	move	n-kig-aʁat; i-da-ʁan
+10.12	turn over	ḳalagoʁo-ɲi
+10.13	turn around	
+10.14	wind, wrap	y-aʁat-ege
+10.15	roll	i-nan
+10.16	drop (vb)	y-it-a-ɲi
+10.17	twist	i-win-aʔt
+10.21	rise	we-not-šigem
+10.22	raise, lift	y-aa-šigem
+10.23	fall	w-a-ɲi
+10.24	drip	ɲit-ta-ɲi
+10.25	throw	y-asaḳ
+10.252	catch (ball)	y-akon-get
+10.26	shake	i-čigoḳ
+10.32	flow	i-paʁan
+10.33	sink	i-ǰii-ɲi
+10.34	float	d-alʸiki
+10.35	swim	d-aloʁon
+10.351	dive	wom-ɲi
+10.352	splash	n-čikii-šigem
+10.36	sail (vb)	--
+10.37	fly (vb)	w-ayo
+10.38	blow	i-ketet-eek
+10.41	creep, crawl	walek; n-ḳapek
+10.412	kneel	i-ʔad-ǰi-ɲi na-wa l-lʸikte
+10.413	crouch	n-ḳapek
+10.42	slide, slip	de-salwi
+10.43	jump, leap	padenaʁan
+10.431	kick	y-asot
+10.44	dance	d-asot
+10.45	walk	kewo; pe-ta-ɲi
+10.451	limp	w-ayot-ta
+10.46	run	n-ḳalgoḳ; čigaḳ-ɲi
+10.47	go	he-k
+10.471	go up	ki-šigem; t-a-šigem
+10.472	climb	wi-šigem
+10.473	go down	t-a-ɲi
+10.474	go out	t-a-wek
+10.48	come	anak
+10.481	come back	ɲ-iʔigelaḳ
+10.49	go away, depart	t-a-wek
+10.491	disappear	pal
+10.51	flee	d-ata-wek; ʔ-et
+10.52	follow	kaʔat-ege
+10.53	pursue	i-kan
+10.55	reach, arrive	i-wiʔ; n-wiʔ
+10.56	approach	n-kig-ewo
+10.57	enter	i-noʁon-ewo; n-noʁon-ewo
+10.61	carry (bear)	i-do; n-do
+10.612	carry-in-hand	l-asoḳ-ta-ʔa
+10.613	carry-on-shoulder	n-alʸag-išin
+10.614	carry-on-head	n-ḳaig-išin
+10.615	carry-underarm	n-saḳtaki-n; n-čiši-n
+10.62	bring	n-do
+10.63	send	y-amaḳ; n-amaḳ
+10.64	lead (vb)	n-awek
+10.65	drive	y-amaikin-gi
+10.66	ride	wo-not-šigem
+10.67	push, shove	y-amaḳ; n-amaḳ
+10.71	road	ḳaʔaik
+10.72	path	lʸ-ik
+10.74	bridge	pi-aʁalaʔ
+10.75	carriage, wagon, cart	n-naigon-a; l-aigon-a
+10.76	wheel	l-asaʁanna
+10.77	axle	--
+10.78	yoke	l-ač-oʁon-aʁalaʔ
+10.81	ship	--
+10.83	boat	l-lʸikot-a; n-pedaʁanaʁa
+10.831	canoe	--
+10.832	outrigger	--
+10.84	raft	l-malaʔ; l-ato-k
+10.85	oar	l-lʸokt-aʁan-aʁat
+10.851	paddle (noun)	--
+10.852	row (vb)	i-lʸigot; i-lʸogot
+10.86	rudder	--
+10.87	mast	--
+10.88	sail (noun)	--
+10.89	anchor	--
+10.91	harbor, port	ɲ-ig-aʁasom
+10.92	land (vb)	--
+11.11	have	woʔo
+11.12	own, possess	we-to-ʔot
+11.13	take	y-akon-a
+11.14	seize, grasp	d-oʁon-aʁan
+11.15	hold	l-asoḳ-ta-ʔa
+11.16	get, obtain	n-ḳah-ɲi
+11.17	keep, retain	l-asoḳ-teg-a
+11.18	thing	--
+11.21	give	y-an; y-aɲan
+11.22	give back	y-iʔigelaʁ-at
+11.24	preserve, look after	i-den
+11.25	save, rescue	i-kaʔal-aʁat-eek
+11.27	destroy	i-la-ʁač-igi
+11.28	harm, injure, damage	n-ʔa-ʁat; n-ʔa-ʁan; i-dan
+11.31	seek, look for	i-lo-ta-ike; n-mit-aike
+11.32	find	y-anat-a
+11.33	lose	ya-ḳat-tak
+11.34	release, let go	i-so-wek; y-ačaʁan-eek
+11.43	money	al-om
+11.44	coin	laikawa
+11.51	rich	salʸ-aʁan-ek
+11.52	poor	čoʁod-aik; čoʁod-aḳ
+11.53	beggar	šila-ʁan-aʁaik
+11.54	avaricious, stingy	d-ašimata
+11.61	lend	i-ʔaal-aʁan-aʁan
+11.62	borrow	da-ʔaal-aʁan; n-ʔawat
+11.63	owe	d-awigaḳ-taʁan
+11.64	debt	l-awigaʁa-šite
+11.65	pay (vb)	i-šiiten
+11.66	account, reckoning	--
+11.69	tax, tribute	--
+11.77	hire	i-ʔonat-aʁan-aʁan
+11.78	wages	n-šiwe; n-šiiten-aḳte
+11.79	earn	n-awek
+11.81	buy	n-men
+11.82	sell	i-men
+11.83	trade, barter	n-men-get
+11.84	merchant	n-men-aʁaik
+11.85	market (place)	men-ḳaʔ
+11.86	store, shop	men-aʁan-aʁaki
+11.87	price	l-ašiwe
+11.88	dear (costly, expensive)	ḳayoḳt-ew-ʔa
+11.89	cheap	sa ḳaya-w-ʔa
+11.91	share (distribute)	y-an-eek; y-an-oigi
+11.92	weigh	n-alo-ḳten
+12.1	after	ḳome
+12.11	behind	woke
+12.2	beside	we-ta-ʔaget; we-ta-ʔasop
+12.3	down, below	we-ta-ɲ-a
+12.4	before	d-ata-ya-ʔage
+12.41	front	
+12.5	inside, in	we-ta-igi; paʔa-igi
+12.6	outside	paʔa-wek
+12.7	under	we-to-ʔot
+12.8	up, above	we-ta-šigem; paʔa-šigem
+12.11	place	l-maʔ
+12.12	put	y-an
+12.13	sit	n-soʔoo-ɲi
+12.14	lie down	n-naa-ɲi
+12.15	stand	n-ačah-ɲi
+12.16	remain, stay	we-ta-iǰi; we-ta-iʔ ʔena
+12.17	remains, left overs	lʸ-iʔiyoʁ-ot
+12.21	collect, gather	n-ato; l-apon; l-ayon; l-ama-čit
+12.212	pick up	n-ači-šigem; y-aa-šigem
+12.213	pile up	l-ayoo-šigem; l-apoo-šigem
+12.22	join, unite	y-awaʁa-yaʁan-aʔt
+12.23	separate	i-yot-aʁat-eek
+12.232	divide	i-kolaʁ-ač-igi
+12.24	open	y-awač-igi
+12.25	shut, close	y-apo-gi; y-amaʁ-aʔt
+12.26	cover	y-apo-lek; y-awege-lek
+12.27	hide, conceal	y-oʁoh-ɲi
+12.31	high	ḳoyoḳot-čigem-ek
+12.32	low	ḳoyoḳč-igiɲ-a
+12.33	top	l-milo
+12.34	bottom	n-ateʔ
+12.35	end	l-og-aʔt
+12.352	pointed	šit-te-get
+12.353	edge	l-oi-ge
+12.36	side	l-ayi
+12.37	middle, center	l-ai-ɲi
+12.41	right (side)	al-oik
+12.42	left (side)	n-ʔemaḳ
+12.43	near (adv)	sa ḳaya-pke
+12.44	far (adv)	ḳayoḳt-a
+12.45	east	ʔi; n-aʔaʔḳ
+12.46	west	awit; lʔaɲaʁa
+12.47	north	dapigem; šiʔu
+12.48	south	tag-iɲi; lʔaɲaʁa
+12.53	grow	n-kik; n-kigi-šigem
+12.54	measure	n-alo-ḳon
+12.541	span, fathom	n-alo-ta-lek; i-wid-a-lek
+12.55	large, big	ʔamaḳtaḳ
+12.56	small, little	kočoʔ-oɲik; l-[i]ale-k
+12.57	long	alok; ḳalot-ege
+12.58	tall	lok-aik; keden-aik
+12.59	short	saḳ alok; [pičis]-olek
+12.61	wide, broad	ḳaloč-igiɲi; l-ka-giɲi
+12.62	narrow	sa l-ka-ʔage
+12.63	thick (in dimension)	
+12.65	thin (in dimension)	sa l-ka-ʔage
+12.67	deep	ḳaya-n-gi; atap
+12.68	shallow	sa ḳaya-n-gi; saḳ atap
+12.71	flat	
+12.73	straight	i-lo-t-eek
+12.74	crooked	namaḳ-aik
+12.75	hook	n-kede
+12.76	corner	l-alʸimaḳ-wo
+12.77	cross	--
+12.78	square	--
+12.81	round	kolʸii-či-gi
+12.82	circle	konɲ-igi
+12.83	sphere, ball	n-[peloota]
+12.84	line	l-ʔan-aʁan-aʁat
+12.85	hole	l-awak
+12.92	like, similar	ʔ-en-ʔam
+12.93	change	n-kig-aʁat; n-ḳočin-aʁat
+13.0	zero, nothing	ḳaika; ḳaka
+13.1	one	[ʔoon]-olek; [ʔoon]-ole
+13.2	two	[doos]-olḳ-a; [doos]-ole
+13.3	three	[trees]-olḳ-a; [trees]-ole
+13.4	four	[kowaatro]
+13.5	five	[šiinko]
+13.6	six	[sais]
+13.7	seven	[šieete]
+13.8	eight	[ʔoočo]
+13.9	nine	[noweewe]
+13.10	ten	[ǰies]
+13.101	eleven	[ʔoonse]
+13.102	twelve	[doose]
+13.103	fifteen	[kiinse]
+13.104	twenty	[vainte]
+13.105	hundred	[šien]
+13.106	thousand	[mil]
+13.107	count	n-alo-ḳten
+13.14	every, all	ʔenawak
+13.15	much, many	ḳalot-a
+13.16	more	l-ya; l-ayi
+13.17	little (quantity), few	saḳ ʔamaḳta-či; sa l-ama-iʔ
+13.18	enough	n-alo-ta-ɲi; sa ḳowe
+13.181	some	sa l-ama-iʔ
+13.19	multitude, crowd	ḳalot-a; l-apa
+13.21	full	n-laḳ-či-gi
+13.22	empty	kiʔit-čigi
+13.23	part, piece	l-ayi
+13.24	half	l-ai-ɲi
+13.33	alone, only	n-do-t-eek
+13.34	first	wa-ʔaw-či-giɲi
+13.35	last	paʔa-t-eek
+13.36	second	n-kaʔat-aʁan-aʁaik
+13.37	pair	n-alo-ʁowa; l-ata-ʁawa
+13.38	two times	[dos] da...
+13.42	third	
+13.44	three times	[tres] da...
+14.11	time	--
+14.12	age	wiʔi
+14.13	new	dala-ʁaik
+14.14	young	saʁanaʁa yi
+14.15	old	yi
+14.16	early	nteʔ-eta
+14.17	late	awit
+14.18	now	nagi
+14.19	immediately	nakta; sa l-kopa-ʔa
+14.21	swift, fast, quick	ʔeleged-aik; čaʁa-lek
+14.22	slow	šiš-aʁaik; lau-aik
+14.23	hasten, hurry	i-yala-pigiʔ; sa i-law-a-ʔage
+14.24	retard, delay	d-ašiši
+14.25	begin, beginning	n-a-šigem; k-ot da...
+14.252	last, endure	nači ʔ-ee-ta-iʔ
+14.26	end (temporal)	l-og-aʔt; l-alo-ḳoʔ
+14.27	finish	i-mat; i-wid-aʁat-eek
+14.28	cease, stop	y-aʁaa-ɲi; i-nan-get; w-iʔii-get
+14.29	ready	l-wot-ta
+14.31	always	nači ʔ-ee-ta-iʔ
+14.32	often	kenaʁa; ḳalot-a da...
+14.33	sometimes	woʔo da...
+14.331	soon	saḳayaloḳ; sa n-min-aʁaik
+14.332	long-time (for a)	saḳayaloḳ-ta; yaloḳ-ta
+14.34	never	ḳaika da...; sa y-awan-a da...
+14.35	again	ḳaltaḳ
+14.41	day	n-aʔaʔḳ
+14.42	night	pe
+14.43	dawn	ǰiʔoʁo-ɲi
+14.44	morning	nteʔ-eta
+14.45	noon, midday	n-aʔaʔḳ l-ai-ɲi
+14.451	afternoon	awit
+14.46	evening	awit-ata
+14.47	today	na n-aʔaʔḳ
+14.48	tomorrow	ḳo-ǰiʔoʁo-ɲi
+14.481	day-after-tomorrow	ḳo-ǰiʔoʁo-ɲi l-ya
+14.49	yesterday	šik-ait
+14.491	day-before-yesterday	šik-ait l-ya
+14.51	hour	[ʔoora]
+14.53	clock, timepiece	--
+14.61	week	[semaana]
+14.62	Sunday	[domiingo]
+14.63	Monday	[loones]
+14.64	Tuesday	[maartes]
+14.65	Wednesday	[mieerkoles]
+14.66	Thursday	[fweewes ~ koweewes]
+14.67	Friday	[wieernes]
+14.68	Saturday	[saabado]
+14.71	month	kaʔago-ʁoik
+14.73	year	wiʔi
+14.74	winter	n-ʔom-aʁa ~ l-atom-aʁa
+14.75	spring	n-awo-ʁo
+14.76	summer	wiʔi
+14.77	autumn	kotap
+14.78	season	--
+15.21	smell (vb intrans)	de-ta-ʁan
+15.212	sniff	de-ta-ʁan
+15.22	smell (vb trans)	i-ta
+15.25	fragrant, good smelling	ama na l-aita
+15.26	stinking, bad smelling	ḳawem na l-aita
+15.31	taste	y-iʔigen da l-ama-ik
+15.35	sweet	ama
+15.36	salty	ɲ-iʔiwa
+15.37	bitter	čim
+15.38	acid, sour	ɲ-iʔiwa
+15.39	brackish	
+15.41	hear	wa-ʔaḳa
+15.42	listen	n-ʔaʁa-yaʁan
+15.44	sound, noise	l-lam-aʁa; l-ayak; l-lʸimi-aʁa
+15.45	loud	yaki-aʁaik; lʸimi-aʁaik
+15.46	quiet, silence	n-aǰat-či-giɲi; lʸa-ɲi
+15.51	see	n-awaa-či-giɲi; de-mehn-aʁan
+15.52	look, look at	i-lo-ta-ʔa; i-meten
+15.55	show	y-ačaʁan
+15.56	shine	ʔet-ta-igi
+15.57	bright	ḳašilg-aʁad-aik
+15.61	color	l-ʔok-iaʁak
+15.62	light (in color)	y-apagaḳ-a-lek
+15.63	dark (in color)	nawed-a-lek
+15.64	white	y-apagaḳ; l-apagaʁ-aik
+15.65	black	n-aweʔ; l-aid-aʁaik
+15.66	red	tok; tog-aʁad-aik
+15.67	blue	i-malaḳ; malaʁ-ad-aik
+15.68	green	d-adala
+15.69	yellow	yo-ḳowi
+15.71	touch	i-pot; y-ašil-lek
+15.712	pinch	i-sapla
+15.72	feel	anoma; i-tee-teg-a
+15.74	hard	da-ʔai-lek; ḳadamt-a
+15.75	soft	i-sot; dam-či-gi
+15.76	rough	kesaḳ
+15.77	smooth	salʸi-ta
+15.78	sharp	yi-ta; lʸaʔ
+15.79	blunt, dull	saḳ yi
+15.81	heavy	de-salʸi; sa paʔat-ta
+15.82	light (in weight)	sa salʸi; n-sat-ta; w-ayo-ʁoo-tak
+15.83	wet, damp	y-akit; d-apapi
+15.84	dry	d-aḳaḳa; ʔim
+15.85	hot	d-apaḳa; n-apaʁa-ya-ɲi
+15.851	warm	d-apaḳ-ta-iʔ
+15.86	cold	atom
+15.87	clean	kiʔit; yo-ḳowi-ta
+15.88	dirty, soiled	n-šipaʁan
+15.89	wrinkled	i-wigaʁ-aʔt
+16.11	soul, spirit	l-kiʔi
+16.15	surprised, astonished	i-ʔelaḳ-pigiʔ
+16.18	good fortune, luck	--
+16.19	misfortune, bad luck	--
+16.23	joyful, glad, happy	n-ton; ma-či-giɲi
+16.25	laugh	l-aši; d-ayalgiyi
+16.251	smile	ḳopit-ta-iʔ
+16.26	play	da-ʔaši; d-ayaki; n-kišiši
+16.27	love	l-soʁoǰ-ik; y-awot-ek
+16.29	kiss	n-apigoḳ
+16.3	embrace	n-soʁo-wo; n-ḳapal-eʔ
+16.31	pain	i-wet; d-ayalʸi; n-kiʔik
+16.32	grief, sorrow, sadness	d-akiko; saḳ ama-pigiʔ
+16.33	anxiety, worry	d-ačitata; l-ačitata-ik
+16.34	regret, be sorry	n-towen; n-togot-tak
+16.35	pity	i-čoʁoden
+16.37	cry, weep	n-oyin
+16.38	tear (noun)	l-ačiʔ
+16.39	groan	de-soḳo
+16.41	hate	n-kiya
+16.42	anger	de-no; d-alemata
+16.44	envy, jealousy	i-paʔagen
+16.45	shame (noun)	l-koʁ-o; l-ʔaloʁ-o
+16.48	proud	ɲ-iʔoʁonn-aʁaik; n-ʔamḳahn-aʁaik
+16.51	dare	sa y-aden-a-lek
+16.52	brave	ḳadamči-gi la-wel
+16.53	fear, fright	l-kolan-aʁa; ɲ-iʔi
+16.54	danger	l-č-ik
+16.62	desire, want	i-ǰaḳ; y-awot-aike; n-šit-aike
+16.622	choose	l-kaʔa
+16.63	hope	n-akit-a-ʔa; n-akit-aʁak
+16.65	faithful	i-pak-či-gi da l-ʔaḳt-ak
+16.66	true	ʔee-sa
+16.67	lie, tell lies	n-ašipeg-aʁan
+16.68	deceit	l-atenat-aʁan-aʁak
+16.69	forgive	i-čoʁoden
+16.71	good	no-ʔon
+16.72	bad	ḳawem; sa y-ayamaʁa-ɲi
+16.73	right, correct	yataḳ-ta; y-ayamaḳ-či-giɲi
+16.74	wrong	sa yataḳ
+16.76	fault	l-asow-aʁašit
+16.77	mistake, error	i-lamaḳ-wek; sa n-aten-get
+16.78	blame	n-maʁ-a
+16.79	praise	lʸ-iʔoʁonn-ataʁan-aʁak
+16.81	beautiful	ʔon-aʁaik
+16.82	ugly	legem-aʁaik; l-ʔa-ʁaik
+16.83	greedy	ḳowk-aik
+16.84	clever	sa n-ḳalaat
+17.11	mind	l-wennat-aʁa
+17.13	think (= reflect)	do-wennat-aʁan
+17.14	think (= be of the opinion)	i-pet-a-ʔa
+17.15	believe	i-ʔamaḳten
+17.16	understand	n-lo-gi
+17.17	know	y-ayaten
+17.171	guess	i-pet-a-ʔa
+17.172	imitate	i-ʔenaʁat
+17.18	seem	ʔikeʔ
+17.19	idea, notion	l-wennat-aʁa
+17.21	wise	yahn-aʁan-aʁaik
+17.22	foolish, stupid	sa n-ayamaʁ-at-apek
+17.23	insane, crazy	alaʁ-aik; woʔo da al-oik
+17.24	learn	n-apaʁagen
+17.242	study	n-apaʁagen
+17.25	teach	y-apaʁagen
+17.26	pupil	l-apaʁagen-atak
+17.27	teacher	n-apaʁagen-ataʁan-aḳ
+17.28	school	n-apaʁagen-aʁaki
+17.31	remember	n-town-ek; t-a-gi la-wel
+17.32	forget	i-kow-a-ʔai; sa n-town-ek
+17.34	clear, plain	wo-so-te-ge; ǰiʔoḳ-te-ge
+17.35	obscure	sa ǰiʔoḳ
+17.36	secret	saḳ č-a-ʔa
+17.37	sure, certain	ʔee-sa
+17.38	explain	i-ʔaʁat-ta
+17.41	intention, purpose	l-wennat-aʁa; ʔ-ee-tapeg-ek
+17.42	cause	i-ʔot-ek; n-aḳʔen
+17.43	doubt	yo-ḳolget
+17.44	suspect	i-pet-a-ʔa
+17.441	betray	n-men
+17.45	need, necessity	i-wen
+17.46	easy	l-wot-te-lek
+17.47	difficult	alaḳ
+17.48	try, attempt	n-pogoʁowen
+17.49	way, manner	n-ʔonat-agek
+17.51	and	ḳataḳ
+17.52	because	čaʔaǰi
+17.53	if	da
+17.54	or	ḳalḳ-oʔ; woʔo-taḳ
+17.55	yes, affirmative	ahaʔ
+17.56	no, negative	ʔaʔi; sa; saḳ
+17.61	how?	'ʔ-ee-t-ek
+17.62	how many?	l-ka-ta
+17.63	how much?	l-šik-te-w-ʔa
+17.64	what?	'negeʔt
+17.65	when?	lagi
+17.66	where?	'w-a-ʔage
+17.67	which?	'negeʔt
+17.68	who?	'negeʔt
+17.69	why?	'taʔainek
+18.11	voice	la-wilʸ-aʁak
+18.12	sing	i-ʔon
+18.13	shout, cry out	i-ʔalaḳ
+18.15	whisper	
+18.16	mumble	
+18.17	whistle	ǰ-iʔoʁon
+18.18	shriek, screech	d-akiki
+18.19	howl	d-alako
+18.21	speak, talk	da-ʔaḳt-aʁan
+18.211	stutter, stammer	n-ʔap-r-apeg-ek na l-ʔaḳt-aḳa
+18.22	say	i-ʔaʁat
+18.221	tell story	
+18.222	speech (make a)	da-ʔaḳt-aʁan
+18.23	silent (be)	y-iʔimaḳ-ta
+18.24	language	na-wa l-ʔaḳt-aḳa
+18.26	word	l-ʔaḳt-ak
+18.28	name	l-ʔenaʁat
+18.31	ask (question, inquire)	i-nat
+18.32	answer	y-asat
+18.33	admit, confess	n-so-laʔt
+18.34	deny	n-ḳolget-eʔ
+18.35	ask, request	y-ašila
+18.36	promise	y-ačaʁan-apek
+18.37	refuse	de-keǰoḳ-tak
+18.38	forbid	sa y-ašin
+18.39	rebuke, scold	n-laʁa
+18.41	call (=summon)	i-yaʁan-a
+18.42	call (=name)	i-lon
+18.43	announce	i-ʔaʁat-eek; t-ala-ʁan
+18.44	threaten	y-adee-ta-lek
+18.45	boast	n-apag-aḳčin
+18.51	write	y-iǰ-iɲi; d-ed-aʁan
+18.52	read	i-taʁa-yaʁan
+18.56	paper	[papel]
+18.57	pen	l-ed-aʁan-aʁat
+18.61	book	l-ed-e
+18.67	poet	--
+18.71	flute	l-ašiid-e
+18.72	drum	l-ḳataki; l-waʁan-a
+18.73	horn, trumpet	l-ašiid-e
+18.74	rattle	l-tegete
+19.11	country	l-maʔ; n-ʔalwa
+19.12	one's native country	l-aɲo-ḳoʔ
+19.15	city, town	[siudad]
+19.16	village	[pewlo]
+19.17	boundary	l-og-aʔt; l-oi-ge
+19.21	people (populace)	šiy-aʁawa-pi; šig-aʁawa-pi
+19.23	tribe, clan	la-woʔ
+19.24	chief, chieftain	l-ata-ʁalaʔ; l-aši
+19.25	staff, walking stick	l-ašil-te
+19.31	rule, govern	d-amaʁa-soʁon-apek
+19.32	king, ruler	l-taʔa
+19.33	queen	l-ateʔe
+19.36	noble, nobleman	--
+19.37	citizen, subject	
+19.41	master	n-ʔakoʔ
+19.42	slave	l-lat-ak
+19.43	servant	l-amaʁa-šik
+19.44	freeman	sa n-lat-ak
+19.45	command, order	y-amaḳ; n-amaḳ
+19.46	obey	y-alaḳ
+19.47	let, permit	y-ašin
+19.51	friend, companion	l-asagiǰ-aʁawa; n-naig-aʁawa
+19.52	enemy	n-paʔagen-aʁawa
+19.54	neighbor	la-wod-ewa
+19.55	stranger	ɲi čigaḳ-a-wek
+19.56	guest	n-amaʁa-soʁoik
+19.57	host	n-amaʁa-soʁolaʔ
+19.58	help, aid	i-tawa-n
+19.59	hinder, prevent	naʁat-eget
+19.61	custom	n-ʔonat-aʁak
+19.62	strife, quarrel	n-kota-ʁak
+19.63	conspiracy, plot	--
+19.65	meet	n-aten-get
+19.72	prostitute	kišiget-aʁai
+20.11	fight (vb)	n-waʁan-eʔ
+20.13	war, battle	laat-aḳ
+20.14	peace	l-lag-aʁaǰik
+20.15	army	n-alʸi-ppi
+20.17	soldier	n-ale; wat-aʁan-aḳ l-ʔek
+20.21	weapons, arms	l-ʔogoʁon-aʁat-pi
+20.22	club	n-pon
+20.222	battle-ax	--
+20.23	sling	l-čikn-aʁan-aʁat; l-pokn-aʁan-aʁat
+20.24	bow	l-čikn-ek
+20.25	arrow	l-wik; n-čipaḳ; l-čikn-a
+20.26	spear	l-atakiaʁai
+20.27	sword	n-paǰin; l-ailon-ek
+20.28	gun, cannon	l-ʔogoʁon-aḳte
+20.31	armor (defensive)	l-paḳt-aʁan-aʁat-pi
+20.33	helmet	n-adoʔo
+20.34	shield	l-paḳt-aʁan-aḳte
+20.35	fortress	lʸ-iʔigen-aʁaki
+20.36	tower	l-awe
+20.41	victory	l-aweg-aʁan-aʁak
+20.42	defeat	l-oʁon-aʁan-aʁak; n-oʁon-agek
+20.43	attack	i-to
+20.44	defend	n-paʁat-ta-lek; i-weh-lek
+20.45	retreat	ʔ-et; ḳoši
+20.46	surrender	n-aɲan
+20.47	captive, prisoner	l-oʁon-ek
+20.471	guard, sentinel	wat-aʁan-aḳ
+20.48	booty, spoils	l-wot-aʁan-aʁat
+20.49	ambush	n-awaa-tak
+20.51	fisherman	y-iʔako-ʁoik
+20.52	fishhook	l-ḳoin-a
+20.53	fishing line	ɲ-iʔaʁan-aʁat
+20.54	fishnet	l-aleg-ek; l-asag-oʁon-aʁat
+20.55	fish trap	n-ašigilʸaʁai
+20.56	bait	n-anoʁo
+20.61	hunt	ne-ʔepe; do-mači
+20.62	shoot	y-ayin
+20.63	miss (target)	y-apot
+20.64	trap (noun)	l-ḳoin-a
+20.65	trap (vb)	n-ḳowin
+21.11	law	l-amaʁa-soʁon-aʁak
+21.15	court	--
+21.16	judge (vb)	--
+21.17	judgment	--
+21.18	judge (noun)	--
+21.21	plaintiff	--
+21.22	defendant	--
+21.23	witness	--
+21.24	swear	--
+21.25	oath	--
+21.31	accuse	n-maʁa
+21.32	condemn	--
+21.33	convict (vb)	--
+21.34	acquit	--
+21.35	guilty	w-asoi-lek
+21.36	innocent	ḳaika ka l-asow-aʁašit
+21.37	penalty, punishment	n-waʁan-agek
+21.38	fine	--
+21.39	prison, jail	l-koɲit-aʁan-aʁaki
+21.42	murder	l-alaat-aʁan-aʁak; n-alaat-agek
+21.43	adultery	--
+21.44	rape	l-kat-aʁan-aʁak; n-kat-agek
+21.46	arson	--
+21.47	perjury	--
+21.51	steal	de-kači
+21.52	thief	kač-aʁaik
+22.11	religion	l-ʔamḳahn-ataʁan-aʁak
+22.12	God	ɲi ḳad-ʔot; [dios ~ ǰos]
+22.13	temple, church	l-ʔon-aʁan-aʁaki
+22.14	altar	l-kaʔat-oʁon-aʁalate
+22.15	sacrifice, offering	--
+22.16	worship	do-ʔon-aʁan
+22.17	pray	n-atamen
+22.18	priest	--
+22.19	holy, sacred	--
+22.22	preach	da-ʔaḳt-aʁan
+22.23	bless	i-čoʁoden
+22.24	curse	i-lad-apig-iɲi
+22.26	fast (vb)	n-ḳowa-ḳčih-laʔt
+22.31	heaven	pigem
+22.32	hell	--
+22.35	demon (evil spirit)	l-ʔek legem-aʁaik
+22.37	idol	--
+22.42	magic, witchcraft, sorcery	l-akon-aʁan-aʁak; l-ʔen-aʁan-aʁak
+22.43	sorcerer, witch	kon-aʁan-aʁaik
+22.44	fairy, elf	--
+22.45	ghost, phantom	n-kiʔi
+22.47	omen, portent	l-do

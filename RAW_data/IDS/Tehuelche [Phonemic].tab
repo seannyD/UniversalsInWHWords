@@ -1,0 +1,1311 @@
+entry_id	trans_english	Tehuelche_Phonemic
+1.1	world	
+1.21	earth, land	
+1.212	earth=ground, soil	'tēm
+1.213	dust	'tēm-hn
+1.214	mud	'set
+1.215	sand	'tēm
+1.22	mountain, hill	'gēwt
+1.222	cliff, precipice	'welč
+1.23	plain, field	'čˀokˀen
+1.24	valley	'matˀ
+1.25	island	
+1.26	mainland	
+1.27	shore	'xōno 'k-eʔne-kˀ-n
+1.28	cave	'má̄
+1.31	water	'leʔ
+1.32	sea	'xōno
+1.322	calm (of sea)	
+1.323	rough (of sea)	
+1.324	foam	'pet
+1.329	ocean	'xōno
+1.33	lake	'ḳoy
+1.34	gulf, bay	'xōno 'k-eʔne-kˀ-n
+1.341	lagoon	'ḳoy
+1.342	reef	
+1.343	headland, point	'or
+1.35	wave	
+1.352	tide	
+1.353	lowtide	'w-ayh-kˀ-n 'xōno
+1.354	hightide	
+1.36	river, stream, brook	'kˀōn
+1.362	whirlpool	
+1.37	spring, well	'leʔ aškˀn
+1.38	swamp	'koʔl
+1.39	waterfall	'ḳatḳten
+1.41	woods, forest	'ḳaroʔ
+1.42	tree (cf 08.600)	
+1.43	wood	'bewln
+1.44	stone, rock	'yatn
+1.45	earthquake	
+1.51	sky	'kˀōč
+1.52	sun	'ḳēngenkn
+1.53	moon	'ḳēngenkon
+1.54	star	'tˀerḳeʔ
+1.55	lightning	
+1.56	thunder	ka'rōtˀn ~ ka'rūtˀn
+1.57	lightning (as striking)	
+1.58	storm	
+1.59	rainbow	'gēher
+1.61	light (noun)	'paḳen
+1.62	darkness	'ahweʔn
+1.63	shade, shadow	'mayp
+1.64	dew	'čˀekˀr
+1.71	air	
+1.72	wind	'hošn
+1.73	cloud	'paʔwn
+1.74	fog	'aʔhoʔen
+1.75	rain (noun)	'tˀēw
+1.76	snow (noun)	'yēʔw
+1.77	ice	'taʔr
+1.78	weather	
+1.81	fire	'yayk
+1.82	flame (noun)	'-amš-
+1.83	smoke (noun)	'pˀaʔn
+1.84	ashes	'hep
+1.841	embers	'yačˀ
+1.851	burn (vb trans)	'āʔ-ym-
+1.852	burn (vb intrans)	'w-āʔ-; 'ḳˀēḳ-
+1.86	light, kindle, ignite	'āʔ-ym-
+1.861	extinguish	'čˀōʔ-
+1.87	match (noun)	'ōwe
+1.88	firewood	'yēnoy; 'kˀāk
+1.89	charcoal	
+2.1	person, human being	
+2.21	man (vs. woman)	'aln
+2.22	woman	'kārkn
+2.23	male	k'hey
+2.24	female	'ksemwn
+2.25	boy	'tˀaleʔnk
+2.251	young man (adolescent)	'yoreʔ
+2.26	girl	'tˀaleʔnn
+2.261	young woman (adolescent)	'yoreʔ-wn
+2.27	child	'tˀaleʔnk
+2.28	infant, baby	'aml
+2.31	husband	'šē
+2.32	wife	'šē
+2.33	marry	'pˀāy
+2.34	marriage, wedding	
+2.341	divorce	'keygtm
+2.35	father	'y-ānkˀo
+2.36	mother	'y-ān
+2.37	parents	
+2.38	married man	
+2.39	married woman	'kārkn
+2.41	son	'kalm
+2.42	daughter	'kalm-n
+2.43	offspring (son or daughter)	'aml
+2.44	brother	'gō
+2.444	older brother	'tˀaʔw
+2.445	younger brother	'gō
+2.45	sister	'gō
+2.454	older sister	'tˀaʔw-n
+2.455	younger sister	'gō
+2.456	sibling	'gō
+2.458	twins	
+2.46	grandfather	'bāy
+2.461	old man	'kˀarwn
+2.47	grandmother	'ḳon
+2.471	old woman	'kˀarwn-on
+2.48	grandson	'elkˀn
+2.49	granddaughter	'elkˀn-n; 'elkˀn-wn
+2.51	uncle	'šawr
+2.511	mother's brother	'šawr
+2.512	father's brother	'šawr; ye'penk
+2.52	aunt	'šawr-wn
+2.521	mother's sister	'šawr-wn
+2.522	father's sister	'šawr-wn
+2.53	nephew	'mex
+2.54	niece	'mex-on
+2.55	cousin	'heʔw; 'heʔm-on
+2.56	ancestors	'kˀewkˀnk
+2.57	descendants	
+2.61	father-in-law (of a man)	'ēn
+2.611	father-in-law (of a woman)	'ēn
+2.62	mother-in-law (of a man)	'ēn-on
+2.621	mother-in-law (of a woman)	'ēn-on
+2.63	son-in-law (of a man)	'kˀolkˀn
+2.631	son-in-law (of a woman)	'kˀolkˀn
+2.64	daughter-in-law (of a man)	'arnk-on
+2.641	daughter-in-law (of a woman)	'arnk-on
+2.71	stepfather	
+2.72	stepmother	
+2.73	stepson	
+2.74	stepdaughter	
+2.75	orphan	
+2.76	widow	'yešp-on
+2.77	widower	'yešp(-nk)
+2.81	relatives, kinsmen	
+2.82	family	'hew-tš
+2.91	I	y- ~ i-; 'yā
+2.92	you (singular)	m-; 'mā ~ 'màa
+2.93	he/she/it	(zero); t-; 'tā
+2.94	we	ok; oš
+2.941	we (inclusive)	
+2.942	we (exclusive)	
+2.95	you (plural)	mk; mš
+2.96	they	(zero); t-; 'tā
+3.11	animal	
+3.12	male (adj)	k'hey
+3.13	female (adj)	ksemwn
+3.15	livestock	
+3.16	pasture	'kˀōr
+3.18	herdsman	
+3.19	stable, stall	
+3.2	cattle (bovine)	
+3.21	bull	
+3.22	ox	'seʔn 'kˀom
+3.23	cow	'čˀoy
+3.24	calf	'mēn
+3.25	sheep	'ḳanpˀn; 'pˀan
+3.26	ram	'ḳānš
+3.28	ewe	
+3.29	lamb	
+3.32	boar	
+3.34	sow	
+3.35	pig	
+3.36	goat	
+3.37	he-goat	
+3.38	kid	
+3.41	horse (equine)	'gaʔwoy; ['ḳawl]
+3.42	stallion	'daʔweln
+3.44	mare	'xokˀen
+3.45	foal, colt	'kōroʔ; 'kōroʔ-wn
+3.46	ass, donkey	
+3.47	mule	
+3.5	fowl	
+3.52	cock, rooster	
+3.54	hen	['pīyo]
+3.55	chicken	
+3.56	goose	
+3.57	duck	'kˀoʔr
+3.58	nest	'šeyk; 'elk; 'šatˀey
+3.581	bird	'čˀeʔ
+3.582	seagull	
+3.583	heron	
+3.584	eagle	'awkr; 'atkt
+3.585	hawk	
+3.586	vulture	
+3.591	bat	
+3.592	parrot	
+3.593	crow	
+3.594	dove	
+3.596	owl	'āmn
+3.61	dog	'wačn
+3.614	rabbit	'pˀaʔher
+3.62	cat	
+3.622	opossum	
+3.63	mouse, rat	'tˀergr
+3.65	fish	ḳ'oyen
+3.652	fin (dorsal)	
+3.653	fishscale	
+3.654	gill	
+3.655	shell	
+3.661	shark	
+3.662	porpoise, dolphin	
+3.663	whale	
+3.664	stingray	
+3.665	freshwater eel	
+3.71	wolf	
+3.72	lion	'gōln
+3.73	bear	
+3.74	fox	'patn
+3.75	deer	
+3.76	monkey	
+3.77	elephant	
+3.78	camel	
+3.81	insect	
+3.811	louse	'čˀeroʔ
+3.812	nit (louse egg)	
+3.813	flea	
+3.814	centipede	
+3.815	scorpion	'ḳorpr
+3.816	cockroach	'čˀepˀr
+3.817	ant	'čaḳon
+3.818	spider	'šaʔpelon
+3.819	spider web	
+3.82	bee	
+3.821	beeswax	
+3.822	beehive	
+3.823	wasp	
+3.83	fly	'tˀelgoʔ
+3.831	sandfly (midge), gnat	
+3.832	mosquito	
+3.84	worm	'šāymr
+3.85	snake	
+3.91	firefly	
+3.92	butterfly	'čeʔlelon
+3.93	grasshopper	
+3.94	snail	
+3.95	frog	
+3.96	lizard	'hēpleʔ
+3.97	crocodile, alligator	
+3.98	turtle	
+4.11	body	'ḳawn
+4.12	skin, hide	'pˀat
+4.13	flesh	'yepˀr
+4.14	hair (head)	'gotˀ
+4.142	beard	'aʔš 'čˀeh
+4.144	body hair	'čˀeh
+4.145	pubic hair	'čˀeh
+4.146	dandruff	
+4.15	blood	'šaʔw
+4.151	vein, artery	'kˀāčˀ
+4.16	bone	'kˀoʔ
+4.162	rib	'par
+4.17	horn	'tˀāš
+4.18	tail	'tˀēr
+4.19	back	'ok
+4.191	spine	'oy
+4.2	head	'čˀeʔtr
+4.201	side of head, temple	'ḳˀeʔl
+4.202	skull	
+4.203	brain	'čˀeʔtr 'aškˀn
+4.204	face	'kˀē
+4.205	forehead	'kˀewkn ~ 'kewkˀn
+4.207	jaw	'korwen ~ 'ḳorwen
+4.208	cheek	'ḳˀāpˀnk
+4.209	chin	'komnkˀn
+4.21	eye	'otl; 'aykˀoy
+4.212	eyebrow	'kaš 'čˀeh
+4.213	eyelid	'kˀēpl
+4.214	eyelash	
+4.215	blink	
+4.22	ear	'šān
+4.221	earlobe	
+4.222	earwax	
+4.23	nose	'or
+4.231	nostril	'or 'aškˀn
+4.232	mucus (nasal)	'hetr; 'pax
+4.24	mouth	'kˀonkˀn
+4.241	beak	
+4.25	lip	'šam
+4.26	tongue	'tˀal
+4.27	tooth	'or ~ 'ōr
+4.271	gums	
+4.272	molartooth	
+4.28	neck	'erwerkˀn
+4.281	nape of neck	'čˀatnkˀn
+4.29	throat	'oʔ; 'eʔnkˀn
+4.3	shoulder	'ḳˀā; 'oḳˀe
+4.301	shoulderblade	
+4.302	collarbone	'holkˀn
+4.31	arm	'etˀnkˀn
+4.312	armpit	'šaʔnškˀn
+4.32	elbow	'tˀekš
+4.321	wrist	
+4.33	hand	'čˀen
+4.331	palm of hand	'čˀen-škˀn
+4.34	finger	'oreʔ
+4.342	thumb	
+4.344	fingernail	'ḳačwl
+4.345	claw	'ḳačwl
+4.35	leg	'no
+4.351	thigh	'tapnkˀn
+4.352	calf of leg	'yenkˀen
+4.36	knee	'tepˀn; 'tˀeml; 'tˀepˀn
+4.37	foot	'kˀaw
+4.371	ankle	'tapˀr
+4.372	heel	'tē
+4.374	footprint	'k-aʔwkˀn
+4.38	toe	
+4.392	wing	'čˀār
+4.393	feather	'awr
+4.4	chest	'awkˀen; 'očˀ
+4.41	breast (of woman)	'hēn
+4.412	nipple, teat	
+4.42	udder	'nax
+4.43	navel	'wetˀ
+4.44	heart	'šeh; 'koyenkˀn
+4.441	lung	'golt
+4.45	liver	'čˀew
+4.451	kidney	'tap
+4.452	spleen	
+4.46	stomach	'hatˀn
+4.461	intestines, guts	'lē
+4.462	waist	'āč; 'gewkl
+4.463	hip	'goh
+4.464	buttocks	'čˀō
+4.47	womb	'tˀeʔn; 'oškˀn
+4.49	testicle	'naʔm
+4.492	penis	'hen
+4.51	breathe, breath	'hoh-
+4.52	yawn, gape	
+4.521	hiccough	'palpšn
+4.53	cough	k 'aʔwn-
+4.54	sneeze	
+4.55	perspire	
+4.56	spit	'tēp
+4.57	vomit	'wayg̣n-; 'ʔwtˀon-; 'ḳoʔrn-
+4.58	bite	'šō-
+4.59	lick	'ōtˀ-
+4.591	dribble	
+4.61	sleep	'kˀōtˀ-; e'šeʔne-
+4.612	snore	'čˀayto 'hoh-
+4.62	dream	k 'yōm-
+4.63	wake up	e'paš-
+4.64	break wind	
+4.65	urinate	'tˀēpˀ-
+4.66	defecate	'šaʔ-
+4.67	have sexual intercourse	'yō-; 'ātˀ-
+4.68	shiver	
+4.69	bathe	k 'šāg-
+4.71	beget (of father)	'aml 'mātˀ-
+4.72	born (to be)	'ele-
+4.73	pregnant	'wašeynen
+4.732	conceive	
+4.74	live, living, life	'aykˀ-
+4.75	die, dead	'ham-
+4.751	drowned	
+4.76	kill	e'ma-
+4.77	corpse	'ham-n-k
+4.78	bury (the dead)	'-ah-; '-aʔkr-
+4.79	grave, tomb	
+4.81	strong, mighty, powerful	'pˀaro-
+4.82	weak	k 'mašenk; k 'gōlnk
+4.83	well, health	k 'hāpˀn; k 'hāpˀnk
+4.84	sick, sickness	'šoyo-; 'kaheyšo-
+4.841	fever	
+4.842	goiter	
+4.843	cold (catarrh)	
+4.85	wound, sore	'čām; 'wepˀlpˀn
+4.852	bruise	
+4.853	swelling	k 'šeneʔš-
+4.854	itch	'poltˀel-
+4.855	blister	
+4.856	boil (noun)	
+4.857	pus	
+4.858	scar	
+4.86	cure, heal	'ayo-
+4.87	physician	'waʔmenk
+4.88	medicine, drug	'ākč
+4.89	poison	
+4.91	tired, weary	'wōtš-
+4.912	rest	k-m 'šān-
+4.92	lazy	k 'maš-
+4.93	bald	
+4.94	lame	
+4.95	deaf	'gēpnk
+4.96	mute	
+4.97	blind	'aykˀn 'čˀom
+4.98	intoxicated	e'hornk
+4.99	naked, bare	
+5.11	eat	'hatˀ-ye-; 'pˀaʔen; 'wetˀ-;
+5.12	food	'hātˀn; 'gā
+5.121	cooked	e'aš
+5.122	raw	
+5.123	ripe	e'aš
+5.124	green, unripe	
+5.125	rotten	'posḳnk
+5.13	drink	e 'leʔ-; k m'leʔ-
+5.14	hunger	'pāl-
+5.141	famine	
+5.15	thirst	'ow-kˀen
+5.16	suck	
+5.18	chew	
+5.181	swallow	e'oʔ-
+5.19	choke	
+5.21	cook	'opˀen-; 'pˀāk-; 'wān
+5.22	boil (vb)	'ḳatḳte-
+5.23	roast, fry	m 'ḳˀax-
+5.24	bake	
+5.25	oven	'pekˀ
+5.26	pot, cooking vessel	'aškˀm; 'kˀātˀn-we
+5.27	kettle	'kˀonpˀnk
+5.28	pan	
+5.31	dish	
+5.32	plate	
+5.33	bowl	
+5.34	pitcher, jug	
+5.35	cup, drinking vessel	'kˀonkn
+5.36	saucer	
+5.37	spoon	'kˀoyoʔ
+5.38	knife	'hen; 'pˀayxn
+5.39	fork	'oreʔ
+5.391	tongs	
+5.41	meal (a)	
+5.42	breakfast	
+5.43	lunch	
+5.44	dinner	
+5.45	supper	
+5.46	peel	
+5.47	sieve, strain	
+5.48	scrape	
+5.49	stir, mix	'ayox-
+5.51	bread	'kˀātˀn
+5.53	dough	
+5.54	knead	
+5.55	meal, flour	'xelmn
+5.56	crush, grind	
+5.57	mill	
+5.58	mortar	'ečˀ-
+5.59	pestle	
+5.61	meat	'yepˀr
+5.63	sausage	
+5.64	soup, broth	'āčˀ
+5.65	vegetables	
+5.66	bean	
+5.7	potato	
+5.71	fruit	'ḳˀoʔn; 'ḳōn
+5.712	bunch	
+5.75	fig	
+5.76	grape	
+5.77	nut	
+5.78	olive	
+5.79	oil	
+5.791	grease, fat	'ām; 'ol
+5.81	salt	'hečn; 'čˀagaʔ
+5.82	pepper	
+5.821	chili pepper	
+5.84	honey	
+5.85	sugar	'ḳˀoʔn; 'ḳā
+5.86	milk (noun)	'nax
+5.87	milk (vb)	'nax-tˀn
+5.88	cheese	
+5.89	butter	
+5.9	beverage, drink	'āčˀ
+5.91	mead	
+5.92	wine	'lam
+5.93	beer	'lam
+5.94	fermented drink	
+5.97	egg	'seʔn; 'ōm
+5.971	egg yolk	'sayg̣on ~ šeg̣on
+6.11	put on (clothes)	
+6.12	clothing, clothes	'ḳāḳewtn
+6.13	tailor	
+6.21	cloth	
+6.22	wool	'pah
+6.23	linen, flax	--
+6.24	cotton	
+6.25	silk	--
+6.27	felt	--
+6.28	fur	'čˀeh; 'geper; šon
+6.29	leather	'kay; 'kortˀwen
+6.31	spin	'meḳˀ-
+6.32	spindle	'meḳˀn-we; 'tēnokn
+6.33	weave	'wetˀ
+6.34	loom	
+6.35	sew	'hol-; m 'wākˀekˀe-
+6.36	needle	'hol-n-we
+6.37	awl	
+6.38	thread	'kˀāčˀ
+6.39	dye	
+6.41	cloak	'kay
+6.411	poncho	'lečo
+6.42	woman's dress	'aʔmn
+6.43	coat	'sāras; 'šalg̣e
+6.44	shirt	
+6.45	collar	
+6.46	skirt	'pokˀrn; 'oʔhyeʔn
+6.461	grass-skirt	--
+6.48	trousers	'čˀoreʔn
+6.49	stocking, sock	
+6.51	shoe	'aʔyen
+6.52	boot	'čˀokr
+6.54	shoemaker, cobbler	
+6.55	hat, cap	'kˀō
+6.57	belt, girdle	'wātˀn
+6.58	glove	
+6.59	veil	
+6.61	pocket	
+6.62	button	'sepr
+6.63	pin	'kayčel; 'asr
+6.71	ornament, adornment	
+6.72	jewel	
+6.73	ring (for finger)	'or 'ḳoʔgen
+6.74	bracelet	'xentekn
+6.75	necklace	'g̣eroḳ ~ 'gerokn
+6.76	bead	'hemnkn
+6.77	earring	'kern
+6.78	headband, headdress	k 'eroʔnwe; k 'kˀohyenwe
+6.79	tattoo	'šaʔyn
+6.81	handkerchief, rag	
+6.82	towel	
+6.91	comb	'wašmkˀenwe
+6.92	brush	
+6.921	braid	
+6.93	razor	
+6.94	ointment	
+6.95	soap	
+6.96	mirror	'kˀē-yoy
+7.11	dwell, live	'ḳarḳ-; 'wey 'en-
+7.12	house	
+7.13	hut	
+7.131	garden-house	
+7.14	tent	'kāw; 'weʔnay
+7.15	yard, court	
+7.16	men's house	
+7.17	cookhouse	'kohtˀm
+7.18	meeting house	
+7.21	room	'wawkˀn; 'čˀarškˀn
+7.22	door, gate	'gōnkˀo
+7.221	doorpost, jamb	
+7.23	lock (noun)	
+7.231	latch, door-bolt	
+7.24	key	
+7.25	window	
+7.26	floor	'kerhkˀn
+7.27	wall	
+7.31	fireplace	
+7.32	stove	
+7.33	chimney	
+7.37	ladder	
+7.42	bed	'y-awkˀn
+7.421	pillow	
+7.422	blanket	e'pˀokˀrn
+7.43	chair	'peyoy
+7.44	table	
+7.45	lamp, torch	
+7.46	candle	
+7.47	shelf	
+7.48	trough	
+7.51	roof	'kāw 'awrkˀn
+7.52	thatch	
+7.53	ridgepole	
+7.54	rafter	
+7.55	beam	
+7.56	post, pole	'ho; 'omkˀo; 'tˀēxn
+7.57	board	
+7.58	arch	
+7.61	mason	
+7.62	brick	
+7.63	mortar	
+7.64	adobe	
+8.11	farmer	
+8.12	field (for cultivation)	
+8.13	garden	
+8.15	cultivate, till	
+8.16	fence	
+8.17	ditch	
+8.21	plow	
+8.212	furrow	
+8.22	dig	'-aʔy-; m 'sēwe-
+8.23	spade	
+8.24	shovel	
+8.25	hoe	
+8.26	fork	
+8.27	rake	
+8.31	sow	
+8.311	seed	
+8.32	mow, reap	
+8.33	sickle, scythe	
+8.34	thresh	
+8.35	threshing-floor	
+8.41	crop, harvest	
+8.42	grain (barley, oats etc)	
+8.43	wheat	
+8.44	barley	
+8.45	rye	
+8.46	oats	
+8.47	maize, corn	
+8.48	rice	
+8.51	grass	'kˀōr
+8.52	hay	
+8.53	plant (noun)	e'maxn
+8.531	plant (vb)	
+8.54	root	'tˀapr
+8.55	branch	
+8.56	leaf	
+8.57	flower	
+8.6	tree	'gorwr
+8.61	oak	
+8.62	beech	
+8.63	birch	
+8.64	pine	
+8.65	fir	
+8.66	acorn	
+8.67	vine	
+8.68	tobacco	'g̣olḳl; 'yawč; 'eʔmḳn
+8.69	smoke (tobacco)	e'leʔ-
+8.691	pipe	'anwe
+8.72	tree stump	
+8.73	tree trunk	'tˀe
+8.74	forked branch	
+8.75	bark	'pˀat
+8.76	sap	
+8.81	palm tree	
+8.82	coconut	
+8.83	citrus fruit	
+8.84	banana tree	
+8.85	banyan	
+8.91	sweet potato	
+8.912	yam	
+8.92	tapioca, manioc, cassava	
+8.93	gourd	
+8.931	pumpkin, squash	
+8.94	bamboo	
+8.941	sugar cane	
+8.96	fish poison (root)	
+8.97	nettle	
+8.98	mushroom	
+9.11	do, make	'mātˀ; 'me-
+9.12	work	'čerč-
+9.14	bend	'kˀaynen
+9.15	fold	o'gerkˀer
+9.16	tie, bind	'-oʔx-
+9.161	untie	
+9.18	chain	
+9.19	rope, cord	'nontegen; 'kawn; 'kˀāčˀ
+9.192	knot (noun)	'tapˀr
+9.21	strike (hit, beat)	'-ah-y-e-; '-ahe-
+9.211	pound with fist	
+9.22	cut	'čˀer-; 'wepˀlpˀ-; 'tˀa/eḳˀnk
+9.221	cut down	
+9.222	chop, hew	
+9.223	stab	'-āmx-; 'čˀaʔteš-
+9.23	knife	'hen
+9.24	scissors, shears	
+9.25	ax	'pelkel
+9.251	adze	
+9.26	break	'-āteʔ-; 'šaʔmčˀ-
+9.261	broken	'wātˀeʔnk
+9.27	split	
+9.28	tear	
+9.29	flay, skin	
+9.31	rub, wipe	'-āyho-; 'haloʔ-
+9.32	stretch	'pˀeʔ-
+9.33	pull	'-erh-
+9.34	spread out	e'wāyšm; '-aʔwrh-; 'peteh-
+9.341	hang up	
+9.342	press	
+9.343	squeeze, wring	
+9.35	pour	
+9.36	wash	'čˀaʔ-; 'čˀaʔ-mčˀ; e'čˀe-
+9.37	sweep	'wamnwnkt
+9.38	broom	'wamnektn-we
+9.422	tool	
+9.43	carpenter	
+9.44	build	
+9.46	bore	
+9.461	hollow out	
+9.48	saw	
+9.49	hammer	
+9.5	nail	'hol-n; 'hāmtn
+9.56	glue	
+9.6	smith, blacksmith	
+9.61	forge	
+9.62	anvil	
+9.63	cast (metals)	
+9.64	gold	
+9.65	silver	
+9.66	copper, bronze	
+9.67	iron	'tawk
+9.68	lead (noun)	
+9.69	tin, tinplate	
+9.71	potter	
+9.72	mold (clay etc)	
+9.73	clay	
+9.74	glass	
+9.75	weave, plait	
+9.76	basket	'pˀat; 'hōl-n
+9.77	mat	'eʔw
+9.771	rug	
+9.78	netbag	
+9.79	fan (noun)	
+9.791	fan (vb)	
+9.81	carve	
+9.82	sculptor	
+9.83	statue	
+9.84	chisel	
+9.88	paint (noun)	
+9.89	paint (vb)	'axn
+10.11	move	o'tat-; 'yāʔ-
+10.12	turn over	'sarwroʔ
+10.13	turn around	
+10.14	wind, wrap	
+10.15	roll	
+10.16	drop (vb)	
+10.17	twist	
+10.21	rise	
+10.22	raise, lift	
+10.23	fall	'w-at-; 'w-ahe-
+10.24	drip	'kētˀ-
+10.25	throw	'-ayt-; 'pˀaweʔ
+10.252	catch (ball)	
+10.26	shake	
+10.32	flow	
+10.33	sink	
+10.34	float	
+10.35	swim	'šāg-he-
+10.351	dive	
+10.352	splash	
+10.36	sail (vb)	
+10.37	fly (vb)	'heʔn-; 'wāleš-; hāše-
+10.38	blow	e'šāpˀ-
+10.41	creep, crawl	
+10.412	kneel	'tepˀn k e 'ōyeʔ-
+10.413	crouch	
+10.42	slide, slip	w'tˀoreʔ-; e'tˀolḳˀ-
+10.43	jump, leap	e'heʔn-
+10.431	kick	
+10.44	dance	'čočaʔw-; 'anx-
+10.45	walk	e'rē-
+10.451	limp	
+10.46	run	o'lakˀ-; 'āte-; o'akˀr-
+10.47	go	'čeʔn-; 'waʔn-
+10.471	go up	'-eknh-; aw'reʔn-
+10.472	climb	
+10.473	go down	
+10.474	go out	
+10.48	come	'ā-; 'hēwt-
+10.481	come back	'wāl-
+10.49	go away, depart	
+10.491	disappear	
+10.51	flee	e 'moʔy-; 'māyno-
+10.52	follow	'ōkoʔ-; 'kˀewkˀ-; '-ayno-
+10.53	pursue	
+10.55	reach, arrive	e'e-
+10.56	approach	
+10.57	enter	'ašeʔ-
+10.61	carry (bear)	
+10.612	carry-in-hand	
+10.613	carry-on-shoulder	
+10.614	carry-on-head	
+10.615	carry-underarm	
+10.62	bring	'eʔn-; 'pˀaščˀ-; 'āneʔ-
+10.63	send	-e 'weytˀ-
+10.64	lead (vb)	
+10.65	drive	
+10.66	ride	'ōks-
+10.67	push, shove	'wor-; '-amneʔ-; m 'wake-
+10.71	road	'nōm
+10.72	path	
+10.74	bridge	
+10.75	carriage, wagon, cart	
+10.76	wheel	'aḳlčn
+10.77	axle	
+10.78	yoke	
+10.81	ship	
+10.83	boat	'yeney
+10.831	canoe	
+10.832	outrigger	
+10.84	raft	
+10.85	oar	
+10.851	paddle (noun)	
+10.852	row (vb)	
+10.86	rudder	
+10.87	mast	
+10.88	sail (noun)	
+10.89	anchor	
+10.91	harbor, port	
+10.92	land (vb)	
+11.11	have	'el-
+11.12	own, possess	'y-ānker; 'wāwkˀo 'ya
+11.13	take	'še-
+11.14	seize, grasp	'-šaʔ-; '-šay-
+11.15	hold	'aʔy-
+11.16	get, obtain	
+11.17	keep, retain	
+11.18	thing	
+11.21	give	'e-
+11.22	give back	
+11.24	preserve, look after	'kešḳš-
+11.25	save, rescue	'waʔne-
+11.27	destroy	
+11.28	harm, injure, damage	k 'čˀe 'male-
+11.31	seek, look for	'kāre-; 'eʔen-
+11.32	find	e'ār-
+11.33	lose	'-ayt-
+11.34	release, let go	
+11.43	money	'taʔn
+11.44	coin	
+11.51	rich	'gōmkn
+11.52	poor	'tˀer/lo; 'šoʔn
+11.53	beggar	
+11.54	avaricious, stingy	
+11.61	lend	'mo-; 'tˀo-
+11.62	borrow	e'haw-; '-ār-
+11.63	owe	
+11.64	debt	
+11.65	pay (vb)	
+11.66	account, reckoning	
+11.69	tax, tribute	
+11.77	hire	
+11.78	wages	
+11.79	earn	
+11.81	buy	'ēʔ-
+11.82	sell	'e-; 'gaxe-
+11.83	trade, barter	
+11.84	merchant	'gaenk
+11.85	market (place)	
+11.86	store, shop	
+11.87	price	
+11.88	dear (costly, expensive)	'āml
+11.89	cheap	'āml 'čˀom
+11.91	share (distribute)	
+11.92	weigh	'poʔgney-
+12.1	after	'gen-; 'aw
+12.11	behind	'y-ayknkˀr; 'tˀē
+12.2	beside	'eʔne-
+12.3	down, below	'wank
+12.4	before	kˀ-ew; 'kˀew-čo
+12.41	front	'ew; 'y-orh
+12.5	inside, in	'omš; 'aš; 'ēmš
+12.6	outside	'waye-
+12.7	under	'y-āmš-kˀn
+12.8	up, above	'anwe-n; 'eʔwk
+12.11	place	'ay-kˀn
+12.12	put	'-eye-
+12.13	sit	'oyeʔ-; 'pe-
+12.14	lie down	e'šē-; e'hā-
+12.15	stand	'aʔyn-
+12.16	remain, stay	'w-erno-
+12.17	remains, left overs	
+12.21	collect, gather	'wākˀe-' 'omtˀš-
+12.212	pick up	'-ēʔ-
+12.213	pile up	
+12.22	join, unite	'wāte-
+12.23	separate	
+12.232	divide	
+12.24	open	gon m 'kˀe-; aš m 'kˀe-
+12.25	shut, close	'gon 'ker-
+12.26	cover	
+12.27	hide, conceal	e'yoʔ-
+12.31	high	'čˀay-; 'ter-
+12.32	low	'čˀam-
+12.33	top	
+12.34	bottom	'ēmškˀn
+12.35	end	
+12.352	pointed	
+12.353	edge	'korkˀn; 'torkˀn
+12.36	side	'kˀoškˀn; 'enkˀer
+12.37	middle, center	'čēwškˀn
+12.41	right (side)	'kokˀr
+12.42	left (side)	o'čānekˀr
+12.43	near (adv)	'ekˀl; 'ene-kˀ; '-or ~ 'orh
+12.44	far (adv)	e'wn
+12.45	east	'penk/xok
+12.46	west	'onokˀ
+12.47	north	'pˀēn-; 'kenokˀr
+12.48	south	a'oney- (< [a'oni-])
+12.53	grow	
+12.54	measure	
+12.541	span, fathom	
+12.55	large, big	'čˀay-
+12.56	small, little	'očˀ-
+12.57	long	'ter-
+12.58	tall	'ter-
+12.59	short	'čˀam-; 'lapč
+12.61	wide, broad	e'daw-
+12.62	narrow	e'hatr-
+12.63	thick (in dimension)	e'daw-
+12.65	thin (in dimension)	e'hatr-; 'kˀelmn
+12.67	deep	'kaštr- ~ 'kaštˀr
+12.68	shallow	
+12.71	flat	
+12.73	straight	'kokˀr-šo
+12.74	crooked	
+12.75	hook	
+12.76	corner	
+12.77	cross	
+12.78	square	
+12.81	round	'kōrtˀer-
+12.82	circle	
+12.83	sphere, ball	
+12.84	line	
+12.85	hole	'katpˀenk
+12.92	like, similar	'wākˀe-; 'wenekn; 'wākn
+12.93	change	'haneymeln-
+13.0	zero, nothing	'kˀom 'ket
+13.1	one	'čočeʔ
+13.2	two	'hawke
+13.3	three	'ḳaʔš
+13.4	four	'ḳāge
+13.5	five	ḳ 'tˀen
+13.6	six	'weʔna 'ḳaʔš
+13.7	seven	'ḳoʔk
+13.8	eight	'poš
+13.9	nine	'xaʔma ḳ'tˀen
+13.10	ten	o'ḳāken
+13.101	eleven	o'ḳāken 'čočeʔ k-awr
+13.102	twelve	o'ḳāken 'hawke k-awr
+13.103	fifteen	o'ḳāken ḳ'tˀen k-awr
+13.104	twenty	'waʔmon o'ḳāken
+13.105	hundred	['pātaḳ]
+13.106	thousand	'warnḳˀ
+13.107	count	'-āym-
+13.14	every, all	'welm
+13.15	much, many	'čˀayto; 'alt; e'sew-
+13.16	more	'y-aʔwr
+13.17	little (quantity), few	'yokˀnk; 'ončˀo
+13.18	enough	'emšo
+13.181	some	
+13.19	multitude, crowd	'čˀōnk; 'kenwen
+13.21	full	'šār-
+13.22	empty	k 'ār-
+13.23	part, piece	
+13.24	half	'bātˀn
+13.33	alone, only	'waw
+13.34	first	'ew-kˀo; 'ew
+13.35	last	
+13.36	second	'gen-kˀo
+13.37	pair	
+13.38	two times	
+13.42	third	
+13.44	three times	
+14.11	time	
+14.12	age	
+14.13	new	'maʔkˀo
+14.14	young	'weʔn-
+14.15	old	'kˀarwn
+14.16	early	'aʔtyon
+14.17	late	'gōlekˀ
+14.18	now	'maʔ
+14.19	immediately	'kˀokr-šo
+14.21	swift, fast, quick	k 'sor-; k 'ho 'pān-
+14.22	slow	'gēn-kˀo
+14.23	hasten, hurry	
+14.24	retard, delay	
+14.25	begin, beginning	
+14.252	last, endure	
+14.26	end (temporal)	'kˀōme-
+14.27	finish	'aweʔ-
+14.28	cease, stop	'ḳarḳ-
+14.29	ready	
+14.31	always	'ketš-kˀo; 'kaʔle-kˀo
+14.32	often	
+14.33	sometimes	
+14.331	soon	'maʔ-šo; 'sorno
+14.332	long-time (for a)	'ašo-kˀo
+14.34	never	
+14.35	again	'āwe
+14.41	day	'ḳēngenkn
+14.42	night	'tˀēnš
+14.43	dawn	'oreʔn; 'oreʔn 'aškˀn
+14.44	morning	'aʔtyon
+14.45	noon, midday	'katek
+14.451	afternoon	'gōlekˀn
+14.46	evening	'tˀēnš
+14.47	today	'maʔ
+14.48	tomorrow	'naš
+14.481	day-after-tomorrow	e'wn 'naš
+14.49	yesterday	'naš
+14.491	day-before-yesterday	e'wn 'naš
+14.51	hour	
+14.53	clock, timepiece	
+14.61	week	
+14.62	Sunday	
+14.63	Monday	
+14.64	Tuesday	
+14.65	Wednesday	
+14.66	Thursday	
+14.67	Friday	
+14.68	Saturday	
+14.71	month	'ḳēngenkon
+14.73	year	'sōr
+14.74	winter	'šēyay(-k'n)
+14.75	spring	'yesm(-kˀen)
+14.76	summer	'sōr(-kˀen)
+14.77	autumn	'kepenk(-kˀen)
+14.78	season	
+15.21	smell (vb intrans)	'šawn
+15.212	sniff	'hēl-
+15.22	smell (vb trans)	'hēl-
+15.25	fragrant, good smelling	k 'hōwš
+15.26	stinking, bad smelling	'poh-
+15.31	taste	
+15.35	sweet	'ḳˀoʔn
+15.36	salty	
+15.37	bitter	'tˀārx-
+15.38	acid, sour	
+15.39	brackish	
+15.41	hear	'yoy-
+15.42	listen	'yoy-
+15.44	sound, noise	'-aʔm 'aʔy-; 'yāʔ-
+15.45	loud	
+15.46	quiet, silence	'āwar-; 'dep-; 'kāw 'čˀom
+15.51	see	e'kˀē-; 'e-
+15.52	look, look at	'aykˀe-; 'āwčˀe-
+15.55	show	m'kˀē-
+15.56	shine	'paḳe-
+15.57	bright	'paḳe-n-
+15.61	color	
+15.62	light (in color)	
+15.63	dark (in color)	
+15.64	white	'or-
+15.65	black	'pˀol-
+15.66	red	'ḳˀāpˀ-; 'ḳˀāpˀ-n-k
+15.67	blue	'ḳaltˀ-
+15.68	green	'xeštˀltˀe-
+15.69	yellow	'wāytˀ-
+15.71	touch	'-awr-
+15.712	pinch	
+15.72	feel	
+15.74	hard	k'šor
+15.75	soft	
+15.76	rough	
+15.77	smooth	'tolḳˀ-
+15.78	sharp	'or 'ter-
+15.79	blunt, dull	'or 'ōltˀel-
+15.81	heavy	'poʔgney-
+15.82	light (in weight)	'kašpˀš-; 'ho 'pān-
+15.83	wet, damp	km 'čahe-; 'eʔne-
+15.84	dry	'ār-
+15.85	hot	'teʔlon-
+15.851	warm	'pōš
+15.86	cold	'poʔtar-; 'hoš-
+15.87	clean	'paḳe-n; m 'g̣ole-
+15.88	dirty, soiled	'tˀārtˀš-
+15.89	wrinkled	
+16.11	soul, spirit	
+16.15	surprised, astonished	'gōle-kˀt
+16.18	good fortune, luck	
+16.19	misfortune, bad luck	'gayhel; 'gōle 'tˀero-
+16.23	joyful, glad, happy	
+16.25	laugh	ey'wē; 'ēyo-
+16.251	smile	
+16.26	play	'nāyen-; 'xočˀr
+16.27	love	'ō-; k'šew-; k'yo-
+16.29	kiss	
+16.3	embrace	
+16.31	pain	'pˀere-; 'kˀoʔe-
+16.32	grief, sorrow, sadness	'pošm-
+16.33	anxiety, worry	
+16.34	regret, be sorry	
+16.35	pity	
+16.37	cry, weep	'eʔe-
+16.38	tear (noun)	
+16.39	groan	
+16.41	hate	
+16.42	anger	'yatˀe-; 'eʔenk; 'gānkn-
+16.44	envy, jealousy	
+16.45	shame (noun)	
+16.48	proud	
+16.51	dare	
+16.52	brave	'alwenk
+16.53	fear, fright	e'yon-
+16.54	danger	
+16.62	desire, want	'-eʔnex-
+16.622	choose	'aymex-
+16.63	hope	'aye-
+16.65	faithful	'šoʔgl-go
+16.66	true	'šoʔgl-
+16.67	lie, tell lies	'tˀār-
+16.68	deceit	'wawxmnk
+16.69	forgive	
+16.71	good	k 'omkˀenk; 'kˀet-; 'tol 'kˀet-
+16.72	bad	'gānknk; 'eʔnk; 'tˀer-; 'tˀero-
+16.73	right, correct	'kˀet-
+16.74	wrong	'tˀer-
+16.76	fault	
+16.77	mistake, error	
+16.78	blame	'yon-
+16.79	praise	
+16.81	beautiful	'kˀet-; 'wālaḳˀ-; šolḳˀ/ kˀ-
+16.82	ugly	'tˀero-
+16.83	greedy	
+16.84	clever	
+17.11	mind	
+17.13	think (= reflect)	'hō-; 'pošm-
+17.14	think (= be of the opinion)	
+17.15	believe	'weyk-kˀo 'me-
+17.16	understand	
+17.17	know	'ōmkˀ-
+17.171	guess	
+17.172	imitate	
+17.18	seem	
+17.19	idea, notion	
+17.21	wise	k 'sōl-
+17.22	foolish, stupid	k 'yom-
+17.23	insane, crazy	'čōpe-; 'aywe-
+17.24	learn	'ōmkˀ-
+17.242	study	
+17.25	teach	m 'ōmkˀ-
+17.26	pupil	
+17.27	teacher	
+17.28	school	
+17.31	remember	'hōmn-
+17.32	forget	'ašmr-
+17.34	clear, plain	
+17.35	obscure	
+17.36	secret	'ayoš-
+17.37	sure, certain	
+17.38	explain	
+17.41	intention, purpose	
+17.42	cause	
+17.43	doubt	or
+17.44	suspect	
+17.441	betray	'-aytxe-
+17.45	need, necessity	
+17.46	easy	
+17.47	difficult	
+17.48	try, attempt	
+17.49	way, manner	
+17.51	and	'āwe
+17.52	because	'gelčo
+17.53	if	or
+17.54	or	
+17.55	yes, affirmative	'ōʔy
+17.56	no, negative	'kˀom
+17.61	how?	'kenkˀ
+17.62	how many?	'kˀen 'ḳayn-k
+17.63	how much?	
+17.64	what?	'ket
+17.65	when?	'kenoš < ['kenus]
+17.66	where?	'ken-ay; 'ken-ay-kˀr; 'ken-ay-kˀo
+17.67	which?	'ken; 'ken-kˀo
+17.68	who?	'hem
+17.69	why?	'ket 'kawr; 'ket kayn; 'ket 'kān
+18.11	voice	
+18.12	sing	k 'wor-; k 'maʔy-
+18.13	shout, cry out	'kˀōš-
+18.15	whisper	'ayoš-
+18.16	mumble	
+18.17	whistle	k 'šam 'aʔy-
+18.18	shriek, screech	
+18.19	howl	
+18.21	speak, talk	'aʔy-; 'hoywe-
+18.211	stutter, stammer	
+18.22	say	'ey-; 'aʔla-
+18.221	tell story	'newr 'ey-
+18.222	speech (make a)	'ayḳ- > 'ayḳ-n-k
+18.23	silent (be)	'āwar-
+18.24	language	'wen
+18.26	word	'wen
+18.28	name	'yā
+18.31	ask (question, inquire)	'tˀe; 'hamkney-
+18.32	answer	
+18.33	admit, confess	
+18.34	deny	
+18.35	ask, request	'ār-; e'haw-; 'šāʔyn
+18.36	promise	
+18.37	refuse	
+18.38	forbid	e'wawr-
+18.39	rebuke, scold	
+18.41	call (=summon)	'-ay-
+18.42	call (=name)	
+18.43	announce	
+18.44	threaten	
+18.45	boast	
+18.51	write	'ax-
+18.52	read	'ax-n m 'aʔy-
+18.56	paper	
+18.57	pen	
+18.61	book	
+18.67	poet	
+18.71	flute	
+18.72	drum	'apˀe
+18.73	horn, trumpet	
+18.74	rattle	
+19.11	country	
+19.12	one's native country	'yero
+19.15	city, town	
+19.16	village	['wari]
+19.17	boundary	
+19.21	people (populace)	'genkˀnk
+19.23	tribe, clan	
+19.24	chief, chieftain	'ew 'eynk; 'ōʔypˀnk
+19.25	staff, walking stick	
+19.31	rule, govern	
+19.32	king, ruler	'ket 'eʔmenk
+19.33	queen	
+19.36	noble, nobleman	
+19.37	citizen, subject	
+19.41	master	'āmkˀnk; 'ḳoʔrx
+19.42	slave	'awn
+19.43	servant	'gengen
+19.44	freeman	
+19.45	command, order	'āmkˀ-
+19.46	obey	
+19.47	let, permit	
+19.51	friend, companion	'y-eno; 'šolkˀ-n
+19.52	enemy	
+19.54	neighbor	
+19.55	stranger	'ḳāde
+19.56	guest	
+19.57	host	
+19.58	help, aid	'eʔnege-
+19.59	hinder, prevent	
+19.61	custom	
+19.62	strife, quarrel	
+19.63	conspiracy, plot	
+19.65	meet	'wāyngen
+19.72	prostitute	
+20.11	fight (vb)	y 'wor-
+20.13	war, battle	
+20.14	peace	
+20.15	army	
+20.17	soldier	
+20.21	weapons, arms	
+20.22	club	
+20.222	battle-ax	
+20.23	sling	'šepˀel
+20.24	bow	
+20.25	arrow	'šot
+20.26	spear	
+20.27	sword	
+20.28	gun, cannon	
+20.31	armor (defensive)	
+20.33	helmet	
+20.34	shield	
+20.35	fortress	
+20.36	tower	
+20.41	victory	
+20.42	defeat	
+20.43	attack	
+20.44	defend	
+20.45	retreat	
+20.46	surrender	
+20.47	captive, prisoner	
+20.471	guard, sentinel	
+20.48	booty, spoils	
+20.49	ambush	
+20.51	fisherman	
+20.52	fishhook	
+20.53	fishing line	
+20.54	fishnet	
+20.55	fish trap	
+20.56	bait	
+20.61	hunt	'āwkˀ-; 'āwkˀ-en-k
+20.62	shoot	
+20.63	miss (target)	
+20.64	trap (noun)	
+20.65	trap (vb)	
+21.11	law	
+21.15	court	
+21.16	judge (vb)	
+21.17	judgment	
+21.18	judge (noun)	
+21.21	plaintiff	
+21.22	defendant	'mak-
+21.23	witness	
+21.24	swear	
+21.25	oath	
+21.31	accuse	
+21.32	condemn	
+21.33	convict (vb)	
+21.34	acquit	
+21.35	guilty	
+21.36	innocent	
+21.37	penalty, punishment	
+21.38	fine	
+21.39	prison, jail	
+21.42	murder	
+21.43	adultery	
+21.44	rape	
+21.46	arson	
+21.47	perjury	
+21.51	steal	
+21.52	thief	'māl-en-k
+22.11	religion	
+22.12	God	
+22.13	temple, church	
+22.14	altar	
+22.15	sacrifice, offering	
+22.16	worship	
+22.17	pray	
+22.18	priest	
+22.19	holy, sacred	e'gayo-
+22.22	preach	
+22.23	bless	
+22.24	curse	'mewn-
+22.26	fast (vb)	
+22.31	heaven	
+22.32	hell	
+22.35	demon (evil spirit)	
+22.37	idol	
+22.42	magic, witchcraft, sorcery	
+22.43	sorcerer, witch	'šoykn
+22.44	fairy, elf	
+22.45	ghost, phantom	'mayp
+22.47	omen, portent	
