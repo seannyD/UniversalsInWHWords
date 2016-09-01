@@ -52,7 +52,7 @@ getStats3 = function(filenames,base='',label=filenames[1],lessThan=F){
   if(length(filenameLabel)>1){
     x = unlist(strsplit(filenameLabel, "_"))
     tx = table(x)
-    tx = tx[tx>3]
+    tx = tx[tx==max(tx)]
     filenameLabel = paste(paste(unique(x[x %in% unique(names(tx))]),collapse='_'),"*",sep='')
   }
   
@@ -130,14 +130,18 @@ t4 = makeTable(body, "Results for body words",baseF,172)
 pronoun = rbind(  
  # addLine("Pronouns"),
   getStats3("AllLangs_allSegments_Pronouns.csv",baseF , "All segments"),
-  getStats3("AllLangs_firstSegments_Pronouns.csv",baseF , "First segments")#,
-#  getStats3("AllLangs_allSegments_Pronouns_byFamilyAndArea.csv", baseF, "All segments, permute within families and areas"),
-#  getStats3("AllLangs_firstSegments_Pronouns_byFamilyAndArea.csv", baseF, "First segments, permute within families and areas")
+  getStats3("AllLangs_firstSegments_Pronouns.csv",baseF , "First segments"),
+  getStats3("AllLangs_allSegments_PronounDomain_byFamilyAndArea.csv", baseF, "All segments, permute within families and areas"),
+  getStats3("AllLangs_allSegments_PronounDomain_byFamilyAndArea.csv", baseF, "First segments, permute within families and areas")
 )
 t5 = makeTable(pronoun, "Results for pronouns",baseF,172)
 
 
-baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomConcepts/"
+baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomConcepts/RandomConceptPermutationTest/"
+files = list.files(baseF)
+files =files[grepl("\\.csv",files)]
+
+
 random2random = rbind(
   getStats3(files[grepl("Permutation_allSegments_",files)],baseF,"All segments"),
   getStats3(files[grepl("Permutation_firstSegments_",files)],baseF,"First segments"),
@@ -145,7 +149,9 @@ random2random = rbind(
   getStats3(files[grepl("Permutation_Domain_byFamily_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
   getStats3(files[grepl("Permutation_Domain_byFamily_firstSegments_",files)],baseF,"Same domain, permute within family, first segments"),
   getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within area, first segments")
+  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within area, first segments"),
+  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
+  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within area, first segments")  
 )
 
 t6 = makeTable(random2random, "Similarity of randomly selected concepts within a language, compared to between languages.", baseF)
@@ -171,14 +177,20 @@ wh2random = rbind(
   getStats3("Comparison_Initial_WH_Random_All_allSegments.csv",baseF,"Initial languages only, all segments"),
   getStats3("Comparison_Initial_WH_Random_All_firstSegments.csv",baseF,"Initial languages only, first segments"),
   getStats3("Comparison_NonInitial_WH_Random_All_allSegments.csv",baseF,"Non-Initial languages only, all segments"),
-  getStats3("Comparison_NonInitial_WH_Random_All_firstSegments.csv",baseF,"NonInitial languages only, first segments")
+  getStats3("Comparison_NonInitial_WH_Random_All_firstSegments.csv",baseF,"Non-Initial languages only, first segments")
 )
 
-tb1 = makeTable(wh2random, "Comparing the mean entropy of wh words to a randomly selected set of words", baseF)
+tb1 = makeTable(wh2random, "Comparing the mean entropy of wh words to a randomly selected set of words.\\\\", baseF)
+
+outFile2 = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables2.tex"
+cat(tb1, file=outFile2)
+
+#########
 
 baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomConcepts/RandomConceptPermutationTest/"
 files = list.files(baseF)
 files =files[grepl("\\.csv",files)]
+
 
 
 ######################################################
@@ -187,6 +199,61 @@ baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomIndependentSamp
 files = list.files(baseF)
 files =files[grepl("\\.csv",files)]
 
+RISx = rbind(
+  
+  getStats3(files[grepl("RIS_WH_Unanalyzable_Family_allSegments",files)],baseF,"Unanalyzable wh words, permuting within families, all segments", T),
+  getStats3(files[grepl("RIS_WH_Unanalyzable_Family_firstSegments",files)],baseF,"Unanalyzable wh words, permuting within families, first segments", T),  
+  
+  getStats3(files[grepl("RIS_WH_Unanalyzable_Area_allSegments",files)],baseF,"Unanalyzable wh words, permuting within areas, all segments", T),
+  getStats3(files[grepl("RIS_WH_Unanalyzable_Area_firstSegments",files)],baseF,"Unanalyzable wh words, permuting within areas, first segments", T),
+  
+  getStats3(files[grepl("RIS_BodyConcepts_allSegments_Family",files)],baseF,"Body concepts, permuting within family, all segments", T),
+  getStats3(files[grepl("RIS_BodyConcepts_firstSegments_Family",files)],baseF,"Body concepts, permuting within family, first segments", T),
+  getStats3(files[grepl("RIS_BodyConcepts_allSegments_Area",files)],baseF,"Body concepts, permuting within area, all segments", T),
+  getStats3(files[grepl("RIS_BodyConcepts_firstSegments_Area",files)],baseF,"Body concepts, permuting within area, first segments", T),
+  
+  getStats3(files[grepl("RIS_BasicActionsConcepts_allSegments_Family",files)],baseF,"Action concepts, permuting within family, all segments", T),
+  getStats3(files[grepl("RIS_BasicActionsConcepts_firstSegments_Family",files)],baseF,"Action concepts, permuting within family, first segments", T),
+  getStats3(files[grepl("RIS_BasicActionsConcepts_allSegments_Area",files)],baseF,"Action concepts, permuting within area, all segments", T),
+  getStats3(files[grepl("RIS_BasicActionsConcepts_firstSegments_Area",files)],baseF,"Action concepts, permuting within area, first segments", T),
+  
+  getStats3(files[grepl("RIS_PronounConcepts_allSegments_Family",files)],baseF,"Pronouns, permuting within family, all segments", T),
+  getStats3(files[grepl("RIS_PronounConcepts_firstSegments_Family",files)],baseF,"Pronouns concepts, permuting within family, first segments", T),
+  getStats3(files[grepl("RIS_PronounConcepts_allSegments_Area",files)],baseF,"Pronouns concepts, permuting within area, all segments", T),
+  getStats3(files[grepl("RIS_PronounConcepts_firstSegments_Area",files)],baseF,"Pronouns concepts, permuting within area, first segments", T),
+  
+  
+  getStats3(files[grepl("RIS_RandomConcepts_allSegments_",files)],baseF,"Random concepts, all segments", T),
+  getStats3(files[grepl("RIS_RandomConcepts_firstSegments_",files)],baseF,"Random concepts, first segments", T),
+ 
+   getStats3(files[grepl("RIS_RandomConcepts_Domain_allSegments",files)],baseF,"Random concepts within the same domain, all segments", T),
+  getStats3(files[grepl("RIS_RandomConcepts_Domain_firstSegments",files)],baseF,"Random concepts within the same domain, first segments", T)
+  
 
-getStats3(files[grepl("RIS_RandomConcepts_allSegments_",files)],baseF,"All segments")
-getStats3(files[grepl("RIS_RandomConcepts_firstSegments_",files)],baseF,"First segments")
+)
+
+tb2 = makeTable(RISx, "Random independent samples tests, comparing initial interrogative languages and non-initial interrogative languages.", baseF)
+
+
+outFile3 = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables3.tex"
+cat(tb2, file=outFile3)
+
+#######
+baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomIndependentSamples/"
+files = list.files(baseF)
+files =files[grepl("\\.csv",files)]
+
+RISx2 = rbind(
+  getStats3(files[grepl("ConsonantsInitial_3_allSegments_RandomIndependentSample",files)],baseF,"Wh words, all consonants", T),
+  getStats3(files[grepl("ConsonantsInitial_3_firstSegments_RandomIndependentSample",files)],baseF,"Wh words, first consonant", T),
+  getStats3(files[grepl("VowelsInitial_3_allSegments_RandomIndependentSample",files)],baseF,"Wh words, all vowels", T),
+  getStats3(files[grepl("VowelsInitial_3_firstSegments_RandomIndependentSample",files)],baseF,"Wh words, first vowel", T)
+)
+
+
+tb3 = makeTable(RISx2, "Random independent samples tests, comparing wh words by consonants or vowels separately.",baseF)
+
+
+outFile4 = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables4.tex"
+cat(tb3, file=outFile4)
+

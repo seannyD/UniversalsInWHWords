@@ -83,10 +83,20 @@ runPermutation(d.BodyConcepts.m,"AllLangs_firstSegments_BodyDomain_byFamilyAndAr
 runPermutation(d.BasicActionsConcepts.m,"AllLangs_allSegments_BasicActionsDomain_byFamilyAndArea",F,stratified=T,paste(families.d.wh,areas.d.wh))
 runPermutation(d.BasicActionsConcepts.m,"AllLangs_firstSegments_BasicActionsDomain_byFamilyAndArea",T,stratified=T,paste(families.d.wh,areas.d.wh))
 
+set.seed(13897439)
+runPermutation(d.PronounConcepts.m,"AllLangs_allSegments_PronounDomain_byFamilyAndArea",F,stratified=T,
+               paste(families.d.wh[names2glotto[colnames(d.PronounConcepts.m)]],
+                     areas.d.wh[names2glotto[colnames(d.PronounConcepts.m)]]))
+runPermutation(d.PronounConcepts.m,"AllLangs_firstSegments_PronounDomain_byFamilyAndArea",T,stratified=T,
+               paste(families.d.wh[names2glotto[colnames(d.PronounConcepts.m)]],
+                     areas.d.wh[names2glotto[colnames(d.PronounConcepts.m)]]))
+
+###########
+
+
+
 runPermutation(d.PronounConcepts.m,"AllLangs_allSegments_PronounDomain_byFamilyAndArea",F,stratified=T,paste(families.d.wh,areas.d.wh))
 runPermutation(d.PronounConcepts.m,"AllLangs_firstSegments_PronounDomain_byFamilyAndArea",T,stratified=T,paste(families.d.wh,areas.d.wh))
-
-
 set.seed(478445)
 runComparisonPermutation(d.wh.m,d.BodyConcepts.m,"Comparison_WH_BodyDomain_allSegments",F)
 runComparisonPermutation(d.wh.m,d.BodyConcepts.m,"Comparison_WH_BodyDomain_firstSegments",T)
@@ -182,6 +192,22 @@ runComparison.wh.random.permutation(d.unanalyzable.wh.m,d.random.unanalyzable.m,
 # run comparison with random concepts within domains 
 runComparison.wh.domain.permutation(d.unanalyzable.wh.m, d.random.unanalyzable.m, "RandomConcepts/Comparison_WH_Domain_unanalyzable_allSegments",F)
 runComparison.wh.domain.permutation(d.unanalyzable.wh.m, d.random.unanalyzable.m, "RandomConcepts/Comparison_WH_Domain_unanalyzable_firstSegments",T)
+
+
+# Run within specific domains (pre-selected) - body parts, basic actions
+
+resultsFile = "../Results/SimplifiedPhonology/ResultsSummary_UnanalyzableWords_SpecificDomains.txt"
+#Removes old info
+cat("",file=resultsFile) # clear results file
+
+set.seed(3278)
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.BodyConcepts.m,"Comparison_WH_BodyDomain_unanalyzable_allSegments",F)
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.BodyConcepts.m,"Comparison_WH_BodyDomain_unanalyzable_firstSegments",T)
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.BasicActionConcepts.m,"Comparison_WH_BasicActionsDomain_unanalyzable_allSegments",F)
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.BasicActionConcepts.m,"Comparison_WH_BasicActionsDomain_unanalyzable_firstSegments",T)
+
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.PronounConcepts.m,"Comparison_WH_PronounDomain_unanalyzable_allSegments",F)
+runComparisonPermutation(d.unanalyzable.wh.m,d.unanalyzable.PronounConcepts.m,"Comparison_WH_PronounDomain_unanalyzable_firstSegments",T)
 
 
 # Run to here

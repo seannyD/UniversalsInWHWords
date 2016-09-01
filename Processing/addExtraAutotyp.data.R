@@ -13,7 +13,6 @@ l.details$area = areas[l.details$glotto]
 
 
 area.fixes = matrix(c(
-"nucl1241","Southeast Asia",
 "cent2050","African Savannah",
 "maha1287","Indic",
 "nucl1241","Southeast Asia",  # Li of Baoding
@@ -74,25 +73,29 @@ l.details$langFam = g[l.details$glotto,]$fam
 l.details$latitude = g[l.details$glotto,]$latitude
 l.details$longitude = g[l.details$glotto,]$longitude
 
-l.details[!is.na(l.details$glotto) & l.details$glotto=='nucl1241',c("longitude","latitude")] = c(18.64,109.78)
+#l.details[!is.na(l.details$glotto) & l.details$glotto=='nucl1241',c("longitude","latitude")] = c(115.33,38.87)
 
-geo.fix = matrix(c(
+
+geo.fix =matrix(c(
 # glotto   #lat  #long
+'nucl1241',38.87, 115.33,
 "olda1245",42.14,37.11,
 "limo1249",18.13, -77.26,
 "noot1238",47.4623893,-118.3132951,
-"gela1265",26.57, 107.24,
+"gela1265",22.56, 104.70,
 "roma1329",49.6558485,18.0328078,
-"nucl1655",18.64,109.78,
-"kami1255",-6.71, 37.98,
+"nucl1655",-22.11, -58.91,
+"kami1255",25.89, 109.22,
 "tokh1242",40.333402, 87.248417,
 "tokh1243",39.5708233,71.3739565,
 "oldh1241",51.0851933,5.9698196,
 "west2376",48.090278, 17.97
 ),nrow=3)
 
+
 for(i in 1:ncol(geo.fix)){
-	l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],c("latitude","longitude")] = geo.fix[2:3,i]
+	l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$latitude = geo.fix[2,i]
+	l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$longitude = geo.fix[3,i]
 }
 
 

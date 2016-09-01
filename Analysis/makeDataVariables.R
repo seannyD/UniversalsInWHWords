@@ -242,10 +242,37 @@ d.random.unanalyzable.m = data.frame.to.matrix(d.random.unanalyzable)
 d.unanalyzable.wh = alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$analyzability =="unanalyzable" & alldata$meaning.id.fixed %in% whwords,]
 d.unanalyzable.wh.m = data.frame.to.matrix(d.unanalyzable.wh)
 
+d.unanalyzable.BodyConcepts = alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$analyzability =="unanalyzable" & alldata$meaning.id.fixed %in% body.concepts,]
+d.unanalyzable.BodyConcepts.m = data.frame.to.matrix(d.unanalyzable.BodyConcepts)
+
+d.unanalyzable.BasicActionConcepts = alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$analyzability =="unanalyzable" & alldata$meaning.id.fixed %in% basic.actions.concepts,]
+d.unanalyzable.BasicActionConcepts.m = data.frame.to.matrix(d.unanalyzable.BasicActionConcepts)
+
+d.unanalyzable.PronounConcepts = alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$analyzability =="unanalyzable" & alldata$meaning.id.fixed %in% pronouns,]
+d.unanalyzable.PronounConcepts.m = data.frame.to.matrix(d.unanalyzable.PronounConcepts)
+
+# proportion of analyzable words
+sum(is.na(d.PronounConcepts.m)) / prod(dim(d.PronounConcepts.m))
+sum(is.na(d.unanalyzable.PronounConcepts.m)) / prod(dim(d.unanalyzable.PronounConcepts.m))
+
+sum(is.na(d.unanalyzable.wh.m)) / prod(dim(d.unanalyzable.wh.m))
+
+
+pronx = table(alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$meaning.id.fixed %in% pronouns,]$analyzability == 'unanalyzable')
+pronx / sum(pronx)
+
+
+whx = table(alldata[alldata$Source=='WOLD' & !is.na(alldata$analyzability) & alldata$meaning.id.fixed %in% whwords,]$analyzability == 'unanalyzable')
+whx / sum(whx)
+
 # take out languages with less than 4 items 
 d.unanalyzable.wh.m = d.unanalyzable.wh.m[,apply(d.unanalyzable.wh.m,2,function(X){sum(!is.na(X))>=4})]
-
+# keep only languages in d.unanalyzable.wh.m
 d.random.unanalyzable.m = d.random.unanalyzable.m[,colnames(d.random.unanalyzable.m) %in% colnames(d.unanalyzable.wh.m)]
+d.unanalyzable.BodyConcepts.m= d.unanalyzable.BodyConcepts.m[,colnames(d.unanalyzable.BodyConcepts.m) %in% colnames(d.unanalyzable.wh.m)]
+d.unanalyzable.BasicActionConcepts.m = d.unanalyzable.BasicActionConcepts.m[,colnames(d.unanalyzable.BasicActionConcepts.m) %in% colnames(d.unanalyzable.wh.m)]
+d.unanalyzable.PronounConcepts.m = d.unanalyzable.PronounConcepts.m[,colnames(d.unanalyzable.PronounConcepts.m) %in% colnames(d.unanalyzable.wh.m)]
+
 
 d.unanalyzable.wh.glotto = names2glotto[colnames(d.unanalyzable.wh.m)]
 

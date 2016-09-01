@@ -402,7 +402,7 @@ runComparison.RandomIndependentSample.RandomConcepts = function(wordList1,wordLi
 
 runComparison.RandomIndependentSample.RandomConcepts_Domain = function(wordList1,wordList2,strat1,strat2,permName,firstSegment=F){
 
-concepts.per.domain = tapply(alldata$meaning.id.fixed,alldata$domain,function(X){length(unique(X))})
+  concepts.per.domain = tapply(alldata$meaning.id.fixed,alldata$domain,function(X){length(unique(X))})
   domains.with.enough.concepts = names(concepts.per.domain)[concepts.per.domain>=9]
   
   # for each domain
@@ -410,10 +410,10 @@ concepts.per.domain = tapply(alldata$meaning.id.fixed,alldata$domain,function(X)
   	
   	dom = domains.with.enough.concepts[i]
     domainString = paste("^",dom,"\\.",sep='')
-    choose.from.rows1 = which(grepl(domainString,as.character(rownames(wordlist1))),arr.ind=T)
-    choose.from.rows2 = which(grepl(domainString,as.character(rownames(wordlist2))),arr.ind=T)
+    choose.from.rows1 = which(grepl(domainString,as.character(rownames(wordList1))),arr.ind=T)
+    choose.from.rows2 = which(grepl(domainString,as.character(rownames(wordList2))),arr.ind=T)
     dx1 = wordList1[choose.from.rows1,]
-    dx2 = wordList1[choose.from.rows2,]
+    dx2 = wordList2[choose.from.rows2,]
     runComparison.RandomIndependentSample.RandomConcepts(dx1,dx2,strat1,strat2,paste(permName,"_",domainString,sep=''), firstSegment)
     
     

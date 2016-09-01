@@ -58,6 +58,17 @@ runComparison.randomSample(d.BasicActionsConcepts.initial.m, d.BasicActionsConce
 runComparison.randomSample(d.BasicActionsConcepts.initial.m, d.BasicActionsConcepts.non.initial.m, areas.d.BasicActions.initial, areas.d.BasicActions.non.initial, "RIS_BasicActionsConcepts_allSegments_Area", F)
 runComparison.randomSample(d.BasicActionsConcepts.initial.m, d.BasicActionsConcepts.non.initial.m, areas.d.BasicActions.initial, areas.d.BasicActions.non.initial, "RIS_BasicActionsConcepts_firstSegments_Area", T)
 
+# Pronouns
+set.seed(7382)
+runComparison.randomSample(d.PronounConcepts.initial.m, d.PronounConcepts.non.initial.m, families.d.PronounConcepts.initial, families.d.PronounConcepts.non.initial, "RIS_PronounConcepts_allSegments_Family", F)
+runComparison.randomSample(d.PronounConcepts.initial.m, d.PronounConcepts.non.initial.m, families.d.PronounConcepts.initial, families.d.PronounConcepts.non.initial, "RIS_PronounConcepts_firstSegments_Family", T)
+
+runComparison.randomSample(d.PronounConcepts.initial.m, d.PronounConcepts.non.initial.m, areas.d.PronounConcepts.initial, areas.d.PronounConcepts.non.initial, "RIS_PronounConcepts_allSegments_Area", F)
+runComparison.randomSample(d.PronounConcepts.initial.m, d.PronounConcepts.non.initial.m, areas.d.PronounConcepts.initial, areas.d.PronounConcepts.non.initial, "RIS_PronounConcepts_firstSegments_Area", T)
+
+
+
+
 # Random concepts
 number.of.perms = 1000
 number.of.random.samples = 50
@@ -92,8 +103,9 @@ runComparison.randomSample(d.wh.possible.initial.consonantsOnly.m,d.wh.possible.
 runComparison.randomSample(d.wh.possible.initial.consonantsOnly.m,d.wh.possible.non.initial.consonantsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/ConsonantsInitial_3_firstSegments_RandomIndependentSample",T)
 
 
-runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/ConsonantsInitial_3_allSegments_RandomIndependentSample",F)
+runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_allSegments_RandomIndependentSample",F)
 
-runComparison.randomSample(d.wh.possible.initial.consonantsOnly.m,d.wh.possible.non.initial.consonantsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/ConsonantsInitial_3_firstSegments_RandomIndependentSample",T)
+#rx
+runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_firstSegments_RandomIndependentSample",T)
 
 

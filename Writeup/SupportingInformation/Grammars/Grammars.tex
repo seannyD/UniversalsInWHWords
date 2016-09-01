@@ -1,0 +1,34 @@
+\documentclass[8pt,landscape,a4paper]{article}
+\usepackage[margin=0.5in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\usepackage{natbib}
+%\usepackage{citeref}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{url}
+\usepackage{pdflscape}
+\usepackage[table]{xcolor}
+\usepackage{longtable}
+
+\geometry{a4paper} % or letter or a5paper or ... etc
+% \geometry{landscape} % rotated page geometry
+\usepackage{setspace}
+\title{Languages}
+\author{}
+\date{} % delete this line to display the current date
+
+%%% BEGIN DOCUMENT
+\begin{document}
+\maketitle
+
+{\footnotesize
+\input{GrammarTable.tex}
+}
+
+\clearpage
+\newpage
+
+\bibliographystyle{apalike}
+\bibliography{grammarRefs}
+
+
+\end{document}

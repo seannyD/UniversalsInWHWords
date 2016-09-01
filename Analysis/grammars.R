@@ -21,3 +21,14 @@ l.details$walsandgrammars[is.na(l.details$walsandgrammars)]=grammar$Positioning[
 grammar$Possible.Positioning[nchar(grammar$Possible.Positioning)<3]<-NA
 l.details$possiblegrammars=l.details$walsandgrammars
 l.details$possiblegrammars[is.na(l.details$possiblegrammars)]=grammar$Possible.Positioning[match(l.details$glotto[is.na(l.details$possiblegrammars)],grammar$Glotto)]
+
+c1 = paste("\\cite[",grammar$Page1,"]{",grammar$Reference1,"}", sep='')
+c2 = paste("\\cite[",grammar$Page2,"]{",grammar$Reference.2,"}", sep='')
+c2[nchar(c2)<11] = ""
+
+grammar$ref = paste(c1, c2)
+
+
+
+
+

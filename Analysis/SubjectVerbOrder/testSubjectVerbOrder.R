@@ -1,0 +1,130 @@
+---
+  title: "Test link between subject-verb order and interrogative position"
+output: pdf_document
+---
+  
+  # Load libraries and data
+  
+  ```{r warning=F, message=F}
+library(lme4)
+library(sjPlot)
+```
+
+```{r echo=F}
+
+getMEText = function(r,ef, wald=NULL){
+  
+  AIC = r[2,]$AIC
+  loglikDiff = signif(diff(r$logLik),2)
+  chi = round(r$Chisq[2],2)
+  df = r$`Chi Df`[2]
+  p = signif(r$`Pr(>Chisq)`[2],2)
+  
+  wald.text = ""
+  
+  if(!is.null(wald)){
+    est = signif(wald[1],2)
+    stder = signif(wald[2],2)
+    t = signif(wald[3],2)
+    wptext = ""
+    if(!is.na(wald[4])){
+      wptext = paste(", Wald p =",signif(wald[4],2))
+    }
+    wald.text = paste("beta = ",est,", std.err = ",stder, ", Wald t = ",t,wptext,';')
+  }
+  
+  begin = 'There was no significant'
+  if(p <0.1){
+    begin = "There was a marginal"
+  }
+  if(p < 0.05){
+    begin = 'There was a significant'  
+  }
+  
+  
+  return(paste(begin,ef,"(",wald.text,"log likelihood difference =",
+               loglikDiff,", df = ",df,", Chi Squared =", chi,", p = ",p,")."))
+}
+
+logit2per = function(X){
+  return(exp(X)/(1+exp(X)))
+}
+
+```
+
+```{r}
+d = read.csv("wals-language.csv/language.csv")
+```
+
+# Make variables
+```{r}
+d$IP = d$X93A.Position.of.Interrogative.Phrases.in.Content.Questions
+
+d$IP[d$IP %in% c("3 Mixed")] = NA
+d$IP[d$IP %in% c("")] = NA
+d$IP = as.character(d$IP)
+d$IP[d$IP=="1 Initial interrogative phrase"] = "Initial"
+d$IP[d$IP=="2 Not initial interrogative phrase"] = "Non-Initial"
+d$IP = factor(d$IP)
+
+d$WO = d$X81A.Order.of.Subject..Object.and.Verb
+
+d$SV = d$X82A.Order.of.Subject.and.Verb
+d$SV[d$SV==""] = NA
+d$SV[d$SV=="3 No dominant order"] = NA
+d$SV = d$SV == "1 SV"
+
+d$SO = d$WO %in% c("1 SOV","2 SVO",'3 VSO')
+d$SO[d$WO %in% c("","7 No dominant order")] = NA
+
+d$Af = d$X26A.Prefixing.vs..Suffixing.in.Inflectional.Morphology
+d$Af[d$Af %in% c("1 Little affixation","4 Equal prefixing and suffixing","")]=NA
+d$Af = as.numeric(factor(d$Af))
+
+
+```
+
+Contingency table of initial interrogative phrase by basic word order:
+  
+  ```{r}
+table(d$WO,d$IP) / rowSums(table(d$WO,d$IP))
+```
+
+Pattern:
+  
+  -  Subject before verb  = non-initial
+-  Verb before subject = initial
+
+
+# Mixed effects model
+
+Predict order of subject and verb by interrogative phrase position, controlling for family and macroarea. 
+
+```{r}
+m0 = glmer(IP ~ 1 + (1 + SV | family) + (1 + SV| macroarea), 
+           data=d[!is.na(d$IP) & !is.na(d$SO),], family = binomial)
+m1 = glmer(IP ~ 1 + SV + (1 + SV| family) + (1 + SV| macroarea), 
+           data=d[!is.na(d$IP)& !is.na(d$SO),], family = binomial)
+m2 = glmer(IP ~ 1 + SV + SO + (1 + SV| family) + (1 + SV| macroarea), 
+           data=d[!is.na(d$IP)& !is.na(d$SO),], family = binomial)
+m3 = glmer(IP ~ 1 + SV * SO + (1 + SV| family) + (1 + SV| macroarea), 
+           data=d[!is.na(d$IP)& !is.na(d$SO),], family = binomial)
+
+anova(m0,m1,m2,m3)
+```
+
+`r getMEText(anova(m0,m1), "main effect of subject-verb order", summary(m1)$coef['SVTRUE',])`.  Probability of initial interrogatives with subject-verb order = `r logit2per(fixef(m1)[1])`.  Probability of initial interrogatives with verb-subject = `r logit2per(sum(fixef(m1)))`
+
+Look at direction:
+  
+  ```{r}
+summary(m1)
+```
+
+## Random effects
+
+
+```{r fig.height=8}
+sjp.glmer(m1, 're',sort.est = "(Intercept)", geom.colors = c(1,1))
+```
+

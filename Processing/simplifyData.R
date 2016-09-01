@@ -63,8 +63,8 @@ Alldata$word.clean = stri_trans_general(Alldata$word.clean , 'latin-ascii')
 
 # remove stuff between round brackets
 Alldata$word.clean = gsub("\\([^\\)]*\\)",' ',Alldata$word.clean)
-
-Alldata$word.clean = gsub('[ʼ:ː \'\\-]','', Alldata$word.clean)
+# remove unwanted characters
+Alldata$word.clean = gsub('[ʼ:ː\'\\-]','', Alldata$word.clean)
 
 # only include greek stuff between brackets
 Alldata$word.clean[Alldata$Language=='Greek' & grepl("\\[",Alldata$word)] = gsub(".+\\[(.+)\\]","\\1",Alldata$word.clean[Alldata$Language=='Greek' & grepl("\\[",Alldata$word)])
@@ -112,7 +112,9 @@ for(qx in q.with.glottal){
 # question marks at start are glottal
 Alldata$word.clean = gsub("^\\?","ʔ",Alldata$word.clean)
 # remove all other question marks
+Alldata$word.clean = gsub("\\? ",";",Alldata$word.clean)
 Alldata$word.clean = gsub("\\?","",Alldata$word.clean)
+
 
 
 Alldata[Alldata$Language=="Kotgarhi",]$word.clean = gsub("\\|","",Alldata[Alldata$Language=="Kotgarhi",]$word.clean)
@@ -127,23 +129,29 @@ Alldata[Alldata$Language=="Shan_Dialect_Northern_Shan_Phonemic",]$word.clean = g
 Alldata$word.clean = gsub(" or ",";",Alldata$word.clean)
 # '/' is used to denote alternatives (if has spaces around it)
 Alldata$word.clean = gsub(" / ",";",Alldata$word.clean)
+# '/' is used to denote alternatives (if has space after it, e.g. Bulgarian, Persian)
+Alldata$word.clean = gsub("/",";",Alldata$word.clean)
 # convert commas to semicolons
 Alldata$word.clean[grepl(",",Alldata$word)] = gsub(",",";",Alldata$word.clean[grepl(",",Alldata$word)])
 # ~ is used to break up alternatives
 Alldata$word.clean= gsub("~",";",Alldata$word.clean)
 
 
+# Remove spaces
+Alldata$word.clean = gsub(' ','', Alldata$word.clean)
 
 # small fixes for phonetic transcriptions
 Alldata[Alldata$word.clean=="buvol[buvol]",]$word.clean = 'buvol'
-Alldata[Alldata$word.clean=='WC[vece]',]$word.clean = 'vece'
+if('WC[vece]' %in% Alldata$word.clean){
+  Alldata[Alldata$word.clean=='WC[vece]',]$word.clean = 'vece'
+}
 Alldata[Alldata$Language=='Karajá_Phonemic' & Alldata$word=="rora ['visit' ?]",]$word.clean = "rora"
 
 # remove stuff between square brackets
-Alldata$word.clean = gsub("\\[.+\\]","",Alldata$word.clean)
+Alldata$word.clean = gsub("\\[[^\\]]+\\]","",Alldata$word.clean,perl=TRUE)
 
 # for russian, remove stuff between round brackets
-Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean = gsub("\\(.+\\)","",Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean)
+Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean = gsub("\\([^\\)]+\\)","",Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean,perl=TRUE)
 
 Alldata[grepl("[дивкнчшкл]",Alldata$word.clean),]$word.clean = ""
 
@@ -241,10 +249,12 @@ unique.chars = sort(unique(unlist(strsplit(Alldata$word.simple,''))))
 
 #unique.chars = sort(unique.chars[!unique.chars%in% letters])
 
-
+# Write a list of unique characters
 write.csv(cbind(Original=unique.chars,Replacement="",Consonant="",Simple=''),file='../CharacterSubstitutions/extraChars2.csv',row.names=F, fileEncoding='utf-8',quote=F)
 
+# This is then edited offline, to this file:
 subs = read.csv('../CharacterSubstitutions/extraChars3.csv',quote="",stringsAsFactors=F,encoding='utf-8')
+# ... which we use to correct the characters
 
 for(i in 1:nrow(subs)){
 	if(nchar(subs[i,]$Original)>0){
@@ -254,6 +264,11 @@ for(i in 1:nrow(subs)){
 
 # we have some duplicated data
 Alldata = Alldata[!duplicated(Alldata[,c("Language",'Source','language_pk','word')]),]
+
+# remove leading or trailing ";"
+Alldata$word.simple = gsub("^;","",Alldata$word.simple)
+Alldata$word.simple = gsub(";$","",Alldata$word.simple)
+
 
 # TODO!
 # split alternatives into seperate rows 
@@ -304,7 +319,7 @@ m.error = m.error[!names(m.error) %in% c('fork','knife','mortar','sow',"Easter")
 
 Alldata$meaning.id.fixed = Alldata$language_pk
 
-Alldata[!is.na(Alldata$meaning) & !is.na(Alldata$language_pk) & Alldata$meaning=="Easter" & Alldata$language_pk==4.15,]$meaning.id = 22.99903
+try(Alldata[!is.na(Alldata$meaning) & !is.na(Alldata$language_pk) & Alldata$meaning=="Easter" & Alldata$language_pk==4.15,]$meaning.id <- 22.99903)
 
 #fix odd meanings
 for(mx in names(m.error)){
@@ -341,7 +356,7 @@ Alldata = Alldata[,!names(Alldata) %in% c("X.1","X")]
 Alldata$glotto = gsub(" ","",Alldata$glotto)
 
 Alldata[Alldata$glotto=='noot1239' & !is.na(Alldata$glotto),]$glotto = "noot1238"
-Alldata[Alldata$glotto=='tzot1264'& !is.na(Alldata$glotto),]$glotto = "tzot1259"
+try(Alldata[Alldata$glotto=='tzot1264'& !is.na(Alldata$glotto),]$glotto <- "tzot1259")
 Alldata[Alldata$Language=='Selice Romani'& !is.na(Alldata$Language),]$glotto = "west2376"
 
 # write data

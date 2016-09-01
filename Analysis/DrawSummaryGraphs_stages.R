@@ -51,7 +51,12 @@ makeSummaryGraph = function(filename,files=c(),colx,colxA,trueE=F,bodyE=F,action
 		rx = read.csv(paste("../Results/SimplifiedPhonology/PermutationResults/",files[f],sep=''))
 		to.plot =rx[rx$Type=='Perm',]$SumEntropy
 		to.add = f>1
-		hist(to.plot,col=colxA[f],border=NA,xlim=xlimx,main='',breaks=breaks,xlab='',ylab='',ylim=ylimx,add=to.add)
+		hist(to.plot,col=colxA[f],border=colxA[f],
+		     xlim=xlimx,main='',
+		     breaks=breaks,
+		     xlab='',ylab='',
+		     ylim=ylimx,
+		     add=to.add)
 		
 	}
 	
@@ -159,34 +164,44 @@ makeSummaryGraph("Graphs/Comparison_WH_Random_firstSegments_Domain_BodyAction.pd
 
 
 makeBodyActionPlots = function(files){
-labs=c("Interrogative words","Body", "Action")
-
-xlimB=c(0.4,0.9)
-ylimB = c(0,900)
-for(i in 1:length(files)){
-testR = read.csv(files[i])
-test = testR[1,]$SumEntropy
-
-hist(testR[testR$Type=='Perm',]$SumEntropy,col=colx[i],border=NA,xlim=xlimB,main='',breaks=breaks,xlab='',ylab='',ylim=ylimB,add=i>1, xaxt='n')
-
-yx = (ylimx[2] - 100)/(i+1)
-
-lines(c(test,test),c(0,yx + 40),col=colxA[i],lwd=2)
-text(test,yx,labs[i], col = colxA[i],pos=4)
-
-lines(c(test,mean(testR[testR$Type=='Perm',]$SumEntropy)),c(yx,yx)-30, col=colxA[i], lwd=2)
-
+  labs=c("Interrogative words","Pronouns","Face", "Action")
+  
+  xlimB=c(0.4,0.9)
+  ylimB = c(0,900)
+  for(i in 1:length(files)){
+    testR = read.csv(files[i])
+    test = testR[1,]$SumEntropy
+    
+    hist(testR[testR$Type=='Perm',]$SumEntropy,col=colx[i],border=NA,xlim=xlimB,main='',breaks=breaks,xlab='',ylab='',ylim=ylimB,add=i>1, xaxt='n')
+    
+    yx = (ylimx[2] - 50)/(i+1)
+    if(i==4){
+      yx = yx - 25
+    }
+    
+    lines(c(test,test),c(0,yx + 40),col=colxA[i],lwd=2)
+    text(test,yx,labs[i], col = colxA[i],pos=4)
+    
+    lines(c(test,mean(testR[testR$Type=='Perm',]$SumEntropy)),c(yx,yx)-30, col=colxA[i], lwd=2)
+  
+  }
+  axis(1,pos=1)
+  title(xlab='Mean Entropy',ylab='Count')
 }
-axis(1,pos=1)
-title(xlab='Mean Entropy',ylab='Count')
-}
 
 
-
+pdf("Graphs/Comparison_WH_Pronouns_Body_Action.pdf")
 makeBodyActionPlots(c("../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments.csv",
+ "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_Pronouns.csv",
  "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_BodyDomain.csv",
  "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_ActionDomain.csv"))
- 
- makeBodyActionPlots(c("../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegment_byAreaAndFamily.csv",
+dev.off()
+
+
+pdf("Graphs/Comparison_WH_Pronouns_Body_Action_byAreaAndFamily.pdf")
+makeBodyActionPlots(c("../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegment_byAreaAndFamily.csv",
+ "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_PronounDomain_byFamilyAndArea.csv",
  "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_BodyDomain_byFamilyAndArea.csv",
- "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_BasicActionsDomain_byFamilyAndArea.csv"))
+ "../Results/SimplifiedPhonology/PermutationResults/AllLangs_firstSegments_BasicActionsDomain_byFamilyAndArea.csv"
+ ))
+ dev.off()

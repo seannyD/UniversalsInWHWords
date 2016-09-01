@@ -1,8 +1,11 @@
 "run","meanPerm","p","z"
 "Comparison_WH_Random_firstSegments.csv",0.78,"1",-28.1
 "Comparison_WH_Domain_firstSegments_concept_9.csv",0.75,"< 0.000005",-15.09
-"Comparison_WH_BodyDomain_firstSegments.csv",-0.00004,"< 0.0001",8.85
-"Comparison_WH_BasicActionsDomain_firstSegments.csv",0.00038,"< 0.0001",9.88
-"Comparison_WH_PronounDomain_firstSegments.csv",-0.00014,"< 0.0001",7.96
+"Comparison_WH_BodyDomain_firstSegments.csv",0.679090824151223,"< 0.0001",8.85
+"Comparison_WH_BasicActionsDomain_firstSegments.csv",0.704034680106207,"< 0.0001",9.88
+"Comparison_WH_PronounDomain_firstSegments.csv",0.629236718735536,"< 0.0001",7.96
 "Comparison_WH_Random_unanalyzable_firstSegments.csv",0.84,"1",-10.43
 "Comparison_WH_Domain_unanalyzable_allSegments_concept_9.csv",0.72,"0.04722",-1.53
+"Comparison_WH_BodyDomain_unanalyzable_firstSegments.csv",0.785735199989641,"< 0.0001",3.83
+"Comparison_WH_BasicActionsDomain_unanalyzable_firstSegments.csv",0.808877556974937,"0.0002",3.54
+"Comparison_WH_PronounDomain_unanalyzable_firstSegments.csv",0.676141703078518,"0.029",1.88

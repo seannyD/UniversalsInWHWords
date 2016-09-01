@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  19 APR 2016 11:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  25 AUG 2016 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,30 +284,72 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10 Table 6: Sim-i-lar-ity of ran-domly se-lected con-cepts withi
+n a lan-guage, com-pared to be-tween lan-guages. From re-sults folder ../Re-
+ []
+
 ) [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./SummaryTables2.tex
+./SummaryTables2.tex:21: Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.21 ...nology/PermutationResults/RandomConcepts/}
+                                                  
+? s
+OK, entering \scrollmode...
+Runaway argument?
+\@captype {\@firstoftwo {\nobreak \@xcentercr }}\def \reserved@b {\@xcentercr \
+ETC.
+./SummaryTables2.tex:21: Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.21 ...nology/PermutationResults/RandomConcepts/}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+) [3
+
+] (./SummaryTables3.tex
+Underfull \hbox (badness 2818) in paragraph at lines 31--31
+[]\OT1/cmr/m/n/10 Table 8: Ran-dom in-de-pen-dent sam-ples tests, com-par-ing i
+ni-tial in-ter-rog-a-tive lan-guages and non-initial in-ter-rog-a-tive lan-guag
+es. From re-sults folder ../Re-
+ []
+
+) (./SummaryTables4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10 Table 9: Ran-dom in-de-pen-dent sam-ples tests, com-par-ing w
+h words by con-so-nants or vow-els sep-a-rately. From re-sults folder ../Re-
+ []
+
+)
 No file Summary.bbl.
-[3
+[4
 
 ] (./Summary.aux) ) 
 Here is how much of TeX's memory you used:
- 3087 strings out of 493089
- 42311 string characters out of 6134841
- 125792 words of memory out of 5000000
+ 3096 strings out of 493089
+ 42467 string characters out of 6134841
+ 130792 words of memory out of 5000000
  6532 multiletter control sequences out of 15000+600000
  7280 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,35p,237b,190s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,35p,507b,190s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr17.pfb>
-Output written on Summary.pdf (3 pages, 51741 bytes).
+Output written on Summary.pdf (4 pages, 58370 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -71,7 +71,7 @@ study1.res= c("AllLangs_firstSegments.csv",
 "AllLangs_unanalyzable_allSegments_byAreaAndFamily.csv")
 
 study1.table = res[study1.res,]
-write.csv(study1.table,file= "../Results/SimplifiedPhonology/tables/study1.csv", row.names = F)
+write.csv(study1.table,file= "../Results/SimplifiedPhonology/tables/study1.csv", row.names = T)
 
 
 #############
@@ -105,14 +105,36 @@ res4$meanPerm = round(res4$meanPerm,2)
 res4$z = round(res4$z,2)
 
 
+bodyComparison = res["Comparison_WH_BodyDomain_firstSegments.csv",]
+bodyComparison$meanPerm = mean(getWordListEntropy(d.BodyConcepts.m,firstSegment = T),na.rm=T)
+
+UnBodyComparison = res["Comparison_WH_BodyDomain_unanalyzable_firstSegments.csv",]
+UnBodyComparison$meanPerm = mean(getWordListEntropy(d.unanalyzable.BodyConcepts.m,firstSegment = T),na.rm=T)
+
+actionComparison = res["Comparison_WH_BasicActionsDomain_firstSegments.csv",]
+actionComparison$meanPerm = mean(getWordListEntropy(d.BasicActionsConcepts.m,firstSegment = T),na.rm=T)
+
+UnActionComparison = res["Comparison_WH_BasicActionsDomain_unanalyzable_firstSegments.csv",]
+UnActionComparison$meanPerm = mean(getWordListEntropy(d.unanalyzable.BasicActionConcepts.m,firstSegment = T),na.rm=T)
+
+pronounComparison = res["Comparison_WH_PronounDomain_firstSegments.csv",]
+pronounComparison $meanPerm = mean(getWordListEntropy(d.PronounConcepts.m,firstSegment = T),na.rm=T)
+
+UnPronounComparison = res["Comparison_WH_PronounDomain_unanalyzable_firstSegments.csv",]
+UnPronounComparison$meanPerm = mean(getWordListEntropy(d.unanalyzable.PronounConcepts.m,firstSegment = T),na.rm=T)
+
+
 
 study2.table = rbind(res2["Comparison_WH_Random_firstSegments.csv",],
 res3[1,],
-res["Comparison_WH_BodyDomain_firstSegments.csv",],
-res["Comparison_WH_BasicActionsDomain_firstSegments.csv",],
-res["Comparison_WH_PronounDomain_firstSegments.csv",],
+bodyComparison,
+actionComparison,
+pronounComparison,
 res2["Comparison_WH_Random_unanalyzable_firstSegments.csv",],
-res4[1,]
+res4[1,],
+UnBodyComparison,
+UnActionComparison,
+UnPronounComparison
 )
 
 write.csv(study2.table,file= "../Results/SimplifiedPhonology/tables/study2.csv", row.names = F)
@@ -146,7 +168,7 @@ getStats3 = function(filenames,base=''){
   }
   z.score = (trueV - mean(permV)) / sd(permV)
   
-  return(c(filename,meanPerm,p,z.score))
+  return(c(filename,length(permV),meanPerm,p,z.score))
 }
 
 baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomIndependentSamples/"
@@ -159,14 +181,18 @@ res5 = rbind(
   t(getStats3("RIS_WH_Unanalyzable_Family_firstSegments.csv",baseF)),
   t(getStats3("RIS_WH_Unanalyzable_Area_firstSegments.csv",baseF)),
   t(getStats3(files[grepl("RIS_RandomConcepts_firstSegments_",files)],baseF)),
-  c(NA,NA,NA,NA),
+  
+  t(getStats3(files[grepl("RIS_RandomConcepts_Domain_firstSegments_",files)],baseF)),
+  
   t(getStats3("RIS_BodyConcepts_firstSegments_Family.csv",baseF)),
   t(getStats3("RIS_BodyConcepts_firstSegments_Area.csv",baseF)),
   t(getStats3("RIS_BasicActionsConcepts_firstSegments_Family.csv",baseF)),
-  t(getStats3("RIS_BasicActionsConcepts_firstSegments_Area.csv",baseF))
+  t(getStats3("RIS_BasicActionsConcepts_firstSegments_Area.csv",baseF)),
+  t(getStats3("RIS_PronounConcepts_firstSegments_Family.csv",baseF)),
+  t(getStats3("RIS_PronounConcepts_firstSegments_Area.csv",baseF))
     )
 res5 = as.data.frame((res5))
-names(res5) = c("run",'meanPerm','p','z')
+names(res5) = c("run","N",'meanPerm','p','z')
 res5$meanPerm = as.numeric(as.character(res5$meanPerm))
 res5$z = as.numeric(as.character(res5$z))
 res5$meanPerm = round(res5$meanPerm,2)
