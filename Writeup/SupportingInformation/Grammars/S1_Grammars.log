@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  25 AUG 2016 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  1 SEP 2016 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Grammars.tex
-(./Grammars.tex
+**S1_Grammars.tex
+(./S1_Grammars.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -169,8 +169,8 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 LaTeX Warning: Unused global option(s):
     [8pt].
 
-(./Grammars.aux)
-\openout1 = `Grammars.aux'.
+(./S1_Grammars.aux)
+\openout1 = `S1_Grammars.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -282,22 +282,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
 
-(./GrammarTable.tex
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Gram
+marTable.tex
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 
-Overfull \hbox (19.67604pt too wide) in alignment at lines 5--28
+Overfull \hbox (0.94107pt too wide) in alignment at lines 5--28
  [] [] [] [] [] [] [] [] [] 
  []
 
 
 Underfull \vbox (badness 10000) detected at line 28
  []
-
-
-Package natbib Warning: Citation `weberrobert_rapanui1988_o.pdf' on page 1 unde
-fined on input line 28.
 
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ± in font cmr8!
@@ -306,7 +311,7 @@ Missing character: There is no ­ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 
-Overfull \hbox (19.67604pt too wide) in alignment at lines 28--48
+Overfull \hbox (0.94107pt too wide) in alignment at lines 28--48
  [] [] [] [] [] [] [] [] [] 
  []
 
@@ -321,34 +326,18 @@ Missing character: There is no ­ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 
-Package natbib Warning: Citation `browne-alt_serbo-croatian.pdf' on page 1 unde
-fined on input line 65.
-
-
-Package natbib Warning: Citation `zucker_yiddish1994.pdf' on page 1 undefined o
-n input line 66.
-
-
-Overfull \hbox (19.67604pt too wide) in alignment at lines 48--68
+Overfull \hbox (14.5482pt too wide) in alignment at lines 48--68
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Package natbib Warning: Citation `axel_old-high-german-syntax2007.pdf' on page 
-1 undefined on input line 80.
-
-
-Package natbib Warning: Citation `byrne_saramaccan1985.pdf' on page 1 undefined
- on input line 81.
-
-
-Overfull \hbox (19.67604pt too wide) in alignment at lines 68--88
+Overfull \hbox (14.5482pt too wide) in alignment at lines 68--88
  [] [] [] [] [] [] [] [] [] 
  []
 
-[1
+[2
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+]
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 Missing character: There is no Ã in font cmr8!
@@ -361,11 +350,6 @@ Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¼ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
-
-
-Package natbib Warning: Citation `cowan_tzotzil2014.pdf' on page 2 undefined on
- input line 97.
-
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no © in font cmr8!
 Missing character: There is no Ã in font cmr8!
@@ -374,29 +358,17 @@ Missing character: There is no Ã in font cmr8!
 Missing character: There is no © in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
-
-Package natbib Warning: Citation `wieseman_kaingang1972.pdf' on page 2 undefine
-d on input line 104.
-
-
-Package natbib Warning: Citation `villard_zacatepec-chatino2009' on page 2 unde
-fined on input line 105.
-
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 
-Overfull \hbox (19.67604pt too wide) in alignment at lines 88--108
+Overfull \hbox (14.5482pt too wide) in alignment at lines 88--108
  [] [] [] [] [] [] [] [] [] 
  []
 
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ­ in font cmr8!
-
-Package natbib Warning: Citation `FaustLoosGramaticaYaminahua.pdf' on page 2 un
-defined on input line 110.
-
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 Missing character: There is no Ã in font cmr8!
@@ -406,22 +378,18 @@ Missing character: There is no © in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ± in font cmr8!
 
-Package natbib Warning: Citation `15_Pronouns.pdf' on page 2 undefined on input
- line 125.
-
-
-Overfull \hbox (19.67604pt too wide) in alignment at lines 108--128
+Overfull \hbox (14.5482pt too wide) in alignment at lines 108--128
  [] [] [] [] [] [] [] [] [] 
  []
 
-[2]
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ­ in font cmr8!
 
-Overfull \hbox (19.67604pt too wide) in alignment at lines 128--148
+Overfull \hbox (14.5482pt too wide) in alignment at lines 128--148
  [] [] [] [] [] [] [] [] [] 
  []
 
+[3]
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no © in font cmr8!
 Missing character: There is no Ã in font cmr8!
@@ -429,19 +397,9 @@ Missing character: There is no ­ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ³ in font cmr8!
 Missing character: There is no Ã in font cmr8!
-Missing character: There is no – in font cmr8!
-Missing character: There is no Ã in font cmr8!
 Missing character: There is no ­ in font cmr8!
 
-Package natbib Warning: Citation `petrova_sakha-yakut2011.pdf' on page 3 undefi
-ned on input line 155.
-
-
-Package natbib Warning: Citation `infoonpitesaami(initial)-wilbur_pite-saami201
-4' on page 3 undefined on input line 161.
-
-
-Overfull \hbox (19.67604pt too wide) in alignment at lines 148--168
+Overfull \hbox (14.5482pt too wide) in alignment at lines 148--168
  [] [] [] [] [] [] [] [] [] 
  []
 
@@ -453,22 +411,18 @@ Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
-
-Package natbib Warning: Citation `Yamana(Adam_1885).pdf' on page 3 undefined on
- input line 174.
-
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 
-Package natbib Warning: Citation `bertinetto_ayoreo[nd]' on page 3 undefined on
- input line 179.
-
-
-Overfull \hbox (19.67604pt too wide) in alignment at lines 168--182
+Overfull \hbox (28.72202pt too wide) in alignment at lines 168--182
  [] [] [] [] [] [] [] [] [] 
  []
 
-[3]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 182.
+
+[4]
 ./GrammarTable.tex:183: Extra \endgroup.
 \color@endgroup ->\endgraf \endgroup 
                                      
@@ -505,13 +459,23 @@ l.183 \end{table}
 Things are pretty mixed up, but I think the worst is over.
 
 )
-./Grammars.tex:25: Too many }'s.
-l.25 }
+./S1_Grammars.tex:42: Too many }'s.
+l.42 }
       
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-[4] (./Grammars.bbl
+[5] (./S1_Grammars.bbl
+./S1_Grammars.bbl:6: Misplaced alignment tab character &.
+l.6 \newblock Maisonneuve Freres &
+                                   Ch. Leclerc.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¡ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -526,6 +490,10 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¡ in font cmr10!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 37.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -554,6 +522,8 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no § in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -590,9 +560,8 @@ Missing character: There is no Ã in font cmti10!
 Missing character: There is no ³ in font cmti10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
-
-./Grammars.bbl:72: Misplaced alignment tab character &.
-l.72 ...ptive Grammars Series. Routledge, London &
+./S1_Grammars.bbl:128: Misplaced alignment tab character &.
+l.128 ...tive Grammars Series. Routledge, London &
                                                   New York.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -607,10 +576,14 @@ Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¶ in font cmti10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¶ in font cmti10!
+[6
+
+]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
-./Grammars.bbl:109: Misplaced alignment tab character &.
-l.109 ...ges}, pages 596--620. Routledge, London &
+
+./S1_Grammars.bbl:170: Misplaced alignment tab character &.
+l.170 ...ges}, pages 596--620. Routledge, London &
                                                   New York.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -633,9 +606,6 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¡ in font cmti10!
-[5
-
-]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no Ã in font cmti10!
@@ -658,34 +628,31 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¡ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no – in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ³ in font cmr10!
-)
+[7])
 
-Package natbib Warning: There were undefined citations.
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
 
-[6] (./Grammars.aux) ) 
+[8] (./S1_Grammars.aux) ) 
 Here is how much of TeX's memory you used:
- 3204 strings out of 493089
- 45895 string characters out of 6134841
- 148862 words of memory out of 5000000
- 6645 multiletter control sequences out of 15000+600000
- 7935 words of font info for 28 fonts, out of 8000000 for 9000
+ 3257 strings out of 493089
+ 47367 string characters out of 6134841
+ 151362 words of memory out of 5000000
+ 6695 multiletter control sequences out of 15000+600000
+ 8101 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,35p,247b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti10.pfb>
-Output written on Grammars.pdf (6 pages, 103324 bytes).
+ 41i,5n,35p,575b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb>
+Output written on S1_Grammars.pdf (8 pages, 126908 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -15,26 +15,40 @@ l.details2 = l.details[l.details$glotto %in% d.wh.glotto,]
 l.details2 = l.details2[!duplicated(l.details2$glotto),]
 library(maps)
 
-map(interior = F, fill=T, col='gray', )
+map(interior = F, fill=T, col='gray' )
 points(l.details2$longitude,l.details2$latitude,col=rgb(1,0,0),  pch= 16)
 
 library(ggplot2)
 
-mp <- NULL
-mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
-mp <- ggplot() +   mapWorld
+set.seed(15)
+cols = sample(rainbow(length(unique(l.details2$area)), alpha = 0.75))
 
-set.seed(12)
-cols = sample(rainbow(length(unique(l.details2$area))))
 l.details2$area.colour = cols[as.numeric(as.factor(l.details2$area))]
+l.details2$area.colour[l.details2$area=="Indic"] = 'black'
+l.details2$area.colour[l.details2$area=="N Coast Asia"] = 'dark grey'
 
-#Now Layer the cities on top
-mp <- mp+ geom_point(aes(y=l.details2$latitude, x=l.details2$longitude) ,color=l.details2$area.colour, size=3) 
-mp
+world <- map_data("world", interior = F)
+world <- world[world$region != "Antarctica",]
+
+gg <- ggplot()
+gg <- gg + geom_map(data=world, map=world,
+                    aes(x=long, y=lat, map_id=region),
+                    fill="#7f7f7f", size=0.05, alpha=1/4) +
+            xlab('') + ylab("")
+  
+
+finalMap= gg + geom_point(aes(y=l.details2$latitude, x=l.details2$longitude) ,color=l.details2$area.colour, size=2) 
+
+pdf("../Writeup/images/mapOfLanguages.pdf", width=8, height=5)
+finalMap
+dev.off()
+png("../Writeup/images/mapOfLanguages.png", width=800, height=500)
+finalMap
+dev.off()
 
 
 
-
+#############
 mostCommonPhoneme = apply(d.wh.m, 2, function(X){
   sx = unlist(strsplit(X,";"))
   sx = substr(sx,1,1)
