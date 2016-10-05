@@ -11,13 +11,17 @@ source("makeDataVariables.R")
 
 noData = which(apply(d.wh.m,2,function(X){sum(!is.na(X))})<2)
 
+if(length(noData)>0){
 d.wh.m = d.wh.m[,-noData]
 d.random.m = d.random.m[,-noData]
+}
 
 allsegments = unique(unlist(strsplit(unlist(rbind(d.wh.m,d.random.m)),'')))
 
 #write.csv(allsegments,"../RAW_data/SegmentSonority.csv")
 sonority = read.csv("../RAW_data/SegmentSonority.csv",stringsAsFactors = F)
+
+# see http://www.tandfonline.com/doi/pdf/10.1080/1476967021000048140?needAccess=true
 
 sonority.scale = c(p=1,a=2,f=3,n=4,l=5,g=6,v=7)
 sonority.score = sonority.scale[sonority$sonority]
@@ -115,7 +119,8 @@ editDistance = sapply(1:ncol(d.wh.m), function(i){
   dx[diag(dx)] = NA # ignore self-self distances
   # if wh words are very different to other words, and other words are little different to other words, then trueDist is negative
   trueDist = diff(c(mean(dx[rx.r,whx.r],na.rm=T),mean(dx[whx.r,whx.r],na.rm=T)))
-  permDist = replicate(1000,getDistDiff(dx,whx.r,rx.r))
+  n = 1000
+  permDist = replicate(n,getDistDiff(dx,whx.r,rx.r))
   
   # we predict trueDist < permdist, 
   # if so, p is small and z is negative
@@ -202,9 +207,11 @@ m0 = lmer(sonority.first~ 1 + (1|language) + (1|family) + (1|area), data=dx.son)
 m1 = lmer(sonority.first~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son)
 anova(m0,m1)
 
-m0 = lmer(sonority.first.cons~ 1 + (1|language) + (1|family) + (1|area), data=dx.son)
-m1 = lmer(sonority.first.cons~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son)
-anova(m0,m1)
+m0 = lmer(sonority.first.cons~ 1 + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
+m1 = lmer(sonority.first.cons~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
+m2 = lmer(sonority.first.cons~ 1 + wh + initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
+m3 = lmer(sonority.first.cons~ 1 + wh * initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
+anova(m0,m1,m2,m3)
 
 
 # For initial languages only

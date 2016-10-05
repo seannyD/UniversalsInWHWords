@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  25 AUG 2016 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.16)  3 OCT 2016 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,7 +285,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []\OT1/cmr/m/n/10 Table 6: Sim-i-lar-ity of ran-domly se-lected con-cepts withi
 n a lan-guage, com-pared to be-tween lan-guages. From re-sults folder ../Re-
  []
@@ -336,7 +336,7 @@ No file Summary.bbl.
 Here is how much of TeX's memory you used:
  3096 strings out of 493089
  42467 string characters out of 6134841
- 130792 words of memory out of 5000000
+ 128792 words of memory out of 5000000
  6532 multiletter control sequences out of 15000+600000
  7280 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -346,7 +346,7 @@ nts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr17.pfb>
-Output written on Summary.pdf (4 pages, 58370 bytes).
+Output written on Summary.pdf (4 pages, 58209 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream

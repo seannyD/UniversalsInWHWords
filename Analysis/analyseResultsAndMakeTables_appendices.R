@@ -146,12 +146,9 @@ random2random = rbind(
   getStats3(files[grepl("Permutation_allSegments_",files)],baseF,"All segments"),
   getStats3(files[grepl("Permutation_firstSegments_",files)],baseF,"First segments"),
   getStats3(files[grepl("Permutation_Domain_byFamily_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
   getStats3(files[grepl("Permutation_Domain_byFamily_firstSegments_",files)],baseF,"Same domain, permute within family, first segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within area, first segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_allSegments_",files)],baseF,"Same domain, permute within family, all segments"),
-  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within area, first segments")  
+  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_allSegments_",files)],baseF,"Same domain, permute within family and area, all segments"),
+  getStats3(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)],baseF,"Same domain, permute within family and area, first segments")
 )
 
 t6 = makeTable(random2random, "Similarity of randomly selected concepts within a language, compared to between languages.", baseF)
