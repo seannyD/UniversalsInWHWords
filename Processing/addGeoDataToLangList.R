@@ -113,4 +113,7 @@ l.details$S.qpos = c.grammars[match(l.details$glotto, c.grammars$Glotto),]$Possi
 l.details$qpos = l.details$WALS.qpos
 l.details[is.na(l.details$qpos),]$qpos = l.details[is.na(l.details$qpos),]$S.qpos
 
+
+l.details = l.details[order(l.details$area,l.details$langFam, l.details$Language)]
+
 write.csv(l.details, file="../Analysis/LangsInAnalysis_withGeoData.csv", fileEncoding = 'utf-8', row.names = F)
