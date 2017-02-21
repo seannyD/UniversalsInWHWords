@@ -1,0 +1,1563 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-28-1,anda1281,Avar (Andalal dialect),1852,чанги нухІалъ,CyrillTrans,often,,,"čangi nuħaɬ, rizgo",Phonemic
+14-320-28-3,anda1281,Avar (Andalal dialect),1852,ризго,CyrillTrans,often,,,"čangi nuħaɬ, rizgo",Phonemic
+14-310-28-1,anda1281,Avar (Andalal dialect),1676,кидуго,CyrillTrans,always,,,kidugo,Phonemic
+14-290-28-1,anda1281,Avar (Andalal dialect),790,хІадулараб,CyrillTrans,ready,,,ħadularab,Phonemic
+14-280-28-1,anda1281,Avar (Andalal dialect),1928,чІчІедубуде,CyrillTrans,"cease, stop",,,"č̄ʼedubude, č̄ʼede",Phonemic
+14-280-28-3,anda1281,Avar (Andalal dialect),1928,чІчІеде,CyrillTrans,"cease, stop",,,"č̄ʼedubude, č̄ʼede",Phonemic
+14-270-28-1,anda1281,Avar (Andalal dialect),1766,лълъугІдегьу буде,CyrillTrans,finish,,,"ɬ̄uʕdehu bude, ɬ̄uʕdubude",Phonemic
+14-270-28-3,anda1281,Avar (Andalal dialect),1766,лълъугІдубуде,CyrillTrans,finish,,,"ɬ̄uʕdehu bude, ɬ̄uʕdubude",Phonemic
+14-260-28-1,anda1281,Avar (Andalal dialect),743,лълъугІде,CyrillTrans,end (temporal),,,ɬ̄uʕde,Phonemic
+14-252-28-1,anda1281,Avar (Andalal dialect),1186,халатбахде,CyrillTrans,"last, endure",,,x̄alatbaxde,Phonemic
+14-250-28-1,anda1281,Avar (Andalal dialect),1806,байбихьи,CyrillTrans,"begin, beginning",,,"baybix̌i, baybix̌de",Phonemic
+14-250-28-3,anda1281,Avar (Andalal dialect),1806,байбихьде,CyrillTrans,"begin, beginning",,,"baybix̌i, baybix̌de",Phonemic
+14-240-28-1,anda1281,Avar (Andalal dialect),425,хьадалде,CyrillTrans,"retard, delay",,,x̌adalde,Phonemic
+14-230-28-1,anda1281,Avar (Andalal dialect),754,хІалакде,CyrillTrans,"hasten, hurry",,,ħalakde,Phonemic
+14-220-28-1,anda1281,Avar (Andalal dialect),701,хІенццаб,CyrillTrans,slow,,,"ħenc̄ab, koč̄ʼonguyab",Phonemic
+14-220-28-3,anda1281,Avar (Andalal dialect),701,кочІчІонгуяб,CyrillTrans,slow,,,"ħenc̄ab, koč̄ʼonguyab",Phonemic
+14-210-28-1,anda1281,Avar (Andalal dialect),1631,хехаб,CyrillTrans,"swift, fast, quick",,,xexab,Phonemic
+14-190-28-1,anda1281,Avar (Andalal dialect),1963,гьабссагІат,CyrillTrans,immediately,,,"habs̄aʕat, okʼaw č̄ʼečʼugo",Phonemic
+14-190-28-3,anda1281,Avar (Andalal dialect),1963,окІав чІчІечІуго,CyrillTrans,immediately,,,"habs̄aʕat, okʼaw č̄ʼečʼugo",Phonemic
+14-180-28-1,anda1281,Avar (Andalal dialect),1376,гьенчче,CyrillTrans,now,,,"henč̄e, habs̄aʕat",Phonemic
+14-180-28-3,anda1281,Avar (Andalal dialect),1376,гьабссагІат,CyrillTrans,now,,,"henč̄e, habs̄aʕat",Phonemic
+14-170-28-1,anda1281,Avar (Andalal dialect),477,хьалгьун,CyrillTrans,late,,,x̌alhun,Phonemic
+14-160-28-1,anda1281,Avar (Andalal dialect),672,цевего,CyrillTrans,early,,,"cewego, hadalgo",Phonemic
+14-160-28-3,anda1281,Avar (Andalal dialect),672,гьадалго,CyrillTrans,early,,,"cewego, hadalgo",Phonemic
+14-150-28-1,anda1281,Avar (Andalal dialect),1229,хІераб,CyrillTrans,old,,,ħerab,Phonemic
+14-140-28-1,anda1281,Avar (Andalal dialect),1207,гІолоханаб,CyrillTrans,young,,,ʕoloxanab,Phonemic
+14-120-28-1,anda1281,Avar (Andalal dialect),1789,гІумру,CyrillTrans,age,,,"ʕumru, nusgo son, ʕasru",Phonemic
+14-120-28-3,anda1281,Avar (Andalal dialect),1789,нусго сон,CyrillTrans,age,,,"ʕumru, nusgo son, ʕasru",Phonemic
+14-120-28-5,anda1281,Avar (Andalal dialect),1789,гІасру,CyrillTrans,age,,,"ʕumru, nusgo son, ʕasru",Phonemic
+14-130-28-1,anda1281,Avar (Andalal dialect),1231,цІияб,CyrillTrans,new,,,cʼiyab,Phonemic
+14-110-28-1,anda1281,Avar (Andalal dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-28-1,anda1281,Avar (Andalal dialect),417,гьабцІул,CyrillTrans,three times,,,habcʼul,Phonemic
+13-420-28-1,anda1281,Avar (Andalal dialect),1859,гьабабилаб,CyrillTrans,third,,,hababilab,Phonemic
+13-380-28-1,anda1281,Avar (Andalal dialect),1546,кІицІул,CyrillTrans,two times,,,kʼicʼul,Phonemic
+13-370-28-1,anda1281,Avar (Andalal dialect),1888,кІиго,CyrillTrans,pair,,,"kʼigo, kʼikʼa",Phonemic
+13-370-28-3,anda1281,Avar (Andalal dialect),1888,кІикІа,CyrillTrans,pair,,,"kʼigo, kʼikʼa",Phonemic
+13-360-28-1,anda1281,Avar (Andalal dialect),1384,кІиабилаб,CyrillTrans,second,,,kʼiabilab,Phonemic
+13-350-28-1,anda1281,Avar (Andalal dialect),1529,ахирисаб,CyrillTrans,last,,,"axirisab, biš̄un naxas̄ab",Phonemic
+13-350-28-3,anda1281,Avar (Andalal dialect),1529,бищун нахассаб,CyrillTrans,last,,,"axirisab, biš̄un naxas̄ab",Phonemic
+13-340-28-1,anda1281,Avar (Andalal dialect),728,оццебессаб,CyrillTrans,first,,,oc̄ebes̄ab,Phonemic
+13-330-28-1,anda1281,Avar (Andalal dialect),1580,цо,CyrillTrans,"alone, only",,,"co, cok̄o-co",Phonemic
+13-330-28-3,anda1281,Avar (Andalal dialect),1580,цокко-цо,CyrillTrans,"alone, only",,,"co, cok̄o-co",Phonemic
+13-240-28-1,anda1281,Avar (Andalal dialect),816,бащилʼ,CyrillTrans,half,,,"baš̄ilʲ, baš̄ili",Phonemic
+13-240-28-3,anda1281,Avar (Andalal dialect),816,бащили,CyrillTrans,half,,,"baš̄ilʲ, baš̄ili",Phonemic
+13-230-28-1,anda1281,Avar (Andalal dialect),779,бутІа,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-230-28-3,anda1281,Avar (Andalal dialect),779,кесек,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-220-28-1,anda1281,Avar (Andalal dialect),1624,чІобогуяб,CyrillTrans,empty,,,čʼoboguyab,Phonemic
+13-210-28-1,anda1281,Avar (Andalal dialect),1429,цІураб,CyrillTrans,full,,,cʼurab,Phonemic
+13-190-28-1,anda1281,Avar (Andalal dialect),2023,цІакъ гІемерго,CyrillTrans,"multitude, crowd",,,cʼaqʼ ʕemergo,Phonemic
+13-181-28-1,anda1281,Avar (Andalal dialect),1241,цоцо-кІикІа,CyrillTrans,some,,,"coco-kʼikʼa, cudahgo",Phonemic
+13-181-28-3,anda1281,Avar (Andalal dialect),1241,цудагьго,CyrillTrans,some,,,"coco-kʼikʼa, cudahgo",Phonemic
+13-170-28-1,anda1281,Avar (Andalal dialect),1242,дагьго,CyrillTrans,"little (quantity), few",,,dahgo,Phonemic
+13-180-28-1,anda1281,Avar (Andalal dialect),1881,гІураб,CyrillTrans,enough,,,ʕurab,Phonemic
+13-160-28-1,anda1281,Avar (Andalal dialect),1992,цІцІикІун,CyrillTrans,more,,,"c̄ʼikʼun, ʕemer",Phonemic
+13-160-28-3,anda1281,Avar (Andalal dialect),1992,гІемер,CyrillTrans,more,,,"c̄ʼikʼun, ʕemer",Phonemic
+13-150-28-1,anda1281,Avar (Andalal dialect),1198,гІемер(го),CyrillTrans,"much, many",,,ʕemer(go),Phonemic
+13-140-28-1,anda1281,Avar (Andalal dialect),98,рацІцІунго,CyrillTrans,"every, all",,,"rac̄ʼungo, kinalgo",Phonemic
+13-140-28-3,anda1281,Avar (Andalal dialect),98,киналго,CyrillTrans,"every, all",,,"rac̄ʼungo, kinalgo",Phonemic
+13-107-28-1,anda1281,Avar (Andalal dialect),1420,малълъде,CyrillTrans,count,,,maɬ̄de,Phonemic
+13-106-28-1,anda1281,Avar (Andalal dialect),1843,гІазарго,CyrillTrans,thousand,,,ʕazargo,Phonemic
+13-105-28-1,anda1281,Avar (Andalal dialect),1634,нусго,CyrillTrans,hundred,,,nusgo,Phonemic
+13-104-28-1,anda1281,Avar (Andalal dialect),1710,къого,CyrillTrans,twenty,,,qʼogo,Phonemic
+13-103-28-1,anda1281,Avar (Andalal dialect),1709,анцІилʼ щуго,CyrillTrans,fifteen,,,ancʼilʲ š̄ugo,Phonemic
+13-102-28-1,anda1281,Avar (Andalal dialect),1707,анцІилʼ кІиго,CyrillTrans,twelve,,,ancʼilʲ kʼigo,Phonemic
+13-101-28-1,anda1281,Avar (Andalal dialect),1706,анцІилʼ цо,CyrillTrans,eleven,,,ancʼilʲ co,Phonemic
+13-100-28-1,anda1281,Avar (Andalal dialect),1515,анцІго,CyrillTrans,ten,,,ancʼgo,Phonemic
+13-90-28-1,anda1281,Avar (Andalal dialect),1483,ичІго,CyrillTrans,nine,,,ičʼgo,Phonemic
+13-80-28-1,anda1281,Avar (Andalal dialect),1705,микьго,CyrillTrans,eight,,,miƛ̄ʼgo,Phonemic
+13-70-28-1,anda1281,Avar (Andalal dialect),1704,анкьго,CyrillTrans,seven,,,anƛ̄ʼgo,Phonemic
+13-60-28-1,anda1281,Avar (Andalal dialect),1703,анлълъго,CyrillTrans,six,,,anɬ̄go,Phonemic
+13-50-28-1,anda1281,Avar (Andalal dialect),493,щуго,CyrillTrans,five,,,š̄ugo,Phonemic
+13-40-28-1,anda1281,Avar (Andalal dialect),1500,ункъо,CyrillTrans,four,,,unqʼo,Phonemic
+13-20-28-1,anda1281,Avar (Andalal dialect),1498,кІиго,CyrillTrans,two,,,kʼigo,Phonemic
+13-30-28-1,anda1281,Avar (Andalal dialect),492,гьабго,CyrillTrans,three,,,habgo,Phonemic
+13-10-28-1,anda1281,Avar (Andalal dialect),1493,цо,CyrillTrans,one,,,co,Phonemic
+13-0-28-1,anda1281,Avar (Andalal dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-28-1,anda1281,Avar (Andalal dialect),1264,хисде,CyrillTrans,change,,,xisde,Phonemic
+12-920-28-1,anda1281,Avar (Andalal dialect),1558,ралълъараб,CyrillTrans,"like, similar",,,raɬ̄arab,Phonemic
+12-840-28-1,anda1281,Avar (Andalal dialect),1048,мох,CyrillTrans,line,,,mox,Phonemic
+12-850-28-1,anda1281,Avar (Andalal dialect),1667,каратІ,CyrillTrans,hole,,,karatʼ,Phonemic
+12-830-28-1,anda1281,Avar (Andalal dialect),1845,гор,CyrillTrans,"sphere, ball",,,"gor, šar",Phonemic
+12-830-28-3,anda1281,Avar (Andalal dialect),1845,шар,CyrillTrans,"sphere, ball",,,"gor, šar",Phonemic
+12-810-28-1,anda1281,Avar (Andalal dialect),1395,гергенаб,CyrillTrans,round,,,gergenab,Phonemic
+12-820-28-1,anda1281,Avar (Andalal dialect),1467,гор,CyrillTrans,circle,,,"gor, kʼilikʼ",Phonemic
+12-820-28-3,anda1281,Avar (Andalal dialect),1467,кІиликІ,CyrillTrans,circle,,,"gor, kʼilikʼ",Phonemic
+12-780-28-1,anda1281,Avar (Andalal dialect),850,ункъбукІун,CyrillTrans,square,,,unqʼbukʼun,Phonemic
+12-770-28-1,anda1281,Avar (Andalal dialect),1367,гъанч,CyrillTrans,cross,,,ɣanč,Phonemic
+12-760-28-1,anda1281,Avar (Andalal dialect),192,сибилʼ,CyrillTrans,corner,,,sibilʲ,Phonemic
+12-750-28-1,anda1281,Avar (Andalal dialect),1071,кІичІ,CyrillTrans,hook,,,"kʼičʼ, kʼilikʼučʼ",Phonemic
+12-750-28-3,anda1281,Avar (Andalal dialect),1071,кІиликІучІ,CyrillTrans,hook,,,"kʼičʼ, kʼilikʼučʼ",Phonemic
+12-740-28-1,anda1281,Avar (Andalal dialect),297,рекъаб,CyrillTrans,crooked,,,"reqʼab, kʼičʼarab",Phonemic
+12-740-28-3,anda1281,Avar (Andalal dialect),297,кІичІараб,CyrillTrans,crooked,,,"reqʼab, kʼičʼarab",Phonemic
+12-730-28-1,anda1281,Avar (Andalal dialect),1404,битІараб,CyrillTrans,straight,,,bitʼarab,Phonemic
+12-710-28-1,anda1281,Avar (Andalal dialect),1633,чІчІепІараб,CyrillTrans,flat,,,č̄ʼepʼarab,Phonemic
+12-680-28-1,anda1281,Avar (Andalal dialect),193,гІессенаб,CyrillTrans,shallow,,,ʕes̄enab,Phonemic
+12-670-28-1,anda1281,Avar (Andalal dialect),1593,гъваридаб,CyrillTrans,deep,,,ɣʷaridab,Phonemic
+12-650-28-1,anda1281,Avar (Andalal dialect),2249,эренаб,CyrillTrans,thin (in dimension),,,erenab,Phonemic
+12-630-28-1,anda1281,Avar (Andalal dialect),1244,биццатаб,CyrillTrans,thick (in dimension),,,bic̄atab,Phonemic
+12-620-28-1,anda1281,Avar (Andalal dialect),1267,чІедераб,CyrillTrans,narrow,,,čʼederab,Phonemic
+12-610-28-1,anda1281,Avar (Andalal dialect),1243,гІебаб,CyrillTrans,"wide, broad",,,ʕebab,Phonemic
+12-590-28-1,anda1281,Avar (Andalal dialect),1645,къукъаб,CyrillTrans,short,,,qʼuqʼab,Phonemic
+12-580-28-1,anda1281,Avar (Andalal dialect),711,боркІадаб,CyrillTrans,tall,,,borkʼadab,Phonemic
+12-570-28-1,anda1281,Avar (Andalal dialect),1203,ххалатаб,CyrillTrans,long,,,x̄alatab,Phonemic
+12-560-28-1,anda1281,Avar (Andalal dialect),1246,кикаб,CyrillTrans,"small, little",,,kikab,Phonemic
+12-550-28-1,anda1281,Avar (Andalal dialect),1202,кІудаб,CyrillTrans,"large, big",,,kʼudab,Phonemic
+12-540-28-1,anda1281,Avar (Andalal dialect),1506,боцде,CyrillTrans,measure,,,bocde,Phonemic
+12-530-28-1,anda1281,Avar (Andalal dialect),479,бижде,CyrillTrans,grow,,,"bižde, kʼudaw ʕʷede",Phonemic
+12-530-28-3,anda1281,Avar (Andalal dialect),479,кІудав гІведе,CyrillTrans,grow,,,"bižde, kʼudaw ʕʷede",Phonemic
+12-480-28-1,anda1281,Avar (Andalal dialect),1595,къилба,CyrillTrans,south,,,qʼilba,Phonemic
+12-470-28-1,anda1281,Avar (Andalal dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-28-1,anda1281,Avar (Andalal dialect),1817,магъриб,CyrillTrans,west,,,"maɣrib, baqʼ š̄inkʼul rax",Phonemic
+12-460-28-3,anda1281,Avar (Andalal dialect),1817,бакъ щинкІул рах,CyrillTrans,west,,,"maɣrib, baqʼ š̄inkʼul rax",Phonemic
+12-450-28-1,anda1281,Avar (Andalal dialect),1877,машрикъ,CyrillTrans,east,,,"mašriqʼ, baqʼ bak̄ul rax",Phonemic
+12-450-28-3,anda1281,Avar (Andalal dialect),1877,бакъ баккул рах,CyrillTrans,east,,,"mašriqʼ, baqʼ bak̄ul rax",Phonemic
+12-430-28-1,anda1281,Avar (Andalal dialect),1942,хьулбух,CyrillTrans,near (adv),,,x̌ulbux,Phonemic
+12-440-28-1,anda1281,Avar (Andalal dialect),1406,рикІкІад,CyrillTrans,far (adv),,,rik̄ʼad,Phonemic
+12-420-28-1,anda1281,Avar (Andalal dialect),244,мекъаб (рах),CyrillTrans,left (side),,,meqʼab (rax),Phonemic
+12-410-28-1,anda1281,Avar (Andalal dialect),1019,кумараб (рах),CyrillTrans,right (side),,,kumarab (rax),Phonemic
+12-370-28-1,anda1281,Avar (Andalal dialect),1093,бакьулъбакІ,CyrillTrans,"middle, center",,,baƛ̄ʼuɬbakʼ,Phonemic
+12-360-28-1,anda1281,Avar (Andalal dialect),682,рах,CyrillTrans,side,,,rax,Phonemic
+12-353-28-1,anda1281,Avar (Andalal dialect),863,рагІал,CyrillTrans,edge,,,"raʕal, mic̄ʼir",Phonemic
+12-353-28-3,anda1281,Avar (Andalal dialect),863,мицІцІир,CyrillTrans,edge,,,"raʕal, mic̄ʼir",Phonemic
+12-352-28-1,anda1281,Avar (Andalal dialect),372,бегІераб,CyrillTrans,pointed,,,"beʕerab, mic̄ʼir beʕerab",Phonemic
+12-352-28-3,anda1281,Avar (Andalal dialect),372,мицІцІир бегІераб,CyrillTrans,pointed,,,"beʕerab, mic̄ʼir beʕerab",Phonemic
+12-350-28-1,anda1281,Avar (Andalal dialect),742,ахир,CyrillTrans,end,,,"axir, ɬ̄uʕel",Phonemic
+12-350-28-3,anda1281,Avar (Andalal dialect),742,лълъугІел,CyrillTrans,end,,,"axir, ɬ̄uʕel",Phonemic
+12-340-28-1,anda1281,Avar (Andalal dialect),690,ину,CyrillTrans,bottom,,,"inu, ɣʷeƛ̄ʼbakʼ",Phonemic
+12-340-28-3,anda1281,Avar (Andalal dialect),690,гъвекьбакІ,CyrillTrans,bottom,,,"inu, ɣʷeƛ̄ʼbakʼ",Phonemic
+12-320-28-1,anda1281,Avar (Andalal dialect),721,ухго,CyrillTrans,low,,,"uxgo, ʕodobʕan",Phonemic
+12-320-28-3,anda1281,Avar (Andalal dialect),721,гІодобгІан,CyrillTrans,low,,,"uxgo, ʕodobʕan",Phonemic
+12-330-28-1,anda1281,Avar (Andalal dialect),1753,белэр,CyrillTrans,top,,,belʔer,Phonemic
+12-310-28-1,anda1281,Avar (Andalal dialect),1265,эххедагІан,CyrillTrans,high,,,"ex̄edaʕan, borkʼadgo",Phonemic
+12-310-28-3,anda1281,Avar (Andalal dialect),1265,боркІадго,CyrillTrans,high,,,"ex̄edaʕan, borkʼadgo",Phonemic
+12-270-28-1,anda1281,Avar (Andalal dialect),602,бахчун теде,CyrillTrans,"hide, conceal",,,"baxčun tede, biqʼun tede",Phonemic
+12-270-28-3,anda1281,Avar (Andalal dialect),602,бикъун теде,CyrillTrans,"hide, conceal",,,"baxčun tede, biqʼun tede",Phonemic
+12-250-28-1,anda1281,Avar (Andalal dialect),1046,къаде,CyrillTrans,"shut, close",,,qʼade,Phonemic
+12-260-28-1,anda1281,Avar (Andalal dialect),761,аде бачде,CyrillTrans,cover,,,"ade bačde, ade bade",Phonemic
+12-260-28-3,anda1281,Avar (Andalal dialect),761,аде баде,CyrillTrans,cover,,,"ade bačde, ade bade",Phonemic
+12-240-28-1,anda1281,Avar (Andalal dialect),1156,ричІде,CyrillTrans,open,,,"ričʼde, rahde",Phonemic
+12-240-28-3,anda1281,Avar (Andalal dialect),1156,рагьде,CyrillTrans,open,,,"ričʼde, rahde",Phonemic
+12-232-28-1,anda1281,Avar (Andalal dialect),1119,бикьде,CyrillTrans,divide,,,biƛ̄ʼde,Phonemic
+12-230-28-1,anda1281,Avar (Andalal dialect),1359,балалде,CyrillTrans,separate,,,balalde,Phonemic
+12-220-28-1,anda1281,Avar (Andalal dialect),1743,жободе,CyrillTrans,"join, unite",,,"žobode, dande hubude",Phonemic
+12-220-28-3,anda1281,Avar (Andalal dialect),1743,данде гьубуде,CyrillTrans,"join, unite",,,"žobode, dande hubude",Phonemic
+12-213-28-1,anda1281,Avar (Andalal dialect),1576,данде бакІарде,CyrillTrans,pile up,,,dande bakʼarde,Phonemic
+12-212-28-1,anda1281,Avar (Andalal dialect),371,аде босде,CyrillTrans,pick up,,,ade bosde,Phonemic
+12-210-28-1,anda1281,Avar (Andalal dialect),7,бакІарде,CyrillTrans,"collect, gather",,,bakʼarde,Phonemic
+12-170-28-1,anda1281,Avar (Andalal dialect),838,хутІел,CyrillTrans,"remains, left overs",,,"xutʼel, naxe xutʼarab žo",Phonemic
+12-170-28-3,anda1281,Avar (Andalal dialect),838,нахе хутІараб жо,CyrillTrans,"remains, left overs",,,"xutʼel, naxe xutʼarab žo",Phonemic
+12-160-28-1,anda1281,Avar (Andalal dialect),987,хутІде,CyrillTrans,"remain, stay",,,xutʼde,Phonemic
+12-150-28-1,anda1281,Avar (Andalal dialect),1442,эххетун чІчІеде,CyrillTrans,stand,,,ex̄etun č̄ʼede,Phonemic
+12-140-28-1,anda1281,Avar (Andalal dialect),215,вегде,CyrillTrans,lie down,,,wegde,Phonemic
+12-130-28-1,anda1281,Avar (Andalal dialect),1416,гІодов чІчІеде,CyrillTrans,sit,,,ʕodow č̄ʼede,Phonemic
+12-120-28-1,anda1281,Avar (Andalal dialect),998,гьведе,CyrillTrans,put,,,hʷede,Phonemic
+12-110-28-1,anda1281,Avar (Andalal dialect),723,бакІ,CyrillTrans,place,,,bakʼ,Phonemic
+12-80-28-1,anda1281,Avar (Andalal dialect),1591,ад,CyrillTrans,"up, above",,,ad,Phonemic
+12-70-28-1,anda1281,Avar (Andalal dialect),1485,гъвекь,CyrillTrans,under,,,ɣʷeƛ̄ʼ,Phonemic
+12-60-28-1,anda1281,Avar (Andalal dialect),762,къутІиб,CyrillTrans,outside,,,qʼutʼib,Phonemic
+12-50-28-1,anda1281,Avar (Andalal dialect),1606,жаниб,CyrillTrans,"inside, in",,,žanib,Phonemic
+12-41-28-1,anda1281,Avar (Andalal dialect),1883,ццебессаб рах,CyrillTrans,front,,,c̄ebes̄ab rax,Phonemic
+12-40-28-1,anda1281,Avar (Andalal dialect),1882,ццебе,CyrillTrans,before,,,c̄ebe,Phonemic
+12-30-28-1,anda1281,Avar (Andalal dialect),2094,гІодобе,CyrillTrans,"down, below",,,"ʕodobe, bex̄e",Phonemic
+12-30-28-3,anda1281,Avar (Andalal dialect),2094,беххе,CyrillTrans,"down, below",,,"ʕodobe, bex̄e",Phonemic
+12-20-28-1,anda1281,Avar (Andalal dialect),1816,гъуниб,CyrillTrans,beside,,,"ɣunib, x̌ulbux",Phonemic
+12-20-28-3,anda1281,Avar (Andalal dialect),1816,хьулбух,CyrillTrans,beside,,,"ɣunib, x̌ulbux",Phonemic
+12-11-28-1,anda1281,Avar (Andalal dialect),1686,нах,CyrillTrans,behind,,,nax,Phonemic
+12-10-28-1,anda1281,Avar (Andalal dialect),1685,наха,CyrillTrans,after,,,"naxa, naxad",Phonemic
+12-10-28-3,anda1281,Avar (Andalal dialect),1685,нахад,CyrillTrans,after,,,"naxa, naxad",Phonemic
+11-920-28-1,anda1281,Avar (Andalal dialect),1098,цІцІаде,CyrillTrans,weigh,,,c̄ʼade,Phonemic
+11-910-28-1,anda1281,Avar (Andalal dialect),884,бикьде,CyrillTrans,share (distribute),,,biƛ̄ʼde,Phonemic
+11-890-28-1,anda1281,Avar (Andalal dialect),1887,учузаб,CyrillTrans,cheap,,,učuzab,Phonemic
+11-880-28-1,anda1281,Avar (Andalal dialect),1426,хираяб,CyrillTrans,"dear (costly, expensive)",,,xirayab,Phonemic
+11-870-28-1,anda1281,Avar (Andalal dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-28-1,anda1281,Avar (Andalal dialect),752,тукан,CyrillTrans,"store, shop",,,"tukan, magazin",Phonemic
+11-860-28-3,anda1281,Avar (Andalal dialect),752,магазин,CyrillTrans,"store, shop",,,"tukan, magazin",Phonemic
+11-850-28-1,anda1281,Avar (Andalal dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-28-1,anda1281,Avar (Andalal dialect),1082,базарган,CyrillTrans,merchant,,,bazargan,Phonemic
+11-830-28-1,anda1281,Avar (Andalal dialect),2135,бича-хиси,CyrillTrans,"trade, barter",,,biča-xisi,Phonemic
+11-820-28-1,anda1281,Avar (Andalal dialect),1571,бичде,CyrillTrans,sell,,,bičde,Phonemic
+11-810-28-1,anda1281,Avar (Andalal dialect),1869,босде,CyrillTrans,buy,,,bosde,Phonemic
+11-790-28-1,anda1281,Avar (Andalal dialect),733,гІарац щведе,CyrillTrans,earn,,,"ʕarac š̄ʷede, xarž bosde",Phonemic
+11-790-28-3,anda1281,Avar (Andalal dialect),733,харж босде,CyrillTrans,earn,,,"ʕarac š̄ʷede, xarž bosde",Phonemic
+11-780-28-1,anda1281,Avar (Andalal dialect),1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-28-1,anda1281,Avar (Andalal dialect),856,къарзалъ босде,CyrillTrans,hire,,,qʼarzaɬ bosde,Phonemic
+11-690-28-1,anda1281,Avar (Andalal dialect),873,налуг,CyrillTrans,"tax, tribute",,,nalug,Phonemic
+11-660-28-1,anda1281,Avar (Andalal dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-28-1,anda1281,Avar (Andalal dialect),718,кьеде,CyrillTrans,pay (vb),,,ƛ̄ʼede,Phonemic
+11-640-28-1,anda1281,Avar (Andalal dialect),1914,налгьи,CyrillTrans,debt,,,nalhi,Phonemic
+11-630-28-1,anda1281,Avar (Andalal dialect),369,кьеде ккеде,CyrillTrans,owe,,,ƛ̄ʼede k̄ede,Phonemic
+11-620-28-1,anda1281,Avar (Andalal dialect),1823,нах кьедагІан босде,CyrillTrans,borrow,,,nax ƛ̄ʼedaʕan bosde,Phonemic
+11-610-28-1,anda1281,Avar (Andalal dialect),582,къарзалъ кьеде,CyrillTrans,lend,,,"qʼarzaɬ ƛ̄ʼede, nax ƛ̄ʼedaʕan ƛ̄ʼede",Phonemic
+11-610-28-3,anda1281,Avar (Andalal dialect),582,нах кьедагІан кьеде,CyrillTrans,lend,,,"qʼarzaɬ ƛ̄ʼede, nax ƛ̄ʼedaʕan ƛ̄ʼede",Phonemic
+11-540-28-1,anda1281,Avar (Andalal dialect),1774,барахщарав,CyrillTrans,"avaricious, stingy",,,baraxš̄araw,Phonemic
+11-530-28-1,anda1281,Avar (Andalal dialect),1934,гьардухан,CyrillTrans,beggar,,,harduxan,Phonemic
+11-520-28-1,anda1281,Avar (Andalal dialect),1674,мискинав,CyrillTrans,poor,,,miskinaw,Phonemic
+11-510-28-1,anda1281,Avar (Andalal dialect),712,бечедав,CyrillTrans,rich,,,bečedaw,Phonemic
+11-440-28-1,anda1281,Avar (Andalal dialect),1867,шагьи,CyrillTrans,coin,,,"šahi, habbasi",Phonemic
+11-440-28-3,anda1281,Avar (Andalal dialect),1867,гьаббаси,CyrillTrans,coin,,,"šahi, habbasi",Phonemic
+11-430-28-1,anda1281,Avar (Andalal dialect),1559,гІарац,CyrillTrans,money,,,ʕarac,Phonemic
+11-340-28-1,anda1281,Avar (Andalal dialect),1095,биччаде,CyrillTrans,"release, let go",,,"bič̄ade, bič̄antede",Phonemic
+11-340-28-3,anda1281,Avar (Andalal dialect),1095,биччантеде,CyrillTrans,"release, let go",,,"bič̄ade, bič̄antede",Phonemic
+11-330-28-1,anda1281,Avar (Andalal dialect),1660,хІведе,CyrillTrans,lose,,,ħʷede,Phonemic
+11-320-28-1,anda1281,Avar (Andalal dialect),719,батде,CyrillTrans,find,,,batde,Phonemic
+11-310-28-1,anda1281,Avar (Andalal dialect),1468,балагьде,CyrillTrans,"seek, look for",,,balahde,Phonemic
+11-280-28-1,anda1281,Avar (Andalal dialect),44,зарал гьубуде,CyrillTrans,"harm, injure, damage",,,zaral hubude,Phonemic
+11-270-28-1,anda1281,Avar (Andalal dialect),681,биххде,CyrillTrans,destroy,,,bix̄de,Phonemic
+11-250-28-1,anda1281,Avar (Andalal dialect),2008,хвассарде,CyrillTrans,"save, rescue",,,"xʷas̄arde, xʷas̄ar huwude",Phonemic
+11-250-28-3,anda1281,Avar (Andalal dialect),2008,хвассар гьувуде,CyrillTrans,"save, rescue",,,"xʷas̄arde, xʷas̄ar huwude",Phonemic
+11-240-28-1,anda1281,Avar (Andalal dialect),1997,цІунде,CyrillTrans,"preserve, look after",,,cʼunde,Phonemic
+11-220-28-1,anda1281,Avar (Andalal dialect),85,нахе кьеде,CyrillTrans,give back,,,naxe ƛ̄ʼede,Phonemic
+11-210-28-1,anda1281,Avar (Andalal dialect),1447,кьеде,CyrillTrans,give,,,ƛ̄ʼede,Phonemic
+11-180-28-1,anda1281,Avar (Andalal dialect),738,жо,CyrillTrans,thing,,,žo,Phonemic
+11-170-28-1,anda1281,Avar (Andalal dialect),1477,цІунде,CyrillTrans,"keep, retain",,,cʼunde,Phonemic
+11-160-28-1,anda1281,Avar (Andalal dialect),694,щведе,CyrillTrans,"get, obtain",,,š̄ʷede,Phonemic
+11-150-28-1,anda1281,Avar (Andalal dialect),1448,ккведе,CyrillTrans,hold,,,k̄ʷede,Phonemic
+11-140-28-1,anda1281,Avar (Andalal dialect),2021,хапде,CyrillTrans,"seize, grasp",,,xapde,Phonemic
+11-130-28-1,anda1281,Avar (Andalal dialect),1749,босде,CyrillTrans,take,,,bosde,Phonemic
+11-120-28-1,anda1281,Avar (Andalal dialect),684,кверщел босде,CyrillTrans,"own, possess",,,"kʷerš̄el bosde, kʷerš̄el hubude",Phonemic
+11-120-28-3,anda1281,Avar (Andalal dialect),684,кверщел гьубуде,CyrillTrans,"own, possess",,,"kʷerš̄el bosde, kʷerš̄el hubude",Phonemic
+11-110-28-1,anda1281,Avar (Andalal dialect),773,буъде,CyrillTrans,have,,,buʔde,Phonemic
+10-920-28-1,anda1281,Avar (Andalal dialect),1922,рагІалда бачде,CyrillTrans,land (vb),,,raʕalda bačde,Phonemic
+10-910-28-1,anda1281,Avar (Andalal dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-28-1,anda1281,Avar (Andalal dialect),1870,якорь,CyrillTrans,anchor,,,yakorʲ,Phonemic
+10-880-28-1,anda1281,Avar (Andalal dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-28-1,anda1281,Avar (Andalal dialect),184,гІер,CyrillTrans,mast,,,ʕer,Phonemic
+10-860-28-1,anda1281,Avar (Andalal dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-28-1,anda1281,Avar (Andalal dialect),1849,хваде,CyrillTrans,row (vb),,,xʷade,Phonemic
+10-851-28-1,anda1281,Avar (Andalal dialect),234,бугьун,CyrillTrans,paddle (noun),,,buhun,Phonemic
+10-850-28-1,anda1281,Avar (Andalal dialect),108,бугьун,CyrillTrans,oar,,,buhun,Phonemic
+10-840-28-1,anda1281,Avar (Andalal dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-28-1,anda1281,Avar (Andalal dialect),416,раса,CyrillTrans,outrigger,,,rasa,Phonemic
+10-831-28-1,anda1281,Avar (Andalal dialect),1970,раса,CyrillTrans,canoe,,,rasa,Phonemic
+10-830-28-1,anda1281,Avar (Andalal dialect),1844,раса,CyrillTrans,boat,,,rasa,Phonemic
+10-810-28-1,anda1281,Avar (Andalal dialect),740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-28-1,anda1281,Avar (Andalal dialect),14,рукь,CyrillTrans,yoke,,,ruƛ̄ʼ,Phonemic
+10-770-28-1,anda1281,Avar (Andalal dialect),1769,хІусс,CyrillTrans,axle,,,ħus̄,Phonemic
+10-760-28-1,anda1281,Avar (Andalal dialect),710,гьикибер,CyrillTrans,wheel,,,hikiber,Phonemic
+10-750-28-1,anda1281,Avar (Andalal dialect),122,гьурку,CyrillTrans,"carriage, wagon, cart",,,hurku,Phonemic
+10-740-28-1,anda1281,Avar (Andalal dialect),1011,кьо,CyrillTrans,bridge,,,ƛ̄ʼo,Phonemic
+10-720-28-1,anda1281,Avar (Andalal dialect),2252,къотІараб нухІ,CyrillTrans,path,,,qʼotʼarab nuħ,Phonemic
+10-710-28-1,anda1281,Avar (Andalal dialect),667,нухІ,CyrillTrans,road,,,nuħ,Phonemic
+10-670-28-1,anda1281,Avar (Andalal dialect),1452,тункде,CyrillTrans,"push, shove",,,tunkde,Phonemic
+10-660-28-1,anda1281,Avar (Andalal dialect),367,чода рокІон венде,CyrillTrans,ride,,,čoda rokʼon wende,Phonemic
+10-650-28-1,anda1281,Avar (Andalal dialect),741,машиналъ венде,CyrillTrans,drive,,,mašinaɬ wende,Phonemic
+10-640-28-1,anda1281,Avar (Andalal dialect),43,бачде,CyrillTrans,lead (vb),,,bačde,Phonemic
+10-630-28-1,anda1281,Avar (Andalal dialect),1127,битІде,CyrillTrans,send,,,bitʼde,Phonemic
+10-620-28-1,anda1281,Avar (Andalal dialect),692,босун бигьде,CyrillTrans,bring,,,bosun bihde,Phonemic
+10-615-28-1,anda1281,Avar (Andalal dialect),415,къваликь ккун босде,CyrillTrans,carry-underarm,,,qʼʷaliƛ̄ʼ k̄un bosde,Phonemic
+10-614-28-1,anda1281,Avar (Andalal dialect),414,баччде,CyrillTrans,carry-on-head,,,bač̄de,Phonemic
+10-613-28-1,anda1281,Avar (Andalal dialect),413,гъажазда ад гьун босде,CyrillTrans,carry-on-shoulder,,,ɣažazda ad hun bosde,Phonemic
+10-612-28-1,anda1281,Avar (Andalal dialect),412,квераз босде,CyrillTrans,carry-in-hand,,,kʷeraz bosde,Phonemic
+10-610-28-1,anda1281,Avar (Andalal dialect),700,босде,CyrillTrans,carry (bear),,,bosde,Phonemic
+10-570-28-1,anda1281,Avar (Andalal dialect),749,жаниве венде,CyrillTrans,enter,,,"žaniwe wende, žaniwe wihde",Phonemic
+10-570-28-3,anda1281,Avar (Andalal dialect),749,жаниве вигьде,CyrillTrans,enter,,,"žaniwe wende, žaniwe wihde",Phonemic
+10-560-28-1,anda1281,Avar (Andalal dialect),1778,цохе щведе,CyrillTrans,approach,,,coxe š̄ʷede,Phonemic
+10-550-28-1,anda1281,Avar (Andalal dialect),1387,щведе,CyrillTrans,"reach, arrive",,,š̄ʷede,Phonemic
+10-530-28-1,anda1281,Avar (Andalal dialect),1047,нах-нах чІчІеде,CyrillTrans,pursue,,,nax-nax č̄ʼede,Phonemic
+10-520-28-1,anda1281,Avar (Andalal dialect),1085,нах вилълъенде,CyrillTrans,follow,,,nax wiɬ̄ende,Phonemic
+10-510-28-1,anda1281,Avar (Andalal dialect),956,лълъутде,CyrillTrans,flee,,,ɬ̄utde,Phonemic
+10-491-28-1,anda1281,Avar (Andalal dialect),485,бахчде,CyrillTrans,disappear,,,"baxčde, ɬ̄uʕde, weʕde",Phonemic
+10-491-28-3,anda1281,Avar (Andalal dialect),485,лълъугІде,CyrillTrans,disappear,,,"baxčde, ɬ̄uʕde, weʕde",Phonemic
+10-491-28-5,anda1281,Avar (Andalal dialect),485,вегІде,CyrillTrans,disappear,,,"baxčde, ɬ̄uʕde, weʕde",Phonemic
+10-490-28-1,anda1281,Avar (Andalal dialect),1752,нахе венде,CyrillTrans,"go away, depart",,,"naxe wende, naxe gerende",Phonemic
+10-490-28-3,anda1281,Avar (Andalal dialect),1752,нахе геренде,CyrillTrans,"go away, depart",,,"naxe wende, naxe gerende",Phonemic
+10-481-28-1,anda1281,Avar (Andalal dialect),581,нахе вуссде,CyrillTrans,come back,,,naxe wus̄de,Phonemic
+10-480-28-1,anda1281,Avar (Andalal dialect),1446,вигьде,CyrillTrans,come,,,wihde,Phonemic
+10-474-28-1,anda1281,Avar (Andalal dialect),1107,къутІиве венде,CyrillTrans,go out,,,qʼutʼiwe wende,Phonemic
+10-473-28-1,anda1281,Avar (Andalal dialect),2014,гІодове венде,CyrillTrans,go down,,,"ʕodowe wende, ʕodowe weɬ̄ende",Phonemic
+10-473-28-3,anda1281,Avar (Andalal dialect),2014,гІодове велълъенде,CyrillTrans,go down,,,"ʕodowe wende, ʕodowe weɬ̄ende",Phonemic
+10-472-28-1,anda1281,Avar (Andalal dialect),1102,аде вахде,CyrillTrans,climb,,,ade waxde,Phonemic
+10-470-28-1,anda1281,Avar (Andalal dialect),695,вилълъенде,CyrillTrans,go,,,"wiɬ̄ende, wende",Phonemic
+10-470-28-3,anda1281,Avar (Andalal dialect),695,венде,CyrillTrans,go,,,"wiɬ̄ende, wende",Phonemic
+10-471-28-1,anda1281,Avar (Andalal dialect),705,аде венде,CyrillTrans,go up,,,ade wende,Phonemic
+10-460-28-1,anda1281,Avar (Andalal dialect),1519,лълъутде,CyrillTrans,run,,,ɬ̄utde,Phonemic
+10-451-28-1,anda1281,Avar (Andalal dialect),366,рекъде,CyrillTrans,limp,,,reqʼde,Phonemic
+10-450-28-1,anda1281,Avar (Andalal dialect),1443,рилълъенде,CyrillTrans,walk,,,riɬ̄ende,Phonemic
+10-440-28-1,anda1281,Avar (Andalal dialect),1879,висантде,CyrillTrans,dance,,,"wisantde, risandi baxde",Phonemic
+10-440-28-3,anda1281,Avar (Andalal dialect),1879,рисанди бахде,CyrillTrans,dance,,,"wisantde, risandi baxde",Phonemic
+10-431-28-1,anda1281,Avar (Andalal dialect),1135,малал раде,CyrillTrans,kick,,,malal rade,Phonemic
+10-430-28-1,anda1281,Avar (Andalal dialect),1829,кІасде,CyrillTrans,"jump, leap",,,kʼasde,Phonemic
+10-420-28-1,anda1281,Avar (Andalal dialect),1324,кІуржде,CyrillTrans,"slide, slip",,,"kʼuržde, xuštʼde",Phonemic
+10-420-28-3,anda1281,Avar (Andalal dialect),1324,хуштІде,CyrillTrans,"slide, slip",,,"kʼuržde, xuštʼde",Phonemic
+10-413-28-1,anda1281,Avar (Andalal dialect),296,гІодов кІусде,CyrillTrans,crouch,,,ʕodow kʼusde,Phonemic
+10-412-28-1,anda1281,Avar (Andalal dialect),66,накал чІваде,CyrillTrans,kneel,,,nakal čʼʷade,Phonemic
+10-410-28-1,anda1281,Avar (Andalal dialect),96,хурщде,CyrillTrans,"creep, crawl",,,xurš̄de,Phonemic
+10-380-28-1,anda1281,Avar (Andalal dialect),175,пведе,CyrillTrans,blow,,,pʷede,Phonemic
+10-370-28-1,anda1281,Avar (Andalal dialect),1441,вокъде,CyrillTrans,fly (vb),,,"woqʼde, woržde",Phonemic
+10-370-28-3,anda1281,Avar (Andalal dialect),1441,воржде,CyrillTrans,fly (vb),,,"woqʼde, woržde",Phonemic
+10-360-28-1,anda1281,Avar (Andalal dialect),787,лълъеде,CyrillTrans,sail (vb),,,ɬ̄edde,Phonemic
+10-352-28-1,anda1281,Avar (Andalal dialect),365,чвах-чвахде,CyrillTrans,splash,,,čʷax-čʷaxde,Phonemic
+10-351-28-1,anda1281,Avar (Andalal dialect),119,лъадалъ кІасде,CyrillTrans,dive,,,ɬ̄adaɬ kʼasde,Phonemic
+10-350-28-1,anda1281,Avar (Andalal dialect),1439,лълъедде,CyrillTrans,swim,,,ɬ̄edde,Phonemic
+10-340-28-1,anda1281,Avar (Andalal dialect),1574,лълъин хваде,CyrillTrans,float,,,ɬ̄in xʷade,Phonemic
+10-330-28-1,anda1281,Avar (Andalal dialect),1088,гъанкъде,CyrillTrans,sink,,,ɣanqʼde,Phonemic
+10-320-28-1,anda1281,Avar (Andalal dialect),2003,чваххде,CyrillTrans,flow,,,čʷax̄de,Phonemic
+10-260-28-1,anda1281,Avar (Andalal dialect),1909,кІобокІде,CyrillTrans,shake,,,kʼobokʼde,Phonemic
+10-252-28-1,anda1281,Avar (Andalal dialect),702,ккведе,CyrillTrans,catch (ball),,,k̄ʷede,Phonemic
+10-250-28-1,anda1281,Avar (Andalal dialect),1456,реххде,CyrillTrans,throw,,,rex̄de,Phonemic
+10-240-28-1,anda1281,Avar (Andalal dialect),2253,тІанкІде,CyrillTrans,drip,,,tʼankʼde,Phonemic
+10-230-28-1,anda1281,Avar (Andalal dialect),1280,гІодове ккеде,CyrillTrans,fall,,,ʕodowe k̄ede,Phonemic
+10-220-28-1,anda1281,Avar (Andalal dialect),501,аде цІцІаде,CyrillTrans,"raise, lift",,,"ade c̄ʼade, ade bosde",Phonemic
+10-220-28-3,anda1281,Avar (Andalal dialect),501,аде босде,CyrillTrans,"raise, lift",,,"ade c̄ʼade, ade bosde",Phonemic
+10-210-28-1,anda1281,Avar (Andalal dialect),568,аде рахде,CyrillTrans,rise,,,ade raxde,Phonemic
+10-170-28-1,anda1281,Avar (Andalal dialect),430,кьурде,CyrillTrans,twist,,,ƛ̄ʼurde,Phonemic
+10-160-28-1,anda1281,Avar (Andalal dialect),808,тІанкІде,CyrillTrans,drop (vb),,,tʼankʼde,Phonemic
+10-150-28-1,anda1281,Avar (Andalal dialect),827,тирде,CyrillTrans,roll,,,tirde,Phonemic
+10-140-28-1,anda1281,Avar (Andalal dialect),1113,женде,CyrillTrans,"wind, wrap",,,žende,Phonemic
+10-130-28-1,anda1281,Avar (Andalal dialect),1445,тирде,CyrillTrans,turn around,,,tirde,Phonemic
+10-120-28-1,anda1281,Avar (Andalal dialect),1588,адехун тирде,CyrillTrans,turn over,,,adexun tirde,Phonemic
+10-110-28-1,anda1281,Avar (Andalal dialect),765,вилълъенде,CyrillTrans,move,,,"wiɬ̄ende, waɣawačarde",Phonemic
+10-110-28-3,anda1281,Avar (Andalal dialect),765,вагъавачарде,CyrillTrans,move,,,"wiɬ̄ende, waɣawačarde",Phonemic
+9-890-28-1,anda1281,Avar (Andalal dialect),2001,ссурат бахде (сирид),CyrillTrans,paint (vb),,,s̄urat baxde (sirid),Phonemic
+9-840-28-1,anda1281,Avar (Andalal dialect),1979,лълъини,CyrillTrans,chisel,,,ɬ̄ini,Phonemic
+9-880-28-1,anda1281,Avar (Andalal dialect),647,ссир,CyrillTrans,paint (noun),,,"s̄ir, ɣirmiz",Phonemic
+9-880-28-3,anda1281,Avar (Andalal dialect),647,гъирмиз,CyrillTrans,paint (noun),,,"s̄ir, ɣirmiz",Phonemic
+9-830-28-1,anda1281,Avar (Andalal dialect),1002,статуя,CyrillTrans,statue,,,statuya,Phonemic
+9-820-28-1,anda1281,Avar (Andalal dialect),914,скульптор,CyrillTrans,sculptor,,,skuljptor,Phonemic
+9-810-28-1,anda1281,Avar (Andalal dialect),228,къотІун босде,CyrillTrans,carve,,,"qʼotʼun bosde, qʼotʼde",Phonemic
+9-810-28-3,anda1281,Avar (Andalal dialect),228,къотІде,CyrillTrans,carve,,,"qʼotʼun bosde, qʼotʼde",Phonemic
+9-791-28-1,anda1281,Avar (Andalal dialect),360,гьури гьубуде,CyrillTrans,fan (vb),,,huri hubude,Phonemic
+9-790-28-1,anda1281,Avar (Andalal dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilʲator,Phonemic
+9-780-28-1,anda1281,Avar (Andalal dialect),293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-28-1,anda1281,Avar (Andalal dialect),292,габа,CyrillTrans,rug,,,"gaba, tʼans̄a",Phonemic
+9-771-28-3,anda1281,Avar (Andalal dialect),292,тІанс̄а,CyrillTrans,rug,,,"gaba, tʼans̄a",Phonemic
+9-770-28-1,anda1281,Avar (Andalal dialect),195,сумало,CyrillTrans,mat,,,sumalo,Phonemic
+9-760-28-1,anda1281,Avar (Andalal dialect),1539,мугъало,CyrillTrans,basket,,,"muɣalo, čʼep",Phonemic
+9-760-28-3,anda1281,Avar (Andalal dialect),1539,чІеп,CyrillTrans,basket,,,"muɣalo, čʼep",Phonemic
+9-750-28-1,anda1281,Avar (Andalal dialect),1729,бессде,CyrillTrans,"weave, plait",,,bes̄de,Phonemic
+9-740-28-1,anda1281,Avar (Andalal dialect),604,цІцІер,CyrillTrans,glass,,,c̄ʼer,Phonemic
+9-730-28-1,anda1281,Avar (Andalal dialect),1399,хІатІ,CyrillTrans,clay,,,ħatʼ,Phonemic
+9-720-28-1,anda1281,Avar (Andalal dialect),289,куц тІеде,CyrillTrans,mold (clay etc),,,kuc tʼede,Phonemic
+9-710-28-1,anda1281,Avar (Andalal dialect),359,щигІихан,CyrillTrans,potter,,,š̄iʕixan,Phonemic
+9-690-28-1,anda1281,Avar (Andalal dialect),358,хахІабмахх,CyrillTrans,"tin, tinplate",,,xaħabmax̄,Phonemic
+9-680-28-1,anda1281,Avar (Andalal dialect),627,тІухьи,CyrillTrans,lead (noun),,,tʼux̌i,Phonemic
+9-670-28-1,anda1281,Avar (Andalal dialect),621,махх,CyrillTrans,iron,,,max̄,Phonemic
+9-660-28-1,anda1281,Avar (Andalal dialect),1825,пахь,CyrillTrans,"copper, bronze",,,pax̌,Phonemic
+9-650-28-1,anda1281,Avar (Andalal dialect),759,гІарац,CyrillTrans,silver,,,ʕarac,Phonemic
+9-640-28-1,anda1281,Avar (Andalal dialect),1369,месед,CyrillTrans,gold,,,mesed,Phonemic
+9-630-28-1,anda1281,Avar (Andalal dialect),211,биун тІеде,CyrillTrans,cast (metals),,,biun tʼede,Phonemic
+9-620-28-1,anda1281,Avar (Andalal dialect),1648,рач,CyrillTrans,anvil,,,rač,Phonemic
+9-610-28-1,anda1281,Avar (Andalal dialect),288,къебелли,CyrillTrans,forge,,,qʼebelli,Phonemic
+9-600-28-1,anda1281,Avar (Andalal dialect),1001,къебед,CyrillTrans,"smith, blacksmith",,,qʼebed,Phonemic
+9-560-28-1,anda1281,Avar (Andalal dialect),1069,сину,CyrillTrans,glue,,,sinu,Phonemic
+9-500-28-1,anda1281,Avar (Andalal dialect),502,магІ,CyrillTrans,nail,,,maʕ,Phonemic
+9-490-28-1,anda1281,Avar (Andalal dialect),1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-28-1,anda1281,Avar (Andalal dialect),1948,хухадуро,CyrillTrans,saw,,,xuxaduro,Phonemic
+9-461-28-1,anda1281,Avar (Andalal dialect),46,бикІкІде,CyrillTrans,hollow out,,,bik̄ʼde,Phonemic
+9-460-28-1,anda1281,Avar (Andalal dialect),1501,каратІ,CyrillTrans,bore,,,karatʼ,Phonemic
+9-440-28-1,anda1281,Avar (Andalal dialect),1840,баде,CyrillTrans,build,,,"bade, hubude",Phonemic
+9-440-28-3,anda1281,Avar (Andalal dialect),1840,гьубуде,CyrillTrans,build,,,"bade, hubude",Phonemic
+9-430-28-1,anda1281,Avar (Andalal dialect),1042,цІулал устар,CyrillTrans,carpenter,,,cʼulal ustar,Phonemic
+9-422-28-1,anda1281,Avar (Andalal dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-28-1,anda1281,Avar (Andalal dialect),245,тІимитІ,CyrillTrans,broom,,,tʼimitʼ,Phonemic
+9-360-28-1,anda1281,Avar (Andalal dialect),1453,чурде,CyrillTrans,wash,,,čurde,Phonemic
+9-370-28-1,anda1281,Avar (Andalal dialect),230,лълъухаде,CyrillTrans,sweep,,,ɬ̄uxade,Phonemic
+9-350-28-1,anda1281,Avar (Andalal dialect),1487,тІеде,CyrillTrans,pour,,,tʼede,Phonemic
+9-343-28-1,anda1281,Avar (Andalal dialect),1414,цІцІведе,CyrillTrans,"squeeze, wring",,,c̄ʼʷede,Phonemic
+9-342-28-1,anda1281,Avar (Andalal dialect),1913,мерхьде,CyrillTrans,press,,,"merx̌de, merk̄ʼde",Phonemic
+9-342-28-3,anda1281,Avar (Andalal dialect),1913,меркІкІде,CyrillTrans,press,,,"merx̌de, merk̄ʼde",Phonemic
+9-341-28-1,anda1281,Avar (Andalal dialect),357,бахІаде,CyrillTrans,hang up,,,baħade,Phonemic
+9-340-28-1,anda1281,Avar (Andalal dialect),38,тІибитІде,CyrillTrans,spread out,,,tʼibitʼde,Phonemic
+9-330-28-1,anda1281,Avar (Andalal dialect),1455,цІцІаде,CyrillTrans,pull,,,c̄ʼade,Phonemic
+9-320-28-1,anda1281,Avar (Andalal dialect),214,аде цІцІаде,CyrillTrans,stretch,,,ade c̄ʼade,Phonemic
+9-310-28-1,anda1281,Avar (Andalal dialect),1449,лъулъаде,CyrillTrans,"rub, wipe",,,"ɬuɬade, inɬ̄de",Phonemic
+9-310-28-3,anda1281,Avar (Andalal dialect),1449,инлълъде,CyrillTrans,"rub, wipe",,,"ɬuɬade, inɬ̄de",Phonemic
+9-290-28-1,anda1281,Avar (Andalal dialect),291,хал ччукІде,CyrillTrans,"flay, skin",,,xal č̄ukʼde,Phonemic
+9-280-28-1,anda1281,Avar (Andalal dialect),1735,тІведе,CyrillTrans,tear,,,tʼʷede,Phonemic
+9-270-28-1,anda1281,Avar (Andalal dialect),1437,бичІде,CyrillTrans,split,,,bičʼde,Phonemic
+9-261-28-1,anda1281,Avar (Andalal dialect),588,бекараб,CyrillTrans,broken,,,bekarab,Phonemic
+9-260-28-1,anda1281,Avar (Andalal dialect),680,бекде,CyrillTrans,break,,,bekde,Phonemic
+9-250-28-1,anda1281,Avar (Andalal dialect),677,гІиштІи,CyrillTrans,ax,,,ʕištʼi,Phonemic
+9-251-28-1,anda1281,Avar (Andalal dialect),290,гІиштІи,CyrillTrans,adze,,,ʕištʼi,Phonemic
+9-240-28-1,anda1281,Avar (Andalal dialect),356,хІисуло,CyrillTrans,"scissors, shears",,,ħisulo,Phonemic
+9-230-28-1,anda1281,Avar (Andalal dialect),1352,нус,CyrillTrans,knife,,,nus,Phonemic
+9-223-28-1,anda1281,Avar (Andalal dialect),1434,къаде,CyrillTrans,stab,,,qʼade,Phonemic
+9-222-28-1,anda1281,Avar (Andalal dialect),155,къотІде,CyrillTrans,"chop, hew",,,"qʼotʼde, bus̄de",Phonemic
+9-222-28-3,anda1281,Avar (Andalal dialect),155,бус̄де,CyrillTrans,"chop, hew",,,"qʼotʼde, bus̄de",Phonemic
+9-221-28-1,anda1281,Avar (Andalal dialect),355,къукъ гьубуде,CyrillTrans,cut down,,,qʼuqʼ hubude,Phonemic
+9-220-28-1,anda1281,Avar (Andalal dialect),1432,къотІде,CyrillTrans,cut,,,"qʼotʼde, qʼuncʼde",Phonemic
+9-220-28-3,anda1281,Avar (Andalal dialect),1432,къунцІде,CyrillTrans,cut,,,"qʼotʼde, qʼuncʼde",Phonemic
+9-211-28-1,anda1281,Avar (Andalal dialect),354,чухІде,CyrillTrans,pound with fist,,,čuħde,Phonemic
+9-210-28-1,anda1281,Avar (Andalal dialect),2133,кьапІде,CyrillTrans,"strike (hit, beat)",,,ƛ̄ʼapʼde,Phonemic
+9-192-28-1,anda1281,Avar (Andalal dialect),760,гарацІцІ,CyrillTrans,knot (noun),,,garac̄ʼ,Phonemic
+9-190-28-1,anda1281,Avar (Andalal dialect),1218,квар,CyrillTrans,"rope, cord",,,"kʷar, rux̌en",Phonemic
+9-190-28-3,anda1281,Avar (Andalal dialect),1218,рухьен,CyrillTrans,"rope, cord",,,"kʷar, rux̌en",Phonemic
+9-180-28-1,anda1281,Avar (Andalal dialect),1627,рахасс,CyrillTrans,chain,,,raxas̄,Phonemic
+9-161-28-1,anda1281,Avar (Andalal dialect),352,бичде,CyrillTrans,untie,,,bičde,Phonemic
+9-160-28-1,anda1281,Avar (Andalal dialect),1917,бухьде,CyrillTrans,"tie, bind",,,bux̌de,Phonemic
+9-150-28-1,anda1281,Avar (Andalal dialect),1470,сукІде,CyrillTrans,fold,,,sukʼde,Phonemic
+9-140-28-1,anda1281,Avar (Andalal dialect),2004,кІичІдубуде,CyrillTrans,bend,,,kʼičʼdubude,Phonemic
+9-120-28-1,anda1281,Avar (Andalal dialect),984,хІалтІи,CyrillTrans,work,,,ħaltʼi,Phonemic
+9-110-28-1,anda1281,Avar (Andalal dialect),2575,гьубуде,CyrillTrans,"do, make",,,hubude,Phonemic
+8-980-28-1,anda1281,Avar (Andalal dialect),641,бацІил угъур,CyrillTrans,mushroom,,,bacʼil uɣur,Phonemic
+8-970-28-1,anda1281,Avar (Andalal dialect),33,мичІчІ,CyrillTrans,nettle,,,mič̄ʼ,Phonemic
+8-941-28-1,anda1281,Avar (Andalal dialect),146,чакрил нуцІцІи,CyrillTrans,sugar cane,,,čakril nuc̄ʼi,Phonemic
+8-940-28-1,anda1281,Avar (Andalal dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-28-1,anda1281,Avar (Andalal dialect),864,хабах,CyrillTrans,"pumpkin, squash",,,xabax,Phonemic
+8-930-28-1,anda1281,Avar (Andalal dialect),411,хабах,CyrillTrans,gourd,,,xabax,Phonemic
+8-910-28-1,anda1281,Avar (Andalal dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-28-1,anda1281,Avar (Andalal dialect),346,инжиралъул гъветІ,CyrillTrans,banyan,,,inžiraɬul ɣʷetʼ,Phonemic
+8-840-28-1,anda1281,Avar (Andalal dialect),868,бананалъул гъветІ,CyrillTrans,banana tree,,,bananaɬul ɣʷetʼ,Phonemic
+8-830-28-1,anda1281,Avar (Andalal dialect),1126,цитрусалъул пих,CyrillTrans,citrus fruit,,,citrusaɬul pix,Phonemic
+8-820-28-1,anda1281,Avar (Andalal dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-28-1,anda1281,Avar (Andalal dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-28-1,anda1281,Avar (Andalal dialect),345,лъен,CyrillTrans,sap,,,ɬen,Phonemic
+8-750-28-1,anda1281,Avar (Andalal dialect),1204,макъар,CyrillTrans,bark,,,maqʼar,Phonemic
+8-740-28-1,anda1281,Avar (Andalal dialect),409,кІикІвекьаб чІил,CyrillTrans,forked branch,,,kʼikʼʷeƛ̄ʼab čʼil,Phonemic
+8-730-28-1,anda1281,Avar (Andalal dialect),344,гъотІол хІуби,CyrillTrans,tree trunk,,,ɣotʼol ħubi,Phonemic
+8-720-28-1,anda1281,Avar (Andalal dialect),241,хІехь,CyrillTrans,tree stump,,,ħex̌,Phonemic
+8-691-28-1,anda1281,Avar (Andalal dialect),1124,мушдук,CyrillTrans,pipe,,,mušduk,Phonemic
+8-690-28-1,anda1281,Avar (Andalal dialect),1689,тамакудул кІкІуй,CyrillTrans,smoke (tobacco),,,tamakudul k̄ʼuy,Phonemic
+8-680-28-1,anda1281,Avar (Andalal dialect),974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-28-1,anda1281,Avar (Andalal dialect),343,гъабу,CyrillTrans,vine,,,"ɣabu, ɣal",Phonemic
+8-670-28-3,anda1281,Avar (Andalal dialect),343,гъал,CyrillTrans,vine,,,"ɣabu, ɣal",Phonemic
+8-660-28-1,anda1281,Avar (Andalal dialect),968,миркил гьирк,CyrillTrans,acorn,,,mirkil hirk,Phonemic
+8-650-28-1,anda1281,Avar (Andalal dialect),1915,йолкадул гъветІ,CyrillTrans,fir,,,yolkadul ɣʷetʼ,Phonemic
+8-640-28-1,anda1281,Avar (Andalal dialect),1740,накІкІ,CyrillTrans,pine,,,nak̄ʼ,Phonemic
+8-630-28-1,anda1281,Avar (Andalal dialect),1855,нихІи,CyrillTrans,birch,,,niħi,Phonemic
+8-620-28-1,anda1281,Avar (Andalal dialect),1950,чинари,CyrillTrans,beech,,,činari,Phonemic
+8-610-28-1,anda1281,Avar (Andalal dialect),644,мик,CyrillTrans,oak,,,mik,Phonemic
+8-600-28-1,anda1281,Avar (Andalal dialect),906,гъветІ,CyrillTrans,tree,,,ɣʷetʼ,Phonemic
+8-570-28-1,anda1281,Avar (Andalal dialect),239,тІе,CyrillTrans,flower,,,tʼe,Phonemic
+8-560-28-1,anda1281,Avar (Andalal dialect),628,эмех,CyrillTrans,leaf,,,emex,Phonemic
+8-550-28-1,anda1281,Avar (Andalal dialect),1531,чІил,CyrillTrans,branch,,,čʼil,Phonemic
+8-540-28-1,anda1281,Avar (Andalal dialect),670,кьибилʼ,CyrillTrans,root,,,ƛ̄ʼibilʲ,Phonemic
+8-531-28-1,anda1281,Avar (Andalal dialect),1486,гІведе гьубуде,CyrillTrans,plant (vb),,,ʕʷede hubude,Phonemic
+8-520-28-1,anda1281,Avar (Andalal dialect),342,букъараб ххер,CyrillTrans,hay,,,buqʼarab x̄er,Phonemic
+8-530-28-1,anda1281,Avar (Andalal dialect),653,ххер,CyrillTrans,plant (noun),,,"x̄er, bižarab žo",Phonemic
+8-530-28-3,anda1281,Avar (Andalal dialect),653,бижараб жо,CyrillTrans,plant (noun),,,"x̄er, bižarab žo",Phonemic
+8-510-28-1,anda1281,Avar (Andalal dialect),606,ххер,CyrillTrans,grass,,,x̄er,Phonemic
+8-480-28-1,anda1281,Avar (Andalal dialect),926,пиринчІ,CyrillTrans,rice,,,pirinčʼ,Phonemic
+8-470-28-1,anda1281,Avar (Andalal dialect),506,цІцІоросоролълъ,CyrillTrans,"maize, corn",,,c̄ʼorosoroɬ̄,Phonemic
+8-460-28-1,anda1281,Avar (Andalal dialect),60,нехІи,CyrillTrans,oats,,,neħi,Phonemic
+8-450-28-1,anda1281,Avar (Andalal dialect),23,огоб,CyrillTrans,rye,,,ogob,Phonemic
+8-430-28-1,anda1281,Avar (Andalal dialect),1077,ролълъ,CyrillTrans,wheat,,,roɬ̄,Phonemic
+8-440-28-1,anda1281,Avar (Andalal dialect),932,бурчІина,CyrillTrans,barley,,,burčʼina,Phonemic
+8-420-28-1,anda1281,Avar (Andalal dialect),605,мугь,CyrillTrans,"grain (barley, oats etc)",,,muh,Phonemic
+8-410-28-1,anda1281,Avar (Andalal dialect),611,бигьараб жо,CyrillTrans,"crop, harvest",,,biharab žo,Phonemic
+8-350-28-1,anda1281,Avar (Andalal dialect),223,гьоцІцІи,CyrillTrans,threshing-floor,,,hoc̄ʼi,Phonemic
+8-340-28-1,anda1281,Avar (Andalal dialect),285,рал тІанде,CyrillTrans,thresh,,,ral tʼande,Phonemic
+8-330-28-1,anda1281,Avar (Andalal dialect),2132,ххирицин,CyrillTrans,"sickle, scythe",,,"x̄iricin, čʼinikʼ",Phonemic
+8-330-28-3,anda1281,Avar (Andalal dialect),2132,чІиникІ,CyrillTrans,"sickle, scythe",,,"x̄iricin, čʼinikʼ",Phonemic
+8-320-28-1,anda1281,Avar (Andalal dialect),190,ххер хваде,CyrillTrans,"mow, reap",,,"x̄er xʷade, becde",Phonemic
+8-320-28-3,anda1281,Avar (Andalal dialect),190,бецде,CyrillTrans,"mow, reap",,,"x̄er xʷade, becde",Phonemic
+8-311-28-1,anda1281,Avar (Andalal dialect),714,мугь,CyrillTrans,seed,,,"muh, x̌on",Phonemic
+8-311-28-3,anda1281,Avar (Andalal dialect),714,хьон,CyrillTrans,seed,,,"muh, x̌on",Phonemic
+8-310-28-1,anda1281,Avar (Andalal dialect),748,хьон щваде,CyrillTrans,sow,,,"x̌on š̄ʷade, beƛ̄ʼde",Phonemic
+8-310-28-3,anda1281,Avar (Andalal dialect),748,бекьде,CyrillTrans,sow,,,"x̌on š̄ʷade, beƛ̄ʼde",Phonemic
+8-270-28-1,anda1281,Avar (Andalal dialect),338,хачаро,CyrillTrans,rake,,,xačaro,Phonemic
+8-260-28-1,anda1281,Avar (Andalal dialect),337,гьен,CyrillTrans,fork,,,hen,Phonemic
+8-250-28-1,anda1281,Avar (Andalal dialect),284,хинцІи,CyrillTrans,hoe,,,xincʼi,Phonemic
+8-240-28-1,anda1281,Avar (Andalal dialect),1901,чургъах,CyrillTrans,shovel,,,čurɣax,Phonemic
+8-230-28-1,anda1281,Avar (Andalal dialect),1176,гІерщ,CyrillTrans,spade,,,ʕerš̄,Phonemic
+8-212-28-1,anda1281,Avar (Andalal dialect),1794,бекьараб хІур,CyrillTrans,furrow,,,"beƛ̄ʼarab ħur, rax",Phonemic
+8-212-28-3,anda1281,Avar (Andalal dialect),1794,рах,CyrillTrans,furrow,,,"beƛ̄ʼarab ħur, rax",Phonemic
+8-220-28-1,anda1281,Avar (Andalal dialect),1418,бохде,CyrillTrans,dig,,,boxde,Phonemic
+8-210-28-1,anda1281,Avar (Andalal dialect),1921,хІур хІалтде,CyrillTrans,plow,,,ħur ħaltde,Phonemic
+8-170-28-1,anda1281,Avar (Andalal dialect),2002,рах,CyrillTrans,ditch,,,"rax, xandaqʼ",Phonemic
+8-170-28-3,anda1281,Avar (Andalal dialect),2002,хандакъ,CyrillTrans,ditch,,,"rax, xandaqʼ",Phonemic
+8-160-28-1,anda1281,Avar (Andalal dialect),1690,къе,CyrillTrans,fence,,,"qʼe, čali",Phonemic
+8-160-28-3,anda1281,Avar (Andalal dialect),1690,чали,CyrillTrans,fence,,,"qʼe, čali",Phonemic
+8-150-28-1,anda1281,Avar (Andalal dialect),1541,хІур хІалтІде,CyrillTrans,"cultivate, till",,,ħur ħaltʼde,Phonemic
+8-130-28-1,anda1281,Avar (Andalal dialect),586,ахІ,CyrillTrans,garden,,,aħ,Phonemic
+8-120-28-1,anda1281,Avar (Andalal dialect),212,хІур,CyrillTrans,field (for cultivation),,,ħur,Phonemic
+8-110-28-1,anda1281,Avar (Andalal dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-28-1,anda1281,Avar (Andalal dialect),901,хІутІул рокъ,CyrillTrans,adobe,,,ħutʼul roqʼ,Phonemic
+7-630-28-1,anda1281,Avar (Andalal dialect),224,хІарщ,CyrillTrans,mortar,,,ħarš̄,Phonemic
+7-620-28-1,anda1281,Avar (Andalal dialect),1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-28-1,anda1281,Avar (Andalal dialect),876,кІамури,CyrillTrans,arch,,,kʼamuri,Phonemic
+7-610-28-1,anda1281,Avar (Andalal dialect),877,къадал устар,CyrillTrans,mason,,,qʼadal ustar,Phonemic
+7-570-28-1,anda1281,Avar (Andalal dialect),1227,херще,CyrillTrans,board,,,xerš̄e,Phonemic
+7-560-28-1,anda1281,Avar (Andalal dialect),281,хІуби,CyrillTrans,"post, pole",,,ħubi,Phonemic
+7-550-28-1,anda1281,Avar (Andalal dialect),1132,чІали,CyrillTrans,beam,,,čʼali,Phonemic
+7-540-28-1,anda1281,Avar (Andalal dialect),829,квен,CyrillTrans,rafter,,,kʷen,Phonemic
+7-530-28-1,anda1281,Avar (Andalal dialect),280,чІали,CyrillTrans,ridgepole,,,čʼali,Phonemic
+7-520-28-1,anda1281,Avar (Andalal dialect),279,накдал охІ,CyrillTrans,thatch,,,nakdal oħ,Phonemic
+7-510-28-1,anda1281,Avar (Andalal dialect),769,охІ,CyrillTrans,roof,,,oħ,Phonemic
+7-480-28-1,anda1281,Avar (Andalal dialect),205,гомог,CyrillTrans,trough,,,gomog,Phonemic
+7-470-28-1,anda1281,Avar (Andalal dialect),745,кІала,CyrillTrans,shelf,,,kʼala,Phonemic
+7-460-28-1,anda1281,Avar (Andalal dialect),1273,хІедул чирах,CyrillTrans,candle,,,ħedul čirax,Phonemic
+7-450-28-1,anda1281,Avar (Andalal dialect),2131,чирах,CyrillTrans,"lamp, torch",,,čirax,Phonemic
+7-440-28-1,anda1281,Avar (Andalal dialect),1775,остол,CyrillTrans,table,,,ostol,Phonemic
+7-430-28-1,anda1281,Avar (Andalal dialect),1476,бакІ,CyrillTrans,chair,,,bakʼ,Phonemic
+7-422-28-1,anda1281,Avar (Andalal dialect),806,жургъан,CyrillTrans,blanket,,,žurɣan,Phonemic
+7-421-28-1,anda1281,Avar (Andalal dialect),1044,къандалжо,CyrillTrans,pillow,,,qʼandalžo,Phonemic
+7-420-28-1,anda1281,Avar (Andalal dialect),1663,бусен,CyrillTrans,bed,,,"busen, krawat",Phonemic
+7-420-28-3,anda1281,Avar (Andalal dialect),1663,крават,CyrillTrans,bed,,,"busen, krawat",Phonemic
+7-370-28-1,anda1281,Avar (Andalal dialect),1464,милли,CyrillTrans,ladder,,,milli,Phonemic
+7-330-28-1,anda1281,Avar (Andalal dialect),1305,бухари,CyrillTrans,chimney,,,"buxari, k̄ʼuydul ala",Phonemic
+7-330-28-3,anda1281,Avar (Andalal dialect),1305,кІкІуйдул ала,CyrillTrans,chimney,,,"buxari, k̄ʼuydul ala",Phonemic
+7-320-28-1,anda1281,Avar (Andalal dialect),859,печ,CyrillTrans,stove,,,peč,Phonemic
+7-310-28-1,anda1281,Avar (Andalal dialect),185,бухари,CyrillTrans,fireplace,,,buxari,Phonemic
+7-270-28-1,anda1281,Avar (Andalal dialect),933,къе,CyrillTrans,wall,,,qʼe,Phonemic
+7-260-28-1,anda1281,Avar (Andalal dialect),1632,чІабар,CyrillTrans,floor,,,"čʼabar, ʕodob bakʼ",Phonemic
+7-260-28-3,anda1281,Avar (Andalal dialect),1632,гІодоб бакІ,CyrillTrans,floor,,,"čʼabar, ʕodob bakʼ",Phonemic
+7-250-28-1,anda1281,Avar (Andalal dialect),1375,гор,CyrillTrans,window,,,gor,Phonemic
+7-240-28-1,anda1281,Avar (Andalal dialect),1472,кІул,CyrillTrans,key,,,kʼul,Phonemic
+7-231-28-1,anda1281,Avar (Andalal dialect),1012,хІусс,CyrillTrans,"latch, door-bolt",,,ħus̄,Phonemic
+7-230-28-1,anda1281,Avar (Andalal dialect),1596,кІулал,CyrillTrans,lock (noun),,,kʼulal,Phonemic
+7-221-28-1,anda1281,Avar (Andalal dialect),80,хІус,CyrillTrans,"doorpost, jamb",,,ħus,Phonemic
+7-210-28-1,anda1281,Avar (Andalal dialect),1450,рокъ,CyrillTrans,room,,,roqʼ,Phonemic
+7-220-28-1,anda1281,Avar (Andalal dialect),1567,каву,CyrillTrans,"door, gate",,,"kawu, nuc̄ʼa",Phonemic
+7-220-28-3,anda1281,Avar (Andalal dialect),1567,нуцІцІа,CyrillTrans,"door, gate",,,"kawu, nuc̄ʼa",Phonemic
+7-180-28-1,anda1281,Avar (Andalal dialect),335,кІудаб рокъ,CyrillTrans,meeting house,,,kʼudab roqʼ,Phonemic
+7-170-28-1,anda1281,Avar (Andalal dialect),334,квен гьубув рокъ,CyrillTrans,cookhouse,,,kʷen hubuw roqʼ,Phonemic
+7-160-28-1,anda1281,Avar (Andalal dialect),408,бихьиназул рокъ,CyrillTrans,men's house,,,bix̌inazul roqʼ,Phonemic
+7-150-28-1,anda1281,Avar (Andalal dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-28-1,anda1281,Avar (Andalal dialect),1316,чадир,CyrillTrans,tent,,,čadir,Phonemic
+7-131-28-1,anda1281,Avar (Andalal dialect),403,рокъ,CyrillTrans,garden-house,,,roqʼ,Phonemic
+7-130-28-1,anda1281,Avar (Andalal dialect),1678,паж,CyrillTrans,hut,,,paž,Phonemic
+7-120-28-1,anda1281,Avar (Andalal dialect),1252,рокъ,CyrillTrans,house,,,roqʼ,Phonemic
+7-110-28-1,anda1281,Avar (Andalal dialect),363,гІумру гьубуде,CyrillTrans,"dwell, live",,,ʕumru hubude,Phonemic
+6-960-28-1,anda1281,Avar (Andalal dialect),1171,матІу,CyrillTrans,mirror,,,matʼu,Phonemic
+6-950-28-1,anda1281,Avar (Andalal dialect),788,ссапун,CyrillTrans,soap,,,s̄apun,Phonemic
+6-940-28-1,anda1281,Avar (Andalal dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-28-1,anda1281,Avar (Andalal dialect),151,мегеж кІкІвав нус,CyrillTrans,razor,,,megež k̄ʼʷaw nus,Phonemic
+6-921-28-1,anda1281,Avar (Andalal dialect),333,гъалакІ,CyrillTrans,braid,,,ɣalakʼ,Phonemic
+6-920-28-1,anda1281,Avar (Andalal dialect),1821,поркьо,CyrillTrans,brush,,,porƛ̄ʼo,Phonemic
+6-910-28-1,anda1281,Avar (Andalal dialect),1475,поркьо,CyrillTrans,comb,,,porƛ̄ʼo,Phonemic
+6-820-28-1,anda1281,Avar (Andalal dialect),1021,палатенца,CyrillTrans,towel,,,palatenca,Phonemic
+6-810-28-1,anda1281,Avar (Andalal dialect),332,цахмин квархьи,CyrillTrans,"handkerchief, rag",,,caxmin kʷarx̌i,Phonemic
+6-780-28-1,anda1281,Avar (Andalal dialect),330,угъур,CyrillTrans,"headband, headdress",,,uɣur,Phonemic
+6-770-28-1,anda1281,Avar (Andalal dialect),770,кІиликІ,CyrillTrans,earring,,,kʼilikʼ,Phonemic
+6-760-28-1,anda1281,Avar (Andalal dialect),1860,махх,CyrillTrans,bead,,,max̄,Phonemic
+6-750-28-1,anda1281,Avar (Andalal dialect),1961,маххал,CyrillTrans,necklace,,,max̄al,Phonemic
+6-740-28-1,anda1281,Avar (Andalal dialect),1754,курхьин,CyrillTrans,bracelet,,,kurx̌in,Phonemic
+6-730-28-1,anda1281,Avar (Andalal dialect),1374,баргъич,CyrillTrans,ring (for finger),,,barɣič,Phonemic
+6-720-28-1,anda1281,Avar (Andalal dialect),1029,рагІул,CyrillTrans,jewel,,,raʕul,Phonemic
+6-710-28-1,anda1281,Avar (Andalal dialect),917,накъищ,CyrillTrans,"ornament, adornment",,,naqʼiš̄,Phonemic
+6-630-28-1,anda1281,Avar (Andalal dialect),64,дукІкІен,CyrillTrans,pin,,,duk̄ʼen,Phonemic
+6-620-28-1,anda1281,Avar (Andalal dialect),757,тІе,CyrillTrans,button,,,tʼe,Phonemic
+6-610-28-1,anda1281,Avar (Andalal dialect),1851,цахма,CyrillTrans,pocket,,,caxma,Phonemic
+6-590-28-1,anda1281,Avar (Andalal dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-28-1,anda1281,Avar (Andalal dialect),867,кулелʼ,CyrillTrans,glove,,,kulelʲ,Phonemic
+6-570-28-1,anda1281,Avar (Andalal dialect),772,камал,CyrillTrans,"belt, girdle",,,kamal,Phonemic
+6-550-28-1,anda1281,Avar (Andalal dialect),2130,угъур,CyrillTrans,"hat, cap",,,uɣur,Phonemic
+6-540-28-1,anda1281,Avar (Andalal dialect),875,хьатазул устар,CyrillTrans,"shoemaker, cobbler",,,x̌atazul ustar,Phonemic
+6-510-28-1,anda1281,Avar (Andalal dialect),1381,хьит,CyrillTrans,shoe,,,x̌it,Phonemic
+6-520-28-1,anda1281,Avar (Andalal dialect),585,хьит,CyrillTrans,boot,,,x̌it,Phonemic
+6-490-28-1,anda1281,Avar (Andalal dialect),329,гьункь,CyrillTrans,"stocking, sock",,,hunƛ̄ʼ,Phonemic
+6-480-28-1,anda1281,Avar (Andalal dialect),809,ажу,CyrillTrans,trousers,,,ažu,Phonemic
+6-461-28-1,anda1281,Avar (Andalal dialect),328,юбка,CyrillTrans,grass-skirt,,,yubka,Phonemic
+6-460-28-1,anda1281,Avar (Andalal dialect),1600,юбка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-28-1,anda1281,Avar (Andalal dialect),2012,губур,CyrillTrans,collar,,,gubur,Phonemic
+6-440-28-1,anda1281,Avar (Andalal dialect),1622,кунта,CyrillTrans,shirt,,,kunta,Phonemic
+6-430-28-1,anda1281,Avar (Andalal dialect),603,палто,CyrillTrans,coat,,,palto,Phonemic
+6-420-28-1,anda1281,Avar (Andalal dialect),474,руччабазул кунта,CyrillTrans,woman's dress,,,ruč̄abazul kunta,Phonemic
+6-390-28-1,anda1281,Avar (Andalal dialect),157,релгьен,CyrillTrans,dye,,,relhen,Phonemic
+6-410-28-1,anda1281,Avar (Andalal dialect),326,палаш,CyrillTrans,cloak,,,palaš,Phonemic
+6-380-28-1,anda1281,Avar (Andalal dialect),1161,кун,CyrillTrans,thread,,,kun,Phonemic
+6-360-28-1,anda1281,Avar (Andalal dialect),1382,дукІкІен,CyrillTrans,needle,,,duk̄ʼen,Phonemic
+6-370-28-1,anda1281,Avar (Andalal dialect),278,гІебу,CyrillTrans,awl,,,ʕebu,Phonemic
+6-350-28-1,anda1281,Avar (Andalal dialect),1457,бокъде,CyrillTrans,sew,,,boqʼde,Phonemic
+6-340-28-1,anda1281,Avar (Andalal dialect),1787,ххам бессиниб станок,CyrillTrans,loom,,,x̄am bes̄inib stanok,Phonemic
+6-330-28-1,anda1281,Avar (Andalal dialect),133,хьухьде,CyrillTrans,weave,,,x̌ux̌de,Phonemic
+6-320-28-1,anda1281,Avar (Andalal dialect),277,маргу,CyrillTrans,spindle,,,margu,Phonemic
+6-310-28-1,anda1281,Avar (Andalal dialect),121,дургъде,CyrillTrans,spin,,,durɣde,Phonemic
+6-290-28-1,anda1281,Avar (Andalal dialect),629,хал,CyrillTrans,leather,,,"xal, qʼex̌",Phonemic
+6-290-28-3,anda1281,Avar (Andalal dialect),629,къехь,CyrillTrans,leather,,,"xal, qʼex̌",Phonemic
+6-280-28-1,anda1281,Avar (Andalal dialect),580,къехь,CyrillTrans,fur,,,qʼex̌,Phonemic
+6-270-28-1,anda1281,Avar (Andalal dialect),325,буртина,CyrillTrans,felt,,,burtina,Phonemic
+6-250-28-1,anda1281,Avar (Andalal dialect),1641,дарай,CyrillTrans,silk,,,daray,Phonemic
+6-240-28-1,anda1281,Avar (Andalal dialect),1850,пампа,CyrillTrans,cotton,,,pampa,Phonemic
+6-230-28-1,anda1281,Avar (Andalal dialect),916,кетен,CyrillTrans,"linen, flax",,,"keten, ɬeɬ",Phonemic
+6-230-28-3,anda1281,Avar (Andalal dialect),916,лъелъ,CyrillTrans,"linen, flax",,,"keten, ɬeɬ",Phonemic
+6-220-28-1,anda1281,Avar (Andalal dialect),964,шал,CyrillTrans,wool,,,šal,Phonemic
+6-210-28-1,anda1281,Avar (Andalal dialect),1616,ххан,CyrillTrans,cloth,,,x̄an,Phonemic
+6-130-28-1,anda1281,Avar (Andalal dialect),881,устар,CyrillTrans,tailor,,,ustar,Phonemic
+6-120-28-1,anda1281,Avar (Andalal dialect),1895,рел′элʼ,CyrillTrans,"clothing, clothes",,,relʔelʲ,Phonemic
+6-110-28-1,anda1281,Avar (Andalal dialect),158,релэде,CyrillTrans,put on (clothes),,,relʔede,Phonemic
+5-971-28-1,anda1281,Avar (Andalal dialect),1556,хІинил ракІ,CyrillTrans,egg yolk,,,ħinil rakʼ,Phonemic
+5-970-28-1,anda1281,Avar (Andalal dialect),744,хІоно,CyrillTrans,egg,,,ħono,Phonemic
+5-940-28-1,anda1281,Avar (Andalal dialect),404,чІагІа,CyrillTrans,fermented drink,,,čʼaʕa,Phonemic
+5-930-28-1,anda1281,Avar (Andalal dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-28-1,anda1281,Avar (Andalal dialect),1524,чагъир,CyrillTrans,wine,,,čaɣir,Phonemic
+5-910-28-1,anda1281,Avar (Andalal dialect),941,гъага,CyrillTrans,mead,,,ɣaga,Phonemic
+5-900-28-1,anda1281,Avar (Andalal dialect),731,къавжо,CyrillTrans,"beverage, drink",,,qʼawžo,Phonemic
+5-890-28-1,anda1281,Avar (Andalal dialect),1245,нахІ,CyrillTrans,butter,,,"naħ, čʼʷaržo",Phonemic
+5-890-28-3,anda1281,Avar (Andalal dialect),1245,чІваржо,CyrillTrans,butter,,,"naħ, čʼʷaržo",Phonemic
+5-880-28-1,anda1281,Avar (Andalal dialect),1569,хІан,CyrillTrans,cheese,,,ħan,Phonemic
+5-870-28-1,anda1281,Avar (Andalal dialect),93,бечІчІде,CyrillTrans,milk (vb),,,beč̄ʼde,Phonemic
+5-850-28-1,anda1281,Avar (Andalal dialect),862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-28-1,anda1281,Avar (Andalal dialect),635,рахь,CyrillTrans,milk (noun),,,rax̌,Phonemic
+5-840-28-1,anda1281,Avar (Andalal dialect),942,гьоцІцІо,CyrillTrans,honey,,,hoc̄ʼo,Phonemic
+5-821-28-1,anda1281,Avar (Andalal dialect),919,пурчч,CyrillTrans,chili pepper,,,purč̄,Phonemic
+5-820-28-1,anda1281,Avar (Andalal dialect),1385,пилпил,CyrillTrans,pepper,,,pilpil,Phonemic
+5-810-28-1,anda1281,Avar (Andalal dialect),1274,цІцІан,CyrillTrans,salt,,,c̄ʼan,Phonemic
+5-791-28-1,anda1281,Avar (Andalal dialect),323,гІатІи,CyrillTrans,"grease, fat",,,"ʕatʼi, beʔenli",Phonemic
+5-791-28-3,anda1281,Avar (Andalal dialect),323,беэнли,CyrillTrans,"grease, fat",,,"ʕatʼi, beʔenli",Phonemic
+5-790-28-1,anda1281,Avar (Andalal dialect),1484,семичкадул нахІ,CyrillTrans,oil,,,semičkadul naħ,Phonemic
+5-780-28-1,anda1281,Avar (Andalal dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-28-1,anda1281,Avar (Andalal dialect),920,цІцІибил,CyrillTrans,grape,,,c̄ʼibil,Phonemic
+5-770-28-1,anda1281,Avar (Andalal dialect),191,гьирк,CyrillTrans,nut,,,hirk,Phonemic
+5-750-28-1,anda1281,Avar (Andalal dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-28-1,anda1281,Avar (Andalal dialect),1966,квали,CyrillTrans,bunch,,,"kʷali, kʷacʼi",Phonemic
+5-712-28-3,anda1281,Avar (Andalal dialect),1966,квацІи,CyrillTrans,bunch,,,"kʷali, kʷacʼi",Phonemic
+5-710-28-1,anda1281,Avar (Andalal dialect),1507,пих,CyrillTrans,fruit,,,pix,Phonemic
+5-700-28-1,anda1281,Avar (Andalal dialect),593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-28-1,anda1281,Avar (Andalal dialect),832,гьоло,CyrillTrans,bean,,,holo,Phonemic
+5-650-28-1,anda1281,Avar (Andalal dialect),924,овощал,CyrillTrans,vegetables,,,owoš̄al,Phonemic
+5-640-28-1,anda1281,Avar (Andalal dialect),1547,карщ,CyrillTrans,"soup, broth",,,karš̄,Phonemic
+5-630-28-1,anda1281,Avar (Andalal dialect),1874,бакь,CyrillTrans,sausage,,,baƛ̄ʼ,Phonemic
+5-610-28-1,anda1281,Avar (Andalal dialect),634,гьан,CyrillTrans,meat,,,han,Phonemic
+5-590-28-1,anda1281,Avar (Andalal dialect),225,хІоно,CyrillTrans,pestle,,,ħono,Phonemic
+5-580-28-1,anda1281,Avar (Andalal dialect),224,рижичухІ,CyrillTrans,mortar (2),,,rižičuħ,Phonemic
+5-570-28-1,anda1281,Avar (Andalal dialect),636,гьиби,CyrillTrans,mill,,,hibi,Phonemic
+5-560-28-1,anda1281,Avar (Andalal dialect),1033,хурде,CyrillTrans,"crush, grind",,,xurde,Phonemic
+5-550-28-1,anda1281,Avar (Andalal dialect),1594,ролълъ,CyrillTrans,"meal, flour",,,"roɬ̄, ʕatʼ",Phonemic
+5-550-28-3,anda1281,Avar (Andalal dialect),1594,гІатІ,CyrillTrans,"meal, flour",,,"roɬ̄, ʕatʼ",Phonemic
+5-540-28-1,anda1281,Avar (Andalal dialect),274,буцде,CyrillTrans,knead,,,bucde,Phonemic
+5-530-28-1,anda1281,Avar (Andalal dialect),273,буцараб ролълъ,CyrillTrans,dough,,,bucarab roɬ̄,Phonemic
+5-510-28-1,anda1281,Avar (Andalal dialect),1368,чед,CyrillTrans,bread,,,čed,Phonemic
+5-490-28-1,anda1281,Avar (Andalal dialect),2017,багъарде,CyrillTrans,"stir, mix",,,"baɣarde, žobode",Phonemic
+5-490-28-3,anda1281,Avar (Andalal dialect),2017,жободе,CyrillTrans,"stir, mix",,,"baɣarde, žobode",Phonemic
+5-480-28-1,anda1281,Avar (Andalal dialect),1767,лълъулълъаде,CyrillTrans,scrape,,,"ɬ̄uɬ̄ade, x̄artʼde",Phonemic
+5-480-28-3,anda1281,Avar (Andalal dialect),1767,ххартІде,CyrillTrans,scrape,,,"ɬ̄uɬ̄ade, x̄artʼde",Phonemic
+5-470-28-1,anda1281,Avar (Andalal dialect),86,цІцІаркІде,CyrillTrans,"sieve, strain",,,c̄ʼarkʼde,Phonemic
+5-460-28-1,anda1281,Avar (Andalal dialect),275,бацІцІад гьубуде,CyrillTrans,peel,,,bac̄ʼad hubude,Phonemic
+5-450-28-1,anda1281,Avar (Andalal dialect),1833,къассиквен,CyrillTrans,supper,,,qʼas̄ikʷen,Phonemic
+5-440-28-1,anda1281,Avar (Andalal dialect),1833,къадеквен,CyrillTrans,dinner,,,qʼadekʷen,Phonemic
+5-420-28-1,anda1281,Avar (Andalal dialect),1322,гьадалквен,CyrillTrans,breakfast,,,hadalkʷen,Phonemic
+5-410-28-1,anda1281,Avar (Andalal dialect),1526,квенжо,CyrillTrans,meal (a),,,"kʷenžo, kunay",Phonemic
+5-410-28-3,anda1281,Avar (Andalal dialect),1526,кунай,CyrillTrans,meal (a),,,"kʷenžo, kunay",Phonemic
+5-391-28-1,anda1281,Avar (Andalal dialect),272,гъецІ,CyrillTrans,tongs,,,ɣecʼ,Phonemic
+5-390-28-1,anda1281,Avar (Andalal dialect),1302,гІучІ,CyrillTrans,fork (2),,,ʕučʼ,Phonemic
+5-380-28-1,anda1281,Avar (Andalal dialect),1352,нус,CyrillTrans,knife (2),,,nus,Phonemic
+5-370-28-1,anda1281,Avar (Andalal dialect),1378,бугьун,CyrillTrans,spoon,,,buhun,Phonemic
+5-360-28-1,anda1281,Avar (Andalal dialect),271,налбек,CyrillTrans,saucer,,,nalbek,Phonemic
+5-350-28-1,anda1281,Avar (Andalal dialect),476,лълъар,CyrillTrans,"cup, drinking vessel",,,ɬ̄ar,Phonemic
+5-330-28-1,anda1281,Avar (Andalal dialect),1530,суркІа,CyrillTrans,bowl,,,surkʼa,Phonemic
+5-340-28-1,anda1281,Avar (Andalal dialect),270,бурутІи,CyrillTrans,"pitcher, jug",,,"burutʼi, raʕ, dad",Phonemic
+5-340-28-3,anda1281,Avar (Andalal dialect),270,рагІ,CyrillTrans,"pitcher, jug",,,"burutʼi, raʕ, dad",Phonemic
+5-340-28-5,anda1281,Avar (Andalal dialect),270,дад,CyrillTrans,"pitcher, jug",,,"burutʼi, raʕ, dad",Phonemic
+5-320-28-1,anda1281,Avar (Andalal dialect),480,гъадари,CyrillTrans,plate,,,ɣadari,Phonemic
+5-310-28-1,anda1281,Avar (Andalal dialect),481,гъадари,CyrillTrans,dish,,,ɣadari,Phonemic
+5-280-28-1,anda1281,Avar (Andalal dialect),31,хьаг,CyrillTrans,pan,,,x̌ag,Phonemic
+5-260-28-1,anda1281,Avar (Andalal dialect),1462,хьаг,CyrillTrans,"pot, cooking vessel",,,"x̌ag, ɣazan",Phonemic
+5-260-28-3,anda1281,Avar (Andalal dialect),1462,гъазан,CyrillTrans,"pot, cooking vessel",,,"x̌ag, ɣazan",Phonemic
+5-270-28-1,anda1281,Avar (Andalal dialect),854,чаникІ,CyrillTrans,kettle,,,čanikʼ,Phonemic
+5-240-28-1,anda1281,Avar (Andalal dialect),183,бежде,CyrillTrans,bake,,,bežde,Phonemic
+5-250-28-1,anda1281,Avar (Andalal dialect),1143,печь,CyrillTrans,oven,,,rečʲ,Phonemic
+5-230-28-1,anda1281,Avar (Andalal dialect),2146,бежде,CyrillTrans,"roast, fry",,,bežde,Phonemic
+5-220-28-1,anda1281,Avar (Andalal dialect),792,гьвалде,CyrillTrans,boil (vb),,,hʷalde,Phonemic
+5-210-28-1,anda1281,Avar (Andalal dialect),1100,белгьде,CyrillTrans,cook,,,belhde,Phonemic
+5-190-28-1,anda1281,Avar (Andalal dialect),129,гъанкъде,CyrillTrans,choke,,,ɣanqʼde,Phonemic
+5-181-28-1,anda1281,Avar (Andalal dialect),897,гІуркъде,CyrillTrans,swallow,,,ʕurqʼde,Phonemic
+5-180-28-1,anda1281,Avar (Andalal dialect),321,чІанде,CyrillTrans,chew,,,čʼande,Phonemic
+5-160-28-1,anda1281,Avar (Andalal dialect),1421,цІцІукІде,CyrillTrans,suck,,,"c̄ʼukʼde, žanib bes̄de",Phonemic
+5-160-28-3,anda1281,Avar (Andalal dialect),1421,жаниб бессде,CyrillTrans,suck,,,"c̄ʼukʼde, žanib bes̄de",Phonemic
+5-150-28-1,anda1281,Avar (Andalal dialect),848,къеч,CyrillTrans,thirst,,,qʼeč,Phonemic
+5-141-28-1,anda1281,Avar (Andalal dialect),199,ракъи,CyrillTrans,famine,,,raqʼi,Phonemic
+5-140-28-1,anda1281,Avar (Andalal dialect),1864,вакъи,CyrillTrans,hunger,,,waqʼi,Phonemic
+5-130-28-1,anda1281,Avar (Andalal dialect),1401,къеде,CyrillTrans,drink,,,qʼede,Phonemic
+5-125-28-1,anda1281,Avar (Andalal dialect),1728,турараб,CyrillTrans,rotten,,,turarab,Phonemic
+5-124-28-1,anda1281,Avar (Andalal dialect),1958,барщчІаб,CyrillTrans,"green, unripe",,,barš̄čʼab,Phonemic
+5-123-28-1,anda1281,Avar (Andalal dialect),178,барщараб,CyrillTrans,ripe,,,barš̄arab,Phonemic
+5-122-28-1,anda1281,Avar (Andalal dialect),1959,белгьичІеб,CyrillTrans,raw,,,belhičʼeb,Phonemic
+5-121-28-1,anda1281,Avar (Andalal dialect),269,белгьараб,CyrillTrans,cooked,,,belharab,Phonemic
+5-120-28-1,anda1281,Avar (Andalal dialect),256,квен,CyrillTrans,food,,,kʷen,Phonemic
+5-110-28-1,anda1281,Avar (Andalal dialect),1336,кунаде,CyrillTrans,eat,,,kunade,Phonemic
+4-990-28-1,anda1281,Avar (Andalal dialect),590,гІенцІцІав,CyrillTrans,"naked, bare",,,ʕenc̄ʼaw,Phonemic
+4-970-28-1,anda1281,Avar (Andalal dialect),1653,беццав,CyrillTrans,blind,,,bec̄aw,Phonemic
+4-980-28-1,anda1281,Avar (Andalal dialect),1463,метахарав,CyrillTrans,intoxicated,,,metaxaraw,Phonemic
+4-960-28-1,anda1281,Avar (Andalal dialect),1666,мацІцІ ккурав,CyrillTrans,mute,,,mac̄ʼ k̄uraw,Phonemic
+4-950-28-1,anda1281,Avar (Andalal dialect),996,гІенкъав,CyrillTrans,deaf,,,ʕenqʼaw,Phonemic
+4-930-28-1,anda1281,Avar (Andalal dialect),1125,рас хІуларав,CyrillTrans,bald,,,ras ħularaw,Phonemic
+4-940-28-1,anda1281,Avar (Andalal dialect),320,рекъде,CyrillTrans,lame,,,reqʼde,Phonemic
+4-920-28-1,anda1281,Avar (Andalal dialect),1564,кІкІугІалав,CyrillTrans,lazy,,,k̄ʼuʕalaw,Phonemic
+4-912-28-1,anda1281,Avar (Andalal dialect),168,ссвакбахде,CyrillTrans,rest,,,"sʷakbaxde, raħat hubude",Phonemic
+4-912-28-3,anda1281,Avar (Andalal dialect),168,рахІат гьубуде,CyrillTrans,rest,,,"sʷakbaxde, raħat hubude",Phonemic
+4-910-28-1,anda1281,Avar (Andalal dialect),1757,ссукарав,CyrillTrans,"tired, weary",,,s̄ukaraw,Phonemic
+4-890-28-1,anda1281,Avar (Andalal dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-28-1,anda1281,Avar (Andalal dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-28-3,anda1281,Avar (Andalal dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-28-5,anda1281,Avar (Andalal dialect),1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-28-1,anda1281,Avar (Andalal dialect),597,тохтир,CyrillTrans,physician,,,"toxtir, wrač",Phonemic
+4-870-28-3,anda1281,Avar (Andalal dialect),597,врач,CyrillTrans,physician,,,"toxtir, wrač",Phonemic
+4-860-28-1,anda1281,Avar (Andalal dialect),499,лъикІде гьувуде,CyrillTrans,"cure, heal",,,ɬikʼde huwude,Phonemic
+4-858-28-1,anda1281,Avar (Andalal dialect),497,ругънал гІуж,CyrillTrans,scar,,,"ʕuž, ruɣnal ʕuž",Phonemic
+4-858-28-3,anda1281,Avar (Andalal dialect),497,гІуж,CyrillTrans,scar,,,"ʕuž, ruɣnal ʕuž",Phonemic
+4-857-28-1,anda1281,Avar (Andalal dialect),1808,рецІцІ,CyrillTrans,pus,,,rec̄ʼ,Phonemic
+4-856-28-1,anda1281,Avar (Andalal dialect),793,тІихь,CyrillTrans,boil (noun),,,"tʼix̌, buħarab tʼix̌",Phonemic
+4-856-28-3,anda1281,Avar (Andalal dialect),793,бухІараб тІихь,CyrillTrans,boil (noun),,,"tʼix̌, buħarab tʼix̌",Phonemic
+4-855-28-1,anda1281,Avar (Andalal dialect),1584,пул,CyrillTrans,blister,,,pul,Phonemic
+4-854-28-1,anda1281,Avar (Andalal dialect),148,букари,CyrillTrans,itch,,,bukari,Phonemic
+4-853-28-1,anda1281,Avar (Andalal dialect),1903,гьорой,CyrillTrans,swelling,,,"horoy, hor",Phonemic
+4-853-28-3,anda1281,Avar (Andalal dialect),1903,гьор,CyrillTrans,swelling,,,"horoy, hor",Phonemic
+4-852-28-1,anda1281,Avar (Andalal dialect),1148,тункун унтараб бакІ,CyrillTrans,bruise,,,tunkun untarab bakʼ,Phonemic
+4-850-28-1,anda1281,Avar (Andalal dialect),1109,ругъун,CyrillTrans,"wound, sore",,,ruɣun,Phonemic
+4-843-28-1,anda1281,Avar (Andalal dialect),102,цІцІорой,CyrillTrans,cold (catarrh),,,"c̄ʼoroy, wohi",Phonemic
+4-843-28-3,anda1281,Avar (Andalal dialect),102,вогьи,CyrillTrans,cold (catarrh),,,"c̄ʼoroy, wohi",Phonemic
+4-842-28-1,anda1281,Avar (Andalal dialect),1957,мукъур,CyrillTrans,goiter,,,muqʼur,Phonemic
+4-841-28-1,anda1281,Avar (Andalal dialect),1534,цІа,CyrillTrans,fever,,,cʼa,Phonemic
+4-840-28-1,anda1281,Avar (Andalal dialect),1847,унтарав,CyrillTrans,"sick, sickness",,,"untaraw, unti",Phonemic
+4-840-28-3,anda1281,Avar (Andalal dialect),1847,унти,CyrillTrans,"sick, sickness",,,"untaraw, unti",Phonemic
+4-830-28-1,anda1281,Avar (Andalal dialect),1364,сахли,CyrillTrans,"well, health",,,"saxli, saɣaw",Phonemic
+4-830-28-3,anda1281,Avar (Andalal dialect),1364,сагъав,CyrillTrans,"well, health",,,"saxli, saɣaw",Phonemic
+4-820-28-1,anda1281,Avar (Andalal dialect),1601,загІипав,CyrillTrans,weak,,,"zaʕipaw, xašaw",Phonemic
+4-820-28-3,anda1281,Avar (Andalal dialect),1601,хашав,CyrillTrans,weak,,,"zaʕipaw, xašaw",Phonemic
+4-810-28-1,anda1281,Avar (Andalal dialect),785,кутакав,CyrillTrans,"strong, mighty, powerful",,,"kutakaw, qʼuwataw",Phonemic
+4-810-28-3,anda1281,Avar (Andalal dialect),785,къуватав,CyrillTrans,"strong, mighty, powerful",,,"kutakaw, qʼuwataw",Phonemic
+4-790-28-1,anda1281,Avar (Andalal dialect),1773,хІеб,CyrillTrans,"grave, tomb",,,ħeb,Phonemic
+4-780-28-1,anda1281,Avar (Andalal dialect),1719,вукъде,CyrillTrans,bury (the dead),,,wuqʼde,Phonemic
+4-770-28-1,anda1281,Avar (Andalal dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-28-1,anda1281,Avar (Andalal dialect),1417,чІваде,CyrillTrans,kill,,,čʼʷade,Phonemic
+4-751-28-1,anda1281,Avar (Andalal dialect),1904,гъанкъарав,CyrillTrans,drowned,,,"ɣanqʼaraw, ɣanqʼaraw či",Phonemic
+4-751-28-3,anda1281,Avar (Andalal dialect),1904,гъанкъарав чи,CyrillTrans,drowned,,,"ɣanqʼaraw, ɣanqʼaraw či",Phonemic
+4-750-28-1,anda1281,Avar (Andalal dialect),1494,хведе,CyrillTrans,"die, dead",,,"xʷede, xʷaraw, walʔaraw, welʔede",Phonemic
+4-750-28-3,anda1281,Avar (Andalal dialect),1494,хварав,CyrillTrans,"die, dead",,,"xʷede, xʷaraw, walʔaraw, welʔede",Phonemic
+4-750-28-5,anda1281,Avar (Andalal dialect),1494,вал′арав,CyrillTrans,"die, dead",,,"xʷede, xʷaraw, walʔaraw, welʔede",Phonemic
+4-750-28-7,anda1281,Avar (Andalal dialect),1494,велэде,CyrillTrans,"die, dead",,,"xʷede, xʷaraw, walʔaraw, welʔede",Phonemic
+4-740-28-1,anda1281,Avar (Andalal dialect),1422,гІумру гьубуде,CyrillTrans,"live, living, life",,,"ʕumru hubude, čʼaguyab",Phonemic
+4-740-28-3,anda1281,Avar (Andalal dialect),1422,чІагуяб,CyrillTrans,"live, living, life",,,"ʕumru hubude, čʼaguyab",Phonemic
+4-732-28-1,anda1281,Avar (Andalal dialect),1087,къенде,CyrillTrans,conceive,,,qʼende,Phonemic
+4-730-28-1,anda1281,Avar (Andalal dialect),1123,къенай,CyrillTrans,pregnant,,,qʼenay,Phonemic
+4-720-28-1,anda1281,Avar (Andalal dialect),1090,гьубуде,CyrillTrans,born (to be),,,hubude,Phonemic
+4-710-28-1,anda1281,Avar (Andalal dialect),1152,гьувуде,CyrillTrans,beget (of father),,,huwude,Phonemic
+4-690-28-1,anda1281,Avar (Andalal dialect),138,чурдеде,CyrillTrans,bathe,,,čurdede,Phonemic
+4-680-28-1,anda1281,Avar (Andalal dialect),52,сороде,CyrillTrans,shiver,,,sorode,Phonemic
+4-670-28-1,anda1281,Avar (Andalal dialect),1785,рехІде,CyrillTrans,have sexual intercourse,,,"reħde, reħ bade",Phonemic
+4-670-28-3,anda1281,Avar (Andalal dialect),1785,рехІ баде,CyrillTrans,have sexual intercourse,,,"reħde, reħ bade",Phonemic
+4-660-28-1,anda1281,Avar (Andalal dialect),676,гъвенс баде,CyrillTrans,defecate,,,ɣʷens bade,Phonemic
+4-650-28-1,anda1281,Avar (Andalal dialect),592,кІурщи тІеде,CyrillTrans,urinate,,,kʼurš̄i tʼede,Phonemic
+4-640-28-1,anda1281,Avar (Andalal dialect),1159,кьаял риччаде,CyrillTrans,break wind,,,ƛ̄ʼayal rič̄ade,Phonemic
+4-630-28-1,anda1281,Avar (Andalal dialect),1602,ворчІде,CyrillTrans,wake up,,,worčʼde,Phonemic
+4-620-28-1,anda1281,Avar (Andalal dialect),1920,макьу бихьде,CyrillTrans,dream,,,maƛ̄ʼu bix̌de,Phonemic
+4-612-28-1,anda1281,Avar (Andalal dialect),1983,ххарде,CyrillTrans,snore,,,x̄arde,Phonemic
+4-610-28-1,anda1281,Avar (Andalal dialect),1585,кьижде,CyrillTrans,sleep,,,ƛ̄ʼižde,Phonemic
+4-591-28-1,anda1281,Avar (Andalal dialect),268,гижи чваххде,CyrillTrans,dribble,,,giži čʷax̄de,Phonemic
+4-590-28-1,anda1281,Avar (Andalal dialect),319,чІчІекІде,CyrillTrans,lick,,,č̄ʼekʼde,Phonemic
+4-580-28-1,anda1281,Avar (Andalal dialect),1403,хІанчІде,CyrillTrans,bite,,,ħančʼde,Phonemic
+4-570-28-1,anda1281,Avar (Andalal dialect),1278,лагІде,CyrillTrans,vomit,,,"laʕde, leʕede",Phonemic
+4-570-28-3,anda1281,Avar (Andalal dialect),1278,легІеде,CyrillTrans,vomit,,,"laʕde, leʕede",Phonemic
+4-560-28-1,anda1281,Avar (Andalal dialect),1440,гижи тведе,CyrillTrans,spit,,,giži tʷede,Phonemic
+4-550-28-1,anda1281,Avar (Andalal dialect),126,гІелЪ баде,CyrillTrans,perspire,,,ʕelʔ bade,Phonemic
+4-540-28-1,anda1281,Avar (Andalal dialect),1621,чинхде,CyrillTrans,sneeze,,,činxde,Phonemic
+4-530-28-1,anda1281,Avar (Andalal dialect),879,хегІде,CyrillTrans,cough,,,xeʕde,Phonemic
+4-521-28-1,anda1281,Avar (Andalal dialect),162,гьукІде,CyrillTrans,hiccough,,,hukʼde,Phonemic
+4-520-28-1,anda1281,Avar (Andalal dialect),1028,гьакІкІаде,CyrillTrans,"yawn, gape",,,hak̄ʼade,Phonemic
+4-510-28-1,anda1281,Avar (Andalal dialect),1407,хІухьал цІцІаде,CyrillTrans,"breathe, breath",,,ħux̌al c̄ʼade,Phonemic
+4-492-28-1,anda1281,Avar (Andalal dialect),1222,мехьер,CyrillTrans,penis,,,mex̌er,Phonemic
+4-490-28-1,anda1281,Avar (Andalal dialect),797,хІанал,CyrillTrans,testicle,,,ħanal,Phonemic
+4-470-28-1,anda1281,Avar (Andalal dialect),804,ончІорокъ,CyrillTrans,womb,,,ončʼoroqʼ,Phonemic
+4-464-28-1,anda1281,Avar (Andalal dialect),834,роцц,CyrillTrans,buttocks,,,roc̄,Phonemic
+4-463-28-1,anda1281,Avar (Andalal dialect),1745,мачІчІ,CyrillTrans,hip,,,mač̄ʼ,Phonemic
+4-462-28-1,anda1281,Avar (Andalal dialect),1681,рачукьбакІ,CyrillTrans,waist,,,račuƛ̄ʼbakʼ,Phonemic
+4-461-28-1,anda1281,Avar (Andalal dialect),1991,чехьбакь,CyrillTrans,"intestines, guts",,,čex̌baƛ̄ʼ,Phonemic
+4-460-28-1,anda1281,Avar (Andalal dialect),819,кунил рокъ,CyrillTrans,stomach,,,kunil roqʼ,Phonemic
+4-452-28-1,anda1281,Avar (Andalal dialect),1744,къерчІчІ,CyrillTrans,spleen,,,qʼerč̄ʼ,Phonemic
+4-451-28-1,anda1281,Avar (Andalal dialect),489,багІаржо,CyrillTrans,kidney,,,baʕaržo,Phonemic
+4-450-28-1,anda1281,Avar (Andalal dialect),1224,тІул,CyrillTrans,liver,,,tʼul,Phonemic
+4-441-28-1,anda1281,Avar (Andalal dialect),688,гьуэр,CyrillTrans,lung,,,huer,Phonemic
+4-440-28-1,anda1281,Avar (Andalal dialect),1223,ракІ,CyrillTrans,heart,,,rakʼ,Phonemic
+4-430-28-1,anda1281,Avar (Andalal dialect),1838,цІцІину,CyrillTrans,navel,,,c̄ʼinu,Phonemic
+4-420-28-1,anda1281,Avar (Andalal dialect),154,гъвари,CyrillTrans,udder,,,ɣʷari,Phonemic
+4-412-28-1,anda1281,Avar (Andalal dialect),796,моцІцІо,CyrillTrans,"nipple, teat",,,moc̄ʼo,Phonemic
+4-410-28-1,anda1281,Avar (Andalal dialect),1402,гага,CyrillTrans,breast (of woman),,,gaga,Phonemic
+4-400-28-1,anda1281,Avar (Andalal dialect),1592,керен,CyrillTrans,chest,,,"keren, cʼalal",Phonemic
+4-400-28-3,anda1281,Avar (Andalal dialect),1592,цІалал,CyrillTrans,chest,,,"keren, cʼalal",Phonemic
+4-393-28-1,anda1281,Avar (Andalal dialect),1201,хІули,CyrillTrans,feather,,,ħuli,Phonemic
+4-392-28-1,anda1281,Avar (Andalal dialect),1257,кваркьи,CyrillTrans,wing,,,kʷarƛ̄ʼi,Phonemic
+4-380-28-1,anda1281,Avar (Andalal dialect),1389,хІинтІил гилищ,CyrillTrans,toe,,,ħintʼil giliš̄,Phonemic
+4-374-28-1,anda1281,Avar (Andalal dialect),318,гьакІ,CyrillTrans,footprint,,,hakʼ,Phonemic
+4-372-28-1,anda1281,Avar (Andalal dialect),980,эгъе,CyrillTrans,heel,,,eɣe,Phonemic
+4-371-28-1,anda1281,Avar (Andalal dialect),803,хІинтІил хинкІ,CyrillTrans,ankle,,,ħintʼil xinkʼ,Phonemic
+4-370-28-1,anda1281,Avar (Andalal dialect),1301,хІинтІ,CyrillTrans,foot,,,ħintʼ,Phonemic
+4-360-28-1,anda1281,Avar (Andalal dialect),1371,наку,CyrillTrans,knee,,,naku,Phonemic
+4-352-28-1,anda1281,Avar (Andalal dialect),498,ччобор,CyrillTrans,calf of leg,,,č̄obor,Phonemic
+4-351-28-1,anda1281,Avar (Andalal dialect),800,мачІчІ,CyrillTrans,thigh,,,mač̄ʼ,Phonemic
+4-350-28-1,anda1281,Avar (Andalal dialect),1297,хІинтІ,CyrillTrans,leg,,,ħintʼ,Phonemic
+4-345-28-1,anda1281,Avar (Andalal dialect),72,малгь,CyrillTrans,claw,,,malh,Phonemic
+4-344-28-1,anda1281,Avar (Andalal dialect),1258,малгь,CyrillTrans,fingernail,,,malh,Phonemic
+4-342-28-1,anda1281,Avar (Andalal dialect),1781,кІудаб гилищ,CyrillTrans,thumb,,,"kʼudab giliš̄, biɬingiliš̄",Phonemic
+4-342-28-3,anda1281,Avar (Andalal dialect),1781,билъингилищ,CyrillTrans,thumb,,,"kʼudab giliš̄, biɬingiliš̄",Phonemic
+4-340-28-1,anda1281,Avar (Andalal dialect),1303,гилищ,CyrillTrans,finger,,,giliš̄,Phonemic
+4-331-28-1,anda1281,Avar (Andalal dialect),1183,хат,CyrillTrans,palm of hand,,,"xat, ʕinuxat",Phonemic
+4-331-28-3,anda1281,Avar (Andalal dialect),1183,гІинухат,CyrillTrans,palm of hand,,,"xat, ʕinuxat",Phonemic
+4-330-28-1,anda1281,Avar (Andalal dialect),1277,квер,CyrillTrans,hand,,,kʷer,Phonemic
+4-321-28-1,anda1281,Avar (Andalal dialect),799,квердул рищи,CyrillTrans,wrist,,,kʷerdul riš̄i,Phonemic
+4-320-28-1,anda1281,Avar (Andalal dialect),981,гІункІрукь,CyrillTrans,elbow,,,"ʕunkʼruƛ̄ʼ, c̄ʼutʼɣež",Phonemic
+4-320-28-3,anda1281,Avar (Andalal dialect),981,цІцІутІгъеж,CyrillTrans,elbow,,,"ʕunkʼruƛ̄ʼ, c̄ʼutʼɣež",Phonemic
+4-312-28-1,anda1281,Avar (Andalal dialect),1886,къваликьбакІ,CyrillTrans,armpit,,,qʼʷaliƛ̄ʼbakʼ,Phonemic
+4-310-28-1,anda1281,Avar (Andalal dialect),1673,квер,CyrillTrans,arm,,,kʷer,Phonemic
+4-302-28-1,anda1281,Avar (Andalal dialect),1994,сологІучІ,CyrillTrans,collarbone,,,soloʕučʼ,Phonemic
+4-301-28-1,anda1281,Avar (Andalal dialect),172,ракьа,CyrillTrans,shoulderblade,,,"raƛ̄ʼa, buhnallaga",Phonemic
+4-301-28-3,anda1281,Avar (Andalal dialect),172,бугьналлага,CyrillTrans,shoulderblade,,,"raƛ̄ʼa, buhnallaga",Phonemic
+4-300-28-1,anda1281,Avar (Andalal dialect),1482,гъеж,CyrillTrans,shoulder,,,ɣež,Phonemic
+4-290-28-1,anda1281,Avar (Andalal dialect),1346,жекъер,CyrillTrans,throat,,,žeqʼer,Phonemic
+4-281-28-1,anda1281,Avar (Andalal dialect),1347,гъванща,CyrillTrans,nape of neck,,,ɣʷanš̄a,Phonemic
+4-280-28-1,anda1281,Avar (Andalal dialect),1333,губур,CyrillTrans,neck,,,gubur,Phonemic
+4-272-28-1,anda1281,Avar (Andalal dialect),1049,гІесо,CyrillTrans,molartooth,,,ʕeso,Phonemic
+4-270-28-1,anda1281,Avar (Andalal dialect),1380,гожо,CyrillTrans,tooth,,,gožo,Phonemic
+4-271-28-1,anda1281,Avar (Andalal dialect),139,дабал,CyrillTrans,gums,,,dabal,Phonemic
+4-260-28-1,anda1281,Avar (Andalal dialect),1205,мацІцІ,CyrillTrans,tongue,,,mac̄ʼ,Phonemic
+4-250-28-1,anda1281,Avar (Andalal dialect),478,пищ,CyrillTrans,lip,,,piš̄,Phonemic
+4-241-28-1,anda1281,Avar (Andalal dialect),73,гозо,CyrillTrans,beak,,,gozo,Phonemic
+4-240-28-1,anda1281,Avar (Andalal dialect),674,кІал,CyrillTrans,mouth,,,kʼal,Phonemic
+4-232-28-1,anda1281,Avar (Andalal dialect),208,хахІ,CyrillTrans,mucus (nasal),,,xaħ,Phonemic
+4-231-28-1,anda1281,Avar (Andalal dialect),1178,шиншикъили,CyrillTrans,nostril,,,šinšiqʼili,Phonemic
+4-230-28-1,anda1281,Avar (Andalal dialect),1221,хамах,CyrillTrans,nose,,,xamax,Phonemic
+4-222-28-1,anda1281,Avar (Andalal dialect),32,хІецІцІ,CyrillTrans,earwax,,,"ħec̄ʼ, ħebec̄ʼ",Phonemic
+4-222-28-3,anda1281,Avar (Andalal dialect),32,хІебецІцІ,CyrillTrans,earwax,,,"ħec̄ʼ, ħebec̄ʼ",Phonemic
+4-221-28-1,anda1281,Avar (Andalal dialect),18,тамахгІен,CyrillTrans,earlobe,,,tamaxʕen,Phonemic
+4-220-28-1,anda1281,Avar (Andalal dialect),1247,гІен,CyrillTrans,ear,,,ʕen,Phonemic
+4-215-28-1,anda1281,Avar (Andalal dialect),1655,ушде,CyrillTrans,blink,,,ušde,Phonemic
+4-214-28-1,anda1281,Avar (Andalal dialect),1540,бирзул эмхІал,CyrillTrans,eyelash,,,birzul emħal,Phonemic
+4-213-28-1,anda1281,Avar (Andalal dialect),17,бирзул эмен,CyrillTrans,eyelid,,,birzul emen,Phonemic
+4-212-28-1,anda1281,Avar (Andalal dialect),1173,эсер,CyrillTrans,eyebrow,,,"eser, usrul",Phonemic
+4-212-28-3,anda1281,Avar (Andalal dialect),1173,усрул,CyrillTrans,eyebrow,,,"eser, usrul",Phonemic
+4-210-28-1,anda1281,Avar (Andalal dialect),1248,бер,CyrillTrans,eye,,,ber,Phonemic
+4-208-28-1,anda1281,Avar (Andalal dialect),1730,кІекъен,CyrillTrans,cheek,,,kʼeqʼen,Phonemic
+4-209-28-1,anda1281,Avar (Andalal dialect),1510,нилгьалхІама,CyrillTrans,chin,,,nilhalħama,Phonemic
+4-205-28-1,anda1281,Avar (Andalal dialect),123,нодо,CyrillTrans,forehead,,,nodo,Phonemic
+4-207-28-1,anda1281,Avar (Andalal dialect),798,нилгьу,CyrillTrans,jaw,,,nilhu,Phonemic
+4-204-28-1,anda1281,Avar (Andalal dialect),1560,беркІал,CyrillTrans,face,,,berkʼal,Phonemic
+4-203-28-1,anda1281,Avar (Andalal dialect),1583,гІадалнахІ,CyrillTrans,brain,,,ʕadalnaħ,Phonemic
+4-201-28-1,anda1281,Avar (Andalal dialect),1604,щенкІел,CyrillTrans,"side of head, temple",,,š̄enkʼel,Phonemic
+4-202-28-1,anda1281,Avar (Andalal dialect),1605,гвангвара,CyrillTrans,skull,,,gʷangʷara,Phonemic
+4-200-28-1,anda1281,Avar (Andalal dialect),1256,бел′эр,CyrillTrans,head,,,belʔer,Phonemic
+4-191-28-1,anda1281,Avar (Andalal dialect),805,могъзал гьод,CyrillTrans,spine,,,moɣzal hod,Phonemic
+4-190-28-1,anda1281,Avar (Andalal dialect),1291,могъ,CyrillTrans,back,,,moɣ,Phonemic
+4-180-28-1,anda1281,Avar (Andalal dialect),1220,магъ,CyrillTrans,tail,,,maɣ,Phonemic
+4-170-28-1,anda1281,Avar (Andalal dialect),1393,лълъар,CyrillTrans,horn,,,ɬ̄ar,Phonemic
+4-162-28-1,anda1281,Avar (Andalal dialect),801,хІабалах,CyrillTrans,rib,,,"ħabalax, x̌abalaxul ʕučʼ",Phonemic
+4-162-28-3,anda1281,Avar (Andalal dialect),801,хьабалахул гІучІ,CyrillTrans,rib,,,"ħabalax, x̌abalaxul ʕučʼ",Phonemic
+4-160-28-1,anda1281,Avar (Andalal dialect),1394,ракьа,CyrillTrans,bone,,,raƛ̄ʼa,Phonemic
+4-151-28-1,anda1281,Avar (Andalal dialect),525,бидуллихь,CyrillTrans,"vein, artery",,,"bidullix̌, bidulrix̌",Phonemic
+4-151-28-3,anda1281,Avar (Andalal dialect),525,бидулрихь,CyrillTrans,"vein, artery",,,"bidullix̌, bidulrix̌",Phonemic
+4-150-28-1,anda1281,Avar (Andalal dialect),946,би,CyrillTrans,blood,,,bi,Phonemic
+4-146-28-1,anda1281,Avar (Andalal dialect),576,макъар,CyrillTrans,dandruff,,,maqʼar,Phonemic
+4-145-28-1,anda1281,Avar (Andalal dialect),36,пехІ,CyrillTrans,pubic hair,,,peħ,Phonemic
+4-144-28-1,anda1281,Avar (Andalal dialect),189,рас,CyrillTrans,body hair,,,ras,Phonemic
+4-142-28-1,anda1281,Avar (Andalal dialect),678,мегеж,CyrillTrans,beard,,,megež,Phonemic
+4-140-28-1,anda1281,Avar (Andalal dialect),1040,рас,CyrillTrans,hair (head),,,ras,Phonemic
+4-130-28-1,anda1281,Avar (Andalal dialect),2259,черх,CyrillTrans,flesh,,,"čerx, qʼarqʼala",Phonemic
+4-130-28-3,anda1281,Avar (Andalal dialect),2259,къаркъала,CyrillTrans,flesh,,,"čerx, qʼarqʼala",Phonemic
+4-120-28-1,anda1281,Avar (Andalal dialect),763,хал,CyrillTrans,"skin, hide",,,xal,Phonemic
+4-110-28-1,anda1281,Avar (Andalal dialect),1480,черх,CyrillTrans,body,,,čerx,Phonemic
+3-980-28-1,anda1281,Avar (Andalal dialect),112,щурункъверкъ,CyrillTrans,turtle,,,š̄urunqʼʷerqʼ,Phonemic
+3-970-28-1,anda1281,Avar (Andalal dialect),1857,гІаждагьа,CyrillTrans,"crocodile, alligator",,,ʕaždaha,Phonemic
+3-960-28-1,anda1281,Avar (Andalal dialect),632,пекьечро,CyrillTrans,lizard,,,peƛ̄ʼečro,Phonemic
+3-950-28-1,anda1281,Avar (Andalal dialect),503,къверкъ,CyrillTrans,frog,,,qʼʷerqʼ,Phonemic
+3-940-28-1,anda1281,Avar (Andalal dialect),1543,цІцІадал хІама,CyrillTrans,snail,,,c̄ʼadal ħama,Phonemic
+3-930-28-1,anda1281,Avar (Andalal dialect),607,гацІ,CyrillTrans,grasshopper,,,gacʼ,Phonemic
+3-920-28-1,anda1281,Avar (Andalal dialect),1791,мангур,CyrillTrans,butterfly,,,mangur,Phonemic
+3-910-28-1,anda1281,Avar (Andalal dialect),206,хІапару,CyrillTrans,firefly,,,"ħaparu, kanakro",Phonemic
+3-910-28-3,anda1281,Avar (Andalal dialect),206,канакро,CyrillTrans,firefly,,,"ħaparu, kanakro",Phonemic
+3-850-28-1,anda1281,Avar (Andalal dialect),730,бурухь,CyrillTrans,snake,,,burux̌,Phonemic
+3-840-28-1,anda1281,Avar (Andalal dialect),1219,хІутІ,CyrillTrans,worm,,,ħutʼ,Phonemic
+3-832-28-1,anda1281,Avar (Andalal dialect),1509,кІкІара,CyrillTrans,mosquito,,,k̄ʼara,Phonemic
+3-831-28-1,anda1281,Avar (Andalal dialect),95,кІкІара,CyrillTrans,"sandfly (midge), gnat",,,k̄ʼara,Phonemic
+3-830-28-1,anda1281,Avar (Andalal dialect),1504,тІотІ,CyrillTrans,fly,,,tʼotʼ,Phonemic
+3-823-28-1,anda1281,Avar (Andalal dialect),1517,кьунжнай,CyrillTrans,wasp,,,"ƛ̄ʼunžnay, ƛ̄ʼonž",Phonemic
+3-823-28-3,anda1281,Avar (Andalal dialect),1517,кьонж,CyrillTrans,wasp,,,"ƛ̄ʼunžnay, ƛ̄ʼonž",Phonemic
+3-822-28-1,anda1281,Avar (Andalal dialect),88,най,CyrillTrans,beehive,,,"nay, naydul ala",Phonemic
+3-822-28-3,anda1281,Avar (Andalal dialect),88,найдул ала,CyrillTrans,beehive,,,"nay, naydul ala",Phonemic
+3-821-28-1,anda1281,Avar (Andalal dialect),1931,хІе,CyrillTrans,beeswax,,,ħe,Phonemic
+3-820-28-1,anda1281,Avar (Andalal dialect),665,най,CyrillTrans,bee,,,nay,Phonemic
+3-819-28-1,anda1281,Avar (Andalal dialect),1065,ханхру,CyrillTrans,spider web,,,xanxru,Phonemic
+3-818-28-1,anda1281,Avar (Andalal dialect),843,ханхру,CyrillTrans,spider,,,xanxru,Phonemic
+3-817-28-1,anda1281,Avar (Andalal dialect),587,цІцІунцІцІро,CyrillTrans,ant,,,c̄ʼunc̄ʼro,Phonemic
+3-816-28-1,anda1281,Avar (Andalal dialect),1575,хІутІ,CyrillTrans,cockroach,,,ħutʼ,Phonemic
+3-815-28-1,anda1281,Avar (Andalal dialect),1538,ичІчай,CyrillTrans,scorpion,,,ičʼčay,Phonemic
+3-814-28-1,anda1281,Avar (Andalal dialect),1974,боххдулгІемер,CyrillTrans,centipede,,,box̄dulʕemer,Phonemic
+3-813-28-1,anda1281,Avar (Andalal dialect),232,чІчІетІ,CyrillTrans,flea,,,č̄ʼetʼ,Phonemic
+3-812-28-1,anda1281,Avar (Andalal dialect),267,ницІцІил хІоно,CyrillTrans,nit (louse egg),,,nic̄ʼil ħono,Phonemic
+3-811-28-1,anda1281,Avar (Andalal dialect),1392,нацІцІ,CyrillTrans,louse,,,nac̄ʼ,Phonemic
+3-810-28-1,anda1281,Avar (Andalal dialect),620,хІутІ-хумур,CyrillTrans,insect,,,ħutʼ-xumur,Phonemic
+3-780-28-1,anda1281,Avar (Andalal dialect),1871,варани,CyrillTrans,camel,,,warani,Phonemic
+3-770-28-1,anda1281,Avar (Andalal dialect),1290,пилʼ,CyrillTrans,elephant,,,pilʲ,Phonemic
+3-760-28-1,anda1281,Avar (Andalal dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-28-1,anda1281,Avar (Andalal dialect),1936,чан,CyrillTrans,deer,,,čan,Phonemic
+3-740-28-1,anda1281,Avar (Andalal dialect),1312,цер,CyrillTrans,fox,,,cer,Phonemic
+3-730-28-1,anda1281,Avar (Andalal dialect),1820,ци,CyrillTrans,bear,,,ci,Phonemic
+3-720-28-1,anda1281,Avar (Andalal dialect),1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-28-1,anda1281,Avar (Andalal dialect),522,бацІ,CyrillTrans,wolf,,,bacʼ,Phonemic
+3-663-28-1,anda1281,Avar (Andalal dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-28-1,anda1281,Avar (Andalal dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-28-1,anda1281,Avar (Andalal dialect),1110,хъуртма,CyrillTrans,shark,,,qurtma,Phonemic
+3-655-28-1,anda1281,Avar (Andalal dialect),598,ччугІил гІен,CyrillTrans,shell,,,č̄uʕil ʕen,Phonemic
+3-653-28-1,anda1281,Avar (Andalal dialect),266,ччугІил хъал,CyrillTrans,fishscale,,,č̄uʕil qal,Phonemic
+3-652-28-1,anda1281,Avar (Andalal dialect),213,лъедолеб квачІ,CyrillTrans,fin (dorsal),,,ɬedoleb kʷačʼ,Phonemic
+3-650-28-1,anda1281,Avar (Andalal dialect),227,ччугІа,CyrillTrans,fish,,,č̄uʕa,Phonemic
+3-630-28-1,anda1281,Avar (Andalal dialect),2139,гІункІкІ,CyrillTrans,"mouse, rat",,,"ʕunk̄ʼ, muxraʕunk̄ʼ",Phonemic
+3-630-28-3,anda1281,Avar (Andalal dialect),2139,мухрагІункІкІ,CyrillTrans,"mouse, rat",,,"ʕunk̄ʼ, muxraʕunk̄ʼ",Phonemic
+3-620-28-1,anda1281,Avar (Andalal dialect),1208,кето,CyrillTrans,cat,,,keto,Phonemic
+3-614-28-1,anda1281,Avar (Andalal dialect),1136,гІанкІ,CyrillTrans,rabbit,,,ʕankʼ,Phonemic
+3-610-28-1,anda1281,Avar (Andalal dialect),2009,гьве,CyrillTrans,dog,,,hʷe,Phonemic
+3-594-28-1,anda1281,Avar (Andalal dialect),1853,микки,CyrillTrans,dove,,,mik̄i,Phonemic
+3-596-28-1,anda1281,Avar (Andalal dialect),735,руз,CyrillTrans,owl,,,ruz,Phonemic
+3-593-28-1,anda1281,Avar (Andalal dialect),913,гъеду,CyrillTrans,crow,,,ɣedu,Phonemic
+3-592-28-1,anda1281,Avar (Andalal dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-28-1,anda1281,Avar (Andalal dialect),1793,къохьол дергъу,CyrillTrans,bat,,,qʼox̌ol derɣu,Phonemic
+3-586-28-1,anda1281,Avar (Andalal dialect),1185,хъвек,CyrillTrans,vulture,,,qʷek,Phonemic
+3-585-28-1,anda1281,Avar (Andalal dialect),307,лачен,CyrillTrans,hawk,,,lačen,Phonemic
+3-584-28-1,anda1281,Avar (Andalal dialect),1905,цІцІун,CyrillTrans,eagle,,,c̄ʼun,Phonemic
+3-582-28-1,anda1281,Avar (Andalal dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-28-1,anda1281,Avar (Andalal dialect),758,лакълакъ,CyrillTrans,heron,,,laqʼlaqʼ,Phonemic
+3-581-28-1,anda1281,Avar (Andalal dialect),937,гІанкІо-хІелеко,CyrillTrans,bird,,,ʕankʼo-ħeleko,Phonemic
+3-580-28-1,anda1281,Avar (Andalal dialect),539,бусен,CyrillTrans,nest,,,busen,Phonemic
+3-570-28-1,anda1281,Avar (Andalal dialect),1360,урдек,CyrillTrans,duck,,,urdek,Phonemic
+3-560-28-1,anda1281,Avar (Andalal dialect),1187,гъаз,CyrillTrans,goose,,,ɣaz,Phonemic
+3-550-28-1,anda1281,Avar (Andalal dialect),1318,гІанкІудул энчІ,CyrillTrans,chicken,,,ʕankʼudul enčʼ,Phonemic
+3-540-28-1,anda1281,Avar (Andalal dialect),1514,гІанкІо,CyrillTrans,hen,,,ʕankʼo,Phonemic
+3-520-28-1,anda1281,Avar (Andalal dialect),1511,хІелеко,CyrillTrans,"cock, rooster",,,ħeleko,Phonemic
+3-470-28-1,anda1281,Avar (Andalal dialect),890,гІурцІен,CyrillTrans,mule,,,ʕurcʼen,Phonemic
+3-500-28-1,anda1281,Avar (Andalal dialect),265,гІанкІо-хІлеко,CyrillTrans,fowl,,,ʕankʼo-ħeleko,Phonemic
+3-460-28-1,anda1281,Avar (Andalal dialect),1862,хІама,CyrillTrans,"ass, donkey",,,ħama,Phonemic
+3-450-28-1,anda1281,Avar (Andalal dialect),1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-28-1,anda1281,Avar (Andalal dialect),938,гІала,CyrillTrans,mare,,,ʕala,Phonemic
+3-420-28-1,anda1281,Avar (Andalal dialect),936,бартичу,CyrillTrans,stallion,,,bartiču,Phonemic
+3-410-28-1,anda1281,Avar (Andalal dialect),615,чу,CyrillTrans,horse (equine),,,ču,Phonemic
+3-380-28-1,anda1281,Avar (Andalal dialect),1972,дигич,CyrillTrans,kid,,,"digič, č̄un",Phonemic
+3-380-28-3,anda1281,Avar (Andalal dialect),1972,ччун,CyrillTrans,kid,,,"digič, č̄un",Phonemic
+3-370-28-1,anda1281,Avar (Andalal dialect),264,дегІен,CyrillTrans,he-goat,,,deʕen,Phonemic
+3-360-28-1,anda1281,Avar (Andalal dialect),1502,цІцІе,CyrillTrans,goat,,,c̄ʼe,Phonemic
+3-350-28-1,anda1281,Avar (Andalal dialect),1337,болгьон,CyrillTrans,pig,,,bolhon,Phonemic
+3-340-28-1,anda1281,Avar (Andalal dialect),1351,эбелаб болгьон,CyrillTrans,sow (2),,,ebelab bolhon,Phonemic
+3-320-28-1,anda1281,Avar (Andalal dialect),1348,болгьон,CyrillTrans,boar,,,bolhon,Phonemic
+3-290-28-1,anda1281,Avar (Andalal dialect),820,кьегІер,CyrillTrans,lamb,,,ƛ̄ʼeʕer,Phonemic
+3-280-28-1,anda1281,Avar (Andalal dialect),1345,чаху,CyrillTrans,ewe,,,čaxu,Phonemic
+3-260-28-1,anda1281,Avar (Andalal dialect),1344,куй,CyrillTrans,ram,,,kuy,Phonemic
+3-250-28-1,anda1281,Avar (Andalal dialect),1331,небгал,CyrillTrans,sheep,,,nebgal,Phonemic
+3-240-28-1,anda1281,Avar (Andalal dialect),1989,бече,CyrillTrans,calf,,,beče,Phonemic
+3-230-28-1,anda1281,Avar (Andalal dialect),1007,гІака,CyrillTrans,cow,,,ʕaka,Phonemic
+3-220-28-1,anda1281,Avar (Andalal dialect),1169,оц,CyrillTrans,ox,,,oc,Phonemic
+3-210-28-1,anda1281,Avar (Andalal dialect),1008,оц,CyrillTrans,bull,,,oc,Phonemic
+3-200-28-1,anda1281,Avar (Andalal dialect),1153,хІайван-боцІцІи,CyrillTrans,cattle (bovine),,,ħaywan-boc̄ʼi,Phonemic
+3-190-28-1,anda1281,Avar (Andalal dialect),851,чолбокь,CyrillTrans,"stable, stall",,,čolboƛ̄ʼ,Phonemic
+3-180-28-1,anda1281,Avar (Andalal dialect),263,рохьдохан,CyrillTrans,herdsman,,,rox̌doxan,Phonemic
+3-160-28-1,anda1281,Avar (Andalal dialect),649,меэр,CyrillTrans,pasture,,,"meʔer, ʕalax",Phonemic
+3-160-28-3,anda1281,Avar (Andalal dialect),649,гІалах,CyrillTrans,pasture,,,"meʔer, ʕalax",Phonemic
+3-150-28-1,anda1281,Avar (Andalal dialect),631,боцІцІи,CyrillTrans,livestock,,,boc̄ʼi,Phonemic
+3-130-28-1,anda1281,Avar (Andalal dialect),2262,ц̄Іуяб,CyrillTrans,female (adj),,,c̄ʼuyab,Phonemic
+3-120-28-1,anda1281,Avar (Andalal dialect),2261,бихьинаб,CyrillTrans,male (adj),,,bix̌inab,Phonemic
+3-110-28-1,anda1281,Avar (Andalal dialect),619,хІайван,CyrillTrans,animal,,,ħaywan,Phonemic
+2-960-28-1,anda1281,Avar (Andalal dialect),817,гъал,CyrillTrans,they,,,"ɣal, hidal",Phonemic
+2-960-28-3,anda1281,Avar (Andalal dialect),817,гьидал,CyrillTrans,they,,,"ɣal, hidal",Phonemic
+2-950-28-1,anda1281,Avar (Andalal dialect),1213,нуж,CyrillTrans,you (plural),,,nuž,Phonemic
+2-942-28-1,anda1281,Avar (Andalal dialect),1130,ниж,CyrillTrans,we (exclusive),,,niž,Phonemic
+2-941-28-1,anda1281,Avar (Andalal dialect),1131,нилълъ,CyrillTrans,we (inclusive),,,niɬ̄,Phonemic
+2-940-28-1,anda1281,Avar (Andalal dialect),1212,нилълъ,CyrillTrans,we,,,niɬ̄,Phonemic
+2-930-28-1,anda1281,Avar (Andalal dialect),262,гъай,CyrillTrans,he/she/it,,,"ɣay, ɣab, haw",Phonemic
+2-930-28-3,anda1281,Avar (Andalal dialect),262,гъоб,CyrillTrans,he/she/it,,,"ɣay, ɣab, haw",Phonemic
+2-930-28-5,anda1281,Avar (Andalal dialect),262,гьав,CyrillTrans,he/she/it,,,"ɣay, ɣab, haw",Phonemic
+2-920-28-1,anda1281,Avar (Andalal dialect),1215,мун,CyrillTrans,you (singular),,,"mun, nuž",Phonemic
+2-920-28-3,anda1281,Avar (Andalal dialect),1215,нуж,CyrillTrans,you (singular),,,"mun, nuž",Phonemic
+2-910-28-1,anda1281,Avar (Andalal dialect),1209,дун,CyrillTrans,I,,,dun,Phonemic
+2-820-28-1,anda1281,Avar (Andalal dialect),194,хизан,CyrillTrans,family,,,xizan,Phonemic
+2-810-28-1,anda1281,Avar (Andalal dialect),1644,гІагаралчи,CyrillTrans,"relatives, kinsmen",,,ʕagaralči,Phonemic
+2-770-28-1,anda1281,Avar (Andalal dialect),1981,къоролав,CyrillTrans,widower,,,"qʼorolaw, ɬ̄adi yalʔaraw,",Phonemic
+2-770-28-3,anda1281,Avar (Andalal dialect),1981,лълъади йалЪарав,CyrillTrans,widower,,,"qʼorolaw, ɬ̄adi yalʔaraw,",Phonemic
+2-760-28-1,anda1281,Avar (Andalal dialect),1756,къоролай,CyrillTrans,widow,,,"qʼorolay, ros ħʷaray",Phonemic
+2-760-28-3,anda1281,Avar (Andalal dialect),1756,рос хІварай,CyrillTrans,widow,,,"qʼorolay, ros ħʷaray",Phonemic
+2-750-28-1,anda1281,Avar (Andalal dialect),1149,бестІалав,CyrillTrans,orphan,,,"bestʼalaw, yatin",Phonemic
+2-750-28-3,anda1281,Avar (Andalal dialect),1149,ятин,CyrillTrans,orphan,,,"bestʼalaw, yatin",Phonemic
+2-740-28-1,anda1281,Avar (Andalal dialect),1058,бестІал яс,CyrillTrans,stepdaughter,,,bestʼal yas,Phonemic
+2-730-28-1,anda1281,Avar (Andalal dialect),1059,бестІал вас,CyrillTrans,stepson,,,bestʼal was,Phonemic
+2-720-28-1,anda1281,Avar (Andalal dialect),236,бестІал эбелʼ,CyrillTrans,stepmother,,,bestʼal ebelʲ,Phonemic
+2-710-28-1,anda1281,Avar (Andalal dialect),237,бестІал эмен,CyrillTrans,stepfather,,,bestʼal emen,Phonemic
+2-641-28-1,anda1281,Avar (Andalal dialect),2264,васассул лъади,CyrillTrans,daughter-in-law (of a woman),,,wasas̄ul ɬadi,Phonemic
+2-640-28-1,anda1281,Avar (Andalal dialect),2265,нус,CyrillTrans,daughter-in-law (of a man),,,nus,Phonemic
+2-631-28-1,anda1281,Avar (Andalal dialect),2266,дурц,CyrillTrans,son-in-law (of a woman),,,"durc, yasaɬ̄ul ros̄",Phonemic
+2-631-28-3,anda1281,Avar (Andalal dialect),2266,ясалъул росс,CyrillTrans,son-in-law (of a woman),,,"durc, yasaɬ̄ul ros̄",Phonemic
+2-630-28-1,anda1281,Avar (Andalal dialect),2267,дурц,CyrillTrans,son-in-law (of a man),,,durc,Phonemic
+2-621-28-1,anda1281,Avar (Andalal dialect),2257,якьад,CyrillTrans,mother-in-law (of a woman),,,"yaƛ̄ʼad, ɬ̄adul ebelʼ",Phonemic
+2-621-28-3,anda1281,Avar (Andalal dialect),2257,лълъадул эбелʼ,CyrillTrans,mother-in-law (of a woman),,,"yaƛ̄ʼad, ɬ̄adul ebelʼ",Phonemic
+2-620-28-1,anda1281,Avar (Andalal dialect),2256,якьад,CyrillTrans,mother-in-law (of a man),,,"yaƛ̄ʼad, ros̄as̄ul ebelʼ",Phonemic
+2-620-28-3,anda1281,Avar (Andalal dialect),2256,россассул эбелʼ,CyrillTrans,mother-in-law (of a man),,,"yaƛ̄ʼad, ros̄as̄ul ebelʼ",Phonemic
+2-611-28-1,anda1281,Avar (Andalal dialect),2254,вакьад,CyrillTrans,father-in-law (of a woman),,,"waƛ̄ʼad, ɬ̄adul emen",Phonemic
+2-611-28-3,anda1281,Avar (Andalal dialect),2254,лълъадул эмен,CyrillTrans,father-in-law (of a woman),,,"waƛ̄ʼad, ɬ̄adul emen",Phonemic
+2-610-28-1,anda1281,Avar (Andalal dialect),2255,вакьад,CyrillTrans,father-in-law (of a man),,,"waƛ̄ʼad, ros̄as̄ul emen",Phonemic
+2-610-28-3,anda1281,Avar (Andalal dialect),2255,россассул эмен,CyrillTrans,father-in-law (of a man),,,"waƛ̄ʼad, ros̄as̄ul emen",Phonemic
+2-570-28-1,anda1281,Avar (Andalal dialect),490,наслу,CyrillTrans,descendants,,,naslu,Phonemic
+2-560-28-1,anda1281,Avar (Andalal dialect),1669,умумал,CyrillTrans,ancestors,,,umumal,Phonemic
+2-550-28-1,anda1281,Avar (Andalal dialect),1643,ваццагІал,CyrillTrans,cousin,,,"wac̄aʕal, yac̄aʕal",Phonemic
+2-550-28-3,anda1281,Avar (Andalal dialect),1643,яццагІал,CyrillTrans,cousin,,,"wac̄aʕal, yac̄aʕal",Phonemic
+2-540-28-1,anda1281,Avar (Andalal dialect),1642,вацасул яс,CyrillTrans,niece,,,"wac̄as̄ul yas, yac̄aɬ̄ul yas",Phonemic
+2-540-28-3,anda1281,Avar (Andalal dialect),1642,яццалълъул яс,CyrillTrans,niece,,,"wac̄as̄ul yas, yac̄aɬ̄ul yas",Phonemic
+2-530-28-1,anda1281,Avar (Andalal dialect),1063,вацасул вас,CyrillTrans,nephew,,,"wac̄as̄ul was, yac̄aɬ̄ul was",Phonemic
+2-530-28-3,anda1281,Avar (Andalal dialect),1063,яццалълъул вас,CyrillTrans,nephew,,,"wac̄as̄ul was, yac̄aɬ̄ul was",Phonemic
+2-522-28-1,anda1281,Avar (Andalal dialect),170,энссул яцц,CyrillTrans,father's sister,,,ens̄ul yac̄,Phonemic
+2-520-28-1,anda1281,Avar (Andalal dialect),1272,эбелълъул яцц,CyrillTrans,aunt,,,"ebeɬ̄ul yac̄, ens̄ul yac̄",Phonemic
+2-520-28-3,anda1281,Avar (Andalal dialect),1272,энссул яцц,CyrillTrans,aunt,,,"ebeɬ̄ul yac̄, ens̄ul yac̄",Phonemic
+2-521-28-1,anda1281,Avar (Andalal dialect),171,эбелълъул яцц,CyrillTrans,mother's sister,,,ebeɬ̄ul yac̄,Phonemic
+2-512-28-1,anda1281,Avar (Andalal dialect),1985,энссул вац,CyrillTrans,father's brother,,,ens̄ul wac̄,Phonemic
+2-511-28-1,anda1281,Avar (Andalal dialect),1984,эбелълъул вац,CyrillTrans,mother's brother,,,ebeɬ̄ul wac̄,Phonemic
+2-510-28-1,anda1281,Avar (Andalal dialect),1327,эбелълъул вац,CyrillTrans,uncle,,,"ebeɬ̄ul wac̄, ens̄ul wac̄",Phonemic
+2-510-28-3,anda1281,Avar (Andalal dialect),1327,энссул вац,CyrillTrans,uncle,,,"ebeɬ̄ul wac̄, ens̄ul wac̄",Phonemic
+2-480-28-1,anda1281,Avar (Andalal dialect),1618,васассул вас,CyrillTrans,grandson,,,"wasas̄ul was, yasaɬ̄ul was",Phonemic
+2-480-28-3,anda1281,Avar (Andalal dialect),1618,ясалъул вас,CyrillTrans,grandson,,,"wasas̄ul was, yasaɬ̄ul was",Phonemic
+2-490-28-1,anda1281,Avar (Andalal dialect),1619,васассул яс,CyrillTrans,granddaughter,,,"wasas̄ul yas, yasaɬ̄ul yas",Phonemic
+2-490-28-3,anda1281,Avar (Andalal dialect),1619,ясалъул яс,CyrillTrans,granddaughter,,,"wasas̄ul yas, yasaɬ̄ul yas",Phonemic
+2-471-28-1,anda1281,Avar (Andalal dialect),907,хІерай,CyrillTrans,old woman,,,ħeray,Phonemic
+2-470-28-1,anda1281,Avar (Andalal dialect),1496,хІерай эбелʼ,CyrillTrans,grandmother,,,ħeray ebelʲ,Phonemic
+2-461-28-1,anda1281,Avar (Andalal dialect),406,хІерав чи,CyrillTrans,old man,,,ħeraw či,Phonemic
+2-460-28-1,anda1281,Avar (Andalal dialect),1383,хІерав эмен,CyrillTrans,grandfather,,,ħeraw emen,Phonemic
+2-458-28-1,anda1281,Avar (Andalal dialect),1005,кІиго гьурурал,CyrillTrans,twins,,,kʼigo hurural,Phonemic
+2-456-28-1,anda1281,Avar (Andalal dialect),1640,вацц-яцц,CyrillTrans,sibling,,,wac̄-yac̄,Phonemic
+2-455-28-1,anda1281,Avar (Andalal dialect),1761,кикай яцц,CyrillTrans,younger sister,,,kikay yac̄,Phonemic
+2-454-28-1,anda1281,Avar (Andalal dialect),1758,кІудай яцц,CyrillTrans,older sister,,,kʼuday yac̄,Phonemic
+2-450-28-1,anda1281,Avar (Andalal dialect),1263,яцц,CyrillTrans,sister,,,yac̄,Phonemic
+2-445-28-1,anda1281,Avar (Andalal dialect),1760,кикав вацц,CyrillTrans,younger brother,,,kikaw wac̄,Phonemic
+2-444-28-1,anda1281,Avar (Andalal dialect),1759,кІудав вацц,CyrillTrans,older brother,,,kʼudaw wac̄,Phonemic
+2-440-28-1,anda1281,Avar (Andalal dialect),1262,вацц,CyrillTrans,brother,,,wac̄,Phonemic
+2-430-28-1,anda1281,Avar (Andalal dialect),1801,гьамал,CyrillTrans,offspring (son or daughter),,,hamal,Phonemic
+2-420-28-1,anda1281,Avar (Andalal dialect),1357,яс,CyrillTrans,daughter,,,yas,Phonemic
+2-410-28-1,anda1281,Avar (Andalal dialect),1620,вас,CyrillTrans,son,,,was,Phonemic
+2-390-28-1,anda1281,Avar (Andalal dialect),426,россассе варай,CyrillTrans,married woman,,,ros̄as̄e waray,Phonemic
+2-380-28-1,anda1281,Avar (Andalal dialect),424,лълъади ячарав,CyrillTrans,married man,,,ɬ̄adi yačaraw,Phonemic
+2-370-28-1,anda1281,Avar (Andalal dialect),505,эбелʼ-эмен,CyrillTrans,parents,,,ebelʲ-emen,Phonemic
+2-360-28-1,anda1281,Avar (Andalal dialect),1216,эбелʼ,CyrillTrans,mother,,,ebelʲ,Phonemic
+2-350-28-1,anda1281,Avar (Andalal dialect),1217,эмен,CyrillTrans,father,,,emen,Phonemic
+2-341-28-1,anda1281,Avar (Andalal dialect),1134,баллали,CyrillTrans,divorce,,,ballali,Phonemic
+2-340-28-1,anda1281,Avar (Andalal dialect),1259,бахІарал,CyrillTrans,"marriage, wedding",,,baħaral,Phonemic
+2-330-28-1,anda1281,Avar (Andalal dialect),203,лълъади ячде,CyrillTrans,marry,,,"ɬ̄adi yačde, ros̄as̄e wende",Phonemic
+2-330-28-3,anda1281,Avar (Andalal dialect),203,россассе венде,CyrillTrans,marry,,,"ɬ̄adi yačde, ros̄as̄e wende",Phonemic
+2-320-28-1,anda1281,Avar (Andalal dialect),1199,лълъади,CyrillTrans,wife,,,ɬ̄adi,Phonemic
+2-310-28-1,anda1281,Avar (Andalal dialect),1200,росс,CyrillTrans,husband,,,ros̄,Phonemic
+2-280-28-1,anda1281,Avar (Andalal dialect),1289,гьемер,CyrillTrans,"infant, baby",,,hemer,Phonemic
+2-270-28-1,anda1281,Avar (Andalal dialect),1304,гьемер,CyrillTrans,child,,,hemer,Phonemic
+2-261-28-1,anda1281,Avar (Andalal dialect),77,яс,CyrillTrans,young woman (adolescent),,,"yas, ʕoloxanay yas",Phonemic
+2-261-28-3,anda1281,Avar (Andalal dialect),77,гІолоханай яс,CyrillTrans,young woman (adolescent),,,"yas, ʕoloxanay yas",Phonemic
+2-260-28-1,anda1281,Avar (Andalal dialect),1646,яс,CyrillTrans,girl,,,yas,Phonemic
+2-251-28-1,anda1281,Avar (Andalal dialect),76,гІолоханчи,CyrillTrans,young man (adolescent),,,ʕoloxanči,Phonemic
+2-250-28-1,anda1281,Avar (Andalal dialect),1366,вас,CyrillTrans,boy,,,was,Phonemic
+2-240-28-1,anda1281,Avar (Andalal dialect),1551,цІцІуяб жо,CyrillTrans,female,,,c̄ʼuyab žo,Phonemic
+2-230-28-1,anda1281,Avar (Andalal dialect),1553,бихьинаб жо,CyrillTrans,male,,,bix̌inab žo,Phonemic
+2-220-28-1,anda1281,Avar (Andalal dialect),962,цІцІуй адан,CyrillTrans,woman,,,c̄ʼuy adan,Phonemic
+2-210-28-1,anda1281,Avar (Andalal dialect),1554,бихьинчи,CyrillTrans,man (vs. woman),,,bix̌inči,Phonemic
+2-100-28-1,anda1281,Avar (Andalal dialect),683,адан,CyrillTrans,"person, human being",,,adan,Phonemic
+1-890-28-1,anda1281,Avar (Andalal dialect),1188,тІурччи,CyrillTrans,charcoal,,,tʼurč̄i,Phonemic
+1-880-28-1,anda1281,Avar (Andalal dialect),10,цІул,CyrillTrans,firewood,,,cʼul,Phonemic
+1-870-28-1,anda1281,Avar (Andalal dialect),1133,спичка,CyrillTrans,match (noun),,,"spička, išbiška",Phonemic
+1-870-28-3,anda1281,Avar (Andalal dialect),1133,ишбишка,CyrillTrans,match (noun),,,"spička, išbiška",Phonemic
+1-861-28-1,anda1281,Avar (Andalal dialect),127,свендубуде,CyrillTrans,extinguish,,,sʷendubude,Phonemic
+1-860-28-1,anda1281,Avar (Andalal dialect),737,бакде,CyrillTrans,"light, kindle, ignite",,,bakde,Phonemic
+1-852-28-1,anda1281,Avar (Andalal dialect),1428,рукІуде,CyrillTrans,burn (vb intrans),,,rukʼude,Phonemic
+1-851-28-1,anda1281,Avar (Andalal dialect),141,бухІде,CyrillTrans,burn (vb trans),,,buħde,Phonemic
+1-841-28-1,anda1281,Avar (Andalal dialect),67,цІа рукІураб тІурччи,CyrillTrans,embers,,,cʼa rukʼurab tʼurč̄i,Phonemic
+1-840-28-1,anda1281,Avar (Andalal dialect),646,рохо,CyrillTrans,ashes,,,"roxo, ħali",Phonemic
+1-840-28-3,anda1281,Avar (Andalal dialect),646,хІали,CyrillTrans,ashes,,,"roxo, ħali",Phonemic
+1-830-28-1,anda1281,Avar (Andalal dialect),778,кІкІуй,CyrillTrans,smoke (noun),,,k̄ʼuy,Phonemic
+1-820-28-1,anda1281,Avar (Andalal dialect),889,цІа,CyrillTrans,flame (noun),,,cʼa,Phonemic
+1-810-28-1,anda1281,Avar (Andalal dialect),221,цІа,CyrillTrans,fire,,,cʼa,Phonemic
+1-780-28-1,anda1281,Avar (Andalal dialect),952,гьава-бакъ,CyrillTrans,weather,,,hawa-baqʼ,Phonemic
+1-770-28-1,anda1281,Avar (Andalal dialect),617,цІцІер,CyrillTrans,ice,,,c̄ʼer,Phonemic
+1-760-28-1,anda1281,Avar (Andalal dialect),784,гІазу,CyrillTrans,snow (noun),,,ʕazu,Phonemic
+1-750-28-1,anda1281,Avar (Andalal dialect),658,цІцІад,CyrillTrans,rain (noun),,,c̄ʼad,Phonemic
+1-740-28-1,anda1281,Avar (Andalal dialect),249,накІкІ,CyrillTrans,fog,,,"nak̄ʼ, ʕodobnak̄ʼ",Phonemic
+1-740-28-3,anda1281,Avar (Andalal dialect),249,гІодобнак̄І,CyrillTrans,fog,,,"nak̄ʼ, ʕodobnak̄ʼ",Phonemic
+1-720-28-1,anda1281,Avar (Andalal dialect),960,гьури,CyrillTrans,wind,,,huri,Phonemic
+1-730-28-1,anda1281,Avar (Andalal dialect),1489,накІкІ,CyrillTrans,cloud,,,nak̄ʼ,Phonemic
+1-710-28-1,anda1281,Avar (Andalal dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-28-1,anda1281,Avar (Andalal dialect),1977,шуб,CyrillTrans,dew,,,šub,Phonemic
+1-630-28-1,anda1281,Avar (Andalal dialect),1388,рассад,CyrillTrans,"shade, shadow",,,ras̄ad,Phonemic
+1-620-28-1,anda1281,Avar (Andalal dialect),11,бецІли,CyrillTrans,darkness,,,"becʼli, ruk̄ʼi",Phonemic
+1-620-28-3,anda1281,Avar (Andalal dialect),11,рукІкІи,CyrillTrans,darkness,,,"becʼli, ruk̄ʼi",Phonemic
+1-610-28-1,anda1281,Avar (Andalal dialect),630,канцІи,CyrillTrans,light (noun),,,kancʼi,Phonemic
+1-590-28-1,anda1281,Avar (Andalal dialect),1733,нуралъул хІуби,CyrillTrans,rainbow,,,nuraɬul ħubi,Phonemic
+1-580-28-1,anda1281,Avar (Andalal dialect),858,буран,CyrillTrans,storm,,,buran,Phonemic
+1-560-28-1,anda1281,Avar (Andalal dialect),1150,зоб гъугъай,CyrillTrans,thunder,,,zob ɣuɣay,Phonemic
+1-570-28-1,anda1281,Avar (Andalal dialect),2007,пири,CyrillTrans,lightning (as striking),,,piri,Phonemic
+1-550-28-1,anda1281,Avar (Andalal dialect),1654,пири,CyrillTrans,lightning,,,piri,Phonemic
+1-540-28-1,anda1281,Avar (Andalal dialect),1430,цІцІва,CyrillTrans,star,,,c̄ʼʷa,Phonemic
+1-530-28-1,anda1281,Avar (Andalal dialect),1313,моцІцІ,CyrillTrans,moon,,,moc̄ʼ,Phonemic
+1-520-28-1,anda1281,Avar (Andalal dialect),1343,бакъ,CyrillTrans,sun,,,baqʼ,Phonemic
+1-510-28-1,anda1281,Avar (Andalal dialect),1732,зоб,CyrillTrans,sky,,,zob,Phonemic
+1-450-28-1,anda1281,Avar (Andalal dialect),6,ракь багъари,CyrillTrans,earthquake,,,raƛ̄ʼ baɣari,Phonemic
+1-440-28-1,anda1281,Avar (Andalal dialect),2125,гІуцІцІ,CyrillTrans,"stone, rock",,,"ʕuc̄ʼ, ƛ̄ʼuri",Phonemic
+1-440-28-3,anda1281,Avar (Andalal dialect),2125,кьури,CyrillTrans,"stone, rock",,,"ʕuc̄ʼ, ƛ̄ʼuri",Phonemic
+1-430-28-1,anda1281,Avar (Andalal dialect),1803,цІул,CyrillTrans,wood,,,cʼul,Phonemic
+1-420-28-1,anda1281,Avar (Andalal dialect),906,гъветІ,CyrillTrans,tree (cf 08.600),,,ɣʷetʼ,Phonemic
+1-410-28-1,anda1281,Avar (Andalal dialect),420,рохь,CyrillTrans,"woods, forest",,,rox̌,Phonemic
+1-390-28-1,anda1281,Avar (Andalal dialect),943,чваххи,CyrillTrans,waterfall,,,čʷax̄i,Phonemic
+1-380-28-1,anda1281,Avar (Andalal dialect),1145,хьуцІцІ,CyrillTrans,swamp,,,x̌uc̄ʼ,Phonemic
+1-370-28-1,anda1281,Avar (Andalal dialect),2144,ицц,CyrillTrans,"spring, well",,,"ic̄, ɣuy",Phonemic
+1-370-28-3,anda1281,Avar (Andalal dialect),2144,гъуй,CyrillTrans,"spring, well",,,"ic̄, ɣuy",Phonemic
+1-362-28-1,anda1281,Avar (Andalal dialect),1982,лълъин ссвери,CyrillTrans,whirlpool,,,"ɬ̄in s̄ʷeri, holoʕ",Phonemic
+1-362-28-3,anda1281,Avar (Andalal dialect),1982,гьологІ,CyrillTrans,whirlpool,,,"ɬ̄in s̄ʷeri, holoʕ",Phonemic
+1-360-28-1,anda1281,Avar (Andalal dialect),666,гІор,CyrillTrans,"river, stream, brook",,,ʕor,Phonemic
+1-354-28-1,anda1281,Avar (Andalal dialect),613,ралъад аде бенде,CyrillTrans,hightide,,,raɬad ade bende,Phonemic
+1-353-28-1,anda1281,Avar (Andalal dialect),1026,ралъад нахе ин,CyrillTrans,lowtide,,,raɬad naхe in,Phonemic
+1-352-28-1,anda1281,Avar (Andalal dialect),891,ралъад аде бенде ва нахе ин,CyrillTrans,tide,,,raɬad ade bende wa naхe in,Phonemic
+1-350-28-1,anda1281,Avar (Andalal dialect),978,карачел,CyrillTrans,wave,,,karačel,Phonemic
+1-343-28-1,anda1281,Avar (Andalal dialect),1662,квачІ,CyrillTrans,"headland, point",,,"kwačʼ, raƛ̄ʼul butʼa",Phonemic
+1-343-28-3,anda1281,Avar (Andalal dialect),1662,ракьул бутІа,CyrillTrans,"headland, point",,,"kwačʼ, raƛ̄ʼul butʼa",Phonemic
+1-340-28-1,anda1281,Avar (Andalal dialect),663,ралъдал квачІ,CyrillTrans,"gulf, bay",,,raɬdal kwačʼ,Phonemic
+1-330-28-1,anda1281,Avar (Andalal dialect),624,хІер,CyrillTrans,lake,,,ħer,Phonemic
+1-329-28-1,anda1281,Avar (Andalal dialect),645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-28-1,anda1281,Avar (Andalal dialect),1768,полоп,CyrillTrans,foam,,,polop,Phonemic
+1-323-28-1,anda1281,Avar (Andalal dialect),259,гьалагаб,CyrillTrans,rough (of sea),,,halagab,Phonemic
+1-320-28-1,anda1281,Avar (Andalal dialect),1474,ралгьад,CyrillTrans,sea,,,ralhad,Phonemic
+1-322-28-1,anda1281,Avar (Andalal dialect),258,гІодобиччараб,CyrillTrans,calm (of sea),,,ʕodobič̄arab,Phonemic
+1-310-28-1,anda1281,Avar (Andalal dialect),948,лълъин,CyrillTrans,water,,,ɬ̄in,Phonemic
+1-280-28-1,anda1281,Avar (Andalal dialect),1155,нохо,CyrillTrans,cave,,,noxo,Phonemic
+1-270-28-1,anda1281,Avar (Andalal dialect),113,ребал,CyrillTrans,shore,,,rebal,Phonemic
+1-260-28-1,anda1281,Avar (Andalal dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-28-1,anda1281,Avar (Andalal dialect),622,чІинкІилли,CyrillTrans,island,,,čʼinkʼilli,Phonemic
+1-240-28-1,anda1281,Avar (Andalal dialect),921,авлах,CyrillTrans,valley,,,awlax,Phonemic
+1-230-28-1,anda1281,Avar (Andalal dialect),652,битІараб авлахъ,CyrillTrans,"plain, field",,,"bitʼarab awlaq, maydan",Phonemic
+1-230-28-3,anda1281,Avar (Andalal dialect),652,майдан,CyrillTrans,"plain, field",,,"bitʼarab awlaq, maydan",Phonemic
+1-222-28-1,anda1281,Avar (Andalal dialect),618,кьури,CyrillTrans,"cliff, precipice",,,"ƛ̄ʼuri, hec̄ʼep",Phonemic
+1-222-28-3,anda1281,Avar (Andalal dialect),618,гьецІцІеп,CyrillTrans,"cliff, precipice",,,"ƛ̄ʼuri, hec̄ʼep",Phonemic
+1-220-28-1,anda1281,Avar (Andalal dialect),2118,меэр,CyrillTrans,"mountain, hill",,,"meʔer, guħ",Phonemic
+1-220-28-3,anda1281,Avar (Andalal dialect),2118,гухІ,CyrillTrans,"mountain, hill",,,"meʔer, guħ",Phonemic
+1-214-28-1,anda1281,Avar (Andalal dialect),640,хІарщи,CyrillTrans,mud,,,ħarš̄i,Phonemic
+1-215-28-1,anda1281,Avar (Andalal dialect),671,сали,CyrillTrans,sand,,,sali,Phonemic
+1-213-28-1,anda1281,Avar (Andalal dialect),2,хІур,CyrillTrans,dust,,,ħur,Phonemic
+1-212-28-1,anda1281,Avar (Andalal dialect),1228,ракь,CyrillTrans,"earth=ground, soil",,,raƛ̄ʼ,Phonemic
+1-210-28-1,anda1281,Avar (Andalal dialect),626,ракь,CyrillTrans,"earth, land",,,"raƛ̄ʼ, pačaliq, ulka",Phonemic
+1-210-28-3,anda1281,Avar (Andalal dialect),626,пачалихъ,CyrillTrans,"earth, land",,,"raƛ̄ʼ, pačaliq, ulka",Phonemic
+1-210-28-5,anda1281,Avar (Andalal dialect),626,улка,CyrillTrans,"earth, land",,,"raƛ̄ʼ, pačaliq, ulka",Phonemic
+1-100-28-1,anda1281,Avar (Andalal dialect),965,дуйнял,CyrillTrans,world,,,duynyal,Phonemic
+14-330-28-1,anda1281,Avar (Andalal dialect),1544,цо-цо мехалъ,CyrillTrans,sometimes,,,co-co mexaɬ,Phonemic
+14-331-28-1,anda1281,Avar (Andalal dialect),703,хекко,CyrillTrans,soon,,,xek̄o,Phonemic
+14-332-28-1,anda1281,Avar (Andalal dialect),418,ххалатаб,CyrillTrans,long-time (for a),,,"x̄alatab, ʕemer zamanaɬ̄ul",Phonemic
+14-332-28-3,anda1281,Avar (Andalal dialect),418,гІемер заманалълъул,CyrillTrans,long-time (for a),,,"x̄alatab, ʕemer zamanaɬ̄ul",Phonemic
+14-340-28-1,anda1281,Avar (Andalal dialect),1656,киданиги,CyrillTrans,never,,,"kidanigi, kidagi",Phonemic
+14-340-28-3,anda1281,Avar (Andalal dialect),1656,кидаги,CyrillTrans,never,,,"kidanigi, kidagi",Phonemic
+14-350-28-1,anda1281,Avar (Andalal dialect),204,нахуеги,CyrillTrans,again,,,"naxuegi, cʼidasa",Phonemic
+14-350-28-3,anda1281,Avar (Andalal dialect),204,цІидаса,CyrillTrans,again,,,"naxuegi, cʼidasa",Phonemic
+14-410-28-1,anda1281,Avar (Andalal dialect),1225,къо,CyrillTrans,day,,,qʼo,Phonemic
+14-420-28-1,anda1281,Avar (Andalal dialect),1233,къассимех,CyrillTrans,night,,,"qʼas̄imex, sordo",Phonemic
+14-420-28-3,anda1281,Avar (Andalal dialect),1233,сордо,CyrillTrans,night,,,"qʼas̄imex, sordo",Phonemic
+14-430-28-1,anda1281,Avar (Andalal dialect),729,хахлибай,CyrillTrans,dawn,,,xaxlibay,Phonemic
+14-440-28-1,anda1281,Avar (Andalal dialect),1339,гьадал,CyrillTrans,morning,,,hadal,Phonemic
+14-450-28-1,anda1281,Avar (Andalal dialect),12,къадемех,CyrillTrans,"noon, midday",,,"qʼademex, qʼadqʼo",Phonemic
+14-450-28-3,anda1281,Avar (Andalal dialect),12,къадкъо,CyrillTrans,"noon, midday",,,"qʼademex, qʼadqʼo",Phonemic
+14-451-28-1,anda1281,Avar (Andalal dialect),1807,къаденаха,CyrillTrans,afternoon,,,qʼadenaxa,Phonemic
+14-460-28-1,anda1281,Avar (Andalal dialect),1629,къайссал мех,CyrillTrans,evening,,,"qʼays̄al mex, baqʼuldē",Phonemic
+14-460-28-3,anda1281,Avar (Andalal dialect),1629,бакъулде̄,CyrillTrans,evening,,,"qʼays̄al mex, baqʼuldē",Phonemic
+14-470-28-1,anda1281,Avar (Andalal dialect),1283,жакъа,CyrillTrans,today,,,žaqʼa,Phonemic
+14-480-28-1,anda1281,Avar (Andalal dialect),1329,метер,CyrillTrans,tomorrow,,,meter,Phonemic
+14-481-28-1,anda1281,Avar (Andalal dialect),1179,силъул,CyrillTrans,day-after-tomorrow,,,"siɬul, riziɬul",Phonemic
+14-481-28-3,anda1281,Avar (Andalal dialect),1179,ризилъул,CyrillTrans,day-after-tomorrow,,,"siɬul, riziɬul",Phonemic
+14-490-28-1,anda1281,Avar (Andalal dialect),1174,сон,CyrillTrans,yesterday,,,son,Phonemic
+14-491-28-1,anda1281,Avar (Andalal dialect),1180,ццерелълъул,CyrillTrans,day-before-yesterday,,,c̄ereɬ̄ul,Phonemic
+14-510-28-1,anda1281,Avar (Andalal dialect),1353,ссагІат,CyrillTrans,hour,,,s̄aʕat,Phonemic
+14-530-28-1,anda1281,Avar (Andalal dialect),1323,ссагІат,CyrillTrans,"clock, timepiece",,,s̄aʕat,Phonemic
+14-610-28-1,anda1281,Avar (Andalal dialect),1469,анкь,CyrillTrans,week,,,anƛ̄ʼ,Phonemic
+14-620-28-1,anda1281,Avar (Andalal dialect),1699,гьалЪан (къо),CyrillTrans,Sunday,,,halʔan (qʼo),Phonemic
+14-630-28-1,anda1281,Avar (Andalal dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-28-1,anda1281,Avar (Andalal dialect),1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-28-1,anda1281,Avar (Andalal dialect),1694,арбахІ,CyrillTrans,Wednesday,,,arbaħ,Phonemic
+14-660-28-1,anda1281,Avar (Andalal dialect),1693,ххамиз,CyrillTrans,Thursday,,,x̄amiz,Phonemic
+14-670-28-1,anda1281,Avar (Andalal dialect),1692,рузман,CyrillTrans,Friday,,,ruzman,Phonemic
+14-680-28-1,anda1281,Avar (Andalal dialect),1700,шамат,CyrillTrans,Saturday,,,šamat,Phonemic
+14-710-28-1,anda1281,Avar (Andalal dialect),1370,моцІцІ,CyrillTrans,month,,,moc̄ʼ,Phonemic
+14-730-28-1,anda1281,Avar (Andalal dialect),1226,сон,CyrillTrans,year,,,"son, haʕil",Phonemic
+14-730-28-3,anda1281,Avar (Andalal dialect),1226,гьагІил,CyrillTrans,year,,,"son, haʕil",Phonemic
+14-740-28-1,anda1281,Avar (Andalal dialect),1471,кьин,CyrillTrans,winter,,,ƛ̄ʼin,Phonemic
+14-750-28-1,anda1281,Avar (Andalal dialect),1537,их,CyrillTrans,spring,,,ix,Phonemic
+14-760-28-1,anda1281,Avar (Andalal dialect),1342,рии,CyrillTrans,summer,,,riʔi,Phonemic
+14-770-28-1,anda1281,Avar (Andalal dialect),1276,хеселʼ,CyrillTrans,autumn,,,xeselʲ,Phonemic
+14-780-28-1,anda1281,Avar (Andalal dialect),691,гьагІдал заман,CyrillTrans,season,,,haʕdal zaman,Phonemic
+15-210-28-1,anda1281,Avar (Andalal dialect),1587,махІ буЪде,CyrillTrans,smell (vb intrans),,,"maħ buʔde, maħ boxde",Phonemic
+15-210-28-3,anda1281,Avar (Andalal dialect),1587,махІ бохде,CyrillTrans,smell (vb intrans),,,"maħ buʔde, maħ boxde",Phonemic
+15-212-28-1,anda1281,Avar (Andalal dialect),375,махІ ссунтІде,CyrillTrans,sniff,,,"maħ s̄untʼde, xunkʼde",Phonemic
+15-212-28-3,anda1281,Avar (Andalal dialect),375,хункІде,CyrillTrans,sniff,,,"maħ s̄untʼde, xunkʼde",Phonemic
+15-220-28-1,anda1281,Avar (Andalal dialect),1586,махІ ссунтІде,CyrillTrans,smell (vb trans),,,maħ s̄untʼde,Phonemic
+15-250-28-1,anda1281,Avar (Andalal dialect),376,махІ,CyrillTrans,"fragrant, good smelling",,,"maħ, huenab maħ",Phonemic
+15-250-28-3,anda1281,Avar (Andalal dialect),376,гьуэнаб махІ,CyrillTrans,"fragrant, good smelling",,,"maħ, huenab maħ",Phonemic
+15-260-28-1,anda1281,Avar (Andalal dialect),42,квешаб махІ,CyrillTrans,"stinking, bad smelling",,,"kʷešab maħ, maħcarab maħ",Phonemic
+15-260-28-3,anda1281,Avar (Andalal dialect),42,махІцараб махІ,CyrillTrans,"stinking, bad smelling",,,"kʷešab maħ, maħcarab maħ",Phonemic
+15-310-28-1,anda1281,Avar (Andalal dialect),21,тІагІан,CyrillTrans,taste,,,tʼaʕan,Phonemic
+15-350-28-1,anda1281,Avar (Andalal dialect),717,гьуэнаб,CyrillTrans,sweet,,,huenab,Phonemic
+15-360-28-1,anda1281,Avar (Andalal dialect),1091,цІцІанхІалаб,CyrillTrans,salty,,,c̄ʼanħalab,Phonemic
+15-370-28-1,anda1281,Avar (Andalal dialect),887,кьугІаб,CyrillTrans,bitter,,,ƛ̄ʼuʕab,Phonemic
+15-380-28-1,anda1281,Avar (Andalal dialect),1906,цІцІекІаб,CyrillTrans,"acid, sour",,,c̄ʼekʼab,Phonemic
+15-390-28-1,anda1281,Avar (Andalal dialect),70,цІанхІалаб,CyrillTrans,brackish,,,cʼanħalab,Phonemic
+15-410-28-1,anda1281,Avar (Andalal dialect),1408,рагІде,CyrillTrans,hear,,,raʕde,Phonemic
+15-420-28-1,anda1281,Avar (Andalal dialect),1608,гІенеккде,CyrillTrans,listen,,,"ʕenek̄de, ʕen tʼande",Phonemic
+15-420-28-3,anda1281,Avar (Andalal dialect),1608,гІен тІанде,CyrillTrans,listen,,,"ʕenek̄de, ʕen tʼande",Phonemic
+15-440-28-1,anda1281,Avar (Andalal dialect),1811,сас,CyrillTrans,"sound, noise",,,"sas, x̄uy, aħi-ħur, haraƛ̄ʼ",Phonemic
+15-440-28-3,anda1281,Avar (Andalal dialect),1811,ххуй,CyrillTrans,"sound, noise",,,"sas, x̄uy, aħi-ħur, haraƛ̄ʼ",Phonemic
+15-440-28-5,anda1281,Avar (Andalal dialect),1811,ахІи-хІур,CyrillTrans,"sound, noise",,,"sas, x̄uy, aħi-ħur, haraƛ̄ʼ",Phonemic
+15-440-28-7,anda1281,Avar (Andalal dialect),1811,гьаракь,CyrillTrans,"sound, noise",,,"sas, x̄uy, aħi-ħur, haraƛ̄ʼ",Phonemic
+15-450-28-1,anda1281,Avar (Andalal dialect),377,кутакаб,CyrillTrans,loud,,,"kutakab, raʕarab",Phonemic
+15-450-28-3,anda1281,Avar (Andalal dialect),377,рагІараб,CyrillTrans,loud,,,"kutakab, raʕarab",Phonemic
+15-460-28-1,anda1281,Avar (Andalal dialect),1314,гІодобиччараб,CyrillTrans,"quiet, silence",,,ʕodobič̄arab,Phonemic
+15-510-28-1,anda1281,Avar (Andalal dialect),1409,бихьде,CyrillTrans,see,,,bix̌de,Phonemic
+15-520-28-1,anda1281,Avar (Andalal dialect),1819,балагьде,CyrillTrans,"look, look at",,,balahde,Phonemic
+15-550-28-1,anda1281,Avar (Andalal dialect),1039,бихьдубуде,CyrillTrans,show,,,bix̌dubude,Phonemic
+15-560-28-1,anda1281,Avar (Andalal dialect),708,канцІцІи бадубуде,CyrillTrans,shine,,,kanc̄ʼi badubude,Phonemic
+15-570-28-1,anda1281,Avar (Andalal dialect),679,гвангъараб,CyrillTrans,bright,,,gʷanɣarab,Phonemic
+15-610-28-1,anda1281,Avar (Andalal dialect),1613,кьер,CyrillTrans,color,,,ƛ̄ʼer,Phonemic
+15-620-28-1,anda1281,Avar (Andalal dialect),250,гвангъараб,CyrillTrans,light (in color),,,"gʷanɣarab, roc̄ʼarab",Phonemic
+15-620-28-3,anda1281,Avar (Andalal dialect),250,роцІцІараб,CyrillTrans,light (in color),,,"gʷanɣarab, roc̄ʼarab",Phonemic
+15-630-28-1,anda1281,Avar (Andalal dialect),706,рукІкІараб,CyrillTrans,dark (in color),,,"ruk̄ʼarab, becʼab",Phonemic
+15-630-28-3,anda1281,Avar (Andalal dialect),706,бецІаб,CyrillTrans,dark (in color),,,"ruk̄ʼarab, becʼab",Phonemic
+15-640-28-1,anda1281,Avar (Andalal dialect),1335,хахІаб,CyrillTrans,white,,,xaħab,Phonemic
+15-650-28-1,anda1281,Avar (Andalal dialect),163,чІчІегІераб,CyrillTrans,black,,,č̄ʼeʕerab,Phonemic
+15-660-28-1,anda1281,Avar (Andalal dialect),156,багІараб,CyrillTrans,red,,,baʕarab,Phonemic
+15-670-28-1,anda1281,Avar (Andalal dialect),837,хахІилаб,CyrillTrans,blue,,,xaħilab,Phonemic
+15-680-28-1,anda1281,Avar (Andalal dialect),1425,гІурччинаб,CyrillTrans,green,,,ʕurč̄inab,Phonemic
+15-690-28-1,anda1281,Avar (Andalal dialect),1424,гІубаб,CyrillTrans,yellow,,,ʕubab,Phonemic
+15-710-28-1,anda1281,Avar (Andalal dialect),1892,хваде,CyrillTrans,touch,,,xʷade,Phonemic
+15-712-28-1,anda1281,Avar (Andalal dialect),378,данде къаде,CyrillTrans,pinch,,,dande qʼade,Phonemic
+15-720-28-1,anda1281,Avar (Andalal dialect),1079,гьаде,CyrillTrans,feel,,,"hade, raʕde",Phonemic
+15-720-28-3,anda1281,Avar (Andalal dialect),1079,рагІде,CyrillTrans,feel,,,"hade, raʕde",Phonemic
+15-740-28-1,anda1281,Avar (Andalal dialect),1884,къартІараб,CyrillTrans,hard,,,qʼartʼarab,Phonemic
+15-750-28-1,anda1281,Avar (Andalal dialect),1856,гІедераб,CyrillTrans,soft,,,ʕederab,Phonemic
+15-760-28-1,anda1281,Avar (Andalal dialect),1923,хачІаб,CyrillTrans,rough,,,xačʼab,Phonemic
+15-770-28-1,anda1281,Avar (Andalal dialect),1234,цІцІвакараб,CyrillTrans,smooth,,,"c̄ʼʷakarab, c̄ʼirc̄ʼirarab",Phonemic
+15-770-28-3,anda1281,Avar (Andalal dialect),1234,цІцІирцІцІирараб,CyrillTrans,smooth,,,"c̄ʼʷakarab, c̄ʼirc̄ʼirarab",Phonemic
+15-780-28-1,anda1281,Avar (Andalal dialect),1396,бегІераб,CyrillTrans,sharp,,,beʕerab,Phonemic
+15-790-28-1,anda1281,Avar (Andalal dialect),379,хІуссаб,CyrillTrans,"blunt, dull",,,ħus̄ab,Phonemic
+15-810-28-1,anda1281,Avar (Andalal dialect),1210,бакІаб,CyrillTrans,heavy,,,bakʼab,Phonemic
+15-820-28-1,anda1281,Avar (Andalal dialect),1052,атдагьаб,CyrillTrans,light (in weight),,,"atdahab, bihayab",Phonemic
+15-820-28-3,anda1281,Avar (Andalal dialect),1052,бигьаяб,CyrillTrans,light (in weight),,,"atdahab, bihayab",Phonemic
+15-830-28-1,anda1281,Avar (Andalal dialect),1726,биччараб,CyrillTrans,"wet, damp",,,bič̄arab,Phonemic
+15-840-28-1,anda1281,Avar (Andalal dialect),1398,букъараб,CyrillTrans,dry,,,buqʼarab,Phonemic
+15-850-28-1,anda1281,Avar (Andalal dialect),1286,бухІхІараб,CyrillTrans,hot,,,buħħarab,Phonemic
+15-851-28-1,anda1281,Avar (Andalal dialect),1232,бахьхьараб,CyrillTrans,warm,,,bax̌̄arab,Phonemic
+15-860-28-1,anda1281,Avar (Andalal dialect),1287,цІцІорораб,CyrillTrans,cold,,,c̄ʼororab,Phonemic
+15-870-28-1,anda1281,Avar (Andalal dialect),704,бацІцІадаб,CyrillTrans,clean,,,bac̄ʼadab,Phonemic
+15-880-28-1,anda1281,Avar (Andalal dialect),1230,чорокаб,CyrillTrans,"dirty, soiled",,,čorokab,Phonemic
+15-890-28-1,anda1281,Avar (Andalal dialect),380,букІкІ-букІкІараб,CyrillTrans,wrinkled,,,buk̄ʼ-buk̄ʼarab,Phonemic
+16-110-28-1,anda1281,Avar (Andalal dialect),53,рухІ,CyrillTrans,"soul, spirit",,,"ruħ, ħal",Phonemic
+16-110-28-3,anda1281,Avar (Andalal dialect),53,хІал,CyrillTrans,"soul, spirit",,,"ruħ, ħal",Phonemic
+16-150-28-1,anda1281,Avar (Andalal dialect),1572,виххараб,CyrillTrans,"surprised, astonished",,,wix̄arab,Phonemic
+16-180-28-1,anda1281,Avar (Andalal dialect),720,битІ,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ, bitʼk̄ey, taliħk̄ey",Phonemic
+16-180-28-3,anda1281,Avar (Andalal dialect),720,талихІ,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ, bitʼk̄ey, taliħk̄ey",Phonemic
+16-180-28-5,anda1281,Avar (Andalal dialect),720,битІккей,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ, bitʼk̄ey, taliħk̄ey",Phonemic
+16-180-28-7,anda1281,Avar (Andalal dialect),720,талихІккей,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ, bitʼk̄ey, taliħk̄ey",Phonemic
+16-190-28-1,anda1281,Avar (Andalal dialect),56,битІккечІули,CyrillTrans,"misfortune, bad luck",,,"bitʼk̄ečʼuli, meqʼak̄ey",Phonemic
+16-190-28-3,anda1281,Avar (Andalal dialect),56,мекъаккей,CyrillTrans,"misfortune, bad luck",,,"bitʼk̄ečʼuli, meqʼak̄ey",Phonemic
+16-230-28-1,anda1281,Avar (Andalal dialect),1495,талихІав,CyrillTrans,"joyful, glad, happy",,,"taliħaw, raziyaw, wox̄araw",Phonemic
+16-230-28-3,anda1281,Avar (Andalal dialect),1495,разияв,CyrillTrans,"joyful, glad, happy",,,"taliħaw, raziyaw, wox̄araw",Phonemic
+16-230-28-5,anda1281,Avar (Andalal dialect),1495,воххарав,CyrillTrans,"joyful, glad, happy",,,"taliħaw, raziyaw, wox̄araw",Phonemic
+16-250-28-1,anda1281,Avar (Andalal dialect),1355,воххде,CyrillTrans,laugh,,,wox̄de,Phonemic
+16-251-28-1,anda1281,Avar (Andalal dialect),1451,гьимде,CyrillTrans,smile,,,himde,Phonemic
+16-260-28-1,anda1281,Avar (Andalal dialect),1413,хІаде,CyrillTrans,play,,,"ħade, wortixde",Phonemic
+16-260-28-3,anda1281,Avar (Andalal dialect),1413,вортихде,CyrillTrans,play,,,"ħade, wortixde",Phonemic
+16-270-28-1,anda1281,Avar (Andalal dialect),923,бокьде,CyrillTrans,love,,,boƛ̄ʼde,Phonemic
+16-290-28-1,anda1281,Avar (Andalal dialect),578,баЪде,CyrillTrans,kiss,,,baʔde,Phonemic
+16-300-28-1,anda1281,Avar (Andalal dialect),928,къвал баде,CyrillTrans,embrace,,,qʼʷal bade,Phonemic
+16-310-28-1,anda1281,Avar (Andalal dialect),1783,унти,CyrillTrans,pain,,,unti,Phonemic
+16-320-28-1,anda1281,Avar (Andalal dialect),1668,пашманли,CyrillTrans,"grief, sorrow, sadness",,,"pašmanli, rakʼbuqʼay",Phonemic
+16-320-28-3,anda1281,Avar (Andalal dialect),1668,ракІбукъай,CyrillTrans,"grief, sorrow, sadness",,,"pašmanli, rakʼbuqʼay",Phonemic
+16-330-28-1,anda1281,Avar (Andalal dialect),1000,ахІи-хІур,CyrillTrans,"anxiety, worry",,,aħi-ħur,Phonemic
+16-340-28-1,anda1281,Avar (Andalal dialect),1875,пашманде,CyrillTrans,"regret, be sorry",,,"pašmande, rakʼbuħde",Phonemic
+16-340-28-3,anda1281,Avar (Andalal dialect),1875,ракІбухІде,CyrillTrans,"regret, be sorry",,,"pašmande, rakʼbuħde",Phonemic
+16-350-28-1,anda1281,Avar (Andalal dialect),1141,гурхІилʼ,CyrillTrans,pity,,,gurħilʲ,Phonemic
+16-370-28-1,anda1281,Avar (Andalal dialect),1839,гІантде,CyrillTrans,"cry, weep",,,ʕantde,Phonemic
+16-380-28-1,anda1281,Avar (Andalal dialect),1651,магІу,CyrillTrans,tear (noun),,,maʕu,Phonemic
+16-390-28-1,anda1281,Avar (Andalal dialect),716,зигартде,CyrillTrans,groan,,,"zigartde, zigarde",Phonemic
+16-390-28-3,anda1281,Avar (Andalal dialect),716,зигарде,CyrillTrans,groan,,,"zigartde, zigarde",Phonemic
+16-410-28-1,anda1281,Avar (Andalal dialect),1607,рихІде,CyrillTrans,hate,,,riħde,Phonemic
+16-420-28-1,anda1281,Avar (Andalal dialect),82,ццин,CyrillTrans,anger,,,"c̄in, c̄inboxi",Phonemic
+16-420-28-3,anda1281,Avar (Andalal dialect),82,ццинбохи,CyrillTrans,anger,,,"c̄in, c̄inboxi",Phonemic
+16-440-28-1,anda1281,Avar (Andalal dialect),40,хІалквешлъи,CyrillTrans,"envy, jealousy",,,"ħalkʷešɬi, mušlikli, šakli, ħalkʷešli",Phonemic
+16-440-28-3,anda1281,Avar (Andalal dialect),40,мушликли,CyrillTrans,"envy, jealousy",,,"ħalkʷešɬi, mušlikli, šakli, ħalkʷešli",Phonemic
+16-440-28-5,anda1281,Avar (Andalal dialect),40,шакли,CyrillTrans,"envy, jealousy",,,"ħalkʷešɬi, mušlikli, šakli, ħalkʷešli",Phonemic
+16-440-28-7,anda1281,Avar (Andalal dialect),40,хІалквешли,CyrillTrans,"envy, jealousy",,,"ħalkʷešɬi, mušlikli, šakli, ħalkʷešli",Phonemic
+16-450-28-1,anda1281,Avar (Andalal dialect),1776,нич,CyrillTrans,shame (noun),,,nič,Phonemic
+16-480-28-1,anda1281,Avar (Andalal dialect),174,гІамал кІудав,CyrillTrans,proud,,,"ʕamal kʼudaw, xanaw",Phonemic
+16-480-28-3,anda1281,Avar (Andalal dialect),174,ханав,CyrillTrans,proud,,,"ʕamal kʼudaw, xanaw",Phonemic
+16-510-28-1,anda1281,Avar (Andalal dialect),1779,хІенкъи гьечІав чи,CyrillTrans,dare,,,ħenqʼi hečʼaw či,Phonemic
+16-520-28-1,anda1281,Avar (Andalal dialect),3,бахІарчияб,CyrillTrans,brave,,,"baħarčiyab, ħenqʼamarab",Phonemic
+16-520-28-3,anda1281,Avar (Andalal dialect),3,хІенкъамараб,CyrillTrans,brave,,,"baħarčiyab, ħenqʼamarab",Phonemic
+16-530-28-1,anda1281,Avar (Andalal dialect),781,хІенкъи,CyrillTrans,"fear, fright",,,ħenqʼi,Phonemic
+16-540-28-1,anda1281,Avar (Andalal dialect),1810,хІенкъи,CyrillTrans,danger,,,ħenqʼi,Phonemic
+16-620-28-1,anda1281,Avar (Andalal dialect),1784,хиял,CyrillTrans,"desire, want",,,"xiyal, murad, boƛ̄ʼi",Phonemic
+16-620-28-3,anda1281,Avar (Andalal dialect),1784,мурад,CyrillTrans,"desire, want",,,"xiyal, murad, boƛ̄ʼi",Phonemic
+16-620-28-5,anda1281,Avar (Andalal dialect),1784,бокьи,CyrillTrans,"desire, want",,,"xiyal, murad, boƛ̄ʼi",Phonemic
+16-622-28-1,anda1281,Avar (Andalal dialect),1750,бищде,CyrillTrans,choose,,,biš̄de,Phonemic
+16-630-28-1,anda1281,Avar (Andalal dialect),1092,хьул гьведе,CyrillTrans,hope,,,x̌ul hʷede,Phonemic
+16-650-28-1,anda1281,Avar (Andalal dialect),100,боржарав,CyrillTrans,faithful,,,boržaraw,Phonemic
+16-660-28-1,anda1281,Avar (Andalal dialect),1657,эгуяб,CyrillTrans,true,,,eguyab,Phonemic
+16-670-28-1,anda1281,Avar (Andalal dialect),601,гьересси бицде,CyrillTrans,"lie, tell lies",,,heres̄i bicde,Phonemic
+16-680-28-1,anda1281,Avar (Andalal dialect),13,махсалъ ккведе,CyrillTrans,deceit,,,maxsaɬ k̄ʷede,Phonemic
+16-690-28-1,anda1281,Avar (Andalal dialect),1528,асса лълъугьде,CyrillTrans,forgive,,,as̄a ɬ̄uhde,Phonemic
+16-710-28-1,anda1281,Avar (Andalal dialect),1035,лълъикІаб,CyrillTrans,good,,,ɬ̄ikʼab,Phonemic
+16-720-28-1,anda1281,Avar (Andalal dialect),1292,квешаб,CyrillTrans,bad,,,kʷešab,Phonemic
+16-730-28-1,anda1281,Avar (Andalal dialect),1725,битІараб,CyrillTrans,"right, correct",,,bitʼarab,Phonemic
+16-740-28-1,anda1281,Avar (Andalal dialect),1390,мекъаб,CyrillTrans,wrong,,,meqʼab,Phonemic
+16-760-28-1,anda1281,Avar (Andalal dialect),134,мунагь,CyrillTrans,fault,,,"munah, meqʼab iš",Phonemic
+16-760-28-3,anda1281,Avar (Andalal dialect),134,мекъаб иш,CyrillTrans,fault,,,"munah, meqʼab iš",Phonemic
+16-770-28-1,anda1281,Avar (Andalal dialect),1293,мекъассккей,CyrillTrans,"mistake, error",,,"meqʼas̄k̄ey, ɣalatʼ",Phonemic
+16-770-28-3,anda1281,Avar (Andalal dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,"meqʼas̄k̄ey, ɣalatʼ",Phonemic
+16-780-28-1,anda1281,Avar (Andalal dialect),381,гІайиб чІваде,CyrillTrans,blame,,,ʕayib čʼʷade,Phonemic
+16-790-28-1,anda1281,Avar (Andalal dialect),1687,беццде,CyrillTrans,praise,,,bec̄de,Phonemic
+16-810-28-1,anda1281,Avar (Andalal dialect),1427,берцинаб,CyrillTrans,beautiful,,,bercinab,Phonemic
+16-820-28-1,anda1281,Avar (Andalal dialect),1548,кІуц квешаб,CyrillTrans,ugly,,,kʼuc kʷešab,Phonemic
+16-830-28-1,anda1281,Avar (Andalal dialect),2018,барахщарав,CyrillTrans,greedy,,,baraxš̄araw,Phonemic
+16-840-28-1,anda1281,Avar (Andalal dialect),1310,цІцІодорав,CyrillTrans,clever,,,c̄ʼodoraw,Phonemic
+17-110-28-1,anda1281,Avar (Andalal dialect),1562,гІакълу,CyrillTrans,mind,,,ʕaqʼlu,Phonemic
+17-130-28-1,anda1281,Avar (Andalal dialect),1415,ургъде,CyrillTrans,think (= reflect),,,urɣde,Phonemic
+17-140-28-1,anda1281,Avar (Andalal dialect),1513,ургъде,CyrillTrans,think (= be of the opinion),,,"urɣde, maɬ̄de, k̄ede",Phonemic
+17-140-28-3,anda1281,Avar (Andalal dialect),1513,малълъде,CyrillTrans,think (= be of the opinion),,,"urɣde, maɬ̄de, k̄ede",Phonemic
+17-140-28-5,anda1281,Avar (Andalal dialect),1513,ккеде,CyrillTrans,think (= be of the opinion),,,"urɣde, maɬ̄de, k̄ede",Phonemic
+17-150-28-1,anda1281,Avar (Andalal dialect),1890,боржде,CyrillTrans,believe,,,boržde,Phonemic
+17-160-28-1,anda1281,Avar (Andalal dialect),1536,бичІчІде,CyrillTrans,understand,,,bič̄ʼde,Phonemic
+17-170-28-1,anda1281,Avar (Andalal dialect),1410,гьаде,CyrillTrans,know,,,hade,Phonemic
+17-171-28-1,anda1281,Avar (Andalal dialect),1932,хІисаб гьубуде,CyrillTrans,guess,,,"ħisab hubude, k̄ede",Phonemic
+17-171-28-3,anda1281,Avar (Andalal dialect),1932,ккеде,CyrillTrans,guess,,,"ħisab hubude, k̄ede",Phonemic
+17-172-28-1,anda1281,Avar (Andalal dialect),117,хвел гьубуде,CyrillTrans,imitate,,,xʷel hubude,Phonemic
+17-180-28-1,anda1281,Avar (Andalal dialect),1521,бихьде,CyrillTrans,seem,,,"bix̌de, k̄ede",Phonemic
+17-180-28-3,anda1281,Avar (Andalal dialect),1521,ккеде,CyrillTrans,seem,,,"bix̌de, k̄ede",Phonemic
+17-190-28-1,anda1281,Avar (Andalal dialect),1609,бичІчІи,CyrillTrans,"idea, notion",,,"bič̄ʼi, pukru",Phonemic
+17-190-28-3,anda1281,Avar (Andalal dialect),1609,пикру,CyrillTrans,"idea, notion",,,"bič̄ʼi, pukru",Phonemic
+17-210-28-1,anda1281,Avar (Andalal dialect),698,гІакълуяб,CyrillTrans,wise,,,"ʕaqʼluyab, ʕaqʼilab",Phonemic
+17-210-28-3,anda1281,Avar (Andalal dialect),698,гІакъилаб,CyrillTrans,wise,,,"ʕaqʼluyab, ʕaqʼilab",Phonemic
+17-220-28-1,anda1281,Avar (Andalal dialect),1518,гІантаб,CyrillTrans,"foolish, stupid",,,ʕantab,Phonemic
+17-230-28-1,anda1281,Avar (Andalal dialect),1899,гІантав,CyrillTrans,"insane, crazy",,,"ʕantaw, ʕaqʼlu hečʼaw",Phonemic
+17-230-28-3,anda1281,Avar (Andalal dialect),1899,гІакълу гьечІав,CyrillTrans,"insane, crazy",,,"ʕantaw, ʕaqʼlu hečʼaw",Phonemic
+17-240-28-1,anda1281,Avar (Andalal dialect),504,гьаде,CyrillTrans,learn,,,"hade, c̄ʼalde",Phonemic
+17-240-28-3,anda1281,Avar (Andalal dialect),504,цІцІалде,CyrillTrans,learn,,,"hade, c̄ʼalde",Phonemic
+17-242-28-1,anda1281,Avar (Andalal dialect),1929,малълъде,CyrillTrans,study,,,"maɬ̄de, hadubude",Phonemic
+17-242-28-3,anda1281,Avar (Andalal dialect),1929,гьадубуде,CyrillTrans,study,,,"maɬ̄de, hadubude",Phonemic
+17-250-28-1,anda1281,Avar (Andalal dialect),709,гьадубуде,CyrillTrans,teach,,,hadubude,Phonemic
+17-260-28-1,anda1281,Avar (Andalal dialect),753,ццІалдухан,CyrillTrans,pupil,,,c̄ʼalduxan,Phonemic
+17-270-28-1,anda1281,Avar (Andalal dialect),1038,учитил,CyrillTrans,teacher,,,učitil,Phonemic
+17-280-28-1,anda1281,Avar (Andalal dialect),673,школа,CyrillTrans,school,,,"škola, oškol",Phonemic
+17-280-28-3,anda1281,Avar (Andalal dialect),673,ошкол,CyrillTrans,school,,,"škola, oškol",Phonemic
+17-310-28-1,anda1281,Avar (Andalal dialect),707,рукІеда чІчІеде,CyrillTrans,remember,,,rukʼeda č̄ʼede,Phonemic
+17-320-28-1,anda1281,Avar (Andalal dialect),1523,кІочон теде,CyrillTrans,forget,,,kʼočon tede,Phonemic
+17-340-28-1,anda1281,Avar (Andalal dialect),989,гвангъараб,CyrillTrans,"clear, plain",,,"gʷanɣarab, bič̄ʼub",Phonemic
+17-340-28-3,anda1281,Avar (Andalal dialect),989,бичІчІуб,CyrillTrans,"clear, plain",,,"gʷanɣarab, bič̄ʼub",Phonemic
+17-350-28-1,anda1281,Avar (Andalal dialect),1764,бичІчІамараб,CyrillTrans,obscure,,,bič̄ʼamarab,Phonemic
+17-360-28-1,anda1281,Avar (Andalal dialect),1121,балъгули,CyrillTrans,secret,,,baɬguli,Phonemic
+17-370-28-1,anda1281,Avar (Andalal dialect),509,ракІчІчІараб,CyrillTrans,"sure, certain",,,rakʼč̄ʼarab,Phonemic
+17-380-28-1,anda1281,Avar (Andalal dialect),1626,бичІчІдубуде,CyrillTrans,explain,,,bič̄ʼdubude,Phonemic
+17-410-28-1,anda1281,Avar (Andalal dialect),1162,хиял,CyrillTrans,"intention, purpose",,,"xiyal, murad",Phonemic
+17-410-28-3,anda1281,Avar (Andalal dialect),1162,мурад,CyrillTrans,"intention, purpose",,,"xiyal, murad",Phonemic
+17-420-28-1,anda1281,Avar (Andalal dialect),860,гІилла,CyrillTrans,cause,,,ʕilla,Phonemic
+17-430-28-1,anda1281,Avar (Andalal dialect),1308,щакли,CyrillTrans,doubt,,,š̄akli,Phonemic
+17-440-28-1,anda1281,Avar (Andalal dialect),1841,щаклде,CyrillTrans,suspect,,,š̄aklde,Phonemic
+17-441-28-1,anda1281,Avar (Andalal dialect),1902,хиянатлъи гьубуде,CyrillTrans,betray,,,xiyanatli hubude,Phonemic
+17-450-28-1,anda1281,Avar (Andalal dialect),643,чара гьечІули,CyrillTrans,"need, necessity",,,čara hečʼuli,Phonemic
+17-460-28-1,anda1281,Avar (Andalal dialect),686,бигьаяб,CyrillTrans,easy,,,bihayab,Phonemic
+17-470-28-1,anda1281,Avar (Andalal dialect),584,захІматаб,CyrillTrans,difficult,,,zaħmatab,Phonemic
+17-480-28-1,anda1281,Avar (Andalal dialect),1812,хІалбихьи,CyrillTrans,"try, attempt",,,ħalbix̌i,Phonemic
+17-490-28-1,anda1281,Avar (Andalal dialect),488,куц,CyrillTrans,"way, manner",,,"kuc, nuħ",Phonemic
+17-490-28-3,anda1281,Avar (Andalal dialect),488,нухІ,CyrillTrans,"way, manner",,,"kuc, nuħ",Phonemic
+17-510-28-1,anda1281,Avar (Andalal dialect),1577,-ги,CyrillTrans,and,,,"-gi, wa",Phonemic
+17-510-28-3,anda1281,Avar (Andalal dialect),1577,ва,CyrillTrans,and,,,"-gi, wa",Phonemic
+17-520-28-1,anda1281,Avar (Andalal dialect),1157,щуман гурамалълъул,CyrillTrans,because,,,"š̄uman guramaɬ̄ul, š̄unde guramaɬ̄ul",Phonemic
+17-520-28-3,anda1281,Avar (Andalal dialect),1157,щунде гурамалълъул,CyrillTrans,because,,,"š̄uman guramaɬ̄ul, š̄unde guramaɬ̄ul",Phonemic
+17-530-28-1,anda1281,Avar (Andalal dialect),1459,нагагь,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-530-28-3,anda1281,Avar (Andalal dialect),1459,-ни,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-540-28-1,anda1281,Avar (Andalal dialect),1014,я,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-540-28-3,anda1281,Avar (Andalal dialect),1014,яги,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-550-28-1,anda1281,Avar (Andalal dialect),1268,э,CyrillTrans,"yes, affirmative",,,e,Phonemic
+17-560-28-1,anda1281,Avar (Andalal dialect),1269,гуро,CyrillTrans,"no, negative",,,guro,Phonemic
+17-610-28-1,anda1281,Avar (Andalal dialect),1239,кини,CyrillTrans,how?,,,kini,Phonemic
+17-620-28-1,anda1281,Avar (Andalal dialect),822,чан(и),CyrillTrans,how many?,,,čan(i),Phonemic
+17-630-28-1,anda1281,Avar (Andalal dialect),531,кагІан,CyrillTrans,how much?,,,kaʕan,Phonemic
+17-640-28-1,anda1281,Avar (Andalal dialect),1236,щуб(и),CyrillTrans,what?,,,š̄ub(i),Phonemic
+17-650-28-1,anda1281,Avar (Andalal dialect),1238,кид(и),CyrillTrans,when?,,,kid(i),Phonemic
+17-660-28-1,anda1281,Avar (Andalal dialect),1237,киб(и),CyrillTrans,where?,,,"kib(i), kis̄an(i)",Phonemic
+17-660-28-3,anda1281,Avar (Andalal dialect),1237,киссан(и),CyrillTrans,where?,,,"kib(i), kis̄an(i)",Phonemic
+17-670-28-1,anda1281,Avar (Andalal dialect),727,кинаб(и),CyrillTrans,which?,,,kinab(i),Phonemic
+17-680-28-1,anda1281,Avar (Andalal dialect),1235,щуви,CyrillTrans,who?,,,"š̄uwi, š̄ubi, ɬidi",Phonemic
+17-680-28-3,anda1281,Avar (Andalal dialect),1235,щуби,CyrillTrans,who?,,,"š̄uwi, š̄ubi, ɬidi",Phonemic
+17-680-28-5,anda1281,Avar (Andalal dialect),1235,лъиди,CyrillTrans,who?,,,"š̄uwi, š̄ubi, ɬidi",Phonemic
+17-690-28-1,anda1281,Avar (Andalal dialect),1270,щумани,CyrillTrans,why?,,,"š̄umani, š̄undi",Phonemic
+17-690-28-3,anda1281,Avar (Andalal dialect),1270,щунди,CyrillTrans,why?,,,"š̄umani, š̄undi",Phonemic
+18-110-28-1,anda1281,Avar (Andalal dialect),1363,гьаракь,CyrillTrans,voice,,,haraƛ̄ʼ,Phonemic
+18-120-28-1,anda1281,Avar (Andalal dialect),1261,керчІ ахІде,CyrillTrans,sing,,,kerčʼ aħde,Phonemic
+18-130-28-1,anda1281,Avar (Andalal dialect),715,ахІатде,CyrillTrans,"shout, cry out",,,aħatde,Phonemic
+18-150-28-1,anda1281,Avar (Andalal dialect),55,шуршурде,CyrillTrans,whisper,,,"šuršurde, š̄urde",Phonemic
+18-150-28-3,anda1281,Avar (Andalal dialect),55,щурде,CyrillTrans,whisper,,,"šuršurde, š̄urde",Phonemic
+18-160-28-1,anda1281,Avar (Andalal dialect),128,дундунде,CyrillTrans,mumble,,,dundunde,Phonemic
+18-170-28-1,anda1281,Avar (Andalal dialect),1025,щитІде,CyrillTrans,whistle,,,"š̄itʼde, š̄etʼede",Phonemic
+18-170-28-3,anda1281,Avar (Andalal dialect),1025,щетІеде,CyrillTrans,whistle,,,"š̄itʼde, š̄etʼede",Phonemic
+18-180-28-1,anda1281,Avar (Andalal dialect),298,цІцІирцІцІирде,CyrillTrans,"shriek, screech",,,c̄ʼirc̄ʼirde,Phonemic
+18-190-28-1,anda1281,Avar (Andalal dialect),526,гІавусде,CyrillTrans,howl,,,ʕawusde,Phonemic
+18-210-28-1,anda1281,Avar (Andalal dialect),1623,кІалгьаде,CyrillTrans,"speak, talk",,,kʼalhade,Phonemic
+18-211-28-1,anda1281,Avar (Andalal dialect),1866,бабаде,CyrillTrans,"stutter, stammer",,,babade,Phonemic
+18-220-28-1,anda1281,Avar (Andalal dialect),1458,абде,CyrillTrans,say,,,abde,Phonemic
+18-221-28-1,anda1281,Avar (Andalal dialect),1711,хабар бицде,CyrillTrans,tell story,,,xabar bicde,Phonemic
+18-222-28-1,anda1281,Avar (Andalal dialect),1115,кІалгьай гьубуде,CyrillTrans,speech (make a),,,kʼalhay hubude,Phonemic
+18-230-28-1,anda1281,Avar (Andalal dialect),48,сас теде,CyrillTrans,silent (be),,,"sas tede, sas qʼotʼde, ʕenek̄un č̄ʼede",Phonemic
+18-230-28-3,anda1281,Avar (Andalal dialect),48,сас къотІде,CyrillTrans,silent (be),,,"sas tede, sas qʼotʼde, ʕenek̄un č̄ʼede",Phonemic
+18-230-28-5,anda1281,Avar (Andalal dialect),48,гІенеккун чІчІеде,CyrillTrans,silent (be),,,"sas tede, sas qʼotʼde, ʕenek̄un č̄ʼede",Phonemic
+18-240-28-1,anda1281,Avar (Andalal dialect),1307,мацІцІ,CyrillTrans,language,,,mac̄ʼ,Phonemic
+18-260-28-1,anda1281,Avar (Andalal dialect),1599,рагІи,CyrillTrans,word,,,raʕi,Phonemic
+18-280-28-1,anda1281,Avar (Andalal dialect),1405,цІцІар,CyrillTrans,name,,,c̄ʼar,Phonemic
+18-310-28-1,anda1281,Avar (Andalal dialect),1309,гьикъде,CyrillTrans,"ask (question, inquire)",,,hiqʼde,Phonemic
+18-320-28-1,anda1281,Avar (Andalal dialect),1275,жаваб кьеде,CyrillTrans,answer,,,žawab ƛ̄ʼede,Phonemic
+18-330-28-1,anda1281,Avar (Andalal dialect),2022,мукІулде,CyrillTrans,"admit, confess",,,mukʼulde,Phonemic
+18-340-28-1,anda1281,Avar (Andalal dialect),755,нахчІваде,CyrillTrans,deny,,,naxčʼʷade,Phonemic
+18-350-28-1,anda1281,Avar (Andalal dialect),1828,гьарде,CyrillTrans,"ask, request",,,harde,Phonemic
+18-360-28-1,anda1281,Avar (Andalal dialect),1675,рагІи кьеде,CyrillTrans,promise,,,raʕi ƛ̄ʼede,Phonemic
+18-370-28-1,anda1281,Avar (Andalal dialect),49,нахчІваде,CyrillTrans,refuse,,,naxčʼʷade,Phonemic
+18-380-28-1,anda1281,Avar (Andalal dialect),83,биччачІуго теде,CyrillTrans,forbid,,,"bič̄ačʼugo tede, huqʼde",Phonemic
+18-380-28-3,anda1281,Avar (Andalal dialect),83,гьукъде,CyrillTrans,forbid,,,"bič̄ačʼugo tede, huqʼde",Phonemic
+18-390-28-1,anda1281,Avar (Andalal dialect),299,бицарде,CyrillTrans,"rebuke, scold",,,bicarde,Phonemic
+18-410-28-1,anda1281,Avar (Andalal dialect),1084,ахІде,CyrillTrans,call (=summon),,,aħde,Phonemic
+18-420-28-1,anda1281,Avar (Andalal dialect),180,цІцІар теде,CyrillTrans,call (=name),,,c̄ʼar tede,Phonemic
+18-430-28-1,anda1281,Avar (Andalal dialect),9,гьадубуде,CyrillTrans,announce,,,"hadubude, abde",Phonemic
+18-430-28-3,anda1281,Avar (Andalal dialect),9,абде,CyrillTrans,announce,,,"hadubude, abde",Phonemic
+18-440-28-1,anda1281,Avar (Andalal dialect),1192,хІенкъде гьувуде,CyrillTrans,threaten,,,ħenqʼde huwude,Phonemic
+18-450-28-1,anda1281,Avar (Andalal dialect),101,веццарде,CyrillTrans,boast,,,wec̄arde,Phonemic
+18-510-28-1,anda1281,Avar (Andalal dialect),1672,хваде,CyrillTrans,write,,,xʷade,Phonemic
+18-520-28-1,anda1281,Avar (Andalal dialect),724,цІцІалде,CyrillTrans,read,,,c̄ʼalde,Phonemic
+18-560-28-1,anda1281,Avar (Andalal dialect),648,кагъат,CyrillTrans,paper,,,kaɣat,Phonemic
+18-570-28-1,anda1281,Avar (Andalal dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-28-1,anda1281,Avar (Andalal dialect),963,эхь,CyrillTrans,book,,,ex̌,Phonemic
+18-670-28-1,anda1281,Avar (Andalal dialect),1045,корчІохан,CyrillTrans,poet,,,korčʼoxan,Phonemic
+18-710-28-1,anda1281,Avar (Andalal dialect),777,зурма,CyrillTrans,flute,,,zurma,Phonemic
+18-720-28-1,anda1281,Avar (Andalal dialect),908,къили,CyrillTrans,drum,,,qʼili,Phonemic
+18-730-28-1,anda1281,Avar (Andalal dialect),2136,турба,CyrillTrans,"horn, trumpet",,,"turba, naqʼira",Phonemic
+18-730-28-3,anda1281,Avar (Andalal dialect),2136,накъира,CyrillTrans,"horn, trumpet",,,"turba, naqʼira",Phonemic
+18-740-28-1,anda1281,Avar (Andalal dialect),300,жунгъеро,CyrillTrans,rattle,,,žunɣero,Phonemic
+19-110-28-1,anda1281,Avar (Andalal dialect),1300,пачалих,CyrillTrans,country,,,"ulka, pačalix, ħukumat",Phonemic
+19-110-28-3,anda1281,Avar (Andalal dialect),1300,хІукумат,CyrillTrans,country,,,"ulka, pačalix, ħukumat",Phonemic
+19-120-28-1,anda1281,Avar (Andalal dialect),89,гІагараб улка,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-120-28-3,anda1281,Avar (Andalal dialect),89,ватІан,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-150-28-1,anda1281,Avar (Andalal dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-28-1,anda1281,Avar (Andalal dialect),930,росу,CyrillTrans,village,,,rosu,Phonemic
+19-170-28-1,anda1281,Avar (Andalal dialect),1010,гІурхи,CyrillTrans,boundary,,,ʕurxi,Phonemic
+19-210-28-1,anda1281,Avar (Andalal dialect),789,халкъ,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-28-1,anda1281,Avar (Andalal dialect),302,агьлу,CyrillTrans,"tribe, clan",,,ahlu,Phonemic
+19-240-28-1,anda1281,Avar (Andalal dialect),301,бел′эр,CyrillTrans,"chief, chieftain",,,"belʔer, cewexan",Phonemic
+19-240-28-3,anda1281,Avar (Andalal dialect),301,цевехан,CyrillTrans,"chief, chieftain",,,"belʔer, cewexan",Phonemic
+19-250-28-1,anda1281,Avar (Andalal dialect),1296,гІанса,CyrillTrans,"staff, walking stick",,,"ʕansa, ilʲ",Phonemic
+19-250-28-3,anda1281,Avar (Andalal dialect),1296,илʼ,CyrillTrans,"staff, walking stick",,,"ʕansa, ilʲ",Phonemic
+19-310-28-1,anda1281,Avar (Andalal dialect),1846,ханли гьубуде,CyrillTrans,"rule, govern",,,xanli hubude,Phonemic
+19-320-28-1,anda1281,Avar (Andalal dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan, ħakim, ad taraw či",Phonemic
+19-320-28-3,anda1281,Avar (Andalal dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan, ħakim, ad taraw či",Phonemic
+19-320-28-5,anda1281,Avar (Andalal dialect),1508,хІаким,CyrillTrans,"king, ruler",,,"pača, xan, ħakim, ad taraw či",Phonemic
+19-320-28-7,anda1281,Avar (Andalal dialect),1508,ад тарав чи,CyrillTrans,"king, ruler",,,"pača, xan, ħakim, ad taraw či",Phonemic
+19-330-28-1,anda1281,Avar (Andalal dialect),1306,бика,CyrillTrans,queen,,,bika,Phonemic
+19-360-28-1,anda1281,Avar (Andalal dialect),482,ракІ бацІцІадаб,CyrillTrans,"noble, nobleman",,,rakʼ bac̄ʼadab,Phonemic
+19-370-28-1,anda1281,Avar (Andalal dialect),1032,шагьаралъул чи,CyrillTrans,"citizen, subject",,,šahazaɬul či,Phonemic
+19-410-28-1,anda1281,Avar (Andalal dialect),383,хІаким,CyrillTrans,master,,,"ħakim, belʔehan",Phonemic
+19-410-28-3,anda1281,Avar (Andalal dialect),383,бел′эгьан,CyrillTrans,master,,,"ħakim, belʔehan",Phonemic
+19-420-28-1,anda1281,Avar (Andalal dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-28-1,anda1281,Avar (Andalal dialect),255,ццеве тарав чи,CyrillTrans,servant,,,"c̄ewe taraw či, rahlatel",Phonemic
+19-430-28-3,anda1281,Avar (Andalal dialect),255,рагьлател,CyrillTrans,servant,,,"c̄ewe taraw či, rahlatel",Phonemic
+19-440-28-1,anda1281,Avar (Andalal dialect),384,эркенав чи,CyrillTrans,freeman,,,erkenaw či,Phonemic
+19-450-28-1,anda1281,Avar (Andalal dialect),1128,буюрух гьубуде,CyrillTrans,"command, order",,,buyurux hubude,Phonemic
+19-460-28-1,anda1281,Avar (Andalal dialect),1635,малълъараб гьубуде,CyrillTrans,obey,,,"maɬ̄arab hubude, ʕentʼande",Phonemic
+19-460-28-3,anda1281,Avar (Andalal dialect),1635,гІентІанде,CyrillTrans,obey,,,"maɬ̄arab hubude, ʕentʼande",Phonemic
+19-470-28-1,anda1281,Avar (Andalal dialect),1003,изну кьеде,CyrillTrans,"let, permit",,,iznu ƛ̄ʼede,Phonemic
+19-510-28-1,anda1281,Avar (Andalal dialect),1325,гьудул,CyrillTrans,"friend, companion",,,hudul,Phonemic
+19-520-28-1,anda1281,Avar (Andalal dialect),1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-28-1,anda1281,Avar (Andalal dialect),1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-28-1,anda1281,Avar (Andalal dialect),791,гьамарав чи,CyrillTrans,stranger,,,hamaraw či,Phonemic
+19-560-28-1,anda1281,Avar (Andalal dialect),1782,гьобол,CyrillTrans,guest,,,hobol,Phonemic
+19-570-28-1,anda1281,Avar (Andalal dialect),1545,бел′эгьан,CyrillTrans,host,,,belʔehan,Phonemic
+19-580-28-1,anda1281,Avar (Andalal dialect),1897,кумак,CyrillTrans,"help, aid",,,kumak,Phonemic
+19-590-28-1,anda1281,Avar (Andalal dialect),1550,квалквал гьубуде,CyrillTrans,"hinder, prevent",,,kʷalkʷal hubude,Phonemic
+19-610-28-1,anda1281,Avar (Andalal dialect),1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-28-1,anda1281,Avar (Andalal dialect),1848,дагІба,CyrillTrans,"strife, quarrel",,,"daʕba, ƛ̄ʼal, barš̄i",Phonemic
+19-620-28-3,anda1281,Avar (Andalal dialect),1848,кьал,CyrillTrans,"strife, quarrel",,,"daʕba, ƛ̄ʼal, barš̄i",Phonemic
+19-620-28-5,anda1281,Avar (Andalal dialect),1848,барщи,CyrillTrans,"strife, quarrel",,,"daʕba, ƛ̄ʼal, barš̄i",Phonemic
+19-630-28-1,anda1281,Avar (Andalal dialect),2024,гъвекьрекъей,CyrillTrans,"conspiracy, plot",,,ɣʷeƛ̄ʼreqʼey,Phonemic
+19-650-28-1,anda1281,Avar (Andalal dialect),1831,данде ккеде,CyrillTrans,meet,,,dande k̄ede,Phonemic
+19-720-28-1,anda1281,Avar (Andalal dialect),1610,гъахІба,CyrillTrans,prostitute,,,"ɣaħba, qʼaħpʼa",Phonemic
+19-720-28-3,anda1281,Avar (Andalal dialect),1610,къахІпІа,CyrillTrans,prostitute,,,"ɣaħba, qʼaħpʼa",Phonemic
+20-110-28-1,anda1281,Avar (Andalal dialect),1423,рагъде,CyrillTrans,fight (vb),,,raɣde,Phonemic
+20-130-28-1,anda1281,Avar (Andalal dialect),579,рагъ,CyrillTrans,"war, battle",,,raɣ,Phonemic
+20-140-28-1,anda1281,Avar (Andalal dialect),1338,рекъелʼ,CyrillTrans,peace,,,reqʼelʲ,Phonemic
+20-150-28-1,anda1281,Avar (Andalal dialect),1561,аскар,CyrillTrans,army,,,askar,Phonemic
+20-170-28-1,anda1281,Avar (Andalal dialect),1941,салдат,CyrillTrans,soldier,,,saldat,Phonemic
+20-210-28-1,anda1281,Avar (Andalal dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-28-1,anda1281,Avar (Andalal dialect),1763,хІусс,CyrillTrans,club,,,ħus̄,Phonemic
+20-222-28-1,anda1281,Avar (Andalal dialect),386,гІиштІи,CyrillTrans,battle-ax,,,ʕištʼi,Phonemic
+20-230-28-1,anda1281,Avar (Andalal dialect),387,гамачІ рехинеб рагъул алат,CyrillTrans,sling,,,gamač rexineb raɣui alat,Phonemic
+20-240-28-1,anda1281,Avar (Andalal dialect),994,газаргъо,CyrillTrans,bow,,,"gazarɣo, gazaɣro",Phonemic
+20-240-28-3,anda1281,Avar (Andalal dialect),994,газагъро,CyrillTrans,bow,,,"gazarɣo, gazaɣro",Phonemic
+20-250-28-1,anda1281,Avar (Andalal dialect),977,чІор,CyrillTrans,arrow,,,čʼor,Phonemic
+20-260-28-1,anda1281,Avar (Andalal dialect),945,хеч,CyrillTrans,spear,,,xeč,Phonemic
+20-270-28-1,anda1281,Avar (Andalal dialect),1535,хулчен,CyrillTrans,sword,,,xulčen,Phonemic
+20-280-28-1,anda1281,Avar (Andalal dialect),1566,тубанкІ,CyrillTrans,"gun, cannon",,,"tubankʼ, top, ʕarada",Phonemic
+20-280-28-3,anda1281,Avar (Andalal dialect),1566,топ,CyrillTrans,"gun, cannon",,,"tubankʼ, top, ʕarada",Phonemic
+20-280-28-5,anda1281,Avar (Andalal dialect),1566,гІарада,CyrillTrans,"gun, cannon",,,"tubankʼ, top, ʕarada",Phonemic
+20-310-28-1,anda1281,Avar (Andalal dialect),1061,ярагъ-матахІ,CyrillTrans,armor (defensive),,,yaraɣ-mataħ,Phonemic
+20-330-28-1,anda1281,Avar (Andalal dialect),1680,такъия,CyrillTrans,helmet,,,taqʼiya,Phonemic
+20-340-28-1,anda1281,Avar (Andalal dialect),1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-28-1,anda1281,Avar (Andalal dialect),1938,гъала,CyrillTrans,fortress,,,ɣala,Phonemic
+20-360-28-1,anda1281,Avar (Andalal dialect),1671,си,CyrillTrans,tower,,,si,Phonemic
+20-410-28-1,anda1281,Avar (Andalal dialect),783,бергьенли,CyrillTrans,victory,,,"berhenli, belʲhi",Phonemic
+20-410-28-3,anda1281,Avar (Andalal dialect),783,белʼгьи,CyrillTrans,victory,,,"berhenli, belʲhi",Phonemic
+20-420-28-1,anda1281,Avar (Andalal dialect),782,къвей,CyrillTrans,defeat,,,qʼʷey,Phonemic
+20-430-28-1,anda1281,Avar (Andalal dialect),722,аде кІасде,CyrillTrans,attack,,,ade kʼasde,Phonemic
+20-440-28-1,anda1281,Avar (Andalal dialect),1330,данде чІчІеде,CyrillTrans,defend,,,dande č̄ʼede,Phonemic
+20-450-28-1,anda1281,Avar (Andalal dialect),421,Нахе къаде,CyrillTrans,retreat,,,naxe qʼade,Phonemic
+20-460-28-1,anda1281,Avar (Andalal dialect),1696,кудив венде,CyrillTrans,surrender,,,"kudiw wende, qʼun č̄ʼede",Phonemic
+20-460-28-3,anda1281,Avar (Andalal dialect),1696,къун чІчІеде,CyrillTrans,surrender,,,"kudiw wende, qʼun č̄ʼede",Phonemic
+20-470-28-1,anda1281,Avar (Andalal dialect),1072,асир,CyrillTrans,"captive, prisoner",,,"asir, tusnaqaw",Phonemic
+20-470-28-3,anda1281,Avar (Andalal dialect),1072,туснахъав,CyrillTrans,"captive, prisoner",,,"asir, tusnaqaw",Phonemic
+20-471-28-1,anda1281,Avar (Andalal dialect),1940,гъаравул,CyrillTrans,"guard, sentinel",,,ɣarawul,Phonemic
+20-480-28-1,anda1281,Avar (Andalal dialect),1022,гъачагъли гьубун щвараб боцІцІи,CyrillTrans,"booty, spoils",,,"ɣačaɣli hubun š̄ʷarab boc̄ʼi, dawla",Phonemic
+20-480-28-3,anda1281,Avar (Andalal dialect),1022,давла,CyrillTrans,"booty, spoils",,,"ɣačaɣli hubun š̄ʷarab boc̄ʼi, dawla",Phonemic
+20-490-28-1,anda1281,Avar (Andalal dialect),65,гъвекьчІчІел гьубуде,CyrillTrans,ambush,,,ɣʷeƛ̄ʼč̄ʼel hubude,Phonemic
+20-510-28-1,anda1281,Avar (Andalal dialect),1858,ччугІихан,CyrillTrans,fisherman,,,č̄uʕixan,Phonemic
+20-520-28-1,anda1281,Avar (Andalal dialect),1074,ччугІа ккув ханцІа,CyrillTrans,fishhook,,,č̄uʕa k̄uw xancʼa,Phonemic
+20-530-28-1,anda1281,Avar (Andalal dialect),19,ччугІа ккув квар,CyrillTrans,fishing line,,,č̄uʕa k̄uw kʷar,Phonemic
+20-540-28-1,anda1281,Avar (Andalal dialect),388,ччугІа ккув сетка,CyrillTrans,fishnet,,,č̄uʕa k̄uw setka,Phonemic
+20-550-28-1,anda1281,Avar (Andalal dialect),389,гьин,CyrillTrans,fish trap,,,hin,Phonemic
+20-610-28-1,anda1281,Avar (Andalal dialect),1435,чанаве венде,CyrillTrans,hunt,,,"čanawe wende, čan hubude",Phonemic
+20-610-28-3,anda1281,Avar (Andalal dialect),1435,чан гьубуде,CyrillTrans,hunt,,,"čanawe wende, čan hubude",Phonemic
+20-620-28-1,anda1281,Avar (Andalal dialect),1172,кьвагьде,CyrillTrans,shoot,,,"ƛ̄ʼʷahde, tubankʼ reč̄ʼede",Phonemic
+20-620-28-3,anda1281,Avar (Andalal dialect),1172,тубанкІ речІчІеде,CyrillTrans,shoot,,,"ƛ̄ʼʷahde, tubankʼ reč̄ʼede",Phonemic
+20-630-28-1,anda1281,Avar (Andalal dialect),161,мекъсса ккеде,CyrillTrans,miss (target),,,meqʼs̄a k̄ede,Phonemic
+20-640-28-1,anda1281,Avar (Andalal dialect),1075,къор,CyrillTrans,trap (noun),,,qʼor,Phonemic
+20-650-28-1,anda1281,Avar (Andalal dialect),1170,къор битІде,CyrillTrans,trap (vb),,,"qʼor bitʼde, qʼorid k̄ʷede",Phonemic
+20-650-28-3,anda1281,Avar (Andalal dialect),1170,къорид ккведе,CyrillTrans,trap (vb),,,"qʼor bitʼde, qʼorid k̄ʷede",Phonemic
+21-110-28-1,anda1281,Avar (Andalal dialect),1062,закон,CyrillTrans,law,,,"zakon, qʼanun",Phonemic
+21-110-28-3,anda1281,Avar (Andalal dialect),1062,къанун,CyrillTrans,law,,,"zakon, qʼanun",Phonemic
+21-150-28-1,anda1281,Avar (Andalal dialect),1068,ссуд,CyrillTrans,court,,,"s̄ud, diwan",Phonemic
+21-150-28-3,anda1281,Avar (Andalal dialect),1068,диван,CyrillTrans,court,,,"s̄ud, diwan",Phonemic
+21-160-28-1,anda1281,Avar (Andalal dialect),1818,ссудалъ кьеде,CyrillTrans,judge (vb),,,s̄udaɬ ƛ̄ʼede,Phonemic
+21-170-28-1,anda1281,Avar (Andalal dialect),1067,ссудалълъул хІукму,CyrillTrans,judgment,,,s̄udaɬ̄ul ħukmu,Phonemic
+21-180-28-1,anda1281,Avar (Andalal dialect),861,ссудья,CyrillTrans,judge (noun),,,"s̄udya, diwanči",Phonemic
+21-180-28-3,anda1281,Avar (Andalal dialect),861,диванчи,CyrillTrans,judge (noun),,,"s̄udya, diwanči",Phonemic
+21-210-28-1,anda1281,Avar (Andalal dialect),2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-28-1,anda1281,Avar (Andalal dialect),1034,жаваб кьеде чи,CyrillTrans,defendant,,,žawab ƛ̄ʼede či,Phonemic
+21-230-28-1,anda1281,Avar (Andalal dialect),1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-28-1,anda1281,Avar (Andalal dialect),1939,гьетде,CyrillTrans,swear,,,hetde,Phonemic
+21-250-28-1,anda1281,Avar (Andalal dialect),1712,гьеди,CyrillTrans,oath,,,hedi,Phonemic
+21-310-28-1,anda1281,Avar (Andalal dialect),1814,гІайиб гьубуде,CyrillTrans,accuse,,,"ʕayib hubude, ʕayib čʼʷade",Phonemic
+21-310-28-3,anda1281,Avar (Andalal dialect),1814,гІайиб чІваде,CyrillTrans,accuse,,,"ʕayib hubude, ʕayib čʼʷade",Phonemic
+21-320-28-1,anda1281,Avar (Andalal dialect),484,гІайиб ч̄Іедубуде,CyrillTrans,condemn,,,ʕayib č̄ʼedubude,Phonemic
+21-330-28-1,anda1281,Avar (Andalal dialect),983,(судалъ) гІайиб чІчІедубуде,CyrillTrans,convict (vb),,,(sudaɬ) ʕayib č̄ʼedubude,Phonemic
+21-340-28-1,anda1281,Avar (Andalal dialect),988,битІарав гьувуде,CyrillTrans,acquit,,,bitʼaraw huwude,Phonemic
+21-350-28-1,anda1281,Avar (Andalal dialect),1682,гІайибияв,CyrillTrans,guilty,,,"ʕayibiyaw, ʕayib bugaw",Phonemic
+21-350-28-3,anda1281,Avar (Andalal dialect),1682,гІайиб бугав,CyrillTrans,guilty,,,"ʕayibiyaw, ʕayib bugaw",Phonemic
+21-360-28-1,anda1281,Avar (Andalal dialect),90,гІайиб гьечІав,CyrillTrans,innocent,,,ʕayib hečʼaw,Phonemic
+21-370-28-1,anda1281,Avar (Andalal dialect),390,тамихІ,CyrillTrans,"penalty, punishment",,,tamiħ,Phonemic
+21-380-28-1,anda1281,Avar (Andalal dialect),218,гІарцул гІакІа,CyrillTrans,fine,,,"ʕakʼa, štraf, ištarap",Phonemic
+21-380-28-3,anda1281,Avar (Andalal dialect),218,штраф,CyrillTrans,fine,,,"ʕakʼa, štraf, ištarap",Phonemic
+21-380-28-5,anda1281,Avar (Andalal dialect),218,иштарап,CyrillTrans,fine,,,"ʕakʼa, štraf, ištarap",Phonemic
+21-390-28-1,anda1281,Avar (Andalal dialect),1281,туснах,CyrillTrans,"prison, jail",,,tusnax,Phonemic
+21-420-28-1,anda1281,Avar (Andalal dialect),845,чІвай,CyrillTrans,murder,,,čʼʷay,Phonemic
+21-430-28-1,anda1281,Avar (Andalal dialect),902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-28-1,anda1281,Avar (Andalal dialect),953,хІал гьубуй,CyrillTrans,rape,,,ħal hubuy,Phonemic
+21-460-28-1,anda1281,Avar (Andalal dialect),1889,цІа гІунтІи,CyrillTrans,arson,,,"cʼa ʕuntʼi, cʼa ɣʷey",Phonemic
+21-460-28-3,anda1281,Avar (Andalal dialect),1889,цІа гъвей,CyrillTrans,arson,,,"cʼa ʕuntʼi, cʼa ɣʷey",Phonemic
+21-470-28-1,anda1281,Avar (Andalal dialect),1792,гьереси бици,CyrillTrans,perjury,,,heresi bici,Phonemic
+21-510-28-1,anda1281,Avar (Andalal dialect),713,бикъде,CyrillTrans,steal,,,biqʼde,Phonemic
+21-520-28-1,anda1281,Avar (Andalal dialect),1160,цІцІогьор,CyrillTrans,thief,,,c̄ʼohor,Phonemic
+22-110-28-1,anda1281,Avar (Andalal dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-28-1,anda1281,Avar (Andalal dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-28-1,anda1281,Avar (Andalal dialect),911,килиси,CyrillTrans,"temple, church",,,kilisi,Phonemic
+22-140-28-1,anda1281,Avar (Andalal dialect),853,михІмар,CyrillTrans,altar,,,miħmar,Phonemic
+22-150-28-1,anda1281,Avar (Andalal dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-28-1,anda1281,Avar (Andalal dialect),257,бел′эр къулде,CyrillTrans,worship,,,belʔer qʼulde,Phonemic
+22-170-28-1,anda1281,Avar (Andalal dialect),24,как баде,CyrillTrans,pray,,,kak bade,Phonemic
+22-180-28-1,anda1281,Avar (Andalal dialect),852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-28-1,anda1281,Avar (Andalal dialect),1702,ххираяб,CyrillTrans,"holy, sacred",,,x̄irayab,Phonemic
+22-220-28-1,anda1281,Avar (Andalal dialect),304,вагІза гьубуде,CyrillTrans,preach,,,waʕza hubude,Phonemic
+22-230-28-1,anda1281,Avar (Andalal dialect),391,разили кьеде,CyrillTrans,bless,,,razili ƛ̄ʼede,Phonemic
+22-240-28-1,anda1281,Avar (Andalal dialect),8,нагІана кьеде,CyrillTrans,curse,,,naʕana ƛ̄ʼede,Phonemic
+22-260-28-1,anda1281,Avar (Andalal dialect),303,кІал ккведе,CyrillTrans,fast (vb),,,kʼal k̄ʷede,Phonemic
+22-310-28-1,anda1281,Avar (Andalal dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-28-1,anda1281,Avar (Andalal dialect),878,жужахІ,CyrillTrans,hell,,,žužaħ,Phonemic
+22-350-28-1,anda1281,Avar (Andalal dialect),1973,щитІан,CyrillTrans,demon (evil spirit),,,"š̄itʼan, ilbis",Phonemic
+22-350-28-3,anda1281,Avar (Andalal dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"š̄itʼan, ilbis",Phonemic
+22-370-28-1,anda1281,Avar (Andalal dialect),1945,хъанч,CyrillTrans,idol,,,qanč,Phonemic
+22-420-28-1,anda1281,Avar (Andalal dialect),392,сихІру,CyrillTrans,"magic, witchcraft, sorcery",,,"siħru, makru",Phonemic
+22-420-28-3,anda1281,Avar (Andalal dialect),392,макру,CyrillTrans,"magic, witchcraft, sorcery",,,"siħru, makru",Phonemic
+22-430-28-1,anda1281,Avar (Andalal dialect),2137,гъартай,CyrillTrans,"sorcerer, witch",,,ɣartay,Phonemic
+22-440-28-1,anda1281,Avar (Andalal dialect),2138,хІурулгІен,CyrillTrans,"fairy, elf",,,ħurulʕen,Phonemic
+22-450-28-1,anda1281,Avar (Andalal dialect),1175,ццебехвай,CyrillTrans,"ghost, phantom",,,c̄ebexʷay,Phonemic
+22-470-28-1,anda1281,Avar (Andalal dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

@@ -1,0 +1,1629 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-702-1,hind1269,Hindi  ,1852,aksar,Phonemic,often,saxena702,,"अक्सर, बहुतबार, प्रायः",Standard
+14-320-702-3,hind1269,Hindi  ,1852,bahut̪baːr,Phonemic,often,saxena702,,"अक्सर, बहुतबार, प्रायः",Standard
+14-320-702-5,hind1269,Hindi  ,1852,praːjaːj,Phonemic,often,saxena702,,"अक्सर, बहुतबार, प्रायः",Standard
+14-310-702-1,hind1269,Hindi  ,1676,hameɕaː,Phonemic,always,saxena702,,"हमेशा, सदा",Standard
+14-310-702-3,hind1269,Hindi  ,1676,sad̪aː,Phonemic,always,saxena702,,"हमेशा, सदा",Standard
+14-290-702-1,hind1269,Hindi  ,790,t̪aijaːr,Phonemic,ready,saxena702,,तैयार,Standard
+14-280-702-1,hind1269,Hindi  ,1928,an̪t̪ hon̪aː,Phonemic,"cease, stop",saxena702,,अंत होना,Standard
+14-270-702-1,hind1269,Hindi  ,1766,kʰat̪am hon̪aː,Phonemic,finish,saxena702,,खत्म होना,Standard
+14-260-702-1,hind1269,Hindi  ,743,an̪t̪,Phonemic,end (temporal),saxena702,,अंत,Standard
+14-252-702-1,hind1269,Hindi  ,1186,ʈikan̪aː,Phonemic,"last, endure",saxena702,,"टिकना, चलना",Standard
+14-252-702-3,hind1269,Hindi  ,1186,tʃalan̪aː,Phonemic,"last, endure",saxena702,,"टिकना, चलना",Standard
+14-250-702-1,hind1269,Hindi  ,1806,ɕuruː karan̪aː,Phonemic,"begin, beginning",saxena702,,शुरू करना,Standard
+14-240-702-1,hind1269,Hindi  ,425,d̪er karan̪aː,Phonemic,"retard, delay",saxena702,,देर करना,Standard
+14-230-702-1,hind1269,Hindi  ,754,dʒald̪iː karan̪aː,Phonemic,"hasten, hurry",saxena702,,जल्दी करना,Standard
+14-220-702-1,hind1269,Hindi  ,701,d̪ʱiːre,Phonemic,slow,saxena702,,धीरे,Standard
+14-210-702-1,hind1269,Hindi  ,1631,dʒald̪iː,Phonemic,"swift, fast, quick",saxena702,,जल्दी,Standard
+14-190-702-1,hind1269,Hindi  ,1963,ekd̪am,Phonemic,immediately,saxena702,,एकदम,Standard
+14-180-702-1,hind1269,Hindi  ,1376,abʱiː,Phonemic,now,saxena702,,अभी,Standard
+14-170-702-1,hind1269,Hindi  ,477,d̪er,Phonemic,late,saxena702,,देर,Standard
+14-160-702-1,hind1269,Hindi  ,672,dʒald̪iː,Phonemic,early,saxena702,,जल्दी,Standard
+14-150-702-1,hind1269,Hindi  ,1229,buːɽʱaː,Phonemic,old,saxena702,,बूढ़ा,Standard
+14-140-702-1,hind1269,Hindi  ,1207,tʃʰoʈaː,Phonemic,young,saxena702,,छोटा,Standard
+14-120-702-1,hind1269,Hindi  ,1789,aːju,Phonemic,age,saxena702,,आयु,Standard
+14-130-702-1,hind1269,Hindi  ,1231,n̪aiː,Phonemic,new,saxena702,,नई,Standard
+14-110-702-1,hind1269,Hindi  ,892,samaj,Phonemic,time,saxena702,,समय,Standard
+13-440-702-1,hind1269,Hindi  ,417,t̪iːn̪ gun̪aː,Phonemic,three times,saxena702,,तीन गुना,Standard
+13-420-702-1,hind1269,Hindi  ,1859,t̪iːsaraː,Phonemic,third,saxena702,,तीसरा,Standard
+13-380-702-1,hind1269,Hindi  ,1546,d̪ugan̪aː,Phonemic,two times,saxena702,,दुगना,Standard
+13-370-702-1,hind1269,Hindi  ,1888,dʒoɽiː,Phonemic,pair,saxena702,,जोड़ी,Standard
+13-360-702-1,hind1269,Hindi  ,1384,d̪uːsaraː,Phonemic,second,saxena702,,दूसरा,Standard
+13-350-702-1,hind1269,Hindi  ,1529,aːkʰariː,Phonemic,last,saxena702,,आखरी,Standard
+13-340-702-1,hind1269,Hindi  ,728,pehalaː,Phonemic,first,saxena702,,पहला,Standard
+13-330-702-1,hind1269,Hindi  ,1580,ekamaːt̪ra,Phonemic,"alone, only",saxena702,,"एकमात्र, सिर्फ़",Standard
+13-330-702-3,hind1269,Hindi  ,1580,sirpʰ,Phonemic,"alone, only",saxena702,,"एकमात्र, सिर्फ़",Standard
+13-240-702-1,hind1269,Hindi  ,816,aːd̪ʱaː,Phonemic,half,saxena702,,आधा,Standard
+13-230-702-1,hind1269,Hindi  ,779,an̪ɕ,Phonemic,"part, piece",saxena702,,अंश,Standard
+13-220-702-1,hind1269,Hindi  ,1624,kʰaːliː,Phonemic,empty,saxena702,,खाली,Standard
+13-210-702-1,hind1269,Hindi  ,1429,bʱaraː,Phonemic,full,saxena702,,भरा,Standard
+13-190-702-1,hind1269,Hindi  ,2023,bʱiːɽ,Phonemic,"multitude, crowd",saxena702,,भीड़,Standard
+13-181-702-1,hind1269,Hindi  ,1241,kutʃʰ,Phonemic,some,saxena702,,कुछ,Standard
+13-170-702-1,hind1269,Hindi  ,1242,alp,Phonemic,"little (quantity), few",saxena702,,"अल्प, थोड़ा",Standard
+13-170-702-3,hind1269,Hindi  ,1242,t̪ʰoɽaː,Phonemic,"little (quantity), few",saxena702,,"अल्प, थोड़ा",Standard
+13-180-702-1,hind1269,Hindi  ,1881,kaːpʰiː,Phonemic,enough,saxena702,,"काफ़ी, पर्याप्त",Standard
+13-180-702-3,hind1269,Hindi  ,1881,parjaːpt̪,Phonemic,enough,saxena702,,"काफ़ी, पर्याप्त",Standard
+13-160-702-1,hind1269,Hindi  ,1992,ad̪ʱik,Phonemic,more,saxena702,,अधिक,Standard
+13-150-702-1,hind1269,Hindi  ,1198,bahut̪,Phonemic,"much, many",saxena702,,बहुत,Standard
+13-140-702-1,hind1269,Hindi  ,98,sab,Phonemic,"every, all",saxena702,,सब,Standard
+13-107-702-1,hind1269,Hindi  ,1420,gin̪an̪aː,Phonemic,count,saxena702,,गिनना,Standard
+13-106-702-1,hind1269,Hindi  ,1843,hadʒaːr,Phonemic,thousand,saxena702,,हजार,Standard
+13-105-702-1,hind1269,Hindi  ,1634,sɔː,Phonemic,hundred,saxena702,,सौ,Standard
+13-104-702-1,hind1269,Hindi  ,1710,biːs,Phonemic,twenty,saxena702,,बीस,Standard
+13-103-702-1,hind1269,Hindi  ,1709,pan̪d̪rah,Phonemic,fifteen,saxena702,,पंद्रह,Standard
+13-102-702-1,hind1269,Hindi  ,1707,baːrah,Phonemic,twelve,saxena702,,बारह,Standard
+13-101-702-1,hind1269,Hindi  ,1706,gjaːrah,Phonemic,eleven,saxena702,,ग्यारह,Standard
+13-100-702-1,hind1269,Hindi  ,1515,d̪as,Phonemic,ten,saxena702,,दस,Standard
+13-90-702-1,hind1269,Hindi  ,1483,n̪ɔ,Phonemic,nine,saxena702,,नौ,Standard
+13-80-702-1,hind1269,Hindi  ,1705,aːʈʰ,Phonemic,eight,saxena702,,आठ,Standard
+13-70-702-1,hind1269,Hindi  ,1704,saːt̪,Phonemic,seven,saxena702,,सात,Standard
+13-60-702-1,hind1269,Hindi  ,1703,tʃʰe,Phonemic,six,saxena702,,छे,Standard
+13-50-702-1,hind1269,Hindi  ,493,pan̪tʃ,Phonemic,five,saxena702,,पांच,Standard
+13-40-702-1,hind1269,Hindi  ,1500,tʃaːr,Phonemic,four,saxena702,,चार,Standard
+13-20-702-1,hind1269,Hindi  ,1498,d̪o,Phonemic,two,saxena702,,दो,Standard
+13-30-702-1,hind1269,Hindi  ,492,t̪iːn̪,Phonemic,three,saxena702,,तीन,Standard
+13-10-702-1,hind1269,Hindi  ,1493,ek,Phonemic,one,saxena702,,एक,Standard
+13-0-702-1,hind1269,Hindi  ,1294,ɕuːn̪ja,Phonemic,"zero, nothing",saxena702,,शून्य,Standard
+12-930-702-1,hind1269,Hindi  ,1264,bad̪al d̪en̪aː,Phonemic,change,saxena702,,"बदल देना, बदल लेना",Standard
+12-930-702-3,hind1269,Hindi  ,1264,bad̪al len̪aː,Phonemic,change,saxena702,,"बदल देना, बदल लेना",Standard
+12-920-702-1,hind1269,Hindi  ,1558,t̪ulja,Phonemic,"like, similar",saxena702,,तुल्य,Standard
+12-840-702-1,hind1269,Hindi  ,1048,laːin̪,Phonemic,line,saxena702,,"लाइन, लकीर",Standard
+12-840-702-3,hind1269,Hindi  ,1048,lakiːr,Phonemic,line,saxena702,,"लाइन, लकीर",Standard
+12-850-702-1,hind1269,Hindi  ,1667,tʃʰed̪,Phonemic,hole,saxena702,,छेद,Standard
+12-830-702-1,hind1269,Hindi  ,1845,gen̪d̪,Phonemic,"sphere, ball",saxena702,,गेंद,Standard
+12-810-702-1,hind1269,Hindi  ,1395,gol,Phonemic,round,saxena702,,गोल,Standard
+12-820-702-1,hind1269,Hindi  ,1467,d̪aːjaraː,Phonemic,circle,saxena702,,"दायरा, चक्कर, चक्र",Standard
+12-820-702-3,hind1269,Hindi  ,1467,tʃakkar,Phonemic,circle,saxena702,,"दायरा, चक्कर, चक्र",Standard
+12-820-702-5,hind1269,Hindi  ,1467,tʃakkra,Phonemic,circle,saxena702,,"दायरा, चक्कर, चक्र",Standard
+12-780-702-1,hind1269,Hindi  ,850,tʃat̪urbʱudʒ,Phonemic,square,saxena702,,चतुर्भुज,Standard
+12-770-702-1,hind1269,Hindi  ,1367,pad̪ak,Phonemic,cross,saxena702,,पदक,Standard
+12-760-702-1,hind1269,Hindi  ,192,kon̪aː,Phonemic,corner,saxena702,,कोना,Standard
+12-750-702-1,hind1269,Hindi  ,1071,aŋkuɕ,Phonemic,hook,saxena702,,अंकुश,Standard
+12-740-702-1,hind1269,Hindi  ,297,dʒʱukaː huaː,Phonemic,crooked,saxena702,,झुका हुआ,Standard
+12-730-702-1,hind1269,Hindi  ,1404,siːd̪ʱaː,Phonemic,straight,saxena702,,सीधा,Standard
+12-710-702-1,hind1269,Hindi  ,1633,tʃapaʈaː,Phonemic,flat,saxena702,,चपटा,Standard
+12-680-702-1,hind1269,Hindi  ,193,ut̪ʰalaː,Phonemic,shallow,saxena702,,उथला,Standard
+12-670-702-1,hind1269,Hindi  ,1593,gaharaː,Phonemic,deep,saxena702,,गहरा,Standard
+12-650-702-1,hind1269,Hindi  ,2249,pat̪laː,Phonemic,thin (in dimension),saxena702,,पतला,Standard
+12-630-702-1,hind1269,Hindi  ,1244,moʈaː,Phonemic,thick (in dimension),saxena702,,मोटा,Standard
+12-620-702-1,hind1269,Hindi  ,1267,saŋkaraː,Phonemic,narrow,saxena702,,"संकरा, तंग",Standard
+12-620-702-3,hind1269,Hindi  ,1267,t̪aŋg,Phonemic,narrow,saxena702,,"संकरा, तंग",Standard
+12-610-702-1,hind1269,Hindi  ,1243,tʃɔɽaː,Phonemic,"wide, broad",saxena702,,चौड़ा,Standard
+12-590-702-1,hind1269,Hindi  ,1645,tʃʰoʈaː,Phonemic,short,saxena702,,छोटा,Standard
+12-580-702-1,hind1269,Hindi  ,711,uːn̪tʃaː,Phonemic,tall,saxena702,,ऊंचा,Standard
+12-570-702-1,hind1269,Hindi  ,1203,lambaː,Phonemic,long,saxena702,,लंबा,Standard
+12-560-702-1,hind1269,Hindi  ,1246,tʃʰoʈaː,Phonemic,"small, little",saxena702,,छोटा,Standard
+12-550-702-1,hind1269,Hindi  ,1202,baɽaː,Phonemic,"large, big",saxena702,,बड़ा,Standard
+12-541-702-1,hind1269,Hindi  ,81,n̪aːpan̪aː,Phonemic,"span, fathom",saxena702,,नापना,Standard
+12-540-702-1,hind1269,Hindi  ,1506,n̪aːpan̪aː,Phonemic,measure,saxena702,,नापना,Standard
+12-530-702-1,hind1269,Hindi  ,479,ugaːn̪aː,Phonemic,grow,saxena702,,उगाना,Standard
+12-480-702-1,hind1269,Hindi  ,1595,d̪akɕiɳ,Phonemic,south,saxena702,,दक्षिण,Standard
+12-470-702-1,hind1269,Hindi  ,1598,ut̪t̪ar,Phonemic,north,saxena702,,उत्तर,Standard
+12-460-702-1,hind1269,Hindi  ,1817,paɕtʃim,Phonemic,west,saxena702,,पश्चिम,Standard
+12-450-702-1,hind1269,Hindi  ,1877,puːrab,Phonemic,east,saxena702,,पूरब,Standard
+12-430-702-1,hind1269,Hindi  ,1942,paːs,Phonemic,near (adv),saxena702,,पास,Standard
+12-440-702-1,hind1269,Hindi  ,1406,d̪uːr,Phonemic,far (adv),saxena702,,दूर,Standard
+12-420-702-1,hind1269,Hindi  ,244,baːjen̪,Phonemic,left (side),saxena702,,"बायें, उलटा",Standard
+12-420-702-3,hind1269,Hindi  ,244,ulaʈaː,Phonemic,left (side),saxena702,,"बायें, उलटा",Standard
+12-410-702-1,hind1269,Hindi  ,1019,d̪aːhin̪aː,Phonemic,right (side),saxena702,,"दाहिना, सीधा",Standard
+12-410-702-3,hind1269,Hindi  ,1019,siːd̪ʱaː,Phonemic,right (side),saxena702,,"दाहिना, सीधा",Standard
+12-370-702-1,hind1269,Hindi  ,1093,biːtʃ,Phonemic,"middle, center",saxena702,,बीच,Standard
+12-360-702-1,hind1269,Hindi  ,682,or,Phonemic,side,saxena702,,ओर,Standard
+12-353-702-1,hind1269,Hindi  ,863,d̪ʱaːr,Phonemic,edge,saxena702,,धार,Standard
+12-352-702-1,hind1269,Hindi  ,372,n̪ukiːlaː,Phonemic,pointed,saxena702,,नुकीला,Standard
+12-350-702-1,hind1269,Hindi  ,742,an̪t̪,Phonemic,end,saxena702,,अंत,Standard
+12-340-702-1,hind1269,Hindi  ,690,t̪al,Phonemic,bottom,saxena702,,तल,Standard
+12-320-702-1,hind1269,Hindi  ,721,n̪iːtʃaː,Phonemic,low,saxena702,,नीचा,Standard
+12-330-702-1,hind1269,Hindi  ,1753,tʃoʈiː,Phonemic,top,saxena702,,चोटी,Standard
+12-310-702-1,hind1269,Hindi  ,1265,uːn̪tʃaː,Phonemic,high,saxena702,,ऊंचा,Standard
+12-270-702-1,hind1269,Hindi  ,602,tʃʰupaːn̪aː,Phonemic,"hide, conceal",saxena702,,छुपाना,Standard
+12-250-702-1,hind1269,Hindi  ,1046,ban̪d̪ karn̪aː,Phonemic,"shut, close",saxena702,,बंद करना,Standard
+12-260-702-1,hind1269,Hindi  ,761,ɖʱaːkan̪aː,Phonemic,cover,saxena702,,ढाकना,Standard
+12-240-702-1,hind1269,Hindi  ,1156,kʰoln̪aː,Phonemic,open,saxena702,,खोलना,Standard
+12-232-702-1,hind1269,Hindi  ,1119,baːn̪ʈan̪aː,Phonemic,divide,saxena702,,बांटना,Standard
+12-230-702-1,hind1269,Hindi  ,1359,alag karan̪aː,Phonemic,separate,saxena702,,अलग करना,Standard
+12-220-702-1,hind1269,Hindi  ,1743,dʒoɽan̪aː,Phonemic,"join, unite",saxena702,,जोड़ना,Standard
+12-213-702-1,hind1269,Hindi  ,1576,ɖʱer lagaːn̪aː,Phonemic,pile up,saxena702,,"ढेर लगाना, इकट्ठा करना",Standard
+12-213-702-3,hind1269,Hindi  ,1576,ikaʈʈʰaː karan̪aː,Phonemic,pile up,saxena702,,"ढेर लगाना, इकट्ठा करना",Standard
+12-212-702-1,hind1269,Hindi  ,371,uʈʰaːn̪a,Phonemic,pick up,saxena702,,उठाना,Standard
+12-210-702-1,hind1269,Hindi  ,7,baʈorn̪aː,Phonemic,"collect, gather",saxena702,,"बटोरना, इकट्ठा करना",Standard
+12-210-702-3,hind1269,Hindi  ,7,ikaʈʈʰaː karan̪aː,Phonemic,"collect, gather",saxena702,,"बटोरना, इकट्ठा करना",Standard
+12-170-702-1,hind1269,Hindi  ,838,avaɕeʂ,Phonemic,"remains, left overs",saxena702,,अवशेष,Standard
+12-160-702-1,hind1269,Hindi  ,987,rahn̪aː,Phonemic,"remain, stay",saxena702,,रहना,Standard
+12-150-702-1,hind1269,Hindi  ,1442,kʰaɽaː hon̪aː,Phonemic,stand,saxena702,,खड़ा होना,Standard
+12-140-702-1,hind1269,Hindi  ,215,leʈan̪aː,Phonemic,lie down,saxena702,,लेटना,Standard
+12-130-702-1,hind1269,Hindi  ,1416,bɛʈʰan̪aː,Phonemic,sit,saxena702,,बैठना,Standard
+12-120-702-1,hind1269,Hindi  ,998,rakʰn̪aː,Phonemic,put,saxena702,,रखना,Standard
+12-110-702-1,hind1269,Hindi  ,723,dʒagah,Phonemic,place,saxena702,,जगह,Standard
+12-80-702-1,hind1269,Hindi  ,1591,uːpar,Phonemic,"up, above",saxena702,,ऊपर,Standard
+12-70-702-1,hind1269,Hindi  ,1485,n̪iːtʃe,Phonemic,under,saxena702,,नीचे,Standard
+12-60-702-1,hind1269,Hindi  ,762,baːhar,Phonemic,outside,saxena702,,बाहर,Standard
+12-50-702-1,hind1269,Hindi  ,1606,an̪d̪ar,Phonemic,"inside, in",saxena702,,अंदर,Standard
+12-41-702-1,hind1269,Hindi  ,1883,saːman̪e,Phonemic,front,saxena702,,सामने,Standard
+12-40-702-1,hind1269,Hindi  ,1882,pahale,Phonemic,before,saxena702,,पहले,Standard
+12-30-702-1,hind1269,Hindi  ,2094,n̪iːtʃe,Phonemic,"down, below",saxena702,,नीचे,Standard
+12-20-702-1,hind1269,Hindi  ,1816,ke saːt̪ʰ,Phonemic,beside,saxena702,,के साथ,Standard
+12-11-702-1,hind1269,Hindi  ,1686,piːtʃʰe,Phonemic,behind,saxena702,,पीछे,Standard
+12-10-702-1,hind1269,Hindi  ,1685,baːd̪,Phonemic,after,saxena702,,"बाद, पीछे",Standard
+12-10-702-3,hind1269,Hindi  ,1685,piːtʃʰe,Phonemic,after,saxena702,,"बाद, पीछे",Standard
+11-920-702-1,hind1269,Hindi  ,1098,t̪olan̪aː,Phonemic,weigh,saxena702,,तोलना,Standard
+11-910-702-1,hind1269,Hindi  ,884,baːʈan̪aː,Phonemic,share (distribute),saxena702,,बाटना,Standard
+11-890-702-1,hind1269,Hindi  ,1887,sast̪aː,Phonemic,cheap,saxena702,,सस्ता,Standard
+11-880-702-1,hind1269,Hindi  ,1426,mahaŋgaː,Phonemic,"dear (costly, expensive)",saxena702,,महंगा,Standard
+11-870-702-1,hind1269,Hindi  ,657,d̪aːm,Phonemic,price,saxena702,,दाम,Standard
+11-860-702-1,hind1269,Hindi  ,752,d̪uːkaːn̪,Phonemic,"store, shop",saxena702,,दूकान,Standard
+11-850-702-1,hind1269,Hindi  ,633,baːdʒaːr,Phonemic,market (place),saxena702,,"बाजार, मंडी",Standard
+11-850-702-3,hind1269,Hindi  ,633,man̪ɖiː,Phonemic,market (place),saxena702,,"बाजार, मंडी",Standard
+11-840-702-1,hind1269,Hindi  ,1082,vjaːpaːriː,Phonemic,merchant,saxena702,,व्यापारी,Standard
+11-830-702-1,hind1269,Hindi  ,2135,vjaːpaːr karan̪aː,Phonemic,"trade, barter",saxena702,,व्यापार करना,Standard
+11-820-702-1,hind1269,Hindi  ,1571,betʃan̪aː,Phonemic,sell,saxena702,,बेचना,Standard
+11-810-702-1,hind1269,Hindi  ,1869,kʰariːd̪n̪aː,Phonemic,buy,saxena702,,खरीदना,Standard
+11-790-702-1,hind1269,Hindi  ,733,kamaːn̪aː,Phonemic,earn,saxena702,,कमाना,Standard
+11-780-702-1,hind1269,Hindi  ,1122,pagaːr,Phonemic,wages,saxena702,,पगार,Standard
+11-770-702-1,hind1269,Hindi  ,856,ud̪ʱaːr len̪aː,Phonemic,hire,saxena702,,"उधार लेना, किराये पर लेना",Standard
+11-770-702-3,hind1269,Hindi  ,856,kiraːje per len̪aː,Phonemic,hire,saxena702,,"उधार लेना, किराये पर लेना",Standard
+11-690-702-1,hind1269,Hindi  ,873,kar,Phonemic,"tax, tribute",saxena702,,कर,Standard
+11-660-702-1,hind1269,Hindi  ,1081,rasiːd̪,Phonemic,"account, reckoning",saxena702,,रसीद,Standard
+11-650-702-1,hind1269,Hindi  ,718,tʃukaːn̪aː,Phonemic,pay (vb),saxena702,,चुकाना,Standard
+11-640-702-1,hind1269,Hindi  ,1914,ud̪ʱaːr,Phonemic,debt,saxena702,,उधार,Standard
+11-630-702-1,hind1269,Hindi  ,369,riɳ leːn̪aː,Phonemic,owe,saxena702,,ऋण लेना,Standard
+11-620-702-1,hind1269,Hindi  ,1823,ud̪ʱaːr leːn̪aː,Phonemic,borrow,saxena702,,उधार लेना,Standard
+11-610-702-1,hind1269,Hindi  ,582,ud̪ʱaːr d̪en̪aː,Phonemic,lend,saxena702,,उधार देना,Standard
+11-540-702-1,hind1269,Hindi  ,1774,kan̪dʒuːs,Phonemic,"avaricious, stingy",saxena702,,कंजूस,Standard
+11-530-702-1,hind1269,Hindi  ,1934,bʱikʂu,Phonemic,beggar,saxena702,,"भिक्षु, भिखारी, फकीर",Standard
+11-530-702-3,hind1269,Hindi  ,1934,bʱikʰaːriː,Phonemic,beggar,saxena702,,"भिक्षु, भिखारी, फकीर",Standard
+11-530-702-5,hind1269,Hindi  ,1934,fakiːr,Phonemic,beggar,saxena702,,"भिक्षु, भिखारी, फकीर",Standard
+11-520-702-1,hind1269,Hindi  ,1674,gariːb,Phonemic,poor,saxena702,,ग़रीब,Standard
+11-510-702-1,hind1269,Hindi  ,712,amiːr,Phonemic,rich,saxena702,,अमीर,Standard
+11-440-702-1,hind1269,Hindi  ,1867,sikkaː,Phonemic,coin,saxena702,,सिक्का,Standard
+11-430-702-1,hind1269,Hindi  ,1559,pɛsaː,Phonemic,money,saxena702,,पैसा,Standard
+11-340-702-1,hind1269,Hindi  ,1095,dʒaːn̪eː d̪en̪aː,Phonemic,"release, let go",saxena702,,जाने देना,Standard
+11-330-702-1,hind1269,Hindi  ,1660,gum hon̪aː,Phonemic,lose,saxena702,,गुम होना,Standard
+11-320-702-1,hind1269,Hindi  ,719,milan̪aː,Phonemic,find,saxena702,,मिलना,Standard
+11-310-702-1,hind1269,Hindi  ,1468,ɽʱuːn̪ɽʱan̪aː,Phonemic,"seek, look for",saxena702,,"ढूँढना, खोजना",Standard
+11-310-702-3,hind1269,Hindi  ,1468,kʰodʒn̪aː,Phonemic,"seek, look for",saxena702,,"ढूँढना, खोजना",Standard
+11-280-702-1,hind1269,Hindi  ,44,tʃoʈ lagan̪aː,Phonemic,"harm, injure, damage",saxena702,,चोट लगना,Standard
+11-270-702-1,hind1269,Hindi  ,681,kʰat̪am karn̪aː,Phonemic,destroy,saxena702,,"ख़तम करना, उजाड़ना",Standard
+11-270-702-3,hind1269,Hindi  ,681,udʒaːɽn̪aː,Phonemic,destroy,saxena702,,"ख़तम करना, उजाड़ना",Standard
+11-250-702-1,hind1269,Hindi  ,2008,batʃaːn̪aː,Phonemic,"save, rescue",saxena702,,बचाना,Standard
+11-240-702-1,hind1269,Hindi  ,1997,batʃaːn̪aː,Phonemic,"preserve, look after",saxena702,,"बचाना, बनाये रखना",Standard
+11-240-702-3,hind1269,Hindi  ,1997,ban̪aːje rakʰan̪aː,Phonemic,"preserve, look after",saxena702,,"बचाना, बनाये रखना",Standard
+11-220-702-1,hind1269,Hindi  ,85,vaːpis d̪en̪aː,Phonemic,give back,saxena702,,"वापिस देना, वापिस करना, वापिस लेना",Standard
+11-220-702-3,hind1269,Hindi  ,85,vaːpis karn̪aː,Phonemic,give back,saxena702,,"वापिस देना, वापिस करना, वापिस लेना",Standard
+11-220-702-5,hind1269,Hindi  ,85,vaːpis len̪aː,Phonemic,give back,saxena702,,"वापिस देना, वापिस करना, वापिस लेना",Standard
+11-210-702-1,hind1269,Hindi  ,1447,d̪en̪aː,Phonemic,give,saxena702,,देना,Standard
+11-180-702-1,hind1269,Hindi  ,738,ʧiːdʒ,Phonemic,thing,saxena702,,चीज,Standard
+11-170-702-1,hind1269,Hindi  ,1477,rakʰn̪aː,Phonemic,"keep, retain",saxena702,,रखना,Standard
+11-160-702-1,hind1269,Hindi  ,694,milan̪aː,Phonemic,"get, obtain",saxena702,,मिलना,Standard
+11-150-702-1,hind1269,Hindi  ,1448,pakaɽan̪aː,Phonemic,hold,saxena702,,पकड़ना,Standard
+11-140-702-1,hind1269,Hindi  ,2021,dʒakʰaɽan̪aː,Phonemic,"seize, grasp",saxena702,,"जखड़ना, पकड़ना",Standard
+11-140-702-3,hind1269,Hindi  ,2021,pakaɽan̪aː,Phonemic,"seize, grasp",saxena702,,"जखड़ना, पकड़ना",Standard
+11-130-702-1,hind1269,Hindi  ,1749,len̪aː,Phonemic,take,saxena702,,लेना,Standard
+11-120-702-1,hind1269,Hindi  ,684,maːlik hon̪aː,Phonemic,"own, possess",saxena702,,मालिक होना,Standard
+11-110-702-1,hind1269,Hindi  ,773,hon̪aː,Phonemic,have,saxena702,,होना,Standard
+10-920-702-1,hind1269,Hindi  ,1922,ut̪aran̪aː,Phonemic,land (vb),saxena702,,उतरना,Standard
+10-910-702-1,hind1269,Hindi  ,610,ban̪d̪argaːh,Phonemic,"harbor, port",saxena702,,बंदरगाह,Standard
+10-890-702-1,hind1269,Hindi  ,1870,laŋgar,Phonemic,anchor,saxena702,,लंगर,Standard
+10-880-702-1,hind1269,Hindi  ,786,paːl,Phonemic,sail (noun),saxena702,,पाल,Standard
+10-870-702-1,hind1269,Hindi  ,184,mast̪uːl,Phonemic,mast,saxena702,,मस्तूल,Standard
+10-860-702-1,hind1269,Hindi  ,108,pat̪avaːr,Phonemic,rudder,saxena702,,पतवार,Standard
+10-852-702-1,hind1269,Hindi  ,1849,kʰen̪aː,Phonemic,row (vb),saxena702,,खेना,Standard
+10-851-702-1,hind1269,Hindi  ,234,pat̪avaːr,Phonemic,paddle (noun),saxena702,,पतवार,Standard
+10-850-702-1,hind1269,Hindi  ,108,tʃappuː,Phonemic,oar,saxena702,,चप्पू,Standard
+10-840-702-1,hind1269,Hindi  ,1664,beɽaː,Phonemic,raft,saxena702,,बेड़ा,Standard
+10-832-702-1,hind1269,Hindi  ,416,nw,Phonemic,outrigger,saxena702,,nw,Standard
+10-831-702-1,hind1269,Hindi  ,1970,ɖoŋgaː,Phonemic,canoe,saxena702,,डोंगा,Standard
+10-830-702-1,hind1269,Hindi  ,1844,n̪aːv,Phonemic,boat,saxena702,,नाव,Standard
+10-810-702-1,hind1269,Hindi  ,740,dʒahaːdʒ,Phonemic,ship,saxena702,,जहाज,Standard
+10-780-702-1,hind1269,Hindi  ,14,dʒuʈan̪aː,Phonemic,yoke,saxena702,,जुटना,Standard
+10-770-702-1,hind1269,Hindi  ,1769,d̪ʱuraː,Phonemic,axle,saxena702,,धुरा,Standard
+10-760-702-1,hind1269,Hindi  ,710,pahijaː,Phonemic,wheel,saxena702,,"पहिया, चक्कर",Standard
+10-760-702-3,hind1269,Hindi  ,710,tʃakkar,Phonemic,wheel,saxena702,,"पहिया, चक्कर",Standard
+10-750-702-1,hind1269,Hindi  ,122,gaːɽiː,Phonemic,"carriage, wagon, cart",saxena702,,"गाड़ी, ठेला",Standard
+10-750-702-3,hind1269,Hindi  ,122,ʈʰelaː,Phonemic,"carriage, wagon, cart",saxena702,,"गाड़ी, ठेला",Standard
+10-740-702-1,hind1269,Hindi  ,1011,pul,Phonemic,bridge,saxena702,,पुल,Standard
+10-720-702-1,hind1269,Hindi  ,2252,pat̪ʰ,Phonemic,path,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-720-702-3,hind1269,Hindi  ,2252,marg,Phonemic,path,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-720-702-5,hind1269,Hindi  ,2252,raːst̪aː,Phonemic,path,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-710-702-1,hind1269,Hindi  ,667,pat̪ʰ,Phonemic,road,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-710-702-3,hind1269,Hindi  ,667,marg,Phonemic,road,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-710-702-5,hind1269,Hindi  ,667,raːst̪aː,Phonemic,road,saxena702,,"पथ, मार्ग, रस्ता",Standard
+10-670-702-1,hind1269,Hindi  ,1452,d̪ʱakkaː d̪en̪aː,Phonemic,"push, shove",saxena702,,धक्का देना,Standard
+10-660-702-1,hind1269,Hindi  ,367,savaːriː karan̪aː,Phonemic,ride,saxena702,,सवारी करना,Standard
+10-650-702-1,hind1269,Hindi  ,741,tʃalaːn̪aː,Phonemic,drive,saxena702,,चलाना,Standard
+10-640-702-1,hind1269,Hindi  ,43,n̪et̪rat̪va karan̪aː,Phonemic,lead (vb),saxena702,,नेतृत्व करना,Standard
+10-630-702-1,hind1269,Hindi  ,1127,bʱedʒn̪aː,Phonemic,send,saxena702,,भेजना,Standard
+10-620-702-1,hind1269,Hindi  ,692,laːn̪aː,Phonemic,bring,saxena702,,लाना,Standard
+10-615-702-1,hind1269,Hindi  ,415,baːdʒuː ke n̪iːtʃe uʈʰaːn̪aː,Phonemic,carry-underarm,saxena702,,बाजू के नीचे उठाना,Standard
+10-614-702-1,hind1269,Hindi  ,414,sir par uʈʰaːn̪aː,Phonemic,carry-on-head,saxena702,,सिर पर उठाना,Standard
+10-613-702-1,hind1269,Hindi  ,413,kand̪ʱe par uʈʰaːn̪aː,Phonemic,carry-on-shoulder,saxena702,,कंधे पर उठाना,Standard
+10-612-702-1,hind1269,Hindi  ,412,haːt̪ʰ se uʈʰaːn̪aː,Phonemic,carry-in-hand,saxena702,,हाथ से उठाना,Standard
+10-610-702-1,hind1269,Hindi  ,700,uʈʰaːn̪aː,Phonemic,carry (bear),saxena702,,उठाना,Standard
+10-570-702-1,hind1269,Hindi  ,749,gʱusn̪aː,Phonemic,enter,saxena702,,घुसना,Standard
+10-560-702-1,hind1269,Hindi  ,1778,pahun̪tʃan̪aː,Phonemic,approach,saxena702,,पहुंचना,Standard
+10-550-702-1,hind1269,Hindi  ,1387,pahun̪tʃan̪aː,Phonemic,"reach, arrive",saxena702,,पहुंचना,Standard
+10-530-702-1,hind1269,Hindi  ,1047,piːtʃʰaː karn̪aː,Phonemic,pursue,saxena702,,पीछा करना,Standard
+10-520-702-1,hind1269,Hindi  ,1085,piːtʃʰaː karn̪aː,Phonemic,follow,saxena702,,पीछा करना,Standard
+10-510-702-1,hind1269,Hindi  ,956,bʱaːg dʒaːn̪aː,Phonemic,flee,saxena702,,भाग जाना,Standard
+10-491-702-1,hind1269,Hindi  ,485,g̣aːjab hon̪aː,Phonemic,disappear,saxena702,,ग़ायब होना,Standard
+10-490-702-1,hind1269,Hindi  ,1752,tʃʰoɽan̪aː,Phonemic,"go away, depart",saxena702,,छोड़ना,Standard
+10-481-702-1,hind1269,Hindi  ,581,vaːpis aːn̪aː,Phonemic,come back,saxena702,,वापिस आना,Standard
+10-480-702-1,hind1269,Hindi  ,1446,aːn̪aː,Phonemic,come,saxena702,,आना,Standard
+10-474-702-1,hind1269,Hindi  ,1107,baːhar dʒaːn̪aː,Phonemic,go out,saxena702,,बाहर जाना,Standard
+10-473-702-1,hind1269,Hindi  ,2014,n̪iːtʃe dʒaːn̪aː,Phonemic,go down,saxena702,,"नीचे जाना, उतरना",Standard
+10-473-702-3,hind1269,Hindi  ,2014,ut̪aran̪aː,Phonemic,go down,saxena702,,"नीचे जाना, उतरना",Standard
+10-472-702-1,hind1269,Hindi  ,1102,tʃaɽʱan̪aː,Phonemic,climb,saxena702,,चढना,Standard
+10-470-702-1,hind1269,Hindi  ,695,dʒaːn̪aː,Phonemic,go,saxena702,,जाना,Standard
+10-471-702-1,hind1269,Hindi  ,705,uːpar dʒaːn̪aː,Phonemic,go up,saxena702,,ऊपर जाना,Standard
+10-460-702-1,hind1269,Hindi  ,1519,d̪ɔɽan̪aː,Phonemic,run,saxena702,,दौड़ना,Standard
+10-451-702-1,hind1269,Hindi  ,366,laŋgaɽaːn̪aː,Phonemic,limp,saxena702,,लंगड़ाना,Standard
+10-450-702-1,hind1269,Hindi  ,1443,tʃalan̪aː,Phonemic,walk,saxena702,,चलना,Standard
+10-440-702-1,hind1269,Hindi  ,1879,n̪aːtʃan̪aː,Phonemic,dance,saxena702,,नाचना,Standard
+10-431-702-1,hind1269,Hindi  ,1135,ʈʰukaraːn̪aː,Phonemic,kick,saxena702,,ठुकराना,Standard
+10-430-702-1,hind1269,Hindi  ,1829,kuːd̪an̪aː,Phonemic,"jump, leap",saxena702,,"कूदना, उछलना",Standard
+10-430-702-3,hind1269,Hindi  ,1829,utʃʰalan̪aː,Phonemic,"jump, leap",saxena702,,"कूदना, उछलना",Standard
+10-420-702-1,hind1269,Hindi  ,1324,pʰisalan̪aː,Phonemic,"slide, slip",saxena702,,"फिसलना, सरकना",Standard
+10-420-702-3,hind1269,Hindi  ,1324,sarakan̪aː,Phonemic,"slide, slip",saxena702,,"फिसलना, सरकना",Standard
+10-413-702-1,hind1269,Hindi  ,296,d̪ubakn̪aː,Phonemic,crouch,saxena702,,दुबकना,Standard
+10-412-702-1,hind1269,Hindi  ,66,gʱuʈn̪e ʈekan̪aː,Phonemic,kneel,saxena702,,घुटने टेकना,Standard
+10-410-702-1,hind1269,Hindi  ,96,sarakan̪aː,Phonemic,"creep, crawl",saxena702,,सरकना,Standard
+10-380-702-1,hind1269,Hindi  ,175,tʃalan̪aː,Phonemic,blow,saxena702,,चलना,Standard
+10-370-702-1,hind1269,Hindi  ,1441,uɽan̪aː,Phonemic,fly (vb),saxena702,,उड़ना,Standard
+10-360-702-1,hind1269,Hindi  ,787,dʒaljaːt̪raː karn̪aː,Phonemic,sail (vb),saxena702,,जलयात्रा करना,Standard
+10-352-702-1,hind1269,Hindi  ,365,tʃʰaptʃʰapaːn̪aː,Phonemic,splash,saxena702,,छपछपाना,Standard
+10-351-702-1,hind1269,Hindi  ,119,g̣ot̪aː lagaːn̪aː,Phonemic,dive,saxena702,,गोता लगाना,Standard
+10-350-702-1,hind1269,Hindi  ,1439,t̪ɛran̪aː,Phonemic,swim,saxena702,,तैरना,Standard
+10-340-702-1,hind1269,Hindi  ,1574,t̪ɛran̪aː,Phonemic,float,saxena702,,तैरना,Standard
+10-330-702-1,hind1269,Hindi  ,1088,ɖuːban̪aː,Phonemic,sink,saxena702,,डूबना,Standard
+10-320-702-1,hind1269,Hindi  ,2003,behan̪aː,Phonemic,flow,saxena702,,बहना,Standard
+10-260-702-1,hind1269,Hindi  ,1909,hilaːn̪aː,Phonemic,shake,saxena702,,हिलाना,Standard
+10-252-702-1,hind1269,Hindi  ,702,pakaɽan̪aː,Phonemic,catch (ball),saxena702,,पकड़ना,Standard
+10-250-702-1,hind1269,Hindi  ,1456,pʰeŋkan̪aː,Phonemic,throw,saxena702,,फेंकना,Standard
+10-240-702-1,hind1269,Hindi  ,2253,ʈapakan̪aː,Phonemic,drip,saxena702,,टपकना,Standard
+10-230-702-1,hind1269,Hindi  ,1280,giran̪aː,Phonemic,fall,saxena702,,गिरना,Standard
+10-220-702-1,hind1269,Hindi  ,501,uʈʰaːn̪aː,Phonemic,"raise, lift",saxena702,,उठाना,Standard
+10-210-702-1,hind1269,Hindi  ,568,n̪ikaln̪aː,Phonemic,rise,saxena702,,"निकलना, उठना",Standard
+10-210-702-3,hind1269,Hindi  ,568,uʈʰan̪aː,Phonemic,rise,saxena702,,"निकलना, उठना",Standard
+10-170-702-1,hind1269,Hindi  ,430,moɖan̪aː,Phonemic,twist,saxena702,,मोड़ना,Standard
+10-160-702-1,hind1269,Hindi  ,808,ʈapakan̪aː,Phonemic,drop (vb),saxena702,,टपकना,Standard
+10-150-702-1,hind1269,Hindi  ,827,ʈʰarakn̪aː,Phonemic,roll,saxena702,,ढरकना,Standard
+10-140-702-1,hind1269,Hindi  ,1113,lapeʈan̪aː,Phonemic,"wind, wrap",saxena702,,लपेटना,Standard
+10-130-702-1,hind1269,Hindi  ,1445,ulaʈan̪aː,Phonemic,turn around,saxena702,,उलटना,Standard
+10-120-702-1,hind1269,Hindi  ,1588,ulaʈan̪aː,Phonemic,turn over,saxena702,,उलटना,Standard
+10-110-702-1,hind1269,Hindi  ,765,hilaːn̪aː,Phonemic,move,saxena702,,हिलाना,Standard
+9-890-702-1,hind1269,Hindi  ,2001,raŋgan̪aː,Phonemic,paint (vb),saxena702,,रंगना,Standard
+9-840-702-1,hind1269,Hindi  ,1979,tʃʰen̪iː,Phonemic,chisel,saxena702,,छेनी,Standard
+9-880-702-1,hind1269,Hindi  ,647,raŋg,Phonemic,paint (noun),saxena702,,रंग,Standard
+9-830-702-1,hind1269,Hindi  ,1002,muːrt̪i,Phonemic,statue,saxena702,,मूर्ति,Standard
+9-820-702-1,hind1269,Hindi  ,914,muːrt̪ikaːr,Phonemic,sculptor,saxena702,,"मूर्तिकार, शिल्पकार",Standard
+9-820-702-3,hind1269,Hindi  ,914,ɕilpakaːr,Phonemic,sculptor,saxena702,,"मूर्तिकार, शिल्पकार",Standard
+9-810-702-1,hind1269,Hindi  ,228,t̪araːɕan̪aː,Phonemic,carve,saxena702,,तराशना,Standard
+9-791-702-1,hind1269,Hindi  ,360,paŋkʰaː karan̪aː,Phonemic,fan (vb),saxena702,,"पंखा करना, पंखा चलाना",Standard
+9-791-702-3,hind1269,Hindi  ,360,paŋkʰaː tʃalaːn̪aː,Phonemic,fan (vb),saxena702,,"पंखा करना, पंखा चलाना",Standard
+9-790-702-1,hind1269,Hindi  ,1971,paŋkʰaː,Phonemic,fan (noun),saxena702,,पंखा,Standard
+9-780-702-1,hind1269,Hindi  ,293,dʒaːliː,Phonemic,netbag,saxena702,,जाली,Standard
+9-771-702-1,hind1269,Hindi  ,292,kambal,Phonemic,rug,saxena702,,कंबल,Standard
+9-770-702-1,hind1269,Hindi  ,195,tʃaʈaːiː,Phonemic,mat,saxena702,,चटाई,Standard
+9-760-702-1,hind1269,Hindi  ,1539,ʈokariː,Phonemic,basket,saxena702,,टोकरी,Standard
+9-750-702-1,hind1269,Hindi  ,1729,bun̪an̪aː,Phonemic,"weave, plait",saxena702,,"बुनना, चोटी करना",Standard
+9-750-702-3,hind1269,Hindi  ,1729,tʃoʈiː karan̪aː,Phonemic,"weave, plait",saxena702,,"बुनना, चोटी करना",Standard
+9-740-702-1,hind1269,Hindi  ,604,ɕiːɕaː,Phonemic,glass,saxena702,,शीशा,Standard
+9-730-702-1,hind1269,Hindi  ,1399,miʈʈiː,Phonemic,clay,saxena702,,मिट्टी,Standard
+9-720-702-1,hind1269,Hindi  ,289,ɖʱaːlan̪aː,Phonemic,mold (clay etc),saxena702,,ढालना,Standard
+9-710-702-1,hind1269,Hindi  ,359,kumhaːr,Phonemic,potter,saxena702,,कुम्हार,Standard
+9-690-702-1,hind1269,Hindi  ,358,kalaiː,Phonemic,"tin, tinplate",saxena702,,कलई,Standard
+9-680-702-1,hind1269,Hindi  ,627,siːsaː,Phonemic,lead (noun),saxena702,,सीसा,Standard
+9-670-702-1,hind1269,Hindi  ,621,lohaː,Phonemic,iron,saxena702,,लोहा,Standard
+9-660-702-1,hind1269,Hindi  ,1825,t̪aːmbaː,Phonemic,"copper, bronze",saxena702,,तांबा,Standard
+9-650-702-1,hind1269,Hindi  ,759,tʃaːn̪d̪iː,Phonemic,silver,saxena702,,चांदी,Standard
+9-640-702-1,hind1269,Hindi  ,1369,son̪aː,Phonemic,gold,saxena702,,सोना,Standard
+9-630-702-1,hind1269,Hindi  ,211,ɖʱaːlan̪a,Phonemic,cast (metals),saxena702,,ढालना,Standard
+9-620-702-1,hind1269,Hindi  ,1648,n̪ihaːiː,Phonemic,anvil,saxena702,,निहाई,Standard
+9-610-702-1,hind1269,Hindi  ,288,gaːɽʱn̪aː,Phonemic,forge,saxena702,,गाढना,Standard
+9-600-702-1,hind1269,Hindi  ,1001,luhaːr,Phonemic,"smith, blacksmith",saxena702,,लुहार,Standard
+9-560-702-1,hind1269,Hindi  ,1069,gon̪d̪ʱ,Phonemic,glue,saxena702,,गोंध,Standard
+9-500-702-1,hind1269,Hindi  ,502,kiːl,Phonemic,nail,saxena702,,कील,Standard
+9-490-702-1,hind1269,Hindi  ,1481,hat̪ʰɔɽaː,Phonemic,hammer,saxena702,,हथौड़ा,Standard
+9-480-702-1,hind1269,Hindi  ,1948,aːraː,Phonemic,saw,saxena702,,आरा,Standard
+9-461-702-1,hind1269,Hindi  ,46,tʃʰed̪ karan̪aː,Phonemic,hollow out,saxena702,,छेद करना,Standard
+9-460-702-1,hind1269,Hindi  ,1501,ubaːn̪aː,Phonemic,bore,saxena702,,उबाना,Standard
+9-440-702-1,hind1269,Hindi  ,1840,ban̪aːn̪aː,Phonemic,build,saxena702,,बनाना,Standard
+9-430-702-1,hind1269,Hindi  ,1042,baɽʱaiː,Phonemic,carpenter,saxena702,,बढ़ई,Standard
+9-422-702-1,hind1269,Hindi  ,1361,ɕast̪ra,Phonemic,tool,saxena702,,शस्त्र,Standard
+9-380-702-1,hind1269,Hindi  ,245,dʒʱaːɽuː,Phonemic,broom,saxena702,,झाड़ू,Standard
+9-360-702-1,hind1269,Hindi  ,1453,d̪ʱon̪aː,Phonemic,wash,saxena702,,धोना,Standard
+9-370-702-1,hind1269,Hindi  ,230,dʒʱaːɽan̪aː,Phonemic,sweep,saxena702,,झाड़ना,Standard
+9-350-702-1,hind1269,Hindi  ,1487,uɽeln̪aː,Phonemic,pour,saxena702,,उड़ेलना,Standard
+9-343-702-1,hind1269,Hindi  ,1414,n̪itʃoɽan̪aː,Phonemic,"squeeze, wring",saxena702,,निचोड़ना,Standard
+9-342-702-1,hind1269,Hindi  ,1913,d̪abaːn̪aː,Phonemic,press,saxena702,,दबाना,Standard
+9-341-702-1,hind1269,Hindi  ,357,ʈaːŋgan̪aː,Phonemic,hang up,saxena702,,टांगना,Standard
+9-340-702-1,hind1269,Hindi  ,38,pʰɛlaːn̪aː,Phonemic,spread out,saxena702,,फैलाना,Standard
+9-330-702-1,hind1269,Hindi  ,1455,kʰiːn̪tʃan̪aː,Phonemic,pull,saxena702,,खींचना,Standard
+9-320-702-1,hind1269,Hindi  ,214,kʰiːn̪tʃan̪aː,Phonemic,stretch,saxena702,,"खींचना, तानना",Standard
+9-320-702-3,hind1269,Hindi  ,214,t̪aːn̪an̪aː,Phonemic,stretch,saxena702,,"खींचना, तानना",Standard
+9-310-702-1,hind1269,Hindi  ,1449,gʱisan̪aː,Phonemic,"rub, wipe",saxena702,,"घिसना, मलना",Standard
+9-310-702-3,hind1269,Hindi  ,1449,malan̪aː,Phonemic,"rub, wipe",saxena702,,"घिसना, मलना",Standard
+9-290-702-1,hind1269,Hindi  ,291,kʰaːl ut̪aːran̪aː,Phonemic,"flay, skin",saxena702,,खाल उतारना,Standard
+9-280-702-1,hind1269,Hindi  ,1735,pʰaːɽn̪aː,Phonemic,tear,saxena702,,फाड़ना,Standard
+9-270-702-1,hind1269,Hindi  ,1437,pʰaːɽan̪aː,Phonemic,split,saxena702,,"फाड़ना, चीरना",Standard
+9-270-702-3,hind1269,Hindi  ,1437,tʃiːran̪aː,Phonemic,split,saxena702,,"फाड़ना, चीरना",Standard
+9-261-702-1,hind1269,Hindi  ,588,pʰuːʈaː huaː,Phonemic,broken,saxena702,,"फूटा हुआ, तूटा हुआ",Standard
+9-261-702-3,hind1269,Hindi  ,588,t̪uʈaː huaː,Phonemic,broken,saxena702,,"फूटा हुआ, तूटा हुआ",Standard
+9-260-702-1,hind1269,Hindi  ,680,t̪oɽan̪aː,Phonemic,break,saxena702,,तोड़ना,Standard
+9-250-702-1,hind1269,Hindi  ,677,kulhaːɽaː,Phonemic,ax,saxena702,,कुल्हाड़ा,Standard
+9-251-702-1,hind1269,Hindi  ,290,basuːlaː,Phonemic,adze,saxena702,,बसूला,Standard
+9-240-702-1,hind1269,Hindi  ,356,kɛn̪tʃiː,Phonemic,"scissors, shears",saxena702,,क़ैंची,Standard
+9-230-702-1,hind1269,Hindi  ,1352,tʃaːkuː,Phonemic,knife,saxena702,,चाकू,Standard
+9-223-702-1,hind1269,Hindi  ,1434,bʱoŋkn̪aː,Phonemic,stab,saxena702,,भोंकना,Standard
+9-222-702-1,hind1269,Hindi  ,155,kaːʈan̪aː,Phonemic,"chop, hew",saxena702,,काटना,Standard
+9-221-702-1,hind1269,Hindi  ,355,kaːʈ ɖaːlan̪aː,Phonemic,cut down,saxena702,,काट डालना,Standard
+9-220-702-1,hind1269,Hindi  ,1432,kaːʈan̪aː,Phonemic,cut,saxena702,,काटना,Standard
+9-211-702-1,hind1269,Hindi  ,354,kuːʈan̪aː,Phonemic,pound with fist,saxena702,,कूटना,Standard
+9-210-702-1,hind1269,Hindi  ,2133,maːran̪aː,Phonemic,"strike (hit, beat)",saxena702,,"मारना, पीटना",Standard
+9-210-702-3,hind1269,Hindi  ,2133,piːʈan̪aː,Phonemic,"strike (hit, beat)",saxena702,,"मारना, पीटना",Standard
+9-192-702-1,hind1269,Hindi  ,760,gaːn̪ʈʰ,Phonemic,knot (noun),saxena702,,गांठ,Standard
+9-190-702-1,hind1269,Hindi  ,1218,rassiː,Phonemic,"rope, cord",saxena702,,रस्सी,Standard
+9-180-702-1,hind1269,Hindi  ,1627,dʒan̪dʒiːr,Phonemic,chain,saxena702,,जंज़ीर,Standard
+9-161-702-1,hind1269,Hindi  ,352,kʰolan̪aː,Phonemic,untie,saxena702,,खोलना,Standard
+9-160-702-1,hind1269,Hindi  ,1917,baːn̪d̪ʱan̪aː,Phonemic,"tie, bind",saxena702,,बांधना,Standard
+9-150-702-1,hind1269,Hindi  ,1470,t̪ah karan̪aː,Phonemic,fold,saxena702,,तह करना,Standard
+9-140-702-1,hind1269,Hindi  ,2004,dʒʱukaːn̪aː,Phonemic,bend,saxena702,,झुकाना,Standard
+9-120-702-1,hind1269,Hindi  ,984,kaːm,Phonemic,work,saxena702,,काम,Standard
+9-110-702-1,hind1269,Hindi  ,2575,karan̪aː,Phonemic,"do, make",saxena702,,करना,Standard
+8-980-702-1,hind1269,Hindi  ,641,kʰumbʱiː,Phonemic,mushroom,saxena702,,खुंभी,Standard
+8-970-702-1,hind1269,Hindi  ,33,bitʃtʃʰuː,Phonemic,nettle,saxena702,,"बिच्छू, बूटी",Standard
+8-970-702-3,hind1269,Hindi  ,33,buːʈiː,Phonemic,nettle,saxena702,,"बिच्छू, बूटी",Standard
+8-960-702-1,hind1269,Hindi  ,348,matʃʰli kaː dʒaher,Phonemic,fish poison (root),saxena702,,मछली का जहर,Standard
+8-941-702-1,hind1269,Hindi  ,146,gan̪n̪aː,Phonemic,sugar cane,saxena702,,गन्ना,Standard
+8-940-702-1,hind1269,Hindi  ,1927,baːn̪s,Phonemic,bamboo,saxena702,,बांस,Standard
+8-931-702-1,hind1269,Hindi  ,864,kad̪d̪uː,Phonemic,"pumpkin, squash",saxena702,,कद्दू,Standard
+8-930-702-1,hind1269,Hindi  ,411,kad̪d̪uː,Phonemic,gourd,saxena702,,कद्दू,Standard
+8-920-702-1,hind1269,Hindi  ,925,kasaːvaː,Phonemic,"tapioca, manioc, cassava",saxena702,,कसावा,Standard
+8-912-702-1,hind1269,Hindi  ,410,ɕakarkan̪d̪iː,Phonemic,yam,saxena702,,शकरकंदी,Standard
+8-910-702-1,hind1269,Hindi  ,159,ɕakarkan̪d̪iː,Phonemic,sweet potato,saxena702,,शकरकंदी,Standard
+8-850-702-1,hind1269,Hindi  ,346,piːpal,Phonemic,banyan,saxena702,,पीपल,Standard
+8-840-702-1,hind1269,Hindi  ,868,kelaː,Phonemic,banana tree,saxena702,,केला,Standard
+8-830-702-1,hind1269,Hindi  ,1126,n̪imbuː van̪ɕ,Phonemic,citrus fruit,saxena702,,निम्बू वंश,Standard
+8-820-702-1,hind1269,Hindi  ,970,n̪aːrijal,Phonemic,coconut,saxena702,,नारियल,Standard
+8-810-702-1,hind1269,Hindi  ,1181,t̪aːɽ,Phonemic,palm tree,saxena702,,ताड़,Standard
+8-760-702-1,hind1269,Hindi  ,345,ras,Phonemic,sap,saxena702,,रस,Standard
+8-750-702-1,hind1269,Hindi  ,1204,tʃʰaːl,Phonemic,bark,saxena702,,छाल,Standard
+8-730-702-1,hind1269,Hindi  ,344,ʈʰuːn̪ʈʰ,Phonemic,tree trunk,saxena702,,ठूँठ,Standard
+8-720-702-1,hind1269,Hindi  ,241,ʈʰuːn̪ʈʰ,Phonemic,tree stump,saxena702,,ठूँठ,Standard
+8-691-702-1,hind1269,Hindi  ,1124,n̪aliː,Phonemic,pipe,saxena702,,नली,Standard
+8-690-702-1,hind1269,Hindi  ,1689,tʃilam piːn̪aː,Phonemic,smoke (tobacco),saxena702,,"चीलम पीना, सीगरेट पीना",Standard
+8-690-702-3,hind1269,Hindi  ,1689,sigareʈ piːn̪aː,Phonemic,smoke (tobacco),saxena702,,"चीलम पीना, सीगरेट पीना",Standard
+8-680-702-1,hind1269,Hindi  ,974,t̪ambaːkuː,Phonemic,tobacco,saxena702,,तंबाकू,Standard
+8-670-702-1,hind1269,Hindi  ,343,bel,Phonemic,vine,saxena702,,"बेल, लता",Standard
+8-670-702-3,hind1269,Hindi  ,343,lat̪aː,Phonemic,vine,saxena702,,"बेल, लता",Standard
+8-660-702-1,hind1269,Hindi  ,968,ban̪dʒupʰal,Phonemic,acorn,saxena702,,बंजुफल,Standard
+8-650-702-1,hind1269,Hindi  ,1915,d̪evd̪aːr,Phonemic,fir,saxena702,,देवदार,Standard
+8-640-702-1,hind1269,Hindi  ,1740,tʃiːɽ,Phonemic,pine,saxena702,,चीड़,Standard
+8-630-702-1,hind1269,Hindi  ,1855,bʱodʒ,Phonemic,birch,saxena702,,भोज,Standard
+8-620-702-1,hind1269,Hindi  ,1950,biːtʃ,Phonemic,beech,saxena702,,बीच,Standard
+8-610-702-1,hind1269,Hindi  ,644,ɕaːhabaluːt̪,Phonemic,oak,saxena702,,शाहबलूत,Standard
+8-600-702-1,hind1269,Hindi  ,906,peɽ,Phonemic,tree,saxena702,,पेड़,Standard
+8-570-702-1,hind1269,Hindi  ,239,pʰuːl,Phonemic,flower,saxena702,,फूल,Standard
+8-560-702-1,hind1269,Hindi  ,628,pat̪t̪aː,Phonemic,leaf,saxena702,,पत्ता,Standard
+8-550-702-1,hind1269,Hindi  ,1531,ɖaːl,Phonemic,branch,saxena702,,डाल,Standard
+8-540-702-1,hind1269,Hindi  ,670,dʒaɽ,Phonemic,root,saxena702,,जड़,Standard
+8-531-702-1,hind1269,Hindi  ,1486,bon̪aː,Phonemic,plant (vb),saxena702,,बोना,Standard
+8-520-702-1,hind1269,Hindi  ,342,pʰuːs,Phonemic,hay,saxena702,,फूस,Standard
+8-530-702-1,hind1269,Hindi  ,653,pɔd̪ʱaː,Phonemic,plant (noun),saxena702,,पौधा,Standard
+8-510-702-1,hind1269,Hindi  ,606,gʱaːs,Phonemic,grass,saxena702,,घास,Standard
+8-480-702-1,hind1269,Hindi  ,926,tʃaːval,Phonemic,rice,saxena702,,चावल,Standard
+8-470-702-1,hind1269,Hindi  ,506,makaiː,Phonemic,"maize, corn",saxena702,,"मकई, मक्का",Standard
+8-470-702-3,hind1269,Hindi  ,506,makkaː,Phonemic,"maize, corn",saxena702,,"मकई, मक्का",Standard
+8-460-702-1,hind1269,Hindi  ,60,dʒaiː,Phonemic,oats,saxena702,,जई,Standard
+8-450-702-1,hind1269,Hindi  ,23,raːiː,Phonemic,rye,saxena702,,राई,Standard
+8-430-702-1,hind1269,Hindi  ,1077,gehuːn̪,Phonemic,wheat,saxena702,,गेहूं,Standard
+8-440-702-1,hind1269,Hindi  ,932,jɔː,Phonemic,barley,saxena702,,जौ,Standard
+8-420-702-1,hind1269,Hindi  ,605,an̪aːdʒ,Phonemic,"grain (barley, oats etc)",saxena702,,"अनाज, दाना",Standard
+8-420-702-3,hind1269,Hindi  ,605,d̪aːn̪aː,Phonemic,"grain (barley, oats etc)",saxena702,,"अनाज, दाना",Standard
+8-410-702-1,hind1269,Hindi  ,611,pʰasal,Phonemic,"crop, harvest",saxena702,,"फसल, उपज",Standard
+8-410-702-3,hind1269,Hindi  ,611,upadʒ,Phonemic,"crop, harvest",saxena702,,"फसल, उपज",Standard
+8-350-702-1,hind1269,Hindi  ,223,kʰalihaːn̪,Phonemic,threshing-floor,saxena702,,खलिहान,Standard
+8-340-702-1,hind1269,Hindi  ,285,gaːhan̪aː,Phonemic,thresh,saxena702,,गाहना,Standard
+8-330-702-1,hind1269,Hindi  ,2132,han̪sijaː,Phonemic,"sickle, scythe",saxena702,,हंसिया,Standard
+8-320-702-1,hind1269,Hindi  ,190,kaːʈan̪aː,Phonemic,"mow, reap",saxena702,,काटना,Standard
+8-311-702-1,hind1269,Hindi  ,714,biːdʒ,Phonemic,seed,saxena702,,बीज,Standard
+8-310-702-1,hind1269,Hindi  ,748,bon̪aː,Phonemic,sow,saxena702,,बोना,Standard
+8-270-702-1,hind1269,Hindi  ,338,patʃaraː,Phonemic,rake,saxena702,,पचरा,Standard
+8-260-702-1,hind1269,Hindi  ,337,kaːn̪ʈaː,Phonemic,fork,saxena702,,कांटा,Standard
+8-250-702-1,hind1269,Hindi  ,284,gor,Phonemic,hoe,saxena702,,गोर,Standard
+8-240-702-1,hind1269,Hindi  ,1901,belatʃaː,Phonemic,shovel,saxena702,,बेलचा,Standard
+8-230-702-1,hind1269,Hindi  ,1176,pʰaːvaɽaː,Phonemic,spade,saxena702,,फावड़ा,Standard
+8-212-702-1,hind1269,Hindi  ,1794,kun̪ɖ,Phonemic,furrow,saxena702,,कुंड,Standard
+8-220-702-1,hind1269,Hindi  ,1418,kʰod̪an̪aː,Phonemic,dig,saxena702,,खोदना,Standard
+8-210-702-1,hind1269,Hindi  ,1921,dʒot̪an̪aː,Phonemic,plow,saxena702,,जोतना,Standard
+8-170-702-1,hind1269,Hindi  ,2002,kʰaːiː,Phonemic,ditch,saxena702,,खाई,Standard
+8-160-702-1,hind1269,Hindi  ,1690,gʱeraː,Phonemic,fence,saxena702,,घेरा,Standard
+8-150-702-1,hind1269,Hindi  ,1541,ugaːn̪aː,Phonemic,"cultivate, till",saxena702,,उगाना,Standard
+8-130-702-1,hind1269,Hindi  ,586,bagiːtʃaː,Phonemic,garden,saxena702,,बगीचा,Standard
+8-120-702-1,hind1269,Hindi  ,212,kʰet̪,Phonemic,field (for cultivation),saxena702,,खेत,Standard
+8-110-702-1,hind1269,Hindi  ,979,kisaːn̪,Phonemic,farmer,saxena702,,किसान,Standard
+7-640-702-1,hind1269,Hindi  ,901,katʃtʃiː iːn̪ʈ,Phonemic,adobe,saxena702,,कच्ची ईंट,Standard
+7-630-702-1,hind1269,Hindi  ,224,kʰall,Phonemic,mortar,saxena702,,खल्ल,Standard
+7-620-702-1,hind1269,Hindi  ,1006,iːn̪ʈ,Phonemic,brick,saxena702,,ईंट,Standard
+7-580-702-1,hind1269,Hindi  ,876,d̪ʱan̪uɕja,Phonemic,arch,saxena702,,धनुश्य,Standard
+7-610-702-1,hind1269,Hindi  ,877,memaːr,Phonemic,mason,saxena702,,"मेमार, राजगीर",Standard
+7-610-702-3,hind1269,Hindi  ,877,raːdʒagiːr,Phonemic,mason,saxena702,,"मेमार, राजगीर",Standard
+7-570-702-1,hind1269,Hindi  ,1227,t̪akʰt̪aː,Phonemic,board,saxena702,,तख्ता,Standard
+7-560-702-1,hind1269,Hindi  ,281,kʰambʱaː,Phonemic,"post, pole",saxena702,,खंभा,Standard
+7-550-702-1,hind1269,Hindi  ,1132,kiraː,Phonemic,beam,saxena702,,किरा,Standard
+7-540-702-1,hind1269,Hindi  ,829,kaɽʱiː,Phonemic,rafter,saxena702,,कढ़ी,Standard
+7-530-702-1,hind1269,Hindi  ,280,ɕahat̪iːr,Phonemic,ridgepole,saxena702,,शहतीर,Standard
+7-520-702-1,hind1269,Hindi  ,279,tʃʰappar,Phonemic,thatch,saxena702,,छप्पर,Standard
+7-510-702-1,hind1269,Hindi  ,769,tʃʰappar,Phonemic,roof,saxena702,,"छप्पर, छत",Standard
+7-510-702-3,hind1269,Hindi  ,769,tʃʰat̪,Phonemic,roof,saxena702,,"छप्पर, छत",Standard
+7-480-702-1,hind1269,Hindi  ,205,gart̪a,Phonemic,trough,saxena702,,"गर्त, कुंडा",Standard
+7-480-702-3,hind1269,Hindi  ,205,kun̪ɖaː,Phonemic,trough,saxena702,,"गर्त, कुंडा",Standard
+7-470-702-1,hind1269,Hindi  ,745,kʰaːn̪aː,Phonemic,shelf,saxena702,,खाना,Standard
+7-460-702-1,hind1269,Hindi  ,1273,mombat̪t̪iː,Phonemic,candle,saxena702,,मोमबत्ती,Standard
+7-450-702-1,hind1269,Hindi  ,2131,d̪iːpak,Phonemic,"lamp, torch",saxena702,,"दीपक, दिया, चिराग",Standard
+7-450-702-3,hind1269,Hindi  ,2131,d̪ijaː,Phonemic,"lamp, torch",saxena702,,"दीपक, दिया, चिराग",Standard
+7-450-702-5,hind1269,Hindi  ,2131,tʃiraːg̣,Phonemic,"lamp, torch",saxena702,,"दीपक, दिया, चिराग",Standard
+7-440-702-1,hind1269,Hindi  ,1775,medʒ,Phonemic,table,saxena702,,मेज,Standard
+7-430-702-1,hind1269,Hindi  ,1476,kurasiː,Phonemic,chair,saxena702,,कुरसी,Standard
+7-422-702-1,hind1269,Hindi  ,806,kambal,Phonemic,blanket,saxena702,,कंबल,Standard
+7-421-702-1,hind1269,Hindi  ,1044,t̪akijaː,Phonemic,pillow,saxena702,,तकिया,Standard
+7-420-702-1,hind1269,Hindi  ,1663,palaŋg,Phonemic,bed,saxena702,,पलंग,Standard
+7-370-702-1,hind1269,Hindi  ,1464,siːɽʱiː,Phonemic,ladder,saxena702,,सीढ़ी,Standard
+7-330-702-1,hind1269,Hindi  ,1305,tʃiman̪iː,Phonemic,chimney,saxena702,,चिमनी,Standard
+7-320-702-1,hind1269,Hindi  ,859,tʃuːlhaː,Phonemic,stove,saxena702,,चूल्हा,Standard
+7-310-702-1,hind1269,Hindi  ,185,tʃuːlhaː,Phonemic,fireplace,saxena702,,चूल्हा,Standard
+7-270-702-1,hind1269,Hindi  ,933,d̪iːvaːr,Phonemic,wall,saxena702,,दीवार,Standard
+7-260-702-1,hind1269,Hindi  ,1632,dʒaːmiːn̪,Phonemic,floor,saxena702,,"ज़मीन, फर्श",Standard
+7-260-702-3,hind1269,Hindi  ,1632,pʰarɕ,Phonemic,floor,saxena702,,"ज़मीन, फर्श",Standard
+7-250-702-1,hind1269,Hindi  ,1375,kʰiɽakiː,Phonemic,window,saxena702,,खिड़की,Standard
+7-240-702-1,hind1269,Hindi  ,1472,tʃaːbiː,Phonemic,key,saxena702,,चाबी,Standard
+7-231-702-1,hind1269,Hindi  ,1012,tʃiʈakan̪iː,Phonemic,"latch, door-bolt",saxena702,,चिटकनी,Standard
+7-230-702-1,hind1269,Hindi  ,1596,t̪aːlaː,Phonemic,lock (noun),saxena702,,ताला,Standard
+7-221-702-1,hind1269,Hindi  ,80,d̪aravaːdʒaː,Phonemic,"doorpost, jamb",saxena702,,दरवाज़ा,Standard
+7-210-702-1,hind1269,Hindi  ,1450,kamaraː,Phonemic,room,saxena702,,कमरा,Standard
+7-220-702-1,hind1269,Hindi  ,1567,d̪aravaːdʒaː,Phonemic,"door, gate",saxena702,,"दरवाज़ा, फाटक",Standard
+7-220-702-3,hind1269,Hindi  ,1567,pʰaːʈak,Phonemic,"door, gate",saxena702,,"दरवाज़ा, फाटक",Standard
+7-180-702-1,hind1269,Hindi  ,335,sabʱaː ken̪d̪ra,Phonemic,meeting house,saxena702,,सभा केंद्र,Standard
+7-170-702-1,hind1269,Hindi  ,334,rasoiː,Phonemic,cookhouse,saxena702,,रसोई,Standard
+7-160-702-1,hind1269,Hindi  ,408,aːd̪amiːjon̪ kaː gʱar,Phonemic,men's house,saxena702,,आदमियों का घर,Standard
+7-150-702-1,hind1269,Hindi  ,736,kat̪araː,Phonemic,"yard, court",saxena702,,कतरा,Standard
+7-140-702-1,hind1269,Hindi  ,1316,t̪ambuː,Phonemic,tent,saxena702,,तंबू,Standard
+7-131-702-1,hind1269,Hindi  ,403,bagiːtʃevaːlaː gʱar,Phonemic,garden-house,saxena702,,बगीचावाले घर,Standard
+7-130-702-1,hind1269,Hindi  ,1678,dʒʱopaɽiː,Phonemic,hut,saxena702,,झोपड़ी,Standard
+7-120-702-1,hind1269,Hindi  ,1252,gʱar,Phonemic,house,saxena702,,घर,Standard
+7-110-702-1,hind1269,Hindi  ,363,dʒiːn̪aː,Phonemic,"dwell, live",saxena702,,जीना,Standard
+6-960-702-1,hind1269,Hindi  ,1171,ɕiːɕaː,Phonemic,mirror,saxena702,,शीशा,Standard
+6-950-702-1,hind1269,Hindi  ,788,saːbun̪,Phonemic,soap,saxena702,,साबुन,Standard
+6-940-702-1,hind1269,Hindi  ,1926,lep,Phonemic,ointment,saxena702,,"लेप, वीलेप",Standard
+6-940-702-3,hind1269,Hindi  ,1926,viːlep,Phonemic,ointment,saxena702,,"लेप, वीलेप",Standard
+6-930-702-1,hind1269,Hindi  ,151,redʒʱar,Phonemic,razor,saxena702,,रेज़र,Standard
+6-921-702-1,hind1269,Hindi  ,333,tʃuʈijaː,Phonemic,braid,saxena702,,चुटिया,Standard
+6-920-702-1,hind1269,Hindi  ,1821,t̪uːlikaː,Phonemic,brush,saxena702,,तूलिका,Standard
+6-910-702-1,hind1269,Hindi  ,1475,kaŋgʱaː,Phonemic,comb,saxena702,,कंघा,Standard
+6-820-702-1,hind1269,Hindi  ,1021,aŋgotʃʰaː,Phonemic,towel,saxena702,,"अंगोछा, तौलिया",Standard
+6-820-702-3,hind1269,Hindi  ,1021,t̪ɔlijaː,Phonemic,towel,saxena702,,"अंगोछा, तौलिया",Standard
+6-810-702-1,hind1269,Hindi  ,332,ruːmaːl,Phonemic,"handkerchief, rag",saxena702,,रुमाल,Standard
+6-790-702-1,hind1269,Hindi  ,68,gud̪an̪aː,Phonemic,tattoo,saxena702,,गुदना,Standard
+6-780-702-1,hind1269,Hindi  ,330,sir kiː paʈʈiː,Phonemic,"headband, headdress",saxena702,,सिर की पट्टी,Standard
+6-770-702-1,hind1269,Hindi  ,770,dʒʱumakaː,Phonemic,earring,saxena702,,"झुमका, कान की बाली",Standard
+6-770-702-3,hind1269,Hindi  ,770,kaːn̪ kiː baːliː,Phonemic,earring,saxena702,,"झुमका, कान की बाली",Standard
+6-760-702-1,hind1269,Hindi  ,1860,maɳikaː,Phonemic,bead,saxena702,,मणिका,Standard
+6-750-702-1,hind1269,Hindi  ,1961,haːr,Phonemic,necklace,saxena702,,हार,Standard
+6-740-702-1,hind1269,Hindi  ,1754,kaŋgan̪,Phonemic,bracelet,saxena702,,कंगन,Standard
+6-730-702-1,hind1269,Hindi  ,1374,aŋguːʈʰiː,Phonemic,ring (for finger),saxena702,,अंगूठी,Standard
+6-720-702-1,hind1269,Hindi  ,1029,dʒavaːhar,Phonemic,jewel,saxena702,,"जवाहर, मणि",Standard
+6-720-702-3,hind1269,Hindi  ,1029,maɳi,Phonemic,jewel,saxena702,,"जवाहर, मणि",Standard
+6-710-702-1,hind1269,Hindi  ,917,dʒevar,Phonemic,"ornament, adornment",saxena702,,जेवर,Standard
+6-630-702-1,hind1269,Hindi  ,64,pin̪,Phonemic,pin,saxena702,,"पिन, सुई",Standard
+6-630-702-3,hind1269,Hindi  ,64,suiː,Phonemic,pin,saxena702,,"पिन, सुई",Standard
+6-620-702-1,hind1269,Hindi  ,757,baʈan̪,Phonemic,button,saxena702,,"बटन, काज",Standard
+6-620-702-3,hind1269,Hindi  ,757,kaːdʒ,Phonemic,button,saxena702,,"बटन, काज",Standard
+6-610-702-1,hind1269,Hindi  ,1851,dʒeːb,Phonemic,pocket,saxena702,,जेब,Standard
+6-590-702-1,hind1269,Hindi  ,1151,gʱuːŋgʱaʈ,Phonemic,veil,saxena702,,घूंघट,Standard
+6-580-702-1,hind1269,Hindi  ,867,d̪ast̪aːn̪aː,Phonemic,glove,saxena702,,दस्ताना,Standard
+6-570-702-1,hind1269,Hindi  ,772,kamarban̪d̪,Phonemic,"belt, girdle",saxena702,,"कमरबंद, पट्टा",Standard
+6-570-702-3,hind1269,Hindi  ,772,paʈʈaː,Phonemic,"belt, girdle",saxena702,,"कमरबंद, पट्टा",Standard
+6-550-702-1,hind1269,Hindi  ,2130,ʈopiː,Phonemic,"hat, cap",saxena702,,टोपी,Standard
+6-540-702-1,hind1269,Hindi  ,875,motʃiː,Phonemic,"shoemaker, cobbler",saxena702,,मोची,Standard
+6-510-702-1,hind1269,Hindi  ,1381,dʒuːt̪aː,Phonemic,shoe,saxena702,,जूता,Standard
+6-520-702-1,hind1269,Hindi  ,585,buːʈ,Phonemic,boot,saxena702,,बूट,Standard
+6-490-702-1,hind1269,Hindi  ,329,modʒaː,Phonemic,"stocking, sock",saxena702,,"मोजा, जुर्राब",Standard
+6-490-702-3,hind1269,Hindi  ,329,dʒurraːb,Phonemic,"stocking, sock",saxena702,,"मोजा, जुर्राब",Standard
+6-480-702-1,hind1269,Hindi  ,809,padʒaːmaː,Phonemic,trousers,saxena702,,"पजामा, पतलून",Standard
+6-480-702-3,hind1269,Hindi  ,809,pat̪aluːn̪,Phonemic,trousers,saxena702,,"पजामा, पतलून",Standard
+6-461-702-1,hind1269,Hindi  ,328,gʱaːs kaː lahaŋgaː,Phonemic,grass-skirt,saxena702,,घास का लहंगा,Standard
+6-460-702-1,hind1269,Hindi  ,1600,gʱaːgʱraː,Phonemic,skirt,saxena702,,"घाघरा, लहंगा",Standard
+6-460-702-3,hind1269,Hindi  ,1600,lahaŋgaː,Phonemic,skirt,saxena702,,"घाघरा, लहंगा",Standard
+6-450-702-1,hind1269,Hindi  ,2012,galaː,Phonemic,collar,saxena702,,"गला, कौलर",Standard
+6-450-702-3,hind1269,Hindi  ,2012,kɔlar,Phonemic,collar,saxena702,,"गला, कौलर",Standard
+6-440-702-1,hind1269,Hindi  ,1622,kamiːdʒ,Phonemic,shirt,saxena702,,कमीज,Standard
+6-430-702-1,hind1269,Hindi  ,603,atʃakan̪,Phonemic,coat,saxena702,,"अचकन, कोट, शेरवानी",Standard
+6-430-702-3,hind1269,Hindi  ,603,koʈ,Phonemic,coat,saxena702,,"अचकन, कोट, शेरवानी",Standard
+6-430-702-5,hind1269,Hindi  ,603,ɕervaːn̪iː,Phonemic,coat,saxena702,,"अचकन, कोट, शेरवानी",Standard
+6-420-702-1,hind1269,Hindi  ,474,kapaɽe,Phonemic,woman's dress,saxena702,,कपड़े,Standard
+6-411-702-1,hind1269,Hindi  ,327,pon̪atʃo,Phonemic,poncho,saxena702,,पोनचो,Standard
+6-390-702-1,hind1269,Hindi  ,157,raŋgan̪aː,Phonemic,dye,saxena702,,रंगना,Standard
+6-410-702-1,hind1269,Hindi  ,326,labaːd̪aː,Phonemic,cloak,saxena702,,लबादा,Standard
+6-380-702-1,hind1269,Hindi  ,1161,d̪ʱaːgaː,Phonemic,thread,saxena702,,धागा,Standard
+6-360-702-1,hind1269,Hindi  ,1382,suːiː,Phonemic,needle,saxena702,,सूई,Standard
+6-370-702-1,hind1269,Hindi  ,278,suːaː,Phonemic,awl,saxena702,,सूआ,Standard
+6-350-702-1,hind1269,Hindi  ,1457,silan̪aː,Phonemic,sew,saxena702,,सिलना,Standard
+6-340-702-1,hind1269,Hindi  ,1787,kargʱaː,Phonemic,loom,saxena702,,करघा,Standard
+6-330-702-1,hind1269,Hindi  ,133,bun̪an̪aː,Phonemic,weave,saxena702,,बुनना,Standard
+6-320-702-1,hind1269,Hindi  ,277,t̪akalaː,Phonemic,spindle,saxena702,,तकला,Standard
+6-310-702-1,hind1269,Hindi  ,121,kaːt̪an̪aː,Phonemic,spin,saxena702,,कातना,Standard
+6-290-702-1,hind1269,Hindi  ,629,tʃamaɽaː,Phonemic,leather,saxena702,,चमड़ा,Standard
+6-280-702-1,hind1269,Hindi  ,580,lom,Phonemic,fur,saxena702,,लोम,Standard
+6-270-702-1,hind1269,Hindi  ,325,kambal,Phonemic,felt,saxena702,,"कंबल, नमदा",Standard
+6-270-702-3,hind1269,Hindi  ,325,n̪amad̪aː,Phonemic,felt,saxena702,,"कंबल, नमदा",Standard
+6-250-702-1,hind1269,Hindi  ,1641,reɕam,Phonemic,silk,saxena702,,"रेशम, सिल्क",Standard
+6-250-702-3,hind1269,Hindi  ,1641,silk,Phonemic,silk,saxena702,,"रेशम, सिल्क",Standard
+6-240-702-1,hind1269,Hindi  ,1850,suːt̪iː,Phonemic,cotton,saxena702,,सूती,Standard
+6-230-702-1,hind1269,Hindi  ,916,lin̪en̪,Phonemic,"linen, flax",saxena702,,लिनेन,Standard
+6-220-702-1,hind1269,Hindi  ,964,uːn̪,Phonemic,wool,saxena702,,ऊन,Standard
+6-210-702-1,hind1269,Hindi  ,1616,kapaɽaː,Phonemic,cloth,saxena702,,कपड़ा,Standard
+6-130-702-1,hind1269,Hindi  ,881,d̪aradʒiː,Phonemic,tailor,saxena702,,दरजी,Standard
+6-120-702-1,hind1269,Hindi  ,1895,kapaɽaː,Phonemic,"clothing, clothes",saxena702,,कपड़ा,Standard
+6-110-702-1,hind1269,Hindi  ,158,pahan̪an̪aː,Phonemic,put on (clothes),saxena702,,पहनना,Standard
+5-971-702-1,hind1269,Hindi  ,1556,aɳɖe kiː dʒarad̪iː,Phonemic,egg yolk,saxena702,,अण्डे की ज़रदी,Standard
+5-970-702-1,hind1269,Hindi  ,744,an̪ɖaː,Phonemic,egg,saxena702,,अंडा,Standard
+5-940-702-1,hind1269,Hindi  ,404,ɕaraːb,Phonemic,fermented drink,saxena702,,शराब,Standard
+5-930-702-1,hind1269,Hindi  ,1639,bijar,Phonemic,beer,saxena702,,"बीयर, शराब",Standard
+5-930-702-3,hind1269,Hindi  ,1639,ɕaraːb,Phonemic,beer,saxena702,,"बीयर, शराब",Standard
+5-920-702-1,hind1269,Hindi  ,1524,mad̪iraː,Phonemic,wine,saxena702,,"मदिरा, शराब",Standard
+5-920-702-3,hind1269,Hindi  ,1524,ɕaraːb,Phonemic,wine,saxena702,,"मदिरा, शराब",Standard
+5-910-702-1,hind1269,Hindi  ,941,ɕahad̪ kiː ɕaraːb,Phonemic,mead,saxena702,,शहद की शराब,Standard
+5-900-702-1,hind1269,Hindi  ,731,ɕaraːb,Phonemic,"beverage, drink",saxena702,,शराब,Standard
+5-890-702-1,hind1269,Hindi  ,1245,makkʰan̪,Phonemic,butter,saxena702,,मक्खन,Standard
+5-880-702-1,hind1269,Hindi  ,1569,pan̪iːr,Phonemic,cheese,saxena702,,"पनीर, चीज़",Standard
+5-880-702-3,hind1269,Hindi  ,1569,tʃiːdʒ,Phonemic,cheese,saxena702,,"पनीर, चीज़",Standard
+5-870-702-1,hind1269,Hindi  ,93,d̪uhan̪aː,Phonemic,milk (vb),saxena702,,दुहना,Standard
+5-850-702-1,hind1269,Hindi  ,862,tʃiːn̪iː,Phonemic,sugar,saxena702,,चीनी,Standard
+5-860-702-1,hind1269,Hindi  ,635,d̪uːd̪ʱ,Phonemic,milk (noun),saxena702,,दूध,Standard
+5-840-702-1,hind1269,Hindi  ,942,ɕahad̪,Phonemic,honey,saxena702,,शहद,Standard
+5-821-702-1,hind1269,Hindi  ,919,mirtʃ,Phonemic,chili pepper,saxena702,,मिर्च,Standard
+5-820-702-1,hind1269,Hindi  ,1385,mirtʃ,Phonemic,pepper,saxena702,,मिर्च,Standard
+5-810-702-1,hind1269,Hindi  ,1274,n̪amak,Phonemic,salt,saxena702,,नमक,Standard
+5-791-702-1,hind1269,Hindi  ,323,tʃarabiː,Phonemic,"grease, fat",saxena702,,"चरबी, चिकनाई",Standard
+5-791-702-3,hind1269,Hindi  ,323,tʃikn̪aːiː,Phonemic,"grease, fat",saxena702,,"चरबी, चिकनाई",Standard
+5-790-702-1,hind1269,Hindi  ,1484,t̪el,Phonemic,oil,saxena702,,तेल,Standard
+5-780-702-1,hind1269,Hindi  ,1154,dʒalpaːi,Phonemic,olive,saxena702,,"जलपाई, औलिव",Standard
+5-780-702-3,hind1269,Hindi  ,1154,ɔliv,Phonemic,olive,saxena702,,"जलपाई, औलिव",Standard
+5-760-702-1,hind1269,Hindi  ,920,aŋguːr,Phonemic,grape,saxena702,,अंगूर,Standard
+5-770-702-1,hind1269,Hindi  ,191,nw,Phonemic,nut,saxena702,,nw,Standard
+5-750-702-1,hind1269,Hindi  ,322,an̪dʒiːr,Phonemic,fig,saxena702,,अंजीर,Standard
+5-712-702-1,hind1269,Hindi  ,1966,gutʃtʃʰaː,Phonemic,bunch,saxena702,,गुच्छा,Standard
+5-710-702-1,hind1269,Hindi  ,1507,pʰal,Phonemic,fruit,saxena702,,फल,Standard
+5-700-702-1,hind1269,Hindi  ,593,aːluː,Phonemic,potato,saxena702,,आलू,Standard
+5-660-702-1,hind1269,Hindi  ,832,pʰaliː,Phonemic,bean,saxena702,,"फली, सेम",Standard
+5-660-702-3,hind1269,Hindi  ,832,sem,Phonemic,bean,saxena702,,"फली, सेम",Standard
+5-650-702-1,hind1269,Hindi  ,924,sabdʒiː,Phonemic,vegetables,saxena702,,सब्जी,Standard
+5-640-702-1,hind1269,Hindi  ,1547,dʒʱol,Phonemic,"soup, broth",saxena702,,"झोल, शोरबा, रसा",Standard
+5-640-702-3,hind1269,Hindi  ,1547,ɕorabaː,Phonemic,"soup, broth",saxena702,,"झोल, शोरबा, रसा",Standard
+5-640-702-5,hind1269,Hindi  ,1547,rasaː,Phonemic,"soup, broth",saxena702,,"झोल, शोरबा, रसा",Standard
+5-630-702-1,hind1269,Hindi  ,1874,laŋguːtʃaː,Phonemic,sausage,saxena702,,लंगूचा,Standard
+5-610-702-1,hind1269,Hindi  ,634,goɕt̪,Phonemic,meat,saxena702,,"गोश्त, मांस",Standard
+5-610-702-3,hind1269,Hindi  ,634,maːn̪s,Phonemic,meat,saxena702,,"गोश्त, मांस",Standard
+5-590-702-1,hind1269,Hindi  ,225,muːsal,Phonemic,pestle,saxena702,,"मूसल, मूसली",Standard
+5-590-702-3,hind1269,Hindi  ,225,muːsaliː,Phonemic,pestle,saxena702,,"मूसल, मूसली",Standard
+5-580-702-1,hind1269,Hindi  ,224,okʰaliː,Phonemic,mortar (2),saxena702,,ओखली,Standard
+5-570-702-1,hind1269,Hindi  ,636,kaːrakʰaːn̪aː,Phonemic,mill,saxena702,,कारखाना,Standard
+5-560-702-1,hind1269,Hindi  ,1033,kutʃalan̪aː,Phonemic,"crush, grind",saxena702,,कुचलना,Standard
+5-550-702-1,hind1269,Hindi  ,1594,aːʈaː,Phonemic,"meal, flour",saxena702,,आटा,Standard
+5-540-702-1,hind1269,Hindi  ,274,guːn̪d̪ʱan̪aː,Phonemic,knead,saxena702,,गूंधना,Standard
+5-530-702-1,hind1269,Hindi  ,273,aːʈaː,Phonemic,dough,saxena702,,आटा,Standard
+5-510-702-1,hind1269,Hindi  ,1368,roʈiː,Phonemic,bread,saxena702,,रोटी,Standard
+5-490-702-1,hind1269,Hindi  ,2017,milaːn̪aː,Phonemic,"stir, mix",saxena702,,मिलाना,Standard
+5-480-702-1,hind1269,Hindi  ,1767,kʰuratʃan̪aː,Phonemic,scrape,saxena702,,खुरचना,Standard
+5-470-702-1,hind1269,Hindi  ,86,tʃʰaːn̪n̪aː,Phonemic,"sieve, strain",saxena702,,छानना,Standard
+5-460-702-1,hind1269,Hindi  ,275,tʃʰiːlan̪aː,Phonemic,peel,saxena702,,छीलना,Standard
+5-450-702-1,hind1269,Hindi  ,1833,bjaːluː,Phonemic,supper,saxena702,,ब्यालू,Standard
+5-440-702-1,hind1269,Hindi  ,1833,raːt̪ kaː kʰaːn̪aː,Phonemic,dinner,saxena702,,रात का खाना,Standard
+5-430-702-1,hind1269,Hindi  ,768,d̪opahar kaː kʰaːn̪aː,Phonemic,lunch,saxena702,,दोपहर का खाना,Standard
+5-420-702-1,hind1269,Hindi  ,1322,n̪aːɕt̪aː,Phonemic,breakfast,saxena702,,नाश्ता,Standard
+5-410-702-1,hind1269,Hindi  ,1526,kʰaːn̪aː,Phonemic,meal (a),saxena702,,खाना,Standard
+5-391-702-1,hind1269,Hindi  ,272,tʃimaʈaː,Phonemic,tongs,saxena702,,"चिमटा, चिमटी",Standard
+5-391-702-3,hind1269,Hindi  ,272,tʃimaʈiː,Phonemic,tongs,saxena702,,"चिमटा, चिमटी",Standard
+5-390-702-1,hind1269,Hindi  ,1302,kaːn̪ʈaː,Phonemic,fork (2),saxena702,,कांटा,Standard
+5-380-702-1,hind1269,Hindi  ,1352,tʃaːkuː,Phonemic,knife (2),saxena702,,चाकू,Standard
+5-370-702-1,hind1269,Hindi  ,1378,tʃimmatʃ,Phonemic,spoon,saxena702,,चिम्मच,Standard
+5-360-702-1,hind1269,Hindi  ,271,t̪aɕt̪ariː,Phonemic,saucer,saxena702,,तश्तरी,Standard
+5-350-702-1,hind1269,Hindi  ,476,pjaːlaː,Phonemic,"cup, drinking vessel",saxena702,,"प्याला, प्याली",Standard
+5-350-702-3,hind1269,Hindi  ,476,pjaːliː,Phonemic,"cup, drinking vessel",saxena702,,"प्याला, प्याली",Standard
+5-330-702-1,hind1269,Hindi  ,1530,kaʈoraː,Phonemic,bowl,saxena702,,"कटोरा, कटोरी",Standard
+5-330-702-3,hind1269,Hindi  ,1530,kaʈoriː,Phonemic,bowl,saxena702,,"कटोरा, कटोरी",Standard
+5-340-702-1,hind1269,Hindi  ,270,gʱaɽaː,Phonemic,"pitcher, jug",saxena702,,"घड़ा, कलश, कुंभ, मटकी, मटका",Standard
+5-340-702-3,hind1269,Hindi  ,270,kalaɕ,Phonemic,"pitcher, jug",saxena702,,"घड़ा, कलश, कुंभ, मटकी, मटका",Standard
+5-340-702-5,hind1269,Hindi  ,270,kumbʱ,Phonemic,"pitcher, jug",saxena702,,"घड़ा, कलश, कुंभ, मटकी, मटका",Standard
+5-340-702-7,hind1269,Hindi  ,270,maʈkiː,Phonemic,"pitcher, jug",saxena702,,"घड़ा, कलश, कुंभ, मटकी, मटका",Standard
+5-340-702-9,hind1269,Hindi  ,270,maʈkaː,Phonemic,"pitcher, jug",saxena702,,"घड़ा, कलश, कुंभ, मटकी, मटका",Standard
+5-320-702-1,hind1269,Hindi  ,480,t̪ʰaːliː,Phonemic,plate,saxena702,,थाली,Standard
+5-310-702-1,hind1269,Hindi  ,481,t̪ʰaːliː,Phonemic,dish,saxena702,,थाली,Standard
+5-280-702-1,hind1269,Hindi  ,31,kaɽaːhiː,Phonemic,pan,saxena702,,कड़ाही,Standard
+5-260-702-1,hind1269,Hindi  ,1462,barat̪an̪,Phonemic,"pot, cooking vessel",saxena702,,बरतन,Standard
+5-270-702-1,hind1269,Hindi  ,854,ket̪aliː,Phonemic,kettle,saxena702,,केतली,Standard
+5-240-702-1,hind1269,Hindi  ,183,pakaːn̪aː,Phonemic,bake,saxena702,,"पकाना, सेंकना",Standard
+5-240-702-3,hind1269,Hindi  ,183,seŋkn̪aː,Phonemic,bake,saxena702,,"पकाना, सेंकना",Standard
+5-250-702-1,hind1269,Hindi  ,1143,bʱaʈʈiː,Phonemic,oven,saxena702,,"भट्टी, तंदूर",Standard
+5-250-702-3,hind1269,Hindi  ,1143,t̪an̪d̪uːr,Phonemic,oven,saxena702,,"भट्टी, तंदूर",Standard
+5-230-702-1,hind1269,Hindi  ,2146,t̪alan̪aː,Phonemic,"roast, fry",saxena702,,तलना,Standard
+5-220-702-1,hind1269,Hindi  ,792,ubaːlan̪aː,Phonemic,boil (vb),saxena702,,उबालना,Standard
+5-210-702-1,hind1269,Hindi  ,1100,pakaːn̪aː,Phonemic,cook,saxena702,,पकाना,Standard
+5-190-702-1,hind1269,Hindi  ,129,saːn̪s rukan̪aː,Phonemic,choke,saxena702,,सांस रुकना,Standard
+5-181-702-1,hind1269,Hindi  ,897,galakn̪aː,Phonemic,swallow,saxena702,,गलकना,Standard
+5-180-702-1,hind1269,Hindi  ,321,tʃabaːn̪aː,Phonemic,chew,saxena702,,चबाना,Standard
+5-160-702-1,hind1269,Hindi  ,1421,tʃuːsan̪aː,Phonemic,suck,saxena702,,चूसना,Standard
+5-150-702-1,hind1269,Hindi  ,848,pjaːs lagn̪aː,Phonemic,thirst,saxena702,,प्यास लगना,Standard
+5-141-702-1,hind1269,Hindi  ,199,akaːl,Phonemic,famine,saxena702,,"अकाल, सूखा",Standard
+5-141-702-3,hind1269,Hindi  ,199,suːkʰaː,Phonemic,famine,saxena702,,"अकाल, सूखा",Standard
+5-140-702-1,hind1269,Hindi  ,1864,bʱuːk lagn̪aː,Phonemic,hunger,saxena702,,भूख लगना,Standard
+5-130-702-1,hind1269,Hindi  ,1401,piːn̪aː,Phonemic,drink,saxena702,,पीना,Standard
+5-125-702-1,hind1269,Hindi  ,1728,saɽaː huaː,Phonemic,rotten,saxena702,,सड़ा हुआ,Standard
+5-124-702-1,hind1269,Hindi  ,1958,katʃtʃaː,Phonemic,"green, unripe",saxena702,,कच्चा,Standard
+5-123-702-1,hind1269,Hindi  ,178,pakkaː,Phonemic,ripe,saxena702,,पक्का,Standard
+5-122-702-1,hind1269,Hindi  ,1959,katʃtʃaː,Phonemic,raw,saxena702,,कच्चा,Standard
+5-121-702-1,hind1269,Hindi  ,269,pakaː huaː,Phonemic,cooked,saxena702,,पका हुआ,Standard
+5-120-702-1,hind1269,Hindi  ,256,kʰaːn̪aː,Phonemic,food,saxena702,,खाना,Standard
+5-110-702-1,hind1269,Hindi  ,1336,kʰaːn̪aː kʰaːn̪aː,Phonemic,eat,saxena702,,खाना खाना,Standard
+4-990-702-1,hind1269,Hindi  ,590,n̪aŋgaː,Phonemic,"naked, bare",saxena702,,नंगा,Standard
+4-970-702-1,hind1269,Hindi  ,1653,an̪d̪ʱaː,Phonemic,blind,saxena702,,अंधा,Standard
+4-980-702-1,hind1269,Hindi  ,1463,ɕaraːbiː,Phonemic,intoxicated,saxena702,,शराबी,Standard
+4-960-702-1,hind1269,Hindi  ,1666,guːŋgaː,Phonemic,mute,saxena702,,गूंगा,Standard
+4-950-702-1,hind1269,Hindi  ,996,beharaː,Phonemic,deaf,saxena702,,बेहरा,Standard
+4-930-702-1,hind1269,Hindi  ,1125,gan̪dʒaː,Phonemic,bald,saxena702,,गंजा,Standard
+4-940-702-1,hind1269,Hindi  ,320,laŋgaɽaː,Phonemic,lame,saxena702,,लंगड़ा,Standard
+4-920-702-1,hind1269,Hindi  ,1564,aːlasiː,Phonemic,lazy,saxena702,,आलसी,Standard
+4-912-702-1,hind1269,Hindi  ,168,aːraːm karan̪aː,Phonemic,rest,saxena702,,आराम करना,Standard
+4-910-702-1,hind1269,Hindi  ,1757,t̪ʰakaː,Phonemic,"tired, weary",saxena702,,थका,Standard
+4-890-702-1,hind1269,Hindi  ,655,dʒahar,Phonemic,poison,saxena702,,"जहर, विष",Standard
+4-890-702-3,hind1269,Hindi  ,655,viʂ,Phonemic,poison,saxena702,,"जहर, विष",Standard
+4-880-702-1,hind1269,Hindi  ,1372,d̪avaː,Phonemic,"medicine, drug",saxena702,,"दवा, औषधि",Standard
+4-880-702-3,hind1269,Hindi  ,1372,ɔʂad̪ʱi,Phonemic,"medicine, drug",saxena702,,"दवा, औषधि",Standard
+4-870-702-1,hind1269,Hindi  ,597,tʃikit̪sak,Phonemic,physician,saxena702,,चिकित्सक,Standard
+4-860-702-1,hind1269,Hindi  ,499,upatʃaːr karan̪aː,Phonemic,"cure, heal",saxena702,,"उपचार करना, उपाय करना",Standard
+4-860-702-3,hind1269,Hindi  ,499,upaːj karan̪aː,Phonemic,"cure, heal",saxena702,,"उपचार करना, उपाय करना",Standard
+4-858-702-1,hind1269,Hindi  ,497,n̪iɕaːn̪,Phonemic,scar,saxena702,,निशान,Standard
+4-857-702-1,hind1269,Hindi  ,1808,piːp,Phonemic,pus,saxena702,,पीप,Standard
+4-856-702-1,hind1269,Hindi  ,793,pʰoɽaː,Phonemic,boil (noun),saxena702,,"फोड़ा, उबाल",Standard
+4-856-702-3,hind1269,Hindi  ,793,ubaːl,Phonemic,boil (noun),saxena702,,"फोड़ा, उबाल",Standard
+4-855-702-1,hind1269,Hindi  ,1584,tʃʰaːlaː,Phonemic,blister,saxena702,,छाला,Standard
+4-854-702-1,hind1269,Hindi  ,148,kʰudʒaliː,Phonemic,itch,saxena702,,खुजली,Standard
+4-853-702-1,hind1269,Hindi  ,1903,suːdʒan̪,Phonemic,swelling,saxena702,,सूजन,Standard
+4-852-702-1,hind1269,Hindi  ,1148,kʰaron̪tʃ,Phonemic,bruise,saxena702,,"खरोंच, रगार",Standard
+4-852-702-3,hind1269,Hindi  ,1148,ragaːr,Phonemic,bruise,saxena702,,"खरोंच, रगार",Standard
+4-850-702-1,hind1269,Hindi  ,1109,aːgʱaːt̪,Phonemic,"wound, sore",saxena702,,"आघात, घाव",Standard
+4-850-702-3,hind1269,Hindi  ,1109,gʱaːv,Phonemic,"wound, sore",saxena702,,"आघात, घाव",Standard
+4-843-702-1,hind1269,Hindi  ,102,dʒukʰaːm,Phonemic,cold (catarrh),saxena702,,जुखाम,Standard
+4-842-702-1,hind1269,Hindi  ,1957,galgaɳɖ,Phonemic,goiter,saxena702,,गलगण्ड,Standard
+4-841-702-1,hind1269,Hindi  ,1534,bukʰaːr,Phonemic,fever,saxena702,,बुखार,Standard
+4-840-702-1,hind1269,Hindi  ,1847,biːmaːr,Phonemic,"sick, sickness",saxena702,,बीमार,Standard
+4-830-702-1,hind1269,Hindi  ,1364,n̪irogiː,Phonemic,"well, health",saxena702,,"निरोगी, तंदुरुस्त",Standard
+4-830-702-3,hind1269,Hindi  ,1364,t̪an̪d̪urust̪,Phonemic,"well, health",saxena702,,"निरोगी, तंदुरुस्त",Standard
+4-820-702-1,hind1269,Hindi  ,1601,kamadʒor,Phonemic,weak,saxena702,,कमजोर,Standard
+4-810-702-1,hind1269,Hindi  ,785,balavaːn̪,Phonemic,"strong, mighty, powerful",saxena702,,बलवान,Standard
+4-790-702-1,hind1269,Hindi  ,1773,kabar,Phonemic,"grave, tomb",saxena702,,"कबर, समाधि",Standard
+4-790-702-3,hind1269,Hindi  ,1773,samaːd̪ʱiː,Phonemic,"grave, tomb",saxena702,,"कबर, समाधि",Standard
+4-780-702-1,hind1269,Hindi  ,1719,gaːɽan̪aː,Phonemic,bury (the dead),saxena702,,गाड़ना,Standard
+4-770-702-1,hind1269,Hindi  ,767,laːɕ,Phonemic,corpse,saxena702,,लाश,Standard
+4-760-702-1,hind1269,Hindi  ,1417,maːran̪aː,Phonemic,kill,saxena702,,मारना,Standard
+4-751-702-1,hind1269,Hindi  ,1904,ɖuːbn̪aː,Phonemic,drowned,saxena702,,डूबना,Standard
+4-750-702-1,hind1269,Hindi  ,1494,maran̪aː,Phonemic,"die, dead",saxena702,,मरना,Standard
+4-740-702-1,hind1269,Hindi  ,1422,dʒiːn̪aː,Phonemic,"live, living, life",saxena702,,जीना,Standard
+4-732-702-1,hind1269,Hindi  ,1087,garbʱavat̪iː hon̪aː,Phonemic,conceive,saxena702,,गर्भवती होना,Standard
+4-730-702-1,hind1269,Hindi  ,1123,garbʱavat̪iː,Phonemic,pregnant,saxena702,,गर्भवती,Standard
+4-720-702-1,hind1269,Hindi  ,1090,dʒan̪ma len̪aː,Phonemic,born (to be),saxena702,,जन्म लेना,Standard
+4-710-702-1,hind1269,Hindi  ,1152,pɛd̪aː karan̪aː,Phonemic,beget (of father),saxena702,,पैदा करना,Standard
+4-690-702-1,hind1269,Hindi  ,138,n̪ahaːn̪aː,Phonemic,bathe,saxena702,,नहाना,Standard
+4-680-702-1,hind1269,Hindi  ,52,kaːmpan̪aː,Phonemic,shiver,saxena702,,कांपना,Standard
+4-670-702-1,hind1269,Hindi  ,1785,pjaːr karan̪aː,Phonemic,have sexual intercourse,saxena702,,प्यार करना,Standard
+4-660-702-1,hind1269,Hindi  ,676,pakʰaːn̪a karan̪aː,Phonemic,defecate,saxena702,,पखाना करना,Standard
+4-650-702-1,hind1269,Hindi  ,592,muːt̪an̪aː,Phonemic,urinate,saxena702,,मूतना,Standard
+4-640-702-1,hind1269,Hindi  ,1159,ad̪ʱovaːju tʃʰoɽan̪aː,Phonemic,break wind,saxena702,,अधोवायु छोड़ना,Standard
+4-630-702-1,hind1269,Hindi  ,1602,dʒagan̪aː,Phonemic,wake up,saxena702,,जगना,Standard
+4-620-702-1,hind1269,Hindi  ,1920,sapan̪aː d̪ekʰn̪aː,Phonemic,dream,saxena702,,सपना देखना,Standard
+4-612-702-1,hind1269,Hindi  ,1983,kʰarraːʈaː bʱarn̪aː,Phonemic,snore,saxena702,,"खर्राटा भरना, खर्राटा लेना, खर्राटा मारना",Standard
+4-612-702-3,hind1269,Hindi  ,1983,kʰarraːʈaː len̪aː,Phonemic,snore,saxena702,,"खर्राटा भरना, खर्राटा लेना, खर्राटा मारना",Standard
+4-612-702-5,hind1269,Hindi  ,1983,kʰarraːʈaː maːran̪aː,Phonemic,snore,saxena702,,"खर्राटा भरना, खर्राटा लेना, खर्राटा मारना",Standard
+4-610-702-1,hind1269,Hindi  ,1585,son̪aː,Phonemic,sleep,saxena702,,सोना,Standard
+4-591-702-1,hind1269,Hindi  ,268,ʈapakan̪aː,Phonemic,dribble,saxena702,,टपकना,Standard
+4-590-702-1,hind1269,Hindi  ,319,tʃaːʈan̪aː,Phonemic,lick,saxena702,,चाटना,Standard
+4-580-702-1,hind1269,Hindi  ,1403,kaːʈan̪aː,Phonemic,bite,saxena702,,काटना,Standard
+4-570-702-1,hind1269,Hindi  ,1278,ulʈiː karn̪aː,Phonemic,vomit,saxena702,,उल्टी करना,Standard
+4-560-702-1,hind1269,Hindi  ,1440,ugaln̪aː,Phonemic,spit,saxena702,,उगलना,Standard
+4-550-702-1,hind1269,Hindi  ,126,pasiːn̪aː aːn̪aː,Phonemic,perspire,saxena702,,पसीना आना,Standard
+4-540-702-1,hind1269,Hindi  ,1621,tʃʰiːn̪kan̪aː,Phonemic,sneeze,saxena702,,छींकना,Standard
+4-530-702-1,hind1269,Hindi  ,879,kʰaːn̪sn̪aː,Phonemic,cough,saxena702,,खांसना,Standard
+4-521-702-1,hind1269,Hindi  ,162,hitʃakiː aːn̪aː,Phonemic,hiccough,saxena702,"hitʃaki: a:n̪a: (NVOL), hitʃaki: len̪a: (VOL)","हिचकी आना, हिचकी लेना",Standard
+4-521-702-3,hind1269,Hindi  ,162,hitʃakiː len̪aː,Phonemic,hiccough,saxena702,"hitʃaki: a:n̪a: (NVOL), hitʃaki: len̪a: (VOL)","हिचकी आना, हिचकी लेना",Standard
+4-520-702-1,hind1269,Hindi  ,1028,ubaːsiː aːn̪aː,Phonemic,"yawn, gape",saxena702,"uba:si: a:n̪a: (NVOL), uba:si: len̪a: (VOL)","उबासी आना, उबासी लेना",Standard
+4-520-702-3,hind1269,Hindi  ,1028,ubaːsiː len̪aː,Phonemic,"yawn, gape",saxena702,"uba:si: a:n̪a: (NVOL), uba:si: len̪a: (VOL)","उबासी आना, उबासी लेना",Standard
+4-510-702-1,hind1269,Hindi  ,1407,saːn̪s len̪aː,Phonemic,"breathe, breath",saxena702,,सांस लेना,Standard
+4-492-702-1,hind1269,Hindi  ,1222,lan̪ɖ,Phonemic,penis,saxena702,,लंड,Standard
+4-490-702-1,hind1269,Hindi  ,797,an̪ɖkoɕ,Phonemic,testicle,saxena702,,अंडकोष,Standard
+4-470-702-1,hind1269,Hindi  ,804,garbʱaːɕaj,Phonemic,womb,saxena702,,"गर्भाशय, कोख",Standard
+4-470-702-3,hind1269,Hindi  ,804,kokʰ,Phonemic,womb,saxena702,,"गर्भाशय, कोख",Standard
+4-464-702-1,hind1269,Hindi  ,834,kuːlʰaː,Phonemic,buttocks,saxena702,,कूल्हा,Standard
+4-463-702-1,hind1269,Hindi  ,1745,kuːlʰaː,Phonemic,hip,saxena702,,कूल्हा,Standard
+4-462-702-1,hind1269,Hindi  ,1681,kamar,Phonemic,waist,saxena702,,कमर,Standard
+4-461-702-1,hind1269,Hindi  ,1991,an̪t̪aɽiː,Phonemic,"intestines, guts",saxena702,,अंतड़ी,Standard
+4-460-702-1,hind1269,Hindi  ,819,peʈ,Phonemic,stomach,saxena702,,पेट,Standard
+4-452-702-1,hind1269,Hindi  ,1744,pliːhaː,Phonemic,spleen,saxena702,,"प्लीहा, तिल्ली",Standard
+4-452-702-3,hind1269,Hindi  ,1744,t̪illiː,Phonemic,spleen,saxena702,,"प्लीहा, तिल्ली",Standard
+4-451-702-1,hind1269,Hindi  ,489,gurd̪aː,Phonemic,kidney,saxena702,,गुर्दा,Standard
+4-450-702-1,hind1269,Hindi  ,1224,kaledʒaː,Phonemic,liver,saxena702,,कलेजा,Standard
+4-441-702-1,hind1269,Hindi  ,688,pʰepʰaɽaː,Phonemic,lung,saxena702,,फेफड़ा,Standard
+4-440-702-1,hind1269,Hindi  ,1223,d̪il,Phonemic,heart,saxena702,,"दिल, हृदय",Standard
+4-440-702-3,hind1269,Hindi  ,1223,hrid̪aj,Phonemic,heart,saxena702,,"दिल, हृदय",Standard
+4-430-702-1,hind1269,Hindi  ,1838,n̪aːbʱi,Phonemic,navel,saxena702,,"नाभि, टुंडी",Standard
+4-430-702-3,hind1269,Hindi  ,1838,ʈun̪ɖiː,Phonemic,navel,saxena702,,"नाभि, टुंडी",Standard
+4-420-702-1,hind1269,Hindi  ,154,t̪ʰan̪,Phonemic,udder,saxena702,,थन,Standard
+4-412-702-1,hind1269,Hindi  ,796,tʃuːtʃuk,Phonemic,"nipple, teat",saxena702,,"चूचुक, स्तनाग्र",Standard
+4-412-702-3,hind1269,Hindi  ,796,st̪an̪aːgra,Phonemic,"nipple, teat",saxena702,,"चूचुक, स्तनाग्र",Standard
+4-410-702-1,hind1269,Hindi  ,1402,tʃʰaːt̪iː,Phonemic,breast (of woman),saxena702,,"छाती, स्तन",Standard
+4-410-702-3,hind1269,Hindi  ,1402,st̪an̪,Phonemic,breast (of woman),saxena702,,"छाती, स्तन",Standard
+4-400-702-1,hind1269,Hindi  ,1592,tʃʰaːt̪iː,Phonemic,chest,saxena702,,छाती,Standard
+4-393-702-1,hind1269,Hindi  ,1201,par,Phonemic,feather,saxena702,,"पर, पंख",Standard
+4-393-702-3,hind1269,Hindi  ,1201,paŋkʰ,Phonemic,feather,saxena702,,"पर, पंख",Standard
+4-392-702-1,hind1269,Hindi  ,1257,par,Phonemic,wing,saxena702,,"पर, पंख",Standard
+4-392-702-3,hind1269,Hindi  ,1257,paŋkʰ,Phonemic,wing,saxena702,,"पर, पंख",Standard
+4-380-702-1,hind1269,Hindi  ,1389,kʰur,Phonemic,toe,saxena702,,खुर,Standard
+4-374-702-1,hind1269,Hindi  ,318,pad̪atʃin̪ʰ,Phonemic,footprint,saxena702,,पदचिन्ह,Standard
+4-372-702-1,hind1269,Hindi  ,980,eɽiː,Phonemic,heel,saxena702,,एड़ी,Standard
+4-371-702-1,hind1269,Hindi  ,803,ʈakʰan̪aː,Phonemic,ankle,saxena702,,टखना,Standard
+4-370-702-1,hind1269,Hindi  ,1301,pag,Phonemic,foot,saxena702,,"पग, पांव, पैर",Standard
+4-370-702-3,hind1269,Hindi  ,1301,paːn̪v,Phonemic,foot,saxena702,,"पग, पांव, पैर",Standard
+4-370-702-5,hind1269,Hindi  ,1301,pɛr,Phonemic,foot,saxena702,,"पग, पांव, पैर",Standard
+4-360-702-1,hind1269,Hindi  ,1371,gʱuʈan̪aː,Phonemic,knee,saxena702,,घुटना,Standard
+4-352-702-1,hind1269,Hindi  ,498,pin̪ɖliː,Phonemic,calf of leg,saxena702,,पिंडली,Standard
+4-351-702-1,hind1269,Hindi  ,800,dʒaːŋgʱ,Phonemic,thigh,saxena702,,जांघ,Standard
+4-350-702-1,hind1269,Hindi  ,1297,pɛr,Phonemic,leg,saxena702,,"पैर, टांग",Standard
+4-350-702-3,hind1269,Hindi  ,1297,ʈaːŋg,Phonemic,leg,saxena702,,"पैर, टांग",Standard
+4-345-702-1,hind1269,Hindi  ,72,pan̪dʒaː,Phonemic,claw,saxena702,,पंजा,Standard
+4-344-702-1,hind1269,Hindi  ,1258,n̪aːkʰuːn̪,Phonemic,fingernail,saxena702,,नाखून,Standard
+4-342-702-1,hind1269,Hindi  ,1781,aŋguːʈʰaː,Phonemic,thumb,saxena702,,अंगूठा,Standard
+4-340-702-1,hind1269,Hindi  ,1303,uŋgaliː,Phonemic,finger,saxena702,,उंगली,Standard
+4-331-702-1,hind1269,Hindi  ,1183,gad̪eliː,Phonemic,palm of hand,saxena702,,"गदेली, हथेली",Standard
+4-331-702-3,hind1269,Hindi  ,1183,hat̪ʰeliː,Phonemic,palm of hand,saxena702,,"गदेली, हथेली",Standard
+4-330-702-1,hind1269,Hindi  ,1277,hast̪,Phonemic,hand,saxena702,,"हस्त, हाथ, कर",Standard
+4-330-702-3,hind1269,Hindi  ,1277,haːt̪ʰ,Phonemic,hand,saxena702,,"हस्त, हाथ, कर",Standard
+4-330-702-5,hind1269,Hindi  ,1277,kar,Phonemic,hand,saxena702,,"हस्त, हाथ, कर",Standard
+4-321-702-1,hind1269,Hindi  ,799,kalaːiː,Phonemic,wrist,saxena702,,कलाई,Standard
+4-320-702-1,hind1269,Hindi  ,981,kuhan̪iː,Phonemic,elbow,saxena702,,कुहनी,Standard
+4-312-702-1,hind1269,Hindi  ,1886,bagal,Phonemic,armpit,saxena702,,बग़ल,Standard
+4-310-702-1,hind1269,Hindi  ,1673,baːdʒuː,Phonemic,arm,saxena702,,बाजू,Standard
+4-302-702-1,hind1269,Hindi  ,1994,han̪saliː,Phonemic,collarbone,saxena702,,हँसली,Standard
+4-301-702-1,hind1269,Hindi  ,172,skan̪d̪ʱaːst̪ʰi,Phonemic,shoulderblade,saxena702,,स्कंधास्थि,Standard
+4-300-702-1,hind1269,Hindi  ,1482,kan̪d̪ʱaː,Phonemic,shoulder,saxena702,,कंधा,Standard
+4-290-702-1,hind1269,Hindi  ,1346,galaː,Phonemic,throat,saxena702,,गला,Standard
+4-281-702-1,hind1269,Hindi  ,1347,garad̪an̪ ke pitʃhe ka: bʱa:g,Phonemic,nape of neck,saxena702,,गर्दन के पीछे का भाग,Standard
+4-280-702-1,hind1269,Hindi  ,1333,garad̪an̪,Phonemic,neck,saxena702,,"गरदन, गला",Standard
+4-280-702-3,hind1269,Hindi  ,1333,galaː,Phonemic,neck,saxena702,,"गरदन, गला",Standard
+4-272-702-1,hind1269,Hindi  ,1049,d̪aːɽʱ,Phonemic,molartooth,saxena702,,दाढ़,Standard
+4-270-702-1,hind1269,Hindi  ,1380,d̪aːn̪t̪,Phonemic,tooth,saxena702,,दांत,Standard
+4-271-702-1,hind1269,Hindi  ,139,masuːɽaː,Phonemic,gums,saxena702,,मसूड़ा,Standard
+4-260-702-1,hind1269,Hindi  ,1205,dʒabaːn̪,Phonemic,tongue,saxena702,,जबान,Standard
+4-250-702-1,hind1269,Hindi  ,478,lab,Phonemic,lip,saxena702,,"लब, ओंठ",Standard
+4-250-702-3,hind1269,Hindi  ,478,on̪ʈʰ,Phonemic,lip,saxena702,,"लब, ओंठ",Standard
+4-241-702-1,hind1269,Hindi  ,73,tʃon̪tʃ,Phonemic,beak,saxena702,,चोंच,Standard
+4-240-702-1,hind1269,Hindi  ,674,mun̪h,Phonemic,mouth,saxena702,,मुंह,Standard
+4-232-702-1,hind1269,Hindi  ,208,pon̪ʈaː,Phonemic,mucus (nasal),saxena702,,"पोंटा, नाक",Standard
+4-232-702-3,hind1269,Hindi  ,208,n̪aːk,Phonemic,mucus (nasal),saxena702,,"पोंटा, नाक",Standard
+4-231-702-1,hind1269,Hindi  ,1178,n̪at̪ʰun̪aː,Phonemic,nostril,saxena702,,नथुना,Standard
+4-230-702-1,hind1269,Hindi  ,1221,n̪aːk,Phonemic,nose,saxena702,,नाक,Standard
+4-222-702-1,hind1269,Hindi  ,32,kaːn̪ kaː mɛl,Phonemic,earwax,saxena702,,कान का मैल,Standard
+4-221-702-1,hind1269,Hindi  ,18,karɳpaːliː,Phonemic,earlobe,saxena702,,"कर्णपाली, लोलकी",Standard
+4-221-702-3,hind1269,Hindi  ,18,lolakiː,Phonemic,earlobe,saxena702,,"कर्णपाली, लोलकी",Standard
+4-220-702-1,hind1269,Hindi  ,1247,kaːn̪,Phonemic,ear,saxena702,,कान,Standard
+4-215-702-1,hind1269,Hindi  ,1655,dʒʱapakn̪aː,Phonemic,blink,saxena702,,झपकना,Standard
+4-214-702-1,hind1269,Hindi  ,1540,barɔːn̪iː,Phonemic,eyelash,saxena702,,बरौनी,Standard
+4-213-702-1,hind1269,Hindi  ,17,palak,Phonemic,eyelid,saxena702,,पलक,Standard
+4-212-702-1,hind1269,Hindi  ,1173,bʱɔːn̪h,Phonemic,eyebrow,saxena702,,भौंह,Standard
+4-210-702-1,hind1269,Hindi  ,1248,aːŋkʰ,Phonemic,eye,saxena702,,आंख,Standard
+4-208-702-1,hind1269,Hindi  ,1730,gaːl,Phonemic,cheek,saxena702,,गाल,Standard
+4-209-702-1,hind1269,Hindi  ,1510,ʈʰoɽiː,Phonemic,chin,saxena702,,ठोड़ी,Standard
+4-205-702-1,hind1269,Hindi  ,123,mast̪ak,Phonemic,forehead,saxena702,,"मस्तक, माथा",Standard
+4-205-702-3,hind1269,Hindi  ,123,maːt̪ʰaː,Phonemic,forehead,saxena702,,"मस्तक, माथा",Standard
+4-207-702-1,hind1269,Hindi  ,798,dʒabaɽaː,Phonemic,jaw,saxena702,,जबड़ा,Standard
+4-204-702-1,hind1269,Hindi  ,1560,mun̪ʰ,Phonemic,face,saxena702,,"मुंह, मुखड़ा",Standard
+4-204-702-3,hind1269,Hindi  ,1560,mukʰɽaː,Phonemic,face,saxena702,,"मुंह, मुखड़ा",Standard
+4-203-702-1,hind1269,Hindi  ,1583,bʱedʒaː,Phonemic,brain,saxena702,,"भेजा, दिमाग, मग्ज",Standard
+4-203-702-3,hind1269,Hindi  ,1583,d̪imaːg,Phonemic,brain,saxena702,,"भेजा, दिमाग, मग्ज",Standard
+4-203-702-5,hind1269,Hindi  ,1583,magdʒ,Phonemic,brain,saxena702,,"भेजा, दिमाग, मग्ज",Standard
+4-201-702-1,hind1269,Hindi  ,1604,moharaː,Phonemic,"side of head, temple",saxena702,,मोहरा,Standard
+4-202-702-1,hind1269,Hindi  ,1605,kapaːl,Phonemic,skull,saxena702,,"कपाल, खोपड़ी",Standard
+4-202-702-3,hind1269,Hindi  ,1605,kʰopaɽiː,Phonemic,skull,saxena702,,"कपाल, खोपड़ी",Standard
+4-200-702-1,hind1269,Hindi  ,1256,sir,Phonemic,head,saxena702,,"सिर, शीर्ष",Standard
+4-200-702-3,hind1269,Hindi  ,1256,ɕiːrʂ,Phonemic,head,saxena702,,"सिर, शीर्ष",Standard
+4-191-702-1,hind1269,Hindi  ,805,riːɽʱ kiː haɖɖiː,Phonemic,spine,saxena702,,रीढ़ की हड़्डी,Standard
+4-190-702-1,hind1269,Hindi  ,1291,piːʈʰ,Phonemic,back,saxena702,,पीठ,Standard
+4-180-702-1,hind1269,Hindi  ,1220,d̪um,Phonemic,tail,saxena702,,"दुम, पूंछ",Standard
+4-180-702-3,hind1269,Hindi  ,1220,puːn̪tʃʰ,Phonemic,tail,saxena702,,"दुम, पूंछ",Standard
+4-170-702-1,hind1269,Hindi  ,1393,siːŋg,Phonemic,horn,saxena702,,सींग,Standard
+4-162-702-1,hind1269,Hindi  ,801,pasaliː,Phonemic,rib,saxena702,,पसली,Standard
+4-160-702-1,hind1269,Hindi  ,1394,ast̪ʰi,Phonemic,bone,saxena702,,"अस्थि, हड़्डी",Standard
+4-160-702-3,hind1269,Hindi  ,1394,haɖɖiː,Phonemic,bone,saxena702,,"अस्थि, हड़्डी",Standard
+4-151-702-1,hind1269,Hindi  ,525,n̪as,Phonemic,"vein, artery",saxena702,,नस,Standard
+4-150-702-1,hind1269,Hindi  ,946,kʰuːn̪,Phonemic,blood,saxena702,,खून,Standard
+4-146-702-1,hind1269,Hindi  ,576,kʰuɕakiː,Phonemic,dandruff,saxena702,,"खुशकी, रुसी",Standard
+4-146-702-3,hind1269,Hindi  ,576,rusiː,Phonemic,dandruff,saxena702,,"खुशकी, रुसी",Standard
+4-145-702-1,hind1269,Hindi  ,36,baːl,Phonemic,pubic hair,saxena702,,बाल,Standard
+4-144-702-1,hind1269,Hindi  ,189,baːl,Phonemic,body hair,saxena702,,बाल,Standard
+4-142-702-1,hind1269,Hindi  ,678,d̪aːɽʱiː,Phonemic,beard,saxena702,,दाढ़ी,Standard
+4-140-702-1,hind1269,Hindi  ,1040,baːl,Phonemic,hair (head),saxena702,,"बाल, केश",Standard
+4-140-702-3,hind1269,Hindi  ,1040,keɕ,Phonemic,hair (head),saxena702,,"बाल, केश",Standard
+4-130-702-1,hind1269,Hindi  ,2259,tʃarabiː,Phonemic,flesh,saxena702,,चरबी,Standard
+4-120-702-1,hind1269,Hindi  ,763,kʰaːl,Phonemic,"skin, hide",saxena702,,"खाल, चमड़ा, चमड़ी",Standard
+4-120-702-3,hind1269,Hindi  ,763,tʃamaɽaː,Phonemic,"skin, hide",saxena702,,"खाल, चमड़ा, चमड़ी",Standard
+4-120-702-5,hind1269,Hindi  ,763,tʃamaɽiː,Phonemic,"skin, hide",saxena702,,"खाल, चमड़ा, चमड़ी",Standard
+4-110-702-1,hind1269,Hindi  ,1480,ɕariːr,Phonemic,body,saxena702,,शरीर,Standard
+3-980-702-1,hind1269,Hindi  ,112,katʃʰuaː,Phonemic,turtle,saxena702,,कछुआ,Standard
+3-970-702-1,hind1269,Hindi  ,1857,gʱaɽijaːl,Phonemic,"crocodile, alligator",saxena702,,"घड़ियाल, मगरमच्छ",Standard
+3-970-702-3,hind1269,Hindi  ,1857,magarmatʃtʃʰ,Phonemic,"crocodile, alligator",saxena702,,"घड़ियाल, मगरमच्छ",Standard
+3-960-702-1,hind1269,Hindi  ,632,tʃʰipakaliː,Phonemic,lizard,saxena702,,छिपकली,Standard
+3-950-702-1,hind1269,Hindi  ,503,men̪ɖʱak,Phonemic,frog,saxena702,,मेंढक,Standard
+3-940-702-1,hind1269,Hindi  ,1543,gʱoŋgʱaː,Phonemic,snail,saxena702,,घोंघा,Standard
+3-930-702-1,hind1269,Hindi  ,607,ʈiɖɖa,Phonemic,grasshopper,saxena702,,टिड्डा,Standard
+3-920-702-1,hind1269,Hindi  ,1791,t̪it̪aliː,Phonemic,butterfly,saxena702,,तितली,Standard
+3-910-702-1,hind1269,Hindi  ,206,dʒugan̪uː,Phonemic,firefly,saxena702,,जुगनू,Standard
+3-850-702-1,hind1269,Hindi  ,730,n̪aːg,Phonemic,snake,saxena702,,"नाग, सांप",Standard
+3-850-702-3,hind1269,Hindi  ,730,saːmp,Phonemic,snake,saxena702,,"नाग, सांप",Standard
+3-840-702-1,hind1269,Hindi  ,1219,kiːʈ,Phonemic,worm,saxena702,,"कीट, कीड़ा",Standard
+3-840-702-3,hind1269,Hindi  ,1219,kiːɽaː,Phonemic,worm,saxena702,,"कीट, कीड़ा",Standard
+3-832-702-1,hind1269,Hindi  ,1509,matʃtʃʰar,Phonemic,mosquito,saxena702,,मच्छर,Standard
+3-831-702-1,hind1269,Hindi  ,95,nw,Phonemic,"sandfly (midge), gnat",saxena702,,nw,Standard
+3-830-702-1,hind1269,Hindi  ,1504,uɽan̪aː,Phonemic,fly,saxena702,,उड़ना,Standard
+3-823-702-1,hind1269,Hindi  ,1517,barre,Phonemic,wasp,saxena702,,बर्रे,Standard
+3-822-702-1,hind1269,Hindi  ,88,mad̪ʱumakkʰiː kaː tʃʰat̪t̪aː,Phonemic,beehive,saxena702,,मधुमक्खी का छत्ता,Standard
+3-821-702-1,hind1269,Hindi  ,1931,mad̪ʱumakkʰiː kaː mom,Phonemic,beeswax,saxena702,,मधुमक्खी का मोम,Standard
+3-820-702-1,hind1269,Hindi  ,665,mad̪ʱumakkʰiː,Phonemic,bee,saxena702,,मधुमक्खी,Standard
+3-819-702-1,hind1269,Hindi  ,1065,makɽiː kaː dʒaːl,Phonemic,spider web,saxena702,,मकड़ी का जाला,Standard
+3-818-702-1,hind1269,Hindi  ,843,makɽaː,Phonemic,spider,saxena702,,"मकड़ा, मकड़ी",Standard
+3-818-702-3,hind1269,Hindi  ,843,makɽiː,Phonemic,spider,saxena702,,"मकड़ा, मकड़ी",Standard
+3-817-702-1,hind1269,Hindi  ,587,tʃiːʈiː,Phonemic,ant,saxena702,,"चीटी, चींटी",Standard
+3-817-702-3,hind1269,Hindi  ,587,tʃiːn̪ʈiː,Phonemic,ant,saxena702,,"चीटी, चींटी",Standard
+3-816-702-1,hind1269,Hindi  ,1575,t̪iltʃaʈaː,Phonemic,cockroach,saxena702,,तिलचटा,Standard
+3-815-702-1,hind1269,Hindi  ,1538,bitʃtʃʰuː,Phonemic,scorpion,saxena702,,बिच्छू,Standard
+3-814-702-1,hind1269,Hindi  ,1974,ɕat̪apad̪,Phonemic,centipede,saxena702,,शतपद,Standard
+3-813-702-1,hind1269,Hindi  ,232,pissuː,Phonemic,flea,saxena702,,पिस्सू,Standard
+3-812-702-1,hind1269,Hindi  ,267,liːkʰ,Phonemic,nit (louse egg),saxena702,,लीख,Standard
+3-811-702-1,hind1269,Hindi  ,1392,juːn̪,Phonemic,louse,saxena702,,जूं,Standard
+3-810-702-1,hind1269,Hindi  ,620,kiːɽaː,Phonemic,insect,saxena702,,कीड़ा,Standard
+3-780-702-1,hind1269,Hindi  ,1871,uːn̪ʈ,Phonemic,camel,saxena702,,ऊंट,Standard
+3-770-702-1,hind1269,Hindi  ,1290,haːt̪ʰiː,Phonemic,elephant,saxena702,,हाथी,Standard
+3-760-702-1,hind1269,Hindi  ,1350,ban̪d̪ar,Phonemic,monkey,saxena702,,बंदर,Standard
+3-750-702-1,hind1269,Hindi  ,1936,hiran̪,Phonemic,deer,saxena702,,"हिरन, मृग",Standard
+3-750-702-3,hind1269,Hindi  ,1936,mrig,Phonemic,deer,saxena702,,"हिरन, मृग",Standard
+3-740-702-1,hind1269,Hindi  ,1312,lomɽiː,Phonemic,fox,saxena702,,लोमड़ी,Standard
+3-730-702-1,hind1269,Hindi  ,1820,bʱaːluː,Phonemic,bear,saxena702,,भालू,Standard
+3-720-702-1,hind1269,Hindi  ,1386,kesariː,Phonemic,lion,saxena702,,"केसरी, शेर",Standard
+3-720-702-3,hind1269,Hindi  ,1386,ɕer,Phonemic,lion,saxena702,,"केसरी, शेर",Standard
+3-710-702-1,hind1269,Hindi  ,522,bʱeɽijaː,Phonemic,wolf,saxena702,,भेड़िया,Standard
+3-665-702-1,hind1269,Hindi  ,1013,baːm matʃʰaliː,Phonemic,freshwater eel,saxena702,,बाम मछली,Standard
+3-664-702-1,hind1269,Hindi  ,1910,nw,Phonemic,stingray,saxena702,,nw,Standard
+3-663-702-1,hind1269,Hindi  ,957,vʰel,Phonemic,whale,saxena702,,व्हेल,Standard
+3-662-702-1,hind1269,Hindi  ,1479,suːn̪s,Phonemic,"porpoise, dolphin",saxena702,"su:n̪s 'porpoise', ɖa:lphin̪ 'dolphin'","सूंस, डाल्फिन",Standard
+3-662-702-3,hind1269,Hindi  ,1479,ɖaːlpʰin̪,Phonemic,"porpoise, dolphin",saxena702,"su:n̪s 'porpoise', ɖa:lphin̪ 'dolphin'","सूंस, डाल्फिन",Standard
+3-661-702-1,hind1269,Hindi  ,1110,ɕaːrk,Phonemic,shark,saxena702,,शार्क,Standard
+3-655-702-1,hind1269,Hindi  ,598,gʱoŋgʱaː,Phonemic,shell,saxena702,,घोंघा,Standard
+3-654-702-1,hind1269,Hindi  ,1916,galapʰaɽaː,Phonemic,gill,saxena702,,गलफड़ा,Standard
+3-653-702-1,hind1269,Hindi  ,266,ɕalk,Phonemic,fishscale,saxena702,,शल्क,Standard
+3-652-702-1,hind1269,Hindi  ,213,matʃʰaliː kaː par,Phonemic,fin (dorsal),saxena702,,मछली का पर,Standard
+3-650-702-1,hind1269,Hindi  ,227,matʃʰaliː,Phonemic,fish,saxena702,,मछली,Standard
+3-630-702-1,hind1269,Hindi  ,2139,tʃuːhaː,Phonemic,"mouse, rat",saxena702,,चूहा,Standard
+3-622-702-1,hind1269,Hindi  ,309,opoːsam,Phonemic,opossum,saxena702,,ओपॉसम,Standard
+3-620-702-1,hind1269,Hindi  ,1208,billiː,Phonemic,cat,saxena702,,बिल्ली,Standard
+3-614-702-1,hind1269,Hindi  ,1136,kʰaragoɕ,Phonemic,rabbit,saxena702,,खरगोश,Standard
+3-610-702-1,hind1269,Hindi  ,2009,kut̪t̪aː,Phonemic,dog,saxena702,,कुत्ता,Standard
+3-594-702-1,hind1269,Hindi  ,1853,pʰaːkʰat̪aː,Phonemic,dove,saxena702,,फ़ाख़ता,Standard
+3-596-702-1,hind1269,Hindi  ,735,ulluː,Phonemic,owl,saxena702,,उल्लू,Standard
+3-593-702-1,hind1269,Hindi  ,913,kaːk,Phonemic,crow,saxena702,,"काक, कौआ",Standard
+3-593-702-3,hind1269,Hindi  ,913,kɔaː,Phonemic,crow,saxena702,,"काक, कौआ",Standard
+3-592-702-1,hind1269,Hindi  ,882,t̪ot̪aː,Phonemic,parrot,saxena702,,तोता,Standard
+3-591-702-1,hind1269,Hindi  ,1793,tʃamagaːd̪aɽ,Phonemic,bat,saxena702,,चमगादड़,Standard
+3-586-702-1,hind1269,Hindi  ,1185,gid̪d̪ʱ,Phonemic,vulture,saxena702,,गिद्ध,Standard
+3-585-702-1,hind1269,Hindi  ,307,baːdʒ,Phonemic,hawk,saxena702,,बाज,Standard
+3-584-702-1,hind1269,Hindi  ,1905,tʃiːl,Phonemic,eagle,saxena702,,चील,Standard
+3-582-702-1,hind1269,Hindi  ,950,samud̪riː gal,Phonemic,seagull,saxena702,,समुद्री गल,Standard
+3-583-702-1,hind1269,Hindi  ,758,bagalaː,Phonemic,heron,saxena702,,"बगला, सारस",Standard
+3-583-702-3,hind1269,Hindi  ,758,saːras,Phonemic,heron,saxena702,,"बगला, सारस",Standard
+3-581-702-1,hind1269,Hindi  ,937,tʃiɽijaː,Phonemic,bird,saxena702,,चिड़िया,Standard
+3-580-702-1,hind1269,Hindi  ,539,gʱon̪salaː,Phonemic,nest,saxena702,,घोंसला,Standard
+3-570-702-1,hind1269,Hindi  ,1360,bat̪akʰ,Phonemic,duck,saxena702,,बतख़,Standard
+3-560-702-1,hind1269,Hindi  ,1187,maraːl,Phonemic,goose,saxena702,,मराल,Standard
+3-550-702-1,hind1269,Hindi  ,1318,tʃuːdʒaː,Phonemic,chicken,saxena702,,चूज़ा,Standard
+3-540-702-1,hind1269,Hindi  ,1514,murg̣iː,Phonemic,hen,saxena702,,मुर्गी,Standard
+3-520-702-1,hind1269,Hindi  ,1511,murg̣aː,Phonemic,"cock, rooster",saxena702,,मुर्गा,Standard
+3-470-702-1,hind1269,Hindi  ,890,kʰatʃtʃar,Phonemic,mule,saxena702,,खच्चर,Standard
+3-500-702-1,hind1269,Hindi  ,265,murg̣aː,Phonemic,fowl,saxena702,,मुर्गा,Standard
+3-460-702-1,hind1269,Hindi  ,1862,gad̪ʱaː,Phonemic,"ass, donkey",saxena702,,गधा,Standard
+3-450-702-1,hind1269,Hindi  ,1647,batʃʰaɽaː,Phonemic,"foal, colt",saxena702,,बछड़ा,Standard
+3-440-702-1,hind1269,Hindi  ,938,gʱoɽiː,Phonemic,mare,saxena702,,घोड़ी,Standard
+3-420-702-1,hind1269,Hindi  ,936,gʱoɽaː,Phonemic,stallion,saxena702,,घोड़ा,Standard
+3-410-702-1,hind1269,Hindi  ,615,gʱoɽaː,Phonemic,horse (equine),saxena702,,घोड़ा,Standard
+3-380-702-1,hind1269,Hindi  ,1972,bakariː kaː baccaː,Phonemic,kid,saxena702,,बकरी का बच्चा,Standard
+3-370-702-1,hind1269,Hindi  ,264,bakaraː,Phonemic,he-goat,saxena702,,बकरा,Standard
+3-360-702-1,hind1269,Hindi  ,1502,bakariː,Phonemic,goat,saxena702,,बकरी,Standard
+3-350-702-1,hind1269,Hindi  ,1337,suar,Phonemic,pig,saxena702,,सुअर,Standard
+3-340-702-1,hind1269,Hindi  ,1351,suariː,Phonemic,sow (2),saxena702,,सुअरी,Standard
+3-320-702-1,hind1269,Hindi  ,1348,suar,Phonemic,boar,saxena702,,"सुअर, वराह",Standard
+3-320-702-3,hind1269,Hindi  ,1348,varaːh,Phonemic,boar,saxena702,,"सुअर, वराह",Standard
+3-290-702-1,hind1269,Hindi  ,820,meman̪aː,Phonemic,lamb,saxena702,,मेमना,Standard
+3-280-702-1,hind1269,Hindi  ,1345,bʱeɽiː,Phonemic,ewe,saxena702,,भेड़ी,Standard
+3-260-702-1,hind1269,Hindi  ,1344,bʱeɽaː,Phonemic,ram,saxena702,,भेड़ा,Standard
+3-250-702-1,hind1269,Hindi  ,1331,bʱeɽ,Phonemic,sheep,saxena702,,भेड़,Standard
+3-240-702-1,hind1269,Hindi  ,1989,batʃʰaɽaː,Phonemic,calf,saxena702,,बछड़ा,Standard
+3-230-702-1,hind1269,Hindi  ,1007,gaːj,Phonemic,cow,saxena702,,गाय,Standard
+3-220-702-1,hind1269,Hindi  ,1169,bɛl,Phonemic,ox,saxena702,,बैल,Standard
+3-210-702-1,hind1269,Hindi  ,1008,saːn̪ɖ,Phonemic,bull,saxena702,,सांड,Standard
+3-200-702-1,hind1269,Hindi  ,1153,god̪ʱan̪,Phonemic,cattle (bovine),saxena702,,गोधन,Standard
+3-190-702-1,hind1269,Hindi  ,851,ast̪abal,Phonemic,"stable, stall",saxena702,,"अस्तबल, तबेला",Standard
+3-190-702-3,hind1269,Hindi  ,851,t̪abelaː,Phonemic,"stable, stall",saxena702,,"अस्तबल, तबेला",Standard
+3-180-702-1,hind1269,Hindi  ,263,paɕupaːlak,Phonemic,herdsman,saxena702,,पशुपालक,Standard
+3-160-702-1,hind1269,Hindi  ,649,kuːʈn̪aː,Phonemic,pasture,saxena702,,कूटना,Standard
+3-150-702-1,hind1269,Hindi  ,631,paɕud̪ʱan̪,Phonemic,livestock,saxena702,,पशुधन,Standard
+3-130-702-1,hind1269,Hindi  ,2262,maːd̪aː,Phonemic,female (adj),saxena702,,मादा,Standard
+3-120-702-1,hind1269,Hindi  ,2261,n̪ar,Phonemic,male (adj),saxena702,,नर,Standard
+3-110-702-1,hind1269,Hindi  ,619,dʒan̪t̪u,Phonemic,animal,saxena702,,"जंतु, जानवर",Standard
+3-110-702-3,hind1269,Hindi  ,619,dʒaːn̪avar,Phonemic,animal,saxena702,,"जंतु, जानवर",Standard
+2-960-702-1,hind1269,Hindi  ,817,vo,Phonemic,they,saxena702,,"वो, वे",Standard
+2-960-702-3,hind1269,Hindi  ,817,ve,Phonemic,they,saxena702,,"वो, वे",Standard
+2-950-702-1,hind1269,Hindi  ,1213,aːp log,Phonemic,you (plural),saxena702,,"आप लोग, तुम लोग",Standard
+2-950-702-3,hind1269,Hindi  ,1213,tum log,Phonemic,you (plural),saxena702,,"आप लोग, तुम लोग",Standard
+2-942-702-1,hind1269,Hindi  ,1130,ham,Phonemic,we (exclusive),saxena702,,हम,Standard
+2-941-702-1,hind1269,Hindi  ,1131,ham,Phonemic,we (inclusive),saxena702,,हम,Standard
+2-940-702-1,hind1269,Hindi  ,1212,ham,Phonemic,we,saxena702,,हम,Standard
+2-930-702-1,hind1269,Hindi  ,262,vah,Phonemic,he/she/it,saxena702,,वह,Standard
+2-920-702-1,hind1269,Hindi  ,1215,aːp,Phonemic,you (singular),saxena702,,"आप, तुम, तू",Standard
+2-920-702-3,hind1269,Hindi  ,1215,t̪um,Phonemic,you (singular),saxena702,,"आप, तुम, तू",Standard
+2-920-702-5,hind1269,Hindi  ,1215,t̪uː,Phonemic,you (singular),saxena702,,"आप, तुम, तू",Standard
+2-910-702-1,hind1269,Hindi  ,1209,mɛːn̪,Phonemic,I,saxena702,,मैं,Standard
+2-820-702-1,hind1269,Hindi  ,194,parivaːr,Phonemic,family,saxena702,,परिवार,Standard
+2-810-702-1,hind1269,Hindi  ,1644,n̪aːt̪ed̪aːr,Phonemic,"relatives, kinsmen",saxena702,,"नातेदार, रिश्तेदार",Standard
+2-810-702-3,hind1269,Hindi  ,1644,riɕt̪ed̪aːr,Phonemic,"relatives, kinsmen",saxena702,,"नातेदार, रिश्तेदार",Standard
+2-770-702-1,hind1269,Hindi  ,1981,vid̪ʱur,Phonemic,widower,saxena702,,विधुर,Standard
+2-760-702-1,hind1269,Hindi  ,1756,bevaː,Phonemic,widow,saxena702,,"बेवा, विधवा",Standard
+2-760-702-3,hind1269,Hindi  ,1756,vid̪ʱavaː,Phonemic,widow,saxena702,,"बेवा, विधवा",Standard
+2-750-702-1,hind1269,Hindi  ,1149,an̪aːt̪ʰ,Phonemic,orphan,saxena702,,अनाथ,Standard
+2-740-702-1,hind1269,Hindi  ,1058,sɔt̪eliː beʈiː,Phonemic,stepdaughter,saxena702,,सौतेली बेटी,Standard
+2-730-702-1,hind1269,Hindi  ,1059,sɔt̪elaː beʈaː,Phonemic,stepson,saxena702,,सौतेला बेटा,Standard
+2-720-702-1,hind1269,Hindi  ,236,sɔt̪eliː maːn̪,Phonemic,stepmother,saxena702,,"सौतेली मां, विमाता",Standard
+2-720-702-3,hind1269,Hindi  ,236,vimaːt̪aː,Phonemic,stepmother,saxena702,,"सौतेली मां, विमाता",Standard
+2-710-702-1,hind1269,Hindi  ,237,sɔt̪elaː baːp,Phonemic,stepfather,saxena702,,"सौतेला बाप, सौतेला पिता",Standard
+2-710-702-3,hind1269,Hindi  ,237,sɔt̪elaː pit̪aː,Phonemic,stepfather,saxena702,,"सौतेला बाप, सौतेला पिता",Standard
+2-641-702-1,hind1269,Hindi  ,2264,bahuː,Phonemic,daughter-in-law (of a woman),saxena702,,बहू,Standard
+2-640-702-1,hind1269,Hindi  ,2265,bahuː,Phonemic,daughter-in-law (of a man),saxena702,,बहू,Standard
+2-631-702-1,hind1269,Hindi  ,2266,dʒamaːiː,Phonemic,son-in-law (of a woman),saxena702,,जमाई,Standard
+2-630-702-1,hind1269,Hindi  ,2267,dʒamaːiː,Phonemic,son-in-law (of a man),saxena702,,जमाई,Standard
+2-621-702-1,hind1269,Hindi  ,2257,saːs,Phonemic,mother-in-law (of a woman),saxena702,,सास,Standard
+2-620-702-1,hind1269,Hindi  ,2256,saːs,Phonemic,mother-in-law (of a man),saxena702,,सास,Standard
+2-611-702-1,hind1269,Hindi  ,2254,sasur,Phonemic,father-in-law (of a woman),saxena702,,ससुर,Standard
+2-610-702-1,hind1269,Hindi  ,2255,sasur,Phonemic,father-in-law (of a man),saxena702,,ससुर,Standard
+2-570-702-1,hind1269,Hindi  ,490,van̪ɕadʒ,Phonemic,descendants,saxena702,,वंशज,Standard
+2-560-702-1,hind1269,Hindi  ,1669,puravadʒ,Phonemic,ancestors,saxena702,,पूर्वज,Standard
+2-550-702-1,hind1269,Hindi  ,1643,tʃatʃeraː bʱaːiː,Phonemic,cousin,saxena702,"tʃatʃera: bʱa:i: &amp; tʃatʃeri: bahan̪ (paternal), mamera: bʱa:i: &amp; mameri: bahan̪ (maternal)","चचेरा भाई, चचेरी बहन, ममेरा भाई, ममेरी बहन",Standard
+2-550-702-3,hind1269,Hindi  ,1643,tʃatʃeriː bahan̪,Phonemic,cousin,saxena702,"tʃatʃera: bʱa:i: &amp; tʃatʃeri: bahan̪ (paternal), mamera: bʱa:i: &amp; mameri: bahan̪ (maternal)","चचेरा भाई, चचेरी बहन, ममेरा भाई, ममेरी बहन",Standard
+2-550-702-5,hind1269,Hindi  ,1643,mameraː bʱaːiː,Phonemic,cousin,saxena702,"tʃatʃera: bʱa:i: &amp; tʃatʃeri: bahan̪ (paternal), mamera: bʱa:i: &amp; mameri: bahan̪ (maternal)","चचेरा भाई, चचेरी बहन, ममेरा भाई, ममेरी बहन",Standard
+2-550-702-7,hind1269,Hindi  ,1643,mameriː bahan̪,Phonemic,cousin,saxena702,"tʃatʃera: bʱa:i: &amp; tʃatʃeri: bahan̪ (paternal), mamera: bʱa:i: &amp; mameri: bahan̪ (maternal)","चचेरा भाई, चचेरी बहन, ममेरा भाई, ममेरी बहन",Standard
+2-540-702-1,hind1269,Hindi  ,1642,bʱat̪iːdʒiː,Phonemic,niece,saxena702,"bɦat̪i:dʒi: 'paternal niece', bɦa:ndʒi: 'maternal niece'","भतीजी, भांजी",Standard
+2-540-702-3,hind1269,Hindi  ,1642,bʱaːn̪dʒiː,Phonemic,niece,saxena702,"bɦat̪i:dʒi: 'paternal niece', bɦa:ndʒi: 'maternal niece'","भतीजी, भांजी",Standard
+2-530-702-1,hind1269,Hindi  ,1063,bʱat̪iːdʒaː,Phonemic,nephew,saxena702,"bɦat̪i:dʒa:'paternal nephew', bɦa:ndʒa: 'maternal nephew'","भतीजा, भांजा",Standard
+2-530-702-3,hind1269,Hindi  ,1063,bʱaːn̪dʒaː,Phonemic,nephew,saxena702,"bɦat̪i:dʒa:'paternal nephew', bɦa:ndʒa: 'maternal nephew'","भतीजा, भांजा",Standard
+2-522-702-1,hind1269,Hindi  ,170,buaː,Phonemic,father's sister,saxena702,,बुआ,Standard
+2-520-702-1,hind1269,Hindi  ,1272,buaː,Phonemic,aunt,saxena702,"bua: 'paternal aunt', ma:nsi: 'maternal aunt'","बुआ, मांसी",Standard
+2-520-702-3,hind1269,Hindi  ,1272,maːn̪siː,Phonemic,aunt,saxena702,"bua: 'paternal aunt', ma:nsi: 'maternal aunt'","बुआ, मांसी",Standard
+2-521-702-1,hind1269,Hindi  ,171,maːn̪siː,Phonemic,mother's sister,saxena702,,मांसी,Standard
+2-512-702-1,hind1269,Hindi  ,1985,kaːkaː,Phonemic,father's brother,saxena702,"tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, चाचा, ताउ",Standard
+2-512-702-3,hind1269,Hindi  ,1985,tʃaːtʃaː,Phonemic,father's brother,saxena702,"tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, चाचा, ताउ",Standard
+2-512-702-5,hind1269,Hindi  ,1985,t̪aːu,Phonemic,father's brother,saxena702,"tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, चाचा, ताउ",Standard
+2-511-702-1,hind1269,Hindi  ,1984,maːmaː,Phonemic,mother's brother,saxena702,,मामा,Standard
+2-510-702-1,hind1269,Hindi  ,1327,kaːkaː,Phonemic,uncle,saxena702,"ma:ma: 'maternal uncle', tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, मामा, चाचा, ताउ",Standard
+2-510-702-3,hind1269,Hindi  ,1327,maːmaː,Phonemic,uncle,saxena702,"ma:ma: 'maternal uncle', tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, मामा, चाचा, ताउ",Standard
+2-510-702-5,hind1269,Hindi  ,1327,tʃaːtʃaː,Phonemic,uncle,saxena702,"ma:ma: 'maternal uncle', tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, मामा, चाचा, ताउ",Standard
+2-510-702-7,hind1269,Hindi  ,1327,t̪aːu,Phonemic,uncle,saxena702,"ma:ma: 'maternal uncle', tʃa:tʃa: 'paternal uncle who is younger than father', t̪a:u 'paternal uncle who is older than father'","काका, मामा, चाचा, ताउ",Standard
+2-480-702-1,hind1269,Hindi  ,1618,n̪aːt̪iː,Phonemic,grandson,saxena702,"pot̪a: 'paternal grandson', n̪a:t̪i:'maternal grandson'","नाती, पोता",Standard
+2-480-702-3,hind1269,Hindi  ,1618,pot̪aː,Phonemic,grandson,saxena702,"pot̪a: 'paternal grandson', n̪a:t̪i:'maternal grandson'","नाती, पोता",Standard
+2-490-702-1,hind1269,Hindi  ,1619,n̪aːt̪in̪,Phonemic,granddaughter,saxena702,"n̪a:t̪in̪ maternal granddaughter', pot̪i:'paternal granddaughter'","नातिन, पोती",Standard
+2-490-702-3,hind1269,Hindi  ,1619,pot̪iː,Phonemic,granddaughter,saxena702,"n̪a:t̪in̪ maternal granddaughter', pot̪i:'paternal granddaughter'","नातिन, पोती",Standard
+2-471-702-1,hind1269,Hindi  ,907,buːɽʱiː (ɔrat̪),Phonemic,old woman,saxena702,,बूढ़ी (औरत),Standard
+2-470-702-1,hind1269,Hindi  ,1496,n̪aːn̪iː,Phonemic,grandmother,saxena702,"n̪a:n̪i: 'maternal grandmother', d̪a:d̪i: 'paternal grandmother'","नानी, दादी",Standard
+2-470-702-3,hind1269,Hindi  ,1496,d̪aːd̪iː,Phonemic,grandmother,saxena702,"n̪a:n̪i: 'maternal grandmother', d̪a:d̪i: 'paternal grandmother'","नानी, दादी",Standard
+2-461-702-1,hind1269,Hindi  ,406,buːɽʱaː (aːd̪amiː),Phonemic,old man,saxena702,,बूढ़ा (आदमी),Standard
+2-460-702-1,hind1269,Hindi  ,1383,n̪aːn̪aː,Phonemic,grandfather,saxena702,"n̪a:n̪a: 'maternal grandfather', d̪a:d̪a: 'paternal grandfather'","नाना, दादा",Standard
+2-460-702-3,hind1269,Hindi  ,1383,d̪aːd̪aː,Phonemic,grandfather,saxena702,"n̪a:n̪a: 'maternal grandfather', d̪a:d̪a: 'paternal grandfather'","नाना, दादा",Standard
+2-458-702-1,hind1269,Hindi  ,1005,dʒuɽvaː,Phonemic,twins,saxena702,,जुड़वा,Standard
+2-456-702-1,hind1269,Hindi  ,1640,bʱaːi-bahan̪,Phonemic,sibling,saxena702,,भाई-बहन,Standard
+2-455-702-1,hind1269,Hindi  ,1761,tʃʰoʈiː bahan̪,Phonemic,younger sister,saxena702,,छोटी बहन,Standard
+2-454-702-1,hind1269,Hindi  ,1758,baɽiː bahan̪,Phonemic,older sister,saxena702,,बड़ी बहन,Standard
+2-450-702-1,hind1269,Hindi  ,1263,bahan̪,Phonemic,sister,saxena702,,बहन,Standard
+2-445-702-1,hind1269,Hindi  ,1760,tʃʰoʈa: bʱa:i:,Phonemic,younger brother,saxena702,,छोटा भाई,Standard
+2-444-702-1,hind1269,Hindi  ,1759,baɽaː bʱaːiː,Phonemic,older brother,saxena702,,बड़ा भाई,Standard
+2-440-702-1,hind1269,Hindi  ,1262,bʱaːiː,Phonemic,brother,saxena702,,भाई,Standard
+2-430-702-1,hind1269,Hindi  ,1801,batʃtʃe,Phonemic,offspring (son or daughter),saxena702,,बच्चे,Standard
+2-420-702-1,hind1269,Hindi  ,1357,beʈiː,Phonemic,daughter,saxena702,,"बेटी, लड़की",Standard
+2-420-702-3,hind1269,Hindi  ,1357,laɽakiː,Phonemic,daughter,saxena702,,"बेटी, लड़की",Standard
+2-410-702-1,hind1269,Hindi  ,1620,beʈaː,Phonemic,son,saxena702,,"बेटा, लड़का, पुत्र",Standard
+2-410-702-3,hind1269,Hindi  ,1620,laɽakaː,Phonemic,son,saxena702,,"बेटा, लड़का, पुत्र",Standard
+2-410-702-5,hind1269,Hindi  ,1620,put̪ra,Phonemic,son,saxena702,,"बेटा, लड़का, पुत्र",Standard
+2-390-702-1,hind1269,Hindi  ,426,ɕaːd̪iːɕud̪aː ɔːrat̪,Phonemic,married woman,saxena702,,शादीशुदा औरत,Standard
+2-380-702-1,hind1269,Hindi  ,424,ɕaːd̪iːɕud̪aː aːd̪amiː,Phonemic,married man,saxena702,,शादीशुदा आदमी,Standard
+2-370-702-1,hind1269,Hindi  ,505,maːn̪-baːp,Phonemic,parents,saxena702,,"मां-बाप, माता-पिता",Standard
+2-370-702-3,hind1269,Hindi  ,505,maːt̪aː-pit̪aː,Phonemic,parents,saxena702,,"मां-बाप, माता-पिता",Standard
+2-360-702-1,hind1269,Hindi  ,1216,maːn̪,Phonemic,mother,saxena702,,"मां, माता",Standard
+2-360-702-3,hind1269,Hindi  ,1216,maːt̪aː,Phonemic,mother,saxena702,,"मां, माता",Standard
+2-350-702-1,hind1269,Hindi  ,1217,baːbuː,Phonemic,father,saxena702,,"बाबू, पिता",Standard
+2-350-702-3,hind1269,Hindi  ,1217,pit̪aː,Phonemic,father,saxena702,,"बाबू, पिता",Standard
+2-341-702-1,hind1269,Hindi  ,1134,samban̪d̪ʱ t̪oɽan̪aː,Phonemic,divorce,saxena702,,"संबंध तोड़ना, तलाक",Standard
+2-341-702-3,hind1269,Hindi  ,1134,t̪alaːk,Phonemic,divorce,saxena702,,"संबंध तोड़ना, तलाक",Standard
+2-340-702-1,hind1269,Hindi  ,1259,ɕaːd̪iː,Phonemic,"marriage, wedding",saxena702,,"शादी, विवाह",Standard
+2-340-702-3,hind1269,Hindi  ,1259,vivaːh,Phonemic,"marriage, wedding",saxena702,,"शादी, विवाह",Standard
+2-330-702-1,hind1269,Hindi  ,203,ɕaːd̪iː karan̪aː,Phonemic,marry,saxena702,,"शादी करना, विवाह करना",Standard
+2-330-702-3,hind1269,Hindi  ,203,vivaːh karan̪aː,Phonemic,marry,saxena702,,"शादी करना, विवाह करना",Standard
+2-320-702-1,hind1269,Hindi  ,1199,ɔːrat̪,Phonemic,wife,saxena702,,"औरत, बीवी, पत्नी",Standard
+2-320-702-3,hind1269,Hindi  ,1199,biːviː,Phonemic,wife,saxena702,,"औरत, बीवी, पत्नी",Standard
+2-320-702-5,hind1269,Hindi  ,1199,pat̪n̪iː,Phonemic,wife,saxena702,,"औरत, बीवी, पत्नी",Standard
+2-310-702-1,hind1269,Hindi  ,1200,aːd̪amiː,Phonemic,husband,saxena702,,"आदमी, पति",Standard
+2-310-702-3,hind1269,Hindi  ,1200,pat̪i,Phonemic,husband,saxena702,,"आदमी, पति",Standard
+2-280-702-1,hind1269,Hindi  ,1289,batʃtʃaː,Phonemic,"infant, baby",saxena702,,बच्चा,Standard
+2-270-702-1,hind1269,Hindi  ,1304,batʃtʃaː,Phonemic,child,saxena702,,बच्चा,Standard
+2-261-702-1,hind1269,Hindi  ,77,juvat̪iː,Phonemic,young woman (adolescent),saxena702,,युवती,Standard
+2-260-702-1,hind1269,Hindi  ,1646,laɽakiː,Phonemic,girl,saxena702,,लड़की,Standard
+2-251-702-1,hind1269,Hindi  ,76,juvak,Phonemic,young man (adolescent),saxena702,,युवक,Standard
+2-250-702-1,hind1269,Hindi  ,1366,laɽakaː,Phonemic,boy,saxena702,,लड़का,Standard
+2-240-702-1,hind1269,Hindi  ,1551,st̪raiɳ,Phonemic,female,saxena702,,स्त्रैण,Standard
+2-230-702-1,hind1269,Hindi  ,1553,pulliŋg,Phonemic,male,saxena702,,पुल्लिंग,Standard
+2-220-702-1,hind1269,Hindi  ,962,ɔːurat̪,Phonemic,woman,saxena702,,"औरत, नारी, महिला",Standard
+2-220-702-3,hind1269,Hindi  ,962,n̪aːriː,Phonemic,woman,saxena702,,"औरत, नारी, महिला",Standard
+2-220-702-5,hind1269,Hindi  ,962,mahilaː,Phonemic,woman,saxena702,,"औरत, नारी, महिला",Standard
+2-210-702-1,hind1269,Hindi  ,1554,aːd̪amiː,Phonemic,man (vs. woman),saxena702,,"आदमी, पुरुष, मर्द",Standard
+2-210-702-3,hind1269,Hindi  ,1554,puruʂ,Phonemic,man (vs. woman),saxena702,,"आदमी, पुरुष, मर्द",Standard
+2-210-702-5,hind1269,Hindi  ,1554,mard̪,Phonemic,man (vs. woman),saxena702,,"आदमी, पुरुष, मर्द",Standard
+2-100-702-1,hind1269,Hindi  ,683,aːd̪amiː,Phonemic,"person, human being",saxena702,,"आदमी, लोग",Standard
+2-100-702-3,hind1269,Hindi  ,683,log,Phonemic,"person, human being",saxena702,,"आदमी, लोग",Standard
+1-890-702-1,hind1269,Hindi  ,1188,kojalaː,Phonemic,charcoal,saxena702,,कोयला,Standard
+1-880-702-1,hind1269,Hindi  ,10,iːn̪d̪ʱan̪,Phonemic,firewood,saxena702,,ईंधन,Standard
+1-870-702-1,hind1269,Hindi  ,1133,maːtʃis,Phonemic,match (noun),saxena702,,माचिस,Standard
+1-861-702-1,hind1269,Hindi  ,127,bʱudʒʱaːn̪aː,Phonemic,extinguish,saxena702,,बुझाना,Standard
+1-860-702-1,hind1269,Hindi  ,737,dʒalaːn̪aː,Phonemic,"light, kindle, ignite",saxena702,,जलाना,Standard
+1-852-702-1,hind1269,Hindi  ,1428,dʒalan̪aː,Phonemic,burn (vb intrans),saxena702,,जलना,Standard
+1-851-702-1,hind1269,Hindi  ,141,dʒalaːn̪aː,Phonemic,burn (vb trans),saxena702,,जलाना,Standard
+1-841-702-1,hind1269,Hindi  ,67,aŋgaːr,Phonemic,embers,saxena702,,अंगार,Standard
+1-840-702-1,hind1269,Hindi  ,646,bʱasm,Phonemic,ashes,saxena702,,"भस्म, राख, विभूति",Standard
+1-840-702-3,hind1269,Hindi  ,646,raːkʰ,Phonemic,ashes,saxena702,,"भस्म, राख, विभूति",Standard
+1-840-702-5,hind1269,Hindi  ,646,vibʱuːt̪i,Phonemic,ashes,saxena702,,"भस्म, राख, विभूति",Standard
+1-830-702-1,hind1269,Hindi  ,778,d̪ʱuaːn̪,Phonemic,smoke (noun),saxena702,,धुआं,Standard
+1-820-702-1,hind1269,Hindi  ,889,lapaʈ,Phonemic,flame (noun),saxena702,,"लपट, लौ",Standard
+1-820-702-3,hind1269,Hindi  ,889,lɔ,Phonemic,flame (noun),saxena702,,"लपट, लौ",Standard
+1-810-702-1,hind1269,Hindi  ,221,agn̪i,Phonemic,fire,saxena702,,"अग्नि, आग",Standard
+1-810-702-3,hind1269,Hindi  ,221,aːg,Phonemic,fire,saxena702,,"अग्नि, आग",Standard
+1-780-702-1,hind1269,Hindi  ,952,mɔsam,Phonemic,weather,saxena702,,मौसम,Standard
+1-770-702-1,hind1269,Hindi  ,617,barpʰ,Phonemic,ice,saxena702,,बर्फ़,Standard
+1-760-702-1,hind1269,Hindi  ,784,barpʰ,Phonemic,snow (noun),saxena702,,"बर्फ़, हिम",Standard
+1-760-702-3,hind1269,Hindi  ,784,him,Phonemic,snow (noun),saxena702,,"बर्फ़, हिम",Standard
+1-750-702-1,hind1269,Hindi  ,658,barasaːt̪,Phonemic,rain (noun),saxena702,,"बरसात, बारिश",Standard
+1-750-702-3,hind1269,Hindi  ,658,baːriɕ,Phonemic,rain (noun),saxena702,,"बरसात, बारिश",Standard
+1-740-702-1,hind1269,Hindi  ,249,d̪ʱun̪d̪ʱ,Phonemic,fog,saxena702,,"धुंध, कुहरा",Standard
+1-740-702-3,hind1269,Hindi  ,249,kuharaː,Phonemic,fog,saxena702,,"धुंध, कुहरा",Standard
+1-720-702-1,hind1269,Hindi  ,960,pavan̪,Phonemic,wind,saxena702,,"पवन, हवा",Standard
+1-720-702-3,hind1269,Hindi  ,960,havaː,Phonemic,wind,saxena702,,"पवन, हवा",Standard
+1-730-702-1,hind1269,Hindi  ,1489,baːd̪al,Phonemic,cloud,saxena702,,"बादल, मेघ",Standard
+1-730-702-3,hind1269,Hindi  ,1489,megʱ,Phonemic,cloud,saxena702,,"बादल, मेघ",Standard
+1-710-702-1,hind1269,Hindi  ,27,an̪il,Phonemic,air,saxena702,,"अनिल, हवा",Standard
+1-710-702-3,hind1269,Hindi  ,27,havaː,Phonemic,air,saxena702,,"अनिल, हवा",Standard
+1-640-702-1,hind1269,Hindi  ,1977,os,Phonemic,dew,saxena702,,"ओस, नीहार",Standard
+1-640-702-3,hind1269,Hindi  ,1977,n̪iːhaːr,Phonemic,dew,saxena702,,"ओस, नीहार",Standard
+1-630-702-1,hind1269,Hindi  ,1388,tʃʰaːjaː,Phonemic,"shade, shadow",saxena702,,"छाया, परछाईं, साया",Standard
+1-630-702-3,hind1269,Hindi  ,1388,paratʃʰaːiːn̪,Phonemic,"shade, shadow",saxena702,,"छाया, परछाईं, साया",Standard
+1-630-702-5,hind1269,Hindi  ,1388,saːjaː,Phonemic,"shade, shadow",saxena702,,"छाया, परछाईं, साया",Standard
+1-620-702-1,hind1269,Hindi  ,11,an̪d̪ʱakaːr,Phonemic,darkness,saxena702,,"अंधकार, अंधेरा",Standard
+1-620-702-3,hind1269,Hindi  ,11,an̪d̪ʱeraː,Phonemic,darkness,saxena702,,"अंधकार, अंधेरा",Standard
+1-610-702-1,hind1269,Hindi  ,630,dʒjot̪i,Phonemic,light (noun),saxena702,,"ज्योति, रोशनी",Standard
+1-610-702-3,hind1269,Hindi  ,630,roɕan̪iː,Phonemic,light (noun),saxena702,,"ज्योति, रोशनी",Standard
+1-590-702-1,hind1269,Hindi  ,1733,ind̪rad̪ʱan̪uʂ,Phonemic,rainbow,saxena702,,इंद्रधनुष,Standard
+1-580-702-1,hind1269,Hindi  ,858,aːn̪d̪ʱiː,Phonemic,storm,saxena702,,"आंधी, झक्कड़, तूफ़ान",Standard
+1-580-702-3,hind1269,Hindi  ,858,dʒʱakkaɽ,Phonemic,storm,saxena702,,"आंधी, झक्कड़, तूफ़ान",Standard
+1-580-702-5,hind1269,Hindi  ,858,t̪uːpʰaːn̪,Phonemic,storm,saxena702,,"आंधी, झक्कड़, तूफ़ान",Standard
+1-560-702-1,hind1269,Hindi  ,1150,garadʒ,Phonemic,thunder,saxena702,,"गरज, कड़क",Standard
+1-560-702-3,hind1269,Hindi  ,1150,kaɽak,Phonemic,thunder,saxena702,,"गरज, कड़क",Standard
+1-570-702-1,hind1269,Hindi  ,2007,bidʒaliː,Phonemic,lightning (as striking),saxena702,,"बिजली, गाज",Standard
+1-570-702-3,hind1269,Hindi  ,2007,gaːdʒ,Phonemic,lightning (as striking),saxena702,,"बिजली, गाज",Standard
+1-550-702-1,hind1269,Hindi  ,1654,bidʒaliː,Phonemic,lightning,saxena702,,"बिजली, गाज",Standard
+1-550-702-3,hind1269,Hindi  ,1654,gaːdʒ,Phonemic,lightning,saxena702,,"बिजली, गाज",Standard
+1-540-702-1,hind1269,Hindi  ,1430,n̪akɕat̪ra,Phonemic,star,saxena702,,"नक्षत्र, सितारा, तारा",Standard
+1-540-702-3,hind1269,Hindi  ,1430,sit̪aːraː,Phonemic,star,saxena702,,"नक्षत्र, सितारा, तारा",Standard
+1-540-702-5,hind1269,Hindi  ,1430,t̪aːraː,Phonemic,star,saxena702,,"नक्षत्र, सितारा, तारा",Standard
+1-530-702-1,hind1269,Hindi  ,1313,tʃan̪d̪ramaː,Phonemic,moon,saxena702,,"चंद्रमा, चांद",Standard
+1-530-702-3,hind1269,Hindi  ,1313,tʃaːn̪d̪,Phonemic,moon,saxena702,,"चंद्रमा, चांद",Standard
+1-520-702-1,hind1269,Hindi  ,1343,d̪in̪eɕ,Phonemic,sun,saxena702,,"दिनेश, सूरज",Standard
+1-520-702-3,hind1269,Hindi  ,1343,suːradʒ,Phonemic,sun,saxena702,,"दिनेश, सूरज",Standard
+1-510-702-1,hind1269,Hindi  ,1732,aːkaːɕ,Phonemic,sky,saxena702,,"आकाश, आसमान, गगन",Standard
+1-510-702-3,hind1269,Hindi  ,1732,aːsamaːn̪,Phonemic,sky,saxena702,,"आकाश, आसमान, गगन",Standard
+1-510-702-5,hind1269,Hindi  ,1732,gagan̪,Phonemic,sky,saxena702,,"आकाश, आसमान, गगन",Standard
+1-450-702-1,hind1269,Hindi  ,6,bʱuːkamp,Phonemic,earthquake,saxena702,,भूकंप,Standard
+1-440-702-1,hind1269,Hindi  ,2125,tʃaʈʈaːn̪,Phonemic,"stone, rock",saxena702,,चट्टान,Standard
+1-430-702-1,hind1269,Hindi  ,1803,kaːʈʰ,Phonemic,wood,saxena702,,"काठ, लकड़ी",Standard
+1-430-702-3,hind1269,Hindi  ,1803,lakaɽiː,Phonemic,wood,saxena702,,"काठ, लकड़ी",Standard
+1-410-702-1,hind1269,Hindi  ,420,ban̪,Phonemic,"woods, forest",saxena702,,"बन, जंगल, वन",Standard
+1-410-702-3,hind1269,Hindi  ,420,dʒaŋgal,Phonemic,"woods, forest",saxena702,,"बन, जंगल, वन",Standard
+1-410-702-5,hind1269,Hindi  ,420,van̪,Phonemic,"woods, forest",saxena702,,"बन, जंगल, वन",Standard
+1-390-702-1,hind1269,Hindi  ,943,dʒʱaran̪aː,Phonemic,waterfall,saxena702,,झरना,Standard
+1-380-702-1,hind1269,Hindi  ,1145,d̪ald̪al,Phonemic,swamp,saxena702,,दलदल,Standard
+1-370-702-1,hind1269,Hindi  ,2144,tʃaɕamaː,Phonemic,"spring, well",saxena702,,"चश्मा, झरना, कुआँ",Standard
+1-370-702-3,hind1269,Hindi  ,2144,dʒʱaran̪aː,Phonemic,"spring, well",saxena702,,"चश्मा, झरना, कुआँ",Standard
+1-370-702-5,hind1269,Hindi  ,2144,kuaːn̪,Phonemic,"spring, well",saxena702,,"चश्मा, झरना, कुआँ",Standard
+1-362-702-1,hind1269,Hindi  ,1982,bʱan̪var,Phonemic,whirlpool,saxena702,,भंवर,Standard
+1-360-702-1,hind1269,Hindi  ,666,d̪arijɑː,Phonemic,"river, stream, brook",saxena702,,"दरिया, धारा, नदी",Standard
+1-360-702-3,hind1269,Hindi  ,666,d̪ʱaːraː,Phonemic,"river, stream, brook",saxena702,,"दरिया, धारा, नदी",Standard
+1-360-702-5,hind1269,Hindi  ,666,n̪ad̪iː,Phonemic,"river, stream, brook",saxena702,,"दरिया, धारा, नदी",Standard
+1-354-702-1,hind1269,Hindi  ,613,puːrabelaː,Phonemic,hightide,saxena702,,पूरबेला,Standard
+1-353-702-1,hind1269,Hindi  ,1026,bʱaːʈaː,Phonemic,lowtide,saxena702,,भाटा,Standard
+1-352-702-1,hind1269,Hindi  ,891,dʒvaːr,Phonemic,tide,saxena702,,ज्वार,Standard
+1-350-702-1,hind1269,Hindi  ,978,lehar,Phonemic,wave,saxena702,,लहर,Standard
+1-343-702-1,hind1269,Hindi  ,1662,ant̪ariːp,Phonemic,"headland, point",saxena702,,अंतरीप,Standard
+1-342-702-1,hind1269,Hindi  ,660,bʱit̪t̪i,Phonemic,reef,saxena702,,"भित्ति, रिफ़, शेल",Standard
+1-342-702-3,hind1269,Hindi  ,660,riːpʰ,Phonemic,reef,saxena702,,"भित्ति, रिफ़, शेल",Standard
+1-342-702-5,hind1269,Hindi  ,660,ɕel,Phonemic,reef,saxena702,,"भित्ति, रिफ़, शेल",Standard
+1-341-702-1,hind1269,Hindi  ,623,dʒʱiːl,Phonemic,lagoon,saxena702,,"झील, लगून",Standard
+1-341-702-3,hind1269,Hindi  ,623,laguːn̪,Phonemic,lagoon,saxena702,,"झील, लगून",Standard
+1-340-702-1,hind1269,Hindi  ,663,kʰaːɽiː,Phonemic,"gulf, bay",saxena702,,खाड़ी,Standard
+1-330-702-1,hind1269,Hindi  ,624,dʒʱiːl,Phonemic,lake,saxena702,,झील,Standard
+1-329-702-1,hind1269,Hindi  ,645,saːgar,Phonemic,ocean,saxena702,,सागर,Standard
+1-324-702-1,hind1269,Hindi  ,1768,pʰen̪,Phonemic,foam,saxena702,,"फेन, झाग",Standard
+1-324-702-3,hind1269,Hindi  ,1768,dʒʱaːg,Phonemic,foam,saxena702,,"फेन, झाग",Standard
+1-323-702-1,hind1269,Hindi  ,259,aɕaːnt̪,Phonemic,rough (of sea),saxena702,,अशांत,Standard
+1-320-702-1,hind1269,Hindi  ,1474,samud̪ra,Phonemic,sea,saxena702,,समुद्र,Standard
+1-322-702-1,hind1269,Hindi  ,258,ɕaːn̪t̪,Phonemic,calm (of sea),saxena702,,शान्त,Standard
+1-310-702-1,hind1269,Hindi  ,948,paːn̪iː,Phonemic,water,saxena702,,"पानी, नीर",Standard
+1-310-702-3,hind1269,Hindi  ,948,n̪iːr,Phonemic,water,saxena702,,"पानी, नीर",Standard
+1-280-702-1,hind1269,Hindi  ,1155,gupʰaː,Phonemic,cave,saxena702,,गुफा,Standard
+1-270-702-1,hind1269,Hindi  ,113,kin̪aːraː,Phonemic,shore,saxena702,,"किनारा, तट",Standard
+1-270-702-3,hind1269,Hindi  ,113,t̪aʈ,Phonemic,shore,saxena702,,"किनारा, तट",Standard
+1-260-702-1,hind1269,Hindi  ,166,mukʰja bʱuːbʱaːg,Phonemic,mainland,saxena702,,मुख्य भूभाग,Standard
+1-250-702-1,hind1269,Hindi  ,622,d̪viːp,Phonemic,island,saxena702,,"द्वीप, टापू",Standard
+1-250-702-3,hind1269,Hindi  ,622,ʈaːpuː,Phonemic,island,saxena702,,"द्वीप, टापू",Standard
+1-240-702-1,hind1269,Hindi  ,921,gʱaːʈiː,Phonemic,valley,saxena702,,घाटी,Standard
+1-230-702-1,hind1269,Hindi  ,652,samat̪al,Phonemic,"plain, field",saxena702,,"समतल, सपाट",Standard
+1-230-702-3,hind1269,Hindi  ,652,sapaːʈ,Phonemic,"plain, field",saxena702,,"समतल, सपाट",Standard
+1-222-702-1,hind1269,Hindi  ,618,tʃaʈʈaːn̪,Phonemic,"cliff, precipice",saxena702,,"चट्टान, शिला",Standard
+1-222-702-3,hind1269,Hindi  ,618,ɕilaː,Phonemic,"cliff, precipice",saxena702,,"चट्टान, शिला",Standard
+1-220-702-1,hind1269,Hindi  ,2118,pahaːɽ,Phonemic,"mountain, hill",saxena702,,"पहाड़, पर्वत",Standard
+1-220-702-3,hind1269,Hindi  ,2118,parvat̪,Phonemic,"mountain, hill",saxena702,,"पहाड़, पर्वत",Standard
+1-214-702-1,hind1269,Hindi  ,640,kiːtʃaɽ,Phonemic,mud,saxena702,,कीचड़,Standard
+1-215-702-1,hind1269,Hindi  ,671,baːluː,Phonemic,sand,saxena702,,"बालू, रेत",Standard
+1-215-702-3,hind1269,Hindi  ,671,ret̪,Phonemic,sand,saxena702,,"बालू, रेत",Standard
+1-213-702-1,hind1269,Hindi  ,2,d̪ʱuːl,Phonemic,dust,saxena702,,"धूल, गर्द",Standard
+1-213-702-3,hind1269,Hindi  ,2,gard̪,Phonemic,dust,saxena702,,"धूल, गर्द",Standard
+1-212-702-1,hind1269,Hindi  ,1228,miʈʈiː,Phonemic,"earth=ground, soil",saxena702,,मिट्टी,Standard
+1-210-702-1,hind1269,Hindi  ,626,bʱuːmi,Phonemic,"earth, land",saxena702,,"भूमि, थल",Standard
+1-210-702-3,hind1269,Hindi  ,626,t̪ʰal,Phonemic,"earth, land",saxena702,,"भूमि, थल",Standard
+1-100-702-1,hind1269,Hindi  ,965,dʒag,Phonemic,world,saxena702,,"जग, संसार, विश्व",Standard
+1-100-702-3,hind1269,Hindi  ,965,sansaːr,Phonemic,world,saxena702,,"जग, संसार, विश्व",Standard
+1-100-702-5,hind1269,Hindi  ,965,viɕva,Phonemic,world,saxena702,,"जग, संसार, विश्व",Standard
+14-330-702-1,hind1269,Hindi  ,1544,kabʱiː,Phonemic,sometimes,saxena702,,कभी,Standard
+14-331-702-1,hind1269,Hindi  ,703,ɕiːgʰra,Phonemic,soon,saxena702,,"शीघ्र, तुरंत",Standard
+14-331-702-3,hind1269,Hindi  ,703,t̪uran̪t̪,Phonemic,soon,saxena702,,"शीघ्र, तुरंत",Standard
+14-332-702-1,hind1269,Hindi  ,418,bahut̪ samaj t̪ak,Phonemic,long-time (for a),saxena702,,बहुत समय तक,Standard
+14-340-702-1,hind1269,Hindi  ,1656,kad̪aːpi,Phonemic,never,saxena702,,कदापि,Standard
+14-350-702-1,hind1269,Hindi  ,204,pʰir,Phonemic,again,saxena702,,फिर,Standard
+14-410-702-1,hind1269,Hindi  ,1225,d̪in̪,Phonemic,day,saxena702,,दिन,Standard
+14-420-702-1,hind1269,Hindi  ,1233,raːt̪,Phonemic,night,saxena702,,रात,Standard
+14-430-702-1,hind1269,Hindi  ,729,uɕaː,Phonemic,dawn,saxena702,,उशा,Standard
+14-440-702-1,hind1269,Hindi  ,1339,subah,Phonemic,morning,saxena702,,सुबह,Standard
+14-450-702-1,hind1269,Hindi  ,12,d̪opahar,Phonemic,"noon, midday",saxena702,,दोपहर,Standard
+14-451-702-1,hind1269,Hindi  ,1807,d̪opahar,Phonemic,afternoon,saxena702,,"दोपहर, तीसरा पहर",Standard
+14-451-702-3,hind1269,Hindi  ,1807,t̪iːsaraː pahar,Phonemic,afternoon,saxena702,,"दोपहर, तीसरा पहर",Standard
+14-460-702-1,hind1269,Hindi  ,1629,ɕaːm,Phonemic,evening,saxena702,,"शाम, संध्या",Standard
+14-460-702-3,hind1269,Hindi  ,1629,sand̪ʱjaː,Phonemic,evening,saxena702,,"शाम, संध्या",Standard
+14-470-702-1,hind1269,Hindi  ,1283,aːdʒ,Phonemic,today,saxena702,,आज,Standard
+14-480-702-1,hind1269,Hindi  ,1329,kal,Phonemic,tomorrow,saxena702,,कल,Standard
+14-481-702-1,hind1269,Hindi  ,1179,paraso,Phonemic,day-after-tomorrow,saxena702,,परसो,Standard
+14-490-702-1,hind1269,Hindi  ,1174,kal,Phonemic,yesterday,saxena702,,कल,Standard
+14-491-702-1,hind1269,Hindi  ,1180,paraso,Phonemic,day-before-yesterday,saxena702,,परसो,Standard
+14-510-702-1,hind1269,Hindi  ,1353,gʱan̪ʈaː,Phonemic,hour,saxena702,,घंटा,Standard
+14-530-702-1,hind1269,Hindi  ,1323,gʱaːɽiː,Phonemic,"clock, timepiece",saxena702,,घड़ी,Standard
+14-610-702-1,hind1269,Hindi  ,1469,hapʰt̪aː,Phonemic,week,saxena702,,"हफ्ता, सप्ताह",Standard
+14-610-702-3,hind1269,Hindi  ,1469,sapt̪aːh,Phonemic,week,saxena702,,"हफ्ता, सप्ताह",Standard
+14-620-702-1,hind1269,Hindi  ,1699,it̪avaːr,Phonemic,Sunday,saxena702,,"इतवार, रविवार",Standard
+14-620-702-3,hind1269,Hindi  ,1699,ravivaːr,Phonemic,Sunday,saxena702,,"इतवार, रविवार",Standard
+14-630-702-1,hind1269,Hindi  ,1697,somavaːr,Phonemic,Monday,saxena702,,सोमवार,Standard
+14-640-702-1,hind1269,Hindi  ,1695,maŋgalvaːr,Phonemic,Tuesday,saxena702,,मंगलवार,Standard
+14-650-702-1,hind1269,Hindi  ,1694,bud̪ʱavaːr,Phonemic,Wednesday,saxena702,,बुधवार,Standard
+14-660-702-1,hind1269,Hindi  ,1693,brahaspat̪ivaːr,Phonemic,Thursday,saxena702,,ब्रहसपतिवार,Standard
+14-670-702-1,hind1269,Hindi  ,1692,ɕukravaːr,Phonemic,Friday,saxena702,,शुक्रवार,Standard
+14-680-702-1,hind1269,Hindi  ,1700,ɕan̪ivaːr,Phonemic,Saturday,saxena702,,शनिवार,Standard
+14-710-702-1,hind1269,Hindi  ,1370,mahiːn̪aː,Phonemic,month,saxena702,,महीना,Standard
+14-730-702-1,hind1269,Hindi  ,1226,baras,Phonemic,year,saxena702,,"बरस, साल, वर्ष",Standard
+14-730-702-3,hind1269,Hindi  ,1226,saːl,Phonemic,year,saxena702,,"बरस, साल, वर्ष",Standard
+14-730-702-5,hind1269,Hindi  ,1226,varʂ,Phonemic,year,saxena702,,"बरस, साल, वर्ष",Standard
+14-740-702-1,hind1269,Hindi  ,1471,sard̪iː,Phonemic,winter,saxena702,,"सर्दी, जाड़ा",Standard
+14-740-702-3,hind1269,Hindi  ,1471,dʒaːɽaː,Phonemic,winter,saxena702,,"सर्दी, जाड़ा",Standard
+14-750-702-1,hind1269,Hindi  ,1537,vasan̪t̪,Phonemic,spring,saxena702,,वसन्त,Standard
+14-760-702-1,hind1269,Hindi  ,1342,garmiː,Phonemic,summer,saxena702,,"गर्मी, ग्रीष्म",Standard
+14-760-702-3,hind1269,Hindi  ,1342,griːʂm,Phonemic,summer,saxena702,,"गर्मी, ग्रीष्म",Standard
+14-770-702-1,hind1269,Hindi  ,1276,ɕarad̪,Phonemic,autumn,saxena702,,शरद,Standard
+14-780-702-1,hind1269,Hindi  ,691,rat̪u,Phonemic,season,saxena702,,ऋतु,Standard
+15-210-702-1,hind1269,Hindi  ,1587,kʰuɕabuː aːn̪aː,Phonemic,smell (vb intrans),saxena702,,खुशबू आना,Standard
+15-212-702-1,hind1269,Hindi  ,375,suːŋgʱan̪aː,Phonemic,sniff,saxena702,,सू॑घना,Standard
+15-220-702-1,hind1269,Hindi  ,1586,suːŋgʱ an̪aː,Phonemic,smell (vb trans),saxena702,,सू॑घ आना,Standard
+15-250-702-1,hind1269,Hindi  ,376,kʰuɕabuː,Phonemic,"fragrant, good smelling",saxena702,,खुशबू,Standard
+15-260-702-1,hind1269,Hindi  ,42,bad̪abuː,Phonemic,"stinking, bad smelling",saxena702,,बदबू,Standard
+15-310-702-1,hind1269,Hindi  ,21,tʃakʰan̪aː,Phonemic,taste,saxena702,,चखना,Standard
+15-350-702-1,hind1269,Hindi  ,717,miːʈʰaː,Phonemic,sweet,saxena702,,मीठा,Standard
+15-360-702-1,hind1269,Hindi  ,1091,n̪amakiːn̪,Phonemic,salty,saxena702,,नमकीन,Standard
+15-370-702-1,hind1269,Hindi  ,887,kaɽavaː,Phonemic,bitter,saxena702,,कड़वा,Standard
+15-380-702-1,hind1269,Hindi  ,1906,kʰaʈʈaː,Phonemic,"acid, sour",saxena702,,खट्टा,Standard
+15-390-702-1,hind1269,Hindi  ,70,kʰaːraː,Phonemic,brackish,saxena702,,खारा,Standard
+15-410-702-1,hind1269,Hindi  ,1408,sun̪aiː d̪en̪aː,Phonemic,hear,saxena702,,सुनाई देना,Standard
+15-420-702-1,hind1269,Hindi  ,1608,sun̪an̪aː,Phonemic,listen,saxena702,,सुनना,Standard
+15-440-702-1,hind1269,Hindi  ,1811,aːvaːdʒ,Phonemic,"sound, noise",saxena702,,आवाज,Standard
+15-450-702-1,hind1269,Hindi  ,377,d̪ʱamaːkaː,Phonemic,loud,saxena702,,धमाका,Standard
+15-460-702-1,hind1269,Hindi  ,1314,ɕːan̪t̪i,Phonemic,"quiet, silence",saxena702,,"शांति, चुप",Standard
+15-460-702-3,hind1269,Hindi  ,1314,tʃup,Phonemic,"quiet, silence",saxena702,,"शांति, चुप",Standard
+15-510-702-1,hind1269,Hindi  ,1409,d̪ekʰan̪aː,Phonemic,see,saxena702,,देखना,Standard
+15-520-702-1,hind1269,Hindi  ,1819,d̪ekʰan̪aː,Phonemic,"look, look at",saxena702,,देखना,Standard
+15-550-702-1,hind1269,Hindi  ,1039,d̪ikʰaːn̪aː,Phonemic,show,saxena702,,दिखाना,Standard
+15-560-702-1,hind1269,Hindi  ,708,tʃamakan̪aː,Phonemic,shine,saxena702,,चमकना,Standard
+15-570-702-1,hind1269,Hindi  ,679,udʒaːlaː,Phonemic,bright,saxena702,,उजाला,Standard
+15-610-702-1,hind1269,Hindi  ,1613,raŋg,Phonemic,color,saxena702,,रंग,Standard
+15-620-702-1,hind1269,Hindi  ,250,aːlok,Phonemic,light (in color),saxena702,,"आलोक, उजाला",Standard
+15-620-702-3,hind1269,Hindi  ,250,udʒaːlaː,Phonemic,light (in color),saxena702,,"आलोक, उजाला",Standard
+15-630-702-1,hind1269,Hindi  ,706,an̪d̪ʱeraː,Phonemic,dark (in color),saxena702,,अंधेरा,Standard
+15-640-702-1,hind1269,Hindi  ,1335,safed̪,Phonemic,white,saxena702,,"सफेद, श्वेत",Standard
+15-640-702-3,hind1269,Hindi  ,1335,ɕvet,Phonemic,white,saxena702,,"सफेद, श्वेत",Standard
+15-650-702-1,hind1269,Hindi  ,163,kaːlaː,Phonemic,black,saxena702,,काला,Standard
+15-660-702-1,hind1269,Hindi  ,156,laːl,Phonemic,red,saxena702,,लाल,Standard
+15-670-702-1,hind1269,Hindi  ,837,n̪iːlaː,Phonemic,blue,saxena702,,नीला,Standard
+15-680-702-1,hind1269,Hindi  ,1425,haraː,Phonemic,green,saxena702,,हरा,Standard
+15-690-702-1,hind1269,Hindi  ,1424,piːlaː,Phonemic,yellow,saxena702,,पीला,Standard
+15-710-702-1,hind1269,Hindi  ,1892,tʃʰuːn̪aː,Phonemic,touch,saxena702,,छूना,Standard
+15-712-702-1,hind1269,Hindi  ,378,n̪otʃan̪aː,Phonemic,pinch,saxena702,,नोचना,Standard
+15-720-702-1,hind1269,Hindi  ,1079,an̪ubʱav karn̪aː,Phonemic,feel,saxena702,,अनुभव करना,Standard
+15-740-702-1,hind1269,Hindi  ,1884,sakʰt̪,Phonemic,hard,saxena702,,सख्त,Standard
+15-750-702-1,hind1269,Hindi  ,1856,mulaːjam,Phonemic,soft,saxena702,,मुलायम,Standard
+15-760-702-1,hind1269,Hindi  ,1923,kʰurad̪araː,Phonemic,rough,saxena702,,खुरदरा,Standard
+15-770-702-1,hind1269,Hindi  ,1234,tʃikan̪aː,Phonemic,smooth,saxena702,,चिकना,Standard
+15-780-702-1,hind1269,Hindi  ,1396,t̪edʒ,Phonemic,sharp,saxena702,,तेज,Standard
+15-790-702-1,hind1269,Hindi  ,379,kun̪ʈʰit̪,Phonemic,"blunt, dull",saxena702,,कुंठित,Standard
+15-810-702-1,hind1269,Hindi  ,1210,bʱaːriː,Phonemic,heavy,saxena702,,भारी,Standard
+15-820-702-1,hind1269,Hindi  ,1052,halkaː,Phonemic,light (in weight),saxena702,,हलका,Standard
+15-830-702-1,hind1269,Hindi  ,1726,giːla,Phonemic,"wet, damp",saxena702,,गीला,Standard
+15-840-702-1,hind1269,Hindi  ,1398,suːkʰaː,Phonemic,dry,saxena702,,सूखा,Standard
+15-850-702-1,hind1269,Hindi  ,1286,garam,Phonemic,hot,saxena702,,गरम,Standard
+15-851-702-1,hind1269,Hindi  ,1232,garam,Phonemic,warm,saxena702,,गरम,Standard
+15-860-702-1,hind1269,Hindi  ,1287,ʈʰan̪ɖaː,Phonemic,cold,saxena702,,ठंडा,Standard
+15-870-702-1,hind1269,Hindi  ,704,saːpʰ,Phonemic,clean,saxena702,,साफ,Standard
+15-880-702-1,hind1269,Hindi  ,1230,gan̪d̪aː,Phonemic,"dirty, soiled",saxena702,,गंदा,Standard
+15-890-702-1,hind1269,Hindi  ,380,dʒʱurriː,Phonemic,wrinkled,saxena702,,"झुर्री, झुर्रीवाला",Standard
+15-890-702-3,hind1269,Hindi  ,380,dʒʱurriːvaːlaː,Phonemic,wrinkled,saxena702,,"झुर्री, झुर्रीवाला",Standard
+16-110-702-1,hind1269,Hindi  ,53,aːt̪maː,Phonemic,"soul, spirit",saxena702,,आत्मा,Standard
+16-150-702-1,hind1269,Hindi  ,1572,atʃambʱa,Phonemic,"surprised, astonished",saxena702,,"अचंभ, आश्चर्यचकित",Standard
+16-150-702-3,hind1269,Hindi  ,1572,aːɕtʃarjatʃakit̪,Phonemic,"surprised, astonished",saxena702,,"अचंभ, आश्चर्यचकित",Standard
+16-180-702-1,hind1269,Hindi  ,720,kʰuɕkismat̪iː,Phonemic,"good fortune, luck",saxena702,,खुशकिस्मती,Standard
+16-190-702-1,hind1269,Hindi  ,56,bad̪akismat̪iː,Phonemic,"misfortune, bad luck",saxena702,,बदकिस्मती,Standard
+16-230-702-1,hind1269,Hindi  ,1495,kʰuɕ,Phonemic,"joyful, glad, happy",saxena702,,खुश,Standard
+16-250-702-1,hind1269,Hindi  ,1355,han̪san̪aː,Phonemic,laugh,saxena702,,हंसना,Standard
+16-251-702-1,hind1269,Hindi  ,1451,muskuraːn̪aː,Phonemic,smile,saxena702,,मुस्कुराना,Standard
+16-260-702-1,hind1269,Hindi  ,1413,kʰeln̪aː,Phonemic,play,saxena702,,खेलना,Standard
+16-270-702-1,hind1269,Hindi  ,923,pjaːr karan̪aː,Phonemic,love,saxena702,,प्यार करना,Standard
+16-290-702-1,hind1269,Hindi  ,578,tʃuːman̪aː,Phonemic,kiss,saxena702,,चूमना,Standard
+16-300-702-1,hind1269,Hindi  ,928,gale lagan̪aː,Phonemic,embrace,saxena702,,गले लगना,Standard
+16-310-702-1,hind1269,Hindi  ,1783,d̪ard̪,Phonemic,pain,saxena702,,दर्द,Standard
+16-320-702-1,hind1269,Hindi  ,1668,d̪ukʰ,Phonemic,"grief, sorrow, sadness",saxena702,,दुख,Standard
+16-330-702-1,hind1269,Hindi  ,1000,pʰikar,Phonemic,"anxiety, worry",saxena702,,"फिकर, चिंता",Standard
+16-330-702-3,hind1269,Hindi  ,1000,tʃin̪t̪aː,Phonemic,"anxiety, worry",saxena702,,"फिकर, चिंता",Standard
+16-340-702-1,hind1269,Hindi  ,1875,d̪ukʰ hon̪aː,Phonemic,"regret, be sorry",saxena702,,"दुःख होना, दुःख पहुँचना",Standard
+16-340-702-3,hind1269,Hindi  ,1875,d̪ukʰ pahun̪tʃn̪aː,Phonemic,"regret, be sorry",saxena702,,"दुःख होना, दुःख पहुँचना",Standard
+16-350-702-1,hind1269,Hindi  ,1141,t̪aras,Phonemic,pity,saxena702,,तरस,Standard
+16-370-702-1,hind1269,Hindi  ,1839,ron̪aː,Phonemic,"cry, weep",saxena702,,रोना,Standard
+16-380-702-1,hind1269,Hindi  ,1651,aːn̪suː,Phonemic,tear (noun),saxena702,,आंसू,Standard
+16-390-702-1,hind1269,Hindi  ,716,karaːhan̪aː,Phonemic,groan,saxena702,,कराहना,Standard
+16-410-702-1,hind1269,Hindi  ,1607,gʱraɳaː karan̪aː,Phonemic,hate,saxena702,,घृणा करना,Standard
+16-420-702-1,hind1269,Hindi  ,82,gussaː,Phonemic,anger,saxena702,,"गुस्सा, क्रोध",Standard
+16-420-702-3,hind1269,Hindi  ,82,krod̪ʱ,Phonemic,anger,saxena702,,"गुस्सा, क्रोध",Standard
+16-440-702-1,hind1269,Hindi  ,40,iːrʂjaː,Phonemic,"envy, jealousy",saxena702,,"ईर्ष्या, जलन",Standard
+16-440-702-3,hind1269,Hindi  ,40,dʒalan̪,Phonemic,"envy, jealousy",saxena702,,"ईर्ष्या, जलन",Standard
+16-450-702-1,hind1269,Hindi  ,1776,ɕaram,Phonemic,shame (noun),saxena702,,शर्म,Standard
+16-480-702-1,hind1269,Hindi  ,174,abʱimaːn̪,Phonemic,proud,saxena702,,अभिमान,Standard
+16-510-702-1,hind1269,Hindi  ,1779,tʃun̪ɔt̪iː d̪en̪aː,Phonemic,dare,saxena702,,"चुनौती देना, चुनौती लेना",Standard
+16-510-702-3,hind1269,Hindi  ,1779,tʃun̪ɔt̪iː len̪aː,Phonemic,dare,saxena702,,"चुनौती देना, चुनौती लेना",Standard
+16-520-702-1,hind1269,Hindi  ,3,bahaːd̪ur,Phonemic,brave,saxena702,,"बहादुर, निडर, वीर",Standard
+16-520-702-3,hind1269,Hindi  ,3,n̪iɖar,Phonemic,brave,saxena702,,"बहादुर, निडर, वीर",Standard
+16-520-702-5,hind1269,Hindi  ,3,viːr,Phonemic,brave,saxena702,,"बहादुर, निडर, वीर",Standard
+16-530-702-1,hind1269,Hindi  ,781,ɖar,Phonemic,"fear, fright",saxena702,,डर,Standard
+16-540-702-1,hind1269,Hindi  ,1810,bʱaj,Phonemic,danger,saxena702,,"भय, खतरा",Standard
+16-540-702-3,hind1269,Hindi  ,1810,kʰat̪raː,Phonemic,danger,saxena702,,"भय, खतरा",Standard
+16-620-702-1,hind1269,Hindi  ,1784,tʃaːhan̪aː,Phonemic,"desire, want",saxena702,,चाहना,Standard
+16-622-702-1,hind1269,Hindi  ,1750,tʃun̪an̪aː,Phonemic,choose,saxena702,,चुनना,Standard
+16-630-702-1,hind1269,Hindi  ,1092,aːɕaː karan̪aː,Phonemic,hope,saxena702,,आशा करना,Standard
+16-650-702-1,hind1269,Hindi  ,100,imaːn̪ad̪aːr,Phonemic,faithful,saxena702,,"इमानदार, वफादार",Standard
+16-650-702-3,hind1269,Hindi  ,100,vapʰaːd̪aːr,Phonemic,faithful,saxena702,,"इमानदार, वफादार",Standard
+16-660-702-1,hind1269,Hindi  ,1657,sat̪ja,Phonemic,true,saxena702,,सत्य,Standard
+16-670-702-1,hind1269,Hindi  ,601,dʒʱuːʈ bolan̪aː,Phonemic,"lie, tell lies",saxena702,,झूट बोलना,Standard
+16-680-702-1,hind1269,Hindi  ,13,d̪ʱokʰaː,Phonemic,deceit,saxena702,,धोखा,Standard
+16-690-702-1,hind1269,Hindi  ,1528,maːpʰ karan̪aː,Phonemic,forgive,saxena702,,माफ करना,Standard
+16-710-702-1,hind1269,Hindi  ,1035,atʃtʃʰaː,Phonemic,good,saxena702,,अच्छा,Standard
+16-720-702-1,hind1269,Hindi  ,1292,buraː,Phonemic,bad,saxena702,,"बुरा, खराब",Standard
+16-720-702-3,hind1269,Hindi  ,1292,kʰaraːb,Phonemic,bad,saxena702,,"बुरा, खराब",Standard
+16-730-702-1,hind1269,Hindi  ,1725,utʃit̪,Phonemic,"right, correct",saxena702,,"उचित, ठीक",Standard
+16-730-702-3,hind1269,Hindi  ,1725,ʈʰiːk,Phonemic,"right, correct",saxena702,,"उचित, ठीक",Standard
+16-740-702-1,hind1269,Hindi  ,1390,galat̪,Phonemic,wrong,saxena702,,गलत,Standard
+16-760-702-1,hind1269,Hindi  ,134,galat̪iː,Phonemic,fault,saxena702,,गलती,Standard
+16-770-702-1,hind1269,Hindi  ,1293,galat̪iː,Phonemic,"mistake, error",saxena702,,गलती,Standard
+16-780-702-1,hind1269,Hindi  ,381,d̪oʂ,Phonemic,blame,saxena702,,दोष,Standard
+16-790-702-1,hind1269,Hindi  ,1687,praɕan̪saː,Phonemic,praise,saxena702,,"प्रशंसा, तारीफ",Standard
+16-790-702-3,hind1269,Hindi  ,1687,t̪aːriːf,Phonemic,praise,saxena702,,"प्रशंसा, तारीफ",Standard
+16-810-702-1,hind1269,Hindi  ,1427,sun̪d̪ar,Phonemic,beautiful,saxena702,,सुंदर,Standard
+16-820-702-1,hind1269,Hindi  ,1548,kuruːp,Phonemic,ugly,saxena702,,कुरूप,Standard
+16-830-702-1,hind1269,Hindi  ,2018,lalatʃiː,Phonemic,greedy,saxena702,,"लालची, लोभी",Standard
+16-830-702-3,hind1269,Hindi  ,2018,lobʱiː,Phonemic,greedy,saxena702,,"लालची, लोभी",Standard
+16-840-702-1,hind1269,Hindi  ,1310,hoɕijaːr,Phonemic,clever,saxena702,,"होशियार, चतुर",Standard
+16-840-702-3,hind1269,Hindi  ,1310,tʃat̪ur,Phonemic,clever,saxena702,,"होशियार, चतुर",Standard
+17-110-702-1,hind1269,Hindi  ,1562,d̪imaːg,Phonemic,mind,saxena702,,"दिमाग़, चित्त",Standard
+17-110-702-3,hind1269,Hindi  ,1562,tʃit̪t̪,Phonemic,mind,saxena702,,"दिमाग़, चित्त",Standard
+17-130-702-1,hind1269,Hindi  ,1415,sotʃan̪aː,Phonemic,think (= reflect),saxena702,,सोचना,Standard
+17-140-702-1,hind1269,Hindi  ,1513,sotʃan̪aː,Phonemic,think (= be of the opinion),saxena702,,सोचना,Standard
+17-150-702-1,hind1269,Hindi  ,1890,man̪an̪aː,Phonemic,believe,saxena702,,"मानना, यकीन करना",Standard
+17-150-702-3,hind1269,Hindi  ,1890,jakiːn̪ karan̪aː,Phonemic,believe,saxena702,,"मानना, यकीन करना",Standard
+17-160-702-1,hind1269,Hindi  ,1536,samadʒʱn̪aː,Phonemic,understand,saxena702,,समझना,Standard
+17-170-702-1,hind1269,Hindi  ,1410,dʒaːn̪an̪aː,Phonemic,know,saxena702,,"जानना, पता होना",Standard
+17-170-702-3,hind1269,Hindi  ,1410,pat̪aː hon̪aː,Phonemic,know,saxena702,,"जानना, पता होना",Standard
+17-171-702-1,hind1269,Hindi  ,1932,and̪aːdʒ lagaːn̪aː,Phonemic,guess,saxena702,,"अंदाज़ लगाना, भापना",Standard
+17-171-702-3,hind1269,Hindi  ,1932,bʱapan̪aː,Phonemic,guess,saxena702,,"अंदाज़ लगाना, भापना",Standard
+17-172-702-1,hind1269,Hindi  ,117,n̪akal karan̪aː,Phonemic,imitate,saxena702,,नकल करना,Standard
+17-180-702-1,hind1269,Hindi  ,1521,lagan̪aː,Phonemic,seem,saxena702,,लगना,Standard
+17-190-702-1,hind1269,Hindi  ,1609,vitʃaːr,Phonemic,"idea, notion",saxena702,,विचार,Standard
+17-210-702-1,hind1269,Hindi  ,698,gjaːn̪iːn̪,Phonemic,wise,saxena702,,"ग्यानी, चतुर",Standard
+17-210-702-3,hind1269,Hindi  ,698,tʃat̪ur,Phonemic,wise,saxena702,,"ग्यानी, चतुर",Standard
+17-220-702-1,hind1269,Hindi  ,1518,muːrkʰ,Phonemic,"foolish, stupid",saxena702,,मूर्ख,Standard
+17-230-702-1,hind1269,Hindi  ,1899,paːgal,Phonemic,"insane, crazy",saxena702,,पागल,Standard
+17-240-702-1,hind1269,Hindi  ,504,siːkʰn̪aː,Phonemic,learn,saxena702,,सीखना,Standard
+17-242-702-1,hind1269,Hindi  ,1929,paɽʱan̪aː,Phonemic,study,saxena702,,पढ़ना,Standard
+17-250-702-1,hind1269,Hindi  ,709,siːkʰaːn̪aː,Phonemic,teach,saxena702,,सीखाना,Standard
+17-260-702-1,hind1269,Hindi  ,753,tʃelaː,Phonemic,pupil,saxena702,,"चेला, शिष्य, छात्र",Standard
+17-260-702-3,hind1269,Hindi  ,753,ɕiʂja,Phonemic,pupil,saxena702,,"चेला, शिष्य, छात्र",Standard
+17-260-702-5,hind1269,Hindi  ,753,tʃʰaːt̪ra,Phonemic,pupil,saxena702,,"चेला, शिष्य, छात्र",Standard
+17-270-702-1,hind1269,Hindi  ,1038,ad̪ʱjapak,Phonemic,teacher,saxena702,,"अध्यापक, आचार्य, गुरु",Standard
+17-270-702-3,hind1269,Hindi  ,1038,aːtʃaːrja,Phonemic,teacher,saxena702,,"अध्यापक, आचार्य, गुरु",Standard
+17-270-702-5,hind1269,Hindi  ,1038,guruː,Phonemic,teacher,saxena702,,"अध्यापक, आचार्य, गुरु",Standard
+17-280-702-1,hind1269,Hindi  ,673,paːʈʰɕaːlaː,Phonemic,school,saxena702,,"पाठशाला, स्कूल",Standard
+17-280-702-3,hind1269,Hindi  ,673,skuːl,Phonemic,school,saxena702,,"पाठशाला, स्कूल",Standard
+17-310-702-1,hind1269,Hindi  ,707,jaːd̪ karan̪aː,Phonemic,remember,saxena702,,याद करना,Standard
+17-320-702-1,hind1269,Hindi  ,1523,bʱuːlan̪aː,Phonemic,forget,saxena702,,भूलना,Standard
+17-340-702-1,hind1269,Hindi  ,989,saːf,Phonemic,"clear, plain",saxena702,,साफ,Standard
+17-350-702-1,hind1269,Hindi  ,1764,aspaʂʈ,Phonemic,obscure,saxena702,,अस्पष्ट,Standard
+17-360-702-1,hind1269,Hindi  ,1121,gupt̪,Phonemic,secret,saxena702,,गुप्त,Standard
+17-370-702-1,hind1269,Hindi  ,509,n̪iɕtʃit̪,Phonemic,"sure, certain",saxena702,,"निश्चित, पक्का",Standard
+17-370-702-3,hind1269,Hindi  ,509,pakka,Phonemic,"sure, certain",saxena702,,"निश्चित, पक्का",Standard
+17-380-702-1,hind1269,Hindi  ,1626,samdʒʱaːn̪aː,Phonemic,explain,saxena702,,समझाना,Standard
+17-410-702-1,hind1269,Hindi  ,1162,abʱipraːj,Phonemic,"intention, purpose",saxena702,,"अभिप्राय, इरादा",Standard
+17-410-702-3,hind1269,Hindi  ,1162,iraːd̪aː,Phonemic,"intention, purpose",saxena702,,"अभिप्राय, इरादा",Standard
+17-420-702-1,hind1269,Hindi  ,860,kaːraɳ,Phonemic,cause,saxena702,,कारण,Standard
+17-430-702-1,hind1269,Hindi  ,1308,ɕak,Phonemic,doubt,saxena702,,"शक, शंका, वहम",Standard
+17-430-702-3,hind1269,Hindi  ,1308,ɕaŋkaː vaham,Phonemic,doubt,saxena702,,"शक, शंका, वहम",Standard
+17-440-702-1,hind1269,Hindi  ,1841,ɕak karan̪aː,Phonemic,suspect,saxena702,,शक करना,Standard
+17-441-702-1,hind1269,Hindi  ,1902,viɕvaːsgʱaːt̪ karan̪aː,Phonemic,betray,saxena702,,विश्वासघात करना,Standard
+17-450-702-1,hind1269,Hindi  ,643,aːvaɕjakt̪aː,Phonemic,"need, necessity",saxena702,,आवश्यकता,Standard
+17-460-702-1,hind1269,Hindi  ,686,aːsaːn̪,Phonemic,easy,saxena702,,आसान,Standard
+17-470-702-1,hind1269,Hindi  ,584,muɕkil,Phonemic,difficult,saxena702,,मुश्किल,Standard
+17-480-702-1,hind1269,Hindi  ,1812,koɕiːɕ karan̪aː,Phonemic,"try, attempt",saxena702,,कोशिश करना,Standard
+17-490-702-1,hind1269,Hindi  ,488,t̪ariːkaː,Phonemic,"way, manner",saxena702,,तरीका,Standard
+17-510-702-1,hind1269,Hindi  ,1577,ɔr,Phonemic,and,saxena702,,और,Standard
+17-520-702-1,hind1269,Hindi  ,1157,isalie,Phonemic,because,saxena702,,इसलिए,Standard
+17-530-702-1,hind1269,Hindi  ,1459,agar,Phonemic,if,saxena702,,अगर,Standard
+17-540-702-1,hind1269,Hindi  ,1014,jaː,Phonemic,or,saxena702,,या,Standard
+17-550-702-1,hind1269,Hindi  ,1268,haːn̪,Phonemic,"yes, affirmative",saxena702,,हां,Standard
+17-560-702-1,hind1269,Hindi  ,1269,n̪ahiːn̪,Phonemic,"no, negative",saxena702,,नहीं,Standard
+17-610-702-1,hind1269,Hindi  ,1239,kɛse,Phonemic,how?,saxena702,,कैसे,Standard
+17-620-702-1,hind1269,Hindi  ,822,kit̪an̪aː,Phonemic,how many?,saxena702,,कितना,Standard
+17-620-702-3,hind1269,Hindi  ,822,kit̪an̪e,Phonemic,how many?,saxena702,,कितना,Standard
+17-630-702-1,hind1269,Hindi  ,531,kit̪an̪aː,Phonemic,how much?,saxena702,,कितना,Standard
+17-640-702-1,hind1269,Hindi  ,1236,kjaː,Phonemic,what?,saxena702,,क्या,Standard
+17-650-702-1,hind1269,Hindi  ,1238,kab,Phonemic,when?,saxena702,,कब,Standard
+17-660-702-1,hind1269,Hindi  ,1237,kahaːn̪,Phonemic,where?,saxena702,,कहां,Standard
+17-670-702-1,hind1269,Hindi  ,727,kɔn̪ saː,Phonemic,which?,saxena702,,कौन सा,Standard
+17-680-702-1,hind1269,Hindi  ,1235,kɔn̪,Phonemic,who?,saxena702,,कौन,Standard
+17-690-702-1,hind1269,Hindi  ,1270,kjoːn̪,Phonemic,why?,saxena702,,क्यों,Standard
+18-110-702-1,hind1269,Hindi  ,1363,aːvaːdʒ,Phonemic,voice,saxena702,,आवाज़,Standard
+18-120-702-1,hind1269,Hindi  ,1261,gaːn̪aː gaːn̪aː,Phonemic,sing,saxena702,,गाना गाना,Standard
+18-130-702-1,hind1269,Hindi  ,715,tʃiːkʰan̪aː,Phonemic,"shout, cry out",saxena702,,चीखना,Standard
+18-150-702-1,hind1269,Hindi  ,55,pʰuspʰusaːn̪aː,Phonemic,whisper,saxena702,,फुसफुसाना,Standard
+18-160-702-1,hind1269,Hindi  ,128,bud̪abud̪an̪aː,Phonemic,mumble,saxena702,,बुदबुदाना,Standard
+18-170-702-1,hind1269,Hindi  ,1025,siːʈiː badʒaːn̪aː,Phonemic,whistle,saxena702,,सीटी बजाना,Standard
+18-180-702-1,hind1269,Hindi  ,298,tʃiːkʰn̪aː,Phonemic,"shriek, screech",saxena702,,चीखना,Standard
+18-190-702-1,hind1269,Hindi  ,526,tʃillaːn̪aː,Phonemic,howl,saxena702,,चिल्लाना,Standard
+18-210-702-1,hind1269,Hindi  ,1623,bolan̪aː,Phonemic,"speak, talk",saxena702,,"बोलना, कहना",Standard
+18-210-702-3,hind1269,Hindi  ,1623,kehan̪aː,Phonemic,"speak, talk",saxena702,,"बोलना, कहना",Standard
+18-211-702-1,hind1269,Hindi  ,1866,hakalaːn̪aː,Phonemic,"stutter, stammer",saxena702,,हकलाना,Standard
+18-220-702-1,hind1269,Hindi  ,1458,kehan̪aː,Phonemic,say,saxena702,,कहना,Standard
+18-221-702-1,hind1269,Hindi  ,1711,bat̪aːn̪aː,Phonemic,tell story,saxena702,,बताना,Standard
+18-222-702-1,hind1269,Hindi  ,1115,bʱaːʂaː,Phonemic,speech (make a),saxena702,,भाषा,Standard
+18-230-702-1,hind1269,Hindi  ,48,tʃup rahan̪aː,Phonemic,silent (be),saxena702,,चुप रहना,Standard
+18-240-702-1,hind1269,Hindi  ,1307,bʱaːʂaː,Phonemic,language,saxena702,,भाषा,Standard
+18-260-702-1,hind1269,Hindi  ,1599,ɕabd̪a,Phonemic,word,saxena702,,शब्द,Standard
+18-280-702-1,hind1269,Hindi  ,1405,n̪aːm,Phonemic,name,saxena702,,नाम,Standard
+18-310-702-1,hind1269,Hindi  ,1309,puːtʃʰan̪aː,Phonemic,"ask (question, inquire)",saxena702,,पूछना,Standard
+18-320-702-1,hind1269,Hindi  ,1275,dʒavaːb d̪en̪aː,Phonemic,answer,saxena702,,जवाब देना . उत्तर देना,Standard
+18-320-702-3,hind1269,Hindi  ,1275,ut̪t̪ar d̪en̪aː,Phonemic,answer,saxena702,,जवाब देना . उत्तर देना,Standard
+18-330-702-1,hind1269,Hindi  ,2022,kabuːl karan̪aː,Phonemic,"admit, confess",saxena702,,"कबूल करना, मानना",Standard
+18-330-702-3,hind1269,Hindi  ,2022,maːn̪an̪aː,Phonemic,"admit, confess",saxena702,,"कबूल करना, मानना",Standard
+18-340-702-1,hind1269,Hindi  ,755,man̪aː karn̪aː,Phonemic,deny,saxena702,,"मना करना, नकारना",Standard
+18-340-702-3,hind1269,Hindi  ,755,n̪akaːrnaː,Phonemic,deny,saxena702,,"मना करना, नकारना",Standard
+18-350-702-1,hind1269,Hindi  ,1828,puːtʃʰan̪aː,Phonemic,"ask, request",saxena702,,पूछना,Standard
+18-360-702-1,hind1269,Hindi  ,1675,vatʃan̪ d̪en̪aː,Phonemic,promise,saxena702,,वचन देना,Standard
+18-370-702-1,hind1269,Hindi  ,49,n̪akaːran̪aː,Phonemic,refuse,saxena702,,नकारना,Standard
+18-380-702-1,hind1269,Hindi  ,83,rokan̪aː,Phonemic,forbid,saxena702,,"रोकना, वर्जित करना",Standard
+18-380-702-3,hind1269,Hindi  ,83,vardʒit̪ karan̪aː,Phonemic,forbid,saxena702,,"रोकना, वर्जित करना",Standard
+18-390-702-1,hind1269,Hindi  ,299,ɖaːn̪ʈan̪aː,Phonemic,"rebuke, scold",saxena702,,डांटना,Standard
+18-410-702-1,hind1269,Hindi  ,1084,bulaːn̪aː,Phonemic,call (=summon),saxena702,,बुलाना,Standard
+18-420-702-1,hind1269,Hindi  ,180,bulaːn̪aː,Phonemic,call (=name),saxena702,,बुलाना,Standard
+18-430-702-1,hind1269,Hindi  ,9,gʱoʂaɳaː karan̪aː,Phonemic,announce,saxena702,,घोषणा करना,Standard
+18-440-702-1,hind1269,Hindi  ,1192,d̪ʱamkaːn̪aː,Phonemic,threaten,saxena702,,धमकाना,Standard
+18-450-702-1,hind1269,Hindi  ,101,baɽaːiː karan̪aː,Phonemic,boast,saxena702,,"बड़ाई करना, शान दिखाना, शेखी मारना",Standard
+18-450-702-3,hind1269,Hindi  ,101,ɕaːn̪ d̪ikʰaːn̪aː,Phonemic,boast,saxena702,,"बड़ाई करना, शान दिखाना, शेखी मारना",Standard
+18-450-702-5,hind1269,Hindi  ,101,ɕekʰiː maːran̪aː,Phonemic,boast,saxena702,,"बड़ाई करना, शान दिखाना, शेखी मारना",Standard
+18-510-702-1,hind1269,Hindi  ,1672,likʰan̪aː,Phonemic,write,saxena702,,लिखना,Standard
+18-520-702-1,hind1269,Hindi  ,724,paɽʱan̪aː,Phonemic,read,saxena702,,पढना,Standard
+18-560-702-1,hind1269,Hindi  ,648,kaːgadʒ,Phonemic,paper,saxena702,,"कागज, पत्र",Standard
+18-560-702-3,hind1269,Hindi  ,648,pat̪ra,Phonemic,paper,saxena702,,"कागज, पत्र",Standard
+18-570-702-1,hind1269,Hindi  ,794,pen̪,Phonemic,pen,saxena702,,पेन,Standard
+18-610-702-1,hind1269,Hindi  ,963,kit̪aːb,Phonemic,book,saxena702,,किताब,Standard
+18-670-702-1,hind1269,Hindi  ,1045,kavi,Phonemic,poet,saxena702,,कवि,Standard
+18-710-702-1,hind1269,Hindi  ,777,baːn̪suriː,Phonemic,flute,saxena702,,बांसुरी,Standard
+18-720-702-1,hind1269,Hindi  ,908,ɖʱol,Phonemic,drum,saxena702,,ढोल,Standard
+18-730-702-1,hind1269,Hindi  ,2136,t̪urahiː,Phonemic,"horn, trumpet",saxena702,,तुरही,Standard
+18-740-702-1,hind1269,Hindi  ,300,dʒʱun̪dʒʱun̪aː,Phonemic,rattle,saxena702,,झुनझुना,Standard
+19-110-702-1,hind1269,Hindi  ,1300,d̪eɕ,Phonemic,country,saxena702,,देश,Standard
+19-120-702-1,hind1269,Hindi  ,89,d̪eɕ,Phonemic,one's native country,saxena702,,देश,Standard
+19-150-702-1,hind1269,Hindi  ,1391,ɕeher,Phonemic,"city, town",saxena702,,शहर,Standard
+19-160-702-1,hind1269,Hindi  ,930,gaːn̪v,Phonemic,village,saxena702,,गांव,Standard
+19-170-702-1,hind1269,Hindi  ,1010,siːmaː,Phonemic,boundary,saxena702,,सीमा,Standard
+19-210-702-1,hind1269,Hindi  ,789,log,Phonemic,people (populace),saxena702,,लोग,Standard
+19-230-702-1,hind1269,Hindi  ,302,gʱaraːn̪aː,Phonemic,"tribe, clan",saxena702,,घराना,Standard
+19-240-702-1,hind1269,Hindi  ,301,tʃɔd̪ʱariː,Phonemic,"chief, chieftain",saxena702,,"चौधरी, सरदार",Standard
+19-240-702-3,hind1269,Hindi  ,301,sarad̪aːr,Phonemic,"chief, chieftain",saxena702,,"चौधरी, सरदार",Standard
+19-250-702-1,hind1269,Hindi  ,1296,tʃʰaɽiː,Phonemic,"staff, walking stick",saxena702,,छड़ी,Standard
+19-310-702-1,hind1269,Hindi  ,1846,raːdʒ karan̪aː,Phonemic,"rule, govern",saxena702,,राज करना,Standard
+19-320-702-1,hind1269,Hindi  ,1508,raːdʒaː,Phonemic,"king, ruler",saxena702,,राजा,Standard
+19-330-702-1,hind1269,Hindi  ,1306,raːn̪iː,Phonemic,queen,saxena702,,रानी,Standard
+19-360-702-1,hind1269,Hindi  ,482,kuliːn̪,Phonemic,"noble, nobleman",saxena702,,कुलीन,Standard
+19-370-702-1,hind1269,Hindi  ,1032,n̪aːgarik,Phonemic,"citizen, subject",saxena702,,नागरिक,Standard
+19-410-702-1,hind1269,Hindi  ,383,guru,Phonemic,master,saxena702,,गुरु,Standard
+19-420-702-1,hind1269,Hindi  ,812,g̣ulaːm,Phonemic,slave,saxena702,,गुलाम,Standard
+19-430-702-1,hind1269,Hindi  ,255,n̪ɔkar,Phonemic,servant,saxena702,,नौकर,Standard
+19-440-702-1,hind1269,Hindi  ,384,svaːd̪ʱiːn̪ n̪aːgarik,Phonemic,freeman,saxena702,,स्वाधीन नागरिक,Standard
+19-450-702-1,hind1269,Hindi  ,1128,aːd̪eɕ d̪en̪aː,Phonemic,"command, order",saxena702,,आदेश देना,Standard
+19-460-702-1,hind1269,Hindi  ,1635,aːgjaː paːlan̪ karan̪aː,Phonemic,obey,saxena702,,आज्ञा पालन करना,Standard
+19-470-702-1,hind1269,Hindi  ,1003,an̪umat̪iː d̪en̪aː,Phonemic,"let, permit",saxena702,,अनुमती देना,Standard
+19-510-702-1,hind1269,Hindi  ,1325,saheliː,Phonemic,"friend, companion",saxena702,,"सहेली, दोस्त",Standard
+19-510-702-3,hind1269,Hindi  ,1325,d̪ost̪,Phonemic,"friend, companion",saxena702,,"सहेली, दोस्त",Standard
+19-520-702-1,hind1269,Hindi  ,1358,d̪uɕman̪,Phonemic,enemy,saxena702,,"दुश्मन, शत्रु",Standard
+19-520-702-3,hind1269,Hindi  ,1358,ɕat̪ru,Phonemic,enemy,saxena702,,"दुश्मन, शत्रु",Standard
+19-540-702-1,hind1269,Hindi  ,1332,paɽosiː,Phonemic,neighbor,saxena702,,पड़ोसी,Standard
+19-550-702-1,hind1269,Hindi  ,791,adʒan̪abiː,Phonemic,stranger,saxena702,,अजनबी,Standard
+19-560-702-1,hind1269,Hindi  ,1782,at̪it̪ʰi,Phonemic,guest,saxena702,,अतिथि,Standard
+19-570-702-1,hind1269,Hindi  ,1545,medʒbaːn̪,Phonemic,host,saxena702,,मेज़बान,Standard
+19-580-702-1,hind1269,Hindi  ,1897,mad̪at̪ karan̪aː,Phonemic,"help, aid",saxena702,,मदत करना,Standard
+19-590-702-1,hind1269,Hindi  ,1550,rokan̪aː,Phonemic,"hinder, prevent",saxena702,,रोकना,Standard
+19-610-702-1,hind1269,Hindi  ,1747,tʃalan̪,Phonemic,custom,saxena702,,चलन,Standard
+19-620-702-1,hind1269,Hindi  ,1848,laɖaːiː,Phonemic,"strife, quarrel",saxena702,,लड़ाई,Standard
+19-630-702-1,hind1269,Hindi  ,2024,ʂaɽajan̪t̪ra,Phonemic,"conspiracy, plot",saxena702,,षड़यंत्र,Standard
+19-650-702-1,hind1269,Hindi  ,1831,milan̪aː,Phonemic,meet,saxena702,,मिलना,Standard
+19-720-702-1,hind1269,Hindi  ,1610,veɕjaː,Phonemic,prostitute,saxena702,,वेश्या,Standard
+20-110-702-1,hind1269,Hindi  ,1423,laɽan̪aː,Phonemic,fight (vb),saxena702,,लड़ना,Standard
+20-130-702-1,hind1269,Hindi  ,579,laɽaːiː,Phonemic,"war, battle",saxena702,,लड़ाई,Standard
+20-140-702-1,hind1269,Hindi  ,1338,ɕaːn̪t̪i,Phonemic,peace,saxena702,,शांति,Standard
+20-150-702-1,hind1269,Hindi  ,1561,pʰɔːdʒ,Phonemic,army,saxena702,,"फौज, सेना",Standard
+20-150-702-3,hind1269,Hindi  ,1561,sen̪aː,Phonemic,army,saxena702,,"फौज, सेना",Standard
+20-170-702-1,hind1269,Hindi  ,1941,sipaːhiː,Phonemic,soldier,saxena702,,"सिपाही, सैनिक",Standard
+20-170-702-3,hind1269,Hindi  ,1941,sɛn̪ik,Phonemic,soldier,saxena702,,"सिपाही, सैनिक",Standard
+20-210-702-1,hind1269,Hindi  ,951,ast̪ra,Phonemic,"weapons, arms",saxena702,,अस्त्र,Standard
+20-220-702-1,hind1269,Hindi  ,1763,gad̪aː,Phonemic,club,saxena702,,गदा,Standard
+20-222-702-1,hind1269,Hindi  ,386,kulhaːɽiː,Phonemic,battle-ax,saxena702,,कुल्हाड़ी,Standard
+20-230-702-1,hind1269,Hindi  ,387,gopʰan̪,Phonemic,sling,saxena702,,गोफन,Standard
+20-240-702-1,hind1269,Hindi  ,994,kamaːn̪,Phonemic,bow,saxena702,,कमान,Standard
+20-250-702-1,hind1269,Hindi  ,977,t̪iːr,Phonemic,arrow,saxena702,,तीर,Standard
+20-260-702-1,hind1269,Hindi  ,945,bʱaːlaː,Phonemic,spear,saxena702,,भाला,Standard
+20-270-702-1,hind1269,Hindi  ,1535,kʰaɖag,Phonemic,sword,saxena702,,"खड्ग, तलवार",Standard
+20-270-702-3,hind1269,Hindi  ,1535,t̪alvaːr,Phonemic,sword,saxena702,,"खड्ग, तलवार",Standard
+20-280-702-1,hind1269,Hindi  ,1566,t̪op,Phonemic,"gun, cannon",saxena702,,तोप,Standard
+20-310-702-1,hind1269,Hindi  ,1061,kan̪tʃuk,Phonemic,armor (defensive),saxena702,,कंचुक,Standard
+20-330-702-1,hind1269,Hindi  ,1680,ʈop,Phonemic,helmet,saxena702,,टोप,Standard
+20-340-702-1,hind1269,Hindi  ,1064,ɖʱaːl,Phonemic,shield,saxena702,,ढाल,Standard
+20-350-702-1,hind1269,Hindi  ,1938,gaɽʱiː,Phonemic,fortress,saxena702,,गढ़ी,Standard
+20-360-702-1,hind1269,Hindi  ,1671,buradʒ,Phonemic,tower,saxena702,,"बुरज, दुर्ग, मीनार",Standard
+20-360-702-3,hind1269,Hindi  ,1671,d̪urg,Phonemic,tower,saxena702,,"बुरज, दुर्ग, मीनार",Standard
+20-360-702-5,hind1269,Hindi  ,1671,miːn̪aːr,Phonemic,tower,saxena702,,"बुरज, दुर्ग, मीनार",Standard
+20-410-702-1,hind1269,Hindi  ,783,dʒaj,Phonemic,victory,saxena702,,"जय, जीत",Standard
+20-410-702-3,hind1269,Hindi  ,783,dʒiːt̪,Phonemic,victory,saxena702,,"जय, जीत",Standard
+20-420-702-1,hind1269,Hindi  ,782,haːr,Phonemic,defeat,saxena702,,"हार, पराजय",Standard
+20-420-702-3,hind1269,Hindi  ,782,paraːdʒaj,Phonemic,defeat,saxena702,,"हार, पराजय",Standard
+20-430-702-1,hind1269,Hindi  ,722,aːkramaɳ,Phonemic,attack,saxena702,,आक्रमण,Standard
+20-440-702-1,hind1269,Hindi  ,1330,batʃaːn̪aː,Phonemic,defend,saxena702,,बचाना,Standard
+20-450-702-1,hind1269,Hindi  ,421,piːtʃʰe hon̪aː,Phonemic,retreat,saxena702,,पीछे होना,Standard
+20-460-702-1,hind1269,Hindi  ,1696,hat̪ʰiːjaːr ɖaːlan̪aː,Phonemic,surrender,saxena702,,"हथीयार डालना, शस्त्र डालना",Standard
+20-460-702-3,hind1269,Hindi  ,1696,ɕast̪ra ɖaːlan̪aː,Phonemic,surrender,saxena702,,"हथीयार डालना, शस्त्र डालना",Standard
+20-470-702-1,hind1269,Hindi  ,1072,ban̪d̪iː,Phonemic,"captive, prisoner",saxena702,,"बंदी, जेली, कैदी",Standard
+20-470-702-3,hind1269,Hindi  ,1072,dʒeliː,Phonemic,"captive, prisoner",saxena702,,"बंदी, जेली, कैदी",Standard
+20-470-702-5,hind1269,Hindi  ,1072,kɛd̪iː,Phonemic,"captive, prisoner",saxena702,,"बंदी, जेली, कैदी",Standard
+20-471-702-1,hind1269,Hindi  ,1940,tʃɔkiːd̪aːr,Phonemic,"guard, sentinel",saxena702,,चौकीदार,Standard
+20-480-702-1,hind1269,Hindi  ,1022,luːʈ,Phonemic,"booty, spoils",saxena702,,लूट,Standard
+20-490-702-1,hind1269,Hindi  ,65,gʱaːt̪,Phonemic,ambush,saxena702,,घात,Standard
+20-510-702-1,hind1269,Hindi  ,1858,matʃʰuaː,Phonemic,fisherman,saxena702,,मछुआ,Standard
+20-520-702-1,hind1269,Hindi  ,1074,ban̪siː kaː kaːn̪ʈaː,Phonemic,fishhook,saxena702,,बंसी का काँटा,Standard
+20-530-702-1,hind1269,Hindi  ,19,mat̪ʃʰaliː pakaɽan̪e kiː ɖoriː,Phonemic,fishing line,saxena702,,मछली पकड़ने की डोरी,Standard
+20-540-702-1,hind1269,Hindi  ,388,matʃʰaliː kaː dʒaːl,Phonemic,fishnet,saxena702,,मछली का जाल,Standard
+20-550-702-1,hind1269,Hindi  ,389,matʃʰaliː kaː dʒaːl,Phonemic,fish trap,saxena702,,मछली का जाल,Standard
+20-560-702-1,hind1269,Hindi  ,2013,pralobʱan̪,Phonemic,bait,saxena702,,प्रलोभन,Standard
+20-610-702-1,hind1269,Hindi  ,1435,ɕikaːr karan̪aː,Phonemic,hunt,saxena702,,शिकार करना,Standard
+20-620-702-1,hind1269,Hindi  ,1172,goliː maran̪aː,Phonemic,shoot,saxena702,,गोली मारना,Standard
+20-630-702-1,hind1269,Hindi  ,161,tʃuːkan̪aː,Phonemic,miss (target),saxena702,,चूकना,Standard
+20-640-702-1,hind1269,Hindi  ,1075,dʒaːl,Phonemic,trap (noun),saxena702,,"जाल, फंदा",Standard
+20-640-702-3,hind1269,Hindi  ,1075,pʰan̪d̪aː,Phonemic,trap (noun),saxena702,,"जाल, फंदा",Standard
+20-650-702-1,hind1269,Hindi  ,1170,pʰasaːn̪aː,Phonemic,trap (vb),saxena702,,फसाना,Standard
+21-110-702-1,hind1269,Hindi  ,1062,n̪ijam,Phonemic,law,saxena702,,नियम,Standard
+21-150-702-1,hind1269,Hindi  ,1068,ad̪aːlat̪,Phonemic,court,saxena702,,"अदालत, कचेरी",Standard
+21-150-702-3,hind1269,Hindi  ,1068,katʃeriː,Phonemic,court,saxena702,,"अदालत, कचेरी",Standard
+21-160-702-1,hind1269,Hindi  ,1818,n̪irɳja d̪en̪aː,Phonemic,judge (vb),saxena702,,निर्णय देना,Standard
+21-170-702-1,hind1269,Hindi  ,1067,pʰɛsala,Phonemic,judgment,saxena702,,फ़ैसला,Standard
+21-180-702-1,hind1269,Hindi  ,861,dʒadʒ,Phonemic,judge (noun),saxena702,,"जज, निर्णायक, न्यायकर्ता",Standard
+21-180-702-3,hind1269,Hindi  ,861,n̪irɳa:jak,Phonemic,judge (noun),saxena702,,"जज, निर्णायक, न्यायकर्ता",Standard
+21-180-702-5,hind1269,Hindi  ,861,n̪ja:jakarat̪a:,Phonemic,judge (noun),saxena702,,"जज, निर्णायक, न्यायकर्ता",Standard
+21-210-702-1,hind1269,Hindi  ,2020,mud̪d̪iː,Phonemic,plaintiff,saxena702,,"मुद्दी, वादी",Standard
+21-210-702-3,hind1269,Hindi  ,2020,vaːd̪iː,Phonemic,plaintiff,saxena702,,"मुद्दी, वादी",Standard
+21-220-702-1,hind1269,Hindi  ,1034,prat̪ivaːd̪iː,Phonemic,defendant,saxena702,,प्रतिवादी,Standard
+21-230-702-1,hind1269,Hindi  ,1144,gavaːh,Phonemic,witness,saxena702,,"गवाह, साक्षी",Standard
+21-230-702-3,hind1269,Hindi  ,1144,saːkɕiː,Phonemic,witness,saxena702,,"गवाह, साक्षी",Standard
+21-240-702-1,hind1269,Hindi  ,1939,kasam kʰaːn̪a,Phonemic,swear,saxena702,,"कसम खाना, सौगंध खाना",Standard
+21-240-702-3,hind1269,Hindi  ,1939,sɔgan̪d̪ʱ kʰaːn̪aː,Phonemic,swear,saxena702,,"कसम खाना, सौगंध खाना",Standard
+21-250-702-1,hind1269,Hindi  ,1712,kasam,Phonemic,oath,saxena702,,"कसम, सौगंध",Standard
+21-250-702-3,hind1269,Hindi  ,1712,sɔgan̪d̪ʱ,Phonemic,oath,saxena702,,"कसम, सौगंध",Standard
+21-310-702-1,hind1269,Hindi  ,1814,d̪oʂ d̪en̪aː,Phonemic,accuse,saxena702,,दोष देना,Standard
+21-320-702-1,hind1269,Hindi  ,484,d̪ʱikkaːran̪aː,Phonemic,condemn,saxena702,,धिक्कारना,Standard
+21-330-702-1,hind1269,Hindi  ,983,d̪oʂiː ʈʰaharaːn̪aː,Phonemic,convict (vb),saxena702,,दोषी ठहराना,Standard
+21-340-702-1,hind1269,Hindi  ,988,bariː karan̪aː,Phonemic,acquit,saxena702,,बरी करना,Standard
+21-350-702-1,hind1269,Hindi  ,1682,aparaːd̪ʱiː,Phonemic,guilty,saxena702,,"अपराधी, दोषी",Standard
+21-350-702-3,hind1269,Hindi  ,1682,d̪oʂiː,Phonemic,guilty,saxena702,,"अपराधी, दोषी",Standard
+21-360-702-1,hind1269,Hindi  ,90,andʒaːn̪,Phonemic,innocent,saxena702,,"अंजान, अबोध",Standard
+21-360-702-3,hind1269,Hindi  ,90,abod̪ʱ,Phonemic,innocent,saxena702,,"अंजान, अबोध",Standard
+21-370-702-1,hind1269,Hindi  ,390,d̪an̪ɖ,Phonemic,"penalty, punishment",saxena702,,दंड,Standard
+21-380-702-1,hind1269,Hindi  ,218,art̪ʰa d̪an̪ɖ,Phonemic,fine,saxena702,,"अर्थ दंड, जुर्माना",Standard
+21-380-702-3,hind1269,Hindi  ,218,dʒurmaːn̪aː,Phonemic,fine,saxena702,,"अर्थ दंड, जुर्माना",Standard
+21-390-702-1,hind1269,Hindi  ,1281,jel,Phonemic,"prison, jail",saxena702,,"जेल, कारागर",Standard
+21-390-702-3,hind1269,Hindi  ,1281,kaːraːgar,Phonemic,"prison, jail",saxena702,,"जेल, कारागर",Standard
+21-420-702-1,hind1269,Hindi  ,845,kʰuːn̪,Phonemic,murder,saxena702,,खून,Standard
+21-430-702-1,hind1269,Hindi  ,902,tʃʰin̪aːl,Phonemic,adultery,saxena702,,छिनाल,Standard
+21-440-702-1,hind1269,Hindi  ,953,balaːt̪kaːr,Phonemic,rape,saxena702,,बलात्कार,Standard
+21-460-702-1,hind1269,Hindi  ,1889,aːgadʒan̪iː,Phonemic,arson,saxena702,,आगज़नी,Standard
+21-470-702-1,hind1269,Hindi  ,1792,dʒʱuːʈʰiː gavaːhiː,Phonemic,perjury,saxena702,,झूठी गवाही,Standard
+21-510-702-1,hind1269,Hindi  ,713,tʃuraːn̪aː,Phonemic,steal,saxena702,,चुराना,Standard
+21-520-702-1,hind1269,Hindi  ,1160,tʃor,Phonemic,thief,saxena702,,चोर,Standard
+22-110-702-1,hind1269,Hindi  ,661,d̪ʱaram,Phonemic,religion,saxena702,,धर्म,Standard
+22-120-702-1,hind1269,Hindi  ,1944,bʱagvaːn̪,Phonemic,God,saxena702,,भगवान,Standard
+22-130-702-1,hind1269,Hindi  ,911,man̪d̪ir,Phonemic,"temple, church",saxena702,,मंदिर,Standard
+22-140-702-1,hind1269,Hindi  ,853,tʃɔraː,Phonemic,altar,saxena702,,"चौरा, वेदिका, वेदी",Standard
+22-140-702-3,hind1269,Hindi  ,853,ved̪ikaː,Phonemic,altar,saxena702,,"चौरा, वेदिका, वेदी",Standard
+22-140-702-5,hind1269,Hindi  ,853,ved̪iː,Phonemic,altar,saxena702,,"चौरा, वेदिका, वेदी",Standard
+22-150-702-1,hind1269,Hindi  ,1103,bali,Phonemic,"sacrifice, offering",saxena702,,"बलि, कुर्बानी",Standard
+22-150-702-3,hind1269,Hindi  ,1103,kurbaːn̪iː,Phonemic,"sacrifice, offering",saxena702,,"बलि, कुर्बानी",Standard
+22-160-702-1,hind1269,Hindi  ,257,puːdʒan̪aː,Phonemic,worship,saxena702,,"पूजना, पूजा करना",Standard
+22-160-702-3,hind1269,Hindi  ,257,puːdʒaː karan̪aː,Phonemic,worship,saxena702,,"पूजना, पूजा करना",Standard
+22-170-702-1,hind1269,Hindi  ,24,praːrt̪ʰan̪aː karn̪aː,Phonemic,pray,saxena702,,प्रार्थना करना,Standard
+22-180-702-1,hind1269,Hindi  ,852,pudʒaːriː,Phonemic,priest,saxena702,,"पुजारी, पुरोहित",Standard
+22-180-702-3,hind1269,Hindi  ,852,purohit̪,Phonemic,priest,saxena702,,"पुजारी, पुरोहित",Standard
+22-190-702-1,hind1269,Hindi  ,1702,pavit̪ra,Phonemic,"holy, sacred",saxena702,,"पवित्र, पावन",Standard
+22-190-702-3,hind1269,Hindi  ,1702,paːvan̪,Phonemic,"holy, sacred",saxena702,,"पवित्र, पावन",Standard
+22-220-702-1,hind1269,Hindi  ,304,pravatʃan̪ d̪en̪aː,Phonemic,preach,saxena702,,प्रवचन देना,Standard
+22-230-702-1,hind1269,Hindi  ,391,d̪uaː d̪en̪aː,Phonemic,bless,saxena702,,"दुआ देना, दुआ करना",Standard
+22-230-702-3,hind1269,Hindi  ,391,d̪uaː karan̪aː,Phonemic,bless,saxena702,,"दुआ देना, दुआ करना",Standard
+22-240-702-1,hind1269,Hindi  ,8,kosan̪aː,Phonemic,curse,saxena702,,"कोसना, शाप देना",Standard
+22-240-702-3,hind1269,Hindi  ,8,ɕaːp d̪en̪aː,Phonemic,curse,saxena702,,"कोसना, शाप देना",Standard
+22-260-702-1,hind1269,Hindi  ,303,upavaːs karn̪aː,Phonemic,fast (vb),saxena702,,उपवास करना,Standard
+22-310-702-1,hind1269,Hindi  ,1565,svarg,Phonemic,heaven,saxena702,,स्वर्ग,Standard
+22-320-702-1,hind1269,Hindi  ,878,n̪arak,Phonemic,hell,saxena702,,नरक,Standard
+22-350-702-1,hind1269,Hindi  ,1973,rakɕas,Phonemic,demon (evil spirit),saxena702,,राक्षस,Standard
+22-370-702-1,hind1269,Hindi  ,1945,muːrt̪i,Phonemic,idol,saxena702,,मूर्ति,Standard
+22-420-702-1,hind1269,Hindi  ,392,dʒaːd̪uː,Phonemic,"magic, witchcraft, sorcery",saxena702,,जादू,Standard
+22-430-702-1,hind1269,Hindi  ,2137,tʃuːɽɛl,Phonemic,"sorcerer, witch",saxena702,,चूड़ैल,Standard
+22-440-702-1,hind1269,Hindi  ,2138,apsaraː,Phonemic,"fairy, elf",saxena702,,"अप्सरा, परी",Standard
+22-440-702-3,hind1269,Hindi  ,2138,pariː,Phonemic,"fairy, elf",saxena702,,"अप्सरा, परी",Standard
+22-450-702-1,hind1269,Hindi  ,1175,bʱuːt̪,Phonemic,"ghost, phantom",saxena702,,भूत,Standard
+22-470-702-1,hind1269,Hindi  ,107,apaɕakun̪,Phonemic,"omen, portent",saxena702,,अपशकुन,Standard

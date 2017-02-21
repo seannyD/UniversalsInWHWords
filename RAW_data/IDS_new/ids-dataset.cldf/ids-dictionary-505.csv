@@ -1,0 +1,1551 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-505-1,darg1241,Dargwa (Gapshima dialect),1852,гьаман,CyrillTrans,often,,,haman,Phonemic
+14-310-505-1,darg1241,Dargwa (Gapshima dialect),1676,мурталра,CyrillTrans,always,,,murtalra,Phonemic
+14-290-505-1,darg1241,Dargwa (Gapshima dialect),790,хІядурсе,CyrillTrans,ready,,,ħaˤdurse,Phonemic
+14-280-505-1,darg1241,Dargwa (Gapshima dialect),1928,тІашилзес,CyrillTrans,"cease, stop",,,tʼašilzes,Phonemic
+14-270-505-1,darg1241,Dargwa (Gapshima dialect),1766,ахирличебуршес,CyrillTrans,finish,,,axirličeburšes,Phonemic
+14-260-505-1,darg1241,Dargwa (Gapshima dialect),743,таманбиркьес,CyrillTrans,end (temporal),,,tamanbirq’es,Phonemic
+14-252-505-1,darg1241,Dargwa (Gapshima dialect),1186,даиъимбичIес,CyrillTrans,"last, endure",,,daiʔimbičʼes,Phonemic
+14-250-505-1,darg1241,Dargwa (Gapshima dialect),1806,бехІбишес,CyrillTrans,"begin, beginning",,,"beħbišes, beħbix̌̄ut",Phonemic
+14-250-505-3,darg1241,Dargwa (Gapshima dialect),1806,бехІбихьхьут,CyrillTrans,"begin, beginning",,,"beħbišes, beħbix̌̄ut",Phonemic
+14-240-505-1,darg1241,Dargwa (Gapshima dialect),425,багьла баркьес,CyrillTrans,"retard, delay",,,"bahla barq’es, ʕelalize arbux̄es",Phonemic
+14-240-505-3,darg1241,Dargwa (Gapshima dialect),425,гІелализе арбуххес,CyrillTrans,"retard, delay",,,"bahla barq’es, ʕelalize arbux̄es",Phonemic
+14-230-505-1,darg1241,Dargwa (Gapshima dialect),754,къалабаучІес,CyrillTrans,"hasten, hurry",,,Galabaučʼes,Phonemic
+14-220-505-1,darg1241,Dargwa (Gapshima dialect),701,къалабахІявкІусе,CyrillTrans,slow,,,Galabaħaˤwkʼuse,Phonemic
+14-210-505-1,darg1241,Dargwa (Gapshima dialect),1631,къалабасе,CyrillTrans,"swift, fast, quick",,,Galabase,Phonemic
+14-190-505-1,darg1241,Dargwa (Gapshima dialect),1963,буссягІятал,CyrillTrans,immediately,,,bus̄aˤʕaˤtal,Phonemic
+14-180-505-1,darg1241,Dargwa (Gapshima dialect),1376,буссягІяг,CyrillTrans,now,,,"bus̄aˤʕaˤg, hannaħaˤ",Phonemic
+14-180-505-3,darg1241,Dargwa (Gapshima dialect),1376,гьаннахІя,CyrillTrans,now,,,"bus̄aˤʕaˤg, hannaħaˤ",Phonemic
+14-170-505-1,darg1241,Dargwa (Gapshima dialect),477,кьанне,CyrillTrans,late,,,q’anne,Phonemic
+14-160-505-1,darg1241,Dargwa (Gapshima dialect),672,ччявле,CyrillTrans,early,,,č̄aˤwle,Phonemic
+14-150-505-1,darg1241,Dargwa (Gapshima dialect),1229,ухънасе,CyrillTrans,old,,,uqnase,Phonemic
+14-140-505-1,darg1241,Dargwa (Gapshima dialect),1207,жагьилсе,CyrillTrans,young,,,žahilse,Phonemic
+14-120-505-1,darg1241,Dargwa (Gapshima dialect),1789,адамла дусме,CyrillTrans,age,,,"adamla dusme, daršdus",Phonemic
+14-120-505-3,darg1241,Dargwa (Gapshima dialect),1789,даршдус,CyrillTrans,age,,,"adamla dusme, daršdus",Phonemic
+14-130-505-1,darg1241,Dargwa (Gapshima dialect),1231,саккасе,CyrillTrans,new,,,sak̄ase,Phonemic
+14-110-505-1,darg1241,Dargwa (Gapshima dialect),892,замана,CyrillTrans,time,,,zamana,Phonemic
+13-440-505-1,darg1241,Dargwa (Gapshima dialect),417,хІяйна,CyrillTrans,three times,,,ħaˤyna,Phonemic
+13-420-505-1,darg1241,Dargwa (Gapshima dialect),1859,хІябъибил,CyrillTrans,third,,,"ħaˤbʔibil, ħaˤbesil",Phonemic
+13-420-505-3,darg1241,Dargwa (Gapshima dialect),1859,хІябэсил,CyrillTrans,third,,,"ħaˤbʔibil, ħaˤbesil",Phonemic
+13-380-505-1,darg1241,Dargwa (Gapshima dialect),1546,чІуйна,CyrillTrans,two times,,,čʼuyna,Phonemic
+13-370-505-1,darg1241,Dargwa (Gapshima dialect),1888,чІел,CyrillTrans,pair,,,"čʼel, žut",Phonemic
+13-370-505-3,darg1241,Dargwa (Gapshima dialect),1888,жут,CyrillTrans,pair,,,"čʼel, žut",Phonemic
+13-360-505-1,darg1241,Dargwa (Gapshima dialect),1384,чІиибил,CyrillTrans,second,,,čʼiʔibil,Phonemic
+13-350-505-1,darg1241,Dargwa (Gapshima dialect),1529,гІергъесе,CyrillTrans,last,,,ʕerɣese,Phonemic
+13-340-505-1,darg1241,Dargwa (Gapshima dialect),728,цаибил,CyrillTrans,first,,,caibil,Phonemic
+13-330-505-1,darg1241,Dargwa (Gapshima dialect),1580,ца,CyrillTrans,"alone, only",,,"ca, canneye case",Phonemic
+13-330-505-3,darg1241,Dargwa (Gapshima dialect),1580,цаннее цасе,CyrillTrans,"alone, only",,,"ca, canneye case",Phonemic
+13-240-505-1,darg1241,Dargwa (Gapshima dialect),816,байхъала,CyrillTrans,half,,,bayqala,Phonemic
+13-230-505-1,darg1241,Dargwa (Gapshima dialect),779,бутІа,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-230-505-3,darg1241,Dargwa (Gapshima dialect),779,кесек,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-220-505-1,darg1241,Dargwa (Gapshima dialect),1624,бацІсе,CyrillTrans,empty,,,bacʼse,Phonemic
+13-210-505-1,darg1241,Dargwa (Gapshima dialect),1429,бицІибсе,CyrillTrans,full,,,bicʼibse,Phonemic
+13-190-505-1,darg1241,Dargwa (Gapshima dialect),2023,дахъил,CyrillTrans,"multitude, crowd",,,daqil,Phonemic
+13-181-505-1,darg1241,Dargwa (Gapshima dialect),1241,чумал,CyrillTrans,some,,,čumal,Phonemic
+13-170-505-1,darg1241,Dargwa (Gapshima dialect),1242,камле,CyrillTrans,"little (quantity), few",,,kamle,Phonemic
+13-180-505-1,darg1241,Dargwa (Gapshima dialect),1881,багъари,CyrillTrans,enough,,,baɣari,Phonemic
+13-160-505-1,darg1241,Dargwa (Gapshima dialect),1992,имцІале,CyrillTrans,more,,,imcʼale,Phonemic
+13-150-505-1,darg1241,Dargwa (Gapshima dialect),1198,дахъил,CyrillTrans,"much, many",,,daqil,Phonemic
+13-140-505-1,darg1241,Dargwa (Gapshima dialect),98,лярилра,CyrillTrans,"every, all",,,laˤrilra,Phonemic
+13-107-505-1,darg1241,Dargwa (Gapshima dialect),1420,луэс,CyrillTrans,count,,,luʔes,Phonemic
+13-106-505-1,darg1241,Dargwa (Gapshima dialect),1843,азир,CyrillTrans,thousand,,,azir,Phonemic
+13-105-505-1,darg1241,Dargwa (Gapshima dialect),1634,даршшал,CyrillTrans,hundred,,,darš̄al,Phonemic
+13-104-505-1,darg1241,Dargwa (Gapshima dialect),1710,гъаял,CyrillTrans,twenty,,,ɣayal,Phonemic
+13-103-505-1,darg1241,Dargwa (Gapshima dialect),1709,вецІну шура,CyrillTrans,fifteen,,,wecʼnu šura,Phonemic
+13-102-505-1,darg1241,Dargwa (Gapshima dialect),1707,вецІну чІира,CyrillTrans,twelve,,,wecʼnu čʼira,Phonemic
+13-101-505-1,darg1241,Dargwa (Gapshima dialect),1706,вецІну цара,CyrillTrans,eleven,,,wecʼnu cara,Phonemic
+13-100-505-1,darg1241,Dargwa (Gapshima dialect),1515,вецІал,CyrillTrans,ten,,,wecʼal,Phonemic
+13-90-505-1,darg1241,Dargwa (Gapshima dialect),1483,урчІемал,CyrillTrans,nine,,,určʼemal,Phonemic
+13-80-505-1,darg1241,Dargwa (Gapshima dialect),1705,ккахІал,CyrillTrans,eight,,,k̄aħal,Phonemic
+13-70-505-1,darg1241,Dargwa (Gapshima dialect),1704,верхІал,CyrillTrans,seven,,,werħal,Phonemic
+13-60-505-1,darg1241,Dargwa (Gapshima dialect),1703,урегал,CyrillTrans,six,,,uregal,Phonemic
+13-50-505-1,darg1241,Dargwa (Gapshima dialect),493,шуял,CyrillTrans,five,,,šuyal,Phonemic
+13-40-505-1,darg1241,Dargwa (Gapshima dialect),1500,авал,CyrillTrans,four,,,awal,Phonemic
+13-20-505-1,darg1241,Dargwa (Gapshima dialect),1498,чІел,CyrillTrans,two,,,čʼel,Phonemic
+13-30-505-1,darg1241,Dargwa (Gapshima dialect),492,хІябал,CyrillTrans,three,,,ħaˤbal,Phonemic
+13-10-505-1,darg1241,Dargwa (Gapshima dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-505-1,darg1241,Dargwa (Gapshima dialect),1294,нул,CyrillTrans,"zero, nothing",,,nul,Phonemic
+12-930-505-1,darg1241,Dargwa (Gapshima dialect),1264,барсбиркьес,CyrillTrans,change,,,barsbirq’es,Phonemic
+12-920-505-1,darg1241,Dargwa (Gapshima dialect),1558,мешусе,CyrillTrans,"like, similar",,,mešuse,Phonemic
+12-840-505-1,darg1241,Dargwa (Gapshima dialect),1048,ттугъ,CyrillTrans,line,,,t̄uɣ,Phonemic
+12-850-505-1,darg1241,Dargwa (Gapshima dialect),1667,тІярхъи,CyrillTrans,hole,,,tʼaˤrqi,Phonemic
+12-830-505-1,darg1241,Dargwa (Gapshima dialect),1845,шяр,CyrillTrans,"sphere, ball",,,šaˤr,Phonemic
+12-810-505-1,darg1241,Dargwa (Gapshima dialect),1395,журукка,CyrillTrans,round,,,žuruk̄a,Phonemic
+12-820-505-1,darg1241,Dargwa (Gapshima dialect),1467,мяв,CyrillTrans,circle,,,"maˤw, maˤwa",Phonemic
+12-820-505-3,darg1241,Dargwa (Gapshima dialect),1467,мява,CyrillTrans,circle,,,"maˤw, maˤwa",Phonemic
+12-780-505-1,darg1241,Dargwa (Gapshima dialect),850,авмузан,CyrillTrans,square,,,awmuzan,Phonemic
+12-770-505-1,darg1241,Dargwa (Gapshima dialect),1367,къанч,CyrillTrans,cross,,,Ganč,Phonemic
+12-760-505-1,darg1241,Dargwa (Gapshima dialect),192,гІямзи,CyrillTrans,corner,,,"ʕaˤmzi, Gaˤrt",Phonemic
+12-760-505-3,darg1241,Dargwa (Gapshima dialect),192,къярт,CyrillTrans,corner,,,"ʕaˤmzi, Gaˤrt",Phonemic
+12-750-505-1,darg1241,Dargwa (Gapshima dialect),1071,къармукъ,CyrillTrans,hook,,,GarmuG,Phonemic
+12-740-505-1,darg1241,Dargwa (Gapshima dialect),297,балкІунсе,CyrillTrans,crooked,,,balkʼunse,Phonemic
+12-730-505-1,darg1241,Dargwa (Gapshima dialect),1404,бархьсе,CyrillTrans,straight,,,barx̌se,Phonemic
+12-710-505-1,darg1241,Dargwa (Gapshima dialect),1633,чІапасе,CyrillTrans,flat,,,čʼapase,Phonemic
+12-680-505-1,darg1241,Dargwa (Gapshima dialect),193,камсе,CyrillTrans,shallow,,,"kamse, ɣulse",Phonemic
+12-680-505-3,darg1241,Dargwa (Gapshima dialect),193,гъулсе,CyrillTrans,shallow,,,"kamse, ɣulse",Phonemic
+12-670-505-1,darg1241,Dargwa (Gapshima dialect),1593,мурхьсе,CyrillTrans,deep,,,murx̌se,Phonemic
+12-650-505-1,darg1241,Dargwa (Gapshima dialect),2249,букІулсе,CyrillTrans,thin (in dimension),,,bukʼulse,Phonemic
+12-630-505-1,darg1241,Dargwa (Gapshima dialect),1244,бабцасе,CyrillTrans,thick (in dimension),,,babcase,Phonemic
+12-620-505-1,darg1241,Dargwa (Gapshima dialect),1267,гъярцІсе,CyrillTrans,narrow,,,ɣaˤrcʼse,Phonemic
+12-610-505-1,darg1241,Dargwa (Gapshima dialect),1243,бягІусе,CyrillTrans,"wide, broad",,,baˤʕuse,Phonemic
+12-590-505-1,darg1241,Dargwa (Gapshima dialect),1645,къантІсе,CyrillTrans,short,,,Gantʼse,Phonemic
+12-580-505-1,darg1241,Dargwa (Gapshima dialect),711,ахъсе,CyrillTrans,tall,,,aqse,Phonemic
+12-570-505-1,darg1241,Dargwa (Gapshima dialect),1203,бухъенасе,CyrillTrans,long,,,buqenase,Phonemic
+12-560-505-1,darg1241,Dargwa (Gapshima dialect),1246,кьицІисе,CyrillTrans,"small, little",,,q’icʼise,Phonemic
+12-550-505-1,darg1241,Dargwa (Gapshima dialect),1202,ххуласе,CyrillTrans,"large, big",,,x̄ulase,Phonemic
+12-540-505-1,darg1241,Dargwa (Gapshima dialect),1506,умцес,CyrillTrans,measure,,,umces,Phonemic
+12-530-505-1,darg1241,Dargwa (Gapshima dialect),479,ххулабигъес,CyrillTrans,grow,,,x̄ulabiɣes,Phonemic
+12-480-505-1,darg1241,Dargwa (Gapshima dialect),1595,кьибла,CyrillTrans,south,,,"q’ibla, yug",Phonemic
+12-480-505-3,darg1241,Dargwa (Gapshima dialect),1595,юг,CyrillTrans,south,,,"q’ibla, yug",Phonemic
+12-470-505-1,darg1241,Dargwa (Gapshima dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-505-1,darg1241,Dargwa (Gapshima dialect),1817,магъриб,CyrillTrans,west,,,"maɣrib, zapad",Phonemic
+12-460-505-3,darg1241,Dargwa (Gapshima dialect),1817,запад,CyrillTrans,west,,,"maɣrib, zapad",Phonemic
+12-450-505-1,darg1241,Dargwa (Gapshima dialect),1877,машрикь,CyrillTrans,east,,,"mašriq’, wostok, x̌arzab",Phonemic
+12-450-505-3,darg1241,Dargwa (Gapshima dialect),1877,восток,CyrillTrans,east,,,"mašriq’, wostok, x̌arzab",Phonemic
+12-450-505-5,darg1241,Dargwa (Gapshima dialect),1877,хьарзаб,CyrillTrans,east,,,"mašriq’, wostok, x̌arzab",Phonemic
+12-430-505-1,darg1241,Dargwa (Gapshima dialect),1942,мякьлуб,CyrillTrans,near (adv),,,maˤq’lub,Phonemic
+12-440-505-1,darg1241,Dargwa (Gapshima dialect),1406,харакле,CyrillTrans,far (adv),,,xarakle,Phonemic
+12-420-505-1,darg1241,Dargwa (Gapshima dialect),244,алгъай (шшали),CyrillTrans,left (side),,,alɣay (š̄ali),Phonemic
+12-410-505-1,darg1241,Dargwa (Gapshima dialect),1019,балан (шшали),CyrillTrans,right (side),,,balan (š̄ali),Phonemic
+12-370-505-1,darg1241,Dargwa (Gapshima dialect),1093,бай,CyrillTrans,"middle, center",,,bay,Phonemic
+12-360-505-1,darg1241,Dargwa (Gapshima dialect),682,шшали,CyrillTrans,side,,,š̄ali,Phonemic
+12-353-505-1,darg1241,Dargwa (Gapshima dialect),863,дуб,CyrillTrans,edge,,,dub,Phonemic
+12-352-505-1,darg1241,Dargwa (Gapshima dialect),372,къиццасе,CyrillTrans,pointed,,,Gic̄ase,Phonemic
+12-350-505-1,darg1241,Dargwa (Gapshima dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-505-1,darg1241,Dargwa (Gapshima dialect),690,лутІи,CyrillTrans,bottom,,,"lutʼi, ut̄ila",Phonemic
+12-340-505-3,darg1241,Dargwa (Gapshima dialect),690,уттила,CyrillTrans,bottom,,,"lutʼi, ut̄ila",Phonemic
+12-320-505-1,darg1241,Dargwa (Gapshima dialect),721,гІяшле,CyrillTrans,low,,,ʕaˤšle,Phonemic
+12-330-505-1,darg1241,Dargwa (Gapshima dialect),1753,ахъанай,CyrillTrans,top,,,"aqanay, q’arbekʼ",Phonemic
+12-330-505-3,darg1241,Dargwa (Gapshima dialect),1753,кьарбекІ,CyrillTrans,top,,,"aqanay, q’arbekʼ",Phonemic
+12-310-505-1,darg1241,Dargwa (Gapshima dialect),1265,ахъле,CyrillTrans,high,,,aqle,Phonemic
+12-270-505-1,darg1241,Dargwa (Gapshima dialect),602,убкабиршес,CyrillTrans,"hide, conceal",,,ubkabiršes,Phonemic
+12-250-505-1,darg1241,Dargwa (Gapshima dialect),1046,гІечІес,CyrillTrans,"shut, close",,,ʕečʼes,Phonemic
+12-260-505-1,darg1241,Dargwa (Gapshima dialect),761,кІапІбиркьес,CyrillTrans,cover,,,kʼapʼbirq’es,Phonemic
+12-240-505-1,darg1241,Dargwa (Gapshima dialect),1156,ибшес,CyrillTrans,open,,,ibšes,Phonemic
+12-232-505-1,darg1241,Dargwa (Gapshima dialect),1119,буртІес,CyrillTrans,divide,,,burtʼes,Phonemic
+12-230-505-1,darg1241,Dargwa (Gapshima dialect),1359,декІарбиркьес,CyrillTrans,separate,,,dekʼarbirq’es,Phonemic
+12-220-505-1,darg1241,Dargwa (Gapshima dialect),1743,цахІнабирхъес,CyrillTrans,"join, unite",,,"caħnabirqes, barxbirqes",Phonemic
+12-220-505-3,darg1241,Dargwa (Gapshima dialect),1743,бархбирхъес,CyrillTrans,"join, unite",,,"caħnabirqes, barxbirqes",Phonemic
+12-213-505-1,darg1241,Dargwa (Gapshima dialect),1576,учидиршес,CyrillTrans,pile up,,,učidiršes,Phonemic
+12-212-505-1,darg1241,Dargwa (Gapshima dialect),371,ахъбиркьес,CyrillTrans,pick up,,,aqbirq’es,Phonemic
+12-210-505-1,darg1241,Dargwa (Gapshima dialect),7,даръэс,CyrillTrans,"collect, gather",,,darʔes,Phonemic
+12-170-505-1,darg1241,Dargwa (Gapshima dialect),838,гІеладухълуме,CyrillTrans,"remains, left overs",,,ʕeladuqlume,Phonemic
+12-160-505-1,darg1241,Dargwa (Gapshima dialect),987,калжес,CyrillTrans,"remain, stay",,,kalžes,Phonemic
+12-150-505-1,darg1241,Dargwa (Gapshima dialect),1442,тІашкайзес,CyrillTrans,stand,,,tʼaškayzes,Phonemic
+12-140-505-1,darg1241,Dargwa (Gapshima dialect),215,кайшес,CyrillTrans,lie down,,,kayšes,Phonemic
+12-130-505-1,darg1241,Dargwa (Gapshima dialect),1416,кайэс,CyrillTrans,sit,,,kayʔes,Phonemic
+12-120-505-1,darg1241,Dargwa (Gapshima dialect),998,кабишшес,CyrillTrans,put,,,kabiš̄es,Phonemic
+12-110-505-1,darg1241,Dargwa (Gapshima dialect),723,мер,CyrillTrans,place,,,"mer, mus̄a",Phonemic
+12-110-505-3,darg1241,Dargwa (Gapshima dialect),723,мусса,CyrillTrans,place,,,"mer, mus̄a",Phonemic
+12-80-505-1,darg1241,Dargwa (Gapshima dialect),1591,чеб,CyrillTrans,"up, above",,,čeb,Phonemic
+12-70-505-1,darg1241,Dargwa (Gapshima dialect),1485,уб,CyrillTrans,under,,,ub,Phonemic
+12-60-505-1,darg1241,Dargwa (Gapshima dialect),762,ттуратти,CyrillTrans,outside,,,t̄urat̄i,Phonemic
+12-50-505-1,darg1241,Dargwa (Gapshima dialect),1606,бухІнаб,CyrillTrans,"inside, in",,,buħnab,Phonemic
+12-41-505-1,darg1241,Dargwa (Gapshima dialect),1883,гьаллегІеб,CyrillTrans,front,,,halleʕeb,Phonemic
+12-40-505-1,darg1241,Dargwa (Gapshima dialect),1882,гьаллегIеб,CyrillTrans,before,,,halleʕeb,Phonemic
+12-30-505-1,darg1241,Dargwa (Gapshima dialect),2094,уб,CyrillTrans,"down, below",,,"ub, ubaˤħ",Phonemic
+12-30-505-3,darg1241,Dargwa (Gapshima dialect),2094,убяхI,CyrillTrans,"down, below",,,"ub, ubaˤħ",Phonemic
+12-20-505-1,darg1241,Dargwa (Gapshima dialect),1816,мякьлууб,CyrillTrans,beside,,,maˤq’luʔub,Phonemic
+12-11-505-1,darg1241,Dargwa (Gapshima dialect),1686,гІеллизеб,CyrillTrans,behind,,,ʕellizeb,Phonemic
+12-10-505-1,darg1241,Dargwa (Gapshima dialect),1685,гІир,CyrillTrans,after,,,ʕir,Phonemic
+11-920-505-1,darg1241,Dargwa (Gapshima dialect),1098,умцес,CyrillTrans,weigh,,,umces,Phonemic
+11-910-505-1,darg1241,Dargwa (Gapshima dialect),884,буртІес,CyrillTrans,share (distribute),,,burtʼes,Phonemic
+11-890-505-1,darg1241,Dargwa (Gapshima dialect),1887,дургІасе,CyrillTrans,cheap,,,durʕase,Phonemic
+11-880-505-1,darg1241,Dargwa (Gapshima dialect),1426,дурхъасе,CyrillTrans,"dear (costly, expensive)",,,durqase,Phonemic
+11-870-505-1,darg1241,Dargwa (Gapshima dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-505-1,darg1241,Dargwa (Gapshima dialect),752,тукен,CyrillTrans,"store, shop",,,tuken,Phonemic
+11-850-505-1,darg1241,Dargwa (Gapshima dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-505-1,darg1241,Dargwa (Gapshima dialect),1082,вачрукья,CyrillTrans,merchant,,,wačruq’aˤ,Phonemic
+11-830-505-1,darg1241,Dargwa (Gapshima dialect),2135,вачар-чакар,CyrillTrans,"trade, barter",,,wačar-čakar,Phonemic
+11-820-505-1,darg1241,Dargwa (Gapshima dialect),1571,бирцес,CyrillTrans,sell,,,birces,Phonemic
+11-810-505-1,darg1241,Dargwa (Gapshima dialect),1869,иссес,CyrillTrans,buy,,,is̄es,Phonemic
+11-790-505-1,darg1241,Dargwa (Gapshima dialect),733,алапа биркьес,CyrillTrans,earn,,,alapa birq’es,Phonemic
+11-780-505-1,darg1241,Dargwa (Gapshima dialect),1122,алапа,CyrillTrans,wages,,,alapa,Phonemic
+11-770-505-1,darg1241,Dargwa (Gapshima dialect),856,прокатлис сайсес,CyrillTrans,hire,,,"prokatlis sayses, zamanlis sayses",Phonemic
+11-770-505-3,darg1241,Dargwa (Gapshima dialect),856,заманлис сайсес,CyrillTrans,hire,,,"prokatlis sayses, zamanlis sayses",Phonemic
+11-690-505-1,darg1241,Dargwa (Gapshima dialect),873,налог,CyrillTrans,"tax, tribute",,,"nalog, zakat",Phonemic
+11-690-505-3,darg1241,Dargwa (Gapshima dialect),873,закат,CyrillTrans,"tax, tribute",,,"nalog, zakat",Phonemic
+11-660-505-1,darg1241,Dargwa (Gapshima dialect),1081,лугІи,CyrillTrans,"account, reckoning",,,"luʕi, ħisab",Phonemic
+11-660-505-3,darg1241,Dargwa (Gapshima dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,"luʕi, ħisab",Phonemic
+11-650-505-1,darg1241,Dargwa (Gapshima dialect),718,багьа бетлужес,CyrillTrans,pay (vb),,,baha betlužes,Phonemic
+11-640-505-1,darg1241,Dargwa (Gapshima dialect),1914,чебла,CyrillTrans,debt,,,čebla,Phonemic
+11-630-505-1,darg1241,Dargwa (Gapshima dialect),369,чеблалиув вес,CyrillTrans,owe,,,čeblaliuw wes,Phonemic
+11-620-505-1,darg1241,Dargwa (Gapshima dialect),1823,чеблалис сайсес,CyrillTrans,borrow,,,čeblalis sayses,Phonemic
+11-610-505-1,darg1241,Dargwa (Gapshima dialect),582,чеблалис бетлужес,CyrillTrans,lend,,,čeblalis betlužes,Phonemic
+11-540-505-1,darg1241,Dargwa (Gapshima dialect),1774,кьиркьир,CyrillTrans,"avaricious, stingy",,,q’irq’ir,Phonemic
+11-530-505-1,darg1241,Dargwa (Gapshima dialect),1934,садакьачи,CyrillTrans,beggar,,,sadaq’ači,Phonemic
+11-520-505-1,darg1241,Dargwa (Gapshima dialect),1674,мискинсе,CyrillTrans,poor,,,miskinse,Phonemic
+11-510-505-1,darg1241,Dargwa (Gapshima dialect),712,давлачевсе,CyrillTrans,rich,,,dawlačewse,Phonemic
+11-440-505-1,darg1241,Dargwa (Gapshima dialect),1867,къарапул,CyrillTrans,coin,,,Garapul,Phonemic
+11-430-505-1,darg1241,Dargwa (Gapshima dialect),1559,арц,CyrillTrans,money,,,arc,Phonemic
+11-340-505-1,darg1241,Dargwa (Gapshima dialect),1095,баткайэс,CyrillTrans,"release, let go",,,batkayʔes,Phonemic
+11-330-505-1,darg1241,Dargwa (Gapshima dialect),1660,бетихъахъес,CyrillTrans,lose,,,betiqaqes,Phonemic
+11-320-505-1,darg1241,Dargwa (Gapshima dialect),719,буржес,CyrillTrans,find,,,buržes,Phonemic
+11-310-505-1,darg1241,Dargwa (Gapshima dialect),1468,умцІес,CyrillTrans,"seek, look for",,,umcʼes,Phonemic
+11-280-505-1,darg1241,Dargwa (Gapshima dialect),44,зарал биркьес,CyrillTrans,"harm, injure, damage",,,zaral birq’es,Phonemic
+11-270-505-1,darg1241,Dargwa (Gapshima dialect),681,тІутІубиркьес,CyrillTrans,destroy,,,tʼutʼubirq’es,Phonemic
+11-250-505-1,darg1241,Dargwa (Gapshima dialect),2008,берцахъес,CyrillTrans,"save, rescue",,,bercaqes,Phonemic
+11-240-505-1,darg1241,Dargwa (Gapshima dialect),1997,биххес,CyrillTrans,"preserve, look after",,,bix̄es,Phonemic
+11-220-505-1,darg1241,Dargwa (Gapshima dialect),85,чарбирхъес,CyrillTrans,give back,,,čarbirqes,Phonemic
+11-210-505-1,darg1241,Dargwa (Gapshima dialect),1447,бетлукьес,CyrillTrans,give,,,betluq’es,Phonemic
+11-180-505-1,darg1241,Dargwa (Gapshima dialect),738,сичІел,CyrillTrans,thing,,,sičʼel,Phonemic
+11-170-505-1,darg1241,Dargwa (Gapshima dialect),1477,биххес,CyrillTrans,"keep, retain",,,bix̄es,Phonemic
+11-160-505-1,darg1241,Dargwa (Gapshima dialect),694,кайсес,CyrillTrans,"get, obtain",,,kayses,Phonemic
+11-150-505-1,darg1241,Dargwa (Gapshima dialect),1448,буцес,CyrillTrans,hold,,,buces,Phonemic
+11-140-505-1,darg1241,Dargwa (Gapshima dialect),2021,буцес,CyrillTrans,"seize, grasp",,,buces,Phonemic
+11-130-505-1,darg1241,Dargwa (Gapshima dialect),1749,сайсес,CyrillTrans,take,,,sayses,Phonemic
+11-120-505-1,darg1241,Dargwa (Gapshima dialect),684,сай вегІле бехъес,CyrillTrans,"own, possess",,,say weʕle beqes,Phonemic
+11-110-505-1,darg1241,Dargwa (Gapshima dialect),773,бехъес,CyrillTrans,have,,,beqes,Phonemic
+10-920-505-1,darg1241,Dargwa (Gapshima dialect),1922,ванзаличе сагъес,CyrillTrans,land (vb),,,"wanzaliče saɣes, wanzaliče kaɣes",Phonemic
+10-920-505-3,darg1241,Dargwa (Gapshima dialect),1922,ванзаличе кагъес,CyrillTrans,land (vb),,,"wanzaliče saɣes, wanzaliče kaɣes",Phonemic
+10-910-505-1,darg1241,Dargwa (Gapshima dialect),610,гаван,CyrillTrans,"harbor, port",,,"gawan, port",Phonemic
+10-910-505-3,darg1241,Dargwa (Gapshima dialect),610,порт,CyrillTrans,"harbor, port",,,"gawan, port",Phonemic
+10-890-505-1,darg1241,Dargwa (Gapshima dialect),1870,якур,CyrillTrans,anchor,,,yakur,Phonemic
+10-880-505-1,darg1241,Dargwa (Gapshima dialect),786,ялкан,CyrillTrans,sail (noun),,,yalkan,Phonemic
+10-870-505-1,darg1241,Dargwa (Gapshima dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-505-1,darg1241,Dargwa (Gapshima dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-505-1,darg1241,Dargwa (Gapshima dialect),1849,дайдивкьес,CyrillTrans,row (vb),,,daydiwq’es,Phonemic
+10-851-505-1,darg1241,Dargwa (Gapshima dialect),234,шавхьла,CyrillTrans,paddle (noun),,,šawx̌la,Phonemic
+10-850-505-1,darg1241,Dargwa (Gapshima dialect),108,шавхьла,CyrillTrans,oar,,,šawx̌la,Phonemic
+10-840-505-1,darg1241,Dargwa (Gapshima dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-505-1,darg1241,Dargwa (Gapshima dialect),416,къаякъ,CyrillTrans,outrigger,,,"GayaG, lodka",Phonemic
+10-832-505-3,darg1241,Dargwa (Gapshima dialect),416,лодка,CyrillTrans,outrigger,,,"GayaG, lodka",Phonemic
+10-831-505-1,darg1241,Dargwa (Gapshima dialect),1970,къаякъ,CyrillTrans,canoe,,,"GayaG, lodka",Phonemic
+10-831-505-3,darg1241,Dargwa (Gapshima dialect),1970,лодка,CyrillTrans,canoe,,,"GayaG, lodka",Phonemic
+10-830-505-1,darg1241,Dargwa (Gapshima dialect),1844,къаякъ,CyrillTrans,boat,,,"GayaG, lodka",Phonemic
+10-830-505-3,darg1241,Dargwa (Gapshima dialect),1844,лодка,CyrillTrans,boat,,,"GayaG, lodka",Phonemic
+10-810-505-1,darg1241,Dargwa (Gapshima dialect),740,кками,CyrillTrans,ship,,,"k̄ami, paraxod",Phonemic
+10-810-505-3,darg1241,Dargwa (Gapshima dialect),740,параход,CyrillTrans,ship,,,"k̄ami, paraxod",Phonemic
+10-780-505-1,darg1241,Dargwa (Gapshima dialect),14,дукІ,CyrillTrans,yoke,,,dukʼ,Phonemic
+10-770-505-1,darg1241,Dargwa (Gapshima dialect),1769,арк,CyrillTrans,axle,,,ark,Phonemic
+10-760-505-1,darg1241,Dargwa (Gapshima dialect),710,хІула,CyrillTrans,wheel,,,ħula,Phonemic
+10-750-505-1,darg1241,Dargwa (Gapshima dialect),122,уркура,CyrillTrans,"carriage, wagon, cart",,,urkura,Phonemic
+10-740-505-1,darg1241,Dargwa (Gapshima dialect),1011,губи,CyrillTrans,bridge,,,gubi,Phonemic
+10-720-505-1,darg1241,Dargwa (Gapshima dialect),2252,кьяшла дякь,CyrillTrans,path,,,q’aˤšla daˤq’,Phonemic
+10-710-505-1,darg1241,Dargwa (Gapshima dialect),667,гьуни,CyrillTrans,road,,,huni,Phonemic
+10-670-505-1,darg1241,Dargwa (Gapshima dialect),1452,къучбиркьес,CyrillTrans,"push, shove",,,Gučbirq’es,Phonemic
+10-660-505-1,darg1241,Dargwa (Gapshima dialect),367,урчиличев вашес,CyrillTrans,ride,,,určiličew wašes,Phonemic
+10-650-505-1,darg1241,Dargwa (Gapshima dialect),741,машиналичев вашес,CyrillTrans,drive,,,mašinaličew wašes,Phonemic
+10-640-505-1,darg1241,Dargwa (Gapshima dialect),43,вичес,CyrillTrans,lead (vb),,,wičes,Phonemic
+10-630-505-1,darg1241,Dargwa (Gapshima dialect),1127,варгьаэс,CyrillTrans,send,,,warhaʔes,Phonemic
+10-620-505-1,darg1241,Dargwa (Gapshima dialect),692,биххес,CyrillTrans,bring,,,bix̄es,Phonemic
+10-615-505-1,darg1241,Dargwa (Gapshima dialect),415,шалкІув виххес,CyrillTrans,carry-underarm,,,šalkʼuw wix̄es,Phonemic
+10-614-505-1,darg1241,Dargwa (Gapshima dialect),414,бекІличев виххес,CyrillTrans,carry-on-head,,,bekʼličew wix̄es,Phonemic
+10-613-505-1,darg1241,Dargwa (Gapshima dialect),413,хъуцІрумачев виххес,CyrillTrans,carry-on-shoulder,,,qucʼrumačew wix̄es,Phonemic
+10-612-505-1,darg1241,Dargwa (Gapshima dialect),412,някъбачев виххес,CyrillTrans,carry-in-hand,,,naˤGbačew wix̄es,Phonemic
+10-610-505-1,darg1241,Dargwa (Gapshima dialect),700,биххес,CyrillTrans,carry (bear),,,bix̄es,Phonemic
+10-570-505-1,darg1241,Dargwa (Gapshima dialect),749,ухІнаулхъес,CyrillTrans,enter,,,uħnaulqes,Phonemic
+10-560-505-1,darg1241,Dargwa (Gapshima dialect),1778,гъамурес,CyrillTrans,approach,,,ɣamures,Phonemic
+10-550-505-1,darg1241,Dargwa (Gapshima dialect),1387,ветагъес,CyrillTrans,"reach, arrive",,,"wetaɣes, saɣes",Phonemic
+10-550-505-3,darg1241,Dargwa (Gapshima dialect),1387,сагъес,CyrillTrans,"reach, arrive",,,"wetaɣes, saɣes",Phonemic
+10-530-505-1,darg1241,Dargwa (Gapshima dialect),1047,гІергъеирчІес,CyrillTrans,pursue,,,ʕerɣeirčʼes,Phonemic
+10-520-505-1,darg1241,Dargwa (Gapshima dialect),1085,гІергъеулхъес,CyrillTrans,follow,,,ʕerɣeulqes,Phonemic
+10-510-505-1,darg1241,Dargwa (Gapshima dialect),956,вибшес,CyrillTrans,flee,,,"wibšes, werces",Phonemic
+10-510-505-3,darg1241,Dargwa (Gapshima dialect),956,верцес,CyrillTrans,flee,,,"wibšes, werces",Phonemic
+10-491-505-1,darg1241,Dargwa (Gapshima dialect),485,ветихъес,CyrillTrans,disappear,,,wetiqes,Phonemic
+10-490-505-1,darg1241,Dargwa (Gapshima dialect),1752,арашес,CyrillTrans,"go away, depart",,,arašes,Phonemic
+10-481-505-1,darg1241,Dargwa (Gapshima dialect),581,чарулхъес,CyrillTrans,come back,,,čarulqes,Phonemic
+10-480-505-1,darg1241,Dargwa (Gapshima dialect),1446,вашес,CyrillTrans,come,,,wašes,Phonemic
+10-474-505-1,darg1241,Dargwa (Gapshima dialect),1107,ттураулхъес,CyrillTrans,go out,,,t̄uraulqes,Phonemic
+10-473-505-1,darg1241,Dargwa (Gapshima dialect),2014,увяхI кацІес,CyrillTrans,go down,,,uwaˤħ kacʼes,Phonemic
+10-472-505-1,darg1241,Dargwa (Gapshima dialect),1102,айцІес,CyrillTrans,climb,,,aycʼes,Phonemic
+10-470-505-1,darg1241,Dargwa (Gapshima dialect),695,вашес,CyrillTrans,go,,,wašes,Phonemic
+10-471-505-1,darg1241,Dargwa (Gapshima dialect),705,чивяхI айцІес,CyrillTrans,go up,,,čiwaˤħ aycʼes,Phonemic
+10-460-505-1,darg1241,Dargwa (Gapshima dialect),1519,дуцІулхъес,CyrillTrans,run,,,ducʼulqes,Phonemic
+10-451-505-1,darg1241,Dargwa (Gapshima dialect),366,гІяркучІес,CyrillTrans,limp,,,ʕaˤrkučʼes,Phonemic
+10-450-505-1,darg1241,Dargwa (Gapshima dialect),1443,вашес,CyrillTrans,walk,,,wašes,Phonemic
+10-440-505-1,darg1241,Dargwa (Gapshima dialect),1879,делхълиулхъес,CyrillTrans,dance,,,delqliulqes,Phonemic
+10-431-505-1,darg1241,Dargwa (Gapshima dialect),1135,четІяхІулхъес,CyrillTrans,kick,,,četʼaˤħulqes,Phonemic
+10-430-505-1,darg1241,Dargwa (Gapshima dialect),1829,тІяхІучІес,CyrillTrans,"jump, leap",,,tʼaˤħučʼes,Phonemic
+10-420-505-1,darg1241,Dargwa (Gapshima dialect),1324,хІусулхъес,CyrillTrans,"slide, slip",,,ħusulqes,Phonemic
+10-413-505-1,darg1241,Dargwa (Gapshima dialect),296,ахъ-гІяшурес,CyrillTrans,crouch,,,aq-ʕaˤšures,Phonemic
+10-412-505-1,darg1241,Dargwa (Gapshima dialect),66,кьукьмусичес,CyrillTrans,kneel,,,q’uq’musičes,Phonemic
+10-410-505-1,darg1241,Dargwa (Gapshima dialect),96,хъусли вашес,CyrillTrans,"creep, crawl",,,qusli wašes,Phonemic
+10-380-505-1,darg1241,Dargwa (Gapshima dialect),175,уфучІес,CyrillTrans,blow,,,ufučʼes,Phonemic
+10-370-505-1,darg1241,Dargwa (Gapshima dialect),1441,урцес,CyrillTrans,fly (vb),,,urces,Phonemic
+10-360-505-1,darg1241,Dargwa (Gapshima dialect),787,дайдиркьес,CyrillTrans,sail (vb),,,daydirq’es,Phonemic
+10-352-505-1,darg1241,Dargwa (Gapshima dialect),365,шинни чямпучIес,CyrillTrans,splash,,,šinni čaˤmpučʼes,Phonemic
+10-351-505-1,darg1241,Dargwa (Gapshima dialect),119,шинниу арашес,CyrillTrans,dive,,,šinniu arašes,Phonemic
+10-350-505-1,darg1241,Dargwa (Gapshima dialect),1439,дайдиркьес,CyrillTrans,swim,,,daydirq’es,Phonemic
+10-340-505-1,darg1241,Dargwa (Gapshima dialect),1574,дайдиркьес,CyrillTrans,float,,,"daydirq’es, dayliwirq’es",Phonemic
+10-340-505-3,darg1241,Dargwa (Gapshima dialect),1574,дайливиркьес,CyrillTrans,float,,,"daydirq’es, dayliwirq’es",Phonemic
+10-330-505-1,darg1241,Dargwa (Gapshima dialect),1088,кайгІес,CyrillTrans,sink,,,"kayʕes, ukerčes",Phonemic
+10-330-505-3,darg1241,Dargwa (Gapshima dialect),1088,укерчес,CyrillTrans,sink,,,"kayʕes, ukerčes",Phonemic
+10-320-505-1,darg1241,Dargwa (Gapshima dialect),2003,иртІес,CyrillTrans,flow,,,"irtʼes, čaˤxi gertʼes",Phonemic
+10-320-505-3,darg1241,Dargwa (Gapshima dialect),2003,чяхи гертIес,CyrillTrans,flow,,,"irtʼes, čaˤxi gertʼes",Phonemic
+10-260-505-1,darg1241,Dargwa (Gapshima dialect),1909,пяхбиркьес,CyrillTrans,shake,,,paˤxbirq’es,Phonemic
+10-252-505-1,darg1241,Dargwa (Gapshima dialect),702,бурцес,CyrillTrans,catch (ball),,,burces,Phonemic
+10-250-505-1,darg1241,Dargwa (Gapshima dialect),1456,лайбичІес,CyrillTrans,throw,,,"laybičʼes, naybičʼes",Phonemic
+10-250-505-3,darg1241,Dargwa (Gapshima dialect),1456,найбичIес,CyrillTrans,throw,,,"laybičʼes, naybičʼes",Phonemic
+10-240-505-1,darg1241,Dargwa (Gapshima dialect),2253,кІантІ-кІантІле кертІес,CyrillTrans,drip,,,kʼantʼ-kʼantʼle kertʼes,Phonemic
+10-230-505-1,darg1241,Dargwa (Gapshima dialect),1280,керчес,CyrillTrans,fall,,,kerčes,Phonemic
+10-220-505-1,darg1241,Dargwa (Gapshima dialect),501,ахъбурцес,CyrillTrans,"raise, lift",,,aqburces,Phonemic
+10-210-505-1,darg1241,Dargwa (Gapshima dialect),568,айцІес,CyrillTrans,rise,,,aycʼes,Phonemic
+10-170-505-1,darg1241,Dargwa (Gapshima dialect),430,силбиркьес,CyrillTrans,twist,,,silbirq’es,Phonemic
+10-160-505-1,darg1241,Dargwa (Gapshima dialect),808,укъкъес,CyrillTrans,drop (vb),,,uḠes,Phonemic
+10-150-505-1,darg1241,Dargwa (Gapshima dialect),827,ласбичІахъес,CyrillTrans,roll,,,"lasbičʼaqes, daˤrbičʼaqes",Phonemic
+10-150-505-3,darg1241,Dargwa (Gapshima dialect),827,дярбичIахъес,CyrillTrans,roll,,,"lasbičʼaqes, daˤrbičʼaqes",Phonemic
+10-140-505-1,darg1241,Dargwa (Gapshima dialect),1113,алавбиркьес,CyrillTrans,"wind, wrap",,,alawbirq’es,Phonemic
+10-130-505-1,darg1241,Dargwa (Gapshima dialect),1445,тІинтІвес,CyrillTrans,turn around,,,tʼintʼʷes,Phonemic
+10-120-505-1,darg1241,Dargwa (Gapshima dialect),1588,шурулкъес,CyrillTrans,turn over,,,"šurulGes, lasulqes",Phonemic
+10-120-505-3,darg1241,Dargwa (Gapshima dialect),1588,ласулхъес,CyrillTrans,turn over,,,"šurulGes, lasulqes",Phonemic
+10-110-505-1,darg1241,Dargwa (Gapshima dialect),765,шишучІес,CyrillTrans,move,,,šišučʼes,Phonemic
+9-890-505-1,darg1241,Dargwa (Gapshima dialect),2001,бичес,CyrillTrans,paint (vb),,,"bičes, rangbirq’es",Phonemic
+9-890-505-3,darg1241,Dargwa (Gapshima dialect),2001,рангбиркьес,CyrillTrans,paint (vb),,,"bičes, rangbirq’es",Phonemic
+9-840-505-1,darg1241,Dargwa (Gapshima dialect),1979,уршури,CyrillTrans,chisel,,,uršuri,Phonemic
+9-880-505-1,darg1241,Dargwa (Gapshima dialect),647,дакри,CyrillTrans,paint (noun),,,"dakri, kraska",Phonemic
+9-880-505-3,darg1241,Dargwa (Gapshima dialect),647,краска,CyrillTrans,paint (noun),,,"dakri, kraska",Phonemic
+9-830-505-1,darg1241,Dargwa (Gapshima dialect),1002,статуя,CyrillTrans,statue,,,"statuya, pamyatnik",Phonemic
+9-830-505-3,darg1241,Dargwa (Gapshima dialect),1002,памятник,CyrillTrans,statue,,,"statuya, pamyatnik",Phonemic
+9-820-505-1,darg1241,Dargwa (Gapshima dialect),914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-505-1,darg1241,Dargwa (Gapshima dialect),228,кьирсбиркьес,CyrillTrans,carve,,,q’irsbirq’es,Phonemic
+9-791-505-1,darg1241,Dargwa (Gapshima dialect),360,зярхІбирес,CyrillTrans,fan (vb),,,zaˤrħbires,Phonemic
+9-790-505-1,darg1241,Dargwa (Gapshima dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-505-1,darg1241,Dargwa (Gapshima dialect),293,сумка,CyrillTrans,netbag,,,"sumka, darbag",Phonemic
+9-780-505-3,darg1241,Dargwa (Gapshima dialect),293,дарбаг,CyrillTrans,netbag,,,"sumka, darbag",Phonemic
+9-771-505-1,darg1241,Dargwa (Gapshima dialect),292,кьалтин,CyrillTrans,rug,,,"q’altin, dayban",Phonemic
+9-771-505-3,darg1241,Dargwa (Gapshima dialect),292,дайбан,CyrillTrans,rug,,,"q’altin, dayban",Phonemic
+9-770-505-1,darg1241,Dargwa (Gapshima dialect),195,цирка,CyrillTrans,mat,,,cirka,Phonemic
+9-760-505-1,darg1241,Dargwa (Gapshima dialect),1539,чІап,CyrillTrans,basket,,,čʼap,Phonemic
+9-750-505-1,darg1241,Dargwa (Gapshima dialect),1729,чІянкІи бушес,CyrillTrans,"weave, plait",,,čʼaˤnkʼi bušes,Phonemic
+9-740-505-1,darg1241,Dargwa (Gapshima dialect),604,сурхІи,CyrillTrans,glass,,,"surħi, šiša",Phonemic
+9-740-505-3,darg1241,Dargwa (Gapshima dialect),604,шиша,CyrillTrans,glass,,,"surħi, šiša",Phonemic
+9-730-505-1,darg1241,Dargwa (Gapshima dialect),1399,тарум гІянччи,CyrillTrans,clay,,,tarum ʕaˤnč̄i,Phonemic
+9-720-505-1,darg1241,Dargwa (Gapshima dialect),289,къалипбиркьес,CyrillTrans,mold (clay etc),,,Galipbirq’es,Phonemic
+9-710-505-1,darg1241,Dargwa (Gapshima dialect),359,тІалхІянала уста,CyrillTrans,potter,,,tʼalħaˤnala usta,Phonemic
+9-690-505-1,darg1241,Dargwa (Gapshima dialect),358,цинкІ,CyrillTrans,"tin, tinplate",,,"cinkʼ, meh",Phonemic
+9-690-505-3,darg1241,Dargwa (Gapshima dialect),358,мегь,CyrillTrans,"tin, tinplate",,,"cinkʼ, meh",Phonemic
+9-680-505-1,darg1241,Dargwa (Gapshima dialect),627,гъургъашин,CyrillTrans,lead (noun),,,ɣurɣašin,Phonemic
+9-670-505-1,darg1241,Dargwa (Gapshima dialect),621,мегь,CyrillTrans,iron,,,meh,Phonemic
+9-660-505-1,darg1241,Dargwa (Gapshima dialect),1825,дубси,CyrillTrans,"copper, bronze",,,"dubsi, žarma",Phonemic
+9-660-505-3,darg1241,Dargwa (Gapshima dialect),1825,жарма,CyrillTrans,"copper, bronze",,,"dubsi, žarma",Phonemic
+9-650-505-1,darg1241,Dargwa (Gapshima dialect),759,цІуб арц,CyrillTrans,silver,,,cʼub arc,Phonemic
+9-640-505-1,darg1241,Dargwa (Gapshima dialect),1369,мургье,CyrillTrans,gold,,,murhe,Phonemic
+9-630-505-1,darg1241,Dargwa (Gapshima dialect),211,къалиплизе кертІес,CyrillTrans,cast (metals),,,Galiplize kertʼes,Phonemic
+9-620-505-1,darg1241,Dargwa (Gapshima dialect),1648,убза,CyrillTrans,anvil,,,ubza,Phonemic
+9-610-505-1,darg1241,Dargwa (Gapshima dialect),288,гІевдухь,CyrillTrans,forge,,,ʕewdux̌,Phonemic
+9-600-505-1,darg1241,Dargwa (Gapshima dialect),1001,мегьла уста,CyrillTrans,"smith, blacksmith",,,mehla usta,Phonemic
+9-560-505-1,darg1241,Dargwa (Gapshima dialect),1069,луъмес,CyrillTrans,glue,,,"luʔmes, kley",Phonemic
+9-560-505-3,darg1241,Dargwa (Gapshima dialect),1069,клей,CyrillTrans,glue,,,"luʔmes, kley",Phonemic
+9-500-505-1,darg1241,Dargwa (Gapshima dialect),502,гІябул,CyrillTrans,nail,,,ʕaˤbul,Phonemic
+9-490-505-1,darg1241,Dargwa (Gapshima dialect),1481,кьякь,CyrillTrans,hammer,,,q’aˤq’,Phonemic
+9-480-505-1,darg1241,Dargwa (Gapshima dialect),1948,рас,CyrillTrans,saw,,,ras,Phonemic
+9-461-505-1,darg1241,Dargwa (Gapshima dialect),46,ибжэс,CyrillTrans,hollow out,,,ibžes,Phonemic
+9-460-505-1,darg1241,Dargwa (Gapshima dialect),1501,тІярхъи,CyrillTrans,bore,,,tʼaˤrqi,Phonemic
+9-440-505-1,darg1241,Dargwa (Gapshima dialect),1840,лушес,CyrillTrans,build,,,lušes,Phonemic
+9-430-505-1,darg1241,Dargwa (Gapshima dialect),1042,урцулла уста,CyrillTrans,carpenter,,,urculla usta,Phonemic
+9-422-505-1,darg1241,Dargwa (Gapshima dialect),1361,матяхІ,CyrillTrans,tool,,,"mataˤħ, alat, ustala wayaħ",Phonemic
+9-422-505-3,darg1241,Dargwa (Gapshima dialect),1361,алат,CyrillTrans,tool,,,"mataˤħ, alat, ustala wayaħ",Phonemic
+9-422-505-5,darg1241,Dargwa (Gapshima dialect),1361,устала ваяхI,CyrillTrans,tool,,,"mataˤħ, alat, ustala wayaħ",Phonemic
+9-380-505-1,darg1241,Dargwa (Gapshima dialect),245,бушкала,CyrillTrans,broom,,,buškala,Phonemic
+9-360-505-1,darg1241,Dargwa (Gapshima dialect),1453,бирцес,CyrillTrans,wash,,,birces,Phonemic
+9-370-505-1,darg1241,Dargwa (Gapshima dialect),230,ушкес,CyrillTrans,sweep,,,uškes,Phonemic
+9-350-505-1,darg1241,Dargwa (Gapshima dialect),1487,кертІес,CyrillTrans,pour,,,kertʼes,Phonemic
+9-343-505-1,darg1241,Dargwa (Gapshima dialect),1414,имчес,CyrillTrans,"squeeze, wring",,,"imčes, ʕaˤntʼkaqes",Phonemic
+9-343-505-3,darg1241,Dargwa (Gapshima dialect),1414,гIянтIкахъес,CyrillTrans,"squeeze, wring",,,"imčes, ʕaˤntʼkaqes",Phonemic
+9-342-505-1,darg1241,Dargwa (Gapshima dialect),1913,гъяжбиркьес,CyrillTrans,press,,,ɣaˤžbirq’es,Phonemic
+9-341-505-1,darg1241,Dargwa (Gapshima dialect),357,чебяхІкахъес,CyrillTrans,hang up,,,čebaˤħkaqes,Phonemic
+9-340-505-1,darg1241,Dargwa (Gapshima dialect),38,тІинтІбаркьес,CyrillTrans,spread out,,,tʼintʼbarq’es,Phonemic
+9-330-505-1,darg1241,Dargwa (Gapshima dialect),1455,битІичІес,CyrillTrans,pull,,,bitʼičʼes,Phonemic
+9-320-505-1,darg1241,Dargwa (Gapshima dialect),214,зузбиркьес,CyrillTrans,stretch,,,zuzbirq’es,Phonemic
+9-310-505-1,darg1241,Dargwa (Gapshima dialect),1449,бушкес,CyrillTrans,"rub, wipe",,,buškes,Phonemic
+9-290-505-1,darg1241,Dargwa (Gapshima dialect),291,кам ирхъес,CyrillTrans,"flay, skin",,,kam irqes,Phonemic
+9-280-505-1,darg1241,Dargwa (Gapshima dialect),1735,къяббиркьес,CyrillTrans,tear,,,Gaˤb̄irq’es,Phonemic
+9-270-505-1,darg1241,Dargwa (Gapshima dialect),1437,калэс,CyrillTrans,split,,,kalʔes,Phonemic
+9-261-505-1,darg1241,Dargwa (Gapshima dialect),588,бячунсе,CyrillTrans,broken,,,"baˤčunse, zayabarq’ibse",Phonemic
+9-261-505-3,darg1241,Dargwa (Gapshima dialect),588,заябаркьибсе,CyrillTrans,broken,,,"baˤčunse, zayabarq’ibse",Phonemic
+9-260-505-1,darg1241,Dargwa (Gapshima dialect),680,тІутІубиркьес,CyrillTrans,break,,,tʼutʼubirq’es,Phonemic
+9-250-505-1,darg1241,Dargwa (Gapshima dialect),677,буретта,CyrillTrans,ax,,,buret̄a,Phonemic
+9-251-505-1,darg1241,Dargwa (Gapshima dialect),290,шявхьла,CyrillTrans,adze,,,šaˤwx̌la,Phonemic
+9-240-505-1,darg1241,Dargwa (Gapshima dialect),356,лухІцІи,CyrillTrans,"scissors, shears",,,luħcʼi,Phonemic
+9-230-505-1,darg1241,Dargwa (Gapshima dialect),1352,дис,CyrillTrans,knife,,,dis,Phonemic
+9-223-505-1,darg1241,Dargwa (Gapshima dialect),1434,кабушес,CyrillTrans,stab,,,"kabušes, belhes",Phonemic
+9-223-505-3,darg1241,Dargwa (Gapshima dialect),1434,белгьес,CyrillTrans,stab,,,"kabušes, belhes",Phonemic
+9-222-505-1,darg1241,Dargwa (Gapshima dialect),155,кавтэс,CyrillTrans,"chop, hew",,,kawtes,Phonemic
+9-221-505-1,darg1241,Dargwa (Gapshima dialect),355,къантІбиркьес,CyrillTrans,cut down,,,Gantʼbirq’es,Phonemic
+9-220-505-1,darg1241,Dargwa (Gapshima dialect),1432,лугьес,CyrillTrans,cut,,,luhes,Phonemic
+9-211-505-1,darg1241,Dargwa (Gapshima dialect),354,някъли хункIли виркъес,CyrillTrans,pound with fist,,,naˤGli xunkʼli wirGes,Phonemic
+9-210-505-1,darg1241,Dargwa (Gapshima dialect),2133,итес,CyrillTrans,"strike (hit, beat)",,,"ites, wirGes",Phonemic
+9-210-505-3,darg1241,Dargwa (Gapshima dialect),2133,виркъес,CyrillTrans,"strike (hit, beat)",,,"ites, wirGes",Phonemic
+9-192-505-1,darg1241,Dargwa (Gapshima dialect),760,гІянт,CyrillTrans,knot (noun),,,ʕaˤnt,Phonemic
+9-190-505-1,darg1241,Dargwa (Gapshima dialect),1218,бигьала,CyrillTrans,"rope, cord",,,bihala,Phonemic
+9-180-505-1,darg1241,Dargwa (Gapshima dialect),1627,рахаз,CyrillTrans,chain,,,raxaz,Phonemic
+9-161-505-1,darg1241,Dargwa (Gapshima dialect),352,ирзес,CyrillTrans,untie,,,"irzes, biqes",Phonemic
+9-161-505-3,darg1241,Dargwa (Gapshima dialect),352,бихъес,CyrillTrans,untie,,,"irzes, biqes",Phonemic
+9-160-505-1,darg1241,Dargwa (Gapshima dialect),1917,билсес,CyrillTrans,"tie, bind",,,bilses,Phonemic
+9-150-505-1,darg1241,Dargwa (Gapshima dialect),1470,дярбаркьес,CyrillTrans,fold,,,"daˤrbarq’es, učibirx̌es",Phonemic
+9-150-505-3,darg1241,Dargwa (Gapshima dialect),1470,учибирхьес,CyrillTrans,fold,,,"daˤrbarq’es, učibirx̌es",Phonemic
+9-140-505-1,darg1241,Dargwa (Gapshima dialect),2004,булчІахьес,CyrillTrans,bend,,,bulčʼax̌es,Phonemic
+9-120-505-1,darg1241,Dargwa (Gapshima dialect),984,хІянчи,CyrillTrans,work,,,ħaˤnči,Phonemic
+9-110-505-1,darg1241,Dargwa (Gapshima dialect),2575,биркьес,CyrillTrans,"do, make",,,birq’es,Phonemic
+8-980-505-1,darg1241,Dargwa (Gapshima dialect),641,чуппа кьапІа,CyrillTrans,mushroom,,,čup̄a q’apʼa,Phonemic
+8-970-505-1,darg1241,Dargwa (Gapshima dialect),33,миз,CyrillTrans,nettle,,,miz,Phonemic
+8-941-505-1,darg1241,Dargwa (Gapshima dialect),146,чакарла чІигІя,CyrillTrans,sugar cane,,,čakarla čʼiʕaˤ,Phonemic
+8-940-505-1,darg1241,Dargwa (Gapshima dialect),1927,бамбук,CyrillTrans,bamboo,,,"bambuk, čʼiʕaˤ",Phonemic
+8-940-505-3,darg1241,Dargwa (Gapshima dialect),1927,чІигІя,CyrillTrans,bamboo,,,"bambuk, čʼiʕaˤ",Phonemic
+8-931-505-1,darg1241,Dargwa (Gapshima dialect),864,къабакъ,CyrillTrans,"pumpkin, squash",,,GabaG,Phonemic
+8-930-505-1,darg1241,Dargwa (Gapshima dialect),411,къабакъ,CyrillTrans,gourd,,,GabaG,Phonemic
+8-912-505-1,darg1241,Dargwa (Gapshima dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-505-1,darg1241,Dargwa (Gapshima dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-505-1,darg1241,Dargwa (Gapshima dialect),346,инжирла ккалкка,CyrillTrans,banyan,,,inžirla k̄alk̄a,Phonemic
+8-840-505-1,darg1241,Dargwa (Gapshima dialect),868,бананна ккалкка,CyrillTrans,banana tree,,,bananna k̄alk̄a,Phonemic
+8-830-505-1,darg1241,Dargwa (Gapshima dialect),1126,цитІрусуне,CyrillTrans,citrus fruit,,,citʼrusune,Phonemic
+8-820-505-1,darg1241,Dargwa (Gapshima dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-505-1,darg1241,Dargwa (Gapshima dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-505-1,darg1241,Dargwa (Gapshima dialect),345,духълумала шин,CyrillTrans,sap,,,duqlumala šin,Phonemic
+8-750-505-1,darg1241,Dargwa (Gapshima dialect),1204,кам,CyrillTrans,bark,,,kam,Phonemic
+8-740-505-1,darg1241,Dargwa (Gapshima dialect),409,кІикьяран чIукьарякь кьяли,CyrillTrans,forked branch,,,kʼiq’aˤran čʼuq’araˤq’ q’aˤli,Phonemic
+8-730-505-1,darg1241,Dargwa (Gapshima dialect),344,ар,CyrillTrans,tree trunk,,,ar,Phonemic
+8-720-505-1,darg1241,Dargwa (Gapshima dialect),241,хъитІа,CyrillTrans,tree stump,,,qitʼa,Phonemic
+8-691-505-1,darg1241,Dargwa (Gapshima dialect),1124,кьалиян,CyrillTrans,pipe,,,q’aliyan,Phonemic
+8-690-505-1,darg1241,Dargwa (Gapshima dialect),1689,танбакулла ккав,CyrillTrans,smoke (tobacco),,,tanbakulla k̄aw,Phonemic
+8-680-505-1,darg1241,Dargwa (Gapshima dialect),974,танбаку,CyrillTrans,tobacco,,,tanbaku,Phonemic
+8-670-505-1,darg1241,Dargwa (Gapshima dialect),343,тІутІила бухъ,CyrillTrans,vine,,,tʼutʼila buq,Phonemic
+8-660-505-1,darg1241,Dargwa (Gapshima dialect),968,гье,CyrillTrans,acorn,,,he,Phonemic
+8-650-505-1,darg1241,Dargwa (Gapshima dialect),1915,ятта,CyrillTrans,fir,,,yat̄a,Phonemic
+8-640-505-1,darg1241,Dargwa (Gapshima dialect),1740,ятта,CyrillTrans,pine,,,"yat̄a, c̄ar",Phonemic
+8-640-505-3,darg1241,Dargwa (Gapshima dialect),1740,ццар,CyrillTrans,pine,,,"yat̄a, c̄ar",Phonemic
+8-630-505-1,darg1241,Dargwa (Gapshima dialect),1855,махъ,CyrillTrans,birch,,,maq,Phonemic
+8-620-505-1,darg1241,Dargwa (Gapshima dialect),1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-505-1,darg1241,Dargwa (Gapshima dialect),644,мик,CyrillTrans,oak,,,mik,Phonemic
+8-600-505-1,darg1241,Dargwa (Gapshima dialect),906,ккалкка,CyrillTrans,tree,,,k̄alk̄а,Phonemic
+8-570-505-1,darg1241,Dargwa (Gapshima dialect),239,вава,CyrillTrans,flower,,,wawa,Phonemic
+8-560-505-1,darg1241,Dargwa (Gapshima dialect),628,кІапІпІи,CyrillTrans,leaf,,,kʼap̄ʼi,Phonemic
+8-550-505-1,darg1241,Dargwa (Gapshima dialect),1531,кьяли,CyrillTrans,branch,,,q’aˤli,Phonemic
+8-540-505-1,darg1241,Dargwa (Gapshima dialect),670,маркъа,CyrillTrans,root,,,marGa,Phonemic
+8-531-505-1,darg1241,Dargwa (Gapshima dialect),1486,бухъахъес,CyrillTrans,plant (vb),,,"buqaqes, habaɣaqes",Phonemic
+8-531-505-3,darg1241,Dargwa (Gapshima dialect),1486,гьабагъахъес,CyrillTrans,plant (vb),,,"buqaqes, habaɣaqes",Phonemic
+8-520-505-1,darg1241,Dargwa (Gapshima dialect),342,мура,CyrillTrans,hay,,,mura,Phonemic
+8-530-505-1,darg1241,Dargwa (Gapshima dialect),653,бухъала,CyrillTrans,plant (noun),,,buqala,Phonemic
+8-510-505-1,darg1241,Dargwa (Gapshima dialect),606,кьар,CyrillTrans,grass,,,q’ar,Phonemic
+8-480-505-1,darg1241,Dargwa (Gapshima dialect),926,биринж,CyrillTrans,rice,,,birinž,Phonemic
+8-470-505-1,darg1241,Dargwa (Gapshima dialect),506,хІяжланчІи,CyrillTrans,"maize, corn",,,ħaˤžlančʼi,Phonemic
+8-460-505-1,darg1241,Dargwa (Gapshima dialect),60,нихъя,CyrillTrans,oats,,,niqaˤ,Phonemic
+8-450-505-1,darg1241,Dargwa (Gapshima dialect),23,суссул,CyrillTrans,rye,,,sus̄ul,Phonemic
+8-430-505-1,darg1241,Dargwa (Gapshima dialect),1077,анчІи,CyrillTrans,wheat,,,ančʼi,Phonemic
+8-440-505-1,darg1241,Dargwa (Gapshima dialect),932,мухъи,CyrillTrans,barley,,,muqi,Phonemic
+8-420-505-1,darg1241,Dargwa (Gapshima dialect),605,ризкьи,CyrillTrans,"grain (barley, oats etc)",,,rizq’i,Phonemic
+8-410-505-1,darg1241,Dargwa (Gapshima dialect),611,сабухъ,CyrillTrans,"crop, harvest",,,sabuq,Phonemic
+8-350-505-1,darg1241,Dargwa (Gapshima dialect),223,дургІела,CyrillTrans,threshing-floor,,,durʕela,Phonemic
+8-340-505-1,darg1241,Dargwa (Gapshima dialect),285,дег бирес,CyrillTrans,thresh,,,deg bires,Phonemic
+8-330-505-1,darg1241,Dargwa (Gapshima dialect),2132,михь,CyrillTrans,"sickle, scythe",,,"mix̌, GaˤlGaˤ",Phonemic
+8-330-505-3,darg1241,Dargwa (Gapshima dialect),2132,къялкъя,CyrillTrans,"sickle, scythe",,,"mix̌, GaˤlGaˤ",Phonemic
+8-320-505-1,darg1241,Dargwa (Gapshima dialect),190,уттес,CyrillTrans,"mow, reap",,,"ut̄es, iršes",Phonemic
+8-320-505-3,darg1241,Dargwa (Gapshima dialect),190,иршес,CyrillTrans,"mow, reap",,,"ut̄es, iršes",Phonemic
+8-311-505-1,darg1241,Dargwa (Gapshima dialect),714,гье,CyrillTrans,seed,,,he,Phonemic
+8-310-505-1,darg1241,Dargwa (Gapshima dialect),748,улгІес,CyrillTrans,sow,,,ulʕes,Phonemic
+8-270-505-1,darg1241,Dargwa (Gapshima dialect),338,кадиръан,CyrillTrans,rake,,,"kadirʔan, dirʔla",Phonemic
+8-270-505-3,darg1241,Dargwa (Gapshima dialect),338,диръла,CyrillTrans,rake,,,"kadirʔan, dirʔla",Phonemic
+8-260-505-1,darg1241,Dargwa (Gapshima dialect),337,кьяга,CyrillTrans,fork,,,q’aˤga,Phonemic
+8-250-505-1,darg1241,Dargwa (Gapshima dialect),284,мятІикІ,CyrillTrans,hoe,,,maˤtʼikʼ,Phonemic
+8-240-505-1,darg1241,Dargwa (Gapshima dialect),1901,никІа кІатІа,CyrillTrans,shovel,,,nikʼa kʼatʼa,Phonemic
+8-230-505-1,darg1241,Dargwa (Gapshima dialect),1176,кІатІа,CyrillTrans,spade,,,kʼatʼa,Phonemic
+8-212-505-1,darg1241,Dargwa (Gapshima dialect),1794,хъу,CyrillTrans,furrow,,,"qu, ɣarš",Phonemic
+8-212-505-3,darg1241,Dargwa (Gapshima dialect),1794,гъарш,CyrillTrans,furrow,,,"qu, ɣarš",Phonemic
+8-220-505-1,darg1241,Dargwa (Gapshima dialect),1418,укькьес,CyrillTrans,dig,,,uq̄’es,Phonemic
+8-210-505-1,darg1241,Dargwa (Gapshima dialect),1921,велгІес,CyrillTrans,plow,,,welʕes,Phonemic
+8-170-505-1,darg1241,Dargwa (Gapshima dialect),2002,татаул,CyrillTrans,ditch,,,tataul,Phonemic
+8-160-505-1,darg1241,Dargwa (Gapshima dialect),1690,чяли,CyrillTrans,fence,,,čaˤli,Phonemic
+8-150-505-1,darg1241,Dargwa (Gapshima dialect),1541,ванза бузахъес,CyrillTrans,"cultivate, till",,,wanza buzaqes,Phonemic
+8-130-505-1,darg1241,Dargwa (Gapshima dialect),586,анхъ,CyrillTrans,garden,,,anq,Phonemic
+8-120-505-1,darg1241,Dargwa (Gapshima dialect),212,хъу,CyrillTrans,field (for cultivation),,,qu,Phonemic
+8-110-505-1,darg1241,Dargwa (Gapshima dialect),979,фермер,CyrillTrans,farmer,,,"fermer, qubzar",Phonemic
+8-110-505-3,darg1241,Dargwa (Gapshima dialect),979,хъубзар,CyrillTrans,farmer,,,"fermer, qubzar",Phonemic
+7-640-505-1,darg1241,Dargwa (Gapshima dialect),901,саманна хъали,CyrillTrans,adobe,,,samanna qali,Phonemic
+7-630-505-1,darg1241,Dargwa (Gapshima dialect),224,хъулручи,CyrillTrans,mortar,,,qulruči,Phonemic
+7-620-505-1,darg1241,Dargwa (Gapshima dialect),1006,келпич,CyrillTrans,brick,,,kelpič,Phonemic
+7-580-505-1,darg1241,Dargwa (Gapshima dialect),876,арсавар,CyrillTrans,arch,,,arsawar,Phonemic
+7-610-505-1,darg1241,Dargwa (Gapshima dialect),877,лацла уста,CyrillTrans,mason,,,"lacla usta, GarGalla usta",Phonemic
+7-610-505-3,darg1241,Dargwa (Gapshima dialect),877,къаркъалла уста,CyrillTrans,mason,,,"lacla usta, GarGalla usta",Phonemic
+7-570-505-1,darg1241,Dargwa (Gapshima dialect),1227,уркьули,CyrillTrans,board,,,urq’uli,Phonemic
+7-560-505-1,darg1241,Dargwa (Gapshima dialect),281,ххула тІал,CyrillTrans,"post, pole",,,x̄ula tʼal,Phonemic
+7-550-505-1,darg1241,Dargwa (Gapshima dialect),1132,ццехни,CyrillTrans,beam,,,"c̄exni, t̄ala",Phonemic
+7-550-505-3,darg1241,Dargwa (Gapshima dialect),1132,ттала,CyrillTrans,beam,,,"c̄exni, t̄ala",Phonemic
+7-540-505-1,darg1241,Dargwa (Gapshima dialect),829,старапил,CyrillTrans,rafter,,,"starapil, ubaˤq",Phonemic
+7-540-505-3,darg1241,Dargwa (Gapshima dialect),829,убяхъ,CyrillTrans,rafter,,,"starapil, ubaˤq",Phonemic
+7-530-505-1,darg1241,Dargwa (Gapshima dialect),280,тІал,CyrillTrans,ridgepole,,,tʼal,Phonemic
+7-520-505-1,darg1241,Dargwa (Gapshima dialect),279,чIигIялла хъалчела,CyrillTrans,thatch,,,čʼiʕaˤlla qalčela,Phonemic
+7-510-505-1,darg1241,Dargwa (Gapshima dialect),769,хъалчела,CyrillTrans,roof,,,qalčela,Phonemic
+7-480-505-1,darg1241,Dargwa (Gapshima dialect),205,шинтир,CyrillTrans,trough,,,šintir,Phonemic
+7-470-505-1,darg1241,Dargwa (Gapshima dialect),745,цІунна,CyrillTrans,shelf,,,cʼunna,Phonemic
+7-460-505-1,darg1241,Dargwa (Gapshima dialect),1273,шям,CyrillTrans,candle,,,šaˤm,Phonemic
+7-450-505-1,darg1241,Dargwa (Gapshima dialect),2131,чирагъ,CyrillTrans,"lamp, torch",,,čiraɣ,Phonemic
+7-440-505-1,darg1241,Dargwa (Gapshima dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-505-1,darg1241,Dargwa (Gapshima dialect),1476,ута,CyrillTrans,chair,,,uta,Phonemic
+7-422-505-1,darg1241,Dargwa (Gapshima dialect),806,юлгъан,CyrillTrans,blanket,,,"yulɣan, adiyal",Phonemic
+7-422-505-3,darg1241,Dargwa (Gapshima dialect),806,адиял,CyrillTrans,blanket,,,"yulɣan, adiyal",Phonemic
+7-421-505-1,darg1241,Dargwa (Gapshima dialect),1044,гІянила,CyrillTrans,pillow,,,ʕaˤnila,Phonemic
+7-420-505-1,darg1241,Dargwa (Gapshima dialect),1663,карават,CyrillTrans,bed,,,"karawat, tax",Phonemic
+7-420-505-3,darg1241,Dargwa (Gapshima dialect),1663,тах,CyrillTrans,bed,,,"karawat, tax",Phonemic
+7-370-505-1,darg1241,Dargwa (Gapshima dialect),1464,кканцукь,CyrillTrans,ladder,,,k̄ancuq’,Phonemic
+7-330-505-1,darg1241,Dargwa (Gapshima dialect),1305,замари,CyrillTrans,chimney,,,"zamari, kawla turba",Phonemic
+7-330-505-3,darg1241,Dargwa (Gapshima dialect),1305,кавла турба,CyrillTrans,chimney,,,"zamari, kawla turba",Phonemic
+7-320-505-1,darg1241,Dargwa (Gapshima dialect),859,пиж,CyrillTrans,stove,,,"piž, pič",Phonemic
+7-320-505-3,darg1241,Dargwa (Gapshima dialect),859,пич,CyrillTrans,stove,,,"piž, pič",Phonemic
+7-310-505-1,darg1241,Dargwa (Gapshima dialect),185,цІабилкь,CyrillTrans,fireplace,,,cʼabilq’,Phonemic
+7-270-505-1,darg1241,Dargwa (Gapshima dialect),933,муцари,CyrillTrans,wall,,,"mucari, lac",Phonemic
+7-270-505-3,darg1241,Dargwa (Gapshima dialect),933,лац,CyrillTrans,wall,,,"mucari, lac",Phonemic
+7-260-505-1,darg1241,Dargwa (Gapshima dialect),1632,чІябар,CyrillTrans,floor,,,čʼaˤbar,Phonemic
+7-250-505-1,darg1241,Dargwa (Gapshima dialect),1375,улкьай,CyrillTrans,window,,,"ulq’ay, urq’aula",Phonemic
+7-250-505-3,darg1241,Dargwa (Gapshima dialect),1375,уркьаула,CyrillTrans,window,,,"ulq’ay, urq’aula",Phonemic
+7-240-505-1,darg1241,Dargwa (Gapshima dialect),1472,умхьу,CyrillTrans,key,,,umx̌u,Phonemic
+7-231-505-1,darg1241,Dargwa (Gapshima dialect),1012,уркьадбирхъан,CyrillTrans,"latch, door-bolt",,,urq’adbirqan,Phonemic
+7-230-505-1,darg1241,Dargwa (Gapshima dialect),1596,мегь,CyrillTrans,lock (noun),,,meh,Phonemic
+7-221-505-1,darg1241,Dargwa (Gapshima dialect),80,унццашшали,CyrillTrans,"doorpost, jamb",,,unc̄aš̄ali,Phonemic
+7-210-505-1,darg1241,Dargwa (Gapshima dialect),1450,хъали,CyrillTrans,room,,,qali,Phonemic
+7-220-505-1,darg1241,Dargwa (Gapshima dialect),1567,унцца,CyrillTrans,"door, gate",,,"unc̄a, Gapu",Phonemic
+7-220-505-3,darg1241,Dargwa (Gapshima dialect),1567,къапу,CyrillTrans,"door, gate",,,"unc̄a, Gapu",Phonemic
+7-180-505-1,darg1241,Dargwa (Gapshima dialect),335,хъали,CyrillTrans,meeting house,,,"qali, klub",Phonemic
+7-180-505-3,darg1241,Dargwa (Gapshima dialect),335,клуб,CyrillTrans,meeting house,,,"qali, klub",Phonemic
+7-170-505-1,darg1241,Dargwa (Gapshima dialect),334,кухня,CyrillTrans,cookhouse,,,kuxnya,Phonemic
+7-160-505-1,darg1241,Dargwa (Gapshima dialect),408,жямигІятла хъали,CyrillTrans,men's house,,,žaˤmiʕaˤtla qali,Phonemic
+7-150-505-1,darg1241,Dargwa (Gapshima dialect),736,гІяя,CyrillTrans,"yard, court",,,"ʕaˤya, azbar",Phonemic
+7-150-505-3,darg1241,Dargwa (Gapshima dialect),736,азбар,CyrillTrans,"yard, court",,,"ʕaˤya, azbar",Phonemic
+7-140-505-1,darg1241,Dargwa (Gapshima dialect),1316,палаш,CyrillTrans,tent,,,"palaš, Guš",Phonemic
+7-140-505-3,darg1241,Dargwa (Gapshima dialect),1316,къуш,CyrillTrans,tent,,,"palaš, Guš",Phonemic
+7-131-505-1,darg1241,Dargwa (Gapshima dialect),403,хъали,CyrillTrans,garden-house,,,qali,Phonemic
+7-130-505-1,darg1241,Dargwa (Gapshima dialect),1678,хъали,CyrillTrans,hut,,,"qali, q’icʼiqali",Phonemic
+7-130-505-3,darg1241,Dargwa (Gapshima dialect),1678,кьицIихъали,CyrillTrans,hut,,,"qali, q’icʼiqali",Phonemic
+7-120-505-1,darg1241,Dargwa (Gapshima dialect),1252,хъали,CyrillTrans,house,,,"qali, yurt",Phonemic
+7-120-505-3,darg1241,Dargwa (Gapshima dialect),1252,юрт,CyrillTrans,house,,,"qali, yurt",Phonemic
+7-110-505-1,darg1241,Dargwa (Gapshima dialect),363,хІерурес,CyrillTrans,"dwell, live",,,"ħerures, ħerwes",Phonemic
+7-110-505-3,darg1241,Dargwa (Gapshima dialect),363,хIервес,CyrillTrans,"dwell, live",,,"ħerures, ħerwes",Phonemic
+6-960-505-1,darg1241,Dargwa (Gapshima dialect),1171,лехІимцІала,CyrillTrans,mirror,,,leħimcʼala,Phonemic
+6-950-505-1,darg1241,Dargwa (Gapshima dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-505-1,darg1241,Dargwa (Gapshima dialect),1926,маз,CyrillTrans,ointment,,,"maz, bikan",Phonemic
+6-940-505-3,darg1241,Dargwa (Gapshima dialect),1926,бикан,CyrillTrans,ointment,,,"maz, bikan",Phonemic
+6-930-505-1,darg1241,Dargwa (Gapshima dialect),151,бекІ лугІян,CyrillTrans,razor,,,bekʼ luʕaˤn,Phonemic
+6-921-505-1,darg1241,Dargwa (Gapshima dialect),333,белсла,CyrillTrans,braid,,,belsla,Phonemic
+6-920-505-1,darg1241,Dargwa (Gapshima dialect),1821,дурега,CyrillTrans,brush,,,durega,Phonemic
+6-910-505-1,darg1241,Dargwa (Gapshima dialect),1475,дуръла,CyrillTrans,comb,,,durʔla,Phonemic
+6-820-505-1,darg1241,Dargwa (Gapshima dialect),1021,дяхІушкан,CyrillTrans,towel,,,"daˤħuškan, pаlаtenca",Phonemic
+6-820-505-3,darg1241,Dargwa (Gapshima dialect),1021,палатенца,CyrillTrans,towel,,,"daˤħuškan, pаlаtenca",Phonemic
+6-810-505-1,darg1241,Dargwa (Gapshima dialect),332,яблухъ,CyrillTrans,"handkerchief, rag",,,"yabluq, qaˤbdikala",Phonemic
+6-810-505-3,darg1241,Dargwa (Gapshima dialect),332,хъябдикала,CyrillTrans,"handkerchief, rag",,,"yabluq, qaˤbdikala",Phonemic
+6-790-505-1,darg1241,Dargwa (Gapshima dialect),68,камла някьиш,CyrillTrans,tattoo,,,kamla naˤq’iš,Phonemic
+6-780-505-1,darg1241,Dargwa (Gapshima dialect),330,кьапІа,CyrillTrans,"headband, headdress",,,"q’apʼa, čaba",Phonemic
+6-780-505-3,darg1241,Dargwa (Gapshima dialect),330,чаба,CyrillTrans,"headband, headdress",,,"q’apʼa, čaba",Phonemic
+6-770-505-1,darg1241,Dargwa (Gapshima dialect),770,гьабир,CyrillTrans,earring,,,"habir, leħbaze biršon",Phonemic
+6-770-505-3,darg1241,Dargwa (Gapshima dialect),770,лехIбазе биршон,CyrillTrans,earring,,,"habir, leħbaze biršon",Phonemic
+6-760-505-1,darg1241,Dargwa (Gapshima dialect),1860,духхури,CyrillTrans,bead,,,dux̄uri,Phonemic
+6-750-505-1,darg1241,Dargwa (Gapshima dialect),1961,гьайкари,CyrillTrans,necklace,,,"haykari, dux̄uri",Phonemic
+6-750-505-3,darg1241,Dargwa (Gapshima dialect),1961,духхури,CyrillTrans,necklace,,,"haykari, dux̄uri",Phonemic
+6-740-505-1,darg1241,Dargwa (Gapshima dialect),1754,кулехха,CyrillTrans,bracelet,,,kulex̄a,Phonemic
+6-730-505-1,darg1241,Dargwa (Gapshima dialect),1374,тІулека,CyrillTrans,ring (for finger),,,tʼuleka,Phonemic
+6-720-505-1,darg1241,Dargwa (Gapshima dialect),1029,дурхъасе къаркъа,CyrillTrans,jewel,,,durqase GarGa,Phonemic
+6-710-505-1,darg1241,Dargwa (Gapshima dialect),917,някьиш,CyrillTrans,"ornament, adornment",,,naˤq’iš,Phonemic
+6-630-505-1,darg1241,Dargwa (Gapshima dialect),64,гІярус буреппа,CyrillTrans,pin,,,ʕaˤrus burep̄a,Phonemic
+6-620-505-1,darg1241,Dargwa (Gapshima dialect),757,къаппа,CyrillTrans,button,,,Gap̄a,Phonemic
+6-610-505-1,darg1241,Dargwa (Gapshima dialect),1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-505-1,darg1241,Dargwa (Gapshima dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-505-1,darg1241,Dargwa (Gapshima dialect),867,няхIкул,CyrillTrans,glove,,,naˤħkul,Phonemic
+6-570-505-1,darg1241,Dargwa (Gapshima dialect),772,иржи,CyrillTrans,"belt, girdle",,,irži,Phonemic
+6-550-505-1,darg1241,Dargwa (Gapshima dialect),2130,шляпа,CyrillTrans,"hat, cap",,,"šlyapa, čirča",Phonemic
+6-550-505-3,darg1241,Dargwa (Gapshima dialect),2130,чирча,CyrillTrans,"hat, cap",,,"šlyapa, čirča",Phonemic
+6-540-505-1,darg1241,Dargwa (Gapshima dialect),875,чакмачи,CyrillTrans,"shoemaker, cobbler",,,"čakmači, t̄aprilla usta",Phonemic
+6-540-505-3,darg1241,Dargwa (Gapshima dialect),875,ттаприлла уста,CyrillTrans,"shoemaker, cobbler",,,"čakmači, t̄aprilla usta",Phonemic
+6-510-505-1,darg1241,Dargwa (Gapshima dialect),1381,ттапри,CyrillTrans,shoe,,,t̄apri,Phonemic
+6-520-505-1,darg1241,Dargwa (Gapshima dialect),585,батинкІа,CyrillTrans,boot,,,batinkʼa,Phonemic
+6-490-505-1,darg1241,Dargwa (Gapshima dialect),329,динди,CyrillTrans,"stocking, sock",,,"dindi, tʼirix",Phonemic
+6-490-505-3,darg1241,Dargwa (Gapshima dialect),329,тІирих,CyrillTrans,"stocking, sock",,,"dindi, tʼirix",Phonemic
+6-480-505-1,darg1241,Dargwa (Gapshima dialect),809,шалбар,CyrillTrans,trousers,,,šalbar,Phonemic
+6-461-505-1,darg1241,Dargwa (Gapshima dialect),328,юпка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-505-1,darg1241,Dargwa (Gapshima dialect),1600,юпка,CyrillTrans,skirt,,,yupka,Phonemic
+6-450-505-1,darg1241,Dargwa (Gapshima dialect),2012,хъябцІари,CyrillTrans,collar,,,qaˤbcʼari,Phonemic
+6-440-505-1,darg1241,Dargwa (Gapshima dialect),1622,хъарукІ,CyrillTrans,shirt,,,qarukʼ,Phonemic
+6-430-505-1,darg1241,Dargwa (Gapshima dialect),603,палтІу,CyrillTrans,coat,,,paltʼu,Phonemic
+6-420-505-1,darg1241,Dargwa (Gapshima dialect),474,хІява,CyrillTrans,woman's dress,,,ħaˤwa,Phonemic
+6-390-505-1,darg1241,Dargwa (Gapshima dialect),157,краска,CyrillTrans,dye,,,"kraska, rang",Phonemic
+6-390-505-3,darg1241,Dargwa (Gapshima dialect),157,ранг,CyrillTrans,dye,,,"kraska, rang",Phonemic
+6-410-505-1,darg1241,Dargwa (Gapshima dialect),326,пялаш,CyrillTrans,cloak,,,paˤlaš,Phonemic
+6-380-505-1,darg1241,Dargwa (Gapshima dialect),1161,чІи,CyrillTrans,thread,,,"čʼi, darša",Phonemic
+6-380-505-3,darg1241,Dargwa (Gapshima dialect),1161,дарша,CyrillTrans,thread,,,"čʼi, darša",Phonemic
+6-360-505-1,darg1241,Dargwa (Gapshima dialect),1382,буреппа,CyrillTrans,needle,,,burep̄a,Phonemic
+6-370-505-1,darg1241,Dargwa (Gapshima dialect),278,дуруп,CyrillTrans,awl,,,durup,Phonemic
+6-350-505-1,darg1241,Dargwa (Gapshima dialect),1457,иппес,CyrillTrans,sew,,,ip̄es,Phonemic
+6-340-505-1,darg1241,Dargwa (Gapshima dialect),1787,души душан,CyrillTrans,loom,,,duši dušan,Phonemic
+6-330-505-1,darg1241,Dargwa (Gapshima dialect),133,лукІес,CyrillTrans,weave,,,lukʼes,Phonemic
+6-320-505-1,darg1241,Dargwa (Gapshima dialect),277,чар,CyrillTrans,spindle,,,čar,Phonemic
+6-310-505-1,darg1241,Dargwa (Gapshima dialect),121,лукІес,CyrillTrans,spin,,,lukʼes,Phonemic
+6-290-505-1,darg1241,Dargwa (Gapshima dialect),629,кам,CyrillTrans,leather,,,kam,Phonemic
+6-280-505-1,darg1241,Dargwa (Gapshima dialect),580,ппала,CyrillTrans,fur,,,p̄ala,Phonemic
+6-270-505-1,darg1241,Dargwa (Gapshima dialect),325,варгьи,CyrillTrans,felt,,,warhi,Phonemic
+6-250-505-1,darg1241,Dargwa (Gapshima dialect),1641,дарай,CyrillTrans,silk,,,daray,Phonemic
+6-240-505-1,darg1241,Dargwa (Gapshima dialect),1850,бамбала чІянкІи,CyrillTrans,cotton,,,bambala čʼaˤnkʼi,Phonemic
+6-230-505-1,darg1241,Dargwa (Gapshima dialect),916,чІянкІи,CyrillTrans,"linen, flax",,,čʼaˤnkʼi,Phonemic
+6-220-505-1,darg1241,Dargwa (Gapshima dialect),964,ппалалла чІянкІи,CyrillTrans,wool,,,p̄alalla čʼaˤnkʼi,Phonemic
+6-210-505-1,darg1241,Dargwa (Gapshima dialect),1616,чІянкІи,CyrillTrans,cloth,,,"čʼaˤnkʼi, ʕerqa",Phonemic
+6-210-505-3,darg1241,Dargwa (Gapshima dialect),1616,гІерхъа,CyrillTrans,cloth,,,"čʼaˤnkʼi, ʕerqa",Phonemic
+6-130-505-1,darg1241,Dargwa (Gapshima dialect),881,пялтарла уста,CyrillTrans,tailor,,,paˤltarla usta,Phonemic
+6-120-505-1,darg1241,Dargwa (Gapshima dialect),1895,пялтар,CyrillTrans,"clothing, clothes",,,paˤltar,Phonemic
+6-110-505-1,darg1241,Dargwa (Gapshima dialect),158,пялтар чайгьес,CyrillTrans,put on (clothes),,,paˤltar čayhes,Phonemic
+5-971-505-1,darg1241,Dargwa (Gapshima dialect),1556,бухъу,CyrillTrans,egg yolk,,,buqu,Phonemic
+5-970-505-1,darg1241,Dargwa (Gapshima dialect),744,ччиккари,CyrillTrans,egg,,,č̄ik̄ari,Phonemic
+5-940-505-1,darg1241,Dargwa (Gapshima dialect),404,гьаруш,CyrillTrans,fermented drink,,,haruš,Phonemic
+5-930-505-1,darg1241,Dargwa (Gapshima dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-505-1,darg1241,Dargwa (Gapshima dialect),1524,чягъир,CyrillTrans,wine,,,čaˤɣir,Phonemic
+5-910-505-1,darg1241,Dargwa (Gapshima dialect),941,маккатта,CyrillTrans,mead,,,mak̄at̄a,Phonemic
+5-900-505-1,darg1241,Dargwa (Gapshima dialect),731,дерч,CyrillTrans,"beverage, drink",,,derč,Phonemic
+5-890-505-1,darg1241,Dargwa (Gapshima dialect),1245,агала,CyrillTrans,butter,,,"agala, q’aˤlla čʼimi",Phonemic
+5-890-505-3,darg1241,Dargwa (Gapshima dialect),1245,кьялла чIими,CyrillTrans,butter,,,"agala, q’aˤlla čʼimi",Phonemic
+5-880-505-1,darg1241,Dargwa (Gapshima dialect),1569,нуссия,CyrillTrans,cheese,,,nus̄iya,Phonemic
+5-870-505-1,darg1241,Dargwa (Gapshima dialect),93,ниъ изес,CyrillTrans,milk (vb),,,niʔ izes,Phonemic
+5-850-505-1,darg1241,Dargwa (Gapshima dialect),862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-505-1,darg1241,Dargwa (Gapshima dialect),635,ниъ,CyrillTrans,milk (noun),,,niʔ,Phonemic
+5-840-505-1,darg1241,Dargwa (Gapshima dialect),942,варъа,CyrillTrans,honey,,,warʔa,Phonemic
+5-821-505-1,darg1241,Dargwa (Gapshima dialect),919,цІакьсе иссиват,CyrillTrans,chili pepper,,,cʼaq’se is̄iwat,Phonemic
+5-820-505-1,darg1241,Dargwa (Gapshima dialect),1385,иссиват,CyrillTrans,pepper,,,is̄iwat,Phonemic
+5-810-505-1,darg1241,Dargwa (Gapshima dialect),1274,цце,CyrillTrans,salt,,,c̄e,Phonemic
+5-791-505-1,darg1241,Dargwa (Gapshima dialect),323,гІявадеш,CyrillTrans,"grease, fat",,,"ʕaˤwadeš, ħaˤli",Phonemic
+5-791-505-3,darg1241,Dargwa (Gapshima dialect),323,хІяли,CyrillTrans,"grease, fat",,,"ʕaˤwadeš, ħaˤli",Phonemic
+5-790-505-1,darg1241,Dargwa (Gapshima dialect),1484,хІяли,CyrillTrans,oil,,,ħaˤli,Phonemic
+5-780-505-1,darg1241,Dargwa (Gapshima dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-505-1,darg1241,Dargwa (Gapshima dialect),920,тІутІи,CyrillTrans,grape,,,tʼutʼi,Phonemic
+5-770-505-1,darg1241,Dargwa (Gapshima dialect),191,хим,CyrillTrans,nut,,,xim,Phonemic
+5-750-505-1,darg1241,Dargwa (Gapshima dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-505-1,darg1241,Dargwa (Gapshima dialect),1966,бухъ,CyrillTrans,bunch,,,buq,Phonemic
+5-710-505-1,darg1241,Dargwa (Gapshima dialect),1507,цІедеш,CyrillTrans,fruit,,,cʼedeš,Phonemic
+5-700-505-1,darg1241,Dargwa (Gapshima dialect),593,гІяб,CyrillTrans,potato,,,"ʕaˤb, kartuškʼa",Phonemic
+5-700-505-3,darg1241,Dargwa (Gapshima dialect),593,картушкІа,CyrillTrans,potato,,,"ʕaˤb, kartuškʼa",Phonemic
+5-660-505-1,darg1241,Dargwa (Gapshima dialect),832,кІарахъан хъара,CyrillTrans,bean,,,kʼaraqan qara,Phonemic
+5-650-505-1,darg1241,Dargwa (Gapshima dialect),924,хъула,CyrillTrans,vegetables,,,"qula, duqlumi",Phonemic
+5-650-505-3,darg1241,Dargwa (Gapshima dialect),924,духълуми,CyrillTrans,vegetables,,,"qula, duqlumi",Phonemic
+5-640-505-1,darg1241,Dargwa (Gapshima dialect),1547,нергъ,CyrillTrans,"soup, broth",,,nerɣ,Phonemic
+5-630-505-1,darg1241,Dargwa (Gapshima dialect),1874,рут,CyrillTrans,sausage,,,"rut, baˤrxaˤri, kаlbasa",Phonemic
+5-630-505-3,darg1241,Dargwa (Gapshima dialect),1874,бярхяри,CyrillTrans,sausage,,,"rut, baˤrxaˤri, kаlbasa",Phonemic
+5-630-505-5,darg1241,Dargwa (Gapshima dialect),1874,калбаса,CyrillTrans,sausage,,,"rut, baˤrxaˤri, kаlbasa",Phonemic
+5-610-505-1,darg1241,Dargwa (Gapshima dialect),634,диъ,CyrillTrans,meat,,,diʔ,Phonemic
+5-590-505-1,darg1241,Dargwa (Gapshima dialect),225,чершиъитан,CyrillTrans,pestle,,,čeršiʔitan,Phonemic
+5-580-505-1,darg1241,Dargwa (Gapshima dialect),224,чершиъитан,CyrillTrans,mortar (2),,,čeršiʔitan,Phonemic
+5-570-505-1,darg1241,Dargwa (Gapshima dialect),636,шинкьа,CyrillTrans,mill,,,šinq’a,Phonemic
+5-560-505-1,darg1241,Dargwa (Gapshima dialect),1033,гъяжбиркьес,CyrillTrans,"crush, grind",,,"ɣaˤžbirq’es, butʼnarbirq’es",Phonemic
+5-560-505-3,darg1241,Dargwa (Gapshima dialect),1033,бутІнарбиркьес,CyrillTrans,"crush, grind",,,"ɣaˤžbirq’es, butʼnarbirq’es",Phonemic
+5-550-505-1,darg1241,Dargwa (Gapshima dialect),1594,бетІу,CyrillTrans,"meal, flour",,,"betʼu, deq’",Phonemic
+5-550-505-3,darg1241,Dargwa (Gapshima dialect),1594,декь,CyrillTrans,"meal, flour",,,"betʼu, deq’",Phonemic
+5-540-505-1,darg1241,Dargwa (Gapshima dialect),274,бетІу балшес,CyrillTrans,knead,,,betʼu balšes,Phonemic
+5-530-505-1,darg1241,Dargwa (Gapshima dialect),273,бетІу,CyrillTrans,dough,,,"betʼu, xamir",Phonemic
+5-530-505-3,darg1241,Dargwa (Gapshima dialect),273,хамир,CyrillTrans,dough,,,"betʼu, xamir",Phonemic
+5-510-505-1,darg1241,Dargwa (Gapshima dialect),1368,цІулхІя,CyrillTrans,bread,,,"cʼulħaˤ, q’acʼ",Phonemic
+5-510-505-3,darg1241,Dargwa (Gapshima dialect),1368,кьацІ,CyrillTrans,bread,,,"cʼulħaˤ, q’acʼ",Phonemic
+5-490-505-1,darg1241,Dargwa (Gapshima dialect),2017,гъудурбиркьес,CyrillTrans,"stir, mix",,,ɣudurbirq’es,Phonemic
+5-480-505-1,darg1241,Dargwa (Gapshima dialect),1767,гъярбиркъес,CyrillTrans,scrape,,,"ɣaˤrbirGes, surkbarq’es",Phonemic
+5-480-505-3,darg1241,Dargwa (Gapshima dialect),1767,суркбаркьес,CyrillTrans,scrape,,,"ɣaˤrbirGes, surkbarq’es",Phonemic
+5-470-505-1,darg1241,Dargwa (Gapshima dialect),86,умъэс,CyrillTrans,"sieve, strain",,,umʔes,Phonemic
+5-460-505-1,darg1241,Dargwa (Gapshima dialect),275,умъубиркьес,CyrillTrans,peel,,,umʔubirq’es,Phonemic
+5-450-505-1,darg1241,Dargwa (Gapshima dialect),1833,дужикани,CyrillTrans,supper,,,dužikani,Phonemic
+5-440-505-1,darg1241,Dargwa (Gapshima dialect),1833,хІерикани,CyrillTrans,dinner,,,ħerikani,Phonemic
+5-420-505-1,darg1241,Dargwa (Gapshima dialect),1322,чялкани,CyrillTrans,breakfast,,,čaˤlkani,Phonemic
+5-410-505-1,darg1241,Dargwa (Gapshima dialect),1526,укни,CyrillTrans,meal (a),,,"ukni, berčese",Phonemic
+5-410-505-3,darg1241,Dargwa (Gapshima dialect),1526,берчесе,CyrillTrans,meal (a),,,"ukni, berčese",Phonemic
+5-391-505-1,darg1241,Dargwa (Gapshima dialect),272,кьацІдурц,CyrillTrans,tongs,,,q’acʼdurc,Phonemic
+5-390-505-1,darg1241,Dargwa (Gapshima dialect),1302,унтІаначчи,CyrillTrans,fork (2),,,untʼanač̄i,Phonemic
+5-380-505-1,darg1241,Dargwa (Gapshima dialect),1352,дис,CyrillTrans,knife (2),,,dis,Phonemic
+5-370-505-1,darg1241,Dargwa (Gapshima dialect),1378,кьусса,CyrillTrans,spoon,,,q’us̄a,Phonemic
+5-360-505-1,darg1241,Dargwa (Gapshima dialect),271,кьям,CyrillTrans,saucer,,,q’aˤm,Phonemic
+5-350-505-1,darg1241,Dargwa (Gapshima dialect),476,пигьала,CyrillTrans,"cup, drinking vessel",,,pihala,Phonemic
+5-330-505-1,darg1241,Dargwa (Gapshima dialect),1530,кІуръи,CyrillTrans,bowl,,,"kʼurʔi, pihala",Phonemic
+5-330-505-3,darg1241,Dargwa (Gapshima dialect),1530,пигьала,CyrillTrans,bowl,,,"kʼurʔi, pihala",Phonemic
+5-340-505-1,darg1241,Dargwa (Gapshima dialect),270,кІалтІа,CyrillTrans,"pitcher, jug",,,"kʼaltʼa, qaba",Phonemic
+5-340-505-3,darg1241,Dargwa (Gapshima dialect),270,хъаба,CyrillTrans,"pitcher, jug",,,"kʼaltʼa, qaba",Phonemic
+5-320-505-1,darg1241,Dargwa (Gapshima dialect),480,гъадари,CyrillTrans,plate,,,ɣadari,Phonemic
+5-310-505-1,darg1241,Dargwa (Gapshima dialect),481,кьям,CyrillTrans,dish,,,q’aˤm,Phonemic
+5-280-505-1,darg1241,Dargwa (Gapshima dialect),31,шанг,CyrillTrans,pan,,,šang,Phonemic
+5-260-505-1,darg1241,Dargwa (Gapshima dialect),1462,хъаба,CyrillTrans,"pot, cooking vessel",,,"qaba, goršok, q’icʼišang",Phonemic
+5-260-505-3,darg1241,Dargwa (Gapshima dialect),1462,горшок,CyrillTrans,"pot, cooking vessel",,,"qaba, goršok, q’icʼišang",Phonemic
+5-260-505-5,darg1241,Dargwa (Gapshima dialect),1462,кьицIишанг,CyrillTrans,"pot, cooking vessel",,,"qaba, goršok, q’icʼišang",Phonemic
+5-270-505-1,darg1241,Dargwa (Gapshima dialect),854,чяйник,CyrillTrans,kettle,,,čaˤynik,Phonemic
+5-240-505-1,darg1241,Dargwa (Gapshima dialect),183,берцІес,CyrillTrans,bake,,,bercʼes,Phonemic
+5-250-505-1,darg1241,Dargwa (Gapshima dialect),1143,пич,CyrillTrans,oven,,,pič,Phonemic
+5-230-505-1,darg1241,Dargwa (Gapshima dialect),2146,буцІес,CyrillTrans,"roast, fry",,,bucʼes,Phonemic
+5-220-505-1,darg1241,Dargwa (Gapshima dialect),792,рурхъяхъес,CyrillTrans,boil (vb),,,rurqaˤqes,Phonemic
+5-210-505-1,darg1241,Dargwa (Gapshima dialect),1100,лушшес,CyrillTrans,cook,,,luš̄es,Phonemic
+5-190-505-1,darg1241,Dargwa (Gapshima dialect),129,гІянтагьачІес,CyrillTrans,choke,,,ʕaˤntahačʼes,Phonemic
+5-181-505-1,darg1241,Dargwa (Gapshima dialect),897,кьяриэс,CyrillTrans,swallow,,,q’aˤriʔes,Phonemic
+5-180-505-1,darg1241,Dargwa (Gapshima dialect),321,чІамбиркьес,CyrillTrans,chew,,,čʼambirq’es,Phonemic
+5-160-505-1,darg1241,Dargwa (Gapshima dialect),1421,супІбиркьес,CyrillTrans,suck,,,supʼbirq’es,Phonemic
+5-150-505-1,darg1241,Dargwa (Gapshima dialect),848,муливдеш,CyrillTrans,thirst,,,muliwdeš,Phonemic
+5-141-505-1,darg1241,Dargwa (Gapshima dialect),199,ккаша-дягІя,CyrillTrans,famine,,,k̄aša-daˤʕaˤ,Phonemic
+5-140-505-1,darg1241,Dargwa (Gapshima dialect),1864,ккаша,CyrillTrans,hunger,,,k̄aša,Phonemic
+5-130-505-1,darg1241,Dargwa (Gapshima dialect),1401,уччес,CyrillTrans,drink,,,uč̄es,Phonemic
+5-125-505-1,darg1241,Dargwa (Gapshima dialect),1728,берхІибсе,CyrillTrans,rotten,,,berħibse,Phonemic
+5-124-505-1,darg1241,Dargwa (Gapshima dialect),1958,хІябикьурсе,CyrillTrans,"green, unripe",,,"ħaˤbiq’urse, sarħaˤbaɣibse",Phonemic
+5-124-505-3,darg1241,Dargwa (Gapshima dialect),1958,сархІябагъибсе,CyrillTrans,"green, unripe",,,"ħaˤbiq’urse, sarħaˤbaɣibse",Phonemic
+5-123-505-1,darg1241,Dargwa (Gapshima dialect),178,бикьурсе,CyrillTrans,ripe,,,"biq’urse, sabaɣibse",Phonemic
+5-123-505-3,darg1241,Dargwa (Gapshima dialect),178,сабагъибсе,CyrillTrans,ripe,,,"biq’urse, sabaɣibse",Phonemic
+5-122-505-1,darg1241,Dargwa (Gapshima dialect),1959,зярхІсе,CyrillTrans,raw,,,zaˤrħse,Phonemic
+5-121-505-1,darg1241,Dargwa (Gapshima dialect),269,белхьунсе,CyrillTrans,cooked,,,belx̌unse,Phonemic
+5-120-505-1,darg1241,Dargwa (Gapshima dialect),256,беркала,CyrillTrans,food,,,"berkala, xureg",Phonemic
+5-120-505-3,darg1241,Dargwa (Gapshima dialect),256,хурег,CyrillTrans,food,,,"berkala, xureg",Phonemic
+5-110-505-1,darg1241,Dargwa (Gapshima dialect),1336,учес,CyrillTrans,eat,,,učes,Phonemic
+4-990-505-1,darg1241,Dargwa (Gapshima dialect),590,чІянкІусе,CyrillTrans,"naked, bare",,,čʼaˤnkʼuse,Phonemic
+4-970-505-1,darg1241,Dargwa (Gapshima dialect),1653,сукъкъур,CyrillTrans,blind,,,suḠur,Phonemic
+4-980-505-1,darg1241,Dargwa (Gapshima dialect),1463,берччибсе,CyrillTrans,intoxicated,,,berč̄ibse,Phonemic
+4-960-505-1,darg1241,Dargwa (Gapshima dialect),1666,мец хІядалан,CyrillTrans,mute,,,mec ħaˤdalan,Phonemic
+4-950-505-1,darg1241,Dargwa (Gapshima dialect),996,гІянцІсе,CyrillTrans,deaf,,,ʕaˤncʼse,Phonemic
+4-930-505-1,darg1241,Dargwa (Gapshima dialect),1125,бекІ чІянкІсе,CyrillTrans,bald,,,"bekʼ čʼaˤnkʼse, bekʼ amčʼurse",Phonemic
+4-930-505-3,darg1241,Dargwa (Gapshima dialect),1125,бекI амчIурсе,CyrillTrans,bald,,,"bekʼ čʼaˤnkʼse, bekʼ amčʼurse",Phonemic
+4-940-505-1,darg1241,Dargwa (Gapshima dialect),320,гІяркучІес,CyrillTrans,lame,,,ʕaˤrkučʼes,Phonemic
+4-920-505-1,darg1241,Dargwa (Gapshima dialect),1564,азгъинсе,CyrillTrans,lazy,,,azɣinse,Phonemic
+4-912-505-1,darg1241,Dargwa (Gapshima dialect),168,бамсриахъес,CyrillTrans,rest,,,bamsriaqes,Phonemic
+4-910-505-1,darg1241,Dargwa (Gapshima dialect),1757,вамсурсе,CyrillTrans,"tired, weary",,,"wamsurse, ʕaˤzizse",Phonemic
+4-910-505-3,darg1241,Dargwa (Gapshima dialect),1757,гІязизсе,CyrillTrans,"tired, weary",,,"wamsurse, ʕaˤzizse",Phonemic
+4-890-505-1,darg1241,Dargwa (Gapshima dialect),655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-505-1,darg1241,Dargwa (Gapshima dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"darman, daru",Phonemic
+4-880-505-3,darg1241,Dargwa (Gapshima dialect),1372,дару,CyrillTrans,"medicine, drug",,,"darman, daru",Phonemic
+4-870-505-1,darg1241,Dargwa (Gapshima dialect),597,тухтур,CyrillTrans,physician,,,"tuxtur, daˤqnuš, wrač",Phonemic
+4-870-505-3,darg1241,Dargwa (Gapshima dialect),597,дяхънуш,CyrillTrans,physician,,,"tuxtur, daˤqnuš, wrač",Phonemic
+4-870-505-5,darg1241,Dargwa (Gapshima dialect),597,врач,CyrillTrans,physician,,,"tuxtur, daˤqnuš, wrač",Phonemic
+4-860-505-1,darg1241,Dargwa (Gapshima dialect),499,араиркьес,CyrillTrans,"cure, heal",,,arairq’es,Phonemic
+4-858-505-1,darg1241,Dargwa (Gapshima dialect),497,хІяна,CyrillTrans,scar,,,ħaˤna,Phonemic
+4-857-505-1,darg1241,Dargwa (Gapshima dialect),1808,шшах,CyrillTrans,pus,,,š̄ax,Phonemic
+4-856-505-1,darg1241,Dargwa (Gapshima dialect),793,шшахла пушягІ,CyrillTrans,boil (noun),,,š̄axla pušaˤʕ,Phonemic
+4-855-505-1,darg1241,Dargwa (Gapshima dialect),1584,пушягІ,CyrillTrans,blister,,,"pušaˤʕ, šintari",Phonemic
+4-855-505-3,darg1241,Dargwa (Gapshima dialect),1584,шинтари,CyrillTrans,blister,,,"pušaˤʕ, šintari",Phonemic
+4-854-505-1,darg1241,Dargwa (Gapshima dialect),148,букни,CyrillTrans,itch,,,"bukni, ɣaˤndbikʼni",Phonemic
+4-854-505-3,darg1241,Dargwa (Gapshima dialect),148,гъяндбикIни,CyrillTrans,itch,,,"bukni, ɣaˤndbikʼni",Phonemic
+4-853-505-1,darg1241,Dargwa (Gapshima dialect),1903,бемтни,CyrillTrans,swelling,,,bemtni,Phonemic
+4-852-505-1,darg1241,Dargwa (Gapshima dialect),1148,ликка бячни,CyrillTrans,bruise,,,"lik̄a baˤčni, uruxbiʔni",Phonemic
+4-852-505-3,darg1241,Dargwa (Gapshima dialect),1148,урухбиъни,CyrillTrans,bruise,,,"lik̄a baˤčni, uruxbiʔni",Phonemic
+4-850-505-1,darg1241,Dargwa (Gapshima dialect),1109,дяхъи,CyrillTrans,"wound, sore",,,daˤqi,Phonemic
+4-843-505-1,darg1241,Dargwa (Gapshima dialect),102,ттяххувяхъни,CyrillTrans,cold (catarrh),,,"t̄aˤx̄uwaˤqni, paˤxla icala",Phonemic
+4-843-505-3,darg1241,Dargwa (Gapshima dialect),102,пяхла ицала,CyrillTrans,cold (catarrh),,,"t̄aˤx̄uwaˤqni, paˤxla icala",Phonemic
+4-842-505-1,darg1241,Dargwa (Gapshima dialect),1957,кьакла демтри,CyrillTrans,goiter,,,q’akla demtri,Phonemic
+4-841-505-1,darg1241,Dargwa (Gapshima dialect),1534,буцІар иццала,CyrillTrans,fever,,,bucʼar ic̄ala,Phonemic
+4-840-505-1,darg1241,Dargwa (Gapshima dialect),1847,иццусе,CyrillTrans,"sick, sickness",,,"ic̄use, ic̄ala",Phonemic
+4-840-505-3,darg1241,Dargwa (Gapshima dialect),1847,иццала,CyrillTrans,"sick, sickness",,,"ic̄use, ic̄ala",Phonemic
+4-830-505-1,darg1241,Dargwa (Gapshima dialect),1364,арасе,CyrillTrans,"well, health",,,"arase, aradeš, arasaɣse",Phonemic
+4-830-505-3,darg1241,Dargwa (Gapshima dialect),1364,арадеш,CyrillTrans,"well, health",,,"arase, aradeš, arasaɣse",Phonemic
+4-830-505-5,darg1241,Dargwa (Gapshima dialect),1364,арасагъсе,CyrillTrans,"well, health",,,"arase, aradeš, arasaɣse",Phonemic
+4-820-505-1,darg1241,Dargwa (Gapshima dialect),1601,цІакьаккарсе,CyrillTrans,weak,,,"cʼaq’ak̄arse, usalse",Phonemic
+4-820-505-3,darg1241,Dargwa (Gapshima dialect),1601,усалсе,CyrillTrans,weak,,,"cʼaq’ak̄arse, usalse",Phonemic
+4-810-505-1,darg1241,Dargwa (Gapshima dialect),785,цІакьсе,CyrillTrans,"strong, mighty, powerful",,,"cʼaq’se, q’uwatse",Phonemic
+4-810-505-3,darg1241,Dargwa (Gapshima dialect),785,кьуватсе,CyrillTrans,"strong, mighty, powerful",,,"cʼaq’se, q’uwatse",Phonemic
+4-790-505-1,darg1241,Dargwa (Gapshima dialect),1773,ххяб,CyrillTrans,"grave, tomb",,,x̄aˤb,Phonemic
+4-780-505-1,darg1241,Dargwa (Gapshima dialect),1719,ххярикайшес,CyrillTrans,bury (the dead),,,x̄aˤrikayšes,Phonemic
+4-770-505-1,darg1241,Dargwa (Gapshima dialect),767,вебкІура,CyrillTrans,corpse,,,"webkʼura, bebkʼa",Phonemic
+4-770-505-3,darg1241,Dargwa (Gapshima dialect),767,бебкІа,CyrillTrans,corpse,,,"webkʼura, bebkʼa",Phonemic
+4-760-505-1,darg1241,Dargwa (Gapshima dialect),1417,кавшес,CyrillTrans,kill,,,kawšes,Phonemic
+4-751-505-1,darg1241,Dargwa (Gapshima dialect),1904,укайчес,CyrillTrans,drowned,,,"ukayčes, ukayčibse",Phonemic
+4-751-505-3,darg1241,Dargwa (Gapshima dialect),1904,укайчибсе,CyrillTrans,drowned,,,"ukayčes, ukayčibse",Phonemic
+4-750-505-1,darg1241,Dargwa (Gapshima dialect),1494,вебчІес,CyrillTrans,"die, dead",,,"webčʼes, webčʼibse",Phonemic
+4-750-505-3,darg1241,Dargwa (Gapshima dialect),1494,вебчІибсе,CyrillTrans,"die, dead",,,"webčʼes, webčʼibse",Phonemic
+4-740-505-1,darg1241,Dargwa (Gapshima dialect),1422,хІервес,CyrillTrans,"live, living, life",,,"ħerwes, micʼirse, ʕaˤmru",Phonemic
+4-740-505-3,darg1241,Dargwa (Gapshima dialect),1422,мицІирсе,CyrillTrans,"live, living, life",,,"ħerwes, micʼirse, ʕaˤmru",Phonemic
+4-740-505-5,darg1241,Dargwa (Gapshima dialect),1422,гІямру,CyrillTrans,"live, living, life",,,"ħerwes, micʼirse, ʕaˤmru",Phonemic
+4-732-505-1,darg1241,Dargwa (Gapshima dialect),1087,ремжес,CyrillTrans,conceive,,,remžes,Phonemic
+4-730-505-1,darg1241,Dargwa (Gapshima dialect),1123,ремжессе,CyrillTrans,pregnant,,,"remžes̄e, q’icʼiselizerse",Phonemic
+4-730-505-3,darg1241,Dargwa (Gapshima dialect),1123,кьицIиселизерсе,CyrillTrans,pregnant,,,"remžes̄e, q’icʼiselizerse",Phonemic
+4-720-505-1,darg1241,Dargwa (Gapshima dialect),1090,гьачІес,CyrillTrans,born (to be),,,hačʼes,Phonemic
+4-710-505-1,darg1241,Dargwa (Gapshima dialect),1152,дярхІя варкьахъес,CyrillTrans,beget (of father),,,daˤrħaˤ warq’aqes,Phonemic
+4-690-505-1,darg1241,Dargwa (Gapshima dialect),138,калхъес,CyrillTrans,bathe,,,kalqes,Phonemic
+4-680-505-1,darg1241,Dargwa (Gapshima dialect),52,кІаркІаручІес,CyrillTrans,shiver,,,kʼarkʼaručʼes,Phonemic
+4-670-505-1,darg1241,Dargwa (Gapshima dialect),1785,ухІес,CyrillTrans,have sexual intercourse,,,uħes,Phonemic
+4-660-505-1,darg1241,Dargwa (Gapshima dialect),676,пухучІес,CyrillTrans,defecate,,,puxučʼes,Phonemic
+4-650-505-1,darg1241,Dargwa (Gapshima dialect),592,ччухучІес,CyrillTrans,urinate,,,č̄uxučʼes,Phonemic
+4-640-505-1,darg1241,Dargwa (Gapshima dialect),1159,къякъучІес,CyrillTrans,break wind,,,GaˤGučʼes,Phonemic
+4-630-505-1,darg1241,Dargwa (Gapshima dialect),1602,чевиргъес,CyrillTrans,wake up,,,čewirɣes,Phonemic
+4-620-505-1,darg1241,Dargwa (Gapshima dialect),1920,гьанкI чебаэс,CyrillTrans,dream,,,hankʼ čebaʔes,Phonemic
+4-612-505-1,darg1241,Dargwa (Gapshima dialect),1983,хухучІес,CyrillTrans,snore,,,xuxučʼes,Phonemic
+4-610-505-1,darg1241,Dargwa (Gapshima dialect),1585,уссес,CyrillTrans,sleep,,,us̄es,Phonemic
+4-591-505-1,darg1241,Dargwa (Gapshima dialect),268,шятра тIутIуучІес,CyrillTrans,dribble,,,šaˤtra tʼutʼuʔučʼes,Phonemic
+4-590-505-1,darg1241,Dargwa (Gapshima dialect),319,лимцІучІес,CyrillTrans,lick,,,limcʼučʼes,Phonemic
+4-580-505-1,darg1241,Dargwa (Gapshima dialect),1403,кьацІучІес,CyrillTrans,bite,,,q’acʼučʼes,Phonemic
+4-570-505-1,darg1241,Dargwa (Gapshima dialect),1278,учІигъудурдичІес,CyrillTrans,vomit,,,učʼiɣudurdičʼes,Phonemic
+4-560-505-1,darg1241,Dargwa (Gapshima dialect),1440,туъучІес,CyrillTrans,spit,,,"tuʔučʼes, tu",Phonemic
+4-560-505-3,darg1241,Dargwa (Gapshima dialect),1440,ту,CyrillTrans,spit,,,"tuʔučʼes, tu",Phonemic
+4-550-505-1,darg1241,Dargwa (Gapshima dialect),126,мелисалтес,CyrillTrans,perspire,,,melisaltes,Phonemic
+4-540-505-1,darg1241,Dargwa (Gapshima dialect),1621,гІимчучІес,CyrillTrans,sneeze,,,ʕimčučʼes,Phonemic
+4-530-505-1,darg1241,Dargwa (Gapshima dialect),879,хъехІучІес,CyrillTrans,cough,,,qeħučʼes,Phonemic
+4-521-505-1,darg1241,Dargwa (Gapshima dialect),162,гьеркучІес,CyrillTrans,hiccough,,,herkučʼes,Phonemic
+4-520-505-1,darg1241,Dargwa (Gapshima dialect),1028,гьагьучІес,CyrillTrans,"yawn, gape",,,hahučʼes,Phonemic
+4-510-505-1,darg1241,Dargwa (Gapshima dialect),1407,гьегьучІес,CyrillTrans,"breathe, breath",,,hehučʼes,Phonemic
+4-492-505-1,darg1241,Dargwa (Gapshima dialect),1222,ттуна,CyrillTrans,penis,,,t̄una,Phonemic
+4-490-505-1,darg1241,Dargwa (Gapshima dialect),797,кьулекьа,CyrillTrans,testicle,,,"q’uleq’a, q’ulq’me",Phonemic
+4-490-505-3,darg1241,Dargwa (Gapshima dialect),797,кьулкьме,CyrillTrans,testicle,,,"q’uleq’a, q’ulq’me",Phonemic
+4-470-505-1,darg1241,Dargwa (Gapshima dialect),804,дярхІнуг,CyrillTrans,womb,,,daˤrħnug,Phonemic
+4-464-505-1,darg1241,Dargwa (Gapshima dialect),834,хяхла кьикьбе,CyrillTrans,buttocks,,,xaˤxla q’iq’be,Phonemic
+4-463-505-1,darg1241,Dargwa (Gapshima dialect),1745,уртур,CyrillTrans,hip,,,urtur,Phonemic
+4-462-505-1,darg1241,Dargwa (Gapshima dialect),1681,вай,CyrillTrans,waist,,,"way, ray",Phonemic
+4-462-505-3,darg1241,Dargwa (Gapshima dialect),1681,рай,CyrillTrans,waist,,,"way, ray",Phonemic
+4-461-505-1,darg1241,Dargwa (Gapshima dialect),1991,сукъур рут,CyrillTrans,"intestines, guts",,,suGur rut,Phonemic
+4-460-505-1,darg1241,Dargwa (Gapshima dialect),819,чимхъа,CyrillTrans,stomach,,,čimqa,Phonemic
+4-452-505-1,darg1241,Dargwa (Gapshima dialect),1744,кІацІ,CyrillTrans,spleen,,,kʼacʼ,Phonemic
+4-451-505-1,darg1241,Dargwa (Gapshima dialect),489,урцец,CyrillTrans,kidney,,,urcec,Phonemic
+4-450-505-1,darg1241,Dargwa (Gapshima dialect),1224,дулекІ,CyrillTrans,liver,,,dulekʼ,Phonemic
+4-441-505-1,darg1241,Dargwa (Gapshima dialect),688,хургьре,CyrillTrans,lung,,,xurhre,Phonemic
+4-440-505-1,darg1241,Dargwa (Gapshima dialect),1223,урчІи,CyrillTrans,heart,,,určʼi,Phonemic
+4-430-505-1,darg1241,Dargwa (Gapshima dialect),1838,хях,CyrillTrans,navel,,,"xaˤx, x̌arcum",Phonemic
+4-430-505-3,darg1241,Dargwa (Gapshima dialect),1838,хьарцум,CyrillTrans,navel,,,"xaˤx, x̌arcum",Phonemic
+4-420-505-1,darg1241,Dargwa (Gapshima dialect),154,кьялла мама,CyrillTrans,udder,,,q’aˤlla mama,Phonemic
+4-412-505-1,darg1241,Dargwa (Gapshima dialect),796,бехІ мама,CyrillTrans,"nipple, teat",,,beħ mama,Phonemic
+4-410-505-1,darg1241,Dargwa (Gapshima dialect),1402,мама,CyrillTrans,breast (of woman),,,mama,Phonemic
+4-400-505-1,darg1241,Dargwa (Gapshima dialect),1592,михъирла тІакьа,CyrillTrans,chest,,,"miqirla tʼaq’a, miqiri",Phonemic
+4-400-505-3,darg1241,Dargwa (Gapshima dialect),1592,михъири,CyrillTrans,chest,,,"miqirla tʼaq’a, miqiri",Phonemic
+4-393-505-1,darg1241,Dargwa (Gapshima dialect),1201,пяхІял,CyrillTrans,feather,,,paˤħaˤl,Phonemic
+4-392-505-1,darg1241,Dargwa (Gapshima dialect),1257,дукала,CyrillTrans,wing,,,dukala,Phonemic
+4-380-505-1,darg1241,Dargwa (Gapshima dialect),1389,ккумул,CyrillTrans,toe,,,k̄umul,Phonemic
+4-374-505-1,darg1241,Dargwa (Gapshima dialect),318,хІерзи,CyrillTrans,footprint,,,"ħerzi, kʼerzi",Phonemic
+4-374-505-3,darg1241,Dargwa (Gapshima dialect),318,кIерзи,CyrillTrans,footprint,,,"ħerzi, kʼerzi",Phonemic
+4-372-505-1,darg1241,Dargwa (Gapshima dialect),980,лутІи кьяш,CyrillTrans,heel,,,lutʼi q’aˤš,Phonemic
+4-371-505-1,darg1241,Dargwa (Gapshima dialect),803,хъар кьяш,CyrillTrans,ankle,,,qar q’aˤš,Phonemic
+4-370-505-1,darg1241,Dargwa (Gapshima dialect),1301,хъар кьяш,CyrillTrans,foot,,,qar q’aˤš,Phonemic
+4-360-505-1,darg1241,Dargwa (Gapshima dialect),1371,кьукьа,CyrillTrans,knee,,,q’uq’a,Phonemic
+4-352-505-1,darg1241,Dargwa (Gapshima dialect),498,чІикІ,CyrillTrans,calf of leg,,,čʼikʼ,Phonemic
+4-351-505-1,darg1241,Dargwa (Gapshima dialect),800,урттур,CyrillTrans,thigh,,,urt̄ur,Phonemic
+4-350-505-1,darg1241,Dargwa (Gapshima dialect),1297,кьяш,CyrillTrans,leg,,,q’aˤš,Phonemic
+4-345-505-1,darg1241,Dargwa (Gapshima dialect),72,кьярщщи,CyrillTrans,claw,,,q’aˤrš̄š̄i,Phonemic
+4-344-505-1,darg1241,Dargwa (Gapshima dialect),1258,тІулла мика,CyrillTrans,fingernail,,,tʼulla mika,Phonemic
+4-342-505-1,darg1241,Dargwa (Gapshima dialect),1781,хула тІул,CyrillTrans,thumb,,,xula tʼul,Phonemic
+4-340-505-1,darg1241,Dargwa (Gapshima dialect),1303,тІул,CyrillTrans,finger,,,tʼul,Phonemic
+4-331-505-1,darg1241,Dargwa (Gapshima dialect),1183,каш,CyrillTrans,palm of hand,,,kaš,Phonemic
+4-330-505-1,darg1241,Dargwa (Gapshima dialect),1277,хъар няхъ,CyrillTrans,hand,,,qar naˤq,Phonemic
+4-321-505-1,darg1241,Dargwa (Gapshima dialect),799,хъар няхъ,CyrillTrans,wrist,,,qar naˤq,Phonemic
+4-320-505-1,darg1241,Dargwa (Gapshima dialect),981,кацца няхъ,CyrillTrans,elbow,,,kac̄a naˤq,Phonemic
+4-312-505-1,darg1241,Dargwa (Gapshima dialect),1886,хъуцІаръула,CyrillTrans,armpit,,,"qucʼarʔula, šalkʼuʔula",Phonemic
+4-312-505-3,darg1241,Dargwa (Gapshima dialect),1886,шалкIуула,CyrillTrans,armpit,,,"qucʼarʔula, šalkʼuʔula",Phonemic
+4-310-505-1,darg1241,Dargwa (Gapshima dialect),1673,няхъ,CyrillTrans,arm,,,naˤq,Phonemic
+4-302-505-1,darg1241,Dargwa (Gapshima dialect),1994,михъирла ликка,CyrillTrans,collarbone,,,miqirla lik̄a,Phonemic
+4-301-505-1,darg1241,Dargwa (Gapshima dialect),172,кІатІакьуса,CyrillTrans,shoulderblade,,,kʼatʼaq’usa,Phonemic
+4-300-505-1,darg1241,Dargwa (Gapshima dialect),1482,хъуцІари,CyrillTrans,shoulder,,,qucʼari,Phonemic
+4-290-505-1,darg1241,Dargwa (Gapshima dialect),1346,сус,CyrillTrans,throat,,,sus,Phonemic
+4-281-505-1,darg1241,Dargwa (Gapshima dialect),1347,гІелахъяб,CyrillTrans,nape of neck,,,ʕelaqaˤb,Phonemic
+4-280-505-1,darg1241,Dargwa (Gapshima dialect),1333,хъяб,CyrillTrans,neck,,,qaˤb,Phonemic
+4-272-505-1,darg1241,Dargwa (Gapshima dialect),1049,хъяйхъяйла цула,CyrillTrans,molartooth,,,qaˤyqaˤyla cula,Phonemic
+4-270-505-1,darg1241,Dargwa (Gapshima dialect),1380,цула,CyrillTrans,tooth,,,cula,Phonemic
+4-271-505-1,darg1241,Dargwa (Gapshima dialect),139,чІинчІбе,CyrillTrans,gums,,,čʼinčʼbe,Phonemic
+4-260-505-1,darg1241,Dargwa (Gapshima dialect),1205,мец,CyrillTrans,tongue,,,mec,Phonemic
+4-250-505-1,darg1241,Dargwa (Gapshima dialect),478,чІентІ,CyrillTrans,lip,,,čʼentʼ,Phonemic
+4-241-505-1,darg1241,Dargwa (Gapshima dialect),73,къудкъуди,CyrillTrans,beak,,,GudGudi,Phonemic
+4-240-505-1,darg1241,Dargwa (Gapshima dialect),674,мухІули,CyrillTrans,mouth,,,muħuli,Phonemic
+4-232-505-1,darg1241,Dargwa (Gapshima dialect),208,хъятне,CyrillTrans,mucus (nasal),,,qaˤtne,Phonemic
+4-231-505-1,darg1241,Dargwa (Gapshima dialect),1178,къянкъла тІярхъи,CyrillTrans,nostril,,,GaˤnGla tʼaˤrqi,Phonemic
+4-230-505-1,darg1241,Dargwa (Gapshima dialect),1221,къянкъ,CyrillTrans,nose,,,GaˤnG,Phonemic
+4-222-505-1,darg1241,Dargwa (Gapshima dialect),32,лехІилла гІявадеш,CyrillTrans,earwax,,,lеħilla ʕaˤwadeš,Phonemic
+4-221-505-1,darg1241,Dargwa (Gapshima dialect),18,лехІилла хьар,CyrillTrans,earlobe,,,leħilla x̌ar,Phonemic
+4-220-505-1,darg1241,Dargwa (Gapshima dialect),1247,лехІи,CyrillTrans,ear,,,leħi,Phonemic
+4-215-505-1,darg1241,Dargwa (Gapshima dialect),1655,цІивилзес,CyrillTrans,blink,,,cʼiwilzes,Phonemic
+4-214-505-1,darg1241,Dargwa (Gapshima dialect),1540,гIимичIала,CyrillTrans,eyelash,,,ʕimičʼala,Phonemic
+4-213-505-1,darg1241,Dargwa (Gapshima dialect),17,хІуллачела,CyrillTrans,eyelid,,,ħullačela,Phonemic
+4-212-505-1,darg1241,Dargwa (Gapshima dialect),1173,нет,CyrillTrans,eyebrow,,,net,Phonemic
+4-210-505-1,darg1241,Dargwa (Gapshima dialect),1248,хІули,CyrillTrans,eye,,,ħuli,Phonemic
+4-208-505-1,darg1241,Dargwa (Gapshima dialect),1730,кьикь,CyrillTrans,cheek,,,q’iq’,Phonemic
+4-209-505-1,darg1241,Dargwa (Gapshima dialect),1510,муцІуръула,CyrillTrans,chin,,,mucʼurʔula,Phonemic
+4-205-505-1,darg1241,Dargwa (Gapshima dialect),123,антта,CyrillTrans,forehead,,,ant̄a,Phonemic
+4-207-505-1,darg1241,Dargwa (Gapshima dialect),798,хъяйхъяй,CyrillTrans,jaw,,,qaˤyqaˤy,Phonemic
+4-204-505-1,darg1241,Dargwa (Gapshima dialect),1560,вяхІ,CyrillTrans,face,,,"waˤħ, raˤħ",Phonemic
+4-204-505-3,darg1241,Dargwa (Gapshima dialect),1560,ряхІ,CyrillTrans,face,,,"waˤħ, raˤħ",Phonemic
+4-203-505-1,darg1241,Dargwa (Gapshima dialect),1583,мехІа,CyrillTrans,brain,,,meħa,Phonemic
+4-201-505-1,darg1241,Dargwa (Gapshima dialect),1604,лихІишкан,CyrillTrans,"side of head, temple",,,liħiškan,Phonemic
+4-202-505-1,darg1241,Dargwa (Gapshima dialect),1605,бекІла вахъ,CyrillTrans,skull,,,bekʼla waq,Phonemic
+4-200-505-1,darg1241,Dargwa (Gapshima dialect),1256,бекІ,CyrillTrans,head,,,bekʼ,Phonemic
+4-191-505-1,darg1241,Dargwa (Gapshima dialect),805,къакъла чІала,CyrillTrans,spine,,,GaGla čʼala,Phonemic
+4-190-505-1,darg1241,Dargwa (Gapshima dialect),1291,къакъ,CyrillTrans,back,,,GaG,Phonemic
+4-180-505-1,darg1241,Dargwa (Gapshima dialect),1220,чІими,CyrillTrans,tail,,,čʼimi,Phonemic
+4-170-505-1,darg1241,Dargwa (Gapshima dialect),1393,хъи,CyrillTrans,horn,,,qi,Phonemic
+4-162-505-1,darg1241,Dargwa (Gapshima dialect),801,шалиуртІалала ликка,CyrillTrans,rib,,,šaliurtʼalala lik̄a,Phonemic
+4-160-505-1,darg1241,Dargwa (Gapshima dialect),1394,ликка,CyrillTrans,bone,,,lik̄a,Phonemic
+4-151-505-1,darg1241,Dargwa (Gapshima dialect),525,хІилла тум,CyrillTrans,"vein, artery",,,ħilla tum,Phonemic
+4-150-505-1,darg1241,Dargwa (Gapshima dialect),946,хІи,CyrillTrans,blood,,,ħi,Phonemic
+4-146-505-1,darg1241,Dargwa (Gapshima dialect),576,кІапре,CyrillTrans,dandruff,,,kʼapre,Phonemic
+4-145-505-1,darg1241,Dargwa (Gapshima dialect),36,мякьла гъез,CyrillTrans,pubic hair,,,maˤq’la ɣez,Phonemic
+4-144-505-1,darg1241,Dargwa (Gapshima dialect),189,гъез,CyrillTrans,body hair,,,ɣez,Phonemic
+4-142-505-1,darg1241,Dargwa (Gapshima dialect),678,муцІур,CyrillTrans,beard,,,mucʼur,Phonemic
+4-140-505-1,darg1241,Dargwa (Gapshima dialect),1040,бекІла гъез,CyrillTrans,hair (head),,,bekʼla ɣez,Phonemic
+4-130-505-1,darg1241,Dargwa (Gapshima dialect),2259,чарх,CyrillTrans,flesh,,,"čarx, diʔ",Phonemic
+4-130-505-3,darg1241,Dargwa (Gapshima dialect),2259,диъ,CyrillTrans,flesh,,,"čarx, diʔ",Phonemic
+4-120-505-1,darg1241,Dargwa (Gapshima dialect),763,кам,CyrillTrans,"skin, hide",,,"kam, kabc",Phonemic
+4-120-505-3,darg1241,Dargwa (Gapshima dialect),763,кабц,CyrillTrans,"skin, hide",,,"kam, kabc",Phonemic
+4-110-505-1,darg1241,Dargwa (Gapshima dialect),1480,чарх,CyrillTrans,body,,,"čarx, q’arq’ala",Phonemic
+4-110-505-3,darg1241,Dargwa (Gapshima dialect),1480,кьаркьала,CyrillTrans,body,,,"čarx, q’arq’ala",Phonemic
+3-980-505-1,darg1241,Dargwa (Gapshima dialect),112,вахъчи гІятІа,CyrillTrans,turtle,,,waqči ʕaˤtʼa,Phonemic
+3-970-505-1,darg1241,Dargwa (Gapshima dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-505-1,darg1241,Dargwa (Gapshima dialect),632,шуршатІи,CyrillTrans,lizard,,,šuršatʼi,Phonemic
+3-950-505-1,darg1241,Dargwa (Gapshima dialect),503,гІятІа,CyrillTrans,frog,,,ʕaˤtʼa,Phonemic
+3-940-505-1,darg1241,Dargwa (Gapshima dialect),1543,амхIарухъ,CyrillTrans,snail,,,amħaruq,Phonemic
+3-930-505-1,darg1241,Dargwa (Gapshima dialect),607,цІерцІ,CyrillTrans,grasshopper,,,cʼercʼ,Phonemic
+3-920-505-1,darg1241,Dargwa (Gapshima dialect),1791,аппа,CyrillTrans,butterfly,,,ap̄a,Phonemic
+3-910-505-1,darg1241,Dargwa (Gapshima dialect),206,цІалла миляхъ,CyrillTrans,firefly,,,cʼalla milaˤq,Phonemic
+3-850-505-1,darg1241,Dargwa (Gapshima dialect),730,чІичІала,CyrillTrans,snake,,,čʼičʼala,Phonemic
+3-840-505-1,darg1241,Dargwa (Gapshima dialect),1219,миляхъ,CyrillTrans,worm,,,milaˤq,Phonemic
+3-832-505-1,darg1241,Dargwa (Gapshima dialect),1509,жибин,CyrillTrans,mosquito,,,žibin,Phonemic
+3-831-505-1,darg1241,Dargwa (Gapshima dialect),95,жибин,CyrillTrans,"sandfly (midge), gnat",,,žibin,Phonemic
+3-830-505-1,darg1241,Dargwa (Gapshima dialect),1504,тентІ,CyrillTrans,fly,,,tentʼ,Phonemic
+3-823-505-1,darg1241,Dargwa (Gapshima dialect),1517,жибин,CyrillTrans,wasp,,,žibin,Phonemic
+3-822-505-1,darg1241,Dargwa (Gapshima dialect),88,мирхъила хъали,CyrillTrans,beehive,,,mirqila qali,Phonemic
+3-821-505-1,darg1241,Dargwa (Gapshima dialect),1931,мурчІали,CyrillTrans,beeswax,,,murčʼali,Phonemic
+3-820-505-1,darg1241,Dargwa (Gapshima dialect),665,мирхъи,CyrillTrans,bee,,,mirqi,Phonemic
+3-819-505-1,darg1241,Dargwa (Gapshima dialect),1065,хъисхъяла души,CyrillTrans,spider web,,,qisqaˤla duši,Phonemic
+3-818-505-1,darg1241,Dargwa (Gapshima dialect),843,хъисхъя,CyrillTrans,spider,,,qisqaˤ,Phonemic
+3-817-505-1,darg1241,Dargwa (Gapshima dialect),587,имиала,CyrillTrans,ant,,,imiala,Phonemic
+3-816-505-1,darg1241,Dargwa (Gapshima dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-505-1,darg1241,Dargwa (Gapshima dialect),1538,кьацІбикІан,CyrillTrans,scorpion,,,q’acʼbikʼan,Phonemic
+3-814-505-1,darg1241,Dargwa (Gapshima dialect),1974,азир кьяшлан,CyrillTrans,centipede,,,"azir q’aˤšlan, mazut̄an",Phonemic
+3-814-505-3,darg1241,Dargwa (Gapshima dialect),1974,мазуттан,CyrillTrans,centipede,,,"azir q’aˤšlan, mazut̄an",Phonemic
+3-813-505-1,darg1241,Dargwa (Gapshima dialect),232,цІека,CyrillTrans,flea,,,cʼeka,Phonemic
+3-812-505-1,darg1241,Dargwa (Gapshima dialect),267,кьи,CyrillTrans,nit (louse egg),,,q’i,Phonemic
+3-811-505-1,darg1241,Dargwa (Gapshima dialect),1392,неръ,CyrillTrans,louse,,,nerʔ,Phonemic
+3-810-505-1,darg1241,Dargwa (Gapshima dialect),620,тІентІ,CyrillTrans,insect,,,tʼentʼ,Phonemic
+3-780-505-1,darg1241,Dargwa (Gapshima dialect),1871,валри,CyrillTrans,camel,,,walri,Phonemic
+3-770-505-1,darg1241,Dargwa (Gapshima dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-505-1,darg1241,Dargwa (Gapshima dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-505-1,darg1241,Dargwa (Gapshima dialect),1936,барткел,CyrillTrans,deer,,,"bartkel, bartkel q’aˤca",Phonemic
+3-750-505-3,darg1241,Dargwa (Gapshima dialect),1936,барткел кьяца,CyrillTrans,deer,,,"bartkel, bartkel q’aˤca",Phonemic
+3-740-505-1,darg1241,Dargwa (Gapshima dialect),1312,ккуртта,CyrillTrans,fox,,,k̄urt̄a,Phonemic
+3-730-505-1,darg1241,Dargwa (Gapshima dialect),1820,синка,CyrillTrans,bear,,,sinka,Phonemic
+3-720-505-1,darg1241,Dargwa (Gapshima dialect),1386,арслан-къаплан,CyrillTrans,lion,,,arslan-Gaplan,Phonemic
+3-710-505-1,darg1241,Dargwa (Gapshima dialect),522,бецІ,CyrillTrans,wolf,,,becʼ,Phonemic
+3-663-505-1,darg1241,Dargwa (Gapshima dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-505-1,darg1241,Dargwa (Gapshima dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-505-1,darg1241,Dargwa (Gapshima dialect),1110,акула,CyrillTrans,shark,,,"akula, Gurtma",Phonemic
+3-661-505-3,darg1241,Dargwa (Gapshima dialect),1110,къуртма,CyrillTrans,shark,,,"akula, Gurtma",Phonemic
+3-655-505-1,darg1241,Dargwa (Gapshima dialect),598,гъайкІари,CyrillTrans,shell,,,ɣaykʼari,Phonemic
+3-653-505-1,darg1241,Dargwa (Gapshima dialect),266,бялихъла кам,CyrillTrans,fishscale,,,baˤliqla kam,Phonemic
+3-652-505-1,darg1241,Dargwa (Gapshima dialect),213,бялихъла дукала,CyrillTrans,fin (dorsal),,,baˤliqla dukala,Phonemic
+3-650-505-1,darg1241,Dargwa (Gapshima dialect),227,бялихъ,CyrillTrans,fish,,,baˤliq,Phonemic
+3-630-505-1,darg1241,Dargwa (Gapshima dialect),2139,ваца,CyrillTrans,"mouse, rat",,,"waca, q’urga waca",Phonemic
+3-630-505-3,darg1241,Dargwa (Gapshima dialect),2139,кьурга ваца,CyrillTrans,"mouse, rat",,,"waca, q’urga waca",Phonemic
+3-620-505-1,darg1241,Dargwa (Gapshima dialect),1208,кката,CyrillTrans,cat,,,k̄ata,Phonemic
+3-614-505-1,darg1241,Dargwa (Gapshima dialect),1136,гІяри,CyrillTrans,rabbit,,,ʕaˤri,Phonemic
+3-610-505-1,darg1241,Dargwa (Gapshima dialect),2009,ххе,CyrillTrans,dog,,,x̄e,Phonemic
+3-594-505-1,darg1241,Dargwa (Gapshima dialect),1853,лагьа,CyrillTrans,dove,,,laha,Phonemic
+3-596-505-1,darg1241,Dargwa (Gapshima dialect),735,тІума,CyrillTrans,owl,,,"tʼuma, k̄uku-miyaw",Phonemic
+3-596-505-3,darg1241,Dargwa (Gapshima dialect),735,ккуку-мияв,CyrillTrans,owl,,,"tʼuma, k̄uku-miyaw",Phonemic
+3-593-505-1,darg1241,Dargwa (Gapshima dialect),913,къяна,CyrillTrans,crow,,,Gaˤna,Phonemic
+3-592-505-1,darg1241,Dargwa (Gapshima dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-505-1,darg1241,Dargwa (Gapshima dialect),1793,лехІпарр хяппар,CyrillTrans,bat,,,leħparr xaˤp̄ar,Phonemic
+3-586-505-1,darg1241,Dargwa (Gapshima dialect),1185,муцІурла бегІ чІака,CyrillTrans,vulture,,,mucʼurla beʕ čʼaka,Phonemic
+3-585-505-1,darg1241,Dargwa (Gapshima dialect),307,къарчигъа,CyrillTrans,hawk,,,"Garčiɣa, lačin",Phonemic
+3-585-505-3,darg1241,Dargwa (Gapshima dialect),307,лачин,CyrillTrans,hawk,,,"Garčiɣa, lačin",Phonemic
+3-584-505-1,darg1241,Dargwa (Gapshima dialect),1905,чІака,CyrillTrans,eagle,,,čʼaka,Phonemic
+3-582-505-1,darg1241,Dargwa (Gapshima dialect),950,чяйка,CyrillTrans,seagull,,,čaˤyka,Phonemic
+3-583-505-1,darg1241,Dargwa (Gapshima dialect),758,хула арцан,CyrillTrans,heron,,,xula arcan,Phonemic
+3-581-505-1,darg1241,Dargwa (Gapshima dialect),937,арцан,CyrillTrans,bird,,,arcan,Phonemic
+3-580-505-1,darg1241,Dargwa (Gapshima dialect),539,пукьа,CyrillTrans,nest,,,puq’a,Phonemic
+3-570-505-1,darg1241,Dargwa (Gapshima dialect),1360,бятІ,CyrillTrans,duck,,,baˤtʼ,Phonemic
+3-560-505-1,darg1241,Dargwa (Gapshima dialect),1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-505-1,darg1241,Dargwa (Gapshima dialect),1318,чIибгІя,CyrillTrans,chicken,,,čʼibʕaˤ,Phonemic
+3-540-505-1,darg1241,Dargwa (Gapshima dialect),1514,гІяргІя,CyrillTrans,hen,,,ʕaˤrʕaˤ,Phonemic
+3-520-505-1,darg1241,Dargwa (Gapshima dialect),1511,тагъа,CyrillTrans,"cock, rooster",,,taɣa,Phonemic
+3-470-505-1,darg1241,Dargwa (Gapshima dialect),890,амхІакъатир,CyrillTrans,mule,,,amħaGatir,Phonemic
+3-500-505-1,darg1241,Dargwa (Gapshima dialect),265,гІяргІя-тагъа,CyrillTrans,fowl,,,ʕaˤrʕaˤ-taɣa,Phonemic
+3-460-505-1,darg1241,Dargwa (Gapshima dialect),1862,амхІа,CyrillTrans,"ass, donkey",,,amħa,Phonemic
+3-450-505-1,darg1241,Dargwa (Gapshima dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˤy,Phonemic
+3-440-505-1,darg1241,Dargwa (Gapshima dialect),938,кказа,CyrillTrans,mare,,,k̄aza,Phonemic
+3-420-505-1,darg1241,Dargwa (Gapshima dialect),936,марга тяй,CyrillTrans,stallion,,,marga taˤy,Phonemic
+3-410-505-1,darg1241,Dargwa (Gapshima dialect),615,урчи,CyrillTrans,horse (equine),,,"urči, yabu",Phonemic
+3-410-505-3,darg1241,Dargwa (Gapshima dialect),615,ябу,CyrillTrans,horse (equine),,,"urči, yabu",Phonemic
+3-380-505-1,darg1241,Dargwa (Gapshima dialect),1972,ккечба,CyrillTrans,kid,,,k̄ečba,Phonemic
+3-370-505-1,darg1241,Dargwa (Gapshima dialect),264,кьяца,CyrillTrans,he-goat,,,q’aˤca,Phonemic
+3-360-505-1,darg1241,Dargwa (Gapshima dialect),1502,гІежа,CyrillTrans,goat,,,ʕeža,Phonemic
+3-350-505-1,darg1241,Dargwa (Gapshima dialect),1337,жакьа,CyrillTrans,pig,,,"žaq’a, cura",Phonemic
+3-350-505-3,darg1241,Dargwa (Gapshima dialect),1337,цура,CyrillTrans,pig,,,"žaq’a, cura",Phonemic
+3-340-505-1,darg1241,Dargwa (Gapshima dialect),1351,жакьа,CyrillTrans,sow (2),,,žaq’a,Phonemic
+3-320-505-1,darg1241,Dargwa (Gapshima dialect),1348,дугIла жакьа,CyrillTrans,boar,,,"duʕla žaq’a, margažaq’a",Phonemic
+3-320-505-3,darg1241,Dargwa (Gapshima dialect),1348,маргажакьа,CyrillTrans,boar,,,"duʕla žaq’a, margažaq’a",Phonemic
+3-290-505-1,darg1241,Dargwa (Gapshima dialect),820,мукьара,CyrillTrans,lamb,,,muq’ara,Phonemic
+3-280-505-1,darg1241,Dargwa (Gapshima dialect),1345,маза,CyrillTrans,ewe,,,maza,Phonemic
+3-260-505-1,darg1241,Dargwa (Gapshima dialect),1344,чуя,CyrillTrans,ram,,,čuya,Phonemic
+3-250-505-1,darg1241,Dargwa (Gapshima dialect),1331,маза,CyrillTrans,sheep,,,"maza, čuya, maza-mas",Phonemic
+3-250-505-3,darg1241,Dargwa (Gapshima dialect),1331,чуя,CyrillTrans,sheep,,,"maza, čuya, maza-mas",Phonemic
+3-250-505-5,darg1241,Dargwa (Gapshima dialect),1331,маза-мас,CyrillTrans,sheep,,,"maza, čuya, maza-mas",Phonemic
+3-240-505-1,darg1241,Dargwa (Gapshima dialect),1989,къечча,CyrillTrans,calf,,,Geč̄a,Phonemic
+3-230-505-1,darg1241,Dargwa (Gapshima dialect),1007,кьял,CyrillTrans,cow,,,q’aˤl,Phonemic
+3-220-505-1,darg1241,Dargwa (Gapshima dialect),1169,унц,CyrillTrans,ox,,,unc,Phonemic
+3-210-505-1,darg1241,Dargwa (Gapshima dialect),1008,унц,CyrillTrans,bull,,,"unc, buɣa",Phonemic
+3-210-505-3,darg1241,Dargwa (Gapshima dialect),1008,бугъа,CyrillTrans,bull,,,"unc, buɣa",Phonemic
+3-200-505-1,darg1241,Dargwa (Gapshima dialect),1153,хула хIяйванте,CyrillTrans,cattle (bovine),,,xula ħaˤywante,Phonemic
+3-190-505-1,darg1241,Dargwa (Gapshima dialect),851,ябула дярхъ,CyrillTrans,"stable, stall",,,yabula daˤrq,Phonemic
+3-180-505-1,darg1241,Dargwa (Gapshima dialect),263,хІанкьула,CyrillTrans,herdsman,,,ħanq’ula,Phonemic
+3-160-505-1,darg1241,Dargwa (Gapshima dialect),649,дучилла мер,CyrillTrans,pasture,,,dučilla mer,Phonemic
+3-150-505-1,darg1241,Dargwa (Gapshima dialect),631,хІяйван къечча,CyrillTrans,livestock,,,"ħaˤywan Geč̄a, qalaħaywan",Phonemic
+3-150-505-3,darg1241,Dargwa (Gapshima dialect),631,хъалахIайван,CyrillTrans,livestock,,,"ħaˤywan Geč̄a, qalaħaywan",Phonemic
+3-130-505-1,darg1241,Dargwa (Gapshima dialect),2262,хьхьунул (жинс),CyrillTrans,female (adj),,,x̌̄unul (žins),Phonemic
+3-120-505-1,darg1241,Dargwa (Gapshima dialect),2261,муржил (жинс),CyrillTrans,male (adj),,,muržil (žins),Phonemic
+3-110-505-1,darg1241,Dargwa (Gapshima dialect),619,хІяйван,CyrillTrans,animal,,,"ħaˤywan, micʼirag",Phonemic
+3-110-505-3,darg1241,Dargwa (Gapshima dialect),619,мицІираг,CyrillTrans,animal,,,"ħaˤywan, micʼirag",Phonemic
+2-960-505-1,darg1241,Dargwa (Gapshima dialect),817,итти,CyrillTrans,they,,,it̄i,Phonemic
+2-950-505-1,darg1241,Dargwa (Gapshima dialect),1213,хІухьхьа,CyrillTrans,you (plural),,,ħux̌̄a,Phonemic
+2-940-505-1,darg1241,Dargwa (Gapshima dialect),1212,нухьхьа,CyrillTrans,we,,,nux̌̄a,Phonemic
+2-930-505-1,darg1241,Dargwa (Gapshima dialect),262,ит,CyrillTrans,he/she/it,,,it,Phonemic
+2-920-505-1,darg1241,Dargwa (Gapshima dialect),1215,хІу,CyrillTrans,you (singular),,,ħu,Phonemic
+2-910-505-1,darg1241,Dargwa (Gapshima dialect),1209,ну,CyrillTrans,I,,,nu,Phonemic
+2-820-505-1,darg1241,Dargwa (Gapshima dialect),194,хъалибарг,CyrillTrans,family,,,qalibarg,Phonemic
+2-810-505-1,darg1241,Dargwa (Gapshima dialect),1644,гъамте,CyrillTrans,"relatives, kinsmen",,,"ɣamte, tuxum",Phonemic
+2-810-505-3,darg1241,Dargwa (Gapshima dialect),1644,тухум,CyrillTrans,"relatives, kinsmen",,,"ɣamte, tuxum",Phonemic
+2-770-505-1,darg1241,Dargwa (Gapshima dialect),1981,ккамъа,CyrillTrans,widower,,,k̄amʔa,Phonemic
+2-760-505-1,darg1241,Dargwa (Gapshima dialect),1756,ккамъа,CyrillTrans,widow,,,k̄amʔa,Phonemic
+2-750-505-1,darg1241,Dargwa (Gapshima dialect),1149,ятим,CyrillTrans,orphan,,,yatim,Phonemic
+2-740-505-1,darg1241,Dargwa (Gapshima dialect),1058,угай рурсси,CyrillTrans,stepdaughter,,,ugay rurs̄i,Phonemic
+2-730-505-1,darg1241,Dargwa (Gapshima dialect),1059,угай уршши,CyrillTrans,stepson,,,ugay urš̄i,Phonemic
+2-720-505-1,darg1241,Dargwa (Gapshima dialect),236,угай неш,CyrillTrans,stepmother,,,ugay neš,Phonemic
+2-710-505-1,darg1241,Dargwa (Gapshima dialect),237,угай ттуттеш,CyrillTrans,stepfather,,,ugay t̄ut̄eš,Phonemic
+2-641-505-1,darg1241,Dargwa (Gapshima dialect),2264,уршшилла хьхьунул,CyrillTrans,daughter-in-law (of a woman),,,urš̄illa x̌̄unul,Phonemic
+2-640-505-1,darg1241,Dargwa (Gapshima dialect),2265,уццилла хьхьунул,CyrillTrans,daughter-in-law (of a man),,,uc̄illa x̌̄unul,Phonemic
+2-631-505-1,darg1241,Dargwa (Gapshima dialect),2266,куяв,CyrillTrans,son-in-law (of a woman),,,kuyaw,Phonemic
+2-630-505-1,darg1241,Dargwa (Gapshima dialect),2267,куяв,CyrillTrans,son-in-law (of a man),,,kuyaw,Phonemic
+2-621-505-1,darg1241,Dargwa (Gapshima dialect),2257,хьхьунулла неш,CyrillTrans,mother-in-law (of a woman),,,x̌̄unulla neš,Phonemic
+2-620-505-1,darg1241,Dargwa (Gapshima dialect),2256,муржилла неш,CyrillTrans,mother-in-law (of a man),,,muržilla neš,Phonemic
+2-611-505-1,darg1241,Dargwa (Gapshima dialect),2254,хьхьунулла ттуттеш,CyrillTrans,father-in-law (of a woman),,,x̌̄unulla t̄ut̄eš,Phonemic
+2-610-505-1,darg1241,Dargwa (Gapshima dialect),2255,муржилла ттуттеш,CyrillTrans,father-in-law (of a man),,,muržilla t̄ut̄eš,Phonemic
+2-570-505-1,darg1241,Dargwa (Gapshima dialect),490,наслу,CyrillTrans,descendants,,,naslu,Phonemic
+2-560-505-1,darg1241,Dargwa (Gapshima dialect),1669,хула бегІте,CyrillTrans,ancestors,,,xula beʕte,Phonemic
+2-550-505-1,darg1241,Dargwa (Gapshima dialect),1643,уццикьар,CyrillTrans,cousin,,,"uc̄iq’ar, ruc̄iq’ar",Phonemic
+2-550-505-3,darg1241,Dargwa (Gapshima dialect),1643,руццикьар,CyrillTrans,cousin,,,"uc̄iq’ar, ruc̄iq’ar",Phonemic
+2-540-505-1,darg1241,Dargwa (Gapshima dialect),1642,уццилла рурсси,CyrillTrans,niece,,,"uc̄illa rurs̄i, ruc̄ila rurs̄i",Phonemic
+2-540-505-3,darg1241,Dargwa (Gapshima dialect),1642,руццила рурсси,CyrillTrans,niece,,,"uc̄illa rurs̄i, ruc̄ila rurs̄i",Phonemic
+2-530-505-1,darg1241,Dargwa (Gapshima dialect),1063,уццилла уршши,CyrillTrans,nephew,,,"uc̄illa urš̄i, rucila urš̄i",Phonemic
+2-530-505-3,darg1241,Dargwa (Gapshima dialect),1063,руцила уршши,CyrillTrans,nephew,,,"uc̄illa urš̄i, rucila urš̄i",Phonemic
+2-522-505-1,darg1241,Dargwa (Gapshima dialect),170,ттуттешла руцци,CyrillTrans,father's sister,,,t̄ut̄ešla ruc̄i,Phonemic
+2-520-505-1,darg1241,Dargwa (Gapshima dialect),1272,ттуттешла руцци,CyrillTrans,aunt,,,"t̄ut̄ešla ruc̄i, nešla ruc̄i",Phonemic
+2-520-505-3,darg1241,Dargwa (Gapshima dialect),1272,нешла руцци,CyrillTrans,aunt,,,"t̄ut̄ešla ruc̄i, nešla ruc̄i",Phonemic
+2-521-505-1,darg1241,Dargwa (Gapshima dialect),171,нешла руцци,CyrillTrans,mother's sister,,,nešla ruc̄i,Phonemic
+2-512-505-1,darg1241,Dargwa (Gapshima dialect),1985,ттуттешла уцци,CyrillTrans,father's brother,,,t̄ut̄ešla uc̄i,Phonemic
+2-511-505-1,darg1241,Dargwa (Gapshima dialect),1984,нешла уцци,CyrillTrans,mother's brother,,,nešla uc̄i,Phonemic
+2-510-505-1,darg1241,Dargwa (Gapshima dialect),1327,ттуттешла уцци,CyrillTrans,uncle,,,"t̄ut̄ešla uc̄i, nešla uc̄i",Phonemic
+2-510-505-3,darg1241,Dargwa (Gapshima dialect),1327,нешла уцци,CyrillTrans,uncle,,,"t̄ut̄ešla uc̄i, nešla uc̄i",Phonemic
+2-480-505-1,darg1241,Dargwa (Gapshima dialect),1618,дярхІялла дярхІя,CyrillTrans,grandson,,,daˤrħaˤlla daˤrħaˤ,Phonemic
+2-490-505-1,darg1241,Dargwa (Gapshima dialect),1619,дярхІялла рурсси,CyrillTrans,granddaughter,,,daˤrħaˤlla rurs̄i,Phonemic
+2-471-505-1,darg1241,Dargwa (Gapshima dialect),907,рухъна,CyrillTrans,old woman,,,ruqna,Phonemic
+2-470-505-1,darg1241,Dargwa (Gapshima dialect),1496,хула неш,CyrillTrans,grandmother,,,"xula neš, abay",Phonemic
+2-470-505-3,darg1241,Dargwa (Gapshima dialect),1496,абай,CyrillTrans,grandmother,,,"xula neš, abay",Phonemic
+2-461-505-1,darg1241,Dargwa (Gapshima dialect),406,ухъна,CyrillTrans,old man,,,uqna,Phonemic
+2-460-505-1,darg1241,Dargwa (Gapshima dialect),1383,хула ттуттеш,CyrillTrans,grandfather,,,xula t̄ut̄eš,Phonemic
+2-458-505-1,darg1241,Dargwa (Gapshima dialect),1005,чІилизанте,CyrillTrans,twins,,,čʼilizante,Phonemic
+2-456-505-1,darg1241,Dargwa (Gapshima dialect),1640,уцци,CyrillTrans,sibling,,,"uc̄i, ruc̄i",Phonemic
+2-456-505-3,darg1241,Dargwa (Gapshima dialect),1640,руцци,CyrillTrans,sibling,,,"uc̄i, ruc̄i",Phonemic
+2-455-505-1,darg1241,Dargwa (Gapshima dialect),1761,кьицІил руцци,CyrillTrans,younger sister,,,q’icʼil ruc̄i,Phonemic
+2-454-505-1,darg1241,Dargwa (Gapshima dialect),1758,хулал руцци,CyrillTrans,older sister,,,xulal ruc̄i,Phonemic
+2-450-505-1,darg1241,Dargwa (Gapshima dialect),1263,руцци,CyrillTrans,sister,,,ruc̄i,Phonemic
+2-445-505-1,darg1241,Dargwa (Gapshima dialect),1760,кьицІил уцци,CyrillTrans,younger brother,,,q’icʼil uc̄i,Phonemic
+2-444-505-1,darg1241,Dargwa (Gapshima dialect),1759,хулал уцци,CyrillTrans,older brother,,,xulal uc̄i,Phonemic
+2-440-505-1,darg1241,Dargwa (Gapshima dialect),1262,уцци,CyrillTrans,brother,,,uc̄i,Phonemic
+2-430-505-1,darg1241,Dargwa (Gapshima dialect),1801,дярхІне,CyrillTrans,offspring (son or daughter),,,daˤrħne,Phonemic
+2-420-505-1,darg1241,Dargwa (Gapshima dialect),1357,рурсси,CyrillTrans,daughter,,,rurs̄i,Phonemic
+2-410-505-1,darg1241,Dargwa (Gapshima dialect),1620,уршши,CyrillTrans,son,,,urš̄i,Phonemic
+2-390-505-1,darg1241,Dargwa (Gapshima dialect),426,шерирсе,CyrillTrans,married woman,,,šerirse,Phonemic
+2-380-505-1,darg1241,Dargwa (Gapshima dialect),424,мехъ баркьибсе,CyrillTrans,married man,,,meq barq’ibse,Phonemic
+2-370-505-1,darg1241,Dargwa (Gapshima dialect),505,бегІте,CyrillTrans,parents,,,beʕte,Phonemic
+2-360-505-1,darg1241,Dargwa (Gapshima dialect),1216,неш,CyrillTrans,mother,,,"neš, abay",Phonemic
+2-360-505-3,darg1241,Dargwa (Gapshima dialect),1216,абай,CyrillTrans,mother,,,"neš, abay",Phonemic
+2-350-505-1,darg1241,Dargwa (Gapshima dialect),1217,ттуттеш,CyrillTrans,father,,,t̄ut̄eš,Phonemic
+2-341-505-1,darg1241,Dargwa (Gapshima dialect),1134,декІарикни,CyrillTrans,divorce,,,dekʼarikni,Phonemic
+2-340-505-1,darg1241,Dargwa (Gapshima dialect),1259,мекъ,CyrillTrans,"marriage, wedding",,,"meG, mahar",Phonemic
+2-340-505-3,darg1241,Dargwa (Gapshima dialect),1259,магьар,CyrillTrans,"marriage, wedding",,,"meG, mahar",Phonemic
+2-330-505-1,darg1241,Dargwa (Gapshima dialect),203,хъалличе кайэс,CyrillTrans,marry,,,"qalliče kayʔes, x̌̄unul kartes, šeri ruq’es",Phonemic
+2-330-505-3,darg1241,Dargwa (Gapshima dialect),203,хьхьунул картес,CyrillTrans,marry,,,"qalliče kayʔes, x̌̄unul kartes, šeri ruq’es",Phonemic
+2-330-505-5,darg1241,Dargwa (Gapshima dialect),203,шери рукьес,CyrillTrans,marry,,,"qalliče kayʔes, x̌̄unul kartes, šeri ruq’es",Phonemic
+2-320-505-1,darg1241,Dargwa (Gapshima dialect),1199,хьхьунул,CyrillTrans,wife,,,x̌̄unul,Phonemic
+2-310-505-1,darg1241,Dargwa (Gapshima dialect),1200,муржил,CyrillTrans,husband,,,muržil,Phonemic
+2-280-505-1,darg1241,Dargwa (Gapshima dialect),1289,михъирличивси дярхІя,CyrillTrans,"infant, baby",,,miqirličiwsi daˤrħaˤ,Phonemic
+2-270-505-1,darg1241,Dargwa (Gapshima dialect),1304,кьицIи дярхІя,CyrillTrans,child,,,q’icʼi daˤrħaˤ,Phonemic
+2-261-505-1,darg1241,Dargwa (Gapshima dialect),77,рурсси,CyrillTrans,young woman (adolescent),,,rurs̄i,Phonemic
+2-260-505-1,darg1241,Dargwa (Gapshima dialect),1646,кьицIи рурсси,CyrillTrans,girl,,,q’icʼi rurs̄i,Phonemic
+2-251-505-1,darg1241,Dargwa (Gapshima dialect),76,жагьил,CyrillTrans,young man (adolescent),,,žahil,Phonemic
+2-250-505-1,darg1241,Dargwa (Gapshima dialect),1366,дярхІя,CyrillTrans,boy,,,daˤrħaˤ,Phonemic
+2-240-505-1,darg1241,Dargwa (Gapshima dialect),1551,хIинта жан,CyrillTrans,female,,,ħinta žan,Phonemic
+2-230-505-1,darg1241,Dargwa (Gapshima dialect),1553,маргасе жан,CyrillTrans,male,,,"margase žan, marga žan",Phonemic
+2-230-505-3,darg1241,Dargwa (Gapshima dialect),1553,марга жан,CyrillTrans,male,,,"margase žan, marga žan",Phonemic
+2-220-505-1,darg1241,Dargwa (Gapshima dialect),962,хьхьунул адам,CyrillTrans,woman,,,"x̌̄unul adam, x̌̄unul",Phonemic
+2-220-505-3,darg1241,Dargwa (Gapshima dialect),962,хьхьунул,CyrillTrans,woman,,,"x̌̄unul adam, x̌̄unul",Phonemic
+2-210-505-1,darg1241,Dargwa (Gapshima dialect),1554,муржил адам,CyrillTrans,man (vs. woman),,,"muržil adam, muržil",Phonemic
+2-210-505-3,darg1241,Dargwa (Gapshima dialect),1554,муржил,CyrillTrans,man (vs. woman),,,"muržil adam, muržil",Phonemic
+2-100-505-1,darg1241,Dargwa (Gapshima dialect),683,адам,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+2-100-505-3,darg1241,Dargwa (Gapshima dialect),683,инсан,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+1-890-505-1,darg1241,Dargwa (Gapshima dialect),1188,(урцулла) ка,CyrillTrans,charcoal,,,(urculla) ka,Phonemic
+1-880-505-1,darg1241,Dargwa (Gapshima dialect),10,урцули,CyrillTrans,firewood,,,urculi,Phonemic
+1-870-505-1,darg1241,Dargwa (Gapshima dialect),1133,пирхикІ,CyrillTrans,match (noun),,,pirxikʼ,Phonemic
+1-861-505-1,darg1241,Dargwa (Gapshima dialect),127,бишшахъес,CyrillTrans,extinguish,,,biš̄aqes,Phonemic
+1-860-505-1,darg1241,Dargwa (Gapshima dialect),737,уххахъес,CyrillTrans,"light, kindle, ignite",,,"ux̄aqes, ulčaqes",Phonemic
+1-860-505-3,darg1241,Dargwa (Gapshima dialect),737,улчахъес,CyrillTrans,"light, kindle, ignite",,,"ux̄aqes, ulčaqes",Phonemic
+1-852-505-1,darg1241,Dargwa (Gapshima dialect),1428,уххес,CyrillTrans,burn (vb intrans),,,ux̄es,Phonemic
+1-851-505-1,darg1241,Dargwa (Gapshima dialect),141,иччес,CyrillTrans,burn (vb trans),,,ič̄es,Phonemic
+1-841-505-1,darg1241,Dargwa (Gapshima dialect),67,демччур ка,CyrillTrans,embers,,,demč̄ur ka,Phonemic
+1-840-505-1,darg1241,Dargwa (Gapshima dialect),646,палта,CyrillTrans,ashes,,,palta,Phonemic
+1-830-505-1,darg1241,Dargwa (Gapshima dialect),778,ккав,CyrillTrans,smoke (noun),,,k̄aw,Phonemic
+1-820-505-1,darg1241,Dargwa (Gapshima dialect),889,лам,CyrillTrans,flame (noun),,,"lam, lami",Phonemic
+1-820-505-3,darg1241,Dargwa (Gapshima dialect),889,лами,CyrillTrans,flame (noun),,,"lam, lami",Phonemic
+1-810-505-1,darg1241,Dargwa (Gapshima dialect),221,цІа,CyrillTrans,fire,,,cʼa,Phonemic
+1-780-505-1,darg1241,Dargwa (Gapshima dialect),952,аргъ,CyrillTrans,weather,,,arɣ,Phonemic
+1-770-505-1,darg1241,Dargwa (Gapshima dialect),617,миъ,CyrillTrans,ice,,,"miʔ, taˤs miʔ",Phonemic
+1-770-505-3,darg1241,Dargwa (Gapshima dialect),617,тяс миъ,CyrillTrans,ice,,,"miʔ, taˤs miʔ",Phonemic
+1-760-505-1,darg1241,Dargwa (Gapshima dialect),784,дяхІи,CyrillTrans,snow (noun),,,daˤħi,Phonemic
+1-750-505-1,darg1241,Dargwa (Gapshima dialect),658,ццаб,CyrillTrans,rain (noun),,,"c̄ab, marka",Phonemic
+1-750-505-3,darg1241,Dargwa (Gapshima dialect),658,марка,CyrillTrans,rain (noun),,,"c̄ab, marka",Phonemic
+1-740-505-1,darg1241,Dargwa (Gapshima dialect),249,дирихь,CyrillTrans,fog,,,dirix̌,Phonemic
+1-720-505-1,darg1241,Dargwa (Gapshima dialect),960,дягІ,CyrillTrans,wind,,,daˤʕ,Phonemic
+1-730-505-1,darg1241,Dargwa (Gapshima dialect),1489,дирихь,CyrillTrans,cloud,,,"dirix̌, ɣagul",Phonemic
+1-730-505-3,darg1241,Dargwa (Gapshima dialect),1489,гъагул,CyrillTrans,cloud,,,"dirix̌, ɣagul",Phonemic
+1-710-505-1,darg1241,Dargwa (Gapshima dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-505-1,darg1241,Dargwa (Gapshima dialect),1977,аръа,CyrillTrans,dew,,,arʔa,Phonemic
+1-630-505-1,darg1241,Dargwa (Gapshima dialect),1388,пяхти,CyrillTrans,"shade, shadow",,,paˤxti,Phonemic
+1-620-505-1,darg1241,Dargwa (Gapshima dialect),11,цІябдеш,CyrillTrans,darkness,,,cʼaˤbdeš,Phonemic
+1-610-505-1,darg1241,Dargwa (Gapshima dialect),630,шала,CyrillTrans,light (noun),,,šala,Phonemic
+1-590-505-1,darg1241,Dargwa (Gapshima dialect),1733,зурхІяб,CyrillTrans,rainbow,,,zurħaˤb,Phonemic
+1-580-505-1,darg1241,Dargwa (Gapshima dialect),858,буррям,CyrillTrans,storm,,,burraˤm,Phonemic
+1-560-505-1,darg1241,Dargwa (Gapshima dialect),1150,къукъу,CyrillTrans,thunder,,,GuGu,Phonemic
+1-570-505-1,darg1241,Dargwa (Gapshima dialect),2007,лямцІла цІа,CyrillTrans,lightning (as striking),,,laˤmcʼla cʼa,Phonemic
+1-550-505-1,darg1241,Dargwa (Gapshima dialect),1654,лямцІ,CyrillTrans,lightning,,,laˤmcʼ,Phonemic
+1-540-505-1,darg1241,Dargwa (Gapshima dialect),1430,ццуръала,CyrillTrans,star,,,c̄urʔala,Phonemic
+1-530-505-1,darg1241,Dargwa (Gapshima dialect),1313,бац,CyrillTrans,moon,,,bac,Phonemic
+1-520-505-1,darg1241,Dargwa (Gapshima dialect),1343,бархІи,CyrillTrans,sun,,,barħi,Phonemic
+1-510-505-1,darg1241,Dargwa (Gapshima dialect),1732,цак,CyrillTrans,sky,,,cak,Phonemic
+1-450-505-1,darg1241,Dargwa (Gapshima dialect),6,мерс,CyrillTrans,earthquake,,,mers,Phonemic
+1-440-505-1,darg1241,Dargwa (Gapshima dialect),2125,къаркъа,CyrillTrans,"stone, rock",,,GarGa,Phonemic
+1-430-505-1,darg1241,Dargwa (Gapshima dialect),1803,урцули,CyrillTrans,wood,,,urculi,Phonemic
+1-420-505-1,darg1241,Dargwa (Gapshima dialect),906,ккалкка,CyrillTrans,tree (cf 08.600),,,k̄alk̄а,Phonemic
+1-410-505-1,darg1241,Dargwa (Gapshima dialect),420,вацІа,CyrillTrans,"woods, forest",,,wacʼa,Phonemic
+1-390-505-1,darg1241,Dargwa (Gapshima dialect),943,чяххи,CyrillTrans,waterfall,,,čaˤx̄i,Phonemic
+1-380-505-1,darg1241,Dargwa (Gapshima dialect),1145,билхІла,CyrillTrans,swamp,,,bilħla,Phonemic
+1-370-505-1,darg1241,Dargwa (Gapshima dialect),2144,гІиниц,CyrillTrans,"spring, well",,,"ʕinic, Guyu",Phonemic
+1-370-505-3,darg1241,Dargwa (Gapshima dialect),2144,къую,CyrillTrans,"spring, well",,,"ʕinic, Guyu",Phonemic
+1-362-505-1,darg1241,Dargwa (Gapshima dialect),1982,шулешши,CyrillTrans,whirlpool,,,šuleš̄i,Phonemic
+1-360-505-1,darg1241,Dargwa (Gapshima dialect),666,хІеркІ,CyrillTrans,"river, stream, brook",,,ħerkʼ,Phonemic
+1-350-505-1,darg1241,Dargwa (Gapshima dialect),978,рамч,CyrillTrans,wave,,,ramč,Phonemic
+1-343-505-1,darg1241,Dargwa (Gapshima dialect),1662,хъинч,CyrillTrans,"headland, point",,,qinč,Phonemic
+1-342-505-1,darg1241,Dargwa (Gapshima dialect),660,риф,CyrillTrans,reef,,,rif,Phonemic
+1-341-505-1,darg1241,Dargwa (Gapshima dialect),623,лагуна,CyrillTrans,lagoon,,,laguna,Phonemic
+1-340-505-1,darg1241,Dargwa (Gapshima dialect),663,залиб,CyrillTrans,"gulf, bay",,,"zalib, buxta",Phonemic
+1-340-505-3,darg1241,Dargwa (Gapshima dialect),663,бухта,CyrillTrans,"gulf, bay",,,"zalib, buxta",Phonemic
+1-330-505-1,darg1241,Dargwa (Gapshima dialect),624,шяри,CyrillTrans,lake,,,šaˤri,Phonemic
+1-329-505-1,darg1241,Dargwa (Gapshima dialect),645,акеан,CyrillTrans,ocean,,,аkean,Phonemic
+1-324-505-1,darg1241,Dargwa (Gapshima dialect),1768,хьулехь,CyrillTrans,foam,,,x̌ulex̌,Phonemic
+1-323-505-1,darg1241,Dargwa (Gapshima dialect),259,бургъурсе,CyrillTrans,rough (of sea),,,burɣurse,Phonemic
+1-320-505-1,darg1241,Dargwa (Gapshima dialect),1474,урхьу,CyrillTrans,sea,,,urx̌u,Phonemic
+1-322-505-1,darg1241,Dargwa (Gapshima dialect),258,паргъатсе,CyrillTrans,calm (of sea),,,parɣatse,Phonemic
+1-310-505-1,darg1241,Dargwa (Gapshima dialect),948,шин,CyrillTrans,water,,,šin,Phonemic
+1-280-505-1,darg1241,Dargwa (Gapshima dialect),1155,бургула,CyrillTrans,cave,,,burgula,Phonemic
+1-270-505-1,darg1241,Dargwa (Gapshima dialect),113,дуб,CyrillTrans,shore,,,dub,Phonemic
+1-260-505-1,darg1241,Dargwa (Gapshima dialect),166,кантинент,CyrillTrans,mainland,,,kаntinent,Phonemic
+1-250-505-1,darg1241,Dargwa (Gapshima dialect),622,остров,CyrillTrans,island,,,ostrow,Phonemic
+1-240-505-1,darg1241,Dargwa (Gapshima dialect),921,ургуба,CyrillTrans,valley,,,urguba,Phonemic
+1-230-505-1,darg1241,Dargwa (Gapshima dialect),652,диркьа,CyrillTrans,"plain, field",,,"dirq’a, qu",Phonemic
+1-230-505-3,darg1241,Dargwa (Gapshima dialect),652,хъу,CyrillTrans,"plain, field",,,"dirq’a, qu",Phonemic
+1-222-505-1,darg1241,Dargwa (Gapshima dialect),618,шури,CyrillTrans,"cliff, precipice",,,"šuri, les, qaˤš-qaˤš",Phonemic
+1-222-505-3,darg1241,Dargwa (Gapshima dialect),618,лес,CyrillTrans,"cliff, precipice",,,"šuri, les, qaˤš-qaˤš",Phonemic
+1-222-505-5,darg1241,Dargwa (Gapshima dialect),618,хъяш-хъяш,CyrillTrans,"cliff, precipice",,,"šuri, les, qaˤš-qaˤš",Phonemic
+1-220-505-1,darg1241,Dargwa (Gapshima dialect),2118,дубур,CyrillTrans,"mountain, hill",,,"dubur, qaˤbur",Phonemic
+1-220-505-3,darg1241,Dargwa (Gapshima dialect),2118,хъябур,CyrillTrans,"mountain, hill",,,"dubur, qaˤbur",Phonemic
+1-214-505-1,darg1241,Dargwa (Gapshima dialect),640,хІагъ,CyrillTrans,mud,,,"ħaɣ, naˤs",Phonemic
+1-214-505-3,darg1241,Dargwa (Gapshima dialect),640,няс,CyrillTrans,mud,,,"ħaɣ, naˤs",Phonemic
+1-215-505-1,darg1241,Dargwa (Gapshima dialect),671,къум,CyrillTrans,sand,,,Gum,Phonemic
+1-213-505-1,darg1241,Dargwa (Gapshima dialect),2,пухІ,CyrillTrans,dust,,,puħ,Phonemic
+1-212-505-1,darg1241,Dargwa (Gapshima dialect),1228,ванза,CyrillTrans,"earth=ground, soil",,,"wanza, ʕaˤnč̄i",Phonemic
+1-212-505-3,darg1241,Dargwa (Gapshima dialect),1228,гІянччи,CyrillTrans,"earth=ground, soil",,,"wanza, ʕaˤnč̄i",Phonemic
+1-210-505-1,darg1241,Dargwa (Gapshima dialect),626,улка,CyrillTrans,"earth, land",,,ulka,Phonemic
+1-100-505-1,darg1241,Dargwa (Gapshima dialect),965,дунъя,CyrillTrans,world,,,dunya,Phonemic
+14-330-505-1,darg1241,Dargwa (Gapshima dialect),1544,цацахІели,CyrillTrans,sometimes,,,cacaħeli,Phonemic
+14-331-505-1,darg1241,Dargwa (Gapshima dialect),703,бахъхІеаккарле,CyrillTrans,soon,,,baqħeak̄arle,Phonemic
+14-332-505-1,darg1241,Dargwa (Gapshima dialect),418,бухъенбитІунсе,CyrillTrans,long-time (for a),,,buqenbitʼunse,Phonemic
+14-340-505-1,darg1241,Dargwa (Gapshima dialect),1656,бекІлел,CyrillTrans,never,,,"bekʼlel, murtčʼe",Phonemic
+14-340-505-3,darg1241,Dargwa (Gapshima dialect),1656,муртчIе,CyrillTrans,never,,,"bekʼlel, murtčʼe",Phonemic
+14-350-505-1,darg1241,Dargwa (Gapshima dialect),204,гІирра,CyrillTrans,again,,,"ʕirra, sak̄ale",Phonemic
+14-350-505-3,darg1241,Dargwa (Gapshima dialect),204,саккале,CyrillTrans,again,,,"ʕirra, sak̄ale",Phonemic
+14-410-505-1,darg1241,Dargwa (Gapshima dialect),1225,бархІи,CyrillTrans,day,,,barħi,Phonemic
+14-420-505-1,darg1241,Dargwa (Gapshima dialect),1233,дуже,CyrillTrans,night,,,duže,Phonemic
+14-430-505-1,darg1241,Dargwa (Gapshima dialect),729,бархІи гьаббикIан замана,CyrillTrans,dawn,,,barħi hab̄ikʼan zamana,Phonemic
+14-440-505-1,darg1241,Dargwa (Gapshima dialect),1339,шалличела,CyrillTrans,morning,,,šalličela,Phonemic
+14-450-505-1,darg1241,Dargwa (Gapshima dialect),12,хІерилла,CyrillTrans,"noon, midday",,,ħerilla,Phonemic
+14-451-505-1,darg1241,Dargwa (Gapshima dialect),1807,хІеригІергъе,CyrillTrans,afternoon,,,ħeriʕerɣe,Phonemic
+14-460-505-1,darg1241,Dargwa (Gapshima dialect),1629,бархІахъ,CyrillTrans,evening,,,barħaq,Phonemic
+14-470-505-1,darg1241,Dargwa (Gapshima dialect),1283,ишбархІи,CyrillTrans,today,,,išbarħi,Phonemic
+14-480-505-1,darg1241,Dargwa (Gapshima dialect),1329,ччягІял,CyrillTrans,tomorrow,,,č̄aˤʕaˤl,Phonemic
+14-481-505-1,darg1241,Dargwa (Gapshima dialect),1179,гІирбархІи,CyrillTrans,day-after-tomorrow,,,"ʕirbarħi, čaˤlcarħel",Phonemic
+14-481-505-3,darg1241,Dargwa (Gapshima dialect),1179,чялцархIел,CyrillTrans,day-after-tomorrow,,,"ʕirbarħi, čaˤlcarħel",Phonemic
+14-490-505-1,darg1241,Dargwa (Gapshima dialect),1174,даг,CyrillTrans,yesterday,,,dag,Phonemic
+14-491-505-1,darg1241,Dargwa (Gapshima dialect),1180,даггьабил бархІи,CyrillTrans,day-before-yesterday,,,daghabil barħi,Phonemic
+14-510-505-1,darg1241,Dargwa (Gapshima dialect),1353,сягІят,CyrillTrans,hour,,,saˤʕaˤt,Phonemic
+14-530-505-1,darg1241,Dargwa (Gapshima dialect),1323,сягІят,CyrillTrans,"clock, timepiece",,,saˤʕaˤt,Phonemic
+14-610-505-1,darg1241,Dargwa (Gapshima dialect),1469,жумягІ,CyrillTrans,week,,,žumaˤʕ,Phonemic
+14-620-505-1,darg1241,Dargwa (Gapshima dialect),1699,алхІят,CyrillTrans,Sunday,,,alħaˤt,Phonemic
+14-630-505-1,darg1241,Dargwa (Gapshima dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-505-1,darg1241,Dargwa (Gapshima dialect),1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-505-1,darg1241,Dargwa (Gapshima dialect),1694,арбягІ,CyrillTrans,Wednesday,,,arbaˤʕ,Phonemic
+14-660-505-1,darg1241,Dargwa (Gapshima dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-505-1,darg1241,Dargwa (Gapshima dialect),1692,жумягІ,CyrillTrans,Friday,,,žumaˤʕ,Phonemic
+14-680-505-1,darg1241,Dargwa (Gapshima dialect),1700,сут,CyrillTrans,Saturday,,,sut,Phonemic
+14-710-505-1,darg1241,Dargwa (Gapshima dialect),1370,бац,CyrillTrans,month,,,bac,Phonemic
+14-730-505-1,darg1241,Dargwa (Gapshima dialect),1226,дус,CyrillTrans,year,,,dus,Phonemic
+14-740-505-1,darg1241,Dargwa (Gapshima dialect),1471,жени,CyrillTrans,winter,,,ženi,Phonemic
+14-750-505-1,darg1241,Dargwa (Gapshima dialect),1537,хІеб,CyrillTrans,spring,,,ħeb,Phonemic
+14-760-505-1,darg1241,Dargwa (Gapshima dialect),1342,дуцІрум,CyrillTrans,summer,,,ducʼrum,Phonemic
+14-770-505-1,darg1241,Dargwa (Gapshima dialect),1276,гІебшни,CyrillTrans,autumn,,,ʕebšni,Phonemic
+14-780-505-1,darg1241,Dargwa (Gapshima dialect),691,дусла манзил,CyrillTrans,season,,,dusla manzil,Phonemic
+15-210-505-1,darg1241,Dargwa (Gapshima dialect),1587,ккягІбичІес,CyrillTrans,smell (vb intrans),,,"k̄aˤʕbičʼes, tʼembičʼes",Phonemic
+15-210-505-3,darg1241,Dargwa (Gapshima dialect),1587,тIембичIес,CyrillTrans,smell (vb intrans),,,"k̄aˤʕbičʼes, tʼembičʼes",Phonemic
+15-212-505-1,darg1241,Dargwa (Gapshima dialect),375,хухучІес,CyrillTrans,sniff,,,xuxučʼes,Phonemic
+15-220-505-1,darg1241,Dargwa (Gapshima dialect),1586,сунтІучІес,CyrillTrans,smell (vb trans),,,suntʼučʼes,Phonemic
+15-250-505-1,darg1241,Dargwa (Gapshima dialect),376,биццисе тІем,CyrillTrans,"fragrant, good smelling",,,bic̄ise tʼem,Phonemic
+15-260-505-1,darg1241,Dargwa (Gapshima dialect),42,дибягъсе ккягІ,CyrillTrans,"stinking, bad smelling",,,dibaˤɣse k̄aˤʕ,Phonemic
+15-310-505-1,darg1241,Dargwa (Gapshima dialect),21,тІем,CyrillTrans,taste,,,tʼem,Phonemic
+15-350-505-1,darg1241,Dargwa (Gapshima dialect),717,муръисе,CyrillTrans,sweet,,,murʔise,Phonemic
+15-360-505-1,darg1241,Dargwa (Gapshima dialect),1091,цуйсе,CyrillTrans,salty,,,cuyse,Phonemic
+15-370-505-1,darg1241,Dargwa (Gapshima dialect),887,кьутІкьусе,CyrillTrans,bitter,,,q’utʼq’use,Phonemic
+15-380-505-1,darg1241,Dargwa (Gapshima dialect),1906,циксе,CyrillTrans,"acid, sour",,,"cikse, cʼaq’se",Phonemic
+15-380-505-3,darg1241,Dargwa (Gapshima dialect),1906,цIакьсе,CyrillTrans,"acid, sour",,,"cikse, cʼaq’se",Phonemic
+15-390-505-1,darg1241,Dargwa (Gapshima dialect),70,ценнатІемсе,CyrillTrans,brackish,,,cennatʼemse,Phonemic
+15-410-505-1,darg1241,Dargwa (Gapshima dialect),1408,бикьес,CyrillTrans,hear,,,biq’es,Phonemic
+15-420-505-1,darg1241,Dargwa (Gapshima dialect),1608,лехІихъес,CyrillTrans,listen,,,leħiqes,Phonemic
+15-440-505-1,darg1241,Dargwa (Gapshima dialect),1811,тІама,CyrillTrans,"sound, noise",,,tʼama,Phonemic
+15-450-505-1,darg1241,Dargwa (Gapshima dialect),377,ахъсе,CyrillTrans,loud,,,aqse,Phonemic
+15-460-505-1,darg1241,Dargwa (Gapshima dialect),1314,паргъатсе,CyrillTrans,"quiet, silence",,,"parɣatse, leħse",Phonemic
+15-460-505-3,darg1241,Dargwa (Gapshima dialect),1314,лехІсе,CyrillTrans,"quiet, silence",,,"parɣatse, leħse",Phonemic
+15-510-505-1,darg1241,Dargwa (Gapshima dialect),1409,чебиэс,CyrillTrans,see,,,čebiʔes,Phonemic
+15-520-505-1,darg1241,Dargwa (Gapshima dialect),1819,хІеручІес,CyrillTrans,"look, look at",,,ħeručʼes,Phonemic
+15-550-505-1,darg1241,Dargwa (Gapshima dialect),1039,чебиахъес,CyrillTrans,show,,,čebiaqes,Phonemic
+15-560-505-1,darg1241,Dargwa (Gapshima dialect),708,щалабичІахъес,CyrillTrans,shine,,,š̄alabičʼaqes,Phonemic
+15-570-505-1,darg1241,Dargwa (Gapshima dialect),679,щаласе,CyrillTrans,bright,,,š̄alase,Phonemic
+15-610-505-1,darg1241,Dargwa (Gapshima dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-505-1,darg1241,Dargwa (Gapshima dialect),250,щаласе,CyrillTrans,light (in color),,,š̄alase,Phonemic
+15-630-505-1,darg1241,Dargwa (Gapshima dialect),706,цІябсе,CyrillTrans,dark (in color),,,"cʼaˤbse, ɣuršse",Phonemic
+15-630-505-3,darg1241,Dargwa (Gapshima dialect),706,гъуршсе,CyrillTrans,dark (in color),,,"cʼaˤbse, ɣuršse",Phonemic
+15-640-505-1,darg1241,Dargwa (Gapshima dialect),1335,цІубсе,CyrillTrans,white,,,cʼubse,Phonemic
+15-650-505-1,darg1241,Dargwa (Gapshima dialect),163,цІуттарсе,CyrillTrans,black,,,cʼut̄arse,Phonemic
+15-660-505-1,darg1241,Dargwa (Gapshima dialect),156,хІунтІенсе,CyrillTrans,red,,,ħuntʼense,Phonemic
+15-670-505-1,darg1241,Dargwa (Gapshima dialect),837,хьанцІсе,CyrillTrans,blue,,,x̌ancʼse,Phonemic
+15-680-505-1,darg1241,Dargwa (Gapshima dialect),1425,шинишасе,CyrillTrans,green,,,šinišase,Phonemic
+15-690-505-1,darg1241,Dargwa (Gapshima dialect),1424,бухъутІсе,CyrillTrans,yellow,,,buqutʼse,Phonemic
+15-710-505-1,darg1241,Dargwa (Gapshima dialect),1892,хахамбиркьес,CyrillTrans,touch,,,xaxambirq’es,Phonemic
+15-712-505-1,darg1241,Dargwa (Gapshima dialect),378,къизбиркьес,CyrillTrans,pinch,,,"Gizbirq’es, q’icʼuʕes, ɣaˤžbirq’es",Phonemic
+15-712-505-3,darg1241,Dargwa (Gapshima dialect),378,кьицIугIес,CyrillTrans,pinch,,,"Gizbirq’es, q’icʼuʕes, ɣaˤžbirq’es",Phonemic
+15-712-505-5,darg1241,Dargwa (Gapshima dialect),378,гъяжбиркьес,CyrillTrans,pinch,,,"Gizbirq’es, q’icʼuʕes, ɣaˤžbirq’es",Phonemic
+15-720-505-1,darg1241,Dargwa (Gapshima dialect),1079,балес,CyrillTrans,feel,,,bales,Phonemic
+15-740-505-1,darg1241,Dargwa (Gapshima dialect),1884,кьяркьсе,CyrillTrans,hard,,,q’aˤrq’se,Phonemic
+15-750-505-1,darg1241,Dargwa (Gapshima dialect),1856,кІантІисе,CyrillTrans,soft,,,kʼantʼise,Phonemic
+15-760-505-1,darg1241,Dargwa (Gapshima dialect),1923,чурхсе,CyrillTrans,rough,,,čurxse,Phonemic
+15-770-505-1,darg1241,Dargwa (Gapshima dialect),1234,лугІянсе,CyrillTrans,smooth,,,luʕaˤnse,Phonemic
+15-780-505-1,darg1241,Dargwa (Gapshima dialect),1396,дубгасе,CyrillTrans,sharp,,,dubgase,Phonemic
+15-790-505-1,darg1241,Dargwa (Gapshima dialect),379,кьаксе,CyrillTrans,"blunt, dull",,,q’akse,Phonemic
+15-810-505-1,darg1241,Dargwa (Gapshima dialect),1210,декІсе,CyrillTrans,heavy,,,dekʼse,Phonemic
+15-820-505-1,darg1241,Dargwa (Gapshima dialect),1052,кунксе,CyrillTrans,light (in weight),,,kunkse,Phonemic
+15-830-505-1,darg1241,Dargwa (Gapshima dialect),1726,бяхІунсе,CyrillTrans,"wet, damp",,,"baˤħunse, šinkʼase",Phonemic
+15-830-505-3,darg1241,Dargwa (Gapshima dialect),1726,шинкІасе,CyrillTrans,"wet, damp",,,"baˤħunse, šinkʼase",Phonemic
+15-840-505-1,darg1241,Dargwa (Gapshima dialect),1398,беръубсе,CyrillTrans,dry,,,berʔubse,Phonemic
+15-850-505-1,darg1241,Dargwa (Gapshima dialect),1286,буцІарсе,CyrillTrans,hot,,,bucʼarse,Phonemic
+15-851-505-1,darg1241,Dargwa (Gapshima dialect),1232,ванасе,CyrillTrans,warm,,,wanase,Phonemic
+15-860-505-1,darg1241,Dargwa (Gapshima dialect),1287,бяргІибсе,CyrillTrans,cold,,,baˤrʕibse,Phonemic
+15-870-505-1,darg1241,Dargwa (Gapshima dialect),704,умъусе,CyrillTrans,clean,,,umʔuse,Phonemic
+15-880-505-1,darg1241,Dargwa (Gapshima dialect),1230,няссе,CyrillTrans,"dirty, soiled",,,naˤs̄e,Phonemic
+15-890-505-1,darg1241,Dargwa (Gapshima dialect),380,бушкьибсе,CyrillTrans,wrinkled,,,bušq’ibse,Phonemic
+16-110-505-1,darg1241,Dargwa (Gapshima dialect),53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-505-1,darg1241,Dargwa (Gapshima dialect),1572,тамашаубсе,CyrillTrans,"surprised, astonished",,,tamašaubse,Phonemic
+16-180-505-1,darg1241,Dargwa (Gapshima dialect),720,гьарбизни,CyrillTrans,"good fortune, luck",,,harbizni,Phonemic
+16-190-505-1,darg1241,Dargwa (Gapshima dialect),56,гьархІебизни,CyrillTrans,"misfortune, bad luck",,,harħebizni,Phonemic
+16-230-505-1,darg1241,Dargwa (Gapshima dialect),1495,талихІчевси,CyrillTrans,"joyful, glad, happy",,,"taliħčewsi, razise",Phonemic
+16-230-505-3,darg1241,Dargwa (Gapshima dialect),1495,разисе,CyrillTrans,"joyful, glad, happy",,,"taliħčewsi, razise",Phonemic
+16-250-505-1,darg1241,Dargwa (Gapshima dialect),1355,дукаручІес,CyrillTrans,laugh,,,dukaručʼes,Phonemic
+16-251-505-1,darg1241,Dargwa (Gapshima dialect),1451,пишякъес,CyrillTrans,smile,,,"pišaˤGes, hinčʼkaqes",Phonemic
+16-251-505-3,darg1241,Dargwa (Gapshima dialect),1451,гьинчIкахъес,CyrillTrans,smile,,,"pišaˤGes, hinčʼkaqes",Phonemic
+16-260-505-1,darg1241,Dargwa (Gapshima dialect),1413,хІязтавиркьес,CyrillTrans,play,,,ħaˤztawirq’es,Phonemic
+16-270-505-1,darg1241,Dargwa (Gapshima dialect),923,диччес,CyrillTrans,love,,,dič̄es,Phonemic
+16-290-505-1,darg1241,Dargwa (Gapshima dialect),578,пайучІес,CyrillTrans,kiss,,,payučʼes,Phonemic
+16-300-505-1,darg1241,Dargwa (Gapshima dialect),928,кІапІурцес,CyrillTrans,embrace,,,"kʼapʼurces, qarisawces",Phonemic
+16-300-505-3,darg1241,Dargwa (Gapshima dialect),928,хъарисавцес,CyrillTrans,embrace,,,"kʼapʼurces, qarisawces",Phonemic
+16-310-505-1,darg1241,Dargwa (Gapshima dialect),1783,иццала,CyrillTrans,pain,,,ic̄ala,Phonemic
+16-320-505-1,darg1241,Dargwa (Gapshima dialect),1668,шишимала,CyrillTrans,"grief, sorrow, sadness",,,"šišimala, decʼ",Phonemic
+16-320-505-3,darg1241,Dargwa (Gapshima dialect),1668,децІ,CyrillTrans,"grief, sorrow, sadness",,,"šišimala, decʼ",Phonemic
+16-330-505-1,darg1241,Dargwa (Gapshima dialect),1000,къияибакІни,CyrillTrans,"anxiety, worry",,,"Giyaibakʼni, bahaqni",Phonemic
+16-330-505-3,darg1241,Dargwa (Gapshima dialect),1000,багьахъни,CyrillTrans,"anxiety, worry",,,"Giyaibakʼni, bahaqni",Phonemic
+16-340-505-1,darg1241,Dargwa (Gapshima dialect),1875,ахІербизес,CyrillTrans,"regret, be sorry",,,aħerbizes,Phonemic
+16-350-505-1,darg1241,Dargwa (Gapshima dialect),1141,урцІецІи,CyrillTrans,pity,,,urcʼecʼi,Phonemic
+16-370-505-1,darg1241,Dargwa (Gapshima dialect),1839,висес,CyrillTrans,"cry, weep",,,wises,Phonemic
+16-380-505-1,darg1241,Dargwa (Gapshima dialect),1651,нергъ,CyrillTrans,tear (noun),,,nerɣ,Phonemic
+16-390-505-1,darg1241,Dargwa (Gapshima dialect),716,угь-цІумучІес,CyrillTrans,groan,,,uh-cʼumučʼes,Phonemic
+16-410-505-1,darg1241,Dargwa (Gapshima dialect),1607,динхІяйчахъес,CyrillTrans,hate,,,dinħaˤyčaqes,Phonemic
+16-420-505-1,darg1241,Dargwa (Gapshima dialect),82,гьими,CyrillTrans,anger,,,"himi, ʕaˤsibdeš",Phonemic
+16-420-505-3,darg1241,Dargwa (Gapshima dialect),82,гІясибдеш,CyrillTrans,anger,,,"himi, ʕaˤsibdeš",Phonemic
+16-440-505-1,darg1241,Dargwa (Gapshima dialect),40,хІяшшалдеш,CyrillTrans,"envy, jealousy",,,ħaˤš̄aldeš,Phonemic
+16-450-505-1,darg1241,Dargwa (Gapshima dialect),1776,цIахбизни,CyrillTrans,shame (noun),,,cʼaxbizni,Phonemic
+16-480-505-1,darg1241,Dargwa (Gapshima dialect),174,уктемсе,CyrillTrans,proud,,,"uktemse, xamse",Phonemic
+16-480-505-3,darg1241,Dargwa (Gapshima dialect),174,хамсе,CyrillTrans,proud,,,"uktemse, xamse",Phonemic
+16-510-505-1,darg1241,Dargwa (Gapshima dialect),1779,таваккалчи,CyrillTrans,dare,,,tawak̄alči,Phonemic
+16-520-505-1,darg1241,Dargwa (Gapshima dialect),3,уреххиаккар,CyrillTrans,brave,,,urex̄iak̄ar,Phonemic
+16-530-505-1,darg1241,Dargwa (Gapshima dialect),781,урухукІни,CyrillTrans,"fear, fright",,,uruxukʼni,Phonemic
+16-540-505-1,darg1241,Dargwa (Gapshima dialect),1810,уреххи,CyrillTrans,danger,,,urex̄i,Phonemic
+16-620-505-1,darg1241,Dargwa (Gapshima dialect),1784,дикни,CyrillTrans,"desire, want",,,dikni,Phonemic
+16-622-505-1,darg1241,Dargwa (Gapshima dialect),1750,чеббирчІес,CyrillTrans,choose,,,čebbirčʼes,Phonemic
+16-630-505-1,darg1241,Dargwa (Gapshima dialect),1092,вирххес,CyrillTrans,hope,,,wirx̄es,Phonemic
+16-650-505-1,darg1241,Dargwa (Gapshima dialect),100,марсе,CyrillTrans,faithful,,,"marse, warx̌se",Phonemic
+16-650-505-3,darg1241,Dargwa (Gapshima dialect),100,вархьсе,CyrillTrans,faithful,,,"marse, warx̌se",Phonemic
+16-660-505-1,darg1241,Dargwa (Gapshima dialect),1657,гьарле марсе,CyrillTrans,true,,,harle marse,Phonemic
+16-670-505-1,darg1241,Dargwa (Gapshima dialect),601,къянбаугьес,CyrillTrans,"lie, tell lies",,,Gaˤnbauhes,Phonemic
+16-680-505-1,darg1241,Dargwa (Gapshima dialect),13,биргІякабирччес,CyrillTrans,deceit,,,birʕaˤkabirč̄es,Phonemic
+16-690-505-1,darg1241,Dargwa (Gapshima dialect),1528,чевкархес,CyrillTrans,forgive,,,čewkarxes,Phonemic
+16-710-505-1,darg1241,Dargwa (Gapshima dialect),1035,гІяхІсе,CyrillTrans,good,,,ʕaˤħse,Phonemic
+16-720-505-1,darg1241,Dargwa (Gapshima dialect),1292,вайсе,CyrillTrans,bad,,,wayse,Phonemic
+16-730-505-1,darg1241,Dargwa (Gapshima dialect),1725,вархьсе,CyrillTrans,"right, correct",,,warx̌se,Phonemic
+16-740-505-1,darg1241,Dargwa (Gapshima dialect),1390,вархьаккарсе,CyrillTrans,wrong,,,warx̌ak̄arse,Phonemic
+16-760-505-1,darg1241,Dargwa (Gapshima dialect),134,баркьутти,CyrillTrans,fault,,,barq’ut̄i,Phonemic
+16-770-505-1,darg1241,Dargwa (Gapshima dialect),1293,хатІа,CyrillTrans,"mistake, error",,,xatʼa,Phonemic
+16-780-505-1,darg1241,Dargwa (Gapshima dialect),381,гІяйиблавиркьес,CyrillTrans,blame,,,ʕaˤyiblawirq’es,Phonemic
+16-790-505-1,darg1241,Dargwa (Gapshima dialect),1687,гапиркьес,CyrillTrans,praise,,,gapirq’es,Phonemic
+16-810-505-1,darg1241,Dargwa (Gapshima dialect),1427,къугъасе,CyrillTrans,beautiful,,,Guɣase,Phonemic
+16-820-505-1,darg1241,Dargwa (Gapshima dialect),1548,дибягъсе,CyrillTrans,ugly,,,dibaˤɣse,Phonemic
+16-830-505-1,darg1241,Dargwa (Gapshima dialect),2018,кьиркьирсе,CyrillTrans,greedy,,,q’irq’irse,Phonemic
+16-840-505-1,darg1241,Dargwa (Gapshima dialect),1310,духхусе,CyrillTrans,clever,,,dux̄use,Phonemic
+17-110-505-1,darg1241,Dargwa (Gapshima dialect),1562,гІякьлу,CyrillTrans,mind,,,"ʕaˤq’lu, dux̄udeš",Phonemic
+17-110-505-3,darg1241,Dargwa (Gapshima dialect),1562,духхудеш,CyrillTrans,mind,,,"ʕaˤq’lu, dux̄udeš",Phonemic
+17-130-505-1,darg1241,Dargwa (Gapshima dialect),1415,пикриучІес,CyrillTrans,think (= reflect),,,pikriučʼes,Phonemic
+17-140-505-1,darg1241,Dargwa (Gapshima dialect),1513,пикриучІес,CyrillTrans,think (= be of the opinion),,,"pikriučʼes, luʔes",Phonemic
+17-140-505-3,darg1241,Dargwa (Gapshima dialect),1513,луэс,CyrillTrans,think (= be of the opinion),,,"pikriučʼes, luʔes",Phonemic
+17-150-505-1,darg1241,Dargwa (Gapshima dialect),1890,вирхес,CyrillTrans,believe,,,wirxes,Phonemic
+17-160-505-1,darg1241,Dargwa (Gapshima dialect),1536,иргъес,CyrillTrans,understand,,,irɣes,Phonemic
+17-170-505-1,darg1241,Dargwa (Gapshima dialect),1410,балес,CyrillTrans,know,,,bales,Phonemic
+17-171-505-1,darg1241,Dargwa (Gapshima dialect),1932,пикри гьалабиршес,CyrillTrans,guess,,,pikri halabiršes,Phonemic
+17-172-505-1,darg1241,Dargwa (Gapshima dialect),117,гІердиркьес,CyrillTrans,imitate,,,ʕerdirq’es,Phonemic
+17-180-505-1,darg1241,Dargwa (Gapshima dialect),1521,саблиян кабилзес,CyrillTrans,seem,,,sabliyan kabilzes,Phonemic
+17-190-505-1,darg1241,Dargwa (Gapshima dialect),1609,пикри,CyrillTrans,"idea, notion",,,"pikri, irɣni",Phonemic
+17-190-505-3,darg1241,Dargwa (Gapshima dialect),1609,иргъни,CyrillTrans,"idea, notion",,,"pikri, irɣni",Phonemic
+17-210-505-1,darg1241,Dargwa (Gapshima dialect),698,духхусе,CyrillTrans,wise,,,"dux̄use, dahri murx̌se",Phonemic
+17-210-505-3,darg1241,Dargwa (Gapshima dialect),698,дагьри мурхьсе,CyrillTrans,wise,,,"dux̄use, dahri murx̌se",Phonemic
+17-220-505-1,darg1241,Dargwa (Gapshima dialect),1518,абдалсе,CyrillTrans,"foolish, stupid",,,abdalse,Phonemic
+17-230-505-1,darg1241,Dargwa (Gapshima dialect),1899,мехІурсе,CyrillTrans,"insane, crazy",,,meħurse,Phonemic
+17-240-505-1,darg1241,Dargwa (Gapshima dialect),504,балес,CyrillTrans,learn,,,"bales, učʼes",Phonemic
+17-240-505-3,darg1241,Dargwa (Gapshima dialect),504,учІес,CyrillTrans,learn,,,"bales, učʼes",Phonemic
+17-242-505-1,darg1241,Dargwa (Gapshima dialect),1929,бучІахъес,CyrillTrans,study,,,"bučʼaqes, bales",Phonemic
+17-242-505-3,darg1241,Dargwa (Gapshima dialect),1929,балес,CyrillTrans,study,,,"bučʼaqes, bales",Phonemic
+17-250-505-1,darg1241,Dargwa (Gapshima dialect),709,учІахъес,CyrillTrans,teach,,,učʼaqes,Phonemic
+17-260-505-1,darg1241,Dargwa (Gapshima dialect),753,ученик,CyrillTrans,pupil,,,"učenik, mutʼaˤʕaˤllim",Phonemic
+17-260-505-3,darg1241,Dargwa (Gapshima dialect),753,мутІягІяллим,CyrillTrans,pupil,,,"učenik, mutʼaˤʕaˤllim",Phonemic
+17-270-505-1,darg1241,Dargwa (Gapshima dialect),1038,мугІяллим,CyrillTrans,teacher,,,"muʕaˤllim, učitel",Phonemic
+17-270-505-3,darg1241,Dargwa (Gapshima dialect),1038,учител,CyrillTrans,teacher,,,"muʕaˤllim, učitel",Phonemic
+17-280-505-1,darg1241,Dargwa (Gapshima dialect),673,мактаб,CyrillTrans,school,,,"maktab, uškula",Phonemic
+17-280-505-3,darg1241,Dargwa (Gapshima dialect),673,ушкула,CyrillTrans,school,,,"maktab, uškula",Phonemic
+17-310-505-1,darg1241,Dargwa (Gapshima dialect),707,гьанбирчахъес,CyrillTrans,remember,,,hanbirčaqes,Phonemic
+17-320-505-1,darg1241,Dargwa (Gapshima dialect),1523,хъумуртес,CyrillTrans,forget,,,qumurtes,Phonemic
+17-340-505-1,darg1241,Dargwa (Gapshima dialect),989,якьинсе,CyrillTrans,"clear, plain",,,yaq’inse,Phonemic
+17-350-505-1,darg1241,Dargwa (Gapshima dialect),1764,аргъхІяргъибсе,CyrillTrans,obscure,,,arɣħaˤrɣibse,Phonemic
+17-360-505-1,darg1241,Dargwa (Gapshima dialect),1121,дигІяндеш,CyrillTrans,secret,,,diʕaˤndeš,Phonemic
+17-370-505-1,darg1241,Dargwa (Gapshima dialect),509,бирхауттичевсе,CyrillTrans,"sure, certain",,,birxaut̄ičewse,Phonemic
+17-380-505-1,darg1241,Dargwa (Gapshima dialect),1626,баянбиркьес,CyrillTrans,explain,,,bayanbirq’es,Phonemic
+17-410-505-1,darg1241,Dargwa (Gapshima dialect),1162,кьас,CyrillTrans,"intention, purpose",,,q’as,Phonemic
+17-420-505-1,darg1241,Dargwa (Gapshima dialect),860,сабаб,CyrillTrans,cause,,,sabab,Phonemic
+17-430-505-1,darg1241,Dargwa (Gapshima dialect),1308,васвасукІни,CyrillTrans,doubt,,,waswasukʼni,Phonemic
+17-440-505-1,darg1241,Dargwa (Gapshima dialect),1841,ташмишучІес,CyrillTrans,suspect,,,tašmišučʼes,Phonemic
+17-441-505-1,darg1241,Dargwa (Gapshima dialect),1902,уббетлужес,CyrillTrans,betray,,,ub̄etlužes,Phonemic
+17-450-505-1,darg1241,Dargwa (Gapshima dialect),643,чараъаккардеш,CyrillTrans,"need, necessity",,,čaraʔak̄ardeš,Phonemic
+17-460-505-1,darg1241,Dargwa (Gapshima dialect),686,гьамадсе,CyrillTrans,easy,,,"hamadse, kunkse",Phonemic
+17-460-505-3,darg1241,Dargwa (Gapshima dialect),686,кунксе,CyrillTrans,easy,,,"hamadse, kunkse",Phonemic
+17-470-505-1,darg1241,Dargwa (Gapshima dialect),584,къиянсе,CyrillTrans,difficult,,,"Giyanse, žapase",Phonemic
+17-470-505-3,darg1241,Dargwa (Gapshima dialect),584,жапасе,CyrillTrans,difficult,,,"Giyanse, žapase",Phonemic
+17-480-505-1,darg1241,Dargwa (Gapshima dialect),1812,кьасбарни,CyrillTrans,"try, attempt",,,"q’asbarni, balbuc",Phonemic
+17-480-505-3,darg1241,Dargwa (Gapshima dialect),1812,балбуц,CyrillTrans,"try, attempt",,,"q’asbarni, balbuc",Phonemic
+17-490-505-1,darg1241,Dargwa (Gapshima dialect),488,тІяхІяр,CyrillTrans,"way, manner",,,tʼaˤħaˤr,Phonemic
+17-510-505-1,darg1241,Dargwa (Gapshima dialect),1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-505-1,darg1241,Dargwa (Gapshima dialect),1157,сенкІун,CyrillTrans,because,,,"senkʼun, senak̄arannu",Phonemic
+17-520-505-3,darg1241,Dargwa (Gapshima dialect),1157,сенаккаранну,CyrillTrans,because,,,"senkʼun, senak̄arannu",Phonemic
+17-530-505-1,darg1241,Dargwa (Gapshima dialect),1459,эгер,CyrillTrans,if,,,eger,Phonemic
+17-540-505-1,darg1241,Dargwa (Gapshima dialect),1014,яра,CyrillTrans,or,,,yara,Phonemic
+17-550-505-1,darg1241,Dargwa (Gapshima dialect),1268,гІе,CyrillTrans,"yes, affirmative",,,"ʕe, sabi",Phonemic
+17-550-505-3,darg1241,Dargwa (Gapshima dialect),1268,саби,CyrillTrans,"yes, affirmative",,,"ʕe, sabi",Phonemic
+17-560-505-1,darg1241,Dargwa (Gapshima dialect),1269,аккара,CyrillTrans,"no, negative",,,"ak̄ara, yux",Phonemic
+17-560-505-3,darg1241,Dargwa (Gapshima dialect),1269,юх,CyrillTrans,"no, negative",,,"ak̄ara, yux",Phonemic
+17-610-505-1,darg1241,Dargwa (Gapshima dialect),1239,сенне,CyrillTrans,how?,,,senne,Phonemic
+17-620-505-1,darg1241,Dargwa (Gapshima dialect),822,чум,CyrillTrans,how many?,,,čum,Phonemic
+17-630-505-1,darg1241,Dargwa (Gapshima dialect),531,сецад,CyrillTrans,how much?,,,secad,Phonemic
+17-640-505-1,darg1241,Dargwa (Gapshima dialect),1236,се,CyrillTrans,what?,,,se,Phonemic
+17-650-505-1,darg1241,Dargwa (Gapshima dialect),1238,мурт,CyrillTrans,when?,,,murt,Phonemic
+17-660-505-1,darg1241,Dargwa (Gapshima dialect),1237,чинаб,CyrillTrans,where?,,,"činab, činat̄i",Phonemic
+17-660-505-3,darg1241,Dargwa (Gapshima dialect),1237,чинатти,CyrillTrans,where?,,,"činab, činat̄i",Phonemic
+17-670-505-1,darg1241,Dargwa (Gapshima dialect),727,сегъуна,CyrillTrans,which?,,,seɣuna,Phonemic
+17-680-505-1,darg1241,Dargwa (Gapshima dialect),1235,чи,CyrillTrans,who?,,,či,Phonemic
+17-690-505-1,darg1241,Dargwa (Gapshima dialect),1270,сен,CyrillTrans,why?,,,sen,Phonemic
+18-110-505-1,darg1241,Dargwa (Gapshima dialect),1363,тІама,CyrillTrans,voice,,,tʼama,Phonemic
+18-120-505-1,darg1241,Dargwa (Gapshima dialect),1261,далайучІес,CyrillTrans,sing,,,dalayʔučʼes,Phonemic
+18-130-505-1,darg1241,Dargwa (Gapshima dialect),715,вявучІес,CyrillTrans,"shout, cry out",,,waˤwʔučʼes,Phonemic
+18-150-505-1,darg1241,Dargwa (Gapshima dialect),55,шипІиручІес,CyrillTrans,whisper,,,"šipʼiručʼes, šiwkʼiwečʼes",Phonemic
+18-150-505-3,darg1241,Dargwa (Gapshima dialect),55,шивкIивечIес,CyrillTrans,whisper,,,"šipʼiručʼes, šiwkʼiwečʼes",Phonemic
+18-160-505-1,darg1241,Dargwa (Gapshima dialect),128,къумкъумучІес,CyrillTrans,mumble,,,GumGumučʼes,Phonemic
+18-170-505-1,darg1241,Dargwa (Gapshima dialect),1025,шятІучІес,CyrillTrans,whistle,,,šaˤtʼučʼes,Phonemic
+18-180-505-1,darg1241,Dargwa (Gapshima dialect),298,зимзимучІес,CyrillTrans,"shriek, screech",,,"zimzimučʼes, čʼaˤručʼes",Phonemic
+18-180-505-3,darg1241,Dargwa (Gapshima dialect),298,чIяручIес,CyrillTrans,"shriek, screech",,,"zimzimučʼes, čʼaˤručʼes",Phonemic
+18-190-505-1,darg1241,Dargwa (Gapshima dialect),526,ахъле виссес,CyrillTrans,howl,,,aqle wis̄es,Phonemic
+18-210-505-1,darg1241,Dargwa (Gapshima dialect),1623,гъайучІес,CyrillTrans,"speak, talk",,,ɣayučʼes,Phonemic
+18-211-505-1,darg1241,Dargwa (Gapshima dialect),1866,маъ-маъучІес,CyrillTrans,"stutter, stammer",,,maʔ-maʔučʼes,Phonemic
+18-220-505-1,darg1241,Dargwa (Gapshima dialect),1458,бурес,CyrillTrans,say,,,bures,Phonemic
+18-221-505-1,darg1241,Dargwa (Gapshima dialect),1711,хабар бурес,CyrillTrans,tell story,,,xabar bures,Phonemic
+18-222-505-1,darg1241,Dargwa (Gapshima dialect),1115,гъай хIядурбаркьес,CyrillTrans,speech (make a),,,ɣay ħaˤdurbarq’es,Phonemic
+18-230-505-1,darg1241,Dargwa (Gapshima dialect),48,лехІкахъес,CyrillTrans,silent (be),,,leħkaqes,Phonemic
+18-240-505-1,darg1241,Dargwa (Gapshima dialect),1307,мец,CyrillTrans,language,,,mec,Phonemic
+18-260-505-1,darg1241,Dargwa (Gapshima dialect),1599,гъай,CyrillTrans,word,,,"ɣay, dew",Phonemic
+18-260-505-3,darg1241,Dargwa (Gapshima dialect),1599,дев,CyrillTrans,word,,,"ɣay, dew",Phonemic
+18-280-505-1,darg1241,Dargwa (Gapshima dialect),1405,у,CyrillTrans,name,,,u,Phonemic
+18-310-505-1,darg1241,Dargwa (Gapshima dialect),1309,хьарбиэс,CyrillTrans,"ask (question, inquire)",,,x̌arbies,Phonemic
+18-320-505-1,darg1241,Dargwa (Gapshima dialect),1275,гьарбиэс,CyrillTrans,answer,,,"harbiʔes, žawab betlužes",Phonemic
+18-320-505-3,darg1241,Dargwa (Gapshima dialect),1275,жаваб бетлужес,CyrillTrans,answer,,,"harbiʔes, žawab betlužes",Phonemic
+18-330-505-1,darg1241,Dargwa (Gapshima dialect),2022,мукІуручІес,CyrillTrans,"admit, confess",,,mukʼuručʼes,Phonemic
+18-340-505-1,darg1241,Dargwa (Gapshima dialect),755,инкаручІес,CyrillTrans,deny,,,inkaručʼes,Phonemic
+18-350-505-1,darg1241,Dargwa (Gapshima dialect),1828,тиладиучІес,CyrillTrans,"ask, request",,,tiladiučʼes,Phonemic
+18-360-505-1,darg1241,Dargwa (Gapshima dialect),1675,чиассес,CyrillTrans,promise,,,čias̄es,Phonemic
+18-370-505-1,darg1241,Dargwa (Gapshima dialect),49,инкабирес,CyrillTrans,refuse,,,inkabires,Phonemic
+18-380-505-1,darg1241,Dargwa (Gapshima dialect),83,къадагъабиркьес,CyrillTrans,forbid,,,Gadaɣabirq’es,Phonemic
+18-390-505-1,darg1241,Dargwa (Gapshima dialect),299,уркъес,CyrillTrans,"rebuke, scold",,,urGes,Phonemic
+18-410-505-1,darg1241,Dargwa (Gapshima dialect),1084,живиркьес,CyrillTrans,call (=summon),,,"žiwirq’es, tʼalabarq’es, waˤwes",Phonemic
+18-410-505-3,darg1241,Dargwa (Gapshima dialect),1084,тIалабаркьес,CyrillTrans,call (=summon),,,"žiwirq’es, tʼalabarq’es, waˤwes",Phonemic
+18-410-505-5,darg1241,Dargwa (Gapshima dialect),1084,вявэс,CyrillTrans,call (=summon),,,"žiwirq’es, tʼalabarq’es, waˤwes",Phonemic
+18-420-505-1,darg1241,Dargwa (Gapshima dialect),180,у гьабиршес,CyrillTrans,call (=name),,,u habiršes,Phonemic
+18-430-505-1,darg1241,Dargwa (Gapshima dialect),9,балахъес,CyrillTrans,announce,,,balaqes,Phonemic
+18-440-505-1,darg1241,Dargwa (Gapshima dialect),1192,урух иркьес,CyrillTrans,threaten,,,urux irq’es,Phonemic
+18-450-505-1,darg1241,Dargwa (Gapshima dialect),101,халаурхес,CyrillTrans,boast,,,"xalaurxes, gapučʼes",Phonemic
+18-450-505-3,darg1241,Dargwa (Gapshima dialect),101,гапучІес,CyrillTrans,boast,,,"xalaurxes, gapučʼes",Phonemic
+18-510-505-1,darg1241,Dargwa (Gapshima dialect),1672,лучІес,CyrillTrans,write,,,lučʼes,Phonemic
+18-520-505-1,darg1241,Dargwa (Gapshima dialect),724,учІес,CyrillTrans,read,,,učʼes,Phonemic
+18-560-505-1,darg1241,Dargwa (Gapshima dialect),648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-505-1,darg1241,Dargwa (Gapshima dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-505-1,darg1241,Dargwa (Gapshima dialect),963,юз,CyrillTrans,book,,,yuz,Phonemic
+18-670-505-1,darg1241,Dargwa (Gapshima dialect),1045,поэт,CyrillTrans,poet,,,"poet, šaˤʕir",Phonemic
+18-670-505-3,darg1241,Dargwa (Gapshima dialect),1045,шягІир,CyrillTrans,poet,,,"poet, šaˤʕir",Phonemic
+18-710-505-1,darg1241,Dargwa (Gapshima dialect),777,шятІахьхьи,CyrillTrans,flute,,,šaˤtʼax̌̄i,Phonemic
+18-720-505-1,darg1241,Dargwa (Gapshima dialect),908,там,CyrillTrans,drum,,,tam,Phonemic
+18-730-505-1,darg1241,Dargwa (Gapshima dialect),2136,дярнив,CyrillTrans,"horn, trumpet",,,daˤrniw,Phonemic
+18-740-505-1,darg1241,Dargwa (Gapshima dialect),300,вяххярбикIан,CyrillTrans,rattle,,,waˤx̄aˤrbikʼan,Phonemic
+19-110-505-1,darg1241,Dargwa (Gapshima dialect),1300,улка,CyrillTrans,country,,,ulka,Phonemic
+19-120-505-1,darg1241,Dargwa (Gapshima dialect),89,ватІан,CyrillTrans,one's native country,,,watʼan,Phonemic
+19-150-505-1,darg1241,Dargwa (Gapshima dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-505-1,darg1241,Dargwa (Gapshima dialect),930,шши,CyrillTrans,village,,,"š̄i, maš̄i",Phonemic
+19-160-505-3,darg1241,Dargwa (Gapshima dialect),930,машши,CyrillTrans,village,,,"š̄i, maš̄i",Phonemic
+19-170-505-1,darg1241,Dargwa (Gapshima dialect),1010,дазу,CyrillTrans,boundary,,,dazu,Phonemic
+19-210-505-1,darg1241,Dargwa (Gapshima dialect),789,халкь,CyrillTrans,people (populace),,,xalq’,Phonemic
+19-230-505-1,darg1241,Dargwa (Gapshima dialect),302,кьам,CyrillTrans,"tribe, clan",,,"q’am, tuxum",Phonemic
+19-230-505-3,darg1241,Dargwa (Gapshima dialect),302,тухум,CyrillTrans,"tribe, clan",,,"q’am, tuxum",Phonemic
+19-240-505-1,darg1241,Dargwa (Gapshima dialect),301,вожд,CyrillTrans,"chief, chieftain",,,"wožd, tuxumla bekʼ",Phonemic
+19-240-505-3,darg1241,Dargwa (Gapshima dialect),301,тухумла бекI,CyrillTrans,"chief, chieftain",,,"wožd, tuxumla bekʼ",Phonemic
+19-250-505-1,darg1241,Dargwa (Gapshima dialect),1296,гІяца,CyrillTrans,"staff, walking stick",,,ʕaˤca,Phonemic
+19-310-505-1,darg1241,Dargwa (Gapshima dialect),1846,бекIдеш даркьес,CyrillTrans,"rule, govern",,,bekʼdeš darq’es,Phonemic
+19-320-505-1,darg1241,Dargwa (Gapshima dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan, talqan",Phonemic
+19-320-505-3,darg1241,Dargwa (Gapshima dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan, talqan",Phonemic
+19-320-505-5,darg1241,Dargwa (Gapshima dialect),1508,талхъан,CyrillTrans,"king, ruler",,,"pača, xan, talqan",Phonemic
+19-330-505-1,darg1241,Dargwa (Gapshima dialect),1306,пачала хьхьунул,CyrillTrans,queen,,,pačala x̌̄unul,Phonemic
+19-360-505-1,darg1241,Dargwa (Gapshima dialect),482,гIяхIгъабза адам,CyrillTrans,"noble, nobleman",,,ʕaˤħɣabza adam,Phonemic
+19-370-505-1,darg1241,Dargwa (Gapshima dialect),1032,шагьарлан,CyrillTrans,"citizen, subject",,,šaharlan,Phonemic
+19-410-505-1,darg1241,Dargwa (Gapshima dialect),383,хужаим,CyrillTrans,master,,,"xužaim, ħaˤkim, weʕ",Phonemic
+19-410-505-3,darg1241,Dargwa (Gapshima dialect),383,хIяким,CyrillTrans,master,,,"xužaim, ħaˤkim, weʕ",Phonemic
+19-410-505-5,darg1241,Dargwa (Gapshima dialect),383,вегI,CyrillTrans,master,,,"xužaim, ħaˤkim, weʕ",Phonemic
+19-420-505-1,darg1241,Dargwa (Gapshima dialect),812,лагъ,CyrillTrans,slave,,,"laɣ, raˤʕaˤt",Phonemic
+19-420-505-3,darg1241,Dargwa (Gapshima dialect),812,рягІят,CyrillTrans,slave,,,"laɣ, raˤʕaˤt",Phonemic
+19-430-505-1,darg1241,Dargwa (Gapshima dialect),255,къараваш,CyrillTrans,servant,,,Garawaš,Phonemic
+19-440-505-1,darg1241,Dargwa (Gapshima dialect),384,уздан,CyrillTrans,freeman,,,uzdan,Phonemic
+19-450-505-1,darg1241,Dargwa (Gapshima dialect),1128,буюручІес,CyrillTrans,"command, order",,,buyuručʼes,Phonemic
+19-460-505-1,darg1241,Dargwa (Gapshima dialect),1635,мукІуручІес,CyrillTrans,obey,,,mukʼuručʼes,Phonemic
+19-470-505-1,darg1241,Dargwa (Gapshima dialect),1003,ихтияр беччес,CyrillTrans,"let, permit",,,ixtiyar beč̄es,Phonemic
+19-510-505-1,darg1241,Dargwa (Gapshima dialect),1325,гьалмагь,CyrillTrans,"friend, companion",,,"halmah, yuldaš",Phonemic
+19-510-505-3,darg1241,Dargwa (Gapshima dialect),1325,юлдаш,CyrillTrans,"friend, companion",,,"halmah, yuldaš",Phonemic
+19-520-505-1,darg1241,Dargwa (Gapshima dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-505-1,darg1241,Dargwa (Gapshima dialect),1332,унра,CyrillTrans,neighbor,,,unra,Phonemic
+19-550-505-1,darg1241,Dargwa (Gapshima dialect),791,валхІялан,CyrillTrans,stranger,,,walħaˤlan,Phonemic
+19-560-505-1,darg1241,Dargwa (Gapshima dialect),1782,гІяххал,CyrillTrans,guest,,,ʕaˤx̄al,Phonemic
+19-570-505-1,darg1241,Dargwa (Gapshima dialect),1545,хъавегІ,CyrillTrans,host,,,qaweʕ,Phonemic
+19-580-505-1,darg1241,Dargwa (Gapshima dialect),1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-505-1,darg1241,Dargwa (Gapshima dialect),1550,диргалаучІес,CyrillTrans,"hinder, prevent",,,"dirgalaučʼes, Garšili kelzes",Phonemic
+19-590-505-3,darg1241,Dargwa (Gapshima dialect),1550,къаршили келзес,CyrillTrans,"hinder, prevent",,,"dirgalaučʼes, Garšili kelzes",Phonemic
+19-610-505-1,darg1241,Dargwa (Gapshima dialect),1747,гІядат,CyrillTrans,custom,,,ʕaˤdat,Phonemic
+19-620-505-1,darg1241,Dargwa (Gapshima dialect),1848,къавгъа,CyrillTrans,"strife, quarrel",,,Gawɣa,Phonemic
+19-630-505-1,darg1241,Dargwa (Gapshima dialect),2024,хІилла,CyrillTrans,"conspiracy, plot",,,ħilla,Phonemic
+19-650-505-1,darg1241,Dargwa (Gapshima dialect),1831,къаршиирчес,CyrillTrans,meet,,,Garšiʔirčes,Phonemic
+19-720-505-1,darg1241,Dargwa (Gapshima dialect),1610,къахІба,CyrillTrans,prostitute,,,Gaħba,Phonemic
+20-110-505-1,darg1241,Dargwa (Gapshima dialect),1423,вирхІес,CyrillTrans,fight (vb),,,"wirħes, urɣes",Phonemic
+20-110-505-3,darg1241,Dargwa (Gapshima dialect),1423,ургъес,CyrillTrans,fight (vb),,,"wirħes, urɣes",Phonemic
+20-130-505-1,darg1241,Dargwa (Gapshima dialect),579,дергъ,CyrillTrans,"war, battle",,,derɣ,Phonemic
+20-140-505-1,darg1241,Dargwa (Gapshima dialect),1338,даршудеш,CyrillTrans,peace,,,daršudeš,Phonemic
+20-150-505-1,darg1241,Dargwa (Gapshima dialect),1561,хІуреба,CyrillTrans,army,,,ħureba,Phonemic
+20-170-505-1,darg1241,Dargwa (Gapshima dialect),1941,ургъан,CyrillTrans,soldier,,,"urɣan, saldat",Phonemic
+20-170-505-3,darg1241,Dargwa (Gapshima dialect),1941,салдат,CyrillTrans,soldier,,,"urɣan, saldat",Phonemic
+20-210-505-1,darg1241,Dargwa (Gapshima dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-505-1,darg1241,Dargwa (Gapshima dialect),1763,дерхьа,CyrillTrans,club,,,derx̌a,Phonemic
+20-222-505-1,darg1241,Dargwa (Gapshima dialect),386,гІялибуретта,CyrillTrans,battle-ax,,,ʕaˤliburet̄a,Phonemic
+20-230-505-1,darg1241,Dargwa (Gapshima dialect),387,иркухъ,CyrillTrans,sling,,,irkuq,Phonemic
+20-240-505-1,darg1241,Dargwa (Gapshima dialect),994,урчидерхьхьа,CyrillTrans,bow,,,určiderx̌̄a,Phonemic
+20-250-505-1,darg1241,Dargwa (Gapshima dialect),977,цІилдим,CyrillTrans,arrow,,,cʼildim,Phonemic
+20-260-505-1,darg1241,Dargwa (Gapshima dialect),945,гъуш,CyrillTrans,spear,,,ɣuš,Phonemic
+20-270-505-1,darg1241,Dargwa (Gapshima dialect),1535,тур,CyrillTrans,sword,,,"tur, šuškʼa",Phonemic
+20-270-505-3,darg1241,Dargwa (Gapshima dialect),1535,шушкIа,CyrillTrans,sword,,,"tur, šuškʼa",Phonemic
+20-280-505-1,darg1241,Dargwa (Gapshima dialect),1566,тупанг,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-280-505-3,darg1241,Dargwa (Gapshima dialect),1566,туп,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-310-505-1,darg1241,Dargwa (Gapshima dialect),1061,дергъла челгьанте,CyrillTrans,armor (defensive),,,derɣla čelhante,Phonemic
+20-330-505-1,darg1241,Dargwa (Gapshima dialect),1680,мегьла кьапІа,CyrillTrans,helmet,,,mehla q’apʼa,Phonemic
+20-340-505-1,darg1241,Dargwa (Gapshima dialect),1064,калхан,CyrillTrans,shield,,,kalxan,Phonemic
+20-350-505-1,darg1241,Dargwa (Gapshima dialect),1938,къала,CyrillTrans,fortress,,,Gala,Phonemic
+20-360-505-1,darg1241,Dargwa (Gapshima dialect),1671,кІалгІя,CyrillTrans,tower,,,kʼalʕaˤ,Phonemic
+20-410-505-1,darg1241,Dargwa (Gapshima dialect),783,четтибдеш,CyrillTrans,victory,,,čet̄ibdeš,Phonemic
+20-420-505-1,darg1241,Dargwa (Gapshima dialect),782,уттиъикни,CyrillTrans,defeat,,,ut̄iʔikni,Phonemic
+20-430-505-1,darg1241,Dargwa (Gapshima dialect),722,гьужумли чевашес,CyrillTrans,attack,,,"hužumli čewašes, čiuqes",Phonemic
+20-430-505-3,darg1241,Dargwa (Gapshima dialect),722,чиухъес,CyrillTrans,attack,,,"hužumli čewašes, čiuqes",Phonemic
+20-440-505-1,darg1241,Dargwa (Gapshima dialect),1330,мер батахъес,CyrillTrans,defend,,,mer bataqes,Phonemic
+20-450-505-1,darg1241,Dargwa (Gapshima dialect),421,гІелам вашес,CyrillTrans,retreat,,,ʕelam wašes,Phonemic
+20-460-505-1,darg1241,Dargwa (Gapshima dialect),1696,някълегІе вашес,CyrillTrans,surrender,,,"naˤGleʕe wašes, mutʼiʕačʼes",Phonemic
+20-460-505-3,darg1241,Dargwa (Gapshima dialect),1696,мутIигIачIес,CyrillTrans,surrender,,,"naˤGleʕe wašes, mutʼiʕačʼes",Phonemic
+20-470-505-1,darg1241,Dargwa (Gapshima dialect),1072,ясир,CyrillTrans,"captive, prisoner",,,"yasir, tusnaqči",Phonemic
+20-470-505-3,darg1241,Dargwa (Gapshima dialect),1072,туснахъчи,CyrillTrans,"captive, prisoner",,,"yasir, tusnaqči",Phonemic
+20-471-505-1,darg1241,Dargwa (Gapshima dialect),1940,къараул,CyrillTrans,"guard, sentinel",,,Garaul,Phonemic
+20-480-505-1,darg1241,Dargwa (Gapshima dialect),1022,хъямла мас,CyrillTrans,"booty, spoils",,,qaˤmla mas,Phonemic
+20-490-505-1,darg1241,Dargwa (Gapshima dialect),65,укайэс,CyrillTrans,ambush,,,ukayʔes,Phonemic
+20-510-505-1,darg1241,Dargwa (Gapshima dialect),1858,бялихъчи,CyrillTrans,fisherman,,,baˤliqči,Phonemic
+20-520-505-1,darg1241,Dargwa (Gapshima dialect),1074,къармукъ,CyrillTrans,fishhook,,,GarmuG,Phonemic
+20-530-505-1,darg1241,Dargwa (Gapshima dialect),19,гьимир,CyrillTrans,fishing line,,,himir,Phonemic
+20-540-505-1,darg1241,Dargwa (Gapshima dialect),388,тур,CyrillTrans,fishnet,,,tur,Phonemic
+20-610-505-1,darg1241,Dargwa (Gapshima dialect),1435,гІяярвашес,CyrillTrans,hunt,,,ʕaˤyarwašes,Phonemic
+20-620-505-1,darg1241,Dargwa (Gapshima dialect),1172,иргьес,CyrillTrans,shoot,,,irhes,Phonemic
+20-630-505-1,darg1241,Dargwa (Gapshima dialect),161,чехІяччахъес,CyrillTrans,miss (target),,,čeħaˤč̄aqes,Phonemic
+20-640-505-1,darg1241,Dargwa (Gapshima dialect),1075,тІимкь,CyrillTrans,trap (noun),,,"tʼimq’, dihni",Phonemic
+20-640-505-3,darg1241,Dargwa (Gapshima dialect),1075,дигьни,CyrillTrans,trap (noun),,,"tʼimq’, dihni",Phonemic
+20-650-505-1,darg1241,Dargwa (Gapshima dialect),1170,буцес,CyrillTrans,trap (vb),,,buces,Phonemic
+21-110-505-1,darg1241,Dargwa (Gapshima dialect),1062,закон,CyrillTrans,law,,,"zakon, ʕaˤdlu-cʼeɣa, nizam-q’aˤyda",Phonemic
+21-110-505-3,darg1241,Dargwa (Gapshima dialect),1062,гІядлу-цIегъа,CyrillTrans,law,,,"zakon, ʕaˤdlu-cʼeɣa, nizam-q’aˤyda",Phonemic
+21-110-505-5,darg1241,Dargwa (Gapshima dialect),1062,низам-кьяйда,CyrillTrans,law,,,"zakon, ʕaˤdlu-cʼeɣa, nizam-q’aˤyda",Phonemic
+21-150-505-1,darg1241,Dargwa (Gapshima dialect),1068,суд,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-150-505-3,darg1241,Dargwa (Gapshima dialect),1068,диван,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-160-505-1,darg1241,Dargwa (Gapshima dialect),1818,суд биркьес,CyrillTrans,judge (vb),,,"sud birq’es, diwan birq’es",Phonemic
+21-160-505-3,darg1241,Dargwa (Gapshima dialect),1818,диван биркьес,CyrillTrans,judge (vb),,,"sud birq’es, diwan birq’es",Phonemic
+21-170-505-1,darg1241,Dargwa (Gapshima dialect),1067,судла хІукму,CyrillTrans,judgment,,,sudla ħukmu,Phonemic
+21-180-505-1,darg1241,Dargwa (Gapshima dialect),861,диванчи,CyrillTrans,judge (noun),,,"diwanči, sudiya",Phonemic
+21-180-505-3,darg1241,Dargwa (Gapshima dialect),861,судия,CyrillTrans,judge (noun),,,"diwanči, sudiya",Phonemic
+21-210-505-1,darg1241,Dargwa (Gapshima dialect),2020,суд биркьахъан,CyrillTrans,plaintiff,,,"sud birq’aqan, ʕaˤrzači",Phonemic
+21-210-505-3,darg1241,Dargwa (Gapshima dialect),2020,гІярзачи,CyrillTrans,plaintiff,,,"sud birq’aqan, ʕaˤrzači",Phonemic
+21-220-505-1,darg1241,Dargwa (Gapshima dialect),1034,жавабкар,CyrillTrans,defendant,,,žawabkar,Phonemic
+21-230-505-1,darg1241,Dargwa (Gapshima dialect),1144,бикьри,CyrillTrans,witness,,,biq’ri,Phonemic
+21-240-505-1,darg1241,Dargwa (Gapshima dialect),1939,хъибиркьес,CyrillTrans,swear,,,qibirq’es,Phonemic
+21-250-505-1,darg1241,Dargwa (Gapshima dialect),1712,хъи,CyrillTrans,oath,,,qi,Phonemic
+21-310-505-1,darg1241,Dargwa (Gapshima dialect),1814,гІяйиблавиркьес,CyrillTrans,accuse,,,ʕaˤyiblawirq’es,Phonemic
+21-320-505-1,darg1241,Dargwa (Gapshima dialect),484,танбихІлавиркьес,CyrillTrans,condemn,,,tanbiħlawirq’es,Phonemic
+21-330-505-1,darg1241,Dargwa (Gapshima dialect),983,гІяйиблавиркьес,CyrillTrans,convict (vb),,,ʕaˤyiblawirq’es,Phonemic
+21-340-505-1,darg1241,Dargwa (Gapshima dialect),988,марваркьес,CyrillTrans,acquit,,,marwarq’es,Phonemic
+21-350-505-1,darg1241,Dargwa (Gapshima dialect),1682,гІяйибкар,CyrillTrans,guilty,,,"ʕaˤyibkar, ʕaˤyibla weʕ",Phonemic
+21-350-505-3,darg1241,Dargwa (Gapshima dialect),1682,гIяйибла вегI,CyrillTrans,guilty,,,"ʕaˤyibkar, ʕaˤyibla weʕ",Phonemic
+21-360-505-1,darg1241,Dargwa (Gapshima dialect),90,гІяйибаккарсе,CyrillTrans,innocent,,,ʕaˤyibak̄arse,Phonemic
+21-370-505-1,darg1241,Dargwa (Gapshima dialect),390,танбихІ,CyrillTrans,"penalty, punishment",,,tanbiħ,Phonemic
+21-380-505-1,darg1241,Dargwa (Gapshima dialect),218,арцла гІякІа,CyrillTrans,fine,,,arcla ʕaˤkʼa,Phonemic
+21-390-505-1,darg1241,Dargwa (Gapshima dialect),1281,туснакь,CyrillTrans,"prison, jail",,,tusnaq’,Phonemic
+21-420-505-1,darg1241,Dargwa (Gapshima dialect),845,кавшни,CyrillTrans,murder,,,kawšni,Phonemic
+21-430-505-1,darg1241,Dargwa (Gapshima dialect),902,зинадеш,CyrillTrans,adultery,,,zinadeš,Phonemic
+21-440-505-1,darg1241,Dargwa (Gapshima dialect),953,гужбаркьни,CyrillTrans,rape,,,gužbarq’ni,Phonemic
+21-460-505-1,darg1241,Dargwa (Gapshima dialect),1889,цІадихьни,CyrillTrans,arson,,,cʼadix̌ni,Phonemic
+21-470-505-1,darg1241,Dargwa (Gapshima dialect),1792,ялгъан бикьридеш,CyrillTrans,perjury,,,yalɣan biq’rideš,Phonemic
+21-510-505-1,darg1241,Dargwa (Gapshima dialect),713,вилгІес,CyrillTrans,steal,,,wilʕes,Phonemic
+21-520-505-1,darg1241,Dargwa (Gapshima dialect),1160,хъулка,CyrillTrans,thief,,,qulka,Phonemic
+22-110-505-1,darg1241,Dargwa (Gapshima dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-505-1,darg1241,Dargwa (Gapshima dialect),1944,Аллагь,CyrillTrans,God,,,Аllah,Phonemic
+22-130-505-1,darg1241,Dargwa (Gapshima dialect),911,киласа,CyrillTrans,"temple, church",,,"kilasa, mižit",Phonemic
+22-130-505-3,darg1241,Dargwa (Gapshima dialect),911,мижит,CyrillTrans,"temple, church",,,"kilasa, mižit",Phonemic
+22-140-505-1,darg1241,Dargwa (Gapshima dialect),853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-505-1,darg1241,Dargwa (Gapshima dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,q’urban,Phonemic
+22-160-505-1,darg1241,Dargwa (Gapshima dialect),257,икрамучІес,CyrillTrans,worship,,,ikramučʼes,Phonemic
+22-170-505-1,darg1241,Dargwa (Gapshima dialect),24,улжес,CyrillTrans,pray,,,ulžes,Phonemic
+22-180-505-1,darg1241,Dargwa (Gapshima dialect),852,кашиш,CyrillTrans,priest,,,"kašiš, malla",Phonemic
+22-180-505-3,darg1241,Dargwa (Gapshima dialect),852,малла,CyrillTrans,priest,,,"kašiš, malla",Phonemic
+22-190-505-1,darg1241,Dargwa (Gapshima dialect),1702,дурхъасе,CyrillTrans,"holy, sacred",,,durqase,Phonemic
+22-220-505-1,darg1241,Dargwa (Gapshima dialect),304,дин тІинтІбиркьес,CyrillTrans,preach,,,"din tʼintʼbirq’es, waʕza-nasiħat birq’es",Phonemic
+22-220-505-3,darg1241,Dargwa (Gapshima dialect),304,вагІза-насихІат биркьес,CyrillTrans,preach,,,"din tʼintʼbirq’es, waʕza-nasiħat birq’es",Phonemic
+22-230-505-1,darg1241,Dargwa (Gapshima dialect),391,гІяхбулжес,CyrillTrans,bless,,,ʕaˤxbulžes,Phonemic
+22-240-505-1,darg1241,Dargwa (Gapshima dialect),8,нягІнаиркьес,CyrillTrans,curse,,,naˤʕnairq’es,Phonemic
+22-260-505-1,darg1241,Dargwa (Gapshima dialect),303,дубурцес,CyrillTrans,fast (vb),,,duburces,Phonemic
+22-310-505-1,darg1241,Dargwa (Gapshima dialect),1565,алжана,CyrillTrans,heaven,,,alžana,Phonemic
+22-320-505-1,darg1241,Dargwa (Gapshima dialect),878,жагьаннаб,CyrillTrans,hell,,,žahannab,Phonemic
+22-350-505-1,darg1241,Dargwa (Gapshima dialect),1973,шяйтІан,CyrillTrans,demon (evil spirit),,,"šaˤytʼan, ilbis",Phonemic
+22-350-505-3,darg1241,Dargwa (Gapshima dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"šaˤytʼan, ilbis",Phonemic
+22-370-505-1,darg1241,Dargwa (Gapshima dialect),1945,къанч,CyrillTrans,idol,,,Ganč,Phonemic
+22-420-505-1,darg1241,Dargwa (Gapshima dialect),392,сихІру,CyrillTrans,"magic, witchcraft, sorcery",,,"siħru, waysiħru",Phonemic
+22-420-505-3,darg1241,Dargwa (Gapshima dialect),392,вайсихIру,CyrillTrans,"magic, witchcraft, sorcery",,,"siħru, waysiħru",Phonemic
+22-430-505-1,darg1241,Dargwa (Gapshima dialect),2137,къуртма,CyrillTrans,"sorcerer, witch",,,"Gurtma, siħrula x̌̄unul",Phonemic
+22-430-505-3,darg1241,Dargwa (Gapshima dialect),2137,сихІрула хьхьунул,CyrillTrans,"sorcerer, witch",,,"Gurtma, siħrula x̌̄unul",Phonemic
+22-440-505-1,darg1241,Dargwa (Gapshima dialect),2138,гьурулгІян,CyrillTrans,"fairy, elf",,,hurulʕaˤn,Phonemic
+22-450-505-1,darg1241,Dargwa (Gapshima dialect),1175,лишан,CyrillTrans,"ghost, phantom",,,lišan,Phonemic
+22-470-505-1,darg1241,Dargwa (Gapshima dialect),107,гІяламат,CyrillTrans,"omen, portent",,,ʕaˤlamat,Phonemic

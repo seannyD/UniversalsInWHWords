@@ -254,3 +254,25 @@ tb3 = makeTable(RISx2, "Random independent samples tests, comparing wh words by 
 outFile4 = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables4.tex"
 cat(tb3, file=outFile4)
 
+########
+
+baseF = "../Results/SimplifiedPhonology/PermutationResults/"
+
+dup = rbind(
+  #addLine("Wh words, all segments"),
+  c("Wh vs Random Concepts","","","",""),
+  getStats3(c("RandomConcepts/Comparison_WH_Random_allSegments_noDuplicates.csv"),baseF , "...All segments"),
+  getStats3(c("RandomConcepts/Comparison_WH_Random_firstSegments_noDuplicates.csv"),baseF,"...First segmentsAll segments"),
+  c("Random Independet Samples","","","",""),
+  c("..By family","","","",""),
+  getStats3(c("RandomIndependentSamples/InterrogativeOrder_RandomIndependentSamples_allSegments_noDuplicates.csv"),baseF,"...All segments", lessThan = T),
+  getStats3(c("RandomIndependentSamples/InterrogativeOrder_RandomIndependentSamples_firstSegments_noDuplicates.csv"),baseF,"...First segments", lessThan = T),
+  c("..By area","","","",""),
+  getStats3(c("RandomIndependentSamples/InterrogativeOrder_RandomIndependentSamples_allSegments_Areas_noDuplicates.csv"),baseF,"...All segments", lessThan = T),
+  getStats3(c("RandomIndependentSamples/InterrogativeOrder_RandomIndependentSamples_firstSegments_Areas_noDuplicates.csv"),baseF,"...First segments", lessThan = T)
+  )
+
+t100 = makeTable(dup, "Results with duplicated forms removed within languages",baseF)
+
+outFile = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables_noDuplicates.tex"
+cat( t100, file=outFile)

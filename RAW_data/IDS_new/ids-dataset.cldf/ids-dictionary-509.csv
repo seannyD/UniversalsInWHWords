@@ -1,0 +1,1437 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-509-1,darg1241,Dargwa (Mekegi dialect),1852,зумале,CyrillTrans,often,,,zumale,Phonemic
+14-310-509-1,darg1241,Dargwa (Mekegi dialect),1676,мурталра,CyrillTrans,always,,,murtalra,Phonemic
+14-290-509-1,darg1241,Dargwa (Mekegi dialect),790,хІядурил,CyrillTrans,ready,,,ħaˤduril,Phonemic
+14-280-509-1,darg1241,Dargwa (Mekegi dialect),1928,кІичІилзес,CyrillTrans,"cease, stop",,,k’ič’ilzes,Phonemic
+14-270-509-1,darg1241,Dargwa (Mekegi dialect),1766,таманбаркьес,CyrillTrans,finish,,,tamanbarq’es,Phonemic
+14-260-509-1,darg1241,Dargwa (Mekegi dialect),743,таманбиркьес,CyrillTrans,end (temporal),,,tamanbirq’es,Phonemic
+14-252-509-1,darg1241,Dargwa (Mekegi dialect),1186,бухъянбилтІес,CyrillTrans,"last, endure",,,buqaˤnbilt’es,Phonemic
+14-250-509-1,darg1241,Dargwa (Mekegi dialect),1806,бехІбиргьес,CyrillTrans,"begin, beginning",,,beħbirhes,Phonemic
+14-240-509-1,darg1241,Dargwa (Mekegi dialect),425,кьанурахъес,CyrillTrans,"retard, delay",,,q’anuraqes,Phonemic
+14-230-509-1,darg1241,Dargwa (Mekegi dialect),754,хъярхъукІес,CyrillTrans,"hasten, hurry",,,qaˤrquk’es,Phonemic
+14-220-509-1,darg1241,Dargwa (Mekegi dialect),701,багьлай,CyrillTrans,slow,,,bahlay,Phonemic
+14-210-509-1,darg1241,Dargwa (Mekegi dialect),1631,хъярхъил,CyrillTrans,"swift, fast, quick",,,qaˤrqil,Phonemic
+14-190-509-1,darg1241,Dargwa (Mekegi dialect),1963,хъярхъил,CyrillTrans,immediately,,,"qaˤrqil, taˤħaˤr",Phonemic
+14-190-509-3,darg1241,Dargwa (Mekegi dialect),1963,тяхІяр,CyrillTrans,immediately,,,"qaˤrqil, taˤħaˤr",Phonemic
+14-180-509-1,darg1241,Dargwa (Mekegi dialect),1376,гьанне,CyrillTrans,now,,,hanne,Phonemic
+14-170-509-1,darg1241,Dargwa (Mekegi dialect),477,кьайа,CyrillTrans,late,,,q’aya,Phonemic
+14-160-509-1,darg1241,Dargwa (Mekegi dialect),672,жавле,CyrillTrans,early,,,žawle,Phonemic
+14-150-509-1,darg1241,Dargwa (Mekegi dialect),1229,бухъна,CyrillTrans,old,,,buqna,Phonemic
+14-140-509-1,darg1241,Dargwa (Mekegi dialect),1207,жагьил,CyrillTrans,young,,,žahil,Phonemic
+14-120-509-1,darg1241,Dargwa (Mekegi dialect),1789,гІясруми,CyrillTrans,age,,,"ʕaˤsrumi, daršdus",Phonemic
+14-120-509-3,darg1241,Dargwa (Mekegi dialect),1789,даршдус,CyrillTrans,age,,,"ʕaˤsrumi, daršdus",Phonemic
+14-130-509-1,darg1241,Dargwa (Mekegi dialect),1231,сагай,CyrillTrans,new,,,sagay,Phonemic
+14-110-509-1,darg1241,Dargwa (Mekegi dialect),892,замана,CyrillTrans,time,,,zamana,Phonemic
+13-440-509-1,darg1241,Dargwa (Mekegi dialect),417,хІяйна,CyrillTrans,three times,,,ħaˤyna,Phonemic
+13-420-509-1,darg1241,Dargwa (Mekegi dialect),1859,хІябъибил,CyrillTrans,third,,,ħaˤbʔibil,Phonemic
+13-380-509-1,darg1241,Dargwa (Mekegi dialect),1546,кІуйна,CyrillTrans,two times,,,k’uyna,Phonemic
+13-370-509-1,darg1241,Dargwa (Mekegi dialect),1888,жут,CyrillTrans,pair,,,žut,Phonemic
+13-360-509-1,darg1241,Dargwa (Mekegi dialect),1384,кІиъибил,CyrillTrans,second,,,k’iʔibil,Phonemic
+13-350-509-1,darg1241,Dargwa (Mekegi dialect),1529,бегІла гІелабил,CyrillTrans,last,,,beʕla ʕelabil,Phonemic
+13-340-509-1,darg1241,Dargwa (Mekegi dialect),728,цаибил,CyrillTrans,first,,,caibil,Phonemic
+13-330-509-1,darg1241,Dargwa (Mekegi dialect),1580,ца,CyrillTrans,"alone, only",,,ca,Phonemic
+13-240-509-1,darg1241,Dargwa (Mekegi dialect),816,байхъала,CyrillTrans,half,,,bayqala,Phonemic
+13-230-509-1,darg1241,Dargwa (Mekegi dialect),779,бутІа,CyrillTrans,"part, piece",,,but’a,Phonemic
+13-220-509-1,darg1241,Dargwa (Mekegi dialect),1624,бацІил,CyrillTrans,empty,,,bac’il,Phonemic
+13-210-509-1,darg1241,Dargwa (Mekegi dialect),1429,бицІибил,CyrillTrans,full,,,bic’ibil,Phonemic
+13-190-509-1,darg1241,Dargwa (Mekegi dialect),2023,гІяламат,CyrillTrans,"multitude, crowd",,,ʕaˤlamat,Phonemic
+13-181-509-1,darg1241,Dargwa (Mekegi dialect),1241,ца-хІябал,CyrillTrans,some,,,ca-ħaˤbal,Phonemic
+13-170-509-1,darg1241,Dargwa (Mekegi dialect),1242,камле,CyrillTrans,"little (quantity), few",,,kamle,Phonemic
+13-180-509-1,darg1241,Dargwa (Mekegi dialect),1881,даъари,CyrillTrans,enough,,,daʔari,Phonemic
+13-160-509-1,darg1241,Dargwa (Mekegi dialect),1992,имцІале,CyrillTrans,more,,,imc’ale,Phonemic
+13-150-509-1,darg1241,Dargwa (Mekegi dialect),1198,дахъал,CyrillTrans,"much, many",,,daqal,Phonemic
+13-140-509-1,darg1241,Dargwa (Mekegi dialect),98,лерил,CyrillTrans,"every, all",,,leril,Phonemic
+13-107-509-1,darg1241,Dargwa (Mekegi dialect),1420,умцес,CyrillTrans,count,,,umces,Phonemic
+13-106-509-1,darg1241,Dargwa (Mekegi dialect),1843,азир,CyrillTrans,thousand,,,azir,Phonemic
+13-105-509-1,darg1241,Dargwa (Mekegi dialect),1634,даршал,CyrillTrans,hundred,,,daršal,Phonemic
+13-104-509-1,darg1241,Dargwa (Mekegi dialect),1710,гъал,CyrillTrans,twenty,,,ɣal,Phonemic
+13-103-509-1,darg1241,Dargwa (Mekegi dialect),1709,йецІну шура,CyrillTrans,fifteen,,,yec’nu šura,Phonemic
+13-102-509-1,darg1241,Dargwa (Mekegi dialect),1707,йецІну кІвира,CyrillTrans,twelve,,,yec’nu k’ʷira,Phonemic
+13-101-509-1,darg1241,Dargwa (Mekegi dialect),1706,йецІну цара,CyrillTrans,eleven,,,yec’nu cara,Phonemic
+13-100-509-1,darg1241,Dargwa (Mekegi dialect),1515,йецІал,CyrillTrans,ten,,,yec’al,Phonemic
+13-90-509-1,darg1241,Dargwa (Mekegi dialect),1483,урчІемал,CyrillTrans,nine,,,urč’emal,Phonemic
+13-80-509-1,darg1241,Dargwa (Mekegi dialect),1705,гахІел,CyrillTrans,eight,,,gaħel,Phonemic
+13-70-509-1,darg1241,Dargwa (Mekegi dialect),1704,йерхІел,CyrillTrans,seven,,,yerħel,Phonemic
+13-60-509-1,darg1241,Dargwa (Mekegi dialect),1703,урегал,CyrillTrans,six,,,uregal,Phonemic
+13-50-509-1,darg1241,Dargwa (Mekegi dialect),493,швел,CyrillTrans,five,,,šʷel,Phonemic
+13-40-509-1,darg1241,Dargwa (Mekegi dialect),1500,авъал,CyrillTrans,four,,,awʔal,Phonemic
+13-20-509-1,darg1241,Dargwa (Mekegi dialect),1498,кІвел,CyrillTrans,two,,,k’ʷel,Phonemic
+13-30-509-1,darg1241,Dargwa (Mekegi dialect),492,хІябал,CyrillTrans,three,,,ħaˤbal,Phonemic
+13-10-509-1,darg1241,Dargwa (Mekegi dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-509-1,darg1241,Dargwa (Mekegi dialect),1294,нул,CyrillTrans,"zero, nothing",,,nul,Phonemic
+12-930-509-1,darg1241,Dargwa (Mekegi dialect),1264,барсбиркьес,CyrillTrans,change,,,barsbirq’es,Phonemic
+12-920-509-1,darg1241,Dargwa (Mekegi dialect),1558,мешуй,CyrillTrans,"like, similar",,,mešuy,Phonemic
+12-840-509-1,darg1241,Dargwa (Mekegi dialect),1048,тугъ,CyrillTrans,line,,,tuɣ,Phonemic
+12-850-509-1,darg1241,Dargwa (Mekegi dialect),1667,тІярхъи,CyrillTrans,hole,,,t’aˤrqi,Phonemic
+12-830-509-1,darg1241,Dargwa (Mekegi dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-509-1,darg1241,Dargwa (Mekegi dialect),1395,журуга,CyrillTrans,round,,,žuruga,Phonemic
+12-820-509-1,darg1241,Dargwa (Mekegi dialect),1467,мява,CyrillTrans,circle,,,maˤwa,Phonemic
+12-780-509-1,darg1241,Dargwa (Mekegi dialect),850,кьангІи,CyrillTrans,square,,,q’anʕi,Phonemic
+12-770-509-1,darg1241,Dargwa (Mekegi dialect),1367,къанч,CyrillTrans,cross,,,Ganč,Phonemic
+12-760-509-1,darg1241,Dargwa (Mekegi dialect),192,къямзи,CyrillTrans,corner,,,Gaˤmzi,Phonemic
+12-750-509-1,darg1241,Dargwa (Mekegi dialect),1071,къармакъ,CyrillTrans,hook,,,GarmaG,Phonemic
+12-740-509-1,darg1241,Dargwa (Mekegi dialect),297,балкІа,CyrillTrans,crooked,,,balk’a,Phonemic
+12-730-509-1,darg1241,Dargwa (Mekegi dialect),1404,баргьа,CyrillTrans,straight,,,barha,Phonemic
+12-710-509-1,darg1241,Dargwa (Mekegi dialect),1633,чІяпІа,CyrillTrans,flat,,,čˤaˤp’a,Phonemic
+12-680-509-1,darg1241,Dargwa (Mekegi dialect),193,жимчІяй,CyrillTrans,shallow,,,žimč’aˤy,Phonemic
+12-670-509-1,darg1241,Dargwa (Mekegi dialect),1593,мургьил,CyrillTrans,deep,,,murhil,Phonemic
+12-650-509-1,darg1241,Dargwa (Mekegi dialect),2249,букІулил,CyrillTrans,thin (in dimension),,,buk’ulil,Phonemic
+12-630-509-1,darg1241,Dargwa (Mekegi dialect),1244,бягІуй,CyrillTrans,thick (in dimension),,,baˤʕuy,Phonemic
+12-620-509-1,darg1241,Dargwa (Mekegi dialect),1267,гъвярцІа,CyrillTrans,narrow,,,ɣʷaˤrc’a,Phonemic
+12-610-509-1,darg1241,Dargwa (Mekegi dialect),1243,бягІуй,CyrillTrans,"wide, broad",,,baˤʕuy,Phonemic
+12-590-509-1,darg1241,Dargwa (Mekegi dialect),1645,къантІа,CyrillTrans,short,,,Gant’a,Phonemic
+12-580-509-1,darg1241,Dargwa (Mekegi dialect),711,ахъил,CyrillTrans,tall,,,aqil,Phonemic
+12-570-509-1,darg1241,Dargwa (Mekegi dialect),1203,гІеркъай,CyrillTrans,long,,,ʕerGay,Phonemic
+12-560-509-1,darg1241,Dargwa (Mekegi dialect),1246,биштІал,CyrillTrans,"small, little",,,bišt’al,Phonemic
+12-550-509-1,darg1241,Dargwa (Mekegi dialect),1202,хвалал,CyrillTrans,"large, big",,,xʷalal,Phonemic
+12-540-509-1,darg1241,Dargwa (Mekegi dialect),1506,умцес,CyrillTrans,measure,,,umces,Phonemic
+12-530-509-1,darg1241,Dargwa (Mekegi dialect),479,хвалабукІес,CyrillTrans,grow,,,xʷalabuk’es,Phonemic
+12-480-509-1,darg1241,Dargwa (Mekegi dialect),1595,къибла,CyrillTrans,south,,,Gibla,Phonemic
+12-470-509-1,darg1241,Dargwa (Mekegi dialect),1598,хьарзаб,CyrillTrans,north,,,x̌arzab,Phonemic
+12-460-509-1,darg1241,Dargwa (Mekegi dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-509-1,darg1241,Dargwa (Mekegi dialect),1877,машрикь,CyrillTrans,east,,,mašriq’,Phonemic
+12-430-509-1,darg1241,Dargwa (Mekegi dialect),1942,мякьлеб,CyrillTrans,near (adv),,,maˤq’leb,Phonemic
+12-440-509-1,darg1241,Dargwa (Mekegi dialect),1406,гьарахълеб,CyrillTrans,far (adv),,,haraqleb,Phonemic
+12-420-509-1,darg1241,Dargwa (Mekegi dialect),244,сулагъай (шели),CyrillTrans,left (side),,,sulaɣay (šeli),Phonemic
+12-410-509-1,darg1241,Dargwa (Mekegi dialect),1019,балуй (шели),CyrillTrans,right (side),,,baluy (šeli),Phonemic
+12-370-509-1,darg1241,Dargwa (Mekegi dialect),1093,ургала,CyrillTrans,"middle, center",,,urgala,Phonemic
+12-360-509-1,darg1241,Dargwa (Mekegi dialect),682,шели,CyrillTrans,side,,,šeli,Phonemic
+12-353-509-1,darg1241,Dargwa (Mekegi dialect),863,дуб,CyrillTrans,edge,,,dub,Phonemic
+12-352-509-1,darg1241,Dargwa (Mekegi dialect),372,бугай хъарла бегІ,CyrillTrans,pointed,,,bugay qarla beʕ,Phonemic
+12-350-509-1,darg1241,Dargwa (Mekegi dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-509-1,darg1241,Dargwa (Mekegi dialect),690,лутІи,CyrillTrans,bottom,,,lut’i,Phonemic
+12-320-509-1,darg1241,Dargwa (Mekegi dialect),721,гухІле,CyrillTrans,low,,,guħle,Phonemic
+12-330-509-1,darg1241,Dargwa (Mekegi dialect),1753,хъар,CyrillTrans,top,,,qar,Phonemic
+12-310-509-1,darg1241,Dargwa (Mekegi dialect),1265,ахъле,CyrillTrans,high,,,aqle,Phonemic
+12-270-509-1,darg1241,Dargwa (Mekegi dialect),602,дигІянбуришес,CyrillTrans,"hide, conceal",,,diʕaˤnburišes,Phonemic
+12-250-509-1,darg1241,Dargwa (Mekegi dialect),1046,гІейкІес,CyrillTrans,"shut, close",,,ʕeyk’es,Phonemic
+12-260-509-1,darg1241,Dargwa (Mekegi dialect),761,кІапІбиркьес,CyrillTrans,cover,,,"k’ap’birq’es, čeburšes",Phonemic
+12-260-509-3,darg1241,Dargwa (Mekegi dialect),761,чебуршес,CyrillTrans,cover,,,"k’ap’birq’es, čeburšes",Phonemic
+12-240-509-1,darg1241,Dargwa (Mekegi dialect),1156,ибгьес,CyrillTrans,open,,,ibhes,Phonemic
+12-232-509-1,darg1241,Dargwa (Mekegi dialect),1119,буртІес,CyrillTrans,divide,,,burt’es,Phonemic
+12-230-509-1,darg1241,Dargwa (Mekegi dialect),1359,декІарбиркьес,CyrillTrans,separate,,,dek’arbirq’es,Phonemic
+12-220-509-1,darg1241,Dargwa (Mekegi dialect),1743,бархбиркьес,CyrillTrans,"join, unite",,,barxbirq’es,Phonemic
+12-213-509-1,darg1241,Dargwa (Mekegi dialect),1576,хъячІбиркьес,CyrillTrans,pile up,,,qaˤč’birq’es,Phonemic
+12-212-509-1,darg1241,Dargwa (Mekegi dialect),371,ахъбурцес,CyrillTrans,pick up,,,aqburces,Phonemic
+12-210-509-1,darg1241,Dargwa (Mekegi dialect),7,биргъес,CyrillTrans,"collect, gather",,,birɣes,Phonemic
+12-170-509-1,darg1241,Dargwa (Mekegi dialect),838,гІеладухълунте,CyrillTrans,"remains, left overs",,,ʕeladuqlunte,Phonemic
+12-160-509-1,darg1241,Dargwa (Mekegi dialect),987,калэс,CyrillTrans,"remain, stay",,,kalʔes,Phonemic
+12-150-509-1,darg1241,Dargwa (Mekegi dialect),1442,кІачІизес,CyrillTrans,stand,,,k’ač’izes,Phonemic
+12-140-509-1,darg1241,Dargwa (Mekegi dialect),215,калгьес,CyrillTrans,lie down,,,kalhes,Phonemic
+12-130-509-1,darg1241,Dargwa (Mekegi dialect),1416,карэс,CyrillTrans,sit,,,karʔes,Phonemic
+12-120-509-1,darg1241,Dargwa (Mekegi dialect),998,кабигьес,CyrillTrans,put,,,kabihes,Phonemic
+12-110-509-1,darg1241,Dargwa (Mekegi dialect),723,мер,CyrillTrans,place,,,mer,Phonemic
+12-80-509-1,darg1241,Dargwa (Mekegi dialect),1591,ахъуб,CyrillTrans,"up, above",,,aqub,Phonemic
+12-70-509-1,darg1241,Dargwa (Mekegi dialect),1485,удиб,CyrillTrans,under,,,udib,Phonemic
+12-60-509-1,darg1241,Dargwa (Mekegi dialect),762,дураб,CyrillTrans,outside,,,durab,Phonemic
+12-50-509-1,darg1241,Dargwa (Mekegi dialect),1606,бухІнаб,CyrillTrans,"inside, in",,,buħnab,Phonemic
+12-41-509-1,darg1241,Dargwa (Mekegi dialect),1883,гьалаб,CyrillTrans,front,,,halab,Phonemic
+12-40-509-1,darg1241,Dargwa (Mekegi dialect),1882,гьалаб,CyrillTrans,before,,,halab,Phonemic
+12-30-509-1,darg1241,Dargwa (Mekegi dialect),2094,гухІле,CyrillTrans,"down, below",,,guħle,Phonemic
+12-20-509-1,darg1241,Dargwa (Mekegi dialect),1816,мякьлеб,CyrillTrans,beside,,,maˤq’leb,Phonemic
+12-11-509-1,darg1241,Dargwa (Mekegi dialect),1686,гІелаб,CyrillTrans,behind,,,ʕelab,Phonemic
+12-10-509-1,darg1241,Dargwa (Mekegi dialect),1685,лургІур,CyrillTrans,after,,,lurʕur,Phonemic
+11-920-509-1,darg1241,Dargwa (Mekegi dialect),1098,умцес,CyrillTrans,weigh,,,umces,Phonemic
+11-910-509-1,darg1241,Dargwa (Mekegi dialect),884,пайбиркьес,CyrillTrans,share (distribute),,,paybir’qes,Phonemic
+11-890-509-1,darg1241,Dargwa (Mekegi dialect),1887,дургІей,CyrillTrans,cheap,,,durʕey,Phonemic
+11-880-509-1,darg1241,Dargwa (Mekegi dialect),1426,дурхъай,CyrillTrans,"dear (costly, expensive)",,,durqay,Phonemic
+11-870-509-1,darg1241,Dargwa (Mekegi dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-509-1,darg1241,Dargwa (Mekegi dialect),752,тукен,CyrillTrans,"store, shop",,,tuken,Phonemic
+11-850-509-1,darg1241,Dargwa (Mekegi dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-509-1,darg1241,Dargwa (Mekegi dialect),1082,вачрикьяна,CyrillTrans,merchant,,,"wačriq’aˤna, bazrigan",Phonemic
+11-840-509-3,darg1241,Dargwa (Mekegi dialect),1082,базриган,CyrillTrans,merchant,,,"wačriq’aˤna, bazrigan",Phonemic
+11-830-509-1,darg1241,Dargwa (Mekegi dialect),2135,вачар,CyrillTrans,"trade, barter",,,"wačar, wačar-čakar",Phonemic
+11-830-509-3,darg1241,Dargwa (Mekegi dialect),2135,вачар-чакар,CyrillTrans,"trade, barter",,,"wačar, wačar-čakar",Phonemic
+11-820-509-1,darg1241,Dargwa (Mekegi dialect),1571,бирцес,CyrillTrans,sell,,,birces,Phonemic
+11-810-509-1,darg1241,Dargwa (Mekegi dialect),1869,исес,CyrillTrans,buy,,,ises,Phonemic
+11-790-509-1,darg1241,Dargwa (Mekegi dialect),733,арц диркьес,CyrillTrans,earn,,,arc dirq’es,Phonemic
+11-780-509-1,darg1241,Dargwa (Mekegi dialect),1122,алапа,CyrillTrans,wages,,,alapa,Phonemic
+11-770-509-1,darg1241,Dargwa (Mekegi dialect),856,гІевуди сасес,CyrillTrans,hire,,,ʕewudi sases,Phonemic
+11-690-509-1,darg1241,Dargwa (Mekegi dialect),873,налог,CyrillTrans,"tax, tribute",,,"nalog, ʕaˤk’a",Phonemic
+11-690-509-3,darg1241,Dargwa (Mekegi dialect),873,гІякІа,CyrillTrans,"tax, tribute",,,"nalog, ʕaˤk’a",Phonemic
+11-660-509-1,darg1241,Dargwa (Mekegi dialect),1081,лугІи,CyrillTrans,"account, reckoning",,,luʕi,Phonemic
+11-650-509-1,darg1241,Dargwa (Mekegi dialect),718,арц дедлугес,CyrillTrans,pay (vb),,,arc dedluges,Phonemic
+11-640-509-1,darg1241,Dargwa (Mekegi dialect),1914,кебла,CyrillTrans,debt,,,kebla,Phonemic
+11-630-509-1,darg1241,Dargwa (Mekegi dialect),369,кеблалавегІ виэс,CyrillTrans,owe,,,keblalaweʕ wies,Phonemic
+11-620-509-1,darg1241,Dargwa (Mekegi dialect),1823,кеблалис сайсес,CyrillTrans,borrow,,,keblalis sayses,Phonemic
+11-610-509-1,darg1241,Dargwa (Mekegi dialect),582,кебла биркьес,CyrillTrans,lend,,,kebla birq’es,Phonemic
+11-540-509-1,darg1241,Dargwa (Mekegi dialect),1774,гІяхІле кьиркьир,CyrillTrans,"avaricious, stingy",,,ʕaˤħle q’irq’ir,Phonemic
+11-530-509-1,darg1241,Dargwa (Mekegi dialect),1934,садакьачи,CyrillTrans,beggar,,,sadaq’ači,Phonemic
+11-520-509-1,darg1241,Dargwa (Mekegi dialect),1674,мискин,CyrillTrans,poor,,,miskin,Phonemic
+11-510-509-1,darg1241,Dargwa (Mekegi dialect),712,давлакев,CyrillTrans,rich,,,dawlakew,Phonemic
+11-440-509-1,darg1241,Dargwa (Mekegi dialect),1867,къарапул,CyrillTrans,coin,,,Garapul,Phonemic
+11-430-509-1,darg1241,Dargwa (Mekegi dialect),1559,арц,CyrillTrans,money,,,arc,Phonemic
+11-340-509-1,darg1241,Dargwa (Mekegi dialect),1095,батиэс,CyrillTrans,"release, let go",,,baties,Phonemic
+11-330-509-1,darg1241,Dargwa (Mekegi dialect),1660,бетихъяхъес,CyrillTrans,lose,,,betiqaˤqes,Phonemic
+11-320-509-1,darg1241,Dargwa (Mekegi dialect),719,биргъес,CyrillTrans,find,,,birɣes,Phonemic
+11-310-509-1,darg1241,Dargwa (Mekegi dialect),1468,умцІес,CyrillTrans,"seek, look for",,,umc’es,Phonemic
+11-280-509-1,darg1241,Dargwa (Mekegi dialect),44,зарал биркьес,CyrillTrans,"harm, injure, damage",,,zaral birq’es,Phonemic
+11-270-509-1,darg1241,Dargwa (Mekegi dialect),681,ихъес,CyrillTrans,destroy,,,iqes,Phonemic
+11-250-509-1,darg1241,Dargwa (Mekegi dialect),2008,йерцахъес,CyrillTrans,"save, rescue",,,yercaqes,Phonemic
+11-240-509-1,darg1241,Dargwa (Mekegi dialect),1997,ахІерабиркьес,CyrillTrans,"preserve, look after",,,aħerabirq’es,Phonemic
+11-220-509-1,darg1241,Dargwa (Mekegi dialect),85,чарбиркьес,CyrillTrans,give back,,,čarbirq’es,Phonemic
+11-210-509-1,darg1241,Dargwa (Mekegi dialect),1447,бедлугес,CyrillTrans,give,,,bedluges,Phonemic
+11-180-509-1,darg1241,Dargwa (Mekegi dialect),738,сикІал,CyrillTrans,thing,,,sik’al,Phonemic
+11-170-509-1,darg1241,Dargwa (Mekegi dialect),1477,бихІес,CyrillTrans,"keep, retain",,,biħes,Phonemic
+11-160-509-1,darg1241,Dargwa (Mekegi dialect),694,диркахъес,CyrillTrans,"get, obtain",,,dirkaqes,Phonemic
+11-150-509-1,darg1241,Dargwa (Mekegi dialect),1448,бурцес,CyrillTrans,hold,,,burces,Phonemic
+11-140-509-1,darg1241,Dargwa (Mekegi dialect),2021,буцес,CyrillTrans,"seize, grasp",,,buces,Phonemic
+11-130-509-1,darg1241,Dargwa (Mekegi dialect),1749,кайсес,CyrillTrans,take,,,kayses,Phonemic
+11-120-509-1,darg1241,Dargwa (Mekegi dialect),684,вегІэс,CyrillTrans,"own, possess",,,weʕʔes,Phonemic
+11-110-509-1,darg1241,Dargwa (Mekegi dialect),773,бахъес,CyrillTrans,have,,,baqes,Phonemic
+10-920-509-1,darg1241,Dargwa (Mekegi dialect),1922,дубличи урхьва гъамаркес,CyrillTrans,land (vb),,,dubliči urx̌ʷa ɣamarkes,Phonemic
+10-910-509-1,darg1241,Dargwa (Mekegi dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-509-1,darg1241,Dargwa (Mekegi dialect),1870,лабар,CyrillTrans,anchor,,,labar,Phonemic
+10-880-509-1,darg1241,Dargwa (Mekegi dialect),786,йалкан,CyrillTrans,sail (noun),,,yalkan,Phonemic
+10-870-509-1,darg1241,Dargwa (Mekegi dialect),184,йалканна тІал,CyrillTrans,mast,,,yalkanna t’al,Phonemic
+10-860-509-1,darg1241,Dargwa (Mekegi dialect),108,рул,CyrillTrans,rudder,,,"rul, Guruš",Phonemic
+10-860-509-3,darg1241,Dargwa (Mekegi dialect),108,къуруш,CyrillTrans,rudder,,,"rul, Guruš",Phonemic
+10-852-509-1,darg1241,Dargwa (Mekegi dialect),1849,шалхъначил гьакІикІес,CyrillTrans,row (vb),,,šalqnačil hak’ik’es,Phonemic
+10-851-509-1,darg1241,Dargwa (Mekegi dialect),234,шалхъа,CyrillTrans,paddle (noun),,,šalqa,Phonemic
+10-850-509-1,darg1241,Dargwa (Mekegi dialect),108,шалхъа,CyrillTrans,oar,,,šalqa,Phonemic
+10-840-509-1,darg1241,Dargwa (Mekegi dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-509-1,darg1241,Dargwa (Mekegi dialect),416,къайакъ,CyrillTrans,outrigger,,,GayaG,Phonemic
+10-831-509-1,darg1241,Dargwa (Mekegi dialect),1970,къайакъ,CyrillTrans,canoe,,,GayaG,Phonemic
+10-830-509-1,darg1241,Dargwa (Mekegi dialect),1844,къайакъ,CyrillTrans,boat,,,GayaG,Phonemic
+10-810-509-1,darg1241,Dargwa (Mekegi dialect),740,гами,CyrillTrans,ship,,,gami,Phonemic
+10-780-509-1,darg1241,Dargwa (Mekegi dialect),14,дукІ,CyrillTrans,yoke,,,duk’,Phonemic
+10-770-509-1,darg1241,Dargwa (Mekegi dialect),1769,арк,CyrillTrans,axle,,,ark,Phonemic
+10-760-509-1,darg1241,Dargwa (Mekegi dialect),710,хІула,CyrillTrans,wheel,,,ħula,Phonemic
+10-750-509-1,darg1241,Dargwa (Mekegi dialect),122,уркура,CyrillTrans,"carriage, wagon, cart",,,urkura,Phonemic
+10-740-509-1,darg1241,Dargwa (Mekegi dialect),1011,гуми,CyrillTrans,bridge,,,gumi,Phonemic
+10-720-509-1,darg1241,Dargwa (Mekegi dialect),2252,дякь,CyrillTrans,path,,,"daˤq’, q’aˤšla daˤq’",Phonemic
+10-720-509-3,darg1241,Dargwa (Mekegi dialect),2252,кьяшла дякь,CyrillTrans,path,,,"daˤq’, q’aˤšla daˤq’",Phonemic
+10-710-509-1,darg1241,Dargwa (Mekegi dialect),667,гьуни,CyrillTrans,road,,,huni,Phonemic
+10-670-509-1,darg1241,Dargwa (Mekegi dialect),1452,гакиркьес,CyrillTrans,"push, shove",,,gakirq’es,Phonemic
+10-660-509-1,darg1241,Dargwa (Mekegi dialect),367,йабуликев вашес,CyrillTrans,ride,,,yabulikew wašes,Phonemic
+10-650-509-1,darg1241,Dargwa (Mekegi dialect),741,машиналикев вашес,CyrillTrans,drive,,,mašinalikew wašes,Phonemic
+10-640-509-1,darg1241,Dargwa (Mekegi dialect),43,арикес,CyrillTrans,lead (vb),,,arikes,Phonemic
+10-630-509-1,darg1241,Dargwa (Mekegi dialect),1127,батирэс,CyrillTrans,send,,,batirʔes,Phonemic
+10-620-509-1,darg1241,Dargwa (Mekegi dialect),692,кабухес,CyrillTrans,bring,,,kabuxes,Phonemic
+10-615-509-1,darg1241,Dargwa (Mekegi dialect),415,шейц дукълеб бихес,CyrillTrans,carry-underarm,,,šeyc duGleb bixes,Phonemic
+10-614-509-1,darg1241,Dargwa (Mekegi dialect),414,бекІликеб бихес,CyrillTrans,carry-on-head,,,bek’likeb bixes,Phonemic
+10-613-509-1,darg1241,Dargwa (Mekegi dialect),413,хъуцІрумакеб бихес,CyrillTrans,carry-on-shoulder,,,quc’rumakeb bixes,Phonemic
+10-612-509-1,darg1241,Dargwa (Mekegi dialect),412,някъбазеб бихес,CyrillTrans,carry-in-hand,,,naˤq’bazeb bixes,Phonemic
+10-610-509-1,darg1241,Dargwa (Mekegi dialect),700,бихес,CyrillTrans,carry (bear),,,bixes,Phonemic
+10-570-509-1,darg1241,Dargwa (Mekegi dialect),749,ухІналхъес,CyrillTrans,enter,,,uħnalqes,Phonemic
+10-560-509-1,darg1241,Dargwa (Mekegi dialect),1778,кецурес,CyrillTrans,approach,,,kecures,Phonemic
+10-550-509-1,darg1241,Dargwa (Mekegi dialect),1387,ветиэс,CyrillTrans,"reach, arrive",,,"wetiʔes, sayʔes",Phonemic
+10-550-509-3,darg1241,Dargwa (Mekegi dialect),1387,сайэс,CyrillTrans,"reach, arrive",,,"wetiʔes, sayʔes",Phonemic
+10-530-509-1,darg1241,Dargwa (Mekegi dialect),1047,гІергъиулхъес,CyrillTrans,pursue,,,ʕerɣiulqes,Phonemic
+10-520-509-1,darg1241,Dargwa (Mekegi dialect),1085,гІергъи вашес,CyrillTrans,follow,,,ʕerɣi wašes,Phonemic
+10-510-509-1,darg1241,Dargwa (Mekegi dialect),956,гьавухъес,CyrillTrans,flee,,,hawuqes,Phonemic
+10-491-509-1,darg1241,Dargwa (Mekegi dialect),485,йетилхъес,CyrillTrans,disappear,,,yetilqes,Phonemic
+10-490-509-1,darg1241,Dargwa (Mekegi dialect),1752,арашес,CyrillTrans,"go away, depart",,,arašes,Phonemic
+10-481-509-1,darg1241,Dargwa (Mekegi dialect),581,чарулхъес,CyrillTrans,come back,,,čarulqes,Phonemic
+10-480-509-1,darg1241,Dargwa (Mekegi dialect),1446,вашес,CyrillTrans,come,,,wašes,Phonemic
+10-474-509-1,darg1241,Dargwa (Mekegi dialect),1107,дураулхъес,CyrillTrans,go out,,,duraulqes,Phonemic
+10-473-509-1,darg1241,Dargwa (Mekegi dialect),2014,удийхъес,CyrillTrans,go down,,,udiyqes,Phonemic
+10-472-509-1,darg1241,Dargwa (Mekegi dialect),1102,ахъуиркес,CyrillTrans,climb,,,aquirkes,Phonemic
+10-470-509-1,darg1241,Dargwa (Mekegi dialect),695,вашес,CyrillTrans,go,,,wašes,Phonemic
+10-471-509-1,darg1241,Dargwa (Mekegi dialect),705,ахъувяхІ вашес,CyrillTrans,go up,,,aquwaˤħ wašes,Phonemic
+10-460-509-1,darg1241,Dargwa (Mekegi dialect),1519,дуцІукІес,CyrillTrans,run,,,duc’uk’es,Phonemic
+10-451-509-1,darg1241,Dargwa (Mekegi dialect),366,валкІукІес,CyrillTrans,limp,,,walk’uk’es,Phonemic
+10-450-509-1,darg1241,Dargwa (Mekegi dialect),1443,хъунзукІес,CyrillTrans,walk,,,qunzuk’es,Phonemic
+10-440-509-1,darg1241,Dargwa (Mekegi dialect),1879,улхъес,CyrillTrans,dance,,,ulqes,Phonemic
+10-431-509-1,darg1241,Dargwa (Mekegi dialect),1135,занкІукІес,CyrillTrans,kick,,,zank’uk’es,Phonemic
+10-430-509-1,darg1241,Dargwa (Mekegi dialect),1829,пясукІес,CyrillTrans,"jump, leap",,,paˤsuk’es,Phonemic
+10-420-509-1,darg1241,Dargwa (Mekegi dialect),1324,тякукІес,CyrillTrans,"slide, slip",,,taˤkuk’es,Phonemic
+10-413-509-1,darg1241,Dargwa (Mekegi dialect),296,гугирэс,CyrillTrans,crouch,,,gugirʔes,Phonemic
+10-412-509-1,darg1241,Dargwa (Mekegi dialect),66,кьукьмуцикес,CyrillTrans,kneel,,,q’uq’mucikes,Phonemic
+10-410-509-1,darg1241,Dargwa (Mekegi dialect),96,гІятІукІес,CyrillTrans,"creep, crawl",,,ʕaˤt’uk’es,Phonemic
+10-380-509-1,darg1241,Dargwa (Mekegi dialect),175,уфукІес,CyrillTrans,blow,,,ufuk’es,Phonemic
+10-370-509-1,darg1241,Dargwa (Mekegi dialect),1441,арцес,CyrillTrans,fly (vb),,,arces,Phonemic
+10-360-509-1,darg1241,Dargwa (Mekegi dialect),787,ялкан къаякълиув вашес,CyrillTrans,sail (vb),,,yalkan GayaGliuw wašes,Phonemic
+10-352-509-1,darg1241,Dargwa (Mekegi dialect),365,чябхъарукІес,CyrillTrans,splash,,,čaˤbqaruk’es,Phonemic
+10-351-509-1,darg1241,Dargwa (Mekegi dialect),119,куртІукІес,CyrillTrans,dive,,,kurt’uk’es,Phonemic
+10-350-509-1,darg1241,Dargwa (Mekegi dialect),1439,къаякълиув вашес,CyrillTrans,swim,,,GayaGliuw wašes,Phonemic
+10-340-509-1,darg1241,Dargwa (Mekegi dialect),1574,къаякълиув вашес,CyrillTrans,float,,,GayaGliuw wašes,Phonemic
+10-330-509-1,darg1241,Dargwa (Mekegi dialect),1088,гІендиркІес,CyrillTrans,sink,,,ʕendirk’es,Phonemic
+10-320-509-1,darg1241,Dargwa (Mekegi dialect),2003,чухбукІес,CyrillTrans,flow,,,čuxbuk’es,Phonemic
+10-260-509-1,darg1241,Dargwa (Mekegi dialect),1909,ряхІярбиркьес,CyrillTrans,shake,,,raˤħaˤrbirq’es,Phonemic
+10-252-509-1,darg1241,Dargwa (Mekegi dialect),702,бурцес,CyrillTrans,catch (ball),,,burces,Phonemic
+10-250-509-1,darg1241,Dargwa (Mekegi dialect),1456,лайбикІес,CyrillTrans,throw,,,laybik’es,Phonemic
+10-240-509-1,darg1241,Dargwa (Mekegi dialect),2253,кІантІбукІахъес,CyrillTrans,drip,,,k’ant’buk’aqes,Phonemic
+10-230-509-1,darg1241,Dargwa (Mekegi dialect),1280,каркес,CyrillTrans,fall,,,karkes,Phonemic
+10-220-509-1,darg1241,Dargwa (Mekegi dialect),501,ахъбурцес,CyrillTrans,"raise, lift",,,aqburces,Phonemic
+10-210-509-1,darg1241,Dargwa (Mekegi dialect),568,ахъуиркес,CyrillTrans,rise,,,aquirkes,Phonemic
+10-170-509-1,darg1241,Dargwa (Mekegi dialect),430,кьяркбаркьес,CyrillTrans,twist,,,q’aˤrkbarq’es,Phonemic
+10-160-509-1,darg1241,Dargwa (Mekegi dialect),808,кІантІбукІес,CyrillTrans,drop (vb),,,k’ant’buk’es,Phonemic
+10-150-509-1,darg1241,Dargwa (Mekegi dialect),827,ласбиркьес,CyrillTrans,roll,,,lasbirq’es,Phonemic
+10-140-509-1,darg1241,Dargwa (Mekegi dialect),1113,бергес,CyrillTrans,"wind, wrap",,,berges,Phonemic
+10-130-509-1,darg1241,Dargwa (Mekegi dialect),1445,ласухъес,CyrillTrans,turn around,,,lasuqes,Phonemic
+10-120-509-1,darg1241,Dargwa (Mekegi dialect),1588,шейкеикес,CyrillTrans,turn over,,,šeykeikes,Phonemic
+10-110-509-1,darg1241,Dargwa (Mekegi dialect),765,шишукІес,CyrillTrans,move,,,šišuk’es,Phonemic
+9-890-509-1,darg1241,Dargwa (Mekegi dialect),2001,айкІес,CyrillTrans,paint (vb),,,ayk’es,Phonemic
+9-840-509-1,darg1241,Dargwa (Mekegi dialect),1979,уршури,CyrillTrans,chisel,,,uršuri,Phonemic
+9-880-509-1,darg1241,Dargwa (Mekegi dialect),647,ранг,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-880-509-3,darg1241,Dargwa (Mekegi dialect),647,краска,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-830-509-1,darg1241,Dargwa (Mekegi dialect),1002,кьаркьала сипат,CyrillTrans,statue,,,"q’arq’ala sipat, q’arq’ala surat",Phonemic
+9-830-509-3,darg1241,Dargwa (Mekegi dialect),1002,кьаркьала сурат,CyrillTrans,statue,,,"q’arq’ala sipat, q’arq’ala surat",Phonemic
+9-820-509-1,darg1241,Dargwa (Mekegi dialect),914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-509-1,darg1241,Dargwa (Mekegi dialect),228,кьицІбиркьес,CyrillTrans,carve,,,q’ic’birq’es,Phonemic
+9-791-509-1,darg1241,Dargwa (Mekegi dialect),360,гьакІукІес,CyrillTrans,fan (vb),,,hak’uk’es,Phonemic
+9-790-509-1,darg1241,Dargwa (Mekegi dialect),1971,вентилятор,CyrillTrans,fan (noun),,,"wentilyator, daˤrdaˤrag",Phonemic
+9-790-509-3,darg1241,Dargwa (Mekegi dialect),1971,дярдяраг,CyrillTrans,fan (noun),,,"wentilyator, daˤrdaˤrag",Phonemic
+9-780-509-1,darg1241,Dargwa (Mekegi dialect),293,сумка,CyrillTrans,netbag,,,"sumka, tawra",Phonemic
+9-780-509-3,darg1241,Dargwa (Mekegi dialect),293,тавра,CyrillTrans,netbag,,,"sumka, tawra",Phonemic
+9-771-509-1,darg1241,Dargwa (Mekegi dialect),292,кьвалтин,CyrillTrans,rug,,,q’ʷaltin,Phonemic
+9-770-509-1,darg1241,Dargwa (Mekegi dialect),195,чІигІяла убуш,CyrillTrans,mat,,,č’iʕaˤla ubuš,Phonemic
+9-760-509-1,darg1241,Dargwa (Mekegi dialect),1539,чІеп,CyrillTrans,basket,,,č’ep,Phonemic
+9-750-509-1,darg1241,Dargwa (Mekegi dialect),1729,бершес,CyrillTrans,"weave, plait",,,beršes,Phonemic
+9-740-509-1,darg1241,Dargwa (Mekegi dialect),604,шиша,CyrillTrans,glass,,,šiša,Phonemic
+9-730-509-1,darg1241,Dargwa (Mekegi dialect),1399,гІянжи,CyrillTrans,clay,,,ʕaˤnži,Phonemic
+9-720-509-1,darg1241,Dargwa (Mekegi dialect),289,къалип кайсес,CyrillTrans,mold (clay etc),,,Galip kayses,Phonemic
+9-710-509-1,darg1241,Dargwa (Mekegi dialect),359,бурхълан,CyrillTrans,potter,,,burqlan,Phonemic
+9-690-509-1,darg1241,Dargwa (Mekegi dialect),358,цІуба мегь,CyrillTrans,"tin, tinplate",,,c’uba meh,Phonemic
+9-680-509-1,darg1241,Dargwa (Mekegi dialect),627,гъургъа шин,CyrillTrans,lead (noun),,,ɣurɣa šin,Phonemic
+9-670-509-1,darg1241,Dargwa (Mekegi dialect),621,мегь,CyrillTrans,iron,,,meh,Phonemic
+9-660-509-1,darg1241,Dargwa (Mekegi dialect),1825,дубси,CyrillTrans,"copper, bronze",,,dubsi,Phonemic
+9-650-509-1,darg1241,Dargwa (Mekegi dialect),759,арц,CyrillTrans,silver,,,arc,Phonemic
+9-640-509-1,darg1241,Dargwa (Mekegi dialect),1369,мургьи,CyrillTrans,gold,,,murhi,Phonemic
+9-630-509-1,darg1241,Dargwa (Mekegi dialect),211,къалип артІес,CyrillTrans,cast (metals),,,Galip art’es,Phonemic
+9-620-509-1,darg1241,Dargwa (Mekegi dialect),1648,убза,CyrillTrans,anvil,,,ubza,Phonemic
+9-610-509-1,darg1241,Dargwa (Mekegi dialect),288,гІевдугь,CyrillTrans,forge,,,ʕewduh,Phonemic
+9-600-509-1,darg1241,Dargwa (Mekegi dialect),1001,мегьла уста,CyrillTrans,"smith, blacksmith",,,mehla usta,Phonemic
+9-560-509-1,darg1241,Dargwa (Mekegi dialect),1069,клей,CyrillTrans,glue,,,kley,Phonemic
+9-500-509-1,darg1241,Dargwa (Mekegi dialect),502,гІебул,CyrillTrans,nail,,,ʕebul,Phonemic
+9-490-509-1,darg1241,Dargwa (Mekegi dialect),1481,кьякь,CyrillTrans,hammer,,,q’aˤq’,Phonemic
+9-480-509-1,darg1241,Dargwa (Mekegi dialect),1948,рас,CyrillTrans,saw,,,ras,Phonemic
+9-461-509-1,darg1241,Dargwa (Mekegi dialect),46,дурайэс,CyrillTrans,hollow out,,,durayʔes,Phonemic
+9-460-509-1,darg1241,Dargwa (Mekegi dialect),1501,тІярхъи,CyrillTrans,bore,,,t’aˤrqi,Phonemic
+9-440-509-1,darg1241,Dargwa (Mekegi dialect),1840,лушес,CyrillTrans,build,,,lušes,Phonemic
+9-430-509-1,darg1241,Dargwa (Mekegi dialect),1042,урца уста,CyrillTrans,carpenter,,,urca usta,Phonemic
+9-422-509-1,darg1241,Dargwa (Mekegi dialect),1361,гІягІнихъала,CyrillTrans,tool,,,ʕaˤʕniqala,Phonemic
+9-380-509-1,darg1241,Dargwa (Mekegi dialect),245,кьвази,CyrillTrans,broom,,,q’ʷazi,Phonemic
+9-360-509-1,darg1241,Dargwa (Mekegi dialect),1453,ицес,CyrillTrans,wash,,,ices,Phonemic
+9-370-509-1,darg1241,Dargwa (Mekegi dialect),230,бамиэс,CyrillTrans,sweep,,,bamiʔes,Phonemic
+9-350-509-1,darg1241,Dargwa (Mekegi dialect),1487,картІес,CyrillTrans,pour,,,kart’es,Phonemic
+9-343-509-1,darg1241,Dargwa (Mekegi dialect),1414,гъянчІбиркьес,CyrillTrans,"squeeze, wring",,,ɣaˤnč’birq’es,Phonemic
+9-342-509-1,darg1241,Dargwa (Mekegi dialect),1913,гІенибиркьес,CyrillTrans,press,,,ʕenibirq’es,Phonemic
+9-341-509-1,darg1241,Dargwa (Mekegi dialect),357,гІебиэс,CyrillTrans,hang up,,,ʕebiʔes,Phonemic
+9-340-509-1,darg1241,Dargwa (Mekegi dialect),38,тІинтІбирес,CyrillTrans,spread out,,,t’int’bires,Phonemic
+9-330-509-1,darg1241,Dargwa (Mekegi dialect),1455,зузбиркьес,CyrillTrans,pull,,,zuzbirq’es,Phonemic
+9-320-509-1,darg1241,Dargwa (Mekegi dialect),214,битІикІес,CyrillTrans,stretch,,,bit’ik’es,Phonemic
+9-310-509-1,darg1241,Dargwa (Mekegi dialect),1449,бихъес,CyrillTrans,"rub, wipe",,,biqes,Phonemic
+9-290-509-1,darg1241,Dargwa (Mekegi dialect),291,кам ирхъес,CyrillTrans,"flay, skin",,,kam irqes,Phonemic
+9-280-509-1,darg1241,Dargwa (Mekegi dialect),1735,гъярудес,CyrillTrans,tear,,,ɣˤarudes,Phonemic
+9-270-509-1,darg1241,Dargwa (Mekegi dialect),1437,бутІа-бутІабаркьес,CyrillTrans,split,,,but’a-but’abarq’es,Phonemic
+9-261-509-1,darg1241,Dargwa (Mekegi dialect),588,бячунил,CyrillTrans,broken,,,baˤčunil,Phonemic
+9-260-509-1,darg1241,Dargwa (Mekegi dialect),680,бялчес,CyrillTrans,break,,,bˤalčes,Phonemic
+9-250-509-1,darg1241,Dargwa (Mekegi dialect),677,барда,CyrillTrans,ax,,,barda,Phonemic
+9-251-509-1,darg1241,Dargwa (Mekegi dialect),290,зива,CyrillTrans,adze,,,ziwa,Phonemic
+9-240-509-1,darg1241,Dargwa (Mekegi dialect),356,лухІцІи,CyrillTrans,"scissors, shears",,,luħc’i,Phonemic
+9-230-509-1,darg1241,Dargwa (Mekegi dialect),1352,дис,CyrillTrans,knife,,,dis,Phonemic
+9-223-509-1,darg1241,Dargwa (Mekegi dialect),1434,бурхІес,CyrillTrans,stab,,,burħes,Phonemic
+9-222-509-1,darg1241,Dargwa (Mekegi dialect),155,уцес,CyrillTrans,"chop, hew",,,uces,Phonemic
+9-221-509-1,darg1241,Dargwa (Mekegi dialect),355,камдирес,CyrillTrans,cut down,,,kamdires,Phonemic
+9-220-509-1,darg1241,Dargwa (Mekegi dialect),1432,гъяриэс,CyrillTrans,cut,,,ɣˤariʔes,Phonemic
+9-211-509-1,darg1241,Dargwa (Mekegi dialect),354,хункІли пяхъукІес,CyrillTrans,pound with fist,,,xunk’li paˤquk’es,Phonemic
+9-210-509-1,darg1241,Dargwa (Mekegi dialect),2133,пяхъукІес,CyrillTrans,"strike (hit, beat)",,,paˤquk’es,Phonemic
+9-192-509-1,darg1241,Dargwa (Mekegi dialect),760,бул,CyrillTrans,knot (noun),,,bul,Phonemic
+9-190-509-1,darg1241,Dargwa (Mekegi dialect),1218,гьайа,CyrillTrans,"rope, cord",,,haya,Phonemic
+9-180-509-1,darg1241,Dargwa (Mekegi dialect),1627,шинжир,CyrillTrans,chain,,,šinžir,Phonemic
+9-161-509-1,darg1241,Dargwa (Mekegi dialect),352,ирзес,CyrillTrans,untie,,,irzes,Phonemic
+9-160-509-1,darg1241,Dargwa (Mekegi dialect),1917,билгьес,CyrillTrans,"tie, bind",,,bilhes,Phonemic
+9-150-509-1,darg1241,Dargwa (Mekegi dialect),1470,иркес,CyrillTrans,fold,,,irkes,Phonemic
+9-140-509-1,darg1241,Dargwa (Mekegi dialect),2004,гІечІбиркьес,CyrillTrans,bend,,,ʕeč’birq’es,Phonemic
+9-120-509-1,darg1241,Dargwa (Mekegi dialect),984,хІянки,CyrillTrans,work,,,ħaˤnki,Phonemic
+9-110-509-1,darg1241,Dargwa (Mekegi dialect),2575,биркьес,CyrillTrans,"do, make",,,birq’es,Phonemic
+8-980-509-1,darg1241,Dargwa (Mekegi dialect),641,шейтІа кьапІа,CyrillTrans,mushroom,,,šeyt’a q’ap’a,Phonemic
+8-970-509-1,darg1241,Dargwa (Mekegi dialect),33,миз,CyrillTrans,nettle,,,miz,Phonemic
+8-941-509-1,darg1241,Dargwa (Mekegi dialect),146,чакарла чІигІя,CyrillTrans,sugar cane,,,čakarla č’iʕaˤ,Phonemic
+8-940-509-1,darg1241,Dargwa (Mekegi dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-509-1,darg1241,Dargwa (Mekegi dialect),864,къабакъ,CyrillTrans,"pumpkin, squash",,,GabaG,Phonemic
+8-930-509-1,darg1241,Dargwa (Mekegi dialect),411,тІакьа къабакъ,CyrillTrans,gourd,,,t’aq’a GabaG,Phonemic
+8-912-509-1,darg1241,Dargwa (Mekegi dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-509-1,darg1241,Dargwa (Mekegi dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-509-1,darg1241,Dargwa (Mekegi dialect),346,инжирла галги,CyrillTrans,banyan,,,inžirla galgi,Phonemic
+8-840-509-1,darg1241,Dargwa (Mekegi dialect),868,бананла галги,CyrillTrans,banana tree,,,bananla galgi,Phonemic
+8-830-509-1,darg1241,Dargwa (Mekegi dialect),1126,цитрусла цІедегь,CyrillTrans,citrus fruit,,,citrusla c’edeh,Phonemic
+8-820-509-1,darg1241,Dargwa (Mekegi dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-509-1,darg1241,Dargwa (Mekegi dialect),1181,палма,CyrillTrans,palm tree,,,"palma, k’ac’ure",Phonemic
+8-810-509-3,darg1241,Dargwa (Mekegi dialect),1181,кІацІуре,CyrillTrans,palm tree,,,"palma, k’ac’ure",Phonemic
+8-760-509-1,darg1241,Dargwa (Mekegi dialect),345,кьарла шин,CyrillTrans,sap,,,q’arla šin,Phonemic
+8-750-509-1,darg1241,Dargwa (Mekegi dialect),1204,гІянкІа,CyrillTrans,bark,,,ʕaˤnk’a,Phonemic
+8-740-509-1,darg1241,Dargwa (Mekegi dialect),409,кІвикьярякь,CyrillTrans,forked branch,,,k’ʷiq’aˤraˤq’,Phonemic
+8-730-509-1,darg1241,Dargwa (Mekegi dialect),344,галгила аръ,CyrillTrans,tree trunk,,,galgila arʔ,Phonemic
+8-720-509-1,darg1241,Dargwa (Mekegi dialect),241,къандакъ,CyrillTrans,tree stump,,,GandaG,Phonemic
+8-691-509-1,darg1241,Dargwa (Mekegi dialect),1124,къалиян,CyrillTrans,pipe,,,Galiyan,Phonemic
+8-690-509-1,darg1241,Dargwa (Mekegi dialect),1689,тамбакула гав,CyrillTrans,smoke (tobacco),,,tambakula gaw,Phonemic
+8-680-509-1,darg1241,Dargwa (Mekegi dialect),974,тамбаку,CyrillTrans,tobacco,,,tambaku,Phonemic
+8-670-509-1,darg1241,Dargwa (Mekegi dialect),343,тІутІила бухъ,CyrillTrans,vine,,,t’ut’ila buq,Phonemic
+8-660-509-1,darg1241,Dargwa (Mekegi dialect),968,миге,CyrillTrans,acorn,,,mige,Phonemic
+8-650-509-1,darg1241,Dargwa (Mekegi dialect),1915,еда,CyrillTrans,fir,,,yeda,Phonemic
+8-640-509-1,darg1241,Dargwa (Mekegi dialect),1740,еда,CyrillTrans,pine,,,yeda,Phonemic
+8-630-509-1,darg1241,Dargwa (Mekegi dialect),1855,махъ,CyrillTrans,birch,,,maq,Phonemic
+8-620-509-1,darg1241,Dargwa (Mekegi dialect),1950,пурпи,CyrillTrans,beech,,,purpi,Phonemic
+8-610-509-1,darg1241,Dargwa (Mekegi dialect),644,къяни,CyrillTrans,oak,,,Gaˤni,Phonemic
+8-600-509-1,darg1241,Dargwa (Mekegi dialect),906,галги,CyrillTrans,tree,,,lalgi,Phonemic
+8-570-509-1,darg1241,Dargwa (Mekegi dialect),239,вава,CyrillTrans,flower,,,wawa,Phonemic
+8-560-509-1,darg1241,Dargwa (Mekegi dialect),628,кІапІи,CyrillTrans,leaf,,,k’ap’i,Phonemic
+8-550-509-1,darg1241,Dargwa (Mekegi dialect),1531,кьяли,CyrillTrans,branch,,,q’aˤli,Phonemic
+8-540-509-1,darg1241,Dargwa (Mekegi dialect),670,мякь,CyrillTrans,root,,,maˤq’,Phonemic
+8-531-509-1,darg1241,Dargwa (Mekegi dialect),1486,дашахъес,CyrillTrans,plant (vb),,,dašaqes,Phonemic
+8-520-509-1,darg1241,Dargwa (Mekegi dialect),342,мура,CyrillTrans,hay,,,mura,Phonemic
+8-530-509-1,darg1241,Dargwa (Mekegi dialect),653,дегІнубе,CyrillTrans,plant (noun),,,deʕnube,Phonemic
+8-510-509-1,darg1241,Dargwa (Mekegi dialect),606,кьар,CyrillTrans,grass,,,q’ar,Phonemic
+8-480-509-1,darg1241,Dargwa (Mekegi dialect),926,биринж,CyrillTrans,rice,,,birinž,Phonemic
+8-470-509-1,darg1241,Dargwa (Mekegi dialect),506,гьажланкІи,CyrillTrans,"maize, corn",,,hažlank’i,Phonemic
+8-460-509-1,darg1241,Dargwa (Mekegi dialect),60,нихъя,CyrillTrans,oats,,,niqaˤ,Phonemic
+8-450-509-1,darg1241,Dargwa (Mekegi dialect),23,сусул,CyrillTrans,rye,,,susul,Phonemic
+8-430-509-1,darg1241,Dargwa (Mekegi dialect),1077,анкІи,CyrillTrans,wheat,,,ank’i,Phonemic
+8-440-509-1,darg1241,Dargwa (Mekegi dialect),932,мухъи,CyrillTrans,barley,,,muqi,Phonemic
+8-420-509-1,darg1241,Dargwa (Mekegi dialect),605,ризкьи,CyrillTrans,"grain (barley, oats etc)",,,rizq’i,Phonemic
+8-410-509-1,darg1241,Dargwa (Mekegi dialect),611,сабухъ,CyrillTrans,"crop, harvest",,,sabuq,Phonemic
+8-350-509-1,darg1241,Dargwa (Mekegi dialect),223,дурегІи,CyrillTrans,threshing-floor,,,dureʕi,Phonemic
+8-340-509-1,darg1241,Dargwa (Mekegi dialect),285,дергес,CyrillTrans,thresh,,,derges,Phonemic
+8-330-509-1,darg1241,Dargwa (Mekegi dialect),2132,мирш,CyrillTrans,"sickle, scythe",,,"mirš, GʷaˤlGi",Phonemic
+8-330-509-3,darg1241,Dargwa (Mekegi dialect),2132,къвялкъи,CyrillTrans,"sickle, scythe",,,"mirš, GʷaˤlGi",Phonemic
+8-320-509-1,darg1241,Dargwa (Mekegi dialect),190,удес,CyrillTrans,"mow, reap",,,udes,Phonemic
+8-311-509-1,darg1241,Dargwa (Mekegi dialect),714,гьве,CyrillTrans,seed,,,hʷe,Phonemic
+8-310-509-1,darg1241,Dargwa (Mekegi dialect),748,йелгІес,CyrillTrans,sow,,,yelʕes,Phonemic
+8-270-509-1,darg1241,Dargwa (Mekegi dialect),338,къярда,CyrillTrans,rake,,,Gaˤrda,Phonemic
+8-260-509-1,darg1241,Dargwa (Mekegi dialect),337,гала,CyrillTrans,fork,,,gala,Phonemic
+8-250-509-1,darg1241,Dargwa (Mekegi dialect),284,газа,CyrillTrans,hoe,,,gaza,Phonemic
+8-240-509-1,darg1241,Dargwa (Mekegi dialect),1901,кІвяхІи,CyrillTrans,shovel,,,k’ʷaˤħi,Phonemic
+8-230-509-1,darg1241,Dargwa (Mekegi dialect),1176,кьвалхІе,CyrillTrans,spade,,,q’ʷalħe,Phonemic
+8-212-509-1,darg1241,Dargwa (Mekegi dialect),1794,гъарш,CyrillTrans,furrow,,,ɣarš,Phonemic
+8-220-509-1,darg1241,Dargwa (Mekegi dialect),1418,икъес,CyrillTrans,dig,,,iGes,Phonemic
+8-210-509-1,darg1241,Dargwa (Mekegi dialect),1921,гьайукІес,CyrillTrans,plow,,,hayuk’es,Phonemic
+8-170-509-1,darg1241,Dargwa (Mekegi dialect),2002,ругер,CyrillTrans,ditch,,,ruger,Phonemic
+8-160-509-1,darg1241,Dargwa (Mekegi dialect),1690,хІяри,CyrillTrans,fence,,,ħaˤri,Phonemic
+8-150-509-1,darg1241,Dargwa (Mekegi dialect),1541,гванза бузахъес,CyrillTrans,"cultivate, till",,,gʷanza buzaqes,Phonemic
+8-130-509-1,darg1241,Dargwa (Mekegi dialect),586,анхъ,CyrillTrans,garden,,,anq,Phonemic
+8-120-509-1,darg1241,Dargwa (Mekegi dialect),212,ургуба,CyrillTrans,field (for cultivation),,,"urguba, qu",Phonemic
+8-120-509-3,darg1241,Dargwa (Mekegi dialect),212,хъу,CyrillTrans,field (for cultivation),,,"urguba, qu",Phonemic
+8-110-509-1,darg1241,Dargwa (Mekegi dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-509-1,darg1241,Dargwa (Mekegi dialect),901,гІянжила чІир,CyrillTrans,adobe,,,ʕaˤnžila č’ir,Phonemic
+7-630-509-1,darg1241,Dargwa (Mekegi dialect),224,керачла чят,CyrillTrans,mortar,,,keračla čaˤt,Phonemic
+7-620-509-1,darg1241,Dargwa (Mekegi dialect),1006,авмузан къаркъа,CyrillTrans,brick,,,"awmuzan GarGa, kelpič",Phonemic
+7-620-509-3,darg1241,Dargwa (Mekegi dialect),1006,келпич,CyrillTrans,brick,,,"awmuzan GarGa, kelpič",Phonemic
+7-580-509-1,darg1241,Dargwa (Mekegi dialect),876,арсавар,CyrillTrans,arch,,,arsawar,Phonemic
+7-610-509-1,darg1241,Dargwa (Mekegi dialect),877,къаркъала уста,CyrillTrans,mason,,,GarGala usta,Phonemic
+7-570-509-1,darg1241,Dargwa (Mekegi dialect),1227,уркьули,CyrillTrans,board,,,urq’uli,Phonemic
+7-560-509-1,darg1241,Dargwa (Mekegi dialect),281,тІал,CyrillTrans,"post, pole",,,t’al,Phonemic
+7-550-509-1,darg1241,Dargwa (Mekegi dialect),1132,дукІи,CyrillTrans,beam,,,duk’i,Phonemic
+7-540-509-1,darg1241,Dargwa (Mekegi dialect),829,къубба,CyrillTrans,rafter,,,"Gubba, dex̌-duk’i",Phonemic
+7-540-509-3,darg1241,Dargwa (Mekegi dialect),829,дехь-дукІи,CyrillTrans,rafter,,,"Gubba, dex̌-duk’i",Phonemic
+7-530-509-1,darg1241,Dargwa (Mekegi dialect),280,убяхъри,CyrillTrans,ridgepole,,,ubaˤqri,Phonemic
+7-520-509-1,darg1241,Dargwa (Mekegi dialect),279,чІягІала хъалк,CyrillTrans,thatch,,,čaˤʕala qalk,Phonemic
+7-510-509-1,darg1241,Dargwa (Mekegi dialect),769,хъалк,CyrillTrans,roof,,,qalk,Phonemic
+7-480-509-1,darg1241,Dargwa (Mekegi dialect),205,шиндири,CyrillTrans,trough,,,šindiri,Phonemic
+7-470-509-1,darg1241,Dargwa (Mekegi dialect),745,тахча,CyrillTrans,shelf,,,taxča,Phonemic
+7-460-509-1,darg1241,Dargwa (Mekegi dialect),1273,шям,CyrillTrans,candle,,,šaˤm,Phonemic
+7-450-509-1,darg1241,Dargwa (Mekegi dialect),2131,чирагъ,CyrillTrans,"lamp, torch",,,čiraɣ,Phonemic
+7-440-509-1,darg1241,Dargwa (Mekegi dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-509-1,darg1241,Dargwa (Mekegi dialect),1476,ута,CyrillTrans,chair,,,uta,Phonemic
+7-422-509-1,darg1241,Dargwa (Mekegi dialect),806,губен,CyrillTrans,blanket,,,guben,Phonemic
+7-421-509-1,darg1241,Dargwa (Mekegi dialect),1044,гІенила,CyrillTrans,pillow,,,ʕenila,Phonemic
+7-420-509-1,darg1241,Dargwa (Mekegi dialect),1663,тах,CyrillTrans,bed,,,"tax, karawat",Phonemic
+7-420-509-3,darg1241,Dargwa (Mekegi dialect),1663,карават,CyrillTrans,bed,,,"tax, karawat",Phonemic
+7-370-509-1,darg1241,Dargwa (Mekegi dialect),1464,ганзихъ,CyrillTrans,ladder,,,ganziq,Phonemic
+7-330-509-1,darg1241,Dargwa (Mekegi dialect),1305,кьяпІи,CyrillTrans,chimney,,,q’aˤp’i,Phonemic
+7-320-509-1,darg1241,Dargwa (Mekegi dialect),859,пиж,CyrillTrans,stove,,,piž,Phonemic
+7-310-509-1,darg1241,Dargwa (Mekegi dialect),185,анкъи,CyrillTrans,fireplace,,,anGi,Phonemic
+7-270-509-1,darg1241,Dargwa (Mekegi dialect),933,чир,CyrillTrans,wall,,,čir,Phonemic
+7-260-509-1,darg1241,Dargwa (Mekegi dialect),1632,чІабар,CyrillTrans,floor,,,č’abar,Phonemic
+7-250-509-1,darg1241,Dargwa (Mekegi dialect),1375,улкьай,CyrillTrans,window,,,ulq’ay,Phonemic
+7-240-509-1,darg1241,Dargwa (Mekegi dialect),1472,умхьу,CyrillTrans,key,,,umx̌u,Phonemic
+7-231-509-1,darg1241,Dargwa (Mekegi dialect),1012,сала,CyrillTrans,"latch, door-bolt",,,sala,Phonemic
+7-230-509-1,darg1241,Dargwa (Mekegi dialect),1596,мегь,CyrillTrans,lock (noun),,,meh,Phonemic
+7-221-509-1,darg1241,Dargwa (Mekegi dialect),80,гІалайан,CyrillTrans,"doorpost, jamb",,,ʕаlayan,Phonemic
+7-210-509-1,darg1241,Dargwa (Mekegi dialect),1450,хъали,CyrillTrans,room,,,qali,Phonemic
+7-220-509-1,darg1241,Dargwa (Mekegi dialect),1567,унза,CyrillTrans,"door, gate",,,unza,Phonemic
+7-180-509-1,darg1241,Dargwa (Mekegi dialect),335,мажлисбе диркьуй хъали,CyrillTrans,meeting house,,,mažlisbe dirq’uy qali,Phonemic
+7-170-509-1,darg1241,Dargwa (Mekegi dialect),334,беркесил беркуй хъали,CyrillTrans,cookhouse,,,berkesil berkuy qali,Phonemic
+7-160-509-1,darg1241,Dargwa (Mekegi dialect),408,амарсуртала хъали,CyrillTrans,men's house,,,amarsurtala qali,Phonemic
+7-150-509-1,darg1241,Dargwa (Mekegi dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-509-1,darg1241,Dargwa (Mekegi dialect),1316,къуси,CyrillTrans,tent,,,q’usi,Phonemic
+7-131-509-1,darg1241,Dargwa (Mekegi dialect),403,дачаликебил хъали,CyrillTrans,garden-house,,,dačalikebil qali,Phonemic
+7-130-509-1,darg1241,Dargwa (Mekegi dialect),1678,гухІил хъали,CyrillTrans,hut,,,guħil qali,Phonemic
+7-120-509-1,darg1241,Dargwa (Mekegi dialect),1252,хъали,CyrillTrans,house,,,qali,Phonemic
+7-110-509-1,darg1241,Dargwa (Mekegi dialect),363,хІерурес,CyrillTrans,"dwell, live",,,ħerures,Phonemic
+6-960-509-1,darg1241,Dargwa (Mekegi dialect),1171,дехІмицІа,CyrillTrans,mirror,,,deħmic’a,Phonemic
+6-950-509-1,darg1241,Dargwa (Mekegi dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-509-1,darg1241,Dargwa (Mekegi dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-509-1,darg1241,Dargwa (Mekegi dialect),151,муцІур лугІян,CyrillTrans,razor,,,muc’ur luʕaˤn,Phonemic
+6-921-509-1,darg1241,Dargwa (Mekegi dialect),333,чури,CyrillTrans,braid,,,čuri,Phonemic
+6-920-509-1,darg1241,Dargwa (Mekegi dialect),1821,дурега,CyrillTrans,brush,,,durega,Phonemic
+6-910-509-1,darg1241,Dargwa (Mekegi dialect),1475,дурега,CyrillTrans,comb,,,durega,Phonemic
+6-820-509-1,darg1241,Dargwa (Mekegi dialect),1021,дяхІшикан,CyrillTrans,towel,,,daˤħšikan,Phonemic
+6-810-509-1,darg1241,Dargwa (Mekegi dialect),332,йаблухъ,CyrillTrans,"handkerchief, rag",,,yabluq,Phonemic
+6-780-509-1,darg1241,Dargwa (Mekegi dialect),330,чялма,CyrillTrans,"headband, headdress",,,čaˤlma,Phonemic
+6-770-509-1,darg1241,Dargwa (Mekegi dialect),770,урцІели,CyrillTrans,earring,,,urc’eli,Phonemic
+6-760-509-1,darg1241,Dargwa (Mekegi dialect),1860,мача,CyrillTrans,bead,,,mača,Phonemic
+6-750-509-1,darg1241,Dargwa (Mekegi dialect),1961,мачне,CyrillTrans,necklace,,,mačne,Phonemic
+6-740-509-1,darg1241,Dargwa (Mekegi dialect),1754,кулеха,CyrillTrans,bracelet,,,kulexa,Phonemic
+6-730-509-1,darg1241,Dargwa (Mekegi dialect),1374,тІулека,CyrillTrans,ring (for finger),,,t’uleka,Phonemic
+6-720-509-1,darg1241,Dargwa (Mekegi dialect),1029,дурхъай къаркъа,CyrillTrans,jewel,,,durqay GarGa,Phonemic
+6-710-509-1,darg1241,Dargwa (Mekegi dialect),917,някьиш,CyrillTrans,"ornament, adornment",,,naˤq’iš,Phonemic
+6-630-509-1,darg1241,Dargwa (Mekegi dialect),64,калтІан буреба,CyrillTrans,pin,,,"kalt’an bureba, urus bureba",Phonemic
+6-630-509-3,darg1241,Dargwa (Mekegi dialect),64,урус буреба,CyrillTrans,pin,,,"kalt’an bureba, urus bureba",Phonemic
+6-620-509-1,darg1241,Dargwa (Mekegi dialect),757,хъапІа,CyrillTrans,button,,,qap’a,Phonemic
+6-610-509-1,darg1241,Dargwa (Mekegi dialect),1851,жиби,CyrillTrans,pocket,,,žibi,Phonemic
+6-590-509-1,darg1241,Dargwa (Mekegi dialect),1151,дяхІликвала,CyrillTrans,veil,,,daˤħlikʷala,Phonemic
+6-580-509-1,darg1241,Dargwa (Mekegi dialect),867,хъатлик,CyrillTrans,glove,,,qatlik,Phonemic
+6-570-509-1,darg1241,Dargwa (Mekegi dialect),772,ири,CyrillTrans,"belt, girdle",,,"iri, kamal",Phonemic
+6-570-509-3,darg1241,Dargwa (Mekegi dialect),772,камал,CyrillTrans,"belt, girdle",,,"iri, kamal",Phonemic
+6-550-509-1,darg1241,Dargwa (Mekegi dialect),2130,кьапІа,CyrillTrans,"hat, cap",,,"q’ap’a, šlyapa",Phonemic
+6-550-509-3,darg1241,Dargwa (Mekegi dialect),2130,шляпа,CyrillTrans,"hat, cap",,,"q’ap’a, šlyapa",Phonemic
+6-540-509-1,darg1241,Dargwa (Mekegi dialect),875,дабрила уста,CyrillTrans,"shoemaker, cobbler",,,dabrila usta,Phonemic
+6-510-509-1,darg1241,Dargwa (Mekegi dialect),1381,дабри,CyrillTrans,shoe,,,"dabri, tupli",Phonemic
+6-510-509-3,darg1241,Dargwa (Mekegi dialect),1381,тупли,CyrillTrans,shoe,,,"dabri, tupli",Phonemic
+6-520-509-1,darg1241,Dargwa (Mekegi dialect),585,дабри,CyrillTrans,boot,,,"dabri, batink’a",Phonemic
+6-520-509-3,darg1241,Dargwa (Mekegi dialect),585,батинкІа,CyrillTrans,boot,,,"dabri, batink’a",Phonemic
+6-490-509-1,darg1241,Dargwa (Mekegi dialect),329,тІирих,CyrillTrans,"stocking, sock",,,"t’irix, naˤski",Phonemic
+6-490-509-3,darg1241,Dargwa (Mekegi dialect),329,няски,CyrillTrans,"stocking, sock",,,"t’irix, naˤski",Phonemic
+6-480-509-1,darg1241,Dargwa (Mekegi dialect),809,шарбар,CyrillTrans,trousers,,,šarbar,Phonemic
+6-461-509-1,darg1241,Dargwa (Mekegi dialect),328,кІапІрела гьарка,CyrillTrans,grass-skirt,,,k’ap’rela harka,Phonemic
+6-460-509-1,darg1241,Dargwa (Mekegi dialect),1600,гьарка,CyrillTrans,skirt,,,harka,Phonemic
+6-450-509-1,darg1241,Dargwa (Mekegi dialect),2012,хъябцІари,CyrillTrans,collar,,,qaˤbc’ari,Phonemic
+6-440-509-1,darg1241,Dargwa (Mekegi dialect),1622,хІева,CyrillTrans,shirt,,,ħewa,Phonemic
+6-430-509-1,darg1241,Dargwa (Mekegi dialect),603,пІалтІу,CyrillTrans,coat,,,p’alt’u,Phonemic
+6-420-509-1,darg1241,Dargwa (Mekegi dialect),474,хІева,CyrillTrans,woman's dress,,,ħewa,Phonemic
+6-411-509-1,darg1241,Dargwa (Mekegi dialect),327,чебяхъала,CyrillTrans,poncho,,,čebaˤqala,Phonemic
+6-390-509-1,darg1241,Dargwa (Mekegi dialect),157,ранг,CyrillTrans,dye,,,rang,Phonemic
+6-410-509-1,darg1241,Dargwa (Mekegi dialect),326,гІяба,CyrillTrans,cloak,,,"ʕaˤba, plaš",Phonemic
+6-410-509-3,darg1241,Dargwa (Mekegi dialect),326,плаш,CyrillTrans,cloak,,,"ʕaˤba, plaš",Phonemic
+6-380-509-1,darg1241,Dargwa (Mekegi dialect),1161,кІиъ,CyrillTrans,thread,,,k’iʔ,Phonemic
+6-360-509-1,darg1241,Dargwa (Mekegi dialect),1382,буреба,CyrillTrans,needle,,,bureba,Phonemic
+6-370-509-1,darg1241,Dargwa (Mekegi dialect),278,дуруб,CyrillTrans,awl,,,durub,Phonemic
+6-350-509-1,darg1241,Dargwa (Mekegi dialect),1457,ибес,CyrillTrans,sew,,,ibes,Phonemic
+6-340-509-1,darg1241,Dargwa (Mekegi dialect),1787,чІянкІи душан,CyrillTrans,loom,,,č’aˤnk’i dušan,Phonemic
+6-330-509-1,darg1241,Dargwa (Mekegi dialect),133,бумхес,CyrillTrans,weave,,,bumxes,Phonemic
+6-320-509-1,darg1241,Dargwa (Mekegi dialect),277,кІиъ,CyrillTrans,spindle,,,k’iʔ,Phonemic
+6-310-509-1,darg1241,Dargwa (Mekegi dialect),121,кІиъ биркІес,CyrillTrans,spin,,,k’iʔ birk’es,Phonemic
+6-290-509-1,darg1241,Dargwa (Mekegi dialect),629,кам,CyrillTrans,leather,,,"kam, guli",Phonemic
+6-290-509-3,darg1241,Dargwa (Mekegi dialect),629,гули,CyrillTrans,leather,,,"kam, guli",Phonemic
+6-280-509-1,darg1241,Dargwa (Mekegi dialect),580,жаниварла гули,CyrillTrans,fur,,,žaniwarla guli,Phonemic
+6-270-509-1,darg1241,Dargwa (Mekegi dialect),325,варгьи,CyrillTrans,felt,,,warhi,Phonemic
+6-250-509-1,darg1241,Dargwa (Mekegi dialect),1641,дарай,CyrillTrans,silk,,,"daray, k’az",Phonemic
+6-250-509-3,darg1241,Dargwa (Mekegi dialect),1641,кІаз,CyrillTrans,silk,,,"daray, k’az",Phonemic
+6-240-509-1,darg1241,Dargwa (Mekegi dialect),1850,бамбала чІянкІи,CyrillTrans,cotton,,,bambala č’aˤnk’i,Phonemic
+6-230-509-1,darg1241,Dargwa (Mekegi dialect),916,джулгьа,CyrillTrans,"linen, flax",,,ǯulha,Phonemic
+6-220-509-1,darg1241,Dargwa (Mekegi dialect),964,балала чІянкІи,CyrillTrans,wool,,,balala č’aˤnk’i,Phonemic
+6-210-509-1,darg1241,Dargwa (Mekegi dialect),1616,чІянкІи,CyrillTrans,cloth,,,č’aˤnk’i,Phonemic
+6-130-509-1,darg1241,Dargwa (Mekegi dialect),881,палта уста,CyrillTrans,tailor,,,palta usta,Phonemic
+6-120-509-1,darg1241,Dargwa (Mekegi dialect),1895,палтар,CyrillTrans,"clothing, clothes",,,paltar,Phonemic
+6-110-509-1,darg1241,Dargwa (Mekegi dialect),158,киркІес,CyrillTrans,put on (clothes),,,kirk’es,Phonemic
+5-971-509-1,darg1241,Dargwa (Mekegi dialect),1556,бухъутІа,CyrillTrans,egg yolk,,,buqut’a,Phonemic
+5-970-509-1,darg1241,Dargwa (Mekegi dialect),744,гигари,CyrillTrans,egg,,,gigari,Phonemic
+5-940-509-1,darg1241,Dargwa (Mekegi dialect),404,рукь,CyrillTrans,fermented drink,,,ruq’,Phonemic
+5-930-509-1,darg1241,Dargwa (Mekegi dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-509-1,darg1241,Dargwa (Mekegi dialect),1524,чягъир,CyrillTrans,wine,,,čaˤɣir,Phonemic
+5-910-509-1,darg1241,Dargwa (Mekegi dialect),941,варъала бержесил,CyrillTrans,mead,,,warʔala beržesil,Phonemic
+5-900-509-1,darg1241,Dargwa (Mekegi dialect),731,бержесил,CyrillTrans,"beverage, drink",,,beržesil,Phonemic
+5-890-509-1,darg1241,Dargwa (Mekegi dialect),1245,кІема,CyrillTrans,butter,,,k’ema,Phonemic
+5-880-509-1,darg1241,Dargwa (Mekegi dialect),1569,нусегІ,CyrillTrans,cheese,,,nuseʕ,Phonemic
+5-870-509-1,darg1241,Dargwa (Mekegi dialect),93,изес,CyrillTrans,milk (vb),,,izes,Phonemic
+5-850-509-1,darg1241,Dargwa (Mekegi dialect),862,чакар,CyrillTrans,sugar,,,"čakar, pisuk’",Phonemic
+5-850-509-3,darg1241,Dargwa (Mekegi dialect),862,писукІ,CyrillTrans,sugar,,,"čakar, pisuk’",Phonemic
+5-860-509-1,darg1241,Dargwa (Mekegi dialect),635,ниъ,CyrillTrans,milk (noun),,,niʔ,Phonemic
+5-840-509-1,darg1241,Dargwa (Mekegi dialect),942,варъа,CyrillTrans,honey,,,warʔa,Phonemic
+5-821-509-1,darg1241,Dargwa (Mekegi dialect),919,цІакьил исиут,CyrillTrans,chili pepper,,,c’aq’il isiut,Phonemic
+5-820-509-1,darg1241,Dargwa (Mekegi dialect),1385,исиут,CyrillTrans,pepper,,,isiut,Phonemic
+5-810-509-1,darg1241,Dargwa (Mekegi dialect),1274,зе,CyrillTrans,salt,,,ze,Phonemic
+5-791-509-1,darg1241,Dargwa (Mekegi dialect),323,гІявадеш,CyrillTrans,"grease, fat",,,ʕaˤwadeš,Phonemic
+5-790-509-1,darg1241,Dargwa (Mekegi dialect),1484,пуслимасла,CyrillTrans,oil,,,puslimasla,Phonemic
+5-780-509-1,darg1241,Dargwa (Mekegi dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-509-1,darg1241,Dargwa (Mekegi dialect),920,тІутІи,CyrillTrans,grape,,,t’ut’i,Phonemic
+5-770-509-1,darg1241,Dargwa (Mekegi dialect),191,хив,CyrillTrans,nut,,,xiw,Phonemic
+5-750-509-1,darg1241,Dargwa (Mekegi dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-509-1,darg1241,Dargwa (Mekegi dialect),1966,бухъ,CyrillTrans,bunch,,,buq,Phonemic
+5-710-509-1,darg1241,Dargwa (Mekegi dialect),1507,цІедегь,CyrillTrans,fruit,,,c’edeh,Phonemic
+5-700-509-1,darg1241,Dargwa (Mekegi dialect),593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-509-1,darg1241,Dargwa (Mekegi dialect),832,хъарчІе,CyrillTrans,bean,,,qarč’e,Phonemic
+5-650-509-1,darg1241,Dargwa (Mekegi dialect),924,хъумала цІедегь,CyrillTrans,vegetables,,,qumala c’edeh,Phonemic
+5-640-509-1,darg1241,Dargwa (Mekegi dialect),1547,нергъ,CyrillTrans,"soup, broth",,,nerɣ,Phonemic
+5-630-509-1,darg1241,Dargwa (Mekegi dialect),1874,руд,CyrillTrans,sausage,,,rud,Phonemic
+5-610-509-1,darg1241,Dargwa (Mekegi dialect),634,диъ,CyrillTrans,meat,,,diʔ,Phonemic
+5-590-509-1,darg1241,Dargwa (Mekegi dialect),225,жерши итан,CyrillTrans,pestle,,,žerši itan,Phonemic
+5-580-509-1,darg1241,Dargwa (Mekegi dialect),224,лутІи кьяш,CyrillTrans,mortar (2),,,lut’i q’aˤš,Phonemic
+5-570-509-1,darg1241,Dargwa (Mekegi dialect),636,шинкьа,CyrillTrans,mill,,,šinq’a,Phonemic
+5-560-509-1,darg1241,Dargwa (Mekegi dialect),1033,бихъес,CyrillTrans,"crush, grind",,,biqes,Phonemic
+5-550-509-1,darg1241,Dargwa (Mekegi dialect),1594,декь,CyrillTrans,"meal, flour",,,deq’,Phonemic
+5-540-509-1,darg1241,Dargwa (Mekegi dialect),274,башни башес,CyrillTrans,knead,,,bašni bašes,Phonemic
+5-530-509-1,darg1241,Dargwa (Mekegi dialect),273,башни,CyrillTrans,dough,,,bašni,Phonemic
+5-510-509-1,darg1241,Dargwa (Mekegi dialect),1368,кьацІ,CyrillTrans,bread,,,q’ac’,Phonemic
+5-490-509-1,darg1241,Dargwa (Mekegi dialect),2017,гъудурбиркьес,CyrillTrans,"stir, mix",,,ɣudurbirq’es,Phonemic
+5-480-509-1,darg1241,Dargwa (Mekegi dialect),1767,хъяшбаркьес,CyrillTrans,scrape,,,qaˤšbarq’es,Phonemic
+5-470-509-1,darg1241,Dargwa (Mekegi dialect),86,аргьес,CyrillTrans,"sieve, strain",,,arhes,Phonemic
+5-460-509-1,darg1241,Dargwa (Mekegi dialect),275,амъубиркьес,CyrillTrans,peel,,,amʔubirq’es,Phonemic
+5-450-509-1,darg1241,Dargwa (Mekegi dialect),1833,берхІехъла беркесил,CyrillTrans,supper,,,berħeqla berkesil,Phonemic
+5-440-509-1,darg1241,Dargwa (Mekegi dialect),1833,хІерейала беркесил,CyrillTrans,dinner,,,ħereyala berkesil,Phonemic
+5-420-509-1,darg1241,Dargwa (Mekegi dialect),1322,савлала беркесил,CyrillTrans,breakfast,,,sawlala berkesil,Phonemic
+5-410-509-1,darg1241,Dargwa (Mekegi dialect),1526,укни,CyrillTrans,meal (a),,,"ukni, xureg",Phonemic
+5-410-509-3,darg1241,Dargwa (Mekegi dialect),1526,хурег,CyrillTrans,meal (a),,,"ukni, xureg",Phonemic
+5-391-509-1,darg1241,Dargwa (Mekegi dialect),272,гъянцІа,CyrillTrans,tongs,,,ɣaˤnc’a,Phonemic
+5-390-509-1,darg1241,Dargwa (Mekegi dialect),1302,бултІени,CyrillTrans,fork (2),,,bult’eni,Phonemic
+5-380-509-1,darg1241,Dargwa (Mekegi dialect),1352,дис,CyrillTrans,knife (2),,,dis,Phonemic
+5-370-509-1,darg1241,Dargwa (Mekegi dialect),1378,кьулса,CyrillTrans,spoon,,,q’ulsa,Phonemic
+5-360-509-1,darg1241,Dargwa (Mekegi dialect),271,кучІа,CyrillTrans,saucer,,,kuč’a,Phonemic
+5-350-509-1,darg1241,Dargwa (Mekegi dialect),476,пигьала,CyrillTrans,"cup, drinking vessel",,,pihala,Phonemic
+5-330-509-1,darg1241,Dargwa (Mekegi dialect),1530,сагъра,CyrillTrans,bowl,,,saɣra,Phonemic
+5-340-509-1,darg1241,Dargwa (Mekegi dialect),270,гажин,CyrillTrans,"pitcher, jug",,,gažin,Phonemic
+5-320-509-1,darg1241,Dargwa (Mekegi dialect),480,кьям,CyrillTrans,plate,,,q’aˤm,Phonemic
+5-310-509-1,darg1241,Dargwa (Mekegi dialect),481,мургьил кьям,CyrillTrans,dish,,,murhil q’aˤm,Phonemic
+5-280-509-1,darg1241,Dargwa (Mekegi dialect),31,шег,CyrillTrans,pan,,,šeg,Phonemic
+5-260-509-1,darg1241,Dargwa (Mekegi dialect),1462,шег,CyrillTrans,"pot, cooking vessel",,,šeg,Phonemic
+5-270-509-1,darg1241,Dargwa (Mekegi dialect),854,чяйник,CyrillTrans,kettle,,,čaˤynik,Phonemic
+5-240-509-1,darg1241,Dargwa (Mekegi dialect),183,берцІес,CyrillTrans,bake,,,berc’es,Phonemic
+5-250-509-1,darg1241,Dargwa (Mekegi dialect),1143,пиж,CyrillTrans,oven,,,piž,Phonemic
+5-230-509-1,darg1241,Dargwa (Mekegi dialect),2146,буцІес,CyrillTrans,"roast, fry",,,buc’es,Phonemic
+5-220-509-1,darg1241,Dargwa (Mekegi dialect),792,руржердикІахъес,CyrillTrans,boil (vb),,,ruržerdik’aqes,Phonemic
+5-210-509-1,darg1241,Dargwa (Mekegi dialect),1100,лугьес,CyrillTrans,cook,,,luhes,Phonemic
+5-190-509-1,darg1241,Dargwa (Mekegi dialect),129,гІендикІес,CyrillTrans,choke,,,ʕendik’es,Phonemic
+5-181-509-1,darg1241,Dargwa (Mekegi dialect),897,гІентІукІес,CyrillTrans,swallow,,,ʕent’uk’es,Phonemic
+5-180-509-1,darg1241,Dargwa (Mekegi dialect),321,чІямукІес,CyrillTrans,chew,,,č’aˤmuk’es,Phonemic
+5-160-509-1,darg1241,Dargwa (Mekegi dialect),1421,чІяпІукІес,CyrillTrans,suck,,,č’aˤp’uk’es,Phonemic
+5-150-509-1,darg1241,Dargwa (Mekegi dialect),848,мелиубни,CyrillTrans,thirst,,,meliubni,Phonemic
+5-141-509-1,darg1241,Dargwa (Mekegi dialect),199,гаши,CyrillTrans,famine,,,gaši,Phonemic
+5-140-509-1,darg1241,Dargwa (Mekegi dialect),1864,гушубни,CyrillTrans,hunger,,,gušubni,Phonemic
+5-130-509-1,darg1241,Dargwa (Mekegi dialect),1401,ужес,CyrillTrans,drink,,,užes,Phonemic
+5-125-509-1,darg1241,Dargwa (Mekegi dialect),1728,берхІибил,CyrillTrans,rotten,,,berħibil,Phonemic
+5-124-509-1,darg1241,Dargwa (Mekegi dialect),1958,хІебикьурил,CyrillTrans,"green, unripe",,,ħebiq’uril,Phonemic
+5-123-509-1,darg1241,Dargwa (Mekegi dialect),178,бикьурил,CyrillTrans,ripe,,,biq’uril,Phonemic
+5-122-509-1,darg1241,Dargwa (Mekegi dialect),1959,битІуй,CyrillTrans,raw,,,bit’uy,Phonemic
+5-121-509-1,darg1241,Dargwa (Mekegi dialect),269,белгьунил,CyrillTrans,cooked,,,belhunil,Phonemic
+5-120-509-1,darg1241,Dargwa (Mekegi dialect),256,беркесил,CyrillTrans,food,,,berkesil,Phonemic
+5-110-509-1,darg1241,Dargwa (Mekegi dialect),1336,укес,CyrillTrans,eat,,,ukes,Phonemic
+4-990-509-1,darg1241,Dargwa (Mekegi dialect),590,чІянкІуй,CyrillTrans,"naked, bare",,,č’aˤnk’uy,Phonemic
+4-970-509-1,darg1241,Dargwa (Mekegi dialect),1653,сукъур,CyrillTrans,blind,,,suGur,Phonemic
+4-980-509-1,darg1241,Dargwa (Mekegi dialect),1463,гепил,CyrillTrans,intoxicated,,,gepil,Phonemic
+4-960-509-1,darg1241,Dargwa (Mekegi dialect),1666,гъай хІедалуй,CyrillTrans,mute,,,ɣay ħedaluy,Phonemic
+4-950-509-1,darg1241,Dargwa (Mekegi dialect),996,гІенцІа,CyrillTrans,deaf,,,ʕenc’a,Phonemic
+4-930-509-1,darg1241,Dargwa (Mekegi dialect),1125,чІянкІа (бекІ),CyrillTrans,bald,,,č’aˤnk’a (bek’),Phonemic
+4-940-509-1,darg1241,Dargwa (Mekegi dialect),320,валкІукІес,CyrillTrans,lame,,,walk’uk’es,Phonemic
+4-920-509-1,darg1241,Dargwa (Mekegi dialect),1564,азгъин,CyrillTrans,lazy,,,azɣin,Phonemic
+4-912-509-1,darg1241,Dargwa (Mekegi dialect),168,бамсри ихъес,CyrillTrans,rest,,,bamsri iqes,Phonemic
+4-910-509-1,darg1241,Dargwa (Mekegi dialect),1757,вамсурил,CyrillTrans,"tired, weary",,,wamsuril,Phonemic
+4-890-509-1,darg1241,Dargwa (Mekegi dialect),655,агъу,CyrillTrans,poison,,,"aɣu, zaɣru, zaGum",Phonemic
+4-890-509-3,darg1241,Dargwa (Mekegi dialect),655,загьру,CyrillTrans,poison,,,"aɣu, zaɣru, zaGum",Phonemic
+4-890-509-5,darg1241,Dargwa (Mekegi dialect),655,закъум,CyrillTrans,poison,,,"aɣu, zaɣru, zaGum",Phonemic
+4-880-509-1,darg1241,Dargwa (Mekegi dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"darman, daru-darman",Phonemic
+4-880-509-3,darg1241,Dargwa (Mekegi dialect),1372,дару-дарман,CyrillTrans,"medicine, drug",,,"darman, daru-darman",Phonemic
+4-870-509-1,darg1241,Dargwa (Mekegi dialect),597,тухтур,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-870-509-3,darg1241,Dargwa (Mekegi dialect),597,врач,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-860-509-1,darg1241,Dargwa (Mekegi dialect),499,араиркьес,CyrillTrans,"cure, heal",,,arairq’es,Phonemic
+4-858-509-1,darg1241,Dargwa (Mekegi dialect),497,хІяна,CyrillTrans,scar,,,ħaˤna,Phonemic
+4-857-509-1,darg1241,Dargwa (Mekegi dialect),1808,шаха,CyrillTrans,pus,,,šaxa,Phonemic
+4-856-509-1,darg1241,Dargwa (Mekegi dialect),793,жижкІва,CyrillTrans,boil (noun),,,žižk’ʷa,Phonemic
+4-855-509-1,darg1241,Dargwa (Mekegi dialect),1584,кІарри,CyrillTrans,blister,,,k’arri,Phonemic
+4-854-509-1,darg1241,Dargwa (Mekegi dialect),148,букуй мер,CyrillTrans,itch,,,bukuy mer,Phonemic
+4-853-509-1,darg1241,Dargwa (Mekegi dialect),1903,бемдри,CyrillTrans,swelling,,,bemdri,Phonemic
+4-852-509-1,darg1241,Dargwa (Mekegi dialect),1148,изагибил,CyrillTrans,bruise,,,izagibil,Phonemic
+4-850-509-1,darg1241,Dargwa (Mekegi dialect),1109,дяхъи,CyrillTrans,"wound, sore",,,daˤqi,Phonemic
+4-843-509-1,darg1241,Dargwa (Mekegi dialect),102,тяхІувяхъни,CyrillTrans,cold (catarrh),,,taˤħuwaˤqni,Phonemic
+4-842-509-1,darg1241,Dargwa (Mekegi dialect),1957,партла изала,CyrillTrans,goiter,,,partla izala,Phonemic
+4-841-509-1,darg1241,Dargwa (Mekegi dialect),1534,буцІардеш,CyrillTrans,fever,,,"buc’ardeš, GaGle ɣayuk’es",Phonemic
+4-841-509-3,darg1241,Dargwa (Mekegi dialect),1534,къакъле гъайукІес,CyrillTrans,fever,,,"buc’ardeš, GaGle ɣayuk’es",Phonemic
+4-840-509-1,darg1241,Dargwa (Mekegi dialect),1847,изу,CyrillTrans,"sick, sickness",,,"izu, uzala weʕ",Phonemic
+4-840-509-3,darg1241,Dargwa (Mekegi dialect),1847,изала вегІ,CyrillTrans,"sick, sickness",,,"izu, uzala weʕ",Phonemic
+4-830-509-1,darg1241,Dargwa (Mekegi dialect),1364,арадешла вегІ,CyrillTrans,"well, health",,,"aradešla weʕ, aradeš",Phonemic
+4-830-509-3,darg1241,Dargwa (Mekegi dialect),1364,арадеш,CyrillTrans,"well, health",,,"aradešla weʕ, aradeš",Phonemic
+4-820-509-1,darg1241,Dargwa (Mekegi dialect),1601,зягІипил,CyrillTrans,weak,,,zaˤʕipil,Phonemic
+4-810-509-1,darg1241,Dargwa (Mekegi dialect),785,кьуватси,CyrillTrans,"strong, mighty, powerful",,,"q’uwatsi, c’aq’il",Phonemic
+4-810-509-3,darg1241,Dargwa (Mekegi dialect),785,цІакьил,CyrillTrans,"strong, mighty, powerful",,,"q’uwatsi, c’aq’il",Phonemic
+4-790-509-1,darg1241,Dargwa (Mekegi dialect),1773,хІеб,CyrillTrans,"grave, tomb",,,ħeb,Phonemic
+4-780-509-1,darg1241,Dargwa (Mekegi dialect),1719,хІерелгьес,CyrillTrans,bury (the dead),,,ħerelhes,Phonemic
+4-770-509-1,darg1241,Dargwa (Mekegi dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-509-1,darg1241,Dargwa (Mekegi dialect),1417,кабуршес,CyrillTrans,kill,,,kaburšes,Phonemic
+4-751-509-1,darg1241,Dargwa (Mekegi dialect),1904,гІендикибил,CyrillTrans,drowned,,,ʕendikibil,Phonemic
+4-750-509-1,darg1241,Dargwa (Mekegi dialect),1494,йебкІес,CyrillTrans,"die, dead",,,"yebk’es, yebk’iʔibil",Phonemic
+4-750-509-3,darg1241,Dargwa (Mekegi dialect),1494,йебкІиъибил,CyrillTrans,"die, dead",,,"yebk’es, yebk’iʔibil",Phonemic
+4-740-509-1,darg1241,Dargwa (Mekegi dialect),1422,хІерес,CyrillTrans,"live, living, life",,,"ħeres, mic’iril, ʕemru",Phonemic
+4-740-509-3,darg1241,Dargwa (Mekegi dialect),1422,мицІирил,CyrillTrans,"live, living, life",,,"ħeres, mic’iril, ʕemru",Phonemic
+4-740-509-5,darg1241,Dargwa (Mekegi dialect),1422,гІемру,CyrillTrans,"live, living, life",,,"ħeres, mic’iril, ʕemru",Phonemic
+4-732-509-1,darg1241,Dargwa (Mekegi dialect),1087,гІелчуэс,CyrillTrans,conceive,,,ʕelčuʔes,Phonemic
+4-730-509-1,darg1241,Dargwa (Mekegi dialect),1123,гІелчуъубил,CyrillTrans,pregnant,,,ʕelčuʔubil,Phonemic
+4-720-509-1,darg1241,Dargwa (Mekegi dialect),1090,акІес,CyrillTrans,born (to be),,,ak’es,Phonemic
+4-710-509-1,darg1241,Dargwa (Mekegi dialect),1152,алкІахъес,CyrillTrans,beget (of father),,,alk’aqes,Phonemic
+4-690-509-1,darg1241,Dargwa (Mekegi dialect),138,кьаркьала бирцес,CyrillTrans,bathe,,,q’arq’ala birces,Phonemic
+4-680-509-1,darg1241,Dargwa (Mekegi dialect),52,руржес,CyrillTrans,shiver,,,ruržes,Phonemic
+4-670-509-1,darg1241,Dargwa (Mekegi dialect),1785,бухІес,CyrillTrans,have sexual intercourse,,,"buħes, ruħes",Phonemic
+4-670-509-3,darg1241,Dargwa (Mekegi dialect),1785,рухІес,CyrillTrans,have sexual intercourse,,,"buħes, ruħes",Phonemic
+4-660-509-1,darg1241,Dargwa (Mekegi dialect),676,гІелажихІ батиэс,CyrillTrans,defecate,,,"ʕelažiħ batiʔes, GulGi dires",Phonemic
+4-660-509-3,darg1241,Dargwa (Mekegi dialect),676,къулкъи дирес,CyrillTrans,defecate,,,"ʕelažiħ batiʔes, GulGi dires",Phonemic
+4-650-509-1,darg1241,Dargwa (Mekegi dialect),592,жихІукІес,CyrillTrans,urinate,,,žiħuk’es,Phonemic
+4-640-509-1,darg1241,Dargwa (Mekegi dialect),1159,къякъ бушес,CyrillTrans,break wind,,,GaˤG bušes,Phonemic
+4-630-509-1,darg1241,Dargwa (Mekegi dialect),1602,тІатІулхъес,CyrillTrans,wake up,,,t’at’ulqes,Phonemic
+4-620-509-1,darg1241,Dargwa (Mekegi dialect),1920,муэр кибиъес,CyrillTrans,dream,,,muʔer kibiʔes,Phonemic
+4-612-509-1,darg1241,Dargwa (Mekegi dialect),1983,хахукІес,CyrillTrans,snore,,,xaxuk’es,Phonemic
+4-610-509-1,darg1241,Dargwa (Mekegi dialect),1585,усес,CyrillTrans,sleep,,,uses,Phonemic
+4-591-509-1,darg1241,Dargwa (Mekegi dialect),268,шутра жугъукІес,CyrillTrans,dribble,,,šutra žuɣuk’es,Phonemic
+4-590-509-1,darg1241,Dargwa (Mekegi dialect),319,лямукІес,CyrillTrans,lick,,,laˤmuk’es,Phonemic
+4-580-509-1,darg1241,Dargwa (Mekegi dialect),1403,кьацІукІес,CyrillTrans,bite,,,q’ac’uk’es,Phonemic
+4-570-509-1,darg1241,Dargwa (Mekegi dialect),1278,рабчукІес,CyrillTrans,vomit,,,rabčuk’es,Phonemic
+4-560-509-1,darg1241,Dargwa (Mekegi dialect),1440,туъукІес,CyrillTrans,spit,,,tuʔuk’es,Phonemic
+4-550-509-1,darg1241,Dargwa (Mekegi dialect),126,майъаливалтес,CyrillTrans,perspire,,,mayʔaliwaltes,Phonemic
+4-540-509-1,darg1241,Dargwa (Mekegi dialect),1621,гІенчукІес,CyrillTrans,sneeze,,,ʕenčuk’es,Phonemic
+4-530-509-1,darg1241,Dargwa (Mekegi dialect),879,хъахІукІес,CyrillTrans,cough,,,qaħuk’es,Phonemic
+4-521-509-1,darg1241,Dargwa (Mekegi dialect),162,хІуркьукІес,CyrillTrans,hiccough,,,ħurq’uk’es,Phonemic
+4-520-509-1,darg1241,Dargwa (Mekegi dialect),1028,гьагьукІес,CyrillTrans,"yawn, gape",,,hahuk’es,Phonemic
+4-510-509-1,darg1241,Dargwa (Mekegi dialect),1407,гьигьукІес,CyrillTrans,"breathe, breath",,,"hihuk’es, hihuk’ni",Phonemic
+4-510-509-3,darg1241,Dargwa (Mekegi dialect),1407,гьигьукІни,CyrillTrans,"breathe, breath",,,"hihuk’es, hihuk’ni",Phonemic
+4-492-509-1,darg1241,Dargwa (Mekegi dialect),1222,дуна,CyrillTrans,penis,,,duna,Phonemic
+4-490-509-1,darg1241,Dargwa (Mekegi dialect),797,кьулекьа,CyrillTrans,testicle,,,q’uleq’a,Phonemic
+4-470-509-1,darg1241,Dargwa (Mekegi dialect),804,дярхІнуг,CyrillTrans,womb,,,daˤrħnug,Phonemic
+4-464-509-1,darg1241,Dargwa (Mekegi dialect),834,хъяжубе,CyrillTrans,buttocks,,,qaˤžube,Phonemic
+4-463-509-1,darg1241,Dargwa (Mekegi dialect),1745,урдур,CyrillTrans,hip,,,urdur,Phonemic
+4-462-509-1,darg1241,Dargwa (Mekegi dialect),1681,рай,CyrillTrans,waist,,,ray,Phonemic
+4-461-509-1,darg1241,Dargwa (Mekegi dialect),1991,руд,CyrillTrans,"intestines, guts",,,rud,Phonemic
+4-460-509-1,darg1241,Dargwa (Mekegi dialect),819,умхитІ,CyrillTrans,stomach,,,"umxit’, čimqa",Phonemic
+4-460-509-3,darg1241,Dargwa (Mekegi dialect),819,чимхъа,CyrillTrans,stomach,,,"umxit’, čimqa",Phonemic
+4-452-509-1,darg1241,Dargwa (Mekegi dialect),1744,кІацІ,CyrillTrans,spleen,,,k’ac’,Phonemic
+4-451-509-1,darg1241,Dargwa (Mekegi dialect),489,урцец,CyrillTrans,kidney,,,urcec,Phonemic
+4-450-509-1,darg1241,Dargwa (Mekegi dialect),1224,дулекІ,CyrillTrans,liver,,,dulek’,Phonemic
+4-441-509-1,darg1241,Dargwa (Mekegi dialect),688,хургьре,CyrillTrans,lung,,,xurhre,Phonemic
+4-440-509-1,darg1241,Dargwa (Mekegi dialect),1223,уркІи,CyrillTrans,heart,,,urk’i,Phonemic
+4-430-509-1,darg1241,Dargwa (Mekegi dialect),1838,утІи,CyrillTrans,navel,,,ut’i,Phonemic
+4-420-509-1,darg1241,Dargwa (Mekegi dialect),154,бурхІе,CyrillTrans,udder,,,burħe,Phonemic
+4-412-509-1,darg1241,Dargwa (Mekegi dialect),796,мама,CyrillTrans,"nipple, teat",,,mama,Phonemic
+4-410-509-1,darg1241,Dargwa (Mekegi dialect),1402,михъири,CyrillTrans,breast (of woman),,,miqiri,Phonemic
+4-400-509-1,darg1241,Dargwa (Mekegi dialect),1592,михъирла лига,CyrillTrans,chest,,,miqirla liga,Phonemic
+4-393-509-1,darg1241,Dargwa (Mekegi dialect),1201,пухІяла,CyrillTrans,feather,,,puħaˤla,Phonemic
+4-392-509-1,darg1241,Dargwa (Mekegi dialect),1257,дукала,CyrillTrans,wing,,,dukala,Phonemic
+4-380-509-1,darg1241,Dargwa (Mekegi dialect),1389,губул,CyrillTrans,toe,,,gubul,Phonemic
+4-374-509-1,darg1241,Dargwa (Mekegi dialect),318,кьвяшла къял,CyrillTrans,footprint,,,q’ʷaˤšla Gaˤl,Phonemic
+4-372-509-1,darg1241,Dargwa (Mekegi dialect),980,кьячІа кьвяш,CyrillTrans,heel,,,q’aˤč’a q’ʷaˤš,Phonemic
+4-371-509-1,darg1241,Dargwa (Mekegi dialect),803,кьвяшла хъаб,CyrillTrans,ankle,,,q’ʷaˤšla qab,Phonemic
+4-370-509-1,darg1241,Dargwa (Mekegi dialect),1301,бекІ кьвяш,CyrillTrans,foot,,,bek’ q’ʷaˤš,Phonemic
+4-360-509-1,darg1241,Dargwa (Mekegi dialect),1371,кьукьа,CyrillTrans,knee,,,q’uq’a,Phonemic
+4-352-509-1,darg1241,Dargwa (Mekegi dialect),498,квани кьвяш,CyrillTrans,calf of leg,,,kʷani q’ʷaˤš,Phonemic
+4-351-509-1,darg1241,Dargwa (Mekegi dialect),800,урдур,CyrillTrans,thigh,,,urdur,Phonemic
+4-350-509-1,darg1241,Dargwa (Mekegi dialect),1297,кьвяш,CyrillTrans,leg,,,q’ʷaˤš,Phonemic
+4-345-509-1,darg1241,Dargwa (Mekegi dialect),72,никва,CyrillTrans,claw,,,nikʷa,Phonemic
+4-344-509-1,darg1241,Dargwa (Mekegi dialect),1258,никва,CyrillTrans,fingernail,,,nikʷa,Phonemic
+4-342-509-1,darg1241,Dargwa (Mekegi dialect),1781,хвала тІул,CyrillTrans,thumb,,,xʷala t’ul,Phonemic
+4-340-509-1,darg1241,Dargwa (Mekegi dialect),1303,тІул,CyrillTrans,finger,,,t’ul,Phonemic
+4-331-509-1,darg1241,Dargwa (Mekegi dialect),1183,хъат някь,CyrillTrans,palm of hand,,,qat naˤG,Phonemic
+4-330-509-1,darg1241,Dargwa (Mekegi dialect),1277,бекІ някъ,CyrillTrans,hand,,,bek’ naˤG,Phonemic
+4-321-509-1,darg1241,Dargwa (Mekegi dialect),799,хъяб някъ,CyrillTrans,wrist,,,qaˤb naˤG,Phonemic
+4-320-509-1,darg1241,Dargwa (Mekegi dialect),981,газа някъ,CyrillTrans,elbow,,,gaza naˤG,Phonemic
+4-312-509-1,darg1241,Dargwa (Mekegi dialect),1886,шейу дукъ,CyrillTrans,armpit,,,šeyu duG,Phonemic
+4-310-509-1,darg1241,Dargwa (Mekegi dialect),1673,някъ,CyrillTrans,arm,,,naˤG,Phonemic
+4-302-509-1,darg1241,Dargwa (Mekegi dialect),1994,хъуцІарла лига,CyrillTrans,collarbone,,,quc’arla liga,Phonemic
+4-301-509-1,darg1241,Dargwa (Mekegi dialect),172,гьагьай кІатІа,CyrillTrans,shoulderblade,,,hahay k’at’a,Phonemic
+4-300-509-1,darg1241,Dargwa (Mekegi dialect),1482,хъуцІари,CyrillTrans,shoulder,,,quc’ari,Phonemic
+4-290-509-1,darg1241,Dargwa (Mekegi dialect),1346,сус-кьакьари,CyrillTrans,throat,,,sus-q’aq’ari,Phonemic
+4-281-509-1,darg1241,Dargwa (Mekegi dialect),1347,хъвянтІа,CyrillTrans,nape of neck,,,qʷaˤnt’a,Phonemic
+4-280-509-1,darg1241,Dargwa (Mekegi dialect),1333,хъяб,CyrillTrans,neck,,,qaˤb,Phonemic
+4-272-509-1,darg1241,Dargwa (Mekegi dialect),1049,кьваси цула,CyrillTrans,molartooth,,,q’ʷasi cula,Phonemic
+4-270-509-1,darg1241,Dargwa (Mekegi dialect),1380,цула,CyrillTrans,tooth,,,cula,Phonemic
+4-271-509-1,darg1241,Dargwa (Mekegi dialect),139,цулбала кІвенчІубе,CyrillTrans,gums,,,culbala k’ʷenč’ube,Phonemic
+4-260-509-1,darg1241,Dargwa (Mekegi dialect),1205,лизми,CyrillTrans,tongue,,,lizmi,Phonemic
+4-250-509-1,darg1241,Dargwa (Mekegi dialect),478,кІентІ,CyrillTrans,lip,,,k’ent’,Phonemic
+4-241-509-1,darg1241,Dargwa (Mekegi dialect),73,къуд-къуди,CyrillTrans,beak,,,Gud-Gudi,Phonemic
+4-240-509-1,darg1241,Dargwa (Mekegi dialect),674,мухІли,CyrillTrans,mouth,,,muħli,Phonemic
+4-232-509-1,darg1241,Dargwa (Mekegi dialect),208,хъутне,CyrillTrans,mucus (nasal),,,qutne,Phonemic
+4-231-509-1,darg1241,Dargwa (Mekegi dialect),1178,къвянкъла тІели,CyrillTrans,nostril,,,GʷaˤnGla t’eli,Phonemic
+4-230-509-1,darg1241,Dargwa (Mekegi dialect),1221,къвянкъ,CyrillTrans,nose,,,GʷaˤnG,Phonemic
+4-222-509-1,darg1241,Dargwa (Mekegi dialect),32,лихІила жяргне,CyrillTrans,earwax,,,liħila žaˤrgne,Phonemic
+4-221-509-1,darg1241,Dargwa (Mekegi dialect),18,лихІила хьар,CyrillTrans,earlobe,,,liħila x̌ar,Phonemic
+4-220-509-1,darg1241,Dargwa (Mekegi dialect),1247,лихІи,CyrillTrans,ear,,,liħi,Phonemic
+4-215-509-1,darg1241,Dargwa (Mekegi dialect),1655,цІивизес,CyrillTrans,blink,,,c’iwizes,Phonemic
+4-214-509-1,darg1241,Dargwa (Mekegi dialect),1540,чІимичІала,CyrillTrans,eyelash,,,č’imič’ala,Phonemic
+4-213-509-1,darg1241,Dargwa (Mekegi dialect),17,хІулила кьяпІикван,CyrillTrans,eyelid,,,ħulila q’aˤp’ikʷan,Phonemic
+4-212-509-1,darg1241,Dargwa (Mekegi dialect),1173,нед,CyrillTrans,eyebrow,,,ned,Phonemic
+4-210-509-1,darg1241,Dargwa (Mekegi dialect),1248,хІули,CyrillTrans,eye,,,ħuli,Phonemic
+4-208-509-1,darg1241,Dargwa (Mekegi dialect),1730,ляжи,CyrillTrans,cheek,,,laˤži,Phonemic
+4-209-509-1,darg1241,Dargwa (Mekegi dialect),1510,муцІур,CyrillTrans,chin,,,muc’ur,Phonemic
+4-205-509-1,darg1241,Dargwa (Mekegi dialect),123,анда,CyrillTrans,forehead,,,anda,Phonemic
+4-207-509-1,darg1241,Dargwa (Mekegi dialect),798,хъяй-хъяй,CyrillTrans,jaw,,,qaˤy-qaˤy,Phonemic
+4-204-509-1,darg1241,Dargwa (Mekegi dialect),1560,бяхІ,CyrillTrans,face,,,baˤħ,Phonemic
+4-203-509-1,darg1241,Dargwa (Mekegi dialect),1583,мехІе,CyrillTrans,brain,,,meħe,Phonemic
+4-201-509-1,darg1241,Dargwa (Mekegi dialect),1604,шямшитІан,CyrillTrans,"side of head, temple",,,šaˤmšit’an,Phonemic
+4-202-509-1,darg1241,Dargwa (Mekegi dialect),1605,бекІла вакъ,CyrillTrans,skull,,,bek’la waG,Phonemic
+4-200-509-1,darg1241,Dargwa (Mekegi dialect),1256,бекІ,CyrillTrans,head,,,bek’,Phonemic
+4-191-509-1,darg1241,Dargwa (Mekegi dialect),805,къакъла лига,CyrillTrans,spine,,,GaGla liga,Phonemic
+4-190-509-1,darg1241,Dargwa (Mekegi dialect),1291,къакъ,CyrillTrans,back,,,GaG,Phonemic
+4-180-509-1,darg1241,Dargwa (Mekegi dialect),1220,къуйрукъ,CyrillTrans,tail,,,GuyruG,Phonemic
+4-170-509-1,darg1241,Dargwa (Mekegi dialect),1393,мукеки,CyrillTrans,horn,,,mukeki,Phonemic
+4-162-509-1,darg1241,Dargwa (Mekegi dialect),801,бургъунла лига,CyrillTrans,rib,,,burɣunla liga,Phonemic
+4-160-509-1,darg1241,Dargwa (Mekegi dialect),1394,лига,CyrillTrans,bone,,,liga,Phonemic
+4-151-509-1,darg1241,Dargwa (Mekegi dialect),525,хІила туме,CyrillTrans,"vein, artery",,,ħila tume,Phonemic
+4-150-509-1,darg1241,Dargwa (Mekegi dialect),946,хІи,CyrillTrans,blood,,,ħi,Phonemic
+4-146-509-1,darg1241,Dargwa (Mekegi dialect),576,пусли,CyrillTrans,dandruff,,,pusli,Phonemic
+4-145-509-1,darg1241,Dargwa (Mekegi dialect),36,гъиз,CyrillTrans,pubic hair,,,ɣiz,Phonemic
+4-144-509-1,darg1241,Dargwa (Mekegi dialect),189,кьаркьайкерте гъиз,CyrillTrans,body hair,,,q’arq’aykerte ɣiz,Phonemic
+4-142-509-1,darg1241,Dargwa (Mekegi dialect),678,муцІур,CyrillTrans,beard,,,muc’ur,Phonemic
+4-140-509-1,darg1241,Dargwa (Mekegi dialect),1040,бекІла гъез,CyrillTrans,hair (head),,,bek’la ɣez,Phonemic
+4-130-509-1,darg1241,Dargwa (Mekegi dialect),2259,кьаркьадиъ,CyrillTrans,flesh,,,q’arq’adiʔ,Phonemic
+4-120-509-1,darg1241,Dargwa (Mekegi dialect),763,кам,CyrillTrans,"skin, hide",,,"kam, guli",Phonemic
+4-120-509-3,darg1241,Dargwa (Mekegi dialect),763,гули,CyrillTrans,"skin, hide",,,"kam, guli",Phonemic
+4-110-509-1,darg1241,Dargwa (Mekegi dialect),1480,кьаркьала,CyrillTrans,body,,,q’arq’ala,Phonemic
+3-980-509-1,darg1241,Dargwa (Mekegi dialect),112,вакъбегІ гІятІа,CyrillTrans,turtle,,,waGbeʕ ʕaˤt’a,Phonemic
+3-970-509-1,darg1241,Dargwa (Mekegi dialect),1857,аждагьа,CyrillTrans,"crocodile, alligator",,,"aždaha, krokodil",Phonemic
+3-970-509-3,darg1241,Dargwa (Mekegi dialect),1857,крокодил,CyrillTrans,"crocodile, alligator",,,"aždaha, krokodil",Phonemic
+3-960-509-1,darg1241,Dargwa (Mekegi dialect),632,хІелхъа,CyrillTrans,lizard,,,ħelqa,Phonemic
+3-950-509-1,darg1241,Dargwa (Mekegi dialect),503,гІятІа,CyrillTrans,frog,,,ʕaˤt’a,Phonemic
+3-940-509-1,darg1241,Dargwa (Mekegi dialect),1543,хъутимилякъ,CyrillTrans,snail,,,qutimilaˤG,Phonemic
+3-930-509-1,darg1241,Dargwa (Mekegi dialect),607,цІерцІ,CyrillTrans,grasshopper,,,c’erc’,Phonemic
+3-920-509-1,darg1241,Dargwa (Mekegi dialect),1791,къабилдан,CyrillTrans,butterfly,,,Gabildan,Phonemic
+3-910-509-1,darg1241,Dargwa (Mekegi dialect),206,дугели ухан,CyrillTrans,firefly,,,dugeli uxan,Phonemic
+3-850-509-1,darg1241,Dargwa (Mekegi dialect),730,чІичІа,CyrillTrans,snake,,,č’ič’a,Phonemic
+3-840-509-1,darg1241,Dargwa (Mekegi dialect),1219,милякъ,CyrillTrans,worm,,,milaˤG,Phonemic
+3-832-509-1,darg1241,Dargwa (Mekegi dialect),1509,хІуръ,CyrillTrans,mosquito,,,ħurʔ,Phonemic
+3-831-509-1,darg1241,Dargwa (Mekegi dialect),95,хІуръ,CyrillTrans,"sandfly (midge), gnat",,,ħurʔ,Phonemic
+3-830-509-1,darg1241,Dargwa (Mekegi dialect),1504,тІентІ,CyrillTrans,fly,,,t’ent’,Phonemic
+3-823-509-1,darg1241,Dargwa (Mekegi dialect),1517,дугІла мирхъи,CyrillTrans,wasp,,,duʕla mirqi,Phonemic
+3-822-509-1,darg1241,Dargwa (Mekegi dialect),88,мирхъила хъали,CyrillTrans,beehive,,,mirqila qali,Phonemic
+3-821-509-1,darg1241,Dargwa (Mekegi dialect),1931,мурчІели,CyrillTrans,beeswax,,,murč’eli,Phonemic
+3-820-509-1,darg1241,Dargwa (Mekegi dialect),665,мирхъи,CyrillTrans,bee,,,mirqi,Phonemic
+3-819-509-1,darg1241,Dargwa (Mekegi dialect),1065,хъисхъварла хъали,CyrillTrans,spider web,,,qisqʷarla qali,Phonemic
+3-818-509-1,darg1241,Dargwa (Mekegi dialect),843,хъисихъвар,CyrillTrans,spider,,,qisiqʷar,Phonemic
+3-817-509-1,darg1241,Dargwa (Mekegi dialect),587,имиала,CyrillTrans,ant,,,imiala,Phonemic
+3-816-509-1,darg1241,Dargwa (Mekegi dialect),1575,шагьарла тусухІер,CyrillTrans,cockroach,,,šaharla tusuħer,Phonemic
+3-815-509-1,darg1241,Dargwa (Mekegi dialect),1538,кьякьраб,CyrillTrans,scorpion,,,q’aˤq’rab,Phonemic
+3-814-509-1,darg1241,Dargwa (Mekegi dialect),1974,даршкьвяш,CyrillTrans,centipede,,,daršq’ʷaˤš,Phonemic
+3-813-509-1,darg1241,Dargwa (Mekegi dialect),232,цІиква,CyrillTrans,flea,,,c’ikʷa,Phonemic
+3-812-509-1,darg1241,Dargwa (Mekegi dialect),267,кьи,CyrillTrans,nit (louse egg),,,q’i,Phonemic
+3-811-509-1,darg1241,Dargwa (Mekegi dialect),1392,неръ,CyrillTrans,louse,,,nerʔ,Phonemic
+3-810-509-1,darg1241,Dargwa (Mekegi dialect),620,милякъ,CyrillTrans,insect,,,milaˤG,Phonemic
+3-780-509-1,darg1241,Dargwa (Mekegi dialect),1871,валри,CyrillTrans,camel,,,walri,Phonemic
+3-770-509-1,darg1241,Dargwa (Mekegi dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-509-1,darg1241,Dargwa (Mekegi dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-509-1,darg1241,Dargwa (Mekegi dialect),1936,пурс,CyrillTrans,deer,,,"purs, kʷaˤca",Phonemic
+3-750-509-3,darg1241,Dargwa (Mekegi dialect),1936,квяца,CyrillTrans,deer,,,"purs, kʷaˤca",Phonemic
+3-740-509-1,darg1241,Dargwa (Mekegi dialect),1312,гурда,CyrillTrans,fox,,,gurda,Phonemic
+3-730-509-1,darg1241,Dargwa (Mekegi dialect),1820,синка,CyrillTrans,bear,,,sinka,Phonemic
+3-720-509-1,darg1241,Dargwa (Mekegi dialect),1386,арслан-къаплан,CyrillTrans,lion,,,arslan-Gaplan,Phonemic
+3-710-509-1,darg1241,Dargwa (Mekegi dialect),522,бецІ,CyrillTrans,wolf,,,bec’,Phonemic
+3-664-509-1,darg1241,Dargwa (Mekegi dialect),1910,ургьула хвя,CyrillTrans,stingray,,,urhula xʷaˤ,Phonemic
+3-663-509-1,darg1241,Dargwa (Mekegi dialect),957,къуртІма,CyrillTrans,whale,,,"Gurt’ma, kit",Phonemic
+3-663-509-3,darg1241,Dargwa (Mekegi dialect),957,кит,CyrillTrans,whale,,,"Gurt’ma, kit",Phonemic
+3-662-509-1,darg1241,Dargwa (Mekegi dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-509-1,darg1241,Dargwa (Mekegi dialect),1110,чебулхъан бялихъ,CyrillTrans,shark,,,"čebulqan byaˤliq, akula",Phonemic
+3-661-509-3,darg1241,Dargwa (Mekegi dialect),1110,акула,CyrillTrans,shark,,,"čebulqan byaˤliq, akula",Phonemic
+3-655-509-1,darg1241,Dargwa (Mekegi dialect),598,гъяличІан,CyrillTrans,shell,,,ɣaˤlič’an,Phonemic
+3-653-509-1,darg1241,Dargwa (Mekegi dialect),266,бялихъла кам,CyrillTrans,fishscale,,,baˤliqla kam,Phonemic
+3-652-509-1,darg1241,Dargwa (Mekegi dialect),213,бялихъла дукала,CyrillTrans,fin (dorsal),,,baˤliqla dukala,Phonemic
+3-650-509-1,darg1241,Dargwa (Mekegi dialect),227,бялихъ,CyrillTrans,fish,,,baˤliq,Phonemic
+3-630-509-1,darg1241,Dargwa (Mekegi dialect),2139,ваца,CyrillTrans,"mouse, rat",,,"waca, q’urgu waca",Phonemic
+3-630-509-3,darg1241,Dargwa (Mekegi dialect),2139,кьургу ваца,CyrillTrans,"mouse, rat",,,"waca, q’urgu waca",Phonemic
+3-620-509-1,darg1241,Dargwa (Mekegi dialect),1208,гата,CyrillTrans,cat,,,gata,Phonemic
+3-614-509-1,darg1241,Dargwa (Mekegi dialect),1136,гІери,CyrillTrans,rabbit,,,ʕeri,Phonemic
+3-610-509-1,darg1241,Dargwa (Mekegi dialect),2009,хъвя,CyrillTrans,dog,,,qʷaˤ,Phonemic
+3-594-509-1,darg1241,Dargwa (Mekegi dialect),1853,лава,CyrillTrans,dove,,,lawa,Phonemic
+3-596-509-1,darg1241,Dargwa (Mekegi dialect),735,тІуми,CyrillTrans,owl,,,t’umi,Phonemic
+3-593-509-1,darg1241,Dargwa (Mekegi dialect),913,къяна,CyrillTrans,crow,,,Gaˤna,Phonemic
+3-592-509-1,darg1241,Dargwa (Mekegi dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-509-1,darg1241,Dargwa (Mekegi dialect),1793,йари дукала,CyrillTrans,bat,,,"yari dukala, pada",Phonemic
+3-591-509-3,darg1241,Dargwa (Mekegi dialect),1793,пада,CyrillTrans,bat,,,"yari dukala, pada",Phonemic
+3-586-509-1,darg1241,Dargwa (Mekegi dialect),1185,чІака,CyrillTrans,vulture,,,č’aka,Phonemic
+3-585-509-1,darg1241,Dargwa (Mekegi dialect),307,къиргъу,CyrillTrans,hawk,,,"Girɣu, lačin",Phonemic
+3-585-509-3,darg1241,Dargwa (Mekegi dialect),307,лачин,CyrillTrans,hawk,,,"Girɣu, lačin",Phonemic
+3-584-509-1,darg1241,Dargwa (Mekegi dialect),1905,чІака,CyrillTrans,eagle,,,č’aka,Phonemic
+3-582-509-1,darg1241,Dargwa (Mekegi dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-509-1,darg1241,Dargwa (Mekegi dialect),758,арцан,CyrillTrans,heron,,,"arcan, čaˤka",Phonemic
+3-583-509-3,darg1241,Dargwa (Mekegi dialect),758,чяка,CyrillTrans,heron,,,"arcan, čaˤka",Phonemic
+3-581-509-1,darg1241,Dargwa (Mekegi dialect),937,арцан,CyrillTrans,bird,,,arcan,Phonemic
+3-580-509-1,darg1241,Dargwa (Mekegi dialect),539,пукьа,CyrillTrans,nest,,,puq’a,Phonemic
+3-570-509-1,darg1241,Dargwa (Mekegi dialect),1360,бятІ-бятІ,CyrillTrans,duck,,,baˤt’-baˤt’,Phonemic
+3-560-509-1,darg1241,Dargwa (Mekegi dialect),1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-509-1,darg1241,Dargwa (Mekegi dialect),1318,чІикІа,CyrillTrans,chicken,,,č’ik’a,Phonemic
+3-540-509-1,darg1241,Dargwa (Mekegi dialect),1514,гІергІе,CyrillTrans,hen,,,ʕerʕe,Phonemic
+3-520-509-1,darg1241,Dargwa (Mekegi dialect),1511,дагъва,CyrillTrans,"cock, rooster",,,daɣʷa,Phonemic
+3-470-509-1,darg1241,Dargwa (Mekegi dialect),890,хІемхІелрухъ,CyrillTrans,mule,,,ħemħelruq,Phonemic
+3-500-509-1,darg1241,Dargwa (Mekegi dialect),265,гІергІе-чІикІа,CyrillTrans,fowl,,,ʕerʕe-č’ik’a,Phonemic
+3-460-509-1,darg1241,Dargwa (Mekegi dialect),1862,хІемхІе,CyrillTrans,"ass, donkey",,,ħemħe,Phonemic
+3-450-509-1,darg1241,Dargwa (Mekegi dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˤy,Phonemic
+3-440-509-1,darg1241,Dargwa (Mekegi dialect),938,гваза,CyrillTrans,mare,,,gʷaza,Phonemic
+3-420-509-1,darg1241,Dargwa (Mekegi dialect),936,урчи,CyrillTrans,stallion,,,"urči, ayɣir",Phonemic
+3-420-509-3,darg1241,Dargwa (Mekegi dialect),936,айгъир,CyrillTrans,stallion,,,"urči, ayɣir",Phonemic
+3-410-509-1,darg1241,Dargwa (Mekegi dialect),615,йабу,CyrillTrans,horse (equine),,,"yabu, urči",Phonemic
+3-410-509-3,darg1241,Dargwa (Mekegi dialect),615,урчи,CyrillTrans,horse (equine),,,"yabu, urči",Phonemic
+3-380-509-1,darg1241,Dargwa (Mekegi dialect),1972,гежба,CyrillTrans,kid,,,gežba,Phonemic
+3-370-509-1,darg1241,Dargwa (Mekegi dialect),264,кьяца,CyrillTrans,he-goat,,,q’aˤca,Phonemic
+3-360-509-1,darg1241,Dargwa (Mekegi dialect),1502,гІежа,CyrillTrans,goat,,,ʕeža,Phonemic
+3-350-509-1,darg1241,Dargwa (Mekegi dialect),1337,цура,CyrillTrans,pig,,,cura,Phonemic
+3-340-509-1,darg1241,Dargwa (Mekegi dialect),1351,гважа цура,CyrillTrans,sow (2),,,gʷaža cura,Phonemic
+3-320-509-1,darg1241,Dargwa (Mekegi dialect),1348,дугІла цура,CyrillTrans,boar,,,"duʕla cura, Gaban",Phonemic
+3-320-509-3,darg1241,Dargwa (Mekegi dialect),1348,къабан,CyrillTrans,boar,,,"duʕla cura, Gaban",Phonemic
+3-290-509-1,darg1241,Dargwa (Mekegi dialect),820,мукьара,CyrillTrans,lamb,,,muq’ara,Phonemic
+3-280-509-1,darg1241,Dargwa (Mekegi dialect),1345,жакъа,CyrillTrans,ewe,,,žaGa,Phonemic
+3-260-509-1,darg1241,Dargwa (Mekegi dialect),1344,куйа,CyrillTrans,ram,,,kuya,Phonemic
+3-250-509-1,darg1241,Dargwa (Mekegi dialect),1331,маза,CyrillTrans,sheep,,,maza,Phonemic
+3-240-509-1,darg1241,Dargwa (Mekegi dialect),1989,къача,CyrillTrans,calf,,,Gača,Phonemic
+3-230-509-1,darg1241,Dargwa (Mekegi dialect),1007,кьвял,CyrillTrans,cow,,,q’ʷaˤl,Phonemic
+3-220-509-1,darg1241,Dargwa (Mekegi dialect),1169,унц,CyrillTrans,ox,,,unc,Phonemic
+3-210-509-1,darg1241,Dargwa (Mekegi dialect),1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-509-1,darg1241,Dargwa (Mekegi dialect),1153,хІяйванте,CyrillTrans,cattle (bovine),,,ħaˤywante,Phonemic
+3-190-509-1,darg1241,Dargwa (Mekegi dialect),851,йабнала дерхъ,CyrillTrans,"stable, stall",,,yabnala derq,Phonemic
+3-180-509-1,darg1241,Dargwa (Mekegi dialect),263,хІенкьула,CyrillTrans,herdsman,,,ħenq’ula,Phonemic
+3-160-509-1,darg1241,Dargwa (Mekegi dialect),649,дуки-гьуни,CyrillTrans,pasture,,,duki-huni,Phonemic
+3-150-509-1,darg1241,Dargwa (Mekegi dialect),631,хъа мицІираг,CyrillTrans,livestock,,,qa mic’irag,Phonemic
+3-130-509-1,darg1241,Dargwa (Mekegi dialect),2262,гьунул,CyrillTrans,female (adj),,,"hunul, gʷaža",Phonemic
+3-130-509-3,darg1241,Dargwa (Mekegi dialect),2262,гважа,CyrillTrans,female (adj),,,"hunul, gʷaža",Phonemic
+3-120-509-1,darg1241,Dargwa (Mekegi dialect),2261,мурул,CyrillTrans,male (adj),,,"murul, marga",Phonemic
+3-120-509-3,darg1241,Dargwa (Mekegi dialect),2261,марга,CyrillTrans,male (adj),,,"murul, marga",Phonemic
+3-110-509-1,darg1241,Dargwa (Mekegi dialect),619,мицІираг,CyrillTrans,animal,,,mic’irag,Phonemic
+2-960-509-1,darg1241,Dargwa (Mekegi dialect),817,итди,CyrillTrans,they,,,itdi,Phonemic
+2-950-509-1,darg1241,Dargwa (Mekegi dialect),1213,хІуша,CyrillTrans,you (plural),,,ħuša,Phonemic
+2-940-509-1,darg1241,Dargwa (Mekegi dialect),1212,нуша,CyrillTrans,we,,,nuša,Phonemic
+2-930-509-1,darg1241,Dargwa (Mekegi dialect),262,ит,CyrillTrans,he/she/it,,,it,Phonemic
+2-920-509-1,darg1241,Dargwa (Mekegi dialect),1215,хІу,CyrillTrans,you (singular),,,ħu,Phonemic
+2-910-509-1,darg1241,Dargwa (Mekegi dialect),1209,ну,CyrillTrans,I,,,nu,Phonemic
+2-820-509-1,darg1241,Dargwa (Mekegi dialect),194,хъалибарг,CyrillTrans,family,,,qalibarg,Phonemic
+2-810-509-1,darg1241,Dargwa (Mekegi dialect),1644,кецте,CyrillTrans,"relatives, kinsmen",,,kecte,Phonemic
+2-770-509-1,darg1241,Dargwa (Mekegi dialect),1981,гамъа,CyrillTrans,widower,,,gamʔa,Phonemic
+2-760-509-1,darg1241,Dargwa (Mekegi dialect),1756,гамъа,CyrillTrans,widow,,,gamʔa,Phonemic
+2-750-509-1,darg1241,Dargwa (Mekegi dialect),1149,цІуръа,CyrillTrans,orphan,,,c’urʔa,Phonemic
+2-740-509-1,darg1241,Dargwa (Mekegi dialect),1058,убай рурси,CyrillTrans,stepdaughter,,,ubay rursi,Phonemic
+2-730-509-1,darg1241,Dargwa (Mekegi dialect),1059,угай дерхІе,CyrillTrans,stepson,,,ugay derħe,Phonemic
+2-720-509-1,darg1241,Dargwa (Mekegi dialect),236,угай аба,CyrillTrans,stepmother,,,ugay aba,Phonemic
+2-710-509-1,darg1241,Dargwa (Mekegi dialect),237,угай ада,CyrillTrans,stepfather,,,ugay ada,Phonemic
+2-641-509-1,darg1241,Dargwa (Mekegi dialect),2264,узила гьунул,CyrillTrans,daughter-in-law (of a woman),,,"uzila hunul, derħela hunul",Phonemic
+2-641-509-3,darg1241,Dargwa (Mekegi dialect),2264,дерхІела гьунул,CyrillTrans,daughter-in-law (of a woman),,,"uzila hunul, derħela hunul",Phonemic
+2-640-509-1,darg1241,Dargwa (Mekegi dialect),2265,дерхІела гьунул,CyrillTrans,daughter-in-law (of a man),,,derħela hunul,Phonemic
+2-631-509-1,darg1241,Dargwa (Mekegi dialect),2266,гуйав,CyrillTrans,son-in-law (of a woman),,,guyaw,Phonemic
+2-630-509-1,darg1241,Dargwa (Mekegi dialect),2267,гуйав,CyrillTrans,son-in-law (of a man),,,guyaw,Phonemic
+2-621-509-1,darg1241,Dargwa (Mekegi dialect),2257,хъубеш аба,CyrillTrans,mother-in-law (of a woman),,,qubeš aba,Phonemic
+2-620-509-1,darg1241,Dargwa (Mekegi dialect),2256,хъубеш аба,CyrillTrans,mother-in-law (of a man),,,qubeš aba,Phonemic
+2-611-509-1,darg1241,Dargwa (Mekegi dialect),2254,хъубеш ада,CyrillTrans,father-in-law (of a woman),,,qubeš ada,Phonemic
+2-610-509-1,darg1241,Dargwa (Mekegi dialect),2255,хъубеш ада,CyrillTrans,father-in-law (of a man),,,qubeš ada,Phonemic
+2-570-509-1,darg1241,Dargwa (Mekegi dialect),490,наслу,CyrillTrans,descendants,,,naslu,Phonemic
+2-560-509-1,darg1241,Dargwa (Mekegi dialect),1669,бегІте,CyrillTrans,ancestors,,,beʕte,Phonemic
+2-550-509-1,darg1241,Dargwa (Mekegi dialect),1643,узикьар,CyrillTrans,cousin,,,"uziq’ar, ruziq’ar",Phonemic
+2-550-509-3,darg1241,Dargwa (Mekegi dialect),1643,рузикьар,CyrillTrans,cousin,,,"uziq’ar, ruziq’ar",Phonemic
+2-540-509-1,darg1241,Dargwa (Mekegi dialect),1642,узила рурси,CyrillTrans,niece,,,"uzila rursi, ruzila rursi",Phonemic
+2-540-509-3,darg1241,Dargwa (Mekegi dialect),1642,рузила рурси,CyrillTrans,niece,,,"uzila rursi, ruzila rursi",Phonemic
+2-530-509-1,darg1241,Dargwa (Mekegi dialect),1063,узила дерхІе,CyrillTrans,nephew,,,"uzila derħe, ruzila derħe",Phonemic
+2-530-509-3,darg1241,Dargwa (Mekegi dialect),1063,рузила дерхІе,CyrillTrans,nephew,,,"uzila derħe, ruzila derħe",Phonemic
+2-522-509-1,darg1241,Dargwa (Mekegi dialect),170,зизи,CyrillTrans,father's sister,,,"zizi, adala ruzi",Phonemic
+2-522-509-3,darg1241,Dargwa (Mekegi dialect),170,адала рузи,CyrillTrans,father's sister,,,"zizi, adala ruzi",Phonemic
+2-520-509-1,darg1241,Dargwa (Mekegi dialect),1272,зизи,CyrillTrans,aunt,,,zizi,Phonemic
+2-521-509-1,darg1241,Dargwa (Mekegi dialect),171,зизи,CyrillTrans,mother's sister,,,"zizi, abala ruzi",Phonemic
+2-521-509-3,darg1241,Dargwa (Mekegi dialect),171,абала рузи,CyrillTrans,mother's sister,,,"zizi, abala ruzi",Phonemic
+2-512-509-1,darg1241,Dargwa (Mekegi dialect),1985,изи,CyrillTrans,father's brother,,,"izi, adauzi",Phonemic
+2-512-509-3,darg1241,Dargwa (Mekegi dialect),1985,адаузи,CyrillTrans,father's brother,,,"izi, adauzi",Phonemic
+2-511-509-1,darg1241,Dargwa (Mekegi dialect),1984,изи,CyrillTrans,mother's brother,,,"izi, abauzi",Phonemic
+2-511-509-3,darg1241,Dargwa (Mekegi dialect),1984,абаузи,CyrillTrans,mother's brother,,,"izi, abauzi",Phonemic
+2-510-509-1,darg1241,Dargwa (Mekegi dialect),1327,изи,CyrillTrans,uncle,,,izi,Phonemic
+2-480-509-1,darg1241,Dargwa (Mekegi dialect),1618,дерхІела дерхІе,CyrillTrans,grandson,,,"derħela derħe, rursila derħe",Phonemic
+2-480-509-3,darg1241,Dargwa (Mekegi dialect),1618,рурсила дерхІе,CyrillTrans,grandson,,,"derħela derħe, rursila derħe",Phonemic
+2-490-509-1,darg1241,Dargwa (Mekegi dialect),1619,дерхІела рурси,CyrillTrans,granddaughter,,,"derħela rursi, rursila rursi",Phonemic
+2-490-509-3,darg1241,Dargwa (Mekegi dialect),1619,рурсила рурси,CyrillTrans,granddaughter,,,"derħela rursi, rursila rursi",Phonemic
+2-471-509-1,darg1241,Dargwa (Mekegi dialect),907,рухъна,CyrillTrans,old woman,,,ruqna,Phonemic
+2-470-509-1,darg1241,Dargwa (Mekegi dialect),1496,адала аба,CyrillTrans,grandmother,,,"adala aba, abala aba",Phonemic
+2-470-509-3,darg1241,Dargwa (Mekegi dialect),1496,абала аба,CyrillTrans,grandmother,,,"adala aba, abala aba",Phonemic
+2-461-509-1,darg1241,Dargwa (Mekegi dialect),406,ухъна,CyrillTrans,old man,,,uqna,Phonemic
+2-460-509-1,darg1241,Dargwa (Mekegi dialect),1383,адала ада,CyrillTrans,grandfather,,,"adala ada, abala ada",Phonemic
+2-460-509-3,darg1241,Dargwa (Mekegi dialect),1383,абала ада,CyrillTrans,grandfather,,,"adala ada, abala ada",Phonemic
+2-458-509-1,darg1241,Dargwa (Mekegi dialect),1005,кІвилизанте,CyrillTrans,twins,,,k’ʷilizante,Phonemic
+2-456-509-1,darg1241,Dargwa (Mekegi dialect),1640,узи,CyrillTrans,sibling,,,"uzi, ruzi",Phonemic
+2-456-509-3,darg1241,Dargwa (Mekegi dialect),1640,рузи,CyrillTrans,sibling,,,"uzi, ruzi",Phonemic
+2-455-509-1,darg1241,Dargwa (Mekegi dialect),1761,риштІал рузи,CyrillTrans,younger sister,,,rišt’al ruzi,Phonemic
+2-454-509-1,darg1241,Dargwa (Mekegi dialect),1758,хвалал рузи,CyrillTrans,older sister,,,xʷalal ruzi,Phonemic
+2-450-509-1,darg1241,Dargwa (Mekegi dialect),1263,рузи,CyrillTrans,sister,,,ruzi,Phonemic
+2-445-509-1,darg1241,Dargwa (Mekegi dialect),1760,иштІал узи,CyrillTrans,younger brother,,,išt’al uzi,Phonemic
+2-444-509-1,darg1241,Dargwa (Mekegi dialect),1759,хвалал узи,CyrillTrans,older brother,,,xʷalal uzi,Phonemic
+2-440-509-1,darg1241,Dargwa (Mekegi dialect),1262,узи,CyrillTrans,brother,,,uzi,Phonemic
+2-430-509-1,darg1241,Dargwa (Mekegi dialect),1801,дерхІе-рурси,CyrillTrans,offspring (son or daughter),,,derħe-rursi,Phonemic
+2-420-509-1,darg1241,Dargwa (Mekegi dialect),1357,рурси,CyrillTrans,daughter,,,rursi,Phonemic
+2-410-509-1,darg1241,Dargwa (Mekegi dialect),1620,дерхІе,CyrillTrans,son,,,derħe,Phonemic
+2-390-509-1,darg1241,Dargwa (Mekegi dialect),426,хъайкерил,CyrillTrans,married woman,,,qaykeril,Phonemic
+2-380-509-1,darg1241,Dargwa (Mekegi dialect),424,хъайкеиъибил,CyrillTrans,married man,,,qaykeiʔibil,Phonemic
+2-370-509-1,darg1241,Dargwa (Mekegi dialect),505,бегІте,CyrillTrans,parents,,,"beʕte, ada-aba",Phonemic
+2-370-509-3,darg1241,Dargwa (Mekegi dialect),505,ада-аба,CyrillTrans,parents,,,"beʕte, ada-aba",Phonemic
+2-360-509-1,darg1241,Dargwa (Mekegi dialect),1216,аба,CyrillTrans,mother,,,aba,Phonemic
+2-350-509-1,darg1241,Dargwa (Mekegi dialect),1217,ада,CyrillTrans,father,,,ada,Phonemic
+2-341-509-1,darg1241,Dargwa (Mekegi dialect),1134,декІарбикни,CyrillTrans,divorce,,,dek’arbikni,Phonemic
+2-340-509-1,darg1241,Dargwa (Mekegi dialect),1259,мекъ,CyrillTrans,"marriage, wedding",,,"meG, mahar",Phonemic
+2-340-509-3,darg1241,Dargwa (Mekegi dialect),1259,магьар,CyrillTrans,"marriage, wedding",,,"meG, mahar",Phonemic
+2-330-509-1,darg1241,Dargwa (Mekegi dialect),203,гьунул кариэс,CyrillTrans,marry,,,"hunul kariʔes, qaykeies",Phonemic
+2-330-509-3,darg1241,Dargwa (Mekegi dialect),203,хъайкеиэс,CyrillTrans,marry,,,"hunul kariʔes, qaykeies",Phonemic
+2-320-509-1,darg1241,Dargwa (Mekegi dialect),1199,гьунул,CyrillTrans,wife,,,hunul,Phonemic
+2-310-509-1,darg1241,Dargwa (Mekegi dialect),1200,амарсар,CyrillTrans,husband,,,amarsar,Phonemic
+2-280-509-1,darg1241,Dargwa (Mekegi dialect),1289,иштІал,CyrillTrans,"infant, baby",,,išt’al,Phonemic
+2-270-509-1,darg1241,Dargwa (Mekegi dialect),1304,хъяша,CyrillTrans,child,,,qaˤša,Phonemic
+2-261-509-1,darg1241,Dargwa (Mekegi dialect),77,жагьил рурси,CyrillTrans,young woman (adolescent),,,žahil rursi,Phonemic
+2-260-509-1,darg1241,Dargwa (Mekegi dialect),1646,рурси,CyrillTrans,girl,,,rursi,Phonemic
+2-251-509-1,darg1241,Dargwa (Mekegi dialect),76,жагьил дерхІе,CyrillTrans,young man (adolescent),,,"žahil derħe, lagizuril derħe",Phonemic
+2-251-509-3,darg1241,Dargwa (Mekegi dialect),76,лагизурил дерхІе,CyrillTrans,young man (adolescent),,,"žahil derħe, lagizuril derħe",Phonemic
+2-250-509-1,darg1241,Dargwa (Mekegi dialect),1366,дерхІе,CyrillTrans,boy,,,derħe,Phonemic
+2-240-509-1,darg1241,Dargwa (Mekegi dialect),1551,гажа,CyrillTrans,female,,,gaža,Phonemic
+2-230-509-1,darg1241,Dargwa (Mekegi dialect),1553,марга,CyrillTrans,male,,,marga,Phonemic
+2-220-509-1,darg1241,Dargwa (Mekegi dialect),962,гьунул адам,CyrillTrans,woman,,,hunul adam,Phonemic
+2-210-509-1,darg1241,Dargwa (Mekegi dialect),1554,амарсар адам,CyrillTrans,man (vs. woman),,,amarsar adam,Phonemic
+2-100-509-1,darg1241,Dargwa (Mekegi dialect),683,адам,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+2-100-509-3,darg1241,Dargwa (Mekegi dialect),683,инсан,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+1-890-509-1,darg1241,Dargwa (Mekegi dialect),1188,урцІул га,CyrillTrans,charcoal,,,urc’ul ga,Phonemic
+1-880-509-1,darg1241,Dargwa (Mekegi dialect),10,урцІул,CyrillTrans,firewood,,,urc’ul,Phonemic
+1-870-509-1,darg1241,Dargwa (Mekegi dialect),1133,пирхикІ,CyrillTrans,match (noun),,,pirxik’,Phonemic
+1-861-509-1,darg1241,Dargwa (Mekegi dialect),127,бихІахъес,CyrillTrans,extinguish,,,biħaqes,Phonemic
+1-860-509-1,darg1241,Dargwa (Mekegi dialect),737,алкахъес,CyrillTrans,"light, kindle, ignite",,,alkaqes,Phonemic
+1-852-509-1,darg1241,Dargwa (Mekegi dialect),1428,игес,CyrillTrans,burn (vb intrans),,,iges,Phonemic
+1-851-509-1,darg1241,Dargwa (Mekegi dialect),141,игес,CyrillTrans,burn (vb trans),,,iges,Phonemic
+1-841-509-1,darg1241,Dargwa (Mekegi dialect),67,алкунте къаркъала га,CyrillTrans,embers,,,alkunte GarGala ga,Phonemic
+1-840-509-1,darg1241,Dargwa (Mekegi dialect),646,палда,CyrillTrans,ashes,,,palda,Phonemic
+1-830-509-1,darg1241,Dargwa (Mekegi dialect),778,гав,CyrillTrans,smoke (noun),,,gaw,Phonemic
+1-820-509-1,darg1241,Dargwa (Mekegi dialect),889,лами,CyrillTrans,flame (noun),,,lami,Phonemic
+1-810-509-1,darg1241,Dargwa (Mekegi dialect),221,цІа,CyrillTrans,fire,,,c’a,Phonemic
+1-780-509-1,darg1241,Dargwa (Mekegi dialect),952,аргъ,CyrillTrans,weather,,,arɣ,Phonemic
+1-770-509-1,darg1241,Dargwa (Mekegi dialect),617,миъартІ,CyrillTrans,ice,,,miʔart’,Phonemic
+1-760-509-1,darg1241,Dargwa (Mekegi dialect),784,духІи,CyrillTrans,snow (noun),,,duħi,Phonemic
+1-750-509-1,darg1241,Dargwa (Mekegi dialect),658,заб,CyrillTrans,rain (noun),,,zab,Phonemic
+1-740-509-1,darg1241,Dargwa (Mekegi dialect),249,диригь,CyrillTrans,fog,,,dirih,Phonemic
+1-720-509-1,darg1241,Dargwa (Mekegi dialect),960,дегІ,CyrillTrans,wind,,,deʕ,Phonemic
+1-730-509-1,darg1241,Dargwa (Mekegi dialect),1489,гъаг,CyrillTrans,cloud,,,ɣag,Phonemic
+1-710-509-1,darg1241,Dargwa (Mekegi dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-509-1,darg1241,Dargwa (Mekegi dialect),1977,марка,CyrillTrans,dew,,,marka,Phonemic
+1-630-509-1,darg1241,Dargwa (Mekegi dialect),1388,тяхІу,CyrillTrans,"shade, shadow",,,taˤħu,Phonemic
+1-620-509-1,darg1241,Dargwa (Mekegi dialect),11,цІябдеш,CyrillTrans,darkness,,,c’aˤbdeš,Phonemic
+1-610-509-1,darg1241,Dargwa (Mekegi dialect),630,шаладеш,CyrillTrans,light (noun),,,šaladeš,Phonemic
+1-590-509-1,darg1241,Dargwa (Mekegi dialect),1733,зурхІяб,CyrillTrans,rainbow,,,zurħaˤb,Phonemic
+1-580-509-1,darg1241,Dargwa (Mekegi dialect),858,бурям,CyrillTrans,storm,,,buryam,Phonemic
+1-560-509-1,darg1241,Dargwa (Mekegi dialect),1150,къукъу-рямкьяр,CyrillTrans,thunder,,,GuGu-raˤmq’aˤr,Phonemic
+1-570-509-1,darg1241,Dargwa (Mekegi dialect),2007,лямцІ агни,CyrillTrans,lightning (as striking),,,laˤmc’ agni,Phonemic
+1-550-509-1,darg1241,Dargwa (Mekegi dialect),1654,лямцІ,CyrillTrans,lightning,,,laˤmc’,Phonemic
+1-540-509-1,darg1241,Dargwa (Mekegi dialect),1430,уръи,CyrillTrans,star,,,urʔi,Phonemic
+1-530-509-1,darg1241,Dargwa (Mekegi dialect),1313,бац,CyrillTrans,moon,,,bac,Phonemic
+1-520-509-1,darg1241,Dargwa (Mekegi dialect),1343,берхІи,CyrillTrans,sun,,,berħi,Phonemic
+1-510-509-1,darg1241,Dargwa (Mekegi dialect),1732,зак,CyrillTrans,sky,,,zak,Phonemic
+1-450-509-1,darg1241,Dargwa (Mekegi dialect),6,мерсдакьни,CyrillTrans,earthquake,,,mersdaq’ni,Phonemic
+1-440-509-1,darg1241,Dargwa (Mekegi dialect),2125,къаркъа,CyrillTrans,"stone, rock",,,"GarGa, šuri",Phonemic
+1-440-509-3,darg1241,Dargwa (Mekegi dialect),2125,шури,CyrillTrans,"stone, rock",,,"GarGa, šuri",Phonemic
+1-430-509-1,darg1241,Dargwa (Mekegi dialect),1803,галги,CyrillTrans,wood,,,"lalgi, urcul",Phonemic
+1-430-509-3,darg1241,Dargwa (Mekegi dialect),1803,урцул,CyrillTrans,wood,,,"lalgi, urcul",Phonemic
+1-420-509-1,darg1241,Dargwa (Mekegi dialect),906,галги,CyrillTrans,tree (cf 08.600),,,galgi,Phonemic
+1-410-509-1,darg1241,Dargwa (Mekegi dialect),420,вацІа,CyrillTrans,"woods, forest",,,wac’a,Phonemic
+1-390-509-1,darg1241,Dargwa (Mekegi dialect),943,чяхІ-чяхІи,CyrillTrans,waterfall,,,čaˤħ-čaˤħi,Phonemic
+1-380-509-1,darg1241,Dargwa (Mekegi dialect),1145,билхІла,CyrillTrans,swamp,,,bilħla,Phonemic
+1-370-509-1,darg1241,Dargwa (Mekegi dialect),2144,гІиниз,CyrillTrans,"spring, well",,,"ʕiniz, Guyu",Phonemic
+1-370-509-3,darg1241,Dargwa (Mekegi dialect),2144,къуйу,CyrillTrans,"spring, well",,,"ʕiniz, Guyu",Phonemic
+1-362-509-1,darg1241,Dargwa (Mekegi dialect),1982,шившинтІан,CyrillTrans,whirlpool,,,šiwšint’an,Phonemic
+1-360-509-1,darg1241,Dargwa (Mekegi dialect),666,хІеркІ,CyrillTrans,"river, stream, brook",,,"ħerk’, waračan",Phonemic
+1-360-509-3,darg1241,Dargwa (Mekegi dialect),666,варачан,CyrillTrans,"river, stream, brook",,,"ħerk’, waračan",Phonemic
+1-350-509-1,darg1241,Dargwa (Mekegi dialect),978,рамч,CyrillTrans,wave,,,ramč,Phonemic
+1-343-509-1,darg1241,Dargwa (Mekegi dialect),1662,хъинч,CyrillTrans,"headland, point",,,qinč,Phonemic
+1-330-509-1,darg1241,Dargwa (Mekegi dialect),624,шара,CyrillTrans,lake,,,"šara, k’aw",Phonemic
+1-330-509-3,darg1241,Dargwa (Mekegi dialect),624,кІав,CyrillTrans,lake,,,"šara, k’aw",Phonemic
+1-329-509-1,darg1241,Dargwa (Mekegi dialect),645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-509-1,darg1241,Dargwa (Mekegi dialect),1768,гьулегь,CyrillTrans,foam,,,huleh,Phonemic
+1-323-509-1,darg1241,Dargwa (Mekegi dialect),259,бамкьурил,CyrillTrans,rough (of sea),,,bamq’uril,Phonemic
+1-320-509-1,darg1241,Dargwa (Mekegi dialect),1474,урхьне,CyrillTrans,sea,,,urx̌ne,Phonemic
+1-322-509-1,darg1241,Dargwa (Mekegi dialect),258,байлай,CyrillTrans,calm (of sea),,,baylay,Phonemic
+1-310-509-1,darg1241,Dargwa (Mekegi dialect),948,шин,CyrillTrans,water,,,šin,Phonemic
+1-280-509-1,darg1241,Dargwa (Mekegi dialect),1155,гІиникъ,CyrillTrans,cave,,,ʕiniG,Phonemic
+1-270-509-1,darg1241,Dargwa (Mekegi dialect),113,урхьула дуб,CyrillTrans,shore,,,urx̌ula dub,Phonemic
+1-260-509-1,darg1241,Dargwa (Mekegi dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-509-1,darg1241,Dargwa (Mekegi dialect),622,остров,CyrillTrans,island,,,ostrow,Phonemic
+1-240-509-1,darg1241,Dargwa (Mekegi dialect),921,авлахъ,CyrillTrans,valley,,,awlaq,Phonemic
+1-230-509-1,darg1241,Dargwa (Mekegi dialect),652,чянкІ,CyrillTrans,"plain, field",,,čaˤnk’,Phonemic
+1-222-509-1,darg1241,Dargwa (Mekegi dialect),618,шури,CyrillTrans,"cliff, precipice",,,"šuri, beħ",Phonemic
+1-222-509-3,darg1241,Dargwa (Mekegi dialect),618,бехІ,CyrillTrans,"cliff, precipice",,,"šuri, beħ",Phonemic
+1-220-509-1,darg1241,Dargwa (Mekegi dialect),2118,дубура,CyrillTrans,"mountain, hill",,,duruba,Phonemic
+1-214-509-1,darg1241,Dargwa (Mekegi dialect),640,чят,CyrillTrans,mud,,,čaˤt,Phonemic
+1-215-509-1,darg1241,Dargwa (Mekegi dialect),671,гъум,CyrillTrans,sand,,,ɣum,Phonemic
+1-213-509-1,darg1241,Dargwa (Mekegi dialect),2,хваса,CyrillTrans,dust,,,xʷasa,Phonemic
+1-212-509-1,darg1241,Dargwa (Mekegi dialect),1228,гванза,CyrillTrans,"earth=ground, soil",,,gʷanza,Phonemic
+1-210-509-1,darg1241,Dargwa (Mekegi dialect),626,улка,CyrillTrans,"earth, land",,,ulka,Phonemic
+1-100-509-1,darg1241,Dargwa (Mekegi dialect),965,дунъя,CyrillTrans,world,,,dunya,Phonemic
+14-330-509-1,darg1241,Dargwa (Mekegi dialect),1544,рах-ургади,CyrillTrans,sometimes,,,rax-urgadi,Phonemic
+14-331-509-1,darg1241,Dargwa (Mekegi dialect),703,бахъхІе агарле,CyrillTrans,soon,,,baqħe agarle,Phonemic
+14-332-509-1,darg1241,Dargwa (Mekegi dialect),418,бахъхІелис,CyrillTrans,long-time (for a),,,baqħelis,Phonemic
+14-340-509-1,darg1241,Dargwa (Mekegi dialect),1656,чІиалра,CyrillTrans,never,,,č’ialra,Phonemic
+14-350-509-1,darg1241,Dargwa (Mekegi dialect),204,гІурра,CyrillTrans,again,,,ʕurra,Phonemic
+14-410-509-1,darg1241,Dargwa (Mekegi dialect),1225,берхІи,CyrillTrans,day,,,berħi,Phonemic
+14-420-509-1,darg1241,Dargwa (Mekegi dialect),1233,дургеле,CyrillTrans,night,,,durgele,Phonemic
+14-430-509-1,darg1241,Dargwa (Mekegi dialect),729,шаладикни,CyrillTrans,dawn,,,šaladikni,Phonemic
+14-440-509-1,darg1241,Dargwa (Mekegi dialect),1339,савла,CyrillTrans,morning,,,sawla,Phonemic
+14-450-509-1,darg1241,Dargwa (Mekegi dialect),12,хІерейс,CyrillTrans,"noon, midday",,,ħereys,Phonemic
+14-451-509-1,darg1241,Dargwa (Mekegi dialect),1807,хІери гІярягъ,CyrillTrans,afternoon,,,ħeri ʕaˤraˤɣ,Phonemic
+14-460-509-1,darg1241,Dargwa (Mekegi dialect),1629,бархІехъ,CyrillTrans,evening,,,barħeq,Phonemic
+14-470-509-1,darg1241,Dargwa (Mekegi dialect),1283,ишберхІи,CyrillTrans,today,,,išberħi,Phonemic
+14-480-509-1,darg1241,Dargwa (Mekegi dialect),1329,жягІял,CyrillTrans,tomorrow,,,žaˤʕaˤl,Phonemic
+14-481-509-1,darg1241,Dargwa (Mekegi dialect),1179,царехІел,CyrillTrans,day-after-tomorrow,,,careħel,Phonemic
+14-490-509-1,darg1241,Dargwa (Mekegi dialect),1174,даг,CyrillTrans,yesterday,,,dag,Phonemic
+14-491-509-1,darg1241,Dargwa (Mekegi dialect),1180,гьабилбери,CyrillTrans,day-before-yesterday,,,habilberi,Phonemic
+14-510-509-1,darg1241,Dargwa (Mekegi dialect),1353,сягІят,CyrillTrans,hour,,,saˤʕaˤt,Phonemic
+14-530-509-1,darg1241,Dargwa (Mekegi dialect),1323,сягІят,CyrillTrans,"clock, timepiece",,,saˤʕaˤt,Phonemic
+14-610-509-1,darg1241,Dargwa (Mekegi dialect),1469,жумягІ,CyrillTrans,week,,,žumaˤʕ,Phonemic
+14-620-509-1,darg1241,Dargwa (Mekegi dialect),1699,алхІят,CyrillTrans,Sunday,,,alħaˤt,Phonemic
+14-630-509-1,darg1241,Dargwa (Mekegi dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-509-1,darg1241,Dargwa (Mekegi dialect),1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-509-1,darg1241,Dargwa (Mekegi dialect),1694,арбягІ,CyrillTrans,Wednesday,,,arbaˤʕ,Phonemic
+14-660-509-1,darg1241,Dargwa (Mekegi dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-509-1,darg1241,Dargwa (Mekegi dialect),1692,жумягІ,CyrillTrans,Friday,,,žumaˤʕ,Phonemic
+14-680-509-1,darg1241,Dargwa (Mekegi dialect),1700,сут,CyrillTrans,Saturday,,,sut,Phonemic
+14-710-509-1,darg1241,Dargwa (Mekegi dialect),1370,баз,CyrillTrans,month,,,baz,Phonemic
+14-730-509-1,darg1241,Dargwa (Mekegi dialect),1226,дус,CyrillTrans,year,,,dus,Phonemic
+14-740-509-1,darg1241,Dargwa (Mekegi dialect),1471,эни,CyrillTrans,winter,,,eni,Phonemic
+14-750-509-1,darg1241,Dargwa (Mekegi dialect),1537,атхІуйаб,CyrillTrans,spring,,,atħuyab,Phonemic
+14-760-509-1,darg1241,Dargwa (Mekegi dialect),1342,хІуйаб,CyrillTrans,summer,,,ħuyab,Phonemic
+14-770-509-1,darg1241,Dargwa (Mekegi dialect),1276,бегьни,CyrillTrans,autumn,,,behni,Phonemic
+14-780-509-1,darg1241,Dargwa (Mekegi dialect),691,дусла замана,CyrillTrans,season,,,dusla zamana,Phonemic
+15-210-509-1,darg1241,Dargwa (Mekegi dialect),1587,тІем букІес,CyrillTrans,smell (vb intrans),,,t’em buk’es,Phonemic
+15-212-509-1,darg1241,Dargwa (Mekegi dialect),375,хъвянтІукІес,CyrillTrans,sniff,,,qʷaˤnt’uk’es,Phonemic
+15-220-509-1,darg1241,Dargwa (Mekegi dialect),1586,сунтІукІес,CyrillTrans,smell (vb trans),,,sunt’uk’es,Phonemic
+15-250-509-1,darg1241,Dargwa (Mekegi dialect),376,гІяхІнай тІем,CyrillTrans,"fragrant, good smelling",,,ʕaˤħnay t’em,Phonemic
+15-260-509-1,darg1241,Dargwa (Mekegi dialect),42,гвягІ,CyrillTrans,"stinking, bad smelling",,,gʷaˤʕ,Phonemic
+15-310-509-1,darg1241,Dargwa (Mekegi dialect),21,тІягІям,CyrillTrans,taste,,,t’aˤʕaˤm,Phonemic
+15-350-509-1,darg1241,Dargwa (Mekegi dialect),717,муръил,CyrillTrans,sweet,,,murʔil,Phonemic
+15-360-509-1,darg1241,Dargwa (Mekegi dialect),1091,зуил,CyrillTrans,salty,,,zuil,Phonemic
+15-370-509-1,darg1241,Dargwa (Mekegi dialect),887,кьутІкьуй,CyrillTrans,bitter,,,q’ut’q’uy,Phonemic
+15-380-509-1,darg1241,Dargwa (Mekegi dialect),1906,цІикІил,CyrillTrans,"acid, sour",,,c’ik’il,Phonemic
+15-390-509-1,darg1241,Dargwa (Mekegi dialect),70,зукІбукІуй,CyrillTrans,brackish,,,zuk’buk’uy,Phonemic
+15-410-509-1,darg1241,Dargwa (Mekegi dialect),1408,бикьес,CyrillTrans,hear,,,biq’es,Phonemic
+15-420-509-1,darg1241,Dargwa (Mekegi dialect),1608,лехІехъес,CyrillTrans,listen,,,leħeqes,Phonemic
+15-440-509-1,darg1241,Dargwa (Mekegi dialect),1811,тІама,CyrillTrans,"sound, noise",,,t’ama,Phonemic
+15-450-509-1,darg1241,Dargwa (Mekegi dialect),377,ахъил,CyrillTrans,loud,,,aqil,Phonemic
+15-460-509-1,darg1241,Dargwa (Mekegi dialect),1314,багьлай,CyrillTrans,"quiet, silence",,,bahlay,Phonemic
+15-510-509-1,darg1241,Dargwa (Mekegi dialect),1409,кибиэс,CyrillTrans,see,,,kibiʔes,Phonemic
+15-520-509-1,darg1241,Dargwa (Mekegi dialect),1819,хІерукІес,CyrillTrans,"look, look at",,,ħeruk’es,Phonemic
+15-550-509-1,darg1241,Dargwa (Mekegi dialect),1039,кибиахъес,CyrillTrans,show,,,kibiaqes,Phonemic
+15-560-509-1,darg1241,Dargwa (Mekegi dialect),708,шалабиркьес,CyrillTrans,shine,,,šalabirq’es,Phonemic
+15-570-509-1,darg1241,Dargwa (Mekegi dialect),679,цІярцІярбукІуй,CyrillTrans,bright,,,c’aˤrc’aˤrbuk’uy,Phonemic
+15-610-509-1,darg1241,Dargwa (Mekegi dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-509-1,darg1241,Dargwa (Mekegi dialect),250,шалай,CyrillTrans,light (in color),,,šalay,Phonemic
+15-630-509-1,darg1241,Dargwa (Mekegi dialect),706,цІябил,CyrillTrans,dark (in color),,,c’aˤbil,Phonemic
+15-640-509-1,darg1241,Dargwa (Mekegi dialect),1335,цІуба,CyrillTrans,white,,,c’uba,Phonemic
+15-650-509-1,darg1241,Dargwa (Mekegi dialect),163,цІудара,CyrillTrans,black,,,c’udara,Phonemic
+15-660-509-1,darg1241,Dargwa (Mekegi dialect),156,хІинтІена,CyrillTrans,red,,,ħint’ena,Phonemic
+15-670-509-1,darg1241,Dargwa (Mekegi dialect),837,гьанцІа,CyrillTrans,blue,,,hanc’a,Phonemic
+15-680-509-1,darg1241,Dargwa (Mekegi dialect),1425,шиниша,CyrillTrans,green,,,šiniša,Phonemic
+15-690-509-1,darg1241,Dargwa (Mekegi dialect),1424,бухъутІа,CyrillTrans,yellow,,,buqut’a,Phonemic
+15-710-509-1,darg1241,Dargwa (Mekegi dialect),1892,гачукІес,CyrillTrans,touch,,,gačuk’es,Phonemic
+15-712-509-1,darg1241,Dargwa (Mekegi dialect),378,кьицІукІес,CyrillTrans,pinch,,,q’ic’uk’es,Phonemic
+15-720-509-1,darg1241,Dargwa (Mekegi dialect),1079,балес,CyrillTrans,feel,,,bales,Phonemic
+15-740-509-1,darg1241,Dargwa (Mekegi dialect),1884,чІичІай,CyrillTrans,hard,,,č’ič’ay,Phonemic
+15-750-509-1,darg1241,Dargwa (Mekegi dialect),1856,кІантІий,CyrillTrans,soft,,,k’ant’iy,Phonemic
+15-760-509-1,darg1241,Dargwa (Mekegi dialect),1923,хъабхъа,CyrillTrans,rough,,,qabqa,Phonemic
+15-770-509-1,darg1241,Dargwa (Mekegi dialect),1234,гъалагил,CyrillTrans,smooth,,,ɣalagil,Phonemic
+15-780-509-1,darg1241,Dargwa (Mekegi dialect),1396,бугай,CyrillTrans,sharp,,,bugay,Phonemic
+15-790-509-1,darg1241,Dargwa (Mekegi dialect),379,кьутІай,CyrillTrans,"blunt, dull",,,q’ut’ay,Phonemic
+15-810-509-1,darg1241,Dargwa (Mekegi dialect),1210,декІил,CyrillTrans,heavy,,,dek’il,Phonemic
+15-820-509-1,darg1241,Dargwa (Mekegi dialect),1052,кункил,CyrillTrans,light (in weight),,,kunkil,Phonemic
+15-830-509-1,darg1241,Dargwa (Mekegi dialect),1726,шинкІай,CyrillTrans,"wet, damp",,,šink’ay,Phonemic
+15-840-509-1,darg1241,Dargwa (Mekegi dialect),1398,беръубил,CyrillTrans,dry,,,berʔubil,Phonemic
+15-850-509-1,darg1241,Dargwa (Mekegi dialect),1286,буцІарил,CyrillTrans,hot,,,buc’aril,Phonemic
+15-851-509-1,darg1241,Dargwa (Mekegi dialect),1232,ванай,CyrillTrans,warm,,,wanay,Phonemic
+15-860-509-1,darg1241,Dargwa (Mekegi dialect),1287,бяргІибил,CyrillTrans,cold,,,baˤrʕibil,Phonemic
+15-870-509-1,darg1241,Dargwa (Mekegi dialect),704,амъуй,CyrillTrans,clean,,,amʔuy,Phonemic
+15-880-509-1,darg1241,Dargwa (Mekegi dialect),1230,жяргуй,CyrillTrans,"dirty, soiled",,,žaˤrguy,Phonemic
+15-890-509-1,darg1241,Dargwa (Mekegi dialect),380,кьучІбибил,CyrillTrans,wrinkled,,,q’uč’bibil,Phonemic
+16-110-509-1,darg1241,Dargwa (Mekegi dialect),53,рухІ,CyrillTrans,"soul, spirit",,,"ruħ, ħel",Phonemic
+16-110-509-3,darg1241,Dargwa (Mekegi dialect),53,хІел,CyrillTrans,"soul, spirit",,,"ruħ, ħel",Phonemic
+16-150-509-1,darg1241,Dargwa (Mekegi dialect),1572,тамашаибил,CyrillTrans,"surprised, astonished",,,"tamašaibil, ħaˤyranil",Phonemic
+16-150-509-3,darg1241,Dargwa (Mekegi dialect),1572,хІяйранил,CyrillTrans,"surprised, astonished",,,"tamašaibil, ħaˤyranil",Phonemic
+16-180-509-1,darg1241,Dargwa (Mekegi dialect),720,гьарбизни,CyrillTrans,"good fortune, luck",,,harbizni,Phonemic
+16-190-509-1,darg1241,Dargwa (Mekegi dialect),56,гьархІебизни,CyrillTrans,"misfortune, bad luck",,,harħebizni,Phonemic
+16-230-509-1,darg1241,Dargwa (Mekegi dialect),1495,разий,CyrillTrans,"joyful, glad, happy",,,"raziy, xariy",Phonemic
+16-230-509-3,darg1241,Dargwa (Mekegi dialect),1495,харий,CyrillTrans,"joyful, glad, happy",,,"raziy, xariy",Phonemic
+16-250-509-1,darg1241,Dargwa (Mekegi dialect),1355,дукарукІес,CyrillTrans,laugh,,,dukaruk’es,Phonemic
+16-251-509-1,darg1241,Dargwa (Mekegi dialect),1451,жигІукІес,CyrillTrans,smile,,,žiʕuk’es,Phonemic
+16-260-509-1,darg1241,Dargwa (Mekegi dialect),1413,хІязлиъиркьес,CyrillTrans,play,,,ħaˤzliʔirq’es,Phonemic
+16-270-509-1,darg1241,Dargwa (Mekegi dialect),923,игахъес,CyrillTrans,love,,,igaqes,Phonemic
+16-290-509-1,darg1241,Dargwa (Mekegi dialect),578,пIайукІес,CyrillTrans,kiss,,,p’ayuk’es,Phonemic
+16-300-509-1,darg1241,Dargwa (Mekegi dialect),928,хъябруциркес,CyrillTrans,embrace,,,qaˤbrucirkes,Phonemic
+16-310-509-1,darg1241,Dargwa (Mekegi dialect),1783,изала,CyrillTrans,pain,,,izala,Phonemic
+16-320-509-1,darg1241,Dargwa (Mekegi dialect),1668,пашмандеш,CyrillTrans,"grief, sorrow, sadness",,,pašmandeš,Phonemic
+16-330-509-1,darg1241,Dargwa (Mekegi dialect),1000,кьакьавакІни,CyrillTrans,"anxiety, worry",,,q’aq’awak’ni,Phonemic
+16-340-509-1,darg1241,Dargwa (Mekegi dialect),1875,пашманиэс,CyrillTrans,"regret, be sorry",,,"pašmaniʔes, urk’ec’ibarq’es",Phonemic
+16-340-509-3,darg1241,Dargwa (Mekegi dialect),1875,уркІецІибаркьес,CyrillTrans,"regret, be sorry",,,"pašmaniʔes, urk’ec’ibarq’es",Phonemic
+16-350-509-1,darg1241,Dargwa (Mekegi dialect),1141,уркІецІи,CyrillTrans,pity,,,urk’ec’i,Phonemic
+16-370-509-1,darg1241,Dargwa (Mekegi dialect),1839,исес,CyrillTrans,"cry, weep",,,"ises, simq’uk’es",Phonemic
+16-370-509-3,darg1241,Dargwa (Mekegi dialect),1839,симкьукІес,CyrillTrans,"cry, weep",,,"ises, simq’uk’es",Phonemic
+16-380-509-1,darg1241,Dargwa (Mekegi dialect),1651,биса,CyrillTrans,tear (noun),,,bisa,Phonemic
+16-390-509-1,darg1241,Dargwa (Mekegi dialect),716,цІумукІес,CyrillTrans,groan,,,c’umuk’es,Phonemic
+16-410-509-1,darg1241,Dargwa (Mekegi dialect),1607,гьими бигьес,CyrillTrans,hate,,,himi bihes,Phonemic
+16-420-509-1,darg1241,Dargwa (Mekegi dialect),82,гьими,CyrillTrans,anger,,,"himi, ʕaˤsideš",Phonemic
+16-420-509-3,darg1241,Dargwa (Mekegi dialect),82,гІясидеш,CyrillTrans,anger,,,"himi, ʕaˤsideš",Phonemic
+16-440-509-1,darg1241,Dargwa (Mekegi dialect),40,ругъ,CyrillTrans,"envy, jealousy",,,ruɣ,Phonemic
+16-450-509-1,darg1241,Dargwa (Mekegi dialect),1776,цІах,CyrillTrans,shame (noun),,,c’ax,Phonemic
+16-480-509-1,darg1241,Dargwa (Mekegi dialect),174,хамил,CyrillTrans,proud,,,xamil,Phonemic
+16-510-509-1,darg1241,Dargwa (Mekegi dialect),1779,гІяхІгъабза,CyrillTrans,dare,,,ʕaˤʕɣabza,Phonemic
+16-520-509-1,darg1241,Dargwa (Mekegi dialect),3,урухи агвар,CyrillTrans,brave,,,uruxi agʷar,Phonemic
+16-530-509-1,darg1241,Dargwa (Mekegi dialect),781,урехи,CyrillTrans,"fear, fright",,,urexi,Phonemic
+16-540-509-1,darg1241,Dargwa (Mekegi dialect),1810,урехи,CyrillTrans,danger,,,urexi,Phonemic
+16-620-509-1,darg1241,Dargwa (Mekegi dialect),1784,гьул,CyrillTrans,"desire, want",,,hul,Phonemic
+16-622-509-1,darg1241,Dargwa (Mekegi dialect),1750,кеббиркІес,CyrillTrans,choose,,,kebbirk’es,Phonemic
+16-630-509-1,darg1241,Dargwa (Mekegi dialect),1092,гьулукІес,CyrillTrans,hope,,,huluk’es,Phonemic
+16-650-509-1,darg1241,Dargwa (Mekegi dialect),100,марил,CyrillTrans,faithful,,,maril,Phonemic
+16-660-509-1,darg1241,Dargwa (Mekegi dialect),1657,халкьлагъуна,CyrillTrans,true,,,xalq’laɣuna,Phonemic
+16-670-509-1,darg1241,Dargwa (Mekegi dialect),601,къянба угьес,CyrillTrans,"lie, tell lies",,,q’aˤnbi uhes,Phonemic
+16-680-509-1,darg1241,Dargwa (Mekegi dialect),13,иргІя игес,CyrillTrans,deceit,,,irʕaˤ iges,Phonemic
+16-690-509-1,darg1241,Dargwa (Mekegi dialect),1528,кавурхес,CyrillTrans,forgive,,,kawurxes,Phonemic
+16-710-509-1,darg1241,Dargwa (Mekegi dialect),1035,гІяхІна,CyrillTrans,good,,,ʕaˤħna,Phonemic
+16-720-509-1,darg1241,Dargwa (Mekegi dialect),1292,вайна,CyrillTrans,bad,,,wayna,Phonemic
+16-730-509-1,darg1241,Dargwa (Mekegi dialect),1725,баргьа,CyrillTrans,"right, correct",,,barha,Phonemic
+16-740-509-1,darg1241,Dargwa (Mekegi dialect),1390,балкІа,CyrillTrans,wrong,,,balk’a,Phonemic
+16-760-509-1,darg1241,Dargwa (Mekegi dialect),134,баркьуди,CyrillTrans,fault,,,barq’udi,Phonemic
+16-770-509-1,darg1241,Dargwa (Mekegi dialect),1293,хатІа,CyrillTrans,"mistake, error",,,xat’a,Phonemic
+16-780-509-1,darg1241,Dargwa (Mekegi dialect),381,гІяйиблаваркьес,CyrillTrans,blame,,,ʕaˤyiblawarq’es,Phonemic
+16-790-509-1,darg1241,Dargwa (Mekegi dialect),1687,гапукІес,CyrillTrans,praise,,,gapuk’es,Phonemic
+16-810-509-1,darg1241,Dargwa (Mekegi dialect),1427,жагвай,CyrillTrans,beautiful,,,žagʷay,Phonemic
+16-820-509-1,darg1241,Dargwa (Mekegi dialect),1548,эршил,CyrillTrans,ugly,,,eršil,Phonemic
+16-830-509-1,darg1241,Dargwa (Mekegi dialect),2018,кьиркьир,CyrillTrans,greedy,,,q’irq’ir,Phonemic
+16-840-509-1,darg1241,Dargwa (Mekegi dialect),1310,духуй,CyrillTrans,clever,,,duxuy,Phonemic
+17-110-509-1,darg1241,Dargwa (Mekegi dialect),1562,дагьри,CyrillTrans,mind,,,"dahri, ʕaˤq’lu",Phonemic
+17-110-509-3,darg1241,Dargwa (Mekegi dialect),1562,гІякьлу,CyrillTrans,mind,,,"dahri, ʕaˤq’lu",Phonemic
+17-130-509-1,darg1241,Dargwa (Mekegi dialect),1415,пикриукІес,CyrillTrans,think (= reflect),,,pikriuk’es,Phonemic
+17-140-509-1,darg1241,Dargwa (Mekegi dialect),1513,пикриукІес,CyrillTrans,think (= be of the opinion),,,"pikriuk’es, deyʕes",Phonemic
+17-140-509-3,darg1241,Dargwa (Mekegi dialect),1513,дейгІес,CyrillTrans,think (= be of the opinion),,,"pikriuk’es, deyʕes",Phonemic
+17-150-509-1,darg1241,Dargwa (Mekegi dialect),1890,ирхургьес,CyrillTrans,believe,,,irxurhes,Phonemic
+17-160-509-1,darg1241,Dargwa (Mekegi dialect),1536,иргъес,CyrillTrans,understand,,,irɣes,Phonemic
+17-170-509-1,darg1241,Dargwa (Mekegi dialect),1410,балес,CyrillTrans,know,,,bales,Phonemic
+17-171-509-1,darg1241,Dargwa (Mekegi dialect),1932,гьанбиркес,CyrillTrans,guess,,,"hanbirkes, kabirhes",Phonemic
+17-171-509-3,darg1241,Dargwa (Mekegi dialect),1932,кабиргьес,CyrillTrans,guess,,,"hanbirkes, kabirhes",Phonemic
+17-172-509-1,darg1241,Dargwa (Mekegi dialect),117,гІердиркьес,CyrillTrans,imitate,,,ʕerdirq’es,Phonemic
+17-180-509-1,darg1241,Dargwa (Mekegi dialect),1521,анбилзес,CyrillTrans,seem,,,anbilzes,Phonemic
+17-190-509-1,darg1241,Dargwa (Mekegi dialect),1609,пикри,CyrillTrans,"idea, notion",,,"pikri, maˤʕni",Phonemic
+17-190-509-3,darg1241,Dargwa (Mekegi dialect),1609,мягІни,CyrillTrans,"idea, notion",,,"pikri, maˤʕni",Phonemic
+17-210-509-1,darg1241,Dargwa (Mekegi dialect),698,гІякьлукев,CyrillTrans,wise,,,ʕaˤq’lukew,Phonemic
+17-220-509-1,darg1241,Dargwa (Mekegi dialect),1518,абдал,CyrillTrans,"foolish, stupid",,,"abdal, meħur",Phonemic
+17-220-509-3,darg1241,Dargwa (Mekegi dialect),1518,мехІур,CyrillTrans,"foolish, stupid",,,"abdal, meħur",Phonemic
+17-230-509-1,darg1241,Dargwa (Mekegi dialect),1899,гІякьлу агар дагьри агар,CyrillTrans,"insane, crazy",,,ʕaˤq’lu agar dahri agar,Phonemic
+17-240-509-1,darg1241,Dargwa (Mekegi dialect),504,балес,CyrillTrans,learn,,,"bales, uč’es",Phonemic
+17-240-509-3,darg1241,Dargwa (Mekegi dialect),504,учІес,CyrillTrans,learn,,,"bales, uč’es",Phonemic
+17-242-509-1,darg1241,Dargwa (Mekegi dialect),1929,урсис,CyrillTrans,study,,,ursis,Phonemic
+17-250-509-1,darg1241,Dargwa (Mekegi dialect),709,урсаваркьес,CyrillTrans,teach,,,ursawarq’es,Phonemic
+17-260-509-1,darg1241,Dargwa (Mekegi dialect),753,урсеиркьуй,CyrillTrans,pupil,,,"urseirq’uy, mutaʕaˤlim, učenik",Phonemic
+17-260-509-3,darg1241,Dargwa (Mekegi dialect),753,мутагІялим,CyrillTrans,pupil,,,"urseirq’uy, mutaʕaˤlim, učenik",Phonemic
+17-260-509-5,darg1241,Dargwa (Mekegi dialect),753,ученик,CyrillTrans,pupil,,,"urseirq’uy, mutaʕaˤlim, učenik",Phonemic
+17-270-509-1,darg1241,Dargwa (Mekegi dialect),1038,мугІялим,CyrillTrans,teacher,,,"muʕaˤlim, učitel",Phonemic
+17-270-509-3,darg1241,Dargwa (Mekegi dialect),1038,учител,CyrillTrans,teacher,,,"muʕaˤlim, učitel",Phonemic
+17-280-509-1,darg1241,Dargwa (Mekegi dialect),673,школа,CyrillTrans,school,,,"škola, maktab",Phonemic
+17-280-509-3,darg1241,Dargwa (Mekegi dialect),673,мактаб,CyrillTrans,school,,,"škola, maktab",Phonemic
+17-310-509-1,darg1241,Dargwa (Mekegi dialect),707,гьанбиркес,CyrillTrans,remember,,,hanbirkes,Phonemic
+17-320-509-1,darg1241,Dargwa (Mekegi dialect),1523,хъумиртес,CyrillTrans,forget,,,qumirtes,Phonemic
+17-340-509-1,darg1241,Dargwa (Mekegi dialect),989,амъурил,CyrillTrans,"clear, plain",,,amʔuril,Phonemic
+17-350-509-1,darg1241,Dargwa (Mekegi dialect),1764,мягІни агвар,CyrillTrans,obscure,,,maˤʕni agʷar,Phonemic
+17-360-509-1,darg1241,Dargwa (Mekegi dialect),1121,дигІяндеш,CyrillTrans,secret,,,diʕaˤndeš,Phonemic
+17-370-509-1,darg1241,Dargwa (Mekegi dialect),509,кабизахъурле балуй,CyrillTrans,"sure, certain",,,kabizaqurle baluy,Phonemic
+17-380-509-1,darg1241,Dargwa (Mekegi dialect),1626,иргъахъес,CyrillTrans,explain,,,irɣaqes,Phonemic
+17-410-509-1,darg1241,Dargwa (Mekegi dialect),1162,хьул,CyrillTrans,"intention, purpose",,,"x̌ul, q’as",Phonemic
+17-410-509-3,darg1241,Dargwa (Mekegi dialect),1162,кьас,CyrillTrans,"intention, purpose",,,"x̌ul, q’as",Phonemic
+17-420-509-1,darg1241,Dargwa (Mekegi dialect),860,сабаб,CyrillTrans,cause,,,"sabab, bahana",Phonemic
+17-420-509-3,darg1241,Dargwa (Mekegi dialect),860,багьана,CyrillTrans,cause,,,"sabab, bahana",Phonemic
+17-430-509-1,darg1241,Dargwa (Mekegi dialect),1308,вас-васи,CyrillTrans,doubt,,,"was-wasi, šak",Phonemic
+17-430-509-3,darg1241,Dargwa (Mekegi dialect),1308,шак,CyrillTrans,doubt,,,"was-wasi, šak",Phonemic
+17-440-509-1,darg1241,Dargwa (Mekegi dialect),1841,вас-васукІес,CyrillTrans,suspect,,,"was-wasuk’es, šakuk’es",Phonemic
+17-440-509-3,darg1241,Dargwa (Mekegi dialect),1841,шакукІес,CyrillTrans,suspect,,,"was-wasuk’es, šakuk’es",Phonemic
+17-441-509-1,darg1241,Dargwa (Mekegi dialect),1902,уйедес,CyrillTrans,betray,,,uyedes,Phonemic
+17-450-509-1,darg1241,Dargwa (Mekegi dialect),643,хІяжатдеш,CyrillTrans,"need, necessity",,,"ħaˤžatdeš, čaraʔagardeš, ʕaˤmalagardeš",Phonemic
+17-450-509-3,darg1241,Dargwa (Mekegi dialect),643,чараъагардеш,CyrillTrans,"need, necessity",,,"ħaˤžatdeš, čaraʔagardeš, ʕaˤmalagardeš",Phonemic
+17-450-509-5,darg1241,Dargwa (Mekegi dialect),643,гІямалагардеш,CyrillTrans,"need, necessity",,,"ħaˤžatdeš, čaraʔagardeš, ʕaˤmalagardeš",Phonemic
+17-460-509-1,darg1241,Dargwa (Mekegi dialect),686,кункил,CyrillTrans,easy,,,kunkil,Phonemic
+17-470-509-1,darg1241,Dargwa (Mekegi dialect),584,къинил,CyrillTrans,difficult,,,"Ginil, zaˤħmatil",Phonemic
+17-470-509-3,darg1241,Dargwa (Mekegi dialect),584,зяхІматил,CyrillTrans,difficult,,,"Ginil, zaˤħmatil",Phonemic
+17-480-509-1,darg1241,Dargwa (Mekegi dialect),1812,хІербаркьни,CyrillTrans,"try, attempt",,,ħerbarq’ni,Phonemic
+17-490-509-1,darg1241,Dargwa (Mekegi dialect),488,кьяйда,CyrillTrans,"way, manner",,,"q’aˤyda, taˤħaˤr",Phonemic
+17-490-509-3,darg1241,Dargwa (Mekegi dialect),488,тяхІяр,CyrillTrans,"way, manner",,,"q’aˤyda, taˤħaˤr",Phonemic
+17-510-509-1,darg1241,Dargwa (Mekegi dialect),1577,ва,CyrillTrans,and,,,"wa, -ra",Phonemic
+17-510-509-3,darg1241,Dargwa (Mekegi dialect),1577,-ра,CyrillTrans,and,,,"wa, -ra",Phonemic
+17-520-509-1,darg1241,Dargwa (Mekegi dialect),1157,сенахІенну,CyrillTrans,because,,,senaħennu,Phonemic
+17-530-509-1,darg1241,Dargwa (Mekegi dialect),1459,рахле,CyrillTrans,if,,,raxle,Phonemic
+17-540-509-1,darg1241,Dargwa (Mekegi dialect),1014,йара,CyrillTrans,or,,,"yara, ya",Phonemic
+17-540-509-3,darg1241,Dargwa (Mekegi dialect),1014,йа,CyrillTrans,or,,,"yara, ya",Phonemic
+17-550-509-1,darg1241,Dargwa (Mekegi dialect),1268,гІе,CyrillTrans,"yes, affirmative",,,ʕe,Phonemic
+17-560-509-1,darg1241,Dargwa (Mekegi dialect),1269,ахІина,CyrillTrans,"no, negative",,,aħina,Phonemic
+17-610-509-1,darg1241,Dargwa (Mekegi dialect),1239,сенъан,CyrillTrans,how?,,,senʔan,Phonemic
+17-620-509-1,darg1241,Dargwa (Mekegi dialect),822,цецад,CyrillTrans,how many?,,,cecad,Phonemic
+17-630-509-1,darg1241,Dargwa (Mekegi dialect),531,цецад,CyrillTrans,how much?,,,cecad,Phonemic
+17-640-509-1,darg1241,Dargwa (Mekegi dialect),1236,се,CyrillTrans,what?,,,se,Phonemic
+17-650-509-1,darg1241,Dargwa (Mekegi dialect),1238,мурт,CyrillTrans,when?,,,murt,Phonemic
+17-660-509-1,darg1241,Dargwa (Mekegi dialect),1237,кинаб,CyrillTrans,where?,,,"kinab, kinabad",Phonemic
+17-660-509-3,darg1241,Dargwa (Mekegi dialect),1237,кинабад,CyrillTrans,where?,,,"kinab, kinabad",Phonemic
+17-670-509-1,darg1241,Dargwa (Mekegi dialect),727,сегъуна,CyrillTrans,which?,,,seɣuna,Phonemic
+17-680-509-1,darg1241,Dargwa (Mekegi dialect),1235,че,CyrillTrans,who?,,,če,Phonemic
+17-690-509-1,darg1241,Dargwa (Mekegi dialect),1270,сен,CyrillTrans,why?,,,sen,Phonemic
+18-110-509-1,darg1241,Dargwa (Mekegi dialect),1363,тІама,CyrillTrans,voice,,,t’ama,Phonemic
+18-120-509-1,darg1241,Dargwa (Mekegi dialect),1261,далайукІес,CyrillTrans,sing,,,dalayuk’es,Phonemic
+18-130-509-1,darg1241,Dargwa (Mekegi dialect),715,чІярукІес,CyrillTrans,"shout, cry out",,,č’aˤruk’es,Phonemic
+18-150-509-1,darg1241,Dargwa (Mekegi dialect),55,шукурукІес,CyrillTrans,whisper,,,šukuruk’es,Phonemic
+18-160-509-1,darg1241,Dargwa (Mekegi dialect),128,кьунтІурукІес,CyrillTrans,mumble,,,q’unt’uruk’es,Phonemic
+18-170-509-1,darg1241,Dargwa (Mekegi dialect),1025,шятІукІес,CyrillTrans,whistle,,,šaˤt’uk’es,Phonemic
+18-180-509-1,darg1241,Dargwa (Mekegi dialect),298,цІумукІес,CyrillTrans,"shriek, screech",,,c’umuk’es,Phonemic
+18-190-509-1,darg1241,Dargwa (Mekegi dialect),526,авукІес,CyrillTrans,howl,,,awuk’es,Phonemic
+18-210-509-1,darg1241,Dargwa (Mekegi dialect),1623,гъайукІес,CyrillTrans,"speak, talk",,,ɣayuk’es,Phonemic
+18-211-509-1,darg1241,Dargwa (Mekegi dialect),1866,таъ-таукІес,CyrillTrans,"stutter, stammer",,,taʔ-tauk’es,Phonemic
+18-220-509-1,darg1241,Dargwa (Mekegi dialect),1458,бурес,CyrillTrans,say,,,bures,Phonemic
+18-221-509-1,darg1241,Dargwa (Mekegi dialect),1711,хабар бурес,CyrillTrans,tell story,,,xabar bures,Phonemic
+18-222-509-1,darg1241,Dargwa (Mekegi dialect),1115,мез диркьес,CyrillTrans,speech (make a),,,mez dirq’es,Phonemic
+18-230-509-1,darg1241,Dargwa (Mekegi dialect),48,ляхІирхъес,CyrillTrans,silent (be),,,laˤħirqes,Phonemic
+18-240-509-1,darg1241,Dargwa (Mekegi dialect),1307,мез,CyrillTrans,language,,,"mez, lezmi",Phonemic
+18-240-509-3,darg1241,Dargwa (Mekegi dialect),1307,лезми,CyrillTrans,language,,,"mez, lezmi",Phonemic
+18-260-509-1,darg1241,Dargwa (Mekegi dialect),1599,гъай,CyrillTrans,word,,,ɣay,Phonemic
+18-280-509-1,darg1241,Dargwa (Mekegi dialect),1405,у,CyrillTrans,name,,,u,Phonemic
+18-310-509-1,darg1241,Dargwa (Mekegi dialect),1309,гьарбиэс,CyrillTrans,"ask (question, inquire)",,,harbies,Phonemic
+18-320-509-1,darg1241,Dargwa (Mekegi dialect),1275,жаваб лугес,CyrillTrans,answer,,,žawab luges,Phonemic
+18-330-509-1,darg1241,Dargwa (Mekegi dialect),2022,мукІурвакІес,CyrillTrans,"admit, confess",,,muk’urwak’es,Phonemic
+18-340-509-1,darg1241,Dargwa (Mekegi dialect),755,нягІядалаукІес,CyrillTrans,deny,,,naˤʕaˤdalauk’es,Phonemic
+18-350-509-1,darg1241,Dargwa (Mekegi dialect),1828,тиладиуркІес,CyrillTrans,"ask, request",,,tiladiurk’es,Phonemic
+18-360-509-1,darg1241,Dargwa (Mekegi dialect),1675,кесес,CyrillTrans,promise,,,keses,Phonemic
+18-370-509-1,darg1241,Dargwa (Mekegi dialect),49,инкар бирес,CyrillTrans,refuse,,,inkar bires,Phonemic
+18-380-509-1,darg1241,Dargwa (Mekegi dialect),83,къадагъабаркьес,CyrillTrans,forbid,,,Gadaɣabarq’es,Phonemic
+18-390-509-1,darg1241,Dargwa (Mekegi dialect),299,аркес,CyrillTrans,"rebuke, scold",,,arkes,Phonemic
+18-410-509-1,darg1241,Dargwa (Mekegi dialect),1084,вявукІес,CyrillTrans,call (=summon),,,waˤwuk’es,Phonemic
+18-420-509-1,darg1241,Dargwa (Mekegi dialect),180,бурес,CyrillTrans,call (=name),,,bures,Phonemic
+18-430-509-1,darg1241,Dargwa (Mekegi dialect),9,балахъес,CyrillTrans,announce,,,balaqes,Phonemic
+18-440-509-1,darg1241,Dargwa (Mekegi dialect),1192,май-майукІус,CyrillTrans,threaten,,,may-mayuk’us,Phonemic
+18-450-509-1,darg1241,Dargwa (Mekegi dialect),101,гапукІес,CyrillTrans,boast,,,gapuk’es,Phonemic
+18-510-509-1,darg1241,Dargwa (Mekegi dialect),1672,лукІес,CyrillTrans,write,,,luk’es,Phonemic
+18-520-509-1,darg1241,Dargwa (Mekegi dialect),724,учІес,CyrillTrans,read,,,uč’es,Phonemic
+18-560-509-1,darg1241,Dargwa (Mekegi dialect),648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-509-1,darg1241,Dargwa (Mekegi dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-509-1,darg1241,Dargwa (Mekegi dialect),963,жуз,CyrillTrans,book,,,žuz,Phonemic
+18-670-509-1,darg1241,Dargwa (Mekegi dialect),1045,шягІир,CyrillTrans,poet,,,"šaˤʕir, poet",Phonemic
+18-670-509-3,darg1241,Dargwa (Mekegi dialect),1045,поэт,CyrillTrans,poet,,,"šaˤʕir, poet",Phonemic
+18-710-509-1,darg1241,Dargwa (Mekegi dialect),777,шятІ,CyrillTrans,flute,,,šaˤt’,Phonemic
+18-720-509-1,darg1241,Dargwa (Mekegi dialect),908,дам,CyrillTrans,drum,,,dam,Phonemic
+18-730-509-1,darg1241,Dargwa (Mekegi dialect),2136,дяд,CyrillTrans,"horn, trumpet",,,daˤd,Phonemic
+18-740-509-1,darg1241,Dargwa (Mekegi dialect),300,вяхбукІан,CyrillTrans,rattle,,,waˤxbuk’an,Phonemic
+19-110-509-1,darg1241,Dargwa (Mekegi dialect),1300,улка,CyrillTrans,country,,,ulka,Phonemic
+19-120-509-1,darg1241,Dargwa (Mekegi dialect),89,вегІла улка,CyrillTrans,one's native country,,,"weʕla ulka, wat’an",Phonemic
+19-120-509-3,darg1241,Dargwa (Mekegi dialect),89,ватІан,CyrillTrans,one's native country,,,"weʕla ulka, wat’an",Phonemic
+19-150-509-1,darg1241,Dargwa (Mekegi dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-509-1,darg1241,Dargwa (Mekegi dialect),930,ши,CyrillTrans,village,,,ši,Phonemic
+19-170-509-1,darg1241,Dargwa (Mekegi dialect),1010,дазу,CyrillTrans,boundary,,,dazu,Phonemic
+19-210-509-1,darg1241,Dargwa (Mekegi dialect),789,халкь,CyrillTrans,people (populace),,,xalq’,Phonemic
+19-230-509-1,darg1241,Dargwa (Mekegi dialect),302,тухум,CyrillTrans,"tribe, clan",,,"tuxum, taypa",Phonemic
+19-230-509-3,darg1241,Dargwa (Mekegi dialect),302,тайпа,CyrillTrans,"tribe, clan",,,"tuxum, taypa",Phonemic
+19-240-509-1,darg1241,Dargwa (Mekegi dialect),301,вегІбекІ,CyrillTrans,"chief, chieftain",,,"weʕbek’, wožd",Phonemic
+19-240-509-3,darg1241,Dargwa (Mekegi dialect),301,вожд,CyrillTrans,"chief, chieftain",,,"weʕbek’, wožd",Phonemic
+19-250-509-1,darg1241,Dargwa (Mekegi dialect),1296,тІергьа,CyrillTrans,"staff, walking stick",,,t’erha,Phonemic
+19-310-509-1,darg1241,Dargwa (Mekegi dialect),1846,бекІдешдаркьес,CyrillTrans,"rule, govern",,,bek’dešdarq’es,Phonemic
+19-320-509-1,darg1241,Dargwa (Mekegi dialect),1508,пача,CyrillTrans,"king, ruler",,,pača,Phonemic
+19-330-509-1,darg1241,Dargwa (Mekegi dialect),1306,пачала гьунул,CyrillTrans,queen,,,pačala hunul,Phonemic
+19-360-509-1,darg1241,Dargwa (Mekegi dialect),482,гІяхІла жинсла,CyrillTrans,"noble, nobleman",,,ʕaˤħla žinsla,Phonemic
+19-370-509-1,darg1241,Dargwa (Mekegi dialect),1032,шагьарла адам,CyrillTrans,"citizen, subject",,,šaharla adam,Phonemic
+19-410-509-1,darg1241,Dargwa (Mekegi dialect),383,хужаим,CyrillTrans,master,,,"xužaim, weʕ",Phonemic
+19-410-509-3,darg1241,Dargwa (Mekegi dialect),383,вегІ,CyrillTrans,master,,,"xužaim, weʕ",Phonemic
+19-420-509-1,darg1241,Dargwa (Mekegi dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-509-1,darg1241,Dargwa (Mekegi dialect),255,къараваш,CyrillTrans,servant,,,"Garawaš, halawuzan",Phonemic
+19-430-509-3,darg1241,Dargwa (Mekegi dialect),255,гьалавузан,CyrillTrans,servant,,,"Garawaš, halawuzan",Phonemic
+19-440-509-1,darg1241,Dargwa (Mekegi dialect),384,азадси адам,CyrillTrans,freeman,,,"azadsi adam, uzdan",Phonemic
+19-440-509-3,darg1241,Dargwa (Mekegi dialect),384,уздан,CyrillTrans,freeman,,,"azadsi adam, uzdan",Phonemic
+19-450-509-1,darg1241,Dargwa (Mekegi dialect),1128,буйрухъбаркІес,CyrillTrans,"command, order",,,buyruqbark’es,Phonemic
+19-460-509-1,darg1241,Dargwa (Mekegi dialect),1635,мукІурваркІес,CyrillTrans,obey,,,muk’urwark’es,Phonemic
+19-470-509-1,darg1241,Dargwa (Mekegi dialect),1003,ихтийар бедлугес,CyrillTrans,"let, permit",,,ixtiyar bedluges,Phonemic
+19-510-509-1,darg1241,Dargwa (Mekegi dialect),1325,гьалмагъ,CyrillTrans,"friend, companion",,,"halmaɣ, waˤħq’a",Phonemic
+19-510-509-3,darg1241,Dargwa (Mekegi dialect),1325,вяхІкьа,CyrillTrans,"friend, companion",,,"halmaɣ, waˤħq’a",Phonemic
+19-520-509-1,darg1241,Dargwa (Mekegi dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-509-1,darg1241,Dargwa (Mekegi dialect),1332,унра,CyrillTrans,neighbor,,,unra,Phonemic
+19-550-509-1,darg1241,Dargwa (Mekegi dialect),791,валхІелуй,CyrillTrans,stranger,,,walħeluy,Phonemic
+19-560-509-1,darg1241,Dargwa (Mekegi dialect),1782,гІяхІял,CyrillTrans,guest,,,ʕaˤħaˤl,Phonemic
+19-570-509-1,darg1241,Dargwa (Mekegi dialect),1545,хъа вегІ,CyrillTrans,host,,,qa weʕ,Phonemic
+19-580-509-1,darg1241,Dargwa (Mekegi dialect),1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-509-1,darg1241,Dargwa (Mekegi dialect),1550,диргалаулхъес,CyrillTrans,"hinder, prevent",,,"dirgalaulqes, irxes",Phonemic
+19-590-509-3,darg1241,Dargwa (Mekegi dialect),1550,ирхес,CyrillTrans,"hinder, prevent",,,"dirgalaulqes, irxes",Phonemic
+19-610-509-1,darg1241,Dargwa (Mekegi dialect),1747,гІядат,CyrillTrans,custom,,,ʕaˤdat,Phonemic
+19-620-509-1,darg1241,Dargwa (Mekegi dialect),1848,къаммакъар,CyrillTrans,"strife, quarrel",,,GammaGar,Phonemic
+19-630-509-1,darg1241,Dargwa (Mekegi dialect),2024,хІилла,CyrillTrans,"conspiracy, plot",,,ħilla,Phonemic
+19-650-509-1,darg1241,Dargwa (Mekegi dialect),1831,къаршиъиркес,CyrillTrans,meet,,,Garšiʔirkes,Phonemic
+19-720-509-1,darg1241,Dargwa (Mekegi dialect),1610,къахІба,CyrillTrans,prostitute,,,Gaħba,Phonemic
+20-110-509-1,darg1241,Dargwa (Mekegi dialect),1423,кирхІес,CyrillTrans,fight (vb),,,kirħes,Phonemic
+20-130-509-1,darg1241,Dargwa (Mekegi dialect),579,дяв,CyrillTrans,"war, battle",,,daˤw,Phonemic
+20-140-509-1,darg1241,Dargwa (Mekegi dialect),1338,даршудеш,CyrillTrans,peace,,,daršudeš,Phonemic
+20-150-509-1,darg1241,Dargwa (Mekegi dialect),1561,хІуреба,CyrillTrans,army,,,"ħureba, armiya",Phonemic
+20-150-509-3,darg1241,Dargwa (Mekegi dialect),1561,армийа,CyrillTrans,army,,,"ħureba, armiya",Phonemic
+20-170-509-1,darg1241,Dargwa (Mekegi dialect),1941,ургъан,CyrillTrans,soldier,,,"urɣan, soldat",Phonemic
+20-170-509-3,darg1241,Dargwa (Mekegi dialect),1941,солдат,CyrillTrans,soldier,,,"urɣan, soldat",Phonemic
+20-210-509-1,darg1241,Dargwa (Mekegi dialect),951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-509-1,darg1241,Dargwa (Mekegi dialect),1763,къагІ,CyrillTrans,club,,,Gaʕ,Phonemic
+20-222-509-1,darg1241,Dargwa (Mekegi dialect),386,барда,CyrillTrans,battle-ax,,,barda,Phonemic
+20-230-509-1,darg1241,Dargwa (Mekegi dialect),387,къаннут,CyrillTrans,sling,,,"Gannut, GarGnud",Phonemic
+20-230-509-3,darg1241,Dargwa (Mekegi dialect),387,къаркънуд,CyrillTrans,sling,,,"Gannut, GarGnud",Phonemic
+20-240-509-1,darg1241,Dargwa (Mekegi dialect),994,урги-дерга,CyrillTrans,bow,,,urgi-derga,Phonemic
+20-250-509-1,darg1241,Dargwa (Mekegi dialect),977,урги,CyrillTrans,arrow,,,urgi,Phonemic
+20-260-509-1,darg1241,Dargwa (Mekegi dialect),945,гъуц,CyrillTrans,spear,,,ɣuc,Phonemic
+20-270-509-1,darg1241,Dargwa (Mekegi dialect),1535,тур,CyrillTrans,sword,,,tur,Phonemic
+20-280-509-1,darg1241,Dargwa (Mekegi dialect),1566,тупанг,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-280-509-3,darg1241,Dargwa (Mekegi dialect),1566,туп,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-310-509-1,darg1241,Dargwa (Mekegi dialect),1061,ургъанна палтар,CyrillTrans,armor (defensive),,,urɣanna paltar,Phonemic
+20-330-509-1,darg1241,Dargwa (Mekegi dialect),1680,мегьла кьапІа,CyrillTrans,helmet,,,mehla q’ap’a,Phonemic
+20-340-509-1,darg1241,Dargwa (Mekegi dialect),1064,къалхан,CyrillTrans,shield,,,"Galxan, hadurc",Phonemic
+20-340-509-3,darg1241,Dargwa (Mekegi dialect),1064,гьадурц,CyrillTrans,shield,,,"Galxan, hadurc",Phonemic
+20-350-509-1,darg1241,Dargwa (Mekegi dialect),1938,къала,CyrillTrans,fortress,,,"Gala, baru",Phonemic
+20-350-509-3,darg1241,Dargwa (Mekegi dialect),1938,бару,CyrillTrans,fortress,,,"Gala, baru",Phonemic
+20-360-509-1,darg1241,Dargwa (Mekegi dialect),1671,кІалгІя,CyrillTrans,tower,,,"k’alʕaˤ, q’ubba",Phonemic
+20-360-509-3,darg1241,Dargwa (Mekegi dialect),1671,кьубба,CyrillTrans,tower,,,"k’alʕaˤ, q’ubba",Phonemic
+20-410-509-1,darg1241,Dargwa (Mekegi dialect),783,чедибдеш,CyrillTrans,victory,,,čedibdeš,Phonemic
+20-420-509-1,darg1241,Dargwa (Mekegi dialect),782,удиубни,CyrillTrans,defeat,,,udiubni,Phonemic
+20-430-509-1,darg1241,Dargwa (Mekegi dialect),722,келхъес,CyrillTrans,attack,,,"kelqes, hužum, birq’es",Phonemic
+20-430-509-3,darg1241,Dargwa (Mekegi dialect),722,гьужум биркьес,CyrillTrans,attack,,,"kelqes, hužum, birq’es",Phonemic
+20-440-509-1,darg1241,Dargwa (Mekegi dialect),1330,къардеш дирес,CyrillTrans,defend,,,Gardeš dires,Phonemic
+20-450-509-1,darg1241,Dargwa (Mekegi dialect),421,гІеламилзес,CyrillTrans,retreat,,,ʕelamilzes,Phonemic
+20-460-509-1,darg1241,Dargwa (Mekegi dialect),1696,някъла арашес,CyrillTrans,surrender,,,naˤGla arašes,Phonemic
+20-470-509-1,darg1241,Dargwa (Mekegi dialect),1072,йасир,CyrillTrans,"captive, prisoner",,,"yasir, tusnaGči",Phonemic
+20-470-509-3,darg1241,Dargwa (Mekegi dialect),1072,туснакъчи,CyrillTrans,"captive, prisoner",,,"yasir, tusnaGči",Phonemic
+20-471-509-1,darg1241,Dargwa (Mekegi dialect),1940,къараул,CyrillTrans,"guard, sentinel",,,Garaul,Phonemic
+20-480-509-1,darg1241,Dargwa (Mekegi dialect),1022,хъямбаркьибил давла,CyrillTrans,"booty, spoils",,,qaˤmbarq’ibil dawla,Phonemic
+20-490-509-1,darg1241,Dargwa (Mekegi dialect),65,укарэс,CyrillTrans,ambush,,,ukarʔes,Phonemic
+20-510-509-1,darg1241,Dargwa (Mekegi dialect),1858,бялихъчи,CyrillTrans,fisherman,,,baˤliqči,Phonemic
+20-520-509-1,darg1241,Dargwa (Mekegi dialect),1074,къармукъ,CyrillTrans,fishhook,,,GarmuG,Phonemic
+20-530-509-1,darg1241,Dargwa (Mekegi dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-509-1,darg1241,Dargwa (Mekegi dialect),388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-509-1,darg1241,Dargwa (Mekegi dialect),389,тур,CyrillTrans,fish trap,,,tur,Phonemic
+20-610-509-1,darg1241,Dargwa (Mekegi dialect),1435,гІяярле вашес,CyrillTrans,hunt,,,ʕaˤyarle wašes,Phonemic
+20-620-509-1,darg1241,Dargwa (Mekegi dialect),1172,иртес,CyrillTrans,shoot,,,irtes,Phonemic
+20-630-509-1,darg1241,Dargwa (Mekegi dialect),161,варгьхІейзес,CyrillTrans,miss (target),,,warhħeyzes,Phonemic
+20-640-509-1,darg1241,Dargwa (Mekegi dialect),1075,тІимкь,CyrillTrans,trap (noun),,,t’imq’,Phonemic
+20-650-509-1,darg1241,Dargwa (Mekegi dialect),1170,тІимкьлизе бурцес,CyrillTrans,trap (vb),,,t’imq’lize burces,Phonemic
+21-110-509-1,darg1241,Dargwa (Mekegi dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-509-1,darg1241,Dargwa (Mekegi dialect),1068,диванхана,CyrillTrans,court,,,"diwanxana, sud",Phonemic
+21-150-509-3,darg1241,Dargwa (Mekegi dialect),1068,суд,CyrillTrans,court,,,"diwanxana, sud",Phonemic
+21-160-509-1,darg1241,Dargwa (Mekegi dialect),1818,диван баркьес,CyrillTrans,judge (vb),,,"diwan barq’es, sud barq’es",Phonemic
+21-160-509-3,darg1241,Dargwa (Mekegi dialect),1818,суд баркьес,CyrillTrans,judge (vb),,,"diwan barq’es, sud barq’es",Phonemic
+21-170-509-1,darg1241,Dargwa (Mekegi dialect),1067,диванла хІукму,CyrillTrans,judgment,,,"diwanla ħukmu, sudla ħukmu",Phonemic
+21-170-509-3,darg1241,Dargwa (Mekegi dialect),1067,судла хІукму,CyrillTrans,judgment,,,"diwanla ħukmu, sudla ħukmu",Phonemic
+21-180-509-1,darg1241,Dargwa (Mekegi dialect),861,диванчи,CyrillTrans,judge (noun),,,"diwanči, yuzbaši, sudya",Phonemic
+21-180-509-3,darg1241,Dargwa (Mekegi dialect),861,йузбаши,CyrillTrans,judge (noun),,,"diwanči, yuzbaši, sudya",Phonemic
+21-180-509-5,darg1241,Dargwa (Mekegi dialect),861,судйа,CyrillTrans,judge (noun),,,"diwanči, yuzbaši, sudya",Phonemic
+21-210-509-1,darg1241,Dargwa (Mekegi dialect),2020,тІалабчи,CyrillTrans,plaintiff,,,t’alabči,Phonemic
+21-220-509-1,darg1241,Dargwa (Mekegi dialect),1034,жавабкар,CyrillTrans,defendant,,,žawabkar,Phonemic
+21-230-509-1,darg1241,Dargwa (Mekegi dialect),1144,бикьри,CyrillTrans,witness,,,biq’ri,Phonemic
+21-240-509-1,darg1241,Dargwa (Mekegi dialect),1939,хъвя биркьес,CyrillTrans,swear,,,qʷaˤ birq’es,Phonemic
+21-250-509-1,darg1241,Dargwa (Mekegi dialect),1712,хъвя,CyrillTrans,oath,,,qʷaˤ,Phonemic
+21-310-509-1,darg1241,Dargwa (Mekegi dialect),1814,гІяйибла варкьес,CyrillTrans,accuse,,,ʕaˤyibla warq’es,Phonemic
+21-320-509-1,darg1241,Dargwa (Mekegi dialect),484,гІяйибла варкьес,CyrillTrans,condemn,,,ʕaˤyibla warq’es,Phonemic
+21-330-509-1,darg1241,Dargwa (Mekegi dialect),983,гІайиб кабизахъес,CyrillTrans,convict (vb),,,ʕaˤyib kabizaqes,Phonemic
+21-340-509-1,darg1241,Dargwa (Mekegi dialect),988,марварес,CyrillTrans,acquit,,,marwares,Phonemic
+21-350-509-1,darg1241,Dargwa (Mekegi dialect),1682,гІяйибкар,CyrillTrans,guilty,,,"ʕaˤyibkar, ʕaˤyibla weʕ",Phonemic
+21-350-509-3,darg1241,Dargwa (Mekegi dialect),1682,гІяйибла вегІ,CyrillTrans,guilty,,,"ʕaˤyibkar, ʕaˤyibla weʕ",Phonemic
+21-360-509-1,darg1241,Dargwa (Mekegi dialect),90,гІяйиб агвар,CyrillTrans,innocent,,,ʕaˤyib agʷar,Phonemic
+21-370-509-1,darg1241,Dargwa (Mekegi dialect),390,танбихІ,CyrillTrans,"penalty, punishment",,,tanbiħ,Phonemic
+21-380-509-1,darg1241,Dargwa (Mekegi dialect),218,арцла гІякІа,CyrillTrans,fine,,,arcla ʕaˤk’a,Phonemic
+21-390-509-1,darg1241,Dargwa (Mekegi dialect),1281,туснакъ,CyrillTrans,"prison, jail",,,tusnaG,Phonemic
+21-420-509-1,darg1241,Dargwa (Mekegi dialect),845,кавшни,CyrillTrans,murder,,,kawšni,Phonemic
+21-430-509-1,darg1241,Dargwa (Mekegi dialect),902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-509-1,darg1241,Dargwa (Mekegi dialect),953,гужбарни,CyrillTrans,rape,,,gužbarni,Phonemic
+21-460-509-1,darg1241,Dargwa (Mekegi dialect),1889,цІадихьни,CyrillTrans,arson,,,c’adix̌ni,Phonemic
+21-470-509-1,darg1241,Dargwa (Mekegi dialect),1792,къянала бикьри,CyrillTrans,perjury,,,"Gaˤnala biq’ri, yalɣan biq’ri",Phonemic
+21-470-509-3,darg1241,Dargwa (Mekegi dialect),1792,йалгъан бикьри,CyrillTrans,perjury,,,"Gaˤnala biq’ri, yalɣan biq’ri",Phonemic
+21-510-509-1,darg1241,Dargwa (Mekegi dialect),713,билгІес,CyrillTrans,steal,,,"bilʕes, qulknad wašes",Phonemic
+21-510-509-3,darg1241,Dargwa (Mekegi dialect),713,хъулкнад вашес,CyrillTrans,steal,,,"bilʕes, qulknad wašes",Phonemic
+21-520-509-1,darg1241,Dargwa (Mekegi dialect),1160,хъулки,CyrillTrans,thief,,,qulki,Phonemic
+22-110-509-1,darg1241,Dargwa (Mekegi dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-509-1,darg1241,Dargwa (Mekegi dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-509-1,darg1241,Dargwa (Mekegi dialect),911,мизгит,CyrillTrans,"temple, church",,,"mizgit, kilasa",Phonemic
+22-130-509-3,darg1241,Dargwa (Mekegi dialect),911,киласа,CyrillTrans,"temple, church",,,"mizgit, kilasa",Phonemic
+22-140-509-1,darg1241,Dargwa (Mekegi dialect),853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-509-1,darg1241,Dargwa (Mekegi dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,q’urban,Phonemic
+22-160-509-1,darg1241,Dargwa (Mekegi dialect),257,суждабиркьес,CyrillTrans,worship,,,suždabirq’es,Phonemic
+22-170-509-1,darg1241,Dargwa (Mekegi dialect),24,дехІбулта иркьес,CyrillTrans,pray,,,deħbulta irq’es,Phonemic
+22-180-509-1,darg1241,Dargwa (Mekegi dialect),852,малла,CyrillTrans,priest,,,"malla, kašis",Phonemic
+22-180-509-3,darg1241,Dargwa (Mekegi dialect),852,кашиш,CyrillTrans,priest,,,"malla, kašis",Phonemic
+22-190-509-1,darg1241,Dargwa (Mekegi dialect),1702,дурхъай,CyrillTrans,"holy, sacred",,,durqay,Phonemic
+22-220-509-1,darg1241,Dargwa (Mekegi dialect),304,вягІза биркьес,CyrillTrans,preach,,,"waˤʕza birq’es, nasiħaˤt uhes",Phonemic
+22-220-509-3,darg1241,Dargwa (Mekegi dialect),304,насихІят угьес,CyrillTrans,preach,,,"waˤʕza birq’es, nasiħaˤt uhes",Phonemic
+22-230-509-1,darg1241,Dargwa (Mekegi dialect),391,гІяхІ булгес,CyrillTrans,bless,,,ʕaˤħ bulges,Phonemic
+22-240-509-1,darg1241,Dargwa (Mekegi dialect),8,лягІнат бушес,CyrillTrans,curse,,,laˤʕnat bušes,Phonemic
+22-260-509-1,darg1241,Dargwa (Mekegi dialect),303,дубурцес,CyrillTrans,fast (vb),,,"duburces, dubbucar burces",Phonemic
+22-260-509-3,darg1241,Dargwa (Mekegi dialect),303,дуббуцар бурцес,CyrillTrans,fast (vb),,,"duburces, dubbucar burces",Phonemic
+22-310-509-1,darg1241,Dargwa (Mekegi dialect),1565,алжана,CyrillTrans,heaven,,,alžana,Phonemic
+22-320-509-1,darg1241,Dargwa (Mekegi dialect),878,жагьаннаб,CyrillTrans,hell,,,žahannab,Phonemic
+22-350-509-1,darg1241,Dargwa (Mekegi dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, maˤlʕun, šeyt’an",Phonemic
+22-350-509-3,darg1241,Dargwa (Mekegi dialect),1973,мялгІун,CyrillTrans,demon (evil spirit),,,"ilbis, maˤlʕun, šeyt’an",Phonemic
+22-350-509-5,darg1241,Dargwa (Mekegi dialect),1973,шейтІан,CyrillTrans,demon (evil spirit),,,"ilbis, maˤlʕun, šeyt’an",Phonemic
+22-370-509-1,darg1241,Dargwa (Mekegi dialect),1945,къанч,CyrillTrans,idol,,,Ganč’,Phonemic
+22-420-509-1,darg1241,Dargwa (Mekegi dialect),392,сихІру,CyrillTrans,"magic, witchcraft, sorcery",,,siħru,Phonemic
+22-430-509-1,darg1241,Dargwa (Mekegi dialect),2137,вагьиг,CyrillTrans,"sorcerer, witch",,,wahig,Phonemic
+22-440-509-1,darg1241,Dargwa (Mekegi dialect),2138,гьурулгІян,CyrillTrans,"fairy, elf",,,hurulʕaˤn,Phonemic
+22-450-509-1,darg1241,Dargwa (Mekegi dialect),1175,лишан,CyrillTrans,"ghost, phantom",,,lišan,Phonemic
+22-470-509-1,darg1241,Dargwa (Mekegi dialect),107,гІяламат,CyrillTrans,"omen, portent",,,ʕaˤlamat,Phonemic

@@ -1,0 +1,813 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-243-1,chib1270,Muisca,1852,atezaca atezaca,LatinTrans,often,perez1987,Also spquina spquina /spki-na spki-na.,atec̷̣a-ka atec̷̣a-ka,Phonemic
+14-310-243-1,chib1270,Muisca,1676,hischan xie,LatinTrans,always,perez1987,Also yscuque hataca /ɨskuke hataka/—both from MsM1. MsM2 has hischa nxie /hisṣa nsie/; yscuque /ɨskuke/.,hisṣansie,Phonemic
+14-270-243-1,chib1270,Muisca,1766,achahansuca,LatinTrans,finish,perez1987,Also abgyunsuca /a-βɣɨ-un-suka/.,a-ṣaha-n-suka,Phonemic
+14-260-243-1,chib1270,Muisca,743,ynbgyusa,LatinTrans,end (temporal),perez1987,,ɨn-βɣɨ-usa,Phonemic
+14-252-243-1,chib1270,Muisca,1186,izone,LatinTrans,"last, endure",perez1987,,ic̷̣one; isukune,Phonemic
+14-252-243-3,chib1270,Muisca,1186,isucune,LatinTrans,"last, endure",perez1987,,ic̷̣one; isukune,Phonemic
+14-230-243-1,chib1270,Muisca,754,zihizensuca,LatinTrans,"hasten, hurry",perez1987,'To make someone hurry' zemihizesuca /c̷̣ɨ-β-ihi-c̷̣ɨ-suka/.,c̷̣ɨ-hi-c̷̣ɨ-n-suka,Phonemic
+14-220-243-1,chib1270,Muisca,701,hichana,LatinTrans,slow,perez1987,,hiṣana,Phonemic
+14-210-243-1,chib1270,Muisca,1631,spquina,LatinTrans,"swift, fast, quick",perez1987,"Also toca /toka/ is used with negative verbs. cua /-kua/; yecua /ɨekua-/, as in, e.g., yecuzehunga /ieku-c̷̣ɨ-hu-nɣa/ 'rápido-1st p.sing.-come-future' 'I will come quickly'.",spkɨna,Phonemic
+14-180-243-1,chib1270,Muisca,1376,fa,LatinTrans,now,perez1987,Constenla has fa.,βa; βahɨsa,Phonemic
+14-180-243-3,chib1270,Muisca,1376,fahysa,LatinTrans,now,perez1987,Constenla has fa.,βa; βahɨsa,Phonemic
+14-170-243-1,chib1270,Muisca,477,suamena,LatinTrans,late,perez1987,"Refers to the afternoon, after midday. To be late is ityegosqua /itɨe-ɣo-skua/.",sua-mena,Phonemic
+14-160-243-1,chib1270,Muisca,672,umpquacuca,LatinTrans,early,perez1987,,umpkua-kuka,Phonemic
+14-150-243-1,chib1270,Muisca,1229,saca,LatinTrans,old,perez1987,"Refers to an old thing. An 'old man' is tybara /tɨβara/; tybacha /tɨβaṣa/, with dialectal variation. The <ch> was articulated in the Santa Fe dialect, which is described in the colonial grammars. Also sasia, means 'ancient'; fanzaquia 'very ancient'. Wheeler has saka.",saka,Phonemic
+14-130-243-1,chib1270,Muisca,1231,fihiza,LatinTrans,new,perez1987,Wheeler has fihiza.,βihic̷̣a,Phonemic
+13-440-243-1,chib1270,Muisca,417,ycamicaz,LatinTrans,three times,perez1987,,ɨka-mika-c̷̣,Phonemic
+13-420-243-1,chib1270,Muisca,1859,micûn,LatinTrans,third,perez1987,"From Lugo, 1619.",mikun,Phonemic
+13-380-243-1,chib1270,Muisca,1546,ycabozaz,LatinTrans,two times,perez1987,,ɨka-βoc̷̣a-c̷̣,Phonemic
+13-370-243-1,chib1270,Muisca,1888,tama-,LatinTrans,pair,perez1987,,tama-,Phonemic
+13-360-243-1,chib1270,Muisca,1384,amuyca,LatinTrans,second,perez1987,"Also, from MsM1 amuyia /amɨia/; from MsM2 amuyiaca /amɨiaka/.",amɨka,Phonemic
+13-350-243-1,chib1270,Muisca,1529,bgyuc,LatinTrans,last,perez1987,,βɣɨuk,Phonemic
+13-340-243-1,chib1270,Muisca,728,quyhyna,LatinTrans,first,perez1987,"Note that Lugo(1619) has qhyn /khɨn/, presumably *kɨhɨnɨ.",kɨhɨna,Phonemic
+13-330-243-1,chib1270,Muisca,1580,atuca,LatinTrans,"alone, only",perez1987,,a-tuka; a-tupkua,Phonemic
+13-330-243-3,chib1270,Muisca,1580,atupqua,LatinTrans,"alone, only",perez1987,,a-tuka; a-tupkua,Phonemic
+13-240-243-1,chib1270,Muisca,816,chinna,LatinTrans,half,perez1987,,ṣinna,Phonemic
+13-220-243-1,chib1270,Muisca,1624,ytuc aguene,LatinTrans,empty,perez1987,Also ytuc azone /ɨtu-k ac̷̣one/.,ɨtu-k a-ɣene,Phonemic
+13-210-243-1,chib1270,Muisca,1429,ies asucune,LatinTrans,full,perez1987,Also yetan asucune /ɨetan asukune/—both terms mean a full container. To have in abundance is fuyza /-βuɨc̷̣a/.,ies asukune,Phonemic
+13-181-243-1,chib1270,Muisca,1241,ipquabie,LatinTrans,some,perez1987,Also ipquabe /ipkuaβe/ 'algo'. 'Alguno' is atabe /ataβe/; atabie /ataβie/.,ipkuaβie,Phonemic
+13-170-243-1,chib1270,Muisca,1242,fiquenza,LatinTrans,"little (quantity), few",perez1987,"Also fienza /βie-nc̷̣a/, lit. 'much-negation'.",βike-nc̷̣a,Phonemic
+13-160-243-1,chib1270,Muisca,1992,asaqy,LatinTrans,more,perez1987,,asakɨ,Phonemic
+13-150-243-1,chib1270,Muisca,1198,fie,LatinTrans,"much, many",perez1987,,βie,Phonemic
+13-140-243-1,chib1270,Muisca,98,azonuca,LatinTrans,"every, all",perez1987,Also asucunuca /asukunuka/; apquanuca /apkuanuka/; fuiza /-βuic̷̣a/.,ac̷̣onuka,Phonemic
+13-107-243-1,chib1270,Muisca,1420,bgytysuca,LatinTrans,count,perez1987,,β-ɣɨtɨ-suka,Phonemic
+13-106-243-1,chib1270,Muisca,1843,guehyzca hubchihica,LatinTrans,thousand,perez1987,lit. 'hundred ten' =10 x 100.,ɣe-hɨc̷̣ka huβṣihika,Phonemic
+13-105-243-1,chib1270,Muisca,1634,guehyzca,LatinTrans,hundred,perez1987,"Lit. 'twenty-five', that is, 5 x 20s = 100.",ɣe-hɨc̷̣ka,Phonemic
+13-104-243-1,chib1270,Muisca,1710,quihicha hubchihica,LatinTrans,twenty,perez1987,lit. 'foot ten'. Also gueta /ɣeta/.,kihiṣa huβṣihika,Phonemic
+13-103-243-1,chib1270,Muisca,1709,quihicha hyzca,LatinTrans,fifteen,perez1987,Lit. 'foot five'.,kihiṣa hɨc̷̣ka,Phonemic
+13-102-243-1,chib1270,Muisca,1707,quihicha boza,LatinTrans,twelve,perez1987,Lit. 'foot two'.,kihiṣa βoc̷̣a,Phonemic
+13-101-243-1,chib1270,Muisca,1706,quihicha ata,LatinTrans,eleven,perez1987,Lit. 'foot one'.,kihiṣa ata,Phonemic
+13-100-243-1,chib1270,Muisca,1515,hubchihica,LatinTrans,ten,perez1987,,huβṣihika,Phonemic
+13-90-243-1,chib1270,Muisca,1483,aca,LatinTrans,nine,perez1987,,aka,Phonemic
+13-80-243-1,chib1270,Muisca,1705,suhuza,LatinTrans,eight,perez1987,,suhuc̷̣a,Phonemic
+13-70-243-1,chib1270,Muisca,1704,qhupqua,LatinTrans,seven,perez1987,Wheeler has kuhupkua. Constenla has cuhu-pca,khupkua,Phonemic
+13-60-243-1,chib1270,Muisca,1703,taa,LatinTrans,six,perez1987,Wheeler has ta. Constenla has ta.,taa,Phonemic
+13-50-243-1,chib1270,Muisca,493,hyzca,LatinTrans,five,perez1987,Wheeler has hizka.,hɨc̷̣ka,Phonemic
+13-40-243-1,chib1270,Muisca,1500,mhuyzca,LatinTrans,four,perez1987,Variants occur in: MsM2 muyhyca; GdP mhuyzca; Lugo mhuyca. Wheeler has muihika. Constenla has muyhyca.,mɨhuɨc̷̣ka,Phonemic
+13-20-243-1,chib1270,Muisca,1498,boza,LatinTrans,two,perez1987,Wheeler has boza. Constenla has boza.,βoc̷̣a,Phonemic
+13-30-243-1,chib1270,Muisca,492,mica,LatinTrans,three,perez1987,Wheeler has mika. Constenla has mica.,mika,Phonemic
+13-10-243-1,chib1270,Muisca,1493,ata,LatinTrans,one,perez1987,,ata,Phonemic
+13-0-243-1,chib1270,Muisca,1294,etaquyn magueza,LatinTrans,"zero, nothing",perez1987,,eta-kɨn maɣe-c̷̣a,Phonemic
+12-930-243-1,chib1270,Muisca,1264,zemimysuca,LatinTrans,change,perez1987,,c̷̣ɨ-mimɨ-suka,Phonemic
+12-920-243-1,chib1270,Muisca,1558,hycha zecuhuc aguecua,LatinTrans,"like, similar",perez1987,means 'is similar to me.',hɨṣa c̷̣ɨ-kuhuk a-ɣekua,Phonemic
+12-850-243-1,chib1270,Muisca,1667,phigua,LatinTrans,hole,perez1987,MsM1 and MsM2 have pihigua.,pihiɣua,Phonemic
+12-810-243-1,chib1270,Muisca,1395,atoboca,LatinTrans,round,perez1987,Also abenoca /a-βenoka/.,a-toβoka,Phonemic
+12-760-243-1,chib1270,Muisca,192,achopquana,LatinTrans,corner,perez1987,Also atoipquana /atoipkuana/.,aṣopkuana,Phonemic
+12-750-243-1,chib1270,Muisca,1071,zizua,LatinTrans,hook,perez1987,,c̷̣ic̷̣ua,Phonemic
+12-730-243-1,chib1270,Muisca,1404,pquihizuc zona,LatinTrans,straight,perez1987,Also chichyc zona /ṣisɨ-k c̷̣ona/; ubtas zes /uβtas c̷̣es/.,pkihic̷̣u-k c̷̣ona,Phonemic
+12-710-243-1,chib1270,Muisca,1633,atucac aguecua,LatinTrans,flat,perez1987,,a-tuka-k a-ɣekua,Phonemic
+12-670-243-1,chib1270,Muisca,1593,etague etaynpuyca,LatinTrans,deep,perez1987,,eta-ɣe eta-ɨn-pɨka,Phonemic
+12-650-243-1,chib1270,Muisca,2249,asiten mague,LatinTrans,thin (in dimension),perez1987,"Refers to a thin person. A thing is sotupqua /sotupkua/, from MsM1.",a-siten maɣe,Phonemic
+12-630-243-1,chib1270,Muisca,1244,achimy gue,LatinTrans,thick (in dimension),perez1987,Also acuhumen mague /a-kuhumen maɣe/.,a-ṣimɨ ɣe,Phonemic
+12-620-243-1,chib1270,Muisca,1267,afihistaza,LatinTrans,narrow,perez1987,Means 'narrow' from outside perspective. Also afihista magueza /a-βihista maɣe-c̷̣a/ from MsM2. 'Narrow' from inside perspective: atyeza /a-tɨe-c̷̣a/; atye magueza /a-tɨe maɣe-c̷̣a/. Compiled from three manuscripts.,a-βihista-c̷̣a,Phonemic
+12-610-243-1,chib1270,Muisca,1243,afihista gue,LatinTrans,"wide, broad",perez1987,Means 'wide' from outside perspective. Also aty gue /a-tɨ ɣe/ 'wide' from inside perspective.,a-βihista ɣe,Phonemic
+12-590-243-1,chib1270,Muisca,1645,asuhucaza,LatinTrans,short,perez1987,Also asuhuca magueza /a-suhuka maɣe-c̷̣a/; agahasnza /a-ɣahas-nc̷̣a/.,a-suhuka-c̷̣a,Phonemic
+12-580-243-1,chib1270,Muisca,711,gynapquane,LatinTrans,tall,perez1987,Also gynieapquane /ɣɨniea-pkuane/.,ɣɨna-pkuane,Phonemic
+12-570-243-1,chib1270,Muisca,1203,gahasio,LatinTrans,long,perez1987,Also agahasyn mague /a-ɣahas-ɨn maɣe/; asuhuca gue /a-suhu-ka ɣe/.,ɣahasio,Phonemic
+12-560-243-1,chib1270,Muisca,1246,inguezunga,LatinTrans,"small, little",perez1987,Also ingue zyhynynga /inɣe c̷̣ɨhɨnɨnɣa/.,inɣe-c̷̣unɣa,Phonemic
+12-550-243-1,chib1270,Muisca,1202,cuhuma,LatinTrans,"large, big",perez1987,'Very large' is cumin /kuhum-in/.,kuhuma,Phonemic
+12-540-243-1,chib1270,Muisca,1506,zeguaosuca,LatinTrans,measure,perez1987,,c̷̣ɨ-ɣuao-suka,Phonemic
+12-430-243-1,chib1270,Muisca,1942,hischcatan,LatinTrans,near (adv),perez1987,Indicates without movement. anguac /anɣua-k/ indicates movement.,hiṣkata-n,Phonemic
+12-440-243-1,chib1270,Muisca,1406,ahuen mague,LatinTrans,far (adv),perez1987,,a-huen maɣe,Phonemic
+12-420-243-1,chib1270,Muisca,244,zuin apquac ague,LatinTrans,left (side),perez1987,,c̷̣-uin apkua-k a-ɣe,Phonemic
+12-410-243-1,chib1270,Muisca,1019,yta cho,LatinTrans,right (side),perez1987,"Lit. 'hand good' = 'right hand'. However, it appears that there is no exact equivalent of 'right' and 'left'. GdP gives sihic husa for right or left hand, with indication of gesturing direction, and comment: 'There is no other way'[to say it].",ɨta ṣo,Phonemic
+12-370-243-1,chib1270,Muisca,1093,ganyca,LatinTrans,"middle, center",perez1987,,ɣanɨ-ka-,Phonemic
+12-353-243-1,chib1270,Muisca,863,oba,LatinTrans,edge,perez1987,"Wheeler suggests -wa, which occurs on items such as 'chin' kinhua.",oβa; koka,Phonemic
+12-353-243-3,chib1270,Muisca,863,coca,LatinTrans,edge,perez1987,"Wheeler suggests -wa, which occurs on items such as 'chin' kinhua.",oβa; koka,Phonemic
+12-352-243-1,chib1270,Muisca,372,obta,LatinTrans,pointed,perez1987,,oβta,Phonemic
+12-350-243-1,chib1270,Muisca,742,ynbgyusa,LatinTrans,end,perez1987,,ɨnβɣɨusa,Phonemic
+12-340-243-1,chib1270,Muisca,690,etaca,LatinTrans,bottom,perez1987,,etaka,Phonemic
+12-330-243-1,chib1270,Muisca,1753,zyta,LatinTrans,top,perez1987,,c̷̣ɨta,Phonemic
+12-310-243-1,chib1270,Muisca,1265,guatzona,LatinTrans,high,perez1987,,ɣuat-c̷̣ona,Phonemic
+12-270-243-1,chib1270,Muisca,602,bchiy-suca,LatinTrans,"hide, conceal",perez1987,,-β-ṣiɨ-suka,Phonemic
+12-250-243-1,chib1270,Muisca,1046,quyhyc btasqua,LatinTrans,"shut, close",perez1987,,kɨhɨ-k -β-ta-skua,Phonemic
+12-260-243-1,chib1270,Muisca,761,asac zmuysqua,LatinTrans,cover,perez1987,Also asa btasqua /asa -β-ta-skua/; fihiste btasqua /βihiste -β-ta-skua/; agyi btasqua /aɣɨi -β-ta-skua/; ys bzihisqua /ɨs -β-c̷̣ihi-skua/.,asa-k c̷̣ɨ-mɨ-skua,Phonemic
+12-240-243-1,chib1270,Muisca,1156,quyhycas biasqua,LatinTrans,open,perez1987,Also hyquis bzasqua /hɨkɨs -β-c̷̣a-skua/; hyquis biasqua /hɨkɨs -β-ia-skua/.,kɨhɨkas -β-ia-skua,Phonemic
+12-232-243-1,chib1270,Muisca,1119,sacan btascua,LatinTrans,divide,perez1987,,sakan -β-ta-skua,Phonemic
+12-230-243-1,chib1270,Muisca,1359,yban btasqua,LatinTrans,separate,perez1987,,ɨβan -β-ta-skua,Phonemic
+12-220-243-1,chib1270,Muisca,1743,atuca zebquisqua,LatinTrans,"join, unite",perez1987,"Also yban zebquysqua /ɨβan c̷̣ɨ-β-kɨ-skua/, both examples from MsM1.",atuka c̷̣ɨ-β-kɨ-skua,Phonemic
+12-213-243-1,chib1270,Muisca,1576,asanasan bquysqua,LatinTrans,pile up,perez1987,Also agyn agyn bquysqua /a-ɣɨn a-ɣɨn -β-kɨ-skua/; bchunos bquysqua /-β-ṣunos β-kɨ-skua/; bchunoasuca /-β-ṣuno-a-suka/.,a-san a-san -β-kɨ-skua,Phonemic
+12-212-243-1,chib1270,Muisca,371,guatbquysqua,LatinTrans,pick up,perez1987,,ɣuat-β-kɨ-skua,Phonemic
+12-210-243-1,chib1270,Muisca,7,bchichysuca,LatinTrans,"collect, gather",perez1987,"'To collect things, one here and one there' zemisqua /c̷̣ɨ-mi-skua/.",β-ṣiṣɨ-suka,Phonemic
+12-170-243-1,chib1270,Muisca,838,etago,LatinTrans,"remains, left overs",perez1987,,etaɣo,Phonemic
+12-160-243-1,chib1270,Muisca,987,ypquac zemasqua,LatinTrans,"remain, stay",perez1987,With meaning of 'quedarse'; 'permanecer' is yscuc zeguene /ɨ-sku-k c̷̣ɨ-ɣe-ne.,ɨpkua-k c̷̣ɨ-ma-skua,Phonemic
+12-150-243-1,chib1270,Muisca,1442,quypquas zpquansuca,LatinTrans,stand,perez1987,,kɨpkua-s c̷̣ɨ-pkuan-suka,Phonemic
+12-140-243-1,chib1270,Muisca,215,ybcac izone,LatinTrans,lie down,perez1987,"To be lying down, right-side up: ybcac izasqua /ɨ-β-ka-k i-c̷̣a-skua/.",ɨ-βka-k i-c̷̣one,Phonemic
+12-130-243-1,chib1270,Muisca,1416,hichan izasqua,LatinTrans,sit,perez1987,Also hichan ithyhysqua /hiṣa-n itɨhɨ-skua/.,hiṣa-n i-c̷̣a-skua,Phonemic
+12-120-243-1,chib1270,Muisca,998,bzasqua,LatinTrans,put,perez1987,"Refers to putting one thing. To put several things, up to 8 or 10: pquysqua /p-kɨ-skua/. To put a multitud of things: bquysqua /β-kɨ-skua/.",β-c̷̣a-skua,Phonemic
+12-110-243-1,chib1270,Muisca,723,quypqua,LatinTrans,place,perez1987,Constenla has quy-pcua with derivational suffix.,kɨpkua,Phonemic
+12-80-243-1,chib1270,Muisca,1591,chicana,LatinTrans,"up, above",perez1987,"See 12.030; first form is without movement, second form is with movement.",ṣika-na; ṣika-ka,Phonemic
+12-80-243-3,chib1270,Muisca,1591,chicaca,LatinTrans,"up, above",perez1987,"See 12.030; first form is without movement, second form is with movement.",ṣika-na; ṣika-ka,Phonemic
+12-70-243-1,chib1270,Muisca,1485,uca,LatinTrans,under,perez1987,,-uka; -usa,Phonemic
+12-70-243-3,chib1270,Muisca,1485,usa,LatinTrans,under,perez1987,,-uka; -usa,Phonemic
+12-60-243-1,chib1270,Muisca,762,fac,LatinTrans,outside,perez1987,,βak,Phonemic
+12-50-243-1,chib1270,Muisca,1606,huia,LatinTrans,"inside, in",perez1987,"Also -tena, -tana, -taca /-te-na, -ta-na, -ta-ka/; -histana /-hista-na/; -cuspquana /-kuspkua-na/.","huia, huie",Phonemic
+12-50-243-3,chib1270,Muisca,1606,huie,LatinTrans,"inside, in",perez1987,"Also -tena, -tana, -taca /-te-na, -ta-na, -ta-ka/; -histana /-hista-na/; -cuspquana /-kuspkua-na/.","huia, huie",Phonemic
+12-41-243-1,chib1270,Muisca,1883,-ubana,LatinTrans,front,perez1987,See 'face' 04.204.,-uβa-na,Phonemic
+12-40-243-1,chib1270,Muisca,1882,-quyhyna,LatinTrans,before,perez1987,Also sasa /sasa/; -zacuca /-c̷̣aku-ka/.,-kɨhɨ-na,Phonemic
+12-30-243-1,chib1270,Muisca,2094,hicha-,LatinTrans,"down, below",perez1987,Also -ty- /-tɨ-/; guasa- /ɣuasa-/. Adding suffix -na /-na/ means 'adverbios de quietud'. Suffix -ca /-ka/ means 'adverbios de movimiento'. See 12.080.,hiṣa-; βihista-,Phonemic
+12-30-243-3,chib1270,Muisca,2094,fihista-,LatinTrans,"down, below",perez1987,Also -ty- /-tɨ-/; guasa- /ɣuasa-/. Adding suffix -na /-na/ means 'adverbios de quietud'. Suffix -ca /-ka/ means 'adverbios de movimiento'. See 12.080.,hiṣa-; βihista-,Phonemic
+12-20-243-1,chib1270,Muisca,1816,-quihina,LatinTrans,beside,perez1987,Means 'beside a person'; MsM1 also has -quihyten /-kihɨ-ten/. 'Beside (things)' -cuhuena /-kuhu-e-na/ (GdP); -cuhutana /-kuhu-ta-na/ (MsM1); -cuhutena /-kuhu-te-na/ (MsM2).,"-kihi-na, -kihi-ken",Phonemic
+12-20-243-3,chib1270,Muisca,1816,-quihiquen,LatinTrans,beside,perez1987,Means 'beside a person'; MsM1 also has -quihyten /-kihɨ-ten/. 'Beside (things)' -cuhuena /-kuhu-e-na/ (GdP); -cuhutana /-kuhu-ta-na/ (MsM1); -cuhutena /-kuhu-te-na/ (MsM2).,"-kihi-na, -kihi-ken",Phonemic
+12-11-243-1,chib1270,Muisca,1686,-gahas,LatinTrans,behind,perez1987,"Also -zitas, -zitan /-c̷̣ita-s, -c̷̣ita-n/.","-ɣaha-s, -ɣaha-n",Phonemic
+12-11-243-3,chib1270,Muisca,1686,-gahan,LatinTrans,behind,perez1987,"Also -zitas, -zitan /-c̷̣ita-s, -c̷̣ita-n/.","-ɣaha-s, -ɣaha-n",Phonemic
+12-10-243-1,chib1270,Muisca,1685,ypqua,LatinTrans,after,perez1987,,-ɨpkua; -ɨpkua-na,Phonemic
+12-10-243-3,chib1270,Muisca,1685,ypquana,LatinTrans,after,perez1987,,-ɨpkua; -ɨpkua-na,Phonemic
+11-920-243-1,chib1270,Muisca,1098,zeguaesuca,LatinTrans,weigh,perez1987,Means to weigh on a scale. 'To weigh the cargo' afihizansuca /a-βihic̷̣a-n-suka/.,c̷̣ɨ-ɣuae-suka,Phonemic
+11-910-243-1,chib1270,Muisca,884,bquyquysuca,LatinTrans,share (distribute),perez1987,,-β-kɨkɨ-suka,Phonemic
+11-890-243-1,chib1270,Muisca,1887,acucaza,LatinTrans,cheap,perez1987,,a-kuka-c̷̣a,Phonemic
+11-880-243-1,chib1270,Muisca,1426,acuca gue,LatinTrans,"dear (costly, expensive)",perez1987,Also acuca ynpuyca /a-kuka ɨn-pɨka/.,a-kuka ɣe,Phonemic
+11-870-243-1,chib1270,Muisca,657,cuca,LatinTrans,price,perez1987,,kuka,Phonemic
+11-850-243-1,chib1270,Muisca,633,ipta,LatinTrans,market (place),perez1987,"In MsM1. Also iepta /iepta/, MsM2.",ipta,Phonemic
+11-830-243-1,chib1270,Muisca,2135,zemimysuca,LatinTrans,"trade, barter",perez1987,,c̷̣ɨ-m-imɨ-suka,Phonemic
+11-820-243-1,chib1270,Muisca,1571,zemutysuca,LatinTrans,sell,perez1987,,c̷̣ɨ-mutɨ-suka,Phonemic
+11-810-243-1,chib1270,Muisca,1869,zebcusqua,LatinTrans,buy,perez1987,,c̷̣ɨ-β-ku-skua,Phonemic
+11-690-243-1,chib1270,Muisca,873,tamsa,LatinTrans,"tax, tribute",perez1987,,tamsa,Phonemic
+11-660-243-1,chib1270,Muisca,1081,bgytysuca,LatinTrans,"account, reckoning",perez1987,,β-ɣɨtɨ-suka,Phonemic
+11-650-243-1,chib1270,Muisca,718,bqusqua,LatinTrans,pay (vb),perez1987,,β-ku-skua,Phonemic
+11-640-243-1,chib1270,Muisca,1914,chubia,LatinTrans,debt,perez1987,,ṣuβia,Phonemic
+11-630-243-1,chib1270,Muisca,369,ichubia caguene,LatinTrans,owe,perez1987,"From MsM1, 'I owe'.",i-ṣuβia-k a-ɣene,Phonemic
+11-620-243-1,chib1270,Muisca,1823,--btyusuca,LatinTrans,borrow,perez1987,Object precedes verb.,--β-tɨu-suka,Phonemic
+11-540-243-1,chib1270,Muisca,1774,ataban mague,LatinTrans,"avaricious, stingy",perez1987,,a-taba-n maɣe,Phonemic
+11-510-243-1,chib1270,Muisca,712,zipquazagasqua,LatinTrans,rich,perez1987,"Means 'to make rich, become rich'.",c̷̣-ipkua-c̷̣-aɣa-skua,Phonemic
+11-430-243-1,chib1270,Muisca,1559,nyia,LatinTrans,money,perez1987,"Also means 'gold, silver' 09.640, 09.650.",nɨia,Phonemic
+11-340-243-1,chib1270,Muisca,1095,ubtasqua,LatinTrans,"release, let go",perez1987,,uβta-skua,Phonemic
+11-330-243-1,chib1270,Muisca,1660,ai btasqua,LatinTrans,lose,perez1987,Also aguezac bgasqua /aɣec̷̣a-k β-ɣa-skua/; ai bgyisuca /ai-β-ɣɨi-suka/; bzasysuca /β-c̷̣asɨ-suka/.,ai β-ta-skua,Phonemic
+11-320-243-1,chib1270,Muisca,719,zemistysuca,LatinTrans,find,perez1987,,c̷̣ɨ-mistɨ-suka,Phonemic
+11-310-243-1,chib1270,Muisca,1468,zemisqua,LatinTrans,"seek, look for",perez1987,,c̷̣ɨ-mi-skua,Phonemic
+11-280-243-1,chib1270,Muisca,44,bguahaiasuca,LatinTrans,"harm, injure, damage",perez1987,'To wound' is btyhypquasuca /β-tɨhɨ-pkua-suka/.,β-guahaia-suka,Phonemic
+11-250-243-1,chib1270,Muisca,2008,zehuizesuca,LatinTrans,"save, rescue",perez1987,,c̷̣ɨ-huic̷̣e-suka,Phonemic
+11-210-243-1,chib1270,Muisca,1447,hoc mnysqua,LatinTrans,give,perez1987,,hok β-nɨ-skua,Phonemic
+11-180-243-1,chib1270,Muisca,738,ipquabie,LatinTrans,thing,perez1987,Also ipquabe /ipkuaβe/.,ipkuaβie,Phonemic
+11-150-243-1,chib1270,Muisca,1448,cam bquysqua,LatinTrans,hold,perez1987,,kam β-kɨ-skua,Phonemic
+11-130-243-1,chib1270,Muisca,1749,zebgusqua,LatinTrans,take,perez1987,"'Tomar para sí' zuaca zebgusqua /c̷̣-uaka c̷̣ɨ-β-ɣu-skua/, in MsM1.",c̷̣ɨ-β-ɣu-skua,Phonemic
+11-120-243-1,chib1270,Muisca,684,epqua gue,LatinTrans,"own, possess",perez1987,Refers to 'owner'.,epkua ɣe,Phonemic
+11-110-243-1,chib1270,Muisca,773,aguene,LatinTrans,have,perez1987,,aɣene,Phonemic
+10-840-243-1,chib1270,Muisca,1664,zine,LatinTrans,raft,perez1987,,c̷̣ine,Phonemic
+10-710-243-1,chib1270,Muisca,667,ie,LatinTrans,road,perez1987,Constenla has ie.,ie,Phonemic
+10-630-243-1,chib1270,Muisca,1127,btyusuca,LatinTrans,send,perez1987,,-β-tɨu-suka,Phonemic
+10-620-243-1,chib1270,Muisca,692,zemasqua bsosqua,LatinTrans,bring,perez1987,,c̷̣ɨ-ma-skua β-so-skua,Phonemic
+10-610-243-1,chib1270,Muisca,700,mnysqua,LatinTrans,carry (bear),perez1987,,-β-nɨ-skua,Phonemic
+10-570-243-1,chib1270,Muisca,749,hui zemisqua,LatinTrans,enter,perez1987,Refers to one person. 'To enter (many)' hui chigusqua /hui ṣiɣu-skua/; 'to enter (crowd or multitude)' hui btasqua /hui β-ta-skua/. 'To enter into something that is not a house' yc zemisqua /ɨk c̷̣ɨ-mi-skua/.,hui c̷̣ɨ-mi-skua,Phonemic
+10-560-243-1,chib1270,Muisca,1778,anguac zpquasqua,LatinTrans,approach,perez1987,Means to get close to a place or person. Also: anguac zequysqua /anɣua-k c̷̣ɨ-kɨ-skua/; anguac zuhusqua /anɣua-k c̷̣-uhu-skua/; btequesuca /-βteke-suka/. 'To be near already' atequensuca /a-teke-n-suka/.,anɣua-k c̷̣ɨ-pkua-skua,Phonemic
+10-550-243-1,chib1270,Muisca,1387,zpquasqua,LatinTrans,"reach, arrive",perez1987,,c̷̣ɨ-pkua-skua,Phonemic
+10-520-243-1,chib1270,Muisca,1085,asucas inasqua,LatinTrans,follow,perez1987,,a-sukas i-na-skua,Phonemic
+10-510-243-1,chib1270,Muisca,956,zansuca,LatinTrans,flee,perez1987,,c̷̣-an-suka,Phonemic
+10-491-243-1,chib1270,Muisca,485,aguezac zegasqua,LatinTrans,disappear,perez1987,,a-ɣe-c̷̣a-k c̷̣ɨ-ɣa-skua,Phonemic
+10-480-243-1,chib1270,Muisca,1446,zehusqua,LatinTrans,come,perez1987,"Also inysqua /i-nɨ-skua/, from MsM1. Also 'venir a menudo' zehusuca /c̷̣ɨ-hu-suka/. Wheeler has zexikiskua.",c̷̣ɨ-hu-skua,Phonemic
+10-474-243-1,chib1270,Muisca,1107,fac zansuca,LatinTrans,go out,perez1987,Refers to one person. 'To go out (many)' fac chigusqua /βak ṣiɣu-skua/; 'large crowd (multitude) to disperse' fac chibgusqua /βak ṣi-β-ɣu-skua/.,βak c̷̣-an-suka,Phonemic
+10-473-243-1,chib1270,Muisca,2014,guas zemisqua,LatinTrans,go down,perez1987,From MsM1. 'To lower something' guanbtasqua /ɣuan-β-ta-skua/; guasbzasqua /ɣuas-β-c̷̣a-skua/.,ɣuas c̷̣ɨ-mi-skua,Phonemic
+10-472-243-1,chib1270,Muisca,1102,ichiegosqua,LatinTrans,climb,perez1987,From MsM1.,i-ṣieɣo-skua,Phonemic
+10-470-243-1,chib1270,Muisca,695,inasqua,LatinTrans,go,perez1987,,i-na-skua,Phonemic
+10-471-243-1,chib1270,Muisca,705,zoszan-suca,LatinTrans,go up,perez1987,,c̷̣os-c̷̣-an-suka,Phonemic
+10-460-243-1,chib1270,Muisca,1519,inyhysysuca,LatinTrans,run,perez1987,,inɨhɨsɨ-suka,Phonemic
+10-451-243-1,chib1270,Muisca,366,iquy btasqua,LatinTrans,limp,perez1987,,ikɨ β-ta-skua,Phonemic
+10-450-243-1,chib1270,Muisca,1443,ies inasqua,LatinTrans,walk,perez1987,"If one is 'coming', the form is ies isyquy /i-es i-sɨkɨ/.",i-es i-na-skua,Phonemic
+10-440-243-1,chib1270,Muisca,1879,bzahansuca,LatinTrans,dance,perez1987,Refers to Indian dances. 'To dance (Spanish people)' [lanzar]bquysqua.,β-c̷̣ahana-suka,Phonemic
+10-430-243-1,chib1270,Muisca,1829,guate zansuca,LatinTrans,"jump, leap",perez1987,Also guate bchahansuca /ɣuate β-ṣahan-suka/.,ɣuate c̷̣-an-suka,Phonemic
+10-420-243-1,chib1270,Muisca,1324,zechuguansuca,LatinTrans,"slide, slip",perez1987,From MsM1. Also zemohozquynsuca /c̷̣ɨ-mohoc̷̣kɨn-suka/.,c̷̣ɨ-ṣuɣuan-suka,Phonemic
+10-412-243-1,chib1270,Muisca,66,gotam chican bzasqua,LatinTrans,kneel,perez1987,refer to one person. 'To kneel—several' gotam chican chibisqua; gotam chican chipquysqua /ɣotam ṣikan ṣipkɨ-skua/.,ɣotam ṣikan β-c̷̣a-skua; ɣotam ṣikan itɨ-skua,Phonemic
+10-412-243-3,chib1270,Muisca,66,gotam chican itysqua,LatinTrans,kneel,perez1987,refer to one person. 'To kneel—several' gotam chican chibisqua; gotam chican chipquysqua /ɣotam ṣikan ṣipkɨ-skua/.,ɣotam ṣikan β-c̷̣a-skua; ɣotam ṣikan itɨ-skua,Phonemic
+10-380-243-1,chib1270,Muisca,175,obas bcusqua,LatinTrans,blow,perez1987,'To blow out candle' yc zebcusqua /-ɨkɨ c̷̣ɨ-β-ku-skua/.,oβas β-ku-skua,Phonemic
+10-352-243-1,chib1270,Muisca,365,guate zansuca,LatinTrans,splash,perez1987,Also guate bchahansuca /ɣuate β-ṣahan-suka/.,ɣuate c̷̣-an-suka,Phonemic
+10-351-243-1,chib1270,Muisca,119,in zemisqua,LatinTrans,dive,perez1987,"Also isuguagosqua /i-suɣuaɣo-skua/. In MsM1, zesuguagosqua /c̷̣ɨ-suɣuaɣo-skua/.",in c̷̣ɨ-mi-skua,Phonemic
+10-350-243-1,chib1270,Muisca,1439,inyhyz agosqua,LatinTrans,swim,perez1987,,inɨhɨc̷̣ a-ɣo-skua,Phonemic
+10-330-243-1,chib1270,Muisca,1088,in btasqua,LatinTrans,sink,perez1987,Means to sink in water. Also 'sink in water' in zemisqua /in c̷̣ɨ-mi-skua/; 'sink in the earth' hichac zemisqua / hiṣa-k c̷̣ɨ-mi-skua/; 'sink in mud' isuac zemisqua /isua-k c̷̣ɨ-mi-skua/.,in β-ta-skua,Phonemic
+10-320-243-1,chib1270,Muisca,2003,acosynsuca,LatinTrans,flow,perez1987,,a-kosɨn-suka,Phonemic
+10-260-243-1,chib1270,Muisca,1909,btytysuca,LatinTrans,shake,perez1987,,β-tɨtɨ-suka,Phonemic
+10-252-243-1,chib1270,Muisca,702,cam bquysqua,LatinTrans,catch (ball),perez1987,,kam β-kɨ-skua,Phonemic
+10-250-243-1,chib1270,Muisca,1456,yc btasqua,LatinTrans,throw,perez1987,,ɨkɨ -β-ta-skua,Phonemic
+10-240-243-1,chib1270,Muisca,2253,bchyhychysuca,LatinTrans,drip,perez1987,Active transitive verb. Intransitive verbs: achychynsuca; achyhyzynsuca /a-ṣɨhɨc̷̣ɨ-n-suka/.,-β-ṣɨhɨṣɨ-suka,Phonemic
+10-230-243-1,chib1270,Muisca,1280,zebenansuca,LatinTrans,fall,perez1987,"In general, 'fall in (or on)' OBJECT + izasqua /i-c̷̣a-skua/. 'To fall from a high place' guan zmasqua /ɣuan c̷̣ɨ-ma-skua/; 'f. in the water' siec izasqua; siegac izasqua /sie-k i-c̷̣a-skua; sie-ɣa-k i-c̷̣a-skua/. 'Caer el agua en la labranza' siuz tac atansuca /siu-c̷̣ tak a-tan-suka/; 'hail falls' hichuaguaz atansuca /hiṣu-aɣua-c̷̣ a-tan-suka/.",c̷̣ɨ-βenan-suka,Phonemic
+10-220-243-1,chib1270,Muisca,501,guat bquysqua,LatinTrans,"raise, lift",perez1987,"Means to raise from the ground. Also, 'raise something, make it stand up' cus bzasqua; cus btasqua /kus -β-c̷̣a-skua; kus -β-ta-skua/.",ɣuat -β-kɨ-skua,Phonemic
+10-210-243-1,chib1270,Muisca,568,zoszansuca,LatinTrans,rise,perez1987,"In MsM1, 'subir trepando por un palo o pared lisa' ichiegosqua /i-ṣieɣo-skua/.",c̷̣osc̷̣an-suka,Phonemic
+10-170-243-1,chib1270,Muisca,430,zimne zemusuca,LatinTrans,twist,perez1987,Means to twist with the hands. 'To twist thread (spindle)' zimne bzauasuca /c̷̣imne β-c̷̣aua-suka/; 't. cabuya or something thick' ys zemuyhyzasuca /ɨs c̷̣ɨ-mɨhɨc̷̣a-suka/.,c̷̣imne c̷̣ɨ-mu-suka,Phonemic
+10-150-243-1,chib1270,Muisca,827,zebenansuca,LatinTrans,roll,perez1987,,c̷̣ɨ-βenan-suka,Phonemic
+10-130-243-1,chib1270,Muisca,1445,ys zukuscansuca,LatinTrans,turn around,perez1987,From MsM2.,ɨs c̷̣-uhuska-n-suka,Phonemic
+10-120-243-1,chib1270,Muisca,1588,ys zeguscasuca,LatinTrans,turn over,perez1987,In MsM1 also: yquy zehuscasuca /ɨkɨ c̷̣ɨ-huska-suka/. In MsM2 yquy zeguscasuca /ɨkɨ c̷̣ɨɣuska-suka/.,ɨs c̷̣ɨɣuska-suka,Phonemic
+9-890-243-1,chib1270,Muisca,2001,bchihisqua,LatinTrans,paint (vb),perez1987,,-β-ṣihi-skua,Phonemic
+9-780-243-1,chib1270,Muisca,293,chisua,LatinTrans,netbag,perez1987,Also cona /kona/ 'mochilita/ mochila'. 'Net' used for hunting quyne /kɨne/.,ṣisua,Phonemic
+9-760-243-1,chib1270,Muisca,1539,tobia,LatinTrans,basket,perez1987,,toβia,Phonemic
+9-750-243-1,chib1270,Muisca,1729,zepquasqua,LatinTrans,"weave, plait",perez1987,,c̷̣ɨ-pkua-skua,Phonemic
+9-730-243-1,chib1270,Muisca,1399,tybso,LatinTrans,clay,perez1987,"Constenla has tyb-so, with derivational suffix.",tɨβso,Phonemic
+9-660-243-1,chib1270,Muisca,1825,bahazca,LatinTrans,"copper, bronze",perez1987,,βahac̷̣ka,Phonemic
+9-650-243-1,chib1270,Muisca,759,nyia,LatinTrans,silver,perez1987,,nɨia,Phonemic
+9-640-243-1,chib1270,Muisca,1369,nyia,LatinTrans,gold,perez1987,,nɨia,Phonemic
+9-630-243-1,chib1270,Muisca,211,bxiusuca,LatinTrans,cast (metals),perez1987,,-β-siu-suka,Phonemic
+9-360-243-1,chib1270,Muisca,1453,bchuhusqua,LatinTrans,wash,perez1987,,-β-ṣuhu-skua,Phonemic
+9-370-243-1,chib1270,Muisca,230,zemahasysuca,LatinTrans,sweep,perez1987,"In MsM1, zemahazysuca /c̷̣ɨ-mahac̷̣ɨ-suka/.",c̷̣ɨ-mahasɨ-suka,Phonemic
+9-350-243-1,chib1270,Muisca,1487,ytuc bzasqua,LatinTrans,pour,perez1987,,ɨtuk -β-c̷̣a-skua,Phonemic
+9-343-243-1,chib1270,Muisca,1414,zbiosqua,LatinTrans,"squeeze, wring",perez1987,,c̷̣ɨ-β-io-skua,Phonemic
+9-341-243-1,chib1270,Muisca,357,guan bzasqua,LatinTrans,hang up,perez1987,"Also guasbzasqua /ɣua-s-β-c̷̣a-skua/, in MsM1. Also 'hang some' guan zpquysqua /ɣua-n c̷̣ɨ-pkɨ-skua/; 'h. many (things)' guan zbiasqua /ɣua-n c̷̣ɨ-βia-skua/; 'h. cloaks, cloths, etc.' guate zmuysqua /ɣua-te c̷̣ɨ-mɨ-skua/; 'h. many cloths, etc.' guate biasqua /ɣua-te βia-skua/; 'h. from nail or hook' [clauos] bzasqua; zizuas bzasqua /[klaβos] β-c̷̣a-skua; c̷̣ic̷̣uas β-c̷̣a-skua/.",ɣuan -β-c̷̣a-skua,Phonemic
+9-340-243-1,chib1270,Muisca,38,ybcas bquysqua,LatinTrans,spread out,perez1987,,ɨβkas -β-kɨ-skua,Phonemic
+9-330-243-1,chib1270,Muisca,1455,bsuhusqua,LatinTrans,pull,perez1987,,-β-suhu-skua,Phonemic
+9-320-243-1,chib1270,Muisca,214,yc bsuhusqua,LatinTrans,stretch,perez1987,,ɨkɨ -β-suhu-skua,Phonemic
+9-290-243-1,chib1270,Muisca,291,bchusqua,LatinTrans,"flay, skin",perez1987,,-β-ṣu-skua,Phonemic
+9-280-243-1,chib1270,Muisca,1735,btosqua,LatinTrans,tear,perez1987,,-β-to-skua,Phonemic
+9-270-243-1,chib1270,Muisca,1437,sacan btasqua,LatinTrans,split,perez1987,'To split in half' chin btasqua /ṣin -β-ta-skua/.,sakan -β-ta-skua,Phonemic
+9-211-243-1,chib1270,Muisca,354,ys bgyisuca,LatinTrans,pound with fist,perez1987,,ɨs -β-ɣɨi-suka,Phonemic
+9-210-243-1,chib1270,Muisca,2133,ys bgyisuca,LatinTrans,"strike (hit, beat)",perez1987,,ɨs-β-ɣɨi-suka,Phonemic
+9-192-243-1,chib1270,Muisca,760,ynybgu,LatinTrans,knot (noun),perez1987,"From MsM1, also ynaguqua /ɨnaɣukua/.",ɨnɨβɣu,Phonemic
+9-190-243-1,chib1270,Muisca,1218,chihize,LatinTrans,"rope, cord",perez1987,Translated as 'cabuya'. Also 'cabuya de paja' pquane /pkuane/.,ṣihic̷̣e,Phonemic
+9-161-243-1,chib1270,Muisca,352,mnyscasuca,LatinTrans,untie,perez1987,,-β-nɨska-suka,Phonemic
+9-160-243-1,chib1270,Muisca,1917,bcamysuca,LatinTrans,"tie, bind",perez1987,,-β-kamɨ-suka,Phonemic
+9-150-243-1,chib1270,Muisca,1470,fihiste btasqua,LatinTrans,fold,perez1987,,-βihiste β-ta-skua,Phonemic
+9-140-243-1,chib1270,Muisca,2004,iosc bzasqua,LatinTrans,bend,perez1987,,-iosk β-c̷̣a-skua,Phonemic
+9-120-243-1,chib1270,Muisca,984,ichosqua,LatinTrans,work,perez1987,Noun form is choque.,i-ṣo-skua,Phonemic
+9-110-243-1,chib1270,Muisca,2575,bquysqua,LatinTrans,"do, make",perez1987,,-β-kɨ-skua,Phonemic
+8-980-243-1,chib1270,Muisca,641,hua,LatinTrans,mushroom,perez1987,,hua,Phonemic
+8-941-243-1,chib1270,Muisca,146,su amne,LatinTrans,sugar cane,perez1987,(?),su amne,Phonemic
+8-930-243-1,chib1270,Muisca,411,zihiba,LatinTrans,gourd,perez1987,,c̷̣ihiβa,Phonemic
+8-750-243-1,chib1270,Muisca,1204,huca,LatinTrans,bark,perez1987,Also means 'skin' 04.120.,huka,Phonemic
+8-740-243-1,chib1270,Muisca,409,canua,LatinTrans,forked branch,perez1987,,kanua,Phonemic
+8-730-243-1,chib1270,Muisca,344,quyetamuy,LatinTrans,tree trunk,perez1987,"Also quye quichpqua /kɨe kiṣpkua/. Constenla has quyne 'trunk, stem'.",kɨe-tamɨ,Phonemic
+8-680-243-1,chib1270,Muisca,974,hosca,LatinTrans,tobacco,perez1987,,hoska,Phonemic
+8-600-243-1,chib1270,Muisca,906,quye,LatinTrans,tree,perez1987,Wheeler has ki; kie; ke. Constenla has quye.,kɨe,Phonemic
+8-570-243-1,chib1270,Muisca,239,uba,LatinTrans,flower,perez1987,Also 'flor de la savana' tutuaba /tutu-aβa/; 'flor de turma' iomgy /iom-ɣɨ. Wheeler has tutuaba.,uβa,Phonemic
+8-560-243-1,chib1270,Muisca,628,quye,LatinTrans,leaf,perez1987,Refers to tree leaf. Also quyeca /kɨe-ka/; quynxie /kɨ-nsie/. 'Hoja del maíz' is abquye; fica /aβ-kɨe; βika/; 'hoja de turma' iemzyquye; chuzynca /iemc̷̣ɨ-kɨe; ṣuc̷̣ɨnka; 'hoja de cualquiera planta del medio auajo' guane /ɣuane/. Constenla has quye.,kɨe,Phonemic
+8-550-243-1,chib1270,Muisca,1531,quyeca,LatinTrans,branch,perez1987,,kɨeka,Phonemic
+8-540-243-1,chib1270,Muisca,670,chihiza,LatinTrans,root,perez1987,Wheeler has čihiza.,ṣihic̷̣a,Phonemic
+8-531-243-1,chib1270,Muisca,1486,bxisqua,LatinTrans,plant (vb),perez1987,Same as 'sow' 08.310; 'beget' 04.710. Constenla has xi-scua /si-skua/ with imperfective suffix.,-β-ṣi-skua,Phonemic
+8-510-243-1,chib1270,Muisca,606,quychquy,LatinTrans,grass,perez1987,"Respectively, from GdP and MsM2.",kɨkhɨkɨ,Phonemic
+8-510-243-3,chib1270,Muisca,606,quyhyquy,LatinTrans,grass,perez1987,"Respectively, from GdP and MsM2.",kɨkhɨkɨ,Phonemic
+8-470-243-1,chib1270,Muisca,506,aba,LatinTrans,"maize, corn",perez1987,"'White maize' is fuquie pquyhyza /βukie pkɨhɨc̷̣a/; 'black m.' chyscamuy /ṣɨskamɨ/; 'yellow m' abtyba /aβtɨβa/; 'red m' sasamuy /sasamɨ/; 'm. no tan colorado' fusuamuy /βusuamɨ/; 'm. de arroz' hichuamuy /hiṣuamɨ; 'm. rojo blando' phochuba /βoṣuβa/, possibly /phoṣuβa/. Wheeler has atiba; aba. Constenla has aba.",aβa,Phonemic
+8-420-243-1,chib1270,Muisca,605,uba,LatinTrans,"grain (barley, oats etc)",perez1987,'Grain of corn' is agua /aɣua/.,uβa,Phonemic
+8-340-243-1,chib1270,Muisca,285,zebcahachysuca,LatinTrans,thresh,perez1987,From MsM1. GdP distinguishes: 'desgranar maíz' bcahachysuca /-β-kahaṣɨ-suka/; 'desgranar legumbres' btohotysuca /-β-tohotɨ-suka/.,c̷̣ɨ-β-kahaṣɨ-suka,Phonemic
+8-320-243-1,chib1270,Muisca,190,zemascasuca,LatinTrans,"mow, reap",perez1987,Also bgynsuca /-βɣɨn-suka/; bgyusuca /-βɣɨu-suka/.,c̷̣ɨ-maska-suka,Phonemic
+8-311-243-1,chib1270,Muisca,714,sune,LatinTrans,seed,perez1987,"From MsM1. GdP gives uba /uβa/, as a general term. Also, 'corn seed' absun /aβ-sun/; 'turma seed' iomsun /iom-sun/. Constenla has pcua.",sune,Phonemic
+8-310-243-1,chib1270,Muisca,748,bxisqua,LatinTrans,sow,perez1987,Same as 'beget' 04.710 and 'plant' 08.531.,-β-ṣi-skua,Phonemic
+8-240-243-1,chib1270,Muisca,1901,hica,LatinTrans,shovel,perez1987,"Also quyecobse /kɨekoβse/, a small wooden shovel.",hika,Phonemic
+8-230-243-1,chib1270,Muisca,1176,[para],LatinTrans,spade,perez1987,From Spanish 'pala'.,[para],Phonemic
+8-220-243-1,chib1270,Muisca,1418,bquyhyusuca,LatinTrans,dig,perez1987,,-β-kɨhɨu-suka,Phonemic
+8-170-243-1,chib1270,Muisca,2002,mihisque,LatinTrans,ditch,perez1987,From MsM1.,mihiske,Phonemic
+8-160-243-1,chib1270,Muisca,1690,ca,LatinTrans,fence,perez1987,,ka,Phonemic
+8-120-243-1,chib1270,Muisca,212,ta,LatinTrans,field (for cultivation),perez1987,Constenla has ta.,ta,Phonemic
+7-570-243-1,chib1270,Muisca,1227,quye,LatinTrans,board,perez1987,Also means 'tree' 01.420.,kɨe,Phonemic
+7-550-243-1,chib1270,Muisca,1132,guequyny,LatinTrans,beam,perez1987,,ɣue-kuɨnɨ,Phonemic
+7-530-243-1,chib1270,Muisca,280,zyta,LatinTrans,ridgepole,perez1987,Also means 'waist' 04.462.,c̷̣ɨta,Phonemic
+7-520-243-1,chib1270,Muisca,279,fupqua,LatinTrans,thatch,perez1987,"In MsM1, 'paja de cubrir casas'.",βupkua,Phonemic
+7-422-243-1,chib1270,Muisca,806,boi,LatinTrans,blanket,perez1987,,βoi,Phonemic
+7-421-243-1,chib1270,Muisca,1044,ubaca,LatinTrans,pillow,perez1987,,uβaka,Phonemic
+7-420-243-1,chib1270,Muisca,1663,quypqua,LatinTrans,bed,perez1987,,kɨpkua,Phonemic
+7-330-243-1,chib1270,Muisca,1305,iie,LatinTrans,chimney,perez1987,"In MsM1, ijie /ii-ie/, or /ii-ii/ (?).",i-ie,Phonemic
+7-270-243-1,chib1270,Muisca,933,[tapie],LatinTrans,wall,perez1987,Loanword from Spanish 'tapia'.,[tapie],Phonemic
+7-260-243-1,chib1270,Muisca,1632,hischa,LatinTrans,floor,perez1987,"Latter form also means 'earth' 01.212. In MsM1, hischa fihista; iegui /hisṣa βihista; ieɣi/.",hisṣa; ieɣi,Phonemic
+7-260-243-3,chib1270,Muisca,1632,iegui,LatinTrans,floor,perez1987,"Latter form also means 'earth' 01.212. In MsM1, hischa fihista; iegui /hisṣa βihista; ieɣi/.",hisṣa; ieɣi,Phonemic
+7-250-243-1,chib1270,Muisca,1375,pihigua,LatinTrans,window,perez1987,"Also, in MsM1 guepihigua /ɣue-pihiɣua/.",pihiɣua,Phonemic
+7-220-243-1,chib1270,Muisca,1567,gue quyhyca,LatinTrans,"door, gate",perez1987,"Refers to the opening, the entrance door. The exit door is gue quyhyne /ɣue kɨhɨne/.",ɣue kɨhɨka,Phonemic
+7-150-243-1,chib1270,Muisca,736,ucta,LatinTrans,"yard, court",perez1987,,ukta; uta,Phonemic
+7-150-243-3,chib1270,Muisca,736,uta,LatinTrans,"yard, court",perez1987,,ukta; uta,Phonemic
+7-130-243-1,chib1270,Muisca,1678,gue,LatinTrans,hut,perez1987,,ɣue,Phonemic
+7-120-243-1,chib1270,Muisca,1252,gue,LatinTrans,house,perez1987,Constenla has gue.,ɣue,Phonemic
+6-950-243-1,chib1270,Muisca,788,foaba,LatinTrans,soap,perez1987,,βoaβa; βikeene,Phonemic
+6-950-243-3,chib1270,Muisca,788,fiqueene,LatinTrans,soap,perez1987,,βoaβa; βikeene,Phonemic
+6-921-243-1,chib1270,Muisca,333,muyhyca,LatinTrans,braid,perez1987,,mɨhɨka,Phonemic
+6-910-243-1,chib1270,Muisca,1475,cuza,LatinTrans,comb,perez1987,MsM1 has cuhuza /kuhuc̷̣a/.,kuc̷̣a,Phonemic
+6-780-243-1,chib1270,Muisca,330,-in,LatinTrans,"headband, headdress",perez1987,"From MsM1, preceded by a possessive.",-in,Phonemic
+6-760-243-1,chib1270,Muisca,1860,pqua,LatinTrans,bead,perez1987,Translated 'pepita'.,pkua; kus-pkua,Phonemic
+6-760-243-3,chib1270,Muisca,1860,cuspqua,LatinTrans,bead,perez1987,Translated 'pepita'.,pkua; kus-pkua,Phonemic
+6-750-243-1,chib1270,Muisca,1961,sihibza,LatinTrans,necklace,perez1987,"In MsM1. In ancient times, a necklace of gold or copper: chihizaquihicha /ṣihic̷̣a-kihiṣa/.",sihiβc̷̣a,Phonemic
+6-630-243-1,chib1270,Muisca,64,chihine,LatinTrans,pin,perez1987,,ṣihine,Phonemic
+6-610-243-1,chib1270,Muisca,1851,pquamne chuta,LatinTrans,pocket,perez1987,,pkuamne ṣuta,Phonemic
+6-550-243-1,chib1270,Muisca,2130,pquapqua,LatinTrans,"hat, cap",perez1987,,pkua-pkua,Phonemic
+6-460-243-1,chib1270,Muisca,1600,guan,LatinTrans,skirt,perez1987,"From MsM1, 'faldellín'.",ɣuan,Phonemic
+6-390-243-1,chib1270,Muisca,157,bchyusuca,LatinTrans,dye,perez1987,Transitive form; means 'to dye black'; intransitive is bchyugosqua /βṣɨu-ɣo-skua/. 'To dye green or blue' chyscoc bgasqua /ṣɨsko-k β-ɣa-skua/; chyscoc bquysqua /ṣɨsko-k β-kɨ-skua/.,-βṣɨu-suka,Phonemic
+6-380-243-1,chib1270,Muisca,1161,zimne,LatinTrans,thread,perez1987,,c̷̣imne,Phonemic
+6-360-243-1,chib1270,Muisca,1382,chihine,LatinTrans,needle,perez1987,,ṣihine,Phonemic
+6-350-243-1,chib1270,Muisca,1457,ixinygosqua,LatinTrans,sew,perez1987,"Intransitive verb, from MsM1. Transitive: zebxinsuca /c̷̣ɨ-βsin-suka/.",-isinɨɣo-skua,Phonemic
+6-340-243-1,chib1270,Muisca,1787,quyty,LatinTrans,loom,perez1987,,kɨtɨ,Phonemic
+6-330-243-1,chib1270,Muisca,133,zepquasqua,LatinTrans,weave,perez1987,,c̷̣ɨ-pkua-skua,Phonemic
+6-320-243-1,chib1270,Muisca,277,zaza,LatinTrans,spindle,perez1987,,c̷̣ac̷̣a,Phonemic
+6-310-243-1,chib1270,Muisca,121,zemusqua,LatinTrans,spin,perez1987,,c̷̣ɨ-mu-skua,Phonemic
+6-290-243-1,chib1270,Muisca,629,ioque,LatinTrans,leather,perez1987,,ioke,Phonemic
+6-280-243-1,chib1270,Muisca,580,huca,LatinTrans,fur,perez1987,Also means 'skin' 04.120.,huka,Phonemic
+6-240-243-1,chib1270,Muisca,1850,quyhysa,LatinTrans,cotton,perez1987,,kɨhɨsa,Phonemic
+5-940-243-1,chib1270,Muisca,404,fapqua,LatinTrans,fermented drink,perez1987,,βapkua,Phonemic
+5-900-243-1,chib1270,Muisca,731,biohoty,LatinTrans,"beverage, drink",perez1987,,βiohotɨ,Phonemic
+5-870-243-1,chib1270,Muisca,93,chue zebiosqua,LatinTrans,milk (vb),perez1987,,ṣue c̷̣ɨ-β-io-skua,Phonemic
+5-860-243-1,chib1270,Muisca,635,chuexiu,LatinTrans,milk (noun),perez1987,From MsM1.,ṣue-siu,Phonemic
+5-821-243-1,chib1270,Muisca,919,quybsa,LatinTrans,chili pepper,perez1987,"A 'long, large pepper' is pquata quybsa /pkuata kɨβsa/; 'round and large p.' nymqua quybsa /nɨmkua kɨβsa/; 'yellow p.' guapa quybsa /ɣuapa kɨβsa/; 'small p.' agua quybsa /aɣua kɨβsa/.",kɨβsa,Phonemic
+5-810-243-1,chib1270,Muisca,1274,nygua,LatinTrans,salt,perez1987,Wheeler has niwa.,nɨɣua,Phonemic
+5-712-243-1,chib1270,Muisca,1966,chuba,LatinTrans,bunch,perez1987,,ṣuβa,Phonemic
+5-710-243-1,chib1270,Muisca,1507,quyeuba,LatinTrans,fruit,perez1987,Constenla has uba.,kɨe-uβa,Phonemic
+5-700-243-1,chib1270,Muisca,593,iomza,LatinTrans,potato,perez1987,"Also: iemuy /iemɨ/, MsM1 iomuy /iomɨ/. Other words for 'turma (potato)': 'turma amarilla' tybaiomy /tɨβa-iomɨ/; 'turma ancha' gazaiomy /ɣac̷̣a-iomɨ/; 'turma larga' quyiomy /kɨ-iomɨ/; 'turma grande' pquaseiomy /pkuase-iomɨ/; 'turma negra' funzaiomy /βunc̷̣a-iomɨ/; 'turma blanca' xieiomp /sie-iomɨ/; 'turma negra por dentro' bhosioiomy /βhosio-iomɨ/; 'turma harinosa' qhyhysaiomy /kɨkɨsa-iomɨ/; 'turma menuda' iomzaga /iom-c̷̣aɣa/.",iomc̷̣a,Phonemic
+5-660-243-1,chib1270,Muisca,832,histe,LatinTrans,bean,perez1987,,histe,Phonemic
+5-640-243-1,chib1270,Muisca,1547,suque,LatinTrans,"soup, broth",perez1987,,suke,Phonemic
+5-610-243-1,chib1270,Muisca,634,chihica,LatinTrans,meat,perez1987,Also means 'flesh' 04.130.,ṣihika,Phonemic
+5-550-243-1,chib1270,Muisca,1594,ie,LatinTrans,"meal, flour",perez1987,From MsM1.,ie,Phonemic
+5-530-243-1,chib1270,Muisca,273,ie,LatinTrans,dough,perez1987,,ie,Phonemic
+5-510-243-1,chib1270,Muisca,1368,fun,LatinTrans,bread,perez1987,Respectively: bread; bread of Spanish people.,su-βun,Phonemic
+5-510-243-3,chib1270,Muisca,1368,sufun,LatinTrans,bread,perez1987,Respectively: bread; bread of Spanish people.,su-βun,Phonemic
+5-490-243-1,chib1270,Muisca,2017,bsahachysuca,LatinTrans,"stir, mix",perez1987,Also bsahaquysuca /-β-sahakɨ-suka/; gahans bquysqua /ɣahans -β-kɨ-skua/; ins gahans bquysqua /ins ɣahans -β-kɨ-skua/.,-β-sahaṣɨ-suka,Phonemic
+5-480-243-1,chib1270,Muisca,1767,zemohosysuca,LatinTrans,scrape,perez1987,,c̷̣ɨ-mohosɨ-suka,Phonemic
+5-470-243-1,chib1270,Muisca,86,zebtytysuca,LatinTrans,"sieve, strain",perez1987,,c̷̣ɨ-β-tɨtɨ-suka,Phonemic
+5-460-243-1,chib1270,Muisca,275,zeguahachysuca,LatinTrans,peel,perez1987,Constenla has chu-scua 'to skin' with imperfective aspect suffix.,c̷̣ɨ-ɣuahaṣɨ-suka,Phonemic
+5-430-243-1,chib1270,Muisca,768,zquyhyza zamisqua,LatinTrans,lunch,perez1987,Verbal form. Also itochua bgusqua /itoṣua-β-ɣu-skua/; busua bgusqua /βusua -β-ɣu-skua/; ichyumy fac btasqua /iṣɨumɨ βak -β-ta-skua/.,c̷̣ɨ-kɨhɨc̷̣a c̷̣-ami-skua,Phonemic
+5-410-243-1,chib1270,Muisca,1526,quychyquy,LatinTrans,meal (a),perez1987,Also means 'food' 05.120.,kɨṣɨkɨ,Phonemic
+5-370-243-1,chib1270,Muisca,1378,chuia,LatinTrans,spoon,perez1987,,ṣuia,Phonemic
+5-260-243-1,chib1270,Muisca,1462,zoia,LatinTrans,"pot, cooking vessel",perez1987,In MsM1. Also maita /maita/.,c̷̣oia,Phonemic
+5-230-243-1,chib1270,Muisca,2146,bgazysuca,LatinTrans,"roast, fry",perez1987,,β-ɣac̷̣ɨ-suka,Phonemic
+5-220-243-1,chib1270,Muisca,792,atomansuca,LatinTrans,boil (vb),perez1987,Also achuensuca /a-ṣuen-suka/; agochansuca /a-ɣoṣan-suka/; apquychansuca /a-pkɨṣan-suka/.,a-toman-suka,Phonemic
+5-210-243-1,chib1270,Muisca,1100,zmohoquysuca,LatinTrans,cook,perez1987,Also hocu chahoquysuca /hoku ṣa-hokɨ-suka/; and 'cook in olla' bzoisuca /-β-c̷̣oi-suka/.,c̷̣ɨ-mohokɨ-suka,Phonemic
+5-181-243-1,chib1270,Muisca,897,umys btasqua,LatinTrans,swallow,perez1987,Also guas btasqua /ɣuas -βta-skua/; vmys zegyisuca /umɨs c̷̣ɨ-ɣɨi-suka/; guas zemenasuca /ɣuas c̷̣ɨ-mena-suka/.,-umɨs β-ta-skua,Phonemic
+5-180-243-1,chib1270,Muisca,321,bgyiasuca,LatinTrans,chew,perez1987,,-β-ɣɨia-suka,Phonemic
+5-160-243-1,chib1270,Muisca,1421,bchuchysuca,LatinTrans,suck,perez1987,Cf. 'nipple' 04.412. Constenla has chuchy-suca with imperfective aspect suffix.,-β-ṣuṣɨ-suka,Phonemic
+5-150-243-1,chib1270,Muisca,848,zepquyhyzynsuca,LatinTrans,thirst,perez1987,Verbal form.,c̷̣ɨ-pkɨhɨc̷̣ɨn-suka,Phonemic
+5-140-243-1,chib1270,Muisca,1864,yc chan,LatinTrans,hunger,perez1987,,ɨkɨ ṣan,Phonemic
+5-140-243-3,chib1270,Muisca,1864,yquy chan,LatinTrans,hunger,perez1987,,ɨkɨ ṣan,Phonemic
+5-130-243-1,chib1270,Muisca,1401,zebiohotysuca,LatinTrans,drink,perez1987,,c̷̣ɨ-β-iohotɨ-suka,Phonemic
+5-125-243-1,chib1270,Muisca,1728,agahachansuca,LatinTrans,rotten,perez1987,"Also 'rotten turmas' afutynsuca /a-βutɨn-suka/; 'rotten corn, before picking' achuzansuca /a-ṣuc̷̣an-suka/; 'rotten hay' agahachansuca /a-ɣahaṣan-suka/; apantynsuca /a-pantɨn-suka/; afutynsuca /a-βutɨn-suka/.",a-ɣahaṣan-suka,Phonemic
+5-124-243-1,chib1270,Muisca,1958,aienza,LatinTrans,"green, unripe",perez1987,,aien-c̷̣a,Phonemic
+5-123-243-1,chib1270,Muisca,178,aiensuca,LatinTrans,ripe,perez1987,"Verbal form, refers to ripe fruit.",a-ien-suka,Phonemic
+5-122-243-1,chib1270,Muisca,1959,tyhyca,LatinTrans,raw,perez1987,,tɨhɨka,Phonemic
+5-120-243-1,chib1270,Muisca,256,ie,LatinTrans,food,perez1987,Also quychyquy bhy /kɨṣɨkɨ βhɨ/.,ie; kɨṣɨkɨ,Phonemic
+5-120-243-3,chib1270,Muisca,256,quychyquy,LatinTrans,food,perez1987,Also quychyquy bhy /kɨṣɨkɨ βhɨ/.,ie; kɨṣɨkɨ,Phonemic
+5-110-243-1,chib1270,Muisca,1336,zequychyquysuca,LatinTrans,eat,perez1987,"Also bgysqua /-β-ɣɨ-skua/ 'eat bread, turmas, and various roots'; bcasqua /β-ka-skua/ 'eat corn, meat, cheese, fruit, and hard things'; bsosqua /-β-sos-kua/; 'eat honey, fat, salt, sauces' bgamysuca /-β-ɣamɨ-suka/ 'eat leaves and grass'; biotysuca /-β-iotɨ-suka/ 'eat mazamorra'; bgychasuca /-βɣiṣa-suka/ 'eat sugar cane'. Constenla has gyscua.",c̷̣ɨ-kɨṣɨkɨ-suka,Phonemic
+4-990-243-1,chib1270,Muisca,590,chuhisc izone,LatinTrans,"naked, bare",perez1987,,ṣuhisk ic̷̣one,Phonemic
+4-970-243-1,chib1270,Muisca,1653,opquaza,LatinTrans,blind,perez1987,From LS; also opqua muyhyza /opkua mɨhɨc̷̣a/; opqua magueza /opkua maɣec̷̣a/.,opkua-c̷̣a,Phonemic
+4-980-243-1,chib1270,Muisca,1463,chienuca,LatinTrans,intoxicated,perez1987,,ṣienuka,Phonemic
+4-950-243-1,chib1270,Muisca,996,cuhupqua,LatinTrans,deaf,perez1987,,kuhu-pkua,Phonemic
+4-930-243-1,chib1270,Muisca,1125,azytapquana,LatinTrans,bald,perez1987,,a-c̷̣ɨta-pkua-na,Phonemic
+4-940-243-1,chib1270,Muisca,320,gocagyu,LatinTrans,lame,perez1987,,ɣoka-ɣɨu,Phonemic
+4-920-243-1,chib1270,Muisca,1564,aiohozan mague,LatinTrans,lazy,perez1987,Also achinan mague /a-ṣinan maɣe/; acain mague /a-kain maɣe/.,a-iohoc̷̣a-n maɣe,Phonemic
+4-912-243-1,chib1270,Muisca,168,zpquyquyz azysqua,LatinTrans,rest,perez1987,,c̷̣ɨ-pkɨkɨ-c̷̣ a-c̷̣ɨ-skua,Phonemic
+4-910-243-1,chib1270,Muisca,1757,aquynzac agasqua,LatinTrans,"tired, weary",perez1987,Verbal form.,a-kɨ-nc̷̣a-k a-ɣa-skua,Phonemic
+4-880-243-1,chib1270,Muisca,1372,hizca,LatinTrans,"medicine, drug",perez1987,,hic̷̣ka,Phonemic
+4-860-243-1,chib1270,Muisca,499,ichuensuca,LatinTrans,"cure, heal",perez1987,"Also bchuesuca /β-ṣue-suka/, 'heal another'.",i-ṣuen-suka,Phonemic
+4-857-243-1,chib1270,Muisca,1808,ybachuquy,LatinTrans,pus,perez1987,From MsM1.,ɨβa-ṣukɨ,Phonemic
+4-856-243-1,chib1270,Muisca,793,amsa,LatinTrans,boil (noun),perez1987,,amsa,Phonemic
+4-855-243-1,chib1270,Muisca,1584,sieycagahazua,LatinTrans,blister,perez1987,,sie-ɨk-a-ɣahac̷̣ua,Phonemic
+4-854-243-1,chib1270,Muisca,148,abasynsuca,LatinTrans,itch,perez1987,Means 'to have the itch'.,a-βasɨn-suka,Phonemic
+4-853-243-1,chib1270,Muisca,1903,yc abiasqua,LatinTrans,swelling,perez1987,Verbal form.,ɨkɨ a-βia-skua,Phonemic
+4-852-243-1,chib1270,Muisca,1148,zepamzasuca,LatinTrans,bruise,perez1987,Verbal form. MsM1 also gives: zepinzesuca /c̷̣ɨ-p-inc̷̣e-suka/.,c̷̣ɨ-p-amc̷̣a-suka,Phonemic
+4-850-243-1,chib1270,Muisca,1109,bty hypquasuca,LatinTrans,"wound, sore",perez1987,MsM1 defines it 'herir de punta'; also gives zebtosqua /c̷̣ɨ-βto-skua/ 'herir a la larga'.,βtɨ hɨpkua-suka,Phonemic
+4-841-243-1,chib1270,Muisca,1534,chigu,LatinTrans,fever,perez1987,"MsM2 says no form for 'fever'; but gives the above for 'fever with chills'. GdP also gives the above, 'fever with chills, that is brought from hot country'.",ṣiɣu,Phonemic
+4-840-243-1,chib1270,Muisca,1847,iuquyn,LatinTrans,"sick, sickness",perez1987,"Also iu /iu/, noun form.",iu-kɨn,Phonemic
+4-830-243-1,chib1270,Muisca,1364,choc izone,LatinTrans,"well, health",perez1987,,ṣo-k ic̷̣one,Phonemic
+4-820-243-1,chib1270,Muisca,1601,ichihizanza,LatinTrans,weak,perez1987,"Verbal form; lit. '1st PERS.SING-strong, force-NEGATIVE', (means 'I am without strength'). Also m-ṣihic̷̣a-nc̷̣a '2nd PERS.SING-strong-NEGATIVE'.",i-ṣihic̷̣a-nc̷̣a,Phonemic
+4-810-243-1,chib1270,Muisca,785,achihizan mague,LatinTrans,"strong, mighty, powerful",perez1987,,a-ṣihic̷̣a-n maɣe,Phonemic
+4-780-243-1,chib1270,Muisca,1719,hichac bzasqua,LatinTrans,bury (the dead),perez1987,,hiṣak βc̷̣a-skua,Phonemic
+4-770-243-1,chib1270,Muisca,767,uahaia ~ guahaia,LatinTrans,corpse,perez1987,,ɣuahaia,Phonemic
+4-760-243-1,chib1270,Muisca,1417,bgusqua,LatinTrans,kill,perez1987,"Constenla has gua-scua, suffix is the imperfective aspect.",β-ɣu-skua,Phonemic
+4-750-243-1,chib1270,Muisca,1494,bgye,LatinTrans,"die, dead",perez1987,Verbal form is bgysqua /βɣɨ-skua/. Also ys bcasqua /ɨs βka-skua/. MsM1 also has zebhysqua /c̷̣ɨ βhɨ-skua/.,βɣɨe,Phonemic
+4-740-243-1,chib1270,Muisca,1422,zica,LatinTrans,"live, living, life",perez1987,"Respectively: 'my life; your life'. Also eca, ika /eka, ika/ 'vida ajena'.",c̷̣-ika; m-ika,Phonemic
+4-740-243-3,chib1270,Muisca,1422,mica,LatinTrans,"live, living, life",perez1987,"Respectively: 'my life; your life'. Also eca, ika /eka, ika/ 'vida ajena'.",c̷̣-ika; m-ika,Phonemic
+4-732-243-1,chib1270,Muisca,1087,muyscaz iec azasqua,LatinTrans,conceive,perez1987,,mɨska-c̷̣ iek ac̷̣a-skua,Phonemic
+4-730-243-1,chib1270,Muisca,1123,guasquyn,LatinTrans,pregnant,perez1987,Also muysca aiec suza /mɨska aiek suc̷̣a/; opquaz aguaia /opkua-c̷̣ aɣuaia/.,ɣuas-kɨn,Phonemic
+4-720-243-1,chib1270,Muisca,1090,fac izasqua zemuysquyn-suca,LatinTrans,born (to be),perez1987,,βak ic̷̣a-skua c̷̣ɨ-muɨskɨn-suka,Phonemic
+4-710-243-1,chib1270,Muisca,1152,bxisque,LatinTrans,beget (of father),perez1987,Same as 'sexual intercourse' 04.670; 'sow' 08.310; 'plant' 08.531.,β-ṣi-skua,Phonemic
+4-690-243-1,chib1270,Muisca,138,zemosgua,LatinTrans,bathe,perez1987,"Also zosqua /c̷̣-o-skua/, from MsM2.",c̷̣ɨ-mo-skua,Phonemic
+4-680-243-1,chib1270,Muisca,52,zusynsuca,LatinTrans,shiver,perez1987,,c̷̣-usɨn-suka,Phonemic
+4-670-243-1,chib1270,Muisca,1785,bchisqua,LatinTrans,have sexual intercourse,perez1987,Same as 'beget' 04.710; 'sow' 08.310; 'plant' 08.531.,β-ṣi-skua,Phonemic
+4-660-243-1,chib1270,Muisca,676,iiu,LatinTrans,defecate,perez1987,Verbal form is zgyzysuca /c̷̣ɨ-ɣɨc̷̣ɨ-suka/. Constenla has gye.,iiu,Phonemic
+4-650-243-1,chib1270,Muisca,592,zihizegosqua,LatinTrans,urinate,perez1987,,c̷̣ɨ-hic̷̣e-ɣos-kua,Phonemic
+4-630-243-1,chib1270,Muisca,1602,mebgasqua,LatinTrans,wake up,perez1987,,meβɣa-skua,Phonemic
+4-620-243-1,chib1270,Muisca,1920,muysua,LatinTrans,dream,perez1987,"zemuysygoscua /c̷̣ɨ-mɨsɨ-ɣo-skua, verbal form.",mɨsua,Phonemic
+4-612-243-1,chib1270,Muisca,1983,zefihiscaz ahusqua,LatinTrans,snore,perez1987,Also isacaz ahusqua /i-sakac̷̣ ahu-skua/.,c̷̣ɨ-βihiskac̷̣ ahu-skua,Phonemic
+4-610-243-1,chib1270,Muisca,1585,zquybysuca,LatinTrans,sleep,perez1987,Constenla has quyby-suca with imperfective aspect suffix.,c̷̣ɨ-kɨβɨ-suka,Phonemic
+4-590-243-1,chib1270,Muisca,319,bgamysuca,LatinTrans,lick,perez1987,,β-ɣamɨ-suka,Phonemic
+4-580-243-1,chib1270,Muisca,1403,zemonsuca,LatinTrans,bite,perez1987,"A bite, such as from a dog, is bcasqua /βka-skua/.",c̷̣ɨ-mon-suka,Phonemic
+4-570-243-1,chib1270,Muisca,1278,bcosqua,LatinTrans,vomit,perez1987,Noun form is bco.,βko-skua,Phonemic
+4-560-243-1,chib1270,Muisca,1440,zquyhyzygosqua,LatinTrans,spit,perez1987,Wheeler has kihiza.,c̷̣ɨ-kɨhɨc̷̣-ɨɣo-skua,Phonemic
+4-550-243-1,chib1270,Muisca,126,ixiunsuca,LatinTrans,perspire,perez1987,,i-siun-suka,Phonemic
+4-540-243-1,chib1270,Muisca,1621,azihubgasqua,LatinTrans,sneeze,perez1987,,a-c̷̣ihu-β-ɣa-skua,Phonemic
+4-521-243-1,chib1270,Muisca,162,zefihistac anysqua,LatinTrans,hiccough,perez1987,,c̷̣ɨ-βihistak anɨ-skua,Phonemic
+4-520-243-1,chib1270,Muisca,1028,zequyhyquysuca,LatinTrans,"yawn, gape",perez1987,,c̷̣ɨ-kɨhɨkɨ-suka,Phonemic
+4-510-243-1,chib1270,Muisca,1407,fihizca,LatinTrans,"breathe, breath",perez1987,,βihic̷̣ka,Phonemic
+4-492-243-1,chib1270,Muisca,1222,naqua,LatinTrans,penis,perez1987,"From LS, refers to adult penis; child's penis is nieta, nie /nieta, nie/. Both forms in LS.",nakua,Phonemic
+4-490-243-1,chib1270,Muisca,797,niomy,LatinTrans,testicle,perez1987,,niomɨ,Phonemic
+4-464-243-1,chib1270,Muisca,834,iohoza,LatinTrans,buttocks,perez1987,,iohoc̷̣a,Phonemic
+4-463-243-1,chib1270,Muisca,1745,muyhyzua,LatinTrans,hip,perez1987,,mɨhɨc̷̣ua,Phonemic
+4-462-243-1,chib1270,Muisca,1681,zita,LatinTrans,waist,perez1987,"From LS. MsM1 has: zine, mine /c̷̣-ine, m-ine/, 'my waist' 'your waist'.",c̷̣ita,Phonemic
+4-461-243-1,chib1270,Muisca,1991,zimsua,LatinTrans,"intestines, guts",perez1987,,c̷̣imsua,Phonemic
+4-460-243-1,chib1270,Muisca,819,ie,LatinTrans,stomach,perez1987,MsM1 has: puyquytye /pɨkɨtɨe/.,ie; ieta,Phonemic
+4-460-243-3,chib1270,Muisca,819,ieta,LatinTrans,stomach,perez1987,MsM1 has: puyquytye /pɨkɨtɨe/.,ie; ieta,Phonemic
+4-452-243-1,chib1270,Muisca,1744,chahasa,LatinTrans,spleen,perez1987,MsM1 has: chahaoa /ṣahaoa/.,ṣahasa,Phonemic
+4-451-243-1,chib1270,Muisca,489,hete,LatinTrans,kidney,perez1987,MsM1 has: hate /hate/.,hete,Phonemic
+4-450-243-1,chib1270,Muisca,1224,tyhyba,LatinTrans,liver,perez1987,,tɨhɨβa,Phonemic
+4-441-243-1,chib1270,Muisca,688,fumy,LatinTrans,lung,perez1987,"Also fusque, fusquy /βuskɨ/, from LS and MsM2, respectively.",βumɨ,Phonemic
+4-440-243-1,chib1270,Muisca,1223,nymsuguy,LatinTrans,heart,perez1987,From MsM1.,nɨmsuɣɨ,Phonemic
+4-430-243-1,chib1270,Muisca,1838,tomsa,LatinTrans,navel,perez1987,Wheeler has mue.,tomsa; mue,Phonemic
+4-430-243-3,chib1270,Muisca,1838,mue,LatinTrans,navel,perez1987,Wheeler has mue.,tomsa; mue,Phonemic
+4-412-243-1,chib1270,Muisca,796,chue,LatinTrans,"nipple, teat",perez1987,,ṣue,Phonemic
+4-410-243-1,chib1270,Muisca,1402,chuhupqua,LatinTrans,breast (of woman),perez1987,From MsM2. Wheeler has čue 'breast'; čuči 'suck'. Constenla has chue.,ṣuhupkua,Phonemic
+4-400-243-1,chib1270,Muisca,1592,fihista,LatinTrans,chest,perez1987,,βihista,Phonemic
+4-393-243-1,chib1270,Muisca,1201,gaca,LatinTrans,feather,perez1987,Same as 'wing' 04.392. Wheeler has gaka.,ɣaka,Phonemic
+4-392-243-1,chib1270,Muisca,1257,gaca,LatinTrans,wing,perez1987,Same as 'feather' 04.393. Wheeler has gaka.,ɣaka,Phonemic
+4-380-243-1,chib1270,Muisca,1389,quihichyba,LatinTrans,toe,perez1987,From MsM1.,kihiṣɨ-βa,Phonemic
+4-372-243-1,chib1270,Muisca,980,quichy pquaquyn,LatinTrans,heel,perez1987,,kiṣɨ pkua-kuɨn,Phonemic
+4-371-243-1,chib1270,Muisca,803,iomquyn,LatinTrans,ankle,perez1987,From MsM2.,iom-kuɨn,Phonemic
+4-370-243-1,chib1270,Muisca,1301,quihicha,LatinTrans,foot,perez1987,Wheeler has kihiča; kipča.,kihiṣa,Phonemic
+4-360-243-1,chib1270,Muisca,1371,gota,LatinTrans,knee,perez1987,,ɣota,Phonemic
+4-352-243-1,chib1270,Muisca,498,goque iosua,LatinTrans,calf of leg,perez1987,From MsM2.,ɣoke iosua,Phonemic
+4-351-243-1,chib1270,Muisca,800,quhque,LatinTrans,thigh,perez1987,The form is assumed because of MsM1: quihique.,kuɨhɨkɨ,Phonemic
+4-350-243-1,chib1270,Muisca,1297,goca,LatinTrans,leg,perez1987,Wheeler has kihike.,ɣoka,Phonemic
+4-344-243-1,chib1270,Muisca,1258,ytyua,LatinTrans,fingernail,perez1987,Also coca /koka/. Wheeler has koha.,ɨtɨ-βa,Phonemic
+4-340-243-1,chib1270,Muisca,1303,ytyquyn,LatinTrans,finger,perez1987,Constenla has cocua 'fingertip'.,ɨtɨ-kuɨn,Phonemic
+4-331-243-1,chib1270,Muisca,1183,yta fihista,LatinTrans,palm of hand,perez1987,,ɨta βihista,Phonemic
+4-330-243-1,chib1270,Muisca,1277,yta,LatinTrans,hand,perez1987,Wheeler has ita. Constenla has yta.,ɨta,Phonemic
+4-321-243-1,chib1270,Muisca,799,yspqua,LatinTrans,wrist,perez1987,,ɨs-pkua,Phonemic
+4-320-243-1,chib1270,Muisca,981,chispqua,LatinTrans,elbow,perez1987,,ṣis-pkua,Phonemic
+4-312-243-1,chib1270,Muisca,1886,gacata,LatinTrans,armpit,perez1987,,ɣakata,Phonemic
+4-310-243-1,chib1270,Muisca,1673,pquaca,LatinTrans,arm,perez1987,Wheeler has pkuaka.,pkua-ka,Phonemic
+4-300-243-1,chib1270,Muisca,1482,pquáqueüâ,LatinTrans,shoulder,perez1987,Wheeler has pkuakeba. Present-day Kogui has /kukkúba/.,pkua-keβa,Phonemic
+4-290-243-1,chib1270,Muisca,1346,fiza,LatinTrans,throat,perez1987,Also bizequyne /βic̷̣ekɨne/.,βic̷̣a,Phonemic
+4-280-243-1,chib1270,Muisca,1333,gyquihicha,LatinTrans,neck,perez1987,LS has: gyquyn /ɣɨkɨn/; gie /ɣie/. MsM1 has: gye /ɣɨe/; geequihicha /ɣeekihiṣa/; MsM2 has: gy /ɣɨ/; gyquyn /ɣɨkɨn/.,ɣɨ-kihiṣa,Phonemic
+4-272-243-1,chib1270,Muisca,1049,hyco,LatinTrans,molartooth,perez1987,,hɨko,Phonemic
+4-270-243-1,chib1270,Muisca,1380,sica,LatinTrans,tooth,perez1987,Same as 'beak' 04.241.,sika,Phonemic
+4-260-243-1,chib1270,Muisca,1205,pqua,LatinTrans,tongue,perez1987,Wheeler has pkua. Constenla has pcua.,pkua,Phonemic
+4-250-243-1,chib1270,Muisca,478,ybza,LatinTrans,lip,perez1987,,ɨβc̷̣a,Phonemic
+4-241-243-1,chib1270,Muisca,73,sica,LatinTrans,beak,perez1987,Same as 'tooth' 04.270.,sika,Phonemic
+4-240-243-1,chib1270,Muisca,674,guyhyca,LatinTrans,mouth,perez1987,"Occurs in MsM2. In GdP, guyhica /ɣɨhika/; LS has: quihyca /kihɨka/; MsM1 has: puyhyca /pɨhɨka/. In present-day Damana: [khɨ'ka] 'mouth'. Wheeler has kihika. Constenla has quyhyca.",ɣɨhɨka,Phonemic
+4-232-243-1,chib1270,Muisca,208,hotua,LatinTrans,mucus (nasal),perez1987,,hotua,Phonemic
+4-230-243-1,chib1270,Muisca,1221,saca,LatinTrans,nose,perez1987,Wheeler has saka. Constenla has saca.,saka,Phonemic
+4-220-243-1,chib1270,Muisca,1247,cuhuca,LatinTrans,ear,perez1987,Wheeler has kuhuka. Constenla has cuhuca.,kuhuka,Phonemic
+4-214-243-1,chib1270,Muisca,1540,upquaga,LatinTrans,eyelash,perez1987,,upkua-ɣa,Phonemic
+4-213-243-1,chib1270,Muisca,17,ubquyboi,LatinTrans,eyelid,perez1987,MsM1 has: upquaboi /upkua-βoi/.,upkuɨ-βoi,Phonemic
+4-212-243-1,chib1270,Muisca,1173,ghuiquyn,LatinTrans,eyebrow,perez1987,LS has: guiquyn /ɣui-kɨn/; MsM1 has: guqyn /gukɨn/.,ɣui-kɨn,Phonemic
+4-210-243-1,chib1270,Muisca,1248,upqua,LatinTrans,eye,perez1987,Wheeler has opkua; upkua. Constenla has upcua.,upkua,Phonemic
+4-208-243-1,chib1270,Muisca,1730,ychua,LatinTrans,cheek,perez1987,,ɨṣua,Phonemic
+4-209-243-1,chib1270,Muisca,1510,quynhua,LatinTrans,chin,perez1987,Wheeler has kinhua.,kuɨn-hua,Phonemic
+4-205-243-1,chib1270,Muisca,123,quigua,LatinTrans,forehead,perez1987,,kiɣua,Phonemic
+4-207-243-1,chib1270,Muisca,798,quynhuca,LatinTrans,jaw,perez1987,MsM1 has: quynhua /kuɨnhua/.,kuɨn-huka,Phonemic
+4-204-243-1,chib1270,Muisca,1560,uba,LatinTrans,face,perez1987,MsM1 has oba /oβa/; LS has bique /βike/. Constenla has uba.,uβa,Phonemic
+4-203-243-1,chib1270,Muisca,1583,zote,LatinTrans,brain,perez1987,,c̷̣ote,Phonemic
+4-201-243-1,chib1270,Muisca,1604,agua,LatinTrans,"side of head, temple",perez1987,,aɣua,Phonemic
+4-202-243-1,chib1270,Muisca,1605,zysquy,LatinTrans,skull,perez1987,,c̷̣ɨs-kɨ,Phonemic
+4-200-243-1,chib1270,Muisca,1256,zysquy,LatinTrans,head,perez1987,"Constenla has zy-s-quy, 'root-stem formative-suffix (on noun and verb stems)'.",c̷̣ɨs-kɨ,Phonemic
+4-191-243-1,chib1270,Muisca,805,gepquequyn,LatinTrans,spine,perez1987,"Alternative interpretation: /ɣepkue-kuɨn/. LS has: ziti /c̷̣iti/; quyn /kuɨn, kɨn/. MsM1 has: utaquyn /uta-kuɨn/.",ɣepke-kuɨn,Phonemic
+4-190-243-1,chib1270,Muisca,1291,gutaquyn,LatinTrans,back,perez1987,Also GdP has: tymy /tɨmɨ/; fihista /βihista/; gepqua /ɣepkua/. In LS: 'parte superior de la espalda' puyhypa /pɨhɨpa/; 'parte inferior de la espalda' tymyfihista /tɨmɨ-βihista/; 'espalda sobre los riñones' gutaquyn /ɣuta-kuɨn/.,ɣuta-kuɨn,Phonemic
+4-180-243-1,chib1270,Muisca,1220,suhuca,LatinTrans,tail,perez1987,Constenla has suhuca.,suhuka,Phonemic
+4-170-243-1,chib1270,Muisca,1393,quyhye,LatinTrans,horn,perez1987,,kuɨhɨe,Phonemic
+4-162-243-1,chib1270,Muisca,801,tobiaquyn,LatinTrans,rib,perez1987,,toβia-kuɨn,Phonemic
+4-160-243-1,chib1270,Muisca,1394,quyne,LatinTrans,bone,perez1987,'Human bone' is muyscuyne /mɨskuɨne/. From MsM1 muisquequyne /mɨske-kuɨne/. Wheeler has kine; ken(e). Constenla has quyne.,kuɨne,Phonemic
+4-151-243-1,chib1270,Muisca,525,chihiza,LatinTrans,"vein, artery",perez1987,,ṣihic̷̣a,Phonemic
+4-150-243-1,chib1270,Muisca,946,hyba,LatinTrans,blood,perez1987,"In LS, and MsM1 yba /ɨβa/, also means 'body' 04.110. Wheeler has eba. Constenla has yba.",hɨβa,Phonemic
+4-146-243-1,chib1270,Muisca,576,zinua,LatinTrans,dandruff,perez1987,,c̷̣inua,Phonemic
+4-144-243-1,chib1270,Muisca,189,ybsa,LatinTrans,body hair,perez1987,,ɨβsa,Phonemic
+4-142-243-1,chib1270,Muisca,678,quyhye,LatinTrans,beard,perez1987,"As it is in GdP (p.130); but in the dictionary, Letter B (not from original manuscript): guyhye /ɣɨhɨe/. From LS, quihye /kihɨe/. Wheeler has kihie.",kɨhɨe,Phonemic
+4-140-243-1,chib1270,Muisca,1040,zye,LatinTrans,hair (head),perez1987,Wheeler has zie. Constenla has zye.,c̷̣ɨe,Phonemic
+4-130-243-1,chib1270,Muisca,2259,chimy,LatinTrans,flesh,perez1987,"MsM1 has: chihica /ṣihika/, also means 'meat' 05.610.",ṣimɨ,Phonemic
+4-120-243-1,chib1270,Muisca,763,huca,LatinTrans,"skin, hide",perez1987,MsM1 has hocu /hoku/ and ioque /ioke/. In GdP: ioque /ioke/ 'cuero seco o apartado para usar de él'. Wheeler has huka. Constenla has huca.,huka,Phonemic
+4-110-243-1,chib1270,Muisca,1480,yba,LatinTrans,body,perez1987,Constenla has yba.,ɨβa,Phonemic
+3-980-243-1,chib1270,Muisca,112,cuegui,LatinTrans,turtle,perez1987,Constenla has cuegui.,kueɣi,Phonemic
+3-960-243-1,chib1270,Muisca,632,muyhyzyso,LatinTrans,lizard,perez1987,,mɨhɨc̷̣ɨso,Phonemic
+3-950-243-1,chib1270,Muisca,503,zihita,LatinTrans,frog,perez1987,,c̷̣ihita,Phonemic
+3-940-243-1,chib1270,Muisca,1543,biza,LatinTrans,snail,perez1987,A large snail is nymsuque /nɨmsuke/.,βic̷̣a,Phonemic
+3-910-243-1,chib1270,Muisca,206,chuchygaty,LatinTrans,firefly,perez1987,,ṣuṣɨ-ɣatɨ,Phonemic
+3-850-243-1,chib1270,Muisca,730,muyso aquyca gue,LatinTrans,snake,perez1987,,mɨso akɨka ɣe,Phonemic
+3-840-243-1,chib1270,Muisca,1219,sosua,LatinTrans,worm,perez1987,,sosua; ona,Phonemic
+3-840-243-3,chib1270,Muisca,1219,ona,LatinTrans,worm,perez1987,,sosua; ona,Phonemic
+3-832-243-1,chib1270,Muisca,1509,chue,LatinTrans,mosquito,perez1987,,ṣue,Phonemic
+3-830-243-1,chib1270,Muisca,1504,ybsa,LatinTrans,fly,perez1987,,ɨβsa,Phonemic
+3-820-243-1,chib1270,Muisca,665,busuapquame,LatinTrans,bee,perez1987,A bee from 'tierra caliente' is tochua / toṣua/.,βusua-pkuame,Phonemic
+3-819-243-1,chib1270,Muisca,1065,sospquazine,LatinTrans,spider web,perez1987,,sos-pkua-c̷̣ine,Phonemic
+3-818-243-1,chib1270,Muisca,843,sospqua,LatinTrans,spider,perez1987,Wheeler has sospkua.,sos-pkua,Phonemic
+3-817-243-1,chib1270,Muisca,587,ize,LatinTrans,ant,perez1987,Wheeler has ize.,ic̷̣e,Phonemic
+3-816-243-1,chib1270,Muisca,1575,chutagui,LatinTrans,cockroach,perez1987,,ṣuta-ɣi,Phonemic
+3-815-243-1,chib1270,Muisca,1538,quysua,LatinTrans,scorpion,perez1987,,kɨsua,Phonemic
+3-813-243-1,chib1270,Muisca,232,muyza,LatinTrans,flea,perez1987,Wheeler has muisa.,mɨc̷̣a,Phonemic
+3-812-243-1,chib1270,Muisca,267,cuiga,LatinTrans,nit (louse egg),perez1987,,kuiɣa,Phonemic
+3-811-243-1,chib1270,Muisca,1392,cue,LatinTrans,louse,perez1987,"Respectively: head louse; body louse. Wheeler has kʷe 'head louse'; kumne 'body louse'. Constenla has cue 'head louse'; cu-mne 'body louse', with derivational suffix.",kue; kumne,Phonemic
+3-811-243-3,chib1270,Muisca,1392,cumne,LatinTrans,louse,perez1987,"Respectively: head louse; body louse. Wheeler has kʷe 'head louse'; kumne 'body louse'. Constenla has cue 'head louse'; cu-mne 'body louse', with derivational suffix.",kue; kumne,Phonemic
+3-760-243-1,chib1270,Muisca,1350,mizegui,LatinTrans,monkey,perez1987,,mic̷̣e-ɣi,Phonemic
+3-750-243-1,chib1270,Muisca,1936,chihica,LatinTrans,deer,perez1987,Also guahagui /ɣuahaɣi/.,ṣihika,Phonemic
+3-740-243-1,chib1270,Muisca,1312,fo,LatinTrans,fox,perez1987,,βo,Phonemic
+3-730-243-1,chib1270,Muisca,1820,guia,LatinTrans,bear,perez1987,,ɣia,Phonemic
+3-653-243-1,chib1270,Muisca,266,zingua,LatinTrans,fishscale,perez1987,,c̷̣inɣua,Phonemic
+3-650-243-1,chib1270,Muisca,227,gua,LatinTrans,fish,perez1987,Wheeler has wa. Constenla has gua.,ɣua,Phonemic
+3-630-243-1,chib1270,Muisca,2139,chuhuca,LatinTrans,"mouse, rat",perez1987,"From MsM1, refers to 'el pardillo'. Also fosua /βosua/, 'el negro'; tybsa /tɨβsa/, 'el colorado'. Constenla has chuhu-ca; chuhu-ta, both derivational suffixes occur frequently.",ṣuhuka,Phonemic
+3-614-243-1,chib1270,Muisca,1136,chuengui,LatinTrans,rabbit,perez1987,Refers to: 'el que se cría en los páramos'. 'El que se cría en las labranzas' cuhupquy /kuhupkɨ/.,ṣuen-ɣi,Phonemic
+3-610-243-1,chib1270,Muisca,2009,to,LatinTrans,dog,perez1987,Constenla has to.,to,Phonemic
+3-594-243-1,chib1270,Muisca,1853,sumgui,LatinTrans,dove,perez1987,From MsM1.,sumɣui,Phonemic
+3-596-243-1,chib1270,Muisca,735,simte,LatinTrans,owl,perez1987,,simte,Phonemic
+3-591-243-1,chib1270,Muisca,1793,supqua,LatinTrans,bat,perez1987,MsM1 has: supquaquyn /supkuakɨn/. Wheeler has supkua.,supkua,Phonemic
+3-585-243-1,chib1270,Muisca,307,umpa,LatinTrans,hawk,perez1987,,umpa,Phonemic
+3-584-243-1,chib1270,Muisca,1905,tygua,LatinTrans,eagle,perez1987,,tɨɣua,Phonemic
+3-583-243-1,chib1270,Muisca,758,fuhupqua,LatinTrans,heron,perez1987,,βuhupkua,Phonemic
+3-581-243-1,chib1270,Muisca,937,sue,LatinTrans,bird,perez1987,"GdP has suc /suk/; MsM1 and MsM2 have sue /sue/. In addition, three manuscripts have suc guana /suk ɣuana/ and sue guanna /sue ɣuanna/. Wheeler has sue; hue. Constenla has sue.",sue,Phonemic
+3-580-243-1,chib1270,Muisca,539,uze,LatinTrans,nest,perez1987,,uc̷̣e,Phonemic
+3-570-243-1,chib1270,Muisca,1360,sumne,LatinTrans,duck,perez1987,,sumne,Phonemic
+3-540-243-1,chib1270,Muisca,1514,supquagui fucha,LatinTrans,hen,perez1987,"Also [caína /ka'ina/], from Spanish 'gallina'.",supkua-ɣi βuṣa,Phonemic
+3-520-243-1,chib1270,Muisca,1511,supquagui cha,LatinTrans,"cock, rooster",perez1987,"Also [caína cha /ka'ina ṣa/], from Spanish 'gallina'.",supkua-ɣi ṣa,Phonemic
+3-500-243-1,chib1270,Muisca,265,sue,LatinTrans,fowl,perez1987,"Also MsM1, sue guanna /sue ɣuanna/.",sue,Phonemic
+3-410-243-1,chib1270,Muisca,615,[hycabai],LatinTrans,horse (equine),perez1987,From Spanish 'caballo'.,[hɨkaβai],Phonemic
+3-160-243-1,chib1270,Muisca,649,muyquy,LatinTrans,pasture,perez1987,,mɨkɨ,Phonemic
+3-130-243-1,chib1270,Muisca,2262,fuhucha,LatinTrans,female (adj),perez1987,Also fucha /βuṣa/.,βuhuṣa,Phonemic
+3-120-243-1,chib1270,Muisca,2261,cha,LatinTrans,male (adj),perez1987,,ṣa,Phonemic
+2-960-243-1,chib1270,Muisca,817,asy,LatinTrans,they,perez1987,,asɨ,Phonemic
+2-950-243-1,chib1270,Muisca,1213,mie,LatinTrans,you (plural),perez1987,,mie,Phonemic
+2-940-243-1,chib1270,Muisca,1212,chie,LatinTrans,we,perez1987,,ṣie,Phonemic
+2-930-243-1,chib1270,Muisca,262,asy,LatinTrans,he/she/it,perez1987,,asɨ,Phonemic
+2-920-243-1,chib1270,Muisca,1215,mue,LatinTrans,you (singular),perez1987,Wheeler has mue; ma. Constenla has my; mue.,mue,Phonemic
+2-910-243-1,chib1270,Muisca,1209,hycha,LatinTrans,I,perez1987,,hɨṣa,Phonemic
+2-810-243-1,chib1270,Muisca,1644,uaque,LatinTrans,"relatives, kinsmen",perez1987,,uake,Phonemic
+2-770-243-1,chib1270,Muisca,1981,aguy bgye,LatinTrans,widower,perez1987,,aɣɨ βɣɨe,Phonemic
+2-760-243-1,chib1270,Muisca,1756,asahaoa bgye,LatinTrans,widow,perez1987,Also MsM1 bgye saiagui /βɣɨe saiaɣi/.,asahaoa βɣɨe,Phonemic
+2-740-243-1,chib1270,Muisca,1058,zquyhyc pqua ia ichuta,LatinTrans,stepdaughter,perez1987,,c̷̣ɨ-kɨhɨ-k pkua ia i-ṣuta,Phonemic
+2-730-243-1,chib1270,Muisca,1059,zquyhyc pqua ia ichuta,LatinTrans,stepson,perez1987,,c̷̣ɨ-kɨhɨ-k pkua ia i-ṣuta,Phonemic
+2-720-243-1,chib1270,Muisca,236,zquyhycpquaia zuaia,LatinTrans,stepmother,perez1987,,c̷̣ɨ-kɨhɨk-pkuaia c̷̣-uaia,Phonemic
+2-710-243-1,chib1270,Muisca,237,zquyhycpquaia zpaba,LatinTrans,stepfather,perez1987,,c̷̣ɨ-kɨhɨk-pkuaia c̷̣ɨ-paβa,Phonemic
+2-641-243-1,chib1270,Muisca,2264,gyeca,LatinTrans,daughter-in-law (of a woman),perez1987,Constenla has gyca.,ɣɨeka,Phonemic
+2-640-243-1,chib1270,Muisca,2265,gyi,LatinTrans,daughter-in-law (of a man),perez1987,,ɣɨi,Phonemic
+2-631-243-1,chib1270,Muisca,2266,guaca,LatinTrans,son-in-law (of a woman),perez1987,,ɣuaka,Phonemic
+2-630-243-1,chib1270,Muisca,2267,chica,LatinTrans,son-in-law (of a man),perez1987,,ṣika,Phonemic
+2-621-243-1,chib1270,Muisca,2257,chasuaia,LatinTrans,mother-in-law (of a woman),perez1987,,ṣa-s-uaia,Phonemic
+2-620-243-1,chib1270,Muisca,2256,gyi,LatinTrans,mother-in-law (of a man),perez1987,,ɣɨi,Phonemic
+2-611-243-1,chib1270,Muisca,2254,guaca,LatinTrans,father-in-law (of a woman),perez1987,,ɣuaka,Phonemic
+2-610-243-1,chib1270,Muisca,2255,chica,LatinTrans,father-in-law (of a man),perez1987,,ṣika,Phonemic
+2-560-243-1,chib1270,Muisca,1669,sasbiza,LatinTrans,ancestors,perez1987,Also MsM1 aybeq aguecua /aɨβek aɣekua/.,sasβic̷̣a,Phonemic
+2-540-243-1,chib1270,Muisca,1642,guabxie,LatinTrans,niece,perez1987,"Refers to son/ daughter of the sister, a relationship of great importance with respect to the uncle.",ɣuaβsie,Phonemic
+2-530-243-1,chib1270,Muisca,1063,guabxie,LatinTrans,nephew,perez1987,"Refers to son/ daughter of the sister, a relationship of great importance with respect to the uncle. LS has: guabxique /ɣuaβsike/. Also LS has chuta /ṣuta/, for both nephew and niece. MsM1 limits the form to the kinship relationship with uncle.",ɣuaβsie,Phonemic
+2-522-243-1,chib1270,Muisca,170,zepaba fucha,LatinTrans,father's sister,perez1987,,c̷̣ɨ-paβa βuṣa,Phonemic
+2-521-243-1,chib1270,Muisca,171,zuaia,LatinTrans,mother's sister,perez1987,,c̷̣-uaia,Phonemic
+2-512-243-1,chib1270,Muisca,1985,zepaba,LatinTrans,father's brother,perez1987,,c̷̣ɨ-paβa,Phonemic
+2-511-243-1,chib1270,Muisca,1984,zuecha,LatinTrans,mother's brother,perez1987,,c̷̣-ue-ṣa,Phonemic
+2-480-243-1,chib1270,Muisca,1618,chune,LatinTrans,grandson,perez1987,,ṣune,Phonemic
+2-490-243-1,chib1270,Muisca,1619,chune,LatinTrans,granddaughter,perez1987,,ṣune,Phonemic
+2-471-243-1,chib1270,Muisca,907,chutqua,LatinTrans,old woman,perez1987,MsM1 has chutoca /ṣutoka/; vocative form is guai /ɣuai/.,ṣutkua,Phonemic
+2-470-243-1,chib1270,Muisca,1496,caca,LatinTrans,grandmother,perez1987,,kaka,Phonemic
+2-461-243-1,chib1270,Muisca,406,tybacha,LatinTrans,old man,perez1987,"Also tybara /tɨβa-ra/, appears to be northern dialect variant.",tɨβa-ṣa,Phonemic
+2-460-243-1,chib1270,Muisca,1383,guexica,LatinTrans,grandfather,perez1987,,ɣuesika,Phonemic
+2-456-243-1,chib1270,Muisca,1640,guias cuhubasa,LatinTrans,sibling,perez1987,,ɣuia-s kuhuβa-sa,Phonemic
+2-455-243-1,chib1270,Muisca,1761,cuhuba,LatinTrans,younger sister,perez1987,,kuhuβa,Phonemic
+2-454-243-1,chib1270,Muisca,1758,guia,LatinTrans,older sister,perez1987,,ɣuia,Phonemic
+2-450-243-1,chib1270,Muisca,1263,guahaza,LatinTrans,sister,perez1987,Con respecto del hermano.,ɣuaha c̷̣a,Phonemic
+2-445-243-1,chib1270,Muisca,1760,cuhuba,LatinTrans,younger brother,perez1987,,kuhuβa,Phonemic
+2-444-243-1,chib1270,Muisca,1759,guia,LatinTrans,older brother,perez1987,"Present-day Damana, spoken in the Sierra Nevada de Santa Marta, Colombia, has: 'gwia.",ɣuia,Phonemic
+2-440-243-1,chib1270,Muisca,1262,nyquy,LatinTrans,brother,perez1987,Con respecto de la hermana. Also pquyhyta /pkɨhɨta/.,nɨkɨ,Phonemic
+2-430-243-1,chib1270,Muisca,1801,chuta,LatinTrans,offspring (son or daughter),perez1987,,ṣuta,Phonemic
+2-420-243-1,chib1270,Muisca,1357,chuta,LatinTrans,daughter,perez1987,,ṣuta,Phonemic
+2-410-243-1,chib1270,Muisca,1620,chuta,LatinTrans,son,perez1987,"Offspring, primogenitary, chyty /ṣɨtɨ/.",ṣuta,Phonemic
+2-390-243-1,chib1270,Muisca,426,asahaoague,LatinTrans,married woman,perez1987,,a-sahaoa-ɣe,Phonemic
+2-380-243-1,chib1270,Muisca,424,aguigue,LatinTrans,married man,perez1987,,a-ɣi-ɣe,Phonemic
+2-360-243-1,chib1270,Muisca,1216,guaia,LatinTrans,mother,perez1987,,ɣuaia,Phonemic
+2-350-243-1,chib1270,Muisca,1217,paba,LatinTrans,father,perez1987,"The latter is vocative, form of address. Wheeler has paba; pabi.",paβa; paβi,Phonemic
+2-350-243-3,chib1270,Muisca,1217,pabi,LatinTrans,father,perez1987,"The latter is vocative, form of address. Wheeler has paba; pabi.",paβa; paβi,Phonemic
+2-330-243-1,chib1270,Muisca,203,zeguigosqua,LatinTrans,marry,perez1987,Man's word; 'woman marries' is isahaoagosqua /i-sahaoa-ɣo-skua/.,c̷̣ɨ-ɣi-ɣo-skua,Phonemic
+2-320-243-1,chib1270,Muisca,1199,gui,LatinTrans,wife,perez1987,Wheeler has wisa; wi.,ɣi,Phonemic
+2-310-243-1,chib1270,Muisca,1200,sahaoa,LatinTrans,husband,perez1987,,sahaoa; saoa,Phonemic
+2-310-243-3,chib1270,Muisca,1200,saoa,LatinTrans,husband,perez1987,,sahaoa; saoa,Phonemic
+2-280-243-1,chib1270,Muisca,1289,hizyca,LatinTrans,"infant, baby",perez1987,From MsM1.,hic̷̣ɨka,Phonemic
+2-270-243-1,chib1270,Muisca,1304,guasgua cha,LatinTrans,child,perez1987,"Male form; female is guasgua fucha /ɣuasɣua βuṣa/. Also MsM1 has tecua; pinze /tekua; pinc̷̣e/, male child; MsM1 'female' pinze; hycaguy /pinc̷̣e; hɨkaɣɨ/. Constenla has guasgua.",ɣuasɣua ṣa,Phonemic
+2-260-243-1,chib1270,Muisca,1646,guasgua fucha,LatinTrans,girl,perez1987,Vocative form is hycagui /hɨkaɣi/.,ɣuasɣua βuṣa,Phonemic
+2-250-243-1,chib1270,Muisca,1366,guasgua cha,LatinTrans,boy,perez1987,Vocative form is tequa /tekua/.,ɣuasɣua ṣa,Phonemic
+2-240-243-1,chib1270,Muisca,1551,fuhucha,LatinTrans,female,perez1987,,βuhuṣa; βuṣa,Phonemic
+2-240-243-3,chib1270,Muisca,1551,fucha,LatinTrans,female,perez1987,,βuhuṣa; βuṣa,Phonemic
+2-230-243-1,chib1270,Muisca,1553,cha,LatinTrans,male,perez1987,Wheeler has ča 'man'.,ṣa,Phonemic
+2-220-243-1,chib1270,Muisca,962,muysca fucha,LatinTrans,woman,perez1987,Also fucha /βuṣa/.,mɨska βuṣa,Phonemic
+2-210-243-1,chib1270,Muisca,1554,muysca,LatinTrans,man (vs. woman),perez1987,Wheeler has ča.,mɨska,Phonemic
+2-100-243-1,chib1270,Muisca,683,muysca,LatinTrans,"person, human being",perez1987,,mɨska,Phonemic
+1-890-243-1,chib1270,Muisca,1188,gazpqua,LatinTrans,charcoal,perez1987,,ɣac̷̣pkua,Phonemic
+1-880-243-1,chib1270,Muisca,10,ja,LatinTrans,firewood,perez1987,,ia,Phonemic
+1-861-243-1,chib1270,Muisca,127,yquy zmuyn-suca,LatinTrans,extinguish,perez1987,"/ɨkɨ c̷̣ɨ-mɨn-suka/, from MsM1.",,Phonemic
+1-860-243-1,chib1270,Muisca,737,bgynasuca,LatinTrans,"light, kindle, ignite",perez1987,From MsM1.,βɣɨna-suka,Phonemic
+1-851-243-1,chib1270,Muisca,141,bgai pquasuca,LatinTrans,burn (vb trans),perez1987,Also zpquihistasuca /c̷̣ɨ-pkihista-suka/.,βɣai pkua-suka,Phonemic
+1-841-243-1,chib1270,Muisca,67,gatymoque,LatinTrans,embers,perez1987,,ɣatɨ-moke,Phonemic
+1-840-243-1,chib1270,Muisca,646,fusque,LatinTrans,ashes,perez1987,Also means 'dust' 01.213.,βuske; sukta,Phonemic
+1-840-243-3,chib1270,Muisca,646,sucta,LatinTrans,ashes,perez1987,Also means 'dust' 01.213.,βuske; sukta,Phonemic
+1-830-243-1,chib1270,Muisca,778,ie,LatinTrans,smoke (noun),perez1987,Also gahachua /ɣahaṣua/.,ie,Phonemic
+1-810-243-1,chib1270,Muisca,221,gata,LatinTrans,fire,perez1987,Constenla has gata.,ɣata,Phonemic
+1-760-243-1,chib1270,Muisca,784,hichu,LatinTrans,snow (noun),perez1987,,hiṣu,Phonemic
+1-750-243-1,chib1270,Muisca,658,siu,LatinTrans,rain (noun),perez1987,Wheeler has siu.,siu,Phonemic
+1-740-243-1,chib1270,Muisca,249,faoa,LatinTrans,fog,perez1987,,βaoa,Phonemic
+1-720-243-1,chib1270,Muisca,960,fiba,LatinTrans,wind,perez1987,Wheeler has fiwa.,βiβa,Phonemic
+1-730-243-1,chib1270,Muisca,1489,faoa,LatinTrans,cloud,perez1987,MsM1 has: bahaoa /βahaoa/. Constenla has faoa /βagua/.,βaoa,Phonemic
+1-630-243-1,chib1270,Muisca,1388,ij,LatinTrans,"shade, shadow",perez1987,Also myhymca /mɨhɨmka/.,ii,Phonemic
+1-620-243-1,chib1270,Muisca,11,umzac aguequa,LatinTrans,darkness,perez1987,,umc̷̣a-k a-ɣekua,Phonemic
+1-610-243-1,chib1270,Muisca,630,chie,LatinTrans,light (noun),perez1987,,ṣie,Phonemic
+1-590-243-1,chib1270,Muisca,1733,chuquy,LatinTrans,rainbow,perez1987,,ṣukɨ,Phonemic
+1-560-243-1,chib1270,Muisca,1150,quycaz atinansuca,LatinTrans,thunder,perez1987,,kɨka-c̷̣ a-tinan-suka,Phonemic
+1-570-243-1,chib1270,Muisca,2007,pquahaza,LatinTrans,lightning (as striking),perez1987,"Also MsM1 pquihiza /pkihic̷̣a/, bright flash from fire.",pkahac̷̣a,Phonemic
+1-550-243-1,chib1270,Muisca,1654,hicabimy,LatinTrans,lightning,perez1987,,hikaβimɨ,Phonemic
+1-540-243-1,chib1270,Muisca,1430,fagua,LatinTrans,star,perez1987,Constenla has fa-gua with derivational suffix.,βaɣua,Phonemic
+1-530-243-1,chib1270,Muisca,1313,chie,LatinTrans,moon,perez1987,"Constenla has chie 'moon, month'.",ṣie,Phonemic
+1-520-243-1,chib1270,Muisca,1343,sua,LatinTrans,sun,perez1987,Also means 'day' 14.410. Wheeler has sua.,sua,Phonemic
+1-510-243-1,chib1270,Muisca,1732,guatquyca,LatinTrans,sky,perez1987,Also quyca /kɨka/.,ɣuat-kɨka,Phonemic
+1-450-243-1,chib1270,Muisca,6,ie zamisqua,LatinTrans,earthquake,perez1987,"Verbal form, lit. 'shakes the earth'.",ie c̷̣ami-skua,Phonemic
+1-440-243-1,chib1270,Muisca,2125,hyca,LatinTrans,"stone, rock",perez1987,Wheeler has hika. Constenla has hyca.,hɨka,Phonemic
+1-420-243-1,chib1270,Muisca,906,quye,LatinTrans,tree (cf 08.600),perez1987,,kɨe,Phonemic
+1-410-243-1,chib1270,Muisca,420,quye,LatinTrans,"woods, forest",perez1987,"Wheeler has wa 'brush, woods'.",kɨe,Phonemic
+1-370-243-1,chib1270,Muisca,2144,hichyquy,LatinTrans,"spring, well",perez1987,,hiṣɨkɨ,Phonemic
+1-360-243-1,chib1270,Muisca,666,xie,LatinTrans,"river, stream, brook",perez1987,Also MsM1 hista /hista/. A small brook is faquy /βakɨ/. Wheeler has watok; wato.,sie; sie-toke,Phonemic
+1-360-243-3,chib1270,Muisca,666,sietoque,LatinTrans,"river, stream, brook",perez1987,Also MsM1 hista /hista/. A small brook is faquy /βakɨ/. Wheeler has watok; wato.,sie; sie-toke,Phonemic
+1-350-243-1,chib1270,Muisca,978,simque,LatinTrans,wave,perez1987,,simke,Phonemic
+1-341-243-1,chib1270,Muisca,623,xiua,LatinTrans,lagoon,perez1987,,si-ua,Phonemic
+1-330-243-1,chib1270,Muisca,624,xiua,LatinTrans,lake,perez1987,Wheeler has xie-wa.,si-ua,Phonemic
+1-310-243-1,chib1270,Muisca,948,sie,LatinTrans,water,perez1987,Wheeler has sie. Constenla has sie.,sie,Phonemic
+1-280-243-1,chib1270,Muisca,1155,ta,LatinTrans,cave,perez1987,GdP has: 'rock cave' hycata /hɨkata/; 'dirt cave' hichata /hiṣata/.,ta,Phonemic
+1-230-243-1,chib1270,Muisca,652,muycuc pquao,LatinTrans,"plain, field",perez1987,,mɨkɨk pkuao,Phonemic
+1-220-243-1,chib1270,Muisca,2118,gua,LatinTrans,"mountain, hill",perez1987,,ɣua,Phonemic
+1-214-243-1,chib1270,Muisca,640,isua,LatinTrans,mud,perez1987,Also MsM1 usua; une /usua/; /une/.,isua,Phonemic
+1-215-243-1,chib1270,Muisca,671,guanza,LatinTrans,sand,perez1987,Wheeler has wanza.,ɣua-nc̷̣a,Phonemic
+1-213-243-1,chib1270,Muisca,2,fusque,LatinTrans,dust,perez1987,Also means 'ashes' 01.840.,βuske,Phonemic
+1-212-243-1,chib1270,Muisca,1228,iegui,LatinTrans,"earth=ground, soil",perez1987,Also MsM1 hycha fihista /hɨṣa βihista/.,ieɣi,Phonemic
+1-210-243-1,chib1270,Muisca,626,quyca,LatinTrans,"earth, land",perez1987,Wheeler has gi.,kɨka,Phonemic
+1-100-243-1,chib1270,Muisca,965,quycagua azonuca,LatinTrans,world,perez1987,,kɨka-ɣua ac̷̣onuka,Phonemic
+14-330-243-1,chib1270,Muisca,1544,insgansa,LatinTrans,sometimes,perez1987,Also insinsa /insinsa/—both from MsM1.,insɣansa,Phonemic
+14-340-243-1,chib1270,Muisca,1656,hataca,LatinTrans,never,perez1987,"Also ubuca /uβuka/; hatacaubuca /hataka-uβuka/. Also ycatybuca /ɨkatɨβuka/; yscuque /ɨskuke/, MsM1.",hataka,Phonemic
+14-350-243-1,chib1270,Muisca,204,fihistan,LatinTrans,again,perez1987,,βihistan,Phonemic
+14-410-243-1,chib1270,Muisca,1225,sua,LatinTrans,day,perez1987,Also means 'sun' 01.520.,sua,Phonemic
+14-420-243-1,chib1270,Muisca,1233,za,LatinTrans,night,perez1987,Wheeler has za.,c̷̣a,Phonemic
+14-430-243-1,chib1270,Muisca,729,suas agasqua,LatinTrans,dawn,perez1987,Verbal form. Also fisuc agasqua /βisu-k a-ɣa-skua/. Adverbial forms: suas agasquana /sua-s a-ɣa-skua-na/; suas agaiaxin /sua-s a-ɣa-ia-sin/. fusuc agasquana /βusu-k a-ɣa-skua-na/; fusuc agaiaxin /βusu-k a-ɣa-ia-sin/.,sua-s a-ɣa-skua,Phonemic
+14-440-243-1,chib1270,Muisca,1339,zacoca,LatinTrans,morning,perez1987,Adverbial form.,c̷̣a-ko-ka,Phonemic
+14-450-243-1,chib1270,Muisca,12,sua quychyquysa,LatinTrans,"noon, midday",perez1987,Also quychyquysa /kɨṣɨkɨ-sa/.,sua kɨṣɨkɨ-sa,Phonemic
+14-451-243-1,chib1270,Muisca,1807,sua meca,LatinTrans,afternoon,perez1987,Also sua mena /sua-me-na/.,sua-me-ka,Phonemic
+14-460-243-1,chib1270,Muisca,1629,azacansuca,LatinTrans,evening,perez1987,Also aumzansuca /a-um-c̷̣a-n-suka/; achysquynsuca /a-ṣɨskɨ-n-suka/; azinansuca /a-c̷̣inan-suka/.,a-c̷̣a-kan-suka,Phonemic
+14-470-243-1,chib1270,Muisca,1283,fa,LatinTrans,today,perez1987,,βa,Phonemic
+14-480-243-1,chib1270,Muisca,1329,aica,LatinTrans,tomorrow,perez1987,,ai-ka,Phonemic
+14-481-243-1,chib1270,Muisca,1179,moza,LatinTrans,day-after-tomorrow,perez1987,,moc̷̣a,Phonemic
+14-490-243-1,chib1270,Muisca,1174,muyhycasuasa,LatinTrans,yesterday,perez1987,,mɨhɨka-sua-sa,Phonemic
+14-491-243-1,chib1270,Muisca,1180,mona,LatinTrans,day-before-yesterday,perez1987,,mo-na,Phonemic
+14-710-243-1,chib1270,Muisca,1370,chie,LatinTrans,month,perez1987,"Constenla has chie 'moon (01.530), month'.",ṣie,Phonemic
+14-730-243-1,chib1270,Muisca,1226,zocam,LatinTrans,year,perez1987,,c̷̣okam-,Phonemic
+14-760-243-1,chib1270,Muisca,1342,suaty,LatinTrans,summer,perez1987,,sua-tɨ,Phonemic
+15-220-243-1,chib1270,Muisca,1586,zmuysquysuca,LatinTrans,smell (vb trans),perez1987,,c̷̣ɨ-β-ɨskɨ-suka,Phonemic
+15-250-243-1,chib1270,Muisca,376,acho,LatinTrans,"fragrant, good smelling",perez1987,Lit. 'smell-good'. A 'fragrant odor' is hazyn mague /hac̷̣-ɨn maɣe/ MsM1.,a-ṣo,Phonemic
+15-260-243-1,chib1270,Muisca,42,afupquan mague,LatinTrans,"stinking, bad smelling",perez1987,Also amachuenza /a-maṣue-nc̷̣a/.,a-βupkuan maɣe,Phonemic
+15-310-243-1,chib1270,Muisca,21,a cho,LatinTrans,taste,perez1987,Lit. 'sabor bueno'; cf. 'good smelling' 15.250. 'Gustar' is zmuysysuca /c̷̣ɨ-β-ɨsɨ-suka/.,a-ṣo,Phonemic
+15-350-243-1,chib1270,Muisca,717,abasen mague,LatinTrans,sweet,perez1987,,a-βas-in maɣe,Phonemic
+15-360-243-1,chib1270,Muisca,1091,nyguaz ys biasqua,LatinTrans,salty,perez1987,Verbal form.,nɨɣua-c̷̣ ɨs -βia-skua,Phonemic
+15-370-243-1,chib1270,Muisca,887,aquyhyquyn mague,LatinTrans,bitter,perez1987,,a-kɨhɨk-ɨn maɣe,Phonemic
+15-380-243-1,chib1270,Muisca,1906,atyhyzyn mague,LatinTrans,"acid, sour",perez1987,,a-tɨhɨc̷̣-ɨn maɣe,Phonemic
+15-410-243-1,chib1270,Muisca,1408,mnyqua-suca,LatinTrans,hear,perez1987,,β-nɨ-kua-suka,Phonemic
+15-440-243-1,chib1270,Muisca,1811,izonansuca,LatinTrans,"sound, noise",perez1987,"Verbal form, 'to make noise'. 'Hacer estruendo' atinansuca /a-tinan-suka/.",i-c̷̣onan-suka,Phonemic
+15-450-243-1,chib1270,Muisca,377,ahoahoan mague,LatinTrans,loud,perez1987,From MsM1.,a-hoa-hoa-n maɣe,Phonemic
+15-510-243-1,chib1270,Muisca,1409,zemistysuca,LatinTrans,see,perez1987,,c̷̣ɨ-β-istɨ-suka,Phonemic
+15-520-243-1,chib1270,Muisca,1819,bchibysuca,LatinTrans,"look, look at",perez1987,Transitive verb. Intransitive: ichibygosqua /i-ṣiβɨ-go-skua/.,β-ṣiβɨ-suka,Phonemic
+15-570-243-1,chib1270,Muisca,679,chie,LatinTrans,bright,perez1987,See 'moon' 01.530.,ṣie,Phonemic
+15-610-243-1,chib1270,Muisca,1613,bique,LatinTrans,color,perez1987,,βike,Phonemic
+15-620-243-1,chib1270,Muisca,250,muyian pquaoa,LatinTrans,light (in color),perez1987,Also muyian pquane /mɨian pkuane/ MsM1.,mɨian pkuaoa,Phonemic
+15-630-243-1,chib1270,Muisca,706,umzac aguecua,LatinTrans,dark (in color),perez1987,,um-c̷̣a-k a-ɣekua,Phonemic
+15-640-243-1,chib1270,Muisca,1335,pquyhisio,LatinTrans,white,perez1987,Also apquyhyzen mague /a-pkɨhɨc̷̣-ɨn maɣe/.,pkɨhisio,Phonemic
+15-650-243-1,chib1270,Muisca,163,amuyhyzyn mague,LatinTrans,black,perez1987,,a-mɨhɨc̷̣-ɨn maɣe,Phonemic
+15-660-243-1,chib1270,Muisca,156,heczen mague,LatinTrans,red,perez1987,,hekc̷̣-ɨn maɣe,Phonemic
+15-670-243-1,chib1270,Muisca,837,achysquyn mague,LatinTrans,blue,perez1987,Also chysquyco /ṣɨskɨ-ko/. Same as 'green' 15.680.,a-ṣɨsk-ɨn maɣe,Phonemic
+15-680-243-1,chib1270,Muisca,1425,achysquyn mague,LatinTrans,green,perez1987,Also chysquyco /ṣɨskɨ-ko/. Same as 'blue' 15.670.,a-ṣɨsk-ɨn maɣe,Phonemic
+15-690-243-1,chib1270,Muisca,1424,atybansuca,LatinTrans,yellow,perez1987,Verb form. A yellow thing is atyban mague /a-tɨβa-n maɣe/; tybco /tɨβ-ko/; tybaguaze /tɨβa-ɣuac̷̣e/.,a-tɨβan-suka,Phonemic
+15-710-243-1,chib1270,Muisca,1892,bgetasuca,LatinTrans,touch,perez1987,,β-ɣeta-suka,Phonemic
+15-712-243-1,chib1270,Muisca,378,bsohoza-suca,LatinTrans,pinch,perez1987,Also zemansuca /c̷̣ɨ-β-an-suka/.,β-sohoc̷̣a-suka,Phonemic
+15-740-243-1,chib1270,Muisca,1884,acamen mague,LatinTrans,hard,perez1987,,a-kam-ɨn maɣe,Phonemic
+15-750-243-1,chib1270,Muisca,1856,ahizian mague,LatinTrans,soft,perez1987,,a-hic̷̣i-ɨn maɣe,Phonemic
+15-760-243-1,chib1270,Muisca,1923,asiquen mague,LatinTrans,rough,perez1987,,a-sik-ɨn maɣe,Phonemic
+15-770-243-1,chib1270,Muisca,1234,zmohosysuca,LatinTrans,smooth,perez1987,Verbal form.,c̷̣ɨ-β-ohosɨ-suka,Phonemic
+15-780-243-1,chib1270,Muisca,1396,asicaz bquysqua,LatinTrans,sharp,perez1987,Verbal form.,a-sika-c̷̣ β-kɨ-skua,Phonemic
+15-810-243-1,chib1270,Muisca,1210,afihizan mague,LatinTrans,heavy,perez1987,,a-βihic̷̣-ɨn maɣe,Phonemic
+15-820-243-1,chib1270,Muisca,1052,afihizanza,LatinTrans,light (in weight),perez1987,,a-βihic̷̣a-nc̷̣a,Phonemic
+15-830-243-1,chib1270,Muisca,1726,iotupqua,LatinTrans,"wet, damp",perez1987,,iotu-pkua,Phonemic
+15-840-243-1,chib1270,Muisca,1398,buchua,LatinTrans,dry,perez1987,To dry something: abuchuansuca /a-βuṣua-n-suka/. Constenla has suaty 'dry season'.,βuṣua,Phonemic
+15-850-243-1,chib1270,Muisca,1286,amon mague,LatinTrans,hot,perez1987,"Also chitupqua /ṣitu-pkua/, from MsM1.",a-mon-maɣe,Phonemic
+15-851-243-1,chib1270,Muisca,1232,aguensuca,LatinTrans,warm,perez1987,Verbal form.,a-ɣe-n-suka,Phonemic
+15-860-243-1,chib1270,Muisca,1287,zquyensuca,LatinTrans,cold,perez1987,Also aquyn mague /a-k-ɨn maɣe/.,c̷̣ɨ-kɨ-en-suka,Phonemic
+15-870-243-1,chib1270,Muisca,704,apquyhyzyn mague,LatinTrans,clean,perez1987,Also pquyhyxio /pkɨhɨsio/; See 'white' 15.640.,a-pkɨhɨc̷̣-ɨn maɣe,Phonemic
+15-880-243-1,chib1270,Muisca,1230,amuyhyzen mague,LatinTrans,"dirty, soiled",perez1987,See 'black' 15.650.,a-mɨhɨc̷̣-ɨn maɣe,Phonemic
+15-890-243-1,chib1270,Muisca,380,zquyntansuca,LatinTrans,wrinkled,perez1987,Verbal form. Also verb zequyhintansuca /c̷̣ɨ-kɨhɨntan-suka/ MsM1.,c̷̣ɨ-kɨntan-suka,Phonemic
+16-110-243-1,chib1270,Muisca,53,fihizca,LatinTrans,"soul, spirit",perez1987,See'breathe' 04.510.,βihic̷̣ka,Phonemic
+16-230-243-1,chib1270,Muisca,1495,zpquyquyz achuensuca,LatinTrans,"joyful, glad, happy",perez1987,Verbal form. /c̷̣ɨ-pkɨkɨ-c̷̣ a-ṣu-ɨn-suka/. A happy person is apquyquy chuin mague /a-pkɨkɨ ṣu-ɨn maɣe/.,,Phonemic
+16-250-243-1,chib1270,Muisca,1355,zegyguasuca,LatinTrans,laugh,perez1987,,c̷̣ɨ-ɣɨɣua-suka,Phonemic
+16-260-243-1,chib1270,Muisca,1413,zpquazygosqua,LatinTrans,play,perez1987,,c̷̣ɨ-pkuac̷̣ɨɣo-skua,Phonemic
+16-270-243-1,chib1270,Muisca,923,btyzy-suca,LatinTrans,love,perez1987,,β-tɨc̷̣ɨ-suka,Phonemic
+16-290-243-1,chib1270,Muisca,578,zemuysquysuca,LatinTrans,kiss,perez1987,"lit. 'smell', that is, the sniff-kiss, known elsewhere also.",c̷̣ɨ-β-ɨskɨ-suka,Phonemic
+16-300-243-1,chib1270,Muisca,928,es ichosqua,LatinTrans,embrace,perez1987,Also es isasqua /es i-sa-skua/; es bquysqua /es β-kɨ-skua/.,es i-ṣo-skua,Phonemic
+16-310-243-1,chib1270,Muisca,1783,iu,LatinTrans,pain,perez1987,,iu,Phonemic
+16-320-243-1,chib1270,Muisca,1668,apquyquyz asucansuca,LatinTrans,"grief, sorrow, sadness",perez1987,,a-pkɨkɨc̷̣ a-sukan-suka,Phonemic
+16-370-243-1,chib1270,Muisca,1839,zeconsuca,LatinTrans,"cry, weep",perez1987,,c̷̣ɨ-kon-suka,Phonemic
+16-380-243-1,chib1270,Muisca,1651,opquasiu,LatinTrans,tear (noun),perez1987,,opkua-siu,Phonemic
+16-390-243-1,chib1270,Muisca,716,ai bgasqua,LatinTrans,groan,perez1987,,ai β-ɣa-skua,Phonemic
+16-420-243-1,chib1270,Muisca,82,zegensuca,LatinTrans,anger,perez1987,Also zegecagasqua /c̷̣ɨ-ɣek-aɣa-skua/.,c̷̣ɨ-ɣen-suka,Phonemic
+16-440-243-1,chib1270,Muisca,40,zemosuasuca,LatinTrans,"envy, jealousy",perez1987,Transitive form; intransitive is zebosuagosqua /c̷̣ɨ-bosua-ɣo-skua/.,c̷̣ɨ-mosua-suka,Phonemic
+16-450-243-1,chib1270,Muisca,1776,zefansuca,LatinTrans,shame (noun),perez1987,Verbal form.,c̷̣ɨ-βan-suka,Phonemic
+16-530-243-1,chib1270,Muisca,781,bsiesesuca,LatinTrans,"fear, fright",perez1987,"Verbal form; also zebsiesysuca /c̷̣ɨ-β-siesɨ-suka/, MsM1.",β-siese-suka,Phonemic
+16-620-243-1,chib1270,Muisca,1784,-cuhuc aguene,LatinTrans,"desire, want",perez1987,"Preceded by prefix and lexical item, e.g. chasienga cuhuc aguene /ṣa-sie-nɣa kuhuk a-ɣene/, lit. 1st pers.sing.-go-future, 'I desire to go'.",-kuhuk a-ɣene,Phonemic
+16-622-243-1,chib1270,Muisca,1750,ys btasqua,LatinTrans,choose,perez1987,Also ys zebiosuca /ɨs c̷̣ɨ-β-io-suka/; ys zemicusuca /ɨs c̷̣ɨ-β-iku-suka/.,ɨs β-ta-skua,Phonemic
+16-660-243-1,chib1270,Muisca,1657,ocasa,LatinTrans,true,perez1987,"Also ocasac aguecua /okasa-k aɣekua/, means 'truly'.",okasa,Phonemic
+16-670-243-1,chib1270,Muisca,601,yenza,LatinTrans,"lie, tell lies",perez1987,Noun forms; also chihiscago /ṣihiskaɣo/; and chihiscane /ṣihiskane/. Also verb ichichisc agosqua /i-ṣiṣis-k a-ɣo-skua/; yen a zgusqua /ie-nc̷̣a c̷̣ɨ-ɣu-skua/.,ɨe-nc̷̣a,Phonemic
+16-680-243-1,chib1270,Muisca,13,agotac mnysqua,LatinTrans,deceit,perez1987,"Also agotac btasqua /a-ɣota-k β-ta-skua/; ahuiche btasqua /a-huiṣe β-ta-skua/, all verb forms.",a-ɣota-k β-nɨ-skua,Phonemic
+16-690-243-1,chib1270,Muisca,1528,apqua zegusquaza,LatinTrans,forgive,perez1987,,a-pkua c̷̣ɨ-ɣu-skua-c̷̣a,Phonemic
+16-710-243-1,chib1270,Muisca,1035,cho,LatinTrans,good,perez1987,,ṣo,Phonemic
+16-720-243-1,chib1270,Muisca,1292,achuenza,LatinTrans,bad,perez1987,,a-ṣue-nc̷̣a,Phonemic
+16-760-243-1,chib1270,Muisca,134,hychan zepquyquy guê,LatinTrans,fault,perez1987,,hɨṣa-n c̷̣ɨ-pkɨkɨ ɣe,Phonemic
+16-790-243-1,chib1270,Muisca,1687,ecaz choc zegusqua,LatinTrans,praise,perez1987,,eka-c̷̣o-k c̷̣ɨ-ɣu-skua,Phonemic
+16-810-243-1,chib1270,Muisca,1427,mecpquaoa,LatinTrans,beautiful,perez1987,,mek pkuaoa,Phonemic
+16-820-243-1,chib1270,Muisca,1548,mec chyzynga,LatinTrans,ugly,perez1987,,mek ṣɨc̷̣ɨnɣa,Phonemic
+16-830-243-1,chib1270,Muisca,2018,abas izysqua,LatinTrans,greedy,perez1987,,a-βas i-c̷̣ɨ-skua,Phonemic
+17-110-243-1,chib1270,Muisca,1562,pquyquy,LatinTrans,mind,perez1987,,pkɨkɨ,Phonemic
+17-130-243-1,chib1270,Muisca,1415,ybunsuca,LatinTrans,think (= reflect),perez1987,Also zepquyquyz ybtasqua /c̷̣ɨ-pkɨkɨ-c̷̣ ɨ-β-ta-skua/. MsM2 has zepuyquyz yquy btasqua /c̷̣ɨ-pɨkɨ-c̷̣ ɨkɨ β-ta-skua/.,ɨ-βun-suka,Phonemic
+17-140-243-1,chib1270,Muisca,1513,zegusqua,LatinTrans,think (= be of the opinion),perez1987,,c̷̣ɨ-ɣu-skua,Phonemic
+17-150-243-1,chib1270,Muisca,1890,zepuyquynuc ocas que bgasqua,LatinTrans,believe,perez1987,,c̷̣ɨ-pɨkɨ-nu-k okas ɣɨ β-ɣa-skua,Phonemic
+17-160-243-1,chib1270,Muisca,1536,zemnypquasuca,LatinTrans,understand,perez1987,,c̷̣ɨ-β-nɨ-pkua-suka,Phonemic
+17-170-243-1,chib1270,Muisca,1410,zemucansuca,LatinTrans,know,perez1987,,c̷̣ɨ-β-ukan-suka,Phonemic
+17-172-243-1,chib1270,Muisca,117,-ipqua bquysqua,LatinTrans,imitate,perez1987,"Also zipqua bquysqua /c̷̣-ipkua β-kɨ-skua/, lit. '1st pers.sing.(?)-trans-make-present', 'imitate me'.",-ipkua β-ki-skua,Phonemic
+17-180-243-1,chib1270,Muisca,1521,hycha zecuhuc aguene,LatinTrans,seem,perez1987,'similar to me'.,hɨṣa c̷̣ɨ-kuhuk a-ɣe-ne,Phonemic
+17-220-243-1,chib1270,Muisca,1518,pquyta,LatinTrans,"foolish, stupid",perez1987,Also tucumzi /tukumc̷̣i/—both in MsM1 and MsM2. In GdP pqueta tucumzi 'tonto'.,pkɨta,Phonemic
+17-230-243-1,chib1270,Muisca,1899,mahazanuca,LatinTrans,"insane, crazy",perez1987,,maha-c̷̣a-nuka,Phonemic
+17-240-243-1,chib1270,Muisca,504,bchichuasuca,LatinTrans,learn,perez1987,,β-ṣiṣua-suka,Phonemic
+17-250-243-1,chib1270,Muisca,709,hoc bgasqua,LatinTrans,teach,perez1987,,hok β-ɣa-skua,Phonemic
+17-310-243-1,chib1270,Muisca,707,zepquyn agasqua,LatinTrans,remember,perez1987,from MsM2.,c̷̣ɨ-pkɨn a-ɣa-skua,Phonemic
+17-320-243-1,chib1270,Muisca,1523,zemahaquesuca,LatinTrans,forget,perez1987,,c̷̣ɨ-β-ahake-suka,Phonemic
+17-340-243-1,chib1270,Muisca,989,muyian pquana,LatinTrans,"clear, plain",perez1987,,mɨia-n pkua-na,Phonemic
+17-440-243-1,chib1270,Muisca,1841,zepquyquy yquyamisqua,LatinTrans,suspect,perez1987,both from MsM1.,c̷̣ɨ-pkɨkɨ ɨkɨ a-mi-skua; c̷̣ɨ-pkɨkɨ ɨkɨ a-c̷̣a-skua,Phonemic
+17-440-243-3,chib1270,Muisca,1841,zepquyquy yquy azasqua,LatinTrans,suspect,perez1987,both from MsM1.,c̷̣ɨ-pkɨkɨ ɨkɨ a-mi-skua; c̷̣ɨ-pkɨkɨ ɨkɨ a-c̷̣a-skua,Phonemic
+17-441-243-1,chib1270,Muisca,1902,aquihysynsuca,LatinTrans,betray,perez1987,From MsM1.,a-kihɨsɨn-suka,Phonemic
+17-450-243-1,chib1270,Muisca,643,chatyunynga cuhuc aguene,LatinTrans,"need, necessity",perez1987,,ṣa-tɨunɨ-nɣa kuhuk a-ɣe-ne,Phonemic
+17-480-243-1,chib1270,Muisca,1812,bquys bchibysuca,LatinTrans,"try, attempt",perez1987,,β-kɨs β-ṣiβɨ-suka,Phonemic
+17-510-243-1,chib1270,Muisca,1577,nga,LatinTrans,and,perez1987,,nɣa,Phonemic
+17-520-243-1,chib1270,Muisca,1157,npquaca,LatinTrans,because,perez1987,Also nzona /nc̷̣ona/.,npkua-ka,Phonemic
+17-540-243-1,chib1270,Muisca,1014,bi,LatinTrans,or,perez1987,,-βi; -βan,Phonemic
+17-540-243-3,chib1270,Muisca,1014,ban,LatinTrans,or,perez1987,,-βi; -βan,Phonemic
+17-550-243-1,chib1270,Muisca,1268,o,LatinTrans,"yes, affirmative",perez1987,,o,Phonemic
+17-560-243-1,chib1270,Muisca,1269,-(n)za,LatinTrans,"no, negative",perez1987,,-(n)c̷̣a,Phonemic
+17-610-243-1,chib1270,Muisca,1239,ia hacobe,LatinTrans,how?,perez1987,"Also ia hacoa, MsM1.",ia hako-ua,Phonemic
+17-610-243-3,chib1270,Muisca,1239,ia hacoua,LatinTrans,how?,perez1987,"Also ia hacoa, MsM1.",ia hako-ua,Phonemic
+17-620-243-1,chib1270,Muisca,822,fiua,LatinTrans,how many?,perez1987,Constenla has fica.,βi-ua,Phonemic
+17-630-243-1,chib1270,Muisca,531,ficua,LatinTrans,how much?,perez1987,,βi-k-ua,Phonemic
+17-640-243-1,chib1270,Muisca,1236,ipqua,LatinTrans,what?,perez1987,"Also ipkuavâ /ipkua-ua/, from MsM1.",ipkua,Phonemic
+17-650-243-1,chib1270,Muisca,1238,fesua,LatinTrans,when?,perez1987,Respectively: referring to past; to future.,βes-ua; βes-n-ua,Phonemic
+17-650-243-3,chib1270,Muisca,1238,fesnua,LatinTrans,when?,perez1987,Respectively: referring to past; to future.,βes-ua; βes-n-ua,Phonemic
+17-660-243-1,chib1270,Muisca,1237,epquac oa,LatinTrans,where?,perez1987,Also epquanua /epkua-n-ua/.,epkua-k ua,Phonemic
+17-670-243-1,chib1270,Muisca,727,besua,LatinTrans,which?,perez1987,,βes-ua,Phonemic
+17-680-243-1,chib1270,Muisca,1235,xieoa,LatinTrans,who?,perez1987,Constenla has xie /sie/.,sie-ua,Phonemic
+17-690-243-1,chib1270,Muisca,1270,ipquan pquaca,LatinTrans,why?,perez1987,Various examples: ipquan pquaca /ipkua-n pkua-ka/; ipquanzona /ipkua-nc̷̣ona/; ipqua quihichan /ipkua kihiṣan/; hac aguen /hak a-ɣen/; hac aguen nzona /hak a-ɣen nc̷̣ona/; aqhaguen npquaca /hak a-ɣen npkua-ka/.,ipkua-n pkua-ka,Phonemic
+18-110-243-1,chib1270,Muisca,1363,chyza,LatinTrans,voice,perez1987,,ṣɨc̷̣a,Phonemic
+18-120-243-1,chib1270,Muisca,1261,btysqua,LatinTrans,sing,perez1987,Also ty zegusqua /tɨ c̷̣ɨ-ɣu-skua/. Constenla has ty-scua with imperfective aspect suffix.,βtɨ-skua,Phonemic
+18-130-243-1,chib1270,Muisca,715,zquynsuca,LatinTrans,"shout, cry out",perez1987,,c̷̣ɨ-kɨn-suka,Phonemic
+18-150-243-1,chib1270,Muisca,55,fihizcac zecubunsuca,LatinTrans,whisper,perez1987,,βihic̷̣ka-k c̷̣ɨ-kuβun-suka,Phonemic
+18-160-243-1,chib1270,Muisca,128,quyhycatac zecubunsuca,LatinTrans,mumble,perez1987,,kɨhɨkata-k c̷̣ɨ-kuβun-suka,Phonemic
+18-170-243-1,chib1270,Muisca,1025,zegohozensuca,LatinTrans,whistle,perez1987,,c̷̣ɨ-ɣohoc̷̣en-suka,Phonemic
+18-210-243-1,chib1270,Muisca,1623,zcubunsuca,LatinTrans,"speak, talk",perez1987,,c̷̣ɨ-kuβun-suka,Phonemic
+18-211-243-1,chib1270,Muisca,1866,zepquagansuca,LatinTrans,"stutter, stammer",perez1987,"from MsM1; zepquaguansuca /c̷̣ɨ-pkuaɣua-n-suka/, GdeP.",c̷̣ɨ-pkuaɣa-n-suka,Phonemic
+18-220-243-1,chib1270,Muisca,1458,zegusqua,LatinTrans,say,perez1987,Also chahasugue /ṣaha-su-ɣe/. Constenla has gua-scua with imperfective aspect suffix.,c̷̣ɨ-ɣu-skua,Phonemic
+18-221-243-1,chib1270,Muisca,1711,zegusqua,LatinTrans,tell story,perez1987,,c̷̣ɨ-ɣu-skua,Phonemic
+18-230-243-1,chib1270,Muisca,48,zecubunsucaza,LatinTrans,silent (be),perez1987,,c̷̣ɨ-kuβun-suka-c̷̣a,Phonemic
+18-240-243-1,chib1270,Muisca,1307,cubun,LatinTrans,language,perez1987,The Indian language is muysccubun; the Spanish l. is sucubun.,kuβun,Phonemic
+18-260-243-1,chib1270,Muisca,1599,cubun,LatinTrans,word,perez1987,,kuβun,Phonemic
+18-280-243-1,chib1270,Muisca,1405,hyca,LatinTrans,name,perez1987,Verbal form is ahycan zemasqua; ahyca zegusqua. Wheeler has hika. Constenla has hyca.,hɨka,Phonemic
+18-310-243-1,chib1270,Muisca,1309,bzisqua,LatinTrans,"ask (question, inquire)",perez1987,,β-c̷̣ɨ-skua,Phonemic
+18-320-243-1,chib1270,Muisca,1275,ai bgasqua,LatinTrans,answer,perez1987,,ai β-ɣa-skua,Phonemic
+18-350-243-1,chib1270,Muisca,1828,bzisqua,LatinTrans,"ask, request",perez1987,,β-c̷̣ɨ-skua,Phonemic
+18-380-243-1,chib1270,Muisca,83,bcumusuca,LatinTrans,forbid,perez1987,,β-kumu-suka,Phonemic
+18-390-243-1,chib1270,Muisca,299,yc zfihisuagosqua,LatinTrans,"rebuke, scold",perez1987,,ɨk c̷̣ɨ-βihisua-ɣo-skua,Phonemic
+18-410-243-1,chib1270,Muisca,1084,ahycaz bzisqua,LatinTrans,call (=summon),perez1987,,a-hɨka-c̷̣ β-c̷̣ɨ-skua,Phonemic
+18-420-243-1,chib1270,Muisca,180,ipquauiez ahycac bgasqua,LatinTrans,call (=name),perez1987,,ipkuaβie-c̷̣ ahɨka-k β-ɣa-skua,Phonemic
+18-440-243-1,chib1270,Muisca,1192,apquyquy zebiasqua,LatinTrans,threaten,perez1987,,a-pkɨkɨ c̷̣ɨ-βia-skua; a-ṣie c̷̣ɨ-βia-skua,Phonemic
+18-440-243-3,chib1270,Muisca,1192,achie zbiasqua,LatinTrans,threaten,perez1987,,a-pkɨkɨ c̷̣ɨ-βia-skua; a-ṣie c̷̣ɨ-βia-skua,Phonemic
+18-510-243-1,chib1270,Muisca,1672,bchihisqua,LatinTrans,write,perez1987,Also means 'paint' 09.890.,β-ṣihi-skua,Phonemic
+18-520-243-1,chib1270,Muisca,724,ioquec zecubun-suca,LatinTrans,read,perez1987,,ioke-k c̷̣ɨ-kuβun-suka,Phonemic
+18-560-243-1,chib1270,Muisca,648,ioque,LatinTrans,paper,perez1987,Also means 'leather' 06.290; see also 'skin' 04.120.,ioke,Phonemic
+18-720-243-1,chib1270,Muisca,908,cupqua,LatinTrans,drum,perez1987,,kupkua,Phonemic
+19-110-243-1,chib1270,Muisca,1300,quyca,LatinTrans,country,perez1987,,kɨka,Phonemic
+19-160-243-1,chib1270,Muisca,930,quyca,LatinTrans,village,perez1987,,kɨka,Phonemic
+19-210-243-1,chib1270,Muisca,789,muysca,LatinTrans,people (populace),perez1987,,mɨska,Phonemic
+19-240-243-1,chib1270,Muisca,301,psihipqua,LatinTrans,"chief, chieftain",perez1987,,psihipkua,Phonemic
+19-250-243-1,chib1270,Muisca,1296,chune,LatinTrans,"staff, walking stick",perez1987,,ṣune,Phonemic
+19-370-243-1,chib1270,Muisca,1032,cupqua,LatinTrans,"citizen, subject",perez1987,Also cupqua chihica /kupkua ṣihika/.,kupkua,Phonemic
+19-410-243-1,chib1270,Muisca,383,paba,LatinTrans,master,perez1987,,paβa,Phonemic
+19-430-243-1,chib1270,Muisca,255,bosquaca,LatinTrans,servant,perez1987,Also chuta /ṣuta/.,βoskuaka,Phonemic
+19-450-243-1,chib1270,Muisca,1128,btyusuca,LatinTrans,"command, order",perez1987,,β-tɨu-suka,Phonemic
+19-460-243-1,chib1270,Muisca,1635,choque bquysqua,LatinTrans,obey,perez1987,from MsM2.,ṣo-kɨ β-kɨ-skua,Phonemic
+19-470-243-1,chib1270,Muisca,1003,zepquys azasqua,LatinTrans,"let, permit",perez1987,,c̷̣ɨ-pkɨ-s a-c̷̣a-skua,Phonemic
+19-510-243-1,chib1270,Muisca,1325,obaz bzis mague,LatinTrans,"friend, companion",perez1987,,oβa-c̷̣ βc̷̣i-s maɣe,Phonemic
+19-520-243-1,chib1270,Muisca,1358,saba,LatinTrans,enemy,perez1987,,saβa,Phonemic
+19-540-243-1,chib1270,Muisca,1332,chiguaque chiyban aguêguê,LatinTrans,neighbor,perez1987,,ṣiɣuake ṣiɨβa-n a-ɣe-ɣe,Phonemic
+19-550-243-1,chib1270,Muisca,791,gueba,LatinTrans,stranger,perez1987,,ue-βa,Phonemic
+19-560-243-1,chib1270,Muisca,1782,nyncha,LatinTrans,guest,perez1987,,nɨnṣa,Phonemic
+19-590-243-1,chib1270,Muisca,1550,zquyhyc ainsuca,LatinTrans,"hinder, prevent",perez1987,,c̷̣ɨ-kɨhɨ-k a-in-suka,Phonemic
+19-620-243-1,chib1270,Muisca,1848,caque,LatinTrans,"strife, quarrel",perez1987,,kakɨ,Phonemic
+19-650-243-1,chib1270,Muisca,1831,ynchiiansuca,LatinTrans,meet,perez1987,,ɨn-ṣi i-an-suka; uβa-s ṣi-kɨn-suka; ɨna-i-an-suka,Phonemic
+19-650-243-3,chib1270,Muisca,1831,ubas chiquynsuca,LatinTrans,meet,perez1987,,ɨn-ṣi i-an-suka; uβa-s ṣi-kɨn-suka; ɨna-i-an-suka,Phonemic
+19-650-243-5,chib1270,Muisca,1831,ynaiansuca,LatinTrans,meet,perez1987,,ɨn-ṣi i-an-suka; uβa-s ṣi-kɨn-suka; ɨna-i-an-suka,Phonemic
+19-720-243-1,chib1270,Muisca,1610,chihizapquaza,LatinTrans,prostitute,perez1987,,ṣihic̷̣a-pkuac̷̣a,Phonemic
+20-110-243-1,chib1270,Muisca,1423,zecasqua,LatinTrans,fight (vb),perez1987,"Also caquez bquysqua /kakɨ-c̷̣ɨ β-kɨ-skua/. 'To fight in war' is zesabagoskua /c̷̣ɨ-saβa-ɣo-skua/, from MsM1.",c̷̣ɨ-ka-skua,Phonemic
+20-130-243-1,chib1270,Muisca,579,saba,LatinTrans,"war, battle",perez1987,,saβa,Phonemic
+20-210-243-1,chib1270,Muisca,951,quynicaquy,LatinTrans,"weapons, arms",perez1987,Also /hicaquye /hika-kɨe/.,kɨ-ni-kakɨ,Phonemic
+20-220-243-1,chib1270,Muisca,1763,tamyxiquy,LatinTrans,club,perez1987,,tamisikɨ,Phonemic
+20-240-243-1,chib1270,Muisca,994,hacapa,LatinTrans,bow,perez1987,"Also hacapo /hakapo/, from MsM1.",hakapa,Phonemic
+20-250-243-1,chib1270,Muisca,977,quyecho,LatinTrans,arrow,perez1987,Also quysquyquy /kɨ-s-kɨkɨ.,kɨe-ṣo,Phonemic
+20-260-243-1,chib1270,Muisca,945,supqua,LatinTrans,spear,perez1987,,supkua,Phonemic
+20-450-243-1,chib1270,Muisca,421,zansuca,LatinTrans,retreat,perez1987,,c̷̣-an-suka,Phonemic
+20-470-243-1,chib1270,Muisca,1072,baia,LatinTrans,"captive, prisoner",perez1987,"Also huiateuca /hui-a-teuka/; bahaia /βahaia/, from MsM1.",βaia,Phonemic
+20-471-243-1,chib1270,Muisca,1940,opquabachua,LatinTrans,"guard, sentinel",perez1987,,opkua-βaṣua,Phonemic
+20-510-243-1,chib1270,Muisca,1858,gua magusca,LatinTrans,fisherman,perez1987,From MsM2.,ɣua maɣuska,Phonemic
+20-520-243-1,chib1270,Muisca,1074,tyhysua,LatinTrans,fishhook,perez1987,,tɨhɨsua,Phonemic
+20-540-243-1,chib1270,Muisca,388,iaia,LatinTrans,fishnet,perez1987,Also 'small net' chupquasuca /ṣupkua-suka/. Constenla has quynygoscua 'to hunt with a net'.,iaia,Phonemic
+20-610-243-1,chib1270,Muisca,1435,zecugosqua,LatinTrans,hunt,perez1987,"Refers to 'caza de montería'. Also zquyngasqua /c̷̣ɨ-kɨnɣa-skua/ 'to hunt with net'; ichihi zegosqua /iṣihi c̷̣ɨ-ɣo-skua/ 'h. with lazo'; zfuntagosqua /c̷̣ɨ-βunta-ɣo-skua/ 'h. with blowgun'; zcatagosqua /c̷̣ɨ-kata-ɣo-skua/ 'h. with trap'; zefuinsuca /c̷̣ɨ-βuin-suka/ 'h. effectively, with success'.",c̷̣ɨ-kuɣo-skua,Phonemic
+20-620-243-1,chib1270,Muisca,1172,bgyisuca,LatinTrans,shoot,perez1987,,β-ɣɨi-suka,Phonemic
+20-640-243-1,chib1270,Muisca,1075,cata,LatinTrans,trap (noun),perez1987,,kata,Phonemic
+21-310-243-1,chib1270,Muisca,1814,zebsipquasuca,LatinTrans,accuse,perez1987,"Verbal forms, from MsM1.",c̷̣ɨ-β-sipkua-suka; c̷̣ɨ-β-sipkua-ɣo-skua,Phonemic
+21-310-243-3,chib1270,Muisca,1814,zebsipquagosqua,LatinTrans,accuse,perez1987,"Verbal forms, from MsM1.",c̷̣ɨ-β-sipkua-suka; c̷̣ɨ-β-sipkua-ɣo-skua,Phonemic
+21-350-243-1,chib1270,Muisca,1682,hychan zepquyquy guê,LatinTrans,guilty,perez1987,,hɨṣa-n c̷̣ɨ-pkɨkɨ ɣe,Phonemic
+21-420-243-1,chib1270,Muisca,845,bgusqua,LatinTrans,murder,perez1987,,β-ɣu-skua,Phonemic
+21-430-243-1,chib1270,Muisca,902,bchisqua,LatinTrans,adultery,perez1987,Verbal form.,β-ṣi-skua,Phonemic
+21-440-243-1,chib1270,Muisca,953,achinta bzysqua,LatinTrans,rape,perez1987,verbal form.,a-ṣinta β-c̷̣ɨ-skua,Phonemic
+21-510-243-1,chib1270,Muisca,713,isapqua gosqua,LatinTrans,steal,perez1987,,isapkua ɣo-skua,Phonemic
+21-520-243-1,chib1270,Muisca,1160,ubia,LatinTrans,thief,perez1987,,uβia,Phonemic
+22-160-243-1,chib1270,Muisca,257,achie zegusqua,LatinTrans,worship,perez1987,,a-ṣie c̷̣ɨ-ɣu-skua; a-ṣie c̷̣ɨ-β-ni-skua; a-ṣie c̷̣ɨ-β-c̷̣ɨ-skua,Phonemic
+22-160-243-3,chib1270,Muisca,257,achie zemnisqua,LatinTrans,worship,perez1987,,a-ṣie c̷̣ɨ-ɣu-skua; a-ṣie c̷̣ɨ-β-ni-skua; a-ṣie c̷̣ɨ-β-c̷̣ɨ-skua,Phonemic
+22-160-243-5,chib1270,Muisca,257,achie zebzysqua,LatinTrans,worship,perez1987,,a-ṣie c̷̣ɨ-ɣu-skua; a-ṣie c̷̣ɨ-β-ni-skua; a-ṣie c̷̣ɨ-β-c̷̣ɨ-skua,Phonemic
+22-180-243-1,chib1270,Muisca,852,chyquy,LatinTrans,priest,perez1987,,ṣɨkɨ,Phonemic
+22-260-243-1,chib1270,Muisca,303,izagosqua,LatinTrans,fast (vb),perez1987,,ic̷̣a-ɣo-skua,Phonemic
+22-310-243-1,chib1270,Muisca,1565,guatquyca,LatinTrans,heaven,perez1987,"Introduced by the colonial clergy, lit. 'high + city, country'.",ɣuat-kɨka,Phonemic
+22-350-243-1,chib1270,Muisca,1973,guaha ioque,LatinTrans,demon (evil spirit),perez1987,,ɣuaha ioke,Phonemic
+22-370-243-1,chib1270,Muisca,1945,chunso,LatinTrans,idol,perez1987,"Also chunsua /ṣunsua/, MsM1.",ṣunso,Phonemic
+22-430-243-1,chib1270,Muisca,2137,supquaguyn,LatinTrans,"sorcerer, witch",perez1987,from MsM1 and MsM2.,supkua-kɨn,Phonemic

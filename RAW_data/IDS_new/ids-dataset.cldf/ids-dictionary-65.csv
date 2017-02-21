@@ -1,0 +1,1449 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1852,мукьвал-мукьвал,CyrillTrans,often,,,muqʼʷal-muqʼʷal,Phonemic
+14-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1676,гьамиша,CyrillTrans,always,,,hamiša,Phonemic
+14-290-65-1,lezg1247,Lezgi (Mikrakh dialect),790,гьазур,CyrillTrans,ready,,,hazur,Phonemic
+14-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1928,куьтйагьун,CyrillTrans,"cease, stop",,,"kütyahun, aqʼʷazun",Phonemic
+14-280-65-3,lezg1247,Lezgi (Mikrakh dialect),1928,акьвазун,CyrillTrans,"cease, stop",,,"kütyahun, aqʼʷazun",Phonemic
+14-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1766,куьтйагьун,CyrillTrans,finish,,,kütyahun,Phonemic
+14-260-65-1,lezg1247,Lezgi (Mikrakh dialect),743,куьтйагьун,CyrillTrans,end (temporal),,,kütyahun,Phonemic
+14-252-65-1,lezg1247,Lezgi (Mikrakh dialect),1186,давам хьун,CyrillTrans,"last, endure",,,dawam x̌un,Phonemic
+14-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1806,башламишун эвел,CyrillTrans,"begin, beginning",,,bašlamišun ewel,Phonemic
+14-240-65-1,lezg1247,Lezgi (Mikrakh dialect),425,иглеш хьун,CyrillTrans,"retard, delay",,,igleš x̌un,Phonemic
+14-230-65-1,lezg1247,Lezgi (Mikrakh dialect),754,тади авун,CyrillTrans,"hasten, hurry",,,tadi awun,Phonemic
+14-220-65-1,lezg1247,Lezgi (Mikrakh dialect),701,йаваш,CyrillTrans,slow,,,yawaš,Phonemic
+14-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1631,зарб,CyrillTrans,"swift, fast, quick",,,zarb,Phonemic
+14-190-65-1,lezg1247,Lezgi (Mikrakh dialect),1963,тадиз,CyrillTrans,immediately,,,tadiz,Phonemic
+14-180-65-1,lezg1247,Lezgi (Mikrakh dialect),1376,исйатда,CyrillTrans,now,,,isyatda,Phonemic
+14-170-65-1,lezg1247,Lezgi (Mikrakh dialect),477,геж,CyrillTrans,late,,,gež,Phonemic
+14-160-65-1,lezg1247,Lezgi (Mikrakh dialect),672,фад,CyrillTrans,early,,,fad,Phonemic
+14-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1229,кьуьзуь,CyrillTrans,old,,,qʼüzü,Phonemic
+14-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1207,жегьил,CyrillTrans,young,,,žehil,Phonemic
+14-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1789,йаш,CyrillTrans,age,,,"yaš, asir, dewir",Phonemic
+14-120-65-3,lezg1247,Lezgi (Mikrakh dialect),1789,асир,CyrillTrans,age,,,"yaš, asir, dewir",Phonemic
+14-120-65-5,lezg1247,Lezgi (Mikrakh dialect),1789,девир,CyrillTrans,age,,,"yaš, asir, dewir",Phonemic
+14-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1231,цІийи,CyrillTrans,new,,,c’iyi,Phonemic
+14-110-65-1,lezg1247,Lezgi (Mikrakh dialect),892,вахт,CyrillTrans,time,,,"waxt, bere",Phonemic
+14-110-65-3,lezg1247,Lezgi (Mikrakh dialect),892,бере,CyrillTrans,time,,,"waxt, bere",Phonemic
+13-440-65-1,lezg1247,Lezgi (Mikrakh dialect),417,пуд сефер,CyrillTrans,three times,,,pud sefer,Phonemic
+13-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1859,пуд лагьай,CyrillTrans,third,,,pud lahay,Phonemic
+13-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1546,кьве сефер,CyrillTrans,two times,,,qʼʷe sefer,Phonemic
+13-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1888,жуьт,CyrillTrans,pair,,,žüt,Phonemic
+13-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1384,кьвед лагьай,CyrillTrans,second,,,qʼʷed lahay,Phonemic
+13-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1529,эхиринжи,CyrillTrans,last,,,exirinži,Phonemic
+13-340-65-1,lezg1247,Lezgi (Mikrakh dialect),728,садлагьай,CyrillTrans,first,,,sadlahay,Phonemic
+13-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1580,тек,CyrillTrans,"alone, only",,,tek,Phonemic
+13-240-65-1,lezg1247,Lezgi (Mikrakh dialect),816,пай,CyrillTrans,half,,,pay,Phonemic
+13-230-65-1,lezg1247,Lezgi (Mikrakh dialect),779,пай,CyrillTrans,"part, piece",,,"pay, č’uk",Phonemic
+13-230-65-3,lezg1247,Lezgi (Mikrakh dialect),779,чІук,CyrillTrans,"part, piece",,,"pay, č’uk",Phonemic
+13-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1624,буш,CyrillTrans,empty,,,buš,Phonemic
+13-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1429,ацІанвай,CyrillTrans,full,,,ac’anway,Phonemic
+13-190-65-1,lezg1247,Lezgi (Mikrakh dialect),2023,пара,CyrillTrans,"multitude, crowd",,,para,Phonemic
+13-181-65-1,lezg1247,Lezgi (Mikrakh dialect),1241,са шимид,CyrillTrans,some,,,sa šimid,Phonemic
+13-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1242,тІемил,CyrillTrans,"little (quantity), few",,,tʼemil,Phonemic
+13-180-65-1,lezg1247,Lezgi (Mikrakh dialect),1881,бес кьадар,CyrillTrans,enough,,,bes qʼadar,Phonemic
+13-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1992,пара,CyrillTrans,more,,,para,Phonemic
+13-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1198,гзаф,CyrillTrans,"much, many",,,"gzaf, para",Phonemic
+13-150-65-3,lezg1247,Lezgi (Mikrakh dialect),1198,пара,CyrillTrans,"much, many",,,"gzaf, para",Phonemic
+13-140-65-1,lezg1247,Lezgi (Mikrakh dialect),98,вири,CyrillTrans,"every, all",,,wiri,Phonemic
+13-107-65-1,lezg1247,Lezgi (Mikrakh dialect),1420,гьисабун,CyrillTrans,count,,,hisabun,Phonemic
+13-106-65-1,lezg1247,Lezgi (Mikrakh dialect),1843,агъзур,CyrillTrans,thousand,,,aɣzur,Phonemic
+13-105-65-1,lezg1247,Lezgi (Mikrakh dialect),1634,виш,CyrillTrans,hundred,,,wiš,Phonemic
+13-104-65-1,lezg1247,Lezgi (Mikrakh dialect),1710,къад,CyrillTrans,twenty,,,q̄ad,Phonemic
+13-103-65-1,lezg1247,Lezgi (Mikrakh dialect),1709,цІувад,CyrillTrans,fifteen,,,c’uwad,Phonemic
+13-102-65-1,lezg1247,Lezgi (Mikrakh dialect),1707,цІикьвед,CyrillTrans,twelve,,,c’iqʼʷed,Phonemic
+13-101-65-1,lezg1247,Lezgi (Mikrakh dialect),1706,цІусад,CyrillTrans,eleven,,,c’usad,Phonemic
+13-100-65-1,lezg1247,Lezgi (Mikrakh dialect),1515,цІуд,CyrillTrans,ten,,,c’ud,Phonemic
+13-90-65-1,lezg1247,Lezgi (Mikrakh dialect),1483,чІуьд,CyrillTrans,nine,,,č’üd,Phonemic
+13-80-65-1,lezg1247,Lezgi (Mikrakh dialect),1705,мижид,CyrillTrans,eight,,,mižid,Phonemic
+13-70-65-1,lezg1247,Lezgi (Mikrakh dialect),1704,эрид,CyrillTrans,seven,,,erid,Phonemic
+13-60-65-1,lezg1247,Lezgi (Mikrakh dialect),1703,ругуд,CyrillTrans,six,,,rugud,Phonemic
+13-50-65-1,lezg1247,Lezgi (Mikrakh dialect),493,вад,CyrillTrans,five,,,wad,Phonemic
+13-40-65-1,lezg1247,Lezgi (Mikrakh dialect),1500,кьуд,CyrillTrans,four,,,qʼud,Phonemic
+13-20-65-1,lezg1247,Lezgi (Mikrakh dialect),1498,кьвед,CyrillTrans,two,,,qʼʷed,Phonemic
+13-30-65-1,lezg1247,Lezgi (Mikrakh dialect),492,пуд,CyrillTrans,three,,,pud,Phonemic
+13-10-65-1,lezg1247,Lezgi (Mikrakh dialect),1493,сад,CyrillTrans,one,,,sad,Phonemic
+13-0-65-1,lezg1247,Lezgi (Mikrakh dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-65-1,lezg1247,Lezgi (Mikrakh dialect),1264,дергишрун,CyrillTrans,change,,,dergišrun,Phonemic
+12-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1558,ухшар,CyrillTrans,"like, similar",,,uxšar,Phonemic
+12-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1048,цІар,CyrillTrans,line,,,c’ar,Phonemic
+12-850-65-1,lezg1247,Lezgi (Mikrakh dialect),1667,тІвек,CyrillTrans,hole,,,tʼʷek,Phonemic
+12-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1395,элкъвей,CyrillTrans,round,,,elq̄ʷey,Phonemic
+12-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1467,чарх,CyrillTrans,circle,,,čarx,Phonemic
+12-780-65-1,lezg1247,Lezgi (Mikrakh dialect),850,кьудпицІен,CyrillTrans,square,,,qʼudpic’en,Phonemic
+12-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1367,хаш,CyrillTrans,cross,,,xaš,Phonemic
+12-760-65-1,lezg1247,Lezgi (Mikrakh dialect),192,пІикІ,CyrillTrans,corner,,,p’ikʼ,Phonemic
+12-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1071,кІир,CyrillTrans,hook,,,kʼir,Phonemic
+12-740-65-1,lezg1247,Lezgi (Mikrakh dialect),297,какур,CyrillTrans,crooked,,,kakur,Phonemic
+12-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1404,дуьз,CyrillTrans,straight,,,düz,Phonemic
+12-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1633,дайаз,CyrillTrans,flat,,,dayaz,Phonemic
+12-680-65-1,lezg1247,Lezgi (Mikrakh dialect),193,дайаз,CyrillTrans,shallow,,,dayaz,Phonemic
+12-670-65-1,lezg1247,Lezgi (Mikrakh dialect),1593,дерин,CyrillTrans,deep,,,derin,Phonemic
+12-650-65-1,lezg1247,Lezgi (Mikrakh dialect),2249,шики,CyrillTrans,thin (in dimension),,,šiki,Phonemic
+12-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1244,йацІу,CyrillTrans,thick (in dimension),,,yac’u,Phonemic
+12-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1267,дав,CyrillTrans,narrow,,,daw,Phonemic
+12-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1243,фурагь,CyrillTrans,"wide, broad",,,furah,Phonemic
+12-590-65-1,lezg1247,Lezgi (Mikrakh dialect),1645,чвери,CyrillTrans,short,,,čʷeri,Phonemic
+12-580-65-1,lezg1247,Lezgi (Mikrakh dialect),711,кьакьан,CyrillTrans,tall,,,qʼaqʼan,Phonemic
+12-570-65-1,lezg1247,Lezgi (Mikrakh dialect),1203,йаргъи,CyrillTrans,long,,,yarɣi,Phonemic
+12-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1246,гъвечІи,CyrillTrans,"small, little",,,ɣʷeč’i,Phonemic
+12-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1202,чІехи,CyrillTrans,"large, big",,,č’exi,Phonemic
+12-541-65-1,lezg1247,Lezgi (Mikrakh dialect),81,чІиб,CyrillTrans,"span, fathom",,,č’ib,Phonemic
+12-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1506,алцумун,CyrillTrans,measure,,,alcumun,Phonemic
+12-530-65-1,lezg1247,Lezgi (Mikrakh dialect),479,экъечІун,CyrillTrans,grow,,,eq̄eč’un,Phonemic
+12-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1595,кьибле,CyrillTrans,south,,,qʼible,Phonemic
+12-470-65-1,lezg1247,Lezgi (Mikrakh dialect),1598,кефер,CyrillTrans,north,,,kefer,Phonemic
+12-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1817,рагъ акІидай пад,CyrillTrans,west,,,raɣ akʼiday pad,Phonemic
+12-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1877,рагъ экъечІдай пад,CyrillTrans,east,,,raɣ eq̄eč’day pad,Phonemic
+12-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1942,патав,CyrillTrans,near (adv),,,pataw,Phonemic
+12-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1406,йаргъа,CyrillTrans,far (adv),,,yarɣa,Phonemic
+12-420-65-1,lezg1247,Lezgi (Mikrakh dialect),244,тши,CyrillTrans,left (side),,,"tši, č’abla",Phonemic
+12-420-65-3,lezg1247,Lezgi (Mikrakh dialect),244,чІабла,CyrillTrans,left (side),,,"tši, č’abla",Phonemic
+12-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1019,ти,CyrillTrans,right (side),,,ti,Phonemic
+12-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1093,йукь,CyrillTrans,"middle, center",,,yuqʼ,Phonemic
+12-360-65-1,lezg1247,Lezgi (Mikrakh dialect),682,пад,CyrillTrans,side,,,pad,Phonemic
+12-353-65-1,lezg1247,Lezgi (Mikrakh dialect),863,эхир кьил,CyrillTrans,edge,,,exir qʼil,Phonemic
+12-352-65-1,lezg1247,Lezgi (Mikrakh dialect),372,хин кІвекІ алай,CyrillTrans,pointed,,,xin kʼʷekʼ alay,Phonemic
+12-350-65-1,lezg1247,Lezgi (Mikrakh dialect),742,эхир,CyrillTrans,end,,,exir,Phonemic
+12-340-65-1,lezg1247,Lezgi (Mikrakh dialect),690,кІан,CyrillTrans,bottom,,,kʼan,Phonemic
+12-320-65-1,lezg1247,Lezgi (Mikrakh dialect),721,аскІан,CyrillTrans,low,,,askʼan,Phonemic
+12-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1753,син,CyrillTrans,top,,,"sin, kukʼuš",Phonemic
+12-330-65-3,lezg1247,Lezgi (Mikrakh dialect),1753,кукІуш,CyrillTrans,top,,,"sin, kukʼuš",Phonemic
+12-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1265,кьакьан,CyrillTrans,high,,,qʼaqʼan,Phonemic
+12-270-65-1,lezg1247,Lezgi (Mikrakh dialect),602,чуьнуьхун,CyrillTrans,"hide, conceal",,,čünüxun,Phonemic
+12-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1046,кІевирун,CyrillTrans,"shut, close",,,kʼewirun,Phonemic
+12-260-65-1,lezg1247,Lezgi (Mikrakh dialect),761,винелай,CyrillTrans,cover,,,"winelay, kʼewirun",Phonemic
+12-260-65-3,lezg1247,Lezgi (Mikrakh dialect),761,кІевирун,CyrillTrans,cover,,,"winelay, kʼewirun",Phonemic
+12-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1156,ачухун,CyrillTrans,open,,,ačuxun,Phonemic
+12-232-65-1,lezg1247,Lezgi (Mikrakh dialect),1119,пайун,CyrillTrans,divide,,,payun,Phonemic
+12-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1359,чара авун,CyrillTrans,separate,,,čara awun,Phonemic
+12-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1743,галкІурун,CyrillTrans,"join, unite",,,galkʼurun,Phonemic
+12-213-65-1,lezg1247,Lezgi (Mikrakh dialect),1576,кІватІун,CyrillTrans,pile up,,,kʼʷatʼun,Phonemic
+12-212-65-1,lezg1247,Lezgi (Mikrakh dialect),371,хкажун,CyrillTrans,pick up,,,xkažun,Phonemic
+12-210-65-1,lezg1247,Lezgi (Mikrakh dialect),7,кІватІун,CyrillTrans,"collect, gather",,,kʼʷatʼun,Phonemic
+12-170-65-1,lezg1247,Lezgi (Mikrakh dialect),838,амукьайар,CyrillTrans,"remains, left overs",,,amuqʼayar,Phonemic
+12-160-65-1,lezg1247,Lezgi (Mikrakh dialect),987,амукьун,CyrillTrans,"remain, stay",,,amuqʼun,Phonemic
+12-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1442,акъвазун,CyrillTrans,stand,,,aq̄ʷazun,Phonemic
+12-140-65-1,lezg1247,Lezgi (Mikrakh dialect),215,къаткун,CyrillTrans,lie down,,,q̄atkun,Phonemic
+12-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1416,ацукьун,CyrillTrans,sit,,,acuqʼun,Phonemic
+12-120-65-1,lezg1247,Lezgi (Mikrakh dialect),998,эцигун,CyrillTrans,put,,,ecigun,Phonemic
+12-110-65-1,lezg1247,Lezgi (Mikrakh dialect),723,чка,CyrillTrans,place,,,čka,Phonemic
+12-80-65-1,lezg1247,Lezgi (Mikrakh dialect),1591,винел,CyrillTrans,"up, above",,,winel,Phonemic
+12-70-65-1,lezg1247,Lezgi (Mikrakh dialect),1485,кІаник,CyrillTrans,under,,,kʼanik,Phonemic
+12-60-65-1,lezg1247,Lezgi (Mikrakh dialect),762,къецел,CyrillTrans,outside,,,q̄ecel,Phonemic
+12-50-65-1,lezg1247,Lezgi (Mikrakh dialect),1606,къене,CyrillTrans,"inside, in",,,q̄ene,Phonemic
+12-41-65-1,lezg1247,Lezgi (Mikrakh dialect),1883,вилик,CyrillTrans,front,,,wilik,Phonemic
+12-40-65-1,lezg1247,Lezgi (Mikrakh dialect),1882,вилик,CyrillTrans,before,,,wilik,Phonemic
+12-30-65-1,lezg1247,Lezgi (Mikrakh dialect),2094,кІаник,CyrillTrans,"down, below",,,kʼanik,Phonemic
+12-20-65-1,lezg1247,Lezgi (Mikrakh dialect),1816,патав,CyrillTrans,beside,,,pataw,Phonemic
+12-11-65-1,lezg1247,Lezgi (Mikrakh dialect),1686,кьулухъ,CyrillTrans,behind,,,qʼuluq,Phonemic
+12-10-65-1,lezg1247,Lezgi (Mikrakh dialect),1685,ахпа,CyrillTrans,after,,,axpa,Phonemic
+11-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1098,алцумун,CyrillTrans,weigh,,,alcumun,Phonemic
+11-910-65-1,lezg1247,Lezgi (Mikrakh dialect),884,пайун,CyrillTrans,share (distribute),,,payun,Phonemic
+11-890-65-1,lezg1247,Lezgi (Mikrakh dialect),1887,ужуз,CyrillTrans,cheap,,,užuz,Phonemic
+11-880-65-1,lezg1247,Lezgi (Mikrakh dialect),1426,багьа,CyrillTrans,"dear (costly, expensive)",,,baha,Phonemic
+11-870-65-1,lezg1247,Lezgi (Mikrakh dialect),657,къимет,CyrillTrans,price,,,q̄imet,Phonemic
+11-860-65-1,lezg1247,Lezgi (Mikrakh dialect),752,туьквен,CyrillTrans,"store, shop",,,tükʷen,Phonemic
+11-850-65-1,lezg1247,Lezgi (Mikrakh dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1082,тажир,CyrillTrans,merchant,,,"tažir, akʷerči",Phonemic
+11-840-65-3,lezg1247,Lezgi (Mikrakh dialect),1082,акверчи,CyrillTrans,merchant,,,"tažir, akʷerči",Phonemic
+11-830-65-1,lezg1247,Lezgi (Mikrakh dialect),2135,алвер,CyrillTrans,"trade, barter",,,"alwer, degišarun",Phonemic
+11-830-65-3,lezg1247,Lezgi (Mikrakh dialect),2135,дегишарун,CyrillTrans,"trade, barter",,,"alwer, degišarun",Phonemic
+11-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1571,маса гун,CyrillTrans,sell,,,masa gun,Phonemic
+11-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1869,маса кьачун,CyrillTrans,buy,,,masa qʼačun,Phonemic
+11-790-65-1,lezg1247,Lezgi (Mikrakh dialect),733,къазан мишун,CyrillTrans,earn,,,q̄azan mišun,Phonemic
+11-780-65-1,lezg1247,Lezgi (Mikrakh dialect),1122,мажиб,CyrillTrans,wages,,,mažib,Phonemic
+11-770-65-1,lezg1247,Lezgi (Mikrakh dialect),856,кирида кьачун,CyrillTrans,hire,,,kirida qʼačun,Phonemic
+11-690-65-1,lezg1247,Lezgi (Mikrakh dialect),873,харж,CyrillTrans,"tax, tribute",,,xarž,Phonemic
+11-660-65-1,lezg1247,Lezgi (Mikrakh dialect),1081,кьадар,CyrillTrans,"account, reckoning",,,qʼadar,Phonemic
+11-650-65-1,lezg1247,Lezgi (Mikrakh dialect),718,пул гун,CyrillTrans,pay (vb),,,pul gun,Phonemic
+11-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1914,бурж,CyrillTrans,debt,,,burž,Phonemic
+11-630-65-1,lezg1247,Lezgi (Mikrakh dialect),369,буржлу хьун,CyrillTrans,owe,,,buržlu x̌un,Phonemic
+11-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1823,бурж къачун,CyrillTrans,borrow,,,burž q̄ačun,Phonemic
+11-610-65-1,lezg1247,Lezgi (Mikrakh dialect),582,бурж вугун,CyrillTrans,lend,,,burž wugun,Phonemic
+11-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1774,мискьи,CyrillTrans,"avaricious, stingy",,,misqʼi,Phonemic
+11-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1934,сагьил,CyrillTrans,beggar,,,sahil,Phonemic
+11-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1674,кесиб,CyrillTrans,poor,,,kesib,Phonemic
+11-510-65-1,lezg1247,Lezgi (Mikrakh dialect),712,девлетлу,CyrillTrans,rich,,,dewletlu,Phonemic
+11-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1867,ракьун пул,CyrillTrans,coin,,,raqʼun pul,Phonemic
+11-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1559,пул,CyrillTrans,money,,,pul,Phonemic
+11-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1095,ахчухун,CyrillTrans,"release, let go",,,axčuxun,Phonemic
+11-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1660,квахьун,CyrillTrans,lose,,,kʷax̌un,Phonemic
+11-320-65-1,lezg1247,Lezgi (Mikrakh dialect),719,жагъун,CyrillTrans,find,,,žaɣun,Phonemic
+11-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1468,ахкун,CyrillTrans,"seek, look for",,,axkun,Phonemic
+11-280-65-1,lezg1247,Lezgi (Mikrakh dialect),44,зийан гун,CyrillTrans,"harm, injure, damage",,,ziyan gun,Phonemic
+11-270-65-1,lezg1247,Lezgi (Mikrakh dialect),681,чукІурун,CyrillTrans,destroy,,,čukʼurun,Phonemic
+11-250-65-1,lezg1247,Lezgi (Mikrakh dialect),2008,къутармишун,CyrillTrans,"save, rescue",,,q̄utarmišun,Phonemic
+11-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1997,хуьн,CyrillTrans,"preserve, look after",,,xün,Phonemic
+11-220-65-1,lezg1247,Lezgi (Mikrakh dialect),85,вахгун,CyrillTrans,give back,,,waxgun,Phonemic
+11-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1447,гун,CyrillTrans,give,,,gun,Phonemic
+11-180-65-1,lezg1247,Lezgi (Mikrakh dialect),738,затІ,CyrillTrans,thing,,,zatʼ,Phonemic
+11-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1477,хуьн,CyrillTrans,"keep, retain",,,xün,Phonemic
+11-160-65-1,lezg1247,Lezgi (Mikrakh dialect),694,къахчун,CyrillTrans,"get, obtain",,,q̄axčun,Phonemic
+11-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1448,кьун,CyrillTrans,hold,,,qʼun,Phonemic
+11-140-65-1,lezg1247,Lezgi (Mikrakh dialect),2021,кьун,CyrillTrans,"seize, grasp",,,qʼun,Phonemic
+11-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1749,къачун,CyrillTrans,take,,,q̄ačun,Phonemic
+11-120-65-1,lezg1247,Lezgi (Mikrakh dialect),684,неси хьун,CyrillTrans,"own, possess",,,nesi x̌un,Phonemic
+11-110-65-1,lezg1247,Lezgi (Mikrakh dialect),773,аваз хьун,CyrillTrans,have,,,awaz x̌un,Phonemic
+10-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1922,къерехдив ачатун,CyrillTrans,land (vb),,,q̄erexdiw ačatun,Phonemic
+10-910-65-1,lezg1247,Lezgi (Mikrakh dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-65-1,lezg1247,Lezgi (Mikrakh dialect),1870,лабар,CyrillTrans,anchor,,,labar,Phonemic
+10-880-65-1,lezg1247,Lezgi (Mikrakh dialect),786,элкен,CyrillTrans,sail (noun),,,elken,Phonemic
+10-870-65-1,lezg1247,Lezgi (Mikrakh dialect),184,гимидин тар,CyrillTrans,mast,,,gimidin tar,Phonemic
+10-860-65-1,lezg1247,Lezgi (Mikrakh dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-65-1,lezg1247,Lezgi (Mikrakh dialect),1849,йад йагъун,CyrillTrans,row (vb),,,yad yaɣun,Phonemic
+10-851-65-1,lezg1247,Lezgi (Mikrakh dialect),234,кьусу,CyrillTrans,paddle (noun),,,q’usu,Phonemic
+10-850-65-1,lezg1247,Lezgi (Mikrakh dialect),108,кьусу,CyrillTrans,oar,,,q’usu,Phonemic
+10-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-65-1,lezg1247,Lezgi (Mikrakh dialect),416,луьтке,CyrillTrans,outrigger,,,lütke,Phonemic
+10-831-65-1,lezg1247,Lezgi (Mikrakh dialect),1970,луьтке,CyrillTrans,canoe,,,lütke,Phonemic
+10-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1844,луьтке,CyrillTrans,boat,,,lütke,Phonemic
+10-810-65-1,lezg1247,Lezgi (Mikrakh dialect),740,гими,CyrillTrans,ship,,,gimi,Phonemic
+10-780-65-1,lezg1247,Lezgi (Mikrakh dialect),14,вик,CyrillTrans,yoke,,,wik,Phonemic
+10-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1769,гиг,CyrillTrans,axle,,,gig,Phonemic
+10-760-65-1,lezg1247,Lezgi (Mikrakh dialect),710,чарх,CyrillTrans,wheel,,,čarx,Phonemic
+10-750-65-1,lezg1247,Lezgi (Mikrakh dialect),122,фургъун,CyrillTrans,"carriage, wagon, cart",,,furɣun,Phonemic
+10-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1011,муьгъ,CyrillTrans,bridge,,,müɣ,Phonemic
+10-720-65-1,lezg1247,Lezgi (Mikrakh dialect),2252,жигъир,CyrillTrans,path,,,žiɣir,Phonemic
+10-710-65-1,lezg1247,Lezgi (Mikrakh dialect),667,рехъ,CyrillTrans,road,,,req,Phonemic
+10-670-65-1,lezg1247,Lezgi (Mikrakh dialect),1452,рум гун,CyrillTrans,"push, shove",,,"rum gun, xurtʼ gun",Phonemic
+10-670-65-3,lezg1247,Lezgi (Mikrakh dialect),1452,хуртІ гун,CyrillTrans,"push, shove",,,"rum gun, xurtʼ gun",Phonemic
+10-660-65-1,lezg1247,Lezgi (Mikrakh dialect),367,банкІандал алаз фин,CyrillTrans,ride,,,bankʼandal alaz fin,Phonemic
+10-650-65-1,lezg1247,Lezgi (Mikrakh dialect),741,машинда аваз фин,CyrillTrans,drive,,,mašinda awaz fin,Phonemic
+10-640-65-1,lezg1247,Lezgi (Mikrakh dialect),43,тухун,CyrillTrans,lead (vb),,,tuxun,Phonemic
+10-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1127,ракъурун,CyrillTrans,send,,,raq̄urun,Phonemic
+10-620-65-1,lezg1247,Lezgi (Mikrakh dialect),692,гъун,CyrillTrans,bring,,,ɣun,Phonemic
+10-615-65-1,lezg1247,Lezgi (Mikrakh dialect),415,хъуьчІуьк кьуна тухун,CyrillTrans,carry-underarm,,,qüč’ük qʼuna tuxun,Phonemic
+10-614-65-1,lezg1247,Lezgi (Mikrakh dialect),414,тухун,CyrillTrans,carry-on-head,,,"tuxun, qʼilellaz tuxun",Phonemic
+10-614-65-3,lezg1247,Lezgi (Mikrakh dialect),414,кьилеллаз тухун,CyrillTrans,carry-on-head,,,"tuxun, qʼilellaz tuxun",Phonemic
+10-613-65-1,lezg1247,Lezgi (Mikrakh dialect),413,тухун,CyrillTrans,carry-on-shoulder,,,"tuxun, q̄ünesallaz tuxun",Phonemic
+10-613-65-3,lezg1247,Lezgi (Mikrakh dialect),413,къуьнесаллаз тухун,CyrillTrans,carry-on-shoulder,,,"tuxun, q̄ünesallaz tuxun",Phonemic
+10-612-65-1,lezg1247,Lezgi (Mikrakh dialect),412,тухун,CyrillTrans,carry-in-hand,,,"tuxun, ɣilwaz tuxun",Phonemic
+10-612-65-3,lezg1247,Lezgi (Mikrakh dialect),412,гъилваз тухун,CyrillTrans,carry-in-hand,,,"tuxun, ɣilwaz tuxun",Phonemic
+10-610-65-1,lezg1247,Lezgi (Mikrakh dialect),700,тухун,CyrillTrans,carry (bear),,,tuxun,Phonemic
+10-570-65-1,lezg1247,Lezgi (Mikrakh dialect),749,гьахьун,CyrillTrans,enter,,,hax̌un,Phonemic
+10-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1778,агатун,CyrillTrans,approach,,,agatun,Phonemic
+10-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1387,агакьун,CyrillTrans,"reach, arrive",,,"agaqʼun, atun",Phonemic
+10-550-65-3,lezg1247,Lezgi (Mikrakh dialect),1387,атун,CyrillTrans,"reach, arrive",,,"agaqʼun, atun",Phonemic
+10-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1047,гелекьекьуьн,CyrillTrans,pursue,,,geleqʼeqʼün,Phonemic
+10-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1085,гелеваз фин,CyrillTrans,follow,,,gelewaz fin,Phonemic
+10-510-65-1,lezg1247,Lezgi (Mikrakh dialect),956,зверун,CyrillTrans,flee,,,"zʷerun, zʷerna q̄utarmiš x̌un",Phonemic
+10-510-65-3,lezg1247,Lezgi (Mikrakh dialect),956,зверна къутармиш хьун,CyrillTrans,flee,,,"zʷerun, zʷerna q̄utarmiš x̌un",Phonemic
+10-491-65-1,lezg1247,Lezgi (Mikrakh dialect),485,квахьун,CyrillTrans,disappear,,,kʷax̌un,Phonemic
+10-490-65-1,lezg1247,Lezgi (Mikrakh dialect),1752,хъфин,CyrillTrans,"go away, depart",,,qfin,Phonemic
+10-481-65-1,lezg1247,Lezgi (Mikrakh dialect),581,элкьвена хъфин,CyrillTrans,come back,,,elqʼʷena qfin,Phonemic
+10-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1446,атун,CyrillTrans,come,,,atun,Phonemic
+10-474-65-1,lezg1247,Lezgi (Mikrakh dialect),1107,экъечІун,CyrillTrans,go out,,,eq̄eč’un,Phonemic
+10-473-65-1,lezg1247,Lezgi (Mikrakh dialect),2014,ивичІун,CyrillTrans,go down,,,"iwič’un, aɣuz fin",Phonemic
+10-473-65-3,lezg1247,Lezgi (Mikrakh dialect),2014,агъуз фин,CyrillTrans,go down,,,"iwič’un, aɣuz fin",Phonemic
+10-472-65-1,lezg1247,Lezgi (Mikrakh dialect),1102,хкъаз хьун,CyrillTrans,climb,,,"xq̄az x̌un, aqʼaxun",Phonemic
+10-472-65-3,lezg1247,Lezgi (Mikrakh dialect),1102,акьахун,CyrillTrans,climb,,,"xq̄az x̌un, aqʼaxun",Phonemic
+10-470-65-1,lezg1247,Lezgi (Mikrakh dialect),695,фин,CyrillTrans,go,,,fin,Phonemic
+10-471-65-1,lezg1247,Lezgi (Mikrakh dialect),705,хкъаз хьун,CyrillTrans,go up,,,"xq̄az x̌un, wineldi fin",Phonemic
+10-471-65-3,lezg1247,Lezgi (Mikrakh dialect),705,винелди фин,CyrillTrans,go up,,,"xq̄az x̌un, wineldi fin",Phonemic
+10-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1519,зверун,CyrillTrans,run,,,zʷerun,Phonemic
+10-451-65-1,lezg1247,Lezgi (Mikrakh dialect),366,кьецІивал авун,CyrillTrans,limp,,,qʼec’iwal awun,Phonemic
+10-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1443,къекъуьн,CyrillTrans,walk,,,q̄eq̄ün,Phonemic
+10-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1879,кьуьлун,CyrillTrans,dance,,,qʼülun,Phonemic
+10-431-65-1,lezg1247,Lezgi (Mikrakh dialect),1135,кІвач эцйагъун,CyrillTrans,kick,,,kʼʷač ecyaɣun,Phonemic
+10-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1829,хкадарун,CyrillTrans,"jump, leap",,,xkadarun,Phonemic
+10-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1324,цІуьдгъуьнун,CyrillTrans,"slide, slip",,,c’üdɣünun,Phonemic
+10-413-65-1,lezg1247,Lezgi (Mikrakh dialect),296,са къесехдивай хьиз ацукьун,CyrillTrans,crouch,,,sa q̄esexdiway x̌iz acuqʼun,Phonemic
+10-412-65-1,lezg1247,Lezgi (Mikrakh dialect),66,метІерал,CyrillTrans,kneel,,,"metʼeral, aq̄ʷazun",Phonemic
+10-412-65-3,lezg1247,Lezgi (Mikrakh dialect),66,акъвазун,CyrillTrans,kneel,,,"metʼeral, aq̄ʷazun",Phonemic
+10-410-65-1,lezg1247,Lezgi (Mikrakh dialect),96,капаралди фин,CyrillTrans,"creep, crawl",,,kaparaldi fin,Phonemic
+10-380-65-1,lezg1247,Lezgi (Mikrakh dialect),175,уф гун,CyrillTrans,blow,,,uf gun,Phonemic
+10-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1441,лув гун,CyrillTrans,fly (vb),,,luw gun,Phonemic
+10-360-65-1,lezg1247,Lezgi (Mikrakh dialect),787,элкен алаз ирнавун,CyrillTrans,sail (vb),,,elken alaz irnawun,Phonemic
+10-352-65-1,lezg1247,Lezgi (Mikrakh dialect),365,йад йагьун,CyrillTrans,splash,,,"yad yahun, ce čabalamišun",Phonemic
+10-352-65-3,lezg1247,Lezgi (Mikrakh dialect),365,це чабаламишун,CyrillTrans,splash,,,"yad yahun, ce čabalamišun",Phonemic
+10-351-65-1,lezg1247,Lezgi (Mikrakh dialect),119,цин кІаник цирнавун,CyrillTrans,dive,,,cin kʼanik cirnawun,Phonemic
+10-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1439,сирнавун,CyrillTrans,swim,,,sirnawun,Phonemic
+10-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1574,цин винел,CyrillTrans,float,,,"cin winel, aqʼaltun",Phonemic
+10-340-65-3,lezg1247,Lezgi (Mikrakh dialect),1574,акьалтун,CyrillTrans,float,,,"cin winel, aqʼaltun",Phonemic
+10-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1088,цик акатун,CyrillTrans,sink,,,"cik akatun, batmiš x̌un",Phonemic
+10-330-65-3,lezg1247,Lezgi (Mikrakh dialect),1088,батмиш хьун,CyrillTrans,sink,,,"cik akatun, batmiš x̌un",Phonemic
+10-320-65-1,lezg1247,Lezgi (Mikrakh dialect),2003,авахьун,CyrillTrans,flow,,,"awax̌un, sel x̌ana awax̌un",Phonemic
+10-320-65-3,lezg1247,Lezgi (Mikrakh dialect),2003,сел хьана авахьун,CyrillTrans,flow,,,"awax̌un, sel x̌ana awax̌un",Phonemic
+10-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1909,йузурун,CyrillTrans,shake,,,yuzurun,Phonemic
+10-252-65-1,lezg1247,Lezgi (Mikrakh dialect),702,кьун,CyrillTrans,catch (ball),,,qʼun,Phonemic
+10-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1456,гадарун,CyrillTrans,throw,,,gadarun,Phonemic
+10-240-65-1,lezg1247,Lezgi (Mikrakh dialect),2253,стІал-стІал цун,CyrillTrans,drip,,,stʼal-stʼal cun,Phonemic
+10-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1280,аватун,CyrillTrans,fall,,,awatun,Phonemic
+10-220-65-1,lezg1247,Lezgi (Mikrakh dialect),501,хкажун,CyrillTrans,"raise, lift",,,xkažun,Phonemic
+10-210-65-1,lezg1247,Lezgi (Mikrakh dialect),568,хкажхьун,CyrillTrans,rise,,,"xkažx̌un, eq̄eč’un",Phonemic
+10-210-65-3,lezg1247,Lezgi (Mikrakh dialect),568,экъечІун,CyrillTrans,rise,,,"xkažx̌un, eq̄eč’un",Phonemic
+10-170-65-1,lezg1247,Lezgi (Mikrakh dialect),430,звар гун,CyrillTrans,twist,,,zʷar gun,Phonemic
+10-160-65-1,lezg1247,Lezgi (Mikrakh dialect),808,стІал аватун,CyrillTrans,drop (vb),,,stʼal awatun,Phonemic
+10-150-65-1,lezg1247,Lezgi (Mikrakh dialect),827,элкъуьрун,CyrillTrans,roll,,,elq̄ürun,Phonemic
+10-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1113,алчударун,CyrillTrans,"wind, wrap",,,alčudarun,Phonemic
+10-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1445,элкъуьн,CyrillTrans,turn around,,,elq̄ün,Phonemic
+10-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1588,пад элкъуьрун,CyrillTrans,turn over,,,pad elq̄ürun,Phonemic
+10-110-65-1,lezg1247,Lezgi (Mikrakh dialect),765,йузун,CyrillTrans,move,,,yuzun,Phonemic
+9-890-65-1,lezg1247,Lezgi (Mikrakh dialect),2001,шикил йагъун,CyrillTrans,paint (vb),,,šikil yaɣun,Phonemic
+9-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1979,руцІугул,CyrillTrans,chisel,,,ruc’ugul,Phonemic
+9-880-65-1,lezg1247,Lezgi (Mikrakh dialect),647,ранг,CyrillTrans,paint (noun),,,"rang, šir",Phonemic
+9-880-65-3,lezg1247,Lezgi (Mikrakh dialect),647,шир,CyrillTrans,paint (noun),,,"rang, šir",Phonemic
+9-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1002,гуьмбет,CyrillTrans,statue,,,gümbet,Phonemic
+9-820-65-1,lezg1247,Lezgi (Mikrakh dialect),914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-65-1,lezg1247,Lezgi (Mikrakh dialect),228,атІун,CyrillTrans,carve,,,atʼun,Phonemic
+9-791-65-1,lezg1247,Lezgi (Mikrakh dialect),360,гьава дегишарун,CyrillTrans,fan (vb),,,hawa degišarun,Phonemic
+9-790-65-1,lezg1247,Lezgi (Mikrakh dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-65-1,lezg1247,Lezgi (Mikrakh dialect),293,чанта,CyrillTrans,netbag,,,čanta,Phonemic
+9-771-65-1,lezg1247,Lezgi (Mikrakh dialect),292,халича,CyrillTrans,rug,,,"xaliča, šal",Phonemic
+9-771-65-3,lezg1247,Lezgi (Mikrakh dialect),292,шал,CyrillTrans,rug,,,"xaliča, šal",Phonemic
+9-770-65-1,lezg1247,Lezgi (Mikrakh dialect),195,рух,CyrillTrans,mat,,,rux,Phonemic
+9-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1539,зенбил,CyrillTrans,basket,,,zenbil,Phonemic
+9-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1729,парча,CyrillTrans,"weave, plait",,,"parča, xurun",Phonemic
+9-750-65-3,lezg1247,Lezgi (Mikrakh dialect),1729,хурун,CyrillTrans,"weave, plait",,,"parča, xurun",Phonemic
+9-740-65-1,lezg1247,Lezgi (Mikrakh dialect),604,шуьше,CyrillTrans,glass,,,šüše,Phonemic
+9-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1399,чеб,CyrillTrans,clay,,,čeb,Phonemic
+9-720-65-1,lezg1247,Lezgi (Mikrakh dialect),289,кІолубдиз гъун,CyrillTrans,mold (clay etc),,,kʼolubdiz ɣun,Phonemic
+9-710-65-1,lezg1247,Lezgi (Mikrakh dialect),359,хъенчІи устІар,CyrillTrans,potter,,,qenč’i ustʼar,Phonemic
+9-690-65-1,lezg1247,Lezgi (Mikrakh dialect),358,ракь,CyrillTrans,"tin, tinplate",,,raqʼ,Phonemic
+9-680-65-1,lezg1247,Lezgi (Mikrakh dialect),627,кьуркьушум,CyrillTrans,lead (noun),,,qʼurqʼušum,Phonemic
+9-670-65-1,lezg1247,Lezgi (Mikrakh dialect),621,ракь,CyrillTrans,iron,,,raqʼ,Phonemic
+9-660-65-1,lezg1247,Lezgi (Mikrakh dialect),1825,цур,CyrillTrans,"copper, bronze",,,"cur, kišpir",Phonemic
+9-660-65-3,lezg1247,Lezgi (Mikrakh dialect),1825,кишпир,CyrillTrans,"copper, bronze",,,"cur, kišpir",Phonemic
+9-650-65-1,lezg1247,Lezgi (Mikrakh dialect),759,гимиш,CyrillTrans,silver,,,gimiš,Phonemic
+9-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1369,къизил,CyrillTrans,gold,,,q̄izil,Phonemic
+9-630-65-1,lezg1247,Lezgi (Mikrakh dialect),211,кІалубда цун,CyrillTrans,cast (metals),,,kʼalubda cun,Phonemic
+9-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1648,кІавузар,CyrillTrans,anvil,,,kʼawuzar,Phonemic
+9-610-65-1,lezg1247,Lezgi (Mikrakh dialect),288,чат,CyrillTrans,forge,,,čat,Phonemic
+9-600-65-1,lezg1247,Lezgi (Mikrakh dialect),1001,чатухъан,CyrillTrans,"smith, blacksmith",,,čatuqan,Phonemic
+9-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1069,ширлинкІ,CyrillTrans,glue,,,širlinkʼ,Phonemic
+9-500-65-1,lezg1247,Lezgi (Mikrakh dialect),502,масмар,CyrillTrans,nail,,,"masmar, mix",Phonemic
+9-500-65-3,lezg1247,Lezgi (Mikrakh dialect),502,мих,CyrillTrans,nail,,,"masmar, mix",Phonemic
+9-490-65-1,lezg1247,Lezgi (Mikrakh dialect),1481,кутІа,CyrillTrans,hammer,,,kutʼa,Phonemic
+9-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1948,мишер,CyrillTrans,saw,,,mišer,Phonemic
+9-461-65-1,lezg1247,Lezgi (Mikrakh dialect),46,акъудун,CyrillTrans,hollow out,,,aq̄udun,Phonemic
+9-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1501,тІвек,CyrillTrans,bore,,,tʼʷek,Phonemic
+9-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1840,эцигун,CyrillTrans,build,,,ecigun,Phonemic
+9-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1042,кІарас устІар,CyrillTrans,carpenter,,,kʼaras ustʼar,Phonemic
+9-422-65-1,lezg1247,Lezgi (Mikrakh dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-65-1,lezg1247,Lezgi (Mikrakh dialect),245,кул,CyrillTrans,broom,,,kul,Phonemic
+9-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1453,чуьхуьн,CyrillTrans,wash,,,čüxün,Phonemic
+9-370-65-1,lezg1247,Lezgi (Mikrakh dialect),230,михьун,CyrillTrans,sweep,,,mix̌un,Phonemic
+9-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1487,цун,CyrillTrans,pour,,,cun,Phonemic
+9-343-65-1,lezg1247,Lezgi (Mikrakh dialect),1414,чуькьуьн,CyrillTrans,"squeeze, wring",,,čüqʼün,Phonemic
+9-342-65-1,lezg1247,Lezgi (Mikrakh dialect),1913,чуькьуьн,CyrillTrans,press,,,čüqʼün,Phonemic
+9-341-65-1,lezg1247,Lezgi (Mikrakh dialect),357,куьрсарун,CyrillTrans,hang up,,,kürsarun,Phonemic
+9-340-65-1,lezg1247,Lezgi (Mikrakh dialect),38,чукІурун,CyrillTrans,spread out,,,čukʼurun,Phonemic
+9-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1455,йалун,CyrillTrans,pull,,,yalun,Phonemic
+9-320-65-1,lezg1247,Lezgi (Mikrakh dialect),214,йалун,CyrillTrans,stretch,,,"yalun, aqʼalžun",Phonemic
+9-320-65-3,lezg1247,Lezgi (Mikrakh dialect),214,акьалжун,CyrillTrans,stretch,,,"yalun, aqʼalžun",Phonemic
+9-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1449,чІурун,CyrillTrans,"rub, wipe",,,č’urun,Phonemic
+9-290-65-1,lezg1247,Lezgi (Mikrakh dialect),291,хам алудун,CyrillTrans,"flay, skin",,,xam aludun,Phonemic
+9-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1735,къазунун,CyrillTrans,tear,,,q̄azunun,Phonemic
+9-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1437,кукІварун,CyrillTrans,split,,,kukʼʷarun,Phonemic
+9-261-65-1,lezg1247,Lezgi (Mikrakh dialect),588,хаквай,CyrillTrans,broken,,,xakʷay,Phonemic
+9-260-65-1,lezg1247,Lezgi (Mikrakh dialect),680,хун,CyrillTrans,break,,,xun,Phonemic
+9-250-65-1,lezg1247,Lezgi (Mikrakh dialect),677,нажах,CyrillTrans,ax,,,nažax,Phonemic
+9-251-65-1,lezg1247,Lezgi (Mikrakh dialect),290,руцІугул,CyrillTrans,adze,,,ruc’ugul,Phonemic
+9-240-65-1,lezg1247,Lezgi (Mikrakh dialect),356,мукІратІ,CyrillTrans,"scissors, shears",,,mukʼratʼ,Phonemic
+9-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1352,чукІул,CyrillTrans,knife,,,čukʼul,Phonemic
+9-223-65-1,lezg1247,Lezgi (Mikrakh dialect),1434,йагъун,CyrillTrans,stab,,,yaɣun,Phonemic
+9-222-65-1,lezg1247,Lezgi (Mikrakh dialect),155,атІун,CyrillTrans,"chop, hew",,,atʼun,Phonemic
+9-221-65-1,lezg1247,Lezgi (Mikrakh dialect),355,чвери авун,CyrillTrans,cut down,,,čʷeri awun,Phonemic
+9-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1432,атІун,CyrillTrans,cut,,,atʼun,Phonemic
+9-211-65-1,lezg1247,Lezgi (Mikrakh dialect),354,гъутув йагъун,CyrillTrans,pound with fist,,,ɣutuw yaɣun,Phonemic
+9-210-65-1,lezg1247,Lezgi (Mikrakh dialect),2133,йагъун,CyrillTrans,"strike (hit, beat)",,,yaɣun,Phonemic
+9-192-65-1,lezg1247,Lezgi (Mikrakh dialect),760,тІвал,CyrillTrans,knot (noun),,,tʼʷal,Phonemic
+9-190-65-1,lezg1247,Lezgi (Mikrakh dialect),1218,мукІатІ,CyrillTrans,"rope, cord",,,mukʼatʼ,Phonemic
+9-180-65-1,lezg1247,Lezgi (Mikrakh dialect),1627,жинжир,CyrillTrans,chain,,,žinžir,Phonemic
+9-161-65-1,lezg1247,Lezgi (Mikrakh dialect),352,ачухун,CyrillTrans,untie,,,ačuxun,Phonemic
+9-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1917,кутІунун,CyrillTrans,"tie, bind",,,kutʼunun,Phonemic
+9-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1470,элкъуьрун,CyrillTrans,fold,,,"elq̄ürun, ecigun",Phonemic
+9-150-65-3,lezg1247,Lezgi (Mikrakh dialect),1470,эцигун,CyrillTrans,fold,,,"elq̄ürun, ecigun",Phonemic
+9-140-65-1,lezg1247,Lezgi (Mikrakh dialect),2004,къатун,CyrillTrans,bend,,,q̄atun,Phonemic
+9-120-65-1,lezg1247,Lezgi (Mikrakh dialect),984,кар,CyrillTrans,work,,,"kar, kʼʷalax",Phonemic
+9-120-65-3,lezg1247,Lezgi (Mikrakh dialect),984,кІвалах,CyrillTrans,work,,,"kar, kʼʷalax",Phonemic
+9-110-65-1,lezg1247,Lezgi (Mikrakh dialect),2575,авун,CyrillTrans,"do, make",,,awun,Phonemic
+8-980-65-1,lezg1247,Lezgi (Mikrakh dialect),641,къарникъуз бебелик,CyrillTrans,mushroom,,,q̄arniq̄uz bebelik,Phonemic
+8-970-65-1,lezg1247,Lezgi (Mikrakh dialect),33,верг,CyrillTrans,nettle,,,werg,Phonemic
+8-941-65-1,lezg1247,Lezgi (Mikrakh dialect),146,шекердин нацІ,CyrillTrans,sugar cane,,,šekerdin nac’,Phonemic
+8-940-65-1,lezg1247,Lezgi (Mikrakh dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-65-1,lezg1247,Lezgi (Mikrakh dialect),864,къабах,CyrillTrans,"pumpkin, squash",,,q̄abax,Phonemic
+8-930-65-1,lezg1247,Lezgi (Mikrakh dialect),411,къабах,CyrillTrans,gourd,,,q̄abax,Phonemic
+8-910-65-1,lezg1247,Lezgi (Mikrakh dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-65-1,lezg1247,Lezgi (Mikrakh dialect),346,инжир,CyrillTrans,banyan,,,inžir,Phonemic
+8-840-65-1,lezg1247,Lezgi (Mikrakh dialect),868,банан,CyrillTrans,banana tree,,,banan,Phonemic
+8-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1126,апелсин,CyrillTrans,citrus fruit,,,"apelsin, limon",Phonemic
+8-830-65-3,lezg1247,Lezgi (Mikrakh dialect),1126,лимон,CyrillTrans,citrus fruit,,,"apelsin, limon",Phonemic
+8-820-65-1,lezg1247,Lezgi (Mikrakh dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-65-1,lezg1247,Lezgi (Mikrakh dialect),345,векьин миже,CyrillTrans,sap,,,weqʼin miže,Phonemic
+8-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1204,къабух,CyrillTrans,bark,,,q̄abux,Phonemic
+8-740-65-1,lezg1247,Lezgi (Mikrakh dialect),409,кьве хелалай тар,CyrillTrans,forked branch,,,qʼʷe xelalay tar,Phonemic
+8-730-65-1,lezg1247,Lezgi (Mikrakh dialect),344,тарцин тан,CyrillTrans,tree trunk,,,tarcin tan,Phonemic
+8-720-65-1,lezg1247,Lezgi (Mikrakh dialect),241,гугурт,CyrillTrans,tree stump,,,"gugurt, kaf",Phonemic
+8-720-65-3,lezg1247,Lezgi (Mikrakh dialect),241,каф,CyrillTrans,tree stump,,,"gugurt, kaf",Phonemic
+8-691-65-1,lezg1247,Lezgi (Mikrakh dialect),1124,къалийан,CyrillTrans,pipe,,,q̄aliyan,Phonemic
+8-690-65-1,lezg1247,Lezgi (Mikrakh dialect),1689,тембекдин гум,CyrillTrans,smoke (tobacco),,,tembekdin gum,Phonemic
+8-680-65-1,lezg1247,Lezgi (Mikrakh dialect),974,тембек,CyrillTrans,tobacco,,,tembek,Phonemic
+8-670-65-1,lezg1247,Lezgi (Mikrakh dialect),343,ципиц кул (хел),CyrillTrans,vine,,,cipic kul (xel),Phonemic
+8-660-65-1,lezg1247,Lezgi (Mikrakh dialect),968,мегъв,CyrillTrans,acorn,,,meɣʷ,Phonemic
+8-650-65-1,lezg1247,Lezgi (Mikrakh dialect),1915,ель,CyrillTrans,fir,,,yelʲ,Phonemic
+8-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1740,нарат тар,CyrillTrans,pine,,,narat tar,Phonemic
+8-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1855,верхи тар,CyrillTrans,birch,,,werxi tar,Phonemic
+8-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1950,пимин тар,CyrillTrans,beech,,,pimin tar,Phonemic
+8-610-65-1,lezg1247,Lezgi (Mikrakh dialect),644,мегъуьн тар,CyrillTrans,oak,,,meɣün tar,Phonemic
+8-600-65-1,lezg1247,Lezgi (Mikrakh dialect),906,тар,CyrillTrans,tree,,,tar,Phonemic
+8-570-65-1,lezg1247,Lezgi (Mikrakh dialect),239,чуьк,CyrillTrans,flower,,,čük,Phonemic
+8-560-65-1,lezg1247,Lezgi (Mikrakh dialect),628,пеш,CyrillTrans,leaf,,,peš,Phonemic
+8-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1531,хел,CyrillTrans,branch,,,xel,Phonemic
+8-540-65-1,lezg1247,Lezgi (Mikrakh dialect),670,дувул,CyrillTrans,root,,,duwul,Phonemic
+8-531-65-1,lezg1247,Lezgi (Mikrakh dialect),1486,экъубчІарун,CyrillTrans,plant (vb),,,eq̄ubč’arun,Phonemic
+8-520-65-1,lezg1247,Lezgi (Mikrakh dialect),342,кьурай векьер,CyrillTrans,hay,,,qʼuray weqʼer,Phonemic
+8-530-65-1,lezg1247,Lezgi (Mikrakh dialect),653,векь-кьал,CyrillTrans,plant (noun),,,weqʼ-qʼal,Phonemic
+8-510-65-1,lezg1247,Lezgi (Mikrakh dialect),606,векь,CyrillTrans,grass,,,weqʼ,Phonemic
+8-480-65-1,lezg1247,Lezgi (Mikrakh dialect),926,дуьгуь,CyrillTrans,rice,,,dügü,Phonemic
+8-470-65-1,lezg1247,Lezgi (Mikrakh dialect),506,гьажикІа,CyrillTrans,"maize, corn",,,hažikʼa,Phonemic
+8-460-65-1,lezg1247,Lezgi (Mikrakh dialect),60,гергер,CyrillTrans,oats,,,gerger,Phonemic
+8-450-65-1,lezg1247,Lezgi (Mikrakh dialect),23,сил,CyrillTrans,rye,,,sil,Phonemic
+8-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1077,къуьл,CyrillTrans,wheat,,,q̄ül,Phonemic
+8-440-65-1,lezg1247,Lezgi (Mikrakh dialect),932,мух,CyrillTrans,barley,,,mux,Phonemic
+8-420-65-1,lezg1247,Lezgi (Mikrakh dialect),605,магьсул,CyrillTrans,"grain (barley, oats etc)",,,mahsul,Phonemic
+8-410-65-1,lezg1247,Lezgi (Mikrakh dialect),611,бегьер,CyrillTrans,"crop, harvest",,,beher,Phonemic
+8-350-65-1,lezg1247,Lezgi (Mikrakh dialect),223,рат,CyrillTrans,threshing-floor,,,rat,Phonemic
+8-340-65-1,lezg1247,Lezgi (Mikrakh dialect),285,йуг гатун,CyrillTrans,thresh,,,yug gatun,Phonemic
+8-330-65-1,lezg1247,Lezgi (Mikrakh dialect),2132,баскІум,CyrillTrans,"sickle, scythe",,,"baskʼum, derges",Phonemic
+8-330-65-3,lezg1247,Lezgi (Mikrakh dialect),2132,дергес,CyrillTrans,"sickle, scythe",,,"baskʼum, derges",Phonemic
+8-320-65-1,lezg1247,Lezgi (Mikrakh dialect),190,векь йагъун,CyrillTrans,"mow, reap",,,"weqʼ yaɣun, čʷen gün",Phonemic
+8-320-65-3,lezg1247,Lezgi (Mikrakh dialect),190,чвен гуьн,CyrillTrans,"mow, reap",,,"weqʼ yaɣun, čʷen gün",Phonemic
+8-311-65-1,lezg1247,Lezgi (Mikrakh dialect),714,твар,CyrillTrans,seed,,,tʷar,Phonemic
+8-310-65-1,lezg1247,Lezgi (Mikrakh dialect),748,тум цун,CyrillTrans,sow,,,tum cun,Phonemic
+8-270-65-1,lezg1247,Lezgi (Mikrakh dialect),338,чиригъил,CyrillTrans,rake,,,čiriɣil,Phonemic
+8-260-65-1,lezg1247,Lezgi (Mikrakh dialect),337,кьуьк,CyrillTrans,fork,,,qʼük,Phonemic
+8-250-65-1,lezg1247,Lezgi (Mikrakh dialect),284,туьрез,CyrillTrans,hoe,,,türez,Phonemic
+8-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1901,хикендаз,CyrillTrans,shovel,,,xikendaz,Phonemic
+8-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1176,пер,CyrillTrans,spade,,,per,Phonemic
+8-212-65-1,lezg1247,Lezgi (Mikrakh dialect),1794,ник,CyrillTrans,furrow,,,"nik, xʷal",Phonemic
+8-212-65-3,lezg1247,Lezgi (Mikrakh dialect),1794,хвал,CyrillTrans,furrow,,,"nik, xʷal",Phonemic
+8-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1418,стІал-стІал,CyrillTrans,dig,,,"stʼal-stʼal, awax̌un",Phonemic
+8-220-65-3,lezg1247,Lezgi (Mikrakh dialect),1418,авахьун,CyrillTrans,dig,,,"stʼal-stʼal, awax̌un",Phonemic
+8-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1921,чил цун,CyrillTrans,plow,,,čil cun,Phonemic
+8-170-65-1,lezg1247,Lezgi (Mikrakh dialect),2002,арх,CyrillTrans,ditch,,,"arx, xʷal",Phonemic
+8-170-65-3,lezg1247,Lezgi (Mikrakh dialect),2002,хвал,CyrillTrans,ditch,,,"arx, xʷal",Phonemic
+8-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1690,жугъун,CyrillTrans,fence,,,žuɣun,Phonemic
+8-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1541,чил цун,CyrillTrans,"cultivate, till",,,čil cun,Phonemic
+8-130-65-1,lezg1247,Lezgi (Mikrakh dialect),586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-65-1,lezg1247,Lezgi (Mikrakh dialect),212,ник,CyrillTrans,field (for cultivation),,,nik,Phonemic
+8-110-65-1,lezg1247,Lezgi (Mikrakh dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-65-1,lezg1247,Lezgi (Mikrakh dialect),901,кІвал,CyrillTrans,adobe,,,kʼʷal,Phonemic
+7-630-65-1,lezg1247,Lezgi (Mikrakh dialect),224,киреждин кьаруш,CyrillTrans,mortar,,,kireždin qʼaruš,Phonemic
+7-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1006,лангат,CyrillTrans,brick,,,"langat, kerpič",Phonemic
+7-620-65-3,lezg1247,Lezgi (Mikrakh dialect),1006,керпич,CyrillTrans,brick,,,"langat, kerpič",Phonemic
+7-580-65-1,lezg1247,Lezgi (Mikrakh dialect),876,тагъ,CyrillTrans,arch,,,taɣ,Phonemic
+7-610-65-1,lezg1247,Lezgi (Mikrakh dialect),877,кванцин устІар,CyrillTrans,mason,,,kʷancin ustʼar,Phonemic
+7-570-65-1,lezg1247,Lezgi (Mikrakh dialect),1227,таха,CyrillTrans,board,,,taxa,Phonemic
+7-560-65-1,lezg1247,Lezgi (Mikrakh dialect),281,стун,CyrillTrans,"post, pole",,,"stun, tar",Phonemic
+7-560-65-3,lezg1247,Lezgi (Mikrakh dialect),281,тар,CyrillTrans,"post, pole",,,"stun, tar",Phonemic
+7-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1132,турвакь,CyrillTrans,beam,,,turwaqʼ,Phonemic
+7-540-65-1,lezg1247,Lezgi (Mikrakh dialect),829,чІул,CyrillTrans,rafter,,,č’ul,Phonemic
+7-530-65-1,lezg1247,Lezgi (Mikrakh dialect),280,турвакь,CyrillTrans,ridgepole,,,turwaqʼ,Phonemic
+7-520-65-1,lezg1247,Lezgi (Mikrakh dialect),279,къав,CyrillTrans,thatch,,,q̄aw,Phonemic
+7-510-65-1,lezg1247,Lezgi (Mikrakh dialect),769,къав,CyrillTrans,roof,,,q̄aw,Phonemic
+7-480-65-1,lezg1247,Lezgi (Mikrakh dialect),205,чІутхвар,CyrillTrans,trough,,,č’utxʷar,Phonemic
+7-470-65-1,lezg1247,Lezgi (Mikrakh dialect),745,дезге,CyrillTrans,shelf,,,dezge,Phonemic
+7-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1273,тем,CyrillTrans,candle,,,tem,Phonemic
+7-450-65-1,lezg1247,Lezgi (Mikrakh dialect),2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, fanar",Phonemic
+7-450-65-3,lezg1247,Lezgi (Mikrakh dialect),2131,фанар,CyrillTrans,"lamp, torch",,,"lampa, fanar",Phonemic
+7-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1476,куьсруь,CyrillTrans,chair,,,küsrü,Phonemic
+7-422-65-1,lezg1247,Lezgi (Mikrakh dialect),806,йургъан,CyrillTrans,blanket,,,yurɣan,Phonemic
+7-421-65-1,lezg1247,Lezgi (Mikrakh dialect),1044,хъуьцуьган,CyrillTrans,pillow,,,qücügan,Phonemic
+7-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1663,крават,CyrillTrans,bed,,,krawat,Phonemic
+7-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1464,гурар,CyrillTrans,ladder,,,gurar,Phonemic
+7-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1305,бугьу,CyrillTrans,chimney,,,buhu,Phonemic
+7-320-65-1,lezg1247,Lezgi (Mikrakh dialect),859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-65-1,lezg1247,Lezgi (Mikrakh dialect),185,къул,CyrillTrans,fireplace,,,q̄ul,Phonemic
+7-270-65-1,lezg1247,Lezgi (Mikrakh dialect),933,цал,CyrillTrans,wall,,,cal,Phonemic
+7-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1632,чил,CyrillTrans,floor,,,čil,Phonemic
+7-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1375,дакІар,CyrillTrans,window,,,dakʼar,Phonemic
+7-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1472,куьлег,CyrillTrans,key,,,küleg,Phonemic
+7-231-65-1,lezg1247,Lezgi (Mikrakh dialect),1012,тар,CyrillTrans,"latch, door-bolt",,,tar,Phonemic
+7-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1596,тІапІар,CyrillTrans,lock (noun),,,tʼap’ar,Phonemic
+7-221-65-1,lezg1247,Lezgi (Mikrakh dialect),80,рикІин къерех,CyrillTrans,"doorpost, jamb",,,rikʼin q̄erex,Phonemic
+7-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1450,кІвал,CyrillTrans,room,,,kʼʷal,Phonemic
+7-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1567,рак,CyrillTrans,"door, gate",,,"rak, war",Phonemic
+7-220-65-3,lezg1247,Lezgi (Mikrakh dialect),1567,вар,CyrillTrans,"door, gate",,,"rak, war",Phonemic
+7-180-65-1,lezg1247,Lezgi (Mikrakh dialect),335,клуб,CyrillTrans,meeting house,,,klub,Phonemic
+7-170-65-1,lezg1247,Lezgi (Mikrakh dialect),334,цІун кІвал,CyrillTrans,cookhouse,,,c’un kʼʷal,Phonemic
+7-160-65-1,lezg1247,Lezgi (Mikrakh dialect),408,итимрин кІвал,CyrillTrans,men's house,,,itimrin kʼʷal,Phonemic
+7-150-65-1,lezg1247,Lezgi (Mikrakh dialect),736,гьайат,CyrillTrans,"yard, court",,,hayat,Phonemic
+7-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1316,чадир,CyrillTrans,tent,,,čadir,Phonemic
+7-131-65-1,lezg1247,Lezgi (Mikrakh dialect),403,салан кІвал,CyrillTrans,garden-house,,,salan kʼʷal,Phonemic
+7-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1678,къазма,CyrillTrans,hut,,,q̄azma,Phonemic
+7-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1252,кІвал,CyrillTrans,house,,,kʼʷal,Phonemic
+7-110-65-1,lezg1247,Lezgi (Mikrakh dialect),363,йашамиш хьун,CyrillTrans,"dwell, live",,,yašamiš x̌un,Phonemic
+6-960-65-1,lezg1247,Lezgi (Mikrakh dialect),1171,гуьзгуь,CyrillTrans,mirror,,,güzgü,Phonemic
+6-950-65-1,lezg1247,Lezgi (Mikrakh dialect),788,запун,CyrillTrans,soap,,,zapun,Phonemic
+6-940-65-1,lezg1247,Lezgi (Mikrakh dialect),1926,мелгьем,CyrillTrans,ointment,,,melhem,Phonemic
+6-930-65-1,lezg1247,Lezgi (Mikrakh dialect),151,уьлгуьж,CyrillTrans,razor,,,ülgüž,Phonemic
+6-921-65-1,lezg1247,Lezgi (Mikrakh dialect),333,киф,CyrillTrans,braid,,,kif,Phonemic
+6-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1821,регъ,CyrillTrans,brush,,,reɣ,Phonemic
+6-910-65-1,lezg1247,Lezgi (Mikrakh dialect),1475,регъ,CyrillTrans,comb,,,reɣ,Phonemic
+6-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1021,дасмал,CyrillTrans,towel,,,dasmal,Phonemic
+6-810-65-1,lezg1247,Lezgi (Mikrakh dialect),332,жибиндин йайлух,CyrillTrans,"handkerchief, rag",,,žibindin yaylux,Phonemic
+6-780-65-1,lezg1247,Lezgi (Mikrakh dialect),330,шал,CyrillTrans,"headband, headdress",,,"šal, yaylux",Phonemic
+6-780-65-3,lezg1247,Lezgi (Mikrakh dialect),330,йайлух,CyrillTrans,"headband, headdress",,,"šal, yaylux",Phonemic
+6-770-65-1,lezg1247,Lezgi (Mikrakh dialect),770,йапаган,CyrillTrans,earring,,,yapagan,Phonemic
+6-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1860,хат,CyrillTrans,bead,,,xat,Phonemic
+6-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1961,гьайкал,CyrillTrans,necklace,,,"haykal, xtar",Phonemic
+6-750-65-3,lezg1247,Lezgi (Mikrakh dialect),1961,хтар,CyrillTrans,necklace,,,"haykal, xtar",Phonemic
+6-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1754,цам,CyrillTrans,bracelet,,,cam,Phonemic
+6-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1374,тупІал,CyrillTrans,ring (for finger),,,tup’al,Phonemic
+6-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1029,багьа къаш,CyrillTrans,jewel,,,"baha q̄aš, zargardin iwir",Phonemic
+6-720-65-3,lezg1247,Lezgi (Mikrakh dialect),1029,заргардин ивир,CyrillTrans,jewel,,,"baha q̄aš, zargardin iwir",Phonemic
+6-710-65-1,lezg1247,Lezgi (Mikrakh dialect),917,нехиш,CyrillTrans,"ornament, adornment",,,"nexiš, bezek",Phonemic
+6-710-65-3,lezg1247,Lezgi (Mikrakh dialect),917,безек,CyrillTrans,"ornament, adornment",,,"nexiš, bezek",Phonemic
+6-630-65-1,lezg1247,Lezgi (Mikrakh dialect),64,санжах,CyrillTrans,pin,,,sanžax,Phonemic
+6-620-65-1,lezg1247,Lezgi (Mikrakh dialect),757,дуьгме,CyrillTrans,button,,,dügme,Phonemic
+6-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1851,жибин,CyrillTrans,pocket,,,žibin,Phonemic
+6-590-65-1,lezg1247,Lezgi (Mikrakh dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-65-1,lezg1247,Lezgi (Mikrakh dialect),867,бегьле,CyrillTrans,glove,,,behle,Phonemic
+6-570-65-1,lezg1247,Lezgi (Mikrakh dialect),772,чІул,CyrillTrans,"belt, girdle",,,č’ul,Phonemic
+6-550-65-1,lezg1247,Lezgi (Mikrakh dialect),2130,шлйапІа,CyrillTrans,"hat, cap",,,"šlyap’a, tʼes",Phonemic
+6-550-65-3,lezg1247,Lezgi (Mikrakh dialect),2130,тІес,CyrillTrans,"hat, cap",,,"šlyap’a, tʼes",Phonemic
+6-540-65-1,lezg1247,Lezgi (Mikrakh dialect),875,чекмечи,CyrillTrans,"shoemaker, cobbler",,,čekmeči,Phonemic
+6-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1381,туфли,CyrillTrans,shoe,,,tufli,Phonemic
+6-520-65-1,lezg1247,Lezgi (Mikrakh dialect),585,патинка,CyrillTrans,boot,,,patinka,Phonemic
+6-490-65-1,lezg1247,Lezgi (Mikrakh dialect),329,гуьлуьт,CyrillTrans,"stocking, sock",,,gülüt,Phonemic
+6-480-65-1,lezg1247,Lezgi (Mikrakh dialect),809,шалвар,CyrillTrans,trousers,,,"šalwar, waxčag",Phonemic
+6-480-65-3,lezg1247,Lezgi (Mikrakh dialect),809,вахчаг,CyrillTrans,trousers,,,"šalwar, waxčag",Phonemic
+6-461-65-1,lezg1247,Lezgi (Mikrakh dialect),328,куьруь перем,CyrillTrans,grass-skirt,,,kürü perem,Phonemic
+6-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1600,куьруь перем,CyrillTrans,skirt,,,kürü perem,Phonemic
+6-450-65-1,lezg1247,Lezgi (Mikrakh dialect),2012,хев,CyrillTrans,collar,,,xew,Phonemic
+6-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1622,перем,CyrillTrans,shirt,,,perem,Phonemic
+6-430-65-1,lezg1247,Lezgi (Mikrakh dialect),603,палту,CyrillTrans,coat,,,paltu,Phonemic
+6-420-65-1,lezg1247,Lezgi (Mikrakh dialect),474,дишегьлидин перем,CyrillTrans,woman's dress,,,dišehlidin perem,Phonemic
+6-390-65-1,lezg1247,Lezgi (Mikrakh dialect),157,ран,CyrillTrans,dye,,,"ran, šir",Phonemic
+6-390-65-3,lezg1247,Lezgi (Mikrakh dialect),157,шир,CyrillTrans,dye,,,"ran, šir",Phonemic
+6-410-65-1,lezg1247,Lezgi (Mikrakh dialect),326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1161,гъал,CyrillTrans,thread,,,ɣal,Phonemic
+6-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1382,раб,CyrillTrans,needle,,,rab,Phonemic
+6-370-65-1,lezg1247,Lezgi (Mikrakh dialect),278,риб,CyrillTrans,awl,,,rib,Phonemic
+6-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1457,цун,CyrillTrans,sew,,,cun,Phonemic
+6-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1787,карка,CyrillTrans,loom,,,karka,Phonemic
+6-330-65-1,lezg1247,Lezgi (Mikrakh dialect),133,хурун,CyrillTrans,weave,,,xurun,Phonemic
+6-320-65-1,lezg1247,Lezgi (Mikrakh dialect),277,чхра,CyrillTrans,spindle,,,čxra,Phonemic
+6-310-65-1,lezg1247,Lezgi (Mikrakh dialect),121,хурун,CyrillTrans,spin,,,xurun,Phonemic
+6-290-65-1,lezg1247,Lezgi (Mikrakh dialect),629,хам,CyrillTrans,leather,,,xam,Phonemic
+6-280-65-1,lezg1247,Lezgi (Mikrakh dialect),580,хъицикь,CyrillTrans,fur,,,qiciqʼ,Phonemic
+6-270-65-1,lezg1247,Lezgi (Mikrakh dialect),325,лит,CyrillTrans,felt,,,lit,Phonemic
+6-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1641,атІлас,CyrillTrans,silk,,,atʼlas,Phonemic
+6-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1850,чит,CyrillTrans,cotton,,,čit,Phonemic
+6-230-65-1,lezg1247,Lezgi (Mikrakh dialect),916,гьасир,CyrillTrans,"linen, flax",,,hasir,Phonemic
+6-220-65-1,lezg1247,Lezgi (Mikrakh dialect),964,сар,CyrillTrans,wool,,,"sar, sun parča",Phonemic
+6-220-65-3,lezg1247,Lezgi (Mikrakh dialect),964,сун парча,CyrillTrans,wool,,,"sar, sun parča",Phonemic
+6-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1616,парча шал,CyrillTrans,cloth,,,parča šal,Phonemic
+6-130-65-1,lezg1247,Lezgi (Mikrakh dialect),881,дерзичи,CyrillTrans,tailor,,,derziči,Phonemic
+6-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1895,дагъ парталар,CyrillTrans,"clothing, clothes",,,daɣ partalar,Phonemic
+6-110-65-1,lezg1247,Lezgi (Mikrakh dialect),158,алукІун,CyrillTrans,put on (clothes),,,alukʼun,Phonemic
+5-971-65-1,lezg1247,Lezgi (Mikrakh dialect),1556,какадин хъиб,CyrillTrans,egg yolk,,,kakadin qib,Phonemic
+5-970-65-1,lezg1247,Lezgi (Mikrakh dialect),744,кака,CyrillTrans,egg,,,kaka,Phonemic
+5-940-65-1,lezg1247,Lezgi (Mikrakh dialect),404,чехир,CyrillTrans,fermented drink,,,čexir,Phonemic
+5-930-65-1,lezg1247,Lezgi (Mikrakh dialect),1639,буза,CyrillTrans,beer,,,"buza, piwo",Phonemic
+5-930-65-3,lezg1247,Lezgi (Mikrakh dialect),1639,пиво,CyrillTrans,beer,,,"buza, piwo",Phonemic
+5-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1524,чехир,CyrillTrans,wine,,,čexir,Phonemic
+5-910-65-1,lezg1247,Lezgi (Mikrakh dialect),941,ширекат,CyrillTrans,mead,,,širekat,Phonemic
+5-900-65-1,lezg1247,Lezgi (Mikrakh dialect),731,хъвадай затІ,CyrillTrans,"beverage, drink",,,qʷaday zatʼ,Phonemic
+5-890-65-1,lezg1247,Lezgi (Mikrakh dialect),1245,дуьдгъвер,CyrillTrans,butter,,,düdɣʷer,Phonemic
+5-880-65-1,lezg1247,Lezgi (Mikrakh dialect),1569,ниси,CyrillTrans,cheese,,,nisi,Phonemic
+5-870-65-1,lezg1247,Lezgi (Mikrakh dialect),93,нек ацун,CyrillTrans,milk (vb),,,nek acun,Phonemic
+5-850-65-1,lezg1247,Lezgi (Mikrakh dialect),862,шекер,CyrillTrans,sugar,,,šeker,Phonemic
+5-860-65-1,lezg1247,Lezgi (Mikrakh dialect),635,нек,CyrillTrans,milk (noun),,,nek,Phonemic
+5-840-65-1,lezg1247,Lezgi (Mikrakh dialect),942,вирт,CyrillTrans,honey,,,wirt,Phonemic
+5-821-65-1,lezg1247,Lezgi (Mikrakh dialect),919,кудай истивут,CyrillTrans,chili pepper,,,kuday istiwut,Phonemic
+5-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1385,истивут,CyrillTrans,pepper,,,istiwut,Phonemic
+5-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1274,кьел,CyrillTrans,salt,,,qʼel,Phonemic
+5-791-65-1,lezg1247,Lezgi (Mikrakh dialect),323,хъуцІур,CyrillTrans,"grease, fat",,,"quc’ur, pi",Phonemic
+5-791-65-3,lezg1247,Lezgi (Mikrakh dialect),323,пи,CyrillTrans,"grease, fat",,,"quc’ur, pi",Phonemic
+5-790-65-1,lezg1247,Lezgi (Mikrakh dialect),1484,набататрин йагъ,CyrillTrans,oil,,,nabatatrin yaɣ,Phonemic
+5-780-65-1,lezg1247,Lezgi (Mikrakh dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-65-1,lezg1247,Lezgi (Mikrakh dialect),920,ципицІ,CyrillTrans,grape,,,cipic’,Phonemic
+5-770-65-1,lezg1247,Lezgi (Mikrakh dialect),191,кІерец,CyrillTrans,nut,,,kʼerec,Phonemic
+5-750-65-1,lezg1247,Lezgi (Mikrakh dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-65-1,lezg1247,Lezgi (Mikrakh dialect),1966,кул,CyrillTrans,bunch,,,"kul, kʼunč’",Phonemic
+5-712-65-3,lezg1247,Lezgi (Mikrakh dialect),1966,кІунчІ,CyrillTrans,bunch,,,"kul, kʼunč’",Phonemic
+5-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1507,йемиш,CyrillTrans,fruit,,,yemiš,Phonemic
+5-700-65-1,lezg1247,Lezgi (Mikrakh dialect),593,картуш,CyrillTrans,potato,,,kartuš,Phonemic
+5-660-65-1,lezg1247,Lezgi (Mikrakh dialect),832,кІах,CyrillTrans,bean,,,kʼax,Phonemic
+5-650-65-1,lezg1247,Lezgi (Mikrakh dialect),924,салан майвайар,CyrillTrans,vegetables,,,salan maywayar,Phonemic
+5-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1547,хапІа,CyrillTrans,"soup, broth",,,xap’a,Phonemic
+5-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1874,дулдурма,CyrillTrans,sausage,,,duldurma,Phonemic
+5-610-65-1,lezg1247,Lezgi (Mikrakh dialect),634,йак,CyrillTrans,meat,,,yak,Phonemic
+5-590-65-1,lezg1247,Lezgi (Mikrakh dialect),225,кІиъитІ,CyrillTrans,pestle,,,kʼiʔitʼ,Phonemic
+5-580-65-1,lezg1247,Lezgi (Mikrakh dialect),224,твакІ,CyrillTrans,mortar (2),,,tʷakʼ,Phonemic
+5-570-65-1,lezg1247,Lezgi (Mikrakh dialect),636,регъв,CyrillTrans,mill,,,reɣʷ,Phonemic
+5-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1033,чуькьуьн,CyrillTrans,"crush, grind",,,"čüqʼün, külü awun",Phonemic
+5-560-65-3,lezg1247,Lezgi (Mikrakh dialect),1033,куьлуь авун,CyrillTrans,"crush, grind",,,"čüqʼün, külü awun",Phonemic
+5-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1594,гъуьр,CyrillTrans,"meal, flour",,,ɣür,Phonemic
+5-540-65-1,lezg1247,Lezgi (Mikrakh dialect),274,тІушунун,CyrillTrans,knead,,,tʼušunun,Phonemic
+5-530-65-1,lezg1247,Lezgi (Mikrakh dialect),273,тини,CyrillTrans,dough,,,tini,Phonemic
+5-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1368,фу,CyrillTrans,bread,,,fu,Phonemic
+5-490-65-1,lezg1247,Lezgi (Mikrakh dialect),2017,какадарун,CyrillTrans,"stir, mix",,,kakadarun,Phonemic
+5-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1767,михь хъувун,CyrillTrans,scrape,,,mix̌ quwun,Phonemic
+5-470-65-1,lezg1247,Lezgi (Mikrakh dialect),86,гаралай авун,CyrillTrans,"sieve, strain",,,"garalay awun, küzun",Phonemic
+5-470-65-3,lezg1247,Lezgi (Mikrakh dialect),86,куьзун,CyrillTrans,"sieve, strain",,,"garalay awun, küzun",Phonemic
+5-460-65-1,lezg1247,Lezgi (Mikrakh dialect),275,михьун,CyrillTrans,peel,,,mix̌un,Phonemic
+5-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1833,негъенин тІуьн,CyrillTrans,supper,,,neɣenin tʼün,Phonemic
+5-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1833,несенин тІуьн,CyrillTrans,dinner,,,nesenin tʼün,Phonemic
+5-430-65-1,lezg1247,Lezgi (Mikrakh dialect),768,экуьн нагьар,CyrillTrans,lunch,,,ekün nahar,Phonemic
+5-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1322,пакаман тІуьн,CyrillTrans,breakfast,,,pakaman tʼün,Phonemic
+5-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1526,тІуьн,CyrillTrans,meal (a),,,tʼün,Phonemic
+5-391-65-1,lezg1247,Lezgi (Mikrakh dialect),272,хех,CyrillTrans,tongs,,,xex,Phonemic
+5-390-65-1,lezg1247,Lezgi (Mikrakh dialect),1302,кьал,CyrillTrans,fork (2),,,qʼal,Phonemic
+5-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1352,чукІул,CyrillTrans,knife (2),,,čukʼul,Phonemic
+5-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1378,тур,CyrillTrans,spoon,,,tur,Phonemic
+5-360-65-1,lezg1247,Lezgi (Mikrakh dialect),271,чайдан,CyrillTrans,saucer,,,"čaydan, q̄ab",Phonemic
+5-360-65-3,lezg1247,Lezgi (Mikrakh dialect),271,къаб,CyrillTrans,saucer,,,"čaydan, q̄ab",Phonemic
+5-350-65-1,lezg1247,Lezgi (Mikrakh dialect),476,къаб,CyrillTrans,"cup, drinking vessel",,,q̄ab,Phonemic
+5-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1530,къаб,CyrillTrans,bowl,,,q̄ab,Phonemic
+5-340-65-1,lezg1247,Lezgi (Mikrakh dialect),270,гетІе,CyrillTrans,"pitcher, jug",,,"getʼe, kʷar",Phonemic
+5-340-65-3,lezg1247,Lezgi (Mikrakh dialect),270,квар,CyrillTrans,"pitcher, jug",,,"getʼe, kʷar",Phonemic
+5-320-65-1,lezg1247,Lezgi (Mikrakh dialect),480,кур,CyrillTrans,plate,,,kur,Phonemic
+5-310-65-1,lezg1247,Lezgi (Mikrakh dialect),481,къаб,CyrillTrans,dish,,,"q̄ab, kur",Phonemic
+5-310-65-3,lezg1247,Lezgi (Mikrakh dialect),481,кур,CyrillTrans,dish,,,"q̄ab, kur",Phonemic
+5-280-65-1,lezg1247,Lezgi (Mikrakh dialect),31,къажгъан,CyrillTrans,pan,,,q̄ažɣan,Phonemic
+5-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1462,пекье,CyrillTrans,"pot, cooking vessel",,,"peqʼe, q̄ažɣan",Phonemic
+5-260-65-3,lezg1247,Lezgi (Mikrakh dialect),1462,къажгъан,CyrillTrans,"pot, cooking vessel",,,"peqʼe, q̄ažɣan",Phonemic
+5-270-65-1,lezg1247,Lezgi (Mikrakh dialect),854,чайдан,CyrillTrans,kettle,,,čaydan,Phonemic
+5-240-65-1,lezg1247,Lezgi (Mikrakh dialect),183,чурун,CyrillTrans,bake,,,čurun,Phonemic
+5-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1143,печ,CyrillTrans,oven,,,peč,Phonemic
+5-230-65-1,lezg1247,Lezgi (Mikrakh dialect),2146,чурун,CyrillTrans,"roast, fry",,,čurun,Phonemic
+5-220-65-1,lezg1247,Lezgi (Mikrakh dialect),792,гургун,CyrillTrans,boil (vb),,,gurgun,Phonemic
+5-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1100,гургун,CyrillTrans,cook,,,gurgun,Phonemic
+5-190-65-1,lezg1247,Lezgi (Mikrakh dialect),129,бамишарун,CyrillTrans,choke,,,bamišarun,Phonemic
+5-181-65-1,lezg1247,Lezgi (Mikrakh dialect),897,агалдарун,CyrillTrans,swallow,,,agaldarun,Phonemic
+5-180-65-1,lezg1247,Lezgi (Mikrakh dialect),321,чІакьун,CyrillTrans,chew,,,č’aqʼun,Phonemic
+5-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1421,фитІун,CyrillTrans,suck,,,"fitʼun, č’ugun",Phonemic
+5-160-65-3,lezg1247,Lezgi (Mikrakh dialect),1421,чІугун,CyrillTrans,suck,,,"fitʼun, č’ugun",Phonemic
+5-150-65-1,lezg1247,Lezgi (Mikrakh dialect),848,гьарарат,CyrillTrans,thirst,,,hararat,Phonemic
+5-141-65-1,lezg1247,Lezgi (Mikrakh dialect),199,каш,CyrillTrans,famine,,,"kaš, kaš č’ugun",Phonemic
+5-141-65-3,lezg1247,Lezgi (Mikrakh dialect),199,каш чІугун,CyrillTrans,famine,,,"kaš, kaš č’ugun",Phonemic
+5-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1864,кешинвал,CyrillTrans,hunger,,,kešinwal,Phonemic
+5-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1401,хъун,CyrillTrans,drink,,,qun,Phonemic
+5-125-65-1,lezg1247,Lezgi (Mikrakh dialect),1728,ктІай,CyrillTrans,rotten,,,ktʼay,Phonemic
+5-124-65-1,lezg1247,Lezgi (Mikrakh dialect),1958,къацу,CyrillTrans,"green, unripe",,,"q̄acu, digmiš tax̌anway",Phonemic
+5-124-65-3,lezg1247,Lezgi (Mikrakh dialect),1958,дигмиш тахьанвай,CyrillTrans,"green, unripe",,,"q̄acu, digmiš tax̌anway",Phonemic
+5-123-65-1,lezg1247,Lezgi (Mikrakh dialect),178,дичмиш хьанвай,CyrillTrans,ripe,,,dičmiš x̌anway,Phonemic
+5-122-65-1,lezg1247,Lezgi (Mikrakh dialect),1959,ицІи,CyrillTrans,raw,,,ic’i,Phonemic
+5-121-65-1,lezg1247,Lezgi (Mikrakh dialect),269,гургунвай,CyrillTrans,cooked,,,gurgunway,Phonemic
+5-120-65-1,lezg1247,Lezgi (Mikrakh dialect),256,тІуьн,CyrillTrans,food,,,"tʼün, sürset",Phonemic
+5-120-65-3,lezg1247,Lezgi (Mikrakh dialect),256,суьрсет,CyrillTrans,food,,,"tʼün, sürset",Phonemic
+5-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1336,тІуьн,CyrillTrans,eat,,,tʼün,Phonemic
+4-990-65-1,lezg1247,Lezgi (Mikrakh dialect),590,кьацІул,CyrillTrans,"naked, bare",,,qʼac’ul,Phonemic
+4-970-65-1,lezg1247,Lezgi (Mikrakh dialect),1653,пуьркьуь,CyrillTrans,blind,,,pürqʼü,Phonemic
+4-980-65-1,lezg1247,Lezgi (Mikrakh dialect),1463,пийан,CyrillTrans,intoxicated,,,piyan,Phonemic
+4-960-65-1,lezg1247,Lezgi (Mikrakh dialect),1666,лал,CyrillTrans,mute,,,lal,Phonemic
+4-950-65-1,lezg1247,Lezgi (Mikrakh dialect),996,пеши,CyrillTrans,deaf,,,peši,Phonemic
+4-930-65-1,lezg1247,Lezgi (Mikrakh dialect),1125,кьилелай,CyrillTrans,bald,,,"qʼilelay, č’ar fenway",Phonemic
+4-930-65-3,lezg1247,Lezgi (Mikrakh dialect),1125,чІар фенвай,CyrillTrans,bald,,,"qʼilelay, č’ar fenway",Phonemic
+4-940-65-1,lezg1247,Lezgi (Mikrakh dialect),320,кьецІивал,CyrillTrans,lame,,,qʼec’iwal,Phonemic
+4-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1564,темпел,CyrillTrans,lazy,,,tempel,Phonemic
+4-912-65-1,lezg1247,Lezgi (Mikrakh dialect),168,йал йагъун,CyrillTrans,rest,,,yal yaɣun,Phonemic
+4-910-65-1,lezg1247,Lezgi (Mikrakh dialect),1757,галатнавай,CyrillTrans,"tired, weary",,,galatnaway,Phonemic
+4-890-65-1,lezg1247,Lezgi (Mikrakh dialect),655,зегьер,CyrillTrans,poison,,,"zeher, aɣu",Phonemic
+4-890-65-3,lezg1247,Lezgi (Mikrakh dialect),655,агъу,CyrillTrans,poison,,,"zeher, aɣu",Phonemic
+4-880-65-1,lezg1247,Lezgi (Mikrakh dialect),1372,дарман,CyrillTrans,"medicine, drug",,,darman,Phonemic
+4-870-65-1,lezg1247,Lezgi (Mikrakh dialect),597,духтур,CyrillTrans,physician,,,duxtur,Phonemic
+4-860-65-1,lezg1247,Lezgi (Mikrakh dialect),499,сагъарун,CyrillTrans,"cure, heal",,,saɣarun,Phonemic
+4-858-65-1,lezg1247,Lezgi (Mikrakh dialect),497,хирен гел,CyrillTrans,scar,,,xiren gel,Phonemic
+4-857-65-1,lezg1247,Lezgi (Mikrakh dialect),1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-65-1,lezg1247,Lezgi (Mikrakh dialect),793,ивел,CyrillTrans,boil (noun),,,iwel,Phonemic
+4-855-65-1,lezg1247,Lezgi (Mikrakh dialect),1584,пелех,CyrillTrans,blister,,,pelex,Phonemic
+4-854-65-1,lezg1247,Lezgi (Mikrakh dialect),148,квал,CyrillTrans,itch,,,kʷal,Phonemic
+4-853-65-1,lezg1247,Lezgi (Mikrakh dialect),1903,дакІунвай хер,CyrillTrans,swelling,,,"dakʼunway xer, pelex",Phonemic
+4-853-65-3,lezg1247,Lezgi (Mikrakh dialect),1903,пелех,CyrillTrans,swelling,,,"dakʼunway xer, pelex",Phonemic
+4-852-65-1,lezg1247,Lezgi (Mikrakh dialect),1148,тІар хьайи чка,CyrillTrans,bruise,,,tʼar x̌ayi čka,Phonemic
+4-850-65-1,lezg1247,Lezgi (Mikrakh dialect),1109,хер,CyrillTrans,"wound, sore",,,xer,Phonemic
+4-843-65-1,lezg1247,Lezgi (Mikrakh dialect),102,мекьи хьун,CyrillTrans,cold (catarrh),,,meqʼi x̌un,Phonemic
+4-842-65-1,lezg1247,Lezgi (Mikrakh dialect),1957,туьтуьнин хат,CyrillTrans,goiter,,,tütünin xat,Phonemic
+4-841-65-1,lezg1247,Lezgi (Mikrakh dialect),1534,ифин,CyrillTrans,fever,,,"ifin, zurzun akatun",Phonemic
+4-841-65-3,lezg1247,Lezgi (Mikrakh dialect),1534,зурзун акатун,CyrillTrans,fever,,,"ifin, zurzun akatun",Phonemic
+4-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1847,азарлу,CyrillTrans,"sick, sickness",,,"azarlu, azar",Phonemic
+4-840-65-3,lezg1247,Lezgi (Mikrakh dialect),1847,азар,CyrillTrans,"sick, sickness",,,"azarlu, azar",Phonemic
+4-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1364,сагълам,CyrillTrans,"well, health",,,"saɣlam, saɣʷal",Phonemic
+4-830-65-3,lezg1247,Lezgi (Mikrakh dialect),1364,сагъвал,CyrillTrans,"well, health",,,"saɣlam, saɣʷal",Phonemic
+4-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1601,зайиф,CyrillTrans,weak,,,"zayif, lak zayif",Phonemic
+4-820-65-3,lezg1247,Lezgi (Mikrakh dialect),1601,лак зайиф,CyrillTrans,weak,,,"zayif, lak zayif",Phonemic
+4-810-65-1,lezg1247,Lezgi (Mikrakh dialect),785,гужлу,CyrillTrans,"strong, mighty, powerful",,,"gužlu, lan gužlu",Phonemic
+4-810-65-3,lezg1247,Lezgi (Mikrakh dialect),785,лан гужлу,CyrillTrans,"strong, mighty, powerful",,,"gužlu, lan gužlu",Phonemic
+4-790-65-1,lezg1247,Lezgi (Mikrakh dialect),1773,сур,CyrillTrans,"grave, tomb",,,sur,Phonemic
+4-780-65-1,lezg1247,Lezgi (Mikrakh dialect),1719,куьцуьгун,CyrillTrans,bury (the dead),,,kücügun,Phonemic
+4-770-65-1,lezg1247,Lezgi (Mikrakh dialect),767,мийит,CyrillTrans,corpse,,,miyit,Phonemic
+4-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1417,кьин,CyrillTrans,kill,,,qʼin,Phonemic
+4-751-65-1,lezg1247,Lezgi (Mikrakh dialect),1904,батмиш,CyrillTrans,drowned,,,"batmiš, x̌anway, batmiš x̌ana qʼenwaydi",Phonemic
+4-751-65-3,lezg1247,Lezgi (Mikrakh dialect),1904,хьанвай,CyrillTrans,drowned,,,"batmiš, x̌anway, batmiš x̌ana qʼenwaydi",Phonemic
+4-751-65-5,lezg1247,Lezgi (Mikrakh dialect),1904,батмиш хьана кьенвайди,CyrillTrans,drowned,,,"batmiš, x̌anway, batmiš x̌ana qʼenwaydi",Phonemic
+4-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1494,кьин,CyrillTrans,"die, dead",,,"qʼin, qʼiniqʼ, qʼenway",Phonemic
+4-750-65-3,lezg1247,Lezgi (Mikrakh dialect),1494,кьиникь,CyrillTrans,"die, dead",,,"qʼin, qʼiniqʼ, qʼenway",Phonemic
+4-750-65-5,lezg1247,Lezgi (Mikrakh dialect),1494,кьенвай,CyrillTrans,"die, dead",,,"qʼin, qʼiniqʼ, qʼenway",Phonemic
+4-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1422,йашамиш хьун,CyrillTrans,"live, living, life",,,"yašamiš x̌un, čan yalay ümür",Phonemic
+4-740-65-3,lezg1247,Lezgi (Mikrakh dialect),1422,чан йалай уьмуьр,CyrillTrans,"live, living, life",,,"yašamiš x̌un, čan yalay ümür",Phonemic
+4-732-65-1,lezg1247,Lezgi (Mikrakh dialect),1087,бугъаз хьун,CyrillTrans,conceive,,,buɣaz x̌un,Phonemic
+4-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1123,бугъаз,CyrillTrans,pregnant,,,buɣaz,Phonemic
+4-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1090,хун,CyrillTrans,born (to be),,,xun,Phonemic
+4-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1152,хун,CyrillTrans,beget (of father),,,xun,Phonemic
+4-690-65-1,lezg1247,Lezgi (Mikrakh dialect),138,чуьхуьн,CyrillTrans,bathe,,,čüxün,Phonemic
+4-680-65-1,lezg1247,Lezgi (Mikrakh dialect),52,зурзун,CyrillTrans,shiver,,,zurzun,Phonemic
+4-670-65-1,lezg1247,Lezgi (Mikrakh dialect),1785,расун,CyrillTrans,have sexual intercourse,,,rasun,Phonemic
+4-660-65-1,lezg1247,Lezgi (Mikrakh dialect),676,къециз фин,CyrillTrans,defecate,,,q̄eciz fin,Phonemic
+4-650-65-1,lezg1247,Lezgi (Mikrakh dialect),592,цвар авун,CyrillTrans,urinate,,,cʷar awun,Phonemic
+4-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1159,назардикай хуьн,CyrillTrans,break wind,,,nazardikay xün,Phonemic
+4-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1602,ахварай аватун,CyrillTrans,wake up,,,axʷaray awatun,Phonemic
+4-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1920,ахвар акун,CyrillTrans,dream,,,"axʷar akun, murad tʼalabun",Phonemic
+4-620-65-3,lezg1247,Lezgi (Mikrakh dialect),1920,мурад тІалабун,CyrillTrans,dream,,,"axʷar akun, murad tʼalabun",Phonemic
+4-612-65-1,lezg1247,Lezgi (Mikrakh dialect),1983,хух авун,CyrillTrans,snore,,,xux awun,Phonemic
+4-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1585,кусун,CyrillTrans,sleep,,,kusun,Phonemic
+4-591-65-1,lezg1247,Lezgi (Mikrakh dialect),268,тфу гадарун,CyrillTrans,dribble,,,tfu gadarun,Phonemic
+4-590-65-1,lezg1247,Lezgi (Mikrakh dialect),319,мез гун,CyrillTrans,lick,,,mez gun,Phonemic
+4-580-65-1,lezg1247,Lezgi (Mikrakh dialect),1403,кІас гун,CyrillTrans,bite,,,kʼas gun,Phonemic
+4-570-65-1,lezg1247,Lezgi (Mikrakh dialect),1278,сивихъ атун,CyrillTrans,vomit,,,siwiq atun,Phonemic
+4-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1440,тфу,CyrillTrans,spit,,,tfu,Phonemic
+4-550-65-1,lezg1247,Lezgi (Mikrakh dialect),126,гьекь акъатун,CyrillTrans,perspire,,,heqʼ aq̄atun,Phonemic
+4-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1621,тирш йагъун,CyrillTrans,sneeze,,,tirš yaɣun,Phonemic
+4-530-65-1,lezg1247,Lezgi (Mikrakh dialect),879,уьгьуь йагъун,CyrillTrans,cough,,,ühü yaɣun,Phonemic
+4-521-65-1,lezg1247,Lezgi (Mikrakh dialect),162,мез галкІун,CyrillTrans,hiccough,,,mez galkʼun,Phonemic
+4-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1028,сив алазун,CyrillTrans,"yawn, gape",,,siw alazun,Phonemic
+4-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1407,нефес къачун,CyrillTrans,"breathe, breath",,,nefes q̄ačun,Phonemic
+4-492-65-1,lezg1247,Lezgi (Mikrakh dialect),1222,пуцІ,CyrillTrans,penis,,,"puc’, was",Phonemic
+4-492-65-3,lezg1247,Lezgi (Mikrakh dialect),1222,вас,CyrillTrans,penis,,,"puc’, was",Phonemic
+4-490-65-1,lezg1247,Lezgi (Mikrakh dialect),797,какацІ дебе,CyrillTrans,testicle,,,kakac’ debe,Phonemic
+4-470-65-1,lezg1247,Lezgi (Mikrakh dialect),804,айалдин кІвал,CyrillTrans,womb,,,ayaldin kʼʷal,Phonemic
+4-464-65-1,lezg1247,Lezgi (Mikrakh dialect),834,тум,CyrillTrans,buttocks,,,tum,Phonemic
+4-463-65-1,lezg1247,Lezgi (Mikrakh dialect),1745,йатур,CyrillTrans,hip,,,yatur,Phonemic
+4-462-65-1,lezg1247,Lezgi (Mikrakh dialect),1681,йукь,CyrillTrans,waist,,,yuqʼ,Phonemic
+4-461-65-1,lezg1247,Lezgi (Mikrakh dialect),1991,йацІу рад,CyrillTrans,"intestines, guts",,,yac’u rad,Phonemic
+4-460-65-1,lezg1247,Lezgi (Mikrakh dialect),819,хук,CyrillTrans,stomach,,,xuk,Phonemic
+4-452-65-1,lezg1247,Lezgi (Mikrakh dialect),1744,цуьлез,CyrillTrans,spleen,,,cülez,Phonemic
+4-451-65-1,lezg1247,Lezgi (Mikrakh dialect),489,дуркІун,CyrillTrans,kidney,,,durkʼun,Phonemic
+4-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1224,лекь,CyrillTrans,liver,,,leqʼ,Phonemic
+4-441-65-1,lezg1247,Lezgi (Mikrakh dialect),688,жигер,CyrillTrans,lung,,,žiger,Phonemic
+4-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1223,рикІ,CyrillTrans,heart,,,rikʼ,Phonemic
+4-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1838,пицІ,CyrillTrans,navel,,,pic’,Phonemic
+4-420-65-1,lezg1247,Lezgi (Mikrakh dialect),154,регъуь,CyrillTrans,udder,,,reɣü,Phonemic
+4-412-65-1,lezg1247,Lezgi (Mikrakh dialect),796,мам,CyrillTrans,"nipple, teat",,,mam,Phonemic
+4-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1402,хурар,CyrillTrans,breast (of woman),,,xurar,Phonemic
+4-400-65-1,lezg1247,Lezgi (Mikrakh dialect),1592,хурун кьефес,CyrillTrans,chest,,,xurun qʼefes,Phonemic
+4-393-65-1,lezg1247,Lezgi (Mikrakh dialect),1201,чІакІун,CyrillTrans,feather,,,č’akʼun,Phonemic
+4-392-65-1,lezg1247,Lezgi (Mikrakh dialect),1257,лув,CyrillTrans,wing,,,luw,Phonemic
+4-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1389,тІуб,CyrillTrans,toe,,,tʼub,Phonemic
+4-374-65-1,lezg1247,Lezgi (Mikrakh dialect),318,гел,CyrillTrans,footprint,,,gel,Phonemic
+4-372-65-1,lezg1247,Lezgi (Mikrakh dialect),980,дабан,CyrillTrans,heel,,,daban,Phonemic
+4-371-65-1,lezg1247,Lezgi (Mikrakh dialect),803,кІегьеб,CyrillTrans,ankle,,,kʼeheb,Phonemic
+4-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1301,кІвач,CyrillTrans,foot,,,kʼʷač,Phonemic
+4-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1371,мет,CyrillTrans,knee,,,met,Phonemic
+4-352-65-1,lezg1247,Lezgi (Mikrakh dialect),498,кІвачин руфун,CyrillTrans,calf of leg,,,kʼʷačin rufun,Phonemic
+4-351-65-1,lezg1247,Lezgi (Mikrakh dialect),800,йатур,CyrillTrans,thigh,,,yatur,Phonemic
+4-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1297,кІвач,CyrillTrans,leg,,,kʼʷač,Phonemic
+4-345-65-1,lezg1247,Lezgi (Mikrakh dialect),72,къармах,CyrillTrans,claw,,,q̄armax,Phonemic
+4-344-65-1,lezg1247,Lezgi (Mikrakh dialect),1258,кек,CyrillTrans,fingernail,,,kek,Phonemic
+4-342-65-1,lezg1247,Lezgi (Mikrakh dialect),1781,чІехи тІуб,CyrillTrans,thumb,,,č’exi tʼub,Phonemic
+4-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1303,тІуб,CyrillTrans,finger,,,tʼub,Phonemic
+4-331-65-1,lezg1247,Lezgi (Mikrakh dialect),1183,гъилин йукь,CyrillTrans,palm of hand,,,ɣilin yuqʼ,Phonemic
+4-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1277,гъил,CyrillTrans,hand,,,ɣil,Phonemic
+4-321-65-1,lezg1247,Lezgi (Mikrakh dialect),799,гъилин билек,CyrillTrans,wrist,,,ɣilin bilek,Phonemic
+4-320-65-1,lezg1247,Lezgi (Mikrakh dialect),981,кьуьнтІ,CyrillTrans,elbow,,,qʼüntʼ,Phonemic
+4-312-65-1,lezg1247,Lezgi (Mikrakh dialect),1886,гъилин кІвар,CyrillTrans,armpit,,,ɣilin kʼʷar,Phonemic
+4-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1673,гъил,CyrillTrans,arm,,,ɣil,Phonemic
+4-302-65-1,lezg1247,Lezgi (Mikrakh dialect),1994,къун,CyrillTrans,collarbone,,,q̄ün,Phonemic
+4-301-65-1,lezg1247,Lezgi (Mikrakh dialect),172,къуьнин кьил,CyrillTrans,shoulderblade,,,q̄ünin qʼil,Phonemic
+4-300-65-1,lezg1247,Lezgi (Mikrakh dialect),1482,къуьн,CyrillTrans,shoulder,,,q̄ün,Phonemic
+4-290-65-1,lezg1247,Lezgi (Mikrakh dialect),1346,туьд,CyrillTrans,throat,,,"tüd, tütüx",Phonemic
+4-290-65-3,lezg1247,Lezgi (Mikrakh dialect),1346,туьтуьх,CyrillTrans,throat,,,"tüd, tütüx",Phonemic
+4-281-65-1,lezg1247,Lezgi (Mikrakh dialect),1347,кьам,CyrillTrans,nape of neck,,,qʼam,Phonemic
+4-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1333,гардан,CyrillTrans,neck,,,gardan,Phonemic
+4-272-65-1,lezg1247,Lezgi (Mikrakh dialect),1049,свах,CyrillTrans,molartooth,,,sʷax,Phonemic
+4-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1380,сас,CyrillTrans,tooth,,,sas,Phonemic
+4-271-65-1,lezg1247,Lezgi (Mikrakh dialect),139,хьархьам,CyrillTrans,gums,,,x̌arx̌am,Phonemic
+4-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1205,мез,CyrillTrans,tongue,,,mez,Phonemic
+4-250-65-1,lezg1247,Lezgi (Mikrakh dialect),478,пІуз,CyrillTrans,lip,,,p’uz,Phonemic
+4-241-65-1,lezg1247,Lezgi (Mikrakh dialect),73,кІуф,CyrillTrans,beak,,,kʼuf,Phonemic
+4-240-65-1,lezg1247,Lezgi (Mikrakh dialect),674,сив,CyrillTrans,mouth,,,siw,Phonemic
+4-232-65-1,lezg1247,Lezgi (Mikrakh dialect),208,нер,CyrillTrans,mucus (nasal),,,ner,Phonemic
+4-231-65-1,lezg1247,Lezgi (Mikrakh dialect),1178,нерин шарфар,CyrillTrans,nostril,,,nerin šarfar,Phonemic
+4-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1221,нер,CyrillTrans,nose,,,ner,Phonemic
+4-222-65-1,lezg1247,Lezgi (Mikrakh dialect),32,кьакь,CyrillTrans,earwax,,,qʼaqʼ,Phonemic
+4-221-65-1,lezg1247,Lezgi (Mikrakh dialect),18,йакун кІвенкІ,CyrillTrans,earlobe,,,yakun kʼʷenkʼ,Phonemic
+4-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1247,йаб,CyrillTrans,ear,,,yab,Phonemic
+4-215-65-1,lezg1247,Lezgi (Mikrakh dialect),1655,уьлер агажун,CyrillTrans,blink,,,üler agažun,Phonemic
+4-214-65-1,lezg1247,Lezgi (Mikrakh dialect),1540,кІалкІам,CyrillTrans,eyelash,,,kʼalkʼam,Phonemic
+4-213-65-1,lezg1247,Lezgi (Mikrakh dialect),17,вилин къабух,CyrillTrans,eyelid,,,wilin q̄abux,Phonemic
+4-212-65-1,lezg1247,Lezgi (Mikrakh dialect),1173,гулцІам,CyrillTrans,eyebrow,,,gulc’am,Phonemic
+4-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1248,уь,CyrillTrans,eye,,,ü,Phonemic
+4-208-65-1,lezg1247,Lezgi (Mikrakh dialect),1730,хъвехъ,CyrillTrans,cheek,,,qʷeq,Phonemic
+4-209-65-1,lezg1247,Lezgi (Mikrakh dialect),1510,ченедин кІан,CyrillTrans,chin,,,čenedin kʼan,Phonemic
+4-205-65-1,lezg1247,Lezgi (Mikrakh dialect),123,пел,CyrillTrans,forehead,,,pel,Phonemic
+4-207-65-1,lezg1247,Lezgi (Mikrakh dialect),798,рехъвер,CyrillTrans,jaw,,,reqʷer,Phonemic
+4-204-65-1,lezg1247,Lezgi (Mikrakh dialect),1560,чин,CyrillTrans,face,,,čin,Phonemic
+4-203-65-1,lezg1247,Lezgi (Mikrakh dialect),1583,маст,CyrillTrans,brain,,,mast,Phonemic
+4-201-65-1,lezg1247,Lezgi (Mikrakh dialect),1604,чІвел,CyrillTrans,"side of head, temple",,,č’ʷel,Phonemic
+4-202-65-1,lezg1247,Lezgi (Mikrakh dialect),1605,кьил,CyrillTrans,skull,,,qʼil,Phonemic
+4-200-65-1,lezg1247,Lezgi (Mikrakh dialect),1256,кьил,CyrillTrans,head,,,qʼil,Phonemic
+4-191-65-1,lezg1247,Lezgi (Mikrakh dialect),805,йукьван тар,CyrillTrans,spine,,,yuqʼʷan tar,Phonemic
+4-190-65-1,lezg1247,Lezgi (Mikrakh dialect),1291,далу,CyrillTrans,back,,,dalu,Phonemic
+4-180-65-1,lezg1247,Lezgi (Mikrakh dialect),1220,тум,CyrillTrans,tail,,,tum,Phonemic
+4-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1393,карч,CyrillTrans,horn,,,karč,Phonemic
+4-162-65-1,lezg1247,Lezgi (Mikrakh dialect),801,пакван тІвал,CyrillTrans,rib,,,pakʷan tʼʷal,Phonemic
+4-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1394,кІараб,CyrillTrans,bone,,,kʼarab,Phonemic
+4-151-65-1,lezg1247,Lezgi (Mikrakh dialect),525,дам,CyrillTrans,"vein, artery",,,dam,Phonemic
+4-150-65-1,lezg1247,Lezgi (Mikrakh dialect),946,нви,CyrillTrans,blood,,,nwi,Phonemic
+4-146-65-1,lezg1247,Lezgi (Mikrakh dialect),576,кан,CyrillTrans,dandruff,,,kan,Phonemic
+4-145-65-1,lezg1247,Lezgi (Mikrakh dialect),36,чІар,CyrillTrans,pubic hair,,,č’ar,Phonemic
+4-144-65-1,lezg1247,Lezgi (Mikrakh dialect),189,чІар,CyrillTrans,body hair,,,č’ar,Phonemic
+4-142-65-1,lezg1247,Lezgi (Mikrakh dialect),678,чуру,CyrillTrans,beard,,,čuru,Phonemic
+4-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1040,чІар,CyrillTrans,hair (head),,,č’ar,Phonemic
+4-130-65-1,lezg1247,Lezgi (Mikrakh dialect),2259,беден,CyrillTrans,flesh,,,beden,Phonemic
+4-120-65-1,lezg1247,Lezgi (Mikrakh dialect),763,хала,CyrillTrans,"skin, hide",,,xala,Phonemic
+4-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1480,беден,CyrillTrans,body,,,"beden, žendek",Phonemic
+4-110-65-3,lezg1247,Lezgi (Mikrakh dialect),1480,жендек,CyrillTrans,body,,,"beden, žendek",Phonemic
+3-980-65-1,lezg1247,Lezgi (Mikrakh dialect),112,кІвал алай къиб,CyrillTrans,turtle,,,kʼʷal alay q̄ib,Phonemic
+3-970-65-1,lezg1247,Lezgi (Mikrakh dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-65-1,lezg1247,Lezgi (Mikrakh dialect),632,хуьрлуьнкІ,CyrillTrans,lizard,,,xürlünkʼ,Phonemic
+3-950-65-1,lezg1247,Lezgi (Mikrakh dialect),503,къиб,CyrillTrans,frog,,,q̄ib,Phonemic
+3-940-65-1,lezg1247,Lezgi (Mikrakh dialect),1543,бенбецІ,CyrillTrans,snail,,,benbec’,Phonemic
+3-930-65-1,lezg1247,Lezgi (Mikrakh dialect),607,цІицІ,CyrillTrans,grasshopper,,,c’ic’,Phonemic
+3-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1791,билбил,CyrillTrans,butterfly,,,bilbil,Phonemic
+3-910-65-1,lezg1247,Lezgi (Mikrakh dialect),206,мичІи чкада,CyrillTrans,firefly,,,mič’i čkada,Phonemic
+3-850-65-1,lezg1247,Lezgi (Mikrakh dialect),730,мурдар,CyrillTrans,snake,,,murdar,Phonemic
+3-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1219,пІаркІв,CyrillTrans,worm,,,p’arkʼʷ,Phonemic
+3-832-65-1,lezg1247,Lezgi (Mikrakh dialect),1509,тІетІ,CyrillTrans,mosquito,,,tʼetʼ,Phonemic
+3-831-65-1,lezg1247,Lezgi (Mikrakh dialect),95,ветІ,CyrillTrans,"sandfly (midge), gnat",,,wetʼ,Phonemic
+3-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1504,тІватІ,CyrillTrans,fly,,,tʼʷatʼ,Phonemic
+3-823-65-1,lezg1247,Lezgi (Mikrakh dialect),1517,чІуру чІиж,CyrillTrans,wasp,,,č’uru č’iž,Phonemic
+3-822-65-1,lezg1247,Lezgi (Mikrakh dialect),88,куьнуь,CyrillTrans,beehive,,,künü,Phonemic
+3-821-65-1,lezg1247,Lezgi (Mikrakh dialect),1931,мум,CyrillTrans,beeswax,,,mum,Phonemic
+3-820-65-1,lezg1247,Lezgi (Mikrakh dialect),665,чІиж,CyrillTrans,bee,,,č’iž,Phonemic
+3-819-65-1,lezg1247,Lezgi (Mikrakh dialect),1065,магьманшахди,CyrillTrans,spider web,,,"mahmanšaxdi, yanaway čil",Phonemic
+3-819-65-3,lezg1247,Lezgi (Mikrakh dialect),1065,йанавай чил,CyrillTrans,spider web,,,"mahmanšaxdi, yanaway čil",Phonemic
+3-818-65-1,lezg1247,Lezgi (Mikrakh dialect),843,магьманшах,CyrillTrans,spider,,,mahmanšax,Phonemic
+3-817-65-1,lezg1247,Lezgi (Mikrakh dialect),587,цвез,CyrillTrans,ant,,,cʷez,Phonemic
+3-816-65-1,lezg1247,Lezgi (Mikrakh dialect),1575,тІаракІан,CyrillTrans,cockroach,,,tʼarakʼan,Phonemic
+3-815-65-1,lezg1247,Lezgi (Mikrakh dialect),1538,экьреб,CyrillTrans,scorpion,,,eqʼreb,Phonemic
+3-814-65-1,lezg1247,Lezgi (Mikrakh dialect),1974,пІаркІв,CyrillTrans,centipede,,,p’arkʼʷ,Phonemic
+3-813-65-1,lezg1247,Lezgi (Mikrakh dialect),232,чІит,CyrillTrans,flea,,,č’it,Phonemic
+3-812-65-1,lezg1247,Lezgi (Mikrakh dialect),267,цІерцІел,CyrillTrans,nit (louse egg),,,c’erc’el,Phonemic
+3-811-65-1,lezg1247,Lezgi (Mikrakh dialect),1392,нет,CyrillTrans,louse,,,net,Phonemic
+3-810-65-1,lezg1247,Lezgi (Mikrakh dialect),620,тІветІ,CyrillTrans,insect,,,tʼʷetʼ,Phonemic
+3-780-65-1,lezg1247,Lezgi (Mikrakh dialect),1871,деве,CyrillTrans,camel,,,dewe,Phonemic
+3-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1936,мирг,CyrillTrans,deer,,,mirg,Phonemic
+3-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1312,сикІ,CyrillTrans,fox,,,"sikʼ, diši sikʼ",Phonemic
+3-740-65-3,lezg1247,Lezgi (Mikrakh dialect),1312,диши сикІ,CyrillTrans,fox,,,"sikʼ, diši sikʼ",Phonemic
+3-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1820,сев,CyrillTrans,bear,,,sew,Phonemic
+3-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-65-1,lezg1247,Lezgi (Mikrakh dialect),522,жанавур,CyrillTrans,wolf,,,žanawur,Phonemic
+3-663-65-1,lezg1247,Lezgi (Mikrakh dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-65-1,lezg1247,Lezgi (Mikrakh dialect),1479,гьуьлуьн кицІ,CyrillTrans,"porpoise, dolphin",,,"hülün kic’, delʲfin",Phonemic
+3-662-65-3,lezg1247,Lezgi (Mikrakh dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,"hülün kic’, delʲfin",Phonemic
+3-661-65-1,lezg1247,Lezgi (Mikrakh dialect),1110,наха балугъ,CyrillTrans,shark,,,"naxa baluɣ, akula",Phonemic
+3-661-65-3,lezg1247,Lezgi (Mikrakh dialect),1110,акула,CyrillTrans,shark,,,"naxa baluɣ, akula",Phonemic
+3-655-65-1,lezg1247,Lezgi (Mikrakh dialect),598,чивел,CyrillTrans,shell,,,čiwel,Phonemic
+3-654-65-1,lezg1247,Lezgi (Mikrakh dialect),1916,йапар,CyrillTrans,gill,,,yapar,Phonemic
+3-653-65-1,lezg1247,Lezgi (Mikrakh dialect),266,кІараб,CyrillTrans,fishscale,,,kʼarab,Phonemic
+3-652-65-1,lezg1247,Lezgi (Mikrakh dialect),213,балугъдин лув,CyrillTrans,fin (dorsal),,,baluɣdin luw,Phonemic
+3-650-65-1,lezg1247,Lezgi (Mikrakh dialect),227,балугъ,CyrillTrans,fish,,,"baluɣ, kʼizri",Phonemic
+3-650-65-3,lezg1247,Lezgi (Mikrakh dialect),227,кІизри,CyrillTrans,fish,,,"baluɣ, kʼizri",Phonemic
+3-630-65-1,lezg1247,Lezgi (Mikrakh dialect),2139,кьиф,CyrillTrans,"mouse, rat",,,"qʼif, cimil qʼif",Phonemic
+3-630-65-3,lezg1247,Lezgi (Mikrakh dialect),2139,цимил кьиф,CyrillTrans,"mouse, rat",,,"qʼif, cimil qʼif",Phonemic
+3-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1208,кац,CyrillTrans,cat,,,"kac, pen",Phonemic
+3-620-65-3,lezg1247,Lezgi (Mikrakh dialect),1208,пен,CyrillTrans,cat,,,"kac, pen",Phonemic
+3-614-65-1,lezg1247,Lezgi (Mikrakh dialect),1136,гъилин къуьр,CyrillTrans,rabbit,,,ɣilin q̄ür,Phonemic
+3-610-65-1,lezg1247,Lezgi (Mikrakh dialect),2009,кицІ,CyrillTrans,dog,,,kic’,Phonemic
+3-594-65-1,lezg1247,Lezgi (Mikrakh dialect),1853,лиф,CyrillTrans,dove,,,lif,Phonemic
+3-596-65-1,lezg1247,Lezgi (Mikrakh dialect),735,тІиб,CyrillTrans,owl,,,tʼib,Phonemic
+3-593-65-1,lezg1247,Lezgi (Mikrakh dialect),913,пехъ,CyrillTrans,crow,,,peq,Phonemic
+3-592-65-1,lezg1247,Lezgi (Mikrakh dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-65-1,lezg1247,Lezgi (Mikrakh dialect),1793,кьаркьулув,CyrillTrans,bat,,,qʼarqʼuluw,Phonemic
+3-586-65-1,lezg1247,Lezgi (Mikrakh dialect),1185,къузгъун,CyrillTrans,vulture,,,q̄uzɣun,Phonemic
+3-585-65-1,lezg1247,Lezgi (Mikrakh dialect),307,липІлипІ,CyrillTrans,hawk,,,"lip’lip’, leqʼ",Phonemic
+3-585-65-3,lezg1247,Lezgi (Mikrakh dialect),307,лекь,CyrillTrans,hawk,,,"lip’lip’, leqʼ",Phonemic
+3-584-65-1,lezg1247,Lezgi (Mikrakh dialect),1905,къузгъун,CyrillTrans,eagle,,,q̄uzɣun,Phonemic
+3-582-65-1,lezg1247,Lezgi (Mikrakh dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-65-1,lezg1247,Lezgi (Mikrakh dialect),758,чІехи къуш,CyrillTrans,heron,,,č’exi q̄uš,Phonemic
+3-581-65-1,lezg1247,Lezgi (Mikrakh dialect),937,къуш,CyrillTrans,bird,,,q̄uš,Phonemic
+3-580-65-1,lezg1247,Lezgi (Mikrakh dialect),539,муг,CyrillTrans,nest,,,mug,Phonemic
+3-570-65-1,lezg1247,Lezgi (Mikrakh dialect),1360,уьрдег,CyrillTrans,duck,,,ürdeg,Phonemic
+3-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1187,къаз,CyrillTrans,goose,,,q̄az,Phonemic
+3-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1318,цицІиб,CyrillTrans,chicken,,,cic’ib,Phonemic
+3-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1514,верч,CyrillTrans,hen,,,werč,Phonemic
+3-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1511,кІек,CyrillTrans,"cock, rooster",,,kʼek,Phonemic
+3-470-65-1,lezg1247,Lezgi (Mikrakh dialect),890,къатир,CyrillTrans,mule,,,q̄atir,Phonemic
+3-500-65-1,lezg1247,Lezgi (Mikrakh dialect),265,кІвалин къушир,CyrillTrans,fowl,,,kʼʷalin q̄ušir,Phonemic
+3-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1862,лам,CyrillTrans,"ass, donkey",,,lam,Phonemic
+3-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1647,тай,CyrillTrans,"foal, colt",,,"tay, talinc’",Phonemic
+3-450-65-3,lezg1247,Lezgi (Mikrakh dialect),1647,талинцІ,CyrillTrans,"foal, colt",,,"tay, talinc’",Phonemic
+3-440-65-1,lezg1247,Lezgi (Mikrakh dialect),938,хвар,CyrillTrans,mare,,,xʷar,Phonemic
+3-420-65-1,lezg1247,Lezgi (Mikrakh dialect),936,эркек балкІан,CyrillTrans,stallion,,,erkek balkʼan,Phonemic
+3-410-65-1,lezg1247,Lezgi (Mikrakh dialect),615,балкІан,CyrillTrans,horse (equine),,,balkʼan,Phonemic
+3-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1972,бацІи,CyrillTrans,kid,,,bac’i,Phonemic
+3-370-65-1,lezg1247,Lezgi (Mikrakh dialect),264,кьун,CyrillTrans,he-goat,,,qʼun,Phonemic
+3-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1502,цІегь,CyrillTrans,goat,,,c’eh,Phonemic
+3-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1337,вак,CyrillTrans,pig,,,wak,Phonemic
+3-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1351,вак,CyrillTrans,sow (2),,,"wak, diši wak",Phonemic
+3-340-65-3,lezg1247,Lezgi (Mikrakh dialect),1351,диши вак,CyrillTrans,sow (2),,,"wak, diši wak",Phonemic
+3-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1348,къабан,CyrillTrans,boar,,,q̄aban,Phonemic
+3-290-65-1,lezg1247,Lezgi (Mikrakh dialect),820,кел,CyrillTrans,lamb,,,kel,Phonemic
+3-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1345,хеб,CyrillTrans,ewe,,,xeb,Phonemic
+3-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1344,гьер,CyrillTrans,ram,,,her,Phonemic
+3-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1331,хеб,CyrillTrans,sheep,,,"xeb, her (lapag)",Phonemic
+3-250-65-3,lezg1247,Lezgi (Mikrakh dialect),1331,гьер (лапаг),CyrillTrans,sheep,,,"xeb, her (lapag)",Phonemic
+3-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1989,дана,CyrillTrans,calf,,,dana,Phonemic
+3-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1007,кал,CyrillTrans,cow,,,kal,Phonemic
+3-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1169,йац,CyrillTrans,ox,,,yac,Phonemic
+3-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1008,йац,CyrillTrans,bull,,,yac,Phonemic
+3-200-65-1,lezg1247,Lezgi (Mikrakh dialect),1153,къарамал,CyrillTrans,cattle (bovine),,,q̄aramal,Phonemic
+3-190-65-1,lezg1247,Lezgi (Mikrakh dialect),851,цур,CyrillTrans,"stable, stall",,,"cur, tewle",Phonemic
+3-190-65-3,lezg1247,Lezgi (Mikrakh dialect),851,тевле,CyrillTrans,"stable, stall",,,"cur, tewle",Phonemic
+3-180-65-1,lezg1247,Lezgi (Mikrakh dialect),263,нехирхъан,CyrillTrans,herdsman,,,nexirqan,Phonemic
+3-160-65-1,lezg1247,Lezgi (Mikrakh dialect),649,йайлах,CyrillTrans,pasture,,,yaylax,Phonemic
+3-150-65-1,lezg1247,Lezgi (Mikrakh dialect),631,мал,CyrillTrans,livestock,,,mal,Phonemic
+3-130-65-1,lezg1247,Lezgi (Mikrakh dialect),2262,дишегьлидин,CyrillTrans,female (adj),,,dišehlidin,Phonemic
+3-120-65-1,lezg1247,Lezgi (Mikrakh dialect),2261,итимдин,CyrillTrans,male (adj),,,itimdin,Phonemic
+3-110-65-1,lezg1247,Lezgi (Mikrakh dialect),619,гьайван,CyrillTrans,animal,,,haywan,Phonemic
+2-960-65-1,lezg1247,Lezgi (Mikrakh dialect),817,абур,CyrillTrans,they,,,abur,Phonemic
+2-950-65-1,lezg1247,Lezgi (Mikrakh dialect),1213,чуьн,CyrillTrans,you (plural),,,čün,Phonemic
+2-940-65-1,lezg1247,Lezgi (Mikrakh dialect),1212,чун,CyrillTrans,we,,,čun,Phonemic
+2-930-65-1,lezg1247,Lezgi (Mikrakh dialect),262,ам,CyrillTrans,he/she/it,,,am,Phonemic
+2-920-65-1,lezg1247,Lezgi (Mikrakh dialect),1215,вун,CyrillTrans,you (singular),,,wun,Phonemic
+2-910-65-1,lezg1247,Lezgi (Mikrakh dialect),1209,зун,CyrillTrans,I,,,zun,Phonemic
+2-820-65-1,lezg1247,Lezgi (Mikrakh dialect),194,хзан,CyrillTrans,family,,,xzan,Phonemic
+2-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1644,мукьва-кьилийар,CyrillTrans,"relatives, kinsmen",,,muqʼʷa-qʼiliyar,Phonemic
+2-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1981,хендеда,CyrillTrans,widower,,,xendeda,Phonemic
+2-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1756,хендеда,CyrillTrans,widow,,,xendeda,Phonemic
+2-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1058,тахай руш,CyrillTrans,stepdaughter,,,taxay ruš,Phonemic
+2-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1059,тахай хва,CyrillTrans,stepson,,,taxay xʷa,Phonemic
+2-720-65-1,lezg1247,Lezgi (Mikrakh dialect),236,тахай диде,CyrillTrans,stepmother,,,taxay dide,Phonemic
+2-710-65-1,lezg1247,Lezgi (Mikrakh dialect),237,тахай буба,CyrillTrans,stepfather,,,taxay buba,Phonemic
+2-641-65-1,lezg1247,Lezgi (Mikrakh dialect),2264,свас,CyrillTrans,daughter-in-law (of a woman),,,sʷas,Phonemic
+2-640-65-1,lezg1247,Lezgi (Mikrakh dialect),2265,свас,CyrillTrans,daughter-in-law (of a man),,,sʷas,Phonemic
+2-631-65-1,lezg1247,Lezgi (Mikrakh dialect),2266,йезне,CyrillTrans,son-in-law (of a woman),,,yezne,Phonemic
+2-630-65-1,lezg1247,Lezgi (Mikrakh dialect),2267,йезне,CyrillTrans,son-in-law (of a man),,,yezne,Phonemic
+2-621-65-1,lezg1247,Lezgi (Mikrakh dialect),2257,йаран диде,CyrillTrans,mother-in-law (of a woman),,,yaran dide,Phonemic
+2-620-65-1,lezg1247,Lezgi (Mikrakh dialect),2256,къари,CyrillTrans,mother-in-law (of a man),,,q̄ari,Phonemic
+2-611-65-1,lezg1247,Lezgi (Mikrakh dialect),2254,йаран буба,CyrillTrans,father-in-law (of a woman),,,yaran buba,Phonemic
+2-610-65-1,lezg1247,Lezgi (Mikrakh dialect),2255,апай,CyrillTrans,father-in-law (of a man),,,apay,Phonemic
+2-570-65-1,lezg1247,Lezgi (Mikrakh dialect),490,несилар,CyrillTrans,descendants,,,nesilar,Phonemic
+2-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1669,чІехи бубайар,CyrillTrans,ancestors,,,č’exi bubayar,Phonemic
+2-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1643,имидин хва,CyrillTrans,cousin,,,"imidin xʷa, imidin ruš",Phonemic
+2-550-65-3,lezg1247,Lezgi (Mikrakh dialect),1643,имидин руш,CyrillTrans,cousin,,,"imidin xʷa, imidin ruš",Phonemic
+2-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1642,хтул руш,CyrillTrans,niece,,,xtul ruš,Phonemic
+2-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1063,хтул,CyrillTrans,nephew,,,xtul,Phonemic
+2-522-65-1,lezg1247,Lezgi (Mikrakh dialect),170,эме,CyrillTrans,father's sister,,,eme,Phonemic
+2-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1272,эме,CyrillTrans,aunt,,,eme,Phonemic
+2-521-65-1,lezg1247,Lezgi (Mikrakh dialect),171,эме,CyrillTrans,mother's sister,,,eme,Phonemic
+2-512-65-1,lezg1247,Lezgi (Mikrakh dialect),1985,ими,CyrillTrans,father's brother,,,imi,Phonemic
+2-511-65-1,lezg1247,Lezgi (Mikrakh dialect),1984,халу,CyrillTrans,mother's brother,,,xalu,Phonemic
+2-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1327,халу,CyrillTrans,uncle,,,xalu,Phonemic
+2-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1618,хтул,CyrillTrans,grandson,,,xtul,Phonemic
+2-490-65-1,lezg1247,Lezgi (Mikrakh dialect),1619,хтул руш,CyrillTrans,granddaughter,,,xtul ruš,Phonemic
+2-471-65-1,lezg1247,Lezgi (Mikrakh dialect),907,къари,CyrillTrans,old woman,,,q̄ari,Phonemic
+2-470-65-1,lezg1247,Lezgi (Mikrakh dialect),1496,баде,CyrillTrans,grandmother,,,bade,Phonemic
+2-461-65-1,lezg1247,Lezgi (Mikrakh dialect),406,кьуьзек,CyrillTrans,old man,,,qʼüzek,Phonemic
+2-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1383,чІехи буба,CyrillTrans,grandfather,,,č’exi buba,Phonemic
+2-458-65-1,lezg1247,Lezgi (Mikrakh dialect),1005,кьведхверар,CyrillTrans,twins,,,qʼʷedxʷerar,Phonemic
+2-456-65-1,lezg1247,Lezgi (Mikrakh dialect),1640,стха-вах,CyrillTrans,sibling,,,stxa-wax,Phonemic
+2-455-65-1,lezg1247,Lezgi (Mikrakh dialect),1761,гъвечІи вах,CyrillTrans,younger sister,,,ɣʷeč’i wax,Phonemic
+2-454-65-1,lezg1247,Lezgi (Mikrakh dialect),1758,чІехи вах,CyrillTrans,older sister,,,č’exi wax,Phonemic
+2-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1263,вах,CyrillTrans,sister,,,wax,Phonemic
+2-445-65-1,lezg1247,Lezgi (Mikrakh dialect),1760,гъвечІи стха,CyrillTrans,younger brother,,,ɣʷeč’i stxa,Phonemic
+2-444-65-1,lezg1247,Lezgi (Mikrakh dialect),1759,чІехи стха,CyrillTrans,older brother,,,č’exi stxa,Phonemic
+2-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1262,стха,CyrillTrans,brother,,,stxa,Phonemic
+2-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1801,айалар,CyrillTrans,offspring (son or daughter),,,"ayalar, nesil",Phonemic
+2-430-65-3,lezg1247,Lezgi (Mikrakh dialect),1801,несил,CyrillTrans,offspring (son or daughter),,,"ayalar, nesil",Phonemic
+2-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1357,руш,CyrillTrans,daughter,,,ruš,Phonemic
+2-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1620,хва,CyrillTrans,son,,,xʷa,Phonemic
+2-390-65-1,lezg1247,Lezgi (Mikrakh dialect),426,гъуьлуьк квай,CyrillTrans,married woman,,,ɣülük kʷay,Phonemic
+2-380-65-1,lezg1247,Lezgi (Mikrakh dialect),424,эвлемиш хьанвай,CyrillTrans,married man,,,ewlemiš x̌anway,Phonemic
+2-370-65-1,lezg1247,Lezgi (Mikrakh dialect),505,буба-диде,CyrillTrans,parents,,,buba-dide,Phonemic
+2-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1216,диде,CyrillTrans,mother,,,dide,Phonemic
+2-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1217,буба,CyrillTrans,father,,,buba,Phonemic
+2-341-65-1,lezg1247,Lezgi (Mikrakh dialect),1134,чара хъхьун,CyrillTrans,divorce,,,čara qx̌un,Phonemic
+2-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1259,мехъер,CyrillTrans,"marriage, wedding",,,"meqer, mahar",Phonemic
+2-340-65-3,lezg1247,Lezgi (Mikrakh dialect),1259,магьар,CyrillTrans,"marriage, wedding",,,"meqer, mahar",Phonemic
+2-330-65-1,lezg1247,Lezgi (Mikrakh dialect),203,эвлемиш хьун,CyrillTrans,marry,,,"ewlemiš x̌un, ɣülüz fin",Phonemic
+2-330-65-3,lezg1247,Lezgi (Mikrakh dialect),203,гъуьлуьз фин,CyrillTrans,marry,,,"ewlemiš x̌un, ɣülüz fin",Phonemic
+2-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1199,паб,CyrillTrans,wife,,,pab,Phonemic
+2-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1200,гуьл,CyrillTrans,husband,,,gül,Phonemic
+2-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1289,чагъа айал,CyrillTrans,"infant, baby",,,čaɣa ayal,Phonemic
+2-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1304,айал,CyrillTrans,child,,,ayal,Phonemic
+2-261-65-1,lezg1247,Lezgi (Mikrakh dialect),77,руш,CyrillTrans,young woman (adolescent),,,ruš,Phonemic
+2-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1646,гъвечІи руш,CyrillTrans,girl,,,ɣʷeč’i ruš,Phonemic
+2-251-65-1,lezg1247,Lezgi (Mikrakh dialect),76,жегьил,CyrillTrans,young man (adolescent),,,"žehil, žehil insan",Phonemic
+2-251-65-3,lezg1247,Lezgi (Mikrakh dialect),76,жегьил инсан,CyrillTrans,young man (adolescent),,,"žehil, žehil insan",Phonemic
+2-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1366,гада,CyrillTrans,boy,,,gada,Phonemic
+2-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1551,диши,CyrillTrans,female,,,diši,Phonemic
+2-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1553,эркек,CyrillTrans,male,,,erkek,Phonemic
+2-220-65-1,lezg1247,Lezgi (Mikrakh dialect),962,дишегьли,CyrillTrans,woman,,,dišehli,Phonemic
+2-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1554,итим,CyrillTrans,man (vs. woman),,,itim,Phonemic
+2-100-65-1,lezg1247,Lezgi (Mikrakh dialect),683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-65-1,lezg1247,Lezgi (Mikrakh dialect),1188,кІарас цІивин,CyrillTrans,charcoal,,,kʼaras c’iwin,Phonemic
+1-880-65-1,lezg1247,Lezgi (Mikrakh dialect),10,кІарасар,CyrillTrans,firewood,,,kʼarasar,Phonemic
+1-870-65-1,lezg1247,Lezgi (Mikrakh dialect),1133,кирбит,CyrillTrans,match (noun),,,kirbit,Phonemic
+1-861-65-1,lezg1247,Lezgi (Mikrakh dialect),127,хкадарун,CyrillTrans,extinguish,,,xkadarun,Phonemic
+1-860-65-1,lezg1247,Lezgi (Mikrakh dialect),737,цІай кутун,CyrillTrans,"light, kindle, ignite",,,"c’ay kutun, c’ay qʼun",Phonemic
+1-860-65-3,lezg1247,Lezgi (Mikrakh dialect),737,цІай кьун,CyrillTrans,"light, kindle, ignite",,,"c’ay kutun, c’ay qʼun",Phonemic
+1-852-65-1,lezg1247,Lezgi (Mikrakh dialect),1428,туькьуьлвал,CyrillTrans,burn (vb intrans),,,tüqʼülwal,Phonemic
+1-851-65-1,lezg1247,Lezgi (Mikrakh dialect),141,кун,CyrillTrans,burn (vb trans),,,kun,Phonemic
+1-841-65-1,lezg1247,Lezgi (Mikrakh dialect),67,цІун цукІвар,CyrillTrans,embers,,,c’un cukʼʷar,Phonemic
+1-840-65-1,lezg1247,Lezgi (Mikrakh dialect),646,руьхъ,CyrillTrans,ashes,,,rüq,Phonemic
+1-830-65-1,lezg1247,Lezgi (Mikrakh dialect),778,гум,CyrillTrans,smoke (noun),,,gum,Phonemic
+1-820-65-1,lezg1247,Lezgi (Mikrakh dialect),889,йалав,CyrillTrans,flame (noun),,,yalaw,Phonemic
+1-810-65-1,lezg1247,Lezgi (Mikrakh dialect),221,цІай,CyrillTrans,fire,,,c’ay,Phonemic
+1-780-65-1,lezg1247,Lezgi (Mikrakh dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-65-1,lezg1247,Lezgi (Mikrakh dialect),617,мурк,CyrillTrans,ice,,,"murk, mur yaɣun",Phonemic
+1-770-65-3,lezg1247,Lezgi (Mikrakh dialect),617,мур йагъун,CyrillTrans,ice,,,"murk, mur yaɣun",Phonemic
+1-760-65-1,lezg1247,Lezgi (Mikrakh dialect),784,жив,CyrillTrans,snow (noun),,,žiw,Phonemic
+1-750-65-1,lezg1247,Lezgi (Mikrakh dialect),658,къвал,CyrillTrans,rain (noun),,,q̄ʷal,Phonemic
+1-740-65-1,lezg1247,Lezgi (Mikrakh dialect),249,циф,CyrillTrans,fog,,,cif,Phonemic
+1-720-65-1,lezg1247,Lezgi (Mikrakh dialect),960,гар,CyrillTrans,wind,,,gar,Phonemic
+1-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1489,булут,CyrillTrans,cloud,,,"bulut, cif",Phonemic
+1-730-65-3,lezg1247,Lezgi (Mikrakh dialect),1489,циф,CyrillTrans,cloud,,,"bulut, cif",Phonemic
+1-710-65-1,lezg1247,Lezgi (Mikrakh dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1977,чиг,CyrillTrans,dew,,,čig,Phonemic
+1-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1388,эхъвен,CyrillTrans,"shade, shadow",,,eqʷen,Phonemic
+1-620-65-1,lezg1247,Lezgi (Mikrakh dialect),11,мичІ мичІивал,CyrillTrans,darkness,,,mič’ mič’iwal,Phonemic
+1-610-65-1,lezg1247,Lezgi (Mikrakh dialect),630,экв,CyrillTrans,light (noun),,,ekʷ,Phonemic
+1-590-65-1,lezg1247,Lezgi (Mikrakh dialect),1733,йаргъируш,CyrillTrans,rainbow,,,yarɣiruš,Phonemic
+1-580-65-1,lezg1247,Lezgi (Mikrakh dialect),858,тІурфан,CyrillTrans,storm,,,tʼurfan,Phonemic
+1-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1150,цав рахун,CyrillTrans,thunder,,,caw raxun,Phonemic
+1-570-65-1,lezg1247,Lezgi (Mikrakh dialect),2007,цІайлапан,CyrillTrans,lightning (as striking),,,c’aylapan,Phonemic
+1-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1654,цІайлапан,CyrillTrans,lightning,,,c’aylapan,Phonemic
+1-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1430,гъед,CyrillTrans,star,,,ɣed,Phonemic
+1-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1313,варз,CyrillTrans,moon,,,warz,Phonemic
+1-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1343,рагъ,CyrillTrans,sun,,,raɣ,Phonemic
+1-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1732,цав,CyrillTrans,sky,,,caw,Phonemic
+1-450-65-1,lezg1247,Lezgi (Mikrakh dialect),6,залзалаг,CyrillTrans,earthquake,,,zalzalag,Phonemic
+1-440-65-1,lezg1247,Lezgi (Mikrakh dialect),2125,къван,CyrillTrans,"stone, rock",,,"q̄ʷan, rag",Phonemic
+1-440-65-3,lezg1247,Lezgi (Mikrakh dialect),2125,раг,CyrillTrans,"stone, rock",,,"q̄ʷan, rag",Phonemic
+1-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1803,кІарас,CyrillTrans,wood,,,kʼaras,Phonemic
+1-420-65-1,lezg1247,Lezgi (Mikrakh dialect),906,тар,CyrillTrans,tree (cf 08.600),,,tar,Phonemic
+1-410-65-1,lezg1247,Lezgi (Mikrakh dialect),420,там,CyrillTrans,"woods, forest",,,"tam, ruk",Phonemic
+1-410-65-3,lezg1247,Lezgi (Mikrakh dialect),420,рук,CyrillTrans,"woods, forest",,,"tam, ruk",Phonemic
+1-390-65-1,lezg1247,Lezgi (Mikrakh dialect),943,чарчар,CyrillTrans,waterfall,,,čarčar,Phonemic
+1-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1145,уьлен,CyrillTrans,swamp,,,ülen,Phonemic
+1-370-65-1,lezg1247,Lezgi (Mikrakh dialect),2144,булах,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-370-65-3,lezg1247,Lezgi (Mikrakh dialect),2144,чешме,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-370-65-5,lezg1247,Lezgi (Mikrakh dialect),2144,къуй,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-362-65-1,lezg1247,Lezgi (Mikrakh dialect),1982,вацІун дегьне,CyrillTrans,whirlpool,,,wac’un dehne,Phonemic
+1-360-65-1,lezg1247,Lezgi (Mikrakh dialect),666,вацІ,CyrillTrans,"river, stream, brook",,,"wac’, sel, kʼam",Phonemic
+1-360-65-3,lezg1247,Lezgi (Mikrakh dialect),666,сел,CyrillTrans,"river, stream, brook",,,"wac’, sel, kʼam",Phonemic
+1-360-65-5,lezg1247,Lezgi (Mikrakh dialect),666,кІам,CyrillTrans,"river, stream, brook",,,"wac’, sel, kʼam",Phonemic
+1-350-65-1,lezg1247,Lezgi (Mikrakh dialect),978,лепе,CyrillTrans,wave,,,lepe,Phonemic
+1-340-65-1,lezg1247,Lezgi (Mikrakh dialect),663,вир,CyrillTrans,"gulf, bay",,,wir,Phonemic
+1-330-65-1,lezg1247,Lezgi (Mikrakh dialect),624,вир,CyrillTrans,lake,,,wir,Phonemic
+1-329-65-1,lezg1247,Lezgi (Mikrakh dialect),645,озеро,CyrillTrans,ocean,,,okean,Phonemic
+1-324-65-1,lezg1247,Lezgi (Mikrakh dialect),1768,каф,CyrillTrans,foam,,,kaf,Phonemic
+1-323-65-1,lezg1247,Lezgi (Mikrakh dialect),259,лепе алай,CyrillTrans,rough (of sea),,,lepe alay,Phonemic
+1-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1474,гьуьл,CyrillTrans,sea,,,hül,Phonemic
+1-322-65-1,lezg1247,Lezgi (Mikrakh dialect),258,секин,CyrillTrans,calm (of sea),,,sekin,Phonemic
+1-310-65-1,lezg1247,Lezgi (Mikrakh dialect),948,йад,CyrillTrans,water,,,yad,Phonemic
+1-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1155,хъиткьер,CyrillTrans,cave,,,qitqʼer,Phonemic
+1-270-65-1,lezg1247,Lezgi (Mikrakh dialect),113,къерех,CyrillTrans,shore,,,"q̄erex, qʼer",Phonemic
+1-270-65-3,lezg1247,Lezgi (Mikrakh dialect),113,кьер,CyrillTrans,shore,,,"q̄erex, qʼer",Phonemic
+1-260-65-1,lezg1247,Lezgi (Mikrakh dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-65-1,lezg1247,Lezgi (Mikrakh dialect),622,кьурамат,CyrillTrans,island,,,qʼuramat,Phonemic
+1-240-65-1,lezg1247,Lezgi (Mikrakh dialect),921,дере,CyrillTrans,valley,,,dere,Phonemic
+1-230-65-1,lezg1247,Lezgi (Mikrakh dialect),652,дуьзен,CyrillTrans,"plain, field",,,"düzen, čül",Phonemic
+1-230-65-3,lezg1247,Lezgi (Mikrakh dialect),652,чуьл,CyrillTrans,"plain, field",,,"düzen, čül",Phonemic
+1-222-65-1,lezg1247,Lezgi (Mikrakh dialect),618,раг,CyrillTrans,"cliff, precipice",,,"rag, dahar",Phonemic
+1-222-65-3,lezg1247,Lezgi (Mikrakh dialect),618,дагьар,CyrillTrans,"cliff, precipice",,,"rag, dahar",Phonemic
+1-220-65-1,lezg1247,Lezgi (Mikrakh dialect),2118,дагъ,CyrillTrans,"mountain, hill",,,"daɣ, tepe",Phonemic
+1-220-65-3,lezg1247,Lezgi (Mikrakh dialect),2118,тепе,CyrillTrans,"mountain, hill",,,"daɣ, tepe",Phonemic
+1-214-65-1,lezg1247,Lezgi (Mikrakh dialect),640,кьар,CyrillTrans,mud,,,"qʼar, palčux",Phonemic
+1-214-65-3,lezg1247,Lezgi (Mikrakh dialect),640,палчух,CyrillTrans,mud,,,"qʼar, palčux",Phonemic
+1-215-65-1,lezg1247,Lezgi (Mikrakh dialect),671,къум,CyrillTrans,sand,,,q̄um,Phonemic
+1-213-65-1,lezg1247,Lezgi (Mikrakh dialect),2,руг,CyrillTrans,dust,,,rug,Phonemic
+1-212-65-1,lezg1247,Lezgi (Mikrakh dialect),1228,чил,CyrillTrans,"earth=ground, soil",,,"čil, naqʼʷ",Phonemic
+1-212-65-3,lezg1247,Lezgi (Mikrakh dialect),1228,накьв,CyrillTrans,"earth=ground, soil",,,"čil, naqʼʷ",Phonemic
+1-210-65-1,lezg1247,Lezgi (Mikrakh dialect),626,чил,CyrillTrans,"earth, land",,,"čil, ülkʷe",Phonemic
+1-210-65-3,lezg1247,Lezgi (Mikrakh dialect),626,уьлкве,CyrillTrans,"earth, land",,,"čil, ülkʷe",Phonemic
+1-100-65-1,lezg1247,Lezgi (Mikrakh dialect),965,дуьнйа,CyrillTrans,world,,,dünya,Phonemic
+14-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1544,ара-ара,CyrillTrans,sometimes,,,ara-ara,Phonemic
+14-331-65-1,lezg1247,Lezgi (Mikrakh dialect),703,фад-фад,CyrillTrans,soon,,,"fad-fad, muqʼʷara",Phonemic
+14-331-65-3,lezg1247,Lezgi (Mikrakh dialect),703,мукьвара,CyrillTrans,soon,,,"fad-fad, muqʼʷara",Phonemic
+14-332-65-1,lezg1247,Lezgi (Mikrakh dialect),418,йаргъал,CyrillTrans,long-time (for a),,,yarɣal,Phonemic
+14-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1656,садрани,CyrillTrans,never,,,sadrani,Phonemic
+14-350-65-1,lezg1247,Lezgi (Mikrakh dialect),204,мад,CyrillTrans,again,,,"mad, c’iyi qʼilelay",Phonemic
+14-350-65-3,lezg1247,Lezgi (Mikrakh dialect),204,цІийи кьилелай,CyrillTrans,again,,,"mad, c’iyi qʼilelay",Phonemic
+14-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1225,йугъ,CyrillTrans,day,,,yuɣ,Phonemic
+14-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1233,йиф,CyrillTrans,night,,,yif,Phonemic
+14-430-65-1,lezg1247,Lezgi (Mikrakh dialect),729,экв,CyrillTrans,dawn,,,ekʷ,Phonemic
+14-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1339,пакама,CyrillTrans,morning,,,pakama,Phonemic
+14-450-65-1,lezg1247,Lezgi (Mikrakh dialect),12,нисини,CyrillTrans,"noon, midday",,,nisini,Phonemic
+14-451-65-1,lezg1247,Lezgi (Mikrakh dialect),1807,рагъдан,CyrillTrans,afternoon,,,raɣdan,Phonemic
+14-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1629,нйани,CyrillTrans,evening,,,nyani,Phonemic
+14-470-65-1,lezg1247,Lezgi (Mikrakh dialect),1283,къе,CyrillTrans,today,,,q̄e,Phonemic
+14-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1329,пака,CyrillTrans,tomorrow,,,paka,Phonemic
+14-481-65-1,lezg1247,Lezgi (Mikrakh dialect),1179,муькуь йукъуз,CyrillTrans,day-after-tomorrow,,,mükü yuq̄uz,Phonemic
+14-490-65-1,lezg1247,Lezgi (Mikrakh dialect),1174,какь,CyrillTrans,yesterday,,,kaqʼ,Phonemic
+14-491-65-1,lezg1247,Lezgi (Mikrakh dialect),1180,випик квай йукъуз,CyrillTrans,day-before-yesterday,,,wipik kʷay yuq̄uz,Phonemic
+14-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1353,сйат,CyrillTrans,hour,,,syat,Phonemic
+14-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1323,сйат,CyrillTrans,"clock, timepiece",,,syat,Phonemic
+14-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1469,гьафте,CyrillTrans,week,,,hafte,Phonemic
+14-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1699,гьйад,CyrillTrans,Sunday,,,"hyad, bazar",Phonemic
+14-620-65-3,lezg1247,Lezgi (Mikrakh dialect),1699,базар,CyrillTrans,Sunday,,,"hyad, bazar",Phonemic
+14-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1697,исней,CyrillTrans,Monday,,,isney,Phonemic
+14-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1695,саласа,CyrillTrans,Tuesday,,,salasa,Phonemic
+14-650-65-1,lezg1247,Lezgi (Mikrakh dialect),1694,арба,CyrillTrans,Wednesday,,,arba,Phonemic
+14-660-65-1,lezg1247,Lezgi (Mikrakh dialect),1693,гъвейиф,CyrillTrans,Thursday,,,ɣʷeyif,Phonemic
+14-670-65-1,lezg1247,Lezgi (Mikrakh dialect),1692,жуьмйа,CyrillTrans,Friday,,,žümya,Phonemic
+14-680-65-1,lezg1247,Lezgi (Mikrakh dialect),1700,киш,CyrillTrans,Saturday,,,kiš,Phonemic
+14-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1370,варз,CyrillTrans,month,,,warz,Phonemic
+14-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1226,йис,CyrillTrans,year,,,yis,Phonemic
+14-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1471,кьуьд,CyrillTrans,winter,,,qʼüd,Phonemic
+14-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1537,гатфар,CyrillTrans,spring,,,gatfar,Phonemic
+14-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1342,гад,CyrillTrans,summer,,,gad,Phonemic
+14-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1276,зул,CyrillTrans,autumn,,,zul,Phonemic
+14-780-65-1,lezg1247,Lezgi (Mikrakh dialect),691,йисан вахт,CyrillTrans,season,,,yisan waxt,Phonemic
+15-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1587,ни атун,CyrillTrans,smell (vb intrans),,,ni atun,Phonemic
+15-212-65-1,lezg1247,Lezgi (Mikrakh dialect),375,ни чІугун,CyrillTrans,sniff,,,ni č’ugun,Phonemic
+15-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1586,ни чІугун,CyrillTrans,smell (vb trans),,,ni č’ugun,Phonemic
+15-250-65-1,lezg1247,Lezgi (Mikrakh dialect),376,айтир,CyrillTrans,"fragrant, good smelling",,,"aytir, xuš ni",Phonemic
+15-250-65-3,lezg1247,Lezgi (Mikrakh dialect),376,хуш ни,CyrillTrans,"fragrant, good smelling",,,"aytir, xuš ni",Phonemic
+15-260-65-1,lezg1247,Lezgi (Mikrakh dialect),42,пис йал,CyrillTrans,"stinking, bad smelling",,,pis yal,Phonemic
+15-310-65-1,lezg1247,Lezgi (Mikrakh dialect),21,тІеам,CyrillTrans,taste,,,tʼeam,Phonemic
+15-350-65-1,lezg1247,Lezgi (Mikrakh dialect),717,ширин,CyrillTrans,sweet,,,širin,Phonemic
+15-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1091,чІуь,CyrillTrans,salty,,,č’ü,Phonemic
+15-370-65-1,lezg1247,Lezgi (Mikrakh dialect),887,ажи,CyrillTrans,bitter,,,aži,Phonemic
+15-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1906,цуру,CyrillTrans,"acid, sour",,,curu,Phonemic
+15-390-65-1,lezg1247,Lezgi (Mikrakh dialect),70,чІуьвал квай,CyrillTrans,brackish,,,č’üwal kʷay,Phonemic
+15-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1408,ван хьун,CyrillTrans,hear,,,wan x̌un,Phonemic
+15-420-65-1,lezg1247,Lezgi (Mikrakh dialect),1608,йаб чун,CyrillTrans,listen,,,yab čun,Phonemic
+15-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1811,ван,CyrillTrans,"sound, noise",,,"wan, waner",Phonemic
+15-440-65-3,lezg1247,Lezgi (Mikrakh dialect),1811,ванер,CyrillTrans,"sound, noise",,,"wan, waner",Phonemic
+15-450-65-1,lezg1247,Lezgi (Mikrakh dialect),377,кІеви,CyrillTrans,loud,,,kʼewi,Phonemic
+15-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1314,секин,CyrillTrans,"quiet, silence",,,"sekin, yawaš",Phonemic
+15-460-65-3,lezg1247,Lezgi (Mikrakh dialect),1314,йаваш,CyrillTrans,"quiet, silence",,,"sekin, yawaš",Phonemic
+15-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1409,акун,CyrillTrans,see,,,akun,Phonemic
+15-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1819,килигун,CyrillTrans,"look, look at",,,kiligun,Phonemic
+15-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1039,къалурун,CyrillTrans,show,,,q̄alurun,Phonemic
+15-560-65-1,lezg1247,Lezgi (Mikrakh dialect),708,экв гун,CyrillTrans,shine,,,"ekʷ gun, išiɣ gun",Phonemic
+15-560-65-3,lezg1247,Lezgi (Mikrakh dialect),708,ишигъ гун,CyrillTrans,shine,,,"ekʷ gun, išiɣ gun",Phonemic
+15-570-65-1,lezg1247,Lezgi (Mikrakh dialect),679,къати,CyrillTrans,bright,,,q̄ati,Phonemic
+15-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-65-1,lezg1247,Lezgi (Mikrakh dialect),250,экуь,CyrillTrans,light (in color),,,ekü,Phonemic
+15-630-65-1,lezg1247,Lezgi (Mikrakh dialect),706,мичІи,CyrillTrans,dark (in color),,,mič’i,Phonemic
+15-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1335,лацу,CyrillTrans,white,,,lacu,Phonemic
+15-650-65-1,lezg1247,Lezgi (Mikrakh dialect),163,чІулав,CyrillTrans,black,,,č’ulaw,Phonemic
+15-660-65-1,lezg1247,Lezgi (Mikrakh dialect),156,йару,CyrillTrans,red,,,yaru,Phonemic
+15-670-65-1,lezg1247,Lezgi (Mikrakh dialect),837,вили,CyrillTrans,blue,,,wili,Phonemic
+15-680-65-1,lezg1247,Lezgi (Mikrakh dialect),1425,къацу,CyrillTrans,green,,,q̄acu,Phonemic
+15-690-65-1,lezg1247,Lezgi (Mikrakh dialect),1424,къипи,CyrillTrans,yellow,,,q̄ipi,Phonemic
+15-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1892,хукьун,CyrillTrans,touch,,,xuqʼun,Phonemic
+15-712-65-1,lezg1247,Lezgi (Mikrakh dialect),378,чуькьуьн,CyrillTrans,pinch,,,čüqʼün,Phonemic
+15-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1079,гьиссун,CyrillTrans,feel,,,hissun,Phonemic
+15-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1884,векъи,CyrillTrans,hard,,,weq̄i,Phonemic
+15-750-65-1,lezg1247,Lezgi (Mikrakh dialect),1856,хъуьтуьл,CyrillTrans,soft,,,qütül,Phonemic
+15-760-65-1,lezg1247,Lezgi (Mikrakh dialect),1923,векъи,CyrillTrans,rough,,,weq̄i,Phonemic
+15-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1234,цІалцІам,CyrillTrans,smooth,,,c’alc’am,Phonemic
+15-780-65-1,lezg1247,Lezgi (Mikrakh dialect),1396,хун,CyrillTrans,sharp,,,xun,Phonemic
+15-790-65-1,lezg1247,Lezgi (Mikrakh dialect),379,къуьруь,CyrillTrans,"blunt, dull",,,q̄ürü,Phonemic
+15-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1210,залан,CyrillTrans,heavy,,,zalan,Phonemic
+15-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1052,кьезил,CyrillTrans,light (in weight),,,qʼezil,Phonemic
+15-830-65-1,lezg1247,Lezgi (Mikrakh dialect),1726,кьеженвай,CyrillTrans,"wet, damp",,,qʼeženway,Phonemic
+15-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1398,кьурай,CyrillTrans,dry,,,qʼuray,Phonemic
+15-850-65-1,lezg1247,Lezgi (Mikrakh dialect),1286,кузвай,CyrillTrans,hot,,,kuzway,Phonemic
+15-851-65-1,lezg1247,Lezgi (Mikrakh dialect),1232,чими,CyrillTrans,warm,,,čimi,Phonemic
+15-860-65-1,lezg1247,Lezgi (Mikrakh dialect),1287,къайи,CyrillTrans,cold,,,q̄ayi,Phonemic
+15-870-65-1,lezg1247,Lezgi (Mikrakh dialect),704,михьи,CyrillTrans,clean,,,mix̌i,Phonemic
+15-880-65-1,lezg1247,Lezgi (Mikrakh dialect),1230,кьацІай,CyrillTrans,"dirty, soiled",,,qʼac’ay,Phonemic
+15-890-65-1,lezg1247,Lezgi (Mikrakh dialect),380,шуьткьвей,CyrillTrans,wrinkled,,,šütqʼʷey,Phonemic
+16-110-65-1,lezg1247,Lezgi (Mikrakh dialect),53,руьгь,CyrillTrans,"soul, spirit",,,"rüh, žiger",Phonemic
+16-110-65-3,lezg1247,Lezgi (Mikrakh dialect),53,жигер,CyrillTrans,"soul, spirit",,,"rüh, žiger",Phonemic
+16-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1572,тажуб хьанвай,CyrillTrans,"surprised, astonished",,,tažub x̌anway,Phonemic
+16-180-65-1,lezg1247,Lezgi (Mikrakh dialect),720,бахтуни гъун,CyrillTrans,"good fortune, luck",,,baxtuni ɣun,Phonemic
+16-190-65-1,lezg1247,Lezgi (Mikrakh dialect),56,бахтуни тагъун,CyrillTrans,"misfortune, bad luck",,,baxtuni taɣun,Phonemic
+16-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1495,бахтлу,CyrillTrans,"joyful, glad, happy",,,"baxtlu, šad",Phonemic
+16-230-65-3,lezg1247,Lezgi (Mikrakh dialect),1495,шад,CyrillTrans,"joyful, glad, happy",,,"baxtlu, šad",Phonemic
+16-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1355,хъуьруьн,CyrillTrans,laugh,,,qürün,Phonemic
+16-251-65-1,lezg1247,Lezgi (Mikrakh dialect),1451,хъверун,CyrillTrans,smile,,,qʷerun,Phonemic
+16-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1413,къугъун,CyrillTrans,play,,,q̄uɣun,Phonemic
+16-270-65-1,lezg1247,Lezgi (Mikrakh dialect),923,кІан хьун,CyrillTrans,love,,,kʼan x̌un,Phonemic
+16-290-65-1,lezg1247,Lezgi (Mikrakh dialect),578,кІуф гун,CyrillTrans,kiss,,,kʼuf gun,Phonemic
+16-300-65-1,lezg1247,Lezgi (Mikrakh dialect),928,къужахда кьун,CyrillTrans,embrace,,,q̄užaxda qʼun,Phonemic
+16-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1783,тІарвал,CyrillTrans,pain,,,tʼarwal,Phonemic
+16-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1668,пашманвал,CyrillTrans,"grief, sorrow, sadness",,,pašmanwal,Phonemic
+16-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1000,секинсузвал,CyrillTrans,"anxiety, worry",,,"sekinsuzwal, q̄alabulux",Phonemic
+16-330-65-3,lezg1247,Lezgi (Mikrakh dialect),1000,къалабулух,CyrillTrans,"anxiety, worry",,,"sekinsuzwal, q̄alabulux",Phonemic
+16-340-65-1,lezg1247,Lezgi (Mikrakh dialect),1875,гьайиф атун,CyrillTrans,"regret, be sorry",,,hayif atun,Phonemic
+16-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1141,гьайиф чІугун,CyrillTrans,pity,,,"hayif č’ugun, yazux atun",Phonemic
+16-350-65-3,lezg1247,Lezgi (Mikrakh dialect),1141,йазух атун,CyrillTrans,pity,,,"hayif č’ugun, yazux atun",Phonemic
+16-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1839,шехьун,CyrillTrans,"cry, weep",,,šex̌un,Phonemic
+16-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1651,негъв,CyrillTrans,tear (noun),,,neɣʷ,Phonemic
+16-390-65-1,lezg1247,Lezgi (Mikrakh dialect),716,угь авун,CyrillTrans,groan,,,uh awun,Phonemic
+16-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1607,дакІан хьун,CyrillTrans,hate,,,dakʼan x̌un,Phonemic
+16-420-65-1,lezg1247,Lezgi (Mikrakh dialect),82,къел,CyrillTrans,anger,,,q̄el,Phonemic
+16-440-65-1,lezg1247,Lezgi (Mikrakh dialect),40,пехилвал,CyrillTrans,"envy, jealousy",,,pexilwal,Phonemic
+16-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1776,регъуьвал,CyrillTrans,shame (noun),,,reɣüwal,Phonemic
+16-480-65-1,lezg1247,Lezgi (Mikrakh dialect),174,такабурлу,CyrillTrans,proud,,,takaburlu,Phonemic
+16-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1779,викІегь,CyrillTrans,dare,,,wikʼeh,Phonemic
+16-520-65-1,lezg1247,Lezgi (Mikrakh dialect),3,викІегь,CyrillTrans,brave,,,wikʼeh,Phonemic
+16-530-65-1,lezg1247,Lezgi (Mikrakh dialect),781,кичІ,CyrillTrans,"fear, fright",,,kič’,Phonemic
+16-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1810,хатавал,CyrillTrans,danger,,,xatawal,Phonemic
+16-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1784,кІанивал,CyrillTrans,"desire, want",,,kʼaniwal,Phonemic
+16-622-65-1,lezg1247,Lezgi (Mikrakh dialect),1750,хкйагъун,CyrillTrans,choose,,,xkyaɣun,Phonemic
+16-630-65-1,lezg1247,Lezgi (Mikrakh dialect),1092,умудлу хьун,CyrillTrans,hope,,,umudlu x̌un,Phonemic
+16-650-65-1,lezg1247,Lezgi (Mikrakh dialect),100,вафалу,CyrillTrans,faithful,,,wafalu,Phonemic
+16-660-65-1,lezg1247,Lezgi (Mikrakh dialect),1657,халис,CyrillTrans,true,,,xalis,Phonemic
+16-670-65-1,lezg1247,Lezgi (Mikrakh dialect),601,тапарарун,CyrillTrans,"lie, tell lies",,,tapararun,Phonemic
+16-680-65-1,lezg1247,Lezgi (Mikrakh dialect),13,алцурарун,CyrillTrans,deceit,,,alcurarun,Phonemic
+16-690-65-1,lezg1247,Lezgi (Mikrakh dialect),1528,гъил къачун,CyrillTrans,forgive,,,ɣil q̄ačun,Phonemic
+16-710-65-1,lezg1247,Lezgi (Mikrakh dialect),1035,хъсан,CyrillTrans,good,,,qsan,Phonemic
+16-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1292,пис,CyrillTrans,bad,,,pis,Phonemic
+16-730-65-1,lezg1247,Lezgi (Mikrakh dialect),1725,дуьз,CyrillTrans,"right, correct",,,düz,Phonemic
+16-740-65-1,lezg1247,Lezgi (Mikrakh dialect),1390,дуьз тушир,CyrillTrans,wrong,,,düz tušir,Phonemic
+16-760-65-1,lezg1247,Lezgi (Mikrakh dialect),134,кар,CyrillTrans,fault,,,kar,Phonemic
+16-770-65-1,lezg1247,Lezgi (Mikrakh dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,ɣalatʼ,Phonemic
+16-780-65-1,lezg1247,Lezgi (Mikrakh dialect),381,тахсир кутун,CyrillTrans,blame,,,taxsir kutun,Phonemic
+16-790-65-1,lezg1247,Lezgi (Mikrakh dialect),1687,тарифарун,CyrillTrans,praise,,,tarifarun,Phonemic
+16-810-65-1,lezg1247,Lezgi (Mikrakh dialect),1427,айар,CyrillTrans,beautiful,,,ayar,Phonemic
+16-820-65-1,lezg1247,Lezgi (Mikrakh dialect),1548,абурсуз,CyrillTrans,ugly,,,abursuz,Phonemic
+16-830-65-1,lezg1247,Lezgi (Mikrakh dialect),2018,мискьи,CyrillTrans,greedy,,,misqʼi,Phonemic
+16-840-65-1,lezg1247,Lezgi (Mikrakh dialect),1310,акьулну,CyrillTrans,clever,,,aqʼulnu,Phonemic
+17-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1562,акьул,CyrillTrans,mind,,,aqʼul,Phonemic
+17-130-65-1,lezg1247,Lezgi (Mikrakh dialect),1415,фикир авун,CyrillTrans,think (= reflect),,,fikir awun,Phonemic
+17-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1513,финирун,CyrillTrans,think (= be of the opinion),,,"finirun, hisabun",Phonemic
+17-140-65-3,lezg1247,Lezgi (Mikrakh dialect),1513,гьисабун,CyrillTrans,think (= be of the opinion),,,"finirun, hisabun",Phonemic
+17-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1890,инанмиш хьун,CyrillTrans,believe,,,inanmiš x̌un,Phonemic
+17-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1536,гъавурда акьун,CyrillTrans,understand,,,ɣawurda aqʼun,Phonemic
+17-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1410,чир хьун,CyrillTrans,know,,,čir x̌un,Phonemic
+17-171-65-1,lezg1247,Lezgi (Mikrakh dialect),1932,гьисабун,CyrillTrans,guess,,,hisabun,Phonemic
+17-172-65-1,lezg1247,Lezgi (Mikrakh dialect),117,тикрарун,CyrillTrans,imitate,,,"tikrarun, ezberun",Phonemic
+17-172-65-3,lezg1247,Lezgi (Mikrakh dialect),117,эзберун,CyrillTrans,imitate,,,"tikrarun, ezberun",Phonemic
+17-180-65-1,lezg1247,Lezgi (Mikrakh dialect),1521,гьакІ хьун,CyrillTrans,seem,,,hakʼ x̌un,Phonemic
+17-190-65-1,lezg1247,Lezgi (Mikrakh dialect),1609,фикир,CyrillTrans,"idea, notion",,,fikir,Phonemic
+17-210-65-1,lezg1247,Lezgi (Mikrakh dialect),698,камаллу,CyrillTrans,wise,,,kamallu,Phonemic
+17-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1518,ахмакь,CyrillTrans,"foolish, stupid",,,"axmaqʼ, kimi",Phonemic
+17-220-65-3,lezg1247,Lezgi (Mikrakh dialect),1518,кими,CyrillTrans,"foolish, stupid",,,"axmaqʼ, kimi",Phonemic
+17-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1899,акьулсуз,CyrillTrans,"insane, crazy",,,"aqʼulsuz, kʼamay",Phonemic
+17-230-65-3,lezg1247,Lezgi (Mikrakh dialect),1899,кІамай,CyrillTrans,"insane, crazy",,,"aqʼulsuz, kʼamay",Phonemic
+17-240-65-1,lezg1247,Lezgi (Mikrakh dialect),504,чирун,CyrillTrans,learn,,,"čirun, kʼelun",Phonemic
+17-240-65-3,lezg1247,Lezgi (Mikrakh dialect),504,кІелун,CyrillTrans,learn,,,"čirun, kʼelun",Phonemic
+17-242-65-1,lezg1247,Lezgi (Mikrakh dialect),1929,чирун,CyrillTrans,study,,,čirun,Phonemic
+17-250-65-1,lezg1247,Lezgi (Mikrakh dialect),709,чирун,CyrillTrans,teach,,,čirun,Phonemic
+17-260-65-1,lezg1247,Lezgi (Mikrakh dialect),753,тІелеби,CyrillTrans,pupil,,,tʼelebi,Phonemic
+17-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1038,малим,CyrillTrans,teacher,,,malim,Phonemic
+17-280-65-1,lezg1247,Lezgi (Mikrakh dialect),673,мектеб,CyrillTrans,school,,,mekteb,Phonemic
+17-310-65-1,lezg1247,Lezgi (Mikrakh dialect),707,рикІел йаламукьун,CyrillTrans,remember,,,rikʼel yalamuqʼun,Phonemic
+17-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1523,рикІелай алатун,CyrillTrans,forget,,,rikʼelay alatun,Phonemic
+17-340-65-1,lezg1247,Lezgi (Mikrakh dialect),989,ачух,CyrillTrans,"clear, plain",,,"ačux, malum",Phonemic
+17-340-65-3,lezg1247,Lezgi (Mikrakh dialect),989,малум,CyrillTrans,"clear, plain",,,"ačux, malum",Phonemic
+17-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1764,малум тушир,CyrillTrans,obscure,,,malum tušir,Phonemic
+17-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1121,сир,CyrillTrans,secret,,,sir,Phonemic
+17-370-65-1,lezg1247,Lezgi (Mikrakh dialect),509,инанмиш,CyrillTrans,"sure, certain",,,inanmiš,Phonemic
+17-380-65-1,lezg1247,Lezgi (Mikrakh dialect),1626,гъавурба тун,CyrillTrans,explain,,,ɣawurba tun,Phonemic
+17-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1162,мурад,CyrillTrans,"intention, purpose",,,murad,Phonemic
+17-420-65-1,lezg1247,Lezgi (Mikrakh dialect),860,себеб,CyrillTrans,cause,,,sebeb,Phonemic
+17-430-65-1,lezg1247,Lezgi (Mikrakh dialect),1308,шаклсуван,CyrillTrans,doubt,,,šaklsuwan,Phonemic
+17-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1841,шак фин,CyrillTrans,suspect,,,šak fin,Phonemic
+17-441-65-1,lezg1247,Lezgi (Mikrakh dialect),1902,маса гун,CyrillTrans,betray,,,masa gun,Phonemic
+17-450-65-1,lezg1247,Lezgi (Mikrakh dialect),643,чарасузвал,CyrillTrans,"need, necessity",,,čarasuzwal,Phonemic
+17-460-65-1,lezg1247,Lezgi (Mikrakh dialect),686,кьезил,CyrillTrans,easy,,,qʼezil,Phonemic
+17-470-65-1,lezg1247,Lezgi (Mikrakh dialect),584,четин,CyrillTrans,difficult,,,četin,Phonemic
+17-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1812,ахтармишун,CyrillTrans,"try, attempt",,,axtarmišun,Phonemic
+17-490-65-1,lezg1247,Lezgi (Mikrakh dialect),488,рехъ,CyrillTrans,"way, manner",,,"req, q̄ayda",Phonemic
+17-490-65-3,lezg1247,Lezgi (Mikrakh dialect),488,къайда,CyrillTrans,"way, manner",,,"req, q̄ayda",Phonemic
+17-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1577,патав,CyrillTrans,and,,,"pataw, wa",Phonemic
+17-510-65-3,lezg1247,Lezgi (Mikrakh dialect),1577,ва,CyrillTrans,and,,,"pataw, wa",Phonemic
+17-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1157,вучиз лагьайтІа,CyrillTrans,because,,,wučiz lahaytʼa,Phonemic
+17-530-65-1,lezg1247,Lezgi (Mikrakh dialect),1459,эгер,CyrillTrans,if,,,eger,Phonemic
+17-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1014,ва,CyrillTrans,or,,,"wa, ya",Phonemic
+17-540-65-3,lezg1247,Lezgi (Mikrakh dialect),1014,йа,CyrillTrans,or,,,"wa, ya",Phonemic
+17-550-65-1,lezg1247,Lezgi (Mikrakh dialect),1268,ун,CyrillTrans,"yes, affirmative",,,"un, ex̌",Phonemic
+17-550-65-3,lezg1247,Lezgi (Mikrakh dialect),1268,эхь,CyrillTrans,"yes, affirmative",,,"un, ex̌",Phonemic
+17-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1269,ваъ,CyrillTrans,"no, negative",,,waʔ,Phonemic
+17-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1239,фикІ,CyrillTrans,how?,,,fikʼ,Phonemic
+17-620-65-1,lezg1247,Lezgi (Mikrakh dialect),822,шимид,CyrillTrans,how many?,,,šimid,Phonemic
+17-630-65-1,lezg1247,Lezgi (Mikrakh dialect),531,шимид,CyrillTrans,how much?,,,šimid,Phonemic
+17-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1236,вуш,CyrillTrans,what?,,,wuš,Phonemic
+17-650-65-1,lezg1247,Lezgi (Mikrakh dialect),1238,мус,CyrillTrans,when?,,,mus,Phonemic
+17-660-65-1,lezg1247,Lezgi (Mikrakh dialect),1237,фина,CyrillTrans,where?,,,"fina, finay",Phonemic
+17-660-65-3,lezg1247,Lezgi (Mikrakh dialect),1237,финай,CyrillTrans,where?,,,"fina, finay",Phonemic
+17-670-65-1,lezg1247,Lezgi (Mikrakh dialect),727,фихьтин,CyrillTrans,which?,,,fix̌tin,Phonemic
+17-680-65-1,lezg1247,Lezgi (Mikrakh dialect),1235,фин,CyrillTrans,who?,,,fin,Phonemic
+17-690-65-1,lezg1247,Lezgi (Mikrakh dialect),1270,вушиз,CyrillTrans,why?,,,wušiz,Phonemic
+18-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1363,сес,CyrillTrans,voice,,,"ses, wan",Phonemic
+18-110-65-3,lezg1247,Lezgi (Mikrakh dialect),1363,ван,CyrillTrans,voice,,,"ses, wan",Phonemic
+18-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1261,мани лугьун,CyrillTrans,sing,,,mani luhun,Phonemic
+18-130-65-1,lezg1247,Lezgi (Mikrakh dialect),715,гьарасйун,CyrillTrans,"shout, cry out",,,harasyun,Phonemic
+18-150-65-1,lezg1247,Lezgi (Mikrakh dialect),55,пуспус авун,CyrillTrans,whisper,,,puspus awun,Phonemic
+18-160-65-1,lezg1247,Lezgi (Mikrakh dialect),128,вич-вичик рахун,CyrillTrans,mumble,,,wič-wičik raxun,Phonemic
+18-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1025,уьст йагъун,CyrillTrans,whistle,,,üst yaɣun,Phonemic
+18-180-65-1,lezg1247,Lezgi (Mikrakh dialect),298,цІвагъун,CyrillTrans,"shriek, screech",,,c’ʷaɣun,Phonemic
+18-190-65-1,lezg1247,Lezgi (Mikrakh dialect),526,къув йагъун,CyrillTrans,howl,,,q̄uw yaɣun,Phonemic
+18-210-65-1,lezg1247,Lezgi (Mikrakh dialect),1623,рахун,CyrillTrans,"speak, talk",,,"raxun, raxunarun",Phonemic
+18-210-65-3,lezg1247,Lezgi (Mikrakh dialect),1623,рахунарун,CyrillTrans,"speak, talk",,,"raxun, raxunarun",Phonemic
+18-211-65-1,lezg1247,Lezgi (Mikrakh dialect),1866,мез галкІун,CyrillTrans,"stutter, stammer",,,mez galkʼun,Phonemic
+18-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1458,лугьун,CyrillTrans,say,,,luhun,Phonemic
+18-221-65-1,lezg1247,Lezgi (Mikrakh dialect),1711,тарих ахъайун,CyrillTrans,tell story,,,tarix aqayun,Phonemic
+18-222-65-1,lezg1247,Lezgi (Mikrakh dialect),1115,рахун,CyrillTrans,speech (make a),,,raxun,Phonemic
+18-230-65-1,lezg1247,Lezgi (Mikrakh dialect),48,кисун,CyrillTrans,silent (be),,,kisun,Phonemic
+18-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1307,мез,CyrillTrans,language,,,"mez, č’al",Phonemic
+18-240-65-3,lezg1247,Lezgi (Mikrakh dialect),1307,чІал,CyrillTrans,language,,,"mez, č’al",Phonemic
+18-260-65-1,lezg1247,Lezgi (Mikrakh dialect),1599,гаф,CyrillTrans,word,,,gaf,Phonemic
+18-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1405,тІвар,CyrillTrans,name,,,tʼʷar,Phonemic
+18-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1309,хабар кьун,CyrillTrans,"ask (question, inquire)",,,xabar qʼun,Phonemic
+18-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1275,жаваб кьун,CyrillTrans,answer,,,žawab qʼun,Phonemic
+18-330-65-1,lezg1247,Lezgi (Mikrakh dialect),2022,хиве кьун,CyrillTrans,"admit, confess",,,xiwe qʼun,Phonemic
+18-340-65-1,lezg1247,Lezgi (Mikrakh dialect),755,эгьтун,CyrillTrans,deny,,,ehtun,Phonemic
+18-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1828,микІтун,CyrillTrans,"ask, request",,,mikʼtun,Phonemic
+18-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1675,хиве кьун,CyrillTrans,promise,,,xiwe qʼun,Phonemic
+18-370-65-1,lezg1247,Lezgi (Mikrakh dialect),49,хиве тахкьун,CyrillTrans,refuse,,,xiwe taxqʼun,Phonemic
+18-380-65-1,lezg1247,Lezgi (Mikrakh dialect),83,къадагъа авун,CyrillTrans,forbid,,,q̄adaɣa awun,Phonemic
+18-390-65-1,lezg1247,Lezgi (Mikrakh dialect),299,сеперар гун,CyrillTrans,"rebuke, scold",,,seperar gun,Phonemic
+18-410-65-1,lezg1247,Lezgi (Mikrakh dialect),1084,эверун,CyrillTrans,call (=summon),,,ewerun,Phonemic
+18-420-65-1,lezg1247,Lezgi (Mikrakh dialect),180,тІвар кьун,CyrillTrans,call (=name),,,tʼʷar qʼun,Phonemic
+18-430-65-1,lezg1247,Lezgi (Mikrakh dialect),9,малумарун,CyrillTrans,announce,,,malumarun,Phonemic
+18-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1192,кичІерар гун,CyrillTrans,threaten,,,kič’erar gun,Phonemic
+18-450-65-1,lezg1247,Lezgi (Mikrakh dialect),101,дамахарун,CyrillTrans,boast,,,damaxarun,Phonemic
+18-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1672,кхьин,CyrillTrans,write,,,kx̌in,Phonemic
+18-520-65-1,lezg1247,Lezgi (Mikrakh dialect),724,кІелун,CyrillTrans,read,,,kʼelun,Phonemic
+18-560-65-1,lezg1247,Lezgi (Mikrakh dialect),648,чар,CyrillTrans,paper,,,čar,Phonemic
+18-570-65-1,lezg1247,Lezgi (Mikrakh dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-65-1,lezg1247,Lezgi (Mikrakh dialect),963,ктаб,CyrillTrans,book,,,ktab,Phonemic
+18-670-65-1,lezg1247,Lezgi (Mikrakh dialect),1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-65-1,lezg1247,Lezgi (Mikrakh dialect),777,кфил,CyrillTrans,flute,,,kfil,Phonemic
+18-720-65-1,lezg1247,Lezgi (Mikrakh dialect),908,далдам,CyrillTrans,drum,,,daldam,Phonemic
+18-730-65-1,lezg1247,Lezgi (Mikrakh dialect),2136,зуьрне,CyrillTrans,"horn, trumpet",,,zürne,Phonemic
+18-740-65-1,lezg1247,Lezgi (Mikrakh dialect),300,куркур,CyrillTrans,rattle,,,kurkur,Phonemic
+19-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1300,уьлкве,CyrillTrans,country,,,ülkʷe,Phonemic
+19-120-65-1,lezg1247,Lezgi (Mikrakh dialect),89,хайи уьлкве,CyrillTrans,one's native country,,,xayi ülkʷe,Phonemic
+19-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1391,шегьер,CyrillTrans,"city, town",,,šeher,Phonemic
+19-160-65-1,lezg1247,Lezgi (Mikrakh dialect),930,хуьр,CyrillTrans,village,,,xür,Phonemic
+19-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1010,сергьйат,CyrillTrans,boundary,,,"serhyat, časpar",Phonemic
+19-170-65-3,lezg1247,Lezgi (Mikrakh dialect),1010,часпар,CyrillTrans,boundary,,,"serhyat, časpar",Phonemic
+19-210-65-1,lezg1247,Lezgi (Mikrakh dialect),789,халкъ,CyrillTrans,people (populace),,,xalq̄,Phonemic
+19-230-65-1,lezg1247,Lezgi (Mikrakh dialect),302,тайифа,CyrillTrans,"tribe, clan",,,"tayifa, millet",Phonemic
+19-230-65-3,lezg1247,Lezgi (Mikrakh dialect),302,миллет,CyrillTrans,"tribe, clan",,,"tayifa, millet",Phonemic
+19-240-65-1,lezg1247,Lezgi (Mikrakh dialect),301,эмир,CyrillTrans,"chief, chieftain",,,emir,Phonemic
+19-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1296,лаш,CyrillTrans,"staff, walking stick",,,laš,Phonemic
+19-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1846,регьбер гун,CyrillTrans,"rule, govern",,,rehber gun,Phonemic
+19-320-65-1,lezg1247,Lezgi (Mikrakh dialect),1508,шагь,CyrillTrans,"king, ruler",,,šah,Phonemic
+19-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1306,ханум,CyrillTrans,queen,,,xanum,Phonemic
+19-360-65-1,lezg1247,Lezgi (Mikrakh dialect),482,мергьйаматІлу,CyrillTrans,"noble, nobleman",,,merhyamatʼlu,Phonemic
+19-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1032,шагьарин инсан,CyrillTrans,"citizen, subject",,,šaharin insan,Phonemic
+19-410-65-1,lezg1247,Lezgi (Mikrakh dialect),383,агъа,CyrillTrans,master,,,"aɣa, pesi",Phonemic
+19-410-65-3,lezg1247,Lezgi (Mikrakh dialect),383,песи,CyrillTrans,master,,,"aɣa, pesi",Phonemic
+19-420-65-1,lezg1247,Lezgi (Mikrakh dialect),812,лукІ,CyrillTrans,slave,,,lukʼ,Phonemic
+19-430-65-1,lezg1247,Lezgi (Mikrakh dialect),255,нуькер,CyrillTrans,servant,,,nüker,Phonemic
+19-440-65-1,lezg1247,Lezgi (Mikrakh dialect),384,азад инсан,CyrillTrans,freeman,,,azad insan,Phonemic
+19-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1128,эмир гун,CyrillTrans,"command, order",,,emir gun,Phonemic
+19-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1635,табий хьун,CyrillTrans,obey,,,tabiy x̌un,Phonemic
+19-470-65-1,lezg1247,Lezgi (Mikrakh dialect),1003,ихтийар гун,CyrillTrans,"let, permit",,,ixtiyar gun,Phonemic
+19-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1325,дуст,CyrillTrans,"friend, companion",,,dust,Phonemic
+19-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-65-1,lezg1247,Lezgi (Mikrakh dialect),1332,къуьншуь,CyrillTrans,neighbor,,,q̄ünšü,Phonemic
+19-550-65-1,lezg1247,Lezgi (Mikrakh dialect),791,таниш тушир кас,CyrillTrans,stranger,,,taniš tušir kas,Phonemic
+19-560-65-1,lezg1247,Lezgi (Mikrakh dialect),1782,мугьман,CyrillTrans,guest,,,muhman,Phonemic
+19-570-65-1,lezg1247,Lezgi (Mikrakh dialect),1545,иеси,CyrillTrans,host,,,iesi,Phonemic
+19-580-65-1,lezg1247,Lezgi (Mikrakh dialect),1897,куьмек,CyrillTrans,"help, aid",,,kümek,Phonemic
+19-590-65-1,lezg1247,Lezgi (Mikrakh dialect),1550,манийвал авун,CyrillTrans,"hinder, prevent",,,maniywal awun,Phonemic
+19-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1747,адет,CyrillTrans,custom,,,adet,Phonemic
+19-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1848,хьел,CyrillTrans,"strife, quarrel",,,x̌el,Phonemic
+19-630-65-1,lezg1247,Lezgi (Mikrakh dialect),2024,фенд,CyrillTrans,"conspiracy, plot",,,fend,Phonemic
+19-650-65-1,lezg1247,Lezgi (Mikrakh dialect),1831,дуьшуьш хьун,CyrillTrans,meet,,,düšüš x̌un,Phonemic
+19-720-65-1,lezg1247,Lezgi (Mikrakh dialect),1610,къагьбе,CyrillTrans,prostitute,,,q̄ahbe,Phonemic
+20-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1423,кукІун,CyrillTrans,fight (vb),,,"kukʼun, dyawe x̌un",Phonemic
+20-110-65-3,lezg1247,Lezgi (Mikrakh dialect),1423,дйаве хьун,CyrillTrans,fight (vb),,,"kukʼun, dyawe x̌un",Phonemic
+20-130-65-1,lezg1247,Lezgi (Mikrakh dialect),579,дйаве,CyrillTrans,"war, battle",,,"dyawe, ženg",Phonemic
+20-130-65-3,lezg1247,Lezgi (Mikrakh dialect),579,женг,CyrillTrans,"war, battle",,,"dyawe, ženg",Phonemic
+20-140-65-1,lezg1247,Lezgi (Mikrakh dialect),1338,ислйагьвал,CyrillTrans,peace,,,islyahwal,Phonemic
+20-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1561,кьушун,CyrillTrans,army,,,qʼušun,Phonemic
+20-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1941,аскер,CyrillTrans,soldier,,,asker,Phonemic
+20-210-65-1,lezg1247,Lezgi (Mikrakh dialect),951,йаракь,CyrillTrans,"weapons, arms",,,yaraqʼ,Phonemic
+20-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1763,тумпуз,CyrillTrans,club,,,tumpuz,Phonemic
+20-222-65-1,lezg1247,Lezgi (Mikrakh dialect),386,нажах,CyrillTrans,battle-ax,,,nažax,Phonemic
+20-240-65-1,lezg1247,Lezgi (Mikrakh dialect),994,чІемерук,CyrillTrans,bow,,,č’emeruk,Phonemic
+20-250-65-1,lezg1247,Lezgi (Mikrakh dialect),977,хьел,CyrillTrans,arrow,,,x̌el,Phonemic
+20-260-65-1,lezg1247,Lezgi (Mikrakh dialect),945,гуьрз,CyrillTrans,spear,,,gürz,Phonemic
+20-270-65-1,lezg1247,Lezgi (Mikrakh dialect),1535,ганур,CyrillTrans,sword,,,ganur,Phonemic
+20-280-65-1,lezg1247,Lezgi (Mikrakh dialect),1566,тфенг,CyrillTrans,"gun, cannon",,,"tfeng, tup",Phonemic
+20-280-65-3,lezg1247,Lezgi (Mikrakh dialect),1566,туп,CyrillTrans,"gun, cannon",,,"tfeng, tup",Phonemic
+20-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1061,кьеркьер,CyrillTrans,armor (defensive),,,qʼerqʼer,Phonemic
+20-330-65-1,lezg1247,Lezgi (Mikrakh dialect),1680,ракьун бармак,CyrillTrans,helmet,,,raqʼun barmak,Phonemic
+20-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1938,къеле,CyrillTrans,fortress,,,q̄ele,Phonemic
+20-360-65-1,lezg1247,Lezgi (Mikrakh dialect),1671,минара,CyrillTrans,tower,,,minara,Phonemic
+20-410-65-1,lezg1247,Lezgi (Mikrakh dialect),783,гъапибвал,CyrillTrans,victory,,,ɣapibwal,Phonemic
+20-420-65-1,lezg1247,Lezgi (Mikrakh dialect),782,кІаник акатун,CyrillTrans,defeat,,,kʼanik akatun,Phonemic
+20-430-65-1,lezg1247,Lezgi (Mikrakh dialect),722,басру гун,CyrillTrans,attack,,,basru gun,Phonemic
+20-440-65-1,lezg1247,Lezgi (Mikrakh dialect),1330,сенгер кьун,CyrillTrans,defend,,,senger qʼun,Phonemic
+20-450-65-1,lezg1247,Lezgi (Mikrakh dialect),421,кьулухъ чІугун,CyrillTrans,retreat,,,qʼuluq č’ugun,Phonemic
+20-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1696,йесирдиз вучун,CyrillTrans,surrender,,,yesirdiz wučun,Phonemic
+20-470-65-1,lezg1247,Lezgi (Mikrakh dialect),1072,йесир,CyrillTrans,"captive, prisoner",,,"yesir, dustaɣnawaydi",Phonemic
+20-470-65-3,lezg1247,Lezgi (Mikrakh dialect),1072,дустагънавайди,CyrillTrans,"captive, prisoner",,,"yesir, dustaɣnawaydi",Phonemic
+20-471-65-1,lezg1247,Lezgi (Mikrakh dialect),1940,къаравул,CyrillTrans,"guard, sentinel",,,q̄arawul,Phonemic
+20-480-65-1,lezg1247,Lezgi (Mikrakh dialect),1022,хийир,CyrillTrans,"booty, spoils",,,"xiyir, dewlet",Phonemic
+20-480-65-3,lezg1247,Lezgi (Mikrakh dialect),1022,девлет,CyrillTrans,"booty, spoils",,,"xiyir, dewlet",Phonemic
+20-490-65-1,lezg1247,Lezgi (Mikrakh dialect),65,рехъ кьун,CyrillTrans,ambush,,,req qʼun,Phonemic
+20-510-65-1,lezg1247,Lezgi (Mikrakh dialect),1858,балугъчи,CyrillTrans,fisherman,,,baluɣči,Phonemic
+20-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1074,кІир,CyrillTrans,fishhook,,,kʼir,Phonemic
+20-530-65-1,lezg1247,Lezgi (Mikrakh dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-65-1,lezg1247,Lezgi (Mikrakh dialect),388,чил,CyrillTrans,fishnet,,,čil,Phonemic
+20-610-65-1,lezg1247,Lezgi (Mikrakh dialect),1435,гъуьрч авун,CyrillTrans,hunt,,,ɣürč awun,Phonemic
+20-620-65-1,lezg1247,Lezgi (Mikrakh dialect),1172,терекдай йагъун,CyrillTrans,shoot,,,terekday yaɣun,Phonemic
+20-630-65-1,lezg1247,Lezgi (Mikrakh dialect),161,галукь тавун,CyrillTrans,miss (target),,,galuqʼ tawun,Phonemic
+20-640-65-1,lezg1247,Lezgi (Mikrakh dialect),1075,чинеба атІанвай фур,CyrillTrans,trap (noun),,,čineba atʼanway fur,Phonemic
+20-650-65-1,lezg1247,Lezgi (Mikrakh dialect),1170,кьун,CyrillTrans,trap (vb),,,qʼun,Phonemic
+21-110-65-1,lezg1247,Lezgi (Mikrakh dialect),1062,къанун,CyrillTrans,law,,,q̄anun,Phonemic
+21-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1068,дуван,CyrillTrans,court,,,"duwan, sud",Phonemic
+21-150-65-3,lezg1247,Lezgi (Mikrakh dialect),1068,суд,CyrillTrans,court,,,"duwan, sud",Phonemic
+21-160-65-1,lezg1247,Lezgi (Mikrakh dialect),1818,дуван атІун,CyrillTrans,judge (vb),,,"duwan atʼun, sud at’un",Phonemic
+21-160-65-3,lezg1247,Lezgi (Mikrakh dialect),1818,суд атІун,CyrillTrans,judge (vb),,,"duwan atʼun, sud at’un",Phonemic
+21-170-65-1,lezg1247,Lezgi (Mikrakh dialect),1067,дувандин къарар,CyrillTrans,judgment,,,"duwandin q̄arar, suddin q̄arar",Phonemic
+21-170-65-3,lezg1247,Lezgi (Mikrakh dialect),1067,суддин къарар,CyrillTrans,judgment,,,"duwandin q̄arar, suddin q̄arar",Phonemic
+21-180-65-1,lezg1247,Lezgi (Mikrakh dialect),861,къази,CyrillTrans,judge (noun),,,"q̄azi, sudya",Phonemic
+21-180-65-3,lezg1247,Lezgi (Mikrakh dialect),861,судйа,CyrillTrans,judge (noun),,,"q̄azi, sudya",Phonemic
+21-210-65-1,lezg1247,Lezgi (Mikrakh dialect),2020,арзачи,CyrillTrans,plaintiff,,,arzači,Phonemic
+21-220-65-1,lezg1247,Lezgi (Mikrakh dialect),1034,жавабдар,CyrillTrans,defendant,,,žawabdar,Phonemic
+21-230-65-1,lezg1247,Lezgi (Mikrakh dialect),1144,шагьид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-65-1,lezg1247,Lezgi (Mikrakh dialect),1939,кьин кьун,CyrillTrans,swear,,,qʼin qʼun,Phonemic
+21-250-65-1,lezg1247,Lezgi (Mikrakh dialect),1712,кьин,CyrillTrans,oath,,,qʼin,Phonemic
+21-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1814,тахсир кутун,CyrillTrans,accuse,,,taxsir kutun,Phonemic
+21-320-65-1,lezg1247,Lezgi (Mikrakh dialect),484,жаза гун,CyrillTrans,condemn,,,žaza gun,Phonemic
+21-330-65-1,lezg1247,Lezgi (Mikrakh dialect),983,тахсирлу йаз малумарун,CyrillTrans,convict (vb),,,taxsirlu yaz malumarun,Phonemic
+21-340-65-1,lezg1247,Lezgi (Mikrakh dialect),988,тахсир хивай акъудун,CyrillTrans,acquit,,,taxsir xiway aq̄udun,Phonemic
+21-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1682,тахсирлу,CyrillTrans,guilty,,,taxsirlu,Phonemic
+21-360-65-1,lezg1247,Lezgi (Mikrakh dialect),90,тахсир квачир,CyrillTrans,innocent,,,taxsir kʷačir,Phonemic
+21-370-65-1,lezg1247,Lezgi (Mikrakh dialect),390,жаза,CyrillTrans,"penalty, punishment",,,žaza,Phonemic
+21-380-65-1,lezg1247,Lezgi (Mikrakh dialect),218,пулдин жерме,CyrillTrans,fine,,,puldin žerme,Phonemic
+21-390-65-1,lezg1247,Lezgi (Mikrakh dialect),1281,дустагъ,CyrillTrans,"prison, jail",,,dustaɣ,Phonemic
+21-420-65-1,lezg1247,Lezgi (Mikrakh dialect),845,кьиникь,CyrillTrans,murder,,,qʼiniqʼ,Phonemic
+21-430-65-1,lezg1247,Lezgi (Mikrakh dialect),902,гьашервал,CyrillTrans,adultery,,,hašerwal,Phonemic
+21-440-65-1,lezg1247,Lezgi (Mikrakh dialect),953,гуж гъалибун,CyrillTrans,rape,,,guž ɣalibun,Phonemic
+21-460-65-1,lezg1247,Lezgi (Mikrakh dialect),1889,цІай йагъун,CyrillTrans,arson,,,c’ay yaɣun,Phonemic
+21-510-65-1,lezg1247,Lezgi (Mikrakh dialect),713,чуьжуьхун,CyrillTrans,steal,,,čüžüxun,Phonemic
+21-520-65-1,lezg1247,Lezgi (Mikrakh dialect),1160,угъри,CyrillTrans,thief,,,uɣri,Phonemic
+22-110-65-1,lezg1247,Lezgi (Mikrakh dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-65-1,lezg1247,Lezgi (Mikrakh dialect),1944,Гъуц,CyrillTrans,God,,,"ɣuc, Allah",Phonemic
+22-120-65-3,lezg1247,Lezgi (Mikrakh dialect),1944,Аллагь,CyrillTrans,God,,,"ɣuc, Allah",Phonemic
+22-130-65-1,lezg1247,Lezgi (Mikrakh dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-65-1,lezg1247,Lezgi (Mikrakh dialect),853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-65-1,lezg1247,Lezgi (Mikrakh dialect),1103,къурбанд,CyrillTrans,"sacrifice, offering",,,q̄urband,Phonemic
+22-160-65-1,lezg1247,Lezgi (Mikrakh dialect),257,икрамун,CyrillTrans,worship,,,ikramun,Phonemic
+22-170-65-1,lezg1247,Lezgi (Mikrakh dialect),24,капІун,CyrillTrans,pray,,,kap’un,Phonemic
+22-180-65-1,lezg1247,Lezgi (Mikrakh dialect),852,пак инсан,CyrillTrans,priest,,,pak insan,Phonemic
+22-190-65-1,lezg1247,Lezgi (Mikrakh dialect),1702,пак,CyrillTrans,"holy, sacred",,,pak,Phonemic
+22-220-65-1,lezg1247,Lezgi (Mikrakh dialect),304,чукІурун,CyrillTrans,preach,,,čukʼurun,Phonemic
+22-230-65-1,lezg1247,Lezgi (Mikrakh dialect),391,дуьз рекье тун,CyrillTrans,bless,,,düz reqʼe tun,Phonemic
+22-240-65-1,lezg1247,Lezgi (Mikrakh dialect),8,негь авун,CyrillTrans,curse,,,neh awun,Phonemic
+22-260-65-1,lezg1247,Lezgi (Mikrakh dialect),303,сив хуьн,CyrillTrans,fast (vb),,,siw xün,Phonemic
+22-310-65-1,lezg1247,Lezgi (Mikrakh dialect),1565,цавар,CyrillTrans,heaven,,,"cawar, žennet",Phonemic
+22-310-65-3,lezg1247,Lezgi (Mikrakh dialect),1565,женнет,CyrillTrans,heaven,,,"cawar, žennet",Phonemic
+22-320-65-1,lezg1247,Lezgi (Mikrakh dialect),878,жегьнем,CyrillTrans,hell,,,žehnem,Phonemic
+22-350-65-1,lezg1247,Lezgi (Mikrakh dialect),1973,иблис,CyrillTrans,demon (evil spirit),,,"iblis, šaytʼan",Phonemic
+22-350-65-3,lezg1247,Lezgi (Mikrakh dialect),1973,шайтІан,CyrillTrans,demon (evil spirit),,,"iblis, šaytʼan",Phonemic
+22-370-65-1,lezg1247,Lezgi (Mikrakh dialect),1945,хач,CyrillTrans,idol,,,xač,Phonemic
+22-420-65-1,lezg1247,Lezgi (Mikrakh dialect),392,суьгьуьр,CyrillTrans,"magic, witchcraft, sorcery",,,"sühür, tʼilisim",Phonemic
+22-420-65-3,lezg1247,Lezgi (Mikrakh dialect),392,тІилисим,CyrillTrans,"magic, witchcraft, sorcery",,,"sühür, tʼilisim",Phonemic
+22-430-65-1,lezg1247,Lezgi (Mikrakh dialect),2137,кускафтар,CyrillTrans,"sorcerer, witch",,,kuskaftar,Phonemic
+22-440-65-1,lezg1247,Lezgi (Mikrakh dialect),2138,гуьзел,CyrillTrans,"fairy, elf",,,"güzel, peri",Phonemic
+22-440-65-3,lezg1247,Lezgi (Mikrakh dialect),2138,пери,CyrillTrans,"fairy, elf",,,"güzel, peri",Phonemic
+22-450-65-1,lezg1247,Lezgi (Mikrakh dialect),1175,къаралту,CyrillTrans,"ghost, phantom",,,q̄araltu,Phonemic
+22-470-65-1,lezg1247,Lezgi (Mikrakh dialect),107,загьир хьун,CyrillTrans,"omen, portent",,,"zahir x̌un, išara",Phonemic
+22-470-65-3,lezg1247,Lezgi (Mikrakh dialect),107,ишара,CyrillTrans,"omen, portent",,,"zahir x̌un, išara",Phonemic

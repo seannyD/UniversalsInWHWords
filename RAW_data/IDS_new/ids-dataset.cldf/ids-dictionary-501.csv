@@ -1,0 +1,1524 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-501-1,botl1242,Botlikh (Miarso dialect),1852,бекъа-бекъа,CyrillTrans,often,,,beqʼa-beqʼa,Phonemic
+14-310-501-1,botl1242,Botlikh (Miarso dialect),1676,индагІала,CyrillTrans,always,,,indaʕala,Phonemic
+14-290-501-1,botl1242,Botlikh (Miarso dialect),790,булълъаб,CyrillTrans,ready,,,buɬ̄ab,Phonemic
+14-280-501-1,botl1242,Botlikh (Miarso dialect),1928,булълъай,CyrillTrans,"cease, stop",,,"buɬ̄ay, mixay",Phonemic
+14-280-501-3,botl1242,Botlikh (Miarso dialect),1928,михай,CyrillTrans,"cease, stop",,,"buɬ̄ay, mixay",Phonemic
+14-270-501-1,botl1242,Botlikh (Miarso dialect),1766,булълъай,CyrillTrans,finish,,,buɬ̄ay,Phonemic
+14-260-501-1,botl1242,Botlikh (Miarso dialect),743,булълъай,CyrillTrans,end (temporal),,,buɬ̄ay,Phonemic
+14-252-501-1,botl1242,Botlikh (Miarso dialect),1186,кьони заман тІами,CyrillTrans,"last, endure",,,ƛ̄ʼoni zaman tʼami,Phonemic
+14-250-501-1,botl1242,Botlikh (Miarso dialect),1806,бачІай,CyrillTrans,"begin, beginning",,,"bačʼay, sesub",Phonemic
+14-250-501-3,botl1242,Botlikh (Miarso dialect),1806,сесуб,CyrillTrans,"begin, beginning",,,"bačʼay, sesub",Phonemic
+14-240-501-1,botl1242,Botlikh (Miarso dialect),425,бигьангьу,CyrillTrans,"retard, delay",,,"bihanhu, ħinci",Phonemic
+14-240-501-3,botl1242,Botlikh (Miarso dialect),425,хІинци,CyrillTrans,"retard, delay",,,"bihanhu, ħinci",Phonemic
+14-230-501-1,botl1242,Botlikh (Miarso dialect),754,хехи (гІедегІута),CyrillTrans,"hasten, hurry",,,x̄ex̄i (ʕedeʕuta),Phonemic
+14-220-501-1,botl1242,Botlikh (Miarso dialect),701,хІинци,CyrillTrans,slow,,,ħinci,Phonemic
+14-210-501-1,botl1242,Botlikh (Miarso dialect),1631,ххеххи,CyrillTrans,"swift, fast, quick",,,x̄ex̄i,Phonemic
+14-190-501-1,botl1242,Botlikh (Miarso dialect),1963,бехъадаххеххо,CyrillTrans,immediately,,,beqadax̄ex̄o,Phonemic
+14-180-501-1,botl1242,Botlikh (Miarso dialect),1376,гьасагІати,CyrillTrans,now,,,hasaʕati,Phonemic
+14-170-501-1,botl1242,Botlikh (Miarso dialect),477,кватІив,CyrillTrans,late,,,kʷatʼiw,Phonemic
+14-160-501-1,botl1242,Botlikh (Miarso dialect),672,бекъада,CyrillTrans,early,,,beqʼada,Phonemic
+14-150-501-1,botl1242,Botlikh (Miarso dialect),1229,бахара,CyrillTrans,old,,,"baxara, waxara",Phonemic
+14-150-501-3,botl1242,Botlikh (Miarso dialect),1229,вахара,CyrillTrans,old,,,"baxara, waxara",Phonemic
+14-140-501-1,botl1242,Botlikh (Miarso dialect),1207,гІолохъанаб,CyrillTrans,young,,,ʕoloqanab,Phonemic
+14-120-501-1,botl1242,Botlikh (Miarso dialect),1789,заман,CyrillTrans,age,,,"zaman, zih, ʕasru",Phonemic
+14-120-501-3,botl1242,Botlikh (Miarso dialect),1789,ригь,CyrillTrans,age,,,"zaman, zih, ʕasru",Phonemic
+14-120-501-5,botl1242,Botlikh (Miarso dialect),1789,гІасру,CyrillTrans,age,,,"zaman, zih, ʕasru",Phonemic
+14-130-501-1,botl1242,Botlikh (Miarso dialect),1231,цІив,CyrillTrans,new,,,cʼiw,Phonemic
+14-110-501-1,botl1242,Botlikh (Miarso dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-501-1,botl1242,Botlikh (Miarso dialect),417,гьабуда микъиди,CyrillTrans,three times,,,habuda miqʼidi,Phonemic
+13-420-501-1,botl1242,Botlikh (Miarso dialect),1859,гьабуйлъов,CyrillTrans,third,,,habuyɬow,Phonemic
+13-380-501-1,botl1242,Botlikh (Miarso dialect),1546,кІеда микъиди,CyrillTrans,two times,,,kʼeda miqʼidi,Phonemic
+13-370-501-1,botl1242,Botlikh (Miarso dialect),1888,кІеда сандусуб,CyrillTrans,pair,,,kʼeda sandusub,Phonemic
+13-360-501-1,botl1242,Botlikh (Miarso dialect),1384,къейилъов,CyrillTrans,second,,,qʼeyiɬow,Phonemic
+13-350-501-1,botl1242,Botlikh (Miarso dialect),1529,гьечІи весхъесув,CyrillTrans,last,,,hečʼi wesqesuw,Phonemic
+13-340-501-1,botl1242,Botlikh (Miarso dialect),728,гьечІи сесув,CyrillTrans,first,,,hečʼi sesuw,Phonemic
+13-330-501-1,botl1242,Botlikh (Miarso dialect),1580,цевда цев,CyrillTrans,"alone, only",,,cewda cew,Phonemic
+13-240-501-1,botl1242,Botlikh (Miarso dialect),816,бекъин,CyrillTrans,half,,,beqʼin,Phonemic
+13-230-501-1,botl1242,Botlikh (Miarso dialect),779,зукІуна,CyrillTrans,"part, piece",,,zukʼuna,Phonemic
+13-220-501-1,botl1242,Botlikh (Miarso dialect),1624,бечІудасуб,CyrillTrans,empty,,,bečʼudasub,Phonemic
+13-210-501-1,botl1242,Botlikh (Miarso dialect),1429,гьибцІаб,CyrillTrans,full,,,hibcʼab,Phonemic
+13-190-501-1,botl1242,Botlikh (Miarso dialect),2023,кьоникІвала,CyrillTrans,"multitude, crowd",,,ƛ̄ʼonikʼʷala,Phonemic
+13-181-501-1,botl1242,Botlikh (Miarso dialect),1241,цеб чамула,CyrillTrans,some,,,ceb čamula,Phonemic
+13-170-501-1,botl1242,Botlikh (Miarso dialect),1242,асар,CyrillTrans,"little (quantity), few",,,asar,Phonemic
+13-180-501-1,botl1242,Botlikh (Miarso dialect),1881,мугъидера,CyrillTrans,enough,,,muɣidera,Phonemic
+13-160-501-1,botl1242,Botlikh (Miarso dialect),1992,бечІуха,CyrillTrans,more,,,bečʼuxa,Phonemic
+13-150-501-1,botl1242,Botlikh (Miarso dialect),1198,кьонихи,CyrillTrans,"much, many",,,ƛ̄ʼonixi,Phonemic
+13-140-501-1,botl1242,Botlikh (Miarso dialect),98,тІолгуда,CyrillTrans,"every, all",,,tʼolguda,Phonemic
+13-107-501-1,botl1242,Botlikh (Miarso dialect),1420,мицІи,CyrillTrans,count,,,micʼi,Phonemic
+13-106-501-1,botl1242,Botlikh (Miarso dialect),1843,азаруда,CyrillTrans,thousand,,,azaruda,Phonemic
+13-105-501-1,botl1242,Botlikh (Miarso dialect),1634,бешунуда,CyrillTrans,hundred,,,bešunuda,Phonemic
+13-104-501-1,botl1242,Botlikh (Miarso dialect),1710,кІецІалида,CyrillTrans,twenty,,,kʼecʼalida,Phonemic
+13-103-501-1,botl1242,Botlikh (Miarso dialect),1709,гьацІалъи иштуда,CyrillTrans,fifteen,,,hacʼaɬi ištuda,Phonemic
+13-102-501-1,botl1242,Botlikh (Miarso dialect),1707,гьацІалъи кІеда,CyrillTrans,twelve,,,hacʼaɬi kʼeda,Phonemic
+13-101-501-1,botl1242,Botlikh (Miarso dialect),1706,гьацІалъи цеб,CyrillTrans,eleven,,,hacʼaɬi ceb,Phonemic
+13-100-501-1,botl1242,Botlikh (Miarso dialect),1515,гьацІада,CyrillTrans,ten,,,hacʼada,Phonemic
+13-90-501-1,botl1242,Botlikh (Miarso dialect),1483,гьачІада,CyrillTrans,nine,,,hačʼada,Phonemic
+13-80-501-1,botl1242,Botlikh (Miarso dialect),1705,бикьида,CyrillTrans,eight,,,biƛ̄ʼida,Phonemic
+13-70-501-1,botl1242,Botlikh (Miarso dialect),1704,гьакьуда,CyrillTrans,seven,,,haƛ̄ʼuda,Phonemic
+13-60-501-1,botl1242,Botlikh (Miarso dialect),1703,инлъида,CyrillTrans,six,,,inɬida,Phonemic
+13-50-501-1,botl1242,Botlikh (Miarso dialect),493,иштуда,CyrillTrans,five,,,ištuda,Phonemic
+13-40-501-1,botl1242,Botlikh (Miarso dialect),1500,бугъуда,CyrillTrans,four,,,buɣuda,Phonemic
+13-20-501-1,botl1242,Botlikh (Miarso dialect),1498,кІеда,CyrillTrans,two,,,kʼeda,Phonemic
+13-30-501-1,botl1242,Botlikh (Miarso dialect),492,гьабуда,CyrillTrans,three,,,habuda,Phonemic
+13-10-501-1,botl1242,Botlikh (Miarso dialect),1493,цеб,CyrillTrans,one,,,ceb,Phonemic
+13-0-501-1,botl1242,Botlikh (Miarso dialect),1294,эбкІвала,CyrillTrans,"zero, nothing",,,"ebkʼʷala, nolʲ",Phonemic
+13-0-501-3,botl1242,Botlikh (Miarso dialect),1294,ноль,CyrillTrans,"zero, nothing",,,"ebkʼʷala, nolʲ",Phonemic
+12-930-501-1,botl1242,Botlikh (Miarso dialect),1264,бершай,CyrillTrans,change,,,beršay,Phonemic
+12-920-501-1,botl1242,Botlikh (Miarso dialect),1558,балъина,CyrillTrans,"like, similar",,,baɬina,Phonemic
+12-840-501-1,botl1242,Botlikh (Miarso dialect),1048,мухъи,CyrillTrans,line,,,muqi,Phonemic
+12-850-501-1,botl1242,Botlikh (Miarso dialect),1667,баган,CyrillTrans,hole,,,bagan,Phonemic
+12-830-501-1,botl1242,Botlikh (Miarso dialect),1845,гургинаб нар,CyrillTrans,"sphere, ball",,,"gurginab nar, šar",Phonemic
+12-830-501-3,botl1242,Botlikh (Miarso dialect),1845,шар,CyrillTrans,"sphere, ball",,,"gurginab nar, šar",Phonemic
+12-810-501-1,botl1242,Botlikh (Miarso dialect),1395,гургинаб,CyrillTrans,round,,,gurginab,Phonemic
+12-820-501-1,botl1242,Botlikh (Miarso dialect),1467,гургинаб гор,CyrillTrans,circle,,,gor,Phonemic
+12-780-501-1,botl1242,Botlikh (Miarso dialect),850,бугъу бекІунаб,CyrillTrans,square,,,buɣu bekʼunab,Phonemic
+12-770-501-1,botl1242,Botlikh (Miarso dialect),1367,анжи букІай,CyrillTrans,cross,,,"anži bukʼay, qanč",Phonemic
+12-770-501-3,botl1242,Botlikh (Miarso dialect),1367,хъанч,CyrillTrans,cross,,,"anži bukʼay, qanč",Phonemic
+12-760-501-1,botl1242,Botlikh (Miarso dialect),192,бекІун,CyrillTrans,corner,,,bekʼun,Phonemic
+12-750-501-1,botl1242,Botlikh (Miarso dialect),1071,газа,CyrillTrans,hook,,,"gaza, ɣancʼo",Phonemic
+12-750-501-3,botl1242,Botlikh (Miarso dialect),1071,гъанцІо,CyrillTrans,hook,,,"gaza, ɣancʼo",Phonemic
+12-740-501-1,botl1242,Botlikh (Miarso dialect),297,кІичІаб,CyrillTrans,crooked,,,kʼičʼab,Phonemic
+12-730-501-1,botl1242,Botlikh (Miarso dialect),1404,битІи,CyrillTrans,straight,,,"bitʼi, bexila",Phonemic
+12-730-501-3,botl1242,Botlikh (Miarso dialect),1404,бехила,CyrillTrans,straight,,,"bitʼi, bexila",Phonemic
+12-710-501-1,botl1242,Botlikh (Miarso dialect),1633,битІи,CyrillTrans,flat,,,bitʼi,Phonemic
+12-680-501-1,botl1242,Botlikh (Miarso dialect),193,ккапуцил,CyrillTrans,shallow,,,k̄anc̄il,Phonemic
+12-670-501-1,botl1242,Botlikh (Miarso dialect),1593,гъуди,CyrillTrans,deep,,,ɣudi,Phonemic
+12-650-501-1,botl1242,Botlikh (Miarso dialect),2249,беэра,CyrillTrans,thin (in dimension),,,beʔera,Phonemic
+12-630-501-1,botl1242,Botlikh (Miarso dialect),1244,биши,CyrillTrans,thick (in dimension),,,biši,Phonemic
+12-620-501-1,botl1242,Botlikh (Miarso dialect),1267,чІидир,CyrillTrans,narrow,,,čʼidir,Phonemic
+12-610-501-1,botl1242,Botlikh (Miarso dialect),1243,гъаби,CyrillTrans,"wide, broad",,,ɣabi,Phonemic
+12-590-501-1,botl1242,Botlikh (Miarso dialect),1645,бечекІи,CyrillTrans,short,,,bečekʼi,Phonemic
+12-580-501-1,botl1242,Botlikh (Miarso dialect),711,гьирцІи,CyrillTrans,tall,,,hircʼi,Phonemic
+12-570-501-1,botl1242,Botlikh (Miarso dialect),1203,бехила,CyrillTrans,long,,,bexila,Phonemic
+12-560-501-1,botl1242,Botlikh (Miarso dialect),1246,зукІкІу,CyrillTrans,"small, little",,,zuk̄ʼu,Phonemic
+12-550-501-1,botl1242,Botlikh (Miarso dialect),1202,бечІуха,CyrillTrans,"large, big",,,bečʼuxa,Phonemic
+12-540-501-1,botl1242,Botlikh (Miarso dialect),1506,маси,CyrillTrans,measure,,,"masi, masataɬi",Phonemic
+12-540-501-3,botl1242,Botlikh (Miarso dialect),1506,масаталъи,CyrillTrans,measure,,,"masi, masataɬi",Phonemic
+12-530-501-1,botl1242,Botlikh (Miarso dialect),479,бижай,CyrillTrans,grow,,,bižay,Phonemic
+12-480-501-1,botl1242,Botlikh (Miarso dialect),1595,къилба,CyrillTrans,south,,,qʼilba,Phonemic
+12-470-501-1,botl1242,Botlikh (Miarso dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-501-1,botl1242,Botlikh (Miarso dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-501-1,botl1242,Botlikh (Miarso dialect),1877,машрикъ,CyrillTrans,east,,,mašriqʼ,Phonemic
+12-430-501-1,botl1242,Botlikh (Miarso dialect),1942,бекьару,CyrillTrans,near (adv),,,beƛ̄ʼaru,Phonemic
+12-440-501-1,botl1242,Botlikh (Miarso dialect),1406,чІиду,CyrillTrans,far (adv),,,čʼidu,Phonemic
+12-420-501-1,botl1242,Botlikh (Miarso dialect),244,кІичІи (рахъи),CyrillTrans,left (side),,,kʼičʼi (raqi),Phonemic
+12-410-501-1,botl1242,Botlikh (Miarso dialect),1019,битІи (рахъи),CyrillTrans,right (side),,,bitʼi (raqi),Phonemic
+12-370-501-1,botl1242,Botlikh (Miarso dialect),1093,бакьилъасуб муса,CyrillTrans,"middle, center",,,baƛ̄ʼiɬasub musa,Phonemic
+12-360-501-1,botl1242,Botlikh (Miarso dialect),682,гъижихи,CyrillTrans,side,,,"ɣižixi, raqi",Phonemic
+12-360-501-3,botl1242,Botlikh (Miarso dialect),682,рахъи,CyrillTrans,side,,,"ɣižixi, raqi",Phonemic
+12-353-501-1,botl1242,Botlikh (Miarso dialect),863,бай,CyrillTrans,edge,,,bay,Phonemic
+12-352-501-1,botl1242,Botlikh (Miarso dialect),372,цІункІи элилъи,CyrillTrans,pointed,,,cʼunkʼi eliɬi,Phonemic
+12-350-501-1,botl1242,Botlikh (Miarso dialect),742,булълъу,CyrillTrans,end,,,"buɬ̄u, axiz",Phonemic
+12-350-501-3,botl1242,Botlikh (Miarso dialect),742,ахир,CyrillTrans,end,,,"buɬ̄u, axiz",Phonemic
+12-340-501-1,botl1242,Botlikh (Miarso dialect),690,гьингъул,CyrillTrans,bottom,,,hinɣul,Phonemic
+12-320-501-1,botl1242,Botlikh (Miarso dialect),721,чІабтІи,CyrillTrans,low,,,čʼabtʼi,Phonemic
+12-330-501-1,botl1242,Botlikh (Miarso dialect),1753,эли,CyrillTrans,top,,,eli,Phonemic
+12-310-501-1,botl1242,Botlikh (Miarso dialect),1265,гьирцІи,CyrillTrans,high,,,hircʼi,Phonemic
+12-270-501-1,botl1242,Botlikh (Miarso dialect),602,бакъашай,CyrillTrans,"hide, conceal",,,"baqʼašay, qʼinšay",Phonemic
+12-270-501-3,botl1242,Botlikh (Miarso dialect),602,къиншай,CyrillTrans,"hide, conceal",,,"baqʼašay, qʼinšay",Phonemic
+12-250-501-1,botl1242,Botlikh (Miarso dialect),1046,ибди,CyrillTrans,"shut, close",,,"ibdi, iši",Phonemic
+12-250-501-3,botl1242,Botlikh (Miarso dialect),1046,иши,CyrillTrans,"shut, close",,,"ibdi, iši",Phonemic
+12-260-501-1,botl1242,Botlikh (Miarso dialect),761,гье тІами,CyrillTrans,cover,,,he tʼami,Phonemic
+12-240-501-1,botl1242,Botlikh (Miarso dialect),1156,хвабди,CyrillTrans,open,,,xʷabdi,Phonemic
+12-232-501-1,botl1242,Botlikh (Miarso dialect),1119,микъай,CyrillTrans,divide,,,miqʼay,Phonemic
+12-230-501-1,botl1242,Botlikh (Miarso dialect),1359,батІагьи,CyrillTrans,separate,,,batʼahi,Phonemic
+12-220-501-1,botl1242,Botlikh (Miarso dialect),1743,санду гьабажай,CyrillTrans,"join, unite",,,"sandu habažay, danda bakʼaray",Phonemic
+12-220-501-3,botl1242,Botlikh (Miarso dialect),1743,данда бакІарай,CyrillTrans,"join, unite",,,"sandu habažay, danda bakʼaray",Phonemic
+12-213-501-1,botl1242,Botlikh (Miarso dialect),1576,бакІарай,CyrillTrans,pile up,,,"bakʼaray, ɣuni ihi",Phonemic
+12-213-501-3,botl1242,Botlikh (Miarso dialect),1576,гъуни игьи,CyrillTrans,pile up,,,"bakʼaray, ɣuni ihi",Phonemic
+12-212-501-1,botl1242,Botlikh (Miarso dialect),371,сабди,CyrillTrans,pick up,,,"sabdi, hircʼay",Phonemic
+12-212-501-3,botl1242,Botlikh (Miarso dialect),371,гьирцІай,CyrillTrans,pick up,,,"sabdi, hircʼay",Phonemic
+12-210-501-1,botl1242,Botlikh (Miarso dialect),7,сабди,CyrillTrans,"collect, gather",,,sabdi,Phonemic
+12-170-501-1,botl1242,Botlikh (Miarso dialect),838,бехваб нар,CyrillTrans,"remains, left overs",,,"bexʷab nar, xut’el",Phonemic
+12-170-501-3,botl1242,Botlikh (Miarso dialect),838,хутІел,CyrillTrans,"remains, left overs",,,"bexʷab nar, xut’el",Phonemic
+12-160-501-1,botl1242,Botlikh (Miarso dialect),987,рикъи,CyrillTrans,"remain, stay",,,"riqʼi, riɣi",Phonemic
+12-160-501-3,botl1242,Botlikh (Miarso dialect),987,ригъи,CyrillTrans,"remain, stay",,,"riqʼi, riɣi",Phonemic
+12-150-501-1,botl1242,Botlikh (Miarso dialect),1442,гьирчІу ригъи,CyrillTrans,stand,,,hirčʼu riɣi,Phonemic
+12-140-501-1,botl1242,Botlikh (Miarso dialect),215,рерахи,CyrillTrans,lie down,,,reraxi,Phonemic
+12-130-501-1,botl1242,Botlikh (Miarso dialect),1416,гьарчІахи рукІи,CyrillTrans,sit,,,harčʼaxi rukʼi,Phonemic
+12-120-501-1,botl1242,Botlikh (Miarso dialect),998,букІай,CyrillTrans,put,,,bukʼay,Phonemic
+12-110-501-1,botl1242,Botlikh (Miarso dialect),723,муса-санду,CyrillTrans,place,,,musa-sandu,Phonemic
+12-80-501-1,botl1242,Botlikh (Miarso dialect),1591,гьеасуб,CyrillTrans,"up, above",,,heasub,Phonemic
+12-70-501-1,botl1242,Botlikh (Miarso dialect),1485,гьикьисуб,CyrillTrans,under,,,hiƛ̄ʼisub,Phonemic
+12-60-501-1,botl1242,Botlikh (Miarso dialect),762,орсусуб,CyrillTrans,outside,,,orsusub,Phonemic
+12-50-501-1,botl1242,Botlikh (Miarso dialect),1606,гьинусуб,CyrillTrans,"inside, in",,,hinusub,Phonemic
+12-41-501-1,botl1242,Botlikh (Miarso dialect),1883,сеа,CyrillTrans,front,,,sea,Phonemic
+12-40-501-1,botl1242,Botlikh (Miarso dialect),1882,сеа,CyrillTrans,before,,,sea,Phonemic
+12-30-501-1,botl1242,Botlikh (Miarso dialect),2094,гьикьи,CyrillTrans,"down, below",,,hiƛ̄ʼi,Phonemic
+12-20-501-1,botl1242,Botlikh (Miarso dialect),1816,бекьару,CyrillTrans,beside,,,beƛ̄ʼaru,Phonemic
+12-11-501-1,botl1242,Botlikh (Miarso dialect),1686,рахъи,CyrillTrans,behind,,,"raqi, bilki",Phonemic
+12-11-501-3,botl1242,Botlikh (Miarso dialect),1686,билки,CyrillTrans,behind,,,"raqi, bilki",Phonemic
+12-10-501-1,botl1242,Botlikh (Miarso dialect),1685,эха,CyrillTrans,after,,,"exa, bexutʼu",Phonemic
+12-10-501-3,botl1242,Botlikh (Miarso dialect),1685,бехутІу,CyrillTrans,after,,,"exa, bexutʼu",Phonemic
+11-920-501-1,botl1242,Botlikh (Miarso dialect),1098,гапди,CyrillTrans,weigh,,,gapdi,Phonemic
+11-910-501-1,botl1242,Botlikh (Miarso dialect),884,микъай,CyrillTrans,share (distribute),,,miqʼay,Phonemic
+11-890-501-1,botl1242,Botlikh (Miarso dialect),1887,учузаб,CyrillTrans,cheap,,,učuzab,Phonemic
+11-880-501-1,botl1242,Botlikh (Miarso dialect),1426,хирайаб,CyrillTrans,"dear (costly, expensive)",,,xirayab,Phonemic
+11-870-501-1,botl1242,Botlikh (Miarso dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-501-1,botl1242,Botlikh (Miarso dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-501-1,botl1242,Botlikh (Miarso dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-501-1,botl1242,Botlikh (Miarso dialect),1082,дарам игьихов адам,CyrillTrans,merchant,,,"daram ihixow adam, bazargan",Phonemic
+11-840-501-3,botl1242,Botlikh (Miarso dialect),1082,базарган,CyrillTrans,merchant,,,"daram ihixow adam, bazargan",Phonemic
+11-830-501-1,botl1242,Botlikh (Miarso dialect),2135,дарам,CyrillTrans,"trade, barter",,,"daram, daram-bazar",Phonemic
+11-830-501-3,botl1242,Botlikh (Miarso dialect),2135,дарам-базар,CyrillTrans,"trade, barter",,,"daram, daram-bazar",Phonemic
+11-820-501-1,botl1242,Botlikh (Miarso dialect),1571,бичи,CyrillTrans,sell,,,biči,Phonemic
+11-810-501-1,botl1242,Botlikh (Miarso dialect),1869,бича ибхи,CyrillTrans,buy,,,biča ibxi,Phonemic
+11-790-501-1,botl1242,Botlikh (Miarso dialect),733,игьа вагьу,CyrillTrans,earn,,,"iha wahu, bacʼay",Phonemic
+11-790-501-3,botl1242,Botlikh (Miarso dialect),733,бацІай,CyrillTrans,earn,,,"iha wahu, bacʼay",Phonemic
+11-780-501-1,botl1242,Botlikh (Miarso dialect),1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-501-1,botl1242,Botlikh (Miarso dialect),856,бесуха икки (ибхваб),CyrillTrans,hire,,,besuxa ik̄i (ibxʷab),Phonemic
+11-690-501-1,botl1242,Botlikh (Miarso dialect),873,магъалу,CyrillTrans,"tax, tribute",,,"maɣalu, nalog",Phonemic
+11-690-501-3,botl1242,Botlikh (Miarso dialect),873,налуг,CyrillTrans,"tax, tribute",,,"maɣalu, nalog",Phonemic
+11-660-501-1,botl1242,Botlikh (Miarso dialect),1081,мицци,CyrillTrans,"account, reckoning",,,"mic̄i, ħisab",Phonemic
+11-660-501-3,botl1242,Botlikh (Miarso dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,"mic̄i, ħisab",Phonemic
+11-650-501-1,botl1242,Botlikh (Miarso dialect),718,арси (налъи) икки,CyrillTrans,pay (vb),,,arsi (naɬi) ik̄i,Phonemic
+11-640-501-1,botl1242,Botlikh (Miarso dialect),1914,налъи,CyrillTrans,debt,,,"naɬi, qʼarz",Phonemic
+11-640-501-3,botl1242,Botlikh (Miarso dialect),1914,къарз,CyrillTrans,debt,,,"naɬi, qʼarz",Phonemic
+11-630-501-1,botl1242,Botlikh (Miarso dialect),369,налъулав вукІи,CyrillTrans,owe,,,naɬulaw wukʼi,Phonemic
+11-620-501-1,botl1242,Botlikh (Miarso dialect),1823,бацІай,CyrillTrans,borrow,,,bacʼay,Phonemic
+11-610-501-1,botl1242,Botlikh (Miarso dialect),582,налъилъи икки,CyrillTrans,lend,,,naɬiɬi ik̄i,Phonemic
+11-540-501-1,botl1242,Botlikh (Miarso dialect),1774,къиндаб,CyrillTrans,"avaricious, stingy",,,qʼindab,Phonemic
+11-530-501-1,botl1242,Botlikh (Miarso dialect),1934,хахабакъу,CyrillTrans,beggar,,,"xaxabaqʼu, paqʼir",Phonemic
+11-530-501-3,botl1242,Botlikh (Miarso dialect),1934,пакъир,CyrillTrans,beggar,,,"xaxabaqʼu, paqʼir",Phonemic
+11-520-501-1,botl1242,Botlikh (Miarso dialect),1674,мискинав,CyrillTrans,poor,,,miskinaw,Phonemic
+11-510-501-1,botl1242,Botlikh (Miarso dialect),712,бечедав,CyrillTrans,rich,,,bečedaw,Phonemic
+11-440-501-1,botl1242,Botlikh (Miarso dialect),1867,кІкІанцІил арси,CyrillTrans,coin,,,k̄ʼancʼil arsi,Phonemic
+11-430-501-1,botl1242,Botlikh (Miarso dialect),1559,арси,CyrillTrans,money,,,arsi,Phonemic
+11-340-501-1,botl1242,Botlikh (Miarso dialect),1095,бешти,CyrillTrans,"release, let go",,,bešti,Phonemic
+11-330-501-1,botl1242,Botlikh (Miarso dialect),1660,битай,CyrillTrans,lose,,,bitay,Phonemic
+11-320-501-1,botl1242,Botlikh (Miarso dialect),719,мисай,CyrillTrans,find,,,misay,Phonemic
+11-310-501-1,botl1242,Botlikh (Miarso dialect),1468,хинцІай,CyrillTrans,"seek, look for",,,xincʼay,Phonemic
+11-280-501-1,botl1242,Botlikh (Miarso dialect),44,зарар игьи,CyrillTrans,"harm, injure, damage",,,zarar ihi,Phonemic
+11-270-501-1,botl1242,Botlikh (Miarso dialect),681,бихай,CyrillTrans,destroy,,,bixay,Phonemic
+11-250-501-1,botl1242,Botlikh (Miarso dialect),2008,ворчІай,CyrillTrans,"save, rescue",,,worčʼay,Phonemic
+11-240-501-1,botl1242,Botlikh (Miarso dialect),1997,цІимди,CyrillTrans,"preserve, look after",,,cʼimdi,Phonemic
+11-220-501-1,botl1242,Botlikh (Miarso dialect),85,бесуха икки,CyrillTrans,give back,,,besuxa ik̄i,Phonemic
+11-210-501-1,botl1242,Botlikh (Miarso dialect),1447,икки,CyrillTrans,give,,,"ik̄i, ik̄a",Phonemic
+11-210-501-3,botl1242,Botlikh (Miarso dialect),1447,икка,CyrillTrans,give,,,"ik̄i, ik̄a",Phonemic
+11-180-501-1,botl1242,Botlikh (Miarso dialect),738,на,CyrillTrans,thing,,,"na, nar",Phonemic
+11-180-501-3,botl1242,Botlikh (Miarso dialect),738,нар,CyrillTrans,thing,,,"na, nar",Phonemic
+11-170-501-1,botl1242,Botlikh (Miarso dialect),1477,цимди,CyrillTrans,"keep, retain",,,cimdi,Phonemic
+11-160-501-1,botl1242,Botlikh (Miarso dialect),694,бацІай,CyrillTrans,"get, obtain",,,bacʼay,Phonemic
+11-150-501-1,botl1242,Botlikh (Miarso dialect),1448,бикки,CyrillTrans,hold,,,bik̄i,Phonemic
+11-140-501-1,botl1242,Botlikh (Miarso dialect),2021,бикки,CyrillTrans,"seize, grasp",,,bik̄i,Phonemic
+11-130-501-1,botl1242,Botlikh (Miarso dialect),1749,ваци,CyrillTrans,take,,,waci,Phonemic
+11-120-501-1,botl1242,Botlikh (Miarso dialect),684,баци,CyrillTrans,"own, possess",,,baci,Phonemic
+11-110-501-1,botl1242,Botlikh (Miarso dialect),773,букІи,CyrillTrans,have,,,bukʼi,Phonemic
+10-920-501-1,botl1242,Botlikh (Miarso dialect),1922,решкуй,CyrillTrans,land (vb),,,reškuy,Phonemic
+10-910-501-1,botl1242,Botlikh (Miarso dialect),610,гама бигъихаб муса,CyrillTrans,"harbor, port",,,"gama biɣixab musa, port",Phonemic
+10-910-501-3,botl1242,Botlikh (Miarso dialect),610,порт,CyrillTrans,"harbor, port",,,"gama biɣixab musa, port",Phonemic
+10-890-501-1,botl1242,Botlikh (Miarso dialect),1870,гама михабхаб гъанцІо,CyrillTrans,anchor,,,gama mixabxab ɣancʼo,Phonemic
+10-880-501-1,botl1242,Botlikh (Miarso dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-501-1,botl1242,Botlikh (Miarso dialect),184,гамачІу гьесуб гьума,CyrillTrans,mast,,,gamačʼu hesub huma,Phonemic
+10-860-501-1,botl1242,Botlikh (Miarso dialect),108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-852-501-1,botl1242,Botlikh (Miarso dialect),1849,лъени гьарди,CyrillTrans,row (vb),,,ɬeni hardi,Phonemic
+10-851-501-1,botl1242,Botlikh (Miarso dialect),234,лъени гьардихаб рехин,CyrillTrans,paddle (noun),,,ɬeni hardixab rexin,Phonemic
+10-850-501-1,botl1242,Botlikh (Miarso dialect),108,лъени гьардихаб рехин,CyrillTrans,oar,,,ɬeni hardixab rexin,Phonemic
+10-840-501-1,botl1242,Botlikh (Miarso dialect),1664,камилъи гама,CyrillTrans,raft,,,kamiɬi gama,Phonemic
+10-832-501-1,botl1242,Botlikh (Miarso dialect),416,зукІкІу гама,CyrillTrans,outrigger,,,zuk̄’u gama,Phonemic
+10-831-501-1,botl1242,Botlikh (Miarso dialect),1970,зукІкІу гама,CyrillTrans,canoe,,,zuk̄’u gama,Phonemic
+10-830-501-1,botl1242,Botlikh (Miarso dialect),1844,зукІкІу гама,CyrillTrans,boat,,,zuk̄’u gama,Phonemic
+10-810-501-1,botl1242,Botlikh (Miarso dialect),740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-501-1,botl1242,Botlikh (Miarso dialect),14,гьамохичІу,CyrillTrans,yoke,,,"hamoxičʼu, kʼatučʼu, garɬi buxayxab nar",Phonemic
+10-780-501-3,botl1242,Botlikh (Miarso dialect),14,кІатучІу,CyrillTrans,yoke,,,"hamoxičʼu, kʼatučʼu, garɬi buxayxab nar",Phonemic
+10-780-501-5,botl1242,Botlikh (Miarso dialect),14,гарлъи бухайхаб нар,CyrillTrans,yoke,,,"hamoxičʼu, kʼatučʼu, garɬi buxayxab nar",Phonemic
+10-770-501-1,botl1242,Botlikh (Miarso dialect),1769,горе биккихаб хантІа,CyrillTrans,axle,,,gore bik̄ixab xantʼa,Phonemic
+10-760-501-1,botl1242,Botlikh (Miarso dialect),710,хив,CyrillTrans,wheel,,,xiw,Phonemic
+10-750-501-1,botl1242,Botlikh (Miarso dialect),122,гьоко,CyrillTrans,"carriage, wagon, cart",,,hoko,Phonemic
+10-740-501-1,botl1242,Botlikh (Miarso dialect),1011,кьири,CyrillTrans,bridge,,,ƛ̄ʼiri,Phonemic
+10-720-501-1,botl1242,Botlikh (Miarso dialect),2252,беэра микъи,CyrillTrans,path,,,beera miqʼi,Phonemic
+10-710-501-1,botl1242,Botlikh (Miarso dialect),667,микъи,CyrillTrans,road,,,miqʼi,Phonemic
+10-670-501-1,botl1242,Botlikh (Miarso dialect),1452,биси,CyrillTrans,"push, shove",,,bisi,Phonemic
+10-660-501-1,botl1242,Botlikh (Miarso dialect),367,кІатІучІу накІва (наи),CyrillTrans,ride,,,kʼatʼučʼu nakʼwa (nai),Phonemic
+10-650-501-1,botl1242,Botlikh (Miarso dialect),741,машиначІу гье накІва (наи),CyrillTrans,drive,,,mašinačʼu he nakʼʷa (nai),Phonemic
+10-640-501-1,botl1242,Botlikh (Miarso dialect),43,хи,CyrillTrans,lead (vb),,,"xi, ki",Phonemic
+10-640-501-3,botl1242,Botlikh (Miarso dialect),43,ки,CyrillTrans,lead (vb),,,"xi, ki",Phonemic
+10-630-501-1,botl1242,Botlikh (Miarso dialect),1127,бешти,CyrillTrans,send,,,bešti,Phonemic
+10-620-501-1,botl1242,Botlikh (Miarso dialect),692,ибхи,CyrillTrans,bring,,,ibxi,Phonemic
+10-615-501-1,botl1242,Botlikh (Miarso dialect),415,гьваркьи букІо хи,CyrillTrans,carry-underarm,,,hʷarƛ̄ʼi bukʼo xi,Phonemic
+10-614-501-1,botl1242,Botlikh (Miarso dialect),414,гъваналу гье хи,CyrillTrans,carry-on-head,,,ɣʷanalu he хi,Phonemic
+10-613-501-1,botl1242,Botlikh (Miarso dialect),413,гъижигъване хи,CyrillTrans,carry-on-shoulder,,,ɣižiɣʷane xi,Phonemic
+10-612-501-1,botl1242,Botlikh (Miarso dialect),412,кваду хи,CyrillTrans,carry-in-hand,,,kʷadu xi,Phonemic
+10-610-501-1,botl1242,Botlikh (Miarso dialect),700,барлълъи,CyrillTrans,carry (bear),,,barɬ̄i,Phonemic
+10-570-501-1,botl1242,Botlikh (Miarso dialect),749,гьина рухъи,CyrillTrans,enter,,,hina ruqi,Phonemic
+10-560-501-1,botl1242,Botlikh (Miarso dialect),1778,рекьара рацІи,CyrillTrans,approach,,,reƛ̄ʼara racʼi,Phonemic
+10-550-501-1,botl1242,Botlikh (Miarso dialect),1387,квада бацІай,CyrillTrans,"reach, arrive",,,kʷada bacʼay,Phonemic
+10-530-501-1,botl1242,Botlikh (Miarso dialect),1047,рехутІу рулъи,CyrillTrans,pursue,,,rexutʼu ruɬi,Phonemic
+10-520-501-1,botl1242,Botlikh (Miarso dialect),1085,рехутІу гъванди,CyrillTrans,follow,,,rexutʼu ɣʷandi,Phonemic
+10-510-501-1,botl1242,Botlikh (Miarso dialect),956,чІарди,CyrillTrans,flee,,,čʼardi,Phonemic
+10-491-501-1,botl1242,Botlikh (Miarso dialect),485,рити,CyrillTrans,disappear,,,riti,Phonemic
+10-490-501-1,botl1242,Botlikh (Miarso dialect),1752,батІа наи,CyrillTrans,"go away, depart",,,batʼa nai,Phonemic
+10-481-501-1,botl1242,Botlikh (Miarso dialect),581,ресуха риши,CyrillTrans,come back,,,resuxa riši,Phonemic
+10-480-501-1,botl1242,Botlikh (Miarso dialect),1446,гьиргъи,CyrillTrans,come,,,hirɣi,Phonemic
+10-474-501-1,botl1242,Botlikh (Miarso dialect),1107,орса рулъи,CyrillTrans,go out,,,orsa ruɬi,Phonemic
+10-473-501-1,botl1242,Botlikh (Miarso dialect),2014,гьикьа релълъи,CyrillTrans,go down,,,hiƛ̄ʼa reɬ̄i,Phonemic
+10-472-501-1,botl1242,Botlikh (Miarso dialect),1102,гьеа эти,CyrillTrans,climb,,,hea eti,Phonemic
+10-470-501-1,botl1242,Botlikh (Miarso dialect),695,релъи,CyrillTrans,go,,,reɬi,Phonemic
+10-471-501-1,botl1242,Botlikh (Miarso dialect),705,гьалахинду наи,CyrillTrans,go up,,,halaxindu nai,Phonemic
+10-460-501-1,botl1242,Botlikh (Miarso dialect),1519,чугьи,CyrillTrans,run,,,čuhi,Phonemic
+10-451-501-1,botl1242,Botlikh (Miarso dialect),366,рекІуй,CyrillTrans,limp,,,rekʼuy,Phonemic
+10-450-501-1,botl1242,Botlikh (Miarso dialect),1443,релълъахвалъи,CyrillTrans,walk,,,reɬ̄axʷaɬi,Phonemic
+10-440-501-1,botl1242,Botlikh (Miarso dialect),1879,кьибдалъи,CyrillTrans,dance,,,ƛ̄ʼibdaɬi,Phonemic
+10-431-501-1,botl1242,Botlikh (Miarso dialect),1135,мила кІкІванди,CyrillTrans,kick,,,mila k̄ʼʷandi,Phonemic
+10-430-501-1,botl1242,Botlikh (Miarso dialect),1829,кІанцІи,CyrillTrans,"jump, leap",,,kʼancʼi,Phonemic
+10-420-501-1,botl1242,Botlikh (Miarso dialect),1324,лълъуршиди,CyrillTrans,"slide, slip",,,ɬ̄uršidi,Phonemic
+10-413-501-1,botl1242,Botlikh (Miarso dialect),296,къули,CyrillTrans,crouch,,,qʼuli,Phonemic
+10-412-501-1,botl1242,Botlikh (Miarso dialect),66,нукабалъичІу гье гьирчІи,CyrillTrans,kneel,,,nukabaɬičʼu he hirčʼi,Phonemic
+10-410-501-1,botl1242,Botlikh (Miarso dialect),96,лъуршиди,CyrillTrans,"creep, crawl",,,ɬuršidi,Phonemic
+10-380-501-1,botl1242,Botlikh (Miarso dialect),175,пуди,CyrillTrans,blow,,,pudi,Phonemic
+10-370-501-1,botl1242,Botlikh (Miarso dialect),1441,бурди,CyrillTrans,fly (vb),,,burdi,Phonemic
+10-360-501-1,botl1242,Botlikh (Miarso dialect),787,парусичІу гьикьи квачІи чІабди,CyrillTrans,sail (vb),,,parusičʼu hiƛ̄ʼi kʷačʼi čʼabdi,Phonemic
+10-352-501-1,botl1242,Botlikh (Miarso dialect),365,квачІи чІабди,CyrillTrans,splash,,,kʷačʼi čʼabdi,Phonemic
+10-351-501-1,botl1242,Botlikh (Miarso dialect),119,лъенилъи къуди,CyrillTrans,dive,,,ɬeniɬi qʼudi,Phonemic
+10-350-501-1,botl1242,Botlikh (Miarso dialect),1439,квачІи чІабди,CyrillTrans,swim,,,kʷačʼi čʼabdi,Phonemic
+10-340-501-1,botl1242,Botlikh (Miarso dialect),1574,квачІи чІабди,CyrillTrans,float,,,kʷačʼi čʼabdi,Phonemic
+10-330-501-1,botl1242,Botlikh (Miarso dialect),1088,лъенилъи къуди,CyrillTrans,sink,,,"ɬeniɬi qʼudi, ɣanqʼi",Phonemic
+10-330-501-3,botl1242,Botlikh (Miarso dialect),1088,гъанкъи,CyrillTrans,sink,,,"ɬeniɬi qʼudi, ɣanqʼi",Phonemic
+10-320-501-1,botl1242,Botlikh (Miarso dialect),2003,чварчІварилъи маи,CyrillTrans,flow,,,čʷarčʼʷariɬi mai,Phonemic
+10-260-501-1,botl1242,Botlikh (Miarso dialect),1909,гирга рагьи,CyrillTrans,shake,,,girga rahi,Phonemic
+10-252-501-1,botl1242,Botlikh (Miarso dialect),702,бикки (кІакІу),CyrillTrans,catch (ball),,,bik̄i (kʼakʼu),Phonemic
+10-250-501-1,botl1242,Botlikh (Miarso dialect),1456,билай,CyrillTrans,throw,,,bilay,Phonemic
+10-240-501-1,botl1242,Botlikh (Miarso dialect),2253,гьинццабалъичІу,CyrillTrans,drip,,,"hinc̄abaɬičʼu, he tʼirdi",Phonemic
+10-240-501-3,botl1242,Botlikh (Miarso dialect),2253,гье тІинди,CyrillTrans,drip,,,"hinc̄abaɬičʼu, he tʼirdi",Phonemic
+10-230-501-1,botl1242,Botlikh (Miarso dialect),1280,гьарчІахи рахи,CyrillTrans,fall,,,harčʼaxi raxi,Phonemic
+10-220-501-1,botl1242,Botlikh (Miarso dialect),501,гьирцІай,CyrillTrans,"raise, lift",,,hircʼay,Phonemic
+10-210-501-1,botl1242,Botlikh (Miarso dialect),568,гьала гьирчІи,CyrillTrans,rise,,,"hala hirčʼi, buxi mihi",Phonemic
+10-210-501-3,botl1242,Botlikh (Miarso dialect),568,бухи мигьи,CyrillTrans,rise,,,"hala hirčʼi, buxi mihi",Phonemic
+10-170-501-1,botl1242,Botlikh (Miarso dialect),430,кьурай,CyrillTrans,twist,,,ƛ̄ʼuray,Phonemic
+10-160-501-1,botl1242,Botlikh (Miarso dialect),808,хварди,CyrillTrans,drop (vb),,,xʷardi,Phonemic
+10-150-501-1,botl1242,Botlikh (Miarso dialect),827,сардай,CyrillTrans,roll,,,"sarday, biɣay",Phonemic
+10-150-501-3,botl1242,Botlikh (Miarso dialect),827,бигъай,CyrillTrans,roll,,,"sarday, biɣay",Phonemic
+10-140-501-1,botl1242,Botlikh (Miarso dialect),1113,бераши,CyrillTrans,"wind, wrap",,,beraši,Phonemic
+10-130-501-1,botl1242,Botlikh (Miarso dialect),1445,шардай,CyrillTrans,turn around,,,šarday,Phonemic
+10-120-501-1,botl1242,Botlikh (Miarso dialect),1588,сарди,CyrillTrans,turn over,,,sardi,Phonemic
+10-110-501-1,botl1242,Botlikh (Miarso dialect),765,релъи,CyrillTrans,move,,,reɬi,Phonemic
+9-890-501-1,botl1242,Botlikh (Miarso dialect),2001,ражбал буши,CyrillTrans,paint (vb),,,ražbal buši,Phonemic
+9-840-501-1,botl1242,Botlikh (Miarso dialect),1979,кобалъи бесун,CyrillTrans,chisel,,,kobaɬi besun,Phonemic
+9-880-501-1,botl1242,Botlikh (Miarso dialect),647,ражбал,CyrillTrans,paint (noun),,,ražbal,Phonemic
+9-830-501-1,botl1242,Botlikh (Miarso dialect),1002,гьинцІалъи адам,CyrillTrans,statue,,,hincʼaɬi adam,Phonemic
+9-820-501-1,botl1242,Botlikh (Miarso dialect),914,гьинцІали анси,CyrillTrans,sculptor,,,hincʼali ansi,Phonemic
+9-810-501-1,botl1242,Botlikh (Miarso dialect),228,букъи,CyrillTrans,carve,,,buqʼi,Phonemic
+9-791-501-1,botl1242,Botlikh (Miarso dialect),360,мучу бахай,CyrillTrans,fan (vb),,,muču baxay,Phonemic
+9-790-501-1,botl1242,Botlikh (Miarso dialect),1971,мучу бахайхаб на,CyrillTrans,fan (noun),,,muču baxayxab na,Phonemic
+9-780-501-1,botl1242,Botlikh (Miarso dialect),293,гвала,CyrillTrans,netbag,,,"gʷala, sumka",Phonemic
+9-780-501-3,botl1242,Botlikh (Miarso dialect),293,сумка,CyrillTrans,netbag,,,"gʷala, sumka",Phonemic
+9-771-501-1,botl1242,Botlikh (Miarso dialect),292,тІамса,CyrillTrans,rug,,,tʼamsa,Phonemic
+9-770-501-1,botl1242,Botlikh (Miarso dialect),195,паларса,CyrillTrans,mat,,,palarsa,Phonemic
+9-760-501-1,botl1242,Botlikh (Miarso dialect),1539,гизу,CyrillTrans,basket,,,gizu,Phonemic
+9-750-501-1,botl1242,Botlikh (Miarso dialect),1729,хами,CyrillTrans,"weave, plait",,,xami,Phonemic
+9-740-501-1,botl1242,Botlikh (Miarso dialect),604,матІу,CyrillTrans,glass,,,matʼu,Phonemic
+9-730-501-1,botl1242,Botlikh (Miarso dialect),1399,бичи,CyrillTrans,clay,,,"biči, sini",Phonemic
+9-730-501-3,botl1242,Botlikh (Miarso dialect),1399,сини,CyrillTrans,clay,,,"biči, sini",Phonemic
+9-720-501-1,botl1242,Botlikh (Miarso dialect),289,куц бакъай,CyrillTrans,mold (clay etc),,,kuc baqʼay,Phonemic
+9-710-501-1,botl1242,Botlikh (Miarso dialect),359,шохъалъи устар,CyrillTrans,potter,,,šoqaɬi ustar,Phonemic
+9-690-501-1,botl1242,Botlikh (Miarso dialect),358,коби,CyrillTrans,"tin, tinplate",,,kobi,Phonemic
+9-680-501-1,botl1242,Botlikh (Miarso dialect),627,тІухьи,CyrillTrans,lead (noun),,,tʼux̌i,Phonemic
+9-670-501-1,botl1242,Botlikh (Miarso dialect),621,коби,CyrillTrans,iron,,,kobi,Phonemic
+9-660-501-1,botl1242,Botlikh (Miarso dialect),1825,пахьи,CyrillTrans,"copper, bronze",,,"pax̌i, yez",Phonemic
+9-660-501-3,botl1242,Botlikh (Miarso dialect),1825,ез,CyrillTrans,"copper, bronze",,,"pax̌i, yez",Phonemic
+9-650-501-1,botl1242,Botlikh (Miarso dialect),759,арси,CyrillTrans,silver,,,arsi,Phonemic
+9-640-501-1,botl1242,Botlikh (Miarso dialect),1369,мисиди,CyrillTrans,gold,,,misidi,Phonemic
+9-630-501-1,botl1242,Botlikh (Miarso dialect),211,кепе тІинди,CyrillTrans,cast (metals),,,"kepe tʼindi, kepiɬa tʼindi",Phonemic
+9-630-501-3,botl1242,Botlikh (Miarso dialect),211,кепилъа тІинди,CyrillTrans,cast (metals),,,"kepe tʼindi, kepiɬa tʼindi",Phonemic
+9-620-501-1,botl1242,Botlikh (Miarso dialect),1648,эхун,CyrillTrans,anvil,,,"exun, hea, (kabi) čʼindinob nar",Phonemic
+9-620-501-3,botl1242,Botlikh (Miarso dialect),1648,гьеа,CyrillTrans,anvil,,,"exun, hea, (kabi) čʼindinob nar",Phonemic
+9-620-501-5,botl1242,Botlikh (Miarso dialect),1648,каби чІиндиноб нар,CyrillTrans,anvil,,,"exun, hea, (kabi) čʼindinob nar",Phonemic
+9-610-501-1,botl1242,Botlikh (Miarso dialect),288,эхунлъи,CyrillTrans,forge,,,exunɬi,Phonemic
+9-600-501-1,botl1242,Botlikh (Miarso dialect),1001,эхун,CyrillTrans,"smith, blacksmith",,,exun,Phonemic
+9-560-501-1,botl1242,Botlikh (Miarso dialect),1069,сини,CyrillTrans,glue,,,sini,Phonemic
+9-500-501-1,botl1242,Botlikh (Miarso dialect),502,гьанкІва,CyrillTrans,nail,,,hankʼʷa,Phonemic
+9-490-501-1,botl1242,Botlikh (Miarso dialect),1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-501-1,botl1242,Botlikh (Miarso dialect),1948,хъухъадир,CyrillTrans,saw,,,quqadir,Phonemic
+9-461-501-1,botl1242,Botlikh (Miarso dialect),46,гьина мухи,CyrillTrans,hollow out,,,hina muxi,Phonemic
+9-460-501-1,botl1242,Botlikh (Miarso dialect),1501,баган,CyrillTrans,bore,,,bagan,Phonemic
+9-440-501-1,botl1242,Botlikh (Miarso dialect),1840,гьанкъу игьи,CyrillTrans,build,,,hanqʼu ihi,Phonemic
+9-430-501-1,botl1242,Botlikh (Miarso dialect),1042,гьудалъи анси,CyrillTrans,carpenter,,,hudaɬi ansi,Phonemic
+9-422-501-1,botl1242,Botlikh (Miarso dialect),1361,кобалъи (гьудалъи) алат,CyrillTrans,tool,,,kobaɬi (hudaɬi) alat,Phonemic
+9-380-501-1,botl1242,Botlikh (Miarso dialect),245,гьанкъу лъардихаб бежун,CyrillTrans,broom,,,hanqʼu ɬardixab bežun,Phonemic
+9-360-501-1,botl1242,Botlikh (Miarso dialect),1453,мучи,CyrillTrans,wash,,,muči,Phonemic
+9-370-501-1,botl1242,Botlikh (Miarso dialect),230,бигъай,CyrillTrans,sweep,,,biɣay,Phonemic
+9-350-501-1,botl1242,Botlikh (Miarso dialect),1487,тІинди,CyrillTrans,pour,,,tʼindi,Phonemic
+9-343-501-1,botl1242,Botlikh (Miarso dialect),1414,цІурди,CyrillTrans,"squeeze, wring",,,cʼurdi,Phonemic
+9-342-501-1,botl1242,Botlikh (Miarso dialect),1913,цІурди,CyrillTrans,press,,,cʼurdi,Phonemic
+9-341-501-1,botl1242,Botlikh (Miarso dialect),357,бухай,CyrillTrans,hang up,,,"buxay, ɣanqʼi",Phonemic
+9-341-501-3,botl1242,Botlikh (Miarso dialect),357,гъанкъи,CyrillTrans,hang up,,,"buxay, ɣanqʼi",Phonemic
+9-340-501-1,botl1242,Botlikh (Miarso dialect),38,микъай,CyrillTrans,spread out,,,"miqʼay, miqʼabi tʼay",Phonemic
+9-340-501-3,botl1242,Botlikh (Miarso dialect),38,микъаби тІай,CyrillTrans,spread out,,,"miqʼay, miqʼabi tʼay",Phonemic
+9-330-501-1,botl1242,Botlikh (Miarso dialect),1455,ганди,CyrillTrans,pull,,,gandi,Phonemic
+9-320-501-1,botl1242,Botlikh (Miarso dialect),214,ганди,CyrillTrans,stretch,,,"gandi, gannadi",Phonemic
+9-320-501-3,botl1242,Botlikh (Miarso dialect),214,ганнади,CyrillTrans,stretch,,,"gandi, gannadi",Phonemic
+9-310-501-1,botl1242,Botlikh (Miarso dialect),1449,бичІай,CyrillTrans,"rub, wipe",,,bičʼay,Phonemic
+9-290-501-1,botl1242,Botlikh (Miarso dialect),291,хъал бухи,CyrillTrans,"flay, skin",,,qal buxi,Phonemic
+9-280-501-1,botl1242,Botlikh (Miarso dialect),1735,хъабдай,CyrillTrans,tear,,,qabday,Phonemic
+9-270-501-1,botl1242,Botlikh (Miarso dialect),1437,хъабдай (гьуди),CyrillTrans,split,,,qabday (hudi),Phonemic
+9-261-501-1,botl1242,Botlikh (Miarso dialect),588,букъу билаб,CyrillTrans,broken,,,buqʼu bilab,Phonemic
+9-260-501-1,botl1242,Botlikh (Miarso dialect),680,махъай,CyrillTrans,break,,,maqay,Phonemic
+9-250-501-1,botl1242,Botlikh (Miarso dialect),677,куртІа,CyrillTrans,ax,,,kurtʼa,Phonemic
+9-251-501-1,botl1242,Botlikh (Miarso dialect),290,куртІа,CyrillTrans,adze,,,kurtʼa,Phonemic
+9-240-501-1,botl1242,Botlikh (Miarso dialect),356,кІванкьибу,CyrillTrans,"scissors, shears",,,kʼʷanƛ̄ʼibu,Phonemic
+9-230-501-1,botl1242,Botlikh (Miarso dialect),1352,бесун,CyrillTrans,knife,,,besun,Phonemic
+9-223-501-1,botl1242,Botlikh (Miarso dialect),1434,къиндай,CyrillTrans,stab,,,qʼinday,Phonemic
+9-222-501-1,botl1242,Botlikh (Miarso dialect),155,хъабдай,CyrillTrans,"chop, hew",,,qabday,Phonemic
+9-221-501-1,botl1242,Botlikh (Miarso dialect),355,асарай,CyrillTrans,cut down,,,asaray,Phonemic
+9-220-501-1,botl1242,Botlikh (Miarso dialect),1432,букъи,CyrillTrans,cut,,,buqʼi,Phonemic
+9-211-501-1,botl1242,Botlikh (Miarso dialect),354,рахай,CyrillTrans,pound with fist,,,raxay,Phonemic
+9-210-501-1,botl1242,Botlikh (Miarso dialect),2133,чІабди,CyrillTrans,"strike (hit, beat)",,,čʼabdi,Phonemic
+9-192-501-1,botl1242,Botlikh (Miarso dialect),760,кІарцІу,CyrillTrans,knot (noun),,,kʼarcʼu,Phonemic
+9-190-501-1,botl1242,Botlikh (Miarso dialect),1218,нашар,CyrillTrans,"rope, cord",,,našar,Phonemic
+9-180-501-1,botl1242,Botlikh (Miarso dialect),1627,рахас,CyrillTrans,chain,,,raxas,Phonemic
+9-161-501-1,botl1242,Botlikh (Miarso dialect),352,бачи,CyrillTrans,untie,,,bači,Phonemic
+9-160-501-1,botl1242,Botlikh (Miarso dialect),1917,маши,CyrillTrans,"tie, bind",,,maši,Phonemic
+9-150-501-1,botl1242,Botlikh (Miarso dialect),1470,сукІи,CyrillTrans,fold,,,sukʼi,Phonemic
+9-140-501-1,botl1242,Botlikh (Miarso dialect),2004,кІичІай,CyrillTrans,bend,,,kʼičʼay,Phonemic
+9-120-501-1,botl1242,Botlikh (Miarso dialect),984,муху,CyrillTrans,work,,,muxu,Phonemic
+9-110-501-1,botl1242,Botlikh (Miarso dialect),2575,игьи,CyrillTrans,"do, make",,,ihi,Phonemic
+8-980-501-1,botl1242,Botlikh (Miarso dialect),641,шайтІанлъи хъабалъа,CyrillTrans,mushroom,,,šaytʼanɬi qabaɬa,Phonemic
+8-970-501-1,botl1242,Botlikh (Miarso dialect),33,бегьара,CyrillTrans,nettle,,,behara,Phonemic
+8-941-501-1,botl1242,Botlikh (Miarso dialect),146,чакар гьихаб гьунчІа,CyrillTrans,sugar cane,,,čakar hixab hunč’a,Phonemic
+8-940-501-1,botl1242,Botlikh (Miarso dialect),1927,ццима,CyrillTrans,bamboo,,,c̄ima,Phonemic
+8-931-501-1,botl1242,Botlikh (Miarso dialect),864,хьабахъи,CyrillTrans,"pumpkin, squash",,,qabaqi,Phonemic
+8-930-501-1,botl1242,Botlikh (Miarso dialect),411,хьабахъи,CyrillTrans,gourd,,,qabaqi,Phonemic
+8-910-501-1,botl1242,Botlikh (Miarso dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-501-1,botl1242,Botlikh (Miarso dialect),346,инжиралІи руша,CyrillTrans,banyan,,,inžiraɬi ruša,Phonemic
+8-840-501-1,botl1242,Botlikh (Miarso dialect),868,бананалъи руша,CyrillTrans,banana tree,,,bananaɬi ruša,Phonemic
+8-830-501-1,botl1242,Botlikh (Miarso dialect),1126,цитрусилІи бекъи,CyrillTrans,citrus fruit,,,citrusiƛi beq’i,Phonemic
+8-820-501-1,botl1242,Botlikh (Miarso dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-501-1,botl1242,Botlikh (Miarso dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-501-1,botl1242,Botlikh (Miarso dialect),345,гьунчІалъи сок,CyrillTrans,sap,,,hunčʼaɬi ɬeni,Phonemic
+8-750-501-1,botl1242,Botlikh (Miarso dialect),1204,рушилъи хъал,CyrillTrans,bark,,,rušiɬi qal,Phonemic
+8-740-501-1,botl1242,Botlikh (Miarso dialect),409,кІерхьа гьала,CyrillTrans,forked branch,,,kʼerx̌a hala,Phonemic
+8-730-501-1,botl1242,Botlikh (Miarso dialect),344,рушилъи бехи,CyrillTrans,tree trunk,,,rušiɬi bexi,Phonemic
+8-720-501-1,botl1242,Botlikh (Miarso dialect),241,тІали,CyrillTrans,tree stump,,,tʼali,Phonemic
+8-691-501-1,botl1242,Botlikh (Miarso dialect),1124,мошток,CyrillTrans,pipe,,,moštok,Phonemic
+8-690-501-1,botl1242,Botlikh (Miarso dialect),1689,тамакулъи ццури,CyrillTrans,smoke (tobacco),,,tamakuɬi c̄uri,Phonemic
+8-680-501-1,botl1242,Botlikh (Miarso dialect),974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-501-1,botl1242,Botlikh (Miarso dialect),343,кІикІилъи гьала,CyrillTrans,vine,,,kʼikʼiɬi hala,Phonemic
+8-660-501-1,botl1242,Botlikh (Miarso dialect),968,рушилъи хъал,CyrillTrans,acorn,,,rušiɬi qal,Phonemic
+8-650-501-1,botl1242,Botlikh (Miarso dialect),1915,гьади,CyrillTrans,fir,,,hadi,Phonemic
+8-640-501-1,botl1242,Botlikh (Miarso dialect),1740,квана масу гьуди,CyrillTrans,pine,,,kʷana masu hudi,Phonemic
+8-630-501-1,botl1242,Botlikh (Miarso dialect),1855,гІурус руша,CyrillTrans,birch,,,ʕurus ruša,Phonemic
+8-620-501-1,botl1242,Botlikh (Miarso dialect),1950,чачан гьуди,CyrillTrans,beech,,,čačan hudi,Phonemic
+8-610-501-1,botl1242,Botlikh (Miarso dialect),644,бечІуха руша,CyrillTrans,oak,,,bečʼuxa ruša,Phonemic
+8-600-501-1,botl1242,Botlikh (Miarso dialect),906,руша,CyrillTrans,tree,,,ruša,Phonemic
+8-570-501-1,botl1242,Botlikh (Miarso dialect),239,гигина,CyrillTrans,flower,,,gigina,Phonemic
+8-560-501-1,botl1242,Botlikh (Miarso dialect),628,гІаш,CyrillTrans,leaf,,,ʕaš,Phonemic
+8-550-501-1,botl1242,Botlikh (Miarso dialect),1531,гьала,CyrillTrans,branch,,,hala,Phonemic
+8-540-501-1,botl1242,Botlikh (Miarso dialect),670,гьикьиб,CyrillTrans,root,,,hiƛ̄ʼib,Phonemic
+8-531-501-1,botl1242,Botlikh (Miarso dialect),1486,бижай,CyrillTrans,plant (vb),,,bižay,Phonemic
+8-520-501-1,botl1242,Botlikh (Miarso dialect),342,бекъваб гьунчІа,CyrillTrans,hay,,,beqʼʷab hunčʼa,Phonemic
+8-530-501-1,botl1242,Botlikh (Miarso dialect),653,гьутІа,CyrillTrans,plant (noun),,,hunčʼa,Phonemic
+8-510-501-1,botl1242,Botlikh (Miarso dialect),606,гьунчІа,CyrillTrans,grass,,,hunčʼa,Phonemic
+8-480-501-1,botl1242,Botlikh (Miarso dialect),926,поло,CyrillTrans,rice,,,polo,Phonemic
+8-470-501-1,botl1242,Botlikh (Miarso dialect),506,цІебекъеру,CyrillTrans,"maize, corn",,,cʼebeqʼeru,Phonemic
+8-460-501-1,botl1242,Botlikh (Miarso dialect),60,ниха,CyrillTrans,oats,,,nixa,Phonemic
+8-450-501-1,botl1242,Botlikh (Miarso dialect),23,бечІин,CyrillTrans,rye,,,bečʼin,Phonemic
+8-430-501-1,botl1242,Botlikh (Miarso dialect),1077,къеру,CyrillTrans,wheat,,,qʼeru,Phonemic
+8-440-501-1,botl1242,Botlikh (Miarso dialect),932,чІари,CyrillTrans,barley,,,č’ari,Phonemic
+8-420-501-1,botl1242,Botlikh (Miarso dialect),605,къеру,CyrillTrans,"grain (barley, oats etc)",,,"qʼeru, bečʼin, nixa",Phonemic
+8-420-501-3,botl1242,Botlikh (Miarso dialect),605,бечІин,CyrillTrans,"grain (barley, oats etc)",,,"qʼeru, bečʼin, nixa",Phonemic
+8-420-501-5,botl1242,Botlikh (Miarso dialect),605,ниха,CyrillTrans,"grain (barley, oats etc)",,,"qʼeru, bečʼin, nixa",Phonemic
+8-410-501-1,botl1242,Botlikh (Miarso dialect),611,бачІин,CyrillTrans,"crop, harvest",,,bačʼin,Phonemic
+8-350-501-1,botl1242,Botlikh (Miarso dialect),223,гьунчІалъи гъуни,CyrillTrans,threshing-floor,,,hunčʼaɬi ɣuni,Phonemic
+8-340-501-1,botl1242,Botlikh (Miarso dialect),285,хъвахъи,CyrillTrans,thresh,,,qʷaqi,Phonemic
+8-330-501-1,botl1242,Botlikh (Miarso dialect),2132,хандиру,CyrillTrans,"sickle, scythe",,,"xandiru, čabagi",Phonemic
+8-330-501-3,botl1242,Botlikh (Miarso dialect),2132,чабаги,CyrillTrans,"sickle, scythe",,,"xandiru, čabagi",Phonemic
+8-320-501-1,botl1242,Botlikh (Miarso dialect),190,канди,CyrillTrans,"mow, reap",,,"kandi, akuy",Phonemic
+8-320-501-3,botl1242,Botlikh (Miarso dialect),190,акуй,CyrillTrans,"mow, reap",,,"kandi, akuy",Phonemic
+8-311-501-1,botl1242,Botlikh (Miarso dialect),714,хьуни,CyrillTrans,seed,,,x̌uni,Phonemic
+8-310-501-1,botl1242,Botlikh (Miarso dialect),748,бекьи,CyrillTrans,sow,,,beƛ̄ʼi,Phonemic
+8-270-501-1,botl1242,Botlikh (Miarso dialect),338,хадеро,CyrillTrans,rake,,,"xadero, gaza",Phonemic
+8-270-501-3,botl1242,Botlikh (Miarso dialect),338,газа,CyrillTrans,rake,,,"xadero, gaza",Phonemic
+8-260-501-1,botl1242,Botlikh (Miarso dialect),337,кІвонкьа,CyrillTrans,fork,,,"kʼʷonƛ̄ʼa, ƛ̄ʼibtʼa",Phonemic
+8-260-501-3,botl1242,Botlikh (Miarso dialect),337,кьибтІа,CyrillTrans,fork,,,"kʼʷonƛ̄ʼa, ƛ̄ʼibtʼa",Phonemic
+8-250-501-1,botl1242,Botlikh (Miarso dialect),284,гачІа,CyrillTrans,hoe,,,gačʼa,Phonemic
+8-240-501-1,botl1242,Botlikh (Miarso dialect),1901,перчІун,CyrillTrans,shovel,,,perčʼun,Phonemic
+8-230-501-1,botl1242,Botlikh (Miarso dialect),1176,рехин,CyrillTrans,spade,,,rexin,Phonemic
+8-212-501-1,botl1242,Botlikh (Miarso dialect),1794,унщи-хури бекьи,CyrillTrans,furrow,,,unš̄i-xuri beƛ̄ʼi,Phonemic
+8-220-501-1,botl1242,Botlikh (Miarso dialect),1418,хварди,CyrillTrans,dig,,,xʷardi,Phonemic
+8-210-501-1,botl1242,Botlikh (Miarso dialect),1921,бекьи,CyrillTrans,plow,,,beƛ̄ʼi,Phonemic
+8-170-501-1,botl1242,Botlikh (Miarso dialect),2002,рехъин,CyrillTrans,ditch,,,reqin,Phonemic
+8-160-501-1,botl1242,Botlikh (Miarso dialect),1690,бехъутІу бикки,CyrillTrans,fence,,,bequtʼu bik̄i,Phonemic
+8-150-501-1,botl1242,Botlikh (Miarso dialect),1541,унщи бекьи,CyrillTrans,"cultivate, till",,,unš̄i beƛ̄ʼi,Phonemic
+8-130-501-1,botl1242,Botlikh (Miarso dialect),586,ахи,CyrillTrans,garden,,,axi,Phonemic
+8-120-501-1,botl1242,Botlikh (Miarso dialect),212,бекьихаб унщи,CyrillTrans,field (for cultivation),,,beƛ̄ʼixab unš̄i,Phonemic
+8-110-501-1,botl1242,Botlikh (Miarso dialect),979,цІикІа буцІилъи адам,CyrillTrans,farmer,,,cʼikʼa bucʼiɬi adam,Phonemic
+7-640-501-1,botl1242,Botlikh (Miarso dialect),901,бичилъи гьанкъу,CyrillTrans,adobe,,,bičiɬi hanqʼu,Phonemic
+7-630-501-1,botl1242,Botlikh (Miarso dialect),224,сугъаталъи лъени,CyrillTrans,mortar,,,suɣataɬi ɬeni,Phonemic
+7-620-501-1,botl1242,Botlikh (Miarso dialect),1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-501-1,botl1242,Botlikh (Miarso dialect),876,кІкІамур,CyrillTrans,arch,,,k̄ʼamur,Phonemic
+7-610-501-1,botl1242,Botlikh (Miarso dialect),877,къадахъан,CyrillTrans,mason,,,qʼadaqan,Phonemic
+7-570-501-1,botl1242,Botlikh (Miarso dialect),1227,чІе,CyrillTrans,board,,,čʼe,Phonemic
+7-560-501-1,botl1242,Botlikh (Miarso dialect),281,гьума,CyrillTrans,"post, pole",,,huma,Phonemic
+7-550-501-1,botl1242,Botlikh (Miarso dialect),1132,ахиму,CyrillTrans,beam,,,aximu,Phonemic
+7-540-501-1,botl1242,Botlikh (Miarso dialect),829,ахиму,CyrillTrans,rafter,,,aximu,Phonemic
+7-530-501-1,botl1242,Botlikh (Miarso dialect),280,ахиму,CyrillTrans,ridgepole,,,aximu,Phonemic
+7-520-501-1,botl1242,Botlikh (Miarso dialect),279,никкулъи амбур,CyrillTrans,thatch,,,nik̄uɬi ambur,Phonemic
+7-510-501-1,botl1242,Botlikh (Miarso dialect),769,амбур,CyrillTrans,roof,,,ambur,Phonemic
+7-480-501-1,botl1242,Botlikh (Miarso dialect),205,дордол,CyrillTrans,trough,,,dordol,Phonemic
+7-470-501-1,botl1242,Botlikh (Miarso dialect),745,чІеде муса,CyrillTrans,shelf,,,čʼede musa,Phonemic
+7-460-501-1,botl1242,Botlikh (Miarso dialect),1273,лълъирлълъалъи чирахъ,CyrillTrans,candle,,,ɬ̄irɬ̄aɬi čiraq,Phonemic
+7-450-501-1,botl1242,Botlikh (Miarso dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,"čiraq, kanawr",Phonemic
+7-450-501-3,botl1242,Botlikh (Miarso dialect),2131,канавр,CyrillTrans,"lamp, torch",,,"čiraq, kanawr",Phonemic
+7-440-501-1,botl1242,Botlikh (Miarso dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-501-1,botl1242,Botlikh (Miarso dialect),1476,макІва,CyrillTrans,chair,,,makʼʷa,Phonemic
+7-422-501-1,botl1242,Botlikh (Miarso dialect),806,йиргъван,CyrillTrans,blanket,,,yirɣʷan,Phonemic
+7-421-501-1,botl1242,Botlikh (Miarso dialect),1044,тагьара,CyrillTrans,pillow,,,tahara,Phonemic
+7-420-501-1,botl1242,Botlikh (Miarso dialect),1663,манги,CyrillTrans,bed,,,"mangi, krawat",Phonemic
+7-420-501-3,botl1242,Botlikh (Miarso dialect),1663,крават,CyrillTrans,bed,,,"mangi, krawat",Phonemic
+7-370-501-1,botl1242,Botlikh (Miarso dialect),1464,мигьур,CyrillTrans,ladder,,,mihur,Phonemic
+7-330-501-1,botl1242,Botlikh (Miarso dialect),1305,мащу,CyrillTrans,chimney,,,maš̄u,Phonemic
+7-320-501-1,botl1242,Botlikh (Miarso dialect),859,печь,CyrillTrans,stove,,,pečʲ,Phonemic
+7-310-501-1,botl1242,Botlikh (Miarso dialect),185,тавухан,CyrillTrans,fireplace,,,tawuxan,Phonemic
+7-270-501-1,botl1242,Botlikh (Miarso dialect),933,къинда,CyrillTrans,wall,,,qʼinda,Phonemic
+7-260-501-1,botl1242,Botlikh (Miarso dialect),1632,чІабар,CyrillTrans,floor,,,čʼabar,Phonemic
+7-250-501-1,botl1242,Botlikh (Miarso dialect),1375,гьингур,CyrillTrans,window,,,hingur,Phonemic
+7-240-501-1,botl1242,Botlikh (Miarso dialect),1472,рекІул,CyrillTrans,key,,,rekʼul,Phonemic
+7-231-501-1,botl1242,Botlikh (Miarso dialect),1012,кІичІи,CyrillTrans,"latch, door-bolt",,,kʼičʼi,Phonemic
+7-230-501-1,botl1242,Botlikh (Miarso dialect),1596,рекІул,CyrillTrans,lock (noun),,,rekʼul,Phonemic
+7-221-501-1,botl1242,Botlikh (Miarso dialect),80,лъертІа,CyrillTrans,"doorpost, jamb",,,ɬertʼa,Phonemic
+7-210-501-1,botl1242,Botlikh (Miarso dialect),1450,гьанкъу,CyrillTrans,room,,,hanqʼu,Phonemic
+7-220-501-1,botl1242,Botlikh (Miarso dialect),1567,инццу,CyrillTrans,"door, gate",,,"inc̄u, kawu",Phonemic
+7-220-501-3,botl1242,Botlikh (Miarso dialect),1567,каву,CyrillTrans,"door, gate",,,"inc̄u, kawu",Phonemic
+7-180-501-1,botl1242,Botlikh (Miarso dialect),335,сабрани игьихаб гьанкъу,CyrillTrans,meeting house,,,sabrani ihixab hanqʼu,Phonemic
+7-170-501-1,botl1242,Botlikh (Miarso dialect),334,маква гьихаб гьанкъу,CyrillTrans,cookhouse,,,"makʷa hixab hanqʼu, kuxna",Phonemic
+7-170-501-3,botl1242,Botlikh (Miarso dialect),334,кухна,CyrillTrans,cookhouse,,,"makʷa hixab hanqʼu, kuxna",Phonemic
+7-160-501-1,botl1242,Botlikh (Miarso dialect),408,кунтІалуб гьанкъу,CyrillTrans,men's house,,,kuntʼalub hanqʼu,Phonemic
+7-150-501-1,botl1242,Botlikh (Miarso dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-501-1,botl1242,Botlikh (Miarso dialect),1316,чатир,CyrillTrans,tent,,,čatir,Phonemic
+7-131-501-1,botl1242,Botlikh (Miarso dialect),403,зукІкІу гьанкъу,CyrillTrans,garden-house,,,zuk̄ʼu hanqʼu,Phonemic
+7-130-501-1,botl1242,Botlikh (Miarso dialect),1678,бекъва,CyrillTrans,hut,,,beqʼwʷa,Phonemic
+7-120-501-1,botl1242,Botlikh (Miarso dialect),1252,гьанкъу,CyrillTrans,house,,,hanqʼu,Phonemic
+7-110-501-1,botl1242,Botlikh (Miarso dialect),363,дунеле рукІи,CyrillTrans,"dwell, live",,,dunele rukʼi,Phonemic
+6-960-501-1,botl1242,Botlikh (Miarso dialect),1171,матІу,CyrillTrans,mirror,,,matʼu,Phonemic
+6-950-501-1,botl1242,Botlikh (Miarso dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-501-1,botl1242,Botlikh (Miarso dialect),1926,мази,CyrillTrans,ointment,,,mazi,Phonemic
+6-930-501-1,botl1242,Botlikh (Miarso dialect),151,мигажур,CyrillTrans,razor,,,"migažur, k̄andixab besun",Phonemic
+6-930-501-3,botl1242,Botlikh (Miarso dialect),151,ккандихаб бесун,CyrillTrans,razor,,,"migažur, k̄andixab besun",Phonemic
+6-921-501-1,botl1242,Botlikh (Miarso dialect),333,бакьи,CyrillTrans,braid,,,baƛ̄ʼi,Phonemic
+6-920-501-1,botl1242,Botlikh (Miarso dialect),1821,гьакьу,CyrillTrans,brush,,,haƛ̄ʼu,Phonemic
+6-910-501-1,botl1242,Botlikh (Miarso dialect),1475,гьакьу,CyrillTrans,comb,,,haƛ̄ʼu,Phonemic
+6-820-501-1,botl1242,Botlikh (Miarso dialect),1021,хунхул лъардихаб ракІвал,CyrillTrans,towel,,,xunxul ɬardixab rakʼʷal,Phonemic
+6-810-501-1,botl1242,Botlikh (Miarso dialect),332,мачи лъундихаб йаблухъ,CyrillTrans,"handkerchief, rag",,,mači ɬundixab yabluq,Phonemic
+6-780-501-1,botl1242,Botlikh (Miarso dialect),330,кІашта кІази,CyrillTrans,"headband, headdress",,,"kʼašta kʼazi, čalma",Phonemic
+6-780-501-3,botl1242,Botlikh (Miarso dialect),330,чалма,CyrillTrans,"headband, headdress",,,"kʼašta kʼazi, čalma",Phonemic
+6-770-501-1,botl1242,Botlikh (Miarso dialect),770,къинкъил,CyrillTrans,earring,,,qʼinqʼil,Phonemic
+6-760-501-1,botl1242,Botlikh (Miarso dialect),1860,миххи,CyrillTrans,bead,,,mix̄i,Phonemic
+6-750-501-1,botl1242,Botlikh (Miarso dialect),1961,миххе,CyrillTrans,necklace,,,mix̄e,Phonemic
+6-740-501-1,botl1242,Botlikh (Miarso dialect),1754,кваркъин,CyrillTrans,bracelet,,,kʷarqʼin,Phonemic
+6-730-501-1,botl1242,Botlikh (Miarso dialect),1374,нагІил,CyrillTrans,ring (for finger),,,naʕil,Phonemic
+6-720-501-1,botl1242,Botlikh (Miarso dialect),1029,хира инца,CyrillTrans,jewel,,,"misidili qʼay, žawhar",Phonemic
+6-720-501-3,botl1242,Botlikh (Miarso dialect),1029,мисидили къай,CyrillTrans,jewel,,,"misidili qʼay, žawhar",Phonemic
+6-720-501-5,botl1242,Botlikh (Miarso dialect),1029,жавгьар,CyrillTrans,jewel,,,"misidili qʼay, žawhar",Phonemic
+6-710-501-1,botl1242,Botlikh (Miarso dialect),917,михе гьецІивилу,CyrillTrans,"ornament, adornment",,,"mixe hecʼiwilu, asikʷay san, naqʼiš",Phonemic
+6-710-501-3,botl1242,Botlikh (Miarso dialect),917,асиквай сан,CyrillTrans,"ornament, adornment",,,"mixe hecʼiwilu, asikʷay san, naqʼiš",Phonemic
+6-710-501-5,botl1242,Botlikh (Miarso dialect),917,накъиш,CyrillTrans,"ornament, adornment",,,"mixe hecʼiwilu, asikʷay san, naqʼiš",Phonemic
+6-630-501-1,botl1242,Botlikh (Miarso dialect),64,гІурус бежун,CyrillTrans,pin,,,ʕurus bežun,Phonemic
+6-620-501-1,botl1242,Botlikh (Miarso dialect),757,маргъал,CyrillTrans,button,,,marɣal,Phonemic
+6-610-501-1,botl1242,Botlikh (Miarso dialect),1851,чанта,CyrillTrans,pocket,,,čanta,Phonemic
+6-590-501-1,botl1242,Botlikh (Miarso dialect),1151,хунхул бакІашайхаб ракІван,CyrillTrans,veil,,,xunxul bakʼašayxab rakʼʷan,Phonemic
+6-580-501-1,botl1242,Botlikh (Miarso dialect),867,кулъебалъи,CyrillTrans,glove,,,kuɬebaɬi,Phonemic
+6-570-501-1,botl1242,Botlikh (Miarso dialect),772,ракьичал,CyrillTrans,"belt, girdle",,,raƛ̄ʼičal,Phonemic
+6-550-501-1,botl1242,Botlikh (Miarso dialect),2130,къабалъа,CyrillTrans,"hat, cap",,,qʼabaɬa,Phonemic
+6-540-501-1,botl1242,Botlikh (Miarso dialect),875,паселъилъи апси,CyrillTrans,"shoemaker, cobbler",,,paseɬiɬi apsi,Phonemic
+6-510-501-1,botl1242,Botlikh (Miarso dialect),1381,насир,CyrillTrans,shoe,,,nasir,Phonemic
+6-520-501-1,botl1242,Botlikh (Miarso dialect),585,патинкабалъи,CyrillTrans,boot,,,patinkabaɬi,Phonemic
+6-490-501-1,botl1242,Botlikh (Miarso dialect),329,ташала,CyrillTrans,"stocking, sock",,,taš̄ala,Phonemic
+6-480-501-1,botl1242,Botlikh (Miarso dialect),809,кунтІалуб барта,CyrillTrans,trousers,,,kuntʼalub barta,Phonemic
+6-461-501-1,botl1242,Botlikh (Miarso dialect),328,гІалибалъилъи йубка,CyrillTrans,grass-skirt,,,ʕalibaɬiɬi yubka,Phonemic
+6-460-501-1,botl1242,Botlikh (Miarso dialect),1600,йубка,CyrillTrans,skirt,,,"yubka, zuk̄ʼu žila",Phonemic
+6-460-501-3,botl1242,Botlikh (Miarso dialect),1600,зукІкІу жила,CyrillTrans,skirt,,,"yubka, zuk̄ʼu žila",Phonemic
+6-450-501-1,botl1242,Botlikh (Miarso dialect),2012,жилалъи гару,CyrillTrans,collar,,,žilaɬi garu,Phonemic
+6-440-501-1,botl1242,Botlikh (Miarso dialect),1622,кунтІалуб жила,CyrillTrans,shirt,,,kuntʼalub žila,Phonemic
+6-430-501-1,botl1242,Botlikh (Miarso dialect),603,хъабача,CyrillTrans,coat,,,qabača,Phonemic
+6-420-501-1,botl1242,Botlikh (Miarso dialect),474,йешилуб жила,CyrillTrans,woman's dress,,,yešilub žila,Phonemic
+6-390-501-1,botl1242,Botlikh (Miarso dialect),157,ражбал,CyrillTrans,dye,,,"ražbal, reɬen",Phonemic
+6-390-501-3,botl1242,Botlikh (Miarso dialect),157,релъен,CyrillTrans,dye,,,"ražbal, reɬen",Phonemic
+6-410-501-1,botl1242,Botlikh (Miarso dialect),326,палащ,CyrillTrans,cloak,,,palaš̄,Phonemic
+6-380-501-1,botl1242,Botlikh (Miarso dialect),1161,рекун,CyrillTrans,thread,,,rekun,Phonemic
+6-360-501-1,botl1242,Botlikh (Miarso dialect),1382,бежун,CyrillTrans,needle,,,bežun,Phonemic
+6-370-501-1,botl1242,Botlikh (Miarso dialect),278,гьими,CyrillTrans,awl,,,himi,Phonemic
+6-350-501-1,botl1242,Botlikh (Miarso dialect),1457,маккуй,CyrillTrans,sew,,,mak̄uy,Phonemic
+6-340-501-1,botl1242,Botlikh (Miarso dialect),1787,хами игьихаб машина,CyrillTrans,loom,,,xami ihixab mašina,Phonemic
+6-330-501-1,botl1242,Botlikh (Miarso dialect),133,хьухьи,CyrillTrans,weave,,,x̌ux̌i,Phonemic
+6-320-501-1,botl1242,Botlikh (Miarso dialect),277,миргва,CyrillTrans,spindle,,,"mirgʷa, murgʷa",Phonemic
+6-320-501-3,botl1242,Botlikh (Miarso dialect),277,мургва,CyrillTrans,spindle,,,"mirgʷa, murgʷa",Phonemic
+6-310-501-1,botl1242,Botlikh (Miarso dialect),121,рекун игьи,CyrillTrans,spin,,,rekun ihi,Phonemic
+6-290-501-1,botl1242,Botlikh (Miarso dialect),629,ццуку,CyrillTrans,leather,,,c̄uku,Phonemic
+6-280-501-1,botl1242,Botlikh (Miarso dialect),580,ццуку,CyrillTrans,fur,,,c̄uku,Phonemic
+6-270-501-1,botl1242,Botlikh (Miarso dialect),325,буртина,CyrillTrans,felt,,,burtina,Phonemic
+6-250-501-1,botl1242,Botlikh (Miarso dialect),1641,чилай,CyrillTrans,silk,,,"čilay, daray",Phonemic
+6-250-501-3,botl1242,Botlikh (Miarso dialect),1641,дарай,CyrillTrans,silk,,,"čilay, daray",Phonemic
+6-240-501-1,botl1242,Botlikh (Miarso dialect),1850,панпалъи хами,CyrillTrans,cotton,,,panpaɬi xami,Phonemic
+6-230-501-1,botl1242,Botlikh (Miarso dialect),916,туртилъи (рехуналъи) хами,CyrillTrans,"linen, flax",,,turtiɬi (rexunaɬi) xami,Phonemic
+6-220-501-1,botl1242,Botlikh (Miarso dialect),964,муху,CyrillTrans,wool,,,"muxu, muxuɬi xami",Phonemic
+6-220-501-3,botl1242,Botlikh (Miarso dialect),964,мухулъи хами,CyrillTrans,wool,,,"muxu, muxuɬi xami",Phonemic
+6-210-501-1,botl1242,Botlikh (Miarso dialect),1616,хами,CyrillTrans,cloth,,,xami,Phonemic
+6-130-501-1,botl1242,Botlikh (Miarso dialect),881,анси раъалъилъи,CyrillTrans,tailor,,,ansi raʔaɬiɬi,Phonemic
+6-120-501-1,botl1242,Botlikh (Miarso dialect),1895,раъалъи,CyrillTrans,"clothing, clothes",,,raʔaɬi,Phonemic
+6-110-501-1,botl1242,Botlikh (Miarso dialect),158,баи баъай,CyrillTrans,put on (clothes),,,bai baʔay,Phonemic
+5-971-501-1,botl1242,Botlikh (Miarso dialect),1556,ччаку кІаркІану,CyrillTrans,egg yolk,,,č̄aku kʼarkʼanu,Phonemic
+5-970-501-1,botl1242,Botlikh (Miarso dialect),744,кІаркІану,CyrillTrans,egg,,,kʼarkʼanu,Phonemic
+5-940-501-1,botl1242,Botlikh (Miarso dialect),404,чІагІа,CyrillTrans,fermented drink,,,čʼaʕa,Phonemic
+5-930-501-1,botl1242,Botlikh (Miarso dialect),1639,пива,CyrillTrans,beer,,,piwa,Phonemic
+5-920-501-1,botl1242,Botlikh (Miarso dialect),1524,кІикІилъи худихаб нар,CyrillTrans,wine,,,kʼikʼiɬi xudixab nar,Phonemic
+5-910-501-1,botl1242,Botlikh (Miarso dialect),941,меди,CyrillTrans,mead,,,medi,Phonemic
+5-900-501-1,botl1242,Botlikh (Miarso dialect),731,худихаб нар,CyrillTrans,"beverage, drink",,,xudixab nar,Phonemic
+5-890-501-1,botl1242,Botlikh (Miarso dialect),1245,зиналъи бицІайчІоб лъирлъи,CyrillTrans,butter,,,zinaɬi bicʼayčʼob ɬirɬi,Phonemic
+5-880-501-1,botl1242,Botlikh (Miarso dialect),1569,инса,CyrillTrans,cheese,,,"insa, qʼʷačʼara",Phonemic
+5-880-501-3,botl1242,Botlikh (Miarso dialect),1569,къвачІара,CyrillTrans,cheese,,,"insa, qʼʷačʼara",Phonemic
+5-870-501-1,botl1242,Botlikh (Miarso dialect),93,кканди,CyrillTrans,milk (vb),,,k̄andi,Phonemic
+5-850-501-1,botl1242,Botlikh (Miarso dialect),862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-501-1,botl1242,Botlikh (Miarso dialect),635,шив,CyrillTrans,milk (noun),,,šiw,Phonemic
+5-840-501-1,botl1242,Botlikh (Miarso dialect),942,гьунци,CyrillTrans,honey,,,hunci,Phonemic
+5-821-501-1,botl1242,Botlikh (Miarso dialect),919,букьа пурч,CyrillTrans,chili pepper,,,buƛ̄ʼa purč,Phonemic
+5-820-501-1,botl1242,Botlikh (Miarso dialect),1385,пурч,CyrillTrans,pepper,,,purč,Phonemic
+5-810-501-1,botl1242,Botlikh (Miarso dialect),1274,ццай,CyrillTrans,salt,,,c̄ay,Phonemic
+5-791-501-1,botl1242,Botlikh (Miarso dialect),323,шаму,CyrillTrans,"grease, fat",,,šamu,Phonemic
+5-790-501-1,botl1242,Botlikh (Miarso dialect),1484,симишкалъи лъирлъи,CyrillTrans,oil,,,simiškaɬi ɬirɬi,Phonemic
+5-780-501-1,botl1242,Botlikh (Miarso dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-501-1,botl1242,Botlikh (Miarso dialect),920,кІикІи,CyrillTrans,grape,,,kʼikʼi,Phonemic
+5-770-501-1,botl1242,Botlikh (Miarso dialect),191,гьуркьа,CyrillTrans,nut,,,hurƛ̄ʼa,Phonemic
+5-750-501-1,botl1242,Botlikh (Miarso dialect),322,чІатІу,CyrillTrans,fig,,,čʼatʼu,Phonemic
+5-712-501-1,botl1242,Botlikh (Miarso dialect),1966,машаб на,CyrillTrans,bunch,,,"mašab na, celi",Phonemic
+5-712-501-3,botl1242,Botlikh (Miarso dialect),1966,цели,CyrillTrans,bunch,,,"mašab na, celi",Phonemic
+5-710-501-1,botl1242,Botlikh (Miarso dialect),1507,бекъи,CyrillTrans,fruit,,,beqʼi,Phonemic
+5-700-501-1,botl1242,Botlikh (Miarso dialect),593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-501-1,botl1242,Botlikh (Miarso dialect),832,гьали,CyrillTrans,bean,,,hali,Phonemic
+5-650-501-1,botl1242,Botlikh (Miarso dialect),924,кІанчи-ламадур,CyrillTrans,vegetables,,,kʼanči-lamadur,Phonemic
+5-640-501-1,botl1242,Botlikh (Miarso dialect),1547,чурпа,CyrillTrans,"soup, broth",,,čurpa,Phonemic
+5-630-501-1,botl1242,Botlikh (Miarso dialect),1874,бакьи,CyrillTrans,sausage,,,baƛ̄ʼi,Phonemic
+5-610-501-1,botl1242,Botlikh (Miarso dialect),634,рикьи,CyrillTrans,meat,,,riƛ̄ʼi,Phonemic
+5-590-501-1,botl1242,Botlikh (Miarso dialect),225,гигиналъи гьинусуб ракІва,CyrillTrans,pestle,,,giginaɬi hinusub rakʼʷa,Phonemic
+5-580-501-1,botl1242,Botlikh (Miarso dialect),224,ражи чІиндихаб нар,CyrillTrans,mortar (2),,,raži čʼindixab nar,Phonemic
+5-570-501-1,botl1242,Botlikh (Miarso dialect),636,хвабу,CyrillTrans,mill,,,xʷabu,Phonemic
+5-560-501-1,botl1242,Botlikh (Miarso dialect),1033,кІкІанцаб бисай,CyrillTrans,"crush, grind",,,k̄ʼancab bisay,Phonemic
+5-550-501-1,botl1242,Botlikh (Miarso dialect),1594,хъвахъу,CyrillTrans,"meal, flour",,,qʷaqu,Phonemic
+5-540-501-1,botl1242,Botlikh (Miarso dialect),274,гьатІи бигъай,CyrillTrans,knead,,,hatʼi biɣay,Phonemic
+5-530-501-1,botl1242,Botlikh (Miarso dialect),273,гьатІи,CyrillTrans,dough,,,hatʼi,Phonemic
+5-510-501-1,botl1242,Botlikh (Miarso dialect),1368,гъани,CyrillTrans,bread,,,ɣani,Phonemic
+5-490-501-1,botl1242,Botlikh (Miarso dialect),2017,бигъай,CyrillTrans,"stir, mix",,,biɣay,Phonemic
+5-480-501-1,botl1242,Botlikh (Miarso dialect),1767,ццинкІай,CyrillTrans,scrape,,,c̄inkʼay,Phonemic
+5-470-501-1,botl1242,Botlikh (Miarso dialect),86,сусукІи,CyrillTrans,"sieve, strain",,,"susukʼi, buc̄i",Phonemic
+5-470-501-3,botl1242,Botlikh (Miarso dialect),86,буцци,CyrillTrans,"sieve, strain",,,"susukʼi, buc̄i",Phonemic
+5-460-501-1,botl1242,Botlikh (Miarso dialect),275,ццинкІай,CyrillTrans,peel,,,c̄inkʼay,Phonemic
+5-450-501-1,botl1242,Botlikh (Miarso dialect),1833,хадалисуб маква,CyrillTrans,supper,,,xadalisub makʷa,Phonemic
+5-440-501-1,botl1242,Botlikh (Miarso dialect),1833,къалъин,CyrillTrans,dinner,,,"qʼaɬin, helesub makʷa",Phonemic
+5-440-501-3,botl1242,Botlikh (Miarso dialect),1833,гьелесуб маква,CyrillTrans,dinner,,,"qʼaɬin, helesub makʷa",Phonemic
+5-420-501-1,botl1242,Botlikh (Miarso dialect),1322,хакьусусуб маква,CyrillTrans,breakfast,,,xaƛ̄ʼususub makʷa,Phonemic
+5-410-501-1,botl1242,Botlikh (Miarso dialect),1526,хьваъаб маква,CyrillTrans,meal (a),,,x̌ʷaʔab makʷa,Phonemic
+5-391-501-1,botl1242,Botlikh (Miarso dialect),272,гъурцу,CyrillTrans,tongs,,,ɣurcu,Phonemic
+5-390-501-1,botl1242,Botlikh (Miarso dialect),1302,кьибтІа,CyrillTrans,fork (2),,,ƛ̄ʼibtʼa,Phonemic
+5-380-501-1,botl1242,Botlikh (Miarso dialect),1352,бесун,CyrillTrans,knife (2),,,besun,Phonemic
+5-370-501-1,botl1242,Botlikh (Miarso dialect),1378,гъеру,CyrillTrans,spoon,,,ɣeru,Phonemic
+5-360-501-1,botl1242,Botlikh (Miarso dialect),271,зукІкІу гъадару,CyrillTrans,saucer,,,zuk̄ʼu ɣadaru,Phonemic
+5-350-501-1,botl1242,Botlikh (Miarso dialect),476,курушка,CyrillTrans,"cup, drinking vessel",,,kuruška,Phonemic
+5-330-501-1,botl1242,Botlikh (Miarso dialect),1530,квай,CyrillTrans,bowl,,,kʷay,Phonemic
+5-340-501-1,botl1242,Botlikh (Miarso dialect),270,муцце,CyrillTrans,"pitcher, jug",,,muc̄e,Phonemic
+5-320-501-1,botl1242,Botlikh (Miarso dialect),480,гъадару,CyrillTrans,plate,,,ɣadaru,Phonemic
+5-310-501-1,botl1242,Botlikh (Miarso dialect),481,гъадару зукІкІу,CyrillTrans,dish,,,"ɣadaru zuk̄ʼu, bečʼuxa ɣadaru",Phonemic
+5-310-501-3,botl1242,Botlikh (Miarso dialect),481,бечІуха гъадару,CyrillTrans,dish,,,"ɣadaru zuk̄ʼu, bečʼuxa ɣadaru",Phonemic
+5-280-501-1,botl1242,Botlikh (Miarso dialect),31,хьаги,CyrillTrans,pan,,,x̌agi,Phonemic
+5-260-501-1,botl1242,Botlikh (Miarso dialect),1462,зукІкІу хьаги,CyrillTrans,"pot, cooking vessel",,,zuk̄ʼu x̌agi,Phonemic
+5-270-501-1,botl1242,Botlikh (Miarso dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-501-1,botl1242,Botlikh (Miarso dialect),183,бежи,CyrillTrans,bake,,,beži,Phonemic
+5-250-501-1,botl1242,Botlikh (Miarso dialect),1143,ахъул,CyrillTrans,oven,,,"aqul, peč",Phonemic
+5-250-501-3,botl1242,Botlikh (Miarso dialect),1143,печ,CyrillTrans,oven,,,"aqul, peč",Phonemic
+5-230-501-1,botl1242,Botlikh (Miarso dialect),2146,бежи,CyrillTrans,"roast, fry",,,beži,Phonemic
+5-220-501-1,botl1242,Botlikh (Miarso dialect),792,анхва бигъай,CyrillTrans,boil (vb),,,anxʷa biɣay,Phonemic
+5-210-501-1,botl1242,Botlikh (Miarso dialect),1100,мигьи,CyrillTrans,cook,,,mihi,Phonemic
+5-190-501-1,botl1242,Botlikh (Miarso dialect),129,гъанкъай,CyrillTrans,choke,,,ɣanqʼay,Phonemic
+5-181-501-1,botl1242,Botlikh (Miarso dialect),897,микІкІуй,CyrillTrans,swallow,,,mik̄ʼuy,Phonemic
+5-180-501-1,botl1242,Botlikh (Miarso dialect),321,кІамчІади,CyrillTrans,chew,,,kʼamčʼadi,Phonemic
+5-160-501-1,botl1242,Botlikh (Miarso dialect),1421,ццунди,CyrillTrans,suck,,,c̄undi,Phonemic
+5-150-501-1,botl1242,Botlikh (Miarso dialect),848,гьанкъаса,CyrillTrans,thirst,,,hanqʼasa,Phonemic
+5-141-501-1,botl1242,Botlikh (Miarso dialect),199,макваса,CyrillTrans,famine,,,makʷasa,Phonemic
+5-140-501-1,botl1242,Botlikh (Miarso dialect),1864,макваса,CyrillTrans,hunger,,,makʷasa,Phonemic
+5-130-501-1,botl1242,Botlikh (Miarso dialect),1401,худи,CyrillTrans,drink,,,xudi,Phonemic
+5-125-501-1,botl1242,Botlikh (Miarso dialect),1728,тандаб,CyrillTrans,rotten,,,tandab,Phonemic
+5-124-501-1,botl1242,Botlikh (Miarso dialect),1958,бигъичІаб,CyrillTrans,"green, unripe",,,biɣičʼab,Phonemic
+5-123-501-1,botl1242,Botlikh (Miarso dialect),178,бигъаб,CyrillTrans,ripe,,,biɣab,Phonemic
+5-122-501-1,botl1242,Botlikh (Miarso dialect),1959,мигьичІаб,CyrillTrans,raw,,,mihičʼab,Phonemic
+5-121-501-1,botl1242,Botlikh (Miarso dialect),269,мигьаб,CyrillTrans,cooked,,,mihab,Phonemic
+5-120-501-1,botl1242,Botlikh (Miarso dialect),256,гъамдихаб нар,CyrillTrans,food,,,ɣamdixab nar,Phonemic
+5-110-501-1,botl1242,Botlikh (Miarso dialect),1336,гъамди,CyrillTrans,eat,,,"ɣamdi, idaxuma",Phonemic
+5-110-501-3,botl1242,Botlikh (Miarso dialect),1336,идахума,CyrillTrans,eat,,,"ɣamdi, idaxuma",Phonemic
+4-990-501-1,botl1242,Botlikh (Miarso dialect),590,гьеа раалъи гучІов,CyrillTrans,"naked, bare",,,"hea raʔaɬi gučʼow, čʼabħin",Phonemic
+4-990-501-3,botl1242,Botlikh (Miarso dialect),590,чІабхІин,CyrillTrans,"naked, bare",,,"hea raʔaɬi gučʼow, čʼabħin",Phonemic
+4-970-501-1,botl1242,Botlikh (Miarso dialect),1653,боцу,CyrillTrans,blind,,,bocu,Phonemic
+4-980-501-1,botl1242,Botlikh (Miarso dialect),1463,тирхов,CyrillTrans,intoxicated,,,tirxow,Phonemic
+4-960-501-1,botl1242,Botlikh (Miarso dialect),1666,мицци бегъихичІов,CyrillTrans,mute,,,mic̄i beɣixičʼow,Phonemic
+4-950-501-1,botl1242,Botlikh (Miarso dialect),996,гІенкъав,CyrillTrans,deaf,,,ʕenqʼaw,Phonemic
+4-930-501-1,botl1242,Botlikh (Miarso dialect),1125,микъа баса гучІов,CyrillTrans,bald,,,miqʼa basa gučʼow,Phonemic
+4-940-501-1,botl1242,Botlikh (Miarso dialect),320,рекъуй,CyrillTrans,lame,,,reqʼuy,Phonemic
+4-920-501-1,botl1242,Botlikh (Miarso dialect),1564,кІвахІалав,CyrillTrans,lazy,,,kʼʷaħalaw,Phonemic
+4-912-501-1,botl1242,Botlikh (Miarso dialect),168,шамди,CyrillTrans,rest,,,šamdi,Phonemic
+4-910-501-1,botl1242,Botlikh (Miarso dialect),1757,саква,CyrillTrans,"tired, weary",,,sakʷa,Phonemic
+4-890-501-1,botl1242,Botlikh (Miarso dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-501-1,botl1242,Botlikh (Miarso dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-501-3,botl1242,Botlikh (Miarso dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-501-5,botl1242,Botlikh (Miarso dialect),1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-501-1,botl1242,Botlikh (Miarso dialect),597,тохтур,CyrillTrans,physician,,,"toxtur, warač",Phonemic
+4-870-501-3,botl1242,Botlikh (Miarso dialect),597,варач,CyrillTrans,physician,,,"toxtur, warač",Phonemic
+4-860-501-1,botl1242,Botlikh (Miarso dialect),499,чадай,CyrillTrans,"cure, heal",,,"čaday, daru ihi",Phonemic
+4-860-501-3,botl1242,Botlikh (Miarso dialect),499,дару игьа,CyrillTrans,"cure, heal",,,"čaday, daru ihi",Phonemic
+4-858-501-1,botl1242,Botlikh (Miarso dialect),497,анжи,CyrillTrans,scar,,,anži,Phonemic
+4-857-501-1,botl1242,Botlikh (Miarso dialect),1808,ахва,CyrillTrans,pus,,,axʷa,Phonemic
+4-856-501-1,botl1242,Botlikh (Miarso dialect),793,бижаб нар,CyrillTrans,boil (noun),,,bižab nar,Phonemic
+4-855-501-1,botl1242,Botlikh (Miarso dialect),1584,пупул,CyrillTrans,blister,,,pupul,Phonemic
+4-854-501-1,botl1242,Botlikh (Miarso dialect),148,кунтиква,CyrillTrans,itch,,,kuntikʷa,Phonemic
+4-853-501-1,botl1242,Botlikh (Miarso dialect),1903,кьуду,CyrillTrans,swelling,,,ƛ̄ʼudu,Phonemic
+4-852-501-1,botl1242,Botlikh (Miarso dialect),1148,къуркьиду,CyrillTrans,bruise,,,qʼurƛ̄ʼidu,Phonemic
+4-850-501-1,botl1242,Botlikh (Miarso dialect),1109,анлъа,CyrillTrans,"wound, sore",,,anɬa,Phonemic
+4-843-501-1,botl1242,Botlikh (Miarso dialect),102,къватІелъи нар,CyrillTrans,cold (catarrh),,,qʼʷatʼeɬi nar,Phonemic
+4-842-501-1,botl1242,Botlikh (Miarso dialect),1957,дамдам,CyrillTrans,goiter,,,damdam,Phonemic
+4-841-501-1,botl1242,Botlikh (Miarso dialect),1534,вечар,CyrillTrans,fever,,,"wečar, rečati kʷaħali",Phonemic
+4-841-501-3,botl1242,Botlikh (Miarso dialect),1534,речати квахІали,CyrillTrans,fever,,,"wečar, rečati kʷaħali",Phonemic
+4-840-501-1,botl1242,Botlikh (Miarso dialect),1847,кІвахІаллъов,CyrillTrans,"sick, sickness",,,"kʷaħalɬоw, unti",Phonemic
+4-840-501-3,botl1242,Botlikh (Miarso dialect),1847,унти,CyrillTrans,"sick, sickness",,,"kʷaħalɬоw, unti",Phonemic
+4-830-501-1,botl1242,Botlikh (Miarso dialect),1364,сахав,CyrillTrans,"well, health",,,"saxaw, saxɬi",Phonemic
+4-830-501-3,botl1242,Botlikh (Miarso dialect),1364,сахлъи,CyrillTrans,"well, health",,,"saxaw, saxɬi",Phonemic
+4-820-501-1,botl1242,Botlikh (Miarso dialect),1601,загІипав,CyrillTrans,weak,,,zaʕipaw,Phonemic
+4-810-501-1,botl1242,Botlikh (Miarso dialect),785,къуватав,CyrillTrans,"strong, mighty, powerful",,,qʼuwataw,Phonemic
+4-790-501-1,botl1242,Botlikh (Miarso dialect),1773,хьуму,CyrillTrans,"grave, tomb",,,x̌umu,Phonemic
+4-780-501-1,botl1242,Botlikh (Miarso dialect),1719,хьудилъу рукІай,CyrillTrans,bury (the dead),,,x̌ʼudiɬu rukʼay,Phonemic
+4-770-501-1,botl1242,Botlikh (Miarso dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-501-1,botl1242,Botlikh (Miarso dialect),1417,кІванди,CyrillTrans,kill,,,kʼʷandi,Phonemic
+4-751-501-1,botl1242,Botlikh (Miarso dialect),1904,гъанкъов (адам),CyrillTrans,drowned,,,ɣanqʼow (adam),Phonemic
+4-750-501-1,botl1242,Botlikh (Miarso dialect),1494,рии,CyrillTrans,"die, dead",,,"riʔi, wio",Phonemic
+4-750-501-3,botl1242,Botlikh (Miarso dialect),1494,вио,CyrillTrans,"die, dead",,,"riʔi, wio",Phonemic
+4-740-501-1,botl1242,Botlikh (Miarso dialect),1422,дунел рукІи,CyrillTrans,"live, living, life",,,"dunel rukʼi, ʕumru, čʼagoyaw",Phonemic
+4-740-501-3,botl1242,Botlikh (Miarso dialect),1422,гІумру,CyrillTrans,"live, living, life",,,"dunel rukʼi, ʕumru, čʼagoyaw",Phonemic
+4-740-501-5,botl1242,Botlikh (Miarso dialect),1422,чІагойав,CyrillTrans,"live, living, life",,,"dunel rukʼi, ʕumru, čʼagoyaw",Phonemic
+4-732-501-1,botl1242,Botlikh (Miarso dialect),1087,йанхи йикІи,CyrillTrans,conceive,,,yanxi yikʼi,Phonemic
+4-730-501-1,botl1242,Botlikh (Miarso dialect),1123,йанхилъай (адам),CyrillTrans,pregnant,,,yanxiɬay (adam),Phonemic
+4-720-501-1,botl1242,Botlikh (Miarso dialect),1090,нахи,CyrillTrans,born (to be),,,"naxi, yanxi",Phonemic
+4-720-501-3,botl1242,Botlikh (Miarso dialect),1090,йанхи,CyrillTrans,born (to be),,,"naxi, yanxi",Phonemic
+4-710-501-1,botl1242,Botlikh (Miarso dialect),1152,бижай,CyrillTrans,beget (of father),,,"bižay, wižay",Phonemic
+4-710-501-3,botl1242,Botlikh (Miarso dialect),1152,вижай,CyrillTrans,beget (of father),,,"bižay, wižay",Phonemic
+4-690-501-1,botl1242,Botlikh (Miarso dialect),138,нучи,CyrillTrans,bathe,,,nuči,Phonemic
+4-680-501-1,botl1242,Botlikh (Miarso dialect),52,гирга рагьи,CyrillTrans,shiver,,,girga rahi,Phonemic
+4-670-501-1,botl1242,Botlikh (Miarso dialect),1785,банди,CyrillTrans,have sexual intercourse,,,bandi,Phonemic
+4-660-501-1,botl1242,Botlikh (Miarso dialect),676,чимди,CyrillTrans,defecate,,,čimdi,Phonemic
+4-650-501-1,botl1242,Botlikh (Miarso dialect),592,ричикуй,CyrillTrans,urinate,,,ričikuy,Phonemic
+4-640-501-1,botl1242,Botlikh (Miarso dialect),1159,цудалъи,CyrillTrans,break wind,,,cudaɬi,Phonemic
+4-630-501-1,botl1242,Botlikh (Miarso dialect),1602,рили,CyrillTrans,wake up,,,rili,Phonemic
+4-620-501-1,botl1242,Botlikh (Miarso dialect),1920,макьу гьалъи,CyrillTrans,dream,,,maƛ̄ʼu haɬi,Phonemic
+4-612-501-1,botl1242,Botlikh (Miarso dialect),1983,хъархъа рагьи,CyrillTrans,snore,,,qarqa rahi,Phonemic
+4-610-501-1,botl1242,Botlikh (Miarso dialect),1585,гъунду рагьи,CyrillTrans,sleep,,,ɣundu rahi,Phonemic
+4-591-501-1,botl1242,Botlikh (Miarso dialect),268,тата хьардай,CyrillTrans,dribble,,,tata x̌arday,Phonemic
+4-590-501-1,botl1242,Botlikh (Miarso dialect),319,ламди,CyrillTrans,lick,,,lamdi,Phonemic
+4-580-501-1,botl1242,Botlikh (Miarso dialect),1403,къамди,CyrillTrans,bite,,,qʼamdi,Phonemic
+4-570-501-1,botl1242,Botlikh (Miarso dialect),1278,кІарди,CyrillTrans,vomit,,,kʼardi,Phonemic
+4-560-501-1,botl1242,Botlikh (Miarso dialect),1440,тутудалъи,CyrillTrans,spit,,,"tutudaɬi, tutu",Phonemic
+4-560-501-3,botl1242,Botlikh (Miarso dialect),1440,туту,CyrillTrans,spit,,,"tutudaɬi, tutu",Phonemic
+4-550-501-1,botl1242,Botlikh (Miarso dialect),126,гьаа бухи,CyrillTrans,perspire,,,haʔa buxi,Phonemic
+4-540-501-1,botl1242,Botlikh (Miarso dialect),1621,хІебчиди,CyrillTrans,sneeze,,,ħebčidi,Phonemic
+4-530-501-1,botl1242,Botlikh (Miarso dialect),879,охІоди,CyrillTrans,cough,,,oħodi,Phonemic
+4-521-501-1,botl1242,Botlikh (Miarso dialect),162,гьикІкІиди,CyrillTrans,hiccough,,,hik̄ʼidi,Phonemic
+4-520-501-1,botl1242,Botlikh (Miarso dialect),1028,гьагьаласа вагьи,CyrillTrans,"yawn, gape",,,hahalasa wahi,Phonemic
+4-510-501-1,botl1242,Botlikh (Miarso dialect),1407,хІуккел ганди,CyrillTrans,"breathe, breath",,,"ħuk̄el gandi, ħuk̄el",Phonemic
+4-510-501-3,botl1242,Botlikh (Miarso dialect),1407,хІуккел,CyrillTrans,"breathe, breath",,,"ħuk̄el gandi, ħuk̄el",Phonemic
+4-492-501-1,botl1242,Botlikh (Miarso dialect),1222,шинкІа,CyrillTrans,penis,,,šinkʼa,Phonemic
+4-490-501-1,botl1242,Botlikh (Miarso dialect),797,гъулгъул,CyrillTrans,testicle,,,ɣulɣul,Phonemic
+4-470-501-1,botl1242,Botlikh (Miarso dialect),804,макІилуб гьанкъу,CyrillTrans,womb,,,makʼilub hanqʼu,Phonemic
+4-464-501-1,botl1242,Botlikh (Miarso dialect),834,бехикъас,CyrillTrans,buttocks,,,bexiqʼas,Phonemic
+4-463-501-1,botl1242,Botlikh (Miarso dialect),1745,регъил,CyrillTrans,hip,,,reɣil,Phonemic
+4-462-501-1,botl1242,Botlikh (Miarso dialect),1681,бакьар,CyrillTrans,waist,,,baƛ̄ʼar,Phonemic
+4-461-501-1,botl1242,Botlikh (Miarso dialect),1991,бакье,CyrillTrans,"intestines, guts",,,baƛ̄ʼe,Phonemic
+4-460-501-1,botl1242,Botlikh (Miarso dialect),819,маквалъи гьанкъу,CyrillTrans,stomach,,,makʷaɬi hanqʼu,Phonemic
+4-452-501-1,botl1242,Botlikh (Miarso dialect),1744,симе,CyrillTrans,spleen,,,sime,Phonemic
+4-451-501-1,botl1242,Botlikh (Miarso dialect),489,кІкІуй,CyrillTrans,kidney,,,k̄ʼuy,Phonemic
+4-450-501-1,botl1242,Botlikh (Miarso dialect),1224,регьилъа,CyrillTrans,liver,,,rehiɬa,Phonemic
+4-441-501-1,botl1242,Botlikh (Miarso dialect),688,хъунсир,CyrillTrans,lung,,,qunsir,Phonemic
+4-440-501-1,botl1242,Botlikh (Miarso dialect),1223,ракІва,CyrillTrans,heart,,,rakʼʷa,Phonemic
+4-430-501-1,botl1242,Botlikh (Miarso dialect),1838,моцал,CyrillTrans,navel,,,mocal,Phonemic
+4-420-501-1,botl1242,Botlikh (Miarso dialect),154,кора,CyrillTrans,udder,,,kora,Phonemic
+4-412-501-1,botl1242,Botlikh (Miarso dialect),796,мицци,CyrillTrans,"nipple, teat",,,mic̄i,Phonemic
+4-410-501-1,botl1242,Botlikh (Miarso dialect),1402,йешилуб нихи,CyrillTrans,breast (of woman),,,yešilub nixi,Phonemic
+4-400-501-1,botl1242,Botlikh (Miarso dialect),1592,нихи ракІва,CyrillTrans,chest,,,nixi rakʼʷa,Phonemic
+4-393-501-1,botl1242,Botlikh (Miarso dialect),1201,хьули,CyrillTrans,feather,,,x̌uli,Phonemic
+4-392-501-1,botl1242,Botlikh (Miarso dialect),1257,квачІи,CyrillTrans,wing,,,kʷačʼi,Phonemic
+4-380-501-1,botl1242,Botlikh (Miarso dialect),1389,цІекІулъи гьецІил,CyrillTrans,toe,,,cʼekʼuɬi hecʼil,Phonemic
+4-374-501-1,botl1242,Botlikh (Miarso dialect),318,цІекІабалълъи лъакІи,CyrillTrans,footprint,,,cʼekʼabaɬ̄i ɬakʼi,Phonemic
+4-372-501-1,botl1242,Botlikh (Miarso dialect),980,шункІа,CyrillTrans,heel,,,šunkʼa,Phonemic
+4-371-501-1,botl1242,Botlikh (Miarso dialect),803,цІекІабалълъи бакьар,CyrillTrans,ankle,,,cʼekʼabaɬ̄i baƛ̄ʼar,Phonemic
+4-370-501-1,botl1242,Botlikh (Miarso dialect),1301,цІекІа,CyrillTrans,foot,,,cʼekʼa,Phonemic
+4-360-501-1,botl1242,Botlikh (Miarso dialect),1371,нуку,CyrillTrans,knee,,,nuku,Phonemic
+4-352-501-1,botl1242,Botlikh (Miarso dialect),498,гьикьисуб регъил,CyrillTrans,calf of leg,,,hiƛ̄ʼisub reɣil,Phonemic
+4-351-501-1,botl1242,Botlikh (Miarso dialect),800,регъил,CyrillTrans,thigh,,,reɣil,Phonemic
+4-350-501-1,botl1242,Botlikh (Miarso dialect),1297,цІекІа,CyrillTrans,leg,,,cʼekʼa,Phonemic
+4-345-501-1,botl1242,Botlikh (Miarso dialect),72,гьуму,CyrillTrans,claw,,,humu,Phonemic
+4-344-501-1,botl1242,Botlikh (Miarso dialect),1258,гьуму,CyrillTrans,fingernail,,,humu,Phonemic
+4-342-501-1,botl1242,Botlikh (Miarso dialect),1781,бечІуха гьецІил,CyrillTrans,thumb,,,bečʼuxa hecʼil,Phonemic
+4-340-501-1,botl1242,Botlikh (Miarso dialect),1303,реулъи гьецІил,CyrillTrans,finger,,,reuɬi hecʼil,Phonemic
+4-331-501-1,botl1242,Botlikh (Miarso dialect),1183,хъати,CyrillTrans,palm of hand,,,qati,Phonemic
+4-330-501-1,botl1242,Botlikh (Miarso dialect),1277,реа,CyrillTrans,hand,,,rea,Phonemic
+4-321-501-1,botl1242,Botlikh (Miarso dialect),799,реулъи бакьар,CyrillTrans,wrist,,,reuɬi baƛ̄ʼar,Phonemic
+4-320-501-1,botl1242,Botlikh (Miarso dialect),981,ццикван,CyrillTrans,elbow,,,c̄ikʷan,Phonemic
+4-312-501-1,botl1242,Botlikh (Miarso dialect),1886,гъваркьи муса,CyrillTrans,armpit,,,ɣʷarƛ̄ʼi musa,Phonemic
+4-310-501-1,botl1242,Botlikh (Miarso dialect),1673,реа,CyrillTrans,arm,,,rea,Phonemic
+4-302-501-1,botl1242,Botlikh (Miarso dialect),1994,сологІучІ,CyrillTrans,collarbone,,,soloʕučʼ,Phonemic
+4-301-501-1,botl1242,Botlikh (Miarso dialect),172,реххин,CyrillTrans,shoulderblade,,,"rex̄in, bexumaɬi",Phonemic
+4-301-501-3,botl1242,Botlikh (Miarso dialect),172,бехумалъи,CyrillTrans,shoulderblade,,,"rex̄in, bexumaɬi",Phonemic
+4-300-501-1,botl1242,Botlikh (Miarso dialect),1482,гъижигъвани,CyrillTrans,shoulder,,,ɣižiɣʷani,Phonemic
+4-290-501-1,botl1242,Botlikh (Miarso dialect),1346,гару,CyrillTrans,throat,,,garu,Phonemic
+4-281-501-1,botl1242,Botlikh (Miarso dialect),1347,гъванша,CyrillTrans,nape of neck,,,ɣʷanša,Phonemic
+4-280-501-1,botl1242,Botlikh (Miarso dialect),1333,гару,CyrillTrans,neck,,,garu,Phonemic
+4-272-501-1,botl1242,Botlikh (Miarso dialect),1049,бечІуха салу,CyrillTrans,molartooth,,,bečʼuxa salu,Phonemic
+4-270-501-1,botl1242,Botlikh (Miarso dialect),1380,(салабалъи) салу,CyrillTrans,tooth,,,(salabaɬi) salu,Phonemic
+4-271-501-1,botl1242,Botlikh (Miarso dialect),139,дабе,CyrillTrans,gums,,,dabe,Phonemic
+4-260-501-1,botl1242,Botlikh (Miarso dialect),1205,мицци,CyrillTrans,tongue,,,mic̄i,Phonemic
+4-250-501-1,botl1242,Botlikh (Miarso dialect),478,сими,CyrillTrans,lip,,,simi,Phonemic
+4-241-501-1,botl1242,Botlikh (Miarso dialect),73,шикибалъи газа,CyrillTrans,beak,,,šikibaɬi gaza,Phonemic
+4-240-501-1,botl1242,Botlikh (Miarso dialect),674,гъели,CyrillTrans,mouth,,,ɣeli,Phonemic
+4-232-501-1,botl1242,Botlikh (Miarso dialect),208,тата,CyrillTrans,mucus (nasal),,,tata,Phonemic
+4-231-501-1,botl1242,Botlikh (Miarso dialect),1178,миаралъи къале,CyrillTrans,nostril,,,miaraɬi qʼale,Phonemic
+4-230-501-1,botl1242,Botlikh (Miarso dialect),1221,миар,CyrillTrans,nose,,,miar,Phonemic
+4-222-501-1,botl1242,Botlikh (Miarso dialect),32,гьантІукІалъи гьинусуб,CyrillTrans,earwax,,,hantʼukʼaɬi hinusub,Phonemic
+4-221-501-1,botl1242,Botlikh (Miarso dialect),18,гьинусуб гьантІука сини,CyrillTrans,earlobe,,,hinusub hantʼuka sini,Phonemic
+4-220-501-1,botl1242,Botlikh (Miarso dialect),1247,гьантІука,CyrillTrans,ear,,,hantʼuka,Phonemic
+4-215-501-1,botl1242,Botlikh (Miarso dialect),1655,гьаб къиндай,CyrillTrans,blink,,,hab qʼinday,Phonemic
+4-214-501-1,botl1242,Botlikh (Miarso dialect),1540,гьабдилъилъи баса,CyrillTrans,eyelash,,,habdiɬiɬi basa,Phonemic
+4-213-501-1,botl1242,Botlikh (Miarso dialect),17,аркъул,CyrillTrans,eyelid,,,arqʼul,Phonemic
+4-212-501-1,botl1242,Botlikh (Miarso dialect),1173,кьинсир,CyrillTrans,eyebrow,,,ƛ̄ʼinsir,Phonemic
+4-210-501-1,botl1242,Botlikh (Miarso dialect),1248,гьабдилъи,CyrillTrans,eye,,,habdiɬi,Phonemic
+4-208-501-1,botl1242,Botlikh (Miarso dialect),1730,кІилу,CyrillTrans,cheek,,,kʼilu,Phonemic
+4-209-501-1,botl1242,Botlikh (Miarso dialect),1510,жуна,CyrillTrans,chin,,,žuna,Phonemic
+4-205-501-1,botl1242,Botlikh (Miarso dialect),123,гьанда,CyrillTrans,forehead,,,handa,Phonemic
+4-207-501-1,botl1242,Botlikh (Miarso dialect),798,гъирилъи гьамахе,CyrillTrans,jaw,,,ɣiriɬi hamaxe,Phonemic
+4-204-501-1,botl1242,Botlikh (Miarso dialect),1560,хунхул,CyrillTrans,face,,,xunxul,Phonemic
+4-203-501-1,botl1242,Botlikh (Miarso dialect),1583,гъванакъи гьани,CyrillTrans,brain,,,ɣʷanaqʼi hani,Phonemic
+4-201-501-1,botl1242,Botlikh (Miarso dialect),1604,гьантІу кІачу бихъесуб муса,CyrillTrans,"side of head, temple",,,hantʼu kʼaču biqesub musa,Phonemic
+4-202-501-1,botl1242,Botlikh (Miarso dialect),1605,гвангвара,CyrillTrans,skull,,,gʷangʷara,Phonemic
+4-200-501-1,botl1242,Botlikh (Miarso dialect),1256,гъвани,CyrillTrans,head,,,ɣʷani,Phonemic
+4-191-501-1,botl1242,Botlikh (Miarso dialect),805,мигъулалъи ракьил,CyrillTrans,spine,,,miɣulaɬi raƛ̄ʼil,Phonemic
+4-190-501-1,botl1242,Botlikh (Miarso dialect),1291,мигъул,CyrillTrans,back,,,miɣul,Phonemic
+4-180-501-1,botl1242,Botlikh (Miarso dialect),1220,мигъа,CyrillTrans,tail,,,miɣa,Phonemic
+4-170-501-1,botl1242,Botlikh (Miarso dialect),1393,кІамабалъи кІаму,CyrillTrans,horn,,,kʼamabaɬi kʼamu,Phonemic
+4-162-501-1,botl1242,Botlikh (Miarso dialect),801,исибалъи жола,CyrillTrans,rib,,,isibaɬi žola,Phonemic
+4-160-501-1,botl1242,Botlikh (Miarso dialect),1394,ракьил,CyrillTrans,bone,,,raƛ̄ʼil,Phonemic
+4-151-501-1,botl1242,Botlikh (Miarso dialect),525,гьирилъи щекІи,CyrillTrans,"vein, artery",,,hiriɬi š̄ekʼi,Phonemic
+4-150-501-1,botl1242,Botlikh (Miarso dialect),946,гьири,CyrillTrans,blood,,,hiri,Phonemic
+4-146-501-1,botl1242,Botlikh (Miarso dialect),576,микъасуб хъал,CyrillTrans,dandruff,,,miqʼasub qal,Phonemic
+4-145-501-1,botl1242,Botlikh (Miarso dialect),36,баса,CyrillTrans,pubic hair,,,basa,Phonemic
+4-144-501-1,botl1242,Botlikh (Miarso dialect),189,лагилъусуб баса,CyrillTrans,body hair,,,lagiɬusub basa,Phonemic
+4-142-501-1,botl1242,Botlikh (Miarso dialect),678,мигважур,CyrillTrans,beard,,,migʷažur,Phonemic
+4-140-501-1,botl1242,Botlikh (Miarso dialect),1040,микъа баса,CyrillTrans,hair (head),,,miqʼa basa,Phonemic
+4-130-501-1,botl1242,Botlikh (Miarso dialect),2259,къаркъала,CyrillTrans,flesh,,,"qʼarqʼala, laga",Phonemic
+4-130-501-3,botl1242,Botlikh (Miarso dialect),2259,лага,CyrillTrans,flesh,,,"qʼarqʼala, laga",Phonemic
+4-120-501-1,botl1242,Botlikh (Miarso dialect),763,цІуку,CyrillTrans,"skin, hide",,,"cʼuku, qal",Phonemic
+4-120-501-3,botl1242,Botlikh (Miarso dialect),763,хъал,CyrillTrans,"skin, hide",,,"cʼuku, qal",Phonemic
+4-110-501-1,botl1242,Botlikh (Miarso dialect),1480,къаркъала,CyrillTrans,body,,,"qʼarqʼala, laga",Phonemic
+4-110-501-3,botl1242,Botlikh (Miarso dialect),1480,лага,CyrillTrans,body,,,"qʼarqʼala, laga",Phonemic
+3-980-501-1,botl1242,Botlikh (Miarso dialect),112,зила къуркъу,CyrillTrans,turtle,,,zila qʼurqʼu,Phonemic
+3-970-501-1,botl1242,Botlikh (Miarso dialect),1857,аздагьу,CyrillTrans,"crocodile, alligator",,,azdahu,Phonemic
+3-960-501-1,botl1242,Botlikh (Miarso dialect),632,гьургьулу,CyrillTrans,lizard,,,hurhulu,Phonemic
+3-950-501-1,botl1242,Botlikh (Miarso dialect),503,къуркъу,CyrillTrans,frog,,,qʼurqʼu,Phonemic
+3-940-501-1,botl1242,Botlikh (Miarso dialect),1543,шайтІанилъи гІанкчу,CyrillTrans,snail,,,šaytʼaniɬi ʕankču,Phonemic
+3-930-501-1,botl1242,Botlikh (Miarso dialect),607,гъацІа,CyrillTrans,grasshopper,,,ɣacʼa,Phonemic
+3-920-501-1,botl1242,Botlikh (Miarso dialect),1791,сасакІу,CyrillTrans,butterfly,,,sasakʼu,Phonemic
+3-910-501-1,botl1242,Botlikh (Miarso dialect),206,сарса хорха,CyrillTrans,firefly,,,sarsa xorxa,Phonemic
+3-850-501-1,botl1242,Botlikh (Miarso dialect),730,берка,CyrillTrans,snake,,,berka,Phonemic
+3-840-501-1,botl1242,Botlikh (Miarso dialect),1219,зукІу берка,CyrillTrans,worm,,,"zuk̄ʼu berka, ħapara",Phonemic
+3-840-501-3,botl1242,Botlikh (Miarso dialect),1219,хІапара,CyrillTrans,worm,,,"zuk̄ʼu berka, ħapara",Phonemic
+3-832-501-1,botl1242,Botlikh (Miarso dialect),1509,кІкІара,CyrillTrans,mosquito,,,k̄ʼara,Phonemic
+3-831-501-1,botl1242,Botlikh (Miarso dialect),95,кІкІара,CyrillTrans,"sandfly (midge), gnat",,,k̄ʼara,Phonemic
+3-830-501-1,botl1242,Botlikh (Miarso dialect),1504,тІунтІу,CyrillTrans,fly,,,tʼuntʼu,Phonemic
+3-823-501-1,botl1242,Botlikh (Miarso dialect),1517,кьинжур,CyrillTrans,wasp,,,ƛ̄ʼinžur,Phonemic
+3-822-501-1,botl1242,Botlikh (Miarso dialect),88,перулъи раху,CyrillTrans,beehive,,,peruɬi raxu,Phonemic
+3-821-501-1,botl1242,Botlikh (Miarso dialect),1931,ширу,CyrillTrans,beeswax,,,širu,Phonemic
+3-820-501-1,botl1242,Botlikh (Miarso dialect),665,пера,CyrillTrans,bee,,,pera,Phonemic
+3-819-501-1,botl1242,Botlikh (Miarso dialect),1065,хъамасур,CyrillTrans,spider web,,,qamasur,Phonemic
+3-818-501-1,botl1242,Botlikh (Miarso dialect),843,нуцахир,CyrillTrans,spider,,,nucaxir,Phonemic
+3-817-501-1,botl1242,Botlikh (Miarso dialect),587,танца,CyrillTrans,ant,,,tanca,Phonemic
+3-816-501-1,botl1242,Botlikh (Miarso dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-501-1,botl1242,Botlikh (Miarso dialect),1538,гергужа,CyrillTrans,scorpion,,,gerguža,Phonemic
+3-814-501-1,botl1242,Botlikh (Miarso dialect),1974,цІекІобалъилъи хІапара,CyrillTrans,centipede,,,cʼekʼobaɬiɬi ħapara,Phonemic
+3-813-501-1,botl1242,Botlikh (Miarso dialect),232,танцу,CyrillTrans,flea,,,tancu,Phonemic
+3-812-501-1,botl1242,Botlikh (Miarso dialect),267,тІапа,CyrillTrans,nit (louse egg),,,tʼapa,Phonemic
+3-811-501-1,botl1242,Botlikh (Miarso dialect),1392,нацци,CyrillTrans,louse,,,nac̄i,Phonemic
+3-810-501-1,botl1242,Botlikh (Miarso dialect),620,хІетІ-хъумур,CyrillTrans,insect,,,ħetʼ-qumur,Phonemic
+3-780-501-1,botl1242,Botlikh (Miarso dialect),1871,гъварану,CyrillTrans,camel,,,ɣʷaranu,Phonemic
+3-770-501-1,botl1242,Botlikh (Miarso dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-501-1,botl1242,Botlikh (Miarso dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-501-1,botl1242,Botlikh (Miarso dialect),1936,ритІучІ,CyrillTrans,deer,,,ritʼučʼ,Phonemic
+3-740-501-1,botl1242,Botlikh (Miarso dialect),1312,сари,CyrillTrans,fox,,,sari,Phonemic
+3-730-501-1,botl1242,Botlikh (Miarso dialect),1820,си-сигьин,CyrillTrans,bear,,,si-sihin,Phonemic
+3-720-501-1,botl1242,Botlikh (Miarso dialect),1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-501-1,botl1242,Botlikh (Miarso dialect),522,бацІа,CyrillTrans,wolf,,,bacʼa,Phonemic
+3-664-501-1,botl1242,Botlikh (Miarso dialect),1910,регьелъи геду,CyrillTrans,stingray,,,reheɬi gedu,Phonemic
+3-663-501-1,botl1242,Botlikh (Miarso dialect),957,бечІуна хъвай,CyrillTrans,whale,,,"bečʼuna qʷay, kit",Phonemic
+3-663-501-3,botl1242,Botlikh (Miarso dialect),957,кит,CyrillTrans,whale,,,"bečʼuna qʷay, kit",Phonemic
+3-662-501-1,botl1242,Botlikh (Miarso dialect),1479,регьалъи болъон,CyrillTrans,"porpoise, dolphin",,,"rehaɬi boɬon, delfin",Phonemic
+3-662-501-3,botl1242,Botlikh (Miarso dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,"rehaɬi boɬon, delfin",Phonemic
+3-661-501-1,botl1242,Botlikh (Miarso dialect),1110,бечІуха хъвай,CyrillTrans,shark,,,"bečʼuxa qʷay, akula",Phonemic
+3-661-501-3,botl1242,Botlikh (Miarso dialect),1110,акула,CyrillTrans,shark,,,"bečʼuxa qʷay, akula",Phonemic
+3-655-501-1,botl1242,Botlikh (Miarso dialect),598,регьалъи анча,CyrillTrans,shell,,,rehaɬi anča,Phonemic
+3-654-501-1,botl1242,Botlikh (Miarso dialect),1916,хъвайлъи,CyrillTrans,gill,,,"qʷayɬi, ħux̌el gandixob na",Phonemic
+3-654-501-3,botl1242,Botlikh (Miarso dialect),1916,хІухьел гандихоб на,CyrillTrans,gill,,,"qʷayɬi, ħux̌el gandixob na",Phonemic
+3-653-501-1,botl1242,Botlikh (Miarso dialect),266,хъвайлъи гъарсси,CyrillTrans,fishscale,,,qʷayɬi ɣars̄i,Phonemic
+3-652-501-1,botl1242,Botlikh (Miarso dialect),213,квачІи,CyrillTrans,fin (dorsal),,,kʷačʼi,Phonemic
+3-650-501-1,botl1242,Botlikh (Miarso dialect),227,хъвай,CyrillTrans,fish,,,qʷay,Phonemic
+3-630-501-1,botl1242,Botlikh (Miarso dialect),2139,гьинкква,CyrillTrans,"mouse, rat",,,"hink̄ʷa, čačan hink̄ʷa",Phonemic
+3-630-501-3,botl1242,Botlikh (Miarso dialect),2139,чачан гьинкква,CyrillTrans,"mouse, rat",,,"hink̄ʷa, čačan hink̄ʷa",Phonemic
+3-620-501-1,botl1242,Botlikh (Miarso dialect),1208,кунтІа геду,CyrillTrans,cat,,,kuntʼa gedu,Phonemic
+3-614-501-1,botl1242,Botlikh (Miarso dialect),1136,кьапкІар,CyrillTrans,rabbit,,,ƛ̄ʼapkʼar,Phonemic
+3-610-501-1,botl1242,Botlikh (Miarso dialect),2009,хвай,CyrillTrans,dog,,,xʷay,Phonemic
+3-594-501-1,botl1242,Botlikh (Miarso dialect),1853,гъургъу,CyrillTrans,dove,,,ɣurɣu,Phonemic
+3-596-501-1,botl1242,Botlikh (Miarso dialect),735,бугьу,CyrillTrans,owl,,,buhu,Phonemic
+3-593-501-1,botl1242,Botlikh (Miarso dialect),913,къвакъва,CyrillTrans,crow,,,qʼʷaqʼʷa,Phonemic
+3-592-501-1,botl1242,Botlikh (Miarso dialect),882,чуната багьихаб щикиб,CyrillTrans,parrot,,,"čunata bahixab š̄ikib, papugay",Phonemic
+3-592-501-3,botl1242,Botlikh (Miarso dialect),882,папугай,CyrillTrans,parrot,,,"čunata bahixab š̄ikib, papugay",Phonemic
+3-591-501-1,botl1242,Botlikh (Miarso dialect),1793,дергва,CyrillTrans,bat,,,dergʷa,Phonemic
+3-586-501-1,botl1242,Botlikh (Miarso dialect),1185,цІуй,CyrillTrans,vulture,,,cʼuy,Phonemic
+3-585-501-1,botl1242,Botlikh (Miarso dialect),307,хъарчигъва,CyrillTrans,hawk,,,qarčiɣʷa,Phonemic
+3-584-501-1,botl1242,Botlikh (Miarso dialect),1905,цІуй,CyrillTrans,eagle,,,cʼuy,Phonemic
+3-582-501-1,botl1242,Botlikh (Miarso dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-501-1,botl1242,Botlikh (Miarso dialect),758,хІажилакълакъ,CyrillTrans,heron,,,ħažilaq’laq’,Phonemic
+3-581-501-1,botl1242,Botlikh (Miarso dialect),937,щикиб,CyrillTrans,bird,,,š̄ikib,Phonemic
+3-580-501-1,botl1242,Botlikh (Miarso dialect),539,щикибалъи бешен,CyrillTrans,nest,,,š̄ikibaɬi bešen,Phonemic
+3-570-501-1,botl1242,Botlikh (Miarso dialect),1360,ордек,CyrillTrans,duck,,,ordek,Phonemic
+3-560-501-1,botl1242,Botlikh (Miarso dialect),1187,хъаз,CyrillTrans,goose,,,qaz,Phonemic
+3-550-501-1,botl1242,Botlikh (Miarso dialect),1318,ээчулъи багьа,CyrillTrans,chicken,,,eʔečuɬi baha,Phonemic
+3-540-501-1,botl1242,Botlikh (Miarso dialect),1514,гьаркки ээчу,CyrillTrans,hen,,,hark̄i eʔeču,Phonemic
+3-520-501-1,botl1242,Botlikh (Miarso dialect),1511,кунтІа ээчу,CyrillTrans,"cock, rooster",,,kuntʼa eʔeču,Phonemic
+3-470-501-1,botl1242,Botlikh (Miarso dialect),890,гІурцен,CyrillTrans,mule,,,ʕurcen,Phonemic
+3-500-501-1,botl1242,Botlikh (Miarso dialect),265,гьанкъулъи ээчабалъи,CyrillTrans,fowl,,,hanqʼuɬi eʔečabaɬi,Phonemic
+3-460-501-1,botl1242,Botlikh (Miarso dialect),1862,гьамахи,CyrillTrans,"ass, donkey",,,hamaxi,Phonemic
+3-450-501-1,botl1242,Botlikh (Miarso dialect),1647,зукІкІу кІату,CyrillTrans,"foal, colt",,,"zuk̄ʼu kʼatu, tahi",Phonemic
+3-450-501-3,botl1242,Botlikh (Miarso dialect),1647,тагьи,CyrillTrans,"foal, colt",,,"zuk̄ʼu kʼatu, tahi",Phonemic
+3-440-501-1,botl1242,Botlikh (Miarso dialect),938,гьаркІкІи кІату,CyrillTrans,mare,,,"hark̄ʼi kʼatu, ʕala",Phonemic
+3-440-501-3,botl1242,Botlikh (Miarso dialect),938,гІала,CyrillTrans,mare,,,"hark̄ʼi kʼatu, ʕala",Phonemic
+3-420-501-1,botl1242,Botlikh (Miarso dialect),936,барти,CyrillTrans,stallion,,,barti,Phonemic
+3-410-501-1,botl1242,Botlikh (Miarso dialect),615,кІату,CyrillTrans,horse (equine),,,kʼatu,Phonemic
+3-380-501-1,botl1242,Botlikh (Miarso dialect),1972,цІекІир,CyrillTrans,kid,,,cʼekʼir,Phonemic
+3-370-501-1,botl1242,Botlikh (Miarso dialect),264,тІука,CyrillTrans,he-goat,,,tʼuka,Phonemic
+3-360-501-1,botl1242,Botlikh (Miarso dialect),1502,цциналъу,CyrillTrans,goat,,,c̄inaɬu,Phonemic
+3-350-501-1,botl1242,Botlikh (Miarso dialect),1337,болъон,CyrillTrans,pig,,,boɬon,Phonemic
+3-340-501-1,botl1242,Botlikh (Miarso dialect),1351,йешилуб болъон,CyrillTrans,sow (2),,,yešilub boɬon,Phonemic
+3-320-501-1,botl1242,Botlikh (Miarso dialect),1348,болъон,CyrillTrans,boar,,,boɬon,Phonemic
+3-290-501-1,botl1242,Botlikh (Miarso dialect),820,хьетІир,CyrillTrans,lamb,,,ƛ̄ʼetʼir,Phonemic
+3-280-501-1,botl1242,Botlikh (Miarso dialect),1345,рехулъи на,CyrillTrans,ewe,,,rexuɬi na,Phonemic
+3-260-501-1,botl1242,Botlikh (Miarso dialect),1344,рехулъи на,CyrillTrans,ram,,,rexuɬi na,Phonemic
+3-240-501-1,botl1242,Botlikh (Miarso dialect),1989,гьедир,CyrillTrans,calf,,,hedir,Phonemic
+3-230-501-1,botl1242,Botlikh (Miarso dialect),1007,зини,CyrillTrans,cow,,,zini,Phonemic
+3-220-501-1,botl1242,Botlikh (Miarso dialect),1169,унса,CyrillTrans,ox,,,unsa,Phonemic
+3-210-501-1,botl1242,Botlikh (Miarso dialect),1008,унса,CyrillTrans,bull,,,unsa,Phonemic
+3-200-501-1,botl1242,Botlikh (Miarso dialect),1153,чІегІер буцци,CyrillTrans,cattle (bovine),,,čʼeʕer buc̄i,Phonemic
+3-190-501-1,botl1242,Botlikh (Miarso dialect),851,кІателъи бекьи,CyrillTrans,"stable, stall",,,"kʼateɬi beƛ̄ʼi, ħarcin",Phonemic
+3-190-501-3,botl1242,Botlikh (Miarso dialect),851,хІарцин,CyrillTrans,"stable, stall",,,"kʼateɬi beƛ̄ʼi, ħarcin",Phonemic
+3-180-501-1,botl1242,Botlikh (Miarso dialect),263,харашу,CyrillTrans,herdsman,,,xarašu,Phonemic
+3-160-501-1,botl1242,Botlikh (Miarso dialect),649,гІалах,CyrillTrans,pasture,,,ʕalax,Phonemic
+3-150-501-1,botl1242,Botlikh (Miarso dialect),631,буцци,CyrillTrans,livestock,,,buc̄i,Phonemic
+3-130-501-1,botl1242,Botlikh (Miarso dialect),2262,йешилуб,CyrillTrans,female (adj),,,yešilub,Phonemic
+3-120-501-1,botl1242,Botlikh (Miarso dialect),2261,кунтІалуб,CyrillTrans,male (adj),,,kuntʼalub,Phonemic
+3-110-501-1,botl1242,Botlikh (Miarso dialect),619,хІайван-буцци,CyrillTrans,animal,,,ħaywan-buc̄i,Phonemic
+2-960-501-1,botl1242,Botlikh (Miarso dialect),817,гол,CyrillTrans,they,,,gol,Phonemic
+2-950-501-1,botl1242,Botlikh (Miarso dialect),1213,бишти,CyrillTrans,you (plural),,,bišti,Phonemic
+2-942-501-1,botl1242,Botlikh (Miarso dialect),1130,ищи,CyrillTrans,we (exclusive),,,iš̄i,Phonemic
+2-941-501-1,botl1242,Botlikh (Miarso dialect),1131,илІи,CyrillTrans,we (inclusive),,,iƛi,Phonemic
+2-940-501-1,botl1242,Botlikh (Miarso dialect),1212,илІи,CyrillTrans,we,,,iƛi,Phonemic
+2-930-501-1,botl1242,Botlikh (Miarso dialect),262,гов,CyrillTrans,he/she/it,,,"gow, gay, gob",Phonemic
+2-930-501-3,botl1242,Botlikh (Miarso dialect),262,гай,CyrillTrans,he/she/it,,,"gow, gay, gob",Phonemic
+2-930-501-5,botl1242,Botlikh (Miarso dialect),262,гоб,CyrillTrans,he/she/it,,,"gow, gay, gob",Phonemic
+2-920-501-1,botl1242,Botlikh (Miarso dialect),1215,мин,CyrillTrans,you (singular),,,min,Phonemic
+2-910-501-1,botl1242,Botlikh (Miarso dialect),1209,ден,CyrillTrans,I,,,den,Phonemic
+2-820-501-1,botl1242,Botlikh (Miarso dialect),194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-501-1,botl1242,Botlikh (Miarso dialect),1644,гІагарлъи,CyrillTrans,"relatives, kinsmen",,,ʕagarɬi,Phonemic
+2-770-501-1,botl1242,Botlikh (Miarso dialect),1981,къоролав,CyrillTrans,widower,,,qʼorolaw,Phonemic
+2-760-501-1,botl1242,Botlikh (Miarso dialect),1756,къоролай,CyrillTrans,widow,,,qʼorolay,Phonemic
+2-750-501-1,botl1242,Botlikh (Miarso dialect),1149,игьаду,CyrillTrans,orphan,,,ihadu makʼi,Phonemic
+2-740-501-1,botl1242,Botlikh (Miarso dialect),1058,игьаду йеши,CyrillTrans,stepdaughter,,,ihadu yeši,Phonemic
+2-730-501-1,botl1242,Botlikh (Miarso dialect),1059,игьаду ваша,CyrillTrans,stepson,,,ihadu waša,Phonemic
+2-720-501-1,botl1242,Botlikh (Miarso dialect),236,игьаду ила,CyrillTrans,stepmother,,,ihadu ila,Phonemic
+2-710-501-1,botl1242,Botlikh (Miarso dialect),237,игьаду има,CyrillTrans,stepfather,,,ihadu ima,Phonemic
+2-641-501-1,botl1242,Botlikh (Miarso dialect),2264,бахІарай,CyrillTrans,daughter-in-law (of a woman),,,baħaray,Phonemic
+2-640-501-1,botl1242,Botlikh (Miarso dialect),2265,нуса,CyrillTrans,daughter-in-law (of a man),,,"nusa, wašašuy hark̄i",Phonemic
+2-640-501-3,botl1242,Botlikh (Miarso dialect),2265,вашашуй гьаркки,CyrillTrans,daughter-in-law (of a man),,,"nusa, wašašuy hark̄i",Phonemic
+2-631-501-1,botl1242,Botlikh (Miarso dialect),2266,нуса,CyrillTrans,son-in-law (of a woman),,,nusa,Phonemic
+2-630-501-1,botl1242,Botlikh (Miarso dialect),2267,нуса,CyrillTrans,son-in-law (of a man),,,nusa,Phonemic
+2-621-501-1,botl1242,Botlikh (Miarso dialect),2257,илакьур,CyrillTrans,mother-in-law (of a woman),,,"ilaƛ̄ʼur, hark̄uɬi ila",Phonemic
+2-621-501-3,botl1242,Botlikh (Miarso dialect),2257,гьарккулъи ила,CyrillTrans,mother-in-law (of a woman),,,"ilaƛ̄ʼur, hark̄uɬi ila",Phonemic
+2-620-501-1,botl1242,Botlikh (Miarso dialect),2256,илакьур,CyrillTrans,mother-in-law (of a man),,,"ilaƛ̄ʼur, kuntʼaɬi ila",Phonemic
+2-620-501-3,botl1242,Botlikh (Miarso dialect),2256,кунтІалъи ила,CyrillTrans,mother-in-law (of a man),,,"ilaƛ̄ʼur, kuntʼaɬi ila",Phonemic
+2-611-501-1,botl1242,Botlikh (Miarso dialect),2254,имакьур,CyrillTrans,father-in-law (of a woman),,,"imaƛ̄ʼur, hark̄uɬi ima",Phonemic
+2-611-501-3,botl1242,Botlikh (Miarso dialect),2254,гьарккулъи има,CyrillTrans,father-in-law (of a woman),,,"imaƛ̄ʼur, hark̄uɬi ima",Phonemic
+2-610-501-1,botl1242,Botlikh (Miarso dialect),2255,имакьур,CyrillTrans,father-in-law (of a man),,,"imaƛ̄ʼur, kuntʼaɬi ima",Phonemic
+2-610-501-3,botl1242,Botlikh (Miarso dialect),2255,кунтІалъи има,CyrillTrans,father-in-law (of a man),,,"imaƛ̄ʼur, kuntʼaɬi ima",Phonemic
+2-570-501-1,botl1242,Botlikh (Miarso dialect),490,тухум,CyrillTrans,descendants,,,"makʼilul, makʼi",Phonemic
+2-570-501-3,botl1242,Botlikh (Miarso dialect),490,макІи,CyrillTrans,descendants,,,"makʼilul, makʼi",Phonemic
+2-560-501-1,botl1242,Botlikh (Miarso dialect),1669,умумул,CyrillTrans,ancestors,,,umumul,Phonemic
+2-550-501-1,botl1242,Botlikh (Miarso dialect),1643,ваццагІал,CyrillTrans,cousin,,,"wac̄aʕal, yac̄aʕal",Phonemic
+2-550-501-3,botl1242,Botlikh (Miarso dialect),1643,йаццагІал,CyrillTrans,cousin,,,"wac̄aʕal, yac̄aʕal",Phonemic
+2-540-501-1,botl1242,Botlikh (Miarso dialect),1642,ваццилъи йеши,CyrillTrans,niece,,,"wac̄iɬi yeši, yac̄iɬi yeši",Phonemic
+2-540-501-3,botl1242,Botlikh (Miarso dialect),1642,йаццилъи йеши,CyrillTrans,niece,,,"wac̄iɬi yeši, yac̄iɬi yeši",Phonemic
+2-530-501-1,botl1242,Botlikh (Miarso dialect),1063,ваццилъи ваша,CyrillTrans,nephew,,,"wac̄iɬi waša, yac̄iɬi waša",Phonemic
+2-530-501-3,botl1242,Botlikh (Miarso dialect),1063,йаццилъи ваша,CyrillTrans,nephew,,,"wac̄iɬi waša, yac̄iɬi waša",Phonemic
+2-522-501-1,botl1242,Botlikh (Miarso dialect),170,имуй (имулъи) йацци,CyrillTrans,father's sister,,,imuy (imuɬi) yac̄i,Phonemic
+2-520-501-1,botl1242,Botlikh (Miarso dialect),1272,йацци,CyrillTrans,aunt,,,"yac̄i, imuɬi, yac̄i iluɬi yac̄i",Phonemic
+2-520-501-3,botl1242,Botlikh (Miarso dialect),1272,имулъи йацци,CyrillTrans,aunt,,,"yac̄i, imuɬi, yac̄i iluɬi yac̄i",Phonemic
+2-520-501-5,botl1242,Botlikh (Miarso dialect),1272,илулъи йацци,CyrillTrans,aunt,,,"yac̄i, imuɬi, yac̄i iluɬi yac̄i",Phonemic
+2-521-501-1,botl1242,Botlikh (Miarso dialect),171,илулъи йацци,CyrillTrans,mother's sister,,,iluɬi yac̄i,Phonemic
+2-512-501-1,botl1242,Botlikh (Miarso dialect),1985,имулъи вацци,CyrillTrans,father's brother,,,imuɬi wac̄i,Phonemic
+2-511-501-1,botl1242,Botlikh (Miarso dialect),1984,илулъи вацци,CyrillTrans,mother's brother,,,iluɬi wac̄i,Phonemic
+2-510-501-1,botl1242,Botlikh (Miarso dialect),1327,вацци,CyrillTrans,uncle,,,"wac̄i, imuɬi wac̄I, iluɬi wac̄I",Phonemic
+2-510-501-3,botl1242,Botlikh (Miarso dialect),1327,имулъи вацци,CyrillTrans,uncle,,,"wac̄i, imuɬi wac̄I, iluɬi wac̄I",Phonemic
+2-510-501-5,botl1242,Botlikh (Miarso dialect),1327,илулъи вацци,CyrillTrans,uncle,,,"wac̄i, imuɬi wac̄I, iluɬi wac̄I",Phonemic
+2-480-501-1,botl1242,Botlikh (Miarso dialect),1618,вашашув ваша,CyrillTrans,grandson,,,"wašašuw waša, yešišuw waša",Phonemic
+2-480-501-3,botl1242,Botlikh (Miarso dialect),1618,йешишув ваша,CyrillTrans,grandson,,,"wašašuw waša, yešišuw waša",Phonemic
+2-490-501-1,botl1242,Botlikh (Miarso dialect),1619,вашашув йеши,CyrillTrans,granddaughter,,,"wašašuw yeši, yešišuy yeši",Phonemic
+2-490-501-3,botl1242,Botlikh (Miarso dialect),1619,йешишуй йеши,CyrillTrans,granddaughter,,,"wašašuw yeši, yešišuy yeši",Phonemic
+2-471-501-1,botl1242,Botlikh (Miarso dialect),907,йечІуха адам,CyrillTrans,old woman,,,"yečʼuxa adam, yeču babu",Phonemic
+2-471-501-3,botl1242,Botlikh (Miarso dialect),907,йечу бабу,CyrillTrans,old woman,,,"yečʼuxa adam, yeču babu",Phonemic
+2-470-501-1,botl1242,Botlikh (Miarso dialect),1496,йечІу бабу,CyrillTrans,grandmother,,,yečʼu babu,Phonemic
+2-461-501-1,botl1242,Botlikh (Miarso dialect),406,вечІуха адам,CyrillTrans,old man,,,wečʼuxa adam,Phonemic
+2-460-501-1,botl1242,Botlikh (Miarso dialect),1383,вочІу дади,CyrillTrans,grandfather,,,wočʼu dadi,Phonemic
+2-458-501-1,botl1242,Botlikh (Miarso dialect),1005,кІечІабдал махІил,CyrillTrans,twins,,,kʼečʼabdal makʼil,Phonemic
+2-456-501-1,botl1242,Botlikh (Miarso dialect),1640,ваццила,CyrillTrans,sibling,,,"wac̄ila, yac̄ila",Phonemic
+2-456-501-3,botl1242,Botlikh (Miarso dialect),1640,йаццила,CyrillTrans,sibling,,,"wac̄ila, yac̄ila",Phonemic
+2-455-501-1,botl1242,Botlikh (Miarso dialect),1761,зукІкІугъай йацци,CyrillTrans,younger sister,,,zuk̄ʼuɣay yac̄i,Phonemic
+2-454-501-1,botl1242,Botlikh (Miarso dialect),1758,йечІуха йацци,CyrillTrans,older sister,,,yečʼuxa yac̄i,Phonemic
+2-450-501-1,botl1242,Botlikh (Miarso dialect),1263,йацци,CyrillTrans,sister,,,yac̄i,Phonemic
+2-445-501-1,botl1242,Botlikh (Miarso dialect),1760,зукІкІу вацци,CyrillTrans,younger brother,,,zuk̄ʼu wac̄i,Phonemic
+2-444-501-1,botl1242,Botlikh (Miarso dialect),1759,вечІуха вацци,CyrillTrans,older brother,,,wečʼuxa wac̄i,Phonemic
+2-440-501-1,botl1242,Botlikh (Miarso dialect),1262,вацци,CyrillTrans,brother,,,wac̄i,Phonemic
+2-430-501-1,botl1242,Botlikh (Miarso dialect),1801,макІил,CyrillTrans,offspring (son or daughter),,,makʼil,Phonemic
+2-420-501-1,botl1242,Botlikh (Miarso dialect),1357,йеши,CyrillTrans,daughter,,,yeši,Phonemic
+2-410-501-1,botl1242,Botlikh (Miarso dialect),1620,ваша,CyrillTrans,son,,,waša,Phonemic
+2-390-501-1,botl1242,Botlikh (Miarso dialect),426,кунтІуй йаъай,CyrillTrans,married woman,,,kuntʼuy yaʔay,Phonemic
+2-380-501-1,botl1242,Botlikh (Miarso dialect),424,гьаркки инчав,CyrillTrans,married man,,,hark̄i inčaw,Phonemic
+2-370-501-1,botl1242,Botlikh (Miarso dialect),505,имахандул,CyrillTrans,parents,,,imaxandul,Phonemic
+2-360-501-1,botl1242,Botlikh (Miarso dialect),1216,ила,CyrillTrans,mother,,,"ila, babu",Phonemic
+2-360-501-3,botl1242,Botlikh (Miarso dialect),1216,бабу,CyrillTrans,mother,,,"ila, babu",Phonemic
+2-350-501-1,botl1242,Botlikh (Miarso dialect),1217,има,CyrillTrans,father,,,"ima, dadi",Phonemic
+2-350-501-3,botl1242,Botlikh (Miarso dialect),1217,дади,CyrillTrans,father,,,"ima, dadi",Phonemic
+2-341-501-1,botl1242,Botlikh (Miarso dialect),1134,батІалъи,CyrillTrans,divorce,,,batʼaɬi,Phonemic
+2-340-501-1,botl1242,Botlikh (Miarso dialect),1259,бертин,CyrillTrans,"marriage, wedding",,,"bertin, rehin",Phonemic
+2-340-501-3,botl1242,Botlikh (Miarso dialect),1259,регьин,CyrillTrans,"marriage, wedding",,,"bertin, rehin",Phonemic
+2-330-501-1,botl1242,Botlikh (Miarso dialect),203,гьаркки чи,CyrillTrans,marry,,,"hark̄i či, kuntʼuy yai",Phonemic
+2-330-501-3,botl1242,Botlikh (Miarso dialect),203,кунтІуй йаи,CyrillTrans,marry,,,"hark̄i či, kuntʼuy yai",Phonemic
+2-320-501-1,botl1242,Botlikh (Miarso dialect),1199,гьаркки,CyrillTrans,wife,,,hark̄i,Phonemic
+2-310-501-1,botl1242,Botlikh (Miarso dialect),1200,кунтІа,CyrillTrans,husband,,,kuntʼa,Phonemic
+2-280-501-1,botl1242,Botlikh (Miarso dialect),1289,зукку макІи,CyrillTrans,"infant, baby",,,zuk̄u makʼi,Phonemic
+2-270-501-1,botl1242,Botlikh (Miarso dialect),1304,макІи,CyrillTrans,child,,,makʼi,Phonemic
+2-261-501-1,botl1242,Botlikh (Miarso dialect),77,гІолохъанай йеши,CyrillTrans,young woman (adolescent),,,ʕoloqanay yeši,Phonemic
+2-260-501-1,botl1242,Botlikh (Miarso dialect),1646,йеши,CyrillTrans,girl,,,yeši,Phonemic
+2-251-501-1,botl1242,Botlikh (Miarso dialect),76,гІолохъанов адам,CyrillTrans,young man (adolescent),,,ʕoloqanow adam,Phonemic
+2-250-501-1,botl1242,Botlikh (Miarso dialect),1366,ваша,CyrillTrans,boy,,,waša,Phonemic
+2-240-501-1,botl1242,Botlikh (Miarso dialect),1551,гьаркки,CyrillTrans,female,,,hark̄i,Phonemic
+2-230-501-1,botl1242,Botlikh (Miarso dialect),1553,кунтІа,CyrillTrans,male,,,kuntʼa,Phonemic
+2-220-501-1,botl1242,Botlikh (Miarso dialect),962,йешикІва,CyrillTrans,woman,,,yešikʼʷa,Phonemic
+2-210-501-1,botl1242,Botlikh (Miarso dialect),1554,кунтІекІва,CyrillTrans,man (vs. woman),,,kuntʼekʼʷa,Phonemic
+2-100-501-1,botl1242,Botlikh (Miarso dialect),683,адам,CyrillTrans,"person, human being",,,adam,Phonemic
+1-890-501-1,botl1242,Botlikh (Miarso dialect),1188,гьаба,CyrillTrans,charcoal,,,haba,Phonemic
+1-880-501-1,botl1242,Botlikh (Miarso dialect),10,гьуди,CyrillTrans,firewood,,,hudi,Phonemic
+1-870-501-1,botl1242,Botlikh (Miarso dialect),1133,спичка,CyrillTrans,match (noun),,,spička,Phonemic
+1-861-501-1,botl1242,Botlikh (Miarso dialect),127,мищай,CyrillTrans,extinguish,,,miš̄ay,Phonemic
+1-860-501-1,botl1242,Botlikh (Miarso dialect),737,риквай,CyrillTrans,"light, kindle, ignite",,,rikʷay,Phonemic
+1-852-501-1,botl1242,Botlikh (Miarso dialect),1428,риквай,CyrillTrans,burn (vb intrans),,,rikʷay,Phonemic
+1-851-501-1,botl1242,Botlikh (Miarso dialect),141,риквай,CyrillTrans,burn (vb trans),,,"rikʷay, cʼati",Phonemic
+1-851-501-3,botl1242,Botlikh (Miarso dialect),141,цІати,CyrillTrans,burn (vb trans),,,"rikʷay, cʼati",Phonemic
+1-841-501-1,botl1242,Botlikh (Miarso dialect),67,терет,CyrillTrans,embers,,,teret,Phonemic
+1-840-501-1,botl1242,Botlikh (Miarso dialect),646,кье,CyrillTrans,ashes,,,ƛ̄ʼe,Phonemic
+1-830-501-1,botl1242,Botlikh (Miarso dialect),778,ццури,CyrillTrans,smoke (noun),,,c̄uri,Phonemic
+1-820-501-1,botl1242,Botlikh (Miarso dialect),889,цІайлъи мици,CyrillTrans,flame (noun),,,cʼayɬi mici,Phonemic
+1-810-501-1,botl1242,Botlikh (Miarso dialect),221,цІай,CyrillTrans,fire,,,cʼay,Phonemic
+1-780-501-1,botl1242,Botlikh (Miarso dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-501-1,botl1242,Botlikh (Miarso dialect),617,зари къарду,CyrillTrans,ice,,,zari qʼardu,Phonemic
+1-760-501-1,botl1242,Botlikh (Miarso dialect),784,анзи,CyrillTrans,snow (noun),,,anzi,Phonemic
+1-750-501-1,botl1242,Botlikh (Miarso dialect),658,цІцІай,CyrillTrans,rain (noun),,,c̄ʼay,Phonemic
+1-740-501-1,botl1242,Botlikh (Miarso dialect),249,гьира,CyrillTrans,fog,,,hira,Phonemic
+1-720-501-1,botl1242,Botlikh (Miarso dialect),960,мучу,CyrillTrans,wind,,,muču,Phonemic
+1-730-501-1,botl1242,Botlikh (Miarso dialect),1489,гьира,CyrillTrans,cloud,,,hira,Phonemic
+1-710-501-1,botl1242,Botlikh (Miarso dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-501-1,botl1242,Botlikh (Miarso dialect),1977,шиба,CyrillTrans,dew,,,šiba,Phonemic
+1-630-501-1,botl1242,Botlikh (Miarso dialect),1388,анчу,CyrillTrans,"shade, shadow",,,anču,Phonemic
+1-620-501-1,botl1242,Botlikh (Miarso dialect),11,боцур лахІтІу,CyrillTrans,darkness,,,bocur laħtʼu,Phonemic
+1-610-501-1,botl1242,Botlikh (Miarso dialect),630,кванар,CyrillTrans,light (noun),,,kʷanar,Phonemic
+1-590-501-1,botl1242,Botlikh (Miarso dialect),1733,Аллагьашуб харчашу,CyrillTrans,rainbow,,,Allahašub xarčašu,Phonemic
+1-580-501-1,botl1242,Botlikh (Miarso dialect),858,мучу,CyrillTrans,storm,,,"muču, rehaɬi baɣarɣi",Phonemic
+1-580-501-3,botl1242,Botlikh (Miarso dialect),858,регьалъи багъаргъи,CyrillTrans,storm,,,"muču, rehaɬi baɣarɣi",Phonemic
+1-560-501-1,botl1242,Botlikh (Miarso dialect),1150,дунйал гъугъаду,CyrillTrans,thunder,,,dunyal ɣuɣadu,Phonemic
+1-570-501-1,botl1242,Botlikh (Miarso dialect),2007,пири,CyrillTrans,lightning (as striking),,,piri,Phonemic
+1-550-501-1,botl1242,Botlikh (Miarso dialect),1654,пири,CyrillTrans,lightning,,,piri,Phonemic
+1-540-501-1,botl1242,Botlikh (Miarso dialect),1430,цІай,CyrillTrans,star,,,cʼay,Phonemic
+1-530-501-1,botl1242,Botlikh (Miarso dialect),1313,пурцу,CyrillTrans,moon,,,purcu,Phonemic
+1-520-501-1,botl1242,Botlikh (Miarso dialect),1343,мигьи,CyrillTrans,sun,,,mihi,Phonemic
+1-510-501-1,botl1242,Botlikh (Miarso dialect),1732,решин,CyrillTrans,sky,,,rešin,Phonemic
+1-450-501-1,botl1242,Botlikh (Miarso dialect),6,дунйал гьугьаду,CyrillTrans,earthquake,,,dunyal huhadu,Phonemic
+1-440-501-1,botl1242,Botlikh (Miarso dialect),2125,гьинца,CyrillTrans,"stone, rock",,,"hinca, ƛ̄ʼudi",Phonemic
+1-440-501-3,botl1242,Botlikh (Miarso dialect),2125,кьуди,CyrillTrans,"stone, rock",,,"hinca, ƛ̄ʼudi",Phonemic
+1-430-501-1,botl1242,Botlikh (Miarso dialect),1803,гьуди,CyrillTrans,wood,,,hudi,Phonemic
+1-420-501-1,botl1242,Botlikh (Miarso dialect),906,руша,CyrillTrans,tree (cf 08.600),,,ruša,Phonemic
+1-410-501-1,botl1242,Botlikh (Miarso dialect),420,рухьу,CyrillTrans,"woods, forest",,,rux̌u,Phonemic
+1-390-501-1,botl1242,Botlikh (Miarso dialect),943,лъени буккирлъи,CyrillTrans,waterfall,,,"ɬeni buk̄irɬi, hircʼir",Phonemic
+1-390-501-3,botl1242,Botlikh (Miarso dialect),943,гьирцІир,CyrillTrans,waterfall,,,"ɬeni buk̄irɬi, hircʼir",Phonemic
+1-380-501-1,botl1242,Botlikh (Miarso dialect),1145,хьуци,CyrillTrans,swamp,,,"x̌uci, cʼintur",Phonemic
+1-380-501-3,botl1242,Botlikh (Miarso dialect),1145,цІинтур,CyrillTrans,swamp,,,"x̌uci, cʼintur",Phonemic
+1-370-501-1,botl1242,Botlikh (Miarso dialect),2144,инци,CyrillTrans,"spring, well",,,"inci, incʼi bay",Phonemic
+1-370-501-3,botl1242,Botlikh (Miarso dialect),2144,инцІи бай,CyrillTrans,"spring, well",,,"inci, incʼi bay",Phonemic
+1-362-501-1,botl1242,Botlikh (Miarso dialect),1982,хархун,CyrillTrans,whirlpool,,,xarxun,Phonemic
+1-360-501-1,botl1242,Botlikh (Miarso dialect),666,инса,CyrillTrans,"river, stream, brook",,,"insa, inxi, zuk̄u ɬeni",Phonemic
+1-360-501-3,botl1242,Botlikh (Miarso dialect),666,инхи,CyrillTrans,"river, stream, brook",,,"insa, inxi, zuk̄u ɬeni",Phonemic
+1-360-501-5,botl1242,Botlikh (Miarso dialect),666,зукку лъени,CyrillTrans,"river, stream, brook",,,"insa, inxi, zuk̄u ɬeni",Phonemic
+1-354-501-1,botl1242,Botlikh (Miarso dialect),613,регьалъи лъени гьирцІирла,CyrillTrans,hightide,,,rehaɬi ɬeni hircʼirla,Phonemic
+1-353-501-1,botl1242,Botlikh (Miarso dialect),1026,гьикьа лъени маирла,CyrillTrans,lowtide,,,hiƛ̄ʼa ɬeni mairla,Phonemic
+1-352-501-1,botl1242,Botlikh (Miarso dialect),891,регьалъи лъени гьирцІирла,CyrillTrans,tide,,,"rehaɬi ɬeni hircʼirla, hiƛ̄ʼa ɬeni mairla",Phonemic
+1-352-501-3,botl1242,Botlikh (Miarso dialect),891,гьикьа лъени маирла,CyrillTrans,tide,,,"rehaɬi ɬeni hircʼirla, hiƛ̄ʼa ɬeni mairla",Phonemic
+1-350-501-1,botl1242,Botlikh (Miarso dialect),978,карачил,CyrillTrans,wave,,,karačil,Phonemic
+1-341-501-1,botl1242,Botlikh (Miarso dialect),623,регьалъи къватІа,CyrillTrans,lagoon,,,rehaɬi qʼʷatʼa,Phonemic
+1-340-501-1,botl1242,Botlikh (Miarso dialect),663,лъени бигъаб муса,CyrillTrans,"gulf, bay",,,ɬeni biɣab musa,Phonemic
+1-330-501-1,botl1242,Botlikh (Miarso dialect),624,игьур,CyrillTrans,lake,,,ihur,Phonemic
+1-329-501-1,botl1242,Botlikh (Miarso dialect),645,регьа,CyrillTrans,ocean,,,reha,Phonemic
+1-324-501-1,botl1242,Botlikh (Miarso dialect),1768,тІали,CyrillTrans,foam,,,tʼali,Phonemic
+1-323-501-1,botl1242,Botlikh (Miarso dialect),259,ххеххи,CyrillTrans,rough (of sea),,,x̄ex̄i,Phonemic
+1-320-501-1,botl1242,Botlikh (Miarso dialect),1474,регьа,CyrillTrans,sea,,,reha,Phonemic
+1-322-501-1,botl1242,Botlikh (Miarso dialect),258,гьицІаха бещдир,CyrillTrans,calm (of sea),,,hicʼaxa beš̄dir,Phonemic
+1-310-501-1,botl1242,Botlikh (Miarso dialect),948,лъени,CyrillTrans,water,,,ɬeni,Phonemic
+1-280-501-1,botl1242,Botlikh (Miarso dialect),1155,къватІа,CyrillTrans,cave,,,qʼʷatʼa,Phonemic
+1-270-501-1,botl1242,Botlikh (Miarso dialect),113,инсалъи бай,CyrillTrans,shore,,,insaɬi bay,Phonemic
+1-260-501-1,botl1242,Botlikh (Miarso dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-501-1,botl1242,Botlikh (Miarso dialect),622,гьала лъенилъи,CyrillTrans,island,,,hala ɬeniɬi,Phonemic
+1-240-501-1,botl1242,Botlikh (Miarso dialect),921,байдан,CyrillTrans,valley,,,"baydan,ʕalax",Phonemic
+1-240-501-3,botl1242,Botlikh (Miarso dialect),921,гІалах,CyrillTrans,valley,,,"baydan,ʕalax",Phonemic
+1-230-501-1,botl1242,Botlikh (Miarso dialect),652,байдан,CyrillTrans,"plain, field",,,"baydan, xuri",Phonemic
+1-230-501-3,botl1242,Botlikh (Miarso dialect),652,хури,CyrillTrans,"plain, field",,,"baydan, xuri",Phonemic
+1-222-501-1,botl1242,Botlikh (Miarso dialect),618,къури,CyrillTrans,"cliff, precipice",,,"qʼuri, ƛ̄ʼudeɬi bay, k̄ʼabdir",Phonemic
+1-222-501-3,botl1242,Botlikh (Miarso dialect),618,кьуделъи бай,CyrillTrans,"cliff, precipice",,,"qʼuri, ƛ̄ʼudeɬi bay, k̄ʼabdir",Phonemic
+1-222-501-5,botl1242,Botlikh (Miarso dialect),618,кІкІабдир,CyrillTrans,"cliff, precipice",,,"qʼuri, ƛ̄ʼudeɬi bay, k̄ʼabdir",Phonemic
+1-220-501-1,botl1242,Botlikh (Miarso dialect),2118,бели,CyrillTrans,"mountain, hill",,,"beli, reqʼa",Phonemic
+1-220-501-3,botl1242,Botlikh (Miarso dialect),2118,рекъа,CyrillTrans,"mountain, hill",,,"beli, reqʼa",Phonemic
+1-214-501-1,botl1242,Botlikh (Miarso dialect),640,биччи,CyrillTrans,mud,,,"bič̄i, qupir",Phonemic
+1-214-501-3,botl1242,Botlikh (Miarso dialect),640,хъупир,CyrillTrans,mud,,,"bič̄i, qupir",Phonemic
+1-215-501-1,botl1242,Botlikh (Miarso dialect),671,сира,CyrillTrans,sand,,,sira,Phonemic
+1-213-501-1,botl1242,Botlikh (Miarso dialect),2,дада,CyrillTrans,dust,,,dada,Phonemic
+1-212-501-1,botl1242,Botlikh (Miarso dialect),1228,унщи,CyrillTrans,"earth=ground, soil",,,unš̄i,Phonemic
+1-210-501-1,botl1242,Botlikh (Miarso dialect),626,унщи,CyrillTrans,"earth, land",,,"unš̄i, pačaliq, ulka",Phonemic
+1-210-501-3,botl1242,Botlikh (Miarso dialect),626,пачалихъ,CyrillTrans,"earth, land",,,"unš̄i, pačaliq, ulka",Phonemic
+1-210-501-5,botl1242,Botlikh (Miarso dialect),626,улка,CyrillTrans,"earth, land",,,"unš̄i, pačaliq, ulka",Phonemic
+1-100-501-1,botl1242,Botlikh (Miarso dialect),965,дунял,CyrillTrans,world,,,dunyal,Phonemic
+14-330-501-1,botl1242,Botlikh (Miarso dialect),1544,инда букІалала,CyrillTrans,sometimes,,,inda bukʼalala,Phonemic
+14-331-501-1,botl1242,Botlikh (Miarso dialect),703,бекъада,CyrillTrans,soon,,,beqʼada,Phonemic
+14-332-501-1,botl1242,Botlikh (Miarso dialect),418,кьонирахъихоб,CyrillTrans,long-time (for a),,,ƛ̄ʼoniraqixob,Phonemic
+14-340-501-1,botl1242,Botlikh (Miarso dialect),1656,индакІвала,CyrillTrans,never,,,indakʼʷala,Phonemic
+14-350-501-1,botl1242,Botlikh (Miarso dialect),204,гьенала,CyrillTrans,again,,,"henala, cʼidasan",Phonemic
+14-350-501-3,botl1242,Botlikh (Miarso dialect),204,цІидасан,CyrillTrans,again,,,"henala, cʼidasan",Phonemic
+14-410-501-1,botl1242,Botlikh (Miarso dialect),1225,зив,CyrillTrans,day,,,ziw,Phonemic
+14-420-501-1,botl1242,Botlikh (Miarso dialect),1233,регьа,CyrillTrans,night,,,reha,Phonemic
+14-430-501-1,botl1242,Botlikh (Miarso dialect),729,хъахІлъи,CyrillTrans,dawn,,,qaħɬi,Phonemic
+14-440-501-1,botl1242,Botlikh (Miarso dialect),1339,хакьусу,CyrillTrans,morning,,,xaƛ̄ʼusu,Phonemic
+14-450-501-1,botl1242,Botlikh (Miarso dialect),12,гьеле,CyrillTrans,"noon, midday",,,hele,Phonemic
+14-451-501-1,botl1242,Botlikh (Miarso dialect),1807,милъарахи,CyrillTrans,afternoon,,,miɬaraxi,Phonemic
+14-460-501-1,botl1242,Botlikh (Miarso dialect),1629,хадал,CyrillTrans,evening,,,xadal,Phonemic
+14-470-501-1,botl1242,Botlikh (Miarso dialect),1283,эгьел,CyrillTrans,today,,,ehel,Phonemic
+14-480-501-1,botl1242,Botlikh (Miarso dialect),1329,ахара,CyrillTrans,tomorrow,,,axara,Phonemic
+14-481-501-1,botl1242,Botlikh (Miarso dialect),1179,сав,CyrillTrans,day-after-tomorrow,,,saw,Phonemic
+14-490-501-1,botl1242,Botlikh (Miarso dialect),1174,суни,CyrillTrans,yesterday,,,suni,Phonemic
+14-491-501-1,botl1242,Botlikh (Miarso dialect),1180,сунарсе,CyrillTrans,day-before-yesterday,,,sunarse,Phonemic
+14-510-501-1,botl1242,Botlikh (Miarso dialect),1353,сагІат,CyrillTrans,hour,,,saʕat,Phonemic
+14-530-501-1,botl1242,Botlikh (Miarso dialect),1323,сагІат,CyrillTrans,"clock, timepiece",,,saʕat,Phonemic
+14-610-501-1,botl1242,Botlikh (Miarso dialect),1469,гъакьу,CyrillTrans,week,,,ɣaƛ̄ʼu,Phonemic
+14-620-501-1,botl1242,Botlikh (Miarso dialect),1699,базарзив,CyrillTrans,Sunday,,,bazarziw,Phonemic
+14-630-501-1,botl1242,Botlikh (Miarso dialect),1697,итнизив,CyrillTrans,Monday,,,itniziw,Phonemic
+14-640-501-1,botl1242,Botlikh (Miarso dialect),1695,талатзив,CyrillTrans,Tuesday,,,talatziw,Phonemic
+14-650-501-1,botl1242,Botlikh (Miarso dialect),1694,арбагІзив,CyrillTrans,Wednesday,,,arbaʕziw,Phonemic
+14-660-501-1,botl1242,Botlikh (Miarso dialect),1693,хамиззив,CyrillTrans,Thursday,,,xamizziw,Phonemic
+14-670-501-1,botl1242,Botlikh (Miarso dialect),1692,рузманзив,CyrillTrans,Friday,,,ruzmanziw,Phonemic
+14-680-501-1,botl1242,Botlikh (Miarso dialect),1700,шаматзив,CyrillTrans,Saturday,,,šamatziw,Phonemic
+14-710-501-1,botl1242,Botlikh (Miarso dialect),1370,пурцІу,CyrillTrans,month,,,purcʼu,Phonemic
+14-730-501-1,botl1242,Botlikh (Miarso dialect),1226,реши,CyrillTrans,year,,,reši,Phonemic
+14-740-501-1,botl1242,Botlikh (Miarso dialect),1471,ццибуру,CyrillTrans,winter,,,c̄iburu,Phonemic
+14-750-501-1,botl1242,Botlikh (Miarso dialect),1537,ребу,CyrillTrans,spring,,,rebu,Phonemic
+14-760-501-1,botl1242,Botlikh (Miarso dialect),1342,къену,CyrillTrans,summer,,,qʼenu,Phonemic
+14-770-501-1,botl1242,Botlikh (Miarso dialect),1276,гьина,CyrillTrans,autumn,,,hina,Phonemic
+14-780-501-1,botl1242,Botlikh (Miarso dialect),691,решилъи заман,CyrillTrans,season,,,rešiɬi zaman,Phonemic
+15-210-501-1,botl1242,Botlikh (Miarso dialect),1587,шай ккванду,CyrillTrans,smell (vb intrans),,,šay k̄ʷandu,Phonemic
+15-212-501-1,botl1242,Botlikh (Miarso dialect),375,шунди,CyrillTrans,sniff,,,šundi,Phonemic
+15-220-501-1,botl1242,Botlikh (Miarso dialect),1586,шунди,CyrillTrans,smell (vb trans),,,šundi,Phonemic
+15-250-501-1,botl1242,Botlikh (Miarso dialect),376,мицца шай,CyrillTrans,"fragrant, good smelling",,,mic̄a šay,Phonemic
+15-260-501-1,botl1242,Botlikh (Miarso dialect),42,сураб шай,CyrillTrans,"stinking, bad smelling",,,surab šay,Phonemic
+15-310-501-1,botl1242,Botlikh (Miarso dialect),21,тІагІам,CyrillTrans,taste,,,tʼaʕam,Phonemic
+15-350-501-1,botl1242,Botlikh (Miarso dialect),717,мицца,CyrillTrans,sweet,,,mic̄a,Phonemic
+15-360-501-1,botl1242,Botlikh (Miarso dialect),1091,чІунгъа,CyrillTrans,salty,,,čʼunɣa,Phonemic
+15-370-501-1,botl1242,Botlikh (Miarso dialect),887,букьа,CyrillTrans,bitter,,,buƛ̄ʼa,Phonemic
+15-380-501-1,botl1242,Botlikh (Miarso dialect),1906,цІикІу,CyrillTrans,"acid, sour",,,cʼikʼu,Phonemic
+15-390-501-1,botl1242,Botlikh (Miarso dialect),70,чІунгъацуб,CyrillTrans,brackish,,,čʼunɣacub,Phonemic
+15-410-501-1,botl1242,Botlikh (Miarso dialect),1408,агьа,CyrillTrans,hear,,,aha,Phonemic
+15-420-501-1,botl1242,Botlikh (Miarso dialect),1608,гьантІукІа рикки,CyrillTrans,listen,,,hantʼukʼa rik̄i,Phonemic
+15-440-501-1,botl1242,Botlikh (Miarso dialect),1811,гьарчІу,CyrillTrans,"sound, noise",,,"harčʼu, quy",Phonemic
+15-440-501-3,botl1242,Botlikh (Miarso dialect),1811,хъуй,CyrillTrans,"sound, noise",,,"harčʼu, quy",Phonemic
+15-450-501-1,botl1242,Botlikh (Miarso dialect),377,къилидар,CyrillTrans,loud,,,qʼilidar,Phonemic
+15-460-501-1,botl1242,Botlikh (Miarso dialect),1314,гьарчІахи бештаб,CyrillTrans,"quiet, silence",,,harčʼaxi beštab,Phonemic
+15-510-501-1,botl1242,Botlikh (Miarso dialect),1409,гьагъи,CyrillTrans,see,,,haɣi,Phonemic
+15-520-501-1,botl1242,Botlikh (Miarso dialect),1819,хъиди,CyrillTrans,"look, look at",,,qidi,Phonemic
+15-550-501-1,botl1242,Botlikh (Miarso dialect),1039,гьагъай,CyrillTrans,show,,,haɣay,Phonemic
+15-560-501-1,botl1242,Botlikh (Miarso dialect),708,кванар гьагъата,CyrillTrans,shine,,,kʷanar haɣata,Phonemic
+15-570-501-1,botl1242,Botlikh (Miarso dialect),679,гвангъаб,CyrillTrans,bright,,,gʷanɣab,Phonemic
+15-610-501-1,botl1242,Botlikh (Miarso dialect),1613,кьери,CyrillTrans,color,,,ƛ̄ʼeri,Phonemic
+15-620-501-1,botl1242,Botlikh (Miarso dialect),250,гвангъаб,CyrillTrans,light (in color),,,gʷanɣab,Phonemic
+15-630-501-1,botl1242,Botlikh (Miarso dialect),706,мишаб-бечІер,CyrillTrans,dark (in color),,,mišab-bečʼer,Phonemic
+15-640-501-1,botl1242,Botlikh (Miarso dialect),1335,гьацІаха,CyrillTrans,white,,,hacʼaxa,Phonemic
+15-650-501-1,botl1242,Botlikh (Miarso dialect),163,бечІер,CyrillTrans,black,,,bečʼer,Phonemic
+15-660-501-1,botl1242,Botlikh (Miarso dialect),156,ирха,CyrillTrans,red,,,irxa,Phonemic
+15-670-501-1,botl1242,Botlikh (Miarso dialect),837,хъайлъи,CyrillTrans,blue,,,qayɬi,Phonemic
+15-680-501-1,botl1242,Botlikh (Miarso dialect),1425,ачу,CyrillTrans,green,,,aču,Phonemic
+15-690-501-1,botl1242,Botlikh (Miarso dialect),1424,чакку,CyrillTrans,yellow,,,čak̄u,Phonemic
+15-710-501-1,botl1242,Botlikh (Miarso dialect),1892,реа гъвандай,CyrillTrans,touch,,,rea ɣʷanday,Phonemic
+15-712-501-1,botl1242,Botlikh (Miarso dialect),378,цимди,CyrillTrans,pinch,,,"cimdi, curdu",Phonemic
+15-712-501-3,botl1242,Botlikh (Miarso dialect),378,цурду,CyrillTrans,pinch,,,"cimdi, curdu",Phonemic
+15-720-501-1,botl1242,Botlikh (Miarso dialect),1079,бичІир,CyrillTrans,feel,,,bičʼir,Phonemic
+15-740-501-1,botl1242,Botlikh (Miarso dialect),1884,кьаптІи,CyrillTrans,hard,,,ƛ̄ʼaptʼi,Phonemic
+15-750-501-1,botl1242,Botlikh (Miarso dialect),1856,гьуна,CyrillTrans,soft,,,huna,Phonemic
+15-760-501-1,botl1242,Botlikh (Miarso dialect),1923,хъачІу,CyrillTrans,rough,,,qačʼu,Phonemic
+15-770-501-1,botl1242,Botlikh (Miarso dialect),1234,цІвакадаб,CyrillTrans,smooth,,,cʼʷakadab,Phonemic
+15-780-501-1,botl1242,Botlikh (Miarso dialect),1396,багьихаб,CyrillTrans,sharp,,,bahixab,Phonemic
+15-790-501-1,botl1242,Botlikh (Miarso dialect),379,багьихичІаб,CyrillTrans,"blunt, dull",,,bahixičʼab,Phonemic
+15-810-501-1,botl1242,Botlikh (Miarso dialect),1210,гьакІуба,CyrillTrans,heavy,,,hakʼuba,Phonemic
+15-820-501-1,botl1242,Botlikh (Miarso dialect),1052,напа,CyrillTrans,light (in weight),,,papa,Phonemic
+15-830-501-1,botl1242,Botlikh (Miarso dialect),1726,аржа,CyrillTrans,"wet, damp",,,arža,Phonemic
+15-840-501-1,botl1242,Botlikh (Miarso dialect),1398,бехъу,CyrillTrans,dry,,,bequ,Phonemic
+15-850-501-1,botl1242,Botlikh (Miarso dialect),1286,цІата,CyrillTrans,hot,,,cʼata,Phonemic
+15-851-501-1,botl1242,Botlikh (Miarso dialect),1232,анса,CyrillTrans,warm,,,ansa,Phonemic
+15-860-501-1,botl1242,Botlikh (Miarso dialect),1287,сан,CyrillTrans,cold,,,san,Phonemic
+15-870-501-1,botl1242,Botlikh (Miarso dialect),704,цІинкІи,CyrillTrans,clean,,,cʼinkʼi,Phonemic
+15-880-501-1,botl1242,Botlikh (Miarso dialect),1230,хъупи,CyrillTrans,"dirty, soiled",,,qupi,Phonemic
+15-890-501-1,botl1242,Botlikh (Miarso dialect),380,гьуна къаркъатІаб,CyrillTrans,wrinkled,,,huna qʼarqʼatʼab,Phonemic
+16-110-501-1,botl1242,Botlikh (Miarso dialect),53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-501-1,botl1242,Botlikh (Miarso dialect),1572,хъидигьай,CyrillTrans,"surprised, astonished",,,qidihay,Phonemic
+16-180-501-1,botl1242,Botlikh (Miarso dialect),720,микъибитІир,CyrillTrans,"good fortune, luck",,,"miqʼibitʼir, taliħ",Phonemic
+16-180-501-3,botl1242,Botlikh (Miarso dialect),720,талихІ,CyrillTrans,"good fortune, luck",,,"miqʼibitʼir, taliħ",Phonemic
+16-190-501-1,botl1242,Botlikh (Miarso dialect),56,микъи-битІичІа,CyrillTrans,"misfortune, bad luck",,,"miqʼi-bitʼičʼa, taliħ gučʼow",Phonemic
+16-190-501-3,botl1242,Botlikh (Miarso dialect),56,талихІ гучІов,CyrillTrans,"misfortune, bad luck",,,"miqʼi-bitʼičʼa, taliħ gučʼow",Phonemic
+16-230-501-1,botl1242,Botlikh (Miarso dialect),1495,вецциху,CyrillTrans,"joyful, glad, happy",,,"wec̄ixu, wecixir",Phonemic
+16-230-501-3,botl1242,Botlikh (Miarso dialect),1495,веццихир,CyrillTrans,"joyful, glad, happy",,,"wec̄ixu, wecixir",Phonemic
+16-250-501-1,botl1242,Botlikh (Miarso dialect),1355,веккалъи,CyrillTrans,laugh,,,wek̄aɬi,Phonemic
+16-251-501-1,botl1242,Botlikh (Miarso dialect),1451,гьимди,CyrillTrans,smile,,,himdi,Phonemic
+16-260-501-1,botl1242,Botlikh (Miarso dialect),1413,бушухалъи,CyrillTrans,play,,,bušuxaɬi,Phonemic
+16-270-501-1,botl1242,Botlikh (Miarso dialect),923,идай,CyrillTrans,love,,,iday,Phonemic
+16-290-501-1,botl1242,Botlikh (Miarso dialect),578,ободи,CyrillTrans,kiss,,,obodi,Phonemic
+16-300-501-1,botl1242,Botlikh (Miarso dialect),928,къваркьанишай,CyrillTrans,embrace,,,qʼʷarƛ̄ʼanišay,Phonemic
+16-310-501-1,botl1242,Botlikh (Miarso dialect),1783,гьагар,CyrillTrans,pain,,,hagar,Phonemic
+16-320-501-1,botl1242,Botlikh (Miarso dialect),1668,ракІвакъварай,CyrillTrans,"grief, sorrow, sadness",,,rakʼʷaqʼʷaray,Phonemic
+16-330-501-1,botl1242,Botlikh (Miarso dialect),1000,гьибди,CyrillTrans,"anxiety, worry",,,"hibdi, aħi",Phonemic
+16-330-501-3,botl1242,Botlikh (Miarso dialect),1000,ахІи,CyrillTrans,"anxiety, worry",,,"hibdi, aħi",Phonemic
+16-340-501-1,botl1242,Botlikh (Miarso dialect),1875,ракІвабичІа,CyrillTrans,"regret, be sorry",,,rakʼʷabičʼa,Phonemic
+16-350-501-1,botl1242,Botlikh (Miarso dialect),1141,гурхІи,CyrillTrans,pity,,,gurħi,Phonemic
+16-370-501-1,botl1242,Botlikh (Miarso dialect),1839,хъадалъи,CyrillTrans,"cry, weep",,,"qadaɬi, ɬimqʼidi",Phonemic
+16-370-501-3,botl1242,Botlikh (Miarso dialect),1839,лъимкъиди,CyrillTrans,"cry, weep",,,"qadaɬi, ɬimqʼidi",Phonemic
+16-380-501-1,botl1242,Botlikh (Miarso dialect),1651,магьа,CyrillTrans,tear (noun),,,maha,Phonemic
+16-390-501-1,botl1242,Botlikh (Miarso dialect),716,лъимкъиди,CyrillTrans,groan,,,ɬimqʼidi,Phonemic
+16-410-501-1,botl1242,Botlikh (Miarso dialect),1607,идевчІи,CyrillTrans,hate,,,"idewčʼi, winxe",Phonemic
+16-410-501-3,botl1242,Botlikh (Miarso dialect),1607,винхе,CyrillTrans,hate,,,"idewčʼi, winxe",Phonemic
+16-420-501-1,botl1242,Botlikh (Miarso dialect),82,симикъорай,CyrillTrans,anger,,,"simiqʼoray, surabir, simiɬi",Phonemic
+16-420-501-3,botl1242,Botlikh (Miarso dialect),82,сурабир,CyrillTrans,anger,,,"simiqʼoray, surabir, simiɬi",Phonemic
+16-420-501-5,botl1242,Botlikh (Miarso dialect),82,симилъи,CyrillTrans,anger,,,"simiqʼoray, surabir, simiɬi",Phonemic
+16-440-501-1,botl1242,Botlikh (Miarso dialect),40,шакакилар,CyrillTrans,"envy, jealousy",,,"šakakilar, hay bex̄ilar",Phonemic
+16-440-501-3,botl1242,Botlikh (Miarso dialect),40,гьай беххилар,CyrillTrans,"envy, jealousy",,,"šakakilar, hay bex̄ilar",Phonemic
+16-450-501-1,botl1242,Botlikh (Miarso dialect),1776,нич,CyrillTrans,shame (noun),,,nič,Phonemic
+16-480-501-1,botl1242,Botlikh (Miarso dialect),174,бечІуха къайдалъи,CyrillTrans,proud,,,bečʼuxa qʼaydaɬi,Phonemic
+16-510-501-1,botl1242,Botlikh (Miarso dialect),1779,кьантІи гьакІва,CyrillTrans,dare,,,ƛ̄ʼantʼi hakʼʷa,Phonemic
+16-520-501-1,botl1242,Botlikh (Miarso dialect),3,кьантІи,CyrillTrans,brave,,,ƛ̄ʼantʼi,Phonemic
+16-530-501-1,botl1242,Botlikh (Miarso dialect),781,гьибдир,CyrillTrans,"fear, fright",,,hibdir,Phonemic
+16-540-501-1,botl1242,Botlikh (Miarso dialect),1810,гьибдир букІи бегье,CyrillTrans,danger,,,hibdir bukʼi behe,Phonemic
+16-620-501-1,botl1242,Botlikh (Miarso dialect),1784,цеб на къоро,CyrillTrans,"desire, want",,,ceb na qʼoro,Phonemic
+16-622-501-1,botl1242,Botlikh (Miarso dialect),1750,бачІи,CyrillTrans,choose,,,bačʼi,Phonemic
+16-630-501-1,botl1242,Botlikh (Miarso dialect),1092,ракІва бигъу,CyrillTrans,hope,,,rakʼʷa biɣu,Phonemic
+16-650-501-1,botl1242,Botlikh (Miarso dialect),100,рухІ бичихов,CyrillTrans,faithful,,,ruħ bičixow,Phonemic
+16-660-501-1,botl1242,Botlikh (Miarso dialect),1657,унго-унгойаб,CyrillTrans,true,,,ungo-ungoyab,Phonemic
+16-670-501-1,botl1242,Botlikh (Miarso dialect),601,гьебеси маси,CyrillTrans,"lie, tell lies",,,hebesi masi,Phonemic
+16-680-501-1,botl1242,Botlikh (Miarso dialect),13,масхъарай викки,CyrillTrans,deceit,,,masqaray wik̄i,Phonemic
+16-690-501-1,botl1242,Botlikh (Miarso dialect),1528,гьеру вулълъи,CyrillTrans,forgive,,,heru wuɬ̄i,Phonemic
+16-710-501-1,botl1242,Botlikh (Miarso dialect),1035,хьоъов,CyrillTrans,good,,,x̌oʔow,Phonemic
+16-720-501-1,botl1242,Botlikh (Miarso dialect),1292,суров,CyrillTrans,bad,,,surow,Phonemic
+16-730-501-1,botl1242,Botlikh (Miarso dialect),1725,витІи,CyrillTrans,"right, correct",,,witʼi,Phonemic
+16-740-501-1,botl1242,Botlikh (Miarso dialect),1390,мекъиса,CyrillTrans,wrong,,,meqʼisa,Phonemic
+16-760-501-1,botl1242,Botlikh (Miarso dialect),134,сураб гІамал,CyrillTrans,fault,,,surab ʕamal,Phonemic
+16-770-501-1,botl1242,Botlikh (Miarso dialect),1293,мекъиса вукку,CyrillTrans,"mistake, error",,,"meqʼisa wuk̄u, ɣalatʼ",Phonemic
+16-770-501-3,botl1242,Botlikh (Miarso dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,"meqʼisa wuk̄u, ɣalatʼ",Phonemic
+16-780-501-1,botl1242,Botlikh (Miarso dialect),381,гІайиб кквандай,CyrillTrans,blame,,,ʕayib k̄ʷanday,Phonemic
+16-790-501-1,botl1242,Botlikh (Miarso dialect),1687,веццати,CyrillTrans,praise,,,wec̄ati,Phonemic
+16-810-501-1,botl1242,Botlikh (Miarso dialect),1427,чІиквар,CyrillTrans,beautiful,,,čʼikʷar,Phonemic
+16-820-501-1,botl1242,Botlikh (Miarso dialect),1548,чІиквар гучІов,CyrillTrans,ugly,,,čʼikʷar gučʼow,Phonemic
+16-830-501-1,botl1242,Botlikh (Miarso dialect),2018,къиндов,CyrillTrans,greedy,,,qʼindow,Phonemic
+16-840-501-1,botl1242,Botlikh (Miarso dialect),1310,гІакълулъи,CyrillTrans,clever,,,ʕaqʼluɬi,Phonemic
+17-110-501-1,botl1242,Botlikh (Miarso dialect),1562,гІакълу,CyrillTrans,mind,,,ʕaqʼlu,Phonemic
+17-130-501-1,botl1242,Botlikh (Miarso dialect),1415,ургъи,CyrillTrans,think (= reflect),,,urɣi,Phonemic
+17-140-501-1,botl1242,Botlikh (Miarso dialect),1513,ургъи,CyrillTrans,think (= be of the opinion),,,"urɣi, mic̄i",Phonemic
+17-140-501-3,botl1242,Botlikh (Miarso dialect),1513,мицци,CyrillTrans,think (= be of the opinion),,,"urɣi, mic̄i",Phonemic
+17-150-501-1,botl1242,Botlikh (Miarso dialect),1890,бужи,CyrillTrans,believe,,,buži,Phonemic
+17-160-501-1,botl1242,Botlikh (Miarso dialect),1536,бичІи,CyrillTrans,understand,,,bičʼi,Phonemic
+17-170-501-1,botl1242,Botlikh (Miarso dialect),1410,бегъи,CyrillTrans,know,,,beɣi,Phonemic
+17-171-501-1,botl1242,Botlikh (Miarso dialect),1932,букІа,CyrillTrans,guess,,,"bukʼa, pikru ihi",Phonemic
+17-171-501-3,botl1242,Botlikh (Miarso dialect),1932,пикру игьи,CyrillTrans,guess,,,"bukʼa, pikru ihi",Phonemic
+17-172-501-1,botl1242,Botlikh (Miarso dialect),117,учІу бигъай,CyrillTrans,imitate,,,učʼu biɣay,Phonemic
+17-180-501-1,botl1242,Botlikh (Miarso dialect),1521,букІачІу багье,CyrillTrans,seem,,,bukʼačʼu bahe,Phonemic
+17-190-501-1,botl1242,Botlikh (Miarso dialect),1609,бичІир,CyrillTrans,"idea, notion",,,"bičʼir, pikru",Phonemic
+17-190-501-3,botl1242,Botlikh (Miarso dialect),1609,пикру,CyrillTrans,"idea, notion",,,"bičʼir, pikru",Phonemic
+17-210-501-1,botl1242,Botlikh (Miarso dialect),698,гІакълулъи,CyrillTrans,wise,,,ʕaqʼluɬi,Phonemic
+17-220-501-1,botl1242,Botlikh (Miarso dialect),1518,гІакълу гучІов,CyrillTrans,"foolish, stupid",,,ʕaqʼlu gučʼow,Phonemic
+17-230-501-1,botl1242,Botlikh (Miarso dialect),1899,гъвани сардов,CyrillTrans,"insane, crazy",,,"ɣʷani sardow, ʕabdal",Phonemic
+17-230-501-3,botl1242,Botlikh (Miarso dialect),1899,гІабдал,CyrillTrans,"insane, crazy",,,"ɣʷani sardow, ʕabdal",Phonemic
+17-240-501-1,botl1242,Botlikh (Miarso dialect),504,бегъай,CyrillTrans,learn,,,"beɣay, raʔaɬi",Phonemic
+17-240-501-3,botl1242,Botlikh (Miarso dialect),504,раъалъи,CyrillTrans,learn,,,"beɣay, raʔaɬi",Phonemic
+17-242-501-1,botl1242,Botlikh (Miarso dialect),1929,баи,CyrillTrans,study,,,"bai, beɣay",Phonemic
+17-242-501-3,botl1242,Botlikh (Miarso dialect),1929,бегъай,CyrillTrans,study,,,"bai, beɣay",Phonemic
+17-250-501-1,botl1242,Botlikh (Miarso dialect),709,баи,CyrillTrans,teach,,,bai,Phonemic
+17-260-501-1,botl1242,Botlikh (Miarso dialect),753,ваъалъов макІи,CyrillTrans,pupil,,,"waʔaɬow makʼi, cʼaldoqan",Phonemic
+17-260-501-3,botl1242,Botlikh (Miarso dialect),753,цІалдохъан,CyrillTrans,pupil,,,"waʔaɬow makʼi, cʼaldoqan",Phonemic
+17-270-501-1,botl1242,Botlikh (Miarso dialect),1038,учитель,CyrillTrans,teacher,,,"učitelʲ, muʕalim",Phonemic
+17-270-501-3,botl1242,Botlikh (Miarso dialect),1038,мугІалим,CyrillTrans,teacher,,,"učitelʲ, muʕalim",Phonemic
+17-280-501-1,botl1242,Botlikh (Miarso dialect),673,мактаб,CyrillTrans,school,,,"maktab, škola",Phonemic
+17-280-501-3,botl1242,Botlikh (Miarso dialect),673,школа,CyrillTrans,school,,,"maktab, škola",Phonemic
+17-310-501-1,botl1242,Botlikh (Miarso dialect),707,бегъе,CyrillTrans,remember,,,"beɣe, rakʼʷarčʼu mixay",Phonemic
+17-310-501-3,botl1242,Botlikh (Miarso dialect),707,ракІварчІу михай,CyrillTrans,remember,,,"beɣe, rakʼʷarčʼu mixay",Phonemic
+17-320-501-1,botl1242,Botlikh (Miarso dialect),1523,бечи бехуй,CyrillTrans,forget,,,"beči bexuy, beči bexu",Phonemic
+17-320-501-3,botl1242,Botlikh (Miarso dialect),1523,бечи беху,CyrillTrans,forget,,,"beči bexuy, beči bexu",Phonemic
+17-340-501-1,botl1242,Botlikh (Miarso dialect),989,куцІаб,CyrillTrans,"clear, plain",,,kucʼab,Phonemic
+17-350-501-1,botl1242,Botlikh (Miarso dialect),1764,бегъихичІаб,CyrillTrans,obscure,,,"beɣixičʼab, bičʼixičʼab",Phonemic
+17-350-501-3,botl1242,Botlikh (Miarso dialect),1764,бичІихичІаб,CyrillTrans,obscure,,,"beɣixičʼab, bičʼixičʼab",Phonemic
+17-360-501-1,botl1242,Botlikh (Miarso dialect),1121,къича,CyrillTrans,secret,,,"qʼiča, baɬgoɬi",Phonemic
+17-360-501-3,botl1242,Botlikh (Miarso dialect),1121,балъголъи,CyrillTrans,secret,,,"qʼiča, baɬgoɬi",Phonemic
+17-370-501-1,botl1242,Botlikh (Miarso dialect),509,ракІвабигъо,CyrillTrans,"sure, certain",,,rakʼʷabiɣo,Phonemic
+17-380-501-1,botl1242,Botlikh (Miarso dialect),1626,малъи,CyrillTrans,explain,,,maɬi,Phonemic
+17-410-501-1,botl1242,Botlikh (Miarso dialect),1162,мурад,CyrillTrans,"intention, purpose",,,"Murad, xiyal",Phonemic
+17-410-501-3,botl1242,Botlikh (Miarso dialect),1162,хийал,CyrillTrans,"intention, purpose",,,"Murad, xiyal",Phonemic
+17-420-501-1,botl1242,Botlikh (Miarso dialect),860,гІила,CyrillTrans,cause,,,"ʕila, bahana",Phonemic
+17-420-501-3,botl1242,Botlikh (Miarso dialect),860,багьана,CyrillTrans,cause,,,"ʕila, bahana",Phonemic
+17-430-501-1,botl1242,Botlikh (Miarso dialect),1308,шакакилар,CyrillTrans,doubt,,,"šakakilar, bužičʼir",Phonemic
+17-430-501-3,botl1242,Botlikh (Miarso dialect),1308,бужичІир,CyrillTrans,doubt,,,"šakakilar, bužičʼir",Phonemic
+17-440-501-1,botl1242,Botlikh (Miarso dialect),1841,шакакилалъи,CyrillTrans,suspect,,,šakakilaɬi,Phonemic
+17-441-501-1,botl1242,Botlikh (Miarso dialect),1902,атай,CyrillTrans,betray,,,atay,Phonemic
+17-450-501-1,botl1242,Botlikh (Miarso dialect),643,къварар букку,CyrillTrans,"need, necessity",,,"qʼʷarar buk̄u, ħažaɬi",Phonemic
+17-450-501-3,botl1242,Botlikh (Miarso dialect),643,хІажалъи,CyrillTrans,"need, necessity",,,"qʼʷarar buk̄u, ħažaɬi",Phonemic
+17-460-501-1,botl1242,Botlikh (Miarso dialect),686,папа,CyrillTrans,easy,,,"papa, biha",Phonemic
+17-460-501-3,botl1242,Botlikh (Miarso dialect),686,бигьа,CyrillTrans,easy,,,"papa, biha",Phonemic
+17-470-501-1,botl1242,Botlikh (Miarso dialect),584,гьакІуба,CyrillTrans,difficult,,,"hakʼuba, bešurdi, zaħmatab",Phonemic
+17-470-501-3,botl1242,Botlikh (Miarso dialect),584,бешурди,CyrillTrans,difficult,,,"hakʼuba, bešurdi, zaħmatab",Phonemic
+17-470-501-5,botl1242,Botlikh (Miarso dialect),584,захІматаб,CyrillTrans,difficult,,,"hakʼuba, bešurdi, zaħmatab",Phonemic
+17-480-501-1,botl1242,Botlikh (Miarso dialect),1812,хІалбихьи,CyrillTrans,"try, attempt",,,ħalbix̌i,Phonemic
+17-490-501-1,botl1242,Botlikh (Miarso dialect),488,мисай,CyrillTrans,"way, manner",,,misay,Phonemic
+17-510-501-1,botl1242,Botlikh (Miarso dialect),1577,-ла,CyrillTrans,and,,,"-la, exa",Phonemic
+17-510-501-3,botl1242,Botlikh (Miarso dialect),1577,эха,CyrillTrans,and,,,"-la, exa",Phonemic
+17-520-501-1,botl1242,Botlikh (Miarso dialect),1157,эбхула,CyrillTrans,because,,,"ebxula, epila bukʼe",Phonemic
+17-520-501-3,botl1242,Botlikh (Miarso dialect),1157,эпила букІе,CyrillTrans,because,,,"ebxula, epila bukʼe",Phonemic
+17-530-501-1,botl1242,Botlikh (Miarso dialect),1459,нагагь,CyrillTrans,if,,,nagah,Phonemic
+17-540-501-1,botl1242,Botlikh (Miarso dialect),1014,ялъуни,CyrillTrans,or,,,"yaɬuni, yagi",Phonemic
+17-540-501-3,botl1242,Botlikh (Miarso dialect),1014,яги,CyrillTrans,or,,,"yaɬuni, yagi",Phonemic
+17-550-501-1,botl1242,Botlikh (Miarso dialect),1268,бегье,CyrillTrans,"yes, affirmative",,,"behe, u",Phonemic
+17-550-501-3,botl1242,Botlikh (Miarso dialect),1268,у,CyrillTrans,"yes, affirmative",,,"behe, u",Phonemic
+17-560-501-1,botl1242,Botlikh (Miarso dialect),1269,хучІи,CyrillTrans,"no, negative",,,"xučʼi, ay",Phonemic
+17-560-501-3,botl1242,Botlikh (Miarso dialect),1269,ай,CyrillTrans,"no, negative",,,"xučʼi, ay",Phonemic
+17-610-501-1,botl1242,Botlikh (Miarso dialect),1239,инла,CyrillTrans,how?,,,inla,Phonemic
+17-620-501-1,botl1242,Botlikh (Miarso dialect),822,ишта хула,CyrillTrans,how many?,,,išta xula,Phonemic
+17-630-501-1,botl1242,Botlikh (Miarso dialect),531,ишта хула,CyrillTrans,how much?,,,išta xula,Phonemic
+17-640-501-1,botl1242,Botlikh (Miarso dialect),1236,эб,CyrillTrans,what?,,,eb,Phonemic
+17-650-501-1,botl1242,Botlikh (Miarso dialect),1238,инда,CyrillTrans,when?,,,inda,Phonemic
+17-660-501-1,botl1242,Botlikh (Miarso dialect),1237,инуку,CyrillTrans,where?,,,inuku,Phonemic
+17-670-501-1,botl1242,Botlikh (Miarso dialect),727,иштубу,CyrillTrans,which?,,,ištubu,Phonemic
+17-680-501-1,botl1242,Botlikh (Miarso dialect),1235,эплъила,CyrillTrans,who?,,,epɬila,Phonemic
+17-690-501-1,botl1242,Botlikh (Miarso dialect),1270,эпи,CyrillTrans,why?,,,epi,Phonemic
+18-110-501-1,botl1242,Botlikh (Miarso dialect),1363,гьарчІу,CyrillTrans,voice,,,harčʼu,Phonemic
+18-120-501-1,botl1242,Botlikh (Miarso dialect),1261,кечІи маси,CyrillTrans,sing,,,kečʼi masi,Phonemic
+18-130-501-1,botl1242,Botlikh (Miarso dialect),715,хъилидалъи,CyrillTrans,"shout, cry out",,,qilidaɬi,Phonemic
+18-150-501-1,botl1242,Botlikh (Miarso dialect),55,шушу маси,CyrillTrans,whisper,,,šušu masi,Phonemic
+18-160-501-1,botl1242,Botlikh (Miarso dialect),128,дунда вагьи,CyrillTrans,mumble,,,dunda wahi,Phonemic
+18-170-501-1,botl1242,Botlikh (Miarso dialect),1025,шамша пуди,CyrillTrans,whistle,,,šamša pudi,Phonemic
+18-180-501-1,botl1242,Botlikh (Miarso dialect),298,ццурди,CyrillTrans,"shriek, screech",,,"c̄urdi, cʼircʼar",Phonemic
+18-180-501-3,botl1242,Botlikh (Miarso dialect),298,цІирцІар,CyrillTrans,"shriek, screech",,,"c̄urdi, cʼircʼar",Phonemic
+18-190-501-1,botl1242,Botlikh (Miarso dialect),526,кІкІумада,CyrillTrans,howl,,,k̄ʼumada,Phonemic
+18-210-501-1,botl1242,Botlikh (Miarso dialect),1623,гулаталъи,CyrillTrans,"speak, talk",,,gulataɬi,Phonemic
+18-211-501-1,botl1242,Botlikh (Miarso dialect),1866,мици бикки,CyrillTrans,"stutter, stammer",,,mici bik̄i,Phonemic
+18-220-501-1,botl1242,Botlikh (Miarso dialect),1458,гьикьи,CyrillTrans,say,,,hiƛ̄ʼi,Phonemic
+18-221-501-1,botl1242,Botlikh (Miarso dialect),1711,хабар маси,CyrillTrans,tell story,,,xabar masi,Phonemic
+18-222-501-1,botl1242,Botlikh (Miarso dialect),1115,гулатар,CyrillTrans,speech (make a),,,gulatar,Phonemic
+18-230-501-1,botl1242,Botlikh (Miarso dialect),48,вокъунду вигъи,CyrillTrans,silent (be),,,woqʼundu wiɣi,Phonemic
+18-240-501-1,botl1242,Botlikh (Miarso dialect),1307,мици,CyrillTrans,language,,,mici,Phonemic
+18-260-501-1,botl1242,Botlikh (Miarso dialect),1599,раша,CyrillTrans,word,,,raša,Phonemic
+18-280-501-1,botl1242,Botlikh (Miarso dialect),1405,цери,CyrillTrans,name,,,"ceri, ebxula",Phonemic
+18-280-501-3,botl1242,Botlikh (Miarso dialect),1405,эбхула,CyrillTrans,name,,,"ceri, ebxula",Phonemic
+18-310-501-1,botl1242,Botlikh (Miarso dialect),1309,мацци,CyrillTrans,"ask (question, inquire)",,,mac̄i,Phonemic
+18-320-501-1,botl1242,Botlikh (Miarso dialect),1275,жаваб икки,CyrillTrans,answer,,,žawab ik̄i,Phonemic
+18-330-501-1,botl1242,Botlikh (Miarso dialect),2022,мукІури,CyrillTrans,"admit, confess",,,mukʼuri,Phonemic
+18-340-501-1,botl1242,Botlikh (Miarso dialect),755,хучІи талу йигъи,CyrillTrans,deny,,,xučʼi talu yiɣi,Phonemic
+18-350-501-1,botl1242,Botlikh (Miarso dialect),1828,хади,CyrillTrans,"ask, request",,,xadi,Phonemic
+18-360-501-1,botl1242,Botlikh (Miarso dialect),1675,кки маси,CyrillTrans,promise,,,k̄i masi,Phonemic
+18-370-501-1,botl1242,Botlikh (Miarso dialect),49,ай,CyrillTrans,refuse,,,ay,Phonemic
+18-380-501-1,botl1242,Botlikh (Miarso dialect),83,игьабаси,CyrillTrans,forbid,,,ihabasi,Phonemic
+18-390-501-1,botl1242,Botlikh (Miarso dialect),299,эхъваталъи,CyrillTrans,"rebuke, scold",,,eqʷataɬi,Phonemic
+18-410-501-1,botl1242,Botlikh (Miarso dialect),1084,беди,CyrillTrans,call (=summon),,,bedi,Phonemic
+18-420-501-1,botl1242,Botlikh (Miarso dialect),180,гьикьи,CyrillTrans,call (=name),,,hiƛ̄ʼi,Phonemic
+18-430-501-1,botl1242,Botlikh (Miarso dialect),9,гІакІа,CyrillTrans,announce,,,"ʕakʼa, ahay",Phonemic
+18-430-501-3,botl1242,Botlikh (Miarso dialect),9,агьай,CyrillTrans,announce,,,"ʕakʼa, ahay",Phonemic
+18-440-501-1,botl1242,Botlikh (Miarso dialect),1192,гьибдай,CyrillTrans,threaten,,,hibday,Phonemic
+18-450-501-1,botl1242,Botlikh (Miarso dialect),101,риккакки,CyrillTrans,boast,,,rik̄ak̄i,Phonemic
+18-510-501-1,botl1242,Botlikh (Miarso dialect),1672,хъварди,CyrillTrans,write,,,qʷardi,Phonemic
+18-520-501-1,botl1242,Botlikh (Miarso dialect),724,баи,CyrillTrans,read,,,bai,Phonemic
+18-560-501-1,botl1242,Botlikh (Miarso dialect),648,кагъат,CyrillTrans,paper,,,kaɣat,Phonemic
+18-570-501-1,botl1242,Botlikh (Miarso dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-501-1,botl1242,Botlikh (Miarso dialect),963,хъуча,CyrillTrans,book,,,quča,Phonemic
+18-670-501-1,botl1242,Botlikh (Miarso dialect),1045,кечІи хъвардихов адам,CyrillTrans,poet,,,"kečʼi qʷardixow adam, šair",Phonemic
+18-670-501-3,botl1242,Botlikh (Miarso dialect),1045,шаир,CyrillTrans,poet,,,"kečʼi qʷardixow adam, šair",Phonemic
+18-710-501-1,botl1242,Botlikh (Miarso dialect),777,зурма,CyrillTrans,flute,,,zurma,Phonemic
+18-720-501-1,botl1242,Botlikh (Miarso dialect),908,дани,CyrillTrans,drum,,,dani,Phonemic
+18-730-501-1,botl1242,Botlikh (Miarso dialect),2136,машу,CyrillTrans,"horn, trumpet",,,mašu,Phonemic
+18-740-501-1,botl1242,Botlikh (Miarso dialect),300,лълъинлълъ михе,CyrillTrans,rattle,,,ɬ̄inɬ̄ mixe,Phonemic
+19-110-501-1,botl1242,Botlikh (Miarso dialect),1300,пачалихъ,CyrillTrans,country,,,"pačaliq, ulka",Phonemic
+19-110-501-3,botl1242,Botlikh (Miarso dialect),1300,улка,CyrillTrans,country,,,"pačaliq, ulka",Phonemic
+19-120-501-1,botl1242,Botlikh (Miarso dialect),89,гІагараб улка,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-120-501-3,botl1242,Botlikh (Miarso dialect),89,ватІан,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-150-501-1,botl1242,Botlikh (Miarso dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-501-1,botl1242,Botlikh (Miarso dialect),930,гьани,CyrillTrans,village,,,"hani, koli",Phonemic
+19-160-501-3,botl1242,Botlikh (Miarso dialect),930,коли,CyrillTrans,village,,,"hani, koli",Phonemic
+19-170-501-1,botl1242,Botlikh (Miarso dialect),1010,гІурхъи,CyrillTrans,boundary,,,ʕurqi,Phonemic
+19-210-501-1,botl1242,Botlikh (Miarso dialect),789,адамал,CyrillTrans,people (populace),,,"adamal, xalqʼ",Phonemic
+19-210-501-3,botl1242,Botlikh (Miarso dialect),789,халкъ,CyrillTrans,people (populace),,,"adamal, xalqʼ",Phonemic
+19-230-501-1,botl1242,Botlikh (Miarso dialect),302,тухум,CyrillTrans,"tribe, clan",,,"tuxum, ahul, ɣay",Phonemic
+19-230-501-3,botl1242,Botlikh (Miarso dialect),302,агьул,CyrillTrans,"tribe, clan",,,"tuxum, ahul, ɣay",Phonemic
+19-230-501-5,botl1242,Botlikh (Miarso dialect),302,гъай,CyrillTrans,"tribe, clan",,,"tuxum, ahul, ɣay",Phonemic
+19-240-501-1,botl1242,Botlikh (Miarso dialect),301,цевехъан,CyrillTrans,"chief, chieftain",,,ceweqan,Phonemic
+19-250-501-1,botl1242,Botlikh (Miarso dialect),1296,хантІа,CyrillTrans,"staff, walking stick",,,xantʼa,Phonemic
+19-310-501-1,botl1242,Botlikh (Miarso dialect),1846,микъидалъи,CyrillTrans,"rule, govern",,,"miqʼidaɬi, xanɬi ihi",Phonemic
+19-310-501-3,botl1242,Botlikh (Miarso dialect),1846,ханлъи игьи,CyrillTrans,"rule, govern",,,"miqʼidaɬi, xanɬi ihi",Phonemic
+19-320-501-1,botl1242,Botlikh (Miarso dialect),1508,паччахІ,CyrillTrans,"king, ruler",,,"pač̄aħ, xan",Phonemic
+19-320-501-3,botl1242,Botlikh (Miarso dialect),1508,хан,CyrillTrans,"king, ruler",,,"pač̄aħ, xan",Phonemic
+19-330-501-1,botl1242,Botlikh (Miarso dialect),1306,паччалъи гьаркІкІи,CyrillTrans,queen,,,pač̄aɬi hark̄ʼi,Phonemic
+19-360-501-1,botl1242,Botlikh (Miarso dialect),482,яхІлъи,CyrillTrans,"noble, nobleman",,,"yaħɬi, lamusɬi",Phonemic
+19-360-501-3,botl1242,Botlikh (Miarso dialect),482,ламуслъи,CyrillTrans,"noble, nobleman",,,"yaħɬi, lamusɬi",Phonemic
+19-370-501-1,botl1242,Botlikh (Miarso dialect),1032,шагьаралІи гьекІва,CyrillTrans,"citizen, subject",,,šaharaƛi hekʼʷa,Phonemic
+19-410-501-1,botl1242,Botlikh (Miarso dialect),383,гьеа ветов адам,CyrillTrans,master,,,"hea wetow adam, betʼerhan",Phonemic
+19-410-501-3,botl1242,Botlikh (Miarso dialect),383,бетІергьан,CyrillTrans,master,,,"hea wetow adam, betʼerhan",Phonemic
+19-420-501-1,botl1242,Botlikh (Miarso dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-501-1,botl1242,Botlikh (Miarso dialect),255,иши ветов адам,CyrillTrans,servant,,,"iši wetow adam, lag",Phonemic
+19-430-501-3,botl1242,Botlikh (Miarso dialect),255,лагъ,CyrillTrans,servant,,,"iši wetow adam, lag",Phonemic
+19-440-501-1,botl1242,Botlikh (Miarso dialect),384,тархъан игьо адам,CyrillTrans,freeman,,,tarqan iho adam,Phonemic
+19-450-501-1,botl1242,Botlikh (Miarso dialect),1128,на малъи,CyrillTrans,"command, order",,,na maɬi,Phonemic
+19-460-501-1,botl1242,Botlikh (Miarso dialect),1635,гьантІукІа рикки,CyrillTrans,obey,,,hantʼukʼa rik̄i,Phonemic
+19-470-501-1,botl1242,Botlikh (Miarso dialect),1003,изнукки,CyrillTrans,"let, permit",,,"iznuk̄i, iznu ik̄i",Phonemic
+19-470-501-3,botl1242,Botlikh (Miarso dialect),1003,изну икки,CyrillTrans,"let, permit",,,"iznuk̄i, iznu ik̄i",Phonemic
+19-510-501-1,botl1242,Botlikh (Miarso dialect),1325,гьудул,CyrillTrans,"friend, companion",,,hudul,Phonemic
+19-520-501-1,botl1242,Botlikh (Miarso dialect),1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-501-1,botl1242,Botlikh (Miarso dialect),1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-501-1,botl1242,Botlikh (Miarso dialect),791,Вегъи[ичІов адам,CyrillTrans,stranger,,,weɣixičʼow adam,Phonemic
+19-560-501-1,botl1242,Botlikh (Miarso dialect),1782,ццев,CyrillTrans,guest,,,c̄ew,Phonemic
+19-570-501-1,botl1242,Botlikh (Miarso dialect),1545,гьанкъулъи гъванекІва,CyrillTrans,host,,,"hanqʼuɬi ɣʷanekʼʷa, xazain",Phonemic
+19-570-501-3,botl1242,Botlikh (Miarso dialect),1545,хазаин,CyrillTrans,host,,,"hanqʼuɬi ɣʷanekʼʷa, xazain",Phonemic
+19-580-501-1,botl1242,Botlikh (Miarso dialect),1897,кумак,CyrillTrans,"help, aid",,,kumak,Phonemic
+19-590-501-1,botl1242,Botlikh (Miarso dialect),1550,нар игьи,CyrillTrans,"hinder, prevent",,,"nar ihi, beštičʼa beti",Phonemic
+19-590-501-3,botl1242,Botlikh (Miarso dialect),1550,бештичІа бети,CyrillTrans,"hinder, prevent",,,"nar ihi, beštičʼa beti",Phonemic
+19-610-501-1,botl1242,Botlikh (Miarso dialect),1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-501-1,botl1242,Botlikh (Miarso dialect),1848,дагІба,CyrillTrans,"strife, quarrel",,,daʕba,Phonemic
+19-630-501-1,botl1242,Botlikh (Miarso dialect),2024,гьиркьи ригъир,CyrillTrans,"conspiracy, plot",,,"hirƛ̄ʼi riɣir, qʼutʼi",Phonemic
+19-630-501-3,botl1242,Botlikh (Miarso dialect),2024,къутІи,CyrillTrans,"conspiracy, plot",,,"hirƛ̄ʼi riɣir, qʼutʼi",Phonemic
+19-650-501-1,botl1242,Botlikh (Miarso dialect),1831,дандалъи,CyrillTrans,meet,,,dandaɬi,Phonemic
+19-720-501-1,botl1242,Botlikh (Miarso dialect),1610,хъахІба,CyrillTrans,prostitute,,,qaħba,Phonemic
+20-110-501-1,botl1242,Botlikh (Miarso dialect),1423,рехъуй,CyrillTrans,fight (vb),,,requy,Phonemic
+20-130-501-1,botl1242,Botlikh (Miarso dialect),579,рагъ,CyrillTrans,"war, battle",,,"raɣ, rex̌ur",Phonemic
+20-130-501-3,botl1242,Botlikh (Miarso dialect),579,рехьур,CyrillTrans,"war, battle",,,"raɣ, rex̌ur",Phonemic
+20-140-501-1,botl1242,Botlikh (Miarso dialect),1338,ракъел,CyrillTrans,peace,,,"raqʼel, dunel",Phonemic
+20-140-501-3,botl1242,Botlikh (Miarso dialect),1338,дунел,CyrillTrans,peace,,,"raqʼel, dunel",Phonemic
+20-150-501-1,botl1242,Botlikh (Miarso dialect),1561,бо,CyrillTrans,army,,,"bo, armiya, askar",Phonemic
+20-150-501-3,botl1242,Botlikh (Miarso dialect),1561,армийа,CyrillTrans,army,,,"bo, armiya, askar",Phonemic
+20-150-501-5,botl1242,Botlikh (Miarso dialect),1561,аскар,CyrillTrans,army,,,"bo, armiya, askar",Phonemic
+20-170-501-1,botl1242,Botlikh (Miarso dialect),1941,рагъухъан,CyrillTrans,soldier,,,"raɣuqan, wequyxow adam",Phonemic
+20-170-501-3,botl1242,Botlikh (Miarso dialect),1941,вехъуйхов адам,CyrillTrans,soldier,,,"raɣuqan, wequyxow adam",Phonemic
+20-210-501-1,botl1242,Botlikh (Miarso dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-501-1,botl1242,Botlikh (Miarso dialect),1763,хантІа,CyrillTrans,club,,,"xantʼa, sarsal",Phonemic
+20-220-501-3,botl1242,Botlikh (Miarso dialect),1763,сарсал,CyrillTrans,club,,,"xantʼa, sarsal",Phonemic
+20-222-501-1,botl1242,Botlikh (Miarso dialect),386,куртІа (рагъилъи),CyrillTrans,battle-ax,,,kurtʼa (raɣiɬi),Phonemic
+20-240-501-1,botl1242,Botlikh (Miarso dialect),994,тергеч,CyrillTrans,bow,,,tergeč,Phonemic
+20-250-501-1,botl1242,Botlikh (Miarso dialect),977,ццима,CyrillTrans,arrow,,,c̄ima,Phonemic
+20-260-501-1,botl1242,Botlikh (Miarso dialect),945,секу цІункІи хантІа,CyrillTrans,spear,,,seku cʼunkʼi xantʼa,Phonemic
+20-270-501-1,botl1242,Botlikh (Miarso dialect),1535,ханжар,CyrillTrans,sword,,,"xanžar, xarčamu",Phonemic
+20-270-501-3,botl1242,Botlikh (Miarso dialect),1535,харчаму,CyrillTrans,sword,,,"xanžar, xarčamu",Phonemic
+20-280-501-1,botl1242,Botlikh (Miarso dialect),1566,тамончи,CyrillTrans,"gun, cannon",,,"tamonс̌i, ʕarada",Phonemic
+20-280-501-3,botl1242,Botlikh (Miarso dialect),1566,гІарада,CyrillTrans,"gun, cannon",,,"tamonс̌i, ʕarada",Phonemic
+20-310-501-1,botl1242,Botlikh (Miarso dialect),1061,къулден,CyrillTrans,armor (defensive),,,qʼulden,Phonemic
+20-330-501-1,botl1242,Botlikh (Miarso dialect),1680,къабалъа,CyrillTrans,helmet,,,"qʼabaɬa, kobaɬi",Phonemic
+20-330-501-3,botl1242,Botlikh (Miarso dialect),1680,кобалъи,CyrillTrans,helmet,,,"qʼabaɬa, kobaɬi",Phonemic
+20-340-501-1,botl1242,Botlikh (Miarso dialect),1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-501-1,botl1242,Botlikh (Miarso dialect),1938,бещи мина,CyrillTrans,fortress,,,"beš̄i mina, qala",Phonemic
+20-350-501-3,botl1242,Botlikh (Miarso dialect),1938,хъала,CyrillTrans,fortress,,,"beš̄i mina, qala",Phonemic
+20-360-501-1,botl1242,Botlikh (Miarso dialect),1671,михІмар,CyrillTrans,tower,,,miħmar,Phonemic
+20-410-501-1,botl1242,Botlikh (Miarso dialect),783,нишир,CyrillTrans,victory,,,nišir,Phonemic
+20-420-501-1,botl1242,Botlikh (Miarso dialect),782,нигъи,CyrillTrans,defeat,,,niɣi,Phonemic
+20-430-501-1,botl1242,Botlikh (Miarso dialect),722,гье кІанци,CyrillTrans,attack,,,he kʼanci,Phonemic
+20-440-501-1,botl1242,Botlikh (Miarso dialect),1330,данде вехъуй,CyrillTrans,defend,,,dande wequy,Phonemic
+20-450-501-1,botl1242,Botlikh (Miarso dialect),421,ресхъа къинди,CyrillTrans,retreat,,,resqa qʼindi,Phonemic
+20-460-501-1,botl1242,Botlikh (Miarso dialect),1696,виъигъа вигъи,CyrillTrans,surrender,,,wiʔiɣa wiɣi,Phonemic
+20-470-501-1,botl1242,Botlikh (Miarso dialect),1072,туснахъ хъалъусу адам,CyrillTrans,"captive, prisoner",,,"tusnaq qaɬusu adam, wik̄ow adam",Phonemic
+20-470-501-3,botl1242,Botlikh (Miarso dialect),1072,викков адам,CyrillTrans,"captive, prisoner",,,"tusnaq qaɬusu adam, wik̄ow adam",Phonemic
+20-471-501-1,botl1242,Botlikh (Miarso dialect),1940,хъалавур,CyrillTrans,"guard, sentinel",,,qalawur,Phonemic
+20-480-501-1,botl1242,Botlikh (Miarso dialect),1022,бакъащаб,CyrillTrans,"booty, spoils",,,"baqʼaš̄ab, dawla",Phonemic
+20-480-501-3,botl1242,Botlikh (Miarso dialect),1022,давла,CyrillTrans,"booty, spoils",,,"baqʼaš̄ab, dawla",Phonemic
+20-490-501-1,botl1242,Botlikh (Miarso dialect),65,хал бикку ригъи,CyrillTrans,ambush,,,xal bik̄u riɣi,Phonemic
+20-510-501-1,botl1242,Botlikh (Miarso dialect),1858,хъвайхъан,CyrillTrans,fisherman,,,qʷayqan,Phonemic
+20-520-501-1,botl1242,Botlikh (Miarso dialect),1074,хъвай бикІкІихаб гъинцІо,CyrillTrans,fishhook,,,qʷay bik̄ʼixab ɣincʼo,Phonemic
+20-530-501-1,botl1242,Botlikh (Miarso dialect),19,лескІа,CyrillTrans,fishing line,,,leskʼa,Phonemic
+20-540-501-1,botl1242,Botlikh (Miarso dialect),388,хъвай бикІкІихаб сетка,CyrillTrans,fishnet,,,qʷay bik̄ʼixab setka,Phonemic
+20-550-501-1,botl1242,Botlikh (Miarso dialect),389,хъвай биккихаб гудур,CyrillTrans,fish trap,,,qʷay bik̄ixab gudur,Phonemic
+20-560-501-1,botl1242,Botlikh (Miarso dialect),2013,масхъарай риккур гудур,CyrillTrans,bait,,,masqaray rik̄ur gudur,Phonemic
+20-610-501-1,botl1242,Botlikh (Miarso dialect),1435,чана ваи,CyrillTrans,hunt,,,čana wai,Phonemic
+20-620-501-1,botl1242,Botlikh (Miarso dialect),1172,бахай,CyrillTrans,shoot,,,baxay,Phonemic
+20-630-501-1,botl1242,Botlikh (Miarso dialect),161,мекьи бахир,CyrillTrans,miss (target),,,meƛ̄ʼi baxir,Phonemic
+20-640-501-1,botl1242,Botlikh (Miarso dialect),1075,гудур,CyrillTrans,trap (noun),,,gudur,Phonemic
+20-650-501-1,botl1242,Botlikh (Miarso dialect),1170,бикки,CyrillTrans,trap (vb),,,bik̄i,Phonemic
+21-110-501-1,botl1242,Botlikh (Miarso dialect),1062,шаргІ,CyrillTrans,law,,,"šarʕ, zakon",Phonemic
+21-110-501-3,botl1242,Botlikh (Miarso dialect),1062,закон,CyrillTrans,law,,,"šarʕ, zakon",Phonemic
+21-150-501-1,botl1242,Botlikh (Miarso dialect),1068,диван,CyrillTrans,court,,,"diwan, zud",Phonemic
+21-150-501-3,botl1242,Botlikh (Miarso dialect),1068,суд,CyrillTrans,court,,,"diwan, zud",Phonemic
+21-160-501-1,botl1242,Botlikh (Miarso dialect),1818,диван игьи,CyrillTrans,judge (vb),,,"diwan ihi, sud ihi",Phonemic
+21-160-501-3,botl1242,Botlikh (Miarso dialect),1818,суд игьи,CyrillTrans,judge (vb),,,"diwan ihi, sud ihi",Phonemic
+21-170-501-1,botl1242,Botlikh (Miarso dialect),1067,диваналъи хІукму,CyrillTrans,judgment,,,diwanaɬi ħukmu,Phonemic
+21-180-501-1,botl1242,Botlikh (Miarso dialect),861,диванчи,CyrillTrans,judge (noun),,,"diwanči, sudya",Phonemic
+21-180-501-3,botl1242,Botlikh (Miarso dialect),861,судйа,CyrillTrans,judge (noun),,,"diwanči, sudya",Phonemic
+21-210-501-1,botl1242,Botlikh (Miarso dialect),2020,къварилъи гьагъов,CyrillTrans,plaintiff,,,qʼʷariɬi haɣow,Phonemic
+21-220-501-1,botl1242,Botlikh (Miarso dialect),1034,жаваб икки хо,CyrillTrans,defendant,,,žawab ik̄i xo,Phonemic
+21-230-501-1,botl1242,Botlikh (Miarso dialect),1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-501-1,botl1242,Botlikh (Miarso dialect),1939,наквар рухи,CyrillTrans,swear,,,nakʷar ruxi,Phonemic
+21-250-501-1,botl1242,Botlikh (Miarso dialect),1712,наквар,CyrillTrans,oath,,,nakʷar,Phonemic
+21-310-501-1,botl1242,Botlikh (Miarso dialect),1814,гІайб хъванди,CyrillTrans,accuse,,,ʕayb qʷandi,Phonemic
+21-320-501-1,botl1242,Botlikh (Miarso dialect),484,тамихІ букъи,CyrillTrans,condemn,,,tamiħ buqʼi,Phonemic
+21-330-501-1,botl1242,Botlikh (Miarso dialect),983,гІайб бацІай,CyrillTrans,convict (vb),,,ʕayb bacʼay,Phonemic
+21-340-501-1,botl1242,Botlikh (Miarso dialect),988,битІав буккай,CyrillTrans,acquit,,,bitʼaw buk̄ay,Phonemic
+21-350-501-1,botl1242,Botlikh (Miarso dialect),1682,гІайбав,CyrillTrans,guilty,,,ʕaybaw,Phonemic
+21-360-501-1,botl1242,Botlikh (Miarso dialect),90,гІайб гучІов,CyrillTrans,innocent,,,ʕayb gučʼow,Phonemic
+21-370-501-1,botl1242,Botlikh (Miarso dialect),390,тамбихІ,CyrillTrans,"penalty, punishment",,,tambiħ,Phonemic
+21-380-501-1,botl1242,Botlikh (Miarso dialect),218,арсилъи гІакІа,CyrillTrans,fine,,,arsɬli ʕakʼa,Phonemic
+21-390-501-1,botl1242,Botlikh (Miarso dialect),1281,туснахъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-501-1,botl1242,Botlikh (Miarso dialect),845,виай,CyrillTrans,murder,,,"wiay, čʼʷay",Phonemic
+21-420-501-3,botl1242,Botlikh (Miarso dialect),845,чІвай,CyrillTrans,murder,,,"wiay, čʼʷay",Phonemic
+21-430-501-1,botl1242,Botlikh (Miarso dialect),902,рукьасар,CyrillTrans,adultery,,,"ruƛ̄ʼasar, zina",Phonemic
+21-430-501-3,botl1242,Botlikh (Miarso dialect),902,зина,CyrillTrans,adultery,,,"ruƛ̄ʼasar, zina",Phonemic
+21-440-501-1,botl1242,Botlikh (Miarso dialect),953,зина икки,CyrillTrans,rape,,,zina ik̄i,Phonemic
+21-460-501-1,botl1242,Botlikh (Miarso dialect),1889,цІати,CyrillTrans,arson,,,cʼati,Phonemic
+21-470-501-1,botl1242,Botlikh (Miarso dialect),1792,гьебессай,CyrillTrans,perjury,,,hebessay,Phonemic
+21-510-501-1,botl1242,Botlikh (Miarso dialect),713,бакъащи,CyrillTrans,steal,,,baqʼaš̄i,Phonemic
+21-520-501-1,botl1242,Botlikh (Miarso dialect),1160,цІогьор,CyrillTrans,thief,,,cʼohor,Phonemic
+22-110-501-1,botl1242,Botlikh (Miarso dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-501-1,botl1242,Botlikh (Miarso dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-501-1,botl1242,Botlikh (Miarso dialect),911,машка,CyrillTrans,"temple, church",,,"maška, kilisa",Phonemic
+22-130-501-3,botl1242,Botlikh (Miarso dialect),911,килиса,CyrillTrans,"temple, church",,,"maška, kilisa",Phonemic
+22-140-501-1,botl1242,Botlikh (Miarso dialect),853,мигьмар,CyrillTrans,altar,,,mihmar,Phonemic
+22-150-501-1,botl1242,Botlikh (Miarso dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-501-1,botl1242,Botlikh (Miarso dialect),257,никІи,CyrillTrans,worship,,,"nikʼi, Allahašuy mukʼuriɬi",Phonemic
+22-160-501-3,botl1242,Botlikh (Miarso dialect),257,Аллагьашуй мукІурилъи,CyrillTrans,worship,,,"nikʼi, Allahašuy mukʼuriɬi",Phonemic
+22-170-501-1,botl1242,Botlikh (Miarso dialect),24,коди,CyrillTrans,pray,,,kodi,Phonemic
+22-180-501-1,botl1242,Botlikh (Miarso dialect),852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-501-1,botl1242,Botlikh (Miarso dialect),1702,илагьийаб,CyrillTrans,"holy, sacred",,,ilahiyab,Phonemic
+22-220-501-1,botl1242,Botlikh (Miarso dialect),304,дин тІибитІи,CyrillTrans,preach,,,"din tʼibitʼi, waʕza ihi",Phonemic
+22-220-501-3,botl1242,Botlikh (Miarso dialect),304,вагІза игьи,CyrillTrans,preach,,,"din tʼibitʼi, waʕza ihi",Phonemic
+22-230-501-1,botl1242,Botlikh (Miarso dialect),391,къабул игьи,CyrillTrans,bless,,,qʼabul ihi,Phonemic
+22-240-501-1,botl1242,Botlikh (Miarso dialect),8,кІкІандалъи,CyrillTrans,curse,,,k̄ʼandaɬi,Phonemic
+22-260-501-1,botl1242,Botlikh (Miarso dialect),303,гъели рикки,CyrillTrans,fast (vb),,,ɣeli rik̄ʲi,Phonemic
+22-310-501-1,botl1242,Botlikh (Miarso dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-501-1,botl1242,Botlikh (Miarso dialect),878,жужахІ,CyrillTrans,hell,,,žužaħ,Phonemic
+22-350-501-1,botl1242,Botlikh (Miarso dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šayitʼan",Phonemic
+22-350-501-3,botl1242,Botlikh (Miarso dialect),1973,шайтІан,CyrillTrans,demon (evil spirit),,,"ilbis, šayitʼan",Phonemic
+22-370-501-1,botl1242,Botlikh (Miarso dialect),1945,хъанч,CyrillTrans,idol,,,qanč,Phonemic
+22-420-501-1,botl1242,Botlikh (Miarso dialect),392,сихІрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-420-501-3,botl1242,Botlikh (Miarso dialect),392,макрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-430-501-1,botl1242,Botlikh (Miarso dialect),2137,хъартай,CyrillTrans,"sorcerer, witch",,,qartay,Phonemic
+22-440-501-1,botl1242,Botlikh (Miarso dialect),2138,хІурулгІин,CyrillTrans,"fairy, elf",,,ħurulʕin,Phonemic
+22-450-501-1,botl1242,Botlikh (Miarso dialect),1175,вио адамилъи рухІ,CyrillTrans,"ghost, phantom",,,wio adamiɬi ruħ,Phonemic
+22-470-501-1,botl1242,Botlikh (Miarso dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

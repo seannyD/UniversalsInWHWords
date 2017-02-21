@@ -343,6 +343,9 @@ runRandomPermutation_Domain = function(Randomwordlist2, permName,firstSegment=F,
 
 selectRandomIndependentSample = function(wordList,strat,limit=ncol(wordList)){
 	x = wordList[,tapply(1:ncol(wordList),strat,sample,size=1)]
+	#if(is.null(dim(x))){
+	#  x = matrix(x, nrow=1)
+	#}
 	# out of this list, return 'limit' x languages
 	return(x[,sample(1:ncol(x),size=limit)])
 }

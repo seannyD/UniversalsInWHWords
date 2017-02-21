@@ -11,46 +11,46 @@ Alldata<-read.csv("Alldata.csv", stringsAsFactors=F, fileEncoding='utf-8')
 
 
 # Elamite_Phonemic is actually multiple languages
+# (redundant since we're not including this langauge)
+# el = Alldata[Alldata$Language=="Elamite_Phonemic" & !is.na(Alldata$Language),]
+# el = el[nchar(el$word)>0,]
+# 
+# 
+# Alldata = Alldata[Alldata$Language!="Elamite_Phonemic" & !is.na(Alldata$Language),]
+# 
+# 
+# el.split = data.frame()
+# for(i in 1:nrow(el)){
+# 	elx = el[i,]
+# 	wx = elx$word
+# 	if(sum(grepl("\\:",wx))>0){
+# 		wx = strsplit(wx,":")[[1]][2]
+# 	} 
+# 	wx = gsub(',','',wx)
+# 	wxs = strsplit(wx,";")[[1]]
+# 	langs = c("")
+# 	for(j in 1:length(wxs)){
+# 		
+# 		langs = c("OE",'ME',"AchE",'NE')[sapply(c("OE",'ME',"AchE",'NE'), function(X){grepl(X,wxs[j])})]
+# 				
+# 		bits = strsplit(wxs[j],' ')[[1]]
+# 		bits = bits[nchar(bits)>0]
+# 		#form = bits[length(bits)]
+# 		
+# 		for(k in 1:(length(bits))){
+# 			if(!bits[k]%in% c("OE",'ME',"AchE",'NE')){
+# 				form = bits[k]
+# 				for(lang in langs){
+# 				el.split = rbind(el.split,elx)
+# 				el.split[nrow(el.split),]$word = form
+# 				el.split[nrow(el.split),]$Language = paste("Elamite_Phonemic",lang)
+# 				}
+# 			}
+# 		}
+# 	}
+# }
 
-el = Alldata[Alldata$Language=="Elamite_Phonemic" & !is.na(Alldata$Language),]
-el = el[nchar(el$word)>0,]
-
-
-Alldata = Alldata[Alldata$Language!="Elamite_Phonemic" & !is.na(Alldata$Language),]
-
-
-el.split = data.frame()
-for(i in 1:nrow(el)){
-	elx = el[i,]
-	wx = elx$word
-	if(sum(grepl("\\:",wx))>0){
-		wx = strsplit(wx,":")[[1]][2]
-	} 
-	wx = gsub(',','',wx)
-	wxs = strsplit(wx,";")[[1]]
-	langs = c("")
-	for(j in 1:length(wxs)){
-		
-		langs = c("OE",'ME',"AchE",'NE')[sapply(c("OE",'ME',"AchE",'NE'), function(X){grepl(X,wxs[j])})]
-				
-		bits = strsplit(wxs[j],' ')[[1]]
-		bits = bits[nchar(bits)>0]
-		#form = bits[length(bits)]
-		
-		for(k in 1:(length(bits))){
-			if(!bits[k]%in% c("OE",'ME',"AchE",'NE')){
-				form = bits[k]
-				for(lang in langs){
-				el.split = rbind(el.split,elx)
-				el.split[nrow(el.split),]$word = form
-				el.split[nrow(el.split),]$Language = paste("Elamite_Phonemic",lang)
-				}
-			}
-		}
-	}
-}
-
-Alldata = rbind(Alldata,el.split)
+#Alldata = rbind(Alldata,el.split)
 
 
 Alldata$word[Alldata$word=='Unidentifiable'] = ""
@@ -93,7 +93,7 @@ Alldata$word.clean[Alldata$language_pk %in% whwords] = gsub("\\?$","",Alldata$wo
 Alldata$word.clean[Alldata$language_pk %in% whwords] = gsub("\\?$","",Alldata$word.clean[Alldata$language_pk %in% whwords])
 
 # some entries use "?" as a splitter for alternatives
-sep.langs = c("Chorote_Phonemic","Chinese","English", "Bantu","Proto-Austroasiatic","Modern Mon") # these langs should not be affected be the following rule
+sep.langs = c("Chinese", "Bantu","Proto-Austroasiatic","Modern Mon") # these langs should not be affected be the following rule
 Alldata$word.clean[!Alldata$Language %in% sep.langs] = gsub("\\? ",'; ' ,Alldata$word.clean[!Alldata$Language %in% sep.langs])
 
 # multiple ?
@@ -119,7 +119,7 @@ Alldata$word.clean = gsub("\\?","",Alldata$word.clean)
 
 Alldata[Alldata$Language=="Kotgarhi",]$word.clean = gsub("\\|","",Alldata[Alldata$Language=="Kotgarhi",]$word.clean)
 
-Alldata[Alldata$Language=="Shan_Dialect_Northern_Shan_Phonemic",]$word.clean = gsub("\\|\\|","; ",Alldata[Alldata$Language=="Shan_Dialect_Northern_Shan_Phonemic",]$word.clean)
+Alldata[Alldata$Language=="Shan (Northern Shan dialect)",]$word.clean = gsub("\\|\\|","; ",Alldata[Alldata$Language=="Shan (Northern Shan dialect)",]$word.clean)
 
 
 
@@ -145,7 +145,7 @@ Alldata[Alldata$word.clean=="buvol[buvol]",]$word.clean = 'buvol'
 if('WC[vece]' %in% Alldata$word.clean){
   Alldata[Alldata$word.clean=='WC[vece]',]$word.clean = 'vece'
 }
-Alldata[Alldata$Language=='Karajá_Phonemic' & Alldata$word=="rora ['visit' ?]",]$word.clean = "rora"
+Alldata[Alldata$Language=='Karajá' & Alldata$word=="rora ['visit' ?]",]$word.clean = "rora"
 
 # remove stuff between square brackets
 Alldata$word.clean = gsub("\\[[^\\]]+\\]","",Alldata$word.clean,perl=TRUE)
@@ -153,9 +153,16 @@ Alldata$word.clean = gsub("\\[[^\\]]+\\]","",Alldata$word.clean,perl=TRUE)
 # for russian, remove stuff between round brackets
 Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean = gsub("\\([^\\)]+\\)","",Alldata[Alldata$Language=='Russian' & !is.na(Alldata$Language),]$word.clean,perl=TRUE)
 
-Alldata[grepl("[дивкнчшкл]",Alldata$word.clean),]$word.clean = ""
+#Alldata[grepl("[дивкнчшкл]",Alldata$word.clean),]$word.clean = ""
 
-Alldata[grepl("[ъыьҍю]",Alldata$word.clean),]$word.clean = ""
+#Alldata[grepl("[ъыьҍю]",Alldata$word.clean),]$word.clean = ""
+
+# Remove stuff between brackets for Chinese
+Alldata[Alldata$Language=='Chinese' & !is.na(Alldata$Language),]$word.clean = gsub("\\([^\\)]+\\)","",Alldata[Alldata$Language=='Chinese' & !is.na(Alldata$Language),]$word.clean,perl=TRUE)
+
+# Chinese characters need to be removed, but we don't end up using Chinese anyway so cut it out here
+Alldata = Alldata[Alldata$Language!="Chinese",]
+
 
 # remove round bracket characters
 Alldata$word.clean = gsub("\\(","",Alldata$word.clean)
@@ -234,15 +241,13 @@ Alldata$word.simple = sapply(strsplit(Alldata$word.simple,''), function(X){
 
 
 # remove cyrilyc characters in Bulgarian
-to.take.away = Alldata[Alldata$Language=='Bulgarian' & !is.na(Alldata$Language),][1:24,]$X
-
-Alldata[Alldata$X %in% to.take.away,]$word.clean = ""
-Alldata[Alldata$X %in% to.take.away,]$word.simple = ""
+#to.take.away = Alldata[Alldata$Language=='Bulgarian' & !is.na(Alldata$Language),][1:24,]$X
+#Alldata[Alldata$X %in% to.take.away,]$word.clean = ""
+#Alldata[Alldata$X %in% to.take.away,]$word.simple = ""
 
 # Macedonian only has cyrillic entries
-Alldata[Alldata$Language=='Macedonian' & !is.na(Alldata$Language),]$word.clean = ''
-
-Alldata[Alldata$Language=='Macedonian' & !is.na(Alldata$Language),]$word.simple = ''
+#Alldata[Alldata$Language=='Macedonian' & !is.na(Alldata$Language),]$word.clean = ''
+#Alldata[Alldata$Language=='Macedonian' & !is.na(Alldata$Language),]$word.simple = ''
 
 
 unique.chars = sort(unique(unlist(strsplit(Alldata$word.simple,''))))
@@ -301,6 +306,7 @@ Alldata$word.simple = gsub(";$","",Alldata$word.simple)
 #
 #Alldata = rbind(Alldata,extraData)
 
+Alldata = Alldata[nchar(Alldata$word)>0,]
 
 Alldata$language_pk = as.numeric(Alldata$language_pk)
 
@@ -314,12 +320,24 @@ number.of.ids = tapply(meaning.ids,names(meaning.ids),function(X){length(unique(
 
 # Some meanings have multiple ids
 m.error = number.of.ids[number.of.ids>1]
+
+# for(i in names(m.error)){
+#   print(i)
+#   x = table(Alldata[Alldata$meaning==i,]$language_pk)
+#   print(x)
+#   print(table(Alldata[Alldata$language_pk==names(x)[1],]$meaning))
+#   print("--")
+#   print(table(Alldata[Alldata$language_pk==names(x)[2],]$meaning))
+# }
+
 # This is actually intended for some words
-m.error = m.error[!names(m.error) %in% c('fork','knife','mortar','sow',"Easter")]
+m.error = m.error[!names(m.error) %in% c('fork','knife','mortar','sow',"Easter",'clay',"country",'cousin','divide','dye','hay','netbag','ox','pick up','queen','spade','spring','stove','trough')]
+
+
 
 Alldata$meaning.id.fixed = Alldata$language_pk
 
-try(Alldata[!is.na(Alldata$meaning) & !is.na(Alldata$language_pk) & Alldata$meaning=="Easter" & Alldata$language_pk==4.15,]$meaning.id <- 22.99903)
+#try(Alldata[!is.na(Alldata$meaning) & !is.na(Alldata$language_pk) & Alldata$meaning=="Easter" & Alldata$language_pk==4.15,]$meaning.id <- 22.99903)
 
 #fix odd meanings
 for(mx in names(m.error)){
@@ -340,12 +358,13 @@ for(mx in names(m.error)){
 
 meaning.ids = Alldata[nchar(Alldata$meaning)>0 & !is.na(Alldata$language_pk),]$meaning.id.fixed
 names(meaning.ids) = Alldata[nchar(Alldata$meaning)>0 & !is.na(Alldata$meaning.id.fixed),]$meaning
+number.of.ids = tapply(meaning.ids,names(meaning.ids),function(X){length(unique(X))})
+
 # Try to find missing meaning ids
 # (only use meanings with a single meaning id associated with it)
-single.meanings = meaning.ids[names(number.of.ids[number.of.ids==1])]
-
-choicex = is.na(Alldata$meaning.id.fixed) & !is.na(Alldata$meaning) & nchar(Alldata$meaning)>0
-Alldata[choicex,]$meaning.id.fixed = single.meanings[Alldata[choicex,]$meaning]
+#single.meanings = meaning.ids[names(number.of.ids[number.of.ids==1])]
+#choicex = is.na(Alldata$meaning.id.fixed) & !is.na(Alldata$meaning) & nchar(Alldata$meaning)>0
+#Alldata[choicex,]$meaning.id.fixed = single.meanings[Alldata[choicex,]$meaning]
 
 
 # change column name!
@@ -355,9 +374,13 @@ Alldata = Alldata[,!names(Alldata) %in% c("X.1","X")]
 
 Alldata$glotto = gsub(" ","",Alldata$glotto)
 
-Alldata[Alldata$glotto=='noot1239' & !is.na(Alldata$glotto),]$glotto = "noot1238"
-try(Alldata[Alldata$glotto=='tzot1264'& !is.na(Alldata$glotto),]$glotto <- "tzot1259")
-Alldata[Alldata$Language=='Selice Romani'& !is.na(Alldata$Language),]$glotto = "west2376"
+Alldata[Alldata$Language =="Hindi  ",]$Language= "Hindi"
+#Alldata[Alldata$glotto=='noot1239' & !is.na(Alldata$glotto),]$glotto = "noot1238"
+#try(Alldata[Alldata$glotto=='tzot1264'& !is.na(Alldata$glotto),]$glotto <- "tzot1259")
+#Alldata[Alldata$Language=='Selice Romani'& !is.na(Alldata$Language),]$glotto = "west2376"
+
+
+Alldata[Alldata$Language=="Ese Ejja (Huarayo)",]$Language = "Ese Ejja"
 
 # write data
 write.csv(Alldata, file='../CleanedAndSimplifiedData/Alldata_simple.csv', fileEncoding='utf-8', row.names=F)

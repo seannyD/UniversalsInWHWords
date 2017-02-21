@@ -1,0 +1,1343 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-80-1,udii1243,Udi,1852,усун-усун,CyrillTrans,often,,,usun-usun,Phonemic
+14-310-80-1,udii1243,Udi,1676,гьаьмишаь,CyrillTrans,always,,,hämišä,Phonemic
+14-290-80-1,udii1243,Udi,790,гьаьзир,CyrillTrans,ready,,,häzir,Phonemic
+14-280-80-1,udii1243,Udi,1928,чурпесун,CyrillTrans,"cease, stop",,,čurpesun,Phonemic
+14-270-80-1,udii1243,Udi,1766,марцевкІсун,CyrillTrans,finish,,,marcevk̄sun,Phonemic
+14-260-80-1,udii1243,Udi,743,марцесун,CyrillTrans,end (temporal),,,marcesun,Phonemic
+14-252-80-1,udii1243,Udi,1186,тайсун,CyrillTrans,"last, endure",,,taysun,Phonemic
+14-250-80-1,udii1243,Udi,1806,бурхъсун,CyrillTrans,"begin, beginning",,,burqsun,Phonemic
+14-230-80-1,udii1243,Udi,754,капсун,CyrillTrans,"hasten, hurry",,,kapsun,Phonemic
+14-220-80-1,udii1243,Udi,701,йаваш,CyrillTrans,slow,,,yavaš,Phonemic
+14-210-80-1,udii1243,Udi,1631,усум,CyrillTrans,"swift, fast, quick",,,usum,Phonemic
+14-190-80-1,udii1243,Udi,1963,иса,CyrillTrans,immediately,,,isa,Phonemic
+14-180-80-1,udii1243,Udi,1376,исаь,CyrillTrans,now,,,isä,Phonemic
+14-170-80-1,udii1243,Udi,477,чаьйи,CyrillTrans,late,,,čäyi,Phonemic
+14-160-80-1,udii1243,Udi,672,дах,CyrillTrans,early,,,dax,Phonemic
+14-150-80-1,udii1243,Udi,1229,биси,CyrillTrans,old,,,bisi,Phonemic
+14-140-80-1,udii1243,Udi,1207,джаьйил,CyrillTrans,young,,,ǯayil,Phonemic
+14-120-80-1,udii1243,Udi,1789,йаьш,CyrillTrans,age,,,"yäš, döʔör",Phonemic
+14-120-80-3,udii1243,Udi,1789,доьоьр,CyrillTrans,age,,,"yäš, döʔör",Phonemic
+14-130-80-1,udii1243,Udi,1231,таьзаь,CyrillTrans,new,,,t̄äz̈a,Phonemic
+14-110-80-1,udii1243,Udi,892,вахтІ,CyrillTrans,time,,,"vaxt̄, vädä, döʔör",Phonemic
+14-110-80-3,udii1243,Udi,892,ваьдаь,CyrillTrans,time,,,"vaxt̄, vädä, döʔör",Phonemic
+14-110-80-5,udii1243,Udi,892,доьоьр,CyrillTrans,time,,,"vaxt̄, vädä, döʔör",Phonemic
+13-440-80-1,udii1243,Udi,417,хибкаьраьн,CyrillTrans,three times,,,xibkärän,Phonemic
+13-420-80-1,udii1243,Udi,1859,хибимджи,CyrillTrans,third,,,xibimǯi,Phonemic
+13-380-80-1,udii1243,Udi,1546,пІаъкаьраьн,CyrillTrans,two times,,,p̄aˤkärän,Phonemic
+13-370-80-1,udii1243,Udi,1888,къоша,CyrillTrans,pair,,,q̄oša,Phonemic
+13-360-80-1,udii1243,Udi,1384,пІаъмджи,CyrillTrans,second,,,p̄aˤmǯi,Phonemic
+13-350-80-1,udii1243,Udi,1529,ахырымджи,CyrillTrans,last,,,axɨrɨmǯi,Phonemic
+13-340-80-1,udii1243,Udi,728,самджу,CyrillTrans,first,,,samǯu,Phonemic
+13-330-80-1,udii1243,Udi,1580,са,CyrillTrans,"alone, only",,,sa,Phonemic
+13-240-80-1,udii1243,Udi,816,хъиъ,CyrillTrans,half,,,qiˤ,Phonemic
+13-230-80-1,udii1243,Udi,779,пай,CyrillTrans,"part, piece",,,pay,Phonemic
+13-220-80-1,udii1243,Udi,1624,амцІи,CyrillTrans,empty,,,amc̄i,Phonemic
+13-210-80-1,udii1243,Udi,1429,буй,CyrillTrans,full,,,buy,Phonemic
+13-190-80-1,udii1243,Udi,2023,геле,CyrillTrans,"multitude, crowd",,,gele,Phonemic
+13-181-80-1,udii1243,Udi,1241,сагьема,CyrillTrans,some,,,sahema,Phonemic
+13-170-80-1,udii1243,Udi,1242,мал,CyrillTrans,"little (quantity), few",,,mal,Phonemic
+13-180-80-1,udii1243,Udi,1881,хейлаьк,CyrillTrans,enough,,,xeyläk,Phonemic
+13-160-80-1,udii1243,Udi,1992,авуз,CyrillTrans,more,,,avuz,Phonemic
+13-150-80-1,udii1243,Udi,1198,геле,CyrillTrans,"much, many",,,gele,Phonemic
+13-140-80-1,udii1243,Udi,98,буьтуьм,CyrillTrans,"every, all",,,bütüm,Phonemic
+13-107-80-1,udii1243,Udi,1420,боъкъаълбсун,CyrillTrans,count,,,"boˤq̄aˤlbsun, hesabbsun",Phonemic
+13-107-80-3,udii1243,Udi,1420,гьесаббсун,CyrillTrans,count,,,"boˤq̄aˤlbsun, hesabbsun",Phonemic
+13-106-80-1,udii1243,Udi,1843,гьазар,CyrillTrans,thousand,,,hazar,Phonemic
+13-105-80-1,udii1243,Udi,1634,бач̍,CyrillTrans,hundred,,,bačﬁ,Phonemic
+13-104-80-1,udii1243,Udi,1710,къа,CyrillTrans,twenty,,,q̄a,Phonemic
+13-103-80-1,udii1243,Udi,1709,хъоцІцІе,CyrillTrans,fifteen,,,qoc̄с̄e,Phonemic
+13-102-80-1,udii1243,Udi,1707,пІацІцІе,CyrillTrans,twelve,,,p̄ac̄с̄e,Phonemic
+13-101-80-1,udii1243,Udi,1706,сацІцІе,CyrillTrans,eleven,,,sac̄с̄e,Phonemic
+13-100-80-1,udii1243,Udi,1515,вицІ,CyrillTrans,ten,,,vic̄,Phonemic
+13-90-80-1,udii1243,Udi,1483,вуй,CyrillTrans,nine,,,vuy,Phonemic
+13-80-80-1,udii1243,Udi,1705,мугъ,CyrillTrans,eight,,,muɣ,Phonemic
+13-70-80-1,udii1243,Udi,1704,вуъгъ,CyrillTrans,seven,,,vuˤɣ,Phonemic
+13-60-80-1,udii1243,Udi,1703,уъхъ,CyrillTrans,six,,,uˤq,Phonemic
+13-50-80-1,udii1243,Udi,493,хъо,CyrillTrans,five,,,qo,Phonemic
+13-40-80-1,udii1243,Udi,1500,бипІ,CyrillTrans,four,,,bip̄,Phonemic
+13-20-80-1,udii1243,Udi,1498,пІаъ,CyrillTrans,two,,,p̄aˤ,Phonemic
+13-30-80-1,udii1243,Udi,492,хиб,CyrillTrans,three,,,xib,Phonemic
+13-10-80-1,udii1243,Udi,1493,са,CyrillTrans,one,,,sa,Phonemic
+13-0-80-1,udii1243,Udi,1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-80-1,udii1243,Udi,1264,бадалбсун,CyrillTrans,change,,,badalbsun,Phonemic
+12-920-80-1,udii1243,Udi,1558,охшар,CyrillTrans,"like, similar",,,oxšar,Phonemic
+12-840-80-1,udii1243,Udi,1048,гицІ,CyrillTrans,line,,,gic̄,Phonemic
+12-850-80-1,udii1243,Udi,1667,деший,CyrillTrans,hole,,,dešiy,Phonemic
+12-830-80-1,udii1243,Udi,1845,ккуьндаь,CyrillTrans,"sphere, ball",,,k̄ündä,Phonemic
+12-810-80-1,udii1243,Udi,1395,кІанкІорой,CyrillTrans,round,,,k̄ak̄oroy,Phonemic
+12-820-80-1,udii1243,Udi,1467,гьаьраьмаь,CyrillTrans,circle,,,härämä,Phonemic
+12-780-80-1,udii1243,Udi,850,сотІукІ,CyrillTrans,square,,,sot̄uk̄,Phonemic
+12-770-80-1,udii1243,Udi,1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-80-1,udii1243,Udi,192,куьндз,CyrillTrans,corner,,,künʒ,Phonemic
+12-750-80-1,udii1243,Udi,1071,тІогъанакъ,CyrillTrans,hook,,,t̄oɣanaq̄,Phonemic
+12-740-80-1,udii1243,Udi,297,кІори,CyrillTrans,crooked,,,k̄ori,Phonemic
+12-730-80-1,udii1243,Udi,1404,дуьз,CyrillTrans,straight,,,düz,Phonemic
+12-710-80-1,udii1243,Udi,1633,гьанд,CyrillTrans,flat,,,hand,Phonemic
+12-680-80-1,udii1243,Udi,193,дайаз,CyrillTrans,shallow,,,dayaz,Phonemic
+12-670-80-1,udii1243,Udi,1593,баъгъаълой,CyrillTrans,deep,,,bаˤɣaˤloy,Phonemic
+12-650-80-1,udii1243,Udi,2249,наьзик,CyrillTrans,thin (in dimension),,,näzik,Phonemic
+12-630-80-1,udii1243,Udi,1244,гъуй,CyrillTrans,thick (in dimension),,,ɣuy,Phonemic
+12-620-80-1,udii1243,Udi,1267,къачІ,CyrillTrans,narrow,,,q̄ač̄,Phonemic
+12-610-80-1,udii1243,Udi,1243,генг,CyrillTrans,"wide, broad",,,geng,Phonemic
+12-590-80-1,udii1243,Udi,1645,гоьдаьй,CyrillTrans,short,,,gödäy,Phonemic
+12-580-80-1,udii1243,Udi,711,аллой,CyrillTrans,tall,,,alloy,Phonemic
+12-570-80-1,udii1243,Udi,1203,бохой,CyrillTrans,long,,,boxoy,Phonemic
+12-560-80-1,udii1243,Udi,1246,мицІикІ,CyrillTrans,"small, little",,,mic̄ik̄,Phonemic
+12-550-80-1,udii1243,Udi,1202,кала,CyrillTrans,"large, big",,,kala,Phonemic
+12-541-80-1,udii1243,Udi,81,джи,CyrillTrans,"span, fathom",,,ǯi,Phonemic
+12-540-80-1,udii1243,Udi,1506,ускІсун,CyrillTrans,measure,,,usk̄sun,Phonemic
+12-530-80-1,udii1243,Udi,479,калабаксун,CyrillTrans,grow,,,kalаbaksun,Phonemic
+12-480-80-1,udii1243,Udi,1595,цина,CyrillTrans,south,,,cina,Phonemic
+12-470-80-1,udii1243,Udi,1598,алин,CyrillTrans,north,,,alin,Phonemic
+12-460-80-1,udii1243,Udi,1817,беъгъбаткІал,CyrillTrans,west,,,beˤɣbatk̄al,Phonemic
+12-450-80-1,udii1243,Udi,1877,беъгъчІегъал,CyrillTrans,east,,,beˤɣč̄eɣal,Phonemic
+12-430-80-1,udii1243,Udi,1942,тІоъгъ(оъл),CyrillTrans,near (adv),,,t̄oˤɣ(oˤl),Phonemic
+12-440-80-1,udii1243,Udi,1406,аъхиъл,CyrillTrans,far (adv),,,aˤxiˤl,Phonemic
+12-420-80-1,udii1243,Udi,244,дзах,CyrillTrans,left (side),,,ʒax,Phonemic
+12-410-80-1,udii1243,Udi,1019,ача,CyrillTrans,right (side),,,ača,Phonemic
+12-370-80-1,udii1243,Udi,1093,ара,CyrillTrans,"middle, center",,,ara,Phonemic
+12-360-80-1,udii1243,Udi,682,аъм,CyrillTrans,side,,,aˤm,Phonemic
+12-353-80-1,udii1243,Udi,863,тІогъ,CyrillTrans,edge,,,t̄oɣ,Phonemic
+12-352-80-1,udii1243,Udi,372,гъаин,CyrillTrans,pointed,,,"ɣain, ɣayn",Phonemic
+12-352-80-3,udii1243,Udi,372,гъайн,CyrillTrans,pointed,,,"ɣain, ɣayn",Phonemic
+12-350-80-1,udii1243,Udi,742,ахыр,CyrillTrans,end,,,axɨr,Phonemic
+12-340-80-1,udii1243,Udi,690,тум,CyrillTrans,bottom,,,tum,Phonemic
+12-320-80-1,udii1243,Udi,721,окъалу,CyrillTrans,low,,,oq̄alu,Phonemic
+12-330-80-1,udii1243,Udi,1753,бурух,CyrillTrans,top,,,burux,Phonemic
+12-310-80-1,udii1243,Udi,1265,аллой,CyrillTrans,high,,,alloy,Phonemic
+12-270-80-1,udii1243,Udi,602,чІапІсун,CyrillTrans,"hide, conceal",,,č̄ap̄sun,Phonemic
+12-250-80-1,udii1243,Udi,1046,бутІкІсун,CyrillTrans,"shut, close",,,but̄k̄sun,Phonemic
+12-260-80-1,udii1243,Udi,761,бутІксун,CyrillTrans,cover,,,but̄ksun,Phonemic
+12-240-80-1,udii1243,Udi,1156,хъайпсун,CyrillTrans,open,,,qaypsun,Phonemic
+12-232-80-1,udii1243,Udi,1119,джойбсун,CyrillTrans,divide,,,ǯoybsun,Phonemic
+12-230-80-1,udii1243,Udi,1359,чуксун,CyrillTrans,separate,,,čuksun,Phonemic
+12-220-80-1,udii1243,Udi,1743,баьндбаксун,CyrillTrans,"join, unite",,,bändbaksun,Phonemic
+12-213-80-1,udii1243,Udi,1576,мархалбесун,CyrillTrans,pile up,,,marxalbesun,Phonemic
+12-212-80-1,udii1243,Udi,371,айзесун,CyrillTrans,pick up,,,ayzesun,Phonemic
+12-210-80-1,udii1243,Udi,7,гьаъвкІсун,CyrillTrans,"collect, gather",,,"haˤvk̄sun, girbsun",Phonemic
+12-210-80-3,udii1243,Udi,7,гирбсун,CyrillTrans,"collect, gather",,,"haˤvk̄sun, girbsun",Phonemic
+12-170-80-1,udii1243,Udi,838,манди,CyrillTrans,"remains, left overs",,,mandi,Phonemic
+12-160-80-1,udii1243,Udi,987,манстІун,CyrillTrans,"remain, stay",,,manst̄un,Phonemic
+12-150-80-1,udii1243,Udi,1442,чурпсун,CyrillTrans,stand,,,čurpsun,Phonemic
+12-140-80-1,udii1243,Udi,215,баскІсун,CyrillTrans,lie down,,,bask̄sun,Phonemic
+12-130-80-1,udii1243,Udi,1416,арстІун,CyrillTrans,sit,,,arct̄sun,Phonemic
+12-120-80-1,udii1243,Udi,998,лахсун,CyrillTrans,put,,,laxsun,Phonemic
+12-110-80-1,udii1243,Udi,723,га,CyrillTrans,place,,,ga,Phonemic
+12-80-80-1,udii1243,Udi,1591,лoхол,CyrillTrans,"up, above",,,loxol,Phonemic
+12-70-80-1,udii1243,Udi,1485,окъа,CyrillTrans,under,,,oq̄a,Phonemic
+12-60-80-1,udii1243,Udi,762,чІоьш,CyrillTrans,outside,,,c̄oš,Phonemic
+12-50-80-1,udii1243,Udi,1606,бош,CyrillTrans,"inside, in",,,boš,Phonemic
+12-41-80-1,udii1243,Udi,1883,беъшІ,CyrillTrans,front,,,beˤšﬁ,Phonemic
+12-40-80-1,udii1243,Udi,1882,беъшІ,CyrillTrans,before,,,"beˤšﬁ, c̄iri",Phonemic
+12-40-80-3,udii1243,Udi,1882,цІири,CyrillTrans,before,,,"beˤšﬁ, c̄iri",Phonemic
+12-30-80-1,udii1243,Udi,2094,булокъа,CyrillTrans,"down, below",,,buloq̄a,Phonemic
+12-20-80-1,udii1243,Udi,1816,тІоъгъ(оъл),CyrillTrans,beside,,,t̄oˤɣ(oˤl),Phonemic
+12-11-80-1,udii1243,Udi,1686,хъош,CyrillTrans,behind,,,q̄oš,Phonemic
+12-10-80-1,udii1243,Udi,1685,оша,CyrillTrans,after,,,oša,Phonemic
+11-920-80-1,udii1243,Udi,1098,айзапІсун,CyrillTrans,weigh,,,ayzap̄sun,Phonemic
+11-910-80-1,udii1243,Udi,884,пайбсун,CyrillTrans,share (distribute),,,paybsun,Phonemic
+11-890-80-1,udii1243,Udi,1887,уджур,CyrillTrans,cheap,,,uǯur,Phonemic
+11-880-80-1,udii1243,Udi,1426,тойехлу,CyrillTrans,"dear (costly, expensive)",,,toyexlu,Phonemic
+11-870-80-1,udii1243,Udi,657,той,CyrillTrans,price,,,toy,Phonemic
+11-860-80-1,udii1243,Udi,752,дуькаьн,CyrillTrans,"store, shop",,,dükän,Phonemic
+11-850-80-1,udii1243,Udi,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-80-1,udii1243,Udi,1082,алверчи,CyrillTrans,merchant,,,alverči,Phonemic
+11-830-80-1,udii1243,Udi,2135,алвер,CyrillTrans,"trade, barter",,,alver,Phonemic
+11-820-80-1,udii1243,Udi,1571,тойстІун,CyrillTrans,sell,,,toyst̄un,Phonemic
+11-810-80-1,udii1243,Udi,1869,гьакъсун,CyrillTrans,buy,,,haq̄sun,Phonemic
+11-790-80-1,udii1243,Udi,733,къазаншсун,CyrillTrans,earn,,,q̄azanšsun,Phonemic
+11-780-80-1,udii1243,Udi,1122,къазандж,CyrillTrans,wages,,,q̄azanǯ,Phonemic
+11-690-80-1,udii1243,Udi,873,верди,CyrillTrans,"tax, tribute",,,"verdi, naluk",Phonemic
+11-690-80-3,udii1243,Udi,873,налук,CyrillTrans,"tax, tribute",,,"verdi, naluk",Phonemic
+11-660-80-1,udii1243,Udi,1081,гьесаб,CyrillTrans,"account, reckoning",,,hesab,Phonemic
+11-650-80-1,udii1243,Udi,718,пул тІастІун,CyrillTrans,pay (vb),,,pul t̄ast̄un,Phonemic
+11-640-80-1,udii1243,Udi,1914,бордж,CyrillTrans,debt,,,borǯ,Phonemic
+11-630-80-1,udii1243,Udi,369,борджбесун,CyrillTrans,owe,,,borǯbesun,Phonemic
+11-620-80-1,udii1243,Udi,1823,борджакъсун,CyrillTrans,borrow,,,borǯaq̄sun,Phonemic
+11-610-80-1,udii1243,Udi,582,бордж тІастІун,CyrillTrans,lend,,,borǯ t̄ast̄un,Phonemic
+11-540-80-1,udii1243,Udi,1774,къырчи,CyrillTrans,"avaricious, stingy",,,q̄ɨrči,Phonemic
+11-530-80-1,udii1243,Udi,1934,бесало,CyrillTrans,beggar,,,besalo,Phonemic
+11-520-80-1,udii1243,Udi,1674,горох,CyrillTrans,poor,,,gorox,Phonemic
+11-510-80-1,udii1243,Udi,712,доьйлатьлу,CyrillTrans,rich,,,"döylätlu, tangälä",Phonemic
+11-510-80-3,udii1243,Udi,712,тангаьлаь,CyrillTrans,rich,,,"döylätlu, tangälä",Phonemic
+11-440-80-1,udii1243,Udi,1867,таьнгаь,CyrillTrans,coin,,,tägkä,Phonemic
+11-430-80-1,udii1243,Udi,1559,таьнгаь,CyrillTrans,money,,,tägkä,Phonemic
+11-340-80-1,udii1243,Udi,1095,бартсун,CyrillTrans,"release, let go",,,bartsun,Phonemic
+11-330-80-1,udii1243,Udi,1660,ач̍сун,CyrillTrans,lose,,,ac̄ﬁsun,Phonemic
+11-320-80-1,udii1243,Udi,719,баъгъаъпсун,CyrillTrans,find,,,baˤɣaˤpsun,Phonemic
+11-310-80-1,udii1243,Udi,1468,хъаъвеъсун,CyrillTrans,"seek, look for",,,q̄aˤveˤsun,Phonemic
+11-280-80-1,udii1243,Udi,44,заьраьл бесун,CyrillTrans,"harm, injure, damage",,,zäräl besun,Phonemic
+11-270-80-1,udii1243,Udi,681,царпсун,CyrillTrans,destroy,,,carpsun,Phonemic
+11-250-80-1,udii1243,Udi,2008,чаьркІестІун,CyrillTrans,"save, rescue",,,čark̄est̄un,Phonemic
+11-240-80-1,udii1243,Udi,1997,ефсун,CyrillTrans,"preserve, look after",,,efsun,Phonemic
+11-220-80-1,udii1243,Udi,85,хъайбсун,CyrillTrans,give back,,,qaybsun,Phonemic
+11-210-80-1,udii1243,Udi,1447,тІастІун,CyrillTrans,give,,,t̄ast̄un,Phonemic
+11-180-80-1,udii1243,Udi,738,шей,CyrillTrans,thing,,,šey,Phonemic
+11-170-80-1,udii1243,Udi,1477,ефсун,CyrillTrans,"keep, retain",,,efsun,Phonemic
+11-160-80-1,udii1243,Udi,694,гьакъсун,CyrillTrans,"get, obtain",,,haq̄sun,Phonemic
+11-150-80-1,udii1243,Udi,1448,бикъсун,CyrillTrans,hold,,,biq̄sun,Phonemic
+11-140-80-1,udii1243,Udi,2021,бикъсун,CyrillTrans,"seize, grasp",,,biq̄sun,Phonemic
+11-130-80-1,udii1243,Udi,1749,гьакъсун,CyrillTrans,take,,,haq̄sun,Phonemic
+11-120-80-1,udii1243,Udi,684,зафбсун,CyrillTrans,"own, possess",,,zafbsun,Phonemic
+11-110-80-1,udii1243,Udi,773,зафбсун,CyrillTrans,have,,,zafbsun,Phonemic
+10-920-80-1,udii1243,Udi,1922,пІапІсун,CyrillTrans,land (vb),,,p̄ap̄sun,Phonemic
+10-910-80-1,udii1243,Udi,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-80-1,udii1243,Udi,1870,йакор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-80-1,udii1243,Udi,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-80-1,udii1243,Udi,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-80-1,udii1243,Udi,108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-80-1,udii1243,Udi,1849,уьзмуьшсун,CyrillTrans,row (vb),,,üzmüšsun,Phonemic
+10-851-80-1,udii1243,Udi,234,мушадал,CyrillTrans,paddle (noun),,,mušadal,Phonemic
+10-850-80-1,udii1243,Udi,108,мушадал,CyrillTrans,oar,,,mušadal,Phonemic
+10-840-80-1,udii1243,Udi,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-80-1,udii1243,Udi,416,луьтке,CyrillTrans,outrigger,,,lütke,Phonemic
+10-831-80-1,udii1243,Udi,1970,луьтке,CyrillTrans,canoe,,,lütke,Phonemic
+10-830-80-1,udii1243,Udi,1844,луьтке,CyrillTrans,boat,,,lütke,Phonemic
+10-810-80-1,udii1243,Udi,740,гаьми,CyrillTrans,ship,,,gämi,Phonemic
+10-780-80-1,udii1243,Udi,14,оъкъ,CyrillTrans,yoke,,,oˤq̄,Phonemic
+10-770-80-1,udii1243,Udi,1769,мур,CyrillTrans,axle,,,mur,Phonemic
+10-760-80-1,udii1243,Udi,710,топ,CyrillTrans,wheel,,,"top, täkär",Phonemic
+10-760-80-3,udii1243,Udi,710,таькаьр,CyrillTrans,wheel,,,"top, täkär",Phonemic
+10-750-80-1,udii1243,Udi,122,араба,CyrillTrans,"carriage, wagon, cart",,,araba,Phonemic
+10-740-80-1,udii1243,Udi,1011,биъбиъ,CyrillTrans,bridge,,,biˤbiˤ,Phonemic
+10-720-80-1,udii1243,Udi,2252,ликІар,CyrillTrans,path,,,lik̄ar,Phonemic
+10-710-80-1,udii1243,Udi,667,йакъ,CyrillTrans,road,,,yaq̄,Phonemic
+10-660-80-1,udii1243,Udi,367,тайсун,CyrillTrans,ride,,,taysun,Phonemic
+10-650-80-1,udii1243,Udi,741,тайсун,CyrillTrans,drive,,,taysun,Phonemic
+10-640-80-1,udii1243,Udi,43,ташсун,CyrillTrans,lead (vb),,,tašsun,Phonemic
+10-630-80-1,udii1243,Udi,1127,йакъабсун,CyrillTrans,send,,,yaq̄absun,Phonemic
+10-620-80-1,udii1243,Udi,692,эчсун,CyrillTrans,bring,,,ečsun,Phonemic
+10-615-80-1,udii1243,Udi,415,ташсун,CyrillTrans,carry-underarm,,,tašsun,Phonemic
+10-614-80-1,udii1243,Udi,414,ташсун,CyrillTrans,carry-on-head,,,tašsun,Phonemic
+10-613-80-1,udii1243,Udi,413,ташсун,CyrillTrans,carry-on-shoulder,,,tašsun,Phonemic
+10-612-80-1,udii1243,Udi,412,ташсун,CyrillTrans,carry-in-hand,,,tašsun,Phonemic
+10-610-80-1,udii1243,Udi,700,ташсун,CyrillTrans,carry (bear),,,"tašsun, t̄ašt̄un",Phonemic
+10-610-80-3,udii1243,Udi,700,тІаштІун,CyrillTrans,carry (bear),,,"tašsun, t̄ašt̄un",Phonemic
+10-570-80-1,udii1243,Udi,749,байсун,CyrillTrans,enter,,,baysun,Phonemic
+10-560-80-1,udii1243,Udi,1778,иъшІабаксун,CyrillTrans,approach,,,iˤšﬁabaksun,Phonemic
+10-550-80-1,udii1243,Udi,1387,пІапІсун,CyrillTrans,"reach, arrive",,,p̄ap̄sun,Phonemic
+10-530-80-1,udii1243,Udi,1047,йакъпсун,CyrillTrans,pursue,,,yaq̄psun,Phonemic
+10-520-80-1,udii1243,Udi,1085,йакъпсун,CyrillTrans,follow,,,yaq̄psun,Phonemic
+10-510-80-1,udii1243,Udi,956,тІистІун,CyrillTrans,flee,,,t̄ist̄un,Phonemic
+10-491-80-1,udii1243,Udi,485,ашчин,CyrillTrans,disappear,,,aščin,Phonemic
+10-490-80-1,udii1243,Udi,1752,тайсун,CyrillTrans,"go away, depart",,,taysun,Phonemic
+10-481-80-1,udii1243,Udi,581,хъайбаксун,CyrillTrans,come back,,,qaybaksun,Phonemic
+10-480-80-1,udii1243,Udi,1446,эйсун,CyrillTrans,come,,,eysun,Phonemic
+10-474-80-1,udii1243,Udi,1107,чІейсун,CyrillTrans,go out,,,č̄eysun,Phonemic
+10-473-80-1,udii1243,Udi,2014,цийсун,CyrillTrans,go down,,,ciysun,Phonemic
+10-472-80-1,udii1243,Udi,1102,акьесун,CyrillTrans,climb,,,aqʼesun,Phonemic
+10-470-80-1,udii1243,Udi,695,тайсун,CyrillTrans,go,,,taysun,Phonemic
+10-471-80-1,udii1243,Udi,705,лайсун,CyrillTrans,go up,,,laysun,Phonemic
+10-460-80-1,udii1243,Udi,1519,тІистІун,CyrillTrans,run,,,t̄ist̄un,Phonemic
+10-451-80-1,udii1243,Udi,366,ахсаиншсун,CyrillTrans,limp,,,axsainšsun,Phonemic
+10-450-80-1,udii1243,Udi,1443,тарапсун,CyrillTrans,walk,,,tarapsun,Phonemic
+10-440-80-1,udii1243,Udi,1879,аьчипсун,CyrillTrans,dance,,,äčipsun,Phonemic
+10-431-80-1,udii1243,Udi,1135,дугъсун,CyrillTrans,kick,,,duɣsun,Phonemic
+10-430-80-1,udii1243,Udi,1829,джупсун,CyrillTrans,"jump, leap",,,ǯupsun,Phonemic
+10-420-80-1,udii1243,Udi,1324,фуртІесун,CyrillTrans,"slide, slip",,,furt̄esun,Phonemic
+10-413-80-1,udii1243,Udi,296,арцестІун,CyrillTrans,crouch,,,arcest̄un,Phonemic
+10-412-80-1,udii1243,Udi,66,чокдесун,CyrillTrans,kneel,,,čokdesun,Phonemic
+10-410-80-1,udii1243,Udi,96,хорпесун,CyrillTrans,"creep, crawl",,,xorpesun,Phonemic
+10-380-80-1,udii1243,Udi,175,фупcун,CyrillTrans,blow,,,fupsun,Phonemic
+10-370-80-1,udii1243,Udi,1441,пурпсун,CyrillTrans,fly (vb),,,purpsun,Phonemic
+10-360-80-1,udii1243,Udi,787,уьзмуьшсун,CyrillTrans,sail (vb),,,üzmüšsun,Phonemic
+10-350-80-1,udii1243,Udi,1439,уьзмуьшсун,CyrillTrans,swim,,,üzmüšsun,Phonemic
+10-340-80-1,udii1243,Udi,1574,уьзмуьшсун,CyrillTrans,float,,,üzmüšsun,Phonemic
+10-330-80-1,udii1243,Udi,1088,къаъкъаъйесун,CyrillTrans,sink,,,q̄aˤq̄aˤyesun,Phonemic
+10-320-80-1,udii1243,Udi,2003,цІоройесун,CyrillTrans,flow,,,с̄oroyesun,Phonemic
+10-260-80-1,udii1243,Udi,1909,жІиъкІпІесун,CyrillTrans,shake,,,žﬁiˤk̄p̄esun,Phonemic
+10-252-80-1,udii1243,Udi,702,бикъсун,CyrillTrans,catch (ball),,,biq̄sun,Phonemic
+10-250-80-1,udii1243,Udi,1456,бостІун,CyrillTrans,throw,,,bot̄sun,Phonemic
+10-240-80-1,udii1243,Udi,2253,куьлдуьр-куьлдуьр бапсун,CyrillTrans,drip,,,küldür-küldür bapsun,Phonemic
+10-230-80-1,udii1243,Udi,1280,бафтІесун,CyrillTrans,fall,,,"baft̄esun, bist̄un",Phonemic
+10-230-80-3,udii1243,Udi,1280,бистІун,CyrillTrans,fall,,,"baft̄esun, bist̄un",Phonemic
+10-220-80-1,udii1243,Udi,501,лачІевкІсун,CyrillTrans,"raise, lift",,,lač̄evk̄sun,Phonemic
+10-210-80-1,udii1243,Udi,568,лайсун,CyrillTrans,rise,,,laysun,Phonemic
+10-170-80-1,udii1243,Udi,430,чІурпсун,CyrillTrans,twist,,,č̄urpesun,Phonemic
+10-150-80-1,udii1243,Udi,827,тарадесун,CyrillTrans,roll,,,taradesun,Phonemic
+10-140-80-1,udii1243,Udi,1113,баьчІуьрпсун,CyrillTrans,"wind, wrap",,,bäč̄ürpsun,Phonemic
+10-110-80-1,udii1243,Udi,765,далпесун,CyrillTrans,move,,,dalpesun,Phonemic
+9-890-80-1,udii1243,Udi,2001,гонбесун,CyrillTrans,paint (vb),,,gonbesun,Phonemic
+9-840-80-1,udii1243,Udi,1979,алди,CyrillTrans,chisel,,,aldi,Phonemic
+9-880-80-1,udii1243,Udi,647,гон,CyrillTrans,paint (noun),,,gon,Phonemic
+9-830-80-1,udii1243,Udi,1002,гьейкал,CyrillTrans,statue,,,heykal,Phonemic
+9-820-80-1,udii1243,Udi,914,гьейкалчи,CyrillTrans,sculptor,,,heykalči,Phonemic
+9-810-80-1,udii1243,Udi,228,бостІун,CyrillTrans,carve,,,bost̄un,Phonemic
+9-791-80-1,udii1243,Udi,360,мус бес,CyrillTrans,fan (vb),,,muš bes,Phonemic
+9-790-80-1,udii1243,Udi,1971,вентилйатор,CyrillTrans,fan (noun),,,ventilyator,Phonemic
+9-780-80-1,udii1243,Udi,293,тор заьнбил,CyrillTrans,netbag,,,tor zänbil,Phonemic
+9-771-80-1,udii1243,Udi,292,халича,CyrillTrans,rug,,,xaliča,Phonemic
+9-770-80-1,udii1243,Udi,195,гьаьсир,CyrillTrans,mat,,,häsir,Phonemic
+9-760-80-1,udii1243,Udi,1539,кІанцара,CyrillTrans,basket,,,"k̄ancara, zänbil",Phonemic
+9-760-80-3,udii1243,Udi,1539,заьнбил,CyrillTrans,basket,,,"k̄ancara, zänbil",Phonemic
+9-750-80-1,udii1243,Udi,1729,алдсун,CyrillTrans,"weave, plait",,,aldsun,Phonemic
+9-740-80-1,udii1243,Udi,604,шуьше,CyrillTrans,glass,,,šüše,Phonemic
+9-730-80-1,udii1243,Udi,1399,лаз,CyrillTrans,clay,,,laz,Phonemic
+9-720-80-1,udii1243,Udi,289,къаьлиб бесун,CyrillTrans,mold (clay etc),,,q̄älib besun,Phonemic
+9-690-80-1,udii1243,Udi,358,даьмир,CyrillTrans,"tin, tinplate",,,dämir,Phonemic
+9-680-80-1,udii1243,Udi,627,хъурхъушун,CyrillTrans,lead (noun),,,qurqušun,Phonemic
+9-670-80-1,udii1243,Udi,621,даьмир,CyrillTrans,iron,,,dämir,Phonemic
+9-660-80-1,udii1243,Udi,1825,мис,CyrillTrans,"copper, bronze",,,"mis, pilinǯ",Phonemic
+9-660-80-3,udii1243,Udi,1825,пилиндж,CyrillTrans,"copper, bronze",,,"mis, pilinǯ",Phonemic
+9-650-80-1,udii1243,Udi,759,гуьмуьш,CyrillTrans,silver,,,gümüš,Phonemic
+9-640-80-1,udii1243,Udi,1369,къызыл,CyrillTrans,gold,,,"q̄ɨzɨl, q̄izil",Phonemic
+9-640-80-3,udii1243,Udi,1369,къизил,CyrillTrans,gold,,,"q̄ɨzɨl, q̄izil",Phonemic
+9-630-80-1,udii1243,Udi,211,къаьлиб бесун,CyrillTrans,cast (metals),,,q̄älib besun,Phonemic
+9-620-80-1,udii1243,Udi,1648,зиндан,CyrillTrans,anvil,,,zindan,Phonemic
+9-610-80-1,udii1243,Udi,288,даьмирчихана,CyrillTrans,forge,,,dämirčixana,Phonemic
+9-600-80-1,udii1243,Udi,1001,даьмирчи,CyrillTrans,"smith, blacksmith",,,dämirči,Phonemic
+9-560-80-1,udii1243,Udi,1069,кІоцІикІ,CyrillTrans,glue,,,k̄oc̄ik̄,Phonemic
+9-500-80-1,udii1243,Udi,502,миспІар,CyrillTrans,nail,,,misp̄ar,Phonemic
+9-490-80-1,udii1243,Udi,1481,чаькуьч,CyrillTrans,hammer,,,čäküč,Phonemic
+9-480-80-1,udii1243,Udi,1948,бушкъун,CyrillTrans,saw,,,bušq̄un,Phonemic
+9-461-80-1,udii1243,Udi,46,дeшийбсун,CyrillTrans,hollow out,,,dešiybsun,Phonemic
+9-460-80-1,udii1243,Udi,1501,деший,CyrillTrans,bore,,,dešiy,Phonemic
+9-440-80-1,udii1243,Udi,1840,бикъсун,CyrillTrans,build,,,biq̄sun,Phonemic
+9-430-80-1,udii1243,Udi,1042,дуьлгаьр,CyrillTrans,carpenter,,,dülgär,Phonemic
+9-422-80-1,udii1243,Udi,1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-80-1,udii1243,Udi,245,мунгул,CyrillTrans,broom,,,mungul,Phonemic
+9-360-80-1,udii1243,Udi,1453,оцІкІсун,CyrillTrans,wash,,,oc̄k̄sun,Phonemic
+9-370-80-1,udii1243,Udi,230,шІампесун,CyrillTrans,sweep,,,šﬁampesun,Phonemic
+9-350-80-1,udii1243,Udi,1487,бапсун,CyrillTrans,pour,,,bapsun,Phonemic
+9-343-80-1,udii1243,Udi,1414,къач̍псун,CyrillTrans,"squeeze, wring",,,q̄ac̄ﬁpsun,Phonemic
+9-342-80-1,udii1243,Udi,1913,ч̍ахпсун,CyrillTrans,press,,,c̄ﬁaxpsun,Phonemic
+9-341-80-1,udii1243,Udi,357,сурукІбсун,CyrillTrans,hang up,,,suruk̄bsun,Phonemic
+9-340-80-1,udii1243,Udi,38,базарбаксун,CyrillTrans,spread out,,,bazarbaksun,Phonemic
+9-330-80-1,udii1243,Udi,1455,къакъайесун,CyrillTrans,pull,,,q̄aq̄ayesun,Phonemic
+9-320-80-1,udii1243,Udi,214,запсун,CyrillTrans,stretch,,,zapsun,Phonemic
+9-290-80-1,udii1243,Udi,291,аццар бес,CyrillTrans,"flay, skin",,,ac̄ar bes,Phonemic
+9-280-80-1,udii1243,Udi,1735,аьаькІпІесун,CyrillTrans,tear,,,äʔäk̄p̄esun,Phonemic
+9-270-80-1,udii1243,Udi,1437,хъиъбсун,CyrillTrans,split,,,qiˤbsun,Phonemic
+9-261-80-1,udii1243,Udi,588,хох,CyrillTrans,broken,,,xox,Phonemic
+9-260-80-1,udii1243,Udi,680,хаъхаъпсун,CyrillTrans,break,,,"xaˤxaˤpsun, xoxbsun",Phonemic
+9-260-80-3,udii1243,Udi,680,хохбсун,CyrillTrans,break,,,"xaˤxaˤpsun, xoxbsun",Phonemic
+9-250-80-1,udii1243,Udi,677,тавар,CyrillTrans,ax,,,tavar,Phonemic
+9-251-80-1,udii1243,Udi,290,тавар,CyrillTrans,adze,,,tavar,Phonemic
+9-240-80-1,udii1243,Udi,356,къачи,CyrillTrans,"scissors, shears",,,q̄ači,Phonemic
+9-230-80-1,udii1243,Udi,1352,ме,CyrillTrans,knife,,,me,Phonemic
+9-223-80-1,udii1243,Udi,1434,ботІестІун,CyrillTrans,stab,,,bot̄est̄un,Phonemic
+9-222-80-1,udii1243,Udi,155,бостІун,CyrillTrans,"chop, hew",,,bost̄un,Phonemic
+9-220-80-1,udii1243,Udi,1432,бостІун,CyrillTrans,cut,,,"bost̄un, k̄acp̄sun",Phonemic
+9-220-80-3,udii1243,Udi,1432,кІацІпсун,CyrillTrans,cut,,,"bost̄un, k̄acp̄sun",Phonemic
+9-211-80-1,udii1243,Udi,354,хохбесун,CyrillTrans,pound with fist,,,xoxbesun,Phonemic
+9-210-80-1,udii1243,Udi,2133,дугъсун,CyrillTrans,"strike (hit, beat)",,,duɣsun,Phonemic
+9-192-80-1,udii1243,Udi,760,гъачч,CyrillTrans,knot (noun),,,ɣač̄,Phonemic
+9-190-80-1,udii1243,Udi,1218,каьндуьр,CyrillTrans,"rope, cord",,,kändür,Phonemic
+9-180-80-1,udii1243,Udi,1627,зинджил,CyrillTrans,chain,,,zinǯil,Phonemic
+9-161-80-1,udii1243,Udi,352,шаатбсун,CyrillTrans,untie,,,"šaatbsun, q̄aypsun",Phonemic
+9-161-80-3,udii1243,Udi,352,хъайбсун,CyrillTrans,untie,,,"šaatbsun, q̄aypsun",Phonemic
+9-160-80-1,udii1243,Udi,1917,гъаъчъпсун,CyrillTrans,"tie, bind",,,ɣačﬁpsun,Phonemic
+9-150-80-1,udii1243,Udi,1470,къаткъатбесун,CyrillTrans,fold,,,q̄atq̄atbesun,Phonemic
+9-140-80-1,udii1243,Udi,2004,кІоцІбсун,CyrillTrans,bend,,,k̄oc̄bsun,Phonemic
+9-120-80-1,udii1243,Udi,984,аш,CyrillTrans,work,,,aš,Phonemic
+9-110-80-1,udii1243,Udi,2575,бесун,CyrillTrans,"do, make",,,besun,Phonemic
+8-980-80-1,udii1243,Udi,641,телепа,CyrillTrans,mushroom,,,telepa,Phonemic
+8-970-80-1,udii1243,Udi,33,мечІ,CyrillTrans,nettle,,,meč̄,Phonemic
+8-940-80-1,udii1243,Udi,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-80-1,udii1243,Udi,864,багъдайи,CyrillTrans,"pumpkin, squash",,,baɣdayi,Phonemic
+8-930-80-1,udii1243,Udi,411,багъдайи,CyrillTrans,gourd,,,baɣdayi,Phonemic
+8-912-80-1,udii1243,Udi,410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-80-1,udii1243,Udi,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-80-1,udii1243,Udi,346,тоъхаън,CyrillTrans,banyan,,,"toˤxaˤn, inžil",Phonemic
+8-850-80-3,udii1243,Udi,346,инжил,CyrillTrans,banyan,,,"toˤxaˤn, inžil",Phonemic
+8-840-80-1,udii1243,Udi,868,банан (ход),CyrillTrans,banana tree,,,banan (xod),Phonemic
+8-830-80-1,udii1243,Udi,1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-80-1,udii1243,Udi,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-80-1,udii1243,Udi,1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-80-1,udii1243,Udi,345,шире,CyrillTrans,sap,,,šire,Phonemic
+8-750-80-1,udii1243,Udi,1204,хъоъл,CyrillTrans,bark,,,qoˤl,Phonemic
+8-740-80-1,udii1243,Udi,409,чІугъ,CyrillTrans,forked branch,,,č̄uɣ,Phonemic
+8-730-80-1,udii1243,Udi,344,бигъ,CyrillTrans,tree trunk,,,biɣ,Phonemic
+8-720-80-1,udii1243,Udi,241,кІоьтІтІуьй,CyrillTrans,tree stump,,,köt̄t̄ü,Phonemic
+8-691-80-1,udii1243,Udi,1124,къайлан,CyrillTrans,pipe,,,q̄aylan,Phonemic
+8-690-80-1,udii1243,Udi,1689,тІуьтІуьн кІуьйуьн,CyrillTrans,smoke (tobacco),,,t̄üt̄ün k̄üyün,Phonemic
+8-680-80-1,udii1243,Udi,974,тІуьтІуьн,CyrillTrans,tobacco,,,t̄üt̄ün,Phonemic
+8-670-80-1,udii1243,Udi,343,чІап,CyrillTrans,vine,,,č̄ap,Phonemic
+8-660-80-1,udii1243,Udi,968,маъхъ,CyrillTrans,acorn,,,"maˤq, mex, maˤx",Phonemic
+8-660-80-3,udii1243,Udi,968,мех,CyrillTrans,acorn,,,"maˤq, mex, maˤx",Phonemic
+8-660-80-5,udii1243,Udi,968,маъх,CyrillTrans,acorn,,,"maˤq, mex, maˤx",Phonemic
+8-650-80-1,udii1243,Udi,1915,арчан,CyrillTrans,fir,,,"arčan, naʒv",Phonemic
+8-650-80-3,udii1243,Udi,1915,надзв,CyrillTrans,fir,,,"arčan, naʒv",Phonemic
+8-640-80-1,udii1243,Udi,1740,шамнаход,CyrillTrans,pine,,,šamnaxod,Phonemic
+8-630-80-1,udii1243,Udi,1855,мерх,CyrillTrans,birch,,,merx,Phonemic
+8-620-80-1,udii1243,Udi,1950,пупнаход,CyrillTrans,beech,,,pupnaxod,Phonemic
+8-610-80-1,udii1243,Udi,644,маъхна ход,CyrillTrans,oak,,,maˤxna xod,Phonemic
+8-600-80-1,udii1243,Udi,906,ход,CyrillTrans,tree,,,xod,Phonemic
+8-570-80-1,udii1243,Udi,239,цІицІикІ,CyrillTrans,flower,,,c̄ic̄ik̄,Phonemic
+8-560-80-1,udii1243,Udi,628,хазал,CyrillTrans,leaf,,,xazal,Phonemic
+8-550-80-1,udii1243,Udi,1531,тай,CyrillTrans,branch,,,tay,Phonemic
+8-540-80-1,udii1243,Udi,670,тум,CyrillTrans,root,,,tum,Phonemic
+8-531-80-1,udii1243,Udi,1486,калабсун,CyrillTrans,plant (vb),,,kalabsun,Phonemic
+8-520-80-1,udii1243,Udi,342,алаф,CyrillTrans,hay,,,"alaf, о",Phonemic
+8-520-80-3,udii1243,Udi,342,о,CyrillTrans,hay,,,"alaf, о",Phonemic
+8-530-80-1,udii1243,Udi,653,ил,CyrillTrans,plant (noun),,,il,Phonemic
+8-510-80-1,udii1243,Udi,606,о,CyrillTrans,grass,,,о,Phonemic
+8-480-80-1,udii1243,Udi,926,бириндз,CyrillTrans,rice,,,birinʒ,Phonemic
+8-470-80-1,udii1243,Udi,506,къардали,CyrillTrans,"maize, corn",,,q̄ardali,Phonemic
+8-460-80-1,udii1243,Udi,60,ваьлаьмбуьр,CyrillTrans,oats,,,välämbür,Phonemic
+8-430-80-1,udii1243,Udi,1077,арум,CyrillTrans,wheat,,,arum,Phonemic
+8-440-80-1,udii1243,Udi,932,му,CyrillTrans,barley,,,mu,Phonemic
+8-420-80-1,udii1243,Udi,605,даьн,CyrillTrans,"grain (barley, oats etc)",,,dän,Phonemic
+8-410-80-1,udii1243,Udi,611,борзун,CyrillTrans,"crop, harvest",,,borzun,Phonemic
+8-350-80-1,udii1243,Udi,223,эчІ,CyrillTrans,threshing-floor,,,eč̄,Phonemic
+8-340-80-1,udii1243,Udi,285,ечІ тІапІсун,CyrillTrans,thresh,,,eč̄ t̄ap̄sun,Phonemic
+8-330-80-1,udii1243,Udi,2132,мих,CyrillTrans,"sickle, scythe",,,"mix, därgäz",Phonemic
+8-330-80-3,udii1243,Udi,2132,даьргаьз,CyrillTrans,"sickle, scythe",,,"mix, därgäz",Phonemic
+8-320-80-1,udii1243,Udi,190,цапсун,CyrillTrans,"mow, reap",,,"capsun, exbsun",Phonemic
+8-320-80-3,udii1243,Udi,190,ехбсун,CyrillTrans,"mow, reap",,,"capsun, exbsun",Phonemic
+8-311-80-1,udii1243,Udi,714,цил,CyrillTrans,seed,,,cil,Phonemic
+8-310-80-1,udii1243,Udi,748,бистІун,CyrillTrans,sow,,,bist̄un,Phonemic
+8-270-80-1,udii1243,Udi,338,къармагъ,CyrillTrans,rake,,,q̄armaɣ,Phonemic
+8-260-80-1,udii1243,Udi,337,йаба,CyrillTrans,fork,,,"yaba, xala",Phonemic
+8-260-80-3,udii1243,Udi,337,хала,CyrillTrans,fork,,,"yaba, xala",Phonemic
+8-250-80-1,udii1243,Udi,284,карки,CyrillTrans,hoe,,,"karki, toxi",Phonemic
+8-250-80-3,udii1243,Udi,284,тохи,CyrillTrans,hoe,,,"karki, toxi",Phonemic
+8-240-80-1,udii1243,Udi,1901,беъбил,CyrillTrans,shovel,,,beˤbil,Phonemic
+8-230-80-1,udii1243,Udi,1176,беъдул,CyrillTrans,spade,,,beˤdul,Phonemic
+8-212-80-1,udii1243,Udi,1794,джызыгъ,CyrillTrans,furrow,,,ǯɨzɨɣ,Phonemic
+8-210-80-1,udii1243,Udi,1921,eзбсун,CyrillTrans,plow,,,ezbsun,Phonemic
+8-170-80-1,udii1243,Udi,2002,арх,CyrillTrans,ditch,,,arx,Phonemic
+8-160-80-1,udii1243,Udi,1690,чапар,CyrillTrans,fence,,,čapar,Phonemic
+8-150-80-1,udii1243,Udi,1541,езбсун,CyrillTrans,"cultivate, till",,,ezbsun,Phonemic
+8-130-80-1,udii1243,Udi,586,га,CyrillTrans,garden,,,ga,Phonemic
+8-120-80-1,udii1243,Udi,212,гьанд,CyrillTrans,field (for cultivation),,,hand,Phonemic
+8-110-80-1,udii1243,Udi,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-80-1,udii1243,Udi,901,кІож,CyrillTrans,adobe,,,k̄ož,Phonemic
+7-630-80-1,udii1243,Udi,224,кираьдж,CyrillTrans,mortar,,,kiräǯ,Phonemic
+7-620-80-1,udii1243,Udi,1006,каьрпичІ,CyrillTrans,brick,,,kärpič̄,Phonemic
+7-580-80-1,udii1243,Udi,876,кІамур,CyrillTrans,arch,,,k̄amur,Phonemic
+7-570-80-1,udii1243,Udi,1227,дахтІакІ,CyrillTrans,board,,,daxt̄ak̄,Phonemic
+7-560-80-1,udii1243,Udi,281,къоътмаъдж,CyrillTrans,"post, pole",,,q̄oˤtmaˤǯ,Phonemic
+7-550-80-1,udii1243,Udi,1132,тир,CyrillTrans,beam,,,tir,Phonemic
+7-540-80-1,udii1243,Udi,829,дурутІ,CyrillTrans,rafter,,,durut̄,Phonemic
+7-530-80-1,udii1243,Udi,280,тир,CyrillTrans,ridgepole,,,tir,Phonemic
+7-520-80-1,udii1243,Udi,279,къапагъ,CyrillTrans,thatch,,,q̄apaɣ,Phonemic
+7-510-80-1,udii1243,Udi,769,къапагъ,CyrillTrans,roof,,,q̄apaɣ,Phonemic
+7-480-80-1,udii1243,Udi,205,нав,CyrillTrans,trough,,,nav,Phonemic
+7-470-80-1,udii1243,Udi,745,дилов,CyrillTrans,shelf,,,dilov,Phonemic
+7-460-80-1,udii1243,Udi,1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-80-1,udii1243,Udi,2131,лаьмпаь,CyrillTrans,"lamp, torch",,,lämpä,Phonemic
+7-440-80-1,udii1243,Udi,1775,истол,CyrillTrans,table,,,"istol, ist̄ul",Phonemic
+7-440-80-3,udii1243,Udi,1775,истІул,CyrillTrans,table,,,"istol, ist̄ul",Phonemic
+7-430-80-1,udii1243,Udi,1476,сыгъан,CyrillTrans,chair,,,sɨɣan,Phonemic
+7-422-80-1,udii1243,Udi,806,лаьйиф,CyrillTrans,blanket,,,läyif,Phonemic
+7-421-80-1,udii1243,Udi,1044,бер,CyrillTrans,pillow,,,ber,Phonemic
+7-420-80-1,udii1243,Udi,1663,мах,CyrillTrans,bed,,,max,Phonemic
+7-370-80-1,udii1243,Udi,1464,мух,CyrillTrans,ladder,,,mux,Phonemic
+7-330-80-1,udii1243,Udi,1305,кештІан,CyrillTrans,chimney,,,kešt̄an,Phonemic
+7-320-80-1,udii1243,Udi,859,пуч,CyrillTrans,stove,,,puč,Phonemic
+7-310-80-1,udii1243,Udi,185,бухари,CyrillTrans,fireplace,,,buxari,Phonemic
+7-270-80-1,udii1243,Udi,933,бари,CyrillTrans,wall,,,bari,Phonemic
+7-260-80-1,udii1243,Udi,1632,очъал,CyrillTrans,floor,,,očﬁal,Phonemic
+7-250-80-1,udii1243,Udi,1375,акІушка,CyrillTrans,window,,,ak̄uška,Phonemic
+7-240-80-1,udii1243,Udi,1472,ачар,CyrillTrans,key,,,ačar,Phonemic
+7-230-80-1,udii1243,Udi,1596,ачар,CyrillTrans,lock (noun),,,ačar,Phonemic
+7-210-80-1,udii1243,Udi,1450,отагъ,CyrillTrans,room,,,"otaɣ, otax",Phonemic
+7-210-80-3,udii1243,Udi,1450,отах,CyrillTrans,room,,,"otaɣ, otax",Phonemic
+7-220-80-1,udii1243,Udi,1567,чъомо,CyrillTrans,"door, gate",,,"с̌ﬁomo, darvaza",Phonemic
+7-220-80-3,udii1243,Udi,1567,дарваза,CyrillTrans,"door, gate",,,"с̌ﬁomo, darvaza",Phonemic
+7-180-80-1,udii1243,Udi,335,кулуб,CyrillTrans,meeting house,,,kulub,Phonemic
+7-170-80-1,udii1243,Udi,334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-80-1,udii1243,Udi,408,кІож,CyrillTrans,men's house,,,k̄ož,Phonemic
+7-150-80-1,udii1243,Udi,736,гьайат,CyrillTrans,"yard, court",,,"hayat, č̄omox, mählä",Phonemic
+7-150-80-3,udii1243,Udi,736,ччомох,CyrillTrans,"yard, court",,,"hayat, č̄omox, mählä",Phonemic
+7-150-80-5,udii1243,Udi,736,маьгьлаь,CyrillTrans,"yard, court",,,"hayat, č̄omox, mählä",Phonemic
+7-140-80-1,udii1243,Udi,1316,чаьдир,CyrillTrans,tent,,,čädir,Phonemic
+7-131-80-1,udii1243,Udi,403,кІож,CyrillTrans,garden-house,,,k̄ož,Phonemic
+7-130-80-1,udii1243,Udi,1678,даьгаь,CyrillTrans,hut,,,dägä,Phonemic
+7-120-80-1,udii1243,Udi,1252,кІож,CyrillTrans,house,,,k̄ož,Phonemic
+7-110-80-1,udii1243,Udi,363,кархсун,CyrillTrans,"dwell, live",,,karxsun,Phonemic
+6-960-80-1,udii1243,Udi,1171,гизги,CyrillTrans,mirror,,,gizgi,Phonemic
+6-950-80-1,udii1243,Udi,788,сапІун,CyrillTrans,soap,,,sap̄un,Phonemic
+6-940-80-1,udii1243,Udi,1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-80-1,udii1243,Udi,151,уьлкуьдж,CyrillTrans,razor,,,ülküǯ,Phonemic
+6-921-80-1,udii1243,Udi,333,кІирух,CyrillTrans,braid,,,"k̄irux, ušﬁun",Phonemic
+6-921-80-3,udii1243,Udi,333,ушкІун,CyrillTrans,braid,,,"k̄irux, ušﬁun",Phonemic
+6-920-80-1,udii1243,Udi,1821,ох,CyrillTrans,brush,,,ox,Phonemic
+6-910-80-1,udii1243,Udi,1475,халадал,CyrillTrans,comb,,,xaladal,Phonemic
+6-820-80-1,udii1243,Udi,1021,даьсмаьл,CyrillTrans,towel,,,däsmäl,Phonemic
+6-810-80-1,udii1243,Udi,332,йаьйлугъ,CyrillTrans,"handkerchief, rag",,,yäyluɣ,Phonemic
+6-780-80-1,udii1243,Udi,330,йайлугъ,CyrillTrans,"headband, headdress",,,"yayluɣ, čalma",Phonemic
+6-780-80-3,udii1243,Udi,330,чалма,CyrillTrans,"headband, headdress",,,"yayluɣ, čalma",Phonemic
+6-770-80-1,udii1243,Udi,770,сырыгъан,CyrillTrans,earring,,,sɨrɨɣaт,Phonemic
+6-760-80-1,udii1243,Udi,1860,чил,CyrillTrans,bead,,,čil,Phonemic
+6-750-80-1,udii1243,Udi,1961,чил,CyrillTrans,necklace,,,čil,Phonemic
+6-740-80-1,udii1243,Udi,1754,къохланг,CyrillTrans,bracelet,,,q̄oxlang,Phonemic
+6-730-80-1,udii1243,Udi,1374,богъоч̍ал,CyrillTrans,ring (for finger),,,boɣoс̄ﬁal,Phonemic
+6-720-80-1,udii1243,Udi,1029,жавгьар,CyrillTrans,jewel,,,žavhar,Phonemic
+6-710-80-1,udii1243,Udi,917,заьртаьр,CyrillTrans,"ornament, adornment",,,zärtär,Phonemic
+6-630-80-1,udii1243,Udi,64,сапджагъ,CyrillTrans,pin,,,sapǯaɣ,Phonemic
+6-620-80-1,udii1243,Udi,757,уьлмаьй,CyrillTrans,button,,,ülmäy,Phonemic
+6-610-80-1,udii1243,Udi,1851,джуь,CyrillTrans,pocket,,,ǯü,Phonemic
+6-590-80-1,udii1243,Udi,1151,йешмагъ,CyrillTrans,veil,,,yešmaɣ,Phonemic
+6-580-80-1,udii1243,Udi,867,аьлджаьй,CyrillTrans,glove,,,älǯäy,Phonemic
+6-570-80-1,udii1243,Udi,772,чо̄р,CyrillTrans,"belt, girdle",,,čōr,Phonemic
+6-550-80-1,udii1243,Udi,2130,кІойн,CyrillTrans,"hat, cap",,,"k̄oyn, papaq",Phonemic
+6-550-80-3,udii1243,Udi,2130,папахъ,CyrillTrans,"hat, cap",,,"k̄oyn, papaq",Phonemic
+6-540-80-1,udii1243,Udi,875,чаькмаьчи,CyrillTrans,"shoemaker, cobbler",,,čäkmäči,Phonemic
+6-510-80-1,udii1243,Udi,1381,патинка,CyrillTrans,shoe,,,patinka,Phonemic
+6-520-80-1,udii1243,Udi,585,тарпа,CyrillTrans,boot,,,tarpa,Phonemic
+6-490-80-1,udii1243,Udi,329,цІиндакІ,CyrillTrans,"stocking, sock",,,"c̄indak̄, c̄indäk̄",Phonemic
+6-490-80-3,udii1243,Udi,329,цІиндаькІ,CyrillTrans,"stocking, sock",,,"c̄indak̄, c̄indäk̄",Phonemic
+6-480-80-1,udii1243,Udi,809,шарвал,CyrillTrans,trousers,,,"šarval, q̄oloɣ",Phonemic
+6-480-80-3,udii1243,Udi,809,къологъ,CyrillTrans,trousers,,,"šarval, q̄oloɣ",Phonemic
+6-461-80-1,udii1243,Udi,328,йупка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-80-1,udii1243,Udi,1600,йупка,CyrillTrans,skirt,,,yupka,Phonemic
+6-450-80-1,udii1243,Udi,2012,къокъ,CyrillTrans,collar,,,"q̄oq̄, yaxa",Phonemic
+6-450-80-3,udii1243,Udi,2012,йаха,CyrillTrans,collar,,,"q̄oq̄, yaxa",Phonemic
+6-440-80-1,udii1243,Udi,1622,гуратІ,CyrillTrans,shirt,,,gurat̄,Phonemic
+6-430-80-1,udii1243,Udi,603,палто,CyrillTrans,coat,,,palto,Phonemic
+6-420-80-1,udii1243,Udi,474,даьргаь,CyrillTrans,woman's dress,,,därgä,Phonemic
+6-390-80-1,udii1243,Udi,157,гон,CyrillTrans,dye,,,gon,Phonemic
+6-410-80-1,udii1243,Udi,326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-80-1,udii1243,Udi,1161,тІури,CyrillTrans,thread,,,t̄uri,Phonemic
+6-360-80-1,udii1243,Udi,1382,беък,CyrillTrans,needle,,,beˤk,Phonemic
+6-370-80-1,udii1243,Udi,278,биз,CyrillTrans,awl,,,biz,Phonemic
+6-350-80-1,udii1243,Udi,1457,eъбсун,CyrillTrans,sew,,,eˤbsun,Phonemic
+6-340-80-1,udii1243,Udi,1787,даьзках,CyrillTrans,loom,,,däzkax,Phonemic
+6-330-80-1,udii1243,Udi,133,аълстІун,CyrillTrans,weave,,,aˤlst̄un,Phonemic
+6-320-80-1,udii1243,Udi,277,жІукІ,CyrillTrans,spindle,,,žﬁuk̄,Phonemic
+6-310-80-1,udii1243,Udi,121,урстІун,CyrillTrans,spin,,,urst̄un,Phonemic
+6-290-80-1,udii1243,Udi,629,тІол,CyrillTrans,leather,,,t̄ol,Phonemic
+6-280-80-1,udii1243,Udi,580,хез,CyrillTrans,fur,,,xez,Phonemic
+6-270-80-1,udii1243,Udi,325,киз,CyrillTrans,felt,,,kiz,Phonemic
+6-250-80-1,udii1243,Udi,1641,абришІум,CyrillTrans,silk,,,"abrišﬁum, armišﬁum",Phonemic
+6-250-80-3,udii1243,Udi,1641,армишІум,CyrillTrans,silk,,,"abrišﬁum, armišﬁum",Phonemic
+6-240-80-1,udii1243,Udi,1850,памбакІ,CyrillTrans,cotton,,,pambak̄,Phonemic
+6-230-80-1,udii1243,Udi,916,катан,CyrillTrans,"linen, flax",,,katan,Phonemic
+6-220-80-1,udii1243,Udi,964,ха,CyrillTrans,wool,,,xa,Phonemic
+6-210-80-1,udii1243,Udi,1616,парча,CyrillTrans,cloth,,,parča,Phonemic
+6-130-80-1,udii1243,Udi,881,даьрзи,CyrillTrans,tailor,,,därzi,Phonemic
+6-120-80-1,udii1243,Udi,1895,партал,CyrillTrans,"clothing, clothes",,,partal,Phonemic
+6-110-80-1,udii1243,Udi,158,лапсун,CyrillTrans,put on (clothes),,,lapsun,Phonemic
+5-971-80-1,udii1243,Udi,1556,хъокІла,CyrillTrans,egg yolk,,,qok̄la,Phonemic
+5-970-80-1,udii1243,Udi,744,хъокІла,CyrillTrans,egg,,,qok̄la,Phonemic
+5-940-80-1,udii1243,Udi,404,фи,CyrillTrans,fermented drink,,,fi,Phonemic
+5-930-80-1,udii1243,Udi,1639,пиво,CyrillTrans,beer,,,pivo,Phonemic
+5-920-80-1,udii1243,Udi,1524,фи,CyrillTrans,wine,,,fi,Phonemic
+5-900-80-1,udii1243,Udi,731,хе,CyrillTrans,"beverage, drink",,,xe,Phonemic
+5-890-80-1,udii1243,Udi,1245,чайин,CyrillTrans,butter,,,"čayin, k̄arak̄",Phonemic
+5-890-80-3,udii1243,Udi,1245,кІаракІ,CyrillTrans,butter,,,"čayin, k̄arak̄",Phonemic
+5-880-80-1,udii1243,Udi,1569,гъусми,CyrillTrans,cheese,,,ɣusmi,Phonemic
+5-870-80-1,udii1243,Udi,93,чахпІесун,CyrillTrans,milk (vb),,,čaxp̄esun,Phonemic
+5-850-80-1,udii1243,Udi,862,къаънд,CyrillTrans,sugar,,,q̄aˤnd,Phonemic
+5-860-80-1,udii1243,Udi,635,муч̍анакъ,CyrillTrans,milk (noun),,,muс̄ﬁanaq̄,Phonemic
+5-840-80-1,udii1243,Udi,942,уч̍,CyrillTrans,honey,,,uс̄ﬁ,Phonemic
+5-821-80-1,udii1243,Udi,919,пІимпІил,CyrillTrans,chili pepper,,,p̄imp̄il,Phonemic
+5-820-80-1,udii1243,Udi,1385,пІимпІил,CyrillTrans,pepper,,,p̄imp̄il,Phonemic
+5-810-80-1,udii1243,Udi,1274,ел,CyrillTrans,salt,,,el,Phonemic
+5-791-80-1,udii1243,Udi,323,зейт,CyrillTrans,"grease, fat",,,zeyt,Phonemic
+5-790-80-1,udii1243,Udi,1484,зейт,CyrillTrans,oil,,,"zeyt, ǯet",Phonemic
+5-790-80-3,udii1243,Udi,1484,джет,CyrillTrans,oil,,,"zeyt, ǯet",Phonemic
+5-780-80-1,udii1243,Udi,1154,дзайтун,CyrillTrans,olive,,,ʒaytun,Phonemic
+5-760-80-1,udii1243,Udi,920,тІул,CyrillTrans,grape,,,t̄ul,Phonemic
+5-770-80-1,udii1243,Udi,191,ерекъ,CyrillTrans,nut,,,"ereq̄, uˤq̄",Phonemic
+5-770-80-3,udii1243,Udi,191,уъкъ,CyrillTrans,nut,,,"ereq̄, uˤq̄",Phonemic
+5-750-80-1,udii1243,Udi,322,тоъхаън,CyrillTrans,fig,,,toˤxaˤn,Phonemic
+5-712-80-1,udii1243,Udi,1966,гъума,CyrillTrans,bunch,,,ɣuma,Phonemic
+5-710-80-1,udii1243,Udi,1507,мейваь,CyrillTrans,fruit,,,meyvä,Phonemic
+5-700-80-1,udii1243,Udi,593,кІартІопІи,CyrillTrans,potato,,,k̄art̄op̄i,Phonemic
+5-660-80-1,udii1243,Udi,832,пахъла,CyrillTrans,bean,,,paqla,Phonemic
+5-650-80-1,udii1243,Udi,924,йемиш,CyrillTrans,vegetables,,,yemiš,Phonemic
+5-640-80-1,udii1243,Udi,1547,хашІой,CyrillTrans,"soup, broth",,,xašﬁoy,Phonemic
+5-630-80-1,udii1243,Udi,1874,джарма,CyrillTrans,sausage,,,ǯarma,Phonemic
+5-610-80-1,udii1243,Udi,634,йекъ,CyrillTrans,meat,,,yeq̄,Phonemic
+5-590-80-1,udii1243,Udi,225,тІварк,CyrillTrans,pestle,,,t̄vark,Phonemic
+5-580-80-1,udii1243,Udi,224,дик,CyrillTrans,mortar (2),,,"dik, dipk",Phonemic
+5-580-80-3,udii1243,Udi,224,дипк,CyrillTrans,mortar (2),,,"dik, dipk",Phonemic
+5-570-80-1,udii1243,Udi,636,жІомокІож,CyrillTrans,mill,,,žﬁomok̄ož,Phonemic
+5-560-80-1,udii1243,Udi,1033,ахьтІапсун,CyrillTrans,"crush, grind",,,ax̌t̄apsun,Phonemic
+5-550-80-1,udii1243,Udi,1594,хари,CyrillTrans,"meal, flour",,,xari,Phonemic
+5-540-80-1,udii1243,Udi,274,бокъой шІарпсун,CyrillTrans,knead,,,boq̄oy šﬁarpsun,Phonemic
+5-530-80-1,udii1243,Udi,273,бокъой,CyrillTrans,dough,,,boq̄oy,Phonemic
+5-510-80-1,udii1243,Udi,1368,шІум,CyrillTrans,bread,,,šﬁum,Phonemic
+5-490-80-1,udii1243,Udi,2017,гаьргуьрбсун,CyrillTrans,"stir, mix",,,gärgübsun,Phonemic
+5-480-80-1,udii1243,Udi,1767,шІампесун,CyrillTrans,scrape,,,šﬁampesun,Phonemic
+5-470-80-1,udii1243,Udi,86,бапсун,CyrillTrans,"sieve, strain",,,bapsun,Phonemic
+5-460-80-1,udii1243,Udi,275,мучІурпесун,CyrillTrans,peel,,,muč̄urpesun,Phonemic
+5-450-80-1,udii1243,Udi,1833,муъкъиъй,CyrillTrans,supper,,,muˤq̄iˤy,Phonemic
+5-440-80-1,udii1243,Udi,1833,шумуксун,CyrillTrans,dinner,,,šumuksun,Phonemic
+5-420-80-1,udii1243,Udi,1322,нацІил,CyrillTrans,breakfast,,,nac̄il,Phonemic
+5-410-80-1,udii1243,Udi,1526,хираг,CyrillTrans,meal (a),,,xirag,Phonemic
+5-391-80-1,udii1243,Udi,272,маша,CyrillTrans,tongs,,,maša,Phonemic
+5-390-80-1,udii1243,Udi,1302,чаьнгаьл,CyrillTrans,fork (2),,,čängäl,Phonemic
+5-380-80-1,udii1243,Udi,1352,ме,CyrillTrans,knife (2),,,me,Phonemic
+5-370-80-1,udii1243,Udi,1378,малакІа,CyrillTrans,spoon,,,malak̄a,Phonemic
+5-360-80-1,udii1243,Udi,271,лаьмбаьку,CyrillTrans,saucer,,,"lämbäku, lälbäku",Phonemic
+5-360-80-3,udii1243,Udi,271,лаьлбаьку,CyrillTrans,saucer,,,"lämbäku, lälbäku",Phonemic
+5-350-80-1,udii1243,Udi,476,аьйакъ,CyrillTrans,"cup, drinking vessel",,,äyaq̄,Phonemic
+5-330-80-1,udii1243,Udi,1530,кІаънтІикІ,CyrillTrans,bowl,,,"k̄aˤnt̄ik̄, žam",Phonemic
+5-330-80-3,udii1243,Udi,1530,жам,CyrillTrans,bowl,,,"k̄aˤnt̄ik̄, žam",Phonemic
+5-340-80-1,udii1243,Udi,270,гамат,CyrillTrans,"pitcher, jug",,,gamat,Phonemic
+5-320-80-1,udii1243,Udi,480,тІаликІ,CyrillTrans,plate,,,t̄alik̄,Phonemic
+5-310-80-1,udii1243,Udi,481,тІаликІ,CyrillTrans,dish,,,t̄alik̄,Phonemic
+5-280-80-1,udii1243,Udi,31,леветІ,CyrillTrans,pan,,,levet̄,Phonemic
+5-260-80-1,udii1243,Udi,1462,лода,CyrillTrans,"pot, cooking vessel",,,loda,Phonemic
+5-270-80-1,udii1243,Udi,854,чайникІ,CyrillTrans,kettle,,,čaynik̄,Phonemic
+5-240-80-1,udii1243,Udi,183,бастІун,CyrillTrans,bake,,,bast̄un,Phonemic
+5-250-80-1,udii1243,Udi,1143,пуч,CyrillTrans,oven,,,puč,Phonemic
+5-230-80-1,udii1243,Udi,2146,тІатІапсун,CyrillTrans,"roast, fry",,,t̄at̄apsun,Phonemic
+5-220-80-1,udii1243,Udi,792,жІалстІун,CyrillTrans,boil (vb),,,žﬁalst̄un,Phonemic
+5-210-80-1,udii1243,Udi,1100,апІесбесун,CyrillTrans,cook,,,"ap̄esbesun, boxsun",Phonemic
+5-210-80-3,udii1243,Udi,1100,бохсун,CyrillTrans,cook,,,"ap̄esbesun, boxsun",Phonemic
+5-190-80-1,udii1243,Udi,129,батевкІесун,CyrillTrans,choke,,,batevk̄esun,Phonemic
+5-181-80-1,udii1243,Udi,897,къучІпесун,CyrillTrans,swallow,,,q̄uč̄pesun,Phonemic
+5-180-80-1,udii1243,Udi,321,кІачІпесун,CyrillTrans,chew,,,k̄ač̄pesun,Phonemic
+5-160-80-1,udii1243,Udi,1421,цІумпесун,CyrillTrans,suck,,,c̄umpesun,Phonemic
+5-150-80-1,udii1243,Udi,848,хенезалугъ,CyrillTrans,thirst,,,xenezaluɣ,Phonemic
+5-141-80-1,udii1243,Udi,199,бусалугъ,CyrillTrans,famine,,,busaluɣ,Phonemic
+5-140-80-1,udii1243,Udi,1864,бусалугъ,CyrillTrans,hunger,,,busaluɣ,Phonemic
+5-130-80-1,udii1243,Udi,1401,уъгъсун,CyrillTrans,drink,,,uˤɣsun,Phonemic
+5-125-80-1,udii1243,Udi,1728,бабли,CyrillTrans,rotten,,,"babli, bašﬁay, pušk̄uri",Phonemic
+5-125-80-3,udii1243,Udi,1728,башІай,CyrillTrans,rotten,,,"babli, bašﬁay, pušk̄uri",Phonemic
+5-125-80-5,udii1243,Udi,1728,пушкІури,CyrillTrans,rotten,,,"babli, bašﬁay, pušk̄uri",Phonemic
+5-124-80-1,udii1243,Udi,1958,апІинутІ,CyrillTrans,"green, unripe",,,"ap̄inut̄, bič̄i",Phonemic
+5-124-80-3,udii1243,Udi,1958,бичІи,CyrillTrans,"green, unripe",,,"ap̄inut̄, bič̄i",Phonemic
+5-123-80-1,udii1243,Udi,178,апІи,CyrillTrans,ripe,,,ap̄i,Phonemic
+5-122-80-1,udii1243,Udi,1959,бичІи,CyrillTrans,raw,,,bič̄i,Phonemic
+5-121-80-1,udii1243,Udi,269,апІи,CyrillTrans,cooked,,,ap̄i,Phonemic
+5-120-80-1,udii1243,Udi,256,укун,CyrillTrans,food,,,ukun,Phonemic
+5-110-80-1,udii1243,Udi,1336,уксун,CyrillTrans,eat,,,uksun,Phonemic
+4-990-80-1,udii1243,Udi,590,чуплагъ,CyrillTrans,"naked, bare",,,"čuplaɣ, čuplaq̄",Phonemic
+4-990-80-3,udii1243,Udi,590,чуплакъ,CyrillTrans,"naked, bare",,,"čuplaɣ, čuplaq̄",Phonemic
+4-970-80-1,udii1243,Udi,1653,кІач̍и,CyrillTrans,blind,,,k̄ačﬁi,Phonemic
+4-980-80-1,udii1243,Udi,1463,финогъой,CyrillTrans,intoxicated,,,finoɣoy,Phonemic
+4-960-80-1,udii1243,Udi,1666,музнутІ,CyrillTrans,mute,,,muznut̄,Phonemic
+4-950-80-1,udii1243,Udi,996,кар,CyrillTrans,deaf,,,kar,Phonemic
+4-930-80-1,udii1243,Udi,1125,каьчаьл,CyrillTrans,bald,,,käčäl,Phonemic
+4-940-80-1,udii1243,Udi,320,ахсаиншсун,CyrillTrans,lame,,,axsainšsun,Phonemic
+4-920-80-1,udii1243,Udi,1564,оьлуьвай,CyrillTrans,lazy,,,"ölüvay, taral",Phonemic
+4-920-80-3,udii1243,Udi,1564,тарал,CyrillTrans,lazy,,,"ölüvay, taral",Phonemic
+4-910-80-1,udii1243,Udi,1757,гъаъгъ,CyrillTrans,"tired, weary",,,ɣaˤɣ,Phonemic
+4-890-80-1,udii1243,Udi,655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-80-1,udii1243,Udi,1372,дава,CyrillTrans,"medicine, drug",,,"dava, därmän",Phonemic
+4-880-80-3,udii1243,Udi,1372,даьрмаьн,CyrillTrans,"medicine, drug",,,"dava, därmän",Phonemic
+4-870-80-1,udii1243,Udi,597,чарах,CyrillTrans,physician,,,čarax,Phonemic
+4-860-80-1,udii1243,Udi,499,къолайбсун,CyrillTrans,"cure, heal",,,q̄olaybbsun,Phonemic
+4-858-80-1,udii1243,Udi,497,йарабаки,CyrillTrans,scar,,,yarabaki,Phonemic
+4-857-80-1,udii1243,Udi,1808,мар,CyrillTrans,pus,,,mar,Phonemic
+4-856-80-1,udii1243,Udi,793,меълум,CyrillTrans,boil (noun),,,meˤlum,Phonemic
+4-855-80-1,udii1243,Udi,1584,тоъф,CyrillTrans,blister,,,toˤf,Phonemic
+4-854-80-1,udii1243,Udi,148,кьотур,CyrillTrans,itch,,,qʼotur,Phonemic
+4-853-80-1,udii1243,Udi,1903,беъх,CyrillTrans,swelling,,,beˤx,Phonemic
+4-852-80-1,udii1243,Udi,1148,гогинлугъ,CyrillTrans,bruise,,,goginluɣ,Phonemic
+4-850-80-1,udii1243,Udi,1109,йара,CyrillTrans,"wound, sore",,,yara,Phonemic
+4-843-80-1,udii1243,Udi,102,миакъсун,CyrillTrans,cold (catarrh),,,miaq̄sun,Phonemic
+4-842-80-1,udii1243,Udi,1957,чаьнаьдаьн,CyrillTrans,goiter,,,čänädän,Phonemic
+4-841-80-1,udii1243,Udi,1534,азарбесун,CyrillTrans,fever,,,azarbesun,Phonemic
+4-840-80-1,udii1243,Udi,1847,азарру,CyrillTrans,"sick, sickness",,,"azarru, azar",Phonemic
+4-840-80-3,udii1243,Udi,1847,азар,CyrillTrans,"sick, sickness",,,"azarru, azar",Phonemic
+4-830-80-1,udii1243,Udi,1364,ваьркаьр,CyrillTrans,"well, health",,,värkär,Phonemic
+4-820-80-1,udii1243,Udi,1601,аджиз,CyrillTrans,weak,,,aǯiz,Phonemic
+4-810-80-1,udii1243,Udi,785,зорба,CyrillTrans,"strong, mighty, powerful",,,zorba,Phonemic
+4-790-80-1,udii1243,Udi,1773,гаьраьмзаь,CyrillTrans,"grave, tomb",,,gärämzä,Phonemic
+4-780-80-1,udii1243,Udi,1719,очаълахбесун,CyrillTrans,bury (the dead),,,očaˤlaxbesun,Phonemic
+4-770-80-1,udii1243,Udi,767,джамдаьй,CyrillTrans,corpse,,,"ǯamdäy, meyid",Phonemic
+4-770-80-3,udii1243,Udi,767,мейид,CyrillTrans,corpse,,,"ǯamdäy, meyid",Phonemic
+4-760-80-1,udii1243,Udi,1417,бепІсун,CyrillTrans,kill,,,bep̄sun,Phonemic
+4-751-80-1,udii1243,Udi,1904,баткІало адмар,CyrillTrans,drowned,,,batk̄alo admar,Phonemic
+4-750-80-1,udii1243,Udi,1494,биесун,CyrillTrans,"die, dead",,,biyesun,Phonemic
+4-740-80-1,udii1243,Udi,1422,абадлы,CyrillTrans,"live, living, life",,,abadlɨ,Phonemic
+4-732-80-1,udii1243,Udi,1087,биъбиъ баксун,CyrillTrans,conceive,,,biˤbiˤ baksun,Phonemic
+4-730-80-1,udii1243,Udi,1123,биъбиъ,CyrillTrans,pregnant,,,biˤbiˤ,Phonemic
+4-720-80-1,udii1243,Udi,1090,бихесун,CyrillTrans,born (to be),,,"bixesun, nanaxun baksun",Phonemic
+4-720-80-3,udii1243,Udi,1090,нанахун баксун,CyrillTrans,born (to be),,,"bixesun, nanaxun baksun",Phonemic
+4-710-80-1,udii1243,Udi,1152,бихсун,CyrillTrans,beget (of father),,,bixsun,Phonemic
+4-690-80-1,udii1243,Udi,138,оцІкІалпесун,CyrillTrans,bathe,,,oc̄k̄alpesun,Phonemic
+4-680-80-1,udii1243,Udi,52,тІутІупесун,CyrillTrans,shiver,,,"t̄ut̄upesun, žaɣpesun",Phonemic
+4-680-80-3,udii1243,Udi,52,жагъпесун,CyrillTrans,shiver,,,"t̄ut̄upesun, žaɣpesun",Phonemic
+4-670-80-1,udii1243,Udi,1785,тІуцпесун,CyrillTrans,have sexual intercourse,,,t̄ucpesun,Phonemic
+4-660-80-1,udii1243,Udi,676,бавсун,CyrillTrans,defecate,,,bavsun,Phonemic
+4-650-80-1,udii1243,Udi,592,чишпсун,CyrillTrans,urinate,,,čišpsun,Phonemic
+4-640-80-1,udii1243,Udi,1159,фаъпсун,CyrillTrans,break wind,,,"faˤpsun, tɨsɨst̄un",Phonemic
+4-640-80-3,udii1243,Udi,1159,тысыстІун,CyrillTrans,break wind,,,"faˤpsun, tɨsɨst̄un",Phonemic
+4-630-80-1,udii1243,Udi,1602,могъордаксун,CyrillTrans,wake up,,,moɣordaksun,Phonemic
+4-620-80-1,udii1243,Udi,1920,непІ акъсун,CyrillTrans,dream,,,nep̄ aq̄sun,Phonemic
+4-612-80-1,udii1243,Udi,1983,хучупсун,CyrillTrans,snore,,,xučupsun,Phonemic
+4-610-80-1,udii1243,Udi,1585,непІахесун,CyrillTrans,sleep,,,"nep̄axesun, bask̄sun",Phonemic
+4-610-80-3,udii1243,Udi,1585,баскІсун,CyrillTrans,sleep,,,"nep̄axesun, bask̄sun",Phonemic
+4-591-80-1,udii1243,Udi,268,гереч бартесун,CyrillTrans,dribble,,,gereč bartesun,Phonemic
+4-590-80-1,udii1243,Udi,319,лампесун,CyrillTrans,lick,,,lampesun,Phonemic
+4-580-80-1,udii1243,Udi,1403,кашпсун,CyrillTrans,bite,,,kašpsun,Phonemic
+4-570-80-1,udii1243,Udi,1278,аьсаькІпІесун,CyrillTrans,vomit,,,äsäk̄p̄esun,Phonemic
+4-560-80-1,udii1243,Udi,1440,ч̍упсун,CyrillTrans,spit,,,c̄ﬁupsun,Phonemic
+4-550-80-1,udii1243,Udi,126,апІахбаксун,CyrillTrans,perspire,,,ap̄axbaksun,Phonemic
+4-540-80-1,udii1243,Udi,1621,сабурестІун,CyrillTrans,sneeze,,,saburest̄un,Phonemic
+4-530-80-1,udii1243,Udi,879,хъоъхъпесун,CyrillTrans,cough,,,qoˤqpesun,Phonemic
+4-521-80-1,udii1243,Udi,162,бекІтІосун,CyrillTrans,hiccough,,,bek̄t̄osun,Phonemic
+4-520-80-1,udii1243,Udi,1028,амкІулендесун,CyrillTrans,"yawn, gape",,,amk̄ulendesun,Phonemic
+4-510-80-1,udii1243,Udi,1407,фупсун,CyrillTrans,"breathe, breath",,,fupsun,Phonemic
+4-492-80-1,udii1243,Udi,1222,кІол,CyrillTrans,penis,,,k̄ol,Phonemic
+4-490-80-1,udii1243,Udi,797,тІашакІ,CyrillTrans,testicle,,,t̄ašak̄,Phonemic
+4-470-80-1,udii1243,Udi,804,тапан,CyrillTrans,womb,,,tapan,Phonemic
+4-464-80-1,udii1243,Udi,834,шан,CyrillTrans,buttocks,,,šan,Phonemic
+4-463-80-1,udii1243,Udi,1745,буд,CyrillTrans,hip,,,"bud, q̄ul",Phonemic
+4-463-80-3,udii1243,Udi,1745,къул,CyrillTrans,hip,,,"bud, q̄ul",Phonemic
+4-461-80-1,udii1243,Udi,1991,уникъ,CyrillTrans,"intestines, guts",,,"uniq̄, uˤnuɣ",Phonemic
+4-461-80-3,udii1243,Udi,1991,уънугъ,CyrillTrans,"intestines, guts",,,"uniq̄, uˤnuɣ",Phonemic
+4-460-80-1,udii1243,Udi,819,тапан,CyrillTrans,stomach,,,tapan,Phonemic
+4-452-80-1,udii1243,Udi,1744,зизам,CyrillTrans,spleen,,,zizam,Phonemic
+4-451-80-1,udii1243,Udi,489,гурдакІ,CyrillTrans,kidney,,,gurdak̄,Phonemic
+4-450-80-1,udii1243,Udi,1224,маъйин папаш,CyrillTrans,liver,,,maʕyin papaš,Phonemic
+4-441-80-1,udii1243,Udi,688,пыртІ,CyrillTrans,lung,,,pɨrt̄,Phonemic
+4-440-80-1,udii1243,Udi,1223,укІ,CyrillTrans,heart,,,"uk̄, ük̄",Phonemic
+4-440-80-3,udii1243,Udi,1223,уькІ,CyrillTrans,heart,,,"uk̄, ük̄",Phonemic
+4-430-80-1,udii1243,Udi,1838,цІан,CyrillTrans,navel,,,c̄an,Phonemic
+4-420-80-1,udii1243,Udi,154,хоъ,CyrillTrans,udder,,,xoˤ,Phonemic
+4-412-80-1,udii1243,Udi,796,цІицІикІ,CyrillTrans,"nipple, teat",,,c̄ic̄ik̄,Phonemic
+4-410-80-1,udii1243,Udi,1402,аьхъ,CyrillTrans,breast (of woman),,,äq,Phonemic
+4-400-80-1,udii1243,Udi,1592,доьш,CyrillTrans,chest,,,"döš, šaˤqʼ",Phonemic
+4-400-80-3,udii1243,Udi,1592,шаъкь,CyrillTrans,chest,,,"döš, šaˤqʼ",Phonemic
+4-393-80-1,udii1243,Udi,1201,маджа,CyrillTrans,feather,,,maǯa,Phonemic
+4-392-80-1,udii1243,Udi,1257,къаьнаьд,CyrillTrans,wing,,,q̄änäd,Phonemic
+4-380-80-1,udii1243,Udi,1389,кІаьшаь,CyrillTrans,toe,,,k̄äšä,Phonemic
+4-374-80-1,udii1243,Udi,318,къаджил,CyrillTrans,footprint,,,q̄aǯil,Phonemic
+4-372-80-1,udii1243,Udi,980,дабан,CyrillTrans,heel,,,daban,Phonemic
+4-370-80-1,udii1243,Udi,1301,чІил,CyrillTrans,foot,,,č̄il,Phonemic
+4-360-80-1,udii1243,Udi,1371,кІаъкІаъпІ,CyrillTrans,knee,,,k̄aˤk̄aˤp̄,Phonemic
+4-352-80-1,udii1243,Udi,498,къул,CyrillTrans,calf of leg,,,q̄ul,Phonemic
+4-351-80-1,udii1243,Udi,800,буд,CyrillTrans,thigh,,,"bud, q̄ul",Phonemic
+4-351-80-3,udii1243,Udi,800,къул,CyrillTrans,thigh,,,"bud, q̄ul",Phonemic
+4-350-80-1,udii1243,Udi,1297,тур,CyrillTrans,leg,,,tur,Phonemic
+4-345-80-1,udii1243,Udi,72,мух,CyrillTrans,claw,,,"mux, čilik",Phonemic
+4-345-80-3,udii1243,Udi,72,чилик,CyrillTrans,claw,,,"mux, čilik",Phonemic
+4-344-80-1,udii1243,Udi,1258,мух,CyrillTrans,fingernail,,,mux,Phonemic
+4-342-80-1,udii1243,Udi,1781,кала кІаьшаь,CyrillTrans,thumb,,,kala k̄äšä,Phonemic
+4-340-80-1,udii1243,Udi,1303,кІаьшаь,CyrillTrans,finger,,,k̄äšä,Phonemic
+4-331-80-1,udii1243,Udi,1183,маъхаъ,CyrillTrans,palm of hand,,,maˤxaˤ,Phonemic
+4-330-80-1,udii1243,Udi,1277,кул,CyrillTrans,hand,,,kul,Phonemic
+4-321-80-1,udii1243,Udi,799,билекъ,CyrillTrans,wrist,,,bileq̄,Phonemic
+4-320-80-1,udii1243,Udi,981,базукІ,CyrillTrans,elbow,,,"bazuk̄, q̄ač, k̄oknik",Phonemic
+4-320-80-3,udii1243,Udi,981,къач,CyrillTrans,elbow,,,"bazuk̄, q̄ač, k̄oknik",Phonemic
+4-320-80-5,udii1243,Udi,981,кІокник,CyrillTrans,elbow,,,"bazuk̄, q̄ač, k̄oknik",Phonemic
+4-312-80-1,udii1243,Udi,1886,аъмнаъ,CyrillTrans,armpit,,,"aˤmnaˤ, oq̄a",Phonemic
+4-312-80-3,udii1243,Udi,1886,окъа,CyrillTrans,armpit,,,"aˤmnaˤ, oq̄a",Phonemic
+4-310-80-1,udii1243,Udi,1673,аъм,CyrillTrans,arm,,,"aˤm, kul",Phonemic
+4-310-80-3,udii1243,Udi,1673,кул,CyrillTrans,arm,,,"aˤm, kul",Phonemic
+4-302-80-1,udii1243,Udi,1994,жинаб,CyrillTrans,collarbone,,,žinab,Phonemic
+4-301-80-1,udii1243,Udi,172,аъмнаъбил,CyrillTrans,shoulderblade,,,aˤmnaˤbil,Phonemic
+4-300-80-1,udii1243,Udi,1482,аъмнаъбил,CyrillTrans,shoulder,,,"aˤmnaˤbil, mindov",Phonemic
+4-300-80-3,udii1243,Udi,1482,миндов,CyrillTrans,shoulder,,,"aˤmnaˤbil, mindov",Phonemic
+4-290-80-1,udii1243,Udi,1346,къигъ,CyrillTrans,throat,,,"q̄iɣ, q̄oq̄, q̄oq̄nat̄uma",Phonemic
+4-290-80-3,udii1243,Udi,1346,къокъ,CyrillTrans,throat,,,"q̄iɣ, q̄oq̄, q̄oq̄nat̄uma",Phonemic
+4-290-80-5,udii1243,Udi,1346,къокънатІума,CyrillTrans,throat,,,"q̄iɣ, q̄oq̄, q̄oq̄nat̄uma",Phonemic
+4-281-80-1,udii1243,Udi,1347,озапинтоп,CyrillTrans,nape of neck,,,ozapintop,Phonemic
+4-280-80-1,udii1243,Udi,1333,озан,CyrillTrans,neck,,,ozan,Phonemic
+4-272-80-1,udii1243,Udi,1049,улух,CyrillTrans,molartooth,,,ulux,Phonemic
+4-270-80-1,udii1243,Udi,1380,улух,CyrillTrans,tooth,,,ulux,Phonemic
+4-271-80-1,udii1243,Udi,139,тІамагъ,CyrillTrans,gums,,,t̄amaɣ,Phonemic
+4-260-80-1,udii1243,Udi,1205,муз,CyrillTrans,tongue,,,muz,Phonemic
+4-250-80-1,udii1243,Udi,478,джиджир,CyrillTrans,lip,,,ǯiǯir,Phonemic
+4-241-80-1,udii1243,Udi,73,дындыгъ,CyrillTrans,beak,,,dɨndɨɣ,Phonemic
+4-240-80-1,udii1243,Udi,674,жІомо,CyrillTrans,mouth,,,žﬁomo,Phonemic
+4-232-80-1,udii1243,Udi,208,фиътІпІун,CyrillTrans,mucus (nasal),,,fiˤt̄p̄un,Phonemic
+4-231-80-1,udii1243,Udi,1178,боъхмоъхгъ,CyrillTrans,nostril,,,boˤxmoˤɣ,Phonemic
+4-230-80-1,udii1243,Udi,1221,боъхмоъгъ,CyrillTrans,nose,,,boˤxmoˤɣ,Phonemic
+4-221-80-1,udii1243,Udi,18,уъмуъх,CyrillTrans,earlobe,,,uˤmuˤx,Phonemic
+4-220-80-1,udii1243,Udi,1247,уъмуъх,CyrillTrans,ear,,,uˤmuˤx,Phonemic
+4-214-80-1,udii1243,Udi,1540,нетІ,CyrillTrans,eyelash,,,net̄,Phonemic
+4-213-80-1,udii1243,Udi,17,пикнапагъ,CyrillTrans,eyelid,,,piknapaɣ,Phonemic
+4-212-80-1,udii1243,Udi,1173,къаш,CyrillTrans,eyebrow,,,q̄aš,Phonemic
+4-210-80-1,udii1243,Udi,1248,пул,CyrillTrans,eye,,,pul,Phonemic
+4-208-80-1,udii1243,Udi,1730,туш,CyrillTrans,cheek,,,tuš,Phonemic
+4-209-80-1,udii1243,Udi,1510,маинкъо,CyrillTrans,chin,,,mainq̄o,Phonemic
+4-205-80-1,udii1243,Udi,123,кІодох,CyrillTrans,forehead,,,k̄odox,Phonemic
+4-207-80-1,udii1243,Udi,798,чаьнаь,CyrillTrans,jaw,,,čänä,Phonemic
+4-204-80-1,udii1243,Udi,1560,чъо,CyrillTrans,face,,,čﬁo,Phonemic
+4-203-80-1,udii1243,Udi,1583,маъ,CyrillTrans,brain,,,maˤ,Phonemic
+4-201-80-1,udii1243,Udi,1604,лІипІлІипІкІал,CyrillTrans,"side of head, temple",,,ƛip̄ƛip̄k̄al,Phonemic
+4-202-80-1,udii1243,Udi,1605,кІантІаз,CyrillTrans,skull,,,k̄ant̄az,Phonemic
+4-200-80-1,udii1243,Udi,1256,бул,CyrillTrans,head,,,bul,Phonemic
+4-191-80-1,udii1243,Udi,805,бач̍ан,CyrillTrans,spine,,,bač̄an,Phonemic
+4-190-80-1,udii1243,Udi,1291,бач̍ан,CyrillTrans,back,,,bač̄an,Phonemic
+4-180-80-1,udii1243,Udi,1220,ожфиуъл,CyrillTrans,tail,,,"ož̄il, ožﬁuˤl",Phonemic
+4-180-80-3,udii1243,Udi,1220,ожІиъл,CyrillTrans,tail,,,"ož̄il, ožﬁuˤl",Phonemic
+4-170-80-1,udii1243,Udi,1393,муъкъаъ,CyrillTrans,horn,,,muˤq̄aˤ,Phonemic
+4-162-80-1,udii1243,Udi,801,тІокІмашІа,CyrillTrans,rib,,,t̄ok̄mašﬁa,Phonemic
+4-160-80-1,udii1243,Udi,1394,уъкъеън,CyrillTrans,bone,,,uˤq̄eˤn,Phonemic
+4-151-80-1,udii1243,Udi,525,тІамар,CyrillTrans,"vein, artery",,,t̄amar,Phonemic
+4-150-80-1,udii1243,Udi,946,пІи,CyrillTrans,blood,,,p̄i,Phonemic
+4-146-80-1,udii1243,Udi,576,хошкІаьр,CyrillTrans,dandruff,,,xošk̄är,Phonemic
+4-145-80-1,udii1243,Udi,36,поп,CyrillTrans,pubic hair,,,pop,Phonemic
+4-144-80-1,udii1243,Udi,189,поп,CyrillTrans,body hair,,,pop,Phonemic
+4-142-80-1,udii1243,Udi,678,кІаьжух,CyrillTrans,beard,,,k̄äžux,Phonemic
+4-140-80-1,udii1243,Udi,1040,поп,CyrillTrans,hair (head),,,pop,Phonemic
+4-130-80-1,udii1243,Udi,2259,лаьш,CyrillTrans,flesh,,,läš,Phonemic
+4-120-80-1,udii1243,Udi,763,тІол,CyrillTrans,"skin, hide",,,t̄ol,Phonemic
+4-110-80-1,udii1243,Udi,1480,лаьш,CyrillTrans,body,,,läš,Phonemic
+3-980-80-1,udii1243,Udi,112,къоъдиъ,CyrillTrans,turtle,,,q̄oˤdiˤ,Phonemic
+3-970-80-1,udii1243,Udi,1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-80-1,udii1243,Udi,632,деревал,CyrillTrans,lizard,,,dereval,Phonemic
+3-950-80-1,udii1243,Udi,503,беъдалакъ,CyrillTrans,frog,,,beˤdalaq̄,Phonemic
+3-940-80-1,udii1243,Udi,1543,аьлбиз,CyrillTrans,snail,,,älbiz,Phonemic
+3-930-80-1,udii1243,Udi,607,цІаьтІкІан,CyrillTrans,grasshopper,,,c̄ät̄k̄an,Phonemic
+3-920-80-1,udii1243,Udi,1791,пампалукІ,CyrillTrans,butterfly,,,pampaluk̄,Phonemic
+3-850-80-1,udii1243,Udi,730,дизикІ,CyrillTrans,snake,,,dizik̄,Phonemic
+3-840-80-1,udii1243,Udi,1219,мехъ,CyrillTrans,worm,,,meq,Phonemic
+3-832-80-1,udii1243,Udi,1509,моцІакІ,CyrillTrans,mosquito,,,moс̄ak̄,Phonemic
+3-831-80-1,udii1243,Udi,95,мочакІ,CyrillTrans,"sandfly (midge), gnat",,,močak̄,Phonemic
+3-830-80-1,udii1243,Udi,1504,тІатІ,CyrillTrans,fly,,,t̄at̄,Phonemic
+3-823-80-1,udii1243,Udi,1517,джиртІатІ,CyrillTrans,wasp,,,ǯirt̄at̄,Phonemic
+3-822-80-1,udii1243,Udi,88,тІапІан,CyrillTrans,beehive,,,t̄ap̄an,Phonemic
+3-821-80-1,udii1243,Udi,1931,мом,CyrillTrans,beeswax,,,mom,Phonemic
+3-820-80-1,udii1243,Udi,665,тІатІ,CyrillTrans,bee,,,t̄at̄,Phonemic
+3-819-80-1,udii1243,Udi,1065,жолакІ,CyrillTrans,spider web,,,žolak̄,Phonemic
+3-818-80-1,udii1243,Udi,843,джолакІ,CyrillTrans,spider,,,ǯolak̄,Phonemic
+3-817-80-1,udii1243,Udi,587,хурутІур,CyrillTrans,ant,,,xurut̄ur,Phonemic
+3-816-80-1,udii1243,Udi,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-80-1,udii1243,Udi,1538,кьырхайагъ,CyrillTrans,scorpion,,,qʼɨrxayaɣ,Phonemic
+3-814-80-1,udii1243,Udi,1974,кьичхайагъ,CyrillTrans,centipede,,,qʼičxayaɣ,Phonemic
+3-813-80-1,udii1243,Udi,232,ин,CyrillTrans,flea,,,in,Phonemic
+3-812-80-1,udii1243,Udi,267,тІе,CyrillTrans,nit (louse egg),,,t̄e,Phonemic
+3-811-80-1,udii1243,Udi,1392,нецІ,CyrillTrans,louse,,,nec̄,Phonemic
+3-810-80-1,udii1243,Udi,620,гьашарат,CyrillTrans,insect,,,hašarat,Phonemic
+3-780-80-1,udii1243,Udi,1871,буш,CyrillTrans,camel,,,buš,Phonemic
+3-770-80-1,udii1243,Udi,1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-80-1,udii1243,Udi,1350,меймун,CyrillTrans,monkey,,,meymun,Phonemic
+3-750-80-1,udii1243,Udi,1936,муъкъ,CyrillTrans,deer,,,muˤq̄,Phonemic
+3-740-80-1,udii1243,Udi,1312,туьлки,CyrillTrans,fox,,,tülki,Phonemic
+3-730-80-1,udii1243,Udi,1820,шуйе,CyrillTrans,bear,,,šuye,Phonemic
+3-720-80-1,udii1243,Udi,1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-80-1,udii1243,Udi,522,ул,CyrillTrans,wolf,,,ul,Phonemic
+3-663-80-1,udii1243,Udi,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-80-1,udii1243,Udi,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-80-1,udii1243,Udi,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-80-1,udii1243,Udi,598,уъмуъх (чаьли),CyrillTrans,shell,,,uˤmuˤx (čäli),Phonemic
+3-653-80-1,udii1243,Udi,266,тІол (чаьли),CyrillTrans,fishscale,,,t̄ol (čäli),Phonemic
+3-652-80-1,udii1243,Udi,213,къаьнаьд (чаьли),CyrillTrans,fin (dorsal),,,q̄änäd (čäli),Phonemic
+3-650-80-1,udii1243,Udi,227,чаьли,CyrillTrans,fish,,,čäli,Phonemic
+3-630-80-1,udii1243,Udi,2139,кІечІнамел,CyrillTrans,"mouse, rat",,,k̄eč̄namel,Phonemic
+3-620-80-1,udii1243,Udi,1208,пишикІ,CyrillTrans,cat,,,pišik̄,Phonemic
+3-614-80-1,udii1243,Udi,1136,кролик,CyrillTrans,rabbit,,,krolik,Phonemic
+3-610-80-1,udii1243,Udi,2009,хаъ,CyrillTrans,dog,,,xaˤ,Phonemic
+3-594-80-1,udii1243,Udi,1853,гоьйаьрчин,CyrillTrans,dove,,,"göyärcin, k̄unk̄uri",Phonemic
+3-594-80-3,udii1243,Udi,1853,кІункІури,CyrillTrans,dove,,,"göyärcin, k̄unk̄uri",Phonemic
+3-596-80-1,udii1243,Udi,735,гъугъу,CyrillTrans,owl,,,ɣuɣu,Phonemic
+3-593-80-1,udii1243,Udi,913,гъаъинаъ,CyrillTrans,crow,,,ɣaˤinaˤ,Phonemic
+3-592-80-1,udii1243,Udi,882,тІулаш,CyrillTrans,parrot,,,t̄ulaš,Phonemic
+3-591-80-1,udii1243,Udi,1793,маьшкаьтил,CyrillTrans,bat,,,mäškätil,Phonemic
+3-586-80-1,udii1243,Udi,1185,чалагъан,CyrillTrans,vulture,,,čalaɣan,Phonemic
+3-585-80-1,udii1243,Udi,307,къиргъи,CyrillTrans,hawk,,,"q̄irɣi, q̄ɨzɨlq̄uš",Phonemic
+3-585-80-3,udii1243,Udi,307,къызылкъуш,CyrillTrans,hawk,,,"q̄irɣi, q̄ɨzɨlq̄uš",Phonemic
+3-584-80-1,udii1243,Udi,1905,къузгъун,CyrillTrans,eagle,,,quzɣun,Phonemic
+3-582-80-1,udii1243,Udi,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-80-1,udii1243,Udi,758,къуш,CyrillTrans,heron,,,q̄uš,Phonemic
+3-581-80-1,udii1243,Udi,937,къуш,CyrillTrans,bird,,,q̄uš,Phonemic
+3-580-80-1,udii1243,Udi,539,мес,CyrillTrans,nest,,,mes,Phonemic
+3-570-80-1,udii1243,Udi,1360,оьрдаьй,CyrillTrans,duck,,,ördäy,Phonemic
+3-560-80-1,udii1243,Udi,1187,къаз,CyrillTrans,goose,,,q̄az,Phonemic
+3-550-80-1,udii1243,Udi,1318,цІирикІ,CyrillTrans,chicken,,,c̄irik̄,Phonemic
+3-540-80-1,udii1243,Udi,1514,кІокІоцІ,CyrillTrans,hen,,,"k̄ok̄oc̄, šﬁumak̄",Phonemic
+3-540-80-3,udii1243,Udi,1514,шІумакІ,CyrillTrans,hen,,,"k̄ok̄oc̄, šﬁumak̄",Phonemic
+3-520-80-1,udii1243,Udi,1511,дадал,CyrillTrans,"cock, rooster",,,dadal,Phonemic
+3-470-80-1,udii1243,Udi,890,къаътиър,CyrillTrans,mule,,,q̄aˤtiˤr,Phonemic
+3-500-80-1,udii1243,Udi,265,къуш,CyrillTrans,fowl,,,q̄uš,Phonemic
+3-460-80-1,udii1243,Udi,1862,елем,CyrillTrans,"ass, donkey",,,elem,Phonemic
+3-450-80-1,udii1243,Udi,1647,кІопІи,CyrillTrans,"foal, colt",,,k̄op̄i,Phonemic
+3-440-80-1,udii1243,Udi,938,хуниеък,CyrillTrans,mare,,,xunieˤk,Phonemic
+3-420-80-1,udii1243,Udi,936,еък,CyrillTrans,stallion,,,eˤk,Phonemic
+3-410-80-1,udii1243,Udi,615,еък,CyrillTrans,horse (equine),,,eˤk,Phonemic
+3-380-80-1,udii1243,Udi,1972,тили,CyrillTrans,kid,,,tili,Phonemic
+3-370-80-1,udii1243,Udi,264,вел,CyrillTrans,he-goat,,,vel,Phonemic
+3-360-80-1,udii1243,Udi,1502,кечи,CyrillTrans,goat,,,keči,Phonemic
+3-350-80-1,udii1243,Udi,1337,боъкъ,CyrillTrans,pig,,,boˤq̄,Phonemic
+3-340-80-1,udii1243,Udi,1351,боькъ,CyrillTrans,sow (2),,,böq̄,Phonemic
+3-320-80-1,udii1243,Udi,1348,кІаджил,CyrillTrans,boar,,,k̄aǯil,Phonemic
+3-290-80-1,udii1243,Udi,820,къузи,CyrillTrans,lamb,,,q̄uzi,Phonemic
+3-280-80-1,udii1243,Udi,1345,егъел,CyrillTrans,ewe,,,eɣel,Phonemic
+3-260-80-1,udii1243,Udi,1344,къоч,CyrillTrans,ram,,,q̄oč,Phonemic
+3-250-80-1,udii1243,Udi,1331,йегъел,CyrillTrans,sheep,,,"yeɣel, iɣel",Phonemic
+3-250-80-3,udii1243,Udi,1331,игъел,CyrillTrans,sheep,,,"yeɣel, iɣel",Phonemic
+3-240-80-1,udii1243,Udi,1989,мози,CyrillTrans,calf,,,mozi,Phonemic
+3-230-80-1,udii1243,Udi,1007,чур,CyrillTrans,cow,,,čur,Phonemic
+3-220-80-1,udii1243,Udi,1169,ус,CyrillTrans,ox,,,us,Phonemic
+3-210-80-1,udii1243,Udi,1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-80-1,udii1243,Udi,1153,бели,CyrillTrans,cattle (bovine),,,beli,Phonemic
+3-190-80-1,udii1243,Udi,851,белекІож,CyrillTrans,"stable, stall",,,belek̄ož,Phonemic
+3-180-80-1,udii1243,Udi,263,белебегъал,CyrillTrans,herdsman,,,belebeɣal,Phonemic
+3-160-80-1,udii1243,Udi,649,йаьйлагъ,CyrillTrans,pasture,,,yäylaɣ,Phonemic
+3-150-80-1,udii1243,Udi,631,бели,CyrillTrans,livestock,,,beli,Phonemic
+3-130-80-1,udii1243,Udi,2262,хыдыл,CyrillTrans,female (adj),,,xɨdɨl,Phonemic
+3-120-80-1,udii1243,Udi,2261,эркег,CyrillTrans,male (adj),,,erkeg,Phonemic
+3-110-80-1,udii1243,Udi,619,бели,CyrillTrans,animal,,,beli,Phonemic
+2-960-80-1,udii1243,Udi,817,шенор,CyrillTrans,they,,,"šenor, šopox",Phonemic
+2-960-80-3,udii1243,Udi,817,шорох,CyrillTrans,they,,,"šenor, šopox",Phonemic
+2-950-80-1,udii1243,Udi,1213,ваън,CyrillTrans,you (plural),,,vaˤn,Phonemic
+2-940-80-1,udii1243,Udi,1212,йан,CyrillTrans,we,,,yan,Phonemic
+2-930-80-1,udii1243,Udi,262,моно,CyrillTrans,he/she/it,,,mono,Phonemic
+2-920-80-1,udii1243,Udi,1215,гьун,CyrillTrans,you (singular),,,hun,Phonemic
+2-910-80-1,udii1243,Udi,1209,зу,CyrillTrans,I,,,zu,Phonemic
+2-820-80-1,udii1243,Udi,194,куьлфаьт,CyrillTrans,family,,,külfät,Phonemic
+2-810-80-1,udii1243,Udi,1644,къогьум,CyrillTrans,"relatives, kinsmen",,,q̄ohum,Phonemic
+2-770-80-1,udii1243,Udi,1981,сипир,CyrillTrans,widower,,,sipir,Phonemic
+2-760-80-1,udii1243,Udi,1756,сипир,CyrillTrans,widow,,,sipir,Phonemic
+2-750-80-1,udii1243,Udi,1149,йетим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-80-1,udii1243,Udi,1058,ога,CyrillTrans,stepdaughter,,,"oga, xin",Phonemic
+2-740-80-3,udii1243,Udi,1058,хин,CyrillTrans,stepdaughter,,,"oga, xin",Phonemic
+2-730-80-1,udii1243,Udi,1059,гъарлугъ,CyrillTrans,stepson,,,ɣarluɣ,Phonemic
+2-720-80-1,udii1243,Udi,236,наналугъ,CyrillTrans,stepmother,,,nanaluɣ,Phonemic
+2-710-80-1,udii1243,Udi,237,бабалугъ,CyrillTrans,stepfather,,,babaluɣ,Phonemic
+2-641-80-1,udii1243,Udi,2264,бин,CyrillTrans,daughter-in-law (of a woman),,,bin,Phonemic
+2-640-80-1,udii1243,Udi,2265,бин,CyrillTrans,daughter-in-law (of a man),,,bin,Phonemic
+2-631-80-1,udii1243,Udi,2266,йезна,CyrillTrans,son-in-law (of a woman),,,yezna,Phonemic
+2-630-80-1,udii1243,Udi,2267,йезна,CyrillTrans,son-in-law (of a man),,,yezna,Phonemic
+2-621-80-1,udii1243,Udi,2257,кьайнако,CyrillTrans,mother-in-law (of a woman),,,qʼaynako,Phonemic
+2-620-80-1,udii1243,Udi,2256,сейне,CyrillTrans,mother-in-law (of a man),,,seyne,Phonemic
+2-611-80-1,udii1243,Udi,2254,кьайн-бава,CyrillTrans,father-in-law (of a woman),,,qʼayn-bava,Phonemic
+2-610-80-1,udii1243,Udi,2255,сейде,CyrillTrans,father-in-law (of a man),,,seyde,Phonemic
+2-570-80-1,udii1243,Udi,490,хой,CyrillTrans,descendants,,,xoy,Phonemic
+2-560-80-1,udii1243,Udi,1669,ата-бава,CyrillTrans,ancestors,,,ata-bava,Phonemic
+2-550-80-1,udii1243,Udi,1643,амагъар,CyrillTrans,cousin,,,amaɣar,Phonemic
+2-540-80-1,udii1243,Udi,1642,вичехинар,CyrillTrans,niece,,,vičexinar,Phonemic
+2-530-80-1,udii1243,Udi,1063,вичегъар,CyrillTrans,nephew,,,vičeɣar,Phonemic
+2-522-80-1,udii1243,Udi,170,ама,CyrillTrans,father's sister,,,ama,Phonemic
+2-520-80-1,udii1243,Udi,1272,хала,CyrillTrans,aunt,,,xala,Phonemic
+2-521-80-1,udii1243,Udi,171,хала,CyrillTrans,mother's sister,,,xala,Phonemic
+2-512-80-1,udii1243,Udi,1985,аьмикІ,CyrillTrans,father's brother,,,ämik̄,Phonemic
+2-511-80-1,udii1243,Udi,1984,тІайи,CyrillTrans,mother's brother,,,t̄ayi,Phonemic
+2-510-80-1,udii1243,Udi,1327,халикІ,CyrillTrans,uncle,,,xalik̄,Phonemic
+2-480-80-1,udii1243,Udi,1618,наьваь,CyrillTrans,grandson,,,nävä,Phonemic
+2-490-80-1,udii1243,Udi,1619,наьваь,CyrillTrans,granddaughter,,,nävä,Phonemic
+2-471-80-1,udii1243,Udi,907,аьгьил,CyrillTrans,old woman,,,ähil,Phonemic
+2-470-80-1,udii1243,Udi,1496,кална,CyrillTrans,grandmother,,,kalna,Phonemic
+2-461-80-1,udii1243,Udi,406,аьгьил,CyrillTrans,old man,,,ähil,Phonemic
+2-460-80-1,udii1243,Udi,1383,калба,CyrillTrans,grandfather,,,kalba,Phonemic
+2-458-80-1,udii1243,Udi,1005,аькиз,CyrillTrans,twins,,,äkiz,Phonemic
+2-456-80-1,udii1243,Udi,1640,вичи,CyrillTrans,sibling,,,"viči, xunči",Phonemic
+2-456-80-3,udii1243,Udi,1640,хунчи,CyrillTrans,sibling,,,"viči, xunči",Phonemic
+2-455-80-1,udii1243,Udi,1761,мицІикІ хунчи,CyrillTrans,younger sister,,,mic̄ik̄ xunči,Phonemic
+2-454-80-1,udii1243,Udi,1758,кала хучи,CyrillTrans,older sister,,,kala xuči,Phonemic
+2-450-80-1,udii1243,Udi,1263,хунчи,CyrillTrans,sister,,,xunči,Phonemic
+2-445-80-1,udii1243,Udi,1760,мицІикІ вичи,CyrillTrans,younger brother,,,mic̄ik̄ viči,Phonemic
+2-444-80-1,udii1243,Udi,1759,кІада,CyrillTrans,older brother,,,"k̄ada, kala viči",Phonemic
+2-444-80-3,udii1243,Udi,1759,кала вичи,CyrillTrans,older brother,,,"k̄ada, kala viči",Phonemic
+2-440-80-1,udii1243,Udi,1262,вичи,CyrillTrans,brother,,,viči,Phonemic
+2-430-80-1,udii1243,Udi,1801,хой,CyrillTrans,offspring (son or daughter),,,xoy,Phonemic
+2-420-80-1,udii1243,Udi,1357,хуьйаьр,CyrillTrans,daughter,,,xüyär,Phonemic
+2-410-80-1,udii1243,Udi,1620,гъар,CyrillTrans,son,,,ɣаr,Phonemic
+2-390-80-1,udii1243,Udi,426,ишла,CyrillTrans,married woman,,,išla,Phonemic
+2-370-80-1,udii1243,Udi,505,бава-нана,CyrillTrans,parents,,,bava-nana,Phonemic
+2-360-80-1,udii1243,Udi,1216,нана,CyrillTrans,mother,,,nana,Phonemic
+2-350-80-1,udii1243,Udi,1217,бава,CyrillTrans,father,,,bava,Phonemic
+2-341-80-1,udii1243,Udi,1134,талагъ,CyrillTrans,divorce,,,talaɣ,Phonemic
+2-340-80-1,udii1243,Udi,1259,лашІкІой,CyrillTrans,"marriage, wedding",,,lašﬁk̄oy,Phonemic
+2-320-80-1,udii1243,Udi,1199,чу(гь)ух,CyrillTrans,wife,,,ču(h)ux,Phonemic
+2-310-80-1,udii1243,Udi,1200,ишкъар,CyrillTrans,husband,,,išq̄ar,Phonemic
+2-280-80-1,udii1243,Udi,1289,аьйел,CyrillTrans,"infant, baby",,,äyel,Phonemic
+2-270-80-1,udii1243,Udi,1304,аьйел,CyrillTrans,child,,,äyel,Phonemic
+2-261-80-1,udii1243,Udi,77,хуьйаьр,CyrillTrans,young woman (adolescent),,,xüyär,Phonemic
+2-260-80-1,udii1243,Udi,1646,хуьйаьр,CyrillTrans,girl,,,xüyär,Phonemic
+2-251-80-1,udii1243,Udi,76,джаьгьил гъар,CyrillTrans,young man (adolescent),,,ǯähil ɣar,Phonemic
+2-250-80-1,udii1243,Udi,1366,гъар,CyrillTrans,boy,,,ɣar,Phonemic
+2-240-80-1,udii1243,Udi,1551,диши,CyrillTrans,female,,,diši,Phonemic
+2-230-80-1,udii1243,Udi,1553,аьркаьй,CyrillTrans,male,,,ärkäy,Phonemic
+2-220-80-1,udii1243,Udi,962,чу(гь)ух,CyrillTrans,woman,,,ču(h)ux,Phonemic
+2-210-80-1,udii1243,Udi,1554,ишкъар,CyrillTrans,man (vs. woman),,,išq̄ar,Phonemic
+2-100-80-1,udii1243,Udi,683,амдар,CyrillTrans,"person, human being",,,amdar,Phonemic
+1-890-80-1,udii1243,Udi,1188,кІинцІал,CyrillTrans,charcoal,,,"k̄inc̄al, kömur",Phonemic
+1-890-80-3,udii1243,Udi,1188,коьмур,CyrillTrans,charcoal,,,"k̄inc̄al, kömur",Phonemic
+1-880-80-1,udii1243,Udi,10,ушІ,CyrillTrans,firewood,,,ušﬁ,Phonemic
+1-870-80-1,udii1243,Udi,1133,кирбит,CyrillTrans,match (noun),,,kirbit,Phonemic
+1-861-80-1,udii1243,Udi,127,чІапІбесун,CyrillTrans,extinguish,,,č̄ap̄besun,Phonemic
+1-860-80-1,udii1243,Udi,737,бокІосбесун,CyrillTrans,"light, kindle, ignite",,,bok̄osbesun,Phonemic
+1-852-80-1,udii1243,Udi,1428,бокІсун,CyrillTrans,burn (vb intrans),,,bok̄sun,Phonemic
+1-851-80-1,udii1243,Udi,141,бокІбесун,CyrillTrans,burn (vb trans),,,bok̄besun,Phonemic
+1-841-80-1,udii1243,Udi,67,кІинцІал,CyrillTrans,embers,,,k̄inc̄al,Phonemic
+1-840-80-1,udii1243,Udi,646,жекъ,CyrillTrans,ashes,,,žeq̄,Phonemic
+1-830-80-1,udii1243,Udi,778,кІуьйуьн,CyrillTrans,smoke (noun),,,k̄üyün,Phonemic
+1-820-80-1,udii1243,Udi,889,алов,CyrillTrans,flame (noun),,,alov,Phonemic
+1-810-80-1,udii1243,Udi,221,арух,CyrillTrans,fire,,,arux,Phonemic
+1-780-80-1,udii1243,Udi,952,гьава,CyrillTrans,weather,,,hava,Phonemic
+1-770-80-1,udii1243,Udi,617,буз,CyrillTrans,ice,,,buz,Phonemic
+1-760-80-1,udii1243,Udi,784,иъжІ,CyrillTrans,snow (noun),,,iˤžﬁ,Phonemic
+1-750-80-1,udii1243,Udi,658,агъала,CyrillTrans,rain (noun),,,aɣala,Phonemic
+1-740-80-1,udii1243,Udi,249,асой,CyrillTrans,fog,,,asoy,Phonemic
+1-720-80-1,udii1243,Udi,960,муш,CyrillTrans,wind,,,muš,Phonemic
+1-730-80-1,udii1243,Udi,1489,асой,CyrillTrans,cloud,,,asoy,Phonemic
+1-710-80-1,udii1243,Udi,27,гьава,CyrillTrans,air,,,hava,Phonemic
+1-640-80-1,udii1243,Udi,1977,хо,CyrillTrans,dew,,,xo,Phonemic
+1-630-80-1,udii1243,Udi,1388,хожи,CyrillTrans,"shade, shadow",,,xoži,Phonemic
+1-620-80-1,udii1243,Udi,11,бaъинкъун,CyrillTrans,darkness,,,baˤinq̄un,Phonemic
+1-610-80-1,udii1243,Udi,630,хаш,CyrillTrans,light (noun),,,"xaš, išiɣ",Phonemic
+1-610-80-3,udii1243,Udi,630,ишигъ,CyrillTrans,light (noun),,,"xaš, išiɣ",Phonemic
+1-590-80-1,udii1243,Udi,1733,диъп,CyrillTrans,rainbow,,,"diˤp, dup̄",Phonemic
+1-590-80-3,udii1243,Udi,1733,дупІ,CyrillTrans,rainbow,,,"diˤp, dup̄",Phonemic
+1-580-80-1,udii1243,Udi,858,кирма,CyrillTrans,storm,,,kirma,Phonemic
+1-560-80-1,udii1243,Udi,1150,дуьруьпсум,CyrillTrans,thunder,,,dürüpsum,Phonemic
+1-570-80-1,udii1243,Udi,2007,цаъкъ,CyrillTrans,lightning (as striking),,,caˤq̄,Phonemic
+1-550-80-1,udii1243,Udi,1654,цаъкъ,CyrillTrans,lightning,,,caˤq̄,Phonemic
+1-540-80-1,udii1243,Udi,1430,муч̍ули,CyrillTrans,star,,,mučﬁuli,Phonemic
+1-530-80-1,udii1243,Udi,1313,хаш,CyrillTrans,moon,,,xaš,Phonemic
+1-520-80-1,udii1243,Udi,1343,беъгъ,CyrillTrans,sun,,,beˤɣ,Phonemic
+1-510-80-1,udii1243,Udi,1732,гоьй,CyrillTrans,sky,,,göy,Phonemic
+1-450-80-1,udii1243,Udi,6,заьлзаьлаь,CyrillTrans,earthquake,,,zälzälä,Phonemic
+1-440-80-1,udii1243,Udi,2125,жІеъ,CyrillTrans,"stone, rock",,,žﬁeˤ,Phonemic
+1-430-80-1,udii1243,Udi,1803,дурутІ,CyrillTrans,wood,,,durut̄,Phonemic
+1-420-80-1,udii1243,Udi,906,ход,CyrillTrans,tree (cf 08.600),,,xod,Phonemic
+1-410-80-1,udii1243,Udi,420,чаьлаьй,CyrillTrans,"woods, forest",,,čäläy,Phonemic
+1-390-80-1,udii1243,Udi,943,гурдондж,CyrillTrans,waterfall,,,gurdonǯ,Phonemic
+1-380-80-1,udii1243,Udi,1145,пиз,CyrillTrans,swamp,,,"piz, p̄ɨz",Phonemic
+1-380-80-3,udii1243,Udi,1145,пІыз,CyrillTrans,swamp,,,"piz, p̄ɨz",Phonemic
+1-370-80-1,udii1243,Udi,2144,орайин,CyrillTrans,"spring, well",,,orayin,Phonemic
+1-360-80-1,udii1243,Udi,666,охъ,CyrillTrans,"river, stream, brook",,,oq,Phonemic
+1-350-80-1,udii1243,Udi,978,лаьпаь,CyrillTrans,wave,,,läpä,Phonemic
+1-330-80-1,udii1243,Udi,624,гоьл,CyrillTrans,lake,,,göl,Phonemic
+1-329-80-1,udii1243,Udi,645,даьркаьн,CyrillTrans,ocean,,,därkän,Phonemic
+1-324-80-1,udii1243,Udi,1768,каІф,CyrillTrans,foam,,,kaˤf,Phonemic
+1-320-80-1,udii1243,Udi,1474,даьргаьн,CyrillTrans,sea,,,därgän,Phonemic
+1-322-80-1,udii1243,Udi,258,рагьат,CyrillTrans,calm (of sea),,,"rahat, sakit",Phonemic
+1-322-80-3,udii1243,Udi,258,сакит,CyrillTrans,calm (of sea),,,"rahat, sakit",Phonemic
+1-310-80-1,udii1243,Udi,948,хе,CyrillTrans,water,,,xe,Phonemic
+1-280-80-1,udii1243,Udi,1155,кьайа,CyrillTrans,cave,,,qʼaya,Phonemic
+1-270-80-1,udii1243,Udi,113,(хене)чІотІ,CyrillTrans,shore,,,(xene)č̄ot̄,Phonemic
+1-260-80-1,udii1243,Udi,166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-80-1,udii1243,Udi,622,ода,CyrillTrans,island,,,oda,Phonemic
+1-240-80-1,udii1243,Udi,921,даьраь,CyrillTrans,valley,,,därä,Phonemic
+1-230-80-1,udii1243,Udi,652,хъавун,CyrillTrans,"plain, field",,,"qavun, händ",Phonemic
+1-230-80-3,udii1243,Udi,652,гьаьнд,CyrillTrans,"plain, field",,,"qavun, händ",Phonemic
+1-222-80-1,udii1243,Udi,618,дар,CyrillTrans,"cliff, precipice",,,"dar, dardar",Phonemic
+1-222-80-3,udii1243,Udi,618,дардар,CyrillTrans,"cliff, precipice",,,"dar, dardar",Phonemic
+1-220-80-1,udii1243,Udi,2118,бурух,CyrillTrans,"mountain, hill",,,burux,Phonemic
+1-214-80-1,udii1243,Udi,640,тор,CyrillTrans,mud,,,tor,Phonemic
+1-215-80-1,udii1243,Udi,671,къум,CyrillTrans,sand,,,q̄um,Phonemic
+1-213-80-1,udii1243,Udi,2,тоз,CyrillTrans,dust,,,toz,Phonemic
+1-212-80-1,udii1243,Udi,1228,кІул,CyrillTrans,"earth=ground, soil",,,"k̄ul, oc̄ﬁal",Phonemic
+1-212-80-3,udii1243,Udi,1228,оч̍ал,CyrillTrans,"earth=ground, soil",,,"k̄ul, oc̄ﬁal",Phonemic
+1-210-80-1,udii1243,Udi,626,оьлкаь,CyrillTrans,"earth, land",,,ölkä,Phonemic
+1-100-80-1,udii1243,Udi,965,аьлаьм,CyrillTrans,world,,,"äläm, düynä",Phonemic
+1-100-80-3,udii1243,Udi,965,дуьйнаь,CyrillTrans,world,,,"äläm, düynä",Phonemic
+14-330-80-1,udii1243,Udi,1544,вахвахтІ,CyrillTrans,sometimes,,,vaxʷaxt̄,Phonemic
+14-331-80-1,udii1243,Udi,703,усун,CyrillTrans,soon,,,usun,Phonemic
+14-332-80-1,udii1243,Udi,418,бохой,CyrillTrans,long-time (for a),,,boxoy,Phonemic
+14-340-80-1,udii1243,Udi,1656,сал cа ваьдаь,CyrillTrans,never,,,sal sa vädä,Phonemic
+14-350-80-1,udii1243,Udi,204,пІурун,CyrillTrans,again,,,"p̄urun, täzdän",Phonemic
+14-350-80-3,udii1243,Udi,204,таьздаьн,CyrillTrans,again,,,"p̄urun, täzdän",Phonemic
+14-410-80-1,udii1243,Udi,1225,гъи,CyrillTrans,day,,,ɣi,Phonemic
+14-420-80-1,udii1243,Udi,1233,уьше,CyrillTrans,night,,,üše,Phonemic
+14-430-80-1,udii1243,Udi,729,каьй,CyrillTrans,dawn,,,käy,Phonemic
+14-440-80-1,udii1243,Udi,1339,савах,CyrillTrans,morning,,,savax,Phonemic
+14-450-80-1,udii1243,Udi,12,блаьзаьр,CyrillTrans,"noon, midday",,,bläzär,Phonemic
+14-460-80-1,udii1243,Udi,1629,бийаьс,CyrillTrans,evening,,,biyäs,Phonemic
+14-470-80-1,udii1243,Udi,1283,гъе,CyrillTrans,today,,,ɣe,Phonemic
+14-480-80-1,udii1243,Udi,1329,аьйчІи,CyrillTrans,tomorrow,,,"äyč̄i, äyč̄indäri",Phonemic
+14-480-80-3,udii1243,Udi,1329,аьйчІиндаьри,CyrillTrans,tomorrow,,,"äyč̄i, äyč̄indäri",Phonemic
+14-481-80-1,udii1243,Udi,1179,самане,CyrillTrans,day-after-tomorrow,,,samane,Phonemic
+14-490-80-1,udii1243,Udi,1174,наьйни,CyrillTrans,yesterday,,,näyni,Phonemic
+14-491-80-1,udii1243,Udi,1180,баъгъаъна,CyrillTrans,day-before-yesterday,,,baˤɣaˤna,Phonemic
+14-510-80-1,udii1243,Udi,1353,са(гь)ат,CyrillTrans,hour,,,sa(h)at,Phonemic
+14-530-80-1,udii1243,Udi,1323,са(гь)ат,CyrillTrans,"clock, timepiece",,,sa(h)at,Phonemic
+14-610-80-1,udii1243,Udi,1469,шаматІ,CyrillTrans,week,,,šamat̄,Phonemic
+14-620-80-1,udii1243,Udi,1699,базарунгъи,CyrillTrans,Sunday,,,"bazarunɣi, beˤinɣ",Phonemic
+14-620-80-3,udii1243,Udi,1699,беъингъ,CyrillTrans,Sunday,,,"bazarunɣi, beˤinɣ",Phonemic
+14-630-80-1,udii1243,Udi,1697,пІаъшаматІ,CyrillTrans,Monday,,,p̄aˤšamat̄,Phonemic
+14-640-80-1,udii1243,Udi,1695,хьибшаматІ,CyrillTrans,Tuesday,,,x̌ibšamat̄,Phonemic
+14-650-80-1,udii1243,Udi,1694,бипІшаматІ,CyrillTrans,Wednesday,,,bip̄šamat̄,Phonemic
+14-660-80-1,udii1243,Udi,1693,хъошаматІ,CyrillTrans,Thursday,,,qošamat̄,Phonemic
+14-670-80-1,udii1243,Udi,1692,пІараскІи,CyrillTrans,Friday,,,p̄arask̄i,Phonemic
+14-680-80-1,udii1243,Udi,1700,шаматІ,CyrillTrans,Saturday,,,šamat̄,Phonemic
+14-710-80-1,udii1243,Udi,1370,хаш,CyrillTrans,month,,,xaš,Phonemic
+14-730-80-1,udii1243,Udi,1226,усен,CyrillTrans,year,,,usen,Phonemic
+14-740-80-1,udii1243,Udi,1471,иъжІеъна,CyrillTrans,winter,,,iˤžﬁeˤna,Phonemic
+14-750-80-1,udii1243,Udi,1537,жІогъул,CyrillTrans,spring,,,"žﬁoɣul, d‰yžﬁoɣul",Phonemic
+14-750-80-3,udii1243,Udi,1537,даьйжІогъул,CyrillTrans,spring,,,"žﬁoɣul, d‰yžﬁoɣul",Phonemic
+14-760-80-1,udii1243,Udi,1342,къарижІогъул,CyrillTrans,summer,,,q̄arižﬁoɣul,Phonemic
+14-770-80-1,udii1243,Udi,1276,пайиз,CyrillTrans,autumn,,,payiz,Phonemic
+14-780-80-1,udii1243,Udi,691,вахт,CyrillTrans,season,,,vaxt,Phonemic
+15-210-80-1,udii1243,Udi,1587,адесун,CyrillTrans,smell (vb intrans),,,adesun,Phonemic
+15-212-80-1,udii1243,Udi,375,адбикъсун,CyrillTrans,sniff,,,adbiq̄sun,Phonemic
+15-220-80-1,udii1243,Udi,1586,адбикъсун,CyrillTrans,smell (vb trans),,,adbiq̄sun,Phonemic
+15-250-80-1,udii1243,Udi,376,ул,CyrillTrans,"fragrant, good smelling",,,ul,Phonemic
+15-260-80-1,udii1243,Udi,42,ад,CyrillTrans,"stinking, bad smelling",,,ad,Phonemic
+15-310-80-1,udii1243,Udi,21,там,CyrillTrans,taste,,,tam,Phonemic
+15-350-80-1,udii1243,Udi,717,муч̍а,CyrillTrans,sweet,,,muc̄ﬁa,Phonemic
+15-360-80-1,udii1243,Udi,1091,елахой,CyrillTrans,salty,,,elaxoy,Phonemic
+15-370-80-1,udii1243,Udi,887,агъу,CyrillTrans,bitter,,,aɣu,Phonemic
+15-380-80-1,udii1243,Udi,1906,кеже,CyrillTrans,"acid, sour",,,keže,Phonemic
+15-390-80-1,udii1243,Udi,70,елахой,CyrillTrans,brackish,,,elaxoy,Phonemic
+15-410-80-1,udii1243,Udi,1408,ибаксун,CyrillTrans,hear,,,ibaksun,Phonemic
+15-420-80-1,udii1243,Udi,1608,уъмуъх лахсун,CyrillTrans,listen,,,uˤmuˤx laxsun,Phonemic
+15-440-80-1,udii1243,Udi,1811,куьй,CyrillTrans,"sound, noise",,,küy,Phonemic
+15-450-80-1,udii1243,Udi,377,аллой,CyrillTrans,loud,,,allоy,Phonemic
+15-460-80-1,udii1243,Udi,1314,шипІ,CyrillTrans,"quiet, silence",,,"šip̄, dinǯ",Phonemic
+15-460-80-3,udii1243,Udi,1314,диндж,CyrillTrans,"quiet, silence",,,"šip̄, dinǯ",Phonemic
+15-510-80-1,udii1243,Udi,1409,акІсун,CyrillTrans,see,,,ak̄sun,Phonemic
+15-520-80-1,udii1243,Udi,1819,беъгъсун,CyrillTrans,"look, look at",,,beˤɣsun,Phonemic
+15-550-80-1,udii1243,Udi,1039,акІестІесун,CyrillTrans,show,,,ak̄est̄esun,Phonemic
+15-560-80-1,udii1243,Udi,708,ишигъ тастІун,CyrillTrans,shine,,,"išiɣ tast̄un, c̄al saksun",Phonemic
+15-560-80-3,udii1243,Udi,708,цІал саксун,CyrillTrans,shine,,,"išiɣ tast̄un, c̄al saksun",Phonemic
+15-570-80-1,udii1243,Udi,679,ац̍ар,CyrillTrans,bright,,,acﬁar,Phonemic
+15-610-80-1,udii1243,Udi,1613,гушин,CyrillTrans,color,,,gušin,Phonemic
+15-620-80-1,udii1243,Udi,250,цІал,CyrillTrans,light (in color),,,c̄al,Phonemic
+15-630-80-1,udii1243,Udi,706,беинк,CyrillTrans,dark (in color),,,beink,Phonemic
+15-640-80-1,udii1243,Udi,1335,мацІи,CyrillTrans,white,,,mac̄i,Phonemic
+15-650-80-1,udii1243,Udi,163,маъйиън,CyrillTrans,black,,,maˤyiˤn,Phonemic
+15-660-80-1,udii1243,Udi,156,ч̍оч̍а,CyrillTrans,red,,,c̄ﬁoc̄ﬁa,Phonemic
+15-670-80-1,udii1243,Udi,837,гогин,CyrillTrans,blue,,,gogin,Phonemic
+15-680-80-1,udii1243,Udi,1425,йаьшил,CyrillTrans,green,,,yäšil,Phonemic
+15-690-80-1,udii1243,Udi,1424,неъшІум,CyrillTrans,yellow,,,neˤšﬁum,Phonemic
+15-710-80-1,udii1243,Udi,1892,лафтІесун,CyrillTrans,touch,,,laft̄esun,Phonemic
+15-712-80-1,udii1243,Udi,378,эхбесун,CyrillTrans,pinch,,,exbesun,Phonemic
+15-720-80-1,udii1243,Udi,1079,акІсун,CyrillTrans,feel,,,ak̄sun,Phonemic
+15-740-80-1,udii1243,Udi,1884,туьнд,CyrillTrans,hard,,,tünd,Phonemic
+15-750-80-1,udii1243,Udi,1856,джуьгуь,CyrillTrans,soft,,,ǯügü,Phonemic
+15-760-80-1,udii1243,Udi,1923,туьнд,CyrillTrans,rough,,,tünd,Phonemic
+15-770-80-1,udii1243,Udi,1234,гьамавар,CyrillTrans,smooth,,,hamavar,Phonemic
+15-780-80-1,udii1243,Udi,1396,гъаин,CyrillTrans,sharp,,,"ɣain, ɣayn",Phonemic
+15-780-80-3,udii1243,Udi,1396,гъайн,CyrillTrans,sharp,,,"ɣain, ɣayn",Phonemic
+15-790-80-1,udii1243,Udi,379,кошмотІ,CyrillTrans,"blunt, dull",,,košmot̄,Phonemic
+15-810-80-1,udii1243,Udi,1210,биъгъиъ,CyrillTrans,heavy,,,biˤɣiˤ,Phonemic
+15-820-80-1,udii1243,Udi,1052,сугьукІ,CyrillTrans,light (in weight),,,suhuk̄,Phonemic
+15-830-80-1,udii1243,Udi,1726,шаьйин,CyrillTrans,"wet, damp",,,šäyin,Phonemic
+15-840-80-1,udii1243,Udi,1398,къари,CyrillTrans,dry,,,q̄ari,Phonemic
+15-850-80-1,udii1243,Udi,1286,бачІукІ,CyrillTrans,hot,,,bač̄uk̄,Phonemic
+15-851-80-1,udii1243,Udi,1232,гам,CyrillTrans,warm,,,gam,Phonemic
+15-860-80-1,udii1243,Udi,1287,чах,CyrillTrans,cold,,,čax,Phonemic
+15-870-80-1,udii1243,Udi,704,ац̍ар,CyrillTrans,clean,,,acﬁar,Phonemic
+15-880-80-1,udii1243,Udi,1230,тортор,CyrillTrans,"dirty, soiled",,,tortor,Phonemic
+15-890-80-1,udii1243,Udi,380,ч̍акІеци,CyrillTrans,wrinkled,,,c̄ﬁak̄eci,Phonemic
+16-110-80-1,udii1243,Udi,53,елмух,CyrillTrans,"soul, spirit",,,elmux,Phonemic
+16-150-80-1,udii1243,Udi,1572,гьакъечи,CyrillTrans,"surprised, astonished",,,haq̄eči,Phonemic
+16-180-80-1,udii1243,Udi,720,бахтІаварругъ,CyrillTrans,"good fortune, luck",,,baxt̄avarruɣ,Phonemic
+16-230-80-1,udii1243,Udi,1495,бахтІавар,CyrillTrans,"joyful, glad, happy",,,"baxt̄avar, muˤq",Phonemic
+16-230-80-3,udii1243,Udi,1495,муъхъ,CyrillTrans,"joyful, glad, happy",,,"baxt̄avar, muˤq",Phonemic
+16-250-80-1,udii1243,Udi,1355,ахшІумпсун,CyrillTrans,laugh,,,axšﬁumpsun,Phonemic
+16-251-80-1,udii1243,Udi,1451,гужгужпесун,CyrillTrans,smile,,,gužgužpesun,Phonemic
+16-260-80-1,udii1243,Udi,1413,ачипсун,CyrillTrans,play,,,ačipsun,Phonemic
+16-270-80-1,udii1243,Udi,923,чурпсун,CyrillTrans,love,,,čurpsun,Phonemic
+16-290-80-1,udii1243,Udi,578,мучпсун,CyrillTrans,kiss,,,mučpsun,Phonemic
+16-300-80-1,udii1243,Udi,928,къужбсун,CyrillTrans,embrace,,,q̄užbsun,Phonemic
+16-310-80-1,udii1243,Udi,1783,къач̍,CyrillTrans,pain,,,qac̄ﬁ,Phonemic
+16-320-80-1,udii1243,Udi,1668,даьрд,CyrillTrans,"grief, sorrow, sadness",,,därd,Phonemic
+16-330-80-1,udii1243,Udi,1000,гьарай-гьурай,CyrillTrans,"anxiety, worry",,,haray-huray,Phonemic
+16-340-80-1,udii1243,Udi,1875,амантадесун,CyrillTrans,"regret, be sorry",,,amantadesun,Phonemic
+16-350-80-1,udii1243,Udi,1141,нешманчилугъ,CyrillTrans,pity,,,nešmančiluɣ,Phonemic
+16-370-80-1,udii1243,Udi,1839,оънепсун,CyrillTrans,"cry, weep",,,oˤnepsun,Phonemic
+16-380-80-1,udii1243,Udi,1651,негъ,CyrillTrans,tear (noun),,,neɣ,Phonemic
+16-390-80-1,udii1243,Udi,716,уфулдайшсун,CyrillTrans,groan,,,ufuldayšsun,Phonemic
+16-420-80-1,udii1243,Udi,82,аджугъ,CyrillTrans,anger,,,aǯuɣ,Phonemic
+16-440-80-1,udii1243,Udi,40,пахуллугъ,CyrillTrans,"envy, jealousy",,,paxгlluɣ,Phonemic
+16-450-80-1,udii1243,Udi,1776,отІ,CyrillTrans,shame (noun),,,ot̄,Phonemic
+16-480-80-1,udii1243,Udi,174,буж,CyrillTrans,proud,,,buž,Phonemic
+16-510-80-1,udii1243,Udi,1779,джигаьрру,CyrillTrans,dare,,,ǯigärru,Phonemic
+16-520-80-1,udii1243,Udi,3,джигаьрру,CyrillTrans,brave,,,ǯigärru,Phonemic
+16-530-80-1,udii1243,Udi,781,къиъ,CyrillTrans,"fear, fright",,,q̄iˤ,Phonemic
+16-540-80-1,udii1243,Udi,1810,хатакарругъ,CyrillTrans,danger,,,xatakarruɣ,Phonemic
+16-620-80-1,udii1243,Udi,1784,букъсунлугъ,CyrillTrans,"desire, want",,,buq̄sunluɣ,Phonemic
+16-622-80-1,udii1243,Udi,1750,чІакІпсун,CyrillTrans,choose,,,č̄ak̄psun,Phonemic
+16-630-80-1,udii1243,Udi,1092,ваъбаксун,CyrillTrans,hope,,,vaˤbaksun,Phonemic
+16-660-80-1,udii1243,Udi,1657,къарт,CyrillTrans,true,,,q̄art,Phonemic
+16-670-80-1,udii1243,Udi,601,апчибесун,CyrillTrans,"lie, tell lies",,,apčibesun,Phonemic
+16-680-80-1,udii1243,Udi,13,аьфчи дугъсун,CyrillTrans,deceit,,,äfči duɣsun,Phonemic
+16-710-80-1,udii1243,Udi,1035,ша(гь)атІ,CyrillTrans,good,,,ša(h)at̄,Phonemic
+16-720-80-1,udii1243,Udi,1292,пис,CyrillTrans,bad,,,pis,Phonemic
+16-730-80-1,udii1243,Udi,1725,дуьз,CyrillTrans,"right, correct",,,düz,Phonemic
+16-740-80-1,udii1243,Udi,1390,йангълиш,CyrillTrans,wrong,,,yanɣliš,Phonemic
+16-770-80-1,udii1243,Udi,1293,къаьлаьт,CyrillTrans,"mistake, error",,,q̄älät,Phonemic
+16-790-80-1,udii1243,Udi,1687,алхишбесун,CyrillTrans,praise,,,alxišbesun,Phonemic
+16-810-80-1,udii1243,Udi,1427,гоьзаьл,CyrillTrans,beautiful,,,"gözäl, q̄äšäng",Phonemic
+16-810-80-3,udii1243,Udi,1427,къаьшаьнг,CyrillTrans,beautiful,,,"gözäl, q̄äšäng",Phonemic
+16-820-80-1,udii1243,Udi,1548,ейбаьджаьр,CyrillTrans,ugly,,,eybäǯär,Phonemic
+16-830-80-1,udii1243,Udi,2018,пахул,CyrillTrans,greedy,,,paxul,Phonemic
+16-840-80-1,udii1243,Udi,1310,гьакъуллу,CyrillTrans,clever,,,haq̄ullu,Phonemic
+17-110-80-1,udii1243,Udi,1562,гьакьул,CyrillTrans,mind,,,haqʼul,Phonemic
+17-130-80-1,udii1243,Udi,1415,гьесаббсун,CyrillTrans,think (= reflect),,,"hesabbsun, fikirbsun",Phonemic
+17-130-80-3,udii1243,Udi,1415,фикирбсун,CyrillTrans,think (= reflect),,,"hesabbsun, fikirbsun",Phonemic
+17-140-80-1,udii1243,Udi,1513,фикир бесун,CyrillTrans,think (= be of the opinion),,,fikir besun,Phonemic
+17-150-80-1,udii1243,Udi,1890,ваъбаксун,CyrillTrans,believe,,,vaˤbaksun,Phonemic
+17-160-80-1,udii1243,Udi,1536,бехбафтІсун,CyrillTrans,understand,,,bexbaft̄sun,Phonemic
+17-170-80-1,udii1243,Udi,1410,ава,CyrillTrans,know,,,ava,Phonemic
+17-171-80-1,udii1243,Udi,1932,гьесаббсун,CyrillTrans,guess,,,hesabbsun,Phonemic
+17-180-80-1,udii1243,Udi,1521,заьндесун,CyrillTrans,seem,,,zändesun,Phonemic
+17-190-80-1,udii1243,Udi,1609,фикир,CyrillTrans,"idea, notion",,,fikir,Phonemic
+17-210-80-1,udii1243,Udi,698,гьакъуллу,CyrillTrans,wise,,,haq̄ullu,Phonemic
+17-220-80-1,udii1243,Udi,1518,ахмагъ,CyrillTrans,"foolish, stupid",,,"axmaɣ, äbräš",Phonemic
+17-220-80-3,udii1243,Udi,1518,аьбраьш,CyrillTrans,"foolish, stupid",,,"axmaɣ, äbräš",Phonemic
+17-230-80-1,udii1243,Udi,1899,ахмах,CyrillTrans,"insane, crazy",,,axmax,Phonemic
+17-240-80-1,udii1243,Udi,504,авабаксун,CyrillTrans,learn,,,"ababaksun, zombaksun",Phonemic
+17-240-80-3,udii1243,Udi,504,зомбаксун,CyrillTrans,learn,,,"ababaksun, zombaksun",Phonemic
+17-242-80-1,udii1243,Udi,1929,зомбаксун,CyrillTrans,study,,,zombaksun,Phonemic
+17-250-80-1,udii1243,Udi,709,зомбсун,CyrillTrans,teach,,,zombsun,Phonemic
+17-260-80-1,udii1243,Udi,753,муталим,CyrillTrans,pupil,,,mutalim,Phonemic
+17-270-80-1,udii1243,Udi,1038,маьлим,CyrillTrans,teacher,,,mälim,Phonemic
+17-280-80-1,udii1243,Udi,673,ишкІол,CyrillTrans,school,,,išk̄ol,Phonemic
+17-310-80-1,udii1243,Udi,707,ейех ефсун,CyrillTrans,remember,,,eyex efsun,Phonemic
+17-320-80-1,udii1243,Udi,1523,ейехун чІевксун,CyrillTrans,forget,,,eyexun с̌̄evksun,Phonemic
+17-340-80-1,udii1243,Udi,989,аьшкаьр(аь),CyrillTrans,"clear, plain",,,äškär(ä),Phonemic
+17-360-80-1,udii1243,Udi,1121,сир,CyrillTrans,secret,,,sir,Phonemic
+17-380-80-1,udii1243,Udi,1626,бех бастІун,CyrillTrans,explain,,,bex bast̄un,Phonemic
+17-410-80-1,udii1243,Udi,1162,нийаьт,CyrillTrans,"intention, purpose",,,niyät,Phonemic
+17-420-80-1,udii1243,Udi,860,байис,CyrillTrans,cause,,,"bayis, vayis",Phonemic
+17-420-80-3,udii1243,Udi,860,вайис,CyrillTrans,cause,,,"bayis, vayis",Phonemic
+17-430-80-1,udii1243,Udi,1308,шак,CyrillTrans,doubt,,,šak,Phonemic
+17-440-80-1,udii1243,Udi,1841,шак бес,CyrillTrans,suspect,,,šak bes,Phonemic
+17-441-80-1,udii1243,Udi,1902,(кийе) тастІун,CyrillTrans,betray,,,(kiye) tast̄un,Phonemic
+17-450-80-1,udii1243,Udi,643,лазимвал,CyrillTrans,"need, necessity",,,lazimval,Phonemic
+17-460-80-1,udii1243,Udi,686,ахари,CyrillTrans,easy,,,axari,Phonemic
+17-470-80-1,udii1243,Udi,584,чаьтин,CyrillTrans,difficult,,,čätin,Phonemic
+17-490-80-1,udii1243,Udi,488,таьгьаьр,CyrillTrans,"way, manner",,,tähär,Phonemic
+17-510-80-1,udii1243,Udi,1577,къа,CyrillTrans,and,,,q̄a,Phonemic
+17-520-80-1,udii1243,Udi,1157,чуьнки,CyrillTrans,because,,,čünki,Phonemic
+17-530-80-1,udii1243,Udi,1459,аьгаьнаьм,CyrillTrans,if,,,ägänäm,Phonemic
+17-540-80-1,udii1243,Udi,1014,йа(аьл),CyrillTrans,or,,,ya(äl),Phonemic
+17-550-80-1,udii1243,Udi,1268,гьоо,CyrillTrans,"yes, affirmative",,,hō,Phonemic
+17-560-80-1,udii1243,Udi,1269,таь,CyrillTrans,"no, negative",,,tӓ,Phonemic
+17-610-80-1,udii1243,Udi,1239,гьетаьр,CyrillTrans,how?,,,hetär,Phonemic
+17-620-80-1,udii1243,Udi,822,гьема,CyrillTrans,how many?,,,hema,Phonemic
+17-630-80-1,udii1243,Udi,531,гьекъаьраь,CyrillTrans,how much?,,,heq̄ärä,Phonemic
+17-640-80-1,udii1243,Udi,1236,гье,CyrillTrans,what?,,,he,Phonemic
+17-650-80-1,udii1243,Udi,1238,гьевахтІун,CyrillTrans,when?,,,hevaxt̄un,Phonemic
+17-660-80-1,udii1243,Udi,1237,майа,CyrillTrans,where?,,,"maya, mayin",Phonemic
+17-660-80-3,udii1243,Udi,1237,майин,CyrillTrans,where?,,,"maya, mayin",Phonemic
+17-670-80-1,udii1243,Udi,727,гье,CyrillTrans,which?,,,"he, het̄ar, mani",Phonemic
+17-670-80-3,udii1243,Udi,727,гьетІар,CyrillTrans,which?,,,"he, het̄ar, mani",Phonemic
+17-670-80-5,udii1243,Udi,727,мани,CyrillTrans,which?,,,"he, het̄ar, mani",Phonemic
+17-680-80-1,udii1243,Udi,1235,шу,CyrillTrans,who?,,,šu,Phonemic
+17-690-80-1,udii1243,Udi,1270,гьетІайнакІ,CyrillTrans,why?,,,het̄aynak̄,Phonemic
+18-110-80-1,udii1243,Udi,1363,саьс,CyrillTrans,voice,,,säs,Phonemic
+18-120-80-1,udii1243,Udi,1261,маъгъпсун,CyrillTrans,sing,,,maˤɣpsun,Phonemic
+18-130-80-1,udii1243,Udi,715,кІалпсун,CyrillTrans,"shout, cry out",,,"k̄alpsun, haraybsun",Phonemic
+18-130-80-3,udii1243,Udi,715,гьарайбсун,CyrillTrans,"shout, cry out",,,"k̄alpsun, haraybsun",Phonemic
+18-150-80-1,udii1243,Udi,55,кушкушпесун,CyrillTrans,whisper,,,kuškušpesun,Phonemic
+18-160-80-1,udii1243,Udi,128,мырыпсун,CyrillTrans,mumble,,,mɨrɨpsun,Phonemic
+18-170-80-1,udii1243,Udi,1025,фитсун,CyrillTrans,whistle,,,fitsun,Phonemic
+18-180-80-1,udii1243,Udi,298,къиланцІепсун,CyrillTrans,"shriek, screech",,,q̄ilanc̄epsun,Phonemic
+18-190-80-1,udii1243,Udi,526,зизипсун,CyrillTrans,howl,,,zizipsun,Phonemic
+18-210-80-1,udii1243,Udi,1623,песун,CyrillTrans,"speak, talk",,,"pesun, äyitpsun",Phonemic
+18-210-80-3,udii1243,Udi,1623,аьйитпсун,CyrillTrans,"speak, talk",,,"pesun, äyitpsun",Phonemic
+18-220-80-1,udii1243,Udi,1458,песун,CyrillTrans,say,,,pesun,Phonemic
+18-221-80-1,udii1243,Udi,1711,ехлаьтбсун,CyrillTrans,tell story,,,exlätbpsun,Phonemic
+18-222-80-1,udii1243,Udi,1115,аьйитпесун,CyrillTrans,speech (make a),,,äyitpesun,Phonemic
+18-230-80-1,udii1243,Udi,48,шипІбаксун,CyrillTrans,silent (be),,,šip̄baksun,Phonemic
+18-240-80-1,udii1243,Udi,1307,муз,CyrillTrans,language,,,muz,Phonemic
+18-260-80-1,udii1243,Udi,1599,аьйит,CyrillTrans,word,,,äyit,Phonemic
+18-280-80-1,udii1243,Udi,1405,цІи,CyrillTrans,name,,,c̄i,Phonemic
+18-310-80-1,udii1243,Udi,1309,хавар гьакъсун,CyrillTrans,"ask (question, inquire)",,,xavar haq̄sun,Phonemic
+18-320-80-1,udii1243,Udi,1275,джoгъаб тастІун,CyrillTrans,answer,,,ǯоɣab tast̄un,Phonemic
+18-340-80-1,udii1243,Udi,755,инкар песун,CyrillTrans,deny,,,inkar pesun,Phonemic
+18-350-80-1,udii1243,Udi,1828,чуресун,CyrillTrans,"ask, request",,,čuresun,Phonemic
+18-360-80-1,udii1243,Udi,1675,аьйит тастІун,CyrillTrans,promise,,,äyit tast̄un,Phonemic
+18-370-80-1,udii1243,Udi,49,шипІбаксун,CyrillTrans,refuse,,,šip̄baksun,Phonemic
+18-380-80-1,udii1243,Udi,83,къадагъабсун,CyrillTrans,forbid,,,q̄adaɣabsun,Phonemic
+18-390-80-1,udii1243,Udi,299,жжамдесун,CyrillTrans,"rebuke, scold",,,ž̄amdesun,Phonemic
+18-410-80-1,udii1243,Udi,1084,кІалпсун,CyrillTrans,call (=summon),,,k̄alpsun,Phonemic
+18-420-80-1,udii1243,Udi,180,цІилахсун,CyrillTrans,call (=name),,,c̄ilaxsun,Phonemic
+18-430-80-1,udii1243,Udi,9,аьрзбесун,CyrillTrans,announce,,,ärzbesun,Phonemic
+18-440-80-1,udii1243,Udi,1192,гьербесун,CyrillTrans,threaten,,,herbesun,Phonemic
+18-510-80-1,udii1243,Udi,1672,цампсун,CyrillTrans,write,,,сampsun,Phonemic
+18-520-80-1,udii1243,Udi,724,кІалпесун,CyrillTrans,read,,,k̄alpesun,Phonemic
+18-560-80-1,udii1243,Udi,648,кагъыз,CyrillTrans,paper,,,kaɣɨz,Phonemic
+18-570-80-1,udii1243,Udi,794,къаьлаьм,CyrillTrans,pen,,,qäläm,Phonemic
+18-610-80-1,udii1243,Udi,963,гирк,CyrillTrans,book,,,girk,Phonemic
+18-670-80-1,udii1243,Udi,1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-80-1,udii1243,Udi,777,тІуьтІтІаьй,CyrillTrans,flute,,,"t̄üt̄t̄ay, zurna",Phonemic
+18-710-80-3,udii1243,Udi,777,зурна,CyrillTrans,flute,,,"t̄üt̄t̄ay, zurna",Phonemic
+18-720-80-1,udii1243,Udi,908,нагъара,CyrillTrans,drum,,,naɣara,Phonemic
+18-730-80-1,udii1243,Udi,2136,тІуьтІаьг,CyrillTrans,"horn, trumpet",,,t̄üt̄äg,Phonemic
+19-110-80-1,udii1243,Udi,1300,оьлкаь,CyrillTrans,country,,,"ölkä, dövlät",Phonemic
+19-110-80-3,udii1243,Udi,1300,доьвлаьт,CyrillTrans,country,,,"ölkä, dövlät",Phonemic
+19-120-80-1,udii1243,Udi,89,довлат,CyrillTrans,one's native country,,,"dövlät, vatan",Phonemic
+19-120-80-3,udii1243,Udi,89,ватан,CyrillTrans,one's native country,,,"dövlät, vatan",Phonemic
+19-150-80-1,udii1243,Udi,1391,шагьаьр,CyrillTrans,"city, town",,,šahӓr,Phonemic
+19-160-80-1,udii1243,Udi,930,аиз,CyrillTrans,village,,,aiz,Phonemic
+19-170-80-1,udii1243,Udi,1010,кІопкІар,CyrillTrans,boundary,,,k̄opk̄ar,Phonemic
+19-210-80-1,udii1243,Udi,789,халг,CyrillTrans,people (populace),,,xalg,Phonemic
+19-230-80-1,udii1243,Udi,302,тайфа,CyrillTrans,"tribe, clan",,,tayfa,Phonemic
+19-240-80-1,udii1243,Udi,301,къаъвиъ,CyrillTrans,"chief, chieftain",,,q̄aˤviˤ,Phonemic
+19-250-80-1,udii1243,Udi,1296,чомбагъ,CyrillTrans,"staff, walking stick",,,čombaɣ,Phonemic
+19-320-80-1,udii1243,Udi,1508,къаъвиъ,CyrillTrans,"king, ruler",,,q̄aˤviˤ,Phonemic
+19-330-80-1,udii1243,Udi,1306,къаъвиъ (чубух),CyrillTrans,queen,,,q̄aˤviˤ(čubux),Phonemic
+19-360-80-1,udii1243,Udi,482,шел,CyrillTrans,"noble, nobleman",,,šel,Phonemic
+19-370-80-1,udii1243,Udi,1032,шагьаьр амдар,CyrillTrans,"citizen, subject",,,šahӓr amdar,Phonemic
+19-410-80-1,udii1243,Udi,383,агъа,CyrillTrans,master,,,aɣa,Phonemic
+19-420-80-1,udii1243,Udi,812,ноькаьр,CyrillTrans,slave,,,nӧkär,Phonemic
+19-430-80-1,udii1243,Udi,255,ноькаьр,CyrillTrans,servant,,,nökär,Phonemic
+19-440-80-1,udii1243,Udi,384,азад,CyrillTrans,freeman,,,azad,Phonemic
+19-450-80-1,udii1243,Udi,1128,тапІшурбсун,CyrillTrans,"command, order",,,tap̄šurbsun,Phonemic
+19-460-80-1,udii1243,Udi,1635,айталесун,CyrillTrans,obey,,,aytalesun,Phonemic
+19-470-80-1,udii1243,Udi,1003,иджаза тастІун,CyrillTrans,"let, permit",,,"iǯaza tast̄un, bartesun",Phonemic
+19-470-80-3,udii1243,Udi,1003,бартесун,CyrillTrans,"let, permit",,,"iǯaza tast̄un, bartesun",Phonemic
+19-510-80-1,udii1243,Udi,1325,достІ,CyrillTrans,"friend, companion",,,dost̄,Phonemic
+19-520-80-1,udii1243,Udi,1358,дуьшмаьн,CyrillTrans,enemy,,,düšmän,Phonemic
+19-540-80-1,udii1243,Udi,1332,къунши,CyrillTrans,neighbor,,,q̄unši,Phonemic
+19-560-80-1,udii1243,Udi,1782,къонагъ,CyrillTrans,guest,,,q̄onaɣ,Phonemic
+19-570-80-1,udii1243,Udi,1545,къонджІух,CyrillTrans,host,,,q̄onǯﬁux,Phonemic
+19-580-80-1,udii1243,Udi,1897,коьмаьй,CyrillTrans,"help, aid",,,kömäy,Phonemic
+19-590-80-1,udii1243,Udi,1550,аьнкаьлбесун,CyrillTrans,"hinder, prevent",,,änkälbesun,Phonemic
+19-610-80-1,udii1243,Udi,1747,аьдаьт,CyrillTrans,custom,,,ädät,Phonemic
+19-620-80-1,udii1243,Udi,1848,оролугъ,CyrillTrans,"strife, quarrel",,,"oroluɣ, dava",Phonemic
+19-620-80-3,udii1243,Udi,1848,дава,CyrillTrans,"strife, quarrel",,,"oroluɣ, dava",Phonemic
+19-650-80-1,udii1243,Udi,1831,ламанcтІун,CyrillTrans,meet,,,lamanst̄un,Phonemic
+19-720-80-1,udii1243,Udi,1610,къахба,CyrillTrans,prostitute,,,q̄axba,Phonemic
+20-110-80-1,udii1243,Udi,1423,давабесун,CyrillTrans,fight (vb),,,"davabesun, aˤqdesun",Phonemic
+20-110-80-3,udii1243,Udi,1423,аъхъдесун,CyrillTrans,fight (vb),,,"davabesun, aˤqdesun",Phonemic
+20-130-80-1,udii1243,Udi,579,дава,CyrillTrans,"war, battle",,,dava,Phonemic
+20-140-80-1,udii1243,Udi,1338,шипІлугъ,CyrillTrans,peace,,,sip̄luɣ,Phonemic
+20-150-80-1,udii1243,Udi,1561,къошун,CyrillTrans,army,,,q̄ošun,Phonemic
+20-170-80-1,udii1243,Udi,1941,аьскІаьр,CyrillTrans,soldier,,,äsk̄är,Phonemic
+20-210-80-1,udii1243,Udi,951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-80-1,udii1243,Udi,1763,кІовал,CyrillTrans,club,,,k̄oval,Phonemic
+20-222-80-1,udii1243,Udi,386,тавар,CyrillTrans,battle-ax,,,tavar,Phonemic
+20-230-80-1,udii1243,Udi,387,сапанд,CyrillTrans,sling,,,sapand,Phonemic
+20-240-80-1,udii1243,Udi,994,йаьй,CyrillTrans,bow,,,yäy,Phonemic
+20-250-80-1,udii1243,Udi,977,ох,CyrillTrans,arrow,,,ox,Phonemic
+20-260-80-1,udii1243,Udi,945,ккоьрди,CyrillTrans,spear,,,k̄ördi,Phonemic
+20-270-80-1,udii1243,Udi,1535,къылындж,CyrillTrans,sword,,,q̄ɨlɨnǯ,Phonemic
+20-280-80-1,udii1243,Udi,1566,туьфаьнг,CyrillTrans,"gun, cannon",,,tüfäng,Phonemic
+20-310-80-1,udii1243,Udi,1061,йарагъ,CyrillTrans,armor (defensive),,,yaraɣ,Phonemic
+20-340-80-1,udii1243,Udi,1064,къалхан,CyrillTrans,shield,,,q̄alxan,Phonemic
+20-350-80-1,udii1243,Udi,1938,къала,CyrillTrans,fortress,,,q̄ala,Phonemic
+20-360-80-1,udii1243,Udi,1671,къала,CyrillTrans,tower,,,"q̄ala, k̄ullä",Phonemic
+20-360-80-3,udii1243,Udi,1671,кІуллаь,CyrillTrans,tower,,,"q̄ala, k̄ullä",Phonemic
+20-410-80-1,udii1243,Udi,783,гелебе,CyrillTrans,victory,,,gelebe,Phonemic
+20-430-80-1,udii1243,Udi,722,лавабаксун,CyrillTrans,attack,,,lavabaksun,Phonemic
+20-460-80-1,udii1243,Udi,1696,йесир тайсун,CyrillTrans,surrender,,,yesir taysun,Phonemic
+20-470-80-1,udii1243,Udi,1072,йесир,CyrillTrans,"captive, prisoner",,,yesir,Phonemic
+20-471-80-1,udii1243,Udi,1940,къарoл,CyrillTrans,"guard, sentinel",,,q̄arol,Phonemic
+20-480-80-1,udii1243,Udi,1022,давла,CyrillTrans,"booty, spoils",,,davla,Phonemic
+20-510-80-1,udii1243,Udi,1858,балигъчи,CyrillTrans,fisherman,,,baliɣči,Phonemic
+20-520-80-1,udii1243,Udi,1074,къармагъ,CyrillTrans,fishhook,,,q̄armaɣ,Phonemic
+20-530-80-1,udii1243,Udi,19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-80-1,udii1243,Udi,388,тор,CyrillTrans,fishnet,,,tor,Phonemic
+20-610-80-1,udii1243,Udi,1435,охаълбсун,CyrillTrans,hunt,,,oxaˤlbsun,Phonemic
+20-620-80-1,udii1243,Udi,1172,доъпстІун,CyrillTrans,shoot,,,doˤpst̄un,Phonemic
+20-650-80-1,udii1243,Udi,1170,бикъсун,CyrillTrans,trap (vb),,,biq̄sun,Phonemic
+21-110-80-1,udii1243,Udi,1062,аьдаьт,CyrillTrans,law,,,ädät,Phonemic
+21-150-80-1,udii1243,Udi,1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-80-1,udii1243,Udi,1818,суд бесун,CyrillTrans,judge (vb),,,sud besun,Phonemic
+21-180-80-1,udii1243,Udi,861,судийа,CyrillTrans,judge (noun),,,sudiya,Phonemic
+21-210-80-1,udii1243,Udi,2020,арзачи,CyrillTrans,plaintiff,,,arzači,Phonemic
+21-220-80-1,udii1243,Udi,1034,джавабчи,CyrillTrans,defendant,,,ǯavabči,Phonemic
+21-230-80-1,udii1243,Udi,1144,шагьид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-80-1,udii1243,Udi,1939,еласпсун,CyrillTrans,swear,,,elaspsun,Phonemic
+21-250-80-1,udii1243,Udi,1712,елас,CyrillTrans,oath,,,elas,Phonemic
+21-350-80-1,udii1243,Udi,1682,такъсирлу,CyrillTrans,guilty,,,taq̄sirlu,Phonemic
+21-370-80-1,udii1243,Udi,390,джаза,CyrillTrans,"penalty, punishment",,,ǯaza,Phonemic
+21-380-80-1,udii1243,Udi,218,джаьрмаь,CyrillTrans,fine,,,ǯärmä,Phonemic
+21-390-80-1,udii1243,Udi,1281,тІуссагъхана,CyrillTrans,"prison, jail",,,t̄us̄aɣxana,Phonemic
+21-420-80-1,udii1243,Udi,845,беспІсун,CyrillTrans,murder,,,besp̄sun,Phonemic
+21-430-80-1,udii1243,Udi,902,кьахІба,CyrillTrans,adultery,,,qʼaћba,Phonemic
+21-440-80-1,udii1243,Udi,953,зина,CyrillTrans,rape,,,zina,Phonemic
+21-510-80-1,udii1243,Udi,713,башкъсун,CyrillTrans,steal,,,bašq̄sun,Phonemic
+21-520-80-1,udii1243,Udi,1160,башкъал,CyrillTrans,thief,,,"bašq̄al, oɣru",Phonemic
+21-520-80-3,udii1243,Udi,1160,огъру,CyrillTrans,thief,,,"bašq̄al, oɣru",Phonemic
+22-110-80-1,udii1243,Udi,661,веІ,CyrillTrans,religion,,,veˤ,Phonemic
+22-120-80-1,udii1243,Udi,1944,БухаджІугъ,CyrillTrans,God,,,buxaǯﬁuɣ,Phonemic
+22-130-80-1,udii1243,Udi,911,гергецІ,CyrillTrans,"temple, church",,,"gergec̄, kikisä",Phonemic
+22-130-80-3,udii1243,Udi,911,килисаь,CyrillTrans,"temple, church",,,"gergec̄, kikisä",Phonemic
+22-140-80-1,udii1243,Udi,853,мигьмар,CyrillTrans,altar,,,mihmar,Phonemic
+22-150-80-1,udii1243,Udi,1103,къурбан,CyrillTrans,"sacrifice, offering",,,q̄urban,Phonemic
+22-170-80-1,udii1243,Udi,24,афурепсун,CyrillTrans,pray,,,afurepsun,Phonemic
+22-180-80-1,udii1243,Udi,852,хаштІал,CyrillTrans,priest,,,xašt̄al,Phonemic
+22-220-80-1,udii1243,Udi,304,ваъзбесун,CyrillTrans,preach,,,vaˤzbesun,Phonemic
+22-230-80-1,udii1243,Udi,391,афурепсун,CyrillTrans,bless,,,afurepsun,Phonemic
+22-240-80-1,udii1243,Udi,8,бифарбсун,CyrillTrans,curse,,,bifarbsun,Phonemic
+22-260-80-1,udii1243,Udi,303,гъурух ефсун,CyrillTrans,fast (vb),,,ɣurux efsun,Phonemic
+22-310-80-1,udii1243,Udi,1565,джаьннаьт,CyrillTrans,heaven,,,ǯännät,Phonemic
+22-320-80-1,udii1243,Udi,878,джаьгьаьннаьм,CyrillTrans,hell,,,ǯähännäm,Phonemic
+22-350-80-1,udii1243,Udi,1973,джин,CyrillTrans,demon (evil spirit),,,ǯin,Phonemic
+22-370-80-1,udii1243,Udi,1945,хач,CyrillTrans,idol,,,xač,Phonemic
+22-420-80-1,udii1243,Udi,392,джадо,CyrillTrans,"magic, witchcraft, sorcery",,,ǯado,Phonemic
+22-440-80-1,udii1243,Udi,2138,пери,CyrillTrans,"fairy, elf",,,peri,Phonemic
+22-450-80-1,udii1243,Udi,1175,ходж,CyrillTrans,"ghost, phantom",,,xoǯ,Phonemic
+22-470-80-1,udii1243,Udi,107,нишІан,CyrillTrans,"omen, portent",,,lišﬁan,Phonemic

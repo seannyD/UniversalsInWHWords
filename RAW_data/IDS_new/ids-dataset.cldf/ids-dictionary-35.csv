@@ -1,0 +1,1549 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-35-1,bagv1239,Bagvalal,1852,джангуб,CyrillTrans,often,,,"ǯangub, baqʼa-baqʼada",Phonemic
+14-320-35-3,bagv1239,Bagvalal,1852,бакъа-бакъада,CyrillTrans,often,,,"ǯangub, baqʼa-baqʼada",Phonemic
+14-310-35-1,bagv1239,Bagvalal,1676,индадала,CyrillTrans,always,,,indadala,Phonemic
+14-290-35-1,bagv1239,Bagvalal,790,хІадураб,CyrillTrans,ready,,,ħadurab,Phonemic
+14-280-35-1,bagv1239,Bagvalal,1928,бигъайла,CyrillTrans,"cease, stop",,,biɣayla,Phonemic
+14-270-35-1,bagv1239,Bagvalal,1766,булъайла,CyrillTrans,finish,,,buɬayla,Phonemic
+14-260-35-1,bagv1239,Bagvalal,743,балалъа бацІайла,CyrillTrans,end (temporal),,,balaɬa bacʼayla,Phonemic
+14-252-35-1,bagv1239,Bagvalal,1186,беххалгьила,CyrillTrans,"last, endure",,,bex̄alhila,Phonemic
+14-250-35-1,bagv1239,Bagvalal,1806,ащила,CyrillTrans,"begin, beginning",,,"aš̄ila, holhila, baybix̌idila",Phonemic
+14-250-35-3,bagv1239,Bagvalal,1806,гьолгьила,CyrillTrans,"begin, beginning",,,"aš̄ila, holhila, baybix̌idila",Phonemic
+14-250-35-5,bagv1239,Bagvalal,1806,байбихьидила,CyrillTrans,"begin, beginning",,,"aš̄ila, holhila, baybix̌idila",Phonemic
+14-240-35-1,bagv1239,Bagvalal,425,инлІах бигъайла,CyrillTrans,"retard, delay",,,"inƛax biɣayla, inƛaq ǯila",Phonemic
+14-240-35-3,bagv1239,Bagvalal,425,инлІахъ джила,CyrillTrans,"retard, delay",,,"inƛax biɣayla, inƛaq ǯila",Phonemic
+14-230-35-1,bagv1239,Bagvalal,754,цІакьила,CyrillTrans,"hasten, hurry",,,cʼaƛ̄ʼila,Phonemic
+14-220-35-1,bagv1239,Bagvalal,701,хІинссуб,CyrillTrans,slow,,,ħins̄ub,Phonemic
+14-210-35-1,bagv1239,Bagvalal,1631,ххеххуб,CyrillTrans,"swift, fast, quick",,,x̄ex̄ub,Phonemic
+14-190-35-1,bagv1239,Bagvalal,1963,гьерах тІаничІидабо,CyrillTrans,immediately,,,herax tʼaničʼidabo,Phonemic
+14-180-35-1,bagv1239,Bagvalal,1376,йера,CyrillTrans,now,,,yera,Phonemic
+14-170-35-1,bagv1239,Bagvalal,477,кватІидибо,CyrillTrans,late,,,kʷatʼidibo,Phonemic
+14-160-35-1,bagv1239,Bagvalal,672,бакъада,CyrillTrans,early,,,baqʼada,Phonemic
+14-150-35-1,bagv1239,Bagvalal,1229,багьаруб,CyrillTrans,old,,,baharub,Phonemic
+14-140-35-1,bagv1239,Bagvalal,1207,минчаб,CyrillTrans,young,,,minčab,Phonemic
+14-120-35-1,bagv1239,Bagvalal,1789,замана,CyrillTrans,age,,,"zamana, qʼar",Phonemic
+14-120-35-3,bagv1239,Bagvalal,1789,къар,CyrillTrans,age,,,"zamana, qʼar",Phonemic
+14-130-35-1,bagv1239,Bagvalal,1231,цІинуб,CyrillTrans,new,,,cʼinub,Phonemic
+14-110-35-1,bagv1239,Bagvalal,892,къар,CyrillTrans,time,,,qʼar,Phonemic
+13-440-35-1,bagv1239,Bagvalal,417,гьацІида,CyrillTrans,three times,,,hacʼida,Phonemic
+13-420-35-1,bagv1239,Bagvalal,1859,гьабулгьилалІоб,CyrillTrans,third,,,habulhilaƛob,Phonemic
+13-380-35-1,bagv1239,Bagvalal,1546,чІанцІида,CyrillTrans,two times,,,čʼancʼida,Phonemic
+13-370-35-1,bagv1239,Bagvalal,1888,нина,CyrillTrans,pair,,,"nina, čut, ɣat",Phonemic
+13-370-35-3,bagv1239,Bagvalal,1888,чут,CyrillTrans,pair,,,"nina, čut, ɣat",Phonemic
+13-370-35-5,bagv1239,Bagvalal,1888,гъат,CyrillTrans,pair,,,"nina, čut, ɣat",Phonemic
+13-360-35-1,bagv1239,Bagvalal,1384,чІичІилгьилалІо̄б,CyrillTrans,second,,,"čʼičʼilhilaƛōb, čʼečʼīƛōb",Phonemic
+13-360-35-3,bagv1239,Bagvalal,1384,чІечІӣлІо̄б,CyrillTrans,second,,,"čʼičʼilhilaƛōb, čʼečʼīƛōb",Phonemic
+13-350-35-1,bagv1239,Bagvalal,1529,гьечІичІо̄лъис,CyrillTrans,last,,,"hečʼičʼōɬis, hečʼihes̄",Phonemic
+13-350-35-3,bagv1239,Bagvalal,1529,гьечІигьесс,CyrillTrans,last,,,"hečʼičʼōɬis, hečʼihes̄",Phonemic
+13-340-35-1,bagv1239,Bagvalal,728,гьечІи се̄с,CyrillTrans,first,,,"hečʼi sēs, ceblhila ƛob",Phonemic
+13-340-35-3,bagv1239,Bagvalal,728,цеблгьила лІоб,CyrillTrans,first,,,"hečʼi sēs, ceblhila ƛob",Phonemic
+13-330-35-1,bagv1239,Bagvalal,1580,цедахъилас,CyrillTrans,"alone, only",,,"cedaqilas, cedagōb",Phonemic
+13-330-35-3,bagv1239,Bagvalal,1580,цедаго̄б,CyrillTrans,"alone, only",,,"cedaqilas, cedagōb",Phonemic
+13-240-35-1,bagv1239,Bagvalal,816,рекъеᴴлгьар,CyrillTrans,half,,,reqʼeⁿlhar,Phonemic
+13-230-35-1,bagv1239,Bagvalal,779,бала,CyrillTrans,"part, piece",,,bala,Phonemic
+13-220-35-1,bagv1239,Bagvalal,1624,бечІураб,CyrillTrans,empty,,,bečʼurab,Phonemic
+13-210-35-1,bagv1239,Bagvalal,1429,бецІуб,CyrillTrans,full,,,becʼub,Phonemic
+13-190-35-1,bagv1239,Bagvalal,2023,джамгубда,CyrillTrans,"multitude, crowd",,,ǯamgubda,Phonemic
+13-181-35-1,bagv1239,Bagvalal,1241,чвамгобала,CyrillTrans,some,,,čʷamgobala,Phonemic
+13-170-35-1,bagv1239,Bagvalal,1242,дагьаб,CyrillTrans,"little (quantity), few",,,"dahab, mukʼub",Phonemic
+13-170-35-3,bagv1239,Bagvalal,1242,мукІуб,CyrillTrans,"little (quantity), few",,,"dahab, mukʼub",Phonemic
+13-180-35-1,bagv1239,Bagvalal,1881,бӯнагоб,CyrillTrans,enough,,,būnagob,Phonemic
+13-160-35-1,bagv1239,Bagvalal,1992,сІсІикІидуб,CyrillTrans,more,,,s̄ʼikʼidub,Phonemic
+13-150-35-1,bagv1239,Bagvalal,1198,джангуб(да),CyrillTrans,"much, many",,,ǯangub(da),Phonemic
+13-140-35-1,bagv1239,Bagvalal,98,имгІагила,CyrillTrans,"every, all",,,"imʕagila, ebʕagila",Phonemic
+13-140-35-3,bagv1239,Bagvalal,98,эбгІагила,CyrillTrans,"every, all",,,"imʕagila, ebʕagila",Phonemic
+13-107-35-1,bagv1239,Bagvalal,1420,бисІсІина,CyrillTrans,count,,,bis̄ʼina,Phonemic
+13-106-35-1,bagv1239,Bagvalal,1843,азарда,CyrillTrans,thousand,,,azarda,Phonemic
+13-105-35-1,bagv1239,Bagvalal,1634,бешенда,CyrillTrans,hundred,,,bešenda,Phonemic
+13-104-35-1,bagv1239,Bagvalal,1710,чІацІа(да),CyrillTrans,twenty,,,čʼacʼa(da),Phonemic
+13-103-35-1,bagv1239,Bagvalal,1709,гьацІал иᴴщтуда,CyrillTrans,fifteen,,,hacʼal iⁿš̄tuda,Phonemic
+13-102-35-1,bagv1239,Bagvalal,1707,гьацІал чІеда,CyrillTrans,twelve,,,hacʼal čʼeda,Phonemic
+13-101-35-1,bagv1239,Bagvalal,1706,гьацІал цеб,CyrillTrans,eleven,,,hacʼal ceb,Phonemic
+13-100-35-1,bagv1239,Bagvalal,1515,гьацІада,CyrillTrans,ten,,,hacʼada,Phonemic
+13-90-35-1,bagv1239,Bagvalal,1483,гьачІвада,CyrillTrans,nine,,,hačʼʷada,Phonemic
+13-80-35-1,bagv1239,Bagvalal,1705,бикьида,CyrillTrans,eight,,,biƛ̄ʼida,Phonemic
+13-70-35-1,bagv1239,Bagvalal,1704,гьакьуда,CyrillTrans,seven,,,haƛ̄ʼuda,Phonemic
+13-60-35-1,bagv1239,Bagvalal,1703,инлІида,CyrillTrans,six,,,inƛida,Phonemic
+13-50-35-1,bagv1239,Bagvalal,493,иᴴщтуда,CyrillTrans,five,,,iⁿš̄tuda,Phonemic
+13-40-35-1,bagv1239,Bagvalal,1500,буъуда,CyrillTrans,four,,,buʔuda,Phonemic
+13-20-35-1,bagv1239,Bagvalal,1498,чІеда,CyrillTrans,two,,,čʼeda,Phonemic
+13-30-35-1,bagv1239,Bagvalal,492,гьабда,CyrillTrans,three,,,habda,Phonemic
+13-10-35-1,bagv1239,Bagvalal,1493,цеб,CyrillTrans,one,,,ceb,Phonemic
+13-0-35-1,bagv1239,Bagvalal,1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-35-1,bagv1239,Bagvalal,1264,бехьвайла,CyrillTrans,change,,,bex̌ʷayla,Phonemic
+12-920-35-1,bagv1239,Bagvalal,1558,балъуᴴб,CyrillTrans,"like, similar",,,baɬuⁿb,Phonemic
+12-840-35-1,bagv1239,Bagvalal,1048,мухъ,CyrillTrans,line,,,muq,Phonemic
+12-850-35-1,bagv1239,Bagvalal,1667,картІ,CyrillTrans,hole,,,kartʼ,Phonemic
+12-830-35-1,bagv1239,Bagvalal,1845,къатІал,CyrillTrans,"sphere, ball",,,qʼatʼal,Phonemic
+12-810-35-1,bagv1239,Bagvalal,1395,ссвардуб,CyrillTrans,round,,,"s̄ʷardub, gurginab",Phonemic
+12-810-35-3,bagv1239,Bagvalal,1395,гургинаб,CyrillTrans,round,,,"s̄ʷardub, gurginab",Phonemic
+12-820-35-1,bagv1239,Bagvalal,1467,ссвардар,CyrillTrans,circle,,,s̄ʷardar,Phonemic
+12-780-35-1,bagv1239,Bagvalal,850,бобол,CyrillTrans,square,,,bobol,Phonemic
+12-770-35-1,bagv1239,Bagvalal,1367,хъамч,CyrillTrans,cross,,,"qamč, qaⁿč",Phonemic
+12-770-35-3,bagv1239,Bagvalal,1367,хъаᴴч,CyrillTrans,cross,,,"qamč, qaⁿč",Phonemic
+12-760-35-1,bagv1239,Bagvalal,192,сІсІунчІал,CyrillTrans,corner,,,s̄ʼunčʼal,Phonemic
+12-750-35-1,bagv1239,Bagvalal,1071,гъанцІа,CyrillTrans,hook,,,ɣancʼa,Phonemic
+12-740-35-1,bagv1239,Bagvalal,297,лІихъуб,CyrillTrans,crooked,,,"ƛiqub, ƛequb",Phonemic
+12-740-35-3,bagv1239,Bagvalal,297,лІехъуб,CyrillTrans,crooked,,,"ƛiqub, ƛequb",Phonemic
+12-730-35-1,bagv1239,Bagvalal,1404,битІуб,CyrillTrans,straight,,,bitʼub,Phonemic
+12-710-35-1,bagv1239,Bagvalal,1633,бачваб,CyrillTrans,flat,,,"bačʷab, š̄ardur",Phonemic
+12-710-35-3,bagv1239,Bagvalal,1633,щардур,CyrillTrans,flat,,,"bačʷab, š̄ardur",Phonemic
+12-680-35-1,bagv1239,Bagvalal,193,итуб,CyrillTrans,shallow,,,"itub, kʼʷatʼab, šʼanub",Phonemic
+12-680-35-3,bagv1239,Bagvalal,193,кІватІаб,CyrillTrans,shallow,,,"itub, kʼʷatʼab, šʼanub",Phonemic
+12-680-35-5,bagv1239,Bagvalal,193,щІануб,CyrillTrans,shallow,,,"itub, kʼʷatʼab, šʼanub",Phonemic
+12-670-35-1,bagv1239,Bagvalal,1593,къотІуб,CyrillTrans,deep,,,qʼotʼub,Phonemic
+12-650-35-1,bagv1239,Bagvalal,2249,белаб,CyrillTrans,thin (in dimension),,,belab,Phonemic
+12-630-35-1,bagv1239,Bagvalal,1244,гьецІуб,CyrillTrans,thick (in dimension),,,"hecʼub, ƛ̄ʼanub, haliyab",Phonemic
+12-630-35-3,bagv1239,Bagvalal,1244,кьануб,CyrillTrans,thick (in dimension),,,"hecʼub, ƛ̄ʼanub, haliyab",Phonemic
+12-630-35-5,bagv1239,Bagvalal,1244,гьалийаб,CyrillTrans,thick (in dimension),,,"hecʼub, ƛ̄ʼanub, haliyab",Phonemic
+12-620-35-1,bagv1239,Bagvalal,1267,къвараб,CyrillTrans,narrow,,,"qʼʷarab, šʼederub",Phonemic
+12-620-35-3,bagv1239,Bagvalal,1267,щІедеруб,CyrillTrans,narrow,,,"qʼʷarab, šʼederub",Phonemic
+12-610-35-1,bagv1239,Bagvalal,1243,гІабуб,CyrillTrans,"wide, broad",,,ʕabub,Phonemic
+12-590-35-1,bagv1239,Bagvalal,1645,бачакІуб,CyrillTrans,short,,,bačakʼub,Phonemic
+12-580-35-1,bagv1239,Bagvalal,711,беххалаб,CyrillTrans,tall,,,"bex̄alab, hecʼub",Phonemic
+12-580-35-3,bagv1239,Bagvalal,711,гьецІуб,CyrillTrans,tall,,,"bex̄alab, hecʼub",Phonemic
+12-570-35-1,bagv1239,Bagvalal,1203,беххалаб,CyrillTrans,long,,,bex̄alab,Phonemic
+12-560-35-1,bagv1239,Bagvalal,1246,мукІуб,CyrillTrans,"small, little",,,mukʼub,Phonemic
+12-550-35-1,bagv1239,Bagvalal,1202,гьичІаб,CyrillTrans,"large, big",,,"hičʼab, hiⁿčʼab",Phonemic
+12-550-35-3,bagv1239,Bagvalal,1202,гьиᴴчІаб,CyrillTrans,"large, big",,,"hičʼab, hiⁿčʼab",Phonemic
+12-540-35-1,bagv1239,Bagvalal,1506,басина,CyrillTrans,measure,,,basina,Phonemic
+12-530-35-1,bagv1239,Bagvalal,479,гьичІаб булъула,CyrillTrans,grow,,,"hičʼab buɬula, buɬula, būna ǯaⁿgulhila",Phonemic
+12-530-35-3,bagv1239,Bagvalal,479,булъула,CyrillTrans,grow,,,"hičʼab buɬula, buɬula, būna ǯaⁿgulhila",Phonemic
+12-530-35-5,bagv1239,Bagvalal,479,бӯна джаᴴгулгьила,CyrillTrans,grow,,,"hičʼab buɬula, buɬula, būna ǯaⁿgulhila",Phonemic
+12-480-35-1,bagv1239,Bagvalal,1595,къибла,CyrillTrans,south,,,qʼibla,Phonemic
+12-470-35-1,bagv1239,Bagvalal,1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-35-1,bagv1239,Bagvalal,1817,милгьбилълъар,CyrillTrans,west,,,"milhbiɬ̄ar, maɣrib",Phonemic
+12-460-35-3,bagv1239,Bagvalal,1817,магъриб,CyrillTrans,west,,,"milhbiɬ̄ar, maɣrib",Phonemic
+12-450-35-1,bagv1239,Bagvalal,1877,милгьбар,CyrillTrans,east,,,"milhbar, mašriqʼ",Phonemic
+12-450-35-3,bagv1239,Bagvalal,1877,машрикъ,CyrillTrans,east,,,"milhbar, mašriqʼ",Phonemic
+12-430-35-1,bagv1239,Bagvalal,1942,эсебах,CyrillTrans,near (adv),,,esebax,Phonemic
+12-440-35-1,bagv1239,Bagvalal,1406,щІири,CyrillTrans,far (adv),,,šʼiri,Phonemic
+12-420-35-1,bagv1239,Bagvalal,244,кучІилъ эсеб,CyrillTrans,left (side),,,kučʼiɬ eseb,Phonemic
+12-410-35-1,bagv1239,Bagvalal,1019,хІащІилъ эсеб,CyrillTrans,right (side),,,ħašʼiɬ eseb,Phonemic
+12-370-35-1,bagv1239,Bagvalal,1093,бакь макІва,CyrillTrans,"middle, center",,,baƛ̄ʼ makʼʷa,Phonemic
+12-360-35-1,bagv1239,Bagvalal,682,эсеб,CyrillTrans,side,,,eseb,Phonemic
+12-353-35-1,bagv1239,Bagvalal,863,бал,CyrillTrans,edge,,,bal,Phonemic
+12-352-35-1,bagv1239,Bagvalal,372,сІсІумуб,CyrillTrans,pointed,,,s̄ʼumub,Phonemic
+12-350-35-1,bagv1239,Bagvalal,742,ахир,CyrillTrans,end,,,"axir, bala",Phonemic
+12-350-35-3,bagv1239,Bagvalal,742,бала,CyrillTrans,end,,,"axir, bala",Phonemic
+12-340-35-1,bagv1239,Bagvalal,690,гьилв,CyrillTrans,bottom,,,hilʷ,Phonemic
+12-320-35-1,bagv1239,Bagvalal,721,итуб,CyrillTrans,low,,,itub,Phonemic
+12-330-35-1,bagv1239,Bagvalal,1753,этІун,CyrillTrans,top,,,etʼun,Phonemic
+12-310-35-1,bagv1239,Bagvalal,1265,гьецІуб,CyrillTrans,high,,,hecʼub,Phonemic
+12-270-35-1,bagv1239,Bagvalal,602,бакъащайла,CyrillTrans,"hide, conceal",,,baqʼaš̄ayla,Phonemic
+12-250-35-1,bagv1239,Bagvalal,1046,эщила,CyrillTrans,"shut, close",,,"eš̄ila, edila",Phonemic
+12-250-35-3,bagv1239,Bagvalal,1046,эдила,CyrillTrans,"shut, close",,,"eš̄ila, edila",Phonemic
+12-260-35-1,bagv1239,Bagvalal,761,агьи балила,CyrillTrans,cover,,,ahi balila,Phonemic
+12-240-35-1,bagv1239,Bagvalal,1156,рущула,CyrillTrans,open,,,"ruš̄ula, hunila",Phonemic
+12-240-35-3,bagv1239,Bagvalal,1156,гьунила,CyrillTrans,open,,,"ruš̄ula, hunila",Phonemic
+12-232-35-1,bagv1239,Bagvalal,1119,бикъила,CyrillTrans,divide,,,biqʼila,Phonemic
+12-230-35-1,bagv1239,Bagvalal,1359,батІа джила,CyrillTrans,separate,,,batʼa ǯila,Phonemic
+12-220-35-1,bagv1239,Bagvalal,1743,сани тІайна,CyrillTrans,"join, unite",,,sani tʼayna,Phonemic
+12-213-35-1,bagv1239,Bagvalal,1576,гъунилъи бугьайла,CyrillTrans,pile up,,,ɣuniɬi buhayla,Phonemic
+12-212-35-1,bagv1239,Bagvalal,371,агьи гьецІайла,CyrillTrans,pick up,,,ahi hecʼayla,Phonemic
+12-210-35-1,bagv1239,Bagvalal,7,сани бугьайла,CyrillTrans,"collect, gather",,,sani buhayla,Phonemic
+12-170-35-1,bagv1239,Bagvalal,838,буххубукІаб,CyrillTrans,"remains, left overs",,,bux̄ubukʼab,Phonemic
+12-160-35-1,bagv1239,Bagvalal,987,вигъила,CyrillTrans,"remain, stay",,,wiɣila,Phonemic
+12-150-35-1,bagv1239,Bagvalal,1442,вигъила (вигъивукІула),CyrillTrans,stand,,,wiɣila (wiɣiwukʼula),Phonemic
+12-140-35-1,bagv1239,Bagvalal,215,гьеллила,CyrillTrans,lie down,,,hellila,Phonemic
+12-130-35-1,bagv1239,Bagvalal,1416,хІащІа вукІула,CyrillTrans,sit,,,ħašʼa wukʼula,Phonemic
+12-120-35-1,bagv1239,Bagvalal,998,билгьила,CyrillTrans,put,,,bilhila,Phonemic
+12-110-35-1,bagv1239,Bagvalal,723,макІва,CyrillTrans,place,,,makʼʷa,Phonemic
+12-80-35-1,bagv1239,Bagvalal,1591,агьи,CyrillTrans,"up, above",,,ahi,Phonemic
+12-70-35-1,bagv1239,Bagvalal,1485,гьикьи,CyrillTrans,under,,,hiƛ̄ʼi,Phonemic
+12-60-35-1,bagv1239,Bagvalal,762,бахха (хинди),CyrillTrans,outside,,,bax̄a (xindi),Phonemic
+12-50-35-1,bagv1239,Bagvalal,1606,гьини,CyrillTrans,"inside, in",,,hini,Phonemic
+12-41-35-1,bagv1239,Bagvalal,1883,ссе,CyrillTrans,front,,,s̄e,Phonemic
+12-40-35-1,bagv1239,Bagvalal,1882,се,CyrillTrans,before,,,"se, ses̄er",Phonemic
+12-40-35-3,bagv1239,Bagvalal,1882,сессер,CyrillTrans,before,,,"se, ses̄er",Phonemic
+12-30-35-1,bagv1239,Bagvalal,2094,агьикьи,CyrillTrans,"down, below",,,ahiƛ̄ʼi,Phonemic
+12-20-35-1,bagv1239,Bagvalal,1816,эсебах,CyrillTrans,beside,,,esebax,Phonemic
+12-11-35-1,bagv1239,Bagvalal,1686,гье,CyrillTrans,behind,,,he,Phonemic
+12-10-35-1,bagv1239,Bagvalal,1685,гьегьер,CyrillTrans,after,,,heher,Phonemic
+11-920-35-1,bagv1239,Bagvalal,1098,джанила,CyrillTrans,weigh,,,ǯanila,Phonemic
+11-910-35-1,bagv1239,Bagvalal,884,бикъила,CyrillTrans,share (distribute),,,biqʼila,Phonemic
+11-890-35-1,bagv1239,Bagvalal,1887,учузаб,CyrillTrans,cheap,,,učuzab,Phonemic
+11-880-35-1,bagv1239,Bagvalal,1426,хирийаб,CyrillTrans,"dear (costly, expensive)",,,xiriyab,Phonemic
+11-870-35-1,bagv1239,Bagvalal,657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-35-1,bagv1239,Bagvalal,752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-35-1,bagv1239,Bagvalal,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-35-1,bagv1239,Bagvalal,1082,базарган,CyrillTrans,merchant,,,bazargan,Phonemic
+11-830-35-1,bagv1239,Bagvalal,2135,дарам (базар),CyrillTrans,"trade, barter",,,daram (bazar),Phonemic
+11-820-35-1,bagv1239,Bagvalal,1571,ичила,CyrillTrans,sell,,,ičila,Phonemic
+11-810-35-1,bagv1239,Bagvalal,1869,мугьдах бегьила,CyrillTrans,buy,,,muhdax behila,Phonemic
+11-790-35-1,bagv1239,Bagvalal,733,мугьдах мигьела,CyrillTrans,earn,,,"muhdax mihela, as ǯīyla",Phonemic
+11-790-35-3,bagv1239,Bagvalal,733,ас джӣйла,CyrillTrans,earn,,,"muhdax mihela, as ǯīyla",Phonemic
+11-780-35-1,bagv1239,Bagvalal,1122,мугь,CyrillTrans,wages,,,muh,Phonemic
+11-770-35-1,bagv1239,Bagvalal,856,хьварайла бегьила,CyrillTrans,hire,,,x̌ʷarayla behila,Phonemic
+11-690-35-1,bagv1239,Bagvalal,873,магъало,CyrillTrans,"tax, tribute",,,maɣalo,Phonemic
+11-660-35-1,bagv1239,Bagvalal,1081,рисІсІама,CyrillTrans,"account, reckoning",,,ris̄ʼama,Phonemic
+11-650-35-1,bagv1239,Bagvalal,718,мугь ичила,CyrillTrans,pay (vb),,,muh ičila,Phonemic
+11-640-35-1,bagv1239,Bagvalal,1914,налгьи,CyrillTrans,debt,,,nalhi,Phonemic
+11-630-35-1,bagv1239,Bagvalal,369,налгьи джила,CyrillTrans,owe,,,nalhi ǯila,Phonemic
+11-620-35-1,bagv1239,Bagvalal,1823,къарзила бегьила,CyrillTrans,borrow,,,qʼarzila behila,Phonemic
+11-610-35-1,bagv1239,Bagvalal,582,къарзила ичила,CyrillTrans,lend,,,qʼarzila ičila,Phonemic
+11-540-35-1,bagv1239,Bagvalal,1774,хъванув,CyrillTrans,"avaricious, stingy",,,qʷanuw,Phonemic
+11-530-35-1,bagv1239,Bagvalal,1934,гьагьачо,CyrillTrans,beggar,,,hahačo,Phonemic
+11-520-35-1,bagv1239,Bagvalal,1674,бискинав,CyrillTrans,poor,,,"biskinaw, resiqʼuw",Phonemic
+11-520-35-3,bagv1239,Bagvalal,1674,ресикъув,CyrillTrans,poor,,,"biskinaw, resiqʼuw",Phonemic
+11-510-35-1,bagv1239,Bagvalal,712,бечерав,CyrillTrans,rich,,,"bečeraw, res idaw, resiyaw",Phonemic
+11-510-35-3,bagv1239,Bagvalal,712,рес идав,CyrillTrans,rich,,,"bečeraw, res idaw, resiyaw",Phonemic
+11-510-35-5,bagv1239,Bagvalal,712,ресийав,CyrillTrans,rich,,,"bečeraw, res idaw, resiyaw",Phonemic
+11-440-35-1,bagv1239,Bagvalal,1867,щІануб ас,CyrillTrans,coin,,,šʼanub as,Phonemic
+11-430-35-1,bagv1239,Bagvalal,1559,ас,CyrillTrans,money,,,as,Phonemic
+11-340-35-1,bagv1239,Bagvalal,1095,вештаветила,CyrillTrans,"release, let go",,,weštawetila,Phonemic
+11-330-35-1,bagv1239,Bagvalal,1660,битайна,CyrillTrans,lose,,,bitayna,Phonemic
+11-320-35-1,bagv1239,Bagvalal,719,бисина,CyrillTrans,find,,,bisina,Phonemic
+11-310-35-1,bagv1239,Bagvalal,1468,цІаххина,CyrillTrans,"seek, look for",,,cʼax̄ina,Phonemic
+11-280-35-1,bagv1239,Bagvalal,44,зийан джила,CyrillTrans,"harm, injure, damage",,,ziyan ǯila,Phonemic
+11-270-35-1,bagv1239,Bagvalal,681,баххайла,CyrillTrans,destroy,,,bax̄ayla,Phonemic
+11-250-35-1,bagv1239,Bagvalal,2008,хъвасар джила,CyrillTrans,"save, rescue",,,qʷasar ǯila,Phonemic
+11-240-35-1,bagv1239,Bagvalal,1997,цІунидила,CyrillTrans,"preserve, look after",,,cʼunidila,Phonemic
+11-220-35-1,bagv1239,Bagvalal,85,бахха ичила,CyrillTrans,give back,,,bax̄a ičila,Phonemic
+11-210-35-1,bagv1239,Bagvalal,1447,ичила,CyrillTrans,give,,,ičila,Phonemic
+11-180-35-1,bagv1239,Bagvalal,738,одоб,CyrillTrans,thing,,,odob,Phonemic
+11-170-35-1,bagv1239,Bagvalal,1477,цІунидила,CyrillTrans,"keep, retain",,,cʼunidila,Phonemic
+11-160-35-1,bagv1239,Bagvalal,694,бегьила,CyrillTrans,"get, obtain",,,"behila, bela",Phonemic
+11-160-35-3,bagv1239,Bagvalal,694,бела,CyrillTrans,"get, obtain",,,"behila, bela",Phonemic
+11-150-35-1,bagv1239,Bagvalal,1448,бищила,CyrillTrans,hold,,,biš̄ila,Phonemic
+11-140-35-1,bagv1239,Bagvalal,2021,бищила,CyrillTrans,"seize, grasp",,,biš̄ila,Phonemic
+11-130-35-1,bagv1239,Bagvalal,1749,бегьила,CyrillTrans,take,,,behila,Phonemic
+11-120-35-1,bagv1239,Bagvalal,684,бетІергьан вукІула,CyrillTrans,"own, possess",,,betʼerhan wukʼula,Phonemic
+11-110-35-1,bagv1239,Bagvalal,773,букІула,CyrillTrans,have,,,bukʼula,Phonemic
+10-910-35-1,bagv1239,Bagvalal,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-35-1,bagv1239,Bagvalal,1870,йакор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-35-1,bagv1239,Bagvalal,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-35-1,bagv1239,Bagvalal,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-35-1,bagv1239,Bagvalal,108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-35-1,bagv1239,Bagvalal,1849,буххуна,CyrillTrans,row (vb),,,bux̄una,Phonemic
+10-851-35-1,bagv1239,Bagvalal,234,раххан,CyrillTrans,paddle (noun),,,rax̄an,Phonemic
+10-850-35-1,bagv1239,Bagvalal,108,раххан,CyrillTrans,oar,,,rax̄an,Phonemic
+10-840-35-1,bagv1239,Bagvalal,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-35-1,bagv1239,Bagvalal,416,гьецІа,CyrillTrans,outrigger,,,hecʼa,Phonemic
+10-831-35-1,bagv1239,Bagvalal,1970,гьецІа,CyrillTrans,canoe,,,hecʼa,Phonemic
+10-830-35-1,bagv1239,Bagvalal,1844,гьецІа,CyrillTrans,boat,,,hecʼa,Phonemic
+10-810-35-1,bagv1239,Bagvalal,740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-35-1,bagv1239,Bagvalal,14,рукь,CyrillTrans,yoke,,,ruƛ̄ʼ,Phonemic
+10-770-35-1,bagv1239,Bagvalal,1769,гьума,CyrillTrans,axle,,,huma,Phonemic
+10-760-35-1,bagv1239,Bagvalal,710,гъарбичо,CyrillTrans,wheel,,,ɣarbičo,Phonemic
+10-750-35-1,bagv1239,Bagvalal,122,гьорко,CyrillTrans,"carriage, wagon, cart",,,horko,Phonemic
+10-740-35-1,bagv1239,Bagvalal,1011,кьер,CyrillTrans,bridge,,,ƛ̄ʼer,Phonemic
+10-720-35-1,bagv1239,Bagvalal,2252,микъа,CyrillTrans,path,,,"miqʼa, kʼol",Phonemic
+10-720-35-3,bagv1239,Bagvalal,2252,кІол,CyrillTrans,path,,,"miqʼa, kʼol",Phonemic
+10-710-35-1,bagv1239,Bagvalal,667,микъ,CyrillTrans,road,,,miqʼ,Phonemic
+10-670-35-1,bagv1239,Bagvalal,1452,гъигъинайла,CyrillTrans,"push, shove",,,"ɣiɣinayla, tuⁿkidila",Phonemic
+10-670-35-3,bagv1239,Bagvalal,1452,туᴴкидила,CyrillTrans,"push, shove",,,"ɣiɣinayla, tuⁿkidila",Phonemic
+10-660-35-1,bagv1239,Bagvalal,367,чІатула велъила,CyrillTrans,ride,,,čʼatula weɬila,Phonemic
+10-650-35-1,bagv1239,Bagvalal,741,машинала велъила,CyrillTrans,drive,,,mašinala weɬila,Phonemic
+10-640-35-1,bagv1239,Bagvalal,43,гьегьер белгьила,CyrillTrans,lead (vb),,,heher belhila,Phonemic
+10-630-35-1,bagv1239,Bagvalal,1127,бугъула,CyrillTrans,send,,,buɣula,Phonemic
+10-620-35-1,bagv1239,Bagvalal,692,бегьила,CyrillTrans,bring,,,behila,Phonemic
+10-615-35-1,bagv1239,Bagvalal,415,гъвакьи бегьила,CyrillTrans,carry-underarm,,,ɣʷaƛ̄ʼi behila,Phonemic
+10-614-35-1,bagv1239,Bagvalal,414,уналагьи билгьибо бегьила,CyrillTrans,carry-on-head,,,unalahi bilhibo behila,Phonemic
+10-613-35-1,bagv1239,Bagvalal,413,абагонллагьи бегьила,CyrillTrans,carry-on-shoulder,,,abagonllahi behila,Phonemic
+10-612-35-1,bagv1239,Bagvalal,412,лелух бегьила,CyrillTrans,carry-in-hand,,,lelux behila,Phonemic
+10-610-35-1,bagv1239,Bagvalal,700,квай бегьила,CyrillTrans,carry (bear),,,kʷay behila,Phonemic
+10-570-35-1,bagv1239,Bagvalal,749,гьини вела (велъила),CyrillTrans,enter,,,hini wela (weɬila),Phonemic
+10-560-35-1,bagv1239,Bagvalal,1778,эсебāр бела,CyrillTrans,approach,,,esebār bela,Phonemic
+10-550-35-1,bagv1239,Bagvalal,1387,вацІила,CyrillTrans,"reach, arrive",,,wacʼila,Phonemic
+10-530-35-1,bagv1239,Bagvalal,1047,гьалаба гьегьер велъила,CyrillTrans,pursue,,,halaba heher weɬila,Phonemic
+10-520-35-1,bagv1239,Bagvalal,1085,гьегьер велъила,CyrillTrans,follow,,,heher weɬila,Phonemic
+10-510-35-1,bagv1239,Bagvalal,956,щІвайла,CyrillTrans,flee,,,šʼwayla,Phonemic
+10-491-35-1,bagv1239,Bagvalal,485,витина,CyrillTrans,disappear,,,witina,Phonemic
+10-490-35-1,bagv1239,Bagvalal,1752,вахха велъила,CyrillTrans,"go away, depart",,,wax̄a weɬila,Phonemic
+10-481-35-1,bagv1239,Bagvalal,581,вахха свардила,CyrillTrans,come back,,,wax̄a s̄ʷardila,Phonemic
+10-480-35-1,bagv1239,Bagvalal,1446,ве̄ла,CyrillTrans,come,,,wēla,Phonemic
+10-474-35-1,bagv1239,Bagvalal,1107,вах̄а велъила,CyrillTrans,go out,,,wax̄a weɬila,Phonemic
+10-473-35-1,bagv1239,Bagvalal,2014,агъикьи велъила,CyrillTrans,go down,,,aɣiƛ̄ʼi weɬila,Phonemic
+10-472-35-1,bagv1239,Bagvalal,1102,бахидила,CyrillTrans,climb,,,baxidila,Phonemic
+10-470-35-1,bagv1239,Bagvalal,695,(гьалда) велъила,CyrillTrans,go,,,(halda) weɬila,Phonemic
+10-471-35-1,bagv1239,Bagvalal,705,гьикьисагьи велъила,CyrillTrans,go up,,,hiƛ̄ʼisahi weɬila,Phonemic
+10-460-35-1,bagv1239,Bagvalal,1519,тІайла,CyrillTrans,run,,,tʼayla,Phonemic
+10-451-35-1,bagv1239,Bagvalal,366,къиралгьиво велъила,CyrillTrans,limp,,,qʼiralhiwo weɬila,Phonemic
+10-450-35-1,bagv1239,Bagvalal,1443,гьалда велъила,CyrillTrans,walk,,,halda weɬila,Phonemic
+10-440-35-1,bagv1239,Bagvalal,1879,кьедила,CyrillTrans,dance,,,ƛ̄ʼedila,Phonemic
+10-431-35-1,bagv1239,Bagvalal,1135,милгьа кІвайла,CyrillTrans,kick,,,milha kʼʷayla,Phonemic
+10-430-35-1,bagv1239,Bagvalal,1829,кІанцІудила,CyrillTrans,"jump, leap",,,kʼancʼudila,Phonemic
+10-420-35-1,bagv1239,Bagvalal,1324,зойла,CyrillTrans,"slide, slip",,,zoyla,Phonemic
+10-413-35-1,bagv1239,Bagvalal,296,кІусидила,CyrillTrans,crouch,,,kʼusidila,Phonemic
+10-412-35-1,bagv1239,Bagvalal,66,никвабала вукула,CyrillTrans,kneel,,,nikʷabala wukula,Phonemic
+10-410-35-1,bagv1239,Bagvalal,96,лІабдила,CyrillTrans,"creep, crawl",,,"ƛabdila, ƛardila",Phonemic
+10-410-35-3,bagv1239,Bagvalal,96,лІардила,CyrillTrans,"creep, crawl",,,"ƛabdila, ƛardila",Phonemic
+10-380-35-1,bagv1239,Bagvalal,175,пудила,CyrillTrans,blow,,,pudila,Phonemic
+10-370-35-1,bagv1239,Bagvalal,1441,этила,CyrillTrans,fly (vb),,,etila,Phonemic
+10-360-35-1,bagv1239,Bagvalal,787,кваᴴлгьела,CyrillTrans,sail (vb),,,kʷaⁿlhela,Phonemic
+10-352-35-1,bagv1239,Bagvalal,365,вучуна,CyrillTrans,splash,,,wučuna,Phonemic
+10-351-35-1,bagv1239,Bagvalal,119,(лъеᴴлълъи) гьини вакъащила,CyrillTrans,dive,,,(ɬeⁿɬ̄i) hini waqʼaš̄ila,Phonemic
+10-350-35-1,bagv1239,Bagvalal,1439,кваᴴлгьела,CyrillTrans,swim,,,kʷaⁿlhela,Phonemic
+10-340-35-1,bagv1239,Bagvalal,1574,кваᴴлгьела,CyrillTrans,float,,,kʷaⁿlhela,Phonemic
+10-330-35-1,bagv1239,Bagvalal,1088,лъеᴴлълъи букІула,CyrillTrans,sink,,,"ɬeⁿɬ̄i bukʼula, baqʼaš̄ila",Phonemic
+10-330-35-3,bagv1239,Bagvalal,1088,бакъащила,CyrillTrans,sink,,,"ɬeⁿɬ̄i bukʼula, baqʼaš̄ila",Phonemic
+10-320-35-1,bagv1239,Bagvalal,2003,чваххидила,CyrillTrans,flow,,,čʷax̄idila,Phonemic
+10-260-35-1,bagv1239,Bagvalal,1909,гьигьвадила,CyrillTrans,shake,,,hihʷadila,Phonemic
+10-252-35-1,bagv1239,Bagvalal,702,бищила,CyrillTrans,catch (ball),,,biš̄ila,Phonemic
+10-250-35-1,bagv1239,Bagvalal,1456,тІанила,CyrillTrans,throw,,,"tʼanila, tʼayna",Phonemic
+10-250-35-3,bagv1239,Bagvalal,1456,тІайна,CyrillTrans,throw,,,"tʼanila, tʼayna",Phonemic
+10-240-35-1,bagv1239,Bagvalal,2253,тІолила,CyrillTrans,drip,,,tʼolila,Phonemic
+10-230-35-1,bagv1239,Bagvalal,1280,хІащІабагьила,CyrillTrans,fall,,,"ħašʼabahila, hiƛ̄ʼibahila",Phonemic
+10-230-35-3,bagv1239,Bagvalal,1280,гьикьибагьила,CyrillTrans,fall,,,"ħašʼabahila, hiƛ̄ʼibahila",Phonemic
+10-220-35-1,bagv1239,Bagvalal,501,агьецІайла,CyrillTrans,"raise, lift",,,ahecʼayla,Phonemic
+10-210-35-1,bagv1239,Bagvalal,568,агьи гьецІила,CyrillTrans,rise,,,"ahi hecʼila, ahecʼila",Phonemic
+10-210-35-3,bagv1239,Bagvalal,568,агьецІила,CyrillTrans,rise,,,"ahi hecʼila, ahecʼila",Phonemic
+10-170-35-1,bagv1239,Bagvalal,430,чІеркъила,CyrillTrans,twist,,,čʼerqʼila,Phonemic
+10-160-35-1,bagv1239,Bagvalal,808,тІолила,CyrillTrans,drop (vb),,,"tʼolila, tʼoyla",Phonemic
+10-160-35-3,bagv1239,Bagvalal,808,тІойла,CyrillTrans,drop (vb),,,"tʼolila, tʼoyla",Phonemic
+10-150-35-1,bagv1239,Bagvalal,827,сварайла,CyrillTrans,roll,,,s̄ʷarayla,Phonemic
+10-140-35-1,bagv1239,Bagvalal,1113,жамидайла,CyrillTrans,"wind, wrap",,,žamidayla,Phonemic
+10-130-35-1,bagv1239,Bagvalal,1445,гьерах свардила,CyrillTrans,turn around,,,herax s̄ʷardila,Phonemic
+10-120-35-1,bagv1239,Bagvalal,1588,агьи свардила,CyrillTrans,turn over,,,"ahi s̄ʷardila, s̄ʷarayla, haⁿdibuhayla, haⁿdibuhila",Phonemic
+10-120-35-3,bagv1239,Bagvalal,1588,ссварайла,CyrillTrans,turn over,,,"ahi s̄ʷardila, s̄ʷarayla, haⁿdibuhayla, haⁿdibuhila",Phonemic
+10-120-35-5,bagv1239,Bagvalal,1588,гьаᴴдибугьайла,CyrillTrans,turn over,,,"ahi s̄ʷardila, s̄ʷarayla, haⁿdibuhayla, haⁿdibuhila",Phonemic
+10-120-35-7,bagv1239,Bagvalal,1588,гьаᴴдибугьила,CyrillTrans,turn over,,,"ahi s̄ʷardila, s̄ʷarayla, haⁿdibuhayla, haⁿdibuhila",Phonemic
+10-110-35-1,bagv1239,Bagvalal,765,гьолгьела,CyrillTrans,move,,,"holhela, weɬila (beɬila, yeɬila), x̌ʷardila",Phonemic
+10-110-35-3,bagv1239,Bagvalal,765,велъила (белъила,CyrillTrans,move,,,"holhela, weɬila (beɬila, yeɬila), x̌ʷardila",Phonemic
+10-110-35-5,bagv1239,Bagvalal,765,йелъила),CyrillTrans,move,,,"holhela, weɬila (beɬila, yeɬila), x̌ʷardila",Phonemic
+10-110-35-7,bagv1239,Bagvalal,765,хьвардила,CyrillTrans,move,,,"holhela, weɬila (beɬila, yeɬila), x̌ʷardila",Phonemic
+9-890-35-1,bagv1239,Bagvalal,2001,сурат бугьула,CyrillTrans,paint (vb),,,surat buhula,Phonemic
+9-840-35-1,bagv1239,Bagvalal,1979,азал,CyrillTrans,chisel,,,azal,Phonemic
+9-880-35-1,bagv1239,Bagvalal,647,ладжибар,CyrillTrans,paint (noun),,,laǯibar,Phonemic
+9-830-35-1,bagv1239,Bagvalal,1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-35-1,bagv1239,Bagvalal,914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-35-1,bagv1239,Bagvalal,228,батІула,CyrillTrans,carve,,,batʼula,Phonemic
+9-791-35-1,bagv1239,Bagvalal,360,муч (гьач) игьила,CyrillTrans,fan (vb),,,muč (hač) ihila,Phonemic
+9-790-35-1,bagv1239,Bagvalal,1971,вентилйатор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-35-1,bagv1239,Bagvalal,293,сетка,CyrillTrans,netbag,,,setka,Phonemic
+9-771-35-1,bagv1239,Bagvalal,292,тІанса,CyrillTrans,rug,,,"tʼansa, hecʼub kʼaz",Phonemic
+9-771-35-3,bagv1239,Bagvalal,292,гьецІуб кІаз,CyrillTrans,rug,,,"tʼansa, hecʼub kʼaz",Phonemic
+9-770-35-1,bagv1239,Bagvalal,195,черт,CyrillTrans,mat,,,čert,Phonemic
+9-760-35-1,bagv1239,Bagvalal,1539,инча,CyrillTrans,basket,,,"inča, iⁿča, ƛ̄ʼiliqan",Phonemic
+9-760-35-3,bagv1239,Bagvalal,1539,иᴴча,CyrillTrans,basket,,,"inča, iⁿča, ƛ̄ʼiliqan",Phonemic
+9-760-35-5,bagv1239,Bagvalal,1539,кьилихъан,CyrillTrans,basket,,,"inča, iⁿča, ƛ̄ʼiliqan",Phonemic
+9-750-35-1,bagv1239,Bagvalal,1729,эщила,CyrillTrans,"weave, plait",,,eš̄ila,Phonemic
+9-740-35-1,bagv1239,Bagvalal,604,зе̄,CyrillTrans,glass,,,zē,Phonemic
+9-730-35-1,bagv1239,Bagvalal,1399,чІабатІ,CyrillTrans,clay,,,čʼabatʼ,Phonemic
+9-720-35-1,bagv1239,Bagvalal,289,тІинила,CyrillTrans,mold (clay etc),,,tʼinila,Phonemic
+9-710-35-1,bagv1239,Bagvalal,359,щагІилъ устар,CyrillTrans,potter,,,š̄aʕiɬ ustar,Phonemic
+9-690-35-1,bagv1239,Bagvalal,358,хъалакуба,CyrillTrans,"tin, tinplate",,,qalakuba,Phonemic
+9-680-35-1,bagv1239,Bagvalal,627,тІощ,CyrillTrans,lead (noun),,,tʼoš̄,Phonemic
+9-670-35-1,bagv1239,Bagvalal,621,куба,CyrillTrans,iron,,,kuba,Phonemic
+9-660-35-1,bagv1239,Bagvalal,1825,пащ,CyrillTrans,"copper, bronze",,,"paš̄, mazgar",Phonemic
+9-660-35-3,bagv1239,Bagvalal,1825,мазгар,CyrillTrans,"copper, bronze",,,"paš̄, mazgar",Phonemic
+9-650-35-1,bagv1239,Bagvalal,759,ас,CyrillTrans,silver,,,as,Phonemic
+9-640-35-1,bagv1239,Bagvalal,1369,месер,CyrillTrans,gold,,,meser,Phonemic
+9-630-35-1,bagv1239,Bagvalal,211,куба тІӣна,CyrillTrans,cast (metals),,,kuba tʼīna,Phonemic
+9-620-35-1,bagv1239,Bagvalal,1648,рачч,CyrillTrans,anvil,,,rač̄,Phonemic
+9-610-35-1,bagv1239,Bagvalal,288,эгьуᴴлгьар,CyrillTrans,forge,,,ehuⁿlhar,Phonemic
+9-600-35-1,bagv1239,Bagvalal,1001,эгьун,CyrillTrans,"smith, blacksmith",,,ehun,Phonemic
+9-560-35-1,bagv1239,Bagvalal,1069,син,CyrillTrans,glue,,,sin,Phonemic
+9-500-35-1,bagv1239,Bagvalal,502,гьанкІва,CyrillTrans,nail,,,hankʼʷa,Phonemic
+9-490-35-1,bagv1239,Bagvalal,1481,кортІа,CyrillTrans,hammer,,,kortʼa,Phonemic
+9-480-35-1,bagv1239,Bagvalal,1948,хъихъваниб,CyrillTrans,saw,,,qiqʷanib,Phonemic
+9-461-35-1,bagv1239,Bagvalal,46,батІула,CyrillTrans,hollow out,,,batʼula,Phonemic
+9-460-35-1,bagv1239,Bagvalal,1501,кІартІ,CyrillTrans,bore,,,kʼartʼ,Phonemic
+9-440-35-1,bagv1239,Bagvalal,1840,авал (миса) джила,CyrillTrans,build,,,awal (misa) ǯila,Phonemic
+9-430-35-1,bagv1239,Bagvalal,1042,гьуралъ устар,CyrillTrans,carpenter,,,huraɬ ustar,Phonemic
+9-422-35-1,bagv1239,Bagvalal,1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-35-1,bagv1239,Bagvalal,245,хъваᴴтІе,CyrillTrans,broom,,,"qʷaⁿtʼe, ehʷ",Phonemic
+9-380-35-3,bagv1239,Bagvalal,245,эгьв,CyrillTrans,broom,,,"qʷaⁿtʼe, ehʷ",Phonemic
+9-360-35-1,bagv1239,Bagvalal,1453,бучуна,CyrillTrans,wash,,,bučuna,Phonemic
+9-370-35-1,bagv1239,Bagvalal,230,лІайла,CyrillTrans,sweep,,,ƛayla,Phonemic
+9-350-35-1,bagv1239,Bagvalal,1487,тІинила,CyrillTrans,pour,,,tʼinila,Phonemic
+9-343-35-1,bagv1239,Bagvalal,1414,бусІсІула,CyrillTrans,"squeeze, wring",,,bus̄ʼula,Phonemic
+9-342-35-1,bagv1239,Bagvalal,1913,бисайла,CyrillTrans,press,,,bisayla,Phonemic
+9-341-35-1,bagv1239,Bagvalal,357,эххайла,CyrillTrans,hang up,,,ex̄ayla,Phonemic
+9-340-35-1,bagv1239,Bagvalal,38,бачвайла,CyrillTrans,spread out,,,bačʷayla,Phonemic
+9-330-35-1,bagv1239,Bagvalal,1455,джанила,CyrillTrans,pull,,,ǯanila,Phonemic
+9-320-35-1,bagv1239,Bagvalal,214,агьи джанила,CyrillTrans,stretch,,,ahi ǯanila,Phonemic
+9-310-35-1,bagv1239,Bagvalal,1449,лІиллила,CyrillTrans,"rub, wipe",,,"ƛillila, šʼayna",Phonemic
+9-310-35-3,bagv1239,Bagvalal,1449,щІайна,CyrillTrans,"rub, wipe",,,"ƛillila, šʼayna",Phonemic
+9-290-35-1,bagv1239,Bagvalal,291,буллуна,CyrillTrans,"flay, skin",,,bulluna,Phonemic
+9-280-35-1,bagv1239,Bagvalal,1735,бетІвайла,CyrillTrans,tear,,,"betʼʷayla, x̄abayla",Phonemic
+9-280-35-3,bagv1239,Bagvalal,1735,ххабайла,CyrillTrans,tear,,,"betʼʷayla, x̄abayla",Phonemic
+9-270-35-1,bagv1239,Bagvalal,1437,хъинила,CyrillTrans,split,,,"qinila, betʼʷayla, x̄abayla",Phonemic
+9-270-35-3,bagv1239,Bagvalal,1437,бетІвайла,CyrillTrans,split,,,"qinila, betʼʷayla, x̄abayla",Phonemic
+9-270-35-5,bagv1239,Bagvalal,1437,ххабайла,CyrillTrans,split,,,"qinila, betʼʷayla, x̄abayla",Phonemic
+9-261-35-1,bagv1239,Bagvalal,588,хъинуб,CyrillTrans,broken,,,qinub,Phonemic
+9-260-35-1,bagv1239,Bagvalal,680,хъинила,CyrillTrans,break,,,qinila,Phonemic
+9-250-35-1,bagv1239,Bagvalal,677,аᴴжит,CyrillTrans,ax,,,aⁿžit,Phonemic
+9-251-35-1,bagv1239,Bagvalal,290,ижин,CyrillTrans,adze,,,ižin,Phonemic
+9-240-35-1,bagv1239,Bagvalal,356,къванкьа,CyrillTrans,"scissors, shears",,,"qʼʷanƛ̄ʼa, qʼʷaⁿƛ̄ʼa",Phonemic
+9-240-35-3,bagv1239,Bagvalal,356,къваᴴкьа,CyrillTrans,"scissors, shears",,,"qʼʷanƛ̄ʼa, qʼʷaⁿƛ̄ʼa",Phonemic
+9-230-35-1,bagv1239,Bagvalal,1352,бесун,CyrillTrans,knife,,,besun,Phonemic
+9-223-35-1,bagv1239,Bagvalal,1434,бухъула,CyrillTrans,stab,,,buqula,Phonemic
+9-222-35-1,bagv1239,Bagvalal,155,букъула,CyrillTrans,"chop, hew",,,"buqʼula, šʼʷālila",Phonemic
+9-222-35-3,bagv1239,Bagvalal,155,щІва̄лила,CyrillTrans,"chop, hew",,,"buqʼula, šʼʷālila",Phonemic
+9-221-35-1,bagv1239,Bagvalal,355,бачакІила,CyrillTrans,cut down,,,bačakʼila,Phonemic
+9-220-35-1,bagv1239,Bagvalal,1432,букъула,CyrillTrans,cut,,,buqʼula,Phonemic
+9-211-35-1,bagv1239,Bagvalal,354,кьвайла,CyrillTrans,pound with fist,,,ƛ̄ʼʷayla,Phonemic
+9-210-35-1,bagv1239,Bagvalal,2133,кьабидайла,CyrillTrans,"strike (hit, beat)",,,"ƛ̄ʼabidayla, ƛ̄ʼʷayla",Phonemic
+9-210-35-3,bagv1239,Bagvalal,2133,кьвайла,CyrillTrans,"strike (hit, beat)",,,"ƛ̄ʼabidayla, ƛ̄ʼʷayla",Phonemic
+9-192-35-1,bagv1239,Bagvalal,760,чІарв,CyrillTrans,knot (noun),,,čʼarʷ,Phonemic
+9-190-35-1,bagv1239,Bagvalal,1218,квар,CyrillTrans,"rope, cord",,,kʷar,Phonemic
+9-180-35-1,bagv1239,Bagvalal,1627,лахац,CyrillTrans,chain,,,laxac,Phonemic
+9-161-35-1,bagv1239,Bagvalal,352,бутайла,CyrillTrans,untie,,,butayla,Phonemic
+9-160-35-1,bagv1239,Bagvalal,1917,чІванила,CyrillTrans,"tie, bind",,,čʼʷanila,Phonemic
+9-150-35-1,bagv1239,Bagvalal,1470,гуридайла,CyrillTrans,fold,,,guridayla,Phonemic
+9-140-35-1,bagv1239,Bagvalal,2004,балгьайла,CyrillTrans,bend,,,balhayla,Phonemic
+9-120-35-1,bagv1239,Bagvalal,984,хІалтІи,CyrillTrans,work,,,"ħaltʼi, toxala",Phonemic
+9-120-35-3,bagv1239,Bagvalal,984,тохала,CyrillTrans,work,,,"ħaltʼi, toxala",Phonemic
+9-110-35-1,bagv1239,Bagvalal,2575,джила,CyrillTrans,"do, make",,,ǯila,Phonemic
+8-980-35-1,bagv1239,Bagvalal,641,губ,CyrillTrans,mushroom,,,gub,Phonemic
+8-970-35-1,bagv1239,Bagvalal,33,мищІ,CyrillTrans,nettle,,,mišʼ,Phonemic
+8-940-35-1,bagv1239,Bagvalal,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-35-1,bagv1239,Bagvalal,864,гамуз,CyrillTrans,"pumpkin, squash",,,gamuz,Phonemic
+8-930-35-1,bagv1239,Bagvalal,411,гамуз,CyrillTrans,gourd,,,gamuz,Phonemic
+8-910-35-1,bagv1239,Bagvalal,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-35-1,bagv1239,Bagvalal,346,инжирилъ роша,CyrillTrans,banyan,,,inžiriɬ roša,Phonemic
+8-840-35-1,bagv1239,Bagvalal,868,бананилъ роша,CyrillTrans,banana tree,,,bananiɬ roša,Phonemic
+8-830-35-1,bagv1239,Bagvalal,1126,цитрусилъ мигІмат,CyrillTrans,citrus fruit,,,citrusiɬ miʕmat,Phonemic
+8-820-35-1,bagv1239,Bagvalal,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-35-1,bagv1239,Bagvalal,1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-35-1,bagv1239,Bagvalal,345,чІахІилъ гІай,CyrillTrans,sap,,,"čʼaħiɬ ʕay, rošiɬ ʕay",Phonemic
+8-760-35-3,bagv1239,Bagvalal,345,рошилъ гІай,CyrillTrans,sap,,,"čʼaħiɬ ʕay, rošiɬ ʕay",Phonemic
+8-750-35-1,bagv1239,Bagvalal,1204,рошилъ хъал,CyrillTrans,bark,,,"rošiɬ qal, rošiɬ ʕul",Phonemic
+8-750-35-3,bagv1239,Bagvalal,1204,рошилъ гІул,CyrillTrans,bark,,,"rošiɬ qal, rošiɬ ʕul",Phonemic
+8-740-35-1,bagv1239,Bagvalal,409,чІекІванкьаб гьала,CyrillTrans,forked branch,,,čʼekʼʷanƛ̄ʼab hala,Phonemic
+8-730-35-1,bagv1239,Bagvalal,344,рошилъ гьума,CyrillTrans,tree trunk,,,rošiɬ huma,Phonemic
+8-720-35-1,bagv1239,Bagvalal,241,хІанкІвара,CyrillTrans,tree stump,,,ħankʼʷara,Phonemic
+8-691-35-1,bagv1239,Bagvalal,1124,хъалийан,CyrillTrans,pipe,,,qaliyan,Phonemic
+8-690-35-1,bagv1239,Bagvalal,1689,кІуᴴй,CyrillTrans,smoke (tobacco),,,kʼuⁿy,Phonemic
+8-680-35-1,bagv1239,Bagvalal,974,тамако,CyrillTrans,tobacco,,,tamako,Phonemic
+8-670-35-1,bagv1239,Bagvalal,343,(агьилъ) сІсІел,CyrillTrans,vine,,,(ahiɬ) s̄ʼel,Phonemic
+8-660-35-1,bagv1239,Bagvalal,968,михьицІулакьа,CyrillTrans,acorn,,,mix̌icʼulaƛ̄ʼa,Phonemic
+8-650-35-1,bagv1239,Bagvalal,1915,гъорилъ роша,CyrillTrans,fir,,,ɣoriɬ roša,Phonemic
+8-640-35-1,bagv1239,Bagvalal,1740,гъорилъ роша,CyrillTrans,pine,,,ɣoriɬ roša,Phonemic
+8-630-35-1,bagv1239,Bagvalal,1855,идараб жвала,CyrillTrans,birch,,,idarab žʷala,Phonemic
+8-620-35-1,bagv1239,Bagvalal,1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-35-1,bagv1239,Bagvalal,644,михьицІулакьалъ роша,CyrillTrans,oak,,,mix̌icʼulaƛ̄ʼaɬ roša,Phonemic
+8-600-35-1,bagv1239,Bagvalal,906,роша,CyrillTrans,tree,,,roša,Phonemic
+8-570-35-1,bagv1239,Bagvalal,239,гигин,CyrillTrans,flower,,,gigin,Phonemic
+8-560-35-1,bagv1239,Bagvalal,628,ал,CyrillTrans,leaf,,,al,Phonemic
+8-550-35-1,bagv1239,Bagvalal,1531,гьала,CyrillTrans,branch,,,hala,Phonemic
+8-540-35-1,bagv1239,Bagvalal,670,гьекьем,CyrillTrans,root,,,heƛ̄ʼem,Phonemic
+8-531-35-1,bagv1239,Bagvalal,1486,тІанила,CyrillTrans,plant (vb),,,tʼanila,Phonemic
+8-520-35-1,bagv1239,Bagvalal,342,гьунчІа,CyrillTrans,hay,,,hunčʼa,Phonemic
+8-530-35-1,bagv1239,Bagvalal,653,жиле,CyrillTrans,plant (noun),,,žile,Phonemic
+8-510-35-1,bagv1239,Bagvalal,606,жим,CyrillTrans,grass,,,žim,Phonemic
+8-480-35-1,bagv1239,Bagvalal,926,пулав,CyrillTrans,rice,,,pulaw,Phonemic
+8-470-35-1,bagv1239,Bagvalal,506,чакалъара,CyrillTrans,"maize, corn",,,čakaɬara,Phonemic
+8-460-35-1,bagv1239,Bagvalal,60,ниха,CyrillTrans,oats,,,nixa,Phonemic
+8-450-35-1,bagv1239,Bagvalal,23,мо̄,CyrillTrans,rye,,,mō,Phonemic
+8-430-35-1,bagv1239,Bagvalal,1077,сибаракьв,CyrillTrans,wheat,,,"sibaraƛ̄ʼʷ, qʼer",Phonemic
+8-430-35-3,bagv1239,Bagvalal,1077,къер,CyrillTrans,wheat,,,"sibaraƛ̄ʼʷ, qʼer",Phonemic
+8-440-35-1,bagv1239,Bagvalal,932,бечІин,CyrillTrans,barley,,,bečʼin,Phonemic
+8-420-35-1,bagv1239,Bagvalal,605,джа,CyrillTrans,"grain (barley, oats etc)",,,ǯa,Phonemic
+8-410-35-1,bagv1239,Bagvalal,611,ругьар,CyrillTrans,"crop, harvest",,,ruhar,Phonemic
+8-350-35-1,bagv1239,Bagvalal,223,гьиᴴсІ,CyrillTrans,threshing-floor,,,hiⁿsʼ,Phonemic
+8-340-35-1,bagv1239,Bagvalal,285,беллила,CyrillTrans,thresh,,,bellila,Phonemic
+8-330-35-1,bagv1239,Bagvalal,2132,нича,CyrillTrans,"sickle, scythe",,,niča,Phonemic
+8-320-35-1,bagv1239,Bagvalal,190,аквела,CyrillTrans,"mow, reap",,,akʷela,Phonemic
+8-311-35-1,bagv1239,Bagvalal,714,гьуᴴй,CyrillTrans,seed,,,huⁿy,Phonemic
+8-310-35-1,bagv1239,Bagvalal,748,гьуᴴй тІайна,CyrillTrans,sow,,,huⁿy tʼayna,Phonemic
+8-270-35-1,bagv1239,Bagvalal,338,хадиро,CyrillTrans,rake,,,xadiro,Phonemic
+8-260-35-1,bagv1239,Bagvalal,337,кІванкьа,CyrillTrans,fork,,,kʼʷanƛ̄ʼa,Phonemic
+8-250-35-1,bagv1239,Bagvalal,284,бахъуноб одоб,CyrillTrans,hoe,,,baqunob odob,Phonemic
+8-240-35-1,bagv1239,Bagvalal,1901,мукІуб бел,CyrillTrans,shovel,,,mukʼub bel,Phonemic
+8-230-35-1,bagv1239,Bagvalal,1176,бел,CyrillTrans,spade,,,bel,Phonemic
+8-212-35-1,bagv1239,Bagvalal,1794,хъвалар,CyrillTrans,furrow,,,"qʷalar, reqin",Phonemic
+8-212-35-3,bagv1239,Bagvalal,1794,рехъин,CyrillTrans,furrow,,,"qʷalar, reqin",Phonemic
+8-220-35-1,bagv1239,Bagvalal,1418,бахъуна,CyrillTrans,dig,,,baquna,Phonemic
+8-210-35-1,bagv1239,Bagvalal,1921,бекьила,CyrillTrans,plow,,,beƛ̄ʼila,Phonemic
+8-170-35-1,bagv1239,Bagvalal,2002,гьелгьел,CyrillTrans,ditch,,,helhel,Phonemic
+8-160-35-1,bagv1239,Bagvalal,1690,сангар,CyrillTrans,fence,,,sangar,Phonemic
+8-150-35-1,bagv1239,Bagvalal,1541,уᴴш бекьила,CyrillTrans,"cultivate, till",,,uⁿš beƛ̄ʼila,Phonemic
+8-130-35-1,bagv1239,Bagvalal,586,агь,CyrillTrans,garden,,,ah,Phonemic
+8-120-35-1,bagv1239,Bagvalal,212,гьуᴴша,CyrillTrans,field (for cultivation),,,huⁿša,Phonemic
+8-110-35-1,bagv1239,Bagvalal,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-35-1,bagv1239,Bagvalal,901,уᴴщилъ миса,CyrillTrans,adobe,,,uⁿš̄iɬ misa,Phonemic
+7-630-35-1,bagv1239,Bagvalal,224,гарчилъ гІай,CyrillTrans,mortar,,,garčiɬ ʕay,Phonemic
+7-620-35-1,bagv1239,Bagvalal,1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-35-1,bagv1239,Bagvalal,876,кІамур,CyrillTrans,arch,,,kʼamur,Phonemic
+7-610-35-1,bagv1239,Bagvalal,877,къинахъан,CyrillTrans,mason,,,"qʼinaqan, hincʼiɬ ustar",Phonemic
+7-610-35-3,bagv1239,Bagvalal,877,гьинцІилъ устар,CyrillTrans,mason,,,"qʼinaqan, hincʼiɬ ustar",Phonemic
+7-570-35-1,bagv1239,Bagvalal,1227,щІеб,CyrillTrans,board,,,šʼeb,Phonemic
+7-560-35-1,bagv1239,Bagvalal,281,гьума,CyrillTrans,"post, pole",,,huma,Phonemic
+7-550-35-1,bagv1239,Bagvalal,1132,гъеж,CyrillTrans,beam,,,ɣež,Phonemic
+7-540-35-1,bagv1239,Bagvalal,829,дегуб,CyrillTrans,rafter,,,degub,Phonemic
+7-530-35-1,bagv1239,Bagvalal,280,бобол,CyrillTrans,ridgepole,,,bobol,Phonemic
+7-520-35-1,bagv1239,Bagvalal,279,сумилъ амма,CyrillTrans,thatch,,,sumiɬ amma,Phonemic
+7-510-35-1,bagv1239,Bagvalal,769,амма,CyrillTrans,roof,,,amma,Phonemic
+7-480-35-1,bagv1239,Bagvalal,205,эхьуб,CyrillTrans,trough,,,ex̌ub,Phonemic
+7-470-35-1,bagv1239,Bagvalal,745,налІв,CyrillTrans,shelf,,,"naƛʷ, koɣ, raʕala",Phonemic
+7-470-35-3,bagv1239,Bagvalal,745,когъ,CyrillTrans,shelf,,,"naƛʷ, koɣ, raʕala",Phonemic
+7-470-35-5,bagv1239,Bagvalal,745,рагІала,CyrillTrans,shelf,,,"naƛʷ, koɣ, raʕala",Phonemic
+7-460-35-1,bagv1239,Bagvalal,1273,хІевучирахъ,CyrillTrans,candle,,,ħewučiraq,Phonemic
+7-450-35-1,bagv1239,Bagvalal,2131,панар,CyrillTrans,"lamp, torch",,,panar,Phonemic
+7-440-35-1,bagv1239,Bagvalal,1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-35-1,bagv1239,Bagvalal,1476,къошта,CyrillTrans,chair,,,qʼošta,Phonemic
+7-422-35-1,bagv1239,Bagvalal,806,иргъван,CyrillTrans,blanket,,,irɣʷan,Phonemic
+7-421-35-1,bagv1239,Bagvalal,1044,хІуликъегьен,CyrillTrans,pillow,,,ħuliqʼehen,Phonemic
+7-420-35-1,bagv1239,Bagvalal,1663,тах,CyrillTrans,bed,,,tax,Phonemic
+7-370-35-1,bagv1239,Bagvalal,1464,милгьа,CyrillTrans,ladder,,,milha,Phonemic
+7-330-35-1,bagv1239,Bagvalal,1305,замара,CyrillTrans,chimney,,,"zamara, pečiɬ pul",Phonemic
+7-330-35-3,bagv1239,Bagvalal,1305,печилъ пул,CyrillTrans,chimney,,,"zamara, pečiɬ pul",Phonemic
+7-320-35-1,bagv1239,Bagvalal,859,печ,CyrillTrans,stove,,,"peč, aqʷ",Phonemic
+7-320-35-3,bagv1239,Bagvalal,859,ахъв,CyrillTrans,stove,,,"peč, aqʷ",Phonemic
+7-310-35-1,bagv1239,Bagvalal,185,тавхан,CyrillTrans,fireplace,,,tawxan,Phonemic
+7-270-35-1,bagv1239,Bagvalal,933,къин,CyrillTrans,wall,,,qʼin,Phonemic
+7-260-35-1,bagv1239,Bagvalal,1632,рехъима,CyrillTrans,floor,,,"reqima, čʼarbil",Phonemic
+7-260-35-3,bagv1239,Bagvalal,1632,чІарбил,CyrillTrans,floor,,,"reqima, čʼarbil",Phonemic
+7-250-35-1,bagv1239,Bagvalal,1375,гьунгар,CyrillTrans,window,,,hungar,Phonemic
+7-240-35-1,bagv1239,Bagvalal,1472,рущийоб рекІул,CyrillTrans,key,,,ruš̄iyob rekʼul,Phonemic
+7-231-35-1,bagv1239,Bagvalal,1012,гьаркъим,CyrillTrans,"latch, door-bolt",,,harqʼim,Phonemic
+7-230-35-1,bagv1239,Bagvalal,1596,рекІул,CyrillTrans,lock (noun),,,"rekʼul, ahi tʼanob rekʼul",Phonemic
+7-230-35-3,bagv1239,Bagvalal,1596,агьи тІаноб рекІул,CyrillTrans,lock (noun),,,"rekʼul, ahi tʼanob rekʼul",Phonemic
+7-221-35-1,bagv1239,Bagvalal,80,гьуᴴсІсІулъ азалІ,CyrillTrans,"doorpost, jamb",,,huⁿs̄ʼuɬ azaƛ,Phonemic
+7-210-35-1,bagv1239,Bagvalal,1450,миса,CyrillTrans,room,,,misa,Phonemic
+7-220-35-1,bagv1239,Bagvalal,1567,кав,CyrillTrans,"door, gate",,,kaw,Phonemic
+7-180-35-1,bagv1239,Bagvalal,335,корт,CyrillTrans,meeting house,,,kort,Phonemic
+7-170-35-1,bagv1239,Bagvalal,334,кукни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-35-1,bagv1239,Bagvalal,408,гьекІвалуб миса,CyrillTrans,men's house,,,hekʼʷalub misa,Phonemic
+7-150-35-1,bagv1239,Bagvalal,736,гьуᴴсІукьи макІва,CyrillTrans,"yard, court",,,huⁿsʼuƛ̄ʼi makʼʷa,Phonemic
+7-140-35-1,bagv1239,Bagvalal,1316,чадир,CyrillTrans,tent,,,čadir,Phonemic
+7-131-35-1,bagv1239,Bagvalal,403,парж,CyrillTrans,garden-house,,,parž,Phonemic
+7-130-35-1,bagv1239,Bagvalal,1678,акъо,CyrillTrans,hut,,,aqʼo,Phonemic
+7-120-35-1,bagv1239,Bagvalal,1252,авал,CyrillTrans,house,,,awal,Phonemic
+7-110-35-1,bagv1239,Bagvalal,363,гІорми джила,CyrillTrans,"dwell, live",,,ʕormi ǯila,Phonemic
+6-960-35-1,bagv1239,Bagvalal,1171,матІу,CyrillTrans,mirror,,,matʼu,Phonemic
+6-950-35-1,bagv1239,Bagvalal,788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-35-1,bagv1239,Bagvalal,1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-35-1,bagv1239,Bagvalal,151,хханобесун,CyrillTrans,razor,,,x̄anobesun,Phonemic
+6-921-35-1,bagv1239,Bagvalal,333,минчІалъ бакь,CyrillTrans,braid,,,minčʼaɬ baƛ̄ʼ,Phonemic
+6-920-35-1,bagv1239,Bagvalal,1821,гьакьв,CyrillTrans,brush,,,haƛ̄ʼʷ,Phonemic
+6-910-35-1,bagv1239,Bagvalal,1475,гьакьв,CyrillTrans,comb,,,haƛ̄ʼʷ,Phonemic
+6-820-35-1,bagv1239,Bagvalal,1021,лела-багІа щІаниб,CyrillTrans,towel,,,lela-baʕa šʼanib,Phonemic
+6-810-35-1,bagv1239,Bagvalal,332,йавлухъ,CyrillTrans,"handkerchief, rag",,,yawluq,Phonemic
+6-780-35-1,bagv1239,Bagvalal,330,унала эшиноб одоб,CyrillTrans,"headband, headdress",,,unala ešinob odob,Phonemic
+6-770-35-1,bagv1239,Bagvalal,770,баш,CyrillTrans,earring,,,baš,Phonemic
+6-760-35-1,bagv1239,Bagvalal,1860,хІерен,CyrillTrans,bead,,,ħeren,Phonemic
+6-750-35-1,bagv1239,Bagvalal,1961,жвала,CyrillTrans,necklace,,,žʷala,Phonemic
+6-740-35-1,bagv1239,Bagvalal,1754,кваркъин,CyrillTrans,bracelet,,,kʷarqʼin,Phonemic
+6-730-35-1,bagv1239,Bagvalal,1374,гьинцІащуб,CyrillTrans,ring (for finger),,,hincʼaš̄ub,Phonemic
+6-720-35-1,bagv1239,Bagvalal,1029,нагІил,CyrillTrans,jewel,,,naʕil,Phonemic
+6-710-35-1,bagv1239,Bagvalal,917,накъиш,CyrillTrans,"ornament, adornment",,,naqʼiš,Phonemic
+6-630-35-1,bagv1239,Bagvalal,64,тІелийоб бежун,CyrillTrans,pin,,,tʼeliyob bežun,Phonemic
+6-620-35-1,bagv1239,Bagvalal,757,тІусІсІа,CyrillTrans,button,,,tʼus̄ʼa,Phonemic
+6-610-35-1,bagv1239,Bagvalal,1851,чанте,CyrillTrans,pocket,,,čante,Phonemic
+6-590-35-1,bagv1239,Bagvalal,1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-35-1,bagv1239,Bagvalal,867,квагьа,CyrillTrans,glove,,,kʷaha,Phonemic
+6-570-35-1,bagv1239,Bagvalal,772,сІсІантІа,CyrillTrans,"belt, girdle",,,s̄ʼantʼa,Phonemic
+6-550-35-1,bagv1239,Bagvalal,2130,ишлйапа,CyrillTrans,"hat, cap",,,išlyapa,Phonemic
+6-540-35-1,bagv1239,Bagvalal,875,сІсІикІулалъ устар,CyrillTrans,"shoemaker, cobbler",,,s̄ʼikʼulaɬ ustar,Phonemic
+6-510-35-1,bagv1239,Bagvalal,1381,мачу,CyrillTrans,shoe,,,maču,Phonemic
+6-520-35-1,bagv1239,Bagvalal,585,насси,CyrillTrans,boot,,,"nas̄i, čakme, s̄ʼikʼula",Phonemic
+6-520-35-3,bagv1239,Bagvalal,585,чакме,CyrillTrans,boot,,,"nas̄i, čakme, s̄ʼikʼula",Phonemic
+6-520-35-5,bagv1239,Bagvalal,585,сІсІикІула,CyrillTrans,boot,,,"nas̄i, čakme, s̄ʼikʼula",Phonemic
+6-490-35-1,bagv1239,Bagvalal,329,нахІсо,CyrillTrans,"stocking, sock",,,naħso,Phonemic
+6-480-35-1,bagv1239,Bagvalal,809,бата,CyrillTrans,trousers,,,bata,Phonemic
+6-461-35-1,bagv1239,Bagvalal,328,йупка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-35-1,bagv1239,Bagvalal,1600,йупка,CyrillTrans,skirt,,,"yupka, huⁿǯe",Phonemic
+6-460-35-3,bagv1239,Bagvalal,1600,гьуᴴдже,CyrillTrans,skirt,,,"yupka, huⁿǯe",Phonemic
+6-450-35-1,bagv1239,Bagvalal,2012,джарв,CyrillTrans,collar,,,ǯarʷ,Phonemic
+6-440-35-1,bagv1239,Bagvalal,1622,гур,CyrillTrans,shirt,,,gur,Phonemic
+6-430-35-1,bagv1239,Bagvalal,603,тегола,CyrillTrans,coat,,,tegola,Phonemic
+6-420-35-1,bagv1239,Bagvalal,474,гьакІуб гъварза,CyrillTrans,woman's dress,,,hakʼub ɣʷarza,Phonemic
+6-390-35-1,bagv1239,Bagvalal,157,хъирмиз,CyrillTrans,dye,,,qirmiz,Phonemic
+6-410-35-1,bagv1239,Bagvalal,326,хъабало,CyrillTrans,cloak,,,qabalo,Phonemic
+6-380-35-1,bagv1239,Bagvalal,1161,рекун,CyrillTrans,thread,,,rekun,Phonemic
+6-360-35-1,bagv1239,Bagvalal,1382,бежун,CyrillTrans,needle,,,bežun,Phonemic
+6-370-35-1,bagv1239,Bagvalal,278,гьим,CyrillTrans,awl,,,him,Phonemic
+6-350-35-1,bagv1239,Bagvalal,1457,къинила,CyrillTrans,sew,,,qʼinila,Phonemic
+6-340-35-1,bagv1239,Bagvalal,1787,эщийоб партал,CyrillTrans,loom,,,eš̄iyob partal,Phonemic
+6-330-35-1,bagv1239,Bagvalal,133,гъердила,CyrillTrans,weave,,,ɣerdila,Phonemic
+6-320-35-1,bagv1239,Bagvalal,277,мунга,CyrillTrans,spindle,,,munga,Phonemic
+6-310-35-1,bagv1239,Bagvalal,121,гъердила,CyrillTrans,spin,,,ɣerdila,Phonemic
+6-290-35-1,bagv1239,Bagvalal,629,дабагъ,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-290-35-3,bagv1239,Bagvalal,629,хурум,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-290-35-5,bagv1239,Bagvalal,629,хъал,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-290-35-7,bagv1239,Bagvalal,629,сІсІок,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-290-35-9,bagv1239,Bagvalal,629,гъас,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-290-35-11,bagv1239,Bagvalal,629,хъоча,CyrillTrans,leather,,,"dabaɣ, xurum, qal, s̄ʼok, ɣas, qoča",Phonemic
+6-280-35-1,bagv1239,Bagvalal,580,хъоча,CyrillTrans,fur,,,qoča,Phonemic
+6-270-35-1,bagv1239,Bagvalal,325,рокьом,CyrillTrans,felt,,,roƛ̄ʼom,Phonemic
+6-250-35-1,bagv1239,Bagvalal,1641,шал,CyrillTrans,silk,,,šal,Phonemic
+6-240-35-1,bagv1239,Bagvalal,1850,къаланчІа,CyrillTrans,cotton,,,"qʼalančʼa, keten, buz",Phonemic
+6-240-35-3,bagv1239,Bagvalal,1850,кетен,CyrillTrans,cotton,,,"qʼalančʼa, keten, buz",Phonemic
+6-240-35-5,bagv1239,Bagvalal,1850,буз,CyrillTrans,cotton,,,"qʼalančʼa, keten, buz",Phonemic
+6-230-35-1,bagv1239,Bagvalal,916,лъента,CyrillTrans,"linen, flax",,,ɬenta,Phonemic
+6-220-35-1,bagv1239,Bagvalal,964,мигьилъ эрещун,CyrillTrans,wool,,,"mihiɬ ereš̄un, šal",Phonemic
+6-220-35-3,bagv1239,Bagvalal,964,шал,CyrillTrans,wool,,,"mihiɬ ereš̄un, šal",Phonemic
+6-210-35-1,bagv1239,Bagvalal,1616,эрещун (квар),CyrillTrans,cloth,,,ereš̄un (kʷar),Phonemic
+6-130-35-1,bagv1239,Bagvalal,881,гъварзилъ устар,CyrillTrans,tailor,,,ɣʷarziɬ ustar,Phonemic
+6-120-35-1,bagv1239,Bagvalal,1895,гъварза,CyrillTrans,"clothing, clothes",,,ɣʷarza,Phonemic
+6-110-35-1,bagv1239,Bagvalal,158,болайла,CyrillTrans,put on (clothes),,,bolayla,Phonemic
+5-971-35-1,bagv1239,Bagvalal,1556,гІачучІачІан,CyrillTrans,egg yolk,,,ʕačučʼačʼan,Phonemic
+5-970-35-1,bagv1239,Bagvalal,744,чІачІан,CyrillTrans,egg,,,čʼačʼan,Phonemic
+5-940-35-1,bagv1239,Bagvalal,404,чІегІе,CyrillTrans,fermented drink,,,čʼeʕe,Phonemic
+5-930-35-1,bagv1239,Bagvalal,1639,мед,CyrillTrans,beer,,,"med, mer",Phonemic
+5-930-35-3,bagv1239,Bagvalal,1639,мер,CyrillTrans,beer,,,"med, mer",Phonemic
+5-920-35-1,bagv1239,Bagvalal,1524,жана,CyrillTrans,wine,,,žana,Phonemic
+5-910-35-1,bagv1239,Bagvalal,941,жаналъ гьуᴴсІсІ,CyrillTrans,mead,,,"žanaɬ huⁿs̄ʼ, mer",Phonemic
+5-910-35-3,bagv1239,Bagvalal,941,мер,CyrillTrans,mead,,,"žanaɬ huⁿs̄ʼ, mer",Phonemic
+5-900-35-1,bagv1239,Bagvalal,731,сІсІадободоб,CyrillTrans,"beverage, drink",,,s̄ʼadobodob,Phonemic
+5-890-35-1,bagv1239,Bagvalal,1245,зиналІилІ,CyrillTrans,butter,,,zinaƛiƛ,Phonemic
+5-880-35-1,bagv1239,Bagvalal,1569,иса,CyrillTrans,cheese,,,isa,Phonemic
+5-870-35-1,bagv1239,Bagvalal,93,кьайла,CyrillTrans,milk (vb),,,ƛ̄ʼayla,Phonemic
+5-850-35-1,bagv1239,Bagvalal,862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-35-1,bagv1239,Bagvalal,635,щӣ,CyrillTrans,milk (noun),,,š̄ī,Phonemic
+5-840-35-1,bagv1239,Bagvalal,942,гьуᴴсІсІ,CyrillTrans,honey,,,huⁿs̄ʼ,Phonemic
+5-821-35-1,bagv1239,Bagvalal,919,щищуб пуч,CyrillTrans,chili pepper,,,"š̄iš̄ub puč, buƛ̄ʼub puč",Phonemic
+5-821-35-3,bagv1239,Bagvalal,919,букьуб пуч,CyrillTrans,chili pepper,,,"š̄iš̄ub puč, buƛ̄ʼub puč",Phonemic
+5-820-35-1,bagv1239,Bagvalal,1385,пуч,CyrillTrans,pepper,,,puč,Phonemic
+5-810-35-1,bagv1239,Bagvalal,1274,сІсІаᴴй,CyrillTrans,salt,,,s̄ʼaⁿy,Phonemic
+5-791-35-1,bagv1239,Bagvalal,323,хьва̄м,CyrillTrans,"grease, fat",,,x̌ʷām,Phonemic
+5-790-35-1,bagv1239,Bagvalal,1484,лІилІ,CyrillTrans,oil,,,ƛiƛ,Phonemic
+5-780-35-1,bagv1239,Bagvalal,1154,зайтум,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-35-1,bagv1239,Bagvalal,920,ах,CyrillTrans,grape,,,ax,Phonemic
+5-770-35-1,bagv1239,Bagvalal,191,цІулакьа,CyrillTrans,nut,,,cʼulaƛ̄ʼa,Phonemic
+5-750-35-1,bagv1239,Bagvalal,322,агьилъ чІачІан,CyrillTrans,fig,,,ahiɬ čʼačʼan,Phonemic
+5-712-35-1,bagv1239,Bagvalal,1966,гегв,CyrillTrans,bunch,,,"gegʷ, kʷacʼ",Phonemic
+5-712-35-3,bagv1239,Bagvalal,1966,квацІ,CyrillTrans,bunch,,,"gegʷ, kʷacʼ",Phonemic
+5-710-35-1,bagv1239,Bagvalal,1507,мигІмат,CyrillTrans,fruit,,,miʕmat,Phonemic
+5-700-35-1,bagv1239,Bagvalal,593,гІурускъол,CyrillTrans,potato,,,ʕurusqʼol,Phonemic
+5-660-35-1,bagv1239,Bagvalal,832,гьал,CyrillTrans,bean,,,hal,Phonemic
+5-650-35-1,bagv1239,Bagvalal,924,пихъ-мичІ,CyrillTrans,vegetables,,,piq-mičʼ,Phonemic
+5-640-35-1,bagv1239,Bagvalal,1547,чурпа,CyrillTrans,"soup, broth",,,čurpa,Phonemic
+5-630-35-1,bagv1239,Bagvalal,1874,бецІуб бакь,CyrillTrans,sausage,,,becʼub baƛ̄ʼ,Phonemic
+5-610-35-1,bagv1239,Bagvalal,634,рикь,CyrillTrans,meat,,,riƛ̄ʼ,Phonemic
+5-590-35-1,bagv1239,Bagvalal,225,ражхъим,CyrillTrans,pestle,,,ražqim,Phonemic
+5-580-35-1,bagv1239,Bagvalal,224,гъварта,CyrillTrans,mortar (2),,,ɣʷarta,Phonemic
+5-570-35-1,bagv1239,Bagvalal,636,гьваб,CyrillTrans,mill,,,hʷab,Phonemic
+5-560-35-1,bagv1239,Bagvalal,1033,сІсІудила,CyrillTrans,"crush, grind",,,s̄ʼudila,Phonemic
+5-550-35-1,bagv1239,Bagvalal,1594,гьатІ,CyrillTrans,"meal, flour",,,hatʼ,Phonemic
+5-540-35-1,bagv1239,Bagvalal,274,гьатІ бегъайла,CyrillTrans,knead,,,"hatʼ beɣayla, hatʼ kʼʷardila",Phonemic
+5-540-35-3,bagv1239,Bagvalal,274,гьатІ кІвардила,CyrillTrans,knead,,,"hatʼ beɣayla, hatʼ kʼʷardila",Phonemic
+5-530-35-1,bagv1239,Bagvalal,273,гьатІ (букІалуб гьатІ),CyrillTrans,dough,,,hatʼ (bukʼalub hatʼ),Phonemic
+5-510-35-1,bagv1239,Bagvalal,1368,гъан,CyrillTrans,bread,,,ɣan,Phonemic
+5-490-35-1,bagv1239,Bagvalal,2017,бегъайла,CyrillTrans,"stir, mix",,,beɣayla,Phonemic
+5-480-35-1,bagv1239,Bagvalal,1767,лІиллила,CyrillTrans,scrape,,,ƛillila,Phonemic
+5-470-35-1,bagv1239,Bagvalal,86,сускІила,CyrillTrans,"sieve, strain",,,"suskʼila, bus̄ʼula",Phonemic
+5-470-35-3,bagv1239,Bagvalal,86,бусІсІула,CyrillTrans,"sieve, strain",,,"suskʼila, bus̄ʼula",Phonemic
+5-460-35-1,bagv1239,Bagvalal,275,басІсІарела,CyrillTrans,peel,,,bas̄ʼarela,Phonemic
+5-450-35-1,bagv1239,Bagvalal,1833,регьерас эᴴквар,CyrillTrans,supper,,,reheras eⁿkʷar,Phonemic
+5-440-35-1,bagv1239,Bagvalal,1833,кьебулъ эᴴквар,CyrillTrans,dinner,,,"ƛ̄ʼebuɬ eⁿkʷar, qʼanar",Phonemic
+5-440-35-3,bagv1239,Bagvalal,1833,къанар,CyrillTrans,dinner,,,"ƛ̄ʼebuɬ eⁿkʷar, qʼanar",Phonemic
+5-420-35-1,bagv1239,Bagvalal,1322,рагьалъис къанар,CyrillTrans,breakfast,,,rahaɬis qʼanar,Phonemic
+5-410-35-1,bagv1239,Bagvalal,1526,экваᴴр,CyrillTrans,meal (a),,,"ekʷaⁿr, qʼanar",Phonemic
+5-410-35-3,bagv1239,Bagvalal,1526,къанар,CyrillTrans,meal (a),,,"ekʷaⁿr, qʼanar",Phonemic
+5-391-35-1,bagv1239,Bagvalal,272,гъецІв,CyrillTrans,tongs,,,ɣecʼʷ,Phonemic
+5-390-35-1,bagv1239,Bagvalal,1302,гІучІаби,CyrillTrans,fork (2),,,ʕučʼabi,Phonemic
+5-380-35-1,bagv1239,Bagvalal,1352,бесун,CyrillTrans,knife (2),,,besun,Phonemic
+5-370-35-1,bagv1239,Bagvalal,1378,бегьун,CyrillTrans,spoon,,,"behun, kʷah",Phonemic
+5-370-35-3,bagv1239,Bagvalal,1378,квагь,CyrillTrans,spoon,,,"behun, kʷah",Phonemic
+5-360-35-1,bagv1239,Bagvalal,271,чІигъ,CyrillTrans,saucer,,,čʼiɣ,Phonemic
+5-350-35-1,bagv1239,Bagvalal,476,саквара,CyrillTrans,"cup, drinking vessel",,,sakʷara,Phonemic
+5-330-35-1,bagv1239,Bagvalal,1530,саквара,CyrillTrans,bowl,,,sakʷara,Phonemic
+5-340-35-1,bagv1239,Bagvalal,270,джанза,CyrillTrans,"pitcher, jug",,,ǯanza,Phonemic
+5-320-35-1,bagv1239,Bagvalal,480,сІсІантІура,CyrillTrans,plate,,,s̄ʼantʼura,Phonemic
+5-310-35-1,bagv1239,Bagvalal,481,сІсІантІура,CyrillTrans,dish,,,s̄ʼantʼura,Phonemic
+5-280-35-1,bagv1239,Bagvalal,31,хьай,CyrillTrans,pan,,,x̌ay,Phonemic
+5-260-35-1,bagv1239,Bagvalal,1462,хьай,CyrillTrans,"pot, cooking vessel",,,x̌ay,Phonemic
+5-270-35-1,bagv1239,Bagvalal,854,чайникІ,CyrillTrans,kettle,,,čaynikʼ,Phonemic
+5-240-35-1,bagv1239,Bagvalal,183,бежила,CyrillTrans,bake,,,bežila,Phonemic
+5-250-35-1,bagv1239,Bagvalal,1143,ахъв,CyrillTrans,oven,,,aqʷ,Phonemic
+5-230-35-1,bagv1239,Bagvalal,2146,бежила,CyrillTrans,"roast, fry",,,bežila,Phonemic
+5-220-35-1,bagv1239,Bagvalal,792,гьвалайла,CyrillTrans,boil (vb),,,hʷalayla,Phonemic
+5-210-35-1,bagv1239,Bagvalal,1100,билгьина,CyrillTrans,cook,,,bilhina,Phonemic
+5-190-35-1,bagv1239,Bagvalal,129,гъваᴴщила,CyrillTrans,choke,,,ɣʷaⁿš̄ila,Phonemic
+5-181-35-1,bagv1239,Bagvalal,897,букІуна,CyrillTrans,swallow,,,bukʼuna,Phonemic
+5-180-35-1,bagv1239,Bagvalal,321,чІайна,CyrillTrans,chew,,,čʼayna,Phonemic
+5-160-35-1,bagv1239,Bagvalal,1421,сІсІунила,CyrillTrans,suck,,,s̄ʼunila,Phonemic
+5-150-35-1,bagv1239,Bagvalal,848,гьаᴴкъалар,CyrillTrans,thirst,,,haⁿqʼalar,Phonemic
+5-141-35-1,bagv1239,Bagvalal,199,макасар,CyrillTrans,famine,,,makasar,Phonemic
+5-140-35-1,bagv1239,Bagvalal,1864,макалар,CyrillTrans,hunger,,,"makalar, makasar",Phonemic
+5-140-35-3,bagv1239,Bagvalal,1864,макасар,CyrillTrans,hunger,,,"makalar, makasar",Phonemic
+5-130-35-1,bagv1239,Bagvalal,1401,сІсІайла,CyrillTrans,drink,,,s̄ʼayla,Phonemic
+5-125-35-1,bagv1239,Bagvalal,1728,тордуб,CyrillTrans,rotten,,,tordub,Phonemic
+5-124-35-1,bagv1239,Bagvalal,1958,биъачІуб,CyrillTrans,"green, unripe",,,biačʼub,Phonemic
+5-123-35-1,bagv1239,Bagvalal,178,биаб,CyrillTrans,ripe,,,biab,Phonemic
+5-122-35-1,bagv1239,Bagvalal,1959,гьатІураб,CyrillTrans,raw,,,hatʼurab,Phonemic
+5-121-35-1,bagv1239,Bagvalal,269,билгьам,CyrillTrans,cooked,,,bilham,Phonemic
+5-120-35-1,bagv1239,Bagvalal,256,къанар,CyrillTrans,food,,,qʼanar,Phonemic
+5-110-35-1,bagv1239,Bagvalal,1336,къанила,CyrillTrans,eat,,,"qʼanila, ekuna",Phonemic
+5-110-35-3,bagv1239,Bagvalal,1336,экуна,CyrillTrans,eat,,,"qʼanila, ekuna",Phonemic
+4-990-35-1,bagv1239,Bagvalal,590,гъварза вачІув,CyrillTrans,"naked, bare",,,"ɣʷarza wačʼuw, šʼiⁿtʼuxa",Phonemic
+4-990-35-3,bagv1239,Bagvalal,590,щІиᴴтІуха,CyrillTrans,"naked, bare",,,"ɣʷarza wačʼuw, šʼiⁿtʼuxa",Phonemic
+4-970-35-1,bagv1239,Bagvalal,1653,бессув,CyrillTrans,blind,,,bes̄uw,Phonemic
+4-980-35-1,bagv1239,Bagvalal,1463,хваᴴй булъув,CyrillTrans,intoxicated,,,xʷaⁿy buɬuw,Phonemic
+4-960-35-1,bagv1239,Bagvalal,1666,мисІсІ бе̄чІув,CyrillTrans,mute,,,mis̄ʼ bēčʼuw,Phonemic
+4-950-35-1,bagv1239,Bagvalal,996,гьаᴴххдвалув,CyrillTrans,deaf,,,haⁿx̄dʷaluw,Phonemic
+4-930-35-1,bagv1239,Bagvalal,1125,уни сcинув,CyrillTrans,bald,,,uni s̄inuw,Phonemic
+4-940-35-1,bagv1239,Bagvalal,320,къиралгьила,CyrillTrans,lame,,,"qʼiralhila, qʼirawhila, qʼirabhila",Phonemic
+4-940-35-3,bagv1239,Bagvalal,320,къиравгьила,CyrillTrans,lame,,,"qʼiralhila, qʼirawhila, qʼirabhila",Phonemic
+4-940-35-5,bagv1239,Bagvalal,320,къирабгьила,CyrillTrans,lame,,,"qʼiralhila, qʼirawhila, qʼirabhila",Phonemic
+4-920-35-1,bagv1239,Bagvalal,1564,кІвахІалав,CyrillTrans,lazy,,,kʼʷaħalaw,Phonemic
+4-912-35-1,bagv1239,Bagvalal,168,хІухьбахъидила,CyrillTrans,rest,,,"ħux̌baqidila, lagiba hōb hanila, raħat behila",Phonemic
+4-912-35-3,bagv1239,Bagvalal,168,лагиба гьо̄б гьанила,CyrillTrans,rest,,,"ħux̌baqidila, lagiba hōb hanila, raħat behila",Phonemic
+4-912-35-5,bagv1239,Bagvalal,168,рахІат бегьила,CyrillTrans,rest,,,"ħux̌baqidila, lagiba hōb hanila, raħat behila",Phonemic
+4-910-35-1,bagv1239,Bagvalal,1757,жакъув,CyrillTrans,"tired, weary",,,žaqʼuw,Phonemic
+4-890-35-1,bagv1239,Bagvalal,655,загьро,CyrillTrans,poison,,,zahro,Phonemic
+4-880-35-1,bagv1239,Bagvalal,1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-35-3,bagv1239,Bagvalal,1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-35-5,bagv1239,Bagvalal,1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-35-1,bagv1239,Bagvalal,597,тохтур,CyrillTrans,physician,,,"toxtur, ans",Phonemic
+4-870-35-3,bagv1239,Bagvalal,597,анс,CyrillTrans,physician,,,"toxtur, ans",Phonemic
+4-860-35-1,bagv1239,Bagvalal,499,витІӣла (йитІӣла,CyrillTrans,"cure, heal",,,"witʼīla (yitʼīla, bitʼīla)",Phonemic
+4-860-35-3,bagv1239,Bagvalal,499,битІӣла),CyrillTrans,"cure, heal",,,"witʼīla (yitʼīla, bitʼīla)",Phonemic
+4-858-35-1,bagv1239,Bagvalal,497,ащ,CyrillTrans,scar,,,aš̄,Phonemic
+4-857-35-1,bagv1239,Bagvalal,1808,ресІсІ,CyrillTrans,pus,,,res̄ʼ,Phonemic
+4-856-35-1,bagv1239,Bagvalal,793,батийоб одоб,CyrillTrans,boil (noun),,,batiyob odob,Phonemic
+4-855-35-1,bagv1239,Bagvalal,1584,чиххв,CyrillTrans,blister,,,čix̄ʷ,Phonemic
+4-854-35-1,bagv1239,Bagvalal,148,сІсІинар,CyrillTrans,itch,,,"s̄ʼinar, žužar",Phonemic
+4-854-35-3,bagv1239,Bagvalal,148,жужар,CyrillTrans,itch,,,"s̄ʼinar, žužar",Phonemic
+4-853-35-1,bagv1239,Bagvalal,1903,абагьар,CyrillTrans,swelling,,,abahar,Phonemic
+4-852-35-1,bagv1239,Bagvalal,1148,чинар,CyrillTrans,bruise,,,"činar, bičʼalar",Phonemic
+4-852-35-3,bagv1239,Bagvalal,1148,бичІалар,CyrillTrans,bruise,,,"činar, bičʼalar",Phonemic
+4-850-35-1,bagv1239,Bagvalal,1109,аᴴлълъа,CyrillTrans,"wound, sore",,,aⁿɬ̄a,Phonemic
+4-843-35-1,bagv1239,Bagvalal,102,залгьар,CyrillTrans,cold (catarrh),,,zalhar,Phonemic
+4-842-35-1,bagv1239,Bagvalal,1957,кІор,CyrillTrans,goiter,,,kʼor,Phonemic
+4-841-35-1,bagv1239,Bagvalal,1534,лагилъи цІагьар,CyrillTrans,fever,,,lagiɬi cʼahar,Phonemic
+4-840-35-1,bagv1239,Bagvalal,1847,гьалар,CyrillTrans,"sick, sickness",,,"halar, halōb",Phonemic
+4-840-35-3,bagv1239,Bagvalal,1847,гьало̄б,CyrillTrans,"sick, sickness",,,"halar, halōb",Phonemic
+4-830-35-1,bagv1239,Bagvalal,1364,сагългьар,CyrillTrans,"well, health",,,saɣlhar,Phonemic
+4-820-35-1,bagv1239,Bagvalal,1601,загІибаб,CyrillTrans,weak,,,zaʕibab,Phonemic
+4-810-35-1,bagv1239,Bagvalal,785,къуватаб,CyrillTrans,"strong, mighty, powerful",,,"qʼuwatab, gučab",Phonemic
+4-810-35-3,bagv1239,Bagvalal,785,гучаб,CyrillTrans,"strong, mighty, powerful",,,"qʼuwatab, gučab",Phonemic
+4-790-35-1,bagv1239,Bagvalal,1773,гьоб,CyrillTrans,"grave, tomb",,,hob,Phonemic
+4-780-35-1,bagv1239,Bagvalal,1719,уᴴшилъи вилгьила,CyrillTrans,bury (the dead),,,uⁿšiɬi wilhila,Phonemic
+4-770-35-1,bagv1239,Bagvalal,767,къаркъала,CyrillTrans,corpse,,,qʼarqʼala,Phonemic
+4-760-35-1,bagv1239,Bagvalal,1417,кІвайла,CyrillTrans,kill,,,kʼʷayla,Phonemic
+4-751-35-1,bagv1239,Bagvalal,1904,лълъеᴴлІи гъваᴴщила (гъаᴴкъидила),CyrillTrans,drowned,,,ɬ̄eⁿƛi ɣʷaⁿš̄ila (ɣaⁿqʼidila),Phonemic
+4-750-35-1,bagv1239,Bagvalal,1494,бичІйаб (вичІав,CyrillTrans,"die, dead",,,"bičʼyab (wičʼaw, yičʼay), bičʼila",Phonemic
+4-750-35-3,bagv1239,Bagvalal,1494,йичІай),CyrillTrans,"die, dead",,,"bičʼyab (wičʼaw, yičʼay), bičʼila",Phonemic
+4-750-35-5,bagv1239,Bagvalal,1494,бичІила,CyrillTrans,"die, dead",,,"bičʼyab (wičʼaw, yičʼay), bičʼila",Phonemic
+4-740-35-1,bagv1239,Bagvalal,1422,гІорми джӣла,CyrillTrans,"live, living, life",,,"ʕormi ǯīla, čʼagoyab, ʕormi",Phonemic
+4-740-35-3,bagv1239,Bagvalal,1422,чІагойаб,CyrillTrans,"live, living, life",,,"ʕormi ǯīla, čʼagoyab, ʕormi",Phonemic
+4-740-35-5,bagv1239,Bagvalal,1422,гІорми,CyrillTrans,"live, living, life",,,"ʕormi ǯīla, čʼagoyab, ʕormi",Phonemic
+4-732-35-1,bagv1239,Bagvalal,1087,мачІ булъула,CyrillTrans,conceive,,,"mačʼ buɬula, qʼinuy yuɬula",Phonemic
+4-732-35-3,bagv1239,Bagvalal,1087,къинуй йулъула,CyrillTrans,conceive,,,"mačʼ buɬula, qʼinuy yuɬula",Phonemic
+4-730-35-1,bagv1239,Bagvalal,1123,къинуй,CyrillTrans,pregnant,,,qʼinuy,Phonemic
+4-720-35-1,bagv1239,Bagvalal,1090,вижула,CyrillTrans,born (to be),,,"wižula, ǯila, buɬula",Phonemic
+4-720-35-3,bagv1239,Bagvalal,1090,джила,CyrillTrans,born (to be),,,"wižula, ǯila, buɬula",Phonemic
+4-720-35-5,bagv1239,Bagvalal,1090,булъула,CyrillTrans,born (to be),,,"wižula, ǯila, buɬula",Phonemic
+4-710-35-1,bagv1239,Bagvalal,1152,гьуй билгьар,CyrillTrans,beget (of father),,,"huy bilhar, mačʼiǯila",Phonemic
+4-710-35-3,bagv1239,Bagvalal,1152,мачІиджила,CyrillTrans,beget (of father),,,"huy bilhar, mačʼiǯila",Phonemic
+4-690-35-1,bagv1239,Bagvalal,138,бачуна,CyrillTrans,bathe,,,"bačuna, čordila",Phonemic
+4-690-35-3,bagv1239,Bagvalal,138,чордила,CyrillTrans,bathe,,,"bačuna, čordila",Phonemic
+4-680-35-1,bagv1239,Bagvalal,52,тІертІела,CyrillTrans,shiver,,,tʼertʼela,Phonemic
+4-670-35-1,bagv1239,Bagvalal,1785,билгьайна,CyrillTrans,have sexual intercourse,,,bilhayna,Phonemic
+4-660-35-1,bagv1239,Bagvalal,676,гІуᴴджӣла,CyrillTrans,defecate,,,"ʕuⁿǯīla, čiribax̄ayla",Phonemic
+4-660-35-3,bagv1239,Bagvalal,676,чирибаххайла,CyrillTrans,defecate,,,"ʕuⁿǯīla, čiribax̄ayla",Phonemic
+4-650-35-1,bagv1239,Bagvalal,592,гьекІуххе̄ла,CyrillTrans,urinate,,,hekʼux̄ēla,Phonemic
+4-640-35-1,bagv1239,Bagvalal,1159,муч бештила,CyrillTrans,break wind,,,"muč beštila, sudila, ƛ̄ʼutʼ ǯila",Phonemic
+4-640-35-3,bagv1239,Bagvalal,1159,судила,CyrillTrans,break wind,,,"muč beštila, sudila, ƛ̄ʼutʼ ǯila",Phonemic
+4-640-35-5,bagv1239,Bagvalal,1159,кьутІ джила,CyrillTrans,break wind,,,"muč beštila, sudila, ƛ̄ʼutʼ ǯila",Phonemic
+4-630-35-1,bagv1239,Bagvalal,1602,макьв бичІила,CyrillTrans,wake up,,,"maƛ̄ʼʷ bičʼila, billina",Phonemic
+4-630-35-3,bagv1239,Bagvalal,1602,биллина,CyrillTrans,wake up,,,"maƛ̄ʼʷ bičʼila, billina",Phonemic
+4-620-35-1,bagv1239,Bagvalal,1920,макьв гьайна,CyrillTrans,dream,,,maƛ̄ʼʷ hayna,Phonemic
+4-612-35-1,bagv1239,Bagvalal,1983,хъваᴴдила,CyrillTrans,snore,,,qʷaⁿdila,Phonemic
+4-610-35-1,bagv1239,Bagvalal,1585,кьеᴴла,CyrillTrans,sleep,,,"ƛ̄ʼeⁿla, ƛ̄ʼēna",Phonemic
+4-610-35-3,bagv1239,Bagvalal,1585,кье̄на,CyrillTrans,sleep,,,"ƛ̄ʼeⁿla, ƛ̄ʼēna",Phonemic
+4-591-35-1,bagv1239,Bagvalal,268,кІалитІихила,CyrillTrans,dribble,,,kʼalitʼixila,Phonemic
+4-590-35-1,bagv1239,Bagvalal,319,нанила,CyrillTrans,lick,,,nanila,Phonemic
+4-580-35-1,bagv1239,Bagvalal,1403,саллила,CyrillTrans,bite,,,sallila,Phonemic
+4-570-35-1,bagv1239,Bagvalal,1278,чІайла,CyrillTrans,vomit,,,čʼayla,Phonemic
+4-560-35-1,bagv1239,Bagvalal,1440,тудила,CyrillTrans,spit,,,tudila,Phonemic
+4-550-35-1,bagv1239,Bagvalal,126,гьана тІайла,CyrillTrans,perspire,,,hana tʼayla,Phonemic
+4-540-35-1,bagv1239,Bagvalal,1621,хІимчидила,CyrillTrans,sneeze,,,ħimčidila,Phonemic
+4-530-35-1,bagv1239,Bagvalal,879,охІодила,CyrillTrans,cough,,,oħodila,Phonemic
+4-521-35-1,bagv1239,Bagvalal,162,хІункъудила,CyrillTrans,hiccough,,,ħunqʼudila,Phonemic
+4-520-35-1,bagv1239,Bagvalal,1028,гьа̄дила,CyrillTrans,"yawn, gape",,,hādila,Phonemic
+4-510-35-1,bagv1239,Bagvalal,1407,гьаймуч буххайла (джанила),CyrillTrans,"breathe, breath",,,haymuč bux̄ayla (ǯanila),Phonemic
+4-492-35-1,bagv1239,Bagvalal,1222,гъатІа,CyrillTrans,penis,,,ɣatʼa,Phonemic
+4-490-35-1,bagv1239,Bagvalal,797,гьан,CyrillTrans,testicle,,,han,Phonemic
+4-470-35-1,bagv1239,Bagvalal,804,реча,CyrillTrans,womb,,,reča,Phonemic
+4-464-35-1,bagv1239,Bagvalal,834,бехисучІила,CyrillTrans,buttocks,,,bexisučʼila,Phonemic
+4-463-35-1,bagv1239,Bagvalal,1745,ахъилъ,CyrillTrans,hip,,,aqiɬ,Phonemic
+4-462-35-1,bagv1239,Bagvalal,1681,ракьух макІва,CyrillTrans,waist,,,raƛ̄ʼux makʼʷa,Phonemic
+4-461-35-1,bagv1239,Bagvalal,1991,бакь,CyrillTrans,"intestines, guts",,,"baƛ̄ʼ, besub baƛ̄ʼ",Phonemic
+4-461-35-3,bagv1239,Bagvalal,1991,бесуб бакь,CyrillTrans,"intestines, guts",,,"baƛ̄ʼ, besub baƛ̄ʼ",Phonemic
+4-460-35-1,bagv1239,Bagvalal,819,гъвагъвач,CyrillTrans,stomach,,,ɣʷaɣʷač,Phonemic
+4-452-35-1,bagv1239,Bagvalal,1744,чІикъ,CyrillTrans,spleen,,,čʼiqʼ,Phonemic
+4-451-35-1,bagv1239,Bagvalal,489,кІуᴴй,CyrillTrans,kidney,,,kʼuⁿy,Phonemic
+4-450-35-1,bagv1239,Bagvalal,1224,лелелъ,CyrillTrans,liver,,,leleɬ,Phonemic
+4-441-35-1,bagv1239,Bagvalal,688,гьуᴴсер,CyrillTrans,lung,,,huⁿser,Phonemic
+4-440-35-1,bagv1239,Bagvalal,1223,ракІва,CyrillTrans,heart,,,rakʼʷa,Phonemic
+4-430-35-1,bagv1239,Bagvalal,1838,сІсІуᴴй,CyrillTrans,navel,,,s̄ʼuⁿy,Phonemic
+4-420-35-1,bagv1239,Bagvalal,154,игьв,CyrillTrans,udder,,,ihʷ,Phonemic
+4-412-35-1,bagv1239,Bagvalal,796,чачилъ ун,CyrillTrans,"nipple, teat",,,čačiɬ un,Phonemic
+4-410-35-1,bagv1239,Bagvalal,1402,чача,CyrillTrans,breast (of woman),,,čača,Phonemic
+4-400-35-1,bagv1239,Bagvalal,1592,нигь ракІва,CyrillTrans,chest,,,nih rakʼʷa,Phonemic
+4-393-35-1,bagv1239,Bagvalal,1201,хІули,CyrillTrans,feather,,,ħuli,Phonemic
+4-392-35-1,bagv1239,Bagvalal,1257,гьилв,CyrillTrans,wing,,,hilʷ,Phonemic
+4-380-35-1,bagv1239,Bagvalal,1389,сІсІикІулъ гьинцІил,CyrillTrans,toe,,,s̄ʼikʼuɬ hincʼil,Phonemic
+4-374-35-1,bagv1239,Bagvalal,318,гьал,CyrillTrans,footprint,,,hal,Phonemic
+4-372-35-1,bagv1239,Bagvalal,980,нижа,CyrillTrans,heel,,,"niža, miža",Phonemic
+4-372-35-3,bagv1239,Bagvalal,980,мижа,CyrillTrans,heel,,,"niža, miža",Phonemic
+4-371-35-1,bagv1239,Bagvalal,803,щинчІил,CyrillTrans,ankle,,,"š̄inčʼil, muⁿgoš̄ib, kʼuruš̄",Phonemic
+4-371-35-3,bagv1239,Bagvalal,803,муᴴгощиб,CyrillTrans,ankle,,,"š̄inčʼil, muⁿgoš̄ib, kʼuruš̄",Phonemic
+4-371-35-5,bagv1239,Bagvalal,803,кІурущ,CyrillTrans,ankle,,,"š̄inčʼil, muⁿgoš̄ib, kʼuruš̄",Phonemic
+4-370-35-1,bagv1239,Bagvalal,1301,сІсІикІа,CyrillTrans,foot,,,s̄ʼikʼa,Phonemic
+4-360-35-1,bagv1239,Bagvalal,1371,никв,CyrillTrans,knee,,,nikʷ,Phonemic
+4-352-35-1,bagv1239,Bagvalal,498,регъел,CyrillTrans,calf of leg,,,reɣel,Phonemic
+4-351-35-1,bagv1239,Bagvalal,800,ахъилъ,CyrillTrans,thigh,,,aqiɬ,Phonemic
+4-350-35-1,bagv1239,Bagvalal,1297,регъел,CyrillTrans,leg,,,"reɣel, s̄ʼikʼa",Phonemic
+4-350-35-3,bagv1239,Bagvalal,1297,сІсІикІа,CyrillTrans,leg,,,"reɣel, s̄ʼikʼa",Phonemic
+4-345-35-1,bagv1239,Bagvalal,72,милгьв,CyrillTrans,claw,,,milhʷ,Phonemic
+4-344-35-1,bagv1239,Bagvalal,1258,милгьв,CyrillTrans,fingernail,,,milhʷ,Phonemic
+4-342-35-1,bagv1239,Bagvalal,1781,булулъ гьинцІил,CyrillTrans,thumb,,,buluɬ hincʼil,Phonemic
+4-340-35-1,bagv1239,Bagvalal,1303,лелулъ гьинцІил,CyrillTrans,finger,,,leluɬ hincʼil,Phonemic
+4-331-35-1,bagv1239,Bagvalal,1183,гІадал,CyrillTrans,palm of hand,,,ʕadal,Phonemic
+4-330-35-1,bagv1239,Bagvalal,1277,лела,CyrillTrans,hand,,,lela,Phonemic
+4-321-35-1,bagv1239,Bagvalal,799,лелулъ рацІил,CyrillTrans,wrist,,,leluɬ racʼil,Phonemic
+4-320-35-1,bagv1239,Bagvalal,981,гъажасІсІункал,CyrillTrans,elbow,,,"ɣažas̄ʼunkal, s̄ʼuⁿčʼal",Phonemic
+4-320-35-3,bagv1239,Bagvalal,981,сІсІуᴴчІал,CyrillTrans,elbow,,,"ɣažas̄ʼunkal, s̄ʼuⁿčʼal",Phonemic
+4-312-35-1,bagv1239,Bagvalal,1886,гъвакьи макІва,CyrillTrans,armpit,,,ɣʷaƛ̄ʼi makʼʷa,Phonemic
+4-310-35-1,bagv1239,Bagvalal,1673,гъажв,CyrillTrans,arm,,,ɣažʷ,Phonemic
+4-302-35-1,bagv1239,Bagvalal,1994,сІсІуᴴлъ ракь,CyrillTrans,collarbone,,,"s̄ʼuⁿɬ raƛ̄ʼ, s̄ʼuⁿyɬ raƛ̄ʼ",Phonemic
+4-302-35-3,bagv1239,Bagvalal,1994,сІсІуᴴйлъ ракь,CyrillTrans,collarbone,,,"s̄ʼuⁿɬ raƛ̄ʼ, s̄ʼuⁿyɬ raƛ̄ʼ",Phonemic
+4-301-35-1,bagv1239,Bagvalal,172,абагван,CyrillTrans,shoulderblade,,,"abagʷan, ǯaƛa raƛ̄ʼ",Phonemic
+4-301-35-3,bagv1239,Bagvalal,172,джалІа ракь,CyrillTrans,shoulderblade,,,"abagʷan, ǯaƛa raƛ̄ʼ",Phonemic
+4-300-35-1,bagv1239,Bagvalal,1482,абагон,CyrillTrans,shoulder,,,"abagon, abagʷan",Phonemic
+4-300-35-3,bagv1239,Bagvalal,1482,абагван,CyrillTrans,shoulder,,,"abagon, abagʷan",Phonemic
+4-290-35-1,bagv1239,Bagvalal,1346,рессел,CyrillTrans,throat,,,res̄el,Phonemic
+4-281-35-1,bagv1239,Bagvalal,1347,гъваᴴща,CyrillTrans,nape of neck,,,ɣʷaⁿš̄a,Phonemic
+4-280-35-1,bagv1239,Bagvalal,1333,джар,CyrillTrans,neck,,,ǯar,Phonemic
+4-272-35-1,bagv1239,Bagvalal,1049,исв,CyrillTrans,molartooth,,,isʷ,Phonemic
+4-270-35-1,bagv1239,Bagvalal,1380,салв,CyrillTrans,tooth,,,salʷ,Phonemic
+4-271-35-1,bagv1239,Bagvalal,139,гьамала,CyrillTrans,gums,,,hamala,Phonemic
+4-260-35-1,bagv1239,Bagvalal,1205,мисІсІ,CyrillTrans,tongue,,,mis̄ʼ,Phonemic
+4-250-35-1,bagv1239,Bagvalal,478,сим,CyrillTrans,lip,,,sim,Phonemic
+4-241-35-1,bagv1239,Bagvalal,73,ххоᴴххол,CyrillTrans,beak,,,"x̄oⁿx̄ol, x̄ʷaⁿx̄al",Phonemic
+4-241-35-3,bagv1239,Bagvalal,73,ххваᴴххал,CyrillTrans,beak,,,"x̄oⁿx̄ol, x̄ʷaⁿx̄al",Phonemic
+4-240-35-1,bagv1239,Bagvalal,674,эл,CyrillTrans,mouth,,,"el, x̄oⁿx̄ol",Phonemic
+4-240-35-3,bagv1239,Bagvalal,674,х̄оᴴх̄ол,CyrillTrans,mouth,,,"el, x̄oⁿx̄ol",Phonemic
+4-232-35-1,bagv1239,Bagvalal,208,ххиᴴтІв,CyrillTrans,mucus (nasal),,,x̄iⁿtʼʷ,Phonemic
+4-231-35-1,bagv1239,Bagvalal,1178,мегІехъекІв,CyrillTrans,nostril,,,"meʕeqekʼʷ, meʕerɬqekʼʷ",Phonemic
+4-231-35-3,bagv1239,Bagvalal,1178,мегІерлъхъекІв,CyrillTrans,nostril,,,"meʕeqekʼʷ, meʕerɬqekʼʷ",Phonemic
+4-230-35-1,bagv1239,Bagvalal,1221,мегІер,CyrillTrans,nose,,,meʕer,Phonemic
+4-222-35-1,bagv1239,Bagvalal,32,писІсІ,CyrillTrans,earwax,,,pis̄ʼ,Phonemic
+4-221-35-1,bagv1239,Bagvalal,18,гьаᴴчІитулъ гьуᴴсер,CyrillTrans,earlobe,,,haⁿčʼituɬ huⁿser,Phonemic
+4-220-35-1,bagv1239,Bagvalal,1247,гьаᴴчІитІа,CyrillTrans,ear,,,haⁿčʼitʼa,Phonemic
+4-215-35-1,bagv1239,Bagvalal,1655,гьачІакъварела,CyrillTrans,blink,,,hačʼaqʼʷarela,Phonemic
+4-214-35-1,bagv1239,Bagvalal,1540,гьуᴴй,CyrillTrans,eyelash,,,"huⁿy, ƛ̄ʼūⁿy",Phonemic
+4-214-35-3,bagv1239,Bagvalal,1540,кьӯᴴй,CyrillTrans,eyelash,,,"huⁿy, ƛ̄ʼūⁿy",Phonemic
+4-213-35-1,bagv1239,Bagvalal,17,элугьар,CyrillTrans,eyelid,,,eluhar,Phonemic
+4-212-35-1,bagv1239,Bagvalal,1173,кьеᴴссел,CyrillTrans,eyebrow,,,ƛ̄ʼeⁿs̄el,Phonemic
+4-210-35-1,bagv1239,Bagvalal,1248,гьачІа,CyrillTrans,eye,,,hačʼa,Phonemic
+4-208-35-1,bagv1239,Bagvalal,1730,чІила,CyrillTrans,cheek,,,čʼila,Phonemic
+4-209-35-1,bagv1239,Bagvalal,1510,жуна,CyrillTrans,chin,,,žuna,Phonemic
+4-205-35-1,bagv1239,Bagvalal,123,гьакьа,CyrillTrans,forehead,,,haƛ̄ʼa,Phonemic
+4-207-35-1,bagv1239,Bagvalal,798,илълъгІама,CyrillTrans,jaw,,,"iɬ̄ʕama, iƛʕama, iƛeʕama",Phonemic
+4-207-35-3,bagv1239,Bagvalal,798,илІгІама,CyrillTrans,jaw,,,"iɬ̄ʕama, iƛʕama, iƛeʕama",Phonemic
+4-207-35-5,bagv1239,Bagvalal,798,илІегІама,CyrillTrans,jaw,,,"iɬ̄ʕama, iƛʕama, iƛeʕama",Phonemic
+4-204-35-1,bagv1239,Bagvalal,1560,багІа,CyrillTrans,face,,,baʕa,Phonemic
+4-203-35-1,bagv1239,Bagvalal,1583,гьан,CyrillTrans,brain,,,han,Phonemic
+4-201-35-1,bagv1239,Bagvalal,1604,тІума,CyrillTrans,"side of head, temple",,,tʼuma,Phonemic
+4-202-35-1,bagv1239,Bagvalal,1605,гвангвара,CyrillTrans,skull,,,gʷangʷara,Phonemic
+4-200-35-1,bagv1239,Bagvalal,1256,ун,CyrillTrans,head,,,un,Phonemic
+4-191-35-1,bagv1239,Bagvalal,805,рекъелъуракь,CyrillTrans,spine,,,reqʼeɬuraƛ̄ʼ,Phonemic
+4-190-35-1,bagv1239,Bagvalal,1291,рекъелъ,CyrillTrans,back,,,reqʼeɬ,Phonemic
+4-180-35-1,bagv1239,Bagvalal,1220,мигъа,CyrillTrans,tail,,,miɣa,Phonemic
+4-170-35-1,bagv1239,Bagvalal,1393,чІама,CyrillTrans,horn,,,čʼama,Phonemic
+4-162-35-1,bagv1239,Bagvalal,801,эсежвала,CyrillTrans,rib,,,"esežʷala, esebraƛ̄ʼ",Phonemic
+4-162-35-3,bagv1239,Bagvalal,801,эсебракь,CyrillTrans,rib,,,"esežʷala, esebraƛ̄ʼ",Phonemic
+4-160-35-1,bagv1239,Bagvalal,1394,ракь,CyrillTrans,bone,,,raƛ̄ʼ,Phonemic
+4-151-35-1,bagv1239,Bagvalal,525,гьерилъ пул,CyrillTrans,"vein, artery",,,heriɬ pul,Phonemic
+4-150-35-1,bagv1239,Bagvalal,946,гьер,CyrillTrans,blood,,,her,Phonemic
+4-146-35-1,bagv1239,Bagvalal,576,хъечІа,CyrillTrans,dandruff,,,qečʼa,Phonemic
+4-145-35-1,bagv1239,Bagvalal,36,щина,CyrillTrans,pubic hair,,,š̄ina,Phonemic
+4-144-35-1,bagv1239,Bagvalal,189,чалахха,CyrillTrans,body hair,,,čalax̄a,Phonemic
+4-142-35-1,bagv1239,Bagvalal,678,нижат,CyrillTrans,beard,,,nižat,Phonemic
+4-140-35-1,bagv1239,Bagvalal,1040,гьогьа,CyrillTrans,hair (head),,,"hoha, minčʼa",Phonemic
+4-140-35-3,bagv1239,Bagvalal,1040,минчІа,CyrillTrans,hair (head),,,"hoha, minčʼa",Phonemic
+4-130-35-1,bagv1239,Bagvalal,2259,къаркъала,CyrillTrans,flesh,,,"qʼarqʼala, laga",Phonemic
+4-130-35-3,bagv1239,Bagvalal,2259,лага,CyrillTrans,flesh,,,"qʼarqʼala, laga",Phonemic
+4-120-35-1,bagv1239,Bagvalal,763,гъасс,CyrillTrans,"skin, hide",,,"ɣas̄, s̄ʼok, qoča",Phonemic
+4-120-35-3,bagv1239,Bagvalal,763,сІсІок,CyrillTrans,"skin, hide",,,"ɣas̄, s̄ʼok, qoča",Phonemic
+4-120-35-5,bagv1239,Bagvalal,763,хъоча,CyrillTrans,"skin, hide",,,"ɣas̄, s̄ʼok, qoča",Phonemic
+4-110-35-1,bagv1239,Bagvalal,1480,лага,CyrillTrans,body,,,laga,Phonemic
+3-980-35-1,bagv1239,Bagvalal,112,ракьакъоркъ,CyrillTrans,turtle,,,raƛ̄ʼaqʼorqʼ,Phonemic
+3-970-35-1,bagv1239,Bagvalal,1857,аздагьо,CyrillTrans,"crocodile, alligator",,,azdaho,Phonemic
+3-960-35-1,bagv1239,Bagvalal,632,гІанщв,CyrillTrans,lizard,,,"ʕanš̄ʷ, kera",Phonemic
+3-960-35-3,bagv1239,Bagvalal,632,кера,CyrillTrans,lizard,,,"ʕanš̄ʷ, kera",Phonemic
+3-950-35-1,bagv1239,Bagvalal,503,къоркъ,CyrillTrans,frog,,,qʼorqʼ,Phonemic
+3-940-35-1,bagv1239,Bagvalal,1543,щвантІилгІама,CyrillTrans,snail,,,š̄ʷantʼilʕama,Phonemic
+3-930-35-1,bagv1239,Bagvalal,607,гъацІа,CyrillTrans,grasshopper,,,ɣacʼa,Phonemic
+3-920-35-1,bagv1239,Bagvalal,1791,кІаркІима,CyrillTrans,butterfly,,,kʼarkʼima,Phonemic
+3-910-35-1,bagv1239,Bagvalal,206,макука,CyrillTrans,firefly,,,makuka,Phonemic
+3-850-35-1,bagv1239,Bagvalal,730,беча,CyrillTrans,snake,,,beča,Phonemic
+3-840-35-1,bagv1239,Bagvalal,1219,жвалача,CyrillTrans,worm,,,"žʷalača, ħutʼ",Phonemic
+3-840-35-3,bagv1239,Bagvalal,1219,хІутІ,CyrillTrans,worm,,,"žʷalača, ħutʼ",Phonemic
+3-832-35-1,bagv1239,Bagvalal,1509,щІара,CyrillTrans,mosquito,,,šʼara,Phonemic
+3-831-35-1,bagv1239,Bagvalal,95,щІара,CyrillTrans,"sandfly (midge), gnat",,,šʼara,Phonemic
+3-830-35-1,bagv1239,Bagvalal,1504,тІунтІ,CyrillTrans,fly,,,tʼuntʼ,Phonemic
+3-823-35-1,bagv1239,Bagvalal,1517,кьижва,CyrillTrans,wasp,,,ƛ̄ʼižʷa,Phonemic
+3-822-35-1,bagv1239,Bagvalal,88,перулъгьанда,CyrillTrans,beehive,,,peruɬhanda,Phonemic
+3-821-35-1,bagv1239,Bagvalal,1931,щир,CyrillTrans,beeswax,,,š̄ir,Phonemic
+3-820-35-1,bagv1239,Bagvalal,665,пера,CyrillTrans,bee,,,pera,Phonemic
+3-819-35-1,bagv1239,Bagvalal,1065,нисхъаранис,CyrillTrans,spider web,,,nisqaranis,Phonemic
+3-818-35-1,bagv1239,Bagvalal,843,нисхъара,CyrillTrans,spider,,,nisqara,Phonemic
+3-817-35-1,bagv1239,Bagvalal,587,жунж,CyrillTrans,ant,,,žunž,Phonemic
+3-816-35-1,bagv1239,Bagvalal,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-35-1,bagv1239,Bagvalal,1538,гьачІакъвара,CyrillTrans,scorpion,,,hačʼaqʼʷara,Phonemic
+3-813-35-1,bagv1239,Bagvalal,232,чІантІ,CyrillTrans,flea,,,čʼantʼ,Phonemic
+3-812-35-1,bagv1239,Bagvalal,267,тІана,CyrillTrans,nit (louse egg),,,tʼana,Phonemic
+3-811-35-1,bagv1239,Bagvalal,1392,насІсІ,CyrillTrans,louse,,,nas̄ʼ,Phonemic
+3-810-35-1,bagv1239,Bagvalal,620,рухІчІаголгьар,CyrillTrans,insect,,,ruħčʼagolhar,Phonemic
+3-780-35-1,bagv1239,Bagvalal,1871,варан,CyrillTrans,camel,,,waran,Phonemic
+3-770-35-1,bagv1239,Bagvalal,1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-35-1,bagv1239,Bagvalal,1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-35-1,bagv1239,Bagvalal,1936,гъвалчІа,CyrillTrans,deer,,,"ɣʷalčʼa, čan",Phonemic
+3-750-35-3,bagv1239,Bagvalal,1936,чан,CyrillTrans,deer,,,"ɣʷalčʼa, čan",Phonemic
+3-740-35-1,bagv1239,Bagvalal,1312,сар,CyrillTrans,fox,,,sar,Phonemic
+3-730-35-1,bagv1239,Bagvalal,1820,сиᴴ,CyrillTrans,bear,,,siⁿ,Phonemic
+3-720-35-1,bagv1239,Bagvalal,1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-35-1,bagv1239,Bagvalal,522,бацІа,CyrillTrans,wolf,,,bacʼa,Phonemic
+3-664-35-1,bagv1239,Bagvalal,1910,релгьалъ гьвай,CyrillTrans,stingray,,,relhaɬ hʷay,Phonemic
+3-663-35-1,bagv1239,Bagvalal,957,щва̄,CyrillTrans,whale,,,š̄ʷā,Phonemic
+3-662-35-1,bagv1239,Bagvalal,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-35-1,bagv1239,Bagvalal,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-35-1,bagv1239,Bagvalal,598,релгьалъ гьаᴴчІитІа,CyrillTrans,shell,,,relhaɬ haⁿčʼitʼa,Phonemic
+3-653-35-1,bagv1239,Bagvalal,266,шваᴴшкІвалІи хъал,CyrillTrans,fishscale,,,šʷaⁿškʼʷaƛi qal,Phonemic
+3-652-35-1,bagv1239,Bagvalal,213,шваᴴшкІвалІи гьилв,CyrillTrans,fin (dorsal),,,šʷaⁿškʼʷaƛi hilw,Phonemic
+3-650-35-1,bagv1239,Bagvalal,227,шваᴴшкІва,CyrillTrans,fish,,,šʷaⁿškʼʷa,Phonemic
+3-630-35-1,bagv1239,Bagvalal,2139,гьекІоча,CyrillTrans,"mouse, rat",,,hekʼoča,Phonemic
+3-620-35-1,bagv1239,Bagvalal,1208,китв,CyrillTrans,cat,,,kitʷ,Phonemic
+3-614-35-1,bagv1239,Bagvalal,1136,кьенчІел,CyrillTrans,rabbit,,,ƛ̄ʼenčʼel,Phonemic
+3-610-35-1,bagv1239,Bagvalal,2009,гьвай,CyrillTrans,dog,,,hʷay,Phonemic
+3-594-35-1,bagv1239,Bagvalal,1853,гъунгъ,CyrillTrans,dove,,,ɣunɣ,Phonemic
+3-596-35-1,bagv1239,Bagvalal,735,бугь,CyrillTrans,owl,,,buh,Phonemic
+3-593-35-1,bagv1239,Bagvalal,913,хъва,CyrillTrans,crow,,,"qʷa, qʷāɣaⁿdʷ",Phonemic
+3-593-35-3,bagv1239,Bagvalal,913,хъва̄гъаᴴдв,CyrillTrans,crow,,,"qʷa, qʷāɣaⁿdʷ",Phonemic
+3-592-35-1,bagv1239,Bagvalal,882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-35-1,bagv1239,Bagvalal,1793,муххуращакиб,CyrillTrans,bat,,,mux̄uraš̄akib,Phonemic
+3-586-35-1,bagv1239,Bagvalal,1185,сІсІуᴴй,CyrillTrans,vulture,,,s̄ʼuⁿy,Phonemic
+3-585-35-1,bagv1239,Bagvalal,307,хъарщигъа лачин,CyrillTrans,hawk,,,"qarš̄iɣa lačin, qerɣu",Phonemic
+3-585-35-3,bagv1239,Bagvalal,307,хъергъу,CyrillTrans,hawk,,,"qarš̄iɣa lačin, qerɣu",Phonemic
+3-584-35-1,bagv1239,Bagvalal,1905,сІсІуᴴй,CyrillTrans,eagle,,,s̄ʼuⁿy,Phonemic
+3-582-35-1,bagv1239,Bagvalal,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-35-1,bagv1239,Bagvalal,758,хІажилакълакъ,CyrillTrans,heron,,,ħažilaq’laq’,Phonemic
+3-581-35-1,bagv1239,Bagvalal,937,хІетІхъумур,CyrillTrans,bird,,,"ħetʼqumur, š̄akib",Phonemic
+3-581-35-3,bagv1239,Bagvalal,937,щакиб,CyrillTrans,bird,,,"ħetʼqumur, š̄akib",Phonemic
+3-580-35-1,bagv1239,Bagvalal,539,чиндв,CyrillTrans,nest,,,čindʷ,Phonemic
+3-570-35-1,bagv1239,Bagvalal,1360,утка,CyrillTrans,duck,,,utka,Phonemic
+3-560-35-1,bagv1239,Bagvalal,1187,хъаз,CyrillTrans,goose,,,qaz,Phonemic
+3-550-35-1,bagv1239,Bagvalal,1318,очу(лъ)балгьа,CyrillTrans,chicken,,,oču(ɬ)balha,Phonemic
+3-540-35-1,bagv1239,Bagvalal,1514,гьакІубоча,CyrillTrans,hen,,,hakʼuboča,Phonemic
+3-520-35-1,bagv1239,Bagvalal,1511,кІунтІабоча,CyrillTrans,"cock, rooster",,,kʼuntʼaboča,Phonemic
+3-470-35-1,bagv1239,Bagvalal,890,гъорцІом,CyrillTrans,mule,,,ɣorcʼom,Phonemic
+3-500-35-1,bagv1239,Bagvalal,265,о̄чаби,CyrillTrans,fowl,,,ōčabi,Phonemic
+3-460-35-1,bagv1239,Bagvalal,1862,гІама,CyrillTrans,"ass, donkey",,,ʕama,Phonemic
+3-450-35-1,bagv1239,Bagvalal,1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-35-1,bagv1239,Bagvalal,938,ичо,CyrillTrans,mare,,,ičo,Phonemic
+3-420-35-1,bagv1239,Bagvalal,936,барт,CyrillTrans,stallion,,,bart,Phonemic
+3-410-35-1,bagv1239,Bagvalal,615,чІатв,CyrillTrans,horse (equine),,,čʼatʷ,Phonemic
+3-380-35-1,bagv1239,Bagvalal,1972,сІсІекІер,CyrillTrans,kid,,,s̄ʼekʼer,Phonemic
+3-370-35-1,bagv1239,Bagvalal,264,чІута,CyrillTrans,he-goat,,,čʼuta,Phonemic
+3-360-35-1,bagv1239,Bagvalal,1502,сІсІенелъ,CyrillTrans,goat,,,s̄ʼeneɬ,Phonemic
+3-350-35-1,bagv1239,Bagvalal,1337,болгьон,CyrillTrans,pig,,,bolhon,Phonemic
+3-340-35-1,bagv1239,Bagvalal,1351,гьакІуб болгьон,CyrillTrans,sow (2),,,hakʼub bolhon,Phonemic
+3-320-35-1,bagv1239,Bagvalal,1348,куᴴтІаб болгьон,CyrillTrans,boar,,,"kuⁿtʼab bolhon, qapan",Phonemic
+3-320-35-3,bagv1239,Bagvalal,1348,хъапан,CyrillTrans,boar,,,"kuⁿtʼab bolhon, qapan",Phonemic
+3-290-35-1,bagv1239,Bagvalal,820,кьедер,CyrillTrans,lamb,,,ƛ̄ʼeder,Phonemic
+3-280-35-1,bagv1239,Bagvalal,1345,ригьа,CyrillTrans,ewe,,,riha,Phonemic
+3-260-35-1,bagv1239,Bagvalal,1344,куᴴй,CyrillTrans,ram,,,kuⁿy,Phonemic
+3-250-35-1,bagv1239,Bagvalal,1331,бищалъ,CyrillTrans,sheep,,,biš̄aɬ,Phonemic
+3-240-35-1,bagv1239,Bagvalal,1989,гьедер,CyrillTrans,calf,,,heder,Phonemic
+3-230-35-1,bagv1239,Bagvalal,1007,зин,CyrillTrans,cow,,,zin,Phonemic
+3-220-35-1,bagv1239,Bagvalal,1169,муса,CyrillTrans,ox,,,musa,Phonemic
+3-210-35-1,bagv1239,Bagvalal,1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-35-1,bagv1239,Bagvalal,1153,бечІетІуб хІаван,CyrillTrans,cattle (bovine),,,bečʼetʼub ħawan,Phonemic
+3-190-35-1,bagv1239,Bagvalal,851,хьванилъ бекь,CyrillTrans,"stable, stall",,,"x̌ʷaniɬ beƛ̄ʼ, aⁿsiɬ",Phonemic
+3-190-35-3,bagv1239,Bagvalal,851,аᴴсилъ,CyrillTrans,"stable, stall",,,"x̌ʷaniɬ beƛ̄ʼ, aⁿsiɬ",Phonemic
+3-180-35-1,bagv1239,Bagvalal,263,игьва,CyrillTrans,herdsman,,,ihʷa,Phonemic
+3-160-35-1,bagv1239,Bagvalal,649,алах,CyrillTrans,pasture,,,alax,Phonemic
+3-150-35-1,bagv1239,Bagvalal,631,бечІо̄,CyrillTrans,livestock,,,bečʼō,Phonemic
+3-130-35-1,bagv1239,Bagvalal,2262,гьакІуб,CyrillTrans,female (adj),,,hakʼub,Phonemic
+3-120-35-1,bagv1239,Bagvalal,2261,кунтІаб,CyrillTrans,male (adj),,,kuntʼab,Phonemic
+3-110-35-1,bagv1239,Bagvalal,619,хІаван,CyrillTrans,animal,,,ħawan,Phonemic
+2-960-35-1,bagv1239,Bagvalal,817,оба,CyrillTrans,they,,,oba,Phonemic
+2-950-35-1,bagv1239,Bagvalal,1213,бишти,CyrillTrans,you (plural),,,bišti,Phonemic
+2-942-35-1,bagv1239,Bagvalal,1130,ищи,CyrillTrans,we (exclusive),,,iš̄i,Phonemic
+2-941-35-1,bagv1239,Bagvalal,1131,илъи,CyrillTrans,we (inclusive),,,iɬi,Phonemic
+2-940-35-1,bagv1239,Bagvalal,1212,илъи,CyrillTrans,we,,,iɬi,Phonemic
+2-930-35-1,bagv1239,Bagvalal,262,ов,CyrillTrans,he/she/it,,,"ow, oy, ob",Phonemic
+2-930-35-3,bagv1239,Bagvalal,262,ой,CyrillTrans,he/she/it,,,"ow, oy, ob",Phonemic
+2-930-35-5,bagv1239,Bagvalal,262,об,CyrillTrans,he/she/it,,,"ow, oy, ob",Phonemic
+2-920-35-1,bagv1239,Bagvalal,1215,ме,CyrillTrans,you (singular),,,me,Phonemic
+2-910-35-1,bagv1239,Bagvalal,1209,де,CyrillTrans,I,,,de,Phonemic
+2-820-35-1,bagv1239,Bagvalal,194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-35-1,bagv1239,Bagvalal,1644,уналгьар,CyrillTrans,"relatives, kinsmen",,,unalhar,Phonemic
+2-770-35-1,bagv1239,Bagvalal,1981,къоролав,CyrillTrans,widower,,,qʼorolaw,Phonemic
+2-760-35-1,bagv1239,Bagvalal,1756,къоролай,CyrillTrans,widow,,,qʼorolay,Phonemic
+2-750-35-1,bagv1239,Bagvalal,1149,илгьатумачІ,CyrillTrans,orphan,,,ilhatumačʼ,Phonemic
+2-740-35-1,bagv1239,Bagvalal,1058,илгьатуй йаш,CyrillTrans,stepdaughter,,,ilhatuy yaš,Phonemic
+2-730-35-1,bagv1239,Bagvalal,1059,илгьатув ваша,CyrillTrans,stepson,,,ilhatuw aša,Phonemic
+2-720-35-1,bagv1239,Bagvalal,236,илгьатуй ила,CyrillTrans,stepmother,,,ilhatuy ila,Phonemic
+2-710-35-1,bagv1239,Bagvalal,237,илгьатув има,CyrillTrans,stepfather,,,ilhatuw ima,Phonemic
+2-641-35-1,bagv1239,Bagvalal,2264,вашащуй гьакІуй,CyrillTrans,daughter-in-law (of a woman),,,wašaš̄uy hakʼuy,Phonemic
+2-640-35-1,bagv1239,Bagvalal,2265,вашащуй гьакІуй,CyrillTrans,daughter-in-law (of a man),,,wašaš̄uy hakʼuy,Phonemic
+2-631-35-1,bagv1239,Bagvalal,2266,нуса,CyrillTrans,son-in-law (of a woman),,,nusa,Phonemic
+2-630-35-1,bagv1239,Bagvalal,2267,нуса,CyrillTrans,son-in-law (of a man),,,nusa,Phonemic
+2-621-35-1,bagv1239,Bagvalal,2257,илакьар,CyrillTrans,mother-in-law (of a woman),,,ilaƛ̄ʼar,Phonemic
+2-620-35-1,bagv1239,Bagvalal,2256,илакьар,CyrillTrans,mother-in-law (of a man),,,ilaƛ̄ʼar,Phonemic
+2-611-35-1,bagv1239,Bagvalal,2254,имакьар,CyrillTrans,father-in-law (of a woman),,,imaƛ̄ʼar,Phonemic
+2-610-35-1,bagv1239,Bagvalal,2255,имакьар,CyrillTrans,father-in-law (of a man),,,imaƛ̄ʼar,Phonemic
+2-570-35-1,bagv1239,Bagvalal,490,наслу,CyrillTrans,descendants,,,naslu,Phonemic
+2-560-35-1,bagv1239,Bagvalal,1669,имссби,CyrillTrans,ancestors,,,ims̄bi,Phonemic
+2-550-35-1,bagv1239,Bagvalal,1643,васса̄б,CyrillTrans,cousin,,,"was̄āb, yas̄āb",Phonemic
+2-550-35-3,bagv1239,Bagvalal,1643,йасса̄б,CyrillTrans,cousin,,,"was̄āb, yas̄āb",Phonemic
+2-540-35-1,bagv1239,Bagvalal,1642,вассу йаш,CyrillTrans,niece,,,"was̄uyaš, yas̄uɬ yaš",Phonemic
+2-540-35-3,bagv1239,Bagvalal,1642,йассулъ йаш,CyrillTrans,niece,,,"was̄uyaš, yas̄uɬ yaš",Phonemic
+2-530-35-1,bagv1239,Bagvalal,1063,вассу ваша,CyrillTrans,nephew,,,"was̄u waša, yas̄uɬ waša",Phonemic
+2-530-35-3,bagv1239,Bagvalal,1063,йассулъ ваша,CyrillTrans,nephew,,,"was̄u waša, yas̄uɬ waša",Phonemic
+2-522-35-1,bagv1239,Bagvalal,170,имащуй йасс,CyrillTrans,father's sister,,,imaš̄uy yas̄,Phonemic
+2-520-35-1,bagv1239,Bagvalal,1272,илалъилІ йасс,CyrillTrans,aunt,,,"ilaɬiɬ yas̄, imaš̄uy yas̄",Phonemic
+2-520-35-3,bagv1239,Bagvalal,1272,имащуй йас,CyrillTrans,aunt,,,"ilaɬiɬ yas̄, imaš̄uy yas̄",Phonemic
+2-521-35-1,bagv1239,Bagvalal,171,илалъилъ йасс,CyrillTrans,mother's sister,,,ilaɬiɬ yas̄,Phonemic
+2-512-35-1,bagv1239,Bagvalal,1985,имащув васс,CyrillTrans,father's brother,,,imaš̄uw was̄,Phonemic
+2-511-35-1,bagv1239,Bagvalal,1984,илалъилъ васс,CyrillTrans,mother's brother,,,ilaɬiɬ was̄,Phonemic
+2-510-35-1,bagv1239,Bagvalal,1327,илалъилъ васс,CyrillTrans,uncle,,,"ilaɬiɬ was̄, imašu was̄",Phonemic
+2-510-35-3,bagv1239,Bagvalal,1327,имашу васс,CyrillTrans,uncle,,,"ilaɬiɬ was̄, imašu was̄",Phonemic
+2-480-35-1,bagv1239,Bagvalal,1618,вашащу ваша,CyrillTrans,grandson,,,"wašaš̄u waša, yašɬiɬ waša",Phonemic
+2-480-35-3,bagv1239,Bagvalal,1618,йашлъилъ ваша,CyrillTrans,grandson,,,"wašaš̄u waša, yašɬiɬ waša",Phonemic
+2-490-35-1,bagv1239,Bagvalal,1619,вашащу йаш,CyrillTrans,granddaughter,,,"wašaš̄u yaš, yašɬiɬ yaš",Phonemic
+2-490-35-3,bagv1239,Bagvalal,1619,йашлъилъ йаш,CyrillTrans,granddaughter,,,"wašaš̄u yaš, yašɬiɬ yaš",Phonemic
+2-471-35-1,bagv1239,Bagvalal,907,гьичІай гьакІуй,CyrillTrans,old woman,,,hičʼay hakʼuy,Phonemic
+2-470-35-1,bagv1239,Bagvalal,1496,гьичІайла,CyrillTrans,grandmother,,,hičʼayla,Phonemic
+2-461-35-1,bagv1239,Bagvalal,406,гьичІагьекІва,CyrillTrans,old man,,,"hičʼahekʼʷa, hičʼaw hekʼʷa, waharuhekʼʷa",Phonemic
+2-461-35-3,bagv1239,Bagvalal,406,гьичІав гьекІва,CyrillTrans,old man,,,"hičʼahekʼʷa, hičʼaw hekʼʷa, waharuhekʼʷa",Phonemic
+2-461-35-5,bagv1239,Bagvalal,406,вагьаругьекІва,CyrillTrans,old man,,,"hičʼahekʼʷa, hičʼaw hekʼʷa, waharuhekʼʷa",Phonemic
+2-460-35-1,bagv1239,Bagvalal,1383,гьичІайма,CyrillTrans,grandfather,,,hičʼayma,Phonemic
+2-458-35-1,bagv1239,Bagvalal,1005,къитІа,CyrillTrans,twins,,,qʼitʼa,Phonemic
+2-456-35-1,bagv1239,Bagvalal,1640,васс,CyrillTrans,sibling,,,"was̄, yas̄",Phonemic
+2-456-35-3,bagv1239,Bagvalal,1640,йасс,CyrillTrans,sibling,,,"was̄, yas̄",Phonemic
+2-455-35-1,bagv1239,Bagvalal,1761,мукІуй йасс,CyrillTrans,younger sister,,,mukʼuy yas̄,Phonemic
+2-454-35-1,bagv1239,Bagvalal,1758,гьиᴴчІай йасс,CyrillTrans,older sister,,,hiⁿčʼay yas̄,Phonemic
+2-450-35-1,bagv1239,Bagvalal,1263,йасс,CyrillTrans,sister,,,yas̄,Phonemic
+2-445-35-1,bagv1239,Bagvalal,1760,мукІув васс,CyrillTrans,younger brother,,,mukʼuw was̄,Phonemic
+2-444-35-1,bagv1239,Bagvalal,1759,гьинчІав васс,CyrillTrans,older brother,,,hiⁿčʼaw was̄,Phonemic
+2-440-35-1,bagv1239,Bagvalal,1262,васс,CyrillTrans,brother,,,was̄,Phonemic
+2-430-35-1,bagv1239,Bagvalal,1801,наслу,CyrillTrans,offspring (son or daughter),,,naslu,Phonemic
+2-420-35-1,bagv1239,Bagvalal,1357,йаш,CyrillTrans,daughter,,,yaš,Phonemic
+2-410-35-1,bagv1239,Bagvalal,1620,ваша,CyrillTrans,son,,,waša,Phonemic
+2-390-35-1,bagv1239,Bagvalal,426,кІунтІучІ идай гьакІуй,CyrillTrans,married woman,,,kʼuntʼučʼ iday hakʼuy,Phonemic
+2-380-35-1,bagv1239,Bagvalal,424,гьакІуй йелгьав,CyrillTrans,married man,,,hakʼuy yelhaw,Phonemic
+2-370-35-1,bagv1239,Bagvalal,505,ила-има,CyrillTrans,parents,,,ila-ima,Phonemic
+2-360-35-1,bagv1239,Bagvalal,1216,ила,CyrillTrans,mother,,,ila,Phonemic
+2-350-35-1,bagv1239,Bagvalal,1217,има,CyrillTrans,father,,,ima,Phonemic
+2-341-35-1,bagv1239,Bagvalal,1134,регьен баххар,CyrillTrans,divorce,,,rehen bax̄ar,Phonemic
+2-340-35-1,bagv1239,Bagvalal,1259,бертен,CyrillTrans,"marriage, wedding",,,"berten, rehen, rihin",Phonemic
+2-340-35-3,bagv1239,Bagvalal,1259,регьен,CyrillTrans,"marriage, wedding",,,"berten, rehen, rihin",Phonemic
+2-340-35-5,bagv1239,Bagvalal,1259,ригьин,CyrillTrans,"marriage, wedding",,,"berten, rehen, rihin",Phonemic
+2-330-35-1,bagv1239,Bagvalal,203,куᴴтІула йелъила,CyrillTrans,marry,,,kuⁿtʼula yeɬila,Phonemic
+2-320-35-1,bagv1239,Bagvalal,1199,гьакІуй,CyrillTrans,wife,,,hakʼuy,Phonemic
+2-310-35-1,bagv1239,Bagvalal,1200,уᴴгьекІва,CyrillTrans,husband,,,"uⁿhekʼwa, kuntʼa",Phonemic
+2-310-35-3,bagv1239,Bagvalal,1200,кунтІа,CyrillTrans,husband,,,"uⁿhekʼwa, kuntʼa",Phonemic
+2-280-35-1,bagv1239,Bagvalal,1289,мачІ,CyrillTrans,"infant, baby",,,mačʼ,Phonemic
+2-270-35-1,bagv1239,Bagvalal,1304,мачІ,CyrillTrans,child,,,mačʼ,Phonemic
+2-261-35-1,bagv1239,Bagvalal,77,минагьакІуй,CyrillTrans,young woman (adolescent),,,"minahakʼuy, minčay hakʼuy, yaš",Phonemic
+2-261-35-3,bagv1239,Bagvalal,77,минчай гьакІуй,CyrillTrans,young woman (adolescent),,,"minahakʼuy, minčay hakʼuy, yaš",Phonemic
+2-261-35-5,bagv1239,Bagvalal,77,йаш,CyrillTrans,young woman (adolescent),,,"minahakʼuy, minčay hakʼuy, yaš",Phonemic
+2-260-35-1,bagv1239,Bagvalal,1646,йаш,CyrillTrans,girl,,,"yaš, hakub mačʼ",Phonemic
+2-260-35-3,bagv1239,Bagvalal,1646,гьакуб мачІ,CyrillTrans,girl,,,"yaš, hakub mačʼ",Phonemic
+2-251-35-1,bagv1239,Bagvalal,76,гІолохъан гьекІва,CyrillTrans,young man (adolescent),,,"ʕoloqan hekʼʷa, minčaw hekʼʷa",Phonemic
+2-251-35-3,bagv1239,Bagvalal,76,минчав гьекІва,CyrillTrans,young man (adolescent),,,"ʕoloqan hekʼʷa, minčaw hekʼʷa",Phonemic
+2-250-35-1,bagv1239,Bagvalal,1366,ваша,CyrillTrans,boy,,,"waša, kʼuⁿtʼaw mačʼ",Phonemic
+2-250-35-3,bagv1239,Bagvalal,1366,кІуᴴтІав мачІ,CyrillTrans,boy,,,"waša, kʼuⁿtʼaw mačʼ",Phonemic
+2-240-35-1,bagv1239,Bagvalal,1551,гьакІуб,CyrillTrans,female,,,hakʼub,Phonemic
+2-230-35-1,bagv1239,Bagvalal,1553,куᴴнтІаб,CyrillTrans,male,,,kuⁿntʼab,Phonemic
+2-220-35-1,bagv1239,Bagvalal,962,гьакІуй,CyrillTrans,woman,,,hakʼuy,Phonemic
+2-210-35-1,bagv1239,Bagvalal,1554,гьекІва,CyrillTrans,man (vs. woman),,,hekʼʷa,Phonemic
+2-100-35-1,bagv1239,Bagvalal,683,адам,CyrillTrans,"person, human being",,,adam,Phonemic
+1-890-35-1,bagv1239,Bagvalal,1188,гьаб,CyrillTrans,charcoal,,,hab,Phonemic
+1-880-35-1,bagv1239,Bagvalal,10,гьур,CyrillTrans,firewood,,,hur,Phonemic
+1-870-35-1,bagv1239,Bagvalal,1133,гІучІабатуп,CyrillTrans,match (noun),,,"ʕučʼabatup, ʕučʼ, handaha, tup",Phonemic
+1-870-35-3,bagv1239,Bagvalal,1133,гІучІ,CyrillTrans,match (noun),,,"ʕučʼabatup, ʕučʼ, handaha, tup",Phonemic
+1-870-35-5,bagv1239,Bagvalal,1133,гьандагьа,CyrillTrans,match (noun),,,"ʕučʼabatup, ʕučʼ, handaha, tup",Phonemic
+1-870-35-7,bagv1239,Bagvalal,1133,туп,CyrillTrans,match (noun),,,"ʕučʼabatup, ʕučʼ, handaha, tup",Phonemic
+1-861-35-1,bagv1239,Bagvalal,127,бущайна,CyrillTrans,extinguish,,,buš̄ayna,Phonemic
+1-860-35-1,bagv1239,Bagvalal,737,букайна,CyrillTrans,"light, kindle, ignite",,,"bukayna, pirxidila",Phonemic
+1-860-35-3,bagv1239,Bagvalal,737,пирхидила,CyrillTrans,"light, kindle, ignite",,,"bukayna, pirxidila",Phonemic
+1-852-35-1,bagv1239,Bagvalal,1428,цІагьила,CyrillTrans,burn (vb intrans),,,cʼahila,Phonemic
+1-851-35-1,bagv1239,Bagvalal,141,цІагьила,CyrillTrans,burn (vb trans),,,cʼahila,Phonemic
+1-841-35-1,bagv1239,Bagvalal,67,гьаба,CyrillTrans,embers,,,"haba, čʼitʼ",Phonemic
+1-841-35-3,bagv1239,Bagvalal,67,чІитІ,CyrillTrans,embers,,,"haba, čʼitʼ",Phonemic
+1-840-35-1,bagv1239,Bagvalal,646,кье,CyrillTrans,ashes,,,ƛ̄ʼe,Phonemic
+1-830-35-1,bagv1239,Bagvalal,778,кІуᴴй,CyrillTrans,smoke (noun),,,kʼuⁿy,Phonemic
+1-820-35-1,bagv1239,Bagvalal,889,макІала,CyrillTrans,flame (noun),,,"makʼala, cʼay",Phonemic
+1-820-35-3,bagv1239,Bagvalal,889,цІай,CyrillTrans,flame (noun),,,"makʼala, cʼay",Phonemic
+1-810-35-1,bagv1239,Bagvalal,221,цІай,CyrillTrans,fire,,,cʼay,Phonemic
+1-780-35-1,bagv1239,Bagvalal,952,милгь-сІсІай,CyrillTrans,weather,,,milh-s̄ʼay,Phonemic
+1-770-35-1,bagv1239,Bagvalal,617,зар,CyrillTrans,ice,,,zar,Phonemic
+1-760-35-1,bagv1239,Bagvalal,784,аᴴд,CyrillTrans,snow (noun),,,aⁿd,Phonemic
+1-750-35-1,bagv1239,Bagvalal,658,сІсІай,CyrillTrans,rain (noun),,,s̄ʼay,Phonemic
+1-740-35-1,bagv1239,Bagvalal,249,гьера,CyrillTrans,fog,,,hera,Phonemic
+1-720-35-1,bagv1239,Bagvalal,960,муч,CyrillTrans,wind,,,"muč, hač",Phonemic
+1-720-35-3,bagv1239,Bagvalal,960,гьач,CyrillTrans,wind,,,"muč, hač",Phonemic
+1-730-35-1,bagv1239,Bagvalal,1489,гьера,CyrillTrans,cloud,,,hera,Phonemic
+1-710-35-1,bagv1239,Bagvalal,27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-35-1,bagv1239,Bagvalal,1977,щиб,CyrillTrans,dew,,,š̄ib,Phonemic
+1-630-35-1,bagv1239,Bagvalal,1388,аᴴщв,CyrillTrans,"shade, shadow",,,aⁿš̄ʷ,Phonemic
+1-620-35-1,bagv1239,Bagvalal,11,бесулгьар,CyrillTrans,darkness,,,besulhar,Phonemic
+1-610-35-1,bagv1239,Bagvalal,630,кванчІар,CyrillTrans,light (noun),,,kʷančʼar,Phonemic
+1-590-35-1,bagv1239,Bagvalal,1733,цІабацІи,CyrillTrans,rainbow,,,cʼabacʼi,Phonemic
+1-580-35-1,bagv1239,Bagvalal,858,чеч пудоб муч,CyrillTrans,storm,,,čeč pudob muč,Phonemic
+1-560-35-1,bagv1239,Bagvalal,1150,гъодар,CyrillTrans,thunder,,,ɣodar,Phonemic
+1-570-35-1,bagv1239,Bagvalal,2007,пардакь,CyrillTrans,lightning (as striking),,,pardaƛ̄ʼ,Phonemic
+1-550-35-1,bagv1239,Bagvalal,1654,пардар,CyrillTrans,lightning,,,pardar,Phonemic
+1-540-35-1,bagv1239,Bagvalal,1430,сІсІвара,CyrillTrans,star,,,s̄ʼʷara,Phonemic
+1-530-35-1,bagv1239,Bagvalal,1313,босІсІ,CyrillTrans,moon,,,bos̄ʼ,Phonemic
+1-520-35-1,bagv1239,Bagvalal,1343,милгь,CyrillTrans,sun,,,milh,Phonemic
+1-510-35-1,bagv1239,Bagvalal,1732,решен,CyrillTrans,sky,,,rešen,Phonemic
+1-450-35-1,bagv1239,Bagvalal,6,гъаймиса гьигьвадар,CyrillTrans,earthquake,,,ɣaymisa hihʷadar,Phonemic
+1-440-35-1,bagv1239,Bagvalal,2125,гьинцІа,CyrillTrans,"stone, rock",,,"hincʼa, ƛ̄ʼor",Phonemic
+1-440-35-3,bagv1239,Bagvalal,2125,кьор,CyrillTrans,"stone, rock",,,"hincʼa, ƛ̄ʼor",Phonemic
+1-430-35-1,bagv1239,Bagvalal,1803,гьур,CyrillTrans,wood,,,hur,Phonemic
+1-420-35-1,bagv1239,Bagvalal,906,роша,CyrillTrans,tree (cf 08.600),,,roša,Phonemic
+1-410-35-1,bagv1239,Bagvalal,420,рохь,CyrillTrans,"woods, forest",,,rox̌,Phonemic
+1-390-35-1,bagv1239,Bagvalal,943,лъеᴴ чвадар,CyrillTrans,waterfall,,,"ɬeⁿ čʷadar, ɬ̄eⁿ čʷadōr",Phonemic
+1-390-35-3,bagv1239,Bagvalal,943,лълъеᴴ чвадо̄р,CyrillTrans,waterfall,,,"ɬeⁿ čʷadar, ɬ̄eⁿ čʷadōr",Phonemic
+1-380-35-1,bagv1239,Bagvalal,1145,тусІсІ,CyrillTrans,swamp,,,tus̄ʼ,Phonemic
+1-370-35-1,bagv1239,Bagvalal,2144,иᴴсс,CyrillTrans,"spring, well",,,"iⁿs̄, ɣuy",Phonemic
+1-370-35-3,bagv1239,Bagvalal,2144,гъуй,CyrillTrans,"spring, well",,,"iⁿs̄, ɣuy",Phonemic
+1-362-35-1,bagv1239,Bagvalal,1982,лъеᴴлъ свардар,CyrillTrans,whirlpool,,,ɬeⁿɬ sʷardar,Phonemic
+1-360-35-1,bagv1239,Bagvalal,666,иᴴхх,CyrillTrans,"river, stream, brook",,,iⁿx̄,Phonemic
+1-350-35-1,bagv1239,Bagvalal,978,кара̄чел,CyrillTrans,wave,,,karāčel,Phonemic
+1-330-35-1,bagv1239,Bagvalal,624,илгьа,CyrillTrans,lake,,,ilha,Phonemic
+1-329-35-1,bagv1239,Bagvalal,645,акиан,CyrillTrans,ocean,,,akian,Phonemic
+1-324-35-1,bagv1239,Bagvalal,1768,палв,CyrillTrans,foam,,,palʷ,Phonemic
+1-323-35-1,bagv1239,Bagvalal,259,гьалагаб,CyrillTrans,rough (of sea),,,halagab,Phonemic
+1-320-35-1,bagv1239,Bagvalal,1474,релгьа,CyrillTrans,sea,,,relha,Phonemic
+1-322-35-1,bagv1239,Bagvalal,258,хІащІар бещдуб,CyrillTrans,calm (of sea),,,ħašʼar beš̄dub,Phonemic
+1-310-35-1,bagv1239,Bagvalal,948,лълъеᴴ,CyrillTrans,water,,,ɬ̄eⁿ,Phonemic
+1-280-35-1,bagv1239,Bagvalal,1155,рущІа,CyrillTrans,cave,,,rušʼa,Phonemic
+1-270-35-1,bagv1239,Bagvalal,113,гьесcабалалъа,CyrillTrans,shore,,,"hes̄abalaɬa, relhalbala, relhaɬbala",Phonemic
+1-270-35-3,bagv1239,Bagvalal,113,релгьалбала,CyrillTrans,shore,,,"hes̄abalaɬa, relhalbala, relhaɬbala",Phonemic
+1-270-35-5,bagv1239,Bagvalal,113,релгьалъбала,CyrillTrans,shore,,,"hes̄abalaɬa, relhalbala, relhaɬbala",Phonemic
+1-260-35-1,bagv1239,Bagvalal,166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-35-1,bagv1239,Bagvalal,622,кьуᴴлІимакІва,CyrillTrans,island,,,ƛ̄ʼuⁿƛimakʼʷa,Phonemic
+1-240-35-1,bagv1239,Bagvalal,921,бала,CyrillTrans,valley,,,bala,Phonemic
+1-230-35-1,bagv1239,Bagvalal,652,гьуᴴша,CyrillTrans,"plain, field",,,huⁿša,Phonemic
+1-222-35-1,bagv1239,Bagvalal,618,мищ,CyrillTrans,"cliff, precipice",,,"miš̄, ƛ̄ʼor, pars̄",Phonemic
+1-222-35-3,bagv1239,Bagvalal,618,кьор,CyrillTrans,"cliff, precipice",,,"miš̄, ƛ̄ʼor, pars̄",Phonemic
+1-222-35-5,bagv1239,Bagvalal,618,парсc,CyrillTrans,"cliff, precipice",,,"miš̄, ƛ̄ʼor, pars̄",Phonemic
+1-220-35-1,bagv1239,Bagvalal,2118,беса,CyrillTrans,"mountain, hill",,,"besa, ɣol",Phonemic
+1-220-35-3,bagv1239,Bagvalal,2118,гъол,CyrillTrans,"mountain, hill",,,"besa, ɣol",Phonemic
+1-214-35-1,bagv1239,Bagvalal,640,гъиз,CyrillTrans,mud,,,"ɣiz, šʷab",Phonemic
+1-214-35-3,bagv1239,Bagvalal,640,щІаб,CyrillTrans,mud,,,"ɣiz, šʷab",Phonemic
+1-215-35-1,bagv1239,Bagvalal,671,селв,CyrillTrans,sand,,,"selw, sel",Phonemic
+1-215-35-3,bagv1239,Bagvalal,671,сел,CyrillTrans,sand,,,"selw, sel",Phonemic
+1-213-35-1,bagv1239,Bagvalal,2,дара,CyrillTrans,dust,,,dara,Phonemic
+1-212-35-1,bagv1239,Bagvalal,1228,уᴴщ,CyrillTrans,"earth=ground, soil",,,uⁿš̄,Phonemic
+1-210-35-1,bagv1239,Bagvalal,626,хІукумат,CyrillTrans,"earth, land",,,"ħukumat, ulka",Phonemic
+1-210-35-3,bagv1239,Bagvalal,626,улка,CyrillTrans,"earth, land",,,"ħukumat, ulka",Phonemic
+1-100-35-1,bagv1239,Bagvalal,965,дунел,CyrillTrans,world,,,dunel,Phonemic
+14-330-35-1,bagv1239,Bagvalal,1544,эру(б)къалъир,CyrillTrans,sometimes,,,eru(b)qʼaɬir,Phonemic
+14-331-35-1,bagv1239,Bagvalal,703,кватІидичІидабо,CyrillTrans,soon,,,kʷatʼidičʼidabo,Phonemic
+14-332-35-1,bagv1239,Bagvalal,418,джангуб къарлъилъ,CyrillTrans,long-time (for a),,,ǯangub qʼarɬiɬ,Phonemic
+14-340-35-1,bagv1239,Bagvalal,1656,индагІагила,CyrillTrans,never,,,indaʕagila,Phonemic
+14-350-35-1,bagv1239,Bagvalal,204,йереселъирла,CyrillTrans,again,,,"yereseɬirla, cʼidasan",Phonemic
+14-350-35-3,bagv1239,Bagvalal,204,цІидасан,CyrillTrans,again,,,"yereseɬirla, cʼidasan",Phonemic
+14-410-35-1,bagv1239,Bagvalal,1225,зеб,CyrillTrans,day,,,zeb,Phonemic
+14-420-35-1,bagv1239,Bagvalal,1233,релгьа,CyrillTrans,night,,,relha,Phonemic
+14-430-35-1,bagv1239,Bagvalal,729,кваᴴлгьар,CyrillTrans,dawn,,,kʷaⁿlhar,Phonemic
+14-440-35-1,bagv1239,Bagvalal,1339,рагьалІи къар,CyrillTrans,morning,,,"rahaƛi qʼar, rahallar",Phonemic
+14-440-35-3,bagv1239,Bagvalal,1339,рагьаллар,CyrillTrans,morning,,,"rahaƛi qʼar, rahallar",Phonemic
+14-450-35-1,bagv1239,Bagvalal,12,кьеб,CyrillTrans,"noon, midday",,,ƛ̄ʼeb,Phonemic
+14-451-35-1,bagv1239,Bagvalal,1807,кьебалиссе кьеб кьурдибогье,CyrillTrans,afternoon,,,ƛ̄ʼebalis̄e ƛ̄ʼeb ƛ̄ʼurdibohe,Phonemic
+14-460-35-1,bagv1239,Bagvalal,1629,регьерах къар,CyrillTrans,evening,,,"reherax qʼar, makʼačʼu qʼar",Phonemic
+14-460-35-3,bagv1239,Bagvalal,1629,макІачІу къар,CyrillTrans,evening,,,"reherax qʼar, makʼačʼu qʼar",Phonemic
+14-470-35-1,bagv1239,Bagvalal,1283,эгьели,CyrillTrans,today,,,eheli,Phonemic
+14-480-35-1,bagv1239,Bagvalal,1329,щвала,CyrillTrans,tomorrow,,,š̄ʷala,Phonemic
+14-481-35-1,bagv1239,Bagvalal,1179,сай,CyrillTrans,day-after-tomorrow,,,say,Phonemic
+14-490-35-1,bagv1239,Bagvalal,1174,суни,CyrillTrans,yesterday,,,suni,Phonemic
+14-491-35-1,bagv1239,Bagvalal,1180,ссерол,CyrillTrans,day-before-yesterday,,,s̄erol,Phonemic
+14-510-35-1,bagv1239,Bagvalal,1353,ссагІат,CyrillTrans,hour,,,s̄aʕat,Phonemic
+14-530-35-1,bagv1239,Bagvalal,1323,ссагІат,CyrillTrans,"clock, timepiece",,,s̄aʕat,Phonemic
+14-610-35-1,bagv1239,Bagvalal,1469,гьакьв,CyrillTrans,week,,,haƛ̄ʼʷ,Phonemic
+14-620-35-1,bagv1239,Bagvalal,1699,гьатІан(зеб),CyrillTrans,Sunday,,,hatʼan(zeb),Phonemic
+14-630-35-1,bagv1239,Bagvalal,1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-35-1,bagv1239,Bagvalal,1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-35-1,bagv1239,Bagvalal,1694,арбагІ,CyrillTrans,Wednesday,,,arbaʕ,Phonemic
+14-660-35-1,bagv1239,Bagvalal,1693,хамиз,CyrillTrans,Thursday,,,xamiz,Phonemic
+14-670-35-1,bagv1239,Bagvalal,1692,рузман,CyrillTrans,Friday,,,ruzman,Phonemic
+14-680-35-1,bagv1239,Bagvalal,1700,шамат,CyrillTrans,Saturday,,,šamat,Phonemic
+14-710-35-1,bagv1239,Bagvalal,1370,босІсІ,CyrillTrans,month,,,bos̄ʼ,Phonemic
+14-730-35-1,bagv1239,Bagvalal,1226,реш,CyrillTrans,year,,,reš,Phonemic
+14-740-35-1,bagv1239,Bagvalal,1471,ссибар,CyrillTrans,winter,,,s̄ibar,Phonemic
+14-750-35-1,bagv1239,Bagvalal,1537,реб,CyrillTrans,spring,,,reb,Phonemic
+14-760-35-1,bagv1239,Bagvalal,1342,къин,CyrillTrans,summer,,,qʼin,Phonemic
+14-770-35-1,bagv1239,Bagvalal,1276,сибаллар,CyrillTrans,autumn,,,"siballar, hinibahʷarƛi",Phonemic
+14-770-35-3,bagv1239,Bagvalal,1276,гьинибагьварлІи,CyrillTrans,autumn,,,"siballar, hinibahʷarƛi",Phonemic
+14-780-35-1,bagv1239,Bagvalal,691,замана,CyrillTrans,season,,,zamana,Phonemic
+15-210-35-1,bagv1239,Bagvalal,1587,гьваᴴй бела,CyrillTrans,smell (vb intrans),,,hʷaⁿy bela,Phonemic
+15-212-35-1,bagv1239,Bagvalal,375,гьунила,CyrillTrans,sniff,,,hunila,Phonemic
+15-220-35-1,bagv1239,Bagvalal,1586,гьунила,CyrillTrans,smell (vb trans),,,hunila,Phonemic
+15-250-35-1,bagv1239,Bagvalal,376,гьо̄б гьваᴴй,CyrillTrans,"fragrant, good smelling",,,hōb hʷaⁿy,Phonemic
+15-260-35-1,bagv1239,Bagvalal,42,гьваᴴлІуб гьваᴴй,CyrillTrans,"stinking, bad smelling",,,hʷaⁿƛub hʷaⁿy,Phonemic
+15-310-35-1,bagv1239,Bagvalal,21,тІагІам,CyrillTrans,taste,,,tʼaʕam,Phonemic
+15-350-35-1,bagv1239,Bagvalal,717,мисІсІаб,CyrillTrans,sweet,,,mis̄ʼab,Phonemic
+15-360-35-1,bagv1239,Bagvalal,1091,сІсІиᴴгьаб,CyrillTrans,salty,,,s̄ʼiⁿhab,Phonemic
+15-370-35-1,bagv1239,Bagvalal,887,букьуб,CyrillTrans,bitter,,,buƛ̄ʼub,Phonemic
+15-380-35-1,bagv1239,Bagvalal,1906,сІсІикІуб,CyrillTrans,"acid, sour",,,s̄ʼikʼub,Phonemic
+15-390-35-1,bagv1239,Bagvalal,70,мукІубда сІсІиᴴгьаб,CyrillTrans,brackish,,,mukʼubda s̄ʼiⁿhab,Phonemic
+15-410-35-1,bagv1239,Bagvalal,1408,алгьина,CyrillTrans,hear,,,alhina,Phonemic
+15-420-35-1,bagv1239,Bagvalal,1608,аштила,CyrillTrans,listen,,,aštila,Phonemic
+15-440-35-1,bagv1239,Bagvalal,1811,хІащІв,CyrillTrans,"sound, noise",,,"ħašʼʷ, quy, sas",Phonemic
+15-440-35-3,bagv1239,Bagvalal,1811,хъуй,CyrillTrans,"sound, noise",,,"ħašʼʷ, quy, sas",Phonemic
+15-440-35-5,bagv1239,Bagvalal,1811,сас,CyrillTrans,"sound, noise",,,"ħašʼʷ, quy, sas",Phonemic
+15-450-35-1,bagv1239,Bagvalal,377,борхидуб хІащІв,CyrillTrans,loud,,,"borxidub ħašʼw, hičʼab",Phonemic
+15-450-35-3,bagv1239,Bagvalal,377,гьичІаб,CyrillTrans,loud,,,"borxidub ħašʼw, hičʼab",Phonemic
+15-460-35-1,bagv1239,Bagvalal,1314,инлІахаб,CyrillTrans,"quiet, silence",,,inƛaxab,Phonemic
+15-510-35-1,bagv1239,Bagvalal,1409,гьайна,CyrillTrans,see,,,hayna,Phonemic
+15-520-35-1,bagv1239,Bagvalal,1819,вичІина,CyrillTrans,"look, look at",,,wičʼina,Phonemic
+15-550-35-1,bagv1239,Bagvalal,1039,гьанила,CyrillTrans,show,,,hanila,Phonemic
+15-560-35-1,bagv1239,Bagvalal,708,кванчІар букуна,CyrillTrans,shine,,,kʷančʼar bukuna,Phonemic
+15-570-35-1,bagv1239,Bagvalal,679,лагь-лагьидоб,CyrillTrans,bright,,,"lah-lahidob, gʷaⁿɣidub, zirx̄idub, kʷaⁿčʼab, lix̄idub",Phonemic
+15-570-35-3,bagv1239,Bagvalal,679,гваᴴгъидуб,CyrillTrans,bright,,,"lah-lahidob, gʷaⁿɣidub, zirx̄idub, kʷaⁿčʼab, lix̄idub",Phonemic
+15-570-35-5,bagv1239,Bagvalal,679,зирххидуб,CyrillTrans,bright,,,"lah-lahidob, gʷaⁿɣidub, zirx̄idub, kʷaⁿčʼab, lix̄idub",Phonemic
+15-570-35-7,bagv1239,Bagvalal,679,кваᴴчІаб,CyrillTrans,bright,,,"lah-lahidob, gʷaⁿɣidub, zirx̄idub, kʷaⁿčʼab, lix̄idub",Phonemic
+15-570-35-9,bagv1239,Bagvalal,679,лиххидуб,CyrillTrans,bright,,,"lah-lahidob, gʷaⁿɣidub, zirx̄idub, kʷaⁿčʼab, lix̄idub",Phonemic
+15-610-35-1,bagv1239,Bagvalal,1613,кьер,CyrillTrans,color,,,ƛ̄ʼer,Phonemic
+15-620-35-1,bagv1239,Bagvalal,250,кІванчІаб,CyrillTrans,light (in color),,,kʼʷančʼab,Phonemic
+15-630-35-1,bagv1239,Bagvalal,706,бессуб,CyrillTrans,dark (in color),,,bes̄ub,Phonemic
+15-640-35-1,bagv1239,Bagvalal,1335,гьацІаб,CyrillTrans,white,,,hacʼab,Phonemic
+15-650-35-1,bagv1239,Bagvalal,163,бечІетІуб,CyrillTrans,black,,,bečʼetʼub,Phonemic
+15-660-35-1,bagv1239,Bagvalal,156,щищуб,CyrillTrans,red,,,š̄iš̄ub,Phonemic
+15-670-35-1,bagv1239,Bagvalal,837,хъайлъ,CyrillTrans,blue,,,"qayɬ, rešenƛ̄ʼerab",Phonemic
+15-670-35-3,bagv1239,Bagvalal,837,решенкьераб,CyrillTrans,blue,,,"qayɬ, rešenƛ̄ʼerab",Phonemic
+15-680-35-1,bagv1239,Bagvalal,1425,жимагІачуб,CyrillTrans,green,,,"žimaʕačub, sindaʕačub",Phonemic
+15-680-35-3,bagv1239,Bagvalal,1425,синдагІачуб,CyrillTrans,green,,,"žimaʕačub, sindaʕačub",Phonemic
+15-690-35-1,bagv1239,Bagvalal,1424,гІачуб,CyrillTrans,yellow,,,"ʕačub, dabaɣihuraɬis̄",Phonemic
+15-690-35-3,bagv1239,Bagvalal,1424,дабагъигьуралъисс,CyrillTrans,yellow,,,"ʕačub, dabaɣihuraɬis̄",Phonemic
+15-710-35-1,bagv1239,Bagvalal,1892,билълъила,CyrillTrans,touch,,,"biɬ̄ila, lela biɬ̄ayla",Phonemic
+15-710-35-3,bagv1239,Bagvalal,1892,лела билълъайла,CyrillTrans,touch,,,"biɬ̄ila, lela biɬ̄ayla",Phonemic
+15-712-35-1,bagv1239,Bagvalal,378,сІинтІудайла,CyrillTrans,pinch,,,sʼintʼudayla,Phonemic
+15-720-35-1,bagv1239,Bagvalal,1079,бӣла,CyrillTrans,feel,,,bīla,Phonemic
+15-740-35-1,bagv1239,Bagvalal,1884,къакъатІуб,CyrillTrans,hard,,,qʼaqʼatʼub,Phonemic
+15-750-35-1,bagv1239,Bagvalal,1856,табаб,CyrillTrans,soft,,,tabab,Phonemic
+15-760-35-1,bagv1239,Bagvalal,1923,хъачІуб,CyrillTrans,rough,,,qačʼub,Phonemic
+15-770-35-1,bagv1239,Bagvalal,1234,ламидуб,CyrillTrans,smooth,,,"lamidub, rahadub",Phonemic
+15-770-35-3,bagv1239,Bagvalal,1234,рагьадуб,CyrillTrans,smooth,,,"lamidub, rahadub",Phonemic
+15-780-35-1,bagv1239,Bagvalal,1396,багІаб,CyrillTrans,sharp,,,"baʕab, s̄ʼumub",Phonemic
+15-780-35-3,bagv1239,Bagvalal,1396,сІсІумуб,CyrillTrans,sharp,,,"baʕab, s̄ʼumub",Phonemic
+15-790-35-1,bagv1239,Bagvalal,379,гъвантІуб,CyrillTrans,"blunt, dull",,,ɣʷantʼub,Phonemic
+15-810-35-1,bagv1239,Bagvalal,1210,хІащІибаб,CyrillTrans,heavy,,,ħašʼibab,Phonemic
+15-820-35-1,bagv1239,Bagvalal,1052,папаб,CyrillTrans,light (in weight),,,papab,Phonemic
+15-830-35-1,bagv1239,Bagvalal,1726,эᴴхъаб,CyrillTrans,"wet, damp",,,eⁿqab,Phonemic
+15-840-35-1,bagv1239,Bagvalal,1398,бекъуб,CyrillTrans,dry,,,beqʼub,Phonemic
+15-850-35-1,bagv1239,Bagvalal,1286,цІагьийоб,CyrillTrans,hot,,,cʼahiyob,Phonemic
+15-851-35-1,bagv1239,Bagvalal,1232,аᴴсаб,CyrillTrans,warm,,,aⁿsab,Phonemic
+15-860-35-1,bagv1239,Bagvalal,1287,задуб,CyrillTrans,cold,,,zadub,Phonemic
+15-870-35-1,bagv1239,Bagvalal,704,басІсІараб,CyrillTrans,clean,,,bas̄ʼarab,Phonemic
+15-880-35-1,bagv1239,Bagvalal,1230,хъӯб,CyrillTrans,"dirty, soiled",,,qūb,Phonemic
+15-890-35-1,bagv1239,Bagvalal,380,ххвануб,CyrillTrans,wrinkled,,,x̄ʷanub,Phonemic
+16-110-35-1,bagv1239,Bagvalal,53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-35-1,bagv1239,Bagvalal,1572,гьанатІувуххув,CyrillTrans,"surprised, astonished",,,hanatʼuwux̄uw,Phonemic
+16-180-35-1,bagv1239,Bagvalal,720,битІ букар,CyrillTrans,"good fortune, luck",,,"bitʼ bukar, bitʼar",Phonemic
+16-180-35-3,bagv1239,Bagvalal,720,битІар,CyrillTrans,"good fortune, luck",,,"bitʼ bukar, bitʼar",Phonemic
+16-190-35-1,bagv1239,Bagvalal,56,битІичІар,CyrillTrans,"misfortune, bad luck",,,bitʼičʼar,Phonemic
+16-230-35-1,bagv1239,Bagvalal,1495,виххув,CyrillTrans,"joyful, glad, happy",,,wix̄uw,Phonemic
+16-250-35-1,bagv1239,Bagvalal,1355,гьагьадила,CyrillTrans,laugh,,,hahadila,Phonemic
+16-251-35-1,bagv1239,Bagvalal,1451,жидила,CyrillTrans,smile,,,židila,Phonemic
+16-260-35-1,bagv1239,Bagvalal,1413,кІашдила,CyrillTrans,play,,,kʼašdila,Phonemic
+16-270-35-1,bagv1239,Bagvalal,923,гьелалгьила,CyrillTrans,love,,,helalhila,Phonemic
+16-290-35-1,bagv1239,Bagvalal,578,обба джила,CyrillTrans,kiss,,,obba ǯila,Phonemic
+16-300-35-1,bagv1239,Bagvalal,928,джарв бищила,CyrillTrans,embrace,,,ǯarʷ biš̄ila,Phonemic
+16-310-35-1,bagv1239,Bagvalal,1783,гьалар,CyrillTrans,pain,,,"halar, halalar",Phonemic
+16-310-35-3,bagv1239,Bagvalal,1783,гьалалар,CyrillTrans,pain,,,"halar, halalar",Phonemic
+16-320-35-1,bagv1239,Bagvalal,1668,ургъил,CyrillTrans,"grief, sorrow, sadness",,,urɣil,Phonemic
+16-330-35-1,bagv1239,Bagvalal,1000,ургъил букар,CyrillTrans,"anxiety, worry",,,urɣil bukar,Phonemic
+16-340-35-1,bagv1239,Bagvalal,1875,ракІвакългьила,CyrillTrans,"regret, be sorry",,,rakʼʷaqʼlhila,Phonemic
+16-350-35-1,bagv1239,Bagvalal,1141,гурхІидар,CyrillTrans,pity,,,gurħidar,Phonemic
+16-370-35-1,bagv1239,Bagvalal,1839,хІимхІела,CyrillTrans,"cry, weep",,,ħimħela,Phonemic
+16-380-35-1,bagv1239,Bagvalal,1651,магІа,CyrillTrans,tear (noun),,,maʕa,Phonemic
+16-390-35-1,bagv1239,Bagvalal,716,уᴴгьдила,CyrillTrans,groan,,,uⁿhdila,Phonemic
+16-410-35-1,bagv1239,Bagvalal,1607,гьитІалгьила,CyrillTrans,hate,,,hitʼalhila,Phonemic
+16-420-35-1,bagv1239,Bagvalal,82,ссим бахъидар,CyrillTrans,anger,,,s̄im baqidar,Phonemic
+16-440-35-1,bagv1239,Bagvalal,40,ракІва къасандар,CyrillTrans,"envy, jealousy",,,rakʼʷa qʼasandar,Phonemic
+16-450-35-1,bagv1239,Bagvalal,1776,сулалгьар,CyrillTrans,shame (noun),,,sulalhar,Phonemic
+16-480-35-1,bagv1239,Bagvalal,174,чІухІидуб,CyrillTrans,proud,,,čʼuħidub,Phonemic
+16-510-35-1,bagv1239,Bagvalal,1779,къвакІидув адам,CyrillTrans,dare,,,qʼʷakʼiduw adam,Phonemic
+16-520-35-1,bagv1239,Bagvalal,3,кьантІав,CyrillTrans,brave,,,ƛ̄ʼantʼaw,Phonemic
+16-530-35-1,bagv1239,Bagvalal,781,гьедар,CyrillTrans,"fear, fright",,,hedar,Phonemic
+16-540-35-1,bagv1239,Bagvalal,1810,гьедар букІар,CyrillTrans,danger,,,hedar bukʼar,Phonemic
+16-620-35-1,bagv1239,Bagvalal,1784,къоᴴчар,CyrillTrans,"desire, want",,,qʼoⁿčar,Phonemic
+16-622-35-1,bagv1239,Bagvalal,1750,бищидила,CyrillTrans,choose,,,biš̄idila,Phonemic
+16-630-35-1,bagv1239,Bagvalal,1092,божуво вукІула,CyrillTrans,hope,,,"božuwo wukʼula, ħul bukʼula",Phonemic
+16-630-35-3,bagv1239,Bagvalal,1092,хІул букІула,CyrillTrans,hope,,,"božuwo wukʼula, ħul bukʼula",Phonemic
+16-650-35-1,bagv1239,Bagvalal,100,божар идав,CyrillTrans,faithful,,,božar idaw,Phonemic
+16-660-35-1,bagv1239,Bagvalal,1657,унго-унгойаб,CyrillTrans,true,,,"ungo-ungoyab, ungadas",Phonemic
+16-660-35-3,bagv1239,Bagvalal,1657,унгадас,CyrillTrans,true,,,"ungo-ungoyab, ungadas",Phonemic
+16-670-35-1,bagv1239,Bagvalal,601,гьанчІуб басина,CyrillTrans,"lie, tell lies",,,hančʼub basina,Phonemic
+16-680-35-1,bagv1239,Bagvalal,13,масхъарала вищила,CyrillTrans,deceit,,,masqarala wiš̄ila,Phonemic
+16-690-35-1,bagv1239,Bagvalal,1528,агьис велъила,CyrillTrans,forgive,,,ahis weɬila,Phonemic
+16-710-35-1,bagv1239,Bagvalal,1035,гьо̄б,CyrillTrans,good,,,hōb,Phonemic
+16-720-35-1,bagv1239,Bagvalal,1292,чІечІуб,CyrillTrans,bad,,,čʼečʼub,Phonemic
+16-730-35-1,bagv1239,Bagvalal,1725,битІуб,CyrillTrans,"right, correct",,,"bitʼub, ritʼuqab",Phonemic
+16-730-35-3,bagv1239,Bagvalal,1725,ритІухъаб,CyrillTrans,"right, correct",,,"bitʼub, ritʼuqab",Phonemic
+16-740-35-1,bagv1239,Bagvalal,1390,мекъаб,CyrillTrans,wrong,,,meqʼab,Phonemic
+16-760-35-1,bagv1239,Bagvalal,134,гІайббукар,CyrillTrans,fault,,,ʕaybbukar,Phonemic
+16-770-35-1,bagv1239,Bagvalal,1293,гъалатІ,CyrillTrans,"mistake, error",,,ɣalatʼ,Phonemic
+16-780-35-1,bagv1239,Bagvalal,381,гІайбджила,CyrillTrans,blame,,,ʕaybǯila,Phonemic
+16-790-35-1,bagv1239,Bagvalal,1687,вессессила,CyrillTrans,praise,,,wes̄es̄ila,Phonemic
+16-810-35-1,bagv1239,Bagvalal,1427,беценаб,CyrillTrans,beautiful,,,becenab,Phonemic
+16-820-35-1,bagv1239,Bagvalal,1548,куситуб,CyrillTrans,ugly,,,"kusitub, kusiqʼub",Phonemic
+16-820-35-3,bagv1239,Bagvalal,1548,кусикъуб,CyrillTrans,ugly,,,"kusitub, kusiqʼub",Phonemic
+16-830-35-1,bagv1239,Bagvalal,2018,хъванув,CyrillTrans,greedy,,,qʷanuw,Phonemic
+16-840-35-1,bagv1239,Bagvalal,1310,гьегьергъванув,CyrillTrans,clever,,,heherɣʷanuw,Phonemic
+17-110-35-1,bagv1239,Bagvalal,1562,гьай,CyrillTrans,mind,,,hay,Phonemic
+17-130-35-1,bagv1239,Bagvalal,1415,пикру джила,CyrillTrans,think (= reflect),,,pikru ǯila,Phonemic
+17-140-35-1,bagv1239,Bagvalal,1513,бисІсІина,CyrillTrans,think (= be of the opinion),,,bis̄ʼina,Phonemic
+17-150-35-1,bagv1239,Bagvalal,1890,божила,CyrillTrans,believe,,,božila,Phonemic
+17-160-35-1,bagv1239,Bagvalal,1536,булгьуна,CyrillTrans,understand,,,bulhuna,Phonemic
+17-170-35-1,bagv1239,Bagvalal,1410,бӣла,CyrillTrans,know,,,bīla,Phonemic
+17-171-35-1,bagv1239,Bagvalal,1932,цІванила,CyrillTrans,guess,,,cʼʷanila,Phonemic
+17-172-35-1,bagv1239,Bagvalal,117,гьекІуб джила,CyrillTrans,imitate,,,hekʼub ǯila,Phonemic
+17-180-35-1,bagv1239,Bagvalal,1521,цІванила,CyrillTrans,seem,,,cʼʷanila,Phonemic
+17-190-35-1,bagv1239,Bagvalal,1609,пикру,CyrillTrans,"idea, notion",,,pikru,Phonemic
+17-210-35-1,bagv1239,Bagvalal,698,гІакъилаб,CyrillTrans,wise,,,ʕaqʼilab,Phonemic
+17-220-35-1,bagv1239,Bagvalal,1518,гьагаб,CyrillTrans,"foolish, stupid",,,"hagab, ʕadalub, pikrotub",Phonemic
+17-220-35-3,bagv1239,Bagvalal,1518,гІадалуб,CyrillTrans,"foolish, stupid",,,"hagab, ʕadalub, pikrotub",Phonemic
+17-220-35-5,bagv1239,Bagvalal,1518,пикротуб,CyrillTrans,"foolish, stupid",,,"hagab, ʕadalub, pikrotub",Phonemic
+17-230-35-1,bagv1239,Bagvalal,1899,гІадалуб,CyrillTrans,"insane, crazy",,,ʕadalub,Phonemic
+17-240-35-1,bagv1239,Bagvalal,504,бӣла,CyrillTrans,learn,,,bīla,Phonemic
+17-242-35-1,bagv1239,Bagvalal,1929,сІсІалгьидила,CyrillTrans,study,,,s̄ʼalhidila,Phonemic
+17-250-35-1,bagv1239,Bagvalal,709,малъила,CyrillTrans,teach,,,maɬila,Phonemic
+17-260-35-1,bagv1239,Bagvalal,753,бетегІин,CyrillTrans,pupil,,,"beteʕin, mutaʕil, s̄ʼaldoqaⁿ",Phonemic
+17-260-35-3,bagv1239,Bagvalal,753,мутагІил,CyrillTrans,pupil,,,"beteʕin, mutaʕil, s̄ʼaldoqaⁿ",Phonemic
+17-260-35-5,bagv1239,Bagvalal,753,сІсІалдохъаᴴ,CyrillTrans,pupil,,,"beteʕin, mutaʕil, s̄ʼaldoqaⁿ",Phonemic
+17-270-35-1,bagv1239,Bagvalal,1038,устар,CyrillTrans,teacher,,,"ustar, muʕalim",Phonemic
+17-270-35-3,bagv1239,Bagvalal,1038,мугІалим,CyrillTrans,teacher,,,"ustar, muʕalim",Phonemic
+17-280-35-1,bagv1239,Bagvalal,673,мадраса,CyrillTrans,school,,,"madrasa, iškol",Phonemic
+17-280-35-3,bagv1239,Bagvalal,673,ишкол,CyrillTrans,school,,,"madrasa, iškol",Phonemic
+17-310-35-1,bagv1239,Bagvalal,707,ракІвачІ букІула,CyrillTrans,remember,,,rakʼʷačʼ bukʼula,Phonemic
+17-320-35-1,bagv1239,Bagvalal,1523,бечичила,CyrillTrans,forget,,,bečičila,Phonemic
+17-340-35-1,bagv1239,Bagvalal,989,ритІуб,CyrillTrans,"clear, plain",,,"ritʼub, bulhunob",Phonemic
+17-340-35-3,bagv1239,Bagvalal,989,булгьуноб,CyrillTrans,"clear, plain",,,"ritʼub, bulhunob",Phonemic
+17-350-35-1,bagv1239,Bagvalal,1764,булгьанчІуб,CyrillTrans,obscure,,,bulhančʼub,Phonemic
+17-360-35-1,bagv1239,Bagvalal,1121,балъголгьар,CyrillTrans,secret,,,baɬgolhar,Phonemic
+17-370-35-1,bagv1239,Bagvalal,509,ракІва щІедув,CyrillTrans,"sure, certain",,,rakʼʷa šʼeduw,Phonemic
+17-380-35-1,bagv1239,Bagvalal,1626,малълъила,CyrillTrans,explain,,,maɬ̄ila,Phonemic
+17-410-35-1,bagv1239,Bagvalal,1162,мурад,CyrillTrans,"intention, purpose",,,murad,Phonemic
+17-420-35-1,bagv1239,Bagvalal,860,гІилла,CyrillTrans,cause,,,"ʕilla, bahana",Phonemic
+17-420-35-3,bagv1239,Bagvalal,860,багьана,CyrillTrans,cause,,,"ʕilla, bahana",Phonemic
+17-430-35-1,bagv1239,Bagvalal,1308,ишкал,CyrillTrans,doubt,,,"iškal, was-was",Phonemic
+17-430-35-3,bagv1239,Bagvalal,1308,вас-вас,CyrillTrans,doubt,,,"iškal, was-was",Phonemic
+17-440-35-1,bagv1239,Bagvalal,1841,щакидила,CyrillTrans,suspect,,,š̄akidila,Phonemic
+17-441-35-1,bagv1239,Bagvalal,1902,хийанатлгьила,CyrillTrans,betray,,,xiyanatlhila,Phonemic
+17-450-35-1,bagv1239,Bagvalal,643,белъар,CyrillTrans,"need, necessity",,,"beɬar, ħažalhar",Phonemic
+17-450-35-3,bagv1239,Bagvalal,643,хІажалгьар,CyrillTrans,"need, necessity",,,"beɬar, ħažalhar",Phonemic
+17-460-35-1,bagv1239,Bagvalal,686,бигье̄с,CyrillTrans,easy,,,bihēs,Phonemic
+17-470-35-1,bagv1239,Bagvalal,584,захІматаб,CyrillTrans,difficult,,,zaħmatab,Phonemic
+17-480-35-1,bagv1239,Bagvalal,1812,хІал бихьидар,CyrillTrans,"try, attempt",,,ħal bix̌idar,Phonemic
+17-490-35-1,bagv1239,Bagvalal,488,къагІида,CyrillTrans,"way, manner",,,qʼaʕida,Phonemic
+17-510-35-1,bagv1239,Bagvalal,1577,ва,CyrillTrans,and,,,"wa, -la",Phonemic
+17-510-35-3,bagv1239,Bagvalal,1577,-ла,CyrillTrans,and,,,"wa, -la",Phonemic
+17-520-35-1,bagv1239,Bagvalal,1157,эбакьадира,CyrillTrans,because,,,"ebaƛ̄ʼadira, ebali, heƛ̄ʼadira",Phonemic
+17-520-35-3,bagv1239,Bagvalal,1157,эбали,CyrillTrans,because,,,"ebaƛ̄ʼadira, ebali, heƛ̄ʼadira",Phonemic
+17-520-35-5,bagv1239,Bagvalal,1157,гьекьадира,CyrillTrans,because,,,"ebaƛ̄ʼadira, ebali, heƛ̄ʼadira",Phonemic
+17-530-35-1,bagv1239,Bagvalal,1459,нагагь,CyrillTrans,if,,,nagah,Phonemic
+17-540-35-1,bagv1239,Bagvalal,1014,йа,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-540-35-3,bagv1239,Bagvalal,1014,йаги,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-550-35-1,bagv1239,Bagvalal,1268,уᴴ,CyrillTrans,"yes, affirmative",,,uⁿ,Phonemic
+17-560-35-1,bagv1239,Bagvalal,1269,вачІ,CyrillTrans,"no, negative",,,wačʼ,Phonemic
+17-610-35-1,bagv1239,Bagvalal,1239,эштайа,CyrillTrans,how?,,,eštaya,Phonemic
+17-620-35-1,bagv1239,Bagvalal,822,чвама,CyrillTrans,how many?,,,čʷama,Phonemic
+17-630-35-1,bagv1239,Bagvalal,531,эштоба,CyrillTrans,how much?,,,eštoba,Phonemic
+17-640-35-1,bagv1239,Bagvalal,1236,эба,CyrillTrans,what?,,,eba,Phonemic
+17-650-35-1,bagv1239,Bagvalal,1238,индайа,CyrillTrans,when?,,,indaya,Phonemic
+17-660-35-1,bagv1239,Bagvalal,1237,инджийах,CyrillTrans,where?,,,"inǯiyax, iⁿǯa",Phonemic
+17-660-35-3,bagv1239,Bagvalal,1237,иᴴджа,CyrillTrans,where?,,,"inǯiyax, iⁿǯa",Phonemic
+17-670-35-1,bagv1239,Bagvalal,727,эбела,CyrillTrans,which?,,,"ebela, eš̄dub",Phonemic
+17-670-35-3,bagv1239,Bagvalal,727,эщдуб,CyrillTrans,which?,,,"ebela, eš̄dub",Phonemic
+17-680-35-1,bagv1239,Bagvalal,1235,има,CyrillTrans,who?,,,ima,Phonemic
+17-690-35-1,bagv1239,Bagvalal,1270,элъилайа,CyrillTrans,why?,,,"eɬilaya, eɬira, eǯilaya",Phonemic
+17-690-35-3,bagv1239,Bagvalal,1270,элъира,CyrillTrans,why?,,,"eɬilaya, eɬira, eǯilaya",Phonemic
+17-690-35-5,bagv1239,Bagvalal,1270,эджилайа,CyrillTrans,why?,,,"eɬilaya, eɬira, eǯilaya",Phonemic
+18-110-35-1,bagv1239,Bagvalal,1363,хІащІв,CyrillTrans,voice,,,ħašʼʷ,Phonemic
+18-120-35-1,bagv1239,Bagvalal,1261,кечІ белгьила,CyrillTrans,sing,,,kečʼ belhila,Phonemic
+18-130-35-1,bagv1239,Bagvalal,715,бибидила,CyrillTrans,"shout, cry out",,,"bibidila, wallila",Phonemic
+18-130-35-3,bagv1239,Bagvalal,715,валлила,CyrillTrans,"shout, cry out",,,"bibidila, wallila",Phonemic
+18-150-35-1,bagv1239,Bagvalal,55,шушхъила,CyrillTrans,whisper,,,šušqila,Phonemic
+18-160-35-1,bagv1239,Bagvalal,128,нунудила,CyrillTrans,mumble,,,nunudila,Phonemic
+18-170-35-1,bagv1239,Bagvalal,1025,щванила,CyrillTrans,whistle,,,š̄ʷanila,Phonemic
+18-180-35-1,bagv1239,Bagvalal,298,сІcІисІcІидила,CyrillTrans,"shriek, screech",,,s̄ʼis̄ʼidila,Phonemic
+18-190-35-1,bagv1239,Bagvalal,526,ванила,CyrillTrans,howl,,,wanila,Phonemic
+18-210-35-1,bagv1239,Bagvalal,1623,анаххила,CyrillTrans,"speak, talk",,,"anax̄ila, gullila",Phonemic
+18-210-35-3,bagv1239,Bagvalal,1623,гуллила,CyrillTrans,"speak, talk",,,"anax̄ila, gullila",Phonemic
+18-211-35-1,bagv1239,Bagvalal,1866,лъадила,CyrillTrans,"stutter, stammer",,,ɬadila,Phonemic
+18-220-35-1,bagv1239,Bagvalal,1458,гьекьила,CyrillTrans,say,,,heƛ̄ʼila,Phonemic
+18-221-35-1,bagv1239,Bagvalal,1711,басина,CyrillTrans,tell story,,,basina,Phonemic
+18-222-35-1,bagv1239,Bagvalal,1115,анаххар,CyrillTrans,speech (make a),,,anax̄ar,Phonemic
+18-230-35-1,bagv1239,Bagvalal,48,гуличІи вукІула,CyrillTrans,silent (be),,,guličʼi wukʼula,Phonemic
+18-240-35-1,bagv1239,Bagvalal,1307,мисІсІ,CyrillTrans,language,,,mis̄ʼ,Phonemic
+18-260-35-1,bagv1239,Bagvalal,1599,рагІи,CyrillTrans,word,,,"raʕi, kalima",Phonemic
+18-260-35-3,bagv1239,Bagvalal,1599,калима,CyrillTrans,word,,,"raʕi, kalima",Phonemic
+18-280-35-1,bagv1239,Bagvalal,1405,сІсІер,CyrillTrans,name,,,s̄ʼer,Phonemic
+18-310-35-1,bagv1239,Bagvalal,1309,басІсІина,CyrillTrans,"ask (question, inquire)",,,bas̄ʼina,Phonemic
+18-320-35-1,bagv1239,Bagvalal,1275,жаваб джила,CyrillTrans,answer,,,žawab ǯila,Phonemic
+18-330-35-1,bagv1239,Bagvalal,2022,мукІулгьила,CyrillTrans,"admit, confess",,,mukʼulhila,Phonemic
+18-340-35-1,bagv1239,Bagvalal,755,нагІдалгьар бищила,CyrillTrans,deny,,,naʕdalhar biš̄ila,Phonemic
+18-350-35-1,bagv1239,Bagvalal,1828,гьадила,CyrillTrans,"ask, request",,,hadila,Phonemic
+18-360-35-1,bagv1239,Bagvalal,1675,рагІи ичила,CyrillTrans,promise,,,raʕi ičila,Phonemic
+18-370-35-1,bagv1239,Bagvalal,49,инкар джила,CyrillTrans,refuse,,,"inkar ǯila, inkar biš̄ila",Phonemic
+18-370-35-3,bagv1239,Bagvalal,49,инкар бищила,CyrillTrans,refuse,,,"inkar ǯila, inkar biš̄ila",Phonemic
+18-380-35-1,bagv1239,Bagvalal,83,гъукъудила,CyrillTrans,forbid,,,ɣuqʼudila,Phonemic
+18-390-35-1,bagv1239,Bagvalal,299,себидила,CyrillTrans,"rebuke, scold",,,"sebidila, roho bayla",Phonemic
+18-390-35-3,bagv1239,Bagvalal,299,рогьо байла,CyrillTrans,"rebuke, scold",,,"sebidila, roho bayla",Phonemic
+18-410-35-1,bagv1239,Bagvalal,1084,сани багьвайла,CyrillTrans,call (=summon),,,"sani bahʷayla, sani ballila",Phonemic
+18-410-35-3,bagv1239,Bagvalal,1084,сани баллила,CyrillTrans,call (=summon),,,"sani bahʷayla, sani ballila",Phonemic
+18-420-35-1,bagv1239,Bagvalal,180,сІсІер билгьила,CyrillTrans,call (=name),,,s̄ʼer bilhila,Phonemic
+18-430-35-1,bagv1239,Bagvalal,9,белила,CyrillTrans,announce,,,"belila, hekʼʷa wallila",Phonemic
+18-430-35-3,bagv1239,Bagvalal,9,гьекІва валлила,CyrillTrans,announce,,,"belila, hekʼʷa wallila",Phonemic
+18-440-35-1,bagv1239,Bagvalal,1192,гьедайла,CyrillTrans,threaten,,,hedayla,Phonemic
+18-450-35-1,bagv1239,Bagvalal,101,иᴴщурида эвда вессессила,CyrillTrans,boast,,,iⁿš̄urida ewda wes̄es̄ila,Phonemic
+18-510-35-1,bagv1239,Bagvalal,1672,хъвайла,CyrillTrans,write,,,qʷayla,Phonemic
+18-520-35-1,bagv1239,Bagvalal,724,сІcІалгьидила,CyrillTrans,read,,,s̄ʼalhidila,Phonemic
+18-560-35-1,bagv1239,Bagvalal,648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-35-1,bagv1239,Bagvalal,794,щакъи-къалам,CyrillTrans,pen,,,š̄aqʼi-qʼalam,Phonemic
+18-610-35-1,bagv1239,Bagvalal,963,хъоча,CyrillTrans,book,,,qoča,Phonemic
+18-670-35-1,bagv1239,Bagvalal,1045,шагІир,CyrillTrans,poet,,,šaʕir,Phonemic
+18-710-35-1,bagv1239,Bagvalal,777,лалу,CyrillTrans,flute,,,lalu,Phonemic
+18-720-35-1,bagv1239,Bagvalal,908,дваᴴй,CyrillTrans,drum,,,dʷaⁿy,Phonemic
+18-730-35-1,bagv1239,Bagvalal,2136,пул,CyrillTrans,"horn, trumpet",,,"pul, ex̌ub",Phonemic
+18-730-35-3,bagv1239,Bagvalal,2136,эхьуб,CyrillTrans,"horn, trumpet",,,"pul, ex̌ub",Phonemic
+18-740-35-1,bagv1239,Bagvalal,300,жвахадалийоб одоб,CyrillTrans,rattle,,,žʷaxadaliyob odob,Phonemic
+19-110-35-1,bagv1239,Bagvalal,1300,пачалихъ,CyrillTrans,country,,,"pačaliq, ulka",Phonemic
+19-110-35-3,bagv1239,Bagvalal,1300,улка,CyrillTrans,country,,,"pačaliq, ulka",Phonemic
+19-120-35-1,bagv1239,Bagvalal,89,ватІан,CyrillTrans,one's native country,,,watʼan,Phonemic
+19-150-35-1,bagv1239,Bagvalal,1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-35-1,bagv1239,Bagvalal,930,гьан,CyrillTrans,village,,,han,Phonemic
+19-170-35-1,bagv1239,Bagvalal,1010,гІорхъи,CyrillTrans,boundary,,,ʕorqi,Phonemic
+19-210-35-1,bagv1239,Bagvalal,789,халкъ,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-35-1,bagv1239,Bagvalal,302,тухум,CyrillTrans,"tribe, clan",,,"tuxum, ɣay",Phonemic
+19-230-35-3,bagv1239,Bagvalal,302,гъай,CyrillTrans,"tribe, clan",,,"tuxum, ɣay",Phonemic
+19-240-35-1,bagv1239,Bagvalal,301,цевехъан,CyrillTrans,"chief, chieftain",,,ceweqan,Phonemic
+19-250-35-1,bagv1239,Bagvalal,1296,цІул,CyrillTrans,"staff, walking stick",,,"cʼul, ʕamsa",Phonemic
+19-250-35-3,bagv1239,Bagvalal,1296,гІамса,CyrillTrans,"staff, walking stick",,,"cʼul, ʕamsa",Phonemic
+19-310-35-1,bagv1239,Bagvalal,1846,унлгьар джила,CyrillTrans,"rule, govern",,,unlhar ǯila,Phonemic
+19-320-35-1,bagv1239,Bagvalal,1508,къирал,CyrillTrans,"king, ruler",,,qʼiral,Phonemic
+19-330-35-1,bagv1239,Bagvalal,1306,гьакІуй къирал,CyrillTrans,queen,,,hakʼuy qʼiral,Phonemic
+19-360-35-1,bagv1239,Bagvalal,482,нуридаб,CyrillTrans,"noble, nobleman",,,nuridab,Phonemic
+19-370-35-1,bagv1239,Bagvalal,1032,шагьаралІи гьекІва,CyrillTrans,"citizen, subject",,,šaharaƛi hekʼʷa,Phonemic
+19-410-35-1,bagv1239,Bagvalal,383,хважайн,CyrillTrans,master,,,xʷažayn,Phonemic
+19-420-35-1,bagv1239,Bagvalal,812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-35-1,bagv1239,Bagvalal,255,эши ветав гьекІва (гьакІуй),CyrillTrans,servant,,,eši wetaw hekʼʷa (hakʼuy),Phonemic
+19-440-35-1,bagv1239,Bagvalal,384,эркенав гьекІва,CyrillTrans,freeman,,,erkenaw hekʼʷa,Phonemic
+19-450-35-1,bagv1239,Bagvalal,1128,амру джила,CyrillTrans,"command, order",,,"amru ǯila, buyuruq ičila",Phonemic
+19-450-35-3,bagv1239,Bagvalal,1128,буйурухъ ичила,CyrillTrans,"command, order",,,"amru ǯila, buyuruq ičila",Phonemic
+19-460-35-1,bagv1239,Bagvalal,1635,мукІулгьила,CyrillTrans,obey,,,mukʼulhila,Phonemic
+19-470-35-1,bagv1239,Bagvalal,1003,изну ичила,CyrillTrans,"let, permit",,,iznu ičila,Phonemic
+19-510-35-1,bagv1239,Bagvalal,1325,гьудул,CyrillTrans,"friend, companion",,,hudul,Phonemic
+19-520-35-1,bagv1239,Bagvalal,1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-35-1,bagv1239,Bagvalal,1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-35-1,bagv1239,Bagvalal,791,гьекІугьекІва,CyrillTrans,stranger,,,hekʼuhekʼʷa,Phonemic
+19-560-35-1,bagv1239,Bagvalal,1782,сІcІев,CyrillTrans,guest,,,s̄ʼew,Phonemic
+19-570-35-1,bagv1239,Bagvalal,1545,унгьекІва,CyrillTrans,host,,,unhekʼʷa,Phonemic
+19-580-35-1,bagv1239,Bagvalal,1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-35-1,bagv1239,Bagvalal,1550,квалквал джила,CyrillTrans,"hinder, prevent",,,kʷalkʷal ǯila,Phonemic
+19-610-35-1,bagv1239,Bagvalal,1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-35-1,bagv1239,Bagvalal,1848,дагІба-калам,CyrillTrans,"strife, quarrel",,,"daʕba-kalam, tuⁿka-ħuⁿsi, ƛ̄ʼal, ƛ̄ʼaɬidar",Phonemic
+19-620-35-3,bagv1239,Bagvalal,1848,туᴴка-хІуᴴси,CyrillTrans,"strife, quarrel",,,"daʕba-kalam, tuⁿka-ħuⁿsi, ƛ̄ʼal, ƛ̄ʼaɬidar",Phonemic
+19-620-35-5,bagv1239,Bagvalal,1848,кьал,CyrillTrans,"strife, quarrel",,,"daʕba-kalam, tuⁿka-ħuⁿsi, ƛ̄ʼal, ƛ̄ʼaɬidar",Phonemic
+19-620-35-7,bagv1239,Bagvalal,1848,кьалъидар,CyrillTrans,"strife, quarrel",,,"daʕba-kalam, tuⁿka-ħuⁿsi, ƛ̄ʼal, ƛ̄ʼaɬidar",Phonemic
+19-630-35-1,bagv1239,Bagvalal,2024,балъгода гьинарах ракъаᴴр,CyrillTrans,"conspiracy, plot",,,baɬgoda hinarax raqʼaⁿr,Phonemic
+19-650-35-1,bagv1239,Bagvalal,1831,дандиллъила,CyrillTrans,meet,,,dandilɬila,Phonemic
+19-720-35-1,bagv1239,Bagvalal,1610,хъахІба,CyrillTrans,prostitute,,,qaħba,Phonemic
+20-110-35-1,bagv1239,Bagvalal,1423,рагъидила,CyrillTrans,fight (vb),,,raɣidila,Phonemic
+20-130-35-1,bagv1239,Bagvalal,579,рагъ,CyrillTrans,"war, battle",,,raɣ,Phonemic
+20-140-35-1,bagv1239,Bagvalal,1338,ракъаᴴр,CyrillTrans,peace,,,raqʼaⁿr,Phonemic
+20-150-35-1,bagv1239,Bagvalal,1561,бо,CyrillTrans,army,,,"bo, armi",Phonemic
+20-150-35-3,bagv1239,Bagvalal,1561,арми,CyrillTrans,army,,,"bo, armi",Phonemic
+20-170-35-1,bagv1239,Bagvalal,1941,рагъухъан,CyrillTrans,soldier,,,raɣuqan,Phonemic
+20-210-35-1,bagv1239,Bagvalal,951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-35-1,bagv1239,Bagvalal,1763,цІул,CyrillTrans,club,,,"cʼul, ħaqʷa",Phonemic
+20-220-35-3,bagv1239,Bagvalal,1763,хІахъва,CyrillTrans,club,,,"cʼul, ħaqʷa",Phonemic
+20-222-35-1,bagv1239,Bagvalal,386,аᴴжит,CyrillTrans,battle-ax,,,aⁿžit,Phonemic
+20-240-35-1,bagv1239,Bagvalal,994,цІӣ,CyrillTrans,bow,,,cʼī,Phonemic
+20-250-35-1,bagv1239,Bagvalal,977,кІурма,CyrillTrans,arrow,,,kʼurma,Phonemic
+20-260-35-1,bagv1239,Bagvalal,945,эхъва,CyrillTrans,spear,,,eqʷa,Phonemic
+20-270-35-1,bagv1239,Bagvalal,1535,ххерчен,CyrillTrans,sword,,,x̄erčen,Phonemic
+20-280-35-1,bagv1239,Bagvalal,1566,туп,CyrillTrans,"gun, cannon",,,"tup, ʕarada",Phonemic
+20-280-35-3,bagv1239,Bagvalal,1566,гІарада,CyrillTrans,"gun, cannon",,,"tup, ʕarada",Phonemic
+20-310-35-1,bagv1239,Bagvalal,1061,йарагъ-матахІ,CyrillTrans,armor (defensive),,,yaraɣ-mataħ,Phonemic
+20-330-35-1,bagv1239,Bagvalal,1680,кубилъ такъийа,CyrillTrans,helmet,,,kubiɬ taqʼiya,Phonemic
+20-340-35-1,bagv1239,Bagvalal,1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-35-1,bagv1239,Bagvalal,1938,хъала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-35-1,bagv1239,Bagvalal,1671,щеб,CyrillTrans,tower,,,š̄eb,Phonemic
+20-410-35-1,bagv1239,Bagvalal,783,ришаᴴлгьар,CyrillTrans,victory,,,rišaⁿlhar,Phonemic
+20-420-35-1,bagv1239,Bagvalal,782,бигъаᴴр,CyrillTrans,defeat,,,biɣaⁿr,Phonemic
+20-430-35-1,bagv1239,Bagvalal,722,агьи кІанцІудар,CyrillTrans,attack,,,ahi kʼancʼudar,Phonemic
+20-440-35-1,bagv1239,Bagvalal,1330,щулалгьар бищила,CyrillTrans,defend,,,š̄ulalhar biš̄ila,Phonemic
+20-450-35-1,bagv1239,Bagvalal,421,гьерах белъила,CyrillTrans,retreat,,,herax beɬila,Phonemic
+20-460-35-1,bagv1239,Bagvalal,1696,квай белъила,CyrillTrans,surrender,,,kʷay beɬila,Phonemic
+20-470-35-1,bagv1239,Bagvalal,1072,асир,CyrillTrans,"captive, prisoner",,,asir,Phonemic
+20-471-35-1,bagv1239,Bagvalal,1940,хъаро̄л,CyrillTrans,"guard, sentinel",,,"qarōl, axran",Phonemic
+20-471-35-3,bagv1239,Bagvalal,1940,ахран,CyrillTrans,"guard, sentinel",,,"qarōl, axran",Phonemic
+20-480-35-1,bagv1239,Bagvalal,1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-490-35-1,bagv1239,Bagvalal,65,микъ бищила,CyrillTrans,ambush,,,miqʼ biš̄ila,Phonemic
+20-510-35-1,bagv1239,Bagvalal,1858,щваᴴхъа,CyrillTrans,fisherman,,,š̄ʷaⁿqa,Phonemic
+20-520-35-1,bagv1239,Bagvalal,1074,гъармагъ,CyrillTrans,fishhook,,,ɣarmaq,Phonemic
+20-530-35-1,bagv1239,Bagvalal,19,лескІа,CyrillTrans,fishing line,,,leskʼa,Phonemic
+20-540-35-1,bagv1239,Bagvalal,388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-35-1,bagv1239,Bagvalal,389,гудур,CyrillTrans,fish trap,,,gudur,Phonemic
+20-610-35-1,bagv1239,Bagvalal,1435,чанар велъила,CyrillTrans,hunt,,,"čanar weɬila, čan ǯila",Phonemic
+20-610-35-3,bagv1239,Bagvalal,1435,чан джила,CyrillTrans,hunt,,,"čanar weɬila, čan ǯila",Phonemic
+20-620-35-1,bagv1239,Bagvalal,1172,кьвагьидайла,CyrillTrans,shoot,,,ƛ̄ʼʷahidayla,Phonemic
+20-630-35-1,bagv1239,Bagvalal,161,битІ ба̄чІар,CyrillTrans,miss (target),,,"bitʼ bāčʼar, xatʼa buɬula",Phonemic
+20-630-35-3,bagv1239,Bagvalal,161,хатІа булъула,CyrillTrans,miss (target),,,"bitʼ bāčʼar, xatʼa buɬula",Phonemic
+20-640-35-1,bagv1239,Bagvalal,1075,гудур,CyrillTrans,trap (noun),,,gudur,Phonemic
+20-650-35-1,bagv1239,Bagvalal,1170,гудурар бищила,CyrillTrans,trap (vb),,,gudurar biš̄ila,Phonemic
+21-110-35-1,bagv1239,Bagvalal,1062,низам,CyrillTrans,law,,,"nizam, zakuⁿ",Phonemic
+21-110-35-3,bagv1239,Bagvalal,1062,закуᴴ,CyrillTrans,law,,,"nizam, zakuⁿ",Phonemic
+21-150-35-1,bagv1239,Bagvalal,1068,диван,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-150-35-3,bagv1239,Bagvalal,1068,суд,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-160-35-1,bagv1239,Bagvalal,1818,суд джила,CyrillTrans,judge (vb),,,sud ǯila,Phonemic
+21-170-35-1,bagv1239,Bagvalal,1067,судилъ хІукму,CyrillTrans,judgment,,,sudiɬ ħukmu,Phonemic
+21-180-35-1,bagv1239,Bagvalal,861,сcудийав,CyrillTrans,judge (noun),,,s̄udiyaw,Phonemic
+21-210-35-1,bagv1239,Bagvalal,2020,гІайб гІунтІидалийов (рахъ),CyrillTrans,plaintiff,,,ʕayb ʕuntʼidaliyow (raq),Phonemic
+21-220-35-1,bagv1239,Bagvalal,1034,гІайб бецІидоб (рахъ),CyrillTrans,defendant,,,ʕayb becʼidob (raq),Phonemic
+21-230-35-1,bagv1239,Bagvalal,1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-35-1,bagv1239,Bagvalal,1939,наква ругьула,CyrillTrans,swear,,,nakʷa ruhula,Phonemic
+21-250-35-1,bagv1239,Bagvalal,1712,наква,CyrillTrans,oath,,,nakʷa,Phonemic
+21-310-35-1,bagv1239,Bagvalal,1814,гІайб гІунтІидайла,CyrillTrans,accuse,,,ʕayb ʕuntʼidayla,Phonemic
+21-320-35-1,bagv1239,Bagvalal,484,какӣла,CyrillTrans,condemn,,,kakīla,Phonemic
+21-330-35-1,bagv1239,Bagvalal,983,гІайб щІедайла,CyrillTrans,convict (vb),,,ʕayb šʼedayla,Phonemic
+21-340-35-1,bagv1239,Bagvalal,988,гІайб бахха бугьула,CyrillTrans,acquit,,,ʕayb bax̄a buhula,Phonemic
+21-350-35-1,bagv1239,Bagvalal,1682,гІайбийав,CyrillTrans,guilty,,,ʕaybiyaw,Phonemic
+21-360-35-1,bagv1239,Bagvalal,90,гІайб вачІув,CyrillTrans,innocent,,,ʕayb wačʼuw,Phonemic
+21-370-35-1,bagv1239,Bagvalal,390,тамихІ,CyrillTrans,"penalty, punishment",,,tamiħ,Phonemic
+21-380-35-1,bagv1239,Bagvalal,218,гІакІа,CyrillTrans,fine,,,ʕakʼa,Phonemic
+21-390-35-1,bagv1239,Bagvalal,1281,туснахъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-35-1,bagv1239,Bagvalal,845,кІва̄р,CyrillTrans,murder,,,kʼʷār,Phonemic
+21-430-35-1,bagv1239,Bagvalal,902,зина джер,CyrillTrans,adultery,,,zina ǯer,Phonemic
+21-440-35-1,bagv1239,Bagvalal,953,зулму,CyrillTrans,rape,,,"zulmu, ħal, ǯibo, zina",Phonemic
+21-440-35-3,bagv1239,Bagvalal,953,хІал,CyrillTrans,rape,,,"zulmu, ħal, ǯibo, zina",Phonemic
+21-440-35-5,bagv1239,Bagvalal,953,джибо,CyrillTrans,rape,,,"zulmu, ħal, ǯibo, zina",Phonemic
+21-440-35-7,bagv1239,Bagvalal,953,зина,CyrillTrans,rape,,,"zulmu, ħal, ǯibo, zina",Phonemic
+21-460-35-1,bagv1239,Bagvalal,1889,цІай тІанар,CyrillTrans,arson,,,cʼay tʼanar,Phonemic
+21-470-35-1,bagv1239,Bagvalal,1792,гьачІуб нугІлгьар,CyrillTrans,perjury,,,hačʼub nuʕlhar,Phonemic
+21-510-35-1,bagv1239,Bagvalal,713,кваххила,CyrillTrans,steal,,,kʷax̄ila,Phonemic
+21-520-35-1,bagv1239,Bagvalal,1160,сІсІогьор,CyrillTrans,thief,,,s̄ʼohor,Phonemic
+22-110-35-1,bagv1239,Bagvalal,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-35-1,bagv1239,Bagvalal,1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-35-1,bagv1239,Bagvalal,911,гьатІан,CyrillTrans,"temple, church",,,hatʼan,Phonemic
+22-140-35-1,bagv1239,Bagvalal,853,мигьмар,CyrillTrans,altar,,,mihmar,Phonemic
+22-150-35-1,bagv1239,Bagvalal,1103,къурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-35-1,bagv1239,Bagvalal,257,дин джила,CyrillTrans,worship,,,din ǯila,Phonemic
+22-170-35-1,bagv1239,Bagvalal,24,чебча джила,CyrillTrans,pray,,,čebča ǯila,Phonemic
+22-180-35-1,bagv1239,Bagvalal,852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-35-1,bagv1239,Bagvalal,1702,динийаб басІсІадаб,CyrillTrans,"holy, sacred",,,"diniyab bas̄ʼadab, x̄iriyab",Phonemic
+22-190-35-3,bagv1239,Bagvalal,1702,ххирийаб,CyrillTrans,"holy, sacred",,,"diniyab bas̄ʼadab, x̄iriyab",Phonemic
+22-220-35-1,bagv1239,Bagvalal,304,вагІза джила,CyrillTrans,preach,,,waʕza ǯila,Phonemic
+22-230-35-1,bagv1239,Bagvalal,391,хІалал джила,CyrillTrans,bless,,,ħalal ǯila,Phonemic
+22-240-35-1,bagv1239,Bagvalal,8,хьамдила,CyrillTrans,curse,,,x̌amdila,Phonemic
+22-260-35-1,bagv1239,Bagvalal,303,элищила,CyrillTrans,fast (vb),,,"eliš̄ila, el biš̄ila",Phonemic
+22-260-35-3,bagv1239,Bagvalal,303,эл бищила,CyrillTrans,fast (vb),,,"eliš̄ila, el biš̄ila",Phonemic
+22-310-35-1,bagv1239,Bagvalal,1565,гІалжан,CyrillTrans,heaven,,,ʕalžan,Phonemic
+22-320-35-1,bagv1239,Bagvalal,878,жужахІ,CyrillTrans,hell,,,žužaħ,Phonemic
+22-350-35-1,bagv1239,Bagvalal,1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-350-35-3,bagv1239,Bagvalal,1973,шайтІан,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-370-35-1,bagv1239,Bagvalal,1945,хъанчи,CyrillTrans,idol,,,qanči,Phonemic
+22-420-35-1,bagv1239,Bagvalal,392,сихІрулгьар,CyrillTrans,"magic, witchcraft, sorcery",,,siħrulhar,Phonemic
+22-430-35-1,bagv1239,Bagvalal,2137,хъартай,CyrillTrans,"sorcerer, witch",,,qartay,Phonemic
+22-440-35-1,bagv1239,Bagvalal,2138,хІурулгІен,CyrillTrans,"fairy, elf",,,ħurulʕen,Phonemic
+22-450-35-1,bagv1239,Bagvalal,1175,лълъегур,CyrillTrans,"ghost, phantom",,,ɬ̄egur,Phonemic
+22-470-35-1,bagv1239,Bagvalal,107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat ,Phonemic

@@ -1,0 +1,1397 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1852,ваІхте-ваІхте,CyrillTrans,often,,,waˤxte-waˤxte,Phonemic
+14-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1676,гьаІммаша,CyrillTrans,always,,,haˤmmaša,Phonemic
+14-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),790,гьаІзырыд,CyrillTrans,ready,,,haˤzɨrɨd,Phonemic
+14-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1928,лухъузун,CyrillTrans,"cease, stop",,,"luquzun, mad qɨčɨɁɨn",Phonemic
+14-280-527-3,rutu1240,Rutul (Borchino Khnow dialect),1928,мад хъычыъын,CyrillTrans,"cease, stop",,,"luquzun, mad qɨčɨɁɨn",Phonemic
+14-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1766,латІа гьыъын,CyrillTrans,finish,,,lat̛a hɨʔɨn,Phonemic
+14-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),743,латІа гьыъын,CyrillTrans,end (temporal),,,lat̛a hɨʔɨn,Phonemic
+14-252-527-1,rutu1240,Rutul (Borchino Khnow dialect),1186,эхира йыкьаме,CyrillTrans,"last, endure",,,exira yɨq̛ame,Phonemic
+14-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1806,кикІин,CyrillTrans,"begin, beginning",,,kik̛in,Phonemic
+14-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),425,дир йишин,CyrillTrans,"retard, delay",,,dir yišin,Phonemic
+14-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),754,деспече йишин,CyrillTrans,"hasten, hurry",,,despeče yišin,Phonemic
+14-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),701,йавашид,CyrillTrans,slow,,,yawašid,Phonemic
+14-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1631,дирид,CyrillTrans,"swift, fast, quick",,,dirid,Phonemic
+14-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),1963,гьамыбаданне,CyrillTrans,immediately,,,"hamɨbadanne, habɨs̄ahaˤt",Phonemic
+14-190-527-3,rutu1240,Rutul (Borchino Khnow dialect),1963,гьабыссагьаIт,CyrillTrans,immediately,,,"hamɨbadanne, habɨs̄ahaˤt",Phonemic
+14-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),1376,гьамы,CyrillTrans,now,,,hamɨ,Phonemic
+14-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),477,ихьа,CyrillTrans,late,,,ix̌a,Phonemic
+14-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),672,ваІхте,CyrillTrans,early,,,"waˤxte, k̛ɨb",Phonemic
+14-160-527-3,rutu1240,Rutul (Borchino Khnow dialect),672,кIыб,CyrillTrans,early,,,"waˤxte, k̛ɨb",Phonemic
+14-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1229,кьаІсыд,CyrillTrans,old,,,q̛aˤsɨd,Phonemic
+14-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1207,джаван,CyrillTrans,young,,,ǯawan,Phonemic
+14-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1789,йаш,CyrillTrans,age,,,"yaš, eser",Phonemic
+14-120-527-3,rutu1240,Rutul (Borchino Khnow dialect),1789,эсэр,CyrillTrans,age,,,"yaš, eser",Phonemic
+14-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1231,цІинид,CyrillTrans,new,,,c̛inid,Phonemic
+14-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),892,ваІхт,CyrillTrans,time,,,waˤxt,Phonemic
+13-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),417,хьибе кине,CyrillTrans,three times,,,x̌ibe kine,Phonemic
+13-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1859,хьибид рухьуй,CyrillTrans,third,,,x̌ibid rux̌uy,Phonemic
+13-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1546,кьуІне дефе,CyrillTrans,two times,,,q̛uˤne defe,Phonemic
+13-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1888,чут,CyrillTrans,pair,,,čut,Phonemic
+13-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1384,кьваІдрухьуй,CyrillTrans,second,,,q̛ʷaˤdrux̌uy,Phonemic
+13-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1529,чыбрыгъундар,CyrillTrans,last,,,čɨbrɨɣundar,Phonemic
+13-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),728,са рухьуй,CyrillTrans,first,,,sa rux̌uy,Phonemic
+13-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1580,сана-са,CyrillTrans,"alone, only",,,sana-sa,Phonemic
+13-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),816,суруд,CyrillTrans,half,,,surud,Phonemic
+13-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),779,кьатІ,CyrillTrans,"part, piece",,,"qʼat̛, kesik",Phonemic
+13-230-527-3,rutu1240,Rutul (Borchino Khnow dialect),779,кесик,CyrillTrans,"part, piece",,,"qʼat̛, kesik",Phonemic
+13-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1624,кьаІрыд,CyrillTrans,empty,,,q̛aˤrɨd,Phonemic
+13-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1429,ацІуд,CyrillTrans,full,,,ac̛ud,Phonemic
+13-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),2023,балабы,CyrillTrans,"multitude, crowd",,,balabɨ,Phonemic
+13-181-527-1,rutu1240,Rutul (Borchino Khnow dialect),1241,шумуд идэ,CyrillTrans,some,,,šumud ide,Phonemic
+13-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1242,чІитІэ,CyrillTrans,"little (quantity), few",,,"čʼit̛e, q̛ayide",Phonemic
+13-170-527-3,rutu1240,Rutul (Borchino Khnow dialect),1242,кьайидэ,CyrillTrans,"little (quantity), few",,,"čʼit̛e, q̛ayide",Phonemic
+13-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),1881,беси,CyrillTrans,enough,,,besi,Phonemic
+13-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1992,бала аІккаІ,CyrillTrans,more,,,bala aˤk̄aˤ,Phonemic
+13-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1198,бала,CyrillTrans,"much, many",,,bala,Phonemic
+13-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),98,сине,CyrillTrans,"every, all",,,sine,Phonemic
+13-107-527-1,rutu1240,Rutul (Borchino Khnow dialect),1420,кьалий гьыъын,CyrillTrans,count,,,q̛aliy hɨʔɨn,Phonemic
+13-106-527-1,rutu1240,Rutul (Borchino Khnow dialect),1843,гьагъзыр,CyrillTrans,thousand,,,haɣzɨr,Phonemic
+13-105-527-1,rutu1240,Rutul (Borchino Khnow dialect),1634,веш,CyrillTrans,hundred,,,weš,Phonemic
+13-104-527-1,rutu1240,Rutul (Borchino Khnow dialect),1710,къаъад,CyrillTrans,twenty,,,GaɁad,Phonemic
+13-103-527-1,rutu1240,Rutul (Borchino Khnow dialect),1709,цІухьуд,CyrillTrans,fifteen,,,c̛ux̌yd,Phonemic
+13-102-527-1,rutu1240,Rutul (Borchino Khnow dialect),1707,цІукьваІд,CyrillTrans,twelve,,,c̛uq̛̛ʷaˤd,Phonemic
+13-101-527-1,rutu1240,Rutul (Borchino Khnow dialect),1706,цІысад,CyrillTrans,eleven,,,c̛ɨsad,Phonemic
+13-100-527-1,rutu1240,Rutul (Borchino Khnow dialect),1515,йицІыд,CyrillTrans,ten,,,yic̛ɨd,Phonemic
+13-90-527-1,rutu1240,Rutul (Borchino Khnow dialect),1483,йучІуд,CyrillTrans,nine,,,yuč̛ud,Phonemic
+13-80-527-1,rutu1240,Rutul (Borchino Khnow dialect),1705,мыІйаІд,CyrillTrans,eight,,,mɨˤyaˤd,Phonemic
+13-70-527-1,rutu1240,Rutul (Borchino Khnow dialect),1704,йугІуд,CyrillTrans,seven,,,yuʕud,Phonemic
+13-60-527-1,rutu1240,Rutul (Borchino Khnow dialect),1703,рыхьыІд,CyrillTrans,six,,,rɨx̌ɨˤd,Phonemic
+13-50-527-1,rutu1240,Rutul (Borchino Khnow dialect),493,хьуд,CyrillTrans,five,,,x̌ud,Phonemic
+13-40-527-1,rutu1240,Rutul (Borchino Khnow dialect),1500,йукьуд,CyrillTrans,four,,,yuq̛ud,Phonemic
+13-20-527-1,rutu1240,Rutul (Borchino Khnow dialect),1498,кьваІд,CyrillTrans,two,,,qʼʷaˤd,Phonemic
+13-30-527-1,rutu1240,Rutul (Borchino Khnow dialect),492,хьибид,CyrillTrans,three,,,x̌ibid,Phonemic
+13-10-527-1,rutu1240,Rutul (Borchino Khnow dialect),1493,са,CyrillTrans,one,,,sa,Phonemic
+13-0-527-1,rutu1240,Rutul (Borchino Khnow dialect),1294,сыфыр,CyrillTrans,"zero, nothing",,,cɨfɨr,Phonemic
+12-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),1264,кыдыхаІ гьыъын,CyrillTrans,change,,,kɨdɨxaˤ hɨʔɨn,Phonemic
+12-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1558,кийиркай,CyrillTrans,"like, similar",,,kiyirkay,Phonemic
+12-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1048,дзыдзых,CyrillTrans,line,,,ǯɨǯɨx,Phonemic
+12-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),1667,кьаІчІ,CyrillTrans,hole,,,q̛aˤč̛,Phonemic
+12-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1395,руугъуд,CyrillTrans,round,,,rūɣud,Phonemic
+12-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1467,руугъуд,CyrillTrans,circle,,,rūɣud,Phonemic
+12-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),850,квадрат,CyrillTrans,square,,,kwadrat,Phonemic
+12-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),192,выт,CyrillTrans,corner,,,wɨt,Phonemic
+12-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1071,кІых,CyrillTrans,hook,,,k̛ɨx,Phonemic
+12-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),297,сучІукуд,CyrillTrans,crooked,,,suč̛ukud,Phonemic
+12-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1404,дуьз уьд,CyrillTrans,straight,,,düz üd,Phonemic
+12-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1633,дуьзуьд,CyrillTrans,flat,,,"düzüd, q̛ɨlɨd",Phonemic
+12-710-527-3,rutu1240,Rutul (Borchino Khnow dialect),1633,кьылыд,CyrillTrans,flat,,,"düzüd, q̛ɨlɨd",Phonemic
+12-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),193,кьылыд,CyrillTrans,shallow,,,"q̛ɨlɨd, ǯülid",Phonemic
+12-680-527-3,rutu1240,Rutul (Borchino Khnow dialect),193,джуьлид,CyrillTrans,shallow,,,"q̛ɨlɨd, ǯülid",Phonemic
+12-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),1593,деринид,CyrillTrans,deep,,,derinid,Phonemic
+12-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),2249,каІтид,CyrillTrans,thin (in dimension),,,kaˤtid,Phonemic
+12-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1244,филихьид,CyrillTrans,thick (in dimension),,,filix̌id,Phonemic
+12-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1267,кьыцІыд,CyrillTrans,narrow,,,q̛ɨc̛ɨd,Phonemic
+12-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1243,аІкьуІрид,CyrillTrans,"wide, broad",,,aˤq̛uˤrid,Phonemic
+12-590-527-1,rutu1240,Rutul (Borchino Khnow dialect),1645,джыкыд,CyrillTrans,short,,,ǯɨkɨd,Phonemic
+12-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),711,гьатхыд,CyrillTrans,tall,,,hatxɨd,Phonemic
+12-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),1203,хуІлуьхуІд,CyrillTrans,long,,,xuˤlüxuˤd,Phonemic
+12-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1246,чІитІид,CyrillTrans,"small, little",,,č̛it̛id,Phonemic
+12-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1202,аІккад,CyrillTrans,"large, big",,,aˤk̄ad,Phonemic
+12-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1506,гьацун,CyrillTrans,measure,,,hacun,Phonemic
+12-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),479,аІкка йишин,CyrillTrans,grow,,,aˤk̄a yišin,Phonemic
+12-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1595,каІъбыдид сур,CyrillTrans,south,,,kaˤɁbɨdid sur,Phonemic
+12-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1598,шимал,CyrillTrans,north,,,šimal,Phonemic
+12-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1817,виригъ хъуІвгъуды сур,CyrillTrans,west,,,"wiriɣ quˤwɣudɨ sur, maɣrib",Phonemic
+12-460-527-3,rutu1240,Rutul (Borchino Khnow dialect),1817,магъриб,CyrillTrans,west,,,"wiriɣ quˤwɣudɨ sur, maɣrib",Phonemic
+12-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1877,виригъ авгъуІй сур,CyrillTrans,east,,,"wiriɣ awɣuˤy sur, mašriq̛",Phonemic
+12-450-527-3,rutu1240,Rutul (Borchino Khnow dialect),1877,машрикь,CyrillTrans,east,,,"wiriɣ awɣuˤy sur, mašriq̛",Phonemic
+12-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1942,бегеде,CyrillTrans,near (adv),,,begede,Phonemic
+12-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1406,хырыда,CyrillTrans,far (adv),,,xɨrɨda,Phonemic
+12-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),244,гагылыд (сур),CyrillTrans,left (side),,,gagɨlɨd (sur),Phonemic
+12-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1019,йигухал (сур),CyrillTrans,right (side),,,yiguxal (sur),Phonemic
+12-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1093,йикьыІд худ,CyrillTrans,"middle, center",,,yiq̛ɨˤd xud,Phonemic
+12-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),682,сур,CyrillTrans,side,,,sur,Phonemic
+12-353-527-1,rutu1240,Rutul (Borchino Khnow dialect),863,эхир,CyrillTrans,edge,,,"exir, Girax",Phonemic
+12-353-527-3,rutu1240,Rutul (Borchino Khnow dialect),863,къирах,CyrillTrans,edge,,,"exir, Girax",Phonemic
+12-352-527-1,rutu1240,Rutul (Borchino Khnow dialect),372,кІикІ гъад,CyrillTrans,pointed,,,k’ik’ ɣad,Phonemic
+12-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),742,джыбыр,CyrillTrans,end,,,"ǯɨbɨr, exir",Phonemic
+12-350-527-3,rutu1240,Rutul (Borchino Khnow dialect),742,эхир,CyrillTrans,end,,,"ǯɨbɨr, exir",Phonemic
+12-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),690,кьан,CyrillTrans,bottom,,,qʼan,Phonemic
+12-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),721,алчахде,CyrillTrans,low,,,alčaxde,Phonemic
+12-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1753,тепе,CyrillTrans,top,,,"tepe, banad k’eɁ",Phonemic
+12-330-527-3,rutu1240,Rutul (Borchino Khnow dialect),1753,банад кIеъ,CyrillTrans,top,,,"tepe, banad k’eɁ",Phonemic
+12-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1265,гьатхыде,CyrillTrans,high,,,hatxɨde,Phonemic
+12-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),602,дагул гьыъын,CyrillTrans,"hide, conceal",,,dagul hɨʔɨn,Phonemic
+12-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1046,йыка гьыъын,CyrillTrans,"shut, close",,,yɨka hɨʔɨn,Phonemic
+12-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),761,легьин,CyrillTrans,cover,,,lehin,Phonemic
+12-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1156,ачухъ гьыъын,CyrillTrans,open,,,ačuq hɨʔɨn,Phonemic
+12-232-527-1,rutu1240,Rutul (Borchino Khnow dialect),1119,квал гьыъын,CyrillTrans,divide,,,kʷal hɨʔɨn,Phonemic
+12-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1359,тек гьыъын,CyrillTrans,separate,,,"tek hɨʔɨn, ǯura hɨʔɨn",Phonemic
+12-230-527-3,rutu1240,Rutul (Borchino Khnow dialect),1359,джура гьыъын,CyrillTrans,separate,,,"tek hɨʔɨn, ǯura hɨʔɨn",Phonemic
+12-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1743,сытІа гъыъын,CyrillTrans,"join, unite",,,sɨt̛a hɨʔɨn,Phonemic
+12-213-527-1,rutu1240,Rutul (Borchino Khnow dialect),1576,са-сина лихьин,CyrillTrans,pile up,,,"sa-sina lix̌in, yaɣmiš hɨʔɨn",Phonemic
+12-213-527-3,rutu1240,Rutul (Borchino Khnow dialect),1576,йагъмиш гьыъын,CyrillTrans,pile up,,,"sa-sina lix̌in, yaɣmiš hɨʔɨn",Phonemic
+12-212-527-1,rutu1240,Rutul (Borchino Khnow dialect),371,лаъ лешун,CyrillTrans,pick up,,,"laɁ lešun, leqešun",Phonemic
+12-212-527-3,rutu1240,Rutul (Borchino Khnow dialect),371,лехъешун,CyrillTrans,pick up,,,"laɁ lešun, leqešun",Phonemic
+12-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),7,сытІа гьыъын,CyrillTrans,"collect, gather",,,sɨt̛a hɨʔɨn,Phonemic
+12-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),838,ахъаткыд,CyrillTrans,"remains, left overs",,,aqatkɨd,Phonemic
+12-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),987,аркын,CyrillTrans,"remain, stay",,,arkɨn,Phonemic
+12-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1442,лузун,CyrillTrans,stand,,,luzun,Phonemic
+12-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),215,лукун,CyrillTrans,lie down,,,lukun,Phonemic
+12-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1416,сукьун,CyrillTrans,sit,,,suq’un,Phonemic
+12-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),998,сихьин,CyrillTrans,put,,,six̌in,Phonemic
+12-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),723,джыга,CyrillTrans,place,,,ǯiga,Phonemic
+12-80-527-1,rutu1240,Rutul (Borchino Khnow dialect),1591,алда,CyrillTrans,"up, above",,,alda,Phonemic
+12-70-527-1,rutu1240,Rutul (Borchino Khnow dialect),1485,кьанык,CyrillTrans,under,,,q’anɨk,Phonemic
+12-60-527-1,rutu1240,Rutul (Borchino Khnow dialect),762,гъарасура,CyrillTrans,outside,,,ɣarasura,Phonemic
+12-50-527-1,rutu1240,Rutul (Borchino Khnow dialect),1606,ара,CyrillTrans,"inside, in",,,"ara, ičiye",Phonemic
+12-50-527-3,rutu1240,Rutul (Borchino Khnow dialect),1606,ичие,CyrillTrans,"inside, in",,,"ara, ičiye",Phonemic
+12-41-527-1,rutu1240,Rutul (Borchino Khnow dialect),1883,къабагъа,CyrillTrans,front,,,Gabaɣa,Phonemic
+12-40-527-1,rutu1240,Rutul (Borchino Khnow dialect),1882,гьавада йыкьамэ,CyrillTrans,before,,,hawada yɨqʼame,Phonemic
+12-30-527-1,rutu1240,Rutul (Borchino Khnow dialect),2094,аа,CyrillTrans,"down, below",,,"ā, saʔna",Phonemic
+12-30-527-3,rutu1240,Rutul (Borchino Khnow dialect),2094,саъна,CyrillTrans,"down, below",,,"ā, saʔna",Phonemic
+12-20-527-1,rutu1240,Rutul (Borchino Khnow dialect),1816,бегедэ,CyrillTrans,beside,,,begede,Phonemic
+12-11-527-1,rutu1240,Rutul (Borchino Khnow dialect),1686,гьавнахда,CyrillTrans,behind,,,hawnaxda,Phonemic
+12-10-527-1,rutu1240,Rutul (Borchino Khnow dialect),1685,хьелэ,CyrillTrans,after,,,x̌ele,Phonemic
+11-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1098,гьацун,CyrillTrans,weigh,,,hacun,Phonemic
+11-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),884,квал гьыъын,CyrillTrans,share (distribute),,,kʷal hɨʔɨn,Phonemic
+11-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),1887,уджузид,CyrillTrans,cheap,,,uǯuzid,Phonemic
+11-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),1426,ласарыд,CyrillTrans,"dear (costly, expensive)",,,"lasarɨd, bahad",Phonemic
+11-880-527-3,rutu1240,Rutul (Borchino Khnow dialect),1426,багьад,CyrillTrans,"dear (costly, expensive)",,,"lasarɨd, bahad",Phonemic
+11-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),657,къиймет,CyrillTrans,price,,,Giymet,Phonemic
+11-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1082,алверчи,CyrillTrans,merchant,,,alwerči,Phonemic
+11-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),2135,алвер,CyrillTrans,"trade, barter",,,alwer,Phonemic
+11-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1571,маса вын,CyrillTrans,sell,,,masa wɨn,Phonemic
+11-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1869,маса лаІшун,CyrillTrans,buy,,,masa laˤšun,Phonemic
+11-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),733,къазамиш гъыъын,CyrillTrans,earn,,,Gazamiš hɨʔɨn,Phonemic
+11-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),1122,дуннух,CyrillTrans,wages,,,dunnux,Phonemic
+11-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),856,бырдж не лаІшун,CyrillTrans,hire,,,bɨrǯ ne laˤšun,Phonemic
+11-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),873,налух,CyrillTrans,"tax, tribute",,,nalux,Phonemic
+11-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),1081,кьиймет,CyrillTrans,"account, reckoning",,,q̛iymet,Phonemic
+11-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),718,кьиймет вын,CyrillTrans,pay (vb),,,q̛iymet wɨn,Phonemic
+11-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1914,бырдж,CyrillTrans,debt,,,bɨrǯ,Phonemic
+11-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),369,бырджлы йишин,CyrillTrans,owe,,,bɨrǯlɨ yišun,Phonemic
+11-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1823,бырдж лашун,CyrillTrans,borrow,,,bɨrǯ laˤšun,Phonemic
+11-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),582,бырдж вын,CyrillTrans,lend,,,bɨrǯ wɨn,Phonemic
+11-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1774,кьичмир,CyrillTrans,"avaricious, stingy",,,qʼičmir,Phonemic
+11-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1934,диленчий,CyrillTrans,beggar,,,dilenčiy,Phonemic
+11-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1674,касиб,CyrillTrans,poor,,,"kasib, fāɣɨr",Phonemic
+11-520-527-3,rutu1240,Rutul (Borchino Khnow dialect),1674,фаагъыр,CyrillTrans,poor,,,"kasib, fāɣɨr",Phonemic
+11-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),712,девлетли,CyrillTrans,rich,,,dewetli,Phonemic
+11-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1867,къэпэкбы,CyrillTrans,coin,,,Gepekbɨ,Phonemic
+11-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1559,тангабы,CyrillTrans,money,,,tangabɨ,Phonemic
+11-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1095,сыхкъыкын,CyrillTrans,"release, let go",,,sɨxGɨkɨn,Phonemic
+11-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1660,суга гьыъын,CyrillTrans,lose,,,suga hɨʔɨn,Phonemic
+11-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),719,файъин,CyrillTrans,find,,,fayʔin,Phonemic
+11-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1468,гьарсын,CyrillTrans,"seek, look for",,,harsɨn,Phonemic
+11-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),44,зарар вын,CyrillTrans,"harm, injure, damage",,,zarar wɨn,Phonemic
+11-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),681,гьалхва гьыъын,CyrillTrans,destroy,,,"halxʷa hɨʔɨn, luka hɨʔɨn",Phonemic
+11-270-527-3,rutu1240,Rutul (Borchino Khnow dialect),681,лука гьыъын,CyrillTrans,destroy,,,"halxʷa hɨʔɨn, luka hɨʔɨn",Phonemic
+11-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),2008,азад гьыъын,CyrillTrans,"save, rescue",,,azad hɨʔɨn,Phonemic
+11-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1997,уІхуІн,CyrillTrans,"preserve, look after",,,uˤxuˤn,Phonemic
+11-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),85,ругъа хъыъын,CyrillTrans,give back,,,ruɣa qɨʔɨn,Phonemic
+11-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1447,вын,CyrillTrans,give,,,wɨn,Phonemic
+11-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),738,зыд,CyrillTrans,thing,,,zɨd,Phonemic
+11-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1477,уІхуІн,CyrillTrans,"keep, retain",,,uˤxuˤn,Phonemic
+11-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),694,лаІшун,CyrillTrans,"get, obtain",,,laˤšun,Phonemic
+11-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1448,факъкъын,CyrillTrans,hold,,,faḠɨn,Phonemic
+11-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),2021,фахкъын,CyrillTrans,"seize, grasp",,,faxGɨn,Phonemic
+11-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1749,лаІшун,CyrillTrans,take,,,laˤšun,Phonemic
+11-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),684,эйессий йишин,CyrillTrans,"own, possess",,,eyes̄iy yišin,Phonemic
+11-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),773,йиъин,CyrillTrans,have,,,yiʔin,Phonemic
+10-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1922,навкьуде аа сувкьун,CyrillTrans,land (vb),,,nawq̛ude ā suwq̛un,Phonemic
+10-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),1870,йакорь,CyrillTrans,anchor,,,yakorʲ,Phonemic
+10-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-527-1,rutu1240,Rutul (Borchino Khnow dialect),1849,къалахламыш гъыъын,CyrillTrans,row (vb),,,Galaxlamɨš ɣɨʔɨn,Phonemic
+10-851-527-1,rutu1240,Rutul (Borchino Khnow dialect),234,къалах,CyrillTrans,paddle (noun),,,Galax,Phonemic
+10-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),108,къалах,CyrillTrans,oar,,,Galax,Phonemic
+10-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-527-1,rutu1240,Rutul (Borchino Khnow dialect),416,лудкІа,CyrillTrans,outrigger,,,ludk’a,Phonemic
+10-831-527-1,rutu1240,Rutul (Borchino Khnow dialect),1970,лудкІа,CyrillTrans,canoe,,,ludk’a,Phonemic
+10-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1844,лудкІа,CyrillTrans,boat,,,ludk’a,Phonemic
+10-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),740,парахуд,CyrillTrans,ship,,,paraxud,Phonemic
+10-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),14,хъыІвед,CyrillTrans,yoke,,,qɨˤwed,Phonemic
+10-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1769,ух,CyrillTrans,axle,,,ux,Phonemic
+10-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),710,тикэр,CyrillTrans,wheel,,,tiker,Phonemic
+10-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),122,аІраба,CyrillTrans,"carriage, wagon, cart",,,aˤraba,Phonemic
+10-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1011,гъаІ,CyrillTrans,bridge,,,ɣaˤ,Phonemic
+10-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),2252,джыгъыр,CyrillTrans,path,,,ӡ̌ɨɣɨr,Phonemic
+10-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),667,раІхъ,CyrillTrans,road,,,raˤq,Phonemic
+10-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),1452,ывхыІр йигьин,CyrillTrans,"push, shove",,,ɨwxɨˤr yihin,Phonemic
+10-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),367,йабыйехьван йихин,CyrillTrans,ride,,,yabɨyex̌wan yix̌in,Phonemic
+10-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),741,мешинехьван йихин,CyrillTrans,drive,,,mešinex̌wan yixin,Phonemic
+10-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),43,йихин,CyrillTrans,lead (vb),,,"yixin, yɨgɨn",Phonemic
+10-640-527-3,rutu1240,Rutul (Borchino Khnow dialect),43,йыгын,CyrillTrans,lead (vb),,,"yixin, yɨgɨn",Phonemic
+10-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1127,сыкын,CyrillTrans,send,,,sɨkɨn,Phonemic
+10-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),692,йитІкьын,CyrillTrans,bring,,,yit’q̛ɨn,Phonemic
+10-615-527-1,rutu1240,Rutul (Borchino Khnow dialect),415,кьаІчІихьдуфан йихин,CyrillTrans,carry-underarm,,,q’aˤč’ix̌dufan yixin,Phonemic
+10-614-527-1,rutu1240,Rutul (Borchino Khnow dialect),414,келлидихьван йихин,CyrillTrans,carry-on-head,,,kellidix̌wan yixin,Phonemic
+10-613-527-1,rutu1240,Rutul (Borchino Khnow dialect),413,гъуІнехьван йихин,CyrillTrans,carry-on-shoulder,,,ɣuˤnex̌wan yixin,Phonemic
+10-612-527-1,rutu1240,Rutul (Borchino Khnow dialect),412,хьылыхьван йихин,CyrillTrans,carry-in-hand,,,xɨlɨx̌wan yixin,Phonemic
+10-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),700,йихин,CyrillTrans,carry (bear),,,yixin,Phonemic
+10-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),749,аІчІун,CyrillTrans,enter,,,aˤč̛un,Phonemic
+10-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1778,беге йыхьын,CyrillTrans,approach,,,bege yɨx̌ɨn,Phonemic
+10-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1387,хъийикьын,CyrillTrans,"reach, arrive",,,"qiyiq̛ɨn, qirq̛ɨn",Phonemic
+10-550-527-3,rutu1240,Rutul (Borchino Khnow dialect),1387,хъиркьын,CyrillTrans,"reach, arrive",,,"qiyiq̛ɨn, qirq̛ɨn",Phonemic
+10-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1047,чыбра хъирхьун,CyrillTrans,pursue,,,čɨbra qɨrx̌un,Phonemic
+10-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1085,чыбра йыхьын,CyrillTrans,follow,,,čɨbra yɨx̌ɨn,Phonemic
+10-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),956,сугун,CyrillTrans,flee,,,"sugun, yexin",Phonemic
+10-510-527-3,rutu1240,Rutul (Borchino Khnow dialect),956,йехин,CyrillTrans,flee,,,"sugun, yexin",Phonemic
+10-491-527-1,rutu1240,Rutul (Borchino Khnow dialect),485,сугун,CyrillTrans,disappear,,,"sugun, dagul yišin",Phonemic
+10-491-527-3,rutu1240,Rutul (Borchino Khnow dialect),485,дагул йишин,CyrillTrans,disappear,,,"sugun, dagul yišin",Phonemic
+10-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),1752,хъыхъын,CyrillTrans,"go away, depart",,,qɨqɨn,Phonemic
+10-481-527-1,rutu1240,Rutul (Borchino Khnow dialect),581,хъургъун,CyrillTrans,come back,,,qurɣun,Phonemic
+10-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1446,йиркьын,CyrillTrans,come,,,yirq̛ɨn,Phonemic
+10-474-527-1,rutu1240,Rutul (Borchino Khnow dialect),1107,аIгъаІчІун,CyrillTrans,go out,,,aˤɣaˤčʼun,Phonemic
+10-473-527-1,rutu1240,Rutul (Borchino Khnow dialect),2014,саъ сачІун,CyrillTrans,go down,,,saɁ sačʼun,Phonemic
+10-472-527-1,rutu1240,Rutul (Borchino Khnow dialect),1102,лаъ лечІун,CyrillTrans,climb,,,"laɁ leč̛un, laɁ laˤɣuˤn",Phonemic
+10-472-527-3,rutu1240,Rutul (Borchino Khnow dialect),1102,лаъ лаIгъуIн,CyrillTrans,climb,,,"laɁ leč̛un, laɁ laˤɣuˤn",Phonemic
+10-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),695,эйирхьын,CyrillTrans,go,,,eyirx̌ɨn,Phonemic
+10-471-527-1,rutu1240,Rutul (Borchino Khnow dialect),705,лаъ лечІун,CyrillTrans,go up,,,laʔ leč̛un,Phonemic
+10-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1519,йехин,CyrillTrans,run,,,yexin,Phonemic
+10-451-527-1,rutu1240,Rutul (Borchino Khnow dialect),366,кІала йишин,CyrillTrans,limp,,,kʼala yišin,Phonemic
+10-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1443,эйирхьын,CyrillTrans,walk,,,eyirx̌ɨn,Phonemic
+10-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1879,мукІ гьавъын,CyrillTrans,dance,,,mukʼ hawʔɨn,Phonemic
+10-431-527-1,rutu1240,Rutul (Borchino Khnow dialect),1135,мыкІ ывхыІн,CyrillTrans,kick,,,mɨkʼ ɨwxɨˤn,Phonemic
+10-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1829,лирчын,CyrillTrans,"jump, leap",,,lirčɨn,Phonemic
+10-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1324,кагъаІчІирхын,CyrillTrans,"slide, slip",,,kaɣaˤč’irxɨn,Phonemic
+10-413-527-1,rutu1240,Rutul (Borchino Khnow dialect),296,аа кихыІн,CyrillTrans,crouch,,,ā kixɨˤn,Phonemic
+10-412-527-1,rutu1240,Rutul (Borchino Khnow dialect),66,кьвакьымы сирфун,CyrillTrans,kneel,,,q’ʷaq’ɨmɨ sirfun,Phonemic
+10-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),96,хъуцІуІрхуІн,CyrillTrans,"creep, crawl",,,qucʼuˤrxuˤn,Phonemic
+10-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),175,гьуф авын,CyrillTrans,blow,,,huf awɨn,Phonemic
+10-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1441,лахун,CyrillTrans,fly (vb),,,laxun,Phonemic
+10-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),787,хьед гьыъын,CyrillTrans,sail (vb),,,x̌ed hɨʔɨn,Phonemic
+10-352-527-1,rutu1240,Rutul (Borchino Khnow dialect),365,хьед гьыъын,CyrillTrans,splash,,,x̌ed hɨʔɨn,Phonemic
+10-351-527-1,rutu1240,Rutul (Borchino Khnow dialect),119,хьед гьыъын,CyrillTrans,dive,,,x̌ed hɨʔɨn,Phonemic
+10-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1439,хьед гьыъын,CyrillTrans,swim,,,x̌ed hɨʔɨn,Phonemic
+10-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1574,хьидид угъ сура хьед гьыъын,CyrillTrans,float,,,x̌idid uɣ cura x̌ed hɨʔɨn,Phonemic
+10-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1088,хьидик кирхьун,CyrillTrans,sink,,,"x̌idik kirx̌un, x̌idiy lirx̌un",Phonemic
+10-330-527-3,rutu1240,Rutul (Borchino Khnow dialect),1088,хьидий лирхьун,CyrillTrans,sink,,,"x̌idik kirx̌un, x̌idiy lirx̌un",Phonemic
+10-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),2003,ахмиш йишин,CyrillTrans,flow,,,axmiš yišin,Phonemic
+10-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1909,сута гьыъын,CyrillTrans,shake,,,suta hɨʔɨn,Phonemic
+10-252-527-1,rutu1240,Rutul (Borchino Khnow dialect),702,фахъын,CyrillTrans,catch (ball),,,faqɨn,Phonemic
+10-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1456,йигьин,CyrillTrans,throw,,,yihɨn,Phonemic
+10-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),2253,укІ-укІне сыъын,CyrillTrans,drip,,,ukʼ-ukʼne sɨʔɨn,Phonemic
+10-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1280,сирхьун,CyrillTrans,fall,,,sirx̌un,Phonemic
+10-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),501,кегъедуун,CyrillTrans,"raise, lift",,,keɣedūn,Phonemic
+10-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),568,лаъ лечІун,CyrillTrans,rise,,,laɁ leč̛un,Phonemic
+10-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),430,лучІутка гьыъын,CyrillTrans,twist,,,luč̛utka hɨʔɨn,Phonemic
+10-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),808,тІетхъин,CyrillTrans,drop (vb),,,t̛etqun,Phonemic
+10-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),827,ругъа гьыъын,CyrillTrans,roll,,,ruɣa hɨʔɨn,Phonemic
+10-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1113,рыкІа гьыъын,CyrillTrans,"wind, wrap",,,rɨkʼa hɨʔɨn,Phonemic
+10-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1445,ухълукун,CyrillTrans,turn around,,,uqlukun,Phonemic
+10-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1588,угълукун,CyrillTrans,turn over,,,uɣlukun,Phonemic
+10-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),765,ругъун,CyrillTrans,move,,,"ruɣun, sirʔin",Phonemic
+10-110-527-3,rutu1240,Rutul (Borchino Khnow dialect),765,сиръин,CyrillTrans,move,,,"ruɣun, sirʔin",Phonemic
+9-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),2001,шир йывхыІн,CyrillTrans,paint (vb),,,"šir yɨwxɨˤn, šikil yɨwxɨˤn",Phonemic
+9-890-527-3,rutu1240,Rutul (Borchino Khnow dialect),2001,шикил йывхыIн,CyrillTrans,paint (vb),,,"šir yɨwxɨˤn, šikil yɨwxɨˤn",Phonemic
+9-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1979,рыхыл,CyrillTrans,chisel,,,rɨxɨl,Phonemic
+9-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),647,шир,CyrillTrans,paint (noun),,,šir,Phonemic
+9-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1002,гьейкал,CyrillTrans,statue,,,heykal,Phonemic
+9-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),914,гьейкалчи,CyrillTrans,sculptor,,,heykalči,Phonemic
+9-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),228,агъагъын,CyrillTrans,carve,,,aɣaɣɨn,Phonemic
+9-791-527-1,rutu1240,Rutul (Borchino Khnow dialect),360,гьава гьыъын,CyrillTrans,fan (vb),,,hawa hɨʔɨn,Phonemic
+9-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),293,сумкIа,CyrillTrans,netbag,,,"sumk’a, set̛k̛a",Phonemic
+9-780-527-3,rutu1240,Rutul (Borchino Khnow dialect),293,сетIкIа,CyrillTrans,netbag,,,"sumk’a, set̛k̛a",Phonemic
+9-771-527-1,rutu1240,Rutul (Borchino Khnow dialect),292,халиче,CyrillTrans,rug,,,xaliče,Phonemic
+9-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),195,джеджим,CyrillTrans,mat,,,"ǯeǯim, čulʲ",Phonemic
+9-770-527-3,rutu1240,Rutul (Borchino Khnow dialect),195,чуль,CyrillTrans,mat,,,"ǯeǯim, čulʲ",Phonemic
+9-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1539,кид,CyrillTrans,basket,,,kid,Phonemic
+9-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1729,рыхын,CyrillTrans,"weave, plait",,,rɨxɨn,Phonemic
+9-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),604,аІйне,CyrillTrans,glass,,,aˤyne,Phonemic
+9-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1399,къум,CyrillTrans,clay,,,Gum,Phonemic
+9-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),289,кІалыб гьыъын,CyrillTrans,mold (clay etc),,,k̛alɨb hɨʔɨn,Phonemic
+9-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),359,ручІеды устар,CyrillTrans,potter,,,ručʼedɨ ustar,Phonemic
+9-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),358,йилаг,CyrillTrans,"tin, tinplate",,,yilag,Phonemic
+9-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),627,къургъушин,CyrillTrans,lead (noun),,,Gurɣušin,Phonemic
+9-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),621,йилаг,CyrillTrans,iron,,,yilag,Phonemic
+9-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),1825,йез,CyrillTrans,"copper, bronze",,,yez,Phonemic
+9-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),759,гумуш,CyrillTrans,silver,,,gumuš,Phonemic
+9-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1369,къизил,CyrillTrans,gold,,,Gizil,Phonemic
+9-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),211,кІалыб гьыъын,CyrillTrans,cast (metals),,,k̛alɨb hɨʔɨn,Phonemic
+9-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1648,зиндан,CyrillTrans,anvil,,,zindan,Phonemic
+9-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),288,демирчихана,CyrillTrans,forge,,,demirčixana,Phonemic
+9-600-527-1,rutu1240,Rutul (Borchino Khnow dialect),1001,демирчи,CyrillTrans,"smith, blacksmith",,,demirči,Phonemic
+9-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1069,шириш,CyrillTrans,glue,,,širiš,Phonemic
+9-500-527-1,rutu1240,Rutul (Borchino Khnow dialect),502,къадах,CyrillTrans,nail,,,Gadax,Phonemic
+9-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),1481,кытІа,CyrillTrans,hammer,,,kɨt’a,Phonemic
+9-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1948,терхилах,CyrillTrans,saw,,,terxilax,Phonemic
+9-461-527-1,rutu1240,Rutul (Borchino Khnow dialect),46,кьаІчІ севин,CyrillTrans,hollow out,,,q̛aˤč̛ sewin,Phonemic
+9-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1501,кьаІчІ,CyrillTrans,bore,,,q̛aˤč̛,Phonemic
+9-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1840,лицІын,CyrillTrans,build,,,lɨc̛ɨn,Phonemic
+9-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1042,усуды устар,CyrillTrans,carpenter,,,usudɨ ustar,Phonemic
+9-422-527-1,rutu1240,Rutul (Borchino Khnow dialect),1361,дезгаІгь,CyrillTrans,tool,,,dezgaˤh,Phonemic
+9-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),245,хьырыс,CyrillTrans,broom,,,"x̌ɨrɨs, mugul",Phonemic
+9-380-527-3,rutu1240,Rutul (Borchino Khnow dialect),245,мугул,CyrillTrans,broom,,,"x̌ɨrɨs, mugul",Phonemic
+9-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1453,сидкьын,CyrillTrans,wash,,,sidq’ɨn,Phonemic
+9-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),230,хъатхьын,CyrillTrans,sweep,,,qatx̌ɨn,Phonemic
+9-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1487,ыъын,CyrillTrans,pour,,,"ɨʔɨn, sɨʔɨn",Phonemic
+9-350-527-3,rutu1240,Rutul (Borchino Khnow dialect),1487,сыъын,CyrillTrans,pour,,,"ɨʔɨn, sɨʔɨn",Phonemic
+9-343-527-1,rutu1240,Rutul (Borchino Khnow dialect),1414,чІутхьа гьыъын,CyrillTrans,"squeeze, wring",,,č̛utx̌a hɨʔɨn,Phonemic
+9-342-527-1,rutu1240,Rutul (Borchino Khnow dialect),1913,гудж сегьин,CyrillTrans,press,,,guǯ sehin,Phonemic
+9-341-527-1,rutu1240,Rutul (Borchino Khnow dialect),357,хъийиха гьыъын,CyrillTrans,hang up,,,qiyixa hɨʔɨn,Phonemic
+9-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),38,синдине гьалхун,CyrillTrans,spread out,,,sindine halxun,Phonemic
+9-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1455,дуъун,CyrillTrans,pull,,,duʔun,Phonemic
+9-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),214,эгъедуъун,CyrillTrans,stretch,,,eɣeduʔun,Phonemic
+9-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1449,маІте хъыъын,CyrillTrans,"rub, wipe",,,maˤte qɨʔɨn,Phonemic
+9-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),291,угълутІкьун,CyrillTrans,"flay, skin",,,uɣlut̛q̛un,Phonemic
+9-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1735,угъутІкьун,CyrillTrans,tear,,,yaɣut̛q̛un,Phonemic
+9-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1437,яха гьыъын,CyrillTrans,split,,,yaxa hɨʔɨn,Phonemic
+9-261-527-1,rutu1240,Rutul (Borchino Khnow dialect),588,кьатІ йишид,CyrillTrans,broken,,,q̛at̛ yišid,Phonemic
+9-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),680,йаха гьыъын,CyrillTrans,break,,,yaxa hɨʔɨn,Phonemic
+9-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),677,йаъвкІ,CyrillTrans,ax,,,yaˤwk’,Phonemic
+9-251-527-1,rutu1240,Rutul (Borchino Khnow dialect),290,джин,CyrillTrans,adze,,,ǯin,Phonemic
+9-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),356,макІратІ,CyrillTrans,"scissors, shears",,,mak̛rat̛,Phonemic
+9-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1352,кантІ,CyrillTrans,knife,,,kant̛,Phonemic
+9-223-527-1,rutu1240,Rutul (Borchino Khnow dialect),1434,кантІ ыхыІн,CyrillTrans,stab,,,kant̛ ɨxɨˤn,Phonemic
+9-222-527-1,rutu1240,Rutul (Borchino Khnow dialect),155,йаха гьыъын,CyrillTrans,"chop, hew",,,yaxa hɨʔɨn,Phonemic
+9-221-527-1,rutu1240,Rutul (Borchino Khnow dialect),355,джыка гьыъын,CyrillTrans,cut down,,,ӡ̌ɨka hɨʔɨn,Phonemic
+9-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1432,гьатIун,CyrillTrans,cut,,,hatʼun,Phonemic
+9-211-527-1,rutu1240,Rutul (Borchino Khnow dialect),354,худахьван йетин,CyrillTrans,pound with fist,,,xudax̌wan yetin,Phonemic
+9-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),2133,гъихьин,CyrillTrans,"strike (hit, beat)",,,ɣix̌in,Phonemic
+9-192-527-1,rutu1240,Rutul (Borchino Khnow dialect),760,йитІал,CyrillTrans,knot (noun),,,yit̛al,Phonemic
+9-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),1218,тІуьъ,CyrillTrans,"rope, cord",,,t̛üʔ,Phonemic
+9-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),1627,зинджир,CyrillTrans,chain,,,zinǯir,Phonemic
+9-161-527-1,rutu1240,Rutul (Borchino Khnow dialect),352,ачухъ гьыъын,CyrillTrans,untie,,,ačuq hɨʔɨn,Phonemic
+9-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1917,йитІе гьыъын,CyrillTrans,"tie, bind",,,yit̛e hɨʔɨn,Phonemic
+9-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1470,сытІа хъыъын,CyrillTrans,fold,,,"sɨt’a qɨʔɨn, sa sɨndiy liqix̌in",Phonemic
+9-150-527-3,rutu1240,Rutul (Borchino Khnow dialect),1470,са сындий лихъихьин,CyrillTrans,fold,,,"sɨt’a qɨʔɨn, sa sɨndiy liqix̌in",Phonemic
+9-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),2004,кьваІдкъат гьыъын,CyrillTrans,bend,,,qʼʷaˤdGat hɨʔɨn,Phonemic
+9-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),984,кар,CyrillTrans,work,,,kar,Phonemic
+9-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),2575,гьыъын,CyrillTrans,"do, make",,,hɨʔɨn,Phonemic
+8-980-527-1,rutu1240,Rutul (Borchino Khnow dialect),641,куьбелег,CyrillTrans,mushroom,,,kübeleg,Phonemic
+8-970-527-1,rutu1240,Rutul (Borchino Khnow dialect),33,макъвал,CyrillTrans,nettle,,,maGʷal,Phonemic
+8-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-527-1,rutu1240,Rutul (Borchino Khnow dialect),864,къабах,CyrillTrans,"pumpkin, squash",,,Gabax,Phonemic
+8-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),411,къабах,CyrillTrans,gourd,,,Gabax,Phonemic
+8-912-527-1,rutu1240,Rutul (Borchino Khnow dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),346,инджилед хук,CyrillTrans,banyan,,,inӡ̌iled xuk,Phonemic
+8-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),868,бананед хук,CyrillTrans,banana tree,,,bananed xuk,Phonemic
+8-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),345,алыдид хьед,CyrillTrans,sap,,,alɨdid x̌ed,Phonemic
+8-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1204,къабых,CyrillTrans,bark,,,Gabɨx,Phonemic
+8-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),409,гьаче бытах,CyrillTrans,forked branch,,,hače bɨtax,Phonemic
+8-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),344,хук,CyrillTrans,tree trunk,,,xuk,Phonemic
+8-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),241,куьтуьк,CyrillTrans,tree stump,,,kütük,Phonemic
+8-691-527-1,rutu1240,Rutul (Borchino Khnow dialect),1124,кьалийан,CyrillTrans,pipe,,,qʼaliyan,Phonemic
+8-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),1689,туьтуьнед хьум,CyrillTrans,smoke (tobacco),,,"tütüned x̌um, tambakudid x̌um",Phonemic
+8-690-527-3,rutu1240,Rutul (Borchino Khnow dialect),1689,тамбакудид хьум,CyrillTrans,smoke (tobacco),,,"tütüned x̌um, tambakudid x̌um",Phonemic
+8-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),974,туьтуьн,CyrillTrans,tobacco,,,"tütün, tambaku",Phonemic
+8-680-527-3,rutu1240,Rutul (Borchino Khnow dialect),974,тамбаку,CyrillTrans,tobacco,,,"tütün, tambaku",Phonemic
+8-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),343,тенег,CyrillTrans,vine,,,teneg,Phonemic
+8-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),968,маІвхаІлды хик,CyrillTrans,acorn,,,maˤwxaˤldɨ xik,Phonemic
+8-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),1915,цІыб,CyrillTrans,fir,,,c̛ib,Phonemic
+8-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1740,цІыб,CyrillTrans,pine,,,c̛ib,Phonemic
+8-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1855,йухь,CyrillTrans,birch,,,yuˤx̌,Phonemic
+8-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1950,хамк,CyrillTrans,beech,,,xamk,Phonemic
+8-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),644,маІвх,CyrillTrans,oak,,,maˤwx,Phonemic
+8-600-527-1,rutu1240,Rutul (Borchino Khnow dialect),906,хук,CyrillTrans,tree,,,xuk,Phonemic
+8-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),239,бычІ,CyrillTrans,flower,,,bɨc’,Phonemic
+8-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),628,йарпах,CyrillTrans,leaf,,,yarpax,Phonemic
+8-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1531,бытах,CyrillTrans,branch,,,bɨtax,Phonemic
+8-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),670,куьк,CyrillTrans,root,,,kük,Phonemic
+8-531-527-1,rutu1240,Rutul (Borchino Khnow dialect),1486,литІкьа гьыъын,CyrillTrans,plant (vb),,,lit’q’a hɨʔɨn,Phonemic
+8-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),342,сукъуд укь,CyrillTrans,hay,,,suGud uq’,Phonemic
+8-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),653,ала,CyrillTrans,plant (noun),,,ala,Phonemic
+8-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),606,укь,CyrillTrans,grass,,,uq’,Phonemic
+8-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),926,дуьгуь,CyrillTrans,rice,,,dügü,Phonemic
+8-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),506,къаргъидали,CyrillTrans,"maize, corn",,,Garɣidali,Phonemic
+8-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),60,гІаІргІаІл,CyrillTrans,oats,,,ʕaˤrʕaˤl,Phonemic
+8-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),23,сыкІыл,CyrillTrans,rye,,,sɨk’ɨl,Phonemic
+8-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1077,хьин,CyrillTrans,wheat,,,x̌ɨn,Phonemic
+8-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),932,хьытІ,CyrillTrans,barley,,,x̌ɨtʼ,Phonemic
+8-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),605,техил,CyrillTrans,"grain (barley, oats etc)",,,"texil, x̌ɨtʼ, ʕaˤrʕaˤl",Phonemic
+8-420-527-3,rutu1240,Rutul (Borchino Khnow dialect),605,хьытІ,CyrillTrans,"grain (barley, oats etc)",,,"texil, x̌ɨtʼ, ʕaˤrʕaˤl",Phonemic
+8-420-527-5,rutu1240,Rutul (Borchino Khnow dialect),605,гІаІргІаІл,CyrillTrans,"grain (barley, oats etc)",,,"texil, x̌ɨtʼ, ʕaˤrʕaˤl",Phonemic
+8-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),611,маІгьсул,CyrillTrans,"crop, harvest",,,maˤhsul,Phonemic
+8-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),223,хирман,CyrillTrans,threshing-floor,,,xirman,Phonemic
+8-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),285,йетин,CyrillTrans,thresh,,,yetin,Phonemic
+8-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),2132,чІаІнаІкІ,CyrillTrans,"sickle, scythe",,,"čʼaˤnaˤkʼ, mangal",Phonemic
+8-330-527-3,rutu1240,Rutul (Borchino Khnow dialect),2132,мангал,CyrillTrans,"sickle, scythe",,,"čʼaˤnaˤkʼ, mangal",Phonemic
+8-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),190,укь йыхыІн,CyrillTrans,"mow, reap",,,"uqʼ yɨxɨˤn, yeš hɨʔɨn",Phonemic
+8-320-527-3,rutu1240,Rutul (Borchino Khnow dialect),190,йеш гьыъын,CyrillTrans,"mow, reap",,,"uqʼ yɨxɨˤn, yeš hɨʔɨn",Phonemic
+8-311-527-1,rutu1240,Rutul (Borchino Khnow dialect),714,тухум,CyrillTrans,seed,,,"tuxum, suk",Phonemic
+8-311-527-3,rutu1240,Rutul (Borchino Khnow dialect),714,сук,CyrillTrans,seed,,,"tuxum, suk",Phonemic
+8-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),748,йезен,CyrillTrans,sow,,,"yezen, yezin",Phonemic
+8-310-527-3,rutu1240,Rutul (Borchino Khnow dialect),748,езин,CyrillTrans,sow,,,"yezen, yezin",Phonemic
+8-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),338,чІавархаІй,CyrillTrans,rake,,,cʼawarxaˤy,Phonemic
+8-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),337,йаба,CyrillTrans,fork,,,yaba,Phonemic
+8-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),284,туха,CyrillTrans,hoe,,,tuxa,Phonemic
+8-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1901,хикендез,CyrillTrans,shovel,,,xikendez,Phonemic
+8-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1176,бер,CyrillTrans,spade,,,ber,Phonemic
+8-212-527-1,rutu1240,Rutul (Borchino Khnow dialect),1794,чІирахь,CyrillTrans,furrow,,,č’irax̌,Phonemic
+8-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1418,тІетхъун,CyrillTrans,dig,,,t’etqun,Phonemic
+8-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1921,лаІйхаІ гьыъын,CyrillTrans,plow,,,laˤyxaˤ hɨʔɨn,Phonemic
+8-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),2002,къандах,CyrillTrans,ditch,,,"Gandax, arx",Phonemic
+8-170-527-3,rutu1240,Rutul (Borchino Khnow dialect),2002,арх,CyrillTrans,ditch,,,"Gandax, arx",Phonemic
+8-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1690,чапар,CyrillTrans,fence,,,čapar,Phonemic
+8-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1541,везин,CyrillTrans,"cultivate, till",,,wezin,Phonemic
+8-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),212,хуй,CyrillTrans,field (for cultivation),,,"xuy, pirecent",Phonemic
+8-120-527-3,rutu1240,Rutul (Borchino Khnow dialect),212,пирецент,CyrillTrans,field (for cultivation),,,"xuy, pirecent",Phonemic
+8-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),901,йыхынты,CyrillTrans,adobe,,,yɨxɨntɨ,Phonemic
+7-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),224,киреджед лыз,CyrillTrans,mortar,,,kireǯed lɨz,Phonemic
+7-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1006,керпич,CyrillTrans,brick,,,kerpič,Phonemic
+7-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),876,тагъ,CyrillTrans,arch,,,taɣ,Phonemic
+7-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),877,дагьрады устар,CyrillTrans,mason,,,dahradɨ ustar,Phonemic
+7-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),1227,кьул,CyrillTrans,board,,,q’ul,Phonemic
+7-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),281,шалман,CyrillTrans,"post, pole",,,šalman,Phonemic
+7-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1132,халланг,CyrillTrans,beam,,,xallang,Phonemic
+7-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),829,халланг,CyrillTrans,rafter,,,xallang,Phonemic
+7-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),280,халланг,CyrillTrans,ridgepole,,,xallang,Phonemic
+7-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),279,къамишед къвак,CyrillTrans,thatch,,,Gamišed Gʷak,Phonemic
+7-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),769,къвак,CyrillTrans,roof,,,Gʷak,Phonemic
+7-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),205,высын,CyrillTrans,trough,,,wɨsɨn,Phonemic
+7-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),745,ирафа,CyrillTrans,shelf,,,irafa,Phonemic
+7-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),2131,лемпэ,CyrillTrans,"lamp, torch",,,lempe,Phonemic
+7-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1775,устІул,CyrillTrans,table,,,ustʼul,Phonemic
+7-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1476,устІул,CyrillTrans,chair,,,ustʼul,Phonemic
+7-422-527-1,rutu1240,Rutul (Borchino Khnow dialect),806,эдийал,CyrillTrans,blanket,,,"ediyal, yurɣan",Phonemic
+7-422-527-3,rutu1240,Rutul (Borchino Khnow dialect),806,йургъан,CyrillTrans,blanket,,,"ediyal, yurɣan",Phonemic
+7-421-527-1,rutu1240,Rutul (Borchino Khnow dialect),1044,гъудукаІн,CyrillTrans,pillow,,,ɣudukaˤn,Phonemic
+7-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1663,карават,CyrillTrans,bed,,,karawat,Phonemic
+7-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1464,магъаІд,CyrillTrans,ladder,,,maɣaˤd,Phonemic
+7-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1305,куьрмел,CyrillTrans,chimney,,,kürmel,Phonemic
+7-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),859,пиш,CyrillTrans,stove,,,piš,Phonemic
+7-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),185,бахарий,CyrillTrans,fireplace,,,baxariy,Phonemic
+7-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),933,мас,CyrillTrans,wall,,,mas,Phonemic
+7-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1632,джил,CyrillTrans,floor,,,ǯil,Phonemic
+7-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1375,гъуІл,CyrillTrans,window,,,ɣuˤl,Phonemic
+7-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1472,аІчар,CyrillTrans,key,,,aˤčar,Phonemic
+7-231-527-1,rutu1240,Rutul (Borchino Khnow dialect),1012,уІб,CyrillTrans,"latch, door-bolt",,,uˤb,Phonemic
+7-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1596,гуьлег,CyrillTrans,lock (noun),,,güleg,Phonemic
+7-221-527-1,rutu1240,Rutul (Borchino Khnow dialect),80,рикизан,CyrillTrans,"doorpost, jamb",,,rikizan,Phonemic
+7-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1450,хал,CyrillTrans,room,,,xal,Phonemic
+7-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1567,рак,CyrillTrans,"door, gate",,,"rak, darwaza",Phonemic
+7-220-527-3,rutu1240,Rutul (Borchino Khnow dialect),1567,дарваза,CyrillTrans,"door, gate",,,"rak, darwaza",Phonemic
+7-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),335,меджлисед хал,CyrillTrans,meeting house,,,meǯlised xal,Phonemic
+7-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),334,кІухни,CyrillTrans,cookhouse,,,kʼuxni,Phonemic
+7-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),408,выгІлашид хал,CyrillTrans,men's house,,,wɨʕlašid xal,Phonemic
+7-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),736,гьаІйат,CyrillTrans,"yard, court",,,haˤyat,Phonemic
+7-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1316,чадира,CyrillTrans,tent,,,čadira,Phonemic
+7-131-527-1,rutu1240,Rutul (Borchino Khnow dialect),403,хал,CyrillTrans,garden-house,,,xal,Phonemic
+7-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1678,дахма,CyrillTrans,hut,,,daxma,Phonemic
+7-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1252,хал,CyrillTrans,house,,,xal,Phonemic
+7-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),363,йешемиш йишин,CyrillTrans,"dwell, live",,,yešemiš yišin,Phonemic
+6-960-527-1,rutu1240,Rutul (Borchino Khnow dialect),1171,гуьзгуь,CyrillTrans,mirror,,,güzgü,Phonemic
+6-950-527-1,rutu1240,Rutul (Borchino Khnow dialect),788,сабын,CyrillTrans,soap,,,sabɨn,Phonemic
+6-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),151,элмез,CyrillTrans,razor,,,elmez,Phonemic
+6-921-527-1,rutu1240,Rutul (Borchino Khnow dialect),333,кьыт,CyrillTrans,braid,,,q̛ɨt,Phonemic
+6-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1821,раІгъ,CyrillTrans,brush,,,raˤɣ,Phonemic
+6-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),1475,раІгъ,CyrillTrans,comb,,,raˤɣ,Phonemic
+6-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1021,десмел,CyrillTrans,towel,,,desmel,Phonemic
+6-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),332,хыла аІвырхаІй йелла,CyrillTrans,"handkerchief, rag",,,xɨla aˤwɨrxaˤy yella,Phonemic
+6-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),330,туьлуь,CyrillTrans,"headband, headdress",,,tülü,Phonemic
+6-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),770,тене,CyrillTrans,earring,,,tene,Phonemic
+6-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1860,хад,CyrillTrans,bead,,,xad,Phonemic
+6-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1961,хадбыр,CyrillTrans,necklace,,,xadbɨr,Phonemic
+6-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1754,зымаг,CyrillTrans,bracelet,,,zɨmag,Phonemic
+6-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1374,тІубаъаІл,CyrillTrans,ring (for finger),,,t̛ubaʔaˤl,Phonemic
+6-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1029,магьарыд дагьар,CyrillTrans,jewel,,,maharɨd dahar,Phonemic
+6-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),917,накьиш,CyrillTrans,"ornament, adornment",,,naq̛iš,Phonemic
+6-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),64,чІулучІили,CyrillTrans,pin,,,č’uluč’ili,Phonemic
+6-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),757,кІычІ,CyrillTrans,button,,,k̛ɨč’,Phonemic
+6-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1851,джибин,CyrillTrans,pocket,,,ӡ̌ibin,Phonemic
+6-590-527-1,rutu1240,Rutul (Borchino Khnow dialect),1151,дывахъ,CyrillTrans,veil,,,dɨwaq,Phonemic
+6-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),867,хылаъанбыр,CyrillTrans,glove,,,xɨlaʔanbɨr,Phonemic
+6-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),772,камар,CyrillTrans,"belt, girdle",,,"kamar, č̛ɨl",Phonemic
+6-570-527-3,rutu1240,Rutul (Borchino Khnow dialect),772,чIыл,CyrillTrans,"belt, girdle",,,"kamar, č̛ɨl",Phonemic
+6-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),875,чакмачий,CyrillTrans,"shoemaker, cobbler",,,čakmačiy,Phonemic
+6-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1381,аягъкъаб,CyrillTrans,shoe,,,ayaɣGab,Phonemic
+6-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),585,аягъкъаб,CyrillTrans,boot,,,"ayaɣGab, patink̛a",Phonemic
+6-520-527-3,rutu1240,Rutul (Borchino Khnow dialect),585,патинкІа,CyrillTrans,boot,,,"ayaɣGab, patink̛a",Phonemic
+6-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),329,гываъан,CyrillTrans,"stocking, sock",,,gɨwaɁan,Phonemic
+6-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),809,шарвал,CyrillTrans,trousers,,,šarwal,Phonemic
+6-461-527-1,rutu1240,Rutul (Borchino Khnow dialect),328,кьуркьумыды вахджег,CyrillTrans,grass-skirt,,,q̛urq̛umɨdɨ waxǯeg,Phonemic
+6-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1600,вахджег,CyrillTrans,skirt,,,waxǯeg,Phonemic
+6-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),2012,йаха,CyrillTrans,collar,,,yaxa,Phonemic
+6-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1622,ухун,CyrillTrans,shirt,,,uxun,Phonemic
+6-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),603,пІалтІум,CyrillTrans,coat,,,p̛alt̛um,Phonemic
+6-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),474,дун,CyrillTrans,woman's dress,,,dun,Phonemic
+6-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),157,шир,CyrillTrans,dye,,,šir,Phonemic
+6-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),326,плаш,CyrillTrans,cloak,,,plaš,Phonemic
+6-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1161,ухур,CyrillTrans,thread,,,uxur,Phonemic
+6-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1382,руб,CyrillTrans,needle,,,rub,Phonemic
+6-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),278,раб,CyrillTrans,awl,,,rab,Phonemic
+6-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1457,рыхьын,CyrillTrans,sew,,,rɨx̌ɨn,Phonemic
+6-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1787,дезгагь,CyrillTrans,loom,,,dezgah,Phonemic
+6-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),133,выхырхын,CyrillTrans,weave,,,wɨxɨrxɨn,Phonemic
+6-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),277,джегьре,CyrillTrans,spindle,,,ǯehre,Phonemic
+6-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),121,рыхьын,CyrillTrans,spin,,,rɨx̌ɨn,Phonemic
+6-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),629,кьидикь,CyrillTrans,leather,,,q̛ɨdɨq̛,Phonemic
+6-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),580,кьидикь,CyrillTrans,fur,,,q’idiqʼ,Phonemic
+6-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),325,лит,CyrillTrans,felt,,,lit,Phonemic
+6-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1641,ипак,CyrillTrans,silk,,,ipak,Phonemic
+6-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1850,бамбагад парче,CyrillTrans,cotton,,,bambagad parče,Phonemic
+6-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),916,канабади парче,CyrillTrans,"linen, flax",,,kanabadi parče,Phonemic
+6-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),964,тыныды парче,CyrillTrans,wool,,,tɨnɨdɨ parče,Phonemic
+6-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1616,парче,CyrillTrans,cloth,,,parče,Phonemic
+6-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),881,дерзичий,CyrillTrans,tailor,,,derzičiy,Phonemic
+6-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1895,палтар,CyrillTrans,"clothing, clothes",,,"paltar, walɨg",Phonemic
+6-120-527-3,rutu1240,Rutul (Borchino Khnow dialect),1895,валыг,CyrillTrans,"clothing, clothes",,,"paltar, walɨg",Phonemic
+6-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),158,лыъын,CyrillTrans,put on (clothes),,,lɨʔɨn,Phonemic
+5-971-527-1,rutu1240,Rutul (Borchino Khnow dialect),1556,гъылгъыды диракьды,CyrillTrans,egg yolk,,,ɣɨlɣɨdɨ diraq’dɨ,Phonemic
+5-970-527-1,rutu1240,Rutul (Borchino Khnow dialect),744,гъылыгъ,CyrillTrans,egg,,,ɣɨlɨɣ,Phonemic
+5-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),404,чахыр,CyrillTrans,fermented drink,,,čaxɨr,Phonemic
+5-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1524,чахыр,CyrillTrans,wine,,,čaxɨr,Phonemic
+5-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),941,ит,CyrillTrans,mead,,,it,Phonemic
+5-900-527-1,rutu1240,Rutul (Borchino Khnow dialect),731,шараб,CyrillTrans,"beverage, drink",,,šarab,Phonemic
+5-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),1245,даІдгъваІр,CyrillTrans,butter,,,daˤdɣʷaˤr,Phonemic
+5-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),1569,нисе,CyrillTrans,cheese,,,nise,Phonemic
+5-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),93,везин,CyrillTrans,milk (vb),,,wezin,Phonemic
+5-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),862,къант,CyrillTrans,sugar,,,Gant,Phonemic
+5-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),635,наІк,CyrillTrans,milk (noun),,,naˤk,Phonemic
+5-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),942,ит,CyrillTrans,honey,,,it,Phonemic
+5-821-527-1,rutu1240,Rutul (Borchino Khnow dialect),919,гІамды истиут,CyrillTrans,chili pepper,,,ʕamdɨ istiut,Phonemic
+5-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1385,истиут,CyrillTrans,pepper,,,istiut,Phonemic
+5-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1274,кьел,CyrillTrans,salt,,,q̛el,Phonemic
+5-791-527-1,rutu1240,Rutul (Borchino Khnow dialect),323,кьыш,CyrillTrans,"grease, fat",,,q̛ɨš,Phonemic
+5-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),1484,алыдыд чам,CyrillTrans,oil,,,alɨdɨd čam,Phonemic
+5-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),920,тІамыл,CyrillTrans,grape,,,t’amɨl,Phonemic
+5-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),191,хик’,CyrillTrans,nut,,,xik’,Phonemic
+5-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),322,инджил,CyrillTrans,fig,,,inǯil,Phonemic
+5-712-527-1,rutu1240,Rutul (Borchino Khnow dialect),1966,гаІт,CyrillTrans,bunch,,,gaˤt,Phonemic
+5-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1507,мейве,CyrillTrans,fruit,,,meywe,Phonemic
+5-700-527-1,rutu1240,Rutul (Borchino Khnow dialect),593,кІартІушкІа,CyrillTrans,potato,,,k̛art̛ušk’a,Phonemic
+5-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),832,лубуен,CyrillTrans,bean,,,lubuyen,Phonemic
+5-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),924,йемишбы,CyrillTrans,vegetables,,,yemišbɨ,Phonemic
+5-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1547,цІыс,CyrillTrans,"soup, broth",,,"c̛ɨs, riq̛",Phonemic
+5-640-527-3,rutu1240,Rutul (Borchino Khnow dialect),1547,рикь,CyrillTrans,"soup, broth",,,"c̛ɨs, riq̛",Phonemic
+5-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1874,ацІыд,CyrillTrans,sausage,,,ac̛ɨd,Phonemic
+5-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),634,як,CyrillTrans,meat,,,yak,Phonemic
+5-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),636,руІх,CyrillTrans,mill,,,ruˤx,Phonemic
+5-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1033,джуле гьыъын,CyrillTrans,"crush, grind",,,ǯule hɨʔɨn,Phonemic
+5-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1594,хуІр,CyrillTrans,"meal, flour",,,xuˤr,Phonemic
+5-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),274,лызыд гьыъын,CyrillTrans,knead,,,lɨzɨd hɨʔɨn,Phonemic
+5-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),273,лызыд,CyrillTrans,dough,,,lɨzɨd,Phonemic
+5-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1368,хьыв,CyrillTrans,bread,,,xɨw,Phonemic
+5-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),2017,кидиха гьыъын,CyrillTrans,"stir, mix",,,kidixa hɨʔɨn,Phonemic
+5-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1767,гъаІйыхыІн,CyrillTrans,scrape,,,ɣaˤyɨxɨˤn,Phonemic
+5-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),86,сагъын,CyrillTrans,"sieve, strain",,,saɣɨn,Phonemic
+5-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),275,маІте гьыъын,CyrillTrans,peel,,,maˤte hɨʔɨn,Phonemic
+5-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1833,наIхаIдид лыъыІн,CyrillTrans,supper,,,naˤxaˤdid lɨʔɨˤn,Phonemic
+5-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1833,гьамкьыдид лыъыІн,CyrillTrans,dinner,,,hamq̛ɨdid lɨʔɨˤn,Phonemic
+5-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),768,севеч,CyrillTrans,lunch,,,seweč,Phonemic
+5-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1322,негьер,CyrillTrans,breakfast,,,neher,Phonemic
+5-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1526,лыъыІн,CyrillTrans,meal (a),,,lɨʔɨˤn,Phonemic
+5-391-527-1,rutu1240,Rutul (Borchino Khnow dialect),272,накъкъаІш,CyrillTrans,tongs,,,naḠaˤš,Phonemic
+5-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),1302,чангал,CyrillTrans,fork (2),,,čangal,Phonemic
+5-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1352,кантІ,CyrillTrans,knife (2),,,kant’,Phonemic
+5-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1378,тур,CyrillTrans,spoon,,,tur,Phonemic
+5-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),271,бюлме,CyrillTrans,saucer,,,byulme,Phonemic
+5-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),476,гурушга,CyrillTrans,"cup, drinking vessel",,,gurušga,Phonemic
+5-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1530,душкъаб,CyrillTrans,bowl,,,dušGab,Phonemic
+5-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),270,гыбытІ,CyrillTrans,"pitcher, jug",,,gɨbɨt’,Phonemic
+5-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),480,тІарилкІа,CyrillTrans,plate,,,t̛arilk̛a,Phonemic
+5-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),481,тІарилкІа,CyrillTrans,dish,,,t’arilk’a,Phonemic
+5-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),31,гьейег,CyrillTrans,pan,,,heyeg,Phonemic
+5-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1462,гьейег,CyrillTrans,"pot, cooking vessel",,,heyeg,Phonemic
+5-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),854,чейникІ,CyrillTrans,kettle,,,"čeynik̛, čeydan",Phonemic
+5-270-527-3,rutu1240,Rutul (Borchino Khnow dialect),854,чейдан,CyrillTrans,kettle,,,"čeynik̛, čeydan",Phonemic
+5-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),183,йидже гьыъын,CyrillTrans,bake,,,yiǯe hɨʔɨn,Phonemic
+5-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1143,хьар,CyrillTrans,oven,,,"x̌ar, pečʲ",Phonemic
+5-250-527-3,rutu1240,Rutul (Borchino Khnow dialect),1143,печь,CyrillTrans,oven,,,"x̌ar, pečʲ",Phonemic
+5-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),2146,йидже гьыъын,CyrillTrans,"roast, fry",,,"yiǯe hɨʔɨn, kabab hɨʔɨn",Phonemic
+5-230-527-3,rutu1240,Rutul (Borchino Khnow dialect),2146,кабаб гьыъын,CyrillTrans,"roast, fry",,,"yiǯe hɨʔɨn, kabab hɨʔɨn",Phonemic
+5-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),792,ларса гьыъын,CyrillTrans,boil (vb),,,larsa hɨʔɨn,Phonemic
+5-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1100,гьухьа гьыъын,CyrillTrans,cook,,,hux̌a hɨʔɨn,Phonemic
+5-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),129,бугъмуш гьыъын,CyrillTrans,choke,,,buɣmuš hɨʔɨn,Phonemic
+5-181-527-1,rutu1240,Rutul (Borchino Khnow dialect),897,къуІтІ гьыъын,CyrillTrans,swallow,,,Guˤt̛ hɨʔɨn,Phonemic
+5-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),321,эйчІин,CyrillTrans,chew,,,eyč’in,Phonemic
+5-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1421,тІучІун,CyrillTrans,suck,,,t̛uč’un,Phonemic
+5-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),848,сусатмиш йишин,CyrillTrans,thirst,,,susatmiš yišin,Phonemic
+5-141-527-1,rutu1240,Rutul (Borchino Khnow dialect),199,гаІш либхьун,CyrillTrans,famine,,,gaˤš libx̌un,Phonemic
+5-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1864,гаІш,CyrillTrans,hunger,,,gaˤš,Phonemic
+5-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1401,рагъын,CyrillTrans,drink,,,raɣɨn,Phonemic
+5-125-527-1,rutu1240,Rutul (Borchino Khnow dialect),1728,сичид,CyrillTrans,rotten,,,sičid,Phonemic
+5-124-527-1,rutu1240,Rutul (Borchino Khnow dialect),1958,калыд,CyrillTrans,"green, unripe",,,kalɨd,Phonemic
+5-123-527-1,rutu1240,Rutul (Borchino Khnow dialect),178,хъийикьыд,CyrillTrans,ripe,,,qiyiq̛ɨd,Phonemic
+5-122-527-1,rutu1240,Rutul (Borchino Khnow dialect),1959,чухьуд,CyrillTrans,raw,,,čux̌ud,Phonemic
+5-121-527-1,rutu1240,Rutul (Borchino Khnow dialect),269,гьухьуд,CyrillTrans,cooked,,,hux̌ud,Phonemic
+5-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),256,йемек,CyrillTrans,food,,,yemek,Phonemic
+5-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1336,лиъин,CyrillTrans,eat,,,"liʔin, lɨˤʔɨn",Phonemic
+5-110-527-3,rutu1240,Rutul (Borchino Khnow dialect),1336,лыІъын,CyrillTrans,eat,,,"liʔin, lɨˤʔɨn",Phonemic
+4-990-527-1,rutu1240,Rutul (Borchino Khnow dialect),590,гъацІулды,CyrillTrans,"naked, bare",,,ɣaˤc̛uldɨ,Phonemic
+4-970-527-1,rutu1240,Rutul (Borchino Khnow dialect),1653,быркьыІды,CyrillTrans,blind,,,bɨrq̛ɨˤdi,Phonemic
+4-980-527-1,rutu1240,Rutul (Borchino Khnow dialect),1463,пиянды,CyrillTrans,intoxicated,,,piyandɨ,Phonemic
+4-960-527-1,rutu1240,Rutul (Borchino Khnow dialect),1666,лалды,CyrillTrans,mute,,,laldɨ,Phonemic
+4-950-527-1,rutu1240,Rutul (Borchino Khnow dialect),996,бышды,CyrillTrans,deaf,,,bɨšdɨ,Phonemic
+4-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),1125,качал,CyrillTrans,bald,,,"kačal, č̛er seč̛ud",Phonemic
+4-930-527-3,rutu1240,Rutul (Borchino Khnow dialect),1125,чIер сечIуд,CyrillTrans,bald,,,"kačal, č̛er seč̛ud",Phonemic
+4-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),320,кІала гьыъын,CyrillTrans,lame,,,k̛ala hɨʔɨn,Phonemic
+4-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1564,тембел,CyrillTrans,lazy,,,tembel,Phonemic
+4-912-527-1,rutu1240,Rutul (Borchino Khnow dialect),168,истрагьат гьыъын,CyrillTrans,rest,,,istrahat hɨʔɨn,Phonemic
+4-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),1757,сузуду,CyrillTrans,"tired, weary",,,suzudu,Phonemic
+4-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),655,зегьер,CyrillTrans,poison,,,zeher,Phonemic
+4-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),1372,дерман,CyrillTrans,"medicine, drug",,,"derman, dawa",Phonemic
+4-880-527-3,rutu1240,Rutul (Borchino Khnow dialect),1372,дава,CyrillTrans,"medicine, drug",,,"derman, dawa",Phonemic
+4-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),597,духтур,CyrillTrans,physician,,,duxtur,Phonemic
+4-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),499,даваа гьыъын,CyrillTrans,"cure, heal",,,"qawā hɨʔɨn, derman hɨʔɨn",Phonemic
+4-860-527-3,rutu1240,Rutul (Borchino Khnow dialect),499,дерман гьыъын,CyrillTrans,"cure, heal",,,"qawā hɨʔɨn, derman hɨʔɨn",Phonemic
+4-858-527-1,rutu1240,Rutul (Borchino Khnow dialect),497,дагъ,CyrillTrans,scar,,,daɣ,Phonemic
+4-857-527-1,rutu1240,Rutul (Borchino Khnow dialect),1808,меш,CyrillTrans,pus,,,meš,Phonemic
+4-856-527-1,rutu1240,Rutul (Borchino Khnow dialect),793,мешлемиш йишин,CyrillTrans,boil (noun),,,"mešlemiš yišin, duruy",Phonemic
+4-856-527-3,rutu1240,Rutul (Borchino Khnow dialect),793,дуруй,CyrillTrans,boil (noun),,,"mešlemiš yišin, duruy",Phonemic
+4-855-527-1,rutu1240,Rutul (Borchino Khnow dialect),1584,хьидди гыргыр губакІ,CyrillTrans,blister,,,x̌id̄i gɨrgɨr gubak’,Phonemic
+4-854-527-1,rutu1240,Rutul (Borchino Khnow dialect),148,гьугун,CyrillTrans,itch,,,hugun,Phonemic
+4-853-527-1,rutu1240,Rutul (Borchino Khnow dialect),1903,тІухуІб,CyrillTrans,swelling,,,t̛uxuˤb,Phonemic
+4-852-527-1,rutu1240,Rutul (Borchino Khnow dialect),1148,йетер гьыъын,CyrillTrans,bruise,,,yeter hɨʔɨn,Phonemic
+4-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),1109,кІацІ,CyrillTrans,"wound, sore",,,"kʼacʼ, yɨxɨˤn",Phonemic
+4-850-527-3,rutu1240,Rutul (Borchino Khnow dialect),1109,йыхыІн,CyrillTrans,"wound, sore",,,"kʼacʼ, yɨxɨˤn",Phonemic
+4-843-527-1,rutu1240,Rutul (Borchino Khnow dialect),102,мыкьа йишин,CyrillTrans,cold (catarrh),,,mɨq̛a yišin,Phonemic
+4-842-527-1,rutu1240,Rutul (Borchino Khnow dialect),1957,зоб,CyrillTrans,goiter,,,zob,Phonemic
+4-841-527-1,rutu1240,Rutul (Borchino Khnow dialect),1534,цІай лашун,CyrillTrans,fever,,,c̛ay lašun,Phonemic
+4-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1847,зеухьды,CyrillTrans,"sick, sickness",,,zeyx̌dɨ,Phonemic
+4-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1364,сагъды,CyrillTrans,"well, health",,,"saɣdɨ, guӡ̌lidɨ",Phonemic
+4-830-527-3,rutu1240,Rutul (Borchino Khnow dialect),1364,гуджлиды,CyrillTrans,"well, health",,,"saɣdɨ, guӡ̌lidɨ",Phonemic
+4-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1601,аджузды,CyrillTrans,weak,,,aӡ̌uzdɨ,Phonemic
+4-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),785,джанлыды,CyrillTrans,"strong, mighty, powerful",,,"ӡ̌anlɨdɨ, guӡ̌lidɨ",Phonemic
+4-810-527-3,rutu1240,Rutul (Borchino Khnow dialect),785,гуджлиды,CyrillTrans,"strong, mighty, powerful",,,"ӡ̌anlɨdɨ, guӡ̌lidɨ",Phonemic
+4-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),1773,сыр,CyrillTrans,"grave, tomb",,,sɨp,Phonemic
+4-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),1719,мейит кивхьин,CyrillTrans,bury (the dead),,,meyit kiwx̌in,Phonemic
+4-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),767,мейит,CyrillTrans,corpse,,,meyit,Phonemic
+4-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1417,йикье гьыъын,CyrillTrans,kill,,,yiq̛e hɨʔɨn,Phonemic
+4-751-527-1,rutu1240,Rutul (Borchino Khnow dialect),1904,хьидик кирхьуд,CyrillTrans,drowned,,,"x̌idik kirx̌ud, x̌idɨ lirx̌ud",Phonemic
+4-751-527-3,rutu1240,Rutul (Borchino Khnow dialect),1904,хьиды лирхьуд,CyrillTrans,drowned,,,"x̌idik kirx̌ud, x̌idɨ lirx̌ud",Phonemic
+4-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1494,йикьин,CyrillTrans,"die, dead",,,yiq̛in,Phonemic
+4-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1422,йешемиш йишин,CyrillTrans,"live, living, life",,,"yešemiš yišin, saɣdɨ",Phonemic
+4-740-527-3,rutu1240,Rutul (Borchino Khnow dialect),1422,сагъды,CyrillTrans,"live, living, life",,,"yešemiš yišin, saɣdɨ",Phonemic
+4-732-527-1,rutu1240,Rutul (Borchino Khnow dialect),1087,ухьна йиркьын,CyrillTrans,conceive,,,ux̌na yirč̛ɨn,Phonemic
+4-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1123,ухьна ади,CyrillTrans,pregnant,,,ux̌na adi,Phonemic
+4-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1090,гьухун,CyrillTrans,born (to be),,,huxun,Phonemic
+4-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1152,дуьхуьн,CyrillTrans,beget (of father),,,düxün,Phonemic
+4-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),138,хьиде аІчІун,CyrillTrans,bathe,,,x̌ide aˤč̛un,Phonemic
+4-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),52,гъаразын,CyrillTrans,shiver,,,ɣarazɨn,Phonemic
+4-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),1785,регин,CyrillTrans,have sexual intercourse,,,regin,Phonemic
+4-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),676,хыІн гьыъын,CyrillTrans,defecate,,,xɨˤn hɨʔɨn,Phonemic
+4-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),592,зур гьыъын,CyrillTrans,urinate,,,zur hɨʔɨn,Phonemic
+4-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1159,хьил сывыкын,CyrillTrans,break wind,,,x̌il sɨwɨkɨn,Phonemic
+4-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1602,некьикла кихъирхьун,CyrillTrans,wake up,,,neq̛ikla kiqirx̌un,Phonemic
+4-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1920,накь гъагун,CyrillTrans,dream,,,naq̛ ɣagun,Phonemic
+4-612-527-1,rutu1240,Rutul (Borchino Khnow dialect),1983,хур гьыъын,CyrillTrans,snore,,,xux hɨʔɨn,Phonemic
+4-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1585,сахын,CyrillTrans,sleep,,,saxɨn,Phonemic
+4-591-527-1,rutu1240,Rutul (Borchino Khnow dialect),268,чІавгь фигъибхьун,CyrillTrans,dribble,,,čʼawh fiɣibx̌un,Phonemic
+4-590-527-1,rutu1240,Rutul (Borchino Khnow dialect),319,миз вын,CyrillTrans,lick,,,miz wɨn,Phonemic
+4-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),1403,гичІ гьыъын,CyrillTrans,bite,,,"gičʼ hɨʔɨn, sɨs hɨwʔɨn",Phonemic
+4-580-527-3,rutu1240,Rutul (Borchino Khnow dialect),1403,сыс гьывъын,CyrillTrans,bite,,,"gičʼ hɨʔɨn, sɨs hɨwʔɨn",Phonemic
+4-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),1278,агълайчин,CyrillTrans,vomit,,,aɣlayčin,Phonemic
+4-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1440,ту сегьин,CyrillTrans,spit,,,tu sehin,Phonemic
+4-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),126,шинара йишин,CyrillTrans,perspire,,,šinara yišun,Phonemic
+4-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1621,чурхъун,CyrillTrans,sneeze,,,čurqun,Phonemic
+4-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),879,гьулухъ гьавъын,CyrillTrans,cough,,,huluq hawʔɨn,Phonemic
+4-521-527-1,rutu1240,Rutul (Borchino Khnow dialect),162,гьынкълейтин,CyrillTrans,hiccough,,,hɨnGleytin,Phonemic
+4-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1028,гьаІгь лавагъин,CyrillTrans,"yawn, gape",,,haˤh lawaɣin,Phonemic
+4-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1407,нафас лаІвшин,CyrillTrans,"breathe, breath",,,nafas laˤwšin,Phonemic
+4-492-527-1,rutu1240,Rutul (Borchino Khnow dialect),1222,ситир,CyrillTrans,penis,,,"sitir, kɨˤq̛",Phonemic
+4-492-527-3,rutu1240,Rutul (Borchino Khnow dialect),1222,кыIкь,CyrillTrans,penis,,,"sitir, kɨˤq̛",Phonemic
+4-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),797,гъыликъмар,CyrillTrans,testicle,,,ɣɨliGmar,Phonemic
+4-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),804,хынхыд хал,CyrillTrans,womb,,,xɨnxɨd xal,Phonemic
+4-464-527-1,rutu1240,Rutul (Borchino Khnow dialect),834,укады дан,CyrillTrans,buttocks,,,ukadɨ dan,Phonemic
+4-463-527-1,rutu1240,Rutul (Borchino Khnow dialect),1745,бег,CyrillTrans,hip,,,beg,Phonemic
+4-462-527-1,rutu1240,Rutul (Borchino Khnow dialect),1681,катид йыІкь,CyrillTrans,waist,,,katid yɨˤq̛,Phonemic
+4-461-527-1,rutu1240,Rutul (Borchino Khnow dialect),1991,рудбы,CyrillTrans,"intestines, guts",,,rudbɨ,Phonemic
+4-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),819,ухьун,CyrillTrans,stomach,,,ux̌un,Phonemic
+4-452-527-1,rutu1240,Rutul (Borchino Khnow dialect),1744,зилиз,CyrillTrans,spleen,,,ziliz,Phonemic
+4-451-527-1,rutu1240,Rutul (Borchino Khnow dialect),489,кІутІун,CyrillTrans,kidney,,,k̛ut̛un,Phonemic
+4-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1224,лакь,CyrillTrans,liver,,,laq̛,Phonemic
+4-441-527-1,rutu1240,Rutul (Borchino Khnow dialect),688,худул,CyrillTrans,lung,,,xudul,Phonemic
+4-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1223,йикІ,CyrillTrans,heart,,,yik̛,Phonemic
+4-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1838,раъаІтен,CyrillTrans,navel,,,raʔaˤten,Phonemic
+4-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),154,хыІв,CyrillTrans,udder,,,xɨˤw,Phonemic
+4-412-527-1,rutu1240,Rutul (Borchino Khnow dialect),796,тІитІид кІычІ,CyrillTrans,"nipple, teat",,,t̛ut̛id kʼɨčʼ,Phonemic
+4-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1402,тІитІ,CyrillTrans,breast (of woman),,,t̛it̛,Phonemic
+4-400-527-1,rutu1240,Rutul (Borchino Khnow dialect),1592,мыхыр,CyrillTrans,chest,,,mɨxɨr,Phonemic
+4-393-527-1,rutu1240,Rutul (Borchino Khnow dialect),1201,макъаІкъ,CyrillTrans,feather,,,maGaˤG,Phonemic
+4-392-527-1,rutu1240,Rutul (Borchino Khnow dialect),1257,къанат,CyrillTrans,wing,,,Ganat,Phonemic
+4-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1389,кыли,CyrillTrans,toe,,,kɨli,Phonemic
+4-374-527-1,rutu1240,Rutul (Borchino Khnow dialect),318,хьал,CyrillTrans,footprint,,,x̌al,Phonemic
+4-372-527-1,rutu1240,Rutul (Borchino Khnow dialect),980,кыв,CyrillTrans,heel,,,kɨw,Phonemic
+4-371-527-1,rutu1240,Rutul (Borchino Khnow dialect),803,тІурхуІй,CyrillTrans,ankle,,,t̛urxuˤy,Phonemic
+4-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1301,гъил,CyrillTrans,foot,,,ɣil,Phonemic
+4-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1371,кьвакь,CyrillTrans,knee,,,q̛ʷaq̛,Phonemic
+4-352-527-1,rutu1240,Rutul (Borchino Khnow dialect),498,цІумуд йак,CyrillTrans,calf of leg,,,c’umud yak,Phonemic
+4-351-527-1,rutu1240,Rutul (Borchino Khnow dialect),800,бег,CyrillTrans,thigh,,,beg,Phonemic
+4-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1297,гъил,CyrillTrans,leg,,,ɣil,Phonemic
+4-345-527-1,rutu1240,Rutul (Borchino Khnow dialect),72,хьеб,CyrillTrans,claw,,,x̌eb,Phonemic
+4-344-527-1,rutu1240,Rutul (Borchino Khnow dialect),1258,хьеб,CyrillTrans,fingernail,,,x̌eb,Phonemic
+4-342-527-1,rutu1240,Rutul (Borchino Khnow dialect),1781,аІккад тІили,CyrillTrans,thumb,,,"aˤk̄ad t̛ili, q̛uxdɨ t̛ili",Phonemic
+4-342-527-3,rutu1240,Rutul (Borchino Khnow dialect),1781,кьухды тIили,CyrillTrans,thumb,,,"aˤk̄ad t̛ili, q̛uxdɨ t̛ili",Phonemic
+4-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1303,тІили (хыл),CyrillTrans,finger,,,t̛ili (xɨl),Phonemic
+4-331-527-1,rutu1240,Rutul (Borchino Khnow dialect),1183,кIонакъ,CyrillTrans,palm of hand,,,k’onaG,Phonemic
+4-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1277,капач,CyrillTrans,hand,,,kapač,Phonemic
+4-321-527-1,rutu1240,Rutul (Borchino Khnow dialect),799,гъуьчел,CyrillTrans,wrist,,,ɣüčel,Phonemic
+4-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),981,филег,CyrillTrans,elbow,,,fileg,Phonemic
+4-312-527-1,rutu1240,Rutul (Borchino Khnow dialect),1886,кьаІчІыхьдед,CyrillTrans,armpit,,,q̛aˤč̛ɨx̌ded,Phonemic
+4-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1673,хыл,CyrillTrans,arm,,,xɨl,Phonemic
+4-302-527-1,rutu1240,Rutul (Borchino Khnow dialect),1994,гъуІнад чешаб,CyrillTrans,collarbone,,,ɣuˤnad češab,Phonemic
+4-301-527-1,rutu1240,Rutul (Borchino Khnow dialect),172,балкан,CyrillTrans,shoulderblade,,,balkan,Phonemic
+4-300-527-1,rutu1240,Rutul (Borchino Khnow dialect),1482,гъуІн,CyrillTrans,shoulder,,,ɣuˤn,Phonemic
+4-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),1346,бугъаз,CyrillTrans,throat,,,buɣaz,Phonemic
+4-281-527-1,rutu1240,Rutul (Borchino Khnow dialect),1347,даІхъ,CyrillTrans,nape of neck,,,daˤq,Phonemic
+4-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1333,гардан,CyrillTrans,neck,,,gardan,Phonemic
+4-272-527-1,rutu1240,Rutul (Borchino Khnow dialect),1049,хъаІкъвад сылаб,CyrillTrans,molartooth,,,qaˤGʷad sɨlab,Phonemic
+4-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1380,сылаб,CyrillTrans,tooth,,,sɨlab,Phonemic
+4-271-527-1,rutu1240,Rutul (Borchino Khnow dialect),139,калбы,CyrillTrans,gums,,,kalbɨ,Phonemic
+4-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1205,миз,CyrillTrans,tongue,,,miz,Phonemic
+4-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),478,пІыз,CyrillTrans,lip,,,p̛ɨz,Phonemic
+4-241-527-1,rutu1240,Rutul (Borchino Khnow dialect),73,кІухь,CyrillTrans,beak,,,k̛ux̌,Phonemic
+4-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),674,ел,CyrillTrans,mouth,,,yel,Phonemic
+4-232-527-1,rutu1240,Rutul (Borchino Khnow dialect),208,кІыр,CyrillTrans,mucus (nasal),,,k̛ɨr,Phonemic
+4-231-527-1,rutu1240,Rutul (Borchino Khnow dialect),1178,хьехьиди къач,CyrillTrans,nostril,,,x̌ex̌idi Gač,Phonemic
+4-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1221,хьехь,CyrillTrans,nose,,,x̌ex̌,Phonemic
+4-222-527-1,rutu1240,Rutul (Borchino Khnow dialect),32,чІикь,CyrillTrans,earwax,,,čʼiqʼ,Phonemic
+4-221-527-1,rutu1240,Rutul (Borchino Khnow dialect),18,убруды тІитІ,CyrillTrans,earlobe,,,ubrudɨ tʼitʼ,Phonemic
+4-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1247,убур,CyrillTrans,ear,,,ubur,Phonemic
+4-215-527-1,rutu1240,Rutul (Borchino Khnow dialect),1655,улабы сыджытхаІ гьыъын,CyrillTrans,blink,,,ulabɨ sɨǯɨtxaˤ hɨʔɨn,Phonemic
+4-214-527-1,rutu1240,Rutul (Borchino Khnow dialect),1540,гъыІбри,CyrillTrans,eyelash,,,ɣɨˤbri,Phonemic
+4-213-527-1,rutu1240,Rutul (Borchino Khnow dialect),17,кирпий,CyrillTrans,eyelid,,,kirpiy,Phonemic
+4-212-527-1,rutu1240,Rutul (Borchino Khnow dialect),1173,къаш,CyrillTrans,eyebrow,,,Gaš,Phonemic
+4-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1248,ул,CyrillTrans,eye,,,ul,Phonemic
+4-208-527-1,rutu1240,Rutul (Borchino Khnow dialect),1730,дан,CyrillTrans,cheek,,,dan,Phonemic
+4-209-527-1,rutu1240,Rutul (Borchino Khnow dialect),1510,кьацІ,CyrillTrans,chin,,,q’ac̛,Phonemic
+4-205-527-1,rutu1240,Rutul (Borchino Khnow dialect),123,баІл,CyrillTrans,forehead,,,baˤl,Phonemic
+4-207-527-1,rutu1240,Rutul (Borchino Khnow dialect),798,чене,CyrillTrans,jaw,,,čene,Phonemic
+4-204-527-1,rutu1240,Rutul (Borchino Khnow dialect),1560,хьесым,CyrillTrans,face,,,x̌esɨm,Phonemic
+4-203-527-1,rutu1240,Rutul (Borchino Khnow dialect),1583,гьыІт,CyrillTrans,brain,,,hɨˤt,Phonemic
+4-201-527-1,rutu1240,Rutul (Borchino Khnow dialect),1604,кьилтам,CyrillTrans,"side of head, temple",,,q̛iltam,Phonemic
+4-202-527-1,rutu1240,Rutul (Borchino Khnow dialect),1605,келлидид кьырыб,CyrillTrans,skull,,,kellidid q̛ɨrɨb,Phonemic
+4-200-527-1,rutu1240,Rutul (Borchino Khnow dialect),1256,келле,CyrillTrans,head,,,kelle,Phonemic
+4-191-527-1,rutu1240,Rutul (Borchino Khnow dialect),805,йыІкь баъркI,CyrillTrans,spine,,,yɨˤq̛ baʔrkʼ,Phonemic
+4-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),1291,йыІкь,CyrillTrans,back,,,yɨˤq̛,Phonemic
+4-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),1220,джыбыр,CyrillTrans,tail,,,ǯɨbɨr,Phonemic
+4-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1393,кач,CyrillTrans,horn,,,kač,Phonemic
+4-162-527-1,rutu1240,Rutul (Borchino Khnow dialect),801,бентІелий,CyrillTrans,rib,,,bent̛eliy,Phonemic
+4-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1394,кьырыб,CyrillTrans,bone,,,q̛ɨrɨb,Phonemic
+4-151-527-1,rutu1240,Rutul (Borchino Khnow dialect),525,дамар,CyrillTrans,"vein, artery",,,damar,Phonemic
+4-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),946,эбир,CyrillTrans,blood,,,ebir,Phonemic
+4-146-527-1,rutu1240,Rutul (Borchino Khnow dialect),576,къартмах,CyrillTrans,dandruff,,,Gartmax,Phonemic
+4-145-527-1,rutu1240,Rutul (Borchino Khnow dialect),36,чІарбы,CyrillTrans,pubic hair,,,č̛arbɨ,Phonemic
+4-144-527-1,rutu1240,Rutul (Borchino Khnow dialect),189,чІарбы,CyrillTrans,body hair,,,č̛arbɨ,Phonemic
+4-142-527-1,rutu1240,Rutul (Borchino Khnow dialect),678,мичІрий,CyrillTrans,beard,,,mič’riy,Phonemic
+4-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1040,чІарбы,CyrillTrans,hair (head),,,č̛arbɨ,Phonemic
+4-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),2259,джан,CyrillTrans,flesh,,,ӡ̌an,Phonemic
+4-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),763,къидикь,CyrillTrans,"skin, hide",,,Gidiq̛,Phonemic
+4-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1480,джан,CyrillTrans,body,,,ǯan,Phonemic
+3-980-527-1,rutu1240,Rutul (Borchino Khnow dialect),112,багъа,CyrillTrans,turtle,,,baɣa,Phonemic
+3-970-527-1,rutu1240,Rutul (Borchino Khnow dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-527-1,rutu1240,Rutul (Borchino Khnow dialect),632,келез,CyrillTrans,lizard,,,kelez,Phonemic
+3-950-527-1,rutu1240,Rutul (Borchino Khnow dialect),503,гъыІб,CyrillTrans,frog,,,ɣɨˤb,Phonemic
+3-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),1543,элбиз,CyrillTrans,snail,,,elbiz,Phonemic
+3-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),607,цІыцІ,CyrillTrans,grasshopper,,,c̛ɨc̛,Phonemic
+3-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1791,дурувай,CyrillTrans,butterfly,,,duruway,Phonemic
+3-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),206,рабгІаний,CyrillTrans,firefly,,,rabʕaniy,Phonemic
+3-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),730,гІар,CyrillTrans,snake,,,ʕar,Phonemic
+3-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1219,мулуІх,CyrillTrans,worm,,,muluˤx,Phonemic
+3-832-527-1,rutu1240,Rutul (Borchino Khnow dialect),1509,мичак,CyrillTrans,mosquito,,,mičak,Phonemic
+3-831-527-1,rutu1240,Rutul (Borchino Khnow dialect),95,мичак,CyrillTrans,"sandfly (midge), gnat",,,mičak,Phonemic
+3-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1504,дуд,CyrillTrans,fly,,,dud,Phonemic
+3-823-527-1,rutu1240,Rutul (Borchino Khnow dialect),1517,зибез,CyrillTrans,wasp,,,zibez,Phonemic
+3-822-527-1,rutu1240,Rutul (Borchino Khnow dialect),88,гъубагъ,CyrillTrans,beehive,,,ɣubaɣ,Phonemic
+3-821-527-1,rutu1240,Rutul (Borchino Khnow dialect),1931,мум,CyrillTrans,beeswax,,,mum,Phonemic
+3-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),665,гъубагъ,CyrillTrans,bee,,,ɣubaɣ,Phonemic
+3-819-527-1,rutu1240,Rutul (Borchino Khnow dialect),1065,хашхашайед хал,CyrillTrans,spider web,,,xašxašayed xal,Phonemic
+3-818-527-1,rutu1240,Rutul (Borchino Khnow dialect),843,хашхашай,CyrillTrans,spider,,,xašxašay,Phonemic
+3-817-527-1,rutu1240,Rutul (Borchino Khnow dialect),587,дзидзвирхьай,CyrillTrans,ant,,,ʒiӡʷirx̌ay,Phonemic
+3-816-527-1,rutu1240,Rutul (Borchino Khnow dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-527-1,rutu1240,Rutul (Borchino Khnow dialect),1538,акьраб,CyrillTrans,scorpion,,,aq̛rab,Phonemic
+3-814-527-1,rutu1240,Rutul (Borchino Khnow dialect),1974,къырхъайагъ,CyrillTrans,centipede,,,Gɨrqayaɣ,Phonemic
+3-813-527-1,rutu1240,Rutul (Borchino Khnow dialect),232,чІид,CyrillTrans,flea,,,č̛id,Phonemic
+3-812-527-1,rutu1240,Rutul (Borchino Khnow dialect),267,нетІ,CyrillTrans,nit (louse egg),,,net̛,Phonemic
+3-811-527-1,rutu1240,Rutul (Borchino Khnow dialect),1392,лихь,CyrillTrans,louse,,,lix̌,Phonemic
+3-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),620,джуджук,CyrillTrans,insect,,,ǯuǯuk,Phonemic
+3-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),1871,деве,CyrillTrans,camel,,,dewe,Phonemic
+3-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1936,марал,CyrillTrans,deer,,,maral,Phonemic
+3-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1312,сикІ,CyrillTrans,fox,,,sik̛,Phonemic
+3-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1820,сий,CyrillTrans,bear,,,siy,Phonemic
+3-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),522,убул,CyrillTrans,wolf,,,ubul,Phonemic
+3-663-527-1,rutu1240,Rutul (Borchino Khnow dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-527-1,rutu1240,Rutul (Borchino Khnow dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-527-1,rutu1240,Rutul (Borchino Khnow dialect),1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-527-1,rutu1240,Rutul (Borchino Khnow dialect),598,хидирид убур,CyrillTrans,shell,,,xidirid ubur,Phonemic
+3-653-527-1,rutu1240,Rutul (Borchino Khnow dialect),266,балугъад къабых,CyrillTrans,fishscale,,,baluɣad Gabɨx,Phonemic
+3-652-527-1,rutu1240,Rutul (Borchino Khnow dialect),213,балугъад къанат,CyrillTrans,fin (dorsal),,,baluɣad Ganat,Phonemic
+3-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),227,балугъ,CyrillTrans,fish,,,baluɣ,Phonemic
+3-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),2139,кьуІл,CyrillTrans,"mouse, rat",,,"qʼuˤl, t’apʼtʼapʼay",Phonemic
+3-630-527-3,rutu1240,Rutul (Borchino Khnow dialect),2139,тІапІтІапІай,CyrillTrans,"mouse, rat",,,"qʼuˤl, t’apʼtʼapʼay",Phonemic
+3-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1208,гаІт,CyrillTrans,cat,,,gaˤt,Phonemic
+3-614-527-1,rutu1240,Rutul (Borchino Khnow dialect),1136,гъыІр,CyrillTrans,rabbit,,,ɣɨˤr,Phonemic
+3-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),2009,кьатІай,CyrillTrans,dog,,,"q̛at̛ay, ħiy",Phonemic
+3-610-527-3,rutu1240,Rutul (Borchino Khnow dialect),2009,хIий,CyrillTrans,dog,,,"q̛at̛ay, ħiy",Phonemic
+3-594-527-1,rutu1240,Rutul (Borchino Khnow dialect),1853,нурхьвай,CyrillTrans,dove,,,nurx̌ʷay,Phonemic
+3-596-527-1,rutu1240,Rutul (Borchino Khnow dialect),735,байкъуш,CyrillTrans,owl,,,bayGuš,Phonemic
+3-593-527-1,rutu1240,Rutul (Borchino Khnow dialect),913,къаргъа,CyrillTrans,crow,,,Gaˤrɣa,Phonemic
+3-592-527-1,rutu1240,Rutul (Borchino Khnow dialect),882,кьуІтмаIв,CyrillTrans,parrot,,,qʼuˤtmaˤw,Phonemic
+3-591-527-1,rutu1240,Rutul (Borchino Khnow dialect),1793,макъракъай,CyrillTrans,bat,,,maGraGay,Phonemic
+3-586-527-1,rutu1240,Rutul (Borchino Khnow dialect),1185,фал къаджыр,CyrillTrans,vulture,,,fal Gaǯɨr,Phonemic
+3-585-527-1,rutu1240,Rutul (Borchino Khnow dialect),307,къиргъа,CyrillTrans,hawk,,,Girɣa,Phonemic
+3-584-527-1,rutu1240,Rutul (Borchino Khnow dialect),1905,къаджыр,CyrillTrans,eagle,,,Gaǯɨr,Phonemic
+3-582-527-1,rutu1240,Rutul (Borchino Khnow dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-527-1,rutu1240,Rutul (Borchino Khnow dialect),758,гьаьжилеглег,CyrillTrans,heron,,,häžilegleg,Phonemic
+3-581-527-1,rutu1240,Rutul (Borchino Khnow dialect),937,шурук,CyrillTrans,bird,,,šuruk,Phonemic
+3-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),539,йыва,CyrillTrans,nest,,,yɨwa,Phonemic
+3-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),1360,уьрдег,CyrillTrans,duck,,,ürdeg,Phonemic
+3-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1318,джуьдже,CyrillTrans,chicken,,,ǯüǯe,Phonemic
+3-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1514,кІатІ,CyrillTrans,hen,,,k̛at̛,Phonemic
+3-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1511,дадал,CyrillTrans,"cock, rooster",,,dadal,Phonemic
+3-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),890,къатыр,CyrillTrans,mule,,,Gatɨr,Phonemic
+3-500-527-1,rutu1240,Rutul (Borchino Khnow dialect),265,халыд шурукмар,CyrillTrans,fowl,,,xalɨd šurukmar,Phonemic
+3-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1862,йымаІл,CyrillTrans,"ass, donkey",,,yɨmaˤl,Phonemic
+3-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1647,кІурукІай,CyrillTrans,"foal, colt",,,k’uruk’ay,Phonemic
+3-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),938,хвар,CyrillTrans,mare,,,xʷar,Phonemic
+3-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),936,айгъыр,CyrillTrans,stallion,,,ayɣɨr,Phonemic
+3-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),615,балкан,CyrillTrans,horse (equine),,,balkan,Phonemic
+3-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1972,мытыл,CyrillTrans,kid,,,mɨtɨl,Phonemic
+3-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),264,мичІир,CyrillTrans,he-goat,,,mič̛ir,Phonemic
+3-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1502,цІигь,CyrillTrans,goat,,,c̛ih,Phonemic
+3-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1337,дунгъуз,CyrillTrans,pig,,,dunɣuz,Phonemic
+3-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1351,хьыдылды дунгъуз,CyrillTrans,sow (2),,,x̌ɨgɨldɨ dunɣuz,Phonemic
+3-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1348,выгIылды дунгъуз,CyrillTrans,boar,,,"wɨʕɨldɨ dunɣuz, waˤhši dunɣuz, Gaban",Phonemic
+3-320-527-3,rutu1240,Rutul (Borchino Khnow dialect),1348,ваІгьши дунгъуз,CyrillTrans,boar,,,"wɨʕɨldɨ dunɣuz, waˤhši dunɣuz, Gaban",Phonemic
+3-320-527-5,rutu1240,Rutul (Borchino Khnow dialect),1348,къабан,CyrillTrans,boar,,,"wɨʕɨldɨ dunɣuz, waˤhši dunɣuz, Gaban",Phonemic
+3-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),820,кел,CyrillTrans,lamb,,,kel,Phonemic
+3-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1345,тІехь,CyrillTrans,ewe,,,t̛ex̌,Phonemic
+3-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1344,къарг,CyrillTrans,ram,,,"Garg, wɨhɨr",Phonemic
+3-260-527-3,rutu1240,Rutul (Borchino Khnow dialect),1344,выгьыр,CyrillTrans,ram,,,"Garg, wɨhɨr",Phonemic
+3-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1331,чІабаІлаІр,CyrillTrans,sheep,,,č̛abaˤlaˤr,Phonemic
+3-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1989,дана,CyrillTrans,calf,,,dana,Phonemic
+3-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1007,зер,CyrillTrans,cow,,,zer,Phonemic
+3-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1169,йац,CyrillTrans,ox,,,yac,Phonemic
+3-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1008,йац,CyrillTrans,bull,,,"yac, buɣa",Phonemic
+3-210-527-3,rutu1240,Rutul (Borchino Khnow dialect),1008,бугъа,CyrillTrans,bull,,,"yac, buɣa",Phonemic
+3-200-527-1,rutu1240,Rutul (Borchino Khnow dialect),1153,къара мал,CyrillTrans,cattle (bovine),,,Gara mal,Phonemic
+3-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),851,вихь,CyrillTrans,"stable, stall",,,wix̌,Phonemic
+3-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),263,нехирван,CyrillTrans,herdsman,,,"nexirwan, xaˤbaqaˤn",Phonemic
+3-180-527-3,rutu1240,Rutul (Borchino Khnow dialect),263,хаIбахъаIн,CyrillTrans,herdsman,,,"nexirwan, xaˤbaqaˤn",Phonemic
+3-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),649,ейлим,CyrillTrans,pasture,,,"yeylim, yeblax",Phonemic
+3-160-527-3,rutu1240,Rutul (Borchino Khnow dialect),649,йеблах,CyrillTrans,pasture,,,"yeylim, yeblax",Phonemic
+3-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),631,халыд мал,CyrillTrans,livestock,,,xalɨd mal,Phonemic
+3-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),2262,хьыдылды,CyrillTrans,female (adj),,,x̌ɨgɨldɨ,Phonemic
+3-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),2261,выгІылды,CyrillTrans,male (adj),,,wɨʕɨldɨ,Phonemic
+3-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),619,гьейван,CyrillTrans,animal,,,heywan,Phonemic
+2-960-527-1,rutu1240,Rutul (Borchino Khnow dialect),817,гьавбыр,CyrillTrans,they,,,hawbɨr,Phonemic
+2-950-527-1,rutu1240,Rutul (Borchino Khnow dialect),1213,выІ,CyrillTrans,you (plural),,,wɨˤ,Phonemic
+2-940-527-1,rutu1240,Rutul (Borchino Khnow dialect),1212,йанур,CyrillTrans,we,,,yanur,Phonemic
+2-930-527-1,rutu1240,Rutul (Borchino Khnow dialect),262,гьавады,CyrillTrans,he/she/it,,,hawadɨ,Phonemic
+2-920-527-1,rutu1240,Rutul (Borchino Khnow dialect),1215,гъу,CyrillTrans,you (singular),,,ɣu,Phonemic
+2-910-527-1,rutu1240,Rutul (Borchino Khnow dialect),1209,йи,CyrillTrans,I,,,yi,Phonemic
+2-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),194,аилэ,CyrillTrans,family,,,aile,Phonemic
+2-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1644,шурабы,CyrillTrans,"relatives, kinsmen",,,šurabɨ,Phonemic
+2-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1981,хиндадай,CyrillTrans,widower,,,xindaday,Phonemic
+2-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1756,хиндадай,CyrillTrans,widow,,,xindaday,Phonemic
+2-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1058,чурхуду риш,CyrillTrans,stepdaughter,,,čurxudu riš,Phonemic
+2-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1059,чухуду дих,CyrillTrans,stepson,,,čuxudu dix,Phonemic
+2-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),236,чурхуду нин,CyrillTrans,stepmother,,,čurxudu nin,Phonemic
+2-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),237,чухуду дид,CyrillTrans,stepfather,,,čuxudu did,Phonemic
+2-641-527-1,rutu1240,Rutul (Borchino Khnow dialect),2264,сус,CyrillTrans,daughter-in-law (of a woman),,,sus,Phonemic
+2-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),2265,сус,CyrillTrans,daughter-in-law (of a man),,,sus,Phonemic
+2-631-527-1,rutu1240,Rutul (Borchino Khnow dialect),2266,йезнэ,CyrillTrans,son-in-law (of a woman),,,yezne,Phonemic
+2-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),2267,йезнэ,CyrillTrans,son-in-law (of a man),,,yezne,Phonemic
+2-621-527-1,rutu1240,Rutul (Borchino Khnow dialect),2257,дей,CyrillTrans,mother-in-law (of a woman),,,dey,Phonemic
+2-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),2256,дей,CyrillTrans,mother-in-law (of a man),,,dey,Phonemic
+2-611-527-1,rutu1240,Rutul (Borchino Khnow dialect),2254,абай,CyrillTrans,father-in-law (of a woman),,,abay,Phonemic
+2-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),2255,абай,CyrillTrans,father-in-law (of a man),,,abay,Phonemic
+2-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),490,эвлед,CyrillTrans,descendants,,,ewled,Phonemic
+2-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1669,ата-бабаер,CyrillTrans,ancestors,,,ata-babayer,Phonemic
+2-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1643,хыдыймар,CyrillTrans,cousin,,,xɨdɨymar,Phonemic
+2-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1642,хыдыл,CyrillTrans,niece,,,xɨdɨl,Phonemic
+2-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1063,хыдыл,CyrillTrans,nephew,,,xɨdɨl,Phonemic
+2-522-527-1,rutu1240,Rutul (Borchino Khnow dialect),170,дей,CyrillTrans,father's sister,,,dey,Phonemic
+2-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1272,дей,CyrillTrans,aunt,,,dey,Phonemic
+2-521-527-1,rutu1240,Rutul (Borchino Khnow dialect),171,дей,CyrillTrans,mother's sister,,,dey,Phonemic
+2-512-527-1,rutu1240,Rutul (Borchino Khnow dialect),1985,абай,CyrillTrans,father's brother,,,abay,Phonemic
+2-511-527-1,rutu1240,Rutul (Borchino Khnow dialect),1984,абай,CyrillTrans,mother's brother,,,abay,Phonemic
+2-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1327,абай,CyrillTrans,uncle,,,abay,Phonemic
+2-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1618,хыдыл,CyrillTrans,grandson,,,xɨdɨl,Phonemic
+2-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),1619,хыдыл,CyrillTrans,granddaughter,,,xɨdɨl,Phonemic
+2-471-527-1,rutu1240,Rutul (Borchino Khnow dialect),907,кьаІсди нене,CyrillTrans,old woman,,,q̛aˤsdi nene,Phonemic
+2-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1496,нене,CyrillTrans,grandmother,,,nene,Phonemic
+2-461-527-1,rutu1240,Rutul (Borchino Khnow dialect),406,кьаІсди,CyrillTrans,old man,,,q̛aˤsdi,Phonemic
+2-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1383,баба,CyrillTrans,grandfather,,,baba,Phonemic
+2-458-527-1,rutu1240,Rutul (Borchino Khnow dialect),1005,кьатІхаІйир,CyrillTrans,twins,,,q’at’xaˤyir,Phonemic
+2-456-527-1,rutu1240,Rutul (Borchino Khnow dialect),1640,шу-риший,CyrillTrans,sibling,,,šu-rišiy,Phonemic
+2-455-527-1,rutu1240,Rutul (Borchino Khnow dialect),1761,чІиртІди риший,CyrillTrans,younger sister,,,č’irt’di rišiy,Phonemic
+2-454-527-1,rutu1240,Rutul (Borchino Khnow dialect),1758,кьухьды риший,CyrillTrans,older sister,,,q̛ux̌dɨ rišiy,Phonemic
+2-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1263,риший,CyrillTrans,sister,,,rišiy,Phonemic
+2-445-527-1,rutu1240,Rutul (Borchino Khnow dialect),1760,чІиртІди шу,CyrillTrans,younger brother,,,č’irt’di š’u,Phonemic
+2-444-527-1,rutu1240,Rutul (Borchino Khnow dialect),1759,кьухьды шу,CyrillTrans,older brother,,,q̛ux̌dɨ šu,Phonemic
+2-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1262,шу,CyrillTrans,brother,,,šu,Phonemic
+2-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1801,хынымар,CyrillTrans,offspring (son or daughter),,,xɨnɨmar,Phonemic
+2-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1357,риш,CyrillTrans,daughter,,,riš,Phonemic
+2-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1620,дих,CyrillTrans,son,,,dix,Phonemic
+2-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),426,выгІлыхда киди,CyrillTrans,married woman,,,wɨʕlɨxda kidi,Phonemic
+2-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),424,къари руъуди,CyrillTrans,married man,,,Gari ruʔudi,Phonemic
+2-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),505,ваидейер,CyrillTrans,parents,,,waideyer,Phonemic
+2-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1216,нин,CyrillTrans,mother,,,nin,Phonemic
+2-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1217,дид,CyrillTrans,father,,,did,Phonemic
+2-341-527-1,rutu1240,Rutul (Borchino Khnow dialect),1134,чура хъишин,CyrillTrans,divorce,,,čura qišin,Phonemic
+2-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1259,дават,CyrillTrans,"marriage, wedding",,,"dawat, mahar",Phonemic
+2-340-527-3,rutu1240,Rutul (Borchino Khnow dialect),1259,магьар,CyrillTrans,"marriage, wedding",,,"dawat, mahar",Phonemic
+2-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),203,эвлемиш йишин,CyrillTrans,marry,,,"ewlemiš yišin, wɨʕlis rɨxɨn",Phonemic
+2-330-527-3,rutu1240,Rutul (Borchino Khnow dialect),203,выгIлис рыхын,CyrillTrans,marry,,,"ewlemiš yišin, wɨʕlis rɨxɨn",Phonemic
+2-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1199,къари,CyrillTrans,wife,,,Gari,Phonemic
+2-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1200,выгІыл,CyrillTrans,husband,,,wɨʕɨl,Phonemic
+2-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1289,чыгъа,CyrillTrans,"infant, baby",,,čɨɣa,Phonemic
+2-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1304,хыных,CyrillTrans,child,,,xɨnɨx,Phonemic
+2-261-527-1,rutu1240,Rutul (Borchino Khnow dialect),77,риш,CyrillTrans,young woman (adolescent),,,riš,Phonemic
+2-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1646,кIаъды риш,CyrillTrans,girl,,,k’aʔdɨ riš,Phonemic
+2-251-527-1,rutu1240,Rutul (Borchino Khnow dialect),76,джегьил,CyrillTrans,young man (adolescent),,,ǯehil,Phonemic
+2-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1366,гада,CyrillTrans,boy,,,gada,Phonemic
+2-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1551,хьыдылды,CyrillTrans,female,,,x̌ɨdɨldɨ,Phonemic
+2-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1553,выгІылды,CyrillTrans,male,,,wɨʕɨldɨ,Phonemic
+2-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),962,хьыдылды,CyrillTrans,woman,,,x̌ɨdɨldɨ,Phonemic
+2-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1554,эдемий,CyrillTrans,man (vs. woman),,,edemiy,Phonemic
+2-100-527-1,rutu1240,Rutul (Borchino Khnow dialect),683,илсан,CyrillTrans,"person, human being",,,ilsan,Phonemic
+1-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),1188,усыд кІаІшен,CyrillTrans,charcoal,,,usɨd k̛aˤšen,Phonemic
+1-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),10,усбы,CyrillTrans,firewood,,,usbɨ,Phonemic
+1-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),1133,чІык,CyrillTrans,match (noun),,,č’ɨk,Phonemic
+1-861-527-1,rutu1240,Rutul (Borchino Khnow dialect),127,сатхъаІ гьыъын,CyrillTrans,extinguish,,,satqaˤ hɨʔɨn,Phonemic
+1-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),737,кирше гьыъын,CyrillTrans,"light, kindle, ignite",,,kirše hɨʔɨn,Phonemic
+1-852-527-1,rutu1240,Rutul (Borchino Khnow dialect),1428,киршин,CyrillTrans,burn (vb intrans),,,kiršin,Phonemic
+1-851-527-1,rutu1240,Rutul (Borchino Khnow dialect),141,гьутхьа гьыъын,CyrillTrans,burn (vb trans),,,hutx̌a hɨʔɨn,Phonemic
+1-841-527-1,rutu1240,Rutul (Borchino Khnow dialect),67,киршей кІаІшен,CyrillTrans,embers,,,kiršey k’aˤšen,Phonemic
+1-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),646,рыІхъ,CyrillTrans,ashes,,,rɨˤq,Phonemic
+1-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),778,туьстуь,CyrillTrans,smoke (noun),,,tüstü,Phonemic
+1-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),889,йалав,CyrillTrans,flame (noun),,,yalaw,Phonemic
+1-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),221,цІай,CyrillTrans,fire,,,c̛ay,Phonemic
+1-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),617,мык,CyrillTrans,ice,,,mɨk,Phonemic
+1-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),784,йиз,CyrillTrans,snow (noun),,,yiz,Phonemic
+1-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),658,йугъал,CyrillTrans,rain (noun),,,yuɣal,Phonemic
+1-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),249,чемре,CyrillTrans,fog,,,čemre,Phonemic
+1-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),960,кулак,CyrillTrans,wind,,,kulak,Phonemic
+1-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1489,кыбыл,CyrillTrans,cloud,,,kɨbɨl,Phonemic
+1-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1977,чий,CyrillTrans,dew,,,čiy,Phonemic
+1-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1388,гуьлге,CyrillTrans,"shade, shadow",,,gülge,Phonemic
+1-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),11,мычІахъвал,CyrillTrans,darkness,,,mɨč̛aqwal,Phonemic
+1-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),630,иших,CyrillTrans,light (noun),,,išix,Phonemic
+1-590-527-1,rutu1240,Rutul (Borchino Khnow dialect),1733,хаІлеваз,CyrillTrans,rainbow,,,xaˤlewaz,Phonemic
+1-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),858,тІурфан,CyrillTrans,storm,,,t̛urfan,Phonemic
+1-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1150,хаІл удхун,CyrillTrans,thunder,,,xaˤl udxun,Phonemic
+1-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),2007,йилдирымере йыхыІн,CyrillTrans,lightning (as striking),,,yildirɨmere yɨxɨˤn,Phonemic
+1-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1654,йилдирим,CyrillTrans,lightning,,,yildirim,Phonemic
+1-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1430,хаІдаІй,CyrillTrans,star,,,xaˤdaˤy,Phonemic
+1-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1313,ваз,CyrillTrans,moon,,,waz,Phonemic
+1-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1343,виригъ,CyrillTrans,sun,,,wiriɣ,Phonemic
+1-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1732,хаІл,CyrillTrans,sky,,,xaˤl,Phonemic
+1-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),6,чІир гъаразын,CyrillTrans,earthquake,,,č’ir ɣarazɨn,Phonemic
+1-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),2125,дагьар,CyrillTrans,"stone, rock",,,dahar,Phonemic
+1-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1803,ус,CyrillTrans,wood,,,us,Phonemic
+1-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),906,хук,CyrillTrans,tree (cf 08.600),,,xuk,Phonemic
+1-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),420,чІалаг,CyrillTrans,"woods, forest",,,č̛alag,Phonemic
+1-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),943,маІгг,CyrillTrans,waterfall,,,maˤḡ,Phonemic
+1-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1145,ахмаз,CyrillTrans,swamp,,,axmaz,Phonemic
+1-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),2144,былах,CyrillTrans,"spring, well",,,"bɨlax, kehriz",Phonemic
+1-370-527-3,rutu1240,Rutul (Borchino Khnow dialect),2144,кегьриз,CyrillTrans,"spring, well",,,"bɨlax, kehriz",Phonemic
+1-362-527-1,rutu1240,Rutul (Borchino Khnow dialect),1982,бугъаІл,CyrillTrans,whirlpool,,,buɣaˤl,Phonemic
+1-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),666,чарагъаІн,CyrillTrans,"river, stream, brook",,,čaraɣaˤn,Phonemic
+1-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),978,далгъа,CyrillTrans,wave,,,dalɣa,Phonemic
+1-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),624,гуьл,CyrillTrans,lake,,,gül,Phonemic
+1-329-527-1,rutu1240,Rutul (Borchino Khnow dialect),645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-527-1,rutu1240,Rutul (Borchino Khnow dialect),1768,кубук,CyrillTrans,foam,,,kubuk,Phonemic
+1-323-527-1,rutu1240,Rutul (Borchino Khnow dialect),259,сертды,CyrillTrans,rough (of sea),,,sertdɨ,Phonemic
+1-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1474,деръя,CyrillTrans,sea,,,derya,Phonemic
+1-322-527-1,rutu1240,Rutul (Borchino Khnow dialect),258,саакитды,CyrillTrans,calm (of sea),,,sākitdɨ,Phonemic
+1-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),948,хьед,CyrillTrans,water,,,x̌ed,Phonemic
+1-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1155,къаIм,CyrillTrans,cave,,,Gaˤm,Phonemic
+1-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),113,къирах,CyrillTrans,shore,,,"Girax, ziɣ",Phonemic
+1-270-527-3,rutu1240,Rutul (Borchino Khnow dialect),113,зий,CyrillTrans,shore,,,"Girax, ziɣ",Phonemic
+1-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),622,ада,CyrillTrans,island,,,ada,Phonemic
+1-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),921,мырый,CyrillTrans,valley,,,mɨrɨy,Phonemic
+1-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),652,дуьзен,CyrillTrans,"plain, field",,,"düzen, xuy",Phonemic
+1-230-527-3,rutu1240,Rutul (Borchino Khnow dialect),652,хуй,CyrillTrans,"plain, field",,,"düzen, xuy",Phonemic
+1-222-527-1,rutu1240,Rutul (Borchino Khnow dialect),618,къарх,CyrillTrans,"cliff, precipice",,,"Garx, sarux̌ay č’ɨx",Phonemic
+1-222-527-3,rutu1240,Rutul (Borchino Khnow dialect),618,сарухьай,CyrillTrans,"cliff, precipice",,,"Garx, sarux̌ay č’ɨx",Phonemic
+1-222-527-5,rutu1240,Rutul (Borchino Khnow dialect),618,чІых,CyrillTrans,"cliff, precipice",,,"Garx, sarux̌ay č’ɨx",Phonemic
+1-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),2118,сув,CyrillTrans,"mountain, hill",,,"suw, tepe",Phonemic
+1-220-527-3,rutu1240,Rutul (Borchino Khnow dialect),2118,тепе,CyrillTrans,"mountain, hill",,,"suw, tepe",Phonemic
+1-214-527-1,rutu1240,Rutul (Borchino Khnow dialect),640,лаІрбаІгь,CyrillTrans,mud,,,laˤrbaˤh,Phonemic
+1-215-527-1,rutu1240,Rutul (Borchino Khnow dialect),671,къум,CyrillTrans,sand,,,Gum,Phonemic
+1-213-527-1,rutu1240,Rutul (Borchino Khnow dialect),2,руг,CyrillTrans,dust,,,rug,Phonemic
+1-212-527-1,rutu1240,Rutul (Borchino Khnow dialect),1228,чІир,CyrillTrans,"earth=ground, soil",,,"č’ir, nawqʼ",Phonemic
+1-212-527-3,rutu1240,Rutul (Borchino Khnow dialect),1228,навкь,CyrillTrans,"earth=ground, soil",,,"č’ir, nawqʼ",Phonemic
+1-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),626,уьлке,CyrillTrans,"earth, land",,,ülke,Phonemic
+1-100-527-1,rutu1240,Rutul (Borchino Khnow dialect),965,дуьнйа,CyrillTrans,world,,,dünya,Phonemic
+14-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1544,арабир,CyrillTrans,sometimes,,,arabir,Phonemic
+14-331-527-1,rutu1240,Rutul (Borchino Khnow dialect),703,сагьаІледиле,CyrillTrans,soon,,,sahaˤledile,Phonemic
+14-332-527-1,rutu1240,Rutul (Borchino Khnow dialect),418,балады ваІхтидыд,CyrillTrans,long-time (for a),,,baladɨ waˤxtidɨd,Phonemic
+14-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1656,гьечне ки,CyrillTrans,never,,,"hečne ki, mɨsna ki",Phonemic
+14-340-527-3,rutu1240,Rutul (Borchino Khnow dialect),1656,мысна ки,CyrillTrans,never,,,"hečne ki, mɨsna ki",Phonemic
+14-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),204,маа,CyrillTrans,again,,,"mā, gene",Phonemic
+14-350-527-3,rutu1240,Rutul (Borchino Khnow dialect),204,гене,CyrillTrans,again,,,"mā, gene",Phonemic
+14-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1225,йыгъ,CyrillTrans,day,,,yɨɣ,Phonemic
+14-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1233,йуІш,CyrillTrans,night,,,yuˤš,Phonemic
+14-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),729,лишан йыхыІн,CyrillTrans,dawn,,,lišan yɨxɨˤn,Phonemic
+14-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1339,йевк,CyrillTrans,morning,,,yewk,Phonemic
+14-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),12,гуьнурта,CyrillTrans,"noon, midday",,,günurta,Phonemic
+14-451-527-1,rutu1240,Rutul (Borchino Khnow dialect),1807,гьамкьади хьале,CyrillTrans,afternoon,,,hamq̛adi x̌ale,Phonemic
+14-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1629,хаІдей,CyrillTrans,evening,,,"xaˤdey, naˤx",Phonemic
+14-460-527-3,rutu1240,Rutul (Borchino Khnow dialect),1629,наIх,CyrillTrans,evening,,,"xaˤdey, naˤx",Phonemic
+14-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1283,гъийгъа,CyrillTrans,today,,,ɣiyɣa,Phonemic
+14-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1329,бага,CyrillTrans,tomorrow,,,baga,Phonemic
+14-481-527-1,rutu1240,Rutul (Borchino Khnow dialect),1179,хъудейгъа,CyrillTrans,day-after-tomorrow,,,qudeyɣa,Phonemic
+14-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),1174,накьай,CyrillTrans,yesterday,,,naq̛ay,Phonemic
+14-491-527-1,rutu1240,Rutul (Borchino Khnow dialect),1180,гьурайди йыгъа,CyrillTrans,day-before-yesterday,,,huraydi yɨɣa,Phonemic
+14-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1353,саъат,CyrillTrans,hour,,,saɁat,Phonemic
+14-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1323,саъат,CyrillTrans,"clock, timepiece",,,saɁat,Phonemic
+14-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1469,гьефте,CyrillTrans,week,,,hefte,Phonemic
+14-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1699,базарад йыгъ,CyrillTrans,Sunday,,,bazarad yɨɣ,Phonemic
+14-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1697,ислеъэн,CyrillTrans,Monday,,,isleɁen,Phonemic
+14-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1695,саласат,CyrillTrans,Tuesday,,,salasat,Phonemic
+14-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),1694,гьаІрба,CyrillTrans,Wednesday,,,haˤrba,Phonemic
+14-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),1692,улджумад йыгъ,CyrillTrans,Friday,,,ulǯumad yɨɣ,Phonemic
+14-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),1700,киш,CyrillTrans,Saturday,,,kiš,Phonemic
+14-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1370,ваз,CyrillTrans,month,,,waz,Phonemic
+14-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1226,сен,CyrillTrans,year,,,sen,Phonemic
+14-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1471,кьыІд,CyrillTrans,winter,,,q̛ɨˤd,Phonemic
+14-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1537,хьад,CyrillTrans,spring,,,x̌ad,Phonemic
+14-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1342,гъыІлд,CyrillTrans,summer,,,ɣɨˤld,Phonemic
+14-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1276,хумухуд,CyrillTrans,autumn,,,xumuxud,Phonemic
+14-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),691,сыдыд ваІхтбыр,CyrillTrans,season,,,sɨdɨd waˤxtbɨr,Phonemic
+15-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1587,ил йидкьын,CyrillTrans,smell (vb intrans),,,il yidq̛ɨn,Phonemic
+15-212-527-1,rutu1240,Rutul (Borchino Khnow dialect),375,кІыр саатхыІн,CyrillTrans,sniff,,,k̛ɨr sātxɨˤn,Phonemic
+15-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1586,ил гьыъын,CyrillTrans,smell (vb trans),,,il hɨʔɨn,Phonemic
+15-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),376,хошид ил,CyrillTrans,"fragrant, good smelling",,,xošid il,Phonemic
+15-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),42,кьуІшкьуІд ил,CyrillTrans,"stinking, bad smelling",,,q̛uˤšq̛uˤd il,Phonemic
+15-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),21,дад,CyrillTrans,taste,,,dad,Phonemic
+15-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),717,итид,CyrillTrans,sweet,,,itid,Phonemic
+15-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1091,кьел кид,CyrillTrans,salty,,,"q̛el kid, q̛uˤluˤquˤd",Phonemic
+15-360-527-3,rutu1240,Rutul (Borchino Khnow dialect),1091,кьуIлуIхъуIд,CyrillTrans,salty,,,"q̛el kid, q̛uˤluˤquˤd",Phonemic
+15-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),887,дакьыІлид,CyrillTrans,bitter,,,daq̛ɨˤlid,Phonemic
+15-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1906,чІурчІумуд,CyrillTrans,"acid, sour",,,č̛urč̛umud,Phonemic
+15-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),70,кьел гъамид,CyrillTrans,brackish,,,q̛el ɣamid,Phonemic
+15-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1408,ун йитІкьын,CyrillTrans,hear,,,un yit̛qʼɨn,Phonemic
+15-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),1608,убур хъихьин,CyrillTrans,listen,,,ubur qix̌in,Phonemic
+15-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1811,сес,CyrillTrans,"sound, noise",,,"ses, samɨr",Phonemic
+15-440-527-3,rutu1240,Rutul (Borchino Khnow dialect),1811,самыр,CyrillTrans,"sound, noise",,,"ses, samɨr",Phonemic
+15-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),377,йыкды сес,CyrillTrans,loud,,,yɨkdɨ ses,Phonemic
+15-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1314,саакитти,CyrillTrans,"quiet, silence",,,sākit̄i,Phonemic
+15-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1409,гъагун,CyrillTrans,see,,,ɣagun,Phonemic
+15-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1819,кахъын,CyrillTrans,"look, look at",,,kaqɨn,Phonemic
+15-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1039,гьагва гьыъын,CyrillTrans,show,,,hadʷa hɨʔɨn,Phonemic
+15-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),708,ишых сегьин,CyrillTrans,shine,,,išɨx sehin,Phonemic
+15-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),679,ачухуд,CyrillTrans,bright,,,ačuxud,Phonemic
+15-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),250,ачухуд,CyrillTrans,light (in color),,,ačuxud,Phonemic
+15-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),706,мычІахъыд,CyrillTrans,dark (in color),,,mɨčʼaqɨd,Phonemic
+15-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1335,джагворыд,CyrillTrans,white,,,ǯagʷorɨd,Phonemic
+15-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),163,лыІхыІд,CyrillTrans,black,,,lɨˤxɨˤd,Phonemic
+15-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),156,ирид,CyrillTrans,red,,,irid,Phonemic
+15-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),837,хьылыныд,CyrillTrans,blue,,,x̌ɨlɨnɨd,Phonemic
+15-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),1425,шилид,CyrillTrans,green,,,šilid,Phonemic
+15-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),1424,диракьыд,CyrillTrans,yellow,,,diraq̛ɨd,Phonemic
+15-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1892,кийкьын,CyrillTrans,touch,,,kinq̛ɨn,Phonemic
+15-712-527-1,rutu1240,Rutul (Borchino Khnow dialect),378,бичІичІ гьавын,CyrillTrans,pinch,,,bič̛ič̛ hawɨn,Phonemic
+15-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1079,хабар вишин,CyrillTrans,feel,,,xabar wišin,Phonemic
+15-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1884,йыкыд,CyrillTrans,hard,,,yɨkɨd,Phonemic
+15-750-527-1,rutu1240,Rutul (Borchino Khnow dialect),1856,гъыІдылид,CyrillTrans,soft,,,ɣɨˤdɨlid,Phonemic
+15-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),1923,хасыд,CyrillTrans,rough,,,xasɨd,Phonemic
+15-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1234,гьамаварыд,CyrillTrans,smooth,,,hamawarɨd,Phonemic
+15-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),1396,гьусуруд,CyrillTrans,sharp,,,"husurud, k̛ik̛ ɣad",Phonemic
+15-780-527-3,rutu1240,Rutul (Borchino Khnow dialect),1396,кІикІ гъад,CyrillTrans,sharp,,,"husurud, k̛ik̛ ɣad",Phonemic
+15-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),379,барыд,CyrillTrans,"blunt, dull",,,barɨd,Phonemic
+15-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1210,йукьуІд,CyrillTrans,heavy,,,yuq̛uˤd,Phonemic
+15-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1052,сылыд,CyrillTrans,light (in weight),,,sɨlɨd,Phonemic
+15-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),1726,маІгьыІд,CyrillTrans,"wet, damp",,,maˤhɨˤd,Phonemic
+15-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1398,сукъуд,CyrillTrans,dry,,,suGud,Phonemic
+15-850-527-1,rutu1240,Rutul (Borchino Khnow dialect),1286,бикІид,CyrillTrans,hot,,,bik̛id,Phonemic
+15-851-527-1,rutu1240,Rutul (Borchino Khnow dialect),1232,сыгІыд,CyrillTrans,warm,,,sɨʕɨd,Phonemic
+15-860-527-1,rutu1240,Rutul (Borchino Khnow dialect),1287,мыкьыд,CyrillTrans,cold,,,mɨq̛ɨd,Phonemic
+15-870-527-1,rutu1240,Rutul (Borchino Khnow dialect),704,маІъаІтыд,CyrillTrans,clean,,,maˤɁaˤtɨd,Phonemic
+15-880-527-1,rutu1240,Rutul (Borchino Khnow dialect),1230,тІалхъыд,CyrillTrans,"dirty, soiled",,,t̛alqɨd,Phonemic
+15-890-527-1,rutu1240,Rutul (Borchino Khnow dialect),380,айхыІд,CyrillTrans,wrinkled,,,"ayxɨˤd, ǯudxaray",Phonemic
+15-890-527-3,rutu1240,Rutul (Borchino Khnow dialect),380,джудхарай,CyrillTrans,wrinkled,,,"ayxɨˤd, ǯudxaray",Phonemic
+16-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),53,руІгь,CyrillTrans,"soul, spirit",,,ruˤh,Phonemic
+16-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1572,мат йишиды,CyrillTrans,"surprised, astonished",,,mat yišidɨ,Phonemic
+16-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),720,нахыш,CyrillTrans,"good fortune, luck",,,naxɨš,Phonemic
+16-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),56,гъичудхьун,CyrillTrans,"misfortune, bad luck",,,ɣičudx̌un,Phonemic
+16-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1495,бахтавар,CyrillTrans,"joyful, glad, happy",,,"baxtawar, šad̄ɨ",Phonemic
+16-230-527-3,rutu1240,Rutul (Borchino Khnow dialect),1495,шадды,CyrillTrans,"joyful, glad, happy",,,"baxtawar, šad̄ɨ",Phonemic
+16-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1355,йаІхъ гьыъын,CyrillTrans,laugh,,,yaˤq hɨʔɨn,Phonemic
+16-251-527-1,rutu1240,Rutul (Borchino Khnow dialect),1451,йаІхъ кидхьун,CyrillTrans,smile,,,yaˤq kidx̌un,Phonemic
+16-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1413,цІылкъын,CyrillTrans,play,,,c̛ɨlGɨn,Phonemic
+16-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),923,севмиш йишин,CyrillTrans,love,,,sewmiš yišin,Phonemic
+16-290-527-1,rutu1240,Rutul (Borchino Khnow dialect),578,кІугь кывын,CyrillTrans,kiss,,,k̛uh kɨwɨn,Phonemic
+16-300-527-1,rutu1240,Rutul (Borchino Khnow dialect),928,ачырхъа гьыъын,CyrillTrans,embrace,,,ačɨrqa hɨʔɨn,Phonemic
+16-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1783,йетин,CyrillTrans,pain,,,yetin,Phonemic
+16-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1668,хаджалат,CyrillTrans,"grief, sorrow, sadness",,,xaǯalat,Phonemic
+16-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1000,секинсызвалды,CyrillTrans,"anxiety, worry",,,sekinsɨzwaldɨ,Phonemic
+16-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1875,пашмал йишин,CyrillTrans,"regret, be sorry",,,"pašmal yišin, haˤyux̌ hɨʔɨn",Phonemic
+16-340-527-3,rutu1240,Rutul (Borchino Khnow dialect),1875,гьаІйухь гьыъын,CyrillTrans,"regret, be sorry",,,"pašmal yišin, haˤyux̌ hɨʔɨn",Phonemic
+16-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1141,йазухъвалды,CyrillTrans,pity,,,yazuqwaldɨ,Phonemic
+16-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1839,йешин,CyrillTrans,"cry, weep",,,"yešin, hɨnk̛ hap̛ɨn",Phonemic
+16-370-527-3,rutu1240,Rutul (Borchino Khnow dialect),1839,гьынкI гьапIын,CyrillTrans,"cry, weep",,,"yešin, hɨnk̛ hap̛ɨn",Phonemic
+16-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1651,навгъ,CyrillTrans,tear (noun),,,nawɣ,Phonemic
+16-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),716,цІырз гьавын,CyrillTrans,groan,,,c̛ɨrz hawɨn,Phonemic
+16-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1607,гъагвас чыгын,CyrillTrans,hate,,,ɣagʷas čɨgɨn,Phonemic
+16-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),82,хъаІл либкьын,CyrillTrans,anger,,,qaˤl libq̛ɨn,Phonemic
+16-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),40,бехилвалды,CyrillTrans,"envy, jealousy",,,bexilwaldɨ,Phonemic
+16-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1776,рыІхъ йишин,CyrillTrans,shame (noun),,,rɨˤq yišin,Phonemic
+16-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),174,йаІгь ады,CyrillTrans,proud,,,yaˤh adɨ,Phonemic
+16-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1779,векІегьды,CyrillTrans,dare,,,wek̛ehdɨ,Phonemic
+16-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),3,векІегьды,CyrillTrans,brave,,,wek̛ehdɨ,Phonemic
+16-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),781,кичІ,CyrillTrans,"fear, fright",,,kič̛,Phonemic
+16-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1810,къурху,CyrillTrans,danger,,,Gurxu,Phonemic
+16-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1784,тамаІгь,CyrillTrans,"desire, want",,,"tamaˤh, yɨgar yišin",Phonemic
+16-620-527-3,rutu1240,Rutul (Borchino Khnow dialect),1784,йыгар йишин,CyrillTrans,"desire, want",,,"tamaˤh, yɨgar yišin",Phonemic
+16-622-527-1,rutu1240,Rutul (Borchino Khnow dialect),1750,кагъаІшун,CyrillTrans,choose,,,kaɣaˤšun,Phonemic
+16-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),1092,инамиш йишин,CyrillTrans,hope,,,inamiš yišin,Phonemic
+16-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),100,умуд киды,CyrillTrans,faithful,,,umud kidɨ,Phonemic
+16-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),1657,эсил,CyrillTrans,true,,,esil,Phonemic
+16-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),601,мыхьч гьавын,CyrillTrans,"lie, tell lies",,,mɨx̌č hawɨn,Phonemic
+16-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),13,мыхьч гьавын,CyrillTrans,deceit,,,mɨx̌č hawɨn,Phonemic
+16-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),1528,багъышламиш гьыъын,CyrillTrans,forgive,,,baɣɨšlamiš hɨʔɨn,Phonemic
+16-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),1035,йыхыд,CyrillTrans,good,,,yɨxɨd,Phonemic
+16-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1292,писид,CyrillTrans,bad,,,pisid,Phonemic
+16-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),1725,уьткуьд,CyrillTrans,"right, correct",,,ütküd,Phonemic
+16-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),1390,сучІукуд,CyrillTrans,wrong,,,suč̛ukud,Phonemic
+16-760-527-1,rutu1240,Rutul (Borchino Khnow dialect),134,чІириды гвалах,CyrillTrans,fault,,,č̛iridɨ gʷalax,Phonemic
+16-770-527-1,rutu1240,Rutul (Borchino Khnow dialect),1293,чІириды гвалах,CyrillTrans,"mistake, error",,,č̛iridɨ gʷalax,Phonemic
+16-780-527-1,rutu1240,Rutul (Borchino Khnow dialect),381,батІил гьыъын,CyrillTrans,blame,,,bat̛il hɨʔɨn,Phonemic
+16-790-527-1,rutu1240,Rutul (Borchino Khnow dialect),1687,йирзин,CyrillTrans,praise,,,yirzin,Phonemic
+16-810-527-1,rutu1240,Rutul (Borchino Khnow dialect),1427,хошди,CyrillTrans,beautiful,,,xošdi,Phonemic
+16-820-527-1,rutu1240,Rutul (Borchino Khnow dialect),1548,кьуІшкьуІн,CyrillTrans,ugly,,,q̛uˤšq̛uˤn,Phonemic
+16-830-527-1,rutu1240,Rutul (Borchino Khnow dialect),2018,тамаІгькар,CyrillTrans,greedy,,,tamaˤhkar,Phonemic
+16-840-527-1,rutu1240,Rutul (Borchino Khnow dialect),1310,аІкьыІллы,CyrillTrans,clever,,,aˤq̛ɨˤllɨ,Phonemic
+17-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1562,аІкьыІл,CyrillTrans,mind,,,aˤq̛ɨˤl,Phonemic
+17-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),1415,фикир гьавъын,CyrillTrans,think (= reflect),,,fikir hawɁɨn,Phonemic
+17-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1513,фикир гьавъын,CyrillTrans,think (= be of the opinion),,,"fikir hawɁɨn, haˤsab hɨʔɨn",Phonemic
+17-140-527-3,rutu1240,Rutul (Borchino Khnow dialect),1513,гьаIсаб гьыъын,CyrillTrans,think (= be of the opinion),,,"fikir hawɁɨn, haˤsab hɨʔɨn",Phonemic
+17-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1890,инамиш йишин,CyrillTrans,believe,,,inamiš yišin,Phonemic
+17-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1536,баша ирхьун,CyrillTrans,understand,,,baša irx̌un,Phonemic
+17-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1410,гьацІын,CyrillTrans,know,,,hac̛ɨn,Phonemic
+17-171-527-1,rutu1240,Rutul (Borchino Khnow dialect),1932,гьаваса фикир гьавъын,CyrillTrans,guess,,,hawasa fikir hawʔɨn,Phonemic
+17-172-527-1,rutu1240,Rutul (Borchino Khnow dialect),117,кийка гьыъын,CyrillTrans,imitate,,,kiyka hɨʔɨn,Phonemic
+17-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),1521,гъагуд кал,CyrillTrans,seem,,,ɣagud kal,Phonemic
+17-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),1609,фикир,CyrillTrans,"idea, notion",,,"fikir, xiyal",Phonemic
+17-190-527-3,rutu1240,Rutul (Borchino Khnow dialect),1609,хиял,CyrillTrans,"idea, notion",,,"fikir, xiyal",Phonemic
+17-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),698,аІкьыІллиди,CyrillTrans,wise,,,aˤqʼɨˤllidi,Phonemic
+17-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1518,камды,CyrillTrans,"foolish, stupid",,,kamdɨ,Phonemic
+17-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1899,кейгъиди,CyrillTrans,"insane, crazy",,,keyɣidi,Phonemic
+17-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),504,гьацІа гьыъын,CyrillTrans,learn,,,hac̛a hɨʔɨn,Phonemic
+17-242-527-1,rutu1240,Rutul (Borchino Khnow dialect),1929,хаІр гьыъын,CyrillTrans,study,,,xaˤr hɨʔɨn,Phonemic
+17-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),709,хаІр гьыъын,CyrillTrans,teach,,,xaˤr hɨʔɨn,Phonemic
+17-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),753,телебе,CyrillTrans,pupil,,,tebele,Phonemic
+17-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1038,магьаІлим,CyrillTrans,teacher,,,mahaˤlim,Phonemic
+17-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),673,мектеб,CyrillTrans,school,,,mekteb,Phonemic
+17-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),707,йикІы гъадгын,CyrillTrans,remember,,,yik̛ɨ ɣadgɨn,Phonemic
+17-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1523,йикІыла удхун,CyrillTrans,forget,,,yik̛ɨla udxun,Phonemic
+17-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),989,ачухъуд,CyrillTrans,"clear, plain",,,ačuqud,Phonemic
+17-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1764,баш ихчивухьуй,CyrillTrans,obscure,,,baš ixčiwux̌uy,Phonemic
+17-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1121,сир,CyrillTrans,secret,,,sir,Phonemic
+17-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),509,инанмишды,CyrillTrans,"sure, certain",,,inanmišdɨ,Phonemic
+17-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),1626,баша эгьин,CyrillTrans,explain,,,baša ehin,Phonemic
+17-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1162,нийат,CyrillTrans,"intention, purpose",,,niyat,Phonemic
+17-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),860,мекьсед,CyrillTrans,cause,,,meq̛sed,Phonemic
+17-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),1308,шак вишин,CyrillTrans,doubt,,,šak wišin,Phonemic
+17-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1841,шак гьавын,CyrillTrans,suspect,,,šak hawɁɨn,Phonemic
+17-441-527-1,rutu1240,Rutul (Borchino Khnow dialect),1902,маса вын,CyrillTrans,betray,,,masa wɨn,Phonemic
+17-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),643,лазимвалды,CyrillTrans,"need, necessity",,,lazimwaldɨ,Phonemic
+17-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),686,рагьаІтыд,CyrillTrans,easy,,,rahaˤtɨd,Phonemic
+17-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),584,четинид,CyrillTrans,difficult,,,četinid,Phonemic
+17-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1812,чалых,CyrillTrans,"try, attempt",,,čalɨx,Phonemic
+17-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),488,шивна гьаъасди,CyrillTrans,"way, manner",,,šiwna haɁasdi,Phonemic
+17-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1577,вейа,CyrillTrans,and,,,weya,Phonemic
+17-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1157,гьаваса инис гуьре,CyrillTrans,because,,,hawasa inis güre,Phonemic
+17-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),1459,эгер,CyrillTrans,if,,,eger,Phonemic
+17-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1014,вейа,CyrillTrans,or,,,weya,Phonemic
+17-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),1268,эй,CyrillTrans,"yes, affirmative",,,ey,Phonemic
+17-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1269,ваъ,CyrillTrans,"no, negative",,,waɁ,Phonemic
+17-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1239,гьинсе,CyrillTrans,how?,,,hinse,Phonemic
+17-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),822,шудаъ,CyrillTrans,how many?,,,šudaɁ,Phonemic
+17-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),531,шудаъ,CyrillTrans,how much?,,,šudaɁ,Phonemic
+17-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1236,шив,CyrillTrans,what?,,,šiw,Phonemic
+17-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),1238,мыс,CyrillTrans,when?,,,mɨs,Phonemic
+17-660-527-1,rutu1240,Rutul (Borchino Khnow dialect),1237,гьине,CyrillTrans,where?,,,"hine, hinegɨr",Phonemic
+17-660-527-3,rutu1240,Rutul (Borchino Khnow dialect),1237,гьинегыр,CyrillTrans,where?,,,"hine, hinegɨr",Phonemic
+17-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),727,шивид,CyrillTrans,which?,,,šiwid,Phonemic
+17-680-527-1,rutu1240,Rutul (Borchino Khnow dialect),1235,гъуІш,CyrillTrans,who?,,,ɣuˤš,Phonemic
+17-690-527-1,rutu1240,Rutul (Borchino Khnow dialect),1270,гьис,CyrillTrans,why?,,,his,Phonemic
+18-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1363,сес,CyrillTrans,voice,,,ses,Phonemic
+18-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1261,чІалби гьухьун,CyrillTrans,sing,,,čʼalbi hux̌un,Phonemic
+18-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),715,аІъ савагъун,CyrillTrans,"shout, cry out",,,aˤɁ sawaɣun,Phonemic
+18-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),55,фыш-фыш овъын,CyrillTrans,whisper,,,fɨš-fɨš owɁɨn,Phonemic
+18-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),128,выдж джухьван гьалгын,CyrillTrans,mumble,,,wɨǯ ǯux̌ʷan halgɨn,Phonemic
+18-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1025,уьфтІ фавъын,CyrillTrans,whistle,,,üft̛ fawɁɨn,Phonemic
+18-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),298,цІырз гьавъын,CyrillTrans,"shriek, screech",,,c̛ɨrz hawɁɨn,Phonemic
+18-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),526,був савагъыІн,CyrillTrans,howl,,,buw sawaɣɨˤn,Phonemic
+18-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),1623,гьалгын,CyrillTrans,"speak, talk",,,halgɨn,Phonemic
+18-211-527-1,rutu1240,Rutul (Borchino Khnow dialect),1866,мизихда хъыІхыІн,CyrillTrans,"stutter, stammer",,,mizixda qɨˤxɨˤn,Phonemic
+18-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1458,гьухьун,CyrillTrans,say,,,hux̌un,Phonemic
+18-221-527-1,rutu1240,Rutul (Borchino Khnow dialect),1711,ихтилат гьыъын,CyrillTrans,tell story,,,"ixtilat hɨʔɨn, xabar hawʔɨn",Phonemic
+18-221-527-3,rutu1240,Rutul (Borchino Khnow dialect),1711,хабар гьавъын,CyrillTrans,tell story,,,"ixtilat hɨʔɨn, xabar hawʔɨn",Phonemic
+18-222-527-1,rutu1240,Rutul (Borchino Khnow dialect),1115,чІал фавхъын,CyrillTrans,speech (make a),,,č̛al fawqɨn,Phonemic
+18-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),48,кетин,CyrillTrans,silent (be),,,ketin,Phonemic
+18-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1307,чІел,CyrillTrans,language,,,"č̛el, miz",Phonemic
+18-240-527-3,rutu1240,Rutul (Borchino Khnow dialect),1307,миз,CyrillTrans,language,,,"č̛el, miz",Phonemic
+18-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),1599,чІал,CyrillTrans,word,,,č̛al,Phonemic
+18-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1405,тур,CyrillTrans,name,,,tur,Phonemic
+18-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1309,хуткун,CyrillTrans,"ask (question, inquire)",,,"xutkun, sual wɨn",Phonemic
+18-310-527-3,rutu1240,Rutul (Borchino Khnow dialect),1309,суал вын,CyrillTrans,"ask (question, inquire)",,,"xutkun, sual wɨn",Phonemic
+18-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1275,джаваб вын,CyrillTrans,answer,,,ǯawab wɨn,Phonemic
+18-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),2022,гардана факъын,CyrillTrans,"admit, confess",,,gardana faGɨn,Phonemic
+18-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),755,рази чишин,CyrillTrans,deny,,,razi čišin,Phonemic
+18-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1828,хагьиш гьыъын,CyrillTrans,"ask, request",,,xahiš hɨʔɨn,Phonemic
+18-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1675,чІал вын,CyrillTrans,promise,,,č̛al wɨn,Phonemic
+18-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),49,чІилика гахъуІчІин,CyrillTrans,refuse,,,č̛ilika gaquˤč̛in,Phonemic
+18-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),83,ихтийар чывын,CyrillTrans,forbid,,,ixtiyar čɨwɨn,Phonemic
+18-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),299,урухун,CyrillTrans,"rebuke, scold",,,uruxun,Phonemic
+18-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),1084,сес гьавын,CyrillTrans,call (=summon),,,ses hawɨn,Phonemic
+18-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),180,тур сыхыІн,CyrillTrans,call (=name),,,tur sɨxɨˤn,Phonemic
+18-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),9,гьухьун,CyrillTrans,announce,,,hux̌un,Phonemic
+18-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1192,кичІ кивин,CyrillTrans,threaten,,,kič̛ kiwin,Phonemic
+18-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),101,джу выдж,CyrillTrans,boast,,,"ǯu wɨǯ, yirzin",Phonemic
+18-450-527-3,rutu1240,Rutul (Borchino Khnow dialect),101,йирзин,CyrillTrans,boast,,,"ǯu wɨǯ, yirzin",Phonemic
+18-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1672,кихьин,CyrillTrans,write,,,kix̌in,Phonemic
+18-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),724,кьыле гьакьын,CyrillTrans,read,,,q̛ɨle haqʼɨn,Phonemic
+18-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),648,кагъад,CyrillTrans,paper,,,kaɣad,Phonemic
+18-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),794,ручкІа,CyrillTrans,pen,,,ruck̛a,Phonemic
+18-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-527-1,rutu1240,Rutul (Borchino Khnow dialect),1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-527-1,rutu1240,Rutul (Borchino Khnow dialect),777,тутдегий,CyrillTrans,flute,,,tutdegiy,Phonemic
+18-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),908,накьра,CyrillTrans,drum,,,naq̛ra,Phonemic
+18-730-527-1,rutu1240,Rutul (Borchino Khnow dialect),2136,дурба,CyrillTrans,"horn, trumpet",,,durba,Phonemic
+18-740-527-1,rutu1240,Rutul (Borchino Khnow dialect),300,хархарый,CyrillTrans,rattle,,,xarxarɨy,Phonemic
+19-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1300,уьлке,CyrillTrans,country,,,ülke,Phonemic
+19-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),89,ватан,CyrillTrans,one's native country,,,watan,Phonemic
+19-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1391,шегьер,CyrillTrans,"city, town",,,šeher,Phonemic
+19-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),930,муІкъ,CyrillTrans,village,,,muˤG,Phonemic
+19-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1010,сейраІгь,CyrillTrans,boundary,,,seyraˤh,Phonemic
+19-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),789,халкь,CyrillTrans,people (populace),,,xalq̛,Phonemic
+19-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),302,тухум,CyrillTrans,"tribe, clan",,,tuxum,Phonemic
+19-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),301,регьбер,CyrillTrans,"chief, chieftain",,,rehber,Phonemic
+19-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1296,кІар,CyrillTrans,"staff, walking stick",,,k̛ar,Phonemic
+19-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1846,кьухьвалды гьавын,CyrillTrans,"rule, govern",,,q̛ux̌ʷaldɨ hawɨn,Phonemic
+19-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),1508,паччагь,CyrillTrans,"king, ruler",,,pač̄ah,Phonemic
+19-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1306,паччагьады къари,CyrillTrans,queen,,,pač̄ahadɨ Gari,Phonemic
+19-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),482,эсуллуды,CyrillTrans,"noble, nobleman",,,esulludɨ,Phonemic
+19-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1032,шегьердэшуру,CyrillTrans,"citizen, subject",,,šeherdešuru,Phonemic
+19-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),383,иесси,CyrillTrans,master,,,iyes̄i,Phonemic
+19-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),812,къул,CyrillTrans,slave,,,Gul,Phonemic
+19-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),255,къул,CyrillTrans,servant,,,Gul,Phonemic
+19-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),384,ихтийар хад илсан,CyrillTrans,freeman,,,ixtiyar xad ilsan,Phonemic
+19-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1128,эмир выъын,CyrillTrans,"command, order",,,emir wɨɁɨn,Phonemic
+19-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1635,таби йишин,CyrillTrans,obey,,,tabi yišin,Phonemic
+19-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1003,ихтийар вын,CyrillTrans,"let, permit",,,ixtiyar wɨn,Phonemic
+19-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1325,дуст,CyrillTrans,"friend, companion",,,dust,Phonemic
+19-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),1332,къунши,CyrillTrans,neighbor,,,Gunši,Phonemic
+19-550-527-1,rutu1240,Rutul (Borchino Khnow dialect),791,чацІай илсан,CyrillTrans,stranger,,,čac̛ay ilsan,Phonemic
+19-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),1782,мигьман,CyrillTrans,guest,,,mihman,Phonemic
+19-570-527-1,rutu1240,Rutul (Borchino Khnow dialect),1545,эйесий,CyrillTrans,host,,,eyesiy,Phonemic
+19-580-527-1,rutu1240,Rutul (Borchino Khnow dialect),1897,куьмег,CyrillTrans,"help, aid",,,kümeg,Phonemic
+19-590-527-1,rutu1240,Rutul (Borchino Khnow dialect),1550,мешет гьыъын,CyrillTrans,"hinder, prevent",,,mešet hɨʔɨn,Phonemic
+19-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1747,эдэт,CyrillTrans,custom,,,edet,Phonemic
+19-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1848,хъаІл,CyrillTrans,"strife, quarrel",,,qaˤl,Phonemic
+19-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),2024,чІал арагы хивин,CyrillTrans,"conspiracy, plot",,,č̛al aragɨ xiwin,Phonemic
+19-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),1831,гуьруьш дишин,CyrillTrans,meet,,,gürüš dišin,Phonemic
+19-720-527-1,rutu1240,Rutul (Borchino Khnow dialect),1610,къаІгьба,CyrillTrans,prostitute,,,Gaˤhba,Phonemic
+20-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1423,киджидхъын,CyrillTrans,fight (vb),,,kiǯidqɨn,Phonemic
+20-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),579,даваІ,CyrillTrans,"war, battle",,,dawaˤ,Phonemic
+20-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),1338,суьлгь,CyrillTrans,peace,,,sülh,Phonemic
+20-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1561,къушин,CyrillTrans,army,,,Gušin,Phonemic
+20-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1941,эскер,CyrillTrans,soldier,,,esker,Phonemic
+20-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),951,йарах,CyrillTrans,"weapons, arms",,,yarax,Phonemic
+20-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1763,дупуз,CyrillTrans,club,,,dupuz,Phonemic
+20-222-527-1,rutu1240,Rutul (Borchino Khnow dialect),386,даІвъыет йавкІ,CyrillTrans,battle-ax,,,daˤwɁɨyet yawk̛,Phonemic
+20-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),387,даІвъыет йавкІ,CyrillTrans,sling,,,daˤwɁɨyet yawk̛,Phonemic
+20-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),994,йайъух,CyrillTrans,bow,,,yayɁux,Phonemic
+20-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),977,ух,CyrillTrans,arrow,,,ux,Phonemic
+20-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),945,джиде,CyrillTrans,spear,,,ǯide,Phonemic
+20-270-527-1,rutu1240,Rutul (Borchino Khnow dialect),1535,къыллындж,CyrillTrans,sword,,,Gɨllɨnǯ,Phonemic
+20-280-527-1,rutu1240,Rutul (Borchino Khnow dialect),1566,туфанг,CyrillTrans,"gun, cannon",,,tufang,Phonemic
+20-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1061,тулухан,CyrillTrans,armor (defensive),,,tuluxan,Phonemic
+20-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),1680,кьак,CyrillTrans,helmet,,,q̛ak,Phonemic
+20-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),1064,къалхан,CyrillTrans,shield,,,Galxan,Phonemic
+20-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1938,къала,CyrillTrans,fortress,,,Gala,Phonemic
+20-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),1671,килисе,CyrillTrans,tower,,,kilise,Phonemic
+20-410-527-1,rutu1240,Rutul (Borchino Khnow dialect),783,гъами дишин,CyrillTrans,victory,,,ɣami dišin,Phonemic
+20-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),782,ачуз дишин,CyrillTrans,defeat,,,ačuz dišin,Phonemic
+20-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),722,гьуджум гьыъын,CyrillTrans,attack,,,huǯum hɨʔɨn,Phonemic
+20-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),1330,дяви гьаІзыр дишин,CyrillTrans,defend,,,dyawi haˤzɨr dišin,Phonemic
+20-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),421,хъедехын,CyrillTrans,retreat,,,qedexɨn,Phonemic
+20-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1696,табы дишин,CyrillTrans,surrender,,,tabɨ dišin,Phonemic
+20-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1072,дустах,CyrillTrans,"captive, prisoner",,,dustax,Phonemic
+20-471-527-1,rutu1240,Rutul (Borchino Khnow dialect),1940,къаравул,CyrillTrans,"guard, sentinel",,,Garawul,Phonemic
+20-480-527-1,rutu1240,Rutul (Borchino Khnow dialect),1022,душманада фагъаІшуд мал,CyrillTrans,"booty, spoils",,,dušmanada faɣaˤšud mal,Phonemic
+20-490-527-1,rutu1240,Rutul (Borchino Khnow dialect),65,дагулана душманад къабагъ факъкъын,CyrillTrans,ambush,,,dagulana dusmanad Gabaɣ faḠɨn,Phonemic
+20-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),1858,балугъчий,CyrillTrans,fisherman,,,baluɣčiy,Phonemic
+20-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1074,гыІх,CyrillTrans,fishhook,,,gɨˤx,Phonemic
+20-530-527-1,rutu1240,Rutul (Borchino Khnow dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-527-1,rutu1240,Rutul (Borchino Khnow dialect),388,чил,CyrillTrans,fishnet,,,čil,Phonemic
+20-560-527-1,rutu1240,Rutul (Borchino Khnow dialect),2013,бахме,CyrillTrans,bait,,,baxme,Phonemic
+20-610-527-1,rutu1240,Rutul (Borchino Khnow dialect),1435,гъыІрче дыхьын,CyrillTrans,hunt,,,ɣɨˤrče dɨx̌ɨn,Phonemic
+20-620-527-1,rutu1240,Rutul (Borchino Khnow dialect),1172,гуьлле вигьин,CyrillTrans,shoot,,,gülle wihin,Phonemic
+20-630-527-1,rutu1240,Rutul (Borchino Khnow dialect),161,гуьлле кичвыкьын,CyrillTrans,miss (target),,,gülle kičwɨq̛ɨn,Phonemic
+20-640-527-1,rutu1240,Rutul (Borchino Khnow dialect),1075,чІаІнкІ,CyrillTrans,trap (noun),,,č̛aˤnk̛,Phonemic
+20-650-527-1,rutu1240,Rutul (Borchino Khnow dialect),1170,фавкъын,CyrillTrans,trap (vb),,,fawq̛ɨn,Phonemic
+21-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),1062,закІун,CyrillTrans,law,,,zak̛un,Phonemic
+21-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),1818,судламиш дыъын,CyrillTrans,judge (vb),,,sudlamiš dɨʔɨn,Phonemic
+21-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),1067,судара гьакь гьатІун,CyrillTrans,judgment,,,sudara haq̛ hatʼun,Phonemic
+21-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),861,судие,CyrillTrans,judge (noun),,,sudiye,Phonemic
+21-210-527-1,rutu1240,Rutul (Borchino Khnow dialect),2020,джаваб ахтармиш гьаъад,CyrillTrans,plaintiff,,,ǯawab axtarmiš haɁad,Phonemic
+21-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),1034,джавабчи,CyrillTrans,defendant,,,ǯawabči,Phonemic
+21-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),1144,шагьид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),1939,кьин гьыъын,CyrillTrans,swear,,,q̛in hɨʔɨn,Phonemic
+21-250-527-1,rutu1240,Rutul (Borchino Khnow dialect),1712,кьин,CyrillTrans,oath,,,q̛in,Phonemic
+21-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1814,батІил гьыъын,CyrillTrans,accuse,,,bat̛il hɨʔɨn,Phonemic
+21-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),484,батІил гьыъын,CyrillTrans,condemn,,,bat̛il hɨʔɨn,Phonemic
+21-330-527-1,rutu1240,Rutul (Borchino Khnow dialect),983,батІил гьыъын,CyrillTrans,convict (vb),,,bat̛il hɨʔɨn,Phonemic
+21-340-527-1,rutu1240,Rutul (Borchino Khnow dialect),988,гьакь гьыъын,CyrillTrans,acquit,,,haq̛ hɨʔɨn,Phonemic
+21-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1682,тахсыркар,CyrillTrans,guilty,,,taxsɨrkar,Phonemic
+21-360-527-1,rutu1240,Rutul (Borchino Khnow dialect),90,тахсирсыз,CyrillTrans,innocent,,,taxsirsɨz,Phonemic
+21-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),390,аІзим,CyrillTrans,"penalty, punishment",,,aˤzim,Phonemic
+21-380-527-1,rutu1240,Rutul (Borchino Khnow dialect),218,тангыдид иштираф,CyrillTrans,fine,,,tangɨdid ištiraf,Phonemic
+21-390-527-1,rutu1240,Rutul (Borchino Khnow dialect),1281,дустах,CyrillTrans,"prison, jail",,,dustax,Phonemic
+21-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),845,йикье гьыъын,CyrillTrans,murder,,,yiq̛e hɨʔɨn,Phonemic
+21-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),902,къаІгьбевалды выъын,CyrillTrans,adultery,,,Gaˤhbewaldɨ wɨʔɨn,Phonemic
+21-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),953,чІир рыъын,CyrillTrans,rape,,,"č̛ir rɨʔɨn, guӡ̌ wɨʔɨn",Phonemic
+21-440-527-3,rutu1240,Rutul (Borchino Khnow dialect),953,гудж выъын,CyrillTrans,rape,,,"č̛ir rɨʔɨn, guӡ̌ wɨʔɨn",Phonemic
+21-460-527-1,rutu1240,Rutul (Borchino Khnow dialect),1889,гьудхьа гьыъын,CyrillTrans,arson,,,"hudx̌a hɨʔɨn, c̛ay yɨxɨn",Phonemic
+21-460-527-3,rutu1240,Rutul (Borchino Khnow dialect),1889,цIай йыхын,CyrillTrans,arson,,,"hudx̌a hɨʔɨn, c̛ay yɨxɨn",Phonemic
+21-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),1792,судда мыхьч гьавын,CyrillTrans,perjury,,,sud̄a mɨx̌č hawɨn,Phonemic
+21-510-527-1,rutu1240,Rutul (Borchino Khnow dialect),713,сырыхчивалды выъын,CyrillTrans,steal,,,sɨrɨxčiwaldɨ wɨʔɨn,Phonemic
+21-520-527-1,rutu1240,Rutul (Borchino Khnow dialect),1160,сырыхчей,CyrillTrans,thief,,,sɨrɨxčey,Phonemic
+22-110-527-1,rutu1240,Rutul (Borchino Khnow dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-527-1,rutu1240,Rutul (Borchino Khnow dialect),1944,Йиниш,CyrillTrans,God,,,"Yiniš, Allah",Phonemic
+22-120-527-3,rutu1240,Rutul (Borchino Khnow dialect),1944,Аллагь,CyrillTrans,God,,,"Yiniš, Allah",Phonemic
+22-130-527-1,rutu1240,Rutul (Borchino Khnow dialect),911,килисэ,CyrillTrans,"temple, church",,,kilise,Phonemic
+22-140-527-1,rutu1240,Rutul (Borchino Khnow dialect),853,мигьбар,CyrillTrans,altar,,,mihbar,Phonemic
+22-150-527-1,rutu1240,Rutul (Borchino Khnow dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,q̛urban,Phonemic
+22-160-527-1,rutu1240,Rutul (Borchino Khnow dialect),257,динды йиркьын,CyrillTrans,worship,,,dindɨ yirq̛ɨn,Phonemic
+22-170-527-1,rutu1240,Rutul (Borchino Khnow dialect),24,куб гьавъын,CyrillTrans,pray,,,kub hawʔɨn,Phonemic
+22-180-527-1,rutu1240,Rutul (Borchino Khnow dialect),852,малла,CyrillTrans,priest,,,"malla, kešiš",Phonemic
+22-180-527-3,rutu1240,Rutul (Borchino Khnow dialect),852,кешиш,CyrillTrans,priest,,,"malla, kešiš",Phonemic
+22-190-527-1,rutu1240,Rutul (Borchino Khnow dialect),1702,йыхды кас,CyrillTrans,"holy, sacred",,,yɨxdɨ kas,Phonemic
+22-220-527-1,rutu1240,Rutul (Borchino Khnow dialect),304,веъза-насигьат гьыъын,CyrillTrans,preach,,,weɁza-hasihat hɨʔɨn,Phonemic
+22-230-527-1,rutu1240,Rutul (Borchino Khnow dialect),391,уІзур вын,CyrillTrans,bless,,,uˤzur wɨn,Phonemic
+22-240-527-1,rutu1240,Rutul (Borchino Khnow dialect),8,къаргъыш гьыъын,CyrillTrans,curse,,,Garɣɨš hɨʔɨn,Phonemic
+22-260-527-1,rutu1240,Rutul (Borchino Khnow dialect),303,сив факъын,CyrillTrans,fast (vb),,,siw faGɨn,Phonemic
+22-310-527-1,rutu1240,Rutul (Borchino Khnow dialect),1565,дженнет,CyrillTrans,heaven,,,ǯennet,Phonemic
+22-320-527-1,rutu1240,Rutul (Borchino Khnow dialect),878,джегьннем,CyrillTrans,hell,,,ǯehnnem,Phonemic
+22-350-527-1,rutu1240,Rutul (Borchino Khnow dialect),1973,джин,CyrillTrans,demon (evil spirit),,,"ǯin, šiyt̛an",Phonemic
+22-350-527-3,rutu1240,Rutul (Borchino Khnow dialect),1973,шийтІан,CyrillTrans,demon (evil spirit),,,"ǯin, šiyt̛an",Phonemic
+22-370-527-1,rutu1240,Rutul (Borchino Khnow dialect),1945,хач,CyrillTrans,idol,,,xač,Phonemic
+22-420-527-1,rutu1240,Rutul (Borchino Khnow dialect),392,суьгьуІр,CyrillTrans,"magic, witchcraft, sorcery",,,sühuˤr,Phonemic
+22-430-527-1,rutu1240,Rutul (Borchino Khnow dialect),2137,къаранений,CyrillTrans,"sorcerer, witch",,,"Garaneniy, sühuˤrči",Phonemic
+22-430-527-3,rutu1240,Rutul (Borchino Khnow dialect),2137,суьгьуІрчи,CyrillTrans,"sorcerer, witch",,,"Garaneniy, sühuˤrči",Phonemic
+22-440-527-1,rutu1240,Rutul (Borchino Khnow dialect),2138,дженнетдид,CyrillTrans,"fairy, elf",,,"ӡ̌ennetdid, peri",Phonemic
+22-440-527-3,rutu1240,Rutul (Borchino Khnow dialect),2138,пери,CyrillTrans,"fairy, elf",,,"ӡ̌ennetdid, peri",Phonemic
+22-450-527-1,rutu1240,Rutul (Borchino Khnow dialect),1175,хуртама,CyrillTrans,"ghost, phantom",,,xurtama,Phonemic
+22-470-527-1,rutu1240,Rutul (Borchino Khnow dialect),107,гьаІламат,CyrillTrans,"omen, portent",,,haˤlamat,Phonemic

@@ -1,0 +1,1633 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1852,коп керен,CyrillTrans,often,,,kop kеrеn,Phonemic
+14-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1676,гьар заман,CyrillTrans,always,,,har zaman,Phonemic
+14-290-519-1,kumy1244,Kumyk (Dorgeli dialect),790,гьазир,CyrillTrans,ready,,,hazir,Phonemic
+14-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1928,токътатмакъ,CyrillTrans,"cease, stop",,,toqtatmaq,Phonemic
+14-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1766,битдирмакъ,CyrillTrans,finish,,,bitdirmaq,Phonemic
+14-260-519-1,kumy1244,Kumyk (Dorgeli dialect),743,битмакъ,CyrillTrans,end (temporal),,,"bitmaq, bitdirmaq",Phonemic
+14-260-519-3,kumy1244,Kumyk (Dorgeli dialect),743,битдирмакъ,CyrillTrans,end (temporal),,,"bitmaq, bitdirmaq",Phonemic
+14-252-519-1,kumy1244,Kumyk (Dorgeli dialect),1186,узатмакъ,CyrillTrans,"last, endure",,,uzatmaq,Phonemic
+14-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1806,башин,CyrillTrans,"begin, beginning",,,"bašin, bašlyamaq",Phonemic
+14-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1806,башлямакъ,CyrillTrans,"begin, beginning",,,"bašin, bašlyamaq",Phonemic
+14-240-519-1,kumy1244,Kumyk (Dorgeli dialect),425,токътатмакъ,CyrillTrans,"retard, delay",,,"toqtatmaq, qaldɨrmaq",Phonemic
+14-240-519-3,kumy1244,Kumyk (Dorgeli dialect),425,къалдырмакъ,CyrillTrans,"retard, delay",,,"toqtatmaq, qaldɨrmaq",Phonemic
+14-230-519-1,kumy1244,Kumyk (Dorgeli dialect),754,алгъасамакъ,CyrillTrans,"hasten, hurry",,,alɣasamaq,Phonemic
+14-220-519-1,kumy1244,Kumyk (Dorgeli dialect),701,аста,CyrillTrans,slow,,,asta,Phonemic
+14-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1631,чалт,CyrillTrans,"swift, fast, quick",,,čalt,Phonemic
+14-190-519-1,kumy1244,Kumyk (Dorgeli dialect),1963,алгъасавлу,CyrillTrans,immediately,,,alɣasawlu,Phonemic
+14-180-519-1,kumy1244,Kumyk (Dorgeli dialect),1376,буссагьат,CyrillTrans,now,,,bus̄ahat,Phonemic
+14-170-519-1,kumy1244,Kumyk (Dorgeli dialect),477,геч,CyrillTrans,late,,,gеč,Phonemic
+14-160-519-1,kumy1244,Kumyk (Dorgeli dialect),672,тез,CyrillTrans,early,,,tеz,Phonemic
+14-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1229,къарт,CyrillTrans,old,,,"qart, eski",Phonemic
+14-150-519-3,kumy1244,Kumyk (Dorgeli dialect),1229,эски,CyrillTrans,old,,,"qart, eski",Phonemic
+14-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1207,жагьиль,CyrillTrans,young,,,ǯahilj,Phonemic
+14-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1789,асру,CyrillTrans,age,,,"asru, ömur, yuz yɨl",Phonemic
+14-120-519-3,kumy1244,Kumyk (Dorgeli dialect),1789,оьмур,CyrillTrans,age,,,"asru, ömur, yuz yɨl",Phonemic
+14-120-519-5,kumy1244,Kumyk (Dorgeli dialect),1789,юз йыл,CyrillTrans,age,,,"asru, ömur, yuz yɨl",Phonemic
+14-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1231,янгы,CyrillTrans,new,,,yaŋɨ,Phonemic
+14-110-519-1,kumy1244,Kumyk (Dorgeli dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-519-1,kumy1244,Kumyk (Dorgeli dialect),417,уьч керен,CyrillTrans,three times,,,üč kеrеn,Phonemic
+13-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1859,уьчунчу,CyrillTrans,third,,,üčunču,Phonemic
+13-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1546,эки керен,CyrillTrans,two times,,,eki kеrеn,Phonemic
+13-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1888,жут,CyrillTrans,pair,,,"ǯut, birčе",Phonemic
+13-370-519-3,kumy1244,Kumyk (Dorgeli dialect),1888,бирче,CyrillTrans,pair,,,"ǯut, birčе",Phonemic
+13-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1384,экинчи,CyrillTrans,second,,,ekinči,Phonemic
+13-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1529,ахырынчы,CyrillTrans,last,,,axɨrɨnčɨ,Phonemic
+13-340-519-1,kumy1244,Kumyk (Dorgeli dialect),728,биринчи,CyrillTrans,first,,,birinči,Phonemic
+13-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1580,биргине бир,CyrillTrans,"alone, only",,,birginе bir,Phonemic
+13-240-519-1,kumy1244,Kumyk (Dorgeli dialect),816,яртысы,CyrillTrans,half,,,yartɨsɨ,Phonemic
+13-230-519-1,kumy1244,Kumyk (Dorgeli dialect),779,гесек,CyrillTrans,"part, piece",,,"gеsеk, pay",Phonemic
+13-230-519-3,kumy1244,Kumyk (Dorgeli dialect),779,пай,CyrillTrans,"part, piece",,,"gеsеk, pay",Phonemic
+13-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1624,бош,CyrillTrans,empty,,,boš,Phonemic
+13-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1429,толгъан,CyrillTrans,full,,,tolɣan,Phonemic
+13-190-519-1,kumy1244,Kumyk (Dorgeli dialect),2023,коплукъ,CyrillTrans,"multitude, crowd",,,"kopluq, kop sanawda",Phonemic
+13-190-519-3,kumy1244,Kumyk (Dorgeli dialect),2023,коп санавда,CyrillTrans,"multitude, crowd",,,"kopluq, kop sanawda",Phonemic
+13-181-519-1,kumy1244,Kumyk (Dorgeli dialect),1241,бир нече,CyrillTrans,some,,,bir nеčе,Phonemic
+13-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1242,аз,CyrillTrans,"little (quantity), few",,,az,Phonemic
+13-180-519-1,kumy1244,Kumyk (Dorgeli dialect),1881,таманчакъы,CyrillTrans,enough,,,tamančaqɨ,Phonemic
+13-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1992,коп,CyrillTrans,more,,,kop,Phonemic
+13-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1198,коп,CyrillTrans,"much, many",,,kop,Phonemic
+13-140-519-1,kumy1244,Kumyk (Dorgeli dialect),98,барыда,CyrillTrans,"every, all",,,"barɨda, bit̄i",Phonemic
+13-140-519-3,kumy1244,Kumyk (Dorgeli dialect),98,битти,CyrillTrans,"every, all",,,"barɨda, bit̄i",Phonemic
+13-107-519-1,kumy1244,Kumyk (Dorgeli dialect),1420,санамакъ,CyrillTrans,count,,,sanamaq,Phonemic
+13-106-519-1,kumy1244,Kumyk (Dorgeli dialect),1843,минг,CyrillTrans,thousand,,,miŋ,Phonemic
+13-105-519-1,kumy1244,Kumyk (Dorgeli dialect),1634,юз,CyrillTrans,hundred,,,yuz,Phonemic
+13-104-519-1,kumy1244,Kumyk (Dorgeli dialect),1710,йигирма,CyrillTrans,twenty,,,yigirma,Phonemic
+13-103-519-1,kumy1244,Kumyk (Dorgeli dialect),1709,он беш,CyrillTrans,fifteen,,,on bеš,Phonemic
+13-102-519-1,kumy1244,Kumyk (Dorgeli dialect),1707,он эки,CyrillTrans,twelve,,,on eki,Phonemic
+13-101-519-1,kumy1244,Kumyk (Dorgeli dialect),1706,он бир,CyrillTrans,eleven,,,on bir,Phonemic
+13-100-519-1,kumy1244,Kumyk (Dorgeli dialect),1515,он,CyrillTrans,ten,,,on,Phonemic
+13-90-519-1,kumy1244,Kumyk (Dorgeli dialect),1483,тогъуз,CyrillTrans,nine,,,toɣuz,Phonemic
+13-80-519-1,kumy1244,Kumyk (Dorgeli dialect),1705,сегиз,CyrillTrans,eight,,,sеgiz,Phonemic
+13-70-519-1,kumy1244,Kumyk (Dorgeli dialect),1704,етти,CyrillTrans,seven,,,yеt̄i,Phonemic
+13-60-519-1,kumy1244,Kumyk (Dorgeli dialect),1703,алты,CyrillTrans,six,,,altɨ,Phonemic
+13-50-519-1,kumy1244,Kumyk (Dorgeli dialect),493,беш,CyrillTrans,five,,,bеš,Phonemic
+13-40-519-1,kumy1244,Kumyk (Dorgeli dialect),1500,дорт,CyrillTrans,four,,,dort,Phonemic
+13-20-519-1,kumy1244,Kumyk (Dorgeli dialect),1498,эки,CyrillTrans,two,,,eki,Phonemic
+13-30-519-1,kumy1244,Kumyk (Dorgeli dialect),492,уьч,CyrillTrans,three,,,üč,Phonemic
+13-10-519-1,kumy1244,Kumyk (Dorgeli dialect),1493,бир,CyrillTrans,one,,,bir,Phonemic
+13-0-519-1,kumy1244,Kumyk (Dorgeli dialect),1294,ноль,CyrillTrans,"zero, nothing",,,nolj,Phonemic
+12-930-519-1,kumy1244,Kumyk (Dorgeli dialect),1264,алыштырмакъ,CyrillTrans,change,,,"alɨštɨrmaq, alɨšdɨrmaq",Phonemic
+12-930-519-3,kumy1244,Kumyk (Dorgeli dialect),1264,алышдырмакъ,CyrillTrans,change,,,"alɨštɨrmaq, alɨšdɨrmaq",Phonemic
+12-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1558,ушашли,CyrillTrans,"like, similar",,,ušašli,Phonemic
+12-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1048,гьиз,CyrillTrans,line,,,"hiz, yiz",Phonemic
+12-840-519-3,kumy1244,Kumyk (Dorgeli dialect),1048,йиз,CyrillTrans,line,,,"hiz, yiz",Phonemic
+12-850-519-1,kumy1244,Kumyk (Dorgeli dialect),1667,тешик,CyrillTrans,hole,,,tеšik,Phonemic
+12-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1395,догерек,CyrillTrans,round,,,"dogеrеk, dеgеrеk",Phonemic
+12-810-519-3,kumy1244,Kumyk (Dorgeli dialect),1395,дегерек,CyrillTrans,round,,,"dogеrеk, dеgеrеk",Phonemic
+12-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1467,догерек,CyrillTrans,circle,,,dogеrеk,Phonemic
+12-780-519-1,kumy1244,Kumyk (Dorgeli dialect),850,дорт кул,CyrillTrans,square,,,dort kul,Phonemic
+12-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1367,бельги,CyrillTrans,cross,,,beljgi,Phonemic
+12-760-519-1,kumy1244,Kumyk (Dorgeli dialect),192,муюш,CyrillTrans,corner,,,muyuš,Phonemic
+12-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1071,къармакъ,CyrillTrans,hook,,,qarmaq,Phonemic
+12-740-519-1,kumy1244,Kumyk (Dorgeli dialect),297,къынгъыр,CyrillTrans,crooked,,,qɨnɣɨr,Phonemic
+12-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1404,туз,CyrillTrans,straight,,,tuz,Phonemic
+12-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1633,джапа,CyrillTrans,flat,,,ǯapa,Phonemic
+12-680-519-1,kumy1244,Kumyk (Dorgeli dialect),193,увакъ,CyrillTrans,shallow,,,uwaq,Phonemic
+12-670-519-1,kumy1244,Kumyk (Dorgeli dialect),1593,теран,CyrillTrans,deep,,,tеran,Phonemic
+12-650-519-1,kumy1244,Kumyk (Dorgeli dialect),2249,назик,CyrillTrans,thin (in dimension),,,nazik,Phonemic
+12-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1244,базыкъ,CyrillTrans,thick (in dimension),,,bazɨq,Phonemic
+12-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1267,тар,CyrillTrans,narrow,,,tar,Phonemic
+12-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1243,генг,CyrillTrans,"wide, broad",,,gеŋ,Phonemic
+12-590-519-1,kumy1244,Kumyk (Dorgeli dialect),1645,къыскъа,CyrillTrans,short,,,qɨsqa,Phonemic
+12-580-519-1,kumy1244,Kumyk (Dorgeli dialect),711,бийик,CyrillTrans,tall,,,biyik,Phonemic
+12-570-519-1,kumy1244,Kumyk (Dorgeli dialect),1203,узун,CyrillTrans,long,,,uzun,Phonemic
+12-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1246,гиччи,CyrillTrans,"small, little",,,gič̄i,Phonemic
+12-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1202,уллу,CyrillTrans,"large, big",,,ullu,Phonemic
+12-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1506,олчемек,CyrillTrans,measure,,,olčеmеk,Phonemic
+12-530-519-1,kumy1244,Kumyk (Dorgeli dialect),479,осмек,CyrillTrans,grow,,,osmеk,Phonemic
+12-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1595,къабла,CyrillTrans,south,,,qabla,Phonemic
+12-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1598,темиркъазыкъ,CyrillTrans,north,,,tеmirqazɨq,Phonemic
+12-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1817,гун батыш,CyrillTrans,west,,,gun batɨš,Phonemic
+12-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1877,гун,CyrillTrans,east,,,"gun, čɨɣɨš",Phonemic
+12-450-519-3,kumy1244,Kumyk (Dorgeli dialect),1877,чыгъыш,CyrillTrans,east,,,"gun, čɨɣɨš",Phonemic
+12-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1942,къырийинна,CyrillTrans,near (adv),,,qɨriyinna,Phonemic
+12-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1406,йиракъда,CyrillTrans,far (adv),,,yiraqda,Phonemic
+12-420-519-1,kumy1244,Kumyk (Dorgeli dialect),244,сол,CyrillTrans,left (side),,,sol,Phonemic
+12-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1019,онг,CyrillTrans,right (side),,,oŋ,Phonemic
+12-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1093,ортасы,CyrillTrans,"middle, center",,,ortasɨ,Phonemic
+12-360-519-1,kumy1244,Kumyk (Dorgeli dialect),682,яны,CyrillTrans,side,,,yanɨ,Phonemic
+12-353-519-1,kumy1244,Kumyk (Dorgeli dialect),863,ягъасы,CyrillTrans,edge,,,yaɣasɨ,Phonemic
+12-352-519-1,kumy1244,Kumyk (Dorgeli dialect),372,ити учлу,CyrillTrans,pointed,,,iti učlu,Phonemic
+12-350-519-1,kumy1244,Kumyk (Dorgeli dialect),742,арты,CyrillTrans,end,,,"artɨ, axɨrɨ",Phonemic
+12-350-519-3,kumy1244,Kumyk (Dorgeli dialect),742,ахыры,CyrillTrans,end,,,"artɨ, axɨrɨ",Phonemic
+12-340-519-1,kumy1244,Kumyk (Dorgeli dialect),690,тюбю,CyrillTrans,bottom,,,"tübü, tubu",Phonemic
+12-340-519-3,kumy1244,Kumyk (Dorgeli dialect),690,тубу,CyrillTrans,bottom,,,"tübü, tubu",Phonemic
+12-320-519-1,kumy1244,Kumyk (Dorgeli dialect),721,алаша,CyrillTrans,low,,,"alaša, alašada",Phonemic
+12-320-519-3,kumy1244,Kumyk (Dorgeli dialect),721,алашада,CyrillTrans,low,,,"alaša, alašada",Phonemic
+12-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1753,бийик ер,CyrillTrans,top,,,biyik yеr,Phonemic
+12-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1265,бийик,CyrillTrans,high,,,"biyik, biyikdе",Phonemic
+12-310-519-3,kumy1244,Kumyk (Dorgeli dialect),1265,бийикде,CyrillTrans,high,,,"biyik, biyikdе",Phonemic
+12-270-519-1,kumy1244,Kumyk (Dorgeli dialect),602,яширмакъ,CyrillTrans,"hide, conceal",,,yaširmaq,Phonemic
+12-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1046,япмакъ,CyrillTrans,"shut, close",,,yapmaq,Phonemic
+12-260-519-1,kumy1244,Kumyk (Dorgeli dialect),761,япмакъ,CyrillTrans,cover,,,yapmaq,Phonemic
+12-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1156,ачмакъ,CyrillTrans,open,,,ačmaq,Phonemic
+12-232-519-1,kumy1244,Kumyk (Dorgeli dialect),1119,пайламакъ,CyrillTrans,divide,,,"paylamaq, paylyamaq",Phonemic
+12-232-519-3,kumy1244,Kumyk (Dorgeli dialect),1119,пайлямакъ,CyrillTrans,divide,,,"paylamaq, paylyamaq",Phonemic
+12-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1359,айирмакъ,CyrillTrans,separate,,,ayirmaq,Phonemic
+12-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1743,къошмакъ,CyrillTrans,"join, unite",,,qošmaq,Phonemic
+12-213-519-1,kumy1244,Kumyk (Dorgeli dialect),1576,жыймакъ,CyrillTrans,pile up,,,"ǯɨymaq, toplamaq, töbе-töbе etmaq",Phonemic
+12-213-519-3,kumy1244,Kumyk (Dorgeli dialect),1576,топламакъ,CyrillTrans,pile up,,,"ǯɨymaq, toplamaq, töbе-töbе etmaq",Phonemic
+12-213-519-5,kumy1244,Kumyk (Dorgeli dialect),1576,тёбе-тёбе этмакъ,CyrillTrans,pile up,,,"ǯɨymaq, toplamaq, töbе-töbе etmaq",Phonemic
+12-212-519-1,kumy1244,Kumyk (Dorgeli dialect),371,жыймакъ,CyrillTrans,pick up,,,"ǯɨymaq, gеtеrmaq, gotеrmaq",Phonemic
+12-212-519-3,kumy1244,Kumyk (Dorgeli dialect),371,гетермакъ,CyrillTrans,pick up,,,"ǯɨymaq, gеtеrmaq, gotеrmaq",Phonemic
+12-212-519-5,kumy1244,Kumyk (Dorgeli dialect),371,готермакъ,CyrillTrans,pick up,,,"ǯɨymaq, gеtеrmaq, gotеrmaq",Phonemic
+12-210-519-1,kumy1244,Kumyk (Dorgeli dialect),7,жыймакъ,CyrillTrans,"collect, gather",,,ǯɨymaq,Phonemic
+12-170-519-1,kumy1244,Kumyk (Dorgeli dialect),838,къалгъан затлар,CyrillTrans,"remains, left overs",,,qalɣan zatlar,Phonemic
+12-160-519-1,kumy1244,Kumyk (Dorgeli dialect),987,къалмакъ,CyrillTrans,"remain, stay",,,qalmaq,Phonemic
+12-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1442,эратурмакъ,CyrillTrans,stand,,,eraturmaq,Phonemic
+12-140-519-1,kumy1244,Kumyk (Dorgeli dialect),215,ятмакъ,CyrillTrans,lie down,,,yatmaq,Phonemic
+12-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1416,олтурмакъ,CyrillTrans,sit,,,olturmaq,Phonemic
+12-120-519-1,kumy1244,Kumyk (Dorgeli dialect),998,салмакъ,CyrillTrans,put,,,salmaq,Phonemic
+12-110-519-1,kumy1244,Kumyk (Dorgeli dialect),723,ер,CyrillTrans,place,,,yеr,Phonemic
+12-80-519-1,kumy1244,Kumyk (Dorgeli dialect),1591,уьстюнде,CyrillTrans,"up, above",,,üstündе,Phonemic
+12-70-519-1,kumy1244,Kumyk (Dorgeli dialect),1485,тубунда,CyrillTrans,under,,,tubunda,Phonemic
+12-60-519-1,kumy1244,Kumyk (Dorgeli dialect),762,къыр якъдан (яндан),CyrillTrans,outside,,,qɨr yaqdan (yandan),Phonemic
+12-50-519-1,kumy1244,Kumyk (Dorgeli dialect),1606,ичинде,CyrillTrans,"inside, in",,,ičindе,Phonemic
+12-41-519-1,kumy1244,Kumyk (Dorgeli dialect),1883,алдында,CyrillTrans,front,,,aldɨnda,Phonemic
+12-40-519-1,kumy1244,Kumyk (Dorgeli dialect),1882,алда,CyrillTrans,before,,,"alda, aldɨn",Phonemic
+12-40-519-3,kumy1244,Kumyk (Dorgeli dialect),1882,алдын,CyrillTrans,before,,,"alda, aldɨn",Phonemic
+12-30-519-1,kumy1244,Kumyk (Dorgeli dialect),2094,алаша,CyrillTrans,"down, below",,,"alaša, tupda",Phonemic
+12-30-519-3,kumy1244,Kumyk (Dorgeli dialect),2094,тупда,CyrillTrans,"down, below",,,"alaša, tupda",Phonemic
+12-20-519-1,kumy1244,Kumyk (Dorgeli dialect),1816,къырыйында,CyrillTrans,beside,,,qɨrɨyɨnda,Phonemic
+12-11-519-1,kumy1244,Kumyk (Dorgeli dialect),1686,янында,CyrillTrans,behind,,,"yanɨnda, soŋ",Phonemic
+12-11-519-3,kumy1244,Kumyk (Dorgeli dialect),1686,сонг,CyrillTrans,behind,,,"yanɨnda, soŋ",Phonemic
+12-10-519-1,kumy1244,Kumyk (Dorgeli dialect),1685,сонг,CyrillTrans,after,,,soŋ,Phonemic
+11-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1098,тартмакъ,CyrillTrans,weigh,,,tartmaq,Phonemic
+11-910-519-1,kumy1244,Kumyk (Dorgeli dialect),884,пайлямакъ,CyrillTrans,share (distribute),,,paylyamaq,Phonemic
+11-890-519-1,kumy1244,Kumyk (Dorgeli dialect),1887,учуз,CyrillTrans,cheap,,,učuz,Phonemic
+11-880-519-1,kumy1244,Kumyk (Dorgeli dialect),1426,багьали,CyrillTrans,"dear (costly, expensive)",,,bahali,Phonemic
+11-870-519-1,kumy1244,Kumyk (Dorgeli dialect),657,багьа,CyrillTrans,price,,,"baha, bahasɨ",Phonemic
+11-870-519-3,kumy1244,Kumyk (Dorgeli dialect),657,багьасы,CyrillTrans,price,,,"baha, bahasɨ",Phonemic
+11-860-519-1,kumy1244,Kumyk (Dorgeli dialect),752,тукен,CyrillTrans,"store, shop",,,"tukеn, tükеn",Phonemic
+11-860-519-3,kumy1244,Kumyk (Dorgeli dialect),752,тюкен,CyrillTrans,"store, shop",,,"tukеn, tükеn",Phonemic
+11-850-519-1,kumy1244,Kumyk (Dorgeli dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1082,сатывчу,CyrillTrans,merchant,,,satɨwču,Phonemic
+11-830-519-1,kumy1244,Kumyk (Dorgeli dialect),2135,сатув-алув,CyrillTrans,"trade, barter",,,"satuw-aluw, satuw-alɨw",Phonemic
+11-830-519-3,kumy1244,Kumyk (Dorgeli dialect),2135,сатув-алыв,CyrillTrans,"trade, barter",,,"satuw-aluw, satuw-alɨw",Phonemic
+11-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1571,сатмакъ,CyrillTrans,sell,,,satmaq,Phonemic
+11-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1869,сатып алмакъ,CyrillTrans,buy,,,satɨp almaq,Phonemic
+11-790-519-1,kumy1244,Kumyk (Dorgeli dialect),733,къазанмакъ,CyrillTrans,earn,,,qazanmaq,Phonemic
+11-780-519-1,kumy1244,Kumyk (Dorgeli dialect),1122,айлыкъ,CyrillTrans,wages,,,"aylɨq, ayliq",Phonemic
+11-780-519-3,kumy1244,Kumyk (Dorgeli dialect),1122,айликъ,CyrillTrans,wages,,,"aylɨq, ayliq",Phonemic
+11-770-519-1,kumy1244,Kumyk (Dorgeli dialect),856,ижарагъа алмакъ,CyrillTrans,hire,,,iǯaraɣa almaq,Phonemic
+11-690-519-1,kumy1244,Kumyk (Dorgeli dialect),873,налог,CyrillTrans,"tax, tribute",,,"nalog, nalok",Phonemic
+11-690-519-3,kumy1244,Kumyk (Dorgeli dialect),873,налок,CyrillTrans,"tax, tribute",,,"nalog, nalok",Phonemic
+11-660-519-1,kumy1244,Kumyk (Dorgeli dialect),1081,гьисап,CyrillTrans,"account, reckoning",,,hisap,Phonemic
+11-650-519-1,kumy1244,Kumyk (Dorgeli dialect),718,толемакъ,CyrillTrans,pay (vb),,,tolеmaq,Phonemic
+11-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1914,борч,CyrillTrans,debt,,,borč,Phonemic
+11-630-519-1,kumy1244,Kumyk (Dorgeli dialect),369,борчлу болмакъ,CyrillTrans,owe,,,borčlu bolmaq,Phonemic
+11-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1823,борчгъа алмакъ,CyrillTrans,borrow,,,borčɣa almaq,Phonemic
+11-610-519-1,kumy1244,Kumyk (Dorgeli dialect),582,борчгъа бермек (бермакъ),CyrillTrans,lend,,,borčɣa bеrmеk (bеrmaq),Phonemic
+11-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1774,къызгъанч,CyrillTrans,"avaricious, stingy",,,qɨzɣanč,Phonemic
+11-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1934,тилянчи,CyrillTrans,beggar,,,"tilyanči, yarli",Phonemic
+11-530-519-3,kumy1244,Kumyk (Dorgeli dialect),1934,ярли,CyrillTrans,beggar,,,"tilyanči, yarli",Phonemic
+11-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1674,ярлы,CyrillTrans,poor,,,"yarlɨ, yarli",Phonemic
+11-520-519-3,kumy1244,Kumyk (Dorgeli dialect),1674,ярли,CyrillTrans,poor,,,"yarlɨ, yarli",Phonemic
+11-510-519-1,kumy1244,Kumyk (Dorgeli dialect),712,бай,CyrillTrans,rich,,,bay,Phonemic
+11-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1867,копек,CyrillTrans,coin,,,kopеk,Phonemic
+11-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1559,акъча,CyrillTrans,money,,,"aqča, axča",Phonemic
+11-430-519-3,kumy1244,Kumyk (Dorgeli dialect),1559,ахча,CyrillTrans,money,,,"aqča, axča",Phonemic
+11-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1095,йибермакъ,CyrillTrans,"release, let go",,,yibеrmaq,Phonemic
+11-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1660,тас этмакъ,CyrillTrans,lose,,,tas etmaq,Phonemic
+11-320-519-1,kumy1244,Kumyk (Dorgeli dialect),719,тапмакъ,CyrillTrans,find,,,tapmaq,Phonemic
+11-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1468,излемакъ,CyrillTrans,"seek, look for",,,izlеmaq,Phonemic
+11-280-519-1,kumy1244,Kumyk (Dorgeli dialect),44,зарал этмакъ,CyrillTrans,"harm, injure, damage",,,"zaral etmaq, zaral gеltirmaq",Phonemic
+11-280-519-3,kumy1244,Kumyk (Dorgeli dialect),44,зарал гелтирмакъ,CyrillTrans,"harm, injure, damage",,,"zaral etmaq, zaral gеltirmaq",Phonemic
+11-270-519-1,kumy1244,Kumyk (Dorgeli dialect),681,бузмакъ,CyrillTrans,destroy,,,buzmaq,Phonemic
+11-250-519-1,kumy1244,Kumyk (Dorgeli dialect),2008,къуткъармакъ,CyrillTrans,"save, rescue",,,qutqarmaq,Phonemic
+11-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1997,сакъламакъ,CyrillTrans,"preserve, look after",,,saqlamaq,Phonemic
+11-220-519-1,kumy1244,Kumyk (Dorgeli dialect),85,къайтармакъ,CyrillTrans,give back,,,qaytarmaq,Phonemic
+11-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1447,бермек,CyrillTrans,give,,,bеrmеk,Phonemic
+11-180-519-1,kumy1244,Kumyk (Dorgeli dialect),738,зат,CyrillTrans,thing,,,zat,Phonemic
+11-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1477,сакъламакъ,CyrillTrans,"keep, retain",,,saqlamaq,Phonemic
+11-160-519-1,kumy1244,Kumyk (Dorgeli dialect),694,алмакъ,CyrillTrans,"get, obtain",,,almaq,Phonemic
+11-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1448,тутмакъ,CyrillTrans,hold,,,"tutmaq, tutup turmaq",Phonemic
+11-150-519-3,kumy1244,Kumyk (Dorgeli dialect),1448,тутуп турмакъ,CyrillTrans,hold,,,"tutmaq, tutup turmaq",Phonemic
+11-140-519-1,kumy1244,Kumyk (Dorgeli dialect),2021,тутмакъ,CyrillTrans,"seize, grasp",,,tutmaq,Phonemic
+11-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1749,алмакъ,CyrillTrans,take,,,almaq,Phonemic
+11-120-519-1,kumy1244,Kumyk (Dorgeli dialect),684,ес болмакъ,CyrillTrans,"own, possess",,,yеs bolmaq,Phonemic
+11-110-519-1,kumy1244,Kumyk (Dorgeli dialect),773,ес болмакъ,CyrillTrans,have,,,yes bolmaq,Phonemic
+10-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1922,ерге тюшмек,CyrillTrans,land (vb),,,"yеrgе tüšmek, suw yaɣaɣa baylamaq",Phonemic
+10-920-519-3,kumy1244,Kumyk (Dorgeli dialect),1922,сув ягъагъа байламакъ,CyrillTrans,land (vb),,,"yеrgе tüšmek, suw yaɣaɣa baylamaq",Phonemic
+10-910-519-1,kumy1244,Kumyk (Dorgeli dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-519-1,kumy1244,Kumyk (Dorgeli dialect),1870,лабар,CyrillTrans,anchor,,,"labar, yakorj",Phonemic
+10-890-519-3,kumy1244,Kumyk (Dorgeli dialect),1870,якорь,CyrillTrans,anchor,,,"labar, yakorj",Phonemic
+10-880-519-1,kumy1244,Kumyk (Dorgeli dialect),786,елкен,CyrillTrans,sail (noun),,,"yеlkеn, parus",Phonemic
+10-880-519-3,kumy1244,Kumyk (Dorgeli dialect),786,парус,CyrillTrans,sail (noun),,,"yеlkеn, parus",Phonemic
+10-870-519-1,kumy1244,Kumyk (Dorgeli dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-519-1,kumy1244,Kumyk (Dorgeli dialect),108,руль,CyrillTrans,rudder,,,rulj,Phonemic
+10-852-519-1,kumy1244,Kumyk (Dorgeli dialect),1849,кюсмен чалмакъ,CyrillTrans,row (vb),,,küsmеn čalmaq,Phonemic
+10-851-519-1,kumy1244,Kumyk (Dorgeli dialect),234,къалакъ,CyrillTrans,paddle (noun),,,qalaq,Phonemic
+10-850-519-1,kumy1244,Kumyk (Dorgeli dialect),108,къалакъ,CyrillTrans,oar,,,qalaq,Phonemic
+10-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1664,плот,CyrillTrans,raft,,,"plot, sal",Phonemic
+10-840-519-3,kumy1244,Kumyk (Dorgeli dialect),1664,сал,CyrillTrans,raft,,,"plot, sal",Phonemic
+10-832-519-1,kumy1244,Kumyk (Dorgeli dialect),416,къайыкъ,CyrillTrans,outrigger,,,qayɨq,Phonemic
+10-831-519-1,kumy1244,Kumyk (Dorgeli dialect),1970,къайыкъ,CyrillTrans,canoe,,,qayɨq,Phonemic
+10-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1844,лодка,CyrillTrans,boat,,,"lodka, qayɨq",Phonemic
+10-830-519-3,kumy1244,Kumyk (Dorgeli dialect),1844,къайыкъ,CyrillTrans,boat,,,"lodka, qayɨq",Phonemic
+10-810-519-1,kumy1244,Kumyk (Dorgeli dialect),740,геме,CyrillTrans,ship,,,"geme, paraxod",Phonemic
+10-810-519-3,kumy1244,Kumyk (Dorgeli dialect),740,параход,CyrillTrans,ship,,,"geme, paraxod",Phonemic
+10-780-519-1,kumy1244,Kumyk (Dorgeli dialect),14,боюнса,CyrillTrans,yoke,,,boyunsa,Phonemic
+10-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1769,гёчерагъач,CyrillTrans,axle,,,göčeraɣač,Phonemic
+10-760-519-1,kumy1244,Kumyk (Dorgeli dialect),710,дёгерчек,CyrillTrans,wheel,,,dögerček,Phonemic
+10-750-519-1,kumy1244,Kumyk (Dorgeli dialect),122,арба,CyrillTrans,"carriage, wagon, cart",,,arba,Phonemic
+10-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1011,копур,CyrillTrans,bridge,,,kopur,Phonemic
+10-720-519-1,kumy1244,Kumyk (Dorgeli dialect),2252,сокъмакъ,CyrillTrans,path,,,"soqmaq, tar yol",Phonemic
+10-720-519-3,kumy1244,Kumyk (Dorgeli dialect),2252,тар ёл,CyrillTrans,path,,,"soqmaq, tar yol",Phonemic
+10-710-519-1,kumy1244,Kumyk (Dorgeli dialect),667,ёл,CyrillTrans,road,,,yol,Phonemic
+10-670-519-1,kumy1244,Kumyk (Dorgeli dialect),1452,тебермакъ,CyrillTrans,"push, shove",,,tebermaq,Phonemic
+10-660-519-1,kumy1244,Kumyk (Dorgeli dialect),367,ат булан бармакъ,CyrillTrans,ride,,,"at bulan barmaq, atnɨ üstündе barmaq",Phonemic
+10-660-519-3,kumy1244,Kumyk (Dorgeli dialect),367,атны уьстюнде бармакъ,CyrillTrans,ride,,,"at bulan barmaq, atnɨ üstündе barmaq",Phonemic
+10-650-519-1,kumy1244,Kumyk (Dorgeli dialect),741,машин булан бармакъ,CyrillTrans,drive,,,mašin bulan barmaq,Phonemic
+10-640-519-1,kumy1244,Kumyk (Dorgeli dialect),43,бармакъ,CyrillTrans,lead (vb),,,barmaq,Phonemic
+10-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1127,йибермакъ,CyrillTrans,send,,,"yibermaq, alɨp barmaq",Phonemic
+10-630-519-3,kumy1244,Kumyk (Dorgeli dialect),1127,алып бармакъ,CyrillTrans,send,,,"yibermaq, alɨp barmaq",Phonemic
+10-620-519-1,kumy1244,Kumyk (Dorgeli dialect),692,гельтирмакъ,CyrillTrans,bring,,,geljtirmaq,Phonemic
+10-615-519-1,kumy1244,Kumyk (Dorgeli dialect),415,къолтугъуна алып бармакъ,CyrillTrans,carry-underarm,,,qoltuɣuna alɨp barmaq,Phonemic
+10-614-519-1,kumy1244,Kumyk (Dorgeli dialect),414,башына салып эльтмакъ,CyrillTrans,carry-on-head,,,"bašɨna salɨp eljtmaq, bašɨnda alɨp barmaq",Phonemic
+10-614-519-3,kumy1244,Kumyk (Dorgeli dialect),414,башында алып бармакъ,CyrillTrans,carry-on-head,,,"bašɨna salɨp eljtmaq, bašɨnda alɨp barmaq",Phonemic
+10-613-519-1,kumy1244,Kumyk (Dorgeli dialect),413,инбашина салып алпармакъ,CyrillTrans,carry-on-shoulder,,,inbašina salɨp alparmaq,Phonemic
+10-612-519-1,kumy1244,Kumyk (Dorgeli dialect),412,къолунда тутуп алпармакъ,CyrillTrans,carry-in-hand,,,qolunda tutup alparmaq,Phonemic
+10-610-519-1,kumy1244,Kumyk (Dorgeli dialect),700,алпармакъ,CyrillTrans,carry (bear),,,"alparmaq, alɨp barmaq",Phonemic
+10-610-519-3,kumy1244,Kumyk (Dorgeli dialect),700,алып бармакъ,CyrillTrans,carry (bear),,,"alparmaq, alɨp barmaq",Phonemic
+10-570-519-1,kumy1244,Kumyk (Dorgeli dialect),749,гирмакъ,CyrillTrans,enter,,,"girmaq, girmеk",Phonemic
+10-570-519-3,kumy1244,Kumyk (Dorgeli dialect),749,гирмек,CyrillTrans,enter,,,"girmaq, girmеk",Phonemic
+10-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1778,ювукъ болмакъ,CyrillTrans,approach,,,yuwuq bolmaq,Phonemic
+10-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1387,етишмакъ,CyrillTrans,"reach, arrive",,,yetišmaq,Phonemic
+10-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1047,гьизарламакъ,CyrillTrans,pursue,,,"hizarlamaq, qarawullamaq",Phonemic
+10-530-519-3,kumy1244,Kumyk (Dorgeli dialect),1047,къаравулламакъ,CyrillTrans,pursue,,,"hizarlamaq, qarawullamaq",Phonemic
+10-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1085,арты булан этмакъ,CyrillTrans,follow,,,artɨ bulan etmaq,Phonemic
+10-510-519-1,kumy1244,Kumyk (Dorgeli dialect),956,къачип къутулмакъ,CyrillTrans,flee,,,"qačip qutulmaq, čapmaq",Phonemic
+10-510-519-3,kumy1244,Kumyk (Dorgeli dialect),956,чапмакъ,CyrillTrans,flee,,,"qačip qutulmaq, čapmaq",Phonemic
+10-491-519-1,kumy1244,Kumyk (Dorgeli dialect),485,ёкъ болмакъ,CyrillTrans,disappear,,,"yoq bolmaq, tas bolmaq",Phonemic
+10-491-519-3,kumy1244,Kumyk (Dorgeli dialect),485,тас болмакъ,CyrillTrans,disappear,,,"yoq bolmaq, tas bolmaq",Phonemic
+10-490-519-1,kumy1244,Kumyk (Dorgeli dialect),1752,гетмек,CyrillTrans,"go away, depart",,,"gеtmеk, gеtmaq",Phonemic
+10-490-519-3,kumy1244,Kumyk (Dorgeli dialect),1752,гетмакъ,CyrillTrans,"go away, depart",,,"gеtmеk, gеtmaq",Phonemic
+10-481-519-1,kumy1244,Kumyk (Dorgeli dialect),581,къайтмакъ,CyrillTrans,come back,,,qaytmaq,Phonemic
+10-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1446,гельмек,CyrillTrans,come,,,"geljmek, geljmaq",Phonemic
+10-480-519-3,kumy1244,Kumyk (Dorgeli dialect),1446,гельмакъ,CyrillTrans,come,,,"geljmek, geljmaq",Phonemic
+10-474-519-1,kumy1244,Kumyk (Dorgeli dialect),1107,чыкъмакъ,CyrillTrans,go out,,,čɨqmaq,Phonemic
+10-473-519-1,kumy1244,Kumyk (Dorgeli dialect),2014,тупга тюшмакъ,CyrillTrans,go down,,,tupga tüšmaq,Phonemic
+10-472-519-1,kumy1244,Kumyk (Dorgeli dialect),1102,гетерильмакъ,CyrillTrans,climb,,,gеtеriljmaq,Phonemic
+10-470-519-1,kumy1244,Kumyk (Dorgeli dialect),695,бармакъ,CyrillTrans,go,,,"barmaq, yurumaq",Phonemic
+10-470-519-3,kumy1244,Kumyk (Dorgeli dialect),695,юрумакъ,CyrillTrans,go,,,"barmaq, yurumaq",Phonemic
+10-471-519-1,kumy1244,Kumyk (Dorgeli dialect),705,оьрге гетерильмакъ,CyrillTrans,go up,,,örgе gеtеriljmaq,Phonemic
+10-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1519,чапмакъ,CyrillTrans,run,,,čapmaq,Phonemic
+10-451-519-1,kumy1244,Kumyk (Dorgeli dialect),366,акъсакъламакъ,CyrillTrans,limp,,,aqsaqlamaq,Phonemic
+10-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1443,юрумакъ,CyrillTrans,walk,,,yurumaq,Phonemic
+10-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1879,бийимакъ,CyrillTrans,dance,,,biyimaq,Phonemic
+10-431-519-1,kumy1244,Kumyk (Dorgeli dialect),1135,тепмакъ,CyrillTrans,kick,,,tepmaq,Phonemic
+10-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1829,атилмакъ,CyrillTrans,"jump, leap",,,atilmaq,Phonemic
+10-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1324,сыргъаламакъ,CyrillTrans,"slide, slip",,,sɨrɣalamaq,Phonemic
+10-413-519-1,kumy1244,Kumyk (Dorgeli dialect),296,чончаймакъ,CyrillTrans,crouch,,,čončaymaq,Phonemic
+10-412-519-1,kumy1244,Kumyk (Dorgeli dialect),66,тобукъларындан турмакъ,CyrillTrans,kneel,,,"tobuqlarɨndan turmaq, tobuqlarɨndan turmaq",Phonemic
+10-412-519-3,kumy1244,Kumyk (Dorgeli dialect),66,тобукъларындан турмакъ,CyrillTrans,kneel,,,"tobuqlarɨndan turmaq, tobuqlarɨndan turmaq",Phonemic
+10-410-519-1,kumy1244,Kumyk (Dorgeli dialect),96,сюйкельмакъ,CyrillTrans,"creep, crawl",,,süykeljmaq,Phonemic
+10-380-519-1,kumy1244,Kumyk (Dorgeli dialect),175,уфурмакъ,CyrillTrans,blow,,,"ufurmaq, ufurmek",Phonemic
+10-380-519-3,kumy1244,Kumyk (Dorgeli dialect),175,уфурмек,CyrillTrans,blow,,,"ufurmaq, ufurmek",Phonemic
+10-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1441,учмакъ,CyrillTrans,fly (vb),,,učmaq,Phonemic
+10-360-519-1,kumy1244,Kumyk (Dorgeli dialect),787,юзмакъ,CyrillTrans,sail (vb),,,yuzmaq,Phonemic
+10-352-519-1,kumy1244,Kumyk (Dorgeli dialect),365,сувну чачмакъ,CyrillTrans,splash,,,"suwnu čačmaq, čačɨllyatmaq",Phonemic
+10-352-519-3,kumy1244,Kumyk (Dorgeli dialect),365,чачыллятмакъ,CyrillTrans,splash,,,"suwnu čačmaq, čačɨllyatmaq",Phonemic
+10-351-519-1,kumy1244,Kumyk (Dorgeli dialect),119,чомулмакъ,CyrillTrans,dive,,,čomulmaq,Phonemic
+10-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1439,юзмакъ,CyrillTrans,swim,,,yuzmaq,Phonemic
+10-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1574,юзмакъ,CyrillTrans,float,,,"yuzmaq, suwnu üstündе yuzmaq",Phonemic
+10-340-519-3,kumy1244,Kumyk (Dorgeli dialect),1574,сувну уьстюнде юзмакъ,CyrillTrans,float,,,"yuzmaq, suwnu üstündе yuzmaq",Phonemic
+10-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1088,батмакъ,CyrillTrans,sink,,,"batmaq, batɨlmaq",Phonemic
+10-330-519-3,kumy1244,Kumyk (Dorgeli dialect),1088,батылмакъ,CyrillTrans,sink,,,"batmaq, batɨlmaq",Phonemic
+10-320-519-1,kumy1244,Kumyk (Dorgeli dialect),2003,агъылмакъ,CyrillTrans,flow,,,"aɣɨlmaq, köp suw aqmaq",Phonemic
+10-320-519-3,kumy1244,Kumyk (Dorgeli dialect),2003,кёп сув акъмакъ,CyrillTrans,flow,,,"aɣɨlmaq, köp suw aqmaq",Phonemic
+10-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1909,чайкъамакъ,CyrillTrans,shake,,,čayqamaq,Phonemic
+10-252-519-1,kumy1244,Kumyk (Dorgeli dialect),702,тутмакъ,CyrillTrans,catch (ball),,,tutmaq,Phonemic
+10-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1456,атмакъ,CyrillTrans,throw,,,"atmaq, tašlyamaq",Phonemic
+10-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1456,ташлямакъ,CyrillTrans,throw,,,"atmaq, tašlyamaq",Phonemic
+10-240-519-1,kumy1244,Kumyk (Dorgeli dialect),2253,тамчиляр булан токмакъ,CyrillTrans,drip,,,tamčilyar bulan tokmaq,Phonemic
+10-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1280,йыгъылмакъ,CyrillTrans,fall,,,yɨɣɨlmaq,Phonemic
+10-220-519-1,kumy1244,Kumyk (Dorgeli dialect),501,гётермек,CyrillTrans,"raise, lift",,,"götеrmеk, gеtеrmaq",Phonemic
+10-220-519-3,kumy1244,Kumyk (Dorgeli dialect),501,гетермакъ,CyrillTrans,"raise, lift",,,"götеrmеk, gеtеrmaq",Phonemic
+10-210-519-1,kumy1244,Kumyk (Dorgeli dialect),568,минмакъ,CyrillTrans,rise,,,minmaq,Phonemic
+10-170-519-1,kumy1244,Kumyk (Dorgeli dialect),430,бураламакъ,CyrillTrans,twist,,,buralamaq,Phonemic
+10-160-519-1,kumy1244,Kumyk (Dorgeli dialect),808,къазмакъ,CyrillTrans,drop (vb),,,"qazmaq, tamɨzdɨrmaq",Phonemic
+10-160-519-3,kumy1244,Kumyk (Dorgeli dialect),808,тамыздырмакъ,CyrillTrans,drop (vb),,,"qazmaq, tamɨzdɨrmaq",Phonemic
+10-150-519-1,kumy1244,Kumyk (Dorgeli dialect),827,айляннырмакъ,CyrillTrans,roll,,,aylyannɨrmaq,Phonemic
+10-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1113,чирмамакъ,CyrillTrans,"wind, wrap",,,čirmamaq,Phonemic
+10-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1445,бурулмакъ,CyrillTrans,turn around,,,burulmaq,Phonemic
+10-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1588,айляннырмакъ,CyrillTrans,turn over,,,"aylyannɨrmaq, aylyanmaq",Phonemic
+10-120-519-3,kumy1244,Kumyk (Dorgeli dialect),1588,айлянмакъ,CyrillTrans,turn over,,,"aylyannɨrmaq, aylyanmaq",Phonemic
+10-110-519-1,kumy1244,Kumyk (Dorgeli dialect),765,тербанмакъ,CyrillTrans,move,,,"tеrbanmaq, tеrbеnmaq",Phonemic
+10-110-519-3,kumy1244,Kumyk (Dorgeli dialect),765,тербенмакъ,CyrillTrans,move,,,"tеrbanmaq, tеrbеnmaq",Phonemic
+9-890-519-1,kumy1244,Kumyk (Dorgeli dialect),2001,сырламакъ,CyrillTrans,paint (vb),,,sɨrlamaq,Phonemic
+9-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1979,гесгич,CyrillTrans,chisel,,,gеsgič,Phonemic
+9-880-519-1,kumy1244,Kumyk (Dorgeli dialect),647,бояв,CyrillTrans,paint (noun),,,"boyaw, sɨr",Phonemic
+9-880-519-3,kumy1244,Kumyk (Dorgeli dialect),647,сыр,CyrillTrans,paint (noun),,,"boyaw, sɨr",Phonemic
+9-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1002,ташсурат,CyrillTrans,statue,,,"tašsurat, statuya",Phonemic
+9-830-519-3,kumy1244,Kumyk (Dorgeli dialect),1002,статуя,CyrillTrans,statue,,,"tašsurat, statuya",Phonemic
+9-820-519-1,kumy1244,Kumyk (Dorgeli dialect),914,скульптор,CyrillTrans,sculptor,,,skuljptor,Phonemic
+9-810-519-1,kumy1244,Kumyk (Dorgeli dialect),228,гесмакъ,CyrillTrans,carve,,,"gеsmaq, gеsip almaq",Phonemic
+9-810-519-3,kumy1244,Kumyk (Dorgeli dialect),228,гесип алмакъ,CyrillTrans,carve,,,"gеsmaq, gеsip almaq",Phonemic
+9-791-519-1,kumy1244,Kumyk (Dorgeli dialect),360,янгъырмакъ,CyrillTrans,fan (vb),,,yanɣɨrmaq,Phonemic
+9-790-519-1,kumy1244,Kumyk (Dorgeli dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wеntilyator,Phonemic
+9-780-519-1,kumy1244,Kumyk (Dorgeli dialect),293,сумка,CyrillTrans,netbag,,,"sumka, sеtka",Phonemic
+9-780-519-3,kumy1244,Kumyk (Dorgeli dialect),293,сетка,CyrillTrans,netbag,,,"sumka, sеtka",Phonemic
+9-771-519-1,kumy1244,Kumyk (Dorgeli dialect),292,хали,CyrillTrans,rug,,,xali,Phonemic
+9-770-519-1,kumy1244,Kumyk (Dorgeli dialect),195,чыпта,CyrillTrans,mat,,,"čɨpta, čipta",Phonemic
+9-770-519-3,kumy1244,Kumyk (Dorgeli dialect),195,чипта,CyrillTrans,mat,,,"čɨpta, čipta",Phonemic
+9-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1539,карзина,CyrillTrans,basket,,,"karzina, čеtan, čеlеk",Phonemic
+9-760-519-3,kumy1244,Kumyk (Dorgeli dialect),1539,четан,CyrillTrans,basket,,,"karzina, čеtan, čеlеk",Phonemic
+9-760-519-5,kumy1244,Kumyk (Dorgeli dialect),1539,челек,CyrillTrans,basket,,,"karzina, čеtan, čеlеk",Phonemic
+9-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1729,тухумакъ,CyrillTrans,"weave, plait",,,tuxumaq,Phonemic
+9-740-519-1,kumy1244,Kumyk (Dorgeli dialect),604,шиша,CyrillTrans,glass,,,šiša,Phonemic
+9-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1399,палчикъ,CyrillTrans,clay,,,palčiq,Phonemic
+9-720-519-1,kumy1244,Kumyk (Dorgeli dialect),289,кепге салмакъ,CyrillTrans,mold (clay etc),,,kepge salmaq,Phonemic
+9-710-519-1,kumy1244,Kumyk (Dorgeli dialect),359,савутчу,CyrillTrans,potter,,,sawutču,Phonemic
+9-690-519-1,kumy1244,Kumyk (Dorgeli dialect),358,темир,CyrillTrans,"tin, tinplate",,,temir,Phonemic
+9-680-519-1,kumy1244,Kumyk (Dorgeli dialect),627,къургъашин,CyrillTrans,lead (noun),,,qurɣašin,Phonemic
+9-670-519-1,kumy1244,Kumyk (Dorgeli dialect),621,темир,CyrillTrans,iron,,,temir,Phonemic
+9-660-519-1,kumy1244,Kumyk (Dorgeli dialect),1825,ез,CyrillTrans,"copper, bronze",,,yez,Phonemic
+9-650-519-1,kumy1244,Kumyk (Dorgeli dialect),759,гумуш,CyrillTrans,silver,,,gumuš,Phonemic
+9-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1369,алтун,CyrillTrans,gold,,,altun,Phonemic
+9-630-519-1,kumy1244,Kumyk (Dorgeli dialect),211,кепге токмакъ,CyrillTrans,cast (metals),,,kеpgе tokmaq,Phonemic
+9-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1648,тёш,CyrillTrans,anvil,,,"töš, tеmirči töš",Phonemic
+9-620-519-3,kumy1244,Kumyk (Dorgeli dialect),1648,темирчи тёш,CyrillTrans,anvil,,,"töš, tеmirči töš",Phonemic
+9-610-519-1,kumy1244,Kumyk (Dorgeli dialect),288,меч,CyrillTrans,forge,,,mеč,Phonemic
+9-600-519-1,kumy1244,Kumyk (Dorgeli dialect),1001,темирчи,CyrillTrans,"smith, blacksmith",,,"tеmirči, tеmir usta",Phonemic
+9-600-519-3,kumy1244,Kumyk (Dorgeli dialect),1001,темир уста,CyrillTrans,"smith, blacksmith",,,"tеmirči, tеmir usta",Phonemic
+9-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1069,къылыкъ,CyrillTrans,glue,,,qɨlɨq,Phonemic
+9-500-519-1,kumy1244,Kumyk (Dorgeli dialect),502,мих,CyrillTrans,nail,,,mix,Phonemic
+9-490-519-1,kumy1244,Kumyk (Dorgeli dialect),1481,чогуч,CyrillTrans,hammer,,,čoguč,Phonemic
+9-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1948,бичгъы,CyrillTrans,saw,,,bičɣɨ,Phonemic
+9-461-519-1,kumy1244,Kumyk (Dorgeli dialect),46,къысып чыгъармакъ,CyrillTrans,hollow out,,,qɨsɨp čɨɣarmaq,Phonemic
+9-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1501,тешик,CyrillTrans,bore,,,tеšik,Phonemic
+9-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1840,къурмакъ,CyrillTrans,build,,,"qurmaq, išlyamaq",Phonemic
+9-440-519-3,kumy1244,Kumyk (Dorgeli dialect),1840,ишлямакъ,CyrillTrans,build,,,"qurmaq, išlyamaq",Phonemic
+9-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1042,агъач уста,CyrillTrans,carpenter,,,aɣač usta,Phonemic
+9-422-519-1,kumy1244,Kumyk (Dorgeli dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-519-1,kumy1244,Kumyk (Dorgeli dialect),245,сибиртки,CyrillTrans,broom,,,sibirtki,Phonemic
+9-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1453,жувмакъ,CyrillTrans,wash,,,ǯuwmaq,Phonemic
+9-370-519-1,kumy1244,Kumyk (Dorgeli dialect),230,сибирмек,CyrillTrans,sweep,,,"sibirmеk, siwirmaq",Phonemic
+9-370-519-3,kumy1244,Kumyk (Dorgeli dialect),230,сивирмакъ,CyrillTrans,sweep,,,"sibirmеk, siwirmaq",Phonemic
+9-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1487,токмакъ,CyrillTrans,pour,,,tokmaq,Phonemic
+9-343-519-1,kumy1244,Kumyk (Dorgeli dialect),1414,сыкъмакъ,CyrillTrans,"squeeze, wring",,,sɨqmaq,Phonemic
+9-342-519-1,kumy1244,Kumyk (Dorgeli dialect),1913,басмакъ,CyrillTrans,press,,,basmaq,Phonemic
+9-341-519-1,kumy1244,Kumyk (Dorgeli dialect),357,ильмакъ,CyrillTrans,hang up,,,"iljmaq, ilmеk",Phonemic
+9-341-519-3,kumy1244,Kumyk (Dorgeli dialect),357,илмек,CyrillTrans,hang up,,,"iljmaq, ilmеk",Phonemic
+9-340-519-1,kumy1244,Kumyk (Dorgeli dialect),38,артдырмакъ,CyrillTrans,spread out,,,"artdɨrmaq, yaymaq",Phonemic
+9-340-519-3,kumy1244,Kumyk (Dorgeli dialect),38,яймакъ,CyrillTrans,spread out,,,"artdɨrmaq, yaymaq",Phonemic
+9-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1455,тартмакъ,CyrillTrans,pull,,,tartmaq,Phonemic
+9-320-519-1,kumy1244,Kumyk (Dorgeli dialect),214,тартмакъ,CyrillTrans,stretch,,,tartmaq,Phonemic
+9-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1449,бузмакъ,CyrillTrans,"rub, wipe",,,buzmaq,Phonemic
+9-290-519-1,kumy1244,Kumyk (Dorgeli dialect),291,гонун тартмакъ,CyrillTrans,"flay, skin",,,"gonun tartmaq, sɨdɨrmaq",Phonemic
+9-290-519-3,kumy1244,Kumyk (Dorgeli dialect),291,сыдырмакъ,CyrillTrans,"flay, skin",,,"gonun tartmaq, sɨdɨrmaq",Phonemic
+9-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1735,юркъмакъ,CyrillTrans,tear,,,yurqmaq,Phonemic
+9-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1437,ярмакъ,CyrillTrans,split,,,"yarmaq, gеsеk etmaq",Phonemic
+9-270-519-3,kumy1244,Kumyk (Dorgeli dialect),1437,гесек этмакъ,CyrillTrans,split,,,"yarmaq, gеsеk etmaq",Phonemic
+9-261-519-1,kumy1244,Kumyk (Dorgeli dialect),588,сынгъан,CyrillTrans,broken,,,"sɨnɣan, singan",Phonemic
+9-261-519-3,kumy1244,Kumyk (Dorgeli dialect),588,синган,CyrillTrans,broken,,,"sɨnɣan, singan",Phonemic
+9-260-519-1,kumy1244,Kumyk (Dorgeli dialect),680,сындырмакъ,CyrillTrans,break,,,sɨndɨrmaq,Phonemic
+9-250-519-1,kumy1244,Kumyk (Dorgeli dialect),677,балта,CyrillTrans,ax,,,balta,Phonemic
+9-251-519-1,kumy1244,Kumyk (Dorgeli dialect),290,балта,CyrillTrans,adze,,,balta,Phonemic
+9-240-519-1,kumy1244,Kumyk (Dorgeli dialect),356,къайчи,CyrillTrans,"scissors, shears",,,qayči,Phonemic
+9-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1352,бичакъ,CyrillTrans,knife,,,bičaq,Phonemic
+9-223-519-1,kumy1244,Kumyk (Dorgeli dialect),1434,гесмек,CyrillTrans,stab,,,gеsmеk,Phonemic
+9-222-519-1,kumy1244,Kumyk (Dorgeli dialect),155,балта булан гесмакъ,CyrillTrans,"chop, hew",,,balta bulan gеsmaq,Phonemic
+9-221-519-1,kumy1244,Kumyk (Dorgeli dialect),355,аз этмакъ,CyrillTrans,cut down,,,az etmaq,Phonemic
+9-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1432,гесмек,CyrillTrans,cut,,,"gеsmеk, gеsmaq",Phonemic
+9-220-519-3,kumy1244,Kumyk (Dorgeli dialect),1432,гесмакъ,CyrillTrans,cut,,,"gеsmеk, gеsmaq",Phonemic
+9-211-519-1,kumy1244,Kumyk (Dorgeli dialect),354,юмурукъ,CyrillTrans,pound with fist,,,"yumuruq, yumurlu bulan urmaq",Phonemic
+9-211-519-3,kumy1244,Kumyk (Dorgeli dialect),354,юмурлу булан урмакъ,CyrillTrans,pound with fist,,,"yumuruq, yumurlu bulan urmaq",Phonemic
+9-210-519-1,kumy1244,Kumyk (Dorgeli dialect),2133,урмакъ,CyrillTrans,"strike (hit, beat)",,,urmaq,Phonemic
+9-192-519-1,kumy1244,Kumyk (Dorgeli dialect),760,туюн,CyrillTrans,knot (noun),,,tuün,Phonemic
+9-190-519-1,kumy1244,Kumyk (Dorgeli dialect),1218,аркъан,CyrillTrans,"rope, cord",,,arqan,Phonemic
+9-180-519-1,kumy1244,Kumyk (Dorgeli dialect),1627,тель,CyrillTrans,chain,,,telj,Phonemic
+9-161-519-1,kumy1244,Kumyk (Dorgeli dialect),352,ачмакъ,CyrillTrans,untie,,,ačmaq,Phonemic
+9-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1917,байлямакъ,CyrillTrans,"tie, bind",,,baylyamaq,Phonemic
+9-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1470,чырмамакъ,CyrillTrans,fold,,,čɨrmamaq,Phonemic
+9-140-519-1,kumy1244,Kumyk (Dorgeli dialect),2004,буклемакъ,CyrillTrans,bend,,,buklеmaq,Phonemic
+9-120-519-1,kumy1244,Kumyk (Dorgeli dialect),984,иш,CyrillTrans,work,,,iš,Phonemic
+9-110-519-1,kumy1244,Kumyk (Dorgeli dialect),2575,этмакъ,CyrillTrans,"do, make",,,etmaq,Phonemic
+8-980-519-1,kumy1244,Kumyk (Dorgeli dialect),641,къолкъотур,CyrillTrans,mushroom,,,qolqotur,Phonemic
+8-970-519-1,kumy1244,Kumyk (Dorgeli dialect),33,къычытгъан,CyrillTrans,nettle,,,qɨčɨtɣan,Phonemic
+8-941-519-1,kumy1244,Kumyk (Dorgeli dialect),146,балкъамуш,CyrillTrans,sugar cane,,,balqamuš,Phonemic
+8-940-519-1,kumy1244,Kumyk (Dorgeli dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-519-1,kumy1244,Kumyk (Dorgeli dialect),864,къабакъ,CyrillTrans,"pumpkin, squash",,,qabaq,Phonemic
+8-930-519-1,kumy1244,Kumyk (Dorgeli dialect),411,бал къабакъ,CyrillTrans,gourd,,,bal qabaq,Phonemic
+8-912-519-1,kumy1244,Kumyk (Dorgeli dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-519-1,kumy1244,Kumyk (Dorgeli dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-519-1,kumy1244,Kumyk (Dorgeli dialect),346,инжирны терек,CyrillTrans,banyan,,,"inžirnɨ tеrеk, inžir tеrеgi",Phonemic
+8-850-519-3,kumy1244,Kumyk (Dorgeli dialect),346,инжир тереги,CyrillTrans,banyan,,,"inžirnɨ tеrеk, inžir tеrеgi",Phonemic
+8-840-519-1,kumy1244,Kumyk (Dorgeli dialect),868,бананны тереги,CyrillTrans,banana tree,,,"banannɨ tеrеgi, banan tеrеk",Phonemic
+8-840-519-3,kumy1244,Kumyk (Dorgeli dialect),868,банан терек,CyrillTrans,banana tree,,,"banannɨ tеrеgi, banan tеrеk",Phonemic
+8-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-519-1,kumy1244,Kumyk (Dorgeli dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1181,пальма,CyrillTrans,palm tree,,,paljma,Phonemic
+8-760-519-1,kumy1244,Kumyk (Dorgeli dialect),345,осумлукъну суву,CyrillTrans,sap,,,osumluqnu suwu,Phonemic
+8-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1204,къабукъ,CyrillTrans,bark,,,qabuq,Phonemic
+8-740-519-1,kumy1244,Kumyk (Dorgeli dialect),409,эки айры бутакъ,CyrillTrans,forked branch,,,eki ayrɨ butaq,Phonemic
+8-730-519-1,kumy1244,Kumyk (Dorgeli dialect),344,терекни къаркъасы,CyrillTrans,tree trunk,,,tеrеkni qarqasɨ,Phonemic
+8-720-519-1,kumy1244,Kumyk (Dorgeli dialect),241,тонгек,CyrillTrans,tree stump,,,toŋеk,Phonemic
+8-691-519-1,kumy1244,Kumyk (Dorgeli dialect),1124,къалиян,CyrillTrans,pipe,,,qaliyan,Phonemic
+8-690-519-1,kumy1244,Kumyk (Dorgeli dialect),1689,тамакуну тутуну,CyrillTrans,smoke (tobacco),,,tamakunu tutunu,Phonemic
+8-680-519-1,kumy1244,Kumyk (Dorgeli dialect),974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-519-1,kumy1244,Kumyk (Dorgeli dialect),343,юзум салкъын,CyrillTrans,vine,,,yuzum salqɨn,Phonemic
+8-660-519-1,kumy1244,Kumyk (Dorgeli dialect),968,эмен къоз,CyrillTrans,acorn,,,emеn qoz,Phonemic
+8-650-519-1,kumy1244,Kumyk (Dorgeli dialect),1915,елка терек,CyrillTrans,fir,,,yelka tеrеk,Phonemic
+8-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1740,нарат,CyrillTrans,pine,,,narat,Phonemic
+8-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1855,макъыр,CyrillTrans,birch,,,maqɨr,Phonemic
+8-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-519-1,kumy1244,Kumyk (Dorgeli dialect),644,эмен,CyrillTrans,oak,,,emеn,Phonemic
+8-600-519-1,kumy1244,Kumyk (Dorgeli dialect),906,терек,CyrillTrans,tree,,,tеrеk,Phonemic
+8-570-519-1,kumy1244,Kumyk (Dorgeli dialect),239,чечек,CyrillTrans,flower,,,čеčеk,Phonemic
+8-560-519-1,kumy1244,Kumyk (Dorgeli dialect),628,япракъ,CyrillTrans,leaf,,,yapraq,Phonemic
+8-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1531,бутакъ,CyrillTrans,branch,,,butaq,Phonemic
+8-540-519-1,kumy1244,Kumyk (Dorgeli dialect),670,тамур,CyrillTrans,root,,,tamur,Phonemic
+8-531-519-1,kumy1244,Kumyk (Dorgeli dialect),1486,остирмакъ,CyrillTrans,plant (vb),,,ostirmaq,Phonemic
+8-520-519-1,kumy1244,Kumyk (Dorgeli dialect),342,бичен,CyrillTrans,hay,,,bičеn,Phonemic
+8-530-519-1,kumy1244,Kumyk (Dorgeli dialect),653,осумлук,CyrillTrans,plant (noun),,,osumluk,Phonemic
+8-510-519-1,kumy1244,Kumyk (Dorgeli dialect),606,от,CyrillTrans,grass,,,ot,Phonemic
+8-480-519-1,kumy1244,Kumyk (Dorgeli dialect),926,дугу,CyrillTrans,rice,,,dugu,Phonemic
+8-470-519-1,kumy1244,Kumyk (Dorgeli dialect),506,гьабижтий,CyrillTrans,"maize, corn",,,habiǯtiy,Phonemic
+8-460-519-1,kumy1244,Kumyk (Dorgeli dialect),60,неха,CyrillTrans,oats,,,"nеxa, nixa",Phonemic
+8-460-519-3,kumy1244,Kumyk (Dorgeli dialect),60,ниха,CyrillTrans,oats,,,"nеxa, nixa",Phonemic
+8-450-519-1,kumy1244,Kumyk (Dorgeli dialect),23,арыш будай,CyrillTrans,rye,,,arɨš buday,Phonemic
+8-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1077,будай,CyrillTrans,wheat,,,buday,Phonemic
+8-440-519-1,kumy1244,Kumyk (Dorgeli dialect),932,арпа,CyrillTrans,barley,,,arpa,Phonemic
+8-420-519-1,kumy1244,Kumyk (Dorgeli dialect),605,ашликъ,CyrillTrans,"grain (barley, oats etc)",,,ašliq,Phonemic
+8-410-519-1,kumy1244,Kumyk (Dorgeli dialect),611,ашликъ,CyrillTrans,"crop, harvest",,,"ašliq, gеlim",Phonemic
+8-410-519-3,kumy1244,Kumyk (Dorgeli dialect),611,гелим,CyrillTrans,"crop, harvest",,,"ašliq, gеlim",Phonemic
+8-350-519-1,kumy1244,Kumyk (Dorgeli dialect),223,харман,CyrillTrans,threshing-floor,,,"xarman, indɨr",Phonemic
+8-350-519-3,kumy1244,Kumyk (Dorgeli dialect),223,индыр,CyrillTrans,threshing-floor,,,"xarman, indɨr",Phonemic
+8-340-519-1,kumy1244,Kumyk (Dorgeli dialect),285,тазаламакъ,CyrillTrans,thresh,,,tazalamaq,Phonemic
+8-330-519-1,kumy1244,Kumyk (Dorgeli dialect),2132,оракъ,CyrillTrans,"sickle, scythe",,,"oraq, čalɣɨ",Phonemic
+8-330-519-3,kumy1244,Kumyk (Dorgeli dialect),2132,чалгъы,CyrillTrans,"sickle, scythe",,,"oraq, čalɣɨ",Phonemic
+8-320-519-1,kumy1244,Kumyk (Dorgeli dialect),190,чалмакъ,CyrillTrans,"mow, reap",,,čalmaq,Phonemic
+8-311-519-1,kumy1244,Kumyk (Dorgeli dialect),714,урлукъ,CyrillTrans,seed,,,urluq,Phonemic
+8-310-519-1,kumy1244,Kumyk (Dorgeli dialect),748,чачмакъ,CyrillTrans,sow,,,čačmaq,Phonemic
+8-270-519-1,kumy1244,Kumyk (Dorgeli dialect),338,тырнавуч,CyrillTrans,rake,,,tɨrnawuč,Phonemic
+8-260-519-1,kumy1244,Kumyk (Dorgeli dialect),337,сенек,CyrillTrans,fork,,,sеnеk,Phonemic
+8-250-519-1,kumy1244,Kumyk (Dorgeli dialect),284,газа,CyrillTrans,hoe,,,gaza,Phonemic
+8-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1901,чоргъаякъ,CyrillTrans,shovel,,,čorɣayaq,Phonemic
+8-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1176,лапатка,CyrillTrans,spade,,,lapatka,Phonemic
+8-212-519-1,kumy1244,Kumyk (Dorgeli dialect),1794,сабанлыкъ,CyrillTrans,furrow,,,sabanlɨq,Phonemic
+8-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1418,къазмакъ,CyrillTrans,dig,,,qazmaq,Phonemic
+8-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1921,сурмакъ,CyrillTrans,plow,,,surmaq,Phonemic
+8-170-519-1,kumy1244,Kumyk (Dorgeli dialect),2002,татавул,CyrillTrans,ditch,,,tatawul,Phonemic
+8-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1690,барув,CyrillTrans,fence,,,baruw,Phonemic
+8-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1541,ишлетмек,CyrillTrans,"cultivate, till",,,"išlеtmеk, išlyatmaq",Phonemic
+8-150-519-3,kumy1244,Kumyk (Dorgeli dialect),1541,ишлятмакъ,CyrillTrans,"cultivate, till",,,"išlеtmеk, išlyatmaq",Phonemic
+8-130-519-1,kumy1244,Kumyk (Dorgeli dialect),586,бав,CyrillTrans,garden,,,baw,Phonemic
+8-120-519-1,kumy1244,Kumyk (Dorgeli dialect),212,авлакъ,CyrillTrans,field (for cultivation),,,awlaq,Phonemic
+8-110-519-1,kumy1244,Kumyk (Dorgeli dialect),979,пермер,CyrillTrans,farmer,,,pеrmеr,Phonemic
+7-640-519-1,kumy1244,Kumyk (Dorgeli dialect),901,балчыкъ уьй,CyrillTrans,adobe,,,"balčɨq üy, baljčiq üy",Phonemic
+7-640-519-3,kumy1244,Kumyk (Dorgeli dialect),901,бальчикъ уьй,CyrillTrans,adobe,,,"balčɨq üy, baljčiq üy",Phonemic
+7-630-519-1,kumy1244,Kumyk (Dorgeli dialect),224,киреч,CyrillTrans,mortar,,,kirеč,Phonemic
+7-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1006,керпич,CyrillTrans,brick,,,kеrpič,Phonemic
+7-580-519-1,kumy1244,Kumyk (Dorgeli dialect),876,арсава,CyrillTrans,arch,,,arsawa,Phonemic
+7-610-519-1,kumy1244,Kumyk (Dorgeli dialect),877,тащ уста,CyrillTrans,mason,,,taš̄ usta,Phonemic
+7-570-519-1,kumy1244,Kumyk (Dorgeli dialect),1227,тахта,CyrillTrans,board,,,taxta,Phonemic
+7-560-519-1,kumy1244,Kumyk (Dorgeli dialect),281,багъана,CyrillTrans,"post, pole",,,baɣana,Phonemic
+7-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1132,аркъалыкъ,CyrillTrans,beam,,,arqalɨq,Phonemic
+7-540-519-1,kumy1244,Kumyk (Dorgeli dialect),829,аркъалыкъ,CyrillTrans,rafter,,,arqalɨq,Phonemic
+7-530-519-1,kumy1244,Kumyk (Dorgeli dialect),280,таякв,CyrillTrans,ridgepole,,,tayakw,Phonemic
+7-520-519-1,kumy1244,Kumyk (Dorgeli dialect),279,салам къалкъы,CyrillTrans,thatch,,,salam qalqɨ,Phonemic
+7-510-519-1,kumy1244,Kumyk (Dorgeli dialect),769,къалкъы,CyrillTrans,roof,,,qalqɨ,Phonemic
+7-480-519-1,kumy1244,Kumyk (Dorgeli dialect),205,чоргъа,CyrillTrans,trough,,,čorɣa,Phonemic
+7-470-519-1,kumy1244,Kumyk (Dorgeli dialect),745,тахча,CyrillTrans,shelf,,,taxča,Phonemic
+7-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1273,шам чиракъ,CyrillTrans,candle,,,šam čiraq,Phonemic
+7-450-519-1,kumy1244,Kumyk (Dorgeli dialect),2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-450-519-3,kumy1244,Kumyk (Dorgeli dialect),2131,панар,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1476,шанжал,CyrillTrans,chair,,,šanǯal,Phonemic
+7-422-519-1,kumy1244,Kumyk (Dorgeli dialect),806,юргъан,CyrillTrans,blanket,,,"yurɣan, adiyal",Phonemic
+7-422-519-3,kumy1244,Kumyk (Dorgeli dialect),806,адиял,CyrillTrans,blanket,,,"yurɣan, adiyal",Phonemic
+7-421-519-1,kumy1244,Kumyk (Dorgeli dialect),1044,ястукъ,CyrillTrans,pillow,,,yastuq,Phonemic
+7-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1663,карават,CyrillTrans,bed,,,karawat,Phonemic
+7-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1464,канзи,CyrillTrans,ladder,,,kanzi,Phonemic
+7-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1305,тумулукъ,CyrillTrans,chimney,,,tumuluq,Phonemic
+7-320-519-1,kumy1244,Kumyk (Dorgeli dialect),859,печь,CyrillTrans,stove,,,"pečj, oǯaq",Phonemic
+7-320-519-3,kumy1244,Kumyk (Dorgeli dialect),859,ожакъ,CyrillTrans,stove,,,"pečj, oǯaq",Phonemic
+7-310-519-1,kumy1244,Kumyk (Dorgeli dialect),185,тавхана,CyrillTrans,fireplace,,,tawxana,Phonemic
+7-270-519-1,kumy1244,Kumyk (Dorgeli dialect),933,там,CyrillTrans,wall,,,tam,Phonemic
+7-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1632,пол,CyrillTrans,floor,,,pol,Phonemic
+7-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1375,терезе,CyrillTrans,window,,,tеrеzе,Phonemic
+7-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1472,ачгъач,CyrillTrans,key,,,ačɣač,Phonemic
+7-231-519-1,kumy1244,Kumyk (Dorgeli dialect),1012,тогъанакъ,CyrillTrans,"latch, door-bolt",,,toɣanaq,Phonemic
+7-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1596,кирит,CyrillTrans,lock (noun),,,kirit,Phonemic
+7-221-519-1,kumy1244,Kumyk (Dorgeli dialect),80,энеге,CyrillTrans,"doorpost, jamb",,,enеgе,Phonemic
+7-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1450,уьй,CyrillTrans,room,,,üy,Phonemic
+7-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1567,къапу,CyrillTrans,"door, gate",,,"qapu, ešik",Phonemic
+7-220-519-3,kumy1244,Kumyk (Dorgeli dialect),1567,эшик,CyrillTrans,"door, gate",,,"qapu, ešik",Phonemic
+7-180-519-1,kumy1244,Kumyk (Dorgeli dialect),335,мажлисни уьй,CyrillTrans,meeting house,,,"maǯlisni üy, kulub",Phonemic
+7-180-519-3,kumy1244,Kumyk (Dorgeli dialect),335,кулуб,CyrillTrans,meeting house,,,"maǯlisni üy, kulub",Phonemic
+7-170-519-1,kumy1244,Kumyk (Dorgeli dialect),334,кухня,CyrillTrans,cookhouse,,,"kuxnya, aš üy",Phonemic
+7-170-519-3,kumy1244,Kumyk (Dorgeli dialect),334,аш уьй,CyrillTrans,cookhouse,,,"kuxnya, aš üy",Phonemic
+7-160-519-1,kumy1244,Kumyk (Dorgeli dialect),408,эргишини уьй,CyrillTrans,men's house,,,ergišini üy,Phonemic
+7-150-519-1,kumy1244,Kumyk (Dorgeli dialect),736,азбар,CyrillTrans,"yard, court",,,"azbar, abzar",Phonemic
+7-150-519-3,kumy1244,Kumyk (Dorgeli dialect),736,абзар,CyrillTrans,"yard, court",,,"azbar, abzar",Phonemic
+7-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1316,чатыр,CyrillTrans,tent,,,čatɨr,Phonemic
+7-131-519-1,kumy1244,Kumyk (Dorgeli dialect),403,дачадиги уьй,CyrillTrans,garden-house,,,dačadigi üy,Phonemic
+7-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1678,уьй,CyrillTrans,hut,,,üy,Phonemic
+7-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1252,уьй,CyrillTrans,house,,,üy,Phonemic
+7-110-519-1,kumy1244,Kumyk (Dorgeli dialect),363,яшамакъ,CyrillTrans,"dwell, live",,,yašamaq,Phonemic
+6-960-519-1,kumy1244,Kumyk (Dorgeli dialect),1171,гузгу,CyrillTrans,mirror,,,guzgu,Phonemic
+6-950-519-1,kumy1244,Kumyk (Dorgeli dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-519-1,kumy1244,Kumyk (Dorgeli dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-519-1,kumy1244,Kumyk (Dorgeli dialect),151,деллек,CyrillTrans,razor,,,"dеllеk, saqal yuluygan zat",Phonemic
+6-930-519-3,kumy1244,Kumyk (Dorgeli dialect),151,сакъал юлуйган зат,CyrillTrans,razor,,,"dеllеk, saqal yuluygan zat",Phonemic
+6-921-519-1,kumy1244,Kumyk (Dorgeli dialect),333,чач,CyrillTrans,braid,,,čač,Phonemic
+6-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1821,таракъ,CyrillTrans,brush,,,taraq,Phonemic
+6-910-519-1,kumy1244,Kumyk (Dorgeli dialect),1475,таракъ,CyrillTrans,comb,,,taraq,Phonemic
+6-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1021,бет явлукъ,CyrillTrans,towel,,,"bеt yawluq, palatеnca",Phonemic
+6-820-519-3,kumy1244,Kumyk (Dorgeli dialect),1021,палатенца,CyrillTrans,towel,,,"bеt yawluq, palatеnca",Phonemic
+6-810-519-1,kumy1244,Kumyk (Dorgeli dialect),332,къол явлукъ,CyrillTrans,"handkerchief, rag",,,qol yawluq,Phonemic
+6-780-519-1,kumy1244,Kumyk (Dorgeli dialect),330,чалма,CyrillTrans,"headband, headdress",,,"čalma, bašgiyim",Phonemic
+6-780-519-3,kumy1244,Kumyk (Dorgeli dialect),330,башгийим,CyrillTrans,"headband, headdress",,,"čalma, bašgiyim",Phonemic
+6-770-519-1,kumy1244,Kumyk (Dorgeli dialect),770,сыргъа,CyrillTrans,earring,,,sɨrɣa,Phonemic
+6-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1860,минчакъ,CyrillTrans,bead,,,minčaq,Phonemic
+6-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1961,тагъымчакъ,CyrillTrans,necklace,,,taɣɨmčaq,Phonemic
+6-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1754,булезик,CyrillTrans,bracelet,,,bulеzik,Phonemic
+6-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1374,юзук,CyrillTrans,ring (for finger),,,yuzuk,Phonemic
+6-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1029,къаш,CyrillTrans,jewel,,,"qaš, bahali qaš",Phonemic
+6-720-519-3,kumy1244,Kumyk (Dorgeli dialect),1029,багьали къаш,CyrillTrans,jewel,,,"qaš, bahali qaš",Phonemic
+6-710-519-1,kumy1244,Kumyk (Dorgeli dialect),917,безендирив,CyrillTrans,"ornament, adornment",,,bеzеndiriw,Phonemic
+6-630-519-1,kumy1244,Kumyk (Dorgeli dialect),64,иналик,CyrillTrans,pin,,,inalik,Phonemic
+6-620-519-1,kumy1244,Kumyk (Dorgeli dialect),757,пент,CyrillTrans,button,,,pеnt,Phonemic
+6-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1851,киса,CyrillTrans,pocket,,,"kisa, kisan",Phonemic
+6-610-519-3,kumy1244,Kumyk (Dorgeli dialect),1851,кисан,CyrillTrans,pocket,,,"kisa, kisan",Phonemic
+6-590-519-1,kumy1244,Kumyk (Dorgeli dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-519-1,kumy1244,Kumyk (Dorgeli dialect),867,къолбакълар,CyrillTrans,glove,,,qolbaqlar,Phonemic
+6-570-519-1,kumy1244,Kumyk (Dorgeli dialect),772,белбав,CyrillTrans,"belt, girdle",,,bеlbaw,Phonemic
+6-550-519-1,kumy1244,Kumyk (Dorgeli dialect),2130,къалакъай,CyrillTrans,"hat, cap",,,"qalaqay, šlyapa",Phonemic
+6-550-519-3,kumy1244,Kumyk (Dorgeli dialect),2130,шляпа,CyrillTrans,"hat, cap",,,"qalaqay, šlyapa",Phonemic
+6-540-519-1,kumy1244,Kumyk (Dorgeli dialect),875,этикчи,CyrillTrans,"shoemaker, cobbler",,,etikči,Phonemic
+6-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1381,аякъ гийим,CyrillTrans,shoe,,,"ayaq giyim, tupli",Phonemic
+6-510-519-3,kumy1244,Kumyk (Dorgeli dialect),1381,тупли,CyrillTrans,shoe,,,"ayaq giyim, tupli",Phonemic
+6-520-519-1,kumy1244,Kumyk (Dorgeli dialect),585,патинка,CyrillTrans,boot,,,patinka,Phonemic
+6-490-519-1,kumy1244,Kumyk (Dorgeli dialect),329,чорап,CyrillTrans,"stocking, sock",,,čorap,Phonemic
+6-480-519-1,kumy1244,Kumyk (Dorgeli dialect),809,шарбар,CyrillTrans,trousers,,,"šarbar, šalbar",Phonemic
+6-480-519-3,kumy1244,Kumyk (Dorgeli dialect),809,шалбар,CyrillTrans,trousers,,,"šarbar, šalbar",Phonemic
+6-461-519-1,kumy1244,Kumyk (Dorgeli dialect),328,ярпакъдан бел юпка,CyrillTrans,grass-skirt,,,yarpaqdan bеl yupka,Phonemic
+6-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1600,бел юпка,CyrillTrans,skirt,,,bel yupka,Phonemic
+6-450-519-1,kumy1244,Kumyk (Dorgeli dialect),2012,ягъасы,CyrillTrans,collar,,,yaɣasɨ,Phonemic
+6-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1622,гёйлек,CyrillTrans,shirt,,,göylеk,Phonemic
+6-430-519-1,kumy1244,Kumyk (Dorgeli dialect),603,пальто,CyrillTrans,coat,,,paljto,Phonemic
+6-420-519-1,kumy1244,Kumyk (Dorgeli dialect),474,капот,CyrillTrans,woman's dress,,,kapot,Phonemic
+6-390-519-1,kumy1244,Kumyk (Dorgeli dialect),157,сыр,CyrillTrans,dye,,,sɨr,Phonemic
+6-410-519-1,kumy1244,Kumyk (Dorgeli dialect),326,плаш,CyrillTrans,cloak,,,plaš,Phonemic
+6-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1161,йип,CyrillTrans,thread,,,yip,Phonemic
+6-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1382,ина,CyrillTrans,needle,,,ina,Phonemic
+6-370-519-1,kumy1244,Kumyk (Dorgeli dialect),278,биз,CyrillTrans,awl,,,"biz, tigiw",Phonemic
+6-370-519-3,kumy1244,Kumyk (Dorgeli dialect),278,тигив,CyrillTrans,awl,,,"biz, tigiw",Phonemic
+6-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1457,тикмакъ,CyrillTrans,sew,,,tikmaq,Phonemic
+6-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1787,чыгъыр,CyrillTrans,loom,,,čɨɣɨr,Phonemic
+6-330-519-1,kumy1244,Kumyk (Dorgeli dialect),133,эшмакъ,CyrillTrans,weave,,,ešmaq,Phonemic
+6-320-519-1,kumy1244,Kumyk (Dorgeli dialect),277,урчукъ,CyrillTrans,spindle,,,určuq,Phonemic
+6-310-519-1,kumy1244,Kumyk (Dorgeli dialect),121,сокъмакъ,CyrillTrans,spin,,,soqmaq,Phonemic
+6-290-519-1,kumy1244,Kumyk (Dorgeli dialect),629,гон,CyrillTrans,leather,,,gon,Phonemic
+6-280-519-1,kumy1244,Kumyk (Dorgeli dialect),580,тери,CyrillTrans,fur,,,tеri,Phonemic
+6-270-519-1,kumy1244,Kumyk (Dorgeli dialect),325,кийиз,CyrillTrans,felt,,,kiyiz,Phonemic
+6-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1641,шелк,CyrillTrans,silk,,,"šеlk, šolk",Phonemic
+6-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1641,шолк,CyrillTrans,silk,,,"šеlk, šolk",Phonemic
+6-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1850,мамукъ къумач,CyrillTrans,cotton,,,mamuq qumač,Phonemic
+6-230-519-1,kumy1244,Kumyk (Dorgeli dialect),916,кендир къумач,CyrillTrans,"linen, flax",,,kеndir qumač,Phonemic
+6-220-519-1,kumy1244,Kumyk (Dorgeli dialect),964,шал къумач,CyrillTrans,wool,,,šal qumač,Phonemic
+6-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1616,къумач,CyrillTrans,cloth,,,qumač,Phonemic
+6-130-519-1,kumy1244,Kumyk (Dorgeli dialect),881,дерзи,CyrillTrans,tailor,,,"dеrzi, opuraq tigеgеn adam",Phonemic
+6-130-519-3,kumy1244,Kumyk (Dorgeli dialect),881,опуракъ тигеген адам,CyrillTrans,tailor,,,"dеrzi, opuraq tigеgеn adam",Phonemic
+6-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1895,опуракъ,CyrillTrans,"clothing, clothes",,,opuraq,Phonemic
+6-110-519-1,kumy1244,Kumyk (Dorgeli dialect),158,гийиннирмакъ,CyrillTrans,put on (clothes),,,giyinnirmaq,Phonemic
+5-971-519-1,kumy1244,Kumyk (Dorgeli dialect),1556,юмуртгъаны сариси,CyrillTrans,egg yolk,,,yumurtɣanɨ sarisi,Phonemic
+5-970-519-1,kumy1244,Kumyk (Dorgeli dialect),744,юмуртгъа,CyrillTrans,egg,,,yumurtɣa,Phonemic
+5-940-519-1,kumy1244,Kumyk (Dorgeli dialect),404,буза,CyrillTrans,fermented drink,,,"buza, boza",Phonemic
+5-940-519-3,kumy1244,Kumyk (Dorgeli dialect),404,боза,CyrillTrans,fermented drink,,,"buza, boza",Phonemic
+5-930-519-1,kumy1244,Kumyk (Dorgeli dialect),1639,пиво,CyrillTrans,beer,,,"piwo, piywa",Phonemic
+5-930-519-3,kumy1244,Kumyk (Dorgeli dialect),1639,пийва,CyrillTrans,beer,,,"piwo, piywa",Phonemic
+5-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1524,чагъыр,CyrillTrans,wine,,,čaɣɨr,Phonemic
+5-910-519-1,kumy1244,Kumyk (Dorgeli dialect),941,бал ички,CyrillTrans,mead,,,bal ički,Phonemic
+5-900-519-1,kumy1244,Kumyk (Dorgeli dialect),731,ичаган зат,CyrillTrans,"beverage, drink",,,ičagan zat,Phonemic
+5-890-519-1,kumy1244,Kumyk (Dorgeli dialect),1245,кама,CyrillTrans,butter,,,kama,Phonemic
+5-880-519-1,kumy1244,Kumyk (Dorgeli dialect),1569,бишлякъ,CyrillTrans,cheese,,,bišlyaq,Phonemic
+5-870-519-1,kumy1244,Kumyk (Dorgeli dialect),93,савмакъ,CyrillTrans,milk (vb),,,sawmaq,Phonemic
+5-850-519-1,kumy1244,Kumyk (Dorgeli dialect),862,шекер,CyrillTrans,sugar,,,šеkеr,Phonemic
+5-860-519-1,kumy1244,Kumyk (Dorgeli dialect),635,сут,CyrillTrans,milk (noun),,,sut,Phonemic
+5-840-519-1,kumy1244,Kumyk (Dorgeli dialect),942,бал,CyrillTrans,honey,,,bal,Phonemic
+5-821-519-1,kumy1244,Kumyk (Dorgeli dialect),919,аччи жибижи,CyrillTrans,chili pepper,,,ač̄i ǯibiǯi,Phonemic
+5-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1385,жибижи,CyrillTrans,pepper,,,ǯibiǯi,Phonemic
+5-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1274,туз,CyrillTrans,salt,,,tuz,Phonemic
+5-791-519-1,kumy1244,Kumyk (Dorgeli dialect),323,май,CyrillTrans,"grease, fat",,,"may, yaw",Phonemic
+5-791-519-3,kumy1244,Kumyk (Dorgeli dialect),323,яв,CyrillTrans,"grease, fat",,,"may, yaw",Phonemic
+5-790-519-1,kumy1244,Kumyk (Dorgeli dialect),1484,май,CyrillTrans,oil,,,"may, simička may",Phonemic
+5-790-519-3,kumy1244,Kumyk (Dorgeli dialect),1484,симичка май,CyrillTrans,oil,,,"may, simička may",Phonemic
+5-780-519-1,kumy1244,Kumyk (Dorgeli dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-519-1,kumy1244,Kumyk (Dorgeli dialect),920,юзум,CyrillTrans,grape,,,yuzum,Phonemic
+5-770-519-1,kumy1244,Kumyk (Dorgeli dialect),191,къоз,CyrillTrans,nut,,,qoz,Phonemic
+5-750-519-1,kumy1244,Kumyk (Dorgeli dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-519-1,kumy1244,Kumyk (Dorgeli dialect),1966,салкъын,CyrillTrans,bunch,,,salqɨn,Phonemic
+5-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1507,терек емиш,CyrillTrans,fruit,,,tеrеk yеmiš,Phonemic
+5-700-519-1,kumy1244,Kumyk (Dorgeli dialect),593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-519-1,kumy1244,Kumyk (Dorgeli dialect),832,бурчакъ,CyrillTrans,bean,,,burčaq,Phonemic
+5-650-519-1,kumy1244,Kumyk (Dorgeli dialect),924,емиш,CyrillTrans,vegetables,,,yemiš,Phonemic
+5-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1547,шорпа,CyrillTrans,"soup, broth",,,šorpa,Phonemic
+5-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1874,калбаса,CyrillTrans,sausage,,,"kalbasa, etdеntolɣan ičеk",Phonemic
+5-630-519-3,kumy1244,Kumyk (Dorgeli dialect),1874,этдентолгъан ичек,CyrillTrans,sausage,,,"kalbasa, etdеntolɣan ičеk",Phonemic
+5-610-519-1,kumy1244,Kumyk (Dorgeli dialect),634,эт,CyrillTrans,meat,,,et,Phonemic
+5-590-519-1,kumy1244,Kumyk (Dorgeli dialect),225,келини токъмагъы,CyrillTrans,pestle,,,kеlini toqmaɣɨ,Phonemic
+5-580-519-1,kumy1244,Kumyk (Dorgeli dialect),224,кели гьавенк,CyrillTrans,mortar (2),,,kеli hawеnk,Phonemic
+5-570-519-1,kumy1244,Kumyk (Dorgeli dialect),636,тирмен,CyrillTrans,mill,,,"tirmеn, tɨrman",Phonemic
+5-570-519-3,kumy1244,Kumyk (Dorgeli dialect),636,тырман,CyrillTrans,mill,,,"tirmеn, tɨrman",Phonemic
+5-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1033,гесеклер этмакъ,CyrillTrans,"crush, grind",,,gеsеklеr etmaq,Phonemic
+5-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1594,ун,CyrillTrans,"meal, flour",,,un,Phonemic
+5-540-519-1,kumy1244,Kumyk (Dorgeli dialect),274,хамур басмакъ,CyrillTrans,knead,,,xamur basmaq,Phonemic
+5-530-519-1,kumy1244,Kumyk (Dorgeli dialect),273,хамур,CyrillTrans,dough,,,xamur,Phonemic
+5-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1368,экмек,CyrillTrans,bread,,,ekmеk,Phonemic
+5-490-519-1,kumy1244,Kumyk (Dorgeli dialect),2017,булгъаламакъ,CyrillTrans,"stir, mix",,,"bulɣalamaq, qošmaq",Phonemic
+5-490-519-3,kumy1244,Kumyk (Dorgeli dialect),2017,къошмакъ,CyrillTrans,"stir, mix",,,"bulɣalamaq, qošmaq",Phonemic
+5-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1767,сыйпамакъ,CyrillTrans,scrape,,,"sɨypamaq, sɨpɣɨpmaq",Phonemic
+5-480-519-3,kumy1244,Kumyk (Dorgeli dialect),1767,сыпгъыпмакъ,CyrillTrans,scrape,,,"sɨypamaq, sɨpɣɨpmaq",Phonemic
+5-470-519-1,kumy1244,Kumyk (Dorgeli dialect),86,элемакъ,CyrillTrans,"sieve, strain",,,elеmaq,Phonemic
+5-460-519-1,kumy1244,Kumyk (Dorgeli dialect),275,тазаламакъ,CyrillTrans,peel,,,tazalamaq,Phonemic
+5-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1833,ахшамгъы аш,CyrillTrans,supper,,,"axšamɣɨ aš, gеčе aš",Phonemic
+5-450-519-3,kumy1244,Kumyk (Dorgeli dialect),1833,гече аш,CyrillTrans,supper,,,"axšamɣɨ aš, gеčе aš",Phonemic
+5-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1833,тюш аш,CyrillTrans,dinner,,,tüš aš,Phonemic
+5-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1322,эртенги аш,CyrillTrans,breakfast,,,ertеŋi aš,Phonemic
+5-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1526,аш ашамакъ,CyrillTrans,meal (a),,,aš ašamaq,Phonemic
+5-391-519-1,kumy1244,Kumyk (Dorgeli dialect),272,маша,CyrillTrans,tongs,,,maša,Phonemic
+5-390-519-1,kumy1244,Kumyk (Dorgeli dialect),1302,тиш,CyrillTrans,fork (2),,,tiš,Phonemic
+5-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1352,бичакъ,CyrillTrans,knife (2),,,bičaq,Phonemic
+5-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1378,къашыкъ,CyrillTrans,spoon,,,qašɨq,Phonemic
+5-360-519-1,kumy1244,Kumyk (Dorgeli dialect),271,налбеки,CyrillTrans,saucer,,,nalbеki,Phonemic
+5-350-519-1,kumy1244,Kumyk (Dorgeli dialect),476,чашка,CyrillTrans,"cup, drinking vessel",,,čaška,Phonemic
+5-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1530,чашка,CyrillTrans,bowl,,,čaška,Phonemic
+5-340-519-1,kumy1244,Kumyk (Dorgeli dialect),270,къувгъан,CyrillTrans,"pitcher, jug",,,"quwɣan, quman",Phonemic
+5-340-519-3,kumy1244,Kumyk (Dorgeli dialect),270,къуман,CyrillTrans,"pitcher, jug",,,"quwɣan, quman",Phonemic
+5-320-519-1,kumy1244,Kumyk (Dorgeli dialect),480,бошгъап,CyrillTrans,plate,,,bošɣap,Phonemic
+5-310-519-1,kumy1244,Kumyk (Dorgeli dialect),481,бошгъап,CyrillTrans,dish,,,"bošɣap, sukara, tеrеn",Phonemic
+5-310-519-3,kumy1244,Kumyk (Dorgeli dialect),481,сукара,CyrillTrans,dish,,,"bošɣap, sukara, tеrеn",Phonemic
+5-310-519-5,kumy1244,Kumyk (Dorgeli dialect),481,терен,CyrillTrans,dish,,,"bošɣap, sukara, tеrеn",Phonemic
+5-280-519-1,kumy1244,Kumyk (Dorgeli dialect),31,къазан,CyrillTrans,pan,,,qazan,Phonemic
+5-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1462,къуман,CyrillTrans,"pot, cooking vessel",,,"quman, qazan",Phonemic
+5-260-519-3,kumy1244,Kumyk (Dorgeli dialect),1462,къазан,CyrillTrans,"pot, cooking vessel",,,"quman, qazan",Phonemic
+5-270-519-1,kumy1244,Kumyk (Dorgeli dialect),854,чайнек,CyrillTrans,kettle,,,"čaynеk, čaynik",Phonemic
+5-270-519-3,kumy1244,Kumyk (Dorgeli dialect),854,чайник,CyrillTrans,kettle,,,"čaynеk, čaynik",Phonemic
+5-240-519-1,kumy1244,Kumyk (Dorgeli dialect),183,биширмакъ,CyrillTrans,bake,,,biširmaq,Phonemic
+5-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1143,печ,CyrillTrans,oven,,,pеč,Phonemic
+5-230-519-1,kumy1244,Kumyk (Dorgeli dialect),2146,къызартмакъ,CyrillTrans,"roast, fry",,,qɨzartmaq,Phonemic
+5-220-519-1,kumy1244,Kumyk (Dorgeli dialect),792,къайнатмакъ,CyrillTrans,boil (vb),,,qaynatmaq,Phonemic
+5-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1100,биширмакъ,CyrillTrans,cook,,,biširmaq,Phonemic
+5-190-519-1,kumy1244,Kumyk (Dorgeli dialect),129,букъмакъ,CyrillTrans,choke,,,"buqmaq, bukmaq",Phonemic
+5-190-519-3,kumy1244,Kumyk (Dorgeli dialect),129,букмакъ,CyrillTrans,choke,,,"buqmaq, bukmaq",Phonemic
+5-181-519-1,kumy1244,Kumyk (Dorgeli dialect),897,ютмакъ,CyrillTrans,swallow,,,yutmaq,Phonemic
+5-180-519-1,kumy1244,Kumyk (Dorgeli dialect),321,чайнамакъ,CyrillTrans,chew,,,čaynamaq,Phonemic
+5-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1421,сормакъ,CyrillTrans,suck,,,sormaq,Phonemic
+5-150-519-1,kumy1244,Kumyk (Dorgeli dialect),848,сувсапликъ,CyrillTrans,thirst,,,suwsapliq,Phonemic
+5-141-519-1,kumy1244,Kumyk (Dorgeli dialect),199,ачлыкъ,CyrillTrans,famine,,,ačlɨq,Phonemic
+5-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1864,ачликъ,CyrillTrans,hunger,,,ačliq,Phonemic
+5-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1401,ичмакъ,CyrillTrans,drink,,,ičmaq,Phonemic
+5-125-519-1,kumy1244,Kumyk (Dorgeli dialect),1728,чириган,CyrillTrans,rotten,,,čirigan,Phonemic
+5-124-519-1,kumy1244,Kumyk (Dorgeli dialect),1958,бишмаган,CyrillTrans,"green, unripe",,,bišmagan,Phonemic
+5-123-519-1,kumy1244,Kumyk (Dorgeli dialect),178,бишган,CyrillTrans,ripe,,,bišgan,Phonemic
+5-122-519-1,kumy1244,Kumyk (Dorgeli dialect),1959,бишмаган,CyrillTrans,raw,,,bišmagan,Phonemic
+5-121-519-1,kumy1244,Kumyk (Dorgeli dialect),269,бишган,CyrillTrans,cooked,,,bišgan,Phonemic
+5-120-519-1,kumy1244,Kumyk (Dorgeli dialect),256,аш,CyrillTrans,food,,,aš,Phonemic
+5-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1336,ашамакъ,CyrillTrans,eat,,,ašamaq,Phonemic
+4-990-519-1,kumy1244,Kumyk (Dorgeli dialect),590,ялангъач,CyrillTrans,"naked, bare",,,yalanɣač,Phonemic
+4-970-519-1,kumy1244,Kumyk (Dorgeli dialect),1653,сокъур,CyrillTrans,blind,,,soqur,Phonemic
+4-980-519-1,kumy1244,Kumyk (Dorgeli dialect),1463,эсирган,CyrillTrans,intoxicated,,,esirgan,Phonemic
+4-960-519-1,kumy1244,Kumyk (Dorgeli dialect),1666,тилсиз,CyrillTrans,mute,,,"tilsiz, sеylеmiygan",Phonemic
+4-960-519-3,kumy1244,Kumyk (Dorgeli dialect),1666,сейлемийган,CyrillTrans,mute,,,"tilsiz, sеylеmiygan",Phonemic
+4-950-519-1,kumy1244,Kumyk (Dorgeli dialect),996,сангырав,CyrillTrans,deaf,,,"saŋɨraw, ešitmеygеn",Phonemic
+4-950-519-3,kumy1244,Kumyk (Dorgeli dialect),996,эшитмейген,CyrillTrans,deaf,,,"saŋɨraw, ešitmеygеn",Phonemic
+4-930-519-1,kumy1244,Kumyk (Dorgeli dialect),1125,чанка,CyrillTrans,bald,,,čanka,Phonemic
+4-940-519-1,kumy1244,Kumyk (Dorgeli dialect),320,аскъакъламакъ,CyrillTrans,lame,,,asqaqlamaq,Phonemic
+4-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1564,эринчек,CyrillTrans,lazy,,,erinček,Phonemic
+4-912-519-1,kumy1244,Kumyk (Dorgeli dialect),168,ял алмакъ,CyrillTrans,rest,,,yal almaq,Phonemic
+4-910-519-1,kumy1244,Kumyk (Dorgeli dialect),1757,ялкъгъан,CyrillTrans,"tired, weary",,,"yalqɣan, qawšalɣan",Phonemic
+4-910-519-3,kumy1244,Kumyk (Dorgeli dialect),1757,къавшалгъан,CyrillTrans,"tired, weary",,,"yalqɣan, qawšalɣan",Phonemic
+4-890-519-1,kumy1244,Kumyk (Dorgeli dialect),655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-519-1,kumy1244,Kumyk (Dorgeli dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"darman, em",Phonemic
+4-880-519-3,kumy1244,Kumyk (Dorgeli dialect),1372,эм,CyrillTrans,"medicine, drug",,,"darman, em",Phonemic
+4-870-519-1,kumy1244,Kumyk (Dorgeli dialect),597,дохтир,CyrillTrans,physician,,,"doxtir, wrač",Phonemic
+4-870-519-3,kumy1244,Kumyk (Dorgeli dialect),597,врач,CyrillTrans,physician,,,"doxtir, wrač",Phonemic
+4-860-519-1,kumy1244,Kumyk (Dorgeli dialect),499,сав этмакъ,CyrillTrans,"cure, heal",,,"saw etmaq, saw etmеk",Phonemic
+4-860-519-3,kumy1244,Kumyk (Dorgeli dialect),499,сав этмек,CyrillTrans,"cure, heal",,,"saw etmaq, saw etmеk",Phonemic
+4-858-519-1,kumy1244,Kumyk (Dorgeli dialect),497,белги,CyrillTrans,scar,,,bеlgi,Phonemic
+4-857-519-1,kumy1244,Kumyk (Dorgeli dialect),1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-519-1,kumy1244,Kumyk (Dorgeli dialect),793,чыгъыв,CyrillTrans,boil (noun),,,"čɨɣɨw, ǯuǯuka",Phonemic
+4-856-519-3,kumy1244,Kumyk (Dorgeli dialect),793,жужука,CyrillTrans,boil (noun),,,"čɨɣɨw, ǯuǯuka",Phonemic
+4-855-519-1,kumy1244,Kumyk (Dorgeli dialect),1584,сув тутган,CyrillTrans,blister,,,"suw tutgan, čɨɣɨw",Phonemic
+4-855-519-3,kumy1244,Kumyk (Dorgeli dialect),1584,чыгъыв,CyrillTrans,blister,,,"suw tutgan, čɨɣɨw",Phonemic
+4-854-519-1,kumy1244,Kumyk (Dorgeli dialect),148,къычытагъан зат,CyrillTrans,itch,,,"qɨčɨtaɣan zat, yeri",Phonemic
+4-854-519-3,kumy1244,Kumyk (Dorgeli dialect),148,ери,CyrillTrans,itch,,,"qɨčɨtaɣan zat, yeri",Phonemic
+4-853-519-1,kumy1244,Kumyk (Dorgeli dialect),1903,талав,CyrillTrans,swelling,,,talaw,Phonemic
+4-852-519-1,kumy1244,Kumyk (Dorgeli dialect),1148,гогерган эри,CyrillTrans,bruise,,,gogеrgan eri,Phonemic
+4-850-519-1,kumy1244,Kumyk (Dorgeli dialect),1109,яра,CyrillTrans,"wound, sore",,,yara,Phonemic
+4-843-519-1,kumy1244,Kumyk (Dorgeli dialect),102,сувукъ,CyrillTrans,cold (catarrh),,,"suwuq, tiygan",Phonemic
+4-843-519-3,kumy1244,Kumyk (Dorgeli dialect),102,тийган,CyrillTrans,cold (catarrh),,,"suwuq, tiygan",Phonemic
+4-842-519-1,kumy1244,Kumyk (Dorgeli dialect),1957,тамакъ безляр,CyrillTrans,goiter,,,tamaq bеzlyar,Phonemic
+4-841-519-1,kumy1244,Kumyk (Dorgeli dialect),1534,иссилик,CyrillTrans,fever,,,is̄ilik,Phonemic
+4-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1847,аврувлу,CyrillTrans,"sick, sickness",,,awruwlu,Phonemic
+4-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1364,савлукъ,CyrillTrans,"well, health",,,sawluq,Phonemic
+4-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1601,осал,CyrillTrans,weak,,,osal,Phonemic
+4-810-519-1,kumy1244,Kumyk (Dorgeli dialect),785,гучлю,CyrillTrans,"strong, mighty, powerful",,,gučlü,Phonemic
+4-790-519-1,kumy1244,Kumyk (Dorgeli dialect),1773,къабур,CyrillTrans,"grave, tomb",,,qabur,Phonemic
+4-780-519-1,kumy1244,Kumyk (Dorgeli dialect),1719,гоммек,CyrillTrans,bury (the dead),,,gommеk,Phonemic
+4-770-519-1,kumy1244,Kumyk (Dorgeli dialect),767,оьлген суек,CyrillTrans,corpse,,,"öljgеn suеk, öljgеn adam",Phonemic
+4-770-519-3,kumy1244,Kumyk (Dorgeli dialect),767,оьлген адам,CyrillTrans,corpse,,,"öljgеn suеk, öljgеn adam",Phonemic
+4-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1417,оьлтюрмакъ,CyrillTrans,kill,,,"öltürmaq, oljturmaq",Phonemic
+4-760-519-3,kumy1244,Kumyk (Dorgeli dialect),1417,ольтурмакъ,CyrillTrans,kill,,,"öltürmaq, oljturmaq",Phonemic
+4-751-519-1,kumy1244,Kumyk (Dorgeli dialect),1904,сувгъа батгъан,CyrillTrans,drowned,,,suwɣa batɣan,Phonemic
+4-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1494,оьлмек,CyrillTrans,"die, dead",,,ölmеk,Phonemic
+4-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1422,яшамакъ,CyrillTrans,"live, living, life",,,"yašamaq, yašaw",Phonemic
+4-740-519-3,kumy1244,Kumyk (Dorgeli dialect),1422,яшав,CyrillTrans,"live, living, life",,,"yašamaq, yašaw",Phonemic
+4-732-519-1,kumy1244,Kumyk (Dorgeli dialect),1087,айли болмакъ,CyrillTrans,conceive,,,ayli bolmaq,Phonemic
+4-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1123,айли,CyrillTrans,pregnant,,,ayli,Phonemic
+4-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1090,тувмакъ,CyrillTrans,born (to be),,,tuwmaq,Phonemic
+4-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1152,этмек,CyrillTrans,beget (of father),,,etmеk,Phonemic
+4-690-519-1,kumy1244,Kumyk (Dorgeli dialect),138,киринмакъ,CyrillTrans,bathe,,,kirinmaq,Phonemic
+4-680-519-1,kumy1244,Kumyk (Dorgeli dialect),52,къартылламакъ,CyrillTrans,shiver,,,qartɨllamaq,Phonemic
+4-670-519-1,kumy1244,Kumyk (Dorgeli dialect),1785,сигишмакъ,CyrillTrans,have sexual intercourse,,,sigišmaq,Phonemic
+4-660-519-1,kumy1244,Kumyk (Dorgeli dialect),676,эшигин этмакъ,CyrillTrans,defecate,,,ešigin etmaq,Phonemic
+4-650-519-1,kumy1244,Kumyk (Dorgeli dialect),592,сиймек,CyrillTrans,urinate,,,siymеk,Phonemic
+4-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1159,осурмакъ,CyrillTrans,break wind,,,osurmaq,Phonemic
+4-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1602,уянмакъ,CyrillTrans,wake up,,,"uyanmaq, yuxudan turmaq",Phonemic
+4-630-519-3,kumy1244,Kumyk (Dorgeli dialect),1602,юхудан турмакъ,CyrillTrans,wake up,,,"uyanmaq, yuxudan turmaq",Phonemic
+4-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1920,туш гормек,CyrillTrans,dream,,,tuš gormеk,Phonemic
+4-612-519-1,kumy1244,Kumyk (Dorgeli dialect),1983,хорулламакъ,CyrillTrans,snore,,,xorullamaq,Phonemic
+4-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1585,юхламакъ,CyrillTrans,sleep,,,yuxlamaq,Phonemic
+4-591-519-1,kumy1244,Kumyk (Dorgeli dialect),268,силегей акъмакъ,CyrillTrans,dribble,,,silegey aqmaq,Phonemic
+4-590-519-1,kumy1244,Kumyk (Dorgeli dialect),319,яламакъ,CyrillTrans,lick,,,yalamaq,Phonemic
+4-580-519-1,kumy1244,Kumyk (Dorgeli dialect),1403,хапмакъ,CyrillTrans,bite,,,xapmaq,Phonemic
+4-570-519-1,kumy1244,Kumyk (Dorgeli dialect),1278,къусмакъ,CyrillTrans,vomit,,,qusmaq,Phonemic
+4-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1440,тюкюрмек,CyrillTrans,spit,,,"tükürmek, tukurmaq",Phonemic
+4-560-519-3,kumy1244,Kumyk (Dorgeli dialect),1440,тукурмакъ,CyrillTrans,spit,,,"tükürmek, tukurmaq",Phonemic
+4-550-519-1,kumy1244,Kumyk (Dorgeli dialect),126,терлямакъ,CyrillTrans,perspire,,,tеrlyamaq,Phonemic
+4-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1621,чушкурмек,CyrillTrans,sneeze,,,čuškurmеk,Phonemic
+4-530-519-1,kumy1244,Kumyk (Dorgeli dialect),879,ках этмакъ,CyrillTrans,cough,,,kax etmaq,Phonemic
+4-521-519-1,kumy1244,Kumyk (Dorgeli dialect),162,кекирмек,CyrillTrans,hiccough,,,"kеkirmеk, kеkirmaq",Phonemic
+4-521-519-3,kumy1244,Kumyk (Dorgeli dialect),162,кекирмакъ,CyrillTrans,hiccough,,,"kеkirmеk, kеkirmaq",Phonemic
+4-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1028,эснемек,CyrillTrans,"yawn, gape",,,"esnеmеk, esnamaq",Phonemic
+4-520-519-3,kumy1244,Kumyk (Dorgeli dialect),1028,эснамакъ,CyrillTrans,"yawn, gape",,,"esnеmеk, esnamaq",Phonemic
+4-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1407,тыныш алмакъ,CyrillTrans,"breathe, breath",,,tɨnɨš almaq,Phonemic
+4-492-519-1,kumy1244,Kumyk (Dorgeli dialect),1222,эргишини уят ери,CyrillTrans,penis,,,ergišini uyat yеri,Phonemic
+4-490-519-1,kumy1244,Kumyk (Dorgeli dialect),797,къозулукъ,CyrillTrans,testicle,,,qozuluq,Phonemic
+4-470-519-1,kumy1244,Kumyk (Dorgeli dialect),804,аналыкъ йери,CyrillTrans,womb,,,analɨq yеri,Phonemic
+4-464-519-1,kumy1244,Kumyk (Dorgeli dialect),834,саммар,CyrillTrans,buttocks,,,sammar,Phonemic
+4-463-519-1,kumy1244,Kumyk (Dorgeli dialect),1745,йымишакъ этлер,CyrillTrans,hip,,,yɨmišaq etlеr,Phonemic
+4-462-519-1,kumy1244,Kumyk (Dorgeli dialect),1681,бели,CyrillTrans,waist,,,beli,Phonemic
+4-461-519-1,kumy1244,Kumyk (Dorgeli dialect),1991,ичек,CyrillTrans,"intestines, guts",,,"iček, ičekleri",Phonemic
+4-461-519-3,kumy1244,Kumyk (Dorgeli dialect),1991,ичеклери,CyrillTrans,"intestines, guts",,,"iček, ičekleri",Phonemic
+4-460-519-1,kumy1244,Kumyk (Dorgeli dialect),819,ашкъазан,CyrillTrans,stomach,,,ašqazan,Phonemic
+4-452-519-1,kumy1244,Kumyk (Dorgeli dialect),1744,талакъ,CyrillTrans,spleen,,,"talaq, talaɣɨ",Phonemic
+4-452-519-3,kumy1244,Kumyk (Dorgeli dialect),1744,талагъы,CyrillTrans,spleen,,,"talaq, talaɣɨ",Phonemic
+4-451-519-1,kumy1244,Kumyk (Dorgeli dialect),489,гьурцец,CyrillTrans,kidney,,,hurcec,Phonemic
+4-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1224,бавур,CyrillTrans,liver,,,"bawur, bawuru",Phonemic
+4-450-519-3,kumy1244,Kumyk (Dorgeli dialect),1224,бавуру,CyrillTrans,liver,,,"bawur, bawuru",Phonemic
+4-441-519-1,kumy1244,Kumyk (Dorgeli dialect),688,оьпке,CyrillTrans,lung,,,öpke,Phonemic
+4-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1223,юрек,CyrillTrans,heart,,,yurek,Phonemic
+4-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1838,гинник,CyrillTrans,navel,,,ginnik,Phonemic
+4-420-519-1,kumy1244,Kumyk (Dorgeli dialect),154,елин,CyrillTrans,udder,,,yelin,Phonemic
+4-412-519-1,kumy1244,Kumyk (Dorgeli dialect),796,кокурекны баши,CyrillTrans,"nipple, teat",,,kokureknɨ baši,Phonemic
+4-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1402,кокурек,CyrillTrans,breast (of woman),,,"kokurek, tošü qatɨn gišini",Phonemic
+4-410-519-3,kumy1244,Kumyk (Dorgeli dialect),1402,тошю къатын гишини,CyrillTrans,breast (of woman),,,"kokurek, tošü qatɨn gišini",Phonemic
+4-400-519-1,kumy1244,Kumyk (Dorgeli dialect),1592,тёш,CyrillTrans,chest,,,"töš, toš",Phonemic
+4-400-519-3,kumy1244,Kumyk (Dorgeli dialect),1592,тош,CyrillTrans,chest,,,"töš, toš",Phonemic
+4-393-519-1,kumy1244,Kumyk (Dorgeli dialect),1201,къанатны тугу,CyrillTrans,feather,,,qanatnɨ tugu,Phonemic
+4-392-519-1,kumy1244,Kumyk (Dorgeli dialect),1257,къанат,CyrillTrans,wing,,,qanat,Phonemic
+4-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1389,аякъны бармагъы (бармакъ),CyrillTrans,toe,,,ayaqnɨ barmaɣɨ (barmaq),Phonemic
+4-374-519-1,kumy1244,Kumyk (Dorgeli dialect),318,аякъ гъиз,CyrillTrans,footprint,,,ayaq ɣiz,Phonemic
+4-372-519-1,kumy1244,Kumyk (Dorgeli dialect),980,таман аякъ,CyrillTrans,heel,,,"taman ayaq, ayaqnɨ tubu",Phonemic
+4-372-519-3,kumy1244,Kumyk (Dorgeli dialect),980,аякъны тубу,CyrillTrans,heel,,,"taman ayaq, ayaqnɨ tubu",Phonemic
+4-371-519-1,kumy1244,Kumyk (Dorgeli dialect),803,багъынчакъ,CyrillTrans,ankle,,,baɣɨnčaq,Phonemic
+4-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1301,аякъны тубу,CyrillTrans,foot,,,ayaqnɨ tubu,Phonemic
+4-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1371,тобукъ,CyrillTrans,knee,,,"tobuq, tobuɣu",Phonemic
+4-360-519-3,kumy1244,Kumyk (Dorgeli dialect),1371,тобугъу,CyrillTrans,knee,,,"tobuq, tobuɣu",Phonemic
+4-352-519-1,kumy1244,Kumyk (Dorgeli dialect),498,тобукъдан тебе эти,CyrillTrans,calf of leg,,,tobuqdan tebe eti,Phonemic
+4-351-519-1,kumy1244,Kumyk (Dorgeli dialect),800,ямбаш,CyrillTrans,thigh,,,yambaš,Phonemic
+4-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1297,аякъ,CyrillTrans,leg,,,"ayaq, but",Phonemic
+4-350-519-3,kumy1244,Kumyk (Dorgeli dialect),1297,бут,CyrillTrans,leg,,,"ayaq, but",Phonemic
+4-345-519-1,kumy1244,Kumyk (Dorgeli dialect),72,жанланы тырнакъ,CyrillTrans,claw,,,ǯanlanɨ tɨrnaq,Phonemic
+4-344-519-1,kumy1244,Kumyk (Dorgeli dialect),1258,тырнакъ,CyrillTrans,fingernail,,,tɨrnaq,Phonemic
+4-342-519-1,kumy1244,Kumyk (Dorgeli dialect),1781,баш бармакъ,CyrillTrans,thumb,,,baš barmaq,Phonemic
+4-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1303,бармакъ,CyrillTrans,finger,,,barmaq,Phonemic
+4-331-519-1,kumy1244,Kumyk (Dorgeli dialect),1183,ая,CyrillTrans,palm of hand,,,"aya, ayasɨ",Phonemic
+4-331-519-3,kumy1244,Kumyk (Dorgeli dialect),1183,аясы,CyrillTrans,palm of hand,,,"aya, ayasɨ",Phonemic
+4-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1277,къол,CyrillTrans,hand,,,qol,Phonemic
+4-321-519-1,kumy1244,Kumyk (Dorgeli dialect),799,билек тубу,CyrillTrans,wrist,,,bilek tubu,Phonemic
+4-320-519-1,kumy1244,Kumyk (Dorgeli dialect),981,терсек,CyrillTrans,elbow,,,tersek,Phonemic
+4-312-519-1,kumy1244,Kumyk (Dorgeli dialect),1886,къолтукътуп,CyrillTrans,armpit,,,qoltuqtup,Phonemic
+4-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1673,къол,CyrillTrans,arm,,,qol,Phonemic
+4-302-519-1,kumy1244,Kumyk (Dorgeli dialect),1994,омурав,CyrillTrans,collarbone,,,omuraw,Phonemic
+4-301-519-1,kumy1244,Kumyk (Dorgeli dialect),172,яврун къалакъ,CyrillTrans,shoulderblade,,,yawrun qalaq,Phonemic
+4-300-519-1,kumy1244,Kumyk (Dorgeli dialect),1482,инбаш,CyrillTrans,shoulder,,,"inbaš, inbaš süyеk",Phonemic
+4-300-519-3,kumy1244,Kumyk (Dorgeli dialect),1482,инбаш сюек,CyrillTrans,shoulder,,,"inbaš, inbaš süyеk",Phonemic
+4-290-519-1,kumy1244,Kumyk (Dorgeli dialect),1346,тамакъ,CyrillTrans,throat,,,tamaq,Phonemic
+4-281-519-1,kumy1244,Kumyk (Dorgeli dialect),1347,елке,CyrillTrans,nape of neck,,,yelke,Phonemic
+4-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1333,бойну,CyrillTrans,neck,,,boynu,Phonemic
+4-272-519-1,kumy1244,Kumyk (Dorgeli dialect),1049,яякътиш,CyrillTrans,molartooth,,,yayaqtiš,Phonemic
+4-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1380,тиш,CyrillTrans,tooth,,,tiš,Phonemic
+4-271-519-1,kumy1244,Kumyk (Dorgeli dialect),139,тишетлер,CyrillTrans,gums,,,tišetler,Phonemic
+4-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1205,тил,CyrillTrans,tongue,,,til,Phonemic
+4-250-519-1,kumy1244,Kumyk (Dorgeli dialect),478,эрни,CyrillTrans,lip,,,erni,Phonemic
+4-241-519-1,kumy1244,Kumyk (Dorgeli dialect),73,къушбурун,CyrillTrans,beak,,,qušburun,Phonemic
+4-240-519-1,kumy1244,Kumyk (Dorgeli dialect),674,авзу,CyrillTrans,mouth,,,awzu,Phonemic
+4-232-519-1,kumy1244,Kumyk (Dorgeli dialect),208,бурну покъ,CyrillTrans,mucus (nasal),,,"burnu poq, silegey",Phonemic
+4-232-519-3,kumy1244,Kumyk (Dorgeli dialect),208,силегей,CyrillTrans,mucus (nasal),,,"burnu poq, silegey",Phonemic
+4-231-519-1,kumy1244,Kumyk (Dorgeli dialect),1178,танав тешик,CyrillTrans,nostril,,,tanaw tešik,Phonemic
+4-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1221,танав,CyrillTrans,nose,,,tanaw,Phonemic
+4-222-519-1,kumy1244,Kumyk (Dorgeli dialect),32,къулакъны кюкюрт,CyrillTrans,earwax,,,qulaqnɨ kükürt,Phonemic
+4-221-519-1,kumy1244,Kumyk (Dorgeli dialect),18,къулакъны тюбю,CyrillTrans,earlobe,,,qulaqnɨ tübü,Phonemic
+4-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1247,къулакъ,CyrillTrans,ear,,,qulaq,Phonemic
+4-215-519-1,kumy1244,Kumyk (Dorgeli dialect),1655,гозюн къысмакъ,CyrillTrans,blink,,,gozün qɨsmaq,Phonemic
+4-214-519-1,kumy1244,Kumyk (Dorgeli dialect),1540,кирпик,CyrillTrans,eyelash,,,kirpik,Phonemic
+4-213-519-1,kumy1244,Kumyk (Dorgeli dialect),17,гозню къапкъачи,CyrillTrans,eyelid,,,goznü qapqači,Phonemic
+4-212-519-1,kumy1244,Kumyk (Dorgeli dialect),1173,къаш,CyrillTrans,eyebrow,,,qaš,Phonemic
+4-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1248,гёз,CyrillTrans,eye,,,"göz, goz",Phonemic
+4-210-519-3,kumy1244,Kumyk (Dorgeli dialect),1248,гоз,CyrillTrans,eye,,,"göz, goz",Phonemic
+4-208-519-1,kumy1244,Kumyk (Dorgeli dialect),1730,яякъ,CyrillTrans,cheek,,,yayaq,Phonemic
+4-209-519-1,kumy1244,Kumyk (Dorgeli dialect),1510,сакъал,CyrillTrans,chin,,,saqal,Phonemic
+4-205-519-1,kumy1244,Kumyk (Dorgeli dialect),123,мангалай,CyrillTrans,forehead,,,maŋalay,Phonemic
+4-207-519-1,kumy1244,Kumyk (Dorgeli dialect),798,яякъбаш,CyrillTrans,jaw,,,"yayaqbaš, saqal",Phonemic
+4-207-519-3,kumy1244,Kumyk (Dorgeli dialect),798,сакъал,CyrillTrans,jaw,,,"yayaqbaš, saqal",Phonemic
+4-204-519-1,kumy1244,Kumyk (Dorgeli dialect),1560,бет,CyrillTrans,face,,,bеt,Phonemic
+4-203-519-1,kumy1244,Kumyk (Dorgeli dialect),1583,магьа,CyrillTrans,brain,,,"maha, may",Phonemic
+4-203-519-3,kumy1244,Kumyk (Dorgeli dialect),1583,май,CyrillTrans,brain,,,"maha, may",Phonemic
+4-201-519-1,kumy1244,Kumyk (Dorgeli dialect),1604,чеке,CyrillTrans,"side of head, temple",,,"čeke, qama",Phonemic
+4-201-519-3,kumy1244,Kumyk (Dorgeli dialect),1604,къама,CyrillTrans,"side of head, temple",,,"čeke, qama",Phonemic
+4-202-519-1,kumy1244,Kumyk (Dorgeli dialect),1605,такъа,CyrillTrans,skull,,,"taqa, bašni süyegi",Phonemic
+4-202-519-3,kumy1244,Kumyk (Dorgeli dialect),1605,башни сюеги,CyrillTrans,skull,,,"taqa, bašni süyegi",Phonemic
+4-200-519-1,kumy1244,Kumyk (Dorgeli dialect),1256,баш,CyrillTrans,head,,,baš,Phonemic
+4-191-519-1,kumy1244,Kumyk (Dorgeli dialect),805,аркъа сюек,CyrillTrans,spine,,,"arqa süyеk, suyek",Phonemic
+4-191-519-3,kumy1244,Kumyk (Dorgeli dialect),805,суек,CyrillTrans,spine,,,"arqa süyеk, suyek",Phonemic
+4-190-519-1,kumy1244,Kumyk (Dorgeli dialect),1291,аркъа,CyrillTrans,back,,,arqa,Phonemic
+4-180-519-1,kumy1244,Kumyk (Dorgeli dialect),1220,къуйрукъ,CyrillTrans,tail,,,quyruq,Phonemic
+4-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1393,мююз,CyrillTrans,horn,,,"müyuz, muyuz",Phonemic
+4-170-519-3,kumy1244,Kumyk (Dorgeli dialect),1393,муюз,CyrillTrans,horn,,,"müyuz, muyuz",Phonemic
+4-162-519-1,kumy1244,Kumyk (Dorgeli dialect),801,бургъун,CyrillTrans,rib,,,burɣun,Phonemic
+4-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1394,сюек,CyrillTrans,bone,,,"süyek, suyek",Phonemic
+4-160-519-3,kumy1244,Kumyk (Dorgeli dialect),1394,суек,CyrillTrans,bone,,,"süyek, suyek",Phonemic
+4-151-519-1,kumy1244,Kumyk (Dorgeli dialect),525,тамур,CyrillTrans,"vein, artery",,,tamur,Phonemic
+4-150-519-1,kumy1244,Kumyk (Dorgeli dialect),946,къан,CyrillTrans,blood,,,qan,Phonemic
+4-146-519-1,kumy1244,Kumyk (Dorgeli dialect),576,тозакъ,CyrillTrans,dandruff,,,tozaq,Phonemic
+4-145-519-1,kumy1244,Kumyk (Dorgeli dialect),36,туклер,CyrillTrans,pubic hair,,,"tukler, tuklar",Phonemic
+4-145-519-3,kumy1244,Kumyk (Dorgeli dialect),36,туклар,CyrillTrans,pubic hair,,,"tukler, tuklar",Phonemic
+4-144-519-1,kumy1244,Kumyk (Dorgeli dialect),189,туклер,CyrillTrans,body hair,,,"tukler, tuklar",Phonemic
+4-144-519-3,kumy1244,Kumyk (Dorgeli dialect),189,туклар,CyrillTrans,body hair,,,"tukler, tuklar",Phonemic
+4-142-519-1,kumy1244,Kumyk (Dorgeli dialect),678,сакъал,CyrillTrans,beard,,,saqal,Phonemic
+4-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1040,туклер,CyrillTrans,hair (head),,,"tukler, tuklar",Phonemic
+4-140-519-3,kumy1244,Kumyk (Dorgeli dialect),1040,туклар,CyrillTrans,hair (head),,,"tukler, tuklar",Phonemic
+4-130-519-1,kumy1244,Kumyk (Dorgeli dialect),2259,эт,CyrillTrans,flesh,,,et,Phonemic
+4-120-519-1,kumy1244,Kumyk (Dorgeli dialect),763,гон,CyrillTrans,"skin, hide",,,gon,Phonemic
+4-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1480,къаркъара,CyrillTrans,body,,,"qarqara, čarx",Phonemic
+4-110-519-3,kumy1244,Kumyk (Dorgeli dialect),1480,чарх,CyrillTrans,body,,,"qarqara, čarx",Phonemic
+3-980-519-1,kumy1244,Kumyk (Dorgeli dialect),112,къапкъачлы бакъа,CyrillTrans,turtle,,,qapqačlɨ baqa,Phonemic
+3-970-519-1,kumy1244,Kumyk (Dorgeli dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-519-1,kumy1244,Kumyk (Dorgeli dialect),632,гьалкъа,CyrillTrans,lizard,,,halqa,Phonemic
+3-950-519-1,kumy1244,Kumyk (Dorgeli dialect),503,бакъа,CyrillTrans,frog,,,baqa,Phonemic
+3-940-519-1,kumy1244,Kumyk (Dorgeli dialect),1543,хуртуя,CyrillTrans,snail,,,xurtuya,Phonemic
+3-930-519-1,kumy1244,Kumyk (Dorgeli dialect),607,церт,CyrillTrans,grasshopper,,,cert,Phonemic
+3-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1791,гёбелек,CyrillTrans,butterfly,,,"göbelek, gobelek",Phonemic
+3-920-519-3,kumy1244,Kumyk (Dorgeli dialect),1791,гобелек,CyrillTrans,butterfly,,,"göbelek, gobelek",Phonemic
+3-850-519-1,kumy1244,Kumyk (Dorgeli dialect),730,йылан,CyrillTrans,snake,,,"yɨlan, yɨlyan",Phonemic
+3-850-519-3,kumy1244,Kumyk (Dorgeli dialect),730,йылян,CyrillTrans,snake,,,"yɨlan, yɨlyan",Phonemic
+3-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1219,хурт,CyrillTrans,worm,,,xurt,Phonemic
+3-832-519-1,kumy1244,Kumyk (Dorgeli dialect),1509,сюйре джибин (жибин),CyrillTrans,mosquito,,,süyre ǯibin (ǯibin),Phonemic
+3-831-519-1,kumy1244,Kumyk (Dorgeli dialect),95,сюйре джибин (жибин),CyrillTrans,"sandfly (midge), gnat",,,süyre ǯibin (ǯibin),Phonemic
+3-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1504,джибин,CyrillTrans,fly,,,"ǯibin, ǯibin",Phonemic
+3-830-519-3,kumy1244,Kumyk (Dorgeli dialect),1504,жибин,CyrillTrans,fly,,,"ǯibin, ǯibin",Phonemic
+3-823-519-1,kumy1244,Kumyk (Dorgeli dialect),1517,тельжибин,CyrillTrans,wasp,,,teljǯibin,Phonemic
+3-822-519-1,kumy1244,Kumyk (Dorgeli dialect),88,балжибин уя,CyrillTrans,beehive,,,balǯibin uya,Phonemic
+3-821-519-1,kumy1244,Kumyk (Dorgeli dialect),1931,хырс,CyrillTrans,beeswax,,,xɨrs,Phonemic
+3-820-519-1,kumy1244,Kumyk (Dorgeli dialect),665,бал жибин,CyrillTrans,bee,,,"bal ǯibin, bal ǯibin",Phonemic
+3-820-519-3,kumy1244,Kumyk (Dorgeli dialect),665,бал джибин,CyrillTrans,bee,,,"bal ǯibin, bal ǯibin",Phonemic
+3-819-519-1,kumy1244,Kumyk (Dorgeli dialect),1065,ав,CyrillTrans,spider web,,,aw,Phonemic
+3-818-519-1,kumy1244,Kumyk (Dorgeli dialect),843,апаракъ,CyrillTrans,spider,,,"aparaq, aqarap",Phonemic
+3-818-519-3,kumy1244,Kumyk (Dorgeli dialect),843,акъарап,CyrillTrans,spider,,,"aparaq, aqarap",Phonemic
+3-817-519-1,kumy1244,Kumyk (Dorgeli dialect),587,хомурсгъа,CyrillTrans,ant,,,xomursɣa,Phonemic
+3-816-519-1,kumy1244,Kumyk (Dorgeli dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-519-1,kumy1244,Kumyk (Dorgeli dialect),1538,алпелек,CyrillTrans,scorpion,,,alpelek,Phonemic
+3-814-519-1,kumy1244,Kumyk (Dorgeli dialect),1974,къыркъаякъ,CyrillTrans,centipede,,,qɨrqayaq,Phonemic
+3-813-519-1,kumy1244,Kumyk (Dorgeli dialect),232,бурча,CyrillTrans,flea,,,burča,Phonemic
+3-812-519-1,kumy1244,Kumyk (Dorgeli dialect),267,сирка,CyrillTrans,nit (louse egg),,,sirka,Phonemic
+3-811-519-1,kumy1244,Kumyk (Dorgeli dialect),1392,бит,CyrillTrans,louse,,,bit,Phonemic
+3-810-519-1,kumy1244,Kumyk (Dorgeli dialect),620,увакъ жан,CyrillTrans,insect,,,uwaq ǯan,Phonemic
+3-780-519-1,kumy1244,Kumyk (Dorgeli dialect),1871,туя,CyrillTrans,camel,,,tuya,Phonemic
+3-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1290,пиль,CyrillTrans,elephant,,,pilj,Phonemic
+3-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1936,къубагийик,CyrillTrans,deer,,,"qubagiyik, maral",Phonemic
+3-750-519-3,kumy1244,Kumyk (Dorgeli dialect),1936,марал,CyrillTrans,deer,,,"qubagiyik, maral",Phonemic
+3-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1312,тюлкю,CyrillTrans,fox,,,"tülkü, tulku",Phonemic
+3-740-519-3,kumy1244,Kumyk (Dorgeli dialect),1312,тулку,CyrillTrans,fox,,,"tülkü, tulku",Phonemic
+3-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1820,аюв,CyrillTrans,bear,,,ayuw,Phonemic
+3-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1386,арслан-къаплан,CyrillTrans,lion,,,arslan-qaplan,Phonemic
+3-710-519-1,kumy1244,Kumyk (Dorgeli dialect),522,бёрю,CyrillTrans,wolf,,,"börü, boru",Phonemic
+3-710-519-3,kumy1244,Kumyk (Dorgeli dialect),522,бору,CyrillTrans,wolf,,,"börü, boru",Phonemic
+3-664-519-1,kumy1244,Kumyk (Dorgeli dialect),1910,денгиз мишик,CyrillTrans,stingray,,,deŋiz mišik,Phonemic
+3-663-519-1,kumy1244,Kumyk (Dorgeli dialect),957,хортма,CyrillTrans,whale,,,"xortma, kit",Phonemic
+3-663-519-3,kumy1244,Kumyk (Dorgeli dialect),957,кит,CyrillTrans,whale,,,"xortma, kit",Phonemic
+3-662-519-1,kumy1244,Kumyk (Dorgeli dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,deljfin,Phonemic
+3-661-519-1,kumy1244,Kumyk (Dorgeli dialect),1110,хортма,CyrillTrans,shark,,,"xortma, akula",Phonemic
+3-661-519-3,kumy1244,Kumyk (Dorgeli dialect),1110,акула,CyrillTrans,shark,,,"xortma, akula",Phonemic
+3-655-519-1,kumy1244,Kumyk (Dorgeli dialect),598,жагъаржакъ,CyrillTrans,shell,,,ǯaɣarǯaq,Phonemic
+3-654-519-1,kumy1244,Kumyk (Dorgeli dialect),1916,балыкъны тыныш алаган ери,CyrillTrans,gill,,,balɨqnɨ tɨnɨš alagan yeri,Phonemic
+3-653-519-1,kumy1244,Kumyk (Dorgeli dialect),266,балыкъакъча,CyrillTrans,fishscale,,,"balɨqaqča, baliqaqča",Phonemic
+3-653-519-3,kumy1244,Kumyk (Dorgeli dialect),266,баликъакъча,CyrillTrans,fishscale,,,"balɨqaqča, baliqaqča",Phonemic
+3-652-519-1,kumy1244,Kumyk (Dorgeli dialect),213,балыкъни къахат,CyrillTrans,fin (dorsal),,,balɨqni qaxat,Phonemic
+3-650-519-1,kumy1244,Kumyk (Dorgeli dialect),227,балыкъ,CyrillTrans,fish,,,"balɨq, baliq",Phonemic
+3-650-519-3,kumy1244,Kumyk (Dorgeli dialect),227,баликъ,CyrillTrans,fish,,,"balɨq, baliq",Phonemic
+3-630-519-1,kumy1244,Kumyk (Dorgeli dialect),2139,чичгъан,CyrillTrans,"mouse, rat",,,"čičɣan, lobay",Phonemic
+3-630-519-3,kumy1244,Kumyk (Dorgeli dialect),2139,лобай,CyrillTrans,"mouse, rat",,,"čičɣan, lobay",Phonemic
+3-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1208,мишик,CyrillTrans,cat,,,mišik,Phonemic
+3-614-519-1,kumy1244,Kumyk (Dorgeli dialect),1136,къоян,CyrillTrans,rabbit,,,qoyan,Phonemic
+3-610-519-1,kumy1244,Kumyk (Dorgeli dialect),2009,ит,CyrillTrans,dog,,,it,Phonemic
+3-594-519-1,kumy1244,Kumyk (Dorgeli dialect),1853,гёгюрчюн,CyrillTrans,dove,,,"gögürčün, gogurčun",Phonemic
+3-594-519-3,kumy1244,Kumyk (Dorgeli dialect),1853,гогурчун,CyrillTrans,dove,,,"gögürčün, gogurčun",Phonemic
+3-596-519-1,kumy1244,Kumyk (Dorgeli dialect),735,кикимав,CyrillTrans,owl,,,kikimaw,Phonemic
+3-593-519-1,kumy1244,Kumyk (Dorgeli dialect),913,къаргъа,CyrillTrans,crow,,,qarɣa,Phonemic
+3-592-519-1,kumy1244,Kumyk (Dorgeli dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-519-1,kumy1244,Kumyk (Dorgeli dialect),1793,учагъан чичгъан,CyrillTrans,bat,,,učaɣan čičɣan,Phonemic
+3-586-519-1,kumy1244,Kumyk (Dorgeli dialect),1185,къыргъиш,CyrillTrans,vulture,,,qɨrɣiš,Phonemic
+3-585-519-1,kumy1244,Kumyk (Dorgeli dialect),307,лачин,CyrillTrans,hawk,,,lačin,Phonemic
+3-584-519-1,kumy1244,Kumyk (Dorgeli dialect),1905,къуш,CyrillTrans,eagle,,,quš,Phonemic
+3-582-519-1,kumy1244,Kumyk (Dorgeli dialect),950,чайка,CyrillTrans,seagull,,,"čayka, deŋiz usеtündе bolaɣan qušlar",Phonemic
+3-582-519-3,kumy1244,Kumyk (Dorgeli dialect),950,денгиз усетюнде болагъан къушлар,CyrillTrans,seagull,,,"čayka, deŋiz usеtündе bolaɣan qušlar",Phonemic
+3-583-519-1,kumy1244,Kumyk (Dorgeli dialect),758,гьажилакълакъ,CyrillTrans,heron,,,haǯilaqlaq,Phonemic
+3-581-519-1,kumy1244,Kumyk (Dorgeli dialect),937,жымчыкъ,CyrillTrans,bird,,,"ǯɨmčɨq, ǯimčiq",Phonemic
+3-581-519-3,kumy1244,Kumyk (Dorgeli dialect),937,жимчикъ,CyrillTrans,bird,,,"ǯɨmčɨq, ǯimčiq",Phonemic
+3-580-519-1,kumy1244,Kumyk (Dorgeli dialect),539,уя,CyrillTrans,nest,,,uya,Phonemic
+3-570-519-1,kumy1244,Kumyk (Dorgeli dialect),1360,бабиш,CyrillTrans,duck,,,babiš,Phonemic
+3-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1187,гъаз,CyrillTrans,goose,,,"ɣaz, qaz",Phonemic
+3-560-519-3,kumy1244,Kumyk (Dorgeli dialect),1187,къаз,CyrillTrans,goose,,,"ɣaz, qaz",Phonemic
+3-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1318,жужек,CyrillTrans,chicken,,,ǯuǯek,Phonemic
+3-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1514,тавукъ,CyrillTrans,hen,,,tawuq,Phonemic
+3-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1511,хораз,CyrillTrans,"cock, rooster",,,xoraz,Phonemic
+3-470-519-1,kumy1244,Kumyk (Dorgeli dialect),890,къачир,CyrillTrans,mule,,,qačir,Phonemic
+3-500-519-1,kumy1244,Kumyk (Dorgeli dialect),265,уьй тавукъ,CyrillTrans,fowl,,,üy tawuq,Phonemic
+3-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1862,эшек,CyrillTrans,"ass, donkey",,,ešek,Phonemic
+3-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-519-1,kumy1244,Kumyk (Dorgeli dialect),938,атны эрпеги,CyrillTrans,mare,,,atnɨ erpegi,Phonemic
+3-420-519-1,kumy1244,Kumyk (Dorgeli dialect),936,айгъыр,CyrillTrans,stallion,,,"ayɣɨr, atnɨ balasɨ",Phonemic
+3-420-519-3,kumy1244,Kumyk (Dorgeli dialect),936,атны баласы,CyrillTrans,stallion,,,"ayɣɨr, atnɨ balasɨ",Phonemic
+3-410-519-1,kumy1244,Kumyk (Dorgeli dialect),615,ат,CyrillTrans,horse (equine),,,at,Phonemic
+3-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1972,эчкини баласы,CyrillTrans,kid,,,ečkini balasɨ,Phonemic
+3-370-519-1,kumy1244,Kumyk (Dorgeli dialect),264,эркек эчки,CyrillTrans,he-goat,,,erkek ečki,Phonemic
+3-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1502,эчки,CyrillTrans,goat,,,ečki,Phonemic
+3-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1337,донгъуз,CyrillTrans,pig,,,donɣuz,Phonemic
+3-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1351,къозлайгъан донгъуз,CyrillTrans,sow (2),,,qozlayɣan donɣuz,Phonemic
+3-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1348,донгъуз,CyrillTrans,boar,,,donɣuz,Phonemic
+3-290-519-1,kumy1244,Kumyk (Dorgeli dialect),820,къозу,CyrillTrans,lamb,,,"qozu, balasɨ malnɨ",Phonemic
+3-290-519-3,kumy1244,Kumyk (Dorgeli dialect),820,баласы малны,CyrillTrans,lamb,,,"qozu, balasɨ malnɨ",Phonemic
+3-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1345,къой,CyrillTrans,ewe,,,qoy,Phonemic
+3-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1344,мал,CyrillTrans,ram,,,mal,Phonemic
+3-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1331,къой,CyrillTrans,sheep,,,"qoy, mal",Phonemic
+3-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1331,мал,CyrillTrans,sheep,,,"qoy, mal",Phonemic
+3-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1989,бузав,CyrillTrans,calf,,,"buzaw, bizaw",Phonemic
+3-240-519-3,kumy1244,Kumyk (Dorgeli dialect),1989,бизав,CyrillTrans,calf,,,"buzaw, bizaw",Phonemic
+3-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1007,сыйир,CyrillTrans,cow,,,sɨyir,Phonemic
+3-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1169,огуз,CyrillTrans,ox,,,oguz,Phonemic
+3-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1008,бугъа,CyrillTrans,bull,,,"buɣa, tana",Phonemic
+3-210-519-3,kumy1244,Kumyk (Dorgeli dialect),1008,тана,CyrillTrans,bull,,,"buɣa, tana",Phonemic
+3-200-519-1,kumy1244,Kumyk (Dorgeli dialect),1153,къара мал,CyrillTrans,cattle (bovine),,,"qara mal, ullu mal",Phonemic
+3-200-519-3,kumy1244,Kumyk (Dorgeli dialect),1153,уллу мал,CyrillTrans,cattle (bovine),,,"qara mal, ullu mal",Phonemic
+3-190-519-1,kumy1244,Kumyk (Dorgeli dialect),851,атлар гиреген ер,CyrillTrans,"stable, stall",,,"atlar giregen yer, aran, gurеn",Phonemic
+3-190-519-3,kumy1244,Kumyk (Dorgeli dialect),851,аран,CyrillTrans,"stable, stall",,,"atlar giregen yer, aran, gurеn",Phonemic
+3-190-519-5,kumy1244,Kumyk (Dorgeli dialect),851,гурен,CyrillTrans,"stable, stall",,,"atlar giregen yer, aran, gurеn",Phonemic
+3-180-519-1,kumy1244,Kumyk (Dorgeli dialect),263,къойчу,CyrillTrans,herdsman,,,qoyču,Phonemic
+3-160-519-1,kumy1244,Kumyk (Dorgeli dialect),649,отлавлукъ авлакъ,CyrillTrans,pasture,,,otlawluq awlaq,Phonemic
+3-150-519-1,kumy1244,Kumyk (Dorgeli dialect),631,уьй гьайван,CyrillTrans,livestock,,,"üy haywan, mal",Phonemic
+3-150-519-3,kumy1244,Kumyk (Dorgeli dialect),631,мал,CyrillTrans,livestock,,,"üy haywan, mal",Phonemic
+3-130-519-1,kumy1244,Kumyk (Dorgeli dialect),2262,тиши,CyrillTrans,female (adj),,,tiši,Phonemic
+3-120-519-1,kumy1244,Kumyk (Dorgeli dialect),2261,эркек,CyrillTrans,male (adj),,,erkek,Phonemic
+3-110-519-1,kumy1244,Kumyk (Dorgeli dialect),619,гьайван,CyrillTrans,animal,,,haywan,Phonemic
+2-960-519-1,kumy1244,Kumyk (Dorgeli dialect),817,олар,CyrillTrans,they,,,olar,Phonemic
+2-950-519-1,kumy1244,Kumyk (Dorgeli dialect),1213,сиз,CyrillTrans,you (plural),,,siz,Phonemic
+2-940-519-1,kumy1244,Kumyk (Dorgeli dialect),1212,биз,CyrillTrans,we,,,biz,Phonemic
+2-930-519-1,kumy1244,Kumyk (Dorgeli dialect),262,ол,CyrillTrans,he/she/it,,,ol,Phonemic
+2-920-519-1,kumy1244,Kumyk (Dorgeli dialect),1215,сен,CyrillTrans,you (singular),,,sen,Phonemic
+2-910-519-1,kumy1244,Kumyk (Dorgeli dialect),1209,мен,CyrillTrans,I,,,men,Phonemic
+2-820-519-1,kumy1244,Kumyk (Dorgeli dialect),194,уьй агьлю,CyrillTrans,family,,,üy ahlü,Phonemic
+2-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1644,къардашляр,CyrillTrans,"relatives, kinsmen",,,qardašlyar,Phonemic
+2-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1981,къатыны оьльген,CyrillTrans,widower,,,qatɨnɨ öljgen,Phonemic
+2-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1756,эри оьльген,CyrillTrans,widow,,,eri öljgen,Phonemic
+2-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1058,огей къызы,CyrillTrans,stepdaughter,,,ogey qɨzɨ,Phonemic
+2-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1059,оьгей уланы,CyrillTrans,stepson,,,ögey ulanɨ,Phonemic
+2-720-519-1,kumy1244,Kumyk (Dorgeli dialect),236,оьгей ана,CyrillTrans,stepmother,,,ögey ana,Phonemic
+2-710-519-1,kumy1244,Kumyk (Dorgeli dialect),237,оьгей ата,CyrillTrans,stepfather,,,ögey ata,Phonemic
+2-641-519-1,kumy1244,Kumyk (Dorgeli dialect),2264,гелин,CyrillTrans,daughter-in-law (of a woman),,,gelin,Phonemic
+2-640-519-1,kumy1244,Kumyk (Dorgeli dialect),2265,гелин,CyrillTrans,daughter-in-law (of a man),,,gelin,Phonemic
+2-631-519-1,kumy1244,Kumyk (Dorgeli dialect),2266,геяв,CyrillTrans,son-in-law (of a woman),,,"geyaw, giyaw",Phonemic
+2-631-519-3,kumy1244,Kumyk (Dorgeli dialect),2266,гияв,CyrillTrans,son-in-law (of a woman),,,"geyaw, giyaw",Phonemic
+2-630-519-1,kumy1244,Kumyk (Dorgeli dialect),2267,геяв,CyrillTrans,son-in-law (of a man),,,"geyaw, giyaw",Phonemic
+2-630-519-3,kumy1244,Kumyk (Dorgeli dialect),2267,гияв,CyrillTrans,son-in-law (of a man),,,"geyaw, giyaw",Phonemic
+2-621-519-1,kumy1244,Kumyk (Dorgeli dialect),2257,къайын ана,CyrillTrans,mother-in-law (of a woman),,,qayɨn ana,Phonemic
+2-620-519-1,kumy1244,Kumyk (Dorgeli dialect),2256,къайын ана,CyrillTrans,mother-in-law (of a man),,,qayɨn ana,Phonemic
+2-611-519-1,kumy1244,Kumyk (Dorgeli dialect),2254,къайын ата,CyrillTrans,father-in-law (of a woman),,,qayɨn ata,Phonemic
+2-610-519-1,kumy1244,Kumyk (Dorgeli dialect),2255,къайын ата,CyrillTrans,father-in-law (of a man),,,qayɨn ata,Phonemic
+2-570-519-1,kumy1244,Kumyk (Dorgeli dialect),490,яшлар,CyrillTrans,descendants,,,"yašlar, yašlyar",Phonemic
+2-570-519-3,kumy1244,Kumyk (Dorgeli dialect),490,яшляр,CyrillTrans,descendants,,,"yašlar, yašlyar",Phonemic
+2-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1669,ата-бабалар,CyrillTrans,ancestors,,,ata-babalar,Phonemic
+2-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1643,уьзукъари,CyrillTrans,cousin,,,üzuqari,Phonemic
+2-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1642,эр къардашини къызы,CyrillTrans,niece,,,"er qardašini qɨzɨ, qɨzardašini qɨzɨ",Phonemic
+2-540-519-3,kumy1244,Kumyk (Dorgeli dialect),1642,къызардашини къызы,CyrillTrans,niece,,,"er qardašini qɨzɨ, qɨzardašini qɨzɨ",Phonemic
+2-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1063,эр къардашини уланы,CyrillTrans,nephew,,,"er qardašini ulanɨ, qɨzardašini ulanɨ",Phonemic
+2-530-519-3,kumy1244,Kumyk (Dorgeli dialect),1063,къызардашини уланы,CyrillTrans,nephew,,,"er qardašini ulanɨ, qɨzardašini ulanɨ",Phonemic
+2-522-519-1,kumy1244,Kumyk (Dorgeli dialect),170,эчуву,CyrillTrans,father's sister,,,ečuwu,Phonemic
+2-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1272,эчичи,CyrillTrans,aunt,,,"ečiči, ečuw",Phonemic
+2-520-519-3,kumy1244,Kumyk (Dorgeli dialect),1272,эчув,CyrillTrans,aunt,,,"ečiči, ečuw",Phonemic
+2-521-519-1,kumy1244,Kumyk (Dorgeli dialect),171,эчуву,CyrillTrans,mother's sister,,,ečuwu,Phonemic
+2-512-519-1,kumy1244,Kumyk (Dorgeli dialect),1985,агъасы,CyrillTrans,father's brother,,,aɣasɨ,Phonemic
+2-511-519-1,kumy1244,Kumyk (Dorgeli dialect),1984,агъасы,CyrillTrans,mother's brother,,,aɣasɨ,Phonemic
+2-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1327,агъасы,CyrillTrans,uncle,,,aɣasɨ,Phonemic
+2-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1618,уланыны уланы,CyrillTrans,grandson,,,"ulanɨnɨ ulanɨ, qɨzɨnɨ ulanɨ",Phonemic
+2-480-519-3,kumy1244,Kumyk (Dorgeli dialect),1618,къызыны уланы,CyrillTrans,grandson,,,"ulanɨnɨ ulanɨ, qɨzɨnɨ ulanɨ",Phonemic
+2-490-519-1,kumy1244,Kumyk (Dorgeli dialect),1619,уланыны къызы,CyrillTrans,granddaughter,,,"ulanɨnɨ qɨzɨ, qɨzɨnɨ qɨzɨ",Phonemic
+2-490-519-3,kumy1244,Kumyk (Dorgeli dialect),1619,къызыны къызы,CyrillTrans,granddaughter,,,"ulanɨnɨ qɨzɨ, qɨzɨnɨ qɨzɨ",Phonemic
+2-471-519-1,kumy1244,Kumyk (Dorgeli dialect),907,къарт къатун,CyrillTrans,old woman,,,qart qatun,Phonemic
+2-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1496,къарт ана,CyrillTrans,grandmother,,,qart ana,Phonemic
+2-461-519-1,kumy1244,Kumyk (Dorgeli dialect),406,къарт,CyrillTrans,old man,,,qart,Phonemic
+2-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1383,уллу ата,CyrillTrans,grandfather,,,ullu ata,Phonemic
+2-458-519-1,kumy1244,Kumyk (Dorgeli dialect),1005,эгизлер,CyrillTrans,twins,,,egizler,Phonemic
+2-456-519-1,kumy1244,Kumyk (Dorgeli dialect),1640,эр къардаш,CyrillTrans,sibling,,,"er qardaš, qɨz qardaš",Phonemic
+2-456-519-3,kumy1244,Kumyk (Dorgeli dialect),1640,къыз къардаш,CyrillTrans,sibling,,,"er qardaš, qɨz qardaš",Phonemic
+2-455-519-1,kumy1244,Kumyk (Dorgeli dialect),1761,гиччи къызардаш,CyrillTrans,younger sister,,,gič̄i qɨzardaš,Phonemic
+2-454-519-1,kumy1244,Kumyk (Dorgeli dialect),1758,уллу къызардаш,CyrillTrans,older sister,,,ullu qɨzardaš,Phonemic
+2-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1263,къызардаш,CyrillTrans,sister,,,qɨzardaš,Phonemic
+2-445-519-1,kumy1244,Kumyk (Dorgeli dialect),1760,гиччи къардаш,CyrillTrans,younger brother,,,"gič̄i qardaš, erqardaš",Phonemic
+2-445-519-3,kumy1244,Kumyk (Dorgeli dialect),1760,эркъардаш,CyrillTrans,younger brother,,,"gič̄i qardaš, erqardaš",Phonemic
+2-444-519-1,kumy1244,Kumyk (Dorgeli dialect),1759,уллу къардаш,CyrillTrans,older brother,,,ullu qardaš,Phonemic
+2-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1262,эр къардаш,CyrillTrans,brother,,,er qardaš,Phonemic
+2-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1801,яшлары,CyrillTrans,offspring (son or daughter),,,"yašlarɨ, yašlyarɨ",Phonemic
+2-430-519-3,kumy1244,Kumyk (Dorgeli dialect),1801,яшляры,CyrillTrans,offspring (son or daughter),,,"yašlarɨ, yašlyarɨ",Phonemic
+2-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1357,къызы,CyrillTrans,daughter,,,qɨzɨ,Phonemic
+2-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1620,уланы,CyrillTrans,son,,,ulanɨ,Phonemic
+2-390-519-1,kumy1244,Kumyk (Dorgeli dialect),426,эрге баргъан,CyrillTrans,married woman,,,erge barɣan,Phonemic
+2-380-519-1,kumy1244,Kumyk (Dorgeli dialect),424,къатун,CyrillTrans,married man,,,"qatun, alɣan",Phonemic
+2-380-519-3,kumy1244,Kumyk (Dorgeli dialect),424,алгъан,CyrillTrans,married man,,,"qatun, alɣan",Phonemic
+2-370-519-1,kumy1244,Kumyk (Dorgeli dialect),505,ата-ана,CyrillTrans,parents,,,ata-ana,Phonemic
+2-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1216,ана,CyrillTrans,mother,,,ana,Phonemic
+2-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1217,ата,CyrillTrans,father,,,ata,Phonemic
+2-341-519-1,kumy1244,Kumyk (Dorgeli dialect),1134,айрылыв,CyrillTrans,divorce,,,"ayrɨlɨw, ayliliw",Phonemic
+2-341-519-3,kumy1244,Kumyk (Dorgeli dialect),1134,айлилив,CyrillTrans,divorce,,,"ayrɨlɨw, ayliliw",Phonemic
+2-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1259,той,CyrillTrans,"marriage, wedding",,,toy,Phonemic
+2-330-519-1,kumy1244,Kumyk (Dorgeli dialect),203,къатун алмакъ,CyrillTrans,marry,,,"qatun almaq, erge barmaq (almaq)",Phonemic
+2-330-519-3,kumy1244,Kumyk (Dorgeli dialect),203,эрге бармакъ (алмакъ),CyrillTrans,marry,,,"qatun almaq, erge barmaq (almaq)",Phonemic
+2-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1199,къатун,CyrillTrans,wife,,,qatun,Phonemic
+2-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1200,эр,CyrillTrans,husband,,,er,Phonemic
+2-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1289,яш,CyrillTrans,"infant, baby",,,"yaš, yanɣɨ tuwɣan yaš",Phonemic
+2-280-519-3,kumy1244,Kumyk (Dorgeli dialect),1289,янгъы тувгъан яш,CyrillTrans,"infant, baby",,,"yaš, yanɣɨ tuwɣan yaš",Phonemic
+2-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1304,гиччи яш,CyrillTrans,child,,,gič̄i yaš,Phonemic
+2-261-519-1,kumy1244,Kumyk (Dorgeli dialect),77,оьрюм къыз,CyrillTrans,young woman (adolescent),,,örüm qɨz,Phonemic
+2-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1646,къыз яш,CyrillTrans,girl,,,qɨz yaš,Phonemic
+2-251-519-1,kumy1244,Kumyk (Dorgeli dialect),76,оьрюм яш,CyrillTrans,young man (adolescent),,,örüm yaš,Phonemic
+2-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1366,улан яш,CyrillTrans,boy,,,ulan yaš,Phonemic
+2-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1551,тиши,CyrillTrans,female,,,tiši,Phonemic
+2-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1553,эркек,CyrillTrans,male,,,erkek,Phonemic
+2-220-519-1,kumy1244,Kumyk (Dorgeli dialect),962,къатунгиши,CyrillTrans,woman,,,qatuŋiši,Phonemic
+2-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1554,эргиши,CyrillTrans,man (vs. woman),,,ergiši,Phonemic
+2-100-519-1,kumy1244,Kumyk (Dorgeli dialect),683,адам,CyrillTrans,"person, human being",,,adam,Phonemic
+1-890-519-1,kumy1244,Kumyk (Dorgeli dialect),1188,кемюр,CyrillTrans,charcoal,,,"kemür, komur",Phonemic
+1-890-519-3,kumy1244,Kumyk (Dorgeli dialect),1188,комур,CyrillTrans,charcoal,,,"kemür, komur",Phonemic
+1-880-519-1,kumy1244,Kumyk (Dorgeli dialect),10,агъачлар,CyrillTrans,firewood,,,aɣačlar,Phonemic
+1-870-519-1,kumy1244,Kumyk (Dorgeli dialect),1133,ишбишке,CyrillTrans,match (noun),,,"išbiške, spiška",Phonemic
+1-870-519-3,kumy1244,Kumyk (Dorgeli dialect),1133,спишка,CyrillTrans,match (noun),,,"išbiške, spiška",Phonemic
+1-861-519-1,kumy1244,Kumyk (Dorgeli dialect),127,сендюрмек,CyrillTrans,extinguish,,,"sendürmek, sondurmaq",Phonemic
+1-861-519-3,kumy1244,Kumyk (Dorgeli dialect),127,сондурмакъ,CyrillTrans,extinguish,,,"sendürmek, sondurmaq",Phonemic
+1-860-519-1,kumy1244,Kumyk (Dorgeli dialect),737,якъмакъ,CyrillTrans,"light, kindle, ignite",,,yaqmaq,Phonemic
+1-852-519-1,kumy1244,Kumyk (Dorgeli dialect),1428,ялламакъ,CyrillTrans,burn (vb intrans),,,"yallamaq, yalamaq",Phonemic
+1-852-519-3,kumy1244,Kumyk (Dorgeli dialect),1428,яламакъ,CyrillTrans,burn (vb intrans),,,"yallamaq, yalamaq",Phonemic
+1-851-519-1,kumy1244,Kumyk (Dorgeli dialect),141,яллатмакъ,CyrillTrans,burn (vb trans),,,yallatmaq,Phonemic
+1-841-519-1,kumy1244,Kumyk (Dorgeli dialect),67,чужум,CyrillTrans,embers,,,čuǯum,Phonemic
+1-840-519-1,kumy1244,Kumyk (Dorgeli dialect),646,кюл,CyrillTrans,ashes,,,"kül, kul",Phonemic
+1-840-519-3,kumy1244,Kumyk (Dorgeli dialect),646,кул,CyrillTrans,ashes,,,"kül, kul",Phonemic
+1-830-519-1,kumy1244,Kumyk (Dorgeli dialect),778,тутун,CyrillTrans,smoke (noun),,,tutun,Phonemic
+1-820-519-1,kumy1244,Kumyk (Dorgeli dialect),889,ялын,CyrillTrans,flame (noun),,,"yalɨn, yalin",Phonemic
+1-820-519-3,kumy1244,Kumyk (Dorgeli dialect),889,ялин,CyrillTrans,flame (noun),,,"yalɨn, yalin",Phonemic
+1-810-519-1,kumy1244,Kumyk (Dorgeli dialect),221,от,CyrillTrans,fire,,,ot,Phonemic
+1-780-519-1,kumy1244,Kumyk (Dorgeli dialect),952,чакъ,CyrillTrans,weather,,,čaq,Phonemic
+1-770-519-1,kumy1244,Kumyk (Dorgeli dialect),617,буз,CyrillTrans,ice,,,buz,Phonemic
+1-760-519-1,kumy1244,Kumyk (Dorgeli dialect),784,къар,CyrillTrans,snow (noun),,,qar,Phonemic
+1-750-519-1,kumy1244,Kumyk (Dorgeli dialect),658,янгур,CyrillTrans,rain (noun),,,yaŋur,Phonemic
+1-740-519-1,kumy1244,Kumyk (Dorgeli dialect),249,алаша булут,CyrillTrans,fog,,,alaša bulut,Phonemic
+1-720-519-1,kumy1244,Kumyk (Dorgeli dialect),960,ель,CyrillTrans,wind,,,yelj,Phonemic
+1-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1489,булут,CyrillTrans,cloud,,,bulut,Phonemic
+1-710-519-1,kumy1244,Kumyk (Dorgeli dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1977,чыкъ,CyrillTrans,dew,,,čɨq,Phonemic
+1-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1388,санкъын,CyrillTrans,"shade, shadow",,,"sanqɨn, sanqɨnliq",Phonemic
+1-630-519-3,kumy1244,Kumyk (Dorgeli dialect),1388,санкъынликъ,CyrillTrans,"shade, shadow",,,"sanqɨn, sanqɨnliq",Phonemic
+1-620-519-1,kumy1244,Kumyk (Dorgeli dialect),11,къарангъыликъ,CyrillTrans,darkness,,,qaranɣɨliq,Phonemic
+1-610-519-1,kumy1244,Kumyk (Dorgeli dialect),630,ярыкъ,CyrillTrans,light (noun),,,yarɨq,Phonemic
+1-590-519-1,kumy1244,Kumyk (Dorgeli dialect),1733,энежмая,CyrillTrans,rainbow,,,eneǯmaya,Phonemic
+1-580-519-1,kumy1244,Kumyk (Dorgeli dialect),858,боран,CyrillTrans,storm,,,boran,Phonemic
+1-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1150,кёк кекурев,CyrillTrans,thunder,,,"kök kekurew, awaz",Phonemic
+1-560-519-3,kumy1244,Kumyk (Dorgeli dialect),1150,аваз,CyrillTrans,thunder,,,"kök kekurew, awaz",Phonemic
+1-570-519-1,kumy1244,Kumyk (Dorgeli dialect),2007,яшным яшнав,CyrillTrans,lightning (as striking),,,yašnɨm yašnaw,Phonemic
+1-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1654,яшмын яшнай,CyrillTrans,lightning,,,yašmɨn yašnay,Phonemic
+1-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1430,юлдуз,CyrillTrans,star,,,yulduz,Phonemic
+1-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1313,ай,CyrillTrans,moon,,,ay,Phonemic
+1-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1343,гюн,CyrillTrans,sun,,,gün,Phonemic
+1-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1732,кёк,CyrillTrans,sky,,,kök,Phonemic
+1-450-519-1,kumy1244,Kumyk (Dorgeli dialect),6,ер тербенив,CyrillTrans,earthquake,,,yer terbeniw,Phonemic
+1-440-519-1,kumy1244,Kumyk (Dorgeli dialect),2125,таш,CyrillTrans,"stone, rock",,,taš,Phonemic
+1-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1803,агъач,CyrillTrans,wood,,,aɣač,Phonemic
+1-420-519-1,kumy1244,Kumyk (Dorgeli dialect),906,терек,CyrillTrans,tree (cf 08.600),,,terek,Phonemic
+1-410-519-1,kumy1244,Kumyk (Dorgeli dialect),420,агъачлыкъ,CyrillTrans,"woods, forest",,,"aɣačlɨq, aɣačliq",Phonemic
+1-410-519-3,kumy1244,Kumyk (Dorgeli dialect),420,агъачликъ,CyrillTrans,"woods, forest",,,"aɣačlɨq, aɣačliq",Phonemic
+1-390-519-1,kumy1244,Kumyk (Dorgeli dialect),943,сув тегюлеген ер,CyrillTrans,waterfall,,,suw tegülegen yer,Phonemic
+1-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1145,батмакъликъ,CyrillTrans,swamp,,,batmaqliq,Phonemic
+1-370-519-1,kumy1244,Kumyk (Dorgeli dialect),2144,булакъ,CyrillTrans,"spring, well",,,bulaq,Phonemic
+1-362-519-1,kumy1244,Kumyk (Dorgeli dialect),1982,айлянма,CyrillTrans,whirlpool,,,aylyanma,Phonemic
+1-360-519-1,kumy1244,Kumyk (Dorgeli dialect),666,оьзен,CyrillTrans,"river, stream, brook",,,özen,Phonemic
+1-350-519-1,kumy1244,Kumyk (Dorgeli dialect),978,толкъун,CyrillTrans,wave,,,tolqun,Phonemic
+1-340-519-1,kumy1244,Kumyk (Dorgeli dialect),663,къолтукъ,CyrillTrans,"gulf, bay",,,qoltuq,Phonemic
+1-330-519-1,kumy1244,Kumyk (Dorgeli dialect),624,кёл,CyrillTrans,lake,,,"köl, kölj",Phonemic
+1-330-519-3,kumy1244,Kumyk (Dorgeli dialect),624,кёль,CyrillTrans,lake,,,"köl, kölj",Phonemic
+1-329-519-1,kumy1244,Kumyk (Dorgeli dialect),645,денгиз,CyrillTrans,ocean,,,"deŋiz, akean",Phonemic
+1-329-519-3,kumy1244,Kumyk (Dorgeli dialect),645,акеан,CyrillTrans,ocean,,,"deŋiz, akean",Phonemic
+1-324-519-1,kumy1244,Kumyk (Dorgeli dialect),1768,гёбюк,CyrillTrans,foam,,,"göbük, gobuk",Phonemic
+1-324-519-3,kumy1244,Kumyk (Dorgeli dialect),1768,гобук,CyrillTrans,foam,,,"göbük, gobuk",Phonemic
+1-323-519-1,kumy1244,Kumyk (Dorgeli dialect),259,гьалек,CyrillTrans,rough (of sea),,,"halek, halak",Phonemic
+1-323-519-3,kumy1244,Kumyk (Dorgeli dialect),259,гьалак,CyrillTrans,rough (of sea),,,"halek, halak",Phonemic
+1-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1474,денгиз,CyrillTrans,sea,,,deŋiz,Phonemic
+1-322-519-1,kumy1244,Kumyk (Dorgeli dialect),258,рагьат,CyrillTrans,calm (of sea),,,"rahat, sabur",Phonemic
+1-322-519-3,kumy1244,Kumyk (Dorgeli dialect),258,сабур,CyrillTrans,calm (of sea),,,"rahat, sabur",Phonemic
+1-310-519-1,kumy1244,Kumyk (Dorgeli dialect),948,сув,CyrillTrans,water,,,suw,Phonemic
+1-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1155,анакъ,CyrillTrans,cave,,,anaq,Phonemic
+1-270-519-1,kumy1244,Kumyk (Dorgeli dialect),113,денгизни ягъасы,CyrillTrans,shore,,,deŋizni yaɣasɨ,Phonemic
+1-260-519-1,kumy1244,Kumyk (Dorgeli dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-519-1,kumy1244,Kumyk (Dorgeli dialect),622,атав,CyrillTrans,island,,,ataw,Phonemic
+1-240-519-1,kumy1244,Kumyk (Dorgeli dialect),921,къол,CyrillTrans,valley,,,qol,Phonemic
+1-230-519-1,kumy1244,Kumyk (Dorgeli dialect),652,авлакъ,CyrillTrans,"plain, field",,,awlaq,Phonemic
+1-222-519-1,kumy1244,Kumyk (Dorgeli dialect),618,яр,CyrillTrans,"cliff, precipice",,,"yar, qaya",Phonemic
+1-222-519-3,kumy1244,Kumyk (Dorgeli dialect),618,къая,CyrillTrans,"cliff, precipice",,,"yar, qaya",Phonemic
+1-220-519-1,kumy1244,Kumyk (Dorgeli dialect),2118,тав,CyrillTrans,"mountain, hill",,,taw,Phonemic
+1-214-519-1,kumy1244,Kumyk (Dorgeli dialect),640,нас,CyrillTrans,mud,,,"nas, xaw",Phonemic
+1-214-519-3,kumy1244,Kumyk (Dorgeli dialect),640,хав,CyrillTrans,mud,,,"nas, xaw",Phonemic
+1-215-519-1,kumy1244,Kumyk (Dorgeli dialect),671,къайир,CyrillTrans,sand,,,qayir,Phonemic
+1-213-519-1,kumy1244,Kumyk (Dorgeli dialect),2,чанг,CyrillTrans,dust,,,čaŋ,Phonemic
+1-212-519-1,kumy1244,Kumyk (Dorgeli dialect),1228,топуракъ,CyrillTrans,"earth=ground, soil",,,topuraq,Phonemic
+1-210-519-1,kumy1244,Kumyk (Dorgeli dialect),626,гьукумат,CyrillTrans,"earth, land",,,"hukumat, pačaliq",Phonemic
+1-210-519-3,kumy1244,Kumyk (Dorgeli dialect),626,пачаликъ,CyrillTrans,"earth, land",,,"hukumat, pačaliq",Phonemic
+1-100-519-1,kumy1244,Kumyk (Dorgeli dialect),965,дунья,CyrillTrans,world,,,dunya,Phonemic
+14-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1544,заманна бир,CyrillTrans,sometimes,,,zamanna bir,Phonemic
+14-331-519-1,kumy1244,Kumyk (Dorgeli dialect),703,ёвукъда,CyrillTrans,soon,,,yowuqda,Phonemic
+14-332-519-1,kumy1244,Kumyk (Dorgeli dialect),418,коп заманлыкъ,CyrillTrans,long-time (for a),,,"kop zamanlɨq, gеčdan",Phonemic
+14-332-519-3,kumy1244,Kumyk (Dorgeli dialect),418,гечдан,CyrillTrans,long-time (for a),,,"kop zamanlɨq, gеčdan",Phonemic
+14-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1656,бирзамандада,CyrillTrans,never,,,birzamandada,Phonemic
+14-350-519-1,kumy1244,Kumyk (Dorgeli dialect),204,янгъыдан,CyrillTrans,again,,,yanɣɨdan,Phonemic
+14-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1225,гуннуз,CyrillTrans,day,,,gunnuz,Phonemic
+14-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1233,геча,CyrillTrans,night,,,gеča,Phonemic
+14-430-519-1,kumy1244,Kumyk (Dorgeli dialect),729,танг,CyrillTrans,dawn,,,"taŋ, taŋ sahat",Phonemic
+14-430-519-3,kumy1244,Kumyk (Dorgeli dialect),729,танг сагьат,CyrillTrans,dawn,,,"taŋ, taŋ sahat",Phonemic
+14-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1339,эртан,CyrillTrans,morning,,,ertan,Phonemic
+14-450-519-1,kumy1244,Kumyk (Dorgeli dialect),12,туш орта,CyrillTrans,"noon, midday",,,tuš orta,Phonemic
+14-451-519-1,kumy1244,Kumyk (Dorgeli dialect),1807,тушдансонг,CyrillTrans,afternoon,,,tušdansoŋ,Phonemic
+14-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1629,ахшам,CyrillTrans,evening,,,"axšam, axšam waqti",Phonemic
+14-460-519-3,kumy1244,Kumyk (Dorgeli dialect),1629,ахшам вакъти,CyrillTrans,evening,,,"axšam, axšam waqti",Phonemic
+14-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1283,бугун,CyrillTrans,today,,,"bugun, bügün",Phonemic
+14-470-519-3,kumy1244,Kumyk (Dorgeli dialect),1283,бюгюн,CyrillTrans,today,,,"bugun, bügün",Phonemic
+14-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1329,тангла,CyrillTrans,tomorrow,,,taŋla,Phonemic
+14-481-519-1,kumy1244,Kumyk (Dorgeli dialect),1179,бирисигун,CyrillTrans,day-after-tomorrow,,,birisigun,Phonemic
+14-490-519-1,kumy1244,Kumyk (Dorgeli dialect),1174,тунегюн,CyrillTrans,yesterday,,,"tunеgün, tünеgun",Phonemic
+14-490-519-3,kumy1244,Kumyk (Dorgeli dialect),1174,тюнегун,CyrillTrans,yesterday,,,"tunеgün, tünеgun",Phonemic
+14-491-519-1,kumy1244,Kumyk (Dorgeli dialect),1180,бириси гун,CyrillTrans,day-before-yesterday,,,birisi gun,Phonemic
+14-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1353,сагьат,CyrillTrans,hour,,,sahat,Phonemic
+14-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1323,сагьат,CyrillTrans,"clock, timepiece",,,sahat,Phonemic
+14-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1469,жума,CyrillTrans,week,,,ǯuma,Phonemic
+14-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1699,къаттыгун,CyrillTrans,Sunday,,,"qat̄ɨgun, bazargun",Phonemic
+14-620-519-3,kumy1244,Kumyk (Dorgeli dialect),1699,базаргун,CyrillTrans,Sunday,,,"qat̄ɨgun, bazargun",Phonemic
+14-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1697,интигун,CyrillTrans,Monday,,,intigun,Phonemic
+14-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1695,талатгун,CyrillTrans,Tuesday,,,talatgun,Phonemic
+14-650-519-1,kumy1244,Kumyk (Dorgeli dialect),1694,арбагун,CyrillTrans,Wednesday,,,arbagun,Phonemic
+14-660-519-1,kumy1244,Kumyk (Dorgeli dialect),1693,хамисгун,CyrillTrans,Thursday,,,xamisgun,Phonemic
+14-670-519-1,kumy1244,Kumyk (Dorgeli dialect),1692,жумагун,CyrillTrans,Friday,,,ǯumagun,Phonemic
+14-680-519-1,kumy1244,Kumyk (Dorgeli dialect),1700,сонгъугун,CyrillTrans,Saturday,,,sonɣugun,Phonemic
+14-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1370,ай,CyrillTrans,month,,,ay,Phonemic
+14-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1226,йил,CyrillTrans,year,,,yil,Phonemic
+14-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1471,къыш,CyrillTrans,winter,,,qɨš,Phonemic
+14-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1537,язбаш,CyrillTrans,spring,,,yazbaš,Phonemic
+14-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1342,яз,CyrillTrans,summer,,,yaz,Phonemic
+14-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1276,гуз,CyrillTrans,autumn,,,guz,Phonemic
+14-780-519-1,kumy1244,Kumyk (Dorgeli dialect),691,йилны вакътиси (заманы),CyrillTrans,season,,,yilnɨ waqtisi (zamanɨ),Phonemic
+15-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1587,ийис гелмакъ,CyrillTrans,smell (vb intrans),,,iyis gеlmaq,Phonemic
+15-212-519-1,kumy1244,Kumyk (Dorgeli dialect),375,пышгъырмакъ,CyrillTrans,sniff,,,pɨšɣɨrmaq,Phonemic
+15-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1586,ийислямакъ,CyrillTrans,smell (vb trans),,,"iyislyamaq, iyislеmеk",Phonemic
+15-220-519-3,kumy1244,Kumyk (Dorgeli dialect),1586,ийислемек,CyrillTrans,smell (vb trans),,,"iyislyamaq, iyislеmеk",Phonemic
+15-250-519-1,kumy1244,Kumyk (Dorgeli dialect),376,арив ийис,CyrillTrans,"fragrant, good smelling",,,ariw iyis,Phonemic
+15-260-519-1,kumy1244,Kumyk (Dorgeli dialect),42,яман ийис,CyrillTrans,"stinking, bad smelling",,,yaman iyis,Phonemic
+15-310-519-1,kumy1244,Kumyk (Dorgeli dialect),21,татув,CyrillTrans,taste,,,"tatuw, tatɨw",Phonemic
+15-310-519-3,kumy1244,Kumyk (Dorgeli dialect),21,татыв,CyrillTrans,taste,,,"tatuw, tatɨw",Phonemic
+15-350-519-1,kumy1244,Kumyk (Dorgeli dialect),717,татли,CyrillTrans,sweet,,,"tatli, tali",Phonemic
+15-350-519-3,kumy1244,Kumyk (Dorgeli dialect),717,таъли,CyrillTrans,sweet,,,"tatli, tali",Phonemic
+15-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1091,тузлу,CyrillTrans,salty,,,tuzlu,Phonemic
+15-370-519-1,kumy1244,Kumyk (Dorgeli dialect),887,аччи,CyrillTrans,bitter,,,ač̄i,Phonemic
+15-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1906,гючлю,CyrillTrans,"acid, sour",,,"güčlü, gučlü",Phonemic
+15-380-519-3,kumy1244,Kumyk (Dorgeli dialect),1906,гучлю,CyrillTrans,"acid, sour",,,"güčlü, gučlü",Phonemic
+15-390-519-1,kumy1244,Kumyk (Dorgeli dialect),70,тузлу йимик,CyrillTrans,brackish,,,"tuzlu yimik, biraz tuzlu",Phonemic
+15-390-519-3,kumy1244,Kumyk (Dorgeli dialect),70,бираз тузлу,CyrillTrans,brackish,,,"tuzlu yimik, biraz tuzlu",Phonemic
+15-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1408,эшитмакъ,CyrillTrans,hear,,,"ešitmaq, ešitmеk",Phonemic
+15-410-519-3,kumy1244,Kumyk (Dorgeli dialect),1408,эшитмек,CyrillTrans,hear,,,"ešitmaq, ešitmеk",Phonemic
+15-420-519-1,kumy1244,Kumyk (Dorgeli dialect),1608,тынгламакъ,CyrillTrans,listen,,,tɨŋlamaq,Phonemic
+15-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1811,аваз,CyrillTrans,"sound, noise",,,"awaz, qawɣa, tawuš",Phonemic
+15-440-519-3,kumy1244,Kumyk (Dorgeli dialect),1811,къавгъа,CyrillTrans,"sound, noise",,,"awaz, qawɣa, tawuš",Phonemic
+15-440-519-5,kumy1244,Kumyk (Dorgeli dialect),1811,тавуш,CyrillTrans,"sound, noise",,,"awaz, qawɣa, tawuš",Phonemic
+15-450-519-1,kumy1244,Kumyk (Dorgeli dialect),377,гучлю аваз,CyrillTrans,loud,,,gučlü awaz,Phonemic
+15-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1314,астаракъ аваз,CyrillTrans,"quiet, silence",,,astaraq awaz,Phonemic
+15-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1409,гермек,CyrillTrans,see,,,"gеrmеk, gormaq",Phonemic
+15-510-519-3,kumy1244,Kumyk (Dorgeli dialect),1409,гормакъ,CyrillTrans,see,,,"gеrmеk, gormaq",Phonemic
+15-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1819,къарамакъ,CyrillTrans,"look, look at",,,qaramaq,Phonemic
+15-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1039,герсетмек,CyrillTrans,show,,,"gеrsеtmеk, gorsеtmaq",Phonemic
+15-550-519-3,kumy1244,Kumyk (Dorgeli dialect),1039,горсетмакъ,CyrillTrans,show,,,"gеrsеtmеk, gorsеtmaq",Phonemic
+15-560-519-1,kumy1244,Kumyk (Dorgeli dialect),708,ярыкъ бермек,CyrillTrans,shine,,,"yarɨq bеrmеk, yarɨqlɨq",Phonemic
+15-560-519-3,kumy1244,Kumyk (Dorgeli dialect),708,ярыкълыкъ,CyrillTrans,shine,,,"yarɨq bеrmеk, yarɨqlɨq",Phonemic
+15-570-519-1,kumy1244,Kumyk (Dorgeli dialect),679,ярыкъ,CyrillTrans,bright,,,yarɨq,Phonemic
+15-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1613,тюс,CyrillTrans,color,,,"tüs, tus",Phonemic
+15-610-519-3,kumy1244,Kumyk (Dorgeli dialect),1613,тус,CyrillTrans,color,,,"tüs, tus",Phonemic
+15-620-519-1,kumy1244,Kumyk (Dorgeli dialect),250,ачыкъ,CyrillTrans,light (in color),,,ačɨq,Phonemic
+15-630-519-1,kumy1244,Kumyk (Dorgeli dialect),706,авур,CyrillTrans,dark (in color),,,"awur, qaraltɣɨn tus, qara tus",Phonemic
+15-630-519-3,kumy1244,Kumyk (Dorgeli dialect),706,къаралтгъын тус,CyrillTrans,dark (in color),,,"awur, qaraltɣɨn tus, qara tus",Phonemic
+15-630-519-5,kumy1244,Kumyk (Dorgeli dialect),706,къара тус,CyrillTrans,dark (in color),,,"awur, qaraltɣɨn tus, qara tus",Phonemic
+15-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1335,акъ,CyrillTrans,white,,,aq,Phonemic
+15-650-519-1,kumy1244,Kumyk (Dorgeli dialect),163,къара,CyrillTrans,black,,,qara,Phonemic
+15-660-519-1,kumy1244,Kumyk (Dorgeli dialect),156,къызил,CyrillTrans,red,,,qɨzil,Phonemic
+15-670-519-1,kumy1244,Kumyk (Dorgeli dialect),837,ачыкъ гок,CyrillTrans,blue,,,ačɨq gok,Phonemic
+15-680-519-1,kumy1244,Kumyk (Dorgeli dialect),1425,яшил,CyrillTrans,green,,,yašil,Phonemic
+15-690-519-1,kumy1244,Kumyk (Dorgeli dialect),1424,сари,CyrillTrans,yellow,,,sari,Phonemic
+15-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1892,тиймек,CyrillTrans,touch,,,"tiymеk, tiymaq",Phonemic
+15-710-519-3,kumy1244,Kumyk (Dorgeli dialect),1892,тиймакъ,CyrillTrans,touch,,,"tiymеk, tiymaq",Phonemic
+15-712-519-1,kumy1244,Kumyk (Dorgeli dialect),378,къысмакъ,CyrillTrans,pinch,,,"qɨsmaq, čimnamaq",Phonemic
+15-712-519-3,kumy1244,Kumyk (Dorgeli dialect),378,чимнамакъ,CyrillTrans,pinch,,,"qɨsmaq, čimnamaq",Phonemic
+15-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1079,гьис этмакъ,CyrillTrans,feel,,,his etmaq,Phonemic
+15-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1884,къатты,CyrillTrans,hard,,,qat̄ɨ,Phonemic
+15-750-519-1,kumy1244,Kumyk (Dorgeli dialect),1856,йимишакъ,CyrillTrans,soft,,,yimišaq,Phonemic
+15-760-519-1,kumy1244,Kumyk (Dorgeli dialect),1923,илиякъсыз,CyrillTrans,rough,,,"iliyaqsɨz, qat-qat",Phonemic
+15-760-519-3,kumy1244,Kumyk (Dorgeli dialect),1923,къат-къат,CyrillTrans,rough,,,"iliyaqsɨz, qat-qat",Phonemic
+15-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1234,тегиш,CyrillTrans,smooth,,,tеgiš,Phonemic
+15-780-519-1,kumy1244,Kumyk (Dorgeli dialect),1396,итти,CyrillTrans,sharp,,,it̄i,Phonemic
+15-790-519-1,kumy1244,Kumyk (Dorgeli dialect),379,къут,CyrillTrans,"blunt, dull",,,qut,Phonemic
+15-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1210,авур,CyrillTrans,heavy,,,awur,Phonemic
+15-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1052,енгил,CyrillTrans,light (in weight),,,yeŋil,Phonemic
+15-830-519-1,kumy1244,Kumyk (Dorgeli dialect),1726,сувлу,CyrillTrans,"wet, damp",,,"suwlu, bawuq",Phonemic
+15-830-519-3,kumy1244,Kumyk (Dorgeli dialect),1726,бавукъ,CyrillTrans,"wet, damp",,,"suwlu, bawuq",Phonemic
+15-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1398,къуру,CyrillTrans,dry,,,quru,Phonemic
+15-850-519-1,kumy1244,Kumyk (Dorgeli dialect),1286,къайнар,CyrillTrans,hot,,,qaynar,Phonemic
+15-851-519-1,kumy1244,Kumyk (Dorgeli dialect),1232,исси,CyrillTrans,warm,,,is̄i,Phonemic
+15-860-519-1,kumy1244,Kumyk (Dorgeli dialect),1287,сувукъ,CyrillTrans,cold,,,suwuq,Phonemic
+15-870-519-1,kumy1244,Kumyk (Dorgeli dialect),704,таза,CyrillTrans,clean,,,taza,Phonemic
+15-880-519-1,kumy1244,Kumyk (Dorgeli dialect),1230,нас,CyrillTrans,"dirty, soiled",,,nas,Phonemic
+15-890-519-1,kumy1244,Kumyk (Dorgeli dialect),380,бурушган,CyrillTrans,wrinkled,,,"burušgan, bürüšɣan",Phonemic
+15-890-519-3,kumy1244,Kumyk (Dorgeli dialect),380,бюрюшгъан,CyrillTrans,wrinkled,,,"burušgan, bürüšɣan",Phonemic
+16-110-519-1,kumy1244,Kumyk (Dorgeli dialect),53,ругь,CyrillTrans,"soul, spirit",,,"ruh, ǯanɨ",Phonemic
+16-110-519-3,kumy1244,Kumyk (Dorgeli dialect),53,жаны,CyrillTrans,"soul, spirit",,,"ruh, ǯanɨ",Phonemic
+16-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1572,тамаша болгъан,CyrillTrans,"surprised, astonished",,,tamaša bolɣan,Phonemic
+16-180-519-1,kumy1244,Kumyk (Dorgeli dialect),720,онг тюшюв,CyrillTrans,"good fortune, luck",,,"oŋ tüšüw, iši yurüw",Phonemic
+16-180-519-3,kumy1244,Kumyk (Dorgeli dialect),720,иши юрюв,CyrillTrans,"good fortune, luck",,,"oŋ tüšüw, iši yurüw",Phonemic
+16-190-519-1,kumy1244,Kumyk (Dorgeli dialect),56,онг тюшмегенлик,CyrillTrans,"misfortune, bad luck",,,"oŋ tüšmegenlik, iši yurümеgеnlik, iši yurumaganlik",Phonemic
+16-190-519-3,kumy1244,Kumyk (Dorgeli dialect),56,иши юрюмегенлик,CyrillTrans,"misfortune, bad luck",,,"oŋ tüšmegenlik, iši yurümеgеnlik, iši yurumaganlik",Phonemic
+16-190-519-5,kumy1244,Kumyk (Dorgeli dialect),56,иши юрумаганлик,CyrillTrans,"misfortune, bad luck",,,"oŋ tüšmegenlik, iši yurümеgеnlik, iši yurumaganlik",Phonemic
+16-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1495,насипли,CyrillTrans,"joyful, glad, happy",,,nasipli,Phonemic
+16-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1355,кулемек,CyrillTrans,laugh,,,"kulеmеk, kulеmaq",Phonemic
+16-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1355,кулемакъ,CyrillTrans,laugh,,,"kulеmеk, kulеmaq",Phonemic
+16-251-519-1,kumy1244,Kumyk (Dorgeli dialect),1451,иржаймакъ,CyrillTrans,smile,,,irǯaymaq,Phonemic
+16-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1413,ойнамакъ,CyrillTrans,play,,,oynamaq,Phonemic
+16-270-519-1,kumy1244,Kumyk (Dorgeli dialect),923,сюймакъ,CyrillTrans,love,,,süymaq,Phonemic
+16-290-519-1,kumy1244,Kumyk (Dorgeli dialect),578,обмакъ,CyrillTrans,kiss,,,"obmaq, upay etmaq",Phonemic
+16-290-519-3,kumy1244,Kumyk (Dorgeli dialect),578,упай этмакъ,CyrillTrans,kiss,,,"obmaq, upay etmaq",Phonemic
+16-300-519-1,kumy1244,Kumyk (Dorgeli dialect),928,къучакъламакъ,CyrillTrans,embrace,,,qučaqlamaq,Phonemic
+16-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1783,аврув,CyrillTrans,pain,,,"awruw, aurtmaq",Phonemic
+16-310-519-3,kumy1244,Kumyk (Dorgeli dialect),1783,ауртмакъ,CyrillTrans,pain,,,"awruw, aurtmaq",Phonemic
+16-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1668,пашманликъ,CyrillTrans,"grief, sorrow, sadness",,,"pašmanliq, qayɣɨ",Phonemic
+16-320-519-3,kumy1244,Kumyk (Dorgeli dialect),1668,къайгъы,CyrillTrans,"grief, sorrow, sadness",,,"pašmanliq, qayɣɨ",Phonemic
+16-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1000,рагьатсызликъ,CyrillTrans,"anxiety, worry",,,rahatsɨzliq,Phonemic
+16-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1875,гьокюнмакъ,CyrillTrans,"regret, be sorry",,,"hokünmaq, hoqunmaq",Phonemic
+16-340-519-3,kumy1244,Kumyk (Dorgeli dialect),1875,гьокъунмакъ,CyrillTrans,"regret, be sorry",,,"hokünmaq, hoqunmaq",Phonemic
+16-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1141,языкъ сынмакъ,CyrillTrans,pity,,,"yazɨq sɨnmaq, yazɨɣɨ čɨqmaq",Phonemic
+16-350-519-3,kumy1244,Kumyk (Dorgeli dialect),1141,языгъы чыкъмакъ,CyrillTrans,pity,,,"yazɨq sɨnmaq, yazɨɣɨ čɨqmaq",Phonemic
+16-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1839,йилямакъ,CyrillTrans,"cry, weep",,,yilyamaq,Phonemic
+16-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1651,гёзяш,CyrillTrans,tear (noun),,,gözyaš,Phonemic
+16-390-519-1,kumy1244,Kumyk (Dorgeli dialect),716,агьурмакъ,CyrillTrans,groan,,,ahurmaq,Phonemic
+16-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1607,горуп ярамайгъанликъ,CyrillTrans,hate,,,gorup yaramayɣanliq,Phonemic
+16-420-519-1,kumy1244,Kumyk (Dorgeli dialect),82,ачув,CyrillTrans,anger,,,ačuw,Phonemic
+16-440-519-1,kumy1244,Kumyk (Dorgeli dialect),40,гюнчюлукъ,CyrillTrans,"envy, jealousy",,,"günčüluq, gunčuluq",Phonemic
+16-440-519-3,kumy1244,Kumyk (Dorgeli dialect),40,гунчулукъ,CyrillTrans,"envy, jealousy",,,"günčüluq, gunčuluq",Phonemic
+16-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1776,уят,CyrillTrans,shame (noun),,,uyat,Phonemic
+16-480-519-1,kumy1244,Kumyk (Dorgeli dialect),174,октем,CyrillTrans,proud,,,oktеm,Phonemic
+16-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1779,къоччакъ,CyrillTrans,dare,,,qoč̄aq,Phonemic
+16-520-519-1,kumy1244,Kumyk (Dorgeli dialect),3,игит,CyrillTrans,brave,,,igit,Phonemic
+16-530-519-1,kumy1244,Kumyk (Dorgeli dialect),781,къоркъув,CyrillTrans,"fear, fright",,,qorquw,Phonemic
+16-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1810,къоркъунчлукъ,CyrillTrans,danger,,,qorqunčluq,Phonemic
+16-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1784,иштагь,CyrillTrans,"desire, want",,,"ištah, süyum, kеp",Phonemic
+16-620-519-3,kumy1244,Kumyk (Dorgeli dialect),1784,сююм,CyrillTrans,"desire, want",,,"ištah, süyum, kеp",Phonemic
+16-620-519-5,kumy1244,Kumyk (Dorgeli dialect),1784,кеп,CyrillTrans,"desire, want",,,"ištah, süyum, kеp",Phonemic
+16-622-519-1,kumy1244,Kumyk (Dorgeli dialect),1750,айрмакъ,CyrillTrans,choose,,,"ayrmaq, saylyamaq",Phonemic
+16-622-519-3,kumy1244,Kumyk (Dorgeli dialect),1750,сайлямакъ,CyrillTrans,choose,,,"ayrmaq, saylyamaq",Phonemic
+16-630-519-1,kumy1244,Kumyk (Dorgeli dialect),1092,инанмакъ,CyrillTrans,hope,,,inanmaq,Phonemic
+16-650-519-1,kumy1244,Kumyk (Dorgeli dialect),100,инамли,CyrillTrans,faithful,,,inamli,Phonemic
+16-660-519-1,kumy1244,Kumyk (Dorgeli dialect),1657,герти,CyrillTrans,true,,,gerti,Phonemic
+16-670-519-1,kumy1244,Kumyk (Dorgeli dialect),601,ялгъан айтмакъ,CyrillTrans,"lie, tell lies",,,yalɣan aytmaq,Phonemic
+16-680-519-1,kumy1244,Kumyk (Dorgeli dialect),13,алдатмакъ,CyrillTrans,deceit,,,aldatmaq,Phonemic
+16-690-519-1,kumy1244,Kumyk (Dorgeli dialect),1528,гечмакъ,CyrillTrans,forgive,,,gеčmaq,Phonemic
+16-710-519-1,kumy1244,Kumyk (Dorgeli dialect),1035,яхши,CyrillTrans,good,,,yaxši,Phonemic
+16-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1292,яман,CyrillTrans,bad,,,yaman,Phonemic
+16-730-519-1,kumy1244,Kumyk (Dorgeli dialect),1725,туз,CyrillTrans,"right, correct",,,tuz,Phonemic
+16-740-519-1,kumy1244,Kumyk (Dorgeli dialect),1390,туз тугул,CyrillTrans,wrong,,,tuz tugul,Phonemic
+16-760-519-1,kumy1244,Kumyk (Dorgeli dialect),134,бузукъ (айып) иш,CyrillTrans,fault,,,buzuq (ayɨp) iš,Phonemic
+16-770-519-1,kumy1244,Kumyk (Dorgeli dialect),1293,хата,CyrillTrans,"mistake, error",,,xata,Phonemic
+16-780-519-1,kumy1244,Kumyk (Dorgeli dialect),381,айыпламакъ,CyrillTrans,blame,,,"ayɨplamaq, ayiplamaq",Phonemic
+16-780-519-3,kumy1244,Kumyk (Dorgeli dialect),381,айипламакъ,CyrillTrans,blame,,,"ayɨplamaq, ayiplamaq",Phonemic
+16-790-519-1,kumy1244,Kumyk (Dorgeli dialect),1687,макътамакъ,CyrillTrans,praise,,,"maqtamaq, mahtamaq, maxtanmaq",Phonemic
+16-790-519-3,kumy1244,Kumyk (Dorgeli dialect),1687,магьтамакъ,CyrillTrans,praise,,,"maqtamaq, mahtamaq, maxtanmaq",Phonemic
+16-790-519-5,kumy1244,Kumyk (Dorgeli dialect),1687,махтанмакъ,CyrillTrans,praise,,,"maqtamaq, mahtamaq, maxtanmaq",Phonemic
+16-810-519-1,kumy1244,Kumyk (Dorgeli dialect),1427,арив,CyrillTrans,beautiful,,,ariw,Phonemic
+16-820-519-1,kumy1244,Kumyk (Dorgeli dialect),1548,эрши,CyrillTrans,ugly,,,erši,Phonemic
+16-830-519-1,kumy1244,Kumyk (Dorgeli dialect),2018,къызкъанч,CyrillTrans,greedy,,,qɨzqanč,Phonemic
+16-840-519-1,kumy1244,Kumyk (Dorgeli dialect),1310,акъиллу,CyrillTrans,clever,,,aqillu,Phonemic
+17-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1562,гьакъил,CyrillTrans,mind,,,haqil,Phonemic
+17-130-519-1,kumy1244,Kumyk (Dorgeli dialect),1415,ойляшмакъ,CyrillTrans,think (= reflect),,,oylyašmaq,Phonemic
+17-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1513,санамакъ,CyrillTrans,think (= be of the opinion),,,sanamaq,Phonemic
+17-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1890,инанмакъ,CyrillTrans,believe,,,inanmaq,Phonemic
+17-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1536,англамакъ,CyrillTrans,understand,,,aŋlamaq,Phonemic
+17-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1410,билмакъ,CyrillTrans,know,,,"bilmaq, bilmеk",Phonemic
+17-170-519-3,kumy1244,Kumyk (Dorgeli dialect),1410,билмек,CyrillTrans,know,,,"bilmaq, bilmеk",Phonemic
+17-171-519-1,kumy1244,Kumyk (Dorgeli dialect),1932,йорамакъ,CyrillTrans,guess,,,"yoramaq, yeramaq",Phonemic
+17-171-519-3,kumy1244,Kumyk (Dorgeli dialect),1932,ерамакъ,CyrillTrans,guess,,,"yoramaq, yeramaq",Phonemic
+17-172-519-1,kumy1244,Kumyk (Dorgeli dialect),117,лап ошатмакъ,CyrillTrans,imitate,,,lap ošatmaq,Phonemic
+17-180-519-1,kumy1244,Kumyk (Dorgeli dialect),1521,болуп горунмакъ,CyrillTrans,seem,,,bolup gorunmaq,Phonemic
+17-190-519-1,kumy1244,Kumyk (Dorgeli dialect),1609,ой,CyrillTrans,"idea, notion",,,"oy, pikru, murad, aŋlaw",Phonemic
+17-190-519-3,kumy1244,Kumyk (Dorgeli dialect),1609,пикру,CyrillTrans,"idea, notion",,,"oy, pikru, murad, aŋlaw",Phonemic
+17-190-519-5,kumy1244,Kumyk (Dorgeli dialect),1609,мурад,CyrillTrans,"idea, notion",,,"oy, pikru, murad, aŋlaw",Phonemic
+17-190-519-7,kumy1244,Kumyk (Dorgeli dialect),1609,англав,CyrillTrans,"idea, notion",,,"oy, pikru, murad, aŋlaw",Phonemic
+17-210-519-1,kumy1244,Kumyk (Dorgeli dialect),698,гьакъкъили,CyrillTrans,wise,,,haqqili,Phonemic
+17-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1518,авлия,CyrillTrans,"foolish, stupid",,,"awliya, haqilsiz",Phonemic
+17-220-519-3,kumy1244,Kumyk (Dorgeli dialect),1518,гьакъилсиз,CyrillTrans,"foolish, stupid",,,"awliya, haqilsiz",Phonemic
+17-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1899,къагъ,CyrillTrans,"insane, crazy",,,qaɣ,Phonemic
+17-240-519-1,kumy1244,Kumyk (Dorgeli dialect),504,охумакъ,CyrillTrans,learn,,,oxumaq,Phonemic
+17-242-519-1,kumy1244,Kumyk (Dorgeli dialect),1929,охумакъ,CyrillTrans,study,,,"oxumaq, biljmaq, üyrеnmaq",Phonemic
+17-242-519-3,kumy1244,Kumyk (Dorgeli dialect),1929,бильмакъ,CyrillTrans,study,,,"oxumaq, biljmaq, üyrеnmaq",Phonemic
+17-242-519-5,kumy1244,Kumyk (Dorgeli dialect),1929,уьйренмакъ,CyrillTrans,study,,,"oxumaq, biljmaq, üyrеnmaq",Phonemic
+17-250-519-1,kumy1244,Kumyk (Dorgeli dialect),709,охутмакъ,CyrillTrans,teach,,,"oxutmaq, üyrеtmaq",Phonemic
+17-250-519-3,kumy1244,Kumyk (Dorgeli dialect),709,уьйретмакъ,CyrillTrans,teach,,,"oxutmaq, üyrеtmaq",Phonemic
+17-260-519-1,kumy1244,Kumyk (Dorgeli dialect),753,охувчу,CyrillTrans,pupil,,,"oxuwču, učеnik",Phonemic
+17-260-519-3,kumy1244,Kumyk (Dorgeli dialect),753,ученик,CyrillTrans,pupil,,,"oxuwču, učеnik",Phonemic
+17-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1038,муалим,CyrillTrans,teacher,,,"mualim, učitil",Phonemic
+17-270-519-3,kumy1244,Kumyk (Dorgeli dialect),1038,учитил,CyrillTrans,teacher,,,"mualim, učitil",Phonemic
+17-280-519-1,kumy1244,Kumyk (Dorgeli dialect),673,школа,CyrillTrans,school,,,škola,Phonemic
+17-310-519-1,kumy1244,Kumyk (Dorgeli dialect),707,эссина алмакъ,CyrillTrans,remember,,,es̄ina almaq,Phonemic
+17-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1523,унутмакъ,CyrillTrans,forget,,,unutmaq,Phonemic
+17-340-519-1,kumy1244,Kumyk (Dorgeli dialect),989,ачикъ,CyrillTrans,"clear, plain",,,ačiq,Phonemic
+17-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1764,англашильмай,CyrillTrans,obscure,,,aŋlašiljmay,Phonemic
+17-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1121,яшыртгъын соз,CyrillTrans,secret,,,yašɨrtɣɨn soz,Phonemic
+17-370-519-1,kumy1244,Kumyk (Dorgeli dialect),509,иманлы къатты,CyrillTrans,"sure, certain",,,"imanlɨ qat̄ɨ, toxtašgan",Phonemic
+17-370-519-3,kumy1244,Kumyk (Dorgeli dialect),509,тохташган,CyrillTrans,"sure, certain",,,"imanlɨ qat̄ɨ, toxtašgan",Phonemic
+17-380-519-1,kumy1244,Kumyk (Dorgeli dialect),1626,англатмакъ,CyrillTrans,explain,,,aŋlatmaq,Phonemic
+17-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1162,хыял,CyrillTrans,"intention, purpose",,,"xɨyal, muradɨ",Phonemic
+17-410-519-3,kumy1244,Kumyk (Dorgeli dialect),1162,мурады,CyrillTrans,"intention, purpose",,,"xɨyal, muradɨ",Phonemic
+17-420-519-1,kumy1244,Kumyk (Dorgeli dialect),860,багьана,CyrillTrans,cause,,,"bahana, sеbеp",Phonemic
+17-420-519-3,kumy1244,Kumyk (Dorgeli dialect),860,себеп,CyrillTrans,cause,,,"bahana, sеbеp",Phonemic
+17-430-519-1,kumy1244,Kumyk (Dorgeli dialect),1308,шеклик,CyrillTrans,doubt,,,šеklik,Phonemic
+17-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1841,йорамакъ,CyrillTrans,suspect,,,"yoramaq, yеramaq",Phonemic
+17-440-519-3,kumy1244,Kumyk (Dorgeli dialect),1841,ерамакъ,CyrillTrans,suspect,,,"yoramaq, yеramaq",Phonemic
+17-441-519-1,kumy1244,Kumyk (Dorgeli dialect),1902,сатмакъ,CyrillTrans,betray,,,satmaq,Phonemic
+17-450-519-1,kumy1244,Kumyk (Dorgeli dialect),643,болмаса ярамай,CyrillTrans,"need, necessity",,,bolmasa yaramay,Phonemic
+17-460-519-1,kumy1244,Kumyk (Dorgeli dialect),686,енгил,CyrillTrans,easy,,,"yеŋil, tinč",Phonemic
+17-460-519-3,kumy1244,Kumyk (Dorgeli dialect),686,тинч,CyrillTrans,easy,,,"yеŋil, tinč",Phonemic
+17-470-519-1,kumy1244,Kumyk (Dorgeli dialect),584,къыйин,CyrillTrans,difficult,,,qɨyin,Phonemic
+17-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1812,къаст этмакъ,CyrillTrans,"try, attempt",,,"qast etmaq, sɨnaw",Phonemic
+17-480-519-3,kumy1244,Kumyk (Dorgeli dialect),1812,сынав,CyrillTrans,"try, attempt",,,"qast etmaq, sɨnaw",Phonemic
+17-490-519-1,kumy1244,Kumyk (Dorgeli dialect),488,кюй,CyrillTrans,"way, manner",,,"küy, qayda",Phonemic
+17-490-519-3,kumy1244,Kumyk (Dorgeli dialect),488,къайда,CyrillTrans,"way, manner",,,"küy, qayda",Phonemic
+17-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1157,шо саялы,CyrillTrans,because,,,šo sayalɨ,Phonemic
+17-530-519-1,kumy1244,Kumyk (Dorgeli dialect),1459,эгерде,CyrillTrans,if,,,egеrdе,Phonemic
+17-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1014,яда,CyrillTrans,or,,,yada,Phonemic
+17-550-519-1,kumy1244,Kumyk (Dorgeli dialect),1268,дур,CyrillTrans,"yes, affirmative",,,dur,Phonemic
+17-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1269,тугюл,CyrillTrans,"no, negative",,,tugül,Phonemic
+17-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1239,нечик,CyrillTrans,how?,,,nеčik,Phonemic
+17-620-519-1,kumy1244,Kumyk (Dorgeli dialect),822,неча,CyrillTrans,how many?,,,nеča,Phonemic
+17-630-519-1,kumy1244,Kumyk (Dorgeli dialect),531,неча,CyrillTrans,how much?,,,nеča,Phonemic
+17-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1236,не,CyrillTrans,what?,,,"nе, nеzat",Phonemic
+17-640-519-3,kumy1244,Kumyk (Dorgeli dialect),1236,незат,CyrillTrans,what?,,,"nе, nеzat",Phonemic
+17-650-519-1,kumy1244,Kumyk (Dorgeli dialect),1238,къачан,CyrillTrans,when?,,,qačan,Phonemic
+17-660-519-1,kumy1244,Kumyk (Dorgeli dialect),1237,къайда,CyrillTrans,where?,,,"qayda, qaydannɨr",Phonemic
+17-660-519-3,kumy1244,Kumyk (Dorgeli dialect),1237,къайданныр,CyrillTrans,where?,,,"qayda, qaydannɨr",Phonemic
+17-670-519-1,kumy1244,Kumyk (Dorgeli dialect),727,нечик,CyrillTrans,which?,,,"nеčik, qaysɨ",Phonemic
+17-670-519-3,kumy1244,Kumyk (Dorgeli dialect),727,къайсы,CyrillTrans,which?,,,"nеčik, qaysɨ",Phonemic
+17-680-519-1,kumy1244,Kumyk (Dorgeli dialect),1235,ким,CyrillTrans,who?,,,kim,Phonemic
+17-690-519-1,kumy1244,Kumyk (Dorgeli dialect),1270,негар,CyrillTrans,why?,,,"nеgar, nеča",Phonemic
+17-690-519-3,kumy1244,Kumyk (Dorgeli dialect),1270,неча,CyrillTrans,why?,,,"nеgar, nеča",Phonemic
+18-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1363,тавуш,CyrillTrans,voice,,,tawuš,Phonemic
+18-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1261,йырлямакъ,CyrillTrans,sing,,,"yɨrlyamaq, sarnamaq",Phonemic
+18-120-519-3,kumy1244,Kumyk (Dorgeli dialect),1261,сарнамакъ,CyrillTrans,sing,,,"yɨrlyamaq, sarnamaq",Phonemic
+18-130-519-1,kumy1244,Kumyk (Dorgeli dialect),715,акъырмакъ,CyrillTrans,"shout, cry out",,,"aqɨrmaq, qɨčirmaq",Phonemic
+18-130-519-3,kumy1244,Kumyk (Dorgeli dialect),715,къычирмакъ,CyrillTrans,"shout, cry out",,,"aqɨrmaq, qɨčirmaq",Phonemic
+18-150-519-1,kumy1244,Kumyk (Dorgeli dialect),55,астаракъ,CyrillTrans,whisper,,,"astaraq, sеylyamaq",Phonemic
+18-150-519-3,kumy1244,Kumyk (Dorgeli dialect),55,сейлямакъ,CyrillTrans,whisper,,,"astaraq, sеylyamaq",Phonemic
+18-160-519-1,kumy1244,Kumyk (Dorgeli dialect),128,гьугьуррамакъ,CyrillTrans,mumble,,,huhurramaq,Phonemic
+18-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1025,сызгъырмакъ,CyrillTrans,whistle,,,sɨzɣɨrmaq,Phonemic
+18-180-519-1,kumy1244,Kumyk (Dorgeli dialect),298,акъырмакъ,CyrillTrans,"shriek, screech",,,aqɨrmaq,Phonemic
+18-190-519-1,kumy1244,Kumyk (Dorgeli dialect),526,улумакъ,CyrillTrans,howl,,,ulumaq,Phonemic
+18-210-519-1,kumy1244,Kumyk (Dorgeli dialect),1623,сейлямакъ,CyrillTrans,"speak, talk",,,sеylyamaq,Phonemic
+18-211-519-1,kumy1244,Kumyk (Dorgeli dialect),1866,тутулуп (мелтек) сёйлемакъ,CyrillTrans,"stutter, stammer",,,tutulup (mеltеk) sёylеmaq,Phonemic
+18-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1458,айтмакъ,CyrillTrans,say,,,aytmaq,Phonemic
+18-221-519-1,kumy1244,Kumyk (Dorgeli dialect),1711,хабарламакъ,CyrillTrans,tell story,,,xabarlamaq,Phonemic
+18-222-519-1,kumy1244,Kumyk (Dorgeli dialect),1115,сoз айтмакъ,CyrillTrans,speech (make a),,,soz aytmaq,Phonemic
+18-230-519-1,kumy1244,Kumyk (Dorgeli dialect),48,сейлемей турмакъ,CyrillTrans,silent (be),,,sеylеmеy turmaq,Phonemic
+18-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1307,тил,CyrillTrans,language,,,til,Phonemic
+18-260-519-1,kumy1244,Kumyk (Dorgeli dialect),1599,соз,CyrillTrans,word,,,soz,Phonemic
+18-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1405,ат,CyrillTrans,name,,,"at, atɨ",Phonemic
+18-280-519-3,kumy1244,Kumyk (Dorgeli dialect),1405,аты,CyrillTrans,name,,,"at, atɨ",Phonemic
+18-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1309,сорамакъ,CyrillTrans,"ask (question, inquire)",,,soramaq,Phonemic
+18-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1275,жавап бермакъ,CyrillTrans,answer,,,"ǯawap bеrmaq, aytmaq",Phonemic
+18-320-519-3,kumy1244,Kumyk (Dorgeli dialect),1275,айтмакъ,CyrillTrans,answer,,,"ǯawap bеrmaq, aytmaq",Phonemic
+18-330-519-1,kumy1244,Kumyk (Dorgeli dialect),2022,мукур болмакъ,CyrillTrans,"admit, confess",,,mukur bolmaq,Phonemic
+18-340-519-1,kumy1244,Kumyk (Dorgeli dialect),755,наъалла турмакъ,CyrillTrans,deny,,,naalla turmaq,Phonemic
+18-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1828,тилямакъ,CyrillTrans,"ask, request",,,tilyamaq,Phonemic
+18-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1675,соз бермакъ,CyrillTrans,promise,,,soz bеrmaq,Phonemic
+18-370-519-1,kumy1244,Kumyk (Dorgeli dialect),49,разисиз къалмакъ,CyrillTrans,refuse,,,razisiz qalmaq,Phonemic
+18-380-519-1,kumy1244,Kumyk (Dorgeli dialect),83,гери урмакъ,CyrillTrans,forbid,,,gеri urmaq,Phonemic
+18-390-519-1,kumy1244,Kumyk (Dorgeli dialect),299,къайнашмакъ,CyrillTrans,"rebuke, scold",,,qaynašmaq,Phonemic
+18-410-519-1,kumy1244,Kumyk (Dorgeli dialect),1084,чакъырмакъ,CyrillTrans,call (=summon),,,čaqɨrmaq,Phonemic
+18-420-519-1,kumy1244,Kumyk (Dorgeli dialect),180,ат такъмакъ,CyrillTrans,call (=name),,,"at taqmaq, aytmaq",Phonemic
+18-420-519-3,kumy1244,Kumyk (Dorgeli dialect),180,айтмакъ,CyrillTrans,call (=name),,,"at taqmaq, aytmaq",Phonemic
+18-430-519-1,kumy1244,Kumyk (Dorgeli dialect),9,билдирмакъ,CyrillTrans,announce,,,bildirmaq,Phonemic
+18-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1192,къоркъув бермек,CyrillTrans,threaten,,,"qorquw bеrmеk, bеrmaq",Phonemic
+18-440-519-3,kumy1244,Kumyk (Dorgeli dialect),1192,бермакъ,CyrillTrans,threaten,,,"qorquw bеrmеk, bеrmaq",Phonemic
+18-450-519-1,kumy1244,Kumyk (Dorgeli dialect),101,макътанмакъ,CyrillTrans,boast,,,maqtanmaq,Phonemic
+18-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1672,язмакъ,CyrillTrans,write,,,yazmaq,Phonemic
+18-520-519-1,kumy1244,Kumyk (Dorgeli dialect),724,охумакъ,CyrillTrans,read,,,oxumaq,Phonemic
+18-560-519-1,kumy1244,Kumyk (Dorgeli dialect),648,кагъыз,CyrillTrans,paper,,,kaɣɨz,Phonemic
+18-570-519-1,kumy1244,Kumyk (Dorgeli dialect),794,ручка,CyrillTrans,pen,,,"ručka, qalam",Phonemic
+18-570-519-3,kumy1244,Kumyk (Dorgeli dialect),794,къалам,CyrillTrans,pen,,,"ručka, qalam",Phonemic
+18-610-519-1,kumy1244,Kumyk (Dorgeli dialect),963,китап,CyrillTrans,book,,,kitap,Phonemic
+18-670-519-1,kumy1244,Kumyk (Dorgeli dialect),1045,шаир,CyrillTrans,poet,,,"šair, yazɨwču",Phonemic
+18-670-519-3,kumy1244,Kumyk (Dorgeli dialect),1045,язывчу,CyrillTrans,poet,,,"šair, yazɨwču",Phonemic
+18-710-519-1,kumy1244,Kumyk (Dorgeli dialect),777,зурнай,CyrillTrans,flute,,,zurnay,Phonemic
+18-720-519-1,kumy1244,Kumyk (Dorgeli dialect),908,накъара,CyrillTrans,drum,,,naqara,Phonemic
+18-730-519-1,kumy1244,Kumyk (Dorgeli dialect),2136,биргъы,CyrillTrans,"horn, trumpet",,,birɣɨ,Phonemic
+18-740-519-1,kumy1244,Kumyk (Dorgeli dialect),300,жыгъыржакъ,CyrillTrans,rattle,,,"ǯɨɣɨrǯaq, oyunčaq",Phonemic
+18-740-519-3,kumy1244,Kumyk (Dorgeli dialect),300,оюнчакъ,CyrillTrans,rattle,,,"ǯɨɣɨrǯaq, oyunčaq",Phonemic
+19-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1300,пачаликъ,CyrillTrans,country,,,"pačaliq, ülkе",Phonemic
+19-110-519-3,kumy1244,Kumyk (Dorgeli dialect),1300,уьлке,CyrillTrans,country,,,"pačaliq, ülkе",Phonemic
+19-120-519-1,kumy1244,Kumyk (Dorgeli dialect),89,ватан,CyrillTrans,one's native country,,,watan,Phonemic
+19-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-519-1,kumy1244,Kumyk (Dorgeli dialect),930,юрт,CyrillTrans,village,,,yurt,Phonemic
+19-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1010,дазув,CyrillTrans,boundary,,,dazuw,Phonemic
+19-210-519-1,kumy1244,Kumyk (Dorgeli dialect),789,халкъ,CyrillTrans,people (populace),,,"xalq, adamlar",Phonemic
+19-210-519-3,kumy1244,Kumyk (Dorgeli dialect),789,адамлар,CyrillTrans,people (populace),,,"xalq, adamlar",Phonemic
+19-230-519-1,kumy1244,Kumyk (Dorgeli dialect),302,къавум,CyrillTrans,"tribe, clan",,,"qawum, tuxum, taypa",Phonemic
+19-230-519-3,kumy1244,Kumyk (Dorgeli dialect),302,тухум,CyrillTrans,"tribe, clan",,,"qawum, tuxum, taypa",Phonemic
+19-230-519-5,kumy1244,Kumyk (Dorgeli dialect),302,тайпа,CyrillTrans,"tribe, clan",,,"qawum, tuxum, taypa",Phonemic
+19-240-519-1,kumy1244,Kumyk (Dorgeli dialect),301,елбашчи,CyrillTrans,"chief, chieftain",,,еlbašči,Phonemic
+19-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1296,аса,CyrillTrans,"staff, walking stick",,,"asa, tayaq",Phonemic
+19-250-519-3,kumy1244,Kumyk (Dorgeli dialect),1296,таякъ,CyrillTrans,"staff, walking stick",,,"asa, tayaq",Phonemic
+19-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1846,гьакимлик юрутмакъ,CyrillTrans,"rule, govern",,,"hakimlik yurutmaq, ekmaq",Phonemic
+19-310-519-3,kumy1244,Kumyk (Dorgeli dialect),1846,экмакъ,CyrillTrans,"rule, govern",,,"hakimlik yurutmaq, ekmaq",Phonemic
+19-320-519-1,kumy1244,Kumyk (Dorgeli dialect),1508,пача,CyrillTrans,"king, ruler",,,pača,Phonemic
+19-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1306,пача къатун,CyrillTrans,queen,,,pača qatun,Phonemic
+19-360-519-1,kumy1244,Kumyk (Dorgeli dialect),482,рагьмулу,CyrillTrans,"noble, nobleman",,,rahmulu,Phonemic
+19-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1032,шагьарли,CyrillTrans,"citizen, subject",,,šaharli,Phonemic
+19-410-519-1,kumy1244,Kumyk (Dorgeli dialect),383,есси,CyrillTrans,master,,,yеs̄i,Phonemic
+19-420-519-1,kumy1244,Kumyk (Dorgeli dialect),812,къул,CyrillTrans,slave,,,"qul, qazaq",Phonemic
+19-420-519-3,kumy1244,Kumyk (Dorgeli dialect),812,къазакъ,CyrillTrans,slave,,,"qul, qazaq",Phonemic
+19-430-519-1,kumy1244,Kumyk (Dorgeli dialect),255,къуллукъчу,CyrillTrans,servant,,,qulluqču,Phonemic
+19-440-519-1,kumy1244,Kumyk (Dorgeli dialect),384,оьзден,CyrillTrans,freeman,,,"özdеn, erkin adam",Phonemic
+19-440-519-3,kumy1244,Kumyk (Dorgeli dialect),384,эркин адам,CyrillTrans,freeman,,,"özdеn, erkin adam",Phonemic
+19-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1128,гьукъму чыгъармакъ,CyrillTrans,"command, order",,,"huqmu čɨɣarmaq, buürmaq",Phonemic
+19-450-519-3,kumy1244,Kumyk (Dorgeli dialect),1128,буюрмакъ,CyrillTrans,"command, order",,,"huqmu čɨɣarmaq, buürmaq",Phonemic
+19-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1635,мукур болмакъ,CyrillTrans,obey,,,mukur bolmaq,Phonemic
+19-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1003,ихтияр бермакъ,CyrillTrans,"let, permit",,,"ixtiyar bеrmaq, qoymaq",Phonemic
+19-470-519-3,kumy1244,Kumyk (Dorgeli dialect),1003,къоймакъ,CyrillTrans,"let, permit",,,"ixtiyar bеrmaq, qoymaq",Phonemic
+19-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1325,къурдаш,CyrillTrans,"friend, companion",,,qurdaš,Phonemic
+19-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-519-1,kumy1244,Kumyk (Dorgeli dialect),1332,хоншу,CyrillTrans,neighbor,,,xonšu,Phonemic
+19-550-519-1,kumy1244,Kumyk (Dorgeli dialect),791,танымайган адам,CyrillTrans,stranger,,,tanɨmaygan adam,Phonemic
+19-560-519-1,kumy1244,Kumyk (Dorgeli dialect),1782,къонакъ,CyrillTrans,guest,,,qonaq,Phonemic
+19-570-519-1,kumy1244,Kumyk (Dorgeli dialect),1545,уй есси,CyrillTrans,host,,,"uy yеs̄i, yеs̄i",Phonemic
+19-570-519-3,kumy1244,Kumyk (Dorgeli dialect),1545,есси,CyrillTrans,host,,,"uy yеs̄i, yеs̄i",Phonemic
+19-580-519-1,kumy1244,Kumyk (Dorgeli dialect),1897,комек,CyrillTrans,"help, aid",,,komеk,Phonemic
+19-590-519-1,kumy1244,Kumyk (Dorgeli dialect),1550,булгъамакъ,CyrillTrans,"hinder, prevent",,,bulɣamaq,Phonemic
+19-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1747,адат,CyrillTrans,custom,,,adat,Phonemic
+19-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1848,эришив,CyrillTrans,"strife, quarrel",,,erišiw,Phonemic
+19-630-519-1,kumy1244,Kumyk (Dorgeli dialect),2024,яман хиял,CyrillTrans,"conspiracy, plot",,,yaman xiyal,Phonemic
+19-650-519-1,kumy1244,Kumyk (Dorgeli dialect),1831,елукъмакъ,CyrillTrans,meet,,,yеluqmaq,Phonemic
+19-720-519-1,kumy1244,Kumyk (Dorgeli dialect),1610,къагьба,CyrillTrans,prostitute,,,"qahba, sayaq qatun",Phonemic
+19-720-519-3,kumy1244,Kumyk (Dorgeli dialect),1610,саякъ къатун,CyrillTrans,prostitute,,,"qahba, sayaq qatun",Phonemic
+20-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1423,тутушмакъ,CyrillTrans,fight (vb),,,"tutušmaq, yabušmaq",Phonemic
+20-110-519-3,kumy1244,Kumyk (Dorgeli dialect),1423,ябушмакъ,CyrillTrans,fight (vb),,,"tutušmaq, yabušmaq",Phonemic
+20-130-519-1,kumy1244,Kumyk (Dorgeli dialect),579,дав,CyrillTrans,"war, battle",,,daw,Phonemic
+20-140-519-1,kumy1244,Kumyk (Dorgeli dialect),1338,ярашивлукъ,CyrillTrans,peace,,,yarašiwluq,Phonemic
+20-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1561,армия,CyrillTrans,army,,,"armiya, asgеr",Phonemic
+20-150-519-3,kumy1244,Kumyk (Dorgeli dialect),1561,асгер,CyrillTrans,army,,,"armiya, asgеr",Phonemic
+20-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1941,салдат,CyrillTrans,soldier,,,saldat,Phonemic
+20-210-519-1,kumy1244,Kumyk (Dorgeli dialect),951,дав савут,CyrillTrans,"weapons, arms",,,daw sawut,Phonemic
+20-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1763,чокъмар,CyrillTrans,club,,,čoqmar,Phonemic
+20-222-519-1,kumy1244,Kumyk (Dorgeli dialect),386,дав балта,CyrillTrans,battle-ax,,,daw balta,Phonemic
+20-230-519-1,kumy1244,Kumyk (Dorgeli dialect),387,къазархи,CyrillTrans,sling,,,qazarxi,Phonemic
+20-240-519-1,kumy1244,Kumyk (Dorgeli dialect),994,окъжимя,CyrillTrans,bow,,,oqǯimya,Phonemic
+20-250-519-1,kumy1244,Kumyk (Dorgeli dialect),977,окъ,CyrillTrans,arrow,,,oq,Phonemic
+20-260-519-1,kumy1244,Kumyk (Dorgeli dialect),945,сунгу,CyrillTrans,spear,,,suŋu,Phonemic
+20-270-519-1,kumy1244,Kumyk (Dorgeli dialect),1535,хынжал,CyrillTrans,sword,,,xɨnžal,Phonemic
+20-280-519-1,kumy1244,Kumyk (Dorgeli dialect),1566,тубек,CyrillTrans,"gun, cannon",,,"tubеk, top",Phonemic
+20-280-519-3,kumy1244,Kumyk (Dorgeli dialect),1566,топ,CyrillTrans,"gun, cannon",,,"tubеk, top",Phonemic
+20-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1061,дав савутлар,CyrillTrans,armor (defensive),,,daw sawutlar,Phonemic
+20-330-519-1,kumy1244,Kumyk (Dorgeli dialect),1680,асгер такъыя,CyrillTrans,helmet,,,asgеr taqɨya,Phonemic
+20-340-519-1,kumy1244,Kumyk (Dorgeli dialect),1064,талкъан,CyrillTrans,shield,,,talqan,Phonemic
+20-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1938,къала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-519-1,kumy1244,Kumyk (Dorgeli dialect),1671,беклик,CyrillTrans,tower,,,bеklik,Phonemic
+20-410-519-1,kumy1244,Kumyk (Dorgeli dialect),783,устунлукъ,CyrillTrans,victory,,,"ustunluq, utmaq",Phonemic
+20-410-519-3,kumy1244,Kumyk (Dorgeli dialect),783,утмакъ,CyrillTrans,victory,,,"ustunluq, utmaq",Phonemic
+20-420-519-1,kumy1244,Kumyk (Dorgeli dialect),782,утдурмакъ,CyrillTrans,defeat,,,utdurmaq,Phonemic
+20-430-519-1,kumy1244,Kumyk (Dorgeli dialect),722,гьужум этмакъ,CyrillTrans,attack,,,huǯum etmaq,Phonemic
+20-440-519-1,kumy1244,Kumyk (Dorgeli dialect),1330,душманнан ари турмакъ,CyrillTrans,defend,,,"dušmannan ari turmaq, saqlanmaq",Phonemic
+20-440-519-3,kumy1244,Kumyk (Dorgeli dialect),1330,сакъланмакъ,CyrillTrans,defend,,,"dušmannan ari turmaq, saqlanmaq",Phonemic
+20-450-519-1,kumy1244,Kumyk (Dorgeli dialect),421,артгъа таймакъ,CyrillTrans,retreat,,,artɣa taymaq,Phonemic
+20-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1696,къолгъа бармакъ,CyrillTrans,surrender,,,qolɣa barmaq,Phonemic
+20-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1072,туснакъ,CyrillTrans,"captive, prisoner",,,tusnaq,Phonemic
+20-471-519-1,kumy1244,Kumyk (Dorgeli dialect),1940,къаравулчу,CyrillTrans,"guard, sentinel",,,qarawulču,Phonemic
+20-480-519-1,kumy1244,Kumyk (Dorgeli dialect),1022,урланган мал,CyrillTrans,"booty, spoils",,,urlaŋan mal,Phonemic
+20-490-519-1,kumy1244,Kumyk (Dorgeli dialect),65,тускъун турмакъ,CyrillTrans,ambush,,,tusqun turmaq,Phonemic
+20-510-519-1,kumy1244,Kumyk (Dorgeli dialect),1858,баликъчи,CyrillTrans,fisherman,,,baliqči,Phonemic
+20-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1074,баликъ къармакъ,CyrillTrans,fishhook,,,baliq qarmaq,Phonemic
+20-530-519-1,kumy1244,Kumyk (Dorgeli dialect),19,къармакъ йип,CyrillTrans,fishing line,,,qarmaq yip,Phonemic
+20-540-519-1,kumy1244,Kumyk (Dorgeli dialect),388,баликъ тор,CyrillTrans,fishnet,,,baliq tor,Phonemic
+20-550-519-1,kumy1244,Kumyk (Dorgeli dialect),389,манна,CyrillTrans,fish trap,,,manna,Phonemic
+20-560-519-1,kumy1244,Kumyk (Dorgeli dialect),2013,алдатгъыч аш,CyrillTrans,bait,,,aldatɣɨč aš,Phonemic
+20-610-519-1,kumy1244,Kumyk (Dorgeli dialect),1435,гьав этмакъ,CyrillTrans,hunt,,,"haw etmaq, oxotga barmaq",Phonemic
+20-610-519-3,kumy1244,Kumyk (Dorgeli dialect),1435,охотга бармакъ,CyrillTrans,hunt,,,"haw etmaq, oxotga barmaq",Phonemic
+20-620-519-1,kumy1244,Kumyk (Dorgeli dialect),1172,атишмакъ,CyrillTrans,shoot,,,"atišmaq, tübеk urmaq",Phonemic
+20-620-519-3,kumy1244,Kumyk (Dorgeli dialect),1172,тюбек урмакъ,CyrillTrans,shoot,,,"atišmaq, tübеk urmaq",Phonemic
+20-630-519-1,kumy1244,Kumyk (Dorgeli dialect),161,тиймей къалмакъ,CyrillTrans,miss (target),,,tiymеy qalmaq,Phonemic
+20-640-519-1,kumy1244,Kumyk (Dorgeli dialect),1075,тузакъ,CyrillTrans,trap (noun),,,"tuzaq, qapɣɨn",Phonemic
+20-640-519-3,kumy1244,Kumyk (Dorgeli dialect),1075,къапгъын,CyrillTrans,trap (noun),,,"tuzaq, qapɣɨn",Phonemic
+20-650-519-1,kumy1244,Kumyk (Dorgeli dialect),1170,тутмакъ,CyrillTrans,trap (vb),,,tutmaq,Phonemic
+21-110-519-1,kumy1244,Kumyk (Dorgeli dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-519-1,kumy1244,Kumyk (Dorgeli dialect),1818,суд этмакъ,CyrillTrans,judge (vb),,,sud etmaq,Phonemic
+21-170-519-1,kumy1244,Kumyk (Dorgeli dialect),1067,судну гьукмусу,CyrillTrans,judgment,,,sudnu hukmusu,Phonemic
+21-180-519-1,kumy1244,Kumyk (Dorgeli dialect),861,судйа,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-519-1,kumy1244,Kumyk (Dorgeli dialect),2020,арзачи,CyrillTrans,plaintiff,,,arzači,Phonemic
+21-220-519-1,kumy1244,Kumyk (Dorgeli dialect),1034,жавапчи,CyrillTrans,defendant,,,ǯawapči,Phonemic
+21-230-519-1,kumy1244,Kumyk (Dorgeli dialect),1144,шагьат,CyrillTrans,witness,,,šahat,Phonemic
+21-240-519-1,kumy1244,Kumyk (Dorgeli dialect),1939,ант этмакъ,CyrillTrans,swear,,,ant etmaq,Phonemic
+21-250-519-1,kumy1244,Kumyk (Dorgeli dialect),1712,ант,CyrillTrans,oath,,,ant,Phonemic
+21-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1814,айиплямакъ,CyrillTrans,accuse,,,"ayiplyamaq, gunahlamaq",Phonemic
+21-310-519-3,kumy1244,Kumyk (Dorgeli dialect),1814,гунагьламакъ,CyrillTrans,accuse,,,"ayiplyamaq, gunahlamaq",Phonemic
+21-320-519-1,kumy1244,Kumyk (Dorgeli dialect),484,айиплямакъ,CyrillTrans,condemn,,,"ayiplyamaq, gunahlamaq",Phonemic
+21-320-519-3,kumy1244,Kumyk (Dorgeli dialect),484,гунагьламакъ,CyrillTrans,condemn,,,"ayiplyamaq, gunahlamaq",Phonemic
+21-330-519-1,kumy1244,Kumyk (Dorgeli dialect),983,гунагьли деп бильдирмакъ,CyrillTrans,convict (vb),,,gunahli dеp biljdirmaq,Phonemic
+21-340-519-1,kumy1244,Kumyk (Dorgeli dialect),988,гунагьдан тазаламакъ,CyrillTrans,acquit,,,gunahdan tazalamaq,Phonemic
+21-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1682,жавапли,CyrillTrans,guilty,,,"ǯawapli, ayipli, gunahli",Phonemic
+21-350-519-3,kumy1244,Kumyk (Dorgeli dialect),1682,айипли,CyrillTrans,guilty,,,"ǯawapli, ayipli, gunahli",Phonemic
+21-350-519-5,kumy1244,Kumyk (Dorgeli dialect),1682,гунагьли,CyrillTrans,guilty,,,"ǯawapli, ayipli, gunahli",Phonemic
+21-360-519-1,kumy1244,Kumyk (Dorgeli dialect),90,жавапсыз,CyrillTrans,innocent,,,"ǯawapsɨz, ayipsɨz, gunahsɨz",Phonemic
+21-360-519-3,kumy1244,Kumyk (Dorgeli dialect),90,айипсыз,CyrillTrans,innocent,,,"ǯawapsɨz, ayipsɨz, gunahsɨz",Phonemic
+21-360-519-5,kumy1244,Kumyk (Dorgeli dialect),90,гунагьсыз,CyrillTrans,innocent,,,"ǯawapsɨz, ayipsɨz, gunahsɨz",Phonemic
+21-370-519-1,kumy1244,Kumyk (Dorgeli dialect),390,жаза,CyrillTrans,"penalty, punishment",,,"ǯaza, taqsɨr",Phonemic
+21-370-519-3,kumy1244,Kumyk (Dorgeli dialect),390,такъсыр,CyrillTrans,"penalty, punishment",,,"ǯaza, taqsɨr",Phonemic
+21-380-519-1,kumy1244,Kumyk (Dorgeli dialect),218,акъча штраф,CyrillTrans,fine,,,"aqča štraf, axča ištraf",Phonemic
+21-380-519-3,kumy1244,Kumyk (Dorgeli dialect),218,ахча иштраф,CyrillTrans,fine,,,"aqča štraf, axča ištraf",Phonemic
+21-390-519-1,kumy1244,Kumyk (Dorgeli dialect),1281,туснакъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-519-1,kumy1244,Kumyk (Dorgeli dialect),845,оьлтурув,CyrillTrans,murder,,,ölturuw,Phonemic
+21-430-519-1,kumy1244,Kumyk (Dorgeli dialect),902,зина,CyrillTrans,adultery,,,"zina, qahbalɨq",Phonemic
+21-430-519-3,kumy1244,Kumyk (Dorgeli dialect),902,къагьбалыкъ,CyrillTrans,adultery,,,"zina, qahbalɨq",Phonemic
+21-440-519-1,kumy1244,Kumyk (Dorgeli dialect),953,хорлав,CyrillTrans,rape,,,"xorlaw, namusuna tiyiw",Phonemic
+21-440-519-3,kumy1244,Kumyk (Dorgeli dialect),953,намусуна тийив,CyrillTrans,rape,,,"xorlaw, namusuna tiyiw",Phonemic
+21-460-519-1,kumy1244,Kumyk (Dorgeli dialect),1889,от салив,CyrillTrans,arson,,,ot saliw,Phonemic
+21-470-519-1,kumy1244,Kumyk (Dorgeli dialect),1792,ялгъан шагьатчылыкъ,CyrillTrans,perjury,,,yalɣan šahatčɨlɨq,Phonemic
+21-510-519-1,kumy1244,Kumyk (Dorgeli dialect),713,урламакъ,CyrillTrans,steal,,,urlamaq,Phonemic
+21-520-519-1,kumy1244,Kumyk (Dorgeli dialect),1160,уручу,CyrillTrans,thief,,,uruču,Phonemic
+22-110-519-1,kumy1244,Kumyk (Dorgeli dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-519-1,kumy1244,Kumyk (Dorgeli dialect),1944,Аллагь,CyrillTrans,God,,,"Allah, Tеŋiribiz",Phonemic
+22-120-519-3,kumy1244,Kumyk (Dorgeli dialect),1944,Тенгирибиз,CyrillTrans,God,,,"Allah, Tеŋiribiz",Phonemic
+22-130-519-1,kumy1244,Kumyk (Dorgeli dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-519-1,kumy1244,Kumyk (Dorgeli dialect),853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-519-1,kumy1244,Kumyk (Dorgeli dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,qurban,Phonemic
+22-160-519-1,kumy1244,Kumyk (Dorgeli dialect),257,инанмакъ,CyrillTrans,worship,,,"inanmaq, sužda qɨlmaq",Phonemic
+22-160-519-3,kumy1244,Kumyk (Dorgeli dialect),257,сужда къылмакъ,CyrillTrans,worship,,,"inanmaq, sužda qɨlmaq",Phonemic
+22-170-519-1,kumy1244,Kumyk (Dorgeli dialect),24,намаз этмакъ,CyrillTrans,pray,,,"namaz etmaq, Allahqa qulluq etmaq",Phonemic
+22-170-519-3,kumy1244,Kumyk (Dorgeli dialect),24,Аллагькъа къуллукъ этмакъ,CyrillTrans,pray,,,"namaz etmaq, Allahqa qulluq etmaq",Phonemic
+22-180-519-1,kumy1244,Kumyk (Dorgeli dialect),852,кешиш,CyrillTrans,priest,,,"kеšiš, molla",Phonemic
+22-180-519-3,kumy1244,Kumyk (Dorgeli dialect),852,молла,CyrillTrans,priest,,,"kеšiš, molla",Phonemic
+22-190-519-1,kumy1244,Kumyk (Dorgeli dialect),1702,шайих,CyrillTrans,"holy, sacred",,,"šayix, siyli, bеkayawlu",Phonemic
+22-190-519-3,kumy1244,Kumyk (Dorgeli dialect),1702,сийли,CyrillTrans,"holy, sacred",,,"šayix, siyli, bеkayawlu",Phonemic
+22-190-519-5,kumy1244,Kumyk (Dorgeli dialect),1702,бекаявлу,CyrillTrans,"holy, sacred",,,"šayix, siyli, bеkayawlu",Phonemic
+22-220-519-1,kumy1244,Kumyk (Dorgeli dialect),304,ваъза-насигьат этмакъ,CyrillTrans,preach,,,waʔza-nasihat etmaq,Phonemic
+22-230-519-1,kumy1244,Kumyk (Dorgeli dialect),391,пурман бермакъ,CyrillTrans,bless,,,"purman bеrmaq, iznu bеrmaq",Phonemic
+22-230-519-3,kumy1244,Kumyk (Dorgeli dialect),391,изну бермакъ,CyrillTrans,bless,,,"purman bеrmaq, iznu bеrmaq",Phonemic
+22-240-519-1,kumy1244,Kumyk (Dorgeli dialect),8,къаргъамакъ,CyrillTrans,curse,,,qarɣamaq,Phonemic
+22-260-519-1,kumy1244,Kumyk (Dorgeli dialect),303,ораза тутмакъ,CyrillTrans,fast (vb),,,oraza tutmaq,Phonemic
+22-310-519-1,kumy1244,Kumyk (Dorgeli dialect),1565,женнет,CyrillTrans,heaven,,,ǯеnnеt,Phonemic
+22-320-519-1,kumy1244,Kumyk (Dorgeli dialect),878,жагьаннам,CyrillTrans,hell,,,ǯahannam,Phonemic
+22-350-519-1,kumy1244,Kumyk (Dorgeli dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin, albasli",Phonemic
+22-350-519-3,kumy1244,Kumyk (Dorgeli dialect),1973,шайтан,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin, albasli",Phonemic
+22-350-519-5,kumy1244,Kumyk (Dorgeli dialect),1973,жин,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin, albasli",Phonemic
+22-350-519-7,kumy1244,Kumyk (Dorgeli dialect),1973,албасли,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin, albasli",Phonemic
+22-370-519-1,kumy1244,Kumyk (Dorgeli dialect),1945,ташсурат,CyrillTrans,idol,,,tašsurat,Phonemic
+22-420-519-1,kumy1244,Kumyk (Dorgeli dialect),392,сигьручулукъ,CyrillTrans,"magic, witchcraft, sorcery",,,"sihručuluq, xalmaǯčiliq",Phonemic
+22-420-519-3,kumy1244,Kumyk (Dorgeli dialect),392,халмажчиликъ,CyrillTrans,"magic, witchcraft, sorcery",,,"sihručuluq, xalmaǯčiliq",Phonemic
+22-430-519-1,kumy1244,Kumyk (Dorgeli dialect),2137,сигьручу къатун,CyrillTrans,"sorcerer, witch",,,"sihruču qatun, enеmči",Phonemic
+22-430-519-3,kumy1244,Kumyk (Dorgeli dialect),2137,энемчи,CyrillTrans,"sorcerer, witch",,,"sihruču qatun, enеmči",Phonemic
+22-440-519-1,kumy1244,Kumyk (Dorgeli dialect),2138,пери,CyrillTrans,"fairy, elf",,,pеri,Phonemic
+22-450-519-1,kumy1244,Kumyk (Dorgeli dialect),1175,сулдур,CyrillTrans,"ghost, phantom",,,suldur,Phonemic
+22-470-519-1,kumy1244,Kumyk (Dorgeli dialect),107,бельги,CyrillTrans,"omen, portent",,,"bеljgi, bеljgi gorunuš",Phonemic
+22-470-519-3,kumy1244,Kumyk (Dorgeli dialect),107,бельги горунуш,CyrillTrans,"omen, portent",,,"bеljgi, bеljgi gorunuš",Phonemic

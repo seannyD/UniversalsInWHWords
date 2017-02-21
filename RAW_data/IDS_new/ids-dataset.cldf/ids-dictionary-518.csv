@@ -1,0 +1,1474 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-518-1,kryt1240,Kryz,1852,дыхта,CyrillTrans,often,,,dɨxta,Phonemic
+14-310-518-1,kryt1240,Kryz,1676,гьаьмише,CyrillTrans,always,,,hämiše,Phonemic
+14-290-518-1,kryt1240,Kryz,790,гьазыр,CyrillTrans,ready,,,hazɨr,Phonemic
+14-280-518-1,kryt1240,Kryz,1928,къотІылджи,CyrillTrans,"cease, stop",,,"Gotʼɨlǯi, Gop’tʼulǯu",Phonemic
+14-280-518-3,kryt1240,Kryz,1928,къопІтІулджу,CyrillTrans,"cease, stop",,,"Gotʼɨlǯi, Gop’tʼulǯu",Phonemic
+14-270-518-1,kryt1240,Kryz,1766,тамам йе̌джи,CyrillTrans,finish,,,"tamam yěǯi, kutaħ x̌iǯi",Phonemic
+14-270-518-3,kryt1240,Kryz,1766,кутаьхІ хьиджи,CyrillTrans,finish,,,"tamam yěǯi, kutaħ x̌iǯi",Phonemic
+14-260-518-1,kryt1240,Kryz,743,тамам йе̌джи,CyrillTrans,end (temporal),,,tamam yěǯi,Phonemic
+14-250-518-1,kryt1240,Kryz,1806,башламыш йе̌джи,CyrillTrans,"begin, beginning",,,bašlamɨš yěǯi,Phonemic
+14-240-518-1,kryt1240,Kryz,425,къотІылджи,CyrillTrans,"retard, delay",,,Gotʼɨlǯi,Phonemic
+14-220-518-1,kryt1240,Kryz,701,йаваш,CyrillTrans,slow,,,yavaš,Phonemic
+14-210-518-1,kryt1240,Kryz,1631,даьхаь,CyrillTrans,"swift, fast, quick",,,"däxä, däxäd",Phonemic
+14-210-518-3,kryt1240,Kryz,1631,даьхаьд,CyrillTrans,"swift, fast, quick",,,"däxä, däxäd",Phonemic
+14-190-518-1,kryt1240,Kryz,1963,гьил,CyrillTrans,immediately,,,hil,Phonemic
+14-180-518-1,kryt1240,Kryz,1376,гьил,CyrillTrans,now,,,hil,Phonemic
+14-170-518-1,kryt1240,Kryz,477,дийар,CyrillTrans,late,,,diyar,Phonemic
+14-160-518-1,kryt1240,Kryz,672,дых,CyrillTrans,early,,,dɨx,Phonemic
+14-150-518-1,kryt1240,Kryz,1229,лицI,CyrillTrans,old,,,"lic’, q’us",Phonemic
+14-150-518-3,kryt1240,Kryz,1229,кьус,CyrillTrans,old,,,"lic’, q’us",Phonemic
+14-140-518-1,kryt1240,Kryz,1207,джаванаб,CyrillTrans,young,,,ǯavanab,Phonemic
+14-120-518-1,kryt1240,Kryz,1789,вахт,CyrillTrans,age,,,"vaxt, epoxa",Phonemic
+14-120-518-3,kryt1240,Kryz,1789,эпоха,CyrillTrans,age,,,"vaxt, epoxa",Phonemic
+14-130-518-1,kryt1240,Kryz,1231,цІийаь,CyrillTrans,new,,,"cʼiyä, cʼiyäd",Phonemic
+14-130-518-3,kryt1240,Kryz,1231,цІийаьд,CyrillTrans,new,,,"cʼiyä, cʼiyäd",Phonemic
+14-110-518-1,kryt1240,Kryz,892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-518-1,kryt1240,Kryz,417,шибид,CyrillTrans,three times,,,šibid,Phonemic
+13-420-518-1,kryt1240,Kryz,1859,уьчуьнджи,CyrillTrans,third,,,üčünǯi,Phonemic
+13-380-518-1,kryt1240,Kryz,1546,кьвад,CyrillTrans,two times,,,qʼʷad,Phonemic
+13-370-518-1,kryt1240,Kryz,1888,тай,CyrillTrans,pair,,,tay,Phonemic
+13-360-518-1,kryt1240,Kryz,1384,икинджи,CyrillTrans,second,,,ikinǯi,Phonemic
+13-350-518-1,kryt1240,Kryz,1529,ахиринджи,CyrillTrans,last,,,axirinǯi,Phonemic
+13-340-518-1,kryt1240,Kryz,728,биринджи,CyrillTrans,first,,,birinǯi,Phonemic
+13-330-518-1,kryt1240,Kryz,1580,саьд,CyrillTrans,"alone, only",,,säd,Phonemic
+13-240-518-1,kryt1240,Kryz,816,йару,CyrillTrans,half,,,"yaru, yaʕru",Phonemic
+13-240-518-3,kryt1240,Kryz,816,йагІру,CyrillTrans,half,,,"yaru, yaʕru",Phonemic
+13-230-518-1,kryt1240,Kryz,779,тикаь,CyrillTrans,"part, piece",,,"tikä, pay",Phonemic
+13-230-518-3,kryt1240,Kryz,779,пай,CyrillTrans,"part, piece",,,"tikä, pay",Phonemic
+13-220-518-1,kryt1240,Kryz,1624,гІачІи,CyrillTrans,empty,,,ʕačʼi,Phonemic
+13-210-518-1,kryt1240,Kryz,1429,гІоцІи,CyrillTrans,full,,,"ʕocʼi, ʕacʼad",Phonemic
+13-210-518-3,kryt1240,Kryz,1429,гІацІад,CyrillTrans,full,,,"ʕocʼi, ʕacʼad",Phonemic
+13-190-518-1,kryt1240,Kryz,2023,параь,CyrillTrans,"multitude, crowd",,,parä,Phonemic
+13-181-518-1,kryt1240,Kryz,1241,силаьй,CyrillTrans,some,,,siläy,Phonemic
+13-170-518-1,kryt1240,Kryz,1242,силаьй,CyrillTrans,"little (quantity), few",,,siläy,Phonemic
+13-180-518-1,kryt1240,Kryz,1881,пара,CyrillTrans,enough,,,"para, parä",Phonemic
+13-180-518-3,kryt1240,Kryz,1881,параь,CyrillTrans,enough,,,"para, parä",Phonemic
+13-160-518-1,kryt1240,Kryz,1992,артух,CyrillTrans,more,,,artux,Phonemic
+13-150-518-1,kryt1240,Kryz,1198,параь,CyrillTrans,"much, many",,,parä,Phonemic
+13-107-518-1,kryt1240,Kryz,1420,хІисаб йе̌джи,CyrillTrans,count,,,"ħisab yěǯi, saqaǯi",Phonemic
+13-107-518-3,kryt1240,Kryz,1420,сахъаджи,CyrillTrans,count,,,"ħisab yěǯi, saqaǯi",Phonemic
+13-106-518-1,kryt1240,Kryz,1843,гІазыр,CyrillTrans,thousand,,,ʕazɨr,Phonemic
+13-105-518-1,kryt1240,Kryz,1634,фукьар,CyrillTrans,hundred,,,fuqʼar,Phonemic
+13-104-518-1,kryt1240,Kryz,1710,къар,CyrillTrans,twenty,,,Gar,Phonemic
+13-103-518-1,kryt1240,Kryz,1709,цІынна фыр,CyrillTrans,fifteen,,,cʼɨnna fɨr,Phonemic
+13-102-518-1,kryt1240,Kryz,1707,цІынна кьвар,CyrillTrans,twelve,,,cʼɨnna qʼʷar,Phonemic
+13-101-518-1,kryt1240,Kryz,1706,цIынна саьр,CyrillTrans,eleven,,,cʼɨnna sär,Phonemic
+13-100-518-1,kryt1240,Kryz,1515,йицІыр,CyrillTrans,ten,,,yɨcʼɨr,Phonemic
+13-90-518-1,kryt1240,Kryz,1483,йичІир,CyrillTrans,nine,,,yičʼid,Phonemic
+13-80-518-1,kryt1240,Kryz,1705,миг̌ыр,CyrillTrans,eight,,,miǧir,Phonemic
+13-70-518-1,kryt1240,Kryz,1704,йыг̌ыр,CyrillTrans,seven,,,yɨǧɨr,Phonemic
+13-60-518-1,kryt1240,Kryz,1703,рыхьыр,CyrillTrans,six,,,rɨx̌ɨr,Phonemic
+13-50-518-1,kryt1240,Kryz,493,фыр,CyrillTrans,five,,,fɨr,Phonemic
+13-40-518-1,kryt1240,Kryz,1500,йукьур,CyrillTrans,four,,,yuqʼur,Phonemic
+13-20-518-1,kryt1240,Kryz,1498,кьвар,CyrillTrans,two,,,qʼʷar,Phonemic
+13-30-518-1,kryt1240,Kryz,492,шибыр,CyrillTrans,three,,,šibɨr,Phonemic
+13-10-518-1,kryt1240,Kryz,1493,саьр,CyrillTrans,one,,,sär,Phonemic
+13-0-518-1,kryt1240,Kryz,1294,ноль,CyrillTrans,"zero, nothing",,,nolʲ,Phonemic
+12-930-518-1,kryt1240,Kryz,1264,даьгиш йе̌джи,CyrillTrans,change,,,dägiš yěǯi,Phonemic
+12-920-518-1,kryt1240,Kryz,1558,охшемиш,CyrillTrans,"like, similar",,,oxšemiš,Phonemic
+12-840-518-1,kryt1240,Kryz,1048,хет,CyrillTrans,line,,,xet,Phonemic
+12-850-518-1,kryt1240,Kryz,1667,уІаьцІ,CyrillTrans,hole,,,uˁʔäcʼ,Phonemic
+12-830-518-1,kryt1240,Kryz,1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-518-1,kryt1240,Kryz,1395,гургум,CyrillTrans,round,,,gurgum,Phonemic
+12-820-518-1,kryt1240,Kryz,1467,чарх,CyrillTrans,circle,,,čarx,Phonemic
+12-770-518-1,kryt1240,Kryz,1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-518-1,kryt1240,Kryz,192,миъел,CyrillTrans,corner,,,miʔel,Phonemic
+12-750-518-1,kryt1240,Kryz,1071,кІир,CyrillTrans,hook,,,kʼir,Phonemic
+12-740-518-1,kryt1240,Kryz,297,ахъыр,CyrillTrans,crooked,,,aqɨr,Phonemic
+12-730-518-1,kryt1240,Kryz,1404,дуьз,CyrillTrans,straight,,,düz,Phonemic
+12-710-518-1,kryt1240,Kryz,1633,дуьз,CyrillTrans,flat,,,düz,Phonemic
+12-680-518-1,kryt1240,Kryz,193,гуьгуьл,CyrillTrans,shallow,,,gügül,Phonemic
+12-670-518-1,kryt1240,Kryz,1593,даьрин,CyrillTrans,deep,,,därin,Phonemic
+12-650-518-1,kryt1240,Kryz,2249,кьыл,CyrillTrans,thin (in dimension),,,qʼɨl,Phonemic
+12-630-518-1,kryt1240,Kryz,1244,кІоьпІ,CyrillTrans,thick (in dimension),,,"kʼöpʼ, kʼʷapʼad",Phonemic
+12-630-518-3,kryt1240,Kryz,1244,кІвапІад,CyrillTrans,thick (in dimension),,,"kʼöpʼ, kʼʷapʼad",Phonemic
+12-620-518-1,kryt1240,Kryz,1267,дар,CyrillTrans,narrow,,,dar,Phonemic
+12-610-518-1,kryt1240,Kryz,1243,маш,CyrillTrans,"wide, broad",,,maš,Phonemic
+12-590-518-1,kryt1240,Kryz,1645,гваьдаь,CyrillTrans,short,,,gʷädä,Phonemic
+12-580-518-1,kryt1240,Kryz,711,къагъи,CyrillTrans,tall,,,Gaɣi,Phonemic
+12-570-518-1,kryt1240,Kryz,1203,гІахти,CyrillTrans,long,,,ʕaxti,Phonemic
+12-560-518-1,kryt1240,Kryz,1246,силаь,CyrillTrans,"small, little",,,silä,Phonemic
+12-550-518-1,kryt1240,Kryz,1202,бу,CyrillTrans,"large, big",,,bu,Phonemic
+12-540-518-1,kryt1240,Kryz,1506,ваьсунджи,CyrillTrans,measure,,,"väsunǯi, väsɨnǯu",Phonemic
+12-540-518-3,kryt1240,Kryz,1506,ваьсынджу,CyrillTrans,measure,,,"väsunǯi, väsɨnǯu",Phonemic
+12-530-518-1,kryt1240,Kryz,479,къечІидж,CyrillTrans,grow,,,Gečʼiǯ,Phonemic
+12-480-518-1,kryt1240,Kryz,1595,кьибле,CyrillTrans,south,,,"qʼible, guněy",Phonemic
+12-480-518-3,kryt1240,Kryz,1595,гуне̌й,CyrillTrans,south,,,"qʼible, guněy",Phonemic
+12-470-518-1,kryt1240,Kryz,1598,дула,CyrillTrans,north,,,"dula, Guzěy",Phonemic
+12-470-518-3,kryt1240,Kryz,1598,къузе̌й,CyrillTrans,north,,,"dula, Guzěy",Phonemic
+12-460-518-1,kryt1240,Kryz,1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-518-1,kryt1240,Kryz,1877,шеркь,CyrillTrans,east,,,šerqʼ,Phonemic
+12-430-518-1,kryt1240,Kryz,1942,бадав,CyrillTrans,near (adv),,,"badav, badov",Phonemic
+12-430-518-3,kryt1240,Kryz,1942,бадов,CyrillTrans,near (adv),,,"badav, badov",Phonemic
+12-440-518-1,kryt1240,Kryz,1406,йукъта,CyrillTrans,far (adv),,,yuGta,Phonemic
+12-420-518-1,kryt1240,Kryz,244,сылаьхъаь,CyrillTrans,left (side),,,sɨläqä,Phonemic
+12-410-518-1,kryt1240,Kryz,1019,тІаьб,CyrillTrans,right (side),,,tʼäb,Phonemic
+12-370-518-1,kryt1240,Kryz,1093,йикь,CyrillTrans,"middle, center",,,yiqʼ,Phonemic
+12-360-518-1,kryt1240,Kryz,682,тараф,CyrillTrans,side,,,taraf,Phonemic
+12-353-518-1,kryt1240,Kryz,863,къыраьх,CyrillTrans,edge,,,Gɨräх,Phonemic
+12-352-518-1,kryt1240,Kryz,372,чІуьтаьд,CyrillTrans,pointed,,,čʼütäd,Phonemic
+12-350-518-1,kryt1240,Kryz,742,ахыр,CyrillTrans,end,,,"axɨr, q’äč’",Phonemic
+12-350-518-3,kryt1240,Kryz,742,кьаьчI,CyrillTrans,end,,,"axɨr, q’äč’",Phonemic
+12-340-518-1,kryt1240,Kryz,690,кьаьн,CyrillTrans,bottom,,,qʼän,Phonemic
+12-320-518-1,kryt1240,Kryz,721,алчаха,CyrillTrans,low,,,alčaxa,Phonemic
+12-330-518-1,kryt1240,Kryz,1753,ваьрджаьн,CyrillTrans,top,,,värǯän,Phonemic
+12-310-518-1,kryt1240,Kryz,1265,къагъи,CyrillTrans,high,,,Gaɣi,Phonemic
+12-270-518-1,kryt1240,Kryz,602,джидыр йе̌джи,CyrillTrans,"hide, conceal",,,ǯädɨr yěǯi,Phonemic
+12-250-518-1,kryt1240,Kryz,1046,куфаьджи,CyrillTrans,"shut, close",,,"kufäǯi, kufäǯu",Phonemic
+12-250-518-3,kryt1240,Kryz,1046,куфаьджу,CyrillTrans,"shut, close",,,"kufäǯi, kufäǯu",Phonemic
+12-260-518-1,kryt1240,Kryz,761,сагІаджи,CyrillTrans,cover,,,saʕaǯi,Phonemic
+12-240-518-1,kryt1240,Kryz,1156,квахІaджи,CyrillTrans,open,,,kʷaћaǯi,Phonemic
+12-232-518-1,kryt1240,Kryz,1119,кулариджи,CyrillTrans,divide,,,kulariǯi,Phonemic
+12-230-518-1,kryt1240,Kryz,1359,кулариджи,CyrillTrans,separate,,,kulariǯi,Phonemic
+12-220-518-1,kryt1240,Kryz,1743,кьириджи,CyrillTrans,"join, unite",,,qʼiriǯi,Phonemic
+12-213-518-1,kryt1240,Kryz,1576,сараджи,CyrillTrans,pile up,,,saraǯi,Phonemic
+12-212-518-1,kryt1240,Kryz,371,къаьйинджи,CyrillTrans,pick up,,,Gäyinǯi,Phonemic
+12-210-518-1,kryt1240,Kryz,7,къотІ йе̌джи,CyrillTrans,"collect, gather",,,Gotʼ yěǯi,Phonemic
+12-170-518-1,kryt1240,Kryz,838,артугъ,CyrillTrans,"remains, left overs",,,artuɣ,Phonemic
+12-160-518-1,kryt1240,Kryz,987,икинджу,CyrillTrans,"remain, stay",,,"ikinǯu, ikɨnǯi",Phonemic
+12-160-518-3,kryt1240,Kryz,987,икынджи,CyrillTrans,"remain, stay",,,"ikinǯu, ikɨnǯi",Phonemic
+12-150-518-1,kryt1240,Kryz,1442,къотІылджи,CyrillTrans,stand,,,"Got’ɨlǯi, Gop’t’ulǯu",Phonemic
+12-150-518-3,kryt1240,Kryz,1442,къопІтІулджу,CyrillTrans,stand,,,"Got’ɨlǯi, Gop’t’ulǯu",Phonemic
+12-140-518-1,kryt1240,Kryz,215,цукьулджи,CyrillTrans,lie down,,,cuqʼulǯi,Phonemic
+12-130-518-1,kryt1240,Kryz,1416,аьскъунджи,CyrillTrans,sit,,,"äsq’unӡ̌i, äsq’unӡ̌u",Phonemic
+12-130-518-3,kryt1240,Kryz,1416,аьскьунджу,CyrillTrans,sit,,,"äsq’unӡ̌i, äsq’unӡ̌u",Phonemic
+12-120-518-1,kryt1240,Kryz,998,аскаьджи,CyrillTrans,put,,,"äskäǯi, äskäǯu",Phonemic
+12-120-518-3,kryt1240,Kryz,998,аьскаьджу,CyrillTrans,put,,,"äskäǯi, äskäǯu",Phonemic
+12-110-518-1,kryt1240,Kryz,723,джигаьгь,CyrillTrans,place,,,"ǯigäh, xän",Phonemic
+12-110-518-3,kryt1240,Kryz,723,хаьн,CyrillTrans,place,,,"ǯigäh, xän",Phonemic
+12-80-518-1,kryt1240,Kryz,1591,вардже,CyrillTrans,"up, above",,,varǯe,Phonemic
+12-70-518-1,kryt1240,Kryz,1485,кьаник,CyrillTrans,under,,,qʼanik,Phonemic
+12-60-518-1,kryt1240,Kryz,762,кьаран,CyrillTrans,outside,,,qʼaran,Phonemic
+12-50-518-1,kryt1240,Kryz,1606,йикьиче,CyrillTrans,"inside, in",,,yiqʼiče,Phonemic
+12-41-518-1,kryt1240,Kryz,1883,гІуьраь,CyrillTrans,front,,,ʕürä,Phonemic
+12-30-518-1,kryt1240,Kryz,2094,кьаник,CyrillTrans,"down, below",,,qʼanik,Phonemic
+12-20-518-1,kryt1240,Kryz,1816,бадав,CyrillTrans,beside,,,"badav, badov, müq’ov",Phonemic
+12-20-518-3,kryt1240,Kryz,1816,бадов,CyrillTrans,beside,,,"badav, badov, müq’ov",Phonemic
+12-20-518-5,kryt1240,Kryz,1816,муькьов,CyrillTrans,beside,,,"badav, badov, müq’ov",Phonemic
+12-11-518-1,kryt1240,Kryz,1686,далыджи,CyrillTrans,behind,,,dalɨǯi,Phonemic
+12-10-518-1,kryt1240,Kryz,1685,тотух,CyrillTrans,after,,,totux,Phonemic
+11-920-518-1,kryt1240,Kryz,1098,къуьйхуьнджи,CyrillTrans,weigh,,,Güyxünǯi,Phonemic
+11-910-518-1,kryt1240,Kryz,884,хІол хиджи,CyrillTrans,share (distribute),,,ћol xiǯi,Phonemic
+11-890-518-1,kryt1240,Kryz,1887,уджуз,CyrillTrans,cheap,,,uǯuz,Phonemic
+11-880-518-1,kryt1240,Kryz,1426,багьа,CyrillTrans,"dear (costly, expensive)",,,"baha, bahalu",Phonemic
+11-880-518-3,kryt1240,Kryz,1426,багьалу,CyrillTrans,"dear (costly, expensive)",,,"baha, bahalu",Phonemic
+11-870-518-1,kryt1240,Kryz,657,багьа,CyrillTrans,price,,,"baha, qʼimat",Phonemic
+11-870-518-3,kryt1240,Kryz,657,кьимат,CyrillTrans,price,,,"baha, qʼimat",Phonemic
+11-860-518-1,kryt1240,Kryz,752,дукан,CyrillTrans,"store, shop",,,"dukan, tukan",Phonemic
+11-860-518-3,kryt1240,Kryz,752,тукан,CyrillTrans,"store, shop",,,"dukan, tukan",Phonemic
+11-850-518-1,kryt1240,Kryz,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-518-1,kryt1240,Kryz,1082,совдагар,CyrillTrans,merchant,,,sovdagar,Phonemic
+11-830-518-1,kryt1240,Kryz,2135,алвер,CyrillTrans,"trade, barter",,,alver,Phonemic
+11-820-518-1,kryt1240,Kryz,1571,маза вуджи,CyrillTrans,sell,,,maza vuǯi,Phonemic
+11-810-518-1,kryt1240,Kryz,1869,къаьйинджи,CyrillTrans,buy,,,"Gäyinǯi, Göyünǯu",Phonemic
+11-810-518-3,kryt1240,Kryz,1869,къоьйуьнджу,CyrillTrans,buy,,,"Gäyinǯi, Göyünǯu",Phonemic
+11-790-518-1,kryt1240,Kryz,733,пул (пылыб) йе̌джи,CyrillTrans,earn,,,pul (pɨlɨb) yěǯi,Phonemic
+11-780-518-1,kryt1240,Kryz,1122,маъаш,CyrillTrans,wages,,,"maʔaš, donlug",Phonemic
+11-780-518-3,kryt1240,Kryz,1122,донлуг,CyrillTrans,wages,,,"maʔaš, donlug",Phonemic
+11-770-518-1,kryt1240,Kryz,856,кьаьйниджи,CyrillTrans,hire,,,qʼäyniǯi,Phonemic
+11-690-518-1,kryt1240,Kryz,873,верги,CyrillTrans,"tax, tribute",,,vergi,Phonemic
+11-660-518-1,kryt1240,Kryz,1081,хІисаб,CyrillTrans,"account, reckoning",,,ћisab,Phonemic
+11-650-518-1,kryt1240,Kryz,718,пул вуджи,CyrillTrans,pay (vb),,,pul vuǯi,Phonemic
+11-640-518-1,kryt1240,Kryz,1914,кьардз,CyrillTrans,debt,,,"qʼarʒ, burǯ",Phonemic
+11-640-518-3,kryt1240,Kryz,1914,бурдж,CyrillTrans,debt,,,"qʼarʒ, burǯ",Phonemic
+11-630-518-1,kryt1240,Kryz,369,лазыми йе̌джи,CyrillTrans,owe,,,lazɨmi yěǯi,Phonemic
+11-620-518-1,kryt1240,Kryz,1823,къардз кьаьйинджи,CyrillTrans,borrow,,,Garʒ qʼäyinǯi,Phonemic
+11-610-518-1,kryt1240,Kryz,582,къардз вуджи,CyrillTrans,lend,,,"Garʒ vuǯi, burǯ vuǯi",Phonemic
+11-610-518-3,kryt1240,Kryz,582,бурдж вуджи,CyrillTrans,lend,,,"Garʒ vuǯi, burǯ vuǯi",Phonemic
+11-540-518-1,kryt1240,Kryz,1774,мискин,CyrillTrans,"avaricious, stingy",,,miskin,Phonemic
+11-530-518-1,kryt1240,Kryz,1934,йыгъырчи,CyrillTrans,beggar,,,yɨɣɨrči,Phonemic
+11-520-518-1,kryt1240,Kryz,1674,йыгъыр,CyrillTrans,poor,,,yɨɣɨr,Phonemic
+11-510-518-1,kryt1240,Kryz,712,довлату,CyrillTrans,rich,,,"dovlatu, varlu",Phonemic
+11-510-518-3,kryt1240,Kryz,712,варлу,CyrillTrans,rich,,,"dovlatu, varlu",Phonemic
+11-440-518-1,kryt1240,Kryz,1867,пул,CyrillTrans,coin,,,pul,Phonemic
+11-430-518-1,kryt1240,Kryz,1559,пул,CyrillTrans,money,,,pul,Phonemic
+11-340-518-1,kryt1240,Kryz,1095,къаьгІджи,CyrillTrans,"release, let go",,,"Gäʕǯi, Gäʕǯu",Phonemic
+11-340-518-3,kryt1240,Kryz,1095,къаьгІджу,CyrillTrans,"release, let go",,,"Gäʕǯi, Gäʕǯu",Phonemic
+11-330-518-1,kryt1240,Kryz,1660,гул йе̌джи,CyrillTrans,lose,,,gul yěǯi,Phonemic
+11-320-518-1,kryt1240,Kryz,719,вокьджу,CyrillTrans,find,,,"voq’ǯu, voq’ǯi",Phonemic
+11-320-518-3,kryt1240,Kryz,719,вокьджи,CyrillTrans,find,,,"voq’ǯu, voq’ǯi",Phonemic
+11-310-518-1,kryt1240,Kryz,1468,гІайхьырджи,CyrillTrans,"seek, look for",,,"ʕayx̌ɨrǯi, ʕayx̌urǯu",Phonemic
+11-310-518-3,kryt1240,Kryz,1468,гІайхьурджу,CyrillTrans,"seek, look for",,,"ʕayx̌ɨrǯi, ʕayx̌urǯu",Phonemic
+11-280-518-1,kryt1240,Kryz,44,зарар йе̌джи,CyrillTrans,"harm, injure, damage",,,zarar yěǯi,Phonemic
+11-270-518-1,kryt1240,Kryz,681,гІохуцІджи,CyrillTrans,destroy,,,ʕoxucʼǯi,Phonemic
+11-240-518-1,kryt1240,Kryz,1997,аьскаьджи,CyrillTrans,"preserve, look after",,,äskäǯi,Phonemic
+11-220-518-1,kryt1240,Kryz,85,йесилджи,CyrillTrans,give back,,,yesilǯi,Phonemic
+11-210-518-1,kryt1240,Kryz,1447,вуджи,CyrillTrans,give,,,"vuǯi, vuǯu",Phonemic
+11-210-518-3,kryt1240,Kryz,1447,вуджу,CyrillTrans,give,,,"vuǯi, vuǯu",Phonemic
+11-180-518-1,kryt1240,Kryz,738,затІ,CyrillTrans,thing,,,"zatʼ, xel",Phonemic
+11-180-518-3,kryt1240,Kryz,738,хел,CyrillTrans,thing,,,"zatʼ, xel",Phonemic
+11-170-518-1,kryt1240,Kryz,1477,аьскаьджи,CyrillTrans,"keep, retain",,,äskäǯi,Phonemic
+11-160-518-1,kryt1240,Kryz,694,йухьурджи,CyrillTrans,"get, obtain",,,yux̌urǯi,Phonemic
+11-150-518-1,kryt1240,Kryz,1448,ихъирджи,CyrillTrans,hold,,,iqirǯi,Phonemic
+11-140-518-1,kryt1240,Kryz,2021,уьхъурджи,CyrillTrans,"seize, grasp",,,"üqurǯi, iqirǯi",Phonemic
+11-140-518-3,kryt1240,Kryz,2021,ихъирджи,CyrillTrans,"seize, grasp",,,"üqurǯi, iqirǯi",Phonemic
+11-130-518-1,kryt1240,Kryz,1749,къаьйинджи,CyrillTrans,take,,,"Gäyinǯi, Göyünǯu",Phonemic
+11-130-518-3,kryt1240,Kryz,1749,къоьйуьнджу,CyrillTrans,take,,,"Gäyinǯi, Göyünǯu",Phonemic
+11-120-518-1,kryt1240,Kryz,684,ихъырджи,CyrillTrans,"own, possess",,,iqɨrǯi,Phonemic
+11-110-518-1,kryt1240,Kryz,773,и,CyrillTrans,have,,,i,Phonemic
+10-910-518-1,kryt1240,Kryz,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-518-1,kryt1240,Kryz,1870,лабари,CyrillTrans,anchor,,,labari,Phonemic
+10-880-518-1,kryt1240,Kryz,786,йелкен,CyrillTrans,sail (noun),,,yelken,Phonemic
+10-870-518-1,kryt1240,Kryz,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-518-1,kryt1240,Kryz,108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-851-518-1,kryt1240,Kryz,234,бер,CyrillTrans,paddle (noun),,,ber,Phonemic
+10-850-518-1,kryt1240,Kryz,108,бер,CyrillTrans,oar,,,ber,Phonemic
+10-840-518-1,kryt1240,Kryz,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-518-1,kryt1240,Kryz,416,гами,CyrillTrans,outrigger,,,gami,Phonemic
+10-831-518-1,kryt1240,Kryz,1970,гами,CyrillTrans,canoe,,,gami,Phonemic
+10-830-518-1,kryt1240,Kryz,1844,гами,CyrillTrans,boat,,,gami,Phonemic
+10-810-518-1,kryt1240,Kryz,740,гами,CyrillTrans,ship,,,gami,Phonemic
+10-780-518-1,kryt1240,Kryz,14,укар,CyrillTrans,yoke,,,ukar,Phonemic
+10-770-518-1,kryt1240,Kryz,1769,ох,CyrillTrans,axle,,,ox,Phonemic
+10-760-518-1,kryt1240,Kryz,710,че̌рх,CyrillTrans,wheel,,,čе̌rx,Phonemic
+10-750-518-1,kryt1240,Kryz,122,гІаьраьбаь,CyrillTrans,"carriage, wagon, cart",,,"ʕäräbä, paytʼun",Phonemic
+10-750-518-3,kryt1240,Kryz,122,пайтІун,CyrillTrans,"carriage, wagon, cart",,,"ʕäräbä, paytʼun",Phonemic
+10-740-518-1,kryt1240,Kryz,1011,къов,CyrillTrans,bridge,,,Gov,Phonemic
+10-720-518-1,kryt1240,Kryz,2252,рих,CyrillTrans,path,,,rix,Phonemic
+10-710-518-1,kryt1240,Kryz,667,рих,CyrillTrans,road,,,rix,Phonemic
+10-670-518-1,kryt1240,Kryz,1452,гІокоджу,CyrillTrans,"push, shove",,,"ʕokoǯu, ʕäkäǯu",Phonemic
+10-670-518-3,kryt1240,Kryz,1452,гІаькаьджу,CyrillTrans,"push, shove",,,"ʕokoǯu, ʕäkäǯu",Phonemic
+10-660-518-1,kryt1240,Kryz,367,ихджи,CyrillTrans,ride,,,ixǯi,Phonemic
+10-650-518-1,kryt1240,Kryz,741,ихджи,CyrillTrans,drive,,,ixǯi,Phonemic
+10-640-518-1,kryt1240,Kryz,43,тугъаджи,CyrillTrans,lead (vb),,,tuɣaǯi,Phonemic
+10-630-518-1,kryt1240,Kryz,1127,аьзаьйеридж,CyrillTrans,send,,,äzäyeriǯ,Phonemic
+10-620-518-1,kryt1240,Kryz,692,къогъоджи,CyrillTrans,bring,,,Goɣoǯi,Phonemic
+10-615-518-1,kryt1240,Kryz,415,тугъаджи,CyrillTrans,carry-underarm,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-615-518-3,kryt1240,Kryz,415,тугъаджу,CyrillTrans,carry-underarm,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-614-518-1,kryt1240,Kryz,414,тугъаджи,CyrillTrans,carry-on-head,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-614-518-3,kryt1240,Kryz,414,тугъаджу,CyrillTrans,carry-on-head,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-613-518-1,kryt1240,Kryz,413,тугъаджи,CyrillTrans,carry-on-shoulder,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-613-518-3,kryt1240,Kryz,413,тугъаджу,CyrillTrans,carry-on-shoulder,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-612-518-1,kryt1240,Kryz,412,тугъаджи,CyrillTrans,carry-in-hand,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-612-518-3,kryt1240,Kryz,412,тугъаджу,CyrillTrans,carry-in-hand,,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-610-518-1,kryt1240,Kryz,700,тугъаджи,CyrillTrans,carry (bear),,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-610-518-3,kryt1240,Kryz,700,тугъаджу,CyrillTrans,carry (bear),,,"tuɣaǯi, tuɣaǯu",Phonemic
+10-570-518-1,kryt1240,Kryz,749,гІаьпІчІиджи,CyrillTrans,enter,,,"ʕäpʼčʼiǯi, ʕäpʼčʼiǯu",Phonemic
+10-570-518-3,kryt1240,Kryz,749,гІаьпІчІиджу,CyrillTrans,enter,,,"ʕäpʼčʼiǯi, ʕäpʼčʼiǯu",Phonemic
+10-560-518-1,kryt1240,Kryz,1778,къаьчІджи,CyrillTrans,approach,,,"Gäčʼǯi, Gäp’čʼiǯu",Phonemic
+10-560-518-3,kryt1240,Kryz,1778,къапІчІиджу,CyrillTrans,approach,,,"Gäčʼǯi, Gäp’čʼiǯu",Phonemic
+10-550-518-1,kryt1240,Kryz,1387,къаьчІджи,CyrillTrans,"reach, arrive",,,"Gäčʼǯi, Gäp’čʼiǯu",Phonemic
+10-550-518-3,kryt1240,Kryz,1387,къапІчІиджу,CyrillTrans,"reach, arrive",,,"Gäčʼǯi, Gäp’čʼiǯu",Phonemic
+10-520-518-1,kryt1240,Kryz,1085,ихджи,CyrillTrans,follow,,,ixǯi,Phonemic
+10-510-518-1,kryt1240,Kryz,956,гІарфидж,CyrillTrans,flee,,,ʕarfiǯ,Phonemic
+10-491-518-1,kryt1240,Kryz,485,гулхьийидж,CyrillTrans,disappear,,,gulx̌iyiǯ,Phonemic
+10-490-518-1,kryt1240,Kryz,1752,ихьджи,CyrillTrans,"go away, depart",,,ix̌ǯi,Phonemic
+10-481-518-1,kryt1240,Kryz,581,гІухьурджи,CyrillTrans,come back,,,"ʕux̌urǯi, ʕubxurӡ̌u",Phonemic
+10-481-518-3,kryt1240,Kryz,581,гІухьуржду,CyrillTrans,come back,,,"ʕux̌urǯi, ʕubxurӡ̌u",Phonemic
+10-480-518-1,kryt1240,Kryz,1446,гІухьурджи,CyrillTrans,come,,,"ʕux̌urǯi, ʕubxurӡ̌u",Phonemic
+10-480-518-3,kryt1240,Kryz,1446,гІухьуржду,CyrillTrans,come,,,"ʕux̌urǯi, ʕubxurӡ̌u",Phonemic
+10-474-518-1,kryt1240,Kryz,1107,кьаьчІиндж,CyrillTrans,go out,,,qʼäčʼinǯ,Phonemic
+10-473-518-1,kryt1240,Kryz,2014,гІаьчІджи,CyrillTrans,go down,,,ʕäčʼǯi,Phonemic
+10-472-518-1,kryt1240,Kryz,1102,ихьджи,CyrillTrans,climb,,,ix̌ǯi,Phonemic
+10-470-518-1,kryt1240,Kryz,695,ихьджи,CyrillTrans,go,,,"ix̌ǯi, ibӡ̌u",Phonemic
+10-470-518-3,kryt1240,Kryz,695,ибджи,CyrillTrans,go,,,"ix̌ǯi, ibӡ̌u",Phonemic
+10-471-518-1,kryt1240,Kryz,705,ихьджи,CyrillTrans,go up,,,ix̌ǯi,Phonemic
+10-460-518-1,kryt1240,Kryz,1519,гІарфынджи,CyrillTrans,run,,,ʕarfɨnǯi,Phonemic
+10-450-518-1,kryt1240,Kryz,1443,гъахриджи,CyrillTrans,walk,,,ɣaxriǯi,Phonemic
+10-440-518-1,kryt1240,Kryz,1879,чІинаьриджи,CyrillTrans,dance,,,"čʼinäriǯi, č’in yěǯi",Phonemic
+10-440-518-3,kryt1240,Kryz,1879,чIин йе̌джи,CyrillTrans,dance,,,"čʼinäriǯi, č’in yěǯi",Phonemic
+10-431-518-1,kryt1240,Kryz,1135,гІоходжу,CyrillTrans,kick,,,ʕoxoǯu,Phonemic
+10-430-518-1,kryt1240,Kryz,1829,сарфиджи,CyrillTrans,"jump, leap",,,sarfiǯi,Phonemic
+10-420-518-1,kryt1240,Kryz,1324,цІыг̌ынджи,CyrillTrans,"slide, slip",,,"cʼɨǧɨnǯi, cʼuǧunǯu",Phonemic
+10-420-518-3,kryt1240,Kryz,1324,цІыг̌ынджу,CyrillTrans,"slide, slip",,,"cʼɨǧɨnǯi, cʼuǧunǯu",Phonemic
+10-413-518-1,kryt1240,Kryz,296,къишеджи,CyrillTrans,crouch,,,Gišeǯi,Phonemic
+10-412-518-1,kryt1240,Kryz,66,чоьктекджи,CyrillTrans,kneel,,,čöktekǯi,Phonemic
+10-410-518-1,kryt1240,Kryz,96,емаьгаьридж,CyrillTrans,"creep, crawl",,,yemägäriǯ,Phonemic
+10-380-518-1,kryt1240,Kryz,175,фупунджи,CyrillTrans,blow,,,fupunǯi,Phonemic
+10-370-518-1,kryt1240,Kryz,1441,къаьлкьунджи,CyrillTrans,fly (vb),,,Gälqʼunǯi,Phonemic
+10-330-518-1,kryt1240,Kryz,1088,гІакьылджи,CyrillTrans,sink,,,"ʕaqʼɨlǯi, ʕaqʼɨlǯu",Phonemic
+10-330-518-3,kryt1240,Kryz,1088,гІакьылджу,CyrillTrans,sink,,,"ʕaqʼɨlǯi, ʕaqʼɨlǯu",Phonemic
+10-320-518-1,kryt1240,Kryz,2003,къухиджи,CyrillTrans,flow,,,Guxiǯi,Phonemic
+10-260-518-1,kryt1240,Kryz,1909,кетаьджи,CyrillTrans,shake,,,ketäǯi,Phonemic
+10-252-518-1,kryt1240,Kryz,702,ихъирджи,CyrillTrans,catch (ball),,,iqirǯi,Phonemic
+10-250-518-1,kryt1240,Kryz,1456,саладжи,CyrillTrans,throw,,,"salaǯi, salaǯu",Phonemic
+10-250-518-3,kryt1240,Kryz,1456,саладжу,CyrillTrans,throw,,,"salaǯi, salaǯu",Phonemic
+10-240-518-1,kryt1240,Kryz,2253,къухиджи,CyrillTrans,drip,,,Guxiǯi,Phonemic
+10-230-518-1,kryt1240,Kryz,1280,гІакьылджи,CyrillTrans,fall,,,"ʕaqʼɨlǯi, ʕaqʼɨlǯu",Phonemic
+10-230-518-3,kryt1240,Kryz,1280,гІакьылджу,CyrillTrans,fall,,,"ʕaqʼɨlǯi, ʕaqʼɨlǯu",Phonemic
+10-220-518-1,kryt1240,Kryz,501,къоьйуьнджи,CyrillTrans,"raise, lift",,,Göyünǯi,Phonemic
+10-210-518-1,kryt1240,Kryz,568,кьуриджи,CyrillTrans,rise,,,qʼuriǯi,Phonemic
+10-170-518-1,kryt1240,Kryz,430,гьайлеми сиъирджи,CyrillTrans,twist,,,haylemi siʔirǯi,Phonemic
+10-160-518-1,kryt1240,Kryz,808,къухиджи,CyrillTrans,drop (vb),,,Guxiǯi,Phonemic
+10-150-518-1,kryt1240,Kryz,827,къийхьириджи,CyrillTrans,roll,,,Giyx̌iriǯi,Phonemic
+10-130-518-1,kryt1240,Kryz,1445,къыйхырджи,CyrillTrans,turn around,,,Gɨyxɨrǯi,Phonemic
+10-120-518-1,kryt1240,Kryz,1588,къыйхырджи,CyrillTrans,turn over,,,Gɨyxɨrǯi,Phonemic
+10-110-518-1,kryt1240,Kryz,765,ихджи,CyrillTrans,move,,,"ixǯi, ɣaxriǯi",Phonemic
+10-110-518-3,kryt1240,Kryz,765,гъахриджи,CyrillTrans,move,,,"ixǯi, ɣaxriǯi",Phonemic
+9-890-518-1,kryt1240,Kryz,2001,ранг йе̌джи,CyrillTrans,paint (vb),,,rang yěǯi,Phonemic
+9-840-518-1,kryt1240,Kryz,1979,йешкене,CyrillTrans,chisel,,,yeškene,Phonemic
+9-880-518-1,kryt1240,Kryz,647,ранг,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-880-518-3,kryt1240,Kryz,647,краска,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-830-518-1,kryt1240,Kryz,1002,суьраьт,CyrillTrans,statue,,,sürät,Phonemic
+9-820-518-1,kryt1240,Kryz,914,суьраьтчи,CyrillTrans,sculptor,,,sürätči,Phonemic
+9-810-518-1,kryt1240,Kryz,228,йетІджи,CyrillTrans,carve,,,yetʼǯi,Phonemic
+9-791-518-1,kryt1240,Kryz,360,туфан йе̌джи,CyrillTrans,fan (vb),,,tufan yěǯi,Phonemic
+9-790-518-1,kryt1240,Kryz,1971,вентилятор,CyrillTrans,fan (noun),,,ventilyator,Phonemic
+9-780-518-1,kryt1240,Kryz,293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-518-1,kryt1240,Kryz,292,кьаьлаьнче̌,CyrillTrans,rug,,,q’äläncě,Phonemic
+9-770-518-1,kryt1240,Kryz,195,гьасир,CyrillTrans,mat,,,"hasir, rux",Phonemic
+9-770-518-3,kryt1240,Kryz,195,рух,CyrillTrans,mat,,,"hasir, rux",Phonemic
+9-760-518-1,kryt1240,Kryz,1539,кулаь,CyrillTrans,basket,,,kulä,Phonemic
+9-750-518-1,kryt1240,Kryz,1729,сохурджи,CyrillTrans,"weave, plait",,,"soxurǯi, sexirǯi",Phonemic
+9-750-518-3,kryt1240,Kryz,1729,сехирджи,CyrillTrans,"weave, plait",,,"soxurǯi, sexirǯi",Phonemic
+9-740-518-1,kryt1240,Kryz,604,гъаьг,CyrillTrans,glass,,,"ɣäg, šušä",Phonemic
+9-740-518-3,kryt1240,Kryz,604,шушаь,CyrillTrans,glass,,,"ɣäg, šušä",Phonemic
+9-730-518-1,kryt1240,Kryz,1399,лаьзу,CyrillTrans,clay,,,läzu,Phonemic
+9-720-518-1,kryt1240,Kryz,289,куц йе̌джи,CyrillTrans,mold (clay etc),,,kuc yěǯi,Phonemic
+9-710-518-1,kryt1240,Kryz,359,вархъчи,CyrillTrans,potter,,,varqči,Phonemic
+9-690-518-1,kryt1240,Kryz,358,даьмир,CyrillTrans,"tin, tinplate",,,dämir,Phonemic
+9-680-518-1,kryt1240,Kryz,627,кьуркьушин,CyrillTrans,lead (noun),,,"qʼurqʼušin, qʼurqʼušun",Phonemic
+9-680-518-3,kryt1240,Kryz,627,кьуркьушун,CyrillTrans,lead (noun),,,"qʼurqʼušin, qʼurqʼušun",Phonemic
+9-670-518-1,kryt1240,Kryz,621,даьмыр,CyrillTrans,iron,,,dämɨr,Phonemic
+9-660-518-1,kryt1240,Kryz,1825,мис,CyrillTrans,"copper, bronze",,,mis,Phonemic
+9-650-518-1,kryt1240,Kryz,759,гвамиш,CyrillTrans,silver,,,"gʷamiš, gоmiš",Phonemic
+9-650-518-3,kryt1240,Kryz,759,гомиш,CyrillTrans,silver,,,"gʷamiš, gоmiš",Phonemic
+9-640-518-1,kryt1240,Kryz,1369,къызыл,CyrillTrans,gold,,,Gɨzɨl,Phonemic
+9-630-518-1,kryt1240,Kryz,211,куц йе̌джи,CyrillTrans,cast (metals),,,kuc yěǯi,Phonemic
+9-620-518-1,kryt1240,Kryz,1648,зиндан,CyrillTrans,anvil,,,zindan,Phonemic
+9-610-518-1,kryt1240,Kryz,288,демир,CyrillTrans,forge,,,demir,Phonemic
+9-600-518-1,kryt1240,Kryz,1001,демирчи,CyrillTrans,"smith, blacksmith",,,demirči,Phonemic
+9-560-518-1,kryt1240,Kryz,1069,шириш,CyrillTrans,glue,,,širiš,Phonemic
+9-500-518-1,kryt1240,Kryz,502,мисмар,CyrillTrans,nail,,,"mismar, mix",Phonemic
+9-500-518-3,kryt1240,Kryz,502,мих,CyrillTrans,nail,,,"mismar, mix",Phonemic
+9-490-518-1,kryt1240,Kryz,1481,чаькудж,CyrillTrans,hammer,,,čäkuǯ,Phonemic
+9-480-518-1,kryt1240,Kryz,1948,меше̌р,CyrillTrans,saw,,,mešěr,Phonemic
+9-460-518-1,kryt1240,Kryz,1501,кІаьчІ,CyrillTrans,bore,,,kʼäčʼ,Phonemic
+9-440-518-1,kryt1240,Kryz,1840,кІул йе̌джи,CyrillTrans,build,,,kʼul yěǯi,Phonemic
+9-430-518-1,kryt1240,Kryz,1042,дуьлгаьр,CyrillTrans,carpenter,,,dülgär,Phonemic
+9-422-518-1,kryt1240,Kryz,1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-518-1,kryt1240,Kryz,245,магул,CyrillTrans,broom,,,magul,Phonemic
+9-360-518-1,kryt1240,Kryz,1453,зымджи,CyrillTrans,wash,,,zɨmǯi,Phonemic
+9-370-518-1,kryt1240,Kryz,230,ваьпдзу,CyrillTrans,sweep,,,väpʒu,Phonemic
+9-350-518-1,kryt1240,Kryz,1487,къухиджи,CyrillTrans,pour,,,Guxiǯi,Phonemic
+9-343-518-1,kryt1240,Kryz,1414,чІихъайе̌джи,CyrillTrans,"squeeze, wring",,,čʼiqä yěǯi,Phonemic
+9-342-518-1,kryt1240,Kryz,1913,чІихъайе̌джи,CyrillTrans,press,,,čʼiqä yěǯi,Phonemic
+9-341-518-1,kryt1240,Kryz,357,каьхийе̌джи,CyrillTrans,hang up,,,käxiyěǯi,Phonemic
+9-330-518-1,kryt1240,Kryz,1455,гІаладжи,CyrillTrans,pull,,,ʕalaǯi,Phonemic
+9-320-518-1,kryt1240,Kryz,214,гъаладжи,CyrillTrans,stretch,,,ɣalaǯi,Phonemic
+9-310-518-1,kryt1240,Kryz,1449,къырхІаджи,CyrillTrans,"rub, wipe",,,Gɨrћaǯi,Phonemic
+9-290-518-1,kryt1240,Kryz,291,йаьхІаьджи,CyrillTrans,"flay, skin",,,yäћäǯi,Phonemic
+9-280-518-1,kryt1240,Kryz,1735,чІутІкІурджи,CyrillTrans,tear,,,čʼut’k’urǯi,Phonemic
+9-270-518-1,kryt1240,Kryz,1437,согъуджи,CyrillTrans,split,,,soɣuǯi,Phonemic
+9-261-518-1,kryt1240,Kryz,588,согъу,CyrillTrans,broken,,,soɣu,Phonemic
+9-260-518-1,kryt1240,Kryz,680,согъуджи,CyrillTrans,break,,,soɣuǯi,Phonemic
+9-250-518-1,kryt1240,Kryz,677,йокІ,CyrillTrans,ax,,,yokʼ,Phonemic
+9-251-518-1,kryt1240,Kryz,290,йокІ,CyrillTrans,adze,,,yokʼ,Phonemic
+9-240-518-1,kryt1240,Kryz,356,мыкІраьтІ,CyrillTrans,"scissors, shears",,,mɨkʼrätʼ,Phonemic
+9-230-518-1,kryt1240,Kryz,1352,кІаьнтІ,CyrillTrans,knife,,,"k’äntʼ, GaGam",Phonemic
+9-230-518-3,kryt1240,Kryz,1352,къакъам,CyrillTrans,knife,,,"k’äntʼ, GaGam",Phonemic
+9-223-518-1,kryt1240,Kryz,1434,йетІджи,CyrillTrans,stab,,,"yetʼǯi, yetʼǯu",Phonemic
+9-223-518-3,kryt1240,Kryz,1434,йетІджу,CyrillTrans,stab,,,"yetʼǯi, yetʼǯu",Phonemic
+9-222-518-1,kryt1240,Kryz,155,йетІджи,CyrillTrans,"chop, hew",,,"yetʼǯi, yetʼǯu",Phonemic
+9-222-518-3,kryt1240,Kryz,155,йетІджу,CyrillTrans,"chop, hew",,,"yetʼǯi, yetʼǯu",Phonemic
+9-221-518-1,kryt1240,Kryz,355,йетІджи,CyrillTrans,cut down,,,"yetʼǯi, yetʼǯu",Phonemic
+9-221-518-3,kryt1240,Kryz,355,йетІджу,CyrillTrans,cut down,,,"yetʼǯi, yetʼǯu",Phonemic
+9-220-518-1,kryt1240,Kryz,1432,йетІджи,CyrillTrans,cut,,,"yetʼǯi, yetʼǯu, kurǯi, kurǯu",Phonemic
+9-220-518-3,kryt1240,Kryz,1432,йетІджу,CyrillTrans,cut,,,"yetʼǯi, yetʼǯu, kurǯi, kurǯu",Phonemic
+9-220-518-5,kryt1240,Kryz,1432,курджи,CyrillTrans,cut,,,"yetʼǯi, yetʼǯu, kurǯi, kurǯu",Phonemic
+9-220-518-7,kryt1240,Kryz,1432,курджу,CyrillTrans,cut,,,"yetʼǯi, yetʼǯu, kurǯi, kurǯu",Phonemic
+9-211-518-1,kryt1240,Kryz,354,къетІджи,CyrillTrans,pound with fist,,,"Getʼǯi, ätäǯi xid",Phonemic
+9-211-518-3,kryt1240,Kryz,354,аьтаьджи хид,CyrillTrans,pound with fist,,,"Getʼǯi, ätäǯi xid",Phonemic
+9-210-518-1,kryt1240,Kryz,2133,аьтаьджи,CyrillTrans,"strike (hit, beat)",,,"ätäǯi, vätäǯi",Phonemic
+9-210-518-3,kryt1240,Kryz,2133,ваьтаьджи,CyrillTrans,"strike (hit, beat)",,,"ätäǯi, vätäǯi",Phonemic
+9-192-518-1,kryt1240,Kryz,760,кІупІ,CyrillTrans,knot (noun),,,kʼupʼ,Phonemic
+9-190-518-1,kryt1240,Kryz,1218,мукІатІ,CyrillTrans,"rope, cord",,,"mukʼatʼ, čatu",Phonemic
+9-190-518-3,kryt1240,Kryz,1218,чату,CyrillTrans,"rope, cord",,,"mukʼatʼ, čatu",Phonemic
+9-180-518-1,kryt1240,Kryz,1627,занджир,CyrillTrans,chain,,,zanǯir,Phonemic
+9-161-518-1,kryt1240,Kryz,352,аьчух йе̌джи,CyrillTrans,untie,,,äčux yěǯi,Phonemic
+9-160-518-1,kryt1240,Kryz,1917,йупІтІулджи,CyrillTrans,"tie, bind",,,"yupʼtʼulǯi, yupʼtʼulǯu",Phonemic
+9-160-518-3,kryt1240,Kryz,1917,йупІтІулджу,CyrillTrans,"tie, bind",,,"yupʼtʼulǯi, yupʼtʼulǯu",Phonemic
+9-150-518-1,kryt1240,Kryz,1470,кьаткьатджи,CyrillTrans,fold,,,qʼatqʼatǯi,Phonemic
+9-140-518-1,kryt1240,Kryz,2004,велкьилджи,CyrillTrans,bend,,,velqʼilǯi,Phonemic
+9-120-518-1,kryt1240,Kryz,984,аьрваьз,CyrillTrans,work,,,ärväz,Phonemic
+9-110-518-1,kryt1240,Kryz,2575,йе̌джи,CyrillTrans,"do, make",,,yěǯi,Phonemic
+8-980-518-1,kryt1240,Kryz,641,пас,CyrillTrans,mushroom,,,pas,Phonemic
+8-970-518-1,kryt1240,Kryz,33,медж,CyrillTrans,nettle,,,meǯ,Phonemic
+8-940-518-1,kryt1240,Kryz,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-518-1,kryt1240,Kryz,864,кьабагъ,CyrillTrans,"pumpkin, squash",,,"qʼabaɣ, qʼäbäɣ",Phonemic
+8-931-518-3,kryt1240,Kryz,864,кьаьбаьгъ,CyrillTrans,"pumpkin, squash",,,"qʼabaɣ, qʼäbäɣ",Phonemic
+8-930-518-1,kryt1240,Kryz,411,кьабагъ,CyrillTrans,gourd,,,"qʼabaɣ, qʼäbäɣ",Phonemic
+8-930-518-3,kryt1240,Kryz,411,кьаьбаьгъ,CyrillTrans,gourd,,,"qʼabaɣ, qʼäbäɣ",Phonemic
+8-912-518-1,kryt1240,Kryz,410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-518-1,kryt1240,Kryz,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-518-1,kryt1240,Kryz,346,инджил,CyrillTrans,banyan,,,inǯil,Phonemic
+8-840-518-1,kryt1240,Kryz,868,банан,CyrillTrans,banana tree,,,banan,Phonemic
+8-830-518-1,kryt1240,Kryz,1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-518-1,kryt1240,Kryz,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-518-1,kryt1240,Kryz,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-518-1,kryt1240,Kryz,345,шире,CyrillTrans,sap,,,šire,Phonemic
+8-750-518-1,kryt1240,Kryz,1204,къабугъ,CyrillTrans,bark,,,Gabuɣ,Phonemic
+8-740-518-1,kryt1240,Kryz,409,тІир,CyrillTrans,forked branch,,,tʼir,Phonemic
+8-730-518-1,kryt1240,Kryz,344,кьаьчІ,CyrillTrans,tree trunk,,,qʼäčʼ,Phonemic
+8-720-518-1,kryt1240,Kryz,241,кутук,CyrillTrans,tree stump,,,kutuk,Phonemic
+8-691-518-1,kryt1240,Kryz,1124,луьле,CyrillTrans,pipe,,,lüle,Phonemic
+8-690-518-1,kryt1240,Kryz,1689,фирми,CyrillTrans,smoke (tobacco),,,firmi,Phonemic
+8-680-518-1,kryt1240,Kryz,974,туьтуьм,CyrillTrans,tobacco,,,tütüm,Phonemic
+8-670-518-1,kryt1240,Kryz,343,тегьенг,CyrillTrans,vine,,,teheng,Phonemic
+8-660-518-1,kryt1240,Kryz,968,мегъ,CyrillTrans,acorn,,,meɣ,Phonemic
+8-650-518-1,kryt1240,Kryz,1915,арчан,CyrillTrans,fir,,,arčan,Phonemic
+8-640-518-1,kryt1240,Kryz,1740,нарат,CyrillTrans,pine,,,"narat, šam",Phonemic
+8-640-518-3,kryt1240,Kryz,1740,шам,CyrillTrans,pine,,,"narat, šam",Phonemic
+8-630-518-1,kryt1240,Kryz,1855,мерх,CyrillTrans,birch,,,merx,Phonemic
+8-620-518-1,kryt1240,Kryz,1950,пип,CyrillTrans,beech,,,pip,Phonemic
+8-610-518-1,kryt1240,Kryz,644,мегъ,CyrillTrans,oak,,,"meɣ, palut",Phonemic
+8-610-518-3,kryt1240,Kryz,644,палут,CyrillTrans,oak,,,"meɣ, palut",Phonemic
+8-600-518-1,kryt1240,Kryz,906,дар,CyrillTrans,tree,,,dar,Phonemic
+8-570-518-1,kryt1240,Kryz,239,чиче̌к,CyrillTrans,flower,,,čičěk,Phonemic
+8-560-518-1,kryt1240,Kryz,628,беш,CyrillTrans,leaf,,,beš,Phonemic
+8-550-518-1,kryt1240,Kryz,1531,зугъ,CyrillTrans,branch,,,"zuɣ, c’il, t’il",Phonemic
+8-550-518-3,kryt1240,Kryz,1531,цІил,CyrillTrans,branch,,,"zuɣ, c’il, t’il",Phonemic
+8-550-518-5,kryt1240,Kryz,1531,тІил,CyrillTrans,branch,,,"zuɣ, c’il, t’il",Phonemic
+8-540-518-1,kryt1240,Kryz,670,кук,CyrillTrans,root,,,kuk,Phonemic
+8-531-518-1,kryt1240,Kryz,1486,къечІи,CyrillTrans,plant (vb),,,Gečʼi,Phonemic
+8-520-518-1,kryt1240,Kryz,342,хьин,CyrillTrans,hay,,,x̌in,Phonemic
+8-530-518-1,kryt1240,Kryz,653,махІсул,CyrillTrans,plant (noun),,,maћsul,Phonemic
+8-510-518-1,kryt1240,Kryz,606,хьин,CyrillTrans,grass,,,x̌in,Phonemic
+8-480-518-1,kryt1240,Kryz,926,видар,CyrillTrans,rice,,,vidar,Phonemic
+8-470-518-1,kryt1240,Kryz,506,кокруз,CyrillTrans,"maize, corn",,,kokruz,Phonemic
+8-460-518-1,kryt1240,Kryz,60,ваьлаьмир,CyrillTrans,oats,,,välämir,Phonemic
+8-450-518-1,kryt1240,Kryz,23,силсил,CyrillTrans,rye,,,silsil,Phonemic
+8-430-518-1,kryt1240,Kryz,1077,къул,CyrillTrans,wheat,,,Gul,Phonemic
+8-440-518-1,kryt1240,Kryz,932,мых,CyrillTrans,barley,,,mɨx,Phonemic
+8-420-518-1,kryt1240,Kryz,605,даьн,CyrillTrans,"grain (barley, oats etc)",,,dän,Phonemic
+8-410-518-1,kryt1240,Kryz,611,магІсул,CyrillTrans,"crop, harvest",,,maʕsul,Phonemic
+8-350-518-1,kryt1240,Kryz,223,харман,CyrillTrans,threshing-floor,,,xarman,Phonemic
+8-340-518-1,kryt1240,Kryz,285,гІатІуджи,CyrillTrans,thresh,,,ʕatʼuǯi,Phonemic
+8-330-518-1,kryt1240,Kryz,2132,чин,CyrillTrans,"sickle, scythe",,,"čin, qʼäsu",Phonemic
+8-330-518-3,kryt1240,Kryz,2132,кьаьсу,CyrillTrans,"sickle, scythe",,,"čin, qʼäsu",Phonemic
+8-320-518-1,kryt1240,Kryz,190,къетІджи,CyrillTrans,"mow, reap",,,"Getʼǯi, yixäӡ̌i",Phonemic
+8-320-518-3,kryt1240,Kryz,190,йихьаджи,CyrillTrans,"mow, reap",,,"Getʼǯi, yixäӡ̌i",Phonemic
+8-311-518-1,kryt1240,Kryz,714,тум,CyrillTrans,seed,,,tum,Phonemic
+8-310-518-1,kryt1240,Kryz,748,йизаьджи,CyrillTrans,sow,,,"yizäǯi, säväǯi",Phonemic
+8-310-518-3,kryt1240,Kryz,748,саьваьджи,CyrillTrans,sow,,,"yizäǯi, säväǯi",Phonemic
+8-270-518-1,kryt1240,Kryz,338,ракар,CyrillTrans,rake,,,rakar,Phonemic
+8-260-518-1,kryt1240,Kryz,337,хинер,CyrillTrans,fork,,,xiner,Phonemic
+8-250-518-1,kryt1240,Kryz,284,керки,CyrillTrans,hoe,,,kerki,Phonemic
+8-240-518-1,kryt1240,Kryz,1901,бел,CyrillTrans,shovel,,,bel,Phonemic
+8-230-518-1,kryt1240,Kryz,1176,бел,CyrillTrans,spade,,,bel,Phonemic
+8-212-518-1,kryt1240,Kryz,1794,хьил,CyrillTrans,furrow,,,x̌il,Phonemic
+8-220-518-1,kryt1240,Kryz,1418,тІутІхурджи,CyrillTrans,dig,,,tʼutʼxurǯi,Phonemic
+8-210-518-1,kryt1240,Kryz,1921,йизаьджи,CyrillTrans,plow,,,"yizäǯi, yizäǯu",Phonemic
+8-210-518-3,kryt1240,Kryz,1921,йизаьджу,CyrillTrans,plow,,,"yizäǯi, yizäǯu",Phonemic
+8-170-518-1,kryt1240,Kryz,2002,хвакь,CyrillTrans,ditch,,,xʷaqʼ,Phonemic
+8-160-518-1,kryt1240,Kryz,1690,чапар,CyrillTrans,fence,,,čapar,Phonemic
+8-150-518-1,kryt1240,Kryz,1541,йизаьджи,CyrillTrans,"cultivate, till",,,yizäǯi,Phonemic
+8-130-518-1,kryt1240,Kryz,586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-518-1,kryt1240,Kryz,212,ник,CyrillTrans,field (for cultivation),,,nik,Phonemic
+8-110-518-1,kryt1240,Kryz,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-518-1,kryt1240,Kryz,901,кьазма,CyrillTrans,adobe,,,qʼazma,Phonemic
+7-630-518-1,kryt1240,Kryz,224,кираьдж,CyrillTrans,mortar,,,kiräǯ,Phonemic
+7-620-518-1,kryt1240,Kryz,1006,керпич,CyrillTrans,brick,,,kerpič,Phonemic
+7-580-518-1,kryt1240,Kryz,876,гумбаз,CyrillTrans,arch,,,gumbaz,Phonemic
+7-610-518-1,kryt1240,Kryz,877,устар,CyrillTrans,mason,,,ustar,Phonemic
+7-570-518-1,kryt1240,Kryz,1227,кьул,CyrillTrans,board,,,"qʼul, täxtä",Phonemic
+7-570-518-3,kryt1240,Kryz,1227,таьхтаь,CyrillTrans,board,,,"qʼul, täxtä",Phonemic
+7-560-518-1,kryt1240,Kryz,281,хІаьче̌,CyrillTrans,"post, pole",,,ћäčě,Phonemic
+7-550-518-1,kryt1240,Kryz,1132,кутук,CyrillTrans,beam,,,"kutuk, tir",Phonemic
+7-550-518-3,kryt1240,Kryz,1132,тир,CyrillTrans,beam,,,"kutuk, tir",Phonemic
+7-540-518-1,kryt1240,Kryz,829,тир,CyrillTrans,rafter,,,"tir, piyä",Phonemic
+7-540-518-3,kryt1240,Kryz,829,пийаь,CyrillTrans,rafter,,,"tir, piyä",Phonemic
+7-530-518-1,kryt1240,Kryz,280,саьгІаь,CyrillTrans,ridgepole,,,säʕä,Phonemic
+7-520-518-1,kryt1240,Kryz,279,хал,CyrillTrans,thatch,,,xal,Phonemic
+7-510-518-1,kryt1240,Kryz,769,хал,CyrillTrans,roof,,,xal,Phonemic
+7-480-518-1,kryt1240,Kryz,205,новчаь,CyrillTrans,trough,,,novčä,Phonemic
+7-470-518-1,kryt1240,Kryz,745,реф,CyrillTrans,shelf,,,ref,Phonemic
+7-460-518-1,kryt1240,Kryz,1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-518-1,kryt1240,Kryz,2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, fanar, čirax",Phonemic
+7-450-518-3,kryt1240,Kryz,2131,фанар,CyrillTrans,"lamp, torch",,,"lampa, fanar, čirax",Phonemic
+7-450-518-5,kryt1240,Kryz,2131,чирах,CyrillTrans,"lamp, torch",,,"lampa, fanar, čirax",Phonemic
+7-440-518-1,kryt1240,Kryz,1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-518-1,kryt1240,Kryz,1476,саку,CyrillTrans,chair,,,saku,Phonemic
+7-422-518-1,kryt1240,Kryz,806,йургъан,CyrillTrans,blanket,,,yurɣan,Phonemic
+7-421-518-1,kryt1240,Kryz,1044,кьуджукан,CyrillTrans,pillow,,,qʼuǯukan,Phonemic
+7-420-518-1,kryt1240,Kryz,1663,кьирават,CyrillTrans,bed,,,qʼiravat,Phonemic
+7-370-518-1,kryt1240,Kryz,1464,пилаькаьн,CyrillTrans,ladder,,,piläkän,Phonemic
+7-330-518-1,kryt1240,Kryz,1305,уджагъ,CyrillTrans,chimney,,,uǯaɣ,Phonemic
+7-320-518-1,kryt1240,Kryz,859,саьдж,CyrillTrans,stove,,,säǯ,Phonemic
+7-310-518-1,kryt1240,Kryz,185,уджагъ,CyrillTrans,fireplace,,,uǯaɣ,Phonemic
+7-270-518-1,kryt1240,Kryz,933,дивар,CyrillTrans,wall,,,divar,Phonemic
+7-260-518-1,kryt1240,Kryz,1632,кьум,CyrillTrans,floor,,,qʼum,Phonemic
+7-250-518-1,kryt1240,Kryz,1375,паьндже̌раь,CyrillTrans,window,,,pänǯěrä,Phonemic
+7-240-518-1,kryt1240,Kryz,1472,гьаьче̌р,CyrillTrans,key,,,häčěr,Phonemic
+7-231-518-1,kryt1240,Kryz,1012,ккас,CyrillTrans,"latch, door-bolt",,,"k̄as, šafta",Phonemic
+7-231-518-3,kryt1240,Kryz,1012,шафта,CyrillTrans,"latch, door-bolt",,,"k̄as, šafta",Phonemic
+7-230-518-1,kryt1240,Kryz,1596,кІуфыр,CyrillTrans,lock (noun),,,kʼufɨr,Phonemic
+7-221-518-1,kryt1240,Kryz,80,шафта,CyrillTrans,"doorpost, jamb",,,šafta,Phonemic
+7-210-518-1,kryt1240,Kryz,1450,кIул,CyrillTrans,room,,,"k’ul, bɨnä",Phonemic
+7-210-518-3,kryt1240,Kryz,1450,бынаь,CyrillTrans,room,,,"k’ul, bɨnä",Phonemic
+7-220-518-1,kryt1240,Kryz,1567,раьк,CyrillTrans,"door, gate",,,räk,Phonemic
+7-180-518-1,kryt1240,Kryz,335,кулуб,CyrillTrans,meeting house,,,"kulub, kʼul",Phonemic
+7-180-518-3,kryt1240,Kryz,335,кІул,CyrillTrans,meeting house,,,"kulub, kʼul",Phonemic
+7-170-518-1,kryt1240,Kryz,334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-518-1,kryt1240,Kryz,408,кІул,CyrillTrans,men's house,,,kʼul,Phonemic
+7-150-518-1,kryt1240,Kryz,736,раьк,CyrillTrans,"yard, court",,,räk,Phonemic
+7-140-518-1,kryt1240,Kryz,1316,чадир,CyrillTrans,tent,,,"čadir, alačux",Phonemic
+7-140-518-3,kryt1240,Kryz,1316,алачух,CyrillTrans,tent,,,"čadir, alačux",Phonemic
+7-131-518-1,kryt1240,Kryz,403,кІул,CyrillTrans,garden-house,,,kʼul,Phonemic
+7-130-518-1,kryt1240,Kryz,1678,кІазма,CyrillTrans,hut,,,"kʼazma, qʼazma",Phonemic
+7-130-518-3,kryt1240,Kryz,1678,кьазма,CyrillTrans,hut,,,"kʼazma, qʼazma",Phonemic
+7-120-518-1,kryt1240,Kryz,1252,кІул,CyrillTrans,house,,,"kʼul, doxma",Phonemic
+7-120-518-3,kryt1240,Kryz,1252,дохма,CyrillTrans,house,,,"kʼul, doxma",Phonemic
+7-110-518-1,kryt1240,Kryz,363,гІуьмуьр йе̌джи,CyrillTrans,"dwell, live",,,ʕümür yěǯi,Phonemic
+6-960-518-1,kryt1240,Kryz,1171,гІаьйнаь,CyrillTrans,mirror,,,ʕäynä,Phonemic
+6-950-518-1,kryt1240,Kryz,788,сабын,CyrillTrans,soap,,,"sabɨn, saɣbun",Phonemic
+6-950-518-3,kryt1240,Kryz,788,сагъбун,CyrillTrans,soap,,,"sabɨn, saɣbun",Phonemic
+6-940-518-1,kryt1240,Kryz,1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-518-1,kryt1240,Kryz,151,кантІ,CyrillTrans,razor,,,"kantʼ, ülgüǯ",Phonemic
+6-930-518-3,kryt1240,Kryz,151,уьлгуьдж,CyrillTrans,razor,,,"kantʼ, ülgüǯ",Phonemic
+6-921-518-1,kryt1240,Kryz,333,чІикь,CyrillTrans,braid,,,čʼiq’,Phonemic
+6-920-518-1,kryt1240,Kryz,1821,рагъ,CyrillTrans,brush,,,raɣ,Phonemic
+6-910-518-1,kryt1240,Kryz,1475,рагъ,CyrillTrans,comb,,,raɣ,Phonemic
+6-820-518-1,kryt1240,Kryz,1021,дасмал,CyrillTrans,towel,,,dasmal,Phonemic
+6-810-518-1,kryt1240,Kryz,332,мейзар,CyrillTrans,"handkerchief, rag",,,meyzar,Phonemic
+6-780-518-1,kryt1240,Kryz,330,мейзар,CyrillTrans,"headband, headdress",,,"meyzar, t’ät’äx, čutGu",Phonemic
+6-780-518-3,kryt1240,Kryz,330,тІаьтІаьх,CyrillTrans,"headband, headdress",,,"meyzar, t’ät’äx, čutGu",Phonemic
+6-780-518-5,kryt1240,Kryz,330,чуткъу,CyrillTrans,"headband, headdress",,,"meyzar, t’ät’äx, čutGu",Phonemic
+6-770-518-1,kryt1240,Kryz,770,сиргъаь,CyrillTrans,earring,,,sirɣä,Phonemic
+6-760-518-1,kryt1240,Kryz,1860,чил,CyrillTrans,bead,,,čil,Phonemic
+6-750-518-1,kryt1240,Kryz,1961,голу,CyrillTrans,necklace,,,golu,Phonemic
+6-740-518-1,kryt1240,Kryz,1754,билаьзик,CyrillTrans,bracelet,,,biläzik,Phonemic
+6-730-518-1,kryt1240,Kryz,1374,гаьц,CyrillTrans,ring (for finger),,,"gäc, tʼilɣätʼ",Phonemic
+6-730-518-3,kryt1240,Kryz,1374,тІилгъаьтІ,CyrillTrans,ring (for finger),,,"gäc, tʼilɣätʼ",Phonemic
+6-720-518-1,kryt1240,Kryz,1029,къаш,CyrillTrans,jewel,,,Gaš,Phonemic
+6-710-518-1,kryt1240,Kryz,917,нехиш,CyrillTrans,"ornament, adornment",,,nexiš,Phonemic
+6-630-518-1,kryt1240,Kryz,64,санжагъ,CyrillTrans,pin,,,sanžaɣ,Phonemic
+6-620-518-1,kryt1240,Kryz,757,чІаьфаь,CyrillTrans,button,,,čʼäfä,Phonemic
+6-610-518-1,kryt1240,Kryz,1851,джиб,CyrillTrans,pocket,,,ǯib,Phonemic
+6-590-518-1,kryt1240,Kryz,1151,чадра,CyrillTrans,veil,,,čadra,Phonemic
+6-580-518-1,kryt1240,Kryz,867,аьлдже̌г,CyrillTrans,glove,,,älǯěg,Phonemic
+6-570-518-1,kryt1240,Kryz,772,чІил,CyrillTrans,"belt, girdle",,,čʼil,Phonemic
+6-550-518-1,kryt1240,Kryz,2130,тІабтІаьх,CyrillTrans,"hat, cap",,,tʼabtʼäx,Phonemic
+6-540-518-1,kryt1240,Kryz,875,чакмачи,CyrillTrans,"shoemaker, cobbler",,,čakmači,Phonemic
+6-510-518-1,kryt1240,Kryz,1381,батинка,CyrillTrans,shoe,,,batinka,Phonemic
+6-520-518-1,kryt1240,Kryz,585,чакма,CyrillTrans,boot,,,"čakma, sɨl",Phonemic
+6-520-518-3,kryt1240,Kryz,585,сыл,CyrillTrans,boot,,,"čakma, sɨl",Phonemic
+6-490-518-1,kryt1240,Kryz,329,каьлче̌м,CyrillTrans,"stocking, sock",,,"kälčěm, quqaǯ",Phonemic
+6-490-518-3,kryt1240,Kryz,329,хъухъадж,CyrillTrans,"stocking, sock",,,"kälčěm, quqaǯ",Phonemic
+6-480-518-1,kryt1240,Kryz,809,шалвар,CyrillTrans,trousers,,,šalvar,Phonemic
+6-461-518-1,kryt1240,Kryz,328,йупка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-518-1,kryt1240,Kryz,1600,йупка,CyrillTrans,skirt,,,yupka,Phonemic
+6-450-518-1,kryt1240,Kryz,2012,йехаь,CyrillTrans,collar,,,yexä,Phonemic
+6-440-518-1,kryt1240,Kryz,1622,бигьраьм,CyrillTrans,shirt,,,bihräm,Phonemic
+6-430-518-1,kryt1240,Kryz,603,палту,CyrillTrans,coat,,,paltu,Phonemic
+6-420-518-1,kryt1240,Kryz,474,кІаба,CyrillTrans,woman's dress,,,kʼaba,Phonemic
+6-390-518-1,kryt1240,Kryz,157,лак,CyrillTrans,dye,,,lak,Phonemic
+6-410-518-1,kryt1240,Kryz,326,гьаба,CyrillTrans,cloak,,,haba,Phonemic
+6-380-518-1,kryt1240,Kryz,1161,хи,CyrillTrans,thread,,,xi,Phonemic
+6-360-518-1,kryt1240,Kryz,1382,рыб,CyrillTrans,needle,,,rɨb,Phonemic
+6-370-518-1,kryt1240,Kryz,278,реб,CyrillTrans,awl,,,reb,Phonemic
+6-350-518-1,kryt1240,Kryz,1457,ругъаьджу,CyrillTrans,sew,,,ruɣäǯu,Phonemic
+6-340-518-1,kryt1240,Kryz,1787,гІаьраьджаьр,CyrillTrans,loom,,,ʕäräǯär,Phonemic
+6-330-518-1,kryt1240,Kryz,133,къиширджи,CyrillTrans,weave,,,Giširǯi,Phonemic
+6-320-518-1,kryt1240,Kryz,277,дже̌гьраь,CyrillTrans,spindle,,,ǯěhrä,Phonemic
+6-310-518-1,kryt1240,Kryz,121,чилджи,CyrillTrans,spin,,,"čilǯi, čilǯu",Phonemic
+6-310-518-3,kryt1240,Kryz,121,чилджу,CyrillTrans,spin,,,"čilǯi, čilǯu",Phonemic
+6-290-518-1,kryt1240,Kryz,629,гIич,CyrillTrans,leather,,,"ʕič, leʕ",Phonemic
+6-290-518-3,kryt1240,Kryz,629,легI,CyrillTrans,leather,,,"ʕič, leʕ",Phonemic
+6-280-518-1,kryt1240,Kryz,580,хез,CyrillTrans,fur,,,xez,Phonemic
+6-270-518-1,kryt1240,Kryz,325,чуха,CyrillTrans,felt,,,čuxa,Phonemic
+6-250-518-1,kryt1240,Kryz,1641,ипег,CyrillTrans,silk,,,ipeg,Phonemic
+6-240-518-1,kryt1240,Kryz,1850,пампак,CyrillTrans,cotton,,,"pampak, pambak",Phonemic
+6-240-518-3,kryt1240,Kryz,1850,памбак,CyrillTrans,cotton,,,"pampak, pambak",Phonemic
+6-230-518-1,kryt1240,Kryz,916,катан,CyrillTrans,"linen, flax",,,katan,Phonemic
+6-220-518-1,kryt1240,Kryz,964,йис,CyrillTrans,wool,,,"yis, čʼer",Phonemic
+6-220-518-3,kryt1240,Kryz,964,чІер,CyrillTrans,wool,,,"yis, čʼer",Phonemic
+6-210-518-1,kryt1240,Kryz,1616,парче,CyrillTrans,cloth,,,parče,Phonemic
+6-130-518-1,kryt1240,Kryz,881,дерзичи,CyrillTrans,tailor,,,derziči,Phonemic
+6-120-518-1,kryt1240,Kryz,1895,дерзи,CyrillTrans,"clothing, clothes",,,derzi,Phonemic
+6-110-518-1,kryt1240,Kryz,158,къихоьджуь,CyrillTrans,put on (clothes),,,Gixöǯü,Phonemic
+5-971-518-1,kryt1240,Kryz,1556,кусунтІ,CyrillTrans,egg yolk,,,kusuntʼ,Phonemic
+5-970-518-1,kryt1240,Kryz,744,кусунтІ,CyrillTrans,egg,,,kusuntʼ,Phonemic
+5-940-518-1,kryt1240,Kryz,404,ички,CyrillTrans,fermented drink,,,ički,Phonemic
+5-930-518-1,kryt1240,Kryz,1639,пиво,CyrillTrans,beer,,,pivo,Phonemic
+5-920-518-1,kryt1240,Kryz,1524,чахыр,CyrillTrans,wine,,,čaxɨr,Phonemic
+5-910-518-1,kryt1240,Kryz,941,фи,CyrillTrans,mead,,,fi,Phonemic
+5-900-518-1,kryt1240,Kryz,731,ички,CyrillTrans,"beverage, drink",,,ički,Phonemic
+5-890-518-1,kryt1240,Kryz,1245,це̌м,CyrillTrans,butter,,,сěm,Phonemic
+5-880-518-1,kryt1240,Kryz,1569,ниси,CyrillTrans,cheese,,,"nisi, nis̄i",Phonemic
+5-880-518-3,kryt1240,Kryz,1569,нисси,CyrillTrans,cheese,,,"nisi, nis̄i",Phonemic
+5-870-518-1,kryt1240,Kryz,93,ваьзаьджу,CyrillTrans,milk (vb),,,"väzäǯu, väzäǯi",Phonemic
+5-870-518-3,kryt1240,Kryz,93,ваьзаьджи,CyrillTrans,milk (vb),,,"väzäǯu, väzäǯi",Phonemic
+5-850-518-1,kryt1240,Kryz,862,шаькаьр,CyrillTrans,sugar,,,"šäkär, qʼänd",Phonemic
+5-850-518-3,kryt1240,Kryz,862,кьаьнд,CyrillTrans,sugar,,,"šäkär, qʼänd",Phonemic
+5-860-518-1,kryt1240,Kryz,635,йух,CyrillTrans,milk (noun),,,yux,Phonemic
+5-840-518-1,kryt1240,Kryz,942,йит,CyrillTrans,honey,,,yit,Phonemic
+5-821-518-1,kryt1240,Kryz,919,пимпил,CyrillTrans,chili pepper,,,pimpil,Phonemic
+5-820-518-1,kryt1240,Kryz,1385,истиот,CyrillTrans,pepper,,,"istiot, üstöüt",Phonemic
+5-820-518-3,kryt1240,Kryz,1385,уьстоьуьт,CyrillTrans,pepper,,,"istiot, üstöüt",Phonemic
+5-810-518-1,kryt1240,Kryz,1274,кье̌л,CyrillTrans,salt,,,qʼěl,Phonemic
+5-791-518-1,kryt1240,Kryz,323,маьъ,CyrillTrans,"grease, fat",,,mäʔ,Phonemic
+5-790-518-1,kryt1240,Kryz,1484,дзет,CyrillTrans,oil,,,ʒet,Phonemic
+5-780-518-1,kryt1240,Kryz,1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-518-1,kryt1240,Kryz,920,уьзуьм,CyrillTrans,grape,,,üzüm,Phonemic
+5-770-518-1,kryt1240,Kryz,191,финдых,CyrillTrans,nut,,,"findɨx, äbɨrt",Phonemic
+5-770-518-3,kryt1240,Kryz,191,аьбырт,CyrillTrans,nut,,,"findɨx, äbɨrt",Phonemic
+5-750-518-1,kryt1240,Kryz,322,инжил,CyrillTrans,fig,,,inžil,Phonemic
+5-712-518-1,kryt1240,Kryz,1966,пучок,CyrillTrans,bunch,,,pučok,Phonemic
+5-710-518-1,kryt1240,Kryz,1507,мейва,CyrillTrans,fruit,,,meyva,Phonemic
+5-700-518-1,kryt1240,Kryz,593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-518-1,kryt1240,Kryz,832,пахла,CyrillTrans,bean,,,paxla,Phonemic
+5-650-518-1,kryt1240,Kryz,924,йемиш,CyrillTrans,vegetables,,,yemiš,Phonemic
+5-640-518-1,kryt1240,Kryz,1547,рыкь,CyrillTrans,"soup, broth",,,"rɨqʼ, cʼɨs",Phonemic
+5-640-518-3,kryt1240,Kryz,1547,цІыс,CyrillTrans,"soup, broth",,,"rɨqʼ, cʼɨs",Phonemic
+5-630-518-1,kryt1240,Kryz,1874,йек,CyrillTrans,sausage,,,yek,Phonemic
+5-610-518-1,kryt1240,Kryz,634,йе̌к,CyrillTrans,meat,,,yěk,Phonemic
+5-590-518-1,kryt1240,Kryz,225,къватІидж,CyrillTrans,pestle,,,Gʷatʼiǯ,Phonemic
+5-580-518-1,kryt1240,Kryz,224,гьевенг,CyrillTrans,mortar (2),,,heveng,Phonemic
+5-570-518-1,kryt1240,Kryz,636,хІув,CyrillTrans,mill,,,ћuv,Phonemic
+5-560-518-1,kryt1240,Kryz,1033,чІихъа йе̌джи,CyrillTrans,"crush, grind",,,čʼiqa yěǯi,Phonemic
+5-550-518-1,kryt1240,Kryz,1594,раьхІаьдж,CyrillTrans,"meal, flour",,,"räħäǯ, rahaǯ",Phonemic
+5-550-518-3,kryt1240,Kryz,1594,рагьадж,CyrillTrans,"meal, flour",,,"räħäǯ, rahaǯ",Phonemic
+5-540-518-1,kryt1240,Kryz,274,хаьмир йе̌джи,CyrillTrans,knead,,,"xämir yěǯi, Gäpхurǯu",Phonemic
+5-540-518-3,kryt1240,Kryz,274,къаьрхурджи,CyrillTrans,knead,,,"xämir yěǯi, Gäpхurǯu",Phonemic
+5-530-518-1,kryt1240,Kryz,273,хаьмир,CyrillTrans,dough,,,xämir,Phonemic
+5-510-518-1,kryt1240,Kryz,1368,фу,CyrillTrans,bread,,,"fu, ǯerarang, čět’, k’uk’",Phonemic
+5-510-518-3,kryt1240,Kryz,1368,джераранг,CyrillTrans,bread,,,"fu, ǯerarang, čět’, k’uk’",Phonemic
+5-510-518-5,kryt1240,Kryz,1368,че̌тІ,CyrillTrans,bread,,,"fu, ǯerarang, čět’, k’uk’",Phonemic
+5-510-518-7,kryt1240,Kryz,1368,кІукІ,CyrillTrans,bread,,,"fu, ǯerarang, čět’, k’uk’",Phonemic
+5-490-518-1,kryt1240,Kryz,2017,чихар йе̌джи,CyrillTrans,"stir, mix",,,čixar yěǯi,Phonemic
+5-480-518-1,kryt1240,Kryz,1767,къытхІаьджи,CyrillTrans,scrape,,,Gɨtћäǯi,Phonemic
+5-470-518-1,kryt1240,Kryz,86,гІаьтІджи,CyrillTrans,"sieve, strain",,,ʕätʼǯi,Phonemic
+5-460-518-1,kryt1240,Kryz,275,таьмиши йе̌джи,CyrillTrans,peel,,,tämiši yěǯi,Phonemic
+5-440-518-1,kryt1240,Kryz,1833,хурак,CyrillTrans,dinner,,,xurak,Phonemic
+5-420-518-1,kryt1240,Kryz,1322,нагьар,CyrillTrans,breakfast,,,nahar,Phonemic
+5-391-518-1,kryt1240,Kryz,272,меше̌,CyrillTrans,tongs,,,mešě,Phonemic
+5-390-518-1,kryt1240,Kryz,1302,хинер,CyrillTrans,fork (2),,,xiner,Phonemic
+5-380-518-1,kryt1240,Kryz,1352,кІаьнтІ,CyrillTrans,knife (2),,,"k’äntʼ, GaGam",Phonemic
+5-380-518-3,kryt1240,Kryz,1352,къакъам,CyrillTrans,knife (2),,,"k’äntʼ, GaGam",Phonemic
+5-370-518-1,kryt1240,Kryz,1378,тІыр,CyrillTrans,spoon,,,tʼɨr,Phonemic
+5-360-518-1,kryt1240,Kryz,271,бышкьаб,CyrillTrans,saucer,,,bɨšqʼab,Phonemic
+5-330-518-1,kryt1240,Kryz,1530,сукІра,CyrillTrans,bowl,,,sukʼra,Phonemic
+5-340-518-1,kryt1240,Kryz,270,гаьджин,CyrillTrans,"pitcher, jug",,,"gäǯin, kutar, q’ěč, k’ädäh",Phonemic
+5-340-518-3,kryt1240,Kryz,270,кутар,CyrillTrans,"pitcher, jug",,,"gäǯin, kutar, q’ěč, k’ädäh",Phonemic
+5-340-518-5,kryt1240,Kryz,270,кье̌ч,CyrillTrans,"pitcher, jug",,,"gäǯin, kutar, q’ěč, k’ädäh",Phonemic
+5-340-518-7,kryt1240,Kryz,270,кІаьдаьгь,CyrillTrans,"pitcher, jug",,,"gäǯin, kutar, q’ěč, k’ädäh",Phonemic
+5-320-518-1,kryt1240,Kryz,480,дуьхар,CyrillTrans,plate,,,düxar,Phonemic
+5-310-518-1,kryt1240,Kryz,481,бышкьаб,CyrillTrans,dish,,,bɨšqʼab,Phonemic
+5-280-518-1,kryt1240,Kryz,31,кІадыр,CyrillTrans,pan,,,kʼadɨr,Phonemic
+5-260-518-1,kryt1240,Kryz,1462,кІаьдыр,CyrillTrans,"pot, cooking vessel",,,"kʼädɨr, Gäžäncě",Phonemic
+5-260-518-3,kryt1240,Kryz,1462,къаьжаьнче̌,CyrillTrans,"pot, cooking vessel",,,"kʼädɨr, Gäžäncě",Phonemic
+5-270-518-1,kryt1240,Kryz,854,чайникІ,CyrillTrans,kettle,,,"čaynikʼ, čaydan",Phonemic
+5-270-518-3,kryt1240,Kryz,854,чайдан,CyrillTrans,kettle,,,"čaynikʼ, čaydan",Phonemic
+5-240-518-1,kryt1240,Kryz,183,гІайсаьджи,CyrillTrans,bake,,,ʕaysäǯi,Phonemic
+5-250-518-1,kryt1240,Kryz,1143,таьндыр,CyrillTrans,oven,,,tändɨr,Phonemic
+5-230-518-1,kryt1240,Kryz,2146,гІайсаьджи,CyrillTrans,"roast, fry",,,ʕaysäǯi,Phonemic
+5-220-518-1,kryt1240,Kryz,792,джирджи,CyrillTrans,boil (vb),,,"ǯirǯi, ǯirǯu",Phonemic
+5-220-518-3,kryt1240,Kryz,792,джирджу,CyrillTrans,boil (vb),,,"ǯirǯi, ǯirǯu",Phonemic
+5-210-518-1,kryt1240,Kryz,1100,джиджи,CyrillTrans,cook,,,ǯiǯi,Phonemic
+5-181-518-1,kryt1240,Kryz,897,гІабгъулджи,CyrillTrans,swallow,,,"ʕabɣulǯi, ʕabɣulǯu",Phonemic
+5-181-518-3,kryt1240,Kryz,897,гІабгъулджу,CyrillTrans,swallow,,,"ʕabɣulǯi, ʕabɣulǯu",Phonemic
+5-180-518-1,kryt1240,Kryz,321,чІам йе̌джи,CyrillTrans,chew,,,"čʼam yěǯi, č’oqaǯi",Phonemic
+5-180-518-3,kryt1240,Kryz,321,чІохъаджи,CyrillTrans,chew,,,"čʼam yěǯi, č’oqaǯi",Phonemic
+5-160-518-1,kryt1240,Kryz,1421,чІув йе̌джи,CyrillTrans,suck,,,čʼuv yěǯi,Phonemic
+5-150-518-1,kryt1240,Kryz,848,ташна,CyrillTrans,thirst,,,tašna,Phonemic
+5-130-518-1,kryt1240,Kryz,1401,къырджу,CyrillTrans,drink,,,"Gɨrǯu, Gɨrǯi",Phonemic
+5-130-518-3,kryt1240,Kryz,1401,къырджи,CyrillTrans,drink,,,"Gɨrǯu, Gɨrǯi",Phonemic
+5-125-518-1,kryt1240,Kryz,1728,себче,CyrillTrans,rotten,,,sebče,Phonemic
+5-124-518-1,kryt1240,Kryz,1958,кал,CyrillTrans,"green, unripe",,,kal,Phonemic
+5-123-518-1,kryt1240,Kryz,178,дегми,CyrillTrans,ripe,,,degmi,Phonemic
+5-120-518-1,kryt1240,Kryz,256,хирак,CyrillTrans,food,,,xirak,Phonemic
+5-110-518-1,kryt1240,Kryz,1336,гІулджи,CyrillTrans,eat,,,"ʕulǯi, ʕulǯu",Phonemic
+5-110-518-3,kryt1240,Kryz,1336,гІулджу,CyrillTrans,eat,,,"ʕulǯi, ʕulǯu",Phonemic
+4-990-518-1,kryt1240,Kryz,590,кьацІин,CyrillTrans,"naked, bare",,,qʼacʼin,Phonemic
+4-970-518-1,kryt1240,Kryz,1653,били,CyrillTrans,blind,,,bili,Phonemic
+4-980-518-1,kryt1240,Kryz,1463,кефли,CyrillTrans,intoxicated,,,kefli,Phonemic
+4-960-518-1,kryt1240,Kryz,1666,лал,CyrillTrans,mute,,,lal,Phonemic
+4-950-518-1,kryt1240,Kryz,996,беши,CyrillTrans,deaf,,,beši,Phonemic
+4-930-518-1,kryt1240,Kryz,1125,кача,CyrillTrans,bald,,,kača,Phonemic
+4-940-518-1,kryt1240,Kryz,320,лукад,CyrillTrans,lame,,,lukad,Phonemic
+4-920-518-1,kryt1240,Kryz,1564,танпал,CyrillTrans,lazy,,,tanpal,Phonemic
+4-910-518-1,kryt1240,Kryz,1757,йургъун,CyrillTrans,"tired, weary",,,yurɣun,Phonemic
+4-890-518-1,kryt1240,Kryz,655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-518-1,kryt1240,Kryz,1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-880-518-3,kryt1240,Kryz,1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-870-518-1,kryt1240,Kryz,597,духтур,CyrillTrans,physician,,,"duxtur, ћäkim",Phonemic
+4-870-518-3,kryt1240,Kryz,597,хІаьким,CyrillTrans,physician,,,"duxtur, ћäkim",Phonemic
+4-860-518-1,kryt1240,Kryz,499,сагъ йе̌джи,CyrillTrans,"cure, heal",,,saɣ yěǯi,Phonemic
+4-858-518-1,kryt1240,Kryz,497,ин,CyrillTrans,scar,,,"in, nisān",Phonemic
+4-858-518-3,kryt1240,Kryz,497,нисāн,CyrillTrans,scar,,,"in, nisān",Phonemic
+4-857-518-1,kryt1240,Kryz,1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-518-1,kryt1240,Kryz,793,гыргыр,CyrillTrans,boil (noun),,,gɨrgɨr,Phonemic
+4-855-518-1,kryt1240,Kryz,1584,тIыр,CyrillTrans,blister,,,tɨr,Phonemic
+4-854-518-1,kryt1240,Kryz,148,хътур,CyrillTrans,itch,,,qtur,Phonemic
+4-853-518-1,kryt1240,Kryz,1903,шиш,CyrillTrans,swelling,,,šiš,Phonemic
+4-852-518-1,kryt1240,Kryz,1148,ин,CyrillTrans,bruise,,,in,Phonemic
+4-850-518-1,kryt1240,Kryz,1109,хыр,CyrillTrans,"wound, sore",,,xɨr,Phonemic
+4-843-518-1,kryt1240,Kryz,102,зукІан,CyrillTrans,cold (catarrh),,,zukʼan,Phonemic
+4-842-518-1,kryt1240,Kryz,1957,чаьнаьдаьн,CyrillTrans,goiter,,,čänädän,Phonemic
+4-841-518-1,kryt1240,Kryz,1534,тит хьиджи,CyrillTrans,fever,,,tit x̌iǯi,Phonemic
+4-840-518-1,kryt1240,Kryz,1847,азару,CyrillTrans,"sick, sickness",,,"azaru, azalɨ",Phonemic
+4-840-518-3,kryt1240,Kryz,1847,азалы,CyrillTrans,"sick, sickness",,,"azaru, azalɨ",Phonemic
+4-830-518-1,kryt1240,Kryz,1364,джан,CyrillTrans,"well, health",,,"ǯan, ǯanlu, saɣlam",Phonemic
+4-830-518-3,kryt1240,Kryz,1364,джанлу,CyrillTrans,"well, health",,,"ǯan, ǯanlu, saɣlam",Phonemic
+4-830-518-5,kryt1240,Kryz,1364,сагълам,CyrillTrans,"well, health",,,"ǯan, ǯanlu, saɣlam",Phonemic
+4-820-518-1,kryt1240,Kryz,1601,джелеб,CyrillTrans,weak,,,ǯeleb,Phonemic
+4-810-518-1,kryt1240,Kryz,785,гуджлу,CyrillTrans,"strong, mighty, powerful",,,guǯlu,Phonemic
+4-790-518-1,kryt1240,Kryz,1773,зейрат,CyrillTrans,"grave, tomb",,,zeyrat,Phonemic
+4-780-518-1,kryt1240,Kryz,1719,чашкырыджи,CyrillTrans,bury (the dead),,,čaškɨrɨǯi,Phonemic
+4-770-518-1,kryt1240,Kryz,767,джасад,CyrillTrans,corpse,,,"ǯasad, mayit",Phonemic
+4-770-518-3,kryt1240,Kryz,767,майит,CyrillTrans,corpse,,,"ǯasad, mayit",Phonemic
+4-760-518-1,kryt1240,Kryz,1417,кьайыджи,CyrillTrans,kill,,,qʼayɨǯi,Phonemic
+4-750-518-1,kryt1240,Kryz,1494,кьаьйджу,CyrillTrans,"die, dead",,,"qʼäyǯu, qʼäyǯi",Phonemic
+4-750-518-3,kryt1240,Kryz,1494,кьаьйджи,CyrillTrans,"die, dead",,,"qʼäyǯu, qʼäyǯi",Phonemic
+4-740-518-1,kryt1240,Kryz,1422,гІумуьр,CyrillTrans,"live, living, life",,,"ʕumür, diribaš, ʕumür yěǯi",Phonemic
+4-740-518-3,kryt1240,Kryz,1422,дирибаш,CyrillTrans,"live, living, life",,,"ʕumür, diribaš, ʕumür yěǯi",Phonemic
+4-740-518-5,kryt1240,Kryz,1422,гІумуьр йе̌джи,CyrillTrans,"live, living, life",,,"ʕumür, diribaš, ʕumür yěǯi",Phonemic
+4-720-518-1,kryt1240,Kryz,1090,гІайел йе̌джи,CyrillTrans,born (to be),,,ʕayel yěǯi,Phonemic
+4-710-518-1,kryt1240,Kryz,1152,йе̌джи,CyrillTrans,beget (of father),,,yěǯi,Phonemic
+4-680-518-1,kryt1240,Kryz,52,aьсаьджи,CyrillTrans,shiver,,,"äsäǯi, väsäǯu",Phonemic
+4-680-518-3,kryt1240,Kryz,52,ваьсаьджу,CyrillTrans,shiver,,,"äsäǯi, väsäǯu",Phonemic
+4-670-518-1,kryt1240,Kryz,1785,ваьджу,CyrillTrans,have sexual intercourse,,,väǯu,Phonemic
+4-660-518-1,kryt1240,Kryz,676,хІуьргьаьджи,CyrillTrans,defecate,,,"ћürhäǯi, ћürћäǯu",Phonemic
+4-660-518-3,kryt1240,Kryz,676,хІуьрхІаьджу,CyrillTrans,defecate,,,"ћürhäǯi, ћürћäǯu",Phonemic
+4-650-518-1,kryt1240,Kryz,592,зир къаьгІджи,CyrillTrans,urinate,,,"zir Gäʕǯi, ʒir Gäʕǯu",Phonemic
+4-650-518-3,kryt1240,Kryz,592,дзир къаьгІджу,CyrillTrans,urinate,,,"zir Gäʕǯi, ʒir Gäʕǯu",Phonemic
+4-620-518-1,kryt1240,Kryz,1920,некь ирхъаджи,CyrillTrans,dream,,,neq’ irqaǯi,Phonemic
+4-612-518-1,kryt1240,Kryz,1983,хурулджи,CyrillTrans,snore,,,xurulǯi,Phonemic
+4-610-518-1,kryt1240,Kryz,1585,аьхырджи,CyrillTrans,sleep,,,"äxɨrǯi, äxruǯu",Phonemic
+4-610-518-3,kryt1240,Kryz,1585,аьхруджу,CyrillTrans,sleep,,,"äxɨrǯi, äxruǯu",Phonemic
+4-591-518-1,kryt1240,Kryz,268,ре̌гъ къаьгІджи,CyrillTrans,dribble,,,"rěɣ Gäʕǯi, reɣ Gäʕǯu",Phonemic
+4-591-518-3,kryt1240,Kryz,268,ре̌гъ къаьгІджу,CyrillTrans,dribble,,,"rěɣ Gäʕǯi, reɣ Gäʕǯu",Phonemic
+4-590-518-1,kryt1240,Kryz,319,ламджи,CyrillTrans,lick,,,"lamǯi, mez vuǯu",Phonemic
+4-590-518-3,kryt1240,Kryz,319,мез вуджу,CyrillTrans,lick,,,"lamǯi, mez vuǯu",Phonemic
+4-580-518-1,kryt1240,Kryz,1403,кІыпджу,CyrillTrans,bite,,,"kʼɨpǯu, kʼɨpǯi",Phonemic
+4-580-518-3,kryt1240,Kryz,1403,кІыпджи,CyrillTrans,bite,,,"kʼɨpǯu, kʼɨpǯi",Phonemic
+4-560-518-1,kryt1240,Kryz,1440,тфуь ваьджи,CyrillTrans,spit,,,tfu väǯi,Phonemic
+4-550-518-1,kryt1240,Kryz,126,гIакь ихьджи,CyrillTrans,perspire,,,ʕaq’ ix̌ǯi,Phonemic
+4-540-518-1,kryt1240,Kryz,1621,гьацІджи,CyrillTrans,sneeze,,,hacʼǯi,Phonemic
+4-530-518-1,kryt1240,Kryz,879,ахІар ваьджи,CyrillTrans,cough,,,aћard väǯi,Phonemic
+4-521-518-1,kryt1240,Kryz,162,гьекІджи,CyrillTrans,hiccough,,,hekʼǯi,Phonemic
+4-520-518-1,kryt1240,Kryz,1028,гьагьджи,CyrillTrans,"yawn, gape",,,hahǯi,Phonemic
+4-510-518-1,kryt1240,Kryz,1407,гьава,CyrillTrans,"breathe, breath",,,hava,Phonemic
+4-492-518-1,kryt1240,Kryz,1222,гаьдаьн,CyrillTrans,penis,,,gädän,Phonemic
+4-490-518-1,kryt1240,Kryz,797,тІасагъ,CyrillTrans,testicle,,,tʼasaɣ,Phonemic
+4-464-518-1,kryt1240,Kryz,834,гылаь,CyrillTrans,buttocks,,,gɨlä,Phonemic
+4-463-518-1,kryt1240,Kryz,1745,йетир,CyrillTrans,hip,,,"yetir, kʷani",Phonemic
+4-463-518-3,kryt1240,Kryz,1745,квани,CyrillTrans,hip,,,"yetir, kʷani",Phonemic
+4-462-518-1,kryt1240,Kryz,1681,йикь,CyrillTrans,waist,,,yiqʼ,Phonemic
+4-461-518-1,kryt1240,Kryz,1991,гІиниб,CyrillTrans,"intestines, guts",,,ʕinib,Phonemic
+4-460-518-1,kryt1240,Kryz,819,маьгІдаь,CyrillTrans,stomach,,,mäʕdä,Phonemic
+4-452-518-1,kryt1240,Kryz,1744,бегил лаьхIкаьн,CyrillTrans,spleen,,,begil läħkän,Phonemic
+4-451-518-1,kryt1240,Kryz,489,кІватин,CyrillTrans,kidney,,,kʼʷatin,Phonemic
+4-450-518-1,kryt1240,Kryz,1224,лаьхIаь лаьхIкаьн,CyrillTrans,liver,,,läħä läħkän,Phonemic
+4-441-518-1,kryt1240,Kryz,688,лаьзи лаьхIкаьн,CyrillTrans,lung,,,läzi läħkän,Phonemic
+4-440-518-1,kryt1240,Kryz,1223,йикІ,CyrillTrans,heart,,,yikʼ,Phonemic
+4-430-518-1,kryt1240,Kryz,1838,бичІ,CyrillTrans,navel,,,bičʼ,Phonemic
+4-420-518-1,kryt1240,Kryz,154,хІаьви,CyrillTrans,udder,,,ћävi,Phonemic
+4-412-518-1,kryt1240,Kryz,796,йе̌хаь,CyrillTrans,"nipple, teat",,,yěxa,Phonemic
+4-410-518-1,kryt1240,Kryz,1402,махар,CyrillTrans,breast (of woman),,,maxar,Phonemic
+4-400-518-1,kryt1240,Kryz,1592,махар,CyrillTrans,chest,,,maxar,Phonemic
+4-393-518-1,kryt1240,Kryz,1201,квак,CyrillTrans,feather,,,kʷak,Phonemic
+4-392-518-1,kryt1240,Kryz,1257,къаьнаьт,CyrillTrans,wing,,,Gänät,Phonemic
+4-380-518-1,kryt1240,Kryz,1389,тІил,CyrillTrans,toe,,,tʼil,Phonemic
+4-374-518-1,kryt1240,Kryz,318,рапыл,CyrillTrans,footprint,,,rapɨl,Phonemic
+4-372-518-1,kryt1240,Kryz,980,дабан,CyrillTrans,heel,,,daban,Phonemic
+4-371-518-1,kryt1240,Kryz,803,тІубух,CyrillTrans,ankle,,,tʼubux,Phonemic
+4-370-518-1,kryt1240,Kryz,1301,къили кьаьн,CyrillTrans,foot,,,Gili q’än,Phonemic
+4-360-518-1,kryt1240,Kryz,1371,пип,CyrillTrans,knee,,,pip,Phonemic
+4-352-518-1,kryt1240,Kryz,498,гъачІа,CyrillTrans,calf of leg,,,"ɣačʼa, ɣacʼa",Phonemic
+4-352-518-3,kryt1240,Kryz,498,гъацІа,CyrillTrans,calf of leg,,,"ɣačʼa, ɣacʼa",Phonemic
+4-351-518-1,kryt1240,Kryz,800,йетир,CyrillTrans,thigh,,,yetir,Phonemic
+4-350-518-1,kryt1240,Kryz,1297,къил,CyrillTrans,leg,,,Gil,Phonemic
+4-345-518-1,kryt1240,Kryz,72,дырнах,CyrillTrans,claw,,,dɨrnax,Phonemic
+4-344-518-1,kryt1240,Kryz,1258,мичІе̌к,CyrillTrans,fingernail,,,mičʼěk,Phonemic
+4-342-518-1,kryt1240,Kryz,1781,бу тІил,CyrillTrans,thumb,,,bu tʼil,Phonemic
+4-340-518-1,kryt1240,Kryz,1303,тІил,CyrillTrans,finger,,,tʼil,Phonemic
+4-331-518-1,kryt1240,Kryz,1183,хаба йикьыч,CyrillTrans,palm of hand,,,Xaba yiq’ɨč,Phonemic
+4-330-518-1,kryt1240,Kryz,1277,хаьб,CyrillTrans,hand,,,xäb,Phonemic
+4-321-518-1,kryt1240,Kryz,799,билек,CyrillTrans,wrist,,,bilek,Phonemic
+4-320-518-1,kryt1240,Kryz,981,ийичутІ,CyrillTrans,elbow,,,iyičut’,Phonemic
+4-312-518-1,kryt1240,Kryz,1886,къитугъ,CyrillTrans,armpit,,,"Gituɣ, käl",Phonemic
+4-312-518-3,kryt1240,Kryz,1886,каьл,CyrillTrans,armpit,,,"Gituɣ, käl",Phonemic
+4-310-518-1,kryt1240,Kryz,1673,хаьб,CyrillTrans,arm,,,xäb,Phonemic
+4-302-518-1,kryt1240,Kryz,1994,джинаб,CyrillTrans,collarbone,,,ǯinab,Phonemic
+4-301-518-1,kryt1240,Kryz,172,холсаь,CyrillTrans,shoulderblade,,,"xolsä, ber",Phonemic
+4-301-518-3,kryt1240,Kryz,172,бер,CyrillTrans,shoulderblade,,,"xolsä, ber",Phonemic
+4-300-518-1,kryt1240,Kryz,1482,хъунаь,CyrillTrans,shoulder,,,qunä,Phonemic
+4-290-518-1,kryt1240,Kryz,1346,гаьли,CyrillTrans,throat,,,gäli,Phonemic
+4-281-518-1,kryt1240,Kryz,1347,тапа,CyrillTrans,nape of neck,,,tapa,Phonemic
+4-280-518-1,kryt1240,Kryz,1333,гардан,CyrillTrans,neck,,,gardan,Phonemic
+4-272-518-1,kryt1240,Kryz,1049,сахк,CyrillTrans,molartooth,,,sax,Phonemic
+4-270-518-1,kryt1240,Kryz,1380,сил,CyrillTrans,tooth,,,sil,Phonemic
+4-271-518-1,kryt1240,Kryz,139,дий,CyrillTrans,gums,,,"diy, diyri",Phonemic
+4-271-518-3,kryt1240,Kryz,139,дийри,CyrillTrans,gums,,,"diy, diyri",Phonemic
+4-260-518-1,kryt1240,Kryz,1205,мез,CyrillTrans,tongue,,,"mez, mäz",Phonemic
+4-260-518-3,kryt1240,Kryz,1205,маьз,CyrillTrans,tongue,,,"mez, mäz",Phonemic
+4-250-518-1,kryt1240,Kryz,478,пе̌кІ,CyrillTrans,lip,,,pěkʼ,Phonemic
+4-241-518-1,kryt1240,Kryz,73,диндигъ,CyrillTrans,beak,,,dindiɣ,Phonemic
+4-240-518-1,kryt1240,Kryz,674,сив,CyrillTrans,mouth,,,"siv, süv",Phonemic
+4-240-518-3,kryt1240,Kryz,674,суьв,CyrillTrans,mouth,,,"siv, süv",Phonemic
+4-232-518-1,kryt1240,Kryz,208,шимитІ,CyrillTrans,mucus (nasal),,,šimitʼ,Phonemic
+4-231-518-1,kryt1240,Kryz,1178,миъе̌л,CyrillTrans,nostril,,,miʔěl,Phonemic
+4-230-518-1,kryt1240,Kryz,1221,миъел,CyrillTrans,nose,,,miʔel,Phonemic
+4-222-518-1,kryt1240,Kryz,32,чІукь,CyrillTrans,earwax,,,čʼuqʼ,Phonemic
+4-221-518-1,kryt1240,Kryz,18,ибыр,CyrillTrans,earlobe,,,ibɨr,Phonemic
+4-220-518-1,kryt1240,Kryz,1247,сибел,CyrillTrans,ear,,,sibel,Phonemic
+4-214-518-1,kryt1240,Kryz,1540,цІапІ,CyrillTrans,eyelash,,,"cʼapʼ, c’ap, meǯe",Phonemic
+4-214-518-3,kryt1240,Kryz,1540,цІап,CyrillTrans,eyelash,,,"cʼapʼ, c’ap, meǯe",Phonemic
+4-214-518-5,kryt1240,Kryz,1540,медже,CyrillTrans,eyelash,,,"cʼapʼ, c’ap, meǯe",Phonemic
+4-213-518-1,kryt1240,Kryz,17,гІуьлцІаьм,CyrillTrans,eyelid,,,ʕülcʼäm,Phonemic
+4-212-518-1,kryt1240,Kryz,1173,гІуьлцІаьм,CyrillTrans,eyebrow,,,ʕülcʼäm,Phonemic
+4-210-518-1,kryt1240,Kryz,1248,гІуьл,CyrillTrans,eye,,,ʕül,Phonemic
+4-208-518-1,kryt1240,Kryz,1730,кІватІин,CyrillTrans,cheek,,,kʼʷatʼin,Phonemic
+4-209-518-1,kryt1240,Kryz,1510,че̌наь,CyrillTrans,chin,,,čе̌nä,Phonemic
+4-205-518-1,kryt1240,Kryz,123,бел,CyrillTrans,forehead,,,bel,Phonemic
+4-207-518-1,kryt1240,Kryz,798,чІаьнаь,CyrillTrans,jaw,,,čʼänä,Phonemic
+4-204-518-1,kryt1240,Kryz,1560,иджин,CyrillTrans,face,,,iǯin,Phonemic
+4-203-518-1,kryt1240,Kryz,1583,бейин,CyrillTrans,brain,,,beyin,Phonemic
+4-201-518-1,kryt1240,Kryz,1604,гиджгавгъ,CyrillTrans,"side of head, temple",,,giǯgavɣ,Phonemic
+4-202-518-1,kryt1240,Kryz,1605,каьллаь,CyrillTrans,skull,,,källä,Phonemic
+4-200-518-1,kryt1240,Kryz,1256,кьыл,CyrillTrans,head,,,qʼɨl,Phonemic
+4-191-518-1,kryt1240,Kryz,805,курек,CyrillTrans,spine,,,kurek,Phonemic
+4-190-518-1,kryt1240,Kryz,1291,йикь,CyrillTrans,back,,,yiqʼ,Phonemic
+4-180-518-1,kryt1240,Kryz,1220,джи,CyrillTrans,tail,,,ǯi,Phonemic
+4-170-518-1,kryt1240,Kryz,1393,каьч,CyrillTrans,horn,,,käč,Phonemic
+4-162-518-1,kryt1240,Kryz,801,бекІ,CyrillTrans,rib,,,"bekʼ, bekʼrim",Phonemic
+4-162-518-3,kryt1240,Kryz,801,бекІрим,CyrillTrans,rib,,,"bekʼ, bekʼrim",Phonemic
+4-160-518-1,kryt1240,Kryz,1394,кІаьраьпІ,CyrillTrans,bone,,,kʼäräpʼ,Phonemic
+4-151-518-1,kryt1240,Kryz,525,дамар,CyrillTrans,"vein, artery",,,damar,Phonemic
+4-150-518-1,kryt1240,Kryz,946,ираьдж,CyrillTrans,blood,,,iräǯ,Phonemic
+4-146-518-1,kryt1240,Kryz,576,какак,CyrillTrans,dandruff,,,kakak,Phonemic
+4-145-518-1,kryt1240,Kryz,36,чІер,CyrillTrans,pubic hair,,,čʼer,Phonemic
+4-144-518-1,kryt1240,Kryz,189,чІер,CyrillTrans,body hair,,,čʼer,Phonemic
+4-142-518-1,kryt1240,Kryz,678,джири,CyrillTrans,beard,,,ǯiri,Phonemic
+4-140-518-1,kryt1240,Kryz,1040,чІер,CyrillTrans,hair (head),,,čʼer,Phonemic
+4-130-518-1,kryt1240,Kryz,2259,дже̌ндаьк,CyrillTrans,flesh,,,ǯěndäk,Phonemic
+4-120-518-1,kryt1240,Kryz,763,гъич,CyrillTrans,"skin, hide",,,ɣič,Phonemic
+4-110-518-1,kryt1240,Kryz,1480,тан,CyrillTrans,body,,,tan,Phonemic
+3-980-518-1,kryt1240,Kryz,112,багъаь,CyrillTrans,turtle,,,baɣä,Phonemic
+3-970-518-1,kryt1240,Kryz,1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-518-1,kryt1240,Kryz,632,цІинцІаьквай,CyrillTrans,lizard,,,cʼincʼäkʷay,Phonemic
+3-950-518-1,kryt1240,Kryz,503,къуб,CyrillTrans,frog,,,Gub,Phonemic
+3-940-518-1,kryt1240,Kryz,1543,шийтІан,CyrillTrans,snail,,,šiytʼan,Phonemic
+3-930-518-1,kryt1240,Kryz,607,цІылцІаьнг,CyrillTrans,grasshopper,,,cʼɨlcʼäng,Phonemic
+3-920-518-1,kryt1240,Kryz,1791,куьбелек,CyrillTrans,butterfly,,,"kübelek, pämpäl",Phonemic
+3-920-518-3,kryt1240,Kryz,1791,паьмпаьл,CyrillTrans,butterfly,,,"kübelek, pämpäl",Phonemic
+3-910-518-1,kryt1240,Kryz,206,цІарцІар,CyrillTrans,firefly,,,cʼarcʼar,Phonemic
+3-850-518-1,kryt1240,Kryz,730,илан,CyrillTrans,snake,,,ilan,Phonemic
+3-840-518-1,kryt1240,Kryz,1219,квак,CyrillTrans,worm,,,kʷak,Phonemic
+3-832-518-1,kryt1240,Kryz,1509,цІу,CyrillTrans,mosquito,,,cʼu,Phonemic
+3-831-518-1,kryt1240,Kryz,95,мичек,CyrillTrans,"sandfly (midge), gnat",,,miček,Phonemic
+3-830-518-1,kryt1240,Kryz,1504,тІытІ,CyrillTrans,fly,,,tʼɨtʼ,Phonemic
+3-823-518-1,kryt1240,Kryz,1517,хІуьнуь,CyrillTrans,wasp,,,"ћünü, ɣünü",Phonemic
+3-823-518-3,kryt1240,Kryz,1517,гъуьнуь,CyrillTrans,wasp,,,"ћünü, ɣünü",Phonemic
+3-822-518-1,kryt1240,Kryz,88,тІаьпаьн,CyrillTrans,beehive,,,tʼäpän,Phonemic
+3-821-518-1,kryt1240,Kryz,1931,мам,CyrillTrans,beeswax,,,mam,Phonemic
+3-820-518-1,kryt1240,Kryz,665,шерджи,CyrillTrans,bee,,,"šerǯi, t’ɨt’",Phonemic
+3-820-518-3,kryt1240,Kryz,665,тIытI,CyrillTrans,bee,,,"šerǯi, t’ɨt’",Phonemic
+3-819-518-1,kryt1240,Kryz,1065,меш,CyrillTrans,spider web,,,meš,Phonemic
+3-818-518-1,kryt1240,Kryz,843,урумдже̌г,CyrillTrans,spider,,,urumǯěg,Phonemic
+3-817-518-1,kryt1240,Kryz,587,зыр,CyrillTrans,ant,,,"zɨr, ʒɨr",Phonemic
+3-817-518-3,kryt1240,Kryz,587,дзыр,CyrillTrans,ant,,,"zɨr, ʒɨr",Phonemic
+3-816-518-1,kryt1240,Kryz,1575,лем,CyrillTrans,cockroach,,,lem,Phonemic
+3-815-518-1,kryt1240,Kryz,1538,акьраб,CyrillTrans,scorpion,,,aqʼrab,Phonemic
+3-814-518-1,kryt1240,Kryz,1974,къирхайагъ,CyrillTrans,centipede,,,Girxayaɣ,Phonemic
+3-813-518-1,kryt1240,Kryz,232,чІид,CyrillTrans,flea,,,čʼid,Phonemic
+3-812-518-1,kryt1240,Kryz,267,тІе,CyrillTrans,nit (louse egg),,,tʼe,Phonemic
+3-811-518-1,kryt1240,Kryz,1392,лиш,CyrillTrans,louse,,,liš,Phonemic
+3-810-518-1,kryt1240,Kryz,620,хІаьшарат,CyrillTrans,insect,,,ћäšarat,Phonemic
+3-780-518-1,kryt1240,Kryz,1871,деве,CyrillTrans,camel,,,"deve, navar",Phonemic
+3-780-518-3,kryt1240,Kryz,1871,навар,CyrillTrans,camel,,,"deve, navar",Phonemic
+3-770-518-1,kryt1240,Kryz,1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-518-1,kryt1240,Kryz,1350,меймун,CyrillTrans,monkey,,,meymun,Phonemic
+3-750-518-1,kryt1240,Kryz,1936,дагъджи каьл,CyrillTrans,deer,,,"daɣǯi käl, ǯeyran, mirɣ, maral",Phonemic
+3-750-518-3,kryt1240,Kryz,1936,джейран,CyrillTrans,deer,,,"daɣǯi käl, ǯeyran, mirɣ, maral",Phonemic
+3-750-518-5,kryt1240,Kryz,1936,миргъ,CyrillTrans,deer,,,"daɣǯi käl, ǯeyran, mirɣ, maral",Phonemic
+3-750-518-7,kryt1240,Kryz,1936,марал,CyrillTrans,deer,,,"daɣǯi käl, ǯeyran, mirɣ, maral",Phonemic
+3-740-518-1,kryt1240,Kryz,1312,сакул,CyrillTrans,fox,,,sakul,Phonemic
+3-730-518-1,kryt1240,Kryz,1820,сар,CyrillTrans,bear,,,sar,Phonemic
+3-720-518-1,kryt1240,Kryz,1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-518-1,kryt1240,Kryz,522,ед,CyrillTrans,wolf,,,yed,Phonemic
+3-663-518-1,kryt1240,Kryz,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-518-1,kryt1240,Kryz,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-518-1,kryt1240,Kryz,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-518-1,kryt1240,Kryz,598,дагъдагъа,CyrillTrans,shell,,,daɣdaɣa,Phonemic
+3-653-518-1,kryt1240,Kryz,266,кьарк,CyrillTrans,fishscale,,,qʼark,Phonemic
+3-650-518-1,kryt1240,Kryz,227,балыгъ,CyrillTrans,fish,,,bаlɨɣ,Phonemic
+3-630-518-1,kryt1240,Kryz,2139,кьал,CyrillTrans,"mouse, rat",,,qʼаl,Phonemic
+3-620-518-1,kryt1240,Kryz,1208,гаьч,CyrillTrans,cat,,,gäč,Phonemic
+3-614-518-1,kryt1240,Kryz,1136,кролик,CyrillTrans,rabbit,,,krolik,Phonemic
+3-610-518-1,kryt1240,Kryz,2009,хвар,CyrillTrans,dog,,,"xʷar, xor",Phonemic
+3-610-518-3,kryt1240,Kryz,2009,хор,CyrillTrans,dog,,,"xʷar, xor",Phonemic
+3-594-518-1,kryt1240,Kryz,1853,лыф,CyrillTrans,dove,,,lɨf,Phonemic
+3-596-518-1,kryt1240,Kryz,735,тІуб,CyrillTrans,owl,,,tʼub,Phonemic
+3-593-518-1,kryt1240,Kryz,913,къаьргъаь,CyrillTrans,crow,,,Gärɣä,Phonemic
+3-592-518-1,kryt1240,Kryz,882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-518-1,kryt1240,Kryz,1793,цІокьунур,CyrillTrans,bat,,,cʼoqʼunur,Phonemic
+3-586-518-1,kryt1240,Kryz,1185,къадзир,CyrillTrans,vulture,,,Gaʒir,Phonemic
+3-585-518-1,kryt1240,Kryz,307,къиргъи,CyrillTrans,hawk,,,"Girɣi, čalaɣan",Phonemic
+3-585-518-3,kryt1240,Kryz,307,чалагъан,CyrillTrans,hawk,,,"Girɣi, čalaɣan",Phonemic
+3-584-518-1,kryt1240,Kryz,1905,къузгъун,CyrillTrans,eagle,,,Guzɣun,Phonemic
+3-582-518-1,kryt1240,Kryz,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-518-1,kryt1240,Kryz,758,дурна,CyrillTrans,heron,,,"durna, ћaǯilegleg",Phonemic
+3-583-518-3,kryt1240,Kryz,758,хІаджилеглег,CyrillTrans,heron,,,"durna, ћaǯilegleg",Phonemic
+3-581-518-1,kryt1240,Kryz,937,къуш,CyrillTrans,bird,,,"Guš, č’aɣ",Phonemic
+3-581-518-3,kryt1240,Kryz,937,чIагъ,CyrillTrans,bird,,,"Guš, č’aɣ",Phonemic
+3-580-518-1,kryt1240,Kryz,539,ныбаь,CyrillTrans,nest,,,nɨbä,Phonemic
+3-570-518-1,kryt1240,Kryz,1360,урдаг,CyrillTrans,duck,,,"urdag, ürdeg",Phonemic
+3-570-518-3,kryt1240,Kryz,1360,уьрдег,CyrillTrans,duck,,,"urdag, ürdeg",Phonemic
+3-560-518-1,kryt1240,Kryz,1187,кьаз,CyrillTrans,goose,,,qʼaz,Phonemic
+3-550-518-1,kryt1240,Kryz,1318,шурук,CyrillTrans,chicken,,,"šuruk, šürük",Phonemic
+3-550-518-3,kryt1240,Kryz,1318,шуьруьк,CyrillTrans,chicken,,,"šuruk, šürük",Phonemic
+3-540-518-1,kryt1240,Kryz,1514,кыс,CyrillTrans,hen,,,kɨs,Phonemic
+3-520-518-1,kryt1240,Kryz,1511,купаьл,CyrillTrans,"cock, rooster",,,kupäl,Phonemic
+3-470-518-1,kryt1240,Kryz,890,къатыр,CyrillTrans,mule,,,Gatɨr,Phonemic
+3-460-518-1,kryt1240,Kryz,1862,лем,CyrillTrans,"ass, donkey",,,lem,Phonemic
+3-450-518-1,kryt1240,Kryz,1647,тIаьй,CyrillTrans,"foal, colt",,,tʼäy,Phonemic
+3-440-518-1,kryt1240,Kryz,938,хилих,CyrillTrans,mare,,,xilix,Phonemic
+3-420-518-1,kryt1240,Kryz,936,йарагъыр,CyrillTrans,stallion,,,yayaɣɨr,Phonemic
+3-410-518-1,kryt1240,Kryz,615,баьлкаьн,CyrillTrans,horse (equine),,,bälkän,Phonemic
+3-380-518-1,kryt1240,Kryz,1972,хІаьч,CyrillTrans,kid,,,ћäč,Phonemic
+3-370-518-1,kryt1240,Kryz,264,тІаькаь,CyrillTrans,he-goat,,,tʼäkä,Phonemic
+3-360-518-1,kryt1240,Kryz,1502,цІегІ,CyrillTrans,goat,,,"cʼeʕ, cʼе̌ʕ",Phonemic
+3-360-518-3,kryt1240,Kryz,1502,цІе̌гІ,CyrillTrans,goat,,,"cʼeʕ, cʼе̌ʕ",Phonemic
+3-350-518-1,kryt1240,Kryz,1337,вак,CyrillTrans,pig,,,"vak, makašin",Phonemic
+3-350-518-3,kryt1240,Kryz,1337,макашин,CyrillTrans,pig,,,"vak, makašin",Phonemic
+3-340-518-1,kryt1240,Kryz,1351,вак,CyrillTrans,sow (2),,,"vak, makašin",Phonemic
+3-340-518-3,kryt1240,Kryz,1351,макашин,CyrillTrans,sow (2),,,"vak, makašin",Phonemic
+3-320-518-1,kryt1240,Kryz,1348,вак,CyrillTrans,boar,,,vak,Phonemic
+3-290-518-1,kryt1240,Kryz,820,ке̌л,CyrillTrans,lamb,,,kěl,Phonemic
+3-280-518-1,kryt1240,Kryz,1345,вул,CyrillTrans,ewe,,,vul,Phonemic
+3-260-518-1,kryt1240,Kryz,1344,къоч,CyrillTrans,ram,,,Goс̌,Phonemic
+3-250-518-1,kryt1240,Kryz,1331,кІаьбаьл,CyrillTrans,sheep,,,kʼäbäl,Phonemic
+3-240-518-1,kryt1240,Kryz,1989,лехІ,CyrillTrans,calf,,,"leћ, lе̌ћ",Phonemic
+3-240-518-3,kryt1240,Kryz,1989,ле̌хІ,CyrillTrans,calf,,,"leћ, lе̌ћ",Phonemic
+3-230-518-1,kryt1240,Kryz,1007,зар,CyrillTrans,cow,,,"zar, ʒar",Phonemic
+3-230-518-3,kryt1240,Kryz,1007,дзар,CyrillTrans,cow,,,"zar, ʒar",Phonemic
+3-220-518-1,kryt1240,Kryz,1169,хІаьни,CyrillTrans,ox,,,ћäni,Phonemic
+3-210-518-1,kryt1240,Kryz,1008,богъа,CyrillTrans,bull,,,bоɣa,Phonemic
+3-200-518-1,kryt1240,Kryz,1153,гьаьйван,CyrillTrans,cattle (bovine),,,häyvan,Phonemic
+3-190-518-1,kryt1240,Kryz,851,къаьджил,CyrillTrans,"stable, stall",,,Gäǯil,Phonemic
+3-180-518-1,kryt1240,Kryz,263,кьаьрываьнтІ,CyrillTrans,herdsman,,,qʼärɨväntʼ,Phonemic
+3-160-518-1,kryt1240,Kryz,649,йайлагъ,CyrillTrans,pasture,,,"yaylaɣ, yürüš",Phonemic
+3-160-518-3,kryt1240,Kryz,649,йуьруьш,CyrillTrans,pasture,,,"yaylaɣ, yürüš",Phonemic
+3-150-518-1,kryt1240,Kryz,631,мал,CyrillTrans,livestock,,,mal,Phonemic
+3-130-518-1,kryt1240,Kryz,2262,хидил,CyrillTrans,female (adj),,,xidil,Phonemic
+3-120-518-1,kryt1240,Kryz,2261,вили,CyrillTrans,male (adj),,,vili,Phonemic
+3-110-518-1,kryt1240,Kryz,619,гьаьйван,CyrillTrans,animal,,,häyvan,Phonemic
+2-960-518-1,kryt1240,Kryz,817,аьнджибар,CyrillTrans,they,,,änǯibar,Phonemic
+2-950-518-1,kryt1240,Kryz,1213,вин,CyrillTrans,you (plural),,,vin,Phonemic
+2-940-518-1,kryt1240,Kryz,1212,зин,CyrillTrans,we,,,zin,Phonemic
+2-930-518-1,kryt1240,Kryz,262,аьд,CyrillTrans,he/she/it,,,äd,Phonemic
+2-920-518-1,kryt1240,Kryz,1215,вун,CyrillTrans,you (singular),,,vun,Phonemic
+2-910-518-1,kryt1240,Kryz,1209,зын,CyrillTrans,I,,,zɨn,Phonemic
+2-820-518-1,kryt1240,Kryz,194,калфат,CyrillTrans,family,,,kalfat,Phonemic
+2-810-518-1,kryt1240,Kryz,1644,агъраба,CyrillTrans,"relatives, kinsmen",,,aɣraba,Phonemic
+2-770-518-1,kryt1240,Kryz,1981,дул,CyrillTrans,widower,,,dul,Phonemic
+2-760-518-1,kryt1240,Kryz,1756,дул,CyrillTrans,widow,,,dul,Phonemic
+2-750-518-1,kryt1240,Kryz,1149,йетим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-518-1,kryt1240,Kryz,1058,ога,CyrillTrans,stepdaughter,,,oga,Phonemic
+2-730-518-1,kryt1240,Kryz,1059,ога,CyrillTrans,stepson,,,oga,Phonemic
+2-720-518-1,kryt1240,Kryz,236,йетим даьй,CyrillTrans,stepmother,,,yetim däy,Phonemic
+2-710-518-1,kryt1240,Kryz,237,бабалугъ,CyrillTrans,stepfather,,,"babaluɣ, yetim bäy",Phonemic
+2-710-518-3,kryt1240,Kryz,237,йетим баьй,CyrillTrans,stepfather,,,"babaluɣ, yetim bäy",Phonemic
+2-641-518-1,kryt1240,Kryz,2264,сыс,CyrillTrans,daughter-in-law (of a woman),,,sɨs,Phonemic
+2-640-518-1,kryt1240,Kryz,2265,сыс,CyrillTrans,daughter-in-law (of a man),,,sɨs,Phonemic
+2-631-518-1,kryt1240,Kryz,2266,хъамал,CyrillTrans,son-in-law (of a woman),,,qamal,Phonemic
+2-630-518-1,kryt1240,Kryz,2267,йазна,CyrillTrans,son-in-law (of a man),,,yazna,Phonemic
+2-621-518-1,kryt1240,Kryz,2257,баьб,CyrillTrans,mother-in-law (of a woman),,,bäb,Phonemic
+2-620-518-1,kryt1240,Kryz,2256,баьб,CyrillTrans,mother-in-law (of a man),,,bäb,Phonemic
+2-611-518-1,kryt1240,Kryz,2254,балабай,CyrillTrans,father-in-law (of a woman),,,balabay,Phonemic
+2-610-518-1,kryt1240,Kryz,2255,балабай,CyrillTrans,father-in-law (of a man),,,balabay,Phonemic
+2-570-518-1,kryt1240,Kryz,490,несил,CyrillTrans,descendants,,,nesil,Phonemic
+2-560-518-1,kryt1240,Kryz,1669,атаьбаба,CyrillTrans,ancestors,,,atäbaba,Phonemic
+2-550-518-1,kryt1240,Kryz,1643,шид,CyrillTrans,cousin,,,"šid, šidɨr",Phonemic
+2-550-518-3,kryt1240,Kryz,1643,шидыр,CyrillTrans,cousin,,,"šid, šidɨr",Phonemic
+2-540-518-1,kryt1240,Kryz,1642,хыдыл,CyrillTrans,niece,,,xɨdɨl,Phonemic
+2-530-518-1,kryt1240,Kryz,1063,хыдыл,CyrillTrans,nephew,,,xɨdɨl,Phonemic
+2-522-518-1,kryt1240,Kryz,170,таьй,CyrillTrans,father's sister,,,täy,Phonemic
+2-520-518-1,kryt1240,Kryz,1272,хала,CyrillTrans,aunt,,,"xala, ʕami",Phonemic
+2-520-518-3,kryt1240,Kryz,1272,гІами,CyrillTrans,aunt,,,"xala, ʕami",Phonemic
+2-521-518-1,kryt1240,Kryz,171,хала,CyrillTrans,mother's sister,,,xala,Phonemic
+2-512-518-1,kryt1240,Kryz,1985,тылай,CyrillTrans,father's brother,,,tɨlay,Phonemic
+2-511-518-1,kryt1240,Kryz,1984,халу,CyrillTrans,mother's brother,,,xalu,Phonemic
+2-510-518-1,kryt1240,Kryz,1327,эми,CyrillTrans,uncle,,,emi,Phonemic
+2-480-518-1,kryt1240,Kryz,1618,хыдыл,CyrillTrans,grandson,,,xɨdɨl,Phonemic
+2-490-518-1,kryt1240,Kryz,1619,хыдыл,CyrillTrans,granddaughter,,,xɨdɨl,Phonemic
+2-471-518-1,kryt1240,Kryz,907,кьāри,CyrillTrans,old woman,,,"qʼāri, qʼusad",Phonemic
+2-471-518-3,kryt1240,Kryz,907,кьусад,CyrillTrans,old woman,,,"qʼāri, qʼusad",Phonemic
+2-470-518-1,kryt1240,Kryz,1496,бадай,CyrillTrans,grandmother,,,"baday, budäy",Phonemic
+2-470-518-3,kryt1240,Kryz,1496,будаьй,CyrillTrans,grandmother,,,"baday, budäy",Phonemic
+2-461-518-1,kryt1240,Kryz,406,кІуша,CyrillTrans,old man,,,kʼuša,Phonemic
+2-460-518-1,kryt1240,Kryz,1383,бабай,CyrillTrans,grandfather,,,"babay, bubay",Phonemic
+2-460-518-3,kryt1240,Kryz,1383,бубай,CyrillTrans,grandfather,,,"babay, bubay",Phonemic
+2-458-518-1,kryt1240,Kryz,1005,йекиз,CyrillTrans,twins,,,"yekiz, kʼitxayar",Phonemic
+2-458-518-3,kryt1240,Kryz,1005,кІитхайар,CyrillTrans,twins,,,"yekiz, kʼitxayar",Phonemic
+2-456-518-1,kryt1240,Kryz,1640,шид-шидыр,CyrillTrans,sibling,,,šid-šidɨr,Phonemic
+2-455-518-1,kryt1240,Kryz,1761,силаьд шидыр,CyrillTrans,younger sister,,,siläd šidɨr,Phonemic
+2-454-518-1,kryt1240,Kryz,1758,лицІ шидыр,CyrillTrans,older sister,,,licʼ šidɨr,Phonemic
+2-450-518-1,kryt1240,Kryz,1263,шидыр,CyrillTrans,sister,,,šidɨr,Phonemic
+2-445-518-1,kryt1240,Kryz,1760,силаьд шид,CyrillTrans,younger brother,,,siläd šid,Phonemic
+2-444-518-1,kryt1240,Kryz,1759,лицІ шид,CyrillTrans,older brother,,,licʼ šid,Phonemic
+2-440-518-1,kryt1240,Kryz,1262,шид,CyrillTrans,brother,,,šid,Phonemic
+2-430-518-1,kryt1240,Kryz,1801,несил,CyrillTrans,offspring (son or daughter),,,nesil,Phonemic
+2-420-518-1,kryt1240,Kryz,1357,риш,CyrillTrans,daughter,,,riš,Phonemic
+2-410-518-1,kryt1240,Kryz,1620,дих,CyrillTrans,son,,,dix,Phonemic
+2-370-518-1,kryt1240,Kryz,505,пай-тай,CyrillTrans,parents,,,"pay-tay, bäy-däy",Phonemic
+2-370-518-3,kryt1240,Kryz,505,баьй-даьй,CyrillTrans,parents,,,"pay-tay, bäy-däy",Phonemic
+2-360-518-1,kryt1240,Kryz,1216,даьй,CyrillTrans,mother,,,däy,Phonemic
+2-350-518-1,kryt1240,Kryz,1217,баьй,CyrillTrans,father,,,bäy,Phonemic
+2-341-518-1,kryt1240,Kryz,1134,талагъ,CyrillTrans,divorce,,,talaɣ,Phonemic
+2-340-518-1,kryt1240,Kryz,1259,митфар,CyrillTrans,"marriage, wedding",,,mitfar,Phonemic
+2-330-518-1,kryt1240,Kryz,203,хыныб кьаьйнидж,CyrillTrans,marry,,,xɨnɨb qʼäyniǯ,Phonemic
+2-320-518-1,kryt1240,Kryz,1199,хыныб,CyrillTrans,wife,,,xɨnɨb,Phonemic
+2-310-518-1,kryt1240,Kryz,1200,фири,CyrillTrans,husband,,,firi,Phonemic
+2-280-518-1,kryt1240,Kryz,1289,гІайел,CyrillTrans,"infant, baby",,,ʕayel,Phonemic
+2-270-518-1,kryt1240,Kryz,1304,гІайел,CyrillTrans,child,,,ʕayel,Phonemic
+2-261-518-1,kryt1240,Kryz,77,сус,CyrillTrans,young woman (adolescent),,,sus,Phonemic
+2-260-518-1,kryt1240,Kryz,1646,риш,CyrillTrans,girl,,,riš,Phonemic
+2-251-518-1,kryt1240,Kryz,76,джагьил,CyrillTrans,young man (adolescent),,,ǯahil,Phonemic
+2-250-518-1,kryt1240,Kryz,1366,гІаьйал,CyrillTrans,boy,,,ʕäyal,Phonemic
+2-240-518-1,kryt1240,Kryz,1551,хидил,CyrillTrans,female,,,xidil,Phonemic
+2-230-518-1,kryt1240,Kryz,1553,миг̌ил,CyrillTrans,male,,,miǧil,Phonemic
+2-220-518-1,kryt1240,Kryz,962,хыныб,CyrillTrans,woman,,,xɨnɨb,Phonemic
+2-210-518-1,kryt1240,Kryz,1554,фири,CyrillTrans,man (vs. woman),,,firi,Phonemic
+2-100-518-1,kryt1240,Kryz,683,адми,CyrillTrans,"person, human being",,,admi,Phonemic
+1-890-518-1,kryt1240,Kryz,1188,кІаьшин,CyrillTrans,charcoal,,,kʼäšin,Phonemic
+1-880-518-1,kryt1240,Kryz,10,кІына,CyrillTrans,firewood,,,kʼɨna,Phonemic
+1-870-518-1,kryt1240,Kryz,1133,кирбит,CyrillTrans,match (noun),,,kirbit,Phonemic
+1-861-518-1,kryt1240,Kryz,127,вусаьр йеджу,CyrillTrans,extinguish,,,vusӓr yeǯu,Phonemic
+1-860-518-1,kryt1240,Kryz,737,угаьджу,CyrillTrans,"light, kindle, ignite",,,"ugäǯu, ugäǯi",Phonemic
+1-860-518-3,kryt1240,Kryz,737,угаьджи,CyrillTrans,"light, kindle, ignite",,,"ugäǯu, ugäǯi",Phonemic
+1-852-518-1,kryt1240,Kryz,1428,угаьджу,CyrillTrans,burn (vb intrans),,,"ugäǯu, ugäǯi",Phonemic
+1-852-518-3,kryt1240,Kryz,1428,угаьджи,CyrillTrans,burn (vb intrans),,,"ugäǯu, ugäǯi",Phonemic
+1-851-518-1,kryt1240,Kryz,141,уджаджу,CyrillTrans,burn (vb trans),,,uǯaǯu,Phonemic
+1-841-518-1,kryt1240,Kryz,67,цІил,CyrillTrans,embers,,,cʼil,Phonemic
+1-840-518-1,kryt1240,Kryz,646,раьхъ,CyrillTrans,ashes,,,räq,Phonemic
+1-830-518-1,kryt1240,Kryz,778,фирми,CyrillTrans,smoke (noun),,,firmi,Phonemic
+1-820-518-1,kryt1240,Kryz,889,йелав,CyrillTrans,flame (noun),,,"yelav, alov",Phonemic
+1-820-518-3,kryt1240,Kryz,889,алов,CyrillTrans,flame (noun),,,"yelav, alov",Phonemic
+1-810-518-1,kryt1240,Kryz,221,цІаь,CyrillTrans,fire,,,cʼä,Phonemic
+1-780-518-1,kryt1240,Kryz,952,гьава,CyrillTrans,weather,,,hava,Phonemic
+1-770-518-1,kryt1240,Kryz,617,мык,CyrillTrans,ice,,,mɨk,Phonemic
+1-760-518-1,kryt1240,Kryz,784,йиз,CyrillTrans,snow (noun),,,yiz,Phonemic
+1-750-518-1,kryt1240,Kryz,658,чІе̌бидж,CyrillTrans,rain (noun),,,čʼěbiǯ,Phonemic
+1-740-518-1,kryt1240,Kryz,249,зов,CyrillTrans,fog,,,zov,Phonemic
+1-720-518-1,kryt1240,Kryz,960,кулак,CyrillTrans,wind,,,kulak,Phonemic
+1-730-518-1,kryt1240,Kryz,1489,кIабал,CyrillTrans,cloud,,,"k’abal, bɨlɨt, ǯif",Phonemic
+1-730-518-3,kryt1240,Kryz,1489,былыт,CyrillTrans,cloud,,,"k’abal, bɨlɨt, ǯif",Phonemic
+1-730-518-5,kryt1240,Kryz,1489,джиф,CyrillTrans,cloud,,,"k’abal, bɨlɨt, ǯif",Phonemic
+1-710-518-1,kryt1240,Kryz,27,гьава,CyrillTrans,air,,,hava,Phonemic
+1-640-518-1,kryt1240,Kryz,1977,чиг,CyrillTrans,dew,,,čig,Phonemic
+1-630-518-1,kryt1240,Kryz,1388,кулгаь,CyrillTrans,"shade, shadow",,,kulgä,Phonemic
+1-620-518-1,kryt1240,Kryz,11,ишигъсузвал,CyrillTrans,darkness,,,išiɣsuzval,Phonemic
+1-610-518-1,kryt1240,Kryz,630,ишигъ,CyrillTrans,light (noun),,,išiɣ,Phonemic
+1-590-518-1,kryt1240,Kryz,1733,тІаьм,CyrillTrans,rainbow,,,tʼäm,Phonemic
+1-580-518-1,kryt1240,Kryz,858,туфан,CyrillTrans,storm,,,tufan,Phonemic
+1-560-518-1,kryt1240,Kryz,1150,шимше̌к,CyrillTrans,thunder,,,šimšěk,Phonemic
+1-570-518-1,kryt1240,Kryz,2007,лепаьн,CyrillTrans,lightning (as striking),,,lepän,Phonemic
+1-550-518-1,kryt1240,Kryz,1654,шимше̌к,CyrillTrans,lightning,,,šimšěk,Phonemic
+1-540-518-1,kryt1240,Kryz,1430,хIаьчІ,CyrillTrans,star,,,ħäčʼ,Phonemic
+1-530-518-1,kryt1240,Kryz,1313,ваьз,CyrillTrans,moon,,,väz,Phonemic
+1-520-518-1,kryt1240,Kryz,1343,вирагъ,CyrillTrans,sun,,,viraɣ,Phonemic
+1-510-518-1,kryt1240,Kryz,1732,зов,CyrillTrans,sky,,,zov,Phonemic
+1-450-518-1,kryt1240,Kryz,6,зелзеле,CyrillTrans,earthquake,,,zelzele,Phonemic
+1-440-518-1,kryt1240,Kryz,2125,худ,CyrillTrans,"stone, rock",,,"xud, dahar",Phonemic
+1-440-518-3,kryt1240,Kryz,2125,дагьар,CyrillTrans,"stone, rock",,,"xud, dahar",Phonemic
+1-430-518-1,kryt1240,Kryz,1803,дар,CyrillTrans,wood,,,dar,Phonemic
+1-420-518-1,kryt1240,Kryz,906,дар,CyrillTrans,tree (cf 08.600),,,dar,Phonemic
+1-410-518-1,kryt1240,Kryz,420,рук,CyrillTrans,"woods, forest",,,"ruk, meše",Phonemic
+1-410-518-3,kryt1240,Kryz,420,меше,CyrillTrans,"woods, forest",,,"ruk, meše",Phonemic
+1-380-518-1,kryt1240,Kryz,1145,кьейшим,CyrillTrans,swamp,,,"qʼeyšim, čʼerčʼur",Phonemic
+1-380-518-3,kryt1240,Kryz,1145,чІерчІур,CyrillTrans,swamp,,,"qʼeyšim, čʼerčʼur",Phonemic
+1-370-518-1,kryt1240,Kryz,2144,билаьх,CyrillTrans,"spring, well",,,"biläx, bɨläx",Phonemic
+1-370-518-3,kryt1240,Kryz,2144,былаьх,CyrillTrans,"spring, well",,,"biläx, bɨläx",Phonemic
+1-360-518-1,kryt1240,Kryz,666,арх,CyrillTrans,"river, stream, brook",,,"arx, kur",Phonemic
+1-360-518-3,kryt1240,Kryz,666,кур,CyrillTrans,"river, stream, brook",,,"arx, kur",Phonemic
+1-350-518-1,kryt1240,Kryz,978,лапа,CyrillTrans,wave,,,lapa,Phonemic
+1-330-518-1,kryt1240,Kryz,624,гоьл,CyrillTrans,lake,,,"gol, nahur",Phonemic
+1-330-518-3,kryt1240,Kryz,624,нагьур,CyrillTrans,lake,,,"gol, nahur",Phonemic
+1-329-518-1,kryt1240,Kryz,645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-518-1,kryt1240,Kryz,1768,купук,CyrillTrans,foam,,,kupuk,Phonemic
+1-323-518-1,kryt1240,Kryz,259,гьалаг (гІил),CyrillTrans,rough (of sea),,,halag (ʕil),Phonemic
+1-320-518-1,kryt1240,Kryz,1474,гІил,CyrillTrans,sea,,,ʕil,Phonemic
+1-322-518-1,kryt1240,Kryz,258,паракьат (гІил),CyrillTrans,calm (of sea),,,paraqʼat (ʕil),Phonemic
+1-310-518-1,kryt1240,Kryz,948,хьаьд,CyrillTrans,water,,,x̌äd,Phonemic
+1-280-518-1,kryt1240,Kryz,1155,магъараь,CyrillTrans,cave,,,"maɣarä, čʼе̌rä",Phonemic
+1-280-518-3,kryt1240,Kryz,1155,чІе̌раь,CyrillTrans,cave,,,"maɣarä, čʼе̌rä",Phonemic
+1-270-518-1,kryt1240,Kryz,113,чейлагъ,CyrillTrans,shore,,,čeylaɣ,Phonemic
+1-260-518-1,kryt1240,Kryz,166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-518-1,kryt1240,Kryz,622,ада,CyrillTrans,island,,,ada,Phonemic
+1-240-518-1,kryt1240,Kryz,921,дара,CyrillTrans,valley,,,dara,Phonemic
+1-230-518-1,kryt1240,Kryz,652,ник,CyrillTrans,"plain, field",,,"nik, düzanlig",Phonemic
+1-230-518-3,kryt1240,Kryz,652,дуьзанлиг,CyrillTrans,"plain, field",,,"nik, düzanlig",Phonemic
+1-222-518-1,kryt1240,Kryz,618,бел,CyrillTrans,"cliff, precipice",,,"bel, qʼol",Phonemic
+1-222-518-3,kryt1240,Kryz,618,кьол,CyrillTrans,"cliff, precipice",,,"bel, qʼol",Phonemic
+1-220-518-1,kryt1240,Kryz,2118,бел,CyrillTrans,"mountain, hill",,,"daɣ, täpä",Phonemic
+1-220-518-3,kryt1240,Kryz,2118,дагъ,CyrillTrans,"mountain, hill",,,"daɣ, täpä",Phonemic
+1-220-518-5,kryt1240,Kryz,2118,таьраь,CyrillTrans,"mountain, hill",,,"daɣ, täpä",Phonemic
+1-214-518-1,kryt1240,Kryz,640,кьириш,CyrillTrans,mud,,,"qʼiriš, mäč’",Phonemic
+1-214-518-3,kryt1240,Kryz,640,маьчI,CyrillTrans,mud,,,"qʼiriš, mäč’",Phonemic
+1-215-518-1,kryt1240,Kryz,671,къум,CyrillTrans,sand,,,Gum,Phonemic
+1-213-518-1,kryt1240,Kryz,2,руг,CyrillTrans,dust,,,"rug, tuz",Phonemic
+1-213-518-3,kryt1240,Kryz,2,туз,CyrillTrans,dust,,,"rug, tuz",Phonemic
+1-212-518-1,kryt1240,Kryz,1228,ноькь,CyrillTrans,"earth=ground, soil",,,"nöqʼ, takna",Phonemic
+1-212-518-3,kryt1240,Kryz,1228,такна,CyrillTrans,"earth=ground, soil",,,"nöqʼ, takna",Phonemic
+1-210-518-1,kryt1240,Kryz,626,улке,CyrillTrans,"earth, land",,,ulke,Phonemic
+1-100-518-1,kryt1240,Kryz,965,дунйе,CyrillTrans,world,,,dunye,Phonemic
+14-330-518-1,kryt1240,Kryz,1544,арабир,CyrillTrans,sometimes,,,arabir,Phonemic
+14-331-518-1,kryt1240,Kryz,703,даьхаьй,CyrillTrans,soon,,,"däxäy, daxay",Phonemic
+14-331-518-3,kryt1240,Kryz,703,дахай,CyrillTrans,soon,,,"däxäy, daxay",Phonemic
+14-332-518-1,kryt1240,Kryz,418,гІахти,CyrillTrans,long-time (for a),,,ʕaxti,Phonemic
+14-340-518-1,kryt1240,Kryz,1656,саъале,CyrillTrans,never,,,saʔale,Phonemic
+14-350-518-1,kryt1240,Kryz,204,ма,CyrillTrans,again,,,ma,Phonemic
+14-410-518-1,kryt1240,Kryz,1225,йигъ,CyrillTrans,day,,,yiɣ,Phonemic
+14-420-518-1,kryt1240,Kryz,1233,йиф,CyrillTrans,night,,,yif,Phonemic
+14-430-518-1,kryt1240,Kryz,729,икидж,CyrillTrans,dawn,,,ikiǯ,Phonemic
+14-440-518-1,kryt1240,Kryz,1339,икиджагІан,CyrillTrans,morning,,,ikiǯaʕan,Phonemic
+14-450-518-1,kryt1240,Kryz,12,йыгъад,CyrillTrans,"noon, midday",,,yɨɣad,Phonemic
+14-451-518-1,kryt1240,Kryz,1807,хурак,CyrillTrans,afternoon,,,xurak,Phonemic
+14-460-518-1,kryt1240,Kryz,1629,йиф,CyrillTrans,evening,,,yif,Phonemic
+14-470-518-1,kryt1240,Kryz,1283,хъе,CyrillTrans,today,,,qe,Phonemic
+14-480-518-1,kryt1240,Kryz,1329,каьтаь,CyrillTrans,tomorrow,,,"kätä, gätä",Phonemic
+14-480-518-3,kryt1240,Kryz,1329,гаьтаь,CyrillTrans,tomorrow,,,"kätä, gätä",Phonemic
+14-481-518-1,kryt1240,Kryz,1179,иста,CyrillTrans,day-after-tomorrow,,,ista,Phonemic
+14-490-518-1,kryt1240,Kryz,1174,накь,CyrillTrans,yesterday,,,naqʼ,Phonemic
+14-491-518-1,kryt1240,Kryz,1180,гІурда,CyrillTrans,day-before-yesterday,,,ʕurda,Phonemic
+14-510-518-1,kryt1240,Kryz,1353,саьгІаьт,CyrillTrans,hour,,,säʕät,Phonemic
+14-530-518-1,kryt1240,Kryz,1323,саьгІаьт,CyrillTrans,"clock, timepiece",,,säʕät,Phonemic
+14-610-518-1,kryt1240,Kryz,1469,гьафта,CyrillTrans,week,,,hafta,Phonemic
+14-620-518-1,kryt1240,Kryz,1699,базар,CyrillTrans,Sunday,,,bazar,Phonemic
+14-630-518-1,kryt1240,Kryz,1697,итней,CyrillTrans,Monday,,,itney,Phonemic
+14-640-518-1,kryt1240,Kryz,1695,саласа,CyrillTrans,Tuesday,,,salasa,Phonemic
+14-650-518-1,kryt1240,Kryz,1694,арбаъ,CyrillTrans,Wednesday,,,arbaʔ,Phonemic
+14-660-518-1,kryt1240,Kryz,1693,хамиз,CyrillTrans,Thursday,,,xamiz,Phonemic
+14-670-518-1,kryt1240,Kryz,1692,джумгъа,CyrillTrans,Friday,,,ǯumɣa,Phonemic
+14-680-518-1,kryt1240,Kryz,1700,шемби,CyrillTrans,Saturday,,,šembi,Phonemic
+14-710-518-1,kryt1240,Kryz,1370,ваьз,CyrillTrans,month,,,väz,Phonemic
+14-730-518-1,kryt1240,Kryz,1226,саьн,CyrillTrans,year,,,sän,Phonemic
+14-740-518-1,kryt1240,Kryz,1471,кьуд,CyrillTrans,winter,,,qʼud,Phonemic
+14-750-518-1,kryt1240,Kryz,1537,къаьраьйаьз,CyrillTrans,spring,,,Gäräyäz,Phonemic
+14-760-518-1,kryt1240,Kryz,1342,йай,CyrillTrans,summer,,,yay,Phonemic
+14-770-518-1,kryt1240,Kryz,1276,йе̌мхидж,CyrillTrans,autumn,,,yěmxiǯ,Phonemic
+14-780-518-1,kryt1240,Kryz,691,заман,CyrillTrans,season,,,"zaman, växt",Phonemic
+14-780-518-3,kryt1240,Kryz,691,ваьхт,CyrillTrans,season,,,"zaman, växt",Phonemic
+15-210-518-1,kryt1240,Kryz,1587,негІ йе̌джи,CyrillTrans,smell (vb intrans),,,neʕ yěǯi,Phonemic
+15-220-518-1,kryt1240,Kryz,1586,негІ йе̌джи,CyrillTrans,smell (vb trans),,,neʕ yěǯi,Phonemic
+15-250-518-1,kryt1240,Kryz,376,негІ,CyrillTrans,"fragrant, good smelling",,,neʕ,Phonemic
+15-260-518-1,kryt1240,Kryz,42,ула,CyrillTrans,"stinking, bad smelling",,,ula,Phonemic
+15-310-518-1,kryt1240,Kryz,21,тІаьгІаьм,CyrillTrans,taste,,,tʼäʕäm,Phonemic
+15-350-518-1,kryt1240,Kryz,717,тІаьгІаьм,CyrillTrans,sweet,,,tʼäʕäm,Phonemic
+15-360-518-1,kryt1240,Kryz,1091,кьели,CyrillTrans,salty,,,qʼeli,Phonemic
+15-370-518-1,kryt1240,Kryz,887,туьнт,CyrillTrans,bitter,,,tünt,Phonemic
+15-380-518-1,kryt1240,Kryz,1906,аьмзур,CyrillTrans,"acid, sour",,,ämzur,Phonemic
+15-390-518-1,kryt1240,Kryz,70,кьели,CyrillTrans,brackish,,,qʼeli,Phonemic
+15-410-518-1,kryt1240,Kryz,1408,иходжи,CyrillTrans,hear,,,"ixоǯi, ixäyǯi",Phonemic
+15-410-518-3,kryt1240,Kryz,1408,ихаьйджи,CyrillTrans,hear,,,"ixоǯi, ixäyǯi",Phonemic
+15-420-518-1,kryt1240,Kryz,1608,ласирджи,CyrillTrans,listen,,,lasirǯi,Phonemic
+15-440-518-1,kryt1240,Kryz,1811,гьайгьуй,CyrillTrans,"sound, noise",,,"hayhuy, c’ɨɣ",Phonemic
+15-440-518-3,kryt1240,Kryz,1811,цIыгъ,CyrillTrans,"sound, noise",,,"hayhuy, c’ɨɣ",Phonemic
+15-450-518-1,kryt1240,Kryz,377,саслу,CyrillTrans,loud,,,saslu,Phonemic
+15-460-518-1,kryt1240,Kryz,1314,паракьат,CyrillTrans,"quiet, silence",,,paraqʼat,Phonemic
+15-510-518-1,kryt1240,Kryz,1409,ирхъаджи,CyrillTrans,see,,,"irqaǯi, irqaǯu, itqaǯi",Phonemic
+15-510-518-3,kryt1240,Kryz,1409,ирхъаджу,CyrillTrans,see,,,"irqaǯi, irqaǯu, itqaǯi",Phonemic
+15-510-518-5,kryt1240,Kryz,1409,итхъаьджи,CyrillTrans,see,,,"irqaǯi, irqaǯu, itqaǯi",Phonemic
+15-520-518-1,kryt1240,Kryz,1819,коьсылджи,CyrillTrans,"look, look at",,,"kösɨlǯi, kösɨlǯu",Phonemic
+15-520-518-3,kryt1240,Kryz,1819,коьсылджу,CyrillTrans,"look, look at",,,"kösɨlǯi, kösɨlǯu",Phonemic
+15-550-518-1,kryt1240,Kryz,1039,вукІаджи,CyrillTrans,show,,,vukʼaǯi,Phonemic
+15-570-518-1,kryt1240,Kryz,679,ишигълу,CyrillTrans,bright,,,išiɣlu,Phonemic
+15-610-518-1,kryt1240,Kryz,1613,ренг,CyrillTrans,color,,,reng,Phonemic
+15-620-518-1,kryt1240,Kryz,250,ишыгълаьгъаьд,CyrillTrans,light (in color),,,išɨɣläɣäd,Phonemic
+15-630-518-1,kryt1240,Kryz,706,мичІе,CyrillTrans,dark (in color),,,mičʼe,Phonemic
+15-640-518-1,kryt1240,Kryz,1335,лаьзы,CyrillTrans,white,,,läzɨ,Phonemic
+15-650-518-1,kryt1240,Kryz,163,лаьхІаь,CyrillTrans,black,,,läћä,Phonemic
+15-660-518-1,kryt1240,Kryz,156,къырмызы,CyrillTrans,red,,,Gɨrmɨzɨ,Phonemic
+15-670-518-1,kryt1240,Kryz,837,йексаьргъур,CyrillTrans,blue,,,yeksärɣur,Phonemic
+15-680-518-1,kryt1240,Kryz,1425,чІукІни,CyrillTrans,green,,,čʼukʼni,Phonemic
+15-690-518-1,kryt1240,Kryz,1424,цІари,CyrillTrans,yellow,,,cʼari,Phonemic
+15-710-518-1,kryt1240,Kryz,1892,ваьтджи,CyrillTrans,touch,,,vätǯi,Phonemic
+15-712-518-1,kryt1240,Kryz,378,йихьаджи,CyrillTrans,pinch,,,yix̌aǯi,Phonemic
+15-740-518-1,kryt1240,Kryz,1884,кубуд,CyrillTrans,hard,,,"kubud, k’ovu",Phonemic
+15-740-518-3,kryt1240,Kryz,1884,кIову,CyrillTrans,hard,,,"kubud, k’ovu",Phonemic
+15-750-518-1,kryt1240,Kryz,1856,къадил,CyrillTrans,soft,,,Gadil,Phonemic
+15-760-518-1,kryt1240,Kryz,1923,кубуд,CyrillTrans,rough,,,kubud,Phonemic
+15-770-518-1,kryt1240,Kryz,1234,гІамавар,CyrillTrans,smooth,,,ʕamavar,Phonemic
+15-780-518-1,kryt1240,Kryz,1396,чІуьтаьд,CyrillTrans,sharp,,,čʼütäd,Phonemic
+15-790-518-1,kryt1240,Kryz,379,кутаьд,CyrillTrans,"blunt, dull",,,kutäd,Phonemic
+15-810-518-1,kryt1240,Kryz,1210,гІак,CyrillTrans,heavy,,,"ʕak, ʕakad",Phonemic
+15-810-518-3,kryt1240,Kryz,1210,гІакад,CyrillTrans,heavy,,,"ʕak, ʕakad",Phonemic
+15-820-518-1,kryt1240,Kryz,1052,йонгул,CyrillTrans,light (in weight),,,yongul,Phonemic
+15-830-518-1,kryt1240,Kryz,1726,чІеб,CyrillTrans,"wet, damp",,,čʼeb,Phonemic
+15-840-518-1,kryt1240,Kryz,1398,саьгІй,CyrillTrans,dry,,,"säʕy, säʕä",Phonemic
+15-840-518-3,kryt1240,Kryz,1398,саьгІаь,CyrillTrans,dry,,,"säʕy, säʕä",Phonemic
+15-850-518-1,kryt1240,Kryz,1286,къизгъинад,CyrillTrans,hot,,,Gizɣinad,Phonemic
+15-851-518-1,kryt1240,Kryz,1232,г̌ыр,CyrillTrans,warm,,,"ǧɨr, ǧɨrad",Phonemic
+15-851-518-3,kryt1240,Kryz,1232,г̌ырад,CyrillTrans,warm,,,"ǧɨr, ǧɨrad",Phonemic
+15-860-518-1,kryt1240,Kryz,1287,сагъай,CyrillTrans,cold,,,saɣay,Phonemic
+15-870-518-1,kryt1240,Kryz,704,таьмиси,CyrillTrans,clean,,,tämisi,Phonemic
+15-880-518-1,kryt1240,Kryz,1230,тIигъели,CyrillTrans,"dirty, soiled",,,"t’iɣeli, čirklu",Phonemic
+15-880-518-3,kryt1240,Kryz,1230,чирклу,CyrillTrans,"dirty, soiled",,,"t’iɣeli, čirklu",Phonemic
+15-890-518-1,kryt1240,Kryz,380,бурушмиш,CyrillTrans,wrinkled,,,burušmiš,Phonemic
+16-110-518-1,kryt1240,Kryz,53,джан,CyrillTrans,"soul, spirit",,,ǯan,Phonemic
+16-150-518-1,kryt1240,Kryz,1572,гьейран,CyrillTrans,"surprised, astonished",,,heyran,Phonemic
+16-180-518-1,kryt1240,Kryz,720,бахт,CyrillTrans,"good fortune, luck",,,baxt,Phonemic
+16-230-518-1,kryt1240,Kryz,1495,бахтлу,CyrillTrans,"joyful, glad, happy",,,"baxtlu, baxtavar, šad",Phonemic
+16-230-518-3,kryt1240,Kryz,1495,бахтавар,CyrillTrans,"joyful, glad, happy",,,"baxtlu, baxtavar, šad",Phonemic
+16-230-518-5,kryt1240,Kryz,1495,шад,CyrillTrans,"joyful, glad, happy",,,"baxtlu, baxtavar, šad",Phonemic
+16-250-518-1,kryt1240,Kryz,1355,хъурджи,CyrillTrans,laugh,,,"qurǯi, qurǯu",Phonemic
+16-250-518-3,kryt1240,Kryz,1355,хъурджу,CyrillTrans,laugh,,,"qurǯi, qurǯu",Phonemic
+16-251-518-1,kryt1240,Kryz,1451,хъурджи,CyrillTrans,smile,,,qurǯi,Phonemic
+16-260-518-1,kryt1240,Kryz,1413,къахІарджи,CyrillTrans,play,,,Gaћarǯi,Phonemic
+16-270-518-1,kryt1240,Kryz,923,икаьджи,CyrillTrans,love,,,"ikäǯi, ikäǯu",Phonemic
+16-270-518-3,kryt1240,Kryz,923,икаьджу,CyrillTrans,love,,,"ikäǯi, ikäǯu",Phonemic
+16-290-518-1,kryt1240,Kryz,578,пІаджи,CyrillTrans,kiss,,,"pʼaǯi, Gäyinӡ̌i",Phonemic
+16-290-518-3,kryt1240,Kryz,578,къаьйинджи,CyrillTrans,kiss,,,"pʼaǯi, Gäyinӡ̌i",Phonemic
+16-310-518-1,kryt1240,Kryz,1783,азару,CyrillTrans,pain,,,"azaru, azalɨ",Phonemic
+16-310-518-3,kryt1240,Kryz,1783,азалы,CyrillTrans,pain,,,"azaru, azalɨ",Phonemic
+16-320-518-1,kryt1240,Kryz,1668,даьрд,CyrillTrans,"grief, sorrow, sadness",,,därd,Phonemic
+16-330-518-1,kryt1240,Kryz,1000,гьайгьуй,CyrillTrans,"anxiety, worry",,,hayhuy,Phonemic
+16-350-518-1,kryt1240,Kryz,1141,гъайеф,CyrillTrans,pity,,,ɣayef,Phonemic
+16-370-518-1,kryt1240,Kryz,1839,узокьулджи,CyrillTrans,"cry, weep",,,"uzoqʼulǯi, išäǯi, višäǯu, yik’ ketäǯi",Phonemic
+16-370-518-3,kryt1240,Kryz,1839,ишаьджи,CyrillTrans,"cry, weep",,,"uzoqʼulǯi, išäǯi, višäǯu, yik’ ketäǯi",Phonemic
+16-370-518-5,kryt1240,Kryz,1839,вишаьджу,CyrillTrans,"cry, weep",,,"uzoqʼulǯi, išäǯi, višäǯu, yik’ ketäǯi",Phonemic
+16-370-518-7,kryt1240,Kryz,1839,йикІ кетаьджи,CyrillTrans,"cry, weep",,,"uzoqʼulǯi, išäǯi, višäǯu, yik’ ketäǯi",Phonemic
+16-380-518-1,kryt1240,Kryz,1651,гIуьли хьаьд,CyrillTrans,tear (noun),,,ʕüli x̌äd,Phonemic
+16-420-518-1,kryt1240,Kryz,82,аджугъ,CyrillTrans,anger,,,aǯuɣ,Phonemic
+16-440-518-1,kryt1240,Kryz,40,пахыр,CyrillTrans,"envy, jealousy",,,"paxɨr, paxɨrval",Phonemic
+16-440-518-3,kryt1240,Kryz,40,пахырвал,CyrillTrans,"envy, jealousy",,,"paxɨr, paxɨrval",Phonemic
+16-450-518-1,kryt1240,Kryz,1776,гІайеб,CyrillTrans,shame (noun),,,ʕayeb,Phonemic
+16-480-518-1,kryt1240,Kryz,174,ловгъа,CyrillTrans,proud,,,lovɣa,Phonemic
+16-510-518-1,kryt1240,Kryz,1779,дирибашчи,CyrillTrans,dare,,,diribašči,Phonemic
+16-520-518-1,kryt1240,Kryz,3,дирибаш,CyrillTrans,brave,,,diribaš,Phonemic
+16-530-518-1,kryt1240,Kryz,781,кичІ,CyrillTrans,"fear, fright",,,kičʼ,Phonemic
+16-540-518-1,kryt1240,Kryz,1810,къурхурвал,CyrillTrans,danger,,,Gurxurval,Phonemic
+16-620-518-1,kryt1240,Kryz,1784,хийал,CyrillTrans,"desire, want",,,xiyal,Phonemic
+16-622-518-1,kryt1240,Kryz,1750,ваьсунджи,CyrillTrans,choose,,,väsunǯi,Phonemic
+16-630-518-1,kryt1240,Kryz,1092,умуджи,CyrillTrans,hope,,,umuǯi,Phonemic
+16-650-518-1,kryt1240,Kryz,100,дугъри,CyrillTrans,faithful,,,duɣri,Phonemic
+16-660-518-1,kryt1240,Kryz,1657,догъри,CyrillTrans,true,,,doɣri,Phonemic
+16-710-518-1,kryt1240,Kryz,1035,гъалаьд,CyrillTrans,good,,,"ɣaläd, gäläd",Phonemic
+16-710-518-3,kryt1240,Kryz,1035,гаьлаьд,CyrillTrans,good,,,"ɣaläd, gäläd",Phonemic
+16-720-518-1,kryt1240,Kryz,1292,гъалаьдад,CyrillTrans,bad,,,ɣalädad,Phonemic
+16-730-518-1,kryt1240,Kryz,1725,догъри,CyrillTrans,"right, correct",,,doɣri,Phonemic
+16-740-518-1,kryt1240,Kryz,1390,кьалп,CyrillTrans,wrong,,,qʼalp,Phonemic
+16-760-518-1,kryt1240,Kryz,134,къалат,CyrillTrans,fault,,,"Galat, xata",Phonemic
+16-760-518-3,kryt1240,Kryz,134,хата,CyrillTrans,fault,,,"Galat, xata",Phonemic
+16-770-518-1,kryt1240,Kryz,1293,къалат,CyrillTrans,"mistake, error",,,Galat,Phonemic
+16-780-518-1,kryt1240,Kryz,381,таксыркар йе̌джи,CyrillTrans,blame,,,taksɨrkar yěǯi,Phonemic
+16-790-518-1,kryt1240,Kryz,1687,тІагІриф йе̌джи,CyrillTrans,praise,,,tʼaʕrif yěǯi,Phonemic
+16-810-518-1,kryt1240,Kryz,1427,хІайардаь,CyrillTrans,beautiful,,,ћayardä,Phonemic
+16-820-518-1,kryt1240,Kryz,1548,гъалаьдаьд,CyrillTrans,ugly,,,ɣalädäd,Phonemic
+16-830-518-1,kryt1240,Kryz,2018,кІовагIди,CyrillTrans,greedy,,,kʼovaʕdi,Phonemic
+16-840-518-1,kryt1240,Kryz,1310,гІакьиллигъаь,CyrillTrans,clever,,,ʕaqʼilliɣä,Phonemic
+17-110-518-1,kryt1240,Kryz,1562,гІакьил,CyrillTrans,mind,,,ʕaqʼil,Phonemic
+17-130-518-1,kryt1240,Kryz,1415,фикирджи,CyrillTrans,think (= reflect),,,fikirǯi,Phonemic
+17-140-518-1,kryt1240,Kryz,1513,фикирджи,CyrillTrans,think (= be of the opinion),,,fikirǯi,Phonemic
+17-150-518-1,kryt1240,Kryz,1890,иманджи,CyrillTrans,believe,,,"imanǯi, inantɨš xiӡ̌i",Phonemic
+17-150-518-3,kryt1240,Kryz,1890,инантыш хьиджи,CyrillTrans,believe,,,"imanǯi, inantɨš xiӡ̌i",Phonemic
+17-160-518-1,kryt1240,Kryz,1536,гІаркьуджи,CyrillTrans,understand,,,"ʕarqʼuǯi, q’älle ʕax̌ari",Phonemic
+17-160-518-3,kryt1240,Kryz,1536,кьаьлле гІахьари,CyrillTrans,understand,,,"ʕarqʼuǯi, q’älle ʕax̌ari",Phonemic
+17-170-518-1,kryt1240,Kryz,1410,аьцІаьр хиджи,CyrillTrans,know,,,acʼar xiǯi,Phonemic
+17-190-518-1,kryt1240,Kryz,1609,фикир,CyrillTrans,"idea, notion",,,fikir,Phonemic
+17-210-518-1,kryt1240,Kryz,698,гьариф,CyrillTrans,wise,,,harif,Phonemic
+17-220-518-1,kryt1240,Kryz,1518,авдаллу,CyrillTrans,"foolish, stupid",,,avdallu,Phonemic
+17-230-518-1,kryt1240,Kryz,1899,авдаллу,CyrillTrans,"insane, crazy",,,avdallu,Phonemic
+17-240-518-1,kryt1240,Kryz,504,суходжи,CyrillTrans,learn,,,suxoǯi,Phonemic
+17-242-518-1,kryt1240,Kryz,1929,ухаджи,CyrillTrans,study,,,"uxaǯi, har yěӡ̌i",Phonemic
+17-242-518-3,kryt1240,Kryz,1929,гьар йе̌джи,CyrillTrans,study,,,"uxaǯi, har yěӡ̌i",Phonemic
+17-250-518-1,kryt1240,Kryz,709,суходжи,CyrillTrans,teach,,,suxoǯi,Phonemic
+17-260-518-1,kryt1240,Kryz,753,телебе,CyrillTrans,pupil,,,"telebe, täläbä",Phonemic
+17-260-518-3,kryt1240,Kryz,753,таьлаьбаь,CyrillTrans,pupil,,,"telebe, täläbä",Phonemic
+17-270-518-1,kryt1240,Kryz,1038,маьгІлим,CyrillTrans,teacher,,,mäʕlim,Phonemic
+17-280-518-1,kryt1240,Kryz,673,маьктаьб,CyrillTrans,school,,,mäktäb,Phonemic
+17-310-518-1,kryt1240,Kryz,707,кІигъиндж,CyrillTrans,remember,,,kʼiɣinǯ,Phonemic
+17-320-518-1,kryt1240,Kryz,1523,саьхинджи,CyrillTrans,forget,,,"säxinǯi, yik’ä?är saxɨnӡ̌i",Phonemic
+17-320-518-3,kryt1240,Kryz,1523,йакІаьъаьр ыфхинджи,CyrillTrans,forget,,,"säxinǯi, yik’ä?är saxɨnӡ̌i",Phonemic
+17-340-518-1,kryt1240,Kryz,989,магІлум,CyrillTrans,"clear, plain",,,maʕlum,Phonemic
+17-380-518-1,kryt1240,Kryz,1626,кьалле гІаьгІаьджи,CyrillTrans,explain,,,qʼalle ʕäʕäǯi,Phonemic
+17-410-518-1,kryt1240,Kryz,1162,мурад,CyrillTrans,"intention, purpose",,,murad,Phonemic
+17-420-518-1,kryt1240,Kryz,860,сабаб,CyrillTrans,cause,,,sabab,Phonemic
+17-430-518-1,kryt1240,Kryz,1308,васвас,CyrillTrans,doubt,,,"vasvas, šak",Phonemic
+17-430-518-3,kryt1240,Kryz,1308,шак,CyrillTrans,doubt,,,"vasvas, šak",Phonemic
+17-441-518-1,kryt1240,Kryz,1902,маза вуджи,CyrillTrans,betray,,,maza vuǯi,Phonemic
+17-450-518-1,kryt1240,Kryz,643,бахтсузывал,CyrillTrans,"need, necessity",,,baxtsuzɨval,Phonemic
+17-460-518-1,kryt1240,Kryz,686,рахІатлу,CyrillTrans,easy,,,raћatlu,Phonemic
+17-470-518-1,kryt1240,Kryz,584,джафалу,CyrillTrans,difficult,,,ǯafalu,Phonemic
+17-490-518-1,kryt1240,Kryz,488,хІамал,CyrillTrans,"way, manner",,,ћamal,Phonemic
+17-510-518-1,kryt1240,Kryz,1577,на,CyrillTrans,and,,,na,Phonemic
+17-530-518-1,kryt1240,Kryz,1459,агар,CyrillTrans,if,,,"agar, negeh",Phonemic
+17-530-518-3,kryt1240,Kryz,1459,негегь,CyrillTrans,if,,,"agar, negeh",Phonemic
+17-540-518-1,kryt1240,Kryz,1014,йа,CyrillTrans,or,,,ya,Phonemic
+17-550-518-1,kryt1240,Kryz,1268,агьа,CyrillTrans,"yes, affirmative",,,"aha, yey",Phonemic
+17-550-518-3,kryt1240,Kryz,1268,ей,CyrillTrans,"yes, affirmative",,,"aha, yey",Phonemic
+17-560-518-1,kryt1240,Kryz,1269,ваь,CyrillTrans,"no, negative",,,vä,Phonemic
+17-610-518-1,kryt1240,Kryz,1239,гьаьмаьн,CyrillTrans,how?,,,hämän,Phonemic
+17-620-518-1,kryt1240,Kryz,822,гьаьхькаьраь,CyrillTrans,how many?,,,häх̌kärä,Phonemic
+17-630-518-1,kryt1240,Kryz,531,гьаьхькаьраь,CyrillTrans,how much?,,,häх̌kärä,Phonemic
+17-640-518-1,kryt1240,Kryz,1236,ши,CyrillTrans,what?,,,ši,Phonemic
+17-650-518-1,kryt1240,Kryz,1238,мыс,CyrillTrans,when?,,,mɨs,Phonemic
+17-660-518-1,kryt1240,Kryz,1237,гьотаь,CyrillTrans,where?,,,"hotä, hotan",Phonemic
+17-660-518-3,kryt1240,Kryz,1237,гьотан,CyrillTrans,where?,,,"hotä, hotan",Phonemic
+17-670-518-1,kryt1240,Kryz,727,гьанджара,CyrillTrans,which?,,,hanǯara,Phonemic
+17-680-518-1,kryt1240,Kryz,1235,тий,CyrillTrans,who?,,,tiy,Phonemic
+17-690-518-1,kryt1240,Kryz,1270,чиз,CyrillTrans,why?,,,čiz,Phonemic
+18-110-518-1,kryt1240,Kryz,1363,саьс,CyrillTrans,voice,,,säs,Phonemic
+18-120-518-1,kryt1240,Kryz,1261,ухаджи,CyrillTrans,sing,,,"uxaǯi, mahni lipǯi",Phonemic
+18-120-518-3,kryt1240,Kryz,1261,магьни липджи,CyrillTrans,sing,,,"uxaǯi, mahni lipǯi",Phonemic
+18-130-518-1,kryt1240,Kryz,715,гьарай йе̌джи,CyrillTrans,"shout, cry out",,,"haray yěǯi, angɨrmiš šeri",Phonemic
+18-130-518-3,kryt1240,Kryz,715,ангырмыш шери,CyrillTrans,"shout, cry out",,,"haray yěǯi, angɨrmiš šeri",Phonemic
+18-150-518-1,kryt1240,Kryz,55,кушкушджи,CyrillTrans,whisper,,,kuškušǯi,Phonemic
+18-160-518-1,kryt1240,Kryz,128,мырыдж,CyrillTrans,mumble,,,mɨrɨǯ,Phonemic
+18-170-518-1,kryt1240,Kryz,1025,фитйаджи,CyrillTrans,whistle,,,fityaǯi,Phonemic
+18-180-518-1,kryt1240,Kryz,298,уьлуьвджи,CyrillTrans,"shriek, screech",,,ülüvǯi,Phonemic
+18-190-518-1,kryt1240,Kryz,526,уьлуьвджи,CyrillTrans,howl,,,ülüvǯi,Phonemic
+18-210-518-1,kryt1240,Kryz,1623,липджи,CyrillTrans,"speak, talk",,,"lipǯi, uxaǯi, uxaǯu",Phonemic
+18-210-518-3,kryt1240,Kryz,1623,ухаджи,CyrillTrans,"speak, talk",,,"lipǯi, uxaǯi, uxaǯu",Phonemic
+18-210-518-5,kryt1240,Kryz,1623,ухаджу,CyrillTrans,"speak, talk",,,"lipǯi, uxaǯi, uxaǯu",Phonemic
+18-220-518-1,kryt1240,Kryz,1458,липджи,CyrillTrans,say,,,lipǯi,Phonemic
+18-221-518-1,kryt1240,Kryz,1711,къахъаджи,CyrillTrans,tell story,,,Gaqaǯi,Phonemic
+18-222-518-1,kryt1240,Kryz,1115,цIе̌л липиджи,CyrillTrans,speech (make a),,,c’ěl lipiǯi,Phonemic
+18-240-518-1,kryt1240,Kryz,1307,мез,CyrillTrans,language,,,mez,Phonemic
+18-260-518-1,kryt1240,Kryz,1599,цІе̌л,CyrillTrans,word,,,cʼěl,Phonemic
+18-280-518-1,kryt1240,Kryz,1405,тІыр,CyrillTrans,name,,,tʼɨr,Phonemic
+18-320-518-1,kryt1240,Kryz,1275,джаваб вуйидж,CyrillTrans,answer,,,ǯavab vuyiǯ,Phonemic
+18-340-518-1,kryt1240,Kryz,755,инкарджи,CyrillTrans,deny,,,inkarǯi,Phonemic
+18-350-518-1,kryt1240,Kryz,1828,таьваьтаьдж,CyrillTrans,"ask, request",,,tävätäǯ,Phonemic
+18-360-518-1,kryt1240,Kryz,1675,цIел вуйидж,CyrillTrans,promise,,,cʼel vuyiǯ,Phonemic
+18-370-518-1,kryt1240,Kryz,49,инкар йе̌джи,CyrillTrans,refuse,,,inkar yěǯi,Phonemic
+18-410-518-1,kryt1240,Kryz,1084,хокридж,CyrillTrans,call (=summon),,,xokriǯ,Phonemic
+18-420-518-1,kryt1240,Kryz,180,тиладж,CyrillTrans,call (=name),,,tilaǯ,Phonemic
+18-430-518-1,kryt1240,Kryz,9,липджи,CyrillTrans,announce,,,lipǯi,Phonemic
+18-440-518-1,kryt1240,Kryz,1192,кичІ йе̌джи,CyrillTrans,threaten,,,kičʼ yěǯi,Phonemic
+18-450-518-1,kryt1240,Kryz,101,таьгІриф йе̌джи,CyrillTrans,boast,,,täʕrif yěǯi,Phonemic
+18-510-518-1,kryt1240,Kryz,1672,чилаьджи,CyrillTrans,write,,,"čiläǯi, či yěӡ̌i",Phonemic
+18-510-518-3,kryt1240,Kryz,1672,чи йе̌джи,CyrillTrans,write,,,"čiläǯi, či yěӡ̌i",Phonemic
+18-520-518-1,kryt1240,Kryz,724,ухаджу,CyrillTrans,read,,,"uxaǯu, uxaǯi",Phonemic
+18-520-518-3,kryt1240,Kryz,724,уходжи,CyrillTrans,read,,,"uxaǯu, uxaǯi",Phonemic
+18-560-518-1,kryt1240,Kryz,648,кагъаз,CyrillTrans,paper,,,kaɣaz,Phonemic
+18-570-518-1,kryt1240,Kryz,794,ручка,CyrillTrans,pen,,,"ručka, qʼäläm",Phonemic
+18-570-518-3,kryt1240,Kryz,794,кьаьлаьм,CyrillTrans,pen,,,"ručka, qʼäläm",Phonemic
+18-610-518-1,kryt1240,Kryz,963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-518-1,kryt1240,Kryz,1045,шаир,CyrillTrans,poet,,,šaʔir,Phonemic
+18-710-518-1,kryt1240,Kryz,777,зырна,CyrillTrans,flute,,,zɨrna,Phonemic
+18-720-518-1,kryt1240,Kryz,908,далдам,CyrillTrans,drum,,,"daldam, qʼaval",Phonemic
+18-720-518-3,kryt1240,Kryz,908,кьавал,CyrillTrans,drum,,,"daldam, qʼaval",Phonemic
+18-730-518-1,kryt1240,Kryz,2136,тІуьртІегь,CyrillTrans,"horn, trumpet",,,tʼürtʼeh,Phonemic
+19-110-518-1,kryt1240,Kryz,1300,уьлке,CyrillTrans,country,,,ülke,Phonemic
+19-120-518-1,kryt1240,Kryz,89,ветан,CyrillTrans,one's native country,,,vetan,Phonemic
+19-150-518-1,kryt1240,Kryz,1391,шаьгьаьр,CyrillTrans,"city, town",,,"šähär, šeher",Phonemic
+19-150-518-3,kryt1240,Kryz,1391,шегьер,CyrillTrans,"city, town",,,"šähär, šeher",Phonemic
+19-160-518-1,kryt1240,Kryz,930,кум,CyrillTrans,village,,,kum,Phonemic
+19-170-518-1,kryt1240,Kryz,1010,сергъет,CyrillTrans,boundary,,,serɣet,Phonemic
+19-210-518-1,kryt1240,Kryz,789,халкь,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-518-1,kryt1240,Kryz,302,тайфа,CyrillTrans,"tribe, clan",,,tayfa,Phonemic
+19-240-518-1,kryt1240,Kryz,301,лаьгьбаьр,CyrillTrans,"chief, chieftain",,,lähbär,Phonemic
+19-250-518-1,kryt1240,Kryz,1296,кІаьс,CyrillTrans,"staff, walking stick",,,"kʼäs, räs, hasa",Phonemic
+19-250-518-3,kryt1240,Kryz,1296,раьс,CyrillTrans,"staff, walking stick",,,"kʼäs, räs, hasa",Phonemic
+19-250-518-5,kryt1240,Kryz,1296,гьаса,CyrillTrans,"staff, walking stick",,,"kʼäs, räs, hasa",Phonemic
+19-310-518-1,kryt1240,Kryz,1846,паччагьвал йе̌джи,CyrillTrans,"rule, govern",,,pač̄ahval yěǯi,Phonemic
+19-320-518-1,kryt1240,Kryz,1508,паччагь,CyrillTrans,"king, ruler",,,"pač̄ah, xan",Phonemic
+19-320-518-3,kryt1240,Kryz,1508,хан,CyrillTrans,"king, ruler",,,"pač̄ah, xan",Phonemic
+19-330-518-1,kryt1240,Kryz,1306,паччагь-хыныб,CyrillTrans,queen,,,pač̄ah-xɨnɨb,Phonemic
+19-360-518-1,kryt1240,Kryz,482,догъри,CyrillTrans,"noble, nobleman",,,"doɣri, ɣalad",Phonemic
+19-360-518-3,kryt1240,Kryz,482,гъалад,CyrillTrans,"noble, nobleman",,,"doɣri, ɣalad",Phonemic
+19-370-518-1,kryt1240,Kryz,1032,шегьер-адми,CyrillTrans,"citizen, subject",,,šeher-admi,Phonemic
+19-410-518-1,kryt1240,Kryz,383,агъа,CyrillTrans,master,,,aɣa,Phonemic
+19-420-518-1,kryt1240,Kryz,812,къул,CyrillTrans,slave,,,"Gul, lɨk",Phonemic
+19-420-518-3,kryt1240,Kryz,812,лык,CyrillTrans,slave,,,"Gul, lɨk",Phonemic
+19-430-518-1,kryt1240,Kryz,255,нуквар,CyrillTrans,servant,,,nukʷar,Phonemic
+19-440-518-1,kryt1240,Kryz,384,эркен-адми,CyrillTrans,freeman,,,erken-admi,Phonemic
+19-450-518-1,kryt1240,Kryz,1128,буйрукь йе̌джи,CyrillTrans,"command, order",,,buyruqʼ yěǯi,Phonemic
+19-460-518-1,kryt1240,Kryz,1635,мутІигІ вуйиджи,CyrillTrans,obey,,,mutʼiʕ vuyiǯi,Phonemic
+19-470-518-1,kryt1240,Kryz,1003,ихтйар вуйиджи,CyrillTrans,"let, permit",,,ixtyar vuyiǯi,Phonemic
+19-510-518-1,kryt1240,Kryz,1325,дуст,CyrillTrans,"friend, companion",,,dust,Phonemic
+19-520-518-1,kryt1240,Kryz,1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-518-1,kryt1240,Kryz,1332,кьунши,CyrillTrans,neighbor,,,qʼunši,Phonemic
+19-560-518-1,kryt1240,Kryz,1782,мигьмен,CyrillTrans,guest,,,mihmen,Phonemic
+19-570-518-1,kryt1240,Kryz,1545,агъа,CyrillTrans,host,,,aɣa,Phonemic
+19-580-518-1,kryt1240,Kryz,1897,коьмаьк,CyrillTrans,"help, aid",,,kömäk,Phonemic
+19-590-518-1,kryt1240,Kryz,1550,мейшат йе̌джи,CyrillTrans,"hinder, prevent",,,meyšat yěǯi,Phonemic
+19-610-518-1,kryt1240,Kryz,1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-518-1,kryt1240,Kryz,1848,давгІа,CyrillTrans,"strife, quarrel",,,davʕa,Phonemic
+19-720-518-1,kryt1240,Kryz,1610,кьахІбе,CyrillTrans,prostitute,,,qʼaћbe,Phonemic
+20-110-518-1,kryt1240,Kryz,1423,давгІа йе̌джи,CyrillTrans,fight (vb),,,davʕa yěǯi,Phonemic
+20-130-518-1,kryt1240,Kryz,579,давгІа,CyrillTrans,"war, battle",,,davʕa,Phonemic
+20-140-518-1,kryt1240,Kryz,1338,ислаьгьувал,CyrillTrans,peace,,,islähuval,Phonemic
+20-150-518-1,kryt1240,Kryz,1561,арми,CyrillTrans,army,,,"armi, dästä, qʼušun",Phonemic
+20-150-518-3,kryt1240,Kryz,1561,даьстаь,CyrillTrans,army,,,"armi, dästä, qʼušun",Phonemic
+20-150-518-5,kryt1240,Kryz,1561,кьушун,CyrillTrans,army,,,"armi, dästä, qʼušun",Phonemic
+20-170-518-1,kryt1240,Kryz,1941,аьскаьр,CyrillTrans,soldier,,,äskär,Phonemic
+20-210-518-1,kryt1240,Kryz,951,шилагь,CyrillTrans,"weapons, arms",,,šilah,Phonemic
+20-220-518-1,kryt1240,Kryz,1763,раз,CyrillTrans,club,,,raz,Phonemic
+20-222-518-1,kryt1240,Kryz,386,йокІ,CyrillTrans,battle-ax,,,yokʼ,Phonemic
+20-230-518-1,kryt1240,Kryz,387,шап,CyrillTrans,sling,,,šap,Phonemic
+20-240-518-1,kryt1240,Kryz,994,тІаьм,CyrillTrans,bow,,,tʼäm,Phonemic
+20-250-518-1,kryt1240,Kryz,977,йай,CyrillTrans,arrow,,,yay,Phonemic
+20-260-518-1,kryt1240,Kryz,945,джида,CyrillTrans,spear,,,ǯida,Phonemic
+20-270-518-1,kryt1240,Kryz,1535,къилиндж,CyrillTrans,sword,,,"Gilinǯ, qämä",Phonemic
+20-270-518-3,kryt1240,Kryz,1535,хъаьмаь,CyrillTrans,sword,,,"Gilinǯ, qämä",Phonemic
+20-280-518-1,kryt1240,Kryz,1566,туфанг,CyrillTrans,"gun, cannon",,,"tufang, tup",Phonemic
+20-280-518-3,kryt1240,Kryz,1566,туп,CyrillTrans,"gun, cannon",,,"tufang, tup",Phonemic
+20-310-518-1,kryt1240,Kryz,1061,йарагъ-матахІ,CyrillTrans,armor (defensive),,,"yaraɣ-mataћ, tebilka",Phonemic
+20-310-518-3,kryt1240,Kryz,1061,тебилка,CyrillTrans,armor (defensive),,,"yaraɣ-mataћ, tebilka",Phonemic
+20-330-518-1,kryt1240,Kryz,1680,кьаьк,CyrillTrans,helmet,,,qʼäk,Phonemic
+20-340-518-1,kryt1240,Kryz,1064,къалхан,CyrillTrans,shield,,,Galxan,Phonemic
+20-350-518-1,kryt1240,Kryz,1938,кьала,CyrillTrans,fortress,,,qʼala,Phonemic
+20-360-518-1,kryt1240,Kryz,1671,кьала,CyrillTrans,tower,,,qʼala,Phonemic
+20-410-518-1,kryt1240,Kryz,783,къелебе,CyrillTrans,victory,,,Gelebe,Phonemic
+20-430-518-1,kryt1240,Kryz,722,гьуджум йе̌джи,CyrillTrans,attack,,,huǯum yěǯi,Phonemic
+20-470-518-1,kryt1240,Kryz,1072,йасыр,CyrillTrans,"captive, prisoner",,,yasɨr,Phonemic
+20-471-518-1,kryt1240,Kryz,1940,кьараул,CyrillTrans,"guard, sentinel",,,"qʼaraul, axran",Phonemic
+20-471-518-3,kryt1240,Kryz,1940,ахран,CyrillTrans,"guard, sentinel",,,"qʼaraul, axran",Phonemic
+20-480-518-1,kryt1240,Kryz,1022,давла,CyrillTrans,"booty, spoils",,,davla,Phonemic
+20-510-518-1,kryt1240,Kryz,1858,балугъчи,CyrillTrans,fisherman,,,baluɣči,Phonemic
+20-520-518-1,kryt1240,Kryz,1074,къармагъ,CyrillTrans,fishhook,,,Garmaɣ,Phonemic
+20-530-518-1,kryt1240,Kryz,19,лескІа,CyrillTrans,fishing line,,,leskʼa,Phonemic
+20-540-518-1,kryt1240,Kryz,388,тур,CyrillTrans,fishnet,,,tur,Phonemic
+20-550-518-1,kryt1240,Kryz,389,къармагъ-тала,CyrillTrans,fish trap,,,Garmaɣ-tala,Phonemic
+20-620-518-1,kryt1240,Kryz,1172,къатІджи,CyrillTrans,shoot,,,Gatʼǯi,Phonemic
+20-640-518-1,kryt1240,Kryz,1075,тала,CyrillTrans,trap (noun),,,"tala, q’ʷap’, q’ap’",Phonemic
+20-640-518-3,kryt1240,Kryz,1075,кьвапІ,CyrillTrans,trap (noun),,,"tala, q’ʷap’, q’ap’",Phonemic
+20-640-518-5,kryt1240,Kryz,1075,кьапІ,CyrillTrans,trap (noun),,,"tala, q’ʷap’, q’ap’",Phonemic
+20-650-518-1,kryt1240,Kryz,1170,уьджуьрджи,CyrillTrans,trap (vb),,,üǯürǯi,Phonemic
+21-110-518-1,kryt1240,Kryz,1062,закун,CyrillTrans,law,,,zakun,Phonemic
+21-150-518-1,kryt1240,Kryz,1068,диван,CyrillTrans,court,,,"divan, sud",Phonemic
+21-150-518-3,kryt1240,Kryz,1068,суд,CyrillTrans,court,,,"divan, sud",Phonemic
+21-160-518-1,kryt1240,Kryz,1818,диван йе̌джи,CyrillTrans,judge (vb),,,"divan yeǯi, sud yěǯi",Phonemic
+21-160-518-3,kryt1240,Kryz,1818,суд йе̌джи,CyrillTrans,judge (vb),,,"divan yeǯi, sud yěǯi",Phonemic
+21-170-518-1,kryt1240,Kryz,1067,судла хІукму,CyrillTrans,judgment,,,sudla ћukmu,Phonemic
+21-180-518-1,kryt1240,Kryz,861,диванчи,CyrillTrans,judge (noun),,,"divanči, sudi",Phonemic
+21-180-518-3,kryt1240,Kryz,861,суди,CyrillTrans,judge (noun),,,"divanči, sudi",Phonemic
+21-210-518-1,kryt1240,Kryz,2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-518-1,kryt1240,Kryz,1034,джавабчи,CyrillTrans,defendant,,,ǯavabči,Phonemic
+21-230-518-1,kryt1240,Kryz,1144,шагьид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-518-1,kryt1240,Kryz,1939,кьын вуйиджи,CyrillTrans,swear,,,qʼɨn vuyiǯi,Phonemic
+21-250-518-1,kryt1240,Kryz,1712,кьын,CyrillTrans,oath,,,qʼɨn,Phonemic
+21-310-518-1,kryt1240,Kryz,1814,таксыркар йе̌джи,CyrillTrans,accuse,,,taksɨrkar yěǯi,Phonemic
+21-320-518-1,kryt1240,Kryz,484,таксыркар йе̌джи,CyrillTrans,condemn,,,taksɨrkar yěǯi,Phonemic
+21-330-518-1,kryt1240,Kryz,983,таксыркар йе̌джи,CyrillTrans,convict (vb),,,taksɨrkar yěǯi,Phonemic
+21-350-518-1,kryt1240,Kryz,1682,таксыркар,CyrillTrans,guilty,,,taksɨrkar,Phonemic
+21-370-518-1,kryt1240,Kryz,390,джаза,CyrillTrans,"penalty, punishment",,,"ǯaza, tembeћ",Phonemic
+21-370-518-3,kryt1240,Kryz,390,тембехІ,CyrillTrans,"penalty, punishment",,,"ǯaza, tembeћ",Phonemic
+21-380-518-1,kryt1240,Kryz,218,штараф,CyrillTrans,fine,,,štaraf,Phonemic
+21-390-518-1,kryt1240,Kryz,1281,дистагъ,CyrillTrans,"prison, jail",,,distaɣ,Phonemic
+21-420-518-1,kryt1240,Kryz,845,кьаьлиджвал,CyrillTrans,murder,,,qʼäliǯval,Phonemic
+21-430-518-1,kryt1240,Kryz,902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-518-1,kryt1240,Kryz,953,зина,CyrillTrans,rape,,,zina,Phonemic
+21-510-518-1,kryt1240,Kryz,713,джунхІанджи,CyrillTrans,steal,,,ǯunћanǯi,Phonemic
+21-520-518-1,kryt1240,Kryz,1160,джуннах,CyrillTrans,thief,,,ǯunnax,Phonemic
+22-110-518-1,kryt1240,Kryz,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-518-1,kryt1240,Kryz,1944,Кьаг,CyrillTrans,God,,,"qʼag, qʼog, Allah",Phonemic
+22-120-518-3,kryt1240,Kryz,1944,Кьог,CyrillTrans,God,,,"qʼag, qʼog, Allah",Phonemic
+22-120-518-5,kryt1240,Kryz,1944,Аллагь,CyrillTrans,God,,,"qʼag, qʼog, Allah",Phonemic
+22-130-518-1,kryt1240,Kryz,911,сакьдар,CyrillTrans,"temple, church",,,saqʼdar,Phonemic
+22-140-518-1,kryt1240,Kryz,853,михІмар,CyrillTrans,altar,,,miћmar,Phonemic
+22-150-518-1,kryt1240,Kryz,1103,кьурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-518-1,kryt1240,Kryz,257,суждаь йе̌джи,CyrillTrans,worship,,,suždä yěǯi,Phonemic
+22-170-518-1,kryt1240,Kryz,24,намаз йе̌джи,CyrillTrans,pray,,,"namaz yěǯi, doʕa yěǯi",Phonemic
+22-170-518-3,kryt1240,Kryz,24,дагIа йе̌джи,CyrillTrans,pray,,,"namaz yěǯi, doʕa yěǯi",Phonemic
+22-180-518-1,kryt1240,Kryz,852,малла,CyrillTrans,priest,,,"malla, kešiš",Phonemic
+22-180-518-3,kryt1240,Kryz,852,кешиш,CyrillTrans,priest,,,"malla, kešiš",Phonemic
+22-190-518-1,kryt1240,Kryz,1702,валши,CyrillTrans,"holy, sacred",,,valši,Phonemic
+22-220-518-1,kryt1240,Kryz,304,веъзе йе̌джи,CyrillTrans,preach,,,veʔze yěǯi,Phonemic
+22-240-518-1,kryt1240,Kryz,8,нагІла йе̌джи,CyrillTrans,curse,,,naʕla yěǯi,Phonemic
+22-310-518-1,kryt1240,Kryz,1565,джаьннаьт,CyrillTrans,heaven,,,ǯännät,Phonemic
+22-320-518-1,kryt1240,Kryz,878,джаьгьаьннаьм,CyrillTrans,hell,,,ǯähännäm,Phonemic
+22-350-518-1,kryt1240,Kryz,1973,шийтІан,CyrillTrans,demon (evil spirit),,,šiytʼan,Phonemic
+22-370-518-1,kryt1240,Kryz,1945,хач,CyrillTrans,idol,,,xač,Phonemic
+22-420-518-1,kryt1240,Kryz,392,сихІир,CyrillTrans,"magic, witchcraft, sorcery",,,siћir,Phonemic
+22-430-518-1,kryt1240,Kryz,2137,малкамут,CyrillTrans,"sorcerer, witch",,,malkamut,Phonemic
+22-440-518-1,kryt1240,Kryz,2138,пери,CyrillTrans,"fairy, elf",,,peri,Phonemic
+22-450-518-1,kryt1240,Kryz,1175,хІикмат,CyrillTrans,"ghost, phantom",,,ћikmat,Phonemic
+22-470-518-1,kryt1240,Kryz,107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

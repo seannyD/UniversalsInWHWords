@@ -1,0 +1,1418 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-317-1,chec1245,Chechen (Akkin dialect),1852,кест-кест,CyrillTrans,often,,,kest-kest,Phonemic
+14-310-317-1,chec1245,Chechen (Akkin dialect),1676,даим,CyrillTrans,always,,,"daim, got̄ɨr",Phonemic
+14-310-317-3,chec1245,Chechen (Akkin dialect),1676,готтыр,CyrillTrans,always,,,"daim, got̄ɨr",Phonemic
+14-290-317-1,chec1245,Chechen (Akkin dialect),790,кич,CyrillTrans,ready,,,kič,Phonemic
+14-280-317-1,chec1245,Chechen (Akkin dialect),1928,сац,CyrillTrans,"cease, stop",,,sac,Phonemic
+14-270-317-1,chec1245,Chechen (Akkin dialect),1766,чекхдаккх,CyrillTrans,finish,,,čeqdaq̄,Phonemic
+14-260-317-1,chec1245,Chechen (Akkin dialect),743,чекхдаккх,CyrillTrans,end (temporal),,,čeqdaq̄,Phonemic
+14-252-317-1,chec1245,Chechen (Akkin dialect),1186,дΙаэх,CyrillTrans,"last, endure",,,dʕaex,Phonemic
+14-250-317-1,chec1245,Chechen (Akkin dialect),1806,дало,CyrillTrans,"begin, beginning",,,"dalo, yüħ",Phonemic
+14-250-317-3,chec1245,Chechen (Akkin dialect),1806,юьхь,CyrillTrans,"begin, beginning",,,"dalo, yüħ",Phonemic
+14-240-317-1,chec1245,Chechen (Akkin dialect),425,сацдал,CyrillTrans,"retard, delay",,,sacdal,Phonemic
+14-230-317-1,chec1245,Chechen (Akkin dialect),754,сех хал,CyrillTrans,"hasten, hurry",,,sex xal,Phonemic
+14-220-317-1,chec1245,Chechen (Akkin dialect),701,меллыш,CyrillTrans,slow,,,mel̄ɨš,Phonemic
+14-210-317-1,chec1245,Chechen (Akkin dialect),1631,сех,CyrillTrans,"swift, fast, quick",,,"sex, mās",Phonemic
+14-210-317-3,chec1245,Chechen (Akkin dialect),1631,ма̄с,CyrillTrans,"swift, fast, quick",,,"sex, mās",Phonemic
+14-190-317-1,chec1245,Chechen (Akkin dialect),1963,сех,CyrillTrans,immediately,,,"sex, ca gawoš",Phonemic
+14-190-317-3,chec1245,Chechen (Akkin dialect),1963,ца гавош,CyrillTrans,immediately,,,"sex, ca gawoš",Phonemic
+14-180-317-1,chec1245,Chechen (Akkin dialect),1376,хΙинц,CyrillTrans,now,,,hinc,Phonemic
+14-170-317-1,chec1245,Chechen (Akkin dialect),477,тΙаьхьа,CyrillTrans,late,,,tʼäħa,Phonemic
+14-160-317-1,chec1245,Chechen (Akkin dialect),672,хΙархе,CyrillTrans,early,,,harxe,Phonemic
+14-150-317-1,chec1245,Chechen (Akkin dialect),1229,къен,CyrillTrans,old,,,qʼen,Phonemic
+14-140-317-1,chec1245,Chechen (Akkin dialect),1207,зимиг,CyrillTrans,young,,,zimig,Phonemic
+14-120-317-1,chec1245,Chechen (Akkin dialect),1789,хан,CyrillTrans,age,,,"xan, zam, ömɨr",Phonemic
+14-120-317-3,chec1245,Chechen (Akkin dialect),1789,зам,CyrillTrans,age,,,"xan, zam, ömɨr",Phonemic
+14-120-317-5,chec1245,Chechen (Akkin dialect),1789,оьмыр,CyrillTrans,age,,,"xan, zam, ömɨr",Phonemic
+14-130-317-1,chec1245,Chechen (Akkin dialect),1231,керла,CyrillTrans,new,,,"kerla, cʼena",Phonemic
+14-130-317-3,chec1245,Chechen (Akkin dialect),1231,цΙена,CyrillTrans,new,,,"kerla, cʼena",Phonemic
+14-110-317-1,chec1245,Chechen (Akkin dialect),892,хан,CyrillTrans,time,,,xan,Phonemic
+13-440-317-1,chec1245,Chechen (Akkin dialect),417,кхузз,CyrillTrans,three times,,,quzz,Phonemic
+13-420-317-1,chec1245,Chechen (Akkin dialect),1859,кхоргΙ,CyrillTrans,third,,,qorɣ,Phonemic
+13-380-317-1,chec1245,Chechen (Akkin dialect),1546,шоз,CyrillTrans,two times,,,šoz,Phonemic
+13-370-317-1,chec1245,Chechen (Akkin dialect),1888,гииъ,CyrillTrans,pair,,,giʔiʔ,Phonemic
+13-360-317-1,chec1245,Chechen (Akkin dialect),1384,шолгΙа,CyrillTrans,second,,,šolɣa,Phonemic
+13-350-317-1,chec1245,Chechen (Akkin dialect),1529,пΙаьххыр,CyrillTrans,last,,,pʼäx̄ɨr,Phonemic
+13-340-317-1,chec1245,Chechen (Akkin dialect),728,хъалхор,CyrillTrans,first,,,ħalxor,Phonemic
+13-330-317-1,chec1245,Chechen (Akkin dialect),1580,цхьаъ,CyrillTrans,"alone, only",,,cħaʔ,Phonemic
+13-240-317-1,chec1245,Chechen (Akkin dialect),816,ах,CyrillTrans,half,,,ax,Phonemic
+13-230-317-1,chec1245,Chechen (Akkin dialect),779,юьхк,CyrillTrans,"part, piece",,,yüxk,Phonemic
+13-220-317-1,chec1245,Chechen (Akkin dialect),1624,даьсса,CyrillTrans,empty,,,dässa,Phonemic
+13-210-317-1,chec1245,Chechen (Akkin dialect),1429,вюззын,CyrillTrans,full,,,wyuzzɨn,Phonemic
+13-190-317-1,chec1245,Chechen (Akkin dialect),2023,дукха,CyrillTrans,"multitude, crowd",,,duqa,Phonemic
+13-181-317-1,chec1245,Chechen (Akkin dialect),1241,масех,CyrillTrans,some,,,masex,Phonemic
+13-170-317-1,chec1245,Chechen (Akkin dialect),1242,кΙизиг,CyrillTrans,"little (quantity), few",,,kʼizig,Phonemic
+13-180-317-1,chec1245,Chechen (Akkin dialect),1881,тоъал,CyrillTrans,enough,,,toʔal,Phonemic
+13-160-317-1,chec1245,Chechen (Akkin dialect),1992,дукх,CyrillTrans,more,,,duq,Phonemic
+13-150-317-1,chec1245,Chechen (Akkin dialect),1198,дукх,CyrillTrans,"much, many",,,duq,Phonemic
+13-140-317-1,chec1245,Chechen (Akkin dialect),98,массо,CyrillTrans,"every, all",,,"masso, derrig",Phonemic
+13-140-317-3,chec1245,Chechen (Akkin dialect),98,дерриг,CyrillTrans,"every, all",,,"masso, derrig",Phonemic
+13-107-317-1,chec1245,Chechen (Akkin dialect),1420,дагарда,CyrillTrans,count,,,dagarda,Phonemic
+13-106-317-1,chec1245,Chechen (Akkin dialect),1843,эзыр,CyrillTrans,thousand,,,ezɨr,Phonemic
+13-105-317-1,chec1245,Chechen (Akkin dialect),1634,бΙа,CyrillTrans,hundred,,,bʕa,Phonemic
+13-104-317-1,chec1245,Chechen (Akkin dialect),1710,ткъа,CyrillTrans,twenty,,,tqʼa,Phonemic
+13-103-317-1,chec1245,Chechen (Akkin dialect),1709,ихитт,CyrillTrans,fifteen,,,ixit̄,Phonemic
+13-102-317-1,chec1245,Chechen (Akkin dialect),1707,шитт,CyrillTrans,twelve,,,šit̄,Phonemic
+13-101-317-1,chec1245,Chechen (Akkin dialect),1706,цкъайт,CyrillTrans,eleven,,,cqʼayt,Phonemic
+13-100-317-1,chec1245,Chechen (Akkin dialect),1515,итт,CyrillTrans,ten,,,it̄,Phonemic
+13-90-317-1,chec1245,Chechen (Akkin dialect),1483,исс,CyrillTrans,nine,,,iss,Phonemic
+13-80-317-1,chec1245,Chechen (Akkin dialect),1705,бар,CyrillTrans,eight,,,bar,Phonemic
+13-70-317-1,chec1245,Chechen (Akkin dialect),1704,вар,CyrillTrans,seven,,,war,Phonemic
+13-60-317-1,chec1245,Chechen (Akkin dialect),1703,ялх,CyrillTrans,six,,,yalx,Phonemic
+13-50-317-1,chec1245,Chechen (Akkin dialect),493,пхиъ,CyrillTrans,five,,,pxiʔ,Phonemic
+13-40-317-1,chec1245,Chechen (Akkin dialect),1500,диъ,CyrillTrans,four,,,diʔ,Phonemic
+13-20-317-1,chec1245,Chechen (Akkin dialect),1498,гииъ,CyrillTrans,two,,,giʔiʔ,Phonemic
+13-30-317-1,chec1245,Chechen (Akkin dialect),492,кхоъ,CyrillTrans,three,,,qoʔ,Phonemic
+13-10-317-1,chec1245,Chechen (Akkin dialect),1493,цхьаъ,CyrillTrans,one,,,cħaʔ,Phonemic
+13-0-317-1,chec1245,Chechen (Akkin dialect),1294,ноль,CyrillTrans,"zero, nothing",,,nolʲ,Phonemic
+12-930-317-1,chec1245,Chechen (Akkin dialect),1264,хец,CyrillTrans,change,,,xec,Phonemic
+12-920-317-1,chec1245,Chechen (Akkin dialect),1558,тера,CyrillTrans,"like, similar",,,tera,Phonemic
+12-840-317-1,chec1245,Chechen (Akkin dialect),1048,сиз,CyrillTrans,line,,,siz,Phonemic
+12-850-317-1,chec1245,Chechen (Akkin dialect),1667,Ιуьрг,CyrillTrans,hole,,,ʕürg,Phonemic
+12-830-317-1,chec1245,Chechen (Akkin dialect),1845,горгалла,CyrillTrans,"sphere, ball",,,"gorgal̄a, šar",Phonemic
+12-830-317-3,chec1245,Chechen (Akkin dialect),1845,шар,CyrillTrans,"sphere, ball",,,"gorgal̄a, šar",Phonemic
+12-810-317-1,chec1245,Chechen (Akkin dialect),1395,гёрг,CyrillTrans,round,,,gyorg,Phonemic
+12-820-317-1,chec1245,Chechen (Akkin dialect),1467,го,CyrillTrans,circle,,,go,Phonemic
+12-780-317-1,chec1245,Chechen (Akkin dialect),850,квадрат,CyrillTrans,square,,,kwadrat,Phonemic
+12-770-317-1,chec1245,Chechen (Akkin dialect),1367,жΙар,CyrillTrans,cross,,,žʕar,Phonemic
+12-760-317-1,chec1245,Chechen (Akkin dialect),192,са,CyrillTrans,corner,,,sa,Phonemic
+12-750-317-1,chec1245,Chechen (Akkin dialect),1071,мΙара,CyrillTrans,hook,,,mʕara,Phonemic
+12-740-317-1,chec1245,Chechen (Akkin dialect),297,гом,CyrillTrans,crooked,,,gom,Phonemic
+12-730-317-1,chec1245,Chechen (Akkin dialect),1404,нис,CyrillTrans,straight,,,nis,Phonemic
+12-710-317-1,chec1245,Chechen (Akkin dialect),1633,тΙоп,CyrillTrans,flat,,,tʼop,Phonemic
+12-680-317-1,chec1245,Chechen (Akkin dialect),193,киги,CyrillTrans,shallow,,,kigi,Phonemic
+12-670-317-1,chec1245,Chechen (Akkin dialect),1593,кΙорг,CyrillTrans,deep,,,kʼorg,Phonemic
+12-650-317-1,chec1245,Chechen (Akkin dialect),2249,дюткъ,CyrillTrans,thin (in dimension),,,dyutqʼ,Phonemic
+12-630-317-1,chec1245,Chechen (Akkin dialect),1244,верстын,CyrillTrans,thick (in dimension),,,werstɨn,Phonemic
+12-620-317-1,chec1245,Chechen (Akkin dialect),1267,гот,CyrillTrans,narrow,,,got,Phonemic
+12-610-317-1,chec1245,Chechen (Akkin dialect),1243,гиюр,CyrillTrans,"wide, broad",,,giyur,Phonemic
+12-590-317-1,chec1245,Chechen (Akkin dialect),1645,лац,CyrillTrans,short,,,lac,Phonemic
+12-580-317-1,chec1245,Chechen (Akkin dialect),711,лакх,CyrillTrans,tall,,,laq,Phonemic
+12-570-317-1,chec1245,Chechen (Akkin dialect),1203,дхьах,CyrillTrans,long,,,dħax,Phonemic
+12-560-317-1,chec1245,Chechen (Akkin dialect),1246,зимиг,CyrillTrans,"small, little",,,zimig,Phonemic
+12-550-317-1,chec1245,Chechen (Akkin dialect),1202,доккх,CyrillTrans,"large, big",,,doq̄,Phonemic
+12-541-317-1,chec1245,Chechen (Akkin dialect),81,ге,CyrillTrans,"span, fathom",,,"ge, ša",Phonemic
+12-541-317-3,chec1245,Chechen (Akkin dialect),81,ша,CyrillTrans,"span, fathom",,,"ge, ša",Phonemic
+12-540-317-1,chec1245,Chechen (Akkin dialect),1506,дуста,CyrillTrans,measure,,,dusta,Phonemic
+12-530-317-1,chec1245,Chechen (Akkin dialect),479,кхиΙ,CyrillTrans,grow,,,qiʕ,Phonemic
+12-480-317-1,chec1245,Chechen (Akkin dialect),1595,къилбе,CyrillTrans,south,,,qʼilbe,Phonemic
+12-470-317-1,chec1245,Chechen (Akkin dialect),1598,къилбасед,CyrillTrans,north,,,qʼilbased,Phonemic
+12-460-317-1,chec1245,Chechen (Akkin dialect),1817,малхбузе,CyrillTrans,west,,,malxbuze,Phonemic
+12-450-317-1,chec1245,Chechen (Akkin dialect),1877,малхбале,CyrillTrans,east,,,malxbale,Phonemic
+12-430-317-1,chec1245,Chechen (Akkin dialect),1942,йуххякъ,CyrillTrans,near (adv),,,yux̄yaqʼ,Phonemic
+12-440-317-1,chec1245,Chechen (Akkin dialect),1406,ген,CyrillTrans,far (adv),,,gen,Phonemic
+12-420-317-1,chec1245,Chechen (Akkin dialect),244,харцахь агΙо,CyrillTrans,left (side),,,xarcaħ aɣo,Phonemic
+12-410-317-1,chec1245,Chechen (Akkin dialect),1019,бакххьар агΙо,CyrillTrans,right (side),,,baqħar aɣo,Phonemic
+12-370-317-1,chec1245,Chechen (Akkin dialect),1093,йукъ,CyrillTrans,"middle, center",,,yuqʼ,Phonemic
+12-360-317-1,chec1245,Chechen (Akkin dialect),682,агΙо,CyrillTrans,side,,,aɣo,Phonemic
+12-353-317-1,chec1245,Chechen (Akkin dialect),863,йист,CyrillTrans,edge,,,yist,Phonemic
+12-352-317-1,chec1245,Chechen (Akkin dialect),372,ир йуьхиг,CyrillTrans,pointed,,,ir yüxig,Phonemic
+12-350-317-1,chec1245,Chechen (Akkin dialect),742,чанкхе,CyrillTrans,end,,,čanqe,Phonemic
+12-340-317-1,chec1245,Chechen (Akkin dialect),690,бух,CyrillTrans,bottom,,,"bux, kʼelo",Phonemic
+12-340-317-3,chec1245,Chechen (Akkin dialect),690,кΙело,CyrillTrans,bottom,,,"bux, kʼelo",Phonemic
+12-320-317-1,chec1245,Chechen (Akkin dialect),721,лох,CyrillTrans,low,,,lox,Phonemic
+12-330-317-1,chec1245,Chechen (Akkin dialect),1753,бехь,CyrillTrans,top,,,beħ,Phonemic
+12-310-317-1,chec1245,Chechen (Akkin dialect),1265,лакх,CyrillTrans,high,,,laq,Phonemic
+12-270-317-1,chec1245,Chechen (Akkin dialect),602,лачкΙо,CyrillTrans,"hide, conceal",,,lačkʼo,Phonemic
+12-250-317-1,chec1245,Chechen (Akkin dialect),1046,дΙаккхац,CyrillTrans,"shut, close",,,dʕaq̄ac,Phonemic
+12-260-317-1,chec1245,Chechen (Akkin dialect),761,тΙетас,CyrillTrans,cover,,,tʼetas,Phonemic
+12-240-317-1,chec1245,Chechen (Akkin dialect),1156,йелл,CyrillTrans,open,,,yel̄,Phonemic
+12-232-317-1,chec1245,Chechen (Akkin dialect),1119,декъ,CyrillTrans,divide,,,deqʼ,Phonemic
+12-230-317-1,chec1245,Chechen (Akkin dialect),1359,дΙакъасто,CyrillTrans,separate,,,dʕaqʼasto,Phonemic
+12-220-317-1,chec1245,Chechen (Akkin dialect),1743,вовшехкхет,CyrillTrans,"join, unite",,,wowšexqet,Phonemic
+12-213-317-1,chec1245,Chechen (Akkin dialect),1576,гулда,CyrillTrans,pile up,,,gulda,Phonemic
+12-212-317-1,chec1245,Chechen (Akkin dialect),371,айΙа,CyrillTrans,pick up,,,ayʕa,Phonemic
+12-210-317-1,chec1245,Chechen (Akkin dialect),7,лехъо,CyrillTrans,"collect, gather",,,"leħo, gulda",Phonemic
+12-210-317-3,chec1245,Chechen (Akkin dialect),7,гулда,CyrillTrans,"collect, gather",,,"leħo, gulda",Phonemic
+12-170-317-1,chec1245,Chechen (Akkin dialect),838,бухадиснарш,CyrillTrans,"remains, left overs",,,buxadisnarš,Phonemic
+12-160-317-1,chec1245,Chechen (Akkin dialect),987,дис,CyrillTrans,"remain, stay",,,"dis, ʕa",Phonemic
+12-160-317-3,chec1245,Chechen (Akkin dialect),987,Ιа,CyrillTrans,"remain, stay",,,"dis, ʕa",Phonemic
+12-150-317-1,chec1245,Chechen (Akkin dialect),1442,хьоттын гΙа,CyrillTrans,stand,,,ħot̄ɨn ɣa,Phonemic
+12-140-317-1,chec1245,Chechen (Akkin dialect),215,дΙадиш,CyrillTrans,lie down,,,dʕadiš,Phonemic
+12-130-317-1,chec1245,Chechen (Akkin dialect),1416,Ιа,CyrillTrans,sit,,,ʕa,Phonemic
+12-120-317-1,chec1245,Chechen (Akkin dialect),998,дилл,CyrillTrans,put,,,dil̄,Phonemic
+12-110-317-1,chec1245,Chechen (Akkin dialect),723,метк,CyrillTrans,place,,,metk,Phonemic
+12-80-317-1,chec1245,Chechen (Akkin dialect),1591,тΙехул,CyrillTrans,"up, above",,,tʼexul,Phonemic
+12-70-317-1,chec1245,Chechen (Akkin dialect),1485,кΙел,CyrillTrans,under,,,"kʼel, bux",Phonemic
+12-70-317-3,chec1245,Chechen (Akkin dialect),1485,бух,CyrillTrans,under,,,"kʼel, bux",Phonemic
+12-60-317-1,chec1245,Chechen (Akkin dialect),762,архал,CyrillTrans,outside,,,arxal,Phonemic
+12-50-317-1,chec1245,Chechen (Akkin dialect),1606,чокь,CyrillTrans,"inside, in",,,čokʲ,Phonemic
+12-41-317-1,chec1245,Chechen (Akkin dialect),1883,хьалх,CyrillTrans,front,,,ħalx,Phonemic
+12-40-317-1,chec1245,Chechen (Akkin dialect),1882,хьалх,CyrillTrans,before,,,ħalx,Phonemic
+12-30-317-1,chec1245,Chechen (Akkin dialect),2094,лохах,CyrillTrans,"down, below",,,loxax,Phonemic
+12-20-317-1,chec1245,Chechen (Akkin dialect),1816,йуххахьхь,CyrillTrans,beside,,,yux̄aħ̄,Phonemic
+12-11-317-1,chec1245,Chechen (Akkin dialect),1686,наΙ тъихахь,CyrillTrans,behind,,,naʕ tʕixaħ,Phonemic
+12-10-317-1,chec1245,Chechen (Akkin dialect),1685,тΙахьа,CyrillTrans,after,,,tʼaħa,Phonemic
+11-920-317-1,chec1245,Chechen (Akkin dialect),1098,оза,CyrillTrans,weigh,,,oza,Phonemic
+11-910-317-1,chec1245,Chechen (Akkin dialect),884,дΙасдекъа,CyrillTrans,share (distribute),,,dʕasdeqʼa,Phonemic
+11-890-317-1,chec1245,Chechen (Akkin dialect),1887,йоврех,CyrillTrans,cheap,,,yowrex,Phonemic
+11-880-317-1,chec1245,Chechen (Akkin dialect),1426,дез,CyrillTrans,"dear (costly, expensive)",,,"dez, yez, wez",Phonemic
+11-880-317-3,chec1245,Chechen (Akkin dialect),1426,ез,CyrillTrans,"dear (costly, expensive)",,,"dez, yez, wez",Phonemic
+11-880-317-5,chec1245,Chechen (Akkin dialect),1426,вез,CyrillTrans,"dear (costly, expensive)",,,"dez, yez, wez",Phonemic
+11-870-317-1,chec1245,Chechen (Akkin dialect),657,мах,CyrillTrans,price,,,max,Phonemic
+11-860-317-1,chec1245,Chechen (Akkin dialect),752,туька,CyrillTrans,"store, shop",,,tüka,Phonemic
+11-850-317-1,chec1245,Chechen (Akkin dialect),633,базыр,CyrillTrans,market (place),,,bazɨr,Phonemic
+11-840-317-1,chec1245,Chechen (Akkin dialect),1082,махберг,CyrillTrans,merchant,,,"maxberg, yoxkarxo",Phonemic
+11-840-317-3,chec1245,Chechen (Akkin dialect),1082,йохкархо,CyrillTrans,merchant,,,"maxberg, yoxkarxo",Phonemic
+11-830-317-1,chec1245,Chechen (Akkin dialect),2135,махле̄ло,CyrillTrans,"trade, barter",,,maxlēlo,Phonemic
+11-820-317-1,chec1245,Chechen (Akkin dialect),1571,дохк,CyrillTrans,sell,,,doxk,Phonemic
+11-810-317-1,chec1245,Chechen (Akkin dialect),1869,э̄ца,CyrillTrans,buy,,,ēca,Phonemic
+11-790-317-1,chec1245,Chechen (Akkin dialect),733,ахчо да̄ккх,CyrillTrans,earn,,,axčo dāq̄,Phonemic
+11-780-317-1,chec1245,Chechen (Akkin dialect),1122,алп,CyrillTrans,wages,,,alp,Phonemic
+11-770-317-1,chec1245,Chechen (Akkin dialect),856,мло э̄ц,CyrillTrans,hire,,,mlo ēc,Phonemic
+11-690-317-1,chec1245,Chechen (Akkin dialect),873,далыр,CyrillTrans,"tax, tribute",,,dalɨr,Phonemic
+11-660-317-1,chec1245,Chechen (Akkin dialect),1081,чот,CyrillTrans,"account, reckoning",,,čot,Phonemic
+11-650-317-1,chec1245,Chechen (Akkin dialect),718,ахча дал,CyrillTrans,pay (vb),,,axča dal,Phonemic
+11-640-317-1,chec1245,Chechen (Akkin dialect),1914,де̄кхар,CyrillTrans,debt,,,dēqar,Phonemic
+11-630-317-1,chec1245,Chechen (Akkin dialect),369,де̄кхар халыр,CyrillTrans,owe,,,dēqar xalɨr,Phonemic
+11-620-317-1,chec1245,Chechen (Akkin dialect),1823,йухлург эце,CyrillTrans,borrow,,,yuxlurg ece,Phonemic
+11-610-317-1,chec1245,Chechen (Akkin dialect),582,йухлург да̄л,CyrillTrans,lend,,,yuxlurg dāl,Phonemic
+11-540-317-1,chec1245,Chechen (Akkin dialect),1774,къарым,CyrillTrans,"avaricious, stingy",,,qʼarɨm,Phonemic
+11-530-317-1,chec1245,Chechen (Akkin dialect),1934,сагΙадоьхырг,CyrillTrans,beggar,,,saɣadöxɨrg,Phonemic
+11-520-317-1,chec1245,Chechen (Akkin dialect),1674,къе,CyrillTrans,poor,,,qʼe,Phonemic
+11-510-317-1,chec1245,Chechen (Akkin dialect),712,хьалдал саг,CyrillTrans,rich,,,ħaldal sag,Phonemic
+11-440-317-1,chec1245,Chechen (Akkin dialect),1867,ахч,CyrillTrans,coin,,,axč,Phonemic
+11-430-317-1,chec1245,Chechen (Akkin dialect),1559,ахча,CyrillTrans,money,,,axča,Phonemic
+11-340-317-1,chec1245,Chechen (Akkin dialect),1095,дΙавахит,CyrillTrans,"release, let go",,,dʕawaxit,Phonemic
+11-330-317-1,chec1245,Chechen (Akkin dialect),1660,мавво,CyrillTrans,lose,,,mawwo,Phonemic
+11-320-317-1,chec1245,Chechen (Akkin dialect),719,каро,CyrillTrans,find,,,karo,Phonemic
+11-310-317-1,chec1245,Chechen (Akkin dialect),1468,леха,CyrillTrans,"seek, look for",,,lexa,Phonemic
+11-280-317-1,chec1245,Chechen (Akkin dialect),44,зен да,CyrillTrans,"harm, injure, damage",,,zen da,Phonemic
+11-270-317-1,chec1245,Chechen (Akkin dialect),681,до̄хо,CyrillTrans,destroy,,,dōxo,Phonemic
+11-250-317-1,chec1245,Chechen (Akkin dialect),2008,кΙелкъырдаккх,CyrillTrans,"save, rescue",,,kʼelqʼɨrdaq̄,Phonemic
+11-240-317-1,chec1245,Chechen (Akkin dialect),1997,ларда,CyrillTrans,"preserve, look after",,,larda,Phonemic
+11-220-317-1,chec1245,Chechen (Akkin dialect),85,юх дал,CyrillTrans,give back,,,yux dal,Phonemic
+11-210-317-1,chec1245,Chechen (Akkin dialect),1447,йал,CyrillTrans,give,,,yal,Phonemic
+11-180-317-1,chec1245,Chechen (Akkin dialect),738,хΙама,CyrillTrans,thing,,,hama,Phonemic
+11-170-317-1,chec1245,Chechen (Akkin dialect),1477,Ιалышда,CyrillTrans,"keep, retain",,,ʕalɨšda,Phonemic
+11-160-317-1,chec1245,Chechen (Akkin dialect),694,схьа э̄ца,CyrillTrans,"get, obtain",,,sħa ēca,Phonemic
+11-150-317-1,chec1245,Chechen (Akkin dialect),1448,ла̄ц,CyrillTrans,hold,,,lāc,Phonemic
+11-140-317-1,chec1245,Chechen (Akkin dialect),2021,катоха,CyrillTrans,"seize, grasp",,,katoxa,Phonemic
+11-130-317-1,chec1245,Chechen (Akkin dialect),1749,э̄ца,CyrillTrans,take,,,ēca,Phonemic
+11-120-317-1,chec1245,Chechen (Akkin dialect),684,хаыр,CyrillTrans,"own, possess",,,xaɨr,Phonemic
+11-110-317-1,chec1245,Chechen (Akkin dialect),773,ха̄л,CyrillTrans,have,,,xāl,Phonemic
+10-920-317-1,chec1245,Chechen (Akkin dialect),1922,охьадос,CyrillTrans,land (vb),,,oħados,Phonemic
+10-910-317-1,chec1245,Chechen (Akkin dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-317-1,chec1245,Chechen (Akkin dialect),1870,якарь,CyrillTrans,anchor,,,yakarʲ,Phonemic
+10-880-317-1,chec1245,Chechen (Akkin dialect),786,гат,CyrillTrans,sail (noun),,,gat,Phonemic
+10-870-317-1,chec1245,Chechen (Akkin dialect),184,мачт,CyrillTrans,mast,,,mačt,Phonemic
+10-860-317-1,chec1245,Chechen (Akkin dialect),108,тΙам,CyrillTrans,rudder,,,tʼam,Phonemic
+10-852-317-1,chec1245,Chechen (Akkin dialect),1849,лело,CyrillTrans,row (vb),,,"lelo, dig",Phonemic
+10-852-317-3,chec1245,Chechen (Akkin dialect),1849,диг,CyrillTrans,row (vb),,,"lelo, dig",Phonemic
+10-851-317-1,chec1245,Chechen (Akkin dialect),234,пийсиг,CyrillTrans,paddle (noun),,,piysig,Phonemic
+10-850-317-1,chec1245,Chechen (Akkin dialect),108,пийсиг,CyrillTrans,oar,,,piysig,Phonemic
+10-840-317-1,chec1245,Chechen (Akkin dialect),1664,бурым,CyrillTrans,raft,,,burɨm,Phonemic
+10-832-317-1,chec1245,Chechen (Akkin dialect),416,хи чохь мла кема,CyrillTrans,outrigger,,,xi čoħ mla kema,Phonemic
+10-831-317-1,chec1245,Chechen (Akkin dialect),1970,хи кем,CyrillTrans,canoe,,,xi kem,Phonemic
+10-830-317-1,chec1245,Chechen (Akkin dialect),1844,кема,CyrillTrans,boat,,,kema,Phonemic
+10-810-317-1,chec1245,Chechen (Akkin dialect),740,хикема,CyrillTrans,ship,,,xikema,Phonemic
+10-780-317-1,chec1245,Chechen (Akkin dialect),14,дукъ,CyrillTrans,yoke,,,duqʼ,Phonemic
+10-770-317-1,chec1245,Chechen (Akkin dialect),1769,йукъ,CyrillTrans,axle,,,yuqʼ,Phonemic
+10-760-317-1,chec1245,Chechen (Akkin dialect),710,чΙюрг,CyrillTrans,wheel,,,čʼyurg,Phonemic
+10-750-317-1,chec1245,Chechen (Akkin dialect),122,ворд,CyrillTrans,"carriage, wagon, cart",,,word,Phonemic
+10-740-317-1,chec1245,Chechen (Akkin dialect),1011,тΙай,CyrillTrans,bridge,,,tʼay,Phonemic
+10-720-317-1,chec1245,Chechen (Akkin dialect),2252,некъ,CyrillTrans,path,,,neqʼ,Phonemic
+10-710-317-1,chec1245,Chechen (Akkin dialect),667,некъ,CyrillTrans,road,,,neqʼ,Phonemic
+10-670-317-1,chec1245,Chechen (Akkin dialect),1452,тΙатта,CyrillTrans,"push, shove",,,tʼat̄a,Phonemic
+10-660-317-1,chec1245,Chechen (Akkin dialect),367,говр тΙех ваха,CyrillTrans,ride,,,gowr tʼex waxa,Phonemic
+10-650-317-1,chec1245,Chechen (Akkin dialect),741,машен тΙех ваха,CyrillTrans,drive,,,mašen tʼex waxa,Phonemic
+10-640-317-1,chec1245,Chechen (Akkin dialect),43,дига,CyrillTrans,lead (vb),,,diga,Phonemic
+10-630-317-1,chec1245,Chechen (Akkin dialect),1127,яхьита,CyrillTrans,send,,,"yaħita, daħita",Phonemic
+10-630-317-3,chec1245,Chechen (Akkin dialect),1127,дахьита,CyrillTrans,send,,,"yaħita, daħita",Phonemic
+10-620-317-1,chec1245,Chechen (Akkin dialect),692,йа,CyrillTrans,bring,,,ya,Phonemic
+10-615-317-1,chec1245,Chechen (Akkin dialect),415,пхьарс кΙелах да,CyrillTrans,carry-underarm,,,pħars kʼelax da,Phonemic
+10-614-317-1,chec1245,Chechen (Akkin dialect),414,кюрт тΙех мло,CyrillTrans,carry-on-head,,,kyurt tʼex mlo,Phonemic
+10-613-317-1,chec1245,Chechen (Akkin dialect),413,белш тΙех лело,CyrillTrans,carry-on-shoulder,,,belš tʼex lelo,Phonemic
+10-612-317-1,chec1245,Chechen (Akkin dialect),412,карахь йа,CyrillTrans,carry-in-hand,,,karaħ ya,Phonemic
+10-610-317-1,chec1245,Chechen (Akkin dialect),700,да,CyrillTrans,carry (bear),,,da,Phonemic
+10-570-317-1,chec1245,Chechen (Akkin dialect),749,чувала,CyrillTrans,enter,,,"čuwala, čuyala",Phonemic
+10-570-317-3,chec1245,Chechen (Akkin dialect),749,чуйала,CyrillTrans,enter,,,"čuwala, čuyala",Phonemic
+10-560-317-1,chec1245,Chechen (Akkin dialect),1778,йукхе ва,CyrillTrans,approach,,,yuqe wa,Phonemic
+10-550-317-1,chec1245,Chechen (Akkin dialect),1387,кха̄ча,CyrillTrans,"reach, arrive",,,qāča,Phonemic
+10-530-317-1,chec1245,Chechen (Akkin dialect),1047,тΙаькъвала,CyrillTrans,pursue,,,tʼäqʼwala,Phonemic
+10-520-317-1,chec1245,Chechen (Akkin dialect),1085,тΙаьхьадах,CyrillTrans,follow,,,tʼäħadax,Phonemic
+10-510-317-1,chec1245,Chechen (Akkin dialect),956,вада,CyrillTrans,flee,,,"wada, dada",Phonemic
+10-510-317-3,chec1245,Chechen (Akkin dialect),956,дада,CyrillTrans,flee,,,"wada, dada",Phonemic
+10-491-317-1,chec1245,Chechen (Akkin dialect),485,вав,CyrillTrans,disappear,,,"waw, yaw",Phonemic
+10-491-317-3,chec1245,Chechen (Akkin dialect),485,яв,CyrillTrans,disappear,,,"waw, yaw",Phonemic
+10-490-317-1,chec1245,Chechen (Akkin dialect),1752,дΙавах,CyrillTrans,"go away, depart",,,dʕawax,Phonemic
+10-481-317-1,chec1245,Chechen (Akkin dialect),581,йуха ва,CyrillTrans,come back,,,"yuxa wa, da",Phonemic
+10-481-317-3,chec1245,Chechen (Akkin dialect),581,да,CyrillTrans,come back,,,"yuxa wa, da",Phonemic
+10-480-317-1,chec1245,Chechen (Akkin dialect),1446,да̄,CyrillTrans,come,,,dā,Phonemic
+10-474-317-1,chec1245,Chechen (Akkin dialect),1107,ара дал,CyrillTrans,go out,,,ara dal,Phonemic
+10-473-317-1,chec1245,Chechen (Akkin dialect),2014,охΙ вах,CyrillTrans,go down,,,oh wax,Phonemic
+10-472-317-1,chec1245,Chechen (Akkin dialect),1102,хьала да̄ла,CyrillTrans,climb,,,ħala dāla,Phonemic
+10-470-317-1,chec1245,Chechen (Akkin dialect),695,ваха,CyrillTrans,go,,,"waxa, daxa, yaxa",Phonemic
+10-470-317-3,chec1245,Chechen (Akkin dialect),695,даха,CyrillTrans,go,,,"waxa, daxa, yaxa",Phonemic
+10-470-317-5,chec1245,Chechen (Akkin dialect),695,яха,CyrillTrans,go,,,"waxa, daxa, yaxa",Phonemic
+10-471-317-1,chec1245,Chechen (Akkin dialect),705,хьала да̄ла,CyrillTrans,go up,,,ħala dāla,Phonemic
+10-460-317-1,chec1245,Chechen (Akkin dialect),1519,вада,CyrillTrans,run,,,"wada, dada, yada",Phonemic
+10-460-317-3,chec1245,Chechen (Akkin dialect),1519,дада,CyrillTrans,run,,,"wada, dada, yada",Phonemic
+10-460-317-5,chec1245,Chechen (Akkin dialect),1519,йада,CyrillTrans,run,,,"wada, dada, yada",Phonemic
+10-451-317-1,chec1245,Chechen (Akkin dialect),366,астых ле̄ла,CyrillTrans,limp,,,astɨx lēla,Phonemic
+10-450-317-1,chec1245,Chechen (Akkin dialect),1443,ле̄ла,CyrillTrans,walk,,,lēla,Phonemic
+10-440-317-1,chec1245,Chechen (Akkin dialect),1879,хьарк вал,CyrillTrans,dance,,,ħark wal,Phonemic
+10-431-317-1,chec1245,Chechen (Akkin dialect),1135,ког бетт,CyrillTrans,kick,,,kog bet̄,Phonemic
+10-430-317-1,chec1245,Chechen (Akkin dialect),1829,ирх мерх,CyrillTrans,"jump, leap",,,irx merx,Phonemic
+10-420-317-1,chec1245,Chechen (Akkin dialect),1324,шершо,CyrillTrans,"slide, slip",,,šeršo,Phonemic
+10-413-317-1,chec1245,Chechen (Akkin dialect),296,охьлахдал,CyrillTrans,crouch,,,oħlaxdal,Phonemic
+10-412-317-1,chec1245,Chechen (Akkin dialect),66,гор хΙотт,CyrillTrans,kneel,,,gor hot̄,Phonemic
+10-410-317-1,chec1245,Chechen (Akkin dialect),96,текха,CyrillTrans,"creep, crawl",,,teqa,Phonemic
+10-380-317-1,chec1245,Chechen (Akkin dialect),175,дис,CyrillTrans,blow,,,dis,Phonemic
+10-370-317-1,chec1245,Chechen (Akkin dialect),1441,кем хахк,CyrillTrans,fly (vb),,,kem xaxk,Phonemic
+10-360-317-1,chec1245,Chechen (Akkin dialect),787,хин кемиц вах,CyrillTrans,sail (vb),,,xin kemic wax,Phonemic
+10-352-317-1,chec1245,Chechen (Akkin dialect),365,няка да,CyrillTrans,splash,,,nyaka da,Phonemic
+10-351-317-1,chec1245,Chechen (Akkin dialect),119,хи чу экх,CyrillTrans,dive,,,xi ču eq,Phonemic
+10-350-317-1,chec1245,Chechen (Akkin dialect),1439,няка да,CyrillTrans,swim,,,nyaka da,Phonemic
+10-340-317-1,chec1245,Chechen (Akkin dialect),1574,хи чохь няка да,CyrillTrans,float,,,xi čoħ nyaka da,Phonemic
+10-330-317-1,chec1245,Chechen (Akkin dialect),1088,хи чу ваха,CyrillTrans,sink,,,xi ču waxa,Phonemic
+10-320-317-1,chec1245,Chechen (Akkin dialect),2003,эха,CyrillTrans,flow,,,exa,Phonemic
+10-260-317-1,chec1245,Chechen (Akkin dialect),1909,де̄го,CyrillTrans,shake,,,dēgo,Phonemic
+10-252-317-1,chec1245,Chechen (Akkin dialect),702,схва ла̄ц,CyrillTrans,catch (ball),,,sxwa lāc,Phonemic
+10-250-317-1,chec1245,Chechen (Akkin dialect),1456,кхис,CyrillTrans,throw,,,qis,Phonemic
+10-240-317-1,chec1245,Chechen (Akkin dialect),2253,дотт,CyrillTrans,drip,,,dot̄,Phonemic
+10-230-317-1,chec1245,Chechen (Akkin dialect),1280,охьа йоха,CyrillTrans,fall,,,oħa yoxa,Phonemic
+10-220-317-1,chec1245,Chechen (Akkin dialect),501,схьаэцо,CyrillTrans,"raise, lift",,,"sħaeco, irahot̄o",Phonemic
+10-220-317-3,chec1245,Chechen (Akkin dialect),501,ирахІотто,CyrillTrans,"raise, lift",,,"sħaeco, irahot̄o",Phonemic
+10-210-317-1,chec1245,Chechen (Akkin dialect),568,хьалдал,CyrillTrans,rise,,,ħaldal,Phonemic
+10-170-317-1,chec1245,Chechen (Akkin dialect),430,хьавд,CyrillTrans,twist,,,ħawd,Phonemic
+10-160-317-1,chec1245,Chechen (Akkin dialect),808,дотт,CyrillTrans,drop (vb),,,dot̄,Phonemic
+10-150-317-1,chec1245,Chechen (Akkin dialect),827,хьӣзо,CyrillTrans,roll,,,ħīzo,Phonemic
+10-140-317-1,chec1245,Chechen (Akkin dialect),1113,хьарчо,CyrillTrans,"wind, wrap",,,ħarčo,Phonemic
+10-130-317-1,chec1245,Chechen (Akkin dialect),1445,дІадаржа,CyrillTrans,turn around,,,"dʕadarža, sħadaržo",Phonemic
+10-130-317-3,chec1245,Chechen (Akkin dialect),1445,схьадаржо,CyrillTrans,turn around,,,"dʕadarža, sħadaržo",Phonemic
+10-120-317-1,chec1245,Chechen (Akkin dialect),1588,харцо̄,CyrillTrans,turn over,,,xarcō,Phonemic
+10-110-317-1,chec1245,Chechen (Akkin dialect),765,во̄ла вала,CyrillTrans,move,,,wōla wala,Phonemic
+9-890-317-1,chec1245,Chechen (Akkin dialect),2001,басар хьикх,CyrillTrans,paint (vb),,,basar ħiq,Phonemic
+9-840-317-1,chec1245,Chechen (Akkin dialect),1979,урз,CyrillTrans,chisel,,,urz,Phonemic
+9-880-317-1,chec1245,Chechen (Akkin dialect),647,сир,CyrillTrans,paint (noun),,,"sir, basɨr",Phonemic
+9-880-317-3,chec1245,Chechen (Akkin dialect),647,басыр,CyrillTrans,paint (noun),,,"sir, basɨr",Phonemic
+9-830-317-1,chec1245,Chechen (Akkin dialect),1002,хΙоттин сурт,CyrillTrans,statue,,,hot̄in surt,Phonemic
+9-820-317-1,chec1245,Chechen (Akkin dialect),914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-317-1,chec1245,Chechen (Akkin dialect),228,ха̄до,CyrillTrans,carve,,,xādo,Phonemic
+9-791-317-1,chec1245,Chechen (Akkin dialect),360,мох тох,CyrillTrans,fan (vb),,,mox tox,Phonemic
+9-790-317-1,chec1245,Chechen (Akkin dialect),1971,мохтухург,CyrillTrans,fan (noun),,,moxtuxurg,Phonemic
+9-780-317-1,chec1245,Chechen (Akkin dialect),293,сетк,CyrillTrans,netbag,,,setk,Phonemic
+9-771-317-1,chec1245,Chechen (Akkin dialect),292,хелч,CyrillTrans,rug,,,xelč,Phonemic
+9-770-317-1,chec1245,Chechen (Akkin dialect),195,черт,CyrillTrans,mat,,,čert,Phonemic
+9-760-317-1,chec1245,Chechen (Akkin dialect),1539,тускыр,CyrillTrans,basket,,,tuskɨr,Phonemic
+9-750-317-1,chec1245,Chechen (Akkin dialect),1729,кΙади да,CyrillTrans,"weave, plait",,,kʼadi da,Phonemic
+9-740-317-1,chec1245,Chechen (Akkin dialect),604,шиш,CyrillTrans,glass,,,šiš,Phonemic
+9-730-317-1,chec1245,Chechen (Akkin dialect),1399,лятт,CyrillTrans,clay,,,lyat̄,Phonemic
+9-720-317-1,chec1245,Chechen (Akkin dialect),289,кепа тох,CyrillTrans,mold (clay etc),,,kepa tox,Phonemic
+9-710-317-1,chec1245,Chechen (Akkin dialect),359,куьпчи,CyrillTrans,potter,,,küpči,Phonemic
+9-690-317-1,chec1245,Chechen (Akkin dialect),358,эчк,CyrillTrans,"tin, tinplate",,,ečk,Phonemic
+9-680-317-1,chec1245,Chechen (Akkin dialect),627,даш,CyrillTrans,lead (noun),,,daš,Phonemic
+9-670-317-1,chec1245,Chechen (Akkin dialect),621,эчык,CyrillTrans,iron,,,ečɨk,Phonemic
+9-660-317-1,chec1245,Chechen (Akkin dialect),1825,цΙест,CyrillTrans,"copper, bronze",,,"cʼest, yez",Phonemic
+9-660-317-3,chec1245,Chechen (Akkin dialect),1825,ез,CyrillTrans,"copper, bronze",,,"cʼest, yez",Phonemic
+9-650-317-1,chec1245,Chechen (Akkin dialect),759,дато̄,CyrillTrans,silver,,,datō,Phonemic
+9-640-317-1,chec1245,Chechen (Akkin dialect),1369,да̄шо,CyrillTrans,gold,,,dāšo,Phonemic
+9-630-317-1,chec1245,Chechen (Akkin dialect),211,кеп тоха,CyrillTrans,cast (metals),,,kep toxa,Phonemic
+9-620-317-1,chec1245,Chechen (Akkin dialect),1648,нуьйж,CyrillTrans,anvil,,,nüyž,Phonemic
+9-610-317-1,chec1245,Chechen (Akkin dialect),288,пхьалгΙа,CyrillTrans,forge,,,pħalɣa,Phonemic
+9-600-317-1,chec1245,Chechen (Akkin dialect),1001,эчык пхьар,CyrillTrans,"smith, blacksmith",,,ečɨk pħar,Phonemic
+9-560-317-1,chec1245,Chechen (Akkin dialect),1069,клей,CyrillTrans,glue,,,kley,Phonemic
+9-500-317-1,chec1245,Chechen (Akkin dialect),502,хьастым,CyrillTrans,nail,,,ħastɨm,Phonemic
+9-490-317-1,chec1245,Chechen (Akkin dialect),1481,жΙав,CyrillTrans,hammer,,,žʕaw,Phonemic
+9-480-317-1,chec1245,Chechen (Akkin dialect),1948,хирх,CyrillTrans,saw,,,xirx,Phonemic
+9-461-317-1,chec1245,Chechen (Akkin dialect),46,да̄ккх,CyrillTrans,hollow out,,,dāq̄,Phonemic
+9-460-317-1,chec1245,Chechen (Akkin dialect),1501,Ιуьрг,CyrillTrans,bore,,,ʕürg,Phonemic
+9-440-317-1,chec1245,Chechen (Akkin dialect),1840,да,CyrillTrans,build,,,da,Phonemic
+9-430-317-1,chec1245,Chechen (Akkin dialect),1042,дечк пхьар,CyrillTrans,carpenter,,,dečk pħar,Phonemic
+9-422-317-1,chec1245,Chechen (Akkin dialect),1361,гΙирс,CyrillTrans,tool,,,ɣirs,Phonemic
+9-380-317-1,chec1245,Chechen (Akkin dialect),245,нюв,CyrillTrans,broom,,,nyuw,Phonemic
+9-360-317-1,chec1245,Chechen (Akkin dialect),1453,йила,CyrillTrans,wash,,,yila,Phonemic
+9-370-317-1,chec1245,Chechen (Akkin dialect),230,нюв хьакх,CyrillTrans,sweep,,,nyuw ħaq,Phonemic
+9-350-317-1,chec1245,Chechen (Akkin dialect),1487,дотт,CyrillTrans,pour,,,dot̄,Phonemic
+9-343-317-1,chec1245,Chechen (Akkin dialect),1414,Ιавд,CyrillTrans,"squeeze, wring",,,ʕawd,Phonemic
+9-342-317-1,chec1245,Chechen (Akkin dialect),1913,тΙетаΙо,CyrillTrans,press,,,tʼetaʕo,Phonemic
+9-341-317-1,chec1245,Chechen (Akkin dialect),357,ирхалл,CyrillTrans,hang up,,,irxal̄,Phonemic
+9-340-317-1,chec1245,Chechen (Akkin dialect),38,да̄ржо,CyrillTrans,spread out,,,dāržo,Phonemic
+9-330-317-1,chec1245,Chechen (Akkin dialect),1455,ӣзо,CyrillTrans,pull,,,īzo,Phonemic
+9-320-317-1,chec1245,Chechen (Akkin dialect),214,ӣзо,CyrillTrans,stretch,,,īzo,Phonemic
+9-310-317-1,chec1245,Chechen (Akkin dialect),1449,дΙадакха,CyrillTrans,"rub, wipe",,,dʕadaqa,Phonemic
+9-290-317-1,chec1245,Chechen (Akkin dialect),291,цΙок да̄кх,CyrillTrans,"flay, skin",,,cʼok dāq,Phonemic
+9-280-317-1,chec1245,Chechen (Akkin dialect),1735,этΙо,CyrillTrans,tear,,,etʼo,Phonemic
+9-270-317-1,chec1245,Chechen (Akkin dialect),1437,кагда,CyrillTrans,split,,,kagda,Phonemic
+9-261-317-1,chec1245,Chechen (Akkin dialect),588,дёхан,CyrillTrans,broken,,,dyoxan,Phonemic
+9-260-317-1,chec1245,Chechen (Akkin dialect),680,кагйа,CyrillTrans,break,,,kagya,Phonemic
+9-250-317-1,chec1245,Chechen (Akkin dialect),677,диг,CyrillTrans,ax,,,dig,Phonemic
+9-251-317-1,chec1245,Chechen (Akkin dialect),290,диг,CyrillTrans,adze,,,dig,Phonemic
+9-240-317-1,chec1245,Chechen (Akkin dialect),356,тукар,CyrillTrans,"scissors, shears",,,tukar,Phonemic
+9-230-317-1,chec1245,Chechen (Akkin dialect),1352,урс,CyrillTrans,knife,,,urs,Phonemic
+9-223-317-1,chec1245,Chechen (Akkin dialect),1434,бюв,CyrillTrans,stab,,,"byuw, dyuw",Phonemic
+9-223-317-3,chec1245,Chechen (Akkin dialect),1434,дюв,CyrillTrans,stab,,,"byuw, dyuw",Phonemic
+9-222-317-1,chec1245,Chechen (Akkin dialect),155,хьа̄кха,CyrillTrans,"chop, hew",,,ħāqa,Phonemic
+9-221-317-1,chec1245,Chechen (Akkin dialect),355,лацда,CyrillTrans,cut down,,,lacda,Phonemic
+9-220-317-1,chec1245,Chechen (Akkin dialect),1432,хе̄до,CyrillTrans,cut,,,xēdo,Phonemic
+9-211-317-1,chec1245,Chechen (Akkin dialect),354,бю бетт,CyrillTrans,pound with fist,,,byu bet̄,Phonemic
+9-210-317-1,chec1245,Chechen (Akkin dialect),2133,етта,CyrillTrans,"strike (hit, beat)",,,yet̄a,Phonemic
+9-192-317-1,chec1245,Chechen (Akkin dialect),760,шад,CyrillTrans,knot (noun),,,šad,Phonemic
+9-190-317-1,chec1245,Chechen (Akkin dialect),1218,муш,CyrillTrans,"rope, cord",,,muš,Phonemic
+9-180-317-1,chec1245,Chechen (Akkin dialect),1627,дзΙай,CyrillTrans,chain,,,ʒΙay,Phonemic
+9-161-317-1,chec1245,Chechen (Akkin dialect),352,йаст,CyrillTrans,untie,,,"yast, dast",Phonemic
+9-161-317-3,chec1245,Chechen (Akkin dialect),352,даст,CyrillTrans,untie,,,"yast, dast",Phonemic
+9-160-317-1,chec1245,Chechen (Akkin dialect),1917,йихк,CyrillTrans,"tie, bind",,,yixk,Phonemic
+9-150-317-1,chec1245,Chechen (Akkin dialect),1470,хьарчо,CyrillTrans,fold,,,ħarčo,Phonemic
+9-140-317-1,chec1245,Chechen (Akkin dialect),2004,сатто,CyrillTrans,bend,,,sat̄o,Phonemic
+9-120-317-1,chec1245,Chechen (Akkin dialect),984,борх,CyrillTrans,work,,,borx,Phonemic
+9-110-317-1,chec1245,Chechen (Akkin dialect),2575,да,CyrillTrans,"do, make",,,da,Phonemic
+8-980-317-1,chec1245,Chechen (Akkin dialect),641,жΙаьле нускал,CyrillTrans,mushroom,,,žΙäle nuskal,Phonemic
+8-970-317-1,chec1245,Chechen (Akkin dialect),33,нитташ,CyrillTrans,nettle,,,nit̄aš,Phonemic
+8-941-317-1,chec1245,Chechen (Akkin dialect),146,шекыр эрз,CyrillTrans,sugar cane,,,šekɨr erz,Phonemic
+8-940-317-1,chec1245,Chechen (Akkin dialect),1927,буту эрз,CyrillTrans,bamboo,,,butu erz,Phonemic
+8-931-317-1,chec1245,Chechen (Akkin dialect),864,тюти,CyrillTrans,"pumpkin, squash",,,tyuti,Phonemic
+8-930-317-1,chec1245,Chechen (Akkin dialect),411,тюти,CyrillTrans,gourd,,,tyuti,Phonemic
+8-910-317-1,chec1245,Chechen (Akkin dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-317-1,chec1245,Chechen (Akkin dialect),346,инжир маргІыл,CyrillTrans,banyan,,,inžir marɣɨl,Phonemic
+8-840-317-1,chec1245,Chechen (Akkin dialect),868,банан маргІыл,CyrillTrans,banana tree,,,banan marɣɨl,Phonemic
+8-830-317-1,chec1245,Chechen (Akkin dialect),1126,дитти стом,CyrillTrans,citrus fruit,,,dit̄i stom,Phonemic
+8-820-317-1,chec1245,Chechen (Akkin dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-317-1,chec1245,Chechen (Akkin dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-317-1,chec1245,Chechen (Akkin dialect),345,мутта,CyrillTrans,sap,,,mut̄a,Phonemic
+8-750-317-1,chec1245,Chechen (Akkin dialect),1204,кевстиг,CyrillTrans,bark,,,kewstig,Phonemic
+8-740-317-1,chec1245,Chechen (Akkin dialect),409,га,CyrillTrans,forked branch,,,ga,Phonemic
+8-730-317-1,chec1245,Chechen (Akkin dialect),344,маргІыл гІад,CyrillTrans,tree trunk,,,marɣɨl ɣad,Phonemic
+8-720-317-1,chec1245,Chechen (Akkin dialect),241,гуьйриг,CyrillTrans,tree stump,,,güyrig,Phonemic
+8-691-317-1,chec1245,Chechen (Akkin dialect),1124,луьлла,CyrillTrans,pipe,,,lülla,Phonemic
+8-690-317-1,chec1245,Chechen (Akkin dialect),1689,тонки юІур,CyrillTrans,smoke (tobacco),,,tonki yuʕur,Phonemic
+8-680-317-1,chec1245,Chechen (Akkin dialect),974,тонк,CyrillTrans,tobacco,,,tonk,Phonemic
+8-670-317-1,chec1245,Chechen (Akkin dialect),343,хутыл,CyrillTrans,vine,,,xutɨl,Phonemic
+8-660-317-1,chec1245,Chechen (Akkin dialect),968,нажын бІар,CyrillTrans,acorn,,,nažɨn bʕar,Phonemic
+8-650-317-1,chec1245,Chechen (Akkin dialect),1915,баІа,CyrillTrans,fir,,,baʕa,Phonemic
+8-640-317-1,chec1245,Chechen (Akkin dialect),1740,зез,CyrillTrans,pine,,,zez,Phonemic
+8-630-317-1,chec1245,Chechen (Akkin dialect),1855,дакх,CyrillTrans,birch,,,daq,Phonemic
+8-620-317-1,chec1245,Chechen (Akkin dialect),1950,поп,CyrillTrans,beech,,,pop,Phonemic
+8-610-317-1,chec1245,Chechen (Akkin dialect),644,наж,CyrillTrans,oak,,,naž,Phonemic
+8-600-317-1,chec1245,Chechen (Akkin dialect),906,маргІыл,CyrillTrans,tree,,,marɣɨl,Phonemic
+8-570-317-1,chec1245,Chechen (Akkin dialect),239,зе̄заг,CyrillTrans,flower,,,zēzag,Phonemic
+8-560-317-1,chec1245,Chechen (Akkin dialect),628,гІа,CyrillTrans,leaf,,,ɣa,Phonemic
+8-550-317-1,chec1245,Chechen (Akkin dialect),1531,га,CyrillTrans,branch,,,ga,Phonemic
+8-540-317-1,chec1245,Chechen (Akkin dialect),670,арым,CyrillTrans,root,,,arɨm,Phonemic
+8-531-317-1,chec1245,Chechen (Akkin dialect),1486,кхио,CyrillTrans,plant (vb),,,qio,Phonemic
+8-520-317-1,chec1245,Chechen (Akkin dialect),342,йол,CyrillTrans,hay,,,yol,Phonemic
+8-530-317-1,chec1245,Chechen (Akkin dialect),653,арым,CyrillTrans,plant (noun),,,arɨm,Phonemic
+8-510-317-1,chec1245,Chechen (Akkin dialect),606,буц,CyrillTrans,grass,,,buc,Phonemic
+8-480-317-1,chec1245,Chechen (Akkin dialect),926,дуга,CyrillTrans,rice,,,duga,Phonemic
+8-470-317-1,chec1245,Chechen (Akkin dialect),506,хІайк,CyrillTrans,"maize, corn",,,hayk,Phonemic
+8-460-317-1,chec1245,Chechen (Akkin dialect),60,сул,CyrillTrans,oats,,,sul,Phonemic
+8-450-317-1,chec1245,Chechen (Akkin dialect),23,Іаьржа кІа,CyrillTrans,rye,,,ʕärža kʼa,Phonemic
+8-430-317-1,chec1245,Chechen (Akkin dialect),1077,кІа,CyrillTrans,wheat,,,kʼa,Phonemic
+8-440-317-1,chec1245,Chechen (Akkin dialect),932,мукх,CyrillTrans,barley,,,muq,Phonemic
+8-420-317-1,chec1245,Chechen (Akkin dialect),605,кІа,CyrillTrans,"grain (barley, oats etc)",,,kʼa,Phonemic
+8-410-317-1,chec1245,Chechen (Akkin dialect),611,йалта,CyrillTrans,"crop, harvest",,,yalta,Phonemic
+8-350-317-1,chec1245,Chechen (Akkin dialect),223,хьат,CyrillTrans,threshing-floor,,,ħat,Phonemic
+8-340-317-1,chec1245,Chechen (Akkin dialect),285,Іатт,CyrillTrans,thresh,,,ʕat̄,Phonemic
+8-330-317-1,chec1245,Chechen (Akkin dialect),2132,марс,CyrillTrans,"sickle, scythe",,,mars,Phonemic
+8-320-317-1,chec1245,Chechen (Akkin dialect),190,хьакха,CyrillTrans,"mow, reap",,,ħaqa,Phonemic
+8-311-317-1,chec1245,Chechen (Akkin dialect),714,хІу,CyrillTrans,seed,,,hu,Phonemic
+8-310-317-1,chec1245,Chechen (Akkin dialect),748,дюв и,CyrillTrans,sow,,,dyuw i,Phonemic
+8-270-317-1,chec1245,Chechen (Akkin dialect),338,грабли,CyrillTrans,rake,,,grabli,Phonemic
+8-260-317-1,chec1245,Chechen (Akkin dialect),337,шад,CyrillTrans,fork,,,šad,Phonemic
+8-250-317-1,chec1245,Chechen (Akkin dialect),284,метиг,CyrillTrans,hoe,,,"metig, cel",Phonemic
+8-250-317-3,chec1245,Chechen (Akkin dialect),284,цел,CyrillTrans,hoe,,,"metig, cel",Phonemic
+8-240-317-1,chec1245,Chechen (Akkin dialect),1901,бел,CyrillTrans,shovel,,,"bel, äškɨl",Phonemic
+8-240-317-3,chec1245,Chechen (Akkin dialect),1901,аьшкыл,CyrillTrans,shovel,,,"bel, äškɨl",Phonemic
+8-230-317-1,chec1245,Chechen (Akkin dialect),1176,бел,CyrillTrans,spade,,,bel,Phonemic
+8-212-317-1,chec1245,Chechen (Akkin dialect),1794,охне меттиг,CyrillTrans,furrow,,,oxne met̄ig,Phonemic
+8-220-317-1,chec1245,Chechen (Akkin dialect),1418,дарм дошт,CyrillTrans,dig,,,darm došt,Phonemic
+8-210-317-1,chec1245,Chechen (Akkin dialect),1921,а̄ха,CyrillTrans,plow,,,āxa,Phonemic
+8-170-317-1,chec1245,Chechen (Akkin dialect),2002,саьнгар,CyrillTrans,ditch,,,sängar,Phonemic
+8-160-317-1,chec1245,Chechen (Akkin dialect),1690,карт,CyrillTrans,fence,,,kart,Phonemic
+8-150-317-1,chec1245,Chechen (Akkin dialect),1541,лят йалор,CyrillTrans,"cultivate, till",,,lyat yalor,Phonemic
+8-130-317-1,chec1245,Chechen (Akkin dialect),586,беш,CyrillTrans,garden,,,beš,Phonemic
+8-120-317-1,chec1245,Chechen (Akkin dialect),212,а̄ре,CyrillTrans,field (for cultivation),,,āre,Phonemic
+8-110-317-1,chec1245,Chechen (Akkin dialect),979,гІулкх лелорг,CyrillTrans,farmer,,,ɣulq lelorg,Phonemic
+7-640-317-1,chec1245,Chechen (Akkin dialect),901,топпыр Іишло,CyrillTrans,adobe,,,top̄ɨr ʕišlo,Phonemic
+7-630-317-1,chec1245,Chechen (Akkin dialect),224,кир,CyrillTrans,mortar,,,kir,Phonemic
+7-620-317-1,chec1245,Chechen (Akkin dialect),1006,кирич,CyrillTrans,brick,,,kirič,Phonemic
+7-580-317-1,chec1245,Chechen (Akkin dialect),876,нартал,CyrillTrans,arch,,,nartal,Phonemic
+7-610-317-1,chec1245,Chechen (Akkin dialect),877,ккерг буттыр,CyrillTrans,mason,,,k̄erg but̄ɨr,Phonemic
+7-570-317-1,chec1245,Chechen (Akkin dialect),1227,у,CyrillTrans,board,,,u,Phonemic
+7-560-317-1,chec1245,Chechen (Akkin dialect),281,богІым,CyrillTrans,"post, pole",,,boɣɨm,Phonemic
+7-550-317-1,chec1245,Chechen (Akkin dialect),1132,тІай,CyrillTrans,beam,,,tʼay,Phonemic
+7-540-317-1,chec1245,Chechen (Akkin dialect),829,гІортол,CyrillTrans,rafter,,,ɣortol,Phonemic
+7-530-317-1,chec1245,Chechen (Akkin dialect),280,йатыр,CyrillTrans,ridgepole,,,yatɨr,Phonemic
+7-520-317-1,chec1245,Chechen (Akkin dialect),279,чанех бина тхав,CyrillTrans,thatch,,,čanex bina txaw,Phonemic
+7-510-317-1,chec1245,Chechen (Akkin dialect),769,тхав,CyrillTrans,roof,,,txaw,Phonemic
+7-480-317-1,chec1245,Chechen (Akkin dialect),205,хи эхит кІог,CyrillTrans,trough,,,xi exit kʼog,Phonemic
+7-470-317-1,chec1245,Chechen (Akkin dialect),745,терхе,CyrillTrans,shelf,,,terxe,Phonemic
+7-460-317-1,chec1245,Chechen (Akkin dialect),1273,чІурым,CyrillTrans,candle,,,čʼurɨm,Phonemic
+7-450-317-1,chec1245,Chechen (Akkin dialect),2131,чиркх,CyrillTrans,"lamp, torch",,,čirq,Phonemic
+7-440-317-1,chec1245,Chechen (Akkin dialect),1775,истол,CyrillTrans,table,,,istol,Phonemic
+7-430-317-1,chec1245,Chechen (Akkin dialect),1476,гІант,CyrillTrans,chair,,,ɣant,Phonemic
+7-422-317-1,chec1245,Chechen (Akkin dialect),806,юргІа,CyrillTrans,blanket,,,yurɣa,Phonemic
+7-421-317-1,chec1245,Chechen (Akkin dialect),1044,гІайм,CyrillTrans,pillow,,,ɣaym,Phonemic
+7-420-317-1,chec1245,Chechen (Akkin dialect),1663,менга,CyrillTrans,bed,,,menga,Phonemic
+7-370-317-1,chec1245,Chechen (Akkin dialect),1464,лам,CyrillTrans,ladder,,,lam,Phonemic
+7-330-317-1,chec1245,Chechen (Akkin dialect),1305,тункым,CyrillTrans,chimney,,,tunkɨm,Phonemic
+7-320-317-1,chec1245,Chechen (Akkin dialect),859,пеш,CyrillTrans,stove,,,peš,Phonemic
+7-310-317-1,chec1245,Chechen (Akkin dialect),185,товха,CyrillTrans,fireplace,,,towxa,Phonemic
+7-270-317-1,chec1245,Chechen (Akkin dialect),933,бо̄с,CyrillTrans,wall,,,bōs,Phonemic
+7-260-317-1,chec1245,Chechen (Akkin dialect),1632,цІин,CyrillTrans,floor,,,cʼin,Phonemic
+7-250-317-1,chec1245,Chechen (Akkin dialect),1375,кор,CyrillTrans,window,,,kor,Phonemic
+7-240-317-1,chec1245,Chechen (Akkin dialect),1472,до̄гІа,CyrillTrans,key,,,dōɣa,Phonemic
+7-231-317-1,chec1245,Chechen (Akkin dialect),1012,гІуй,CyrillTrans,"latch, door-bolt",,,ɣuy,Phonemic
+7-230-317-1,chec1245,Chechen (Akkin dialect),1596,догІа,CyrillTrans,lock (noun),,,"doɣa, zamōk",Phonemic
+7-230-317-3,chec1245,Chechen (Akkin dialect),1596,замо̄к,CyrillTrans,lock (noun),,,"doɣa, zamōk",Phonemic
+7-221-317-1,chec1245,Chechen (Akkin dialect),80,гур,CyrillTrans,"doorpost, jamb",,,gur,Phonemic
+7-210-317-1,chec1245,Chechen (Akkin dialect),1450,цІа,CyrillTrans,room,,,cʼa,Phonemic
+7-220-317-1,chec1245,Chechen (Akkin dialect),1567,наІ,CyrillTrans,"door, gate",,,naʕ,Phonemic
+7-180-317-1,chec1245,Chechen (Akkin dialect),335,цІа,CyrillTrans,meeting house,,,cʼa,Phonemic
+7-170-317-1,chec1245,Chechen (Akkin dialect),334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-317-1,chec1245,Chechen (Akkin dialect),408,божри цІа,CyrillTrans,men's house,,,božri cʼa,Phonemic
+7-150-317-1,chec1245,Chechen (Akkin dialect),736,уьтІие,CyrillTrans,"yard, court",,,üt’ie,Phonemic
+7-140-317-1,chec1245,Chechen (Akkin dialect),1316,чатыр,CyrillTrans,tent,,,čatɨr,Phonemic
+7-131-317-1,chec1245,Chechen (Akkin dialect),403,эвеыр цІалиг,CyrillTrans,garden-house,,,eweɨr cʼalig,Phonemic
+7-130-317-1,chec1245,Chechen (Akkin dialect),1678,цІялиг,CyrillTrans,hut,,,cʼyalig,Phonemic
+7-120-317-1,chec1245,Chechen (Akkin dialect),1252,цІено,CyrillTrans,house,,,cʼeno,Phonemic
+7-110-317-1,chec1245,Chechen (Akkin dialect),363,йаха,CyrillTrans,"dwell, live",,,"yaxa, daxa",Phonemic
+7-110-317-3,chec1245,Chechen (Akkin dialect),363,даха,CyrillTrans,"dwell, live",,,"yaxa, daxa",Phonemic
+6-960-317-1,chec1245,Chechen (Akkin dialect),1171,кюзг,CyrillTrans,mirror,,,kyuzg,Phonemic
+6-950-317-1,chec1245,Chechen (Akkin dialect),788,соп,CyrillTrans,soap,,,sop,Phonemic
+6-940-317-1,chec1245,Chechen (Akkin dialect),1926,хьанхыр,CyrillTrans,ointment,,,ħanxɨr,Phonemic
+6-930-317-1,chec1245,Chechen (Akkin dialect),151,маж йош урс,CyrillTrans,razor,,,maž yoš urs,Phonemic
+6-921-317-1,chec1245,Chechen (Akkin dialect),333,кІа̄жыр,CyrillTrans,braid,,,kʼāžɨr,Phonemic
+6-920-317-1,chec1245,Chechen (Akkin dialect),1821,ехк,CyrillTrans,brush,,,yexk,Phonemic
+6-910-317-1,chec1245,Chechen (Akkin dialect),1475,ехк,CyrillTrans,comb,,,yexk,Phonemic
+6-820-317-1,chec1245,Chechen (Akkin dialect),1021,йохмрех хьокхырг,CyrillTrans,towel,,,yoxmrex ħoqɨrg,Phonemic
+6-810-317-1,chec1245,Chechen (Akkin dialect),332,мерх хьокх йовлыкх,CyrillTrans,"handkerchief, rag",,,merx ħoq yowlɨq,Phonemic
+6-790-317-1,chec1245,Chechen (Akkin dialect),68,гІор дагор,CyrillTrans,tattoo,,,ɣor dagor,Phonemic
+6-780-317-1,chec1245,Chechen (Akkin dialect),330,корт бихк,CyrillTrans,"headband, headdress",,,kort bixk,Phonemic
+6-770-317-1,chec1245,Chechen (Akkin dialect),770,хьалкханш,CyrillTrans,earring,,,ħalqanš,Phonemic
+6-760-317-1,chec1245,Chechen (Akkin dialect),1860,туьти,CyrillTrans,bead,,,tüti,Phonemic
+6-750-317-1,chec1245,Chechen (Akkin dialect),1961,туьтеш,CyrillTrans,necklace,,,tüteš,Phonemic
+6-740-317-1,chec1245,Chechen (Akkin dialect),1754,хІоз,CyrillTrans,bracelet,,,hoz,Phonemic
+6-730-317-1,chec1245,Chechen (Akkin dialect),1374,мёхІыр,CyrillTrans,ring (for finger),,,myohɨr,Phonemic
+6-720-317-1,chec1245,Chechen (Akkin dialect),1029,без кхярыг,CyrillTrans,jewel,,,bez qyarɨg,Phonemic
+6-710-317-1,chec1245,Chechen (Akkin dialect),917,бустым,CyrillTrans,"ornament, adornment",,,bustɨm,Phonemic
+6-630-317-1,chec1245,Chechen (Akkin dialect),64,хьалхьа буллу мах,CyrillTrans,pin,,,ħalħa bul̄u max,Phonemic
+6-620-317-1,chec1245,Chechen (Akkin dialect),757,лёда,CyrillTrans,button,,,lyoda,Phonemic
+6-610-317-1,chec1245,Chechen (Akkin dialect),1851,кис,CyrillTrans,pocket,,,kis,Phonemic
+6-590-317-1,chec1245,Chechen (Akkin dialect),1151,тастыр,CyrillTrans,veil,,,tastɨr,Phonemic
+6-580-317-1,chec1245,Chechen (Akkin dialect),867,ка̄ра,CyrillTrans,glove,,,kāra,Phonemic
+6-570-317-1,chec1245,Chechen (Akkin dialect),772,доьхк,CyrillTrans,"belt, girdle",,,döxk,Phonemic
+6-550-317-1,chec1245,Chechen (Akkin dialect),2130,кюрт тюл хІам,CyrillTrans,"hat, cap",,,kyurt tyul ham,Phonemic
+6-540-317-1,chec1245,Chechen (Akkin dialect),875,итки пхар,CyrillTrans,"shoemaker, cobbler",,,itki pxar,Phonemic
+6-510-317-1,chec1245,Chechen (Akkin dialect),1381,туфли,CyrillTrans,shoe,,,tufli,Phonemic
+6-520-317-1,chec1245,Chechen (Akkin dialect),585,батинк,CyrillTrans,boot,,,batink,Phonemic
+6-490-317-1,chec1245,Chechen (Akkin dialect),329,чорып,CyrillTrans,"stocking, sock",,,"čorɨp, naski",Phonemic
+6-490-317-3,chec1245,Chechen (Akkin dialect),329,наски,CyrillTrans,"stocking, sock",,,"čorɨp, naski",Phonemic
+6-480-317-1,chec1245,Chechen (Akkin dialect),809,хачи,CyrillTrans,trousers,,,xači,Phonemic
+6-461-317-1,chec1245,Chechen (Akkin dialect),328,йупк,CyrillTrans,grass-skirt,,,yupk,Phonemic
+6-460-317-1,chec1245,Chechen (Akkin dialect),1600,йупк,CyrillTrans,skirt,,,yupk,Phonemic
+6-450-317-1,chec1245,Chechen (Akkin dialect),2012,кач,CyrillTrans,collar,,,kač,Phonemic
+6-440-317-1,chec1245,Chechen (Akkin dialect),1622,коч,CyrillTrans,shirt,,,koč,Phonemic
+6-430-317-1,chec1245,Chechen (Akkin dialect),603,пальто,CyrillTrans,coat,,,palʲto,Phonemic
+6-420-317-1,chec1245,Chechen (Akkin dialect),474,коч,CyrillTrans,woman's dress,,,koč,Phonemic
+6-390-317-1,chec1245,Chechen (Akkin dialect),157,басыр,CyrillTrans,dye,,,basɨr,Phonemic
+6-410-317-1,chec1245,Chechen (Akkin dialect),326,палаш,CyrillTrans,cloak,,,palaš,Phonemic
+6-380-317-1,chec1245,Chechen (Akkin dialect),1161,май,CyrillTrans,thread,,,may,Phonemic
+6-360-317-1,chec1245,Chechen (Akkin dialect),1382,ма̄х,CyrillTrans,needle,,,māx,Phonemic
+6-370-317-1,chec1245,Chechen (Akkin dialect),278,йу,CyrillTrans,awl,,,yu,Phonemic
+6-350-317-1,chec1245,Chechen (Akkin dialect),1457,те̄га,CyrillTrans,sew,,,tēga,Phonemic
+6-340-317-1,chec1245,Chechen (Akkin dialect),1787,кІади де̄ чарх,CyrillTrans,loom,,,kʼadi dē čarx,Phonemic
+6-330-317-1,chec1245,Chechen (Akkin dialect),133,дага,CyrillTrans,weave,,,"daga, da",Phonemic
+6-330-317-3,chec1245,Chechen (Akkin dialect),133,да,CyrillTrans,weave,,,"daga, da",Phonemic
+6-320-317-1,chec1245,Chechen (Akkin dialect),277,урчыкк,CyrillTrans,spindle,,,určɨk̄,Phonemic
+6-310-317-1,chec1245,Chechen (Akkin dialect),121,хьавз,CyrillTrans,spin,,,ħawz,Phonemic
+6-290-317-1,chec1245,Chechen (Akkin dialect),629,цІок,CyrillTrans,leather,,,cʼok,Phonemic
+6-280-317-1,chec1245,Chechen (Akkin dialect),580,чо,CyrillTrans,fur,,,čo,Phonemic
+6-270-317-1,chec1245,Chechen (Akkin dialect),325,бегІиг,CyrillTrans,felt,,,beɣig,Phonemic
+6-250-317-1,chec1245,Chechen (Akkin dialect),1641,да̄ре,CyrillTrans,silk,,,dāre,Phonemic
+6-240-317-1,chec1245,Chechen (Akkin dialect),1850,бам,CyrillTrans,cotton,,,bam,Phonemic
+6-230-317-1,chec1245,Chechen (Akkin dialect),916,ве̄та,CyrillTrans,"linen, flax",,,wēta,Phonemic
+6-220-317-1,chec1245,Chechen (Akkin dialect),964,шал,CyrillTrans,wool,,,šal,Phonemic
+6-210-317-1,chec1245,Chechen (Akkin dialect),1616,кІа̄ди,CyrillTrans,cloth,,,kʼādi,Phonemic
+6-130-317-1,chec1245,Chechen (Akkin dialect),881,те̄гархо,CyrillTrans,tailor,,,tēgarxo,Phonemic
+6-120-317-1,chec1245,Chechen (Akkin dialect),1895,бедыр,CyrillTrans,"clothing, clothes",,,bedɨr,Phonemic
+6-110-317-1,chec1245,Chechen (Akkin dialect),158,юх,CyrillTrans,put on (clothes),,,"yux, tʼeyuxa",Phonemic
+6-110-317-3,chec1245,Chechen (Akkin dialect),158,тІеюха,CyrillTrans,put on (clothes),,,"yux, tʼeyuxa",Phonemic
+5-971-317-1,chec1245,Chechen (Akkin dialect),1556,бюр,CyrillTrans,egg yolk,,,byur,Phonemic
+5-970-317-1,chec1245,Chechen (Akkin dialect),744,хІу,CyrillTrans,egg,,,hu,Phonemic
+5-940-317-1,chec1245,Chechen (Akkin dialect),404,ниха,CyrillTrans,fermented drink,,,nixa,Phonemic
+5-930-317-1,chec1245,Chechen (Akkin dialect),1639,йий,CyrillTrans,beer,,,yiy,Phonemic
+5-920-317-1,chec1245,Chechen (Akkin dialect),1524,чагІыр,CyrillTrans,wine,,,čaɣɨr,Phonemic
+5-910-317-1,chec1245,Chechen (Akkin dialect),941,моз,CyrillTrans,mead,,,moz,Phonemic
+5-900-317-1,chec1245,Chechen (Akkin dialect),731,малар,CyrillTrans,"beverage, drink",,,malar,Phonemic
+5-890-317-1,chec1245,Chechen (Akkin dialect),1245,нарх,CyrillTrans,butter,,,narx,Phonemic
+5-880-317-1,chec1245,Chechen (Akkin dialect),1569,нахч,CyrillTrans,cheese,,,naxč,Phonemic
+5-870-317-1,chec1245,Chechen (Akkin dialect),93,о̄за,CyrillTrans,milk (vb),,,ōza,Phonemic
+5-850-317-1,chec1245,Chechen (Akkin dialect),862,шекыр,CyrillTrans,sugar,,,šekɨr,Phonemic
+5-860-317-1,chec1245,Chechen (Akkin dialect),635,шур,CyrillTrans,milk (noun),,,šur,Phonemic
+5-840-317-1,chec1245,Chechen (Akkin dialect),942,моз,CyrillTrans,honey,,,moz,Phonemic
+5-821-317-1,chec1245,Chechen (Akkin dialect),919,кІам бурч,CyrillTrans,chili pepper,,,kʼam burč,Phonemic
+5-820-317-1,chec1245,Chechen (Akkin dialect),1385,бурч,CyrillTrans,pepper,,,burč,Phonemic
+5-810-317-1,chec1245,Chechen (Akkin dialect),1274,тук,CyrillTrans,salt,,,tuk,Phonemic
+5-791-317-1,chec1245,Chechen (Akkin dialect),323,мохь,CyrillTrans,"grease, fat",,,moħ,Phonemic
+5-790-317-1,chec1245,Chechen (Akkin dialect),1484,даьтта,CyrillTrans,oil,,,dät̄a,Phonemic
+5-780-317-1,chec1245,Chechen (Akkin dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-317-1,chec1245,Chechen (Akkin dialect),920,кенш,CyrillTrans,grape,,,kenš,Phonemic
+5-770-317-1,chec1245,Chechen (Akkin dialect),191,бІар,CyrillTrans,nut,,,bʕar,Phonemic
+5-750-317-1,chec1245,Chechen (Akkin dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-317-1,chec1245,Chechen (Akkin dialect),1966,кан,CyrillTrans,bunch,,,kan,Phonemic
+5-710-317-1,chec1245,Chechen (Akkin dialect),1507,стом,CyrillTrans,fruit,,,stom,Phonemic
+5-700-317-1,chec1245,Chechen (Akkin dialect),593,каршк,CyrillTrans,potato,,,karšk,Phonemic
+5-660-317-1,chec1245,Chechen (Akkin dialect),832,кхо,CyrillTrans,bean,,,qo,Phonemic
+5-650-317-1,chec1245,Chechen (Akkin dialect),924,хасстоьмаш,CyrillTrans,vegetables,,,xasstömaš,Phonemic
+5-640-317-1,chec1245,Chechen (Akkin dialect),1547,чорп,CyrillTrans,"soup, broth",,,čorp,Phonemic
+5-630-317-1,chec1245,Chechen (Akkin dialect),1874,лехъ,CyrillTrans,sausage,,,"leħ, marš",Phonemic
+5-630-317-3,chec1245,Chechen (Akkin dialect),1874,марш,CyrillTrans,sausage,,,"leħ, marš",Phonemic
+5-610-317-1,chec1245,Chechen (Akkin dialect),634,жижг,CyrillTrans,meat,,,žižg,Phonemic
+5-590-317-1,chec1245,Chechen (Akkin dialect),225,охьлу,CyrillTrans,pestle,,,oħlu,Phonemic
+5-580-317-1,chec1245,Chechen (Akkin dialect),224,моск,CyrillTrans,mortar (2),,,mosk,Phonemic
+5-570-317-1,chec1245,Chechen (Akkin dialect),636,хьайр,CyrillTrans,mill,,,ħayr,Phonemic
+5-560-317-1,chec1245,Chechen (Akkin dialect),1033,Іата,CyrillTrans,"crush, grind",,,ʕata,Phonemic
+5-550-317-1,chec1245,Chechen (Akkin dialect),1594,хьор,CyrillTrans,"meal, flour",,,ħor,Phonemic
+5-540-317-1,chec1245,Chechen (Akkin dialect),274,бод ба,CyrillTrans,knead,,,bod ba,Phonemic
+5-530-317-1,chec1245,Chechen (Akkin dialect),273,бод,CyrillTrans,dough,,,bod,Phonemic
+5-510-317-1,chec1245,Chechen (Akkin dialect),1368,мякха,CyrillTrans,bread,,,myaqa,Phonemic
+5-490-317-1,chec1245,Chechen (Akkin dialect),2017,ке̄го,CyrillTrans,"stir, mix",,,kēgo,Phonemic
+5-480-317-1,chec1245,Chechen (Akkin dialect),1767,хье̄кхо,CyrillTrans,scrape,,,ħēqo,Phonemic
+5-470-317-1,chec1245,Chechen (Akkin dialect),86,цацех якх,CyrillTrans,"sieve, strain",,,cacex yaq,Phonemic
+5-460-317-1,chec1245,Chechen (Akkin dialect),275,цІамдал,CyrillTrans,peel,,,cʼamdal,Phonemic
+5-450-317-1,chec1245,Chechen (Akkin dialect),1833,йа хІам,CyrillTrans,supper,,,ya ham,Phonemic
+5-440-317-1,chec1245,Chechen (Akkin dialect),1833,делкъ йахІам,CyrillTrans,dinner,,,delqʼ ya ham,Phonemic
+5-420-317-1,chec1245,Chechen (Akkin dialect),1322,йа хІам,CyrillTrans,breakfast,,,ya ham,Phonemic
+5-410-317-1,chec1245,Chechen (Akkin dialect),1526,яа хІам,CyrillTrans,meal (a),,,yaʔa ham,Phonemic
+5-391-317-1,chec1245,Chechen (Akkin dialect),272,марзх,CyrillTrans,tongs,,,marzx,Phonemic
+5-390-317-1,chec1245,Chechen (Akkin dialect),1302,хІастым,CyrillTrans,fork (2),,,hastɨm,Phonemic
+5-380-317-1,chec1245,Chechen (Akkin dialect),1352,ирс,CyrillTrans,knife (2),,,irs,Phonemic
+5-370-317-1,chec1245,Chechen (Akkin dialect),1378,Іайг,CyrillTrans,spoon,,,ʕayg,Phonemic
+5-360-317-1,chec1245,Chechen (Akkin dialect),271,бошхІап,CyrillTrans,saucer,,,bošhap,Phonemic
+5-350-317-1,chec1245,Chechen (Akkin dialect),476,кад,CyrillTrans,"cup, drinking vessel",,,kad,Phonemic
+5-330-317-1,chec1245,Chechen (Akkin dialect),1530,кад,CyrillTrans,bowl,,,kad,Phonemic
+5-340-317-1,chec1245,Chechen (Akkin dialect),270,гІумгІа,CyrillTrans,"pitcher, jug",,,ɣumɣa,Phonemic
+5-320-317-1,chec1245,Chechen (Akkin dialect),480,хядыр,CyrillTrans,plate,,,xyadɨr,Phonemic
+5-310-317-1,chec1245,Chechen (Akkin dialect),481,хядыр,CyrillTrans,dish,,,xyadɨr,Phonemic
+5-280-317-1,chec1245,Chechen (Akkin dialect),31,йай,CyrillTrans,pan,,,yay,Phonemic
+5-260-317-1,chec1245,Chechen (Akkin dialect),1462,ей,CyrillTrans,"pot, cooking vessel",,,ey,Phonemic
+5-270-317-1,chec1245,Chechen (Akkin dialect),854,чайнк,CyrillTrans,kettle,,,čaynk,Phonemic
+5-240-317-1,chec1245,Chechen (Akkin dialect),183,етта,CyrillTrans,bake,,,yet̄a,Phonemic
+5-250-317-1,chec1245,Chechen (Akkin dialect),1143,печ,CyrillTrans,oven,,,peč,Phonemic
+5-230-317-1,chec1245,Chechen (Akkin dialect),2146,кхарза,CyrillTrans,"roast, fry",,,qarza,Phonemic
+5-220-317-1,chec1245,Chechen (Akkin dialect),792,кхахко,CyrillTrans,boil (vb),,,qaxko,Phonemic
+5-210-317-1,chec1245,Chechen (Akkin dialect),1100,кхахко,CyrillTrans,cook,,,qaxko,Phonemic
+5-190-317-1,chec1245,Chechen (Akkin dialect),129,са дукъа,CyrillTrans,choke,,,sa duqʼa,Phonemic
+5-181-317-1,chec1245,Chechen (Akkin dialect),897,къурдаш ба,CyrillTrans,swallow,,,qʼurdaš ba,Phonemic
+5-180-317-1,chec1245,Chechen (Akkin dialect),321,Іавш,CyrillTrans,chew,,,ʕawš,Phonemic
+5-160-317-1,chec1245,Chechen (Akkin dialect),1421,цІупдар,CyrillTrans,suck,,,cʼupdar,Phonemic
+5-150-317-1,chec1245,Chechen (Akkin dialect),848,хьагыл,CyrillTrans,thirst,,,ħagɨl,Phonemic
+5-141-317-1,chec1245,Chechen (Akkin dialect),199,мацалл,CyrillTrans,famine,,,macal̄,Phonemic
+5-140-317-1,chec1245,Chechen (Akkin dialect),1864,мацыл,CyrillTrans,hunger,,,macɨl,Phonemic
+5-130-317-1,chec1245,Chechen (Akkin dialect),1401,мал,CyrillTrans,drink,,,mal,Phonemic
+5-125-317-1,chec1245,Chechen (Akkin dialect),1728,йахкйелн дахкделн,CyrillTrans,rotten,,,yaxkyeln daxkdeln,Phonemic
+5-124-317-1,chec1245,Chechen (Akkin dialect),1958,аьрга,CyrillTrans,"green, unripe",,,ärga,Phonemic
+5-123-317-1,chec1245,Chechen (Akkin dialect),178,хелн даж,CyrillTrans,ripe,,,xeln daž,Phonemic
+5-122-317-1,chec1245,Chechen (Akkin dialect),1959,тІуьн,CyrillTrans,raw,,,tʼün,Phonemic
+5-121-317-1,chec1245,Chechen (Akkin dialect),269,кхахкин,CyrillTrans,cooked,,,qaxkin,Phonemic
+5-120-317-1,chec1245,Chechen (Akkin dialect),256,йуург,CyrillTrans,food,,,"yuʔurg, daʔar",Phonemic
+5-120-317-3,chec1245,Chechen (Akkin dialect),256,даар,CyrillTrans,food,,,"yuʔurg, daʔar",Phonemic
+5-110-317-1,chec1245,Chechen (Akkin dialect),1336,йаа,CyrillTrans,eat,,,"yaʔa, daʔa",Phonemic
+5-110-317-3,chec1245,Chechen (Akkin dialect),1336,даа,CyrillTrans,eat,,,"yaʔa, daʔa",Phonemic
+4-990-317-1,chec1245,Chechen (Akkin dialect),590,верзын,CyrillTrans,"naked, bare",,,werzɨn,Phonemic
+4-970-317-1,chec1245,Chechen (Akkin dialect),1653,бІар са доц саг,CyrillTrans,blind,,,bʕar sa doc sag,Phonemic
+4-980-317-1,chec1245,Chechen (Akkin dialect),1463,мелн,CyrillTrans,intoxicated,,,"meln, wexɨn",Phonemic
+4-980-317-3,chec1245,Chechen (Akkin dialect),1463,вехын,CyrillTrans,intoxicated,,,"meln, wexɨn",Phonemic
+4-960-317-1,chec1245,Chechen (Akkin dialect),1666,маттцв хе,CyrillTrans,mute,,,mat̄cw xe,Phonemic
+4-950-317-1,chec1245,Chechen (Akkin dialect),996,къор,CyrillTrans,deaf,,,qʼor,Phonemic
+4-930-317-1,chec1245,Chechen (Akkin dialect),1125,кІунзыл,CyrillTrans,bald,,,kʼunzɨl,Phonemic
+4-940-317-1,chec1245,Chechen (Akkin dialect),320,астагІ лела,CyrillTrans,lame,,,astaɣ lela,Phonemic
+4-920-317-1,chec1245,Chechen (Akkin dialect),1564,мел,CyrillTrans,lazy,,,mel,Phonemic
+4-912-317-1,chec1245,Chechen (Akkin dialect),168,са даІ,CyrillTrans,rest,,,sa daʕ,Phonemic
+4-910-317-1,chec1245,Chechen (Akkin dialect),1757,кІадвелнув,CyrillTrans,"tired, weary",,,"kʼadwelnuw, ɣelwelnuw",Phonemic
+4-910-317-3,chec1245,Chechen (Akkin dialect),1757,гІелвелнув,CyrillTrans,"tired, weary",,,"kʼadwelnuw, ɣelwelnuw",Phonemic
+4-890-317-1,chec1245,Chechen (Akkin dialect),655,дІавш,CyrillTrans,poison,,,dʕawš,Phonemic
+4-880-317-1,chec1245,Chechen (Akkin dialect),1372,дарым,CyrillTrans,"medicine, drug",,,darɨm,Phonemic
+4-870-317-1,chec1245,Chechen (Akkin dialect),597,дохтыр,CyrillTrans,physician,,,doxtɨr,Phonemic
+4-860-317-1,chec1245,Chechen (Akkin dialect),499,товвалыр,CyrillTrans,"cure, heal",,,towwalɨr,Phonemic
+4-858-317-1,chec1245,Chechen (Akkin dialect),497,мо̄,CyrillTrans,scar,,,mō,Phonemic
+4-857-317-1,chec1245,Chechen (Akkin dialect),1808,наткъа,CyrillTrans,pus,,,natqʼa,Phonemic
+4-856-317-1,chec1245,Chechen (Akkin dialect),793,ІаьржбІаьрг,CyrillTrans,boil (noun),,,ʕäržbʕärg,Phonemic
+4-855-317-1,chec1245,Chechen (Akkin dialect),1584,ахкар,CyrillTrans,blister,,,axkar,Phonemic
+4-854-317-1,chec1245,Chechen (Akkin dialect),148,кІомдар,CyrillTrans,itch,,,kʼomdar,Phonemic
+4-853-317-1,chec1245,Chechen (Akkin dialect),1903,йестыр,CyrillTrans,swelling,,,yestɨr,Phonemic
+4-852-317-1,chec1245,Chechen (Akkin dialect),1148,лазин меттыг,CyrillTrans,bruise,,,lazin met̄ɨg,Phonemic
+4-850-317-1,chec1245,Chechen (Akkin dialect),1109,чов,CyrillTrans,"wound, sore",,,čow,Phonemic
+4-843-317-1,chec1245,Chechen (Akkin dialect),102,шелвалар,CyrillTrans,cold (catarrh),,,šelwalar,Phonemic
+4-842-317-1,chec1245,Chechen (Akkin dialect),1957,екхахІоъ йаяр,CyrillTrans,goiter,,,yeqahoʔ yar,Phonemic
+4-841-317-1,chec1245,Chechen (Akkin dialect),1534,дагыр,CyrillTrans,fever,,,dagɨr,Phonemic
+4-840-317-1,chec1245,Chechen (Akkin dialect),1847,цумгыш ва (йа,CyrillTrans,"sick, sickness",,,"cumgɨš wa (ya, da), cumgul",Phonemic
+4-840-317-3,chec1245,Chechen (Akkin dialect),1847,да),CyrillTrans,"sick, sickness",,,"cumgɨš wa (ya, da), cumgul",Phonemic
+4-840-317-5,chec1245,Chechen (Akkin dialect),1847,цумгул,CyrillTrans,"sick, sickness",,,"cumgɨš wa (ya, da), cumgul",Phonemic
+4-830-317-1,chec1245,Chechen (Akkin dialect),1364,мугыш,CyrillTrans,"well, health",,,"mugɨš, mugšɨl",Phonemic
+4-830-317-3,chec1245,Chechen (Akkin dialect),1364,мугшыл,CyrillTrans,"well, health",,,"mugɨš, mugšɨl",Phonemic
+4-820-317-1,chec1245,Chechen (Akkin dialect),1601,гІийл,CyrillTrans,weak,,,ɣiyl,Phonemic
+4-810-317-1,chec1245,Chechen (Akkin dialect),785,ни цкъал,CyrillTrans,"strong, mighty, powerful",,,ni cqʼal,Phonemic
+4-790-317-1,chec1245,Chechen (Akkin dialect),1773,каш,CyrillTrans,"grave, tomb",,,kaš,Phonemic
+4-780-317-1,chec1245,Chechen (Akkin dialect),1719,дІавалл,CyrillTrans,bury (the dead),,,"dʕawal̄, dʕayol̄",Phonemic
+4-780-317-3,chec1245,Chechen (Akkin dialect),1719,дІайолл,CyrillTrans,bury (the dead),,,"dʕawal̄, dʕayol̄",Phonemic
+4-770-317-1,chec1245,Chechen (Akkin dialect),767,дакъа,CyrillTrans,corpse,,,daqʼa,Phonemic
+4-760-317-1,chec1245,Chechen (Akkin dialect),1417,вивар,CyrillTrans,kill,,,wiwar,Phonemic
+4-751-317-1,chec1245,Chechen (Akkin dialect),1904,хино ваьхьнырг,CyrillTrans,drowned,,,xino wäħnɨrg,Phonemic
+4-750-317-1,chec1245,Chechen (Akkin dialect),1494,йелн йа,CyrillTrans,"die, dead",,,"yeln ya, weln wa",Phonemic
+4-750-317-3,chec1245,Chechen (Akkin dialect),1494,велн ва,CyrillTrans,"die, dead",,,"yeln ya, weln wa",Phonemic
+4-740-317-1,chec1245,Chechen (Akkin dialect),1422,дуьнетах гІар,CyrillTrans,"live, living, life",,,dünetax ɣar,Phonemic
+4-732-317-1,chec1245,Chechen (Akkin dialect),1087,берых хал,CyrillTrans,conceive,,,berɨx xal,Phonemic
+4-730-317-1,chec1245,Chechen (Akkin dialect),1123,берых йа,CyrillTrans,pregnant,,,berɨx ya,Phonemic
+4-720-317-1,chec1245,Chechen (Akkin dialect),1090,хелну,CyrillTrans,born (to be),,,"xelnu, xeln ya",Phonemic
+4-720-317-3,chec1245,Chechen (Akkin dialect),1090,хелн йа,CyrillTrans,born (to be),,,"xelnu, xeln ya",Phonemic
+4-710-317-1,chec1245,Chechen (Akkin dialect),1152,бер да,CyrillTrans,beget (of father),,,ber da,Phonemic
+4-690-317-1,chec1245,Chechen (Akkin dialect),138,лӣча,CyrillTrans,bathe,,,līča,Phonemic
+4-680-317-1,chec1245,Chechen (Akkin dialect),52,эго,CyrillTrans,shiver,,,ego,Phonemic
+4-670-317-1,chec1245,Chechen (Akkin dialect),1785,кІиг да,CyrillTrans,have sexual intercourse,,,kʼig da,Phonemic
+4-660-317-1,chec1245,Chechen (Akkin dialect),676,бид бетт,CyrillTrans,defecate,,,bid bet̄,Phonemic
+4-650-317-1,chec1245,Chechen (Akkin dialect),592,чиш дет,CyrillTrans,urinate,,,čiš det,Phonemic
+4-640-317-1,chec1245,Chechen (Akkin dialect),1159,тІардыш тох,CyrillTrans,break wind,,,tʼardɨš tox,Phonemic
+4-630-317-1,chec1245,Chechen (Akkin dialect),1602,сем йа̄л (ва̄л,CyrillTrans,wake up,,,"sem yal (wāl, dāl)",Phonemic
+4-630-317-3,chec1245,Chechen (Akkin dialect),1602,да̄л),CyrillTrans,wake up,,,"sem yal (wāl, dāl)",Phonemic
+4-620-317-1,chec1245,Chechen (Akkin dialect),1920,гІан га,CyrillTrans,dream,,,ɣan ga,Phonemic
+4-612-317-1,chec1245,Chechen (Akkin dialect),1983,хар ба̄х,CyrillTrans,snore,,,xar bāx,Phonemic
+4-610-317-1,chec1245,Chechen (Akkin dialect),1585,наб йа,CyrillTrans,sleep,,,nab ya,Phonemic
+4-591-317-1,chec1245,Chechen (Akkin dialect),268,туйныш эхийта,CyrillTrans,dribble,,,tuynɨš exiyta,Phonemic
+4-590-317-1,chec1245,Chechen (Akkin dialect),319,матт хьекх,CyrillTrans,lick,,,mat̄ ħeq,Phonemic
+4-580-317-1,chec1245,Chechen (Akkin dialect),1403,цергыш ихка,CyrillTrans,bite,,,cergɨš ixka,Phonemic
+4-570-317-1,chec1245,Chechen (Akkin dialect),1278,Іетто,CyrillTrans,vomit,,,ʕet̄o,Phonemic
+4-560-317-1,chec1245,Chechen (Akkin dialect),1440,шат,CyrillTrans,spit,,,šat,Phonemic
+4-550-317-1,chec1245,Chechen (Akkin dialect),126,хьоцар да̄л,CyrillTrans,perspire,,,ħocar dāl,Phonemic
+4-540-317-1,chec1245,Chechen (Akkin dialect),1621,йовхыр ет,CyrillTrans,sneeze,,,yowxɨr yet,Phonemic
+4-530-317-1,chec1245,Chechen (Akkin dialect),879,йовхырш ет,CyrillTrans,cough,,,yowxɨrš yet,Phonemic
+4-521-317-1,chec1245,Chechen (Akkin dialect),162,хьинкІыш кхетыр,CyrillTrans,hiccough,,,ħinkʼɨš qetɨr,Phonemic
+4-520-317-1,chec1245,Chechen (Akkin dialect),1028,баге̄ гІатто,CyrillTrans,"yawn, gape",,,bagē ɣat̄o,Phonemic
+4-510-317-1,chec1245,Chechen (Akkin dialect),1407,садаІа,CyrillTrans,"breathe, breath",,,sadaʕa,Phonemic
+4-492-317-1,chec1245,Chechen (Akkin dialect),1222,муз,CyrillTrans,penis,,,muz,Phonemic
+4-490-317-1,chec1245,Chechen (Akkin dialect),797,тІол,CyrillTrans,testicle,,,tʼol,Phonemic
+4-470-317-1,chec1245,Chechen (Akkin dialect),804,беран цІа,CyrillTrans,womb,,,beran cʼa,Phonemic
+4-464-317-1,chec1245,Chechen (Akkin dialect),834,хенан маьІгаш,CyrillTrans,buttocks,,,xenan mäʕgaš,Phonemic
+4-463-317-1,chec1245,Chechen (Akkin dialect),1745,варо,CyrillTrans,hip,,,"waro, ɣoɣ",Phonemic
+4-463-317-3,chec1245,Chechen (Akkin dialect),1745,гІогІ,CyrillTrans,hip,,,"waro, ɣoɣ",Phonemic
+4-462-317-1,chec1245,Chechen (Akkin dialect),1681,гІадюкъ,CyrillTrans,waist,,,ɣadyuqʼ,Phonemic
+4-461-317-1,chec1245,Chechen (Akkin dialect),1991,чуьйрыш,CyrillTrans,"intestines, guts",,,čüyrɨš,Phonemic
+4-460-317-1,chec1245,Chechen (Akkin dialect),819,хьер,CyrillTrans,stomach,,,"ħer, zorx",Phonemic
+4-460-317-3,chec1245,Chechen (Akkin dialect),819,зорх,CyrillTrans,stomach,,,"ħer, zorx",Phonemic
+4-452-317-1,chec1245,Chechen (Akkin dialect),1744,Іонжыр,CyrillTrans,spleen,,,ʕonžɨr,Phonemic
+4-451-317-1,chec1245,Chechen (Akkin dialect),489,жим,CyrillTrans,kidney,,,žim,Phonemic
+4-450-317-1,chec1245,Chechen (Akkin dialect),1224,доІах,CyrillTrans,liver,,,doʕaxk,Phonemic
+4-441-317-1,chec1245,Chechen (Akkin dialect),688,пах,CyrillTrans,lung,,,pax,Phonemic
+4-440-317-1,chec1245,Chechen (Akkin dialect),1223,дог,CyrillTrans,heart,,,dog,Phonemic
+4-430-317-1,chec1245,Chechen (Akkin dialect),1838,цІанг,CyrillTrans,navel,,,cʼang,Phonemic
+4-420-317-1,chec1245,Chechen (Akkin dialect),154,шим,CyrillTrans,udder,,,šim,Phonemic
+4-412-317-1,chec1245,Chechen (Akkin dialect),796,тІа̄р,CyrillTrans,"nipple, teat",,,tʼār,Phonemic
+4-410-317-1,chec1245,Chechen (Akkin dialect),1402,накх,CyrillTrans,breast (of woman),,,naq,Phonemic
+4-400-317-1,chec1245,Chechen (Akkin dialect),1592,некх ваз,CyrillTrans,chest,,,neq waz,Phonemic
+4-393-317-1,chec1245,Chechen (Akkin dialect),1201,пелыг,CyrillTrans,feather,,,pelɨg,Phonemic
+4-392-317-1,chec1245,Chechen (Akkin dialect),1257,пІам,CyrillTrans,wing,,,pʼam,Phonemic
+4-380-317-1,chec1245,Chechen (Akkin dialect),1389,пІелг,CyrillTrans,toe,,,pʼelg,Phonemic
+4-374-317-1,chec1245,Chechen (Akkin dialect),318,лар,CyrillTrans,footprint,,,lar,Phonemic
+4-372-317-1,chec1245,Chechen (Akkin dialect),980,кІа̄ж,CyrillTrans,heel,,,kʼāž,Phonemic
+4-371-317-1,chec1245,Chechen (Akkin dialect),803,хьакхалг,CyrillTrans,ankle,,,ħaqalg,Phonemic
+4-370-317-1,chec1245,Chechen (Akkin dialect),1301,ког кІел,CyrillTrans,foot,,,kog kʼel,Phonemic
+4-360-317-1,chec1245,Chechen (Akkin dialect),1371,гол,CyrillTrans,knee,,,gol,Phonemic
+4-352-317-1,chec1245,Chechen (Akkin dialect),498,пхьид,CyrillTrans,calf of leg,,,pħid,Phonemic
+4-351-317-1,chec1245,Chechen (Akkin dialect),800,варе,CyrillTrans,thigh,,,ware,Phonemic
+4-350-317-1,chec1245,Chechen (Akkin dialect),1297,ког,CyrillTrans,leg,,,kog,Phonemic
+4-345-317-1,chec1245,Chechen (Akkin dialect),72,мІар,CyrillTrans,claw,,,mʕar,Phonemic
+4-344-317-1,chec1245,Chechen (Akkin dialect),1258,мІар,CyrillTrans,fingernail,,,mʕar,Phonemic
+4-342-317-1,chec1245,Chechen (Akkin dialect),1781,на̄на-пІелг,CyrillTrans,thumb,,,nāna-pʼelg,Phonemic
+4-340-317-1,chec1245,Chechen (Akkin dialect),1303,пІам,CyrillTrans,finger,,,pʼam,Phonemic
+4-331-317-1,chec1245,Chechen (Akkin dialect),1183,карюкъ,CyrillTrans,palm of hand,,,karyuqʼ,Phonemic
+4-330-317-1,chec1245,Chechen (Akkin dialect),1277,ка,CyrillTrans,hand,,,ka,Phonemic
+4-321-317-1,chec1245,Chechen (Akkin dialect),799,куьйг хьакхолг,CyrillTrans,wrist,,,küyg ħaqolg,Phonemic
+4-320-317-1,chec1245,Chechen (Akkin dialect),981,гал,CyrillTrans,elbow,,,gal,Phonemic
+4-312-317-1,chec1245,Chechen (Akkin dialect),1886,пхьаьрс кІе̄ло,CyrillTrans,armpit,,,pħärs kʼēlo,Phonemic
+4-310-317-1,chec1245,Chechen (Akkin dialect),1673,куьлг,CyrillTrans,arm,,,külg,Phonemic
+4-302-317-1,chec1245,Chechen (Akkin dialect),1994,динбухк,CyrillTrans,collarbone,,,dinbuxk,Phonemic
+4-301-317-1,chec1245,Chechen (Akkin dialect),172,иханыр,CyrillTrans,shoulderblade,,,ixanɨr,Phonemic
+4-300-317-1,chec1245,Chechen (Akkin dialect),1482,белш,CyrillTrans,shoulder,,,belš,Phonemic
+4-290-317-1,chec1245,Chechen (Akkin dialect),1346,къамкъорг,CyrillTrans,throat,,,qʼamqʼorg,Phonemic
+4-281-317-1,chec1245,Chechen (Akkin dialect),1347,кІесар кІог,CyrillTrans,nape of neck,,,kʼesar kʼog,Phonemic
+4-280-317-1,chec1245,Chechen (Akkin dialect),1333,барт,CyrillTrans,neck,,,bart,Phonemic
+4-272-317-1,chec1245,Chechen (Akkin dialect),1049,кхе̄ла,CyrillTrans,molartooth,,,qēla,Phonemic
+4-270-317-1,chec1245,Chechen (Akkin dialect),1380,церг,CyrillTrans,tooth,,,cerg,Phonemic
+4-271-317-1,chec1245,Chechen (Akkin dialect),139,до̄лаш,CyrillTrans,gums,,,dōlaš,Phonemic
+4-260-317-1,chec1245,Chechen (Akkin dialect),1205,мотт,CyrillTrans,tongue,,,mot̄,Phonemic
+4-250-317-1,chec1245,Chechen (Akkin dialect),478,балд,CyrillTrans,lip,,,bald,Phonemic
+4-241-317-1,chec1245,Chechen (Akkin dialect),73,зІак,CyrillTrans,beak,,,zʕak,Phonemic
+4-240-317-1,chec1245,Chechen (Akkin dialect),674,баге̄,CyrillTrans,mouth,,,bagē,Phonemic
+4-232-317-1,chec1245,Chechen (Akkin dialect),208,мерш,CyrillTrans,mucus (nasal),,,merš,Phonemic
+4-231-317-1,chec1245,Chechen (Akkin dialect),1178,мер Іуьрг,CyrillTrans,nostril,,,mer ʕürg,Phonemic
+4-230-317-1,chec1245,Chechen (Akkin dialect),1221,мар,CyrillTrans,nose,,,mar,Phonemic
+4-222-317-1,chec1245,Chechen (Akkin dialect),32,до,CyrillTrans,earwax,,,do,Phonemic
+4-221-317-1,chec1245,Chechen (Akkin dialect),18,лерган дума,CyrillTrans,earlobe,,,lergan duma,Phonemic
+4-220-317-1,chec1245,Chechen (Akkin dialect),1247,лерг,CyrillTrans,ear,,,lerg,Phonemic
+4-215-317-1,chec1245,Chechen (Akkin dialect),1655,бІаргаш хьебо,CyrillTrans,blink,,,oʕärgäš ħebo,Phonemic
+4-214-317-1,chec1245,Chechen (Akkin dialect),1540,оІаьрг чаьш,CyrillTrans,eyelash,,,oʕärg čäš,Phonemic
+4-213-317-1,chec1245,Chechen (Akkin dialect),17,оІаьрг негІырш,CyrillTrans,eyelid,,,oʕärg neɣɨrš,Phonemic
+4-212-317-1,chec1245,Chechen (Akkin dialect),1173,цІацкъам,CyrillTrans,eyebrow,,,cʼacqʼam,Phonemic
+4-210-317-1,chec1245,Chechen (Akkin dialect),1248,бІаьрг,CyrillTrans,eye,,,bʕärg,Phonemic
+4-208-317-1,chec1245,Chechen (Akkin dialect),1730,мохчыл,CyrillTrans,cheek,,,moxčɨl,Phonemic
+4-209-317-1,chec1245,Chechen (Akkin dialect),1510,чΙенг,CyrillTrans,chin,,,č’eng,Phonemic
+4-205-317-1,chec1245,Chechen (Akkin dialect),123,хьаж,CyrillTrans,forehead,,,ħaž,Phonemic
+4-207-317-1,chec1245,Chechen (Akkin dialect),798,салоз,CyrillTrans,jaw,,,saloz,Phonemic
+4-204-317-1,chec1245,Chechen (Akkin dialect),1560,йохмырш,CyrillTrans,face,,,yoxmɨrš,Phonemic
+4-203-317-1,chec1245,Chechen (Akkin dialect),1583,хье,CyrillTrans,brain,,,ħe,Phonemic
+4-201-317-1,chec1245,Chechen (Akkin dialect),1604,лергадогІа,CyrillTrans,"side of head, temple",,,"lergadoɣa, lergayux",Phonemic
+4-201-317-3,chec1245,Chechen (Akkin dialect),1604,лергайух,CyrillTrans,"side of head, temple",,,"lergadoɣa, lergayux",Phonemic
+4-202-317-1,chec1245,Chechen (Akkin dialect),1605,тюте,CyrillTrans,skull,,,tüte,Phonemic
+4-200-317-1,chec1245,Chechen (Akkin dialect),1256,корт,CyrillTrans,head,,,kort,Phonemic
+4-191-317-1,chec1245,Chechen (Akkin dialect),805,букъан арц,CyrillTrans,spine,,,buqʼan arc,Phonemic
+4-190-317-1,chec1245,Chechen (Akkin dialect),1291,букъ,CyrillTrans,back,,,buqʼ,Phonemic
+4-180-317-1,chec1245,Chechen (Akkin dialect),1220,цІог,CyrillTrans,tail,,,cʼog,Phonemic
+4-170-317-1,chec1245,Chechen (Akkin dialect),1393,маІ,CyrillTrans,horn,,,maʕ,Phonemic
+4-162-317-1,chec1245,Chechen (Akkin dialect),801,пІенд,CyrillTrans,rib,,,pʼend,Phonemic
+4-160-317-1,chec1245,Chechen (Akkin dialect),1394,даьІак,CyrillTrans,bone,,,däʕak,Phonemic
+4-151-317-1,chec1245,Chechen (Akkin dialect),525,пха,CyrillTrans,"vein, artery",,,pxa,Phonemic
+4-150-317-1,chec1245,Chechen (Akkin dialect),946,цІи,CyrillTrans,blood,,,cʼi,Phonemic
+4-146-317-1,chec1245,Chechen (Akkin dialect),576,чич,CyrillTrans,dandruff,,,čič,Phonemic
+4-145-317-1,chec1245,Chechen (Akkin dialect),36,маш,CyrillTrans,pubic hair,,,maš,Phonemic
+4-144-317-1,chec1245,Chechen (Akkin dialect),189,чо,CyrillTrans,body hair,,,čo,Phonemic
+4-142-317-1,chec1245,Chechen (Akkin dialect),678,маж,CyrillTrans,beard,,,maž,Phonemic
+4-140-317-1,chec1245,Chechen (Akkin dialect),1040,чо,CyrillTrans,hair (head),,,čo,Phonemic
+4-130-317-1,chec1245,Chechen (Akkin dialect),2259,дегІ,CyrillTrans,flesh,,,deɣ,Phonemic
+4-120-317-1,chec1245,Chechen (Akkin dialect),763,цІо̄к,CyrillTrans,"skin, hide",,,cʼōk,Phonemic
+4-110-317-1,chec1245,Chechen (Akkin dialect),1480,дегІ,CyrillTrans,body,,,deɣ,Phonemic
+3-980-317-1,chec1245,Chechen (Akkin dialect),112,уьнтІапххьид,CyrillTrans,turtle,,,üntʼapxħid,Phonemic
+3-970-317-1,chec1245,Chechen (Akkin dialect),1857,саьрмик,CyrillTrans,"crocodile, alligator",,,särmik,Phonemic
+3-960-317-1,chec1245,Chechen (Akkin dialect),632,мелкъ,CyrillTrans,lizard,,,melqʼ,Phonemic
+3-950-317-1,chec1245,Chechen (Akkin dialect),503,пхьид,CyrillTrans,frog,,,pħid,Phonemic
+3-940-317-1,chec1245,Chechen (Akkin dialect),1543,итмаьІиг,CyrillTrans,snail,,,itmäʕig,Phonemic
+3-930-317-1,chec1245,Chechen (Akkin dialect),607,цапцылг,CyrillTrans,grasshopper,,,capcɨlg,Phonemic
+3-920-317-1,chec1245,Chechen (Akkin dialect),1791,полл,CyrillTrans,butterfly,,,pol̄,Phonemic
+3-910-317-1,chec1245,Chechen (Akkin dialect),206,бумбари,CyrillTrans,firefly,,,bumbari,Phonemic
+3-850-317-1,chec1245,Chechen (Akkin dialect),730,лаьхьа,CyrillTrans,snake,,,"läħa, bhekham",Phonemic
+3-850-317-3,chec1245,Chechen (Akkin dialect),730,бхІекхІам,CyrillTrans,snake,,,"läħa, bhekham",Phonemic
+3-840-317-1,chec1245,Chechen (Akkin dialect),1219,нІана,CyrillTrans,worm,,,nʕana,Phonemic
+3-832-317-1,chec1245,Chechen (Akkin dialect),1509,чирк,CyrillTrans,mosquito,,,čirk,Phonemic
+3-831-317-1,chec1245,Chechen (Akkin dialect),95,чирк,CyrillTrans,"sandfly (midge), gnat",,,čirk,Phonemic
+3-830-317-1,chec1245,Chechen (Akkin dialect),1504,моз,CyrillTrans,fly,,,moz,Phonemic
+3-823-317-1,chec1245,Chechen (Akkin dialect),1517,зІӯга,CyrillTrans,wasp,,,zʕūga,Phonemic
+3-822-317-1,chec1245,Chechen (Akkin dialect),88,накх,CyrillTrans,beehive,,,naq,Phonemic
+3-821-317-1,chec1245,Chechen (Akkin dialect),1931,ба̄лоз,CyrillTrans,beeswax,,,bāloz,Phonemic
+3-820-317-1,chec1245,Chechen (Akkin dialect),665,накхармоз,CyrillTrans,bee,,,naqarmoz,Phonemic
+3-819-317-1,chec1245,Chechen (Akkin dialect),1065,гезгмаш,CyrillTrans,spider web,,,gezgmaš,Phonemic
+3-818-317-1,chec1245,Chechen (Akkin dialect),843,гезг,CyrillTrans,spider,,,gezg,Phonemic
+3-817-317-1,chec1245,Chechen (Akkin dialect),587,зункт,CyrillTrans,ant,,,zunkt,Phonemic
+3-816-317-1,chec1245,Chechen (Akkin dialect),1575,чхьавырг,CyrillTrans,cockroach,,,čħawɨrg,Phonemic
+3-815-317-1,chec1245,Chechen (Akkin dialect),1538,сту лоцу гезг,CyrillTrans,scorpion,,,stu locu gezg,Phonemic
+3-814-317-1,chec1245,Chechen (Akkin dialect),1974,шаролг,CyrillTrans,centipede,,,šarolg,Phonemic
+3-813-317-1,chec1245,Chechen (Akkin dialect),232,сагыл,CyrillTrans,flea,,,sagɨl,Phonemic
+3-812-317-1,chec1245,Chechen (Akkin dialect),267,хинж,CyrillTrans,nit (louse egg),,,xinž,Phonemic
+3-811-317-1,chec1245,Chechen (Akkin dialect),1392,меза,CyrillTrans,louse,,,meza,Phonemic
+3-810-317-1,chec1245,Chechen (Akkin dialect),620,са дол хІам,CyrillTrans,insect,,,sa dol ham,Phonemic
+3-780-317-1,chec1245,Chechen (Akkin dialect),1871,эмкыл,CyrillTrans,camel,,,emkɨl,Phonemic
+3-770-317-1,chec1245,Chechen (Akkin dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-317-1,chec1245,Chechen (Akkin dialect),1350,маймыл,CyrillTrans,monkey,,,maymɨl,Phonemic
+3-750-317-1,chec1245,Chechen (Akkin dialect),1936,шоьккари,CyrillTrans,deer,,,šök̄ari,Phonemic
+3-740-317-1,chec1245,Chechen (Akkin dialect),1312,цхьогыл,CyrillTrans,fox,,,cħogɨl,Phonemic
+3-730-317-1,chec1245,Chechen (Akkin dialect),1820,ча,CyrillTrans,bear,,,ča,Phonemic
+3-720-317-1,chec1245,Chechen (Akkin dialect),1386,лам,CyrillTrans,lion,,,lam,Phonemic
+3-710-317-1,chec1245,Chechen (Akkin dialect),522,борз,CyrillTrans,wolf,,,borz,Phonemic
+3-665-317-1,chec1245,Chechen (Akkin dialect),1013,жІаьле чІа̄р,CyrillTrans,freshwater eel,,,žʕäle čʼār,Phonemic
+3-664-317-1,chec1245,Chechen (Akkin dialect),1910,хІорда чІа̄р,CyrillTrans,stingray,,,horda čʼār,Phonemic
+3-663-317-1,chec1245,Chechen (Akkin dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-317-1,chec1245,Chechen (Akkin dialect),1479,хІорд дийнт,CyrillTrans,"porpoise, dolphin",,,"hord diynt, delfin",Phonemic
+3-662-317-3,chec1245,Chechen (Akkin dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,"hord diynt, delfin",Phonemic
+3-661-317-1,chec1245,Chechen (Akkin dialect),1110,бокх чІа̄р,CyrillTrans,shark,,,"boq čʼār, akula",Phonemic
+3-661-317-3,chec1245,Chechen (Akkin dialect),1110,акула,CyrillTrans,shark,,,"boq čʼār, akula",Phonemic
+3-655-317-1,chec1245,Chechen (Akkin dialect),598,лахьорч,CyrillTrans,shell,,,laħorč,Phonemic
+3-654-317-1,chec1245,Chechen (Akkin dialect),1916,жІарыи,CyrillTrans,gill,,,žʕarɨi,Phonemic
+3-653-317-1,chec1245,Chechen (Akkin dialect),266,чІери пелагаш,CyrillTrans,fishscale,,,čʼeri pelagaš,Phonemic
+3-652-317-1,chec1245,Chechen (Akkin dialect),213,пелг,CyrillTrans,fin (dorsal),,,pelg,Phonemic
+3-650-317-1,chec1245,Chechen (Akkin dialect),227,чапка,CyrillTrans,fish,,,čapka,Phonemic
+3-630-317-1,chec1245,Chechen (Akkin dialect),2139,дахка,CyrillTrans,"mouse, rat",,,daxka,Phonemic
+3-620-317-1,chec1245,Chechen (Akkin dialect),1208,цицыг,CyrillTrans,cat,,,cicɨg,Phonemic
+3-614-317-1,chec1245,Chechen (Akkin dialect),1136,ихьагал,CyrillTrans,rabbit,,,iħagal,Phonemic
+3-610-317-1,chec1245,Chechen (Akkin dialect),2009,жІали,CyrillTrans,dog,,,žʕali,Phonemic
+3-594-317-1,chec1245,Chechen (Akkin dialect),1853,кхокка,CyrillTrans,dove,,,qok̄a,Phonemic
+3-596-317-1,chec1245,Chechen (Akkin dialect),735,бухІ,CyrillTrans,owl,,,buh,Phonemic
+3-593-317-1,chec1245,Chechen (Akkin dialect),913,къиг,CyrillTrans,crow,,,qʼig,Phonemic
+3-592-317-1,chec1245,Chechen (Akkin dialect),882,тоти,CyrillTrans,parrot,,,toti,Phonemic
+3-591-317-1,chec1245,Chechen (Akkin dialect),1793,бирдалг,CyrillTrans,bat,,,birdalg,Phonemic
+3-586-317-1,chec1245,Chechen (Akkin dialect),1185,кюр,CyrillTrans,vulture,,,kyur,Phonemic
+3-585-317-1,chec1245,Chechen (Akkin dialect),307,кюр,CyrillTrans,hawk,,,kyur,Phonemic
+3-584-317-1,chec1245,Chechen (Akkin dialect),1905,кёр,CyrillTrans,eagle,,,kyor,Phonemic
+3-582-317-1,chec1245,Chechen (Akkin dialect),950,хин олхзыр,CyrillTrans,seagull,,,xin olxzɨr,Phonemic
+3-583-317-1,chec1245,Chechen (Akkin dialect),758,олхзыр,CyrillTrans,heron,,,olxzɨr,Phonemic
+3-581-317-1,chec1245,Chechen (Akkin dialect),937,хІазылдыг,CyrillTrans,bird,,,hazɨldɨg,Phonemic
+3-580-317-1,chec1245,Chechen (Akkin dialect),539,бІе,CyrillTrans,nest,,,bʕe,Phonemic
+3-570-317-1,chec1245,Chechen (Akkin dialect),1360,бад,CyrillTrans,duck,,,bad,Phonemic
+3-560-317-1,chec1245,Chechen (Akkin dialect),1187,гІа̄з,CyrillTrans,goose,,,ɣāz,Phonemic
+3-550-317-1,chec1245,Chechen (Akkin dialect),1318,кІо̄рни,CyrillTrans,chicken,,,kʼōrni,Phonemic
+3-540-317-1,chec1245,Chechen (Akkin dialect),1514,ко̄там,CyrillTrans,hen,,,kōtam,Phonemic
+3-520-317-1,chec1245,Chechen (Akkin dialect),1511,боргІал,CyrillTrans,"cock, rooster",,,borɣal,Phonemic
+3-470-317-1,chec1245,Chechen (Akkin dialect),890,бІарз,CyrillTrans,mule,,,bʕarz,Phonemic
+3-500-317-1,chec1245,Chechen (Akkin dialect),265,зІакардаьхни,CyrillTrans,fowl,,,zʕakardäxni,Phonemic
+3-460-317-1,chec1245,Chechen (Akkin dialect),1862,вир,CyrillTrans,"ass, donkey",,,wir,Phonemic
+3-450-317-1,chec1245,Chechen (Akkin dialect),1647,бекъа,CyrillTrans,"foal, colt",,,beqʼa,Phonemic
+3-440-317-1,chec1245,Chechen (Akkin dialect),938,кхела,CyrillTrans,mare,,,qela,Phonemic
+3-420-317-1,chec1245,Chechen (Akkin dialect),936,айгІыр,CyrillTrans,stallion,,,ayɣɨr,Phonemic
+3-410-317-1,chec1245,Chechen (Akkin dialect),615,говр,CyrillTrans,horse (equine),,,gowr,Phonemic
+3-380-317-1,chec1245,Chechen (Akkin dialect),1972,буьхьиг,CyrillTrans,kid,,,büħig,Phonemic
+3-370-317-1,chec1245,Chechen (Akkin dialect),264,бож,CyrillTrans,he-goat,,,bož,Phonemic
+3-360-317-1,chec1245,Chechen (Akkin dialect),1502,га̄з,CyrillTrans,goat,,,gāz,Phonemic
+3-350-317-1,chec1245,Chechen (Akkin dialect),1337,хьакх,CyrillTrans,pig,,,ħaq,Phonemic
+3-340-317-1,chec1245,Chechen (Akkin dialect),1351,хьакх,CyrillTrans,sow (2),,,ħaq,Phonemic
+3-320-317-1,chec1245,Chechen (Akkin dialect),1348,хьакх,CyrillTrans,boar,,,ħaq,Phonemic
+3-290-317-1,chec1245,Chechen (Akkin dialect),820,чухылг,CyrillTrans,lamb,,,čuxɨlg,Phonemic
+3-280-317-1,chec1245,Chechen (Akkin dialect),1345,устх,CyrillTrans,ewe,,,ustx,Phonemic
+3-260-317-1,chec1245,Chechen (Akkin dialect),1344,устх,CyrillTrans,ram,,,ustx,Phonemic
+3-250-317-1,chec1245,Chechen (Akkin dialect),1331,устх,CyrillTrans,sheep,,,ustx,Phonemic
+3-240-317-1,chec1245,Chechen (Akkin dialect),1989,Іес,CyrillTrans,calf,,,ʕes,Phonemic
+3-230-317-1,chec1245,Chechen (Akkin dialect),1007,ешт,CyrillTrans,cow,,,yešt,Phonemic
+3-220-317-1,chec1245,Chechen (Akkin dialect),1169,сту,CyrillTrans,ox,,,stu,Phonemic
+3-210-317-1,chec1245,Chechen (Akkin dialect),1008,сту,CyrillTrans,bull,,,stu,Phonemic
+3-200-317-1,chec1245,Chechen (Akkin dialect),1153,даьхни,CyrillTrans,cattle (bovine),,,däxni,Phonemic
+3-190-317-1,chec1245,Chechen (Akkin dialect),851,божыл,CyrillTrans,"stable, stall",,,"božɨl, oga",Phonemic
+3-190-317-3,chec1245,Chechen (Akkin dialect),851,ога,CyrillTrans,"stable, stall",,,"božɨl, oga",Phonemic
+3-180-317-1,chec1245,Chechen (Akkin dialect),263,Іу,CyrillTrans,herdsman,,,ʕu,Phonemic
+3-160-317-1,chec1245,Chechen (Akkin dialect),649,бежынш дажо меттиг,CyrillTrans,pasture,,,"bežɨnš dažo met̄ig, bežni are",Phonemic
+3-160-317-3,chec1245,Chechen (Akkin dialect),649,бежни аре,CyrillTrans,pasture,,,"bežɨnš dažo met̄ig, bežni are",Phonemic
+3-150-317-1,chec1245,Chechen (Akkin dialect),631,даьхни,CyrillTrans,livestock,,,"däxni, ħaybanš",Phonemic
+3-150-317-3,chec1245,Chechen (Akkin dialect),631,хьайбанш,CyrillTrans,livestock,,,"däxni, ħaybanš",Phonemic
+3-130-317-1,chec1245,Chechen (Akkin dialect),2262,сески,CyrillTrans,female (adj),,,seski,Phonemic
+3-120-317-1,chec1245,Chechen (Akkin dialect),2261,божри,CyrillTrans,male (adj),,,božri,Phonemic
+3-110-317-1,chec1245,Chechen (Akkin dialect),619,хьайба,CyrillTrans,animal,,,ħayba,Phonemic
+2-960-317-1,chec1245,Chechen (Akkin dialect),817,иш,CyrillTrans,they,,,iš,Phonemic
+2-950-317-1,chec1245,Chechen (Akkin dialect),1213,жу,CyrillTrans,you (plural),,,"žu, šu",Phonemic
+2-950-317-3,chec1245,Chechen (Akkin dialect),1213,шу,CyrillTrans,you (plural),,,"žu, šu",Phonemic
+2-942-317-1,chec1245,Chechen (Akkin dialect),1130,тхо,CyrillTrans,we (exclusive),,,txo,Phonemic
+2-941-317-1,chec1245,Chechen (Akkin dialect),1131,вай,CyrillTrans,we (inclusive),,,way,Phonemic
+2-940-317-1,chec1245,Chechen (Akkin dialect),1212,вай,CyrillTrans,we,,,way,Phonemic
+2-930-317-1,chec1245,Chechen (Akkin dialect),262,иза,CyrillTrans,he/she/it,,,iza,Phonemic
+2-920-317-1,chec1245,Chechen (Akkin dialect),1215,хьо,CyrillTrans,you (singular),,,ħo,Phonemic
+2-910-317-1,chec1245,Chechen (Akkin dialect),1209,со,CyrillTrans,I,,,so,Phonemic
+2-820-317-1,chec1245,Chechen (Akkin dialect),194,дезал,CyrillTrans,family,,,dezal,Phonemic
+2-810-317-1,chec1245,Chechen (Akkin dialect),1644,пергал на̄к,CyrillTrans,"relatives, kinsmen",,,pergal nāk,Phonemic
+2-770-317-1,chec1245,Chechen (Akkin dialect),1981,сеск елнарг,CyrillTrans,widower,,,sesk yelnarg,Phonemic
+2-760-317-1,chec1245,Chechen (Akkin dialect),1756,же̄ро,CyrillTrans,widow,,,"žēro, iisna sesa",Phonemic
+2-760-317-3,chec1245,Chechen (Akkin dialect),1756,иисна сеса,CyrillTrans,widow,,,"žēro, iisna sesa",Phonemic
+2-750-317-1,chec1245,Chechen (Akkin dialect),1149,да̄на̄н воцуре,CyrillTrans,orphan,,,"dānān wocure, bedi",Phonemic
+2-750-317-3,chec1245,Chechen (Akkin dialect),1149,беди,CyrillTrans,orphan,,,"dānān wocure, bedi",Phonemic
+2-740-317-1,chec1245,Chechen (Akkin dialect),1058,ме̄ра йоІ,CyrillTrans,stepdaughter,,,mēra yoʕ,Phonemic
+2-730-317-1,chec1245,Chechen (Akkin dialect),1059,мер кІетыг,CyrillTrans,stepson,,,mer kʼetɨg,Phonemic
+2-720-317-1,chec1245,Chechen (Akkin dialect),236,де сеск,CyrillTrans,stepmother,,,de sesk,Phonemic
+2-710-317-1,chec1245,Chechen (Akkin dialect),237,няна ма̄р,CyrillTrans,stepfather,,,nyana mār,Phonemic
+2-641-317-1,chec1245,Chechen (Akkin dialect),2264,нус,CyrillTrans,daughter-in-law (of a woman),,,nus,Phonemic
+2-640-317-1,chec1245,Chechen (Akkin dialect),2265,нус,CyrillTrans,daughter-in-law (of a man),,,nus,Phonemic
+2-631-317-1,chec1245,Chechen (Akkin dialect),2266,нуц,CyrillTrans,son-in-law (of a woman),,,nuc,Phonemic
+2-630-317-1,chec1245,Chechen (Akkin dialect),2267,нуц,CyrillTrans,son-in-law (of a man),,,nuc,Phonemic
+2-621-317-1,chec1245,Chechen (Akkin dialect),2257,стун на̄на,CyrillTrans,mother-in-law (of a woman),,,stun nāna,Phonemic
+2-620-317-1,chec1245,Chechen (Akkin dialect),2256,ма̄р на̄на,CyrillTrans,mother-in-law (of a man),,,mār nāna,Phonemic
+2-611-317-1,chec1245,Chechen (Akkin dialect),2254,ма̄р да̄,CyrillTrans,father-in-law (of a woman),,,stun dā,Phonemic
+2-610-317-1,chec1245,Chechen (Akkin dialect),2255,ма̄р да̄,CyrillTrans,father-in-law (of a man),,,mār dā,Phonemic
+2-570-317-1,chec1245,Chechen (Akkin dialect),490,тІаьхье,CyrillTrans,descendants,,,tʼäħe,Phonemic
+2-560-317-1,chec1245,Chechen (Akkin dialect),1669,дай,CyrillTrans,ancestors,,,day,Phonemic
+2-550-317-1,chec1245,Chechen (Akkin dialect),1643,шича,CyrillTrans,cousin,,,šiča,Phonemic
+2-540-317-1,chec1245,Chechen (Akkin dialect),1642,веши йоІ,CyrillTrans,niece,,,"weši yoʕ, yiši yoʕ",Phonemic
+2-540-317-3,chec1245,Chechen (Akkin dialect),1642,йиши йоІ,CyrillTrans,niece,,,"weši yoʕ, yiši yoʕ",Phonemic
+2-530-317-1,chec1245,Chechen (Akkin dialect),1063,веши кІетыг,CyrillTrans,nephew,,,"weši kʼetɨg, yiši kʼetɨg",Phonemic
+2-530-317-3,chec1245,Chechen (Akkin dialect),1063,йиши кІетыг,CyrillTrans,nephew,,,"weši kʼetɨg, yiši kʼetɨg",Phonemic
+2-522-317-1,chec1245,Chechen (Akkin dialect),170,дяци,CyrillTrans,father's sister,,,"dyaci, dē yiša",Phonemic
+2-522-317-3,chec1245,Chechen (Akkin dialect),170,де̄ йиша,CyrillTrans,father's sister,,,"dyaci, dē yiša",Phonemic
+2-520-317-1,chec1245,Chechen (Akkin dialect),1272,йиши,CyrillTrans,aunt,,,yiši,Phonemic
+2-521-317-1,chec1245,Chechen (Akkin dialect),171,йиши,CyrillTrans,mother's sister,,,"yiši, nēna yiša",Phonemic
+2-521-317-3,chec1245,Chechen (Akkin dialect),171,нēна йиша,CyrillTrans,mother's sister,,,"yiši, nēna yiša",Phonemic
+2-512-317-1,chec1245,Chechen (Akkin dialect),1985,дяци ваш,CyrillTrans,father's brother,,,dyaci waša,Phonemic
+2-511-317-1,chec1245,Chechen (Akkin dialect),1984,не̄на ваша,CyrillTrans,mother's brother,,,nēna waša,Phonemic
+2-510-317-1,chec1245,Chechen (Akkin dialect),1327,ваши,CyrillTrans,uncle,,,waši,Phonemic
+2-480-317-1,chec1245,Chechen (Akkin dialect),1618,кІант кІант,CyrillTrans,grandson,,,"kʼant kʼant, yoʕ kʼant",Phonemic
+2-480-317-3,chec1245,Chechen (Akkin dialect),1618,йоІ кІант,CyrillTrans,grandson,,,"kʼant kʼant, yoʕ kʼant",Phonemic
+2-490-317-1,chec1245,Chechen (Akkin dialect),1619,кІант йоІ,CyrillTrans,granddaughter,,,"kʼant yoʕ, yoʕ",Phonemic
+2-490-317-3,chec1245,Chechen (Akkin dialect),1619,йоІ,CyrillTrans,granddaughter,,,"kʼant yoʕ, yoʕ",Phonemic
+2-471-317-1,chec1245,Chechen (Akkin dialect),907,локкха саг,CyrillTrans,old woman,,,loq̄a sag,Phonemic
+2-470-317-1,chec1245,Chechen (Akkin dialect),1496,ба̄ба,CyrillTrans,grandmother,,,bāba,Phonemic
+2-461-317-1,chec1245,Chechen (Akkin dialect),406,боккх саг,CyrillTrans,old man,,,boq̄ sag,Phonemic
+2-460-317-1,chec1245,Chechen (Akkin dialect),1383,де̄-да̄,CyrillTrans,grandfather,,,"dē-dā, nēn-dā",Phonemic
+2-460-317-3,chec1245,Chechen (Akkin dialect),1383,не̄н-да̄,CyrillTrans,grandfather,,,"dē-dā, nēn-dā",Phonemic
+2-458-317-1,chec1245,Chechen (Akkin dialect),1005,шала бинарш,CyrillTrans,twins,,,šala binarš,Phonemic
+2-456-317-1,chec1245,Chechen (Akkin dialect),1640,ваша,CyrillTrans,sibling,,,"waša, yiša",Phonemic
+2-456-317-3,chec1245,Chechen (Akkin dialect),1640,йиша,CyrillTrans,sibling,,,"waša, yiša",Phonemic
+2-455-317-1,chec1245,Chechen (Akkin dialect),1761,зимиг йиша,CyrillTrans,younger sister,,,zimig yiša,Phonemic
+2-454-317-1,chec1245,Chechen (Akkin dialect),1758,йоккха йиша,CyrillTrans,older sister,,,yoq̄a yiša,Phonemic
+2-450-317-1,chec1245,Chechen (Akkin dialect),1263,йиша,CyrillTrans,sister,,,yiša,Phonemic
+2-445-317-1,chec1245,Chechen (Akkin dialect),1760,зимиг ваш,CyrillTrans,younger brother,,,zimig waša,Phonemic
+2-444-317-1,chec1245,Chechen (Akkin dialect),1759,воккха ваша,CyrillTrans,older brother,,,woq̄a waša,Phonemic
+2-440-317-1,chec1245,Chechen (Akkin dialect),1262,ваша,CyrillTrans,brother,,,waša,Phonemic
+2-430-317-1,chec1245,Chechen (Akkin dialect),1801,бе̄раш,CyrillTrans,offspring (son or daughter),,,bēraš,Phonemic
+2-420-317-1,chec1245,Chechen (Akkin dialect),1357,йоІыг,CyrillTrans,daughter,,,yoʕɨg,Phonemic
+2-410-317-1,chec1245,Chechen (Akkin dialect),1620,кІант,CyrillTrans,son,,,kʼant,Phonemic
+2-390-317-1,chec1245,Chechen (Akkin dialect),426,ма̄рехь йон сеск,CyrillTrans,married woman,,,māreħ yon sesk,Phonemic
+2-380-317-1,chec1245,Chechen (Akkin dialect),424,сеск йа̄мийна,CyrillTrans,married man,,,sesk yāmiyna,Phonemic
+2-370-317-1,chec1245,Chechen (Akkin dialect),505,да̄-на̄на,CyrillTrans,parents,,,dā-nāna,Phonemic
+2-360-317-1,chec1245,Chechen (Akkin dialect),1216,нана,CyrillTrans,mother,,,nāna,Phonemic
+2-350-317-1,chec1245,Chechen (Akkin dialect),1217,да̄,CyrillTrans,father,,,dā,Phonemic
+2-341-317-1,chec1245,Chechen (Akkin dialect),1134,цІа йара,CyrillTrans,divorce,,,cʼa yara,Phonemic
+2-340-317-1,chec1245,Chechen (Akkin dialect),1259,той,CyrillTrans,"marriage, wedding",,,toy,Phonemic
+2-330-317-1,chec1245,Chechen (Akkin dialect),203,ма̄ре йаха,CyrillTrans,marry,,,"māre yāxa, dālo",Phonemic
+2-330-317-3,chec1245,Chechen (Akkin dialect),203,да̄ло,CyrillTrans,marry,,,"māre yāxa, dālo",Phonemic
+2-320-317-1,chec1245,Chechen (Akkin dialect),1199,се̄саг,CyrillTrans,wife,,,sēsag,Phonemic
+2-310-317-1,chec1245,Chechen (Akkin dialect),1200,ма̄р,CyrillTrans,husband,,,mār,Phonemic
+2-280-317-1,chec1245,Chechen (Akkin dialect),1289,бер,CyrillTrans,"infant, baby",,,ber,Phonemic
+2-270-317-1,chec1245,Chechen (Akkin dialect),1304,бера,CyrillTrans,child,,,bera,Phonemic
+2-261-317-1,chec1245,Chechen (Akkin dialect),77,йоІаг,CyrillTrans,young woman (adolescent),,,yoʕag,Phonemic
+2-260-317-1,chec1245,Chechen (Akkin dialect),1646,йоІыг,CyrillTrans,girl,,,yoʕɨg,Phonemic
+2-251-317-1,chec1245,Chechen (Akkin dialect),76,кІант,CyrillTrans,young man (adolescent),,,kʼant,Phonemic
+2-250-317-1,chec1245,Chechen (Akkin dialect),1366,кІетаг,CyrillTrans,boy,,,kʼetag,Phonemic
+2-240-317-1,chec1245,Chechen (Akkin dialect),1551,сев хІам,CyrillTrans,female,,,sew ham,Phonemic
+2-230-317-1,chec1245,Chechen (Akkin dialect),1553,борш хІам,CyrillTrans,male,,,borš ham,Phonemic
+2-220-317-1,chec1245,Chechen (Akkin dialect),962,сеск,CyrillTrans,woman,,,sesk,Phonemic
+2-210-317-1,chec1245,Chechen (Akkin dialect),1554,саг,CyrillTrans,man (vs. woman),,,sag,Phonemic
+2-100-317-1,chec1245,Chechen (Akkin dialect),683,адам,CyrillTrans,"person, human being",,,"adam, sag",Phonemic
+2-100-317-3,chec1245,Chechen (Akkin dialect),683,саг,CyrillTrans,"person, human being",,,"adam, sag",Phonemic
+1-890-317-1,chec1245,Chechen (Akkin dialect),1188,дечк кІор,CyrillTrans,charcoal,,,dečk kʼor,Phonemic
+1-880-317-1,chec1245,Chechen (Akkin dialect),10,дечк,CyrillTrans,firewood,,,dečk,Phonemic
+1-870-317-1,chec1245,Chechen (Akkin dialect),1133,синк,CyrillTrans,match (noun),,,sink,Phonemic
+1-861-317-1,chec1245,Chechen (Akkin dialect),127,бавув,CyrillTrans,extinguish,,,bawuw,Phonemic
+1-860-317-1,chec1245,Chechen (Akkin dialect),737,лато,CyrillTrans,"light, kindle, ignite",,,lato,Phonemic
+1-852-317-1,chec1245,Chechen (Akkin dialect),1428,йа̄га,CyrillTrans,burn (vb intrans),,,yāga,Phonemic
+1-851-317-1,chec1245,Chechen (Akkin dialect),141,да̄го Іийжо,CyrillTrans,burn (vb trans),,,dāgo ʕiyžo,Phonemic
+1-841-317-1,chec1245,Chechen (Akkin dialect),67,кІора,CyrillTrans,embers,,,kʼora,Phonemic
+1-840-317-1,chec1245,Chechen (Akkin dialect),646,чилг,CyrillTrans,ashes,,,čilg,Phonemic
+1-830-317-1,chec1245,Chechen (Akkin dialect),778,кΙур,CyrillTrans,smoke (noun),,,kʼur,Phonemic
+1-820-317-1,chec1245,Chechen (Akkin dialect),889,алу,CyrillTrans,flame (noun),,,ālu,Phonemic
+1-810-317-1,chec1245,Chechen (Akkin dialect),221,цΙе,CyrillTrans,fire,,,cʼe,Phonemic
+1-780-317-1,chec1245,Chechen (Akkin dialect),952,хІаваъ,CyrillTrans,weather,,,hawaʔ,Phonemic
+1-770-317-1,chec1245,Chechen (Akkin dialect),617,ша,CyrillTrans,ice,,,ša,Phonemic
+1-760-317-1,chec1245,Chechen (Akkin dialect),784,лов,CyrillTrans,snow (noun),,,low,Phonemic
+1-750-317-1,chec1245,Chechen (Akkin dialect),658,догІа,CyrillTrans,rain (noun),,,doɣa,Phonemic
+1-740-317-1,chec1245,Chechen (Akkin dialect),249,дохк,CyrillTrans,fog,,,doxk,Phonemic
+1-720-317-1,chec1245,Chechen (Akkin dialect),960,мог,CyrillTrans,wind,,,mog,Phonemic
+1-730-317-1,chec1245,Chechen (Akkin dialect),1489,маркаш,CyrillTrans,cloud,,,markaš,Phonemic
+1-710-317-1,chec1245,Chechen (Akkin dialect),27,хІаваъ,CyrillTrans,air,,,hawaʔ,Phonemic
+1-640-317-1,chec1245,Chechen (Akkin dialect),1977,тхен,CyrillTrans,dew,,,txen,Phonemic
+1-630-317-1,chec1245,Chechen (Akkin dialect),1388,ІиндагІ,CyrillTrans,"shade, shadow",,,ʕindaɣ,Phonemic
+1-620-317-1,chec1245,Chechen (Akkin dialect),11,Іаьржо,CyrillTrans,darkness,,,ʕäržo,Phonemic
+1-610-317-1,chec1245,Chechen (Akkin dialect),630,серло,CyrillTrans,light (noun),,,serlo,Phonemic
+1-590-317-1,chec1245,Chechen (Akkin dialect),1733,стелаІад,CyrillTrans,rainbow,,,stelaʕad,Phonemic
+1-580-317-1,chec1245,Chechen (Akkin dialect),858,дарц,CyrillTrans,storm,,,darc,Phonemic
+1-560-317-1,chec1245,Chechen (Akkin dialect),1150,де къехьин,CyrillTrans,thunder,,,de qʼeħin,Phonemic
+1-570-317-1,chec1245,Chechen (Akkin dialect),2007,ткъев седа,CyrillTrans,lightning (as striking),,,tqʼew seda,Phonemic
+1-550-317-1,chec1245,Chechen (Akkin dialect),1654,дзІай,CyrillTrans,lightning,,,ʒʕay,Phonemic
+1-540-317-1,chec1245,Chechen (Akkin dialect),1430,седа,CyrillTrans,star,,,seda,Phonemic
+1-530-317-1,chec1245,Chechen (Akkin dialect),1313,бутт,CyrillTrans,moon,,,but̄,Phonemic
+1-520-317-1,chec1245,Chechen (Akkin dialect),1343,малх,CyrillTrans,sun,,,malx,Phonemic
+1-510-317-1,chec1245,Chechen (Akkin dialect),1732,сигл,CyrillTrans,sky,,,sigl,Phonemic
+1-450-317-1,chec1245,Chechen (Akkin dialect),6,мокк бе̄гор,CyrillTrans,earthquake,,,mok̄ bēgor,Phonemic
+1-440-317-1,chec1245,Chechen (Akkin dialect),2125,къераг,CyrillTrans,"stone, rock",,,"qʼerag, tarx",Phonemic
+1-440-317-3,chec1245,Chechen (Akkin dialect),2125,тарх,CyrillTrans,"stone, rock",,,"qʼerag, tarx",Phonemic
+1-430-317-1,chec1245,Chechen (Akkin dialect),1803,дечк,CyrillTrans,wood,,,dečk,Phonemic
+1-420-317-1,chec1245,Chechen (Akkin dialect),906,ма̄ргІал,CyrillTrans,tree (cf 08.600),,,mārɣal,Phonemic
+1-410-317-1,chec1245,Chechen (Akkin dialect),420,хьу,CyrillTrans,"woods, forest",,,ħu,Phonemic
+1-390-317-1,chec1245,Chechen (Akkin dialect),943,чухчари,CyrillTrans,waterfall,,,čuxčari,Phonemic
+1-380-317-1,chec1245,Chechen (Akkin dialect),1145,ишыл,CyrillTrans,swamp,,,išɨl,Phonemic
+1-370-317-1,chec1245,Chechen (Akkin dialect),2144,хьаст,CyrillTrans,"spring, well",,,"ħast, ɣū",Phonemic
+1-370-317-3,chec1245,Chechen (Akkin dialect),2144,гІӯ,CyrillTrans,"spring, well",,,"ħast, ɣū",Phonemic
+1-362-317-1,chec1245,Chechen (Akkin dialect),1982,кІуркІмани,CyrillTrans,whirlpool,,,kʼurkʼmani,Phonemic
+1-360-317-1,chec1245,Chechen (Akkin dialect),666,та̄тол,CyrillTrans,"river, stream, brook",,,"tātol, xi",Phonemic
+1-360-317-3,chec1245,Chechen (Akkin dialect),666,хи,CyrillTrans,"river, stream, brook",,,"tātol, xi",Phonemic
+1-354-317-1,chec1245,Chechen (Akkin dialect),613,хи да̄р,CyrillTrans,hightide,,,xi dār,Phonemic
+1-353-317-1,chec1245,Chechen (Akkin dialect),1026,чудожыр,CyrillTrans,lowtide,,,čudožɨr,Phonemic
+1-352-317-1,chec1245,Chechen (Akkin dialect),891,хІорд тІеххетар а,CyrillTrans,tide,,,"hord tʼex̄etar a, čubožar a",Phonemic
+1-352-317-3,chec1245,Chechen (Akkin dialect),891,чубожар а,CyrillTrans,tide,,,"hord tʼex̄etar a, čubožar a",Phonemic
+1-350-317-1,chec1245,Chechen (Akkin dialect),978,тулгІе,CyrillTrans,wave,,,tulɣe,Phonemic
+1-343-317-1,chec1245,Chechen (Akkin dialect),1662,хьорд йуккхер а̄ре,CyrillTrans,"headland, point",,,ħord yuq̄er āre,Phonemic
+1-342-317-1,chec1245,Chechen (Akkin dialect),660,хи бухари тархыш,CyrillTrans,reef,,,xi buxari tarxɨš,Phonemic
+1-340-317-1,chec1245,Chechen (Akkin dialect),663,айма,CyrillTrans,"gulf, bay",,,ayma,Phonemic
+1-330-317-1,chec1245,Chechen (Akkin dialect),624,Іам,CyrillTrans,lake,,,ʕam,Phonemic
+1-329-317-1,chec1245,Chechen (Akkin dialect),645,хІорд,CyrillTrans,ocean,,,hord,Phonemic
+1-324-317-1,chec1245,Chechen (Akkin dialect),1768,чопа,CyrillTrans,foam,,,čopa,Phonemic
+1-323-317-1,chec1245,Chechen (Akkin dialect),259,карзахдаьлла,CyrillTrans,rough (of sea),,,karzaxdäl̄a,Phonemic
+1-320-317-1,chec1245,Chechen (Akkin dialect),1474,хІорд,CyrillTrans,sea,,,hord,Phonemic
+1-322-317-1,chec1245,Chechen (Akkin dialect),258,тин,CyrillTrans,calm (of sea),,,tin,Phonemic
+1-310-317-1,chec1245,Chechen (Akkin dialect),948,хи,CyrillTrans,water,,,xi,Phonemic
+1-280-317-1,chec1245,Chechen (Akkin dialect),1155,хьех,CyrillTrans,cave,,,ħex,Phonemic
+1-270-317-1,chec1245,Chechen (Akkin dialect),113,хи йист,CyrillTrans,shore,,,xi yist,Phonemic
+1-260-317-1,chec1245,Chechen (Akkin dialect),166,континент,CyrillTrans,mainland,,,kontinent,Phonemic
+1-250-317-1,chec1245,Chechen (Akkin dialect),622,гІайре,CyrillTrans,island,,,ɣayre,Phonemic
+1-240-317-1,chec1245,Chechen (Akkin dialect),921,а̄тагІа,CyrillTrans,valley,,,ātaɣa,Phonemic
+1-230-317-1,chec1245,Chechen (Akkin dialect),652,а̄ре,CyrillTrans,"plain, field",,,āre,Phonemic
+1-222-317-1,chec1245,Chechen (Akkin dialect),618,берд,CyrillTrans,"cliff, precipice",,,"berd, tarx",Phonemic
+1-222-317-3,chec1245,Chechen (Akkin dialect),618,тарх,CyrillTrans,"cliff, precipice",,,"berd, tarx",Phonemic
+1-220-317-1,chec1245,Chechen (Akkin dialect),2118,лам,CyrillTrans,"mountain, hill",,,lām,Phonemic
+1-214-317-1,chec1245,Chechen (Akkin dialect),640,мода,CyrillTrans,mud,,,"moda, xot̄",Phonemic
+1-214-317-3,chec1245,Chechen (Akkin dialect),640,хотт,CyrillTrans,mud,,,"moda, xot̄",Phonemic
+1-215-317-1,chec1245,Chechen (Akkin dialect),671,гІум,CyrillTrans,sand,,,ɣum,Phonemic
+1-213-317-1,chec1245,Chechen (Akkin dialect),2,чанг,CyrillTrans,dust,,,čang,Phonemic
+1-212-317-1,chec1245,Chechen (Akkin dialect),1228,лятта,CyrillTrans,"earth=ground, soil",,,lyat̄a,Phonemic
+1-210-317-1,chec1245,Chechen (Akkin dialect),626,дуьне,CyrillTrans,"earth, land",,,"düne, lyat̄a, moxk",Phonemic
+1-210-317-3,chec1245,Chechen (Akkin dialect),626,лятта,CyrillTrans,"earth, land",,,"düne, lyat̄a, moxk",Phonemic
+1-210-317-5,chec1245,Chechen (Akkin dialect),626,мохк,CyrillTrans,"earth, land",,,"düne, lyat̄a, moxk",Phonemic
+1-100-317-1,chec1245,Chechen (Akkin dialect),965,дуьне,CyrillTrans,world,,,"düne, mašar",Phonemic
+1-100-317-3,chec1245,Chechen (Akkin dialect),965,машар,CyrillTrans,world,,,"düne, mašar",Phonemic
+14-330-317-1,chec1245,Chechen (Akkin dialect),1544,наггакъ,CyrillTrans,sometimes,,,naggaqʼ,Phonemic
+14-331-317-1,chec1245,Chechen (Akkin dialect),703,кест,CyrillTrans,soon,,,kest,Phonemic
+14-332-317-1,chec1245,Chechen (Akkin dialect),418,дукх заман,CyrillTrans,long-time (for a),,,duq zāman,Phonemic
+14-340-317-1,chec1245,Chechen (Akkin dialect),1656,цхьа а,CyrillTrans,never,,,cħa a,Phonemic
+14-350-317-1,chec1245,Chechen (Akkin dialect),204,юха,CyrillTrans,again,,,yuxa,Phonemic
+14-410-317-1,chec1245,Chechen (Akkin dialect),1225,де,CyrillTrans,day,,,de,Phonemic
+14-420-317-1,chec1245,Chechen (Akkin dialect),1233,буьйса,CyrillTrans,night,,,büysa,Phonemic
+14-430-317-1,chec1245,Chechen (Akkin dialect),729,сатасар,CyrillTrans,dawn,,,satasar,Phonemic
+14-440-317-1,chec1245,Chechen (Akkin dialect),1339,Ιуьйре,CyrillTrans,morning,,,ʕüyre,Phonemic
+14-450-317-1,chec1245,Chechen (Akkin dialect),12,делкъе,CyrillTrans,"noon, midday",,,delqʼe,Phonemic
+14-451-317-1,chec1245,Chechen (Akkin dialect),1807,делкъал тΙаьхье,CyrillTrans,afternoon,,,delqʼal tʼäħe,Phonemic
+14-460-317-1,chec1245,Chechen (Akkin dialect),1629,суьйре,CyrillTrans,evening,,,süyre,Phonemic
+14-470-317-1,chec1245,Chechen (Akkin dialect),1283,такан,CyrillTrans,today,,,takan,Phonemic
+14-480-317-1,chec1245,Chechen (Akkin dialect),1329,кхана,CyrillTrans,tomorrow,,,qāna,Phonemic
+14-481-317-1,chec1245,Chechen (Akkin dialect),1179,лом,CyrillTrans,day-after-tomorrow,,,lom,Phonemic
+14-490-317-1,chec1245,Chechen (Akkin dialect),1174,сехын,CyrillTrans,yesterday,,,sexɨn,Phonemic
+14-491-317-1,chec1245,Chechen (Akkin dialect),1180,самар,CyrillTrans,day-before-yesterday,,,samar,Phonemic
+14-510-317-1,chec1245,Chechen (Akkin dialect),1353,сахьт,CyrillTrans,hour,,,saħt,Phonemic
+14-530-317-1,chec1245,Chechen (Akkin dialect),1323,сахьт,CyrillTrans,"clock, timepiece",,,saħt,Phonemic
+14-610-317-1,chec1245,Chechen (Akkin dialect),1469,кΙире,CyrillTrans,week,,,kʼire,Phonemic
+14-620-317-1,chec1245,Chechen (Akkin dialect),1699,кΙирен де,CyrillTrans,Sunday,,,kʼiren de,Phonemic
+14-630-317-1,chec1245,Chechen (Akkin dialect),1697,оршот де,CyrillTrans,Monday,,,oršot de,Phonemic
+14-640-317-1,chec1245,Chechen (Akkin dialect),1695,шинри де,CyrillTrans,Tuesday,,,šinri de,Phonemic
+14-650-317-1,chec1245,Chechen (Akkin dialect),1694,кхари де,CyrillTrans,Wednesday,,,qari de,Phonemic
+14-660-317-1,chec1245,Chechen (Akkin dialect),1693,еари де,CyrillTrans,Thursday,,,eari de,Phonemic
+14-670-317-1,chec1245,Chechen (Akkin dialect),1692,пΙераскын де,CyrillTrans,Friday,,,pʼeraskɨn de,Phonemic
+14-680-317-1,chec1245,Chechen (Akkin dialect),1700,шот де,CyrillTrans,Saturday,,,šot de,Phonemic
+14-710-317-1,chec1245,Chechen (Akkin dialect),1370,бути,CyrillTrans,month,,,buti,Phonemic
+14-730-317-1,chec1245,Chechen (Akkin dialect),1226,шо,CyrillTrans,year,,,šo,Phonemic
+14-740-317-1,chec1245,Chechen (Akkin dialect),1471,Ιа,CyrillTrans,winter,,,ʕa,Phonemic
+14-750-317-1,chec1245,Chechen (Akkin dialect),1537,бΙаьсте,CyrillTrans,spring,,,bʕäste,Phonemic
+14-760-317-1,chec1245,Chechen (Akkin dialect),1342,аьхке,CyrillTrans,summer,,,äxke,Phonemic
+14-770-317-1,chec1245,Chechen (Akkin dialect),1276,гуьйре,CyrillTrans,autumn,,,güyre,Phonemic
+14-780-317-1,chec1245,Chechen (Akkin dialect),691,шер ха,CyrillTrans,season,,,šer xa,Phonemic
+15-210-317-1,chec1245,Chechen (Akkin dialect),1587,хьаж кхет,CyrillTrans,smell (vb intrans),,,ħaž qet,Phonemic
+15-212-317-1,chec1245,Chechen (Akkin dialect),375,мар иза,CyrillTrans,sniff,,,"mar iza, ħaž yāx",Phonemic
+15-212-317-3,chec1245,Chechen (Akkin dialect),375,хьаж йа̄х,CyrillTrans,sniff,,,"mar iza, ħaž yāx",Phonemic
+15-220-317-1,chec1245,Chechen (Akkin dialect),1586,хьаж ях,CyrillTrans,smell (vb trans),,,ħaž yax,Phonemic
+15-250-317-1,chec1245,Chechen (Akkin dialect),376,хьаж,CyrillTrans,"fragrant, good smelling",,,"ħaž, kaza ħaž",Phonemic
+15-250-317-3,chec1245,Chechen (Akkin dialect),376,каза хьаж,CyrillTrans,"fragrant, good smelling",,,"ħaž, kaza ħaž",Phonemic
+15-260-317-1,chec1245,Chechen (Akkin dialect),42,вон хьаж,CyrillTrans,"stinking, bad smelling",,,won ħaž,Phonemic
+15-310-317-1,chec1245,Chechen (Akkin dialect),21,чам,CyrillTrans,taste,,,čam,Phonemic
+15-350-317-1,chec1245,Chechen (Akkin dialect),717,мерз,CyrillTrans,sweet,,,merz,Phonemic
+15-360-317-1,chec1245,Chechen (Akkin dialect),1091,дуьр,CyrillTrans,salty,,,dür,Phonemic
+15-370-317-1,chec1245,Chechen (Akkin dialect),887,къаьхьа,CyrillTrans,bitter,,,qʼäħa,Phonemic
+15-380-317-1,chec1245,Chechen (Akkin dialect),1906,муьст,CyrillTrans,"acid, sour",,,müst,Phonemic
+15-390-317-1,chec1245,Chechen (Akkin dialect),70,дуьр,CyrillTrans,brackish,,,dür,Phonemic
+15-410-317-1,chec1245,Chechen (Akkin dialect),1408,хаз,CyrillTrans,hear,,,xaz,Phonemic
+15-420-317-1,chec1245,Chechen (Akkin dialect),1608,ладогΙ,CyrillTrans,listen,,,ladoɣ,Phonemic
+15-440-317-1,chec1245,Chechen (Akkin dialect),1811,а̄з,CyrillTrans,"sound, noise",,,"āz, ɣar",Phonemic
+15-440-317-3,chec1245,Chechen (Akkin dialect),1811,гΙар,CyrillTrans,"sound, noise",,,"āz, ɣar",Phonemic
+15-450-317-1,chec1245,Chechen (Akkin dialect),377,чΙогΙ,CyrillTrans,loud,,,čʼoɣ,Phonemic
+15-460-317-1,chec1245,Chechen (Akkin dialect),1314,тийна,CyrillTrans,"quiet, silence",,,tiyna,Phonemic
+15-510-317-1,chec1245,Chechen (Akkin dialect),1409,га,CyrillTrans,see,,,ga,Phonemic
+15-520-317-1,chec1245,Chechen (Akkin dialect),1819,хьаж,CyrillTrans,"look, look at",,,ħaž,Phonemic
+15-550-317-1,chec1245,Chechen (Akkin dialect),1039,гайт,CyrillTrans,show,,,gayt,Phonemic
+15-560-317-1,chec1245,Chechen (Akkin dialect),708,серло етт,CyrillTrans,shine,,,serlo yet̄,Phonemic
+15-570-317-1,chec1245,Chechen (Akkin dialect),679,серл,CyrillTrans,bright,,,serl,Phonemic
+15-610-317-1,chec1245,Chechen (Akkin dialect),1613,бос,CyrillTrans,color,,,bos,Phonemic
+15-620-317-1,chec1245,Chechen (Akkin dialect),250,серл,CyrillTrans,light (in color),,,serl,Phonemic
+15-630-317-1,chec1245,Chechen (Akkin dialect),706,бодане,CyrillTrans,dark (in color),,,bodane,Phonemic
+15-640-317-1,chec1245,Chechen (Akkin dialect),1335,кΙай,CyrillTrans,white,,,kʼay,Phonemic
+15-650-317-1,chec1245,Chechen (Akkin dialect),163,Ιаьрж,CyrillTrans,black,,,ʕärž,Phonemic
+15-660-317-1,chec1245,Chechen (Akkin dialect),156,цΙе,CyrillTrans,red,,,cʼe,Phonemic
+15-670-317-1,chec1245,Chechen (Akkin dialect),837,син,CyrillTrans,blue,,,sin,Phonemic
+15-680-317-1,chec1245,Chechen (Akkin dialect),1425,син,CyrillTrans,green,,,sin,Phonemic
+15-690-317-1,chec1245,Chechen (Akkin dialect),1424,мож,CyrillTrans,yellow,,,mož,Phonemic
+15-710-317-1,chec1245,Chechen (Akkin dialect),1892,кΙулг Ιитт (тох),CyrillTrans,touch,,,kʼulg ʕit̄ (tox),Phonemic
+15-712-317-1,chec1245,Chechen (Akkin dialect),378,хьакх,CyrillTrans,pinch,,,ħaq,Phonemic
+15-720-317-1,chec1245,Chechen (Akkin dialect),1079,хаадал,CyrillTrans,feel,,,xaʔadal,Phonemic
+15-740-317-1,chec1245,Chechen (Akkin dialect),1884,марс,CyrillTrans,hard,,,mars,Phonemic
+15-750-317-1,chec1245,Chechen (Akkin dialect),1856,кΙеда,CyrillTrans,soft,,,kʼeda,Phonemic
+15-760-317-1,chec1245,Chechen (Akkin dialect),1923,шо̄га,CyrillTrans,rough,,,šōga,Phonemic
+15-770-317-1,chec1245,Chechen (Akkin dialect),1234,шяр,CyrillTrans,smooth,,,šyar,Phonemic
+15-780-317-1,chec1245,Chechen (Akkin dialect),1396,ира,CyrillTrans,sharp,,,ira,Phonemic
+15-790-317-1,chec1245,Chechen (Akkin dialect),379,аьрт,CyrillTrans,"blunt, dull",,,ärt,Phonemic
+15-810-317-1,chec1245,Chechen (Akkin dialect),1210,ез,CyrillTrans,heavy,,,"yez, dez",Phonemic
+15-810-317-3,chec1245,Chechen (Akkin dialect),1210,дез,CyrillTrans,heavy,,,"yez, dez",Phonemic
+15-820-317-1,chec1245,Chechen (Akkin dialect),1052,дай,CyrillTrans,light (in weight),,,day,Phonemic
+15-830-317-1,chec1245,Chechen (Akkin dialect),1726,тΙед,CyrillTrans,"wet, damp",,,tʼed,Phonemic
+15-840-317-1,chec1245,Chechen (Akkin dialect),1398,декъ,CyrillTrans,dry,,,deqʼ,Phonemic
+15-850-317-1,chec1245,Chechen (Akkin dialect),1286,девх,CyrillTrans,hot,,,"dewx, yowx",Phonemic
+15-850-317-3,chec1245,Chechen (Akkin dialect),1286,йовх,CyrillTrans,hot,,,"dewx, yowx",Phonemic
+15-851-317-1,chec1245,Chechen (Akkin dialect),1232,мел,CyrillTrans,warm,,,"mel, dewx",Phonemic
+15-851-317-3,chec1245,Chechen (Akkin dialect),1232,девх,CyrillTrans,warm,,,"mel, dewx",Phonemic
+15-860-317-1,chec1245,Chechen (Akkin dialect),1287,гиил,CyrillTrans,cold,,,giʔil,Phonemic
+15-870-317-1,chec1245,Chechen (Akkin dialect),704,цΙен,CyrillTrans,clean,,,cʼen,Phonemic
+15-880-317-1,chec1245,Chechen (Akkin dialect),1230,бΙех,CyrillTrans,"dirty, soiled",,,bʕex,Phonemic
+15-890-317-1,chec1245,Chechen (Akkin dialect),380,мяда,CyrillTrans,wrinkled,,,"myada, ħeqiyn",Phonemic
+15-890-317-3,chec1245,Chechen (Akkin dialect),380,хьекхийн,CyrillTrans,wrinkled,,,"myada, ħeqiyn",Phonemic
+16-110-317-1,chec1245,Chechen (Akkin dialect),53,са,CyrillTrans,"soul, spirit",,,sa,Phonemic
+16-150-317-1,chec1245,Chechen (Akkin dialect),1572,цецвялн,CyrillTrans,"surprised, astonished",,,cecwyaln,Phonemic
+16-180-317-1,chec1245,Chechen (Akkin dialect),720,аьтто,CyrillTrans,"good fortune, luck",,,ät̄o,Phonemic
+16-190-317-1,chec1245,Chechen (Akkin dialect),56,бо̄хам,CyrillTrans,"misfortune, bad luck",,,bōxam,Phonemic
+16-230-317-1,chec1245,Chechen (Akkin dialect),1495,ири,CyrillTrans,"joyful, glad, happy",,,"iri, samuqʼne",Phonemic
+16-230-317-3,chec1245,Chechen (Akkin dialect),1495,самукъне,CyrillTrans,"joyful, glad, happy",,,"iri, samuqʼne",Phonemic
+16-250-317-1,chec1245,Chechen (Akkin dialect),1355,ел,CyrillTrans,laugh,,,"yel, wel",Phonemic
+16-250-317-3,chec1245,Chechen (Akkin dialect),1355,вел,CyrillTrans,laugh,,,"yel, wel",Phonemic
+16-251-317-1,chec1245,Chechen (Akkin dialect),1451,вел,CyrillTrans,smile,,,"wel, yel",Phonemic
+16-251-317-3,chec1245,Chechen (Akkin dialect),1451,ел,CyrillTrans,smile,,,"wel, yel",Phonemic
+16-260-317-1,chec1245,Chechen (Akkin dialect),1413,ловз,CyrillTrans,play,,,lowz,Phonemic
+16-270-317-1,chec1245,Chechen (Akkin dialect),923,йез,CyrillTrans,love,,,"yez, wez",Phonemic
+16-270-317-3,chec1245,Chechen (Akkin dialect),923,вез,CyrillTrans,love,,,"yez, wez",Phonemic
+16-290-317-1,chec1245,Chechen (Akkin dialect),578,барш бакх,CyrillTrans,kiss,,,barš baq,Phonemic
+16-300-317-1,chec1245,Chechen (Akkin dialect),928,мар эккыр,CyrillTrans,embrace,,,mar ek̄ɨr,Phonemic
+16-310-317-1,chec1245,Chechen (Akkin dialect),1783,лазыр,CyrillTrans,pain,,,lazɨr,Phonemic
+16-320-317-1,chec1245,Chechen (Akkin dialect),1668,гΙайгΙ,CyrillTrans,"grief, sorrow, sadness",,,"ɣayɣ, bāla",Phonemic
+16-320-317-3,chec1245,Chechen (Akkin dialect),1668,ба̄ла,CyrillTrans,"grief, sorrow, sadness",,,"ɣayɣ, bāla",Phonemic
+16-330-317-1,chec1245,Chechen (Akkin dialect),1000,сагатдар,CyrillTrans,"anxiety, worry",,,sagatdar,Phonemic
+16-340-317-1,chec1245,Chechen (Akkin dialect),1875,халахета,CyrillTrans,"regret, be sorry",,,xalaxeta,Phonemic
+16-350-317-1,chec1245,Chechen (Akkin dialect),1141,къинхетам,CyrillTrans,pity,,,qʼinxetam,Phonemic
+16-370-317-1,chec1245,Chechen (Akkin dialect),1839,ерха,CyrillTrans,"cry, weep",,,"yerxa, werka",Phonemic
+16-370-317-3,chec1245,Chechen (Akkin dialect),1839,верка,CyrillTrans,"cry, weep",,,"yerxa, werka",Phonemic
+16-380-317-1,chec1245,Chechen (Akkin dialect),1651,бΙаьр хи,CyrillTrans,tear (noun),,,bʕär xi,Phonemic
+16-390-317-1,chec1245,Chechen (Akkin dialect),716,тиж,CyrillTrans,groan,,,tiž,Phonemic
+16-410-317-1,chec1245,Chechen (Akkin dialect),1607,ца везар,CyrillTrans,hate,,,ca wezar,Phonemic
+16-420-317-1,chec1245,Chechen (Akkin dialect),82,аьгΙазло,CyrillTrans,anger,,,äɣazlo,Phonemic
+16-440-317-1,chec1245,Chechen (Akkin dialect),40,хьегыр,CyrillTrans,"envy, jealousy",,,ħegɨr,Phonemic
+16-450-317-1,chec1245,Chechen (Akkin dialect),1776,эхь,CyrillTrans,shame (noun),,,eħ,Phonemic
+16-480-317-1,chec1245,Chechen (Akkin dialect),174,кур,CyrillTrans,proud,,,kur,Phonemic
+16-510-317-1,chec1245,Chechen (Akkin dialect),1779,майра саг,CyrillTrans,dare,,,mayra sag,Phonemic
+16-520-317-1,chec1245,Chechen (Akkin dialect),3,майр,CyrillTrans,brave,,,mayr,Phonemic
+16-530-317-1,chec1245,Chechen (Akkin dialect),781,кхе̄рам,CyrillTrans,"fear, fright",,,qēram,Phonemic
+16-540-317-1,chec1245,Chechen (Akkin dialect),1810,кхерым,CyrillTrans,danger,,,qerɨm,Phonemic
+16-620-317-1,chec1245,Chechen (Akkin dialect),1784,лаым,CyrillTrans,"desire, want",,,laɨm,Phonemic
+16-622-317-1,chec1245,Chechen (Akkin dialect),1750,харж,CyrillTrans,choose,,,xarž,Phonemic
+16-630-317-1,chec1245,Chechen (Akkin dialect),1092,дог да̄ха,CyrillTrans,hope,,,dog dāxa,Phonemic
+16-650-317-1,chec1245,Chechen (Akkin dialect),100,тешаме,CyrillTrans,faithful,,,tešame,Phonemic
+16-660-317-1,chec1245,Chechen (Akkin dialect),1657,хΙинцляр,CyrillTrans,true,,,"hinclyar, baq yerg",Phonemic
+16-660-317-3,chec1245,Chechen (Akkin dialect),1657,бакх ерг,CyrillTrans,true,,,"hinclyar, baq yerg",Phonemic
+16-670-317-1,chec1245,Chechen (Akkin dialect),601,харц люв,CyrillTrans,"lie, tell lies",,,xarc lyuw,Phonemic
+16-680-317-1,chec1245,Chechen (Akkin dialect),13,гΙеко,CyrillTrans,deceit,,,ɣeko,Phonemic
+16-690-317-1,chec1245,Chechen (Akkin dialect),1528,геч да,CyrillTrans,forgive,,,geč da,Phonemic
+16-710-317-1,chec1245,Chechen (Akkin dialect),1035,дик,CyrillTrans,good,,,dik,Phonemic
+16-720-317-1,chec1245,Chechen (Akkin dialect),1292,во,CyrillTrans,bad,,,wo,Phonemic
+16-730-317-1,chec1245,Chechen (Akkin dialect),1725,нис,CyrillTrans,"right, correct",,,nis,Phonemic
+16-740-317-1,chec1245,Chechen (Akkin dialect),1390,нис доц,CyrillTrans,wrong,,,nis doc,Phonemic
+16-760-317-1,chec1245,Chechen (Akkin dialect),134,даьлнырг,CyrillTrans,fault,,,dälnɨrg,Phonemic
+16-770-317-1,chec1245,Chechen (Akkin dialect),1293,гΙалт,CyrillTrans,"mistake, error",,,ɣalt,Phonemic
+16-780-317-1,chec1245,Chechen (Akkin dialect),381,бехке ва,CyrillTrans,blame,,,bexke wa,Phonemic
+16-790-317-1,chec1245,Chechen (Akkin dialect),1687,хесто,CyrillTrans,praise,,,xesto,Phonemic
+16-810-317-1,chec1245,Chechen (Akkin dialect),1427,хаз,CyrillTrans,beautiful,,,xaz,Phonemic
+16-820-317-1,chec1245,Chechen (Akkin dialect),1548,ирш,CyrillTrans,ugly,,,irš,Phonemic
+16-830-317-1,chec1245,Chechen (Akkin dialect),2018,пис,CyrillTrans,greedy,,,pis,Phonemic
+16-840-317-1,chec1245,Chechen (Akkin dialect),1310,хье̄къале,CyrillTrans,clever,,,ħēqʼale,Phonemic
+17-110-317-1,chec1245,Chechen (Akkin dialect),1562,хьекъыл,CyrillTrans,mind,,,ħeqʼɨl,Phonemic
+17-130-317-1,chec1245,Chechen (Akkin dialect),1415,ойла йа,CyrillTrans,think (= reflect),,,oyla ya,Phonemic
+17-140-317-1,chec1245,Chechen (Akkin dialect),1513,ойла йа,CyrillTrans,think (= be of the opinion),,,"oyla ya, dagɨrda",Phonemic
+17-140-317-3,chec1245,Chechen (Akkin dialect),1513,дагырда,CyrillTrans,think (= be of the opinion),,,"oyla ya, dagɨrda",Phonemic
+17-150-317-1,chec1245,Chechen (Akkin dialect),1890,теш,CyrillTrans,believe,,,teš,Phonemic
+17-160-317-1,chec1245,Chechen (Akkin dialect),1536,кхеш,CyrillTrans,understand,,,qeš,Phonemic
+17-170-317-1,chec1245,Chechen (Akkin dialect),1410,хха,CyrillTrans,know,,,x̄a,Phonemic
+17-171-317-1,chec1245,Chechen (Akkin dialect),1932,матт,CyrillTrans,guess,,,mat̄,Phonemic
+17-172-317-1,chec1245,Chechen (Akkin dialect),117,тарда,CyrillTrans,imitate,,,tarda,Phonemic
+17-180-317-1,chec1245,Chechen (Akkin dialect),1521,хеш,CyrillTrans,seem,,,xeš,Phonemic
+17-190-317-1,chec1245,Chechen (Akkin dialect),1609,кхетым,CyrillTrans,"idea, notion",,,qetɨm,Phonemic
+17-210-317-1,chec1245,Chechen (Akkin dialect),698,хье̄къале,CyrillTrans,wise,,,ħēqʼale,Phonemic
+17-220-317-1,chec1245,Chechen (Akkin dialect),1518,Ιавдыл,CyrillTrans,"foolish, stupid",,,"ʕawdɨl, sont",Phonemic
+17-220-317-3,chec1245,Chechen (Akkin dialect),1518,сонт,CyrillTrans,"foolish, stupid",,,"ʕawdɨl, sont",Phonemic
+17-230-317-1,chec1245,Chechen (Akkin dialect),1899,хырвялн,CyrillTrans,"insane, crazy",,,xɨrwyaln,Phonemic
+17-240-317-1,chec1245,Chechen (Akkin dialect),504,ха,CyrillTrans,learn,,,"xa, deš",Phonemic
+17-240-317-3,chec1245,Chechen (Akkin dialect),504,деш,CyrillTrans,learn,,,"xa, deš",Phonemic
+17-242-317-1,chec1245,Chechen (Akkin dialect),1929,дамо,CyrillTrans,study,,,damo,Phonemic
+17-250-317-1,chec1245,Chechen (Akkin dialect),709,дамо,CyrillTrans,teach,,,damo,Phonemic
+17-260-317-1,chec1245,Chechen (Akkin dialect),753,дешархо,CyrillTrans,pupil,,,dešarxo,Phonemic
+17-270-317-1,chec1245,Chechen (Akkin dialect),1038,хьехарко,CyrillTrans,teacher,,,ħexarko,Phonemic
+17-280-317-1,chec1245,Chechen (Akkin dialect),673,ишкол,CyrillTrans,school,,,iškol,Phonemic
+17-310-317-1,chec1245,Chechen (Akkin dialect),707,дагахь латто,CyrillTrans,remember,,,dagaħ lat̄o,Phonemic
+17-320-317-1,chec1245,Chechen (Akkin dialect),1523,дицда,CyrillTrans,forget,,,dicda,Phonemic
+17-340-317-1,chec1245,Chechen (Akkin dialect),989,серл,CyrillTrans,"clear, plain",,,serl,Phonemic
+17-350-317-1,chec1245,Chechen (Akkin dialect),1764,кхеташ доци,CyrillTrans,obscure,,,qetaš doci,Phonemic
+17-360-317-1,chec1245,Chechen (Akkin dialect),1121,къайле,CyrillTrans,secret,,,qʼayle,Phonemic
+17-370-317-1,chec1245,Chechen (Akkin dialect),509,тешым болш,CyrillTrans,"sure, certain",,,tešɨm bolš,Phonemic
+17-380-317-1,chec1245,Chechen (Akkin dialect),1626,кхето,CyrillTrans,explain,,,qeto,Phonemic
+17-410-317-1,chec1245,Chechen (Akkin dialect),1162,хилар,CyrillTrans,"intention, purpose",,,"xilar, oyla",Phonemic
+17-410-317-3,chec1245,Chechen (Akkin dialect),1162,ойла,CyrillTrans,"intention, purpose",,,"xilar, oyla",Phonemic
+17-420-317-1,chec1245,Chechen (Akkin dialect),860,бахьын,CyrillTrans,cause,,,baħɨn,Phonemic
+17-430-317-1,chec1245,Chechen (Akkin dialect),1308,шеко,CyrillTrans,doubt,,,šeko,Phonemic
+17-440-317-1,chec1245,Chechen (Akkin dialect),1841,дегбабым хал,CyrillTrans,suspect,,,degbabɨm xal,Phonemic
+17-441-317-1,chec1245,Chechen (Akkin dialect),1902,йамырт хал,CyrillTrans,betray,,,yamɨrt xal,Phonemic
+17-450-317-1,chec1245,Chechen (Akkin dialect),643,хьашт хал,CyrillTrans,"need, necessity",,,ħašt xal,Phonemic
+17-460-317-1,chec1245,Chechen (Akkin dialect),686,дай,CyrillTrans,easy,,,day,Phonemic
+17-470-317-1,chec1245,Chechen (Akkin dialect),584,хал,CyrillTrans,difficult,,,xal,Phonemic
+17-480-317-1,chec1245,Chechen (Akkin dialect),1812,гΙортар,CyrillTrans,"try, attempt",,,ɣortar,Phonemic
+17-490-317-1,chec1245,Chechen (Akkin dialect),488,кеп,CyrillTrans,"way, manner",,,kep,Phonemic
+17-510-317-1,chec1245,Chechen (Akkin dialect),1577,а,CyrillTrans,and,,,a,Phonemic
+17-520-317-1,chec1245,Chechen (Akkin dialect),1157,цундел,CyrillTrans,because,,,cundel,Phonemic
+17-530-317-1,chec1245,Chechen (Akkin dialect),1459,нагахь,CyrillTrans,if,,,nagaħ,Phonemic
+17-540-317-1,chec1245,Chechen (Akkin dialect),1014,йа,CyrillTrans,or,,,ya,Phonemic
+17-550-317-1,chec1245,Chechen (Akkin dialect),1268,хΙаъ,CyrillTrans,"yes, affirmative",,,haʔ,Phonemic
+17-560-317-1,chec1245,Chechen (Akkin dialect),1269,дац,CyrillTrans,"no, negative",,,"dac, yac, wac",Phonemic
+17-560-317-3,chec1245,Chechen (Akkin dialect),1269,йа,CyrillTrans,"no, negative",,,"dac, yac, wac",Phonemic
+17-560-317-5,chec1245,Chechen (Akkin dialect),1269,вац,CyrillTrans,"no, negative",,,"dac, yac, wac",Phonemic
+17-610-317-1,chec1245,Chechen (Akkin dialect),1239,мух,CyrillTrans,how?,,,mux,Phonemic
+17-620-317-1,chec1245,Chechen (Akkin dialect),822,мас,CyrillTrans,how many?,,,"mas, mel",Phonemic
+17-620-317-3,chec1245,Chechen (Akkin dialect),822,мел,CyrillTrans,how many?,,,"mas, mel",Phonemic
+17-630-317-1,chec1245,Chechen (Akkin dialect),531,мас,CyrillTrans,how much?,,,"mas, mel",Phonemic
+17-630-317-3,chec1245,Chechen (Akkin dialect),531,мел,CyrillTrans,how much?,,,"mas, mel",Phonemic
+17-640-317-1,chec1245,Chechen (Akkin dialect),1236,хΙу,CyrillTrans,what?,,,hu,Phonemic
+17-650-317-1,chec1245,Chechen (Akkin dialect),1238,мац,CyrillTrans,when?,,,mac,Phonemic
+17-660-317-1,chec1245,Chechen (Akkin dialect),1237,мичар,CyrillTrans,where?,,,mičar,Phonemic
+17-670-317-1,chec1245,Chechen (Akkin dialect),727,мих,CyrillTrans,which?,,,"mix, malx",Phonemic
+17-670-317-3,chec1245,Chechen (Akkin dialect),727,малх,CyrillTrans,which?,,,"mix, malx",Phonemic
+17-680-317-1,chec1245,Chechen (Akkin dialect),1235,мал,CyrillTrans,who?,,,mal,Phonemic
+17-690-317-1,chec1245,Chechen (Akkin dialect),1270,хΙунда,CyrillTrans,why?,,,hunda,Phonemic
+18-110-317-1,chec1245,Chechen (Akkin dialect),1363,а̄з,CyrillTrans,voice,,,āz,Phonemic
+18-120-317-1,chec1245,Chechen (Akkin dialect),1261,лакх,CyrillTrans,sing,,,laq,Phonemic
+18-130-317-1,chec1245,Chechen (Akkin dialect),715,гΙар,CyrillTrans,"shout, cry out",,,"ɣar, ħeq",Phonemic
+18-130-317-3,chec1245,Chechen (Akkin dialect),715,хьекх,CyrillTrans,"shout, cry out",,,"ɣar, ħeq",Phonemic
+18-150-317-1,chec1245,Chechen (Akkin dialect),55,лере диц,CyrillTrans,whisper,,,lere dic,Phonemic
+18-160-317-1,chec1245,Chechen (Akkin dialect),128,мер кΙел век,CyrillTrans,mumble,,,mer kʼel wek,Phonemic
+18-170-317-1,chec1245,Chechen (Akkin dialect),1025,шок етт,CyrillTrans,whistle,,,šok yet̄,Phonemic
+18-180-317-1,chec1245,Chechen (Akkin dialect),298,цΙиз,CyrillTrans,"shriek, screech",,,cʼiz,Phonemic
+18-190-317-1,chec1245,Chechen (Akkin dialect),526,угΙ,CyrillTrans,howl,,,uɣ,Phonemic
+18-210-317-1,chec1245,Chechen (Akkin dialect),1623,диц,CyrillTrans,"speak, talk",,,"dic, qʼamyal da",Phonemic
+18-210-317-3,chec1245,Chechen (Akkin dialect),1623,къамял да,CyrillTrans,"speak, talk",,,"dic, qʼamyal da",Phonemic
+18-211-317-1,chec1245,Chechen (Akkin dialect),1866,толкх лювыр,CyrillTrans,"stutter, stammer",,,tolq lyuwɨr,Phonemic
+18-220-317-1,chec1245,Chechen (Akkin dialect),1458,ал,CyrillTrans,say,,,al,Phonemic
+18-221-317-1,chec1245,Chechen (Akkin dialect),1711,истори йиц,CyrillTrans,tell story,,,istori yic,Phonemic
+18-222-317-1,chec1245,Chechen (Akkin dialect),1115,къамял,CyrillTrans,speech (make a),,,qʼamyal,Phonemic
+18-230-317-1,chec1245,Chechen (Akkin dialect),48,иист ца хал,CyrillTrans,silent (be),,,"iʔist ca xal, qʼamyal ca da",Phonemic
+18-230-317-3,chec1245,Chechen (Akkin dialect),48,къамял ца да,CyrillTrans,silent (be),,,"iʔist ca xal, qʼamyal ca da",Phonemic
+18-240-317-1,chec1245,Chechen (Akkin dialect),1307,мотт,CyrillTrans,language,,,mot̄,Phonemic
+18-260-317-1,chec1245,Chechen (Akkin dialect),1599,дош,CyrillTrans,word,,,doš,Phonemic
+18-280-317-1,chec1245,Chechen (Akkin dialect),1405,цΙе,CyrillTrans,name,,,cʼe,Phonemic
+18-310-317-1,chec1245,Chechen (Akkin dialect),1309,хатт,CyrillTrans,"ask (question, inquire)",,,xat̄,Phonemic
+18-320-317-1,chec1245,Chechen (Akkin dialect),1275,жоп дала,CyrillTrans,answer,,,žop dala,Phonemic
+18-330-317-1,chec1245,Chechen (Akkin dialect),2022,къардал,CyrillTrans,"admit, confess",,,qʼardal,Phonemic
+18-340-317-1,chec1245,Chechen (Akkin dialect),755,дац а̄л,CyrillTrans,deny,,,dac āl,Phonemic
+18-350-317-1,chec1245,Chechen (Akkin dialect),1828,дех,CyrillTrans,"ask, request",,,dex,Phonemic
+18-360-317-1,chec1245,Chechen (Akkin dialect),1675,тешитыл,CyrillTrans,promise,,,tešitɨl,Phonemic
+18-370-317-1,chec1245,Chechen (Akkin dialect),49,ца дал,CyrillTrans,refuse,,,ca dal,Phonemic
+18-380-317-1,chec1245,Chechen (Akkin dialect),83,ца маго,CyrillTrans,forbid,,,ca mago,Phonemic
+18-390-317-1,chec1245,Chechen (Akkin dialect),299,дов да,CyrillTrans,"rebuke, scold",,,dow da,Phonemic
+18-410-317-1,chec1245,Chechen (Akkin dialect),1084,кхекх,CyrillTrans,call (=summon),,,qeq,Phonemic
+18-420-317-1,chec1245,Chechen (Akkin dialect),180,а̄ла,CyrillTrans,call (=name),,,āla,Phonemic
+18-430-317-1,chec1245,Chechen (Akkin dialect),9,хант,CyrillTrans,announce,,,xant,Phonemic
+18-440-317-1,chec1245,Chechen (Akkin dialect),1192,кхе̄ро,CyrillTrans,threaten,,,qēro,Phonemic
+18-450-317-1,chec1245,Chechen (Akkin dialect),101,дазыл да,CyrillTrans,boast,,,dazɨl da,Phonemic
+18-510-317-1,chec1245,Chechen (Akkin dialect),1672,йазда,CyrillTrans,write,,,yazda,Phonemic
+18-520-317-1,chec1245,Chechen (Akkin dialect),724,деш,CyrillTrans,read,,,deš,Phonemic
+18-560-317-1,chec1245,Chechen (Akkin dialect),648,кяст,CyrillTrans,paper,,,kyast,Phonemic
+18-570-317-1,chec1245,Chechen (Akkin dialect),794,ручк,CyrillTrans,pen,,,ručk,Phonemic
+18-610-317-1,chec1245,Chechen (Akkin dialect),963,книжка,CyrillTrans,book,,,knižka,Phonemic
+18-670-317-1,chec1245,Chechen (Akkin dialect),1045,иллынч,CyrillTrans,poet,,,il̄ɨnč,Phonemic
+18-710-317-1,chec1245,Chechen (Akkin dialect),777,шедаг,CyrillTrans,flute,,,šedag,Phonemic
+18-720-317-1,chec1245,Chechen (Akkin dialect),908,вот,CyrillTrans,drum,,,wot,Phonemic
+18-730-317-1,chec1245,Chechen (Akkin dialect),2136,биргΙ,CyrillTrans,"horn, trumpet",,,birɣ,Phonemic
+18-740-317-1,chec1245,Chechen (Akkin dialect),300,йекырг,CyrillTrans,rattle,,,yekɨrg,Phonemic
+19-110-317-1,chec1245,Chechen (Akkin dialect),1300,мохк,CyrillTrans,country,,,moxk,Phonemic
+19-120-317-1,chec1245,Chechen (Akkin dialect),89,вин мохк,CyrillTrans,one's native country,,,win moxk,Phonemic
+19-150-317-1,chec1245,Chechen (Akkin dialect),1391,гΙал,CyrillTrans,"city, town",,,ɣal,Phonemic
+19-160-317-1,chec1245,Chechen (Akkin dialect),930,эвл,CyrillTrans,village,,,ewl,Phonemic
+19-170-317-1,chec1245,Chechen (Akkin dialect),1010,дазо,CyrillTrans,boundary,,,dazo,Phonemic
+19-210-317-1,chec1245,Chechen (Akkin dialect),789,халкъ,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-317-1,chec1245,Chechen (Akkin dialect),302,тухым,CyrillTrans,"tribe, clan",,,tuxɨm,Phonemic
+19-240-317-1,chec1245,Chechen (Akkin dialect),301,паччахь,CyrillTrans,"chief, chieftain",,,pač̄aħ,Phonemic
+19-250-317-1,chec1245,Chechen (Akkin dialect),1296,Ιанс,CyrillTrans,"staff, walking stick",,,ʕans,Phonemic
+19-310-317-1,chec1245,Chechen (Akkin dialect),1846,саг-муисч,CyrillTrans,"rule, govern",,,sag-muisč,Phonemic
+19-320-317-1,chec1245,Chechen (Akkin dialect),1508,паччахь,CyrillTrans,"king, ruler",,,pač̄aħ,Phonemic
+19-330-317-1,chec1245,Chechen (Akkin dialect),1306,паччахь сеск,CyrillTrans,queen,,,pač̄aħ sesk,Phonemic
+19-360-317-1,chec1245,Chechen (Akkin dialect),482,дик,CyrillTrans,"noble, nobleman",,,dik,Phonemic
+19-370-317-1,chec1245,Chechen (Akkin dialect),1032,гІала саг,CyrillTrans,"citizen, subject",,,ɣala sag,Phonemic
+19-410-317-1,chec1245,Chechen (Akkin dialect),383,эл,CyrillTrans,master,,,el,Phonemic
+19-420-317-1,chec1245,Chechen (Akkin dialect),812,лай,CyrillTrans,slave,,,lay,Phonemic
+19-430-317-1,chec1245,Chechen (Akkin dialect),255,qfлхо,CyrillTrans,servant,,,yalxo,Phonemic
+19-440-317-1,chec1245,Chechen (Akkin dialect),384,мукъ саг,CyrillTrans,freeman,,,muqʼ sag,Phonemic
+19-450-317-1,chec1245,Chechen (Akkin dialect),1128,хΙех,CyrillTrans,"command, order",,,hex,Phonemic
+19-460-317-1,chec1245,Chechen (Akkin dialect),1635,муьтΙах хил,CyrillTrans,obey,,,mütʼax xil,Phonemic
+19-470-317-1,chec1245,Chechen (Akkin dialect),1003,магита,CyrillTrans,"let, permit",,,"magita, mago",Phonemic
+19-470-317-3,chec1245,Chechen (Akkin dialect),1003,маго,CyrillTrans,"let, permit",,,"magita, mago",Phonemic
+19-510-317-1,chec1245,Chechen (Akkin dialect),1325,дотх,CyrillTrans,"friend, companion",,,dotx,Phonemic
+19-520-317-1,chec1245,Chechen (Akkin dialect),1358,мостыгΙ,CyrillTrans,enemy,,,mostɨɣ,Phonemic
+19-540-317-1,chec1245,Chechen (Akkin dialect),1332,ловлхо,CyrillTrans,neighbor,,,lowlxo,Phonemic
+19-550-317-1,chec1245,Chechen (Akkin dialect),791,вевзыш воцург,CyrillTrans,stranger,,,wewzɨš wocurg,Phonemic
+19-560-317-1,chec1245,Chechen (Akkin dialect),1782,хьа̄ш,CyrillTrans,guest,,,ħāš,Phonemic
+19-570-317-1,chec1245,Chechen (Akkin dialect),1545,да,CyrillTrans,host,,,da,Phonemic
+19-580-317-1,chec1245,Chechen (Akkin dialect),1897,гΙо,CyrillTrans,"help, aid",,,ɣo,Phonemic
+19-590-317-1,chec1245,Chechen (Akkin dialect),1550,невкъырло йа,CyrillTrans,"hinder, prevent",,,newqʼɨrlo ya,Phonemic
+19-610-317-1,chec1245,Chechen (Akkin dialect),1747,Ιедыл,CyrillTrans,custom,,,ʕedɨl,Phonemic
+19-620-317-1,chec1245,Chechen (Akkin dialect),1848,дов,CyrillTrans,"strife, quarrel",,,dow,Phonemic
+19-630-317-1,chec1245,Chechen (Akkin dialect),2024,кьайлых барт,CyrillTrans,"conspiracy, plot",,,qʼaylɨx bart,Phonemic
+19-650-317-1,chec1245,Chechen (Akkin dialect),1831,дёхыр кхет,CyrillTrans,meet,,,dyoxɨr qet,Phonemic
+19-720-317-1,chec1245,Chechen (Akkin dialect),1610,кхахьб,CyrillTrans,prostitute,,,qaħb,Phonemic
+20-110-317-1,chec1245,Chechen (Akkin dialect),1423,лат,CyrillTrans,fight (vb),,,lat,Phonemic
+20-130-317-1,chec1245,Chechen (Akkin dialect),579,тΙом,CyrillTrans,"war, battle",,,tʼom,Phonemic
+20-140-317-1,chec1245,Chechen (Akkin dialect),1338,машыр,CyrillTrans,peace,,,mašɨr,Phonemic
+20-150-317-1,chec1245,Chechen (Akkin dialect),1561,эскыр,CyrillTrans,army,,,eskɨr,Phonemic
+20-170-317-1,chec1245,Chechen (Akkin dialect),1941,салти,CyrillTrans,soldier,,,salti,Phonemic
+20-210-317-1,chec1245,Chechen (Akkin dialect),951,герз,CyrillTrans,"weapons, arms",,,gerz,Phonemic
+20-220-317-1,chec1245,Chechen (Akkin dialect),1763,хьокх,CyrillTrans,club,,,ħoq,Phonemic
+20-222-317-1,chec1245,Chechen (Akkin dialect),386,жамболт,CyrillTrans,battle-ax,,,žambolt,Phonemic
+20-230-317-1,chec1245,Chechen (Akkin dialect),387,ширдалаг,CyrillTrans,sling,,,širdalag,Phonemic
+20-240-317-1,chec1245,Chechen (Akkin dialect),994,Ιад,CyrillTrans,bow,,,ʕad,Phonemic
+20-250-317-1,chec1245,Chechen (Akkin dialect),977,пха,CyrillTrans,arrow,,,pxa,Phonemic
+20-260-317-1,chec1245,Chechen (Akkin dialect),945,гоьмукъ,CyrillTrans,spear,,,gömuqʼ,Phonemic
+20-270-317-1,chec1245,Chechen (Akkin dialect),1535,гΙа̄лакх,CyrillTrans,sword,,,ɣālaq,Phonemic
+20-280-317-1,chec1245,Chechen (Akkin dialect),1566,топ,CyrillTrans,"gun, cannon",,,"top, yoq̄ top",Phonemic
+20-280-317-3,chec1245,Chechen (Akkin dialect),1566,йоккх топ,CyrillTrans,"gun, cannon",,,"top, yoq̄ top",Phonemic
+20-310-317-1,chec1245,Chechen (Akkin dialect),1061,гΙагΙ,CyrillTrans,armor (defensive),,,ɣaɣ,Phonemic
+20-330-317-1,chec1245,Chechen (Akkin dialect),1680,гΙем,CyrillTrans,helmet,,,ɣem,Phonemic
+20-340-317-1,chec1245,Chechen (Akkin dialect),1064,турс,CyrillTrans,shield,,,turs,Phonemic
+20-350-317-1,chec1245,Chechen (Akkin dialect),1938,гΙал,CyrillTrans,fortress,,,ɣal,Phonemic
+20-360-317-1,chec1245,Chechen (Akkin dialect),1671,гΙал,CyrillTrans,tower,,,ɣal,Phonemic
+20-410-317-1,chec1245,Chechen (Akkin dialect),783,толым,CyrillTrans,victory,,,tolɨm,Phonemic
+20-420-317-1,chec1245,Chechen (Akkin dialect),782,эшыр,CyrillTrans,defeat,,,ešɨr,Phonemic
+20-430-317-1,chec1245,Chechen (Akkin dialect),722,тΙе лат,CyrillTrans,attack,,,tʼe lat,Phonemic
+20-440-317-1,chec1245,Chechen (Akkin dialect),1330,дёхьарло йа,CyrillTrans,defend,,,dyoħarlo ya,Phonemic
+20-450-317-1,chec1245,Chechen (Akkin dialect),421,йухдал,CyrillTrans,retreat,,,yuxdal,Phonemic
+20-460-317-1,chec1245,Chechen (Akkin dialect),1696,кар вах,CyrillTrans,surrender,,,kar wax,Phonemic
+20-470-317-1,chec1245,Chechen (Akkin dialect),1072,ляцын саг,CyrillTrans,"captive, prisoner",,,lyacɨn sag,Phonemic
+20-471-317-1,chec1245,Chechen (Akkin dialect),1940,гΙаралыш,CyrillTrans,"guard, sentinel",,,ɣaralɨš,Phonemic
+20-480-317-1,chec1245,Chechen (Akkin dialect),1022,лагΙаΙин хам,CyrillTrans,"booty, spoils",,,laɣaʕin xam,Phonemic
+20-490-317-1,chec1245,Chechen (Akkin dialect),65,кΙело йа,CyrillTrans,ambush,,,kʼelo ya,Phonemic
+20-510-317-1,chec1245,Chechen (Akkin dialect),1858,гΙери люцырг,CyrillTrans,fisherman,,,ɣeri lyucɨrg,Phonemic
+20-520-317-1,chec1245,Chechen (Akkin dialect),1074,магΙр,CyrillTrans,fishhook,,,maɣr,Phonemic
+20-530-317-1,chec1245,Chechen (Akkin dialect),19,хьу,CyrillTrans,fishing line,,,ħu,Phonemic
+20-540-317-1,chec1245,Chechen (Akkin dialect),388,ов,CyrillTrans,fishnet,,,ow,Phonemic
+20-550-317-1,chec1245,Chechen (Akkin dialect),389,гур,CyrillTrans,fish trap,,,gur,Phonemic
+20-560-317-1,chec1245,Chechen (Akkin dialect),2013,тосург,CyrillTrans,bait,,,tosurg,Phonemic
+20-610-317-1,chec1245,Chechen (Akkin dialect),1435,талла эх,CyrillTrans,hunt,,,tal̄a ex,Phonemic
+20-620-317-1,chec1245,Chechen (Akkin dialect),1172,топ тох,CyrillTrans,shoot,,,top tox,Phonemic
+20-630-317-1,chec1245,Chechen (Akkin dialect),161,дΙа ца кхет,CyrillTrans,miss (target),,,dʕa ca qet,Phonemic
+20-640-317-1,chec1245,Chechen (Akkin dialect),1075,гур,CyrillTrans,trap (noun),,,gur,Phonemic
+20-650-317-1,chec1245,Chechen (Akkin dialect),1170,лац,CyrillTrans,trap (vb),,,lac,Phonemic
+21-110-317-1,chec1245,Chechen (Akkin dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-317-1,chec1245,Chechen (Akkin dialect),1068,сюд,CyrillTrans,court,,,syud,Phonemic
+21-160-317-1,chec1245,Chechen (Akkin dialect),1818,сюд йа,CyrillTrans,judge (vb),,,syud ya,Phonemic
+21-170-317-1,chec1245,Chechen (Akkin dialect),1067,сюд сацым,CyrillTrans,judgment,,,syud sacɨm,Phonemic
+21-180-317-1,chec1245,Chechen (Akkin dialect),861,сюдхо,CyrillTrans,judge (noun),,,syudxo,Phonemic
+21-210-317-1,chec1245,Chechen (Akkin dialect),2020,дёв да,CyrillTrans,plaintiff,,,dyow da,Phonemic
+21-220-317-1,chec1245,Chechen (Akkin dialect),1034,жоп леш верг,CyrillTrans,defendant,,,žop leš werg,Phonemic
+21-230-317-1,chec1245,Chechen (Akkin dialect),1144,теш,CyrillTrans,witness,,,teš,Phonemic
+21-240-317-1,chec1245,Chechen (Akkin dialect),1939,дюв баыр,CyrillTrans,swear,,,dyuw baɨr,Phonemic
+21-250-317-1,chec1245,Chechen (Akkin dialect),1712,дю баыр,CyrillTrans,oath,,,dyu baɨr,Phonemic
+21-310-317-1,chec1245,Chechen (Akkin dialect),1814,бехк бил,CyrillTrans,accuse,,,bexk bil,Phonemic
+21-320-317-1,chec1245,Chechen (Akkin dialect),484,бехке ва,CyrillTrans,condemn,,,bexke wa,Phonemic
+21-330-317-1,chec1245,Chechen (Akkin dialect),983,бехке ва,CyrillTrans,convict (vb),,,bexke wa,Phonemic
+21-340-317-1,chec1245,Chechen (Akkin dialect),988,бехке вакх,CyrillTrans,acquit,,,bexke waq,Phonemic
+21-350-317-1,chec1245,Chechen (Akkin dialect),1682,бехке верг,CyrillTrans,guilty,,,bexke werg,Phonemic
+21-360-317-1,chec1245,Chechen (Akkin dialect),90,бехке вац,CyrillTrans,innocent,,,bexke wac,Phonemic
+21-370-317-1,chec1245,Chechen (Akkin dialect),390,таΙзыр,CyrillTrans,"penalty, punishment",,,taʕzɨr,Phonemic
+21-380-317-1,chec1245,Chechen (Akkin dialect),218,гΙуда,CyrillTrans,fine,,,ɣuda,Phonemic
+21-390-317-1,chec1245,Chechen (Akkin dialect),1281,тюрьме,CyrillTrans,"prison, jail",,,tyurʲme,Phonemic
+21-420-317-1,chec1245,Chechen (Akkin dialect),845,саг вивар,CyrillTrans,murder,,,sag wiwar,Phonemic
+21-430-317-1,chec1245,Chechen (Akkin dialect),902,нахц лел,CyrillTrans,adultery,,,naxc lel,Phonemic
+21-440-317-1,chec1245,Chechen (Akkin dialect),953,лелор,CyrillTrans,rape,,,lelor,Phonemic
+21-460-317-1,chec1245,Chechen (Akkin dialect),1889,цΙе латор,CyrillTrans,arson,,,cʼe lator,Phonemic
+21-470-317-1,chec1245,Chechen (Akkin dialect),1792,харц тешыл да,CyrillTrans,perjury,,,xarc tešɨl da,Phonemic
+21-510-317-1,chec1245,Chechen (Akkin dialect),713,легъчъо,CyrillTrans,steal,,,legč̄ʕo,Phonemic
+21-520-317-1,chec1245,Chechen (Akkin dialect),1160,къу,CyrillTrans,thief,,,qʼu,Phonemic
+22-110-317-1,chec1245,Chechen (Akkin dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-317-1,chec1245,Chechen (Akkin dialect),1944,дял,CyrillTrans,God,,,dyal,Phonemic
+22-130-317-1,chec1245,Chechen (Akkin dialect),911,килс,CyrillTrans,"temple, church",,,kils,Phonemic
+22-140-317-1,chec1245,Chechen (Akkin dialect),853,михІраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-317-1,chec1245,Chechen (Akkin dialect),1103,сагΙа,CyrillTrans,"sacrifice, offering",,,sāɣa,Phonemic
+22-160-317-1,chec1245,Chechen (Akkin dialect),257,корта текъа таΙо,CyrillTrans,worship,,,korta teqʼa taʕo,Phonemic
+22-170-317-1,chec1245,Chechen (Akkin dialect),24,ламыз да,CyrillTrans,pray,,,lamɨz da,Phonemic
+22-180-317-1,chec1245,Chechen (Akkin dialect),852,мозгΙыр,CyrillTrans,priest,,,mozɣɨr,Phonemic
+22-190-317-1,chec1245,Chechen (Akkin dialect),1702,силахь дез,CyrillTrans,"holy, sacred",,,silaħ dez,Phonemic
+22-220-317-1,chec1245,Chechen (Akkin dialect),304,дин кхекко,CyrillTrans,preach,,,din qek̄o,Phonemic
+22-230-317-1,chec1245,Chechen (Akkin dialect),391,декъылдар,CyrillTrans,bless,,,deqʼɨldar,Phonemic
+22-240-317-1,chec1245,Chechen (Akkin dialect),8,сардым бол,CyrillTrans,curse,,,"sardɨm bol, naʕɨlt qeqo (ala)",Phonemic
+22-240-317-3,chec1245,Chechen (Akkin dialect),8,наΙылт кхекхо (ала),CyrillTrans,curse,,,"sardɨm bol, naʕɨlt qeqo (ala)",Phonemic
+22-260-317-1,chec1245,Chechen (Akkin dialect),303,леарх кхаб,CyrillTrans,fast (vb),,,learx qab,Phonemic
+22-310-317-1,chec1245,Chechen (Akkin dialect),1565,стигами,CyrillTrans,heaven,,,"stigami, yalsame",Phonemic
+22-310-317-3,chec1245,Chechen (Akkin dialect),1565,ялсаме,CyrillTrans,heaven,,,"stigami, yalsame",Phonemic
+22-320-317-1,chec1245,Chechen (Akkin dialect),878,жожштх,CyrillTrans,hell,,,žožštx,Phonemic
+22-350-317-1,chec1245,Chechen (Akkin dialect),1973,лилбыз,CyrillTrans,demon (evil spirit),,,lilbɨz,Phonemic
+22-370-317-1,chec1245,Chechen (Akkin dialect),1945,цΙо,CyrillTrans,idol,,,cʼo,Phonemic
+22-420-317-1,chec1245,Chechen (Akkin dialect),392,холмачалла,CyrillTrans,"magic, witchcraft, sorcery",,,xolmačal̄a,Phonemic
+22-430-317-1,chec1245,Chechen (Akkin dialect),2137,халмачхо,CyrillTrans,"sorcerer, witch",,,"xalmačxo, almaz",Phonemic
+22-430-317-3,chec1245,Chechen (Akkin dialect),2137,алмаз,CyrillTrans,"sorcerer, witch",,,"xalmačxo, almaz",Phonemic
+22-440-317-1,chec1245,Chechen (Akkin dialect),2138,маьлхазни,CyrillTrans,"fairy, elf",,,mälxazni,Phonemic
+22-450-317-1,chec1245,Chechen (Akkin dialect),1175,бΙарлагΙ,CyrillTrans,"ghost, phantom",,,bʕarlaɣ,Phonemic
+22-470-317-1,chec1245,Chechen (Akkin dialect),107,хаъам,CyrillTrans,"omen, portent",,,xaʔam,Phonemic

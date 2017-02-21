@@ -1,0 +1,1854 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-64-1,lezg1247,Lezgian,1852,фад-фад,CyrillTrans,often,,,"fad-fad, muqʼʷal-muqʼʷal, gzaf waxtara",Phonemic
+14-320-64-3,lezg1247,Lezgian,1852,мукьвал-мукьвал,CyrillTrans,often,,,"fad-fad, muqʼʷal-muqʼʷal, gzaf waxtara",Phonemic
+14-320-64-5,lezg1247,Lezgian,1852,гзаф вахтара,CyrillTrans,often,,,"fad-fad, muqʼʷal-muqʼʷal, gzaf waxtara",Phonemic
+14-310-64-1,lezg1247,Lezgian,1676,гьамиша,CyrillTrans,always,,,hamiša,Phonemic
+14-290-64-1,lezg1247,Lezgian,790,гьазур,CyrillTrans,ready,,,hazur,Phonemic
+14-280-64-1,lezg1247,Lezgian,1928,акъвазарун,CyrillTrans,"cease, stop",,,"aq̄ʷazarun, aqʼaltʼarun",Phonemic
+14-280-64-3,lezg1247,Lezgian,1928,акьалтІарун,CyrillTrans,"cease, stop",,,"aq̄ʷazarun, aqʼaltʼarun",Phonemic
+14-270-64-1,lezg1247,Lezgian,1766,куьтйагьун,CyrillTrans,finish,,,"kütyahun, aqʼaltʼun",Phonemic
+14-270-64-3,lezg1247,Lezgian,1766,акьалтІун,CyrillTrans,finish,,,"kütyahun, aqʼaltʼun",Phonemic
+14-260-64-1,lezg1247,Lezgian,743,куьтйагьун,CyrillTrans,end (temporal),,,"kütyahun, aqʼaltʼun",Phonemic
+14-260-64-3,lezg1247,Lezgian,743,акьалтІун,CyrillTrans,end (temporal),,,"kütyahun, aqʼaltʼun",Phonemic
+14-252-64-1,lezg1247,Lezgian,1186,давамарун,CyrillTrans,"last, endure",,,"dawamarun, aq̄ʷaz tawun",Phonemic
+14-252-64-3,lezg1247,Lezgian,1186,акъваз тавун,CyrillTrans,"last, endure",,,"dawamarun, aq̄ʷaz tawun",Phonemic
+14-250-64-1,lezg1247,Lezgian,1806,башламишун,CyrillTrans,"begin, beginning",,,bašlamišun,Phonemic
+14-240-64-1,lezg1247,Lezgian,425,йавашрун,CyrillTrans,"retard, delay",,,"yawašrun, astawal kutun",Phonemic
+14-240-64-3,lezg1247,Lezgian,425,аставал кутун,CyrillTrans,"retard, delay",,,"yawašrun, astawal kutun",Phonemic
+14-230-64-1,lezg1247,Lezgian,754,тади кутун,CyrillTrans,"hasten, hurry",,,"tadi kutun, tadi awun, herekatun",Phonemic
+14-230-64-3,lezg1247,Lezgian,754,тади авун,CyrillTrans,"hasten, hurry",,,"tadi kutun, tadi awun, herekatun",Phonemic
+14-230-64-5,lezg1247,Lezgian,754,гьерекатун,CyrillTrans,"hasten, hurry",,,"tadi kutun, tadi awun, herekatun",Phonemic
+14-220-64-1,lezg1247,Lezgian,701,аста,CyrillTrans,slow,,,"asta, yawaš tir",Phonemic
+14-220-64-3,lezg1247,Lezgian,701,йаваш тир,CyrillTrans,slow,,,"asta, yawaš tir",Phonemic
+14-210-64-1,lezg1247,Lezgian,1631,йигин,CyrillTrans,"swift, fast, quick",,,"yigin, zarb, fad, tadi",Phonemic
+14-210-64-3,lezg1247,Lezgian,1631,зарб,CyrillTrans,"swift, fast, quick",,,"yigin, zarb, fad, tadi",Phonemic
+14-210-64-5,lezg1247,Lezgian,1631,фад,CyrillTrans,"swift, fast, quick",,,"yigin, zarb, fad, tadi",Phonemic
+14-210-64-7,lezg1247,Lezgian,1631,тади,CyrillTrans,"swift, fast, quick",,,"yigin, zarb, fad, tadi",Phonemic
+14-190-64-1,lezg1247,Lezgian,1963,тадиз,CyrillTrans,immediately,,,"tadiz, gež tawuna",Phonemic
+14-190-64-3,lezg1247,Lezgian,1963,геж тавуна,CyrillTrans,immediately,,,"tadiz, gež tawuna",Phonemic
+14-180-64-1,lezg1247,Lezgian,1376,исйатда,CyrillTrans,now,,,"isyatda, gila",Phonemic
+14-180-64-3,lezg1247,Lezgian,1376,гила,CyrillTrans,now,,,"isyatda, gila",Phonemic
+14-170-64-1,lezg1247,Lezgian,477,геж,CyrillTrans,late,,,gež,Phonemic
+14-160-64-1,lezg1247,Lezgian,672,фад,CyrillTrans,early,,,"fad, fadamaz",Phonemic
+14-160-64-3,lezg1247,Lezgian,672,фадамаз,CyrillTrans,early,,,"fad, fadamaz",Phonemic
+14-150-64-1,lezg1247,Lezgian,1229,кьуьзуь,CyrillTrans,old,,,qʼüzü,Phonemic
+14-140-64-1,lezg1247,Lezgian,1207,жегьил,CyrillTrans,young,,,žehil,Phonemic
+14-120-64-1,lezg1247,Lezgian,1789,девир,CyrillTrans,age,,,"dewir, yaš, wiš yis",Phonemic
+14-120-64-3,lezg1247,Lezgian,1789,йаш,CyrillTrans,age,,,"dewir, yaš, wiš yis",Phonemic
+14-120-64-5,lezg1247,Lezgian,1789,виш йис,CyrillTrans,age,,,"dewir, yaš, wiš yis",Phonemic
+14-130-64-1,lezg1247,Lezgian,1231,цІийи,CyrillTrans,new,,,c’iyi,Phonemic
+14-110-64-1,lezg1247,Lezgian,892,вахт,CyrillTrans,time,,,waxt,Phonemic
+13-440-64-1,lezg1247,Lezgian,417,пуд сеферда,CyrillTrans,three times,,,"pud seferda, pudra, pud ɣilera",Phonemic
+13-440-64-3,lezg1247,Lezgian,417,пудра,CyrillTrans,three times,,,"pud seferda, pudra, pud ɣilera",Phonemic
+13-440-64-5,lezg1247,Lezgian,417,пуд гъилера,CyrillTrans,three times,,,"pud seferda, pudra, pud ɣilera",Phonemic
+13-420-64-1,lezg1247,Lezgian,1859,пуд лагьай,CyrillTrans,third,,,pud lahay,Phonemic
+13-380-64-1,lezg1247,Lezgian,1546,кьве гъилера,CyrillTrans,two times,,,"qʼʷe ɣilera, qʼʷedra, qʼʷe seferda",Phonemic
+13-380-64-3,lezg1247,Lezgian,1546,кьведра,CyrillTrans,two times,,,"qʼʷe ɣilera, qʼʷedra, qʼʷe seferda",Phonemic
+13-380-64-5,lezg1247,Lezgian,1546,кьве сеферда,CyrillTrans,two times,,,"qʼʷe ɣilera, qʼʷedra, qʼʷe seferda",Phonemic
+13-370-64-1,lezg1247,Lezgian,1888,жуьт,CyrillTrans,pair,,,"žüt, sa-qʼʷed",Phonemic
+13-370-64-3,lezg1247,Lezgian,1888,са-кьвед,CyrillTrans,pair,,,"žüt, sa-qʼʷed",Phonemic
+13-360-64-1,lezg1247,Lezgian,1384,кьвед лагьай,CyrillTrans,second,,,qʼʷed lahay,Phonemic
+13-350-64-1,lezg1247,Lezgian,1529,эхиримжи,CyrillTrans,last,,,exirimži,Phonemic
+13-340-64-1,lezg1247,Lezgian,728,садлагьай,CyrillTrans,first,,,sadlahay,Phonemic
+13-330-64-1,lezg1247,Lezgian,1580,тек са,CyrillTrans,"alone, only",,,"tek sa, tek sad tir",Phonemic
+13-330-64-3,lezg1247,Lezgian,1580,тек сад тир,CyrillTrans,"alone, only",,,"tek sa, tek sad tir",Phonemic
+13-240-64-1,lezg1247,Lezgian,816,зур,CyrillTrans,half,,,"zur, pay, sa pay",Phonemic
+13-240-64-3,lezg1247,Lezgian,816,пай,CyrillTrans,half,,,"zur, pay, sa pay",Phonemic
+13-240-64-5,lezg1247,Lezgian,816,са пай,CyrillTrans,half,,,"zur, pay, sa pay",Phonemic
+13-230-64-1,lezg1247,Lezgian,779,кІус,CyrillTrans,"part, piece",,,kʼus,Phonemic
+13-220-64-1,lezg1247,Lezgian,1624,ичІи,CyrillTrans,empty,,,ič’i,Phonemic
+13-210-64-1,lezg1247,Lezgian,1429,ацІай,CyrillTrans,full,,,ac’ay,Phonemic
+13-190-64-1,lezg1247,Lezgian,2023,гзаф,CyrillTrans,"multitude, crowd",,,"gzaf, gzaf qʼadar",Phonemic
+13-190-64-3,lezg1247,Lezgian,2023,гзаф кьадар,CyrillTrans,"multitude, crowd",,,"gzaf, gzaf qʼadar",Phonemic
+13-181-64-1,lezg1247,Lezgian,1241,са шумуд,CyrillTrans,some,,,sa šumud,Phonemic
+13-170-64-1,lezg1247,Lezgian,1242,тІимил,CyrillTrans,"little (quantity), few",,,tʼimil,Phonemic
+13-180-64-1,lezg1247,Lezgian,1881,бес тир кьадарда,CyrillTrans,enough,,,"bes tir qʼadarda, behem",Phonemic
+13-180-64-3,lezg1247,Lezgian,1881,бегьем,CyrillTrans,enough,,,"bes tir qʼadarda, behem",Phonemic
+13-160-64-1,lezg1247,Lezgian,1992,мадни гзаф,CyrillTrans,more,,,madni gzaf,Phonemic
+13-150-64-1,lezg1247,Lezgian,1198,гзаф,CyrillTrans,"much, many",,,gzaf,Phonemic
+13-140-64-1,lezg1247,Lezgian,98,вири,CyrillTrans,"every, all",,,wiri,Phonemic
+13-107-64-1,lezg1247,Lezgian,1420,гьисабун,CyrillTrans,count,,,hisabun,Phonemic
+13-106-64-1,lezg1247,Lezgian,1843,агъзур,CyrillTrans,thousand,,,aɣzur,Phonemic
+13-105-64-1,lezg1247,Lezgian,1634,виш,CyrillTrans,hundred,,,wiš,Phonemic
+13-104-64-1,lezg1247,Lezgian,1710,къад,CyrillTrans,twenty,,,q̄ad,Phonemic
+13-103-64-1,lezg1247,Lezgian,1709,цІувад,CyrillTrans,fifteen,,,c’uwad,Phonemic
+13-102-64-1,lezg1247,Lezgian,1707,цІикьвед,CyrillTrans,twelve,,,c’iqʼʷed,Phonemic
+13-101-64-1,lezg1247,Lezgian,1706,цІусад,CyrillTrans,eleven,,,c’usad,Phonemic
+13-100-64-1,lezg1247,Lezgian,1515,цІуд,CyrillTrans,ten,,,c’ud,Phonemic
+13-90-64-1,lezg1247,Lezgian,1483,кІуьд,CyrillTrans,nine,,,kʼüd,Phonemic
+13-80-64-1,lezg1247,Lezgian,1705,муьжуьд,CyrillTrans,eight,,,müžüd,Phonemic
+13-70-64-1,lezg1247,Lezgian,1704,ирид,CyrillTrans,seven,,,irid,Phonemic
+13-60-64-1,lezg1247,Lezgian,1703,ругуд,CyrillTrans,six,,,rugud,Phonemic
+13-50-64-1,lezg1247,Lezgian,493,вад,CyrillTrans,five,,,wad,Phonemic
+13-40-64-1,lezg1247,Lezgian,1500,кьуд,CyrillTrans,four,,,qʼud,Phonemic
+13-20-64-1,lezg1247,Lezgian,1498,кьвед,CyrillTrans,two,,,qʼʷed,Phonemic
+13-30-64-1,lezg1247,Lezgian,492,пуд,CyrillTrans,three,,,pud,Phonemic
+13-10-64-1,lezg1247,Lezgian,1493,сад,CyrillTrans,one,,,sad,Phonemic
+13-0-64-1,lezg1247,Lezgian,1294,ноль,CyrillTrans,"zero, nothing",,,nolʲ,Phonemic
+12-930-64-1,lezg1247,Lezgian,1264,дегишрун,CyrillTrans,change,,,degišrun,Phonemic
+12-920-64-1,lezg1247,Lezgian,1558,ухшар авай,CyrillTrans,"like, similar",,,uxšar away,Phonemic
+12-840-64-1,lezg1247,Lezgian,1048,цІар,CyrillTrans,line,,,c’ar,Phonemic
+12-850-64-1,lezg1247,Lezgian,1667,тІвекен,CyrillTrans,hole,,,tʼʷeken,Phonemic
+12-830-64-1,lezg1247,Lezgian,1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-64-1,lezg1247,Lezgian,1395,элкъвей,CyrillTrans,round,,,elq̄ʷey,Phonemic
+12-820-64-1,lezg1247,Lezgian,1467,окружность,CyrillTrans,circle,,,okružnostʲ,Phonemic
+12-780-64-1,lezg1247,Lezgian,850,квадрат,CyrillTrans,square,,,kwadrat,Phonemic
+12-770-64-1,lezg1247,Lezgian,1367,хаш,CyrillTrans,cross,,,xaš,Phonemic
+12-760-64-1,lezg1247,Lezgian,192,пІипІ,CyrillTrans,corner,,,p’ip’,Phonemic
+12-750-64-1,lezg1247,Lezgian,1071,къармах,CyrillTrans,hook,,,q̄armax,Phonemic
+12-740-64-1,lezg1247,Lezgian,297,патахъ,CyrillTrans,crooked,,,pataq,Phonemic
+12-730-64-1,lezg1247,Lezgian,1404,дуьз,CyrillTrans,straight,,,düz,Phonemic
+12-710-64-1,lezg1247,Lezgian,1633,къен авачир,CyrillTrans,flat,,,"q̄en awačir, dayaz",Phonemic
+12-710-64-3,lezg1247,Lezgian,1633,дайаз,CyrillTrans,flat,,,"q̄en awačir, dayaz",Phonemic
+12-680-64-1,lezg1247,Lezgian,193,кьери,CyrillTrans,shallow,,,qʼeri,Phonemic
+12-670-64-1,lezg1247,Lezgian,1593,дерин,CyrillTrans,deep,,,derin,Phonemic
+12-650-64-1,lezg1247,Lezgian,2249,шуькІуь,CyrillTrans,thin (in dimension),,,šükʼü,Phonemic
+12-630-64-1,lezg1247,Lezgian,1244,йацІу,CyrillTrans,thick (in dimension),,,yac’u,Phonemic
+12-620-64-1,lezg1247,Lezgian,1267,гуьтІуь,CyrillTrans,narrow,,,gütʼü,Phonemic
+12-610-64-1,lezg1247,Lezgian,1243,гьйаркьуь,CyrillTrans,"wide, broad",,,hyarqʼü,Phonemic
+12-590-64-1,lezg1247,Lezgian,1645,куьруь,CyrillTrans,short,,,kürü,Phonemic
+12-580-64-1,lezg1247,Lezgian,711,кьакьан,CyrillTrans,tall,,,qʼaqʼan,Phonemic
+12-570-64-1,lezg1247,Lezgian,1203,йаргъи,CyrillTrans,long,,,yarɣi,Phonemic
+12-560-64-1,lezg1247,Lezgian,1246,гъвечІи,CyrillTrans,"small, little",,,ɣʷeč’i,Phonemic
+12-550-64-1,lezg1247,Lezgian,1202,еке,CyrillTrans,"large, big",,,eke,Phonemic
+12-541-64-1,lezg1247,Lezgian,81,къакъайар,CyrillTrans,"span, fathom",,,q̄aq̄ayar,Phonemic
+12-540-64-1,lezg1247,Lezgian,1506,алцумун,CyrillTrans,measure,,,alcumun,Phonemic
+12-530-64-1,lezg1247,Lezgian,479,экъечІун,CyrillTrans,grow,,,"eq̄eč’un, aqʼaltun, č’exi x̌un",Phonemic
+12-530-64-3,lezg1247,Lezgian,479,акьалтун,CyrillTrans,grow,,,"eq̄eč’un, aqʼaltun, č’exi x̌un",Phonemic
+12-530-64-5,lezg1247,Lezgian,479,чІехи хьун,CyrillTrans,grow,,,"eq̄eč’un, aqʼaltun, č’exi x̌un",Phonemic
+12-480-64-1,lezg1247,Lezgian,1595,кьиблепад,CyrillTrans,south,,,qʼiblepad,Phonemic
+12-470-64-1,lezg1247,Lezgian,1598,кефер пад,CyrillTrans,north,,,kefer pad,Phonemic
+12-460-64-1,lezg1247,Lezgian,1817,рагъакІидай пад,CyrillTrans,west,,,raɣakʼiday pad,Phonemic
+12-450-64-1,lezg1247,Lezgian,1877,рагъэкъечІдай пад,CyrillTrans,east,,,raɣeq̄eč’day pad,Phonemic
+12-430-64-1,lezg1247,Lezgian,1942,къвалав,CyrillTrans,near (adv),,,"q̄ʷalaw, pataw, muqʼuw, muqʼʷal",Phonemic
+12-430-64-3,lezg1247,Lezgian,1942,патав,CyrillTrans,near (adv),,,"q̄ʷalaw, pataw, muqʼuw, muqʼʷal",Phonemic
+12-430-64-5,lezg1247,Lezgian,1942,мукьув,CyrillTrans,near (adv),,,"q̄ʷalaw, pataw, muqʼuw, muqʼʷal",Phonemic
+12-430-64-7,lezg1247,Lezgian,1942,мукьвал,CyrillTrans,near (adv),,,"q̄ʷalaw, pataw, muqʼuw, muqʼʷal",Phonemic
+12-440-64-1,lezg1247,Lezgian,1406,йаргъал,CyrillTrans,far (adv),,,"yarɣal, yarɣa",Phonemic
+12-440-64-3,lezg1247,Lezgian,1406,йаргъа,CyrillTrans,far (adv),,,"yarɣal, yarɣa",Phonemic
+12-420-64-1,lezg1247,Lezgian,244,чапла,CyrillTrans,left (side),,,čapla,Phonemic
+12-410-64-1,lezg1247,Lezgian,1019,эрчІи,CyrillTrans,right (side),,,erč’i,Phonemic
+12-370-64-1,lezg1247,Lezgian,1093,йукь,CyrillTrans,"middle, center",,,yuqʼ,Phonemic
+12-360-64-1,lezg1247,Lezgian,682,пад,CyrillTrans,side,,,pad,Phonemic
+12-353-64-1,lezg1247,Lezgian,863,къерех,CyrillTrans,edge,,,q̄erex,Phonemic
+12-352-64-1,lezg1247,Lezgian,372,шуькІуь кІукІ авай,CyrillTrans,pointed,,,"šükʼü kʼukʼ away, kʼukʼ šükʼü",Phonemic
+12-352-64-3,lezg1247,Lezgian,372,кІукІ шуькІуь,CyrillTrans,pointed,,,"šükʼü kʼukʼ away, kʼukʼ šükʼü",Phonemic
+12-350-64-1,lezg1247,Lezgian,742,эхир,CyrillTrans,end,,,exir,Phonemic
+12-340-64-1,lezg1247,Lezgian,690,кІан,CyrillTrans,bottom,,,kʼan,Phonemic
+12-320-64-1,lezg1247,Lezgian,721,аскІан,CyrillTrans,low,,,askʼan,Phonemic
+12-330-64-1,lezg1247,Lezgian,1753,кІукІ,CyrillTrans,top,,,"kʼukʼ, wini qʼil",Phonemic
+12-330-64-3,lezg1247,Lezgian,1753,вини кьил,CyrillTrans,top,,,"kʼukʼ, wini qʼil",Phonemic
+12-310-64-1,lezg1247,Lezgian,1265,кьакьан,CyrillTrans,high,,,qʼaqʼan,Phonemic
+12-270-64-1,lezg1247,Lezgian,602,чуьнуьхун,CyrillTrans,"hide, conceal",,,"čünüxun, čineba xün",Phonemic
+12-270-64-3,lezg1247,Lezgian,602,чинеба хуьн,CyrillTrans,"hide, conceal",,,"čünüxun, čineba xün",Phonemic
+12-250-64-1,lezg1247,Lezgian,1046,акьалун,CyrillTrans,"shut, close",,,aqʼalun,Phonemic
+12-260-64-1,lezg1247,Lezgian,761,винел вегьин,CyrillTrans,cover,,,winel wehin,Phonemic
+12-240-64-1,lezg1247,Lezgian,1156,ахъайун,CyrillTrans,open,,,aqayun,Phonemic
+12-232-64-1,lezg1247,Lezgian,1119,пайун,CyrillTrans,divide,,,payun,Phonemic
+12-230-64-1,lezg1247,Lezgian,1359,чара авун,CyrillTrans,separate,,,čara awun,Phonemic
+12-220-64-1,lezg1247,Lezgian,1743,кІватІун,CyrillTrans,"join, unite",,,kʼʷatʼun,Phonemic
+12-213-64-1,lezg1247,Lezgian,1576,кІватІун,CyrillTrans,pile up,,,"kʼʷatʼun, wehin",Phonemic
+12-213-64-3,lezg1247,Lezgian,1576,вегьин,CyrillTrans,pile up,,,"kʼʷatʼun, wehin",Phonemic
+12-212-64-1,lezg1247,Lezgian,371,хкажун,CyrillTrans,pick up,,,xkažun,Phonemic
+12-210-64-1,lezg1247,Lezgian,7,кІватІун,CyrillTrans,"collect, gather",,,kʼʷatʼun,Phonemic
+12-170-64-1,lezg1247,Lezgian,838,амукьайар,CyrillTrans,"remains, left overs",,,"amuqʼayar, amaybur",Phonemic
+12-170-64-3,lezg1247,Lezgian,838,амайбур,CyrillTrans,"remains, left overs",,,"amuqʼayar, amaybur",Phonemic
+12-160-64-1,lezg1247,Lezgian,987,амукьун,CyrillTrans,"remain, stay",,,amuqʼun,Phonemic
+12-150-64-1,lezg1247,Lezgian,1442,акъвазун,CyrillTrans,stand,,,aq̄ʷazun,Phonemic
+12-140-64-1,lezg1247,Lezgian,215,къаткун,CyrillTrans,lie down,,,"q̄atkun, yarx x̌un, yarɣi x̌un",Phonemic
+12-140-64-3,lezg1247,Lezgian,215,йарх хьун,CyrillTrans,lie down,,,"q̄atkun, yarx x̌un, yarɣi x̌un",Phonemic
+12-140-64-5,lezg1247,Lezgian,215,йаргъи хьун,CyrillTrans,lie down,,,"q̄atkun, yarx x̌un, yarɣi x̌un",Phonemic
+12-130-64-1,lezg1247,Lezgian,1416,ацукьун,CyrillTrans,sit,,,acuqʼun,Phonemic
+12-120-64-1,lezg1247,Lezgian,998,эцигун,CyrillTrans,put,,,ecigun,Phonemic
+12-110-64-1,lezg1247,Lezgian,723,чка,CyrillTrans,place,,,čka,Phonemic
+12-80-64-1,lezg1247,Lezgian,1591,винел,CyrillTrans,"up, above",,,winel,Phonemic
+12-70-64-1,lezg1247,Lezgian,1485,кІаник,CyrillTrans,under,,,kʼanik,Phonemic
+12-60-64-1,lezg1247,Lezgian,762,къецихъ,CyrillTrans,outside,,,"q̄eciq, q̄ecepata",Phonemic
+12-60-64-3,lezg1247,Lezgian,762,къецепата,CyrillTrans,outside,,,"q̄eciq, q̄ecepata",Phonemic
+12-50-64-1,lezg1247,Lezgian,1606,къене,CyrillTrans,"inside, in",,,"q̄ene, q̄enepata",Phonemic
+12-50-64-3,lezg1247,Lezgian,1606,къенепата,CyrillTrans,"inside, in",,,"q̄ene, q̄enepata",Phonemic
+12-41-64-1,lezg1247,Lezgian,1883,вилик пад,CyrillTrans,front,,,wilik pad,Phonemic
+12-40-64-1,lezg1247,Lezgian,1882,вилик,CyrillTrans,before,,,wilik,Phonemic
+12-30-64-1,lezg1247,Lezgian,2094,агъуз,CyrillTrans,"down, below",,,aɣuz,Phonemic
+12-20-64-1,lezg1247,Lezgian,1816,патаг,CyrillTrans,beside,,,"patag, q̄ʷalag",Phonemic
+12-20-64-3,lezg1247,Lezgian,1816,къвалаг,CyrillTrans,beside,,,"patag, q̄ʷalag",Phonemic
+12-11-64-1,lezg1247,Lezgian,1686,кьулухъ,CyrillTrans,behind,,,qʼuluq,Phonemic
+12-10-64-1,lezg1247,Lezgian,1685,гуьгъуьниз,CyrillTrans,after,,,"güɣüniz, axpa",Phonemic
+12-10-64-3,lezg1247,Lezgian,1685,ахпа,CyrillTrans,after,,,"güɣüniz, axpa",Phonemic
+11-920-64-1,lezg1247,Lezgian,1098,алцумун,CyrillTrans,weigh,,,alcumun,Phonemic
+11-910-64-1,lezg1247,Lezgian,884,пайун,CyrillTrans,share (distribute),,,payun,Phonemic
+11-890-64-1,lezg1247,Lezgian,1887,ужуз,CyrillTrans,cheap,,,užuz,Phonemic
+11-880-64-1,lezg1247,Lezgian,1426,багьа,CyrillTrans,"dear (costly, expensive)",,,baha,Phonemic
+11-870-64-1,lezg1247,Lezgian,657,къимет,CyrillTrans,price,,,q̄imet,Phonemic
+11-860-64-1,lezg1247,Lezgian,752,туьквен,CyrillTrans,"store, shop",,,tükʷen,Phonemic
+11-850-64-1,lezg1247,Lezgian,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-64-1,lezg1247,Lezgian,1082,алишверишчи,CyrillTrans,merchant,,,"ališwerišči, alwerči, sawdagar",Phonemic
+11-840-64-3,lezg1247,Lezgian,1082,алверчи,CyrillTrans,merchant,,,"ališwerišči, alwerči, sawdagar",Phonemic
+11-840-64-5,lezg1247,Lezgian,1082,савдагар,CyrillTrans,merchant,,,"ališwerišči, alwerči, sawdagar",Phonemic
+11-830-64-1,lezg1247,Lezgian,2135,алишвериш,CyrillTrans,"trade, barter",,,"ališweriš, alwer, sawda",Phonemic
+11-830-64-3,lezg1247,Lezgian,2135,алвер,CyrillTrans,"trade, barter",,,"ališweriš, alwer, sawda",Phonemic
+11-830-64-5,lezg1247,Lezgian,2135,савда,CyrillTrans,"trade, barter",,,"ališweriš, alwer, sawda",Phonemic
+11-820-64-1,lezg1247,Lezgian,1571,маса гун,CyrillTrans,sell,,,masa gun,Phonemic
+11-810-64-1,lezg1247,Lezgian,1869,къачун,CyrillTrans,buy,,,"q̄ačun, masa q̄ačun",Phonemic
+11-810-64-3,lezg1247,Lezgian,1869,маса къачун,CyrillTrans,buy,,,"q̄ačun, masa q̄ačun",Phonemic
+11-790-64-1,lezg1247,Lezgian,733,къазанмишун,CyrillTrans,earn,,,q̄azanmišun,Phonemic
+11-780-64-1,lezg1247,Lezgian,1122,мажиб,CyrillTrans,wages,,,"mažib, dullux",Phonemic
+11-780-64-3,lezg1247,Lezgian,1122,дуллух,CyrillTrans,wages,,,"mažib, dullux",Phonemic
+11-770-64-1,lezg1247,Lezgian,856,кирида (гьакъидикъ),CyrillTrans,hire,,,"kirida (haq̄idiq̄), q̄ačun",Phonemic
+11-770-64-3,lezg1247,Lezgian,856,къачун,CyrillTrans,hire,,,"kirida (haq̄idiq̄), q̄ačun",Phonemic
+11-690-64-1,lezg1247,Lezgian,873,налог,CyrillTrans,"tax, tribute",,,nalog,Phonemic
+11-660-64-1,lezg1247,Lezgian,1081,гьахъ-гьисаб,CyrillTrans,"account, reckoning",,,haq-hisab,Phonemic
+11-650-64-1,lezg1247,Lezgian,718,гъакъи гун,CyrillTrans,pay (vb),,,"ɣaq̄i gun, pul gun, q̄imet gun",Phonemic
+11-650-64-3,lezg1247,Lezgian,718,пул гун,CyrillTrans,pay (vb),,,"ɣaq̄i gun, pul gun, q̄imet gun",Phonemic
+11-650-64-5,lezg1247,Lezgian,718,къимет гун,CyrillTrans,pay (vb),,,"ɣaq̄i gun, pul gun, q̄imet gun",Phonemic
+11-640-64-1,lezg1247,Lezgian,1914,бурж,CyrillTrans,debt,,,burž,Phonemic
+11-630-64-1,lezg1247,Lezgian,369,буржлу хьун,CyrillTrans,owe,,,buržlu x̌un,Phonemic
+11-620-64-1,lezg1247,Lezgian,1823,бурж къачун,CyrillTrans,borrow,,,burž q̄ačun,Phonemic
+11-610-64-1,lezg1247,Lezgian,582,бурж вугун,CyrillTrans,lend,,,burž wugun,Phonemic
+11-540-64-1,lezg1247,Lezgian,1774,мискьи,CyrillTrans,"avaricious, stingy",,,"misqʼi, mutʼlaqʼ, ɣil kʼewi",Phonemic
+11-540-64-3,lezg1247,Lezgian,1774,мутІлакь,CyrillTrans,"avaricious, stingy",,,"misqʼi, mutʼlaqʼ, ɣil kʼewi",Phonemic
+11-540-64-5,lezg1247,Lezgian,1774,гъил кІеви,CyrillTrans,"avaricious, stingy",,,"misqʼi, mutʼlaqʼ, ɣil kʼewi",Phonemic
+11-530-64-1,lezg1247,Lezgian,1934,къекъвераг,CyrillTrans,beggar,,,q̄eq̄ʷerag,Phonemic
+11-520-64-1,lezg1247,Lezgian,1674,кесиб,CyrillTrans,poor,,,kesib,Phonemic
+11-510-64-1,lezg1247,Lezgian,712,девлетлу,CyrillTrans,rich,,,dewletlu,Phonemic
+11-440-64-1,lezg1247,Lezgian,1867,пул,CyrillTrans,coin,,,pul,Phonemic
+11-430-64-1,lezg1247,Lezgian,1559,пул,CyrillTrans,money,,,pul,Phonemic
+11-340-64-1,lezg1247,Lezgian,1095,ахъайун,CyrillTrans,"release, let go",,,aqayun,Phonemic
+11-330-64-1,lezg1247,Lezgian,1660,квадрун,CyrillTrans,lose,,,kʷadrun,Phonemic
+11-320-64-1,lezg1247,Lezgian,719,жугъурун,CyrillTrans,find,,,"žuɣurun, žuɣun",Phonemic
+11-320-64-3,lezg1247,Lezgian,719,жугъун,CyrillTrans,find,,,"žuɣurun, žuɣun",Phonemic
+11-310-64-1,lezg1247,Lezgian,1468,къекъуьн,CyrillTrans,"seek, look for",,,"q̄eq̄ün, axtarmišun",Phonemic
+11-310-64-3,lezg1247,Lezgian,1468,ахтармишун,CyrillTrans,"seek, look for",,,"q̄eq̄ün, axtarmišun",Phonemic
+11-280-64-1,lezg1247,Lezgian,44,зийан гун,CyrillTrans,"harm, injure, damage",,,ziyan gun,Phonemic
+11-270-64-1,lezg1247,Lezgian,681,чукІурун,CyrillTrans,destroy,,,"čukʼurun, barbatʼun, č’urun",Phonemic
+11-270-64-3,lezg1247,Lezgian,681,барбатІун,CyrillTrans,destroy,,,"čukʼurun, barbatʼun, č’urun",Phonemic
+11-270-64-5,lezg1247,Lezgian,681,чІурун,CyrillTrans,destroy,,,"čukʼurun, barbatʼun, č’urun",Phonemic
+11-250-64-1,lezg1247,Lezgian,2008,хуьн,CyrillTrans,"save, rescue",,,"xün, q̄utarmišun",Phonemic
+11-250-64-3,lezg1247,Lezgian,2008,къутармишун,CyrillTrans,"save, rescue",,,"xün, q̄utarmišun",Phonemic
+11-240-64-1,lezg1247,Lezgian,1997,хуьн,CyrillTrans,"preserve, look after",,,"xün, salamatdiz xün",Phonemic
+11-240-64-3,lezg1247,Lezgian,1997,саламатдиз хуьн,CyrillTrans,"preserve, look after",,,"xün, salamatdiz xün",Phonemic
+11-220-64-1,lezg1247,Lezgian,85,вахкун,CyrillTrans,give back,,,"waxkun, elq̄ürna xkun",Phonemic
+11-220-64-3,lezg1247,Lezgian,85,элкъуьрна хкун,CyrillTrans,give back,,,"waxkun, elq̄ürna xkun",Phonemic
+11-210-64-1,lezg1247,Lezgian,1447,гун,CyrillTrans,give,,,"gun, wugun",Phonemic
+11-210-64-3,lezg1247,Lezgian,1447,вугун,CyrillTrans,give,,,"gun, wugun",Phonemic
+11-180-64-1,lezg1247,Lezgian,738,затІ,CyrillTrans,thing,,,"zatʼ, šey",Phonemic
+11-180-64-3,lezg1247,Lezgian,738,шей,CyrillTrans,thing,,,"zatʼ, šey",Phonemic
+11-170-64-1,lezg1247,Lezgian,1477,хуьн,CyrillTrans,"keep, retain",,,xün,Phonemic
+11-160-64-1,lezg1247,Lezgian,694,агакьун,CyrillTrans,"get, obtain",,,"agaqʼun, atun",Phonemic
+11-160-64-3,lezg1247,Lezgian,694,атун,CyrillTrans,"get, obtain",,,"agaqʼun, atun",Phonemic
+11-150-64-1,lezg1247,Lezgian,1448,кьун,CyrillTrans,hold,,,qʼun,Phonemic
+11-140-64-1,lezg1247,Lezgian,2021,кьун,CyrillTrans,"seize, grasp",,,"qʼun, wihena qʼun",Phonemic
+11-140-64-3,lezg1247,Lezgian,2021,вигьена кьун,CyrillTrans,"seize, grasp",,,"qʼun, wihena qʼun",Phonemic
+11-130-64-1,lezg1247,Lezgian,1749,къачун,CyrillTrans,take,,,q̄ačun,Phonemic
+11-120-64-1,lezg1247,Lezgian,684,иеси хьун,CyrillTrans,"own, possess",,,"iesi x̌un, awaz x̌un",Phonemic
+11-120-64-3,lezg1247,Lezgian,684,аваз хьун,CyrillTrans,"own, possess",,,"iesi x̌un, awaz x̌un",Phonemic
+11-110-64-1,lezg1247,Lezgian,773,хьун,CyrillTrans,have,,,x̌un,Phonemic
+10-920-64-1,lezg1247,Lezgian,1922,чилихъ агакьун,CyrillTrans,land (vb),,,"čiliq agaqʼun, čilel acuqʼun",Phonemic
+10-920-64-3,lezg1247,Lezgian,1922,чилел ацукьун,CyrillTrans,land (vb),,,"čiliq agaqʼun, čilel acuqʼun",Phonemic
+10-910-64-1,lezg1247,Lezgian,610,порт,CyrillTrans,"harbor, port",,,"port, gawanʲ",Phonemic
+10-910-64-3,lezg1247,Lezgian,610,гавань,CyrillTrans,"harbor, port",,,"port, gawanʲ",Phonemic
+10-890-64-1,lezg1247,Lezgian,1870,йакорь,CyrillTrans,anchor,,,"yakorʲ, labar",Phonemic
+10-890-64-3,lezg1247,Lezgian,1870,лабар,CyrillTrans,anchor,,,"yakorʲ, labar",Phonemic
+10-880-64-1,lezg1247,Lezgian,786,йелкен,CyrillTrans,sail (noun),,,yelken,Phonemic
+10-870-64-1,lezg1247,Lezgian,184,кьакьан шуькІуь дестек,CyrillTrans,mast,,,qʼaqʼan šükʼü destek,Phonemic
+10-860-64-1,lezg1247,Lezgian,108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-852-64-1,lezg1247,Lezgian,1849,кьусайралди лодка гьалун,CyrillTrans,row (vb),,,qʼusayraldi lodka halun,Phonemic
+10-851-64-1,lezg1247,Lezgian,234,лодка гьалдай кьусу,CyrillTrans,paddle (noun),,,lodka halday qʼusu,Phonemic
+10-850-64-1,lezg1247,Lezgian,108,лодка гьалдай кьусу,CyrillTrans,oar,,,lodka halday qʼusu,Phonemic
+10-840-64-1,lezg1247,Lezgian,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-64-1,lezg1247,Lezgian,416,шлйупка,CyrillTrans,outrigger,,,šlyupka,Phonemic
+10-831-64-1,lezg1247,Lezgian,1970,каноэ,CyrillTrans,canoe,,,kanoe,Phonemic
+10-830-64-1,lezg1247,Lezgian,1844,луьткве,CyrillTrans,boat,,,lütkʷe,Phonemic
+10-810-64-1,lezg1247,Lezgian,740,гими,CyrillTrans,ship,,,gimi,Phonemic
+10-780-64-1,lezg1247,Lezgian,14,вик,CyrillTrans,yoke,,,wik,Phonemic
+10-770-64-1,lezg1247,Lezgian,1769,гиг (ух),CyrillTrans,axle,,,gig (ux),Phonemic
+10-760-64-1,lezg1247,Lezgian,710,чарх,CyrillTrans,wheel,,,čarx,Phonemic
+10-750-64-1,lezg1247,Lezgian,122,араба,CyrillTrans,"carriage, wagon, cart",,,araba,Phonemic
+10-740-64-1,lezg1247,Lezgian,1011,муьгъ,CyrillTrans,bridge,,,müɣ,Phonemic
+10-720-64-1,lezg1247,Lezgian,2252,кІвачин рехъ,CyrillTrans,path,,,kʼʷačin req,Phonemic
+10-710-64-1,lezg1247,Lezgian,667,рехъ,CyrillTrans,road,,,req,Phonemic
+10-670-64-1,lezg1247,Lezgian,1452,эцйагъун,CyrillTrans,"push, shove",,,ecyaɣun,Phonemic
+10-660-64-1,lezg1247,Lezgian,367,балкІандал алаз фин,CyrillTrans,ride,,,balkʼandal alaz fin,Phonemic
+10-650-64-1,lezg1247,Lezgian,741,гьалун,CyrillTrans,drive,,,"halun, mašindawaz fin",Phonemic
+10-650-64-3,lezg1247,Lezgian,741,машиндаваз фин,CyrillTrans,drive,,,"halun, mašindawaz fin",Phonemic
+10-640-64-1,lezg1247,Lezgian,43,тухун,CyrillTrans,lead (vb),,,tuxun,Phonemic
+10-630-64-1,lezg1247,Lezgian,1127,дугурун,CyrillTrans,send,,,"dugurun, raq̄urun",Phonemic
+10-630-64-3,lezg1247,Lezgian,1127,ракъурун,CyrillTrans,send,,,"dugurun, raq̄urun",Phonemic
+10-620-64-1,lezg1247,Lezgian,692,гъун,CyrillTrans,bring,,,ɣun,Phonemic
+10-615-64-1,lezg1247,Lezgian,415,хъуьчІик кваз тухун,CyrillTrans,carry-underarm,,,qüč’ik kʷaz tuxun,Phonemic
+10-614-64-1,lezg1247,Lezgian,414,кьилел алаз тухун (хутахун),CyrillTrans,carry-on-head,,,qʼilel alaz tuxun (xutaxun),Phonemic
+10-613-64-1,lezg1247,Lezgian,413,къуьнерал алаз тухун (хутахун),CyrillTrans,carry-on-shoulder,,,q̄üneral alaz tuxun (xutaxun),Phonemic
+10-612-64-1,lezg1247,Lezgian,412,гъилерал алаз тухун (хутахун),CyrillTrans,carry-in-hand,,,ɣileral alaz tuxun (xutaxun),Phonemic
+10-610-64-1,lezg1247,Lezgian,700,тухун,CyrillTrans,carry (bear),,,"tuxun, ɣun, gʷaz fin, gʷaz atun",Phonemic
+10-610-64-3,lezg1247,Lezgian,700,гъун,CyrillTrans,carry (bear),,,"tuxun, ɣun, gʷaz fin, gʷaz atun",Phonemic
+10-610-64-5,lezg1247,Lezgian,700,гваз фин,CyrillTrans,carry (bear),,,"tuxun, ɣun, gʷaz fin, gʷaz atun",Phonemic
+10-610-64-7,lezg1247,Lezgian,700,гваз атун,CyrillTrans,carry (bear),,,"tuxun, ɣun, gʷaz fin, gʷaz atun",Phonemic
+10-570-64-1,lezg1247,Lezgian,749,агъун,CyrillTrans,enter,,,"aɣun, fin",Phonemic
+10-570-64-3,lezg1247,Lezgian,749,фин,CyrillTrans,enter,,,"aɣun, fin",Phonemic
+10-560-64-1,lezg1247,Lezgian,1778,мукьва хьун,CyrillTrans,approach,,,"muqʼʷa x̌un, muqʼuw atun",Phonemic
+10-560-64-3,lezg1247,Lezgian,1778,мукьув атун,CyrillTrans,approach,,,"muqʼʷa x̌un, muqʼuw atun",Phonemic
+10-550-64-1,lezg1247,Lezgian,1387,агакьун,CyrillTrans,"reach, arrive",,,"agaqʼun, atun",Phonemic
+10-550-64-3,lezg1247,Lezgian,1387,атун,CyrillTrans,"reach, arrive",,,"agaqʼun, atun",Phonemic
+10-530-64-1,lezg1247,Lezgian,1047,галтугун,CyrillTrans,pursue,,,"galtugun, gele q̄eq̄ün",Phonemic
+10-530-64-3,lezg1247,Lezgian,1047,геле къекъуьн,CyrillTrans,pursue,,,"galtugun, gele q̄eq̄ün",Phonemic
+10-520-64-1,lezg1247,Lezgian,1085,гуьгъуьна аваз фин,CyrillTrans,follow,,,güɣüna awaz fin,Phonemic
+10-510-64-1,lezg1247,Lezgian,956,катун,CyrillTrans,flee,,,"katun, katna baladikay xkatun",Phonemic
+10-510-64-3,lezg1247,Lezgian,956,катна баладикай хкатун,CyrillTrans,flee,,,"katun, katna baladikay xkatun",Phonemic
+10-491-64-1,lezg1247,Lezgian,485,терг хьун,CyrillTrans,disappear,,,"terg x̌un, kʷax̌un, wilerikay xkatun",Phonemic
+10-491-64-3,lezg1247,Lezgian,485,квахьун,CyrillTrans,disappear,,,"terg x̌un, kʷax̌un, wilerikay xkatun",Phonemic
+10-491-64-5,lezg1247,Lezgian,485,вилерикай хкатун,CyrillTrans,disappear,,,"terg x̌un, kʷax̌un, wilerikay xkatun",Phonemic
+10-490-64-1,lezg1247,Lezgian,1752,хъфин,CyrillTrans,"go away, depart",,,qfin,Phonemic
+10-481-64-1,lezg1247,Lezgian,581,хтун,CyrillTrans,come back,,,xtun,Phonemic
+10-480-64-1,lezg1247,Lezgian,1446,атун,CyrillTrans,come,,,atun,Phonemic
+10-474-64-1,lezg1247,Lezgian,1107,экъечІун,CyrillTrans,go out,,,eq̄eč’un,Phonemic
+10-473-64-1,lezg1247,Lezgian,2014,эвичІун,CyrillTrans,go down,,,"ewič’un, aɣuz ewič’un",Phonemic
+10-473-64-3,lezg1247,Lezgian,2014,агъуз эвичІун,CyrillTrans,go down,,,"ewič’un, aɣuz ewič’un",Phonemic
+10-472-64-1,lezg1247,Lezgian,1102,акьахун,CyrillTrans,climb,,,aqʼaxun,Phonemic
+10-470-64-1,lezg1247,Lezgian,695,фин,CyrillTrans,go,,,fin,Phonemic
+10-471-64-1,lezg1247,Lezgian,705,хкаж хьун,CyrillTrans,go up,,,xkaž x̌un,Phonemic
+10-460-64-1,lezg1247,Lezgian,1519,катун,CyrillTrans,run,,,katun,Phonemic
+10-451-64-1,lezg1247,Lezgian,366,кьецІивал авун,CyrillTrans,limp,,,qʼec’iwal awun,Phonemic
+10-450-64-1,lezg1247,Lezgian,1443,къекъуьн,CyrillTrans,walk,,,"q̄eq̄ün, fin",Phonemic
+10-450-64-3,lezg1247,Lezgian,1443,фин,CyrillTrans,walk,,,"q̄eq̄ün, fin",Phonemic
+10-440-64-1,lezg1247,Lezgian,1879,кьуьл авун,CyrillTrans,dance,,,qʼül awun,Phonemic
+10-431-64-1,lezg1247,Lezgian,1135,эцйагъун,CyrillTrans,kick,,,ecyaɣun,Phonemic
+10-430-64-1,lezg1247,Lezgian,1829,хкадрун,CyrillTrans,"jump, leap",,,xkadrun,Phonemic
+10-420-64-1,lezg1247,Lezgian,1324,цІуьдгъуьнун,CyrillTrans,"slide, slip",,,c’üdɣünun,Phonemic
+10-413-64-1,lezg1247,Lezgian,296,цуквал ацукьун,CyrillTrans,crouch,,,cukʷal acuqʼun,Phonemic
+10-412-64-1,lezg1247,Lezgian,66,метІерал акъвазун,CyrillTrans,kneel,,,metʼeral aq̄ʷazun,Phonemic
+10-410-64-1,lezg1247,Lezgian,96,галчІур хьун,CyrillTrans,"creep, crawl",,,galč’ur x̌un,Phonemic
+10-380-64-1,lezg1247,Lezgian,175,гар атун,CyrillTrans,blow,,,"gar atun, gar q̄eq̄ün",Phonemic
+10-380-64-3,lezg1247,Lezgian,175,гар къекъуьн,CyrillTrans,blow,,,"gar atun, gar q̄eq̄ün",Phonemic
+10-370-64-1,lezg1247,Lezgian,1441,лув гун,CyrillTrans,fly (vb),,,luw gun,Phonemic
+10-360-64-1,lezg1247,Lezgian,787,елкендик фин,CyrillTrans,sail (vb),,,yelkendik fin,Phonemic
+10-352-64-1,lezg1247,Lezgian,365,лешреш авун,CyrillTrans,splash,,,lešreš awun,Phonemic
+10-351-64-1,lezg1247,Lezgian,119,цик чуьнуьх хьун,CyrillTrans,dive,,,cik čünüx x̌un,Phonemic
+10-350-64-1,lezg1247,Lezgian,1439,сирнав авун,CyrillTrans,swim,,,sirnaw awun,Phonemic
+10-340-64-1,lezg1247,Lezgian,1574,сирнав авун,CyrillTrans,float,,,"sirnaw awun, fin, q̄eq̄ün",Phonemic
+10-340-64-3,lezg1247,Lezgian,1574,фин,CyrillTrans,float,,,"sirnaw awun, fin, q̄eq̄ün",Phonemic
+10-340-64-5,lezg1247,Lezgian,1574,къекъуьн,CyrillTrans,float,,,"sirnaw awun, fin, q̄eq̄ün",Phonemic
+10-330-64-1,lezg1247,Lezgian,1088,батмиш хьун,CyrillTrans,sink,,,"batmiš x̌un, cin kʼaniz yaɣun",Phonemic
+10-330-64-3,lezg1247,Lezgian,1088,цин кІаниз йагъун,CyrillTrans,sink,,,"batmiš x̌un, cin kʼaniz yaɣun",Phonemic
+10-320-64-1,lezg1247,Lezgian,2003,авахьун,CyrillTrans,flow,,,"awax̌un, awax̌na fin",Phonemic
+10-320-64-3,lezg1247,Lezgian,2003,авахьна фин,CyrillTrans,flow,,,"awax̌un, awax̌na fin",Phonemic
+10-260-64-1,lezg1247,Lezgian,1909,йузурун,CyrillTrans,shake,,,"yuzurun, galtadun",Phonemic
+10-260-64-3,lezg1247,Lezgian,1909,галтадун,CyrillTrans,shake,,,"yuzurun, galtadun",Phonemic
+10-252-64-1,lezg1247,Lezgian,702,кьун,CyrillTrans,catch (ball),,,qʼun,Phonemic
+10-250-64-1,lezg1247,Lezgian,1456,гадрун,CyrillTrans,throw,,,"gadrun, wehin",Phonemic
+10-250-64-3,lezg1247,Lezgian,1456,вегьин,CyrillTrans,throw,,,"gadrun, wehin",Phonemic
+10-240-64-1,lezg1247,Lezgian,2253,стІал-стІал цун,CyrillTrans,drip,,,stʼal-stʼal cun,Phonemic
+10-230-64-1,lezg1247,Lezgian,1280,аватун,CyrillTrans,fall,,,awatun,Phonemic
+10-220-64-1,lezg1247,Lezgian,501,хкажун,CyrillTrans,"raise, lift",,,xkažun,Phonemic
+10-210-64-1,lezg1247,Lezgian,568,экъечІун,CyrillTrans,rise,,,"eq̄eč’un, xkaž x̌un",Phonemic
+10-210-64-3,lezg1247,Lezgian,568,хкаж хьун,CyrillTrans,rise,,,"eq̄eč’un, xkaž x̌un",Phonemic
+10-170-64-1,lezg1247,Lezgian,430,звер гун,CyrillTrans,twist,,,"zʷer gun, alčudrun",Phonemic
+10-170-64-3,lezg1247,Lezgian,430,алчудрун,CyrillTrans,twist,,,"zʷer gun, alčudrun",Phonemic
+10-160-64-1,lezg1247,Lezgian,808,стІалар авахьун,CyrillTrans,drop (vb),,,"stʼalar awax̌un, stʼal-stʼal atun, stʼalar kʼʷax̌un",Phonemic
+10-160-64-3,lezg1247,Lezgian,808,стІал-стІал атун,CyrillTrans,drop (vb),,,"stʼalar awax̌un, stʼal-stʼal atun, stʼalar kʼʷax̌un",Phonemic
+10-160-64-5,lezg1247,Lezgian,808,стІалар кІвахьун,CyrillTrans,drop (vb),,,"stʼalar awax̌un, stʼal-stʼal atun, stʼalar kʼʷax̌un",Phonemic
+10-150-64-1,lezg1247,Lezgian,827,элкъуьрун,CyrillTrans,roll,,,"elq̄ürun, alčudrun",Phonemic
+10-150-64-3,lezg1247,Lezgian,827,алчудрун,CyrillTrans,roll,,,"elq̄ürun, alčudrun",Phonemic
+10-140-64-1,lezg1247,Lezgian,1113,алчукун,CyrillTrans,"wind, wrap",,,"alčukun, elq̄ürun",Phonemic
+10-140-64-3,lezg1247,Lezgian,1113,элкъуьрун,CyrillTrans,"wind, wrap",,,"alčukun, elq̄ürun",Phonemic
+10-130-64-1,lezg1247,Lezgian,1445,элкъуьн,CyrillTrans,turn around,,,"elq̄ün, alčud x̌un",Phonemic
+10-130-64-3,lezg1247,Lezgian,1445,алчуд хьун,CyrillTrans,turn around,,,"elq̄ün, alčud x̌un",Phonemic
+10-120-64-1,lezg1247,Lezgian,1588,элкъуьн,CyrillTrans,turn over,,,"elq̄ün, alčud x̌un",Phonemic
+10-120-64-3,lezg1247,Lezgian,1588,алчуд хьун,CyrillTrans,turn over,,,"elq̄ün, alčud x̌un",Phonemic
+10-110-64-1,lezg1247,Lezgian,765,йузун,CyrillTrans,move,,,yuzun,Phonemic
+9-890-64-1,lezg1247,Lezgian,2001,шир йагъун,CyrillTrans,paint (vb),,,"šir yaɣun, rang yaɣun",Phonemic
+9-890-64-3,lezg1247,Lezgian,2001,ранг йагъун,CyrillTrans,paint (vb),,,"šir yaɣun, rang yaɣun",Phonemic
+9-840-64-1,lezg1247,Lezgian,1979,рицІугул,CyrillTrans,chisel,,,"ric’ugul, čukʼul",Phonemic
+9-840-64-3,lezg1247,Lezgian,1979,чукІул,CyrillTrans,chisel,,,"ric’ugul, čukʼul",Phonemic
+9-880-64-1,lezg1247,Lezgian,647,ранг,CyrillTrans,paint (noun),,,"rang, šir",Phonemic
+9-880-64-3,lezg1247,Lezgian,647,шир,CyrillTrans,paint (noun),,,"rang, šir",Phonemic
+9-830-64-1,lezg1247,Lezgian,1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-64-1,lezg1247,Lezgian,914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-64-1,lezg1247,Lezgian,228,атІун,CyrillTrans,carve,,,"atʼun, atʼana aq̄udun",Phonemic
+9-810-64-3,lezg1247,Lezgian,228,атІана акъудун,CyrillTrans,carve,,,"atʼun, atʼana aq̄udun",Phonemic
+9-791-64-1,lezg1247,Lezgian,360,гар йагъун,CyrillTrans,fan (vb),,,"gar yaɣun, gar gun",Phonemic
+9-791-64-3,lezg1247,Lezgian,360,гар гун,CyrillTrans,fan (vb),,,"gar yaɣun, gar gun",Phonemic
+9-790-64-1,lezg1247,Lezgian,1971,веер,CyrillTrans,fan (noun),,,"weer, wentilyator",Phonemic
+9-790-64-3,lezg1247,Lezgian,1971,вентилйатор,CyrillTrans,fan (noun),,,"weer, wentilyator",Phonemic
+9-780-64-1,lezg1247,Lezgian,293,чилинин чанта,CyrillTrans,netbag,,,"čilinin čanta, iri tʼekʷenar away čanta",Phonemic
+9-780-64-3,lezg1247,Lezgian,293,ири тІеквенар авай чанта,CyrillTrans,netbag,,,"čilinin čanta, iri tʼekʷenar away čanta",Phonemic
+9-771-64-1,lezg1247,Lezgian,292,гам,CyrillTrans,rug,,,"gam, xaliča, sumag",Phonemic
+9-771-64-3,lezg1247,Lezgian,292,халича,CyrillTrans,rug,,,"gam, xaliča, sumag",Phonemic
+9-771-64-5,lezg1247,Lezgian,292,сумаг,CyrillTrans,rug,,,"gam, xaliča, sumag",Phonemic
+9-770-64-1,lezg1247,Lezgian,195,рух,CyrillTrans,mat,,,rux,Phonemic
+9-760-64-1,lezg1247,Lezgian,1539,зинбил,CyrillTrans,basket,,,zinbil,Phonemic
+9-750-64-1,lezg1247,Lezgian,1729,хрун,CyrillTrans,"weave, plait",,,xrun,Phonemic
+9-740-64-1,lezg1247,Lezgian,604,шуьше,CyrillTrans,glass,,,šüše,Phonemic
+9-730-64-1,lezg1247,Lezgian,1399,чеб,CyrillTrans,clay,,,čeb,Phonemic
+9-720-64-1,lezg1247,Lezgian,289,кІалубда тун,CyrillTrans,mold (clay etc),,,kʼalubda tun,Phonemic
+9-710-64-1,lezg1247,Lezgian,359,хъенчІин къапарин устІар,CyrillTrans,potter,,,qenč’in q̄aparin ustʼar,Phonemic
+9-690-64-1,lezg1247,Lezgian,358,кьелечІ ракь,CyrillTrans,"tin, tinplate",,,qʼeleč’ raqʼ,Phonemic
+9-680-64-1,lezg1247,Lezgian,627,кьуркьушум,CyrillTrans,lead (noun),,,qʼurqʼušum,Phonemic
+9-670-64-1,lezg1247,Lezgian,621,ракь,CyrillTrans,iron,,,raqʼ,Phonemic
+9-660-64-1,lezg1247,Lezgian,1825,цур,CyrillTrans,"copper, bronze",,,"cur, bürünž, kišpir",Phonemic
+9-660-64-3,lezg1247,Lezgian,1825,буьруьнж,CyrillTrans,"copper, bronze",,,"cur, bürünž, kišpir",Phonemic
+9-660-64-5,lezg1247,Lezgian,1825,кишпир,CyrillTrans,"copper, bronze",,,"cur, bürünž, kišpir",Phonemic
+9-650-64-1,lezg1247,Lezgian,759,гимиш,CyrillTrans,silver,,,gimiš,Phonemic
+9-640-64-1,lezg1247,Lezgian,1369,къизил,CyrillTrans,gold,,,q̄izil,Phonemic
+9-630-64-1,lezg1247,Lezgian,211,цІурурна кІалубда цана расун,CyrillTrans,cast (metals),,,c’ururna kʼalubda cana rasun,Phonemic
+9-620-64-1,lezg1247,Lezgian,1648,кІавузар,CyrillTrans,anvil,,,kʼawuzar,Phonemic
+9-610-64-1,lezg1247,Lezgian,288,чад,CyrillTrans,forge,,,čad,Phonemic
+9-600-64-1,lezg1247,Lezgian,1001,чатун устІар,CyrillTrans,"smith, blacksmith",,,čatun ustʼar,Phonemic
+9-560-64-1,lezg1247,Lezgian,1069,киленж,CyrillTrans,glue,,,"kilenž, klinž",Phonemic
+9-560-64-3,lezg1247,Lezgian,1069,клинж,CyrillTrans,glue,,,"kilenž, klinž",Phonemic
+9-500-64-1,lezg1247,Lezgian,502,мих,CyrillTrans,nail,,,"mix, mismar",Phonemic
+9-500-64-3,lezg1247,Lezgian,502,мисмар,CyrillTrans,nail,,,"mix, mismar",Phonemic
+9-490-64-1,lezg1247,Lezgian,1481,кІута,CyrillTrans,hammer,,,kʼuta,Phonemic
+9-480-64-1,lezg1247,Lezgian,1948,мишер,CyrillTrans,saw,,,mišer,Phonemic
+9-461-64-1,lezg1247,Lezgian,46,тІеквен акъудун,CyrillTrans,hollow out,,,tʼekʷen aq̄udun,Phonemic
+9-460-64-1,lezg1247,Lezgian,1501,тІеквен,CyrillTrans,bore,,,tʼekʷen,Phonemic
+9-440-64-1,lezg1247,Lezgian,1840,эцигун,CyrillTrans,build,,,ecigun,Phonemic
+9-430-64-1,lezg1247,Lezgian,1042,кІарасдин устІар,CyrillTrans,carpenter,,,kʼarasdin ustʼar,Phonemic
+9-422-64-1,lezg1247,Lezgian,1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-64-1,lezg1247,Lezgian,245,кул,CyrillTrans,broom,,,kul,Phonemic
+9-360-64-1,lezg1247,Lezgian,1453,чуьхуьн,CyrillTrans,wash,,,čüxün,Phonemic
+9-370-64-1,lezg1247,Lezgian,230,шткун,CyrillTrans,sweep,,,štkun,Phonemic
+9-350-64-1,lezg1247,Lezgian,1487,цун,CyrillTrans,pour,,,cun,Phonemic
+9-343-64-1,lezg1247,Lezgian,1414,шуткьунун,CyrillTrans,"squeeze, wring",,,šutqʼunun,Phonemic
+9-342-64-1,lezg1247,Lezgian,1913,илисун,CyrillTrans,press,,,"ilisun, čüqʼün",Phonemic
+9-342-64-3,lezg1247,Lezgian,1913,чуькьуьн,CyrillTrans,press,,,"ilisun, čüqʼün",Phonemic
+9-341-64-1,lezg1247,Lezgian,357,экІйагъун,CyrillTrans,hang up,,,ekʼyaɣun,Phonemic
+9-340-64-1,lezg1247,Lezgian,38,гегьенжрун,CyrillTrans,spread out,,,"gehenžrun, gehenž x̌un, čukʼurun, čukʼun",Phonemic
+9-340-64-3,lezg1247,Lezgian,38,гегьенж хьун,CyrillTrans,spread out,,,"gehenžrun, gehenž x̌un, čukʼurun, čukʼun",Phonemic
+9-340-64-5,lezg1247,Lezgian,38,чукІурун,CyrillTrans,spread out,,,"gehenžrun, gehenž x̌un, čukʼurun, čukʼun",Phonemic
+9-340-64-7,lezg1247,Lezgian,38,чукІун,CyrillTrans,spread out,,,"gehenžrun, gehenž x̌un, čukʼurun, čukʼun",Phonemic
+9-330-64-1,lezg1247,Lezgian,1455,йалун,CyrillTrans,pull,,,"yalun, č’ugun",Phonemic
+9-330-64-3,lezg1247,Lezgian,1455,чІугун,CyrillTrans,pull,,,"yalun, č’ugun",Phonemic
+9-320-64-1,lezg1247,Lezgian,214,йаргъи хьана фин,CyrillTrans,stretch,,,yarɣi x̌ana fin,Phonemic
+9-310-64-1,lezg1247,Lezgian,1449,михьун,CyrillTrans,"rub, wipe",,,mix̌un,Phonemic
+9-290-64-1,lezg1247,Lezgian,291,хам алажун,CyrillTrans,"flay, skin",,,xam alažun,Phonemic
+9-280-64-1,lezg1247,Lezgian,1735,къазунун,CyrillTrans,tear,,,"q̄azunun, kukʼʷarun",Phonemic
+9-280-64-3,lezg1247,Lezgian,1735,кукІварун,CyrillTrans,tear,,,"q̄azunun, kukʼʷarun",Phonemic
+9-270-64-1,lezg1247,Lezgian,1437,гудун,CyrillTrans,split,,,"gudun, qʼʷe pad awun, pad-pad awun",Phonemic
+9-270-64-3,lezg1247,Lezgian,1437,кьве пад авун,CyrillTrans,split,,,"gudun, qʼʷe pad awun, pad-pad awun",Phonemic
+9-270-64-5,lezg1247,Lezgian,1437,пад-пад авун,CyrillTrans,split,,,"gudun, qʼʷe pad awun, pad-pad awun",Phonemic
+9-261-64-1,lezg1247,Lezgian,588,хайи,CyrillTrans,broken,,,"xayi, xanway, kukʼʷarnaway",Phonemic
+9-261-64-3,lezg1247,Lezgian,588,ханвай,CyrillTrans,broken,,,"xayi, xanway, kukʼʷarnaway",Phonemic
+9-261-64-5,lezg1247,Lezgian,588,кукІварнавай,CyrillTrans,broken,,,"xayi, xanway, kukʼʷarnaway",Phonemic
+9-260-64-1,lezg1247,Lezgian,680,хун,CyrillTrans,break,,,"xun, kukʼʷarun",Phonemic
+9-260-64-3,lezg1247,Lezgian,680,кукІварун,CyrillTrans,break,,,"xun, kukʼʷarun",Phonemic
+9-250-64-1,lezg1247,Lezgian,677,йакІв,CyrillTrans,ax,,,"yakʼʷ, nažax",Phonemic
+9-250-64-3,lezg1247,Lezgian,677,нажах,CyrillTrans,ax,,,"yakʼʷ, nažax",Phonemic
+9-251-64-1,lezg1247,Lezgian,290,тесак,CyrillTrans,adze,,,tesak,Phonemic
+9-240-64-1,lezg1247,Lezgian,356,мукІратІ,CyrillTrans,"scissors, shears",,,"mukʼratʼ, q̄ayči",Phonemic
+9-240-64-3,lezg1247,Lezgian,356,къайчи,CyrillTrans,"scissors, shears",,,"mukʼratʼ, q̄ayči",Phonemic
+9-230-64-1,lezg1247,Lezgian,1352,чукІул,CyrillTrans,knife,,,"čukʼul, ništʼer",Phonemic
+9-230-64-3,lezg1247,Lezgian,1352,ништІер,CyrillTrans,knife,,,"čukʼul, ništʼer",Phonemic
+9-223-64-1,lezg1247,Lezgian,1434,сухна тукІун,CyrillTrans,stab,,,"suxna tukʼun, suxna qʼin",Phonemic
+9-223-64-3,lezg1247,Lezgian,1434,сухна кьин,CyrillTrans,stab,,,"suxna tukʼun, suxna qʼin",Phonemic
+9-222-64-1,lezg1247,Lezgian,155,кукІварун,CyrillTrans,"chop, hew",,,kukʼʷarun,Phonemic
+9-221-64-1,lezg1247,Lezgian,355,куьруь авун,CyrillTrans,cut down,,,"kürü awun, tʼimilarun",Phonemic
+9-221-64-3,lezg1247,Lezgian,355,тІимиларун,CyrillTrans,cut down,,,"kürü awun, tʼimilarun",Phonemic
+9-220-64-1,lezg1247,Lezgian,1432,атІун,CyrillTrans,cut,,,atʼun,Phonemic
+9-211-64-1,lezg1247,Lezgian,354,гъуту агъун,CyrillTrans,pound with fist,,,ɣutu aɣun,Phonemic
+9-210-64-1,lezg1247,Lezgian,2133,йагъун,CyrillTrans,"strike (hit, beat)",,,"yaɣun, gatun",Phonemic
+9-210-64-3,lezg1247,Lezgian,2133,гатун,CyrillTrans,"strike (hit, beat)",,,"yaɣun, gatun",Phonemic
+9-192-64-1,lezg1247,Lezgian,760,тІвал,CyrillTrans,knot (noun),,,"tʼʷal, halq̄a",Phonemic
+9-192-64-3,lezg1247,Lezgian,760,гьалкъа,CyrillTrans,knot (noun),,,"tʼʷal, halq̄a",Phonemic
+9-190-64-1,lezg1247,Lezgian,1218,еб (эб),CyrillTrans,"rope, cord",,,"yeb (eb), merez",Phonemic
+9-190-64-3,lezg1247,Lezgian,1218,мерез,CyrillTrans,"rope, cord",,,"yeb (eb), merez",Phonemic
+9-180-64-1,lezg1247,Lezgian,1627,зунжур,CyrillTrans,chain,,,"zunžur, c’irɣ",Phonemic
+9-180-64-3,lezg1247,Lezgian,1627,цІиргъ,CyrillTrans,chain,,,"zunžur, c’irɣ",Phonemic
+9-161-64-1,lezg1247,Lezgian,352,ахъайун,CyrillTrans,untie,,,"aqayun, ačuxun",Phonemic
+9-161-64-3,lezg1247,Lezgian,352,ачухун,CyrillTrans,untie,,,"aqayun, ačuxun",Phonemic
+9-160-64-1,lezg1247,Lezgian,1917,кутІунун,CyrillTrans,"tie, bind",,,kutʼunun,Phonemic
+9-150-64-1,lezg1247,Lezgian,1470,алчудрун,CyrillTrans,fold,,,"alčudrun, alčudarna kʼʷatʼun, kʼʷatʼun",Phonemic
+9-150-64-3,lezg1247,Lezgian,1470,алчударна кІватІун,CyrillTrans,fold,,,"alčudrun, alčudarna kʼʷatʼun, kʼʷatʼun",Phonemic
+9-150-64-5,lezg1247,Lezgian,1470,кІватІун,CyrillTrans,fold,,,"alčudrun, alčudarna kʼʷatʼun, kʼʷatʼun",Phonemic
+9-140-64-1,lezg1247,Lezgian,2004,акІажрун,CyrillTrans,bend,,,"akʼažrun, pataqrun",Phonemic
+9-140-64-3,lezg1247,Lezgian,2004,патахърун,CyrillTrans,bend,,,"akʼažrun, pataqrun",Phonemic
+9-120-64-1,lezg1247,Lezgian,984,кІвалах,CyrillTrans,work,,,kʼʷalax,Phonemic
+9-110-64-1,lezg1247,Lezgian,2575,авун,CyrillTrans,"do, make",,,awun,Phonemic
+8-980-64-1,lezg1247,Lezgian,641,къарникъуз,CyrillTrans,mushroom,,,q̄arniq̄uz,Phonemic
+8-970-64-1,lezg1247,Lezgian,33,верг,CyrillTrans,nettle,,,werg,Phonemic
+8-941-64-1,lezg1247,Lezgian,146,шекердин нацІ,CyrillTrans,sugar cane,,,šekerdin nac’,Phonemic
+8-940-64-1,lezg1247,Lezgian,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-64-1,lezg1247,Lezgian,864,буран (къабах),CyrillTrans,"pumpkin, squash",,,buran (q̄abax),Phonemic
+8-930-64-1,lezg1247,Lezgian,411,къабах,CyrillTrans,gourd,,,"q̄abax, buran",Phonemic
+8-930-64-3,lezg1247,Lezgian,411,буран,CyrillTrans,gourd,,,"q̄abax, buran",Phonemic
+8-920-64-1,lezg1247,Lezgian,925,маниока,CyrillTrans,"tapioca, manioc, cassava",,,"manioka, tanioka",Phonemic
+8-920-64-3,lezg1247,Lezgian,925,таниока,CyrillTrans,"tapioca, manioc, cassava",,,"manioka, tanioka",Phonemic
+8-912-64-1,lezg1247,Lezgian,410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-64-1,lezg1247,Lezgian,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-64-1,lezg1247,Lezgian,346,инжилдин тар,CyrillTrans,banyan,,,inžildin tar,Phonemic
+8-840-64-1,lezg1247,Lezgian,868,банандин тар,CyrillTrans,banana tree,,,banandin tar,Phonemic
+8-830-64-1,lezg1247,Lezgian,1126,цитрусдин емиш,CyrillTrans,citrus fruit,,,citrusdin yemiš,Phonemic
+8-820-64-1,lezg1247,Lezgian,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-64-1,lezg1247,Lezgian,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-64-1,lezg1247,Lezgian,345,кьеж,CyrillTrans,sap,,,qʼež,Phonemic
+8-750-64-1,lezg1247,Lezgian,1204,чкал,CyrillTrans,bark,,,čkal,Phonemic
+8-740-64-1,lezg1247,Lezgian,409,кьвечхел хел,CyrillTrans,forked branch,,,qʼʷečxel xel,Phonemic
+8-730-64-1,lezg1247,Lezgian,344,таран тан,CyrillTrans,tree trunk,,,taran tan,Phonemic
+8-720-64-1,lezg1247,Lezgian,241,кІанчІ,CyrillTrans,tree stump,,,kʼanč’,Phonemic
+8-691-64-1,lezg1247,Lezgian,1124,къалийан,CyrillTrans,pipe,,,q̄aliyan,Phonemic
+8-690-64-1,lezg1247,Lezgian,1689,тенбекдин гум,CyrillTrans,smoke (tobacco),,,tenbekdin gum,Phonemic
+8-680-64-1,lezg1247,Lezgian,974,тенбек,CyrillTrans,tobacco,,,tenbek,Phonemic
+8-670-64-1,lezg1247,Lezgian,343,ципицІрин тегьенг,CyrillTrans,vine,,,cipic’rin teheng,Phonemic
+8-660-64-1,lezg1247,Lezgian,968,мегъв,CyrillTrans,acorn,,,meɣʷ,Phonemic
+8-650-64-1,lezg1247,Lezgian,1915,ель,CyrillTrans,fir,,,"elʲ, pixta",Phonemic
+8-650-64-3,lezg1247,Lezgian,1915,пихта,CyrillTrans,fir,,,"elʲ, pixta",Phonemic
+8-640-64-1,lezg1247,Lezgian,1740,шамагъаж,CyrillTrans,pine,,,"šamaɣaž, narat tar",Phonemic
+8-640-64-3,lezg1247,Lezgian,1740,нарат тар,CyrillTrans,pine,,,"šamaɣaž, narat tar",Phonemic
+8-630-64-1,lezg1247,Lezgian,1855,верхь,CyrillTrans,birch,,,"werx̌, werx̌in tar",Phonemic
+8-630-64-3,lezg1247,Lezgian,1855,верхьин тар,CyrillTrans,birch,,,"werx̌, werx̌in tar",Phonemic
+8-620-64-1,lezg1247,Lezgian,1950,пипин тар,CyrillTrans,beech,,,pipin tar,Phonemic
+8-610-64-1,lezg1247,Lezgian,644,мегъуьн тар,CyrillTrans,oak,,,meɣün tar,Phonemic
+8-600-64-1,lezg1247,Lezgian,906,тар,CyrillTrans,tree,,,tar,Phonemic
+8-570-64-1,lezg1247,Lezgian,239,цуьк,CyrillTrans,flower,,,cük,Phonemic
+8-560-64-1,lezg1247,Lezgian,628,пеш,CyrillTrans,leaf,,,peš,Phonemic
+8-550-64-1,lezg1247,Lezgian,1531,хаьл,CyrillTrans,branch,,,"xäl, tʼʷal",Phonemic
+8-550-64-3,lezg1247,Lezgian,1531,тІвал,CyrillTrans,branch,,,"xäl, tʼʷal",Phonemic
+8-540-64-1,lezg1247,Lezgian,670,пун,CyrillTrans,root,,,"pun, duwul",Phonemic
+8-540-64-3,lezg1247,Lezgian,670,дувул,CyrillTrans,root,,,"pun, duwul",Phonemic
+8-531-64-1,lezg1247,Lezgian,1486,битмишрун,CyrillTrans,plant (vb),,,"bitmišrun, cana agaqʼrun",Phonemic
+8-531-64-3,lezg1247,Lezgian,1486,цана агакьрун,CyrillTrans,plant (vb),,,"bitmišrun, cana agaqʼrun",Phonemic
+8-520-64-1,lezg1247,Lezgian,342,векьер,CyrillTrans,hay,,,weqʼer,Phonemic
+8-530-64-1,lezg1247,Lezgian,653,набатат,CyrillTrans,plant (noun),,,nabatat,Phonemic
+8-510-64-1,lezg1247,Lezgian,606,хъач,CyrillTrans,grass,,,"qač, weqʼ, č’ur",Phonemic
+8-510-64-3,lezg1247,Lezgian,606,векь,CyrillTrans,grass,,,"qač, weqʼ, č’ur",Phonemic
+8-510-64-5,lezg1247,Lezgian,606,чІур,CyrillTrans,grass,,,"qač, weqʼ, č’ur",Phonemic
+8-480-64-1,lezg1247,Lezgian,926,дуьгуь,CyrillTrans,rice,,,dügü,Phonemic
+8-470-64-1,lezg1247,Lezgian,506,гьажибугъда,CyrillTrans,"maize, corn",,,hažibuɣda,Phonemic
+8-460-64-1,lezg1247,Lezgian,60,гергер,CyrillTrans,oats,,,gerger,Phonemic
+8-450-64-1,lezg1247,Lezgian,23,сил,CyrillTrans,rye,,,sil,Phonemic
+8-430-64-1,lezg1247,Lezgian,1077,къуьл,CyrillTrans,wheat,,,q̄ül,Phonemic
+8-440-64-1,lezg1247,Lezgian,932,мух,CyrillTrans,barley,,,mux,Phonemic
+8-420-64-1,lezg1247,Lezgian,605,техил (мух,CyrillTrans,"grain (barley, oats etc)",,,"texil (mux, gerger)",Phonemic
+8-420-64-3,lezg1247,Lezgian,605,гергер),CyrillTrans,"grain (barley, oats etc)",,,"texil (mux, gerger)",Phonemic
+8-410-64-1,lezg1247,Lezgian,611,бегьер,CyrillTrans,"crop, harvest",,,"beher, mahsul",Phonemic
+8-410-64-3,lezg1247,Lezgian,611,магьсул,CyrillTrans,"crop, harvest",,,"beher, mahsul",Phonemic
+8-350-64-1,lezg1247,Lezgian,223,техил гатадай тевле,CyrillTrans,threshing-floor,,,"texil gataday tewle, qʼur, rat",Phonemic
+8-350-64-3,lezg1247,Lezgian,223,кьур,CyrillTrans,threshing-floor,,,"texil gataday tewle, qʼur, rat",Phonemic
+8-350-64-5,lezg1247,Lezgian,223,рат,CyrillTrans,threshing-floor,,,"texil gataday tewle, qʼur, rat",Phonemic
+8-340-64-1,lezg1247,Lezgian,285,йуг гатун,CyrillTrans,thresh,,,yug gatun,Phonemic
+8-330-64-1,lezg1247,Lezgian,2132,дергес,CyrillTrans,"sickle, scythe",,,derges,Phonemic
+8-320-64-1,lezg1247,Lezgian,190,векь йагъун,CyrillTrans,"mow, reap",,,"weqʼ yaɣun, gün",Phonemic
+8-320-64-3,lezg1247,Lezgian,190,гуьн,CyrillTrans,"mow, reap",,,"weqʼ yaɣun, gün",Phonemic
+8-311-64-1,lezg1247,Lezgian,714,тум,CyrillTrans,seed,,,tum,Phonemic
+8-310-64-1,lezg1247,Lezgian,748,цун,CyrillTrans,sow,,,"cun, tum wehin",Phonemic
+8-310-64-3,lezg1247,Lezgian,748,тум вегьин,CyrillTrans,sow,,,"cun, tum wehin",Phonemic
+8-270-64-1,lezg1247,Lezgian,338,цуьруьгъуьл,CyrillTrans,rake,,,cürüɣül,Phonemic
+8-260-64-1,lezg1247,Lezgian,337,кьуьк,CyrillTrans,fork,,,qʼük,Phonemic
+8-250-64-1,lezg1247,Lezgian,284,керки,CyrillTrans,hoe,,,kerki,Phonemic
+8-240-64-1,lezg1247,Lezgian,1901,хекендаз,CyrillTrans,shovel,,,xekendaz,Phonemic
+8-230-64-1,lezg1247,Lezgian,1176,пер,CyrillTrans,spade,,,per,Phonemic
+8-212-64-1,lezg1247,Lezgian,1794,цанвай ник,CyrillTrans,furrow,,,"canway nik, cunin xʷal",Phonemic
+8-212-64-3,lezg1247,Lezgian,1794,цунин хвал,CyrillTrans,furrow,,,"canway nik, cunin xʷal",Phonemic
+8-220-64-1,lezg1247,Lezgian,1418,эгъуьнун,CyrillTrans,dig,,,eɣünun,Phonemic
+8-210-64-1,lezg1247,Lezgian,1921,цан цун,CyrillTrans,plow,,,can cun,Phonemic
+8-170-64-1,lezg1247,Lezgian,2002,хвал,CyrillTrans,ditch,,,"xʷal, q̄ubu, xandakʼ, q̄anaw",Phonemic
+8-170-64-3,lezg1247,Lezgian,2002,къубу,CyrillTrans,ditch,,,"xʷal, q̄ubu, xandakʼ, q̄anaw",Phonemic
+8-170-64-5,lezg1247,Lezgian,2002,хандакІ,CyrillTrans,ditch,,,"xʷal, q̄ubu, xandakʼ, q̄anaw",Phonemic
+8-170-64-7,lezg1247,Lezgian,2002,къанав,CyrillTrans,ditch,,,"xʷal, q̄ubu, xandakʼ, q̄anaw",Phonemic
+8-160-64-1,lezg1247,Lezgian,1690,жагъун,CyrillTrans,fence,,,"žaɣun, paru",Phonemic
+8-160-64-3,lezg1247,Lezgian,1690,пару,CyrillTrans,fence,,,"žaɣun, paru",Phonemic
+8-150-64-1,lezg1247,Lezgian,1541,чил ишлемишун,CyrillTrans,"cultivate, till",,,čil išlemišun,Phonemic
+8-130-64-1,lezg1247,Lezgian,586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-64-1,lezg1247,Lezgian,212,ник,CyrillTrans,field (for cultivation),,,nik,Phonemic
+8-110-64-1,lezg1247,Lezgian,979,фермадин иеси,CyrillTrans,farmer,,,fermadin iesi,Phonemic
+7-640-64-1,lezg1247,Lezgian,901,нагъвар ва хирхем къванер,CyrillTrans,adobe,,,"naɣʷar wa xirxem q̄ʷaner, akadray palčuxdikoy qʼurkʼʷal",Phonemic
+7-640-64-3,lezg1247,Lezgian,901,акадрай палчухдикой кьуркІвал,CyrillTrans,adobe,,,"naɣʷar wa xirxem q̄ʷaner, akadray palčuxdikoy qʼurkʼʷal",Phonemic
+7-630-64-1,lezg1247,Lezgian,224,киреждин раствор,CyrillTrans,mortar,,,kireždin rastwor,Phonemic
+7-620-64-1,lezg1247,Lezgian,1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-64-1,lezg1247,Lezgian,876,тагъ,CyrillTrans,arch,,,taɣ,Phonemic
+7-610-64-1,lezg1247,Lezgian,877,цлан устІар,CyrillTrans,mason,,,clan ustʼar,Phonemic
+7-570-64-1,lezg1247,Lezgian,1227,кьул,CyrillTrans,board,,,"qʼul, taxta",Phonemic
+7-570-64-3,lezg1247,Lezgian,1227,тахта,CyrillTrans,board,,,"qʼul, taxta",Phonemic
+7-560-64-1,lezg1247,Lezgian,281,дестек,CyrillTrans,"post, pole",,,destek,Phonemic
+7-550-64-1,lezg1247,Lezgian,1132,кьуд синен чукьван,CyrillTrans,beam,,,qʼud sinen čuqʼʷan,Phonemic
+7-540-64-1,lezg1247,Lezgian,829,цлан тар,CyrillTrans,rafter,,,clan tar,Phonemic
+7-530-64-1,lezg1247,Lezgian,280,цлан тар,CyrillTrans,ridgepole,,,clan tar,Phonemic
+7-520-64-1,lezg1247,Lezgian,279,сам алай къав,CyrillTrans,thatch,,,sam alay q̄aw,Phonemic
+7-510-64-1,lezg1247,Lezgian,769,къав,CyrillTrans,roof,,,q̄aw,Phonemic
+7-480-64-1,lezg1247,Lezgian,205,чІутхвар,CyrillTrans,trough,,,č’utxʷar,Phonemic
+7-470-64-1,lezg1247,Lezgian,745,кьачІ,CyrillTrans,shelf,,,qʼač’,Phonemic
+7-460-64-1,lezg1247,Lezgian,1273,шем,CyrillTrans,candle,,,šem,Phonemic
+7-450-64-1,lezg1247,Lezgian,2131,фонар,CyrillTrans,"lamp, torch",,,"fonar, fanus",Phonemic
+7-450-64-3,lezg1247,Lezgian,2131,фанус,CyrillTrans,"lamp, torch",,,"fonar, fanus",Phonemic
+7-440-64-1,lezg1247,Lezgian,1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-64-1,lezg1247,Lezgian,1476,стул,CyrillTrans,chair,,,stul,Phonemic
+7-422-64-1,lezg1247,Lezgian,806,йаргъан,CyrillTrans,blanket,,,yarɣan,Phonemic
+7-421-64-1,lezg1247,Lezgian,1044,хъуьцуьган,CyrillTrans,pillow,,,"qücügan, yastux",Phonemic
+7-421-64-3,lezg1247,Lezgian,1044,йастух,CyrillTrans,pillow,,,"qücügan, yastux",Phonemic
+7-420-64-1,lezg1247,Lezgian,1663,чарпай,CyrillTrans,bed,,,"čarpay, krawat",Phonemic
+7-420-64-3,lezg1247,Lezgian,1663,крават,CyrillTrans,bed,,,"čarpay, krawat",Phonemic
+7-370-64-1,lezg1247,Lezgian,1464,гурар,CyrillTrans,ladder,,,gurar,Phonemic
+7-330-64-1,lezg1247,Lezgian,1305,гурмагъ,CyrillTrans,chimney,,,gurmaɣ,Phonemic
+7-320-64-1,lezg1247,Lezgian,859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-64-1,lezg1247,Lezgian,185,камин,CyrillTrans,fireplace,,,"kamin, q̄ul",Phonemic
+7-310-64-3,lezg1247,Lezgian,185,къул,CyrillTrans,fireplace,,,"kamin, q̄ul",Phonemic
+7-270-64-1,lezg1247,Lezgian,933,цал,CyrillTrans,wall,,,cal,Phonemic
+7-260-64-1,lezg1247,Lezgian,1632,кІвалин чил,CyrillTrans,floor,,,kʼʷalin čil,Phonemic
+7-250-64-1,lezg1247,Lezgian,1375,дакІар,CyrillTrans,window,,,"dakʼar, penžer",Phonemic
+7-250-64-3,lezg1247,Lezgian,1375,пенжер,CyrillTrans,window,,,"dakʼar, penžer",Phonemic
+7-240-64-1,lezg1247,Lezgian,1472,куьлег,CyrillTrans,key,,,küleg,Phonemic
+7-231-64-1,lezg1247,Lezgian,1012,тар,CyrillTrans,"latch, door-bolt",,,"tar, čefte",Phonemic
+7-231-64-3,lezg1247,Lezgian,1012,чефте,CyrillTrans,"latch, door-bolt",,,"tar, čefte",Phonemic
+7-230-64-1,lezg1247,Lezgian,1596,тІапІар,CyrillTrans,lock (noun),,,tʼap’ar,Phonemic
+7-221-64-1,lezg1247,Lezgian,80,гуьрцелдин хел,CyrillTrans,"doorpost, jamb",,,"gürceldin xel, gürcel",Phonemic
+7-221-64-3,lezg1247,Lezgian,80,гуьрцел,CyrillTrans,"doorpost, jamb",,,"gürceldin xel, gürcel",Phonemic
+7-210-64-1,lezg1247,Lezgian,1450,кІвал,CyrillTrans,room,,,kʼʷal,Phonemic
+7-220-64-1,lezg1247,Lezgian,1567,рак,CyrillTrans,"door, gate",,,"rak, war, warar, rakʼar",Phonemic
+7-220-64-3,lezg1247,Lezgian,1567,вар,CyrillTrans,"door, gate",,,"rak, war, warar, rakʼar",Phonemic
+7-220-64-5,lezg1247,Lezgian,1567,варар,CyrillTrans,"door, gate",,,"rak, war, warar, rakʼar",Phonemic
+7-220-64-7,lezg1247,Lezgian,1567,ракІар,CyrillTrans,"door, gate",,,"rak, war, warar, rakʼar",Phonemic
+7-180-64-1,lezg1247,Lezgian,335,инсанар кІватІ жедай кІвал,CyrillTrans,meeting house,,,insanar kʼʷatʼ žeday kʼʷal,Phonemic
+7-170-64-1,lezg1247,Lezgian,334,цІун-кІвал,CyrillTrans,cookhouse,,,"c’un-kʼʷal, xürekar iyiday kʼʷal",Phonemic
+7-170-64-3,lezg1247,Lezgian,334,хуьрекар ийидай кІвал,CyrillTrans,cookhouse,,,"c’un-kʼʷal, xürekar iyiday kʼʷal",Phonemic
+7-160-64-1,lezg1247,Lezgian,408,итимар жедай кІвал,CyrillTrans,men's house,,,itimar žeday kʼʷal,Phonemic
+7-150-64-1,lezg1247,Lezgian,736,гьайат,CyrillTrans,"yard, court",,,hayat,Phonemic
+7-140-64-1,lezg1247,Lezgian,1316,алачух,CyrillTrans,tent,,,alačux,Phonemic
+7-131-64-1,lezg1247,Lezgian,403,дачада жедай кІвал,CyrillTrans,garden-house,,,dačada žeday kʼʷal,Phonemic
+7-130-64-1,lezg1247,Lezgian,1678,къазма,CyrillTrans,hut,,,"q̄azma, ɣʷeč’i kʼʷal",Phonemic
+7-130-64-3,lezg1247,Lezgian,1678,гъвечІи кІвал,CyrillTrans,hut,,,"q̄azma, ɣʷeč’i kʼʷal",Phonemic
+7-120-64-1,lezg1247,Lezgian,1252,кІвал,CyrillTrans,house,,,kʼʷal,Phonemic
+7-110-64-1,lezg1247,Lezgian,363,йашамиш хьун,CyrillTrans,"dwell, live",,,"yašamiš x̌un, dulanmiš x̌un",Phonemic
+7-110-64-3,lezg1247,Lezgian,363,дуланмиш хьун,CyrillTrans,"dwell, live",,,"yašamiš x̌un, dulanmiš x̌un",Phonemic
+6-960-64-1,lezg1247,Lezgian,1171,гуьзгуь,CyrillTrans,mirror,,,güzgü,Phonemic
+6-950-64-1,lezg1247,Lezgian,788,запун,CyrillTrans,soap,,,zapun,Phonemic
+6-940-64-1,lezg1247,Lezgian,1926,йагъ,CyrillTrans,ointment,,,"yaɣ, melhyam",Phonemic
+6-940-64-3,lezg1247,Lezgian,1926,мелгьйам,CyrillTrans,ointment,,,"yaɣ, melhyam",Phonemic
+6-930-64-1,lezg1247,Lezgian,151,уьлгуьч,CyrillTrans,razor,,,"ülgüč, čuruyar tʷaday čukʼul",Phonemic
+6-930-64-3,lezg1247,Lezgian,151,чуруйар твадай чукІул,CyrillTrans,razor,,,"ülgüč, čuruyar tʷaday čukʼul",Phonemic
+6-921-64-1,lezg1247,Lezgian,333,киф,CyrillTrans,braid,,,kif,Phonemic
+6-920-64-1,lezg1247,Lezgian,1821,регъ,CyrillTrans,brush,,,reɣ,Phonemic
+6-910-64-1,lezg1247,Lezgian,1475,регъ,CyrillTrans,comb,,,reɣ,Phonemic
+6-820-64-1,lezg1247,Lezgian,1021,тасмал,CyrillTrans,towel,,,tasmal,Phonemic
+6-810-64-1,lezg1247,Lezgian,332,жибиндин йагълух,CyrillTrans,"handkerchief, rag",,,žibindin yaɣlux,Phonemic
+6-790-64-1,lezg1247,Lezgian,68,суьрет,CyrillTrans,tattoo,,,süret,Phonemic
+6-780-64-1,lezg1247,Lezgian,330,кьилел алукІдай затІ,CyrillTrans,"headband, headdress",,,qʼilel alukʼday zatʼ,Phonemic
+6-770-64-1,lezg1247,Lezgian,770,йапагьан,CyrillTrans,earring,,,yapahan,Phonemic
+6-760-64-1,lezg1247,Lezgian,1860,хат,CyrillTrans,bead,,,xat,Phonemic
+6-750-64-1,lezg1247,Lezgian,1961,гарданлух,CyrillTrans,necklace,,,"gardanlux, yaxa, xtar",Phonemic
+6-750-64-3,lezg1247,Lezgian,1961,йаха,CyrillTrans,necklace,,,"gardanlux, yaxa, xtar",Phonemic
+6-750-64-5,lezg1247,Lezgian,1961,хтар,CyrillTrans,necklace,,,"gardanlux, yaxa, xtar",Phonemic
+6-740-64-1,lezg1247,Lezgian,1754,цам,CyrillTrans,bracelet,,,cam,Phonemic
+6-730-64-1,lezg1247,Lezgian,1374,тупІал,CyrillTrans,ring (for finger),,,"tup’al, q̄aš away tup’al",Phonemic
+6-730-64-3,lezg1247,Lezgian,1374,къаш авай тупІал,CyrillTrans,ring (for finger),,,"tup’al, q̄aš away tup’al",Phonemic
+6-720-64-1,lezg1247,Lezgian,1029,къаш,CyrillTrans,jewel,,,"q̄aš, yuwelirdin zatʼ",Phonemic
+6-720-64-3,lezg1247,Lezgian,1029,йувелирдин затІ,CyrillTrans,jewel,,,"q̄aš, yuwelirdin zatʼ",Phonemic
+6-710-64-1,lezg1247,Lezgian,917,безег,CyrillTrans,"ornament, adornment",,,"bezeg, nexiš",Phonemic
+6-710-64-3,lezg1247,Lezgian,917,нехиш,CyrillTrans,"ornament, adornment",,,"bezeg, nexiš",Phonemic
+6-630-64-1,lezg1247,Lezgian,64,санжах,CyrillTrans,pin,,,sanžax,Phonemic
+6-620-64-1,lezg1247,Lezgian,757,седеф,CyrillTrans,button,,,sedef,Phonemic
+6-610-64-1,lezg1247,Lezgian,1851,жибин,CyrillTrans,pocket,,,žibin,Phonemic
+6-590-64-1,lezg1247,Lezgian,1151,назик къир,CyrillTrans,veil,,,nazik q̄ir,Phonemic
+6-580-64-1,lezg1247,Lezgian,867,бегьле,CyrillTrans,glove,,,behle,Phonemic
+6-570-64-1,lezg1247,Lezgian,772,чІул,CyrillTrans,"belt, girdle",,,č’ul,Phonemic
+6-550-64-1,lezg1247,Lezgian,2130,шлйапа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-64-1,lezg1247,Lezgian,875,чекмечи,CyrillTrans,"shoemaker, cobbler",,,čekmeči,Phonemic
+6-510-64-1,lezg1247,Lezgian,1381,туфли,CyrillTrans,shoe,,,tufli,Phonemic
+6-520-64-1,lezg1247,Lezgian,585,ботинка,CyrillTrans,boot,,,botinka,Phonemic
+6-490-64-1,lezg1247,Lezgian,329,гуьлуьт,CyrillTrans,"stocking, sock",,,"gülüt, kürü kux galay gülüt",Phonemic
+6-490-64-3,lezg1247,Lezgian,329,куьруь кух галай гуьлуьт,CyrillTrans,"stocking, sock",,,"gülüt, kürü kux galay gülüt",Phonemic
+6-480-64-1,lezg1247,Lezgian,809,шалвар,CyrillTrans,trousers,,,šalwar,Phonemic
+6-461-64-1,lezg1247,Lezgian,328,пешеркай авунвай йубка,CyrillTrans,grass-skirt,,,pešerkay awunway yubka,Phonemic
+6-460-64-1,lezg1247,Lezgian,1600,йубка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-64-1,lezg1247,Lezgian,2012,хев,CyrillTrans,collar,,,xew,Phonemic
+6-440-64-1,lezg1247,Lezgian,1622,перем,CyrillTrans,shirt,,,perem,Phonemic
+6-430-64-1,lezg1247,Lezgian,603,палту,CyrillTrans,coat,,,paltu,Phonemic
+6-420-64-1,lezg1247,Lezgian,474,блушка,CyrillTrans,woman's dress,,,bluška,Phonemic
+6-411-64-1,lezg1247,Lezgian,327,пончо,CyrillTrans,poncho,,,pončo,Phonemic
+6-390-64-1,lezg1247,Lezgian,157,ранг,CyrillTrans,dye,,,rang,Phonemic
+6-410-64-1,lezg1247,Lezgian,326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-64-1,lezg1247,Lezgian,1161,гъал,CyrillTrans,thread,,,ɣal,Phonemic
+6-360-64-1,lezg1247,Lezgian,1382,раб,CyrillTrans,needle,,,rab,Phonemic
+6-370-64-1,lezg1247,Lezgian,278,риб,CyrillTrans,awl,,,rib,Phonemic
+6-350-64-1,lezg1247,Lezgian,1457,цун,CyrillTrans,sew,,,"cun, cʷalar awun",Phonemic
+6-350-64-3,lezg1247,Lezgian,1457,цвалар авун,CyrillTrans,sew,,,"cun, cʷalar awun",Phonemic
+6-340-64-1,lezg1247,Lezgian,1787,гам храдай тарар,CyrillTrans,loom,,,"gam xraday tarar, parča xraday tarar",Phonemic
+6-340-64-3,lezg1247,Lezgian,1787,парча храдай тарар,CyrillTrans,loom,,,"gam xraday tarar, parča xraday tarar",Phonemic
+6-330-64-1,lezg1247,Lezgian,133,хурун,CyrillTrans,weave,,,xurun,Phonemic
+6-320-64-1,lezg1247,Lezgian,277,тупучІ,CyrillTrans,spindle,,,tupuč’,Phonemic
+6-310-64-1,lezg1247,Lezgian,121,гъал авун,CyrillTrans,spin,,,"ɣal awun, ɣalariz, zʷer gun",Phonemic
+6-310-64-3,lezg1247,Lezgian,121,гъалариз,CyrillTrans,spin,,,"ɣal awun, ɣalariz, zʷer gun",Phonemic
+6-310-64-5,lezg1247,Lezgian,121,звер гун,CyrillTrans,spin,,,"ɣal awun, ɣalariz, zʷer gun",Phonemic
+6-290-64-1,lezg1247,Lezgian,629,хам,CyrillTrans,leather,,,xam,Phonemic
+6-280-64-1,lezg1247,Lezgian,580,расай хам,CyrillTrans,fur,,,"rasay xam, xaz",Phonemic
+6-280-64-3,lezg1247,Lezgian,580,хаз,CyrillTrans,fur,,,"rasay xam, xaz",Phonemic
+6-270-64-1,lezg1247,Lezgian,325,лит,CyrillTrans,felt,,,lit,Phonemic
+6-250-64-1,lezg1247,Lezgian,1641,пек,CyrillTrans,silk,,,"pek, ipek",Phonemic
+6-250-64-3,lezg1247,Lezgian,1641,ипек,CyrillTrans,silk,,,"pek, ipek",Phonemic
+6-240-64-1,lezg1247,Lezgian,1850,памбагдин парча,CyrillTrans,cotton,,,pambagdin parča,Phonemic
+6-230-64-1,lezg1247,Lezgian,916,кушун парча,CyrillTrans,"linen, flax",,,"kušun parča, ketendin parča",Phonemic
+6-230-64-3,lezg1247,Lezgian,916,кетендин парча,CyrillTrans,"linen, flax",,,"kušun parča, ketendin parča",Phonemic
+6-220-64-1,lezg1247,Lezgian,964,сун парча,CyrillTrans,wool,,,sun parča,Phonemic
+6-210-64-1,lezg1247,Lezgian,1616,парча,CyrillTrans,cloth,,,"parča, xray zatʼ",Phonemic
+6-210-64-3,lezg1247,Lezgian,1616,храй затІ,CyrillTrans,cloth,,,"parča, xray zatʼ",Phonemic
+6-130-64-1,lezg1247,Lezgian,881,дерзичи,CyrillTrans,tailor,,,"derziči, partalar cʷadaydi",Phonemic
+6-130-64-3,lezg1247,Lezgian,881,парталар цвадайди,CyrillTrans,tailor,,,"derziči, partalar cʷadaydi",Phonemic
+6-120-64-1,lezg1247,Lezgian,1895,партал,CyrillTrans,"clothing, clothes",,,partal,Phonemic
+6-110-64-1,lezg1247,Lezgian,158,алукІун,CyrillTrans,put on (clothes),,,alukʼun,Phonemic
+5-971-64-1,lezg1247,Lezgian,1556,къиб,CyrillTrans,egg yolk,,,q̄ib,Phonemic
+5-970-64-1,lezg1247,Lezgian,744,кака,CyrillTrans,egg,,,kaka,Phonemic
+5-940-64-1,lezg1247,Lezgian,404,брага,CyrillTrans,fermented drink,,,braga,Phonemic
+5-930-64-1,lezg1247,Lezgian,1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-64-1,lezg1247,Lezgian,1524,чехир,CyrillTrans,wine,,,čexir,Phonemic
+5-910-64-1,lezg1247,Lezgian,941,вирт,CyrillTrans,mead,,,wirt,Phonemic
+5-900-64-1,lezg1247,Lezgian,731,хъвадай затІ,CyrillTrans,"beverage, drink",,,qʷaday zatʼ,Phonemic
+5-890-64-1,lezg1247,Lezgian,1245,дуьдгъвер,CyrillTrans,butter,,,düdɣʷer,Phonemic
+5-880-64-1,lezg1247,Lezgian,1569,ниси,CyrillTrans,cheese,,,nisi,Phonemic
+5-870-64-1,lezg1247,Lezgian,93,ацун,CyrillTrans,milk (vb),,,acun,Phonemic
+5-850-64-1,lezg1247,Lezgian,862,шекер,CyrillTrans,sugar,,,šeker,Phonemic
+5-860-64-1,lezg1247,Lezgian,635,нек,CyrillTrans,milk (noun),,,nek,Phonemic
+5-840-64-1,lezg1247,Lezgian,942,вирт,CyrillTrans,honey,,,wirt,Phonemic
+5-821-64-1,lezg1247,Lezgian,919,кудай истивут,CyrillTrans,chili pepper,,,kuday istiwut,Phonemic
+5-820-64-1,lezg1247,Lezgian,1385,истивут,CyrillTrans,pepper,,,istiwut,Phonemic
+5-810-64-1,lezg1247,Lezgian,1274,кьел,CyrillTrans,salt,,,qʼel,Phonemic
+5-791-64-1,lezg1247,Lezgian,323,пи,CyrillTrans,"grease, fat",,,"pi, quc’ur, maqʼ",Phonemic
+5-791-64-3,lezg1247,Lezgian,323,хъуцІур,CyrillTrans,"grease, fat",,,"pi, quc’ur, maqʼ",Phonemic
+5-791-64-5,lezg1247,Lezgian,323,макь,CyrillTrans,"grease, fat",,,"pi, quc’ur, maqʼ",Phonemic
+5-790-64-1,lezg1247,Lezgian,1484,чІем,CyrillTrans,oil,,,"č’em, ɣeri",Phonemic
+5-790-64-3,lezg1247,Lezgian,1484,гъери,CyrillTrans,oil,,,"č’em, ɣeri",Phonemic
+5-780-64-1,lezg1247,Lezgian,1154,зейтундин тар,CyrillTrans,olive,,,zeytundin tar,Phonemic
+5-760-64-1,lezg1247,Lezgian,920,ципицІар,CyrillTrans,grape,,,cipic’ar,Phonemic
+5-770-64-1,lezg1247,Lezgian,191,кІерец,CyrillTrans,nut,,,"kʼerec, šümyaɣ",Phonemic
+5-770-64-3,lezg1247,Lezgian,191,шуьмйагъ,CyrillTrans,nut,,,"kʼerec, šümyaɣ",Phonemic
+5-750-64-1,lezg1247,Lezgian,322,инжил,CyrillTrans,fig,,,inžil,Phonemic
+5-712-64-1,lezg1247,Lezgian,1966,кул,CyrillTrans,bunch,,,"kul, galgam",Phonemic
+5-712-64-3,lezg1247,Lezgian,1966,галгам,CyrillTrans,bunch,,,"kul, galgam",Phonemic
+5-710-64-1,lezg1247,Lezgian,1507,емиш,CyrillTrans,fruit,,,yemiš,Phonemic
+5-700-64-1,lezg1247,Lezgian,593,картуфар,CyrillTrans,potato,,,kartufar,Phonemic
+5-660-64-1,lezg1247,Lezgian,832,пахла,CyrillTrans,bean,,,paxla,Phonemic
+5-650-64-1,lezg1247,Lezgian,924,салан мейвайар,CyrillTrans,vegetables,,,salan meywayar,Phonemic
+5-640-64-1,lezg1247,Lezgian,1547,шурпа,CyrillTrans,"soup, broth",,,"šurpa, buzbaš",Phonemic
+5-640-64-3,lezg1247,Lezgian,1547,бузбаш,CyrillTrans,"soup, broth",,,"šurpa, buzbaš",Phonemic
+5-630-64-1,lezg1247,Lezgian,1874,дулдурма,CyrillTrans,sausage,,,"duldurma, sosiska",Phonemic
+5-630-64-3,lezg1247,Lezgian,1874,сосиска,CyrillTrans,sausage,,,"duldurma, sosiska",Phonemic
+5-610-64-1,lezg1247,Lezgian,634,йак,CyrillTrans,meat,,,yak,Phonemic
+5-590-64-1,lezg1247,Lezgian,225,гъвечІи десте,CyrillTrans,pestle,,,"ɣʷeč’i deste, tarkʷ",Phonemic
+5-590-64-3,lezg1247,Lezgian,225,таркв,CyrillTrans,pestle,,,"ɣʷeč’i deste, tarkʷ",Phonemic
+5-580-64-1,lezg1247,Lezgian,224,гьевенг,CyrillTrans,mortar (2),,,"heweng, takʼʷ",Phonemic
+5-580-64-3,lezg1247,Lezgian,224,такІв,CyrillTrans,mortar (2),,,"heweng, takʼʷ",Phonemic
+5-570-64-1,lezg1247,Lezgian,636,регъв,CyrillTrans,mill,,,reɣʷ,Phonemic
+5-560-64-1,lezg1247,Lezgian,1033,куьлуь авун,CyrillTrans,"crush, grind",,,"külü awun, bünžüqʼrun",Phonemic
+5-560-64-3,lezg1247,Lezgian,1033,буьнжуькьрун,CyrillTrans,"crush, grind",,,"külü awun, bünžüqʼrun",Phonemic
+5-550-64-1,lezg1247,Lezgian,1594,гъуьр,CyrillTrans,"meal, flour",,,ɣür,Phonemic
+5-540-64-1,lezg1247,Lezgian,274,ишинун (тини),CyrillTrans,knead,,,išinun (tini),Phonemic
+5-530-64-1,lezg1247,Lezgian,273,тини,CyrillTrans,dough,,,tini,Phonemic
+5-510-64-1,lezg1247,Lezgian,1368,фу,CyrillTrans,bread,,,fu,Phonemic
+5-490-64-1,lezg1247,Lezgian,2017,хкуьрун,CyrillTrans,"stir, mix",,,xkürun,Phonemic
+5-480-64-1,lezg1247,Lezgian,1767,къадгъунун,CyrillTrans,scrape,,,q̄adɣunun,Phonemic
+5-470-64-1,lezg1247,Lezgian,86,суьзмишун,CyrillTrans,"sieve, strain",,,"süzmišun, safunay yaɣun",Phonemic
+5-470-64-3,lezg1247,Lezgian,86,сафунай йагъун,CyrillTrans,"sieve, strain",,,"süzmišun, safunay yaɣun",Phonemic
+5-460-64-1,lezg1247,Lezgian,275,аладрун (салан мейвайар),CyrillTrans,peel,,,aladrun (salan meywayar),Phonemic
+5-450-64-1,lezg1247,Lezgian,1833,нйанин хуьрек,CyrillTrans,supper,,,"nyanin xürek, nyanin tʼün",Phonemic
+5-450-64-3,lezg1247,Lezgian,1833,нйанин тІуьн,CyrillTrans,supper,,,"nyanin xürek, nyanin tʼün",Phonemic
+5-440-64-1,lezg1247,Lezgian,1833,нишсинин хуьрек,CyrillTrans,dinner,,,nišsinin xürek,Phonemic
+5-420-64-1,lezg1247,Lezgian,1322,нагьар,CyrillTrans,breakfast,,,"nahar, zawtrak",Phonemic
+5-420-64-3,lezg1247,Lezgian,1322,завтрак,CyrillTrans,breakfast,,,"nahar, zawtrak",Phonemic
+5-410-64-1,lezg1247,Lezgian,1526,тІуьн,CyrillTrans,meal (a),,,tʼün,Phonemic
+5-391-64-1,lezg1247,Lezgian,272,хех,CyrillTrans,tongs,,,"xex, maša",Phonemic
+5-391-64-3,lezg1247,Lezgian,272,маша,CyrillTrans,tongs,,,"xex, maša",Phonemic
+5-390-64-1,lezg1247,Lezgian,1302,кьал,CyrillTrans,fork (2),,,qʼal,Phonemic
+5-380-64-1,lezg1247,Lezgian,1352,чукІул,CyrillTrans,knife (2),,,čukʼul,Phonemic
+5-370-64-1,lezg1247,Lezgian,1378,тІур,CyrillTrans,spoon,,,tʼur,Phonemic
+5-360-64-1,lezg1247,Lezgian,271,чайдин буш къаб,CyrillTrans,saucer,,,čaydin buš q̄ab,Phonemic
+5-350-64-1,lezg1247,Lezgian,476,сукІра,CyrillTrans,"cup, drinking vessel",,,"sukʼra, badi",Phonemic
+5-350-64-3,lezg1247,Lezgian,476,бади,CyrillTrans,"cup, drinking vessel",,,"sukʼra, badi",Phonemic
+5-330-64-1,lezg1247,Lezgian,1530,бади,CyrillTrans,bowl,,,badi,Phonemic
+5-340-64-1,lezg1247,Lezgian,270,хъенчІин квар,CyrillTrans,"pitcher, jug",,,qenč’in kʷar,Phonemic
+5-320-64-1,lezg1247,Lezgian,480,буш къаб,CyrillTrans,plate,,,buš q̄ab,Phonemic
+5-310-64-1,lezg1247,Lezgian,481,йеке буш къаб,CyrillTrans,dish,,,yeke buš q̄ab,Phonemic
+5-280-64-1,lezg1247,Lezgian,31,къажгъан,CyrillTrans,pan,,,q̄ažɣan,Phonemic
+5-260-64-1,lezg1247,Lezgian,1462,чуква,CyrillTrans,"pot, cooking vessel",,,"čukʷa, ɣʷeč’i q̄ažɣan",Phonemic
+5-260-64-3,lezg1247,Lezgian,1462,гъвечІи къажгъан,CyrillTrans,"pot, cooking vessel",,,"čukʷa, ɣʷeč’i q̄ažɣan",Phonemic
+5-270-64-1,lezg1247,Lezgian,854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-64-1,lezg1247,Lezgian,183,чурун,CyrillTrans,bake,,,čurun,Phonemic
+5-250-64-1,lezg1247,Lezgian,1143,пич,CyrillTrans,oven,,,pič,Phonemic
+5-230-64-1,lezg1247,Lezgian,2146,чурун,CyrillTrans,"roast, fry",,,"čurun, q̄awurmišun",Phonemic
+5-230-64-3,lezg1247,Lezgian,2146,къавурмишун,CyrillTrans,"roast, fry",,,"čurun, q̄awurmišun",Phonemic
+5-220-64-1,lezg1247,Lezgian,792,ругун,CyrillTrans,boil (vb),,,rugun,Phonemic
+5-210-64-1,lezg1247,Lezgian,1100,ругун,CyrillTrans,cook,,,rugun,Phonemic
+5-190-64-1,lezg1247,Lezgian,129,бамишарун,CyrillTrans,choke,,,"bamišarun, nefes dar x̌un",Phonemic
+5-190-64-3,lezg1247,Lezgian,129,нефес дар хьун,CyrillTrans,choke,,,"bamišarun, nefes dar x̌un",Phonemic
+5-181-64-1,lezg1247,Lezgian,897,туькьуьнун,CyrillTrans,swallow,,,tüqʼünun,Phonemic
+5-180-64-1,lezg1247,Lezgian,321,жакьун,CyrillTrans,chew,,,žaqʼun,Phonemic
+5-160-64-1,lezg1247,Lezgian,1421,фитІинун,CyrillTrans,suck,,,"fitʼinun, č’ugun",Phonemic
+5-160-64-3,lezg1247,Lezgian,1421,чІугун,CyrillTrans,suck,,,"fitʼinun, č’ugun",Phonemic
+5-150-64-1,lezg1247,Lezgian,848,цихъ къанихвал,CyrillTrans,thirst,,,ciq q̄anixʷal,Phonemic
+5-141-64-1,lezg1247,Lezgian,199,каш чІугун,CyrillTrans,famine,,,kaš č’ugun,Phonemic
+5-140-64-1,lezg1247,Lezgian,1864,каш,CyrillTrans,hunger,,,"kaš, gišinwal",Phonemic
+5-140-64-3,lezg1247,Lezgian,1864,гишинвал,CyrillTrans,hunger,,,"kaš, gišinwal",Phonemic
+5-130-64-1,lezg1247,Lezgian,1401,хъун,CyrillTrans,drink,,,qun,Phonemic
+5-125-64-1,lezg1247,Lezgian,1728,ктІай,CyrillTrans,rotten,,,ktʼay,Phonemic
+5-124-64-1,lezg1247,Lezgian,1958,дигмиш тахьай,CyrillTrans,"green, unripe",,,"digmiš tax̌ay, čurun tawur, q̄acu",Phonemic
+5-124-64-3,lezg1247,Lezgian,1958,чурун тавур,CyrillTrans,"green, unripe",,,"digmiš tax̌ay, čurun tawur, q̄acu",Phonemic
+5-124-64-5,lezg1247,Lezgian,1958,къацу,CyrillTrans,"green, unripe",,,"digmiš tax̌ay, čurun tawur, q̄acu",Phonemic
+5-123-64-1,lezg1247,Lezgian,178,дигмиш хьайи,CyrillTrans,ripe,,,"digmiš x̌ayi, bitmiš x̌ayi, čray",Phonemic
+5-123-64-3,lezg1247,Lezgian,178,битмиш хьайи,CyrillTrans,ripe,,,"digmiš x̌ayi, bitmiš x̌ayi, čray",Phonemic
+5-123-64-5,lezg1247,Lezgian,178,чрай,CyrillTrans,ripe,,,"digmiš x̌ayi, bitmiš x̌ayi, čray",Phonemic
+5-122-64-1,lezg1247,Lezgian,1959,ицІи,CyrillTrans,raw,,,ic’i,Phonemic
+5-121-64-1,lezg1247,Lezgian,269,ргай,CyrillTrans,cooked,,,rgay,Phonemic
+5-120-64-1,lezg1247,Lezgian,256,тІун,CyrillTrans,food,,,"tʼun, xürek",Phonemic
+5-120-64-3,lezg1247,Lezgian,256,хуьрек,CyrillTrans,food,,,"tʼun, xürek",Phonemic
+5-110-64-1,lezg1247,Lezgian,1336,тІуьн,CyrillTrans,eat,,,tʼün,Phonemic
+4-990-64-1,lezg1247,Lezgian,590,кьецІил,CyrillTrans,"naked, bare",,,"qʼec’il, čuplax",Phonemic
+4-990-64-3,lezg1247,Lezgian,590,чуплах,CyrillTrans,"naked, bare",,,"qʼec’il, čuplax",Phonemic
+4-970-64-1,lezg1247,Lezgian,1653,буьркьуь,CyrillTrans,blind,,,bürqʼü,Phonemic
+4-980-64-1,lezg1247,Lezgian,1463,пийан,CyrillTrans,intoxicated,,,"piyan, piyandi",Phonemic
+4-980-64-3,lezg1247,Lezgian,1463,пийанди,CyrillTrans,intoxicated,,,"piyan, piyandi",Phonemic
+4-960-64-1,lezg1247,Lezgian,1666,лал,CyrillTrans,mute,,,lal,Phonemic
+4-950-64-1,lezg1247,Lezgian,996,биши,CyrillTrans,deaf,,,"biši, bišidi",Phonemic
+4-950-64-3,lezg1247,Lezgian,996,бишиди,CyrillTrans,deaf,,,"biši, bišidi",Phonemic
+4-930-64-1,lezg1247,Lezgian,1125,кьилелай чІар фенвай,CyrillTrans,bald,,,qʼilelay č’ar fenway,Phonemic
+4-940-64-1,lezg1247,Lezgian,320,кьецІивал авун,CyrillTrans,lame,,,qʼec’iwal awun,Phonemic
+4-920-64-1,lezg1247,Lezgian,1564,тенпел,CyrillTrans,lazy,,,"tenpel, kahul",Phonemic
+4-920-64-3,lezg1247,Lezgian,1564,кагьул,CyrillTrans,lazy,,,"tenpel, kahul",Phonemic
+4-912-64-1,lezg1247,Lezgian,168,йал йагъун,CyrillTrans,rest,,,yal yaɣun,Phonemic
+4-910-64-1,lezg1247,Lezgian,1757,галатай,CyrillTrans,"tired, weary",,,"galatay, galatnaway, yurɣun",Phonemic
+4-910-64-3,lezg1247,Lezgian,1757,галатнавай,CyrillTrans,"tired, weary",,,"galatay, galatnaway, yurɣun",Phonemic
+4-910-64-5,lezg1247,Lezgian,1757,йургъун,CyrillTrans,"tired, weary",,,"galatay, galatnaway, yurɣun",Phonemic
+4-890-64-1,lezg1247,Lezgian,655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-64-1,lezg1247,Lezgian,1372,дарман,CyrillTrans,"medicine, drug",,,darman,Phonemic
+4-870-64-1,lezg1247,Lezgian,597,духтур,CyrillTrans,physician,,,"duxtur, wrač",Phonemic
+4-870-64-3,lezg1247,Lezgian,597,врач,CyrillTrans,physician,,,"duxtur, wrač",Phonemic
+4-860-64-1,lezg1247,Lezgian,499,сагърун,CyrillTrans,"cure, heal",,,"saɣrun, darmanar gun",Phonemic
+4-860-64-3,lezg1247,Lezgian,499,дарманар гун,CyrillTrans,"cure, heal",,,"saɣrun, darmanar gun",Phonemic
+4-858-64-1,lezg1247,Lezgian,497,сагъ хьайи хирен лишан,CyrillTrans,scar,,,saɣ x̌ayi xiren lišan,Phonemic
+4-857-64-1,lezg1247,Lezgian,1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-64-1,lezg1247,Lezgian,793,чІехи буьвел,CyrillTrans,boil (noun),,,č’exi büwel,Phonemic
+4-855-64-1,lezg1247,Lezgian,1584,куркур,CyrillTrans,blister,,,kurkur,Phonemic
+4-854-64-1,lezg1247,Lezgian,148,квал,CyrillTrans,itch,,,kʷal,Phonemic
+4-853-64-1,lezg1247,Lezgian,1903,дакІур чка,CyrillTrans,swelling,,,dakʼur čka,Phonemic
+4-852-64-1,lezg1247,Lezgian,1148,тІарвал хьайи чка,CyrillTrans,bruise,,,tʼarwal x̌ayi čka,Phonemic
+4-850-64-1,lezg1247,Lezgian,1109,хер,CyrillTrans,"wound, sore",,,"xer, irin q̄ʷeday xer",Phonemic
+4-850-64-3,lezg1247,Lezgian,1109,ирин къведай хер,CyrillTrans,"wound, sore",,,"xer, irin q̄ʷeday xer",Phonemic
+4-843-64-1,lezg1247,Lezgian,102,мекьи хьун,CyrillTrans,cold (catarrh),,,"meqʼi x̌un, meqʼiwal",Phonemic
+4-843-64-3,lezg1247,Lezgian,102,мекьивал,CyrillTrans,cold (catarrh),,,"meqʼi x̌un, meqʼiwal",Phonemic
+4-842-64-1,lezg1247,Lezgian,1957,туьтуьнин хат,CyrillTrans,goiter,,,tütünin xat,Phonemic
+4-841-64-1,lezg1247,Lezgian,1534,ифин,CyrillTrans,fever,,,"ifin, ful (c’ay) akatun",Phonemic
+4-841-64-3,lezg1247,Lezgian,1534,фул (цІай) акатун,CyrillTrans,fever,,,"ifin, ful (c’ay) akatun",Phonemic
+4-840-64-1,lezg1247,Lezgian,1847,азарлу,CyrillTrans,"sick, sickness",,,"azarlu, kefsuz, azar, tʼal",Phonemic
+4-840-64-3,lezg1247,Lezgian,1847,кефсуз,CyrillTrans,"sick, sickness",,,"azarlu, kefsuz, azar, tʼal",Phonemic
+4-840-64-5,lezg1247,Lezgian,1847,азар,CyrillTrans,"sick, sickness",,,"azarlu, kefsuz, azar, tʼal",Phonemic
+4-840-64-7,lezg1247,Lezgian,1847,тІал,CyrillTrans,"sick, sickness",,,"azarlu, kefsuz, azar, tʼal",Phonemic
+4-830-64-1,lezg1247,Lezgian,1364,сагъ,CyrillTrans,"well, health",,,"saɣ, saɣwal",Phonemic
+4-830-64-3,lezg1247,Lezgian,1364,сагъвал,CyrillTrans,"well, health",,,"saɣ, saɣwal",Phonemic
+4-820-64-1,lezg1247,Lezgian,1601,зайиф,CyrillTrans,weak,,,"zayif, q̄uwatsuz, taqʼatsuz",Phonemic
+4-820-64-3,lezg1247,Lezgian,1601,къуватсуз,CyrillTrans,weak,,,"zayif, q̄uwatsuz, taqʼatsuz",Phonemic
+4-820-64-5,lezg1247,Lezgian,1601,такьатсуз,CyrillTrans,weak,,,"zayif, q̄uwatsuz, taqʼatsuz",Phonemic
+4-810-64-1,lezg1247,Lezgian,785,къуватлу,CyrillTrans,"strong, mighty, powerful",,,"q̄uwatlu, gzaf gužlu",Phonemic
+4-810-64-3,lezg1247,Lezgian,785,гзаф гужлу,CyrillTrans,"strong, mighty, powerful",,,"q̄uwatlu, gzaf gužlu",Phonemic
+4-790-64-1,lezg1247,Lezgian,1773,сур,CyrillTrans,"grave, tomb",,,sur,Phonemic
+4-780-64-1,lezg1247,Lezgian,1719,кучудун,CyrillTrans,bury (the dead),,,"kučudun, kučukun",Phonemic
+4-780-64-3,lezg1247,Lezgian,1719,кучукун,CyrillTrans,bury (the dead),,,"kučudun, kučukun",Phonemic
+4-770-64-1,lezg1247,Lezgian,767,мейит,CyrillTrans,corpse,,,meyit,Phonemic
+4-760-64-1,lezg1247,Lezgian,1417,йана кьин,CyrillTrans,kill,,,yana qʼin,Phonemic
+4-751-64-1,lezg1247,Lezgian,1904,батмиш,CyrillTrans,drowned,,,"batmiš, x̌ayi",Phonemic
+4-751-64-3,lezg1247,Lezgian,1904,хьайи,CyrillTrans,drowned,,,"batmiš, x̌ayi",Phonemic
+4-750-64-1,lezg1247,Lezgian,1494,кьин,CyrillTrans,"die, dead",,,"qʼin, qʼeyi, čan alačir",Phonemic
+4-750-64-3,lezg1247,Lezgian,1494,кьейи,CyrillTrans,"die, dead",,,"qʼin, qʼeyi, čan alačir",Phonemic
+4-750-64-5,lezg1247,Lezgian,1494,чан алачир,CyrillTrans,"die, dead",,,"qʼin, qʼeyi, čan alačir",Phonemic
+4-740-64-1,lezg1247,Lezgian,1422,йашамиш хьун,CyrillTrans,"live, living, life",,,"yašamiš x̌un, yašayiš, čan alay",Phonemic
+4-740-64-3,lezg1247,Lezgian,1422,йашайиш,CyrillTrans,"live, living, life",,,"yašamiš x̌un, yašayiš, čan alay",Phonemic
+4-740-64-5,lezg1247,Lezgian,1422,чан алай,CyrillTrans,"live, living, life",,,"yašamiš x̌un, yašayiš, čan alay",Phonemic
+4-732-64-1,lezg1247,Lezgian,1087,руфунал залан хьун,CyrillTrans,conceive,,,rufunal zalan x̌un,Phonemic
+4-730-64-1,lezg1247,Lezgian,1123,руфунал залан,CyrillTrans,pregnant,,,rufunal zalan,Phonemic
+4-720-64-1,lezg1247,Lezgian,1090,хун,CyrillTrans,born (to be),,,"xun, x̌un",Phonemic
+4-720-64-3,lezg1247,Lezgian,1090,хьун,CyrillTrans,born (to be),,,"xun, x̌un",Phonemic
+4-710-64-1,lezg1247,Lezgian,1152,аладун,CyrillTrans,beget (of father),,,aladun,Phonemic
+4-690-64-1,lezg1247,Lezgian,138,эхъуьн,CyrillTrans,bathe,,,eqün,Phonemic
+4-680-64-1,lezg1247,Lezgian,52,зурзун,CyrillTrans,shiver,,,zurzun,Phonemic
+4-670-64-1,lezg1247,Lezgian,1785,йекьун,CyrillTrans,have sexual intercourse,,,yeqʼun,Phonemic
+4-660-64-1,lezg1247,Lezgian,676,къециз фин,CyrillTrans,defecate,,,q̄eciz fin,Phonemic
+4-650-64-1,lezg1247,Lezgian,592,цвар авун,CyrillTrans,urinate,,,cʷar awun,Phonemic
+4-630-64-1,lezg1247,Lezgian,1602,ахварай аватун,CyrillTrans,wake up,,,axʷaray awatun,Phonemic
+4-620-64-1,lezg1247,Lezgian,1920,хийал авун,CyrillTrans,dream,,,"xiyal awun, axʷar akun",Phonemic
+4-620-64-3,lezg1247,Lezgian,1920,ахвар акун,CyrillTrans,dream,,,"xiyal awun, axʷar akun",Phonemic
+4-612-64-1,lezg1247,Lezgian,1983,хух авун,CyrillTrans,snore,,,xux awun,Phonemic
+4-610-64-1,lezg1247,Lezgian,1585,ксун,CyrillTrans,sleep,,,ksun,Phonemic
+4-591-64-1,lezg1247,Lezgian,268,гъер атун,CyrillTrans,dribble,,,"ɣer atun, c’aran yad atun",Phonemic
+4-591-64-3,lezg1247,Lezgian,268,цІаран йад атун,CyrillTrans,dribble,,,"ɣer atun, c’aran yad atun",Phonemic
+4-590-64-1,lezg1247,Lezgian,319,мез гун,CyrillTrans,lick,,,mez gun,Phonemic
+4-580-64-1,lezg1247,Lezgian,1403,кІасун,CyrillTrans,bite,,,kʼasun,Phonemic
+4-570-64-1,lezg1247,Lezgian,1278,экъуьчун,CyrillTrans,vomit,,,eq̄üčun,Phonemic
+4-560-64-1,lezg1247,Lezgian,1440,цуькІуьн,CyrillTrans,spit,,,"cükʼün, tfuyar wehin, tfuyar gadrun",Phonemic
+4-560-64-3,lezg1247,Lezgian,1440,тфуйар вегьин,CyrillTrans,spit,,,"cükʼün, tfuyar wehin, tfuyar gadrun",Phonemic
+4-560-64-5,lezg1247,Lezgian,1440,тфуйар гадрун,CyrillTrans,spit,,,"cükʼün, tfuyar wehin, tfuyar gadrun",Phonemic
+4-550-64-1,lezg1247,Lezgian,126,гьекь хьун,CyrillTrans,perspire,,,"heqʼ x̌un, heqʼ aq̄atun",Phonemic
+4-550-64-3,lezg1247,Lezgian,126,гьекь акъатун,CyrillTrans,perspire,,,"heqʼ x̌un, heqʼ aq̄atun",Phonemic
+4-540-64-1,lezg1247,Lezgian,1621,тирш авун,CyrillTrans,sneeze,,,tirš awun,Phonemic
+4-530-64-1,lezg1247,Lezgian,879,уьгьуь йагъун,CyrillTrans,cough,,,ühü yaɣun,Phonemic
+4-521-64-1,lezg1247,Lezgian,162,рикІ хъуткъуниз,CyrillTrans,hiccough,,,"rikʼ qutq̄uniz, siwiq atun",Phonemic
+4-521-64-3,lezg1247,Lezgian,162,сивихъ атун,CyrillTrans,hiccough,,,"rikʼ qutq̄uniz, siwiq atun",Phonemic
+4-520-64-1,lezg1247,Lezgian,1028,сив кьакьунун,CyrillTrans,"yawn, gape",,,siw qʼaqʼunun,Phonemic
+4-510-64-1,lezg1247,Lezgian,1407,нефес къачун,CyrillTrans,"breathe, breath",,,"nefes q̄ačun, nefes č’ugun",Phonemic
+4-510-64-3,lezg1247,Lezgian,1407,нефес чІугун,CyrillTrans,"breathe, breath",,,"nefes q̄ačun, nefes č’ugun",Phonemic
+4-492-64-1,lezg1247,Lezgian,1222,вас,CyrillTrans,penis,,,was,Phonemic
+4-490-64-1,lezg1247,Lezgian,797,кІеп(ер),CyrillTrans,testicle,,,kʼep(er),Phonemic
+4-470-64-1,lezg1247,Lezgian,804,айалдин кІвал,CyrillTrans,womb,,,ayaldin kʼʷal,Phonemic
+4-464-64-1,lezg1247,Lezgian,834,къалчах,CyrillTrans,buttocks,,,q̄alčax,Phonemic
+4-463-64-1,lezg1247,Lezgian,1745,йатур,CyrillTrans,hip,,,yatur,Phonemic
+4-462-64-1,lezg1247,Lezgian,1681,йукь,CyrillTrans,waist,,,yuqʼ,Phonemic
+4-461-64-1,lezg1247,Lezgian,1991,ратар,CyrillTrans,"intestines, guts",,,ratar,Phonemic
+4-460-64-1,lezg1247,Lezgian,819,руфун,CyrillTrans,stomach,,,"rufun, xuk",Phonemic
+4-460-64-3,lezg1247,Lezgian,819,хук,CyrillTrans,stomach,,,"rufun, xuk",Phonemic
+4-452-64-1,lezg1247,Lezgian,1744,цуьлез,CyrillTrans,spleen,,,cülez,Phonemic
+4-451-64-1,lezg1247,Lezgian,489,дуркІун,CyrillTrans,kidney,,,durkʼun,Phonemic
+4-450-64-1,lezg1247,Lezgian,1224,лекь,CyrillTrans,liver,,,leqʼ,Phonemic
+4-441-64-1,lezg1247,Lezgian,688,жигер,CyrillTrans,lung,,,žiger,Phonemic
+4-440-64-1,lezg1247,Lezgian,1223,рикІ,CyrillTrans,heart,,,rikʼ,Phonemic
+4-430-64-1,lezg1247,Lezgian,1838,пицІ,CyrillTrans,navel,,,pic’,Phonemic
+4-420-64-1,lezg1247,Lezgian,154,регъуь,CyrillTrans,udder,,,reɣü,Phonemic
+4-412-64-1,lezg1247,Lezgian,796,мамунин кІвенкІ,CyrillTrans,"nipple, teat",,,mamunin kʼʷenkʼ,Phonemic
+4-410-64-1,lezg1247,Lezgian,1402,мам,CyrillTrans,breast (of woman),,,mam,Phonemic
+4-400-64-1,lezg1247,Lezgian,1592,хур,CyrillTrans,chest,,,xur,Phonemic
+4-393-64-1,lezg1247,Lezgian,1201,цІакул,CyrillTrans,feather,,,c’akul,Phonemic
+4-392-64-1,lezg1247,Lezgian,1257,лув,CyrillTrans,wing,,,luw,Phonemic
+4-380-64-1,lezg1247,Lezgian,1389,кІвачин тІуб,CyrillTrans,toe,,,kʼʷačin tʼub,Phonemic
+4-374-64-1,lezg1247,Lezgian,318,гел,CyrillTrans,footprint,,,gel,Phonemic
+4-372-64-1,lezg1247,Lezgian,980,дабан,CyrillTrans,heel,,,daban,Phonemic
+4-371-64-1,lezg1247,Lezgian,803,кІегьеб,CyrillTrans,ankle,,,kʼeheb,Phonemic
+4-370-64-1,lezg1247,Lezgian,1301,дабан,CyrillTrans,foot,,,daban,Phonemic
+4-360-64-1,lezg1247,Lezgian,1371,мет,CyrillTrans,knee,,,met,Phonemic
+4-352-64-1,lezg1247,Lezgian,498,кІвачин руфун,CyrillTrans,calf of leg,,,kʼʷačin rufun,Phonemic
+4-351-64-1,lezg1247,Lezgian,800,йатур,CyrillTrans,thigh,,,yatur,Phonemic
+4-350-64-1,lezg1247,Lezgian,1297,кІвач,CyrillTrans,leg,,,kʼʷač,Phonemic
+4-345-64-1,lezg1247,Lezgian,72,къармах,CyrillTrans,claw,,,q̄armax,Phonemic
+4-344-64-1,lezg1247,Lezgian,1258,кек,CyrillTrans,fingernail,,,kek,Phonemic
+4-342-64-1,lezg1247,Lezgian,1781,чІехи тІуб,CyrillTrans,thumb,,,č’exi tʼub,Phonemic
+4-340-64-1,lezg1247,Lezgian,1303,тІуб,CyrillTrans,finger,,,tʼub,Phonemic
+4-331-64-1,lezg1247,Lezgian,1183,капан йукь,CyrillTrans,palm of hand,,,kapan yuqʼ,Phonemic
+4-330-64-1,lezg1247,Lezgian,1277,капаш,CyrillTrans,hand,,,kapaš,Phonemic
+4-321-64-1,lezg1247,Lezgian,799,гъилин цІум,CyrillTrans,wrist,,,ɣilin c’um,Phonemic
+4-320-64-1,lezg1247,Lezgian,981,кьуьнт,CyrillTrans,elbow,,,"qʼünt, qʼünter",Phonemic
+4-320-64-3,lezg1247,Lezgian,981,кьуьнтер,CyrillTrans,elbow,,,"qʼünt, qʼünter",Phonemic
+4-312-64-1,lezg1247,Lezgian,1886,кьуьчІ,CyrillTrans,armpit,,,qʼüč’,Phonemic
+4-310-64-1,lezg1247,Lezgian,1673,гъил,CyrillTrans,arm,,,ɣil,Phonemic
+4-302-64-1,lezg1247,Lezgian,1994,жинабдин кІараб,CyrillTrans,collarbone,,,žinabdin kʼarab,Phonemic
+4-301-64-1,lezg1247,Lezgian,172,йурф,CyrillTrans,shoulderblade,,,yurf,Phonemic
+4-300-64-1,lezg1247,Lezgian,1482,къуьн,CyrillTrans,shoulder,,,q̄ün,Phonemic
+4-290-64-1,lezg1247,Lezgian,1346,туьд,CyrillTrans,throat,,,tüd,Phonemic
+4-281-64-1,lezg1247,Lezgian,1347,кьам,CyrillTrans,nape of neck,,,qʼam,Phonemic
+4-280-64-1,lezg1247,Lezgian,1333,гардан,CyrillTrans,neck,,,gardan,Phonemic
+4-272-64-1,lezg1247,Lezgian,1049,свах,CyrillTrans,molartooth,,,sʷax,Phonemic
+4-270-64-1,lezg1247,Lezgian,1380,сас,CyrillTrans,tooth,,,"sas, sʷax",Phonemic
+4-270-64-3,lezg1247,Lezgian,1380,свах,CyrillTrans,tooth,,,"sas, sʷax",Phonemic
+4-271-64-1,lezg1247,Lezgian,139,саран йак,CyrillTrans,gums,,,saran yak,Phonemic
+4-260-64-1,lezg1247,Lezgian,1205,мез,CyrillTrans,tongue,,,mez,Phonemic
+4-250-64-1,lezg1247,Lezgian,478,пІуз,CyrillTrans,lip,,,p’uz,Phonemic
+4-241-64-1,lezg1247,Lezgian,73,къушдин кІуф,CyrillTrans,beak,,,q̄ušdin kʼuf,Phonemic
+4-240-64-1,lezg1247,Lezgian,674,сив,CyrillTrans,mouth,,,siw,Phonemic
+4-232-64-1,lezg1247,Lezgian,208,нер,CyrillTrans,mucus (nasal),,,ner,Phonemic
+4-231-64-1,lezg1247,Lezgian,1178,нерин хел,CyrillTrans,nostril,,,nerin xel,Phonemic
+4-230-64-1,lezg1247,Lezgian,1221,нер,CyrillTrans,nose,,,ner,Phonemic
+4-222-64-1,lezg1247,Lezgian,32,йапун кьакь,CyrillTrans,earwax,,,yapun qʼaqʼ,Phonemic
+4-221-64-1,lezg1247,Lezgian,18,йапун кІвенкІ,CyrillTrans,earlobe,,,yapun kʼʷenkʼ,Phonemic
+4-220-64-1,lezg1247,Lezgian,1247,йаб,CyrillTrans,ear,,,yab,Phonemic
+4-215-64-1,lezg1247,Lezgian,1655,вилер агажун,CyrillTrans,blink,,,wiler agažun,Phonemic
+4-214-64-1,lezg1247,Lezgian,1540,вилин кІакІам (кьекьем),CyrillTrans,eyelash,,,wilin kʼakʼam (qʼeqʼem),Phonemic
+4-213-64-1,lezg1247,Lezgian,17,вилин къебекь,CyrillTrans,eyelid,,,wilin q̄ebeqʼ,Phonemic
+4-212-64-1,lezg1247,Lezgian,1173,рацІам,CyrillTrans,eyebrow,,,rac’am,Phonemic
+4-210-64-1,lezg1247,Lezgian,1248,вил,CyrillTrans,eye,,,wil,Phonemic
+4-208-64-1,lezg1247,Lezgian,1730,хъвехъ,CyrillTrans,cheek,,,qʷeq,Phonemic
+4-209-64-1,lezg1247,Lezgian,1510,чене,CyrillTrans,chin,,,čene,Phonemic
+4-205-64-1,lezg1247,Lezgian,123,пел,CyrillTrans,forehead,,,pel,Phonemic
+4-207-64-1,lezg1247,Lezgian,798,регъв,CyrillTrans,jaw,,,reɣʷ,Phonemic
+4-204-64-1,lezg1247,Lezgian,1560,чин,CyrillTrans,face,,,čin,Phonemic
+4-203-64-1,lezg1247,Lezgian,1583,мефтІ,CyrillTrans,brain,,,meftʼ,Phonemic
+4-201-64-1,lezg1247,Lezgian,1604,цІвел,CyrillTrans,"side of head, temple",,,c’ʷel,Phonemic
+4-202-64-1,lezg1247,Lezgian,1605,келле,CyrillTrans,skull,,,"kelle, qʼilin kʼarab",Phonemic
+4-202-64-3,lezg1247,Lezgian,1605,кьилин кІараб,CyrillTrans,skull,,,"kelle, qʼilin kʼarab",Phonemic
+4-200-64-1,lezg1247,Lezgian,1256,кьил,CyrillTrans,head,,,qʼil,Phonemic
+4-191-64-1,lezg1247,Lezgian,805,кьулан тар,CyrillTrans,spine,,,qʼulan tar,Phonemic
+4-190-64-1,lezg1247,Lezgian,1291,далу,CyrillTrans,back,,,dalu,Phonemic
+4-180-64-1,lezg1247,Lezgian,1220,тум,CyrillTrans,tail,,,tum,Phonemic
+4-170-64-1,lezg1247,Lezgian,1393,карч,CyrillTrans,horn,,,karč,Phonemic
+4-162-64-1,lezg1247,Lezgian,801,пакун тІвал,CyrillTrans,rib,,,pakun tʼʷal,Phonemic
+4-160-64-1,lezg1247,Lezgian,1394,кІараб,CyrillTrans,bone,,,kʼarab,Phonemic
+4-151-64-1,lezg1247,Lezgian,525,ивидин дамар,CyrillTrans,"vein, artery",,,iwidin damar,Phonemic
+4-150-64-1,lezg1247,Lezgian,946,иви,CyrillTrans,blood,,,iwi,Phonemic
+4-146-64-1,lezg1247,Lezgian,576,кан,CyrillTrans,dandruff,,,"kan, qür",Phonemic
+4-146-64-3,lezg1247,Lezgian,576,хъуьр,CyrillTrans,dandruff,,,"kan, qür",Phonemic
+4-145-64-1,lezg1247,Lezgian,36,чІар,CyrillTrans,pubic hair,,,č’ar,Phonemic
+4-144-64-1,lezg1247,Lezgian,189,чІар,CyrillTrans,body hair,,,č’ar,Phonemic
+4-142-64-1,lezg1247,Lezgian,678,чуру,CyrillTrans,beard,,,čuru,Phonemic
+4-140-64-1,lezg1247,Lezgian,1040,чІар,CyrillTrans,hair (head),,,č’ar,Phonemic
+4-130-64-1,lezg1247,Lezgian,2259,беден,CyrillTrans,flesh,,,beden,Phonemic
+4-120-64-1,lezg1247,Lezgian,763,хам,CyrillTrans,"skin, hide",,,xam,Phonemic
+4-110-64-1,lezg1247,Lezgian,1480,беден,CyrillTrans,body,,,"beden, žendek",Phonemic
+4-110-64-3,lezg1247,Lezgian,1480,жендек,CyrillTrans,body,,,"beden, žendek",Phonemic
+3-980-64-1,lezg1247,Lezgian,112,хъалхъас къиб,CyrillTrans,turtle,,,"qalqas q̄ib, kʼʷal alay q̄ib",Phonemic
+3-980-64-3,lezg1247,Lezgian,112,кІвал алай къиб,CyrillTrans,turtle,,,"qalqas q̄ib, kʼʷal alay q̄ib",Phonemic
+3-970-64-1,lezg1247,Lezgian,1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-64-1,lezg1247,Lezgian,632,чурчул,CyrillTrans,lizard,,,"čurčul, xürlünkʼ, q̄ʷeršil",Phonemic
+3-960-64-3,lezg1247,Lezgian,632,хуьрлуьнкІ,CyrillTrans,lizard,,,"čurčul, xürlünkʼ, q̄ʷeršil",Phonemic
+3-960-64-5,lezg1247,Lezgian,632,къвершил,CyrillTrans,lizard,,,"čurčul, xürlünkʼ, q̄ʷeršil",Phonemic
+3-950-64-1,lezg1247,Lezgian,503,къиб,CyrillTrans,frog,,,q̄ib,Phonemic
+3-940-64-1,lezg1247,Lezgian,1543,шкьуьнт,CyrillTrans,snail,,,šqʼünt,Phonemic
+3-930-64-1,lezg1247,Lezgian,607,цІицІ,CyrillTrans,grasshopper,,,c’ic’,Phonemic
+3-920-64-1,lezg1247,Lezgian,1791,чепелукь,CyrillTrans,butterfly,,,čepeluqʼ,Phonemic
+3-910-64-1,lezg1247,Lezgian,206,мичІи чкада,CyrillTrans,firefly,,,"mič’i čkada, ekʷ iyiday pepe",Phonemic
+3-910-64-3,lezg1247,Lezgian,206,экв ийидай пепе,CyrillTrans,firefly,,,"mič’i čkada, ekʷ iyiday pepe",Phonemic
+3-850-64-1,lezg1247,Lezgian,730,гъуьлйагъ,CyrillTrans,snake,,,"ɣülyaɣ, ilan",Phonemic
+3-850-64-3,lezg1247,Lezgian,730,илан,CyrillTrans,snake,,,"ɣülyaɣ, ilan",Phonemic
+3-840-64-1,lezg1247,Lezgian,1219,квак,CyrillTrans,worm,,,"kʷak, šar, bütʼrük",Phonemic
+3-840-64-3,lezg1247,Lezgian,1219,шар,CyrillTrans,worm,,,"kʷak, šar, bütʼrük",Phonemic
+3-840-64-5,lezg1247,Lezgian,1219,буьтІруьк,CyrillTrans,worm,,,"kʷak, šar, bütʼrük",Phonemic
+3-832-64-1,lezg1247,Lezgian,1509,москит,CyrillTrans,mosquito,,,moskit,Phonemic
+3-831-64-1,lezg1247,Lezgian,95,ветІ,CyrillTrans,"sandfly (midge), gnat",,,wetʼ,Phonemic
+3-830-64-1,lezg1247,Lezgian,1504,тІветІ,CyrillTrans,fly,,,tʼʷetʼ,Phonemic
+3-823-64-1,lezg1247,Lezgian,1517,хуз (чІуру чІиж),CyrillTrans,wasp,,,xuz (č’uru č’iž),Phonemic
+3-822-64-1,lezg1247,Lezgian,88,чІижерин куьни,CyrillTrans,beehive,,,č’ižerin küni,Phonemic
+3-821-64-1,lezg1247,Lezgian,1931,мум,CyrillTrans,beeswax,,,mum,Phonemic
+3-820-64-1,lezg1247,Lezgian,665,чІиж,CyrillTrans,bee,,,č’iž,Phonemic
+3-819-64-1,lezg1247,Lezgian,1065,хуьшрекандин муг,CyrillTrans,spider web,,,xüšrekandin mug,Phonemic
+3-818-64-1,lezg1247,Lezgian,843,хуьшрекан,CyrillTrans,spider,,,xüšrekan,Phonemic
+3-817-64-1,lezg1247,Lezgian,587,цегв,CyrillTrans,ant,,,cegʷ,Phonemic
+3-816-64-1,lezg1247,Lezgian,1575,таракан,CyrillTrans,cockroach,,,"tarakan, tarun",Phonemic
+3-816-64-3,lezg1247,Lezgian,1575,тарун,CyrillTrans,cockroach,,,"tarakan, tarun",Phonemic
+3-815-64-1,lezg1247,Lezgian,1538,акьраб,CyrillTrans,scorpion,,,aqʼrab,Phonemic
+3-814-64-1,lezg1247,Lezgian,1974,къирхайагъ,CyrillTrans,centipede,,,q̄irxayaɣ,Phonemic
+3-813-64-1,lezg1247,Lezgian,232,чІут,CyrillTrans,flea,,,č’ut,Phonemic
+3-812-64-1,lezg1247,Lezgian,267,цІерцІел,CyrillTrans,nit (louse egg),,,c’erc’el,Phonemic
+3-811-64-1,lezg1247,Lezgian,1392,нет,CyrillTrans,louse,,,net,Phonemic
+3-810-64-1,lezg1247,Lezgian,620,пепе,CyrillTrans,insect,,,pepe,Phonemic
+3-780-64-1,lezg1247,Lezgian,1871,деве,CyrillTrans,camel,,,dewe,Phonemic
+3-770-64-1,lezg1247,Lezgian,1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-64-1,lezg1247,Lezgian,1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-64-1,lezg1247,Lezgian,1936,мирг,CyrillTrans,deer,,,mirg,Phonemic
+3-740-64-1,lezg1247,Lezgian,1312,сикІ,CyrillTrans,fox,,,sikʼ,Phonemic
+3-730-64-1,lezg1247,Lezgian,1820,сев,CyrillTrans,bear,,,sew,Phonemic
+3-720-64-1,lezg1247,Lezgian,1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-64-1,lezg1247,Lezgian,522,жанавур,CyrillTrans,wolf,,,žanawur,Phonemic
+3-665-64-1,lezg1247,Lezgian,1013,илан балугъ,CyrillTrans,freshwater eel,,,ilan baluɣ,Phonemic
+3-664-64-1,lezg1247,Lezgian,1910,гьуьлуьн кац,CyrillTrans,stingray,,,hülün kac,Phonemic
+3-663-64-1,lezg1247,Lezgian,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-64-1,lezg1247,Lezgian,1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-64-1,lezg1247,Lezgian,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-64-1,lezg1247,Lezgian,598,хъипрепІ,CyrillTrans,shell,,,qiprep’,Phonemic
+3-654-64-1,lezg1247,Lezgian,1916,жабрийар,CyrillTrans,gill,,,žabriyar,Phonemic
+3-653-64-1,lezg1247,Lezgian,266,хъуьруьшар,CyrillTrans,fishscale,,,qürüšar,Phonemic
+3-652-64-1,lezg1247,Lezgian,213,сирнавдин лув,CyrillTrans,fin (dorsal),,,sirnawdin luw,Phonemic
+3-650-64-1,lezg1247,Lezgian,227,балугъ,CyrillTrans,fish,,,baluɣ,Phonemic
+3-630-64-1,lezg1247,Lezgian,2139,кьиф,CyrillTrans,"mouse, rat",,,"qʼif, hambardin qʼif",Phonemic
+3-630-64-3,lezg1247,Lezgian,2139,гьамбардин кьиф,CyrillTrans,"mouse, rat",,,"qʼif, hambardin qʼif",Phonemic
+3-620-64-1,lezg1247,Lezgian,1208,кац,CyrillTrans,cat,,,kac,Phonemic
+3-614-64-1,lezg1247,Lezgian,1136,кІвалин къуьр,CyrillTrans,rabbit,,,kʼʷalin q̄ür,Phonemic
+3-610-64-1,lezg1247,Lezgian,2009,кицІ,CyrillTrans,dog,,,kic’,Phonemic
+3-594-64-1,lezg1247,Lezgian,1853,лиф,CyrillTrans,dove,,,"lif, diši lif",Phonemic
+3-594-64-3,lezg1247,Lezgian,1853,диши лиф,CyrillTrans,dove,,,"lif, diši lif",Phonemic
+3-596-64-1,lezg1247,Lezgian,735,тІиб,CyrillTrans,owl,,,"tʼib, bayq̄uš",Phonemic
+3-596-64-3,lezg1247,Lezgian,735,байкъуш,CyrillTrans,owl,,,"tʼib, bayq̄uš",Phonemic
+3-593-64-1,lezg1247,Lezgian,913,пехъ,CyrillTrans,crow,,,"peq, q̄arɣa",Phonemic
+3-593-64-3,lezg1247,Lezgian,913,къаргъа,CyrillTrans,crow,,,"peq, q̄arɣa",Phonemic
+3-592-64-1,lezg1247,Lezgian,882,туьтуькъуш,CyrillTrans,parrot,,,tütüq̄uš,Phonemic
+3-591-64-1,lezg1247,Lezgian,1793,кьаркьулув,CyrillTrans,bat,,,qʼarqʼuluw,Phonemic
+3-586-64-1,lezg1247,Lezgian,1185,лекь,CyrillTrans,vulture,,,leqʼ,Phonemic
+3-585-64-1,lezg1247,Lezgian,307,чинеруг,CyrillTrans,hawk,,,"činerug, kard",Phonemic
+3-585-64-3,lezg1247,Lezgian,307,кард,CyrillTrans,hawk,,,"činerug, kard",Phonemic
+3-584-64-1,lezg1247,Lezgian,1905,лекь,CyrillTrans,eagle,,,leqʼ,Phonemic
+3-582-64-1,lezg1247,Lezgian,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-64-1,lezg1247,Lezgian,758,луван ничхир,CyrillTrans,heron,,,luwan ničxir,Phonemic
+3-581-64-1,lezg1247,Lezgian,937,нуькІ,CyrillTrans,bird,,,nükʼ,Phonemic
+3-580-64-1,lezg1247,Lezgian,539,муг,CyrillTrans,nest,,,mug,Phonemic
+3-570-64-1,lezg1247,Lezgian,1360,уьрдег,CyrillTrans,duck,,,ürdeg,Phonemic
+3-560-64-1,lezg1247,Lezgian,1187,къаз,CyrillTrans,goose,,,q̄az,Phonemic
+3-550-64-1,lezg1247,Lezgian,1318,цицІиб,CyrillTrans,chicken,,,cic’ib,Phonemic
+3-540-64-1,lezg1247,Lezgian,1514,верч,CyrillTrans,hen,,,werč,Phonemic
+3-520-64-1,lezg1247,Lezgian,1511,кІек,CyrillTrans,"cock, rooster",,,kʼek,Phonemic
+3-470-64-1,lezg1247,Lezgian,890,къатир,CyrillTrans,mule,,,q̄atir,Phonemic
+3-500-64-1,lezg1247,Lezgian,265,къуш,CyrillTrans,fowl,,,q̄uš,Phonemic
+3-460-64-1,lezg1247,Lezgian,1862,лам,CyrillTrans,"ass, donkey",,,lam,Phonemic
+3-450-64-1,lezg1247,Lezgian,1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-64-1,lezg1247,Lezgian,938,хвар,CyrillTrans,mare,,,xʷar,Phonemic
+3-420-64-1,lezg1247,Lezgian,936,айгъур,CyrillTrans,stallion,,,ayɣur,Phonemic
+3-410-64-1,lezg1247,Lezgian,615,балкІан,CyrillTrans,horse (equine),,,balkʼan,Phonemic
+3-380-64-1,lezg1247,Lezgian,1972,бацІи,CyrillTrans,kid,,,bac’i,Phonemic
+3-370-64-1,lezg1247,Lezgian,264,кьун,CyrillTrans,he-goat,,,qʼun,Phonemic
+3-360-64-1,lezg1247,Lezgian,1502,цІегь,CyrillTrans,goat,,,c’eh,Phonemic
+3-350-64-1,lezg1247,Lezgian,1337,вак,CyrillTrans,pig,,,wak,Phonemic
+3-340-64-1,lezg1247,Lezgian,1351,диши вак,CyrillTrans,sow (2),,,"diši wak, didewak",Phonemic
+3-340-64-3,lezg1247,Lezgian,1351,дидевак,CyrillTrans,sow (2),,,"diši wak, didewak",Phonemic
+3-320-64-1,lezg1247,Lezgian,1348,вак,CyrillTrans,boar,,,"wak, q̄aban",Phonemic
+3-320-64-3,lezg1247,Lezgian,1348,къабан,CyrillTrans,boar,,,"wak, q̄aban",Phonemic
+3-290-64-1,lezg1247,Lezgian,820,кІел,CyrillTrans,lamb,,,kʼel,Phonemic
+3-280-64-1,lezg1247,Lezgian,1345,хеб,CyrillTrans,ewe,,,xeb,Phonemic
+3-260-64-1,lezg1247,Lezgian,1344,гьер,CyrillTrans,ram,,,her,Phonemic
+3-250-64-1,lezg1247,Lezgian,1331,хеб,CyrillTrans,sheep,,,xeb,Phonemic
+3-240-64-1,lezg1247,Lezgian,1989,дана,CyrillTrans,calf,,,dana,Phonemic
+3-230-64-1,lezg1247,Lezgian,1007,кал,CyrillTrans,cow,,,kal,Phonemic
+3-220-64-1,lezg1247,Lezgian,1169,йац,CyrillTrans,ox,,,yac,Phonemic
+3-210-64-1,lezg1247,Lezgian,1008,йак,CyrillTrans,bull,,,"yak, buɣa",Phonemic
+3-210-64-3,lezg1247,Lezgian,1008,бугъа,CyrillTrans,bull,,,"yak, buɣa",Phonemic
+3-200-64-1,lezg1247,Lezgian,1153,къарамалар,CyrillTrans,cattle (bovine),,,"q̄aramalar, karč alay iri malar",Phonemic
+3-200-64-3,lezg1247,Lezgian,1153,карч алай ири малар,CyrillTrans,cattle (bovine),,,"q̄aramalar, karč alay iri malar",Phonemic
+3-190-64-1,lezg1247,Lezgian,851,цур,CyrillTrans,"stable, stall",,,"cur, tewle, sa haywandin čka",Phonemic
+3-190-64-3,lezg1247,Lezgian,851,тевле,CyrillTrans,"stable, stall",,,"cur, tewle, sa haywandin čka",Phonemic
+3-190-64-5,lezg1247,Lezgian,851,са гьайвандин чка,CyrillTrans,"stable, stall",,,"cur, tewle, sa haywandin čka",Phonemic
+3-180-64-1,lezg1247,Lezgian,263,чубан,CyrillTrans,herdsman,,,"čuban, nexirban",Phonemic
+3-180-64-3,lezg1247,Lezgian,263,нехирбан,CyrillTrans,herdsman,,,"čuban, nexirban",Phonemic
+3-160-64-1,lezg1247,Lezgian,649,уьруьш,CyrillTrans,pasture,,,"ürüš, č’ur",Phonemic
+3-160-64-3,lezg1247,Lezgian,649,чІур,CyrillTrans,pasture,,,"ürüš, č’ur",Phonemic
+3-150-64-1,lezg1247,Lezgian,631,мал,CyrillTrans,livestock,,,mal,Phonemic
+3-130-64-1,lezg1247,Lezgian,2262,диши,CyrillTrans,female (adj),,,diši,Phonemic
+3-120-64-1,lezg1247,Lezgian,2261,эркек,CyrillTrans,male (adj),,,erkek,Phonemic
+3-110-64-1,lezg1247,Lezgian,619,гьайван,CyrillTrans,animal,,,"haywan, mal",Phonemic
+3-110-64-3,lezg1247,Lezgian,619,мал,CyrillTrans,animal,,,"haywan, mal",Phonemic
+2-960-64-1,lezg1247,Lezgian,817,абур,CyrillTrans,they,,,abur,Phonemic
+2-950-64-1,lezg1247,Lezgian,1213,куьн,CyrillTrans,you (plural),,,kün,Phonemic
+2-940-64-1,lezg1247,Lezgian,1212,чун,CyrillTrans,we,,,čun,Phonemic
+2-930-64-1,lezg1247,Lezgian,262,ам,CyrillTrans,he/she/it,,,am,Phonemic
+2-920-64-1,lezg1247,Lezgian,1215,вун,CyrillTrans,you (singular),,,wun,Phonemic
+2-910-64-1,lezg1247,Lezgian,1209,зун,CyrillTrans,I,,,zun,Phonemic
+2-820-64-1,lezg1247,Lezgian,194,хзан,CyrillTrans,family,,,"xzan, kilfet",Phonemic
+2-820-64-3,lezg1247,Lezgian,194,килфет,CyrillTrans,family,,,"xzan, kilfet",Phonemic
+2-810-64-1,lezg1247,Lezgian,1644,мукьабур,CyrillTrans,"relatives, kinsmen",,,muqʼabur,Phonemic
+2-770-64-1,lezg1247,Lezgian,1981,хендеда итим,CyrillTrans,widower,,,xendeda itim,Phonemic
+2-760-64-1,lezg1247,Lezgian,1756,хендеда паб,CyrillTrans,widow,,,xendeda pab,Phonemic
+2-750-64-1,lezg1247,Lezgian,1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-64-1,lezg1247,Lezgian,1058,тахай руш,CyrillTrans,stepdaughter,,,taxay ruš,Phonemic
+2-730-64-1,lezg1247,Lezgian,1059,тахай хва,CyrillTrans,stepson,,,taxay xʷa,Phonemic
+2-720-64-1,lezg1247,Lezgian,236,тахай диде,CyrillTrans,stepmother,,,taxay dide,Phonemic
+2-710-64-1,lezg1247,Lezgian,237,тахай буба,CyrillTrans,stepfather,,,taxay buba,Phonemic
+2-641-64-1,lezg1247,Lezgian,2264,свас,CyrillTrans,daughter-in-law (of a woman),,,sʷas,Phonemic
+2-640-64-1,lezg1247,Lezgian,2265,свас,CyrillTrans,daughter-in-law (of a man),,,sʷas,Phonemic
+2-631-64-1,lezg1247,Lezgian,2266,езне,CyrillTrans,son-in-law (of a woman),,,yezne,Phonemic
+2-630-64-1,lezg1247,Lezgian,2267,езне,CyrillTrans,son-in-law (of a man),,,yezne,Phonemic
+2-621-64-1,lezg1247,Lezgian,2257,йаран диде,CyrillTrans,mother-in-law (of a woman),,,yaran dide,Phonemic
+2-620-64-1,lezg1247,Lezgian,2256,къари,CyrillTrans,mother-in-law (of a man),,,"q̄ari, ɣülün dide",Phonemic
+2-620-64-3,lezg1247,Lezgian,2256,гъуьлуьн диде,CyrillTrans,mother-in-law (of a man),,,"q̄ari, ɣülün dide",Phonemic
+2-611-64-1,lezg1247,Lezgian,2254,йаран буба,CyrillTrans,father-in-law (of a woman),,,yaran buba,Phonemic
+2-610-64-1,lezg1247,Lezgian,2255,апай,CyrillTrans,father-in-law (of a man),,,"apay, ɣülün buba",Phonemic
+2-610-64-3,lezg1247,Lezgian,2255,гъуьлуьн буба,CyrillTrans,father-in-law (of a man),,,"apay, ɣülün buba",Phonemic
+2-570-64-1,lezg1247,Lezgian,490,несилар,CyrillTrans,descendants,,,nesilar,Phonemic
+2-560-64-1,lezg1247,Lezgian,1669,улу-бубайар,CyrillTrans,ancestors,,,"ulu-bubayar, ata-bubayar",Phonemic
+2-560-64-3,lezg1247,Lezgian,1669,ата-бубайар,CyrillTrans,ancestors,,,"ulu-bubayar, ata-bubayar",Phonemic
+2-550-64-1,lezg1247,Lezgian,1643,амледин (халудин,CyrillTrans,cousin,,,"amledin (xaludin, xaladin, emedin), xʷa (ruš)",Phonemic
+2-550-64-3,lezg1247,Lezgian,1643,халадин,CyrillTrans,cousin,,,"amledin (xaludin, xaladin, emedin), xʷa (ruš)",Phonemic
+2-550-64-5,lezg1247,Lezgian,1643,эмедин),CyrillTrans,cousin,,,"amledin (xaludin, xaladin, emedin), xʷa (ruš)",Phonemic
+2-550-64-7,lezg1247,Lezgian,1643,хва (руш),CyrillTrans,cousin,,,"amledin (xaludin, xaladin, emedin), xʷa (ruš)",Phonemic
+2-540-64-1,lezg1247,Lezgian,1642,хтул руш,CyrillTrans,niece,,,xtul ruš,Phonemic
+2-530-64-1,lezg1247,Lezgian,1063,хтул,CyrillTrans,nephew,,,xtul,Phonemic
+2-522-64-1,lezg1247,Lezgian,170,эме,CyrillTrans,father's sister,,,eme,Phonemic
+2-520-64-1,lezg1247,Lezgian,1272,хала,CyrillTrans,aunt,,,"xala, eme",Phonemic
+2-520-64-3,lezg1247,Lezgian,1272,эме,CyrillTrans,aunt,,,"xala, eme",Phonemic
+2-521-64-1,lezg1247,Lezgian,171,хала,CyrillTrans,mother's sister,,,xala,Phonemic
+2-512-64-1,lezg1247,Lezgian,1985,ими,CyrillTrans,father's brother,,,"imi, amle",Phonemic
+2-512-64-3,lezg1247,Lezgian,1985,амле,CyrillTrans,father's brother,,,"imi, amle",Phonemic
+2-511-64-1,lezg1247,Lezgian,1984,халу,CyrillTrans,mother's brother,,,"xalu, dayi",Phonemic
+2-511-64-3,lezg1247,Lezgian,1984,дайи,CyrillTrans,mother's brother,,,"xalu, dayi",Phonemic
+2-510-64-1,lezg1247,Lezgian,1327,халу,CyrillTrans,uncle,,,"xalu, imi",Phonemic
+2-510-64-3,lezg1247,Lezgian,1327,ими,CyrillTrans,uncle,,,"xalu, imi",Phonemic
+2-480-64-1,lezg1247,Lezgian,1618,хтул,CyrillTrans,grandson,,,xtul,Phonemic
+2-490-64-1,lezg1247,Lezgian,1619,хтул,CyrillTrans,granddaughter,,,xtul,Phonemic
+2-471-64-1,lezg1247,Lezgian,907,къари,CyrillTrans,old woman,,,"q̄ari, qʼüzüdišehli",Phonemic
+2-471-64-3,lezg1247,Lezgian,907,кьуьзуьдишегьли,CyrillTrans,old woman,,,"q̄ari, qʼüzüdišehli",Phonemic
+2-470-64-1,lezg1247,Lezgian,1496,чІехи диде,CyrillTrans,grandmother,,,č’exi dide,Phonemic
+2-461-64-1,lezg1247,Lezgian,406,кьуьзуь кас,CyrillTrans,old man,,,"qʼüzü kas, q̄uža, qʼüzüdi",Phonemic
+2-461-64-3,lezg1247,Lezgian,406,къужа,CyrillTrans,old man,,,"qʼüzü kas, q̄uža, qʼüzüdi",Phonemic
+2-461-64-5,lezg1247,Lezgian,406,кьуьзуьди,CyrillTrans,old man,,,"qʼüzü kas, q̄uža, qʼüzüdi",Phonemic
+2-460-64-1,lezg1247,Lezgian,1383,чІехи буба,CyrillTrans,grandfather,,,č’exi buba,Phonemic
+2-458-64-1,lezg1247,Lezgian,1005,кьетхверар,CyrillTrans,twins,,,qʼetxʷerar,Phonemic
+2-456-64-1,lezg1247,Lezgian,1640,стха,CyrillTrans,sibling,,,"stxa, wax",Phonemic
+2-456-64-3,lezg1247,Lezgian,1640,вах,CyrillTrans,sibling,,,"stxa, wax",Phonemic
+2-455-64-1,lezg1247,Lezgian,1761,гъвечІи вах,CyrillTrans,younger sister,,,ɣʷeč’i wax,Phonemic
+2-454-64-1,lezg1247,Lezgian,1758,чІехи вах,CyrillTrans,older sister,,,č’exi wax,Phonemic
+2-450-64-1,lezg1247,Lezgian,1263,вах,CyrillTrans,sister,,,wax,Phonemic
+2-445-64-1,lezg1247,Lezgian,1760,гъвечІи стха,CyrillTrans,younger brother,,,ɣʷeč’i stxa,Phonemic
+2-444-64-1,lezg1247,Lezgian,1759,чІехи стха,CyrillTrans,older brother,,,č’exi stxa,Phonemic
+2-440-64-1,lezg1247,Lezgian,1262,стха,CyrillTrans,brother,,,stxa,Phonemic
+2-430-64-1,lezg1247,Lezgian,1801,айалар,CyrillTrans,offspring (son or daughter),,,"ayalar, weledar, ewledar",Phonemic
+2-430-64-3,lezg1247,Lezgian,1801,веледар,CyrillTrans,offspring (son or daughter),,,"ayalar, weledar, ewledar",Phonemic
+2-430-64-5,lezg1247,Lezgian,1801,эвледар,CyrillTrans,offspring (son or daughter),,,"ayalar, weledar, ewledar",Phonemic
+2-420-64-1,lezg1247,Lezgian,1357,руш,CyrillTrans,daughter,,,ruš,Phonemic
+2-410-64-1,lezg1247,Lezgian,1620,хва,CyrillTrans,son,,,xʷa,Phonemic
+2-390-64-1,lezg1247,Lezgian,426,гъуьл авай,CyrillTrans,married woman,,,"ɣül away, ɣülük kʷay",Phonemic
+2-390-64-3,lezg1247,Lezgian,426,гъуьлуьк квай,CyrillTrans,married woman,,,"ɣül away, ɣülük kʷay",Phonemic
+2-380-64-1,lezg1247,Lezgian,424,паб гъанвай,CyrillTrans,married man,,,"pab ɣanway, pab away, ewlenmiš x̌anway",Phonemic
+2-380-64-3,lezg1247,Lezgian,424,паб авай,CyrillTrans,married man,,,"pab ɣanway, pab away, ewlenmiš x̌anway",Phonemic
+2-380-64-5,lezg1247,Lezgian,424,эвленмиш хьанвай,CyrillTrans,married man,,,"pab ɣanway, pab away, ewlenmiš x̌anway",Phonemic
+2-370-64-1,lezg1247,Lezgian,505,диде-буба,CyrillTrans,parents,,,"dide-buba, dide-bubayar",Phonemic
+2-370-64-3,lezg1247,Lezgian,505,диде-бубайар,CyrillTrans,parents,,,"dide-buba, dide-bubayar",Phonemic
+2-360-64-1,lezg1247,Lezgian,1216,диде,CyrillTrans,mother,,,dide,Phonemic
+2-350-64-1,lezg1247,Lezgian,1217,буба,CyrillTrans,father,,,buba,Phonemic
+2-341-64-1,lezg1247,Lezgian,1134,чара хьун,CyrillTrans,divorce,,,čara x̌un,Phonemic
+2-340-64-1,lezg1247,Lezgian,1259,мекъер,CyrillTrans,"marriage, wedding",,,"meq̄er, nikyaɣ, ewlenmišwal",Phonemic
+2-340-64-3,lezg1247,Lezgian,1259,никйагъ,CyrillTrans,"marriage, wedding",,,"meq̄er, nikyaɣ, ewlenmišwal",Phonemic
+2-340-64-5,lezg1247,Lezgian,1259,эвленмишвал,CyrillTrans,"marriage, wedding",,,"meq̄er, nikyaɣ, ewlenmišwal",Phonemic
+2-330-64-1,lezg1247,Lezgian,203,гъуьлуьз фин,CyrillTrans,marry,,,ɣülüz fin,Phonemic
+2-320-64-1,lezg1247,Lezgian,1199,паб,CyrillTrans,wife,,,pab,Phonemic
+2-310-64-1,lezg1247,Lezgian,1200,итим,CyrillTrans,husband,,,"itim, ɣül",Phonemic
+2-310-64-3,lezg1247,Lezgian,1200,гъуьл,CyrillTrans,husband,,,"itim, ɣül",Phonemic
+2-280-64-1,lezg1247,Lezgian,1289,таза айал,CyrillTrans,"infant, baby",,,"taza ayal, bala, šarag",Phonemic
+2-280-64-3,lezg1247,Lezgian,1289,бала,CyrillTrans,"infant, baby",,,"taza ayal, bala, šarag",Phonemic
+2-280-64-5,lezg1247,Lezgian,1289,шараг,CyrillTrans,"infant, baby",,,"taza ayal, bala, šarag",Phonemic
+2-270-64-1,lezg1247,Lezgian,1304,айал,CyrillTrans,child,,,ayal,Phonemic
+2-261-64-1,lezg1247,Lezgian,77,руш,CyrillTrans,young woman (adolescent),,,"ruš, agaqʼay ruš",Phonemic
+2-261-64-3,lezg1247,Lezgian,77,агакьай руш,CyrillTrans,young woman (adolescent),,,"ruš, agaqʼay ruš",Phonemic
+2-260-64-1,lezg1247,Lezgian,1646,гъвечІи руш,CyrillTrans,girl,,,"ɣʷeč’i ruš, ayal ruš",Phonemic
+2-260-64-3,lezg1247,Lezgian,1646,айал руш,CyrillTrans,girl,,,"ɣʷeč’i ruš, ayal ruš",Phonemic
+2-251-64-1,lezg1247,Lezgian,76,жегьил,CyrillTrans,young man (adolescent),,,"žehil, žehil gada",Phonemic
+2-251-64-3,lezg1247,Lezgian,76,жегьил гада,CyrillTrans,young man (adolescent),,,"žehil, žehil gada",Phonemic
+2-250-64-1,lezg1247,Lezgian,1366,гада,CyrillTrans,boy,,,gada,Phonemic
+2-240-64-1,lezg1247,Lezgian,1551,дишиди,CyrillTrans,female,,,dišidi,Phonemic
+2-230-64-1,lezg1247,Lezgian,1553,эркек,CyrillTrans,male,,,erkek,Phonemic
+2-220-64-1,lezg1247,Lezgian,962,паб,CyrillTrans,woman,,,"pab, dišehli",Phonemic
+2-220-64-3,lezg1247,Lezgian,962,дишегьли,CyrillTrans,woman,,,"pab, dišehli",Phonemic
+2-210-64-1,lezg1247,Lezgian,1554,итим,CyrillTrans,man (vs. woman),,,itim,Phonemic
+2-100-64-1,lezg1247,Lezgian,683,инсан,CyrillTrans,"person, human being",,,"insan, kas",Phonemic
+2-100-64-3,lezg1247,Lezgian,683,кас,CyrillTrans,"person, human being",,,"insan, kas",Phonemic
+1-890-64-1,lezg1247,Lezgian,1188,(кІарасдин) цІивиар,CyrillTrans,charcoal,,,(kʼarasdin) c’iwiar,Phonemic
+1-880-64-1,lezg1247,Lezgian,10,кІарасар,CyrillTrans,firewood,,,kʼarasar,Phonemic
+1-870-64-1,lezg1247,Lezgian,1133,спичка,CyrillTrans,match (noun),,,spička,Phonemic
+1-861-64-1,lezg1247,Lezgian,127,хкадрун,CyrillTrans,extinguish,,,"xkadrun, tüxürun",Phonemic
+1-861-64-3,lezg1247,Lezgian,127,туьхуьрун,CyrillTrans,extinguish,,,"xkadrun, tüxürun",Phonemic
+1-860-64-1,lezg1247,Lezgian,737,цІай куькІуьрун,CyrillTrans,"light, kindle, ignite",,,"c’ay kükʼürun, c’ay qʼaz tun",Phonemic
+1-860-64-3,lezg1247,Lezgian,737,цІай кьаз тун,CyrillTrans,"light, kindle, ignite",,,"c’ay kükʼürun, c’ay qʼaz tun",Phonemic
+1-852-64-1,lezg1247,Lezgian,1428,кун,CyrillTrans,burn (vb intrans),,,"kun, c’ay qʼun",Phonemic
+1-852-64-3,lezg1247,Lezgian,1428,цІай кьун,CyrillTrans,burn (vb intrans),,,"kun, c’ay qʼun",Phonemic
+1-851-64-1,lezg1247,Lezgian,141,кун,CyrillTrans,burn (vb trans),,,"kun, c’ay yaɣun",Phonemic
+1-851-64-3,lezg1247,Lezgian,141,цІай йагъун,CyrillTrans,burn (vb trans),,,"kun, c’ay yaɣun",Phonemic
+1-841-64-1,lezg1247,Lezgian,67,кузвай,CyrillTrans,embers,,,"kuzway, žühenar, cikʼlamar",Phonemic
+1-841-64-3,lezg1247,Lezgian,67,жуьгьенар,CyrillTrans,embers,,,"kuzway, žühenar, cikʼlamar",Phonemic
+1-841-64-5,lezg1247,Lezgian,67,цикІламар,CyrillTrans,embers,,,"kuzway, žühenar, cikʼlamar",Phonemic
+1-840-64-1,lezg1247,Lezgian,646,руьхъ,CyrillTrans,ashes,,,rüq,Phonemic
+1-830-64-1,lezg1247,Lezgian,778,гум,CyrillTrans,smoke (noun),,,gum,Phonemic
+1-820-64-1,lezg1247,Lezgian,889,йалав,CyrillTrans,flame (noun),,,"yalaw, c’un murz",Phonemic
+1-820-64-3,lezg1247,Lezgian,889,цІун мурз,CyrillTrans,flame (noun),,,"yalaw, c’un murz",Phonemic
+1-810-64-1,lezg1247,Lezgian,221,цІай,CyrillTrans,fire,,,c’ay,Phonemic
+1-780-64-1,lezg1247,Lezgian,952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-64-1,lezg1247,Lezgian,617,цур,CyrillTrans,ice,,,"cur, murk",Phonemic
+1-770-64-3,lezg1247,Lezgian,617,мурк,CyrillTrans,ice,,,"cur, murk",Phonemic
+1-760-64-1,lezg1247,Lezgian,784,жив,CyrillTrans,snow (noun),,,žiw,Phonemic
+1-750-64-1,lezg1247,Lezgian,658,марф,CyrillTrans,rain (noun),,,marf,Phonemic
+1-740-64-1,lezg1247,Lezgian,249,циф,CyrillTrans,fog,,,"cif, čilin cif",Phonemic
+1-740-64-3,lezg1247,Lezgian,249,чилин циф,CyrillTrans,fog,,,"cif, čilin cif",Phonemic
+1-720-64-1,lezg1247,Lezgian,960,гар,CyrillTrans,wind,,,gar,Phonemic
+1-730-64-1,lezg1247,Lezgian,1489,циф,CyrillTrans,cloud,,,cif,Phonemic
+1-710-64-1,lezg1247,Lezgian,27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-64-1,lezg1247,Lezgian,1977,ниг,CyrillTrans,dew,,,nig,Phonemic
+1-630-64-1,lezg1247,Lezgian,1388,серин,CyrillTrans,"shade, shadow",,,"serin, qen",Phonemic
+1-630-64-3,lezg1247,Lezgian,1388,хъен,CyrillTrans,"shade, shadow",,,"serin, qen",Phonemic
+1-620-64-1,lezg1247,Lezgian,11,мичІивал,CyrillTrans,darkness,,,"mič’iwal, mič’",Phonemic
+1-620-64-3,lezg1247,Lezgian,11,мичІ,CyrillTrans,darkness,,,"mič’iwal, mič’",Phonemic
+1-610-64-1,lezg1247,Lezgian,630,экв,CyrillTrans,light (noun),,,"ekʷ, išiɣ",Phonemic
+1-610-64-3,lezg1247,Lezgian,630,ишигъ,CyrillTrans,light (noun),,,"ekʷ, išiɣ",Phonemic
+1-590-64-1,lezg1247,Lezgian,1733,йаргъируш,CyrillTrans,rainbow,,,"yarɣiruš, xʷažamžam",Phonemic
+1-590-64-3,lezg1247,Lezgian,1733,хважамжам,CyrillTrans,rainbow,,,"yarɣiruš, xʷažamžam",Phonemic
+1-580-64-1,lezg1247,Lezgian,858,тІурфан,CyrillTrans,storm,,,"tʼurfan, q̄ati gar, kulak",Phonemic
+1-580-64-3,lezg1247,Lezgian,858,къати гар,CyrillTrans,storm,,,"tʼurfan, q̄ati gar, kulak",Phonemic
+1-580-64-5,lezg1247,Lezgian,858,кулак,CyrillTrans,storm,,,"tʼurfan, q̄ati gar, kulak",Phonemic
+1-560-64-1,lezg1247,Lezgian,1150,цавун ван,CyrillTrans,thunder,,,cawun wan,Phonemic
+1-570-64-1,lezg1247,Lezgian,2007,цІайлапан,CyrillTrans,lightning (as striking),,,c’aylapan,Phonemic
+1-550-64-1,lezg1247,Lezgian,1654,цІайлапан,CyrillTrans,lightning,,,c’aylapan,Phonemic
+1-540-64-1,lezg1247,Lezgian,1430,гъед,CyrillTrans,star,,,ɣed,Phonemic
+1-530-64-1,lezg1247,Lezgian,1313,варз,CyrillTrans,moon,,,warz,Phonemic
+1-520-64-1,lezg1247,Lezgian,1343,рагъ,CyrillTrans,sun,,,raɣ,Phonemic
+1-510-64-1,lezg1247,Lezgian,1732,цав,CyrillTrans,sky,,,caw,Phonemic
+1-450-64-1,lezg1247,Lezgian,6,залзала,CyrillTrans,earthquake,,,zalzala,Phonemic
+1-440-64-1,lezg1247,Lezgian,2125,къван,CyrillTrans,"stone, rock",,,"q̄ʷan, čarx",Phonemic
+1-440-64-3,lezg1247,Lezgian,2125,чарх,CyrillTrans,"stone, rock",,,"q̄ʷan, čarx",Phonemic
+1-430-64-1,lezg1247,Lezgian,1803,кІарас,CyrillTrans,wood,,,kʼaras,Phonemic
+1-420-64-1,lezg1247,Lezgian,906,тар,CyrillTrans,tree (cf 08.600),,,tar,Phonemic
+1-410-64-1,lezg1247,Lezgian,420,там,CyrillTrans,"woods, forest",,,tam,Phonemic
+1-390-64-1,lezg1247,Lezgian,943,чарчар,CyrillTrans,waterfall,,,"čarčar, gurgur",Phonemic
+1-390-64-3,lezg1247,Lezgian,943,гургур,CyrillTrans,waterfall,,,"čarčar, gurgur",Phonemic
+1-380-64-1,lezg1247,Lezgian,1145,уьлен,CyrillTrans,swamp,,,"ülen, wir",Phonemic
+1-380-64-3,lezg1247,Lezgian,1145,вир,CyrillTrans,swamp,,,"ülen, wir",Phonemic
+1-370-64-1,lezg1247,Lezgian,2144,булах,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-370-64-3,lezg1247,Lezgian,2144,чешме,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-370-64-5,lezg1247,Lezgian,2144,къуй,CyrillTrans,"spring, well",,,"bulax, češme, q̄uy",Phonemic
+1-362-64-1,lezg1247,Lezgian,1982,йад элкъведай чка,CyrillTrans,whirlpool,,,yad elq̄ʷeday čka,Phonemic
+1-360-64-1,lezg1247,Lezgian,666,вацІ,CyrillTrans,"river, stream, brook",,,"wac’, sel, bulax, xʷal",Phonemic
+1-360-64-3,lezg1247,Lezgian,666,сел,CyrillTrans,"river, stream, brook",,,"wac’, sel, bulax, xʷal",Phonemic
+1-360-64-5,lezg1247,Lezgian,666,булах,CyrillTrans,"river, stream, brook",,,"wac’, sel, bulax, xʷal",Phonemic
+1-360-64-7,lezg1247,Lezgian,666,хвал,CyrillTrans,"river, stream, brook",,,"wac’, sel, bulax, xʷal",Phonemic
+1-354-64-1,lezg1247,Lezgian,613,йад хкаж хьун,CyrillTrans,hightide,,,yad xkaž x̌un,Phonemic
+1-353-64-1,lezg1247,Lezgian,1026,йад ацукьун,CyrillTrans,lowtide,,,yad acuqʼun,Phonemic
+1-352-64-1,lezg1247,Lezgian,891,йад хкаж хьун,CyrillTrans,tide,,,"yad xkaž x̌un, yad qʼuluq qfin",Phonemic
+1-352-64-3,lezg1247,Lezgian,891,йад кьулухъ хъфин,CyrillTrans,tide,,,"yad xkaž x̌un, yad qʼuluq qfin",Phonemic
+1-350-64-1,lezg1247,Lezgian,978,лепе,CyrillTrans,wave,,,lepe,Phonemic
+1-343-64-1,lezg1247,Lezgian,1662,мыс,CyrillTrans,"headland, point",,,mɨs,Phonemic
+1-342-64-1,lezg1247,Lezgian,660,риф,CyrillTrans,reef,,,"rif, rag",Phonemic
+1-342-64-3,lezg1247,Lezgian,660,раг,CyrillTrans,reef,,,"rif, rag",Phonemic
+1-341-64-1,lezg1247,Lezgian,623,лагун,CyrillTrans,lagoon,,,lagun,Phonemic
+1-340-64-1,lezg1247,Lezgian,663,залив,CyrillTrans,"gulf, bay",,,"zaliw, buxta",Phonemic
+1-340-64-3,lezg1247,Lezgian,663,бухта,CyrillTrans,"gulf, bay",,,"zaliw, buxta",Phonemic
+1-330-64-1,lezg1247,Lezgian,624,вир,CyrillTrans,lake,,,wir,Phonemic
+1-329-64-1,lezg1247,Lezgian,645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-64-1,lezg1247,Lezgian,1768,каф,CyrillTrans,foam,,,kaf,Phonemic
+1-323-64-1,lezg1247,Lezgian,259,къати,CyrillTrans,rough (of sea),,,q̄ati,Phonemic
+1-320-64-1,lezg1247,Lezgian,1474,гьуьл,CyrillTrans,sea,,,hül,Phonemic
+1-322-64-1,lezg1247,Lezgian,258,секин,CyrillTrans,calm (of sea),,,sekin,Phonemic
+1-310-64-1,lezg1247,Lezgian,948,йад,CyrillTrans,water,,,yad,Phonemic
+1-280-64-1,lezg1247,Lezgian,1155,кьветІ,CyrillTrans,cave,,,"qʼʷetʼ, maɣara",Phonemic
+1-280-64-3,lezg1247,Lezgian,1155,магъара,CyrillTrans,cave,,,"qʼʷetʼ, maɣara",Phonemic
+1-270-64-1,lezg1247,Lezgian,113,къерех,CyrillTrans,shore,,,"q̄erex, yaxa",Phonemic
+1-270-64-3,lezg1247,Lezgian,113,йаха,CyrillTrans,shore,,,"q̄erex, yaxa",Phonemic
+1-260-64-1,lezg1247,Lezgian,166,континент,CyrillTrans,mainland,,,kontinent,Phonemic
+1-250-64-1,lezg1247,Lezgian,622,остров,CyrillTrans,island,,,ostrow,Phonemic
+1-240-64-1,lezg1247,Lezgian,921,дугун,CyrillTrans,valley,,,"dugun, dere",Phonemic
+1-240-64-3,lezg1247,Lezgian,921,дере,CyrillTrans,valley,,,"dugun, dere",Phonemic
+1-230-64-1,lezg1247,Lezgian,652,дуьзен,CyrillTrans,"plain, field",,,"düzen, čül",Phonemic
+1-230-64-3,lezg1247,Lezgian,652,чуьл,CyrillTrans,"plain, field",,,"düzen, čül",Phonemic
+1-222-64-1,lezg1247,Lezgian,618,чарх,CyrillTrans,"cliff, precipice",,,"čarx, tik čarx, tik qʼʷal",Phonemic
+1-222-64-3,lezg1247,Lezgian,618,тик чарх,CyrillTrans,"cliff, precipice",,,"čarx, tik čarx, tik qʼʷal",Phonemic
+1-222-64-5,lezg1247,Lezgian,618,тик кьвал,CyrillTrans,"cliff, precipice",,,"čarx, tik čarx, tik qʼʷal",Phonemic
+1-220-64-1,lezg1247,Lezgian,2118,дагъ,CyrillTrans,"mountain, hill",,,"daɣ, kʼuntʼ",Phonemic
+1-220-64-3,lezg1247,Lezgian,2118,кІунтІ,CyrillTrans,"mountain, hill",,,"daɣ, kʼuntʼ",Phonemic
+1-214-64-1,lezg1247,Lezgian,640,палчух,CyrillTrans,mud,,,"palčux, qʼar, čirk",Phonemic
+1-214-64-3,lezg1247,Lezgian,640,кьар,CyrillTrans,mud,,,"palčux, qʼar, čirk",Phonemic
+1-214-64-5,lezg1247,Lezgian,640,чирк,CyrillTrans,mud,,,"palčux, qʼar, čirk",Phonemic
+1-215-64-1,lezg1247,Lezgian,671,къум,CyrillTrans,sand,,,q̄um,Phonemic
+1-213-64-1,lezg1247,Lezgian,2,руг,CyrillTrans,dust,,,rug,Phonemic
+1-212-64-1,lezg1247,Lezgian,1228,накьв,CyrillTrans,"earth=ground, soil",,,"naqʼʷ, čil",Phonemic
+1-212-64-3,lezg1247,Lezgian,1228,чил,CyrillTrans,"earth=ground, soil",,,"naqʼʷ, čil",Phonemic
+1-210-64-1,lezg1247,Lezgian,626,чил,CyrillTrans,"earth, land",,,"čil, ülkʷe",Phonemic
+1-210-64-3,lezg1247,Lezgian,626,уьлкве,CyrillTrans,"earth, land",,,"čil, ülkʷe",Phonemic
+1-100-64-1,lezg1247,Lezgian,965,дуьньйа,CyrillTrans,world,,,dünya,Phonemic
+14-330-64-1,lezg1247,Lezgian,1544,бйази вахтара,CyrillTrans,sometimes,,,"byazi waxtara, gah, gah-gah",Phonemic
+14-330-64-3,lezg1247,Lezgian,1544,гагь,CyrillTrans,sometimes,,,"byazi waxtara, gah, gah-gah",Phonemic
+14-330-64-5,lezg1247,Lezgian,1544,гагь-гагь,CyrillTrans,sometimes,,,"byazi waxtara, gah, gah-gah",Phonemic
+14-331-64-1,lezg1247,Lezgian,703,мукьва,CyrillTrans,soon,,,"muqʼʷa, muqʼʷara, i muqʼʷara",Phonemic
+14-331-64-3,lezg1247,Lezgian,703,мукьвара,CyrillTrans,soon,,,"muqʼʷa, muqʼʷara, i muqʼʷara",Phonemic
+14-331-64-5,lezg1247,Lezgian,703,и мукьвара,CyrillTrans,soon,,,"muqʼʷa, muqʼʷara, i muqʼʷara",Phonemic
+14-332-64-1,lezg1247,Lezgian,418,йаргъал муьгьлетдин,CyrillTrans,long-time (for a),,,yarɣal mühletdin,Phonemic
+14-340-64-1,lezg1247,Lezgian,1656,са чІавузни,CyrillTrans,never,,,"sa č’awuzni, sa waxtundani, sadrani",Phonemic
+14-340-64-3,lezg1247,Lezgian,1656,са вахтундани,CyrillTrans,never,,,"sa č’awuzni, sa waxtundani, sadrani",Phonemic
+14-340-64-5,lezg1247,Lezgian,1656,садрани,CyrillTrans,never,,,"sa č’awuzni, sa waxtundani, sadrani",Phonemic
+14-350-64-1,lezg1247,Lezgian,204,мад,CyrillTrans,again,,,mad,Phonemic
+14-410-64-1,lezg1247,Lezgian,1225,йугъ,CyrillTrans,day,,,yuɣ,Phonemic
+14-420-64-1,lezg1247,Lezgian,1233,йиф,CyrillTrans,night,,,yif,Phonemic
+14-430-64-1,lezg1247,Lezgian,729,пакама,CyrillTrans,dawn,,,"pakama, yuɣ malum x̌ayi waxt, pakaman lap fad waxt",Phonemic
+14-430-64-3,lezg1247,Lezgian,729,йугъ малум хьайи вахт,CyrillTrans,dawn,,,"pakama, yuɣ malum x̌ayi waxt, pakaman lap fad waxt",Phonemic
+14-430-64-5,lezg1247,Lezgian,729,пакаман лап фад вахт,CyrillTrans,dawn,,,"pakama, yuɣ malum x̌ayi waxt, pakaman lap fad waxt",Phonemic
+14-440-64-1,lezg1247,Lezgian,1339,пакама,CyrillTrans,morning,,,"pakama, pakaman waxt, ekünin waxt",Phonemic
+14-440-64-3,lezg1247,Lezgian,1339,пакаман вахт,CyrillTrans,morning,,,"pakama, pakaman waxt, ekünin waxt",Phonemic
+14-440-64-5,lezg1247,Lezgian,1339,экуьнин вахт,CyrillTrans,morning,,,"pakama, pakaman waxt, ekünin waxt",Phonemic
+14-450-64-1,lezg1247,Lezgian,12,нисини,CyrillTrans,"noon, midday",,,"nisini, nisinin waxt",Phonemic
+14-450-64-3,lezg1247,Lezgian,12,нисинин вахт,CyrillTrans,"noon, midday",,,"nisini, nisinin waxt",Phonemic
+14-451-64-1,lezg1247,Lezgian,1807,нисинилай кьулухъ,CyrillTrans,afternoon,,,nisinilay qʼuluq,Phonemic
+14-460-64-1,lezg1247,Lezgian,1629,нйани,CyrillTrans,evening,,,nyani,Phonemic
+14-470-64-1,lezg1247,Lezgian,1283,къе,CyrillTrans,today,,,q̄e,Phonemic
+14-480-64-1,lezg1247,Lezgian,1329,пака,CyrillTrans,tomorrow,,,paka,Phonemic
+14-481-64-1,lezg1247,Lezgian,1179,муькуь йикъуз,CyrillTrans,day-after-tomorrow,,,mükü yiq̄uz,Phonemic
+14-490-64-1,lezg1247,Lezgian,1174,накь,CyrillTrans,yesterday,,,naqʼ,Phonemic
+14-491-64-1,lezg1247,Lezgian,1180,накь ваъ випик квай йикъуз,CyrillTrans,day-before-yesterday,,,naqʼ waʔ wipik kʷay yiq̄uz,Phonemic
+14-510-64-1,lezg1247,Lezgian,1353,сйат,CyrillTrans,hour,,,syat,Phonemic
+14-530-64-1,lezg1247,Lezgian,1323,сйат,CyrillTrans,"clock, timepiece",,,syat,Phonemic
+14-610-64-1,lezg1247,Lezgian,1469,гьафте,CyrillTrans,week,,,hafte,Phonemic
+14-620-64-1,lezg1247,Lezgian,1699,гьед,CyrillTrans,Sunday,,,"hed, bazardin yuɣ",Phonemic
+14-620-64-3,lezg1247,Lezgian,1699,базардин йугъ,CyrillTrans,Sunday,,,"hed, bazardin yuɣ",Phonemic
+14-630-64-1,lezg1247,Lezgian,1697,ислен,CyrillTrans,Monday,,,islen,Phonemic
+14-640-64-1,lezg1247,Lezgian,1695,саласа,CyrillTrans,Tuesday,,,salasa,Phonemic
+14-650-64-1,lezg1247,Lezgian,1694,арбе,CyrillTrans,Wednesday,,,arbe,Phonemic
+14-660-64-1,lezg1247,Lezgian,1693,хемис,CyrillTrans,Thursday,,,xemis,Phonemic
+14-670-64-1,lezg1247,Lezgian,1692,жуьмйа,CyrillTrans,Friday,,,žümya,Phonemic
+14-680-64-1,lezg1247,Lezgian,1700,киш,CyrillTrans,Saturday,,,kiš,Phonemic
+14-710-64-1,lezg1247,Lezgian,1370,варз,CyrillTrans,month,,,warz,Phonemic
+14-730-64-1,lezg1247,Lezgian,1226,йис,CyrillTrans,year,,,yis,Phonemic
+14-740-64-1,lezg1247,Lezgian,1471,кьуьд,CyrillTrans,winter,,,qʼüd,Phonemic
+14-750-64-1,lezg1247,Lezgian,1537,гатфар,CyrillTrans,spring,,,gatfar,Phonemic
+14-760-64-1,lezg1247,Lezgian,1342,гад,CyrillTrans,summer,,,gad,Phonemic
+14-770-64-1,lezg1247,Lezgian,1276,зул,CyrillTrans,autumn,,,zul,Phonemic
+14-780-64-1,lezg1247,Lezgian,691,йисан кьуд вахтуникай сад,CyrillTrans,season,,,yisan qʼud waxtunikay sad,Phonemic
+15-210-64-1,lezg1247,Lezgian,1587,ни атун,CyrillTrans,smell (vb intrans),,,ni atun,Phonemic
+15-212-64-1,lezg1247,Lezgian,375,чІуф авун,CyrillTrans,sniff,,,č’uf awun,Phonemic
+15-220-64-1,lezg1247,Lezgian,1586,ни чІугун,CyrillTrans,smell (vb trans),,,ni č’ugun,Phonemic
+15-250-64-1,lezg1247,Lezgian,376,атир (этир),CyrillTrans,"fragrant, good smelling",,,"atir (etir), qsan ni",Phonemic
+15-250-64-3,lezg1247,Lezgian,376,хъсан ни,CyrillTrans,"fragrant, good smelling",,,"atir (etir), qsan ni",Phonemic
+15-260-64-1,lezg1247,Lezgian,42,пис ни,CyrillTrans,"stinking, bad smelling",,,"pis ni, pis yal",Phonemic
+15-260-64-3,lezg1247,Lezgian,42,пис йал,CyrillTrans,"stinking, bad smelling",,,"pis ni, pis yal",Phonemic
+15-310-64-1,lezg1247,Lezgian,21,дад,CyrillTrans,taste,,,dad,Phonemic
+15-350-64-1,lezg1247,Lezgian,717,ширин,CyrillTrans,sweet,,,širin,Phonemic
+15-360-64-1,lezg1247,Lezgian,1091,уьцІу,CyrillTrans,salty,,,"üc’u, qʼel kʷay",Phonemic
+15-360-64-3,lezg1247,Lezgian,1091,кьел квай,CyrillTrans,salty,,,"üc’u, qʼel kʷay",Phonemic
+15-370-64-1,lezg1247,Lezgian,887,туькьуьл,CyrillTrans,bitter,,,tüqʼül,Phonemic
+15-380-64-1,lezg1247,Lezgian,1906,цуру,CyrillTrans,"acid, sour",,,curu,Phonemic
+15-390-64-1,lezg1247,Lezgian,70,тІимил кьел квай,CyrillTrans,brackish,,,tʼimil qʼel kʷay,Phonemic
+15-410-64-1,lezg1247,Lezgian,1408,ван атун,CyrillTrans,hear,,,wan atun,Phonemic
+15-420-64-1,lezg1247,Lezgian,1608,йаб гун,CyrillTrans,listen,,,"yab gun, yab akalun",Phonemic
+15-420-64-3,lezg1247,Lezgian,1608,йаб акалун,CyrillTrans,listen,,,"yab gun, yab akalun",Phonemic
+15-440-64-1,lezg1247,Lezgian,1811,ван,CyrillTrans,"sound, noise",,,wan,Phonemic
+15-450-64-1,lezg1247,Lezgian,377,гужлу,CyrillTrans,loud,,,"gužlu, kʼewi",Phonemic
+15-450-64-3,lezg1247,Lezgian,377,кІеви,CyrillTrans,loud,,,"gužlu, kʼewi",Phonemic
+15-460-64-1,lezg1247,Lezgian,1314,аста,CyrillTrans,"quiet, silence",,,"asta, yawaš, sekin",Phonemic
+15-460-64-3,lezg1247,Lezgian,1314,йаваш,CyrillTrans,"quiet, silence",,,"asta, yawaš, sekin",Phonemic
+15-460-64-5,lezg1247,Lezgian,1314,секин,CyrillTrans,"quiet, silence",,,"asta, yawaš, sekin",Phonemic
+15-510-64-1,lezg1247,Lezgian,1409,акун,CyrillTrans,see,,,akun,Phonemic
+15-520-64-1,lezg1247,Lezgian,1819,килигун,CyrillTrans,"look, look at",,,kiligun,Phonemic
+15-550-64-1,lezg1247,Lezgian,1039,къалурун,CyrillTrans,show,,,q̄alurun,Phonemic
+15-560-64-1,lezg1247,Lezgian,708,экв гун,CyrillTrans,shine,,,"ekʷ gun, išiɣ gun",Phonemic
+15-560-64-3,lezg1247,Lezgian,708,ишигъ гун,CyrillTrans,shine,,,"ekʷ gun, išiɣ gun",Phonemic
+15-570-64-1,lezg1247,Lezgian,679,къати,CyrillTrans,bright,,,"q̄ati, lap ačux, aq̄atay",Phonemic
+15-570-64-3,lezg1247,Lezgian,679,лап ачух,CyrillTrans,bright,,,"q̄ati, lap ačux, aq̄atay",Phonemic
+15-570-64-5,lezg1247,Lezgian,679,акъатай,CyrillTrans,bright,,,"q̄ati, lap ačux, aq̄atay",Phonemic
+15-610-64-1,lezg1247,Lezgian,1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-64-1,lezg1247,Lezgian,250,экуь,CyrillTrans,light (in color),,,ekü,Phonemic
+15-630-64-1,lezg1247,Lezgian,706,мичІи,CyrillTrans,dark (in color),,,mič’i,Phonemic
+15-640-64-1,lezg1247,Lezgian,1335,лацу,CyrillTrans,white,,,lacu,Phonemic
+15-650-64-1,lezg1247,Lezgian,163,чІулав,CyrillTrans,black,,,č’ulaw,Phonemic
+15-660-64-1,lezg1247,Lezgian,156,йару,CyrillTrans,red,,,yaru,Phonemic
+15-670-64-1,lezg1247,Lezgian,837,вили,CyrillTrans,blue,,,wili,Phonemic
+15-680-64-1,lezg1247,Lezgian,1425,къацу,CyrillTrans,green,,,q̄acu,Phonemic
+15-690-64-1,lezg1247,Lezgian,1424,хъипи,CyrillTrans,yellow,,,qipi,Phonemic
+15-710-64-1,lezg1247,Lezgian,1892,кйагъун,CyrillTrans,touch,,,kyaɣun,Phonemic
+15-712-64-1,lezg1247,Lezgian,378,чуькьуьн,CyrillTrans,pinch,,,čüqʼün,Phonemic
+15-720-64-1,lezg1247,Lezgian,1079,кьатІун,CyrillTrans,feel,,,"qʼatʼun, xabar x̌un",Phonemic
+15-720-64-3,lezg1247,Lezgian,1079,хабар хьун,CyrillTrans,feel,,,"qʼatʼun, xabar x̌un",Phonemic
+15-740-64-1,lezg1247,Lezgian,1884,кІеви,CyrillTrans,hard,,,kʼewi,Phonemic
+15-750-64-1,lezg1247,Lezgian,1856,хъуьтуьл,CyrillTrans,soft,,,"qütül, yumšaɣ",Phonemic
+15-750-64-3,lezg1247,Lezgian,1856,йумшагъ,CyrillTrans,soft,,,"qütül, yumšaɣ",Phonemic
+15-760-64-1,lezg1247,Lezgian,1923,векъи,CyrillTrans,rough,,,weq̄i,Phonemic
+15-770-64-1,lezg1247,Lezgian,1234,цІалцІам,CyrillTrans,smooth,,,c’alc’am,Phonemic
+15-780-64-1,lezg1247,Lezgian,1396,кІвенкІ алай,CyrillTrans,sharp,,,"kʼʷenkʼ alay, xci",Phonemic
+15-780-64-3,lezg1247,Lezgian,1396,хци,CyrillTrans,sharp,,,"kʼʷenkʼ alay, xci",Phonemic
+15-790-64-1,lezg1247,Lezgian,379,кІвенкІ алагир,CyrillTrans,"blunt, dull",,,"kʼʷenkʼ alagir, q̄ürü",Phonemic
+15-790-64-3,lezg1247,Lezgian,379,къуьруь,CyrillTrans,"blunt, dull",,,"kʼʷenkʼ alagir, q̄ürü",Phonemic
+15-810-64-1,lezg1247,Lezgian,1210,залан,CyrillTrans,heavy,,,"zalan, četin",Phonemic
+15-810-64-3,lezg1247,Lezgian,1210,четин,CyrillTrans,heavy,,,"zalan, četin",Phonemic
+15-820-64-1,lezg1247,Lezgian,1052,кьезил,CyrillTrans,light (in weight),,,qʼezil,Phonemic
+15-830-64-1,lezg1247,Lezgian,1726,кьежей,CyrillTrans,"wet, damp",,,"qʼežey, lamu",Phonemic
+15-830-64-3,lezg1247,Lezgian,1726,ламу,CyrillTrans,"wet, damp",,,"qʼežey, lamu",Phonemic
+15-840-64-1,lezg1247,Lezgian,1398,кьурай,CyrillTrans,dry,,,qʼuray,Phonemic
+15-850-64-1,lezg1247,Lezgian,1286,кудай,CyrillTrans,hot,,,"kuday, ifenway, gzaf čimi",Phonemic
+15-850-64-3,lezg1247,Lezgian,1286,ифенвай,CyrillTrans,hot,,,"kuday, ifenway, gzaf čimi",Phonemic
+15-850-64-5,lezg1247,Lezgian,1286,гзаф чими,CyrillTrans,hot,,,"kuday, ifenway, gzaf čimi",Phonemic
+15-851-64-1,lezg1247,Lezgian,1232,чими,CyrillTrans,warm,,,čimi,Phonemic
+15-860-64-1,lezg1247,Lezgian,1287,къайи,CyrillTrans,cold,,,q̄ayi,Phonemic
+15-870-64-1,lezg1247,Lezgian,704,михьи,CyrillTrans,clean,,,mix̌i,Phonemic
+15-880-64-1,lezg1247,Lezgian,1230,чиркин,CyrillTrans,"dirty, soiled",,,"čirkin, qʼac’ay",Phonemic
+15-880-64-3,lezg1247,Lezgian,1230,кьацІай,CyrillTrans,"dirty, soiled",,,"čirkin, qʼac’ay",Phonemic
+15-890-64-1,lezg1247,Lezgian,380,тІушунай,CyrillTrans,wrinkled,,,"tʼušunay, šütqʼuray, šütqʼʷey",Phonemic
+15-890-64-3,lezg1247,Lezgian,380,шуьткьурай,CyrillTrans,wrinkled,,,"tʼušunay, šütqʼuray, šütqʼʷey",Phonemic
+15-890-64-5,lezg1247,Lezgian,380,шуьткьвей,CyrillTrans,wrinkled,,,"tʼušunay, šütqʼuray, šütqʼʷey",Phonemic
+16-110-64-1,lezg1247,Lezgian,53,руьгь,CyrillTrans,"soul, spirit",,,"rüh, čan",Phonemic
+16-110-64-3,lezg1247,Lezgian,53,чан,CyrillTrans,"soul, spirit",,,"rüh, čan",Phonemic
+16-150-64-1,lezg1247,Lezgian,1572,тажуб хьайи,CyrillTrans,"surprised, astonished",,,"tažub x̌ayi, myahtel, tažublu",Phonemic
+16-150-64-3,lezg1247,Lezgian,1572,мйагьтел,CyrillTrans,"surprised, astonished",,,"tažub x̌ayi, myahtel, tažublu",Phonemic
+16-150-64-5,lezg1247,Lezgian,1572,тажублу,CyrillTrans,"surprised, astonished",,,"tažub x̌ayi, myahtel, tažublu",Phonemic
+16-180-64-1,lezg1247,Lezgian,720,агалкьун,CyrillTrans,"good fortune, luck",,,"agalqʼun, kar, tükʼün",Phonemic
+16-180-64-3,lezg1247,Lezgian,720,кар,CyrillTrans,"good fortune, luck",,,"agalqʼun, kar, tükʼün",Phonemic
+16-180-64-5,lezg1247,Lezgian,720,туькІуьн,CyrillTrans,"good fortune, luck",,,"agalqʼun, kar, tükʼün",Phonemic
+16-190-64-1,lezg1247,Lezgian,56,агалкьунар тахьун,CyrillTrans,"misfortune, bad luck",,,"agalqʼunar tax̌un, tatugun, kar tükʼün tawun",Phonemic
+16-190-64-3,lezg1247,Lezgian,56,татугун,CyrillTrans,"misfortune, bad luck",,,"agalqʼunar tax̌un, tatugun, kar tükʼün tawun",Phonemic
+16-190-64-5,lezg1247,Lezgian,56,кар туькІуьн тавун,CyrillTrans,"misfortune, bad luck",,,"agalqʼunar tax̌un, tatugun, kar tükʼün tawun",Phonemic
+16-230-64-1,lezg1247,Lezgian,1495,шад,CyrillTrans,"joyful, glad, happy",,,"šad, xʷeši, baxtlu",Phonemic
+16-230-64-3,lezg1247,Lezgian,1495,хвеши,CyrillTrans,"joyful, glad, happy",,,"šad, xʷeši, baxtlu",Phonemic
+16-230-64-5,lezg1247,Lezgian,1495,бахтлу,CyrillTrans,"joyful, glad, happy",,,"šad, xʷeši, baxtlu",Phonemic
+16-250-64-1,lezg1247,Lezgian,1355,хъуьруьн,CyrillTrans,laugh,,,qürün,Phonemic
+16-251-64-1,lezg1247,Lezgian,1451,кІуф хъуьруьн,CyrillTrans,smile,,,"kʼuf qürün, kʼufak qʷer x̌un",Phonemic
+16-251-64-3,lezg1247,Lezgian,1451,кІуфак хъвер хьун,CyrillTrans,smile,,,"kʼuf qürün, kʼufak qʷer x̌un",Phonemic
+16-260-64-1,lezg1247,Lezgian,1413,къугъун,CyrillTrans,play,,,quɣun,Phonemic
+16-270-64-1,lezg1247,Lezgian,923,кІан хьун,CyrillTrans,love,,,kʼan x̌un,Phonemic
+16-290-64-1,lezg1247,Lezgian,578,теменар гун,CyrillTrans,kiss,,,"temenar gun, p’ahar gun",Phonemic
+16-290-64-3,lezg1247,Lezgian,578,пІагьар гун,CyrillTrans,kiss,,,"temenar gun, p’ahar gun",Phonemic
+16-300-64-1,lezg1247,Lezgian,928,гардан кьун,CyrillTrans,embrace,,,"gardan qʼun, q̄užaxda qʼun",Phonemic
+16-300-64-3,lezg1247,Lezgian,928,къужахда кьун,CyrillTrans,embrace,,,"gardan qʼun, q̄užaxda qʼun",Phonemic
+16-310-64-1,lezg1247,Lezgian,1783,тІал,CyrillTrans,pain,,,tʼal,Phonemic
+16-320-64-1,lezg1247,Lezgian,1668,гъам,CyrillTrans,"grief, sorrow, sadness",,,"ɣam, xažalat, dert",Phonemic
+16-320-64-3,lezg1247,Lezgian,1668,хажалат,CyrillTrans,"grief, sorrow, sadness",,,"ɣam, xažalat, dert",Phonemic
+16-320-64-5,lezg1247,Lezgian,1668,дерт,CyrillTrans,"grief, sorrow, sadness",,,"ɣam, xažalat, dert",Phonemic
+16-330-64-1,lezg1247,Lezgian,1000,къалабулух,CyrillTrans,"anxiety, worry",,,"q̄alabulux, haray ewer, q̄urxu",Phonemic
+16-330-64-3,lezg1247,Lezgian,1000,гьарай эвер,CyrillTrans,"anxiety, worry",,,"q̄alabulux, haray ewer, q̄urxu",Phonemic
+16-330-64-5,lezg1247,Lezgian,1000,къурху,CyrillTrans,"anxiety, worry",,,"q̄alabulux, haray ewer, q̄urxu",Phonemic
+16-340-64-1,lezg1247,Lezgian,1875,гьайиф чІугун,CyrillTrans,"regret, be sorry",,,"hayif č’ugun, hayif atun",Phonemic
+16-340-64-3,lezg1247,Lezgian,1875,гьайиф атун,CyrillTrans,"regret, be sorry",,,"hayif č’ugun, hayif atun",Phonemic
+16-350-64-1,lezg1247,Lezgian,1141,гьайиф,CyrillTrans,pity,,,hayif,Phonemic
+16-370-64-1,lezg1247,Lezgian,1839,шехьун,CyrillTrans,"cry, weep",,,šex̌un,Phonemic
+16-380-64-1,lezg1247,Lezgian,1651,нагъв,CyrillTrans,tear (noun),,,naɣʷ,Phonemic
+16-390-64-1,lezg1247,Lezgian,716,угь авун,CyrillTrans,groan,,,"uh awun, suza awun",Phonemic
+16-390-64-3,lezg1247,Lezgian,716,суза авун,CyrillTrans,groan,,,"uh awun, suza awun",Phonemic
+16-410-64-1,lezg1247,Lezgian,1607,гзаф такІан хьун,CyrillTrans,hate,,,gzaf takʼan x̌un,Phonemic
+16-420-64-1,lezg1247,Lezgian,82,хъел,CyrillTrans,anger,,,"qel, ažuɣ",Phonemic
+16-420-64-3,lezg1247,Lezgian,82,ажугъ,CyrillTrans,anger,,,"qel, ažuɣ",Phonemic
+16-440-64-1,lezg1247,Lezgian,40,ихтибарсузвал,CyrillTrans,"envy, jealousy",,,"ixtibarsuzwal, pexilwal",Phonemic
+16-440-64-3,lezg1247,Lezgian,40,пехилвал,CyrillTrans,"envy, jealousy",,,"ixtibarsuzwal, pexilwal",Phonemic
+16-450-64-1,lezg1247,Lezgian,1776,руьгъуьвал,CyrillTrans,shame (noun),,,"rüɣüwal, ar-ayib, ayib",Phonemic
+16-450-64-3,lezg1247,Lezgian,1776,ар-айиб,CyrillTrans,shame (noun),,,"rüɣüwal, ar-ayib, ayib",Phonemic
+16-450-64-5,lezg1247,Lezgian,1776,айиб,CyrillTrans,shame (noun),,,"rüɣüwal, ar-ayib, ayib",Phonemic
+16-480-64-1,lezg1247,Lezgian,174,дамах гвай,CyrillTrans,proud,,,"damax gʷay, takabur, takaburlu",Phonemic
+16-480-64-3,lezg1247,Lezgian,174,такабур,CyrillTrans,proud,,,"damax gʷay, takabur, takaburlu",Phonemic
+16-480-64-5,lezg1247,Lezgian,174,такабурлу,CyrillTrans,proud,,,"damax gʷay, takabur, takaburlu",Phonemic
+16-510-64-1,lezg1247,Lezgian,1779,жуьрэтлу кас,CyrillTrans,dare,,,"žürʔetlu kas, ütkem kas, wikʼeh kas, diribaš kas",Phonemic
+16-510-64-3,lezg1247,Lezgian,1779,уьткем кас,CyrillTrans,dare,,,"žürʔetlu kas, ütkem kas, wikʼeh kas, diribaš kas",Phonemic
+16-510-64-5,lezg1247,Lezgian,1779,викІегь кас,CyrillTrans,dare,,,"žürʔetlu kas, ütkem kas, wikʼeh kas, diribaš kas",Phonemic
+16-510-64-7,lezg1247,Lezgian,1779,дирибаш кас,CyrillTrans,dare,,,"žürʔetlu kas, ütkem kas, wikʼeh kas, diribaš kas",Phonemic
+16-520-64-1,lezg1247,Lezgian,3,жуьрэтлу,CyrillTrans,brave,,,"žürʔetlu, ütkʷem, wikʼeh, diribaš",Phonemic
+16-520-64-3,lezg1247,Lezgian,3,уьтквем,CyrillTrans,brave,,,"žürʔetlu, ütkʷem, wikʼeh, diribaš",Phonemic
+16-520-64-5,lezg1247,Lezgian,3,викІегь,CyrillTrans,brave,,,"žürʔetlu, ütkʷem, wikʼeh, diribaš",Phonemic
+16-520-64-7,lezg1247,Lezgian,3,дирибаш,CyrillTrans,brave,,,"žürʔetlu, ütkʷem, wikʼeh, diribaš",Phonemic
+16-530-64-1,lezg1247,Lezgian,781,кичІ,CyrillTrans,"fear, fright",,,"kič’, kič’ewal",Phonemic
+16-530-64-3,lezg1247,Lezgian,781,кичІевал,CyrillTrans,"fear, fright",,,"kič’, kič’ewal",Phonemic
+16-540-64-1,lezg1247,Lezgian,1810,хата,CyrillTrans,danger,,,"xata, xatawal, q̄urxuwal",Phonemic
+16-540-64-3,lezg1247,Lezgian,1810,хатавал,CyrillTrans,danger,,,"xata, xatawal, q̄urxuwal",Phonemic
+16-540-64-5,lezg1247,Lezgian,1810,къурхувал,CyrillTrans,danger,,,"xata, xatawal, q̄urxuwal",Phonemic
+16-620-64-1,lezg1247,Lezgian,1784,мурад,CyrillTrans,"desire, want",,,"murad, kʼani kar (zatʼ), kʼan x̌un",Phonemic
+16-620-64-3,lezg1247,Lezgian,1784,кІани кар (затІ),CyrillTrans,"desire, want",,,"murad, kʼani kar (zatʼ), kʼan x̌un",Phonemic
+16-620-64-5,lezg1247,Lezgian,1784,кІан хьун,CyrillTrans,"desire, want",,,"murad, kʼani kar (zatʼ), kʼan x̌un",Phonemic
+16-622-64-1,lezg1247,Lezgian,1750,хкйагъун,CyrillTrans,choose,,,"xkyaɣun, xkudun",Phonemic
+16-622-64-3,lezg1247,Lezgian,1750,хкудун,CyrillTrans,choose,,,"xkyaɣun, xkudun",Phonemic
+16-630-64-1,lezg1247,Lezgian,1092,умуд кутун,CyrillTrans,hope,,,"umud kutun, umudlu x̌un",Phonemic
+16-630-64-3,lezg1247,Lezgian,1092,умудлу хьун,CyrillTrans,hope,,,"umud kutun, umudlu x̌un",Phonemic
+16-650-64-1,lezg1247,Lezgian,100,вафалу,CyrillTrans,faithful,,,wafalu,Phonemic
+16-660-64-1,lezg1247,Lezgian,1657,халис,CyrillTrans,true,,,"xalis, haq̄iq̄i",Phonemic
+16-660-64-3,lezg1247,Lezgian,1657,гьакъикъи,CyrillTrans,true,,,"xalis, haq̄iq̄i",Phonemic
+16-670-64-1,lezg1247,Lezgian,601,таб авун,CyrillTrans,"lie, tell lies",,,"tab awun, taparrun",Phonemic
+16-670-64-3,lezg1247,Lezgian,601,тапаррун,CyrillTrans,"lie, tell lies",,,"tab awun, taparrun",Phonemic
+16-680-64-1,lezg1247,Lezgian,13,авачирди лугьун,CyrillTrans,deceit,,,awačirdi luhun,Phonemic
+16-690-64-1,lezg1247,Lezgian,1528,гъил къачун,CyrillTrans,forgive,,,"ɣil q̄ačun, baɣišlamišun",Phonemic
+16-690-64-3,lezg1247,Lezgian,1528,багъишламишун,CyrillTrans,forgive,,,"ɣil q̄ačun, baɣišlamišun",Phonemic
+16-710-64-1,lezg1247,Lezgian,1035,хъсан,CyrillTrans,good,,,qsan,Phonemic
+16-720-64-1,lezg1247,Lezgian,1292,пис,CyrillTrans,bad,,,"pis, usal, behemsuz",Phonemic
+16-720-64-3,lezg1247,Lezgian,1292,усал,CyrillTrans,bad,,,"pis, usal, behemsuz",Phonemic
+16-720-64-5,lezg1247,Lezgian,1292,бегьемсуз,CyrillTrans,bad,,,"pis, usal, behemsuz",Phonemic
+16-730-64-1,lezg1247,Lezgian,1725,дуьз,CyrillTrans,"right, correct",,,"düz, düz tir",Phonemic
+16-730-64-3,lezg1247,Lezgian,1725,дуьз тир,CyrillTrans,"right, correct",,,"düz, düz tir",Phonemic
+16-740-64-1,lezg1247,Lezgian,1390,дуьз тушир,CyrillTrans,wrong,,,"düz tušir, č’uru",Phonemic
+16-740-64-3,lezg1247,Lezgian,1390,чІуру,CyrillTrans,wrong,,,"düz tušir, č’uru",Phonemic
+16-760-64-1,lezg1247,Lezgian,134,тахсир,CyrillTrans,fault,,,"taxsir, xata, č’uru kar",Phonemic
+16-760-64-3,lezg1247,Lezgian,134,хата,CyrillTrans,fault,,,"taxsir, xata, č’uru kar",Phonemic
+16-760-64-5,lezg1247,Lezgian,134,чІуру кар,CyrillTrans,fault,,,"taxsir, xata, č’uru kar",Phonemic
+16-770-64-1,lezg1247,Lezgian,1293,гъалатІ,CyrillTrans,"mistake, error",,,"ɣalatʼ, yaɣalmišwal",Phonemic
+16-770-64-3,lezg1247,Lezgian,1293,йагъалмишвал,CyrillTrans,"mistake, error",,,"ɣalatʼ, yaɣalmišwal",Phonemic
+16-780-64-1,lezg1247,Lezgian,381,тахсир кутун,CyrillTrans,blame,,,taxsir kutun,Phonemic
+16-790-64-1,lezg1247,Lezgian,1687,тариф авун,CyrillTrans,praise,,,tarif awun,Phonemic
+16-810-64-1,lezg1247,Lezgian,1427,гуьзел,CyrillTrans,beautiful,,,"güzel, gürčeg",Phonemic
+16-810-64-3,lezg1247,Lezgian,1427,гуьрчег,CyrillTrans,beautiful,,,"güzel, gürčeg",Phonemic
+16-820-64-1,lezg1247,Lezgian,1548,набут,CyrillTrans,ugly,,,"nabut, mešrebsuz",Phonemic
+16-820-64-3,lezg1247,Lezgian,1548,мешребсуз,CyrillTrans,ugly,,,"nabut, mešrebsuz",Phonemic
+16-830-64-1,lezg1247,Lezgian,2018,къаних,CyrillTrans,greedy,,,"q̄anix, misqʼi, kʼewi, azɣun",Phonemic
+16-830-64-3,lezg1247,Lezgian,2018,мискьи,CyrillTrans,greedy,,,"q̄anix, misqʼi, kʼewi, azɣun",Phonemic
+16-830-64-5,lezg1247,Lezgian,2018,кІеви,CyrillTrans,greedy,,,"q̄anix, misqʼi, kʼewi, azɣun",Phonemic
+16-830-64-7,lezg1247,Lezgian,2018,азгъун,CyrillTrans,greedy,,,"q̄anix, misqʼi, kʼewi, azɣun",Phonemic
+16-840-64-1,lezg1247,Lezgian,1310,акьуллу,CyrillTrans,clever,,,"aqʼullu, aqʼul away",Phonemic
+16-840-64-3,lezg1247,Lezgian,1310,акьул авай,CyrillTrans,clever,,,"aqʼullu, aqʼul away",Phonemic
+17-110-64-1,lezg1247,Lezgian,1562,акьул,CyrillTrans,mind,,,aqʼul,Phonemic
+17-130-64-1,lezg1247,Lezgian,1415,фикир авун,CyrillTrans,think (= reflect),,,fikir awun,Phonemic
+17-140-64-1,lezg1247,Lezgian,1513,гьисабун,CyrillTrans,think (= be of the opinion),,,hisabun,Phonemic
+17-150-64-1,lezg1247,Lezgian,1890,инанмиш хьун,CyrillTrans,believe,,,"inanmiš x̌un, č’alaq x̌un",Phonemic
+17-150-64-3,lezg1247,Lezgian,1890,чІалахъ хьун,CyrillTrans,believe,,,"inanmiš x̌un, č’alaq x̌un",Phonemic
+17-160-64-1,lezg1247,Lezgian,1536,гъавурда гьатун,CyrillTrans,understand,,,"ɣawurda hatun, ɣawurda aqʼun, ɣawurdik kʷaz x̌un",Phonemic
+17-160-64-3,lezg1247,Lezgian,1536,гъавурда акьун,CyrillTrans,understand,,,"ɣawurda hatun, ɣawurda aqʼun, ɣawurdik kʷaz x̌un",Phonemic
+17-160-64-5,lezg1247,Lezgian,1536,гъавурдик кваз хьун,CyrillTrans,understand,,,"ɣawurda hatun, ɣawurda aqʼun, ɣawurdik kʷaz x̌un",Phonemic
+17-170-64-1,lezg1247,Lezgian,1410,чирхьун,CyrillTrans,know,,,čirx̌un,Phonemic
+17-171-64-1,lezg1247,Lezgian,1932,гиман авун,CyrillTrans,guess,,,"giman awun, fikir awun",Phonemic
+17-171-64-3,lezg1247,Lezgian,1932,фикир авун,CyrillTrans,guess,,,"giman awun, fikir awun",Phonemic
+17-172-64-1,lezg1247,Lezgian,117,ухшар авун,CyrillTrans,imitate,,,"uxšar awun, uxšat-mišun",Phonemic
+17-172-64-3,lezg1247,Lezgian,117,ухшат-мишун,CyrillTrans,imitate,,,"uxšar awun, uxšat-mišun",Phonemic
+17-180-64-1,lezg1247,Lezgian,1521,хьиз акун,CyrillTrans,seem,,,x̌iz akun,Phonemic
+17-190-64-1,lezg1247,Lezgian,1609,фикир,CyrillTrans,"idea, notion",,,"fikir, q̄ast",Phonemic
+17-190-64-3,lezg1247,Lezgian,1609,къаст,CyrillTrans,"idea, notion",,,"fikir, q̄ast",Phonemic
+17-210-64-1,lezg1247,Lezgian,698,гзаф акьуллу,CyrillTrans,wise,,,gzaf aqʼullu,Phonemic
+17-220-64-1,lezg1247,Lezgian,1518,ахмакь,CyrillTrans,"foolish, stupid",,,"axmaqʼ, kʼamay, sefiɣ aqʼulsuz",Phonemic
+17-220-64-3,lezg1247,Lezgian,1518,кІамай,CyrillTrans,"foolish, stupid",,,"axmaqʼ, kʼamay, sefiɣ aqʼulsuz",Phonemic
+17-220-64-5,lezg1247,Lezgian,1518,сефигъ акьулсуз,CyrillTrans,"foolish, stupid",,,"axmaqʼ, kʼamay, sefiɣ aqʼulsuz",Phonemic
+17-230-64-1,lezg1247,Lezgian,1899,акьулсуз,CyrillTrans,"insane, crazy",,,"aqʼulsuz, deli",Phonemic
+17-230-64-3,lezg1247,Lezgian,1899,дели,CyrillTrans,"insane, crazy",,,"aqʼulsuz, deli",Phonemic
+17-240-64-1,lezg1247,Lezgian,504,чирун,CyrillTrans,learn,,,"čirun, kʼelun",Phonemic
+17-240-64-3,lezg1247,Lezgian,504,кІелун,CyrillTrans,learn,,,"čirun, kʼelun",Phonemic
+17-242-64-1,lezg1247,Lezgian,1929,чирун,CyrillTrans,study,,,"čirun, kʼelun",Phonemic
+17-242-64-3,lezg1247,Lezgian,1929,кІелун,CyrillTrans,study,,,"čirun, kʼelun",Phonemic
+17-250-64-1,lezg1247,Lezgian,709,тарс гун,CyrillTrans,teach,,,tars gun,Phonemic
+17-260-64-1,lezg1247,Lezgian,753,школада,CyrillTrans,pupil,,,"školada, kʼelzawaydi",Phonemic
+17-260-64-3,lezg1247,Lezgian,753,кІелзавайди,CyrillTrans,pupil,,,"školada, kʼelzawaydi",Phonemic
+17-270-64-1,lezg1247,Lezgian,1038,муалим,CyrillTrans,teacher,,,mualim,Phonemic
+17-280-64-1,lezg1247,Lezgian,673,школа,CyrillTrans,school,,,"škola, mekteb",Phonemic
+17-280-64-3,lezg1247,Lezgian,673,мектеб,CyrillTrans,school,,,"škola, mekteb",Phonemic
+17-310-64-1,lezg1247,Lezgian,707,рикІел хьун,CyrillTrans,remember,,,"rikʼel x̌un, rikʼel ala muqʼun",Phonemic
+17-310-64-3,lezg1247,Lezgian,707,рикІел ала мукьун,CyrillTrans,remember,,,"rikʼel x̌un, rikʼel ala muqʼun",Phonemic
+17-320-64-1,lezg1247,Lezgian,1523,рикІелай алатун,CyrillTrans,forget,,,rikʼelay alatun,Phonemic
+17-340-64-1,lezg1247,Lezgian,989,ачух,CyrillTrans,"clear, plain",,,"ačux, ekü, mix̌i, alax̌ay",Phonemic
+17-340-64-3,lezg1247,Lezgian,989,экуь,CyrillTrans,"clear, plain",,,"ačux, ekü, mix̌i, alax̌ay",Phonemic
+17-340-64-5,lezg1247,Lezgian,989,михьи,CyrillTrans,"clear, plain",,,"ačux, ekü, mix̌i, alax̌ay",Phonemic
+17-340-64-7,lezg1247,Lezgian,989,алахьай,CyrillTrans,"clear, plain",,,"ačux, ekü, mix̌i, alax̌ay",Phonemic
+17-350-64-1,lezg1247,Lezgian,1764,гъавурда гьат тийир,CyrillTrans,obscure,,,"ɣawurda hat tiyir, ɣawurda aqʼan tiyir",Phonemic
+17-350-64-3,lezg1247,Lezgian,1764,гъавурда акьан тийир,CyrillTrans,obscure,,,"ɣawurda hat tiyir, ɣawurda aqʼan tiyir",Phonemic
+17-360-64-1,lezg1247,Lezgian,1121,сир,CyrillTrans,secret,,,sir,Phonemic
+17-370-64-1,lezg1247,Lezgian,509,инанмиш тир,CyrillTrans,"sure, certain",,,"inanmiš tir, myahkem, kʼewi, wič-wičiq aɣur",Phonemic
+17-370-64-3,lezg1247,Lezgian,509,мйагькем,CyrillTrans,"sure, certain",,,"inanmiš tir, myahkem, kʼewi, wič-wičiq aɣur",Phonemic
+17-370-64-5,lezg1247,Lezgian,509,кІеви,CyrillTrans,"sure, certain",,,"inanmiš tir, myahkem, kʼewi, wič-wičiq aɣur",Phonemic
+17-370-64-7,lezg1247,Lezgian,509,вич-вичихъ агъур,CyrillTrans,"sure, certain",,,"inanmiš tir, myahkem, kʼewi, wič-wičiq aɣur",Phonemic
+17-380-64-1,lezg1247,Lezgian,1626,гъавурда тун,CyrillTrans,explain,,,"ɣawurda tun, ačuxrun",Phonemic
+17-380-64-3,lezg1247,Lezgian,1626,ачухрун,CyrillTrans,explain,,,"ɣawurda tun, ačuxrun",Phonemic
+17-410-64-1,lezg1247,Lezgian,1162,мурад,CyrillTrans,"intention, purpose",,,"murad, metleb",Phonemic
+17-410-64-3,lezg1247,Lezgian,1162,метлеб,CyrillTrans,"intention, purpose",,,"murad, metleb",Phonemic
+17-420-64-1,lezg1247,Lezgian,860,себеб,CyrillTrans,cause,,,sebeb,Phonemic
+17-430-64-1,lezg1247,Lezgian,1308,шак,CyrillTrans,doubt,,,šak,Phonemic
+17-440-64-1,lezg1247,Lezgian,1841,шак авун,CyrillTrans,suspect,,,"šak awun, fikir awun",Phonemic
+17-440-64-3,lezg1247,Lezgian,1841,фикир авун,CyrillTrans,suspect,,,"šak awun, fikir awun",Phonemic
+17-441-64-1,lezg1247,Lezgian,1902,хаинвал авун,CyrillTrans,betray,,,"xainwal awun, masa gun",Phonemic
+17-441-64-3,lezg1247,Lezgian,1902,маса гун,CyrillTrans,betray,,,"xainwal awun, masa gun",Phonemic
+17-450-64-1,lezg1247,Lezgian,643,лазимвал,CyrillTrans,"need, necessity",,,"lazimwal, gerekwal, čarasuzwal",Phonemic
+17-450-64-3,lezg1247,Lezgian,643,гереквал,CyrillTrans,"need, necessity",,,"lazimwal, gerekwal, čarasuzwal",Phonemic
+17-450-64-5,lezg1247,Lezgian,643,чарасузвал,CyrillTrans,"need, necessity",,,"lazimwal, gerekwal, čarasuzwal",Phonemic
+17-460-64-1,lezg1247,Lezgian,686,регьйат,CyrillTrans,easy,,,"rehyat, asant",Phonemic
+17-460-64-3,lezg1247,Lezgian,686,асант,CyrillTrans,easy,,,"rehyat, asant",Phonemic
+17-470-64-1,lezg1247,Lezgian,584,четин,CyrillTrans,difficult,,,"četin, žafa",Phonemic
+17-470-64-3,lezg1247,Lezgian,584,жафа,CyrillTrans,difficult,,,"četin, žafa",Phonemic
+17-480-64-1,lezg1247,Lezgian,1812,алахъун,CyrillTrans,"try, attempt",,,alaqun,Phonemic
+17-490-64-1,lezg1247,Lezgian,488,къайда,CyrillTrans,"way, manner",,,"q̄ayda, teher, sayaɣ, req",Phonemic
+17-490-64-3,lezg1247,Lezgian,488,тегьер,CyrillTrans,"way, manner",,,"q̄ayda, teher, sayaɣ, req",Phonemic
+17-490-64-5,lezg1247,Lezgian,488,сайагъ,CyrillTrans,"way, manner",,,"q̄ayda, teher, sayaɣ, req",Phonemic
+17-490-64-7,lezg1247,Lezgian,488,рехъ,CyrillTrans,"way, manner",,,"q̄ayda, teher, sayaɣ, req",Phonemic
+17-510-64-1,lezg1247,Lezgian,1577,-ни,CyrillTrans,and,,,"-ni, wa",Phonemic
+17-510-64-3,lezg1247,Lezgian,1577,ва,CyrillTrans,and,,,"-ni, wa",Phonemic
+17-520-64-1,lezg1247,Lezgian,1157,вучиз лагьайтІа,CyrillTrans,because,,,wučiz lahaytʼa,Phonemic
+17-530-64-1,lezg1247,Lezgian,1459,нагагь,CyrillTrans,if,,,"nagah, -tʼa",Phonemic
+17-530-64-3,lezg1247,Lezgian,1459,-тІа,CyrillTrans,if,,,"nagah, -tʼa",Phonemic
+17-540-64-1,lezg1247,Lezgian,1014,йа,CyrillTrans,or,,,"ya, wa ya",Phonemic
+17-540-64-3,lezg1247,Lezgian,1014,ва йа,CyrillTrans,or,,,"ya, wa ya",Phonemic
+17-550-64-1,lezg1247,Lezgian,1268,эхь,CyrillTrans,"yes, affirmative",,,"ex̌, un, belki, bes",Phonemic
+17-550-64-3,lezg1247,Lezgian,1268,ун,CyrillTrans,"yes, affirmative",,,"ex̌, un, belki, bes",Phonemic
+17-550-64-5,lezg1247,Lezgian,1268,белки,CyrillTrans,"yes, affirmative",,,"ex̌, un, belki, bes",Phonemic
+17-550-64-7,lezg1247,Lezgian,1268,бес,CyrillTrans,"yes, affirmative",,,"ex̌, un, belki, bes",Phonemic
+17-560-64-1,lezg1247,Lezgian,1269,ваъ,CyrillTrans,"no, negative",,,waˤ,Phonemic
+17-610-64-1,lezg1247,Lezgian,1239,гьикІ,CyrillTrans,how?,,,hikʼ,Phonemic
+17-620-64-1,lezg1247,Lezgian,822,шумуд,CyrillTrans,how many?,,,šumud,Phonemic
+17-630-64-1,lezg1247,Lezgian,531,гьикьван,CyrillTrans,how much?,,,hiqʼʷan,Phonemic
+17-640-64-1,lezg1247,Lezgian,1236,вуч,CyrillTrans,what?,,,wuč,Phonemic
+17-650-64-1,lezg1247,Lezgian,1238,мус,CyrillTrans,when?,,,mus,Phonemic
+17-660-64-1,lezg1247,Lezgian,1237,гьина,CyrillTrans,where?,,,"hina, hiniz, hinay",Phonemic
+17-660-64-3,lezg1247,Lezgian,1237,гьиниз,CyrillTrans,where?,,,"hina, hiniz, hinay",Phonemic
+17-660-64-5,lezg1247,Lezgian,1237,гьинай,CyrillTrans,where?,,,"hina, hiniz, hinay",Phonemic
+17-670-64-1,lezg1247,Lezgian,727,гьихьтин,CyrillTrans,which?,,,hix̌tin,Phonemic
+17-680-64-1,lezg1247,Lezgian,1235,вуж,CyrillTrans,who?,,,wuž,Phonemic
+17-690-64-1,lezg1247,Lezgian,1270,вучиз,CyrillTrans,why?,,,wučiz,Phonemic
+18-110-64-1,lezg1247,Lezgian,1363,сес,CyrillTrans,voice,,,"ses, wan",Phonemic
+18-110-64-3,lezg1247,Lezgian,1363,ван,CyrillTrans,voice,,,"ses, wan",Phonemic
+18-120-64-1,lezg1247,Lezgian,1261,мани лугьун,CyrillTrans,sing,,,"mani luhun, mani(yar) yaɣun",Phonemic
+18-120-64-3,lezg1247,Lezgian,1261,мани(йар) йагъун,CyrillTrans,sing,,,"mani luhun, mani(yar) yaɣun",Phonemic
+18-130-64-1,lezg1247,Lezgian,715,гьарайун,CyrillTrans,"shout, cry out",,,harayun,Phonemic
+18-150-64-1,lezg1247,Lezgian,55,кушкуш авун,CyrillTrans,whisper,,,"kuškuš awun, yawašdiz luhun, kuškušdaldi raxun",Phonemic
+18-150-64-3,lezg1247,Lezgian,55,йавашдиз лугьун,CyrillTrans,whisper,,,"kuškuš awun, yawašdiz luhun, kuškušdaldi raxun",Phonemic
+18-150-64-5,lezg1247,Lezgian,55,кушкушдалди рахун,CyrillTrans,whisper,,,"kuškuš awun, yawašdiz luhun, kuškušdaldi raxun",Phonemic
+18-160-64-1,lezg1247,Lezgian,128,мурмур авун,CyrillTrans,mumble,,,"murmur awun, wič-wičik raxun, p’uzarrin kʼanikay raxun",Phonemic
+18-160-64-3,lezg1247,Lezgian,128,вич-вичик рахун,CyrillTrans,mumble,,,"murmur awun, wič-wičik raxun, p’uzarrin kʼanikay raxun",Phonemic
+18-160-64-5,lezg1247,Lezgian,128,пІузаррин кІаникай рахун,CyrillTrans,mumble,,,"murmur awun, wič-wičik raxun, p’uzarrin kʼanikay raxun",Phonemic
+18-170-64-1,lezg1247,Lezgian,1025,уьфт йагъун,CyrillTrans,whistle,,,üft yaɣun,Phonemic
+18-180-64-1,lezg1247,Lezgian,298,цІугъ авун,CyrillTrans,"shriek, screech",,,"c’uɣ awun, c’uɣar aq̄atun",Phonemic
+18-180-64-3,lezg1247,Lezgian,298,цІугъар акъатун,CyrillTrans,"shriek, screech",,,"c’uɣ awun, c’uɣar aq̄atun",Phonemic
+18-190-64-1,lezg1247,Lezgian,526,къув йагъун,CyrillTrans,howl,,,"q̄uw yaɣun, aw č’ugun",Phonemic
+18-190-64-3,lezg1247,Lezgian,526,ав чІугун,CyrillTrans,howl,,,"q̄uw yaɣun, aw č’ugun",Phonemic
+18-210-64-1,lezg1247,Lezgian,1623,рахун,CyrillTrans,"speak, talk",,,raxun,Phonemic
+18-211-64-1,lezg1247,Lezgian,1866,мез галкІун,CyrillTrans,"stutter, stammer",,,mez galkʼun,Phonemic
+18-220-64-1,lezg1247,Lezgian,1458,лугьун,CyrillTrans,say,,,luhun,Phonemic
+18-221-64-1,lezg1247,Lezgian,1711,эхтилат ахъайун,CyrillTrans,tell story,,,"extilat aqayun, extila awun",Phonemic
+18-221-64-3,lezg1247,Lezgian,1711,эхтила авун,CyrillTrans,tell story,,,"extilat aqayun, extila awun",Phonemic
+18-222-64-1,lezg1247,Lezgian,1115,рахун авун,CyrillTrans,speech (make a),,,raxun awun,Phonemic
+18-230-64-1,lezg1247,Lezgian,48,кисун,CyrillTrans,silent (be),,,kisun,Phonemic
+18-240-64-1,lezg1247,Lezgian,1307,чІал,CyrillTrans,language,,,č’al,Phonemic
+18-260-64-1,lezg1247,Lezgian,1599,гаф,CyrillTrans,word,,,gaf,Phonemic
+18-280-64-1,lezg1247,Lezgian,1405,тІвар,CyrillTrans,name,,,tʼʷar,Phonemic
+18-310-64-1,lezg1247,Lezgian,1309,хабар кьун,CyrillTrans,"ask (question, inquire)",,,"xabar qʼun, sual gun",Phonemic
+18-310-64-3,lezg1247,Lezgian,1309,суал гун,CyrillTrans,"ask (question, inquire)",,,"xabar qʼun, sual gun",Phonemic
+18-320-64-1,lezg1247,Lezgian,1275,жаваб гун,CyrillTrans,answer,,,žawab gun,Phonemic
+18-330-64-1,lezg1247,Lezgian,2022,хиве кьун,CyrillTrans,"admit, confess",,,xiwe qʼun,Phonemic
+18-340-64-1,lezg1247,Lezgian,755,хиве такьун,CyrillTrans,deny,,,"xiwe taqʼun, inkar awun",Phonemic
+18-340-64-3,lezg1247,Lezgian,755,инкар авун,CyrillTrans,deny,,,"xiwe taqʼun, inkar awun",Phonemic
+18-350-64-1,lezg1247,Lezgian,1828,тІалабун,CyrillTrans,"ask, request",,,tʼalabun,Phonemic
+18-360-64-1,lezg1247,Lezgian,1675,гаф гун,CyrillTrans,promise,,,gaf gun,Phonemic
+18-370-64-1,lezg1247,Lezgian,49,кьабул тавун,CyrillTrans,refuse,,,"qʼabul tawun, waʔ lahana žawab gun",Phonemic
+18-370-64-3,lezg1247,Lezgian,49,ваъ лагьана жаваб гун,CyrillTrans,refuse,,,"qʼabul tawun, waʔ lahana žawab gun",Phonemic
+18-380-64-1,lezg1247,Lezgian,83,къадагъа авун,CyrillTrans,forbid,,,q̄adaɣa awun,Phonemic
+18-390-64-1,lezg1247,Lezgian,299,экъуьгъун,CyrillTrans,"rebuke, scold",,,"eq̄üɣun, seb gun",Phonemic
+18-390-64-3,lezg1247,Lezgian,299,себ гун,CyrillTrans,"rebuke, scold",,,"eq̄üɣun, seb gun",Phonemic
+18-410-64-1,lezg1247,Lezgian,1084,кІватІун,CyrillTrans,call (=summon),,,"kʼʷatʼun, ewerun",Phonemic
+18-410-64-3,lezg1247,Lezgian,1084,эверун,CyrillTrans,call (=summon),,,"kʼʷatʼun, ewerun",Phonemic
+18-420-64-1,lezg1247,Lezgian,180,эверун,CyrillTrans,call (=name),,,ewerun,Phonemic
+18-430-64-1,lezg1247,Lezgian,9,малумарун,CyrillTrans,announce,,,malumarun,Phonemic
+18-440-64-1,lezg1247,Lezgian,1192,кичІерар гун,CyrillTrans,threaten,,,"kič’erar gun, q̄urxu gun, heleh gun",Phonemic
+18-440-64-3,lezg1247,Lezgian,1192,къурху гун,CyrillTrans,threaten,,,"kič’erar gun, q̄urxu gun, heleh gun",Phonemic
+18-440-64-5,lezg1247,Lezgian,1192,гьелегь гун,CyrillTrans,threaten,,,"kič’erar gun, q̄urxu gun, heleh gun",Phonemic
+18-450-64-1,lezg1247,Lezgian,101,вичин тариф авун,CyrillTrans,boast,,,"wičin tarif awun, damax awun, yac’u gafar awun",Phonemic
+18-450-64-3,lezg1247,Lezgian,101,дамах авун,CyrillTrans,boast,,,"wičin tarif awun, damax awun, yac’u gafar awun",Phonemic
+18-450-64-5,lezg1247,Lezgian,101,йацІу гафар авун,CyrillTrans,boast,,,"wičin tarif awun, damax awun, yac’u gafar awun",Phonemic
+18-510-64-1,lezg1247,Lezgian,1672,кхьин,CyrillTrans,write,,,kx̌in,Phonemic
+18-520-64-1,lezg1247,Lezgian,724,кІелун,CyrillTrans,read,,,kʼelun,Phonemic
+18-560-64-1,lezg1247,Lezgian,648,чар,CyrillTrans,paper,,,čar,Phonemic
+18-570-64-1,lezg1247,Lezgian,794,къелем,CyrillTrans,pen,,,q̄elem,Phonemic
+18-610-64-1,lezg1247,Lezgian,963,ктаб,CyrillTrans,book,,,ktab,Phonemic
+18-670-64-1,lezg1247,Lezgian,1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-64-1,lezg1247,Lezgian,777,флейта,CyrillTrans,flute,,,fleyta,Phonemic
+18-720-64-1,lezg1247,Lezgian,908,далдам,CyrillTrans,drum,,,daldam,Phonemic
+18-730-64-1,lezg1247,Lezgian,2136,зуьрне,CyrillTrans,"horn, trumpet",,,zürne,Phonemic
+18-740-64-1,lezg1247,Lezgian,300,гъвечІи элкъвей куркур,CyrillTrans,rattle,,,ɣʷeč’i elq̄ʷey kurkur,Phonemic
+19-110-64-1,lezg1247,Lezgian,1300,уьлкве,CyrillTrans,country,,,"ülkʷe, memlekat",Phonemic
+19-110-64-3,lezg1247,Lezgian,1300,мемлекат,CyrillTrans,country,,,"ülkʷe, memlekat",Phonemic
+19-120-64-1,lezg1247,Lezgian,89,жуван мукьвади тир уьлкве,CyrillTrans,one's native country,,,"žuwan muqʼʷadi tir ülkʷe, žuwan baɣri ülkʷe",Phonemic
+19-120-64-3,lezg1247,Lezgian,89,жуван багъри уьлкве,CyrillTrans,one's native country,,,"žuwan muqʼʷadi tir ülkʷe, žuwan baɣri ülkʷe",Phonemic
+19-150-64-1,lezg1247,Lezgian,1391,шегьер,CyrillTrans,"city, town",,,šeher,Phonemic
+19-160-64-1,lezg1247,Lezgian,930,хуьр,CyrillTrans,village,,,xür,Phonemic
+19-170-64-1,lezg1247,Lezgian,1010,сергьйат,CyrillTrans,boundary,,,"serhyat, časpar",Phonemic
+19-170-64-3,lezg1247,Lezgian,1010,часпар,CyrillTrans,boundary,,,"serhyat, časpar",Phonemic
+19-210-64-1,lezg1247,Lezgian,789,халкь,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-64-1,lezg1247,Lezgian,302,тайифа,CyrillTrans,"tribe, clan",,,tayifa,Phonemic
+19-240-64-1,lezg1247,Lezgian,301,регьбер,CyrillTrans,"chief, chieftain",,,rehber,Phonemic
+19-250-64-1,lezg1247,Lezgian,1296,аса,CyrillTrans,"staff, walking stick",,,"asa, ɣile qʼaday laš",Phonemic
+19-250-64-3,lezg1247,Lezgian,1296,гъиле кьадай лаш,CyrillTrans,"staff, walking stick",,,"asa, ɣile qʼaday laš",Phonemic
+19-310-64-1,lezg1247,Lezgian,1846,гьакимвал авун,CyrillTrans,"rule, govern",,,"hakimwal awun, idara awun",Phonemic
+19-310-64-3,lezg1247,Lezgian,1846,идара авун,CyrillTrans,"rule, govern",,,"hakimwal awun, idara awun",Phonemic
+19-320-64-1,lezg1247,Lezgian,1508,пачагь,CyrillTrans,"king, ruler",,,pačah,Phonemic
+19-330-64-1,lezg1247,Lezgian,1306,пачагьдин паб,CyrillTrans,queen,,,pačahdin pab,Phonemic
+19-360-64-1,lezg1247,Lezgian,482,акьуллу,CyrillTrans,"noble, nobleman",,,"aqʼullu, ihtiyatlu",Phonemic
+19-360-64-3,lezg1247,Lezgian,482,игьтийатлу,CyrillTrans,"noble, nobleman",,,"aqʼullu, ihtiyatlu",Phonemic
+19-370-64-1,lezg1247,Lezgian,1032,са уьлкведин эгьли,CyrillTrans,"citizen, subject",,,"sa ülkʷedin ehli, watanehli",Phonemic
+19-370-64-3,lezg1247,Lezgian,1032,ватанэгьли,CyrillTrans,"citizen, subject",,,"sa ülkʷedin ehli, watanehli",Phonemic
+19-410-64-1,lezg1247,Lezgian,383,агъа,CyrillTrans,master,,,"aɣa, žanabi",Phonemic
+19-410-64-3,lezg1247,Lezgian,383,жанаби,CyrillTrans,master,,,"aɣa, žanabi",Phonemic
+19-420-64-1,lezg1247,Lezgian,812,лукІ,CyrillTrans,slave,,,lukʼ,Phonemic
+19-430-64-1,lezg1247,Lezgian,255,къуллугъчи,CyrillTrans,servant,,,q̄ulluɣči,Phonemic
+19-440-64-1,lezg1247,Lezgian,384,азад кас (инсан),CyrillTrans,freeman,,,azad kas (insan),Phonemic
+19-450-64-1,lezg1247,Lezgian,1128,буйругъ авун,CyrillTrans,"command, order",,,"buyruɣ awun, buyurmišun, emir awun",Phonemic
+19-450-64-3,lezg1247,Lezgian,1128,буйурмишун,CyrillTrans,"command, order",,,"buyruɣ awun, buyurmišun, emir awun",Phonemic
+19-450-64-5,lezg1247,Lezgian,1128,эмир авун,CyrillTrans,"command, order",,,"buyruɣ awun, buyurmišun, emir awun",Phonemic
+19-460-64-1,lezg1247,Lezgian,1635,муьтуьгъ хьун,CyrillTrans,obey,,,mütüɣ x̌un,Phonemic
+19-470-64-1,lezg1247,Lezgian,1003,ихтийар гун,CyrillTrans,"let, permit",,,ixtiyar gun,Phonemic
+19-510-64-1,lezg1247,Lezgian,1325,дуст,CyrillTrans,"friend, companion",,,dust,Phonemic
+19-520-64-1,lezg1247,Lezgian,1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-64-1,lezg1247,Lezgian,1332,къунши,CyrillTrans,neighbor,,,q̄unši,Phonemic
+19-550-64-1,lezg1247,Lezgian,791,тийижир кас,CyrillTrans,stranger,,,"tiyižir kas, taniš tušir kas",Phonemic
+19-550-64-3,lezg1247,Lezgian,791,таниш тушир кас,CyrillTrans,stranger,,,"tiyižir kas, taniš tušir kas",Phonemic
+19-560-64-1,lezg1247,Lezgian,1782,мугьман,CyrillTrans,guest,,,muhman,Phonemic
+19-570-64-1,lezg1247,Lezgian,1545,йеси,CyrillTrans,host,,,yesi,Phonemic
+19-580-64-1,lezg1247,Lezgian,1897,куьмек,CyrillTrans,"help, aid",,,kümek,Phonemic
+19-590-64-1,lezg1247,Lezgian,1550,манийвал авун,CyrillTrans,"hinder, prevent",,,"maniywal awun, maniy x̌un",Phonemic
+19-590-64-3,lezg1247,Lezgian,1550,маний хьун,CyrillTrans,"hinder, prevent",,,"maniywal awun, maniy x̌un",Phonemic
+19-610-64-1,lezg1247,Lezgian,1747,адет,CyrillTrans,custom,,,adet,Phonemic
+19-620-64-1,lezg1247,Lezgian,1848,къал,CyrillTrans,"strife, quarrel",,,q̄al,Phonemic
+19-630-64-1,lezg1247,Lezgian,2024,чІуру къаст,CyrillTrans,"conspiracy, plot",,,"č’uru q̄ast, pis q̄ast, icitʼun (izitʼun)",Phonemic
+19-630-64-3,lezg1247,Lezgian,2024,пис къаст,CyrillTrans,"conspiracy, plot",,,"č’uru q̄ast, pis q̄ast, icitʼun (izitʼun)",Phonemic
+19-630-64-5,lezg1247,Lezgian,2024,ицитІун (изитІун),CyrillTrans,"conspiracy, plot",,,"č’uru q̄ast, pis q̄ast, icitʼun (izitʼun)",Phonemic
+19-650-64-1,lezg1247,Lezgian,1831,сад садал гьалтун,CyrillTrans,meet,,,"sad sadal haltun, düšüš x̌un",Phonemic
+19-650-64-3,lezg1247,Lezgian,1831,дуьшуьш хьун,CyrillTrans,meet,,,"sad sadal haltun, düšüš x̌un",Phonemic
+19-720-64-1,lezg1247,Lezgian,1610,къагьбе паб,CyrillTrans,prostitute,,,q̄ahbe pab,Phonemic
+20-110-64-1,lezg1247,Lezgian,1423,дйаве авун,CyrillTrans,fight (vb),,,"dyawe awun, ženg č’ugun",Phonemic
+20-110-64-3,lezg1247,Lezgian,1423,женг чІугун,CyrillTrans,fight (vb),,,"dyawe awun, ženg č’ugun",Phonemic
+20-130-64-1,lezg1247,Lezgian,579,дйаве,CyrillTrans,"war, battle",,,dyawe,Phonemic
+20-140-64-1,lezg1247,Lezgian,1338,ислйагьвал,CyrillTrans,peace,,,"islyahwal, sekinwal, faraq̄atwal",Phonemic
+20-140-64-3,lezg1247,Lezgian,1338,секинвал,CyrillTrans,peace,,,"islyahwal, sekinwal, faraq̄atwal",Phonemic
+20-140-64-5,lezg1247,Lezgian,1338,фаракъатвал,CyrillTrans,peace,,,"islyahwal, sekinwal, faraq̄atwal",Phonemic
+20-150-64-1,lezg1247,Lezgian,1561,кьушун,CyrillTrans,army,,,qʼušun,Phonemic
+20-170-64-1,lezg1247,Lezgian,1941,солдат,CyrillTrans,soldier,,,"soldat, asker",Phonemic
+20-170-64-3,lezg1247,Lezgian,1941,аскер,CyrillTrans,soldier,,,"soldat, asker",Phonemic
+20-210-64-1,lezg1247,Lezgian,951,йаракь,CyrillTrans,"weapons, arms",,,yaraqʼ,Phonemic
+20-220-64-1,lezg1247,Lezgian,1763,вагьрам,CyrillTrans,club,,,"wahram, paya, laš",Phonemic
+20-220-64-3,lezg1247,Lezgian,1763,пайа,CyrillTrans,club,,,"wahram, paya, laš",Phonemic
+20-220-64-5,lezg1247,Lezgian,1763,лаш,CyrillTrans,club,,,"wahram, paya, laš",Phonemic
+20-222-64-1,lezg1247,Lezgian,386,дйаве ийидай йакІакь,CyrillTrans,battle-ax,,,dyawe iyiday yakʼaqʼ,Phonemic
+20-230-64-1,lezg1247,Lezgian,387,цІапан,CyrillTrans,sling,,,c’apan,Phonemic
+20-240-64-1,lezg1247,Lezgian,994,чІемерук,CyrillTrans,bow,,,č’emeruk,Phonemic
+20-250-64-1,lezg1247,Lezgian,977,хьел,CyrillTrans,arrow,,,x̌el,Phonemic
+20-260-64-1,lezg1247,Lezgian,945,жида,CyrillTrans,spear,,,žida,Phonemic
+20-270-64-1,lezg1247,Lezgian,1535,гуьрз,CyrillTrans,sword,,,"gürz, tur, q̄ilinž",Phonemic
+20-270-64-3,lezg1247,Lezgian,1535,тур,CyrillTrans,sword,,,"gürz, tur, q̄ilinž",Phonemic
+20-270-64-5,lezg1247,Lezgian,1535,къилинж,CyrillTrans,sword,,,"gürz, tur, q̄ilinž",Phonemic
+20-280-64-1,lezg1247,Lezgian,1566,туп,CyrillTrans,"gun, cannon",,,"tup, tfeng",Phonemic
+20-280-64-3,lezg1247,Lezgian,1566,тфенг,CyrillTrans,"gun, cannon",,,"tup, tfeng",Phonemic
+20-310-64-1,lezg1247,Lezgian,1061,дйаведин йаракьар,CyrillTrans,armor (defensive),,,dyawedin yaraqʼar,Phonemic
+20-330-64-1,lezg1247,Lezgian,1680,шлем,CyrillTrans,helmet,,,šlem,Phonemic
+20-340-64-1,lezg1247,Lezgian,1064,шит,CyrillTrans,shield,,,šit,Phonemic
+20-350-64-1,lezg1247,Lezgian,1938,къеле,CyrillTrans,fortress,,,q̄ele,Phonemic
+20-360-64-1,lezg1247,Lezgian,1671,минара,CyrillTrans,tower,,,minara,Phonemic
+20-410-64-1,lezg1247,Lezgian,783,гъалибвал,CyrillTrans,victory,,,ɣalibwal,Phonemic
+20-420-64-1,lezg1247,Lezgian,782,хун,CyrillTrans,defeat,,,"xun, kukʼʷarun, kʼanik kutun",Phonemic
+20-420-64-3,lezg1247,Lezgian,782,кукІварун,CyrillTrans,defeat,,,"xun, kukʼʷarun, kʼanik kutun",Phonemic
+20-420-64-5,lezg1247,Lezgian,782,кІаник кутун,CyrillTrans,defeat,,,"xun, kukʼʷarun, kʼanik kutun",Phonemic
+20-430-64-1,lezg1247,Lezgian,722,гьужум авун,CyrillTrans,attack,,,hužum awun,Phonemic
+20-440-64-1,lezg1247,Lezgian,1330,оборона авун,CyrillTrans,defend,,,oborona awun,Phonemic
+20-450-64-1,lezg1247,Lezgian,421,кьулухъ хъфин,CyrillTrans,retreat,,,qʼuluq qfin,Phonemic
+20-460-64-1,lezg1247,Lezgian,1696,буш хьун,CyrillTrans,surrender,,,"buš x̌un, bušwal awun, dušmandin ɣile, yesirwile wugun",Phonemic
+20-460-64-3,lezg1247,Lezgian,1696,бушвал авун,CyrillTrans,surrender,,,"buš x̌un, bušwal awun, dušmandin ɣile, yesirwile wugun",Phonemic
+20-460-64-5,lezg1247,Lezgian,1696,душмандин гъиле,CyrillTrans,surrender,,,"buš x̌un, bušwal awun, dušmandin ɣile, yesirwile wugun",Phonemic
+20-460-64-7,lezg1247,Lezgian,1696,йесирвиле вугун,CyrillTrans,surrender,,,"buš x̌un, bušwal awun, dušmandin ɣile, yesirwile wugun",Phonemic
+20-470-64-1,lezg1247,Lezgian,1072,йесир,CyrillTrans,"captive, prisoner",,,yesir,Phonemic
+20-471-64-1,lezg1247,Lezgian,1940,йаракьлу къаравулрин десте,CyrillTrans,"guard, sentinel",,,"yaraqʼlu q̄arawulrin deste, yaraqʼlu q̄arawul(ar)",Phonemic
+20-471-64-3,lezg1247,Lezgian,1940,йаракьлу къаравул(ар),CyrillTrans,"guard, sentinel",,,"yaraqʼlu q̄arawulrin deste, yaraqʼlu q̄arawul(ar)",Phonemic
+20-480-64-1,lezg1247,Lezgian,1022,тарашнавай шейэр,CyrillTrans,"booty, spoils",,,"tarašnaway šeyʔer, q̄aq̄udnaway šeyʔer",Phonemic
+20-480-64-3,lezg1247,Lezgian,1022,къакъуднавай шейэр,CyrillTrans,"booty, spoils",,,"tarašnaway šeyʔer, q̄aq̄udnaway šeyʔer",Phonemic
+20-490-64-1,lezg1247,Lezgian,65,чинеба рехъ атІана акъвазун,CyrillTrans,ambush,,,čineba req atʼana aq̄ʷazun,Phonemic
+20-510-64-1,lezg1247,Lezgian,1858,балугъчи,CyrillTrans,fisherman,,,baluɣči,Phonemic
+20-520-64-1,lezg1247,Lezgian,1074,балугъар кьадай кІир (къармах),CyrillTrans,fishhook,,,baluɣar qʼaday kʼir (q̄armax),Phonemic
+20-530-64-1,lezg1247,Lezgian,19,кІезрийар кьадай,CyrillTrans,fishing line,,,"kʼezriyar qʼaday, rapunin ɣal",Phonemic
+20-530-64-3,lezg1247,Lezgian,19,рапунин гъал,CyrillTrans,fishing line,,,"kʼezriyar qʼaday, rapunin ɣal",Phonemic
+20-540-64-1,lezg1247,Lezgian,388,балугъар кьадай чил,CyrillTrans,fishnet,,,baluɣar qʼaday čil,Phonemic
+20-550-64-1,lezg1247,Lezgian,389,балугъар кьадай чартма,CyrillTrans,fish trap,,,baluɣar qʼaday čartma,Phonemic
+20-560-64-1,lezg1247,Lezgian,2013,алдатмишун патал темйагъ ракъурдай затІ,CyrillTrans,bait,,,aldatmišun patal temyaɣ raq̄urday zatʼ,Phonemic
+20-610-64-1,lezg1247,Lezgian,1435,гъуьрч йагъун,CyrillTrans,hunt,,,ɣürč yaɣun,Phonemic
+20-620-64-1,lezg1247,Lezgian,1172,йагъун (тфенг),CyrillTrans,shoot,,,yaɣun (tfeng),Phonemic
+20-630-64-1,lezg1247,Lezgian,161,хата авун,CyrillTrans,miss (target),,,"xata awun, yaɣalmiš x̌un, ɣalatʼ awun",Phonemic
+20-630-64-3,lezg1247,Lezgian,161,йагъалмиш хьун,CyrillTrans,miss (target),,,"xata awun, yaɣalmiš x̌un, ɣalatʼ awun",Phonemic
+20-630-64-5,lezg1247,Lezgian,161,гъалатІ авун,CyrillTrans,miss (target),,,"xata awun, yaɣalmiš x̌un, ɣalatʼ awun",Phonemic
+20-640-64-1,lezg1247,Lezgian,1075,ракьар,CyrillTrans,trap (noun),,,"raqʼar, žele",Phonemic
+20-640-64-3,lezg1247,Lezgian,1075,желе,CyrillTrans,trap (noun),,,"raqʼar, žele",Phonemic
+20-650-64-1,lezg1247,Lezgian,1170,кьун,CyrillTrans,trap (vb),,,qʼun,Phonemic
+21-110-64-1,lezg1247,Lezgian,1062,къанун,CyrillTrans,law,,,q̄anun,Phonemic
+21-150-64-1,lezg1247,Lezgian,1068,суд,CyrillTrans,court,,,"sud, duwan",Phonemic
+21-150-64-3,lezg1247,Lezgian,1068,дуван,CyrillTrans,court,,,"sud, duwan",Phonemic
+21-160-64-1,lezg1247,Lezgian,1818,дуван авун,CyrillTrans,judge (vb),,,duwan awun,Phonemic
+21-170-64-1,lezg1247,Lezgian,1067,суддин къарар,CyrillTrans,judgment,,,sud̄in q̄arar,Phonemic
+21-180-64-1,lezg1247,Lezgian,861,судьйа,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-64-1,lezg1247,Lezgian,2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarpači,Phonemic
+21-220-64-1,lezg1247,Lezgian,1034,жавабдар,CyrillTrans,defendant,,,"žawabdar, žawab, guday kas",Phonemic
+21-220-64-3,lezg1247,Lezgian,1034,жаваб,CyrillTrans,defendant,,,"žawabdar, žawab, guday kas",Phonemic
+21-220-64-5,lezg1247,Lezgian,1034,гудай кас,CyrillTrans,defendant,,,"žawabdar, žawab, guday kas",Phonemic
+21-230-64-1,lezg1247,Lezgian,1144,шагьид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-64-1,lezg1247,Lezgian,1939,кьин кьун,CyrillTrans,swear,,,qʼin qʼun,Phonemic
+21-250-64-1,lezg1247,Lezgian,1712,кьин,CyrillTrans,oath,,,qʼin,Phonemic
+21-310-64-1,lezg1247,Lezgian,1814,тахсир кутун,CyrillTrans,accuse,,,"taxsir kutun, taxsirlu awun, tühmetlu awun",Phonemic
+21-310-64-3,lezg1247,Lezgian,1814,тахсирлу авун,CyrillTrans,accuse,,,"taxsir kutun, taxsirlu awun, tühmetlu awun",Phonemic
+21-310-64-5,lezg1247,Lezgian,1814,туьгьметлу авун,CyrillTrans,accuse,,,"taxsir kutun, taxsirlu awun, tühmetlu awun",Phonemic
+21-320-64-1,lezg1247,Lezgian,484,кар атун,CyrillTrans,condemn,,,"kar atun, taxsirlu awun, ayib kutun",Phonemic
+21-320-64-3,lezg1247,Lezgian,484,тахсирлу авун,CyrillTrans,condemn,,,"kar atun, taxsirlu awun, ayib kutun",Phonemic
+21-320-64-5,lezg1247,Lezgian,484,айиб кутун,CyrillTrans,condemn,,,"kar atun, taxsirlu awun, ayib kutun",Phonemic
+21-330-64-1,lezg1247,Lezgian,983,тахсирлу авун,CyrillTrans,convict (vb),,,taxsirlu awun,Phonemic
+21-340-64-1,lezg1247,Lezgian,988,гъахълу авун,CyrillTrans,acquit,,,"ɣaqlu awun, düz hisabun",Phonemic
+21-340-64-3,lezg1247,Lezgian,988,дуьз гьисабун,CyrillTrans,acquit,,,"ɣaqlu awun, düz hisabun",Phonemic
+21-350-64-1,lezg1247,Lezgian,1682,тахсирлу тир,CyrillTrans,guilty,,,"taxsirlu tir, taxsir kʷay",Phonemic
+21-350-64-3,lezg1247,Lezgian,1682,тахсир квай,CyrillTrans,guilty,,,"taxsirlu tir, taxsir kʷay",Phonemic
+21-360-64-1,lezg1247,Lezgian,90,тахсирсуз,CyrillTrans,innocent,,,"taxsirsuz, taxsir kʷačir",Phonemic
+21-360-64-3,lezg1247,Lezgian,90,тахсир квачир,CyrillTrans,innocent,,,"taxsirsuz, taxsir kʷačir",Phonemic
+21-370-64-1,lezg1247,Lezgian,390,жаза,CyrillTrans,"penalty, punishment",,,"žaza, tünbüh",Phonemic
+21-370-64-3,lezg1247,Lezgian,390,туьнбуьгь,CyrillTrans,"penalty, punishment",,,"žaza, tünbüh",Phonemic
+21-380-64-1,lezg1247,Lezgian,218,штраф,CyrillTrans,fine,,,"štraf, žerme",Phonemic
+21-380-64-3,lezg1247,Lezgian,218,жерме,CyrillTrans,fine,,,"štraf, žerme",Phonemic
+21-390-64-1,lezg1247,Lezgian,1281,дустагъхана,CyrillTrans,"prison, jail",,,dustaɣxana,Phonemic
+21-420-64-1,lezg1247,Lezgian,845,кьиникь,CyrillTrans,murder,,,qʼiniqʼ,Phonemic
+21-430-64-1,lezg1247,Lezgian,902,зина,CyrillTrans,adultery,,,"zina, zinawal",Phonemic
+21-430-64-3,lezg1247,Lezgian,902,зинавал,CyrillTrans,adultery,,,"zina, zinawal",Phonemic
+21-440-64-1,lezg1247,Lezgian,953,гуж авун,CyrillTrans,rape,,,"guž awun, gužunaldi piswal awun",Phonemic
+21-440-64-3,lezg1247,Lezgian,953,гужуналди писвал авун,CyrillTrans,rape,,,"guž awun, gužunaldi piswal awun",Phonemic
+21-460-64-1,lezg1247,Lezgian,1889,цІай йагъун,CyrillTrans,arson,,,"c’ay yaɣun, c’ay yana kun",Phonemic
+21-460-64-3,lezg1247,Lezgian,1889,цІай йана кун,CyrillTrans,arson,,,"c’ay yaɣun, c’ay yana kun",Phonemic
+21-470-64-1,lezg1247,Lezgian,1792,тапан шагьидвал,CyrillTrans,perjury,,,tapan šahidwal,Phonemic
+21-510-64-1,lezg1247,Lezgian,713,чуьнуьхун,CyrillTrans,steal,,,"čünüxun, uɣriwal awun",Phonemic
+21-510-64-3,lezg1247,Lezgian,713,угъривал авун,CyrillTrans,steal,,,"čünüxun, uɣriwal awun",Phonemic
+21-520-64-1,lezg1247,Lezgian,1160,угъри,CyrillTrans,thief,,,uɣri,Phonemic
+22-110-64-1,lezg1247,Lezgian,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-64-1,lezg1247,Lezgian,1944,Аллагь,CyrillTrans,God,,,Аllah,Phonemic
+22-130-64-1,lezg1247,Lezgian,911,килиса,CyrillTrans,"temple, church",,,"kilisa, xristianrin miskʼi",Phonemic
+22-130-64-3,lezg1247,Lezgian,911,христианрин мискІи,CyrillTrans,"temple, church",,,"kilisa, xristianrin miskʼi",Phonemic
+22-140-64-1,lezg1247,Lezgian,853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-64-1,lezg1247,Lezgian,1103,къурбанд,CyrillTrans,"sacrifice, offering",,,q̄urband,Phonemic
+22-160-64-1,lezg1247,Lezgian,257,ибадат авун,CyrillTrans,worship,,,ibadat awun,Phonemic
+22-170-64-1,lezg1247,Lezgian,24,капІ авун,CyrillTrans,pray,,,"kap’ awun, düa awun",Phonemic
+22-170-64-3,lezg1247,Lezgian,24,дуьа авун,CyrillTrans,pray,,,"kap’ awun, düa awun",Phonemic
+22-180-64-1,lezg1247,Lezgian,852,кешиш,CyrillTrans,priest,,,kešiš,Phonemic
+22-190-64-1,lezg1247,Lezgian,1702,диндин,CyrillTrans,"holy, sacred",,,dindin,Phonemic
+22-220-64-1,lezg1247,Lezgian,304,вйаз авун,CyrillTrans,preach,,,"wyaz awun, wyazer aqayun",Phonemic
+22-220-64-3,lezg1247,Lezgian,304,вйазер ахъайун,CyrillTrans,preach,,,"wyaz awun, wyazer aqayun",Phonemic
+22-230-64-1,lezg1247,Lezgian,391,хийир-дуьа авун,CyrillTrans,bless,,,"xiyir-düa awun, xiyir-düadaldi reqʼe tun",Phonemic
+22-230-64-3,lezg1247,Lezgian,391,хийир-дуьадалди рекье тун,CyrillTrans,bless,,,"xiyir-düa awun, xiyir-düadaldi reqʼe tun",Phonemic
+22-240-64-1,lezg1247,Lezgian,8,лйанет авун,CyrillTrans,curse,,,lyanet awun,Phonemic
+22-260-64-1,lezg1247,Lezgian,303,сив хуьн,CyrillTrans,fast (vb),,,siw xün,Phonemic
+22-310-64-1,lezg1247,Lezgian,1565,цавар,CyrillTrans,heaven,,,"cawar, žennet",Phonemic
+22-310-64-3,lezg1247,Lezgian,1565,женнет,CyrillTrans,heaven,,,"cawar, žennet",Phonemic
+22-320-64-1,lezg1247,Lezgian,878,жегьеннем,CyrillTrans,hell,,,"žehennem, žehlem",Phonemic
+22-320-64-3,lezg1247,Lezgian,878,жегьлем,CyrillTrans,hell,,,"žehennem, žehlem",Phonemic
+22-350-64-1,lezg1247,Lezgian,1973,иблис,CyrillTrans,demon (evil spirit),,,iblis,Phonemic
+22-370-64-1,lezg1247,Lezgian,1945,хаш,CyrillTrans,idol,,,xaš,Phonemic
+22-420-64-1,lezg1247,Lezgian,392,суьгьуьр,CyrillTrans,"magic, witchcraft, sorcery",,,"sühür, sühürčiwal, icitʼun",Phonemic
+22-420-64-3,lezg1247,Lezgian,392,суьгьуьрчивал,CyrillTrans,"magic, witchcraft, sorcery",,,"sühür, sühürčiwal, icitʼun",Phonemic
+22-420-64-5,lezg1247,Lezgian,392,ицитІун,CyrillTrans,"magic, witchcraft, sorcery",,,"sühür, sühürčiwal, icitʼun",Phonemic
+22-430-64-1,lezg1247,Lezgian,2137,суьгьуьрчи,CyrillTrans,"sorcerer, witch",,,"sühürči, icitʼday kas",Phonemic
+22-430-64-3,lezg1247,Lezgian,2137,ицитІдай кас,CyrillTrans,"sorcerer, witch",,,"sühürči, icitʼday kas",Phonemic
+22-440-64-1,lezg1247,Lezgian,2138,пери,CyrillTrans,"fairy, elf",,,"peri, hürüperi",Phonemic
+22-440-64-3,lezg1247,Lezgian,2138,гьуьруьпери,CyrillTrans,"fairy, elf",,,"peri, hürüperi",Phonemic
+22-450-64-1,lezg1247,Lezgian,1175,вилерикай карагзавай затІ,CyrillTrans,"ghost, phantom",,,wilerikay karagzaway zatʼ,Phonemic
+22-470-64-1,lezg1247,Lezgian,107,ишара,CyrillTrans,"omen, portent",,,išara,Phonemic

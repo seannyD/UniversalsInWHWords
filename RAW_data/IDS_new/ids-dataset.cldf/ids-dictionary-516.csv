@@ -1,0 +1,1517 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-516-1,ingu1240,Ingush,1852,каст-каста,CyrillTrans,often,,,kast-kasta,Phonemic
+14-310-516-1,ingu1240,Ingush,1676,массаза,CyrillTrans,always,,,mas̄aza,Phonemic
+14-290-516-1,ingu1240,Ingush,790,кийча,CyrillTrans,ready,,,kiyča,Phonemic
+14-280-516-1,ingu1240,Ingush,1928,сеца,CyrillTrans,"cease, stop",,,seca,Phonemic
+14-270-516-1,ingu1240,Ingush,1766,чакхдала,CyrillTrans,finish,,,čaqdala,Phonemic
+14-260-516-1,ingu1240,Ingush,743,чакхдаккха,CyrillTrans,end (temporal),,,"čaqdaq̄a, yiste daq̄a",Phonemic
+14-260-516-3,ingu1240,Ingush,743,йисте даккха,CyrillTrans,end (temporal),,,"čaqdaq̄a, yiste daq̄a",Phonemic
+14-252-516-1,ingu1240,Ingush,1186,дIаходахьа,CyrillTrans,"last, endure",,,"dʕaxodaћa, dʕaxila",Phonemic
+14-252-516-3,ingu1240,Ingush,1186,дIахила,CyrillTrans,"last, endure",,,"dʕaxodaћa, dʕaxila",Phonemic
+14-250-516-1,ingu1240,Ingush,1806,доладе,CyrillTrans,"begin, beginning",,,dolade,Phonemic
+14-240-516-1,ingu1240,Ingush,425,соцаде,CyrillTrans,"retard, delay",,,socade,Phonemic
+14-230-516-1,ingu1240,Ingush,754,сихдала,CyrillTrans,"hasten, hurry",,,sixdala,Phonemic
+14-220-516-1,ingu1240,Ingush,701,мекъа,CyrillTrans,slow,,,"meq̛a, šort̄ig",Phonemic
+14-220-516-3,ingu1240,Ingush,701,шорттиг,CyrillTrans,slow,,,"meq̛a, šort̄ig",Phonemic
+14-210-516-1,ingu1240,Ingush,1631,сиха,CyrillTrans,"swift, fast, quick",,,sixa,Phonemic
+14-190-516-1,ingu1240,Ingush,1963,цу сахьте,CyrillTrans,immediately,,,cu saћte,Phonemic
+14-180-516-1,ingu1240,Ingush,1376,хIанз,CyrillTrans,now,,,hanz,Phonemic
+14-170-516-1,ingu1240,Ingush,477,тIехьадиса,CyrillTrans,late,,,t̛eћadisa,Phonemic
+14-160-516-1,ingu1240,Ingush,672,Iуррехьа,CyrillTrans,early,,,ʕur̄eћa,Phonemic
+14-150-516-1,ingu1240,Ingush,1229,къаьна,CyrillTrans,old,,,q̛ana,Phonemic
+14-140-516-1,ingu1240,Ingush,1207,къона,CyrillTrans,young,,,q̛ona,Phonemic
+14-120-516-1,ingu1240,Ingush,1789,яьнна ха,CyrillTrans,age,,,"yän̄a xa, bʕäšere, zama",Phonemic
+14-120-516-3,ingu1240,Ingush,1789,бIаьшере,CyrillTrans,age,,,"yän̄a xa, bʕäšere, zama",Phonemic
+14-120-516-5,ingu1240,Ingush,1789,зама,CyrillTrans,age,,,"yän̄a xa, bʕäšere, zama",Phonemic
+14-130-516-1,ingu1240,Ingush,1231,керда,CyrillTrans,new,,,kerda,Phonemic
+14-110-516-1,ingu1240,Ingush,892,ха,CyrillTrans,time,,,xa,Phonemic
+13-440-516-1,ingu1240,Ingush,417,кхозза,CyrillTrans,three times,,,qoz̄a,Phonemic
+13-420-516-1,ingu1240,Ingush,1859,кхоалагIа,CyrillTrans,third,,,qoalaɣa,Phonemic
+13-380-516-1,ingu1240,Ingush,1546,шозза,CyrillTrans,two times,,,šoz̄a,Phonemic
+13-370-516-1,ingu1240,Ingush,1888,шолларгаш,CyrillTrans,pair,,,šol̄argaš,Phonemic
+13-360-516-1,ingu1240,Ingush,1384,шоллагIа,CyrillTrans,second,,,šol̄aɣa,Phonemic
+13-350-516-1,ingu1240,Ingush,1529,тIехьара,CyrillTrans,last,,,t̛eћara,Phonemic
+13-340-516-1,ingu1240,Ingush,728,хьалхара,CyrillTrans,first,,,ћalxara,Phonemic
+13-330-516-1,ingu1240,Ingush,1580,цаI,CyrillTrans,"alone, only",,,"caʕ, sћä",Phonemic
+13-330-516-3,ingu1240,Ingush,1580,цхьаь,CyrillTrans,"alone, only",,,"caʕ, sћä",Phonemic
+13-240-516-1,ingu1240,Ingush,816,ах,CyrillTrans,half,,,ax,Phonemic
+13-230-516-1,ingu1240,Ingush,779,дакъа,CyrillTrans,"part, piece",,,"daq̛a, iyst",Phonemic
+13-230-516-3,ingu1240,Ingush,779,ийст,CyrillTrans,"part, piece",,,"daq̛a, iyst",Phonemic
+13-220-516-1,ingu1240,Ingush,1624,даьсса,CyrillTrans,empty,,,däs̄a,Phonemic
+13-210-516-1,ingu1240,Ingush,1429,диза,CyrillTrans,full,,,diza,Phonemic
+13-190-516-1,ingu1240,Ingush,2023,дукха,CyrillTrans,"multitude, crowd",,,"duqa, duqal",Phonemic
+13-190-516-3,ingu1240,Ingush,2023,дукхал,CyrillTrans,"multitude, crowd",,,"duqa, duqal",Phonemic
+13-181-516-1,ingu1240,Ingush,1241,массейт,CyrillTrans,some,,,mas̄eyt,Phonemic
+13-170-516-1,ingu1240,Ingush,1242,кIезига,CyrillTrans,"little (quantity), few",,,k̛eziga,Phonemic
+13-180-516-1,ingu1240,Ingush,1881,тоъ,CyrillTrans,enough,,,toɁ,Phonemic
+13-160-516-1,ingu1240,Ingush,1992,дукхагIа,CyrillTrans,more,,,duqaɣa,Phonemic
+13-150-516-1,ingu1240,Ingush,1198,дуккха,CyrillTrans,"much, many",,,duq̄a,Phonemic
+13-140-516-1,ingu1240,Ingush,98,дерриг,CyrillTrans,"every, all",,,der̄ig,Phonemic
+13-107-516-1,ingu1240,Ingush,1420,лархIа,CyrillTrans,count,,,larha,Phonemic
+13-106-516-1,ingu1240,Ingush,1843,эзар,CyrillTrans,thousand,,,ezar,Phonemic
+13-105-516-1,ingu1240,Ingush,1634,бIаь,CyrillTrans,hundred,,,bʕä,Phonemic
+13-104-516-1,ingu1240,Ingush,1710,ткъо,CyrillTrans,twenty,,,tq̛o,Phonemic
+13-103-516-1,ingu1240,Ingush,1709,пхийтт,CyrillTrans,fifteen,,,pxiyt̄,Phonemic
+13-102-516-1,ingu1240,Ingush,1707,шийтт,CyrillTrans,twelve,,,šiyt,Phonemic
+13-101-516-1,ingu1240,Ingush,1706,цхьайтт,CyrillTrans,eleven,,,cћayt,Phonemic
+13-100-516-1,ingu1240,Ingush,1515,итт,CyrillTrans,ten,,,it̄,Phonemic
+13-90-516-1,ingu1240,Ingush,1483,ийс,CyrillTrans,nine,,,iys,Phonemic
+13-80-516-1,ingu1240,Ingush,1705,бархI,CyrillTrans,eight,,,barh,Phonemic
+13-70-516-1,ingu1240,Ingush,1704,ворхI,CyrillTrans,seven,,,worh,Phonemic
+13-60-516-1,ingu1240,Ingush,1703,ялх,CyrillTrans,six,,,yalx,Phonemic
+13-50-516-1,ingu1240,Ingush,493,пхиъ,CyrillTrans,five,,,pxiɁ,Phonemic
+13-40-516-1,ingu1240,Ingush,1500,диъ,CyrillTrans,four,,,diɁ,Phonemic
+13-20-516-1,ingu1240,Ingush,1498,шиъ,CyrillTrans,two,,,šiɁ,Phonemic
+13-30-516-1,ingu1240,Ingush,492,кхоъ,CyrillTrans,three,,,qoɁ,Phonemic
+13-10-516-1,ingu1240,Ingush,1493,цаI,CyrillTrans,one,,,caʕ,Phonemic
+13-0-516-1,ingu1240,Ingush,1294,ноль,CyrillTrans,"zero, nothing",,,nolʲ,Phonemic
+12-930-516-1,ingu1240,Ingush,1264,хувца,CyrillTrans,change,,,xuwca,Phonemic
+12-920-516-1,ingu1240,Ingush,1558,тара,CyrillTrans,"like, similar",,,"tara, san̄a, mo",Phonemic
+12-920-516-3,ingu1240,Ingush,1558,санна,CyrillTrans,"like, similar",,,"tara, san̄a, mo",Phonemic
+12-920-516-5,ingu1240,Ingush,1558,мо,CyrillTrans,"like, similar",,,"tara, san̄a, mo",Phonemic
+12-840-516-1,ingu1240,Ingush,1048,така,CyrillTrans,line,,,taka,Phonemic
+12-850-516-1,ingu1240,Ingush,1667,Iург,CyrillTrans,hole,,,ʕurg,Phonemic
+12-830-516-1,ingu1240,Ingush,1845,ахкар,CyrillTrans,"sphere, ball",,,axkar,Phonemic
+12-810-516-1,ingu1240,Ingush,1395,герга,CyrillTrans,round,,,gerga,Phonemic
+12-820-516-1,ingu1240,Ingush,1467,гом,CyrillTrans,circle,,,gom,Phonemic
+12-780-516-1,ingu1240,Ingush,850,нийса саьналг,CyrillTrans,square,,,niysa sänalg,Phonemic
+12-770-516-1,ingu1240,Ingush,1367,жIарг,CyrillTrans,cross,,,žʕarg,Phonemic
+12-760-516-1,ingu1240,Ingush,192,са,CyrillTrans,corner,,,sa,Phonemic
+12-750-516-1,ingu1240,Ingush,1071,мIара,CyrillTrans,hook,,,mʕara,Phonemic
+12-740-516-1,ingu1240,Ingush,297,гоама,CyrillTrans,crooked,,,goama,Phonemic
+12-730-516-1,ingu1240,Ingush,1404,нийса,CyrillTrans,straight,,,niysa,Phonemic
+12-710-516-1,ingu1240,Ingush,1633,веда,CyrillTrans,flat,,,weda,Phonemic
+12-680-516-1,ingu1240,Ingush,193,тIихига,CyrillTrans,shallow,,,t̛ixiga,Phonemic
+12-670-516-1,ingu1240,Ingush,1593,кIоарга,CyrillTrans,deep,,,k̛oarga,Phonemic
+12-650-516-1,ingu1240,Ingush,2249,диткъа,CyrillTrans,thin (in dimension),,,ditq̛a,Phonemic
+12-630-516-1,ingu1240,Ingush,1244,сома,CyrillTrans,thick (in dimension),,,soma,Phonemic
+12-620-516-1,ingu1240,Ingush,1267,готта,CyrillTrans,narrow,,,got̄a,Phonemic
+12-610-516-1,ingu1240,Ingush,1243,шера,CyrillTrans,"wide, broad",,,šera,Phonemic
+12-590-516-1,ingu1240,Ingush,1645,лоаца,CyrillTrans,short,,,loaca,Phonemic
+12-580-516-1,ingu1240,Ingush,711,лакха,CyrillTrans,tall,,,laqa,Phonemic
+12-570-516-1,ingu1240,Ingush,1203,дIаьха,CyrillTrans,long,,,dʕäxa,Phonemic
+12-560-516-1,ingu1240,Ingush,1246,зIамига,CyrillTrans,"small, little",,,zʕamiga,Phonemic
+12-550-516-1,ingu1240,Ingush,1202,доккха,CyrillTrans,"large, big",,,doq̄a,Phonemic
+12-541-516-1,ingu1240,Ingush,81,фордан эрш,CyrillTrans,"span, fathom",,,fordan erš,Phonemic
+12-540-516-1,ingu1240,Ingush,1506,диста,CyrillTrans,measure,,,dista,Phonemic
+12-530-516-1,ingu1240,Ingush,479,дегIада,CyrillTrans,grow,,,deɣada,Phonemic
+12-480-516-1,ingu1240,Ingush,1595,къулбихье,CyrillTrans,south,,,q̛ulbiћe,Phonemic
+12-470-516-1,ingu1240,Ingush,1598,гIинбухье,CyrillTrans,north,,,ɣinbuћe,Phonemic
+12-460-516-1,ingu1240,Ingush,1817,малхбузехье,CyrillTrans,west,,,malxbuzeћe,Phonemic
+12-450-516-1,ingu1240,Ingush,1877,малхбоалехье,CyrillTrans,east,,,malxboaleћe,Phonemic
+12-430-516-1,ingu1240,Ingush,1942,уллув,CyrillTrans,near (adv),,,ul̄uw,Phonemic
+12-440-516-1,ingu1240,Ingush,1406,гаьна,CyrillTrans,far (adv),,,gäna,Phonemic
+12-420-516-1,ingu1240,Ingush,244,аьрда (оагIув),CyrillTrans,left (side),,,ärda (oaɣuw),Phonemic
+12-410-516-1,ingu1240,Ingush,1019,аьтта (оагIув),CyrillTrans,right (side),,,ät̄a (oaɣuw),Phonemic
+12-370-516-1,ingu1240,Ingush,1093,юкъ,CyrillTrans,"middle, center",,,"yuq̛, yuq̛e",Phonemic
+12-370-516-3,ingu1240,Ingush,1093,юкъе,CyrillTrans,"middle, center",,,"yuq̛, yuq̛e",Phonemic
+12-360-516-1,ingu1240,Ingush,682,оагIув,CyrillTrans,side,,,oaɣuw,Phonemic
+12-353-516-1,ingu1240,Ingush,863,йист,CyrillTrans,edge,,,yist,Phonemic
+12-352-516-1,ingu1240,Ingush,372,ира бухьбола,CyrillTrans,pointed,,,ira buћbola,Phonemic
+12-350-516-1,ingu1240,Ingush,742,чаккхе,CyrillTrans,end,,,čaq̄e,Phonemic
+12-340-516-1,ingu1240,Ingush,690,бух,CyrillTrans,bottom,,,"bux, loxe",Phonemic
+12-340-516-3,ingu1240,Ingush,690,лохе,CyrillTrans,bottom,,,"bux, loxe",Phonemic
+12-320-516-1,ingu1240,Ingush,721,лохе,CyrillTrans,low,,,loxe,Phonemic
+12-330-516-1,ingu1240,Ingush,1753,бухь,CyrillTrans,top,,,"buћ, laqe",Phonemic
+12-330-516-3,ingu1240,Ingush,1753,лакхе,CyrillTrans,top,,,"buћ, laqe",Phonemic
+12-310-516-1,ingu1240,Ingush,1265,лакхе,CyrillTrans,high,,,laqe,Phonemic
+12-270-516-1,ingu1240,Ingush,602,лочкъаде,CyrillTrans,"hide, conceal",,,ločq̛ade,Phonemic
+12-250-516-1,ingu1240,Ingush,1046,къовла,CyrillTrans,"shut, close",,,q̛owla,Phonemic
+12-260-516-1,ingu1240,Ingush,761,тIадила,CyrillTrans,cover,,,t̛adila,Phonemic
+12-240-516-1,ingu1240,Ingush,1156,дела,CyrillTrans,open,,,dela,Phonemic
+12-232-516-1,ingu1240,Ingush,1119,декъа,CyrillTrans,divide,,,deq̛a,Phonemic
+12-230-516-1,ingu1240,Ingush,1359,къоастаде,CyrillTrans,separate,,,q̛oastade,Phonemic
+12-220-516-1,ingu1240,Ingush,1743,хотта,CyrillTrans,"join, unite",,,"xot̄a, wʕšaɣtoxa",Phonemic
+12-220-516-3,ingu1240,Ingush,1743,вIшагIтоха,CyrillTrans,"join, unite",,,"xot̄a, wʕšaɣtoxa",Phonemic
+12-213-516-1,ingu1240,Ingush,1576,етта,CyrillTrans,pile up,,,yet̄a,Phonemic
+12-212-516-1,ingu1240,Ingush,371,лоахьде,CyrillTrans,pick up,,,"loaћde, ћaleca",Phonemic
+12-212-516-3,ingu1240,Ingush,371,хьалэца,CyrillTrans,pick up,,,"loaћde, ћaleca",Phonemic
+12-210-516-1,ingu1240,Ingush,7,гулде,CyrillTrans,"collect, gather",,,gulde,Phonemic
+12-170-516-1,ingu1240,Ingush,838,юхьгаш,CyrillTrans,"remains, left overs",,,yuћgaš,Phonemic
+12-160-516-1,ingu1240,Ingush,987,виса,CyrillTrans,"remain, stay",,,wisa,Phonemic
+12-150-516-1,ingu1240,Ingush,1442,латта,CyrillTrans,stand,,,lat̄a,Phonemic
+12-140-516-1,ingu1240,Ingush,215,вижа,CyrillTrans,lie down,,,wiža,Phonemic
+12-130-516-1,ingu1240,Ingush,1416,вагIа,CyrillTrans,sit,,,waɣa,Phonemic
+12-120-516-1,ingu1240,Ingush,998,дила,CyrillTrans,put,,,dila,Phonemic
+12-110-516-1,ingu1240,Ingush,723,моттиг,CyrillTrans,place,,,mot̄id,Phonemic
+12-80-516-1,ingu1240,Ingush,1591,тIа,CyrillTrans,"up, above",,,t̛a,Phonemic
+12-70-516-1,ingu1240,Ingush,1485,кIал,CyrillTrans,under,,,k̛al,Phonemic
+12-60-516-1,ingu1240,Ingush,762,тIера,CyrillTrans,outside,,,"t̛era, arara",Phonemic
+12-60-516-3,ingu1240,Ingush,762,арара,CyrillTrans,outside,,,"t̛era, arara",Phonemic
+12-50-516-1,ingu1240,Ingush,1606,чу,CyrillTrans,"inside, in",,,"ču, čuћnaћara",Phonemic
+12-50-516-3,ingu1240,Ingush,1606,чухьнахьара,CyrillTrans,"inside, in",,,"ču, čuћnaћara",Phonemic
+12-41-516-1,ingu1240,Ingush,1883,хьалха,CyrillTrans,front,,,ћalxa,Phonemic
+12-40-516-1,ingu1240,Ingush,1882,хьаччалца,CyrillTrans,before,,,"ћač̄alca, ћalxa, žer̄aћ",Phonemic
+12-40-516-3,ingu1240,Ingush,1882,хьалха,CyrillTrans,before,,,"ћač̄alca, ћalxa, žer̄aћ",Phonemic
+12-40-516-5,ingu1240,Ingush,1882,жеррахь,CyrillTrans,before,,,"ћač̄alca, ћalxa, žer̄aћ",Phonemic
+12-30-516-1,ingu1240,Ingush,2094,лохегIа,CyrillTrans,"down, below",,,loxeɣa,Phonemic
+12-20-516-1,ingu1240,Ingush,1816,юхе,CyrillTrans,beside,,,"yuxe, ul̄uw, ät̄eћa",Phonemic
+12-20-516-3,ingu1240,Ingush,1816,уллув,CyrillTrans,beside,,,"yuxe, ul̄uw, ät̄eћa",Phonemic
+12-20-516-5,ingu1240,Ingush,1816,аьттехьа,CyrillTrans,beside,,,"yuxe, ul̄uw, ät̄eћa",Phonemic
+12-11-516-1,ingu1240,Ingush,1686,тIехьа,CyrillTrans,behind,,,t̛eћa,Phonemic
+12-10-516-1,ingu1240,Ingush,1685,тIехьагIа,CyrillTrans,after,,,t̛eћaɣa,Phonemic
+11-920-516-1,ingu1240,Ingush,1098,оза,CyrillTrans,weigh,,,oza,Phonemic
+11-910-516-1,ingu1240,Ingush,884,дIай-хьай декъа,CyrillTrans,share (distribute),,,dʕay-ћay deq̛a,Phonemic
+11-890-516-1,ingu1240,Ingush,1887,доарах,CyrillTrans,cheap,,,doarax,Phonemic
+11-880-516-1,ingu1240,Ingush,1426,деза,CyrillTrans,"dear (costly, expensive)",,,deza,Phonemic
+11-870-516-1,ingu1240,Ingush,657,мах,CyrillTrans,price,,,max,Phonemic
+11-860-516-1,ingu1240,Ingush,752,тика,CyrillTrans,"store, shop",,,tika,Phonemic
+11-850-516-1,ingu1240,Ingush,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-516-1,ingu1240,Ingush,1082,махбархо,CyrillTrans,merchant,,,maxbaro,Phonemic
+11-830-516-1,ingu1240,Ingush,2135,мах бе,CyrillTrans,"trade, barter",,,"max be, xuwca",Phonemic
+11-830-516-3,ingu1240,Ingush,2135,хувца,CyrillTrans,"trade, barter",,,"max be, xuwca",Phonemic
+11-820-516-1,ingu1240,Ingush,1571,дохка,CyrillTrans,sell,,,doxka,Phonemic
+11-810-516-1,ingu1240,Ingush,1869,эца,CyrillTrans,buy,,,eca,Phonemic
+11-790-516-1,ingu1240,Ingush,733,ахча даккха,CyrillTrans,earn,,,axc̄a daq̄a,Phonemic
+11-780-516-1,ingu1240,Ingush,1122,алпи,CyrillTrans,wages,,,alpi,Phonemic
+11-770-516-1,ingu1240,Ingush,856,йоалах эца,CyrillTrans,hire,,,yoalax eca,Phonemic
+11-690-516-1,ingu1240,Ingush,873,йоал,CyrillTrans,"tax, tribute",,,"yoal, nalog",Phonemic
+11-690-516-3,ingu1240,Ingush,873,налог,CyrillTrans,"tax, tribute",,,"yoal, nalog",Phonemic
+11-660-516-1,ingu1240,Ingush,1081,шот,CyrillTrans,"account, reckoning",,,šot,Phonemic
+11-650-516-1,ingu1240,Ingush,718,ахча дала,CyrillTrans,pay (vb),,,axča dala,Phonemic
+11-640-516-1,ingu1240,Ingush,1914,декхар,CyrillTrans,debt,,,deqar,Phonemic
+11-630-516-1,ingu1240,Ingush,369,декхарийла хила,CyrillTrans,owe,,,deqariyla xila,Phonemic
+11-620-516-1,ingu1240,Ingush,1823,юхалург эца,CyrillTrans,borrow,,,yuxalurg eca,Phonemic
+11-610-516-1,ingu1240,Ingush,582,юхалург ле,CyrillTrans,lend,,,yuxalurg le,Phonemic
+11-540-516-1,ingu1240,Ingush,1774,цIаьрмата,CyrillTrans,"avaricious, stingy",,,"c̛ärmata, pisa",Phonemic
+11-540-516-3,ingu1240,Ingush,1774,писа,CyrillTrans,"avaricious, stingy",,,"c̛ärmata, pisa",Phonemic
+11-530-516-1,ingu1240,Ingush,1934,сагIадехарг,CyrillTrans,beggar,,,"saɣadexarg, q̛e",Phonemic
+11-530-516-3,ingu1240,Ingush,1934,къе,CyrillTrans,beggar,,,"saɣadexarg, q̛e",Phonemic
+11-520-516-1,ingu1240,Ingush,1674,къе,CyrillTrans,poor,,,q̛e,Phonemic
+11-510-516-1,ingu1240,Ingush,712,вIаьхий,CyrillTrans,rich,,,wʕäxiy,Phonemic
+11-440-516-1,ingu1240,Ingush,1867,кагий ахча,CyrillTrans,coin,,,kagiy axča,Phonemic
+11-430-516-1,ingu1240,Ingush,1559,ахча,CyrillTrans,money,,,axča,Phonemic
+11-340-516-1,ingu1240,Ingush,1095,дIахеца,CyrillTrans,"release, let go",,,dʕaxeca,Phonemic
+11-330-516-1,ingu1240,Ingush,1660,доаде,CyrillTrans,lose,,,doade,Phonemic
+11-320-516-1,ingu1240,Ingush,719,кораде,CyrillTrans,find,,,korade,Phonemic
+11-310-516-1,ingu1240,Ingush,1468,лаха,CyrillTrans,"seek, look for",,,laxa,Phonemic
+11-280-516-1,ingu1240,Ingush,44,зе де,CyrillTrans,"harm, injure, damage",,,ze de,Phonemic
+11-270-516-1,ingu1240,Ingush,681,хоарцаде,CyrillTrans,destroy,,,xoarcade,Phonemic
+11-250-516-1,ingu1240,Ingush,2008,кIалхарваккха,CyrillTrans,"save, rescue",,,k̛alxarwaq̄a,Phonemic
+11-240-516-1,ingu1240,Ingush,1997,хьуладе,CyrillTrans,"preserve, look after",,,ћulade,Phonemic
+11-220-516-1,ingu1240,Ingush,85,юхале,CyrillTrans,give back,,,yuxale,Phonemic
+11-210-516-1,ingu1240,Ingush,1447,ле,CyrillTrans,give,,,le,Phonemic
+11-180-516-1,ingu1240,Ingush,738,хIама,CyrillTrans,thing,,,hama,Phonemic
+11-170-516-1,ingu1240,Ingush,1477,хьуладе,CyrillTrans,"keep, retain",,,ћulade,Phonemic
+11-160-516-1,ingu1240,Ingush,694,хьаэца,CyrillTrans,"get, obtain",,,ћaeca,Phonemic
+11-150-516-1,ingu1240,Ingush,1448,лаьца латта,CyrillTrans,hold,,,läca lat̄a,Phonemic
+11-140-516-1,ingu1240,Ingush,2021,лаьца,CyrillTrans,"seize, grasp",,,läca,Phonemic
+11-130-516-1,ingu1240,Ingush,1749,эца,CyrillTrans,take,,,eca,Phonemic
+11-120-516-1,ingu1240,Ingush,684,доалахь хила,CyrillTrans,"own, possess",,,doalaћ xila,Phonemic
+11-110-516-1,ingu1240,Ingush,773,хила,CyrillTrans,have,,,xila,Phonemic
+10-920-516-1,ingu1240,Ingush,1922,форда станце отт,CyrillTrans,land (vb),,,"forda stance ot̄, lät̄a wos̄a",Phonemic
+10-920-516-3,ingu1240,Ingush,1922,лаьтта восса,CyrillTrans,land (vb),,,"forda stance ot̄, lät̄a wos̄a",Phonemic
+10-910-516-1,ingu1240,Ingush,610,форда станции,CyrillTrans,"harbor, port",,,forda stancii,Phonemic
+10-890-516-1,ingu1240,Ingush,1870,якор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-516-1,ingu1240,Ingush,786,кема гата,CyrillTrans,sail (noun),,,kema gata,Phonemic
+10-870-516-1,ingu1240,Ingush,184,кема боагIа,CyrillTrans,mast,,,kema boaɣa,Phonemic
+10-860-516-1,ingu1240,Ingush,108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-516-1,ingu1240,Ingush,1849,песк хьакха,CyrillTrans,row (vb),,,pesk ћaqa,Phonemic
+10-851-516-1,ingu1240,Ingush,234,песк,CyrillTrans,paddle (noun),,,pesk,Phonemic
+10-850-516-1,ingu1240,Ingush,108,песк,CyrillTrans,oar,,,pesk,Phonemic
+10-840-516-1,ingu1240,Ingush,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-516-1,ingu1240,Ingush,416,мIараш йоахка кемалг,CyrillTrans,outrigger,,,mʕaraš yoaxka kelmalg,Phonemic
+10-831-516-1,ingu1240,Ingush,1970,хин кемалг,CyrillTrans,canoe,,,xin kemalg,Phonemic
+10-830-516-1,ingu1240,Ingush,1844,кемалг,CyrillTrans,boat,,,kemalg,Phonemic
+10-810-516-1,ingu1240,Ingush,740,кема,CyrillTrans,ship,,,kema,Phonemic
+10-780-516-1,ingu1240,Ingush,14,дукъ,CyrillTrans,yoke,,,duq̛,Phonemic
+10-770-516-1,ingu1240,Ingush,1769,соа,CyrillTrans,axle,,,soa,Phonemic
+10-760-516-1,ingu1240,Ingush,710,чарх,CyrillTrans,wheel,,,čarx,Phonemic
+10-750-516-1,ingu1240,Ingush,122,ворда,CyrillTrans,"carriage, wagon, cart",,,worda,Phonemic
+10-740-516-1,ingu1240,Ingush,1011,тIий,CyrillTrans,bridge,,,t̛iy,Phonemic
+10-720-516-1,ingu1240,Ingush,2252,никъалг,CyrillTrans,path,,,"niq̛alg, toatolg",Phonemic
+10-720-516-3,ingu1240,Ingush,2252,тоатолг,CyrillTrans,path,,,"niq̛alg, toatolg",Phonemic
+10-710-516-1,ingu1240,Ingush,667,никъ,CyrillTrans,road,,,niq̛,Phonemic
+10-670-516-1,ingu1240,Ingush,1452,татта,CyrillTrans,"push, shove",,,tat̄a,Phonemic
+10-660-516-1,ingu1240,Ingush,367,говраца гIо,CyrillTrans,ride,,,gowraca ɣo,Phonemic
+10-650-516-1,ingu1240,Ingush,741,машенаца гIо,CyrillTrans,drive,,,mašenaca ɣo,Phonemic
+10-640-516-1,ingu1240,Ingush,43,доалде,CyrillTrans,lead (vb),,,doalde,Phonemic
+10-630-516-1,ingu1240,Ingush,1127,вахийта,CyrillTrans,send,,,waxiyta,Phonemic
+10-620-516-1,ingu1240,Ingush,692,хьада,CyrillTrans,bring,,,ћada,Phonemic
+10-615-516-1,ingu1240,Ingush,415,тIаьн кIал дахьа,CyrillTrans,carry-underarm,,,t̛än k̛al daћa,Phonemic
+10-614-516-1,ingu1240,Ingush,414,керта тIадилла хьо,CyrillTrans,carry-on-head,,,kerta t̛adil̄a ћo,Phonemic
+10-613-516-1,ingu1240,Ingush,413,ги делла хьо,CyrillTrans,carry-on-shoulder,,,gi del̄a ћo,Phonemic
+10-612-516-1,ingu1240,Ingush,412,кулгашца хьо,CyrillTrans,carry-in-hand,,,kulgašca ћo,Phonemic
+10-610-516-1,ingu1240,Ingush,700,хьо,CyrillTrans,carry (bear),,,ћo,Phonemic
+10-570-516-1,ingu1240,Ingush,749,чуввала,CyrillTrans,enter,,,cuwwala,Phonemic
+10-560-516-1,ingu1240,Ingush,1778,хьатIакхача,CyrillTrans,approach,,,"ћat̛aqača, garga qača, t̛aqača",Phonemic
+10-560-516-3,ingu1240,Ingush,1778,гарга кхача,CyrillTrans,approach,,,"ћat̛aqača, garga qača, t̛aqača",Phonemic
+10-560-516-5,ingu1240,Ingush,1778,тIакхача,CyrillTrans,approach,,,"ћat̛aqača, garga qača, t̛aqača",Phonemic
+10-550-516-1,ingu1240,Ingush,1387,дIакхача,CyrillTrans,"reach, arrive",,,dʕaqača,Phonemic
+10-530-516-1,ingu1240,Ingush,1047,тIехьавала,CyrillTrans,pursue,,,"t̛eћawala, t̛aqe",Phonemic
+10-530-516-3,ingu1240,Ingush,1047,тIакхе,CyrillTrans,pursue,,,"t̛eћawala, t̛aqe",Phonemic
+10-520-516-1,ingu1240,Ingush,1085,ларах гIо,CyrillTrans,follow,,,larax ɣo,Phonemic
+10-510-516-1,ingu1240,Ingush,956,вада,CyrillTrans,flee,,,"wada, wadarca k̛alxarwala",Phonemic
+10-510-516-3,ingu1240,Ingush,956,вадарца кIалхарвала,CyrillTrans,flee,,,"wada, wadarca k̛alxarwala",Phonemic
+10-491-516-1,ingu1240,Ingush,485,дов,CyrillTrans,disappear,,,dow,Phonemic
+10-490-516-1,ingu1240,Ingush,1752,дIагIо,CyrillTrans,"go away, depart",,,dʕaɣo,Phonemic
+10-481-516-1,ingu1240,Ingush,581,юхава,CyrillTrans,come back,,,yuxawa,Phonemic
+10-480-516-1,ingu1240,Ingush,1446,хьава,CyrillTrans,come,,,ћawa,Phonemic
+10-474-516-1,ingu1240,Ingush,1107,аравала,CyrillTrans,go out,,,arawala,Phonemic
+10-473-516-1,ingu1240,Ingush,2014,лохевала,CyrillTrans,go down,,,"loxewala, loxeɣa ʕoɣo",Phonemic
+10-473-516-3,ingu1240,Ingush,2014,лохегIа,CyrillTrans,go down,,,"loxewala, loxeɣa ʕoɣo",Phonemic
+10-473-516-5,ingu1240,Ingush,2014,IогIо,CyrillTrans,go down,,,"loxewala, loxeɣa ʕoɣo",Phonemic
+10-472-516-1,ingu1240,Ingush,1102,хьалгIо,CyrillTrans,climb,,,ћalɣo,Phonemic
+10-470-516-1,ingu1240,Ingush,695,гIо,CyrillTrans,go,,,ɣo,Phonemic
+10-471-516-1,ingu1240,Ingush,705,айле,CyrillTrans,go up,,,"ayle, laqewala",Phonemic
+10-471-516-3,ingu1240,Ingush,705,лакхевала,CyrillTrans,go up,,,"ayle, laqewala",Phonemic
+10-460-516-1,ingu1240,Ingush,1519,вада,CyrillTrans,run,,,wada,Phonemic
+10-451-516-1,ingu1240,Ingush,366,астагIлелха,CyrillTrans,limp,,,astaɣlelxa,Phonemic
+10-450-516-1,ingu1240,Ingush,1443,аха,CyrillTrans,walk,,,axa,Phonemic
+10-440-516-1,ingu1240,Ingush,1879,халхавувла,CyrillTrans,dance,,,xalxawuwla,Phonemic
+10-431-516-1,ingu1240,Ingush,1135,мIарг бета,CyrillTrans,kick,,,mʕarg beta,Phonemic
+10-430-516-1,ingu1240,Ingush,1829,кхувсале,CyrillTrans,"jump, leap",,,quwsale,Phonemic
+10-420-516-1,ingu1240,Ingush,1324,ловжа,CyrillTrans,"slide, slip",,,lowža,Phonemic
+10-413-516-1,ingu1240,Ingush,296,Iолохле,CyrillTrans,crouch,,,ʕololxe,Phonemic
+10-412-516-1,ingu1240,Ingush,66,гора отта,CyrillTrans,kneel,,,gora ot̄a,Phonemic
+10-410-516-1,ingu1240,Ingush,96,такха,CyrillTrans,"creep, crawl",,,taqa,Phonemic
+10-380-516-1,ingu1240,Ingush,175,фо детта,CyrillTrans,blow,,,fo det̄a,Phonemic
+10-370-516-1,ingu1240,Ingush,1441,ткъамашца аха,CyrillTrans,fly (vb),,,tq̛amašca axa,Phonemic
+10-360-516-1,ingu1240,Ingush,787,гата кIал хица гIо,CyrillTrans,sail (vb),,,gata k̛al xica ɣo,Phonemic
+10-352-516-1,ingu1240,Ingush,365,хий детта,CyrillTrans,splash,,,xiy det̄a,Phonemic
+10-351-516-1,ingu1240,Ingush,119,никаца,CyrillTrans,dive,,,"nikaca, xiča lelxa",Phonemic
+10-351-516-3,ingu1240,Ingush,119,хича лелха,CyrillTrans,dive,,,"nikaca, xiča lelxa",Phonemic
+10-350-516-1,ingu1240,Ingush,1439,ник де,CyrillTrans,swim,,,nik de,Phonemic
+10-340-516-1,ingu1240,Ingush,1574,ник де,CyrillTrans,float,,,nik de,Phonemic
+10-330-516-1,ingu1240,Ingush,1088,хи чуваха,CyrillTrans,sink,,,xi čuwaxa,Phonemic
+10-320-516-1,ingu1240,Ingush,2003,аха,CyrillTrans,flow,,,axa,Phonemic
+10-260-516-1,ingu1240,Ingush,1909,токаде,CyrillTrans,shake,,,tokade,Phonemic
+10-252-516-1,ingu1240,Ingush,702,лаца,CyrillTrans,catch (ball),,,laca,Phonemic
+10-250-516-1,ingu1240,Ingush,1456,кхосса,CyrillTrans,throw,,,qos̄a,Phonemic
+10-240-516-1,ingu1240,Ingush,2253,тIадамца дота,CyrillTrans,drip,,,t̛adamca dota,Phonemic
+10-230-516-1,ingu1240,Ingush,1280,дожа,CyrillTrans,fall,,,doža,Phonemic
+10-220-516-1,ingu1240,Ingush,501,айде,CyrillTrans,"raise, lift",,,ayde,Phonemic
+10-210-516-1,ingu1240,Ingush,568,айле,CyrillTrans,rise,,,"ale, aydala",Phonemic
+10-210-516-3,ingu1240,Ingush,568,айдала,CyrillTrans,rise,,,"ale, aydala",Phonemic
+10-170-516-1,ingu1240,Ingush,430,хьувзаде,CyrillTrans,twist,,,ћuwzade,Phonemic
+10-160-516-1,ingu1240,Ingush,808,тIадамаш легде,CyrillTrans,drop (vb),,,t̛adamaš legde,Phonemic
+10-150-516-1,ingu1240,Ingush,827,кхестаде,CyrillTrans,roll,,,qestade,Phonemic
+10-140-516-1,ingu1240,Ingush,1113,хьерчаде,CyrillTrans,"wind, wrap",,,ħerčade,Phonemic
+10-130-516-1,ingu1240,Ingush,1445,верза,CyrillTrans,turn around,,,werza,Phonemic
+10-120-516-1,ingu1240,Ingush,1588,кIалтIавувла,CyrillTrans,turn over,,,k̛alt̛awuwla,Phonemic
+10-110-516-1,ingu1240,Ingush,765,хье,CyrillTrans,move,,,ħe,Phonemic
+9-890-516-1,ingu1240,Ingush,2001,басар тоха,CyrillTrans,paint (vb),,,basar toxa,Phonemic
+9-840-516-1,ingu1240,Ingush,1979,дIам,CyrillTrans,chisel,,,dʕam,Phonemic
+9-880-516-1,ingu1240,Ingush,647,басар,CyrillTrans,paint (noun),,,basar,Phonemic
+9-830-516-1,ingu1240,Ingush,1002,вайча,CyrillTrans,statue,,,wayča,Phonemic
+9-820-516-1,ingu1240,Ingush,914,ваяр,CyrillTrans,sculptor,,,wayar,Phonemic
+9-810-516-1,ingu1240,Ingush,228,тедаш даккха,CyrillTrans,carve,,,tedaš daq̄a,Phonemic
+9-791-516-1,ingu1240,Ingush,360,фо дета,CyrillTrans,fan (vb),,,fo deta,Phonemic
+9-790-516-1,ingu1240,Ingush,1971,фодеттарг,CyrillTrans,fan (noun),,,fodet̄arg,Phonemic
+9-780-516-1,ingu1240,Ingush,293,сетка,CyrillTrans,netbag,,,setka,Phonemic
+9-771-516-1,ingu1240,Ingush,292,кIувс,CyrillTrans,rug,,,k̛uws,Phonemic
+9-770-516-1,ingu1240,Ingush,195,аьрга,CyrillTrans,mat,,,ärga,Phonemic
+9-760-516-1,ingu1240,Ingush,1539,тускар,CyrillTrans,basket,,,tuskar,Phonemic
+9-750-516-1,ingu1240,Ingush,1729,дувца,CyrillTrans,"weave, plait",,,duwca,Phonemic
+9-740-516-1,ingu1240,Ingush,604,кизга,CyrillTrans,glass,,,kizga,Phonemic
+9-730-516-1,ingu1240,Ingush,1399,топпар,CyrillTrans,clay,,,top̄ar,Phonemic
+9-720-516-1,ingu1240,Ingush,289,кепйола,CyrillTrans,mold (clay etc),,,kepyola,Phonemic
+9-710-516-1,ingu1240,Ingush,359,купче,CyrillTrans,potter,,,kupče,Phonemic
+9-690-516-1,ingu1240,Ingush,358,кIала,CyrillTrans,"tin, tinplate",,,k̛ala,Phonemic
+9-680-516-1,ingu1240,Ingush,627,даш,CyrillTrans,lead (noun),,,daš,Phonemic
+9-670-516-1,ingu1240,Ingush,621,аьшк,CyrillTrans,iron,,,äšk,Phonemic
+9-660-516-1,ingu1240,Ingush,1825,цIаста,CyrillTrans,"copper, bronze",,,"cʼasta, gez",Phonemic
+9-660-516-3,ingu1240,Ingush,1825,гез,CyrillTrans,"copper, bronze",,,"cʼasta, gez",Phonemic
+9-650-516-1,ingu1240,Ingush,759,дотув,CyrillTrans,silver,,,dotuw,Phonemic
+9-640-516-1,ingu1240,Ingush,1369,дошув,CyrillTrans,gold,,,došuw,Phonemic
+9-630-516-1,ingu1240,Ingush,211,кепатоха,CyrillTrans,cast (metals),,,kepatoxa,Phonemic
+9-620-516-1,ingu1240,Ingush,1648,ножарг,CyrillTrans,anvil,,,nožarg,Phonemic
+9-610-516-1,ingu1240,Ingush,288,пхьоале,CyrillTrans,forge,,,pħoale,Phonemic
+9-600-516-1,ingu1240,Ingush,1001,аьшка пхьар,CyrillTrans,"smith, blacksmith",,,äška pħar,Phonemic
+9-560-516-1,ingu1240,Ingush,1069,хьамча,CyrillTrans,glue,,,ħamča,Phonemic
+9-500-516-1,ingu1240,Ingush,502,хьастам,CyrillTrans,nail,,,ħastam,Phonemic
+9-490-516-1,ingu1240,Ingush,1481,гон,CyrillTrans,hammer,,,gon,Phonemic
+9-480-516-1,ingu1240,Ingush,1948,херх,CyrillTrans,saw,,,xerx,Phonemic
+9-461-516-1,ingu1240,Ingush,46,детташ даккха,CyrillTrans,hollow out,,,det̄aš daq̄a,Phonemic
+9-460-516-1,ingu1240,Ingush,1501,Iург,CyrillTrans,bore,,,ʕurg,Phonemic
+9-440-516-1,ingu1240,Ingush,1840,дотта,CyrillTrans,build,,,"dot̄a, ħalde",Phonemic
+9-440-516-3,ingu1240,Ingush,1840,хьалде,CyrillTrans,build,,,"dot̄a, ħalde",Phonemic
+9-430-516-1,ingu1240,Ingush,1042,дахчан пхьар,CyrillTrans,carpenter,,,daxčan pħar,Phonemic
+9-422-516-1,ingu1240,Ingush,1361,кхоачам,CyrillTrans,tool,,,qoačam,Phonemic
+9-380-516-1,ingu1240,Ingush,245,саьрга нув,CyrillTrans,broom,,,"sārga nuw, nuw",Phonemic
+9-380-516-3,ingu1240,Ingush,245,нув,CyrillTrans,broom,,,"sārga nuw, nuw",Phonemic
+9-360-516-1,ingu1240,Ingush,1453,дила,CyrillTrans,wash,,,dila,Phonemic
+9-370-516-1,ingu1240,Ingush,230,хьакха,CyrillTrans,sweep,,,ħaqa,Phonemic
+9-350-516-1,ingu1240,Ingush,1487,дотта,CyrillTrans,pour,,,"dot̄a, ħadot̄a",Phonemic
+9-350-516-3,ingu1240,Ingush,1487,хьадотта,CyrillTrans,pour,,,"dot̄a, ħadot̄a",Phonemic
+9-343-516-1,ingu1240,Ingush,1414,Iувда,CyrillTrans,"squeeze, wring",,,ʕuwda,Phonemic
+9-342-516-1,ingu1240,Ingush,1913,тIатоIаде,CyrillTrans,press,,,"t̛atoʕade, teʕade",Phonemic
+9-342-516-3,ingu1240,Ingush,1913,теIаде,CyrillTrans,press,,,"t̛atoʕade, teʕade",Phonemic
+9-341-516-1,ingu1240,Ingush,357,олла,CyrillTrans,hang up,,,ol̄a,Phonemic
+9-340-516-1,ingu1240,Ingush,38,даржа,CyrillTrans,spread out,,,darža,Phonemic
+9-330-516-1,ingu1240,Ingush,1455,увзаде,CyrillTrans,pull,,,uwzade,Phonemic
+9-320-516-1,ingu1240,Ingush,214,дIай-хьай увза,CyrillTrans,stretch,,,dʕay-ћay uwza,Phonemic
+9-310-516-1,ingu1240,Ingush,1449,доаде,CyrillTrans,"rub, wipe",,,doade,Phonemic
+9-290-516-1,ingu1240,Ingush,291,туладе,CyrillTrans,"flay, skin",,,tulade,Phonemic
+9-280-516-1,ingu1240,Ingush,1735,доатIаде,CyrillTrans,tear,,,doat̛ade,Phonemic
+9-270-516-1,ingu1240,Ingush,1437,ахдаккха,CyrillTrans,split,,,axdaq̄a,Phonemic
+9-261-516-1,ingu1240,Ingush,588,деха,CyrillTrans,broken,,,"dexa, doxadä",Phonemic
+9-261-516-3,ingu1240,Ingush,588,дохадаь,CyrillTrans,broken,,,"dexa, doxadä",Phonemic
+9-260-516-1,ingu1240,Ingush,680,дохаде,CyrillTrans,break,,,doxade,Phonemic
+9-250-516-1,ingu1240,Ingush,677,диг,CyrillTrans,ax,,,dig,Phonemic
+9-251-516-1,ingu1240,Ingush,290,дIам,CyrillTrans,adze,,,dʕam,Phonemic
+9-240-516-1,ingu1240,Ingush,356,кIод,CyrillTrans,"scissors, shears",,,"k’od, tukar",Phonemic
+9-240-516-3,ingu1240,Ingush,356,тукар,CyrillTrans,"scissors, shears",,,"k’od, tukar",Phonemic
+9-230-516-1,ingu1240,Ingush,1352,урс,CyrillTrans,knife,,,urs,Phonemic
+9-223-516-1,ingu1240,Ingush,1434,урт тоха,CyrillTrans,stab,,,urt toxa,Phonemic
+9-222-516-1,ingu1240,Ingush,155,ата,CyrillTrans,"chop, hew",,,ata,Phonemic
+9-221-516-1,ingu1240,Ingush,355,лоацде,CyrillTrans,cut down,,,loacde,Phonemic
+9-220-516-1,ingu1240,Ingush,1432,теда,CyrillTrans,cut,,,teda,Phonemic
+9-211-516-1,ingu1240,Ingush,354,бий бета,CyrillTrans,pound with fist,,,biy beta,Phonemic
+9-210-516-1,ingu1240,Ingush,2133,тоха,CyrillTrans,"strike (hit, beat)",,,toxa,Phonemic
+9-192-516-1,ingu1240,Ingush,760,шод,CyrillTrans,knot (noun),,,šod,Phonemic
+9-190-516-1,ingu1240,Ingush,1218,тIIийг,CyrillTrans,"rope, cord",,,t’ʕiyg,Phonemic
+9-180-516-1,ingu1240,Ingush,1627,зIи,CyrillTrans,chain,,,zʕi,Phonemic
+9-161-516-1,ingu1240,Ingush,352,яста,CyrillTrans,untie,,,yasta,Phonemic
+9-160-516-1,ingu1240,Ingush,1917,ехка,CyrillTrans,"tie, bind",,,yeqa,Phonemic
+9-150-516-1,ingu1240,Ingush,1470,хьоарчъе,CyrillTrans,fold,,,"ћoarčɁye, wʕaškadil̄a",Phonemic
+9-150-516-3,ingu1240,Ingush,1470,вIашкадилла,CyrillTrans,fold,,,"ћoarčɁye, wʕaškadil̄a",Phonemic
+9-140-516-1,ingu1240,Ingush,2004,соттае,CyrillTrans,bend,,,sot̄aye,Phonemic
+9-120-516-1,ingu1240,Ingush,984,болх,CyrillTrans,work,,,bolx,Phonemic
+9-110-516-1,ingu1240,Ingush,2575,де,CyrillTrans,"do, make",,,de,Phonemic
+8-980-516-1,ingu1240,Ingush,641,жIале нускал,CyrillTrans,mushroom,,,žʕale nuskal,Phonemic
+8-970-516-1,ingu1240,Ingush,33,нитт,CyrillTrans,nettle,,,nit̄,Phonemic
+8-960-516-1,ingu1240,Ingush,348,чкъаран дохьаж,CyrillTrans,fish poison (root),,,čq̛aran doћaž,Phonemic
+8-941-516-1,ingu1240,Ingush,146,шекар арз,CyrillTrans,sugar cane,,,šekar arz,Phonemic
+8-940-516-1,ingu1240,Ingush,1927,бамбука,CyrillTrans,bamboo,,,bambuka,Phonemic
+8-931-516-1,ingu1240,Ingush,864,ябакх,CyrillTrans,"pumpkin, squash",,,yabaq,Phonemic
+8-930-516-1,ingu1240,Ingush,411,шуша ябакх,CyrillTrans,gourd,,,šuša yabaq,Phonemic
+8-912-516-1,ingu1240,Ingush,410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-516-1,ingu1240,Ingush,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-516-1,ingu1240,Ingush,346,Iинжир га,CyrillTrans,banyan,,,ʕinžir ga,Phonemic
+8-840-516-1,ingu1240,Ingush,868,банан га,CyrillTrans,banana tree,,,banan ga,Phonemic
+8-830-516-1,ingu1240,Ingush,1126,цитруса сомаш,CyrillTrans,citrus fruit,,,citrusa somaš,Phonemic
+8-820-516-1,ingu1240,Ingush,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-516-1,ingu1240,Ingush,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-516-1,ingu1240,Ingush,345,мутт,CyrillTrans,sap,,,mut̄,Phonemic
+8-750-516-1,ingu1240,Ingush,1204,коаст,CyrillTrans,bark,,,koast,Phonemic
+8-740-516-1,ingu1240,Ingush,409,га,CyrillTrans,forked branch,,,ga,Phonemic
+8-730-516-1,ingu1240,Ingush,344,хи,CyrillTrans,tree trunk,,,xi,Phonemic
+8-720-516-1,ingu1240,Ingush,241,юхк,CyrillTrans,tree stump,,,yuxk,Phonemic
+8-691-516-1,ingu1240,Ingush,1124,турбилг,CyrillTrans,pipe,,,turbilg,Phonemic
+8-690-516-1,ingu1240,Ingush,1689,тхьамка кIур,CyrillTrans,smoke (tobacco),,,tћamka k̛ur,Phonemic
+8-680-516-1,ingu1240,Ingush,974,тхьамка,CyrillTrans,tobacco,,,tћamka,Phonemic
+8-670-516-1,ingu1240,Ingush,343,комсий га,CyrillTrans,vine,,,komsiy ga,Phonemic
+8-660-516-1,ingu1240,Ingush,968,надж бIар,CyrillTrans,acorn,,,naǯ bʕar,Phonemic
+8-650-516-1,ingu1240,Ingush,1915,корсам,CyrillTrans,fir,,,korsam,Phonemic
+8-640-516-1,ingu1240,Ingush,1740,дихк,CyrillTrans,pine,,,dixk,Phonemic
+8-630-516-1,ingu1240,Ingush,1855,кIай дакх,CyrillTrans,birch,,,k̛ay daq,Phonemic
+8-620-516-1,ingu1240,Ingush,1950,поп,CyrillTrans,beech,,,pop,Phonemic
+8-610-516-1,ingu1240,Ingush,644,надж,CyrillTrans,oak,,,naǯ,Phonemic
+8-600-516-1,ingu1240,Ingush,906,га,CyrillTrans,tree,,,ga,Phonemic
+8-570-516-1,ingu1240,Ingush,239,зиза,CyrillTrans,flower,,,ziza,Phonemic
+8-560-516-1,ingu1240,Ingush,628,гIа,CyrillTrans,leaf,,,ɣa,Phonemic
+8-550-516-1,ingu1240,Ingush,1531,ткъовро,CyrillTrans,branch,,,tq̛owro,Phonemic
+8-540-516-1,ingu1240,Ingush,670,овла,CyrillTrans,root,,,owla,Phonemic
+8-531-516-1,ingu1240,Ingush,1486,кхеде,CyrillTrans,plant (vb),,,qede,Phonemic
+8-520-516-1,ingu1240,Ingush,342,йол,CyrillTrans,hay,,,yol,Phonemic
+8-530-516-1,ingu1240,Ingush,653,баьцовгIа,CyrillTrans,plant (noun),,,bäcowɣa,Phonemic
+8-510-516-1,ingu1240,Ingush,606,буц,CyrillTrans,grass,,,buc,Phonemic
+8-480-516-1,ingu1240,Ingush,926,дуга,CyrillTrans,rice,,,duga,Phonemic
+8-470-516-1,ingu1240,Ingush,506,хьажкIа,CyrillTrans,"maize, corn",,,ћažk̛a,Phonemic
+8-460-516-1,ingu1240,Ingush,60,кен,CyrillTrans,oats,,,ken,Phonemic
+8-450-516-1,ingu1240,Ingush,23,Iаьржа кIа,CyrillTrans,rye,,,ʕärža k̛a,Phonemic
+8-430-516-1,ingu1240,Ingush,1077,кIа,CyrillTrans,wheat,,,k̛a,Phonemic
+8-440-516-1,ingu1240,Ingush,932,мукх,CyrillTrans,barley,,,muq,Phonemic
+8-420-516-1,ingu1240,Ingush,605,ялат,CyrillTrans,"grain (barley, oats etc)",,,yalat,Phonemic
+8-410-516-1,ingu1240,Ingush,611,хьувкъам,CyrillTrans,"crop, harvest",,,ћuwq̛am,Phonemic
+8-350-516-1,ingu1240,Ingush,223,хьетт,CyrillTrans,threshing-floor,,,ћet̄,Phonemic
+8-340-516-1,ingu1240,Ingush,285,арда,CyrillTrans,thresh,,,arda,Phonemic
+8-330-516-1,ingu1240,Ingush,2132,марс,CyrillTrans,"sickle, scythe",,,"mars, mangal",Phonemic
+8-330-516-3,ingu1240,Ingush,2132,мангал,CyrillTrans,"sickle, scythe",,,"mars, mangal",Phonemic
+8-320-516-1,ingu1240,Ingush,190,хьакха,CyrillTrans,"mow, reap",,,"ћaqa, ћaqa",Phonemic
+8-320-516-3,ingu1240,Ingush,190,хьакха,CyrillTrans,"mow, reap",,,"ћaqa, ћaqa",Phonemic
+8-311-516-1,ingu1240,Ingush,714,ги,CyrillTrans,seed,,,"gi, fu",Phonemic
+8-311-516-3,ingu1240,Ingush,714,фу,CyrillTrans,seed,,,"gi, fu",Phonemic
+8-310-516-1,ingu1240,Ingush,748,дIаде,CyrillTrans,sow,,,dʕade,Phonemic
+8-270-516-1,ingu1240,Ingush,338,йолхьинг,CyrillTrans,rake,,,yolћing,Phonemic
+8-260-516-1,ingu1240,Ingush,337,шод,CyrillTrans,fork,,,šod,Phonemic
+8-250-516-1,ingu1240,Ingush,284,цел,CyrillTrans,hoe,,,cel,Phonemic
+8-240-516-1,ingu1240,Ingush,1901,лекхарг,CyrillTrans,shovel,,,leqarg,Phonemic
+8-230-516-1,ingu1240,Ingush,1176,бел,CyrillTrans,spade,,,bel,Phonemic
+8-212-516-1,ingu1240,Ingush,1794,оахам,CyrillTrans,furrow,,,"oaxam, boal",Phonemic
+8-212-516-3,ingu1240,Ingush,1794,боал,CyrillTrans,furrow,,,"oaxam, boal",Phonemic
+8-220-516-1,ingu1240,Ingush,1418,ахка,CyrillTrans,dig,,,axka,Phonemic
+8-210-516-1,ingu1240,Ingush,1921,аха,CyrillTrans,plow,,,axa,Phonemic
+8-170-516-1,ingu1240,Ingush,2002,харш,CyrillTrans,ditch,,,xarš,Phonemic
+8-160-516-1,ingu1240,Ingush,1690,карт,CyrillTrans,fence,,,kart,Phonemic
+8-150-516-1,ingu1240,Ingush,1541,лаьтта леладе,CyrillTrans,"cultivate, till",,,lät̄a lelade,Phonemic
+8-130-516-1,ingu1240,Ingush,586,беш,CyrillTrans,garden,,,beš,Phonemic
+8-120-516-1,ingu1240,Ingush,212,кха,CyrillTrans,field (for cultivation),,,qa,Phonemic
+8-110-516-1,ingu1240,Ingush,979,ахархо,CyrillTrans,farmer,,,axarxo,Phonemic
+7-640-516-1,ingu1240,Ingush,901,хьаьха цIа,CyrillTrans,adobe,,,ћäxa c̛a,Phonemic
+7-630-516-1,ingu1240,Ingush,224,кIир маркхал,CyrillTrans,mortar,,,k̛ir marqal,Phonemic
+7-620-516-1,ingu1240,Ingush,1006,кирпишк,CyrillTrans,brick,,,kirpišk,Phonemic
+7-580-516-1,ingu1240,Ingush,876,моартол,CyrillTrans,arch,,,moartol,Phonemic
+7-610-516-1,ingu1240,Ingush,877,тIоговза,CyrillTrans,mason,,,t̛ogowza,Phonemic
+7-570-516-1,ingu1240,Ingush,1227,ардакх,CyrillTrans,board,,,ardaq,Phonemic
+7-560-516-1,ingu1240,Ingush,281,бIоагIа,CyrillTrans,"post, pole",,,bʕoaɣa,Phonemic
+7-550-516-1,ingu1240,Ingush,1132,гIайба,CyrillTrans,beam,,,ɣayba,Phonemic
+7-540-516-1,ingu1240,Ingush,829,сармал,CyrillTrans,rafter,,,sarmal,Phonemic
+7-530-516-1,ingu1240,Ingush,280,геми,CyrillTrans,ridgepole,,,gemi,Phonemic
+7-520-516-1,ingu1240,Ingush,279,чан тхов,CyrillTrans,thatch,,,čan txow,Phonemic
+7-510-516-1,ingu1240,Ingush,769,тхов,CyrillTrans,roof,,,txow,Phonemic
+7-480-516-1,ingu1240,Ingush,205,кхуркхал,CyrillTrans,trough,,,qurqal,Phonemic
+7-470-516-1,ingu1240,Ingush,745,тархе,CyrillTrans,shelf,,,tarxe,Phonemic
+7-460-516-1,ingu1240,Ingush,1273,кIерам,CyrillTrans,candle,,,k̛eram,Phonemic
+7-450-516-1,ingu1240,Ingush,2131,согар,CyrillTrans,"lamp, torch",,,sogar,Phonemic
+7-440-516-1,ingu1240,Ingush,1775,истол,CyrillTrans,table,,,istol,Phonemic
+7-430-516-1,ingu1240,Ingush,1476,гIанд,CyrillTrans,chair,,,ɣand,Phonemic
+7-422-516-1,ingu1240,Ingush,806,ювргIа,CyrillTrans,blanket,,,yuwrɣa,Phonemic
+7-421-516-1,ingu1240,Ingush,1044,гIайба,CyrillTrans,pillow,,,ɣayba,Phonemic
+7-420-516-1,ingu1240,Ingush,1663,маьнги,CyrillTrans,bed,,,mängi,Phonemic
+7-370-516-1,ingu1240,Ingush,1464,лоами,CyrillTrans,ladder,,,loami,Phonemic
+7-330-516-1,ingu1240,Ingush,1305,тунгалг,CyrillTrans,chimney,,,tungalg,Phonemic
+7-320-516-1,ingu1240,Ingush,859,пишк,CyrillTrans,stove,,,pišk,Phonemic
+7-310-516-1,ingu1240,Ingush,185,товгIа,CyrillTrans,fireplace,,,towɣa,Phonemic
+7-270-516-1,ingu1240,Ingush,933,пен,CyrillTrans,wall,,,pen,Phonemic
+7-260-516-1,ingu1240,Ingush,1632,ий,CyrillTrans,floor,,,iy,Phonemic
+7-250-516-1,ingu1240,Ingush,1375,кор,CyrillTrans,window,,,kor,Phonemic
+7-240-516-1,ingu1240,Ingush,1472,дIоагIа,CyrillTrans,key,,,dʕoaɣa,Phonemic
+7-231-516-1,ingu1240,Ingush,1012,гIув,CyrillTrans,"latch, door-bolt",,,"ɣuw, zagal",Phonemic
+7-231-516-3,ingu1240,Ingush,1012,загал,CyrillTrans,"latch, door-bolt",,,"ɣuw, zagal",Phonemic
+7-230-516-1,ingu1240,Ingush,1596,чIега,CyrillTrans,lock (noun),,,č̛ega,Phonemic
+7-221-516-1,ingu1240,Ingush,80,санагI,CyrillTrans,"doorpost, jamb",,,sanaɣ,Phonemic
+7-210-516-1,ingu1240,Ingush,1450,цIа,CyrillTrans,room,,,"c̛a, če",Phonemic
+7-210-516-3,ingu1240,Ingush,1450,че,CyrillTrans,room,,,"c̛a, če",Phonemic
+7-220-516-1,ingu1240,Ingush,1567,ниI,CyrillTrans,"door, gate",,,"niʕ, koa niʕ",Phonemic
+7-220-516-3,ingu1240,Ingush,1567,коа ниI,CyrillTrans,"door, gate",,,"niʕ, koa niʕ",Phonemic
+7-180-516-1,ingu1240,Ingush,335,клуб,CyrillTrans,meeting house,,,"klub, c̛a",Phonemic
+7-180-516-3,ingu1240,Ingush,335,цIа,CyrillTrans,meeting house,,,"klub, c̛a",Phonemic
+7-170-516-1,ingu1240,Ingush,334,нана-цIа,CyrillTrans,cookhouse,,,nana-c̛a,Phonemic
+7-160-516-1,ingu1240,Ingush,408,цIа,CyrillTrans,men's house,,,c̛a,Phonemic
+7-150-516-1,ingu1240,Ingush,736,ков,CyrillTrans,"yard, court",,,kow,Phonemic
+7-140-516-1,ingu1240,Ingush,1316,чаьтар,CyrillTrans,tent,,,čätar,Phonemic
+7-131-516-1,ingu1240,Ingush,403,бу,CyrillTrans,garden-house,,,bu,Phonemic
+7-130-516-1,ingu1240,Ingush,1678,бунг,CyrillTrans,hut,,,bung,Phonemic
+7-120-516-1,ingu1240,Ingush,1252,цIа,CyrillTrans,house,,,c̛a,Phonemic
+7-110-516-1,ingu1240,Ingush,363,ваха,CyrillTrans,"dwell, live",,,waxa,Phonemic
+6-960-516-1,ingu1240,Ingush,1171,кизга,CyrillTrans,mirror,,,kizga,Phonemic
+6-950-516-1,ingu1240,Ingush,788,сапа,CyrillTrans,soap,,,sapa,Phonemic
+6-940-516-1,ingu1240,Ingush,1926,маркъал,CyrillTrans,ointment,,,marq̛al,Phonemic
+6-930-516-1,ingu1240,Ingush,151,урс,CyrillTrans,razor,,,urs,Phonemic
+6-921-516-1,ingu1240,Ingush,333,кIажар,CyrillTrans,braid,,,k̛ažar,Phonemic
+6-920-516-1,ingu1240,Ingush,1821,ехк,CyrillTrans,brush,,,yexk,Phonemic
+6-910-516-1,ingu1240,Ingush,1475,ехк,CyrillTrans,comb,,,yexk,Phonemic
+6-820-516-1,ingu1240,Ingush,1021,гата,CyrillTrans,towel,,,gata,Phonemic
+6-810-516-1,ingu1240,Ingush,332,мерий йовлакх,CyrillTrans,"handkerchief, rag",,,meriy yowlaq,Phonemic
+6-790-516-1,ingu1240,Ingush,68,тамагI,CyrillTrans,tattoo,,,tamaɣ,Phonemic
+6-780-516-1,ingu1240,Ingush,330,кертатуллар,CyrillTrans,"headband, headdress",,,"kertatul̄ar, ћerčorg",Phonemic
+6-780-516-3,ingu1240,Ingush,330,хьерчорг,CyrillTrans,"headband, headdress",,,"kertatul̄ar, ћerčorg",Phonemic
+6-770-516-1,ingu1240,Ingush,770,гIалкха,CyrillTrans,earring,,,ɣalqa,Phonemic
+6-760-516-1,ingu1240,Ingush,1860,гизг,CyrillTrans,bead,,,gizg,Phonemic
+6-750-516-1,ingu1240,Ingush,1961,гизгаш,CyrillTrans,necklace,,,gizgaš,Phonemic
+6-740-516-1,ingu1240,Ingush,1754,кулга гIоз,CyrillTrans,bracelet,,,kulga ɣoz,Phonemic
+6-730-516-1,ingu1240,Ingush,1374,гIоз,CyrillTrans,ring (for finger),,,ɣoz,Phonemic
+6-720-516-1,ingu1240,Ingush,1029,алмаз кIиг,CyrillTrans,jewel,,,"almaz k̛ig, došo hamaš",Phonemic
+6-720-516-3,ingu1240,Ingush,1029,дошо хIамаш,CyrillTrans,jewel,,,"almaz k̛ig, došo hamaš",Phonemic
+6-710-516-1,ingu1240,Ingush,917,догам,CyrillTrans,"ornament, adornment",,,"dogam, xozlenaš",Phonemic
+6-710-516-3,ingu1240,Ingush,917,хозленаш,CyrillTrans,"ornament, adornment",,,"dogam, xozlenaš",Phonemic
+6-630-516-1,ingu1240,Ingush,64,фиск,CyrillTrans,pin,,,fisk,Phonemic
+6-620-516-1,ingu1240,Ingush,757,чопалг,CyrillTrans,button,,,čopalg,Phonemic
+6-610-516-1,ingu1240,Ingush,1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-516-1,ingu1240,Ingush,1151,цхьарал,CyrillTrans,veil,,,cћaral,Phonemic
+6-580-516-1,ingu1240,Ingush,867,кулгахйоаллорг,CyrillTrans,glove,,,kulgaxyoal̄org,Phonemic
+6-570-516-1,ingu1240,Ingush,772,тIехкар,CyrillTrans,"belt, girdle",,,t̛exkar,Phonemic
+6-550-516-1,ingu1240,Ingush,2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-516-1,ingu1240,Ingush,875,иккий пхьар,CyrillTrans,"shoemaker, cobbler",,,ik̄iy pћar,Phonemic
+6-510-516-1,ingu1240,Ingush,1381,маьчи,CyrillTrans,shoe,,,mäči,Phonemic
+6-520-516-1,ingu1240,Ingush,585,батинк,CyrillTrans,boot,,,batink,Phonemic
+6-490-516-1,ingu1240,Ingush,329,пазат,CyrillTrans,"stocking, sock",,,pazat,Phonemic
+6-480-516-1,ingu1240,Ingush,809,шарбал,CyrillTrans,trousers,,,"šarbal, xači",Phonemic
+6-480-516-3,ingu1240,Ingush,809,хачи,CyrillTrans,trousers,,,"šarbal, xači",Phonemic
+6-461-516-1,ingu1240,Ingush,328,йупк,CyrillTrans,grass-skirt,,,yupk,Phonemic
+6-460-516-1,ingu1240,Ingush,1600,йупк,CyrillTrans,skirt,,,yupk,Phonemic
+6-450-516-1,ingu1240,Ingush,2012,кач,CyrillTrans,collar,,,kač,Phonemic
+6-440-516-1,ingu1240,Ingush,1622,коч,CyrillTrans,shirt,,,koč,Phonemic
+6-430-516-1,ingu1240,Ingush,603,полтув,CyrillTrans,coat,,,poituw,Phonemic
+6-420-516-1,ingu1240,Ingush,474,кхалнаьха коч,CyrillTrans,woman's dress,,,qalnäxa koč,Phonemic
+6-390-516-1,ingu1240,Ingush,157,басар,CyrillTrans,dye,,,basar,Phonemic
+6-410-516-1,ingu1240,Ingush,326,тIакхоллар,CyrillTrans,cloak,,,t̛aqol̄ar,Phonemic
+6-380-516-1,ingu1240,Ingush,1161,тай,CyrillTrans,thread,,,tay,Phonemic
+6-360-516-1,ingu1240,Ingush,1382,маха,CyrillTrans,needle,,,maxa,Phonemic
+6-370-516-1,ingu1240,Ingush,278,юв,CyrillTrans,awl,,,yuw,Phonemic
+6-350-516-1,ingu1240,Ingush,1457,тега,CyrillTrans,sew,,,tega,Phonemic
+6-340-516-1,ingu1240,Ingush,1787,тIалх,CyrillTrans,loom,,,t̛alx,Phonemic
+6-330-516-1,ingu1240,Ingush,133,дувца,CyrillTrans,weave,,,duwca,Phonemic
+6-320-516-1,ingu1240,Ingush,277,йоачIинг,CyrillTrans,spindle,,,yoač’ing,Phonemic
+6-310-516-1,ingu1240,Ingush,121,хьувза,CyrillTrans,spin,,,ћuwza,Phonemic
+6-290-516-1,ingu1240,Ingush,629,тIоарск,CyrillTrans,leather,,,t̛oarsk,Phonemic
+6-280-516-1,ingu1240,Ingush,580,хешт,CyrillTrans,fur,,,xešt,Phonemic
+6-270-516-1,ingu1240,Ingush,325,бIегIинг,CyrillTrans,felt,,,bʕeɣing,Phonemic
+6-250-516-1,ingu1240,Ingush,1641,даьри,CyrillTrans,silk,,,däri,Phonemic
+6-240-516-1,ingu1240,Ingush,1850,гата кIада,CyrillTrans,cotton,,,"gata k̛ada, bumzi",Phonemic
+6-240-516-3,ingu1240,Ingush,1850,бумзи,CyrillTrans,cotton,,,"gata k̛ada, bumzi",Phonemic
+6-230-516-1,ingu1240,Ingush,916,гата кIада,CyrillTrans,"linen, flax",,,gata k̛ada,Phonemic
+6-220-516-1,ingu1240,Ingush,964,тхан кIада,CyrillTrans,wool,,,txan k̛ada,Phonemic
+6-210-516-1,ingu1240,Ingush,1616,кIада,CyrillTrans,cloth,,,"k̛ada, maša",Phonemic
+6-210-516-3,ingu1240,Ingush,1616,маша,CyrillTrans,cloth,,,"k̛ada, maša",Phonemic
+6-130-516-1,ingu1240,Ingush,881,тегархо,CyrillTrans,tailor,,,tegarxo,Phonemic
+6-120-516-1,ingu1240,Ingush,1895,дувхар,CyrillTrans,"clothing, clothes",,,"duwxar, barzq̛a",Phonemic
+6-120-516-3,ingu1240,Ingush,1895,барзкъа,CyrillTrans,"clothing, clothes",,,"duwxar, barzq̛a",Phonemic
+6-110-516-1,ingu1240,Ingush,158,дувха,CyrillTrans,put on (clothes),,,duwxa,Phonemic
+5-971-516-1,ingu1240,Ingush,1556,белий,CyrillTrans,egg yolk,,,beliy,Phonemic
+5-970-516-1,ingu1240,Ingush,744,фуъ,CyrillTrans,egg,,,fuɁ,Phonemic
+5-940-516-1,ingu1240,Ingush,404,них,CyrillTrans,fermented drink,,,nix,Phonemic
+5-930-516-1,ingu1240,Ingush,1639,йий,CyrillTrans,beer,,,yiy,Phonemic
+5-920-516-1,ingu1240,Ingush,1524,чхьагIар,CyrillTrans,wine,,,čћaɣar,Phonemic
+5-910-516-1,ingu1240,Ingush,941,меза малар,CyrillTrans,mead,,,meza malar,Phonemic
+5-900-516-1,ingu1240,Ingush,731,малар,CyrillTrans,"beverage, drink",,,malar,Phonemic
+5-890-516-1,ingu1240,Ingush,1245,налх,CyrillTrans,butter,,,nalx,Phonemic
+5-880-516-1,ingu1240,Ingush,1569,нахча,CyrillTrans,cheese,,,naxča,Phonemic
+5-870-516-1,ingu1240,Ingush,93,бетта,CyrillTrans,milk (vb),,,bet̄a,Phonemic
+5-850-516-1,ingu1240,Ingush,862,шекар,CyrillTrans,sugar,,,šekar,Phonemic
+5-860-516-1,ingu1240,Ingush,635,шура,CyrillTrans,milk (noun),,,šura,Phonemic
+5-840-516-1,ingu1240,Ingush,942,модз,CyrillTrans,honey,,,moʒ,Phonemic
+5-821-516-1,ingu1240,Ingush,919,сибаз,CyrillTrans,chili pepper,,,sibaz,Phonemic
+5-820-516-1,ingu1240,Ingush,1385,бурч,CyrillTrans,pepper,,,burč,Phonemic
+5-810-516-1,ingu1240,Ingush,1274,тух,CyrillTrans,salt,,,tux,Phonemic
+5-791-516-1,ingu1240,Ingush,323,хьоанал,CyrillTrans,"grease, fat",,,"ћoanal, muћ",Phonemic
+5-791-516-3,ingu1240,Ingush,323,мухь,CyrillTrans,"grease, fat",,,"ћoanal, muћ",Phonemic
+5-790-516-1,ingu1240,Ingush,1484,генаргий даьтта,CyrillTrans,oil,,,genargiy dät̄a,Phonemic
+5-780-516-1,ingu1240,Ingush,1154,алифк,CyrillTrans,olive,,,alifk,Phonemic
+5-760-516-1,ingu1240,Ingush,920,комс,CyrillTrans,grape,,,koms,Phonemic
+5-770-516-1,ingu1240,Ingush,191,бIар,CyrillTrans,nut,,,bʕar,Phonemic
+5-750-516-1,ingu1240,Ingush,322,Iинжар,CyrillTrans,fig,,,ʕinžar,Phonemic
+5-712-516-1,ingu1240,Ingush,1966,гайдолг,CyrillTrans,bunch,,,"gaydolg, kurs",Phonemic
+5-712-516-3,ingu1240,Ingush,1966,курс,CyrillTrans,bunch,,,"gaydolg, kurs",Phonemic
+5-710-516-1,ingu1240,Ingush,1507,сом,CyrillTrans,fruit,,,som,Phonemic
+5-700-516-1,ingu1240,Ingush,593,коартол,CyrillTrans,potato,,,koartol,Phonemic
+5-660-516-1,ingu1240,Ingush,832,кхеж,CyrillTrans,bean,,,qež,Phonemic
+5-650-516-1,ingu1240,Ingush,924,хаьса сом,CyrillTrans,vegetables,,,xäsa som,Phonemic
+5-640-516-1,ingu1240,Ingush,1547,чорпа,CyrillTrans,"soup, broth",,,corpa,Phonemic
+5-630-516-1,ingu1240,Ingush,1874,бIар,CyrillTrans,sausage,,,"bʕar, marš",Phonemic
+5-630-516-3,ingu1240,Ingush,1874,марш,CyrillTrans,sausage,,,"bʕar, marš",Phonemic
+5-610-516-1,ingu1240,Ingush,634,дулх,CyrillTrans,meat,,,dulx,Phonemic
+5-590-516-1,ingu1240,Ingush,225,саьмарсаькх оатарг,CyrillTrans,pestle,,,sämarsäq oatarg,Phonemic
+5-580-516-1,ingu1240,Ingush,224,оатарг,CyrillTrans,mortar (2),,,oatarg,Phonemic
+5-570-516-1,ingu1240,Ingush,636,хьайра,CyrillTrans,mill,,,ħayra,Phonemic
+5-560-516-1,ingu1240,Ingush,1033,тоIаде,CyrillTrans,"crush, grind",,,"toʕade, ata",Phonemic
+5-560-516-3,ingu1240,Ingush,1033,ата,CyrillTrans,"crush, grind",,,"toʕade, ata",Phonemic
+5-550-516-1,ingu1240,Ingush,1594,хьоар,CyrillTrans,"meal, flour",,,ħoar,Phonemic
+5-540-516-1,ingu1240,Ingush,274,бод хье,CyrillTrans,knead,,,bod ħe,Phonemic
+5-530-516-1,ingu1240,Ingush,273,бод,CyrillTrans,dough,,,bod,Phonemic
+5-510-516-1,ingu1240,Ingush,1368,маькх,CyrillTrans,bread,,,mäq,Phonemic
+5-490-516-1,ingu1240,Ingush,2017,кегаде,CyrillTrans,"stir, mix",,,"kegade, ede",Phonemic
+5-490-516-3,ingu1240,Ingush,2017,эде,CyrillTrans,"stir, mix",,,"kegade, ede",Phonemic
+5-480-516-1,ingu1240,Ingush,1767,гам хьаккха,CyrillTrans,scrape,,,"gam, ħaq̄a, ħeqa",Phonemic
+5-480-516-3,ingu1240,Ingush,1767,хьекха,CyrillTrans,scrape,,,"gam, ħaq̄a, ħeqa",Phonemic
+5-470-516-1,ingu1240,Ingush,86,ловса,CyrillTrans,"sieve, strain",,,"lowsa, lit̄a",Phonemic
+5-470-516-3,ingu1240,Ingush,86,литта,CyrillTrans,"sieve, strain",,,"lowsa, lit̄a",Phonemic
+5-460-516-1,ingu1240,Ingush,275,цIенде,CyrillTrans,peel,,,"cʼende, mʕad dʕayäq̄a",Phonemic
+5-460-516-3,ingu1240,Ingush,275,мIад дIаяьккха,CyrillTrans,peel,,,"cʼende, mʕad dʕayäq̄a",Phonemic
+5-450-516-1,ingu1240,Ingush,1833,пхьор,CyrillTrans,supper,,,pħor,Phonemic
+5-440-516-1,ingu1240,Ingush,1833,моака,CyrillTrans,dinner,,,moaka,Phonemic
+5-430-516-1,ingu1240,Ingush,768,марта,CyrillTrans,lunch,,,marta,Phonemic
+5-420-516-1,ingu1240,Ingush,1322,фетта даар,CyrillTrans,breakfast,,,fet̄a daʔar,Phonemic
+5-410-516-1,ingu1240,Ingush,1526,даар,CyrillTrans,meal (a),,,"daʔʔar, qača baʔar, hama daar, siskal yaʔar",Phonemic
+5-410-516-3,ingu1240,Ingush,1526,кхача баар,CyrillTrans,meal (a),,,"daʔʔar, qača baʔar, hama daar, siskal yaʔar",Phonemic
+5-410-516-5,ingu1240,Ingush,1526,хIама даар,CyrillTrans,meal (a),,,"daʔʔar, qača baʔar, hama daar, siskal yaʔar",Phonemic
+5-410-516-7,ingu1240,Ingush,1526,сискал яар,CyrillTrans,meal (a),,,"daʔʔar, qača baʔar, hama daar, siskal yaʔar",Phonemic
+5-391-516-1,ingu1240,Ingush,272,морзагIа,CyrillTrans,tongs,,,morzaɣa,Phonemic
+5-390-516-1,ingu1240,Ingush,1302,мIара,CyrillTrans,fork (2),,,mʕara,Phonemic
+5-380-516-1,ingu1240,Ingush,1352,урс,CyrillTrans,knife (2),,,urs,Phonemic
+5-370-516-1,ingu1240,Ingush,1378,Iаг,CyrillTrans,spoon,,,ʕag,Phonemic
+5-360-516-1,ingu1240,Ingush,271,оаркхинг,CyrillTrans,saucer,,,oarqing,Phonemic
+5-350-516-1,ingu1240,Ingush,476,кад,CyrillTrans,"cup, drinking vessel",,,"kad, tolam kad",Phonemic
+5-350-516-3,ingu1240,Ingush,476,толам кад,CyrillTrans,"cup, drinking vessel",,,"kad, tolam kad",Phonemic
+5-330-516-1,ingu1240,Ingush,1530,кад,CyrillTrans,bowl,,,kad,Phonemic
+5-340-516-1,ingu1240,Ingush,270,кIудал,CyrillTrans,"pitcher, jug",,,kʼudal,Phonemic
+5-320-516-1,ingu1240,Ingush,480,оаркхинг,CyrillTrans,plate,,,oarqing,Phonemic
+5-310-516-1,ingu1240,Ingush,481,оаркхув,CyrillTrans,dish,,,oarquw,Phonemic
+5-280-516-1,ingu1240,Ingush,31,яй,CyrillTrans,pan,,,yay,Phonemic
+5-260-516-1,ingu1240,Ingush,1462,яьинг,CyrillTrans,"pot, cooking vessel",,,"yäing, burka yay",Phonemic
+5-260-516-3,ingu1240,Ingush,1462,бурка яй,CyrillTrans,"pot, cooking vessel",,,"yäing, burka yay",Phonemic
+5-270-516-1,ingu1240,Ingush,854,чейниг,CyrillTrans,kettle,,,čeynig,Phonemic
+5-240-516-1,ingu1240,Ingush,183,датта,CyrillTrans,bake,,,dat̄a,Phonemic
+5-250-516-1,ingu1240,Ingush,1143,пишка,CyrillTrans,oven,,,pis̄ka,Phonemic
+5-230-516-1,ingu1240,Ingush,2146,кхарза,CyrillTrans,"roast, fry",,,qarza,Phonemic
+5-220-516-1,ingu1240,Ingush,792,кIеджъяхийта,CyrillTrans,boil (vb),,,kʼeǯʔyaxiyta,Phonemic
+5-210-516-1,ingu1240,Ingush,1100,кхехкаде,CyrillTrans,cook,,,qexkade,Phonemic
+5-190-516-1,ingu1240,Ingush,129,Iовда,CyrillTrans,choke,,,ʕowda,Phonemic
+5-181-516-1,ingu1240,Ingush,897,къургбе,CyrillTrans,swallow,,,qʼurgbe,Phonemic
+5-180-516-1,ingu1240,Ingush,321,Iувша,CyrillTrans,chew,,,ʕuwša,Phonemic
+5-160-516-1,ingu1240,Ingush,1421,Iувда,CyrillTrans,suck,,,"ʕuwda, ʕuwša",Phonemic
+5-160-516-3,ingu1240,Ingush,1421,Iувша,CyrillTrans,suck,,,"ʕuwda, ʕuwša",Phonemic
+5-150-516-1,ingu1240,Ingush,848,хьогал,CyrillTrans,thirst,,,ħogal,Phonemic
+5-141-516-1,ingu1240,Ingush,199,моцал,CyrillTrans,famine,,,mocal,Phonemic
+5-140-516-1,ingu1240,Ingush,1864,мецавалар,CyrillTrans,hunger,,,mecawalar,Phonemic
+5-130-516-1,ingu1240,Ingush,1401,мала,CyrillTrans,drink,,,mala,Phonemic
+5-125-516-1,ingu1240,Ingush,1728,йохкъенна,CyrillTrans,rotten,,,"yoxqʼen̄a, telxa",Phonemic
+5-125-516-3,ingu1240,Ingush,1728,телха,CyrillTrans,rotten,,,"yoxqʼen̄a, telxa",Phonemic
+5-124-516-1,ingu1240,Ingush,1958,аьрга,CyrillTrans,"green, unripe",,,"ärga, qačanza",Phonemic
+5-124-516-3,ingu1240,Ingush,1958,кхачанза,CyrillTrans,"green, unripe",,,"ärga, qačanza",Phonemic
+5-123-516-1,ingu1240,Ingush,178,кхаьча,CyrillTrans,ripe,,,qäča,Phonemic
+5-122-516-1,ingu1240,Ingush,1959,бийда,CyrillTrans,raw,,,biyda,Phonemic
+5-121-516-1,ingu1240,Ingush,269,кхехкадаь,CyrillTrans,cooked,,,qexkdä,Phonemic
+5-120-516-1,ingu1240,Ingush,256,кхача,CyrillTrans,food,,,"qacǎ, daʔar, yaʔa hama, siskal",Phonemic
+5-120-516-3,ingu1240,Ingush,256,даар,CyrillTrans,food,,,"qacǎ, daʔar, yaʔa hama, siskal",Phonemic
+5-120-516-5,ingu1240,Ingush,256,яа хIама,CyrillTrans,food,,,"qacǎ, daʔar, yaʔa hama, siskal",Phonemic
+5-120-516-7,ingu1240,Ingush,256,сискал,CyrillTrans,food,,,"qacǎ, daʔar, yaʔa hama, siskal",Phonemic
+5-110-516-1,ingu1240,Ingush,1336,даа,CyrillTrans,eat,,,daʔa,Phonemic
+4-990-516-1,ingu1240,Ingush,590,верзан,CyrillTrans,"naked, bare",,,"werzan, werzan-tʼarzan",Phonemic
+4-990-516-3,ingu1240,Ingush,590,верзан-тIарзан,CyrillTrans,"naked, bare",,,"werzan, werzan-tʼarzan",Phonemic
+4-970-516-1,ingu1240,Ingush,1653,бIарза,CyrillTrans,blind,,,"bʕarza, bʕargaš dayna",Phonemic
+4-970-516-3,ingu1240,Ingush,1653,бIаргаш дайна,CyrillTrans,blind,,,"bʕarza, bʕargaš dayna",Phonemic
+4-980-516-1,ingu1240,Ingush,1463,веха,CyrillTrans,intoxicated,,,"wexa, men̄a",Phonemic
+4-980-516-3,ingu1240,Ingush,1463,менна,CyrillTrans,intoxicated,,,"wexa, men̄a",Phonemic
+4-960-516-1,ingu1240,Ingush,1666,маьттаза,CyrillTrans,mute,,,mät̄aza,Phonemic
+4-950-516-1,ingu1240,Ingush,996,къора,CyrillTrans,deaf,,,q̛ora,Phonemic
+4-930-516-1,ingu1240,Ingush,1125,чIишкал,CyrillTrans,bald,,,"c̛iškal, t̛aršing",Phonemic
+4-930-516-3,ingu1240,Ingush,1125,тIаршинг,CyrillTrans,bald,,,"c̛iškal, t̛aršing",Phonemic
+4-940-516-1,ingu1240,Ingush,320,астагIлелха,CyrillTrans,lame,,,"astaɣlelxa, t̛änžaq",Phonemic
+4-940-516-3,ingu1240,Ingush,320,тIаьнжакх,CyrillTrans,lame,,,"astaɣlelxa, t̛änžaq",Phonemic
+4-920-516-1,ingu1240,Ingush,1564,мекъа,CyrillTrans,lazy,,,meq̛a,Phonemic
+4-912-516-1,ingu1240,Ingush,168,салаIа,CyrillTrans,rest,,,salaʕa,Phonemic
+4-910-516-1,ingu1240,Ingush,1757,кIаьдвенна,CyrillTrans,"tired, weary",,,"k̛ädwen̄a, ɣoaral dayna, et̄a",Phonemic
+4-910-516-3,ingu1240,Ingush,1757,гIоарал дайна,CyrillTrans,"tired, weary",,,"k̛ädwen̄a, ɣoaral dayna, et̄a",Phonemic
+4-910-516-5,ingu1240,Ingush,1757,этта,CyrillTrans,"tired, weary",,,"k̛ädwen̄a, ɣoaral dayna, et̄a",Phonemic
+4-890-516-1,ingu1240,Ingush,655,дохьаж,CyrillTrans,poison,,,doћaž,Phonemic
+4-880-516-1,ingu1240,Ingush,1372,молх,CyrillTrans,"medicine, drug",,,"molx, darbader",Phonemic
+4-880-516-3,ingu1240,Ingush,1372,дарбадер,CyrillTrans,"medicine, drug",,,"molx, darbader",Phonemic
+4-870-516-1,ingu1240,Ingush,597,лор,CyrillTrans,physician,,,"lor, darbanča",Phonemic
+4-870-516-3,ingu1240,Ingush,597,дарбанча,CyrillTrans,physician,,,"lor, darbanča",Phonemic
+4-860-516-1,ingu1240,Ingush,499,дарб де,CyrillTrans,"cure, heal",,,"darb de, toade",Phonemic
+4-860-516-3,ingu1240,Ingush,499,тоаде,CyrillTrans,"cure, heal",,,"darb de, toade",Phonemic
+4-858-516-1,ingu1240,Ingush,497,муа,CyrillTrans,scar,,,mua,Phonemic
+4-857-516-1,ingu1240,Ingush,1808,нод,CyrillTrans,pus,,,nod,Phonemic
+4-856-516-1,ingu1240,Ingush,793,Iар,CyrillTrans,boil (noun),,,"ʕar, c̛olak",Phonemic
+4-856-516-3,ingu1240,Ingush,793,цIолак,CyrillTrans,boil (noun),,,"ʕar, c̛olak",Phonemic
+4-855-516-1,ingu1240,Ingush,1584,ахкарг,CyrillTrans,blister,,,axkar,Phonemic
+4-854-516-1,ingu1240,Ingush,148,кIомдалар,CyrillTrans,itch,,,k̛omdalar,Phonemic
+4-853-516-1,ingu1240,Ingush,1903,дестам,CyrillTrans,swelling,,,"destam, boglus",Phonemic
+4-853-516-3,ingu1240,Ingush,1903,боглус,CyrillTrans,swelling,,,"destam, boglus",Phonemic
+4-852-516-1,ingu1240,Ingush,1148,човхор,CyrillTrans,bruise,,,čowxor,Phonemic
+4-850-516-1,ingu1240,Ingush,1109,чов,CyrillTrans,"wound, sore",,,"čow, daʕ",Phonemic
+4-850-516-3,ingu1240,Ingush,1109,даI,CyrillTrans,"wound, sore",,,"čow, daʕ",Phonemic
+4-843-516-1,ingu1240,Ingush,102,шелвалар,CyrillTrans,cold (catarrh),,,šelwalar,Phonemic
+4-842-516-1,ingu1240,Ingush,1957,боккхар,CyrillTrans,goiter,,,boq̄ar,Phonemic
+4-841-516-1,ingu1240,Ingush,1534,йовхал,CyrillTrans,fever,,,"yowxal, egawe",Phonemic
+4-841-516-3,ingu1240,Ingush,1534,эгаве,CyrillTrans,fever,,,"yowxal, egawe",Phonemic
+4-840-516-1,ingu1240,Ingush,1847,цамогаш,CyrillTrans,"sick, sickness",,,"camogaš, mogca",Phonemic
+4-840-516-3,ingu1240,Ingush,1847,могца,CyrillTrans,"sick, sickness",,,"camogaš, mogca",Phonemic
+4-830-516-1,ingu1240,Ingush,1364,унахцIенна,CyrillTrans,"well, health",,,"unaxc̛en̄a, toawen̄a, unaxc̛en̄o",Phonemic
+4-830-516-3,ingu1240,Ingush,1364,тоавенна,CyrillTrans,"well, health",,,"unaxc̛en̄a, toawen̄a, unaxc̛en̄o",Phonemic
+4-830-516-5,ingu1240,Ingush,1364,унахцIено,CyrillTrans,"well, health",,,"unaxc̛en̄a, toawen̄a, unaxc̛en̄o",Phonemic
+4-820-516-1,ingu1240,Ingush,1601,эсала,CyrillTrans,weak,,,"esala, zälza",Phonemic
+4-820-516-3,ingu1240,Ingush,1601,заьлза,CyrillTrans,weak,,,"esala, zälza",Phonemic
+4-810-516-1,ingu1240,Ingush,785,чIоагIа,CyrillTrans,"strong, mighty, powerful",,,"č̛ʕoaɣa, niz bola",Phonemic
+4-810-516-3,ingu1240,Ingush,785,низ бола,CyrillTrans,"strong, mighty, powerful",,,"č̛ʕoaɣa, niz bola",Phonemic
+4-790-516-1,ingu1240,Ingush,1773,каш,CyrillTrans,"grave, tomb",,,kaš,Phonemic
+4-780-516-1,ingu1240,Ingush,1719,дIаволла,CyrillTrans,bury (the dead),,,dʕawol̄a,Phonemic
+4-770-516-1,ingu1240,Ingush,767,дакъа,CyrillTrans,corpse,,,daq̛a,Phonemic
+4-760-516-1,ingu1240,Ingush,1417,ве,CyrillTrans,kill,,,we,Phonemic
+4-751-516-1,ingu1240,Ingush,1904,хи чуваха,CyrillTrans,drowned,,,"xi čuwaxa, xi čuwaxar",Phonemic
+4-751-516-3,ingu1240,Ingush,1904,хи чувахар,CyrillTrans,drowned,,,"xi čuwaxa, xi čuwaxar",Phonemic
+4-750-516-1,ingu1240,Ingush,1494,вала,CyrillTrans,"die, dead",,,"wala, wen̄a",Phonemic
+4-750-516-3,ingu1240,Ingush,1494,венна,CyrillTrans,"die, dead",,,"wala, wen̄a",Phonemic
+4-740-516-1,ingu1240,Ingush,1422,ваха,CyrillTrans,"live, living, life",,,"waxa, diyna, waxar",Phonemic
+4-740-516-3,ingu1240,Ingush,1422,дийна,CyrillTrans,"live, living, life",,,"waxa, diyna, waxar",Phonemic
+4-740-516-5,ingu1240,Ingush,1422,вахар,CyrillTrans,"live, living, life",,,"waxa, diyna, waxar",Phonemic
+4-732-516-1,ingu1240,Ingush,1087,берах хила,CyrillTrans,conceive,,,berax xila,Phonemic
+4-730-516-1,ingu1240,Ingush,1123,берах йола,CyrillTrans,pregnant,,,berax yola,Phonemic
+4-720-516-1,ingu1240,Ingush,1090,вала,CyrillTrans,born (to be),,,wala,Phonemic
+4-710-516-1,ingu1240,Ingush,1152,ве,CyrillTrans,beget (of father),,,we,Phonemic
+4-690-516-1,ingu1240,Ingush,138,лувча,CyrillTrans,bathe,,,luwča,Phonemic
+4-680-516-1,ingu1240,Ingush,52,эгаве,CyrillTrans,shiver,,,egawe,Phonemic
+4-670-516-1,ingu1240,Ingush,1785,буд де,CyrillTrans,have sexual intercourse,,,"bud de, t̛in dola, yux ћaqa, qasagax qeta",Phonemic
+4-670-516-3,ingu1240,Ingush,1785,тІин дола,CyrillTrans,have sexual intercourse,,,"bud de, t̛in dola, yux ћaqa, qasagax qeta",Phonemic
+4-670-516-5,ingu1240,Ingush,1785,юх хьакха,CyrillTrans,have sexual intercourse,,,"bud de, t̛in dola, yux ћaqa, qasagax qeta",Phonemic
+4-670-516-7,ingu1240,Ingush,1785,кхасагах кхета,CyrillTrans,have sexual intercourse,,,"bud de, t̛in dola, yux ћaqa, qasagax qeta",Phonemic
+4-660-516-1,ingu1240,Ingush,676,нишк гIо,CyrillTrans,defecate,,,nišk̛ ɣo,Phonemic
+4-650-516-1,ingu1240,Ingush,592,чиш тела,CyrillTrans,urinate,,,čis tela,Phonemic
+4-640-516-1,ingu1240,Ingush,1159,паш тоха,CyrillTrans,break wind,,,"paš toxa, t̛ard toxa",Phonemic
+4-640-516-3,ingu1240,Ingush,1159,тІард тоха,CyrillTrans,break wind,,,"paš toxa, t̛ard toxa",Phonemic
+4-630-516-1,ingu1240,Ingush,1602,сомавала,CyrillTrans,wake up,,,somawala,Phonemic
+4-620-516-1,ingu1240,Ingush,1920,гIа го,CyrillTrans,dream,,,ɣa go,Phonemic
+4-612-516-1,ingu1240,Ingush,1983,хардолла,CyrillTrans,snore,,,xardol̄a,Phonemic
+4-610-516-1,ingu1240,Ingush,1585,тховса,CyrillTrans,sleep,,,txowsa,Phonemic
+4-591-516-1,ingu1240,Ingush,268,шодаш Iоах,CyrillTrans,dribble,,,šodaš ʕoax,Phonemic
+4-590-516-1,ingu1240,Ingush,319,мотт хьакха,CyrillTrans,lick,,,mot̄ ћaqa,Phonemic
+4-580-516-1,ingu1240,Ingush,1403,царг тоха,CyrillTrans,bite,,,carg toxa,Phonemic
+4-570-516-1,ingu1240,Ingush,1278,Iеттаде,CyrillTrans,vomit,,,ʕet̄ade,Phonemic
+4-560-516-1,ingu1240,Ingush,1440,туг тасса,CyrillTrans,spit,,,"tug tas̄a, tug",Phonemic
+4-560-516-3,ingu1240,Ingush,1440,туг,CyrillTrans,spit,,,"tug tas̄a, tug",Phonemic
+4-550-516-1,ingu1240,Ingush,126,хьоцар дала,CyrillTrans,perspire,,,ћocar dala,Phonemic
+4-540-516-1,ingu1240,Ingush,1621,Iаршинг тоха,CyrillTrans,sneeze,,,ʕaršing toxa,Phonemic
+4-530-516-1,ingu1240,Ingush,879,кхайкаве,CyrillTrans,cough,,,qaykawe,Phonemic
+4-521-516-1,ingu1240,Ingush,162,дIаIингаш даха,CyrillTrans,hiccough,,,dʕaʕingaš daxa,Phonemic
+4-520-516-1,ingu1240,Ingush,1028,соттавар,CyrillTrans,"yawn, gape",,,sot̄awar,Phonemic
+4-510-516-1,ingu1240,Ingush,1407,са даха,CyrillTrans,"breathe, breath",,,"sa daxa, sa daxar",Phonemic
+4-510-516-3,ingu1240,Ingush,1407,са дахар,CyrillTrans,"breathe, breath",,,"sa daxa, sa daxar",Phonemic
+4-492-516-1,ingu1240,Ingush,1222,тIен,CyrillTrans,penis,,,t̛en,Phonemic
+4-490-516-1,ingu1240,Ingush,797,цIорилг,CyrillTrans,testicle,,,c̛orilg,Phonemic
+4-470-516-1,ingu1240,Ingush,804,бера цIа(я),CyrillTrans,womb,,,bera c̛a(ya),Phonemic
+4-464-516-1,ingu1240,Ingush,834,кIаглерг,CyrillTrans,buttocks,,,k̛aglerg,Phonemic
+4-463-516-1,ingu1240,Ingush,1745,ха,CyrillTrans,hip,,,xa,Phonemic
+4-462-516-1,ingu1240,Ingush,1681,юкъ,CyrillTrans,waist,,,yuq̛,Phonemic
+4-461-516-1,ingu1240,Ingush,1991,доккха шерг,CyrillTrans,"intestines, guts",,,doq̄a šerg,Phonemic
+4-460-516-1,ingu1240,Ingush,819,гаьг,CyrillTrans,stomach,,,gäg,Phonemic
+4-452-516-1,ingu1240,Ingush,1744,инжирилг,CyrillTrans,spleen,,,inžirilg,Phonemic
+4-451-516-1,ingu1240,Ingush,489,жим,CyrillTrans,kidney,,,žim,Phonemic
+4-450-516-1,ingu1240,Ingush,1224,дихк,CyrillTrans,liver,,,dixk,Phonemic
+4-441-516-1,ingu1240,Ingush,688,пехк,CyrillTrans,lung,,,pexk,Phonemic
+4-440-516-1,ingu1240,Ingush,1223,дог,CyrillTrans,heart,,,dog,Phonemic
+4-430-516-1,ingu1240,Ingush,1838,цIонг,CyrillTrans,navel,,,c̛ong,Phonemic
+4-420-516-1,ingu1240,Ingush,154,шим,CyrillTrans,udder,,,šim,Phonemic
+4-412-516-1,ingu1240,Ingush,796,тIар,CyrillTrans,"nipple, teat",,,t̛ar,Phonemic
+4-410-516-1,ingu1240,Ingush,1402,накха,CyrillTrans,breast (of woman),,,naqa,Phonemic
+4-400-516-1,ingu1240,Ingush,1592,наькха улг,CyrillTrans,chest,,,näqa ulg,Phonemic
+4-393-516-1,ingu1240,Ingush,1201,бедарг,CyrillTrans,feather,,,bedarg,Phonemic
+4-392-516-1,ingu1240,Ingush,1257,ткъам,CyrillTrans,wing,,,tq̛am,Phonemic
+4-380-516-1,ingu1240,Ingush,1389,кога пIелг,CyrillTrans,toe,,,koga p̛elg,Phonemic
+4-374-516-1,ingu1240,Ingush,318,кога лар,CyrillTrans,footprint,,,kora lag,Phonemic
+4-372-516-1,ingu1240,Ingush,980,кIоажув,CyrillTrans,heel,,,k̛oažuw,Phonemic
+4-371-516-1,ingu1240,Ingush,803,хьакхинг,CyrillTrans,ankle,,,ћaqing,Phonemic
+4-370-516-1,ingu1240,Ingush,1301,ког,CyrillTrans,foot,,,kog,Phonemic
+4-360-516-1,ingu1240,Ingush,1371,гола,CyrillTrans,knee,,,gola,Phonemic
+4-352-516-1,ingu1240,Ingush,498,ностар пхьид,CyrillTrans,calf of leg,,,nostar pћid,Phonemic
+4-351-516-1,ingu1240,Ingush,800,ха,CyrillTrans,thigh,,,xa,Phonemic
+4-350-516-1,ingu1240,Ingush,1297,ког,CyrillTrans,leg,,,kog,Phonemic
+4-345-516-1,ingu1240,Ingush,72,мIара,CyrillTrans,claw,,,mʕara,Phonemic
+4-344-516-1,ingu1240,Ingush,1258,мIара,CyrillTrans,fingernail,,,mʕara,Phonemic
+4-342-516-1,ingu1240,Ingush,1781,боккха пIелг,CyrillTrans,thumb,,,boq̄a p̛elg,Phonemic
+4-340-516-1,ingu1240,Ingush,1303,пIелг,CyrillTrans,finger,,,p̛elg,Phonemic
+4-331-516-1,ingu1240,Ingush,1183,тIаьрюкъ,CyrillTrans,palm of hand,,,t̛äpyuq̛,Phonemic
+4-330-516-1,ingu1240,Ingush,1277,кулг,CyrillTrans,hand,,,kulg,Phonemic
+4-321-516-1,ingu1240,Ingush,799,биткъа пхьарс,CyrillTrans,wrist,,,bitq̛a pћars,Phonemic
+4-320-516-1,ingu1240,Ingush,981,пхьарса гола,CyrillTrans,elbow,,,pћarsa gola,Phonemic
+4-312-516-1,ingu1240,Ingush,1886,тIаьн кIийле,CyrillTrans,armpit,,,t̛än k̛iyle,Phonemic
+4-310-516-1,ingu1240,Ingush,1673,кулг,CyrillTrans,arm,,,kuld,Phonemic
+4-302-516-1,ingu1240,Ingush,1994,динбехк,CyrillTrans,collarbone,,,dinbexk,Phonemic
+4-301-516-1,ingu1240,Ingush,172,пхандар,CyrillTrans,shoulderblade,,,pxandar,Phonemic
+4-300-516-1,ingu1240,Ingush,1482,балам,CyrillTrans,shoulder,,,balam,Phonemic
+4-290-516-1,ingu1240,Ingush,1346,къамарг,CyrillTrans,throat,,,"q̛amarg, q̛amarga šod",Phonemic
+4-290-516-3,ingu1240,Ingush,1346,къамарга шод,CyrillTrans,throat,,,"q̛amarg, q̛amarga šod",Phonemic
+4-281-516-1,ingu1240,Ingush,1347,пхьукоаг,CyrillTrans,nape of neck,,,pћukoarg,Phonemic
+4-280-516-1,ingu1240,Ingush,1333,фоарт,CyrillTrans,neck,,,foart,Phonemic
+4-272-516-1,ingu1240,Ingush,1049,кхала,CyrillTrans,molartooth,,,"qala, qetam qala",Phonemic
+4-272-516-3,ingu1240,Ingush,1049,кхетам кхала,CyrillTrans,molartooth,,,"qala, qetam qala",Phonemic
+4-270-516-1,ingu1240,Ingush,1380,цIерг,CyrillTrans,tooth,,,c̛erg,Phonemic
+4-271-516-1,ingu1240,Ingush,139,долаш,CyrillTrans,gums,,,dolaš,Phonemic
+4-260-516-1,ingu1240,Ingush,1205,мотт,CyrillTrans,tongue,,,mot̄,Phonemic
+4-250-516-1,ingu1240,Ingush,478,борд,CyrillTrans,lip,,,bord,Phonemic
+4-241-516-1,ingu1240,Ingush,73,зIок,CyrillTrans,beak,,,zʕok,Phonemic
+4-240-516-1,ingu1240,Ingush,674,баге,CyrillTrans,mouth,,,bage,Phonemic
+4-232-516-1,ingu1240,Ingush,208,шод,CyrillTrans,mucus (nasal),,,"šod, meraš",Phonemic
+4-232-516-3,ingu1240,Ingush,208,мераш,CyrillTrans,mucus (nasal),,,"šod, meraš",Phonemic
+4-231-516-1,ingu1240,Ingush,1178,мерий ногIар,CyrillTrans,nostril,,,meriy noɣar,Phonemic
+4-230-516-1,ingu1240,Ingush,1221,мераж,CyrillTrans,nose,,,meraž,Phonemic
+4-222-516-1,ingu1240,Ingush,32,лерга до,CyrillTrans,earwax,,,lerga do,Phonemic
+4-221-516-1,ingu1240,Ingush,18,лерга духь,CyrillTrans,earlobe,,,lerga duћ,Phonemic
+4-220-516-1,ingu1240,Ingush,1247,лерг,CyrillTrans,ear,,,lerg,Phonemic
+4-215-516-1,ingu1240,Ingush,1655,къажа,CyrillTrans,blink,,,q̛aža,Phonemic
+4-214-516-1,ingu1240,Ingush,1540,бIарга цкъацкъам,CyrillTrans,eyelash,,,bʕarga cq̛acq̛am,Phonemic
+4-213-516-1,ingu1240,Ingush,17,бIарга ногIар,CyrillTrans,eyelid,,,bʕarga noɣar,Phonemic
+4-212-516-1,ingu1240,Ingush,1173,цкъацкъамаш,CyrillTrans,eyebrow,,,cq̛acq̛amaš,Phonemic
+4-210-516-1,ingu1240,Ingush,1248,бIарг,CyrillTrans,eye,,,bʕarg,Phonemic
+4-208-516-1,ingu1240,Ingush,1730,басилг,CyrillTrans,cheek,,,basilg,Phonemic
+4-209-516-1,ingu1240,Ingush,1510,чIенг,CyrillTrans,chin,,,č̛eng,Phonemic
+4-205-516-1,ingu1240,Ingush,123,хьажа,CyrillTrans,forehead,,,ћaža,Phonemic
+4-207-516-1,ingu1240,Ingush,798,мочхал,CyrillTrans,jaw,,,močxal,Phonemic
+4-204-516-1,ingu1240,Ingush,1560,юхь,CyrillTrans,face,,,"yuћ, yuћmaraž",Phonemic
+4-204-516-3,ingu1240,Ingush,1560,юхьмараж,CyrillTrans,face,,,"yuћ, yuћmaraž",Phonemic
+4-203-516-1,ingu1240,Ingush,1583,хьоа,CyrillTrans,brain,,,ћoa,Phonemic
+4-201-516-1,ingu1240,Ingush,1604,керта чоадж,CyrillTrans,"side of head, temple",,,kerta čoaǯ,Phonemic
+4-202-516-1,ingu1240,Ingush,1605,тутти,CyrillTrans,skull,,,tut̄i,Phonemic
+4-200-516-1,ingu1240,Ingush,1256,корта,CyrillTrans,head,,,korta,Phonemic
+4-191-516-1,ingu1240,Ingush,805,букъ-техк,CyrillTrans,spine,,,buq̛-texk,Phonemic
+4-190-516-1,ingu1240,Ingush,1291,букъ,CyrillTrans,back,,,buq̛,Phonemic
+4-180-516-1,ingu1240,Ingush,1220,цIог,CyrillTrans,tail,,,c̛og,Phonemic
+4-170-516-1,ingu1240,Ingush,1393,муI,CyrillTrans,horn,,,muʕ,Phonemic
+4-162-516-1,ingu1240,Ingush,801,пIенда,CyrillTrans,rib,,,p̛enda,Phonemic
+4-160-516-1,ingu1240,Ingush,1394,тIехк,CyrillTrans,bone,,,t̛exk,Phonemic
+4-151-516-1,ingu1240,Ingush,525,пха,CyrillTrans,"vein, artery",,,"pxa, boq̄a pxa, mia",Phonemic
+4-151-516-3,ingu1240,Ingush,525,боккха пха,CyrillTrans,"vein, artery",,,"pxa, boq̄a pxa, mia",Phonemic
+4-151-516-5,ingu1240,Ingush,525,миа,CyrillTrans,"vein, artery",,,"pxa, boq̄a pxa, mia",Phonemic
+4-150-516-1,ingu1240,Ingush,946,цIий,CyrillTrans,blood,,,c̛iy,Phonemic
+4-146-516-1,ingu1240,Ingush,576,чич,CyrillTrans,dandruff,,,čič,Phonemic
+4-145-516-1,ingu1240,Ingush,36,чо,CyrillTrans,pubic hair,,,čo,Phonemic
+4-144-516-1,ingu1240,Ingush,189,чо,CyrillTrans,body hair,,,"čo, češ",Phonemic
+4-144-516-3,ingu1240,Ingush,189,чеш,CyrillTrans,body hair,,,"čo, češ",Phonemic
+4-142-516-1,ingu1240,Ingush,678,модж,CyrillTrans,beard,,,modž,Phonemic
+4-140-516-1,ingu1240,Ingush,1040,мосаш,CyrillTrans,hair (head),,,mosaš,Phonemic
+4-130-516-1,ingu1240,Ingush,2259,дегI,CyrillTrans,flesh,,,"deɣ, dulx-c̛iy",Phonemic
+4-130-516-3,ingu1240,Ingush,2259,дулх-цIий,CyrillTrans,flesh,,,"deɣ, dulx-c̛iy",Phonemic
+4-120-516-1,ingu1240,Ingush,763,цIока,CyrillTrans,"skin, hide",,,"c̛oka, niћ",Phonemic
+4-120-516-3,ingu1240,Ingush,763,нихь,CyrillTrans,"skin, hide",,,"c̛oka, niћ",Phonemic
+4-110-516-1,ingu1240,Ingush,1480,дегI,CyrillTrans,body,,,deɣ,Phonemic
+3-980-516-1,ingu1240,Ingush,112,бога пхьид,CyrillTrans,turtle,,,boga pћid,Phonemic
+3-970-516-1,ingu1240,Ingush,1857,воатагар,CyrillTrans,"crocodile, alligator",,,woatagar,Phonemic
+3-960-516-1,ingu1240,Ingush,632,шолкъ,CyrillTrans,lizard,,,šolq̛,Phonemic
+3-950-516-1,ingu1240,Ingush,503,пхьид,CyrillTrans,frog,,,pћid,Phonemic
+3-940-516-1,ingu1240,Ingush,1543,митал,CyrillTrans,snail,,,mital,Phonemic
+3-930-516-1,ingu1240,Ingush,607,баскилг,CyrillTrans,grasshopper,,,baskilg,Phonemic
+3-920-516-1,ingu1240,Ingush,1791,кIормац,CyrillTrans,butterfly,,,k̛ormac,Phonemic
+3-910-516-1,ingu1240,Ingush,206,нIаний цIи,CyrillTrans,firefly,,,nʕaniy c̛i,Phonemic
+3-850-516-1,ingu1240,Ingush,730,текхарг,CyrillTrans,snake,,,teqarg,Phonemic
+3-840-516-1,ingu1240,Ingush,1219,нIана,CyrillTrans,worm,,,nʕana,Phonemic
+3-832-516-1,ingu1240,Ingush,1509,пхьажбуарг,CyrillTrans,mosquito,,,pћažbuarg,Phonemic
+3-831-516-1,ingu1240,Ingush,95,цIиймерг,CyrillTrans,"sandfly (midge), gnat",,,c̛iymerg,Phonemic
+3-830-516-1,ingu1240,Ingush,1504,моза,CyrillTrans,fly,,,moza,Phonemic
+3-823-516-1,ingu1240,Ingush,1517,зIок моза,CyrillTrans,wasp,,,zʕok moza,Phonemic
+3-822-516-1,ingu1240,Ingush,88,тускар,CyrillTrans,beehive,,,tuskar,Phonemic
+3-821-516-1,ingu1240,Ingush,1931,боалоз,CyrillTrans,beeswax,,,boaloz,Phonemic
+3-820-516-1,ingu1240,Ingush,665,нокхар моза,CyrillTrans,bee,,,noqar moza,Phonemic
+3-819-516-1,ingu1240,Ingush,1065,гизга маза,CyrillTrans,spider web,,,gizga maza,Phonemic
+3-818-516-1,ingu1240,Ingush,843,гизг,CyrillTrans,spider,,,gizg,Phonemic
+3-817-516-1,ingu1240,Ingush,587,зунгат,CyrillTrans,ant,,,zungat,Phonemic
+3-816-516-1,ingu1240,Ingush,1575,чоапилг,CyrillTrans,cockroach,,,čoapilg,Phonemic
+3-815-516-1,ingu1240,Ingush,1538,дIохьаж гизг,CyrillTrans,scorpion,,,dʕoћaž gizg,Phonemic
+3-814-516-1,ingu1240,Ingush,1974,когахухарг,CyrillTrans,centipede,,,kogaxuxarg,Phonemic
+3-813-516-1,ingu1240,Ingush,232,сагал,CyrillTrans,flea,,,sagal,Phonemic
+3-812-516-1,ingu1240,Ingush,267,хинжа,CyrillTrans,nit (louse egg),,,xinža,Phonemic
+3-811-516-1,ingu1240,Ingush,1392,меза,CyrillTrans,louse,,,meza,Phonemic
+3-810-516-1,ingu1240,Ingush,620,секам,CyrillTrans,insect,,,sekam,Phonemic
+3-780-516-1,ingu1240,Ingush,1871,инкал,CyrillTrans,camel,,,inkal,Phonemic
+3-770-516-1,ingu1240,Ingush,1290,пилл,CyrillTrans,elephant,,,pil̄,Phonemic
+3-760-516-1,ingu1240,Ingush,1350,маймал,CyrillTrans,monkey,,,maymal,Phonemic
+3-750-516-1,ingu1240,Ingush,1936,сай,CyrillTrans,deer,,,"say, liyg",Phonemic
+3-750-516-3,ingu1240,Ingush,1936,лийг,CyrillTrans,deer,,,"say, liyg",Phonemic
+3-740-516-1,ingu1240,Ingush,1312,цхьогал,CyrillTrans,fox,,,cћogal,Phonemic
+3-730-516-1,ingu1240,Ingush,1820,ча,CyrillTrans,bear,,,ča,Phonemic
+3-720-516-1,ingu1240,Ingush,1386,лом,CyrillTrans,lion,,,lom,Phonemic
+3-710-516-1,ingu1240,Ingush,522,борз,CyrillTrans,wolf,,,borz,Phonemic
+3-665-516-1,ingu1240,Ingush,1013,хинIана,CyrillTrans,freshwater eel,,,xinʕana,Phonemic
+3-664-516-1,ingu1240,Ingush,1910,форда циск,CyrillTrans,stingray,,,forda cisk,Phonemic
+3-663-516-1,ingu1240,Ingush,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-516-1,ingu1240,Ingush,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-516-1,ingu1240,Ingush,1110,иргIув,CyrillTrans,shark,,,irɣuw,Phonemic
+3-655-516-1,ingu1240,Ingush,598,дивилерг,CyrillTrans,shell,,,diwilerg,Phonemic
+3-653-516-1,ingu1240,Ingush,266,секаш,CyrillTrans,fishscale,,,sekaš,Phonemic
+3-652-516-1,ingu1240,Ingush,213,пхьелиг,CyrillTrans,fin (dorsal),,,pћelig,Phonemic
+3-650-516-1,ingu1240,Ingush,227,чкъаьра,CyrillTrans,fish,,,čq̛ära,Phonemic
+3-630-516-1,ingu1240,Ingush,2139,дахка,CyrillTrans,"mouse, rat",,,"daxka, cicxolg",Phonemic
+3-630-516-3,ingu1240,Ingush,2139,цицхолг,CyrillTrans,"mouse, rat",,,"daxka, cicxolg",Phonemic
+3-620-516-1,ingu1240,Ingush,1208,циск,CyrillTrans,cat,,,cisk,Phonemic
+3-614-516-1,ingu1240,Ingush,1136,куни,CyrillTrans,rabbit,,,kuni,Phonemic
+3-610-516-1,ingu1240,Ingush,2009,жIали,CyrillTrans,dog,,,"žʕali, pћu",Phonemic
+3-610-516-3,ingu1240,Ingush,2009,пхьу,CyrillTrans,dog,,,"žʕali, pћu",Phonemic
+3-594-516-1,ingu1240,Ingush,1853,кхокха,CyrillTrans,dove,,,qoqa,Phonemic
+3-596-516-1,ingu1240,Ingush,735,бов,CyrillTrans,owl,,,"bow, busɁʕexarg",Phonemic
+3-596-516-3,ingu1240,Ingush,735,бусъIехарг,CyrillTrans,owl,,,"bow, busɁʕexarg",Phonemic
+3-593-516-1,ingu1240,Ingush,913,къайг,CyrillTrans,crow,,,q̛ayg,Phonemic
+3-592-516-1,ingu1240,Ingush,882,чIикъажарг,CyrillTrans,parrot,,,č̛iq̛ažarg,Phonemic
+3-591-516-1,ingu1240,Ingush,1793,Iимаьшк,CyrillTrans,bat,,,ʕimäšk,Phonemic
+3-586-516-1,ingu1240,Ingush,1185,аьрзи,CyrillTrans,vulture,,,ärzi,Phonemic
+3-585-516-1,ingu1240,Ingush,307,маккхал,CyrillTrans,hawk,,,"maq̄al, läča",Phonemic
+3-585-516-3,ingu1240,Ingush,307,лаьча,CyrillTrans,hawk,,,"maq̄al, läča",Phonemic
+3-584-516-1,ingu1240,Ingush,1905,аьрзи,CyrillTrans,eagle,,,ärzi,Phonemic
+3-582-516-1,ingu1240,Ingush,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-516-1,ingu1240,Ingush,758,чкъаьрий дуарг,CyrillTrans,heron,,,čq̛äriy duarg,Phonemic
+3-581-516-1,ingu1240,Ingush,937,оалхазар,CyrillTrans,bird,,,oalxazar,Phonemic
+3-580-516-1,ingu1240,Ingush,539,бIи,CyrillTrans,nest,,,bʕi,Phonemic
+3-570-516-1,ingu1240,Ingush,1360,боабишк,CyrillTrans,duck,,,boabišk,Phonemic
+3-560-516-1,ingu1240,Ingush,1187,гIаж,CyrillTrans,goose,,,ɣaž,Phonemic
+3-550-516-1,ingu1240,Ingush,1318,кIориг,CyrillTrans,chicken,,,k̛orig,Phonemic
+3-540-516-1,ingu1240,Ingush,1514,котам,CyrillTrans,hen,,,kotam,Phonemic
+3-520-516-1,ingu1240,Ingush,1511,боргIал,CyrillTrans,"cock, rooster",,,borɣal,Phonemic
+3-470-516-1,ingu1240,Ingush,890,вирбIарз,CyrillTrans,mule,,,wirbʕarz,Phonemic
+3-500-516-1,ingu1240,Ingush,265,каг-котам,CyrillTrans,fowl,,,kag-kotam,Phonemic
+3-460-516-1,ingu1240,Ingush,1862,вир,CyrillTrans,"ass, donkey",,,wir,Phonemic
+3-450-516-1,ingu1240,Ingush,1647,бакъ,CyrillTrans,"foal, colt",,,baq̛,Phonemic
+3-440-516-1,ingu1240,Ingush,938,кхал,CyrillTrans,mare,,,qal,Phonemic
+3-420-516-1,ingu1240,Ingush,936,IайгIар,CyrillTrans,stallion,,,ʕayɣar,Phonemic
+3-410-516-1,ingu1240,Ingush,615,говр,CyrillTrans,horse (equine),,,gowr,Phonemic
+3-380-516-1,ingu1240,Ingush,1972,бIийг,CyrillTrans,kid,,,bʕiyg,Phonemic
+3-370-516-1,ingu1240,Ingush,264,бодж,CyrillTrans,he-goat,,,boǯ,Phonemic
+3-360-516-1,ingu1240,Ingush,1502,газа,CyrillTrans,goat,,,gaza,Phonemic
+3-350-516-1,ingu1240,Ingush,1337,хьакха,CyrillTrans,pig,,,ћaqa,Phonemic
+3-340-516-1,ingu1240,Ingush,1351,жаргIа,CyrillTrans,sow (2),,,zarɣa,Phonemic
+3-320-516-1,ingu1240,Ingush,1348,нал,CyrillTrans,boar,,,nal,Phonemic
+3-290-516-1,ingu1240,Ingush,820,Iаьхарг,CyrillTrans,lamb,,,ʕäxarg,Phonemic
+3-280-516-1,ingu1240,Ingush,1345,жий,CyrillTrans,ewe,,,žiy,Phonemic
+3-260-516-1,ingu1240,Ingush,1344,ка,CyrillTrans,ram,,,ka,Phonemic
+3-250-516-1,ingu1240,Ingush,1331,устагI,CyrillTrans,sheep,,,ustaɣ,Phonemic
+3-240-516-1,ingu1240,Ingush,1989,Iаса,CyrillTrans,calf,,,ʕasa,Phonemic
+3-230-516-1,ingu1240,Ingush,1007,етт,CyrillTrans,cow,,,yet̄,Phonemic
+3-220-516-1,ingu1240,Ingush,1169,уст,CyrillTrans,ox,,,ust,Phonemic
+3-210-516-1,ingu1240,Ingush,1008,бугIа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-516-1,ingu1240,Ingush,1153,доахан,CyrillTrans,cattle (bovine),,,doaxan,Phonemic
+3-190-516-1,ingu1240,Ingush,851,кхий,CyrillTrans,"stable, stall",,,"qiy, ћay",Phonemic
+3-190-516-3,ingu1240,Ingush,851,хьай,CyrillTrans,"stable, stall",,,"qiy, ћay",Phonemic
+3-180-516-1,ingu1240,Ingush,263,Iу,CyrillTrans,herdsman,,,"ʕu, ɣok̄az",Phonemic
+3-180-516-3,ingu1240,Ingush,263,гIокказ,CyrillTrans,herdsman,,,"ʕu, ɣok̄az",Phonemic
+3-160-516-1,ingu1240,Ingush,649,даьгIе,CyrillTrans,pasture,,,"däɣe, xibäce",Phonemic
+3-160-516-3,ingu1240,Ingush,649,хибаьце,CyrillTrans,pasture,,,"däɣe, xibäce",Phonemic
+3-150-516-1,ingu1240,Ingush,631,хьайбаш,CyrillTrans,livestock,,,ћaybaš,Phonemic
+3-130-516-1,ingu1240,Ingush,2262,кхал,CyrillTrans,female (adj),,,qal,Phonemic
+3-120-516-1,ingu1240,Ingush,2261,маI,CyrillTrans,male (adj),,,maʕ,Phonemic
+3-110-516-1,ingu1240,Ingush,619,хьайба,CyrillTrans,animal,,,"ћayba, sa doala hama",Phonemic
+3-110-516-3,ingu1240,Ingush,619,са доала хIама,CyrillTrans,animal,,,"ћayba, sa doala hama",Phonemic
+2-960-516-1,ingu1240,Ingush,817,уж,CyrillTrans,they,,,už,Phonemic
+2-950-516-1,ingu1240,Ingush,1213,шо,CyrillTrans,you (plural),,,šo,Phonemic
+2-942-516-1,ingu1240,Ingush,1130,вай,CyrillTrans,we (exclusive),,,way,Phonemic
+2-941-516-1,ingu1240,Ingush,1131,тхо,CyrillTrans,we (inclusive),,,txo,Phonemic
+2-940-516-1,ingu1240,Ingush,1212,тхо,CyrillTrans,we,,,txo,Phonemic
+2-930-516-1,ingu1240,Ingush,262,из,CyrillTrans,he/she/it,,,iz,Phonemic
+2-920-516-1,ingu1240,Ingush,1215,хьо,CyrillTrans,you (singular),,,ћo,Phonemic
+2-910-516-1,ingu1240,Ingush,1209,со,CyrillTrans,I,,,so,Phonemic
+2-820-516-1,ingu1240,Ingush,194,дезал,CyrillTrans,family,,,dezal,Phonemic
+2-810-516-1,ingu1240,Ingush,1644,гаргара нах,CyrillTrans,"relatives, kinsmen",,,"gargara nax, qoačarle",Phonemic
+2-810-516-3,ingu1240,Ingush,1644,кхоачарле,CyrillTrans,"relatives, kinsmen",,,"gargara nax, qoačarle",Phonemic
+2-770-516-1,ingu1240,Ingush,1981,сесаг енна саг,CyrillTrans,widower,,,sesag yenna sag,Phonemic
+2-760-516-1,ingu1240,Ingush,1756,жеро,CyrillTrans,widow,,,žero,Phonemic
+2-750-516-1,ingu1240,Ingush,1149,бо,CyrillTrans,orphan,,,bo,Phonemic
+2-740-516-1,ingu1240,Ingush,1058,маьр-йоI,CyrillTrans,stepdaughter,,,mär-yoʕ,Phonemic
+2-730-516-1,ingu1240,Ingush,1059,маьр-воI,CyrillTrans,stepson,,,mär-woʕ,Phonemic
+2-720-516-1,ingu1240,Ingush,236,даь-сесаг,CyrillTrans,stepmother,,,dä-sesag,Phonemic
+2-710-516-1,ingu1240,Ingush,237,наьна-мар,CyrillTrans,stepfather,,,nana-mar,Phonemic
+2-641-516-1,ingu1240,Ingush,2264,нускал,CyrillTrans,daughter-in-law (of a woman),,,nuskal,Phonemic
+2-640-516-1,ingu1240,Ingush,2265,нус,CyrillTrans,daughter-in-law (of a man),,,nus,Phonemic
+2-631-516-1,ingu1240,Ingush,2266,найц,CyrillTrans,son-in-law (of a woman),,,nayc,Phonemic
+2-630-516-1,ingu1240,Ingush,2267,найц,CyrillTrans,son-in-law (of a man),,,nayc,Phonemic
+2-621-516-1,ingu1240,Ingush,2257,уст-нана,CyrillTrans,mother-in-law (of a woman),,,ust-nana,Phonemic
+2-620-516-1,ingu1240,Ingush,2256,маьр-нана,CyrillTrans,mother-in-law (of a man),,,mär-nana,Phonemic
+2-611-516-1,ingu1240,Ingush,2254,уст-да,CyrillTrans,father-in-law (of a woman),,,ust-da,Phonemic
+2-610-516-1,ingu1240,Ingush,2255,маьр-да,CyrillTrans,father-in-law (of a man),,,mär-da,Phonemic
+2-570-516-1,ingu1240,Ingush,490,тIехьле,CyrillTrans,descendants,,,teћle,Phonemic
+2-560-516-1,ingu1240,Ingush,1669,дай,CyrillTrans,ancestors,,,day,Phonemic
+2-550-516-1,ingu1240,Ingush,1643,даь-веший воI (йоI),CyrillTrans,cousin,,,"dä-wešiy woʕ (yoʕ), dä-yišiy woʕ (yiša)",Phonemic
+2-550-516-3,ingu1240,Ingush,1643,даь-йиший воI (йиша),CyrillTrans,cousin,,,"dä-wešiy woʕ (yoʕ), dä-yišiy woʕ (yiša)",Phonemic
+2-540-516-1,ingu1240,Ingush,1642,веший йоI,CyrillTrans,niece,,,"wešiy yoʕ, yišiy woʕ",Phonemic
+2-540-516-3,ingu1240,Ingush,1642,йиший йоI,CyrillTrans,niece,,,"wešiy yoʕ, yišiy woʕ",Phonemic
+2-530-516-1,ingu1240,Ingush,1063,вещий воI,CyrillTrans,nephew,,,"weš̄iy woʕ, yišiy woʕ",Phonemic
+2-530-516-3,ingu1240,Ingush,1063,йиший воI,CyrillTrans,nephew,,,"weš̄iy woʕ, yišiy woʕ",Phonemic
+2-522-516-1,ingu1240,Ingush,170,даьци,CyrillTrans,father's sister,,,däci,Phonemic
+2-520-516-1,ingu1240,Ingush,1272,наьна-йиш,CyrillTrans,aunt,,,"näna-yiš, dä-yiš",Phonemic
+2-520-516-3,ingu1240,Ingush,1272,даь-йиш,CyrillTrans,aunt,,,"näna-yiš, dä-yiš",Phonemic
+2-521-516-1,ingu1240,Ingush,171,наьци,CyrillTrans,mother's sister,,,näci,Phonemic
+2-512-516-1,ingu1240,Ingush,1985,воти,CyrillTrans,father's brother,,,"woti, dä-woša",Phonemic
+2-512-516-3,ingu1240,Ingush,1985,даь-воша,CyrillTrans,father's brother,,,"woti, dä-woša",Phonemic
+2-511-516-1,ingu1240,Ingush,1984,воти,CyrillTrans,mother's brother,,,"woti, näna woša",Phonemic
+2-511-516-3,ingu1240,Ingush,1984,наьна воша,CyrillTrans,mother's brother,,,"woti, näna woša",Phonemic
+2-510-516-1,ingu1240,Ingush,1327,воти,CyrillTrans,uncle,,,woti,Phonemic
+2-480-516-1,ingu1240,Ingush,1618,виIиI воI,CyrillTrans,grandson,,,wiʕiʕ woʕ,Phonemic
+2-490-516-1,ingu1240,Ingush,1619,йиIий йоI,CyrillTrans,granddaughter,,,yiʕiʕ woʕ,Phonemic
+2-471-516-1,ingu1240,Ingush,907,йоккха саг,CyrillTrans,old woman,,,yoq̄a sag,Phonemic
+2-470-516-1,ingu1240,Ingush,1496,нани,CyrillTrans,grandmother,,,"nani, dä-nana, näna-nana",Phonemic
+2-470-516-3,ingu1240,Ingush,1496,даь-нана,CyrillTrans,grandmother,,,"nani, dä-nana, näna-nana",Phonemic
+2-470-516-5,ingu1240,Ingush,1496,наьна-нана,CyrillTrans,grandmother,,,"nani, dä-nana, näna-nana",Phonemic
+2-461-516-1,ingu1240,Ingush,406,къоано,CyrillTrans,old man,,,"q̛oano, woq̄a sag",Phonemic
+2-461-516-3,ingu1240,Ingush,406,воккха саг,CyrillTrans,old man,,,"q̛oano, woq̄a sag",Phonemic
+2-460-516-1,ingu1240,Ingush,1383,дади,CyrillTrans,grandfather,,,"dadi, dä-da, näna-da",Phonemic
+2-460-516-3,ingu1240,Ingush,1383,даь-да,CyrillTrans,grandfather,,,"dadi, dä-da, näna-da",Phonemic
+2-460-516-5,ingu1240,Ingush,1383,наьна-да,CyrillTrans,grandfather,,,"dadi, dä-da, näna-da",Phonemic
+2-458-516-1,ingu1240,Ingush,1005,шолгIаргаш,CyrillTrans,twins,,,"solɣargaš, šolbäraš",Phonemic
+2-458-516-3,ingu1240,Ingush,1005,шолбаьраш,CyrillTrans,twins,,,"solɣargaš, šolbäraš",Phonemic
+2-456-516-1,ingu1240,Ingush,1640,йиш-воша,CyrillTrans,sibling,,,yiš-woša,Phonemic
+2-455-516-1,ingu1240,Ingush,1761,зIамагIйола йиша,CyrillTrans,younger sister,,,zʕamaɣyola yiša,Phonemic
+2-454-516-1,ingu1240,Ingush,1758,йоккхагIйола йиша,CyrillTrans,older sister,,,yoq̄aɣyola yiša,Phonemic
+2-450-516-1,ingu1240,Ingush,1263,йиша,CyrillTrans,sister,,,yiša,Phonemic
+2-445-516-1,ingu1240,Ingush,1760,зIамагIвола воша,CyrillTrans,younger brother,,,zʕamaɣwola woša,Phonemic
+2-444-516-1,ingu1240,Ingush,1759,воакхагIавола воша,CyrillTrans,older brother,,,woaqaɣawola woša,Phonemic
+2-440-516-1,ingu1240,Ingush,1262,воша,CyrillTrans,brother,,,woša,Phonemic
+2-430-516-1,ingu1240,Ingush,1801,бераш,CyrillTrans,offspring (son or daughter),,,beraš,Phonemic
+2-420-516-1,ingu1240,Ingush,1357,йоI,CyrillTrans,daughter,,,yoʕ,Phonemic
+2-410-516-1,ingu1240,Ingush,1620,воI,CyrillTrans,son,,,woʕ,Phonemic
+2-390-516-1,ingu1240,Ingush,426,маьре яха,CyrillTrans,married woman,,,märe yaxa,Phonemic
+2-380-516-1,ingu1240,Ingush,424,саг йоалйан,CyrillTrans,married man,,,sag yoalyan,Phonemic
+2-370-516-1,ingu1240,Ingush,505,да-нана,CyrillTrans,parents,,,da-nana,Phonemic
+2-360-516-1,ingu1240,Ingush,1216,нана,CyrillTrans,mother,,,nana,Phonemic
+2-350-516-1,ingu1240,Ingush,1217,да,CyrillTrans,father,,,da,Phonemic
+2-341-516-1,ingu1240,Ingush,1134,йитар,CyrillTrans,divorce,,,yitar,Phonemic
+2-340-516-1,ingu1240,Ingush,1259,хьоалчах,CyrillTrans,"marriage, wedding",,,"ћoalčax, maћar",Phonemic
+2-340-516-3,ingu1240,Ingush,1259,махьар,CyrillTrans,"marriage, wedding",,,"ћoalčax, maћar",Phonemic
+2-330-516-1,ingu1240,Ingush,203,саг йоалйе,CyrillTrans,marry,,,"sag, yoalye, märe yaxa",Phonemic
+2-330-516-3,ingu1240,Ingush,203,маьре яха,CyrillTrans,marry,,,"sag, yoalye, märe yaxa",Phonemic
+2-320-516-1,ingu1240,Ingush,1199,сесаг,CyrillTrans,wife,,,sesag,Phonemic
+2-310-516-1,ingu1240,Ingush,1200,мар,CyrillTrans,husband,,,mar,Phonemic
+2-280-516-1,ingu1240,Ingush,1289,гака,CyrillTrans,"infant, baby",,,gaka,Phonemic
+2-270-516-1,ingu1240,Ingush,1304,бер,CyrillTrans,child,,,ber,Phonemic
+2-261-516-1,ingu1240,Ingush,77,йоI,CyrillTrans,young woman (adolescent),,,yoʕ,Phonemic
+2-260-516-1,ingu1240,Ingush,1646,йиIиг,CyrillTrans,girl,,,yiʕig,Phonemic
+2-251-516-1,ingu1240,Ingush,76,ондарг,CyrillTrans,young man (adolescent),,,ondarg,Phonemic
+2-250-516-1,ingu1240,Ingush,1366,кIаьнк,CyrillTrans,boy,,,k̛ank,Phonemic
+2-240-516-1,ingu1240,Ingush,1551,кхал,CyrillTrans,female,,,"qal, se",Phonemic
+2-240-516-3,ingu1240,Ingush,1551,се,CyrillTrans,female,,,"qal, se",Phonemic
+2-230-516-1,ingu1240,Ingush,1553,маIа,CyrillTrans,male,,,"maʕa, borš",Phonemic
+2-230-516-3,ingu1240,Ingush,1553,борш,CyrillTrans,male,,,"maʕa, borš",Phonemic
+2-220-516-1,ingu1240,Ingush,962,кхалсаг,CyrillTrans,woman,,,qalsag,Phonemic
+2-210-516-1,ingu1240,Ingush,1554,маIсаг,CyrillTrans,man (vs. woman),,,maʕsag,Phonemic
+2-100-516-1,ingu1240,Ingush,683,саг,CyrillTrans,"person, human being",,,sag,Phonemic
+1-890-516-1,ingu1240,Ingush,1188,дахчан кIор,CyrillTrans,charcoal,,,daxčan k̛or,Phonemic
+1-880-516-1,ingu1240,Ingush,10,дахча,CyrillTrans,firewood,,,"daxča, dos",Phonemic
+1-880-516-3,ingu1240,Ingush,10,дос,CyrillTrans,firewood,,,"daxča, dos",Phonemic
+1-870-516-1,ingu1240,Ingush,1133,цIилеторг,CyrillTrans,match (noun),,,c̛iletorg,Phonemic
+1-861-516-1,ingu1240,Ingush,127,доаде,CyrillTrans,extinguish,,,doade,Phonemic
+1-860-516-1,ingu1240,Ingush,737,лотаде,CyrillTrans,"light, kindle, ignite",,,lotade,Phonemic
+1-852-516-1,ingu1240,Ingush,1428,дага,CyrillTrans,burn (vb intrans),,,daga,Phonemic
+1-851-516-1,ingu1240,Ingush,141,доагаде,CyrillTrans,burn (vb trans),,,doagade,Phonemic
+1-841-516-1,ingu1240,Ingush,67,тов,CyrillTrans,embers,,,tow,Phonemic
+1-840-516-1,ingu1240,Ingush,646,йокъ,CyrillTrans,ashes,,,yoq̛,Phonemic
+1-830-516-1,ingu1240,Ingush,778,кIур,CyrillTrans,smoke (noun),,,k̛ur,Phonemic
+1-820-516-1,ingu1240,Ingush,889,ала,CyrillTrans,flame (noun),,,ala,Phonemic
+1-810-516-1,ingu1240,Ingush,221,цIи,CyrillTrans,fire,,,c̛i,Phonemic
+1-780-516-1,ingu1240,Ingush,952,хаоттам,CyrillTrans,weather,,,xaot̄am,Phonemic
+1-770-516-1,ingu1240,Ingush,617,ша,CyrillTrans,ice,,,"ša, sǎћaxar",Phonemic
+1-770-516-3,ingu1240,Ingush,617,шахьахар,CyrillTrans,ice,,,"ša, sǎћaxar",Phonemic
+1-760-516-1,ingu1240,Ingush,784,лоа,CyrillTrans,snow (noun),,,loa,Phonemic
+1-750-516-1,ingu1240,Ingush,658,догIа,CyrillTrans,rain (noun),,,doɣa,Phonemic
+1-740-516-1,ingu1240,Ingush,249,дохк,CyrillTrans,fog,,,doxk,Phonemic
+1-720-516-1,ingu1240,Ingush,960,мух,CyrillTrans,wind,,,mux,Phonemic
+1-730-516-1,ingu1240,Ingush,1489,морх,CyrillTrans,cloud,,,"morx, ʕärža morx",Phonemic
+1-730-516-3,ingu1240,Ingush,1489,Iаьржа морх,CyrillTrans,cloud,,,"morx, ʕärža morx",Phonemic
+1-710-516-1,ingu1240,Ingush,27,фо,CyrillTrans,air,,,fo,Phonemic
+1-640-516-1,ingu1240,Ingush,1977,тхир,CyrillTrans,dew,,,txir,Phonemic
+1-630-516-1,ingu1240,Ingush,1388,Iи (IиндаргIа),CyrillTrans,"shade, shadow",,,ʕi (ʕindarɣa),Phonemic
+1-620-516-1,ingu1240,Ingush,11,боадо,CyrillTrans,darkness,,,"boado, bädel",Phonemic
+1-620-516-3,ingu1240,Ingush,11,баьдел,CyrillTrans,darkness,,,"boado, bädel",Phonemic
+1-610-516-1,ingu1240,Ingush,630,сердал,CyrillTrans,light (noun),,,serdal,Phonemic
+1-590-516-1,ingu1240,Ingush,1733,селаIад,CyrillTrans,rainbow,,,selaʕad,Phonemic
+1-580-516-1,ingu1240,Ingush,858,дарз,CyrillTrans,storm,,,"darz, darz ћaqar",Phonemic
+1-580-516-3,ingu1240,Ingush,858,дарз хьакхар,CyrillTrans,storm,,,"darz, darz ћaqar",Phonemic
+1-560-516-1,ingu1240,Ingush,1150,ди,CyrillTrans,thunder,,,"di, di q̛owkar",Phonemic
+1-560-516-3,ingu1240,Ingush,1150,ди къовкар,CyrillTrans,thunder,,,"di, di q̛owkar",Phonemic
+1-570-516-1,ingu1240,Ingush,2007,ди тохар,CyrillTrans,lightning (as striking),,,di toxar,Phonemic
+1-550-516-1,ingu1240,Ingush,1654,тIоа,CyrillTrans,lightning,,,t̛oa,Phonemic
+1-540-516-1,ingu1240,Ingush,1430,седкъа,CyrillTrans,star,,,sedq̛a,Phonemic
+1-530-516-1,ingu1240,Ingush,1313,бутт,CyrillTrans,moon,,,but̄,Phonemic
+1-520-516-1,ingu1240,Ingush,1343,малх,CyrillTrans,sun,,,malx,Phonemic
+1-510-516-1,ingu1240,Ingush,1732,сигале,CyrillTrans,sky,,,sigale,Phonemic
+1-450-516-1,ingu1240,Ingush,6,мохк агар,CyrillTrans,earthquake,,,moxk agar,Phonemic
+1-440-516-1,ingu1240,Ingush,2125,кхера,CyrillTrans,"stone, rock",,,qera,Phonemic
+1-430-516-1,ingu1240,Ingush,1803,дахча,CyrillTrans,wood,,,daxča,Phonemic
+1-420-516-1,ingu1240,Ingush,906,га,CyrillTrans,tree (cf 08.600),,,ga,Phonemic
+1-410-516-1,ingu1240,Ingush,420,хьу,CyrillTrans,"woods, forest",,,ћu,Phonemic
+1-390-516-1,ingu1240,Ingush,943,кхуркхолг,CyrillTrans,waterfall,,,qurqolg,Phonemic
+1-380-516-1,ingu1240,Ingush,1145,ушал,CyrillTrans,swamp,,,ušal,Phonemic
+1-370-516-1,ingu1240,Ingush,2144,хьаст,CyrillTrans,"spring, well",,,"ћast, ћast korta, ɣuw",Phonemic
+1-370-516-3,ingu1240,Ingush,2144,хьаст корта,CyrillTrans,"spring, well",,,"ћast, ћast korta, ɣuw",Phonemic
+1-370-516-5,ingu1240,Ingush,2144,гIув,CyrillTrans,"spring, well",,,"ћast, ћast korta, ɣuw",Phonemic
+1-362-516-1,ingu1240,Ingush,1982,айме,CyrillTrans,whirlpool,,,ayme,Phonemic
+1-360-516-1,ingu1240,Ingush,666,хий,CyrillTrans,"river, stream, brook",,,"xiy, doda xiy, toatolg",Phonemic
+1-360-516-3,ingu1240,Ingush,666,дода хий,CyrillTrans,"river, stream, brook",,,"xiy, doda xiy, toatolg",Phonemic
+1-360-516-5,ingu1240,Ingush,666,тоатолг,CyrillTrans,"river, stream, brook",,,"xiy, doda xiy, toatolg",Phonemic
+1-354-516-1,ingu1240,Ingush,613,хий дестар,CyrillTrans,hightide,,,xiy destar,Phonemic
+1-353-516-1,ingu1240,Ingush,1026,хий дожар,CyrillTrans,lowtide,,,xiy dožar,Phonemic
+1-352-516-1,ingu1240,Ingush,891,форд бестар,CyrillTrans,tide,,,"ford bestar, ford božar",Phonemic
+1-352-516-3,ingu1240,Ingush,891,форд божар,CyrillTrans,tide,,,"ford bestar, ford božar",Phonemic
+1-350-516-1,ingu1240,Ingush,978,талгIе,CyrillTrans,wave,,,talɣe,Phonemic
+1-343-516-1,ingu1240,Ingush,1662,бухьишк,CyrillTrans,"headland, point",,,buћišk,Phonemic
+1-341-516-1,ingu1240,Ingush,623,лагуна,CyrillTrans,lagoon,,,laguna,Phonemic
+1-340-516-1,ingu1240,Ingush,663,хий кулг,CyrillTrans,"gulf, bay",,,xiy gulg,Phonemic
+1-330-516-1,ingu1240,Ingush,624,Iам,CyrillTrans,lake,,,ʕam,Phonemic
+1-329-516-1,ingu1240,Ingush,645,боккха форд,CyrillTrans,ocean,,,boq̄a,Phonemic
+1-324-516-1,ingu1240,Ingush,1768,чоп,CyrillTrans,foam,,,čop,Phonemic
+1-323-516-1,ingu1240,Ingush,259,хьайна (форд),CyrillTrans,rough (of sea),,,ћayna (ford),Phonemic
+1-320-516-1,ingu1240,Ingush,1474,форд,CyrillTrans,sea,,,ford,Phonemic
+1-322-516-1,ingu1240,Ingush,258,тийна (форд),CyrillTrans,calm (of sea),,,tiyna (ford),Phonemic
+1-310-516-1,ingu1240,Ingush,948,хий,CyrillTrans,water,,,xiy,Phonemic
+1-280-516-1,ingu1240,Ingush,1155,хьагIар,CyrillTrans,cave,,,ћaɣar,Phonemic
+1-270-516-1,ingu1240,Ingush,113,берд,CyrillTrans,shore,,,"berd, berda yiste",Phonemic
+1-270-516-3,ingu1240,Ingush,113,берда йисте,CyrillTrans,shore,,,"berd, berda yiste",Phonemic
+1-260-516-1,ingu1240,Ingush,166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-516-1,ingu1240,Ingush,622,гIайре,CyrillTrans,island,,,ɣayre,Phonemic
+1-240-516-1,ingu1240,Ingush,921,шаьра аре,CyrillTrans,valley,,,šära are,Phonemic
+1-230-516-1,ingu1240,Ingush,652,веда аре,CyrillTrans,"plain, field",,,"weda are, qa",Phonemic
+1-230-516-3,ingu1240,Ingush,652,кха,CyrillTrans,"plain, field",,,"weda are, qa",Phonemic
+1-222-516-1,ingu1240,Ingush,618,чхар,CyrillTrans,"cliff, precipice",,,"čxar, axka",Phonemic
+1-222-516-3,ingu1240,Ingush,618,ахка,CyrillTrans,"cliff, precipice",,,"čxar, axka",Phonemic
+1-220-516-1,ingu1240,Ingush,2118,лоам,CyrillTrans,"mountain, hill",,,"loam, guw",Phonemic
+1-220-516-3,ingu1240,Ingush,2118,гув,CyrillTrans,"mountain, hill",,,"loam, guw",Phonemic
+1-214-516-1,ingu1240,Ingush,640,мIад (хотта),CyrillTrans,mud,,,mʕad (xot̄a),Phonemic
+1-215-516-1,ingu1240,Ingush,671,гIум,CyrillTrans,sand,,,ɣum,Phonemic
+1-213-516-1,ingu1240,Ingush,2,дом,CyrillTrans,dust,,,dom,Phonemic
+1-212-516-1,ingu1240,Ingush,1228,лаьтта,CyrillTrans,"earth=ground, soil",,,lät̄a,Phonemic
+1-210-516-1,ingu1240,Ingush,626,мохк,CyrillTrans,"earth, land",,,moxk,Phonemic
+1-100-516-1,ingu1240,Ingush,965,дуне,CyrillTrans,world,,,dune,Phonemic
+14-330-516-1,ingu1240,Ingush,1544,цкъаза,CyrillTrans,sometimes,,,"cq̛aza, nag-nagaћa",Phonemic
+14-330-516-3,ingu1240,Ingush,1544,наг-нагахьа,CyrillTrans,sometimes,,,"cq̛aza, nag-nagaћa",Phonemic
+14-331-516-1,ingu1240,Ingush,703,каста,CyrillTrans,soon,,,kasta,Phonemic
+14-332-516-1,ingu1240,Ingush,418,дукхача хана,CyrillTrans,long-time (for a),,,duqača xana,Phonemic
+14-340-516-1,ingu1240,Ingush,1656,цIаккха,CyrillTrans,never,,,"c̛aq̄a, wʕal̄a",Phonemic
+14-340-516-3,ingu1240,Ingush,1656,вIалла,CyrillTrans,never,,,"c̛aq̄a, wʕal̄a",Phonemic
+14-350-516-1,ingu1240,Ingush,204,юха а,CyrillTrans,again,,,"yuxa a, c̛äqaza",Phonemic
+14-350-516-3,ingu1240,Ingush,204,цIаькхаза,CyrillTrans,again,,,"yuxa a, c̛äqaza",Phonemic
+14-410-516-1,ingu1240,Ingush,1225,ди,CyrillTrans,day,,,di,Phonemic
+14-420-516-1,ingu1240,Ingush,1233,бийса,CyrillTrans,night,,,biysa,Phonemic
+14-430-516-1,ingu1240,Ingush,729,са тассар,CyrillTrans,dawn,,,sa tas̄ar,Phonemic
+14-440-516-1,ingu1240,Ingush,1339,Iийре,CyrillTrans,morning,,,ʕiyre,Phonemic
+14-450-516-1,ingu1240,Ingush,12,делкъе,CyrillTrans,"noon, midday",,,delq̛e,Phonemic
+14-451-516-1,ingu1240,Ingush,1807,делкъел тIехье,CyrillTrans,afternoon,,,delq̛el t̛eћe,Phonemic
+14-460-516-1,ingu1240,Ingush,1629,сайре,CyrillTrans,evening,,,sayre,Phonemic
+14-470-516-1,ingu1240,Ingush,1283,тахан,CyrillTrans,today,,,taxan,Phonemic
+14-480-516-1,ingu1240,Ingush,1329,кхоана,CyrillTrans,tomorrow,,,qoana,Phonemic
+14-481-516-1,ingu1240,Ingush,1179,ломма,CyrillTrans,day-after-tomorrow,,,lom̄a,Phonemic
+14-490-516-1,ingu1240,Ingush,1174,селхан,CyrillTrans,yesterday,,,selxan,Phonemic
+14-491-516-1,ingu1240,Ingush,1180,самардийнахь,CyrillTrans,day-before-yesterday,,,samardiynaћ,Phonemic
+14-510-516-1,ingu1240,Ingush,1353,сахьат,CyrillTrans,hour,,,saћat,Phonemic
+14-530-516-1,ingu1240,Ingush,1323,сахьат,CyrillTrans,"clock, timepiece",,,saћat,Phonemic
+14-610-516-1,ingu1240,Ingush,1469,кIира,CyrillTrans,week,,,k̛ira,Phonemic
+14-620-516-1,ingu1240,Ingush,1699,кIиран ди,CyrillTrans,Sunday,,,k̛iran di,Phonemic
+14-630-516-1,ingu1240,Ingush,1697,оршот,CyrillTrans,Monday,,,oršot,Phonemic
+14-640-516-1,ingu1240,Ingush,1695,шинар,CyrillTrans,Tuesday,,,šinar,Phonemic
+14-650-516-1,ingu1240,Ingush,1694,кхаьра,CyrillTrans,Wednesday,,,qära,Phonemic
+14-660-516-1,ingu1240,Ingush,1693,йиера,CyrillTrans,Thursday,,,yiyera,Phonemic
+14-670-516-1,ingu1240,Ingush,1692,пIаьраска,CyrillTrans,Friday,,,p̛äraska,Phonemic
+14-680-516-1,ingu1240,Ingush,1700,шоатта,CyrillTrans,Saturday,,,šoat̄a,Phonemic
+14-710-516-1,ingu1240,Ingush,1370,бутт,CyrillTrans,month,,,but̄,Phonemic
+14-730-516-1,ingu1240,Ingush,1226,шу,CyrillTrans,year,,,šu,Phonemic
+14-740-516-1,ingu1240,Ingush,1471,Iа,CyrillTrans,winter,,,ʕa,Phonemic
+14-750-516-1,ingu1240,Ingush,1537,бIаьсти,CyrillTrans,spring,,,bʕästi,Phonemic
+14-760-516-1,ingu1240,Ingush,1342,ахка,CyrillTrans,summer,,,axka,Phonemic
+14-770-516-1,ingu1240,Ingush,1276,гийре,CyrillTrans,autumn,,,giyre,Phonemic
+14-780-516-1,ingu1240,Ingush,691,шера ха,CyrillTrans,season,,,šera xa,Phonemic
+15-210-516-1,ingu1240,Ingush,1587,хьаж я,CyrillTrans,smell (vb intrans),,,ћaž ya,Phonemic
+15-212-516-1,ingu1240,Ingush,375,мерех шок етта,CyrillTrans,sniff,,,merex šok yeta,Phonemic
+15-220-516-1,ingu1240,Ingush,1586,хьаж яха,CyrillTrans,smell (vb trans),,,ћaž yaxa,Phonemic
+15-250-516-1,ingu1240,Ingush,376,хоза хьаж,CyrillTrans,"fragrant, good smelling",,,xoza ћaž,Phonemic
+15-260-516-1,ingu1240,Ingush,42,во хьаж,CyrillTrans,"stinking, bad smelling",,,wo ћaž,Phonemic
+15-310-516-1,ingu1240,Ingush,21,чам,CyrillTrans,taste,,,čam,Phonemic
+15-350-516-1,ingu1240,Ingush,717,мерза,CyrillTrans,sweet,,,merza,Phonemic
+15-360-516-1,ingu1240,Ingush,1091,дира,CyrillTrans,salty,,,dira,Phonemic
+15-370-516-1,ingu1240,Ingush,887,къахьа,CyrillTrans,bitter,,,q̛aћa,Phonemic
+15-380-516-1,ingu1240,Ingush,1906,миста,CyrillTrans,"acid, sour",,,mista,Phonemic
+15-390-516-1,ingu1240,Ingush,70,диро,CyrillTrans,brackish,,,diro,Phonemic
+15-410-516-1,ingu1240,Ingush,1408,хаза,CyrillTrans,hear,,,xaza,Phonemic
+15-420-516-1,ingu1240,Ingush,1608,ладувгIа,CyrillTrans,listen,,,laduwɣa,Phonemic
+15-440-516-1,ingu1240,Ingush,1811,гIар,CyrillTrans,"sound, noise",,,"ɣar, tata",Phonemic
+15-440-516-3,ingu1240,Ingush,1811,тата,CyrillTrans,"sound, noise",,,"ɣar, tata",Phonemic
+15-450-516-1,ingu1240,Ingush,377,чIоагIа,CyrillTrans,loud,,,č̛oaɣa,Phonemic
+15-460-516-1,ingu1240,Ingush,1314,са тийна,CyrillTrans,"quiet, silence",,,"sa tiyna, mel̄ašxa, šort̄a",Phonemic
+15-460-516-3,ingu1240,Ingush,1314,меллашха,CyrillTrans,"quiet, silence",,,"sa tiyna, mel̄ašxa, šort̄a",Phonemic
+15-460-516-5,ingu1240,Ingush,1314,шортта,CyrillTrans,"quiet, silence",,,"sa tiyna, mel̄ašxa, šort̄a",Phonemic
+15-510-516-1,ingu1240,Ingush,1409,го,CyrillTrans,see,,,go,Phonemic
+15-520-516-1,ingu1240,Ingush,1819,хьежа,CyrillTrans,"look, look at",,,ћezǎ,Phonemic
+15-550-516-1,ingu1240,Ingush,1039,хьокха,CyrillTrans,show,,,ћoqa,Phonemic
+15-560-516-1,ingu1240,Ingush,708,хьежа,CyrillTrans,shine,,,ћeža,Phonemic
+15-570-516-1,ingu1240,Ingush,679,къаьга,CyrillTrans,bright,,,q̛äga,Phonemic
+15-610-516-1,ingu1240,Ingush,1613,бос,CyrillTrans,color,,,bos,Phonemic
+15-620-516-1,ingu1240,Ingush,250,сийрда,CyrillTrans,light (in color),,,siyrda,Phonemic
+15-630-516-1,ingu1240,Ingush,706,баьде,CyrillTrans,dark (in color),,,bäde,Phonemic
+15-640-516-1,ingu1240,Ingush,1335,кIай,CyrillTrans,white,,,k̛ay,Phonemic
+15-650-516-1,ingu1240,Ingush,163,Iаьржа,CyrillTrans,black,,,ʕärža,Phonemic
+15-660-516-1,ingu1240,Ingush,156,цIе,CyrillTrans,red,,,c̛e,Phonemic
+15-670-516-1,ingu1240,Ingush,837,сийна,CyrillTrans,blue,,,siyna,Phonemic
+15-680-516-1,ingu1240,Ingush,1425,баьццара,CyrillTrans,green,,,bäc̄ara,Phonemic
+15-690-516-1,ingu1240,Ingush,1424,IажагIа,CyrillTrans,yellow,,,ʕažaɣa,Phonemic
+15-710-516-1,ingu1240,Ingush,1892,кулгаш детта,CyrillTrans,touch,,,kulgaš det̄a,Phonemic
+15-712-516-1,ingu1240,Ingush,378,мишк Iэтта,CyrillTrans,pinch,,,"mišk ʕet̄a, teʕade",Phonemic
+15-712-516-3,ingu1240,Ingush,378,теIаде,CyrillTrans,pinch,,,"mišk ʕet̄a, teʕade",Phonemic
+15-720-516-1,ingu1240,Ingush,1079,хьоалу,CyrillTrans,feel,,,ћoalu,Phonemic
+15-740-516-1,ingu1240,Ingush,1884,чIоагIа,CyrillTrans,hard,,,č̛oaɣa,Phonemic
+15-750-516-1,ingu1240,Ingush,1856,кIаьда,CyrillTrans,soft,,,k̛äda,Phonemic
+15-760-516-1,ingu1240,Ingush,1923,охца,CyrillTrans,rough,,,oxca,Phonemic
+15-770-516-1,ingu1240,Ingush,1234,шаьра,CyrillTrans,smooth,,,sära,Phonemic
+15-780-516-1,ingu1240,Ingush,1396,ира,CyrillTrans,sharp,,,ira,Phonemic
+15-790-516-1,ingu1240,Ingush,379,аьрха,CyrillTrans,"blunt, dull",,,ärxa,Phonemic
+15-810-516-1,ingu1240,Ingush,1210,деза,CyrillTrans,heavy,,,deza,Phonemic
+15-820-516-1,ingu1240,Ingush,1052,атта,CyrillTrans,light (in weight),,,at̄a,Phonemic
+15-830-516-1,ingu1240,Ingush,1726,тIаьда,CyrillTrans,"wet, damp",,,t̛äda,Phonemic
+15-840-516-1,ingu1240,Ingush,1398,дакъа,CyrillTrans,dry,,,daq̛a,Phonemic
+15-850-516-1,ingu1240,Ingush,1286,дIайха,CyrillTrans,hot,,,dʕayxa,Phonemic
+15-851-516-1,ingu1240,Ingush,1232,мела,CyrillTrans,warm,,,mela,Phonemic
+15-860-516-1,ingu1240,Ingush,1287,шийла,CyrillTrans,cold,,,siyla,Phonemic
+15-870-516-1,ingu1240,Ingush,704,цIена,CyrillTrans,clean,,,c̛ena,Phonemic
+15-880-516-1,ingu1240,Ingush,1230,бIеха,CyrillTrans,"dirty, soiled",,,bʕexa,Phonemic
+15-890-516-1,ingu1240,Ingush,380,хьоарчденна,CyrillTrans,wrinkled,,,ћoarčden̄a,Phonemic
+16-110-516-1,ingu1240,Ingush,53,са,CyrillTrans,"soul, spirit",,,sa,Phonemic
+16-150-516-1,ingu1240,Ingush,1572,цецдаьнна,CyrillTrans,"surprised, astonished",,,"cecdän̄a, säqdän̄a, amaɣdän̄a",Phonemic
+16-150-516-3,ingu1240,Ingush,1572,саькхдаьнна,CyrillTrans,"surprised, astonished",,,"cecdän̄a, säqdän̄a, amaɣdän̄a",Phonemic
+16-150-516-5,ingu1240,Ingush,1572,амагIдаьнна,CyrillTrans,"surprised, astonished",,,"cecdän̄a, säqdän̄a, amaɣdän̄a",Phonemic
+16-180-516-1,ingu1240,Ingush,720,аьттув,CyrillTrans,"good fortune, luck",,,ät̄uw,Phonemic
+16-190-516-1,ingu1240,Ingush,56,аьттув ца хлар,CyrillTrans,"misfortune, bad luck",,,ät̄uw ca xlar,Phonemic
+16-230-516-1,ingu1240,Ingush,1495,иразе,CyrillTrans,"joyful, glad, happy",,,"iraze, ɣadwaxa",Phonemic
+16-230-516-3,ingu1240,Ingush,1495,гIадваха,CyrillTrans,"joyful, glad, happy",,,"iraze, ɣadwaxa",Phonemic
+16-250-516-1,ingu1240,Ingush,1355,вела,CyrillTrans,laugh,,,wela,Phonemic
+16-251-516-1,ingu1240,Ingush,1451,вела,CyrillTrans,smile,,,wela,Phonemic
+16-260-516-1,ingu1240,Ingush,1413,ловза,CyrillTrans,play,,,lowza,Phonemic
+16-270-516-1,ingu1240,Ingush,923,веза,CyrillTrans,love,,,weza,Phonemic
+16-290-516-1,ingu1240,Ingush,578,барт баха,CyrillTrans,kiss,,,bart baxa,Phonemic
+16-300-516-1,ingu1240,Ingush,928,мархIадехка,CyrillTrans,embrace,,,marhadexka,Phonemic
+16-310-516-1,ingu1240,Ingush,1783,лазар,CyrillTrans,pain,,,lazar,Phonemic
+16-320-516-1,ingu1240,Ingush,1668,гIайгIа,CyrillTrans,"grief, sorrow, sadness",,,"ɣayɣa, sagot̄am",Phonemic
+16-320-516-3,ingu1240,Ingush,1668,саготтам,CyrillTrans,"grief, sorrow, sadness",,,"ɣayɣa, sagot̄am",Phonemic
+16-330-516-1,ingu1240,Ingush,1000,са аькха ахар,CyrillTrans,"anxiety, worry",,,sa äqa axar,Phonemic
+16-340-516-1,ingu1240,Ingush,1875,дехкевала,CyrillTrans,"regret, be sorry",,,dexkewela,Phonemic
+16-350-516-1,ingu1240,Ingush,1141,къахетам,CyrillTrans,pity,,,q̛axetam,Phonemic
+16-370-516-1,ingu1240,Ingush,1839,велха,CyrillTrans,"cry, weep",,,"welxa, dog čexka",Phonemic
+16-370-516-3,ingu1240,Ingush,1839,дог чехка,CyrillTrans,"cry, weep",,,"welxa, dog čexka",Phonemic
+16-380-516-1,ingu1240,Ingush,1651,бIарга тIадам,CyrillTrans,tear (noun),,,bʕarga t̛adam,Phonemic
+16-390-516-1,ingu1240,Ingush,716,увзам бе,CyrillTrans,groan,,,uwzam be,Phonemic
+16-410-516-1,ingu1240,Ingush,1607,гоама хила,CyrillTrans,hate,,,goama xila,Phonemic
+16-420-516-1,ingu1240,Ingush,82,эгIазал,CyrillTrans,anger,,,"eɣazal, eɣazwaxar",Phonemic
+16-420-516-3,ingu1240,Ingush,82,эгIазвахар,CyrillTrans,anger,,,"eɣazal, eɣazwaxar",Phonemic
+16-440-516-1,ingu1240,Ingush,40,хьагI,CyrillTrans,"envy, jealousy",,,ћaɣ,Phonemic
+16-450-516-1,ingu1240,Ingush,1776,эхь,CyrillTrans,shame (noun),,,eћ,Phonemic
+16-480-516-1,ingu1240,Ingush,174,кура,CyrillTrans,proud,,,kura,Phonemic
+16-510-516-1,ingu1240,Ingush,1779,майравар,CyrillTrans,dare,,,mayrawar,Phonemic
+16-520-516-1,ingu1240,Ingush,3,майра,CyrillTrans,brave,,,mayra,Phonemic
+16-530-516-1,ingu1240,Ingush,781,кхерам,CyrillTrans,"fear, fright",,,qeram,Phonemic
+16-540-516-1,ingu1240,Ingush,1810,кхерам,CyrillTrans,danger,,,qeram,Phonemic
+16-620-516-1,ingu1240,Ingush,1784,ловр,CyrillTrans,"desire, want",,,kowr,Phonemic
+16-622-516-1,ingu1240,Ingush,1750,хержа,CyrillTrans,choose,,,xerža,Phonemic
+16-630-516-1,ingu1240,Ingush,1092,са тесса,CyrillTrans,hope,,,sa tes̄a,Phonemic
+16-650-516-1,ingu1240,Ingush,100,мутахьа хилар,CyrillTrans,faithful,,,"mutaћa xilar, t̛eћa xilar",Phonemic
+16-650-516-3,ingu1240,Ingush,100,тIехьа хилар,CyrillTrans,faithful,,,"mutaћa xilar, t̛eћa xilar",Phonemic
+16-660-516-1,ingu1240,Ingush,1657,бокъонца дола,CyrillTrans,true,,,boq̛onca dola,Phonemic
+16-670-516-1,ingu1240,Ingush,601,харц ле,CyrillTrans,"lie, tell lies",,,xarc le,Phonemic
+16-680-516-1,ingu1240,Ingush,13,оапаш бувца,CyrillTrans,deceit,,,oapaš buwca,Phonemic
+16-690-516-1,ingu1240,Ingush,1528,къинтIера вала,CyrillTrans,forgive,,,q̛int̛era wala,Phonemic
+16-710-516-1,ingu1240,Ingush,1035,дика,CyrillTrans,good,,,dika,Phonemic
+16-720-516-1,ingu1240,Ingush,1292,во,CyrillTrans,bad,,,wo,Phonemic
+16-730-516-1,ingu1240,Ingush,1725,нийса,CyrillTrans,"right, correct",,,niysa,Phonemic
+16-740-516-1,ingu1240,Ingush,1390,нийса доаца,CyrillTrans,wrong,,,niysa doaca,Phonemic
+16-760-516-1,ingu1240,Ingush,134,даьр,CyrillTrans,fault,,,där,Phonemic
+16-770-516-1,ingu1240,Ingush,1293,гIалат,CyrillTrans,"mistake, error",,,ɣalat,Phonemic
+16-780-516-1,ingu1240,Ingush,381,бех ке ве,CyrillTrans,blame,,,bex ke we,Phonemic
+16-790-516-1,ingu1240,Ingush,1687,хьоастве,CyrillTrans,praise,,,ћoastwe,Phonemic
+16-810-516-1,ingu1240,Ingush,1427,хоза,CyrillTrans,beautiful,,,xoza,Phonemic
+16-820-516-1,ingu1240,Ingush,1548,ийрча,CyrillTrans,ugly,,,iyrča,Phonemic
+16-830-516-1,ingu1240,Ingush,2018,цIаьрмата,CyrillTrans,greedy,,,"c̛armata, pisa",Phonemic
+16-830-516-3,ingu1240,Ingush,2018,писа,CyrillTrans,greedy,,,"c̛armata, pisa",Phonemic
+16-840-516-1,ingu1240,Ingush,1310,хьаькъал дола,CyrillTrans,clever,,,"ћäq̛al dola, ћaq̛ale",Phonemic
+16-840-516-3,ingu1240,Ingush,1310,хьаькъале,CyrillTrans,clever,,,"ћäq̛al dola, ћaq̛ale",Phonemic
+17-110-516-1,ingu1240,Ingush,1562,кхетам,CyrillTrans,mind,,,qetam,Phonemic
+17-130-516-1,ingu1240,Ingush,1415,ийла е,CyrillTrans,think (= reflect),,,"iyla e, iyla tas̄a",Phonemic
+17-130-516-3,ingu1240,Ingush,1415,ийла тасса,CyrillTrans,think (= reflect),,,"iyla e, iyla tas̄a",Phonemic
+17-140-516-1,ingu1240,Ingush,1513,ийла е,CyrillTrans,think (= be of the opinion),,,"iyla e, lerha",Phonemic
+17-140-516-3,ingu1240,Ingush,1513,лерхIа,CyrillTrans,think (= be of the opinion),,,"iyla e, lerha",Phonemic
+17-150-516-1,ingu1240,Ingush,1890,теша,CyrillTrans,believe,,,teša,Phonemic
+17-160-516-1,ingu1240,Ingush,1536,кхета,CyrillTrans,understand,,,qeta,Phonemic
+17-170-516-1,ingu1240,Ingush,1410,ха,CyrillTrans,know,,,xa,Phonemic
+17-171-516-1,ingu1240,Ingush,1932,хета,CyrillTrans,guess,,,xeta,Phonemic
+17-172-516-1,ingu1240,Ingush,117,тарде,CyrillTrans,imitate,,,tarde,Phonemic
+17-180-516-1,ingu1240,Ingush,1521,хета,CyrillTrans,seem,,,xeta,Phonemic
+17-190-516-1,ingu1240,Ingush,1609,керттера ийла,CyrillTrans,"idea, notion",,,"kert̄era iyla, qetam",Phonemic
+17-190-516-3,ingu1240,Ingush,1609,кхетам,CyrillTrans,"idea, notion",,,"kert̄era iyla, qetam",Phonemic
+17-210-516-1,ingu1240,Ingush,698,зIиракал дола,CyrillTrans,wise,,,zʕirkal dola,Phonemic
+17-220-516-1,ingu1240,Ingush,1518,Iовдалдола,CyrillTrans,"foolish, stupid",,,ʕowdaldola,Phonemic
+17-230-516-1,ingu1240,Ingush,1899,эгIаваь,CyrillTrans,"insane, crazy",,,"eɣawä, tuwlawen̄a",Phonemic
+17-230-516-3,ingu1240,Ingush,1899,тувлавенна,CyrillTrans,"insane, crazy",,,"eɣawä, tuwlawen̄a",Phonemic
+17-240-516-1,ingu1240,Ingush,504,ха,CyrillTrans,learn,,,"xa, dʕaxa, ʕomle",Phonemic
+17-240-516-3,ingu1240,Ingush,504,дIаха,CyrillTrans,learn,,,"xa, dʕaxa, ʕomle",Phonemic
+17-240-516-5,ingu1240,Ingush,504,Iомле,CyrillTrans,learn,,,"xa, dʕaxa, ʕomle",Phonemic
+17-242-516-1,ingu1240,Ingush,1929,хьеха,CyrillTrans,study,,,"ћexa, ʕomade",Phonemic
+17-242-516-3,ingu1240,Ingush,1929,Iомаде,CyrillTrans,study,,,"ћexa, ʕomade",Phonemic
+17-250-516-1,ingu1240,Ingush,709,Iомаде,CyrillTrans,teach,,,ʕomade,Phonemic
+17-260-516-1,ingu1240,Ingush,753,дешархо,CyrillTrans,pupil,,,dešarxo,Phonemic
+17-270-516-1,ingu1240,Ingush,1038,хьехархо,CyrillTrans,teacher,,,ћexarxo,Phonemic
+17-280-516-1,ingu1240,Ingush,673,ишкола,CyrillTrans,school,,,iškola,Phonemic
+17-310-516-1,ingu1240,Ingush,707,дагадала,CyrillTrans,remember,,,dagadala,Phonemic
+17-320-516-1,ingu1240,Ingush,1523,дицде,CyrillTrans,forget,,,dic,Phonemic
+17-340-516-1,ingu1240,Ingush,989,сийрда,CyrillTrans,"clear, plain",,,siyrda,Phonemic
+17-350-516-1,ingu1240,Ingush,1764,ца кхеташ,CyrillTrans,obscure,,,ca qetaš,Phonemic
+17-360-516-1,ingu1240,Ingush,1121,къайле,CyrillTrans,secret,,,q̛ayle,Phonemic
+17-370-516-1,ingu1240,Ingush,509,бIубенна,CyrillTrans,"sure, certain",,,bʕuben̄a,Phonemic
+17-380-516-1,ingu1240,Ingush,1626,дIакхетаде,CyrillTrans,explain,,,dʕaqetade,Phonemic
+17-410-516-1,ingu1240,Ingush,1162,нигат,CyrillTrans,"intention, purpose",,,"nigat, loarham",Phonemic
+17-410-516-3,ingu1240,Ingush,1162,лоархIам,CyrillTrans,"intention, purpose",,,"nigat, loarham",Phonemic
+17-420-516-1,ingu1240,Ingush,860,бахьан,CyrillTrans,cause,,,baћan,Phonemic
+17-430-516-1,ingu1240,Ingush,1308,шеко,CyrillTrans,doubt,,,šeko,Phonemic
+17-440-516-1,ingu1240,Ingush,1841,дегабум бе,CyrillTrans,suspect,,,degabum be,Phonemic
+17-441-516-1,ingu1240,Ingush,1902,вохка,CyrillTrans,betray,,,woxka,Phonemic
+17-450-516-1,ingu1240,Ingush,643,эшар,CyrillTrans,"need, necessity",,,"ešar, dezar",Phonemic
+17-450-516-3,ingu1240,Ingush,643,дезар,CyrillTrans,"need, necessity",,,"ešar, dezar",Phonemic
+17-460-516-1,ingu1240,Ingush,686,атта,CyrillTrans,easy,,,at̄a,Phonemic
+17-470-516-1,ingu1240,Ingush,584,хала,CyrillTrans,difficult,,,xala,Phonemic
+17-480-516-1,ingu1240,Ingush,1812,гIортам,CyrillTrans,"try, attempt",,,ɣortam,Phonemic
+17-490-516-1,ingu1240,Ingush,488,никъ,CyrillTrans,"way, manner",,,"niq̛, ћisap",Phonemic
+17-490-516-3,ingu1240,Ingush,488,хьисап,CyrillTrans,"way, manner",,,"niq̛, ћisap",Phonemic
+17-510-516-1,ingu1240,Ingush,1577,а,CyrillTrans,and,,,a,Phonemic
+17-520-516-1,ingu1240,Ingush,1157,цу духьа,CyrillTrans,because,,,cu duћa,Phonemic
+17-530-516-1,ingu1240,Ingush,1459,санна,CyrillTrans,if,,,"san̄a, nagaћa sana",Phonemic
+17-530-516-3,ingu1240,Ingush,1459,нагахьа сана,CyrillTrans,if,,,"san̄a, nagaћa sana",Phonemic
+17-540-516-1,ingu1240,Ingush,1014,е,CyrillTrans,or,,,ye,Phonemic
+17-550-516-1,ingu1240,Ingush,1268,хIау,CyrillTrans,"yes, affirmative",,,hau,Phonemic
+17-560-516-1,ingu1240,Ingush,1269,а,CyrillTrans,"no, negative",,,a,Phonemic
+17-610-516-1,ingu1240,Ingush,1239,мишта,CyrillTrans,how?,,,mišta,Phonemic
+17-620-516-1,ingu1240,Ingush,822,масса,CyrillTrans,how many?,,,mas̄a,Phonemic
+17-630-516-1,ingu1240,Ingush,531,мел,CyrillTrans,how much?,,,mel,Phonemic
+17-640-516-1,ingu1240,Ingush,1236,фу,CyrillTrans,what?,,,fu,Phonemic
+17-650-516-1,ingu1240,Ingush,1238,маца,CyrillTrans,when?,,,maca,Phonemic
+17-660-516-1,ingu1240,Ingush,1237,мича,CyrillTrans,where?,,,"miča, mičara",Phonemic
+17-660-516-3,ingu1240,Ingush,1237,мичара,CyrillTrans,where?,,,"miča, mičara",Phonemic
+17-670-516-1,ingu1240,Ingush,727,мишта,CyrillTrans,which?,,,mišta,Phonemic
+17-680-516-1,ingu1240,Ingush,1235,мала,CyrillTrans,who?,,,mala,Phonemic
+17-690-516-1,ingu1240,Ingush,1270,хьан,CyrillTrans,why?,,,ћan,Phonemic
+18-110-516-1,ingu1240,Ingush,1363,оаз,CyrillTrans,voice,,,oaz,Phonemic
+18-120-516-1,ingu1240,Ingush,1261,лакха,CyrillTrans,sing,,,laqa,Phonemic
+18-130-516-1,ingu1240,Ingush,715,гIар е,CyrillTrans,"shout, cry out",,,"ɣar ye, c̛oɣ det̄a, muћ beta",Phonemic
+18-130-516-3,ingu1240,Ingush,715,цIогI детта,CyrillTrans,"shout, cry out",,,"ɣar ye, c̛oɣ det̄a, muћ beta",Phonemic
+18-130-516-5,ingu1240,Ingush,715,мухь бета,CyrillTrans,"shout, cry out",,,"ɣar ye, c̛oɣ det̄a, muћ beta",Phonemic
+18-150-516-1,ingu1240,Ingush,55,шортта ле,CyrillTrans,whisper,,,šorta le,Phonemic
+18-160-516-1,ingu1240,Ingush,128,яппар е,CyrillTrans,mumble,,,yap̄ar ye,Phonemic
+18-170-516-1,ingu1240,Ingush,1025,шок етта,CyrillTrans,whistle,,,šok yet̄a,Phonemic
+18-180-516-1,ingu1240,Ingush,298,цIувза,CyrillTrans,"shriek, screech",,,c̛uwza,Phonemic
+18-190-516-1,ingu1240,Ingush,526,увгIа,CyrillTrans,howl,,,uwɣa,Phonemic
+18-210-516-1,ingu1240,Ingush,1623,къамаьл де,CyrillTrans,"speak, talk",,,"q̛amäl de, le",Phonemic
+18-210-516-3,ingu1240,Ingush,1623,ле,CyrillTrans,"speak, talk",,,"q̛amäl de, le",Phonemic
+18-211-516-1,ingu1240,Ingush,1866,меттаза ле,CyrillTrans,"stutter, stammer",,,met̄aza le,Phonemic
+18-220-516-1,ingu1240,Ingush,1458,ала,CyrillTrans,say,,,ala,Phonemic
+18-221-516-1,ingu1240,Ingush,1711,цаI дувца,CyrillTrans,tell story,,,caʕ duwca,Phonemic
+18-222-516-1,ingu1240,Ingush,1115,алар,CyrillTrans,speech (make a),,,"alar, q̛amäl",Phonemic
+18-222-516-3,ingu1240,Ingush,1115,къамаьл,CyrillTrans,speech (make a),,,"alar, q̛amäl",Phonemic
+18-230-516-1,ingu1240,Ingush,48,мотт кхаба,CyrillTrans,silent (be),,,"mot̄ qaba, yist ca xilar",Phonemic
+18-230-516-3,ingu1240,Ingush,48,йист ца хилар,CyrillTrans,silent (be),,,"mot̄ qaba, yist ca xilar",Phonemic
+18-240-516-1,ingu1240,Ingush,1307,мотт,CyrillTrans,language,,,mot̄,Phonemic
+18-260-516-1,ingu1240,Ingush,1599,дош,CyrillTrans,word,,,doš,Phonemic
+18-280-516-1,ingu1240,Ingush,1405,цIи,CyrillTrans,name,,,c̛i,Phonemic
+18-310-516-1,ingu1240,Ingush,1309,хетта,CyrillTrans,"ask (question, inquire)",,,xet̄a,Phonemic
+18-320-516-1,ingu1240,Ingush,1275,жап тела,CyrillTrans,answer,,,žap tela,Phonemic
+18-330-516-1,ingu1240,Ingush,2022,дарий де,CyrillTrans,"admit, confess",,,dariy de,Phonemic
+18-340-516-1,ingu1240,Ingush,755,керасти де,CyrillTrans,deny,,,kerasti de,Phonemic
+18-350-516-1,ingu1240,Ingush,1828,деха,CyrillTrans,"ask, request",,,dexa,Phonemic
+18-360-516-1,ingu1240,Ingush,1675,дош дала,CyrillTrans,promise,,,dos dala,Phonemic
+18-370-516-1,ingu1240,Ingush,49,а ала,CyrillTrans,refuse,,,a ala,Phonemic
+18-380-516-1,ingu1240,Ingush,83,а ала,CyrillTrans,forbid,,,a ala,Phonemic
+18-390-516-1,ingu1240,Ingush,299,ле,CyrillTrans,"rebuke, scold",,,le,Phonemic
+18-410-516-1,ingu1240,Ingush,1084,аравеха,CyrillTrans,call (=summon),,,arawexa,Phonemic
+18-420-516-1,ingu1240,Ingush,180,цIи яха,CyrillTrans,call (=name),,,c̛i yaxa,Phonemic
+18-430-516-1,ingu1240,Ingush,9,вувца,CyrillTrans,announce,,,wuwca,Phonemic
+18-440-516-1,ingu1240,Ingush,1192,кхерам тесса,CyrillTrans,threaten,,,qeram tes̄a,Phonemic
+18-450-516-1,ingu1240,Ingush,101,хьеставала,CyrillTrans,boast,,,ћestawala,Phonemic
+18-510-516-1,ingu1240,Ingush,1672,язде,CyrillTrans,write,,,yazde,Phonemic
+18-520-516-1,ingu1240,Ingush,724,деша,CyrillTrans,read,,,deša,Phonemic
+18-560-516-1,ingu1240,Ingush,648,кIаьхат,CyrillTrans,paper,,,k̛äxat,Phonemic
+18-570-516-1,ingu1240,Ingush,794,ручк,CyrillTrans,pen,,,ručk,Phonemic
+18-610-516-1,ingu1240,Ingush,963,книшка,CyrillTrans,book,,,kniška,Phonemic
+18-670-516-1,ingu1240,Ingush,1045,оазалча,CyrillTrans,poet,,,oazalča,Phonemic
+18-710-516-1,ingu1240,Ingush,777,зурма,CyrillTrans,flute,,,zurma,Phonemic
+18-720-516-1,ingu1240,Ingush,908,фата,CyrillTrans,drum,,,fata,Phonemic
+18-730-516-1,ingu1240,Ingush,2136,зурма,CyrillTrans,"horn, trumpet",,,zurma,Phonemic
+18-740-516-1,ingu1240,Ingush,300,къувкъарг,CyrillTrans,rattle,,,q̛uwq̛arg,Phonemic
+19-110-516-1,ingu1240,Ingush,1300,мохк,CyrillTrans,country,,,moxk,Phonemic
+19-120-516-1,ingu1240,Ingush,89,наьна мохк,CyrillTrans,one's native country,,,näna moxk,Phonemic
+19-150-516-1,ingu1240,Ingush,1391,гIала,CyrillTrans,"city, town",,,"ɣala, saћar",Phonemic
+19-150-516-3,ingu1240,Ingush,1391,шахьар,CyrillTrans,"city, town",,,"ɣala, saћar",Phonemic
+19-160-516-1,ingu1240,Ingush,930,юрт,CyrillTrans,village,,,"yurt, qala, pћa",Phonemic
+19-160-516-3,ingu1240,Ingush,930,кхала,CyrillTrans,village,,,"yurt, qala, pћa",Phonemic
+19-160-516-5,ingu1240,Ingush,930,пхьа,CyrillTrans,village,,,"yurt, qala, pћa",Phonemic
+19-170-516-1,ingu1240,Ingush,1010,доазув,CyrillTrans,boundary,,,doazuw,Phonemic
+19-210-516-1,ingu1240,Ingush,789,къам,CyrillTrans,people (populace),,,q̛am,Phonemic
+19-230-516-1,ingu1240,Ingush,302,тукхам,CyrillTrans,"tribe, clan",,,tuqam,Phonemic
+19-240-516-1,ingu1240,Ingush,301,баьчча,CyrillTrans,"chief, chieftain",,,bäč̄a,Phonemic
+19-250-516-1,ingu1240,Ingush,1296,Iаса,CyrillTrans,"staff, walking stick",,,ʕasa,Phonemic
+19-310-516-1,ingu1240,Ingush,1846,кулгал де,CyrillTrans,"rule, govern",,,kulgal de,Phonemic
+19-320-516-1,ingu1240,Ingush,1508,паччахьа,CyrillTrans,"king, ruler",,,"pac̄aћa, kulgalxo",Phonemic
+19-320-516-3,ingu1240,Ingush,1508,кулгалхо,CyrillTrans,"king, ruler",,,"pac̄aћa, kulgalxo",Phonemic
+19-330-516-1,ingu1240,Ingush,1306,паччахьа сесаг,CyrillTrans,queen,,,"pač̄aћa sesag, suw",Phonemic
+19-330-516-3,ingu1240,Ingush,1306,сув,CyrillTrans,queen,,,"pač̄aћa sesag, suw",Phonemic
+19-360-516-1,ingu1240,Ingush,482,эздий,CyrillTrans,"noble, nobleman",,,ezdiy,Phonemic
+19-370-516-1,ingu1240,Ingush,1032,гIалахо,CyrillTrans,"citizen, subject",,,ʕalaxo,Phonemic
+19-410-516-1,ingu1240,Ingush,383,аьла,CyrillTrans,master,,,"äla, da",Phonemic
+19-410-516-3,ingu1240,Ingush,383,да,CyrillTrans,master,,,"äla, da",Phonemic
+19-420-516-1,ingu1240,Ingush,812,лай,CyrillTrans,slave,,,lay,Phonemic
+19-430-516-1,ingu1240,Ingush,255,лай,CyrillTrans,servant,,,"lay, ʕu",Phonemic
+19-430-516-3,ingu1240,Ingush,255,Iу,CyrillTrans,servant,,,"lay, ʕu",Phonemic
+19-440-516-1,ingu1240,Ingush,384,лоIаме,CyrillTrans,freeman,,,"loʕame, muq̛a sag",Phonemic
+19-440-516-3,ingu1240,Ingush,384,мукъа саг,CyrillTrans,freeman,,,"loʕame, muq̛a sag",Phonemic
+19-450-516-1,ingu1240,Ingush,1128,амар тела,CyrillTrans,"command, order",,,amar tela,Phonemic
+19-460-516-1,ingu1240,Ingush,1635,яхар де,CyrillTrans,obey,,,yaxar de,Phonemic
+19-470-516-1,ingu1240,Ingush,1003,могаде,CyrillTrans,"let, permit",,,mogade,Phonemic
+19-510-516-1,ingu1240,Ingush,1325,доттагIа,CyrillTrans,"friend, companion",,,dot̄aɣa,Phonemic
+19-520-516-1,ingu1240,Ingush,1358,моастагI,CyrillTrans,enemy,,,moastaɣ,Phonemic
+19-540-516-1,ingu1240,Ingush,1332,лоалахо,CyrillTrans,neighbor,,,loalaxo,Phonemic
+19-550-516-1,ingu1240,Ingush,791,ца вовзар,CyrillTrans,stranger,,,ca wowzar,Phonemic
+19-560-516-1,ingu1240,Ingush,1782,хьаьаша,CyrillTrans,guest,,,ћäʔaša,Phonemic
+19-570-516-1,ingu1240,Ingush,1545,да,CyrillTrans,host,,,da,Phonemic
+19-580-516-1,ingu1240,Ingush,1897,гIо,CyrillTrans,"help, aid",,,"ɣo, oarc, ga-loadam",Phonemic
+19-580-516-3,ingu1240,Ingush,1897,оарц,CyrillTrans,"help, aid",,,"ɣo, oarc, ga-loadam",Phonemic
+19-580-516-5,ingu1240,Ingush,1897,га-лоадам,CyrillTrans,"help, aid",,,"ɣo, oarc, ga-loadam",Phonemic
+19-590-516-1,ingu1240,Ingush,1550,духьале е,CyrillTrans,"hinder, prevent",,,duћale ye,Phonemic
+19-610-516-1,ingu1240,Ingush,1747,Iадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-516-1,ingu1240,Ingush,1848,дов,CyrillTrans,"strife, quarrel",,,dow,Phonemic
+19-630-516-1,ingu1240,Ingush,2024,чутиллар,CyrillTrans,"conspiracy, plot",,,čutilar,Phonemic
+19-650-516-1,ingu1240,Ingush,1831,кхета,CyrillTrans,meet,,,qeta,Phonemic
+19-720-516-1,ingu1240,Ingush,1610,кхахьпа,CyrillTrans,prostitute,,,qaћpa,Phonemic
+20-110-516-1,ingu1240,Ingush,1423,лета,CyrillTrans,fight (vb),,,"leta, t̛om be",Phonemic
+20-110-516-3,ingu1240,Ingush,1423,тIом бе,CyrillTrans,fight (vb),,,"leta, t̛om be",Phonemic
+20-130-516-1,ingu1240,Ingush,579,тIом,CyrillTrans,"war, battle",,,t̛om,Phonemic
+20-140-516-1,ingu1240,Ingush,1338,барт,CyrillTrans,peace,,,bart,Phonemic
+20-150-516-1,ingu1240,Ingush,1561,эскар,CyrillTrans,army,,,eskar,Phonemic
+20-170-516-1,ingu1240,Ingush,1941,салте,CyrillTrans,soldier,,,"salte, eskarxo",Phonemic
+20-170-516-3,ingu1240,Ingush,1941,эскархо,CyrillTrans,soldier,,,"salte, eskarxo",Phonemic
+20-210-516-1,ingu1240,Ingush,951,герз,CyrillTrans,"weapons, arms",,,gerz,Phonemic
+20-220-516-1,ingu1240,Ingush,1763,чхьонкар,CyrillTrans,club,,,čћonkar,Phonemic
+20-222-516-1,ingu1240,Ingush,386,тасхам,CyrillTrans,battle-ax,,,tasxam,Phonemic
+20-230-516-1,ingu1240,Ingush,387,ширдолг,CyrillTrans,sling,,,širdolg,Phonemic
+20-240-516-1,ingu1240,Ingush,994,Iад,CyrillTrans,bow,,,ʕad,Phonemic
+20-250-516-1,ingu1240,Ingush,977,тIаьск,CyrillTrans,arrow,,,t̛äsk,Phonemic
+20-260-516-1,ingu1240,Ingush,945,гебагIа,CyrillTrans,spear,,,gebaɣa,Phonemic
+20-270-516-1,ingu1240,Ingush,1535,довт,CyrillTrans,sword,,,dowt,Phonemic
+20-280-516-1,ingu1240,Ingush,1566,топ,CyrillTrans,"gun, cannon",,,"top, yoq̄a top",Phonemic
+20-280-516-3,ingu1240,Ingush,1566,йоккха топ,CyrillTrans,"gun, cannon",,,"top, yoq̄a top",Phonemic
+20-310-516-1,ingu1240,Ingush,1061,тIема гIирс,CyrillTrans,armor (defensive),,,t̛ema ɣirs,Phonemic
+20-330-516-1,ingu1240,Ingush,1680,таж,CyrillTrans,helmet,,,taž,Phonemic
+20-340-516-1,ingu1240,Ingush,1064,турс,CyrillTrans,shield,,,turs,Phonemic
+20-350-516-1,ingu1240,Ingush,1938,гIап,CyrillTrans,fortress,,,ɣap,Phonemic
+20-360-516-1,ingu1240,Ingush,1671,гIала,CyrillTrans,tower,,,ɣala,Phonemic
+20-410-516-1,ingu1240,Ingush,783,толам,CyrillTrans,victory,,,tolam,Phonemic
+20-420-516-1,ingu1240,Ingush,782,эшам,CyrillTrans,defeat,,,ešam,Phonemic
+20-430-516-1,ingu1240,Ingush,722,чухьедар,CyrillTrans,attack,,,čuћedar,Phonemic
+20-440-516-1,ingu1240,Ingush,1330,духьала отар,CyrillTrans,defend,,,duћala otar,Phonemic
+20-450-516-1,ingu1240,Ingush,421,юхавала,CyrillTrans,retreat,,,yuxawala,Phonemic
+20-460-516-1,ingu1240,Ingush,1696,карагIо,CyrillTrans,surrender,,,karaɣo,Phonemic
+20-470-516-1,ingu1240,Ingush,1072,есар,CyrillTrans,"captive, prisoner",,,"yesar, tutmaq",Phonemic
+20-470-516-3,ingu1240,Ingush,1072,тутмакх,CyrillTrans,"captive, prisoner",,,"yesar, tutmaq",Phonemic
+20-471-516-1,ingu1240,Ingush,1940,ха,CyrillTrans,"guard, sentinel",,,xa,Phonemic
+20-480-516-1,ingu1240,Ingush,1022,фос,CyrillTrans,"booty, spoils",,,fos,Phonemic
+20-490-516-1,ingu1240,Ingush,65,кIийле е,CyrillTrans,ambush,,,k̛iyle ye,Phonemic
+20-510-516-1,ingu1240,Ingush,1858,зIакарча,CyrillTrans,fisherman,,,zʕakarča,Phonemic
+20-520-516-1,ingu1240,Ingush,1074,зIака мIара,CyrillTrans,fishhook,,,zʕaka mʕara,Phonemic
+20-530-516-1,ingu1240,Ingush,19,зIака тай,CyrillTrans,fishing line,,,zʕaka tay,Phonemic
+20-540-516-1,ingu1240,Ingush,388,форда цхарал,CyrillTrans,fishnet,,,forda cxaral,Phonemic
+20-550-516-1,ingu1240,Ingush,389,бой,CyrillTrans,fish trap,,,"boy, doa",Phonemic
+20-550-516-3,ingu1240,Ingush,389,доа,CyrillTrans,fish trap,,,"boy, doa",Phonemic
+20-560-516-1,ingu1240,Ingush,2013,Іехорг,CyrillTrans,bait,,,ʕexorg,Phonemic
+20-610-516-1,ingu1240,Ingush,1435,чарахьал де,CyrillTrans,hunt,,,čaraћal de,Phonemic
+20-620-516-1,ingu1240,Ingush,1172,герз детта,CyrillTrans,shoot,,,gerz det̄a,Phonemic
+20-630-516-1,ingu1240,Ingush,161,тулале,CyrillTrans,miss (target),,,tulale,Phonemic
+20-640-516-1,ingu1240,Ingush,1075,боанг,CyrillTrans,trap (noun),,,boang,Phonemic
+20-650-516-1,ingu1240,Ingush,1170,боанг йогIа,CyrillTrans,trap (vb),,,boang yoɣa,Phonemic
+21-110-516-1,ingu1240,Ingush,1062,амар,CyrillTrans,law,,,amar,Phonemic
+21-150-516-1,ingu1240,Ingush,1068,кхел,CyrillTrans,court,,,qel,Phonemic
+21-160-516-1,ingu1240,Ingush,1818,кхел е,CyrillTrans,judge (vb),,,qel e,Phonemic
+21-170-516-1,ingu1240,Ingush,1067,суда лерхIам,CyrillTrans,judgment,,,suda lerham,Phonemic
+21-180-516-1,ingu1240,Ingush,861,кхелахо,CyrillTrans,judge (noun),,,qelaxo,Phonemic
+21-210-516-1,ingu1240,Ingush,2020,тац,CyrillTrans,plaintiff,,,tac,Phonemic
+21-220-516-1,ingu1240,Ingush,1034,даша да,CyrillTrans,defendant,,,dasa da,Phonemic
+21-230-516-1,ingu1240,Ingush,1144,теша,CyrillTrans,witness,,,teša,Phonemic
+21-240-516-1,ingu1240,Ingush,1939,дув баа,CyrillTrans,swear,,,duw baʔa,Phonemic
+21-250-516-1,ingu1240,Ingush,1712,дув,CyrillTrans,oath,,,duw,Phonemic
+21-310-516-1,ingu1240,Ingush,1814,бехке де,CyrillTrans,accuse,,,bexke de,Phonemic
+21-320-516-1,ingu1240,Ingush,484,бехке де,CyrillTrans,condemn,,,bexke de,Phonemic
+21-330-516-1,ingu1240,Ingush,983,бехке деш кхайкаде,CyrillTrans,convict (vb),,,bexke deš qaykade,Phonemic
+21-340-516-1,ingu1240,Ingush,988,бехказа ваккха,CyrillTrans,acquit,,,bexkaza waq̄a,Phonemic
+21-350-516-1,ingu1240,Ingush,1682,бехкевар,CyrillTrans,guilty,,,bexkewar,Phonemic
+21-360-516-1,ingu1240,Ingush,90,бехкевоацар,CyrillTrans,innocent,,,bexkewoacar,Phonemic
+21-370-516-1,ingu1240,Ingush,390,таIазар,CyrillTrans,"penalty, punishment",,,taʕazar,Phonemic
+21-380-516-1,ingu1240,Ingush,218,ахчанца гIод,CyrillTrans,fine,,,axčanca ɣod,Phonemic
+21-390-516-1,ingu1240,Ingush,1281,набахте,CyrillTrans,"prison, jail",,,nabaxte,Phonemic
+21-420-516-1,ingu1240,Ingush,845,вер,CyrillTrans,murder,,,wer,Phonemic
+21-430-516-1,ingu1240,Ingush,902,кхахьпал,CyrillTrans,adultery,,,qaћpal,Phonemic
+21-440-516-1,ingu1240,Ingush,953,хьувзаяр,CyrillTrans,rape,,,ћuwzayar,Phonemic
+21-460-516-1,ingu1240,Ingush,1889,цIитохар,CyrillTrans,arson,,,c̛itoxar,Phonemic
+21-470-516-1,ingu1240,Ingush,1792,харц тешал дар,CyrillTrans,perjury,,,xarc tešal dar,Phonemic
+21-510-516-1,ingu1240,Ingush,713,къоал де,CyrillTrans,steal,,,q̛oal de,Phonemic
+21-520-516-1,ingu1240,Ingush,1160,къу,CyrillTrans,thief,,,q̛u,Phonemic
+22-110-516-1,ingu1240,Ingush,661,ди,CyrillTrans,religion,,,di,Phonemic
+22-120-516-1,ingu1240,Ingush,1944,АллахI,CyrillTrans,God,,,"Al̄ah, Däla",Phonemic
+22-120-516-3,ingu1240,Ingush,1944,Даьла,CyrillTrans,God,,,"Al̄ah, Däla",Phonemic
+22-130-516-1,ingu1240,Ingush,911,ерда,CyrillTrans,"temple, church",,,"yerda, kinaz",Phonemic
+22-130-516-3,ingu1240,Ingush,911,киназ,CyrillTrans,"temple, church",,,"yerda, kinaz",Phonemic
+22-140-516-1,ingu1240,Ingush,853,ала тIе,CyrillTrans,altar,,,ala t̛e,Phonemic
+22-150-516-1,ingu1240,Ingush,1103,синнел,CyrillTrans,"sacrifice, offering",,,sin̄el,Phonemic
+22-160-516-1,ingu1240,Ingush,257,текъа,CyrillTrans,worship,,,teq̛a,Phonemic
+22-170-516-1,ingu1240,Ingush,24,ламаз де,CyrillTrans,pray,,,lamaz de,Phonemic
+22-180-516-1,ingu1240,Ingush,852,мозгIар,CyrillTrans,priest,,,mozɣar,Phonemic
+22-190-516-1,ingu1240,Ingush,1702,деза,CyrillTrans,"holy, sacred",,,deza,Phonemic
+22-220-516-1,ingu1240,Ingush,304,хьеха,CyrillTrans,preach,,,"ћexa, naxal daxa",Phonemic
+22-220-516-3,ingu1240,Ingush,304,нахал даха,CyrillTrans,preach,,,"ћexa, naxal daxa",Phonemic
+22-230-516-1,ingu1240,Ingush,391,даькъал дувца,CyrillTrans,bless,,,däq̛al duwca,Phonemic
+22-240-516-1,ingu1240,Ingush,8,наIалт ала,CyrillTrans,curse,,,naʕalt ala,Phonemic
+22-260-516-1,ingu1240,Ingush,303,марха кхаба,CyrillTrans,fast (vb),,,marxa qaba,Phonemic
+22-310-516-1,ingu1240,Ingush,1565,ялсмале,CyrillTrans,heaven,,,yalsmale,Phonemic
+22-320-516-1,ingu1240,Ingush,878,жожагIате,CyrillTrans,hell,,,žožaɣate,Phonemic
+22-350-516-1,ingu1240,Ingush,1973,йилбаз,CyrillTrans,demon (evil spirit),,,yilbaz,Phonemic
+22-370-516-1,ingu1240,Ingush,1945,мунда,CyrillTrans,idol,,,munda,Phonemic
+22-420-516-1,ingu1240,Ingush,392,коал,CyrillTrans,"magic, witchcraft, sorcery",,,"koal, poalxexkar",Phonemic
+22-420-516-3,ingu1240,Ingush,392,поалхехкар,CyrillTrans,"magic, witchcraft, sorcery",,,"koal, poalxexkar",Phonemic
+22-430-516-1,ingu1240,Ingush,2137,поалхехкар,CyrillTrans,"sorcerer, witch",,,"poalxexkar, yešap, ɣarbaš",Phonemic
+22-430-516-3,ingu1240,Ingush,2137,ешап,CyrillTrans,"sorcerer, witch",,,"poalxexkar, yešap, ɣarbaš",Phonemic
+22-430-516-5,ingu1240,Ingush,2137,гIарбаш,CyrillTrans,"sorcerer, witch",,,"poalxexkar, yešap, ɣarbaš",Phonemic
+22-440-516-1,ingu1240,Ingush,2138,амнасти,CyrillTrans,"fairy, elf",,,amnasti,Phonemic
+22-450-516-1,ingu1240,Ingush,1175,бIалгIа,CyrillTrans,"ghost, phantom",,,bʕalɣa,Phonemic
+22-470-516-1,ingu1240,Ingush,107,зIами,CyrillTrans,"omen, portent",,,zʕami,Phonemic

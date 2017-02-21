@@ -1,0 +1,1470 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1852,тез-тез,CyrillTrans,often,,,tez-tez,Phonemic
+14-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1676,хер заман,CyrillTrans,always,,,"xer zaman, xer vaxti",Phonemic
+14-310-166-3,nort2697,Azerbaijani (Terekeme dialect),1676,хер вахти,CyrillTrans,always,,,"xer zaman, xer vaxti",Phonemic
+14-290-166-1,nort2697,Azerbaijani (Terekeme dialect),790,хазуьр,CyrillTrans,ready,,,xazür,Phonemic
+14-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1928,битирмаг,CyrillTrans,"cease, stop",,,"bitirmag, durdurmag",Phonemic
+14-280-166-3,nort2697,Azerbaijani (Terekeme dialect),1928,дурдурмаг,CyrillTrans,"cease, stop",,,"bitirmag, durdurmag",Phonemic
+14-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1766,битирмаг,CyrillTrans,finish,,,bitirmag,Phonemic
+14-260-166-1,nort2697,Azerbaijani (Terekeme dialect),743,битирмаг,CyrillTrans,end (temporal),,,bitirmag,Phonemic
+14-252-166-1,nort2697,Azerbaijani (Terekeme dialect),1186,девам йетмаг,CyrillTrans,"last, endure",,,devam yetmag,Phonemic
+14-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1806,башламаг,CyrillTrans,"begin, beginning",,,"bašlamag, baš",Phonemic
+14-250-166-3,nort2697,Azerbaijani (Terekeme dialect),1806,баш,CyrillTrans,"begin, beginning",,,"bašlamag, baš",Phonemic
+14-240-166-1,nort2697,Azerbaijani (Terekeme dialect),425,йавашламаг,CyrillTrans,"retard, delay",,,yavašlamag,Phonemic
+14-230-166-1,nort2697,Azerbaijani (Terekeme dialect),754,телесмаг,CyrillTrans,"hasten, hurry",,,telesmag,Phonemic
+14-220-166-1,nort2697,Azerbaijani (Terekeme dialect),701,йаваш,CyrillTrans,slow,,,yavaš,Phonemic
+14-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1631,тез,CyrillTrans,"swift, fast, quick",,,tez,Phonemic
+14-190-166-1,nort2697,Azerbaijani (Terekeme dialect),1963,тезликлаь,CyrillTrans,immediately,,,"tezliklä, ǯeld",Phonemic
+14-190-166-3,nort2697,Azerbaijani (Terekeme dialect),1963,джелд,CyrillTrans,immediately,,,"tezliklä, ǯeld",Phonemic
+14-180-166-1,nort2697,Azerbaijani (Terekeme dialect),1376,хинди,CyrillTrans,now,,,xindi,Phonemic
+14-170-166-1,nort2697,Azerbaijani (Terekeme dialect),477,геч,CyrillTrans,late,,,geč,Phonemic
+14-160-166-1,nort2697,Azerbaijani (Terekeme dialect),672,тез,CyrillTrans,early,,,tez,Phonemic
+14-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1229,гоча,CyrillTrans,old,,,goča,Phonemic
+14-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1207,чаван,CyrillTrans,young,,,čavan,Phonemic
+14-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1789,йаш,CyrillTrans,age,,,"yaš, yesir, zaman",Phonemic
+14-120-166-3,nort2697,Azerbaijani (Terekeme dialect),1789,йесир,CyrillTrans,age,,,"yaš, yesir, zaman",Phonemic
+14-120-166-5,nort2697,Azerbaijani (Terekeme dialect),1789,заман,CyrillTrans,age,,,"yaš, yesir, zaman",Phonemic
+14-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1231,таза,CyrillTrans,new,,,taza,Phonemic
+14-110-166-1,nort2697,Azerbaijani (Terekeme dialect),892,вахт,CyrillTrans,time,,,vaxt,Phonemic
+13-440-166-1,nort2697,Azerbaijani (Terekeme dialect),417,уьч кере,CyrillTrans,three times,,,üč kere,Phonemic
+13-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1859,уьчуьнчи,CyrillTrans,third,,,üčünči,Phonemic
+13-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1546,ики кере,CyrillTrans,two times,,,iki kere,Phonemic
+13-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1888,ики,CyrillTrans,pair,,,iki,Phonemic
+13-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1384,икинчи,CyrillTrans,second,,,ikinči,Phonemic
+13-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1529,ахиринчи,CyrillTrans,last,,,axirinči,Phonemic
+13-340-166-1,nort2697,Azerbaijani (Terekeme dialect),728,биринчи,CyrillTrans,first,,,birinči,Phonemic
+13-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1580,бир,CyrillTrans,"alone, only",,,"bir, tek",Phonemic
+13-330-166-3,nort2697,Azerbaijani (Terekeme dialect),1580,тек,CyrillTrans,"alone, only",,,"bir, tek",Phonemic
+13-240-166-1,nort2697,Azerbaijani (Terekeme dialect),816,йарсы,CyrillTrans,half,,,yarsɨ,Phonemic
+13-230-166-1,nort2697,Azerbaijani (Terekeme dialect),779,йарсы,CyrillTrans,"part, piece",,,"yarsɨ, tike",Phonemic
+13-230-166-3,nort2697,Azerbaijani (Terekeme dialect),779,тике,CyrillTrans,"part, piece",,,"yarsɨ, tike",Phonemic
+13-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1624,бош,CyrillTrans,empty,,,boš,Phonemic
+13-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1429,долу,CyrillTrans,full,,,dolu,Phonemic
+13-190-166-1,nort2697,Azerbaijani (Terekeme dialect),2023,чох,CyrillTrans,"multitude, crowd",,,čox,Phonemic
+13-181-166-1,nort2697,Azerbaijani (Terekeme dialect),1241,бир нече,CyrillTrans,some,,,bir neče,Phonemic
+13-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1242,аз,CyrillTrans,"little (quantity), few",,,az,Phonemic
+13-180-166-1,nort2697,Azerbaijani (Terekeme dialect),1881,бестйуь,CyrillTrans,enough,,,bestyü,Phonemic
+13-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1992,чох,CyrillTrans,more,,,čox,Phonemic
+13-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1198,чох,CyrillTrans,"much, many",,,čox,Phonemic
+13-140-166-1,nort2697,Azerbaijani (Terekeme dialect),98,хемси,CyrillTrans,"every, all",,,xemsi,Phonemic
+13-107-166-1,nort2697,Azerbaijani (Terekeme dialect),1420,хисабламаг,CyrillTrans,count,,,xisablamag,Phonemic
+13-106-166-1,nort2697,Azerbaijani (Terekeme dialect),1843,мин,CyrillTrans,thousand,,,min,Phonemic
+13-105-166-1,nort2697,Azerbaijani (Terekeme dialect),1634,йуьз,CyrillTrans,hundred,,,yüz,Phonemic
+13-104-166-1,nort2697,Azerbaijani (Terekeme dialect),1710,игирми,CyrillTrans,twenty,,,igirmi,Phonemic
+13-103-166-1,nort2697,Azerbaijani (Terekeme dialect),1709,он беш,CyrillTrans,fifteen,,,on beš,Phonemic
+13-102-166-1,nort2697,Azerbaijani (Terekeme dialect),1707,он ики,CyrillTrans,twelve,,,on iki,Phonemic
+13-101-166-1,nort2697,Azerbaijani (Terekeme dialect),1706,он бир,CyrillTrans,eleven,,,on bir,Phonemic
+13-100-166-1,nort2697,Azerbaijani (Terekeme dialect),1515,он,CyrillTrans,ten,,,on,Phonemic
+13-90-166-1,nort2697,Azerbaijani (Terekeme dialect),1483,доггуз,CyrillTrans,nine,,,dogguz,Phonemic
+13-80-166-1,nort2697,Azerbaijani (Terekeme dialect),1705,секкиз,CyrillTrans,eight,,,sekkiz,Phonemic
+13-70-166-1,nort2697,Azerbaijani (Terekeme dialect),1704,йедди,CyrillTrans,seven,,,yeddi,Phonemic
+13-60-166-1,nort2697,Azerbaijani (Terekeme dialect),1703,алты,CyrillTrans,six,,,altɨ,Phonemic
+13-50-166-1,nort2697,Azerbaijani (Terekeme dialect),493,беш,CyrillTrans,five,,,beš,Phonemic
+13-40-166-1,nort2697,Azerbaijani (Terekeme dialect),1500,доьрт,CyrillTrans,four,,,dört,Phonemic
+13-20-166-1,nort2697,Azerbaijani (Terekeme dialect),1498,ики,CyrillTrans,two,,,iki,Phonemic
+13-30-166-1,nort2697,Azerbaijani (Terekeme dialect),492,уч,CyrillTrans,three,,,uč,Phonemic
+13-10-166-1,nort2697,Azerbaijani (Terekeme dialect),1493,бир,CyrillTrans,one,,,bir,Phonemic
+13-0-166-1,nort2697,Azerbaijani (Terekeme dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-166-1,nort2697,Azerbaijani (Terekeme dialect),1264,дегуьшмаг,CyrillTrans,change,,,degüšmag,Phonemic
+12-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1558,охшайан,CyrillTrans,"like, similar",,,oxšayan,Phonemic
+12-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1048,линийа,CyrillTrans,line,,,"liniya, xätt",Phonemic
+12-840-166-3,nort2697,Azerbaijani (Terekeme dialect),1048,хаьтт,CyrillTrans,line,,,"liniya, xätt",Phonemic
+12-850-166-1,nort2697,Azerbaijani (Terekeme dialect),1667,дешук,CyrillTrans,hole,,,dešuk,Phonemic
+12-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1395,йумри,CyrillTrans,round,,,yumri,Phonemic
+12-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1467,йумри,CyrillTrans,circle,,,yumri,Phonemic
+12-780-166-1,nort2697,Azerbaijani (Terekeme dialect),850,доьрткуьнч,CyrillTrans,square,,,dörtkünč,Phonemic
+12-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-166-1,nort2697,Azerbaijani (Terekeme dialect),192,куьнч,CyrillTrans,corner,,,künč,Phonemic
+12-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1071,гармак,CyrillTrans,hook,,,garmak,Phonemic
+12-740-166-1,nort2697,Azerbaijani (Terekeme dialect),297,эгри,CyrillTrans,crooked,,,egri,Phonemic
+12-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1404,дуз,CyrillTrans,straight,,,duz,Phonemic
+12-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1633,дуз,CyrillTrans,flat,,,duz,Phonemic
+12-680-166-1,nort2697,Azerbaijani (Terekeme dialect),193,кичик,CyrillTrans,shallow,,,kičik,Phonemic
+12-670-166-1,nort2697,Azerbaijani (Terekeme dialect),1593,дерин,CyrillTrans,deep,,,derin,Phonemic
+12-650-166-1,nort2697,Azerbaijani (Terekeme dialect),2249,назик,CyrillTrans,thin (in dimension),,,nazik,Phonemic
+12-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1244,йогун,CyrillTrans,thick (in dimension),,,yogun,Phonemic
+12-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1267,дар,CyrillTrans,narrow,,,dar,Phonemic
+12-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1243,генг,CyrillTrans,"wide, broad",,,geng,Phonemic
+12-590-166-1,nort2697,Azerbaijani (Terekeme dialect),1645,гиса,CyrillTrans,short,,,gisa,Phonemic
+12-580-166-1,nort2697,Azerbaijani (Terekeme dialect),711,хундур,CyrillTrans,tall,,,xundur,Phonemic
+12-570-166-1,nort2697,Azerbaijani (Terekeme dialect),1203,узун,CyrillTrans,long,,,uzun,Phonemic
+12-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1246,кичик,CyrillTrans,"small, little",,,kičik,Phonemic
+12-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1202,боьйуьк,CyrillTrans,"large, big",,,böyük,Phonemic
+12-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1506,олчмаг,CyrillTrans,measure,,,olčmag,Phonemic
+12-530-166-1,nort2697,Azerbaijani (Terekeme dialect),479,бойук олмаг,CyrillTrans,grow,,,boyuk olmag,Phonemic
+12-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1595,ченуб,CyrillTrans,south,,,čenub,Phonemic
+12-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1598,шимал,CyrillTrans,north,,,šimal,Phonemic
+12-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1817,герб,CyrillTrans,west,,,gerb,Phonemic
+12-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1877,шерг,CyrillTrans,east,,,šerg,Phonemic
+12-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1942,йанында,CyrillTrans,near (adv),,,yanɨnda,Phonemic
+12-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1406,узағда,CyrillTrans,far (adv),,,uzaɣda,Phonemic
+12-420-166-1,nort2697,Azerbaijani (Terekeme dialect),244,сол (тереф),CyrillTrans,left (side),,,sol (teref),Phonemic
+12-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1019,саг (тереф),CyrillTrans,right (side),,,sag (teref),Phonemic
+12-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1093,орта,CyrillTrans,"middle, center",,,"orta, merkez",Phonemic
+12-370-166-3,nort2697,Azerbaijani (Terekeme dialect),1093,меркез,CyrillTrans,"middle, center",,,"orta, merkez",Phonemic
+12-360-166-1,nort2697,Azerbaijani (Terekeme dialect),682,тереф,CyrillTrans,side,,,teref,Phonemic
+12-353-166-1,nort2697,Azerbaijani (Terekeme dialect),863,гираг,CyrillTrans,edge,,,girag,Phonemic
+12-352-166-1,nort2697,Azerbaijani (Terekeme dialect),372,сиври,CyrillTrans,pointed,,,sivri,Phonemic
+12-350-166-1,nort2697,Azerbaijani (Terekeme dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-166-1,nort2697,Azerbaijani (Terekeme dialect),690,диб,CyrillTrans,bottom,,,dib,Phonemic
+12-320-166-1,nort2697,Azerbaijani (Terekeme dialect),721,куьчуьк,CyrillTrans,low,,,"küčük, gisa",Phonemic
+12-320-166-3,nort2697,Azerbaijani (Terekeme dialect),721,гиса,CyrillTrans,low,,,"küčük, gisa",Phonemic
+12-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1753,баш,CyrillTrans,top,,,baš,Phonemic
+12-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1265,йуьксек,CyrillTrans,high,,,yüksek,Phonemic
+12-270-166-1,nort2697,Azerbaijani (Terekeme dialect),602,гизлетмаг,CyrillTrans,"hide, conceal",,,gizletmag,Phonemic
+12-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1046,ортмаг,CyrillTrans,"shut, close",,,ortmag,Phonemic
+12-260-166-1,nort2697,Azerbaijani (Terekeme dialect),761,йертмаг,CyrillTrans,cover,,,yertmag,Phonemic
+12-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1156,ачмаг,CyrillTrans,open,,,ačmag,Phonemic
+12-232-166-1,nort2697,Azerbaijani (Terekeme dialect),1119,болмаг,CyrillTrans,divide,,,bolmag,Phonemic
+12-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1359,айурмаг,CyrillTrans,separate,,,ayurmag,Phonemic
+12-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1743,багламаг,CyrillTrans,"join, unite",,,"baglamag, toplamag",Phonemic
+12-220-166-3,nort2697,Azerbaijani (Terekeme dialect),1743,топламаг,CyrillTrans,"join, unite",,,"baglamag, toplamag",Phonemic
+12-213-166-1,nort2697,Azerbaijani (Terekeme dialect),1576,йигмаг,CyrillTrans,pile up,,,"yigmag, doldurmag",Phonemic
+12-213-166-3,nort2697,Azerbaijani (Terekeme dialect),1576,долдурмаг,CyrillTrans,pile up,,,"yigmag, doldurmag",Phonemic
+12-212-166-1,nort2697,Azerbaijani (Terekeme dialect),371,йигмаг,CyrillTrans,pick up,,,"yigmag, kalxuzmag",Phonemic
+12-212-166-3,nort2697,Azerbaijani (Terekeme dialect),371,калхузмаг,CyrillTrans,pick up,,,"yigmag, kalxuzmag",Phonemic
+12-210-166-1,nort2697,Azerbaijani (Terekeme dialect),7,йигмаг,CyrillTrans,"collect, gather",,,yigmag,Phonemic
+12-170-166-1,nort2697,Azerbaijani (Terekeme dialect),838,гиринтилер,CyrillTrans,"remains, left overs",,,girintiler,Phonemic
+12-160-166-1,nort2697,Azerbaijani (Terekeme dialect),987,галмаг,CyrillTrans,"remain, stay",,,galmag,Phonemic
+12-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1442,дурмаг,CyrillTrans,stand,,,durmag,Phonemic
+12-140-166-1,nort2697,Azerbaijani (Terekeme dialect),215,йатмаг,CyrillTrans,lie down,,,yatmag,Phonemic
+12-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1416,отурмаг,CyrillTrans,sit,,,oturmag,Phonemic
+12-120-166-1,nort2697,Azerbaijani (Terekeme dialect),998,гоймаг,CyrillTrans,put,,,goymag,Phonemic
+12-110-166-1,nort2697,Azerbaijani (Terekeme dialect),723,йер,CyrillTrans,place,,,yer,Phonemic
+12-80-166-1,nort2697,Azerbaijani (Terekeme dialect),1591,йуьстйуьнде,CyrillTrans,"up, above",,,yüstyünde,Phonemic
+12-70-166-1,nort2697,Azerbaijani (Terekeme dialect),1485,алтында,CyrillTrans,under,,,altɨnda,Phonemic
+12-60-166-1,nort2697,Azerbaijani (Terekeme dialect),762,гирагда,CyrillTrans,outside,,,giragda,Phonemic
+12-50-166-1,nort2697,Azerbaijani (Terekeme dialect),1606,ичинде,CyrillTrans,"inside, in",,,ičinde,Phonemic
+12-41-166-1,nort2697,Azerbaijani (Terekeme dialect),1883,габагында,CyrillTrans,front,,,gabagɨnda,Phonemic
+12-40-166-1,nort2697,Azerbaijani (Terekeme dialect),1882,габагында,CyrillTrans,before,,,"gabagɨnda, gabagda",Phonemic
+12-40-166-3,nort2697,Azerbaijani (Terekeme dialect),1882,габагда,CyrillTrans,before,,,"gabagɨnda, gabagda",Phonemic
+12-30-166-1,nort2697,Azerbaijani (Terekeme dialect),2094,ашагы,CyrillTrans,"down, below",,,ašagɨ,Phonemic
+12-20-166-1,nort2697,Azerbaijani (Terekeme dialect),1816,йанында,CyrillTrans,beside,,,yanɨnda,Phonemic
+12-11-166-1,nort2697,Azerbaijani (Terekeme dialect),1686,ичин,CyrillTrans,behind,,,ičin,Phonemic
+12-10-166-1,nort2697,Azerbaijani (Terekeme dialect),1685,сора,CyrillTrans,after,,,sora,Phonemic
+11-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1098,дартмағ,CyrillTrans,weigh,,,dartmaɣ,Phonemic
+11-910-166-1,nort2697,Azerbaijani (Terekeme dialect),884,дагитмағ,CyrillTrans,share (distribute),,,dagitmaɣ,Phonemic
+11-890-166-1,nort2697,Azerbaijani (Terekeme dialect),1887,учуз,CyrillTrans,cheap,,,učuz,Phonemic
+11-880-166-1,nort2697,Azerbaijani (Terekeme dialect),1426,бахалу,CyrillTrans,"dear (costly, expensive)",,,baxalu,Phonemic
+11-870-166-1,nort2697,Azerbaijani (Terekeme dialect),657,гимет,CyrillTrans,price,,,gimet,Phonemic
+11-860-166-1,nort2697,Azerbaijani (Terekeme dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-166-1,nort2697,Azerbaijani (Terekeme dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1082,тачир,CyrillTrans,merchant,,,tačir,Phonemic
+11-830-166-1,nort2697,Azerbaijani (Terekeme dialect),2135,алвер,CyrillTrans,"trade, barter",,,"alver, degüšmag",Phonemic
+11-830-166-3,nort2697,Azerbaijani (Terekeme dialect),2135,дегуьшмаг,CyrillTrans,"trade, barter",,,"alver, degüšmag",Phonemic
+11-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1571,сатмаг,CyrillTrans,sell,,,satmag,Phonemic
+11-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1869,алмаг,CyrillTrans,buy,,,almag,Phonemic
+11-790-166-1,nort2697,Azerbaijani (Terekeme dialect),733,газанмаг,CyrillTrans,earn,,,gazanmag,Phonemic
+11-780-166-1,nort2697,Azerbaijani (Terekeme dialect),1122,мааш,CyrillTrans,wages,,,"maʔaš, aylug",Phonemic
+11-780-166-3,nort2697,Azerbaijani (Terekeme dialect),1122,айлуг,CyrillTrans,wages,,,"maʔaš, aylug",Phonemic
+11-770-166-1,nort2697,Azerbaijani (Terekeme dialect),856,кирейе алмаг,CyrillTrans,hire,,,kirеyе almag,Phonemic
+11-690-166-1,nort2697,Azerbaijani (Terekeme dialect),873,верги,CyrillTrans,"tax, tribute",,,vergi,Phonemic
+11-660-166-1,nort2697,Azerbaijani (Terekeme dialect),1081,хесаб,CyrillTrans,"account, reckoning",,,xesab,Phonemic
+11-650-166-1,nort2697,Azerbaijani (Terekeme dialect),718,оьдемек,CyrillTrans,pay (vb),,,ödemek,Phonemic
+11-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1914,борч,CyrillTrans,debt,,,borč,Phonemic
+11-630-166-1,nort2697,Azerbaijani (Terekeme dialect),369,борчлу олмағ,CyrillTrans,owe,,,borčlu olmaɣ,Phonemic
+11-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1823,тутмаг,CyrillTrans,borrow,,,tutmag,Phonemic
+11-610-166-1,nort2697,Azerbaijani (Terekeme dialect),582,борч вермаг,CyrillTrans,lend,,,borč vermag,Phonemic
+11-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1774,берк,CyrillTrans,"avaricious, stingy",,,"berk, ačgüz",Phonemic
+11-540-166-3,nort2697,Azerbaijani (Terekeme dialect),1774,ачгуьз,CyrillTrans,"avaricious, stingy",,,"berk, ačgüz",Phonemic
+11-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1934,диленчи,CyrillTrans,beggar,,,dilenči,Phonemic
+11-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1674,касиб,CyrillTrans,poor,,,kasib,Phonemic
+11-510-166-1,nort2697,Azerbaijani (Terekeme dialect),712,девлеттуь,CyrillTrans,rich,,,devlettü,Phonemic
+11-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1867,манат,CyrillTrans,coin,,,manat,Phonemic
+11-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1559,пул,CyrillTrans,money,,,pul,Phonemic
+11-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1095,бурахмаг,CyrillTrans,"release, let go",,,buraxmag,Phonemic
+11-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1660,итирмаг,CyrillTrans,lose,,,itirmag,Phonemic
+11-320-166-1,nort2697,Azerbaijani (Terekeme dialect),719,тапмаг,CyrillTrans,find,,,tapmag,Phonemic
+11-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1468,ахтармаг,CyrillTrans,"seek, look for",,,axtarmag,Phonemic
+11-280-166-1,nort2697,Azerbaijani (Terekeme dialect),44,зерер вермаг,CyrillTrans,"harm, injure, damage",,,zerer vermag,Phonemic
+11-270-166-1,nort2697,Azerbaijani (Terekeme dialect),681,дагитмаг,CyrillTrans,destroy,,,dagitmag,Phonemic
+11-250-166-1,nort2697,Azerbaijani (Terekeme dialect),2008,хилас етмек,CyrillTrans,"save, rescue",,,"xilas etmek, gurtarmag",Phonemic
+11-250-166-3,nort2697,Azerbaijani (Terekeme dialect),2008,гуртармаг,CyrillTrans,"save, rescue",,,"xilas etmek, gurtarmag",Phonemic
+11-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1997,сахламаг,CyrillTrans,"preserve, look after",,,saxlamag,Phonemic
+11-220-166-1,nort2697,Azerbaijani (Terekeme dialect),85,гейтермаг,CyrillTrans,give back,,,geytermag,Phonemic
+11-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1447,вермек,CyrillTrans,give,,,vermek,Phonemic
+11-180-166-1,nort2697,Azerbaijani (Terekeme dialect),738,шей,CyrillTrans,thing,,,šey,Phonemic
+11-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1477,сахламаг,CyrillTrans,"keep, retain",,,saxlamag,Phonemic
+11-160-166-1,nort2697,Azerbaijani (Terekeme dialect),694,алмаг,CyrillTrans,"get, obtain",,,almag,Phonemic
+11-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1448,тутмаг,CyrillTrans,hold,,,tutmag,Phonemic
+11-140-166-1,nort2697,Azerbaijani (Terekeme dialect),2021,тутмаг,CyrillTrans,"seize, grasp",,,tutmag,Phonemic
+11-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1749,алмаг,CyrillTrans,take,,,almag,Phonemic
+11-120-166-1,nort2697,Azerbaijani (Terekeme dialect),684,билмек,CyrillTrans,"own, possess",,,"bilmek, olmag",Phonemic
+11-120-166-3,nort2697,Azerbaijani (Terekeme dialect),684,олмаг,CyrillTrans,"own, possess",,,"bilmek, olmag",Phonemic
+11-110-166-1,nort2697,Azerbaijani (Terekeme dialect),773,олмаг,CyrillTrans,have,,,olmag,Phonemic
+10-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1922,йере гермаг,CyrillTrans,land (vb),,,yere germag,Phonemic
+10-910-166-1,nort2697,Azerbaijani (Terekeme dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-166-1,nort2697,Azerbaijani (Terekeme dialect),1870,йакор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-166-1,nort2697,Azerbaijani (Terekeme dialect),786,йелкен,CyrillTrans,sail (noun),,,yelken,Phonemic
+10-870-166-1,nort2697,Azerbaijani (Terekeme dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-166-1,nort2697,Azerbaijani (Terekeme dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-166-1,nort2697,Azerbaijani (Terekeme dialect),1849,куьреклемаг,CyrillTrans,row (vb),,,küreklemag,Phonemic
+10-851-166-1,nort2697,Azerbaijani (Terekeme dialect),234,куьрег,CyrillTrans,paddle (noun),,,küreg,Phonemic
+10-850-166-1,nort2697,Azerbaijani (Terekeme dialect),108,куьрег,CyrillTrans,oar,,,küreg,Phonemic
+10-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1664,сал,CyrillTrans,raft,,,sal,Phonemic
+10-832-166-1,nort2697,Azerbaijani (Terekeme dialect),416,гайыг,CyrillTrans,outrigger,,,gayɨg,Phonemic
+10-831-166-1,nort2697,Azerbaijani (Terekeme dialect),1970,гайыг,CyrillTrans,canoe,,,gayɨg,Phonemic
+10-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1844,луьтке,CyrillTrans,boat,,,lütke,Phonemic
+10-810-166-1,nort2697,Azerbaijani (Terekeme dialect),740,геми,CyrillTrans,ship,,,gemi,Phonemic
+10-780-166-1,nort2697,Azerbaijani (Terekeme dialect),14,бойундируг,CyrillTrans,yoke,,,boyundirug,Phonemic
+10-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1769,вел,CyrillTrans,axle,,,vel,Phonemic
+10-760-166-1,nort2697,Azerbaijani (Terekeme dialect),710,чарх,CyrillTrans,wheel,,,čarx,Phonemic
+10-750-166-1,nort2697,Azerbaijani (Terekeme dialect),122,эребе,CyrillTrans,"carriage, wagon, cart",,,erebe,Phonemic
+10-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1011,курпи,CyrillTrans,bridge,,,kurpi,Phonemic
+10-720-166-1,nort2697,Azerbaijani (Terekeme dialect),2252,чигир,CyrillTrans,path,,,čigir,Phonemic
+10-710-166-1,nort2697,Azerbaijani (Terekeme dialect),667,йол,CyrillTrans,road,,,yol,Phonemic
+10-670-166-1,nort2697,Azerbaijani (Terekeme dialect),1452,ителемаг,CyrillTrans,"push, shove",,,itelemag,Phonemic
+10-660-166-1,nort2697,Azerbaijani (Terekeme dialect),367,атта гитмаг,CyrillTrans,ride,,,atta gitmag,Phonemic
+10-650-166-1,nort2697,Azerbaijani (Terekeme dialect),741,машинде гитмаг,CyrillTrans,drive,,,mašinde gitmag,Phonemic
+10-640-166-1,nort2697,Azerbaijani (Terekeme dialect),43,апармаг,CyrillTrans,lead (vb),,,aparmag,Phonemic
+10-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1127,гоьндермек,CyrillTrans,send,,,göndermek,Phonemic
+10-620-166-1,nort2697,Azerbaijani (Terekeme dialect),692,гетирмаг,CyrillTrans,bring,,,getirmag,Phonemic
+10-615-166-1,nort2697,Azerbaijani (Terekeme dialect),415,голтугунда апармаг,CyrillTrans,carry-underarm,,,goltugunda aparmag,Phonemic
+10-614-166-1,nort2697,Azerbaijani (Terekeme dialect),414,башында апармаг,CyrillTrans,carry-on-head,,,bašɨnda aparmag,Phonemic
+10-613-166-1,nort2697,Azerbaijani (Terekeme dialect),413,чигинде апармаг,CyrillTrans,carry-on-shoulder,,,čiginde aparmag,Phonemic
+10-612-166-1,nort2697,Azerbaijani (Terekeme dialect),412,йеллеринде апармаг,CyrillTrans,carry-in-hand,,,yellerinde aparmag,Phonemic
+10-610-166-1,nort2697,Azerbaijani (Terekeme dialect),700,апармаг,CyrillTrans,carry (bear),,,aparmag,Phonemic
+10-570-166-1,nort2697,Azerbaijani (Terekeme dialect),749,гирмаг,CyrillTrans,enter,,,girmag,Phonemic
+10-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1778,йахынлашмаг,CyrillTrans,approach,,,yaxɨnlašmag,Phonemic
+10-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1387,йетишмек,CyrillTrans,"reach, arrive",,,yetišmek,Phonemic
+10-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1047,далыйне бахмаг,CyrillTrans,pursue,,,dalɨyne baxmag,Phonemic
+10-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1085,далыйне гитмаг,CyrillTrans,follow,,,dalɨyne gitmag,Phonemic
+10-510-166-1,nort2697,Azerbaijani (Terekeme dialect),956,гачмаг,CyrillTrans,flee,,,"gačmag, gačarag čanɨnɨ gurtarmag",Phonemic
+10-510-166-3,nort2697,Azerbaijani (Terekeme dialect),956,гачараг чаныны гуртармаг,CyrillTrans,flee,,,"gačmag, gačarag čanɨnɨ gurtarmag",Phonemic
+10-491-166-1,nort2697,Azerbaijani (Terekeme dialect),485,йах олуб гитмаг,CyrillTrans,disappear,,,yax olub gitmag,Phonemic
+10-490-166-1,nort2697,Azerbaijani (Terekeme dialect),1752,гитмаг,CyrillTrans,"go away, depart",,,gitmag,Phonemic
+10-481-166-1,nort2697,Azerbaijani (Terekeme dialect),581,гейитмаг,CyrillTrans,come back,,,geyitmag,Phonemic
+10-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1446,гелмаг,CyrillTrans,come,,,gelmag,Phonemic
+10-474-166-1,nort2697,Azerbaijani (Terekeme dialect),1107,чихмаг,CyrillTrans,go out,,,čixmag,Phonemic
+10-473-166-1,nort2697,Azerbaijani (Terekeme dialect),2014,энмаг,CyrillTrans,go down,,,"enmag, ašagɨ, gitmag",Phonemic
+10-473-166-3,nort2697,Azerbaijani (Terekeme dialect),2014,ашагы,CyrillTrans,go down,,,"enmag, ašagɨ, gitmag",Phonemic
+10-473-166-5,nort2697,Azerbaijani (Terekeme dialect),2014,гитмаг,CyrillTrans,go down,,,"enmag, ašagɨ, gitmag",Phonemic
+10-472-166-1,nort2697,Azerbaijani (Terekeme dialect),1102,галхмаг,CyrillTrans,climb,,,"galxmag, yükselmek",Phonemic
+10-472-166-3,nort2697,Azerbaijani (Terekeme dialect),1102,йуькселмек,CyrillTrans,climb,,,"galxmag, yükselmek",Phonemic
+10-470-166-1,nort2697,Azerbaijani (Terekeme dialect),695,гитмаг,CyrillTrans,go,,,gitmag,Phonemic
+10-471-166-1,nort2697,Azerbaijani (Terekeme dialect),705,йухари галхмаг,CyrillTrans,go up,,,"yuxari galxmag, gitmag",Phonemic
+10-471-166-3,nort2697,Azerbaijani (Terekeme dialect),705,гитмаг,CyrillTrans,go up,,,"yuxari galxmag, gitmag",Phonemic
+10-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1519,гачмаг,CyrillTrans,run,,,gačmag,Phonemic
+10-451-166-1,nort2697,Azerbaijani (Terekeme dialect),366,агсамаг,CyrillTrans,limp,,,agsamag,Phonemic
+10-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1443,гитмаг,CyrillTrans,walk,,,"gitmag, gezmag",Phonemic
+10-450-166-3,nort2697,Azerbaijani (Terekeme dialect),1443,гезмаг,CyrillTrans,walk,,,"gitmag, gezmag",Phonemic
+10-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1879,ойнамаг,CyrillTrans,dance,,,oynamag,Phonemic
+10-431-166-1,nort2697,Azerbaijani (Terekeme dialect),1135,вурмаг,CyrillTrans,kick,,,vurmag,Phonemic
+10-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1829,аттулмаг,CyrillTrans,"jump, leap",,,attulmag,Phonemic
+10-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1324,суьруьнмаг,CyrillTrans,"slide, slip",,,sürünmag,Phonemic
+10-413-166-1,nort2697,Azerbaijani (Terekeme dialect),296,остурмаг,CyrillTrans,crouch,,,osturmag,Phonemic
+10-412-166-1,nort2697,Azerbaijani (Terekeme dialect),66,дизлеринуьн йуьстуьне остурмаг,CyrillTrans,kneel,,,dizlerinün yüstüne osturmag,Phonemic
+10-410-166-1,nort2697,Azerbaijani (Terekeme dialect),96,суьруьрмаг,CyrillTrans,"creep, crawl",,,sürürmag,Phonemic
+10-380-166-1,nort2697,Azerbaijani (Terekeme dialect),175,йуьфйуьрмаг,CyrillTrans,blow,,,yüfyürmag,Phonemic
+10-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1441,учмаг,CyrillTrans,fly (vb),,,učmag,Phonemic
+10-360-166-1,nort2697,Azerbaijani (Terekeme dialect),787,йелкенин алтында йуьзмаг,CyrillTrans,sail (vb),,,yelkenin altɨnda yüzmag,Phonemic
+10-352-166-1,nort2697,Azerbaijani (Terekeme dialect),365,чиммаг,CyrillTrans,splash,,,čimmag,Phonemic
+10-351-166-1,nort2697,Azerbaijani (Terekeme dialect),119,су алтында йуьзмаг,CyrillTrans,dive,,,su altɨnda yüzmag,Phonemic
+10-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1439,йуьзмаг,CyrillTrans,swim,,,yüzmag,Phonemic
+10-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1574,сувун йуьстйуьнде йуьзмаг,CyrillTrans,float,,,suvun yüstyünde yüzmag,Phonemic
+10-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1088,сува гырмаг,CyrillTrans,sink,,,"suva gɨrmag, batmag",Phonemic
+10-330-166-3,nort2697,Azerbaijani (Terekeme dialect),1088,батмаг,CyrillTrans,sink,,,"suva gɨrmag, batmag",Phonemic
+10-320-166-1,nort2697,Azerbaijani (Terekeme dialect),2003,су бурахмаг,CyrillTrans,flow,,,su buraxmag,Phonemic
+10-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1909,титретмаг,CyrillTrans,shake,,,titretmag,Phonemic
+10-252-166-1,nort2697,Azerbaijani (Terekeme dialect),702,тутмаг (топи),CyrillTrans,catch (ball),,,tutmag (topi),Phonemic
+10-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1456,атмаг,CyrillTrans,throw,,,atmag,Phonemic
+10-240-166-1,nort2697,Azerbaijani (Terekeme dialect),2253,дамла дамла туькмаг,CyrillTrans,drip,,,damla damla tükmag,Phonemic
+10-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1280,дуьшмаг,CyrillTrans,fall,,,düšmag,Phonemic
+10-220-166-1,nort2697,Azerbaijani (Terekeme dialect),501,галдурмаг,CyrillTrans,"raise, lift",,,galdurmag,Phonemic
+10-210-166-1,nort2697,Azerbaijani (Terekeme dialect),568,галхмаг,CyrillTrans,rise,,,"galxmag, yükselmek",Phonemic
+10-210-166-3,nort2697,Azerbaijani (Terekeme dialect),568,йуькселмек,CyrillTrans,rise,,,"galxmag, yükselmek",Phonemic
+10-170-166-1,nort2697,Azerbaijani (Terekeme dialect),430,пуькмаг,CyrillTrans,twist,,,pükmag,Phonemic
+10-160-166-1,nort2697,Azerbaijani (Terekeme dialect),808,дамламаг,CyrillTrans,drop (vb),,,damlamag,Phonemic
+10-150-166-1,nort2697,Azerbaijani (Terekeme dialect),827,ойнатмаг,CyrillTrans,roll,,,oynatmag,Phonemic
+10-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1113,серитмаг,CyrillTrans,"wind, wrap",,,seritmag,Phonemic
+10-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1445,ачмаг,CyrillTrans,turn around,,,ačmag,Phonemic
+10-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1588,чевуьрмаг,CyrillTrans,turn over,,,čevürmag,Phonemic
+10-110-166-1,nort2697,Azerbaijani (Terekeme dialect),765,гезмаг,CyrillTrans,move,,,gezmag,Phonemic
+9-890-166-1,nort2697,Azerbaijani (Terekeme dialect),2001,шекил чекмаг,CyrillTrans,paint (vb),,,šekil čekmag,Phonemic
+9-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1979,кески,CyrillTrans,chisel,,,keski,Phonemic
+9-880-166-1,nort2697,Azerbaijani (Terekeme dialect),647,бойа шир,CyrillTrans,paint (noun),,,boya šir,Phonemic
+9-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1002,хейкел,CyrillTrans,statue,,,xeykel,Phonemic
+9-820-166-1,nort2697,Azerbaijani (Terekeme dialect),914,хейкелтараш,CyrillTrans,sculptor,,,xeykeltaraš,Phonemic
+9-810-166-1,nort2697,Azerbaijani (Terekeme dialect),228,кесмаг,CyrillTrans,carve,,,kesmag,Phonemic
+9-791-166-1,nort2697,Azerbaijani (Terekeme dialect),360,йелпикленмек,CyrillTrans,fan (vb),,,yelpiklenmek,Phonemic
+9-790-166-1,nort2697,Azerbaijani (Terekeme dialect),1971,йелпик,CyrillTrans,fan (noun),,,yelpik,Phonemic
+9-780-166-1,nort2697,Azerbaijani (Terekeme dialect),293,сетка,CyrillTrans,netbag,,,"setka, sumka",Phonemic
+9-780-166-3,nort2697,Azerbaijani (Terekeme dialect),293,сумка,CyrillTrans,netbag,,,"setka, sumka",Phonemic
+9-771-166-1,nort2697,Azerbaijani (Terekeme dialect),292,халче,CyrillTrans,rug,,,xalče,Phonemic
+9-770-166-1,nort2697,Azerbaijani (Terekeme dialect),195,гьасир,CyrillTrans,mat,,,hasir,Phonemic
+9-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1539,себет,CyrillTrans,basket,,,sebet,Phonemic
+9-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1729,тикмаг,CyrillTrans,"weave, plait",,,tikmag,Phonemic
+9-740-166-1,nort2697,Azerbaijani (Terekeme dialect),604,шуьше,CyrillTrans,glass,,,šüše,Phonemic
+9-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1399,палчуг,CyrillTrans,clay,,,palčug,Phonemic
+9-720-166-1,nort2697,Azerbaijani (Terekeme dialect),289,форма йелемаг,CyrillTrans,mold (clay etc),,,forma yelemag,Phonemic
+9-710-166-1,nort2697,Azerbaijani (Terekeme dialect),359,дулусчи,CyrillTrans,potter,,,dulusči,Phonemic
+9-690-166-1,nort2697,Azerbaijani (Terekeme dialect),358,агдемир,CyrillTrans,"tin, tinplate",,,agdemir,Phonemic
+9-680-166-1,nort2697,Azerbaijani (Terekeme dialect),627,гургушум,CyrillTrans,lead (noun),,,gurgušum,Phonemic
+9-670-166-1,nort2697,Azerbaijani (Terekeme dialect),621,демуьр,CyrillTrans,iron,,,demür,Phonemic
+9-660-166-1,nort2697,Azerbaijani (Terekeme dialect),1825,йез,CyrillTrans,"copper, bronze",,,"yez, tunǯ",Phonemic
+9-660-166-3,nort2697,Azerbaijani (Terekeme dialect),1825,тундж,CyrillTrans,"copper, bronze",,,"yez, tunǯ",Phonemic
+9-650-166-1,nort2697,Azerbaijani (Terekeme dialect),759,гуьмуьш,CyrillTrans,silver,,,gümüš,Phonemic
+9-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1369,гизил,CyrillTrans,gold,,,gizil,Phonemic
+9-630-166-1,nort2697,Azerbaijani (Terekeme dialect),211,гелибе туькмаг,CyrillTrans,cast (metals),,,gelibe tükmag,Phonemic
+9-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1648,демирдойен,CyrillTrans,anvil,,,demirdoyen,Phonemic
+9-610-166-1,nort2697,Azerbaijani (Terekeme dialect),288,демирчихана,CyrillTrans,forge,,,demirčixana,Phonemic
+9-600-166-1,nort2697,Azerbaijani (Terekeme dialect),1001,демуьр устасы,CyrillTrans,"smith, blacksmith",,,"demür ustasɨ, demürči",Phonemic
+9-600-166-3,nort2697,Azerbaijani (Terekeme dialect),1001,демуьрчи,CyrillTrans,"smith, blacksmith",,,"demür ustasɨ, demürči",Phonemic
+9-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1069,клей,CyrillTrans,glue,,,"kley, yapišgan",Phonemic
+9-560-166-3,nort2697,Azerbaijani (Terekeme dialect),1069,йапишган,CyrillTrans,glue,,,"kley, yapišgan",Phonemic
+9-500-166-1,nort2697,Azerbaijani (Terekeme dialect),502,мих,CyrillTrans,nail,,,mix,Phonemic
+9-490-166-1,nort2697,Azerbaijani (Terekeme dialect),1481,чаггуч,CyrillTrans,hammer,,,čagguč,Phonemic
+9-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1948,машар,CyrillTrans,saw,,,mašar,Phonemic
+9-461-166-1,nort2697,Azerbaijani (Terekeme dialect),46,чихартмаг,CyrillTrans,hollow out,,,čixartmag,Phonemic
+9-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1501,дешуьк,CyrillTrans,bore,,,dešük,Phonemic
+9-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1840,тикмаг,CyrillTrans,build,,,tikmag,Phonemic
+9-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1042,агач устасы,CyrillTrans,carpenter,,,agač ustasɨ,Phonemic
+9-422-166-1,nort2697,Azerbaijani (Terekeme dialect),1361,алет,CyrillTrans,tool,,,alet,Phonemic
+9-380-166-1,nort2697,Azerbaijani (Terekeme dialect),245,суьпуьрге,CyrillTrans,broom,,,süpürge,Phonemic
+9-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1453,йумаг,CyrillTrans,wash,,,yumag,Phonemic
+9-370-166-1,nort2697,Azerbaijani (Terekeme dialect),230,суьпуьрмаг,CyrillTrans,sweep,,,süpürmag,Phonemic
+9-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1487,туькмаг,CyrillTrans,pour,,,tükmag,Phonemic
+9-343-166-1,nort2697,Azerbaijani (Terekeme dialect),1414,сигмаг,CyrillTrans,"squeeze, wring",,,sigmag,Phonemic
+9-342-166-1,nort2697,Azerbaijani (Terekeme dialect),1913,сигмаг,CyrillTrans,press,,,sigmag,Phonemic
+9-341-166-1,nort2697,Azerbaijani (Terekeme dialect),357,асмаг,CyrillTrans,hang up,,,asmag,Phonemic
+9-340-166-1,nort2697,Azerbaijani (Terekeme dialect),38,дегитмаг,CyrillTrans,spread out,,,degitmag,Phonemic
+9-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1455,дартмаг,CyrillTrans,pull,,,dartmag,Phonemic
+9-320-166-1,nort2697,Azerbaijani (Terekeme dialect),214,дартмаг,CyrillTrans,stretch,,,dartmag,Phonemic
+9-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1449,силмаг,CyrillTrans,"rub, wipe",,,silmag,Phonemic
+9-290-166-1,nort2697,Azerbaijani (Terekeme dialect),291,дерисини суймаг,CyrillTrans,"flay, skin",,,derisini suymag,Phonemic
+9-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1735,чирмаг,CyrillTrans,tear,,,čirmag,Phonemic
+9-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1437,дагитмаг,CyrillTrans,split,,,dagitmag,Phonemic
+9-261-166-1,nort2697,Azerbaijani (Terekeme dialect),588,гирилмыш,CyrillTrans,broken,,,girilmɨš,Phonemic
+9-260-166-1,nort2697,Azerbaijani (Terekeme dialect),680,гирмаг,CyrillTrans,break,,,girmag,Phonemic
+9-250-166-1,nort2697,Azerbaijani (Terekeme dialect),677,балта,CyrillTrans,ax,,,balta,Phonemic
+9-251-166-1,nort2697,Azerbaijani (Terekeme dialect),290,каьрки,CyrillTrans,adze,,,kärki,Phonemic
+9-240-166-1,nort2697,Azerbaijani (Terekeme dialect),356,гейчи,CyrillTrans,"scissors, shears",,,geyči,Phonemic
+9-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1352,пичаг,CyrillTrans,knife,,,pičag,Phonemic
+9-223-166-1,nort2697,Azerbaijani (Terekeme dialect),1434,батурмаг,CyrillTrans,stab,,,baturmag,Phonemic
+9-222-166-1,nort2697,Azerbaijani (Terekeme dialect),155,кесмаг,CyrillTrans,"chop, hew",,,kesmag,Phonemic
+9-221-166-1,nort2697,Azerbaijani (Terekeme dialect),355,азалтмаг,CyrillTrans,cut down,,,azaltmag,Phonemic
+9-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1432,кесмаг,CyrillTrans,cut,,,kesmag,Phonemic
+9-211-166-1,nort2697,Azerbaijani (Terekeme dialect),354,дуьгмаг,CyrillTrans,pound with fist,,,dügmag,Phonemic
+9-210-166-1,nort2697,Azerbaijani (Terekeme dialect),2133,вурмаг,CyrillTrans,"strike (hit, beat)",,,"vurmag, dügmag",Phonemic
+9-210-166-3,nort2697,Azerbaijani (Terekeme dialect),2133,дуьгмаг,CyrillTrans,"strike (hit, beat)",,,"vurmag, dügmag",Phonemic
+9-192-166-1,nort2697,Azerbaijani (Terekeme dialect),760,баглу,CyrillTrans,knot (noun),,,baglu,Phonemic
+9-190-166-1,nort2697,Azerbaijani (Terekeme dialect),1218,ип,CyrillTrans,"rope, cord",,,ip,Phonemic
+9-180-166-1,nort2697,Azerbaijani (Terekeme dialect),1627,зенчир,CyrillTrans,chain,,,zenčir,Phonemic
+9-161-166-1,nort2697,Azerbaijani (Terekeme dialect),352,ачмаг,CyrillTrans,untie,,,ačmag,Phonemic
+9-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1917,багламаг,CyrillTrans,"tie, bind",,,baglamag,Phonemic
+9-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1470,дуьзелтмаг,CyrillTrans,fold,,,"düzeltmag, bükmek",Phonemic
+9-150-166-3,nort2697,Azerbaijani (Terekeme dialect),1470,буькмек,CyrillTrans,fold,,,"düzeltmag, bükmek",Phonemic
+9-140-166-1,nort2697,Azerbaijani (Terekeme dialect),2004,буькмаг,CyrillTrans,bend,,,bükmag,Phonemic
+9-120-166-1,nort2697,Azerbaijani (Terekeme dialect),984,иш,CyrillTrans,work,,,iš,Phonemic
+9-110-166-1,nort2697,Azerbaijani (Terekeme dialect),2575,элемаг,CyrillTrans,"do, make",,,elemag,Phonemic
+8-980-166-1,nort2697,Azerbaijani (Terekeme dialect),641,гуьбелек,CyrillTrans,mushroom,,,gübelek,Phonemic
+8-970-166-1,nort2697,Azerbaijani (Terekeme dialect),33,гичиткан,CyrillTrans,nettle,,,gičitkan,Phonemic
+8-960-166-1,nort2697,Azerbaijani (Terekeme dialect),348,балуг зехири,CyrillTrans,fish poison (root),,,"balug zexiri, kok",Phonemic
+8-960-166-3,nort2697,Azerbaijani (Terekeme dialect),348,кок,CyrillTrans,fish poison (root),,,"balug zexiri, kok",Phonemic
+8-941-166-1,nort2697,Azerbaijani (Terekeme dialect),146,шекер панчары,CyrillTrans,sugar cane,,,šeker pančarɨ,Phonemic
+8-940-166-1,nort2697,Azerbaijani (Terekeme dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-166-1,nort2697,Azerbaijani (Terekeme dialect),864,габаг,CyrillTrans,"pumpkin, squash",,,gabag,Phonemic
+8-930-166-1,nort2697,Azerbaijani (Terekeme dialect),411,габаг,CyrillTrans,gourd,,,gabag,Phonemic
+8-912-166-1,nort2697,Azerbaijani (Terekeme dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-166-1,nort2697,Azerbaijani (Terekeme dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-166-1,nort2697,Azerbaijani (Terekeme dialect),346,инджир тереки,CyrillTrans,banyan,,,inǯir tereki,Phonemic
+8-840-166-1,nort2697,Azerbaijani (Terekeme dialect),868,банан тереки,CyrillTrans,banana tree,,,banan tereki,Phonemic
+8-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1126,ситрус мейвеси,CyrillTrans,citrus fruit,,,sitrus meyvesi,Phonemic
+8-820-166-1,nort2697,Azerbaijani (Terekeme dialect),970,какос,CyrillTrans,coconut,,,kakos,Phonemic
+8-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-166-1,nort2697,Azerbaijani (Terekeme dialect),345,шире,CyrillTrans,sap,,,šire,Phonemic
+8-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1204,габуг,CyrillTrans,bark,,,gabug,Phonemic
+8-740-166-1,nort2697,Azerbaijani (Terekeme dialect),409,эйри будаг,CyrillTrans,forked branch,,,eyri budag,Phonemic
+8-730-166-1,nort2697,Azerbaijani (Terekeme dialect),344,терегуьн гоьвдеси,CyrillTrans,tree trunk,,,teregün gövdesi,Phonemic
+8-720-166-1,nort2697,Azerbaijani (Terekeme dialect),241,коьтуьк,CyrillTrans,tree stump,,,kötük,Phonemic
+8-691-166-1,nort2697,Azerbaijani (Terekeme dialect),1124,гелйан,CyrillTrans,pipe,,,gelyan,Phonemic
+8-690-166-1,nort2697,Azerbaijani (Terekeme dialect),1689,туьтуьн ини,CyrillTrans,smoke (tobacco),,,tütün ini,Phonemic
+8-680-166-1,nort2697,Azerbaijani (Terekeme dialect),974,туьтуьн,CyrillTrans,tobacco,,,tütün,Phonemic
+8-670-166-1,nort2697,Azerbaijani (Terekeme dialect),343,салхым (узум),CyrillTrans,vine,,,salxɨm (uzum),Phonemic
+8-660-166-1,nort2697,Azerbaijani (Terekeme dialect),968,палутун туми,CyrillTrans,acorn,,,palutun tumi,Phonemic
+8-650-166-1,nort2697,Azerbaijani (Terekeme dialect),1915,шам,CyrillTrans,fir,,,"šam, yolka",Phonemic
+8-650-166-3,nort2697,Azerbaijani (Terekeme dialect),1915,йолка,CyrillTrans,fir,,,"šam, yolka",Phonemic
+8-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1740,кукнар,CyrillTrans,pine,,,kuknar,Phonemic
+8-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1855,агчагайын,CyrillTrans,birch,,,agčagayɨn,Phonemic
+8-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1950,фыстыг,CyrillTrans,beech,,,fɨstɨg,Phonemic
+8-610-166-1,nort2697,Azerbaijani (Terekeme dialect),644,палут,CyrillTrans,oak,,,palut,Phonemic
+8-600-166-1,nort2697,Azerbaijani (Terekeme dialect),906,терек,CyrillTrans,tree,,,"terek, agač",Phonemic
+8-600-166-3,nort2697,Azerbaijani (Terekeme dialect),906,агач,CyrillTrans,tree,,,"terek, agač",Phonemic
+8-570-166-1,nort2697,Azerbaijani (Terekeme dialect),239,гуьл,CyrillTrans,flower,,,gül,Phonemic
+8-560-166-1,nort2697,Azerbaijani (Terekeme dialect),628,йарнаг,CyrillTrans,leaf,,,yarnag,Phonemic
+8-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1531,будаг,CyrillTrans,branch,,,budag,Phonemic
+8-540-166-1,nort2697,Azerbaijani (Terekeme dialect),670,куьк,CyrillTrans,root,,,kük,Phonemic
+8-531-166-1,nort2697,Azerbaijani (Terekeme dialect),1486,бечермек,CyrillTrans,plant (vb),,,bečermek,Phonemic
+8-520-166-1,nort2697,Azerbaijani (Terekeme dialect),342,гуру пичан,CyrillTrans,hay,,,guru pičan,Phonemic
+8-530-166-1,nort2697,Azerbaijani (Terekeme dialect),653,от,CyrillTrans,plant (noun),,,ot,Phonemic
+8-510-166-1,nort2697,Azerbaijani (Terekeme dialect),606,от,CyrillTrans,grass,,,"ot, pičan",Phonemic
+8-510-166-3,nort2697,Azerbaijani (Terekeme dialect),606,пичан,CyrillTrans,grass,,,"ot, pičan",Phonemic
+8-480-166-1,nort2697,Azerbaijani (Terekeme dialect),926,дуьги,CyrillTrans,rice,,,dügi,Phonemic
+8-470-166-1,nort2697,Azerbaijani (Terekeme dialect),506,хечибуғда,CyrillTrans,"maize, corn",,,xečibuɣda,Phonemic
+8-460-166-1,nort2697,Azerbaijani (Terekeme dialect),60,йулаф,CyrillTrans,oats,,,yulaf,Phonemic
+8-450-166-1,nort2697,Azerbaijani (Terekeme dialect),23,човдар,CyrillTrans,rye,,,čovdar,Phonemic
+8-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1077,бугда,CyrillTrans,wheat,,,bugda,Phonemic
+8-440-166-1,nort2697,Azerbaijani (Terekeme dialect),932,арпа,CyrillTrans,barley,,,arpa,Phonemic
+8-420-166-1,nort2697,Azerbaijani (Terekeme dialect),605,бугда,CyrillTrans,"grain (barley, oats etc)",,,bugda,Phonemic
+8-410-166-1,nort2697,Azerbaijani (Terekeme dialect),611,мехсул,CyrillTrans,"crop, harvest",,,mexsul,Phonemic
+8-350-166-1,nort2697,Azerbaijani (Terekeme dialect),223,амбар,CyrillTrans,threshing-floor,,,ambar,Phonemic
+8-340-166-1,nort2697,Azerbaijani (Terekeme dialect),285,дуьймек,CyrillTrans,thresh,,,düymek,Phonemic
+8-330-166-1,nort2697,Azerbaijani (Terekeme dialect),2132,ораг,CyrillTrans,"sickle, scythe",,,"orag, čalgu",Phonemic
+8-330-166-3,nort2697,Azerbaijani (Terekeme dialect),2132,чалгу,CyrillTrans,"sickle, scythe",,,"orag, čalgu",Phonemic
+8-320-166-1,nort2697,Azerbaijani (Terekeme dialect),190,чалмаг,CyrillTrans,"mow, reap",,,"čalmag, bičmeg",Phonemic
+8-320-166-3,nort2697,Azerbaijani (Terekeme dialect),190,бичмег,CyrillTrans,"mow, reap",,,"čalmag, bičmeg",Phonemic
+8-311-166-1,nort2697,Azerbaijani (Terekeme dialect),714,тул,CyrillTrans,seed,,,tul,Phonemic
+8-310-166-1,nort2697,Azerbaijani (Terekeme dialect),748,экмаг,CyrillTrans,sow,,,ekmag,Phonemic
+8-270-166-1,nort2697,Azerbaijani (Terekeme dialect),338,дирнавуч,CyrillTrans,rake,,,dirnavuč,Phonemic
+8-260-166-1,nort2697,Azerbaijani (Terekeme dialect),337,шиш,CyrillTrans,fork,,,"šiš, yaba",Phonemic
+8-260-166-3,nort2697,Azerbaijani (Terekeme dialect),337,йаба,CyrillTrans,fork,,,"šiš, yaba",Phonemic
+8-250-166-1,nort2697,Azerbaijani (Terekeme dialect),284,гупи,CyrillTrans,hoe,,,gupi,Phonemic
+8-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1901,куьрег,CyrillTrans,shovel,,,"küreg, kakandaz",Phonemic
+8-240-166-3,nort2697,Azerbaijani (Terekeme dialect),1901,какандаз,CyrillTrans,shovel,,,"küreg, kakandaz",Phonemic
+8-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1176,куьрег,CyrillTrans,spade,,,küreg,Phonemic
+8-212-166-1,nort2697,Azerbaijani (Terekeme dialect),1794,тарла,CyrillTrans,furrow,,,"tarla, xiš",Phonemic
+8-212-166-3,nort2697,Azerbaijani (Terekeme dialect),1794,хиш,CyrillTrans,furrow,,,"tarla, xiš",Phonemic
+8-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1418,дамламаг,CyrillTrans,dig,,,damlamag,Phonemic
+8-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1921,суьрмек,CyrillTrans,plow,,,sürmek,Phonemic
+8-170-166-1,nort2697,Azerbaijani (Terekeme dialect),2002,дере,CyrillTrans,ditch,,,"dere, ganav",Phonemic
+8-170-166-3,nort2697,Azerbaijani (Terekeme dialect),2002,ганав,CyrillTrans,ditch,,,"dere, ganav",Phonemic
+8-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1690,бару,CyrillTrans,fence,,,baru,Phonemic
+8-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1541,торпаги хазуьрлемаг,CyrillTrans,"cultivate, till",,,torpagi xazürlemag,Phonemic
+8-130-166-1,nort2697,Azerbaijani (Terekeme dialect),586,бағ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-166-1,nort2697,Azerbaijani (Terekeme dialect),212,экиннуьг,CyrillTrans,field (for cultivation),,,ekinnüg,Phonemic
+8-110-166-1,nort2697,Azerbaijani (Terekeme dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-166-1,nort2697,Azerbaijani (Terekeme dialect),901,ширелуь тикинти,CyrillTrans,adobe,,,širelü tikinti,Phonemic
+7-630-166-1,nort2697,Azerbaijani (Terekeme dialect),224,аханг,CyrillTrans,mortar,,,axang,Phonemic
+7-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1006,керпуьч,CyrillTrans,brick,,,kerpüč,Phonemic
+7-580-166-1,nort2697,Azerbaijani (Terekeme dialect),876,арка,CyrillTrans,arch,,,arka,Phonemic
+7-610-166-1,nort2697,Azerbaijani (Terekeme dialect),877,дам устасы,CyrillTrans,mason,,,dam ustasɨ,Phonemic
+7-570-166-1,nort2697,Azerbaijani (Terekeme dialect),1227,доска,CyrillTrans,board,,,"doska, texte",Phonemic
+7-570-166-3,nort2697,Azerbaijani (Terekeme dialect),1227,техте,CyrillTrans,board,,,"doska, texte",Phonemic
+7-560-166-1,nort2697,Azerbaijani (Terekeme dialect),281,суьтун,CyrillTrans,"post, pole",,,"sütun, dirеk",Phonemic
+7-560-166-3,nort2697,Azerbaijani (Terekeme dialect),281,дирек,CyrillTrans,"post, pole",,,"sütun, dirеk",Phonemic
+7-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1132,боруз,CyrillTrans,beam,,,"boruz, texte",Phonemic
+7-550-166-3,nort2697,Azerbaijani (Terekeme dialect),1132,техте,CyrillTrans,beam,,,"boruz, texte",Phonemic
+7-540-166-1,nort2697,Azerbaijani (Terekeme dialect),829,стропила,CyrillTrans,rafter,,,stropila,Phonemic
+7-530-166-1,nort2697,Azerbaijani (Terekeme dialect),280,соькме,CyrillTrans,ridgepole,,,sökmе,Phonemic
+7-520-166-1,nort2697,Azerbaijani (Terekeme dialect),279,ширелуь дам,CyrillTrans,thatch,,,širelü dam,Phonemic
+7-510-166-1,nort2697,Azerbaijani (Terekeme dialect),769,дам,CyrillTrans,roof,,,dam,Phonemic
+7-480-166-1,nort2697,Azerbaijani (Terekeme dialect),205,су гиден йер,CyrillTrans,trough,,,"su giden yer, su yigen yer",Phonemic
+7-480-166-3,nort2697,Azerbaijani (Terekeme dialect),205,су йиген йер,CyrillTrans,trough,,,"su giden yer, su yigen yer",Phonemic
+7-470-166-1,nort2697,Azerbaijani (Terekeme dialect),745,тахча,CyrillTrans,shelf,,,taxča,Phonemic
+7-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-166-1,nort2697,Azerbaijani (Terekeme dialect),2131,лампочке,CyrillTrans,"lamp, torch",,,"lampočke, fonar",Phonemic
+7-450-166-3,nort2697,Azerbaijani (Terekeme dialect),2131,фонар,CyrillTrans,"lamp, torch",,,"lampočke, fonar",Phonemic
+7-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1775,устол,CyrillTrans,table,,,ustol,Phonemic
+7-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1476,устул,CyrillTrans,chair,,,ustul,Phonemic
+7-422-166-1,nort2697,Azerbaijani (Terekeme dialect),806,одейал,CyrillTrans,blanket,,,odeyal,Phonemic
+7-421-166-1,nort2697,Azerbaijani (Terekeme dialect),1044,йастуг,CyrillTrans,pillow,,,yastug,Phonemic
+7-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1663,чарпайы,CyrillTrans,bed,,,"čarpayɨ, krovat",Phonemic
+7-420-166-3,nort2697,Azerbaijani (Terekeme dialect),1663,кроват,CyrillTrans,bed,,,"čarpayɨ, krovat",Phonemic
+7-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1464,нердиван,CyrillTrans,ladder,,,nerdivan,Phonemic
+7-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1305,бача,CyrillTrans,chimney,,,bača,Phonemic
+7-320-166-1,nort2697,Azerbaijani (Terekeme dialect),859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-166-1,nort2697,Azerbaijani (Terekeme dialect),185,камин,CyrillTrans,fireplace,,,kamin,Phonemic
+7-270-166-1,nort2697,Azerbaijani (Terekeme dialect),933,дувар,CyrillTrans,wall,,,duvar,Phonemic
+7-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1632,пол,CyrillTrans,floor,,,pol,Phonemic
+7-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1375,пенчере,CyrillTrans,window,,,penčere,Phonemic
+7-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1472,ачар,CyrillTrans,key,,,ačar,Phonemic
+7-231-166-1,nort2697,Azerbaijani (Terekeme dialect),1012,килит,CyrillTrans,"latch, door-bolt",,,kilit,Phonemic
+7-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1596,ачар,CyrillTrans,lock (noun),,,ačar,Phonemic
+7-221-166-1,nort2697,Azerbaijani (Terekeme dialect),80,чаьпинаь,CyrillTrans,"doorpost, jamb",,,čäpinä,Phonemic
+7-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1450,эв,CyrillTrans,room,,,"ev, otag",Phonemic
+7-210-166-3,nort2697,Azerbaijani (Terekeme dialect),1450,отаг,CyrillTrans,room,,,"ev, otag",Phonemic
+7-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1567,гапу,CyrillTrans,"door, gate",,,"gapu, ala gapu",Phonemic
+7-220-166-3,nort2697,Azerbaijani (Terekeme dialect),1567,ала гапу,CyrillTrans,"door, gate",,,"gapu, ala gapu",Phonemic
+7-180-166-1,nort2697,Azerbaijani (Terekeme dialect),335,йигинчагчин эв,CyrillTrans,meeting house,,,yiginčagčin ev,Phonemic
+7-170-166-1,nort2697,Azerbaijani (Terekeme dialect),334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-166-1,nort2697,Azerbaijani (Terekeme dialect),408,кишилерчуьн ев,CyrillTrans,men's house,,,kišilerčün ev,Phonemic
+7-150-166-1,nort2697,Azerbaijani (Terekeme dialect),736,талвар,CyrillTrans,"yard, court",,,talvar,Phonemic
+7-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1316,чадыр,CyrillTrans,tent,,,"čadɨr, ešik",Phonemic
+7-140-166-3,nort2697,Azerbaijani (Terekeme dialect),1316,эшик,CyrillTrans,tent,,,"čadɨr, ešik",Phonemic
+7-131-166-1,nort2697,Azerbaijani (Terekeme dialect),403,кума,CyrillTrans,garden-house,,,kuma,Phonemic
+7-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1678,кума,CyrillTrans,hut,,,kuma,Phonemic
+7-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1252,эв,CyrillTrans,house,,,ev,Phonemic
+7-110-166-1,nort2697,Azerbaijani (Terekeme dialect),363,йашамаг,CyrillTrans,"dwell, live",,,yašamag,Phonemic
+6-960-166-1,nort2697,Azerbaijani (Terekeme dialect),1171,гуьзги,CyrillTrans,mirror,,,güzgi,Phonemic
+6-950-166-1,nort2697,Azerbaijani (Terekeme dialect),788,сабун,CyrillTrans,soap,,,sabun,Phonemic
+6-940-166-1,nort2697,Azerbaijani (Terekeme dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-166-1,nort2697,Azerbaijani (Terekeme dialect),151,йуьзгирхен,CyrillTrans,razor,,,yüzgirxen,Phonemic
+6-921-166-1,nort2697,Azerbaijani (Terekeme dialect),333,сач,CyrillTrans,braid,,,sač,Phonemic
+6-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1821,тараг,CyrillTrans,brush,,,tarag,Phonemic
+6-910-166-1,nort2697,Azerbaijani (Terekeme dialect),1475,тараг,CyrillTrans,comb,,,tarag,Phonemic
+6-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1021,дестимал,CyrillTrans,towel,,,destimal,Phonemic
+6-810-166-1,nort2697,Azerbaijani (Terekeme dialect),332,йалуг,CyrillTrans,"handkerchief, rag",,,"yalug, kiši yalugi",Phonemic
+6-810-166-3,nort2697,Azerbaijani (Terekeme dialect),332,киши йалуги,CyrillTrans,"handkerchief, rag",,,"yalug, kiši yalugi",Phonemic
+6-790-166-1,nort2697,Azerbaijani (Terekeme dialect),68,нехиш,CyrillTrans,tattoo,,,nexiš,Phonemic
+6-780-166-1,nort2697,Azerbaijani (Terekeme dialect),330,шал,CyrillTrans,"headband, headdress",,,"šal, baš örtüsü",Phonemic
+6-780-166-3,nort2697,Azerbaijani (Terekeme dialect),330,баш оьртуьсуь,CyrillTrans,"headband, headdress",,,"šal, baš örtüsü",Phonemic
+6-770-166-1,nort2697,Azerbaijani (Terekeme dialect),770,сирге,CyrillTrans,earring,,,sirge,Phonemic
+6-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1860,бугазлук,CyrillTrans,bead,,,bugazluk,Phonemic
+6-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1961,богазлук,CyrillTrans,necklace,,,bogazluk,Phonemic
+6-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1754,голбаг,CyrillTrans,bracelet,,,"golbag, bilеrzik",Phonemic
+6-740-166-3,nort2697,Azerbaijani (Terekeme dialect),1754,билерзик,CyrillTrans,bracelet,,,"golbag, bilеrzik",Phonemic
+6-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1374,уьзуьк,CyrillTrans,ring (for finger),,,üzük,Phonemic
+6-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1029,бахалу даш,CyrillTrans,jewel,,,baxalu daš,Phonemic
+6-710-166-1,nort2697,Azerbaijani (Terekeme dialect),917,гуьзеллуьг,CyrillTrans,"ornament, adornment",,,güzellüg,Phonemic
+6-630-166-1,nort2697,Azerbaijani (Terekeme dialect),64,санчаг,CyrillTrans,pin,,,sančag,Phonemic
+6-620-166-1,nort2697,Azerbaijani (Terekeme dialect),757,дуьгме,CyrillTrans,button,,,dügme,Phonemic
+6-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1851,чиб,CyrillTrans,pocket,,,čib,Phonemic
+6-590-166-1,nort2697,Azerbaijani (Terekeme dialect),1151,фату,CyrillTrans,veil,,,fatu,Phonemic
+6-580-166-1,nort2697,Azerbaijani (Terekeme dialect),867,йелгечлер,CyrillTrans,glove,,,yelgečler,Phonemic
+6-570-166-1,nort2697,Azerbaijani (Terekeme dialect),772,гейиш,CyrillTrans,"belt, girdle",,,geyiš,Phonemic
+6-550-166-1,nort2697,Azerbaijani (Terekeme dialect),2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-166-1,nort2697,Azerbaijani (Terekeme dialect),875,чекмечи,CyrillTrans,"shoemaker, cobbler",,,čekmeči,Phonemic
+6-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1381,айаггабы,CyrillTrans,shoe,,,ayaggabɨ,Phonemic
+6-520-166-1,nort2697,Azerbaijani (Terekeme dialect),585,потинке,CyrillTrans,boot,,,potinke,Phonemic
+6-490-166-1,nort2697,Azerbaijani (Terekeme dialect),329,чираб,CyrillTrans,"stocking, sock",,,čirab,Phonemic
+6-480-166-1,nort2697,Azerbaijani (Terekeme dialect),809,шалвар,CyrillTrans,trousers,,,šalvar,Phonemic
+6-461-166-1,nort2697,Azerbaijani (Terekeme dialect),328,йарпаглардан йуьпка,CyrillTrans,grass-skirt,,,yarpaglardan yüpka,Phonemic
+6-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1600,йуьпка,CyrillTrans,skirt,,,"yüpka, etek",Phonemic
+6-460-166-3,nort2697,Azerbaijani (Terekeme dialect),1600,етек,CyrillTrans,skirt,,,"yüpka, etek",Phonemic
+6-450-166-1,nort2697,Azerbaijani (Terekeme dialect),2012,йаха,CyrillTrans,collar,,,yaxa,Phonemic
+6-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1622,ковнег,CyrillTrans,shirt,,,kovneg,Phonemic
+6-430-166-1,nort2697,Azerbaijani (Terekeme dialect),603,палтун,CyrillTrans,coat,,,paltun,Phonemic
+6-420-166-1,nort2697,Azerbaijani (Terekeme dialect),474,хатун палтары,CyrillTrans,woman's dress,,,xatun paltarɨ,Phonemic
+6-390-166-1,nort2697,Azerbaijani (Terekeme dialect),157,бойа,CyrillTrans,dye,,,boya,Phonemic
+6-410-166-1,nort2697,Azerbaijani (Terekeme dialect),326,плаш,CyrillTrans,cloak,,,plaš,Phonemic
+6-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1161,ип,CyrillTrans,thread,,,ip,Phonemic
+6-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1382,игне,CyrillTrans,needle,,,igne,Phonemic
+6-370-166-1,nort2697,Azerbaijani (Terekeme dialect),278,биз,CyrillTrans,awl,,,biz,Phonemic
+6-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1457,тикмаг,CyrillTrans,sew,,,tikmag,Phonemic
+6-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1787,машинке,CyrillTrans,loom,,,mašinke,Phonemic
+6-330-166-1,nort2697,Azerbaijani (Terekeme dialect),133,эйирмек,CyrillTrans,weave,,,eyirmek,Phonemic
+6-320-166-1,nort2697,Azerbaijani (Terekeme dialect),277,чаре,CyrillTrans,spindle,,,čare,Phonemic
+6-310-166-1,nort2697,Azerbaijani (Terekeme dialect),121,эйиртек,CyrillTrans,spin,,,eyirtek,Phonemic
+6-290-166-1,nort2697,Azerbaijani (Terekeme dialect),629,дери,CyrillTrans,leather,,,deri,Phonemic
+6-280-166-1,nort2697,Azerbaijani (Terekeme dialect),580,йун,CyrillTrans,fur,,,yun,Phonemic
+6-270-166-1,nort2697,Azerbaijani (Terekeme dialect),325,кечаь,CyrillTrans,felt,,,kečä,Phonemic
+6-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1641,шʼолк,CyrillTrans,silk,,,šyolk,Phonemic
+6-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1850,памбуг,CyrillTrans,cotton,,,"pambug, pambug parče",Phonemic
+6-240-166-3,nort2697,Azerbaijani (Terekeme dialect),1850,памбуг парче,CyrillTrans,cotton,,,"pambug, pambug parče",Phonemic
+6-230-166-1,nort2697,Azerbaijani (Terekeme dialect),916,сатин,CyrillTrans,"linen, flax",,,"satin, satin parče",Phonemic
+6-230-166-3,nort2697,Azerbaijani (Terekeme dialect),916,сатин парче,CyrillTrans,"linen, flax",,,"satin, satin parče",Phonemic
+6-220-166-1,nort2697,Azerbaijani (Terekeme dialect),964,уьн,CyrillTrans,wool,,,"ün, ün parče",Phonemic
+6-220-166-3,nort2697,Azerbaijani (Terekeme dialect),964,уьн парче,CyrillTrans,wool,,,"ün, ün parče",Phonemic
+6-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1616,парче,CyrillTrans,cloth,,,parče,Phonemic
+6-130-166-1,nort2697,Azerbaijani (Terekeme dialect),881,тикиш тикен,CyrillTrans,tailor,,,tikiš tiken,Phonemic
+6-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1895,палтар,CyrillTrans,"clothing, clothes",,,paltar,Phonemic
+6-110-166-1,nort2697,Azerbaijani (Terekeme dialect),158,гейинмаг,CyrillTrans,put on (clothes),,,geyinmag,Phonemic
+5-971-166-1,nort2697,Azerbaijani (Terekeme dialect),1556,йумурта сауси,CyrillTrans,egg yolk,,,yumurta sausi,Phonemic
+5-970-166-1,nort2697,Azerbaijani (Terekeme dialect),744,йумурта,CyrillTrans,egg,,,yumurta,Phonemic
+5-940-166-1,nort2697,Azerbaijani (Terekeme dialect),404,брага,CyrillTrans,fermented drink,,,braga,Phonemic
+5-930-166-1,nort2697,Azerbaijani (Terekeme dialect),1639,пиво,CyrillTrans,beer,,,pivo,Phonemic
+5-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1524,чехир,CyrillTrans,wine,,,čexir,Phonemic
+5-910-166-1,nort2697,Azerbaijani (Terekeme dialect),941,бал ичкиси,CyrillTrans,mead,,,bal ičkisi,Phonemic
+5-900-166-1,nort2697,Azerbaijani (Terekeme dialect),731,ички,CyrillTrans,"beverage, drink",,,ički,Phonemic
+5-890-166-1,nort2697,Azerbaijani (Terekeme dialect),1245,кере йагы,CyrillTrans,butter,,,kere yagɨ,Phonemic
+5-880-166-1,nort2697,Azerbaijani (Terekeme dialect),1569,пендир,CyrillTrans,cheese,,,pendir,Phonemic
+5-870-166-1,nort2697,Azerbaijani (Terekeme dialect),93,сагмаг,CyrillTrans,milk (vb),,,sagmag,Phonemic
+5-850-166-1,nort2697,Azerbaijani (Terekeme dialect),862,шекер,CyrillTrans,sugar,,,šeker,Phonemic
+5-860-166-1,nort2697,Azerbaijani (Terekeme dialect),635,суьт,CyrillTrans,milk (noun),,,süt,Phonemic
+5-840-166-1,nort2697,Azerbaijani (Terekeme dialect),942,бал,CyrillTrans,honey,,,bal,Phonemic
+5-821-166-1,nort2697,Azerbaijani (Terekeme dialect),919,ачы иставут,CyrillTrans,chili pepper,,,ačɨ istavut,Phonemic
+5-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1385,иставут,CyrillTrans,pepper,,,istavut,Phonemic
+5-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1274,дуз,CyrillTrans,salt,,,duz,Phonemic
+5-791-166-1,nort2697,Azerbaijani (Terekeme dialect),323,пий,CyrillTrans,"grease, fat",,,"piy, davuz piyi",Phonemic
+5-791-166-3,nort2697,Azerbaijani (Terekeme dialect),323,давуз пийи,CyrillTrans,"grease, fat",,,"piy, davuz piyi",Phonemic
+5-790-166-1,nort2697,Azerbaijani (Terekeme dialect),1484,битки йагы,CyrillTrans,oil,,,bitki yagɨ,Phonemic
+5-780-166-1,nort2697,Azerbaijani (Terekeme dialect),1154,зейтин,CyrillTrans,olive,,,zeytin,Phonemic
+5-760-166-1,nort2697,Azerbaijani (Terekeme dialect),920,уьзуьм,CyrillTrans,grape,,,üzüm,Phonemic
+5-770-166-1,nort2697,Azerbaijani (Terekeme dialect),191,гоз,CyrillTrans,nut,,,goz,Phonemic
+5-750-166-1,nort2697,Azerbaijani (Terekeme dialect),322,инджир,CyrillTrans,fig,,,inǯir,Phonemic
+5-712-166-1,nort2697,Azerbaijani (Terekeme dialect),1966,баглу,CyrillTrans,bunch,,,baglu,Phonemic
+5-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1507,мейве,CyrillTrans,fruit,,,meyve,Phonemic
+5-700-166-1,nort2697,Azerbaijani (Terekeme dialect),593,картошка,CyrillTrans,potato,,,kartoška,Phonemic
+5-660-166-1,nort2697,Azerbaijani (Terekeme dialect),832,пахла,CyrillTrans,bean,,,paxla,Phonemic
+5-650-166-1,nort2697,Azerbaijani (Terekeme dialect),924,йешиллуьк,CyrillTrans,vegetables,,,yešillük,Phonemic
+5-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1547,суп,CyrillTrans,"soup, broth",,,"sup, šurpa",Phonemic
+5-640-166-3,nort2697,Azerbaijani (Terekeme dialect),1547,шурпа,CyrillTrans,"soup, broth",,,"sup, šurpa",Phonemic
+5-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1874,колбаса,CyrillTrans,sausage,,,"kolbasa, sosiska",Phonemic
+5-630-166-3,nort2697,Azerbaijani (Terekeme dialect),1874,сосиска,CyrillTrans,sausage,,,"kolbasa, sosiska",Phonemic
+5-610-166-1,nort2697,Azerbaijani (Terekeme dialect),634,эт,CyrillTrans,meat,,,et,Phonemic
+5-590-166-1,nort2697,Azerbaijani (Terekeme dialect),225,даьсджик,CyrillTrans,pestle,,,däsǯik,Phonemic
+5-580-166-1,nort2697,Azerbaijani (Terekeme dialect),224,самырсаг доген,CyrillTrans,mortar (2),,,samɨrsag dogen,Phonemic
+5-570-166-1,nort2697,Azerbaijani (Terekeme dialect),636,дегирман,CyrillTrans,mill,,,degirman,Phonemic
+5-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1033,басмаг,CyrillTrans,"crush, grind",,,"basmag, kesmag",Phonemic
+5-560-166-3,nort2697,Azerbaijani (Terekeme dialect),1033,кесмаг,CyrillTrans,"crush, grind",,,"basmag, kesmag",Phonemic
+5-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1594,ун,CyrillTrans,"meal, flour",,,un,Phonemic
+5-540-166-1,nort2697,Azerbaijani (Terekeme dialect),274,йогурмаг,CyrillTrans,knead,,,yogurmag,Phonemic
+5-530-166-1,nort2697,Azerbaijani (Terekeme dialect),273,хемуьр,CyrillTrans,dough,,,xemür,Phonemic
+5-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1368,чуьрег,CyrillTrans,bread,,,čüreg,Phonemic
+5-490-166-1,nort2697,Azerbaijani (Terekeme dialect),2017,гериштуьрмаг,CyrillTrans,"stir, mix",,,gerištürmag,Phonemic
+5-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1767,газмаг,CyrillTrans,scrape,,,gazmag,Phonemic
+5-470-166-1,nort2697,Azerbaijani (Terekeme dialect),86,элегден кечирмаг,CyrillTrans,"sieve, strain",,,elegden kečirmag,Phonemic
+5-460-166-1,nort2697,Azerbaijani (Terekeme dialect),275,темизлемаг,CyrillTrans,peel,,,"temizlemag, yumag",Phonemic
+5-460-166-3,nort2697,Azerbaijani (Terekeme dialect),275,йумаг,CyrillTrans,peel,,,"temizlemag, yumag",Phonemic
+5-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1833,ахшам йимаги,CyrillTrans,supper,,,axšam yimagi,Phonemic
+5-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1833,нагьар,CyrillTrans,dinner,,,"nahar, yimag",Phonemic
+5-440-166-3,nort2697,Azerbaijani (Terekeme dialect),1833,йимаги,CyrillTrans,dinner,,,"nahar, yimag",Phonemic
+5-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1322,сабах хореги,CyrillTrans,breakfast,,,sabax xoregi,Phonemic
+5-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1526,йимаг,CyrillTrans,meal (a),,,yimag,Phonemic
+5-391-166-1,nort2697,Azerbaijani (Terekeme dialect),272,маша,CyrillTrans,tongs,,,maša,Phonemic
+5-390-166-1,nort2697,Azerbaijani (Terekeme dialect),1302,шиш,CyrillTrans,fork (2),,,šiš,Phonemic
+5-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1352,пичаг,CyrillTrans,knife (2),,,pičag,Phonemic
+5-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1378,гашуг,CyrillTrans,spoon,,,gašug,Phonemic
+5-360-166-1,nort2697,Azerbaijani (Terekeme dialect),271,нелбеки,CyrillTrans,saucer,,,nelbeki,Phonemic
+5-350-166-1,nort2697,Azerbaijani (Terekeme dialect),476,чашка,CyrillTrans,"cup, drinking vessel",,,čaška,Phonemic
+5-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1530,чашка,CyrillTrans,bowl,,,čaška,Phonemic
+5-340-166-1,nort2697,Azerbaijani (Terekeme dialect),270,ибрик,CyrillTrans,"pitcher, jug",,,ibrik,Phonemic
+5-320-166-1,nort2697,Azerbaijani (Terekeme dialect),480,хейре,CyrillTrans,plate,,,xeyre,Phonemic
+5-310-166-1,nort2697,Azerbaijani (Terekeme dialect),481,хейре,CyrillTrans,dish,,,xeyre,Phonemic
+5-280-166-1,nort2697,Azerbaijani (Terekeme dialect),31,газан,CyrillTrans,pan,,,gazan,Phonemic
+5-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1462,газан,CyrillTrans,"pot, cooking vessel",,,gazan,Phonemic
+5-270-166-1,nort2697,Azerbaijani (Terekeme dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-166-1,nort2697,Azerbaijani (Terekeme dialect),183,пиширмаг,CyrillTrans,bake,,,piširmag,Phonemic
+5-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1143,пич,CyrillTrans,oven,,,pič,Phonemic
+5-230-166-1,nort2697,Azerbaijani (Terekeme dialect),2146,гызартмаг,CyrillTrans,"roast, fry",,,gɨzartmag,Phonemic
+5-220-166-1,nort2697,Azerbaijani (Terekeme dialect),792,гейнетмаг,CyrillTrans,boil (vb),,,geynetmag,Phonemic
+5-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1100,гейнетмаг,CyrillTrans,cook,,,geynetmag,Phonemic
+5-190-166-1,nort2697,Azerbaijani (Terekeme dialect),129,богмаг,CyrillTrans,choke,,,bogmag,Phonemic
+5-181-166-1,nort2697,Azerbaijani (Terekeme dialect),897,удмаг,CyrillTrans,swallow,,,udmag,Phonemic
+5-180-166-1,nort2697,Azerbaijani (Terekeme dialect),321,чейнемаг,CyrillTrans,chew,,,čeynemag,Phonemic
+5-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1421,сурмаг,CyrillTrans,suck,,,surmag,Phonemic
+5-150-166-1,nort2697,Azerbaijani (Terekeme dialect),848,йанмаг,CyrillTrans,thirst,,,yanmag,Phonemic
+5-141-166-1,nort2697,Azerbaijani (Terekeme dialect),199,ачлуг,CyrillTrans,famine,,,"ačlug, ač galmag",Phonemic
+5-141-166-3,nort2697,Azerbaijani (Terekeme dialect),199,ач галмаг,CyrillTrans,famine,,,"ačlug, ač galmag",Phonemic
+5-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1864,ачлуг,CyrillTrans,hunger,,,ačlug,Phonemic
+5-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1401,ичмаг,CyrillTrans,drink,,,ičmag,Phonemic
+5-125-166-1,nort2697,Azerbaijani (Terekeme dialect),1728,чуьруьйен,CyrillTrans,rotten,,,čürüyen,Phonemic
+5-124-166-1,nort2697,Azerbaijani (Terekeme dialect),1958,дегмейен,CyrillTrans,"green, unripe",,,degmeyen,Phonemic
+5-123-166-1,nort2697,Azerbaijani (Terekeme dialect),178,деген,CyrillTrans,ripe,,,degen,Phonemic
+5-122-166-1,nort2697,Azerbaijani (Terekeme dialect),1959,чиг эт,CyrillTrans,raw,,,čig et,Phonemic
+5-121-166-1,nort2697,Azerbaijani (Terekeme dialect),269,суда пишен,CyrillTrans,cooked,,,suda pišen,Phonemic
+5-120-166-1,nort2697,Azerbaijani (Terekeme dialect),256,йимаг,CyrillTrans,food,,,yimag,Phonemic
+5-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1336,йимаг,CyrillTrans,eat,,,yimag,Phonemic
+4-990-166-1,nort2697,Azerbaijani (Terekeme dialect),590,чиплаг,CyrillTrans,"naked, bare",,,čiplag,Phonemic
+4-970-166-1,nort2697,Azerbaijani (Terekeme dialect),1653,кор,CyrillTrans,blind,,,kor,Phonemic
+4-980-166-1,nort2697,Azerbaijani (Terekeme dialect),1463,серхаи,CyrillTrans,intoxicated,,,"serxai, piyan",Phonemic
+4-980-166-3,nort2697,Azerbaijani (Terekeme dialect),1463,пийан,CyrillTrans,intoxicated,,,"serxai, piyan",Phonemic
+4-960-166-1,nort2697,Azerbaijani (Terekeme dialect),1666,лал,CyrillTrans,mute,,,lal,Phonemic
+4-950-166-1,nort2697,Azerbaijani (Terekeme dialect),996,кар,CyrillTrans,deaf,,,kar,Phonemic
+4-930-166-1,nort2697,Azerbaijani (Terekeme dialect),1125,кечел,CyrillTrans,bald,,,kečel,Phonemic
+4-940-166-1,nort2697,Azerbaijani (Terekeme dialect),320,агсамаг,CyrillTrans,lame,,,agsamag,Phonemic
+4-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1564,тенбел,CyrillTrans,lazy,,,tenbel,Phonemic
+4-912-166-1,nort2697,Azerbaijani (Terekeme dialect),168,динленмаг,CyrillTrans,rest,,,dinlenmag,Phonemic
+4-910-166-1,nort2697,Azerbaijani (Terekeme dialect),1757,йорулан,CyrillTrans,"tired, weary",,,yorulan,Phonemic
+4-890-166-1,nort2697,Azerbaijani (Terekeme dialect),655,зехер,CyrillTrans,poison,,,zexer,Phonemic
+4-880-166-1,nort2697,Azerbaijani (Terekeme dialect),1372,дерман,CyrillTrans,"medicine, drug",,,"derman, temulat",Phonemic
+4-880-166-3,nort2697,Azerbaijani (Terekeme dialect),1372,темулат,CyrillTrans,"medicine, drug",,,"derman, temulat",Phonemic
+4-870-166-1,nort2697,Azerbaijani (Terekeme dialect),597,дохтур,CyrillTrans,physician,,,"doxtur, vrač",Phonemic
+4-870-166-3,nort2697,Azerbaijani (Terekeme dialect),597,врач,CyrillTrans,physician,,,"doxtur, vrač",Phonemic
+4-860-166-1,nort2697,Azerbaijani (Terekeme dialect),499,сагалтмаг,CyrillTrans,"cure, heal",,,sagaltmag,Phonemic
+4-858-166-1,nort2697,Azerbaijani (Terekeme dialect),497,эзме,CyrillTrans,scar,,,ezme,Phonemic
+4-857-166-1,nort2697,Azerbaijani (Terekeme dialect),1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-166-1,nort2697,Azerbaijani (Terekeme dialect),793,чубан,CyrillTrans,boil (noun),,,čuban,Phonemic
+4-855-166-1,nort2697,Azerbaijani (Terekeme dialect),1584,габуг,CyrillTrans,blister,,,gabug,Phonemic
+4-854-166-1,nort2697,Azerbaijani (Terekeme dialect),148,йара,CyrillTrans,itch,,,yara,Phonemic
+4-853-166-1,nort2697,Azerbaijani (Terekeme dialect),1903,шиш,CyrillTrans,swelling,,,šiš,Phonemic
+4-852-166-1,nort2697,Azerbaijani (Terekeme dialect),1148,гырылма,CyrillTrans,bruise,,,gɨrɨlma,Phonemic
+4-850-166-1,nort2697,Azerbaijani (Terekeme dialect),1109,йара,CyrillTrans,"wound, sore",,,"yara, yazva",Phonemic
+4-850-166-3,nort2697,Azerbaijani (Terekeme dialect),1109,йазва,CyrillTrans,"wound, sore",,,"yara, yazva",Phonemic
+4-843-166-1,nort2697,Azerbaijani (Terekeme dialect),102,совугламаг,CyrillTrans,cold (catarrh),,,sovuglamag,Phonemic
+4-842-166-1,nort2697,Azerbaijani (Terekeme dialect),1957,зоб,CyrillTrans,goiter,,,"zob, ur",Phonemic
+4-842-166-3,nort2697,Azerbaijani (Terekeme dialect),1957,ур,CyrillTrans,goiter,,,"zob, ur",Phonemic
+4-841-166-1,nort2697,Azerbaijani (Terekeme dialect),1534,атеш,CyrillTrans,fever,,,"ateš, atešlüg",Phonemic
+4-841-166-3,nort2697,Azerbaijani (Terekeme dialect),1534,атешлуьг,CyrillTrans,fever,,,"ateš, atešlüg",Phonemic
+4-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1847,хесте,CyrillTrans,"sick, sickness",,,"xeste, xestelüg",Phonemic
+4-840-166-3,nort2697,Azerbaijani (Terekeme dialect),1847,хестелуьг,CyrillTrans,"sick, sickness",,,"xeste, xestelüg",Phonemic
+4-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1364,саглам,CyrillTrans,"well, health",,,"saglam, saglug",Phonemic
+4-830-166-3,nort2697,Azerbaijani (Terekeme dialect),1364,саглуг,CyrillTrans,"well, health",,,"saglam, saglug",Phonemic
+4-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1601,ачиз,CyrillTrans,weak,,,ačiz,Phonemic
+4-810-166-1,nort2697,Azerbaijani (Terekeme dialect),785,гуьчлуь,CyrillTrans,"strong, mighty, powerful",,,"güčlü, böyük",Phonemic
+4-810-166-3,nort2697,Azerbaijani (Terekeme dialect),785,боьйуьк,CyrillTrans,"strong, mighty, powerful",,,"güčlü, böyük",Phonemic
+4-790-166-1,nort2697,Azerbaijani (Terekeme dialect),1773,гебир,CyrillTrans,"grave, tomb",,,gebir,Phonemic
+4-780-166-1,nort2697,Azerbaijani (Terekeme dialect),1719,басдурмаг,CyrillTrans,bury (the dead),,,basdurmag,Phonemic
+4-770-166-1,nort2697,Azerbaijani (Terekeme dialect),767,мейит,CyrillTrans,corpse,,,meyit,Phonemic
+4-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1417,оьлдуьрмеҝ,CyrillTrans,kill,,,öldürmegʲ,Phonemic
+4-751-166-1,nort2697,Azerbaijani (Terekeme dialect),1904,батан,CyrillTrans,drowned,,,"batan, batan adam",Phonemic
+4-751-166-3,nort2697,Azerbaijani (Terekeme dialect),1904,батан адам,CyrillTrans,drowned,,,"batan, batan adam",Phonemic
+4-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1494,олмеҝ,CyrillTrans,"die, dead",,,"olmegʲ, ölü",Phonemic
+4-750-166-3,nort2697,Azerbaijani (Terekeme dialect),1494,оьлуь,CyrillTrans,"die, dead",,,"olmegʲ, ölü",Phonemic
+4-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1422,йашамаг,CyrillTrans,"live, living, life",,,"yašamag, čanlɨ, hayat",Phonemic
+4-740-166-3,nort2697,Azerbaijani (Terekeme dialect),1422,чанлы,CyrillTrans,"live, living, life",,,"yašamag, čanlɨ, hayat",Phonemic
+4-740-166-5,nort2697,Azerbaijani (Terekeme dialect),1422,гьайат,CyrillTrans,"live, living, life",,,"yašamag, čanlɨ, hayat",Phonemic
+4-732-166-1,nort2697,Azerbaijani (Terekeme dialect),1087,богаз олмаг,CyrillTrans,conceive,,,bogaz olmag,Phonemic
+4-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1123,богаз,CyrillTrans,pregnant,,,bogaz,Phonemic
+4-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1090,догмаг,CyrillTrans,born (to be),,,dogmag,Phonemic
+4-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1152,догуттурмаг,CyrillTrans,beget (of father),,,dogutturmag,Phonemic
+4-690-166-1,nort2697,Azerbaijani (Terekeme dialect),138,чиммаг,CyrillTrans,bathe,,,čimmag,Phonemic
+4-680-166-1,nort2697,Azerbaijani (Terekeme dialect),52,титремаг,CyrillTrans,shiver,,,titremag,Phonemic
+4-670-166-1,nort2697,Azerbaijani (Terekeme dialect),1785,сикишмаг,CyrillTrans,have sexual intercourse,,,sikišmag,Phonemic
+4-660-166-1,nort2697,Azerbaijani (Terekeme dialect),676,сичмаг,CyrillTrans,defecate,,,sičmag,Phonemic
+4-650-166-1,nort2697,Azerbaijani (Terekeme dialect),592,симаг,CyrillTrans,urinate,,,simag,Phonemic
+4-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1159,уссурмаг,CyrillTrans,break wind,,,ussurmag,Phonemic
+4-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1602,уьхудан дурмаг,CyrillTrans,wake up,,,üxudan durmag,Phonemic
+4-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1920,йуху гуьрмек,CyrillTrans,dream,,,"yuxu gürmek, xeyal gurmag",Phonemic
+4-620-166-3,nort2697,Azerbaijani (Terekeme dialect),1920,хейал гурмаг,CyrillTrans,dream,,,"yuxu gürmek, xeyal gurmag",Phonemic
+4-612-166-1,nort2697,Azerbaijani (Terekeme dialect),1983,хурулдамаг,CyrillTrans,snore,,,xuruldamag,Phonemic
+4-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1585,йатмаг,CyrillTrans,sleep,,,"yatmag, yüxlamag",Phonemic
+4-610-166-3,nort2697,Azerbaijani (Terekeme dialect),1585,йуьхламаг,CyrillTrans,sleep,,,"yatmag, yüxlamag",Phonemic
+4-591-166-1,nort2697,Azerbaijani (Terekeme dialect),268,агзинден су ахмаг,CyrillTrans,dribble,,,agzinden su axmag,Phonemic
+4-590-166-1,nort2697,Azerbaijani (Terekeme dialect),319,йаламаг,CyrillTrans,lick,,,yalamag,Phonemic
+4-580-166-1,nort2697,Azerbaijani (Terekeme dialect),1403,дишлемаг,CyrillTrans,bite,,,dišlemag,Phonemic
+4-570-166-1,nort2697,Azerbaijani (Terekeme dialect),1278,гейтармаг,CyrillTrans,vomit,,,geytarmag,Phonemic
+4-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1440,туфурмек,CyrillTrans,spit,,,tufurmek,Phonemic
+4-550-166-1,nort2697,Azerbaijani (Terekeme dialect),126,теллемек,CyrillTrans,perspire,,,tellemek,Phonemic
+4-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1621,эгсирмаг,CyrillTrans,sneeze,,,egsirmag,Phonemic
+4-530-166-1,nort2697,Azerbaijani (Terekeme dialect),879,оксуьрмаг,CyrillTrans,cough,,,oksürmag,Phonemic
+4-521-166-1,nort2697,Azerbaijani (Terekeme dialect),162,хиг-хиг,CyrillTrans,hiccough,,,xig-xig,Phonemic
+4-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1028,эснемаг,CyrillTrans,"yawn, gape",,,esnemag,Phonemic
+4-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1407,нефес алмаг,CyrillTrans,"breathe, breath",,,nefes almag,Phonemic
+4-492-166-1,nort2697,Azerbaijani (Terekeme dialect),1222,сик,CyrillTrans,penis,,,sik,Phonemic
+4-490-166-1,nort2697,Azerbaijani (Terekeme dialect),797,дашаглар,CyrillTrans,testicle,,,dašaglar,Phonemic
+4-470-166-1,nort2697,Azerbaijani (Terekeme dialect),804,ушалглыг,CyrillTrans,womb,,,ušalglɨg,Phonemic
+4-464-166-1,nort2697,Azerbaijani (Terekeme dialect),834,гуьт,CyrillTrans,buttocks,,,güt,Phonemic
+4-463-166-1,nort2697,Azerbaijani (Terekeme dialect),1745,бел,CyrillTrans,hip,,,bel,Phonemic
+4-462-166-1,nort2697,Azerbaijani (Terekeme dialect),1681,беден,CyrillTrans,waist,,,beden,Phonemic
+4-461-166-1,nort2697,Azerbaijani (Terekeme dialect),1991,багырсаг,CyrillTrans,"intestines, guts",,,bagɨrsag,Phonemic
+4-460-166-1,nort2697,Azerbaijani (Terekeme dialect),819,меде,CyrillTrans,stomach,,,mede,Phonemic
+4-452-166-1,nort2697,Azerbaijani (Terekeme dialect),1744,далаг,CyrillTrans,spleen,,,dalag,Phonemic
+4-451-166-1,nort2697,Azerbaijani (Terekeme dialect),489,бобрек,CyrillTrans,kidney,,,bobrek,Phonemic
+4-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1224,далаг,CyrillTrans,liver,,,dalag,Phonemic
+4-441-166-1,nort2697,Azerbaijani (Terekeme dialect),688,чигер,CyrillTrans,lung,,,čiger,Phonemic
+4-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1223,йуьрек,CyrillTrans,heart,,,yürek,Phonemic
+4-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1838,гобек,CyrillTrans,navel,,,gobek,Phonemic
+4-420-166-1,nort2697,Azerbaijani (Terekeme dialect),154,меме,CyrillTrans,udder,,,"meme, emček",Phonemic
+4-420-166-3,nort2697,Azerbaijani (Terekeme dialect),154,эмчек,CyrillTrans,udder,,,"meme, emček",Phonemic
+4-412-166-1,nort2697,Azerbaijani (Terekeme dialect),796,меме,CyrillTrans,"nipple, teat",,,"meme, emček",Phonemic
+4-412-166-3,nort2697,Azerbaijani (Terekeme dialect),796,эмчек,CyrillTrans,"nipple, teat",,,"meme, emček",Phonemic
+4-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1402,гадын гоьгуьсуь,CyrillTrans,breast (of woman),,,"gadɨn gögüsü, memesi",Phonemic
+4-410-166-3,nort2697,Azerbaijani (Terekeme dialect),1402,мемеси,CyrillTrans,breast (of woman),,,"gadɨn gögüsü, memesi",Phonemic
+4-400-166-1,nort2697,Azerbaijani (Terekeme dialect),1592,гоьгуьс,CyrillTrans,chest,,,gögüs,Phonemic
+4-393-166-1,nort2697,Azerbaijani (Terekeme dialect),1201,йелек,CyrillTrans,feather,,,yelek,Phonemic
+4-392-166-1,nort2697,Azerbaijani (Terekeme dialect),1257,генет,CyrillTrans,wing,,,genet,Phonemic
+4-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1389,бармагын изи,CyrillTrans,toe,,,barmagɨn izi,Phonemic
+4-374-166-1,nort2697,Azerbaijani (Terekeme dialect),318,айагын изи,CyrillTrans,footprint,,,ayagɨn izi,Phonemic
+4-372-166-1,nort2697,Azerbaijani (Terekeme dialect),980,айаг алты,CyrillTrans,heel,,,ayag altɨ,Phonemic
+4-371-166-1,nort2697,Azerbaijani (Terekeme dialect),803,топуг,CyrillTrans,ankle,,,topug,Phonemic
+4-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1301,айаг алты,CyrillTrans,foot,,,ayag altɨ,Phonemic
+4-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1371,диз,CyrillTrans,knee,,,diz,Phonemic
+4-352-166-1,nort2697,Azerbaijani (Terekeme dialect),498,бут,CyrillTrans,calf of leg,,,but,Phonemic
+4-351-166-1,nort2697,Azerbaijani (Terekeme dialect),800,бел,CyrillTrans,thigh,,,bel,Phonemic
+4-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1297,гич,CyrillTrans,leg,,,"gič, ayag",Phonemic
+4-350-166-3,nort2697,Azerbaijani (Terekeme dialect),1297,айаг,CyrillTrans,leg,,,"gič, ayag",Phonemic
+4-345-166-1,nort2697,Azerbaijani (Terekeme dialect),72,дирнаг,CyrillTrans,claw,,,dirnag,Phonemic
+4-344-166-1,nort2697,Azerbaijani (Terekeme dialect),1258,дирнаг,CyrillTrans,fingernail,,,dirnag,Phonemic
+4-342-166-1,nort2697,Azerbaijani (Terekeme dialect),1781,боьйуьк бармаг,CyrillTrans,thumb,,,böyük barmag,Phonemic
+4-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1303,бармаг,CyrillTrans,finger,,,barmag,Phonemic
+4-331-166-1,nort2697,Azerbaijani (Terekeme dialect),1183,авуч,CyrillTrans,palm of hand,,,avuč,Phonemic
+4-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1277,билег,CyrillTrans,hand,,,bileg,Phonemic
+4-321-166-1,nort2697,Azerbaijani (Terekeme dialect),799,билег,CyrillTrans,wrist,,,bileg,Phonemic
+4-320-166-1,nort2697,Azerbaijani (Terekeme dialect),981,дирсек,CyrillTrans,elbow,,,dirsek,Phonemic
+4-312-166-1,nort2697,Azerbaijani (Terekeme dialect),1886,гулунун арты,CyrillTrans,armpit,,,gulunun artɨ,Phonemic
+4-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1673,эл,CyrillTrans,arm,,,el,Phonemic
+4-302-166-1,nort2697,Azerbaijani (Terekeme dialect),1994,куьрек,CyrillTrans,collarbone,,,kürek,Phonemic
+4-301-166-1,nort2697,Azerbaijani (Terekeme dialect),172,куьрек,CyrillTrans,shoulderblade,,,kürek,Phonemic
+4-300-166-1,nort2697,Azerbaijani (Terekeme dialect),1482,чигин,CyrillTrans,shoulder,,,čigin,Phonemic
+4-290-166-1,nort2697,Azerbaijani (Terekeme dialect),1346,богаз,CyrillTrans,throat,,,bogaz,Phonemic
+4-281-166-1,nort2697,Azerbaijani (Terekeme dialect),1347,бойунун далы,CyrillTrans,nape of neck,,,boyunun dalɨ,Phonemic
+4-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1333,бойун,CyrillTrans,neck,,,boyun,Phonemic
+4-272-166-1,nort2697,Azerbaijani (Terekeme dialect),1049,коклуь диш,CyrillTrans,molartooth,,,koklü diš,Phonemic
+4-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1380,диш,CyrillTrans,tooth,,,diš,Phonemic
+4-271-166-1,nort2697,Azerbaijani (Terekeme dialect),139,неглер,CyrillTrans,gums,,,negler,Phonemic
+4-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1205,дил,CyrillTrans,tongue,,,dil,Phonemic
+4-250-166-1,nort2697,Azerbaijani (Terekeme dialect),478,додаг,CyrillTrans,lip,,,dodag,Phonemic
+4-241-166-1,nort2697,Azerbaijani (Terekeme dialect),73,чанаг,CyrillTrans,beak,,,čanag,Phonemic
+4-240-166-1,nort2697,Azerbaijani (Terekeme dialect),674,агыз,CyrillTrans,mouth,,,agɨz,Phonemic
+4-232-166-1,nort2697,Azerbaijani (Terekeme dialect),208,бурну пуху,CyrillTrans,mucus (nasal),,,burnu puxu,Phonemic
+4-231-166-1,nort2697,Azerbaijani (Terekeme dialect),1178,бурун дешуьклери,CyrillTrans,nostril,,,burun dešükleri,Phonemic
+4-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1221,бурун,CyrillTrans,nose,,,burun,Phonemic
+4-222-166-1,nort2697,Azerbaijani (Terekeme dialect),32,гулагун кири,CyrillTrans,earwax,,,gulagun kiri,Phonemic
+4-221-166-1,nort2697,Azerbaijani (Terekeme dialect),18,гулагун диби,CyrillTrans,earlobe,,,gulagun dibi,Phonemic
+4-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1247,гулаг,CyrillTrans,ear,,,gulag,Phonemic
+4-215-166-1,nort2697,Azerbaijani (Terekeme dialect),1655,гуьзлерин гамаштырмаг,CyrillTrans,blink,,,güzlerin gamaštɨrmag,Phonemic
+4-214-166-1,nort2697,Azerbaijani (Terekeme dialect),1540,кирпик,CyrillTrans,eyelash,,,kirpik,Phonemic
+4-213-166-1,nort2697,Azerbaijani (Terekeme dialect),17,кирпик,CyrillTrans,eyelid,,,kirpik,Phonemic
+4-212-166-1,nort2697,Azerbaijani (Terekeme dialect),1173,гаш,CyrillTrans,eyebrow,,,gaš,Phonemic
+4-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1248,гуьз,CyrillTrans,eye,,,güz,Phonemic
+4-208-166-1,nort2697,Azerbaijani (Terekeme dialect),1730,йанаг,CyrillTrans,cheek,,,yanag,Phonemic
+4-209-166-1,nort2697,Azerbaijani (Terekeme dialect),1510,чананун алты,CyrillTrans,chin,,,čananun altɨ,Phonemic
+4-205-166-1,nort2697,Azerbaijani (Terekeme dialect),123,алны,CyrillTrans,forehead,,,alnɨ,Phonemic
+4-207-166-1,nort2697,Azerbaijani (Terekeme dialect),798,чана,CyrillTrans,jaw,,,čana,Phonemic
+4-204-166-1,nort2697,Azerbaijani (Terekeme dialect),1560,йуьз,CyrillTrans,face,,,yüz,Phonemic
+4-203-166-1,nort2697,Azerbaijani (Terekeme dialect),1583,бейин,CyrillTrans,brain,,,beyin,Phonemic
+4-201-166-1,nort2697,Azerbaijani (Terekeme dialect),1604,алын,CyrillTrans,"side of head, temple",,,alɨn,Phonemic
+4-202-166-1,nort2697,Azerbaijani (Terekeme dialect),1605,баш галири,CyrillTrans,skull,,,baš galiri,Phonemic
+4-200-166-1,nort2697,Azerbaijani (Terekeme dialect),1256,баш,CyrillTrans,head,,,baš,Phonemic
+4-191-166-1,nort2697,Azerbaijani (Terekeme dialect),805,бел суьмуьги,CyrillTrans,spine,,,bel sümügi,Phonemic
+4-190-166-1,nort2697,Azerbaijani (Terekeme dialect),1291,дал,CyrillTrans,back,,,"dal, arxa",Phonemic
+4-190-166-3,nort2697,Azerbaijani (Terekeme dialect),1291,арха,CyrillTrans,back,,,"dal, arxa",Phonemic
+4-180-166-1,nort2697,Azerbaijani (Terekeme dialect),1220,гуйруг,CyrillTrans,tail,,,guyrug,Phonemic
+4-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1393,бойнуз,CyrillTrans,horn,,,boynuz,Phonemic
+4-162-166-1,nort2697,Azerbaijani (Terekeme dialect),801,габурга,CyrillTrans,rib,,,gaburga,Phonemic
+4-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1394,суьмуьк,CyrillTrans,bone,,,sümük,Phonemic
+4-151-166-1,nort2697,Azerbaijani (Terekeme dialect),525,дамар,CyrillTrans,"vein, artery",,,damar,Phonemic
+4-150-166-1,nort2697,Azerbaijani (Terekeme dialect),946,ган,CyrillTrans,blood,,,gan,Phonemic
+4-146-166-1,nort2697,Azerbaijani (Terekeme dialect),576,кепек,CyrillTrans,dandruff,,,kepek,Phonemic
+4-145-166-1,nort2697,Azerbaijani (Terekeme dialect),36,алын туьклери,CyrillTrans,pubic hair,,,alɨn tükleri,Phonemic
+4-144-166-1,nort2697,Azerbaijani (Terekeme dialect),189,этиндеки туьклер,CyrillTrans,body hair,,,etindeki tükler,Phonemic
+4-142-166-1,nort2697,Azerbaijani (Terekeme dialect),678,саггал,CyrillTrans,beard,,,saggal,Phonemic
+4-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1040,башындаки туьклер (сачлар),CyrillTrans,hair (head),,,bašɨndaki tükler (sačlar),Phonemic
+4-130-166-1,nort2697,Azerbaijani (Terekeme dialect),2259,джан,CyrillTrans,flesh,,,"ǯan, et",Phonemic
+4-130-166-3,nort2697,Azerbaijani (Terekeme dialect),2259,эт,CyrillTrans,flesh,,,"ǯan, et",Phonemic
+4-120-166-1,nort2697,Azerbaijani (Terekeme dialect),763,дери,CyrillTrans,"skin, hide",,,deri,Phonemic
+4-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1480,джан,CyrillTrans,body,,,"ǯan, et",Phonemic
+4-110-166-3,nort2697,Azerbaijani (Terekeme dialect),1480,эт,CyrillTrans,body,,,"ǯan, et",Phonemic
+3-980-166-1,nort2697,Azerbaijani (Terekeme dialect),112,тысбага,CyrillTrans,turtle,,,"tɨsbaga, čanaglubagga",Phonemic
+3-980-166-3,nort2697,Azerbaijani (Terekeme dialect),112,чанаглубагга,CyrillTrans,turtle,,,"tɨsbaga, čanaglubagga",Phonemic
+3-970-166-1,nort2697,Azerbaijani (Terekeme dialect),1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-166-1,nort2697,Azerbaijani (Terekeme dialect),632,сичавул,CyrillTrans,lizard,,,sičavul,Phonemic
+3-950-166-1,nort2697,Azerbaijani (Terekeme dialect),503,гурбага,CyrillTrans,frog,,,gurbaga,Phonemic
+3-940-166-1,nort2697,Azerbaijani (Terekeme dialect),1543,илбис,CyrillTrans,snail,,,ilbis,Phonemic
+3-930-166-1,nort2697,Azerbaijani (Terekeme dialect),607,шала джиджирма,CyrillTrans,grasshopper,,,šala ǯiǯirma,Phonemic
+3-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1791,кепенек,CyrillTrans,butterfly,,,kepenek,Phonemic
+3-910-166-1,nort2697,Azerbaijani (Terekeme dialect),206,ишилданан гурт,CyrillTrans,firefly,,,išildanan gurt,Phonemic
+3-850-166-1,nort2697,Azerbaijani (Terekeme dialect),730,илан,CyrillTrans,snake,,,ilan,Phonemic
+3-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1219,гурт,CyrillTrans,worm,,,gurt,Phonemic
+3-832-166-1,nort2697,Azerbaijani (Terekeme dialect),1509,гарачибин,CyrillTrans,mosquito,,,"garačibin, muček",Phonemic
+3-832-166-3,nort2697,Azerbaijani (Terekeme dialect),1509,мучек,CyrillTrans,mosquito,,,"garačibin, muček",Phonemic
+3-831-166-1,nort2697,Azerbaijani (Terekeme dialect),95,гарачибин,CyrillTrans,"sandfly (midge), gnat",,,"garačibin, muček",Phonemic
+3-831-166-3,nort2697,Azerbaijani (Terekeme dialect),95,мучек,CyrillTrans,"sandfly (midge), gnat",,,"garačibin, muček",Phonemic
+3-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1504,чибин,CyrillTrans,fly,,,čibin,Phonemic
+3-823-166-1,nort2697,Azerbaijani (Terekeme dialect),1517,чирчибин,CyrillTrans,wasp,,,čirčibin,Phonemic
+3-822-166-1,nort2697,Azerbaijani (Terekeme dialect),88,бал пердеси,CyrillTrans,beehive,,,bal perdesi,Phonemic
+3-821-166-1,nort2697,Azerbaijani (Terekeme dialect),1931,перде,CyrillTrans,beeswax,,,perde,Phonemic
+3-820-166-1,nort2697,Azerbaijani (Terekeme dialect),665,бал чибини,CyrillTrans,bee,,,bal čibini,Phonemic
+3-819-166-1,nort2697,Azerbaijani (Terekeme dialect),1065,тор,CyrillTrans,spider web,,,tor,Phonemic
+3-818-166-1,nort2697,Azerbaijani (Terekeme dialect),843,оьруьмчек,CyrillTrans,spider,,,örümček,Phonemic
+3-817-166-1,nort2697,Azerbaijani (Terekeme dialect),587,гарышга,CyrillTrans,ant,,,garɨšga,Phonemic
+3-816-166-1,nort2697,Azerbaijani (Terekeme dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-166-1,nort2697,Azerbaijani (Terekeme dialect),1538,агреб,CyrillTrans,scorpion,,,agreb,Phonemic
+3-814-166-1,nort2697,Azerbaijani (Terekeme dialect),1974,гирхайаг,CyrillTrans,centipede,,,girxayag,Phonemic
+3-813-166-1,nort2697,Azerbaijani (Terekeme dialect),232,бит,CyrillTrans,flea,,,bit,Phonemic
+3-812-166-1,nort2697,Azerbaijani (Terekeme dialect),267,cирке,CyrillTrans,nit (louse egg),,,sirke,Phonemic
+3-811-166-1,nort2697,Azerbaijani (Terekeme dialect),1392,бит,CyrillTrans,louse,,,bit,Phonemic
+3-810-166-1,nort2697,Azerbaijani (Terekeme dialect),620,боьчеклер,CyrillTrans,insect,,,böčekler,Phonemic
+3-780-166-1,nort2697,Azerbaijani (Terekeme dialect),1871,деве,CyrillTrans,camel,,,deve,Phonemic
+3-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1350,меймун,CyrillTrans,monkey,,,meymun,Phonemic
+3-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1936,марал,CyrillTrans,deer,,,"maral, ǯeyran",Phonemic
+3-750-166-3,nort2697,Azerbaijani (Terekeme dialect),1936,джейран,CyrillTrans,deer,,,"maral, ǯeyran",Phonemic
+3-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1312,туьлки,CyrillTrans,fox,,,tülki,Phonemic
+3-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1820,айу,CyrillTrans,bear,,,ayu,Phonemic
+3-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-166-1,nort2697,Azerbaijani (Terekeme dialect),522,гурт,CyrillTrans,wolf,,,gurt,Phonemic
+3-664-166-1,nort2697,Azerbaijani (Terekeme dialect),1910,су ити,CyrillTrans,stingray,,,su iti,Phonemic
+3-663-166-1,nort2697,Azerbaijani (Terekeme dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-166-1,nort2697,Azerbaijani (Terekeme dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-166-1,nort2697,Azerbaijani (Terekeme dialect),1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-166-1,nort2697,Azerbaijani (Terekeme dialect),598,ракушка,CyrillTrans,shell,,,rakuška,Phonemic
+3-654-166-1,nort2697,Azerbaijani (Terekeme dialect),1916,балуг чигерлери,CyrillTrans,gill,,,balug čigerleri,Phonemic
+3-653-166-1,nort2697,Azerbaijani (Terekeme dialect),266,балуг пули,CyrillTrans,fishscale,,,balug puli,Phonemic
+3-652-166-1,nort2697,Azerbaijani (Terekeme dialect),213,балуг генеди,CyrillTrans,fin (dorsal),,,balug genedi,Phonemic
+3-650-166-1,nort2697,Azerbaijani (Terekeme dialect),227,балуг,CyrillTrans,fish,,,balug,Phonemic
+3-630-166-1,nort2697,Azerbaijani (Terekeme dialect),2139,сычан,CyrillTrans,"mouse, rat",,,"sɨčan, krɨsa",Phonemic
+3-630-166-3,nort2697,Azerbaijani (Terekeme dialect),2139,крыса,CyrillTrans,"mouse, rat",,,"sɨčan, krɨsa",Phonemic
+3-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1208,пишик,CyrillTrans,cat,,,pišik,Phonemic
+3-614-166-1,nort2697,Azerbaijani (Terekeme dialect),1136,давшан,CyrillTrans,rabbit,,,davšan,Phonemic
+3-610-166-1,nort2697,Azerbaijani (Terekeme dialect),2009,ит,CyrillTrans,dog,,,"it, köpek",Phonemic
+3-610-166-3,nort2697,Azerbaijani (Terekeme dialect),2009,коьпек,CyrillTrans,dog,,,"it, köpek",Phonemic
+3-594-166-1,nort2697,Azerbaijani (Terekeme dialect),1853,гогерчин,CyrillTrans,dove,,,gogerčin,Phonemic
+3-596-166-1,nort2697,Azerbaijani (Terekeme dialect),735,бейгуш,CyrillTrans,owl,,,beyguš,Phonemic
+3-593-166-1,nort2697,Azerbaijani (Terekeme dialect),913,гарга,CyrillTrans,crow,,,garga,Phonemic
+3-592-166-1,nort2697,Azerbaijani (Terekeme dialect),882,попугай,CyrillTrans,parrot,,,popugay,Phonemic
+3-591-166-1,nort2697,Azerbaijani (Terekeme dialect),1793,учан сычан,CyrillTrans,bat,,,učan sɨčan,Phonemic
+3-586-166-1,nort2697,Azerbaijani (Terekeme dialect),1185,чалаган,CyrillTrans,vulture,,,čalagan,Phonemic
+3-585-166-1,nort2697,Azerbaijani (Terekeme dialect),307,чалаган,CyrillTrans,hawk,,,čalagan,Phonemic
+3-584-166-1,nort2697,Azerbaijani (Terekeme dialect),1905,гозгун,CyrillTrans,eagle,,,gozgun,Phonemic
+3-582-166-1,nort2697,Azerbaijani (Terekeme dialect),950,дениз гуши,CyrillTrans,seagull,,,"deniz guši, čayka",Phonemic
+3-582-166-3,nort2697,Azerbaijani (Terekeme dialect),950,чайка,CyrillTrans,seagull,,,"deniz guši, čayka",Phonemic
+3-583-166-1,nort2697,Azerbaijani (Terekeme dialect),758,боьйуьк гуш,CyrillTrans,heron,,,böyük guš,Phonemic
+3-581-166-1,nort2697,Azerbaijani (Terekeme dialect),937,гуш,CyrillTrans,bird,,,guš,Phonemic
+3-580-166-1,nort2697,Azerbaijani (Terekeme dialect),539,йава,CyrillTrans,nest,,,yava,Phonemic
+3-570-166-1,nort2697,Azerbaijani (Terekeme dialect),1360,оьрдек,CyrillTrans,duck,,,ördek,Phonemic
+3-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1187,газ,CyrillTrans,goose,,,gaz,Phonemic
+3-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1318,чуьче,CyrillTrans,chicken,,,čüče,Phonemic
+3-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1514,тавуг,CyrillTrans,hen,,,tavug,Phonemic
+3-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1511,хоруз,CyrillTrans,"cock, rooster",,,xoruz,Phonemic
+3-470-166-1,nort2697,Azerbaijani (Terekeme dialect),890,оькуьз,CyrillTrans,mule,,,öküz,Phonemic
+3-500-166-1,nort2697,Azerbaijani (Terekeme dialect),265,эв гушлары,CyrillTrans,fowl,,,ev gušlarɨ,Phonemic
+3-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1862,эшек,CyrillTrans,"ass, donkey",,,ešek,Phonemic
+3-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-166-1,nort2697,Azerbaijani (Terekeme dialect),938,диши ат,CyrillTrans,mare,,,diši at,Phonemic
+3-420-166-1,nort2697,Azerbaijani (Terekeme dialect),936,ат баласы,CyrillTrans,stallion,,,at balasɨ,Phonemic
+3-410-166-1,nort2697,Azerbaijani (Terekeme dialect),615,ат,CyrillTrans,horse (equine),,,at,Phonemic
+3-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1972,кечи гузиси,CyrillTrans,kid,,,"keči guzisi, mudur",Phonemic
+3-380-166-3,nort2697,Azerbaijani (Terekeme dialect),1972,мудур,CyrillTrans,kid,,,"keči guzisi, mudur",Phonemic
+3-370-166-1,nort2697,Azerbaijani (Terekeme dialect),264,теке,CyrillTrans,he-goat,,,teke,Phonemic
+3-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1502,кечи,CyrillTrans,goat,,,keči,Phonemic
+3-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1337,давуз,CyrillTrans,pig,,,davuz,Phonemic
+3-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1351,давуз,CyrillTrans,sow (2),,,"davuz, diši davuz",Phonemic
+3-340-166-3,nort2697,Azerbaijani (Terekeme dialect),1351,диши давуз,CyrillTrans,sow (2),,,"davuz, diši davuz",Phonemic
+3-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1348,давуз,CyrillTrans,boar,,,"davuz, čol davuzi, gaban",Phonemic
+3-320-166-3,nort2697,Azerbaijani (Terekeme dialect),1348,чол давузи,CyrillTrans,boar,,,"davuz, čol davuzi, gaban",Phonemic
+3-320-166-5,nort2697,Azerbaijani (Terekeme dialect),1348,габан,CyrillTrans,boar,,,"davuz, čol davuzi, gaban",Phonemic
+3-290-166-1,nort2697,Azerbaijani (Terekeme dialect),820,гузи,CyrillTrans,lamb,,,guzi,Phonemic
+3-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1345,гойун,CyrillTrans,ewe,,,goyun,Phonemic
+3-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1344,гойун,CyrillTrans,ram,,,"goyun, teke",Phonemic
+3-260-166-3,nort2697,Azerbaijani (Terekeme dialect),1344,теке,CyrillTrans,ram,,,"goyun, teke",Phonemic
+3-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1331,гойун,CyrillTrans,sheep,,,goyun,Phonemic
+3-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1989,дана,CyrillTrans,calf,,,dana,Phonemic
+3-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1007,инек,CyrillTrans,cow,,,inek,Phonemic
+3-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1169,гамиш,CyrillTrans,ox,,,gamiš,Phonemic
+3-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1008,окуьз,CyrillTrans,bull,,,oküz,Phonemic
+3-200-166-1,nort2697,Azerbaijani (Terekeme dialect),1153,бойуьк баш гьейван,CyrillTrans,cattle (bovine),,,boyük baš heyvan,Phonemic
+3-190-166-1,nort2697,Azerbaijani (Terekeme dialect),851,ат нехири,CyrillTrans,"stable, stall",,,at nexiri,Phonemic
+3-180-166-1,nort2697,Azerbaijani (Terekeme dialect),263,нехирчи,CyrillTrans,herdsman,,,nexirči,Phonemic
+3-160-166-1,nort2697,Azerbaijani (Terekeme dialect),649,харман,CyrillTrans,pasture,,,xarman,Phonemic
+3-150-166-1,nort2697,Azerbaijani (Terekeme dialect),631,эв гьейваны,CyrillTrans,livestock,,,ev heyvanɨ,Phonemic
+3-130-166-1,nort2697,Azerbaijani (Terekeme dialect),2262,диши,CyrillTrans,female (adj),,,diši,Phonemic
+3-120-166-1,nort2697,Azerbaijani (Terekeme dialect),2261,эркек,CyrillTrans,male (adj),,,erkek,Phonemic
+3-110-166-1,nort2697,Azerbaijani (Terekeme dialect),619,гьейван,CyrillTrans,animal,,,heyvan,Phonemic
+2-960-166-1,nort2697,Azerbaijani (Terekeme dialect),817,онлар,CyrillTrans,they,,,"onlar, onnar",Phonemic
+2-960-166-3,nort2697,Azerbaijani (Terekeme dialect),817,оннар,CyrillTrans,they,,,"onlar, onnar",Phonemic
+2-950-166-1,nort2697,Azerbaijani (Terekeme dialect),1213,суьз,CyrillTrans,you (plural),,,süz,Phonemic
+2-940-166-1,nort2697,Azerbaijani (Terekeme dialect),1212,буьз,CyrillTrans,we,,,büz,Phonemic
+2-930-166-1,nort2697,Azerbaijani (Terekeme dialect),262,о,CyrillTrans,he/she/it,,,o,Phonemic
+2-920-166-1,nort2697,Azerbaijani (Terekeme dialect),1215,сен,CyrillTrans,you (singular),,,"sen, süz",Phonemic
+2-920-166-3,nort2697,Azerbaijani (Terekeme dialect),1215,суьз,CyrillTrans,you (singular),,,"sen, süz",Phonemic
+2-910-166-1,nort2697,Azerbaijani (Terekeme dialect),1209,мен,CyrillTrans,I,,,men,Phonemic
+2-820-166-1,nort2697,Azerbaijani (Terekeme dialect),194,аиле,CyrillTrans,family,,,aile,Phonemic
+2-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1644,гохумлар,CyrillTrans,"relatives, kinsmen",,,"goxumlar, miraslar",Phonemic
+2-810-166-3,nort2697,Azerbaijani (Terekeme dialect),1644,мираслар,CyrillTrans,"relatives, kinsmen",,,"goxumlar, miraslar",Phonemic
+2-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1981,дул киши,CyrillTrans,widower,,,dul kiši,Phonemic
+2-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1756,дул хатун,CyrillTrans,widow,,,dul xatun,Phonemic
+2-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1149,йетим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1058,огей гиз,CyrillTrans,stepdaughter,,,ogey giz,Phonemic
+2-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1059,огей ушаг,CyrillTrans,stepson,,,ogey ušag,Phonemic
+2-720-166-1,nort2697,Azerbaijani (Terekeme dialect),236,огей ана,CyrillTrans,stepmother,,,ogey ana,Phonemic
+2-710-166-1,nort2697,Azerbaijani (Terekeme dialect),237,огей ата,CyrillTrans,stepfather,,,ogey ata,Phonemic
+2-641-166-1,nort2697,Azerbaijani (Terekeme dialect),2264,гелин,CyrillTrans,daughter-in-law (of a woman),,,gelin,Phonemic
+2-640-166-1,nort2697,Azerbaijani (Terekeme dialect),2265,балдуз,CyrillTrans,daughter-in-law (of a man),,,balduz,Phonemic
+2-631-166-1,nort2697,Azerbaijani (Terekeme dialect),2266,гийав,CyrillTrans,son-in-law (of a woman),,,giyav,Phonemic
+2-630-166-1,nort2697,Azerbaijani (Terekeme dialect),2267,гийав,CyrillTrans,son-in-law (of a man),,,"giyav, küreken",Phonemic
+2-630-166-3,nort2697,Azerbaijani (Terekeme dialect),2267,куьрекен,CyrillTrans,son-in-law (of a man),,,"giyav, küreken",Phonemic
+2-621-166-1,nort2697,Azerbaijani (Terekeme dialect),2257,гейинана,CyrillTrans,mother-in-law (of a woman),,,geyinana,Phonemic
+2-620-166-1,nort2697,Azerbaijani (Terekeme dialect),2256,гейинана,CyrillTrans,mother-in-law (of a man),,,geyinana,Phonemic
+2-611-166-1,nort2697,Azerbaijani (Terekeme dialect),2254,гейината,CyrillTrans,father-in-law (of a woman),,,geyinata,Phonemic
+2-610-166-1,nort2697,Azerbaijani (Terekeme dialect),2255,гейината,CyrillTrans,father-in-law (of a man),,,geyinata,Phonemic
+2-570-166-1,nort2697,Azerbaijani (Terekeme dialect),490,овладларуьмуьз,CyrillTrans,descendants,,,ovladlarümüz,Phonemic
+2-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1669,деделеруьмуьз,CyrillTrans,ancestors,,,dedelerümüz,Phonemic
+2-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1643,эмиоглу,CyrillTrans,cousin,,,"emioglu, emigizi",Phonemic
+2-550-166-3,nort2697,Azerbaijani (Terekeme dialect),1643,эмигизи,CyrillTrans,cousin,,,"emioglu, emigizi",Phonemic
+2-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1642,гердешуьмуьн гизи,CyrillTrans,niece,,,"gerdešümün gizi, bačimün",Phonemic
+2-540-166-3,nort2697,Azerbaijani (Terekeme dialect),1642,бачимуьн,CyrillTrans,niece,,,"gerdešümün gizi, bačimün",Phonemic
+2-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1063,гердешуьмуьн огли,CyrillTrans,nephew,,,"gerdešümün ogli, bačimün",Phonemic
+2-530-166-3,nort2697,Azerbaijani (Terekeme dialect),1063,бачимуьн,CyrillTrans,nephew,,,"gerdešümün ogli, bačimün",Phonemic
+2-522-166-1,nort2697,Azerbaijani (Terekeme dialect),170,биби,CyrillTrans,father's sister,,,bibi,Phonemic
+2-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1272,биби,CyrillTrans,aunt,,,"bibi, xala",Phonemic
+2-520-166-3,nort2697,Azerbaijani (Terekeme dialect),1272,хала,CyrillTrans,aunt,,,"bibi, xala",Phonemic
+2-521-166-1,nort2697,Azerbaijani (Terekeme dialect),171,хала,CyrillTrans,mother's sister,,,xala,Phonemic
+2-512-166-1,nort2697,Azerbaijani (Terekeme dialect),1985,эми,CyrillTrans,father's brother,,,emi,Phonemic
+2-511-166-1,nort2697,Azerbaijani (Terekeme dialect),1984,дайы,CyrillTrans,mother's brother,,,dayɨ,Phonemic
+2-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1327,эми,CyrillTrans,uncle,,,"emi, dayi",Phonemic
+2-510-166-3,nort2697,Azerbaijani (Terekeme dialect),1327,дайи,CyrillTrans,uncle,,,"emi, dayi",Phonemic
+2-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1618,неве,CyrillTrans,grandson,,,neve,Phonemic
+2-490-166-1,nort2697,Azerbaijani (Terekeme dialect),1619,неве (гиз),CyrillTrans,granddaughter,,,neve (giz),Phonemic
+2-471-166-1,nort2697,Azerbaijani (Terekeme dialect),907,гочахатун,CyrillTrans,old woman,,,gočaxatun,Phonemic
+2-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1496,нене,CyrillTrans,grandmother,,,"nene, ana",Phonemic
+2-470-166-3,nort2697,Azerbaijani (Terekeme dialect),1496,ана,CyrillTrans,grandmother,,,"nene, ana",Phonemic
+2-461-166-1,nort2697,Azerbaijani (Terekeme dialect),406,гоча,CyrillTrans,old man,,,goča,Phonemic
+2-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1383,деде,CyrillTrans,grandfather,,,"dede, baba",Phonemic
+2-460-166-3,nort2697,Azerbaijani (Terekeme dialect),1383,баба,CyrillTrans,grandfather,,,"dede, baba",Phonemic
+2-458-166-1,nort2697,Azerbaijani (Terekeme dialect),1005,икизлер,CyrillTrans,twins,,,ikizler,Phonemic
+2-456-166-1,nort2697,Azerbaijani (Terekeme dialect),1640,гердеш,CyrillTrans,sibling,,,"gerdeš, bačɨ",Phonemic
+2-456-166-3,nort2697,Azerbaijani (Terekeme dialect),1640,бачы,CyrillTrans,sibling,,,"gerdeš, bačɨ",Phonemic
+2-455-166-1,nort2697,Azerbaijani (Terekeme dialect),1761,кичик бачы,CyrillTrans,younger sister,,,kičik bačɨ,Phonemic
+2-454-166-1,nort2697,Azerbaijani (Terekeme dialect),1758,боьйуьк бачы,CyrillTrans,older sister,,,böyük bačɨ,Phonemic
+2-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1263,бачы,CyrillTrans,sister,,,bačɨ,Phonemic
+2-445-166-1,nort2697,Azerbaijani (Terekeme dialect),1760,кичик гердеш,CyrillTrans,younger brother,,,kičik gerdeš,Phonemic
+2-444-166-1,nort2697,Azerbaijani (Terekeme dialect),1759,гедеш,CyrillTrans,older brother,,,gedeš,Phonemic
+2-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1262,гердеш,CyrillTrans,brother,,,gerdeš,Phonemic
+2-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1801,ушаглары,CyrillTrans,offspring (son or daughter),,,"ušaglarɨ, övladlarɨ",Phonemic
+2-430-166-3,nort2697,Azerbaijani (Terekeme dialect),1801,оьвладлары,CyrillTrans,offspring (son or daughter),,,"ušaglarɨ, övladlarɨ",Phonemic
+2-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1357,гиз,CyrillTrans,daughter,,,giz,Phonemic
+2-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1620,огул,CyrillTrans,son,,,ogul,Phonemic
+2-390-166-1,nort2697,Azerbaijani (Terekeme dialect),426,эвлуь,CyrillTrans,married woman,,,evlü,Phonemic
+2-380-166-1,nort2697,Azerbaijani (Terekeme dialect),424,эвлуь,CyrillTrans,married man,,,evlü,Phonemic
+2-370-166-1,nort2697,Azerbaijani (Terekeme dialect),505,атасы-анасы,CyrillTrans,parents,,,atasɨ-anasɨ,Phonemic
+2-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1216,ана,CyrillTrans,mother,,,"ana, mama, bačɨ",Phonemic
+2-360-166-3,nort2697,Azerbaijani (Terekeme dialect),1216,мама,CyrillTrans,mother,,,"ana, mama, bačɨ",Phonemic
+2-360-166-5,nort2697,Azerbaijani (Terekeme dialect),1216,бачы,CyrillTrans,mother,,,"ana, mama, bačɨ",Phonemic
+2-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1217,ата,CyrillTrans,father,,,"ata, ede, papa",Phonemic
+2-350-166-3,nort2697,Azerbaijani (Terekeme dialect),1217,эде,CyrillTrans,father,,,"ata, ede, papa",Phonemic
+2-350-166-5,nort2697,Azerbaijani (Terekeme dialect),1217,папа,CyrillTrans,father,,,"ata, ede, papa",Phonemic
+2-341-166-1,nort2697,Azerbaijani (Terekeme dialect),1134,бошанмаг,CyrillTrans,divorce,,,bošanmag,Phonemic
+2-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1259,той,CyrillTrans,"marriage, wedding",,,"toy, yevlenmag",Phonemic
+2-340-166-3,nort2697,Azerbaijani (Terekeme dialect),1259,йевленмаг,CyrillTrans,"marriage, wedding",,,"toy, yevlenmag",Phonemic
+2-330-166-1,nort2697,Azerbaijani (Terekeme dialect),203,йевленмек,CyrillTrans,marry,,,"yevlenmek, kišiye gitmag",Phonemic
+2-330-166-3,nort2697,Azerbaijani (Terekeme dialect),203,кишийе гитмаг,CyrillTrans,marry,,,"yevlenmek, kišiye gitmag",Phonemic
+2-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1199,хатун,CyrillTrans,wife,,,"xatun, yoldaš",Phonemic
+2-320-166-3,nort2697,Azerbaijani (Terekeme dialect),1199,йолдаш,CyrillTrans,wife,,,"xatun, yoldaš",Phonemic
+2-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1200,киши,CyrillTrans,husband,,,"kiši, yoldaš",Phonemic
+2-310-166-3,nort2697,Azerbaijani (Terekeme dialect),1200,йолдаш,CyrillTrans,husband,,,"kiši, yoldaš",Phonemic
+2-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1289,коьрпе,CyrillTrans,"infant, baby",,,körpe,Phonemic
+2-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1304,кичик ушаг,CyrillTrans,child,,,kičik ušag,Phonemic
+2-261-166-1,nort2697,Azerbaijani (Terekeme dialect),77,бойуьк гыз,CyrillTrans,young woman (adolescent),,,boyük gɨz,Phonemic
+2-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1646,кичик гыз,CyrillTrans,girl,,,kičik gɨz,Phonemic
+2-251-166-1,nort2697,Azerbaijani (Terekeme dialect),76,чаван,CyrillTrans,young man (adolescent),,,čavan,Phonemic
+2-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1366,ушаг,CyrillTrans,boy,,,ušag,Phonemic
+2-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1551,диши,CyrillTrans,female,,,diši,Phonemic
+2-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1553,еркек,CyrillTrans,male,,,erkek,Phonemic
+2-220-166-1,nort2697,Azerbaijani (Terekeme dialect),962,хатун,CyrillTrans,woman,,,xatun,Phonemic
+2-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1554,киши,CyrillTrans,man (vs. woman),,,kiši,Phonemic
+2-100-166-1,nort2697,Azerbaijani (Terekeme dialect),683,адам,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+2-100-166-3,nort2697,Azerbaijani (Terekeme dialect),683,инсан,CyrillTrans,"person, human being",,,"adam, insan",Phonemic
+1-890-166-1,nort2697,Azerbaijani (Terekeme dialect),1188,одун коьмуьруь,CyrillTrans,charcoal,,,odun kömürü,Phonemic
+1-880-166-1,nort2697,Azerbaijani (Terekeme dialect),10,одунлар,CyrillTrans,firewood,,,odunlar,Phonemic
+1-870-166-1,nort2697,Azerbaijani (Terekeme dialect),1133,кирбит,CyrillTrans,match (noun),,,kirbit,Phonemic
+1-861-166-1,nort2697,Azerbaijani (Terekeme dialect),127,сондуьрмек,CyrillTrans,extinguish,,,sondürmek,Phonemic
+1-860-166-1,nort2697,Azerbaijani (Terekeme dialect),737,йандурмаг,CyrillTrans,"light, kindle, ignite",,,"yandurmag, alavlandurmag",Phonemic
+1-860-166-3,nort2697,Azerbaijani (Terekeme dialect),737,алавландурмаг,CyrillTrans,"light, kindle, ignite",,,"yandurmag, alavlandurmag",Phonemic
+1-852-166-1,nort2697,Azerbaijani (Terekeme dialect),1428,йанмаг,CyrillTrans,burn (vb intrans),,,yanmag,Phonemic
+1-851-166-1,nort2697,Azerbaijani (Terekeme dialect),141,йандурмаг,CyrillTrans,burn (vb trans),,,yandurmag,Phonemic
+1-841-166-1,nort2697,Azerbaijani (Terekeme dialect),67,исти дашкуьмуьр,CyrillTrans,embers,,,isti daškümür,Phonemic
+1-840-166-1,nort2697,Azerbaijani (Terekeme dialect),646,куьл,CyrillTrans,ashes,,,kül,Phonemic
+1-830-166-1,nort2697,Azerbaijani (Terekeme dialect),778,ин,CyrillTrans,smoke (noun),,,in,Phonemic
+1-820-166-1,nort2697,Azerbaijani (Terekeme dialect),889,алав,CyrillTrans,flame (noun),,,alav,Phonemic
+1-810-166-1,nort2697,Azerbaijani (Terekeme dialect),221,от,CyrillTrans,fire,,,ot,Phonemic
+1-780-166-1,nort2697,Azerbaijani (Terekeme dialect),952,гьава,CyrillTrans,weather,,,hava,Phonemic
+1-770-166-1,nort2697,Azerbaijani (Terekeme dialect),617,буз,CyrillTrans,ice,,,"buz, buzluk",Phonemic
+1-770-166-3,nort2697,Azerbaijani (Terekeme dialect),617,бузлук,CyrillTrans,ice,,,"buz, buzluk",Phonemic
+1-760-166-1,nort2697,Azerbaijani (Terekeme dialect),784,гар,CyrillTrans,snow (noun),,,gar,Phonemic
+1-750-166-1,nort2697,Azerbaijani (Terekeme dialect),658,йегиш,CyrillTrans,rain (noun),,,yegiš,Phonemic
+1-740-166-1,nort2697,Azerbaijani (Terekeme dialect),249,сис,CyrillTrans,fog,,,sis,Phonemic
+1-720-166-1,nort2697,Azerbaijani (Terekeme dialect),960,куьлек,CyrillTrans,wind,,,külek,Phonemic
+1-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1489,булут,CyrillTrans,cloud,,,bulut,Phonemic
+1-710-166-1,nort2697,Azerbaijani (Terekeme dialect),27,гьава,CyrillTrans,air,,,hava,Phonemic
+1-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1977,чиг,CyrillTrans,dew,,,čig,Phonemic
+1-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1388,голге,CyrillTrans,"shade, shadow",,,golge,Phonemic
+1-620-166-1,nort2697,Azerbaijani (Terekeme dialect),11,гараннуг,CyrillTrans,darkness,,,garannug,Phonemic
+1-610-166-1,nort2697,Azerbaijani (Terekeme dialect),630,ишыг,CyrillTrans,light (noun),,,išɨg,Phonemic
+1-590-166-1,nort2697,Azerbaijani (Terekeme dialect),1733,радуга,CyrillTrans,rainbow,,,raduga,Phonemic
+1-580-166-1,nort2697,Azerbaijani (Terekeme dialect),858,бурйа,CyrillTrans,storm,,,burya,Phonemic
+1-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1150,илдырым,CyrillTrans,thunder,,,ildɨrɨm,Phonemic
+1-570-166-1,nort2697,Azerbaijani (Terekeme dialect),2007,илдырым,CyrillTrans,lightning (as striking),,,ildɨrɨm,Phonemic
+1-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1654,илдырым,CyrillTrans,lightning,,,ildɨrɨm,Phonemic
+1-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1430,улдуз,CyrillTrans,star,,,ulduz,Phonemic
+1-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1313,ай,CyrillTrans,moon,,,ay,Phonemic
+1-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1343,гуьнеш,CyrillTrans,sun,,,güneš,Phonemic
+1-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1732,гог,CyrillTrans,sky,,,gog,Phonemic
+1-450-166-1,nort2697,Azerbaijani (Terekeme dialect),6,зелзеле,CyrillTrans,earthquake,,,zelzele,Phonemic
+1-440-166-1,nort2697,Azerbaijani (Terekeme dialect),2125,даш,CyrillTrans,"stone, rock",,,"daš, geye",Phonemic
+1-440-166-3,nort2697,Azerbaijani (Terekeme dialect),2125,гейе,CyrillTrans,"stone, rock",,,"daš, geye",Phonemic
+1-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1803,тахте,CyrillTrans,wood,,,taxte,Phonemic
+1-420-166-1,nort2697,Azerbaijani (Terekeme dialect),906,агач,CyrillTrans,tree (cf 08.600),,,"agač, terek",Phonemic
+1-420-166-3,nort2697,Azerbaijani (Terekeme dialect),906,терек,CyrillTrans,tree (cf 08.600),,,"agač, terek",Phonemic
+1-410-166-1,nort2697,Azerbaijani (Terekeme dialect),420,меше,CyrillTrans,"woods, forest",,,meše,Phonemic
+1-390-166-1,nort2697,Azerbaijani (Terekeme dialect),943,шалале,CyrillTrans,waterfall,,,šalale,Phonemic
+1-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1145,батаглуг,CyrillTrans,swamp,,,bataglug,Phonemic
+1-370-166-1,nort2697,Azerbaijani (Terekeme dialect),2144,булаг,CyrillTrans,"spring, well",,,"bulag, guyi",Phonemic
+1-370-166-3,nort2697,Azerbaijani (Terekeme dialect),2144,гуйи,CyrillTrans,"spring, well",,,"bulag, guyi",Phonemic
+1-362-166-1,nort2697,Azerbaijani (Terekeme dialect),1982,сувун дейишмеси,CyrillTrans,whirlpool,,,suvun deyišmesi,Phonemic
+1-360-166-1,nort2697,Azerbaijani (Terekeme dialect),666,чай,CyrillTrans,"river, stream, brook",,,"čay, dere",Phonemic
+1-360-166-3,nort2697,Azerbaijani (Terekeme dialect),666,дере,CyrillTrans,"river, stream, brook",,,"čay, dere",Phonemic
+1-354-166-1,nort2697,Azerbaijani (Terekeme dialect),613,дерйанын дашмасы,CyrillTrans,hightide,,,deryanɨn dašmasɨ,Phonemic
+1-353-166-1,nort2697,Azerbaijani (Terekeme dialect),1026,дерйанын чекилмеси,CyrillTrans,lowtide,,,deryanɨn čekilmesi,Phonemic
+1-352-166-1,nort2697,Azerbaijani (Terekeme dialect),891,дерйа дашмаси,CyrillTrans,tide,,,derya dašmasi,Phonemic
+1-350-166-1,nort2697,Azerbaijani (Terekeme dialect),978,лепе,CyrillTrans,wave,,,lepe,Phonemic
+1-343-166-1,nort2697,Azerbaijani (Terekeme dialect),1662,бурун,CyrillTrans,"headland, point",,,burun,Phonemic
+1-342-166-1,nort2697,Azerbaijani (Terekeme dialect),660,риф,CyrillTrans,reef,,,rif,Phonemic
+1-341-166-1,nort2697,Azerbaijani (Terekeme dialect),623,богаз,CyrillTrans,lagoon,,,bogaz,Phonemic
+1-340-166-1,nort2697,Azerbaijani (Terekeme dialect),663,богаз,CyrillTrans,"gulf, bay",,,bogaz,Phonemic
+1-330-166-1,nort2697,Azerbaijani (Terekeme dialect),624,гуьл,CyrillTrans,lake,,,gül,Phonemic
+1-329-166-1,nort2697,Azerbaijani (Terekeme dialect),645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-166-1,nort2697,Azerbaijani (Terekeme dialect),1768,куьпуьк,CyrillTrans,foam,,,küpük,Phonemic
+1-323-166-1,nort2697,Azerbaijani (Terekeme dialect),259,нагьаг (дерйа),CyrillTrans,rough (of sea),,,nahag (derya),Phonemic
+1-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1474,дерйа,CyrillTrans,sea,,,derya,Phonemic
+1-322-166-1,nort2697,Azerbaijani (Terekeme dialect),258,сакин (дерйа),CyrillTrans,calm (of sea),,,sakin (derya),Phonemic
+1-310-166-1,nort2697,Azerbaijani (Terekeme dialect),948,су,CyrillTrans,water,,,su,Phonemic
+1-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1155,гаф,CyrillTrans,cave,,,gaf,Phonemic
+1-270-166-1,nort2697,Azerbaijani (Terekeme dialect),113,чайу гырагы,CyrillTrans,shore,,,čayu gɨragɨ,Phonemic
+1-260-166-1,nort2697,Azerbaijani (Terekeme dialect),166,континент,CyrillTrans,mainland,,,kontinent,Phonemic
+1-250-166-1,nort2697,Azerbaijani (Terekeme dialect),622,ада,CyrillTrans,island,,,ada,Phonemic
+1-240-166-1,nort2697,Azerbaijani (Terekeme dialect),921,йешиллуьк,CyrillTrans,valley,,,yešillük,Phonemic
+1-230-166-1,nort2697,Azerbaijani (Terekeme dialect),652,дуьзлуьк,CyrillTrans,"plain, field",,,"düzlük, xarman",Phonemic
+1-230-166-3,nort2697,Azerbaijani (Terekeme dialect),652,харман,CyrillTrans,"plain, field",,,"düzlük, xarman",Phonemic
+1-222-166-1,nort2697,Azerbaijani (Terekeme dialect),618,гейе,CyrillTrans,"cliff, precipice",,,"geye, dere, geye gɨragɨ",Phonemic
+1-222-166-3,nort2697,Azerbaijani (Terekeme dialect),618,дере,CyrillTrans,"cliff, precipice",,,"geye, dere, geye gɨragɨ",Phonemic
+1-222-166-5,nort2697,Azerbaijani (Terekeme dialect),618,гейе гырагы,CyrillTrans,"cliff, precipice",,,"geye, dere, geye gɨragɨ",Phonemic
+1-220-166-1,nort2697,Azerbaijani (Terekeme dialect),2118,даг,CyrillTrans,"mountain, hill",,,"dag, tepe",Phonemic
+1-220-166-3,nort2697,Azerbaijani (Terekeme dialect),2118,тепе,CyrillTrans,"mountain, hill",,,"dag, tepe",Phonemic
+1-214-166-1,nort2697,Azerbaijani (Terekeme dialect),640,палчуг,CyrillTrans,mud,,,palčug,Phonemic
+1-215-166-1,nort2697,Azerbaijani (Terekeme dialect),671,гум,CyrillTrans,sand,,,gum,Phonemic
+1-213-166-1,nort2697,Azerbaijani (Terekeme dialect),2,туз,CyrillTrans,dust,,,tuz,Phonemic
+1-212-166-1,nort2697,Azerbaijani (Terekeme dialect),1228,торпаг,CyrillTrans,"earth=ground, soil",,,torpag,Phonemic
+1-210-166-1,nort2697,Azerbaijani (Terekeme dialect),626,торпаг,CyrillTrans,"earth, land",,,"torpag, el",Phonemic
+1-210-166-3,nort2697,Azerbaijani (Terekeme dialect),626,эл,CyrillTrans,"earth, land",,,"torpag, el",Phonemic
+1-100-166-1,nort2697,Azerbaijani (Terekeme dialect),965,суьлх,CyrillTrans,world,,,sülx,Phonemic
+14-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1544,арабир,CyrillTrans,sometimes,,,arabir,Phonemic
+14-331-166-1,nort2697,Azerbaijani (Terekeme dialect),703,йехинде,CyrillTrans,soon,,,yexinde,Phonemic
+14-332-166-1,nort2697,Azerbaijani (Terekeme dialect),418,узун заманну,CyrillTrans,long-time (for a),,,uzun zamannu,Phonemic
+14-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1656,хич бир заман,CyrillTrans,never,,,xič bir zaman,Phonemic
+14-350-166-1,nort2697,Azerbaijani (Terekeme dialect),204,гене,CyrillTrans,again,,,gene,Phonemic
+14-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1225,гуьн,CyrillTrans,day,,,gün,Phonemic
+14-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1233,гече,CyrillTrans,night,,,geče,Phonemic
+14-430-166-1,nort2697,Azerbaijani (Terekeme dialect),729,ден,CyrillTrans,dawn,,,den,Phonemic
+14-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1339,сабах,CyrillTrans,morning,,,sabax,Phonemic
+14-450-166-1,nort2697,Azerbaijani (Terekeme dialect),12,гунорта,CyrillTrans,"noon, midday",,,gunorta,Phonemic
+14-451-166-1,nort2697,Azerbaijani (Terekeme dialect),1807,гунортадан сонра,CyrillTrans,afternoon,,,gunortadan sonra,Phonemic
+14-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1629,ахшам,CyrillTrans,evening,,,axšam,Phonemic
+14-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1283,бугуьн,CyrillTrans,today,,,bugün,Phonemic
+14-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1329,саба,CyrillTrans,tomorrow,,,saba,Phonemic
+14-481-166-1,nort2697,Azerbaijani (Terekeme dialect),1179,обиригуьн,CyrillTrans,day-after-tomorrow,,,obirigün,Phonemic
+14-490-166-1,nort2697,Azerbaijani (Terekeme dialect),1174,дуьнен,CyrillTrans,yesterday,,,dünen,Phonemic
+14-491-166-1,nort2697,Azerbaijani (Terekeme dialect),1180,уьсрегуьн,CyrillTrans,day-before-yesterday,,,üsregün,Phonemic
+14-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1353,сает,CyrillTrans,hour,,,saet,Phonemic
+14-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1323,сает,CyrillTrans,"clock, timepiece",,,saet,Phonemic
+14-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1469,гьефте,CyrillTrans,week,,,hefte,Phonemic
+14-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1699,базар,CyrillTrans,Sunday,,,bazar,Phonemic
+14-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1697,базарун биринчи гуьни,CyrillTrans,Monday,,,bazarun birinči güni,Phonemic
+14-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1695,базарун икинчи гуьни,CyrillTrans,Tuesday,,,bazarun ikinči güni,Phonemic
+14-650-166-1,nort2697,Azerbaijani (Terekeme dialect),1694,базарун учунчу гуьни,CyrillTrans,Wednesday,,,bazarun učunču güni,Phonemic
+14-660-166-1,nort2697,Azerbaijani (Terekeme dialect),1693,чуьме агьшеми,CyrillTrans,Thursday,,,čüme ahšemi,Phonemic
+14-670-166-1,nort2697,Azerbaijani (Terekeme dialect),1692,чуьте,CyrillTrans,Friday,,,čüte,Phonemic
+14-680-166-1,nort2697,Azerbaijani (Terekeme dialect),1700,шенбе,CyrillTrans,Saturday,,,šenbe,Phonemic
+14-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1370,ай,CyrillTrans,month,,,ay,Phonemic
+14-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1226,ил,CyrillTrans,year,,,il,Phonemic
+14-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1471,гиш,CyrillTrans,winter,,,giš,Phonemic
+14-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1537,йаз,CyrillTrans,spring,,,yaz,Phonemic
+14-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1342,йай,CyrillTrans,summer,,,yay,Phonemic
+14-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1276,пайиз,CyrillTrans,autumn,,,payiz,Phonemic
+14-780-166-1,nort2697,Azerbaijani (Terekeme dialect),691,йилин вехтлери,CyrillTrans,season,,,yilin vextleri,Phonemic
+15-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1587,ин геледуь,CyrillTrans,smell (vb intrans),,,in geledü,Phonemic
+15-212-166-1,nort2697,Azerbaijani (Terekeme dialect),375,ин чекмаг,CyrillTrans,sniff,,,in čekmag,Phonemic
+15-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1586,иннамаг,CyrillTrans,smell (vb trans),,,innamag,Phonemic
+15-250-166-1,nort2697,Azerbaijani (Terekeme dialect),376,этир,CyrillTrans,"fragrant, good smelling",,,"etir, etir ini",Phonemic
+15-250-166-3,nort2697,Azerbaijani (Terekeme dialect),376,этир ини,CyrillTrans,"fragrant, good smelling",,,"etir, etir ini",Phonemic
+15-260-166-1,nort2697,Azerbaijani (Terekeme dialect),42,ин,CyrillTrans,"stinking, bad smelling",,,in,Phonemic
+15-310-166-1,nort2697,Azerbaijani (Terekeme dialect),21,дад,CyrillTrans,taste,,,dad,Phonemic
+15-350-166-1,nort2697,Azerbaijani (Terekeme dialect),717,ширин,CyrillTrans,sweet,,,širin,Phonemic
+15-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1091,дузлу,CyrillTrans,salty,,,duzlu,Phonemic
+15-370-166-1,nort2697,Azerbaijani (Terekeme dialect),887,йечи,CyrillTrans,bitter,,,yeči,Phonemic
+15-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1906,турш,CyrillTrans,"acid, sour",,,turš,Phonemic
+15-390-166-1,nort2697,Azerbaijani (Terekeme dialect),70,дузлу,CyrillTrans,brackish,,,duzlu,Phonemic
+15-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1408,эшитмаг,CyrillTrans,hear,,,ešitmag,Phonemic
+15-420-166-1,nort2697,Azerbaijani (Terekeme dialect),1608,гулаг асмаг,CyrillTrans,listen,,,gulag asmag,Phonemic
+15-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1811,сес,CyrillTrans,"sound, noise",,,"ses, govga",Phonemic
+15-440-166-3,nort2697,Azerbaijani (Terekeme dialect),1811,говга,CyrillTrans,"sound, noise",,,"ses, govga",Phonemic
+15-450-166-1,nort2697,Azerbaijani (Terekeme dialect),377,берк,CyrillTrans,loud,,,berk,Phonemic
+15-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1314,саде,CyrillTrans,"quiet, silence",,,"sade, yavaš",Phonemic
+15-460-166-3,nort2697,Azerbaijani (Terekeme dialect),1314,йаваш,CyrillTrans,"quiet, silence",,,"sade, yavaš",Phonemic
+15-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1409,гуьрмек,CyrillTrans,see,,,gürmek,Phonemic
+15-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1819,бахмаг,CyrillTrans,"look, look at",,,baxmag,Phonemic
+15-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1039,гозтермек,CyrillTrans,show,,,goztermek,Phonemic
+15-560-166-1,nort2697,Azerbaijani (Terekeme dialect),708,ишигленмаг,CyrillTrans,shine,,,išiglenmag,Phonemic
+15-570-166-1,nort2697,Azerbaijani (Terekeme dialect),679,ачуг,CyrillTrans,bright,,,ačug,Phonemic
+15-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1613,ренг,CyrillTrans,color,,,reng,Phonemic
+15-620-166-1,nort2697,Azerbaijani (Terekeme dialect),250,ачур,CyrillTrans,light (in color),,,ačur,Phonemic
+15-630-166-1,nort2697,Azerbaijani (Terekeme dialect),706,гара,CyrillTrans,dark (in color),,,gara,Phonemic
+15-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1335,аг,CyrillTrans,white,,,ag,Phonemic
+15-650-166-1,nort2697,Azerbaijani (Terekeme dialect),163,гара,CyrillTrans,black,,,gara,Phonemic
+15-660-166-1,nort2697,Azerbaijani (Terekeme dialect),156,гирмизи,CyrillTrans,red,,,girmizi,Phonemic
+15-670-166-1,nort2697,Azerbaijani (Terekeme dialect),837,гог,CyrillTrans,blue,,,gog,Phonemic
+15-680-166-1,nort2697,Azerbaijani (Terekeme dialect),1425,йешил,CyrillTrans,green,,,yešil,Phonemic
+15-690-166-1,nort2697,Azerbaijani (Terekeme dialect),1424,сару,CyrillTrans,yellow,,,saru,Phonemic
+15-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1892,дохунмаг,CyrillTrans,touch,,,doxunmag,Phonemic
+15-712-166-1,nort2697,Azerbaijani (Terekeme dialect),378,чимдиклемек,CyrillTrans,pinch,,,čimdiklemek,Phonemic
+15-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1079,хисетмек,CyrillTrans,feel,,,xisetmek,Phonemic
+15-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1884,берк,CyrillTrans,hard,,,berk,Phonemic
+15-750-166-1,nort2697,Azerbaijani (Terekeme dialect),1856,йумшаг,CyrillTrans,soft,,,yumšag,Phonemic
+15-760-166-1,nort2697,Azerbaijani (Terekeme dialect),1923,габа,CyrillTrans,rough,,,gaba,Phonemic
+15-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1234,дуьз,CyrillTrans,smooth,,,düz,Phonemic
+15-780-166-1,nort2697,Azerbaijani (Terekeme dialect),1396,учшиш,CyrillTrans,sharp,,,učšiš,Phonemic
+15-790-166-1,nort2697,Azerbaijani (Terekeme dialect),379,куьт,CyrillTrans,"blunt, dull",,,küt,Phonemic
+15-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1210,агир,CyrillTrans,heavy,,,agir,Phonemic
+15-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1052,гьуьнгуьл,CyrillTrans,light (in weight),,,hüngül,Phonemic
+15-830-166-1,nort2697,Azerbaijani (Terekeme dialect),1726,эвуьш,CyrillTrans,"wet, damp",,,evüš,Phonemic
+15-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1398,гуру,CyrillTrans,dry,,,guru,Phonemic
+15-850-166-1,nort2697,Azerbaijani (Terekeme dialect),1286,исти,CyrillTrans,hot,,,isti,Phonemic
+15-851-166-1,nort2697,Azerbaijani (Terekeme dialect),1232,исти,CyrillTrans,warm,,,isti,Phonemic
+15-860-166-1,nort2697,Azerbaijani (Terekeme dialect),1287,савуг,CyrillTrans,cold,,,savug,Phonemic
+15-870-166-1,nort2697,Azerbaijani (Terekeme dialect),704,темиз,CyrillTrans,clean,,,temiz,Phonemic
+15-880-166-1,nort2697,Azerbaijani (Terekeme dialect),1230,кифир,CyrillTrans,"dirty, soiled",,,kifir,Phonemic
+15-890-166-1,nort2697,Azerbaijani (Terekeme dialect),380,буьруьш,CyrillTrans,wrinkled,,,"bürüš, bürüšmüš",Phonemic
+15-890-166-3,nort2697,Azerbaijani (Terekeme dialect),380,буьруьшмуьш,CyrillTrans,wrinkled,,,"bürüš, bürüšmüš",Phonemic
+16-110-166-1,nort2697,Azerbaijani (Terekeme dialect),53,чан,CyrillTrans,"soul, spirit",,,čan,Phonemic
+16-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1572,шаширмыш,CyrillTrans,"surprised, astonished",,,šaširmɨš,Phonemic
+16-180-166-1,nort2697,Azerbaijani (Terekeme dialect),720,башарыг,CyrillTrans,"good fortune, luck",,,bašarɨg,Phonemic
+16-190-166-1,nort2697,Azerbaijani (Terekeme dialect),56,уғурсузлуг,CyrillTrans,"misfortune, bad luck",,,uɣursuzlug,Phonemic
+16-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1495,гьошбехт,CyrillTrans,"joyful, glad, happy",,,"hošbext, sevimlü",Phonemic
+16-230-166-3,nort2697,Azerbaijani (Terekeme dialect),1495,севимлуь,CyrillTrans,"joyful, glad, happy",,,"hošbext, sevimlü",Phonemic
+16-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1355,гуьлмаг,CyrillTrans,laugh,,,gülmag,Phonemic
+16-251-166-1,nort2697,Azerbaijani (Terekeme dialect),1451,гуьлуьмсемаг,CyrillTrans,smile,,,gülümsemag,Phonemic
+16-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1413,ойнамаг,CyrillTrans,play,,,oynamag,Phonemic
+16-270-166-1,nort2697,Azerbaijani (Terekeme dialect),923,севмаг,CyrillTrans,love,,,sevmag,Phonemic
+16-290-166-1,nort2697,Azerbaijani (Terekeme dialect),578,опмаг,CyrillTrans,kiss,,,opmag,Phonemic
+16-300-166-1,nort2697,Azerbaijani (Terekeme dialect),928,гучагламаг,CyrillTrans,embrace,,,gučaglamag,Phonemic
+16-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1783,егри,CyrillTrans,pain,,,egri,Phonemic
+16-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1668,йас,CyrillTrans,"grief, sorrow, sadness",,,yas,Phonemic
+16-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1000,хуштеленмек,CyrillTrans,"anxiety, worry",,,xuštelenmek,Phonemic
+16-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1875,йазуги гелмаг,CyrillTrans,"regret, be sorry",,,yazugi gelmag,Phonemic
+16-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1141,ачимаг,CyrillTrans,pity,,,ačimag,Phonemic
+16-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1839,йиглемаг,CyrillTrans,"cry, weep",,,"yiglemag, ürek atmag",Phonemic
+16-370-166-3,nort2697,Azerbaijani (Terekeme dialect),1839,уьрек атмаг,CyrillTrans,"cry, weep",,,"yiglemag, ürek atmag",Phonemic
+16-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1651,гоьз йашлары,CyrillTrans,tear (noun),,,göz yašlarɨ,Phonemic
+16-390-166-1,nort2697,Azerbaijani (Terekeme dialect),716,зува чекмаг,CyrillTrans,groan,,,zuva čekmag,Phonemic
+16-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1607,дуьшман гоьзинде гуьрмаг,CyrillTrans,hate,,,düšman gözinde gürmag,Phonemic
+16-420-166-1,nort2697,Azerbaijani (Terekeme dialect),82,ачуг,CyrillTrans,anger,,,ačug,Phonemic
+16-440-166-1,nort2697,Azerbaijani (Terekeme dialect),40,пехиллуьг,CyrillTrans,"envy, jealousy",,,pexillüg,Phonemic
+16-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1776,утанма,CyrillTrans,shame (noun),,,utanma,Phonemic
+16-480-166-1,nort2697,Azerbaijani (Terekeme dialect),174,хуьндуьр,CyrillTrans,proud,,,xündür,Phonemic
+16-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1779,мерд инсан,CyrillTrans,dare,,,merd insan,Phonemic
+16-520-166-1,nort2697,Azerbaijani (Terekeme dialect),3,мерд,CyrillTrans,brave,,,merd,Phonemic
+16-530-166-1,nort2697,Azerbaijani (Terekeme dialect),781,горху,CyrillTrans,"fear, fright",,,gorxu,Phonemic
+16-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1810,горхулуг,CyrillTrans,danger,,,gorxulug,Phonemic
+16-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1784,истек,CyrillTrans,"desire, want",,,istek,Phonemic
+16-622-166-1,nort2697,Azerbaijani (Terekeme dialect),1750,сечмаг,CyrillTrans,choose,,,sečmag,Phonemic
+16-630-166-1,nort2697,Azerbaijani (Terekeme dialect),1092,гуьвенмаг,CyrillTrans,hope,,,"güvenmag, inanmag",Phonemic
+16-630-166-3,nort2697,Azerbaijani (Terekeme dialect),1092,инанмаг,CyrillTrans,hope,,,"güvenmag, inanmag",Phonemic
+16-650-166-1,nort2697,Azerbaijani (Terekeme dialect),100,вефалы,CyrillTrans,faithful,,,vefalɨ,Phonemic
+16-660-166-1,nort2697,Azerbaijani (Terekeme dialect),1657,йесил,CyrillTrans,true,,,yesil,Phonemic
+16-670-166-1,nort2697,Azerbaijani (Terekeme dialect),601,аллатмаг,CyrillTrans,"lie, tell lies",,,allatmag,Phonemic
+16-680-166-1,nort2697,Azerbaijani (Terekeme dialect),13,йалан димаг,CyrillTrans,deceit,,,yalan dimag,Phonemic
+16-690-166-1,nort2697,Azerbaijani (Terekeme dialect),1528,бегишлемаг,CyrillTrans,forgive,,,begišlemag,Phonemic
+16-710-166-1,nort2697,Azerbaijani (Terekeme dialect),1035,йехши,CyrillTrans,good,,,yexši,Phonemic
+16-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1292,йаман,CyrillTrans,bad,,,yaman,Phonemic
+16-730-166-1,nort2697,Azerbaijani (Terekeme dialect),1725,дуьз,CyrillTrans,"right, correct",,,düz,Phonemic
+16-740-166-1,nort2697,Azerbaijani (Terekeme dialect),1390,эгри,CyrillTrans,wrong,,,egri,Phonemic
+16-760-166-1,nort2697,Azerbaijani (Terekeme dialect),134,иш,CyrillTrans,fault,,,iš,Phonemic
+16-770-166-1,nort2697,Azerbaijani (Terekeme dialect),1293,хата,CyrillTrans,"mistake, error",,,xata,Phonemic
+16-780-166-1,nort2697,Azerbaijani (Terekeme dialect),381,йуьстине атмаг,CyrillTrans,blame,,,yüstine atmag,Phonemic
+16-790-166-1,nort2697,Azerbaijani (Terekeme dialect),1687,терифлемаг,CyrillTrans,praise,,,teriflemag,Phonemic
+16-810-166-1,nort2697,Azerbaijani (Terekeme dialect),1427,гуьзел,CyrillTrans,beautiful,,,güzel,Phonemic
+16-820-166-1,nort2697,Azerbaijani (Terekeme dialect),1548,чиркин,CyrillTrans,ugly,,,"čirkin, kifir",Phonemic
+16-820-166-3,nort2697,Azerbaijani (Terekeme dialect),1548,кифир,CyrillTrans,ugly,,,"čirkin, kifir",Phonemic
+16-830-166-1,nort2697,Azerbaijani (Terekeme dialect),2018,ачгоьз,CyrillTrans,greedy,,,"ačgöz, berk",Phonemic
+16-830-166-3,nort2697,Azerbaijani (Terekeme dialect),2018,берк,CyrillTrans,greedy,,,"ačgöz, berk",Phonemic
+16-840-166-1,nort2697,Azerbaijani (Terekeme dialect),1310,йегиллуь,CyrillTrans,clever,,,yegillü,Phonemic
+17-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1562,фикир,CyrillTrans,mind,,,fikir,Phonemic
+17-130-166-1,nort2697,Azerbaijani (Terekeme dialect),1415,фикирлешмаг,CyrillTrans,think (= reflect),,,fikirlešmag,Phonemic
+17-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1513,хесабламаг,CyrillTrans,think (= be of the opinion),,,xesablamag,Phonemic
+17-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1890,инанмаг,CyrillTrans,believe,,,inanmag,Phonemic
+17-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1536,анламаг,CyrillTrans,understand,,,anlamag,Phonemic
+17-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1410,билмаг,CyrillTrans,know,,,bilmag,Phonemic
+17-171-166-1,nort2697,Azerbaijani (Terekeme dialect),1932,дуьшуьнмаг,CyrillTrans,guess,,,düšünmag,Phonemic
+17-172-166-1,nort2697,Azerbaijani (Terekeme dialect),117,бензетмаг,CyrillTrans,imitate,,,benzetmag,Phonemic
+17-180-166-1,nort2697,Azerbaijani (Terekeme dialect),1521,охшамаг,CyrillTrans,seem,,,oxšamag,Phonemic
+17-190-166-1,nort2697,Azerbaijani (Terekeme dialect),1609,фикир,CyrillTrans,"idea, notion",,,fikir,Phonemic
+17-210-166-1,nort2697,Azerbaijani (Terekeme dialect),698,дуьнйагуьрмиш,CyrillTrans,wise,,,dünyagürmiš,Phonemic
+17-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1518,ахмаг,CyrillTrans,"foolish, stupid",,,axmag,Phonemic
+17-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1899,сарсаг,CyrillTrans,"insane, crazy",,,sarsag,Phonemic
+17-240-166-1,nort2697,Azerbaijani (Terekeme dialect),504,билмек,CyrillTrans,learn,,,bilmek,Phonemic
+17-242-166-1,nort2697,Azerbaijani (Terekeme dialect),1929,охумаг,CyrillTrans,study,,,oxumag,Phonemic
+17-250-166-1,nort2697,Azerbaijani (Terekeme dialect),709,охумаг,CyrillTrans,teach,,,oxumag,Phonemic
+17-260-166-1,nort2697,Azerbaijani (Terekeme dialect),753,телебе,CyrillTrans,pupil,,,"telebe, šagird",Phonemic
+17-260-166-3,nort2697,Azerbaijani (Terekeme dialect),753,шагирд,CyrillTrans,pupil,,,"telebe, šagird",Phonemic
+17-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1038,меллим,CyrillTrans,teacher,,,mellim,Phonemic
+17-280-166-1,nort2697,Azerbaijani (Terekeme dialect),673,мектеб,CyrillTrans,school,,,mekteb,Phonemic
+17-310-166-1,nort2697,Azerbaijani (Terekeme dialect),707,хетирлемаг,CyrillTrans,remember,,,xetirlemag,Phonemic
+17-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1523,унутмаг,CyrillTrans,forget,,,unutmag,Phonemic
+17-340-166-1,nort2697,Azerbaijani (Terekeme dialect),989,ачуг,CyrillTrans,"clear, plain",,,ačug,Phonemic
+17-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1764,сарсаг,CyrillTrans,obscure,,,sarsag,Phonemic
+17-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1121,гизлин,CyrillTrans,secret,,,gizlin,Phonemic
+17-370-166-1,nort2697,Azerbaijani (Terekeme dialect),509,гуьвенен,CyrillTrans,"sure, certain",,,güvenen,Phonemic
+17-380-166-1,nort2697,Azerbaijani (Terekeme dialect),1626,анлатмаг,CyrillTrans,explain,,,anlatmag,Phonemic
+17-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1162,гьедеф,CyrillTrans,"intention, purpose",,,hedef,Phonemic
+17-420-166-1,nort2697,Azerbaijani (Terekeme dialect),860,гуьмах,CyrillTrans,cause,,,gümax,Phonemic
+17-430-166-1,nort2697,Azerbaijani (Terekeme dialect),1308,шуьпхе,CyrillTrans,doubt,,,šüpxe,Phonemic
+17-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1841,шуьпхеленмаг,CyrillTrans,suspect,,,šüpxelenmag,Phonemic
+17-441-166-1,nort2697,Azerbaijani (Terekeme dialect),1902,сатмаг,CyrillTrans,betray,,,satmag,Phonemic
+17-450-166-1,nort2697,Azerbaijani (Terekeme dialect),643,лазым,CyrillTrans,"need, necessity",,,lazɨm,Phonemic
+17-460-166-1,nort2697,Azerbaijani (Terekeme dialect),686,хуьнгуьл,CyrillTrans,easy,,,"xüngül, golay",Phonemic
+17-460-166-3,nort2697,Azerbaijani (Terekeme dialect),686,голай,CyrillTrans,easy,,,"xüngül, golay",Phonemic
+17-470-166-1,nort2697,Azerbaijani (Terekeme dialect),584,зар,CyrillTrans,difficult,,,"zar, četin",Phonemic
+17-470-166-3,nort2697,Azerbaijani (Terekeme dialect),584,четин,CyrillTrans,difficult,,,"zar, četin",Phonemic
+17-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1812,денеме,CyrillTrans,"try, attempt",,,deneme,Phonemic
+17-490-166-1,nort2697,Azerbaijani (Terekeme dialect),488,йол,CyrillTrans,"way, manner",,,yol,Phonemic
+17-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1577,ве,CyrillTrans,and,,,ve,Phonemic
+17-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1157,онунчун,CyrillTrans,because,,,onunčun,Phonemic
+17-530-166-1,nort2697,Azerbaijani (Terekeme dialect),1459,эгер,CyrillTrans,if,,,eger,Phonemic
+17-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1014,ве,CyrillTrans,or,,,"ve, ya",Phonemic
+17-540-166-3,nort2697,Azerbaijani (Terekeme dialect),1014,йа,CyrillTrans,or,,,"ve, ya",Phonemic
+17-550-166-1,nort2697,Azerbaijani (Terekeme dialect),1268,хери,CyrillTrans,"yes, affirmative",,,xeri,Phonemic
+17-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1269,йах,CyrillTrans,"no, negative",,,yax,Phonemic
+17-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1239,чече,CyrillTrans,how?,,,čeče,Phonemic
+17-620-166-1,nort2697,Azerbaijani (Terekeme dialect),822,не гедер,CyrillTrans,how many?,,,ne geder,Phonemic
+17-630-166-1,nort2697,Azerbaijani (Terekeme dialect),531,не гедер,CyrillTrans,how much?,,,ne geder,Phonemic
+17-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1236,не,CyrillTrans,what?,,,ne,Phonemic
+17-650-166-1,nort2697,Azerbaijani (Terekeme dialect),1238,не вехт,CyrillTrans,when?,,,"ne vext, ne zaman",Phonemic
+17-650-166-3,nort2697,Azerbaijani (Terekeme dialect),1238,не заман,CyrillTrans,when?,,,"ne vext, ne zaman",Phonemic
+17-660-166-1,nort2697,Azerbaijani (Terekeme dialect),1237,гьарда,CyrillTrans,where?,,,"harda, hardan",Phonemic
+17-660-166-3,nort2697,Azerbaijani (Terekeme dialect),1237,гьардан,CyrillTrans,where?,,,"harda, hardan",Phonemic
+17-670-166-1,nort2697,Azerbaijani (Terekeme dialect),727,не чуьр,CyrillTrans,which?,,,ne čür,Phonemic
+17-680-166-1,nort2697,Azerbaijani (Terekeme dialect),1235,ким,CyrillTrans,who?,,,kim,Phonemic
+17-690-166-1,nort2697,Azerbaijani (Terekeme dialect),1270,нечуьн,CyrillTrans,why?,,,nečün,Phonemic
+18-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1363,сес,CyrillTrans,voice,,,ses,Phonemic
+18-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1261,махни охумаг,CyrillTrans,sing,,,maxni oxumag,Phonemic
+18-130-166-1,nort2697,Azerbaijani (Terekeme dialect),715,гишгирмаг,CyrillTrans,"shout, cry out",,,gišgirmag,Phonemic
+18-150-166-1,nort2697,Azerbaijani (Terekeme dialect),55,фишилдамаг,CyrillTrans,whisper,,,fišildamag,Phonemic
+18-160-166-1,nort2697,Azerbaijani (Terekeme dialect),128,буринуьн ичерсинден,CyrillTrans,mumble,,,"burinün ičersinden, denišmag",Phonemic
+18-160-166-3,nort2697,Azerbaijani (Terekeme dialect),128,денишмаг,CyrillTrans,mumble,,,"burinün ičersinden, denišmag",Phonemic
+18-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1025,фуьт чалмаг,CyrillTrans,whistle,,,füt čalmag,Phonemic
+18-180-166-1,nort2697,Azerbaijani (Terekeme dialect),298,зува чекмаг,CyrillTrans,"shriek, screech",,,zuva čekmag,Phonemic
+18-190-166-1,nort2697,Azerbaijani (Terekeme dialect),526,зува чекмаг,CyrillTrans,howl,,,zuva čekmag,Phonemic
+18-210-166-1,nort2697,Azerbaijani (Terekeme dialect),1623,ихтилат йетмаг,CyrillTrans,"speak, talk",,,"ixtilat yetmag, denišmag",Phonemic
+18-210-166-3,nort2697,Azerbaijani (Terekeme dialect),1623,денишмаг,CyrillTrans,"speak, talk",,,"ixtilat yetmag, denišmag",Phonemic
+18-211-166-1,nort2697,Azerbaijani (Terekeme dialect),1866,кекелемаг,CyrillTrans,"stutter, stammer",,,kekelemag,Phonemic
+18-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1458,димаг,CyrillTrans,say,,,dimag,Phonemic
+18-221-166-1,nort2697,Azerbaijani (Terekeme dialect),1711,денишмаг,CyrillTrans,tell story,,,denišmag,Phonemic
+18-222-166-1,nort2697,Azerbaijani (Terekeme dialect),1115,денишмаг,CyrillTrans,speech (make a),,,denišmag,Phonemic
+18-230-166-1,nort2697,Azerbaijani (Terekeme dialect),48,сусмаг,CyrillTrans,silent (be),,,susmag,Phonemic
+18-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1307,дил,CyrillTrans,language,,,dil,Phonemic
+18-260-166-1,nort2697,Azerbaijani (Terekeme dialect),1599,соьз,CyrillTrans,word,,,söz,Phonemic
+18-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1405,ад,CyrillTrans,name,,,ad,Phonemic
+18-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1309,сорушмаг,CyrillTrans,"ask (question, inquire)",,,sorušmag,Phonemic
+18-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1275,чеваб вермаг,CyrillTrans,answer,,,čevab vermag,Phonemic
+18-330-166-1,nort2697,Azerbaijani (Terekeme dialect),2022,бойнине алмаг,CyrillTrans,"admit, confess",,,boynine almag,Phonemic
+18-340-166-1,nort2697,Azerbaijani (Terekeme dialect),755,бойнине алмамаг,CyrillTrans,deny,,,boynine almamag,Phonemic
+18-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1828,истемаг,CyrillTrans,"ask, request",,,istemag,Phonemic
+18-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1675,соьз вермаг,CyrillTrans,promise,,,söz vermag,Phonemic
+18-370-166-1,nort2697,Azerbaijani (Terekeme dialect),49,бойнине алмамаг,CyrillTrans,refuse,,,boynine almamag,Phonemic
+18-380-166-1,nort2697,Azerbaijani (Terekeme dialect),83,гадаган етмек,CyrillTrans,forbid,,,gadagan etmek,Phonemic
+18-390-166-1,nort2697,Azerbaijani (Terekeme dialect),299,суьгмаг,CyrillTrans,"rebuke, scold",,,sügmag,Phonemic
+18-410-166-1,nort2697,Azerbaijani (Terekeme dialect),1084,гагурмаг,CyrillTrans,call (=summon),,,gagurmag,Phonemic
+18-420-166-1,nort2697,Azerbaijani (Terekeme dialect),180,адларын димаг,CyrillTrans,call (=name),,,adlarɨn dimag,Phonemic
+18-430-166-1,nort2697,Azerbaijani (Terekeme dialect),9,илан етмек,CyrillTrans,announce,,,ilan etmek,Phonemic
+18-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1192,горхутмаг,CyrillTrans,threaten,,,gorxutmag,Phonemic
+18-450-166-1,nort2697,Azerbaijani (Terekeme dialect),101,йуьзини терифлемаг,CyrillTrans,boast,,,yüzini teriflemag,Phonemic
+18-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1672,йазмаг,CyrillTrans,write,,,yazmag,Phonemic
+18-520-166-1,nort2697,Azerbaijani (Terekeme dialect),724,охумаг,CyrillTrans,read,,,oxumag,Phonemic
+18-560-166-1,nort2697,Azerbaijani (Terekeme dialect),648,кағаз,CyrillTrans,paper,,,kaɣaz,Phonemic
+18-570-166-1,nort2697,Azerbaijani (Terekeme dialect),794,гелем,CyrillTrans,pen,,,"gеlеm, ručka",Phonemic
+18-570-166-3,nort2697,Azerbaijani (Terekeme dialect),794,ручка,CyrillTrans,pen,,,"gеlеm, ručka",Phonemic
+18-610-166-1,nort2697,Azerbaijani (Terekeme dialect),963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-166-1,nort2697,Azerbaijani (Terekeme dialect),1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-166-1,nort2697,Azerbaijani (Terekeme dialect),777,флейта,CyrillTrans,flute,,,fleyta,Phonemic
+18-720-166-1,nort2697,Azerbaijani (Terekeme dialect),908,нагара,CyrillTrans,drum,,,nagara,Phonemic
+18-730-166-1,nort2697,Azerbaijani (Terekeme dialect),2136,турба,CyrillTrans,"horn, trumpet",,,turba,Phonemic
+18-740-166-1,nort2697,Azerbaijani (Terekeme dialect),300,ойунчаг,CyrillTrans,rattle,,,oyunčag,Phonemic
+19-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1300,девлет,CyrillTrans,country,,,"devlet, veten",Phonemic
+19-110-166-3,nort2697,Azerbaijani (Terekeme dialect),1300,ветен,CyrillTrans,country,,,"devlet, veten",Phonemic
+19-120-166-1,nort2697,Azerbaijani (Terekeme dialect),89,догма ветен,CyrillTrans,one's native country,,,dogma veten,Phonemic
+19-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1391,шехер,CyrillTrans,"city, town",,,šexer,Phonemic
+19-160-166-1,nort2697,Azerbaijani (Terekeme dialect),930,кент,CyrillTrans,village,,,kent,Phonemic
+19-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1010,саьргьаьд,CyrillTrans,boundary,,,"särhäd, hüdud",Phonemic
+19-170-166-3,nort2697,Azerbaijani (Terekeme dialect),1010,гьуьдуд,CyrillTrans,boundary,,,"särhäd, hüdud",Phonemic
+19-210-166-1,nort2697,Azerbaijani (Terekeme dialect),789,миллет,CyrillTrans,people (populace),,,millet,Phonemic
+19-230-166-1,nort2697,Azerbaijani (Terekeme dialect),302,тохум,CyrillTrans,"tribe, clan",,,toxum,Phonemic
+19-240-166-1,nort2697,Azerbaijani (Terekeme dialect),301,паччак,CyrillTrans,"chief, chieftain",,,paččak,Phonemic
+19-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1296,хесе,CyrillTrans,"staff, walking stick",,,xese,Phonemic
+19-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1846,идарa етмeк,CyrillTrans,"rule, govern",,,idara etmek,Phonemic
+19-320-166-1,nort2697,Azerbaijani (Terekeme dialect),1508,паччах,CyrillTrans,"king, ruler",,,"paččax, šah",Phonemic
+19-320-166-3,nort2697,Azerbaijani (Terekeme dialect),1508,шагь,CyrillTrans,"king, ruler",,,"paččax, šah",Phonemic
+19-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1306,шагьзада,CyrillTrans,queen,,,šahzada,Phonemic
+19-360-166-1,nort2697,Azerbaijani (Terekeme dialect),482,мубарек,CyrillTrans,"noble, nobleman",,,mubarek,Phonemic
+19-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1032,шехерлуь,CyrillTrans,"citizen, subject",,,šexerlü,Phonemic
+19-410-166-1,nort2697,Azerbaijani (Terekeme dialect),383,ага,CyrillTrans,master,,,"aga, beg",Phonemic
+19-410-166-3,nort2697,Azerbaijani (Terekeme dialect),383,бег,CyrillTrans,master,,,"aga, beg",Phonemic
+19-420-166-1,nort2697,Azerbaijani (Terekeme dialect),812,гул,CyrillTrans,slave,,,gul,Phonemic
+19-430-166-1,nort2697,Azerbaijani (Terekeme dialect),255,гуллугчи,CyrillTrans,servant,,,gullugči,Phonemic
+19-440-166-1,nort2697,Azerbaijani (Terekeme dialect),384,сербест адам,CyrillTrans,freeman,,,serbest adam,Phonemic
+19-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1128,гьокит вермаг,CyrillTrans,"command, order",,,hokit vermag,Phonemic
+19-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1635,гуллуг йетмаг,CyrillTrans,obey,,,gullug yetmag,Phonemic
+19-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1003,изин вермаг,CyrillTrans,"let, permit",,,izin vermag,Phonemic
+19-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1325,дост,CyrillTrans,"friend, companion",,,dost,Phonemic
+19-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1358,дуьшман,CyrillTrans,enemy,,,düšman,Phonemic
+19-540-166-1,nort2697,Azerbaijani (Terekeme dialect),1332,гонши,CyrillTrans,neighbor,,,gonši,Phonemic
+19-550-166-1,nort2697,Azerbaijani (Terekeme dialect),791,танимейен адам,CyrillTrans,stranger,,,tanimeyen adam,Phonemic
+19-560-166-1,nort2697,Azerbaijani (Terekeme dialect),1782,гунаг,CyrillTrans,guest,,,gunag,Phonemic
+19-570-166-1,nort2697,Azerbaijani (Terekeme dialect),1545,ада,CyrillTrans,host,,,ada,Phonemic
+19-580-166-1,nort2697,Azerbaijani (Terekeme dialect),1897,коьтек,CyrillTrans,"help, aid",,,kötek,Phonemic
+19-590-166-1,nort2697,Azerbaijani (Terekeme dialect),1550,зорлуг чихармаг,CyrillTrans,"hinder, prevent",,,zorlug čixarmag,Phonemic
+19-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1747,адет,CyrillTrans,custom,,,"adet, yenene",Phonemic
+19-610-166-3,nort2697,Azerbaijani (Terekeme dialect),1747,йенене,CyrillTrans,custom,,,"adet, yenene",Phonemic
+19-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1848,куьс,CyrillTrans,"strife, quarrel",,,küs,Phonemic
+19-630-166-1,nort2697,Azerbaijani (Terekeme dialect),2024,гаьсд,CyrillTrans,"conspiracy, plot",,,"gäsd, dilbirlik",Phonemic
+19-630-166-3,nort2697,Azerbaijani (Terekeme dialect),2024,дилбирлик,CyrillTrans,"conspiracy, plot",,,"gäsd, dilbirlik",Phonemic
+19-650-166-1,nort2697,Azerbaijani (Terekeme dialect),1831,гуьруьшмаг,CyrillTrans,meet,,,gürüšmag,Phonemic
+19-720-166-1,nort2697,Azerbaijani (Terekeme dialect),1610,гезеген гиз,CyrillTrans,prostitute,,,gezegen giz,Phonemic
+20-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1423,эллешмаг,CyrillTrans,fight (vb),,,"ellešmag, vuršmag",Phonemic
+20-110-166-3,nort2697,Azerbaijani (Terekeme dialect),1423,вуршмаг,CyrillTrans,fight (vb),,,"ellešmag, vuršmag",Phonemic
+20-130-166-1,nort2697,Azerbaijani (Terekeme dialect),579,дава,CyrillTrans,"war, battle",,,dava,Phonemic
+20-140-166-1,nort2697,Azerbaijani (Terekeme dialect),1338,суьлх,CyrillTrans,peace,,,sülx,Phonemic
+20-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1561,армийе,CyrillTrans,army,,,armiye,Phonemic
+20-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1941,эскер,CyrillTrans,soldier,,,esker,Phonemic
+20-210-166-1,nort2697,Azerbaijani (Terekeme dialect),951,силах,CyrillTrans,"weapons, arms",,,silax,Phonemic
+20-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1763,одун,CyrillTrans,club,,,odun,Phonemic
+20-222-166-1,nort2697,Azerbaijani (Terekeme dialect),386,дава балтасы,CyrillTrans,battle-ax,,,dava baltasɨ,Phonemic
+20-230-166-1,nort2697,Azerbaijani (Terekeme dialect),387,сапанд,CyrillTrans,sling,,,sapand,Phonemic
+20-240-166-1,nort2697,Azerbaijani (Terekeme dialect),994,йайух,CyrillTrans,bow,,,yayux,Phonemic
+20-250-166-1,nort2697,Azerbaijani (Terekeme dialect),977,уч,CyrillTrans,arrow,,,uč,Phonemic
+20-260-166-1,nort2697,Azerbaijani (Terekeme dialect),945,уч,CyrillTrans,spear,,,uč,Phonemic
+20-270-166-1,nort2697,Azerbaijani (Terekeme dialect),1535,хенчер,CyrillTrans,sword,,,xenčer,Phonemic
+20-280-166-1,nort2697,Azerbaijani (Terekeme dialect),1566,туьфенг,CyrillTrans,"gun, cannon",,,"tüfeng, top",Phonemic
+20-280-166-3,nort2697,Azerbaijani (Terekeme dialect),1566,топ,CyrillTrans,"gun, cannon",,,"tüfeng, top",Phonemic
+20-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1061,галхан,CyrillTrans,armor (defensive),,,galxan,Phonemic
+20-330-166-1,nort2697,Azerbaijani (Terekeme dialect),1680,даьмир папак,CyrillTrans,helmet,,,dämir papak,Phonemic
+20-340-166-1,nort2697,Azerbaijani (Terekeme dialect),1064,галхан,CyrillTrans,shield,,,galxan,Phonemic
+20-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1938,гала,CyrillTrans,fortress,,,gala,Phonemic
+20-360-166-1,nort2697,Azerbaijani (Terekeme dialect),1671,гала,CyrillTrans,tower,,,gala,Phonemic
+20-410-166-1,nort2697,Azerbaijani (Terekeme dialect),783,галиб,CyrillTrans,victory,,,galib,Phonemic
+20-420-166-1,nort2697,Azerbaijani (Terekeme dialect),782,удузма,CyrillTrans,defeat,,,uduzma,Phonemic
+20-430-166-1,nort2697,Azerbaijani (Terekeme dialect),722,гьучум этмек,CyrillTrans,attack,,,hučum etmek,Phonemic
+20-440-166-1,nort2697,Azerbaijani (Terekeme dialect),1330,горумаг,CyrillTrans,defend,,,gorumag,Phonemic
+20-450-166-1,nort2697,Azerbaijani (Terekeme dialect),421,чекилмек,CyrillTrans,retreat,,,čekilmek,Phonemic
+20-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1696,теслим олмаг,CyrillTrans,surrender,,,teslim olmag,Phonemic
+20-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1072,эсир,CyrillTrans,"captive, prisoner",,,"esir, türmede oturan",Phonemic
+20-470-166-3,nort2697,Azerbaijani (Terekeme dialect),1072,туьрмеде отуран,CyrillTrans,"captive, prisoner",,,"esir, türmede oturan",Phonemic
+20-471-166-1,nort2697,Azerbaijani (Terekeme dialect),1940,гаравул,CyrillTrans,"guard, sentinel",,,garavul,Phonemic
+20-480-166-1,nort2697,Azerbaijani (Terekeme dialect),1022,огурланан эшйалар,CyrillTrans,"booty, spoils",,,ogurlanan ešyalar,Phonemic
+20-490-166-1,nort2697,Azerbaijani (Terekeme dialect),65,йолуна писгу гоймаг,CyrillTrans,ambush,,,yoluna pisgu goymag,Phonemic
+20-510-166-1,nort2697,Azerbaijani (Terekeme dialect),1858,балугчи,CyrillTrans,fisherman,,,balugči,Phonemic
+20-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1074,ғармағ,CyrillTrans,fishhook,,,ɣarmaɣ,Phonemic
+20-530-166-1,nort2697,Azerbaijani (Terekeme dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-166-1,nort2697,Azerbaijani (Terekeme dialect),388,сетка,CyrillTrans,fishnet,,,"setka, toru",Phonemic
+20-540-166-3,nort2697,Azerbaijani (Terekeme dialect),388,тору,CyrillTrans,fishnet,,,"setka, toru",Phonemic
+20-550-166-1,nort2697,Azerbaijani (Terekeme dialect),389,балуг уьчуьн таьлаь,CyrillTrans,fish trap,,,balug üčün tälä,Phonemic
+20-560-166-1,nort2697,Azerbaijani (Terekeme dialect),2013,джазиба,CyrillTrans,bait,,,ǯaziba,Phonemic
+20-610-166-1,nort2697,Azerbaijani (Terekeme dialect),1435,авламаг,CyrillTrans,hunt,,,avlamag,Phonemic
+20-620-166-1,nort2697,Azerbaijani (Terekeme dialect),1172,вурмаг,CyrillTrans,shoot,,,"vurmag, ateš yetmag",Phonemic
+20-620-166-3,nort2697,Azerbaijani (Terekeme dialect),1172,атеш йетмаг,CyrillTrans,shoot,,,"vurmag, ateš yetmag",Phonemic
+20-630-166-1,nort2697,Azerbaijani (Terekeme dialect),161,саьгьв этмаг,CyrillTrans,miss (target),,,sähv etmag,Phonemic
+20-640-166-1,nort2697,Azerbaijani (Terekeme dialect),1075,таьлаь,CyrillTrans,trap (noun),,,tälä,Phonemic
+20-650-166-1,nort2697,Azerbaijani (Terekeme dialect),1170,тутмаг,CyrillTrans,trap (vb),,,tutmag,Phonemic
+21-110-166-1,nort2697,Azerbaijani (Terekeme dialect),1062,ганун,CyrillTrans,law,,,ganun,Phonemic
+21-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1068,магькеме,CyrillTrans,court,,,mahkeme,Phonemic
+21-160-166-1,nort2697,Azerbaijani (Terekeme dialect),1818,магькемейе чекмек,CyrillTrans,judge (vb),,,mahkemeye čekmek,Phonemic
+21-170-166-1,nort2697,Azerbaijani (Terekeme dialect),1067,магькеменин герары,CyrillTrans,judgment,,,mahkemenin gerarɨ,Phonemic
+21-180-166-1,nort2697,Azerbaijani (Terekeme dialect),861,гьаким,CyrillTrans,judge (noun),,,hakim,Phonemic
+21-210-166-1,nort2697,Azerbaijani (Terekeme dialect),2020,магькемейе верен,CyrillTrans,plaintiff,,,mahkemeye veren,Phonemic
+21-220-166-1,nort2697,Azerbaijani (Terekeme dialect),1034,магькемейе чихен,CyrillTrans,defendant,,,mahkemeye čixen,Phonemic
+21-230-166-1,nort2697,Azerbaijani (Terekeme dialect),1144,шахид,CyrillTrans,witness,,,šaxid,Phonemic
+21-240-166-1,nort2697,Azerbaijani (Terekeme dialect),1939,анд ичмаг,CyrillTrans,swear,,,and ičmag,Phonemic
+21-250-166-1,nort2697,Azerbaijani (Terekeme dialect),1712,анд,CyrillTrans,oath,,,and,Phonemic
+21-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1814,гунахламаг,CyrillTrans,accuse,,,gunaxlamag,Phonemic
+21-320-166-1,nort2697,Azerbaijani (Terekeme dialect),484,гунахламаг,CyrillTrans,condemn,,,gunaxlamag,Phonemic
+21-330-166-1,nort2697,Azerbaijani (Terekeme dialect),983,тахсир етмек,CyrillTrans,convict (vb),,,taxsir etmek,Phonemic
+21-340-166-1,nort2697,Azerbaijani (Terekeme dialect),988,аг етмек,CyrillTrans,acquit,,,ag etmek,Phonemic
+21-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1682,тахсирли,CyrillTrans,guilty,,,taxsirli,Phonemic
+21-360-166-1,nort2697,Azerbaijani (Terekeme dialect),90,тахсирсуьз,CyrillTrans,innocent,,,taxsirsüz,Phonemic
+21-370-166-1,nort2697,Azerbaijani (Terekeme dialect),390,чеза,CyrillTrans,"penalty, punishment",,,čeza,Phonemic
+21-380-166-1,nort2697,Azerbaijani (Terekeme dialect),218,пул чезасы,CyrillTrans,fine,,,pul čezasɨ,Phonemic
+21-390-166-1,nort2697,Azerbaijani (Terekeme dialect),1281,гьабисгьане,CyrillTrans,"prison, jail",,,habishane,Phonemic
+21-420-166-1,nort2697,Azerbaijani (Terekeme dialect),845,уьлуьт,CyrillTrans,murder,,,ülüt,Phonemic
+21-430-166-1,nort2697,Azerbaijani (Terekeme dialect),902,гезеген,CyrillTrans,adultery,,,gezegen,Phonemic
+21-440-166-1,nort2697,Azerbaijani (Terekeme dialect),953,зорлама,CyrillTrans,rape,,,zorlama,Phonemic
+21-460-166-1,nort2697,Azerbaijani (Terekeme dialect),1889,от атмаг,CyrillTrans,arson,,,ot atmag,Phonemic
+21-470-166-1,nort2697,Azerbaijani (Terekeme dialect),1792,йаланчи шахид,CyrillTrans,perjury,,,yalanči šaxid,Phonemic
+21-510-166-1,nort2697,Azerbaijani (Terekeme dialect),713,огурламаг,CyrillTrans,steal,,,ogurlamag,Phonemic
+21-520-166-1,nort2697,Azerbaijani (Terekeme dialect),1160,огри,CyrillTrans,thief,,,ogri,Phonemic
+22-110-166-1,nort2697,Azerbaijani (Terekeme dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-166-1,nort2697,Azerbaijani (Terekeme dialect),1944,Аллах,CyrillTrans,God,,,Allax,Phonemic
+22-130-166-1,nort2697,Azerbaijani (Terekeme dialect),911,килсе,CyrillTrans,"temple, church",,,kilse,Phonemic
+22-140-166-1,nort2697,Azerbaijani (Terekeme dialect),853,михраб,CyrillTrans,altar,,,mixrab,Phonemic
+22-150-166-1,nort2697,Azerbaijani (Terekeme dialect),1103,курбан,CyrillTrans,"sacrifice, offering",,,kurban,Phonemic
+22-160-166-1,nort2697,Azerbaijani (Terekeme dialect),257,инанмаг,CyrillTrans,worship,,,inanmag,Phonemic
+22-170-166-1,nort2697,Azerbaijani (Terekeme dialect),24,намаз гилмаг,CyrillTrans,pray,,,namaz gilmag,Phonemic
+22-180-166-1,nort2697,Azerbaijani (Terekeme dialect),852,папаз,CyrillTrans,priest,,,papaz,Phonemic
+22-190-166-1,nort2697,Azerbaijani (Terekeme dialect),1702,диндар,CyrillTrans,"holy, sacred",,,dindar,Phonemic
+22-220-166-1,nort2697,Azerbaijani (Terekeme dialect),304,анлатмаг,CyrillTrans,preach,,,anlatmag,Phonemic
+22-230-166-1,nort2697,Azerbaijani (Terekeme dialect),391,хелал этмаг,CyrillTrans,bless,,,xelal etmag,Phonemic
+22-240-166-1,nort2697,Azerbaijani (Terekeme dialect),8,беддуа этмаг,CyrillTrans,curse,,,"beddua etmag, ax etmag",Phonemic
+22-240-166-3,nort2697,Azerbaijani (Terekeme dialect),8,ах этмаг,CyrillTrans,curse,,,"beddua etmag, ax etmag",Phonemic
+22-260-166-1,nort2697,Azerbaijani (Terekeme dialect),303,оруч тутмаг,CyrillTrans,fast (vb),,,oruč tutmag,Phonemic
+22-310-166-1,nort2697,Azerbaijani (Terekeme dialect),1565,гоьклер,CyrillTrans,heaven,,,"gökler, čennet",Phonemic
+22-310-166-3,nort2697,Azerbaijani (Terekeme dialect),1565,ченнет,CyrillTrans,heaven,,,"gökler, čennet",Phonemic
+22-320-166-1,nort2697,Azerbaijani (Terekeme dialect),878,чегьеннем,CyrillTrans,hell,,,čehennem,Phonemic
+22-350-166-1,nort2697,Azerbaijani (Terekeme dialect),1973,шейтан,CyrillTrans,demon (evil spirit),,,"šeytan, iblis",Phonemic
+22-350-166-3,nort2697,Azerbaijani (Terekeme dialect),1973,иблис,CyrillTrans,demon (evil spirit),,,"šeytan, iblis",Phonemic
+22-370-166-1,nort2697,Azerbaijani (Terekeme dialect),1945,пут,CyrillTrans,idol,,,put,Phonemic
+22-420-166-1,nort2697,Azerbaijani (Terekeme dialect),392,сирлуь,CyrillTrans,"magic, witchcraft, sorcery",,,"sirlü, čadu",Phonemic
+22-420-166-3,nort2697,Azerbaijani (Terekeme dialect),392,чаду,CyrillTrans,"magic, witchcraft, sorcery",,,"sirlü, čadu",Phonemic
+22-430-166-1,nort2697,Azerbaijani (Terekeme dialect),2137,чадугар,CyrillTrans,"sorcerer, witch",,,čadugar,Phonemic
+22-440-166-1,nort2697,Azerbaijani (Terekeme dialect),2138,мелек,CyrillTrans,"fairy, elf",,,melek,Phonemic
+22-450-166-1,nort2697,Azerbaijani (Terekeme dialect),1175,горуьнтуь,CyrillTrans,"ghost, phantom",,,gorüntü,Phonemic
+22-470-166-1,nort2697,Azerbaijani (Terekeme dialect),107,ишиглуьг,CyrillTrans,"omen, portent",,,išiglüg,Phonemic

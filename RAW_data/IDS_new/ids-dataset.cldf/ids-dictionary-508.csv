@@ -1,0 +1,1641 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-508-1,darg1241,Dargwa (Megeb dialect),1852,бахънал,CyrillTrans,often,,,baqnal,Phonemic
+14-310-508-1,darg1241,Dargwa (Megeb dialect),1676,мурталла,CyrillTrans,always,,,murtalla,Phonemic
+14-290-508-1,darg1241,Dargwa (Megeb dialect),790,хІадури,CyrillTrans,ready,,,ħaduri,Phonemic
+14-280-508-1,darg1241,Dargwa (Megeb dialect),1928,билзес,CyrillTrans,"cease, stop",,,"bilzes, bizes",Phonemic
+14-280-508-3,darg1241,Dargwa (Megeb dialect),1928,бизес,CyrillTrans,"cease, stop",,,"bilzes, bizes",Phonemic
+14-270-508-1,darg1241,Dargwa (Megeb dialect),1766,хвагІал бикьес,CyrillTrans,finish,,,"xʷaʕal biqʼes, anni baqʼas",Phonemic
+14-270-508-3,darg1241,Dargwa (Megeb dialect),1766,анни бакьас,CyrillTrans,finish,,,"xʷaʕal biqʼes, anni baqʼas",Phonemic
+14-260-508-1,darg1241,Dargwa (Megeb dialect),743,хвагІал бакьас,CyrillTrans,end (temporal),,,xʷaʕal baqʼas,Phonemic
+14-252-508-1,darg1241,Dargwa (Megeb dialect),1186,гІаргъа букьес,CyrillTrans,"last, endure",,,ʕarɣa buqʼes,Phonemic
+14-250-508-1,darg1241,Dargwa (Megeb dialect),1806,гьара къелабехІ,CyrillTrans,"begin, beginning",,,"hara q̄elabeħ, beħ bakʼas",Phonemic
+14-250-508-3,darg1241,Dargwa (Megeb dialect),1806,бехІ бакІас,CyrillTrans,"begin, beginning",,,"hara q̄elabeħ, beħ bakʼas",Phonemic
+14-240-508-1,darg1241,Dargwa (Megeb dialect),425,бизахъас,CyrillTrans,"retard, delay",,,bizaqas,Phonemic
+14-230-508-1,darg1241,Dargwa (Megeb dialect),754,анавар укьес,CyrillTrans,"hasten, hurry",,,anawar uqʼes,Phonemic
+14-220-508-1,darg1241,Dargwa (Megeb dialect),701,багьлал,CyrillTrans,slow,,,"bahlal, q̄eyal",Phonemic
+14-220-508-3,darg1241,Dargwa (Megeb dialect),701,къеял,CyrillTrans,slow,,,"bahlal, q̄eyal",Phonemic
+14-210-508-1,darg1241,Dargwa (Megeb dialect),1631,анавари,CyrillTrans,"swift, fast, quick",,,anawari,Phonemic
+14-190-508-1,darg1241,Dargwa (Megeb dialect),1963,палхъъиле,CyrillTrans,immediately,,,palqʔile,Phonemic
+14-180-508-1,darg1241,Dargwa (Megeb dialect),1376,гьисагІат,CyrillTrans,now,,,hisaʕat,Phonemic
+14-170-508-1,darg1241,Dargwa (Megeb dialect),477,кьамле,CyrillTrans,late,,,qʼamle,Phonemic
+14-160-508-1,darg1241,Dargwa (Megeb dialect),672,жявле,CyrillTrans,early,,,"žaˤwle, žawaˤl",Phonemic
+14-160-508-3,darg1241,Dargwa (Megeb dialect),672,жавял,CyrillTrans,early,,,"žaˤwle, žawaˤl",Phonemic
+14-150-508-1,darg1241,Dargwa (Megeb dialect),1229,ухънал,CyrillTrans,old,,,uqnal,Phonemic
+14-140-508-1,darg1241,Dargwa (Megeb dialect),1207,гъвабзал,CyrillTrans,young,,,ɣʷabzal,Phonemic
+14-120-508-1,darg1241,Dargwa (Megeb dialect),1789,век,CyrillTrans,age,,,"wek, epoxa",Phonemic
+14-120-508-3,darg1241,Dargwa (Megeb dialect),1789,эпоха,CyrillTrans,age,,,"wek, epoxa",Phonemic
+14-130-508-1,darg1241,Dargwa (Megeb dialect),1231,сагал,CyrillTrans,new,,,sagal,Phonemic
+14-110-508-1,darg1241,Dargwa (Megeb dialect),892,замана,CyrillTrans,time,,,zamana,Phonemic
+13-440-508-1,darg1241,Dargwa (Megeb dialect),417,хІяйънал,CyrillTrans,three times,,,ħaˤyʔnal,Phonemic
+13-420-508-1,darg1241,Dargwa (Megeb dialect),1859,хІябяси,CyrillTrans,third,,,ħaˤbaˤsi,Phonemic
+13-380-508-1,darg1241,Dargwa (Megeb dialect),1546,кІвиялгъуйни,CyrillTrans,two times,,,"kʼʷiyalɣuyni, kʼʷiʔnal",Phonemic
+13-380-508-3,darg1241,Dargwa (Megeb dialect),1546,кІвиънал,CyrillTrans,two times,,,"kʼʷiyalɣuyni, kʼʷiʔnal",Phonemic
+13-370-508-1,darg1241,Dargwa (Megeb dialect),1888,кІвиял,CyrillTrans,pair,,,kʼʷiyal,Phonemic
+13-360-508-1,darg1241,Dargwa (Megeb dialect),1384,кІвиэси,CyrillTrans,second,,,kʼʷiesi,Phonemic
+13-350-508-1,darg1241,Dargwa (Megeb dialect),1529,гІала,CyrillTrans,last,,,"ʕala, ʕalala, uraɣali",Phonemic
+13-350-508-3,darg1241,Dargwa (Megeb dialect),1529,гІалала,CyrillTrans,last,,,"ʕala, ʕalala, uraɣali",Phonemic
+13-350-508-5,darg1241,Dargwa (Megeb dialect),1529,урагъали,CyrillTrans,last,,,"ʕala, ʕalala, uraɣali",Phonemic
+13-340-508-1,darg1241,Dargwa (Megeb dialect),728,абалагьабал,CyrillTrans,first,,,"abalahabal, hawala, hawali",Phonemic
+13-340-508-3,darg1241,Dargwa (Megeb dialect),728,гьавала,CyrillTrans,first,,,"abalahabal, hawala, hawali",Phonemic
+13-340-508-5,darg1241,Dargwa (Megeb dialect),728,гьавали,CyrillTrans,first,,,"abalahabal, hawala, hawali",Phonemic
+13-330-508-1,darg1241,Dargwa (Megeb dialect),1580,ца,CyrillTrans,"alone, only",,,"ca, cayʔnil",Phonemic
+13-330-508-3,darg1241,Dargwa (Megeb dialect),1580,цайънил,CyrillTrans,"alone, only",,,"ca, cayʔnil",Phonemic
+13-240-508-1,darg1241,Dargwa (Megeb dialect),816,хярияла,CyrillTrans,half,,,xaˤriyala,Phonemic
+13-230-508-1,darg1241,Dargwa (Megeb dialect),779,палча,CyrillTrans,"part, piece",,,"palča, butʼa, kesek",Phonemic
+13-230-508-3,darg1241,Dargwa (Megeb dialect),779,бутІа,CyrillTrans,"part, piece",,,"palča, butʼa, kesek",Phonemic
+13-230-508-5,darg1241,Dargwa (Megeb dialect),779,кесек,CyrillTrans,"part, piece",,,"palča, butʼa, kesek",Phonemic
+13-220-508-1,darg1241,Dargwa (Megeb dialect),1624,бацІил,CyrillTrans,empty,,,bacʼil,Phonemic
+13-210-508-1,darg1241,Dargwa (Megeb dialect),1429,бицІиби,CyrillTrans,full,,,bicʼibi,Phonemic
+13-190-508-1,darg1241,Dargwa (Megeb dialect),2023,дахъил,CyrillTrans,"multitude, crowd",,,"daqil, incʼule",Phonemic
+13-190-508-3,darg1241,Dargwa (Megeb dialect),2023,инцІуле,CyrillTrans,"multitude, crowd",,,"daqil, incʼule",Phonemic
+13-181-508-1,darg1241,Dargwa (Megeb dialect),1241,цачумал,CyrillTrans,some,,,"cačumal, caɣida",Phonemic
+13-181-508-3,darg1241,Dargwa (Megeb dialect),1241,цагъида,CyrillTrans,some,,,"cačumal, caɣida",Phonemic
+13-170-508-1,darg1241,Dargwa (Megeb dialect),1242,биштІал,CyrillTrans,"little (quantity), few",,,"bištʼal, ɣida",Phonemic
+13-170-508-3,darg1241,Dargwa (Megeb dialect),1242,гъида,CyrillTrans,"little (quantity), few",,,"bištʼal, ɣida",Phonemic
+13-180-508-1,darg1241,Dargwa (Megeb dialect),1881,даъари,CyrillTrans,enough,,,daʔari,Phonemic
+13-160-508-1,darg1241,Dargwa (Megeb dialect),1992,хвалал,CyrillTrans,more,,,"xʷalal, incʼul",Phonemic
+13-160-508-3,darg1241,Dargwa (Megeb dialect),1992,инцІул,CyrillTrans,more,,,"xʷalal, incʼul",Phonemic
+13-150-508-1,darg1241,Dargwa (Megeb dialect),1198,дахъил,CyrillTrans,"much, many",,,daqil,Phonemic
+13-140-508-1,darg1241,Dargwa (Megeb dialect),98,абзула,CyrillTrans,"every, all",,,abzula,Phonemic
+13-107-508-1,darg1241,Dargwa (Megeb dialect),1420,эл эс,CyrillTrans,count,,,el es,Phonemic
+13-106-508-1,darg1241,Dargwa (Megeb dialect),1843,азарал,CyrillTrans,thousand,,,azaral,Phonemic
+13-105-508-1,darg1241,Dargwa (Megeb dialect),1634,даршал,CyrillTrans,hundred,,,daršal,Phonemic
+13-104-508-1,darg1241,Dargwa (Megeb dialect),1710,гъал,CyrillTrans,twenty,,,ɣal,Phonemic
+13-103-508-1,darg1241,Dargwa (Megeb dialect),1709,вецІнушурал,CyrillTrans,fifteen,,,wecʼnušural,Phonemic
+13-102-508-1,darg1241,Dargwa (Megeb dialect),1707,вецІнукІвирал,CyrillTrans,twelve,,,wecʼnukʼʷiral,Phonemic
+13-101-508-1,darg1241,Dargwa (Megeb dialect),1706,вецІнуцарал,CyrillTrans,eleven,,,wecʼnucaral,Phonemic
+13-100-508-1,darg1241,Dargwa (Megeb dialect),1515,вецІал,CyrillTrans,ten,,,wecʼal,Phonemic
+13-90-508-1,darg1241,Dargwa (Megeb dialect),1483,урчІебал,CyrillTrans,nine,,,určʼebal,Phonemic
+13-80-508-1,darg1241,Dargwa (Megeb dialect),1705,гахІал,CyrillTrans,eight,,,gaħal,Phonemic
+13-70-508-1,darg1241,Dargwa (Megeb dialect),1704,верхІал,CyrillTrans,seven,,,werħal,Phonemic
+13-60-508-1,darg1241,Dargwa (Megeb dialect),1703,урежал,CyrillTrans,six,,,urežal,Phonemic
+13-50-508-1,darg1241,Dargwa (Megeb dialect),493,шувал,CyrillTrans,five,,,šuwal,Phonemic
+13-40-508-1,darg1241,Dargwa (Megeb dialect),1500,авъал,CyrillTrans,four,,,awʔal,Phonemic
+13-20-508-1,darg1241,Dargwa (Megeb dialect),1498,кІвиял,CyrillTrans,two,,,kʼʷiyal,Phonemic
+13-30-508-1,darg1241,Dargwa (Megeb dialect),492,хІябал,CyrillTrans,three,,,ħaˤbal,Phonemic
+13-10-508-1,darg1241,Dargwa (Megeb dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-508-1,darg1241,Dargwa (Megeb dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-508-1,darg1241,Dargwa (Megeb dialect),1264,барс бакьас,CyrillTrans,change,,,bars baqʼas,Phonemic
+12-920-508-1,darg1241,Dargwa (Megeb dialect),1558,мешул,CyrillTrans,"like, similar",,,mešul,Phonemic
+12-840-508-1,darg1241,Dargwa (Megeb dialect),1048,гъел,CyrillTrans,line,,,ɣel,Phonemic
+12-850-508-1,darg1241,Dargwa (Megeb dialect),1667,тІярхъи,CyrillTrans,hole,,,tʼaˤrqi,Phonemic
+12-830-508-1,darg1241,Dargwa (Megeb dialect),1845,гІерёгІ,CyrillTrans,"sphere, ball",,,"ʕeryoʕ, šar",Phonemic
+12-830-508-3,darg1241,Dargwa (Megeb dialect),1845,шар,CyrillTrans,"sphere, ball",,,"ʕeryoʕ, šar",Phonemic
+12-810-508-1,darg1241,Dargwa (Megeb dialect),1395,журуги,CyrillTrans,round,,,žurugi,Phonemic
+12-820-508-1,darg1241,Dargwa (Megeb dialect),1467,хІула,CyrillTrans,circle,,,ħula,Phonemic
+12-780-508-1,darg1241,Dargwa (Megeb dialect),850,аъмури,CyrillTrans,square,,,"aʔmuri, amʔuri",Phonemic
+12-780-508-3,darg1241,Dargwa (Megeb dialect),850,амъури,CyrillTrans,square,,,"aʔmuri, amʔuri",Phonemic
+12-770-508-1,darg1241,Dargwa (Megeb dialect),1367,хъанч,CyrillTrans,cross,,,qanč,Phonemic
+12-760-508-1,darg1241,Dargwa (Megeb dialect),192,муръа,CyrillTrans,corner,,,murʔa,Phonemic
+12-750-508-1,darg1241,Dargwa (Megeb dialect),1071,кІичІ,CyrillTrans,hook,,,"kʼičʼ, qaˤmca",Phonemic
+12-750-508-3,darg1241,Dargwa (Megeb dialect),1071,хъямца,CyrillTrans,hook,,,"kʼičʼ, qaˤmca",Phonemic
+12-740-508-1,darg1241,Dargwa (Megeb dialect),297,гъямил,CyrillTrans,crooked,,,ɣaˤmil,Phonemic
+12-730-508-1,darg1241,Dargwa (Megeb dialect),1404,бархьил,CyrillTrans,straight,,,barx̌il,Phonemic
+12-710-508-1,darg1241,Dargwa (Megeb dialect),1633,чІяпил,CyrillTrans,flat,,,"čʼaˤpil, dirqʼal",Phonemic
+12-710-508-3,darg1241,Dargwa (Megeb dialect),1633,диркьал,CyrillTrans,flat,,,"čʼaˤpil, dirqʼal",Phonemic
+12-680-508-1,darg1241,Dargwa (Megeb dialect),193,бимгІяни,CyrillTrans,shallow,,,bimʕaˤni,Phonemic
+12-670-508-1,darg1241,Dargwa (Megeb dialect),1593,мургьил,CyrillTrans,deep,,,murhil,Phonemic
+12-650-508-1,darg1241,Dargwa (Megeb dialect),2249,бихІул,CyrillTrans,thin (in dimension),,,biħul,Phonemic
+12-630-508-1,darg1241,Dargwa (Megeb dialect),1244,гванзил,CyrillTrans,thick (in dimension),,,gʷanzil,Phonemic
+12-620-508-1,darg1241,Dargwa (Megeb dialect),1267,бихьёнтІил,CyrillTrans,narrow,,,bix̌yontʼil,Phonemic
+12-610-508-1,darg1241,Dargwa (Megeb dialect),1243,бягІул,CyrillTrans,"wide, broad",,,baˤʕul,Phonemic
+12-590-508-1,darg1241,Dargwa (Megeb dialect),1645,гъантІил,CyrillTrans,short,,,ɣantʼil,Phonemic
+12-580-508-1,darg1241,Dargwa (Megeb dialect),711,ахъил,CyrillTrans,tall,,,aqil,Phonemic
+12-570-508-1,darg1241,Dargwa (Megeb dialect),1203,гІаргъал,CyrillTrans,long,,,"ʕarɣal, arɣal",Phonemic
+12-570-508-3,darg1241,Dargwa (Megeb dialect),1203,аргъал,CyrillTrans,long,,,"ʕarɣal, arɣal",Phonemic
+12-560-508-1,darg1241,Dargwa (Megeb dialect),1246,биштІул,CyrillTrans,"small, little",,,"bištʼul, bištʼal",Phonemic
+12-560-508-3,darg1241,Dargwa (Megeb dialect),1246,биштІал,CyrillTrans,"small, little",,,"bištʼul, bištʼal",Phonemic
+12-550-508-1,darg1241,Dargwa (Megeb dialect),1202,хвелел,CyrillTrans,"large, big",,,xʷelel,Phonemic
+12-540-508-1,darg1241,Dargwa (Megeb dialect),1506,умцес,CyrillTrans,measure,,,umces,Phonemic
+12-530-508-1,darg1241,Dargwa (Megeb dialect),479,хвала баъас,CyrillTrans,grow,,,xʷala baʔas,Phonemic
+12-480-508-1,darg1241,Dargwa (Megeb dialect),1595,кьилба,CyrillTrans,south,,,qʼilba,Phonemic
+12-470-508-1,darg1241,Dargwa (Megeb dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-508-1,darg1241,Dargwa (Megeb dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-508-1,darg1241,Dargwa (Megeb dialect),1877,машрикь,CyrillTrans,east,,,mašriqʼ,Phonemic
+12-430-508-1,darg1241,Dargwa (Megeb dialect),1942,хяръуб,CyrillTrans,near (adv),,,xaˤrʔub,Phonemic
+12-440-508-1,darg1241,Dargwa (Megeb dialect),1406,гІахъле,CyrillTrans,far (adv),,,"ʕaqle, ʕaqlib",Phonemic
+12-440-508-3,darg1241,Dargwa (Megeb dialect),1406,гIахълиб,CyrillTrans,far (adv),,,"ʕaqle, ʕaqlib",Phonemic
+12-420-508-1,darg1241,Dargwa (Megeb dialect),244,гъямил,CyrillTrans,left (side),,,ɣaˤmil,Phonemic
+12-410-508-1,darg1241,Dargwa (Megeb dialect),1019,бархьил,CyrillTrans,right (side),,,barx̌il,Phonemic
+12-370-508-1,darg1241,Dargwa (Megeb dialect),1093,дайц,CyrillTrans,"middle, center",,,"dayc, urgabi",Phonemic
+12-370-508-3,darg1241,Dargwa (Megeb dialect),1093,ургаби,CyrillTrans,"middle, center",,,"dayc, urgabi",Phonemic
+12-360-508-1,darg1241,Dargwa (Megeb dialect),682,рахъ,CyrillTrans,side,,,"raq, ca (xaˤriyala)",Phonemic
+12-360-508-3,darg1241,Dargwa (Megeb dialect),682,ца (хярияла),CyrillTrans,side,,,"raq, ca (xaˤriyala)",Phonemic
+12-353-508-1,darg1241,Dargwa (Megeb dialect),863,дуб,CyrillTrans,edge,,,dub,Phonemic
+12-352-508-1,darg1241,Dargwa (Megeb dialect),372,дугал,CyrillTrans,pointed,,,"dugal, beħičul",Phonemic
+12-352-508-3,darg1241,Dargwa (Megeb dialect),372,бехІичул,CyrillTrans,pointed,,,"dugal, beħičul",Phonemic
+12-350-508-1,darg1241,Dargwa (Megeb dialect),742,ахир,CyrillTrans,end,,,"axir, ʕalabeħ",Phonemic
+12-350-508-3,darg1241,Dargwa (Megeb dialect),742,гІалабехІ,CyrillTrans,end,,,"axir, ʕalabeħ",Phonemic
+12-340-508-1,darg1241,Dargwa (Megeb dialect),690,лутІи,CyrillTrans,bottom,,,"lutʼi, ketali",Phonemic
+12-340-508-3,darg1241,Dargwa (Megeb dialect),690,кетали,CyrillTrans,bottom,,,"lutʼi, ketali",Phonemic
+12-320-508-1,darg1241,Dargwa (Megeb dialect),721,ухьле,CyrillTrans,low,,,ux̌le,Phonemic
+12-330-508-1,darg1241,Dargwa (Megeb dialect),1753,къар бечІ,CyrillTrans,top,,,"q̄ar bečʼ, aqubi beħ",Phonemic
+12-330-508-3,darg1241,Dargwa (Megeb dialect),1753,ахъуби бехІ,CyrillTrans,top,,,"q̄ar bečʼ, aqubi beħ",Phonemic
+12-310-508-1,darg1241,Dargwa (Megeb dialect),1265,ахъле,CyrillTrans,high,,,aqle,Phonemic
+12-270-508-1,darg1241,Dargwa (Megeb dialect),602,бялдес,CyrillTrans,"hide, conceal",,,"baˤldes, arbu aqas",Phonemic
+12-270-508-3,darg1241,Dargwa (Megeb dialect),602,арбу ахъас,CyrillTrans,"hide, conceal",,,"baˤldes, arbu aqas",Phonemic
+12-250-508-1,darg1241,Dargwa (Megeb dialect),1046,къябэс,CyrillTrans,"shut, close",,,q̄aˤbʔes,Phonemic
+12-260-508-1,darg1241,Dargwa (Megeb dialect),761,гвербакьас,CyrillTrans,cover,,,gʷerbaqʼas,Phonemic
+12-240-508-1,darg1241,Dargwa (Megeb dialect),1156,абхьес,CyrillTrans,open,,,abx̌es,Phonemic
+12-232-508-1,darg1241,Dargwa (Megeb dialect),1119,дайахъас,CyrillTrans,divide,,,dayaqas,Phonemic
+12-230-508-1,darg1241,Dargwa (Megeb dialect),1359,декІарабакьас,CyrillTrans,separate,,,dekʼarabaqʼas,Phonemic
+12-220-508-1,darg1241,Dargwa (Megeb dialect),1743,ценхІе бакьас,CyrillTrans,"join, unite",,,"cenħe baqʼas, dibzes",Phonemic
+12-220-508-3,darg1241,Dargwa (Megeb dialect),1743,дибзес,CyrillTrans,"join, unite",,,"cenħe baqʼas, dibzes",Phonemic
+12-213-508-1,darg1241,Dargwa (Megeb dialect),1576,бекІабакьас,CyrillTrans,pile up,,,bekʼabaqʼas,Phonemic
+12-212-508-1,darg1241,Dargwa (Megeb dialect),371,ахъбакъас,CyrillTrans,pick up,,,aqbaq̄as,Phonemic
+12-210-508-1,darg1241,Dargwa (Megeb dialect),7,дарэс,CyrillTrans,"collect, gather",,,darʔes,Phonemic
+12-170-508-1,darg1241,Dargwa (Megeb dialect),838,уркалЪуни,CyrillTrans,"remains, left overs",,,"urkalʔuni, kaluni",Phonemic
+12-170-508-3,darg1241,Dargwa (Megeb dialect),838,калуни,CyrillTrans,"remains, left overs",,,"urkalʔuni, kaluni",Phonemic
+12-160-508-1,darg1241,Dargwa (Megeb dialect),987,калэс,CyrillTrans,"remain, stay",,,kales,Phonemic
+12-150-508-1,darg1241,Dargwa (Megeb dialect),1442,тІашбизес,CyrillTrans,stand,,,tʼašbizes,Phonemic
+12-140-508-1,darg1241,Dargwa (Megeb dialect),215,гьилбихьес,CyrillTrans,lie down,,,hilbix̌es,Phonemic
+12-130-508-1,darg1241,Dargwa (Megeb dialect),1416,кабиэс,CyrillTrans,sit,,,kabiʔes,Phonemic
+12-120-508-1,darg1241,Dargwa (Megeb dialect),998,бихьес,CyrillTrans,put,,,bix̌es,Phonemic
+12-110-508-1,darg1241,Dargwa (Megeb dialect),723,меръ,CyrillTrans,place,,,merʔ,Phonemic
+12-80-508-1,darg1241,Dargwa (Megeb dialect),1591,ахъуб,CyrillTrans,"up, above",,,aqub,Phonemic
+12-70-508-1,darg1241,Dargwa (Megeb dialect),1485,уб,CyrillTrans,under,,,ub,Phonemic
+12-60-508-1,darg1241,Dargwa (Megeb dialect),762,дураб,CyrillTrans,outside,,,durab,Phonemic
+12-50-508-1,darg1241,Dargwa (Megeb dialect),1606,бухІнаб,CyrillTrans,"inside, in",,,buħnab,Phonemic
+12-41-508-1,darg1241,Dargwa (Megeb dialect),1883,гьаракьеб,CyrillTrans,front,,,"haraqʼeb, harq̄ela",Phonemic
+12-41-508-3,darg1241,Dargwa (Megeb dialect),1883,гьаркъела,CyrillTrans,front,,,"haraqʼeb, harq̄ela",Phonemic
+12-40-508-1,darg1241,Dargwa (Megeb dialect),1882,гьабле,CyrillTrans,before,,,"hable, hablazamana",Phonemic
+12-40-508-3,darg1241,Dargwa (Megeb dialect),1882,гьаблазамана,CyrillTrans,before,,,"hable, hablazamana",Phonemic
+12-30-508-1,darg1241,Dargwa (Megeb dialect),2094,удиди,CyrillTrans,"down, below",,,"udidi, uble",Phonemic
+12-30-508-3,darg1241,Dargwa (Megeb dialect),2094,убле,CyrillTrans,"down, below",,,"udidi, uble",Phonemic
+12-20-508-1,darg1241,Dargwa (Megeb dialect),1816,хяруди,CyrillTrans,beside,,,"xaˤrudi, xarʔub",Phonemic
+12-20-508-3,darg1241,Dargwa (Megeb dialect),1816,харъуб,CyrillTrans,beside,,,"xaˤrudi, xarʔub",Phonemic
+12-11-508-1,darg1241,Dargwa (Megeb dialect),1686,гІала,CyrillTrans,behind,,,"ʕala, ʕabad",Phonemic
+12-11-508-3,darg1241,Dargwa (Megeb dialect),1686,гІабад,CyrillTrans,behind,,,"ʕala, ʕabad",Phonemic
+12-10-508-1,darg1241,Dargwa (Megeb dialect),1685,гІарагъа,CyrillTrans,after,,,"ʕaraɣa, uraɣa",Phonemic
+12-10-508-3,darg1241,Dargwa (Megeb dialect),1685,урагъа,CyrillTrans,after,,,"ʕaraɣa, uraɣa",Phonemic
+11-920-508-1,darg1241,Dargwa (Megeb dialect),1098,унцес,CyrillTrans,weigh,,,unces,Phonemic
+11-910-508-1,darg1241,Dargwa (Megeb dialect),884,дайакьас,CyrillTrans,share (distribute),,,dayaqʼas,Phonemic
+11-890-508-1,darg1241,Dargwa (Megeb dialect),1887,ужузи,CyrillTrans,cheap,,,"užuzi, užuzle",Phonemic
+11-890-508-3,darg1241,Dargwa (Megeb dialect),1887,ужузле,CyrillTrans,cheap,,,"užuzi, užuzle",Phonemic
+11-880-508-1,darg1241,Dargwa (Megeb dialect),1426,хирал,CyrillTrans,"dear (costly, expensive)",,,xiral,Phonemic
+11-870-508-1,darg1241,Dargwa (Megeb dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-508-1,darg1241,Dargwa (Megeb dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-508-1,darg1241,Dargwa (Megeb dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-508-1,darg1241,Dargwa (Megeb dialect),1082,базирган,CyrillTrans,merchant,,,bazirgan,Phonemic
+11-830-508-1,darg1241,Dargwa (Megeb dialect),2135,дарам,CyrillTrans,"trade, barter",,,"daram, bazar",Phonemic
+11-830-508-3,darg1241,Dargwa (Megeb dialect),2135,базар,CyrillTrans,"trade, barter",,,"daram, bazar",Phonemic
+11-820-508-1,darg1241,Dargwa (Megeb dialect),1571,дилцес,CyrillTrans,sell,,,dilces,Phonemic
+11-810-508-1,darg1241,Dargwa (Megeb dialect),1869,исес,CyrillTrans,buy,,,ises,Phonemic
+11-790-508-1,darg1241,Dargwa (Megeb dialect),733,дургес,CyrillTrans,earn,,,durges,Phonemic
+11-780-508-1,darg1241,Dargwa (Megeb dialect),1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-508-1,darg1241,Dargwa (Megeb dialect),856,буцес,CyrillTrans,hire,,,buces,Phonemic
+11-690-508-1,darg1241,Dargwa (Megeb dialect),873,магъалу,CyrillTrans,"tax, tribute",,,maɣalu,Phonemic
+11-660-508-1,darg1241,Dargwa (Megeb dialect),1081,элЪри,CyrillTrans,"account, reckoning",,,"elʔri, ħisab",Phonemic
+11-660-508-3,darg1241,Dargwa (Megeb dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,"elʔri, ħisab",Phonemic
+11-650-508-1,darg1241,Dargwa (Megeb dialect),718,лугес,CyrillTrans,pay (vb),,,luges,Phonemic
+11-640-508-1,darg1241,Dargwa (Megeb dialect),1914,чердеш,CyrillTrans,debt,,,čerdeš,Phonemic
+11-630-508-1,darg1241,Dargwa (Megeb dialect),369,чердеш лугес,CyrillTrans,owe,,,čerdeš luges,Phonemic
+11-620-508-1,darg1241,Dargwa (Megeb dialect),1823,чердеш дакъас,CyrillTrans,borrow,,,"čerdeš daq̄as, čerdeš ises",Phonemic
+11-620-508-3,darg1241,Dargwa (Megeb dialect),1823,чердеш исес,CyrillTrans,borrow,,,"čerdeš daq̄as, čerdeš ises",Phonemic
+11-610-508-1,darg1241,Dargwa (Megeb dialect),582,дарсгес,CyrillTrans,lend,,,"darsges, čerdeš luges",Phonemic
+11-610-508-3,darg1241,Dargwa (Megeb dialect),582,чердеш лугес,CyrillTrans,lend,,,"darsges, čerdeš luges",Phonemic
+11-540-508-1,darg1241,Dargwa (Megeb dialect),1774,мяштІил,CyrillTrans,"avaricious, stingy",,,maˤštʼil,Phonemic
+11-530-508-1,darg1241,Dargwa (Megeb dialect),1934,мискин,CyrillTrans,beggar,,,"miskin, sadaqʼači",Phonemic
+11-530-508-3,darg1241,Dargwa (Megeb dialect),1934,садакьачи,CyrillTrans,beggar,,,"miskin, sadaqʼači",Phonemic
+11-520-508-1,darg1241,Dargwa (Megeb dialect),1674,мискини,CyrillTrans,poor,,,miskini,Phonemic
+11-510-508-1,darg1241,Dargwa (Megeb dialect),712,дурхвамал,CyrillTrans,rich,,,durxʷamal,Phonemic
+11-440-508-1,darg1241,Dargwa (Megeb dialect),1867,кІепІекІ,CyrillTrans,coin,,,kʼepʼekʼ,Phonemic
+11-430-508-1,darg1241,Dargwa (Megeb dialect),1559,арц,CyrillTrans,money,,,arc,Phonemic
+11-340-508-1,darg1241,Dargwa (Megeb dialect),1095,батураъас,CyrillTrans,"release, let go",,,baturaʔas,Phonemic
+11-330-508-1,darg1241,Dargwa (Megeb dialect),1660,арбу эс,CyrillTrans,lose,,,arbu es,Phonemic
+11-320-508-1,darg1241,Dargwa (Megeb dialect),719,дургес,CyrillTrans,find,,,"durges, barges",Phonemic
+11-320-508-3,darg1241,Dargwa (Megeb dialect),719,баргес,CyrillTrans,find,,,"durges, barges",Phonemic
+11-310-508-1,darg1241,Dargwa (Megeb dialect),1468,халдакьас,CyrillTrans,"seek, look for",,,xaldaqʼas,Phonemic
+11-280-508-1,darg1241,Dargwa (Megeb dialect),44,зарал бакьас,CyrillTrans,"harm, injure, damage",,,zaral baqʼas,Phonemic
+11-270-508-1,darg1241,Dargwa (Megeb dialect),681,аркахъас,CyrillTrans,destroy,,,arkaqas,Phonemic
+11-250-508-1,darg1241,Dargwa (Megeb dialect),2008,хвасар бакьас,CyrillTrans,"save, rescue",,,xʷasar baqʼas,Phonemic
+11-240-508-1,darg1241,Dargwa (Megeb dialect),1997,дямхяс,CyrillTrans,"preserve, look after",,,daˤmxaˤs,Phonemic
+11-220-508-1,darg1241,Dargwa (Megeb dialect),85,гІяшдяхъяс,CyrillTrans,give back,,,"ʕaˤšdaˤqaˤs, ibaħaˤd ges",Phonemic
+11-220-508-3,darg1241,Dargwa (Megeb dialect),85,ибахІяд гес,CyrillTrans,give back,,,"ʕaˤšdaˤqaˤs, ibaħaˤd ges",Phonemic
+11-210-508-1,darg1241,Dargwa (Megeb dialect),1447,гес,CyrillTrans,give,,,"ges, luges",Phonemic
+11-210-508-3,darg1241,Dargwa (Megeb dialect),1447,лугес,CyrillTrans,give,,,"ges, luges",Phonemic
+11-180-508-1,darg1241,Dargwa (Megeb dialect),738,балга,CyrillTrans,thing,,,balga,Phonemic
+11-170-508-1,darg1241,Dargwa (Megeb dialect),1477,дямхяс,CyrillTrans,"keep, retain",,,"daˤmxaˤs, damxas",Phonemic
+11-170-508-3,darg1241,Dargwa (Megeb dialect),1477,дамхас,CyrillTrans,"keep, retain",,,"daˤmxaˤs, damxas",Phonemic
+11-160-508-1,darg1241,Dargwa (Megeb dialect),694,лебдеш,CyrillTrans,"get, obtain",,,"lebdeš, ises",Phonemic
+11-160-508-3,darg1241,Dargwa (Megeb dialect),694,исес,CyrillTrans,"get, obtain",,,"lebdeš, ises",Phonemic
+11-150-508-1,darg1241,Dargwa (Megeb dialect),1448,бизахъас,CyrillTrans,hold,,,"bizaqas, buces",Phonemic
+11-150-508-3,darg1241,Dargwa (Megeb dialect),1448,буцес,CyrillTrans,hold,,,"bizaqas, buces",Phonemic
+11-140-508-1,darg1241,Dargwa (Megeb dialect),2021,буцес,CyrillTrans,"seize, grasp",,,"buces, qap baqʼas",Phonemic
+11-140-508-3,darg1241,Dargwa (Megeb dialect),2021,хъап бакьас,CyrillTrans,"seize, grasp",,,"buces, qap baqʼas",Phonemic
+11-130-508-1,darg1241,Dargwa (Megeb dialect),1749,асес,CyrillTrans,take,,,ases,Phonemic
+11-120-508-1,darg1241,Dargwa (Megeb dialect),684,вегІдеш,CyrillTrans,"own, possess",,,weʕdeš,Phonemic
+11-110-508-1,darg1241,Dargwa (Megeb dialect),773,лебдеш буэс,CyrillTrans,have,,,lebdeš buʔes,Phonemic
+10-920-508-1,darg1241,Dargwa (Megeb dialect),1922,чеб барцес,CyrillTrans,land (vb),,,čeb barces,Phonemic
+10-910-508-1,darg1241,Dargwa (Megeb dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-508-1,darg1241,Dargwa (Megeb dialect),1870,якор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-508-1,darg1241,Dargwa (Megeb dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-508-1,darg1241,Dargwa (Megeb dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-508-1,darg1241,Dargwa (Megeb dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-508-1,darg1241,Dargwa (Megeb dialect),1849,шиндакьас,CyrillTrans,row (vb),,,šindaqʼas,Phonemic
+10-851-508-1,darg1241,Dargwa (Megeb dialect),234,кура,CyrillTrans,paddle (noun),,,kura,Phonemic
+10-850-508-1,darg1241,Dargwa (Megeb dialect),108,кура,CyrillTrans,oar,,,kura,Phonemic
+10-840-508-1,darg1241,Dargwa (Megeb dialect),1664,дехъ,CyrillTrans,raft,,,deq,Phonemic
+10-832-508-1,darg1241,Dargwa (Megeb dialect),416,гами,CyrillTrans,outrigger,,,"gami, lodka",Phonemic
+10-832-508-3,darg1241,Dargwa (Megeb dialect),416,лодка,CyrillTrans,outrigger,,,"gami, lodka",Phonemic
+10-831-508-1,darg1241,Dargwa (Megeb dialect),1970,гами,CyrillTrans,canoe,,,"gami, lodka",Phonemic
+10-831-508-3,darg1241,Dargwa (Megeb dialect),1970,лодка,CyrillTrans,canoe,,,"gami, lodka",Phonemic
+10-830-508-1,darg1241,Dargwa (Megeb dialect),1844,гами,CyrillTrans,boat,,,"gami, lodka",Phonemic
+10-830-508-3,darg1241,Dargwa (Megeb dialect),1844,лодка,CyrillTrans,boat,,,"gami, lodka",Phonemic
+10-810-508-1,darg1241,Dargwa (Megeb dialect),740,гами,CyrillTrans,ship,,,gami,Phonemic
+10-780-508-1,darg1241,Dargwa (Megeb dialect),14,дукІ,CyrillTrans,yoke,,,dukʼ,Phonemic
+10-770-508-1,darg1241,Dargwa (Megeb dialect),1769,утаргъач,CyrillTrans,axle,,,utarɣač,Phonemic
+10-760-508-1,darg1241,Dargwa (Megeb dialect),710,хІула,CyrillTrans,wheel,,,ħula,Phonemic
+10-750-508-1,darg1241,Dargwa (Megeb dialect),122,гІяраба,CyrillTrans,"carriage, wagon, cart",,,ʕaˤraba,Phonemic
+10-740-508-1,darg1241,Dargwa (Megeb dialect),1011,гуми,CyrillTrans,bridge,,,gumi,Phonemic
+10-720-508-1,darg1241,Dargwa (Megeb dialect),2252,хъархъ мезеди,CyrillTrans,path,,,qarq mezedi,Phonemic
+10-710-508-1,darg1241,Dargwa (Megeb dialect),667,гьуни,CyrillTrans,road,,,huni,Phonemic
+10-670-508-1,darg1241,Dargwa (Megeb dialect),1452,кІучІбакьас,CyrillTrans,"push, shove",,,kʼučʼbaqʼas,Phonemic
+10-660-508-1,darg1241,Dargwa (Megeb dialect),367,мурдале ябуличев вашес,CyrillTrans,ride,,,murdale yaˤbuličew wašes,Phonemic
+10-650-508-1,darg1241,Dargwa (Megeb dialect),741,мурдале машиналичев вашес,CyrillTrans,drive,,,murdale mašinaličew wašes,Phonemic
+10-640-508-1,darg1241,Dargwa (Megeb dialect),43,кес,CyrillTrans,lead (vb),,,kes,Phonemic
+10-630-508-1,darg1241,Dargwa (Megeb dialect),1127,бурхьес,CyrillTrans,send,,,burx̌es,Phonemic
+10-620-508-1,darg1241,Dargwa (Megeb dialect),692,бихес,CyrillTrans,bring,,,bixes,Phonemic
+10-615-508-1,darg1241,Dargwa (Megeb dialect),415,шалуб хес,CyrillTrans,carry-underarm,,,"šalub xes, šalub bixes",Phonemic
+10-615-508-3,darg1241,Dargwa (Megeb dialect),415,шалуб бихес,CyrillTrans,carry-underarm,,,"šalub xes, šalub bixes",Phonemic
+10-614-508-1,darg1241,Dargwa (Megeb dialect),414,бечІичеб хес,CyrillTrans,carry-on-head,,,"bečʼičeb xes, bečʼičeb bixes",Phonemic
+10-614-508-3,darg1241,Dargwa (Megeb dialect),414,бечІичеб бихес,CyrillTrans,carry-on-head,,,"bečʼičeb xes, bečʼičeb bixes",Phonemic
+10-613-508-1,darg1241,Dargwa (Megeb dialect),413,хъарчІулбечеб хес,CyrillTrans,carry-on-shoulder,,,"qarčʼulbečeb xes, qarčʼulbečeb bixes",Phonemic
+10-613-508-3,darg1241,Dargwa (Megeb dialect),413,хъарчІулбечеб бихес,CyrillTrans,carry-on-shoulder,,,"qarčʼulbečeb xes, qarčʼulbečeb bixes",Phonemic
+10-612-508-1,darg1241,Dargwa (Megeb dialect),412,нугъегьерхес,CyrillTrans,carry-in-hand,,,"nuɣeherxes, nuɣaˤčeb bixes",Phonemic
+10-612-508-3,darg1241,Dargwa (Megeb dialect),412,нугъячеб бихес,CyrillTrans,carry-in-hand,,,"nuɣeherxes, nuɣaˤčeb bixes",Phonemic
+10-610-508-1,darg1241,Dargwa (Megeb dialect),700,хес,CyrillTrans,carry (bear),,,"xes, buxes",Phonemic
+10-610-508-3,darg1241,Dargwa (Megeb dialect),700,бухес,CyrillTrans,carry (bear),,,"xes, buxes",Phonemic
+10-570-508-1,darg1241,Dargwa (Megeb dialect),749,берхвес,CyrillTrans,enter,,,"berxʷes, uħna werxʷes",Phonemic
+10-570-508-3,darg1241,Dargwa (Megeb dialect),749,ухІна верхвес,CyrillTrans,enter,,,"berxʷes, uħna werxʷes",Phonemic
+10-560-508-1,darg1241,Dargwa (Megeb dialect),1778,хяръу бугьес,CyrillTrans,approach,,,"xaˤrʔu buhes, kec uhes",Phonemic
+10-560-508-3,darg1241,Dargwa (Megeb dialect),1778,кец угьес,CyrillTrans,approach,,,"xaˤrʔu buhes, kec uhes",Phonemic
+10-550-508-1,darg1241,Dargwa (Megeb dialect),1387,ахъу бикІес,CyrillTrans,"reach, arrive",,,aqu bikʼes,Phonemic
+10-530-508-1,darg1241,Dargwa (Megeb dialect),1047,гІалабикес,CyrillTrans,pursue,,,"ʕalabikes, ɣel duces",Phonemic
+10-530-508-3,darg1241,Dargwa (Megeb dialect),1047,гъел дуцес,CyrillTrans,pursue,,,"ʕalabikes, ɣel duces",Phonemic
+10-520-508-1,darg1241,Dargwa (Megeb dialect),1085,гІалабашес,CyrillTrans,follow,,,ʕalabašes,Phonemic
+10-510-508-1,darg1241,Dargwa (Megeb dialect),956,гьарбухъес,CyrillTrans,flee,,,"harbuqes, ducuwe xʷasar uhes",Phonemic
+10-510-508-3,darg1241,Dargwa (Megeb dialect),956,дуцуве хвасар угьес,CyrillTrans,flee,,,"harbuqes, ducuwe xʷasar uhes",Phonemic
+10-491-508-1,darg1241,Dargwa (Megeb dialect),485,арбу эс,CyrillTrans,disappear,,,"arbu es, aruʔes",Phonemic
+10-491-508-3,darg1241,Dargwa (Megeb dialect),485,аруэс,CyrillTrans,disappear,,,"arbu es, aruʔes",Phonemic
+10-490-508-1,darg1241,Dargwa (Megeb dialect),1752,гІярбукъес,CyrillTrans,"go away, depart",,,ʕaˤrbuq̄es,Phonemic
+10-481-508-1,darg1241,Dargwa (Megeb dialect),581,гІяшбяхъас,CyrillTrans,come back,,,ʕaˤšbaˤqas,Phonemic
+10-480-508-1,darg1241,Dargwa (Megeb dialect),1446,бакІас,CyrillTrans,come,,,bakʼas,Phonemic
+10-474-508-1,darg1241,Dargwa (Megeb dialect),1107,дурабухъес,CyrillTrans,go out,,,durabuqes,Phonemic
+10-473-508-1,darg1241,Dargwa (Megeb dialect),2014,кетал башес,CyrillTrans,go down,,,ketal bašes,Phonemic
+10-472-508-1,darg1241,Dargwa (Megeb dialect),1102,илхъес,CyrillTrans,climb,,,"ilqes, alzes",Phonemic
+10-472-508-3,darg1241,Dargwa (Megeb dialect),1102,алзес,CyrillTrans,climb,,,"ilqes, alzes",Phonemic
+10-470-508-1,darg1241,Dargwa (Megeb dialect),695,башес,CyrillTrans,go,,,bašes,Phonemic
+10-471-508-1,darg1241,Dargwa (Megeb dialect),705,буригІеб башес,CyrillTrans,go up,,,"buriʕeb bašes, ayzes ur wašes",Phonemic
+10-471-508-3,darg1241,Dargwa (Megeb dialect),705,айзес ур вашес,CyrillTrans,go up,,,"buriʕeb bašes, ayzes ur wašes",Phonemic
+10-460-508-1,darg1241,Dargwa (Megeb dialect),1519,гьарбухъес,CyrillTrans,run,,,"harbuqes, ducʼuqes",Phonemic
+10-460-508-3,darg1241,Dargwa (Megeb dialect),1519,дуцІухъес,CyrillTrans,run,,,"harbuqes, ducʼuqes",Phonemic
+10-451-508-1,darg1241,Dargwa (Megeb dialect),366,гІярг букІес,CyrillTrans,limp,,,ʕaˤrg bukʼes,Phonemic
+10-450-508-1,darg1241,Dargwa (Megeb dialect),1443,башес,CyrillTrans,walk,,,bašes,Phonemic
+10-440-508-1,darg1241,Dargwa (Megeb dialect),1879,булхъес,CyrillTrans,dance,,,bulqes,Phonemic
+10-431-508-1,darg1241,Dargwa (Megeb dialect),1135,муркІ бурхес,CyrillTrans,kick,,,"murkʼ burxes, murkʼ ukʼes",Phonemic
+10-431-508-3,darg1241,Dargwa (Megeb dialect),1135,муркІ укІес,CyrillTrans,kick,,,"murkʼ burxes, murkʼ ukʼes",Phonemic
+10-430-508-1,darg1241,Dargwa (Megeb dialect),1829,тІяхІукІес,CyrillTrans,"jump, leap",,,tʼaˤħukʼes,Phonemic
+10-420-508-1,darg1241,Dargwa (Megeb dialect),1324,чях букІес,CyrillTrans,"slide, slip",,,"čaˤx bukʼes, čaˤxuqʼes",Phonemic
+10-420-508-3,darg1241,Dargwa (Megeb dialect),1324,чяхукьес,CyrillTrans,"slide, slip",,,"čaˤx bukʼes, čaˤxuqʼes",Phonemic
+10-413-508-1,darg1241,Dargwa (Megeb dialect),296,къусбиэс,CyrillTrans,crouch,,,"q̄usbiʔes, karʔes",Phonemic
+10-413-508-3,darg1241,Dargwa (Megeb dialect),296,карэс,CyrillTrans,crouch,,,"q̄usbiʔes, karʔes",Phonemic
+10-412-508-1,darg1241,Dargwa (Megeb dialect),66,кьукьубе дяхъяс,CyrillTrans,kneel,,,"qʼuqʼube daˤqaˤs, qʼuqʼuče wikas",Phonemic
+10-412-508-3,darg1241,Dargwa (Megeb dialect),66,кьукьуче викас,CyrillTrans,kneel,,,"qʼuqʼube daˤqaˤs, qʼuqʼuče wikas",Phonemic
+10-410-508-1,darg1241,Dargwa (Megeb dialect),96,сурк укІес,CyrillTrans,"creep, crawl",,,surk ukʼes,Phonemic
+10-380-508-1,darg1241,Dargwa (Megeb dialect),175,гьуф эс,CyrillTrans,blow,,,"huf es, huf ukʼes",Phonemic
+10-380-508-3,darg1241,Dargwa (Megeb dialect),175,гьуф укІес,CyrillTrans,blow,,,"huf es, huf ukʼes",Phonemic
+10-370-508-1,darg1241,Dargwa (Megeb dialect),1441,арцес,CyrillTrans,fly (vb),,,"arces, urces",Phonemic
+10-370-508-3,darg1241,Dargwa (Megeb dialect),1441,урцес,CyrillTrans,fly (vb),,,"arces, urces",Phonemic
+10-360-508-1,darg1241,Dargwa (Megeb dialect),787,шин дакьас,CyrillTrans,sail (vb),,,šin daqʼas,Phonemic
+10-352-508-1,darg1241,Dargwa (Megeb dialect),365,чянтара укІес,CyrillTrans,splash,,,čaˤntara ukʼes,Phonemic
+10-351-508-1,darg1241,Dargwa (Megeb dialect),119,удивихьес,CyrillTrans,dive,,,udiwix̌es,Phonemic
+10-350-508-1,darg1241,Dargwa (Megeb dialect),1439,шин дакьас,CyrillTrans,swim,,,šin daqʼas,Phonemic
+10-340-508-1,darg1241,Dargwa (Megeb dialect),1574,шин дакъас,CyrillTrans,float,,,šin daq̄as,Phonemic
+10-330-508-1,darg1241,Dargwa (Megeb dialect),1088,гъанкъ бугьес,CyrillTrans,sink,,,ɣanq̄ buhes,Phonemic
+10-320-508-1,darg1241,Dargwa (Megeb dialect),2003,рурхъяс,CyrillTrans,flow,,,"rurqaˤs, rorqes",Phonemic
+10-320-508-3,darg1241,Dargwa (Megeb dialect),2003,рорхъес,CyrillTrans,flow,,,"rurqaˤs, rorqes",Phonemic
+10-260-508-1,darg1241,Dargwa (Megeb dialect),1909,кІутІу бакьас,CyrillTrans,shake,,,kʼutʼu baqʼas,Phonemic
+10-252-508-1,darg1241,Dargwa (Megeb dialect),702,буцес,CyrillTrans,catch (ball),,,buces,Phonemic
+10-250-508-1,darg1241,Dargwa (Megeb dialect),1456,игьвес,CyrillTrans,throw,,,"ihʷes, arihʷes",Phonemic
+10-250-508-3,darg1241,Dargwa (Megeb dialect),1456,аригьвес,CyrillTrans,throw,,,"ihʷes, arihʷes",Phonemic
+10-240-508-1,darg1241,Dargwa (Megeb dialect),2253,кІантІ букІахъас,CyrillTrans,drip,,,kʼantʼ bukʼaqas,Phonemic
+10-230-508-1,darg1241,Dargwa (Megeb dialect),1280,арбикес,CyrillTrans,fall,,,arbikes,Phonemic
+10-220-508-1,darg1241,Dargwa (Megeb dialect),501,ахъбакъас,CyrillTrans,"raise, lift",,,aqbaq̄as,Phonemic
+10-210-508-1,darg1241,Dargwa (Megeb dialect),568,ахъугас,CyrillTrans,rise,,,"aqugas, aqas",Phonemic
+10-210-508-3,darg1241,Dargwa (Megeb dialect),568,ахъас,CyrillTrans,rise,,,"aqugas, aqas",Phonemic
+10-170-508-1,darg1241,Dargwa (Megeb dialect),430,тирбизахъас,CyrillTrans,twist,,,"tirbizaqas, asberkʼes",Phonemic
+10-170-508-3,darg1241,Dargwa (Megeb dialect),430,асберкІес,CyrillTrans,twist,,,"tirbizaqas, asberkʼes",Phonemic
+10-160-508-1,darg1241,Dargwa (Megeb dialect),808,белкІвес,CyrillTrans,drop (vb),,,"belkʼʷes, belqʷes",Phonemic
+10-160-508-3,darg1241,Dargwa (Megeb dialect),808,белхъвес,CyrillTrans,drop (vb),,,"belkʼʷes, belqʷes",Phonemic
+10-150-508-1,darg1241,Dargwa (Megeb dialect),827,асбелтІес,CyrillTrans,roll,,,asbeltʼes,Phonemic
+10-140-508-1,darg1241,Dargwa (Megeb dialect),1113,балэс,CyrillTrans,"wind, wrap",,,"bales, berges",Phonemic
+10-140-508-3,darg1241,Dargwa (Megeb dialect),1113,бергес,CyrillTrans,"wind, wrap",,,"bales, berges",Phonemic
+10-130-508-1,darg1241,Dargwa (Megeb dialect),1445,гІяшвя къес,CyrillTrans,turn around,,,"ʕaˤšʷaˤ q̄es, tirwizes",Phonemic
+10-130-508-3,darg1241,Dargwa (Megeb dialect),1445,тирвизес,CyrillTrans,turn around,,,"ʕaˤšʷaˤ q̄es, tirwizes",Phonemic
+10-120-508-1,darg1241,Dargwa (Megeb dialect),1588,тирбизес,CyrillTrans,turn over,,,"tirbizes, asʷalkʼes",Phonemic
+10-120-508-3,darg1241,Dargwa (Megeb dialect),1588,асвалкІес,CyrillTrans,turn over,,,"tirbizes, asʷalkʼes",Phonemic
+10-110-508-1,darg1241,Dargwa (Megeb dialect),765,шиш букІес,CyrillTrans,move,,,"šiš bukʼes, wašes",Phonemic
+10-110-508-3,darg1241,Dargwa (Megeb dialect),765,вашес,CyrillTrans,move,,,"šiš bukʼes, wašes",Phonemic
+9-890-508-1,darg1241,Dargwa (Megeb dialect),2001,сирдакьас,CyrillTrans,paint (vb),,,sirdaqʼas,Phonemic
+9-840-508-1,darg1241,Dargwa (Megeb dialect),1979,уршули,CyrillTrans,chisel,,,"uršuli, mihulul alat",Phonemic
+9-840-508-3,darg1241,Dargwa (Megeb dialect),1979,мигьулул алат,CyrillTrans,chisel,,,"uršuli, mihulul alat",Phonemic
+9-880-508-1,darg1241,Dargwa (Megeb dialect),647,сир,CyrillTrans,paint (noun),,,sir,Phonemic
+9-830-508-1,darg1241,Dargwa (Megeb dialect),1002,сипат,CyrillTrans,statue,,,sipat,Phonemic
+9-820-508-1,darg1241,Dargwa (Megeb dialect),914,устар,CyrillTrans,sculptor,,,"ustar, skulptor",Phonemic
+9-820-508-3,darg1241,Dargwa (Megeb dialect),914,скулптор,CyrillTrans,sculptor,,,"ustar, skulptor",Phonemic
+9-810-508-1,darg1241,Dargwa (Megeb dialect),228,алэс,CyrillTrans,carve,,,alʔes,Phonemic
+9-791-508-1,darg1241,Dargwa (Megeb dialect),360,гъвела гьвиргьвирес,CyrillTrans,fan (vb),,,"ɣʷela hʷirhʷires, hawa baˤqaˤqas",Phonemic
+9-791-508-3,darg1241,Dargwa (Megeb dialect),360,гьава бяхъяхъас,CyrillTrans,fan (vb),,,"ɣʷela hʷirhʷires, hawa baˤqaˤqas",Phonemic
+9-790-508-1,darg1241,Dargwa (Megeb dialect),1971,румдукІани,CyrillTrans,fan (noun),,,rumdukʼani,Phonemic
+9-780-508-1,darg1241,Dargwa (Megeb dialect),293,сетка,CyrillTrans,netbag,,,setka,Phonemic
+9-771-508-1,darg1241,Dargwa (Megeb dialect),292,бартбису,CyrillTrans,rug,,,bartbisu,Phonemic
+9-770-508-1,darg1241,Dargwa (Megeb dialect),195,турут,CyrillTrans,mat,,,turut,Phonemic
+9-760-508-1,darg1241,Dargwa (Megeb dialect),1539,рач,CyrillTrans,basket,,,"rač, mui",Phonemic
+9-760-508-3,darg1241,Dargwa (Megeb dialect),1539,муи,CyrillTrans,basket,,,"rač, mui",Phonemic
+9-750-508-1,darg1241,Dargwa (Megeb dialect),1729,бершес,CyrillTrans,"weave, plait",,,"beršes, suɣban berčes",Phonemic
+9-750-508-3,darg1241,Dargwa (Megeb dialect),1729,сугъбан берчес,CyrillTrans,"weave, plait",,,"beršes, suɣban berčes",Phonemic
+9-740-508-1,darg1241,Dargwa (Megeb dialect),604,пёром,CyrillTrans,glass,,,pyorom,Phonemic
+9-730-508-1,darg1241,Dargwa (Megeb dialect),1399,сидагІянжа,CyrillTrans,clay,,,sidaʕaˤnža,Phonemic
+9-720-508-1,darg1241,Dargwa (Megeb dialect),289,уртІес,CyrillTrans,mold (clay etc),,,"urtʼes, ɣalip artʼes",Phonemic
+9-720-508-3,darg1241,Dargwa (Megeb dialect),289,гъалип артІес,CyrillTrans,mold (clay etc),,,"urtʼes, ɣalip artʼes",Phonemic
+9-710-508-1,darg1241,Dargwa (Megeb dialect),359,тІярхІнила устар,CyrillTrans,potter,,,tʼaˤrħnila ustar,Phonemic
+9-690-508-1,darg1241,Dargwa (Megeb dialect),358,цІубил мигь,CyrillTrans,"tin, tinplate",,,cʼubil mih,Phonemic
+9-680-508-1,darg1241,Dargwa (Megeb dialect),627,чІутІи,CyrillTrans,lead (noun),,,čʼutʼi,Phonemic
+9-670-508-1,darg1241,Dargwa (Megeb dialect),621,мигь,CyrillTrans,iron,,,mih,Phonemic
+9-660-508-1,darg1241,Dargwa (Megeb dialect),1825,дукни,CyrillTrans,"copper, bronze",,,dukni,Phonemic
+9-650-508-1,darg1241,Dargwa (Megeb dialect),759,арц,CyrillTrans,silver,,,arc,Phonemic
+9-640-508-1,darg1241,Dargwa (Megeb dialect),1369,мургье,CyrillTrans,gold,,,murhe,Phonemic
+9-630-508-1,darg1241,Dargwa (Megeb dialect),211,гъалип артІес,CyrillTrans,cast (metals),,,ɣalip artʼes,Phonemic
+9-620-508-1,darg1241,Dargwa (Megeb dialect),1648,рач,CyrillTrans,anvil,,,rač,Phonemic
+9-610-508-1,darg1241,Dargwa (Megeb dialect),288,устар узул хъали,CyrillTrans,forge,,,ustar uzul qali,Phonemic
+9-600-508-1,darg1241,Dargwa (Megeb dialect),1001,устар,CyrillTrans,"smith, blacksmith",,,ustar,Phonemic
+9-560-508-1,darg1241,Dargwa (Megeb dialect),1069,луъмес,CyrillTrans,glue,,,luʔmes,Phonemic
+9-500-508-1,darg1241,Dargwa (Megeb dialect),502,гІябул,CyrillTrans,nail,,,ʕaˤbul,Phonemic
+9-490-508-1,darg1241,Dargwa (Megeb dialect),1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-508-1,darg1241,Dargwa (Megeb dialect),1948,растис,CyrillTrans,saw,,,rastis,Phonemic
+9-461-508-1,darg1241,Dargwa (Megeb dialect),46,белкІвес,CyrillTrans,hollow out,,,belkʼʷes,Phonemic
+9-460-508-1,darg1241,Dargwa (Megeb dialect),1501,тІархъи,CyrillTrans,bore,,,"tʼarqi, tʼaˤrqi",Phonemic
+9-460-508-3,darg1241,Dargwa (Megeb dialect),1501,тІярхъи,CyrillTrans,bore,,,"tʼarqi, tʼaˤrqi",Phonemic
+9-440-508-1,darg1241,Dargwa (Megeb dialect),1840,(хъали) бакьас,CyrillTrans,build,,,(qali) baqʼas,Phonemic
+9-430-508-1,darg1241,Dargwa (Megeb dialect),1042,урцува устар,CyrillTrans,carpenter,,,urcuwa ustar,Phonemic
+9-422-508-1,darg1241,Dargwa (Megeb dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-508-1,darg1241,Dargwa (Megeb dialect),245,бушкала,CyrillTrans,broom,,,buškala,Phonemic
+9-360-508-1,darg1241,Dargwa (Megeb dialect),1453,базес,CyrillTrans,wash,,,bazes,Phonemic
+9-370-508-1,darg1241,Dargwa (Megeb dialect),230,башес,CyrillTrans,sweep,,,"bašes, buškes",Phonemic
+9-370-508-3,darg1241,Dargwa (Megeb dialect),230,бушкес,CyrillTrans,sweep,,,"bašes, buškes",Phonemic
+9-350-508-1,darg1241,Dargwa (Megeb dialect),1487,артІес,CyrillTrans,pour,,,"artʼes, urtʼes",Phonemic
+9-350-508-3,darg1241,Dargwa (Megeb dialect),1487,уртІес,CyrillTrans,pour,,,"artʼes, urtʼes",Phonemic
+9-343-508-1,darg1241,Dargwa (Megeb dialect),1414,белкъес,CyrillTrans,"squeeze, wring",,,belq̄es,Phonemic
+9-342-508-1,darg1241,Dargwa (Megeb dialect),1913,кІуч бакьас,CyrillTrans,press,,,"kʼuč baqʼas, zikʼ baqʼas",Phonemic
+9-342-508-3,darg1241,Dargwa (Megeb dialect),1913,зикІ бакьас,CyrillTrans,press,,,"kʼuč baqʼas, zikʼ baqʼas",Phonemic
+9-341-508-1,darg1241,Dargwa (Megeb dialect),357,ахъас,CyrillTrans,hang up,,,aqas,Phonemic
+9-340-508-1,darg1241,Dargwa (Megeb dialect),38,тІинтІ бакъас,CyrillTrans,spread out,,,tʼintʼ baq̄as,Phonemic
+9-330-508-1,darg1241,Dargwa (Megeb dialect),1455,битІакІас,CyrillTrans,pull,,,bitʼakʼas,Phonemic
+9-320-508-1,darg1241,Dargwa (Megeb dialect),214,хвелебаъахъас,CyrillTrans,stretch,,,"xʷelebaʔaqas, ʕarɣa baʔaqas",Phonemic
+9-320-508-3,darg1241,Dargwa (Megeb dialect),214,гІаргъа баъахъас,CyrillTrans,stretch,,,"xʷelebaʔaqas, ʕarɣa baʔaqas",Phonemic
+9-310-508-1,darg1241,Dargwa (Megeb dialect),1449,буахъас,CyrillTrans,"rub, wipe",,,"buaqas, zur baqʼas",Phonemic
+9-310-508-3,darg1241,Dargwa (Megeb dialect),1449,зур бакьас,CyrillTrans,"rub, wipe",,,"buaqas, zur baqʼas",Phonemic
+9-290-508-1,darg1241,Dargwa (Megeb dialect),291,кІех бишкъес,CyrillTrans,"flay, skin",,,"kʼex bišq̄es, ker bišq̄es",Phonemic
+9-290-508-3,darg1241,Dargwa (Megeb dialect),291,кер бишкъес,CyrillTrans,"flay, skin",,,"kʼex bišq̄es, ker bišq̄es",Phonemic
+9-280-508-1,darg1241,Dargwa (Megeb dialect),1735,хъябакъас,CyrillTrans,tear,,,"qaˤbaq̄as, bercaqas",Phonemic
+9-280-508-3,darg1241,Dargwa (Megeb dialect),1735,берцахъас,CyrillTrans,tear,,,"qaˤbaq̄as, bercaqas",Phonemic
+9-270-508-1,darg1241,Dargwa (Megeb dialect),1437,хъябакъас,CyrillTrans,split,,,"qaˤbaq̄as, urcʼuli daˤq̄as",Phonemic
+9-270-508-3,darg1241,Dargwa (Megeb dialect),1437,урцІули дякъас,CyrillTrans,split,,,"qaˤbaq̄as, urcʼuli daˤq̄as",Phonemic
+9-261-508-1,darg1241,Dargwa (Megeb dialect),588,бёргІёби,CyrillTrans,broken,,,"byorʕyobi, burʕobi",Phonemic
+9-261-508-3,darg1241,Dargwa (Megeb dialect),588,бургІоби,CyrillTrans,broken,,,"byorʕyobi, burʕobi",Phonemic
+9-260-508-1,darg1241,Dargwa (Megeb dialect),680,бургІяхъас,CyrillTrans,break,,,burʕaˤqas,Phonemic
+9-250-508-1,darg1241,Dargwa (Megeb dialect),677,барда,CyrillTrans,ax,,,barda,Phonemic
+9-251-508-1,darg1241,Dargwa (Megeb dialect),290,зигьва,CyrillTrans,adze,,,zihʷa,Phonemic
+9-240-508-1,darg1241,Dargwa (Megeb dialect),356,кІветІмах,CyrillTrans,"scissors, shears",,,kʼʷetʼmax,Phonemic
+9-230-508-1,darg1241,Dargwa (Megeb dialect),1352,дис,CyrillTrans,knife,,,dis,Phonemic
+9-223-508-1,darg1241,Dargwa (Megeb dialect),1434,бергьвес,CyrillTrans,stab,,,"berhʷes, baˤbʕaˤs",Phonemic
+9-223-508-3,darg1241,Dargwa (Megeb dialect),1434,бябгІяс,CyrillTrans,stab,,,"berhʷes, baˤbʕaˤs",Phonemic
+9-222-508-1,darg1241,Dargwa (Megeb dialect),155,бяхъяс,CyrillTrans,"chop, hew",,,"baˤqaˤs, alʔes",Phonemic
+9-222-508-3,darg1241,Dargwa (Megeb dialect),155,алэс,CyrillTrans,"chop, hew",,,"baˤqaˤs, alʔes",Phonemic
+9-221-508-1,darg1241,Dargwa (Megeb dialect),355,гъантІ бакьас,CyrillTrans,cut down,,,ɣantʼ baqʼas,Phonemic
+9-220-508-1,darg1241,Dargwa (Megeb dialect),1432,алэс,CyrillTrans,cut,,,"alʔes, ulʔes",Phonemic
+9-220-508-3,darg1241,Dargwa (Megeb dialect),1432,улэс,CyrillTrans,cut,,,"alʔes, ulʔes",Phonemic
+9-211-508-1,darg1241,Dargwa (Megeb dialect),354,хункІ баъахъас,CyrillTrans,pound with fist,,,xunkʼ baʔaqas,Phonemic
+9-210-508-1,darg1241,Dargwa (Megeb dialect),2133,битес,CyrillTrans,"strike (hit, beat)",,,"bites, dam baqʼas",Phonemic
+9-210-508-3,darg1241,Dargwa (Megeb dialect),2133,дам бакьас,CyrillTrans,"strike (hit, beat)",,,"bites, dam baqʼas",Phonemic
+9-192-508-1,darg1241,Dargwa (Megeb dialect),760,гІёндари,CyrillTrans,knot (noun),,,ʕyondari,Phonemic
+9-190-508-1,darg1241,Dargwa (Megeb dialect),1218,гъвяргъ,CyrillTrans,"rope, cord",,,"ɣʷaˤrɣ, ɣʷaˤrɣʷ",Phonemic
+9-190-508-3,darg1241,Dargwa (Megeb dialect),1218,гъвяргъв,CyrillTrans,"rope, cord",,,"ɣʷaˤrɣ, ɣʷaˤrɣʷ",Phonemic
+9-180-508-1,darg1241,Dargwa (Megeb dialect),1627,рахас,CyrillTrans,chain,,,raxas,Phonemic
+9-161-508-1,darg1241,Dargwa (Megeb dialect),352,бизес,CyrillTrans,untie,,,"bizes, bazes",Phonemic
+9-161-508-3,darg1241,Dargwa (Megeb dialect),352,базес,CyrillTrans,untie,,,"bizes, bazes",Phonemic
+9-160-508-1,darg1241,Dargwa (Megeb dialect),1917,билгьес,CyrillTrans,"tie, bind",,,bilhes,Phonemic
+9-150-508-1,darg1241,Dargwa (Megeb dialect),1470,ас белкІес,CyrillTrans,fold,,,"as belkʼes, žuruya baqʼas",Phonemic
+9-150-508-3,darg1241,Dargwa (Megeb dialect),1470,журуя бакьас,CyrillTrans,fold,,,"as belkʼes, žuruya baqʼas",Phonemic
+9-140-508-1,darg1241,Dargwa (Megeb dialect),2004,гъямбакьас,CyrillTrans,bend,,,ɣaˤmbaqʼas,Phonemic
+9-120-508-1,darg1241,Dargwa (Megeb dialect),984,хІянчи,CyrillTrans,work,,,ħaˤnči,Phonemic
+9-110-508-1,darg1241,Dargwa (Megeb dialect),2575,бакьас,CyrillTrans,"do, make",,,baqʼas,Phonemic
+8-980-508-1,darg1241,Dargwa (Megeb dialect),641,бецІла тус,CyrillTrans,mushroom,,,becʼla tus,Phonemic
+8-970-508-1,darg1241,Dargwa (Megeb dialect),33,низбе,CyrillTrans,nettle,,,nizbe,Phonemic
+8-941-508-1,darg1241,Dargwa (Megeb dialect),146,чакарла тросник,CyrillTrans,sugar cane,,,čakarla trosnik,Phonemic
+8-940-508-1,darg1241,Dargwa (Megeb dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-508-1,darg1241,Dargwa (Megeb dialect),864,хъабахъ,CyrillTrans,"pumpkin, squash",,,qabaq,Phonemic
+8-930-508-1,darg1241,Dargwa (Megeb dialect),411,хъабахъ,CyrillTrans,gourd,,,qabaq,Phonemic
+8-912-508-1,darg1241,Dargwa (Megeb dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-508-1,darg1241,Dargwa (Megeb dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-508-1,darg1241,Dargwa (Megeb dialect),346,инжирла гъветІ,CyrillTrans,banyan,,,inžirla ɣʷetʼ,Phonemic
+8-840-508-1,darg1241,Dargwa (Megeb dialect),868,бананла гъветІ,CyrillTrans,banana tree,,,bananla ɣʷetʼ,Phonemic
+8-830-508-1,darg1241,Dargwa (Megeb dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-508-1,darg1241,Dargwa (Megeb dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-508-1,darg1241,Dargwa (Megeb dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-508-1,darg1241,Dargwa (Megeb dialect),345,кьала шин,CyrillTrans,sap,,,qʼala šin,Phonemic
+8-750-508-1,darg1241,Dargwa (Megeb dialect),1204,гІянкІа,CyrillTrans,bark,,,ʕaˤnkʼa,Phonemic
+8-740-508-1,darg1241,Dargwa (Megeb dialect),409,кІвикьярал къяйи,CyrillTrans,forked branch,,,kʼʷiqʼaˤral q̄aˤyi,Phonemic
+8-730-508-1,darg1241,Dargwa (Megeb dialect),344,гъветІ,CyrillTrans,tree trunk,,,ɣʷetʼ,Phonemic
+8-720-508-1,darg1241,Dargwa (Megeb dialect),241,гъветІла гудер,CyrillTrans,tree stump,,,ɣʷetʼla guder,Phonemic
+8-691-508-1,darg1241,Dargwa (Megeb dialect),1124,мушдукІ,CyrillTrans,pipe,,,mušdukʼ,Phonemic
+8-690-508-1,darg1241,Dargwa (Megeb dialect),1689,хъалияя эръва,CyrillTrans,smoke (tobacco),,,qaliyaya erʔʷa,Phonemic
+8-680-508-1,darg1241,Dargwa (Megeb dialect),974,тамбаку,CyrillTrans,tobacco,,,tambaku,Phonemic
+8-670-508-1,darg1241,Dargwa (Megeb dialect),343,чубук,CyrillTrans,vine,,,"čubuk, tʼutʼila ɣʷetʼ",Phonemic
+8-670-508-3,darg1241,Dargwa (Megeb dialect),343,тІутІила гъветІ,CyrillTrans,vine,,,"čubuk, tʼutʼila ɣʷetʼ",Phonemic
+8-650-508-1,darg1241,Dargwa (Megeb dialect),1915,ццар,CyrillTrans,fir,,,c̄ar,Phonemic
+8-640-508-1,darg1241,Dargwa (Megeb dialect),1740,ццар,CyrillTrans,pine,,,c̄ar,Phonemic
+8-630-508-1,darg1241,Dargwa (Megeb dialect),1855,махъ,CyrillTrans,birch,,,maq,Phonemic
+8-620-508-1,darg1241,Dargwa (Megeb dialect),1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-508-1,darg1241,Dargwa (Megeb dialect),644,мик,CyrillTrans,oak,,,mik,Phonemic
+8-600-508-1,darg1241,Dargwa (Megeb dialect),906,гъветІ,CyrillTrans,tree,,,ɣʷetʼ,Phonemic
+8-570-508-1,darg1241,Dargwa (Megeb dialect),239,вава,CyrillTrans,flower,,,wawa,Phonemic
+8-560-508-1,darg1241,Dargwa (Megeb dialect),628,кІапІи,CyrillTrans,leaf,,,kʼapʼi,Phonemic
+8-550-508-1,darg1241,Dargwa (Megeb dialect),1531,кьяйи,CyrillTrans,branch,,,qʼaˤyi,Phonemic
+8-540-508-1,darg1241,Dargwa (Megeb dialect),670,мякь,CyrillTrans,root,,,"maˤqʼ, maˤqʼʷ",Phonemic
+8-540-508-3,darg1241,Dargwa (Megeb dialect),670,мякьв,CyrillTrans,root,,,"maˤqʼ, maˤqʼʷ",Phonemic
+8-531-508-1,darg1241,Dargwa (Megeb dialect),1486,даъахъас,CyrillTrans,plant (vb),,,"daʔaqas, če buqaqas",Phonemic
+8-531-508-3,darg1241,Dargwa (Megeb dialect),1486,че бухъахъас,CyrillTrans,plant (vb),,,"daʔaqas, če buqaqas",Phonemic
+8-520-508-1,darg1241,Dargwa (Megeb dialect),342,мура,CyrillTrans,hay,,,mura,Phonemic
+8-530-508-1,darg1241,Dargwa (Megeb dialect),653,кьар,CyrillTrans,plant (noun),,,"qʼar, čʼala",Phonemic
+8-530-508-3,darg1241,Dargwa (Megeb dialect),653,чІала,CyrillTrans,plant (noun),,,"qʼar, čʼala",Phonemic
+8-510-508-1,darg1241,Dargwa (Megeb dialect),606,кьар,CyrillTrans,grass,,,qʼar,Phonemic
+8-480-508-1,darg1241,Dargwa (Megeb dialect),926,пиринж,CyrillTrans,rice,,,"pirinž, pirinč",Phonemic
+8-480-508-3,darg1241,Dargwa (Megeb dialect),926,пиринч,CyrillTrans,rice,,,"pirinž, pirinč",Phonemic
+8-470-508-1,darg1241,Dargwa (Megeb dialect),506,хІяжила анчІи,CyrillTrans,"maize, corn",,,ħaˤžila ančʼi,Phonemic
+8-460-508-1,darg1241,Dargwa (Megeb dialect),60,нихъя,CyrillTrans,oats,,,niqaˤ,Phonemic
+8-450-508-1,darg1241,Dargwa (Megeb dialect),23,мухъи,CyrillTrans,rye,,,muqi,Phonemic
+8-430-508-1,darg1241,Dargwa (Megeb dialect),1077,анчІи,CyrillTrans,wheat,,,ančʼi,Phonemic
+8-440-508-1,darg1241,Dargwa (Megeb dialect),932,мяхІяр,CyrillTrans,barley,,,maˤħaˤr,Phonemic
+8-420-508-1,darg1241,Dargwa (Megeb dialect),605,къве,CyrillTrans,"grain (barley, oats etc)",,,"q̄ʷe, muqi piqaˤ",Phonemic
+8-420-508-3,darg1241,Dargwa (Megeb dialect),605,мухъи пихъя,CyrillTrans,"grain (barley, oats etc)",,,"q̄ʷe, muqi piqaˤ",Phonemic
+8-410-508-1,darg1241,Dargwa (Megeb dialect),611,сени,CyrillTrans,"crop, harvest",,,"seni, deqʼ",Phonemic
+8-410-508-3,darg1241,Dargwa (Megeb dialect),611,декь,CyrillTrans,"crop, harvest",,,"seni, deqʼ",Phonemic
+8-350-508-1,darg1241,Dargwa (Megeb dialect),223,дурегІе,CyrillTrans,threshing-floor,,,"dureʕe, dureʕa",Phonemic
+8-350-508-3,darg1241,Dargwa (Megeb dialect),223,дурегІа,CyrillTrans,threshing-floor,,,"dureʕe, dureʕa",Phonemic
+8-340-508-1,darg1241,Dargwa (Megeb dialect),285,деж бакьас,CyrillTrans,thresh,,,dež baqʼas,Phonemic
+8-330-508-1,darg1241,Dargwa (Megeb dialect),2132,ирхьани гъвялгъу,CyrillTrans,"sickle, scythe",,,"irx̌ani ɣʷaˤlɣu, čʼinikʼʷ",Phonemic
+8-330-508-3,darg1241,Dargwa (Megeb dialect),2132,чІиникІв,CyrillTrans,"sickle, scythe",,,"irx̌ani ɣʷaˤlɣu, čʼinikʼʷ",Phonemic
+8-320-508-1,darg1241,Dargwa (Megeb dialect),190,бишкъес,CyrillTrans,"mow, reap",,,"bišq̄es, birx̌es",Phonemic
+8-320-508-3,darg1241,Dargwa (Megeb dialect),190,бирхьес,CyrillTrans,"mow, reap",,,"bišq̄es, birx̌es",Phonemic
+8-311-508-1,darg1241,Dargwa (Megeb dialect),714,гьве,CyrillTrans,seed,,,"hʷe, q̄ʷe",Phonemic
+8-311-508-3,darg1241,Dargwa (Megeb dialect),714,къве,CyrillTrans,seed,,,"hʷe, q̄ʷe",Phonemic
+8-310-508-1,darg1241,Dargwa (Megeb dialect),748,бегІвес,CyrillTrans,sow,,,beʕʷes,Phonemic
+8-270-508-1,darg1241,Dargwa (Megeb dialect),338,хялахи,CyrillTrans,rake,,,xaˤlaxi,Phonemic
+8-260-508-1,darg1241,Dargwa (Megeb dialect),337,гала,CyrillTrans,fork,,,"gala, x̌ala",Phonemic
+8-260-508-3,darg1241,Dargwa (Megeb dialect),337,хьала,CyrillTrans,fork,,,"gala, x̌ala",Phonemic
+8-250-508-1,darg1241,Dargwa (Megeb dialect),284,хъинцІир,CyrillTrans,hoe,,,"qincʼir, x̌ala",Phonemic
+8-250-508-3,darg1241,Dargwa (Megeb dialect),284,хьала,CyrillTrans,hoe,,,"qincʼir, x̌ala",Phonemic
+8-240-508-1,darg1241,Dargwa (Megeb dialect),1901,санку кІатІа,CyrillTrans,shovel,,,sanku kʼatʼa,Phonemic
+8-230-508-1,darg1241,Dargwa (Megeb dialect),1176,кІатІа,CyrillTrans,spade,,,kʼatʼa,Phonemic
+8-212-508-1,darg1241,Dargwa (Megeb dialect),1794,дуразла гъвер,CyrillTrans,furrow,,,durazla ɣʷer,Phonemic
+8-220-508-1,darg1241,Dargwa (Megeb dialect),1418,бергъвес,CyrillTrans,dig,,,"berɣʷes, hay baqʼas",Phonemic
+8-220-508-3,darg1241,Dargwa (Megeb dialect),1418,гьай бакьас,CyrillTrans,dig,,,"berɣʷes, hay baqʼas",Phonemic
+8-210-508-1,darg1241,Dargwa (Megeb dialect),1921,бегІвес,CyrillTrans,plow,,,"beʕʷes, hay baq̄as",Phonemic
+8-210-508-3,darg1241,Dargwa (Megeb dialect),1921,гьай бакъас,CyrillTrans,plow,,,"beʕʷes, hay baq̄as",Phonemic
+8-170-508-1,darg1241,Dargwa (Megeb dialect),2002,къарак,CyrillTrans,ditch,,,q̄arak,Phonemic
+8-160-508-1,darg1241,Dargwa (Megeb dialect),1690,забор,CyrillTrans,fence,,,zabor,Phonemic
+8-150-508-1,darg1241,Dargwa (Megeb dialect),1541,хъу бакьас,CyrillTrans,"cultivate, till",,,"qu baqʼas, ʕaˤnža beʕʷes",Phonemic
+8-150-508-3,darg1241,Dargwa (Megeb dialect),1541,гІянжа бегІвес,CyrillTrans,"cultivate, till",,,"qu baqʼas, ʕaˤnža beʕʷes",Phonemic
+8-130-508-1,darg1241,Dargwa (Megeb dialect),586,бахча,CyrillTrans,garden,,,baxča,Phonemic
+8-120-508-1,darg1241,Dargwa (Megeb dialect),212,хъу,CyrillTrans,field (for cultivation),,,"qu, beʕʷesi qu",Phonemic
+8-120-508-3,darg1241,Dargwa (Megeb dialect),212,бегІвеси хъу,CyrillTrans,field (for cultivation),,,"qu, beʕʷesi qu",Phonemic
+8-110-508-1,darg1241,Dargwa (Megeb dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-508-1,darg1241,Dargwa (Megeb dialect),901,пяпла хъали,CyrillTrans,adobe,,,paˤpla qali,Phonemic
+7-630-508-1,darg1241,Dargwa (Megeb dialect),224,киражла пяп,CyrillTrans,mortar,,,kiražla paˤp,Phonemic
+7-620-508-1,darg1241,Dargwa (Megeb dialect),1006,кирпич,CyrillTrans,brick,,,"kirpič, kalpiš",Phonemic
+7-620-508-3,darg1241,Dargwa (Megeb dialect),1006,калпиш,CyrillTrans,brick,,,"kirpič, kalpiš",Phonemic
+7-580-508-1,darg1241,Dargwa (Megeb dialect),876,кІалам,CyrillTrans,arch,,,kʼalam,Phonemic
+7-610-508-1,darg1241,Dargwa (Megeb dialect),877,гъаргъала устар,CyrillTrans,mason,,,ɣarɣala ustar,Phonemic
+7-570-508-1,darg1241,Dargwa (Megeb dialect),1227,улкьули,CyrillTrans,board,,,ulqʼuli,Phonemic
+7-560-508-1,darg1241,Dargwa (Megeb dialect),281,тІал,CyrillTrans,"post, pole",,,"tʼal, dukʼi",Phonemic
+7-560-508-3,darg1241,Dargwa (Megeb dialect),281,дукІи,CyrillTrans,"post, pole",,,"tʼal, dukʼi",Phonemic
+7-550-508-1,darg1241,Dargwa (Megeb dialect),1132,бяхІ унцул,CyrillTrans,beam,,,baˤħ uncul,Phonemic
+7-540-508-1,darg1241,Dargwa (Megeb dialect),829,дехь,CyrillTrans,rafter,,,dex̌,Phonemic
+7-530-508-1,darg1241,Dargwa (Megeb dialect),280,урцува тІал,CyrillTrans,ridgepole,,,urcuwa tʼal,Phonemic
+7-520-508-1,darg1241,Dargwa (Megeb dialect),279,чІягІяла бурха,CyrillTrans,thatch,,,čʼaˤʕaˤla burxa,Phonemic
+7-510-508-1,darg1241,Dargwa (Megeb dialect),769,хъалхъа,CyrillTrans,roof,,,qalqa,Phonemic
+7-480-508-1,darg1241,Dargwa (Megeb dialect),205,шиндири,CyrillTrans,trough,,,"šindiri, šidiri",Phonemic
+7-480-508-3,darg1241,Dargwa (Megeb dialect),205,шидири,CyrillTrans,trough,,,"šindiri, šidiri",Phonemic
+7-470-508-1,darg1241,Dargwa (Megeb dialect),745,кулбаг,CyrillTrans,shelf,,,kulbag,Phonemic
+7-460-508-1,darg1241,Dargwa (Megeb dialect),1273,хІейа чирахъ,CyrillTrans,candle,,,ħeya čiraq,Phonemic
+7-450-508-1,darg1241,Dargwa (Megeb dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,čiraq,Phonemic
+7-440-508-1,darg1241,Dargwa (Megeb dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-508-1,darg1241,Dargwa (Megeb dialect),1476,къаса,CyrillTrans,chair,,,q̄asa,Phonemic
+7-422-508-1,darg1241,Dargwa (Megeb dialect),806,юлгъан,CyrillTrans,blanket,,,"yulɣan, adeyal",Phonemic
+7-422-508-3,darg1241,Dargwa (Megeb dialect),806,aдеял,CyrillTrans,blanket,,,"yulɣan, adeyal",Phonemic
+7-421-508-1,darg1241,Dargwa (Megeb dialect),1044,гІянела,CyrillTrans,pillow,,,"ʕaˤnela, ʕonela",Phonemic
+7-421-508-3,darg1241,Dargwa (Megeb dialect),1044,гІонела,CyrillTrans,pillow,,,"ʕaˤnela, ʕonela",Phonemic
+7-420-508-1,darg1241,Dargwa (Megeb dialect),1663,карават,CyrillTrans,bed,,,karawat,Phonemic
+7-370-508-1,darg1241,Dargwa (Megeb dialect),1464,мигири,CyrillTrans,ladder,,,migiri,Phonemic
+7-330-508-1,darg1241,Dargwa (Megeb dialect),1305,замари,CyrillTrans,chimney,,,zamari,Phonemic
+7-320-508-1,darg1241,Dargwa (Megeb dialect),859,печ,CyrillTrans,stove,,,peč,Phonemic
+7-310-508-1,darg1241,Dargwa (Megeb dialect),185,кІваръа,CyrillTrans,fireplace,,,kʼʷarʔa,Phonemic
+7-270-508-1,darg1241,Dargwa (Megeb dialect),933,бяхІ,CyrillTrans,wall,,,baˤħ,Phonemic
+7-260-508-1,darg1241,Dargwa (Megeb dialect),1632,чIябяр,CyrillTrans,floor,,,čʼaˤbaˤr,Phonemic
+7-250-508-1,darg1241,Dargwa (Megeb dialect),1375,улкьлагьа,CyrillTrans,window,,,ulqʼlaha,Phonemic
+7-240-508-1,darg1241,Dargwa (Megeb dialect),1472,урхьу,CyrillTrans,key,,,urx̌u,Phonemic
+7-231-508-1,darg1241,Dargwa (Megeb dialect),1012,герг,CyrillTrans,"latch, door-bolt",,,"gerg, satir",Phonemic
+7-231-508-3,darg1241,Dargwa (Megeb dialect),1012,сатир,CyrillTrans,"latch, door-bolt",,,"gerg, satir",Phonemic
+7-230-508-1,darg1241,Dargwa (Megeb dialect),1596,урхьу,CyrillTrans,lock (noun),,,"urx̌u, urx̌ne",Phonemic
+7-230-508-3,darg1241,Dargwa (Megeb dialect),1596,урхьне,CyrillTrans,lock (noun),,,"urx̌u, urx̌ne",Phonemic
+7-221-508-1,darg1241,Dargwa (Megeb dialect),80,унзабурхІ,CyrillTrans,"doorpost, jamb",,,unzaburħ,Phonemic
+7-210-508-1,darg1241,Dargwa (Megeb dialect),1450,хъали,CyrillTrans,room,,,qali,Phonemic
+7-220-508-1,darg1241,Dargwa (Megeb dialect),1567,унза,CyrillTrans,"door, gate",,,"unza, ɣapu",Phonemic
+7-220-508-3,darg1241,Dargwa (Megeb dialect),1567,гъапу,CyrillTrans,"door, gate",,,"unza, ɣapu",Phonemic
+7-180-508-1,darg1241,Dargwa (Megeb dialect),335,сабрания бикьул хъали,CyrillTrans,meeting house,,,sabraniya biqʼul qali,Phonemic
+7-170-508-1,darg1241,Dargwa (Megeb dialect),334,дубягІяла хъали,CyrillTrans,cookhouse,,,dubaˤʕaˤla qali,Phonemic
+7-160-508-1,darg1241,Dargwa (Megeb dialect),408,маруя хъали,CyrillTrans,men's house,,,maruya qali,Phonemic
+7-150-508-1,darg1241,Dargwa (Megeb dialect),736,гІяйя,CyrillTrans,"yard, court",,,ʕaˤyaˤ,Phonemic
+7-140-508-1,darg1241,Dargwa (Megeb dialect),1316,чятир,CyrillTrans,tent,,,čaˤtir,Phonemic
+7-131-508-1,darg1241,Dargwa (Megeb dialect),403,махьи,CyrillTrans,garden-house,,,max̌i,Phonemic
+7-130-508-1,darg1241,Dargwa (Megeb dialect),1678,пукьа,CyrillTrans,hut,,,puqʼa,Phonemic
+7-120-508-1,darg1241,Dargwa (Megeb dialect),1252,хъали,CyrillTrans,house,,,qali,Phonemic
+7-110-508-1,darg1241,Dargwa (Megeb dialect),363,гІумру бакьас,CyrillTrans,"dwell, live",,,ʕumru baqʼas,Phonemic
+6-960-508-1,darg1241,Dargwa (Megeb dialect),1171,дяхІмицІала,CyrillTrans,mirror,,,daˤħmicʼala,Phonemic
+6-950-508-1,darg1241,Dargwa (Megeb dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-508-1,darg1241,Dargwa (Megeb dialect),1926,гІявадеш,CyrillTrans,ointment,,,"ʕaˤwadeš, maz",Phonemic
+6-940-508-3,darg1241,Dargwa (Megeb dialect),1926,маз,CyrillTrans,ointment,,,"ʕaˤwadeš, maz",Phonemic
+6-930-508-1,darg1241,Dargwa (Megeb dialect),151,даллак,CyrillTrans,razor,,,"dallak, mucʼrus burgul",Phonemic
+6-930-508-3,darg1241,Dargwa (Megeb dialect),151,муцІрус бургул,CyrillTrans,razor,,,"dallak, mucʼrus burgul",Phonemic
+6-921-508-1,darg1241,Dargwa (Megeb dialect),333,чури,CyrillTrans,braid,,,čuri,Phonemic
+6-920-508-1,darg1241,Dargwa (Megeb dialect),1821,дарага,CyrillTrans,brush,,,"daraga, darax̌a",Phonemic
+6-920-508-3,darg1241,Dargwa (Megeb dialect),1821,дарахьа,CyrillTrans,brush,,,"daraga, darax̌a",Phonemic
+6-910-508-1,darg1241,Dargwa (Megeb dialect),1475,дарага,CyrillTrans,comb,,,"daraga, xʷalal darx̌a",Phonemic
+6-910-508-3,darg1241,Dargwa (Megeb dialect),1475,хвалал дархьа,CyrillTrans,comb,,,"daraga, xʷalal darx̌a",Phonemic
+6-820-508-1,darg1241,Dargwa (Megeb dialect),1021,полотинца,CyrillTrans,towel,,,polotinca,Phonemic
+6-810-508-1,darg1241,Dargwa (Megeb dialect),332,пардав,CyrillTrans,"handkerchief, rag",,,pardaw,Phonemic
+6-780-508-1,darg1241,Dargwa (Megeb dialect),330,чалма,CyrillTrans,"headband, headdress",,,čalma,Phonemic
+6-770-508-1,darg1241,Dargwa (Megeb dialect),770,кІиликІ,CyrillTrans,earring,,,kʼilikʼ,Phonemic
+6-760-508-1,darg1241,Dargwa (Megeb dialect),1860,духури,CyrillTrans,bead,,,duxuri,Phonemic
+6-750-508-1,darg1241,Dargwa (Megeb dialect),1961,бачи,CyrillTrans,necklace,,,bači,Phonemic
+6-740-508-1,darg1241,Dargwa (Megeb dialect),1754,кулеха,CyrillTrans,bracelet,,,kulexa,Phonemic
+6-730-508-1,darg1241,Dargwa (Megeb dialect),1374,тІулека,CyrillTrans,ring (for finger),,,tʼuleka,Phonemic
+6-720-508-1,darg1241,Dargwa (Megeb dialect),1029,лагІлу,CyrillTrans,jewel,,,"laʕlu, yaqʼut",Phonemic
+6-720-508-3,darg1241,Dargwa (Megeb dialect),1029,якьут,CyrillTrans,jewel,,,"laʕlu, yaqʼut",Phonemic
+6-710-508-1,darg1241,Dargwa (Megeb dialect),917,лякьиш,CyrillTrans,"ornament, adornment",,,laˤqʼiš,Phonemic
+6-630-508-1,darg1241,Dargwa (Megeb dialect),64,хъвябизебирхъёл буреба,CyrillTrans,pin,,,qʷaˤbizebirqyol bureba,Phonemic
+6-620-508-1,darg1241,Dargwa (Megeb dialect),757,мичягІяй,CyrillTrans,button,,,mičaˤʕaˤy,Phonemic
+6-610-508-1,darg1241,Dargwa (Megeb dialect),1851,чІеп,CyrillTrans,pocket,,,čʼep,Phonemic
+6-590-508-1,darg1241,Dargwa (Megeb dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-508-1,darg1241,Dargwa (Megeb dialect),867,хъватка,CyrillTrans,glove,,,qʷatka,Phonemic
+6-570-508-1,darg1241,Dargwa (Megeb dialect),772,иръи,CyrillTrans,"belt, girdle",,,irʔi,Phonemic
+6-550-508-1,darg1241,Dargwa (Megeb dialect),2130,ишлапа,CyrillTrans,"hat, cap",,,išlapa,Phonemic
+6-540-508-1,darg1241,Dargwa (Megeb dialect),875,дамела устар,CyrillTrans,"shoemaker, cobbler",,,damela ustar,Phonemic
+6-510-508-1,darg1241,Dargwa (Megeb dialect),1381,дарби,CyrillTrans,shoe,,,darbi,Phonemic
+6-520-508-1,darg1241,Dargwa (Megeb dialect),585,ширбит,CyrillTrans,boot,,,"širbit, dilhul damme",Phonemic
+6-520-508-3,darg1241,Dargwa (Megeb dialect),585,дилгьул дамме,CyrillTrans,boot,,,"širbit, dilhul damme",Phonemic
+6-490-508-1,darg1241,Dargwa (Megeb dialect),329,къвяри,CyrillTrans,"stocking, sock",,,q̄ʷaˤri,Phonemic
+6-480-508-1,darg1241,Dargwa (Megeb dialect),809,вахчаг,CyrillTrans,trousers,,,waxčag,Phonemic
+6-461-508-1,darg1241,Dargwa (Megeb dialect),328,хьар,CyrillTrans,grass-skirt,,,"x̌ar, guzma",Phonemic
+6-461-508-3,darg1241,Dargwa (Megeb dialect),328,гузма,CyrillTrans,grass-skirt,,,"x̌ar, guzma",Phonemic
+6-460-508-1,darg1241,Dargwa (Megeb dialect),1600,хьар,CyrillTrans,skirt,,,"x̌ar, guzma",Phonemic
+6-460-508-3,darg1241,Dargwa (Megeb dialect),1600,гузма,CyrillTrans,skirt,,,"x̌ar, guzma",Phonemic
+6-450-508-1,darg1241,Dargwa (Megeb dialect),2012,хъвяб,CyrillTrans,collar,,,qʷaˤb,Phonemic
+6-440-508-1,darg1241,Dargwa (Megeb dialect),1622,хІава,CyrillTrans,shirt,,,ħawa,Phonemic
+6-430-508-1,darg1241,Dargwa (Megeb dialect),603,палту,CyrillTrans,coat,,,"paltu, tagila",Phonemic
+6-430-508-3,darg1241,Dargwa (Megeb dialect),603,тагила,CyrillTrans,coat,,,"paltu, tagila",Phonemic
+6-420-508-1,darg1241,Dargwa (Megeb dialect),474,гважуя хІава,CyrillTrans,woman's dress,,,gʷažuya ħawa,Phonemic
+6-390-508-1,darg1241,Dargwa (Megeb dialect),157,сир,CyrillTrans,dye,,,sir,Phonemic
+6-410-508-1,darg1241,Dargwa (Megeb dialect),326,палаш,CyrillTrans,cloak,,,palaš,Phonemic
+6-380-508-1,darg1241,Dargwa (Megeb dialect),1161,дарша,CyrillTrans,thread,,,darša,Phonemic
+6-360-508-1,darg1241,Dargwa (Megeb dialect),1382,буреба,CyrillTrans,needle,,,bureba,Phonemic
+6-370-508-1,darg1241,Dargwa (Megeb dialect),278,дуруб,CyrillTrans,awl,,,durub,Phonemic
+6-350-508-1,darg1241,Dargwa (Megeb dialect),1457,бербес,CyrillTrans,sew,,,berbes,Phonemic
+6-340-508-1,darg1241,Dargwa (Megeb dialect),1787,чІянкІи бикьул,CyrillTrans,loom,,,čʼaˤnkʼi biqʼul,Phonemic
+6-330-508-1,darg1241,Dargwa (Megeb dialect),133,бумшес,CyrillTrans,weave,,,"bumšes, bemxes",Phonemic
+6-330-508-3,darg1241,Dargwa (Megeb dialect),133,бемхес,CyrillTrans,weave,,,"bumšes, bemxes",Phonemic
+6-320-508-1,darg1241,Dargwa (Megeb dialect),277,дуруг,CyrillTrans,spindle,,,durug,Phonemic
+6-310-508-1,darg1241,Dargwa (Megeb dialect),121,бершес,CyrillTrans,spin,,,"beršes, darša beršes",Phonemic
+6-310-508-3,darg1241,Dargwa (Megeb dialect),121,дарша бершес,CyrillTrans,spin,,,"beršes, darša beršes",Phonemic
+6-290-508-1,darg1241,Dargwa (Megeb dialect),629,кІех,CyrillTrans,leather,,,"kʼex, xurum",Phonemic
+6-290-508-3,darg1241,Dargwa (Megeb dialect),629,хурум,CyrillTrans,leather,,,"kʼex, xurum",Phonemic
+6-280-508-1,darg1241,Dargwa (Megeb dialect),580,ябичу,CyrillTrans,fur,,,yabiču,Phonemic
+6-270-508-1,darg1241,Dargwa (Megeb dialect),325,варгьи,CyrillTrans,felt,,,warhi,Phonemic
+6-250-508-1,darg1241,Dargwa (Megeb dialect),1641,чилла,CyrillTrans,silk,,,"čilla, daray",Phonemic
+6-250-508-3,darg1241,Dargwa (Megeb dialect),1641,дарай,CyrillTrans,silk,,,"čilla, daray",Phonemic
+6-240-508-1,darg1241,Dargwa (Megeb dialect),1850,памбала чІянкІи,CyrillTrans,cotton,,,pambala čʼaˤnkʼi,Phonemic
+6-230-508-1,darg1241,Dargwa (Megeb dialect),916,гъамала чІянкІи,CyrillTrans,"linen, flax",,,ɣamala čʼaˤnkʼi,Phonemic
+6-220-508-1,darg1241,Dargwa (Megeb dialect),964,балала чІянкІи,CyrillTrans,wool,,,balala čʼaˤnkʼi,Phonemic
+6-210-508-1,darg1241,Dargwa (Megeb dialect),1616,чІянкІи,CyrillTrans,cloth,,,"čʼaˤnkʼi, suɣban",Phonemic
+6-210-508-3,darg1241,Dargwa (Megeb dialect),1616,сугъбан,CyrillTrans,cloth,,,"čʼaˤnkʼi, suɣban",Phonemic
+6-130-508-1,darg1241,Dargwa (Megeb dialect),881,даргила устар,CyrillTrans,tailor,,,dargila ustar,Phonemic
+6-120-508-1,darg1241,Dargwa (Megeb dialect),1895,дарги,CyrillTrans,"clothing, clothes",,,dargi,Phonemic
+6-110-508-1,darg1241,Dargwa (Megeb dialect),158,икІвес,CyrillTrans,put on (clothes),,,ikʼʷes,Phonemic
+5-971-508-1,darg1241,Dargwa (Megeb dialect),1556,гавгьар,CyrillTrans,egg yolk,,,gawhar,Phonemic
+5-970-508-1,darg1241,Dargwa (Megeb dialect),744,жигари,CyrillTrans,egg,,,žigari,Phonemic
+5-940-508-1,darg1241,Dargwa (Megeb dialect),404,гьаруш,CyrillTrans,fermented drink,,,haruš,Phonemic
+5-930-508-1,darg1241,Dargwa (Megeb dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-508-1,darg1241,Dargwa (Megeb dialect),1524,чахир,CyrillTrans,wine,,,čaxir,Phonemic
+5-910-508-1,darg1241,Dargwa (Megeb dialect),941,варъа,CyrillTrans,mead,,,"warʔa, warʔalašin",Phonemic
+5-910-508-3,darg1241,Dargwa (Megeb dialect),941,варъалашин,CyrillTrans,mead,,,"warʔa, warʔalašin",Phonemic
+5-900-508-1,darg1241,Dargwa (Megeb dialect),731,дягьни,CyrillTrans,"beverage, drink",,,daˤhni,Phonemic
+5-890-508-1,darg1241,Dargwa (Megeb dialect),1245,кІвама,CyrillTrans,butter,,,kʼʷama,Phonemic
+5-880-508-1,darg1241,Dargwa (Megeb dialect),1569,угІя,CyrillTrans,cheese,,,uʕaˤ,Phonemic
+5-870-508-1,darg1241,Dargwa (Megeb dialect),93,берзес,CyrillTrans,milk (vb),,,berzes,Phonemic
+5-850-508-1,darg1241,Dargwa (Megeb dialect),862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-508-1,darg1241,Dargwa (Megeb dialect),635,ниъ,CyrillTrans,milk (noun),,,niʔ,Phonemic
+5-840-508-1,darg1241,Dargwa (Megeb dialect),942,варъа,CyrillTrans,honey,,,warʔa,Phonemic
+5-821-508-1,darg1241,Dargwa (Megeb dialect),919,мамаш,CyrillTrans,chili pepper,,,"mamaš, yarkil gurgimaxʷa",Phonemic
+5-821-508-3,darg1241,Dargwa (Megeb dialect),919,яркил гургимахва,CyrillTrans,chili pepper,,,"mamaš, yarkil gurgimaxʷa",Phonemic
+5-820-508-1,darg1241,Dargwa (Megeb dialect),1385,гургимахва,CyrillTrans,pepper,,,gurgimaxʷa,Phonemic
+5-810-508-1,darg1241,Dargwa (Megeb dialect),1274,зе,CyrillTrans,salt,,,"ze, ce",Phonemic
+5-810-508-3,darg1241,Dargwa (Megeb dialect),1274,це,CyrillTrans,salt,,,"ze, ce",Phonemic
+5-791-508-1,darg1241,Dargwa (Megeb dialect),323,гІавадеш,CyrillTrans,"grease, fat",,,"ʕawadeš, urɣaˤiq̄aˤni",Phonemic
+5-791-508-3,darg1241,Dargwa (Megeb dialect),323,ургъяикъяни,CyrillTrans,"grease, fat",,,"ʕawadeš, urɣaˤiq̄aˤni",Phonemic
+5-790-508-1,darg1241,Dargwa (Megeb dialect),1484,кьала,CyrillTrans,oil,,,"qʼala, nerx",Phonemic
+5-790-508-3,darg1241,Dargwa (Megeb dialect),1484,нерх,CyrillTrans,oil,,,"qʼala, nerx",Phonemic
+5-780-508-1,darg1241,Dargwa (Megeb dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-508-1,darg1241,Dargwa (Megeb dialect),920,тІутІи,CyrillTrans,grape,,,tʼutʼi,Phonemic
+5-770-508-1,darg1241,Dargwa (Megeb dialect),191,хивгь,CyrillTrans,nut,,,xiwh,Phonemic
+5-750-508-1,darg1241,Dargwa (Megeb dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-508-1,darg1241,Dargwa (Megeb dialect),1966,махъ,CyrillTrans,bunch,,,"maq, kʷecʼ",Phonemic
+5-712-508-3,darg1241,Dargwa (Megeb dialect),1966,квецІ,CyrillTrans,bunch,,,"maq, kʷecʼ",Phonemic
+5-710-508-1,darg1241,Dargwa (Megeb dialect),1507,анхъ,CyrillTrans,fruit,,,anq,Phonemic
+5-700-508-1,darg1241,Dargwa (Megeb dialect),593,картушка,CyrillTrans,potato,,,kartuška,Phonemic
+5-660-508-1,darg1241,Dargwa (Megeb dialect),832,хъара,CyrillTrans,bean,,,qara,Phonemic
+5-650-508-1,darg1241,Dargwa (Megeb dialect),924,пихъ-мичІ,CyrillTrans,vegetables,,,piq-mičʼ,Phonemic
+5-640-508-1,darg1241,Dargwa (Megeb dialect),1547,хІарши,CyrillTrans,"soup, broth",,,"ħarši, čurpa",Phonemic
+5-640-508-3,darg1241,Dargwa (Megeb dialect),1547,чурпа,CyrillTrans,"soup, broth",,,"ħarši, čurpa",Phonemic
+5-630-508-1,darg1241,Dargwa (Megeb dialect),1874,руд,CyrillTrans,sausage,,,rud,Phonemic
+5-610-508-1,darg1241,Dargwa (Megeb dialect),634,диъ,CyrillTrans,meat,,,diʔ,Phonemic
+5-590-508-1,darg1241,Dargwa (Megeb dialect),225,хІангъа,CyrillTrans,pestle,,,ħanɣa,Phonemic
+5-580-508-1,darg1241,Dargwa (Megeb dialect),224,зукъа,CyrillTrans,mortar (2),,,zuq̄a,Phonemic
+5-570-508-1,darg1241,Dargwa (Megeb dialect),636,шинкьа,CyrillTrans,mill,,,šinqʼa,Phonemic
+5-560-508-1,darg1241,Dargwa (Megeb dialect),1033,кІучІбакьас,CyrillTrans,"crush, grind",,,"kʼučʼbaqʼas, bimʕaˤn baqʼas",Phonemic
+5-560-508-3,darg1241,Dargwa (Megeb dialect),1033,бимгІян бакьас,CyrillTrans,"crush, grind",,,"kʼučʼbaqʼas, bimʕaˤn baqʼas",Phonemic
+5-550-508-1,darg1241,Dargwa (Megeb dialect),1594,гІатІ,CyrillTrans,"meal, flour",,,"ʕatʼ, betʼu",Phonemic
+5-550-508-3,darg1241,Dargwa (Megeb dialect),1594,бетІу,CyrillTrans,"meal, flour",,,"ʕatʼ, betʼu",Phonemic
+5-540-508-1,darg1241,Dargwa (Megeb dialect),274,башес,CyrillTrans,knead,,,bašes,Phonemic
+5-530-508-1,darg1241,Dargwa (Megeb dialect),273,башуни гІатІ,CyrillTrans,dough,,,bašuni ʕatʼ,Phonemic
+5-510-508-1,darg1241,Dargwa (Megeb dialect),1368,тІултІ,CyrillTrans,bread,,,tʼultʼ,Phonemic
+5-490-508-1,darg1241,Dargwa (Megeb dialect),2017,ценхІе бакъес,CyrillTrans,"stir, mix",,,cenħe baq̄es,Phonemic
+5-480-508-1,darg1241,Dargwa (Megeb dialect),1767,хъяшбакъас,CyrillTrans,scrape,,,"qaˤšbaq̄as, zurbaq̄as",Phonemic
+5-480-508-3,darg1241,Dargwa (Megeb dialect),1767,зурбакъас,CyrillTrans,scrape,,,"qaˤšbaq̄as, zurbaq̄as",Phonemic
+5-470-508-1,darg1241,Dargwa (Megeb dialect),86,арес,CyrillTrans,"sieve, strain",,,"ares, umʔes",Phonemic
+5-470-508-3,darg1241,Dargwa (Megeb dialect),86,умэс,CyrillTrans,"sieve, strain",,,"ares, umʔes",Phonemic
+5-460-508-1,darg1241,Dargwa (Megeb dialect),275,буръ умбакьас,CyrillTrans,peel,,,"burʔ umbaqʼas, burun baqʼas",Phonemic
+5-460-508-3,darg1241,Dargwa (Megeb dialect),275,бурун бакьас,CyrillTrans,peel,,,"burʔ umbaqʼas, burun baqʼas",Phonemic
+5-450-508-1,darg1241,Dargwa (Megeb dialect),1833,кьасдекІам,CyrillTrans,supper,,,qʼasdekʼam,Phonemic
+5-440-508-1,darg1241,Dargwa (Megeb dialect),1833,хІареси,CyrillTrans,dinner,,,ħaresi,Phonemic
+5-420-508-1,darg1241,Dargwa (Megeb dialect),1322,чІямкьям,CyrillTrans,breakfast,,,čʼaˤmqʼaˤm,Phonemic
+5-410-508-1,darg1241,Dargwa (Megeb dialect),1526,дубягІри,CyrillTrans,meal (a),,,dubaˤʕri,Phonemic
+5-391-508-1,darg1241,Dargwa (Megeb dialect),272,гъецІ,CyrillTrans,tongs,,,"ɣecʼ, kalbatay",Phonemic
+5-391-508-3,darg1241,Dargwa (Megeb dialect),272,калбатай,CyrillTrans,tongs,,,"ɣecʼ, kalbatay",Phonemic
+5-390-508-1,darg1241,Dargwa (Megeb dialect),1302,хинчІулт,CyrillTrans,fork (2),,,xinčʼult,Phonemic
+5-380-508-1,darg1241,Dargwa (Megeb dialect),1352,дис,CyrillTrans,knife (2),,,dis,Phonemic
+5-370-508-1,darg1241,Dargwa (Megeb dialect),1378,кьусла,CyrillTrans,spoon,,,qʼusla,Phonemic
+5-360-508-1,darg1241,Dargwa (Megeb dialect),271,гъушкъап,CyrillTrans,saucer,,,ɣušq̄ap,Phonemic
+5-350-508-1,darg1241,Dargwa (Megeb dialect),476,парчи,CyrillTrans,"cup, drinking vessel",,,parči,Phonemic
+5-330-508-1,darg1241,Dargwa (Megeb dialect),1530,вагъ,CyrillTrans,bowl,,,waɣ,Phonemic
+5-340-508-1,darg1241,Dargwa (Megeb dialect),270,бурбутІи,CyrillTrans,"pitcher, jug",,,burbutʼi,Phonemic
+5-320-508-1,darg1241,Dargwa (Megeb dialect),480,гъадара,CyrillTrans,plate,,,ɣadara,Phonemic
+5-310-508-1,darg1241,Dargwa (Megeb dialect),481,маргьил гъадара,CyrillTrans,dish,,,marhil ɣadara,Phonemic
+5-280-508-1,darg1241,Dargwa (Megeb dialect),31,кІункІур,CyrillTrans,pan,,,kʼunkʼur,Phonemic
+5-260-508-1,darg1241,Dargwa (Megeb dialect),1462,хъазан,CyrillTrans,"pot, cooking vessel",,,"qazan, hanarud̄u",Phonemic
+5-260-508-3,darg1241,Dargwa (Megeb dialect),1462,гьанарудду,CyrillTrans,"pot, cooking vessel",,,"qazan, hanarud̄u",Phonemic
+5-270-508-1,darg1241,Dargwa (Megeb dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-508-1,darg1241,Dargwa (Megeb dialect),183,берцІахъас,CyrillTrans,bake,,,bercʼaqas,Phonemic
+5-250-508-1,darg1241,Dargwa (Megeb dialect),1143,алЪала,CyrillTrans,oven,,,alʔala,Phonemic
+5-230-508-1,darg1241,Dargwa (Megeb dialect),2146,берцІес,CyrillTrans,"roast, fry",,,bercʼes,Phonemic
+5-220-508-1,darg1241,Dargwa (Megeb dialect),792,рурхьес,CyrillTrans,boil (vb),,,"rurx̌es, rurtar bates",Phonemic
+5-220-508-3,darg1241,Dargwa (Megeb dialect),792,руртар батес,CyrillTrans,boil (vb),,,"rurx̌es, rurtar bates",Phonemic
+5-210-508-1,darg1241,Dargwa (Megeb dialect),1100,берхьес,CyrillTrans,cook,,,berx̌es,Phonemic
+5-190-508-1,darg1241,Dargwa (Megeb dialect),129,гІендбакъас,CyrillTrans,choke,,,ʕendbaq̄as,Phonemic
+5-181-508-1,darg1241,Dargwa (Megeb dialect),897,биргІес,CyrillTrans,swallow,,,"birʕes, q̄yort baqʼas",Phonemic
+5-181-508-3,darg1241,Dargwa (Megeb dialect),897,къёрт бакьас,CyrillTrans,swallow,,,"birʕes, q̄yort baqʼas",Phonemic
+5-180-508-1,darg1241,Dargwa (Megeb dialect),321,чІамбакьас,CyrillTrans,chew,,,čʼambaqʼas,Phonemic
+5-160-508-1,darg1241,Dargwa (Megeb dialect),1421,цІупІбакьас,CyrillTrans,suck,,,cʼupʼbaqʼas,Phonemic
+5-150-508-1,darg1241,Dargwa (Megeb dialect),848,миълидеш,CyrillTrans,thirst,,,miʔlideš,Phonemic
+5-141-508-1,darg1241,Dargwa (Megeb dialect),199,гаша,CyrillTrans,famine,,,gaša,Phonemic
+5-140-508-1,darg1241,Dargwa (Megeb dialect),1864,гаша (гумдеш),CyrillTrans,hunger,,,gaša (gumdeš),Phonemic
+5-130-508-1,darg1241,Dargwa (Megeb dialect),1401,бужес,CyrillTrans,drink,,,"bužes, beržes",Phonemic
+5-130-508-3,darg1241,Dargwa (Megeb dialect),1401,бержес,CyrillTrans,drink,,,"bužes, beržes",Phonemic
+5-125-508-1,darg1241,Dargwa (Megeb dialect),1728,берхІиби,CyrillTrans,rotten,,,berħibi,Phonemic
+5-124-508-1,darg1241,Dargwa (Megeb dialect),1958,хІабаиби,CyrillTrans,"green, unripe",,,ħabaibi,Phonemic
+5-123-508-1,darg1241,Dargwa (Megeb dialect),178,баиби,CyrillTrans,ripe,,,baibi,Phonemic
+5-122-508-1,darg1241,Dargwa (Megeb dialect),1959,гІатІил,CyrillTrans,raw,,,ʕatʼil,Phonemic
+5-121-508-1,darg1241,Dargwa (Megeb dialect),269,берхьуни,CyrillTrans,cooked,,,berx̌uni,Phonemic
+5-120-508-1,darg1241,Dargwa (Megeb dialect),256,дубягІяри,CyrillTrans,food,,,dubaˤʕaˤri,Phonemic
+5-110-508-1,darg1241,Dargwa (Megeb dialect),1336,букес,CyrillTrans,eat,,,bukes,Phonemic
+4-990-508-1,darg1241,Dargwa (Megeb dialect),590,чІянкІил,CyrillTrans,"naked, bare",,,čʼaˤnkʼil,Phonemic
+4-970-508-1,darg1241,Dargwa (Megeb dialect),1653,зубал,CyrillTrans,blind,,,zubal,Phonemic
+4-980-508-1,darg1241,Dargwa (Megeb dialect),1463,ужугьубле,CyrillTrans,intoxicated,,,užuhuble,Phonemic
+4-960-508-1,darg1241,Dargwa (Megeb dialect),1666,мез хІабалгьул,CyrillTrans,mute,,,mez ħabalhul,Phonemic
+4-950-508-1,darg1241,Dargwa (Megeb dialect),996,кьвякІил,CyrillTrans,deaf,,,qʼʷaˤkʼil,Phonemic
+4-930-508-1,darg1241,Dargwa (Megeb dialect),1125,алчІуни,CyrillTrans,bald,,,alčʼuni,Phonemic
+4-940-508-1,darg1241,Dargwa (Megeb dialect),320,гІяргил укІас,CyrillTrans,lame,,,ʕaˤrgil ukʼas,Phonemic
+4-920-508-1,darg1241,Dargwa (Megeb dialect),1564,мехал,CyrillTrans,lazy,,,mexal,Phonemic
+4-912-508-1,darg1241,Dargwa (Megeb dialect),168,бакьас,CyrillTrans,rest,,,baqʼas,Phonemic
+4-910-508-1,darg1241,Dargwa (Megeb dialect),1757,хьара угьуби,CyrillTrans,"tired, weary",,,x̌ara uhubi,Phonemic
+4-890-508-1,darg1241,Dargwa (Megeb dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-508-1,darg1241,Dargwa (Megeb dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-880-508-3,darg1241,Dargwa (Megeb dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-870-508-1,darg1241,Dargwa (Megeb dialect),597,тухтер,CyrillTrans,physician,,,"tuxter, warač",Phonemic
+4-870-508-3,darg1241,Dargwa (Megeb dialect),597,варач,CyrillTrans,physician,,,"tuxter, warač",Phonemic
+4-860-508-1,darg1241,Dargwa (Megeb dialect),499,гІяч вакьас,CyrillTrans,"cure, heal",,,"ʕaˤč waqʼas, saɣ waqʼas",Phonemic
+4-860-508-3,darg1241,Dargwa (Megeb dialect),499,сагъ вакьас,CyrillTrans,"cure, heal",,,"ʕaˤč waqʼas, saɣ waqʼas",Phonemic
+4-858-508-1,darg1241,Dargwa (Megeb dialect),497,дяхъи,CyrillTrans,scar,,,daˤqi,Phonemic
+4-857-508-1,darg1241,Dargwa (Megeb dialect),1808,ули,CyrillTrans,pus,,,uli,Phonemic
+4-856-508-1,darg1241,Dargwa (Megeb dialect),793,игьва,CyrillTrans,boil (noun),,,ihʷa,Phonemic
+4-855-508-1,darg1241,Dargwa (Megeb dialect),1584,шия гІярйогІ,CyrillTrans,blister,,,"šiya ʕaˤryoʕ, šiya ʕaˤruʕ",Phonemic
+4-855-508-3,darg1241,Dargwa (Megeb dialect),1584,шия гІяругІ,CyrillTrans,blister,,,"šiya ʕaˤryoʕ, šiya ʕaˤruʕ",Phonemic
+4-854-508-1,darg1241,Dargwa (Megeb dialect),148,букри,CyrillTrans,itch,,,"bukri, bukuwe",Phonemic
+4-854-508-3,darg1241,Dargwa (Megeb dialect),148,букуве,CyrillTrans,itch,,,"bukri, bukuwe",Phonemic
+4-853-508-1,darg1241,Dargwa (Megeb dialect),1903,бемхум,CyrillTrans,swelling,,,bemxum,Phonemic
+4-852-508-1,darg1241,Dargwa (Megeb dialect),1148,изаъри,CyrillTrans,bruise,,,izaʔri,Phonemic
+4-850-508-1,darg1241,Dargwa (Megeb dialect),1109,дяхъи,CyrillTrans,"wound, sore",,,"daˤqi, daˤq̄i",Phonemic
+4-850-508-3,darg1241,Dargwa (Megeb dialect),1109,дякъи,CyrillTrans,"wound, sore",,,"daˤqi, daˤq̄i",Phonemic
+4-843-508-1,darg1241,Dargwa (Megeb dialect),102,дяргІла изала,CyrillTrans,cold (catarrh),,,daˤrʕla izala,Phonemic
+4-842-508-1,darg1241,Dargwa (Megeb dialect),1957,гІягІ,CyrillTrans,goiter,,,ʕaˤʕ,Phonemic
+4-841-508-1,darg1241,Dargwa (Megeb dialect),1534,цІа,CyrillTrans,fever,,,"cʼa, cʼadaˤqas",Phonemic
+4-841-508-3,darg1241,Dargwa (Megeb dialect),1534,цІадяхъас,CyrillTrans,fever,,,"cʼa, cʼadaˤqas",Phonemic
+4-840-508-1,darg1241,Dargwa (Megeb dialect),1847,изул,CyrillTrans,"sick, sickness",,,"izul, izala",Phonemic
+4-840-508-3,darg1241,Dargwa (Megeb dialect),1847,изала,CyrillTrans,"sick, sickness",,,"izul, izala",Phonemic
+4-830-508-1,darg1241,Dargwa (Megeb dialect),1364,ара,CyrillTrans,"well, health",,,"ara, aradeš",Phonemic
+4-830-508-3,darg1241,Dargwa (Megeb dialect),1364,арадеш,CyrillTrans,"well, health",,,"ara, aradeš",Phonemic
+4-820-508-1,darg1241,Dargwa (Megeb dialect),1601,гІажизи,CyrillTrans,weak,,,"ʕažizi, zaʕipi",Phonemic
+4-820-508-3,darg1241,Dargwa (Megeb dialect),1601,загІипи,CyrillTrans,weak,,,"ʕažizi, zaʕipi",Phonemic
+4-810-508-1,darg1241,Dargwa (Megeb dialect),785,кьувати,CyrillTrans,"strong, mighty, powerful",,,"qʼuwati, kutaki",Phonemic
+4-810-508-3,darg1241,Dargwa (Megeb dialect),785,кутаки,CyrillTrans,"strong, mighty, powerful",,,"qʼuwati, kutaki",Phonemic
+4-790-508-1,darg1241,Dargwa (Megeb dialect),1773,хвяб,CyrillTrans,"grave, tomb",,,xʷaˤb,Phonemic
+4-780-508-1,darg1241,Dargwa (Megeb dialect),1719,вихьес,CyrillTrans,bury (the dead),,,wix̌es,Phonemic
+4-770-508-1,darg1241,Dargwa (Megeb dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-508-1,darg1241,Dargwa (Megeb dialect),1417,вябъас,CyrillTrans,kill,,,waˤbʔas,Phonemic
+4-751-508-1,darg1241,Dargwa (Megeb dialect),1904,гъанкь угьуби,CyrillTrans,drowned,,,ɣanqʼ uhubi,Phonemic
+4-750-508-1,darg1241,Dargwa (Megeb dialect),1494,вебкІес,CyrillTrans,"die, dead",,,"webkʼes, alxun",Phonemic
+4-750-508-3,darg1241,Dargwa (Megeb dialect),1494,алхун,CyrillTrans,"die, dead",,,"webkʼes, alxun",Phonemic
+4-740-508-1,darg1241,Dargwa (Megeb dialect),1422,гІумру бакьас,CyrillTrans,"live, living, life",,,"ʕumru baq’as, micʼirdeš",Phonemic
+4-740-508-3,darg1241,Dargwa (Megeb dialect),1422,мицІирдеш,CyrillTrans,"live, living, life",,,"ʕumru baq’as, micʼirdeš",Phonemic
+4-732-508-1,darg1241,Dargwa (Megeb dialect),1087,эли бихьес,CyrillTrans,conceive,,,eli bix̌es,Phonemic
+4-730-508-1,darg1241,Dargwa (Megeb dialect),1123,эйслери,CyrillTrans,pregnant,,,eysleri,Phonemic
+4-720-508-1,darg1241,Dargwa (Megeb dialect),1090,бакъас,CyrillTrans,born (to be),,,baq̄as,Phonemic
+4-710-508-1,darg1241,Dargwa (Megeb dialect),1152,укІес,CyrillTrans,beget (of father),,,ukʼes,Phonemic
+4-690-508-1,darg1241,Dargwa (Megeb dialect),138,чарх базес,CyrillTrans,bathe,,,čarx bazes,Phonemic
+4-680-508-1,darg1241,Dargwa (Megeb dialect),52,гъанцІара укIес,CyrillTrans,shiver,,,ɣancʼara ukʼes,Phonemic
+4-670-508-1,darg1241,Dargwa (Megeb dialect),1785,рархIяс,CyrillTrans,have sexual intercourse,,,rarħaˤs,Phonemic
+4-660-508-1,darg1241,Dargwa (Megeb dialect),676,кIучIчIедакьас,CyrillTrans,defecate,,,kʼuč̄ʼedaqʼas,Phonemic
+4-650-508-1,darg1241,Dargwa (Megeb dialect),592,жух укІес,CyrillTrans,urinate,,,"žux ukʼes, žux bukʼes",Phonemic
+4-650-508-3,darg1241,Dargwa (Megeb dialect),592,жух букІес,CyrillTrans,urinate,,,"žux ukʼes, žux bukʼes",Phonemic
+4-640-508-1,darg1241,Dargwa (Megeb dialect),1159,чІякь бутес,CyrillTrans,break wind,,,"čʼaˤqʼ butes, čʼaˤqʼ ukʼes",Phonemic
+4-640-508-3,darg1241,Dargwa (Megeb dialect),1159,чІякь укІес,CyrillTrans,break wind,,,"čʼaˤqʼ butes, čʼaˤqʼ ukʼes",Phonemic
+4-630-508-1,darg1241,Dargwa (Megeb dialect),1602,балхІвес,CyrillTrans,wake up,,,balħʷes,Phonemic
+4-620-508-1,darg1241,Dargwa (Megeb dialect),1920,муэр гвес,CyrillTrans,dream,,,muʔer gʷes,Phonemic
+4-612-508-1,darg1241,Dargwa (Megeb dialect),1983,хунтІбукІес,CyrillTrans,snore,,,xuntʼbukʼes,Phonemic
+4-610-508-1,darg1241,Dargwa (Megeb dialect),1585,бусаъвас,CyrillTrans,sleep,,,busaʔwas,Phonemic
+4-591-508-1,darg1241,Dargwa (Megeb dialect),268,туънейни батес,CyrillTrans,dribble,,,tuʔneyni bates,Phonemic
+4-590-508-1,darg1241,Dargwa (Megeb dialect),319,ижес,CyrillTrans,lick,,,"ižes, mimcʼ baq̄as",Phonemic
+4-590-508-3,darg1241,Dargwa (Megeb dialect),319,мимцІ бакъас,CyrillTrans,lick,,,"ižes, mimcʼ baq̄as",Phonemic
+4-580-508-1,darg1241,Dargwa (Megeb dialect),1403,кьацІ укес,CyrillTrans,bite,,,qʼacʼ ukes,Phonemic
+4-570-508-1,darg1241,Dargwa (Megeb dialect),1278,вегІ укІес,CyrillTrans,vomit,,,weʕ ukʼes,Phonemic
+4-560-508-1,darg1241,Dargwa (Megeb dialect),1440,ту укІес,CyrillTrans,spit,,,tu ukʼes,Phonemic
+4-550-508-1,darg1241,Dargwa (Megeb dialect),126,майъа аъас,CyrillTrans,perspire,,,mayʔa aʔas,Phonemic
+4-540-508-1,darg1241,Dargwa (Megeb dialect),1621,гІямчу эс,CyrillTrans,sneeze,,,"ʕaˤmču es, abču ukʼes",Phonemic
+4-540-508-3,darg1241,Dargwa (Megeb dialect),1621,абчу укІес,CyrillTrans,sneeze,,,"ʕaˤmču es, abču ukʼes",Phonemic
+4-530-508-1,darg1241,Dargwa (Megeb dialect),879,хъахІу эс,CyrillTrans,cough,,,"qaħu es, qaħu ukʼes",Phonemic
+4-530-508-3,darg1241,Dargwa (Megeb dialect),879,хъахІу укІес,CyrillTrans,cough,,,"qaħu es, qaħu ukʼes",Phonemic
+4-521-508-1,darg1241,Dargwa (Megeb dialect),162,гьекІ букІес,CyrillTrans,hiccough,,,hekʼ bukʼes,Phonemic
+4-520-508-1,darg1241,Dargwa (Megeb dialect),1028,мяхабатес,CyrillTrans,"yawn, gape",,,maˤxabates,Phonemic
+4-510-508-1,darg1241,Dargwa (Megeb dialect),1407,гьигь арес,CyrillTrans,"breathe, breath",,,"hih ares, hih bates",Phonemic
+4-510-508-3,darg1241,Dargwa (Megeb dialect),1407,гьигь батес,CyrillTrans,"breathe, breath",,,"hih ares, hih bates",Phonemic
+4-492-508-1,darg1241,Dargwa (Megeb dialect),1222,мантІу,CyrillTrans,penis,,,mantʼu,Phonemic
+4-490-508-1,darg1241,Dargwa (Megeb dialect),797,кьулкьме,CyrillTrans,testicle,,,"qʼulqʼme, qʼumqʼala žigre",Phonemic
+4-490-508-3,darg1241,Dargwa (Megeb dialect),797,кьумкьала жигре,CyrillTrans,testicle,,,"qʼulqʼme, qʼumqʼala žigre",Phonemic
+4-470-508-1,darg1241,Dargwa (Megeb dialect),804,эйя хъали,CyrillTrans,womb,,,eyaˤ qali,Phonemic
+4-464-508-1,darg1241,Dargwa (Megeb dialect),834,иргъи,CyrillTrans,buttocks,,,"irɣi, irɣme",Phonemic
+4-464-508-3,darg1241,Dargwa (Megeb dialect),834,иргъме,CyrillTrans,buttocks,,,"irɣi, irɣme",Phonemic
+4-463-508-1,darg1241,Dargwa (Megeb dialect),1745,урдур,CyrillTrans,hip,,,urdur,Phonemic
+4-462-508-1,darg1241,Dargwa (Megeb dialect),1681,вайъ,CyrillTrans,waist,,,wayʔ,Phonemic
+4-461-508-1,darg1241,Dargwa (Megeb dialect),1991,руде,CyrillTrans,"intestines, guts",,,rude,Phonemic
+4-460-508-1,darg1241,Dargwa (Megeb dialect),819,дубягІяла хъали,CyrillTrans,stomach,,,"dubaˤʕaˤla qali, haga",Phonemic
+4-460-508-3,darg1241,Dargwa (Megeb dialect),819,гьага,CyrillTrans,stomach,,,"dubaˤʕaˤla qali, haga",Phonemic
+4-452-508-1,darg1241,Dargwa (Megeb dialect),1744,кІацІ,CyrillTrans,spleen,,,kʼacʼ,Phonemic
+4-451-508-1,darg1241,Dargwa (Megeb dialect),489,урцец,CyrillTrans,kidney,,,urcec,Phonemic
+4-450-508-1,darg1241,Dargwa (Megeb dialect),1224,дулечІ,CyrillTrans,liver,,,dulečʼ,Phonemic
+4-441-508-1,darg1241,Dargwa (Megeb dialect),688,хургьле,CyrillTrans,lung,,,"xurhle, xarhʷala",Phonemic
+4-441-508-3,darg1241,Dargwa (Megeb dialect),688,харгьвала,CyrillTrans,lung,,,"xurhle, xarhʷala",Phonemic
+4-440-508-1,darg1241,Dargwa (Megeb dialect),1223,уркІи,CyrillTrans,heart,,,urkʼi,Phonemic
+4-430-508-1,darg1241,Dargwa (Megeb dialect),1838,къуду,CyrillTrans,navel,,,q̄udu,Phonemic
+4-420-508-1,darg1241,Dargwa (Megeb dialect),154,бурхІа,CyrillTrans,udder,,,"burħa, mama",Phonemic
+4-420-508-3,darg1241,Dargwa (Megeb dialect),154,мама,CyrillTrans,udder,,,"burħa, mama",Phonemic
+4-412-508-1,darg1241,Dargwa (Megeb dialect),796,утІи,CyrillTrans,"nipple, teat",,,"utʼi, mamala bečʼ",Phonemic
+4-412-508-3,darg1241,Dargwa (Megeb dialect),796,мамала бечІ,CyrillTrans,"nipple, teat",,,"utʼi, mamala bečʼ",Phonemic
+4-410-508-1,darg1241,Dargwa (Megeb dialect),1402,мама,CyrillTrans,breast (of woman),,,mama,Phonemic
+4-393-508-1,darg1241,Dargwa (Megeb dialect),1201,пёхІёли,CyrillTrans,feather,,,pyoħyoli,Phonemic
+4-392-508-1,darg1241,Dargwa (Megeb dialect),1257,батари,CyrillTrans,wing,,,batari,Phonemic
+4-380-508-1,darg1241,Dargwa (Megeb dialect),1389,губул,CyrillTrans,toe,,,gubul,Phonemic
+4-374-508-1,darg1241,Dargwa (Megeb dialect),318,гъел,CyrillTrans,footprint,,,ɣel,Phonemic
+4-372-508-1,darg1241,Dargwa (Megeb dialect),980,кьячІа,CyrillTrans,heel,,,qʼaˤčʼa,Phonemic
+4-371-508-1,darg1241,Dargwa (Megeb dialect),803,вайъ,CyrillTrans,ankle,,,wayʔ,Phonemic
+4-370-508-1,darg1241,Dargwa (Megeb dialect),1301,лутІидага,CyrillTrans,foot,,,lutʼidaga,Phonemic
+4-360-508-1,darg1241,Dargwa (Megeb dialect),1371,кьукьа,CyrillTrans,knee,,,qʼuqʼa,Phonemic
+4-352-508-1,darg1241,Dargwa (Megeb dialect),498,кІинкІ,CyrillTrans,calf of leg,,,kʼinkʼ,Phonemic
+4-351-508-1,darg1241,Dargwa (Megeb dialect),800,урдур,CyrillTrans,thigh,,,urdur,Phonemic
+4-350-508-1,darg1241,Dargwa (Megeb dialect),1297,дага,CyrillTrans,leg,,,daga,Phonemic
+4-345-508-1,darg1241,Dargwa (Megeb dialect),72,хъяшкІва,CyrillTrans,claw,,,qaˤškʼʷa,Phonemic
+4-344-508-1,darg1241,Dargwa (Megeb dialect),1258,никва,CyrillTrans,fingernail,,,nikʷa,Phonemic
+4-342-508-1,darg1241,Dargwa (Megeb dialect),1781,муркІа тІул,CyrillTrans,thumb,,,murkʼa tʼul,Phonemic
+4-340-508-1,darg1241,Dargwa (Megeb dialect),1303,тІул,CyrillTrans,finger,,,tʼul,Phonemic
+4-331-508-1,darg1241,Dargwa (Megeb dialect),1183,хъат,CyrillTrans,palm of hand,,,qat,Phonemic
+4-330-508-1,darg1241,Dargwa (Megeb dialect),1277,нягъ,CyrillTrans,hand,,,naˤɣ,Phonemic
+4-321-508-1,darg1241,Dargwa (Megeb dialect),799,нягъ,CyrillTrans,wrist,,,naˤɣ,Phonemic
+4-320-508-1,darg1241,Dargwa (Megeb dialect),981,газанягъ,CyrillTrans,elbow,,,gazanaˤɣ,Phonemic
+4-312-508-1,darg1241,Dargwa (Megeb dialect),1886,шалЪвала кІавгь,CyrillTrans,armpit,,,šalЪʷala kʼawh,Phonemic
+4-310-508-1,darg1241,Dargwa (Megeb dialect),1673,нягъ,CyrillTrans,arm,,,naˤɣ,Phonemic
+4-302-508-1,darg1241,Dargwa (Megeb dialect),1994,хъарчІа дукІ,CyrillTrans,collarbone,,,qarčʼa dukʼ,Phonemic
+4-301-508-1,darg1241,Dargwa (Megeb dialect),172,кІаталига,CyrillTrans,shoulderblade,,,kʼataliga,Phonemic
+4-300-508-1,darg1241,Dargwa (Megeb dialect),1482,хъарчІала,CyrillTrans,shoulder,,,qarčʼala,Phonemic
+4-290-508-1,darg1241,Dargwa (Megeb dialect),1346,кьакьари,CyrillTrans,throat,,,qʼaqʼari,Phonemic
+4-281-508-1,darg1241,Dargwa (Megeb dialect),1347,гІалабечІ,CyrillTrans,nape of neck,,,"ʕalabečʼ, qʷebla liga",Phonemic
+4-281-508-3,darg1241,Dargwa (Megeb dialect),1347,хъвебла лига,CyrillTrans,nape of neck,,,"ʕalabečʼ, qʷebla liga",Phonemic
+4-280-508-1,darg1241,Dargwa (Megeb dialect),1333,хъвяб,CyrillTrans,neck,,,"qʷaˤb, qʷaˤntʼa",Phonemic
+4-280-508-3,darg1241,Dargwa (Megeb dialect),1333,хъвянтІа,CyrillTrans,neck,,,"qʷaˤb, qʷaˤntʼa",Phonemic
+4-272-508-1,darg1241,Dargwa (Megeb dialect),1049,мякьвизеб цула,CyrillTrans,molartooth,,,maˤqʼʷizeb cula,Phonemic
+4-270-508-1,darg1241,Dargwa (Megeb dialect),1380,цула,CyrillTrans,tooth,,,cula,Phonemic
+4-271-508-1,darg1241,Dargwa (Megeb dialect),139,кукбе,CyrillTrans,gums,,,kukbe,Phonemic
+4-260-508-1,darg1241,Dargwa (Megeb dialect),1205,низби,CyrillTrans,tongue,,,nizbi,Phonemic
+4-250-508-1,darg1241,Dargwa (Megeb dialect),478,кІветІ,CyrillTrans,lip,,,"kʼʷetʼ, dubi",Phonemic
+4-250-508-3,darg1241,Dargwa (Megeb dialect),478,дуби,CyrillTrans,lip,,,"kʼʷetʼ, dubi",Phonemic
+4-241-508-1,darg1241,Dargwa (Megeb dialect),73,мухІли,CyrillTrans,beak,,,muħli,Phonemic
+4-240-508-1,darg1241,Dargwa (Megeb dialect),674,дуби,CyrillTrans,mouth,,,dubi,Phonemic
+4-232-508-1,darg1241,Dargwa (Megeb dialect),208,аргь,CyrillTrans,mucus (nasal),,,"arh, šuhre",Phonemic
+4-232-508-3,darg1241,Dargwa (Megeb dialect),208,шугьре,CyrillTrans,mucus (nasal),,,"arh, šuhre",Phonemic
+4-231-508-1,darg1241,Dargwa (Megeb dialect),1178,шумшутІила тІярхъи,CyrillTrans,nostril,,,šumšutʼila tʼaˤrqi,Phonemic
+4-230-508-1,darg1241,Dargwa (Megeb dialect),1221,шумшутІи,CyrillTrans,nose,,,šumšutʼi,Phonemic
+4-222-508-1,darg1241,Dargwa (Megeb dialect),32,лихІила хІёли,CyrillTrans,earwax,,,liħila ħyoli,Phonemic
+4-221-508-1,darg1241,Dargwa (Megeb dialect),18,лихІи,CyrillTrans,earlobe,,,liħi,Phonemic
+4-220-508-1,darg1241,Dargwa (Megeb dialect),1247,лихІи,CyrillTrans,ear,,,liħi,Phonemic
+4-215-508-1,darg1241,Dargwa (Megeb dialect),1655,дяхІ жинк диахъас,CyrillTrans,blink,,,daˤħ žink diaqas,Phonemic
+4-214-508-1,darg1241,Dargwa (Megeb dialect),1540,чІимичІум,CyrillTrans,eyelash,,,"čʼimičʼum, čʼimičʼala",Phonemic
+4-214-508-3,darg1241,Dargwa (Megeb dialect),1540,чІимичІала,CyrillTrans,eyelash,,,"čʼimičʼum, čʼimičʼala",Phonemic
+4-213-508-1,darg1241,Dargwa (Megeb dialect),17,хІуйя къапІа,CyrillTrans,eyelid,,,"ħuyaˤ q̄apʼa, ħulila q̄apʼa",Phonemic
+4-213-508-3,darg1241,Dargwa (Megeb dialect),17,хІулила къапIа,CyrillTrans,eyelid,,,"ħuyaˤ q̄apʼa, ħulila q̄apʼa",Phonemic
+4-212-508-1,darg1241,Dargwa (Megeb dialect),1173,нед,CyrillTrans,eyebrow,,,ned,Phonemic
+4-210-508-1,darg1241,Dargwa (Megeb dialect),1248,хІули,CyrillTrans,eye,,,ħuli,Phonemic
+4-208-508-1,darg1241,Dargwa (Megeb dialect),1730,ляжи,CyrillTrans,cheek,,,laˤži,Phonemic
+4-209-508-1,darg1241,Dargwa (Megeb dialect),1510,муцІурла кьячІа,CyrillTrans,chin,,,mucʼurla qʼaˤčʼa,Phonemic
+4-205-508-1,darg1241,Dargwa (Megeb dialect),123,анда,CyrillTrans,forehead,,,anda,Phonemic
+4-207-508-1,darg1241,Dargwa (Megeb dialect),798,кьацІ,CyrillTrans,jaw,,,"qʼacʼ, mucʼurla qʼaˤčʼa",Phonemic
+4-207-508-3,darg1241,Dargwa (Megeb dialect),798,муцІурла кьячІа,CyrillTrans,jaw,,,"qʼacʼ, mucʼurla qʼaˤčʼa",Phonemic
+4-204-508-1,darg1241,Dargwa (Megeb dialect),1560,дяхІ,CyrillTrans,face,,,daˤħ,Phonemic
+4-203-508-1,darg1241,Dargwa (Megeb dialect),1583,бечІла мехІва,CyrillTrans,brain,,,bečʼla meħʷa,Phonemic
+4-201-508-1,darg1241,Dargwa (Megeb dialect),1604,лихІитІала,CyrillTrans,"side of head, temple",,,liħitʼala,Phonemic
+4-202-508-1,darg1241,Dargwa (Megeb dialect),1605,кьабакІ,CyrillTrans,skull,,,qʼabakʼ,Phonemic
+4-200-508-1,darg1241,Dargwa (Megeb dialect),1256,бечІ,CyrillTrans,head,,,bečʼ,Phonemic
+4-191-508-1,darg1241,Dargwa (Megeb dialect),805,муъла тІуъме,CyrillTrans,spine,,,muʔla tʼuʔme,Phonemic
+4-190-508-1,darg1241,Dargwa (Megeb dialect),1291,муъ,CyrillTrans,back,,,muʔ,Phonemic
+4-180-508-1,darg1241,Dargwa (Megeb dialect),1220,чІими,CyrillTrans,tail,,,čʼimi,Phonemic
+4-170-508-1,darg1241,Dargwa (Megeb dialect),1393,хъи,CyrillTrans,horn,,,qi,Phonemic
+4-162-508-1,darg1241,Dargwa (Megeb dialect),801,бургъун,CyrillTrans,rib,,,burɣun,Phonemic
+4-160-508-1,darg1241,Dargwa (Megeb dialect),1394,лига,CyrillTrans,bone,,,liga,Phonemic
+4-151-508-1,darg1241,Dargwa (Megeb dialect),525,хІила тум,CyrillTrans,"vein, artery",,,ħila tum,Phonemic
+4-150-508-1,darg1241,Dargwa (Megeb dialect),946,хІи,CyrillTrans,blood,,,ħi,Phonemic
+4-146-508-1,darg1241,Dargwa (Megeb dialect),576,гІянкІ,CyrillTrans,dandruff,,,ʕaˤnkʼ,Phonemic
+4-145-508-1,darg1241,Dargwa (Megeb dialect),36,гъиз,CyrillTrans,pubic hair,,,ɣiz,Phonemic
+4-144-508-1,darg1241,Dargwa (Megeb dialect),189,гъиз,CyrillTrans,body hair,,,ɣiz,Phonemic
+4-142-508-1,darg1241,Dargwa (Megeb dialect),678,муцІур,CyrillTrans,beard,,,mucʼur,Phonemic
+4-140-508-1,darg1241,Dargwa (Megeb dialect),1040,гъиз,CyrillTrans,hair (head),,,ɣiz,Phonemic
+4-130-508-1,darg1241,Dargwa (Megeb dialect),2259,диъ,CyrillTrans,flesh,,,diʔ,Phonemic
+4-120-508-1,darg1241,Dargwa (Megeb dialect),763,кІех,CyrillTrans,"skin, hide",,,"kʼex, ker",Phonemic
+4-120-508-3,darg1241,Dargwa (Megeb dialect),763,кер,CyrillTrans,"skin, hide",,,"kʼex, ker",Phonemic
+4-110-508-1,darg1241,Dargwa (Megeb dialect),1480,кьаркьала,CyrillTrans,body,,,"qʼarqʼala, čarx",Phonemic
+4-110-508-3,darg1241,Dargwa (Megeb dialect),1480,чарх,CyrillTrans,body,,,"qʼarqʼala, čarx",Phonemic
+3-980-508-1,darg1241,Dargwa (Megeb dialect),112,хъайчул гІята,CyrillTrans,turtle,,,qayčul ʕaˤta,Phonemic
+3-970-508-1,darg1241,Dargwa (Megeb dialect),1857,аждагьа,CyrillTrans,"crocodile, alligator",,,aždaha,Phonemic
+3-960-508-1,darg1241,Dargwa (Megeb dialect),632,шуршутІани,CyrillTrans,lizard,,,šuršutʼani,Phonemic
+3-950-508-1,darg1241,Dargwa (Megeb dialect),503,гІятIа,CyrillTrans,frog,,,ʕaˤtʼa,Phonemic
+3-940-508-1,darg1241,Dargwa (Megeb dialect),1543,гьамхІалухъ,CyrillTrans,snail,,,hamħaluq,Phonemic
+3-930-508-1,darg1241,Dargwa (Megeb dialect),607,цІерцІ,CyrillTrans,grasshopper,,,cʼercʼ,Phonemic
+3-920-508-1,darg1241,Dargwa (Megeb dialect),1791,абдия,CyrillTrans,butterfly,,,abdiya,Phonemic
+3-910-508-1,darg1241,Dargwa (Megeb dialect),206,балкІун,CyrillTrans,firefly,,,"balkʼun, čʼičʼa, lukʼul čʼičʼa",Phonemic
+3-910-508-3,darg1241,Dargwa (Megeb dialect),206,чІичІа,CyrillTrans,firefly,,,"balkʼun, čʼičʼa, lukʼul čʼičʼa",Phonemic
+3-910-508-5,darg1241,Dargwa (Megeb dialect),206,лукІул чІичІа,CyrillTrans,firefly,,,"balkʼun, čʼičʼa, lukʼul čʼičʼa",Phonemic
+3-850-508-1,darg1241,Dargwa (Megeb dialect),730,ган,CyrillTrans,snake,,,gan,Phonemic
+3-840-508-1,darg1241,Dargwa (Megeb dialect),1219,чІичІа,CyrillTrans,worm,,,čʼičʼa,Phonemic
+3-832-508-1,darg1241,Dargwa (Megeb dialect),1509,кІара,CyrillTrans,mosquito,,,kʼara,Phonemic
+3-831-508-1,darg1241,Dargwa (Megeb dialect),95,кІара,CyrillTrans,"sandfly (midge), gnat",,,kʼara,Phonemic
+3-830-508-1,darg1241,Dargwa (Megeb dialect),1504,тІантІ,CyrillTrans,fly,,,tʼantʼ,Phonemic
+3-823-508-1,darg1241,Dargwa (Megeb dialect),1517,шаха,CyrillTrans,wasp,,,šaxa,Phonemic
+3-822-508-1,darg1241,Dargwa (Megeb dialect),88,мирхъи,CyrillTrans,beehive,,,mirqi,Phonemic
+3-821-508-1,darg1241,Dargwa (Megeb dialect),1931,мурчІали,CyrillTrans,beeswax,,,murčʼali,Phonemic
+3-820-508-1,darg1241,Dargwa (Megeb dialect),665,мирхъи,CyrillTrans,bee,,,mirqi,Phonemic
+3-819-508-1,darg1241,Dargwa (Megeb dialect),1065,хамхари,CyrillTrans,spider web,,,xamxari,Phonemic
+3-818-508-1,darg1241,Dargwa (Megeb dialect),843,хъизирхъала,CyrillTrans,spider,,,qizirqala,Phonemic
+3-817-508-1,darg1241,Dargwa (Megeb dialect),587,имиъвала,CyrillTrans,ant,,,imiʔwala,Phonemic
+3-816-508-1,darg1241,Dargwa (Megeb dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-508-1,darg1241,Dargwa (Megeb dialect),1538,гІянкьяр,CyrillTrans,scorpion,,,ʕaˤnqʼaˤr,Phonemic
+3-814-508-1,darg1241,Dargwa (Megeb dialect),1974,чІичІа,CyrillTrans,centipede,,,"čʼičʼa, ancʼaliyal daga",Phonemic
+3-814-508-3,darg1241,Dargwa (Megeb dialect),1974,анцІалиял дага,CyrillTrans,centipede,,,"čʼičʼa, ancʼaliyal daga",Phonemic
+3-813-508-1,darg1241,Dargwa (Megeb dialect),232,цІигьва,CyrillTrans,flea,,,cʼihʷa,Phonemic
+3-812-508-1,darg1241,Dargwa (Megeb dialect),267,верхІиби,CyrillTrans,nit (louse egg),,,werħibi,Phonemic
+3-811-508-1,darg1241,Dargwa (Megeb dialect),1392,неръ,CyrillTrans,louse,,,nerʔ,Phonemic
+3-810-508-1,darg1241,Dargwa (Megeb dialect),620,чІичІне,CyrillTrans,insect,,,čʼičʼne,Phonemic
+3-780-508-1,darg1241,Dargwa (Megeb dialect),1871,ванари,CyrillTrans,camel,,,wanari,Phonemic
+3-770-508-1,darg1241,Dargwa (Megeb dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-508-1,darg1241,Dargwa (Megeb dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-508-1,darg1241,Dargwa (Megeb dialect),1936,энцІер,CyrillTrans,deer,,,encʼer,Phonemic
+3-740-508-1,darg1241,Dargwa (Megeb dialect),1312,гурда,CyrillTrans,fox,,,gurda,Phonemic
+3-730-508-1,darg1241,Dargwa (Megeb dialect),1820,синка,CyrillTrans,bear,,,sinka,Phonemic
+3-720-508-1,darg1241,Dargwa (Megeb dialect),1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-508-1,darg1241,Dargwa (Megeb dialect),522,жанавар,CyrillTrans,wolf,,,žanawar,Phonemic
+3-664-508-1,darg1241,Dargwa (Megeb dialect),1910,кІасла хве,CyrillTrans,stingray,,,kʼasla xʷe,Phonemic
+3-663-508-1,darg1241,Dargwa (Megeb dialect),957,кит,CyrillTrans,whale,,,"kit, urx̌ula naɣa",Phonemic
+3-663-508-3,darg1241,Dargwa (Megeb dialect),957,урхьула нагъа,CyrillTrans,whale,,,"kit, urx̌ula naɣa",Phonemic
+3-662-508-1,darg1241,Dargwa (Megeb dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-508-1,darg1241,Dargwa (Megeb dialect),1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-508-1,darg1241,Dargwa (Megeb dialect),598,кІасла лихІи,CyrillTrans,shell,,,"kʼasla liħi, kʼuraˤɣi",Phonemic
+3-655-508-3,darg1241,Dargwa (Megeb dialect),598,кІурягъи,CyrillTrans,shell,,,"kʼasla liħi, kʼuraˤɣi",Phonemic
+3-654-508-1,darg1241,Dargwa (Megeb dialect),1916,жабрарт,CyrillTrans,gill,,,žabrart,Phonemic
+3-653-508-1,darg1241,Dargwa (Megeb dialect),266,хъал,CyrillTrans,fishscale,,,qal,Phonemic
+3-652-508-1,darg1241,Dargwa (Megeb dialect),213,кІасла батари,CyrillTrans,fin (dorsal),,,"kʼasla batari, kʼasla čʼimi",Phonemic
+3-652-508-3,darg1241,Dargwa (Megeb dialect),213,кІасла чІими,CyrillTrans,fin (dorsal),,,"kʼasla batari, kʼasla čʼimi",Phonemic
+3-650-508-1,darg1241,Dargwa (Megeb dialect),227,кІас,CyrillTrans,fish,,,kʼas,Phonemic
+3-630-508-1,darg1241,Dargwa (Megeb dialect),2139,ваца,CyrillTrans,"mouse, rat",,,waca,Phonemic
+3-620-508-1,darg1241,Dargwa (Megeb dialect),1208,гату,CyrillTrans,cat,,,gatu,Phonemic
+3-614-508-1,darg1241,Dargwa (Megeb dialect),1136,гІёри,CyrillTrans,rabbit,,,"ʕyori, ʕari",Phonemic
+3-614-508-3,darg1241,Dargwa (Megeb dialect),1136,гІари,CyrillTrans,rabbit,,,"ʕyori, ʕari",Phonemic
+3-610-508-1,darg1241,Dargwa (Megeb dialect),2009,хве,CyrillTrans,dog,,,xʷe,Phonemic
+3-594-508-1,darg1241,Dargwa (Megeb dialect),1853,лагьви,CyrillTrans,dove,,,lahʷi,Phonemic
+3-596-508-1,darg1241,Dargwa (Megeb dialect),735,гугмягІяй,CyrillTrans,owl,,,"gugmaˤʕaˤy, tʼumi",Phonemic
+3-596-508-3,darg1241,Dargwa (Megeb dialect),735,тІуми,CyrillTrans,owl,,,"gugmaˤʕaˤy, tʼumi",Phonemic
+3-593-508-1,darg1241,Dargwa (Megeb dialect),913,гъяна,CyrillTrans,crow,,,ɣaˤna,Phonemic
+3-592-508-1,darg1241,Dargwa (Megeb dialect),882,вадвадаги,CyrillTrans,parrot,,,"wadwadagi, papugay",Phonemic
+3-592-508-3,darg1241,Dargwa (Megeb dialect),882,папугай,CyrillTrans,parrot,,,"wadwadagi, papugay",Phonemic
+3-591-508-1,darg1241,Dargwa (Megeb dialect),1793,ситка,CyrillTrans,bat,,,"sitka, urcul waca, ħaˤčʼa",Phonemic
+3-591-508-3,darg1241,Dargwa (Megeb dialect),1793,урцул ваца,CyrillTrans,bat,,,"sitka, urcul waca, ħaˤčʼa",Phonemic
+3-591-508-5,darg1241,Dargwa (Megeb dialect),1793,хІячІа,CyrillTrans,bat,,,"sitka, urcul waca, ħaˤčʼa",Phonemic
+3-586-508-1,darg1241,Dargwa (Megeb dialect),1185,чудук,CyrillTrans,vulture,,,čuduk,Phonemic
+3-585-508-1,darg1241,Dargwa (Megeb dialect),307,гъарчигъай,CyrillTrans,hawk,,,"ɣarčiɣay, cʼuldum",Phonemic
+3-585-508-3,darg1241,Dargwa (Megeb dialect),307,цІулдум,CyrillTrans,hawk,,,"ɣarčiɣay, cʼuldum",Phonemic
+3-584-508-1,darg1241,Dargwa (Megeb dialect),1905,гІёнукІ,CyrillTrans,eagle,,,"ʕyonukʼ, ʕaˤnnukʼ",Phonemic
+3-584-508-3,darg1241,Dargwa (Megeb dialect),1905,гІяннукІ,CyrillTrans,eagle,,,"ʕyonukʼ, ʕaˤnnukʼ",Phonemic
+3-582-508-1,darg1241,Dargwa (Megeb dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-508-1,darg1241,Dargwa (Megeb dialect),758,халал гигьве,CyrillTrans,heron,,,xalal gihʷe,Phonemic
+3-581-508-1,darg1241,Dargwa (Megeb dialect),937,чикьвя,CyrillTrans,bird,,,čiqʼʷaˤ,Phonemic
+3-580-508-1,darg1241,Dargwa (Megeb dialect),539,буруш,CyrillTrans,nest,,,buruš,Phonemic
+3-570-508-1,darg1241,Dargwa (Megeb dialect),1360,урдек,CyrillTrans,duck,,,urdek,Phonemic
+3-560-508-1,darg1241,Dargwa (Megeb dialect),1187,къваз,CyrillTrans,goose,,,q̄ʷaz,Phonemic
+3-550-508-1,darg1241,Dargwa (Megeb dialect),1318,дёргьё,CyrillTrans,chicken,,,dyorhyo,Phonemic
+3-540-508-1,darg1241,Dargwa (Megeb dialect),1514,гІяргІва,CyrillTrans,hen,,,ʕaˤrʕʷa,Phonemic
+3-520-508-1,darg1241,Dargwa (Megeb dialect),1511,дакда,CyrillTrans,"cock, rooster",,,dakda,Phonemic
+3-470-508-1,darg1241,Dargwa (Megeb dialect),890,гьамхІалукь,CyrillTrans,mule,,,hamħaluqʼ,Phonemic
+3-500-508-1,darg1241,Dargwa (Megeb dialect),265,хъулири гьёргІне,CyrillTrans,fowl,,,quliri hyorʕne,Phonemic
+3-460-508-1,darg1241,Dargwa (Megeb dialect),1862,гьамхІа,CyrillTrans,"ass, donkey",,,hamħa,Phonemic
+3-450-508-1,darg1241,Dargwa (Megeb dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˤy,Phonemic
+3-440-508-1,darg1241,Dargwa (Megeb dialect),938,гваза,CyrillTrans,mare,,,gʷaza,Phonemic
+3-420-508-1,darg1241,Dargwa (Megeb dialect),936,айгъир,CyrillTrans,stallion,,,ayɣir,Phonemic
+3-410-508-1,darg1241,Dargwa (Megeb dialect),615,ябу,CyrillTrans,horse (equine),,,yabu,Phonemic
+3-380-508-1,darg1241,Dargwa (Megeb dialect),1972,гежба,CyrillTrans,kid,,,gežba,Phonemic
+3-370-508-1,darg1241,Dargwa (Megeb dialect),264,кьяца,CyrillTrans,he-goat,,,qʼaˤca,Phonemic
+3-360-508-1,darg1241,Dargwa (Megeb dialect),1502,эжа,CyrillTrans,goat,,,eža,Phonemic
+3-350-508-1,darg1241,Dargwa (Megeb dialect),1337,тІерхІ,CyrillTrans,pig,,,tʼerħ,Phonemic
+3-340-508-1,darg1241,Dargwa (Megeb dialect),1351,гъабан,CyrillTrans,sow (2),,,"ɣaban, bemgesi tʼerħ",Phonemic
+3-340-508-3,darg1241,Dargwa (Megeb dialect),1351,бемгеси тІерхІ,CyrillTrans,sow (2),,,"ɣaban, bemgesi tʼerħ",Phonemic
+3-320-508-1,darg1241,Dargwa (Megeb dialect),1348,гъабан,CyrillTrans,boar,,,ɣaban,Phonemic
+3-290-508-1,darg1241,Dargwa (Megeb dialect),820,дулай,CyrillTrans,lamb,,,"dulay, muqʼara",Phonemic
+3-290-508-3,darg1241,Dargwa (Megeb dialect),820,мукьара,CyrillTrans,lamb,,,"dulay, muqʼara",Phonemic
+3-280-508-1,darg1241,Dargwa (Megeb dialect),1345,хъватІи,CyrillTrans,ewe,,,qʷatʼi,Phonemic
+3-260-508-1,darg1241,Dargwa (Megeb dialect),1344,квигьа,CyrillTrans,ram,,,kʷiha,Phonemic
+3-250-508-1,darg1241,Dargwa (Megeb dialect),1331,маза,CyrillTrans,sheep,,,maza,Phonemic
+3-240-508-1,darg1241,Dargwa (Megeb dialect),1989,гъачча,CyrillTrans,calf,,,ɣač̄a,Phonemic
+3-230-508-1,darg1241,Dargwa (Megeb dialect),1007,кьвял,CyrillTrans,cow,,,qʼʷaˤl,Phonemic
+3-220-508-1,darg1241,Dargwa (Megeb dialect),1169,унц,CyrillTrans,ox,,,"unc, buɣa",Phonemic
+3-220-508-3,darg1241,Dargwa (Megeb dialect),1169,бугъа,CyrillTrans,ox,,,"unc, buɣa",Phonemic
+3-210-508-1,darg1241,Dargwa (Megeb dialect),1008,унц,CyrillTrans,bull,,,"unc, buɣa",Phonemic
+3-210-508-3,darg1241,Dargwa (Megeb dialect),1008,бугъа,CyrillTrans,bull,,,"unc, buɣa",Phonemic
+3-200-508-1,darg1241,Dargwa (Megeb dialect),1153,баъни,CyrillTrans,cattle (bovine),,,"baʔni, bahniq̄yole",Phonemic
+3-200-508-3,darg1241,Dargwa (Megeb dialect),1153,багьникъёле,CyrillTrans,cattle (bovine),,,"baʔni, bahniq̄yole",Phonemic
+3-190-508-1,darg1241,Dargwa (Megeb dialect),851,дерхъ,CyrillTrans,"stable, stall",,,"derq, yabu bilhur mer",Phonemic
+3-190-508-3,darg1241,Dargwa (Megeb dialect),851,ябу билгьур мер,CyrillTrans,"stable, stall",,,"derq, yabu bilhur mer",Phonemic
+3-180-508-1,darg1241,Dargwa (Megeb dialect),263,букІун,CyrillTrans,herdsman,,,bukʼun,Phonemic
+3-160-508-1,darg1241,Dargwa (Megeb dialect),649,ургуба,CyrillTrans,pasture,,,"urguba, saga",Phonemic
+3-160-508-3,darg1241,Dargwa (Megeb dialect),649,сага,CyrillTrans,pasture,,,"urguba, saga",Phonemic
+3-150-508-1,darg1241,Dargwa (Megeb dialect),631,рискьи,CyrillTrans,livestock,,,"risqʼi, ħaywan, qulibi",Phonemic
+3-150-508-3,darg1241,Dargwa (Megeb dialect),631,хІайван,CyrillTrans,livestock,,,"risqʼi, ħaywan, qulibi",Phonemic
+3-150-508-5,darg1241,Dargwa (Megeb dialect),631,хъулиби,CyrillTrans,livestock,,,"risqʼi, ħaywan, qulibi",Phonemic
+3-130-508-1,darg1241,Dargwa (Megeb dialect),2262,гважул,CyrillTrans,female (adj),,,gʷažul,Phonemic
+3-120-508-1,darg1241,Dargwa (Megeb dialect),2261,маръул,CyrillTrans,male (adj),,,marʔul,Phonemic
+3-110-508-1,darg1241,Dargwa (Megeb dialect),619,хІайван,CyrillTrans,animal,,,ħaywan,Phonemic
+2-960-508-1,darg1241,Dargwa (Megeb dialect),817,идди,CyrillTrans,they,,,iddi,Phonemic
+2-950-508-1,darg1241,Dargwa (Megeb dialect),1213,хІуша,CyrillTrans,you (plural),,,ħuša,Phonemic
+2-940-508-1,darg1241,Dargwa (Megeb dialect),1212,нуша,CyrillTrans,we,,,nuša,Phonemic
+2-930-508-1,darg1241,Dargwa (Megeb dialect),262,ит,CyrillTrans,he/she/it,,,it,Phonemic
+2-920-508-1,darg1241,Dargwa (Megeb dialect),1215,хІу,CyrillTrans,you (singular),,,ħu,Phonemic
+2-910-508-1,darg1241,Dargwa (Megeb dialect),1209,ну,CyrillTrans,I,,,nu,Phonemic
+2-820-508-1,darg1241,Dargwa (Megeb dialect),194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-508-1,darg1241,Dargwa (Megeb dialect),1644,мажадеш,CyrillTrans,"relatives, kinsmen",,,mažadeš,Phonemic
+2-770-508-1,darg1241,Dargwa (Megeb dialect),1981,гамъа,CyrillTrans,widower,,,gamʔa,Phonemic
+2-760-508-1,darg1241,Dargwa (Megeb dialect),1756,гамъа,CyrillTrans,widow,,,gamʔa,Phonemic
+2-750-508-1,darg1241,Dargwa (Megeb dialect),1149,цІуръа эли,CyrillTrans,orphan,,,cʼurʔa eli,Phonemic
+2-740-508-1,darg1241,Dargwa (Megeb dialect),1058,цІуръа дурси,CyrillTrans,stepdaughter,,,cʼurʔa dursi,Phonemic
+2-730-508-1,darg1241,Dargwa (Megeb dialect),1059,цІуръа урши,CyrillTrans,stepson,,,cʼurʔa urši,Phonemic
+2-720-508-1,darg1241,Dargwa (Megeb dialect),236,адайла хьунул,CyrillTrans,stepmother,,,adayla x̌unul,Phonemic
+2-710-508-1,darg1241,Dargwa (Megeb dialect),237,абайла адами,CyrillTrans,stepfather,,,abayla adami,Phonemic
+2-641-508-1,darg1241,Dargwa (Megeb dialect),2264,уршила хьунул,CyrillTrans,daughter-in-law (of a woman),,,uršila x̌unul,Phonemic
+2-640-508-1,darg1241,Dargwa (Megeb dialect),2265,уршила хьунул,CyrillTrans,daughter-in-law (of a man),,,uršila x̌unul,Phonemic
+2-631-508-1,darg1241,Dargwa (Megeb dialect),2266,дурц,CyrillTrans,son-in-law (of a woman),,,durc,Phonemic
+2-630-508-1,darg1241,Dargwa (Megeb dialect),2267,дурц,CyrillTrans,son-in-law (of a man),,,durc,Phonemic
+2-621-508-1,darg1241,Dargwa (Megeb dialect),2257,хьунува абай,CyrillTrans,mother-in-law (of a woman),,,x̌unuwa abay,Phonemic
+2-620-508-1,darg1241,Dargwa (Megeb dialect),2256,гьубла абай,CyrillTrans,mother-in-law (of a man),,,hubla abay,Phonemic
+2-611-508-1,darg1241,Dargwa (Megeb dialect),2254,хьунува адай,CyrillTrans,father-in-law (of a woman),,,x̌unuwa aday,Phonemic
+2-610-508-1,darg1241,Dargwa (Megeb dialect),2255,гьубла адай,CyrillTrans,father-in-law (of a man),,,hubla aday,Phonemic
+2-570-508-1,darg1241,Dargwa (Megeb dialect),490,насру,CyrillTrans,descendants,,,nasru,Phonemic
+2-560-508-1,darg1241,Dargwa (Megeb dialect),1669,дудушурбе,CyrillTrans,ancestors,,,dudušurbe,Phonemic
+2-550-508-1,darg1241,Dargwa (Megeb dialect),1643,узикьари,CyrillTrans,cousin,,,"uziqʼari, ruziqʼari",Phonemic
+2-550-508-3,darg1241,Dargwa (Megeb dialect),1643,рузикьари,CyrillTrans,cousin,,,"uziqʼari, ruziqʼari",Phonemic
+2-540-508-1,darg1241,Dargwa (Megeb dialect),1642,узила дурси,CyrillTrans,niece,,,"uzila dursi, ruzila dursi",Phonemic
+2-540-508-3,darg1241,Dargwa (Megeb dialect),1642,рузила дурси,CyrillTrans,niece,,,"uzila dursi, ruzila dursi",Phonemic
+2-530-508-1,darg1241,Dargwa (Megeb dialect),1063,узила урши,CyrillTrans,nephew,,,"uzila urši, ruzila urši",Phonemic
+2-530-508-3,darg1241,Dargwa (Megeb dialect),1063,рузила урши,CyrillTrans,nephew,,,"uzila urši, ruzila urši",Phonemic
+2-522-508-1,darg1241,Dargwa (Megeb dialect),170,дизи,CyrillTrans,father's sister,,,dizi,Phonemic
+2-520-508-1,darg1241,Dargwa (Megeb dialect),1272,дизи,CyrillTrans,aunt,,,dizi,Phonemic
+2-521-508-1,darg1241,Dargwa (Megeb dialect),171,дизи,CyrillTrans,mother's sister,,,dizi,Phonemic
+2-512-508-1,darg1241,Dargwa (Megeb dialect),1985,ази,CyrillTrans,father's brother,,,azi,Phonemic
+2-511-508-1,darg1241,Dargwa (Megeb dialect),1984,ази,CyrillTrans,mother's brother,,,azi,Phonemic
+2-510-508-1,darg1241,Dargwa (Megeb dialect),1327,ази,CyrillTrans,uncle,,,azi,Phonemic
+2-480-508-1,darg1241,Dargwa (Megeb dialect),1618,улела урши,CyrillTrans,grandson,,,ulela urši,Phonemic
+2-490-508-1,darg1241,Dargwa (Megeb dialect),1619,улела дурси,CyrillTrans,granddaughter,,,ulela dursi,Phonemic
+2-471-508-1,darg1241,Dargwa (Megeb dialect),907,рухъна,CyrillTrans,old woman,,,ruqna,Phonemic
+2-470-508-1,darg1241,Dargwa (Megeb dialect),1496,баба,CyrillTrans,grandmother,,,baba,Phonemic
+2-461-508-1,darg1241,Dargwa (Megeb dialect),406,ухъна,CyrillTrans,old man,,,uqna,Phonemic
+2-460-508-1,darg1241,Dargwa (Megeb dialect),1383,дада,CyrillTrans,grandfather,,,dada,Phonemic
+2-458-508-1,darg1241,Dargwa (Megeb dialect),1005,кІвидаркь,CyrillTrans,twins,,,kʼʷidarqʼ,Phonemic
+2-456-508-1,darg1241,Dargwa (Megeb dialect),1640,узи,CyrillTrans,sibling,,,"uzi, ruzi",Phonemic
+2-456-508-3,darg1241,Dargwa (Megeb dialect),1640,рузи,CyrillTrans,sibling,,,"uzi, ruzi",Phonemic
+2-455-508-1,darg1241,Dargwa (Megeb dialect),1761,диштІал рузи,CyrillTrans,younger sister,,,dištʼal ruzi,Phonemic
+2-454-508-1,darg1241,Dargwa (Megeb dialect),1758,хвал (хвалал) рузи,CyrillTrans,older sister,,,xʷal (xʷalal) ruzi,Phonemic
+2-450-508-1,darg1241,Dargwa (Megeb dialect),1263,рузи,CyrillTrans,sister,,,ruzi,Phonemic
+2-445-508-1,darg1241,Dargwa (Megeb dialect),1760,виштІал узи,CyrillTrans,younger brother,,,wištʼal uzi,Phonemic
+2-444-508-1,darg1241,Dargwa (Megeb dialect),1759,хвал (хвалал) узи,CyrillTrans,older brother,,,xʷal (xʷalal) uzi,Phonemic
+2-440-508-1,darg1241,Dargwa (Megeb dialect),1262,узи,CyrillTrans,brother,,,uzi,Phonemic
+2-430-508-1,darg1241,Dargwa (Megeb dialect),1801,уле,CyrillTrans,offspring (son or daughter),,,ule,Phonemic
+2-420-508-1,darg1241,Dargwa (Megeb dialect),1357,дурси,CyrillTrans,daughter,,,dursi,Phonemic
+2-410-508-1,darg1241,Dargwa (Megeb dialect),1620,урши,CyrillTrans,son,,,urši,Phonemic
+2-390-508-1,darg1241,Dargwa (Megeb dialect),426,гьублис духьуба,CyrillTrans,married woman,,,"hublis dux̌uba, hublis leri",Phonemic
+2-390-508-3,darg1241,Dargwa (Megeb dialect),426,гьублис лери,CyrillTrans,married woman,,,"hublis dux̌uba, hublis leri",Phonemic
+2-380-508-1,darg1241,Dargwa (Megeb dialect),424,хьунул киби,CyrillTrans,married man,,,x̌unul kibi,Phonemic
+2-370-508-1,darg1241,Dargwa (Megeb dialect),505,адай-абай,CyrillTrans,parents,,,aday-abay,Phonemic
+2-360-508-1,darg1241,Dargwa (Megeb dialect),1216,абай,CyrillTrans,mother,,,abay,Phonemic
+2-350-508-1,darg1241,Dargwa (Megeb dialect),1217,адай,CyrillTrans,father,,,aday,Phonemic
+2-341-508-1,darg1241,Dargwa (Megeb dialect),1134,декІара бугьри,CyrillTrans,divorce,,,dekʼara buhri,Phonemic
+2-340-508-1,darg1241,Dargwa (Megeb dialect),1259,бегъ,CyrillTrans,"marriage, wedding",,,"beɣ, mahar, qizam",Phonemic
+2-340-508-3,darg1241,Dargwa (Megeb dialect),1259,магьар,CyrillTrans,"marriage, wedding",,,"beɣ, mahar, qizam",Phonemic
+2-340-508-5,darg1241,Dargwa (Megeb dialect),1259,хъизам,CyrillTrans,"marriage, wedding",,,"beɣ, mahar, qizam",Phonemic
+2-330-508-1,darg1241,Dargwa (Megeb dialect),203,хьунул кес,CyrillTrans,marry,,,"x̌unul kes, hublis duhes",Phonemic
+2-330-508-3,darg1241,Dargwa (Megeb dialect),203,гьублис дугьес,CyrillTrans,marry,,,"x̌unul kes, hublis duhes",Phonemic
+2-320-508-1,darg1241,Dargwa (Megeb dialect),1199,хьунул,CyrillTrans,wife,,,x̌unul,Phonemic
+2-310-508-1,darg1241,Dargwa (Megeb dialect),1200,гьуб,CyrillTrans,husband,,,hub,Phonemic
+2-280-508-1,darg1241,Dargwa (Megeb dialect),1289,дёрхІё,CyrillTrans,"infant, baby",,,"dyorħyo, dorħo",Phonemic
+2-280-508-3,darg1241,Dargwa (Megeb dialect),1289,дорхІо,CyrillTrans,"infant, baby",,,"dyorħyo, dorħo",Phonemic
+2-270-508-1,darg1241,Dargwa (Megeb dialect),1304,эли,CyrillTrans,child,,,eli,Phonemic
+2-261-508-1,darg1241,Dargwa (Megeb dialect),77,дурси чашари,CyrillTrans,young woman (adolescent),,,dursi čašari,Phonemic
+2-260-508-1,darg1241,Dargwa (Megeb dialect),1646,дурси,CyrillTrans,girl,,,dursi,Phonemic
+2-251-508-1,darg1241,Dargwa (Megeb dialect),76,урши гIулухъан,CyrillTrans,young man (adolescent),,,urši ʕuluqan,Phonemic
+2-250-508-1,darg1241,Dargwa (Megeb dialect),1366,урши,CyrillTrans,boy,,,urši,Phonemic
+2-240-508-1,darg1241,Dargwa (Megeb dialect),1551,гважул,CyrillTrans,female,,,gʷažul,Phonemic
+2-230-508-1,darg1241,Dargwa (Megeb dialect),1553,маръул,CyrillTrans,male,,,marʔul,Phonemic
+2-220-508-1,darg1241,Dargwa (Megeb dialect),962,хьунул,CyrillTrans,woman,,,x̌unul,Phonemic
+2-210-508-1,darg1241,Dargwa (Megeb dialect),1554,адами,CyrillTrans,man (vs. woman),,,adami,Phonemic
+2-100-508-1,darg1241,Dargwa (Megeb dialect),683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-508-1,darg1241,Dargwa (Megeb dialect),1188,гаре,CyrillTrans,charcoal,,,"gare, qurqu kʼani",Phonemic
+1-890-508-3,darg1241,Dargwa (Megeb dialect),1188,хъурхъу кІани,CyrillTrans,charcoal,,,"gare, qurqu kʼani",Phonemic
+1-880-508-1,darg1241,Dargwa (Megeb dialect),10,урцули,CyrillTrans,firewood,,,urculi,Phonemic
+1-870-508-1,darg1241,Dargwa (Megeb dialect),1133,пелта,CyrillTrans,match (noun),,,pelta,Phonemic
+1-861-508-1,darg1241,Dargwa (Megeb dialect),127,душахъас,CyrillTrans,extinguish,,,dušaqas,Phonemic
+1-860-508-1,darg1241,Dargwa (Megeb dialect),737,цІа даъас,CyrillTrans,"light, kindle, ignite",,,cʼa daʔas,Phonemic
+1-852-508-1,darg1241,Dargwa (Megeb dialect),1428,игвес,CyrillTrans,burn (vb intrans),,,"igʷes, uxes",Phonemic
+1-852-508-3,darg1241,Dargwa (Megeb dialect),1428,ухес,CyrillTrans,burn (vb intrans),,,"igʷes, uxes",Phonemic
+1-851-508-1,darg1241,Dargwa (Megeb dialect),141,игври игвес,CyrillTrans,burn (vb trans),,,igʷri igʷes,Phonemic
+1-841-508-1,darg1241,Dargwa (Megeb dialect),67,гаре пинжа,CyrillTrans,embers,,,gare pinža,Phonemic
+1-840-508-1,darg1241,Dargwa (Megeb dialect),646,палда,CyrillTrans,ashes,,,palda,Phonemic
+1-830-508-1,darg1241,Dargwa (Megeb dialect),778,эръва,CyrillTrans,smoke (noun),,,erʔʷa,Phonemic
+1-820-508-1,darg1241,Dargwa (Megeb dialect),889,лама,CyrillTrans,flame (noun),,,lama,Phonemic
+1-810-508-1,darg1241,Dargwa (Megeb dialect),221,цІа,CyrillTrans,fire,,,cʼa,Phonemic
+1-780-508-1,darg1241,Dargwa (Megeb dialect),952,гьава-бакь,CyrillTrans,weather,,,hawa-baqʼ,Phonemic
+1-770-508-1,darg1241,Dargwa (Megeb dialect),617,миъ,CyrillTrans,ice,,,miʔ,Phonemic
+1-760-508-1,darg1241,Dargwa (Megeb dialect),784,дёхІи,CyrillTrans,snow (noun),,,"dyoħi, doħi",Phonemic
+1-760-508-3,darg1241,Dargwa (Megeb dialect),784,дохІи,CyrillTrans,snow (noun),,,"dyoħi, doħi",Phonemic
+1-750-508-1,darg1241,Dargwa (Megeb dialect),658,заб,CyrillTrans,rain (noun),,,"zab, cab",Phonemic
+1-750-508-3,darg1241,Dargwa (Megeb dialect),658,цаб,CyrillTrans,rain (noun),,,"zab, cab",Phonemic
+1-740-508-1,darg1241,Dargwa (Megeb dialect),249,мусер,CyrillTrans,fog,,,"muser, dirigʷ",Phonemic
+1-740-508-3,darg1241,Dargwa (Megeb dialect),249,диригв,CyrillTrans,fog,,,"muser, dirigʷ",Phonemic
+1-720-508-1,darg1241,Dargwa (Megeb dialect),960,гъвяр,CyrillTrans,wind,,,"ɣʷaˤr, ɣʷar",Phonemic
+1-720-508-3,darg1241,Dargwa (Megeb dialect),960,гъвар,CyrillTrans,wind,,,"ɣʷaˤr, ɣʷar",Phonemic
+1-730-508-1,darg1241,Dargwa (Megeb dialect),1489,диригв,CyrillTrans,cloud,,,"dirigʷ, barʔ",Phonemic
+1-730-508-3,darg1241,Dargwa (Megeb dialect),1489,баръ,CyrillTrans,cloud,,,"dirigʷ, barʔ",Phonemic
+1-710-508-1,darg1241,Dargwa (Megeb dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-508-1,darg1241,Dargwa (Megeb dialect),1977,марка,CyrillTrans,dew,,,marka,Phonemic
+1-630-508-1,darg1241,Dargwa (Megeb dialect),1388,дяскъи,CyrillTrans,"shade, shadow",,,"daˤsq̄i, daˤqcʼi",Phonemic
+1-630-508-3,darg1241,Dargwa (Megeb dialect),1388,дяхъцІи,CyrillTrans,"shade, shadow",,,"daˤsq̄i, daˤqcʼi",Phonemic
+1-620-508-1,darg1241,Dargwa (Megeb dialect),11,цІургямдеш,CyrillTrans,darkness,,,cʼurgaˤmdeš,Phonemic
+1-610-508-1,darg1241,Dargwa (Megeb dialect),630,шала,CyrillTrans,light (noun),,,šala,Phonemic
+1-590-508-1,darg1241,Dargwa (Megeb dialect),1733,зурхІяб,CyrillTrans,rainbow,,,zurħaˤb,Phonemic
+1-580-508-1,darg1241,Dargwa (Megeb dialect),858,балагьла гъвяр,CyrillTrans,storm,,,balahla ɣʷaˤr,Phonemic
+1-560-508-1,darg1241,Dargwa (Megeb dialect),1150,гъугъу,CyrillTrans,thunder,,,ɣuɣu,Phonemic
+1-570-508-1,darg1241,Dargwa (Megeb dialect),2007,парх бяхъиб,CyrillTrans,lightning (as striking),,,parx baˤqib,Phonemic
+1-550-508-1,darg1241,Dargwa (Megeb dialect),1654,парх,CyrillTrans,lightning,,,parx,Phonemic
+1-540-508-1,darg1241,Dargwa (Megeb dialect),1430,уръи,CyrillTrans,star,,,urʔi,Phonemic
+1-530-508-1,darg1241,Dargwa (Megeb dialect),1313,баз,CyrillTrans,moon,,,baz,Phonemic
+1-520-508-1,darg1241,Dargwa (Megeb dialect),1343,бархІи,CyrillTrans,sun,,,barħi,Phonemic
+1-510-508-1,darg1241,Dargwa (Megeb dialect),1732,замлагІала,CyrillTrans,sky,,,zamlaʕala,Phonemic
+1-450-508-1,darg1241,Dargwa (Megeb dialect),6,гІянжа шиш бугьуб,CyrillTrans,earthquake,,,ʕaˤnža šiš buhub,Phonemic
+1-440-508-1,darg1241,Dargwa (Megeb dialect),2125,гъаргъа,CyrillTrans,"stone, rock",,,ɣarɣa,Phonemic
+1-430-508-1,darg1241,Dargwa (Megeb dialect),1803,урцули,CyrillTrans,wood,,,urculi,Phonemic
+1-420-508-1,darg1241,Dargwa (Megeb dialect),906,гъветІ,CyrillTrans,tree (cf 08.600),,,ɣʷetʼ,Phonemic
+1-410-508-1,darg1241,Dargwa (Megeb dialect),420,дуз,CyrillTrans,"woods, forest",,,duz,Phonemic
+1-390-508-1,darg1241,Dargwa (Megeb dialect),943,рурхъяни,CyrillTrans,waterfall,,,rurqaˤni,Phonemic
+1-380-508-1,darg1241,Dargwa (Megeb dialect),1145,шина,CyrillTrans,swamp,,,šina,Phonemic
+1-370-508-1,darg1241,Dargwa (Megeb dialect),2144,иниз,CyrillTrans,"spring, well",,,"iniz, q̄ula",Phonemic
+1-370-508-3,darg1241,Dargwa (Megeb dialect),2144,къула,CyrillTrans,"spring, well",,,"iniz, q̄ula",Phonemic
+1-362-508-1,darg1241,Dargwa (Megeb dialect),1982,рургаругани,CyrillTrans,whirlpool,,,"rurgarugani, šin luqʼri",Phonemic
+1-362-508-3,darg1241,Dargwa (Megeb dialect),1982,шин лукьри,CyrillTrans,whirlpool,,,"rurgarugani, šin luqʼri",Phonemic
+1-360-508-1,darg1241,Dargwa (Megeb dialect),666,хІаркІ,CyrillTrans,"river, stream, brook",,,"ħarkʼ, ħarkʼʷ",Phonemic
+1-360-508-3,darg1241,Dargwa (Megeb dialect),666,хІаркІв,CyrillTrans,"river, stream, brook",,,"ħarkʼ, ħarkʼʷ",Phonemic
+1-354-508-1,darg1241,Dargwa (Megeb dialect),613,акъу бакІиб,CyrillTrans,hightide,,,"aq̄u bakʼib, šin dakʼile",Phonemic
+1-354-508-3,darg1241,Dargwa (Megeb dialect),613,шин дакІиле,CyrillTrans,hightide,,,"aq̄u bakʼib, šin dakʼile",Phonemic
+1-353-508-1,darg1241,Dargwa (Megeb dialect),1026,шин гІордекьове,CyrillTrans,lowtide,,,šin ʕordeqʼowe,Phonemic
+1-352-508-1,darg1241,Dargwa (Megeb dialect),891,урхьула шин дакІиле,CyrillTrans,tide,,,"urx̌ula šin dakʼile, šin ʕordeqʼowe",Phonemic
+1-352-508-3,darg1241,Dargwa (Megeb dialect),891,шин гІордекьове,CyrillTrans,tide,,,"urx̌ula šin dakʼile, šin ʕordeqʼowe",Phonemic
+1-350-508-1,darg1241,Dargwa (Megeb dialect),978,карачел,CyrillTrans,wave,,,karačel,Phonemic
+1-330-508-1,darg1241,Dargwa (Megeb dialect),624,шара,CyrillTrans,lake,,,šara,Phonemic
+1-329-508-1,darg1241,Dargwa (Megeb dialect),645,акеан,CyrillTrans,ocean,,,"akean, urx̌u",Phonemic
+1-329-508-3,darg1241,Dargwa (Megeb dialect),645,урхьу,CyrillTrans,ocean,,,"akean, urx̌u",Phonemic
+1-324-508-1,darg1241,Dargwa (Megeb dialect),1768,хьулехь,CyrillTrans,foam,,,x̌ulex̌,Phonemic
+1-323-508-1,darg1241,Dargwa (Megeb dialect),259,бургъул,CyrillTrans,rough (of sea),,,burɣul,Phonemic
+1-320-508-1,darg1241,Dargwa (Megeb dialect),1474,урхьу,CyrillTrans,sea,,,urx̌u,Phonemic
+1-322-508-1,darg1241,Dargwa (Megeb dialect),258,паракьатил,CyrillTrans,calm (of sea),,,paraqʼatil,Phonemic
+1-310-508-1,darg1241,Dargwa (Megeb dialect),948,шин,CyrillTrans,water,,,šin,Phonemic
+1-280-508-1,darg1241,Dargwa (Megeb dialect),1155,инигъ,CyrillTrans,cave,,,iniɣ,Phonemic
+1-270-508-1,darg1241,Dargwa (Megeb dialect),113,урхьула дуб,CyrillTrans,shore,,,"urx̌ula dub, ħarkʼʷla dub",Phonemic
+1-270-508-3,darg1241,Dargwa (Megeb dialect),113,хІаркІвла дуб,CyrillTrans,shore,,,"urx̌ula dub, ħarkʼʷla dub",Phonemic
+1-260-508-1,darg1241,Dargwa (Megeb dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-508-1,darg1241,Dargwa (Megeb dialect),622,чІинкІиллъи,CyrillTrans,island,,,čʼinkʼilɬi,Phonemic
+1-240-508-1,darg1241,Dargwa (Megeb dialect),921,диркьал авлахъ,CyrillTrans,valley,,,dirqʼal awlaq,Phonemic
+1-230-508-1,darg1241,Dargwa (Megeb dialect),652,диркьал хъу,CyrillTrans,"plain, field",,,dirqʼal qu,Phonemic
+1-222-508-1,darg1241,Dargwa (Megeb dialect),618,гъири,CyrillTrans,"cliff, precipice",,,"ɣiri, ɣirila dub, qʼʷab",Phonemic
+1-222-508-3,darg1241,Dargwa (Megeb dialect),618,гъирила дуб,CyrillTrans,"cliff, precipice",,,"ɣiri, ɣirila dub, qʼʷab",Phonemic
+1-222-508-5,darg1241,Dargwa (Megeb dialect),618,кьваб,CyrillTrans,"cliff, precipice",,,"ɣiri, ɣirila dub, qʼʷab",Phonemic
+1-220-508-1,darg1241,Dargwa (Megeb dialect),2118,дубур,CyrillTrans,"mountain, hill",,,"dubur, bekʼa",Phonemic
+1-220-508-3,darg1241,Dargwa (Megeb dialect),2118,бекІа,CyrillTrans,"mountain, hill",,,"dubur, bekʼa",Phonemic
+1-214-508-1,darg1241,Dargwa (Megeb dialect),640,чурукдеш,CyrillTrans,mud,,,"čurukdeš, paˤp",Phonemic
+1-214-508-3,darg1241,Dargwa (Megeb dialect),640,пяп,CyrillTrans,mud,,,"čurukdeš, paˤp",Phonemic
+1-215-508-1,darg1241,Dargwa (Megeb dialect),671,сали,CyrillTrans,sand,,,"sali, ɣum",Phonemic
+1-215-508-3,darg1241,Dargwa (Megeb dialect),671,гъум,CyrillTrans,sand,,,"sali, ɣum",Phonemic
+1-213-508-1,darg1241,Dargwa (Megeb dialect),2,хваса,CyrillTrans,dust,,,xʷasa,Phonemic
+1-212-508-1,darg1241,Dargwa (Megeb dialect),1228,гІянжа,CyrillTrans,"earth=ground, soil",,,ʕaˤnža,Phonemic
+1-210-508-1,darg1241,Dargwa (Megeb dialect),626,хІукумат,CyrillTrans,"earth, land",,,ħukumat,Phonemic
+1-100-508-1,darg1241,Dargwa (Megeb dialect),965,дуниял,CyrillTrans,world,,,duniyal,Phonemic
+14-330-508-1,darg1241,Dargwa (Megeb dialect),1544,цаца ургаб,CyrillTrans,sometimes,,,"caca urgab, caca aɣxe",Phonemic
+14-330-508-3,darg1241,Dargwa (Megeb dialect),1544,цаца агъхе,CyrillTrans,sometimes,,,"caca urgab, caca aɣxe",Phonemic
+14-331-508-1,darg1241,Dargwa (Megeb dialect),703,кьамхІабугьубле,CyrillTrans,soon,,,"qʼamħabuhuble, žaˤwle",Phonemic
+14-331-508-3,darg1241,Dargwa (Megeb dialect),703,жявле,CyrillTrans,soon,,,"qʼamħabuhuble, žaˤwle",Phonemic
+14-332-508-1,darg1241,Dargwa (Megeb dialect),418,гІаргъадякьуни,CyrillTrans,long-time (for a),,,"ʕarɣadaˤqʼuni, ʕarɣale",Phonemic
+14-332-508-3,darg1241,Dargwa (Megeb dialect),418,гIаргъале,CyrillTrans,long-time (for a),,,"ʕarɣadaˤqʼuni, ʕarɣale",Phonemic
+14-340-508-1,darg1241,Dargwa (Megeb dialect),1656,мурталла,CyrillTrans,never,,,murtalla,Phonemic
+14-350-508-1,darg1241,Dargwa (Megeb dialect),204,сагале,CyrillTrans,again,,,"sagale, hanara, ʕaraɣalla",Phonemic
+14-350-508-3,darg1241,Dargwa (Megeb dialect),204,гьанара,CyrillTrans,again,,,"sagale, hanara, ʕaraɣalla",Phonemic
+14-350-508-5,darg1241,Dargwa (Megeb dialect),204,гІарагъалла,CyrillTrans,again,,,"sagale, hanara, ʕaraɣalla",Phonemic
+14-410-508-1,darg1241,Dargwa (Megeb dialect),1225,бархІи,CyrillTrans,day,,,barħi,Phonemic
+14-420-508-1,darg1241,Dargwa (Megeb dialect),1233,дуже,CyrillTrans,night,,,"duže, dužela",Phonemic
+14-420-508-3,darg1241,Dargwa (Megeb dialect),1233,дужела,CyrillTrans,night,,,"duže, dužela",Phonemic
+14-430-508-1,darg1241,Dargwa (Megeb dialect),729,шаладикри,CyrillTrans,dawn,,,šaladikri,Phonemic
+14-440-508-1,darg1241,Dargwa (Megeb dialect),1339,зул,CyrillTrans,morning,,,zul,Phonemic
+14-450-508-1,darg1241,Dargwa (Megeb dialect),12,хІарес,CyrillTrans,"noon, midday",,,ħares,Phonemic
+14-451-508-1,darg1241,Dargwa (Megeb dialect),1807,хІаресаргъ,CyrillTrans,afternoon,,,"ħaresarɣ, ketal dikile",Phonemic
+14-451-508-3,darg1241,Dargwa (Megeb dialect),1807,кетал дикиле,CyrillTrans,afternoon,,,"ħaresarɣ, ketal dikile",Phonemic
+14-460-508-1,darg1241,Dargwa (Megeb dialect),1629,маркІачІила,CyrillTrans,evening,,,"markʼačʼila, wahnečela",Phonemic
+14-460-508-3,darg1241,Dargwa (Megeb dialect),1629,вагьнечела,CyrillTrans,evening,,,"markʼačʼila, wahnečela",Phonemic
+14-470-508-1,darg1241,Dargwa (Megeb dialect),1283,ишбари,CyrillTrans,today,,,išbari,Phonemic
+14-480-508-1,darg1241,Dargwa (Megeb dialect),1329,цІабле,CyrillTrans,tomorrow,,,cʼable,Phonemic
+14-481-508-1,darg1241,Dargwa (Megeb dialect),1179,церехІла,CyrillTrans,day-after-tomorrow,,,cereħla,Phonemic
+14-490-508-1,darg1241,Dargwa (Megeb dialect),1174,даг,CyrillTrans,yesterday,,,dag,Phonemic
+14-491-508-1,darg1241,Dargwa (Megeb dialect),1180,гьарбар хІи,CyrillTrans,day-before-yesterday,,,harbar ħi,Phonemic
+14-510-508-1,darg1241,Dargwa (Megeb dialect),1353,сагІат,CyrillTrans,hour,,,saʕat,Phonemic
+14-530-508-1,darg1241,Dargwa (Megeb dialect),1323,сагІат,CyrillTrans,"clock, timepiece",,,saʕat,Phonemic
+14-610-508-1,darg1241,Dargwa (Megeb dialect),1469,верхІ,CyrillTrans,week,,,werħ,Phonemic
+14-620-508-1,darg1241,Dargwa (Megeb dialect),1699,алхІад,CyrillTrans,Sunday,,,alħad,Phonemic
+14-630-508-1,darg1241,Dargwa (Megeb dialect),1697,идни,CyrillTrans,Monday,,,idni,Phonemic
+14-640-508-1,darg1241,Dargwa (Megeb dialect),1695,далат,CyrillTrans,Tuesday,,,dalat,Phonemic
+14-650-508-1,darg1241,Dargwa (Megeb dialect),1694,арбахІ,CyrillTrans,Wednesday,,,arbaħ,Phonemic
+14-660-508-1,darg1241,Dargwa (Megeb dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-508-1,darg1241,Dargwa (Megeb dialect),1692,нужбяр,CyrillTrans,Friday,,,nužbaˤr,Phonemic
+14-680-508-1,darg1241,Dargwa (Megeb dialect),1700,хулдум,CyrillTrans,Saturday,,,xuldum,Phonemic
+14-710-508-1,darg1241,Dargwa (Megeb dialect),1370,баз,CyrillTrans,month,,,baz,Phonemic
+14-730-508-1,darg1241,Dargwa (Megeb dialect),1226,дус,CyrillTrans,year,,,dus,Phonemic
+14-740-508-1,darg1241,Dargwa (Megeb dialect),1471,э,CyrillTrans,winter,,,e,Phonemic
+14-750-508-1,darg1241,Dargwa (Megeb dialect),1537,хІияб,CyrillTrans,spring,,,"ħiyab, ħiyaħe",Phonemic
+14-750-508-3,darg1241,Dargwa (Megeb dialect),1537,хІияхІе,CyrillTrans,spring,,,"ħiyab, ħiyaħe",Phonemic
+14-760-508-1,darg1241,Dargwa (Megeb dialect),1342,гІе,CyrillTrans,summer,,,ʕe,Phonemic
+14-770-508-1,darg1241,Dargwa (Megeb dialect),1276,бехьнехІе,CyrillTrans,autumn,,,"bex̌neħe, bex̌ʷne",Phonemic
+14-770-508-3,darg1241,Dargwa (Megeb dialect),1276,бехьвне,CyrillTrans,autumn,,,"bex̌neħe, bex̌ʷne",Phonemic
+14-780-508-1,darg1241,Dargwa (Megeb dialect),691,замана,CyrillTrans,season,,,zamana,Phonemic
+15-210-508-1,darg1241,Dargwa (Megeb dialect),1587,пагь букІес,CyrillTrans,smell (vb intrans),,,"pah bukʼes, deħ deqes",Phonemic
+15-210-508-3,darg1241,Dargwa (Megeb dialect),1587,дехІ дехъес,CyrillTrans,smell (vb intrans),,,"pah bukʼes, deħ deqes",Phonemic
+15-212-508-1,darg1241,Dargwa (Megeb dialect),375,тунтІ букІес,CyrillTrans,sniff,,,tuntʼ bukʼes,Phonemic
+15-220-508-1,darg1241,Dargwa (Megeb dialect),1586,шунтІ букІес,CyrillTrans,smell (vb trans),,,šuntʼ bukʼes,Phonemic
+15-250-508-1,darg1241,Dargwa (Megeb dialect),376,дизил дехІ,CyrillTrans,"fragrant, good smelling",,,dizil deħ,Phonemic
+15-260-508-1,darg1241,Dargwa (Megeb dialect),42,эгьил дехІ,CyrillTrans,"stinking, bad smelling",,,ehil deħ,Phonemic
+15-310-508-1,darg1241,Dargwa (Megeb dialect),21,тІагІам,CyrillTrans,taste,,,tʼaʕam,Phonemic
+15-350-508-1,darg1241,Dargwa (Megeb dialect),717,муръил,CyrillTrans,sweet,,,murʔil,Phonemic
+15-360-508-1,darg1241,Dargwa (Megeb dialect),1091,зехІали,CyrillTrans,salty,,,zeħali,Phonemic
+15-370-508-1,darg1241,Dargwa (Megeb dialect),887,кьуйил,CyrillTrans,bitter,,,"qʼuyil, yarkil",Phonemic
+15-370-508-3,darg1241,Dargwa (Megeb dialect),887,яркил,CyrillTrans,bitter,,,"qʼuyil, yarkil",Phonemic
+15-380-508-1,darg1241,Dargwa (Megeb dialect),1906,цІекІвил,CyrillTrans,"acid, sour",,,cʼekʼwil,Phonemic
+15-390-508-1,darg1241,Dargwa (Megeb dialect),70,зехІали,CyrillTrans,brackish,,,zeħali,Phonemic
+15-410-508-1,darg1241,Dargwa (Megeb dialect),1408,аргъес,CyrillTrans,hear,,,arɣes,Phonemic
+15-420-508-1,darg1241,Dargwa (Megeb dialect),1608,лихІибихес,CyrillTrans,listen,,,liħibixes,Phonemic
+15-440-508-1,darg1241,Dargwa (Megeb dialect),1811,тІама,CyrillTrans,"sound, noise",,,"tʼama, awara",Phonemic
+15-440-508-3,darg1241,Dargwa (Megeb dialect),1811,авара,CyrillTrans,"sound, noise",,,"tʼama, awara",Phonemic
+15-450-508-1,darg1241,Dargwa (Megeb dialect),377,гъалабале,CyrillTrans,loud,,,"ɣalabale, xʷelal (tʼama)",Phonemic
+15-450-508-3,darg1241,Dargwa (Megeb dialect),377,хвелал (тІама),CyrillTrans,loud,,,"ɣalabale, xʷelal (tʼama)",Phonemic
+15-460-508-1,darg1241,Dargwa (Megeb dialect),1314,парикьати,CyrillTrans,"quiet, silence",,,"pariqʼati, q̄eyul",Phonemic
+15-460-508-3,darg1241,Dargwa (Megeb dialect),1314,къейул,CyrillTrans,"quiet, silence",,,"pariqʼati, q̄eyul",Phonemic
+15-510-508-1,darg1241,Dargwa (Megeb dialect),1409,гвес,CyrillTrans,see,,,gʷes,Phonemic
+15-520-508-1,darg1241,Dargwa (Megeb dialect),1819,хІуле визес,CyrillTrans,"look, look at",,,ħule wizes,Phonemic
+15-550-508-1,darg1241,Dargwa (Megeb dialect),1039,гвахахъас,CyrillTrans,show,,,"gʷaxaqas, igʷaqas",Phonemic
+15-550-508-3,darg1241,Dargwa (Megeb dialect),1039,игвахъас,CyrillTrans,show,,,"gʷaxaqas, igʷaqas",Phonemic
+15-560-508-1,darg1241,Dargwa (Megeb dialect),708,шала бакьас,CyrillTrans,shine,,,šala baqʼas,Phonemic
+15-570-508-1,darg1241,Dargwa (Megeb dialect),679,ламбукул,CyrillTrans,bright,,,"lambukul, šalal",Phonemic
+15-570-508-3,darg1241,Dargwa (Megeb dialect),679,шалал,CyrillTrans,bright,,,"lambukul, šalal",Phonemic
+15-610-508-1,darg1241,Dargwa (Megeb dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-508-1,darg1241,Dargwa (Megeb dialect),250,шалал,CyrillTrans,light (in color),,,šalal,Phonemic
+15-630-508-1,darg1241,Dargwa (Megeb dialect),706,цІургями,CyrillTrans,dark (in color),,,cʼurgaˤmi,Phonemic
+15-640-508-1,darg1241,Dargwa (Megeb dialect),1335,цІубил,CyrillTrans,white,,,cʼubil,Phonemic
+15-650-508-1,darg1241,Dargwa (Megeb dialect),163,цІудяри,CyrillTrans,black,,,cʼudaˤri,Phonemic
+15-660-508-1,darg1241,Dargwa (Megeb dialect),156,хІунтІал,CyrillTrans,red,,,ħuntʼal,Phonemic
+15-670-508-1,darg1241,Dargwa (Megeb dialect),837,замлагІалала рангил,CyrillTrans,blue,,,"zamlaʕalala rangil, zaˤbil",Phonemic
+15-670-508-3,darg1241,Dargwa (Megeb dialect),837,зябил,CyrillTrans,blue,,,"zamlaʕalala rangil, zaˤbil",Phonemic
+15-680-508-1,darg1241,Dargwa (Megeb dialect),1425,шиниши,CyrillTrans,green,,,šiniši,Phonemic
+15-690-508-1,darg1241,Dargwa (Megeb dialect),1424,бухъутІи,CyrillTrans,yellow,,,buqutʼi,Phonemic
+15-710-508-1,darg1241,Dargwa (Megeb dialect),1892,тІул баъас,CyrillTrans,touch,,,"tʼul baʔas, naˤɣ baʔas",Phonemic
+15-710-508-3,darg1241,Dargwa (Megeb dialect),1892,нягъ баъас,CyrillTrans,touch,,,"tʼul baʔas, naˤɣ baʔas",Phonemic
+15-712-508-1,darg1241,Dargwa (Megeb dialect),378,кьицІ бикес,CyrillTrans,pinch,,,"qʼicʼ bikes, zikʼ baq̄as",Phonemic
+15-712-508-3,darg1241,Dargwa (Megeb dialect),378,зикІ бакъас,CyrillTrans,pinch,,,"qʼicʼ bikes, zikʼ baq̄as",Phonemic
+15-720-508-1,darg1241,Dargwa (Megeb dialect),1079,асар бикес,CyrillTrans,feel,,,asar bikes,Phonemic
+15-740-508-1,darg1241,Dargwa (Megeb dialect),1884,хъачІил,CyrillTrans,hard,,,"qačʼil, qʼaˤqʼaˤmi",Phonemic
+15-740-508-3,darg1241,Dargwa (Megeb dialect),1884,кьякьями,CyrillTrans,hard,,,"qačʼil, qʼaˤqʼaˤmi",Phonemic
+15-750-508-1,darg1241,Dargwa (Megeb dialect),1856,хьамхьил,CyrillTrans,soft,,,x̌amx̌il,Phonemic
+15-760-508-1,darg1241,Dargwa (Megeb dialect),1923,чІукъал,CyrillTrans,rough,,,"čʼuq̄al, q̄iq̄al",Phonemic
+15-760-508-3,darg1241,Dargwa (Megeb dialect),1923,къикъал,CyrillTrans,rough,,,"čʼuq̄al, q̄iq̄al",Phonemic
+15-770-508-1,darg1241,Dargwa (Megeb dialect),1234,бамъури,CyrillTrans,smooth,,,"bamʔuri, bamuri",Phonemic
+15-770-508-3,darg1241,Dargwa (Megeb dialect),1234,бамури,CyrillTrans,smooth,,,"bamʔuri, bamuri",Phonemic
+15-780-508-1,darg1241,Dargwa (Megeb dialect),1396,дугал,CyrillTrans,sharp,,,dugal,Phonemic
+15-790-508-1,darg1241,Dargwa (Megeb dialect),379,къукил,CyrillTrans,"blunt, dull",,,q̄ukil,Phonemic
+15-810-508-1,darg1241,Dargwa (Megeb dialect),1210,декІвил,CyrillTrans,heavy,,,dekʼʷil,Phonemic
+15-820-508-1,darg1241,Dargwa (Megeb dialect),1052,кункил,CyrillTrans,light (in weight),,,kunkil,Phonemic
+15-830-508-1,darg1241,Dargwa (Megeb dialect),1726,бяхІуни,CyrillTrans,"wet, damp",,,"baˤħuni, baħuni",Phonemic
+15-830-508-3,darg1241,Dargwa (Megeb dialect),1726,бахІуни,CyrillTrans,"wet, damp",,,"baˤħuni, baħuni",Phonemic
+15-840-508-1,darg1241,Dargwa (Megeb dialect),1398,беръуби,CyrillTrans,dry,,,"berʔubi, berubi",Phonemic
+15-840-508-3,darg1241,Dargwa (Megeb dialect),1398,беруби,CyrillTrans,dry,,,"berʔubi, berubi",Phonemic
+15-850-508-1,darg1241,Dargwa (Megeb dialect),1286,буцІари,CyrillTrans,hot,,,bucʼari,Phonemic
+15-851-508-1,darg1241,Dargwa (Megeb dialect),1232,ванал,CyrillTrans,warm,,,wanal,Phonemic
+15-860-508-1,darg1241,Dargwa (Megeb dialect),1287,бяргІиби,CyrillTrans,cold,,,"baˤrʕibi, barʔibi",Phonemic
+15-860-508-3,darg1241,Dargwa (Megeb dialect),1287,баръиби,CyrillTrans,cold,,,"baˤrʕibi, barʔibi",Phonemic
+15-870-508-1,darg1241,Dargwa (Megeb dialect),704,буръуни,CyrillTrans,clean,,,"burʔuni, buruni",Phonemic
+15-870-508-3,darg1241,Dargwa (Megeb dialect),704,буруни,CyrillTrans,clean,,,"burʔuni, buruni",Phonemic
+15-880-508-1,darg1241,Dargwa (Megeb dialect),1230,чуруки,CyrillTrans,"dirty, soiled",,,čuruki,Phonemic
+15-890-508-1,darg1241,Dargwa (Megeb dialect),380,лухлух биъиби,CyrillTrans,wrinkled,,,"luxlux biʔibi, žink biʔibi",Phonemic
+15-890-508-3,darg1241,Dargwa (Megeb dialect),380,жинк биъиби,CyrillTrans,wrinkled,,,"luxlux biʔibi, žink biʔibi",Phonemic
+16-110-508-1,darg1241,Dargwa (Megeb dialect),53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-508-1,darg1241,Dargwa (Megeb dialect),1572,тамаша ургьуби,CyrillTrans,"surprised, astonished",,,tamaša urhubi,Phonemic
+16-180-508-1,darg1241,Dargwa (Megeb dialect),720,битІбикри,CyrillTrans,"good fortune, luck",,,bitʼbikri,Phonemic
+16-190-508-1,darg1241,Dargwa (Megeb dialect),56,битІхІабикри,CyrillTrans,"misfortune, bad luck",,,bitʼħabikri,Phonemic
+16-230-508-1,darg1241,Dargwa (Megeb dialect),1495,разиле,CyrillTrans,"joyful, glad, happy",,,"razile, taliħ lebi",Phonemic
+16-230-508-3,darg1241,Dargwa (Megeb dialect),1495,талихІ леби,CyrillTrans,"joyful, glad, happy",,,"razile, taliħ lebi",Phonemic
+16-250-508-1,darg1241,Dargwa (Megeb dialect),1355,дучиркІес,CyrillTrans,laugh,,,dučirkʼes,Phonemic
+16-251-508-1,darg1241,Dargwa (Megeb dialect),1451,пишукІес,CyrillTrans,smile,,,pišukʼes,Phonemic
+16-260-508-1,darg1241,Dargwa (Megeb dialect),1413,махсара бакьас,CyrillTrans,play,,,maxsara baqʼas,Phonemic
+16-270-508-1,darg1241,Dargwa (Megeb dialect),923,бигес,CyrillTrans,love,,,biges,Phonemic
+16-290-508-1,darg1241,Dargwa (Megeb dialect),578,умма дакьас,CyrillTrans,kiss,,,"umma daqʼas, umma bukʼes",Phonemic
+16-290-508-3,darg1241,Dargwa (Megeb dialect),578,умма букІес,CyrillTrans,kiss,,,"umma daqʼas, umma bukʼes",Phonemic
+16-300-508-1,darg1241,Dargwa (Megeb dialect),928,бахквар бухьес,CyrillTrans,embrace,,,baxkʷar bux̌es,Phonemic
+16-310-508-1,darg1241,Dargwa (Megeb dialect),1783,изан,CyrillTrans,pain,,,"izan, izala",Phonemic
+16-310-508-3,darg1241,Dargwa (Megeb dialect),1783,изала,CyrillTrans,pain,,,"izan, izala",Phonemic
+16-320-508-1,darg1241,Dargwa (Megeb dialect),1668,пашмандеш,CyrillTrans,"grief, sorrow, sadness",,,"pašmandeš, ʕaˤdabdeš, qʼaqʼadeš",Phonemic
+16-320-508-3,darg1241,Dargwa (Megeb dialect),1668,гІядабдеш,CyrillTrans,"grief, sorrow, sadness",,,"pašmandeš, ʕaˤdabdeš, qʼaqʼadeš",Phonemic
+16-320-508-5,darg1241,Dargwa (Megeb dialect),1668,кьакьадеш,CyrillTrans,"grief, sorrow, sadness",,,"pašmandeš, ʕaˤdabdeš, qʼaqʼadeš",Phonemic
+16-330-508-1,darg1241,Dargwa (Megeb dialect),1000,уркІи буцри,CyrillTrans,"anxiety, worry",,,urkʼi bucri,Phonemic
+16-340-508-1,darg1241,Dargwa (Megeb dialect),1875,пашман бугьес,CyrillTrans,"regret, be sorry",,,pašman buhes,Phonemic
+16-350-508-1,darg1241,Dargwa (Megeb dialect),1141,инаг бакьри,CyrillTrans,pity,,,inag baqʼri,Phonemic
+16-370-508-1,darg1241,Dargwa (Megeb dialect),1839,бисес,CyrillTrans,"cry, weep",,,bises,Phonemic
+16-380-508-1,darg1241,Dargwa (Megeb dialect),1651,нергъ,CyrillTrans,tear (noun),,,nerɣ,Phonemic
+16-390-508-1,darg1241,Dargwa (Megeb dialect),716,угьбикІес,CyrillTrans,groan,,,"uhbikʼes, urur bukʼes",Phonemic
+16-390-508-3,darg1241,Dargwa (Megeb dialect),716,урур букІес,CyrillTrans,groan,,,"uhbikʼes, urur bukʼes",Phonemic
+16-410-508-1,darg1241,Dargwa (Megeb dialect),1607,эбадеш,CyrillTrans,hate,,,ebadeš,Phonemic
+16-420-508-1,darg1241,Dargwa (Megeb dialect),82,гьими,CyrillTrans,anger,,,himi,Phonemic
+16-440-508-1,darg1241,Dargwa (Megeb dialect),40,хІал-вагьай,CyrillTrans,"envy, jealousy",,,ħal-wahay,Phonemic
+16-450-508-1,darg1241,Dargwa (Megeb dialect),1776,урщи,CyrillTrans,shame (noun),,,urš̄i,Phonemic
+16-480-508-1,darg1241,Dargwa (Megeb dialect),174,уркІи ахъил,CyrillTrans,proud,,,urkʼi aqil,Phonemic
+16-510-508-1,darg1241,Dargwa (Megeb dialect),1779,кьякьями,CyrillTrans,dare,,,qʼaˤqʼaˤmi,Phonemic
+16-520-508-1,darg1241,Dargwa (Megeb dialect),3,кьякьями,CyrillTrans,brave,,,qʼaˤqʼaˤmi,Phonemic
+16-530-508-1,darg1241,Dargwa (Megeb dialect),781,урухкІри,CyrillTrans,"fear, fright",,,"uruxkʼri, uruxkʼi",Phonemic
+16-530-508-3,darg1241,Dargwa (Megeb dialect),781,урухкІи,CyrillTrans,"fear, fright",,,"uruxkʼri, uruxkʼi",Phonemic
+16-540-508-1,darg1241,Dargwa (Megeb dialect),1810,урехи,CyrillTrans,danger,,,urexi,Phonemic
+16-620-508-1,darg1241,Dargwa (Megeb dialect),1784,дигри,CyrillTrans,"desire, want",,,digri,Phonemic
+16-622-508-1,darg1241,Dargwa (Megeb dialect),1750,белкІес,CyrillTrans,choose,,,belkʼes,Phonemic
+16-630-508-1,darg1241,Dargwa (Megeb dialect),1092,хьул бизес,CyrillTrans,hope,,,"x̌ul bizes, urkʼi bizes",Phonemic
+16-630-508-3,darg1241,Dargwa (Megeb dialect),1092,уркІи бизес,CyrillTrans,hope,,,"x̌ul bizes, urkʼi bizes",Phonemic
+16-650-508-1,darg1241,Dargwa (Megeb dialect),100,бирхил,CyrillTrans,faithful,,,"birxil, myot̄ʼiħdeš",Phonemic
+16-650-508-3,darg1241,Dargwa (Megeb dialect),100,мётІтІихІдеш,CyrillTrans,faithful,,,"birxil, myot̄ʼiħdeš",Phonemic
+16-660-508-1,darg1241,Dargwa (Megeb dialect),1657,буэс биркул,CyrillTrans,true,,,buʔes birkul,Phonemic
+16-670-508-1,darg1241,Dargwa (Megeb dialect),601,гъвянедел эс,CyrillTrans,"lie, tell lies",,,ɣʷaˤnedel es,Phonemic
+16-680-508-1,darg1241,Dargwa (Megeb dialect),13,гъвянедел эс,CyrillTrans,deceit,,,ɣʷaˤnedel es,Phonemic
+16-690-508-1,darg1241,Dargwa (Megeb dialect),1528,ахъуди берхвес,CyrillTrans,forgive,,,aqudi berxʷes,Phonemic
+16-710-508-1,darg1241,Dargwa (Megeb dialect),1035,гІяхил,CyrillTrans,good,,,"ʕaˤxil, axil",Phonemic
+16-710-508-3,darg1241,Dargwa (Megeb dialect),1035,ахил,CyrillTrans,good,,,"ʕaˤxil, axil",Phonemic
+16-720-508-1,darg1241,Dargwa (Megeb dialect),1292,эгьил,CyrillTrans,bad,,,ehil,Phonemic
+16-730-508-1,darg1241,Dargwa (Megeb dialect),1725,бархьил,CyrillTrans,"right, correct",,,barx̌il,Phonemic
+16-740-508-1,darg1241,Dargwa (Megeb dialect),1390,гъямил,CyrillTrans,wrong,,,"ɣaˤmil, ɣamil",Phonemic
+16-740-508-3,darg1241,Dargwa (Megeb dialect),1390,гъамил,CyrillTrans,wrong,,,"ɣaˤmil, ɣamil",Phonemic
+16-760-508-1,darg1241,Dargwa (Megeb dialect),134,хатІа,CyrillTrans,fault,,,xatʼa,Phonemic
+16-770-508-1,darg1241,Dargwa (Megeb dialect),1293,бялгIва,CyrillTrans,"mistake, error",,,baˤlʕʷa,Phonemic
+16-780-508-1,darg1241,Dargwa (Megeb dialect),381,бялгІва бакьас,CyrillTrans,blame,,,baˤlʕʷa baqʼas,Phonemic
+16-790-508-1,darg1241,Dargwa (Megeb dialect),1687,варзес,CyrillTrans,praise,,,warzes,Phonemic
+16-810-508-1,darg1241,Dargwa (Megeb dialect),1427,баршиби,CyrillTrans,beautiful,,,baršibi,Phonemic
+16-820-508-1,darg1241,Dargwa (Megeb dialect),1548,гІягвил,CyrillTrans,ugly,,,ʕaˤgʷil,Phonemic
+16-830-508-1,darg1241,Dargwa (Megeb dialect),2018,мяштІил,CyrillTrans,greedy,,,maˤštʼil,Phonemic
+16-840-508-1,darg1241,Dargwa (Megeb dialect),1310,цІудури,CyrillTrans,clever,,,cʼuduri,Phonemic
+17-110-508-1,darg1241,Dargwa (Megeb dialect),1562,гІякълу,CyrillTrans,mind,,,"ʕaˤq̄lu, balhni",Phonemic
+17-110-508-3,darg1241,Dargwa (Megeb dialect),1562,балгьни,CyrillTrans,mind,,,"ʕaˤq̄lu, balhni",Phonemic
+17-130-508-1,darg1241,Dargwa (Megeb dialect),1415,пикри бакьас,CyrillTrans,think (= reflect),,,pikri baqʼas,Phonemic
+17-140-508-1,darg1241,Dargwa (Megeb dialect),1513,эл эс,CyrillTrans,think (= be of the opinion),,,el es,Phonemic
+17-150-508-1,darg1241,Dargwa (Megeb dialect),1890,бирхаъвас,CyrillTrans,believe,,,birxaʔʷas,Phonemic
+17-160-508-1,darg1241,Dargwa (Megeb dialect),1536,аргъес,CyrillTrans,understand,,,arɣes,Phonemic
+17-170-508-1,darg1241,Dargwa (Megeb dialect),1410,багьас,CyrillTrans,know,,,bahas,Phonemic
+17-171-508-1,darg1241,Dargwa (Megeb dialect),1932,бикес,CyrillTrans,guess,,,bikes,Phonemic
+17-172-508-1,darg1241,Dargwa (Megeb dialect),117,битIи бакъас,CyrillTrans,imitate,,,bitʼi baq̄as,Phonemic
+17-180-508-1,darg1241,Dargwa (Megeb dialect),1521,бикес,CyrillTrans,seem,,,bikes,Phonemic
+17-190-508-1,darg1241,Dargwa (Megeb dialect),1609,пикри,CyrillTrans,"idea, notion",,,pikri,Phonemic
+17-210-508-1,darg1241,Dargwa (Megeb dialect),698,цІудури,CyrillTrans,wise,,,cʼuduri,Phonemic
+17-220-508-1,darg1241,Dargwa (Megeb dialect),1518,абдали,CyrillTrans,"foolish, stupid",,,abdali,Phonemic
+17-230-508-1,darg1241,Dargwa (Megeb dialect),1899,гІякьлу агвари,CyrillTrans,"insane, crazy",,,ʕaˤqʼlu agʷari,Phonemic
+17-240-508-1,darg1241,Dargwa (Megeb dialect),504,багьас,CyrillTrans,learn,,,"bahas, bahaqas",Phonemic
+17-240-508-3,darg1241,Dargwa (Megeb dialect),504,багьахъас,CyrillTrans,learn,,,"bahas, bahaqas",Phonemic
+17-242-508-1,darg1241,Dargwa (Megeb dialect),1929,дагьахъас,CyrillTrans,study,,,dahaqas,Phonemic
+17-250-508-1,darg1241,Dargwa (Megeb dialect),709,дагьахъас,CyrillTrans,teach,,,dahaqas,Phonemic
+17-260-508-1,darg1241,Dargwa (Megeb dialect),753,мутагІалим,CyrillTrans,pupil,,,"mutaʕalim, balhaqanči",Phonemic
+17-260-508-3,darg1241,Dargwa (Megeb dialect),753,балгьахъанчи,CyrillTrans,pupil,,,"mutaʕalim, balhaqanči",Phonemic
+17-270-508-1,darg1241,Dargwa (Megeb dialect),1038,мугІаллим,CyrillTrans,teacher,,,"muʕallim, učitel",Phonemic
+17-270-508-3,darg1241,Dargwa (Megeb dialect),1038,учител,CyrillTrans,teacher,,,"muʕallim, učitel",Phonemic
+17-280-508-1,darg1241,Dargwa (Megeb dialect),673,ушкул,CyrillTrans,school,,,uškul,Phonemic
+17-310-508-1,darg1241,Dargwa (Megeb dialect),707,урчеб буцес,CyrillTrans,remember,,,určeb buces,Phonemic
+17-320-508-1,darg1241,Dargwa (Megeb dialect),1523,хъумартес,CyrillTrans,forget,,,qumartes,Phonemic
+17-340-508-1,darg1241,Dargwa (Megeb dialect),989,амъури,CyrillTrans,"clear, plain",,,amʔuri,Phonemic
+17-350-508-1,darg1241,Dargwa (Megeb dialect),1764,иргъхІаргъул,CyrillTrans,obscure,,,"irɣħarɣul, ħarɣibi",Phonemic
+17-350-508-3,darg1241,Dargwa (Megeb dialect),1764,хІаргъиби,CyrillTrans,obscure,,,"irɣħarɣul, ħarɣibi",Phonemic
+17-360-508-1,darg1241,Dargwa (Megeb dialect),1121,дигIялдеш,CyrillTrans,secret,,,"diʕaˤldeš, balɣundeš",Phonemic
+17-360-508-3,darg1241,Dargwa (Megeb dialect),1121,балгъундеш,CyrillTrans,secret,,,"diʕaˤldeš, balɣundeš",Phonemic
+17-370-508-1,darg1241,Dargwa (Megeb dialect),509,уркІибизури,CyrillTrans,"sure, certain",,,urkʼibizuri,Phonemic
+17-380-508-1,darg1241,Dargwa (Megeb dialect),1626,аргъахъас,CyrillTrans,explain,,,arɣaqas,Phonemic
+17-410-508-1,darg1241,Dargwa (Megeb dialect),1162,мурад,CyrillTrans,"intention, purpose",,,"murad, pikri",Phonemic
+17-410-508-3,darg1241,Dargwa (Megeb dialect),1162,пикри,CyrillTrans,"intention, purpose",,,"murad, pikri",Phonemic
+17-420-508-1,darg1241,Dargwa (Megeb dialect),860,багьана,CyrillTrans,cause,,,"bahana, ʕilla",Phonemic
+17-420-508-3,darg1241,Dargwa (Megeb dialect),860,гІилла,CyrillTrans,cause,,,"bahana, ʕilla",Phonemic
+17-430-508-1,darg1241,Dargwa (Megeb dialect),1308,васбукІри,CyrillTrans,doubt,,,wasbukʼri,Phonemic
+17-440-508-1,darg1241,Dargwa (Megeb dialect),1841,бутан бихьес,CyrillTrans,suspect,,,"butan bix̌es, šak bukʼes",Phonemic
+17-440-508-3,darg1241,Dargwa (Megeb dialect),1841,шак букІес,CyrillTrans,suspect,,,"butan bix̌es, šak bukʼes",Phonemic
+17-441-508-1,darg1241,Dargwa (Megeb dialect),1902,дурабяхъас,CyrillTrans,betray,,,durabaˤqas,Phonemic
+17-450-508-1,darg1241,Dargwa (Megeb dialect),643,гІярквини,CyrillTrans,"need, necessity",,,ʕaˤrkʷini,Phonemic
+17-460-508-1,darg1241,Dargwa (Megeb dialect),686,бигьал,CyrillTrans,easy,,,"bihal, kunkil",Phonemic
+17-460-508-3,darg1241,Dargwa (Megeb dialect),686,кункил,CyrillTrans,easy,,,"bihal, kunkil",Phonemic
+17-470-508-1,darg1241,Dargwa (Megeb dialect),584,захІмати,CyrillTrans,difficult,,,zaħmati,Phonemic
+17-480-508-1,darg1241,Dargwa (Megeb dialect),1812,хІалбихІи,CyrillTrans,"try, attempt",,,"ħalbiħi, ħalbiħri",Phonemic
+17-480-508-3,darg1241,Dargwa (Megeb dialect),1812,хІалбихІри,CyrillTrans,"try, attempt",,,"ħalbiħi, ħalbiħri",Phonemic
+17-490-508-1,darg1241,Dargwa (Megeb dialect),488,санагІат,CyrillTrans,"way, manner",,,"sanaʕat, qʼaʕida",Phonemic
+17-490-508-3,darg1241,Dargwa (Megeb dialect),488,кьагІида,CyrillTrans,"way, manner",,,"sanaʕat, qʼaʕida",Phonemic
+17-510-508-1,darg1241,Dargwa (Megeb dialect),1577,ва,CyrillTrans,and,,,"wa, ixra",Phonemic
+17-510-508-3,darg1241,Dargwa (Megeb dialect),1577,ихра,CyrillTrans,and,,,"wa, ixra",Phonemic
+17-520-508-1,darg1241,Dargwa (Megeb dialect),1157,сисаъахІи,CyrillTrans,because,,,"sisaʔaħi, sis̄alla, nanu",Phonemic
+17-520-508-3,darg1241,Dargwa (Megeb dialect),1157,сиссалла,CyrillTrans,because,,,"sisaʔaħi, sis̄alla, nanu",Phonemic
+17-520-508-5,darg1241,Dargwa (Megeb dialect),1157,нану,CyrillTrans,because,,,"sisaʔaħi, sis̄alla, nanu",Phonemic
+17-530-508-1,darg1241,Dargwa (Megeb dialect),1459,нагагь,CyrillTrans,if,,,nagah,Phonemic
+17-540-508-1,darg1241,Dargwa (Megeb dialect),1014,я,CyrillTrans,or,,,"ya, yali",Phonemic
+17-540-508-3,darg1241,Dargwa (Megeb dialect),1014,яли,CyrillTrans,or,,,"ya, yali",Phonemic
+17-550-508-1,darg1241,Dargwa (Megeb dialect),1268,саби,CyrillTrans,"yes, affirmative",,,"sabi, haw",Phonemic
+17-550-508-3,darg1241,Dargwa (Megeb dialect),1268,гьав,CyrillTrans,"yes, affirmative",,,"sabi, haw",Phonemic
+17-560-508-1,darg1241,Dargwa (Megeb dialect),1269,ахІин(и),CyrillTrans,"no, negative",,,aħin(i),Phonemic
+17-610-508-1,darg1241,Dargwa (Megeb dialect),1239,сагъва,CyrillTrans,how?,,,saɣʷa,Phonemic
+17-620-508-1,darg1241,Dargwa (Megeb dialect),822,чума сикІал,CyrillTrans,how many?,,,"čuma sikʼal, cacaya",Phonemic
+17-620-508-3,darg1241,Dargwa (Megeb dialect),822,цацая,CyrillTrans,how many?,,,"čuma sikʼal, cacaya",Phonemic
+17-630-508-1,darg1241,Dargwa (Megeb dialect),531,чума сагІ,CyrillTrans,how much?,,,"čuma saʕ, barxa, daʔaqari, cacadi",Phonemic
+17-630-508-3,darg1241,Dargwa (Megeb dialect),531,барха,CyrillTrans,how much?,,,"čuma saʕ, barxa, daʔaqari, cacadi",Phonemic
+17-630-508-5,darg1241,Dargwa (Megeb dialect),531,даъахъари,CyrillTrans,how much?,,,"čuma saʕ, barxa, daʔaqari, cacadi",Phonemic
+17-630-508-7,darg1241,Dargwa (Megeb dialect),531,цацади,CyrillTrans,how much?,,,"čuma saʕ, barxa, daʔaqari, cacadi",Phonemic
+17-640-508-1,darg1241,Dargwa (Megeb dialect),1236,сия,CyrillTrans,what?,,,siya,Phonemic
+17-650-508-1,darg1241,Dargwa (Megeb dialect),1238,мурта,CyrillTrans,when?,,,murta,Phonemic
+17-660-508-1,darg1241,Dargwa (Megeb dialect),1237,кудаба,CyrillTrans,where?,,,"kudaba, kudala",Phonemic
+17-660-508-3,darg1241,Dargwa (Megeb dialect),1237,кудала,CyrillTrans,where?,,,"kudaba, kudala",Phonemic
+17-670-508-1,darg1241,Dargwa (Megeb dialect),727,сагъвани,CyrillTrans,which?,,,saɣʷani,Phonemic
+17-680-508-1,darg1241,Dargwa (Megeb dialect),1235,чия,CyrillTrans,who?,,,čiya,Phonemic
+17-690-508-1,darg1241,Dargwa (Megeb dialect),1270,сиса,CyrillTrans,why?,,,sisa,Phonemic
+18-110-508-1,darg1241,Dargwa (Megeb dialect),1363,тІама,CyrillTrans,voice,,,tʼama,Phonemic
+18-120-508-1,darg1241,Dargwa (Megeb dialect),1261,далай букІес,CyrillTrans,sing,,,"dalay bukʼes, dečʼ baqʼas",Phonemic
+18-120-508-3,darg1241,Dargwa (Megeb dialect),1261,дечІ бакьас,CyrillTrans,sing,,,"dalay bukʼes, dečʼ baqʼas",Phonemic
+18-130-508-1,darg1241,Dargwa (Megeb dialect),715,ляху букІес,CyrillTrans,"shout, cry out",,,"laˤxu bukʼes, tʼamne daqʼas",Phonemic
+18-130-508-3,darg1241,Dargwa (Megeb dialect),715,тІамне дакьас,CyrillTrans,"shout, cry out",,,"laˤxu bukʼes, tʼamne daqʼas",Phonemic
+18-150-508-1,darg1241,Dargwa (Megeb dialect),55,шур бакьас,CyrillTrans,whisper,,,šur baqʼas,Phonemic
+18-160-508-1,darg1241,Dargwa (Megeb dialect),128,гъургъур букІес,CyrillTrans,mumble,,,"ɣurɣur bukʼes, ɣur daqʼas",Phonemic
+18-160-508-3,darg1241,Dargwa (Megeb dialect),128,гъур дакьас,CyrillTrans,mumble,,,"ɣurɣur bukʼes, ɣur daqʼas",Phonemic
+18-170-508-1,darg1241,Dargwa (Megeb dialect),1025,швятІэс,CyrillTrans,whistle,,,"šʷaˤtʼes, šʷaˤtʼ bukʼes",Phonemic
+18-170-508-3,darg1241,Dargwa (Megeb dialect),1025,швятI букІес,CyrillTrans,whistle,,,"šʷaˤtʼes, šʷaˤtʼ bukʼes",Phonemic
+18-180-508-1,darg1241,Dargwa (Megeb dialect),298,цІивцІив букІес,CyrillTrans,"shriek, screech",,,cʼiwcʼiw bukʼes,Phonemic
+18-190-508-1,darg1241,Dargwa (Megeb dialect),526,ав букІес,CyrillTrans,howl,,,aw bukʼes,Phonemic
+18-210-508-1,darg1241,Dargwa (Megeb dialect),1623,бухІякъас,CyrillTrans,"speak, talk",,,buħaˤq̄as,Phonemic
+18-211-508-1,darg1241,Dargwa (Megeb dialect),1866,мез булцес,CyrillTrans,"stutter, stammer",,,mez bulces,Phonemic
+18-220-508-1,darg1241,Dargwa (Megeb dialect),1458,эс,CyrillTrans,say,,,es,Phonemic
+18-221-508-1,darg1241,Dargwa (Megeb dialect),1711,бургьес,CyrillTrans,tell story,,,"burhes, xabar baqʼas",Phonemic
+18-221-508-3,darg1241,Dargwa (Megeb dialect),1711,хабар бакьас,CyrillTrans,tell story,,,"burhes, xabar baqʼas",Phonemic
+18-222-508-1,darg1241,Dargwa (Megeb dialect),1115,хабар бургьес,CyrillTrans,speech (make a),,,xabar burhes,Phonemic
+18-230-508-1,darg1241,Dargwa (Megeb dialect),48,къайкес,CyrillTrans,silent (be),,,q̄aykes,Phonemic
+18-240-508-1,darg1241,Dargwa (Megeb dialect),1307,мез,CyrillTrans,language,,,mez,Phonemic
+18-260-508-1,darg1241,Dargwa (Megeb dialect),1599,девгь,CyrillTrans,word,,,"dewh, dehʷ",Phonemic
+18-260-508-3,darg1241,Dargwa (Megeb dialect),1599,дегьв,CyrillTrans,word,,,"dewh, dehʷ",Phonemic
+18-280-508-1,darg1241,Dargwa (Megeb dialect),1405,у,CyrillTrans,name,,,u,Phonemic
+18-310-508-1,darg1241,Dargwa (Megeb dialect),1309,хьарбаъас,CyrillTrans,"ask (question, inquire)",,,x̌arbaʔas,Phonemic
+18-320-508-1,darg1241,Dargwa (Megeb dialect),1275,жаваб гес,CyrillTrans,answer,,,žawab ges,Phonemic
+18-330-508-1,darg1241,Dargwa (Megeb dialect),2022,мукІур угьес,CyrillTrans,"admit, confess",,,mukʼur uhes,Phonemic
+18-340-508-1,darg1241,Dargwa (Megeb dialect),755,гІёр бехъас,CyrillTrans,deny,,,ʕyor beqas,Phonemic
+18-350-508-1,darg1241,Dargwa (Megeb dialect),1828,гьари бакьас,CyrillTrans,"ask, request",,,hari baqʼas,Phonemic
+18-360-508-1,darg1241,Dargwa (Megeb dialect),1675,дегьв гес,CyrillTrans,promise,,,dehʷ ges,Phonemic
+18-370-508-1,darg1241,Dargwa (Megeb dialect),49,гІёрбякъяс,CyrillTrans,refuse,,,"ʕyorbaˤq̄aˤs, ħaluges",Phonemic
+18-370-508-3,darg1241,Dargwa (Megeb dialect),49,хІалугес,CyrillTrans,refuse,,,"ʕyorbaˤq̄aˤs, ħaluges",Phonemic
+18-380-508-1,darg1241,Dargwa (Megeb dialect),83,хІабакьас,CyrillTrans,forbid,,,ħabaqʼas,Phonemic
+18-390-508-1,darg1241,Dargwa (Megeb dialect),299,бугьес,CyrillTrans,"rebuke, scold",,,buhes,Phonemic
+18-410-508-1,darg1241,Dargwa (Megeb dialect),1084,вябятес,CyrillTrans,call (=summon),,,waˤbaˤtes,Phonemic
+18-420-508-1,darg1241,Dargwa (Megeb dialect),180,букІес,CyrillTrans,call (=name),,,"bukʼes, u aqas",Phonemic
+18-420-508-3,darg1241,Dargwa (Megeb dialect),180,у ахъас,CyrillTrans,call (=name),,,"bukʼes, u aqas",Phonemic
+18-430-508-1,darg1241,Dargwa (Megeb dialect),9,балгьахъас,CyrillTrans,announce,,,"balhaqas, balhaqes",Phonemic
+18-430-508-3,darg1241,Dargwa (Megeb dialect),9,балгьахъес,CyrillTrans,announce,,,"balhaqas, balhaqes",Phonemic
+18-440-508-1,darg1241,Dargwa (Megeb dialect),1192,урух бакьас,CyrillTrans,threaten,,,urux baqʼas,Phonemic
+18-450-508-1,darg1241,Dargwa (Megeb dialect),101,цІения букІес,CyrillTrans,boast,,,"cʼeniya bukʼes, paxru bukʼes",Phonemic
+18-450-508-3,darg1241,Dargwa (Megeb dialect),101,пахру букІес,CyrillTrans,boast,,,"cʼeniya bukʼes, paxru bukʼes",Phonemic
+18-510-508-1,darg1241,Dargwa (Megeb dialect),1672,лукІес,CyrillTrans,write,,,lukʼes,Phonemic
+18-520-508-1,darg1241,Dargwa (Megeb dialect),724,лучІес,CyrillTrans,read,,,"lučʼes, belčʼes",Phonemic
+18-520-508-3,darg1241,Dargwa (Megeb dialect),724,белчІес,CyrillTrans,read,,,"lučʼes, belčʼes",Phonemic
+18-560-508-1,darg1241,Dargwa (Megeb dialect),648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-508-1,darg1241,Dargwa (Megeb dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-508-1,darg1241,Dargwa (Megeb dialect),963,кунг,CyrillTrans,book,,,kung,Phonemic
+18-670-508-1,darg1241,Dargwa (Megeb dialect),1045,поэт,CyrillTrans,poet,,,poet,Phonemic
+18-710-508-1,darg1241,Dargwa (Megeb dialect),777,шетІдукІани,CyrillTrans,flute,,,šetʼdukʼani,Phonemic
+18-720-508-1,darg1241,Dargwa (Megeb dialect),908,бава,CyrillTrans,drum,,,bawa,Phonemic
+18-730-508-1,darg1241,Dargwa (Megeb dialect),2136,зёнав,CyrillTrans,"horn, trumpet",,,"zyonaw, zunaˤw",Phonemic
+18-730-508-3,darg1241,Dargwa (Megeb dialect),2136,зуняв,CyrillTrans,"horn, trumpet",,,"zyonaw, zunaˤw",Phonemic
+18-740-508-1,darg1241,Dargwa (Megeb dialect),300,шетІдукІани,CyrillTrans,rattle,,,šetʼdukʼani,Phonemic
+19-110-508-1,darg1241,Dargwa (Megeb dialect),1300,хІукумат,CyrillTrans,country,,,ħukumat,Phonemic
+19-120-508-1,darg1241,Dargwa (Megeb dialect),89,ватІан,CyrillTrans,one's native country,,,watʼan,Phonemic
+19-150-508-1,darg1241,Dargwa (Megeb dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-508-1,darg1241,Dargwa (Megeb dialect),930,ши,CyrillTrans,village,,,ši,Phonemic
+19-170-508-1,darg1241,Dargwa (Megeb dialect),1010,дургІяри,CyrillTrans,boundary,,,durʕaˤri,Phonemic
+19-210-508-1,darg1241,Dargwa (Megeb dialect),789,халкь,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-508-1,darg1241,Dargwa (Megeb dialect),302,тухум,CyrillTrans,"tribe, clan",,,"tuxum, qʼam",Phonemic
+19-230-508-3,darg1241,Dargwa (Megeb dialect),302,кьам,CyrillTrans,"tribe, clan",,,"tuxum, qʼam",Phonemic
+19-240-508-1,darg1241,Dargwa (Megeb dialect),301,кьав,CyrillTrans,"chief, chieftain",,,"qʼaw, askarla bečʼ",Phonemic
+19-240-508-3,darg1241,Dargwa (Megeb dialect),301,аскарла бечI,CyrillTrans,"chief, chieftain",,,"qʼaw, askarla bečʼ",Phonemic
+19-250-508-1,darg1241,Dargwa (Megeb dialect),1296,дерхьа,CyrillTrans,"staff, walking stick",,,"derx̌a, ʕansa",Phonemic
+19-250-508-3,darg1241,Dargwa (Megeb dialect),1296,гІанса,CyrillTrans,"staff, walking stick",,,"derx̌a, ʕansa",Phonemic
+19-310-508-1,darg1241,Dargwa (Megeb dialect),1846,пачадеш дакьас,CyrillTrans,"rule, govern",,,pačadeš daqʼas,Phonemic
+19-320-508-1,darg1241,Dargwa (Megeb dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-320-508-3,darg1241,Dargwa (Megeb dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-330-508-1,darg1241,Dargwa (Megeb dialect),1306,ханбика,CyrillTrans,queen,,,xanbika,Phonemic
+19-360-508-1,darg1241,Dargwa (Megeb dialect),482,иман леби,CyrillTrans,"noble, nobleman",,,iman lebi,Phonemic
+19-370-508-1,darg1241,Dargwa (Megeb dialect),1032,шагьала инсан,CyrillTrans,"citizen, subject",,,šahala insan,Phonemic
+19-410-508-1,darg1241,Dargwa (Megeb dialect),383,вегІ,CyrillTrans,master,,,weʕ,Phonemic
+19-420-508-1,darg1241,Dargwa (Megeb dialect),812,лагъ,CyrillTrans,slave,,,"laɣ, ɣarabaš",Phonemic
+19-420-508-3,darg1241,Dargwa (Megeb dialect),812,гъарабаш,CyrillTrans,slave,,,"laɣ, ɣarabaš",Phonemic
+19-430-508-1,darg1241,Dargwa (Megeb dialect),255,гьаракъев ватури,CyrillTrans,servant,,,haraq̄ew waturi,Phonemic
+19-440-508-1,darg1241,Dargwa (Megeb dialect),384,эркенла инсан,CyrillTrans,freeman,,,erkenla insan,Phonemic
+19-450-508-1,darg1241,Dargwa (Megeb dialect),1128,амру бугьес,CyrillTrans,"command, order",,,"amru buhes, buyuruq buhes",Phonemic
+19-450-508-3,darg1241,Dargwa (Megeb dialect),1128,буюрухъ бугьес,CyrillTrans,"command, order",,,"amru buhes, buyuruq buhes",Phonemic
+19-460-508-1,darg1241,Dargwa (Megeb dialect),1635,мётІихI укІес,CyrillTrans,obey,,,myotʼiħ ukʼes,Phonemic
+19-470-508-1,darg1241,Dargwa (Megeb dialect),1003,ихтияр гес,CyrillTrans,"let, permit",,,ixtiyar ges,Phonemic
+19-510-508-1,darg1241,Dargwa (Megeb dialect),1325,уртакъ,CyrillTrans,"friend, companion",,,urtaq̄,Phonemic
+19-520-508-1,darg1241,Dargwa (Megeb dialect),1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-508-1,darg1241,Dargwa (Megeb dialect),1332,уна,CyrillTrans,neighbor,,,una,Phonemic
+19-550-508-1,darg1241,Dargwa (Megeb dialect),791,хІалгьул инсан,CyrillTrans,stranger,,,ħalhul insan,Phonemic
+19-560-508-1,darg1241,Dargwa (Megeb dialect),1782,гІяхул,CyrillTrans,guest,,,"ʕaˤxul, ʕexul",Phonemic
+19-560-508-3,darg1241,Dargwa (Megeb dialect),1782,гІехул,CyrillTrans,guest,,,"ʕaˤxul, ʕexul",Phonemic
+19-570-508-1,darg1241,Dargwa (Megeb dialect),1545,вегІ,CyrillTrans,host,,,weʕ,Phonemic
+19-580-508-1,darg1241,Dargwa (Megeb dialect),1897,кумак,CyrillTrans,"help, aid",,,kumak,Phonemic
+19-590-508-1,darg1241,Dargwa (Megeb dialect),1550,квалквал бакьас,CyrillTrans,"hinder, prevent",,,"kʷalkʷal baqʼas, ħabaqʼas",Phonemic
+19-590-508-3,darg1241,Dargwa (Megeb dialect),1550,хІабакьас,CyrillTrans,"hinder, prevent",,,"kʷalkʷal baqʼas, ħabaqʼas",Phonemic
+19-610-508-1,darg1241,Dargwa (Megeb dialect),1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-508-1,darg1241,Dargwa (Megeb dialect),1848,дагІба,CyrillTrans,"strife, quarrel",,,"daʕba, daʕbi",Phonemic
+19-620-508-3,darg1241,Dargwa (Megeb dialect),1848,дагІби,CyrillTrans,"strife, quarrel",,,"daʕba, daʕbi",Phonemic
+19-650-508-1,darg1241,Dargwa (Megeb dialect),1831,ценхІе бикес,CyrillTrans,meet,,,cenħe bikes,Phonemic
+19-720-508-1,darg1241,Dargwa (Megeb dialect),1610,хъахІба,CyrillTrans,prostitute,,,qaħba,Phonemic
+20-110-508-1,darg1241,Dargwa (Megeb dialect),1423,бургьес,CyrillTrans,fight (vb),,,burhes,Phonemic
+20-130-508-1,darg1241,Dargwa (Megeb dialect),579,дергъ,CyrillTrans,"war, battle",,,derɣ,Phonemic
+20-140-508-1,darg1241,Dargwa (Megeb dialect),1338,балЪни,CyrillTrans,peace,,,"balʔni, balyni",Phonemic
+20-140-508-3,darg1241,Dargwa (Megeb dialect),1338,балйни,CyrillTrans,peace,,,"balʔni, balyni",Phonemic
+20-150-508-1,darg1241,Dargwa (Megeb dialect),1561,аскар,CyrillTrans,army,,,"askar, armi",Phonemic
+20-150-508-3,darg1241,Dargwa (Megeb dialect),1561,арми,CyrillTrans,army,,,"askar, armi",Phonemic
+20-170-508-1,darg1241,Dargwa (Megeb dialect),1941,ургъанчи,CyrillTrans,soldier,,,urɣanči,Phonemic
+20-210-508-1,darg1241,Dargwa (Megeb dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-508-1,darg1241,Dargwa (Megeb dialect),1763,хІус,CyrillTrans,club,,,ħus,Phonemic
+20-222-508-1,darg1241,Dargwa (Megeb dialect),386,барда,CyrillTrans,battle-ax,,,barda,Phonemic
+20-230-508-1,darg1241,Dargwa (Megeb dialect),387,иргьвани,CyrillTrans,sling,,,irhʷani,Phonemic
+20-240-508-1,darg1241,Dargwa (Megeb dialect),994,чІурбутІ,CyrillTrans,bow,,,čʼurbutʼ,Phonemic
+20-250-508-1,darg1241,Dargwa (Megeb dialect),977,чІур,CyrillTrans,arrow,,,čʼur,Phonemic
+20-260-508-1,darg1241,Dargwa (Megeb dialect),945,чІутІ,CyrillTrans,spear,,,čʼutʼ,Phonemic
+20-270-508-1,darg1241,Dargwa (Megeb dialect),1535,ханжар,CyrillTrans,sword,,,"xanžar, tur",Phonemic
+20-270-508-3,darg1241,Dargwa (Megeb dialect),1535,тур,CyrillTrans,sword,,,"xanžar, tur",Phonemic
+20-280-508-1,darg1241,Dargwa (Megeb dialect),1566,мажар,CyrillTrans,"gun, cannon",,,"mažar, ʕarada",Phonemic
+20-280-508-3,darg1241,Dargwa (Megeb dialect),1566,гІарада,CyrillTrans,"gun, cannon",,,"mažar, ʕarada",Phonemic
+20-310-508-1,darg1241,Dargwa (Megeb dialect),1061,янда-ярагъ,CyrillTrans,armor (defensive),,,yanda-yaraɣ,Phonemic
+20-330-508-1,darg1241,Dargwa (Megeb dialect),1680,такъия,CyrillTrans,helmet,,,taq̄iya,Phonemic
+20-340-508-1,darg1241,Dargwa (Megeb dialect),1064,талкьан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-508-1,darg1241,Dargwa (Megeb dialect),1938,гъала,CyrillTrans,fortress,,,ɣala,Phonemic
+20-360-508-1,darg1241,Dargwa (Megeb dialect),1671,цІур,CyrillTrans,tower,,,cʼur,Phonemic
+20-410-508-1,darg1241,Dargwa (Megeb dialect),783,дерхъбугьубле,CyrillTrans,victory,,,derqbuhuble,Phonemic
+20-420-508-1,darg1241,Dargwa (Megeb dialect),782,дургІабугьубле,CyrillTrans,defeat,,,durʕabuhuble,Phonemic
+20-430-508-1,darg1241,Dargwa (Megeb dialect),722,ахъу бухъес,CyrillTrans,attack,,,aqu buqes,Phonemic
+20-440-508-1,darg1241,Dargwa (Megeb dialect),1330,шуладеш бакьас,CyrillTrans,defend,,,šuladeš baqʼas,Phonemic
+20-450-508-1,darg1241,Dargwa (Megeb dialect),421,ибяхІ бугьес,CyrillTrans,retreat,,,ibaˤħ buhes,Phonemic
+20-460-508-1,darg1241,Dargwa (Megeb dialect),1696,квебукьес,CyrillTrans,surrender,,,kʷebuqʼes,Phonemic
+20-470-508-1,darg1241,Dargwa (Megeb dialect),1072,квеасиби,CyrillTrans,"captive, prisoner",,,"kʷeasibi, tusnaq̄",Phonemic
+20-470-508-3,darg1241,Dargwa (Megeb dialect),1072,туснакъ,CyrillTrans,"captive, prisoner",,,"kʷeasibi, tusnaq̄",Phonemic
+20-471-508-1,darg1241,Dargwa (Megeb dialect),1940,гъаравул,CyrillTrans,"guard, sentinel",,,ɣarawul,Phonemic
+20-480-508-1,darg1241,Dargwa (Megeb dialect),1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-490-508-1,darg1241,Dargwa (Megeb dialect),65,ув визес,CyrillTrans,ambush,,,uw wizes,Phonemic
+20-510-508-1,darg1241,Dargwa (Megeb dialect),1858,кІусрегІан,CyrillTrans,fisherman,,,kʼusreʕan,Phonemic
+20-520-508-1,darg1241,Dargwa (Megeb dialect),1074,кІасбулцул хъямцІа,CyrillTrans,fishhook,,,kʼasbulcul qaˤmcʼa,Phonemic
+20-530-508-1,darg1241,Dargwa (Megeb dialect),19,дарша,CyrillTrans,fishing line,,,"darša, leska",Phonemic
+20-530-508-3,darg1241,Dargwa (Megeb dialect),19,леска,CyrillTrans,fishing line,,,"darša, leska",Phonemic
+20-540-508-1,darg1241,Dargwa (Megeb dialect),388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-508-1,darg1241,Dargwa (Megeb dialect),389,вентер,CyrillTrans,fish trap,,,wenter,Phonemic
+20-610-508-1,darg1241,Dargwa (Megeb dialect),1435,ав бакьес,CyrillTrans,hunt,,,aw baqʼes,Phonemic
+20-620-508-1,darg1241,Dargwa (Megeb dialect),1172,пІякь букІес,CyrillTrans,shoot,,,pʼaˤqʼ bukʼes,Phonemic
+20-630-508-1,darg1241,Dargwa (Megeb dialect),161,хІабизес,CyrillTrans,miss (target),,,ħabizes,Phonemic
+20-640-508-1,darg1241,Dargwa (Megeb dialect),1075,къяртІ,CyrillTrans,trap (noun),,,q̄aˤrtʼ,Phonemic
+20-650-508-1,darg1241,Dargwa (Megeb dialect),1170,буцес,CyrillTrans,trap (vb),,,buces,Phonemic
+21-110-508-1,darg1241,Dargwa (Megeb dialect),1062,закун,CyrillTrans,law,,,zakun,Phonemic
+21-150-508-1,darg1241,Dargwa (Megeb dialect),1068,диван,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-150-508-3,darg1241,Dargwa (Megeb dialect),1068,суд,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-160-508-1,darg1241,Dargwa (Megeb dialect),1818,диван дакьас,CyrillTrans,judge (vb),,,"diwan daqʼas, sud baqʼas",Phonemic
+21-160-508-3,darg1241,Dargwa (Megeb dialect),1818,суд бакьас,CyrillTrans,judge (vb),,,"diwan daqʼas, sud baqʼas",Phonemic
+21-170-508-1,darg1241,Dargwa (Megeb dialect),1067,судла хІукму,CyrillTrans,judgment,,,sudla ħukmu,Phonemic
+21-180-508-1,darg1241,Dargwa (Megeb dialect),861,къади,CyrillTrans,judge (noun),,,"q̄adi, sudya",Phonemic
+21-180-508-3,darg1241,Dargwa (Megeb dialect),861,судйа,CyrillTrans,judge (noun),,,"q̄adi, sudya",Phonemic
+21-210-508-1,darg1241,Dargwa (Megeb dialect),2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-508-1,darg1241,Dargwa (Megeb dialect),1034,жавабчи,CyrillTrans,defendant,,,žawabči,Phonemic
+21-230-508-1,darg1241,Dargwa (Megeb dialect),1144,бикьри,CyrillTrans,witness,,,biqʼri,Phonemic
+21-240-508-1,darg1241,Dargwa (Megeb dialect),1939,хъве бакьас,CyrillTrans,swear,,,qʷe baqʼas,Phonemic
+21-250-508-1,darg1241,Dargwa (Megeb dialect),1712,хъве,CyrillTrans,oath,,,qʷe,Phonemic
+21-310-508-1,darg1241,Dargwa (Megeb dialect),1814,бялгІва бакьас,CyrillTrans,accuse,,,baˤlʕʷa baqʼas,Phonemic
+21-320-508-1,darg1241,Dargwa (Megeb dialect),484,гІабад бухІякьас,CyrillTrans,condemn,,,ʕabad buħaˤqʼas,Phonemic
+21-330-508-1,darg1241,Dargwa (Megeb dialect),983,бялгІва бизахъас,CyrillTrans,convict (vb),,,baˤlʕʷa bizaqas,Phonemic
+21-340-508-1,darg1241,Dargwa (Megeb dialect),988,бялгІва бушкес,CyrillTrans,acquit,,,baˤlʕʷa buškes,Phonemic
+21-350-508-1,darg1241,Dargwa (Megeb dialect),1682,бялгІвала бечІ,CyrillTrans,guilty,,,"baˤlʕʷala bečʼ, belʕʷa lebi",Phonemic
+21-350-508-3,darg1241,Dargwa (Megeb dialect),1682,белгІва леби,CyrillTrans,guilty,,,"baˤlʕʷala bečʼ, belʕʷa lebi",Phonemic
+21-360-508-1,darg1241,Dargwa (Megeb dialect),90,бялгІва агвари,CyrillTrans,innocent,,,baˤlʕʷa agʷari,Phonemic
+21-370-508-1,darg1241,Dargwa (Megeb dialect),390,тамихІ бакьри,CyrillTrans,"penalty, punishment",,,tamiħ baqʼri,Phonemic
+21-380-508-1,darg1241,Dargwa (Megeb dialect),218,уба,CyrillTrans,fine,,,"uba, arcla štraf",Phonemic
+21-380-508-3,darg1241,Dargwa (Megeb dialect),218,арцла штраф,CyrillTrans,fine,,,"uba, arcla štraf",Phonemic
+21-390-508-1,darg1241,Dargwa (Megeb dialect),1281,туснакъ,CyrillTrans,"prison, jail",,,tusnaq̄,Phonemic
+21-420-508-1,darg1241,Dargwa (Megeb dialect),845,бябгІри,CyrillTrans,murder,,,"baˤbʕri, waˤbʕile",Phonemic
+21-420-508-3,darg1241,Dargwa (Megeb dialect),845,вябгIиле,CyrillTrans,murder,,,"baˤbʕri, waˤbʕile",Phonemic
+21-430-508-1,darg1241,Dargwa (Megeb dialect),902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-508-1,darg1241,Dargwa (Megeb dialect),953,дуахъри,CyrillTrans,rape,,,"duaqri, zulmu baqʼri",Phonemic
+21-440-508-3,darg1241,Dargwa (Megeb dialect),953,зулму бакьри,CyrillTrans,rape,,,"duaqri, zulmu baqʼri",Phonemic
+21-460-508-1,darg1241,Dargwa (Megeb dialect),1889,цІадаъри,CyrillTrans,arson,,,cʼadaʔri,Phonemic
+21-470-508-1,darg1241,Dargwa (Megeb dialect),1792,гъвянари бикьридеш,CyrillTrans,perjury,,,ɣʷaˤnari biqʼrideš,Phonemic
+21-510-508-1,darg1241,Dargwa (Megeb dialect),713,цурк бикъес,CyrillTrans,steal,,,curk biq̄es,Phonemic
+21-520-508-1,darg1241,Dargwa (Megeb dialect),1160,цурку,CyrillTrans,thief,,,curku,Phonemic
+22-110-508-1,darg1241,Dargwa (Megeb dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-508-1,darg1241,Dargwa (Megeb dialect),1944,Аллагь,CyrillTrans,God,,,Аllah,Phonemic
+22-130-508-1,darg1241,Dargwa (Megeb dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-508-1,darg1241,Dargwa (Megeb dialect),853,бимбар,CyrillTrans,altar,,,bimbar,Phonemic
+22-150-508-1,darg1241,Dargwa (Megeb dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-508-1,darg1241,Dargwa (Megeb dialect),257,дин дакьас,CyrillTrans,worship,,,"din daqʼas, sužda daqʼas",Phonemic
+22-160-508-3,darg1241,Dargwa (Megeb dialect),257,сужда дакьас,CyrillTrans,worship,,,"din daqʼas, sužda daqʼas",Phonemic
+22-170-508-1,darg1241,Dargwa (Megeb dialect),24,как бакьас,CyrillTrans,pray,,,kak baqʼas,Phonemic
+22-180-508-1,darg1241,Dargwa (Megeb dialect),852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-508-1,darg1241,Dargwa (Megeb dialect),1702,хирал,CyrillTrans,"holy, sacred",,,xiral,Phonemic
+22-220-508-1,darg1241,Dargwa (Megeb dialect),304,бургьес,CyrillTrans,preach,,,"burhes, waʕza belčʼes",Phonemic
+22-220-508-3,darg1241,Dargwa (Megeb dialect),304,вагІза белчІес,CyrillTrans,preach,,,"burhes, waʕza belčʼes",Phonemic
+22-230-508-1,darg1241,Dargwa (Megeb dialect),391,пурман гес,CyrillTrans,bless,,,purman ges,Phonemic
+22-240-508-1,darg1241,Dargwa (Megeb dialect),8,вякь букІес,CyrillTrans,curse,,,"waˤqʼ bukʼes, naʕaˤna luges",Phonemic
+22-240-508-3,darg1241,Dargwa (Megeb dialect),8,нагІяна лугес,CyrillTrans,curse,,,"waˤqʼ bukʼes, naʕaˤna luges",Phonemic
+22-260-508-1,darg1241,Dargwa (Megeb dialect),303,дуб буцес,CyrillTrans,fast (vb),,,dub buces,Phonemic
+22-310-508-1,darg1241,Dargwa (Megeb dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-508-1,darg1241,Dargwa (Megeb dialect),878,дужагь,CyrillTrans,hell,,,"dužah, duž̄ah",Phonemic
+22-320-508-3,darg1241,Dargwa (Megeb dialect),878,дужжагь,CyrillTrans,hell,,,"dužah, duž̄ah",Phonemic
+22-350-508-1,darg1241,Dargwa (Megeb dialect),1973,шейтІан,CyrillTrans,demon (evil spirit),,,"šeytʼan, ilbis",Phonemic
+22-350-508-3,darg1241,Dargwa (Megeb dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"šeytʼan, ilbis",Phonemic
+22-370-508-1,darg1241,Dargwa (Megeb dialect),1945,хъанч,CyrillTrans,idol,,,qanč,Phonemic
+22-420-508-1,darg1241,Dargwa (Megeb dialect),392,накру,CyrillTrans,"magic, witchcraft, sorcery",,,nakru,Phonemic
+22-430-508-1,darg1241,Dargwa (Megeb dialect),2137,шейтІахьунул,CyrillTrans,"sorcerer, witch",,,šeytʼax̌unul,Phonemic
+22-440-508-1,darg1241,Dargwa (Megeb dialect),2138,хІурулгІен,CyrillTrans,"fairy, elf",,,ħurulʕen,Phonemic
+22-450-508-1,darg1241,Dargwa (Megeb dialect),1175,шейтІабарди,CyrillTrans,"ghost, phantom",,,šeytʼabardi,Phonemic
+22-470-508-1,darg1241,Dargwa (Megeb dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

@@ -1,0 +1,1631 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-131-1,hung1274,Hungarian,1852,gyakran,Standard,often,,,dʸakran,Phonemic
+14-310-131-1,hung1274,Hungarian,1676,mindig ~ mindenkor,Standard,always,,,mindig ~ mindenkor,Phonemic
+14-290-131-1,hung1274,Hungarian,790,kész,Standard,ready,,,kees,Phonemic
+14-280-131-1,hung1274,Hungarian,1928,abbahagy,Standard,"cease, stop",,,abbahadʸ,Phonemic
+14-270-131-1,hung1274,Hungarian,1766,(be)végez,Standard,finish,,,(be)weegez,Phonemic
+14-260-131-1,hung1274,Hungarian,743,vég,Standard,end (temporal),,,weeg,Phonemic
+14-252-131-1,hung1274,Hungarian,1186,bír,Standard,"last, endure",,,biir,Phonemic
+14-250-131-1,hung1274,Hungarian,1806,kezd ~ kezdet,Standard,"begin, beginning",,,kezd ~ kezdet,Phonemic
+14-240-131-1,hung1274,Hungarian,425,lassít,Standard,"retard, delay",,,laššiit,Phonemic
+14-230-131-1,hung1274,Hungarian,754,siet,Standard,"hasten, hurry",,,šiet; idʸeksik,Phonemic
+14-230-131-3,hung1274,Hungarian,754,igyekszik,Standard,"hasten, hurry",,,šiet; idʸeksik,Phonemic
+14-220-131-1,hung1274,Hungarian,701,lassú,Standard,slow,,,laššuu; lomha,Phonemic
+14-220-131-3,hung1274,Hungarian,701,lomha,Standard,slow,,,laššuu; lomha,Phonemic
+14-210-131-1,hung1274,Hungarian,1631,gyors,Standard,"swift, fast, quick",,,dʸorš; fürge; rohamoš,Phonemic
+14-210-131-3,hung1274,Hungarian,1631,fürge,Standard,"swift, fast, quick",,,dʸorš; fürge; rohamoš,Phonemic
+14-210-131-5,hung1274,Hungarian,1631,rohamos,Standard,"swift, fast, quick",,,dʸorš; fürge; rohamoš,Phonemic
+14-190-131-1,hung1274,Hungarian,1963,azonnal,Standard,immediately,,,azonnal; rögtön,Phonemic
+14-190-131-3,hung1274,Hungarian,1963,rögtön,Standard,immediately,,,azonnal; rögtön,Phonemic
+14-180-131-1,hung1274,Hungarian,1376,most,Standard,now,,,mošt,Phonemic
+14-170-131-1,hung1274,Hungarian,477,későn,Standard,late,,,keešöön,Phonemic
+14-160-131-1,hung1274,Hungarian,672,kóran,Standard,early,,,kooran; yookor,Phonemic
+14-160-131-3,hung1274,Hungarian,672,yókor,Standard,early,,,kooran; yookor,Phonemic
+14-150-131-1,hung1274,Hungarian,1229,öreg,Standard,old,,,öreg,Phonemic
+14-140-131-1,hung1274,Hungarian,1207,fiatal,Standard,young,,,fiatal,Phonemic
+14-120-131-1,hung1274,Hungarian,1789,kor,Standard,age,,,kor,Phonemic
+14-130-131-1,hung1274,Hungarian,1231,úy,Standard,new,,,uuy,Phonemic
+14-110-131-1,hung1274,Hungarian,892,idő,Standard,time,,,idöö,Phonemic
+13-440-131-1,hung1274,Hungarian,417,haromzor,Standard,three times,,,haromzor,Phonemic
+13-420-131-1,hung1274,Hungarian,1859,harmadik,Standard,third,,,harmadik,Phonemic
+13-380-131-1,hung1274,Hungarian,1546,kettőször,Standard,two times,,,kettöösör,Phonemic
+13-370-131-1,hung1274,Hungarian,1888,pár,Standard,pair,,,paar,Phonemic
+13-360-131-1,hung1274,Hungarian,1384,egymás,Standard,second,,,edʸmaaš; maašodik,Phonemic
+13-360-131-3,hung1274,Hungarian,1384,második,Standard,second,,,edʸmaaš; maašodik,Phonemic
+13-350-131-1,hung1274,Hungarian,1529,utolsó,Standard,last,,,utolšoo,Phonemic
+13-340-131-1,hung1274,Hungarian,728,első,Standard,first,,,elšöö,Phonemic
+13-330-131-1,hung1274,Hungarian,1580,egyedül ~ egyetlen,Standard,"alone, only",,,edʸedül ~ edʸetlen; čak; čupaan,Phonemic
+13-330-131-3,hung1274,Hungarian,1580,czak,Standard,"alone, only",,,edʸedül ~ edʸetlen; čak; čupaan,Phonemic
+13-330-131-5,hung1274,Hungarian,1580,czupán,Standard,"alone, only",,,edʸedül ~ edʸetlen; čak; čupaan,Phonemic
+13-240-131-1,hung1274,Hungarian,816,fél,Standard,half,,,feel,Phonemic
+13-230-131-1,hung1274,Hungarian,779,rész,Standard,"part, piece",,,rees,Phonemic
+13-220-131-1,hung1274,Hungarian,1624,üres,Standard,empty,,,üreš,Phonemic
+13-210-131-1,hung1274,Hungarian,1429,telt ~ tele,Standard,full,,,telt ~ tele,Phonemic
+13-190-131-1,hung1274,Hungarian,2023,sokaság,Standard,"multitude, crowd",,,šokašaag; tömeg,Phonemic
+13-190-131-3,hung1274,Hungarian,2023,tömeg,Standard,"multitude, crowd",,,šokašaag; tömeg,Phonemic
+13-181-131-1,hung1274,Hungarian,1241,(egy)néhány,Standard,some,,,(edʸ)neehaaɲ; edʸeš,Phonemic
+13-181-131-3,hung1274,Hungarian,1241,egyes,Standard,some,,,(edʸ)neehaaɲ; edʸeš,Phonemic
+13-170-131-1,hung1274,Hungarian,1242,kevés,Standard,"little (quantity), few",,,keweeš; walami,Phonemic
+13-170-131-3,hung1274,Hungarian,1242,valami,Standard,"little (quantity), few",,,keweeš; walami,Phonemic
+13-180-131-1,hung1274,Hungarian,1881,alaposan,Standard,enough,,,alapošan; nadʸon,Phonemic
+13-180-131-3,hung1274,Hungarian,1881,nagyon,Standard,enough,,,alapošan; nadʸon,Phonemic
+13-160-131-1,hung1274,Hungarian,1992,több,Standard,more,,,több,Phonemic
+13-150-131-1,hung1274,Hungarian,1198,sok,Standard,"much, many",,,šok,Phonemic
+13-140-131-1,hung1274,Hungarian,98,minden ~ mindenki,Standard,"every, all",,,minden ~ mindenki; mind,Phonemic
+13-140-131-3,hung1274,Hungarian,98,mind,Standard,"every, all",,,minden ~ mindenki; mind,Phonemic
+13-107-131-1,hung1274,Hungarian,1420,számol,Standard,count,,,saamol,Phonemic
+13-106-131-1,hung1274,Hungarian,1843,ezer ~ ezre-,Standard,thousand,,,ezer ~ ezre-,Phonemic
+13-105-131-1,hung1274,Hungarian,1634,száz,Standard,hundred,,,saaz,Phonemic
+13-104-131-1,hung1274,Hungarian,1710,húsz ~ husza-,Standard,twenty,,,huus ~ husa-,Phonemic
+13-103-131-1,hung1274,Hungarian,1709,tizenöt,Standard,fifteen,,,tizenöt,Phonemic
+13-102-131-1,hung1274,Hungarian,1707,tizenkettő ~ tizenkét,Standard,twelve,,,tizenkettöö ~ tizenkeet,Phonemic
+13-101-131-1,hung1274,Hungarian,1706,tizenegy,Standard,eleven,,,tizenedʸ,Phonemic
+13-100-131-1,hung1274,Hungarian,1515,tíz ~ tize-,Standard,ten,,,tiiz ~ tize-,Phonemic
+13-90-131-1,hung1274,Hungarian,1483,kilenc,Standard,nine,,,kilenc̷,Phonemic
+13-80-131-1,hung1274,Hungarian,1705,nyolc,Standard,eight,,,ɲolc̷,Phonemic
+13-70-131-1,hung1274,Hungarian,1704,hét ~ hete-,Standard,seven,,,heet ~ hete-,Phonemic
+13-60-131-1,hung1274,Hungarian,1703,hat,Standard,six,,,hat,Phonemic
+13-50-131-1,hung1274,Hungarian,493,öt,Standard,five,,,öt,Phonemic
+13-40-131-1,hung1274,Hungarian,1500,négy,Standard,four,,,needʸ,Phonemic
+13-20-131-1,hung1274,Hungarian,1498,kettő ~ két,Standard,two,,,kettöö ~ keet,Phonemic
+13-30-131-1,hung1274,Hungarian,492,három ~ hárma-,Standard,three,,,haarom ~ haarma-,Phonemic
+13-10-131-1,hung1274,Hungarian,1493,egy,Standard,one,,,edʸ,Phonemic
+13-0-131-1,hung1274,Hungarian,1294,nulla,Standard,"zero, nothing",,,nulla; šemmi,Phonemic
+13-0-131-3,hung1274,Hungarian,1294,semmi,Standard,"zero, nothing",,,nulla; šemmi,Phonemic
+12-930-131-1,hung1274,Hungarian,1264,változás,Standard,change,,,waaltozaaš; waalt,Phonemic
+12-930-131-3,hung1274,Hungarian,1264,vált,Standard,change,,,waaltozaaš; waalt,Phonemic
+12-920-131-1,hung1274,Hungarian,1558,ugyanolyan,Standard,"like, similar",,,udʸanolʸan; hašonloo,Phonemic
+12-920-131-3,hung1274,Hungarian,1558,hasonló,Standard,"like, similar",,,udʸanolʸan; hašonloo,Phonemic
+12-840-131-1,hung1274,Hungarian,1048,vonal,Standard,line,,,wonal,Phonemic
+12-850-131-1,hung1274,Hungarian,1667,lyuk,Standard,hole,,,lʸuk; reeš,Phonemic
+12-850-131-3,hung1274,Hungarian,1667,rés,Standard,hole,,,lʸuk; reeš,Phonemic
+12-830-131-1,hung1274,Hungarian,1845,labda,Standard,"sphere, ball",,,labda,Phonemic
+12-810-131-1,hung1274,Hungarian,1395,kerek,Standard,round,,,kerek,Phonemic
+12-820-131-1,hung1274,Hungarian,1467,kör,Standard,circle,,,kör,Phonemic
+12-780-131-1,hung1274,Hungarian,850,négyzet,Standard,square,,,needʸzet,Phonemic
+12-770-131-1,hung1274,Hungarian,1367,kereszt,Standard,cross,,,kerest,Phonemic
+12-760-131-1,hung1274,Hungarian,192,sarok,Standard,corner,,,šarok,Phonemic
+12-750-131-1,hung1274,Hungarian,1071,kampó,Standard,hook,,,kampoo,Phonemic
+12-740-131-1,hung1274,Hungarian,297,görbe,Standard,crooked,,,görbe; ferde,Phonemic
+12-740-131-3,hung1274,Hungarian,297,ferde,Standard,crooked,,,görbe; ferde,Phonemic
+12-730-131-1,hung1274,Hungarian,1404,egyenes,Standard,straight,,,edʸeneš,Phonemic
+12-710-131-1,hung1274,Hungarian,1633,sík ~ sima,Standard,flat,,,šiik ~ šima,Phonemic
+12-680-131-1,hung1274,Hungarian,193,apró,Standard,shallow,,,aproo,Phonemic
+12-670-131-1,hung1274,Hungarian,1593,mély,Standard,deep,,,meelʸ,Phonemic
+12-650-131-1,hung1274,Hungarian,2249,vékony,Standard,thin (in dimension),,,weekoɲ,Phonemic
+12-630-131-1,hung1274,Hungarian,1244,vastag,Standard,thick (in dimension),,,waštag,Phonemic
+12-620-131-1,hung1274,Hungarian,1267,szűk,Standard,narrow,,,süük; keškeɲ,Phonemic
+12-620-131-3,hung1274,Hungarian,1267,keskeny,Standard,narrow,,,süük; keškeɲ,Phonemic
+12-610-131-1,hung1274,Hungarian,1243,széles,Standard,"wide, broad",,,seeleš,Phonemic
+12-590-131-1,hung1274,Hungarian,1645,rövid,Standard,short,,,röwid,Phonemic
+12-580-131-1,hung1274,Hungarian,711,magas,Standard,tall,,,magaš,Phonemic
+12-570-131-1,hung1274,Hungarian,1203,hoszszú,Standard,long,,,hossuu,Phonemic
+12-560-131-1,hung1274,Hungarian,1246,kis ~ kiczi,Standard,"small, little",,,kiš ~ kiči,Phonemic
+12-550-131-1,hung1274,Hungarian,1202,nagy,Standard,"large, big",,,nadʸ,Phonemic
+12-541-131-1,hung1274,Hungarian,81,arasz,Standard,"span, fathom",,,aras; saažeɲ,Phonemic
+12-541-131-3,hung1274,Hungarian,81,százseny,Standard,"span, fathom",,,aras; saažeɲ,Phonemic
+12-540-131-1,hung1274,Hungarian,1506,mér,Standard,measure,,,meer,Phonemic
+12-530-131-1,hung1274,Hungarian,479,nő,Standard,grow,,,nöö,Phonemic
+12-480-131-1,hung1274,Hungarian,1595,dél,Standard,south,,,deel,Phonemic
+12-470-131-1,hung1274,Hungarian,1598,észak,Standard,north,,,eesak,Phonemic
+12-460-131-1,hung1274,Hungarian,1817,nyugat,Standard,west,,,ɲugat,Phonemic
+12-450-131-1,hung1274,Hungarian,1877,kelet,Standard,east,,,kelet,Phonemic
+12-430-131-1,hung1274,Hungarian,1942,közel(ben),Standard,near (adv),,,közel(ben),Phonemic
+12-440-131-1,hung1274,Hungarian,1406,meszsze,Standard,far (adv),,,messe; taawol,Phonemic
+12-440-131-3,hung1274,Hungarian,1406,távol,Standard,far (adv),,,messe; taawol,Phonemic
+12-420-131-1,hung1274,Hungarian,244,bal,Standard,left (side),,,bal,Phonemic
+12-410-131-1,hung1274,Hungarian,1019,yobb,Standard,right (side),,,yobb,Phonemic
+12-370-131-1,hung1274,Hungarian,1093,középső,Standard,"middle, center",,,közeepšöö; központ,Phonemic
+12-370-131-3,hung1274,Hungarian,1093,központ,Standard,"middle, center",,,közeepšöö; központ,Phonemic
+12-360-131-1,hung1274,Hungarian,682,oldal,Standard,side,,,oldal,Phonemic
+12-353-131-1,hung1274,Hungarian,863,hegy,Standard,edge,,,hedʸ; eele,Phonemic
+12-353-131-3,hung1274,Hungarian,863,éle,Standard,edge,,,hedʸ; eele,Phonemic
+12-352-131-1,hung1274,Hungarian,372,éles,Standard,pointed,,,eeleš,Phonemic
+12-350-131-1,hung1274,Hungarian,742,vég,Standard,end,,,weeg,Phonemic
+12-340-131-1,hung1274,Hungarian,690,fenék,Standard,bottom,,,feneek,Phonemic
+12-320-131-1,hung1274,Hungarian,721,alaczony,Standard,low,,,alačoɲ,Phonemic
+12-330-131-1,hung1274,Hungarian,1753,czúcz,Standard,top,,,čuuč; tetöö(pont),Phonemic
+12-330-131-3,hung1274,Hungarian,1753,tető(pont),Standard,top,,,čuuč; tetöö(pont),Phonemic
+12-310-131-1,hung1274,Hungarian,1265,magas,Standard,high,,,magaš,Phonemic
+12-270-131-1,hung1274,Hungarian,602,reyteget,Standard,"hide, conceal",,,reyteget; fed,Phonemic
+12-270-131-3,hung1274,Hungarian,602,fed,Standard,"hide, conceal",,,reyteget; fed,Phonemic
+12-250-131-1,hung1274,Hungarian,1046,zár,Standard,"shut, close",,,zaar; čuk,Phonemic
+12-250-131-3,hung1274,Hungarian,1046,czuk,Standard,"shut, close",,,zaar; čuk,Phonemic
+12-260-131-1,hung1274,Hungarian,761,befed,Standard,cover,,,befed; bewon,Phonemic
+12-260-131-3,hung1274,Hungarian,761,bevon,Standard,cover,,,befed; bewon,Phonemic
+12-240-131-1,hung1274,Hungarian,1156,nyit ~ megnyit,Standard,open,,,ɲit ~ megɲit,Phonemic
+12-232-131-1,hung1274,Hungarian,1119,eloszt,Standard,divide,,,elost,Phonemic
+12-230-131-1,hung1274,Hungarian,1359,elválaszt,Standard,separate,,,elwaalast,Phonemic
+12-220-131-1,hung1274,Hungarian,1743,egyesül,Standard,"join, unite",,,edʸešül; dʸüül,Phonemic
+12-220-131-3,hung1274,Hungarian,1743,gyűl,Standard,"join, unite",,,edʸešül; dʸüül,Phonemic
+12-213-131-1,hung1274,Hungarian,1576,(fel)halmoz,Standard,pile up,,,(fel)halmoz,Phonemic
+12-212-131-1,hung1274,Hungarian,371,emel,Standard,pick up,,,emel,Phonemic
+12-210-131-1,hung1274,Hungarian,7,(öszsze)gyűyt,Standard,"collect, gather",,,(össe)dʸüüyt; (össe)sed,Phonemic
+12-210-131-3,hung1274,Hungarian,7,(öszsze)szed,Standard,"collect, gather",,,(össe)dʸüüyt; (össe)sed,Phonemic
+12-170-131-1,hung1274,Hungarian,838,maradékek,Standard,"remains, left overs",,,maradeekek,Phonemic
+12-160-131-1,hung1274,Hungarian,987,marad,Standard,"remain, stay",,,marad,Phonemic
+12-150-131-1,hung1274,Hungarian,1442,áll,Standard,stand,,,aall,Phonemic
+12-140-131-1,hung1274,Hungarian,215,fekszik,Standard,lie down,,,feksik,Phonemic
+12-130-131-1,hung1274,Hungarian,1416,ül,Standard,sit,,,ül,Phonemic
+12-120-131-1,hung1274,Hungarian,998,tesz,Standard,put,,,tes; helʸez,Phonemic
+12-120-131-3,hung1274,Hungarian,998,helyez,Standard,put,,,tes; helʸez,Phonemic
+12-110-131-1,hung1274,Hungarian,723,hely,Standard,place,,,helʸ; teer,Phonemic
+12-110-131-3,hung1274,Hungarian,723,tér,Standard,place,,,helʸ; teer,Phonemic
+12-80-131-1,hung1274,Hungarian,1591,fel ~ felett,Standard,"up, above",,,fel ~ felett,Phonemic
+12-70-131-1,hung1274,Hungarian,1485,alul,Standard,under,,Respectively: situation; moving to.,alul; alatt; alaa,Phonemic
+12-70-131-3,hung1274,Hungarian,1485,alatt,Standard,under,,Respectively: situation; moving to.,alul; alatt; alaa,Phonemic
+12-70-131-5,hung1274,Hungarian,1485,alá,Standard,under,,Respectively: situation; moving to.,alul; alatt; alaa,Phonemic
+12-60-131-1,hung1274,Hungarian,762,kívül,Standard,outside,,,kiiwül,Phonemic
+12-50-131-1,hung1274,Hungarian,1606,bent ~ belseyében,Standard,"inside, in",,,bent ~ belšeyeeben,Phonemic
+12-41-131-1,hung1274,Hungarian,1883,előtt,Standard,front,,"Respectively: postposition 'in front of'; 'facade'; adjective 'front, first'.",elöött; homlokzat; elšöö,Phonemic
+12-41-131-3,hung1274,Hungarian,1883,homlokzat,Standard,front,,"Respectively: postposition 'in front of'; 'facade'; adjective 'front, first'.",elöött; homlokzat; elšöö,Phonemic
+12-41-131-5,hung1274,Hungarian,1883,első,Standard,front,,"Respectively: postposition 'in front of'; 'facade'; adjective 'front, first'.",elöött; homlokzat; elšöö,Phonemic
+12-40-131-1,hung1274,Hungarian,1882,egykor,Standard,before,,Respectively: adverb; postposition.,edʸkor; elöött,Phonemic
+12-40-131-3,hung1274,Hungarian,1882,előtt,Standard,before,,Respectively: adverb; postposition.,edʸkor; elöött,Phonemic
+12-30-131-1,hung1274,Hungarian,2094,alá le,Standard,"down, below",,Respectively: moving to; situation.,alaa le; alatt,Phonemic
+12-30-131-3,hung1274,Hungarian,2094,alatt,Standard,"down, below",,Respectively: moving to; situation.,alaa le; alatt,Phonemic
+12-20-131-1,hung1274,Hungarian,1816,mellett,Standard,beside,,,mellett,Phonemic
+12-11-131-1,hung1274,Hungarian,1686,mögött,Standard,behind,,,mögött,Phonemic
+12-10-131-1,hung1274,Hungarian,1685,után,Standard,after,,,utaan,Phonemic
+11-920-131-1,hung1274,Hungarian,1098,nyom,Standard,weigh,,,ɲom; megmeer,Phonemic
+11-920-131-3,hung1274,Hungarian,1098,megmér,Standard,weigh,,,ɲom; megmeer,Phonemic
+11-910-131-1,hung1274,Hungarian,884,eloszt,Standard,share (distribute),,,elost,Phonemic
+11-890-131-1,hung1274,Hungarian,1887,olczó,Standard,cheap,,,olčoo,Phonemic
+11-880-131-1,hung1274,Hungarian,1426,drága,Standard,"dear (costly, expensive)",,,draaga,Phonemic
+11-870-131-1,hung1274,Hungarian,657,ár,Standard,price,,,aar,Phonemic
+11-860-131-1,hung1274,Hungarian,752,bolt,Standard,"store, shop",,,bolt; kereškedeeš; üzlet,Phonemic
+11-860-131-3,hung1274,Hungarian,752,kereskedés,Standard,"store, shop",,,bolt; kereškedeeš; üzlet,Phonemic
+11-860-131-5,hung1274,Hungarian,752,üzlet,Standard,"store, shop",,,bolt; kereškedeeš; üzlet,Phonemic
+11-850-131-1,hung1274,Hungarian,633,vásár,Standard,market (place),,,waašaar; piac̷,Phonemic
+11-850-131-3,hung1274,Hungarian,633,piac,Standard,market (place),,,waašaar; piac̷,Phonemic
+11-840-131-1,hung1274,Hungarian,1082,kereskedő,Standard,merchant,,,kereškedöö,Phonemic
+11-830-131-1,hung1274,Hungarian,2135,kereskedik,Standard,"trade, barter",,,kereškedik,Phonemic
+11-820-131-1,hung1274,Hungarian,1571,elad,Standard,sell,,,elad,Phonemic
+11-810-131-1,hung1274,Hungarian,1869,vásárol,Standard,buy,,,waašaarol,Phonemic
+11-790-131-1,hung1274,Hungarian,733,keres,Standard,earn,,,kereš,Phonemic
+11-780-131-1,hung1274,Hungarian,1122,fizetés,Standard,wages,,,fizeteeš; beer,Phonemic
+11-780-131-3,hung1274,Hungarian,1122,bér,Standard,wages,,,fizeteeš; beer,Phonemic
+11-770-131-1,hung1274,Hungarian,856,kibérel,Standard,hire,,,kibeerel; felfogad,Phonemic
+11-770-131-3,hung1274,Hungarian,856,felfogad,Standard,hire,,,kibeerel; felfogad,Phonemic
+11-690-131-1,hung1274,Hungarian,873,fizetés,Standard,"tax, tribute",,,fizeteeš; diiy,Phonemic
+11-690-131-3,hung1274,Hungarian,873,díy,Standard,"tax, tribute",,,fizeteeš; diiy,Phonemic
+11-660-131-1,hung1274,Hungarian,1081,számla ~ számítás,Standard,"account, reckoning",,,saamla ~ saamiitaaš,Phonemic
+11-650-131-1,hung1274,Hungarian,718,fizet,Standard,pay (vb),,,fizet,Phonemic
+11-640-131-1,hung1274,Hungarian,1914,adósság,Standard,debt,,,adooššaag,Phonemic
+11-630-131-1,hung1274,Hungarian,369,tartozik,Standard,owe,,,tartozik,Phonemic
+11-620-131-1,hung1274,Hungarian,1823,elfolgal,Standard,borrow,,,elfolgal,Phonemic
+11-610-131-1,hung1274,Hungarian,582,ítél,Standard,lend,,,iiteel,Phonemic
+11-540-131-1,hung1274,Hungarian,1774,önző,Standard,"avaricious, stingy",,,önzöö; kapži,Phonemic
+11-540-131-3,hung1274,Hungarian,1774,kapzsi,Standard,"avaricious, stingy",,,önzöö; kapži,Phonemic
+11-530-131-1,hung1274,Hungarian,1934,koldus,Standard,beggar,,,kolduš,Phonemic
+11-520-131-1,hung1274,Hungarian,1674,szegény,Standard,poor,,,segeeɲ,Phonemic
+11-510-131-1,hung1274,Hungarian,712,gazdag,Standard,rich,,,gazdag,Phonemic
+11-440-131-1,hung1274,Hungarian,1867,ércpénz ~ pénzarab,Standard,coin,,,eerc̷peenz ~ peenzarab,Phonemic
+11-430-131-1,hung1274,Hungarian,1559,pénz,Standard,money,,,peenz,Phonemic
+11-340-131-1,hung1274,Hungarian,1095,elereszt,Standard,"release, let go",,,elerest,Phonemic
+11-330-131-1,hung1274,Hungarian,1660,elveszít ~ veszít,Standard,lose,,,elwesiit ~ wesiit,Phonemic
+11-320-131-1,hung1274,Hungarian,719,(meg)talál,Standard,find,,,(meg)talaal,Phonemic
+11-310-131-1,hung1274,Hungarian,1468,keres,Standard,"seek, look for",,,kereš,Phonemic
+11-280-131-1,hung1274,Hungarian,44,árt,Standard,"harm, injure, damage",,,aart,Phonemic
+11-270-131-1,hung1274,Hungarian,681,elpusztít,Standard,destroy,,,elpustiit; tönkretes,Phonemic
+11-270-131-3,hung1274,Hungarian,681,tönkretesz,Standard,destroy,,,elpustiit; tönkretes,Phonemic
+11-250-131-1,hung1274,Hungarian,2008,óv,Standard,"save, rescue",,,oow; weed,Phonemic
+11-250-131-3,hung1274,Hungarian,2008,véd,Standard,"save, rescue",,,oow; weed,Phonemic
+11-240-131-1,hung1274,Hungarian,1997,őriz ~ megőriz,Standard,"preserve, look after",,,ööriz ~ megööriz,Phonemic
+11-220-131-1,hung1274,Hungarian,85,viszszád,Standard,give back,,,wissaad,Phonemic
+11-210-131-1,hung1274,Hungarian,1447,ad,Standard,give,,,ad; yuttat,Phonemic
+11-210-131-3,hung1274,Hungarian,1447,yuttat,Standard,give,,,ad; yuttat,Phonemic
+11-180-131-1,hung1274,Hungarian,738,ügy,Standard,thing,,,üdʸ; dolog; ešet,Phonemic
+11-180-131-3,hung1274,Hungarian,738,dolog,Standard,thing,,,üdʸ; dolog; ešet,Phonemic
+11-180-131-5,hung1274,Hungarian,738,eset,Standard,thing,,,üdʸ; dolog; ešet,Phonemic
+11-170-131-1,hung1274,Hungarian,1477,gondoz,Standard,"keep, retain",,,gondoz; tart; rendelkezik,Phonemic
+11-170-131-3,hung1274,Hungarian,1477,tart,Standard,"keep, retain",,,gondoz; tart; rendelkezik,Phonemic
+11-170-131-5,hung1274,Hungarian,1477,rendelkezik,Standard,"keep, retain",,,gondoz; tart; rendelkezik,Phonemic
+11-160-131-1,hung1274,Hungarian,694,megkap ~ kap,Standard,"get, obtain",,,megkap ~ kap,Phonemic
+11-150-131-1,hung1274,Hungarian,1448,tart,Standard,hold,,,tart,Phonemic
+11-140-131-1,hung1274,Hungarian,2021,elegendő,Standard,"seize, grasp",,,elegendöö,Phonemic
+11-130-131-1,hung1274,Hungarian,1749,vesz,Standard,take,,,wes,Phonemic
+11-120-131-1,hung1274,Hungarian,684,birtokol,Standard,"own, possess",,,birtokol,Phonemic
+11-110-131-1,hung1274,Hungarian,773,van,Standard,have,,nekem wan 'I have'; walakinek wan 'somebody has'.,wan,Phonemic
+10-920-131-1,hung1274,Hungarian,1922,kiszáll ~ leszáll,Standard,land (vb),,,kisaall ~ lesaall,Phonemic
+10-910-131-1,hung1274,Hungarian,610,kikötő,Standard,"harbor, port",,,kikötöö,Phonemic
+10-890-131-1,hung1274,Hungarian,1870,horgony,Standard,anchor,,,horgoɲ,Phonemic
+10-880-131-1,hung1274,Hungarian,786,vitorla,Standard,sail (noun),,,witorla,Phonemic
+10-870-131-1,hung1274,Hungarian,184,árboc,Standard,mast,,,aarboc̷,Phonemic
+10-860-131-1,hung1274,Hungarian,108,kormány,Standard,rudder,,,kormaaɲ,Phonemic
+10-852-131-1,hung1274,Hungarian,1849,evez,Standard,row (vb),,,ewez,Phonemic
+10-851-131-1,hung1274,Hungarian,234,evező,Standard,paddle (noun),,,ewezöö,Phonemic
+10-850-131-1,hung1274,Hungarian,108,evező,Standard,oar,,,ewezöö,Phonemic
+10-840-131-1,hung1274,Hungarian,1664,tutay,Standard,raft,,,tutay,Phonemic
+10-832-131-1,hung1274,Hungarian,416,inga,Standard,outrigger,,,inga,Phonemic
+10-831-131-1,hung1274,Hungarian,1970,kayak,Standard,canoe,,,kayak; kenu,Phonemic
+10-831-131-3,hung1274,Hungarian,1970,kenu,Standard,canoe,,,kayak; kenu,Phonemic
+10-830-131-1,hung1274,Hungarian,1844,czónak,Standard,boat,,,čoonak,Phonemic
+10-810-131-1,hung1274,Hungarian,740,hayó,Standard,ship,,,hayoo,Phonemic
+10-780-131-1,hung1274,Hungarian,14,yárom,Standard,yoke,,,yaarom; iga,Phonemic
+10-780-131-3,hung1274,Hungarian,14,iga,Standard,yoke,,,yaarom; iga,Phonemic
+10-770-131-1,hung1274,Hungarian,1769,tengely,Standard,axle,,,tengelʸ,Phonemic
+10-760-131-1,hung1274,Hungarian,710,kerék,Standard,wheel,,,kereek,Phonemic
+10-750-131-1,hung1274,Hungarian,122,koczi,Standard,"carriage, wagon, cart",,,koči; hintoo; wagon,Phonemic
+10-750-131-3,hung1274,Hungarian,122,hintó,Standard,"carriage, wagon, cart",,,koči; hintoo; wagon,Phonemic
+10-750-131-5,hung1274,Hungarian,122,vagon,Standard,"carriage, wagon, cart",,,koči; hintoo; wagon,Phonemic
+10-740-131-1,hung1274,Hungarian,1011,híd,Standard,bridge,,,hiid,Phonemic
+10-720-131-1,hung1274,Hungarian,2252,út,Standard,path,,,uut; öšweeɲ,Phonemic
+10-720-131-3,hung1274,Hungarian,2252,ösvény,Standard,path,,,uut; öšweeɲ,Phonemic
+10-710-131-1,hung1274,Hungarian,667,út,Standard,road,,,uut,Phonemic
+10-670-131-1,hung1274,Hungarian,1452,(el)halaszt,Standard,"push, shove",,,(el)halast; lök,Phonemic
+10-670-131-3,hung1274,Hungarian,1452,lök,Standard,"push, shove",,,(el)halast; lök,Phonemic
+10-660-131-1,hung1274,Hungarian,367,lovagol,Standard,ride,,,lowagol,Phonemic
+10-650-131-1,hung1274,Hungarian,741,vezet,Standard,drive,,,wezet; hayt,Phonemic
+10-650-131-3,hung1274,Hungarian,741,hayt,Standard,drive,,,wezet; hayt,Phonemic
+10-640-131-1,hung1274,Hungarian,43,vezet,Standard,lead (vb),,,wezet,Phonemic
+10-630-131-1,hung1274,Hungarian,1127,küld,Standard,send,,,küld,Phonemic
+10-620-131-1,hung1274,Hungarian,692,hoz,Standard,bring,,,hoz,Phonemic
+10-615-131-1,hung1274,Hungarian,415,a hóna alatt visz,Standard,carry-underarm,,,a hoona alatt wis,Phonemic
+10-614-131-1,hung1274,Hungarian,414,a feyén visz,Standard,carry-on-head,,,a feyeen wis,Phonemic
+10-613-131-1,hung1274,Hungarian,413,vállon visz,Standard,carry-on-shoulder,,,waallon wis,Phonemic
+10-612-131-1,hung1274,Hungarian,412,kézben visz,Standard,carry-in-hand,,,keezben wis,Phonemic
+10-610-131-1,hung1274,Hungarian,700,hord,Standard,carry (bear),,,hord,Phonemic
+10-570-131-1,hung1274,Hungarian,749,beyön,Standard,enter,,,beyön; bemedʸ,Phonemic
+10-570-131-3,hung1274,Hungarian,749,bemegy,Standard,enter,,,beyön; bemedʸ,Phonemic
+10-560-131-1,hung1274,Hungarian,1778,közeledik ~ közeleg,Standard,approach,,,közeledik ~ közeleg,Phonemic
+10-550-131-1,hung1274,Hungarian,1387,érkezik,Standard,"reach, arrive",,,eerkezik; yön,Phonemic
+10-550-131-3,hung1274,Hungarian,1387,yön,Standard,"reach, arrive",,,eerkezik; yön,Phonemic
+10-530-131-1,hung1274,Hungarian,1047,üldöz,Standard,pursue,,,üldöz,Phonemic
+10-520-131-1,hung1274,Hungarian,1085,követ,Standard,follow,,,köwet,Phonemic
+10-510-131-1,hung1274,Hungarian,956,(el)menekül,Standard,flee,,,(el)menekül; elfüt,Phonemic
+10-510-131-3,hung1274,Hungarian,956,elfüt,Standard,flee,,,(el)menekül; elfüt,Phonemic
+10-491-131-1,hung1274,Hungarian,485,eltűnik,Standard,disappear,,,eltüünik,Phonemic
+10-490-131-1,hung1274,Hungarian,1752,elmegy,Standard,"go away, depart",,,elmedʸ; eltaawozik,Phonemic
+10-490-131-3,hung1274,Hungarian,1752,eltávozik,Standard,"go away, depart",,,elmedʸ; eltaawozik,Phonemic
+10-481-131-1,hung1274,Hungarian,581,viszszatér,Standard,come back,,,wissateer; megyön,Phonemic
+10-481-131-3,hung1274,Hungarian,581,megyön,Standard,come back,,,wissateer; megyön,Phonemic
+10-480-131-1,hung1274,Hungarian,1446,yön,Standard,come,,,yön; medʸ; kerül,Phonemic
+10-480-131-3,hung1274,Hungarian,1446,megy,Standard,come,,,yön; medʸ; kerül,Phonemic
+10-480-131-5,hung1274,Hungarian,1446,kerül,Standard,come,,,yön; medʸ; kerül,Phonemic
+10-474-131-1,hung1274,Hungarian,1107,kimegy,Standard,go out,,,kimedʸ,Phonemic
+10-473-131-1,hung1274,Hungarian,2014,alá/ lemegy,Standard,go down,,,alaa/ lemedʸ,Phonemic
+10-472-131-1,hung1274,Hungarian,1102,(fel)mászik,Standard,climb,,,(fel)maasik,Phonemic
+10-470-131-1,hung1274,Hungarian,695,megy,Standard,go,,,medʸ; les,Phonemic
+10-470-131-3,hung1274,Hungarian,695,lesz,Standard,go,,,medʸ; les,Phonemic
+10-471-131-1,hung1274,Hungarian,705,felkel ~ feláll,Standard,go up,,,felkel ~ felaall,Phonemic
+10-460-131-1,hung1274,Hungarian,1519,fut,Standard,run,,,fut; salad,Phonemic
+10-460-131-3,hung1274,Hungarian,1519,szalad,Standard,run,,,fut; salad,Phonemic
+10-451-131-1,hung1274,Hungarian,366,sántít,Standard,limp,,,šaantiit,Phonemic
+10-450-131-1,hung1274,Hungarian,1443,sétál,Standard,walk,,,šeetaal; medʸ,Phonemic
+10-450-131-3,hung1274,Hungarian,1443,megy,Standard,walk,,,šeetaal; medʸ,Phonemic
+10-440-131-1,hung1274,Hungarian,1879,tancól,Standard,dance,,,tanc̷ool,Phonemic
+10-431-131-1,hung1274,Hungarian,1135,rúg,Standard,kick,,,ruug,Phonemic
+10-430-131-1,hung1274,Hungarian,1829,ugrik,Standard,"jump, leap",,,ugrik,Phonemic
+10-420-131-1,hung1274,Hungarian,1324,besurran,Standard,"slide, slip",,,bešurran,Phonemic
+10-413-131-1,hung1274,Hungarian,296,(le)guggol,Standard,crouch,,,(le)guggol,Phonemic
+10-412-131-1,hung1274,Hungarian,66,letérdel ~ térdepel,Standard,kneel,,,leteerdel ~ teerdepel,Phonemic
+10-410-131-1,hung1274,Hungarian,96,mászik,Standard,"creep, crawl",,,maasik; kuusik,Phonemic
+10-410-131-3,hung1274,Hungarian,96,kúszik,Standard,"creep, crawl",,,maasik; kuusik,Phonemic
+10-380-131-1,hung1274,Hungarian,175,fúy,Standard,blow,,,fuuy,Phonemic
+10-370-131-1,hung1274,Hungarian,1441,repül,Standard,fly (vb),,,repül,Phonemic
+10-360-131-1,hung1274,Hungarian,787,hayózik,Standard,sail (vb),,,hayoozik,Phonemic
+10-352-131-1,hung1274,Hungarian,365,fröczköl,Standard,splash,,,fröčköl,Phonemic
+10-351-131-1,hung1274,Hungarian,119,(alá)merül ~ bemerül,Standard,dive,,,(alaa)merül ~ bemerül,Phonemic
+10-350-131-1,hung1274,Hungarian,1439,úszik,Standard,swim,,,uusik,Phonemic
+10-340-131-1,hung1274,Hungarian,1574,úszik,Standard,float,,,uusik; fürdik,Phonemic
+10-340-131-3,hung1274,Hungarian,1574,fürdik,Standard,float,,,uusik; fürdik,Phonemic
+10-330-131-1,hung1274,Hungarian,1088,befűt,Standard,sink,,,befüüt,Phonemic
+10-320-131-1,hung1274,Hungarian,2003,folyik,Standard,flow,,,folʸik; ömlik,Phonemic
+10-320-131-3,hung1274,Hungarian,2003,ömlik,Standard,flow,,,folʸik; ömlik,Phonemic
+10-260-131-1,hung1274,Hungarian,1909,ráz,Standard,shake,,,raaz,Phonemic
+10-252-131-1,hung1274,Hungarian,702,igyekszik,Standard,catch (ball),,,idʸeksik; haysol,Phonemic
+10-252-131-3,hung1274,Hungarian,702,hayszol,Standard,catch (ball),,,idʸeksik; haysol,Phonemic
+10-250-131-1,hung1274,Hungarian,1456,dob,Standard,throw,,,dob; wet,Phonemic
+10-250-131-3,hung1274,Hungarian,1456,vet,Standard,throw,,,dob; wet,Phonemic
+10-240-131-1,hung1274,Hungarian,2253,czepereg,Standard,drip,,,čepereg,Phonemic
+10-230-131-1,hung1274,Hungarian,1280,esik,Standard,fall,,,ešik,Phonemic
+10-220-131-1,hung1274,Hungarian,501,emel,Standard,"raise, lift",,,emel,Phonemic
+10-210-131-1,hung1274,Hungarian,568,(fel)száll,Standard,rise,,,(fel)saall; felkel,Phonemic
+10-210-131-3,hung1274,Hungarian,568,felkel,Standard,rise,,,(fel)saall; felkel,Phonemic
+10-170-131-1,hung1274,Hungarian,430,elfordit,Standard,twist,,,elfordit; šodor; (fel)kawar,Phonemic
+10-170-131-3,hung1274,Hungarian,430,sodor,Standard,twist,,,elfordit; šodor; (fel)kawar,Phonemic
+10-170-131-5,hung1274,Hungarian,430,(fel)kavar,Standard,twist,,,elfordit; šodor; (fel)kawar,Phonemic
+10-160-131-1,hung1274,Hungarian,808,luyt,Standard,drop (vb),,,luyt,Phonemic
+10-150-131-1,hung1274,Hungarian,827,felczavar,Standard,roll,,,felčawar; gördül,Phonemic
+10-150-131-3,hung1274,Hungarian,827,gördül,Standard,roll,,,felčawar; gördül,Phonemic
+10-140-131-1,hung1274,Hungarian,1113,czavar,Standard,"wind, wrap",,,čawar; šodor; fon; bečawar,Phonemic
+10-140-131-3,hung1274,Hungarian,1113,sodor,Standard,"wind, wrap",,,čawar; šodor; fon; bečawar,Phonemic
+10-140-131-5,hung1274,Hungarian,1113,fon,Standard,"wind, wrap",,,čawar; šodor; fon; bečawar,Phonemic
+10-140-131-7,hung1274,Hungarian,1113,beczavar,Standard,"wind, wrap",,,čawar; šodor; fon; bečawar,Phonemic
+10-130-131-1,hung1274,Hungarian,1445,megfordít,Standard,turn around,,,megfordiit,Phonemic
+10-120-131-1,hung1274,Hungarian,1588,(meg)fordul,Standard,turn over,,,(meg)fordul; felboriit,Phonemic
+10-120-131-3,hung1274,Hungarian,1588,felborít,Standard,turn over,,,(meg)fordul; felboriit,Phonemic
+10-110-131-1,hung1274,Hungarian,765,mozdít ~ mozgat,Standard,move,,,mozdiit ~ mozgat,Phonemic
+9-890-131-1,hung1274,Hungarian,2001,fest,Standard,paint (vb),,,fešt; maazol,Phonemic
+9-890-131-3,hung1274,Hungarian,2001,mázol,Standard,paint (vb),,,fešt; maazol,Phonemic
+9-840-131-1,hung1274,Hungarian,1979,véső,Standard,chisel,,,weešöö,Phonemic
+9-880-131-1,hung1274,Hungarian,647,szín,Standard,paint (noun),,,siin; fešteek,Phonemic
+9-880-131-3,hung1274,Hungarian,647,festék,Standard,paint (noun),,,siin; fešteek,Phonemic
+9-830-131-1,hung1274,Hungarian,1002,szobor,Standard,statue,,,sobor,Phonemic
+9-820-131-1,hung1274,Hungarian,914,szobrász,Standard,sculptor,,,sobraas,Phonemic
+9-810-131-1,hung1274,Hungarian,228,farag,Standard,carve,,,farag,Phonemic
+9-791-131-1,hung1274,Hungarian,360,fúy,Standard,fan (vb),,,fuuy,Phonemic
+9-790-131-1,hung1274,Hungarian,1971,legyező,Standard,fan (noun),,,ledʸezöö,Phonemic
+9-780-131-1,hung1274,Hungarian,293,háló,Standard,netbag,,,haaloo,Phonemic
+9-771-131-1,hung1274,Hungarian,292,szőnyeg,Standard,rug,,,sööɲeg,Phonemic
+9-770-131-1,hung1274,Hungarian,195,gyékény,Standard,mat,,,dʸeekeeɲ,Phonemic
+9-760-131-1,hung1274,Hungarian,1539,kosár,Standard,basket,,,košaar,Phonemic
+9-750-131-1,hung1274,Hungarian,1729,fon,Standard,"weave, plait",,,fon,Phonemic
+9-740-131-1,hung1274,Hungarian,604,üveg,Standard,glass,,,üweg,Phonemic
+9-730-131-1,hung1274,Hungarian,1399,agyag,Standard,clay,,,adʸag,Phonemic
+9-720-131-1,hung1274,Hungarian,289,formál,Standard,mold (clay etc),,,formaal; mintaaz,Phonemic
+9-720-131-3,hung1274,Hungarian,289,mintáz,Standard,mold (clay etc),,,formaal; mintaaz,Phonemic
+9-710-131-1,hung1274,Hungarian,359,fazekas,Standard,potter,,,fazekaš,Phonemic
+9-690-131-1,hung1274,Hungarian,358,ón,Standard,"tin, tinplate",,,oon,Phonemic
+9-680-131-1,hung1274,Hungarian,627,ólom,Standard,lead (noun),,,oolom,Phonemic
+9-670-131-1,hung1274,Hungarian,621,vas,Standard,iron,,,waš,Phonemic
+9-660-131-1,hung1274,Hungarian,1825,vörösréz,Standard,"copper, bronze",,,wöröšreez; bronz,Phonemic
+9-660-131-3,hung1274,Hungarian,1825,bronz,Standard,"copper, bronze",,,wöröšreez; bronz,Phonemic
+9-650-131-1,hung1274,Hungarian,759,ezüst,Standard,silver,,,ezüšt,Phonemic
+9-640-131-1,hung1274,Hungarian,1369,arany,Standard,gold,,,araɲ,Phonemic
+9-630-131-1,hung1274,Hungarian,211,önt,Standard,cast (metals),,,önt,Phonemic
+9-620-131-1,hung1274,Hungarian,1648,üllő,Standard,anvil,,,üllöö,Phonemic
+9-610-131-1,hung1274,Hungarian,288,kováczol,Standard,forge,,,kowaačol,Phonemic
+9-600-131-1,hung1274,Hungarian,1001,kovácz,Standard,"smith, blacksmith",,,kowaač,Phonemic
+9-560-131-1,hung1274,Hungarian,1069,ragasztó,Standard,glue,,,ragastoo; eɲw,Phonemic
+9-560-131-3,hung1274,Hungarian,1069,enyv,Standard,glue,,,ragastoo; eɲw,Phonemic
+9-500-131-1,hung1274,Hungarian,502,szeg,Standard,nail,,,seg,Phonemic
+9-490-131-1,hung1274,Hungarian,1481,kalapácz,Standard,hammer,,,kalapaač,Phonemic
+9-480-131-1,hung1274,Hungarian,1948,fűrész,Standard,saw,,,füürees,Phonemic
+9-461-131-1,hung1274,Hungarian,46,(ki)váy,Standard,hollow out,,,(ki)waay; üregeššee tes,Phonemic
+9-461-131-3,hung1274,Hungarian,46,üregessé tesz,Standard,hollow out,,,(ki)waay; üregeššee tes,Phonemic
+9-460-131-1,hung1274,Hungarian,1501,fúr ~ fúródik,Standard,bore,,,fuur ~ fuuroodik,Phonemic
+9-440-131-1,hung1274,Hungarian,1840,épít,Standard,build,,,eepiit,Phonemic
+9-430-131-1,hung1274,Hungarian,1042,ácz,Standard,carpenter,,,aač,Phonemic
+9-422-131-1,hung1274,Hungarian,1361,szerszám,Standard,tool,,,sersaam,Phonemic
+9-380-131-1,hung1274,Hungarian,245,seprű,Standard,broom,,"Respectively: 'broom; gorse, furse'.",šeprüü; rekettʸe,Phonemic
+9-380-131-3,hung1274,Hungarian,245,rekettye,Standard,broom,,"Respectively: 'broom; gorse, furse'.",šeprüü; rekettʸe,Phonemic
+9-360-131-1,hung1274,Hungarian,1453,mos ~ mosdik,Standard,wash,,,moš ~ mošdik,Phonemic
+9-370-131-1,hung1274,Hungarian,230,söpör,Standard,sweep,,,šöpör; elšodor,Phonemic
+9-370-131-3,hung1274,Hungarian,230,elsodor,Standard,sweep,,,šöpör; elšodor,Phonemic
+9-350-131-1,hung1274,Hungarian,1487,önt,Standard,pour,,Respectively: transitive verb; intransitive.,önt; ömlik,Phonemic
+9-350-131-3,hung1274,Hungarian,1487,ömlik,Standard,pour,,Respectively: transitive verb; intransitive.,önt; ömlik,Phonemic
+9-343-131-1,hung1274,Hungarian,1414,saytol,Standard,"squeeze, wring",,,šaytol,Phonemic
+9-342-131-1,hung1274,Hungarian,1913,(meg)nyom,Standard,press,,,(meg)ɲom; (meg)soriit,Phonemic
+9-342-131-3,hung1274,Hungarian,1913,(meg)szorít,Standard,press,,,(meg)ɲom; (meg)soriit,Phonemic
+9-341-131-1,hung1274,Hungarian,357,felakaszt,Standard,hang up,,,felakast,Phonemic
+9-340-131-1,hung1274,Hungarian,38,leterít ~ megterít,Standard,spread out,,,leteriit ~ megteriit,Phonemic
+9-330-131-1,hung1274,Hungarian,1455,húz,Standard,pull,,,huuz,Phonemic
+9-320-131-1,hung1274,Hungarian,214,megnyúyt,Standard,stretch,,,megɲuuyt,Phonemic
+9-310-131-1,hung1274,Hungarian,1449,dörzöl,Standard,"rub, wipe",,,dörzöl,Phonemic
+9-290-131-1,hung1274,Hungarian,291,megnyúz,Standard,"flay, skin",,,megɲuuz; lehaant,Phonemic
+9-290-131-3,hung1274,Hungarian,291,lehánt,Standard,"flay, skin",,,megɲuuz; lehaant,Phonemic
+9-280-131-1,hung1274,Hungarian,1735,tép,Standard,tear,,,teep,Phonemic
+9-270-131-1,hung1274,Hungarian,1437,(el)hasít ~ hasogat,Standard,split,,,(el)hašiit ~ hašogat; felost(a); (el)hašad(a),Phonemic
+9-270-131-3,hung1274,Hungarian,1437,feloszt(a),Standard,split,,,(el)hašiit ~ hašogat; felost(a); (el)hašad(a),Phonemic
+9-270-131-5,hung1274,Hungarian,1437,(el)hasad(a),Standard,split,,,(el)hašiit ~ hašogat; felost(a); (el)hašad(a),Phonemic
+9-261-131-1,hung1274,Hungarian,588,tört ~ törött ~ megtört,Standard,broken,,,tört ~ törött ~ megtört,Phonemic
+9-260-131-1,hung1274,Hungarian,680,(el)tör,Standard,break,,,(el)tör,Phonemic
+9-250-131-1,hung1274,Hungarian,677,balta,Standard,ax,,,balta; feyse,Phonemic
+9-250-131-3,hung1274,Hungarian,677,feysze,Standard,ax,,,balta; feyse,Phonemic
+9-251-131-1,hung1274,Hungarian,290,bárd,Standard,adze,,,baard; feyse; bodnarkeeš,Phonemic
+9-251-131-3,hung1274,Hungarian,290,feysze,Standard,adze,,,baard; feyse; bodnarkeeš,Phonemic
+9-251-131-5,hung1274,Hungarian,290,bodnarkés,Standard,adze,,,baard; feyse; bodnarkeeš,Phonemic
+9-240-131-1,hung1274,Hungarian,356,olló,Standard,"scissors, shears",,,olloo,Phonemic
+9-230-131-1,hung1274,Hungarian,1352,kés,Standard,knife,,,keeš,Phonemic
+9-223-131-1,hung1274,Hungarian,1434,(át)szúr,Standard,stab,,,(aat)suur; megkeešel,Phonemic
+9-223-131-3,hung1274,Hungarian,1434,megkésel,Standard,stab,,,(aat)suur; megkeešel,Phonemic
+9-222-131-1,hung1274,Hungarian,155,hasogat,Standard,"chop, hew",,,hašogat; waag,Phonemic
+9-222-131-3,hung1274,Hungarian,155,vág,Standard,"chop, hew",,,hašogat; waag,Phonemic
+9-221-131-1,hung1274,Hungarian,355,levág,Standard,cut down,,,lewaag,Phonemic
+9-220-131-1,hung1274,Hungarian,1432,(el)vág,Standard,cut,,,(el)waag,Phonemic
+9-211-131-1,hung1274,Hungarian,354,kalapál,Standard,pound with fist,,,kalapaal,Phonemic
+9-210-131-1,hung1274,Hungarian,2133,üt,Standard,"strike (hit, beat)",,,üt; wer; čap,Phonemic
+9-210-131-3,hung1274,Hungarian,2133,ver,Standard,"strike (hit, beat)",,,üt; wer; čap,Phonemic
+9-210-131-5,hung1274,Hungarian,2133,czap,Standard,"strike (hit, beat)",,,üt; wer; čap,Phonemic
+9-192-131-1,hung1274,Hungarian,760,czomo,Standard,knot (noun),,,čomo,Phonemic
+9-190-131-1,hung1274,Hungarian,1218,kötél,Standard,"rope, cord",,,köteel,Phonemic
+9-180-131-1,hung1274,Hungarian,1627,lánc,Standard,chain,,,laanc̷,Phonemic
+9-161-131-1,hung1274,Hungarian,352,kibont,Standard,untie,,,kibont,Phonemic
+9-160-131-1,hung1274,Hungarian,1917,köt,Standard,"tie, bind",,,köt,Phonemic
+9-150-131-1,hung1274,Hungarian,1470,haytogat,Standard,fold,,,haytogat,Phonemic
+9-140-131-1,hung1274,Hungarian,2004,haylít,Standard,bend,,,hayliit,Phonemic
+9-120-131-1,hung1274,Hungarian,984,dolgozik,Standard,work,,,dolgozik,Phonemic
+9-110-131-1,hung1274,Hungarian,2575,tesz,Standard,"do, make",,,tes; činaal; keesiit,Phonemic
+9-110-131-3,hung1274,Hungarian,2575,czinál,Standard,"do, make",,,tes; činaal; keesiit,Phonemic
+9-110-131-5,hung1274,Hungarian,2575,készít,Standard,"do, make",,,tes; činaal; keesiit,Phonemic
+8-980-131-1,hung1274,Hungarian,641,gomba,Standard,mushroom,,,gomba,Phonemic
+8-970-131-1,hung1274,Hungarian,33,czalán,Standard,nettle,,,čalaan,Phonemic
+8-941-131-1,hung1274,Hungarian,146,cukornád,Standard,sugar cane,,,c̷ukornaad,Phonemic
+8-940-131-1,hung1274,Hungarian,1927,bambusz(nád),Standard,bamboo,,,bambus(naad),Phonemic
+8-931-131-1,hung1274,Hungarian,864,tök,Standard,"pumpkin, squash",,,tök,Phonemic
+8-930-131-1,hung1274,Hungarian,411,lopótök,Standard,gourd,,,lopootök,Phonemic
+8-920-131-1,hung1274,Hungarian,925,tapióka,Standard,"tapioca, manioc, cassava",,,tapiooka; maniooka,Phonemic
+8-920-131-3,hung1274,Hungarian,925,manióka,Standard,"tapioca, manioc, cassava",,,tapiooka; maniooka,Phonemic
+8-910-131-1,hung1274,Hungarian,159,batátasz,Standard,sweet potato,,,bataatas,Phonemic
+8-850-131-1,hung1274,Hungarian,346,indiai fügefa,Standard,banyan,,,indiai fügefa,Phonemic
+8-840-131-1,hung1274,Hungarian,868,banán,Standard,banana tree,,,banaan,Phonemic
+8-830-131-1,hung1274,Hungarian,1126,déligyümölcz,Standard,citrus fruit,,,deelidʸümölč; c̷itrušfeeleek,Phonemic
+8-830-131-3,hung1274,Hungarian,1126,citrusfélék,Standard,citrus fruit,,,deelidʸümölč; c̷itrušfeeleek,Phonemic
+8-820-131-1,hung1274,Hungarian,970,kókuszdió,Standard,coconut,,,kookusdioo,Phonemic
+8-810-131-1,hung1274,Hungarian,1181,pálma,Standard,palm tree,,,paalma,Phonemic
+8-760-131-1,hung1274,Hungarian,345,lé,Standard,sap,,,lee; nedw,Phonemic
+8-760-131-3,hung1274,Hungarian,345,nedv,Standard,sap,,,lee; nedw,Phonemic
+8-750-131-1,hung1274,Hungarian,1204,fakéreg,Standard,bark,,,fakeereg,Phonemic
+8-740-131-1,hung1274,Hungarian,409,(villás) ág,Standard,forked branch,,,(willaaš) aag,Phonemic
+8-730-131-1,hung1274,Hungarian,344,(fa)törzs,Standard,tree trunk,,,(fa)törž,Phonemic
+8-720-131-1,hung1274,Hungarian,241,tőnk,Standard,tree stump,,,töönk,Phonemic
+8-691-131-1,hung1274,Hungarian,1124,pipa,Standard,pipe,,,pipa,Phonemic
+8-690-131-1,hung1274,Hungarian,1689,dohányzik,Standard,smoke (tobacco),,,dohaaɲzik,Phonemic
+8-680-131-1,hung1274,Hungarian,974,dohány,Standard,tobacco,,,dohaaɲ,Phonemic
+8-670-131-1,hung1274,Hungarian,343,szőlő,Standard,vine,,,söölöö,Phonemic
+8-660-131-1,hung1274,Hungarian,968,makk,Standard,acorn,,,makk,Phonemic
+8-650-131-1,hung1274,Hungarian,1915,(luc)enyő,Standard,fir,,,(luc̷)eɲöö,Phonemic
+8-640-131-1,hung1274,Hungarian,1740,(erdei)fenyő,Standard,pine,,,(erdei)feɲöö,Phonemic
+8-630-131-1,hung1274,Hungarian,1855,nyír(fa),Standard,birch,,,ɲiir(fa),Phonemic
+8-620-131-1,hung1274,Hungarian,1950,bükk(fa),Standard,beech,,,bükk(fa),Phonemic
+8-610-131-1,hung1274,Hungarian,644,tölgy(fa),Standard,oak,,,töldʸ(fa),Phonemic
+8-600-131-1,hung1274,Hungarian,906,fa,Standard,tree,,,fa,Phonemic
+8-570-131-1,hung1274,Hungarian,239,virág,Standard,flower,,,wiraag,Phonemic
+8-560-131-1,hung1274,Hungarian,628,(fa)levél,Standard,leaf,,,(fa)leweel; lomb,Phonemic
+8-560-131-3,hung1274,Hungarian,628,lomb,Standard,leaf,,,(fa)leweel; lomb,Phonemic
+8-550-131-1,hung1274,Hungarian,1531,ág,Standard,branch,,,aag,Phonemic
+8-540-131-1,hung1274,Hungarian,670,gyökér,Standard,root,,,dʸökeer; töö,Phonemic
+8-540-131-3,hung1274,Hungarian,670,tő,Standard,root,,,dʸökeer; töö,Phonemic
+8-531-131-1,hung1274,Hungarian,1486,ültet,Standard,plant (vb),,,ültet,Phonemic
+8-520-131-1,hung1274,Hungarian,342,széna,Standard,hay,,,seena,Phonemic
+8-530-131-1,hung1274,Hungarian,653,növény,Standard,plant (noun),,,nöweeɲ,Phonemic
+8-510-131-1,hung1274,Hungarian,606,fű,Standard,grass,,,füü,Phonemic
+8-480-131-1,hung1274,Hungarian,926,rizs,Standard,rice,,,riž,Phonemic
+8-470-131-1,hung1274,Hungarian,506,kukorica,Standard,"maize, corn",,,kukoric̷a,Phonemic
+8-460-131-1,hung1274,Hungarian,60,zab,Standard,oats,,,zab,Phonemic
+8-450-131-1,hung1274,Hungarian,23,rozs,Standard,rye,,,rož,Phonemic
+8-430-131-1,hung1274,Hungarian,1077,búza,Standard,wheat,,,buuza,Phonemic
+8-440-131-1,hung1274,Hungarian,932,árpa,Standard,barley,,,aarpa,Phonemic
+8-420-131-1,hung1274,Hungarian,605,gabona,Standard,"grain (barley, oats etc)",,,gabona; termeeɲ,Phonemic
+8-420-131-3,hung1274,Hungarian,605,termény,Standard,"grain (barley, oats etc)",,,gabona; termeeɲ,Phonemic
+8-410-131-1,hung1274,Hungarian,611,aratás,Standard,"crop, harvest",,,arataaš; termeeš,Phonemic
+8-410-131-3,hung1274,Hungarian,611,termés,Standard,"crop, harvest",,,arataaš; termeeš,Phonemic
+8-350-131-1,hung1274,Hungarian,223,szérű(skert),Standard,threshing-floor,,,seerüü(škert),Phonemic
+8-340-131-1,hung1274,Hungarian,285,kiczépel,Standard,thresh,,,kičeepel,Phonemic
+8-330-131-1,hung1274,Hungarian,2132,sarló,Standard,"sickle, scythe",,,šarloo; kasa,Phonemic
+8-330-131-3,hung1274,Hungarian,2132,kasza,Standard,"sickle, scythe",,,šarloo; kasa,Phonemic
+8-320-131-1,hung1274,Hungarian,190,(le)arat,Standard,"mow, reap",,,(le)arat; (le)kasaal,Phonemic
+8-320-131-3,hung1274,Hungarian,190,(le)kaszál,Standard,"mow, reap",,,(le)arat; (le)kasaal,Phonemic
+8-311-131-1,hung1274,Hungarian,714,mag,Standard,seed,,,mag,Phonemic
+8-310-131-1,hung1274,Hungarian,748,vet ~ elvet,Standard,sow,,,wet ~ elwet,Phonemic
+8-270-131-1,hung1274,Hungarian,338,gereblye,Standard,rake,,,gereblʸe,Phonemic
+8-260-131-1,hung1274,Hungarian,337,villa,Standard,fork,,,willa,Phonemic
+8-250-131-1,hung1274,Hungarian,284,kapa,Standard,hoe,,,kapa,Phonemic
+8-240-131-1,hung1274,Hungarian,1901,lapát,Standard,shovel,,,lapaat,Phonemic
+8-230-131-1,hung1274,Hungarian,1176,ásó,Standard,spade,,,aašoo,Phonemic
+8-212-131-1,hung1274,Hungarian,1794,barázda,Standard,furrow,,,baraazda,Phonemic
+8-220-131-1,hung1274,Hungarian,1418,(fel)ás,Standard,dig,,,(fel)aaš,Phonemic
+8-210-131-1,hung1274,Hungarian,1921,(fel)szánt,Standard,plow,,,(fel)saant,Phonemic
+8-170-131-1,hung1274,Hungarian,2002,árok,Standard,ditch,,,aarok,Phonemic
+8-160-131-1,hung1274,Hungarian,1690,körülkerít ~ elkerít ~ bekerít,Standard,fence,,,körülkeriit ~ elkeriit ~ bekeriit,Phonemic
+8-150-131-1,hung1274,Hungarian,1541,(meg)művel,Standard,"cultivate, till",,,(meg)müüwel,Phonemic
+8-130-131-1,hung1274,Hungarian,586,kert,Standard,garden,,,kert; dʸümölčöš,Phonemic
+8-130-131-3,hung1274,Hungarian,586,gyümölczös,Standard,garden,,,kert; dʸümölčöš,Phonemic
+8-120-131-1,hung1274,Hungarian,212,szántó(föld),Standard,field (for cultivation),,,saantoo(föld),Phonemic
+8-110-131-1,hung1274,Hungarian,979,földműves,Standard,farmer,,,földmüüweš; parast,Phonemic
+8-110-131-3,hung1274,Hungarian,979,paraszt,Standard,farmer,,,földmüüweš; parast,Phonemic
+7-640-131-1,hung1274,Hungarian,901,vályog ~ vályogtégla,Standard,adobe,,,waalʸog ~ waalʸogteegla,Phonemic
+7-630-131-1,hung1274,Hungarian,224,vakolat,Standard,mortar,,,wakolat,Phonemic
+7-620-131-1,hung1274,Hungarian,1006,tégla,Standard,brick,,,teegla,Phonemic
+7-580-131-1,hung1274,Hungarian,876,boltív,Standard,arch,,,boltiiw,Phonemic
+7-610-131-1,hung1274,Hungarian,877,kőműves,Standard,mason,,,köömüüweš,Phonemic
+7-570-131-1,hung1274,Hungarian,1227,deszka,Standard,board,,,deska; taabla,Phonemic
+7-570-131-3,hung1274,Hungarian,1227,tábla,Standard,board,,,deska; taabla,Phonemic
+7-560-131-1,hung1274,Hungarian,281,pózna,Standard,"post, pole",,,poozna; ruud,Phonemic
+7-560-131-3,hung1274,Hungarian,281,rúd,Standard,"post, pole",,,poozna; ruud,Phonemic
+7-550-131-1,hung1274,Hungarian,1132,gerenda,Standard,beam,,,gerenda,Phonemic
+7-540-131-1,hung1274,Hungarian,829,fedélszék,Standard,rafter,,,fedeelseek; saruzat ~ sarufa,Phonemic
+7-540-131-3,hung1274,Hungarian,829,szaruzat ~ szarufa,Standard,rafter,,,fedeelseek; saruzat ~ sarufa,Phonemic
+7-530-131-1,hung1274,Hungarian,280,(mester)gerenda,Standard,ridgepole,,,(mešter)gerenda,Phonemic
+7-520-131-1,hung1274,Hungarian,279,szalmatető,Standard,thatch,,,salmatetöö,Phonemic
+7-510-131-1,hung1274,Hungarian,769,tető,Standard,roof,,,tetöö,Phonemic
+7-480-131-1,hung1274,Hungarian,205,teknő,Standard,trough,,,teknöö,Phonemic
+7-470-131-1,hung1274,Hungarian,745,polc,Standard,shelf,,,polc̷,Phonemic
+7-460-131-1,hung1274,Hungarian,1273,gyertya,Standard,candle,,,dʸertʸa,Phonemic
+7-450-131-1,hung1274,Hungarian,2131,[lámpa],Standard,"lamp, torch",,,[laampa],Phonemic
+7-440-131-1,hung1274,Hungarian,1775,asztal,Standard,table,,,astal,Phonemic
+7-430-131-1,hung1274,Hungarian,1476,szék,Standard,chair,,,seek,Phonemic
+7-422-131-1,hung1274,Hungarian,806,paplan,Standard,blanket,,,paplan; takaroo,Phonemic
+7-422-131-3,hung1274,Hungarian,806,takaró,Standard,blanket,,,paplan; takaroo,Phonemic
+7-421-131-1,hung1274,Hungarian,1044,párna,Standard,pillow,,,paarna; waankoš,Phonemic
+7-421-131-3,hung1274,Hungarian,1044,vánkos,Standard,pillow,,,paarna; waankoš,Phonemic
+7-420-131-1,hung1274,Hungarian,1663,ágy,Standard,bed,,,aadʸ,Phonemic
+7-370-131-1,hung1274,Hungarian,1464,lépcző,Standard,ladder,,,leepčöö,Phonemic
+7-330-131-1,hung1274,Hungarian,1305,cző,Standard,chimney,,,čöö,Phonemic
+7-320-131-1,hung1274,Hungarian,859,tűzhely,Standard,stove,,,tüüzhelʸ; kaalʸha,Phonemic
+7-320-131-3,hung1274,Hungarian,859,kályha,Standard,stove,,,tüüzhelʸ; kaalʸha,Phonemic
+7-310-131-1,hung1274,Hungarian,185,kandalló,Standard,fireplace,,,kandalloo; tüüzhelʸ,Phonemic
+7-310-131-3,hung1274,Hungarian,185,tűzhely,Standard,fireplace,,,kandalloo; tüüzhelʸ,Phonemic
+7-270-131-1,hung1274,Hungarian,933,fal,Standard,wall,,,fal,Phonemic
+7-260-131-1,hung1274,Hungarian,1632,padló,Standard,floor,,,padloo,Phonemic
+7-250-131-1,hung1274,Hungarian,1375,ablak,Standard,window,,,ablak,Phonemic
+7-240-131-1,hung1274,Hungarian,1472,kulcz,Standard,key,,,kulč,Phonemic
+7-231-131-1,hung1274,Hungarian,1012,kilincz,Standard,"latch, door-bolt",,,kilinč,Phonemic
+7-230-131-1,hung1274,Hungarian,1596,zár,Standard,lock (noun),,,zaar; lakat,Phonemic
+7-230-131-3,hung1274,Hungarian,1596,lakat,Standard,lock (noun),,,zaar; lakat,Phonemic
+7-221-131-1,hung1274,Hungarian,80,aytótok,Standard,"doorpost, jamb",,,aytootok,Phonemic
+7-210-131-1,hung1274,Hungarian,1450,szoba,Standard,room,,,soba,Phonemic
+7-220-131-1,hung1274,Hungarian,1567,aytó,Standard,"door, gate",,,aytoo; kapu,Phonemic
+7-220-131-3,hung1274,Hungarian,1567,kapu,Standard,"door, gate",,,aytoo; kapu,Phonemic
+7-180-131-1,hung1274,Hungarian,335,imaház,Standard,meeting house,,,imahaaz,Phonemic
+7-170-131-1,hung1274,Hungarian,334,konyha,Standard,cookhouse,,,koɲha,Phonemic
+7-160-131-1,hung1274,Hungarian,408,legénylakás,Standard,men's house,,,legeeɲlakaaš,Phonemic
+7-150-131-1,hung1274,Hungarian,736,udvar,Standard,"yard, court",,,udwar,Phonemic
+7-140-131-1,hung1274,Hungarian,1316,sátor,Standard,tent,,,šaator,Phonemic
+7-131-131-1,hung1274,Hungarian,403,kertes ház,Standard,garden-house,,,kerteš haaz,Phonemic
+7-130-131-1,hung1274,Hungarian,1678,kunyhó,Standard,hut,,,kuɲhoo; wiškoo; witʸilloo,Phonemic
+7-130-131-3,hung1274,Hungarian,1678,viskó,Standard,hut,,,kuɲhoo; wiškoo; witʸilloo,Phonemic
+7-130-131-5,hung1274,Hungarian,1678,vityilló,Standard,hut,,,kuɲhoo; wiškoo; witʸilloo,Phonemic
+7-120-131-1,hung1274,Hungarian,1252,ház,Standard,house,,,haaz,Phonemic
+7-110-131-1,hung1274,Hungarian,363,lakik,Standard,"dwell, live",,,lakik; eel,Phonemic
+7-110-131-3,hung1274,Hungarian,363,él,Standard,"dwell, live",,,lakik; eel,Phonemic
+6-960-131-1,hung1274,Hungarian,1171,tükör,Standard,mirror,,,tükör,Phonemic
+6-950-131-1,hung1274,Hungarian,788,szappan,Standard,soap,,,sappan,Phonemic
+6-940-131-1,hung1274,Hungarian,1926,kenőcz,Standard,ointment,,,kenööč; kreem,Phonemic
+6-940-131-3,hung1274,Hungarian,1926,krém,Standard,ointment,,,kenööč; kreem,Phonemic
+6-930-131-1,hung1274,Hungarian,151,borotva,Standard,razor,,,borotwa,Phonemic
+6-921-131-1,hung1274,Hungarian,333,fon,Standard,braid,,,fon,Phonemic
+6-920-131-1,hung1274,Hungarian,1821,kefe,Standard,brush,,,kefe,Phonemic
+6-910-131-1,hung1274,Hungarian,1475,fésű,Standard,comb,,,feešüü,Phonemic
+6-820-131-1,hung1274,Hungarian,1021,kendő,Standard,towel,,,kendöö; salweeta,Phonemic
+6-820-131-3,hung1274,Hungarian,1021,szalvéta,Standard,towel,,,kendöö; salweeta,Phonemic
+6-810-131-1,hung1274,Hungarian,332,zsebkendő,Standard,"handkerchief, rag",,,žebkendöö,Phonemic
+6-790-131-1,hung1274,Hungarian,68,tetoválás,Standard,tattoo,,,tetowaalaaš,Phonemic
+6-780-131-1,hung1274,Hungarian,330,feyfedő,Standard,"headband, headdress",,,feyfedöö,Phonemic
+6-770-131-1,hung1274,Hungarian,770,fülbevaló,Standard,earring,,,fülbewaloo,Phonemic
+6-760-131-1,hung1274,Hungarian,1860,gyöngysor,Standard,bead,,,dʸöndʸšor,Phonemic
+6-750-131-1,hung1274,Hungarian,1961,nyakék,Standard,necklace,,,ɲakeek; ɲaklaanc̷,Phonemic
+6-750-131-3,hung1274,Hungarian,1961,nyaklánc,Standard,necklace,,,ɲakeek; ɲaklaanc̷,Phonemic
+6-740-131-1,hung1274,Hungarian,1754,karkötő,Standard,bracelet,,,karkötöö,Phonemic
+6-730-131-1,hung1274,Hungarian,1374,gyűrű,Standard,ring (for finger),,,dʸüürüü,Phonemic
+6-720-131-1,hung1274,Hungarian,1029,ékszer,Standard,jewel,,,eekser,Phonemic
+6-710-131-1,hung1274,Hungarian,917,dísz ~ díszítés,Standard,"ornament, adornment",,,diis ~ diisiiteeš,Phonemic
+6-630-131-1,hung1274,Hungarian,64,gombostű,Standard,pin,,,gomboštüü,Phonemic
+6-620-131-1,hung1274,Hungarian,757,gomb,Standard,button,,,gomb,Phonemic
+6-610-131-1,hung1274,Hungarian,1851,zseb,Standard,pocket,,,žeb,Phonemic
+6-590-131-1,hung1274,Hungarian,1151,fátyol,Standard,veil,,,faatʸol,Phonemic
+6-580-131-1,hung1274,Hungarian,867,kesztyű,Standard,glove,,,kestʸüü,Phonemic
+6-570-131-1,hung1274,Hungarian,772,öv,Standard,"belt, girdle",,,öw,Phonemic
+6-550-131-1,hung1274,Hungarian,2130,kalap,Standard,"hat, cap",,,kalap; šapka,Phonemic
+6-550-131-3,hung1274,Hungarian,2130,sapka,Standard,"hat, cap",,,kalap; šapka,Phonemic
+6-540-131-1,hung1274,Hungarian,875,cipész,Standard,"shoemaker, cobbler",,,c̷ipees,Phonemic
+6-510-131-1,hung1274,Hungarian,1381,cipő,Standard,shoe,,,c̷ipöö,Phonemic
+6-520-131-1,hung1274,Hungarian,585,czizma,Standard,boot,,,čizma,Phonemic
+6-490-131-1,hung1274,Hungarian,329,zokni,Standard,"stocking, sock",,,zokni; harišɲa,Phonemic
+6-490-131-3,hung1274,Hungarian,329,harisnya,Standard,"stocking, sock",,,zokni; harišɲa,Phonemic
+6-480-131-1,hung1274,Hungarian,809,nadrág,Standard,trousers,,,nadraag,Phonemic
+6-460-131-1,hung1274,Hungarian,1600,szoknya,Standard,skirt,,,sokɲa,Phonemic
+6-450-131-1,hung1274,Hungarian,2012,gallér,Standard,collar,,,galleer,Phonemic
+6-440-131-1,hung1274,Hungarian,1622,ing,Standard,shirt,,,ing,Phonemic
+6-430-131-1,hung1274,Hungarian,603,zakó,Standard,coat,,,zakoo,Phonemic
+6-420-131-1,hung1274,Hungarian,474,ruha,Standard,woman's dress,,,ruha,Phonemic
+6-411-131-1,hung1274,Hungarian,327,[ponczó],Standard,poncho,,,[pončoo],Phonemic
+6-390-131-1,hung1274,Hungarian,157,fest ~ befest,Standard,dye,,,fešt ~ befešt,Phonemic
+6-410-131-1,hung1274,Hungarian,326,pelerin,Standard,cloak,,,pelerin; köpeɲ,Phonemic
+6-410-131-3,hung1274,Hungarian,326,köpeny,Standard,cloak,,,pelerin; köpeɲ,Phonemic
+6-380-131-1,hung1274,Hungarian,1161,fonal,Standard,thread,,,fonal; saal,Phonemic
+6-380-131-3,hung1274,Hungarian,1161,szál,Standard,thread,,,fonal; saal,Phonemic
+6-360-131-1,hung1274,Hungarian,1382,tü,Standard,needle,,,tü,Phonemic
+6-370-131-1,hung1274,Hungarian,278,ár,Standard,awl,,,aar,Phonemic
+6-350-131-1,hung1274,Hungarian,1457,varr,Standard,sew,,,warr,Phonemic
+6-340-131-1,hung1274,Hungarian,1787,szövőgép,Standard,loom,,,söwöögeep; kötöögeep,Phonemic
+6-340-131-3,hung1274,Hungarian,1787,kötőgép,Standard,loom,,,söwöögeep; kötöögeep,Phonemic
+6-330-131-1,hung1274,Hungarian,133,sző,Standard,weave,,,söö,Phonemic
+6-320-131-1,hung1274,Hungarian,277,orsó,Standard,spindle,,,oršoo,Phonemic
+6-310-131-1,hung1274,Hungarian,121,fon,Standard,spin,,,fon,Phonemic
+6-290-131-1,hung1274,Hungarian,629,bőr,Standard,leather,,Same as 'skin' 04.120.,böör,Phonemic
+6-280-131-1,hung1274,Hungarian,580,szőrme,Standard,fur,,,söörme; preem,Phonemic
+6-280-131-3,hung1274,Hungarian,580,prém,Standard,fur,,,söörme; preem,Phonemic
+6-270-131-1,hung1274,Hungarian,325,nemez,Standard,felt,,,nemez; filc̷,Phonemic
+6-270-131-3,hung1274,Hungarian,325,filc,Standard,felt,,,nemez; filc̷,Phonemic
+6-250-131-1,hung1274,Hungarian,1641,selyem,Standard,silk,,,šelʸem,Phonemic
+6-240-131-1,hung1274,Hungarian,1850,gyapot,Standard,cotton,,,dʸapot; pamut,Phonemic
+6-240-131-3,hung1274,Hungarian,1850,pamut,Standard,cotton,,,dʸapot; pamut,Phonemic
+6-230-131-1,hung1274,Hungarian,916,(len)vászon,Standard,"linen, flax",,,(len)waason; dʸolč; len,Phonemic
+6-230-131-3,hung1274,Hungarian,916,gyolcz,Standard,"linen, flax",,,(len)waason; dʸolč; len,Phonemic
+6-230-131-5,hung1274,Hungarian,916,len,Standard,"linen, flax",,,(len)waason; dʸolč; len,Phonemic
+6-220-131-1,hung1274,Hungarian,964,gyapyú,Standard,wool,,,dʸapyuu,Phonemic
+6-210-131-1,hung1274,Hungarian,1616,szövet,Standard,cloth,,,söwet; waason,Phonemic
+6-210-131-3,hung1274,Hungarian,1616,vászon,Standard,cloth,,,söwet; waason,Phonemic
+6-130-131-1,hung1274,Hungarian,881,szabó,Standard,tailor,,,saboo,Phonemic
+6-120-131-1,hung1274,Hungarian,1895,ruha,Standard,"clothing, clothes",,,ruha; öltöɲ,Phonemic
+6-120-131-3,hung1274,Hungarian,1895,öltöny,Standard,"clothing, clothes",,,ruha; öltöɲ,Phonemic
+6-110-131-1,hung1274,Hungarian,158,(fel)öltözik,Standard,put on (clothes),,,(fel)öltözik,Phonemic
+5-971-131-1,hung1274,Hungarian,1556,toyássárgáya,Standard,egg yolk,,,toyaaššaargaaya,Phonemic
+5-970-131-1,hung1274,Hungarian,744,toyás,Standard,egg,,,toyaaš,Phonemic
+5-940-131-1,hung1274,Hungarian,404,eryesztelt ital,Standard,fermented drink,,,eryestelt ital,Phonemic
+5-930-131-1,hung1274,Hungarian,1639,sör,Standard,beer,,,šör,Phonemic
+5-920-131-1,hung1274,Hungarian,1524,bor,Standard,wine,,,bor,Phonemic
+5-910-131-1,hung1274,Hungarian,941,méhsör,Standard,mead,,,meehšör,Phonemic
+5-900-131-1,hung1274,Hungarian,731,ital,Standard,"beverage, drink",,,ital,Phonemic
+5-890-131-1,hung1274,Hungarian,1245,vay,Standard,butter,,,way,Phonemic
+5-880-131-1,hung1274,Hungarian,1569,sayt,Standard,cheese,,,šayt,Phonemic
+5-870-131-1,hung1274,Hungarian,93,fey,Standard,milk (vb),,,fey,Phonemic
+5-850-131-1,hung1274,Hungarian,862,cukor,Standard,sugar,,,c̷ukor,Phonemic
+5-860-131-1,hung1274,Hungarian,635,tey,Standard,milk (noun),,,tey,Phonemic
+5-840-131-1,hung1274,Hungarian,942,méz,Standard,honey,,,meez,Phonemic
+5-821-131-1,hung1274,Hungarian,919,czípős paprika,Standard,chili pepper,,,čiipööš paprika,Phonemic
+5-820-131-1,hung1274,Hungarian,1385,bors,Standard,pepper,,,borš,Phonemic
+5-810-131-1,hung1274,Hungarian,1274,só,Standard,salt,,,šoo,Phonemic
+5-791-131-1,hung1274,Hungarian,323,zsír,Standard,"grease, fat",,,žiir,Phonemic
+5-790-131-1,hung1274,Hungarian,1484,olay,Standard,oil,,,olay,Phonemic
+5-780-131-1,hung1274,Hungarian,1154,olayfa,Standard,olive,,,olayfa; oliiwa,Phonemic
+5-780-131-3,hung1274,Hungarian,1154,olíva,Standard,olive,,,olayfa; oliiwa,Phonemic
+5-760-131-1,hung1274,Hungarian,920,szőlő,Standard,grape,,,söölöö,Phonemic
+5-770-131-1,hung1274,Hungarian,191,mogyoró,Standard,nut,,,modʸoroo,Phonemic
+5-750-131-1,hung1274,Hungarian,322,füge,Standard,fig,,,füge,Phonemic
+5-712-131-1,hung1274,Hungarian,1966,köteg,Standard,bunch,,,köteg,Phonemic
+5-710-131-1,hung1274,Hungarian,1507,gyümölcz,Standard,fruit,,,dʸümölč,Phonemic
+5-700-131-1,hung1274,Hungarian,593,burgonya,Standard,potato,,,burgoɲa; krumpli,Phonemic
+5-700-131-3,hung1274,Hungarian,593,krumpli,Standard,potato,,,burgoɲa; krumpli,Phonemic
+5-660-131-1,hung1274,Hungarian,832,bab,Standard,bean,,,bab; pasulʸ,Phonemic
+5-660-131-3,hung1274,Hungarian,832,paszuly,Standard,bean,,,bab; pasulʸ,Phonemic
+5-650-131-1,hung1274,Hungarian,924,zöldségfélék,Standard,vegetables,,,zöldšeegfeeleek,Phonemic
+5-640-131-1,hung1274,Hungarian,1547,leves,Standard,"soup, broth",,,leweš,Phonemic
+5-630-131-1,hung1274,Hungarian,1874,kolbász(féleség),Standard,sausage,,,kolbaas(feelešeeg); hurka,Phonemic
+5-630-131-3,hung1274,Hungarian,1874,hurka,Standard,sausage,,,kolbaas(feelešeeg); hurka,Phonemic
+5-610-131-1,hung1274,Hungarian,634,hús,Standard,meat,,,huuš,Phonemic
+5-590-131-1,hung1274,Hungarian,225,mozsártörő,Standard,pestle,,,možaartöröö,Phonemic
+5-580-131-1,hung1274,Hungarian,224,mozsár,Standard,mortar (2),,,možaar,Phonemic
+5-570-131-1,hung1274,Hungarian,636,malom,Standard,mill,,,malom,Phonemic
+5-560-131-1,hung1274,Hungarian,1033,őröl,Standard,"crush, grind",,,ööröl; daraal,Phonemic
+5-560-131-3,hung1274,Hungarian,1033,darál,Standard,"crush, grind",,,ööröl; daraal,Phonemic
+5-550-131-1,hung1274,Hungarian,1594,liszt,Standard,"meal, flour",,,list,Phonemic
+5-540-131-1,hung1274,Hungarian,274,dagaszt,Standard,knead,,,dagast; dʸuur,Phonemic
+5-540-131-3,hung1274,Hungarian,274,gyúr,Standard,knead,,,dagast; dʸuur,Phonemic
+5-530-131-1,hung1274,Hungarian,273,tészta,Standard,dough,,,teesta,Phonemic
+5-510-131-1,hung1274,Hungarian,1368,kenyér,Standard,bread,,,keɲeer,Phonemic
+5-490-131-1,hung1274,Hungarian,2017,kever,Standard,"stir, mix",,,kewer; wedʸiit,Phonemic
+5-490-131-3,hung1274,Hungarian,2017,vegyít,Standard,"stir, mix",,,kewer; wedʸiit,Phonemic
+5-480-131-1,hung1274,Hungarian,1767,levakar,Standard,scrape,,,lewakar,Phonemic
+5-470-131-1,hung1274,Hungarian,86,szűr,Standard,"sieve, strain",,,süür; aatsüür,Phonemic
+5-470-131-3,hung1274,Hungarian,86,átszűr,Standard,"sieve, strain",,,süür; aatsüür,Phonemic
+5-460-131-1,hung1274,Hungarian,275,hámoz,Standard,peel,,,haamoz,Phonemic
+5-450-131-1,hung1274,Hungarian,1833,vaczora,Standard,supper,,,wačora,Phonemic
+5-440-131-1,hung1274,Hungarian,1833,ebéd,Standard,dinner,,,ebeed,Phonemic
+5-430-131-1,hung1274,Hungarian,768,[löncz],Standard,lunch,,,[lönč]; eetkezeeš,Phonemic
+5-430-131-3,hung1274,Hungarian,768,étkezés,Standard,lunch,,,[lönč]; eetkezeeš,Phonemic
+5-420-131-1,hung1274,Hungarian,1322,reggeli,Standard,breakfast,,,reggeli; tiizoorai,Phonemic
+5-420-131-3,hung1274,Hungarian,1322,tízórai,Standard,breakfast,,,reggeli; tiizoorai,Phonemic
+5-410-131-1,hung1274,Hungarian,1526,étkezés ~ étel,Standard,meal (a),,,eetkezeeš ~ eetel,Phonemic
+5-391-131-1,hung1274,Hungarian,272,(harapó)fogó,Standard,tongs,,,(harapoo)fogoo,Phonemic
+5-390-131-1,hung1274,Hungarian,1302,villa,Standard,fork (2),,,willa,Phonemic
+5-380-131-1,hung1274,Hungarian,1352,kés,Standard,knife (2),,,keeš,Phonemic
+5-370-131-1,hung1274,Hungarian,1378,kanál,Standard,spoon,,,kanaal,Phonemic
+5-360-131-1,hung1274,Hungarian,271,czészealy,Standard,saucer,,,čeesealy,Phonemic
+5-350-131-1,hung1274,Hungarian,476,czésze,Standard,"cup, drinking vessel",,,čeese,Phonemic
+5-330-131-1,hung1274,Hungarian,1530,tál,Standard,bowl,,,taal,Phonemic
+5-340-131-1,hung1274,Hungarian,270,köczög,Standard,"pitcher, jug",,,köčög; koršoo ~ kančoo,Phonemic
+5-340-131-3,hung1274,Hungarian,270,korsó ~ kanczó,Standard,"pitcher, jug",,,köčög; koršoo ~ kančoo,Phonemic
+5-320-131-1,hung1274,Hungarian,480,tányér,Standard,plate,,,taaɲeer,Phonemic
+5-310-131-1,hung1274,Hungarian,481,edény,Standard,dish,,,edeeɲ,Phonemic
+5-280-131-1,hung1274,Hungarian,31,serpenyő,Standard,pan,,,šerpeɲöö,Phonemic
+5-260-131-1,hung1274,Hungarian,1462,edény,Standard,"pot, cooking vessel",,,edeeɲ; fazeek,Phonemic
+5-260-131-3,hung1274,Hungarian,1462,fazék,Standard,"pot, cooking vessel",,,edeeɲ; fazeek,Phonemic
+5-270-131-1,hung1274,Hungarian,854,üst,Standard,kettle,,,üšt,Phonemic
+5-240-131-1,hung1274,Hungarian,183,süt,Standard,bake,,,šüt,Phonemic
+5-250-131-1,hung1274,Hungarian,1143,tűzhely,Standard,oven,,,tüüzhelʸ; kaalʸha,Phonemic
+5-250-131-3,hung1274,Hungarian,1143,kályha,Standard,oven,,,tüüzhelʸ; kaalʸha,Phonemic
+5-230-131-1,hung1274,Hungarian,2146,süt,Standard,"roast, fry",,,šüt,Phonemic
+5-220-131-1,hung1274,Hungarian,792,forral,Standard,boil (vb),,,forral,Phonemic
+5-210-131-1,hung1274,Hungarian,1100,főz,Standard,cook,,,fööz,Phonemic
+5-190-131-1,hung1274,Hungarian,129,fuldoklik,Standard,choke,,,fuldoklik; megfoyt,Phonemic
+5-190-131-3,hung1274,Hungarian,129,megfoyt,Standard,choke,,,fuldoklik; megfoyt,Phonemic
+5-181-131-1,hung1274,Hungarian,897,(le)nyel,Standard,swallow,,,(le)ɲel,Phonemic
+5-180-131-1,hung1274,Hungarian,321,(meg)rág,Standard,chew,,,(meg)raag,Phonemic
+5-160-131-1,hung1274,Hungarian,1421,szív,Standard,suck,,,siiw,Phonemic
+5-150-131-1,hung1274,Hungarian,848,szomy(úság),Standard,thirst,,,somy(uušaag),Phonemic
+5-141-131-1,hung1274,Hungarian,199,éhség,Standard,famine,,,eehšeeg,Phonemic
+5-140-131-1,hung1274,Hungarian,1864,éhség,Standard,hunger,,,eehšeeg,Phonemic
+5-130-131-1,hung1274,Hungarian,1401,iszik,Standard,drink,,,isik,Phonemic
+5-125-131-1,hung1274,Hungarian,1728,rothadt,Standard,rotten,,,rothadt,Phonemic
+5-124-131-1,hung1274,Hungarian,1958,zöld,Standard,"green, unripe",,,zöld; ɲerš,Phonemic
+5-124-131-3,hung1274,Hungarian,1958,nyers,Standard,"green, unripe",,,zöld; ɲerš,Phonemic
+5-123-131-1,hung1274,Hungarian,178,érett,Standard,ripe,,,eerett,Phonemic
+5-122-131-1,hung1274,Hungarian,1959,nyers,Standard,raw,,,ɲerš,Phonemic
+5-121-131-1,hung1274,Hungarian,269,főtt,Standard,cooked,,"Respectively: 'boiled; roasted, baked'.",föött; šült,Phonemic
+5-121-131-3,hung1274,Hungarian,269,sült,Standard,cooked,,"Respectively: 'boiled; roasted, baked'.",föött; šült,Phonemic
+5-120-131-1,hung1274,Hungarian,256,étel,Standard,food,,,eetel,Phonemic
+5-110-131-1,hung1274,Hungarian,1336,eszik,Standard,eat,,,esik,Phonemic
+4-990-131-1,hung1274,Hungarian,590,meztelen,Standard,"naked, bare",,,meztelen; puc̷eer,Phonemic
+4-990-131-3,hung1274,Hungarian,590,pucér,Standard,"naked, bare",,,meztelen; puc̷eer,Phonemic
+4-970-131-1,hung1274,Hungarian,1653,vak,Standard,blind,,,wak,Phonemic
+4-980-131-1,hung1274,Hungarian,1463,részeg,Standard,intoxicated,,,reeseg,Phonemic
+4-960-131-1,hung1274,Hungarian,1666,néma,Standard,mute,,,neema,Phonemic
+4-950-131-1,hung1274,Hungarian,996,süket,Standard,deaf,,,šüket,Phonemic
+4-930-131-1,hung1274,Hungarian,1125,kopasz,Standard,bald,,,kopas,Phonemic
+4-940-131-1,hung1274,Hungarian,320,sánta,Standard,lame,,,šaanta,Phonemic
+4-920-131-1,hung1274,Hungarian,1564,lusta,Standard,lazy,,,lušta,Phonemic
+4-912-131-1,hung1274,Hungarian,168,pihen,Standard,rest,,,pihen,Phonemic
+4-910-131-1,hung1274,Hungarian,1757,fáradt,Standard,"tired, weary",,,faaradt; kimerült,Phonemic
+4-910-131-3,hung1274,Hungarian,1757,kimerült,Standard,"tired, weary",,,faaradt; kimerült,Phonemic
+4-890-131-1,hung1274,Hungarian,655,méreg,Standard,poison,,,meereg,Phonemic
+4-880-131-1,hung1274,Hungarian,1372,orvosság,Standard,"medicine, drug",,,orwoššaag,Phonemic
+4-870-131-1,hung1274,Hungarian,597,orvos,Standard,physician,,,orwoš,Phonemic
+4-860-131-1,hung1274,Hungarian,499,ápol,Standard,"cure, heal",,,aapol; kezel,Phonemic
+4-860-131-3,hung1274,Hungarian,499,kezel,Standard,"cure, heal",,,aapol; kezel,Phonemic
+4-858-131-1,hung1274,Hungarian,497,heg,Standard,scar,,,heg; forradaaš,Phonemic
+4-858-131-3,hung1274,Hungarian,497,forradás,Standard,scar,,,heg; forradaaš,Phonemic
+4-857-131-1,hung1274,Hungarian,1808,genny,Standard,pus,,,genɲ,Phonemic
+4-856-131-1,hung1274,Hungarian,793,kelés,Standard,boil (noun),,,keleeš; taalʸog,Phonemic
+4-856-131-3,hung1274,Hungarian,793,tályog,Standard,boil (noun),,,keleeš; taalʸog,Phonemic
+4-855-131-1,hung1274,Hungarian,1584,(víz)hólyag,Standard,blister,,,(wiiz)hoolʸag,Phonemic
+4-854-131-1,hung1274,Hungarian,148,viszketés,Standard,itch,,,wisketeeš,Phonemic
+4-853-131-1,hung1274,Hungarian,1903,feldagad ~ felpuffad,Standard,swelling,,,feldagad ~ felpuffad,Phonemic
+4-852-131-1,hung1274,Hungarian,1148,kék folt,Standard,bruise,,,keek folt; weeralaafutaaš,Phonemic
+4-852-131-3,hung1274,Hungarian,1148,véraláfutás,Standard,bruise,,,keek folt; weeralaafutaaš,Phonemic
+4-850-131-1,hung1274,Hungarian,1109,seb,Standard,"wound, sore",,,šeb,Phonemic
+4-843-131-1,hung1274,Hungarian,102,meghűlés,Standard,cold (catarrh),,,meghüüleeš,Phonemic
+4-842-131-1,hung1274,Hungarian,1957,golyva,Standard,goiter,,,golʸwa,Phonemic
+4-841-131-1,hung1274,Hungarian,1534,láz,Standard,fever,,,laaz,Phonemic
+4-840-131-1,hung1274,Hungarian,1847,beteg,Standard,"sick, sickness",,,beteg; betegšeeg,Phonemic
+4-840-131-3,hung1274,Hungarian,1847,betegség,Standard,"sick, sickness",,,beteg; betegšeeg,Phonemic
+4-830-131-1,hung1274,Hungarian,1364,egészséges,Standard,"well, health",,,egeesšeegeš; egeesšeeg,Phonemic
+4-830-131-3,hung1274,Hungarian,1364,egészség,Standard,"well, health",,,egeesšeegeš; egeesšeeg,Phonemic
+4-820-131-1,hung1274,Hungarian,1601,gyenge,Standard,weak,,,dʸenge,Phonemic
+4-810-131-1,hung1274,Hungarian,785,erős,Standard,"strong, mighty, powerful",,,erööš; hatalmaš,Phonemic
+4-810-131-3,hung1274,Hungarian,785,hatalmas,Standard,"strong, mighty, powerful",,,erööš; hatalmaš,Phonemic
+4-790-131-1,hung1274,Hungarian,1773,sír,Standard,"grave, tomb",,,šiir,Phonemic
+4-780-131-1,hung1274,Hungarian,1719,eltemet,Standard,bury (the dead),,,eltemet,Phonemic
+4-770-131-1,hung1274,Hungarian,767,hulla,Standard,corpse,,,hulla; tetem,Phonemic
+4-770-131-3,hung1274,Hungarian,767,tetem,Standard,corpse,,,hulla; tetem,Phonemic
+4-760-131-1,hung1274,Hungarian,1417,megöl,Standard,kill,,,megöl,Phonemic
+4-751-131-1,hung1274,Hungarian,1904,vízbefúlt,Standard,drowned,,,wiizbefuult,Phonemic
+4-750-131-1,hung1274,Hungarian,1494,meghal,Standard,"die, dead",,,meghal; halott,Phonemic
+4-750-131-3,hung1274,Hungarian,1494,halott,Standard,"die, dead",,,meghal; halott,Phonemic
+4-740-131-1,hung1274,Hungarian,1422,él,Standard,"live, living, life",,,eel; eelöö; eelet,Phonemic
+4-740-131-3,hung1274,Hungarian,1422,élő,Standard,"live, living, life",,,eel; eelöö; eelet,Phonemic
+4-740-131-5,hung1274,Hungarian,1422,élet,Standard,"live, living, life",,,eel; eelöö; eelet,Phonemic
+4-732-131-1,hung1274,Hungarian,1087,teherbe esik,Standard,conceive,,,teherbe ešik,Phonemic
+4-730-131-1,hung1274,Hungarian,1123,terhes,Standard,pregnant,,,terheš; aallapotoš,Phonemic
+4-730-131-3,hung1274,Hungarian,1123,állapotos,Standard,pregnant,,,terheš; aallapotoš,Phonemic
+4-720-131-1,hung1274,Hungarian,1090,szül,Standard,born (to be),,,sül,Phonemic
+4-710-131-1,hung1274,Hungarian,1152,születik,Standard,beget (of father),,,sületik,Phonemic
+4-690-131-1,hung1274,Hungarian,138,fürdik,Standard,bathe,,,fürdik,Phonemic
+4-680-131-1,hung1274,Hungarian,52,remeg,Standard,shiver,,,remeg; resket,Phonemic
+4-680-131-3,hung1274,Hungarian,52,reszket,Standard,shiver,,,remeg; resket,Phonemic
+4-670-131-1,hung1274,Hungarian,1785,közösül,Standard,have sexual intercourse,,,közöšül,Phonemic
+4-660-131-1,hung1274,Hungarian,676,bélsár ~ ürülék,Standard,defecate,,,beelšaar ~ ürüleek,Phonemic
+4-650-131-1,hung1274,Hungarian,592,vizel,Standard,urinate,,,wizel,Phonemic
+4-640-131-1,hung1274,Hungarian,1159,szellent,Standard,break wind,,,sellent,Phonemic
+4-630-131-1,hung1274,Hungarian,1602,ébred,Standard,wake up,,,eebred,Phonemic
+4-620-131-1,hung1274,Hungarian,1920,álmodik,Standard,dream,,,aalmodik,Phonemic
+4-612-131-1,hung1274,Hungarian,1983,horkol,Standard,snore,,,horkol,Phonemic
+4-610-131-1,hung1274,Hungarian,1585,alszik,Standard,sleep,,,alsik,Phonemic
+4-591-131-1,hung1274,Hungarian,268,czöpög,Standard,dribble,,,čöpög,Phonemic
+4-590-131-1,hung1274,Hungarian,319,nyal ~ nyalogat,Standard,lick,,,ɲal ~ ɲalogat,Phonemic
+4-580-131-1,hung1274,Hungarian,1403,harap,Standard,bite,,,harap,Phonemic
+4-570-131-1,hung1274,Hungarian,1278,(ki)hány,Standard,vomit,,,(ki)haaɲ; okaadik,Phonemic
+4-570-131-3,hung1274,Hungarian,1278,okádik,Standard,vomit,,,(ki)haaɲ; okaadik,Phonemic
+4-560-131-1,hung1274,Hungarian,1440,köp,Standard,spit,,,köp,Phonemic
+4-550-131-1,hung1274,Hungarian,126,izzad,Standard,perspire,,,izzad,Phonemic
+4-540-131-1,hung1274,Hungarian,1621,tüszszent,Standard,sneeze,,,tüssent,Phonemic
+4-530-131-1,hung1274,Hungarian,879,köhög,Standard,cough,,,köhög,Phonemic
+4-521-131-1,hung1274,Hungarian,162,czuklik,Standard,hiccough,,,čuklik,Phonemic
+4-520-131-1,hung1274,Hungarian,1028,císít,Standard,"yawn, gape",,,c̷iišiit,Phonemic
+4-510-131-1,hung1274,Hungarian,1407,légelzik,Standard,"breathe, breath",,,leegelzik; leegezeeš,Phonemic
+4-510-131-3,hung1274,Hungarian,1407,légezés,Standard,"breathe, breath",,,leegelzik; leegezeeš,Phonemic
+4-492-131-1,hung1274,Hungarian,1222,pénisz,Standard,penis,,,peenis,Phonemic
+4-490-131-1,hung1274,Hungarian,797,here,Standard,testicle,,,here,Phonemic
+4-470-131-1,hung1274,Hungarian,804,anyaméh,Standard,womb,,,aɲameeh,Phonemic
+4-464-131-1,hung1274,Hungarian,834,fenék,Standard,buttocks,,,feneek; far,Phonemic
+4-464-131-3,hung1274,Hungarian,834,far,Standard,buttocks,,,feneek; far,Phonemic
+4-463-131-1,hung1274,Hungarian,1745,czípő,Standard,hip,,,čiipöö,Phonemic
+4-462-131-1,hung1274,Hungarian,1681,nyak,Standard,waist,,,ɲak; tarkoo,Phonemic
+4-462-131-3,hung1274,Hungarian,1681,tarkó,Standard,waist,,,ɲak; tarkoo,Phonemic
+4-461-131-1,hung1274,Hungarian,1991,belek,Standard,"intestines, guts",,,belek,Phonemic
+4-460-131-1,hung1274,Hungarian,819,gyomor,Standard,stomach,,,dʸomor,Phonemic
+4-452-131-1,hung1274,Hungarian,1744,lép,Standard,spleen,,,leep,Phonemic
+4-451-131-1,hung1274,Hungarian,489,vese,Standard,kidney,,,weše,Phonemic
+4-450-131-1,hung1274,Hungarian,1224,máy,Standard,liver,,,maay,Phonemic
+4-441-131-1,hung1274,Hungarian,688,tüdő,Standard,lung,,,tüdöö,Phonemic
+4-440-131-1,hung1274,Hungarian,1223,szív,Standard,heart,,,siiw,Phonemic
+4-430-131-1,hung1274,Hungarian,1838,köldök,Standard,navel,,,köldök,Phonemic
+4-420-131-1,hung1274,Hungarian,154,tőgy,Standard,udder,,,töödʸ,Phonemic
+4-412-131-1,hung1274,Hungarian,796,mellbimbó,Standard,"nipple, teat",,,mellbimboo,Phonemic
+4-410-131-1,hung1274,Hungarian,1402,mell ~ emlő,Standard,breast (of woman),,,mell ~ emlöö,Phonemic
+4-400-131-1,hung1274,Hungarian,1592,mell,Standard,chest,,,mell,Phonemic
+4-393-131-1,hung1274,Hungarian,1201,toll ~ madártoll,Standard,feather,,,toll ~ madaartoll,Phonemic
+4-392-131-1,hung1274,Hungarian,1257,szárny,Standard,wing,,,saarɲ,Phonemic
+4-380-131-1,hung1274,Hungarian,1389,lábuyy,Standard,toe,,,laabuyy,Phonemic
+4-374-131-1,hung1274,Hungarian,318,lábnyom,Standard,footprint,,,laabɲom,Phonemic
+4-372-131-1,hung1274,Hungarian,980,sarok,Standard,heel,,,šarok,Phonemic
+4-371-131-1,hung1274,Hungarian,803,boka,Standard,ankle,,,boka,Phonemic
+4-370-131-1,hung1274,Hungarian,1301,láb,Standard,foot,,,laab,Phonemic
+4-360-131-1,hung1274,Hungarian,1371,térd,Standard,knee,,,teerd,Phonemic
+4-352-131-1,hung1274,Hungarian,498,lábikra,Standard,calf of leg,,,laabikra,Phonemic
+4-351-131-1,hung1274,Hungarian,800,comb(czont),Standard,thigh,,,c̷omb(čont),Phonemic
+4-350-131-1,hung1274,Hungarian,1297,láb,Standard,leg,,,laab,Phonemic
+4-345-131-1,hung1274,Hungarian,72,karom,Standard,claw,,,karom,Phonemic
+4-344-131-1,hung1274,Hungarian,1258,köröm,Standard,fingernail,,,köröm,Phonemic
+4-342-131-1,hung1274,Hungarian,1781,hüvelykuyy,Standard,thumb,,,hüwelʸkuyy,Phonemic
+4-340-131-1,hung1274,Hungarian,1303,uyy,Standard,finger,,,uyy,Phonemic
+4-331-131-1,hung1274,Hungarian,1183,tenyér,Standard,palm of hand,,,teɲeer,Phonemic
+4-330-131-1,hung1274,Hungarian,1277,kéz,Standard,hand,,,keez,Phonemic
+4-321-131-1,hung1274,Hungarian,799,czukló,Standard,wrist,,,čukloo,Phonemic
+4-320-131-1,hung1274,Hungarian,981,könyök,Standard,elbow,,,köɲök,Phonemic
+4-312-131-1,hung1274,Hungarian,1886,hónaly,Standard,armpit,,,hoonaly,Phonemic
+4-310-131-1,hung1274,Hungarian,1673,kar,Standard,arm,,,kar,Phonemic
+4-302-131-1,hung1274,Hungarian,1994,kulczczont,Standard,collarbone,,,kulččont,Phonemic
+4-301-131-1,hung1274,Hungarian,172,lapocka,Standard,shoulderblade,,,lapoc̷ka,Phonemic
+4-300-131-1,hung1274,Hungarian,1482,váll,Standard,shoulder,,,waall,Phonemic
+4-290-131-1,hung1274,Hungarian,1346,torok,Standard,throat,,,torok,Phonemic
+4-281-131-1,hung1274,Hungarian,1347,nyakszirt,Standard,nape of neck,,,ɲaksirt,Phonemic
+4-280-131-1,hung1274,Hungarian,1333,nyak,Standard,neck,,,ɲak,Phonemic
+4-272-131-1,hung1274,Hungarian,1049,zápfog,Standard,molartooth,,,zaapfog,Phonemic
+4-270-131-1,hung1274,Hungarian,1380,fog,Standard,tooth,,,fog,Phonemic
+4-271-131-1,hung1274,Hungarian,139,íny,Standard,gums,,,iiɲ,Phonemic
+4-260-131-1,hung1274,Hungarian,1205,nyelv,Standard,tongue,,,ɲelw,Phonemic
+4-250-131-1,hung1274,Hungarian,478,ayak,Standard,lip,,,ayak,Phonemic
+4-241-131-1,hung1274,Hungarian,73,(madár)czőr,Standard,beak,,,(madaar)čöör,Phonemic
+4-240-131-1,hung1274,Hungarian,674,száy,Standard,mouth,,,saay,Phonemic
+4-232-131-1,hung1274,Hungarian,208,takony,Standard,mucus (nasal),,,takoɲ,Phonemic
+4-231-131-1,hung1274,Hungarian,1178,orrlyuk,Standard,nostril,,Lit. 'nose-hole' 12.850.,orrlʸuk,Phonemic
+4-230-131-1,hung1274,Hungarian,1221,orr,Standard,nose,,,orr,Phonemic
+4-222-131-1,hung1274,Hungarian,32,fülzsír,Standard,earwax,,,fülžiir,Phonemic
+4-221-131-1,hung1274,Hungarian,18,fülcimpa,Standard,earlobe,,,fülc̷impa,Phonemic
+4-220-131-1,hung1274,Hungarian,1247,fül,Standard,ear,,,fül,Phonemic
+4-215-131-1,hung1274,Hungarian,1655,hunyorgat,Standard,blink,,,huɲorgat; pišlog,Phonemic
+4-215-131-3,hung1274,Hungarian,1655,pislog,Standard,blink,,,huɲorgat; pišlog,Phonemic
+4-214-131-1,hung1274,Hungarian,1540,szempilla,Standard,eyelash,,,sempilla,Phonemic
+4-213-131-1,hung1274,Hungarian,17,szemhéy,Standard,eyelid,,,semheey,Phonemic
+4-212-131-1,hung1274,Hungarian,1173,szemöldök,Standard,eyebrow,,,semöldök,Phonemic
+4-210-131-1,hung1274,Hungarian,1248,szem,Standard,eye,,,sem,Phonemic
+4-208-131-1,hung1274,Hungarian,1730,orca,Standard,cheek,,,orc̷a,Phonemic
+4-209-131-1,hung1274,Hungarian,1510,áll,Standard,chin,,,aall,Phonemic
+4-205-131-1,hung1274,Hungarian,123,homlok,Standard,forehead,,,homlok,Phonemic
+4-207-131-1,hung1274,Hungarian,798,állkapocz,Standard,jaw,,,aallkapoč,Phonemic
+4-204-131-1,hung1274,Hungarian,1560,arc,Standard,face,,,arc̷,Phonemic
+4-203-131-1,hung1274,Hungarian,1583,agy,Standard,brain,,,adʸ,Phonemic
+4-201-131-1,hung1274,Hungarian,1604,halánték,Standard,"side of head, temple",,,halaanteek,Phonemic
+4-202-131-1,hung1274,Hungarian,1605,koponya,Standard,skull,,,kopoɲa,Phonemic
+4-200-131-1,hung1274,Hungarian,1256,fey,Standard,head,,,fey,Phonemic
+4-191-131-1,hung1274,Hungarian,805,gerincoszlop,Standard,spine,,,gerinc̷oslop; haatgerinc̷,Phonemic
+4-191-131-3,hung1274,Hungarian,805,hátgerinc,Standard,spine,,,gerinc̷oslop; haatgerinc̷,Phonemic
+4-190-131-1,hung1274,Hungarian,1291,hát,Standard,back,,,haat,Phonemic
+4-180-131-1,hung1274,Hungarian,1220,farok,Standard,tail,,,farok,Phonemic
+4-170-131-1,hung1274,Hungarian,1393,szarv,Standard,horn,,,sarw,Phonemic
+4-162-131-1,hung1274,Hungarian,801,borda,Standard,rib,,,borda,Phonemic
+4-160-131-1,hung1274,Hungarian,1394,czont,Standard,bone,,,čont,Phonemic
+4-151-131-1,hung1274,Hungarian,525,véna,Standard,"vein, artery",,,weena; ütööeer,Phonemic
+4-151-131-3,hung1274,Hungarian,525,ütőér,Standard,"vein, artery",,,weena; ütööeer,Phonemic
+4-150-131-1,hung1274,Hungarian,946,vér,Standard,blood,,,weer,Phonemic
+4-146-131-1,hung1274,Hungarian,576,(hay)korpa,Standard,dandruff,,,(hay)korpa,Phonemic
+4-145-131-1,hung1274,Hungarian,36,nemi szőrzet,Standard,pubic hair,,,nemi söörzet,Phonemic
+4-144-131-1,hung1274,Hungarian,189,szőr(zet),Standard,body hair,,,söör(zet),Phonemic
+4-142-131-1,hung1274,Hungarian,678,szakáll,Standard,beard,,,sakaall,Phonemic
+4-140-131-1,hung1274,Hungarian,1040,hayszál ~ hay,Standard,hair (head),,,haysaal ~ hay,Phonemic
+4-130-131-1,hung1274,Hungarian,2259,hús,Standard,flesh,,,huuš,Phonemic
+4-120-131-1,hung1274,Hungarian,763,bőr,Standard,"skin, hide",,,böör,Phonemic
+4-110-131-1,hung1274,Hungarian,1480,test,Standard,body,,,tešt,Phonemic
+3-980-131-1,hung1274,Hungarian,112,teknősbéka,Standard,turtle,,,teknööšbeeka,Phonemic
+3-970-131-1,hung1274,Hungarian,1857,krokodil,Standard,"crocodile, alligator",,,krokodil; alligaator,Phonemic
+3-970-131-3,hung1274,Hungarian,1857,alligátor,Standard,"crocodile, alligator",,,krokodil; alligaator,Phonemic
+3-960-131-1,hung1274,Hungarian,632,gyík,Standard,lizard,,,dʸiik,Phonemic
+3-950-131-1,hung1274,Hungarian,503,béka,Standard,frog,,,beeka,Phonemic
+3-940-131-1,hung1274,Hungarian,1543,cziga,Standard,snail,,,čiga,Phonemic
+3-930-131-1,hung1274,Hungarian,607,szöczke,Standard,grasshopper,,,söčke,Phonemic
+3-920-131-1,hung1274,Hungarian,1791,lepke,Standard,butterfly,,,lepke; pillangoo,Phonemic
+3-920-131-3,hung1274,Hungarian,1791,pillangó,Standard,butterfly,,,lepke; pillangoo,Phonemic
+3-910-131-1,hung1274,Hungarian,206,szentyánosbogár,Standard,firefly,,,sentyaanošbogaar,Phonemic
+3-850-131-1,hung1274,Hungarian,730,kígyó,Standard,snake,,,kiidʸoo,Phonemic
+3-840-131-1,hung1274,Hungarian,1219,kukac,Standard,worm,,,kukac̷; feereg,Phonemic
+3-840-131-3,hung1274,Hungarian,1219,féreg,Standard,worm,,,kukac̷; feereg,Phonemic
+3-832-131-1,hung1274,Hungarian,1509,moszkitó,Standard,mosquito,,,moskitoo,Phonemic
+3-831-131-1,hung1274,Hungarian,95,szúnyog,Standard,"sandfly (midge), gnat",,,suuɲog,Phonemic
+3-830-131-1,hung1274,Hungarian,1504,légy,Standard,fly,,,leedʸ,Phonemic
+3-823-131-1,hung1274,Hungarian,1517,darázs,Standard,wasp,,,daraaž,Phonemic
+3-822-131-1,hung1274,Hungarian,88,méhkas,Standard,beehive,,,meehkaš; kaptaar,Phonemic
+3-822-131-3,hung1274,Hungarian,88,kaptár,Standard,beehive,,,meehkaš; kaptaar,Phonemic
+3-821-131-1,hung1274,Hungarian,1931,méhviasz,Standard,beeswax,,,meehwias,Phonemic
+3-820-131-1,hung1274,Hungarian,665,méh,Standard,bee,,,meeh,Phonemic
+3-819-131-1,hung1274,Hungarian,1065,pókháló,Standard,spider web,,,pookhaaloo,Phonemic
+3-818-131-1,hung1274,Hungarian,843,pók,Standard,spider,,,pook,Phonemic
+3-817-131-1,hung1274,Hungarian,587,hangya,Standard,ant,,,handʸa,Phonemic
+3-816-131-1,hung1274,Hungarian,1575,porosz,Standard,cockroach,,,poros,Phonemic
+3-815-131-1,hung1274,Hungarian,1538,skorpió,Standard,scorpion,,,škorpioo,Phonemic
+3-814-131-1,hung1274,Hungarian,1974,százlábú,Standard,centipede,,,saazlaabuu,Phonemic
+3-813-131-1,hung1274,Hungarian,232,bolha,Standard,flea,,,bolha,Phonemic
+3-812-131-1,hung1274,Hungarian,267,tetűpete,Standard,nit (louse egg),,,tetüüpete,Phonemic
+3-811-131-1,hung1274,Hungarian,1392,tetű,Standard,louse,,,tetüü,Phonemic
+3-810-131-1,hung1274,Hungarian,620,rovar,Standard,insect,,,rowar,Phonemic
+3-780-131-1,hung1274,Hungarian,1871,teve,Standard,camel,,,tewe,Phonemic
+3-770-131-1,hung1274,Hungarian,1290,elefánt,Standard,elephant,,,elefaant,Phonemic
+3-760-131-1,hung1274,Hungarian,1350,mayom,Standard,monkey,,,mayom,Phonemic
+3-750-131-1,hung1274,Hungarian,1936,szarvas,Standard,deer,,,sarwaš,Phonemic
+3-740-131-1,hung1274,Hungarian,1312,róka,Standard,fox,,,rooka,Phonemic
+3-730-131-1,hung1274,Hungarian,1820,medve,Standard,bear,,,medwe,Phonemic
+3-720-131-1,hung1274,Hungarian,1386,oroszlán,Standard,lion,,,oroslaan,Phonemic
+3-710-131-1,hung1274,Hungarian,522,farkas,Standard,wolf,,,farkaš,Phonemic
+3-665-131-1,hung1274,Hungarian,1013,édesvízi angolna,Standard,freshwater eel,,,eedešwiizi angolna,Phonemic
+3-664-131-1,hung1274,Hungarian,1910,ráya,Standard,stingray,,,raaya,Phonemic
+3-663-131-1,hung1274,Hungarian,957,bálna,Standard,whale,,,baalna; c̷et,Phonemic
+3-663-131-3,hung1274,Hungarian,957,cet,Standard,whale,,,baalna; c̷et,Phonemic
+3-662-131-1,hung1274,Hungarian,1479,delfin,Standard,"porpoise, dolphin",,,delfin,Phonemic
+3-661-131-1,hung1274,Hungarian,1110,cápa,Standard,shark,,,c̷aapa,Phonemic
+3-655-131-1,hung1274,Hungarian,598,kagyuló,Standard,shell,,,kadʸuloo,Phonemic
+3-654-131-1,hung1274,Hungarian,1916,kopoltyú,Standard,gill,,,kopoltʸuu,Phonemic
+3-653-131-1,hung1274,Hungarian,266,pikkely,Standard,fishscale,,,pikkelʸ,Phonemic
+3-652-131-1,hung1274,Hungarian,213,uszony,Standard,fin (dorsal),,,usoɲ,Phonemic
+3-650-131-1,hung1274,Hungarian,227,hal,Standard,fish,,,hal,Phonemic
+3-630-131-1,hung1274,Hungarian,2139,egér,Standard,"mouse, rat",,,egeer; patkaaɲ,Phonemic
+3-630-131-3,hung1274,Hungarian,2139,patkány,Standard,"mouse, rat",,,egeer; patkaaɲ,Phonemic
+3-622-131-1,hung1274,Hungarian,309,oposzszum(egér),Standard,opossum,,,opossum(egeer),Phonemic
+3-620-131-1,hung1274,Hungarian,1208,maczka,Standard,cat,,,mačka,Phonemic
+3-614-131-1,hung1274,Hungarian,1136,nyúl,Standard,rabbit,,,ɲuul,Phonemic
+3-610-131-1,hung1274,Hungarian,2009,kutya,Standard,dog,,,kutʸa; eb,Phonemic
+3-610-131-3,hung1274,Hungarian,2009,eb,Standard,dog,,,kutʸa; eb,Phonemic
+3-594-131-1,hung1274,Hungarian,1853,galamb,Standard,dove,,,galamb,Phonemic
+3-596-131-1,hung1274,Hungarian,735,bagoly,Standard,owl,,,bagolʸ,Phonemic
+3-593-131-1,hung1274,Hungarian,913,varyú,Standard,crow,,,waryuu,Phonemic
+3-592-131-1,hung1274,Hungarian,882,papagáy,Standard,parrot,,,papagaay,Phonemic
+3-591-131-1,hung1274,Hungarian,1793,denevér,Standard,bat,,,deneweer,Phonemic
+3-586-131-1,hung1274,Hungarian,1185,dögevő,Standard,vulture,,,dögewöö,Phonemic
+3-585-131-1,hung1274,Hungarian,307,sólyom,Standard,hawk,,,šoolʸom,Phonemic
+3-584-131-1,hung1274,Hungarian,1905,sas,Standard,eagle,,,šaš,Phonemic
+3-582-131-1,hung1274,Hungarian,950,sirály,Standard,seagull,,,širaalʸ,Phonemic
+3-583-131-1,hung1274,Hungarian,758,kóczag,Standard,heron,,,koočag,Phonemic
+3-581-131-1,hung1274,Hungarian,937,madár,Standard,bird,,,madaar,Phonemic
+3-580-131-1,hung1274,Hungarian,539,fészek,Standard,nest,,,feesek,Phonemic
+3-570-131-1,hung1274,Hungarian,1360,kacza,Standard,duck,,,kača,Phonemic
+3-560-131-1,hung1274,Hungarian,1187,liba,Standard,goose,,,liba,Phonemic
+3-550-131-1,hung1274,Hungarian,1318,czibe ~ czirke,Standard,chicken,,,čibe ~ čirke,Phonemic
+3-540-131-1,hung1274,Hungarian,1514,tyúk,Standard,hen,,,tʸuuk,Phonemic
+3-520-131-1,hung1274,Hungarian,1511,kakas,Standard,"cock, rooster",,,kakaš,Phonemic
+3-470-131-1,hung1274,Hungarian,890,öszvér,Standard,mule,,,ösweer,Phonemic
+3-500-131-1,hung1274,Hungarian,265,háziszárnyas,Standard,fowl,,,haazisaarɲaš; baromfi,Phonemic
+3-500-131-3,hung1274,Hungarian,265,baromfi,Standard,fowl,,,haazisaarɲaš; baromfi,Phonemic
+3-460-131-1,hung1274,Hungarian,1862,szamár,Standard,"ass, donkey",,,samaar,Phonemic
+3-450-131-1,hung1274,Hungarian,1647,czikó,Standard,"foal, colt",,,čikoo,Phonemic
+3-440-131-1,hung1274,Hungarian,938,kanca,Standard,mare,,,kanc̷a,Phonemic
+3-420-131-1,hung1274,Hungarian,936,cződör,Standard,stallion,,,čöödör; meen,Phonemic
+3-420-131-3,hung1274,Hungarian,936,mén,Standard,stallion,,,čöödör; meen,Phonemic
+3-410-131-1,hung1274,Hungarian,615,ló (mén),Standard,horse (equine),,,loo (meen),Phonemic
+3-380-131-1,hung1274,Hungarian,1972,keczkegida,Standard,kid,,,kečkegida,Phonemic
+3-370-131-1,hung1274,Hungarian,264,bakkeczke,Standard,he-goat,,,bakkečke,Phonemic
+3-360-131-1,hung1274,Hungarian,1502,keczke,Standard,goat,,,kečke,Phonemic
+3-350-131-1,hung1274,Hungarian,1337,malac,Standard,pig,,,malac̷,Phonemic
+3-340-131-1,hung1274,Hungarian,1351,disznó,Standard,sow (2),,,disnoo; šerteeš,Phonemic
+3-340-131-3,hung1274,Hungarian,1351,sertés,Standard,sow (2),,,disnoo; šerteeš,Phonemic
+3-320-131-1,hung1274,Hungarian,1348,vaddisznó,Standard,boar,,,waddisnoo,Phonemic
+3-290-131-1,hung1274,Hungarian,820,kisbárány,Standard,lamb,,,kišbaaraaɲ,Phonemic
+3-280-131-1,hung1274,Hungarian,1345,nőstényyuh,Standard,ewe,,,nööšteeɲyuh,Phonemic
+3-260-131-1,hung1274,Hungarian,1344,kos,Standard,ram,,,koš; ürü; yuh,Phonemic
+3-260-131-3,hung1274,Hungarian,1344,ürü,Standard,ram,,,koš; ürü; yuh,Phonemic
+3-260-131-5,hung1274,Hungarian,1344,yuh,Standard,ram,,,koš; ürü; yuh,Phonemic
+3-250-131-1,hung1274,Hungarian,1331,yuh,Standard,sheep,,,yuh; birka,Phonemic
+3-250-131-3,hung1274,Hungarian,1331,birka,Standard,sheep,,,yuh; birka,Phonemic
+3-240-131-1,hung1274,Hungarian,1989,boryú,Standard,calf,,,boryuu,Phonemic
+3-230-131-1,hung1274,Hungarian,1007,tehén,Standard,cow,,,teheen,Phonemic
+3-220-131-1,hung1274,Hungarian,1169,ökör,Standard,ox,,,ökör,Phonemic
+3-210-131-1,hung1274,Hungarian,1008,bika,Standard,bull,,,bika,Phonemic
+3-200-131-1,hung1274,Hungarian,1153,marha,Standard,cattle (bovine),,,marha,Phonemic
+3-190-131-1,hung1274,Hungarian,851,istálló,Standard,"stable, stall",,,ištaalloo,Phonemic
+3-180-131-1,hung1274,Hungarian,263,pásztor,Standard,herdsman,,,paastor,Phonemic
+3-160-131-1,hung1274,Hungarian,649,legelő,Standard,pasture,,,legelöö,Phonemic
+3-150-131-1,hung1274,Hungarian,631,állatállomány,Standard,livestock,,,aallataallomaaɲ,Phonemic
+3-130-131-1,hung1274,Hungarian,2262,nőstény,Standard,female (adj),,,nööšteeɲ,Phonemic
+3-120-131-1,hung1274,Hungarian,2261,hím,Standard,male (adj),,,hiim,Phonemic
+3-110-131-1,hung1274,Hungarian,619,állat,Standard,animal,,,aallat,Phonemic
+2-960-131-1,hung1274,Hungarian,817,ők,Standard,they,,,öök,Phonemic
+2-950-131-1,hung1274,Hungarian,1213,ti,Standard,you (plural),,,ti,Phonemic
+2-940-131-1,hung1274,Hungarian,1212,mi,Standard,we,,,mi,Phonemic
+2-930-131-1,hung1274,Hungarian,262,ő,Standard,he/she/it,,,öö; az,Phonemic
+2-930-131-3,hung1274,Hungarian,262,az,Standard,he/she/it,,,öö; az,Phonemic
+2-920-131-1,hung1274,Hungarian,1215,te,Standard,you (singular),,,te,Phonemic
+2-910-131-1,hung1274,Hungarian,1209,én,Standard,I,,,een,Phonemic
+2-820-131-1,hung1274,Hungarian,194,czalád,Standard,family,,,čalaad,Phonemic
+2-810-131-1,hung1274,Hungarian,1644,rokon,Standard,"relatives, kinsmen",,,rokon,Phonemic
+2-770-131-1,hung1274,Hungarian,1981,özvegyember,Standard,widower,,,özwedʸember,Phonemic
+2-760-131-1,hung1274,Hungarian,1756,özvegy,Standard,widow,,,özwedʸ,Phonemic
+2-750-131-1,hung1274,Hungarian,1149,árva,Standard,orphan,,,aarwa,Phonemic
+2-740-131-1,hung1274,Hungarian,1058,mostohal(e)ány,Standard,stepdaughter,,,moštohal(e)aaɲ,Phonemic
+2-730-131-1,hung1274,Hungarian,1059,mostohafiú,Standard,stepson,,,moštohafiuu,Phonemic
+2-720-131-1,hung1274,Hungarian,236,mostohánya,Standard,stepmother,,,moštohaaɲa,Phonemic
+2-710-131-1,hung1274,Hungarian,237,mostohápa,Standard,stepfather,,,moštohaapa,Phonemic
+2-641-131-1,hung1274,Hungarian,2264,meny,Standard,daughter-in-law (of a woman),,,meɲ,Phonemic
+2-640-131-1,hung1274,Hungarian,2265,meny,Standard,daughter-in-law (of a man),,,meɲ,Phonemic
+2-631-131-1,hung1274,Hungarian,2266,vő,Standard,son-in-law (of a woman),,,wöö,Phonemic
+2-630-131-1,hung1274,Hungarian,2267,vő,Standard,son-in-law (of a man),,,wöö,Phonemic
+2-621-131-1,hung1274,Hungarian,2257,anyós,Standard,mother-in-law (of a woman),,,aɲooš,Phonemic
+2-620-131-1,hung1274,Hungarian,2256,anyós,Standard,mother-in-law (of a man),,,aɲooš,Phonemic
+2-611-131-1,hung1274,Hungarian,2254,após,Standard,father-in-law (of a woman),,,apooš,Phonemic
+2-610-131-1,hung1274,Hungarian,2255,após,Standard,father-in-law (of a man),,,apooš,Phonemic
+2-570-131-1,hung1274,Hungarian,490,leszármazottak,Standard,descendants,,,lesaarmazottak,Phonemic
+2-560-131-1,hung1274,Hungarian,1669,ősök,Standard,ancestors,,,ööšök; elöödök,Phonemic
+2-560-131-3,hung1274,Hungarian,1669,elődök,Standard,ancestors,,,ööšök; elöödök,Phonemic
+2-550-131-1,hung1274,Hungarian,1643,unokatestvér,Standard,cousin,,,unokateštweer,Phonemic
+2-540-131-1,hung1274,Hungarian,1642,unokahúg,Standard,niece,,,unokahuug,Phonemic
+2-530-131-1,hung1274,Hungarian,1063,unokaöcz,Standard,nephew,,,unokaöč,Phonemic
+2-522-131-1,hung1274,Hungarian,170,nagynéni (apai),Standard,father's sister,,,nadʸneeni (apai),Phonemic
+2-520-131-1,hung1274,Hungarian,1272,nagynéni,Standard,aunt,,,nadʸneeni,Phonemic
+2-521-131-1,hung1274,Hungarian,171,nagynéni (anyai),Standard,mother's sister,,,nadʸneeni (aɲai),Phonemic
+2-512-131-1,hung1274,Hungarian,1985,apai nagybáczi,Standard,father's brother,,,apai nadʸbaači,Phonemic
+2-511-131-1,hung1274,Hungarian,1984,anyai nagybáczi,Standard,mother's brother,,,aɲai nadʸbaači,Phonemic
+2-510-131-1,hung1274,Hungarian,1327,nagybáczi,Standard,uncle,,,nadʸbaači,Phonemic
+2-480-131-1,hung1274,Hungarian,1618,(fiú)unoka,Standard,grandson,,,(fiuu)unoka,Phonemic
+2-490-131-1,hung1274,Hungarian,1619,(leány)unoka,Standard,granddaughter,,,(leaaɲ)unoka,Phonemic
+2-471-131-1,hung1274,Hungarian,907,öregaszszony,Standard,old woman,,,öregassoɲ,Phonemic
+2-470-131-1,hung1274,Hungarian,1496,nagyanya,Standard,grandmother,,,nadʸaɲa,Phonemic
+2-461-131-1,hung1274,Hungarian,406,öregember,Standard,old man,,,öregember,Phonemic
+2-460-131-1,hung1274,Hungarian,1383,nagyapa,Standard,grandfather,,,nadʸapa,Phonemic
+2-458-131-1,hung1274,Hungarian,1005,ikrek,Standard,twins,,,ikrek,Phonemic
+2-456-131-1,hung1274,Hungarian,1640,testvér,Standard,sibling,,,teštweer,Phonemic
+2-455-131-1,hung1274,Hungarian,1761,húg,Standard,younger sister,,,huug,Phonemic
+2-454-131-1,hung1274,Hungarian,1758,nővér,Standard,older sister,,,nööweer,Phonemic
+2-450-131-1,hung1274,Hungarian,1263,nővér,Standard,sister,,,nööweer,Phonemic
+2-445-131-1,hung1274,Hungarian,1760,öcz,Standard,younger brother,,,öč,Phonemic
+2-444-131-1,hung1274,Hungarian,1759,bátya,Standard,older brother,,,baatʸa,Phonemic
+2-440-131-1,hung1274,Hungarian,1262,fivér ~ fiútestvér,Standard,brother,,,fiweer ~ fiuuteštweer,Phonemic
+2-430-131-1,hung1274,Hungarian,1801,utód,Standard,offspring (son or daughter),,,utood,Phonemic
+2-420-131-1,hung1274,Hungarian,1357,l(e)ány,Standard,daughter,,,l(e)aaɲ,Phonemic
+2-410-131-1,hung1274,Hungarian,1620,fiú,Standard,son,,,fiuu,Phonemic
+2-390-131-1,hung1274,Hungarian,426,feleség,Standard,married woman,,,felešeeg; hitweš,Phonemic
+2-390-131-3,hung1274,Hungarian,426,hitves,Standard,married woman,,,felešeeg; hitweš,Phonemic
+2-380-131-1,hung1274,Hungarian,424,házasember,Standard,married man,,,haazašember,Phonemic
+2-370-131-1,hung1274,Hungarian,505,szülők,Standard,parents,,,sülöök,Phonemic
+2-360-131-1,hung1274,Hungarian,1216,anya,Standard,mother,,,aɲa,Phonemic
+2-350-131-1,hung1274,Hungarian,1217,apa,Standard,father,,,apa,Phonemic
+2-341-131-1,hung1274,Hungarian,1134,válás,Standard,divorce,,,waalaaš,Phonemic
+2-340-131-1,hung1274,Hungarian,1259,házasság,Standard,"marriage, wedding",,,haazaššaag,Phonemic
+2-330-131-1,hung1274,Hungarian,203,megházasodik,Standard,marry,,,meghaazašodik,Phonemic
+2-320-131-1,hung1274,Hungarian,1199,feleség,Standard,wife,,,felešeeg,Phonemic
+2-310-131-1,hung1274,Hungarian,1200,féry,Standard,husband,,,feery,Phonemic
+2-280-131-1,hung1274,Hungarian,1289,czeczemő,Standard,"infant, baby",,,čečemöö; (kiš)baba,Phonemic
+2-280-131-3,hung1274,Hungarian,1289,(kis)baba,Standard,"infant, baby",,,čečemöö; (kiš)baba,Phonemic
+2-270-131-1,hung1274,Hungarian,1304,gyer(m)ek,Standard,child,,,dʸer(m)ek,Phonemic
+2-261-131-1,hung1274,Hungarian,77,kisaszszony,Standard,young woman (adolescent),,,kišassoɲ,Phonemic
+2-260-131-1,hung1274,Hungarian,1646,l(e)ány,Standard,girl,,,l(e)aaɲ,Phonemic
+2-251-131-1,hung1274,Hungarian,76,ifyú,Standard,young man (adolescent),,,ifyuu; fiatalember,Phonemic
+2-251-131-3,hung1274,Hungarian,76,fiatalember,Standard,young man (adolescent),,,ifyuu; fiatalember,Phonemic
+2-250-131-1,hung1274,Hungarian,1366,fiú,Standard,boy,,,fiuu,Phonemic
+2-240-131-1,hung1274,Hungarian,1551,nőnemü,Standard,female,,,nöönemü,Phonemic
+2-230-131-1,hung1274,Hungarian,1553,hím,Standard,male,,,hiim,Phonemic
+2-220-131-1,hung1274,Hungarian,962,aszszony,Standard,woman,,,assoɲ; nöö,Phonemic
+2-220-131-3,hung1274,Hungarian,962,nő,Standard,woman,,,assoɲ; nöö,Phonemic
+2-210-131-1,hung1274,Hungarian,1554,férfi,Standard,man (vs. woman),,,feerfi,Phonemic
+2-100-131-1,hung1274,Hungarian,683,egyén,Standard,"person, human being",,,edʸeen; ember,Phonemic
+2-100-131-3,hung1274,Hungarian,683,ember,Standard,"person, human being",,,edʸeen; ember,Phonemic
+1-890-131-1,hung1274,Hungarian,1188,faszén ~ szén,Standard,charcoal,,,faseen ~ seen,Phonemic
+1-880-131-1,hung1274,Hungarian,10,tűzifa,Standard,firewood,,,tüüzifa,Phonemic
+1-870-131-1,hung1274,Hungarian,1133,gyufa,Standard,match (noun),,,dʸufa,Phonemic
+1-861-131-1,hung1274,Hungarian,127,elolt,Standard,extinguish,,,elolt,Phonemic
+1-860-131-1,hung1274,Hungarian,737,meggyúyt,Standard,"light, kindle, ignite",,,megdʸuuyt; eltüzel,Phonemic
+1-860-131-3,hung1274,Hungarian,737,eltüzel,Standard,"light, kindle, ignite",,,megdʸuuyt; eltüzel,Phonemic
+1-852-131-1,hung1274,Hungarian,1428,ég,Standard,burn (vb intrans),,,eeg,Phonemic
+1-851-131-1,hung1274,Hungarian,141,(el)éget,Standard,burn (vb trans),,,(el)eeget,Phonemic
+1-841-131-1,hung1274,Hungarian,67,parázs,Standard,embers,,,paraaž,Phonemic
+1-840-131-1,hung1274,Hungarian,646,hamu,Standard,ashes,,,hamu,Phonemic
+1-830-131-1,hung1274,Hungarian,778,füst,Standard,smoke (noun),,,füšt,Phonemic
+1-820-131-1,hung1274,Hungarian,889,láng,Standard,flame (noun),,,laang,Phonemic
+1-810-131-1,hung1274,Hungarian,221,tűz,Standard,fire,,,tüüz,Phonemic
+1-780-131-1,hung1274,Hungarian,952,idő(yárás),Standard,weather,,,idöö(yaaraaš),Phonemic
+1-770-131-1,hung1274,Hungarian,617,yég,Standard,ice,,,yeeg,Phonemic
+1-760-131-1,hung1274,Hungarian,784,hó,Standard,snow (noun),,,hoo,Phonemic
+1-750-131-1,hung1274,Hungarian,658,eső,Standard,rain (noun),,,ešöö,Phonemic
+1-740-131-1,hung1274,Hungarian,249,köd,Standard,fog,,,köd,Phonemic
+1-720-131-1,hung1274,Hungarian,960,szél,Standard,wind,,,seel,Phonemic
+1-730-131-1,hung1274,Hungarian,1489,felhő,Standard,cloud,,,felhöö,Phonemic
+1-710-131-1,hung1274,Hungarian,27,levegő,Standard,air,,,lewegöö,Phonemic
+1-640-131-1,hung1274,Hungarian,1977,harmat,Standard,dew,,,harmat,Phonemic
+1-630-131-1,hung1274,Hungarian,1388,árnyék ~ árny,Standard,"shade, shadow",,,aarɲeek ~ aarɲ,Phonemic
+1-620-131-1,hung1274,Hungarian,11,sötégség,Standard,darkness,,,šöteegšeeg,Phonemic
+1-610-131-1,hung1274,Hungarian,630,fény,Standard,light (noun),,,feeɲ; wilaagoššaag,Phonemic
+1-610-131-3,hung1274,Hungarian,630,világosság,Standard,light (noun),,,feeɲ; wilaagoššaag,Phonemic
+1-590-131-1,hung1274,Hungarian,1733,szivárvány,Standard,rainbow,,,siwaarwaaɲ,Phonemic
+1-580-131-1,hung1274,Hungarian,858,vihar,Standard,storm,,,wihar,Phonemic
+1-560-131-1,hung1274,Hungarian,1150,mennydörgés,Standard,thunder,,,menɲdörgeeš,Phonemic
+1-570-131-1,hung1274,Hungarian,2007,zivatar,Standard,lightning (as striking),,,ziwatar,Phonemic
+1-550-131-1,hung1274,Hungarian,1654,villám,Standard,lightning,,,willaam,Phonemic
+1-540-131-1,hung1274,Hungarian,1430,czillag,Standard,star,,,čillag,Phonemic
+1-530-131-1,hung1274,Hungarian,1313,hold,Standard,moon,,,hold,Phonemic
+1-520-131-1,hung1274,Hungarian,1343,nap,Standard,sun,,Also means 'day' 14.410.,nap,Phonemic
+1-510-131-1,hung1274,Hungarian,1732,ég,Standard,sky,,,eeg,Phonemic
+1-450-131-1,hung1274,Hungarian,6,földrengés,Standard,earthquake,,,földrengeeš,Phonemic
+1-440-131-1,hung1274,Hungarian,2125,kő,Standard,"stone, rock",,,köö; sikla; sirt,Phonemic
+1-440-131-3,hung1274,Hungarian,2125,szikla,Standard,"stone, rock",,,köö; sikla; sirt,Phonemic
+1-440-131-5,hung1274,Hungarian,2125,szirt,Standard,"stone, rock",,,köö; sikla; sirt,Phonemic
+1-430-131-1,hung1274,Hungarian,1803,fányag,Standard,wood,,,faaɲag; tüüzifa,Phonemic
+1-430-131-3,hung1274,Hungarian,1803,tűzifa,Standard,wood,,,faaɲag; tüüzifa,Phonemic
+1-420-131-1,hung1274,Hungarian,906,fa,Standard,tree (cf 08.600),,,fa,Phonemic
+1-410-131-1,hung1274,Hungarian,420,erdő,Standard,"woods, forest",,,erdöö,Phonemic
+1-390-131-1,hung1274,Hungarian,943,vízesés,Standard,waterfall,,,wiizešeeš,Phonemic
+1-380-131-1,hung1274,Hungarian,1145,moczár,Standard,swamp,,,močaar; laap; ingowaaɲ,Phonemic
+1-380-131-3,hung1274,Hungarian,1145,láp,Standard,swamp,,,močaar; laap; ingowaaɲ,Phonemic
+1-380-131-5,hung1274,Hungarian,1145,ingovány,Standard,swamp,,,močaar; laap; ingowaaɲ,Phonemic
+1-370-131-1,hung1274,Hungarian,2144,forrás,Standard,"spring, well",,,forraaš; kuut,Phonemic
+1-370-131-3,hung1274,Hungarian,2144,kút,Standard,"spring, well",,,forraaš; kuut,Phonemic
+1-362-131-1,hung1274,Hungarian,1982,forgatag,Standard,whirlpool,,,forgatag,Phonemic
+1-360-131-1,hung1274,Hungarian,666,folyo ~ folyam,Standard,"river, stream, brook",,,folʸo ~ folʸam; aar; patak,Phonemic
+1-360-131-3,hung1274,Hungarian,666,ár,Standard,"river, stream, brook",,,folʸo ~ folʸam; aar; patak,Phonemic
+1-360-131-5,hung1274,Hungarian,666,patak,Standard,"river, stream, brook",,,folʸo ~ folʸam; aar; patak,Phonemic
+1-354-131-1,hung1274,Hungarian,613,dagály,Standard,hightide,,,dagaalʸ,Phonemic
+1-353-131-1,hung1274,Hungarian,1026,apály,Standard,lowtide,,,apaalʸ,Phonemic
+1-352-131-1,hung1274,Hungarian,891,árapály,Standard,tide,,,aarapaalʸ,Phonemic
+1-350-131-1,hung1274,Hungarian,978,hullám,Standard,wave,,,hullaam,Phonemic
+1-343-131-1,hung1274,Hungarian,1662,hegyfok,Standard,"headland, point",,,hedʸfok; földnelw,Phonemic
+1-343-131-3,hung1274,Hungarian,1662,földnelv,Standard,"headland, point",,,hedʸfok; földnelw,Phonemic
+1-342-131-1,hung1274,Hungarian,660,szirt,Standard,reef,,"Also see 'stone, rock' 01.440.",sirt; zaatoɲ,Phonemic
+1-342-131-3,hung1274,Hungarian,660,zátony,Standard,reef,,"Also see 'stone, rock' 01.440.",sirt; zaatoɲ,Phonemic
+1-341-131-1,hung1274,Hungarian,623,lagúna,Standard,lagoon,,,laguuna,Phonemic
+1-340-131-1,hung1274,Hungarian,663,öböl,Standard,"gulf, bay",,,öböl,Phonemic
+1-330-131-1,hung1274,Hungarian,624,tó,Standard,lake,,,too,Phonemic
+1-329-131-1,hung1274,Hungarian,645,óceán,Standard,ocean,,,ooc̷eaan,Phonemic
+1-324-131-1,hung1274,Hungarian,1768,hab,Standard,foam,,,hab; tayteek,Phonemic
+1-324-131-3,hung1274,Hungarian,1768,tayték,Standard,foam,,,hab; tayteek,Phonemic
+1-323-131-1,hung1274,Hungarian,259,viharos,Standard,rough (of sea),,,wiharoš,Phonemic
+1-320-131-1,hung1274,Hungarian,1474,tenger,Standard,sea,,,tenger,Phonemic
+1-322-131-1,hung1274,Hungarian,258,nyugodt,Standard,calm (of sea),,,ɲugodt; čendeš,Phonemic
+1-322-131-3,hung1274,Hungarian,258,czendes,Standard,calm (of sea),,,ɲugodt; čendeš,Phonemic
+1-310-131-1,hung1274,Hungarian,948,víz,Standard,water,,,wiiz,Phonemic
+1-280-131-1,hung1274,Hungarian,1155,barlang,Standard,cave,,,barlang,Phonemic
+1-270-131-1,hung1274,Hungarian,113,part,Standard,shore,,,part,Phonemic
+1-260-131-1,hung1274,Hungarian,166,szárazföld,Standard,mainland,,,saarazföld; [kontinenš],Phonemic
+1-260-131-3,hung1274,Hungarian,166,[kontinens],Standard,mainland,,,saarazföld; [kontinenš],Phonemic
+1-250-131-1,hung1274,Hungarian,622,sziget,Standard,island,,,siget,Phonemic
+1-240-131-1,hung1274,Hungarian,921,völgy,Standard,valley,,,wöldʸ,Phonemic
+1-230-131-1,hung1274,Hungarian,652,sikság,Standard,"plain, field",,,šikšaag; mezöö,Phonemic
+1-230-131-3,hung1274,Hungarian,652,mező,Standard,"plain, field",,,šikšaag; mezöö,Phonemic
+1-222-131-1,hung1274,Hungarian,618,szikla,Standard,"cliff, precipice",,Also see 'rock' 01.440.,sikla; sirt,Phonemic
+1-222-131-3,hung1274,Hungarian,618,szirt,Standard,"cliff, precipice",,Also see 'rock' 01.440.,sikla; sirt,Phonemic
+1-220-131-1,hung1274,Hungarian,2118,hegy,Standard,"mountain, hill",,,hedʸ,Phonemic
+1-214-131-1,hung1274,Hungarian,640,sár,Standard,mud,,,šaar,Phonemic
+1-215-131-1,hung1274,Hungarian,671,homok,Standard,sand,,,homok,Phonemic
+1-213-131-1,hung1274,Hungarian,2,por,Standard,dust,,,por,Phonemic
+1-212-131-1,hung1274,Hungarian,1228,föld,Standard,"earth=ground, soil",,,föld; talay,Phonemic
+1-212-131-3,hung1274,Hungarian,1228,talay,Standard,"earth=ground, soil",,,föld; talay,Phonemic
+1-210-131-1,hung1274,Hungarian,626,föld,Standard,"earth, land",,,föld,Phonemic
+1-100-131-1,hung1274,Hungarian,965,világ,Standard,world,,,wilaag,Phonemic
+14-330-131-1,hung1274,Hungarian,1544,valamikor,Standard,sometimes,,,walamikor,Phonemic
+14-331-131-1,hung1274,Hungarian,703,mindyárt,Standard,soon,,,mindyaart,Phonemic
+14-332-131-1,hung1274,Hungarian,418,sokáig,Standard,long-time (for a),,,šokaaig,Phonemic
+14-340-131-1,hung1274,Hungarian,1656,soha,Standard,never,,,šoha,Phonemic
+14-350-131-1,hung1274,Hungarian,204,megint,Standard,again,,,megint; pedig,Phonemic
+14-350-131-3,hung1274,Hungarian,204,pedig,Standard,again,,,megint; pedig,Phonemic
+14-410-131-1,hung1274,Hungarian,1225,nap,Standard,day,,Also means 'sun' 01.520.,nap,Phonemic
+14-420-131-1,hung1274,Hungarian,1233,éy,Standard,night,,,eey,Phonemic
+14-430-131-1,hung1274,Hungarian,729,napkelte,Standard,dawn,,,napkelte; haynal,Phonemic
+14-430-131-3,hung1274,Hungarian,729,haynal,Standard,dawn,,,napkelte; haynal,Phonemic
+14-440-131-1,hung1274,Hungarian,1339,reggel,Standard,morning,,,reggel,Phonemic
+14-450-131-1,hung1274,Hungarian,12,dél,Standard,"noon, midday",,,deel,Phonemic
+14-451-131-1,hung1274,Hungarian,1807,délután,Standard,afternoon,,,deelutaan,Phonemic
+14-460-131-1,hung1274,Hungarian,1629,este,Standard,evening,,,ešte,Phonemic
+14-470-131-1,hung1274,Hungarian,1283,ma,Standard,today,,,ma,Phonemic
+14-480-131-1,hung1274,Hungarian,1329,holnap,Standard,tomorrow,,,holnap,Phonemic
+14-481-131-1,hung1274,Hungarian,1179,holnapután,Standard,day-after-tomorrow,,,holnaputaan,Phonemic
+14-490-131-1,hung1274,Hungarian,1174,tegnap,Standard,yesterday,,,tegnap,Phonemic
+14-491-131-1,hung1274,Hungarian,1180,tegnapelőtt,Standard,day-before-yesterday,,,tegnapelöött,Phonemic
+14-510-131-1,hung1274,Hungarian,1353,óra,Standard,hour,,,oora,Phonemic
+14-530-131-1,hung1274,Hungarian,1323,óra,Standard,"clock, timepiece",,,oora,Phonemic
+14-610-131-1,hung1274,Hungarian,1469,hét,Standard,week,,,heet,Phonemic
+14-620-131-1,hung1274,Hungarian,1699,vasárnap,Standard,Sunday,,,wašaarnap,Phonemic
+14-630-131-1,hung1274,Hungarian,1697,hétfő,Standard,Monday,,,heetföö,Phonemic
+14-640-131-1,hung1274,Hungarian,1695,kedd,Standard,Tuesday,,,kedd,Phonemic
+14-650-131-1,hung1274,Hungarian,1694,szerda,Standard,Wednesday,,,serda,Phonemic
+14-660-131-1,hung1274,Hungarian,1693,czütörtök,Standard,Thursday,,,čütörtök,Phonemic
+14-670-131-1,hung1274,Hungarian,1692,péntek,Standard,Friday,,,peentek,Phonemic
+14-680-131-1,hung1274,Hungarian,1700,szombat,Standard,Saturday,,,sombat,Phonemic
+14-710-131-1,hung1274,Hungarian,1370,hónap,Standard,month,,,hoonap,Phonemic
+14-730-131-1,hung1274,Hungarian,1226,év,Standard,year,,,eew,Phonemic
+14-740-131-1,hung1274,Hungarian,1471,tél,Standard,winter,,,teel,Phonemic
+14-750-131-1,hung1274,Hungarian,1537,tavasz,Standard,spring,,,tawas,Phonemic
+14-760-131-1,hung1274,Hungarian,1342,nyár,Standard,summer,,,ɲaar,Phonemic
+14-770-131-1,hung1274,Hungarian,1276,ösz,Standard,autumn,,,ös,Phonemic
+14-780-131-1,hung1274,Hungarian,691,évszak,Standard,season,,,eewsak,Phonemic
+15-210-131-1,hung1274,Hungarian,1587,illatozik,Standard,smell (vb intrans),,,illatozik,Phonemic
+15-212-131-1,hung1274,Hungarian,375,(meg)szagol ~ szagolgat,Standard,sniff,,,(meg)sagol ~ sagolgat,Phonemic
+15-220-131-1,hung1274,Hungarian,1586,(meg)szagol,Standard,smell (vb trans),,,(meg)sagol,Phonemic
+15-250-131-1,hung1274,Hungarian,376,illatos,Standard,"fragrant, good smelling",,,illatoš,Phonemic
+15-260-131-1,hung1274,Hungarian,42,bűzös ~ büdös,Standard,"stinking, bad smelling",,,büüzöš ~ büdöš,Phonemic
+15-310-131-1,hung1274,Hungarian,21,(meg)ízlel,Standard,taste,,,(meg)iizlel,Phonemic
+15-350-131-1,hung1274,Hungarian,717,édes,Standard,sweet,,,eedeš; yooiizüü,Phonemic
+15-350-131-3,hung1274,Hungarian,717,yóízű,Standard,sweet,,,eedeš; yooiizüü,Phonemic
+15-360-131-1,hung1274,Hungarian,1091,sós,Standard,salty,,,šooš,Phonemic
+15-370-131-1,hung1274,Hungarian,887,keserű,Standard,bitter,,,kešerüü,Phonemic
+15-380-131-1,hung1274,Hungarian,1906,savanyú,Standard,"acid, sour",,,šawaɲuu,Phonemic
+15-390-131-1,hung1274,Hungarian,70,kissé sós,Standard,brackish,,,kiššee šooš,Phonemic
+15-410-131-1,hung1274,Hungarian,1408,hall,Standard,hear,,,hall,Phonemic
+15-420-131-1,hung1274,Hungarian,1608,hallgat,Standard,listen,,,hallgat,Phonemic
+15-440-131-1,hung1274,Hungarian,1811,hang,Standard,"sound, noise",,,hang,Phonemic
+15-450-131-1,hung1274,Hungarian,377,nagyhangú,Standard,loud,,,nadʸhanguu,Phonemic
+15-460-131-1,hung1274,Hungarian,1314,czend,Standard,"quiet, silence",,,čend; ɲugalom,Phonemic
+15-460-131-3,hung1274,Hungarian,1314,nyugalom,Standard,"quiet, silence",,,čend; ɲugalom,Phonemic
+15-510-131-1,hung1274,Hungarian,1409,lát,Standard,see,,,laat,Phonemic
+15-520-131-1,hung1274,Hungarian,1819,néz,Standard,"look, look at",,,neez,Phonemic
+15-550-131-1,hung1274,Hungarian,1039,mutat,Standard,show,,,mutat,Phonemic
+15-560-131-1,hung1274,Hungarian,708,fénylik,Standard,shine,,,feeɲlik,Phonemic
+15-570-131-1,hung1274,Hungarian,679,világos,Standard,bright,,,wilaagoš,Phonemic
+15-610-131-1,hung1274,Hungarian,1613,szín,Standard,color,,,siin,Phonemic
+15-620-131-1,hung1274,Hungarian,250,világos,Standard,light (in color),,,wilaagoš,Phonemic
+15-630-131-1,hung1274,Hungarian,706,sötét,Standard,dark (in color),,,šöteet,Phonemic
+15-640-131-1,hung1274,Hungarian,1335,fehér,Standard,white,,,feheer,Phonemic
+15-650-131-1,hung1274,Hungarian,163,fekete,Standard,black,,,fekete,Phonemic
+15-660-131-1,hung1274,Hungarian,156,piros,Standard,red,,,piroš,Phonemic
+15-670-131-1,hung1274,Hungarian,837,kék,Standard,blue,,,keek,Phonemic
+15-680-131-1,hung1274,Hungarian,1425,zöld,Standard,green,,,zöld,Phonemic
+15-690-131-1,hung1274,Hungarian,1424,sárga,Standard,yellow,,,šaarga,Phonemic
+15-710-131-1,hung1274,Hungarian,1892,(hozzá)ér,Standard,touch,,,(hozzaa)eer,Phonemic
+15-712-131-1,hung1274,Hungarian,378,megczíp,Standard,pinch,,,megčiip,Phonemic
+15-720-131-1,hung1274,Hungarian,1079,tapogat,Standard,feel,,,tapogat; eerez,Phonemic
+15-720-131-3,hung1274,Hungarian,1079,érez,Standard,feel,,,tapogat; eerez,Phonemic
+15-740-131-1,hung1274,Hungarian,1884,kemény,Standard,hard,,,kemeeɲ,Phonemic
+15-750-131-1,hung1274,Hungarian,1856,puha,Standard,soft,,,puha; laadʸ,Phonemic
+15-750-131-3,hung1274,Hungarian,1856,lágy,Standard,soft,,,puha; laadʸ,Phonemic
+15-760-131-1,hung1274,Hungarian,1923,érdes,Standard,rough,,,eerdeš,Phonemic
+15-770-131-1,hung1274,Hungarian,1234,sima,Standard,smooth,,,šima,Phonemic
+15-780-131-1,hung1274,Hungarian,1396,éles,Standard,sharp,,,eeleš,Phonemic
+15-790-131-1,hung1274,Hungarian,379,életlen,Standard,"blunt, dull",,,eeletlen; tompa,Phonemic
+15-790-131-3,hung1274,Hungarian,379,tompa,Standard,"blunt, dull",,,eeletlen; tompa,Phonemic
+15-810-131-1,hung1274,Hungarian,1210,nehéz,Standard,heavy,,,neheez,Phonemic
+15-820-131-1,hung1274,Hungarian,1052,könnyű,Standard,light (in weight),,,könɲüü,Phonemic
+15-830-131-1,hung1274,Hungarian,1726,nedves,Standard,"wet, damp",,,nedweš; ɲirkoš,Phonemic
+15-830-131-3,hung1274,Hungarian,1726,nyirkos,Standard,"wet, damp",,,nedweš; ɲirkoš,Phonemic
+15-840-131-1,hung1274,Hungarian,1398,száraz,Standard,dry,,,saaraz,Phonemic
+15-850-131-1,hung1274,Hungarian,1286,forró,Standard,hot,,,forroo; tüzeš,Phonemic
+15-850-131-3,hung1274,Hungarian,1286,tüzes,Standard,hot,,,forroo; tüzeš,Phonemic
+15-851-131-1,hung1274,Hungarian,1232,meleg,Standard,warm,,,meleg,Phonemic
+15-860-131-1,hung1274,Hungarian,1287,hideg,Standard,cold,,,hideg,Phonemic
+15-870-131-1,hung1274,Hungarian,704,tiszta,Standard,clean,,,tista,Phonemic
+15-880-131-1,hung1274,Hungarian,1230,piszkos,Standard,"dirty, soiled",,,piskoš; močkoš,Phonemic
+15-880-131-3,hung1274,Hungarian,1230,moczkos,Standard,"dirty, soiled",,,piskoš; močkoš,Phonemic
+15-890-131-1,hung1274,Hungarian,380,ráncos,Standard,wrinkled,,,raanc̷oš,Phonemic
+16-110-131-1,hung1274,Hungarian,53,lélek,Standard,"soul, spirit",,,leelek; sellem,Phonemic
+16-110-131-3,hung1274,Hungarian,53,szellem,Standard,"soul, spirit",,,leelek; sellem,Phonemic
+16-150-131-1,hung1274,Hungarian,1572,meglepődött,Standard,"surprised, astonished",,,meglepöödött; čodaalkozoo,Phonemic
+16-150-131-3,hung1274,Hungarian,1572,czodálkozó,Standard,"surprised, astonished",,,meglepöödött; čodaalkozoo,Phonemic
+16-180-131-1,hung1274,Hungarian,720,szerencze,Standard,"good fortune, luck",,,serenče,Phonemic
+16-190-131-1,hung1274,Hungarian,56,balsors,Standard,"misfortune, bad luck",,,balšorš,Phonemic
+16-230-131-1,hung1274,Hungarian,1495,vidám,Standard,"joyful, glad, happy",,,widaam; boldog,Phonemic
+16-230-131-3,hung1274,Hungarian,1495,boldog,Standard,"joyful, glad, happy",,,widaam; boldog,Phonemic
+16-250-131-1,hung1274,Hungarian,1355,nevet,Standard,laugh,,,newet,Phonemic
+16-251-131-1,hung1274,Hungarian,1451,mosolyog,Standard,smile,,,mošolʸog,Phonemic
+16-260-131-1,hung1274,Hungarian,1413,yátszik,Standard,play,,,yaatsik,Phonemic
+16-270-131-1,hung1274,Hungarian,923,szeret,Standard,love,,Respectively: verb; noun.,seret; serelem,Phonemic
+16-270-131-3,hung1274,Hungarian,923,szerelem,Standard,love,,Respectively: verb; noun.,seret; serelem,Phonemic
+16-290-131-1,hung1274,Hungarian,578,czókol,Standard,kiss,,,čookol,Phonemic
+16-300-131-1,hung1274,Hungarian,928,megölel,Standard,embrace,,,megölel; aatkarol,Phonemic
+16-300-131-3,hung1274,Hungarian,928,átkarol,Standard,embrace,,,megölel; aatkarol,Phonemic
+16-310-131-1,hung1274,Hungarian,1783,fáyás,Standard,pain,,,faayaaš,Phonemic
+16-320-131-1,hung1274,Hungarian,1668,bánat,Standard,"grief, sorrow, sadness",,,baanat; somoruušaag,Phonemic
+16-320-131-3,hung1274,Hungarian,1668,szomorúság,Standard,"grief, sorrow, sadness",,,baanat; somoruušaag,Phonemic
+16-330-131-1,hung1274,Hungarian,1000,gondoskodás,Standard,"anxiety, worry",,,gondoškodaaš,Phonemic
+16-340-131-1,hung1274,Hungarian,1875,(meg)saynál,Standard,"regret, be sorry",,,(meg)šaynaal; (meg)baan,Phonemic
+16-340-131-3,hung1274,Hungarian,1875,(meg)bán,Standard,"regret, be sorry",,,(meg)šaynaal; (meg)baan,Phonemic
+16-350-131-1,hung1274,Hungarian,1141,részvét,Standard,pity,,,reesweet; šaynaalkozaaš,Phonemic
+16-350-131-3,hung1274,Hungarian,1141,saynálkozás,Standard,pity,,,reesweet; šaynaalkozaaš,Phonemic
+16-370-131-1,hung1274,Hungarian,1839,sírdogál,Standard,"cry, weep",,,šiirdogaal,Phonemic
+16-380-131-1,hung1274,Hungarian,1651,könny(czepp),Standard,tear (noun),,,könɲ(čepp),Phonemic
+16-390-131-1,hung1274,Hungarian,716,nyög ~ nyöszörög,Standard,groan,,,ɲög ~ ɲösörög; šoohaytozik,Phonemic
+16-390-131-3,hung1274,Hungarian,716,sóhaytozik,Standard,groan,,,ɲög ~ ɲösörög; šoohaytozik,Phonemic
+16-410-131-1,hung1274,Hungarian,1607,gyűlöl,Standard,hate,,,dʸüülöl,Phonemic
+16-420-131-1,hung1274,Hungarian,82,gyűlölet,Standard,anger,,,dʸüülölet,Phonemic
+16-440-131-1,hung1274,Hungarian,40,irigység,Standard,"envy, jealousy",,,iridʸšeeg,Phonemic
+16-450-131-1,hung1274,Hungarian,1776,szégyen,Standard,shame (noun),,,seedʸen,Phonemic
+16-480-131-1,hung1274,Hungarian,174,kevély,Standard,proud,,,keweelʸ; büske,Phonemic
+16-480-131-3,hung1274,Hungarian,174,büszke,Standard,proud,,,keweelʸ; büske,Phonemic
+16-510-131-1,hung1274,Hungarian,1779,mer ~ merészel,Standard,dare,,,mer ~ mereesel,Phonemic
+16-520-131-1,hung1274,Hungarian,3,bátor,Standard,brave,,,baator,Phonemic
+16-530-131-1,hung1274,Hungarian,781,félelem,Standard,"fear, fright",,,feelelem,Phonemic
+16-540-131-1,hung1274,Hungarian,1810,veszély,Standard,danger,,,weseelʸ,Phonemic
+16-620-131-1,hung1274,Hungarian,1784,kíván,Standard,"desire, want",,,kiiwaan; akar; kedwe; tartya; seret,Phonemic
+16-620-131-3,hung1274,Hungarian,1784,akar,Standard,"desire, want",,,kiiwaan; akar; kedwe; tartya; seret,Phonemic
+16-620-131-5,hung1274,Hungarian,1784,kedve,Standard,"desire, want",,,kiiwaan; akar; kedwe; tartya; seret,Phonemic
+16-620-131-7,hung1274,Hungarian,1784,tartya,Standard,"desire, want",,,kiiwaan; akar; kedwe; tartya; seret,Phonemic
+16-620-131-9,hung1274,Hungarian,1784,szeret,Standard,"desire, want",,,kiiwaan; akar; kedwe; tartya; seret,Phonemic
+16-622-131-1,hung1274,Hungarian,1750,választ,Standard,choose,,,waalast,Phonemic
+16-630-131-1,hung1274,Hungarian,1092,kívánság,Standard,hope,,,kiiwaanšaag,Phonemic
+16-650-131-1,hung1274,Hungarian,100,hű,Standard,faithful,,,hüü,Phonemic
+16-660-131-1,hung1274,Hungarian,1657,igazi ~ igaz,Standard,true,,,igazi ~ igaz,Phonemic
+16-670-131-1,hung1274,Hungarian,601,hazudik,Standard,"lie, tell lies",,,hazudik,Phonemic
+16-680-131-1,hung1274,Hungarian,13,hazugság,Standard,deceit,,,hazugšaag,Phonemic
+16-690-131-1,hung1274,Hungarian,1528,megboczát,Standard,forgive,,,megbočaat,Phonemic
+16-710-131-1,hung1274,Hungarian,1035,yó,Standard,good,,,yoo; helʸeš,Phonemic
+16-710-131-3,hung1274,Hungarian,1035,helyes,Standard,good,,,yoo; helʸeš,Phonemic
+16-720-131-1,hung1274,Hungarian,1292,roszsz,Standard,bad,,,ross,Phonemic
+16-730-131-1,hung1274,Hungarian,1725,igaz ~ igazságos,Standard,"right, correct",,,igaz ~ igazšaagoš,Phonemic
+16-740-131-1,hung1274,Hungarian,1390,hamis,Standard,wrong,,,hamiš; teeweš,Phonemic
+16-740-131-3,hung1274,Hungarian,1390,téves,Standard,wrong,,,hamiš; teeweš,Phonemic
+16-760-131-1,hung1274,Hungarian,134,hiba,Standard,fault,,,hiba; felelööššeeg,Phonemic
+16-760-131-3,hung1274,Hungarian,134,felelősség,Standard,fault,,,hiba; felelööššeeg,Phonemic
+16-770-131-1,hung1274,Hungarian,1293,hiba,Standard,"mistake, error",,,hiba,Phonemic
+16-780-131-1,hung1274,Hungarian,381,szidás,Standard,blame,,,sidaaš; dorgaalaaš,Phonemic
+16-780-131-3,hung1274,Hungarian,381,dorgálás,Standard,blame,,,sidaaš; dorgaalaaš,Phonemic
+16-790-131-1,hung1274,Hungarian,1687,diczéret ~ diczőítés,Standard,praise,,,dičeeret ~ dičööiiteeš,Phonemic
+16-810-131-1,hung1274,Hungarian,1427,szép,Standard,beautiful,,,seep,Phonemic
+16-820-131-1,hung1274,Hungarian,1548,czúnya,Standard,ugly,,,čuuɲa,Phonemic
+16-830-131-1,hung1274,Hungarian,2018,irigy,Standard,greedy,,,iridʸ,Phonemic
+16-840-131-1,hung1274,Hungarian,1310,bölcz,Standard,clever,,,bölč,Phonemic
+17-110-131-1,hung1274,Hungarian,1562,esz,Standard,mind,,,es,Phonemic
+17-130-131-1,hung1274,Hungarian,1415,gondolkozik,Standard,think (= reflect),,,gondolkozik; weel,Phonemic
+17-130-131-3,hung1274,Hungarian,1415,vél,Standard,think (= reflect),,,gondolkozik; weel,Phonemic
+17-140-131-1,hung1274,Hungarian,1513,gondol,Standard,think (= be of the opinion),,,gondol; weel,Phonemic
+17-140-131-3,hung1274,Hungarian,1513,vél,Standard,think (= be of the opinion),,,gondol; weel,Phonemic
+17-150-131-1,hung1274,Hungarian,1890,hisz,Standard,believe,,,his,Phonemic
+17-160-131-1,hung1274,Hungarian,1536,ért ~ megért,Standard,understand,,,eert ~ megeert,Phonemic
+17-170-131-1,hung1274,Hungarian,1410,tud,Standard,know,,,tud; išmer,Phonemic
+17-170-131-3,hung1274,Hungarian,1410,ismer,Standard,know,,,tud; išmer,Phonemic
+17-171-131-1,hung1274,Hungarian,1932,feltételez,Standard,guess,,,felteetelez; weel,Phonemic
+17-171-131-3,hung1274,Hungarian,1932,vél,Standard,guess,,,felteetelez; weel,Phonemic
+17-172-131-1,hung1274,Hungarian,117,utánoz,Standard,imitate,,,utaanoz; imitaal,Phonemic
+17-172-131-3,hung1274,Hungarian,117,imitál,Standard,imitate,,,utaanoz; imitaal,Phonemic
+17-180-131-1,hung1274,Hungarian,1521,látszik,Standard,seem,,,laatsik,Phonemic
+17-190-131-1,hung1274,Hungarian,1609,gondolat,Standard,"idea, notion",,,gondolat; esme; fogalom,Phonemic
+17-190-131-3,hung1274,Hungarian,1609,eszme,Standard,"idea, notion",,,gondolat; esme; fogalom,Phonemic
+17-190-131-5,hung1274,Hungarian,1609,fogalom,Standard,"idea, notion",,,gondolat; esme; fogalom,Phonemic
+17-210-131-1,hung1274,Hungarian,698,bölcz,Standard,wise,,,bölč; okoš,Phonemic
+17-210-131-3,hung1274,Hungarian,698,okos,Standard,wise,,,bölč; okoš,Phonemic
+17-220-131-1,hung1274,Hungarian,1518,ostoba,Standard,"foolish, stupid",,,oštoba; buta; hülʸe,Phonemic
+17-220-131-3,hung1274,Hungarian,1518,buta,Standard,"foolish, stupid",,,oštoba; buta; hülʸe,Phonemic
+17-220-131-5,hung1274,Hungarian,1518,hülye,Standard,"foolish, stupid",,,oštoba; buta; hülʸe,Phonemic
+17-230-131-1,hung1274,Hungarian,1899,bolond,Standard,"insane, crazy",,,bolond; öörult,Phonemic
+17-230-131-3,hung1274,Hungarian,1899,őrult,Standard,"insane, crazy",,,bolond; öörult,Phonemic
+17-240-131-1,hung1274,Hungarian,504,tanul ~ megtanul,Standard,learn,,,tanul ~ megtanul,Phonemic
+17-242-131-1,hung1274,Hungarian,1929,tanul,Standard,study,,,tanul,Phonemic
+17-250-131-1,hung1274,Hungarian,709,tanít,Standard,teach,,,taniit; oktat,Phonemic
+17-250-131-3,hung1274,Hungarian,709,oktat,Standard,teach,,,taniit; oktat,Phonemic
+17-260-131-1,hung1274,Hungarian,753,tanuló,Standard,pupil,,,tanuloo,Phonemic
+17-270-131-1,hung1274,Hungarian,1038,tanító,Standard,teacher,,,taniitoo,Phonemic
+17-280-131-1,hung1274,Hungarian,673,iskola,Standard,school,,,iškola,Phonemic
+17-310-131-1,hung1274,Hungarian,707,emlékszik,Standard,remember,,,emleeksik,Phonemic
+17-320-131-1,hung1274,Hungarian,1523,(el)feleyt,Standard,forget,,,(el)feleyt,Phonemic
+17-340-131-1,hung1274,Hungarian,989,világos,Standard,"clear, plain",,,wilaagoš,Phonemic
+17-350-131-1,hung1274,Hungarian,1764,homályos,Standard,obscure,,,homaalʸoš,Phonemic
+17-360-131-1,hung1274,Hungarian,1121,titkos,Standard,secret,,,titkoš,Phonemic
+17-370-131-1,hung1274,Hungarian,509,biztos,Standard,"sure, certain",,,biztoš,Phonemic
+17-380-131-1,hung1274,Hungarian,1626,(meg)magyaráz,Standard,explain,,,(meg)madʸaraaz,Phonemic
+17-410-131-1,hung1274,Hungarian,1162,szándék,Standard,"intention, purpose",,,saandeek,Phonemic
+17-420-131-1,hung1274,Hungarian,860,ok,Standard,cause,,,ok,Phonemic
+17-430-131-1,hung1274,Hungarian,1308,kételkedik,Standard,doubt,,,keetelkedik,Phonemic
+17-440-131-1,hung1274,Hungarian,1841,kételkedik,Standard,suspect,,,keetelkedik; dʸanuušiit,Phonemic
+17-440-131-3,hung1274,Hungarian,1841,gyanúsít,Standard,suspect,,,keetelkedik; dʸanuušiit,Phonemic
+17-441-131-1,hung1274,Hungarian,1902,elárul,Standard,betray,,,elaarul; kiad,Phonemic
+17-441-131-3,hung1274,Hungarian,1902,kiad,Standard,betray,,,elaarul; kiad,Phonemic
+17-450-131-1,hung1274,Hungarian,643,szükség,Standard,"need, necessity",,,sükšeeg,Phonemic
+17-460-131-1,hung1274,Hungarian,686,könnyű,Standard,easy,,,könɲüü; eɲhe,Phonemic
+17-460-131-3,hung1274,Hungarian,686,enyhe,Standard,easy,,,könɲüü; eɲhe,Phonemic
+17-470-131-1,hung1274,Hungarian,584,nehéz,Standard,difficult,,,neheez; bayoš,Phonemic
+17-470-131-3,hung1274,Hungarian,584,bayos,Standard,difficult,,,neheez; bayoš,Phonemic
+17-480-131-1,hung1274,Hungarian,1812,próbál,Standard,"try, attempt",,,proobaal,Phonemic
+17-490-131-1,hung1274,Hungarian,488,mód,Standard,"way, manner",,,mood; elyaaraaš,Phonemic
+17-490-131-3,hung1274,Hungarian,488,elyárás,Standard,"way, manner",,,mood; elyaaraaš,Phonemic
+17-510-131-1,hung1274,Hungarian,1577,és,Standard,and,,,eeš,Phonemic
+17-520-131-1,hung1274,Hungarian,1157,mivel,Standard,because,,,miwel; mert,Phonemic
+17-520-131-3,hung1274,Hungarian,1157,mert,Standard,because,,,miwel; mert,Phonemic
+17-530-131-1,hung1274,Hungarian,1459,ha,Standard,if,,,ha; hodʸha,Phonemic
+17-530-131-3,hung1274,Hungarian,1459,hogyha,Standard,if,,,ha; hodʸha,Phonemic
+17-540-131-1,hung1274,Hungarian,1014,vagy,Standard,or,,,wadʸ,Phonemic
+17-550-131-1,hung1274,Hungarian,1268,igen,Standard,"yes, affirmative",,,igen; igenlöö,Phonemic
+17-550-131-3,hung1274,Hungarian,1268,igenlő,Standard,"yes, affirmative",,,igen; igenlöö,Phonemic
+17-560-131-1,hung1274,Hungarian,1269,nem,Standard,"no, negative",,,nem; tagadoo,Phonemic
+17-560-131-3,hung1274,Hungarian,1269,tagadó,Standard,"no, negative",,,nem; tagadoo,Phonemic
+17-610-131-1,hung1274,Hungarian,1239,hogy? ~ hogyan?,Standard,how?,,,hodʸ? ~ hodʸan?,Phonemic
+17-620-131-1,hung1274,Hungarian,822,hány?,Standard,how many?,,,haaɲ?; menɲi?,Phonemic
+17-620-131-3,hung1274,Hungarian,822,mennyi?,Standard,how many?,,,haaɲ?; menɲi?,Phonemic
+17-630-131-1,hung1274,Hungarian,531,hány?,Standard,how much?,,,haaɲ?; menɲi?,Phonemic
+17-630-131-3,hung1274,Hungarian,531,mennyi?,Standard,how much?,,,haaɲ?; menɲi?,Phonemic
+17-640-131-1,hung1274,Hungarian,1236,mi?,Standard,what?,,,mi?,Phonemic
+17-650-131-1,hung1274,Hungarian,1238,mikor?,Standard,when?,,,mikor?,Phonemic
+17-660-131-1,hung1274,Hungarian,1237,hová?,Standard,where?,,Respectively: moving to; situation.,howaa?; hol?,Phonemic
+17-660-131-3,hung1274,Hungarian,1237,hol?,Standard,where?,,Respectively: moving to; situation.,howaa?; hol?,Phonemic
+17-670-131-1,hung1274,Hungarian,727,milyen?,Standard,which?,,,milʸen?,Phonemic
+17-680-131-1,hung1274,Hungarian,1235,ki?,Standard,who?,,,ki?,Phonemic
+17-690-131-1,hung1274,Hungarian,1270,miért?,Standard,why?,,,mieert?,Phonemic
+18-110-131-1,hung1274,Hungarian,1363,hang,Standard,voice,,,hang,Phonemic
+18-120-131-1,hung1274,Hungarian,1261,énekel,Standard,sing,,,eenekel,Phonemic
+18-130-131-1,hung1274,Hungarian,715,kiált,Standard,"shout, cry out",,,kiaalt; kiabaal,Phonemic
+18-130-131-3,hung1274,Hungarian,715,kiabál,Standard,"shout, cry out",,,kiaalt; kiabaal,Phonemic
+18-150-131-1,hung1274,Hungarian,55,súg,Standard,whisper,,,šuug,Phonemic
+18-160-131-1,hung1274,Hungarian,128,mormog,Standard,mumble,,,mormog; motʸog,Phonemic
+18-160-131-3,hung1274,Hungarian,128,motyog,Standard,mumble,,,mormog; motʸog,Phonemic
+18-170-131-1,hung1274,Hungarian,1025,fütyül,Standard,whistle,,,fütʸül,Phonemic
+18-180-131-1,hung1274,Hungarian,298,ordít,Standard,"shriek, screech",,,ordiit; üwölt,Phonemic
+18-180-131-3,hung1274,Hungarian,298,üvölt,Standard,"shriek, screech",,,ordiit; üwölt,Phonemic
+18-190-131-1,hung1274,Hungarian,526,vonít,Standard,howl,,,woniit; üwölt,Phonemic
+18-190-131-3,hung1274,Hungarian,526,üvölt,Standard,howl,,,woniit; üwölt,Phonemic
+18-210-131-1,hung1274,Hungarian,1623,beszél ~ szól,Standard,"speak, talk",,,beseel ~ sool,Phonemic
+18-211-131-1,hung1274,Hungarian,1866,dadog,Standard,"stutter, stammer",,,dadog; hebeg,Phonemic
+18-211-131-3,hung1274,Hungarian,1866,hebeg,Standard,"stutter, stammer",,,dadog; hebeg,Phonemic
+18-220-131-1,hung1274,Hungarian,1458,mond,Standard,say,,,mond; sool,Phonemic
+18-220-131-3,hung1274,Hungarian,1458,szól,Standard,say,,,mond; sool,Phonemic
+18-221-131-1,hung1274,Hungarian,1711,(el)beszél,Standard,tell story,,,(el)beseel; (el)mond,Phonemic
+18-221-131-3,hung1274,Hungarian,1711,(el)mond,Standard,tell story,,,(el)beseel; (el)mond,Phonemic
+18-222-131-1,hung1274,Hungarian,1115,beszédet mond,Standard,speech (make a),,,beseedet mond,Phonemic
+18-230-131-1,hung1274,Hungarian,48,czendes,Standard,silent (be),,,čendeš,Phonemic
+18-240-131-1,hung1274,Hungarian,1307,nyelv,Standard,language,,,ɲelw,Phonemic
+18-260-131-1,hung1274,Hungarian,1599,szó,Standard,word,,,soo,Phonemic
+18-280-131-1,hung1274,Hungarian,1405,név,Standard,name,,,neew,Phonemic
+18-310-131-1,hung1274,Hungarian,1309,(meg)kérdez,Standard,"ask (question, inquire)",,,(meg)keerdez,Phonemic
+18-320-131-1,hung1274,Hungarian,1275,felel,Standard,answer,,,felel; waalasol,Phonemic
+18-320-131-3,hung1274,Hungarian,1275,válaszol,Standard,answer,,,felel; waalasol,Phonemic
+18-330-131-1,hung1274,Hungarian,2022,felismer ~ megismer ~ beismer,Standard,"admit, confess",,,felišmer ~ megišmer ~ beišmer,Phonemic
+18-340-131-1,hung1274,Hungarian,755,tagad ~ letagad,Standard,deny,,,tagad ~ letagad; kiɲiilik,Phonemic
+18-340-131-3,hung1274,Hungarian,755,kinyílik,Standard,deny,,,tagad ~ letagad; kiɲiilik,Phonemic
+18-350-131-1,hung1274,Hungarian,1828,kér,Standard,"ask, request",,,keer; köwetel,Phonemic
+18-350-131-3,hung1274,Hungarian,1828,követel,Standard,"ask, request",,,keer; köwetel,Phonemic
+18-360-131-1,hung1274,Hungarian,1675,(meg)ígér,Standard,promise,,,(meg)iigeer; megfogad,Phonemic
+18-360-131-3,hung1274,Hungarian,1675,megfogad,Standard,promise,,,(meg)iigeer; megfogad,Phonemic
+18-370-131-1,hung1274,Hungarian,49,vonakodik,Standard,refuse,,,wonakodik,Phonemic
+18-380-131-1,hung1274,Hungarian,83,tilt ~ betilt,Standard,forbid,,,tilt ~ betilt,Phonemic
+18-390-131-1,hung1274,Hungarian,299,szemrehányást ten,Standard,"rebuke, scold",,,semrehaaɲaašt ten,Phonemic
+18-410-131-1,hung1274,Hungarian,1084,(meg)hív,Standard,call (=summon),,,(meg)hiiw; inwitaal,Phonemic
+18-410-131-3,hung1274,Hungarian,1084,invitál,Standard,call (=summon),,,(meg)hiiw; inwitaal,Phonemic
+18-420-131-1,hung1274,Hungarian,180,névén szólít,Standard,call (=name),,,neeween sooliit,Phonemic
+18-430-131-1,hung1274,Hungarian,9,kihirdet,Standard,announce,,,kihirdet,Phonemic
+18-440-131-1,hung1274,Hungarian,1192,(meg)fenyeget,Standard,threaten,,,(meg)feɲeget,Phonemic
+18-450-131-1,hung1274,Hungarian,101,diczekszik,Standard,boast,,,dičeksik; keerkedik; henc̷eg,Phonemic
+18-450-131-3,hung1274,Hungarian,101,kérkedik,Standard,boast,,,dičeksik; keerkedik; henc̷eg,Phonemic
+18-450-131-5,hung1274,Hungarian,101,henceg,Standard,boast,,,dičeksik; keerkedik; henc̷eg,Phonemic
+18-510-131-1,hung1274,Hungarian,1672,ír,Standard,write,,,iir,Phonemic
+18-520-131-1,hung1274,Hungarian,724,(el)olvas,Standard,read,,,(el)olwaš,Phonemic
+18-560-131-1,hung1274,Hungarian,648,papír,Standard,paper,,,papiir,Phonemic
+18-570-131-1,hung1274,Hungarian,794,(író)toll,Standard,pen,,,(iiroo)toll,Phonemic
+18-610-131-1,hung1274,Hungarian,963,könyv,Standard,book,,,köɲw,Phonemic
+18-670-131-1,hung1274,Hungarian,1045,költő,Standard,poet,,,költöö,Phonemic
+18-710-131-1,hung1274,Hungarian,777,fuvola,Standard,flute,,,fuwola,Phonemic
+18-720-131-1,hung1274,Hungarian,908,dob,Standard,drum,,,dob,Phonemic
+18-730-131-1,hung1274,Hungarian,2136,kürt,Standard,"horn, trumpet",,,kürt; čöö,Phonemic
+18-730-131-3,hung1274,Hungarian,2136,cző,Standard,"horn, trumpet",,,kürt; čöö,Phonemic
+18-740-131-1,hung1274,Hungarian,300,(yáték)czörgő,Standard,rattle,,,(yaateek)čörgöö,Phonemic
+19-110-131-1,hung1274,Hungarian,1300,ország,Standard,country,,,orsaag,Phonemic
+19-120-131-1,hung1274,Hungarian,89,haza,Standard,one's native country,,,haza; sülööföld,Phonemic
+19-120-131-3,hung1274,Hungarian,89,szülőföld,Standard,one's native country,,,haza; sülööföld,Phonemic
+19-150-131-1,hung1274,Hungarian,1391,város,Standard,"city, town",,,waaroš,Phonemic
+19-160-131-1,hung1274,Hungarian,930,falu,Standard,village,,,falu,Phonemic
+19-170-131-1,hung1274,Hungarian,1010,határ,Standard,boundary,,,hataar,Phonemic
+19-210-131-1,hung1274,Hungarian,789,nép ~ nemzet,Standard,people (populace),,,neep ~ nemzet,Phonemic
+19-230-131-1,hung1274,Hungarian,302,törzs,Standard,"tribe, clan",,,törž; nemzetšeeg,Phonemic
+19-230-131-3,hung1274,Hungarian,302,nemzetség,Standard,"tribe, clan",,,törž; nemzetšeeg,Phonemic
+19-240-131-1,hung1274,Hungarian,301,vezér,Standard,"chief, chieftain",,,wezeer,Phonemic
+19-250-131-1,hung1274,Hungarian,1296,bot,Standard,"staff, walking stick",,,bot; šeetabot,Phonemic
+19-250-131-3,hung1274,Hungarian,1296,sétabot,Standard,"staff, walking stick",,,bot; šeetabot,Phonemic
+19-310-131-1,hung1274,Hungarian,1846,kormányoz,Standard,"rule, govern",,,kormaaɲoz,Phonemic
+19-320-131-1,hung1274,Hungarian,1508,király,Standard,"king, ruler",,,kiraalʸ,Phonemic
+19-330-131-1,hung1274,Hungarian,1306,királynő,Standard,queen,,,kiraalʸnöö,Phonemic
+19-360-131-1,hung1274,Hungarian,482,nemes(ember),Standard,"noble, nobleman",,,nemeš(ember),Phonemic
+19-370-131-1,hung1274,Hungarian,1032,állampolgár,Standard,"citizen, subject",,,aallampolgaar; polgaar,Phonemic
+19-370-131-3,hung1274,Hungarian,1032,polgár,Standard,"citizen, subject",,,aallampolgaar; polgaar,Phonemic
+19-410-131-1,hung1274,Hungarian,383,gazda,Standard,master,,,gazda; uur,Phonemic
+19-410-131-3,hung1274,Hungarian,383,úr,Standard,master,,,gazda; uur,Phonemic
+19-420-131-1,hung1274,Hungarian,812,rabszolga,Standard,slave,,,rabsolga,Phonemic
+19-430-131-1,hung1274,Hungarian,255,szolga,Standard,servant,,,solga,Phonemic
+19-440-131-1,hung1274,Hungarian,384,szabad ember,Standard,freeman,,,sabad ember,Phonemic
+19-450-131-1,hung1274,Hungarian,1128,(meg)paranczol,Standard,"command, order",,,(meg)parančol; felsooliit,Phonemic
+19-450-131-3,hung1274,Hungarian,1128,felszólít,Standard,"command, order",,,(meg)parančol; felsooliit,Phonemic
+19-460-131-1,hung1274,Hungarian,1635,hallgat,Standard,obey,,,hallgat; engedelmeškedik,Phonemic
+19-460-131-3,hung1274,Hungarian,1635,engedelmeskedik,Standard,obey,,,hallgat; engedelmeškedik,Phonemic
+19-470-131-1,hung1274,Hungarian,1003,megenged,Standard,"let, permit",,,megenged,Phonemic
+19-510-131-1,hung1274,Hungarian,1325,barát,Standard,"friend, companion",,,baraat; hawer,Phonemic
+19-510-131-3,hung1274,Hungarian,1325,haver,Standard,"friend, companion",,,baraat; hawer,Phonemic
+19-520-131-1,hung1274,Hungarian,1358,ellenség,Standard,enemy,,,ellenšeeg,Phonemic
+19-540-131-1,hung1274,Hungarian,1332,szomszéd,Standard,neighbor,,,somseed,Phonemic
+19-550-131-1,hung1274,Hungarian,791,idegen,Standard,stranger,,,idegen,Phonemic
+19-560-131-1,hung1274,Hungarian,1782,vendég,Standard,guest,,,wendeeg,Phonemic
+19-570-131-1,hung1274,Hungarian,1545,gazda,Standard,host,,,gazda,Phonemic
+19-580-131-1,hung1274,Hungarian,1897,segít,Standard,"help, aid",,,šegiit; taamogat,Phonemic
+19-580-131-3,hung1274,Hungarian,1897,támogat,Standard,"help, aid",,,šegiit; taamogat,Phonemic
+19-590-131-1,hung1274,Hungarian,1550,zavar ~ megzavar,Standard,"hinder, prevent",,,zawar ~ megzawar; haaborgat; akadaalʸoz,Phonemic
+19-590-131-3,hung1274,Hungarian,1550,háborgat,Standard,"hinder, prevent",,,zawar ~ megzawar; haaborgat; akadaalʸoz,Phonemic
+19-590-131-5,hung1274,Hungarian,1550,akadályoz,Standard,"hinder, prevent",,,zawar ~ megzawar; haaborgat; akadaalʸoz,Phonemic
+19-610-131-1,hung1274,Hungarian,1747,mód ~ módszer,Standard,custom,,,mood ~ moodser,Phonemic
+19-620-131-1,hung1274,Hungarian,1848,veszekedés ~ viszály,Standard,"strife, quarrel",,,wesekedeeš ~ wisaalʸ; wita,Phonemic
+19-620-131-3,hung1274,Hungarian,1848,vita,Standard,"strife, quarrel",,,wesekedeeš ~ wisaalʸ; wita,Phonemic
+19-630-131-1,hung1274,Hungarian,2024,megigézés,Standard,"conspiracy, plot",,,megigeezeeš; raadwašaaš,Phonemic
+19-630-131-3,hung1274,Hungarian,2024,rádvasás,Standard,"conspiracy, plot",,,megigeezeeš; raadwašaaš,Phonemic
+19-650-131-1,hung1274,Hungarian,1831,(meg)talál,Standard,meet,,,(meg)talaal,Phonemic
+19-720-131-1,hung1274,Hungarian,1610,prostituált,Standard,prostitute,,,proštituaalt; keeynöö,Phonemic
+19-720-131-3,hung1274,Hungarian,1610,kéynő,Standard,prostitute,,,proštituaalt; keeynöö,Phonemic
+20-110-131-1,hung1274,Hungarian,1423,harcol,Standard,fight (vb),,,harc̷ol; küzöl,Phonemic
+20-110-131-3,hung1274,Hungarian,1423,küzöl,Standard,fight (vb),,,harc̷ol; küzöl,Phonemic
+20-130-131-1,hung1274,Hungarian,579,háború,Standard,"war, battle",,,haaboruu,Phonemic
+20-140-131-1,hung1274,Hungarian,1338,béke,Standard,peace,,,beeke,Phonemic
+20-150-131-1,hung1274,Hungarian,1561,had(sereg) ~ sereg,Standard,army,,,had(šereg) ~ šereg,Phonemic
+20-170-131-1,hung1274,Hungarian,1941,katona,Standard,soldier,,,katona,Phonemic
+20-210-131-1,hung1274,Hungarian,951,fegyver,Standard,"weapons, arms",,,fedʸwer,Phonemic
+20-220-131-1,hung1274,Hungarian,1763,gombostű,Standard,club,,,gomboštüü,Phonemic
+20-222-131-1,hung1274,Hungarian,386,harcibárcl,Standard,battle-ax,,,harc̷ibaarc̷l,Phonemic
+20-230-131-1,hung1274,Hungarian,387,parittya,Standard,sling,,,parittʸa,Phonemic
+20-240-131-1,hung1274,Hungarian,994,íy,Standard,bow,,,iiy,Phonemic
+20-250-131-1,hung1274,Hungarian,977,nyíl,Standard,arrow,,,ɲiil,Phonemic
+20-260-131-1,hung1274,Hungarian,945,kopya,Standard,spear,,,kopya; daarda,Phonemic
+20-260-131-3,hung1274,Hungarian,945,dárda,Standard,spear,,,kopya; daarda,Phonemic
+20-270-131-1,hung1274,Hungarian,1535,kard,Standard,sword,,,kard,Phonemic
+20-280-131-1,hung1274,Hungarian,1566,fegyver,Standard,"gun, cannon",,,fedʸwer; aadʸuu; löweg,Phonemic
+20-280-131-3,hung1274,Hungarian,1566,ágyú,Standard,"gun, cannon",,,fedʸwer; aadʸuu; löweg,Phonemic
+20-280-131-5,hung1274,Hungarian,1566,löveg,Standard,"gun, cannon",,,fedʸwer; aadʸuu; löweg,Phonemic
+20-310-131-1,hung1274,Hungarian,1061,páncél(zat),Standard,armor (defensive),,,paanc̷eel(zat),Phonemic
+20-330-131-1,hung1274,Hungarian,1680,sisak,Standard,helmet,,,šišak,Phonemic
+20-340-131-1,hung1274,Hungarian,1064,payzs,Standard,shield,,,payž,Phonemic
+20-350-131-1,hung1274,Hungarian,1938,erőd,Standard,fortress,,,erööd,Phonemic
+20-360-131-1,hung1274,Hungarian,1671,torony,Standard,tower,,,toroɲ,Phonemic
+20-410-131-1,hung1274,Hungarian,783,gyözelem,Standard,victory,,,dʸözelem,Phonemic
+20-420-131-1,hung1274,Hungarian,782,vereség,Standard,defeat,,,werešeeg; eltalaalaaš; raarohan,Phonemic
+20-420-131-3,hung1274,Hungarian,782,eltalálás,Standard,defeat,,,werešeeg; eltalaalaaš; raarohan,Phonemic
+20-420-131-5,hung1274,Hungarian,782,rárohan,Standard,defeat,,,werešeeg; eltalaalaaš; raarohan,Phonemic
+20-430-131-1,hung1274,Hungarian,722,támadás,Standard,attack,,,taamadaaš; roham,Phonemic
+20-430-131-3,hung1274,Hungarian,722,roham,Standard,attack,,,taamadaaš; roham,Phonemic
+20-440-131-1,hung1274,Hungarian,1330,óv ~ megóv,Standard,defend,,,oow ~ megoow; weed,Phonemic
+20-440-131-3,hung1274,Hungarian,1330,véd,Standard,defend,,,oow ~ megoow; weed,Phonemic
+20-450-131-1,hung1274,Hungarian,421,viszszalép ~ hátralép,Standard,retreat,,,wissaleep ~ haatraleep,Phonemic
+20-460-131-1,hung1274,Hungarian,1696,átad,Standard,surrender,,,aatad; aatenged,Phonemic
+20-460-131-3,hung1274,Hungarian,1696,átenged,Standard,surrender,,,aatad; aatenged,Phonemic
+20-470-131-1,hung1274,Hungarian,1072,fogoly,Standard,"captive, prisoner",,,fogolʸ; rab,Phonemic
+20-470-131-3,hung1274,Hungarian,1072,rab,Standard,"captive, prisoner",,,fogolʸ; rab,Phonemic
+20-471-131-1,hung1274,Hungarian,1940,őr ~ örszem,Standard,"guard, sentinel",,,öör ~ örsem,Phonemic
+20-480-131-1,hung1274,Hungarian,1022,hadizsákmány,Standard,"booty, spoils",,,hadižaakmaaɲ,Phonemic
+20-490-131-1,hung1274,Hungarian,65,czapda,Standard,ambush,,,čapda,Phonemic
+20-510-131-1,hung1274,Hungarian,1858,halász,Standard,fisherman,,,halaas,Phonemic
+20-520-131-1,hung1274,Hungarian,1074,horog,Standard,fishhook,,,horog,Phonemic
+20-530-131-1,hung1274,Hungarian,19,horgászzsineg,Standard,fishing line,,,horgaasžineg,Phonemic
+20-540-131-1,hung1274,Hungarian,388,halászháló,Standard,fishnet,,,halaashaaloo,Phonemic
+20-550-131-1,hung1274,Hungarian,389,veszszővarsa,Standard,fish trap,,,wessööwarša,Phonemic
+20-560-131-1,hung1274,Hungarian,2013,czalétek,Standard,bait,,,čaleetek; ɲerešeeg; hason,Phonemic
+20-560-131-3,hung1274,Hungarian,2013,nyereség,Standard,bait,,,čaleetek; ɲerešeeg; hason,Phonemic
+20-560-131-5,hung1274,Hungarian,2013,haszon,Standard,bait,,,čaleetek; ɲerešeeg; hason,Phonemic
+20-610-131-1,hung1274,Hungarian,1435,vadászik,Standard,hunt,,,wadaasik,Phonemic
+20-620-131-1,hung1274,Hungarian,1172,lő,Standard,shoot,,,löö,Phonemic
+20-630-131-1,hung1274,Hungarian,161,elhibázza acélt,Standard,miss (target),,,elhibaazza ac̷eelt,Phonemic
+20-640-131-1,hung1274,Hungarian,1075,czapda,Standard,trap (noun),,,čapda; kelepc̷e,Phonemic
+20-640-131-3,hung1274,Hungarian,1075,kelepce,Standard,trap (noun),,,čapda; kelepc̷e,Phonemic
+20-650-131-1,hung1274,Hungarian,1170,czapdába eyt,Standard,trap (vb),,,čapdaaba eyt,Phonemic
+21-110-131-1,hung1274,Hungarian,1062,törvény,Standard,law,,,törweeɲ; yog,Phonemic
+21-110-131-3,hung1274,Hungarian,1062,yog,Standard,law,,,törweeɲ; yog,Phonemic
+21-150-131-1,hung1274,Hungarian,1068,törvényszék,Standard,court,,,törweeɲseek; biiroošaag,Phonemic
+21-150-131-3,hung1274,Hungarian,1068,bíróság,Standard,court,,,törweeɲseek; biiroošaag,Phonemic
+21-160-131-1,hung1274,Hungarian,1818,elétél,Standard,judge (vb),,,eleeteel; weelemeeɲt,Phonemic
+21-160-131-3,hung1274,Hungarian,1818,véleményt,Standard,judge (vb),,,eleeteel; weelemeeɲt,Phonemic
+21-170-131-1,hung1274,Hungarian,1067,ítélét,Standard,judgment,,,iiteeleet,Phonemic
+21-180-131-1,hung1274,Hungarian,861,bíró,Standard,judge (noun),,,biiroo,Phonemic
+21-210-131-1,hung1274,Hungarian,2020,felperes,Standard,plaintiff,,,felpereš; panasoš,Phonemic
+21-210-131-3,hung1274,Hungarian,2020,panaszos,Standard,plaintiff,,,felpereš; panasoš,Phonemic
+21-220-131-1,hung1274,Hungarian,1034,alperes,Standard,defendant,,,alpereš,Phonemic
+21-230-131-1,hung1274,Hungarian,1144,tanú,Standard,witness,,,tanuu,Phonemic
+21-240-131-1,hung1274,Hungarian,1939,esküt tesz,Standard,swear,,,ešküt tes,Phonemic
+21-250-131-1,hung1274,Hungarian,1712,eskü,Standard,oath,,,eškü,Phonemic
+21-310-131-1,hung1274,Hungarian,1814,vádat emel,Standard,accuse,,,waadat emel,Phonemic
+21-320-131-1,hung1274,Hungarian,484,eltél ~ ítél,Standard,condemn,,,elteel ~ iiteel,Phonemic
+21-330-131-1,hung1274,Hungarian,983,bűnösnek találya (ítél),Standard,convict (vb),,,büünöšnek talaalya (iiteel),Phonemic
+21-340-131-1,hung1274,Hungarian,988,felment,Standard,acquit,,,felment,Phonemic
+21-350-131-1,hung1274,Hungarian,1682,bűnös,Standard,guilty,,,büünöš; hibaaš,Phonemic
+21-350-131-3,hung1274,Hungarian,1682,hibás,Standard,guilty,,,büünöš; hibaaš,Phonemic
+21-360-131-1,hung1274,Hungarian,90,ártatlan,Standard,innocent,,,aartatlan,Phonemic
+21-370-131-1,hung1274,Hungarian,390,büntetés,Standard,"penalty, punishment",,,bünteteeš,Phonemic
+21-380-131-1,hung1274,Hungarian,218,bírság,Standard,fine,,,biiršaag,Phonemic
+21-390-131-1,hung1274,Hungarian,1281,fogház,Standard,"prison, jail",,,foghaaz; börtön,Phonemic
+21-390-131-3,hung1274,Hungarian,1281,börtön,Standard,"prison, jail",,,foghaaz; börtön,Phonemic
+21-420-131-1,hung1274,Hungarian,845,gyilkosság,Standard,murder,,,dʸilkoššaag,Phonemic
+21-430-131-1,hung1274,Hungarian,902,házasságtörés,Standard,adultery,,,haazaššaagtöreeš,Phonemic
+21-440-131-1,hung1274,Hungarian,953,enőszak,Standard,rape,,,enöösak,Phonemic
+21-460-131-1,hung1274,Hungarian,1889,gyúytogatás,Standard,arson,,,dʸuuytogataaš,Phonemic
+21-470-131-1,hung1274,Hungarian,1792,esküszegés,Standard,perjury,,,ešküsegeeš,Phonemic
+21-510-131-1,hung1274,Hungarian,713,lop ~ ellop,Standard,steal,,,lop ~ ellop,Phonemic
+21-520-131-1,hung1274,Hungarian,1160,tolvay,Standard,thief,,,tolway,Phonemic
+22-110-131-1,hung1274,Hungarian,661,vallás,Standard,religion,,,wallaaš,Phonemic
+22-120-131-1,hung1274,Hungarian,1944,Isten,Standard,God,,,Išten,Phonemic
+22-130-131-1,hung1274,Hungarian,911,templom,Standard,"temple, church",,,templom; edʸhaaz,Phonemic
+22-130-131-3,hung1274,Hungarian,911,egyház,Standard,"temple, church",,,templom; edʸhaaz,Phonemic
+22-140-131-1,hung1274,Hungarian,853,oltár,Standard,altar,,,oltaar,Phonemic
+22-150-131-1,hung1274,Hungarian,1103,áldozat,Standard,"sacrifice, offering",,,aaldozat,Phonemic
+22-160-131-1,hung1274,Hungarian,257,istenként tisztel,Standard,worship,,,ištenkeent tistel,Phonemic
+22-170-131-1,hung1274,Hungarian,24,imádkozik,Standard,pray,,,imaadkozik,Phonemic
+22-180-131-1,hung1274,Hungarian,852,pap,Standard,priest,,,pap; lelkees,Phonemic
+22-180-131-3,hung1274,Hungarian,852,lelkész,Standard,priest,,,pap; lelkees,Phonemic
+22-190-131-1,hung1274,Hungarian,1702,szent,Standard,"holy, sacred",,,sent,Phonemic
+22-220-131-1,hung1274,Hungarian,304,prédikál,Standard,preach,,,preedikaal; sentbeseedet mond,Phonemic
+22-220-131-3,hung1274,Hungarian,304,szentbeszédet mond,Standard,preach,,,preedikaal; sentbeseedet mond,Phonemic
+22-230-131-1,hung1274,Hungarian,391,megáld,Standard,bless,,,megaald,Phonemic
+22-240-131-1,hung1274,Hungarian,8,elátkoz ~ (meg)átkoz,Standard,curse,,,elaatkoz ~ (meg)aatkoz,Phonemic
+22-260-131-1,hung1274,Hungarian,303,böytöl,Standard,fast (vb),,,böytöl,Phonemic
+22-310-131-1,hung1274,Hungarian,1565,ég,Standard,heaven,,,eeg,Phonemic
+22-320-131-1,hung1274,Hungarian,878,pokol,Standard,hell,,,pokol,Phonemic
+22-350-131-1,hung1274,Hungarian,1973,ördög,Standard,demon (evil spirit),,,ördög,Phonemic
+22-370-131-1,hung1274,Hungarian,1945,bálvány,Standard,idol,,,baalwaaɲ,Phonemic
+22-420-131-1,hung1274,Hungarian,392,mágia,Standard,"magic, witchcraft, sorcery",,,maagia; waraažlat; waraaž,Phonemic
+22-420-131-3,hung1274,Hungarian,392,varázslat,Standard,"magic, witchcraft, sorcery",,,maagia; waraažlat; waraaž,Phonemic
+22-420-131-5,hung1274,Hungarian,392,varázs,Standard,"magic, witchcraft, sorcery",,,maagia; waraažlat; waraaž,Phonemic
+22-430-131-1,hung1274,Hungarian,2137,varázsló,Standard,"sorcerer, witch",,,waraažloo; büüwees,Phonemic
+22-430-131-3,hung1274,Hungarian,2137,bűvész,Standard,"sorcerer, witch",,,waraažloo; büüwees,Phonemic
+22-440-131-1,hung1274,Hungarian,2138,szellem,Standard,"fairy, elf",,,sellem,Phonemic
+22-450-131-1,hung1274,Hungarian,1175,kísértet,Standard,"ghost, phantom",,,kiišeertet,Phonemic
+22-470-131-1,hung1274,Hungarian,107,előyel,Standard,"omen, portent",,,elööyel,Phonemic

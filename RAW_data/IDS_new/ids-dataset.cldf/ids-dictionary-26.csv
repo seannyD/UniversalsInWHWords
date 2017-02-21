@@ -1,0 +1,1381 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-26-1,batl1238,Avar (Batlukh dialect),1852,гІемера нухалъ,CyrillTrans,often,,,ʕemera nuxaɬ,Phonemic
+14-310-26-1,batl1238,Avar (Batlukh dialect),1676,кидалго,CyrillTrans,always,,,kidalgo,Phonemic
+14-290-26-1,batl1238,Avar (Batlukh dialect),790,хІадура,CyrillTrans,ready,,,ħadura,Phonemic
+14-280-26-1,batl1238,Avar (Batlukh dialect),1928,тее,CyrillTrans,"cease, stop",,,teye,Phonemic
+14-270-26-1,batl1238,Avar (Batlukh dialect),1766,лъугІие,CyrillTrans,finish,,,ɬuʕie,Phonemic
+14-260-26-1,batl1238,Avar (Batlukh dialect),743,лъугІие,CyrillTrans,end (temporal),,,ɬuʕie,Phonemic
+14-252-26-1,batl1238,Avar (Batlukh dialect),1186,халат бахъие,CyrillTrans,"last, endure",,,xalat baqie,Phonemic
+14-250-26-1,batl1238,Avar (Batlukh dialect),1806,байбихьие,CyrillTrans,"begin, beginning",,,baybix̌ie,Phonemic
+14-240-26-1,batl1238,Avar (Batlukh dialect),425,кватІие,CyrillTrans,"retard, delay",,,kʷatʼie,Phonemic
+14-230-26-1,batl1238,Avar (Batlukh dialect),754,хехлъие,CyrillTrans,"hasten, hurry",,,xexɬie,Phonemic
+14-220-26-1,batl1238,Avar (Batlukh dialect),701,гІодо вицара,CyrillTrans,slow,,,ʕodo wicara,Phonemic
+14-210-26-1,batl1238,Avar (Batlukh dialect),1631,хеко,CyrillTrans,"swift, fast, quick",,,xeko,Phonemic
+14-190-26-1,batl1238,Avar (Batlukh dialect),1963,гьабсагІата,CyrillTrans,immediately,,,habsaʕata,Phonemic
+14-180-26-1,batl1238,Avar (Batlukh dialect),1376,гьанже,CyrillTrans,now,,,hanže,Phonemic
+14-170-26-1,batl1238,Avar (Batlukh dialect),477,нахъа,CyrillTrans,late,,,"naqa, qʼasde",Phonemic
+14-170-26-3,batl1238,Avar (Batlukh dialect),477,къасде,CyrillTrans,late,,,"naqa, qʼasde",Phonemic
+14-160-26-1,batl1238,Avar (Batlukh dialect),672,радалго,CyrillTrans,early,,,radalgo,Phonemic
+14-150-26-1,batl1238,Avar (Batlukh dialect),1229,хера,CyrillTrans,old,,,xera,Phonemic
+14-140-26-1,batl1238,Avar (Batlukh dialect),1207,бахІара,CyrillTrans,young,,,baħara,Phonemic
+14-120-26-1,batl1238,Avar (Batlukh dialect),1789,гІасру,CyrillTrans,age,,,ʕasru,Phonemic
+14-130-26-1,batl1238,Avar (Batlukh dialect),1231,чІия,CyrillTrans,new,,,čʼiya,Phonemic
+14-110-26-1,batl1238,Avar (Batlukh dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-26-1,batl1238,Avar (Batlukh dialect),417,гьабго нухалъ,CyrillTrans,three times,,,habgo nuxaɬ,Phonemic
+13-420-26-1,batl1238,Avar (Batlukh dialect),1859,гьабабиле,CyrillTrans,third,,,hababile,Phonemic
+13-380-26-1,batl1238,Avar (Batlukh dialect),1546,кІиго нухалъ,CyrillTrans,two times,,,kʼigo nuxaɬ,Phonemic
+13-370-26-1,batl1238,Avar (Batlukh dialect),1888,чут,CyrillTrans,pair,,,čut,Phonemic
+13-360-26-1,batl1238,Avar (Batlukh dialect),1384,кІиябиле,CyrillTrans,second,,,kʼiyabile,Phonemic
+13-350-26-1,batl1238,Avar (Batlukh dialect),1529,ахираб,CyrillTrans,last,,,axira,Phonemic
+13-340-26-1,batl1238,Avar (Batlukh dialect),728,тІоцебесе,CyrillTrans,first,,,tʼocebese,Phonemic
+13-330-26-1,batl1238,Avar (Batlukh dialect),1580,чІохІо,CyrillTrans,"alone, only",,,čʼoħo,Phonemic
+13-240-26-1,batl1238,Avar (Batlukh dialect),816,басда,CyrillTrans,half,,,basda,Phonemic
+13-230-26-1,batl1238,Avar (Batlukh dialect),779,кесек,CyrillTrans,"part, piece",,,kesek,Phonemic
+13-220-26-1,batl1238,Avar (Batlukh dialect),1624,чІобогоя,CyrillTrans,empty,,,čʼobogoya,Phonemic
+13-210-26-1,batl1238,Avar (Batlukh dialect),1429,чІура,CyrillTrans,full,,,čʼura,Phonemic
+13-190-26-1,batl1238,Avar (Batlukh dialect),2023,гІемера,CyrillTrans,"multitude, crowd",,,ʕemera,Phonemic
+13-181-26-1,batl1238,Avar (Batlukh dialect),1241,чудагьа,CyrillTrans,some,,,čudaha,Phonemic
+13-170-26-1,batl1238,Avar (Batlukh dialect),1242,дагьа,CyrillTrans,"little (quantity), few",,,daha,Phonemic
+13-180-26-1,batl1238,Avar (Batlukh dialect),1881,гІура,CyrillTrans,enough,,,ʕura,Phonemic
+13-160-26-1,batl1238,Avar (Batlukh dialect),1992,чІикІун,CyrillTrans,more,,,čʼikʼun,Phonemic
+13-150-26-1,batl1238,Avar (Batlukh dialect),1198,гІемера,CyrillTrans,"much, many",,,ʕemera,Phonemic
+13-140-26-1,batl1238,Avar (Batlukh dialect),98,киналго,CyrillTrans,"every, all",,,kinalgo,Phonemic
+13-107-26-1,batl1238,Avar (Batlukh dialect),1420,рикІине,CyrillTrans,count,,,rikʼine,Phonemic
+13-106-26-1,batl1238,Avar (Batlukh dialect),1843,азарго,CyrillTrans,thousand,,,azargo,Phonemic
+13-105-26-1,batl1238,Avar (Batlukh dialect),1634,нушго,CyrillTrans,hundred,,,nušgo,Phonemic
+13-104-26-1,batl1238,Avar (Batlukh dialect),1710,къого,CyrillTrans,twenty,,,qʼogo,Phonemic
+13-103-26-1,batl1238,Avar (Batlukh dialect),1709,анцІила щуго,CyrillTrans,fifteen,,,ancʼila š̄ugo,Phonemic
+13-102-26-1,batl1238,Avar (Batlukh dialect),1707,анцІила кІиго,CyrillTrans,twelve,,,ancʼila kʼigo,Phonemic
+13-101-26-1,batl1238,Avar (Batlukh dialect),1706,анцІила чо,CyrillTrans,eleven,,,ancʼila čo,Phonemic
+13-100-26-1,batl1238,Avar (Batlukh dialect),1515,анчІго,CyrillTrans,ten,,,ančʼgo,Phonemic
+13-90-26-1,batl1238,Avar (Batlukh dialect),1483,ичІго,CyrillTrans,nine,,,ičʼgo,Phonemic
+13-80-26-1,batl1238,Avar (Batlukh dialect),1705,микьго,CyrillTrans,eight,,,miƛ̄ʼgo,Phonemic
+13-70-26-1,batl1238,Avar (Batlukh dialect),1704,анкьго,CyrillTrans,seven,,,anƛ̄ʼgo,Phonemic
+13-60-26-1,batl1238,Avar (Batlukh dialect),1703,анлъго,CyrillTrans,six,,,anɬgo,Phonemic
+13-50-26-1,batl1238,Avar (Batlukh dialect),493,шуго,CyrillTrans,five,,,šugo,Phonemic
+13-40-26-1,batl1238,Avar (Batlukh dialect),1500,ункъо,CyrillTrans,four,,,unqʼo,Phonemic
+13-20-26-1,batl1238,Avar (Batlukh dialect),1498,кІиго,CyrillTrans,two,,,kʼigo,Phonemic
+13-30-26-1,batl1238,Avar (Batlukh dialect),492,гьабго,CyrillTrans,three,,,habgo,Phonemic
+13-10-26-1,batl1238,Avar (Batlukh dialect),1493,чо,CyrillTrans,one,,,čo,Phonemic
+13-0-26-1,batl1238,Avar (Batlukh dialect),1294,ноль,CyrillTrans,"zero, nothing",,,nolʲ,Phonemic
+12-930-26-1,batl1238,Avar (Batlukh dialect),1264,хишие,CyrillTrans,change,,,xišie,Phonemic
+12-920-26-1,batl1238,Avar (Batlukh dialect),1558,релълъара,CyrillTrans,"like, similar",,,reɬ̄ara,Phonemic
+12-840-26-1,batl1238,Avar (Batlukh dialect),1048,мохъ,CyrillTrans,line,,,moq,Phonemic
+12-850-26-1,batl1238,Avar (Batlukh dialect),1667,каратІ,CyrillTrans,hole,,,karatʼ,Phonemic
+12-830-26-1,batl1238,Avar (Batlukh dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-26-1,batl1238,Avar (Batlukh dialect),1395,гургина,CyrillTrans,round,,,gurgina,Phonemic
+12-820-26-1,batl1238,Avar (Batlukh dialect),1467,гор,CyrillTrans,circle,,,gor,Phonemic
+12-780-26-1,batl1238,Avar (Batlukh dialect),850,ункъбокІон,CyrillTrans,square,,,unqʼbokʼon,Phonemic
+12-770-26-1,batl1238,Avar (Batlukh dialect),1367,хъанч,CyrillTrans,cross,,,qanč,Phonemic
+12-760-26-1,batl1238,Avar (Batlukh dialect),192,бокІон,CyrillTrans,corner,,,bokʼon,Phonemic
+12-750-26-1,batl1238,Avar (Batlukh dialect),1071,кІичІ,CyrillTrans,hook,,,kʼičʼ,Phonemic
+12-740-26-1,batl1238,Avar (Batlukh dialect),297,кІичІара,CyrillTrans,crooked,,,kʼičʼara,Phonemic
+12-730-26-1,batl1238,Avar (Batlukh dialect),1404,битІара,CyrillTrans,straight,,,bitʼara,Phonemic
+12-710-26-1,batl1238,Avar (Batlukh dialect),1633,тІаса битІара,CyrillTrans,flat,,,tʼasa bitʼara,Phonemic
+12-680-26-1,batl1238,Avar (Batlukh dialect),193,чІанкІида,CyrillTrans,shallow,,,čʼankʼida,Phonemic
+12-670-26-1,batl1238,Avar (Batlukh dialect),1593,гъварида,CyrillTrans,deep,,,ɣʷarida,Phonemic
+12-650-26-1,batl1238,Avar (Batlukh dialect),2249,тІерена,CyrillTrans,thin (in dimension),,,tʼerena,Phonemic
+12-630-26-1,batl1238,Avar (Batlukh dialect),1244,вицата,CyrillTrans,thick (in dimension),,,wicata,Phonemic
+12-620-26-1,batl1238,Avar (Batlukh dialect),1267,къварида,CyrillTrans,narrow,,,qʼʷarida,Phonemic
+12-610-26-1,batl1238,Avar (Batlukh dialect),1243,гІеба,CyrillTrans,"wide, broad",,,ʕeba,Phonemic
+12-590-26-1,batl1238,Avar (Batlukh dialect),1645,къокъа,CyrillTrans,short,,,qʼoqʼa,Phonemic
+12-580-26-1,batl1238,Avar (Batlukh dialect),711,ворхата,CyrillTrans,tall,,,worxata,Phonemic
+12-570-26-1,batl1238,Avar (Batlukh dialect),1203,халата,CyrillTrans,long,,,xalata,Phonemic
+12-560-26-1,batl1238,Avar (Batlukh dialect),1246,гьитІина,CyrillTrans,"small, little",,,hitʼina,Phonemic
+12-550-26-1,batl1238,Avar (Batlukh dialect),1202,кІудия,CyrillTrans,"large, big",,,kʼudiya,Phonemic
+12-540-26-1,batl1238,Avar (Batlukh dialect),1506,борчине,CyrillTrans,measure,,,borčine,Phonemic
+12-530-26-1,batl1238,Avar (Batlukh dialect),479,кІудия гІее,CyrillTrans,grow,,,kʼudiya ʕeye,Phonemic
+12-480-26-1,batl1238,Avar (Batlukh dialect),1595,къибла,CyrillTrans,south,,,qʼibla,Phonemic
+12-470-26-1,batl1238,Avar (Batlukh dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-26-1,batl1238,Avar (Batlukh dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-26-1,batl1238,Avar (Batlukh dialect),1877,шаркъ,CyrillTrans,east,,,"šarqʼ, mašriqʼ",Phonemic
+12-450-26-3,batl1238,Avar (Batlukh dialect),1877,машрикъ,CyrillTrans,east,,,"šarqʼ, mašriqʼ",Phonemic
+12-430-26-1,batl1238,Avar (Batlukh dialect),1942,гІаскІо,CyrillTrans,near (adv),,,ʕaskʼo,Phonemic
+12-440-26-1,batl1238,Avar (Batlukh dialect),1406,рикІада,CyrillTrans,far (adv),,,rikʼada,Phonemic
+12-420-26-1,batl1238,Avar (Batlukh dialect),244,квегІа (рахъ),CyrillTrans,left (side),,,kʷeʕa (raq),Phonemic
+12-410-26-1,batl1238,Avar (Batlukh dialect),1019,кварана (рахъ),CyrillTrans,right (side),,,kʷarana (raq),Phonemic
+12-370-26-1,batl1238,Avar (Batlukh dialect),1093,бакьолъ бакІ,CyrillTrans,"middle, center",,,baƛ̄ʼoɬ bakʼ,Phonemic
+12-360-26-1,batl1238,Avar (Batlukh dialect),682,рахъ,CyrillTrans,side,,,"raq, bakʼ",Phonemic
+12-360-26-3,batl1238,Avar (Batlukh dialect),682,бакІ,CyrillTrans,side,,,"raq, bakʼ",Phonemic
+12-353-26-1,batl1238,Avar (Batlukh dialect),863,рагІад,CyrillTrans,edge,,,raʕad,Phonemic
+12-352-26-1,batl1238,Avar (Batlukh dialect),372,бегІера,CyrillTrans,pointed,,,beʕera,Phonemic
+12-350-26-1,batl1238,Avar (Batlukh dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-26-1,batl1238,Avar (Batlukh dialect),690,тІину,CyrillTrans,bottom,,,tʼinu,Phonemic
+12-320-26-1,batl1238,Avar (Batlukh dialect),721,гІодобегІан,CyrillTrans,low,,,ʕodobeʕan,Phonemic
+12-330-26-1,batl1238,Avar (Batlukh dialect),1753,тІорокІуни,CyrillTrans,top,,,tʼorokʼuni,Phonemic
+12-310-26-1,batl1238,Avar (Batlukh dialect),1265,борхатго,CyrillTrans,high,,,borxatgo,Phonemic
+12-270-26-1,batl1238,Avar (Batlukh dialect),602,бахчие,CyrillTrans,"hide, conceal",,,baxčie,Phonemic
+12-250-26-1,batl1238,Avar (Batlukh dialect),1046,къае,CyrillTrans,"shut, close",,,qʼae,Phonemic
+12-260-26-1,batl1238,Avar (Batlukh dialect),761,тІа тІамие,CyrillTrans,cover,,,tʼa tʼamie,Phonemic
+12-240-26-1,batl1238,Avar (Batlukh dialect),1156,рагьие,CyrillTrans,open,,,rahie,Phonemic
+12-232-26-1,batl1238,Avar (Batlukh dialect),1119,бикьие,CyrillTrans,divide,,,biƛ̄ʼie,Phonemic
+12-230-26-1,batl1238,Avar (Batlukh dialect),1359,нахъе бахъие,CyrillTrans,separate,,,naqe baqie,Phonemic
+12-220-26-1,batl1238,Avar (Batlukh dialect),1743,чогьие,CyrillTrans,"join, unite",,,čohie,Phonemic
+12-213-26-1,batl1238,Avar (Batlukh dialect),1576,бакІарие,CyrillTrans,pile up,,,bakʼarie,Phonemic
+12-212-26-1,batl1238,Avar (Batlukh dialect),371,кодо бешие,CyrillTrans,pick up,,,kodo bešie,Phonemic
+12-210-26-1,batl1238,Avar (Batlukh dialect),7,бисие,CyrillTrans,"collect, gather",,,"bisie, bakʼarie",Phonemic
+12-210-26-3,batl1238,Avar (Batlukh dialect),7,бакІарие,CyrillTrans,"collect, gather",,,"bisie, bakʼarie",Phonemic
+12-170-26-1,batl1238,Avar (Batlukh dialect),838,нахъе хутІара жо,CyrillTrans,"remains, left overs",,,naqe xutʼara žo,Phonemic
+12-160-26-1,batl1238,Avar (Batlukh dialect),987,хутІие,CyrillTrans,"remain, stay",,,xutʼie,Phonemic
+12-150-26-1,batl1238,Avar (Batlukh dialect),1442,вахун цІине,CyrillTrans,stand,,,waxun cʼine,Phonemic
+12-140-26-1,batl1238,Avar (Batlukh dialect),215,вегие,CyrillTrans,lie down,,,wegie,Phonemic
+12-130-26-1,batl1238,Avar (Batlukh dialect),1416,гІодо вукІине,CyrillTrans,sit,,,ʕodo wukʼine,Phonemic
+12-120-26-1,batl1238,Avar (Batlukh dialect),998,гІодо гьее,CyrillTrans,put,,,ʕodo heye,Phonemic
+12-110-26-1,batl1238,Avar (Batlukh dialect),723,бакІ,CyrillTrans,place,,,bakʼ,Phonemic
+12-80-26-1,batl1238,Avar (Batlukh dialect),1591,тІад,CyrillTrans,"up, above",,,tʼad,Phonemic
+12-70-26-1,batl1238,Avar (Batlukh dialect),1485,гъокь,CyrillTrans,under,,,ɣoƛ̄ʼ,Phonemic
+12-60-26-1,batl1238,Avar (Batlukh dialect),762,къатІиса,CyrillTrans,outside,,,qʼatʼisa,Phonemic
+12-50-26-1,batl1238,Avar (Batlukh dialect),1606,жани,CyrillTrans,"inside, in",,,žani,Phonemic
+12-41-26-1,batl1238,Avar (Batlukh dialect),1883,цебе,CyrillTrans,front,,,cebe,Phonemic
+12-40-26-1,batl1238,Avar (Batlukh dialect),1882,цебе,CyrillTrans,before,,,cebe,Phonemic
+12-30-26-1,batl1238,Avar (Batlukh dialect),2094,гъокье,CyrillTrans,"down, below",,,ɣoƛ̄ʼe,Phonemic
+12-20-26-1,batl1238,Avar (Batlukh dialect),1816,гІаскІо,CyrillTrans,beside,,,ʕaskʼo,Phonemic
+12-11-26-1,batl1238,Avar (Batlukh dialect),1686,нахъа,CyrillTrans,behind,,,naqa,Phonemic
+12-10-26-1,batl1238,Avar (Batlukh dialect),1685,хаду,CyrillTrans,after,,,xadu,Phonemic
+11-920-26-1,batl1238,Avar (Batlukh dialect),1098,цІае,CyrillTrans,weigh,,,cʼae,Phonemic
+11-910-26-1,batl1238,Avar (Batlukh dialect),884,бикьие,CyrillTrans,share (distribute),,,biƛ̄ʼie,Phonemic
+11-890-26-1,batl1238,Avar (Batlukh dialect),1887,учуза,CyrillTrans,cheap,,,učuza,Phonemic
+11-880-26-1,batl1238,Avar (Batlukh dialect),1426,хирия,CyrillTrans,"dear (costly, expensive)",,,xiriya,Phonemic
+11-870-26-1,batl1238,Avar (Batlukh dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-26-1,batl1238,Avar (Batlukh dialect),752,тукан,CyrillTrans,"store, shop",,,"tukan, magazin",Phonemic
+11-860-26-3,batl1238,Avar (Batlukh dialect),752,магазин,CyrillTrans,"store, shop",,,"tukan, magazin",Phonemic
+11-850-26-1,batl1238,Avar (Batlukh dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-26-1,batl1238,Avar (Batlukh dialect),1082,вичарухъан,CyrillTrans,merchant,,,wičaruqan,Phonemic
+11-830-26-1,batl1238,Avar (Batlukh dialect),2135,хиши,CyrillTrans,"trade, barter",,,"xiši, biči-xiši",Phonemic
+11-830-26-3,batl1238,Avar (Batlukh dialect),2135,бичи-хиши,CyrillTrans,"trade, barter",,,"xiši, biči-xiši",Phonemic
+11-820-26-1,batl1238,Avar (Batlukh dialect),1571,бичие,CyrillTrans,sell,,,bičie,Phonemic
+11-810-26-1,batl1238,Avar (Batlukh dialect),1869,бешие,CyrillTrans,buy,,,bešie,Phonemic
+11-790-26-1,batl1238,Avar (Batlukh dialect),733,гІарач гьабие,CyrillTrans,earn,,,ʕarač habie,Phonemic
+11-780-26-1,batl1238,Avar (Batlukh dialect),1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-26-1,batl1238,Avar (Batlukh dialect),856,мухьдахъ босие,CyrillTrans,hire,,,mux̌daq bosie,Phonemic
+11-690-26-1,batl1238,Avar (Batlukh dialect),873,налог,CyrillTrans,"tax, tribute",,,nalog,Phonemic
+11-660-26-1,batl1238,Avar (Batlukh dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-26-1,batl1238,Avar (Batlukh dialect),718,гІарач кьее,CyrillTrans,pay (vb),,,ʕarač ƛ̄ʼeye,Phonemic
+11-640-26-1,batl1238,Avar (Batlukh dialect),1914,налʼгьи,CyrillTrans,debt,,,nalʲhi,Phonemic
+11-630-26-1,batl1238,Avar (Batlukh dialect),369,налʼгьиялда вукІине,CyrillTrans,owe,,,nalʲhiyalda wukʼine,Phonemic
+11-620-26-1,batl1238,Avar (Batlukh dialect),1823,налʼгьи бешие,CyrillTrans,borrow,,,nalʲhi bešie,Phonemic
+11-610-26-1,batl1238,Avar (Batlukh dialect),582,налʼгьи кьее,CyrillTrans,lend,,,nalʲhi ƛ̄ʼeye,Phonemic
+11-540-26-1,batl1238,Avar (Batlukh dialect),1774,бахила,CyrillTrans,"avaricious, stingy",,,baxila,Phonemic
+11-530-26-1,batl1238,Avar (Batlukh dialect),1934,мискинчи,CyrillTrans,beggar,,,miskinči,Phonemic
+11-520-26-1,batl1238,Avar (Batlukh dialect),1674,мискина,CyrillTrans,poor,,,miskina,Phonemic
+11-510-26-1,batl1238,Avar (Batlukh dialect),712,бечеда,CyrillTrans,rich,,,bečeda,Phonemic
+11-440-26-1,batl1238,Avar (Batlukh dialect),1867,гІисина гІарач,CyrillTrans,coin,,,ʕisina ʕarač,Phonemic
+11-430-26-1,batl1238,Avar (Batlukh dialect),1559,гІарач,CyrillTrans,money,,,ʕarač,Phonemic
+11-340-26-1,batl1238,Avar (Batlukh dialect),1095,вицае,CyrillTrans,"release, let go",,,wicae,Phonemic
+11-330-26-1,batl1238,Avar (Batlukh dialect),1660,билие,CyrillTrans,lose,,,bilie,Phonemic
+11-320-26-1,batl1238,Avar (Batlukh dialect),719,батие,CyrillTrans,find,,,batie,Phonemic
+11-310-26-1,batl1238,Avar (Batlukh dialect),1468,балагьие,CyrillTrans,"seek, look for",,,balahie,Phonemic
+11-280-26-1,batl1238,Avar (Batlukh dialect),44,зарар гьабие,CyrillTrans,"harm, injure, damage",,,zarar habie,Phonemic
+11-270-26-1,batl1238,Avar (Batlukh dialect),681,хвее гьабие,CyrillTrans,destroy,,,xʷeye habie,Phonemic
+11-250-26-1,batl1238,Avar (Batlukh dialect),2008,хвасар гьавие,CyrillTrans,"save, rescue",,,xʷasar hawie,Phonemic
+11-240-26-1,batl1238,Avar (Batlukh dialect),1997,нахъе тее,CyrillTrans,"preserve, look after",,,naqe teye,Phonemic
+11-220-26-1,batl1238,Avar (Batlukh dialect),85,нахъ бусине,CyrillTrans,give back,,,naq busine,Phonemic
+11-210-26-1,batl1238,Avar (Batlukh dialect),1447,кьее,CyrillTrans,give,,,ƛ̄ʼeye,Phonemic
+11-180-26-1,batl1238,Avar (Batlukh dialect),738,жо,CyrillTrans,thing,,,žo,Phonemic
+11-170-26-1,batl1238,Avar (Batlukh dialect),1477,нахъе гьее,CyrillTrans,"keep, retain",,,naqe heye,Phonemic
+11-160-26-1,batl1238,Avar (Batlukh dialect),694,свее,CyrillTrans,"get, obtain",,,sʷeye,Phonemic
+11-150-26-1,batl1238,Avar (Batlukh dialect),1448,хьвее,CyrillTrans,hold,,,x̌ʷeye,Phonemic
+11-140-26-1,batl1238,Avar (Batlukh dialect),2021,хьвее,CyrillTrans,"seize, grasp",,,x̌ʷeye,Phonemic
+11-130-26-1,batl1238,Avar (Batlukh dialect),1749,бешие,CyrillTrans,take,,,bešie,Phonemic
+11-120-26-1,batl1238,Avar (Batlukh dialect),684,жиндирго букІине,CyrillTrans,"own, possess",,,žindirgo bukʼine,Phonemic
+11-110-26-1,batl1238,Avar (Batlukh dialect),773,букІине,CyrillTrans,have,,,bukʼine,Phonemic
+10-920-26-1,batl1238,Avar (Batlukh dialect),1922,гІодо рестІине,CyrillTrans,land (vb),,,ʕodo restʼine,Phonemic
+10-910-26-1,batl1238,Avar (Batlukh dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-26-1,batl1238,Avar (Batlukh dialect),1870,лангар,CyrillTrans,anchor,,,langar,Phonemic
+10-880-26-1,batl1238,Avar (Batlukh dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-26-1,batl1238,Avar (Batlukh dialect),184,хІос,CyrillTrans,mast,,,ħos,Phonemic
+10-860-26-1,batl1238,Avar (Batlukh dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-26-1,batl1238,Avar (Batlukh dialect),1849,лъин бахине,CyrillTrans,row (vb),,,ɬin baxine,Phonemic
+10-851-26-1,batl1238,Avar (Batlukh dialect),234,раххан,CyrillTrans,paddle (noun),,,raxxan,Phonemic
+10-850-26-1,batl1238,Avar (Batlukh dialect),108,рахан,CyrillTrans,oar,,,raxan,Phonemic
+10-840-26-1,batl1238,Avar (Batlukh dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-26-1,batl1238,Avar (Batlukh dialect),416,раша,CyrillTrans,outrigger,,,raša,Phonemic
+10-831-26-1,batl1238,Avar (Batlukh dialect),1970,раша,CyrillTrans,canoe,,,raša,Phonemic
+10-830-26-1,batl1238,Avar (Batlukh dialect),1844,раша,CyrillTrans,boat,,,raša,Phonemic
+10-810-26-1,batl1238,Avar (Batlukh dialect),740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-26-1,batl1238,Avar (Batlukh dialect),14,рукь,CyrillTrans,yoke,,,ruƛ̄ʼ,Phonemic
+10-770-26-1,batl1238,Avar (Batlukh dialect),1769,хІос,CyrillTrans,axle,,,ħos,Phonemic
+10-760-26-1,batl1238,Avar (Batlukh dialect),710,гьакибер,CyrillTrans,wheel,,,hakiber,Phonemic
+10-750-26-1,batl1238,Avar (Batlukh dialect),122,гьорко,CyrillTrans,"carriage, wagon, cart",,,horko,Phonemic
+10-740-26-1,batl1238,Avar (Batlukh dialect),1011,кьо,CyrillTrans,bridge,,,ƛ̄ʼo,Phonemic
+10-720-26-1,batl1238,Avar (Batlukh dialect),2252,нух,CyrillTrans,path,,,nux,Phonemic
+10-710-26-1,batl1238,Avar (Batlukh dialect),667,нух,CyrillTrans,road,,,nux,Phonemic
+10-670-26-1,batl1238,Avar (Batlukh dialect),1452,чуе,CyrillTrans,"push, shove",,,čue,Phonemic
+10-660-26-1,batl1238,Avar (Batlukh dialect),367,чуда рекІине,CyrillTrans,ride,,,čuda rekʼine,Phonemic
+10-650-26-1,batl1238,Avar (Batlukh dialect),741,машиналда рекІине,CyrillTrans,drive,,,mašinalda rekʼine,Phonemic
+10-640-26-1,batl1238,Avar (Batlukh dialect),43,вачине,CyrillTrans,lead (vb),,,wačine,Phonemic
+10-630-26-1,batl1238,Avar (Batlukh dialect),1127,витІие,CyrillTrans,send,,,witʼie,Phonemic
+10-620-26-1,batl1238,Avar (Batlukh dialect),692,бешун бачІине,CyrillTrans,bring,,,bešun bačʼine,Phonemic
+10-615-26-1,batl1238,Avar (Batlukh dialect),415,къвалакь хьвее,CyrillTrans,carry-underarm,,,qʼwalaƛ̄ʼ x̌ʷeye,Phonemic
+10-614-26-1,batl1238,Avar (Batlukh dialect),414,бетІералда бешие,CyrillTrans,carry-on-head,,,betʼeralda bešie,Phonemic
+10-613-26-1,batl1238,Avar (Batlukh dialect),413,гъажада бешие,CyrillTrans,carry-on-shoulder,,,ɣažada bešie,Phonemic
+10-612-26-1,batl1238,Avar (Batlukh dialect),412,кодо хьвее,CyrillTrans,carry-in-hand,,,kodo x̌ʷeye,Phonemic
+10-610-26-1,batl1238,Avar (Batlukh dialect),700,бешие,CyrillTrans,carry (bear),,,bešie,Phonemic
+10-570-26-1,batl1238,Avar (Batlukh dialect),749,жани лъугьине,CyrillTrans,enter,,,žani ɬuhine,Phonemic
+10-560-26-1,batl1238,Avar (Batlukh dialect),1778,гІаско вачІине,CyrillTrans,approach,,,ʕasko wačʼine,Phonemic
+10-550-26-1,batl1238,Avar (Batlukh dialect),1387,свее,CyrillTrans,"reach, arrive",,,sʷeye,Phonemic
+10-530-26-1,batl1238,Avar (Batlukh dialect),1047,хал хьве,CyrillTrans,pursue,,,xal x̌ʷeye,Phonemic
+10-520-26-1,batl1238,Avar (Batlukh dialect),1085,хаду-хаду ине,CyrillTrans,follow,,,xadu-xadu ine,Phonemic
+10-510-26-1,batl1238,Avar (Batlukh dialect),956,лъутие,CyrillTrans,flee,,,ɬutie,Phonemic
+10-491-26-1,batl1238,Avar (Batlukh dialect),485,тІагІине,CyrillTrans,disappear,,,tʼaʕine,Phonemic
+10-490-26-1,batl1238,Avar (Batlukh dialect),1752,нахъе ине,CyrillTrans,"go away, depart",,,naqe ine,Phonemic
+10-481-26-1,batl1238,Avar (Batlukh dialect),581,нахъ вусине,CyrillTrans,come back,,,naq wusine,Phonemic
+10-480-26-1,batl1238,Avar (Batlukh dialect),1446,вачІине,CyrillTrans,come,,,wačʼine,Phonemic
+10-474-26-1,batl1238,Avar (Batlukh dialect),1107,къватІи ине,CyrillTrans,go out,,,qʼwatʼi ine,Phonemic
+10-473-26-1,batl1238,Avar (Batlukh dialect),2014,гІодо вилъине,CyrillTrans,go down,,,ʕodo wiɬine,Phonemic
+10-472-26-1,batl1238,Avar (Batlukh dialect),1102,харие,CyrillTrans,climb,,,xarie,Phonemic
+10-470-26-1,batl1238,Avar (Batlukh dialect),695,вилъине,CyrillTrans,go,,,wiɬine,Phonemic
+10-471-26-1,batl1238,Avar (Batlukh dialect),705,тІаде вахине,CyrillTrans,go up,,,tʼade waxine,Phonemic
+10-460-26-1,batl1238,Avar (Batlukh dialect),1519,векерие,CyrillTrans,run,,,wekerie,Phonemic
+10-451-26-1,batl1238,Avar (Batlukh dialect),366,рекъие,CyrillTrans,limp,,,reqʼie,Phonemic
+10-450-26-1,batl1238,Avar (Batlukh dialect),1443,вилъине,CyrillTrans,walk,,,wiɬine,Phonemic
+10-440-26-1,batl1238,Avar (Batlukh dialect),1879,кьурдие,CyrillTrans,dance,,,ƛ̄ʼurdie,Phonemic
+10-431-26-1,batl1238,Avar (Batlukh dialect),1135,тункие,CyrillTrans,kick,,,tunkie,Phonemic
+10-430-26-1,batl1238,Avar (Batlukh dialect),1829,кІанчІие,CyrillTrans,"jump, leap",,,kʼančʼie,Phonemic
+10-420-26-1,batl1238,Avar (Batlukh dialect),1324,хъестІее,CyrillTrans,"slide, slip",,,qestʼeye,Phonemic
+10-413-26-1,batl1238,Avar (Batlukh dialect),296,гІодо вукІине,CyrillTrans,crouch,,,ʕodo wukʼine,Phonemic
+10-412-26-1,batl1238,Avar (Batlukh dialect),66,накабида цІине,CyrillTrans,kneel,,,nakabida cʼine,Phonemic
+10-410-26-1,batl1238,Avar (Batlukh dialect),96,хъурсие,CyrillTrans,"creep, crawl",,,qursie,Phonemic
+10-380-26-1,batl1238,Avar (Batlukh dialect),175,пуе,CyrillTrans,blow,,,pue,Phonemic
+10-370-26-1,batl1238,Avar (Batlukh dialect),1441,воржине,CyrillTrans,fly (vb),,,woržine,Phonemic
+10-360-26-1,batl1238,Avar (Batlukh dialect),787,лъедее,CyrillTrans,sail (vb),,,ɬedeye,Phonemic
+10-352-26-1,batl1238,Avar (Batlukh dialect),365,лъедее,CyrillTrans,splash,,,ɬedeye,Phonemic
+10-351-26-1,batl1238,Avar (Batlukh dialect),119,вуркъие,CyrillTrans,dive,,,wurqʼie,Phonemic
+10-350-26-1,batl1238,Avar (Batlukh dialect),1439,квачІ кьабие,CyrillTrans,swim,,,"kʷačʼ ƛ̄ʼabie, ɬedeye",Phonemic
+10-350-26-3,batl1238,Avar (Batlukh dialect),1439,лъедее,CyrillTrans,swim,,,"kʷačʼ ƛ̄ʼabie, ɬedeye",Phonemic
+10-340-26-1,batl1238,Avar (Batlukh dialect),1574,лъедее,CyrillTrans,float,,,ɬedeye,Phonemic
+10-330-26-1,batl1238,Avar (Batlukh dialect),1088,гъанкъие,CyrillTrans,sink,,,ɣanqʼie,Phonemic
+10-320-26-1,batl1238,Avar (Batlukh dialect),2003,тІее,CyrillTrans,flow,,,tʼeye,Phonemic
+10-260-26-1,batl1238,Avar (Batlukh dialect),1909,шороди гьавие,CyrillTrans,shake,,,šorodi hawie,Phonemic
+10-252-26-1,batl1238,Avar (Batlukh dialect),702,хьвее (торгІо),CyrillTrans,catch (ball),,,x̌ʷeye (torʕo),Phonemic
+10-250-26-1,batl1238,Avar (Batlukh dialect),1456,рехие,CyrillTrans,throw,,,rexie,Phonemic
+10-240-26-1,batl1238,Avar (Batlukh dialect),2253,тІинкІие,CyrillTrans,drip,,,tʼinkʼie,Phonemic
+10-230-26-1,batl1238,Avar (Batlukh dialect),1280,гІодо вортие,CyrillTrans,fall,,,ʕodo wortie,Phonemic
+10-220-26-1,batl1238,Avar (Batlukh dialect),501,борхие,CyrillTrans,"raise, lift",,,borxie,Phonemic
+10-210-26-1,batl1238,Avar (Batlukh dialect),568,тІаде вахъине,CyrillTrans,rise,,,tʼade waqine,Phonemic
+10-170-26-1,batl1238,Avar (Batlukh dialect),430,кьурие,CyrillTrans,twist,,,ƛ̄ʼurie,Phonemic
+10-160-26-1,batl1238,Avar (Batlukh dialect),808,букъие,CyrillTrans,drop (vb),,,buqʼie,Phonemic
+10-150-26-1,batl1238,Avar (Batlukh dialect),827,тирие,CyrillTrans,roll,,,tirie,Phonemic
+10-140-26-1,batl1238,Avar (Batlukh dialect),1113,жемие,CyrillTrans,"wind, wrap",,,žemie,Phonemic
+10-130-26-1,batl1238,Avar (Batlukh dialect),1445,сверие,CyrillTrans,turn around,,,sʷerie,Phonemic
+10-120-26-1,batl1238,Avar (Batlukh dialect),1588,бусинабие,CyrillTrans,turn over,,,businabie,Phonemic
+10-110-26-1,batl1238,Avar (Batlukh dialect),765,вагъарие,CyrillTrans,move,,,waɣarie,Phonemic
+9-890-26-1,batl1238,Avar (Batlukh dialect),2001,сурат бахъие,CyrillTrans,paint (vb),,,surat baqie,Phonemic
+9-840-26-1,batl1238,Avar (Batlukh dialect),1979,къотІулеб алат,CyrillTrans,chisel,,,"qʼotʼuleb alat, ʕanɬero",Phonemic
+9-840-26-3,batl1238,Avar (Batlukh dialect),1979,гІанлъеро,CyrillTrans,chisel,,,"qʼotʼuleb alat, ʕanɬero",Phonemic
+9-880-26-1,batl1238,Avar (Batlukh dialect),647,краска,CyrillTrans,paint (noun),,,kraska,Phonemic
+9-830-26-1,batl1238,Avar (Batlukh dialect),1002,статуя,CyrillTrans,statue,,,statuya,Phonemic
+9-820-26-1,batl1238,Avar (Batlukh dialect),914,ганчІил устар,CyrillTrans,sculptor,,,"gančʼil ustar, skulʲptor",Phonemic
+9-820-26-3,batl1238,Avar (Batlukh dialect),914,скульптор,CyrillTrans,sculptor,,,"gančʼil ustar, skulʲptor",Phonemic
+9-810-26-1,batl1238,Avar (Batlukh dialect),228,къотІие,CyrillTrans,carve,,,qʼotʼie,Phonemic
+9-791-26-1,batl1238,Avar (Batlukh dialect),360,гьогьомие,CyrillTrans,fan (vb),,,"hohomie, hohomizabie",Phonemic
+9-791-26-3,batl1238,Avar (Batlukh dialect),360,гьогьомизабие,CyrillTrans,fan (vb),,,"hohomie, hohomizabie",Phonemic
+9-790-26-1,batl1238,Avar (Batlukh dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilyatot,Phonemic
+9-780-26-1,batl1238,Avar (Batlukh dialect),293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-26-1,batl1238,Avar (Batlukh dialect),292,тІанс,CyrillTrans,rug,,,"tʼans, xaliča",Phonemic
+9-771-26-3,batl1238,Avar (Batlukh dialect),292,халича,CyrillTrans,rug,,,"tʼans, xaliča",Phonemic
+9-770-26-1,batl1238,Avar (Batlukh dialect),195,сумало,CyrillTrans,mat,,,sumalo,Phonemic
+9-760-26-1,batl1238,Avar (Batlukh dialect),1539,гьегь,CyrillTrans,basket,,,heh,Phonemic
+9-750-26-1,batl1238,Avar (Batlukh dialect),1729,бесие,CyrillTrans,"weave, plait",,,besie,Phonemic
+9-740-26-1,batl1238,Avar (Batlukh dialect),604,цІвер,CyrillTrans,glass,,,cʼʷer,Phonemic
+9-730-26-1,batl1238,Avar (Batlukh dialect),1399,хІарс,CyrillTrans,clay,,,ħars,Phonemic
+9-720-26-1,batl1238,Avar (Batlukh dialect),289,куц тІее,CyrillTrans,mold (clay etc),,,kuc tʼeye,Phonemic
+9-710-26-1,batl1238,Avar (Batlukh dialect),359,шагІихъан,CyrillTrans,potter,,,šaʕiqan,Phonemic
+9-690-26-1,batl1238,Avar (Batlukh dialect),358,хъахІа махх,CyrillTrans,"tin, tinplate",,,qaħa max̄,Phonemic
+9-680-26-1,batl1238,Avar (Batlukh dialect),627,тІухьи,CyrillTrans,lead (noun),,,tʼux̌i,Phonemic
+9-670-26-1,batl1238,Avar (Batlukh dialect),621,махх,CyrillTrans,iron,,,max̄,Phonemic
+9-660-26-1,batl1238,Avar (Batlukh dialect),1825,пахь,CyrillTrans,"copper, bronze",,,pax̌,Phonemic
+9-650-26-1,batl1238,Avar (Batlukh dialect),759,гІарач,CyrillTrans,silver,,,ʕarač,Phonemic
+9-640-26-1,batl1238,Avar (Batlukh dialect),1369,мешед,CyrillTrans,gold,,,mešed,Phonemic
+9-630-26-1,batl1238,Avar (Batlukh dialect),211,мах тІее,CyrillTrans,cast (metals),,,max tʼeye,Phonemic
+9-620-26-1,batl1238,Avar (Batlukh dialect),1648,лабч,CyrillTrans,anvil,,,labč,Phonemic
+9-610-26-1,batl1238,Avar (Batlukh dialect),288,къебедлъирукъ,CyrillTrans,forge,,,qʼebedɬiruqʼ,Phonemic
+9-600-26-1,batl1238,Avar (Batlukh dialect),1001,махул устар,CyrillTrans,"smith, blacksmith",,,maxul ustar,Phonemic
+9-560-26-1,batl1238,Avar (Batlukh dialect),1069,сину,CyrillTrans,glue,,,sinu,Phonemic
+9-500-26-1,batl1238,Avar (Batlukh dialect),502,магІ,CyrillTrans,nail,,,maʕ,Phonemic
+9-490-26-1,batl1238,Avar (Batlukh dialect),1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-26-1,batl1238,Avar (Batlukh dialect),1948,хъухъадиро,CyrillTrans,saw,,,quqadiro,Phonemic
+9-461-26-1,batl1238,Avar (Batlukh dialect),46,къатІибе кьабие,CyrillTrans,hollow out,,,qʼatʼibe ƛ̄ʼabie,Phonemic
+9-460-26-1,batl1238,Avar (Batlukh dialect),1501,каратІ,CyrillTrans,bore,,,karatʼ,Phonemic
+9-440-26-1,batl1238,Avar (Batlukh dialect),1840,бае,CyrillTrans,build,,,bae,Phonemic
+9-430-26-1,batl1238,Avar (Batlukh dialect),1042,чІулал устар,CyrillTrans,carpenter,,,čʼulal ustar,Phonemic
+9-422-26-1,batl1238,Avar (Batlukh dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-26-1,batl1238,Avar (Batlukh dialect),245,цІилицІ,CyrillTrans,broom,,,cʼilicʼ,Phonemic
+9-360-26-1,batl1238,Avar (Batlukh dialect),1453,чурие,CyrillTrans,wash,,,čurie,Phonemic
+9-370-26-1,batl1238,Avar (Batlukh dialect),230,лъвахьие,CyrillTrans,sweep,,,ɬʷax̌ie,Phonemic
+9-350-26-1,batl1238,Avar (Batlukh dialect),1487,тІее,CyrillTrans,pour,,,tʼeye,Phonemic
+9-343-26-1,batl1238,Avar (Batlukh dialect),1414,цІуе,CyrillTrans,"squeeze, wring",,,cʼue,Phonemic
+9-342-26-1,batl1238,Avar (Batlukh dialect),1913,чуе,CyrillTrans,press,,,čue,Phonemic
+9-341-26-1,batl1238,Avar (Batlukh dialect),357,бае,CyrillTrans,hang up,,,bae,Phonemic
+9-340-26-1,batl1238,Avar (Batlukh dialect),38,тІобитІи гьабие,CyrillTrans,spread out,,,tʼobitʼi habie,Phonemic
+9-330-26-1,batl1238,Avar (Batlukh dialect),1455,цІае,CyrillTrans,pull,,,cʼae,Phonemic
+9-320-26-1,batl1238,Avar (Batlukh dialect),214,цІае,CyrillTrans,stretch,,,cʼae,Phonemic
+9-310-26-1,batl1238,Avar (Batlukh dialect),1449,бацІине,CyrillTrans,"rub, wipe",,,bacʼine,Phonemic
+9-290-26-1,batl1238,Avar (Batlukh dialect),291,цІоко бахъие,CyrillTrans,"flay, skin",,,cʼoko baqie,Phonemic
+9-280-26-1,batl1238,Avar (Batlukh dialect),1735,бихъие,CyrillTrans,tear,,,biqie,Phonemic
+9-270-26-1,batl1238,Avar (Batlukh dialect),1437,бекие,CyrillTrans,split,,,bekie,Phonemic
+9-261-26-1,batl1238,Avar (Batlukh dialect),588,бекара,CyrillTrans,broken,,,bekara,Phonemic
+9-260-26-1,batl1238,Avar (Batlukh dialect),680,бекие,CyrillTrans,break,,,bekie,Phonemic
+9-250-26-1,batl1238,Avar (Batlukh dialect),677,гІастІи,CyrillTrans,ax,,,ʕastʼi,Phonemic
+9-251-26-1,batl1238,Avar (Batlukh dialect),290,гІастІи,CyrillTrans,adze,,,ʕastʼi,Phonemic
+9-240-26-1,batl1238,Avar (Batlukh dialect),356,кІуркьмах,CyrillTrans,"scissors, shears",,,kʼurƛ̄ʼmax,Phonemic
+9-230-26-1,batl1238,Avar (Batlukh dialect),1352,нуш,CyrillTrans,knife,,,nuš,Phonemic
+9-223-26-1,batl1238,Avar (Batlukh dialect),1434,хъвее,CyrillTrans,stab,,,qʷeye,Phonemic
+9-222-26-1,batl1238,Avar (Batlukh dialect),155,къотІие,CyrillTrans,"chop, hew",,,qʼotʼie,Phonemic
+9-221-26-1,batl1238,Avar (Batlukh dialect),355,къокъ гьабие,CyrillTrans,cut down,,,qʼoqʼ habie,Phonemic
+9-220-26-1,batl1238,Avar (Batlukh dialect),1432,къотІие,CyrillTrans,cut,,,qʼotʼie,Phonemic
+9-211-26-1,batl1238,Avar (Batlukh dialect),354,жаралъ бухие,CyrillTrans,pound with fist,,,žaraɬ buxie,Phonemic
+9-210-26-1,batl1238,Avar (Batlukh dialect),2133,кьабие,CyrillTrans,"strike (hit, beat)",,,ƛ̄ʼabie,Phonemic
+9-192-26-1,batl1238,Avar (Batlukh dialect),760,гарацІ,CyrillTrans,knot (noun),,,garacʼ,Phonemic
+9-190-26-1,batl1238,Avar (Batlukh dialect),1218,квар,CyrillTrans,"rope, cord",,,kʷar,Phonemic
+9-180-26-1,batl1238,Avar (Batlukh dialect),1627,рахас,CyrillTrans,chain,,,raxas,Phonemic
+9-161-26-1,batl1238,Avar (Batlukh dialect),352,бичие,CyrillTrans,untie,,,bičie,Phonemic
+9-160-26-1,batl1238,Avar (Batlukh dialect),1917,бухьине,CyrillTrans,"tie, bind",,,bux̌ine,Phonemic
+9-150-26-1,batl1238,Avar (Batlukh dialect),1470,шукІие,CyrillTrans,fold,,,šukʼie,Phonemic
+9-140-26-1,batl1238,Avar (Batlukh dialect),2004,кІичи гьабие,CyrillTrans,bend,,,kʼiči habie,Phonemic
+9-120-26-1,batl1238,Avar (Batlukh dialect),984,хІалтІи,CyrillTrans,work,,,ħaltʼi,Phonemic
+9-110-26-1,batl1238,Avar (Batlukh dialect),2575,гьабие,CyrillTrans,"do, make",,,habie,Phonemic
+8-980-26-1,batl1238,Avar (Batlukh dialect),641,гІурдахІан,CyrillTrans,mushroom,,,ʕurdaħan,Phonemic
+8-970-26-1,batl1238,Avar (Batlukh dialect),33,мицІ,CyrillTrans,nettle,,,micʼ,Phonemic
+8-941-26-1,batl1238,Avar (Batlukh dialect),146,чакаралъул муцІцІи,CyrillTrans,sugar cane,,,čakaraɬul muc̄ʼi,Phonemic
+8-940-26-1,batl1238,Avar (Batlukh dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-26-1,batl1238,Avar (Batlukh dialect),864,хъабахъ,CyrillTrans,"pumpkin, squash",,,qabaq,Phonemic
+8-930-26-1,batl1238,Avar (Batlukh dialect),411,хъабахъ,CyrillTrans,gourd,,,qabaq,Phonemic
+8-910-26-1,batl1238,Avar (Batlukh dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-26-1,batl1238,Avar (Batlukh dialect),346,инжиралъул гъветІ,CyrillTrans,banyan,,,inžiraɬul ɣʷetʼ,Phonemic
+8-840-26-1,batl1238,Avar (Batlukh dialect),868,бананалъул гъветІ,CyrillTrans,banana tree,,,bananaɬul ɣʷetʼ,Phonemic
+8-830-26-1,batl1238,Avar (Batlukh dialect),1126,цитрусалъул пихъ,CyrillTrans,citrus fruit,,,citrusaɬul piq,Phonemic
+8-820-26-1,batl1238,Avar (Batlukh dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-26-1,batl1238,Avar (Batlukh dialect),1181,пальма,CyrillTrans,palm tree,,,paljma,Phonemic
+8-760-26-1,batl1238,Avar (Batlukh dialect),345,лълъин,CyrillTrans,sap,,,"ɬ̄in, xurduzul ɬ̄in",Phonemic
+8-760-26-3,batl1238,Avar (Batlukh dialect),345,хурдузул лълъин,CyrillTrans,sap,,,"ɬ̄in, xurduzul ɬ̄in",Phonemic
+8-750-26-1,batl1238,Avar (Batlukh dialect),1204,макъар,CyrillTrans,bark,,,maqʼar,Phonemic
+8-740-26-1,batl1238,Avar (Batlukh dialect),409,кІигІакьер,CyrillTrans,forked branch,,,kʼiʕaƛ̄ʼer,Phonemic
+8-730-26-1,batl1238,Avar (Batlukh dialect),344,гъотІол хІуби,CyrillTrans,tree trunk,,,ɣotʼol ħubi,Phonemic
+8-720-26-1,batl1238,Avar (Batlukh dialect),241,хІехь,CyrillTrans,tree stump,,,ħex̌,Phonemic
+8-691-26-1,batl1238,Avar (Batlukh dialect),1124,муштук,CyrillTrans,pipe,,,muštuk,Phonemic
+8-690-26-1,batl1238,Avar (Batlukh dialect),1689,кІу,CyrillTrans,smoke (tobacco),,,kʼu,Phonemic
+8-680-26-1,batl1238,Avar (Batlukh dialect),974,тамако,CyrillTrans,tobacco,,,tamako,Phonemic
+8-670-26-1,batl1238,Avar (Batlukh dialect),343,цІолбол гъун,CyrillTrans,vine,,,cʼolbol ɣun,Phonemic
+8-660-26-1,batl1238,Avar (Batlukh dialect),968,миккикьулачІо,CyrillTrans,acorn,,,mu k̄iƛ̄ʼulačʼo,Phonemic
+8-650-26-1,batl1238,Avar (Batlukh dialect),1915,ёлка,CyrillTrans,fir,,,yolka,Phonemic
+8-640-26-1,batl1238,Avar (Batlukh dialect),1740,накІигъветІ,CyrillTrans,pine,,,nakʼiɣʷetʼ,Phonemic
+8-630-26-1,batl1238,Avar (Batlukh dialect),1855,маххигъветІ,CyrillTrans,birch,,,max̄iɣʷetʼ,Phonemic
+8-620-26-1,batl1238,Avar (Batlukh dialect),1950,чинари,CyrillTrans,beech,,,činari,Phonemic
+8-610-26-1,batl1238,Avar (Batlukh dialect),644,микк,CyrillTrans,oak,,,mik̄,Phonemic
+8-600-26-1,batl1238,Avar (Batlukh dialect),906,гъветІ,CyrillTrans,tree,,,ɣʷetʼ,Phonemic
+8-570-26-1,batl1238,Avar (Batlukh dialect),239,тІегь,CyrillTrans,flower,,,tʼeh,Phonemic
+8-560-26-1,batl1238,Avar (Batlukh dialect),628,тІамах,CyrillTrans,leaf,,,tʼamax,Phonemic
+8-550-26-1,batl1238,Avar (Batlukh dialect),1531,гІакьел,CyrillTrans,branch,,,ʕaƛ̄ʼel,Phonemic
+8-540-26-1,batl1238,Avar (Batlukh dialect),670,кьибил,CyrillTrans,root,,,ƛ̄ʼibil,Phonemic
+8-531-26-1,batl1238,Avar (Batlukh dialect),1486,гІегьабие,CyrillTrans,plant (vb),,,ʕehabie,Phonemic
+8-520-26-1,batl1238,Avar (Batlukh dialect),342,бакъвара хер,CyrillTrans,hay,,,baqʼʷara xer,Phonemic
+8-530-26-1,batl1238,Avar (Batlukh dialect),653,гІурцингьи,CyrillTrans,plant (noun),,,ʕurcinhi,Phonemic
+8-510-26-1,batl1238,Avar (Batlukh dialect),606,хер,CyrillTrans,grass,,,xer,Phonemic
+8-480-26-1,batl1238,Avar (Batlukh dialect),926,пиринчІ,CyrillTrans,rice,,,pirinčʼ,Phonemic
+8-470-26-1,batl1238,Avar (Batlukh dialect),506,сасамуч,CyrillTrans,"maize, corn",,,sasamuč,Phonemic
+8-460-26-1,batl1238,Avar (Batlukh dialect),60,ниха,CyrillTrans,oats,,,nixa,Phonemic
+8-450-26-1,batl1238,Avar (Batlukh dialect),23,огоб,CyrillTrans,rye,,,ogob,Phonemic
+8-430-26-1,batl1238,Avar (Batlukh dialect),1077,ролъ,CyrillTrans,wheat,,,roɬ,Phonemic
+8-440-26-1,batl1238,Avar (Batlukh dialect),932,гьохъ,CyrillTrans,barley,,,hoq,Phonemic
+8-420-26-1,batl1238,Avar (Batlukh dialect),605,тІорщел,CyrillTrans,"grain (barley, oats etc)",,,tʼorš̄el,Phonemic
+8-410-26-1,batl1238,Avar (Batlukh dialect),611,бачІин,CyrillTrans,"crop, harvest",,,bačʼin,Phonemic
+8-350-26-1,batl1238,Avar (Batlukh dialect),223,хІочІо,CyrillTrans,threshing-floor,,,ħočʼo,Phonemic
+8-340-26-1,batl1238,Avar (Batlukh dialect),285,ххенее,CyrillTrans,thresh,,,x̄eneye,Phonemic
+8-330-26-1,batl1238,Avar (Batlukh dialect),2132,харилчер,CyrillTrans,"sickle, scythe",,,xarilčer,Phonemic
+8-320-26-1,batl1238,Avar (Batlukh dialect),190,хъвае,CyrillTrans,"mow, reap",,,qʷae,Phonemic
+8-311-26-1,batl1238,Avar (Batlukh dialect),714,мугь,CyrillTrans,seed,,,muh,Phonemic
+8-310-26-1,batl1238,Avar (Batlukh dialect),748,бекьие,CyrillTrans,sow,,,beƛ̄ʼie,Phonemic
+8-270-26-1,batl1238,Avar (Batlukh dialect),338,кьохохо,CyrillTrans,rake,,,ƛ̄ʼoxoxo,Phonemic
+8-260-26-1,batl1238,Avar (Batlukh dialect),337,гьен,CyrillTrans,fork,,,hen,Phonemic
+8-250-26-1,batl1238,Avar (Batlukh dialect),284,гажа,CyrillTrans,hoe,,,gaža,Phonemic
+8-240-26-1,batl1238,Avar (Batlukh dialect),1901,белʼ,CyrillTrans,shovel,,,belʲ,Phonemic
+8-230-26-1,batl1238,Avar (Batlukh dialect),1176,белʼ,CyrillTrans,spade,,,belʲ,Phonemic
+8-212-26-1,batl1238,Avar (Batlukh dialect),1794,бекьара хур,CyrillTrans,furrow,,,beƛ̄ʼara xur,Phonemic
+8-220-26-1,batl1238,Avar (Batlukh dialect),1418,бухъие,CyrillTrans,dig,,,"buqie, hankʼie",Phonemic
+8-220-26-3,batl1238,Avar (Batlukh dialect),1418,гьанкІие,CyrillTrans,dig,,,"buqie, hankʼie",Phonemic
+8-210-26-1,batl1238,Avar (Batlukh dialect),1921,векьарие,CyrillTrans,plow,,,"weƛ̄ʼarie, beƛ̄ʼie",Phonemic
+8-210-26-3,batl1238,Avar (Batlukh dialect),1921,бекьие,CyrillTrans,plow,,,"weƛ̄ʼarie, beƛ̄ʼie",Phonemic
+8-170-26-1,batl1238,Avar (Batlukh dialect),2002,рахъ,CyrillTrans,ditch,,,raq,Phonemic
+8-160-26-1,batl1238,Avar (Batlukh dialect),1690,чили,CyrillTrans,fence,,,čili,Phonemic
+8-150-26-1,batl1238,Avar (Batlukh dialect),1541,хур бекьие,CyrillTrans,"cultivate, till",,,xur beƛ̄ʼie,Phonemic
+8-130-26-1,batl1238,Avar (Batlukh dialect),586,пастан,CyrillTrans,garden,,,pastan,Phonemic
+8-120-26-1,batl1238,Avar (Batlukh dialect),212,хур,CyrillTrans,field (for cultivation),,,xur,Phonemic
+8-110-26-1,batl1238,Avar (Batlukh dialect),979,векьарухъан,CyrillTrans,farmer,,,weƛ̄ʼaruqan,Phonemic
+7-640-26-1,batl1238,Avar (Batlukh dialect),901,саманалъул рукъ,CyrillTrans,adobe,,,samanaɬul ruqʼ,Phonemic
+7-630-26-1,batl1238,Avar (Batlukh dialect),224,гач,CyrillTrans,mortar,,,gač,Phonemic
+7-620-26-1,batl1238,Avar (Batlukh dialect),1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-26-1,batl1238,Avar (Batlukh dialect),876,кІамури,CyrillTrans,arch,,,kʼamuri,Phonemic
+7-610-26-1,batl1238,Avar (Batlukh dialect),877,ганчІил устар,CyrillTrans,mason,,,gančʼil ustar,Phonemic
+7-570-26-1,batl1238,Avar (Batlukh dialect),1227,хъарси,CyrillTrans,board,,,qarsi,Phonemic
+7-560-26-1,batl1238,Avar (Batlukh dialect),281,хІуби,CyrillTrans,"post, pole",,,ħubi,Phonemic
+7-550-26-1,batl1238,Avar (Batlukh dialect),1132,кІал,CyrillTrans,beam,,,kʼal,Phonemic
+7-540-26-1,batl1238,Avar (Batlukh dialect),829,старапило,CyrillTrans,rafter,,,starapilo,Phonemic
+7-530-26-1,batl1238,Avar (Batlukh dialect),280,чІел,CyrillTrans,ridgepole,,,čʼel,Phonemic
+7-520-26-1,batl1238,Avar (Batlukh dialect),279,хералъул тІох,CyrillTrans,thatch,,,xeraɬul tʼox,Phonemic
+7-510-26-1,batl1238,Avar (Batlukh dialect),769,тІох,CyrillTrans,roof,,,tʼox,Phonemic
+7-480-26-1,batl1238,Avar (Batlukh dialect),205,чвархело,CyrillTrans,trough,,,čwarxelo,Phonemic
+7-470-26-1,batl1238,Avar (Batlukh dialect),745,кьугъен,CyrillTrans,shelf,,,ƛ̄ʼuɣen,Phonemic
+7-460-26-1,batl1238,Avar (Batlukh dialect),1273,хІедучирахъ,CyrillTrans,candle,,,ħedučiraq,Phonemic
+7-450-26-1,batl1238,Avar (Batlukh dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,čiraq,Phonemic
+7-440-26-1,batl1238,Avar (Batlukh dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-26-1,batl1238,Avar (Batlukh dialect),1476,бакІ,CyrillTrans,chair,,,bakʼ,Phonemic
+7-422-26-1,batl1238,Avar (Batlukh dialect),806,ургъан,CyrillTrans,blanket,,,urɣan,Phonemic
+7-421-26-1,batl1238,Avar (Batlukh dialect),1044,къандалгьо,CyrillTrans,pillow,,,qʼandalho,Phonemic
+7-420-26-1,batl1238,Avar (Batlukh dialect),1663,кровать,CyrillTrans,bed,,,"krowatʲ, tax",Phonemic
+7-420-26-3,batl1238,Avar (Batlukh dialect),1663,тах,CyrillTrans,bed,,,"krowatʲ, tax",Phonemic
+7-370-26-1,batl1238,Avar (Batlukh dialect),1464,малʼгьи,CyrillTrans,ladder,,,malʲhi,Phonemic
+7-330-26-1,batl1238,Avar (Batlukh dialect),1305,кІутІала,CyrillTrans,chimney,,,kʼutʼala,Phonemic
+7-320-26-1,batl1238,Avar (Batlukh dialect),859,печь,CyrillTrans,stove,,,pečʲ,Phonemic
+7-310-26-1,batl1238,Avar (Batlukh dialect),185,мухари,CyrillTrans,fireplace,,,muxari,Phonemic
+7-270-26-1,batl1238,Avar (Batlukh dialect),933,къед,CyrillTrans,wall,,,qʼed,Phonemic
+7-260-26-1,batl1238,Avar (Batlukh dialect),1632,гІодоса бакІ,CyrillTrans,floor,,,ʕodosa bakʼ,Phonemic
+7-250-26-1,batl1238,Avar (Batlukh dialect),1375,гордо,CyrillTrans,window,,,gordo,Phonemic
+7-240-26-1,batl1238,Avar (Batlukh dialect),1472,кІул,CyrillTrans,key,,,kʼul,Phonemic
+7-231-26-1,batl1238,Avar (Batlukh dialect),1012,рахале жо,CyrillTrans,"latch, door-bolt",,,raxale žo,Phonemic
+7-230-26-1,batl1238,Avar (Batlukh dialect),1596,кІулал,CyrillTrans,lock (noun),,,kʼulal,Phonemic
+7-221-26-1,batl1238,Avar (Batlukh dialect),80,нуцІил ххен,CyrillTrans,"doorpost, jamb",,,nucʼil x̄en,Phonemic
+7-210-26-1,batl1238,Avar (Batlukh dialect),1450,рукъ,CyrillTrans,room,,,ruqʼ,Phonemic
+7-220-26-1,batl1238,Avar (Batlukh dialect),1567,нуцІа,CyrillTrans,"door, gate",,,"nucʼa, kawu",Phonemic
+7-220-26-3,batl1238,Avar (Batlukh dialect),1567,каву,CyrillTrans,"door, gate",,,"nucʼa, kawu",Phonemic
+7-180-26-1,batl1238,Avar (Batlukh dialect),335,мажлисалъул рукъ,CyrillTrans,meeting house,,,"mažlisaɬul ruqʼ, klub",Phonemic
+7-180-26-3,batl1238,Avar (Batlukh dialect),335,клуб,CyrillTrans,meeting house,,,"mažlisaɬul ruqʼ, klub",Phonemic
+7-170-26-1,batl1238,Avar (Batlukh dialect),334,кухня,CyrillTrans,cookhouse,,,kuxnya,Phonemic
+7-160-26-1,batl1238,Avar (Batlukh dialect),408,бихьиназул рукъ,CyrillTrans,men's house,,,bix̌inazul zuqʼ,Phonemic
+7-150-26-1,batl1238,Avar (Batlukh dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-26-1,batl1238,Avar (Batlukh dialect),1316,паж,CyrillTrans,tent,,,"paž, čadir",Phonemic
+7-140-26-3,batl1238,Avar (Batlukh dialect),1316,чадир,CyrillTrans,tent,,,"paž, čadir",Phonemic
+7-131-26-1,batl1238,Avar (Batlukh dialect),403,рукъ,CyrillTrans,garden-house,,,ruqʼ,Phonemic
+7-130-26-1,batl1238,Avar (Batlukh dialect),1678,рукъ,CyrillTrans,hut,,,ruqʼ,Phonemic
+7-120-26-1,batl1238,Avar (Batlukh dialect),1252,мина,CyrillTrans,house,,,"mina, ruqʼ",Phonemic
+7-120-26-3,batl1238,Avar (Batlukh dialect),1252,рукъ,CyrillTrans,house,,,"mina, ruqʼ",Phonemic
+7-110-26-1,batl1238,Avar (Batlukh dialect),363,гІумри гьабие,CyrillTrans,"dwell, live",,,ʕumri habie,Phonemic
+6-960-26-1,batl1238,Avar (Batlukh dialect),1171,матІу,CyrillTrans,mirror,,,matʼu,Phonemic
+6-950-26-1,batl1238,Avar (Batlukh dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-26-1,batl1238,Avar (Batlukh dialect),1926,мазь,CyrillTrans,ointment,,,mazʲ,Phonemic
+6-930-26-1,batl1238,Avar (Batlukh dialect),151,мегеж кІвале жо,CyrillTrans,razor,,,megež kʼʷale žo,Phonemic
+6-921-26-1,batl1238,Avar (Batlukh dialect),333,гъал,CyrillTrans,braid,,,ɣal,Phonemic
+6-920-26-1,batl1238,Avar (Batlukh dialect),1821,гьоркьо,CyrillTrans,brush,,,horƛ̄ʼo,Phonemic
+6-910-26-1,batl1238,Avar (Batlukh dialect),1475,гьоркьо,CyrillTrans,comb,,,horƛ̄ʼo,Phonemic
+6-820-26-1,batl1238,Avar (Batlukh dialect),1021,полотенца,CyrillTrans,towel,,,polotenca,Phonemic
+6-810-26-1,batl1238,Avar (Batlukh dialect),332,квербацІ,CyrillTrans,"handkerchief, rag",,,kʷerbacʼ,Phonemic
+6-780-26-1,batl1238,Avar (Batlukh dialect),330,тІагъур,CyrillTrans,"headband, headdress",,,tʼaɣur,Phonemic
+6-770-26-1,batl1238,Avar (Batlukh dialect),770,кІилкІал,CyrillTrans,earring,,,kʼilkʼal,Phonemic
+6-760-26-1,batl1238,Avar (Batlukh dialect),1860,махх,CyrillTrans,bead,,,max̄,Phonemic
+6-750-26-1,batl1238,Avar (Batlukh dialect),1961,маххал,CyrillTrans,necklace,,,max̄al,Phonemic
+6-740-26-1,batl1238,Avar (Batlukh dialect),1754,квергьен,CyrillTrans,bracelet,,,kʷerhen,Phonemic
+6-730-26-1,batl1238,Avar (Batlukh dialect),1374,баргъич,CyrillTrans,ring (for finger),,,barɣič,Phonemic
+6-720-26-1,batl1238,Avar (Batlukh dialect),1029,жавгьар,CyrillTrans,jewel,,,žawhar,Phonemic
+6-710-26-1,batl1238,Avar (Batlukh dialect),917,накъиш,CyrillTrans,"ornament, adornment",,,naqʼiš,Phonemic
+6-630-26-1,batl1238,Avar (Batlukh dialect),64,кичІвале рекІен,CyrillTrans,pin,,,kičʼʷale rek̄ʼen,Phonemic
+6-620-26-1,batl1238,Avar (Batlukh dialect),757,маргъал,CyrillTrans,button,,,marɣal,Phonemic
+6-610-26-1,batl1238,Avar (Batlukh dialect),1851,чанта,CyrillTrans,pocket,,,čanta,Phonemic
+6-590-26-1,batl1238,Avar (Batlukh dialect),1151,бадибигъ,CyrillTrans,veil,,,"badibiɣ, pardaw",Phonemic
+6-590-26-3,batl1238,Avar (Batlukh dialect),1151,пардав,CyrillTrans,veil,,,"badibiɣ, pardaw",Phonemic
+6-580-26-1,batl1238,Avar (Batlukh dialect),867,квергьел,CyrillTrans,glove,,,kʷerhel,Phonemic
+6-570-26-1,batl1238,Avar (Batlukh dialect),772,лачен,CyrillTrans,"belt, girdle",,,lačen,Phonemic
+6-550-26-1,batl1238,Avar (Batlukh dialect),2130,тІагъур,CyrillTrans,"hat, cap",,,tʼaɣur,Phonemic
+6-540-26-1,batl1238,Avar (Batlukh dialect),875,хьитал къачале чи,CyrillTrans,"shoemaker, cobbler",,,x̌ital qʼačale či,Phonemic
+6-510-26-1,batl1238,Avar (Batlukh dialect),1381,хьит,CyrillTrans,shoe,,,x̌it,Phonemic
+6-520-26-1,batl1238,Avar (Batlukh dialect),585,батинка,CyrillTrans,boot,,,batinka,Phonemic
+6-490-26-1,batl1238,Avar (Batlukh dialect),329,сата,CyrillTrans,"stocking, sock",,,sata,Phonemic
+6-480-26-1,batl1238,Avar (Batlukh dialect),809,тІажу,CyrillTrans,trousers,,,tʼažu,Phonemic
+6-461-26-1,batl1238,Avar (Batlukh dialect),328,тІанхазул юбка,CyrillTrans,grass-skirt,,,tʼanxazul yubka,Phonemic
+6-460-26-1,batl1238,Avar (Batlukh dialect),1600,юбка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-26-1,batl1238,Avar (Batlukh dialect),2012,габур,CyrillTrans,collar,,,gabur,Phonemic
+6-440-26-1,batl1238,Avar (Batlukh dialect),1622,гурде,CyrillTrans,shirt,,,gurde,Phonemic
+6-430-26-1,batl1238,Avar (Batlukh dialect),603,палʼто,CyrillTrans,coat,,,palʲto,Phonemic
+6-420-26-1,batl1238,Avar (Batlukh dialect),474,гурде,CyrillTrans,woman's dress,,,gurde,Phonemic
+6-390-26-1,batl1238,Avar (Batlukh dialect),157,краска,CyrillTrans,dye,,,"kraska, lažbar",Phonemic
+6-390-26-3,batl1238,Avar (Batlukh dialect),157,лажбар,CyrillTrans,dye,,,"kraska, lažbar",Phonemic
+6-410-26-1,batl1238,Avar (Batlukh dialect),326,плаш,CyrillTrans,cloak,,,plaš,Phonemic
+6-380-26-1,batl1238,Avar (Batlukh dialect),1161,квар,CyrillTrans,thread,,,kʷar,Phonemic
+6-360-26-1,batl1238,Avar (Batlukh dialect),1382,рукІкІен,CyrillTrans,needle,,,ruk̄ʼen,Phonemic
+6-370-26-1,batl1238,Avar (Batlukh dialect),278,гІебу,CyrillTrans,awl,,,ʕebu,Phonemic
+6-350-26-1,batl1238,Avar (Batlukh dialect),1457,букъие,CyrillTrans,sew,,,buqʼie,Phonemic
+6-340-26-1,batl1238,Avar (Batlukh dialect),1787,бессули станок,CyrillTrans,loom,,,bes̄uli stanok,Phonemic
+6-330-26-1,batl1238,Avar (Batlukh dialect),133,хьухьине,CyrillTrans,weave,,,x̌ux̌ine,Phonemic
+6-320-26-1,batl1238,Avar (Batlukh dialect),277,мерго,CyrillTrans,spindle,,,mergo,Phonemic
+6-310-26-1,batl1238,Avar (Batlukh dialect),121,хьухьине,CyrillTrans,spin,,,x̌ux̌ine,Phonemic
+6-290-26-1,batl1238,Avar (Batlukh dialect),629,тІон,CyrillTrans,leather,,,tʼon,Phonemic
+6-280-26-1,batl1238,Avar (Batlukh dialect),580,къехь,CyrillTrans,fur,,,qʼex̌,Phonemic
+6-270-26-1,batl1238,Avar (Batlukh dialect),325,буртина,CyrillTrans,felt,,,burtina,Phonemic
+6-250-26-1,batl1238,Avar (Batlukh dialect),1641,чиладул ххан,CyrillTrans,silk,,,čiladul x̄an,Phonemic
+6-240-26-1,batl1238,Avar (Batlukh dialect),1850,пампадул ххан,CyrillTrans,cotton,,,pampadul x̄an,Phonemic
+6-230-26-1,batl1238,Avar (Batlukh dialect),916,лъелъ,CyrillTrans,"linen, flax",,,ɬeɬ,Phonemic
+6-220-26-1,batl1238,Avar (Batlukh dialect),964,квашулххан,CyrillTrans,wool,,,kʷašulx̄an,Phonemic
+6-210-26-1,batl1238,Avar (Batlukh dialect),1616,ххан,CyrillTrans,cloth,,,x̄an,Phonemic
+6-130-26-1,batl1238,Avar (Batlukh dialect),881,йукъарухъан,CyrillTrans,tailor,,,yuqʼaruqan,Phonemic
+6-120-26-1,batl1238,Avar (Batlukh dialect),1895,ретІел,CyrillTrans,"clothing, clothes",,,retʼel,Phonemic
+6-110-26-1,batl1238,Avar (Batlukh dialect),158,ретІел ретІине,CyrillTrans,put on (clothes),,,retʼel retʼine,Phonemic
+5-971-26-1,batl1238,Avar (Batlukh dialect),1556,багІархоно,CyrillTrans,egg yolk,,,baʕarxono,Phonemic
+5-970-26-1,batl1238,Avar (Batlukh dialect),744,хоно,CyrillTrans,egg,,,xono,Phonemic
+5-940-26-1,batl1238,Avar (Batlukh dialect),404,чІагІа,CyrillTrans,fermented drink,,,čʼaʕa,Phonemic
+5-930-26-1,batl1238,Avar (Batlukh dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-26-1,batl1238,Avar (Batlukh dialect),1524,чагъир,CyrillTrans,wine,,,čaɣir,Phonemic
+5-910-26-1,batl1238,Avar (Batlukh dialect),941,гьоцІлол гьекъел,CyrillTrans,mead,,,hoc̛lol heqʼel,Phonemic
+5-900-26-1,batl1238,Avar (Batlukh dialect),731,лъин,CyrillTrans,"beverage, drink",,,ɬin,Phonemic
+5-890-26-1,batl1238,Avar (Batlukh dialect),1245,нах,CyrillTrans,butter,,,nax,Phonemic
+5-880-26-1,batl1238,Avar (Batlukh dialect),1569,хІан,CyrillTrans,cheese,,,ħan,Phonemic
+5-870-26-1,batl1238,Avar (Batlukh dialect),93,бецІие,CyrillTrans,milk (vb),,,becʼie,Phonemic
+5-850-26-1,batl1238,Avar (Batlukh dialect),862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-26-1,batl1238,Avar (Batlukh dialect),635,рахь,CyrillTrans,milk (noun),,,rax̌,Phonemic
+5-840-26-1,batl1238,Avar (Batlukh dialect),942,гьоцІо,CyrillTrans,honey,,,hocʼo,Phonemic
+5-821-26-1,batl1238,Avar (Batlukh dialect),919,къувата пилпил,CyrillTrans,chili pepper,,,qʼuwata pilpil,Phonemic
+5-820-26-1,batl1238,Avar (Batlukh dialect),1385,пилпил,CyrillTrans,pepper,,,pilpil,Phonemic
+5-810-26-1,batl1238,Avar (Batlukh dialect),1274,цІан,CyrillTrans,salt,,,cʼan,Phonemic
+5-791-26-1,batl1238,Avar (Batlukh dialect),323,мохмох,CyrillTrans,"grease, fat",,,moxmox,Phonemic
+5-790-26-1,batl1238,Avar (Batlukh dialect),1484,нах,CyrillTrans,oil,,,"nax, semučkayaɬul nax",Phonemic
+5-790-26-3,batl1238,Avar (Batlukh dialect),1484,семучкаялъул нах,CyrillTrans,oil,,,"nax, semučkayaɬul nax",Phonemic
+5-780-26-1,batl1238,Avar (Batlukh dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-26-1,batl1238,Avar (Batlukh dialect),920,цІибилʼ,CyrillTrans,grape,,,cʼibilʼ,Phonemic
+5-770-26-1,batl1238,Avar (Batlukh dialect),191,кьулачІо,CyrillTrans,nut,,,ƛ̄ʼulačʼo,Phonemic
+5-750-26-1,batl1238,Avar (Batlukh dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-26-1,batl1238,Avar (Batlukh dialect),1966,гьоп,CyrillTrans,bunch,,,hop,Phonemic
+5-710-26-1,batl1238,Avar (Batlukh dialect),1507,пихъ,CyrillTrans,fruit,,,piq,Phonemic
+5-700-26-1,batl1238,Avar (Batlukh dialect),593,картошка,CyrillTrans,potato,,,kartoška,Phonemic
+5-660-26-1,batl1238,Avar (Batlukh dialect),832,гьоло,CyrillTrans,bean,,,holo,Phonemic
+5-650-26-1,batl1238,Avar (Batlukh dialect),924,овощал,CyrillTrans,vegetables,,,owoš̄al,Phonemic
+5-640-26-1,batl1238,Avar (Batlukh dialect),1547,чурпа,CyrillTrans,"soup, broth",,,čurpa,Phonemic
+5-630-26-1,batl1238,Avar (Batlukh dialect),1874,бакь,CyrillTrans,sausage,,,baƛ̄ʼ,Phonemic
+5-610-26-1,batl1238,Avar (Batlukh dialect),634,гьан,CyrillTrans,meat,,,han,Phonemic
+5-590-26-1,batl1238,Avar (Batlukh dialect),225,ражибух,CyrillTrans,pestle,,,ražibux,Phonemic
+5-580-26-1,batl1238,Avar (Batlukh dialect),224,ражиху,CyrillTrans,mortar (2),,,ražixu,Phonemic
+5-570-26-1,batl1238,Avar (Batlukh dialect),636,гьобо,CyrillTrans,mill,,,hobo,Phonemic
+5-560-26-1,batl1238,Avar (Batlukh dialect),1033,гІисин гьабие,CyrillTrans,"crush, grind",,,ʕisin habie,Phonemic
+5-550-26-1,batl1238,Avar (Batlukh dialect),1594,ролълъ,CyrillTrans,"meal, flour",,,roɬ̄,Phonemic
+5-540-26-1,batl1238,Avar (Batlukh dialect),274,бучие,CyrillTrans,knead,,,bučie,Phonemic
+5-530-26-1,batl1238,Avar (Batlukh dialect),273,бучара ролълъ,CyrillTrans,dough,,,bučara roɬ̄,Phonemic
+5-510-26-1,batl1238,Avar (Batlukh dialect),1368,чед,CyrillTrans,bread,,,čed,Phonemic
+5-490-26-1,batl1238,Avar (Batlukh dialect),2017,багъарие,CyrillTrans,"stir, mix",,,baɣarie,Phonemic
+5-480-26-1,batl1238,Avar (Batlukh dialect),1767,лъулъадие,CyrillTrans,scrape,,,ɬuɬadie,Phonemic
+5-470-26-1,batl1238,Avar (Batlukh dialect),86,цІалкІие,CyrillTrans,"sieve, strain",,,cʼalkʼie,Phonemic
+5-460-26-1,batl1238,Avar (Batlukh dialect),275,бацІад гьабие,CyrillTrans,peel,,,bacʼad habie,Phonemic
+5-450-26-1,batl1238,Avar (Batlukh dialect),1833,къасдеквен,CyrillTrans,supper,,,qʼasdekʷen,Phonemic
+5-440-26-1,batl1238,Avar (Batlukh dialect),1833,къадеквен,CyrillTrans,dinner,,,qʼadekʷen,Phonemic
+5-420-26-1,batl1238,Avar (Batlukh dialect),1322,радал квен,CyrillTrans,breakfast,,,radal kʷen,Phonemic
+5-410-26-1,batl1238,Avar (Batlukh dialect),1526,квен,CyrillTrans,meal (a),,,kʷen,Phonemic
+5-391-26-1,batl1238,Avar (Batlukh dialect),272,гъечІ,CyrillTrans,tongs,,,ɣečʼ,Phonemic
+5-390-26-1,batl1238,Avar (Batlukh dialect),1302,гІучІ,CyrillTrans,fork (2),,,ʕučʼ,Phonemic
+5-380-26-1,batl1238,Avar (Batlukh dialect),1352,нуш,CyrillTrans,knife (2),,,nuš,Phonemic
+5-370-26-1,batl1238,Avar (Batlukh dialect),1378,гъуд,CyrillTrans,spoon,,,ɣud,Phonemic
+5-360-26-1,batl1238,Avar (Batlukh dialect),271,гъадаро,CyrillTrans,saucer,,,ɣadaro,Phonemic
+5-350-26-1,batl1238,Avar (Batlukh dialect),476,суркІа,CyrillTrans,"cup, drinking vessel",,,surkʼa,Phonemic
+5-330-26-1,batl1238,Avar (Batlukh dialect),1530,щурун,CyrillTrans,bowl,,,š̄urun,Phonemic
+5-340-26-1,batl1238,Avar (Batlukh dialect),270,парчи,CyrillTrans,"pitcher, jug",,,parči,Phonemic
+5-320-26-1,batl1238,Avar (Batlukh dialect),480,гъадаро,CyrillTrans,plate,,,ɣadaro,Phonemic
+5-310-26-1,batl1238,Avar (Batlukh dialect),481,гъадаро,CyrillTrans,dish,,,ɣadaro,Phonemic
+5-280-26-1,batl1238,Avar (Batlukh dialect),31,хьаг,CyrillTrans,pan,,,x̌ag,Phonemic
+5-260-26-1,batl1238,Avar (Batlukh dialect),1462,хъазан,CyrillTrans,"pot, cooking vessel",,,qazan,Phonemic
+5-270-26-1,batl1238,Avar (Batlukh dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-26-1,batl1238,Avar (Batlukh dialect),183,бежие,CyrillTrans,bake,,,bežie,Phonemic
+5-250-26-1,batl1238,Avar (Batlukh dialect),1143,печ,CyrillTrans,oven,,,peč,Phonemic
+5-230-26-1,batl1238,Avar (Batlukh dialect),2146,бежие,CyrillTrans,"roast, fry",,,bežie,Phonemic
+5-220-26-1,batl1238,Avar (Batlukh dialect),792,гьалие гьабие,CyrillTrans,boil (vb),,,halie habie,Phonemic
+5-210-26-1,batl1238,Avar (Batlukh dialect),1100,белʼгьине гьабие,CyrillTrans,cook,,,belʲhine habie,Phonemic
+5-190-26-1,batl1238,Avar (Batlukh dialect),129,гъанкъие,CyrillTrans,choke,,,ɣanqʼie,Phonemic
+5-181-26-1,batl1238,Avar (Batlukh dialect),897,къурцІие,CyrillTrans,swallow,,,qʼurcʼie,Phonemic
+5-180-26-1,batl1238,Avar (Batlukh dialect),321,чІамие,CyrillTrans,chew,,,čʼamie,Phonemic
+5-160-26-1,batl1238,Avar (Batlukh dialect),1421,цІункие,CyrillTrans,suck,,,cʼunkie,Phonemic
+5-150-26-1,batl1238,Avar (Batlukh dialect),848,къеч,CyrillTrans,thirst,,,qʼeč,Phonemic
+5-141-26-1,batl1238,Avar (Batlukh dialect),199,ракъие,CyrillTrans,famine,,,raqʼie,Phonemic
+5-140-26-1,batl1238,Avar (Batlukh dialect),1864,ракъ,CyrillTrans,hunger,,,raqʼ,Phonemic
+5-130-26-1,batl1238,Avar (Batlukh dialect),1401,гьекъее,CyrillTrans,drink,,,heqʼeye,Phonemic
+5-125-26-1,batl1238,Avar (Batlukh dialect),1728,турара,CyrillTrans,rotten,,,turara,Phonemic
+5-124-26-1,batl1238,Avar (Batlukh dialect),1958,барсинчІе,CyrillTrans,"green, unripe",,,barsinčʼe,Phonemic
+5-123-26-1,batl1238,Avar (Batlukh dialect),178,барсара,CyrillTrans,ripe,,,barsara,Phonemic
+5-122-26-1,batl1238,Avar (Batlukh dialect),1959,белгьинчІе,CyrillTrans,raw,,,belhinčʼe,Phonemic
+5-121-26-1,batl1238,Avar (Batlukh dialect),269,белгьара,CyrillTrans,cooked,,,belhara,Phonemic
+5-120-26-1,batl1238,Avar (Batlukh dialect),256,квен,CyrillTrans,food,,,"kʷen, kunižo",Phonemic
+5-120-26-3,batl1238,Avar (Batlukh dialect),256,кунижо,CyrillTrans,food,,,"kʷen, kunižo",Phonemic
+5-110-26-1,batl1238,Avar (Batlukh dialect),1336,кванае,CyrillTrans,eat,,,kʷanae,Phonemic
+4-990-26-1,batl1238,Avar (Batlukh dialect),590,ретІел гьечІе,CyrillTrans,"naked, bare",,,retʼel hečʼe,Phonemic
+4-970-26-1,batl1238,Avar (Batlukh dialect),1653,беца,CyrillTrans,blind,,,beca,Phonemic
+4-980-26-1,batl1238,Avar (Batlukh dialect),1463,мехтара,CyrillTrans,intoxicated,,,mextara,Phonemic
+4-960-26-1,batl1238,Avar (Batlukh dialect),1666,кІалгьай гьаларе,CyrillTrans,mute,,,kʼalhay halare,Phonemic
+4-950-26-1,batl1238,Avar (Batlukh dialect),996,гІинкъа,CyrillTrans,deaf,,,ʕinqʼa,Phonemic
+4-930-26-1,batl1238,Avar (Batlukh dialect),1125,бетІер хІулара,CyrillTrans,bald,,,betʼer ħulara,Phonemic
+4-940-26-1,batl1238,Avar (Batlukh dialect),320,рекъие,CyrillTrans,lame,,,reqʼie,Phonemic
+4-920-26-1,batl1238,Avar (Batlukh dialect),1564,кІвахІала,CyrillTrans,lazy,,,kʼwaħala,Phonemic
+4-912-26-1,batl1238,Avar (Batlukh dialect),168,хІалбичие,CyrillTrans,rest,,,ħalbičie,Phonemic
+4-910-26-1,batl1238,Avar (Batlukh dialect),1757,свакара,CyrillTrans,"tired, weary",,,sʷakara,Phonemic
+4-890-26-1,batl1238,Avar (Batlukh dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-26-1,batl1238,Avar (Batlukh dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-880-26-3,batl1238,Avar (Batlukh dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-870-26-1,batl1238,Avar (Batlukh dialect),597,врач,CyrillTrans,physician,,,"wrač, toxtur",Phonemic
+4-870-26-3,batl1238,Avar (Batlukh dialect),597,тохтур,CyrillTrans,physician,,,"wrač, toxtur",Phonemic
+4-860-26-1,batl1238,Avar (Batlukh dialect),499,лъикІие гьавие,CyrillTrans,"cure, heal",,,"ɬikʼie hawie, sax hawie",Phonemic
+4-860-26-3,batl1238,Avar (Batlukh dialect),499,сах гьавие,CyrillTrans,"cure, heal",,,"ɬikʼie hawie, sax hawie",Phonemic
+4-858-26-1,batl1238,Avar (Batlukh dialect),497,гІуж,CyrillTrans,scar,,,ʕuž,Phonemic
+4-857-26-1,batl1238,Avar (Batlukh dialect),1808,рецІ,CyrillTrans,pus,,,recʼ,Phonemic
+4-856-26-1,batl1238,Avar (Batlukh dialect),793,гьан хьоле жо,CyrillTrans,boil (noun),,,han x̌ole žo,Phonemic
+4-855-26-1,batl1238,Avar (Batlukh dialect),1584,пІунцІиро,CyrillTrans,blister,,,pʼuncʼiro,Phonemic
+4-854-26-1,batl1238,Avar (Batlukh dialect),148,хъарси,CyrillTrans,itch,,,qarsi,Phonemic
+4-853-26-1,batl1238,Avar (Batlukh dialect),1903,гьорой,CyrillTrans,swelling,,,horoy,Phonemic
+4-852-26-1,batl1238,Avar (Batlukh dialect),1148,тункун унтизабура бакІ,CyrillTrans,bruise,,,tunkun untizabura bakʼ,Phonemic
+4-850-26-1,batl1238,Avar (Batlukh dialect),1109,ругъел,CyrillTrans,"wound, sore",,,ruɣel,Phonemic
+4-843-26-1,batl1238,Avar (Batlukh dialect),102,квач,CyrillTrans,cold (catarrh),,,kʷač,Phonemic
+4-842-26-1,batl1238,Avar (Batlukh dialect),1957,мукъур лъугьин,CyrillTrans,goiter,,,muqʼur ɬuhin,Phonemic
+4-841-26-1,batl1238,Avar (Batlukh dialect),1534,багІари,CyrillTrans,fever,,,baʕari,Phonemic
+4-840-26-1,batl1238,Avar (Batlukh dialect),1847,унтара,CyrillTrans,"sick, sickness",,,untara,Phonemic
+4-830-26-1,batl1238,Avar (Batlukh dialect),1364,сахлъия,CyrillTrans,"well, health",,,saxɬiya,Phonemic
+4-820-26-1,batl1238,Avar (Batlukh dialect),1601,загІипа,CyrillTrans,weak,,,zaʕipa,Phonemic
+4-810-26-1,batl1238,Avar (Batlukh dialect),785,къувата,CyrillTrans,"strong, mighty, powerful",,,qʼuwata,Phonemic
+4-790-26-1,batl1238,Avar (Batlukh dialect),1773,хоб,CyrillTrans,"grave, tomb",,,xob,Phonemic
+4-780-26-1,batl1238,Avar (Batlukh dialect),1719,вукъие,CyrillTrans,bury (the dead),,,wuqʼie,Phonemic
+4-770-26-1,batl1238,Avar (Batlukh dialect),767,хвара чи,CyrillTrans,corpse,,,"xʷara či, žanaza",Phonemic
+4-770-26-3,batl1238,Avar (Batlukh dialect),767,жаназа,CyrillTrans,corpse,,,"xʷara či, žanaza",Phonemic
+4-760-26-1,batl1238,Avar (Batlukh dialect),1417,чІвае,CyrillTrans,kill,,,čʼwae,Phonemic
+4-751-26-1,batl1238,Avar (Batlukh dialect),1904,гъанкъара,CyrillTrans,drowned,,,"ɣanqʼara, ɣanqʼara či",Phonemic
+4-751-26-3,batl1238,Avar (Batlukh dialect),1904,гъанкъара чи,CyrillTrans,drowned,,,"ɣanqʼara, ɣanqʼara či",Phonemic
+4-750-26-1,batl1238,Avar (Batlukh dialect),1494,хвара,CyrillTrans,"die, dead",,,"xʷara, xʷeye",Phonemic
+4-750-26-3,batl1238,Avar (Batlukh dialect),1494,хвее,CyrillTrans,"die, dead",,,"xʷara, xʷeye",Phonemic
+4-740-26-1,batl1238,Avar (Batlukh dialect),1422,гІумру,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habie, čʼagoya",Phonemic
+4-740-26-3,batl1238,Avar (Batlukh dialect),1422,гІумру гьабие,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habie, čʼagoya",Phonemic
+4-740-26-5,batl1238,Avar (Batlukh dialect),1422,чІагоя,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habie, čʼagoya",Phonemic
+4-732-26-1,batl1238,Avar (Batlukh dialect),1087,гьимер хьее,CyrillTrans,conceive,,,himer x̌eye,Phonemic
+4-730-26-1,batl1238,Avar (Batlukh dialect),1123,гьимер гьабие,CyrillTrans,pregnant,,,himer habie,Phonemic
+4-720-26-1,batl1238,Avar (Batlukh dialect),1090,гьавие,CyrillTrans,born (to be),,,hawie,Phonemic
+4-710-26-1,batl1238,Avar (Batlukh dialect),1152,бижизабие,CyrillTrans,beget (of father),,,bižizabie,Phonemic
+4-690-26-1,batl1238,Avar (Batlukh dialect),138,чурдие,CyrillTrans,bathe,,,čurdie,Phonemic
+4-680-26-1,batl1238,Avar (Batlukh dialect),52,тІеркІие,CyrillTrans,shiver,,,tʼerkʼie,Phonemic
+4-670-26-1,batl1238,Avar (Batlukh dialect),1785,йехІие,CyrillTrans,have sexual intercourse,,,yeħie,Phonemic
+4-660-26-1,batl1238,Avar (Batlukh dialect),676,вилълъие,CyrillTrans,defecate,,,wiɬ̄ie,Phonemic
+4-650-26-1,batl1238,Avar (Batlukh dialect),592,кІурсие,CyrillTrans,urinate,,,kʼursie,Phonemic
+4-640-26-1,batl1238,Avar (Batlukh dialect),1159,кьае,CyrillTrans,break wind,,,"ƛ̄ʼae, tucie",Phonemic
+4-640-26-3,batl1238,Avar (Batlukh dialect),1159,туцие,CyrillTrans,break wind,,,"ƛ̄ʼae, tucie",Phonemic
+4-630-26-1,batl1238,Avar (Batlukh dialect),1602,тІаде вахъине,CyrillTrans,wake up,,,tʼade waqine,Phonemic
+4-620-26-1,batl1238,Avar (Batlukh dialect),1920,макьо бихьие,CyrillTrans,dream,,,maƛ̄ʼo bix̌ie,Phonemic
+4-612-26-1,batl1238,Avar (Batlukh dialect),1983,хъванхъвадие,CyrillTrans,snore,,,qʷanqʷadie,Phonemic
+4-610-26-1,batl1238,Avar (Batlukh dialect),1585,кьижие,CyrillTrans,sleep,,,ƛ̄ʼižie,Phonemic
+4-591-26-1,batl1238,Avar (Batlukh dialect),268,туе,CyrillTrans,dribble,,,tue,Phonemic
+4-590-26-1,batl1238,Avar (Batlukh dialect),319,цІикІие,CyrillTrans,lick,,,cʼikʼie,Phonemic
+4-580-26-1,batl1238,Avar (Batlukh dialect),1403,хІанчІие,CyrillTrans,bite,,,ħančʼie,Phonemic
+4-570-26-1,batl1238,Avar (Batlukh dialect),1278,ракІ багъари,CyrillTrans,vomit,,,rakʼ baɣarie,Phonemic
+4-560-26-1,batl1238,Avar (Batlukh dialect),1440,хІацу туе,CyrillTrans,spit,,,ħacu tue,Phonemic
+4-550-26-1,batl1238,Avar (Batlukh dialect),126,гІетІ бае,CyrillTrans,perspire,,,ʕetʼ bae,Phonemic
+4-540-26-1,batl1238,Avar (Batlukh dialect),1621,чинхъие,CyrillTrans,sneeze,,,činqie,Phonemic
+4-530-26-1,batl1238,Avar (Batlukh dialect),879,хъехІенди,CyrillTrans,cough,,,qeħendie,Phonemic
+4-521-26-1,batl1238,Avar (Batlukh dialect),162,экІдоле,CyrillTrans,hiccough,,,ekʼdole,Phonemic
+4-520-26-1,batl1238,Avar (Batlukh dialect),1028,гьакІади,CyrillTrans,"yawn, gape",,,hakʼadi,Phonemic
+4-510-26-1,batl1238,Avar (Batlukh dialect),1407,хІухьер цІае,CyrillTrans,"breathe, breath",,,ħux̌er cʼae,Phonemic
+4-492-26-1,batl1238,Avar (Batlukh dialect),1222,мехьер,CyrillTrans,penis,,,mex̌er,Phonemic
+4-490-26-1,batl1238,Avar (Batlukh dialect),797,хІанал,CyrillTrans,testicle,,,ħanal,Phonemic
+4-470-26-1,batl1238,Avar (Batlukh dialect),804,тІанчІирукъ,CyrillTrans,womb,,,tʼančʼiruqʼ,Phonemic
+4-464-26-1,batl1238,Avar (Batlukh dialect),834,роцол кІаркьен,CyrillTrans,buttocks,,,rocol kʼarƛ̄ʼen,Phonemic
+4-463-26-1,batl1238,Avar (Batlukh dialect),1745,мацІ,CyrillTrans,hip,,,macʼ,Phonemic
+4-462-26-1,batl1238,Avar (Batlukh dialect),1681,рачелкъай,CyrillTrans,waist,,,račelqʼay,Phonemic
+4-461-26-1,batl1238,Avar (Batlukh dialect),1991,бакьал,CyrillTrans,"intestines, guts",,,baƛ̄ʼal,Phonemic
+4-460-26-1,batl1238,Avar (Batlukh dialect),819,кванирукъ,CyrillTrans,stomach,,,kʷaniruqʼ,Phonemic
+4-452-26-1,batl1238,Avar (Batlukh dialect),1744,къецІ,CyrillTrans,spleen,,,qʼecʼ,Phonemic
+4-451-26-1,batl1238,Avar (Batlukh dialect),489,улгьисен,CyrillTrans,kidney,,,ulhisen,Phonemic
+4-450-26-1,batl1238,Avar (Batlukh dialect),1224,тІул,CyrillTrans,liver,,,tʼul,Phonemic
+4-441-26-1,batl1238,Avar (Batlukh dialect),688,гьуърул,CyrillTrans,lung,,,huʔrul,Phonemic
+4-440-26-1,batl1238,Avar (Batlukh dialect),1223,ракІ,CyrillTrans,heart,,,rakʼ,Phonemic
+4-430-26-1,batl1238,Avar (Batlukh dialect),1838,цІину,CyrillTrans,navel,,,cʼinu,Phonemic
+4-420-26-1,batl1238,Avar (Batlukh dialect),154,гъвари,CyrillTrans,udder,,,ɣʷari,Phonemic
+4-412-26-1,batl1238,Avar (Batlukh dialect),796,керен,CyrillTrans,"nipple, teat",,,keren,Phonemic
+4-410-26-1,batl1238,Avar (Batlukh dialect),1402,керен,CyrillTrans,breast (of woman),,,keren,Phonemic
+4-400-26-1,batl1238,Avar (Batlukh dialect),1592,каранзул къали,CyrillTrans,chest,,,karanzul qʼali,Phonemic
+4-393-26-1,batl1238,Avar (Batlukh dialect),1201,хІули,CyrillTrans,feather,,,ħuli,Phonemic
+4-392-26-1,batl1238,Avar (Batlukh dialect),1257,кваркъи,CyrillTrans,wing,,,kʷarqʼi,Phonemic
+4-380-26-1,batl1238,Avar (Batlukh dialect),1389,хІатІикирис,CyrillTrans,toe,,,ħatʼikiris,Phonemic
+4-374-26-1,batl1238,Avar (Batlukh dialect),318,гьакІ,CyrillTrans,footprint,,,hakʼ,Phonemic
+4-372-26-1,batl1238,Avar (Batlukh dialect),980,эргъе,CyrillTrans,heel,,,erɣe,Phonemic
+4-371-26-1,batl1238,Avar (Batlukh dialect),803,хІатІихинкІ,CyrillTrans,ankle,,,ħatʼixinkʼ,Phonemic
+4-370-26-1,batl1238,Avar (Batlukh dialect),1301,хІетІе,CyrillTrans,foot,,,ħetʼe,Phonemic
+4-360-26-1,batl1238,Avar (Batlukh dialect),1371,нако,CyrillTrans,knee,,,nako,Phonemic
+4-352-26-1,batl1238,Avar (Batlukh dialect),498,чІобори,CyrillTrans,calf of leg,,,čʼobori,Phonemic
+4-351-26-1,batl1238,Avar (Batlukh dialect),800,мацІ,CyrillTrans,thigh,,,macʼ,Phonemic
+4-350-26-1,batl1238,Avar (Batlukh dialect),1297,хІетІе,CyrillTrans,leg,,,"ħetʼe, box",Phonemic
+4-350-26-3,batl1238,Avar (Batlukh dialect),1297,бох,CyrillTrans,leg,,,"ħetʼe, box",Phonemic
+4-345-26-1,batl1238,Avar (Batlukh dialect),72,магь,CyrillTrans,claw,,,mah,Phonemic
+4-344-26-1,batl1238,Avar (Batlukh dialect),1258,магь,CyrillTrans,fingernail,,,mah,Phonemic
+4-342-26-1,batl1238,Avar (Batlukh dialect),1781,кирис,CyrillTrans,thumb,,,kiris,Phonemic
+4-340-26-1,batl1238,Avar (Batlukh dialect),1303,кирис,CyrillTrans,finger,,,kiris,Phonemic
+4-331-26-1,batl1238,Avar (Batlukh dialect),1183,хъат,CyrillTrans,palm of hand,,,qat,Phonemic
+4-330-26-1,batl1238,Avar (Batlukh dialect),1277,квер,CyrillTrans,hand,,,kʷer,Phonemic
+4-321-26-1,batl1238,Avar (Batlukh dialect),799,кверзул рищи,CyrillTrans,wrist,,,kʷerzul riš̄i,Phonemic
+4-320-26-1,batl1238,Avar (Batlukh dialect),981,гІункІрукь,CyrillTrans,elbow,,,ʕunkʼruƛ̄ʼ,Phonemic
+4-312-26-1,batl1238,Avar (Batlukh dialect),1886,къвалакь бакІ,CyrillTrans,armpit,,,qʼʷalaƛ̄ʼ bakʼ,Phonemic
+4-310-26-1,batl1238,Avar (Batlukh dialect),1673,квер,CyrillTrans,arm,,,kʷer,Phonemic
+4-302-26-1,batl1238,Avar (Batlukh dialect),1994,сологІучІ,CyrillTrans,collarbone,,,soloʕučʼ,Phonemic
+4-301-26-1,batl1238,Avar (Batlukh dialect),172,бугьналага,CyrillTrans,shoulderblade,,,buhnalaga,Phonemic
+4-300-26-1,batl1238,Avar (Batlukh dialect),1482,гъеж,CyrillTrans,shoulder,,,ɣež,Phonemic
+4-290-26-1,batl1238,Avar (Batlukh dialect),1346,секъер,CyrillTrans,throat,,,seqʼer,Phonemic
+4-281-26-1,batl1238,Avar (Batlukh dialect),1347,гъванса,CyrillTrans,nape of neck,,,ɣʷansa,Phonemic
+4-280-26-1,batl1238,Avar (Batlukh dialect),1333,габур,CyrillTrans,neck,,,gabur,Phonemic
+4-272-26-1,batl1238,Avar (Batlukh dialect),1049,гІуш,CyrillTrans,molartooth,,,ʕuš,Phonemic
+4-270-26-1,batl1238,Avar (Batlukh dialect),1380,гІуш,CyrillTrans,tooth,,,ʕuš,Phonemic
+4-271-26-1,batl1238,Avar (Batlukh dialect),139,дабал,CyrillTrans,gums,,,dabal,Phonemic
+4-260-26-1,batl1238,Avar (Batlukh dialect),1205,мацІ,CyrillTrans,tongue,,,macʼ,Phonemic
+4-250-26-1,batl1238,Avar (Batlukh dialect),478,кветІ,CyrillTrans,lip,,,kʷetʼ,Phonemic
+4-241-26-1,batl1238,Avar (Batlukh dialect),73,кІал,CyrillTrans,beak,,,kʼal,Phonemic
+4-240-26-1,batl1238,Avar (Batlukh dialect),674,кІал,CyrillTrans,mouth,,,kʼal,Phonemic
+4-232-26-1,batl1238,Avar (Batlukh dialect),208,мегІер,CyrillTrans,mucus (nasal),,,"meʕer, kʼočʼo",Phonemic
+4-232-26-3,batl1238,Avar (Batlukh dialect),208,кІочІо,CyrillTrans,mucus (nasal),,,"meʕer, kʼočʼo",Phonemic
+4-231-26-1,batl1238,Avar (Batlukh dialect),1178,мегІералъул каратІ,CyrillTrans,nostril,,,meʕeraɬul karatʼ,Phonemic
+4-230-26-1,batl1238,Avar (Batlukh dialect),1221,мегІер,CyrillTrans,nose,,,meʕer,Phonemic
+4-222-26-1,batl1238,Avar (Batlukh dialect),32,хІебецІцІ,CyrillTrans,earwax,,,ħebec̄ʼ,Phonemic
+4-221-26-1,batl1238,Avar (Batlukh dialect),18,кеке,CyrillTrans,earlobe,,,keke,Phonemic
+4-220-26-1,batl1238,Avar (Batlukh dialect),1247,гІин,CyrillTrans,ear,,,ʕin,Phonemic
+4-215-26-1,batl1238,Avar (Batlukh dialect),1655,берал къанс-къансун балагьие,CyrillTrans,blink,,,beral qʼans-qʼansun balahie,Phonemic
+4-214-26-1,batl1238,Avar (Batlukh dialect),1540,тІелехІ,CyrillTrans,eyelash,,,tʼeleħ,Phonemic
+4-213-26-1,batl1238,Avar (Batlukh dialect),17,тІелехІ,CyrillTrans,eyelid,,,tʼeleħ,Phonemic
+4-212-26-1,batl1238,Avar (Batlukh dialect),1173,кьенсер,CyrillTrans,eyebrow,,,ƛ̄ʼenser,Phonemic
+4-210-26-1,batl1238,Avar (Batlukh dialect),1248,бер,CyrillTrans,eye,,,ber,Phonemic
+4-208-26-1,batl1238,Avar (Batlukh dialect),1730,кІаркьен,CyrillTrans,cheek,,,kʼarƛ̄ʼen,Phonemic
+4-209-26-1,batl1238,Avar (Batlukh dialect),1510,нинахІама,CyrillTrans,chin,,,ninaħama,Phonemic
+4-205-26-1,batl1238,Avar (Batlukh dialect),123,нодо,CyrillTrans,forehead,,,nodo,Phonemic
+4-207-26-1,batl1238,Avar (Batlukh dialect),798,нинахІама,CyrillTrans,jaw,,,ninaħama,Phonemic
+4-204-26-1,batl1238,Avar (Batlukh dialect),1560,гьумер,CyrillTrans,face,,,humer,Phonemic
+4-203-26-1,batl1238,Avar (Batlukh dialect),1583,гІаданах,CyrillTrans,brain,,,ʕadanax,Phonemic
+4-201-26-1,batl1238,Avar (Batlukh dialect),1604,къванща,CyrillTrans,"side of head, temple",,,qʼʷanš̄a,Phonemic
+4-202-26-1,batl1238,Avar (Batlukh dialect),1605,гвангара,CyrillTrans,skull,,,gʷangara,Phonemic
+4-200-26-1,batl1238,Avar (Batlukh dialect),1256,бетІер,CyrillTrans,head,,,betʼer,Phonemic
+4-191-26-1,batl1238,Avar (Batlukh dialect),805,гьод,CyrillTrans,spine,,,hod,Phonemic
+4-190-26-1,batl1238,Avar (Batlukh dialect),1291,мугъ,CyrillTrans,back,,,muɣ,Phonemic
+4-180-26-1,batl1238,Avar (Batlukh dialect),1220,рацІ,CyrillTrans,tail,,,racʼ,Phonemic
+4-170-26-1,batl1238,Avar (Batlukh dialect),1393,лъар,CyrillTrans,horn,,,ɬar,Phonemic
+4-162-26-1,batl1238,Avar (Batlukh dialect),801,хьабалахъгІучІ,CyrillTrans,rib,,,x̌abalaqʕučʼ,Phonemic
+4-160-26-1,batl1238,Avar (Batlukh dialect),1394,ракьа,CyrillTrans,bone,,,raƛ̄ʼa,Phonemic
+4-151-26-1,batl1238,Avar (Batlukh dialect),525,бидурихь,CyrillTrans,"vein, artery",,,bidurix̌,Phonemic
+4-150-26-1,batl1238,Avar (Batlukh dialect),946,би,CyrillTrans,blood,,,bi,Phonemic
+4-146-26-1,batl1238,Avar (Batlukh dialect),576,хІебетІ,CyrillTrans,dandruff,,,ħebetʼ,Phonemic
+4-145-26-1,batl1238,Avar (Batlukh dialect),36,раш,CyrillTrans,pubic hair,,,raš,Phonemic
+4-144-26-1,batl1238,Avar (Batlukh dialect),189,раш,CyrillTrans,body hair,,,raš,Phonemic
+4-142-26-1,batl1238,Avar (Batlukh dialect),678,мегеж,CyrillTrans,beard,,,megež,Phonemic
+4-140-26-1,batl1238,Avar (Batlukh dialect),1040,раш,CyrillTrans,hair (head),,,raš,Phonemic
+4-130-26-1,batl1238,Avar (Batlukh dialect),2259,лага,CyrillTrans,flesh,,,"laga, čerx",Phonemic
+4-130-26-3,batl1238,Avar (Batlukh dialect),2259,черх,CyrillTrans,flesh,,,"laga, čerx",Phonemic
+4-120-26-1,batl1238,Avar (Batlukh dialect),763,къехь,CyrillTrans,"skin, hide",,,qʼex̌,Phonemic
+4-110-26-1,batl1238,Avar (Batlukh dialect),1480,къаркъала,CyrillTrans,body,,,qʼarqʼala,Phonemic
+3-980-26-1,batl1238,Avar (Batlukh dialect),112,щурумкъверкъ,CyrillTrans,turtle,,,š̄urumqʼʷerqʼ,Phonemic
+3-970-26-1,batl1238,Avar (Batlukh dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-26-1,batl1238,Avar (Batlukh dialect),632,лъутІборохь,CyrillTrans,lizard,,,ɬutʼborox̌,Phonemic
+3-950-26-1,batl1238,Avar (Batlukh dialect),503,къверкъ,CyrillTrans,frog,,,qʼʷerqʼ,Phonemic
+3-940-26-1,batl1238,Avar (Batlukh dialect),1543,цІадал хІама,CyrillTrans,snail,,,cʼadal ħama,Phonemic
+3-930-26-1,batl1238,Avar (Batlukh dialect),607,гарчІ,CyrillTrans,grasshopper,,,garčʼ,Phonemic
+3-920-26-1,batl1238,Avar (Batlukh dialect),1791,панкІалакІач,CyrillTrans,butterfly,,,pankʼalakʼač,Phonemic
+3-910-26-1,batl1238,Avar (Batlukh dialect),206,цІакунчІ,CyrillTrans,firefly,,,cʼakunčʼ,Phonemic
+3-850-26-1,batl1238,Avar (Batlukh dialect),730,борохь,CyrillTrans,snake,,,borox̌,Phonemic
+3-840-26-1,batl1238,Avar (Batlukh dialect),1219,хІапаро,CyrillTrans,worm,,,ħaparo,Phonemic
+3-832-26-1,batl1238,Avar (Batlukh dialect),1509,кІара,CyrillTrans,mosquito,,,kʼara,Phonemic
+3-831-26-1,batl1238,Avar (Batlukh dialect),95,кІара,CyrillTrans,"sandfly (midge), gnat",,,kʼara,Phonemic
+3-830-26-1,batl1238,Avar (Batlukh dialect),1504,тІутІ,CyrillTrans,fly,,,tʼutʼ,Phonemic
+3-823-26-1,batl1238,Avar (Batlukh dialect),1517,кьузна,CyrillTrans,wasp,,,ƛ̄ʼuzna,Phonemic
+3-822-26-1,batl1238,Avar (Batlukh dialect),88,наил рукъ,CyrillTrans,beehive,,,nail ruqʼ,Phonemic
+3-821-26-1,batl1238,Avar (Batlukh dialect),1931,хІе,CyrillTrans,beeswax,,,ħe,Phonemic
+3-820-26-1,batl1238,Avar (Batlukh dialect),665,най,CyrillTrans,bee,,,nay,Phonemic
+3-819-26-1,batl1238,Avar (Batlukh dialect),1065,хъанхъралъул рукъ,CyrillTrans,spider web,,,qanqraɬul ruqʼ,Phonemic
+3-818-26-1,batl1238,Avar (Batlukh dialect),843,хъанхъра,CyrillTrans,spider,,,qanqra,Phonemic
+3-817-26-1,batl1238,Avar (Batlukh dialect),587,цІунцІра,CyrillTrans,ant,,,cʼuncʼra,Phonemic
+3-816-26-1,batl1238,Avar (Batlukh dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-26-1,batl1238,Avar (Batlukh dialect),1538,гІанкъра,CyrillTrans,scorpion,,,ʕanqʼra,Phonemic
+3-814-26-1,batl1238,Avar (Batlukh dialect),1974,хІатІал гІемера жо,CyrillTrans,centipede,,,ħatʼal ʕemera žo,Phonemic
+3-813-26-1,batl1238,Avar (Batlukh dialect),232,чІетІ,CyrillTrans,flea,,,čʼetʼ,Phonemic
+3-812-26-1,batl1238,Avar (Batlukh dialect),267,тІипа,CyrillTrans,nit (louse egg),,,tʼipa,Phonemic
+3-811-26-1,batl1238,Avar (Batlukh dialect),1392,нацІ,CyrillTrans,louse,,,nacʼ,Phonemic
+3-810-26-1,batl1238,Avar (Batlukh dialect),620,хІутІх̄ъумур,CyrillTrans,insect,,,ħutʼq̄umur,Phonemic
+3-780-26-1,batl1238,Avar (Batlukh dialect),1871,варани,CyrillTrans,camel,,,warani,Phonemic
+3-770-26-1,batl1238,Avar (Batlukh dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-26-1,batl1238,Avar (Batlukh dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-26-1,batl1238,Avar (Batlukh dialect),1936,ритІучІ,CyrillTrans,deer,,,ritʼučʼ,Phonemic
+3-740-26-1,batl1238,Avar (Batlukh dialect),1312,цер,CyrillTrans,fox,,,cer,Phonemic
+3-730-26-1,batl1238,Avar (Batlukh dialect),1820,ци,CyrillTrans,bear,,,ci,Phonemic
+3-720-26-1,batl1238,Avar (Batlukh dialect),1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-26-1,batl1238,Avar (Batlukh dialect),522,бачІ,CyrillTrans,wolf,,,bačʼ,Phonemic
+3-663-26-1,batl1238,Avar (Batlukh dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-26-1,batl1238,Avar (Batlukh dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-26-1,batl1238,Avar (Batlukh dialect),1110,хъуртма,CyrillTrans,shark,,,"qurtma, akula",Phonemic
+3-661-26-3,batl1238,Avar (Batlukh dialect),1110,акула,CyrillTrans,shark,,,"qurtma, akula",Phonemic
+3-655-26-1,batl1238,Avar (Batlukh dialect),598,цугІаялъул хъал,CyrillTrans,shell,,,cuʕayaɬul ʕin,Phonemic
+3-653-26-1,batl1238,Avar (Batlukh dialect),266,цугІаялъул хъал,CyrillTrans,fishscale,,,cuʕayaɬul qal,Phonemic
+3-652-26-1,batl1238,Avar (Batlukh dialect),213,цугІаялъул рацІ,CyrillTrans,fin (dorsal),,,cuʕayaɬul racʼ,Phonemic
+3-650-26-1,batl1238,Avar (Batlukh dialect),227,цугІа,CyrillTrans,fish,,,cuʕa,Phonemic
+3-630-26-1,batl1238,Avar (Batlukh dialect),2139,гІонкІ,CyrillTrans,"mouse, rat",,,ʕonkʼ,Phonemic
+3-620-26-1,batl1238,Avar (Batlukh dialect),1208,кето,CyrillTrans,cat,,,keto,Phonemic
+3-614-26-1,batl1238,Avar (Batlukh dialect),1136,гІанкІ,CyrillTrans,rabbit,,,ʕankʼ,Phonemic
+3-610-26-1,batl1238,Avar (Batlukh dialect),2009,гьой,CyrillTrans,dog,,,hoy,Phonemic
+3-594-26-1,batl1238,Avar (Batlukh dialect),1853,мики,CyrillTrans,dove,,,miki,Phonemic
+3-596-26-1,batl1238,Avar (Batlukh dialect),735,руж,CyrillTrans,owl,,,ruž,Phonemic
+3-593-26-1,batl1238,Avar (Batlukh dialect),913,гъедо,CyrillTrans,crow,,,ɣedo,Phonemic
+3-592-26-1,batl1238,Avar (Batlukh dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-26-1,batl1238,Avar (Batlukh dialect),1793,къохьолъалкІач,CyrillTrans,bat,,,qʼox̌oɬalkʼač,Phonemic
+3-586-26-1,batl1238,Avar (Batlukh dialect),1185,хъвек,CyrillTrans,vulture,,,qʷek,Phonemic
+3-585-26-1,batl1238,Avar (Batlukh dialect),307,хъергъу,CyrillTrans,hawk,,,qerɣu,Phonemic
+3-584-26-1,batl1238,Avar (Batlukh dialect),1905,цІум,CyrillTrans,eagle,,,cʼum,Phonemic
+3-582-26-1,batl1238,Avar (Batlukh dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-26-1,batl1238,Avar (Batlukh dialect),758,лакълакъ,CyrillTrans,heron,,,laqʼlaqʼ,Phonemic
+3-581-26-1,batl1238,Avar (Batlukh dialect),937,хІинцІ,CyrillTrans,bird,,,ħincʼ,Phonemic
+3-580-26-1,batl1238,Avar (Batlukh dialect),539,хІанцІирукъ,CyrillTrans,nest,,,ħancʼiruqʼ,Phonemic
+3-570-26-1,batl1238,Avar (Batlukh dialect),1360,урдек,CyrillTrans,duck,,,urdek,Phonemic
+3-560-26-1,batl1238,Avar (Batlukh dialect),1187,хъаз,CyrillTrans,goose,,,qaz,Phonemic
+3-550-26-1,batl1238,Avar (Batlukh dialect),1318,тІенчІ,CyrillTrans,chicken,,,tʼenčʼ,Phonemic
+3-540-26-1,batl1238,Avar (Batlukh dialect),1514,гІанкІо,CyrillTrans,hen,,,ʕankʼo,Phonemic
+3-520-26-1,batl1238,Avar (Batlukh dialect),1511,хІелеко,CyrillTrans,"cock, rooster",,,ħeleko,Phonemic
+3-470-26-1,batl1238,Avar (Batlukh dialect),890,гІорчІен,CyrillTrans,mule,,,ʕorčʼen,Phonemic
+3-500-26-1,batl1238,Avar (Batlukh dialect),265,рукъалъул хІинцІ,CyrillTrans,fowl,,,ruqʼaɬul ħincʼ,Phonemic
+3-460-26-1,batl1238,Avar (Batlukh dialect),1862,хІама,CyrillTrans,"ass, donkey",,,ħama,Phonemic
+3-450-26-1,batl1238,Avar (Batlukh dialect),1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-26-1,batl1238,Avar (Batlukh dialect),938,гІала,CyrillTrans,mare,,,ʕala,Phonemic
+3-420-26-1,batl1238,Avar (Batlukh dialect),936,барти,CyrillTrans,stallion,,,barti,Phonemic
+3-410-26-1,batl1238,Avar (Batlukh dialect),615,чу,CyrillTrans,horse (equine),,,ču,Phonemic
+3-380-26-1,batl1238,Avar (Batlukh dialect),1972,бурутІ,CyrillTrans,kid,,,burutʼ,Phonemic
+3-370-26-1,batl1238,Avar (Batlukh dialect),264,дегІен,CyrillTrans,he-goat,,,deʕen,Phonemic
+3-360-26-1,batl1238,Avar (Batlukh dialect),1502,цІе,CyrillTrans,goat,,,cʼe,Phonemic
+3-350-26-1,batl1238,Avar (Batlukh dialect),1337,болгьон,CyrillTrans,pig,,,bolhon,Phonemic
+3-340-26-1,batl1238,Avar (Batlukh dialect),1351,болгьон,CyrillTrans,sow (2),,,bolhon,Phonemic
+3-320-26-1,batl1238,Avar (Batlukh dialect),1348,болгьон,CyrillTrans,boar,,,bolhon,Phonemic
+3-290-26-1,batl1238,Avar (Batlukh dialect),820,кьегІер,CyrillTrans,lamb,,,ƛ̄ʼeʕer,Phonemic
+3-280-26-1,batl1238,Avar (Batlukh dialect),1345,гІи,CyrillTrans,ewe,,,ʕi,Phonemic
+3-260-26-1,batl1238,Avar (Batlukh dialect),1344,куй,CyrillTrans,ram,,,kuy,Phonemic
+3-250-26-1,batl1238,Avar (Batlukh dialect),1331,гІиял,CyrillTrans,sheep,,,ʕiyal,Phonemic
+3-240-26-1,batl1238,Avar (Batlukh dialect),1989,бече,CyrillTrans,calf,,,beče,Phonemic
+3-230-26-1,batl1238,Avar (Batlukh dialect),1007,гІака,CyrillTrans,cow,,,ʕaka,Phonemic
+3-220-26-1,batl1238,Avar (Batlukh dialect),1169,бугъа,CyrillTrans,ox,,,buɣa,Phonemic
+3-210-26-1,batl1238,Avar (Batlukh dialect),1008,оч,CyrillTrans,bull,,,oč,Phonemic
+3-200-26-1,batl1238,Avar (Batlukh dialect),1153,хІайван,CyrillTrans,cattle (bovine),,,ħaywan,Phonemic
+3-190-26-1,batl1238,Avar (Batlukh dialect),851,бокь,CyrillTrans,"stable, stall",,,boƛ̄ʼ,Phonemic
+3-180-26-1,batl1238,Avar (Batlukh dialect),263,вехь,CyrillTrans,herdsman,,,wex̌,Phonemic
+3-160-26-1,batl1238,Avar (Batlukh dialect),649,хъутан,CyrillTrans,pasture,,,qutan,Phonemic
+3-150-26-1,batl1238,Avar (Batlukh dialect),631,хІайван,CyrillTrans,livestock,,,ħaywan,Phonemic
+3-130-26-1,batl1238,Avar (Batlukh dialect),2262,цІуя,CyrillTrans,female (adj),,,cʼuya,Phonemic
+3-120-26-1,batl1238,Avar (Batlukh dialect),2261,бихьина,CyrillTrans,male (adj),,,bix̌ina,Phonemic
+3-110-26-1,batl1238,Avar (Batlukh dialect),619,хІайван,CyrillTrans,animal,,,ħaywan,Phonemic
+2-960-26-1,batl1238,Avar (Batlukh dialect),817,гъол,CyrillTrans,they,,,ɣol,Phonemic
+2-950-26-1,batl1238,Avar (Batlukh dialect),1213,нуж,CyrillTrans,you (plural),,,nuž,Phonemic
+2-942-26-1,batl1238,Avar (Batlukh dialect),1130,ниж,CyrillTrans,we (exclusive),,,niž,Phonemic
+2-941-26-1,batl1238,Avar (Batlukh dialect),1131,нилъ,CyrillTrans,we (inclusive),,,niɬ,Phonemic
+2-940-26-1,batl1238,Avar (Batlukh dialect),1212,нилъ,CyrillTrans,we,,,niɬ,Phonemic
+2-930-26-1,batl1238,Avar (Batlukh dialect),262,гъов,CyrillTrans,he/she/it,,,"ɣow, ɣoy, ɣob",Phonemic
+2-930-26-3,batl1238,Avar (Batlukh dialect),262,гъой,CyrillTrans,he/she/it,,,"ɣow, ɣoy, ɣob",Phonemic
+2-930-26-5,batl1238,Avar (Batlukh dialect),262,гъоб,CyrillTrans,he/she/it,,,"ɣow, ɣoy, ɣob",Phonemic
+2-920-26-1,batl1238,Avar (Batlukh dialect),1215,мун,CyrillTrans,you (singular),,,mun,Phonemic
+2-910-26-1,batl1238,Avar (Batlukh dialect),1209,дун,CyrillTrans,I,,,dun,Phonemic
+2-820-26-1,batl1238,Avar (Batlukh dialect),194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-26-1,batl1238,Avar (Batlukh dialect),1644,гІагара чагІи,CyrillTrans,"relatives, kinsmen",,,ʕagara čaʕi,Phonemic
+2-770-26-1,batl1238,Avar (Batlukh dialect),1981,къоролав,CyrillTrans,widower,,,qʼorolaw,Phonemic
+2-760-26-1,batl1238,Avar (Batlukh dialect),1756,къоролай,CyrillTrans,widow,,,qʼorolay,Phonemic
+2-750-26-1,batl1238,Avar (Batlukh dialect),1149,ятим,CyrillTrans,orphan,,,yatim,Phonemic
+2-740-26-1,batl1238,Avar (Batlukh dialect),1058,бестал яц,CyrillTrans,stepdaughter,,,bestal yac,Phonemic
+2-730-26-1,batl1238,Avar (Batlukh dialect),1059,бестал вац,CyrillTrans,stepson,,,bestal wac,Phonemic
+2-720-26-1,batl1238,Avar (Batlukh dialect),236,бестал эбел,CyrillTrans,stepmother,,,bestal ebel,Phonemic
+2-710-26-1,batl1238,Avar (Batlukh dialect),237,бестал эмен,CyrillTrans,stepfather,,,bestal emen,Phonemic
+2-641-26-1,batl1238,Avar (Batlukh dialect),2264,нуш,CyrillTrans,daughter-in-law (of a woman),,,nuš,Phonemic
+2-640-26-1,batl1238,Avar (Batlukh dialect),2265,нуш,CyrillTrans,daughter-in-law (of a man),,,nuš,Phonemic
+2-631-26-1,batl1238,Avar (Batlukh dialect),2266,дурч,CyrillTrans,son-in-law (of a woman),,,durč,Phonemic
+2-630-26-1,batl1238,Avar (Batlukh dialect),2267,дурч,CyrillTrans,son-in-law (of a man),,,durč,Phonemic
+2-621-26-1,batl1238,Avar (Batlukh dialect),2257,якьад,CyrillTrans,mother-in-law (of a woman),,,yaƛ̄ʼad,Phonemic
+2-620-26-1,batl1238,Avar (Batlukh dialect),2256,якьад,CyrillTrans,mother-in-law (of a man),,,yaƛ̄ʼad,Phonemic
+2-611-26-1,batl1238,Avar (Batlukh dialect),2254,вакьад,CyrillTrans,father-in-law (of a woman),,,waƛ̄ʼad,Phonemic
+2-610-26-1,batl1238,Avar (Batlukh dialect),2255,вакьад,CyrillTrans,father-in-law (of a man),,,waƛ̄ʼad,Phonemic
+2-570-26-1,batl1238,Avar (Batlukh dialect),490,умумул,CyrillTrans,descendants,,,umumul,Phonemic
+2-560-26-1,batl1238,Avar (Batlukh dialect),1669,умумул,CyrillTrans,ancestors,,,umumul,Phonemic
+2-550-26-1,batl1238,Avar (Batlukh dialect),1643,вацхІал,CyrillTrans,cousin,,,"wacħal, yacħal",Phonemic
+2-550-26-3,batl1238,Avar (Batlukh dialect),1643,яцхІал,CyrillTrans,cousin,,,"wacħal, yacħal",Phonemic
+2-540-26-1,batl1238,Avar (Batlukh dialect),1642,вацасул ящ,CyrillTrans,niece,,,wacasul yaš̄,Phonemic
+2-530-26-1,batl1238,Avar (Batlukh dialect),1063,вацасул ващ,CyrillTrans,nephew,,,wacasul waš̄,Phonemic
+2-522-26-1,batl1238,Avar (Batlukh dialect),170,ункъа,CyrillTrans,father's sister,,,unqʼa,Phonemic
+2-520-26-1,batl1238,Avar (Batlukh dialect),1272,ункъа,CyrillTrans,aunt,,,unqʼa,Phonemic
+2-521-26-1,batl1238,Avar (Batlukh dialect),171,ункъа,CyrillTrans,mother's sister,,,unqʼa,Phonemic
+2-512-26-1,batl1238,Avar (Batlukh dialect),1985,имгІал,CyrillTrans,father's brother,,,"imʕal, daci",Phonemic
+2-512-26-3,batl1238,Avar (Batlukh dialect),1985,даци,CyrillTrans,father's brother,,,"imʕal, daci",Phonemic
+2-511-26-1,batl1238,Avar (Batlukh dialect),1984,имгІал,CyrillTrans,mother's brother,,,"imʕal, daci",Phonemic
+2-511-26-3,batl1238,Avar (Batlukh dialect),1984,даци,CyrillTrans,mother's brother,,,"imʕal, daci",Phonemic
+2-510-26-1,batl1238,Avar (Batlukh dialect),1327,имгІал,CyrillTrans,uncle,,,"imʕal, daci",Phonemic
+2-510-26-3,batl1238,Avar (Batlukh dialect),1327,даци,CyrillTrans,uncle,,,"imʕal, daci",Phonemic
+2-480-26-1,batl1238,Avar (Batlukh dialect),1618,ващасул ващ,CyrillTrans,grandson,,,waš̄asul waš̄,Phonemic
+2-490-26-1,batl1238,Avar (Batlukh dialect),1619,ящалъул ящ,CyrillTrans,granddaughter,,,yaš̄aɬul yaš̄,Phonemic
+2-471-26-1,batl1238,Avar (Batlukh dialect),907,кІодо,CyrillTrans,old woman,,,kʼodo,Phonemic
+2-470-26-1,batl1238,Avar (Batlukh dialect),1496,кІудия эбел,CyrillTrans,grandmother,,,kʼudiya ebel,Phonemic
+2-461-26-1,batl1238,Avar (Batlukh dialect),406,хера чи,CyrillTrans,old man,,,xera či,Phonemic
+2-460-26-1,batl1238,Avar (Batlukh dialect),1383,кІудия эмен,CyrillTrans,grandfather,,,"kʼudiya emen, maʕadada",Phonemic
+2-460-26-3,batl1238,Avar (Batlukh dialect),1383,магІадада,CyrillTrans,grandfather,,,"kʼudiya emen, maʕadada",Phonemic
+2-458-26-1,batl1238,Avar (Batlukh dialect),1005,чадахъ гьарулал,CyrillTrans,twins,,,čadaq harulal,Phonemic
+2-456-26-1,batl1238,Avar (Batlukh dialect),1640,вац,CyrillTrans,sibling,,,"wac, yac",Phonemic
+2-456-26-3,batl1238,Avar (Batlukh dialect),1640,яц,CyrillTrans,sibling,,,"wac, yac",Phonemic
+2-455-26-1,batl1238,Avar (Batlukh dialect),1761,гьитІинай яц,CyrillTrans,younger sister,,,hitʼina yac,Phonemic
+2-454-26-1,batl1238,Avar (Batlukh dialect),1758,кІудияй яц,CyrillTrans,older sister,,,kʼudiya yac,Phonemic
+2-450-26-1,batl1238,Avar (Batlukh dialect),1263,яц,CyrillTrans,sister,,,yac,Phonemic
+2-445-26-1,batl1238,Avar (Batlukh dialect),1760,гьитІина вац,CyrillTrans,younger brother,,,hitʼina wac,Phonemic
+2-444-26-1,batl1238,Avar (Batlukh dialect),1759,кІудия вац,CyrillTrans,older brother,,,kʼudiya wac,Phonemic
+2-440-26-1,batl1238,Avar (Batlukh dialect),1262,вац,CyrillTrans,brother,,,wac,Phonemic
+2-430-26-1,batl1238,Avar (Batlukh dialect),1801,гьимал-чагІи,CyrillTrans,offspring (son or daughter),,,himal-čaʕi,Phonemic
+2-420-26-1,batl1238,Avar (Batlukh dialect),1357,ящ,CyrillTrans,daughter,,,yaš̄,Phonemic
+2-410-26-1,batl1238,Avar (Batlukh dialect),1620,ващ,CyrillTrans,son,,,waš̄,Phonemic
+2-390-26-1,batl1238,Avar (Batlukh dialect),426,росасе ара,CyrillTrans,married woman,,,rosase ara,Phonemic
+2-380-26-1,batl1238,Avar (Batlukh dialect),424,цІузу ячара,CyrillTrans,married man,,,cʼuzu yačara,Phonemic
+2-370-26-1,batl1238,Avar (Batlukh dialect),505,эбел-эмен,CyrillTrans,parents,,,ebel-emen,Phonemic
+2-360-26-1,batl1238,Avar (Batlukh dialect),1216,эбел,CyrillTrans,mother,,,ebel,Phonemic
+2-350-26-1,batl1238,Avar (Batlukh dialect),1217,эмен,CyrillTrans,father,,,emen,Phonemic
+2-341-26-1,batl1238,Avar (Batlukh dialect),1134,латІагьи,CyrillTrans,divorce,,,latʼahi,Phonemic
+2-340-26-1,batl1238,Avar (Batlukh dialect),1259,ригьин,CyrillTrans,"marriage, wedding",,,rihin,Phonemic
+2-330-26-1,batl1238,Avar (Batlukh dialect),203,цІузу ячине,CyrillTrans,marry,,,"cʼuzu yačine, rosase ine",Phonemic
+2-330-26-3,batl1238,Avar (Batlukh dialect),203,росасе ине,CyrillTrans,marry,,,"cʼuzu yačine, rosase ine",Phonemic
+2-320-26-1,batl1238,Avar (Batlukh dialect),1199,цІузу,CyrillTrans,wife,,,cʼuzu,Phonemic
+2-310-26-1,batl1238,Avar (Batlukh dialect),1200,рос,CyrillTrans,husband,,,ros,Phonemic
+2-280-26-1,batl1238,Avar (Batlukh dialect),1289,гьимер,CyrillTrans,"infant, baby",,,himer,Phonemic
+2-270-26-1,batl1238,Avar (Batlukh dialect),1304,гьимер,CyrillTrans,child,,,himer,Phonemic
+2-261-26-1,batl1238,Avar (Batlukh dialect),77,бахІара ящ,CyrillTrans,young woman (adolescent),,,baħara yaš̄,Phonemic
+2-260-26-1,batl1238,Avar (Batlukh dialect),1646,ящ,CyrillTrans,girl,,,yaš̄,Phonemic
+2-251-26-1,batl1238,Avar (Batlukh dialect),76,бахІара ваш,CyrillTrans,young man (adolescent),,,baħara waš,Phonemic
+2-250-26-1,batl1238,Avar (Batlukh dialect),1366,ващ,CyrillTrans,boy,,,waš̄,Phonemic
+2-240-26-1,batl1238,Avar (Batlukh dialect),1551,цІуя,CyrillTrans,female,,,cʼuya,Phonemic
+2-230-26-1,batl1238,Avar (Batlukh dialect),1553,бихьина,CyrillTrans,male,,,bix̌ina,Phonemic
+2-220-26-1,batl1238,Avar (Batlukh dialect),962,цІузу,CyrillTrans,woman,,,cʼuzu,Phonemic
+2-210-26-1,batl1238,Avar (Batlukh dialect),1554,бихьинчи,CyrillTrans,man (vs. woman),,,bix̌inči,Phonemic
+2-100-26-1,batl1238,Avar (Batlukh dialect),683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-26-1,batl1238,Avar (Batlukh dialect),1188,тІурци,CyrillTrans,charcoal,,,tʼurci,Phonemic
+1-880-26-1,batl1238,Avar (Batlukh dialect),10,чІул,CyrillTrans,firewood,,,čʼul,Phonemic
+1-870-26-1,batl1238,Avar (Batlukh dialect),1133,испичка,CyrillTrans,match (noun),,,ispička,Phonemic
+1-861-26-1,batl1238,Avar (Batlukh dialect),127,сингьабие,CyrillTrans,extinguish,,,sinhabie,Phonemic
+1-860-26-1,batl1238,Avar (Batlukh dialect),737,рекІини,CyrillTrans,"light, kindle, ignite",,,rekʼini,Phonemic
+1-852-26-1,batl1238,Avar (Batlukh dialect),1428,рекІини,CyrillTrans,burn (vb intrans),,,rekʼini,Phonemic
+1-851-26-1,batl1238,Avar (Batlukh dialect),141,бухІи,CyrillTrans,burn (vb trans),,,buħi,Phonemic
+1-841-26-1,batl1238,Avar (Batlukh dialect),67,хІенехІ,CyrillTrans,embers,,,ħeneħ,Phonemic
+1-840-26-1,batl1238,Avar (Batlukh dialect),646,хІенехІ,CyrillTrans,ashes,,,ħeneħ,Phonemic
+1-830-26-1,batl1238,Avar (Batlukh dialect),778,кІу,CyrillTrans,smoke (noun),,,kʼu,Phonemic
+1-820-26-1,batl1238,Avar (Batlukh dialect),889,чІа,CyrillTrans,flame (noun),,,čʼa,Phonemic
+1-810-26-1,batl1238,Avar (Batlukh dialect),221,чІа,CyrillTrans,fire,,,čʼa,Phonemic
+1-780-26-1,batl1238,Avar (Batlukh dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-26-1,batl1238,Avar (Batlukh dialect),617,цІвер,CyrillTrans,ice,,,cʼʷer,Phonemic
+1-760-26-1,batl1238,Avar (Batlukh dialect),784,гІажо,CyrillTrans,snow (noun),,,ʕažo,Phonemic
+1-750-26-1,batl1238,Avar (Batlukh dialect),658,цІад,CyrillTrans,rain (noun),,,cʼad,Phonemic
+1-740-26-1,batl1238,Avar (Batlukh dialect),249,накІкІ,CyrillTrans,fog,,,nak̄ʼ,Phonemic
+1-720-26-1,batl1238,Avar (Batlukh dialect),960,гьури,CyrillTrans,wind,,,huri,Phonemic
+1-730-26-1,batl1238,Avar (Batlukh dialect),1489,накІкІ,CyrillTrans,cloud,,,nak̄ʼ,Phonemic
+1-710-26-1,batl1238,Avar (Batlukh dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-26-1,batl1238,Avar (Batlukh dialect),1977,шаву,CyrillTrans,dew,,,šawu,Phonemic
+1-630-26-1,batl1238,Avar (Batlukh dialect),1388,рагІад,CyrillTrans,"shade, shadow",,,raʕad,Phonemic
+1-620-26-1,batl1238,Avar (Batlukh dialect),11,бечІи,CyrillTrans,darkness,,,bečʼi,Phonemic
+1-610-26-1,batl1238,Avar (Batlukh dialect),630,кангьи,CyrillTrans,light (noun),,,kanhi,Phonemic
+1-590-26-1,batl1238,Avar (Batlukh dialect),1733,нур,CyrillTrans,rainbow,,,nur,Phonemic
+1-580-26-1,batl1238,Avar (Batlukh dialect),858,гьури,CyrillTrans,storm,,,huri,Phonemic
+1-560-26-1,batl1238,Avar (Batlukh dialect),1150,гъугъай,CyrillTrans,thunder,,,ɣuɣay,Phonemic
+1-570-26-1,batl1238,Avar (Batlukh dialect),2007,пири,CyrillTrans,lightning (as striking),,,piri,Phonemic
+1-550-26-1,batl1238,Avar (Batlukh dialect),1654,пири,CyrillTrans,lightning,,,piri,Phonemic
+1-540-26-1,batl1238,Avar (Batlukh dialect),1430,цІва,CyrillTrans,star,,,cʼʷa,Phonemic
+1-530-26-1,batl1238,Avar (Batlukh dialect),1313,моцІ,CyrillTrans,moon,,,mocʼ,Phonemic
+1-520-26-1,batl1238,Avar (Batlukh dialect),1343,бакъ,CyrillTrans,sun,,,baqʼ,Phonemic
+1-510-26-1,batl1238,Avar (Batlukh dialect),1732,жоди,CyrillTrans,sky,,,žodi,Phonemic
+1-450-26-1,batl1238,Avar (Batlukh dialect),6,ракьбагъари,CyrillTrans,earthquake,,,raƛ̄ʼbaɣari,Phonemic
+1-440-26-1,batl1238,Avar (Batlukh dialect),2125,камачІ,CyrillTrans,"stone, rock",,,kamačʼ,Phonemic
+1-430-26-1,batl1238,Avar (Batlukh dialect),1803,чІул,CyrillTrans,wood,,,čʼul,Phonemic
+1-420-26-1,batl1238,Avar (Batlukh dialect),906,гъветІ,CyrillTrans,tree (cf 08.600),,,ɣʷetʼ,Phonemic
+1-410-26-1,batl1238,Avar (Batlukh dialect),420,рохь,CyrillTrans,"woods, forest",,,rox̌,Phonemic
+1-390-26-1,batl1238,Avar (Batlukh dialect),943,чвахи,CyrillTrans,waterfall,,,čʷaxi,Phonemic
+1-380-26-1,batl1238,Avar (Batlukh dialect),1145,хьуцІ,CyrillTrans,swamp,,,x̌ucʼ,Phonemic
+1-370-26-1,batl1238,Avar (Batlukh dialect),2144,иц,CyrillTrans,"spring, well",,,ic,Phonemic
+1-362-26-1,batl1238,Avar (Batlukh dialect),1982,берело,CyrillTrans,whirlpool,,,berelo,Phonemic
+1-360-26-1,batl1238,Avar (Batlukh dialect),666,гІор,CyrillTrans,"river, stream, brook",,,"ʕor, raq",Phonemic
+1-360-26-3,batl1238,Avar (Batlukh dialect),666,рахъ,CyrillTrans,"river, stream, brook",,,"ʕor, raq",Phonemic
+1-354-26-1,batl1238,Avar (Batlukh dialect),613,тІаде бачІин (ралъад),CyrillTrans,hightide,,,tʼade bačʼin (raɬad),Phonemic
+1-353-26-1,batl1238,Avar (Batlukh dialect),1026,нахъе ин (ралъад),CyrillTrans,lowtide,,,naqe in (raɬad),Phonemic
+1-352-26-1,batl1238,Avar (Batlukh dialect),891,ралъад тІаде бачІин ва нахъе ин,CyrillTrans,tide,,,raɬad tʼade bačʼin wa naqe in,Phonemic
+1-350-26-1,batl1238,Avar (Batlukh dialect),978,калачен,CyrillTrans,wave,,,kalačen,Phonemic
+1-343-26-1,batl1238,Avar (Batlukh dialect),1662,квачІ,CyrillTrans,"headland, point",,,"kwačʼ, raƛ̄ʼul butʼa",Phonemic
+1-343-26-3,batl1238,Avar (Batlukh dialect),1662,ракьул бутІа,CyrillTrans,"headland, point",,,"kwačʼ, raƛ̄ʼul butʼa",Phonemic
+1-340-26-1,batl1238,Avar (Batlukh dialect),663,ралъдал квачІ,CyrillTrans,"gulf, bay",,,raɬdal kwačʼ,Phonemic
+1-330-26-1,batl1238,Avar (Batlukh dialect),624,хІор,CyrillTrans,lake,,,ħor,Phonemic
+1-329-26-1,batl1238,Avar (Batlukh dialect),645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-26-1,batl1238,Avar (Batlukh dialect),1768,полоп,CyrillTrans,foam,,,polop,Phonemic
+1-323-26-1,batl1238,Avar (Batlukh dialect),259,багъагъара,CyrillTrans,rough (of sea),,,baɣaɣara,Phonemic
+1-320-26-1,batl1238,Avar (Batlukh dialect),1474,ралъад,CyrillTrans,sea,,,raɬad,Phonemic
+1-322-26-1,batl1238,Avar (Batlukh dialect),258,гІодобицара,CyrillTrans,calm (of sea),,,ʕodobicara,Phonemic
+1-310-26-1,batl1238,Avar (Batlukh dialect),948,лъин,CyrillTrans,water,,,ɬin,Phonemic
+1-280-26-1,batl1238,Avar (Batlukh dialect),1155,нохъо,CyrillTrans,cave,,,noqo,Phonemic
+1-270-26-1,batl1238,Avar (Batlukh dialect),113,рагІал,CyrillTrans,shore,,,raʕal,Phonemic
+1-260-26-1,batl1238,Avar (Batlukh dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-26-1,batl1238,Avar (Batlukh dialect),622,мучІал,CyrillTrans,island,,,mučʼal,Phonemic
+1-240-26-1,batl1238,Avar (Batlukh dialect),921,гІодлъи,CyrillTrans,valley,,,ʕodɬi,Phonemic
+1-230-26-1,batl1238,Avar (Batlukh dialect),652,майдан,CyrillTrans,"plain, field",,,"maydan, awlaq",Phonemic
+1-230-26-3,batl1238,Avar (Batlukh dialect),652,авлахъ,CyrillTrans,"plain, field",,,"maydan, awlaq",Phonemic
+1-222-26-1,batl1238,Avar (Batlukh dialect),618,кьуро,CyrillTrans,"cliff, precipice",,,ƛ̄ʼuro,Phonemic
+1-220-26-1,batl1238,Avar (Batlukh dialect),2118,мегІер,CyrillTrans,"mountain, hill",,,"meʕer, guħ",Phonemic
+1-220-26-3,batl1238,Avar (Batlukh dialect),2118,гухІ,CyrillTrans,"mountain, hill",,,"meʕer, guħ",Phonemic
+1-214-26-1,batl1238,Avar (Batlukh dialect),640,хІарс,CyrillTrans,mud,,,ħars,Phonemic
+1-215-26-1,batl1238,Avar (Batlukh dialect),671,шали,CyrillTrans,sand,,,šali,Phonemic
+1-213-26-1,batl1238,Avar (Batlukh dialect),2,хІур,CyrillTrans,dust,,,ħur,Phonemic
+1-212-26-1,batl1238,Avar (Batlukh dialect),1228,ракь,CyrillTrans,"earth=ground, soil",,,raƛ̄ʼ,Phonemic
+1-210-26-1,batl1238,Avar (Batlukh dialect),626,ракь,CyrillTrans,"earth, land",,,"raƛ̄ʼ, ulka",Phonemic
+1-210-26-3,batl1238,Avar (Batlukh dialect),626,улка,CyrillTrans,"earth, land",,,"raƛ̄ʼ, ulka",Phonemic
+1-100-26-1,batl1238,Avar (Batlukh dialect),965,дуниял,CyrillTrans,world,,,duniyal,Phonemic
+14-330-26-1,batl1238,Avar (Batlukh dialect),1544,чо-чо нухалъ,CyrillTrans,sometimes,,,čo-čo nuxaɬ,Phonemic
+14-331-26-1,batl1238,Avar (Batlukh dialect),703,кватІичІого,CyrillTrans,soon,,,kʷatʼičʼogo,Phonemic
+14-332-26-1,batl1238,Avar (Batlukh dialect),418,халатбахъара,CyrillTrans,long-time (for a),,,xalatbaqara,Phonemic
+14-340-26-1,batl1238,Avar (Batlukh dialect),1656,кидагІаги,CyrillTrans,never,,,kidaʕagi,Phonemic
+14-350-26-1,batl1238,Avar (Batlukh dialect),204,нахъуги,CyrillTrans,again,,,naqugi,Phonemic
+14-410-26-1,batl1238,Avar (Batlukh dialect),1225,къо,CyrillTrans,day,,,qʼo,Phonemic
+14-420-26-1,batl1238,Avar (Batlukh dialect),1233,къасде мех,CyrillTrans,night,,,qʼasde mex,Phonemic
+14-430-26-1,batl1238,Avar (Batlukh dialect),729,кангьуле мех,CyrillTrans,dawn,,,kanhule mex,Phonemic
+14-440-26-1,batl1238,Avar (Batlukh dialect),1339,радал мех,CyrillTrans,morning,,,radal mex,Phonemic
+14-450-26-1,batl1238,Avar (Batlukh dialect),12,къаде мех,CyrillTrans,"noon, midday",,,qʼade mex,Phonemic
+14-451-26-1,batl1238,Avar (Batlukh dialect),1807,къаде нахъа,CyrillTrans,afternoon,,,qʼade naqa,Phonemic
+14-460-26-1,batl1238,Avar (Batlukh dialect),1629,бакъайнтІа,CyrillTrans,evening,,,baqʼayntʼa,Phonemic
+14-470-26-1,batl1238,Avar (Batlukh dialect),1283,жакъа,CyrillTrans,today,,,žaqʼa,Phonemic
+14-480-26-1,batl1238,Avar (Batlukh dialect),1329,метер,CyrillTrans,tomorrow,,,meter,Phonemic
+14-481-26-1,batl1238,Avar (Batlukh dialect),1179,лейса,CyrillTrans,day-after-tomorrow,,,leysa,Phonemic
+14-490-26-1,batl1238,Avar (Batlukh dialect),1174,шон,CyrillTrans,yesterday,,,šon,Phonemic
+14-491-26-1,batl1238,Avar (Batlukh dialect),1180,шон целекъа,CyrillTrans,day-before-yesterday,,,šon celeqʼa,Phonemic
+14-510-26-1,batl1238,Avar (Batlukh dialect),1353,сагІат,CyrillTrans,hour,,,saʕat,Phonemic
+14-530-26-1,batl1238,Avar (Batlukh dialect),1323,сагІат,CyrillTrans,"clock, timepiece",,,saʕat,Phonemic
+14-610-26-1,batl1238,Avar (Batlukh dialect),1469,анкь,CyrillTrans,week,,,anƛ̄ʼ,Phonemic
+14-620-26-1,batl1238,Avar (Batlukh dialect),1699,гьатІанкъо,CyrillTrans,Sunday,,,hatʼanqʼo,Phonemic
+14-630-26-1,batl1238,Avar (Batlukh dialect),1697,итникъо,CyrillTrans,Monday,,,itniqʼo,Phonemic
+14-640-26-1,batl1238,Avar (Batlukh dialect),1695,талаткъо,CyrillTrans,Tuesday,,,talatqʼo,Phonemic
+14-650-26-1,batl1238,Avar (Batlukh dialect),1694,арбагІкъо,CyrillTrans,Wednesday,,,arbaʕqʼo,Phonemic
+14-660-26-1,batl1238,Avar (Batlukh dialect),1693,хамискъо,CyrillTrans,Thursday,,,xamisqʼo,Phonemic
+14-670-26-1,batl1238,Avar (Batlukh dialect),1692,ружбанкъо,CyrillTrans,Friday,,,ružbanqʼo,Phonemic
+14-680-26-1,batl1238,Avar (Batlukh dialect),1700,шаматкъо,CyrillTrans,Saturday,,,šamatqʼo,Phonemic
+14-710-26-1,batl1238,Avar (Batlukh dialect),1370,моцІ,CyrillTrans,month,,,mocʼ,Phonemic
+14-730-26-1,batl1238,Avar (Batlukh dialect),1226,шон,CyrillTrans,year,,,šon,Phonemic
+14-740-26-1,batl1238,Avar (Batlukh dialect),1471,хашало мех,CyrillTrans,winter,,,"xašalo mex, xašel",Phonemic
+14-740-26-3,batl1238,Avar (Batlukh dialect),1471,хашел,CyrillTrans,winter,,,"xašalo mex, xašel",Phonemic
+14-750-26-1,batl1238,Avar (Batlukh dialect),1537,ихтал мех,CyrillTrans,spring,,,"ixtal mex, ix",Phonemic
+14-750-26-3,batl1238,Avar (Batlukh dialect),1537,их,CyrillTrans,spring,,,"ixtal mex, ix",Phonemic
+14-760-26-1,batl1238,Avar (Batlukh dialect),1342,рии,CyrillTrans,summer,,,"riʔi, riʔimex",Phonemic
+14-760-26-3,batl1238,Avar (Batlukh dialect),1342,риимех,CyrillTrans,summer,,,"riʔi, riʔimex",Phonemic
+14-770-26-1,batl1238,Avar (Batlukh dialect),1276,хашлихъ мех,CyrillTrans,autumn,,,xašliq mex,Phonemic
+14-780-26-1,batl1238,Avar (Batlukh dialect),691,шоналъул заман,CyrillTrans,season,,,šonaɬul zaman,Phonemic
+15-210-26-1,batl1238,Avar (Batlukh dialect),1587,махІ букІине,CyrillTrans,smell (vb intrans),,,maħ bukʼine,Phonemic
+15-212-26-1,batl1238,Avar (Batlukh dialect),375,хъунхъудие,CyrillTrans,sniff,,,qunqudie,Phonemic
+15-220-26-1,batl1238,Avar (Batlukh dialect),1586,махІ сунтІие,CyrillTrans,smell (vb trans),,,maħ suntʼie,Phonemic
+15-250-26-1,batl1238,Avar (Batlukh dialect),376,берчина махІ,CyrillTrans,"fragrant, good smelling",,,berčina maħ,Phonemic
+15-260-26-1,batl1238,Avar (Batlukh dialect),42,квеша махІ,CyrillTrans,"stinking, bad smelling",,,kʷeša maħ,Phonemic
+15-310-26-1,batl1238,Avar (Batlukh dialect),21,тІагІан,CyrillTrans,taste,,,tʼaʕan,Phonemic
+15-350-26-1,batl1238,Avar (Batlukh dialect),717,гьеэна,CyrillTrans,sweet,,,heyena,Phonemic
+15-360-26-1,batl1238,Avar (Batlukh dialect),1091,цІамгІада,CyrillTrans,salty,,,cʼamʕada,Phonemic
+15-370-26-1,batl1238,Avar (Batlukh dialect),887,къвагІа,CyrillTrans,bitter,,,ƛ̄ʼʷaʕa,Phonemic
+15-380-26-1,batl1238,Avar (Batlukh dialect),1906,цІекІа,CyrillTrans,"acid, sour",,,cʼekʼa,Phonemic
+15-390-26-1,batl1238,Avar (Batlukh dialect),70,цІамгІада,CyrillTrans,brackish,,,cʼamʕada,Phonemic
+15-410-26-1,batl1238,Avar (Batlukh dialect),1408,рагІие,CyrillTrans,hear,,,raʕie,Phonemic
+15-420-26-1,batl1238,Avar (Batlukh dialect),1608,гІенекие,CyrillTrans,listen,,,ʕenekie,Phonemic
+15-440-26-1,batl1238,Avar (Batlukh dialect),1811,хъуй,CyrillTrans,"sound, noise",,,quy,Phonemic
+15-450-26-1,batl1238,Avar (Batlukh dialect),377,кІудия(б),CyrillTrans,loud,,,kʼudiya,Phonemic
+15-460-26-1,batl1238,Avar (Batlukh dialect),1314,гІодо вицара,CyrillTrans,"quiet, silence",,,ʕodo wicara,Phonemic
+15-510-26-1,batl1238,Avar (Batlukh dialect),1409,вихьие,CyrillTrans,see,,,wix̌ie,Phonemic
+15-520-26-1,batl1238,Avar (Batlukh dialect),1819,валагьие,CyrillTrans,"look, look at",,,walahie,Phonemic
+15-550-26-1,batl1238,Avar (Batlukh dialect),1039,бихьие,CyrillTrans,show,,,bix̌ie,Phonemic
+15-560-26-1,batl1238,Avar (Batlukh dialect),708,бае,CyrillTrans,shine,,,bae,Phonemic
+15-570-26-1,batl1238,Avar (Batlukh dialect),679,гвангъара,CyrillTrans,bright,,,gʷanɣara,Phonemic
+15-610-26-1,batl1238,Avar (Batlukh dialect),1613,кьер,CyrillTrans,color,,,ƛ̄ʼer,Phonemic
+15-620-26-1,batl1238,Avar (Batlukh dialect),250,гвангъара,CyrillTrans,light (in color),,,gʷanɣara,Phonemic
+15-630-26-1,batl1238,Avar (Batlukh dialect),706,бечІа,CyrillTrans,dark (in color),,,bečʼa,Phonemic
+15-640-26-1,batl1238,Avar (Batlukh dialect),1335,хъахІа,CyrillTrans,white,,,qaħa,Phonemic
+15-650-26-1,batl1238,Avar (Batlukh dialect),163,чІегІера,CyrillTrans,black,,,čʼeʕera,Phonemic
+15-660-26-1,batl1238,Avar (Batlukh dialect),156,багІара,CyrillTrans,red,,,baʕara,Phonemic
+15-670-26-1,batl1238,Avar (Batlukh dialect),837,хъахІила,CyrillTrans,blue,,,qaħila,Phonemic
+15-680-26-1,batl1238,Avar (Batlukh dialect),1425,гІурцина,CyrillTrans,green,,,ʕurcina,Phonemic
+15-690-26-1,batl1238,Avar (Batlukh dialect),1424,тІогьила,CyrillTrans,yellow,,,tʼohila,Phonemic
+15-710-26-1,batl1238,Avar (Batlukh dialect),1892,квер хъвае,CyrillTrans,touch,,,kʷer qʷae,Phonemic
+15-712-26-1,batl1238,Avar (Batlukh dialect),378,къунчІ бае,CyrillTrans,pinch,,,qʼunčʼ bae,Phonemic
+15-720-26-1,batl1238,Avar (Batlukh dialect),1079,сибниги жоялъ асар гьабие,CyrillTrans,feel,,,sibnigi žoyaɬ asar habie,Phonemic
+15-740-26-1,batl1238,Avar (Batlukh dialect),1884,хъачІа,CyrillTrans,hard,,,qačʼa,Phonemic
+15-750-26-1,batl1238,Avar (Batlukh dialect),1856,тамаха,CyrillTrans,soft,,,tamaxa,Phonemic
+15-760-26-1,batl1238,Avar (Batlukh dialect),1923,согІа,CyrillTrans,rough,,,soʕa,Phonemic
+15-770-26-1,batl1238,Avar (Batlukh dialect),1234,битІара,CyrillTrans,smooth,,,bitʼara,Phonemic
+15-780-26-1,batl1238,Avar (Batlukh dialect),1396,бегІера,CyrillTrans,sharp,,,beʕera,Phonemic
+15-790-26-1,batl1238,Avar (Batlukh dialect),379,гІеба,CyrillTrans,"blunt, dull",,,ʕeba,Phonemic
+15-810-26-1,batl1238,Avar (Batlukh dialect),1210,бакІа,CyrillTrans,heavy,,,bakʼa,Phonemic
+15-820-26-1,batl1238,Avar (Batlukh dialect),1052,пагьинкІа,CyrillTrans,light (in weight),,,pahinkʼa,Phonemic
+15-830-26-1,batl1238,Avar (Batlukh dialect),1726,бицара,CyrillTrans,"wet, damp",,,bicara,Phonemic
+15-840-26-1,batl1238,Avar (Batlukh dialect),1398,бакъвара,CyrillTrans,dry,,,baqʼʷara,Phonemic
+15-850-26-1,batl1238,Avar (Batlukh dialect),1286,бухІара,CyrillTrans,hot,,,buħara,Phonemic
+15-851-26-1,batl1238,Avar (Batlukh dialect),1232,хенгьа,CyrillTrans,warm,,,xenha,Phonemic
+15-860-26-1,batl1238,Avar (Batlukh dialect),1287,квачара,CyrillTrans,cold,,,kʷačara,Phonemic
+15-870-26-1,batl1238,Avar (Batlukh dialect),704,бацІада,CyrillTrans,clean,,,bacʼada,Phonemic
+15-880-26-1,batl1238,Avar (Batlukh dialect),1230,чурука,CyrillTrans,"dirty, soiled",,,čuruka,Phonemic
+15-890-26-1,batl1238,Avar (Batlukh dialect),380,букІине гьабура,CyrillTrans,wrinkled,,,bukʼine habura,Phonemic
+16-110-26-1,batl1238,Avar (Batlukh dialect),53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-26-1,batl1238,Avar (Batlukh dialect),1572,вихара,CyrillTrans,"surprised, astonished",,,wixara,Phonemic
+16-180-26-1,batl1238,Avar (Batlukh dialect),720,талихІ,CyrillTrans,"good fortune, luck",,,taliħ,Phonemic
+16-190-26-1,batl1238,Avar (Batlukh dialect),56,талихІгьечІе,CyrillTrans,"misfortune, bad luck",,,taliħhečʼe,Phonemic
+16-230-26-1,batl1238,Avar (Batlukh dialect),1495,талихІа,CyrillTrans,"joyful, glad, happy",,,"taliħa, woxara",Phonemic
+16-230-26-3,batl1238,Avar (Batlukh dialect),1495,вохара,CyrillTrans,"joyful, glad, happy",,,"taliħa, woxara",Phonemic
+16-250-26-1,batl1238,Avar (Batlukh dialect),1355,лелахъие,CyrillTrans,laugh,,,lelaqie,Phonemic
+16-251-26-1,batl1238,Avar (Batlukh dialect),1451,гьимие,CyrillTrans,smile,,,himie,Phonemic
+16-260-26-1,batl1238,Avar (Batlukh dialect),1413,хІае,CyrillTrans,play,,,ħae,Phonemic
+16-270-26-1,batl1238,Avar (Batlukh dialect),923,рокьие,CyrillTrans,love,,,roƛ̄ʼie,Phonemic
+16-290-26-1,batl1238,Avar (Batlukh dialect),578,убач гьабие,CyrillTrans,kiss,,,ubač habie,Phonemic
+16-300-26-1,batl1238,Avar (Batlukh dialect),928,къвал бае,CyrillTrans,embrace,,,qʼʷal bae,Phonemic
+16-310-26-1,batl1238,Avar (Batlukh dialect),1783,унти,CyrillTrans,pain,,,unti,Phonemic
+16-320-26-1,batl1238,Avar (Batlukh dialect),1668,пашмангьи,CyrillTrans,"grief, sorrow, sadness",,,pašmanhi,Phonemic
+16-330-26-1,batl1238,Avar (Batlukh dialect),1000,рахІат хвей,CyrillTrans,"anxiety, worry",,,raħat xʷey,Phonemic
+16-340-26-1,batl1238,Avar (Batlukh dialect),1875,ракІ бухІие,CyrillTrans,"regret, be sorry",,,rakʼ buħie,Phonemic
+16-350-26-1,batl1238,Avar (Batlukh dialect),1141,гурхІи,CyrillTrans,pity,,,gurħi,Phonemic
+16-370-26-1,batl1238,Avar (Batlukh dialect),1839,гІодие,CyrillTrans,"cry, weep",,,ʕodie,Phonemic
+16-380-26-1,batl1238,Avar (Batlukh dialect),1651,магІо,CyrillTrans,tear (noun),,,maʕo,Phonemic
+16-390-26-1,batl1238,Avar (Batlukh dialect),716,угьдие,CyrillTrans,groan,,,uhdie,Phonemic
+16-410-26-1,batl1238,Avar (Batlukh dialect),1607,рихине,CyrillTrans,hate,,,rixine,Phonemic
+16-420-26-1,batl1238,Avar (Batlukh dialect),82,цин бахъине,CyrillTrans,anger,,,cin baqine,Phonemic
+16-440-26-1,batl1238,Avar (Batlukh dialect),40,жахІда,CyrillTrans,"envy, jealousy",,,žaħda,Phonemic
+16-450-26-1,batl1238,Avar (Batlukh dialect),1776,нечей,CyrillTrans,shame (noun),,,nečey,Phonemic
+16-480-26-1,batl1238,Avar (Batlukh dialect),174,чІухІара,CyrillTrans,proud,,,čʼuħara,Phonemic
+16-510-26-1,batl1238,Avar (Batlukh dialect),1779,бахІарчи,CyrillTrans,dare,,,baħarči,Phonemic
+16-520-26-1,batl1238,Avar (Batlukh dialect),3,хІинкъуларе,CyrillTrans,brave,,,ħinqʼulare,Phonemic
+16-530-26-1,batl1238,Avar (Batlukh dialect),781,хІинкъи,CyrillTrans,"fear, fright",,,ħinqʼi,Phonemic
+16-540-26-1,batl1238,Avar (Batlukh dialect),1810,хІинкъи,CyrillTrans,danger,,,ħinqʼi,Phonemic
+16-620-26-1,batl1238,Avar (Batlukh dialect),1784,гъира,CyrillTrans,"desire, want",,,ɣira,Phonemic
+16-622-26-1,batl1238,Avar (Batlukh dialect),1750,хъирсие,CyrillTrans,choose,,,qirsie,Phonemic
+16-630-26-1,batl1238,Avar (Batlukh dialect),1092,боржие,CyrillTrans,hope,,,boržie,Phonemic
+16-650-26-1,batl1238,Avar (Batlukh dialect),100,божара,CyrillTrans,faithful,,,božara,Phonemic
+16-660-26-1,batl1238,Avar (Batlukh dialect),1657,битІара,CyrillTrans,true,,,bitʼara,Phonemic
+16-670-26-1,batl1238,Avar (Batlukh dialect),601,гьерсал личине,CyrillTrans,"lie, tell lies",,,hersal ličine,Phonemic
+16-680-26-1,batl1238,Avar (Batlukh dialect),13,махсаялда хьее,CyrillTrans,deceit,,,maxsayalda x̌eye,Phonemic
+16-690-26-1,batl1238,Avar (Batlukh dialect),1528,тІаса лъугьине,CyrillTrans,forgive,,,tʼasa ɬuhine,Phonemic
+16-710-26-1,batl1238,Avar (Batlukh dialect),1035,лъикІа,CyrillTrans,good,,,ɬikʼa,Phonemic
+16-720-26-1,batl1238,Avar (Batlukh dialect),1292,квеша,CyrillTrans,bad,,,kʷeša,Phonemic
+16-730-26-1,batl1238,Avar (Batlukh dialect),1725,битІара,CyrillTrans,"right, correct",,,bitʼara,Phonemic
+16-740-26-1,batl1238,Avar (Batlukh dialect),1390,мекъа,CyrillTrans,wrong,,,meqʼa,Phonemic
+16-760-26-1,batl1238,Avar (Batlukh dialect),134,мунагь,CyrillTrans,fault,,,munah,Phonemic
+16-770-26-1,batl1238,Avar (Batlukh dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,ɣalatʼ,Phonemic
+16-780-26-1,batl1238,Avar (Batlukh dialect),381,гІайиб гьабие,CyrillTrans,blame,,,ʕayib habie,Phonemic
+16-790-26-1,batl1238,Avar (Batlukh dialect),1687,вецие,CyrillTrans,praise,,,wecie,Phonemic
+16-810-26-1,batl1238,Avar (Batlukh dialect),1427,берчина,CyrillTrans,beautiful,,,berčina,Phonemic
+16-820-26-1,batl1238,Avar (Batlukh dialect),1548,шурукъа,CyrillTrans,ugly,,,šuruqʼa,Phonemic
+16-830-26-1,batl1238,Avar (Batlukh dialect),2018,бахила,CyrillTrans,greedy,,,baxila,Phonemic
+16-840-26-1,batl1238,Avar (Batlukh dialect),1310,гІакъила,CyrillTrans,clever,,,ʕaqʼila,Phonemic
+17-110-26-1,batl1238,Avar (Batlukh dialect),1562,гІакълу,CyrillTrans,mind,,,ʕaqʼlu,Phonemic
+17-130-26-1,batl1238,Avar (Batlukh dialect),1415,ургъие,CyrillTrans,think (= reflect),,,urɣie,Phonemic
+17-140-26-1,batl1238,Avar (Batlukh dialect),1513,ургъие,CyrillTrans,think (= be of the opinion),,,urɣie,Phonemic
+17-150-26-1,batl1238,Avar (Batlukh dialect),1890,боржие,CyrillTrans,believe,,,boržie,Phonemic
+17-160-26-1,batl1238,Avar (Batlukh dialect),1536,бицІие,CyrillTrans,understand,,,bicʼie,Phonemic
+17-170-26-1,batl1238,Avar (Batlukh dialect),1410,гьае,CyrillTrans,know,,,hae,Phonemic
+17-171-26-1,batl1238,Avar (Batlukh dialect),1932,хьола,CyrillTrans,guess,,,x̌ola,Phonemic
+17-172-26-1,batl1238,Avar (Batlukh dialect),117,хвал гьабие,CyrillTrans,imitate,,,xʷal habie,Phonemic
+17-180-26-1,batl1238,Avar (Batlukh dialect),1521,хьвее,CyrillTrans,seem,,,x̌ʷeye,Phonemic
+17-190-26-1,batl1238,Avar (Batlukh dialect),1609,пикру,CyrillTrans,"idea, notion",,,pikru,Phonemic
+17-210-26-1,batl1238,Avar (Batlukh dialect),698,гІакъила,CyrillTrans,wise,,,ʕaqʼila,Phonemic
+17-220-26-1,batl1238,Avar (Batlukh dialect),1518,гІанта,CyrillTrans,"foolish, stupid",,,ʕanta,Phonemic
+17-230-26-1,batl1238,Avar (Batlukh dialect),1899,ахІмакъа,CyrillTrans,"insane, crazy",,,aħmaqʼa,Phonemic
+17-240-26-1,batl1238,Avar (Batlukh dialect),504,гьае гьабие,CyrillTrans,learn,,,hae habie,Phonemic
+17-242-26-1,batl1238,Avar (Batlukh dialect),1929,цІалие,CyrillTrans,study,,,cʼalie,Phonemic
+17-250-26-1,batl1238,Avar (Batlukh dialect),709,малълъие,CyrillTrans,teach,,,maɬ̄ie,Phonemic
+17-260-26-1,batl1238,Avar (Batlukh dialect),753,цІалдухъан,CyrillTrans,pupil,,,cʼalduqan,Phonemic
+17-270-26-1,batl1238,Avar (Batlukh dialect),1038,мугІалим,CyrillTrans,teacher,,,"muʕalim, učitelʲ",Phonemic
+17-270-26-3,batl1238,Avar (Batlukh dialect),1038,учитель,CyrillTrans,teacher,,,"muʕalim, učitelʲ",Phonemic
+17-280-26-1,batl1238,Avar (Batlukh dialect),673,школа,CyrillTrans,school,,,škola,Phonemic
+17-310-26-1,batl1238,Avar (Batlukh dialect),707,ракІалда цІине,CyrillTrans,remember,,,rakʼalda cʼine,Phonemic
+17-320-26-1,batl1238,Avar (Batlukh dialect),1523,ракІалдаса ине,CyrillTrans,forget,,,rakʼaldasa ine,Phonemic
+17-340-26-1,batl1238,Avar (Batlukh dialect),989,бацІада,CyrillTrans,"clear, plain",,,bacʼada,Phonemic
+17-350-26-1,batl1238,Avar (Batlukh dialect),1764,магІна гьечІе,CyrillTrans,obscure,,,maʕna hečʼe,Phonemic
+17-360-26-1,batl1238,Avar (Batlukh dialect),1121,багьголъи,CyrillTrans,secret,,,bahgoɬi,Phonemic
+17-370-26-1,batl1238,Avar (Batlukh dialect),509,ракІ цІара,CyrillTrans,"sure, certain",,,rakʼ cʼara,Phonemic
+17-380-26-1,batl1238,Avar (Batlukh dialect),1626,бицІи гьабие,CyrillTrans,explain,,,bicʼi habie,Phonemic
+17-410-26-1,batl1238,Avar (Batlukh dialect),1162,хият,CyrillTrans,"intention, purpose",,,"niyat, xiyal",Phonemic
+17-410-26-3,batl1238,Avar (Batlukh dialect),1162,хиял,CyrillTrans,"intention, purpose",,,"niyat, xiyal",Phonemic
+17-420-26-1,batl1238,Avar (Batlukh dialect),860,сабаб,CyrillTrans,cause,,,"sabab, ʕila",Phonemic
+17-420-26-3,batl1238,Avar (Batlukh dialect),860,гІила,CyrillTrans,cause,,,"sabab, ʕila",Phonemic
+17-430-26-1,batl1238,Avar (Batlukh dialect),1308,шакдари,CyrillTrans,doubt,,,šakdari,Phonemic
+17-440-26-1,batl1238,Avar (Batlukh dialect),1841,шакдарие,CyrillTrans,suspect,,,šakdarie,Phonemic
+17-441-26-1,batl1238,Avar (Batlukh dialect),1902,кьее,CyrillTrans,betray,,,"ƛ̄ʼeye, wičie",Phonemic
+17-441-26-3,batl1238,Avar (Batlukh dialect),1902,вичие,CyrillTrans,betray,,,"ƛ̄ʼeye, wičie",Phonemic
+17-450-26-1,batl1238,Avar (Batlukh dialect),643,къваригІара жо,CyrillTrans,"need, necessity",,,qʼʷariʕara žo,Phonemic
+17-460-26-1,batl1238,Avar (Batlukh dialect),686,бигьая,CyrillTrans,easy,,,bihaya,Phonemic
+17-470-26-1,batl1238,Avar (Batlukh dialect),584,жахІмата,CyrillTrans,difficult,,,žaħmata,Phonemic
+17-480-26-1,batl1238,Avar (Batlukh dialect),1812,хІал бихьие,CyrillTrans,"try, attempt",,,ħal bix̌ie,Phonemic
+17-490-26-1,batl1238,Avar (Batlukh dialect),488,къагІида,CyrillTrans,"way, manner",,,qʼaʕida,Phonemic
+17-510-26-1,batl1238,Avar (Batlukh dialect),1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-26-1,batl1238,Avar (Batlukh dialect),1157,сай гурени,CyrillTrans,because,,,say gureni,Phonemic
+17-530-26-1,batl1238,Avar (Batlukh dialect),1459,нагагь,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-530-26-3,batl1238,Avar (Batlukh dialect),1459,-ни,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-540-26-1,batl1238,Avar (Batlukh dialect),1014,яги,CyrillTrans,or,,,"yagi, yaɬuni",Phonemic
+17-540-26-3,batl1238,Avar (Batlukh dialect),1014,ялъуни,CyrillTrans,or,,,"yagi, yaɬuni",Phonemic
+17-550-26-1,batl1238,Avar (Batlukh dialect),1268,у,CyrillTrans,"yes, affirmative",,,u,Phonemic
+17-560-26-1,batl1238,Avar (Batlukh dialect),1269,гуро,CyrillTrans,"no, negative",,,guro,Phonemic
+17-610-26-1,batl1238,Avar (Batlukh dialect),1239,кин,CyrillTrans,how?,,,kin,Phonemic
+17-620-26-1,batl1238,Avar (Batlukh dialect),822,кигІан,CyrillTrans,how many?,,,kiʕan,Phonemic
+17-630-26-1,batl1238,Avar (Batlukh dialect),531,чан,CyrillTrans,how much?,,,"čan, kiʕan",Phonemic
+17-630-26-3,batl1238,Avar (Batlukh dialect),531,кигІан,CyrillTrans,how much?,,,"čan, kiʕan",Phonemic
+17-640-26-1,batl1238,Avar (Batlukh dialect),1236,сиб,CyrillTrans,what?,,,sib,Phonemic
+17-650-26-1,batl1238,Avar (Batlukh dialect),1238,кидал,CyrillTrans,when?,,,kidal,Phonemic
+17-660-26-1,batl1238,Avar (Batlukh dialect),1237,ки буге,CyrillTrans,where?,,,"ki buge, kisa",Phonemic
+17-660-26-3,batl1238,Avar (Batlukh dialect),1237,киса,CyrillTrans,where?,,,"ki buge, kisa",Phonemic
+17-670-26-1,batl1238,Avar (Batlukh dialect),727,кина,CyrillTrans,which?,,,kina,Phonemic
+17-680-26-1,batl1238,Avar (Batlukh dialect),1235,су,CyrillTrans,who?,,,su,Phonemic
+17-690-26-1,batl1238,Avar (Batlukh dialect),1270,сай,CyrillTrans,why?,,,say,Phonemic
+18-110-26-1,batl1238,Avar (Batlukh dialect),1363,гьаракь,CyrillTrans,voice,,,haraƛ̄ʼ,Phonemic
+18-120-26-1,batl1238,Avar (Batlukh dialect),1261,кечІ ахІие,CyrillTrans,sing,,,kečʼ aħie,Phonemic
+18-130-26-1,batl1238,Avar (Batlukh dialect),715,ахтІие,CyrillTrans,"shout, cry out",,,axtʼie,Phonemic
+18-150-26-1,batl1238,Avar (Batlukh dialect),55,шуршудие,CyrillTrans,whisper,,,šuršudie,Phonemic
+18-160-26-1,batl1238,Avar (Batlukh dialect),128,гунгудие,CyrillTrans,mumble,,,gungudie,Phonemic
+18-170-26-1,batl1238,Avar (Batlukh dialect),1025,гьестІее,CyrillTrans,whistle,,,hestʼeye,Phonemic
+18-180-26-1,batl1238,Avar (Batlukh dialect),298,цІирцІидие,CyrillTrans,"shriek, screech",,,cʼircʼidie,Phonemic
+18-190-26-1,batl1238,Avar (Batlukh dialect),526,рурудие,CyrillTrans,howl,,,rurudie,Phonemic
+18-210-26-1,batl1238,Avar (Batlukh dialect),1623,кІагьае,CyrillTrans,"speak, talk",,,kʼahae,Phonemic
+18-211-26-1,batl1238,Avar (Batlukh dialect),1866,мацІ бан кІагьае,CyrillTrans,"stutter, stammer",,,macʼ ban kʼahae,Phonemic
+18-220-26-1,batl1238,Avar (Batlukh dialect),1458,абие,CyrillTrans,say,,,abie,Phonemic
+18-221-26-1,batl1238,Avar (Batlukh dialect),1711,хабар бичине,CyrillTrans,tell story,,,xabar bičine,Phonemic
+18-222-26-1,batl1238,Avar (Batlukh dialect),1115,калам,CyrillTrans,speech (make a),,,"kalam, gargar, kʼahay",Phonemic
+18-222-26-3,batl1238,Avar (Batlukh dialect),1115,гаргар,CyrillTrans,speech (make a),,,"kalam, gargar, kʼahay",Phonemic
+18-222-26-5,batl1238,Avar (Batlukh dialect),1115,кІагьай,CyrillTrans,speech (make a),,,"kalam, gargar, kʼahay",Phonemic
+18-230-26-1,batl1238,Avar (Batlukh dialect),48,вуцІине,CyrillTrans,silent (be),,,wucʼine,Phonemic
+18-240-26-1,batl1238,Avar (Batlukh dialect),1307,мацІ,CyrillTrans,language,,,macʼ,Phonemic
+18-260-26-1,batl1238,Avar (Batlukh dialect),1599,рагІи,CyrillTrans,word,,,raʕi,Phonemic
+18-280-26-1,batl1238,Avar (Batlukh dialect),1405,цІар,CyrillTrans,name,,,cʼar,Phonemic
+18-310-26-1,batl1238,Avar (Batlukh dialect),1309,гьикъие,CyrillTrans,"ask (question, inquire)",,,hiqʼie,Phonemic
+18-320-26-1,batl1238,Avar (Batlukh dialect),1275,жаваб кьее,CyrillTrans,answer,,,žawab ƛ̄ʼeye,Phonemic
+18-330-26-1,batl1238,Avar (Batlukh dialect),2022,гьае,CyrillTrans,"admit, confess",,,"hae, mukʼurhie",Phonemic
+18-330-26-3,batl1238,Avar (Batlukh dialect),2022,мукІургьие,CyrillTrans,"admit, confess",,,"hae, mukʼurhie",Phonemic
+18-340-26-1,batl1238,Avar (Batlukh dialect),755,нахъчІвае,CyrillTrans,deny,,,"naqčʼwae, inkar habie",Phonemic
+18-340-26-3,batl1238,Avar (Batlukh dialect),755,инкар гьабие,CyrillTrans,deny,,,"naqčʼwae, inkar habie",Phonemic
+18-350-26-1,batl1238,Avar (Batlukh dialect),1828,гьарие,CyrillTrans,"ask, request",,,harie,Phonemic
+18-360-26-1,batl1238,Avar (Batlukh dialect),1675,рагІи кьее,CyrillTrans,promise,,,raʕi ƛ̄ʼeye,Phonemic
+18-370-26-1,batl1238,Avar (Batlukh dialect),49,нахъ чІвае,CyrillTrans,refuse,,,naq čʼʷae,Phonemic
+18-380-26-1,batl1238,Avar (Batlukh dialect),83,гьукъие,CyrillTrans,forbid,,,huqʼie,Phonemic
+18-390-26-1,batl1238,Avar (Batlukh dialect),299,дагІбадие,CyrillTrans,"rebuke, scold",,,daʕbadie,Phonemic
+18-410-26-1,batl1238,Avar (Batlukh dialect),1084,ахІие,CyrillTrans,call (=summon),,,aħie,Phonemic
+18-420-26-1,batl1238,Avar (Batlukh dialect),180,цІар кьее(абие),CyrillTrans,call (=name),,,cʼar ƛ̄ʼeye(abie),Phonemic
+18-430-26-1,batl1238,Avar (Batlukh dialect),9,гьай гьабие,CyrillTrans,announce,,,hay habie,Phonemic
+18-440-26-1,batl1238,Avar (Batlukh dialect),1192,хІинкъи кьее,CyrillTrans,threaten,,,ħinqʼi ƛ̄ʼeye,Phonemic
+18-450-26-1,batl1238,Avar (Batlukh dialect),101,чІухІдарие,CyrillTrans,boast,,,čʼuħdarie,Phonemic
+18-510-26-1,batl1238,Avar (Batlukh dialect),1672,хъвае,CyrillTrans,write,,,qʷae,Phonemic
+18-520-26-1,batl1238,Avar (Batlukh dialect),724,цІалие,CyrillTrans,read,,,cʼalie,Phonemic
+18-560-26-1,batl1238,Avar (Batlukh dialect),648,кагъат,CyrillTrans,paper,,,kaɣat,Phonemic
+18-570-26-1,batl1238,Avar (Batlukh dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-26-1,batl1238,Avar (Batlukh dialect),963,тІехь,CyrillTrans,book,,,tʼex̌,Phonemic
+18-670-26-1,batl1238,Avar (Batlukh dialect),1045,шагІир,CyrillTrans,poet,,,šaʕir,Phonemic
+18-710-26-1,batl1238,Avar (Batlukh dialect),777,зурма,CyrillTrans,flute,,,zurma,Phonemic
+18-720-26-1,batl1238,Avar (Batlukh dialect),908,къали,CyrillTrans,drum,,,qʼali,Phonemic
+18-730-26-1,batl1238,Avar (Batlukh dialect),2136,накъира,CyrillTrans,"horn, trumpet",,,naqʼira,Phonemic
+18-740-26-1,batl1238,Avar (Batlukh dialect),300,зваргъеро,CyrillTrans,rattle,,,zwarɣero,Phonemic
+19-110-26-1,batl1238,Avar (Batlukh dialect),1300,хІукумат,CyrillTrans,country,,,ħukumat,Phonemic
+19-120-26-1,batl1238,Avar (Batlukh dialect),89,ватІан,CyrillTrans,one's native country,,,watʼan,Phonemic
+19-150-26-1,batl1238,Avar (Batlukh dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-26-1,batl1238,Avar (Batlukh dialect),930,рошо,CyrillTrans,village,,,rošo,Phonemic
+19-170-26-1,batl1238,Avar (Batlukh dialect),1010,гІорхъи,CyrillTrans,boundary,,,ʕorqi,Phonemic
+19-210-26-1,batl1238,Avar (Batlukh dialect),789,гІадамал,CyrillTrans,people (populace),,,"ʕadamal, xalqʼ",Phonemic
+19-210-26-3,batl1238,Avar (Batlukh dialect),789,халкъ,CyrillTrans,people (populace),,,"ʕadamal, xalqʼ",Phonemic
+19-230-26-1,batl1238,Avar (Batlukh dialect),302,наслу,CyrillTrans,"tribe, clan",,,"naslu, xalqʼ, tuxum",Phonemic
+19-230-26-3,batl1238,Avar (Batlukh dialect),302,халкъ,CyrillTrans,"tribe, clan",,,"naslu, xalqʼ, tuxum",Phonemic
+19-230-26-5,batl1238,Avar (Batlukh dialect),302,тухум,CyrillTrans,"tribe, clan",,,"naslu, xalqʼ, tuxum",Phonemic
+19-240-26-1,batl1238,Avar (Batlukh dialect),301,бетІер,CyrillTrans,"chief, chieftain",,,betʼer,Phonemic
+19-250-26-1,batl1238,Avar (Batlukh dialect),1296,тІил,CyrillTrans,"staff, walking stick",,,"tʼil, ʕanša",Phonemic
+19-250-26-3,batl1238,Avar (Batlukh dialect),1296,гІанша,CyrillTrans,"staff, walking stick",,,"tʼil, ʕanša",Phonemic
+19-310-26-1,batl1238,Avar (Batlukh dialect),1846,ханлъи гьабие,CyrillTrans,"rule, govern",,,xanɬi habie,Phonemic
+19-320-26-1,batl1238,Avar (Batlukh dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-320-26-3,batl1238,Avar (Batlukh dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-330-26-1,batl1238,Avar (Batlukh dialect),1306,пачаясул цІузу,CyrillTrans,queen,,,"pačayasui cʼuzu, xanasul cʼuzu",Phonemic
+19-330-26-3,batl1238,Avar (Batlukh dialect),1306,ханасул цІузу,CyrillTrans,queen,,,"pačayasui cʼuzu, xanasul cʼuzu",Phonemic
+19-360-26-1,batl1238,Avar (Batlukh dialect),482,ракІ бацІада,CyrillTrans,"noble, nobleman",,,rakʼ bacʼada,Phonemic
+19-370-26-1,batl1238,Avar (Batlukh dialect),1032,шагьаралъул чи,CyrillTrans,"citizen, subject",,,šaharatul či,Phonemic
+19-410-26-1,batl1238,Avar (Batlukh dialect),383,хІакІимчи,CyrillTrans,master,,,ħakʼimči,Phonemic
+19-420-26-1,batl1238,Avar (Batlukh dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-26-1,batl1238,Avar (Batlukh dialect),255,цеве хІалтІухъан,CyrillTrans,servant,,,cewe ħaltʼuqan,Phonemic
+19-440-26-1,batl1238,Avar (Batlukh dialect),384,эркена гІадан,CyrillTrans,freeman,,,erkena ʕadan,Phonemic
+19-450-26-1,batl1238,Avar (Batlukh dialect),1128,амру гьабие,CyrillTrans,"command, order",,,amru habie,Phonemic
+19-460-26-1,batl1238,Avar (Batlukh dialect),1635,мукІургьие,CyrillTrans,obey,,,mukʼurhie,Phonemic
+19-470-26-1,batl1238,Avar (Batlukh dialect),1003,бицае,CyrillTrans,"let, permit",,,bicae,Phonemic
+19-510-26-1,batl1238,Avar (Batlukh dialect),1325,гьудул,CyrillTrans,"friend, companion",,,hudul,Phonemic
+19-520-26-1,batl1238,Avar (Batlukh dialect),1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-26-1,batl1238,Avar (Batlukh dialect),1332,мадогьал,CyrillTrans,neighbor,,,madohal,Phonemic
+19-550-26-1,batl1238,Avar (Batlukh dialect),791,гьаларе чи,CyrillTrans,stranger,,,halare či,Phonemic
+19-560-26-1,batl1238,Avar (Batlukh dialect),1782,гьобол,CyrillTrans,guest,,,hobol,Phonemic
+19-570-26-1,batl1238,Avar (Batlukh dialect),1545,бетІергьан,CyrillTrans,host,,,betʼerhan,Phonemic
+19-580-26-1,batl1238,Avar (Batlukh dialect),1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-26-1,batl1238,Avar (Batlukh dialect),1550,квалквал гьабие,CyrillTrans,"hinder, prevent",,,kʷalkʷal habie,Phonemic
+19-610-26-1,batl1238,Avar (Batlukh dialect),1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-26-1,batl1238,Avar (Batlukh dialect),1848,дагІба-рагІи,CyrillTrans,"strife, quarrel",,,daʕba-raʕi,Phonemic
+19-630-26-1,batl1238,Avar (Batlukh dialect),2024,нахъаса къотІи,CyrillTrans,"conspiracy, plot",,,naqasa qʼotʼi,Phonemic
+19-650-26-1,batl1238,Avar (Batlukh dialect),1831,данд чІвае,CyrillTrans,meet,,,dand čʼʷae,Phonemic
+19-720-26-1,batl1238,Avar (Batlukh dialect),1610,хъахІба,CyrillTrans,prostitute,,,qaħba,Phonemic
+20-110-26-1,batl1238,Avar (Batlukh dialect),1423,вагъие,CyrillTrans,fight (vb),,,waɣie,Phonemic
+20-130-26-1,batl1238,Avar (Batlukh dialect),579,рагъ,CyrillTrans,"war, battle",,,raɣ,Phonemic
+20-140-26-1,batl1238,Avar (Batlukh dialect),1338,рекъел,CyrillTrans,peace,,,reqʼel,Phonemic
+20-150-26-1,batl1238,Avar (Batlukh dialect),1561,гІаскар,CyrillTrans,army,,,"ʕaskar, armiya",Phonemic
+20-150-26-3,batl1238,Avar (Batlukh dialect),1561,армия,CyrillTrans,army,,,"ʕaskar, armiya",Phonemic
+20-170-26-1,batl1238,Avar (Batlukh dialect),1941,рагъухъан,CyrillTrans,soldier,,,raɣuqan,Phonemic
+20-210-26-1,batl1238,Avar (Batlukh dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-26-1,batl1238,Avar (Batlukh dialect),1763,тІил,CyrillTrans,club,,,tʼil,Phonemic
+20-222-26-1,batl1238,Avar (Batlukh dialect),386,гІастІи,CyrillTrans,battle-ax,,,ʕastʼi,Phonemic
+20-230-26-1,batl1238,Avar (Batlukh dialect),387,гамачІ рехулеб рагъул алат,CyrillTrans,sling,,,gamač rexuleb raɣui alat,Phonemic
+20-240-26-1,batl1238,Avar (Batlukh dialect),994,чІорбутІ,CyrillTrans,bow,,,čʼorbutʼ,Phonemic
+20-250-26-1,batl1238,Avar (Batlukh dialect),977,чІор,CyrillTrans,arrow,,,čʼor,Phonemic
+20-260-26-1,batl1238,Avar (Batlukh dialect),945,хеч,CyrillTrans,spear,,,xeč,Phonemic
+20-270-26-1,batl1238,Avar (Batlukh dialect),1535,хвалчен,CyrillTrans,sword,,,xʷalčen,Phonemic
+20-280-26-1,batl1238,Avar (Batlukh dialect),1566,тумак,CyrillTrans,"gun, cannon",,,"tumak, ʕarada",Phonemic
+20-280-26-3,batl1238,Avar (Batlukh dialect),1566,гІарада,CyrillTrans,"gun, cannon",,,"tumak, ʕarada",Phonemic
+20-310-26-1,batl1238,Avar (Batlukh dialect),1061,ярагъ-матахІ,CyrillTrans,armor (defensive),,,yaraɣ-mataħ,Phonemic
+20-330-26-1,batl1238,Avar (Batlukh dialect),1680,такъия,CyrillTrans,helmet,,,taqʼiya,Phonemic
+20-340-26-1,batl1238,Avar (Batlukh dialect),1064,талкъан,CyrillTrans,shield,,,"talqʼan, cebe k̄ole max̄",Phonemic
+20-340-26-3,batl1238,Avar (Batlukh dialect),1064,цебе кколе махх,CyrillTrans,shield,,,"talqʼan, cebe k̄ole max̄",Phonemic
+20-350-26-1,batl1238,Avar (Batlukh dialect),1938,хъала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-26-1,batl1238,Avar (Batlukh dialect),1671,ши,CyrillTrans,tower,,,ši,Phonemic
+20-410-26-1,batl1238,Avar (Batlukh dialect),783,бергьенгьи,CyrillTrans,victory,,,berhenhi,Phonemic
+20-420-26-1,batl1238,Avar (Batlukh dialect),782,къвей,CyrillTrans,defeat,,,qʼʷey,Phonemic
+20-430-26-1,batl1238,Avar (Batlukh dialect),722,тІаде кІанчІие,CyrillTrans,attack,,,tʼade kʼančʼie,Phonemic
+20-440-26-1,batl1238,Avar (Batlukh dialect),1330,жалго чІуние,CyrillTrans,defend,,,žalgo čʼunie,Phonemic
+20-450-26-1,batl1238,Avar (Batlukh dialect),421,нахъе къае,CyrillTrans,retreat,,,naqe qʼae,Phonemic
+20-460-26-1,batl1238,Avar (Batlukh dialect),1696,квертІе ине,CyrillTrans,surrender,,,kʷertʼe ine,Phonemic
+20-470-26-1,batl1238,Avar (Batlukh dialect),1072,квертІе вешара,CyrillTrans,"captive, prisoner",,,kʷertʼe wešara,Phonemic
+20-471-26-1,batl1238,Avar (Batlukh dialect),1940,хъараул,CyrillTrans,"guard, sentinel",,,qaraul,Phonemic
+20-480-26-1,batl1238,Avar (Batlukh dialect),1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-490-26-1,batl1238,Avar (Batlukh dialect),65,гъорцІел гьабие,CyrillTrans,ambush,,,ɣorcʼel habie,Phonemic
+20-510-26-1,batl1238,Avar (Batlukh dialect),1858,цугІихъан,CyrillTrans,fisherman,,,cuʕiqan,Phonemic
+20-520-26-1,batl1238,Avar (Batlukh dialect),1074,шаша,CyrillTrans,fishhook,,,šaša,Phonemic
+20-530-26-1,batl1238,Avar (Batlukh dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-26-1,batl1238,Avar (Batlukh dialect),388,цугІа хьоле сетка,CyrillTrans,fishnet,,,cuʕa x̌ole setka,Phonemic
+20-550-26-1,batl1238,Avar (Batlukh dialect),389,гьен,CyrillTrans,fish trap,,,hen,Phonemic
+20-610-26-1,batl1238,Avar (Batlukh dialect),1435,чантІе ине,CyrillTrans,hunt,,,čantʼe ine,Phonemic
+20-620-26-1,batl1238,Avar (Batlukh dialect),1172,кьвагьие,CyrillTrans,shoot,,,ƛ̄ʼʷahie,Phonemic
+20-630-26-1,batl1238,Avar (Batlukh dialect),161,гІужда свечІо хутІине,CyrillTrans,miss (target),,,ʕužda sʷečʼo xutʼine,Phonemic
+20-640-26-1,batl1238,Avar (Batlukh dialect),1075,гьен,CyrillTrans,trap (noun),,,hen,Phonemic
+20-650-26-1,batl1238,Avar (Batlukh dialect),1170,хьвее,CyrillTrans,trap (vb),,,x̌ʷeye,Phonemic
+21-110-26-1,batl1238,Avar (Batlukh dialect),1062,къанон,CyrillTrans,law,,,"qʼanon, zakon",Phonemic
+21-110-26-3,batl1238,Avar (Batlukh dialect),1062,закон,CyrillTrans,law,,,"qʼanon, zakon",Phonemic
+21-150-26-1,batl1238,Avar (Batlukh dialect),1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-26-1,batl1238,Avar (Batlukh dialect),1818,суд гьабие,CyrillTrans,judge (vb),,,sud habie,Phonemic
+21-170-26-1,batl1238,Avar (Batlukh dialect),1067,судалъул къотІи,CyrillTrans,judgment,,,sudaɬul qʼotʼi,Phonemic
+21-180-26-1,batl1238,Avar (Batlukh dialect),861,судья,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-26-1,batl1238,Avar (Batlukh dialect),2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-26-1,batl1238,Avar (Batlukh dialect),1034,жавабчи,CyrillTrans,defendant,,,žawabči,Phonemic
+21-230-26-1,batl1238,Avar (Batlukh dialect),1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-26-1,batl1238,Avar (Batlukh dialect),1939,гьедие,CyrillTrans,swear,,,hedie,Phonemic
+21-250-26-1,batl1238,Avar (Batlukh dialect),1712,гьеди,CyrillTrans,oath,,,hedi,Phonemic
+21-310-26-1,batl1238,Avar (Batlukh dialect),1814,гІайб гьабие,CyrillTrans,accuse,,,ʕayb habie,Phonemic
+21-320-26-1,batl1238,Avar (Batlukh dialect),484,какие,CyrillTrans,condemn,,,kakie,Phonemic
+21-330-26-1,batl1238,Avar (Batlukh dialect),983,мекъа вуге абие,CyrillTrans,convict (vb),,,"meqʼa wuge abie, ʕayba wugi abie",Phonemic
+21-330-26-3,batl1238,Avar (Batlukh dialect),983,гІайба вуги абие,CyrillTrans,convict (vb),,,"meqʼa wuge abie, ʕayba wugi abie",Phonemic
+21-340-26-1,batl1238,Avar (Batlukh dialect),988,битІара гьавие,CyrillTrans,acquit,,,bitʼara hawie,Phonemic
+21-350-26-1,batl1238,Avar (Batlukh dialect),1682,мекъа,CyrillTrans,guilty,,,meqʼa,Phonemic
+21-360-26-1,batl1238,Avar (Batlukh dialect),90,мекъа гьечІе,CyrillTrans,innocent,,,meqʼa hečʼe,Phonemic
+21-370-26-1,batl1238,Avar (Batlukh dialect),390,гІадлу,CyrillTrans,"penalty, punishment",,,"ʕadlu, taqʼsir",Phonemic
+21-370-26-3,batl1238,Avar (Batlukh dialect),390,такъсир,CyrillTrans,"penalty, punishment",,,"ʕadlu, taqʼsir",Phonemic
+21-380-26-1,batl1238,Avar (Batlukh dialect),218,гІарчул гІакІа,CyrillTrans,fine,,,ʕarčul ʕakʼa,Phonemic
+21-390-26-1,batl1238,Avar (Batlukh dialect),1281,туснахъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-26-1,batl1238,Avar (Batlukh dialect),845,чІвай,CyrillTrans,murder,,,čʼʷay,Phonemic
+21-430-26-1,batl1238,Avar (Batlukh dialect),902,хъахІбалъи,CyrillTrans,adultery,,,qaħbahi,Phonemic
+21-440-26-1,batl1238,Avar (Batlukh dialect),953,инжит гьайи,CyrillTrans,rape,,,inžit hayi,Phonemic
+21-460-26-1,batl1238,Avar (Batlukh dialect),1889,бухІие,CyrillTrans,arson,,,buħie,Phonemic
+21-470-26-1,batl1238,Avar (Batlukh dialect),1792,гьереси бичи,CyrillTrans,perjury,,,heresi biči,Phonemic
+21-510-26-1,batl1238,Avar (Batlukh dialect),713,бикъие,CyrillTrans,steal,,,biqʼie,Phonemic
+21-520-26-1,batl1238,Avar (Batlukh dialect),1160,цІогьор,CyrillTrans,thief,,,cʼohor,Phonemic
+22-110-26-1,batl1238,Avar (Batlukh dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-26-1,batl1238,Avar (Batlukh dialect),1944,Аллагь,CyrillTrans,God,,,"Allah, Betʼerhan",Phonemic
+22-120-26-3,batl1238,Avar (Batlukh dialect),1944,БетІергьан,CyrillTrans,God,,,"Allah, Betʼerhan",Phonemic
+22-130-26-1,batl1238,Avar (Batlukh dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-26-1,batl1238,Avar (Batlukh dialect),853,михІмар,CyrillTrans,altar,,,miħmar,Phonemic
+22-150-26-1,batl1238,Avar (Batlukh dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-26-1,batl1238,Avar (Batlukh dialect),257,бетІер къулие,CyrillTrans,worship,,,betʼer qʼulie,Phonemic
+22-170-26-1,batl1238,Avar (Batlukh dialect),24,как бае,CyrillTrans,pray,,,kak bae,Phonemic
+22-180-26-1,batl1238,Avar (Batlukh dialect),852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-26-1,batl1238,Avar (Batlukh dialect),1702,илагьия,CyrillTrans,"holy, sacred",,,ilahiya,Phonemic
+22-220-26-1,batl1238,Avar (Batlukh dialect),304,вагІза гьабие,CyrillTrans,preach,,,"waʕza habie, waʕza-nasiħat habie",Phonemic
+22-220-26-3,batl1238,Avar (Batlukh dialect),304,вагІза-насихІат гьабие,CyrillTrans,preach,,,"waʕza habie, waʕza-nasiħat habie",Phonemic
+22-230-26-1,batl1238,Avar (Batlukh dialect),391,разилъие,CyrillTrans,bless,,,"raziɬie, raʕi ƛ̄ʼeye",Phonemic
+22-230-26-3,batl1238,Avar (Batlukh dialect),391,рагІи кьее,CyrillTrans,bless,,,"raziɬie, raʕi ƛ̄ʼeye",Phonemic
+22-240-26-1,batl1238,Avar (Batlukh dialect),8,нагІана кьее,CyrillTrans,curse,,,naʕana ƛ̄ʼeye,Phonemic
+22-260-26-1,batl1238,Avar (Batlukh dialect),303,кІал хьвее,CyrillTrans,fast (vb),,,kʼal x̌ʷeye,Phonemic
+22-310-26-1,batl1238,Avar (Batlukh dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-26-1,batl1238,Avar (Batlukh dialect),878,жужахІ,CyrillTrans,hell,,,žužaħ,Phonemic
+22-350-26-1,batl1238,Avar (Batlukh dialect),1973,сайтІан,CyrillTrans,demon (evil spirit),,,"saytʼan, ilbis",Phonemic
+22-350-26-3,batl1238,Avar (Batlukh dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"saytʼan, ilbis",Phonemic
+22-370-26-1,batl1238,Avar (Batlukh dialect),1945,хъанч,CyrillTrans,idol,,,qanč,Phonemic
+22-420-26-1,batl1238,Avar (Batlukh dialect),392,сихІрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruhi, makruhi",Phonemic
+22-420-26-3,batl1238,Avar (Batlukh dialect),392,макрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruhi, makruhi",Phonemic
+22-430-26-1,batl1238,Avar (Batlukh dialect),2137,хъартай,CyrillTrans,"sorcerer, witch",,,qartay,Phonemic
+22-440-26-1,batl1238,Avar (Batlukh dialect),2138,хІурулгІин,CyrillTrans,"fairy, elf",,,ħurulʕin,Phonemic
+22-450-26-1,batl1238,Avar (Batlukh dialect),1175,гІуждаллъи,CyrillTrans,"ghost, phantom",,,"ʕuždalɬi, cebe tʼami",Phonemic
+22-450-26-3,batl1238,Avar (Batlukh dialect),1175,цебе тІами,CyrillTrans,"ghost, phantom",,,"ʕuždalɬi, cebe tʼami",Phonemic
+22-470-26-1,batl1238,Avar (Batlukh dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

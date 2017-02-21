@@ -28,14 +28,8 @@ alldata <- alldata[nchar(alldata$word)>0,]
 alldata <- alldata[!is.na(alldata$glotto),]
 
 #Take out following langauges:
-#Take out Old chinese
-#Take out classical greek
-#Take out "Unidentified" language (WOLD)
-#Remove classical arabic, Slavic, Mongolic and Suriname Portuguese
-#Remove Elamite_Phonemic?  Ancient language
-# Take out Hindi (non-phonetic script)
-
-deleteLang<-c("Old Chinese","Classical Greek","Unidentified", "Classical Arabic","Slavic","Mongolic","Suriname Portuguese","Hindi")
+deleteLang<-c("Old Chinese","Classical Greek","Unidentified", "Classical Arabic","Slavic","Mongolic","Suriname Portuguese",'Shan',"Nung-Fengshan",'Jamaican Creole (Limonese Creole dialect)',"Seychelles Creole","Proto Polynesian","Ancient Aramaic")
+# (Shan is removed because we also have another dialect of the same glottocode, basically same for Nung-Fengshan)
 
 alldata <- alldata[!alldata$Language %in% deleteLang,]
 
@@ -83,14 +77,14 @@ alldata = rbind(alldata,extraPronounRows)
 
     #split wh-words (their IDs) by language and specify that those that are NA should be treated as O
 
-list.whwords<-tapply(alldata$meaning.id.fixed, alldata$Language, countWhWords)
-list.whwords[is.na(list.whwords)]<-0
+list.whwords<-tapply(alldata$meaning.id.fixed, alldata$glotto, countWhWords)
+#list.whwords[is.na(list.whwords)]<-0
 
     #Remove all languages that have <4 whwords
            #make a list of langauges that have <4 whwords
 nowhwords<-names(list.whwords)[list.whwords<4]
             #exclude nowhwords from alldata
-alldata <- alldata[! alldata$Language %in% nowhwords,]
+alldata <- alldata[! alldata$glotto %in% nowhwords,]
 
 
 
@@ -104,14 +98,14 @@ get_unique_length_meaning<-function(x){
 }
 
   #create variable that splits data by how many languages have the meaning.id
-meaningsbylang<-tapply(alldata$Language, alldata$meaning.id.fixed,get_unique_length_meaning)
+meaningsbylang<-tapply(alldata$glotto, alldata$meaning.id.fixed,get_unique_length_meaning)
 
   #create variable that splits data by how many languages have each wh-word
-whwordsbylang<-tapply(alldata[alldata$meaning.id.fixed %in% whwords,]$Language, alldata[alldata$meaning.id.fixed %in% whwords,]$meaning.id.fixed,get_unique_length_meaning)
+whwordsbylang<-tapply(alldata[alldata$meaning.id.fixed %in% whwords,]$glotto, alldata[alldata$meaning.id.fixed %in% whwords,]$meaning.id.fixed,get_unique_length_meaning)
 
   # define threshold (mean proportion of wh-words available) for word count (id meanings) for langauge to be included.
-min_crit<-min(whwordsbylang/(length(unique(alldata$Language))))
-prop_meaningsbylang<-meaningsbylang/(length(unique(alldata$Language)))
+min_crit<-min(whwordsbylang/(length(unique(alldata$glotto))))
+prop_meaningsbylang<-meaningsbylang/(length(unique(alldata$glotto)))
 
 randommeanings<-as.numeric(names(prop_meaningsbylang)[prop_meaningsbylang>=min_crit])
 
@@ -119,65 +113,41 @@ randommeanings<-as.numeric(names(prop_meaningsbylang)[prop_meaningsbylang>=min_c
 
 alldata <- alldata [alldata$meaning.id.fixed %in% randommeanings | alldata$meaning.id.fixed %in% whwords,]
 
-#Restriction 3. Keep 1 of overlapping IDS/WOLD languages
-#hau  haus1257
-#haw	hawa1245 
-#arn  mapu1245 
-#tha  thai1261 (thai problem)
-#mzh  wich1264
-#wca  yano1262
 
-# Check that all languages have wh words
-
-
-countWhWordsInLanguage <- function(lang.name){
-	ax <- alldata[alldata$Language==lang.name & alldata$meaning.id.fixed %in% whwords,]
-	# make list of words (function from PermutationTools.r)
-	wx <- data.frame.to.matrix(ax)
-	getWordListEntropy(wx)
-}
-
-overlap.lang<-tapply(alldata$Language,alldata$glotto,get_unique_length_meaning)
+overlap.lang<-tapply(alldata$Language,alldata$glotto,function(X){length(unique(X))})
 overlap.glotto <-names(overlap.lang)[overlap.lang>1]
+# 
+# for(glotto.code in overlap.glotto){
+# 	lang.names.associated.with.glotto = unique(alldata[alldata$glotto==glotto.code,]$Language)
+# 	# select only data with this glotto code
+# 	overlapdata <- alldata[alldata$glotto==glotto.code,]
+# 	# and only wh words
+# 	overlapdata.wh <- overlapdata[overlapdata$meaning.id.fixed %in% whwords,]
+# 	
+# 	# get number of concetps (total)
+# 	num.of.concepts <- tapply(overlapdata$meaning.id.fixed,overlapdata$Language,get_unique_length_meaning)
+# 	
+# 	# get number of wh words
+# 	num.of.Wh.words <- tapply(overlapdata.wh$meaning.id.fixed,overlapdata.wh$Language,get_unique_length_meaning)
+# 	
+# 	# get entropy of wh words
+# 	# convert to special data frame
+# 	overlapdata.matrix <- data.frame.to.matrix(overlapdata.wh)
+# 	entropy.wh.words <- getWordListEntropy(overlapdata.matrix)
+# 	
+# 	#rank langs by max number of wh words, then max entropy, then max number of concepts
+# 	rank_langs = order(num.of.Wh.words,entropy.wh.words,num.of.concepts,decreasing=T)
+# 	# choose top ranking language
+# 	language_to_keep = names(num.of.Wh.words)[rank_langs[1]]
+# 		
+# 	# keep only the chosen language
+# 	alldata = alldata[alldata$glotto!=glotto.code | alldata$Language==language_to_keep,]
+# 	
+# 
+# }
 
-for(glotto.code in overlap.glotto){
-	lang.names.associated.with.glotto = unique(alldata[alldata$glotto==glotto.code,]$Language)
-	# select only data with this glotto code
-	overlapdata <- alldata[alldata$glotto==glotto.code,]
-	# and only wh words
-	overlapdata.wh <- overlapdata[overlapdata$meaning.id.fixed %in% whwords,]
-	
-	# get number of concetps (total)
-	num.of.concepts <- tapply(overlapdata$meaning.id.fixed,overlapdata$Language,get_unique_length_meaning)
-	
-	# get number of wh words
-	num.of.Wh.words <- tapply(overlapdata.wh$meaning.id.fixed,overlapdata.wh$Language,get_unique_length_meaning)
-	
-	# get entropy of wh words
-	# convert to special data frame
-	overlapdata.matrix <- data.frame.to.matrix(overlapdata.wh)
-	entropy.wh.words <- getWordListEntropy(overlapdata.matrix)
-	
-	#rank langs by max number of wh words, then max entropy, then max number of concepts
-	rank_langs = order(num.of.Wh.words,entropy.wh.words,num.of.concepts,decreasing=T)
-	# choose top ranking language
-	language_to_keep = names(num.of.Wh.words)[rank_langs[1]]
-		
-	# keep only the chosen language
-	alldata = alldata[alldata$glotto!=glotto.code | alldata$Language==language_to_keep,]
-	
-
-}
-
-#Restriction 4. Delete languages with the same iso/glotto code. Keep the one with MORE ENTRIES for wh-words or LARGEST entropy score
-#hye,nucl1235
-#ese, esee1248
-#nut,nung1283
-#spn,nucl1655
-#shn,shan1277
-# thai1261 problem
-
-
+allx =alldata[,c("Language",'glotto','Source')]
+write.csv(allx[!duplicated(allx),],file = 'LangsInAnalysis.csv', row.names = F, fileEncoding = 'utf-8')
 
 # remove objects we don't need
 loaded.functions <- as.vector(lsf.str())

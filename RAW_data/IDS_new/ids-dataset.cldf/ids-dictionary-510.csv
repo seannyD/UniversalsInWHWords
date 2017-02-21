@@ -1,0 +1,1433 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-510-1,darg1241,Dargwa (Mugi dialect),1852,гьаман,CyrillTrans,often,,,haman,Phonemic
+14-310-510-1,darg1241,Dargwa (Mugi dialect),1676,мурталра,CyrillTrans,always,,,murtalra,Phonemic
+14-290-510-1,darg1241,Dargwa (Mugi dialect),790,хІядурил,CyrillTrans,ready,,,ħaˁduril,Phonemic
+14-280-510-1,darg1241,Dargwa (Mugi dialect),1928,тІашкелзес,CyrillTrans,"cease, stop",,,t’aškelzes,Phonemic
+14-270-510-1,darg1241,Dargwa (Mugi dialect),1766,абирхьахъес,CyrillTrans,finish,,,abirx̌aqes,Phonemic
+14-260-510-1,darg1241,Dargwa (Mugi dialect),743,тамаэс,CyrillTrans,end (temporal),,,tamaʔes,Phonemic
+14-252-510-1,darg1241,Dargwa (Mugi dialect),1186,гІиркъабитІес,CyrillTrans,"last, endure",,,ʕirq̄abit’es,Phonemic
+14-250-510-1,darg1241,Dargwa (Mugi dialect),1806,бехІбихьуд,CyrillTrans,"begin, beginning",,,"beħbix̌ud, beħbix̌es",Phonemic
+14-250-510-3,darg1241,Dargwa (Mugi dialect),1806,бехІбихьес,CyrillTrans,"begin, beginning",,,"beħbix̌ud, beħbix̌es",Phonemic
+14-240-510-1,darg1241,Dargwa (Mugi dialect),425,тІашкІаэс,CyrillTrans,"retard, delay",,,t’ašk’aʔes,Phonemic
+14-230-510-1,darg1241,Dargwa (Mugi dialect),754,къалабаикІес,CyrillTrans,"hasten, hurry",,,q̄alabaik’es,Phonemic
+14-220-510-1,darg1241,Dargwa (Mugi dialect),701,багьлал,CyrillTrans,slow,,,bahlal,Phonemic
+14-210-510-1,darg1241,Dargwa (Mugi dialect),1631,къалабал,CyrillTrans,"swift, fast, quick",,,q̄alabal,Phonemic
+14-190-510-1,darg1241,Dargwa (Mugi dialect),1963,хъярхъли,CyrillTrans,immediately,,,qaˁrqli,Phonemic
+14-180-510-1,darg1241,Dargwa (Mugi dialect),1376,гьенехІе,CyrillTrans,now,,,heneħe,Phonemic
+14-170-510-1,darg1241,Dargwa (Mugi dialect),477,кьай,CyrillTrans,late,,,q’ay,Phonemic
+14-160-510-1,darg1241,Dargwa (Mugi dialect),672,жявли,CyrillTrans,early,,,žaˁwli,Phonemic
+14-150-510-1,darg1241,Dargwa (Mugi dialect),1229,ухъна,CyrillTrans,old,,,uqna,Phonemic
+14-140-510-1,darg1241,Dargwa (Mugi dialect),1207,жагьил,CyrillTrans,young,,,žahil,Phonemic
+14-120-510-1,darg1241,Dargwa (Mugi dialect),1789,жявла замана,CyrillTrans,age,,,"žaˁwla zamana, daršdus",Phonemic
+14-120-510-3,darg1241,Dargwa (Mugi dialect),1789,даршдус,CyrillTrans,age,,,"žaˁwla zamana, daršdus",Phonemic
+14-130-510-1,darg1241,Dargwa (Mugi dialect),1231,сагал,CyrillTrans,new,,,sagal,Phonemic
+14-110-510-1,darg1241,Dargwa (Mugi dialect),892,замана,CyrillTrans,time,,,zamana,Phonemic
+13-440-510-1,darg1241,Dargwa (Mugi dialect),417,хІяйна,CyrillTrans,three times,,,ħaˁyna,Phonemic
+13-420-510-1,darg1241,Dargwa (Mugi dialect),1859,хІябъибил,CyrillTrans,third,,,ħaˁbɁibil,Phonemic
+13-380-510-1,darg1241,Dargwa (Mugi dialect),1546,кІина,CyrillTrans,two times,,,k’ina,Phonemic
+13-370-510-1,darg1241,Dargwa (Mugi dialect),1888,балги,CyrillTrans,pair,,,balgi,Phonemic
+13-360-510-1,darg1241,Dargwa (Mugi dialect),1384,кІиибил,CyrillTrans,second,,,k’iʔibil,Phonemic
+13-350-510-1,darg1241,Dargwa (Mugi dialect),1529,бегІла гІергъиси,CyrillTrans,last,,,beʕla ʕerɣisi,Phonemic
+13-340-510-1,darg1241,Dargwa (Mugi dialect),728,цаибил,CyrillTrans,first,,,caibil,Phonemic
+13-330-510-1,darg1241,Dargwa (Mugi dialect),1580,ца лебсигъуна,CyrillTrans,"alone, only",,,ca lebsiɣuna,Phonemic
+13-240-510-1,darg1241,Dargwa (Mugi dialect),816,багІихъала,CyrillTrans,half,,,baʕiqala,Phonemic
+13-230-510-1,darg1241,Dargwa (Mugi dialect),779,бутІа,CyrillTrans,"part, piece",,,but’a,Phonemic
+13-220-510-1,darg1241,Dargwa (Mugi dialect),1624,бацІил,CyrillTrans,empty,,,bac’il,Phonemic
+13-210-510-1,darg1241,Dargwa (Mugi dialect),1429,бицІибил,CyrillTrans,full,,,bic’ibil,Phonemic
+13-190-510-1,darg1241,Dargwa (Mugi dialect),2023,дахъалгъунти,CyrillTrans,"multitude, crowd",,,daqalɣunti,Phonemic
+13-181-510-1,darg1241,Dargwa (Mugi dialect),1241,цачумал,CyrillTrans,some,,,cačumal,Phonemic
+13-170-510-1,darg1241,Dargwa (Mugi dialect),1242,камли,CyrillTrans,"little (quantity), few",,,kamli,Phonemic
+13-180-510-1,darg1241,Dargwa (Mugi dialect),1881,даъари,CyrillTrans,enough,,,daɁari,Phonemic
+13-160-510-1,darg1241,Dargwa (Mugi dialect),1992,гІинцІали,CyrillTrans,more,,,ʕinc’ali,Phonemic
+13-150-510-1,darg1241,Dargwa (Mugi dialect),1198,дахъал,CyrillTrans,"much, many",,,daqal,Phonemic
+13-140-510-1,darg1241,Dargwa (Mugi dialect),98,гьалли,CyrillTrans,"every, all",,,halli,Phonemic
+13-107-510-1,darg1241,Dargwa (Mugi dialect),1420,дилгІес,CyrillTrans,count,,,dilʕes,Phonemic
+13-106-510-1,darg1241,Dargwa (Mugi dialect),1843,азир,CyrillTrans,thousand,,,azir,Phonemic
+13-105-510-1,darg1241,Dargwa (Mugi dialect),1634,даршал,CyrillTrans,hundred,,,daršal,Phonemic
+13-104-510-1,darg1241,Dargwa (Mugi dialect),1710,гъал,CyrillTrans,twenty,,,ɣal,Phonemic
+13-103-510-1,darg1241,Dargwa (Mugi dialect),1709,вецІнушура,CyrillTrans,fifteen,,,wec’nušura,Phonemic
+13-102-510-1,darg1241,Dargwa (Mugi dialect),1707,вецІнукІира,CyrillTrans,twelve,,,wec’nuk’ira,Phonemic
+13-101-510-1,darg1241,Dargwa (Mugi dialect),1706,вецІнуцара,CyrillTrans,eleven,,,wec’nucara,Phonemic
+13-100-510-1,darg1241,Dargwa (Mugi dialect),1515,вецІал,CyrillTrans,ten,,,wec’al,Phonemic
+13-90-510-1,darg1241,Dargwa (Mugi dialect),1483,урчІемал,CyrillTrans,nine,,,urč’emal,Phonemic
+13-80-510-1,darg1241,Dargwa (Mugi dialect),1705,гехІел,CyrillTrans,eight,,,geħel,Phonemic
+13-70-510-1,darg1241,Dargwa (Mugi dialect),1704,верхІел,CyrillTrans,seven,,,werħel,Phonemic
+13-60-510-1,darg1241,Dargwa (Mugi dialect),1703,уригал,CyrillTrans,six,,,urigal,Phonemic
+13-50-510-1,darg1241,Dargwa (Mugi dialect),493,шел,CyrillTrans,five,,,šel,Phonemic
+13-40-510-1,darg1241,Dargwa (Mugi dialect),1500,авал,CyrillTrans,four,,,awal,Phonemic
+13-20-510-1,darg1241,Dargwa (Mugi dialect),1498,кІел,CyrillTrans,two,,,k’el,Phonemic
+13-30-510-1,darg1241,Dargwa (Mugi dialect),492,хІябал,CyrillTrans,three,,,ħaˁbal,Phonemic
+13-10-510-1,darg1241,Dargwa (Mugi dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-510-1,darg1241,Dargwa (Mugi dialect),1294,лугІи,CyrillTrans,"zero, nothing",,,"luʕi, nul",Phonemic
+13-0-510-3,darg1241,Dargwa (Mugi dialect),1294,нул,CyrillTrans,"zero, nothing",,,"luʕi, nul",Phonemic
+12-930-510-1,darg1241,Dargwa (Mugi dialect),1264,барсбаркьес,CyrillTrans,change,,,barsbarq’es,Phonemic
+12-920-510-1,darg1241,Dargwa (Mugi dialect),1558,мушуран,CyrillTrans,"like, similar",,,mušuran,Phonemic
+12-840-510-1,darg1241,Dargwa (Mugi dialect),1048,тугъ,CyrillTrans,line,,,tuɣ,Phonemic
+12-850-510-1,darg1241,Dargwa (Mugi dialect),1667,тІярхъи,CyrillTrans,hole,,,t’aˁqi,Phonemic
+12-830-510-1,darg1241,Dargwa (Mugi dialect),1845,лебси мер,CyrillTrans,"sphere, ball",,,"lebsi mer, šar",Phonemic
+12-830-510-3,darg1241,Dargwa (Mugi dialect),1845,шар,CyrillTrans,"sphere, ball",,,"lebsi mer, šar",Phonemic
+12-810-510-1,darg1241,Dargwa (Mugi dialect),1395,журуга,CyrillTrans,round,,,žuruga,Phonemic
+12-820-510-1,darg1241,Dargwa (Mugi dialect),1467,мява,CyrillTrans,circle,,,maˁwa,Phonemic
+12-780-510-1,darg1241,Dargwa (Mugi dialect),850,авмуз,CyrillTrans,square,,,awmuz,Phonemic
+12-770-510-1,darg1241,Dargwa (Mugi dialect),1367,къанч,CyrillTrans,cross,,,q̄anč,Phonemic
+12-760-510-1,darg1241,Dargwa (Mugi dialect),192,къянзли,CyrillTrans,corner,,,q̄aˁnzli,Phonemic
+12-750-510-1,darg1241,Dargwa (Mugi dialect),1071,къямкъя,CyrillTrans,hook,,,q̄aˁmq̄aˁ,Phonemic
+12-740-510-1,darg1241,Dargwa (Mugi dialect),297,балкІунил,CyrillTrans,crooked,,,balk’unil,Phonemic
+12-730-510-1,darg1241,Dargwa (Mugi dialect),1404,бархьа,CyrillTrans,straight,,,barx̌a,Phonemic
+12-710-510-1,darg1241,Dargwa (Mugi dialect),1633,бархьил,CyrillTrans,flat,,,barx̌il,Phonemic
+12-680-510-1,darg1241,Dargwa (Mugi dialect),193,дибгІяна,CyrillTrans,shallow,,,dibʕaˁna,Phonemic
+12-670-510-1,darg1241,Dargwa (Mugi dialect),1593,мургьил,CyrillTrans,deep,,,murhil,Phonemic
+12-650-510-1,darg1241,Dargwa (Mugi dialect),2249,букІул,CyrillTrans,thin (in dimension),,,buk’ul,Phonemic
+12-630-510-1,darg1241,Dargwa (Mugi dialect),1244,вабца,CyrillTrans,thick (in dimension),,,wabca,Phonemic
+12-620-510-1,darg1241,Dargwa (Mugi dialect),1267,вярцІа,CyrillTrans,narrow,,,waˁrc’a,Phonemic
+12-610-510-1,darg1241,Dargwa (Mugi dialect),1243,багІал,CyrillTrans,"wide, broad",,,baʕal,Phonemic
+12-590-510-1,darg1241,Dargwa (Mugi dialect),1645,къантІа,CyrillTrans,short,,,q̄ant’a,Phonemic
+12-580-510-1,darg1241,Dargwa (Mugi dialect),711,ахъил,CyrillTrans,tall,,,aqil,Phonemic
+12-570-510-1,darg1241,Dargwa (Mugi dialect),1203,гІиркъал,CyrillTrans,long,,,ʕirq̄al,Phonemic
+12-560-510-1,darg1241,Dargwa (Mugi dialect),1246,биштІал,CyrillTrans,"small, little",,,bišt’al,Phonemic
+12-550-510-1,darg1241,Dargwa (Mugi dialect),1202,хулал,CyrillTrans,"large, big",,,xulal,Phonemic
+12-540-510-1,darg1241,Dargwa (Mugi dialect),1506,унцес,CyrillTrans,measure,,,unces,Phonemic
+12-530-510-1,darg1241,Dargwa (Mugi dialect),479,халабикІес,CyrillTrans,grow,,,xalabik’es,Phonemic
+12-480-510-1,darg1241,Dargwa (Mugi dialect),1595,кьибла,CyrillTrans,south,,,q’ibla,Phonemic
+12-470-510-1,darg1241,Dargwa (Mugi dialect),1598,янцІ,CyrillTrans,north,,,"yanc’, sewer",Phonemic
+12-470-510-3,darg1241,Dargwa (Mugi dialect),1598,север,CyrillTrans,north,,,"yanc’, sewer",Phonemic
+12-460-510-1,darg1241,Dargwa (Mugi dialect),1817,бархІигІела биркIнила,CyrillTrans,west,,,"barħiʕela birk’nila, maɣrib",Phonemic
+12-460-510-3,darg1241,Dargwa (Mugi dialect),1817,магъриб,CyrillTrans,west,,,"barħiʕela birk’nila, maɣrib",Phonemic
+12-450-510-1,darg1241,Dargwa (Mugi dialect),1877,бархІи гьарбикІнила,CyrillTrans,east,,,"barħi harbik’nila, mašriq’",Phonemic
+12-450-510-3,darg1241,Dargwa (Mugi dialect),1877,машрикь,CyrillTrans,east,,,"barħi harbik’nila, mašriq’",Phonemic
+12-430-510-1,darg1241,Dargwa (Mugi dialect),1942,мякьлеб,CyrillTrans,near (adv),,,maˁq’leb,Phonemic
+12-440-510-1,darg1241,Dargwa (Mugi dialect),1406,гьарахълеб,CyrillTrans,far (adv),,,haraqleb,Phonemic
+12-420-510-1,darg1241,Dargwa (Mugi dialect),244,алагъай (шали),CyrillTrans,left (side),,,alaɣay (šali),Phonemic
+12-410-510-1,darg1241,Dargwa (Mugi dialect),1019,лихІил (шали),CyrillTrans,right (side),,,liħil (šali),Phonemic
+12-370-510-1,darg1241,Dargwa (Mugi dialect),1093,дай,CyrillTrans,"middle, center",,,day,Phonemic
+12-360-510-1,darg1241,Dargwa (Mugi dialect),682,бяхІ,CyrillTrans,side,,,baˁħ,Phonemic
+12-353-510-1,darg1241,Dargwa (Mugi dialect),863,дуб,CyrillTrans,edge,,,lub,Phonemic
+12-352-510-1,darg1241,Dargwa (Mugi dialect),372,бехІ,CyrillTrans,pointed,,,beħ,Phonemic
+12-350-510-1,darg1241,Dargwa (Mugi dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-510-1,darg1241,Dargwa (Mugi dialect),690,лутІи,CyrillTrans,bottom,,,lut’i,Phonemic
+12-320-510-1,darg1241,Dargwa (Mugi dialect),721,гІяшли,CyrillTrans,low,,,ʕaˁšli,Phonemic
+12-330-510-1,darg1241,Dargwa (Mugi dialect),1753,хъар,CyrillTrans,top,,,"qar, bek’",Phonemic
+12-330-510-3,darg1241,Dargwa (Mugi dialect),1753,бекІ,CyrillTrans,top,,,"qar, bek’",Phonemic
+12-310-510-1,darg1241,Dargwa (Mugi dialect),1265,ахъли,CyrillTrans,high,,,aqli,Phonemic
+12-270-510-1,darg1241,Dargwa (Mugi dialect),602,дигІянабарес,CyrillTrans,"hide, conceal",,,diʕaˁnabares,Phonemic
+12-250-510-1,darg1241,Dargwa (Mugi dialect),1046,гІикарэс,CyrillTrans,"shut, close",,,ʕikarʔes,Phonemic
+12-260-510-1,darg1241,Dargwa (Mugi dialect),761,кІапІкабес,CyrillTrans,cover,,,k’ap’kabes,Phonemic
+12-240-510-1,darg1241,Dargwa (Mugi dialect),1156,абхьес,CyrillTrans,open,,,abx̌es,Phonemic
+12-232-510-1,darg1241,Dargwa (Mugi dialect),1119,бутІес,CyrillTrans,divide,,,but’es,Phonemic
+12-230-510-1,darg1241,Dargwa (Mugi dialect),1359,дикІарбаркьес,CyrillTrans,separate,,,dik’arbarq’es,Phonemic
+12-220-510-1,darg1241,Dargwa (Mugi dialect),1743,цахІнадирхъес,CyrillTrans,"join, unite",,,caħnadirqes,Phonemic
+12-213-510-1,darg1241,Dargwa (Mugi dialect),1576,бикІадаркьес,CyrillTrans,pile up,,,bik’adarq’es,Phonemic
+12-212-510-1,darg1241,Dargwa (Mugi dialect),371,цаладяхъили ахъдурцес,CyrillTrans,pick up,,,caladaˁqili aqdurces,Phonemic
+12-210-510-1,darg1241,Dargwa (Mugi dialect),7,дичес,CyrillTrans,"collect, gather",,,dičes,Phonemic
+12-170-510-1,darg1241,Dargwa (Mugi dialect),838,гІиладухълуми,CyrillTrans,"remains, left overs",,,ʕiladuqlumi,Phonemic
+12-160-510-1,darg1241,Dargwa (Mugi dialect),987,калгес,CyrillTrans,"remain, stay",,,kalges,Phonemic
+12-150-510-1,darg1241,Dargwa (Mugi dialect),1442,тІашкайзес,CyrillTrans,stand,,,t’aškayzes,Phonemic
+12-140-510-1,darg1241,Dargwa (Mugi dialect),215,кайсес,CyrillTrans,lie down,,,kayses,Phonemic
+12-130-510-1,darg1241,Dargwa (Mugi dialect),1416,кайес,CyrillTrans,sit,,,kayes,Phonemic
+12-120-510-1,darg1241,Dargwa (Mugi dialect),998,кабихьес,CyrillTrans,put,,,kabix̌es,Phonemic
+12-110-510-1,darg1241,Dargwa (Mugi dialect),723,мир,CyrillTrans,place,,,mir,Phonemic
+12-80-510-1,darg1241,Dargwa (Mugi dialect),1591,кирад,CyrillTrans,"up, above",,,kirad,Phonemic
+12-70-510-1,darg1241,Dargwa (Mugi dialect),1485,урад,CyrillTrans,under,,,urad,Phonemic
+12-60-510-1,darg1241,Dargwa (Mugi dialect),762,дурабад,CyrillTrans,outside,,,durabad,Phonemic
+12-50-510-1,darg1241,Dargwa (Mugi dialect),1606,бухІнаб,CyrillTrans,"inside, in",,,buħnab,Phonemic
+12-41-510-1,darg1241,Dargwa (Mugi dialect),1883,гьалаб,CyrillTrans,front,,,halab,Phonemic
+12-40-510-1,darg1241,Dargwa (Mugi dialect),1882,селис биалра гьалаб,CyrillTrans,before,,,selis bialra halab,Phonemic
+12-30-510-1,darg1241,Dargwa (Mugi dialect),2094,уб,CyrillTrans,"down, below",,,ub,Phonemic
+12-20-510-1,darg1241,Dargwa (Mugi dialect),1816,селабиалра,CyrillTrans,beside,,,"selabialra, maˁq’leb",Phonemic
+12-20-510-3,darg1241,Dargwa (Mugi dialect),1816,мякьлеб,CyrillTrans,beside,,,"selabialra, maˁq’leb",Phonemic
+12-11-510-1,darg1241,Dargwa (Mugi dialect),1686,тяйдили,CyrillTrans,behind,,,taˁydili,Phonemic
+12-10-510-1,darg1241,Dargwa (Mugi dialect),1685,гІур,CyrillTrans,after,,,ʕur,Phonemic
+11-920-510-1,darg1241,Dargwa (Mugi dialect),1098,дитІакІес,CyrillTrans,weigh,,,dit’ak’es,Phonemic
+11-910-510-1,darg1241,Dargwa (Mugi dialect),884,дутІес,CyrillTrans,share (distribute),,,dut’es,Phonemic
+11-890-510-1,darg1241,Dargwa (Mugi dialect),1887,дургІел,CyrillTrans,cheap,,,durʕel,Phonemic
+11-880-510-1,darg1241,Dargwa (Mugi dialect),1426,дурхъал,CyrillTrans,"dear (costly, expensive)",,,durqal,Phonemic
+11-870-510-1,darg1241,Dargwa (Mugi dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-510-1,darg1241,Dargwa (Mugi dialect),752,тукен,CyrillTrans,"store, shop",,,tuken,Phonemic
+11-850-510-1,darg1241,Dargwa (Mugi dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-510-1,darg1241,Dargwa (Mugi dialect),1082,дирцан,CyrillTrans,merchant,,,dircan,Phonemic
+11-830-510-1,darg1241,Dargwa (Mugi dialect),2135,вачар-чакар,CyrillTrans,"trade, barter",,,wačar-čakar,Phonemic
+11-820-510-1,darg1241,Dargwa (Mugi dialect),1571,бицес,CyrillTrans,sell,,,bices,Phonemic
+11-810-510-1,darg1241,Dargwa (Mugi dialect),1869,айсес,CyrillTrans,buy,,,ayses,Phonemic
+11-790-510-1,darg1241,Dargwa (Mugi dialect),733,арц даркьарес,CyrillTrans,earn,,,arc darq’ares,Phonemic
+11-780-510-1,darg1241,Dargwa (Mugi dialect),1122,барибси хІяичила хІекь,CyrillTrans,wages,,,baribsi ħaˁičila ħeq’,Phonemic
+11-770-510-1,darg1241,Dargwa (Mugi dialect),856,киблалис сайсес,CyrillTrans,hire,,,kiblalis sayses,Phonemic
+11-690-510-1,darg1241,Dargwa (Mugi dialect),873,гІякІа,CyrillTrans,"tax, tribute",,,ʕaˁk’a,Phonemic
+11-660-510-1,darg1241,Dargwa (Mugi dialect),1081,лугІи,CyrillTrans,"account, reckoning",,,"luʕi, hisab",Phonemic
+11-660-510-3,darg1241,Dargwa (Mugi dialect),1081,гьисаб,CyrillTrans,"account, reckoning",,,"luʕi, hisab",Phonemic
+11-650-510-1,darg1241,Dargwa (Mugi dialect),718,дедлугес,CyrillTrans,pay (vb),,,dedluges,Phonemic
+11-640-510-1,darg1241,Dargwa (Mugi dialect),1914,кибла,CyrillTrans,debt,,,kibla,Phonemic
+11-630-510-1,darg1241,Dargwa (Mugi dialect),369,киблалиувил,CyrillTrans,owe,,,kiblaliuwil,Phonemic
+11-620-510-1,darg1241,Dargwa (Mugi dialect),1823,киблалис сасес,CyrillTrans,borrow,,,kiblalis sases,Phonemic
+11-610-510-1,darg1241,Dargwa (Mugi dialect),582,киблалис дидгес,CyrillTrans,lend,,,kiblalis didges,Phonemic
+11-540-510-1,darg1241,Dargwa (Mugi dialect),1774,кьиркьир,CyrillTrans,"avaricious, stingy",,,q’irq’ir,Phonemic
+11-530-510-1,darg1241,Dargwa (Mugi dialect),1934,садакьачи,CyrillTrans,beggar,,,sadaq’ači,Phonemic
+11-520-510-1,darg1241,Dargwa (Mugi dialect),1674,мискин,CyrillTrans,poor,,,miskin,Phonemic
+11-510-510-1,darg1241,Dargwa (Mugi dialect),712,давлакивил,CyrillTrans,rich,,,dawlakiwil,Phonemic
+11-440-510-1,darg1241,Dargwa (Mugi dialect),1867,мегьла арц,CyrillTrans,coin,,,mehla arc,Phonemic
+11-430-510-1,darg1241,Dargwa (Mugi dialect),1559,арц,CyrillTrans,money,,,arc,Phonemic
+11-340-510-1,darg1241,Dargwa (Mugi dialect),1095,бархьаъес,CyrillTrans,"release, let go",,,barx̌aɁes,Phonemic
+11-330-510-1,darg1241,Dargwa (Mugi dialect),1660,битахъихъес,CyrillTrans,lose,,,bitaqiqes,Phonemic
+11-320-510-1,darg1241,Dargwa (Mugi dialect),719,баркес,CyrillTrans,find,,,barkes,Phonemic
+11-310-510-1,darg1241,Dargwa (Mugi dialect),1468,къяйцІикІес,CyrillTrans,"seek, look for",,,q̄aˁyc’ik’es,Phonemic
+11-280-510-1,darg1241,Dargwa (Mugi dialect),44,зарал бакІихъес,CyrillTrans,"harm, injure, damage",,,zaral bak’iqes,Phonemic
+11-270-510-1,darg1241,Dargwa (Mugi dialect),681,тІутІубиркьес,CyrillTrans,destroy,,,t’ut’ubirq’es,Phonemic
+11-250-510-1,darg1241,Dargwa (Mugi dialect),2008,верцихъес,CyrillTrans,"save, rescue",,,werciqes,Phonemic
+11-240-510-1,darg1241,Dargwa (Mugi dialect),1997,дихІяэс,CyrillTrans,"preserve, look after",,,diħaˁʔes,Phonemic
+11-220-510-1,darg1241,Dargwa (Mugi dialect),85,чарбиркьес,CyrillTrans,give back,,,čarbirq’es,Phonemic
+11-210-510-1,darg1241,Dargwa (Mugi dialect),1447,лугес,CyrillTrans,give,,,"luges, bedluges",Phonemic
+11-210-510-3,darg1241,Dargwa (Mugi dialect),1447,бедлугес,CyrillTrans,give,,,"luges, bedluges",Phonemic
+11-180-510-1,darg1241,Dargwa (Mugi dialect),738,сикІал,CyrillTrans,thing,,,sik’al,Phonemic
+11-170-510-1,darg1241,Dargwa (Mugi dialect),1477,мяхІкамбаркьес,CyrillTrans,"keep, retain",,,maˁħkambarq’es,Phonemic
+11-160-510-1,darg1241,Dargwa (Mugi dialect),694,бакІахъес,CyrillTrans,"get, obtain",,,"bak’aqes, sarxes",Phonemic
+11-160-510-3,darg1241,Dargwa (Mugi dialect),694,сархес,CyrillTrans,"get, obtain",,,"bak’aqes, sarxes",Phonemic
+11-150-510-1,darg1241,Dargwa (Mugi dialect),1448,буцили тІашаэс,CyrillTrans,hold,,,"bucili t’ašaʔes, biħes",Phonemic
+11-150-510-3,darg1241,Dargwa (Mugi dialect),1448,бихІес,CyrillTrans,hold,,,"bucili t’ašaʔes, biħes",Phonemic
+11-140-510-1,darg1241,Dargwa (Mugi dialect),2021,тІалаббарес,CyrillTrans,"seize, grasp",,,"t’alabbares, kases",Phonemic
+11-140-510-3,darg1241,Dargwa (Mugi dialect),2021,касес,CyrillTrans,"seize, grasp",,,"t’alabbares, kases",Phonemic
+11-130-510-1,darg1241,Dargwa (Mugi dialect),1749,арбихес,CyrillTrans,take,,,"arbixes, arbikes",Phonemic
+11-130-510-3,darg1241,Dargwa (Mugi dialect),1749,арбикес,CyrillTrans,take,,,"arbixes, arbikes",Phonemic
+11-120-510-1,darg1241,Dargwa (Mugi dialect),684,буцес,CyrillTrans,"own, possess",,,"buces, kases, weʕ wetes",Phonemic
+11-120-510-3,darg1241,Dargwa (Mugi dialect),684,касес,CyrillTrans,"own, possess",,,"buces, kases, weʕ wetes",Phonemic
+11-120-510-5,darg1241,Dargwa (Mugi dialect),684,вегІ ветес,CyrillTrans,"own, possess",,,"buces, kases, weʕ wetes",Phonemic
+11-110-510-1,darg1241,Dargwa (Mugi dialect),773,бирес,CyrillTrans,have,,,"bires, biʔes",Phonemic
+11-110-510-3,darg1241,Dargwa (Mugi dialect),773,биэс,CyrillTrans,have,,,"bires, biʔes",Phonemic
+10-920-510-1,darg1241,Dargwa (Mugi dialect),1922,урхьу дублики кили бигьес,CyrillTrans,land (vb),,,urx̌u dubliki kili bihes,Phonemic
+10-910-510-1,darg1241,Dargwa (Mugi dialect),610,гамурби тІаишуси мер,CyrillTrans,"harbor, port",,,"gamurbi t’aišusi mer, port",Phonemic
+10-910-510-3,darg1241,Dargwa (Mugi dialect),610,порт,CyrillTrans,"harbor, port",,,"gamurbi t’aišusi mer, port",Phonemic
+10-890-510-1,darg1241,Dargwa (Mugi dialect),1870,лабар,CyrillTrans,anchor,,,labar,Phonemic
+10-880-510-1,darg1241,Dargwa (Mugi dialect),786,ялкан,CyrillTrans,sail (noun),,,yalkan,Phonemic
+10-870-510-1,darg1241,Dargwa (Mugi dialect),184,ялкан тІал,CyrillTrans,mast,,,yalkan t’al,Phonemic
+10-860-510-1,darg1241,Dargwa (Mugi dialect),108,машинала рул,CyrillTrans,rudder,,,mašinala rul,Phonemic
+10-852-510-1,darg1241,Dargwa (Mugi dialect),1849,шалхъали гьакІикІес,CyrillTrans,row (vb),,,šalqali hak’ik’es,Phonemic
+10-851-510-1,darg1241,Dargwa (Mugi dialect),234,шалхъа,CyrillTrans,paddle (noun),,,šalqa,Phonemic
+10-850-510-1,darg1241,Dargwa (Mugi dialect),108,шалхъа,CyrillTrans,oar,,,šalqa,Phonemic
+10-840-510-1,darg1241,Dargwa (Mugi dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-510-1,darg1241,Dargwa (Mugi dialect),416,лутІкІа,CyrillTrans,outrigger,,,lut’k’a,Phonemic
+10-831-510-1,darg1241,Dargwa (Mugi dialect),1970,къаякъ,CyrillTrans,canoe,,,q̄ayaq̄,Phonemic
+10-830-510-1,darg1241,Dargwa (Mugi dialect),1844,лутІкІа,CyrillTrans,boat,,,lut’k’a,Phonemic
+10-810-510-1,darg1241,Dargwa (Mugi dialect),740,гами,CyrillTrans,ship,,,gami,Phonemic
+10-780-510-1,darg1241,Dargwa (Mugi dialect),14,дукІ,CyrillTrans,yoke,,,duk’,Phonemic
+10-770-510-1,darg1241,Dargwa (Mugi dialect),1769,арк,CyrillTrans,axle,,,ark,Phonemic
+10-760-510-1,darg1241,Dargwa (Mugi dialect),710,хІула,CyrillTrans,wheel,,,ħula,Phonemic
+10-750-510-1,darg1241,Dargwa (Mugi dialect),122,уркура,CyrillTrans,"carriage, wagon, cart",,,urkura,Phonemic
+10-740-510-1,darg1241,Dargwa (Mugi dialect),1011,губи,CyrillTrans,bridge,,,gubi,Phonemic
+10-720-510-1,darg1241,Dargwa (Mugi dialect),2252,дякь,CyrillTrans,path,,,daˁq’,Phonemic
+10-710-510-1,darg1241,Dargwa (Mugi dialect),667,гьуни,CyrillTrans,road,,,huni,Phonemic
+10-670-510-1,darg1241,Dargwa (Mugi dialect),1452,какбирес,CyrillTrans,"push, shove",,,kakbires,Phonemic
+10-660-510-1,darg1241,Dargwa (Mugi dialect),367,урчиликив вашес,CyrillTrans,ride,,,určilikiw wašes,Phonemic
+10-650-510-1,darg1241,Dargwa (Mugi dialect),741,машиналикив вашес,CyrillTrans,drive,,,mašinalikiw wašes,Phonemic
+10-640-510-1,darg1241,Dargwa (Mugi dialect),43,бихес,CyrillTrans,lead (vb),,,bixes,Phonemic
+10-630-510-1,darg1241,Dargwa (Mugi dialect),1127,бархьиэс,CyrillTrans,send,,,barx̌iʔes,Phonemic
+10-620-510-1,darg1241,Dargwa (Mugi dialect),692,сабухес,CyrillTrans,bring,,,sabuxes,Phonemic
+10-615-510-1,darg1241,Dargwa (Mugi dialect),415,шайуб бихес,CyrillTrans,carry-underarm,,,šayub bixes,Phonemic
+10-614-510-1,darg1241,Dargwa (Mugi dialect),414,бекІликиб бихес,CyrillTrans,carry-on-head,,,bek’likib bixes,Phonemic
+10-613-510-1,darg1241,Dargwa (Mugi dialect),413,хъарчІайкиб бихес,CyrillTrans,carry-on-shoulder,,,qarč’aykib bixes,Phonemic
+10-612-510-1,darg1241,Dargwa (Mugi dialect),412,някъбакиб бихес,CyrillTrans,carry-in-hand,,,naˁq̄bakib bixes,Phonemic
+10-610-510-1,darg1241,Dargwa (Mugi dialect),700,бихес,CyrillTrans,carry (bear),,,bixes,Phonemic
+10-570-510-1,darg1241,Dargwa (Mugi dialect),749,ухІна архес,CyrillTrans,enter,,,uħna arxes,Phonemic
+10-560-510-1,darg1241,Dargwa (Mugi dialect),1778,гъамбикІес,CyrillTrans,approach,,,ɣambik’es,Phonemic
+10-550-510-1,darg1241,Dargwa (Mugi dialect),1387,сайэс,CyrillTrans,"reach, arrive",,,sayʔes,Phonemic
+10-530-510-1,darg1241,Dargwa (Mugi dialect),1047,кьил дикес,CyrillTrans,pursue,,,q’il dikes,Phonemic
+10-520-510-1,darg1241,Dargwa (Mugi dialect),1085,гІелавадикили вашес,CyrillTrans,follow,,,ʕelawadikili wašes,Phonemic
+10-510-510-1,darg1241,Dargwa (Mugi dialect),956,гьарухъес,CyrillTrans,flee,,,haruqes,Phonemic
+10-491-510-1,darg1241,Dargwa (Mugi dialect),485,кІуибацІес,CyrillTrans,disappear,,,k’uibac’es,Phonemic
+10-490-510-1,darg1241,Dargwa (Mugi dialect),1752,арукьяэс,CyrillTrans,"go away, depart",,,aruq’aˁʔes,Phonemic
+10-481-510-1,darg1241,Dargwa (Mugi dialect),581,чаригьес,CyrillTrans,come back,,,čarihes,Phonemic
+10-480-510-1,darg1241,Dargwa (Mugi dialect),1446,вакІес,CyrillTrans,come,,,wak’es,Phonemic
+10-474-510-1,darg1241,Dargwa (Mugi dialect),1107,дураухъес,CyrillTrans,go out,,,durauqes,Phonemic
+10-473-510-1,darg1241,Dargwa (Mugi dialect),2014,увяхІяxъес,CyrillTrans,go down,,,uwaˁħaˁqes,Phonemic
+10-472-510-1,darg1241,Dargwa (Mugi dialect),1102,кивяхІяхъес,CyrillTrans,climb,,,kiwaˁħaˁqes,Phonemic
+10-470-510-1,darg1241,Dargwa (Mugi dialect),695,укьес,CyrillTrans,go,,,uq’es,Phonemic
+10-471-510-1,darg1241,Dargwa (Mugi dialect),705,кивяхІяхъес,CyrillTrans,go up,,,kiwaˁħaˁqes,Phonemic
+10-460-510-1,darg1241,Dargwa (Mugi dialect),1519,дуцІикІес,CyrillTrans,run,,,duc’ik’es,Phonemic
+10-451-510-1,darg1241,Dargwa (Mugi dialect),366,валкІикІес,CyrillTrans,limp,,,walk’ik’es,Phonemic
+10-450-510-1,darg1241,Dargwa (Mugi dialect),1443,вашес,CyrillTrans,walk,,,wašes,Phonemic
+10-440-510-1,darg1241,Dargwa (Mugi dialect),1879,улхъес,CyrillTrans,dance,,,ulqes,Phonemic
+10-431-510-1,darg1241,Dargwa (Mugi dialect),1135,ларухъес,CyrillTrans,kick,,,laruqes,Phonemic
+10-430-510-1,darg1241,Dargwa (Mugi dialect),1829,тяхІухъес,CyrillTrans,"jump, leap",,,taˁħuqes,Phonemic
+10-420-510-1,darg1241,Dargwa (Mugi dialect),1324,хІусбикІес,CyrillTrans,"slide, slip",,,ħusbik’es,Phonemic
+10-413-510-1,darg1241,Dargwa (Mugi dialect),296,кукирес,CyrillTrans,crouch,,,kukires,Phonemic
+10-412-510-1,darg1241,Dargwa (Mugi dialect),66,кьукьубаки кайзес,CyrillTrans,kneel,,,q’uq’ubaki kayzes,Phonemic
+10-410-510-1,darg1241,Dargwa (Mugi dialect),96,хусбикІес,CyrillTrans,"creep, crawl",,,xusbik’es,Phonemic
+10-380-510-1,darg1241,Dargwa (Mugi dialect),175,дагІбикІес,CyrillTrans,blow,,,daʕbik’es,Phonemic
+10-370-510-1,darg1241,Dargwa (Mugi dialect),1441,урцес,CyrillTrans,fly (vb),,,urces,Phonemic
+10-360-510-1,darg1241,Dargwa (Mugi dialect),787,куртІикІес,CyrillTrans,sail (vb),,,kurt’ik’es,Phonemic
+10-352-510-1,darg1241,Dargwa (Mugi dialect),365,чярхІдикІихъес,CyrillTrans,splash,,,čaˁrħdik’iqes,Phonemic
+10-351-510-1,darg1241,Dargwa (Mugi dialect),119,шинла удиъиркес,CyrillTrans,dive,,,šinla udiɁirkes,Phonemic
+10-350-510-1,darg1241,Dargwa (Mugi dialect),1439,куртІикІес,CyrillTrans,swim,,,kurt’ik’es,Phonemic
+10-340-510-1,darg1241,Dargwa (Mugi dialect),1574,шикив куртІикІес,CyrillTrans,float,,,šikiw kurt’ik’es,Phonemic
+10-330-510-1,darg1241,Dargwa (Mugi dialect),1088,уркаргьес,CyrillTrans,sink,,,urkarhes,Phonemic
+10-320-510-1,darg1241,Dargwa (Mugi dialect),2003,хІиркІкабухъес,CyrillTrans,flow,,,ħirk’kabuqes,Phonemic
+10-260-510-1,darg1241,Dargwa (Mugi dialect),1909,пяхІбаркьес,CyrillTrans,shake,,,paˁħbarq’es,Phonemic
+10-252-510-1,darg1241,Dargwa (Mugi dialect),702,буцес,CyrillTrans,catch (ball),,,buces,Phonemic
+10-250-510-1,darg1241,Dargwa (Mugi dialect),1456,лайбакІес,CyrillTrans,throw,,,laybak’es,Phonemic
+10-240-510-1,darg1241,Dargwa (Mugi dialect),2253,кІантІ-кІантІли картІес,CyrillTrans,drip,,,k’ant’-k’ant’li kart’es,Phonemic
+10-230-510-1,darg1241,Dargwa (Mugi dialect),1280,убяхІбикес,CyrillTrans,fall,,,ubaˁħbikes,Phonemic
+10-220-510-1,darg1241,Dargwa (Mugi dialect),501,ахъбуцес,CyrillTrans,"raise, lift",,,aqbuces,Phonemic
+10-210-510-1,darg1241,Dargwa (Mugi dialect),568,ахъигьес,CyrillTrans,rise,,,"aqihes, kiwaˁħaˁqes",Phonemic
+10-210-510-3,darg1241,Dargwa (Mugi dialect),568,кивяхІяхъес,CyrillTrans,rise,,,"aqihes, kiwaˁħaˁqes",Phonemic
+10-170-510-1,darg1241,Dargwa (Mugi dialect),430,бимхурли цалабикес,CyrillTrans,twist,,,bimxurli calabikes,Phonemic
+10-160-510-1,darg1241,Dargwa (Mugi dialect),808,кІантІарбикІес,CyrillTrans,drop (vb),,,k’ant’arbik’es,Phonemic
+10-150-510-1,darg1241,Dargwa (Mugi dialect),827,лукьихъес,CyrillTrans,roll,,,luq’iqes,Phonemic
+10-140-510-1,darg1241,Dargwa (Mugi dialect),1113,сибигьалра алавбарес,CyrillTrans,"wind, wrap",,,sibihalra alawbares,Phonemic
+10-130-510-1,darg1241,Dargwa (Mugi dialect),1445,бергурси гьаргбарес,CyrillTrans,turn around,,,bergursi hargbares,Phonemic
+10-120-510-1,darg1241,Dargwa (Mugi dialect),1588,ласерхъяс,CyrillTrans,turn over,,,laserqaˁs,Phonemic
+10-110-510-1,darg1241,Dargwa (Mugi dialect),765,шишикІес,CyrillTrans,move,,,šišik’es,Phonemic
+9-890-510-1,darg1241,Dargwa (Mugi dialect),2001,бакес,CyrillTrans,paint (vb),,,bakes,Phonemic
+9-840-510-1,darg1241,Dargwa (Mugi dialect),1979,кьисла уршула,CyrillTrans,chisel,,,q’isla uršula,Phonemic
+9-880-510-1,darg1241,Dargwa (Mugi dialect),647,ранг,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-880-510-3,darg1241,Dargwa (Mugi dialect),647,краска,CyrillTrans,paint (noun),,,"rang, kraska",Phonemic
+9-830-510-1,darg1241,Dargwa (Mugi dialect),1002,халаси сурат,CyrillTrans,statue,,,xalasi surat,Phonemic
+9-820-510-1,darg1241,Dargwa (Mugi dialect),914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-510-1,darg1241,Dargwa (Mugi dialect),228,гъяраэс,CyrillTrans,carve,,,ɣaˁreʔas,Phonemic
+9-791-510-1,darg1241,Dargwa (Mugi dialect),360,гьавалибяхъяхъес,CyrillTrans,fan (vb),,,hawalibaˁqaˁqes,Phonemic
+9-790-510-1,darg1241,Dargwa (Mugi dialect),1971,дагІбашихъан,CyrillTrans,fan (noun),,,"daʕbašiqan, wentilyator",Phonemic
+9-790-510-3,darg1241,Dargwa (Mugi dialect),1971,вентилятор,CyrillTrans,fan (noun),,,"daʕbašiqan, wentilyator",Phonemic
+9-780-510-1,darg1241,Dargwa (Mugi dialect),293,шаршавгъуна сумка,CyrillTrans,netbag,,,šaršawɣuna sumka,Phonemic
+9-771-510-1,darg1241,Dargwa (Mugi dialect),292,кьалтин,CyrillTrans,rug,,,q’altin,Phonemic
+9-770-510-1,darg1241,Dargwa (Mugi dialect),195,чІигІяла хІясир,CyrillTrans,mat,,,č’iʕaˁla ħaˁsir,Phonemic
+9-760-510-1,darg1241,Dargwa (Mugi dialect),1539,корзина,CyrillTrans,basket,,,korzina,Phonemic
+9-750-510-1,darg1241,Dargwa (Mugi dialect),1729,чІянкІи бушес,CyrillTrans,"weave, plait",,,č’aˁnk’i bušes,Phonemic
+9-740-510-1,darg1241,Dargwa (Mugi dialect),604,шиша,CyrillTrans,glass,,,šiša,Phonemic
+9-730-510-1,darg1241,Dargwa (Mugi dialect),1399,гІянчи,CyrillTrans,clay,,,ʕaˁnči,Phonemic
+9-720-510-1,darg1241,Dargwa (Mugi dialect),289,къалип картІес,CyrillTrans,mold (clay etc),,,q̄alip kart’es,Phonemic
+9-710-510-1,darg1241,Dargwa (Mugi dialect),359,тІалхІянала уста,CyrillTrans,potter,,,t’alħaˁnala usta,Phonemic
+9-690-510-1,darg1241,Dargwa (Mugi dialect),358,букІул мигь,CyrillTrans,"tin, tinplate",,,buk’ul mih,Phonemic
+9-680-510-1,darg1241,Dargwa (Mugi dialect),627,гъургъашин,CyrillTrans,lead (noun),,,ɣurɣašin,Phonemic
+9-670-510-1,darg1241,Dargwa (Mugi dialect),621,мегь,CyrillTrans,iron,,,meh,Phonemic
+9-660-510-1,darg1241,Dargwa (Mugi dialect),1825,дубси,CyrillTrans,"copper, bronze",,,"dubsi, žarma",Phonemic
+9-660-510-3,darg1241,Dargwa (Mugi dialect),1825,жарма,CyrillTrans,"copper, bronze",,,"dubsi, žarma",Phonemic
+9-650-510-1,darg1241,Dargwa (Mugi dialect),759,арц,CyrillTrans,silver,,,arc,Phonemic
+9-640-510-1,darg1241,Dargwa (Mugi dialect),1369,мургьи,CyrillTrans,gold,,,murhi,Phonemic
+9-630-510-1,darg1241,Dargwa (Mugi dialect),211,къалип кертІес,CyrillTrans,cast (metals),,,q̄alip kert’es,Phonemic
+9-620-510-1,darg1241,Dargwa (Mugi dialect),1648,убза,CyrillTrans,anvil,,,ubza,Phonemic
+9-610-510-1,darg1241,Dargwa (Mugi dialect),288,гІевдухь,CyrillTrans,forge,,,ʕewdux̌,Phonemic
+9-600-510-1,darg1241,Dargwa (Mugi dialect),1001,мигьла уста,CyrillTrans,"smith, blacksmith",,,mihla usta,Phonemic
+9-560-510-1,darg1241,Dargwa (Mugi dialect),1069,клей,CyrillTrans,glue,,,kley,Phonemic
+9-500-510-1,darg1241,Dargwa (Mugi dialect),502,гІабул,CyrillTrans,nail,,,ʕabul,Phonemic
+9-490-510-1,darg1241,Dargwa (Mugi dialect),1481,кьякь,CyrillTrans,hammer,,,q’aˁq’,Phonemic
+9-480-510-1,darg1241,Dargwa (Mugi dialect),1948,рас,CyrillTrans,saw,,,ras,Phonemic
+9-461-510-1,darg1241,Dargwa (Mugi dialect),46,буркъес,CyrillTrans,hollow out,,,burq̄es,Phonemic
+9-460-510-1,darg1241,Dargwa (Mugi dialect),1501,дирелла гІямибухъ,CyrillTrans,bore,,,dirella ʕaˁmibuq,Phonemic
+9-440-510-1,darg1241,Dargwa (Mugi dialect),1840,тІашбатес,CyrillTrans,build,,,t’ašbates,Phonemic
+9-430-510-1,darg1241,Dargwa (Mugi dialect),1042,кьисла уста,CyrillTrans,carpenter,,,q’isla usta,Phonemic
+9-422-510-1,darg1241,Dargwa (Mugi dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-510-1,darg1241,Dargwa (Mugi dialect),245,бушкала,CyrillTrans,broom,,,buškala,Phonemic
+9-360-510-1,darg1241,Dargwa (Mugi dialect),1453,дирцес,CyrillTrans,wash,,,dirces,Phonemic
+9-370-510-1,darg1241,Dargwa (Mugi dialect),230,ушкес,CyrillTrans,sweep,,,uškes,Phonemic
+9-350-510-1,darg1241,Dargwa (Mugi dialect),1487,картІес,CyrillTrans,pour,,,kart’es,Phonemic
+9-343-510-1,darg1241,Dargwa (Mugi dialect),1414,гІанчІакІес,CyrillTrans,"squeeze, wring",,,ʕanč’ak’es,Phonemic
+9-342-510-1,darg1241,Dargwa (Mugi dialect),1913,гІинибарили чІянтІиэс,CyrillTrans,press,,,ʕinibarili č’aˁnt’iʔes,Phonemic
+9-341-510-1,darg1241,Dargwa (Mugi dialect),357,чекахъес,CyrillTrans,hang up,,,čekaqes,Phonemic
+9-340-510-1,darg1241,Dargwa (Mugi dialect),38,тІинтІбиэс,CyrillTrans,spread out,,,t’int’biʔes,Phonemic
+9-330-510-1,darg1241,Dargwa (Mugi dialect),1455,хусбяхъес,CyrillTrans,pull,,,xusbaˁqes,Phonemic
+9-320-510-1,darg1241,Dargwa (Mugi dialect),214,битІикІес,CyrillTrans,stretch,,,bit’ik’es,Phonemic
+9-310-510-1,darg1241,Dargwa (Mugi dialect),1449,буэс,CyrillTrans,"rub, wipe",,,buʔes,Phonemic
+9-290-510-1,darg1241,Dargwa (Mugi dialect),291,кам архъес,CyrillTrans,"flay, skin",,,kam arqes,Phonemic
+9-280-510-1,darg1241,Dargwa (Mugi dialect),1735,уркІи далкьанес,CyrillTrans,tear,,,urk’i dalq’anes,Phonemic
+9-270-510-1,darg1241,Dargwa (Mugi dialect),1437,битІнадбирес,CyrillTrans,split,,,bit’nadbires,Phonemic
+9-261-510-1,darg1241,Dargwa (Mugi dialect),588,бутІа биубси,CyrillTrans,broken,,,"but’a biubsi, burʕaˁbil",Phonemic
+9-261-510-3,darg1241,Dargwa (Mugi dialect),588,бургІябил,CyrillTrans,broken,,,"but’a biubsi, burʕaˁbil",Phonemic
+9-260-510-1,darg1241,Dargwa (Mugi dialect),680,бургІес,CyrillTrans,break,,,burʕes,Phonemic
+9-250-510-1,darg1241,Dargwa (Mugi dialect),677,бурида,CyrillTrans,ax,,,burida,Phonemic
+9-251-510-1,darg1241,Dargwa (Mugi dialect),290,кархІла,CyrillTrans,adze,,,karħla,Phonemic
+9-240-510-1,darg1241,Dargwa (Mugi dialect),356,лухІцІи,CyrillTrans,"scissors, shears",,,luħc’i,Phonemic
+9-230-510-1,darg1241,Dargwa (Mugi dialect),1352,дис,CyrillTrans,knife,,,dis,Phonemic
+9-223-510-1,darg1241,Dargwa (Mugi dialect),1434,катІес,CyrillTrans,stab,,,kat’es,Phonemic
+9-222-510-1,darg1241,Dargwa (Mugi dialect),155,кирбяхъес,CyrillTrans,"chop, hew",,,kirbaˁqes,Phonemic
+9-221-510-1,darg1241,Dargwa (Mugi dialect),355,кьантІбиркьес,CyrillTrans,cut down,,,q’ant’birq’es,Phonemic
+9-220-510-1,darg1241,Dargwa (Mugi dialect),1432,кьисбаркьес,CyrillTrans,cut,,,q’isbarq’es,Phonemic
+9-211-510-1,darg1241,Dargwa (Mugi dialect),354,хункІане дирхъес,CyrillTrans,pound with fist,,,xunk’ane dirqes,Phonemic
+9-210-510-1,darg1241,Dargwa (Mugi dialect),2133,дяхъес,CyrillTrans,"strike (hit, beat)",,,daˁqes,Phonemic
+9-192-510-1,darg1241,Dargwa (Mugi dialect),760,гІянд,CyrillTrans,knot (noun),,,ʕaˁnd,Phonemic
+9-190-510-1,darg1241,Dargwa (Mugi dialect),1218,тІанил,CyrillTrans,"rope, cord",,,t’anil,Phonemic
+9-180-510-1,darg1241,Dargwa (Mugi dialect),1627,рахаж,CyrillTrans,chain,,,raxaž,Phonemic
+9-161-510-1,darg1241,Dargwa (Mugi dialect),352,баткаэс,CyrillTrans,untie,,,batkaʔes,Phonemic
+9-160-510-1,darg1241,Dargwa (Mugi dialect),1917,бархбигьес,CyrillTrans,"tie, bind",,,barxbihes,Phonemic
+9-150-510-1,darg1241,Dargwa (Mugi dialect),1470,пасбарили биргес,CyrillTrans,fold,,,pasbarili birges,Phonemic
+9-140-510-1,darg1241,Dargwa (Mugi dialect),2004,кьянчІаэс,CyrillTrans,bend,,,q’aˁnč’aʔes,Phonemic
+9-120-510-1,darg1241,Dargwa (Mugi dialect),984,хІянки,CyrillTrans,work,,,ħaˁnki,Phonemic
+9-110-510-1,darg1241,Dargwa (Mugi dialect),2575,баркьес,CyrillTrans,"do, make",,,barq’es,Phonemic
+8-980-510-1,darg1241,Dargwa (Mugi dialect),641,бицІла кьапІа,CyrillTrans,mushroom,,,bic’la q’ap’a,Phonemic
+8-970-510-1,darg1241,Dargwa (Mugi dialect),33,низ,CyrillTrans,nettle,,,niz,Phonemic
+8-941-510-1,darg1241,Dargwa (Mugi dialect),146,чакарла кьяли,CyrillTrans,sugar cane,,,čakarla q’aˁli,Phonemic
+8-940-510-1,darg1241,Dargwa (Mugi dialect),1927,чІигІягалга,CyrillTrans,bamboo,,,"č’iʕaˁgalga, bambuk",Phonemic
+8-940-510-3,darg1241,Dargwa (Mugi dialect),1927,бамбук,CyrillTrans,bamboo,,,"č’iʕaˁgalga, bambuk",Phonemic
+8-931-510-1,darg1241,Dargwa (Mugi dialect),864,къабакъ,CyrillTrans,"pumpkin, squash",,,q̄abaq̄,Phonemic
+8-930-510-1,darg1241,Dargwa (Mugi dialect),411,къабакъ,CyrillTrans,gourd,,,q̄abaq̄,Phonemic
+8-912-510-1,darg1241,Dargwa (Mugi dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-510-1,darg1241,Dargwa (Mugi dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-510-1,darg1241,Dargwa (Mugi dialect),346,инжирла галга,CyrillTrans,banyan,,,inžirla galga,Phonemic
+8-840-510-1,darg1241,Dargwa (Mugi dialect),868,банантала галга,CyrillTrans,banana tree,,,banantala galga,Phonemic
+8-830-510-1,darg1241,Dargwa (Mugi dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-510-1,darg1241,Dargwa (Mugi dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-510-1,darg1241,Dargwa (Mugi dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-510-1,darg1241,Dargwa (Mugi dialect),345,духълумала шин,CyrillTrans,sap,,,duqlumala šin,Phonemic
+8-750-510-1,darg1241,Dargwa (Mugi dialect),1204,кам,CyrillTrans,bark,,,kam,Phonemic
+8-740-510-1,darg1241,Dargwa (Mugi dialect),409,хІябкьяран кьяли,CyrillTrans,forked branch,,,ħaˁbq’aˁran q’aˁli,Phonemic
+8-730-510-1,darg1241,Dargwa (Mugi dialect),344,ар галгала,CyrillTrans,tree trunk,,,ar galgala,Phonemic
+8-720-510-1,darg1241,Dargwa (Mugi dialect),241,хъандахъ,CyrillTrans,tree stump,,,qandaq,Phonemic
+8-691-510-1,darg1241,Dargwa (Mugi dialect),1124,къалиян,CyrillTrans,pipe,,,q̄aliyan,Phonemic
+8-690-510-1,darg1241,Dargwa (Mugi dialect),1689,танбакулла гав,CyrillTrans,smoke (tobacco),,,tanbakulla gaw,Phonemic
+8-680-510-1,darg1241,Dargwa (Mugi dialect),974,танбаку,CyrillTrans,tobacco,,,tanbaku,Phonemic
+8-670-510-1,darg1241,Dargwa (Mugi dialect),343,тІутІила кьада,CyrillTrans,vine,,,t’ut’ila q’ada,Phonemic
+8-660-510-1,darg1241,Dargwa (Mugi dialect),968,мигла цІедеш,CyrillTrans,acorn,,,migla c’edeš,Phonemic
+8-650-510-1,darg1241,Dargwa (Mugi dialect),1915,юлка,CyrillTrans,fir,,,yulka,Phonemic
+8-640-510-1,darg1241,Dargwa (Mugi dialect),1740,яда,CyrillTrans,pine,,,yada,Phonemic
+8-630-510-1,darg1241,Dargwa (Mugi dialect),1855,махъ,CyrillTrans,birch,,,maq,Phonemic
+8-620-510-1,darg1241,Dargwa (Mugi dialect),1950,пурпи,CyrillTrans,beech,,,purpi,Phonemic
+8-610-510-1,darg1241,Dargwa (Mugi dialect),644,миг,CyrillTrans,oak,,,mig,Phonemic
+8-600-510-1,darg1241,Dargwa (Mugi dialect),906,галга,CyrillTrans,tree,,,galga,Phonemic
+8-570-510-1,darg1241,Dargwa (Mugi dialect),239,вава,CyrillTrans,flower,,,wawa,Phonemic
+8-560-510-1,darg1241,Dargwa (Mugi dialect),628,кІапІи,CyrillTrans,leaf,,,k’ap’i,Phonemic
+8-550-510-1,darg1241,Dargwa (Mugi dialect),1531,кьяли,CyrillTrans,branch,,,q’aˁli,Phonemic
+8-540-510-1,darg1241,Dargwa (Mugi dialect),670,мякь,CyrillTrans,root,,,maˁq’,Phonemic
+8-531-510-1,darg1241,Dargwa (Mugi dialect),1486,адикьес,CyrillTrans,plant (vb),,,"adiq’es, dak’aqes",Phonemic
+8-531-510-3,darg1241,Dargwa (Mugi dialect),1486,дакІахъес,CyrillTrans,plant (vb),,,"adiq’es, dak’aqes",Phonemic
+8-520-510-1,darg1241,Dargwa (Mugi dialect),342,мура,CyrillTrans,hay,,,mura,Phonemic
+8-530-510-1,darg1241,Dargwa (Mugi dialect),653,бухъала,CyrillTrans,plant (noun),,,buqala,Phonemic
+8-510-510-1,darg1241,Dargwa (Mugi dialect),606,кьар,CyrillTrans,grass,,,q’ar,Phonemic
+8-480-510-1,darg1241,Dargwa (Mugi dialect),926,биринж,CyrillTrans,rice,,,birinž,Phonemic
+8-470-510-1,darg1241,Dargwa (Mugi dialect),506,хІяжланкІи,CyrillTrans,"maize, corn",,,ħaˁžlank’i,Phonemic
+8-460-510-1,darg1241,Dargwa (Mugi dialect),60,нихъя,CyrillTrans,oats,,,niqaˁ,Phonemic
+8-450-510-1,darg1241,Dargwa (Mugi dialect),23,сусул,CyrillTrans,rye,,,susul,Phonemic
+8-430-510-1,darg1241,Dargwa (Mugi dialect),1077,цІули,CyrillTrans,wheat,,,c’uli,Phonemic
+8-440-510-1,darg1241,Dargwa (Mugi dialect),932,мухъи,CyrillTrans,barley,,,muqi,Phonemic
+8-420-510-1,darg1241,Dargwa (Mugi dialect),605,анкІи,CyrillTrans,"grain (barley, oats etc)",,,ank’i,Phonemic
+8-410-510-1,darg1241,Dargwa (Mugi dialect),611,сабухъ,CyrillTrans,"crop, harvest",,,sabuq,Phonemic
+8-350-510-1,darg1241,Dargwa (Mugi dialect),223,дургІела,CyrillTrans,threshing-floor,,,durʕela,Phonemic
+8-340-510-1,darg1241,Dargwa (Mugi dialect),285,дилкьана,CyrillTrans,thresh,,,dilq’ana,Phonemic
+8-330-510-1,darg1241,Dargwa (Mugi dialect),2132,мирш,CyrillTrans,"sickle, scythe",,,"mirš, q̄aˁlq̄aˁ",Phonemic
+8-330-510-3,darg1241,Dargwa (Mugi dialect),2132,къялкъя,CyrillTrans,"sickle, scythe",,,"mirš, q̄aˁlq̄aˁ",Phonemic
+8-320-510-1,darg1241,Dargwa (Mugi dialect),190,бирдарес,CyrillTrans,"mow, reap",,,"birdares, iršes",Phonemic
+8-320-510-3,darg1241,Dargwa (Mugi dialect),190,иршес,CyrillTrans,"mow, reap",,,"birdares, iršes",Phonemic
+8-311-510-1,darg1241,Dargwa (Mugi dialect),714,гьи,CyrillTrans,seed,,,hi,Phonemic
+8-310-510-1,darg1241,Dargwa (Mugi dialect),748,белгІес,CyrillTrans,sow,,,belʕes,Phonemic
+8-270-510-1,darg1241,Dargwa (Mugi dialect),338,билла,CyrillTrans,rake,,,billa,Phonemic
+8-260-510-1,darg1241,Dargwa (Mugi dialect),337,кьяя,CyrillTrans,fork,,,q’aˁya,Phonemic
+8-250-510-1,darg1241,Dargwa (Mugi dialect),284,матІикІ,CyrillTrans,hoe,,,mat’ik’,Phonemic
+8-240-510-1,darg1241,Dargwa (Mugi dialect),1901,кахи,CyrillTrans,shovel,,,kaxi,Phonemic
+8-230-510-1,darg1241,Dargwa (Mugi dialect),1176,кІатІа,CyrillTrans,spade,,,k’at’a,Phonemic
+8-212-510-1,darg1241,Dargwa (Mugi dialect),1794,гъарш,CyrillTrans,furrow,,,ɣarš,Phonemic
+8-220-510-1,darg1241,Dargwa (Mugi dialect),1418,хъехІбарес,CyrillTrans,dig,,,qeħbares,Phonemic
+8-210-510-1,darg1241,Dargwa (Mugi dialect),1921,укъкъес,CyrillTrans,plow,,,uq̄q̄es,Phonemic
+8-170-510-1,darg1241,Dargwa (Mugi dialect),2002,татаул,CyrillTrans,ditch,,,tataul,Phonemic
+8-160-510-1,darg1241,Dargwa (Mugi dialect),1690,забур,CyrillTrans,fence,,,zabur,Phonemic
+8-150-510-1,darg1241,Dargwa (Mugi dialect),1541,укъкъес,CyrillTrans,"cultivate, till",,,uq̄q̄es,Phonemic
+8-130-510-1,darg1241,Dargwa (Mugi dialect),586,анхъ,CyrillTrans,garden,,,anq,Phonemic
+8-120-510-1,darg1241,Dargwa (Mugi dialect),212,хъу,CyrillTrans,field (for cultivation),,,qu,Phonemic
+8-110-510-1,darg1241,Dargwa (Mugi dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-510-1,darg1241,Dargwa (Mugi dialect),901,гІянжилизибад тІашбатурси,CyrillTrans,adobe,,,ʕaˁnžilizibad t’ašbatursi,Phonemic
+7-630-510-1,darg1241,Dargwa (Mugi dialect),224,кирач,CyrillTrans,mortar,,,kirač,Phonemic
+7-620-510-1,darg1241,Dargwa (Mugi dialect),1006,керпич,CyrillTrans,brick,,,kerpič,Phonemic
+7-580-510-1,darg1241,Dargwa (Mugi dialect),876,арсавар,CyrillTrans,arch,,,arsawar,Phonemic
+7-610-510-1,darg1241,Dargwa (Mugi dialect),877,лацла уста,CyrillTrans,mason,,,lacla usta,Phonemic
+7-570-510-1,darg1241,Dargwa (Mugi dialect),1227,уркьули,CyrillTrans,board,,,urq’uli,Phonemic
+7-560-510-1,darg1241,Dargwa (Mugi dialect),281,тІал,CyrillTrans,"post, pole",,,t’al,Phonemic
+7-550-510-1,darg1241,Dargwa (Mugi dialect),1132,байгьарил зехин,CyrillTrans,beam,,,bayharil zexin,Phonemic
+7-540-510-1,darg1241,Dargwa (Mugi dialect),829,хІябдирхьа,CyrillTrans,rafter,,,ħaˁbdirx̌a,Phonemic
+7-530-510-1,darg1241,Dargwa (Mugi dialect),280,зихин,CyrillTrans,ridgepole,,,zixin,Phonemic
+7-520-510-1,darg1241,Dargwa (Mugi dialect),279,чІигІала хъалк,CyrillTrans,thatch,,,č’iʕala qalk,Phonemic
+7-510-510-1,darg1241,Dargwa (Mugi dialect),769,пурха,CyrillTrans,roof,,,purxa,Phonemic
+7-480-510-1,darg1241,Dargwa (Mugi dialect),205,мукьлукь,CyrillTrans,trough,,,muq’luq’,Phonemic
+7-470-510-1,darg1241,Dargwa (Mugi dialect),745,дярхІ,CyrillTrans,shelf,,,daˁrħ,Phonemic
+7-460-510-1,darg1241,Dargwa (Mugi dialect),1273,шям,CyrillTrans,candle,,,šaˁm,Phonemic
+7-450-510-1,darg1241,Dargwa (Mugi dialect),2131,лампочка,CyrillTrans,"lamp, torch",,,"lampočka, čiraq",Phonemic
+7-450-510-3,darg1241,Dargwa (Mugi dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,"lampočka, čiraq",Phonemic
+7-440-510-1,darg1241,Dargwa (Mugi dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-510-1,darg1241,Dargwa (Mugi dialect),1476,стул,CyrillTrans,chair,,,"stul, uta",Phonemic
+7-430-510-3,darg1241,Dargwa (Mugi dialect),1476,ута,CyrillTrans,chair,,,"stul, uta",Phonemic
+7-422-510-1,darg1241,Dargwa (Mugi dialect),806,адияр,CyrillTrans,blanket,,,adiyar,Phonemic
+7-421-510-1,darg1241,Dargwa (Mugi dialect),1044,гІанила,CyrillTrans,pillow,,,ʕanila,Phonemic
+7-420-510-1,darg1241,Dargwa (Mugi dialect),1663,кІарават,CyrillTrans,bed,,,k’arawat,Phonemic
+7-370-510-1,darg1241,Dargwa (Mugi dialect),1464,канци,CyrillTrans,ladder,,,kanci,Phonemic
+7-330-510-1,darg1241,Dargwa (Mugi dialect),1305,турба,CyrillTrans,chimney,,,turba,Phonemic
+7-320-510-1,darg1241,Dargwa (Mugi dialect),859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-510-1,darg1241,Dargwa (Mugi dialect),185,къаркъа,CyrillTrans,fireplace,,,q̄arq̄a,Phonemic
+7-270-510-1,darg1241,Dargwa (Mugi dialect),933,бяхІ,CyrillTrans,wall,,,baˁħ,Phonemic
+7-260-510-1,darg1241,Dargwa (Mugi dialect),1632,ванза,CyrillTrans,floor,,,wanza,Phonemic
+7-250-510-1,darg1241,Dargwa (Mugi dialect),1375,уркьлай,CyrillTrans,window,,,urq’lay,Phonemic
+7-240-510-1,darg1241,Dargwa (Mugi dialect),1472,унцибхьала,CyrillTrans,key,,,uncibx̌ala,Phonemic
+7-231-510-1,darg1241,Dargwa (Mugi dialect),1012,гимицала,CyrillTrans,"latch, door-bolt",,,gimicala,Phonemic
+7-230-510-1,darg1241,Dargwa (Mugi dialect),1596,мигь,CyrillTrans,lock (noun),,,mih,Phonemic
+7-221-510-1,darg1241,Dargwa (Mugi dialect),80,шулумца,CyrillTrans,"doorpost, jamb",,,šulumca,Phonemic
+7-210-510-1,darg1241,Dargwa (Mugi dialect),1450,хъали,CyrillTrans,room,,,qali,Phonemic
+7-220-510-1,darg1241,Dargwa (Mugi dialect),1567,унца,CyrillTrans,"door, gate",,,"unca, irqaˁy",Phonemic
+7-220-510-3,darg1241,Dargwa (Mugi dialect),1567,ирхъяй,CyrillTrans,"door, gate",,,"unca, irqaˁy",Phonemic
+7-180-510-1,darg1241,Dargwa (Mugi dialect),335,хъали,CyrillTrans,meeting house,,,"qali, klub",Phonemic
+7-180-510-3,darg1241,Dargwa (Mugi dialect),335,клуб,CyrillTrans,meeting house,,,"qali, klub",Phonemic
+7-170-510-1,darg1241,Dargwa (Mugi dialect),334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-510-1,darg1241,Dargwa (Mugi dialect),408,адамтала хъали,CyrillTrans,men's house,,,adamtala qali,Phonemic
+7-150-510-1,darg1241,Dargwa (Mugi dialect),736,гІяйни,CyrillTrans,"yard, court",,,ʕaˁyni,Phonemic
+7-140-510-1,darg1241,Dargwa (Mugi dialect),1316,чятир,CyrillTrans,tent,,,čaˁtir,Phonemic
+7-131-510-1,darg1241,Dargwa (Mugi dialect),403,дачала хъали,CyrillTrans,garden-house,,,dačala qali,Phonemic
+7-130-510-1,darg1241,Dargwa (Mugi dialect),1678,биштІал хъали,CyrillTrans,hut,,,bišt’al qali,Phonemic
+7-120-510-1,darg1241,Dargwa (Mugi dialect),1252,хъали,CyrillTrans,house,,,qali,Phonemic
+7-110-510-1,darg1241,Dargwa (Mugi dialect),363,хІеригьес,CyrillTrans,"dwell, live",,,ħerihes,Phonemic
+6-960-510-1,darg1241,Dargwa (Mugi dialect),1171,дахІинцІала,CyrillTrans,mirror,,,daħinc’ala,Phonemic
+6-950-510-1,darg1241,Dargwa (Mugi dialect),788,сегІпун,CyrillTrans,soap,,,ceʕpun,Phonemic
+6-940-510-1,darg1241,Dargwa (Mugi dialect),1926,мяз,CyrillTrans,ointment,,,maˁz,Phonemic
+6-930-510-1,darg1241,Dargwa (Mugi dialect),151,муцІур лугІян,CyrillTrans,razor,,,muc’ur luʕaˁn,Phonemic
+6-921-510-1,darg1241,Dargwa (Mugi dialect),333,кьачІи,CyrillTrans,braid,,,q’ač’i,Phonemic
+6-920-510-1,darg1241,Dargwa (Mugi dialect),1821,дурега,CyrillTrans,brush,,,durega,Phonemic
+6-910-510-1,darg1241,Dargwa (Mugi dialect),1475,калтІан дурега,CyrillTrans,comb,,,kalt’an durega,Phonemic
+6-820-510-1,darg1241,Dargwa (Mugi dialect),1021,палатинца,CyrillTrans,towel,,,palatinca,Phonemic
+6-810-510-1,darg1241,Dargwa (Mugi dialect),332,явлукъ,CyrillTrans,"handkerchief, rag",,,yawluq̄,Phonemic
+6-790-510-1,darg1241,Dargwa (Mugi dialect),68,камла някьиш,CyrillTrans,tattoo,,,kamla naˁq’iš,Phonemic
+6-780-510-1,darg1241,Dargwa (Mugi dialect),330,кІана,CyrillTrans,"headband, headdress",,,k’ana,Phonemic
+6-770-510-1,darg1241,Dargwa (Mugi dialect),770,урцІари,CyrillTrans,earring,,,urc’ari,Phonemic
+6-760-510-1,darg1241,Dargwa (Mugi dialect),1860,мачин,CyrillTrans,bead,,,mačin,Phonemic
+6-750-510-1,darg1241,Dargwa (Mugi dialect),1961,рахаж,CyrillTrans,necklace,,,raxaž,Phonemic
+6-740-510-1,darg1241,Dargwa (Mugi dialect),1754,кулиха,CyrillTrans,bracelet,,,kulixa,Phonemic
+6-730-510-1,darg1241,Dargwa (Mugi dialect),1374,тІулика,CyrillTrans,ring (for finger),,,t’ulika,Phonemic
+6-720-510-1,darg1241,Dargwa (Mugi dialect),1029,дурхъаси къаркъа,CyrillTrans,jewel,,,"durqasi q̄arq̄a, murhila wayaħ",Phonemic
+6-720-510-3,darg1241,Dargwa (Mugi dialect),1029,мургьила ваяхІ,CyrillTrans,jewel,,,"durqasi q̄arq̄a, murhila wayaħ",Phonemic
+6-710-510-1,darg1241,Dargwa (Mugi dialect),917,жагати секІал,CyrillTrans,"ornament, adornment",,,"žagati sek’al, naˁq’iš",Phonemic
+6-710-510-3,darg1241,Dargwa (Mugi dialect),917,някьиш,CyrillTrans,"ornament, adornment",,,"žagati sek’al, naˁq’iš",Phonemic
+6-630-510-1,darg1241,Dargwa (Mugi dialect),64,калгІан буреба,CyrillTrans,pin,,,kalʕan bureba,Phonemic
+6-620-510-1,darg1241,Dargwa (Mugi dialect),757,хъапІа,CyrillTrans,button,,,qap’a,Phonemic
+6-610-510-1,darg1241,Dargwa (Mugi dialect),1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-510-1,darg1241,Dargwa (Mugi dialect),1151,букІул чІянкІи,CyrillTrans,veil,,,buk’ul č’aˁnk’i,Phonemic
+6-580-510-1,darg1241,Dargwa (Mugi dialect),867,катІа,CyrillTrans,glove,,,kat’a,Phonemic
+6-570-510-1,darg1241,Dargwa (Mugi dialect),772,велгьан,CyrillTrans,"belt, girdle",,,welhan,Phonemic
+6-550-510-1,darg1241,Dargwa (Mugi dialect),2130,кьапІа,CyrillTrans,"hat, cap",,,q’ap’a,Phonemic
+6-540-510-1,darg1241,Dargwa (Mugi dialect),875,дабри далиан уста,CyrillTrans,"shoemaker, cobbler",,,dabri dalian usta,Phonemic
+6-510-510-1,darg1241,Dargwa (Mugi dialect),1381,туплуби,CyrillTrans,shoe,,,tuplubi,Phonemic
+6-520-510-1,darg1241,Dargwa (Mugi dialect),585,батинкІаби,CyrillTrans,boot,,,batink’abi,Phonemic
+6-490-510-1,darg1241,Dargwa (Mugi dialect),329,наски,CyrillTrans,"stocking, sock",,,"naski, dindi",Phonemic
+6-490-510-3,darg1241,Dargwa (Mugi dialect),329,динди,CyrillTrans,"stocking, sock",,,"naski, dindi",Phonemic
+6-480-510-1,darg1241,Dargwa (Mugi dialect),809,шалбурти,CyrillTrans,trousers,,,šalburti,Phonemic
+6-461-510-1,darg1241,Dargwa (Mugi dialect),328,кІапІразибад барибси юпІкІа,CyrillTrans,grass-skirt,,,k’ap’razibad baribsi yup’k’a,Phonemic
+6-460-510-1,darg1241,Dargwa (Mugi dialect),1600,юпІкІа,CyrillTrans,skirt,,,yup’k’a,Phonemic
+6-450-510-1,darg1241,Dargwa (Mugi dialect),2012,хъябцІари,CyrillTrans,collar,,,qaˁbc’ari,Phonemic
+6-440-510-1,darg1241,Dargwa (Mugi dialect),1622,хъябцІарла бегІ хІава,CyrillTrans,shirt,,,qaˁbc’arla beʕ ħawa,Phonemic
+6-430-510-1,darg1241,Dargwa (Mugi dialect),603,пІалтІун,CyrillTrans,coat,,,p’alt’un,Phonemic
+6-420-510-1,darg1241,Dargwa (Mugi dialect),474,хІава,CyrillTrans,woman's dress,,,ħawa,Phonemic
+6-390-510-1,darg1241,Dargwa (Mugi dialect),157,рангла,CyrillTrans,dye,,,"rangla, kraska",Phonemic
+6-390-510-3,darg1241,Dargwa (Mugi dialect),157,краска,CyrillTrans,dye,,,"rangla, kraska",Phonemic
+6-410-510-1,darg1241,Dargwa (Mugi dialect),326,плащ,CyrillTrans,cloak,,,"plaš̄, čaˁyqan",Phonemic
+6-410-510-3,darg1241,Dargwa (Mugi dialect),326,чяйхъан,CyrillTrans,cloak,,,"plaš̄, čaˁyqan",Phonemic
+6-380-510-1,darg1241,Dargwa (Mugi dialect),1161,чІи,CyrillTrans,thread,,,č’i,Phonemic
+6-360-510-1,darg1241,Dargwa (Mugi dialect),1382,буреба,CyrillTrans,needle,,,bureba,Phonemic
+6-370-510-1,darg1241,Dargwa (Mugi dialect),278,дуруб,CyrillTrans,awl,,,durub,Phonemic
+6-350-510-1,darg1241,Dargwa (Mugi dialect),1457,ибес,CyrillTrans,sew,,,ibes,Phonemic
+6-340-510-1,darg1241,Dargwa (Mugi dialect),1787,партарла станок,CyrillTrans,loom,,,partarla stanok,Phonemic
+6-330-510-1,darg1241,Dargwa (Mugi dialect),133,бумхес,CyrillTrans,weave,,,bumxes,Phonemic
+6-320-510-1,darg1241,Dargwa (Mugi dialect),277,дуруг,CyrillTrans,spindle,,,durug,Phonemic
+6-310-510-1,darg1241,Dargwa (Mugi dialect),121,бала лукІес,CyrillTrans,spin,,,bala luk’es,Phonemic
+6-290-510-1,darg1241,Dargwa (Mugi dialect),629,кабц,CyrillTrans,leather,,,kabc,Phonemic
+6-280-510-1,darg1241,Dargwa (Mugi dialect),580,гули,CyrillTrans,fur,,,guli,Phonemic
+6-270-510-1,darg1241,Dargwa (Mugi dialect),325,варгьи,CyrillTrans,felt,,,warhi,Phonemic
+6-250-510-1,darg1241,Dargwa (Mugi dialect),1641,архІяла чІянкІи,CyrillTrans,silk,,,arħaˁla č’aˁnk’i,Phonemic
+6-240-510-1,darg1241,Dargwa (Mugi dialect),1850,кагъарла чІянкІи,CyrillTrans,cotton,,,kaɣarla č’aˁnk’i,Phonemic
+6-230-510-1,darg1241,Dargwa (Mugi dialect),916,урбешлизибадси чІянкІи,CyrillTrans,"linen, flax",,,urbešlizibadsi č’aˁnk’i,Phonemic
+6-220-510-1,darg1241,Dargwa (Mugi dialect),964,балала чІянкІи,CyrillTrans,wool,,,balala č’aˁnk’i,Phonemic
+6-210-510-1,darg1241,Dargwa (Mugi dialect),1616,сакьла,CyrillTrans,cloth,,,"saq’la, č’aˁnk’i",Phonemic
+6-210-510-3,darg1241,Dargwa (Mugi dialect),1616,чІянкІи,CyrillTrans,cloth,,,"saq’la, č’aˁnk’i",Phonemic
+6-130-510-1,darg1241,Dargwa (Mugi dialect),881,палтарла уста,CyrillTrans,tailor,,,paltarla usta,Phonemic
+6-120-510-1,darg1241,Dargwa (Mugi dialect),1895,палтар,CyrillTrans,"clothing, clothes",,,paltar,Phonemic
+6-110-510-1,darg1241,Dargwa (Mugi dialect),158,чеалгьес,CyrillTrans,put on (clothes),,,čealhes,Phonemic
+5-971-510-1,darg1241,Dargwa (Mugi dialect),1556,бухъутІа,CyrillTrans,egg yolk,,,buqut’a,Phonemic
+5-970-510-1,darg1241,Dargwa (Mugi dialect),744,гидгар,CyrillTrans,egg,,,gidgar,Phonemic
+5-940-510-1,darg1241,Dargwa (Mugi dialect),404,хъулила чягъир,CyrillTrans,fermented drink,,,qulila čaˁɣir,Phonemic
+5-930-510-1,darg1241,Dargwa (Mugi dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-510-1,darg1241,Dargwa (Mugi dialect),1524,чягъир,CyrillTrans,wine,,,čaˁɣir,Phonemic
+5-910-510-1,darg1241,Dargwa (Mugi dialect),941,муръити шин,CyrillTrans,mead,,,murɁiti šin,Phonemic
+5-900-510-1,darg1241,Dargwa (Mugi dialect),731,шин,CyrillTrans,"beverage, drink",,,"šin, sok",Phonemic
+5-900-510-3,darg1241,Dargwa (Mugi dialect),731,сок,CyrillTrans,"beverage, drink",,,"šin, sok",Phonemic
+5-890-510-1,darg1241,Dargwa (Mugi dialect),1245,кІима,CyrillTrans,butter,,,k’ima,Phonemic
+5-880-510-1,darg1241,Dargwa (Mugi dialect),1569,нусегІ,CyrillTrans,cheese,,,nuseʕ,Phonemic
+5-870-510-1,darg1241,Dargwa (Mugi dialect),93,бирзара,CyrillTrans,milk (vb),,,birzara,Phonemic
+5-850-510-1,darg1241,Dargwa (Mugi dialect),862,писук,CyrillTrans,sugar,,,pisuk,Phonemic
+5-860-510-1,darg1241,Dargwa (Mugi dialect),635,нигІ,CyrillTrans,milk (noun),,,niʕ,Phonemic
+5-840-510-1,darg1241,Dargwa (Mugi dialect),942,варъа,CyrillTrans,honey,,,warɁa,Phonemic
+5-821-510-1,darg1241,Dargwa (Mugi dialect),919,жибжи,CyrillTrans,chili pepper,,,žibži,Phonemic
+5-820-510-1,darg1241,Dargwa (Mugi dialect),1385,исиут,CyrillTrans,pepper,,,isiut,Phonemic
+5-810-510-1,darg1241,Dargwa (Mugi dialect),1274,зе,CyrillTrans,salt,,,ze,Phonemic
+5-791-510-1,darg1241,Dargwa (Mugi dialect),323,куръа,CyrillTrans,"grease, fat",,,"kurɁa, ħaˁle",Phonemic
+5-791-510-3,darg1241,Dargwa (Mugi dialect),323,хІяле,CyrillTrans,"grease, fat",,,"kurɁa, ħaˁle",Phonemic
+5-790-510-1,darg1241,Dargwa (Mugi dialect),1484,масла,CyrillTrans,oil,,,masla,Phonemic
+5-780-510-1,darg1241,Dargwa (Mugi dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-510-1,darg1241,Dargwa (Mugi dialect),920,тІутІи,CyrillTrans,grape,,,t’ut’i,Phonemic
+5-770-510-1,darg1241,Dargwa (Mugi dialect),191,къябкъури,CyrillTrans,nut,,,q̄aˁbq̄uri,Phonemic
+5-750-510-1,darg1241,Dargwa (Mugi dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-510-1,darg1241,Dargwa (Mugi dialect),1966,биштІаси хала,CyrillTrans,bunch,,,"bišt’asi xala, čup’",Phonemic
+5-712-510-3,darg1241,Dargwa (Mugi dialect),1966,чупІ,CyrillTrans,bunch,,,"bišt’asi xala, čup’",Phonemic
+5-710-510-1,darg1241,Dargwa (Mugi dialect),1507,цІидихь,CyrillTrans,fruit,,,c’idix̌,Phonemic
+5-700-510-1,darg1241,Dargwa (Mugi dialect),593,къяртушка,CyrillTrans,potato,,,q̄aˁrtuška,Phonemic
+5-660-510-1,darg1241,Dargwa (Mugi dialect),832,хъара,CyrillTrans,bean,,,qara,Phonemic
+5-650-510-1,darg1241,Dargwa (Mugi dialect),924,овощуне,CyrillTrans,vegetables,,,owoš̄une,Phonemic
+5-640-510-1,darg1241,Dargwa (Mugi dialect),1547,ниргъ,CyrillTrans,"soup, broth",,,nirɣ,Phonemic
+5-630-510-1,darg1241,Dargwa (Mugi dialect),1874,чІижрут,CyrillTrans,sausage,,,č’ižrut,Phonemic
+5-610-510-1,darg1241,Dargwa (Mugi dialect),634,дигІ,CyrillTrans,meat,,,diʕ,Phonemic
+5-590-510-1,darg1241,Dargwa (Mugi dialect),225,цирхьи итан тІалхІяна,CyrillTrans,pestle,,,cirx̌i itan t’alħaˁna,Phonemic
+5-580-510-1,darg1241,Dargwa (Mugi dialect),224,цирхьи итан,CyrillTrans,mortar (2),,,cirx̌i itan,Phonemic
+5-570-510-1,darg1241,Dargwa (Mugi dialect),636,шанкьан,CyrillTrans,mill,,,šanq’an,Phonemic
+5-560-510-1,darg1241,Dargwa (Mugi dialect),1033,гъяжбирес,CyrillTrans,"crush, grind",,,"ɣaˁžbires, but’nadbares",Phonemic
+5-560-510-3,darg1241,Dargwa (Mugi dialect),1033,бутІнадбарес,CyrillTrans,"crush, grind",,,"ɣaˁžbires, but’nadbares",Phonemic
+5-550-510-1,darg1241,Dargwa (Mugi dialect),1594,битІу,CyrillTrans,"meal, flour",,,bit’u,Phonemic
+5-540-510-1,darg1241,Dargwa (Mugi dialect),274,(башни) башес,CyrillTrans,knead,,,(bašni) bašes,Phonemic
+5-530-510-1,darg1241,Dargwa (Mugi dialect),273,башни,CyrillTrans,dough,,,bašni,Phonemic
+5-510-510-1,darg1241,Dargwa (Mugi dialect),1368,цІулхІе,CyrillTrans,bread,,,c’ulħe,Phonemic
+5-490-510-1,darg1241,Dargwa (Mugi dialect),2017,гъудурбарес,CyrillTrans,"stir, mix",,,ɣudurbares,Phonemic
+5-480-510-1,darg1241,Dargwa (Mugi dialect),1767,суркбарес,CyrillTrans,scrape,,,surkbares,Phonemic
+5-470-510-1,darg1241,Dargwa (Mugi dialect),86,умъэс,CyrillTrans,"sieve, strain",,,umɁes,Phonemic
+5-460-510-1,darg1241,Dargwa (Mugi dialect),275,умубарес,CyrillTrans,peel,,,umubares,Phonemic
+5-450-510-1,darg1241,Dargwa (Mugi dialect),1833,дугила,CyrillTrans,supper,,,dugila,Phonemic
+5-440-510-1,darg1241,Dargwa (Mugi dialect),1833,хІиресла,CyrillTrans,dinner,,,ħiresla,Phonemic
+5-420-510-1,darg1241,Dargwa (Mugi dialect),1322,гІанручІла,CyrillTrans,breakfast,,,ʕanruč’la,Phonemic
+5-410-510-1,darg1241,Dargwa (Mugi dialect),1526,биркунил азикъ,CyrillTrans,meal (a),,,birkunil aziq̄,Phonemic
+5-391-510-1,darg1241,Dargwa (Mugi dialect),272,къянцІа,CyrillTrans,tongs,,,q̄aˁnc’a,Phonemic
+5-390-510-1,darg1241,Dargwa (Mugi dialect),1302,кІачІалтІ,CyrillTrans,fork (2),,,k’ač’alt’,Phonemic
+5-380-510-1,darg1241,Dargwa (Mugi dialect),1352,дис,CyrillTrans,knife (2),,,dis,Phonemic
+5-370-510-1,darg1241,Dargwa (Mugi dialect),1378,кІуцІул,CyrillTrans,spoon,,,k’uc’ul,Phonemic
+5-360-510-1,darg1241,Dargwa (Mugi dialect),271,биштІал кучІа,CyrillTrans,saucer,,,bišt’al kuč’a,Phonemic
+5-350-510-1,darg1241,Dargwa (Mugi dialect),476,гурушка,CyrillTrans,"cup, drinking vessel",,,guruška,Phonemic
+5-330-510-1,darg1241,Dargwa (Mugi dialect),1530,сукура,CyrillTrans,bowl,,,sukura,Phonemic
+5-340-510-1,darg1241,Dargwa (Mugi dialect),270,гажин,CyrillTrans,"pitcher, jug",,,gažin,Phonemic
+5-320-510-1,darg1241,Dargwa (Mugi dialect),480,халдари,CyrillTrans,plate,,,xaldari,Phonemic
+5-310-510-1,darg1241,Dargwa (Mugi dialect),481,мургьил халдари,CyrillTrans,dish,,,murhil xaldari,Phonemic
+5-280-510-1,darg1241,Dargwa (Mugi dialect),31,шинг,CyrillTrans,pan,,,šing,Phonemic
+5-260-510-1,darg1241,Dargwa (Mugi dialect),1462,биштІал мигьла шанг,CyrillTrans,"pot, cooking vessel",,,"bišt’al mihla šang, c’aliči čebilzusi",Phonemic
+5-260-510-3,darg1241,Dargwa (Mugi dialect),1462,цІаличи чебилзуси,CyrillTrans,"pot, cooking vessel",,,"bišt’al mihla šang, c’aliči čebilzusi",Phonemic
+5-270-510-1,darg1241,Dargwa (Mugi dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-510-1,darg1241,Dargwa (Mugi dialect),183,цІулхІе бирцІес,CyrillTrans,bake,,,c’ulħe birc’es,Phonemic
+5-250-510-1,darg1241,Dargwa (Mugi dialect),1143,бирцІес,CyrillTrans,oven,,,birc’es,Phonemic
+5-230-510-1,darg1241,Dargwa (Mugi dialect),2146,бирцІес,CyrillTrans,"roast, fry",,,birc’es,Phonemic
+5-220-510-1,darg1241,Dargwa (Mugi dialect),792,хъярбес,CyrillTrans,boil (vb),,,qaˁrbes,Phonemic
+5-210-510-1,darg1241,Dargwa (Mugi dialect),1100,билхьес,CyrillTrans,cook,,,bilx̌es,Phonemic
+5-190-510-1,darg1241,Dargwa (Mugi dialect),129,гІянтІакIес,CyrillTrans,choke,,,ʕaˁnt’ak’es,Phonemic
+5-181-510-1,darg1241,Dargwa (Mugi dialect),897,кьяртІаэс,CyrillTrans,swallow,,,q’aˁrt’aʔes,Phonemic
+5-180-510-1,darg1241,Dargwa (Mugi dialect),321,хІянчІбарес,CyrillTrans,chew,,,ħaˁnč’bares,Phonemic
+5-160-510-1,darg1241,Dargwa (Mugi dialect),1421,супІбирес,CyrillTrans,suck,,,"sup’bires, birqes",Phonemic
+5-160-510-3,darg1241,Dargwa (Mugi dialect),1421,бирхъес,CyrillTrans,suck,,,"sup’bires, birqes",Phonemic
+5-150-510-1,darg1241,Dargwa (Mugi dialect),848,миргадиш,CyrillTrans,thirst,,,mirgadiš,Phonemic
+5-141-510-1,darg1241,Dargwa (Mugi dialect),199,гаши,CyrillTrans,famine,,,gaši,Phonemic
+5-140-510-1,darg1241,Dargwa (Mugi dialect),1864,гушдеш,CyrillTrans,hunger,,,gušdeš,Phonemic
+5-130-510-1,darg1241,Dargwa (Mugi dialect),1401,дерчес,CyrillTrans,drink,,,"derčes, derčares",Phonemic
+5-130-510-3,darg1241,Dargwa (Mugi dialect),1401,дерчарес,CyrillTrans,drink,,,"derčes, derčares",Phonemic
+5-125-510-1,darg1241,Dargwa (Mugi dialect),1728,бирхІибил,CyrillTrans,rotten,,,birħibil,Phonemic
+5-124-510-1,darg1241,Dargwa (Mugi dialect),1958,сатхІябаибил,CyrillTrans,"green, unripe",,,"satħaˁbaibil, ħaˁbiq’uril",Phonemic
+5-124-510-3,darg1241,Dargwa (Mugi dialect),1958,хІябикьурил,CyrillTrans,"green, unripe",,,"satħaˁbaibil, ħaˁbiq’uril",Phonemic
+5-123-510-1,darg1241,Dargwa (Mugi dialect),178,сабаибил,CyrillTrans,ripe,,,"sabaibil, biq’uril",Phonemic
+5-123-510-3,darg1241,Dargwa (Mugi dialect),178,бикьурил,CyrillTrans,ripe,,,"sabaibil, biq’uril",Phonemic
+5-122-510-1,darg1241,Dargwa (Mugi dialect),1959,хІябилхьунил,CyrillTrans,raw,,,ħaˁbilx̌unil,Phonemic
+5-121-510-1,darg1241,Dargwa (Mugi dialect),269,билхьунил,CyrillTrans,cooked,,,bilx̌unil,Phonemic
+5-120-510-1,darg1241,Dargwa (Mugi dialect),256,беркеси,CyrillTrans,food,,,berkesi,Phonemic
+5-110-510-1,darg1241,Dargwa (Mugi dialect),1336,укана,CyrillTrans,eat,,,ukana,Phonemic
+4-990-510-1,darg1241,Dargwa (Mugi dialect),590,чІянкІуси,CyrillTrans,"naked, bare",,,č’aˁnk’usi,Phonemic
+4-970-510-1,darg1241,Dargwa (Mugi dialect),1653,сукъур,CyrillTrans,blind,,,suq̄ur,Phonemic
+4-980-510-1,darg1241,Dargwa (Mugi dialect),1463,берчибил,CyrillTrans,intoxicated,,,berčibil,Phonemic
+4-960-510-1,darg1241,Dargwa (Mugi dialect),1666,гъай хІедалан,CyrillTrans,mute,,,ɣay ħedalan,Phonemic
+4-950-510-1,darg1241,Dargwa (Mugi dialect),996,гІанцІа,CyrillTrans,deaf,,,ʕanc’a,Phonemic
+4-930-510-1,darg1241,Dargwa (Mugi dialect),1125,амчІурил,CyrillTrans,bald,,,amč’uril,Phonemic
+4-940-510-1,darg1241,Dargwa (Mugi dialect),320,валкІикІес,CyrillTrans,lame,,,walk’ik’es,Phonemic
+4-920-510-1,darg1241,Dargwa (Mugi dialect),1564,азгъин,CyrillTrans,lazy,,,azɣin,Phonemic
+4-912-510-1,darg1241,Dargwa (Mugi dialect),168,бамсриахъес,CyrillTrans,rest,,,bamsriaqes,Phonemic
+4-910-510-1,darg1241,Dargwa (Mugi dialect),1757,вамсурси,CyrillTrans,"tired, weary",,,wamsursi,Phonemic
+4-890-510-1,darg1241,Dargwa (Mugi dialect),655,агъу,CyrillTrans,poison,,,aɣu,Phonemic
+4-880-510-1,darg1241,Dargwa (Mugi dialect),1372,дарман,CyrillTrans,"medicine, drug",,,darman,Phonemic
+4-870-510-1,darg1241,Dargwa (Mugi dialect),597,тухтур,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-870-510-3,darg1241,Dargwa (Mugi dialect),597,врач,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-860-510-1,darg1241,Dargwa (Mugi dialect),499,араигьес,CyrillTrans,"cure, heal",,,araihes,Phonemic
+4-858-510-1,darg1241,Dargwa (Mugi dialect),497,хІана,CyrillTrans,scar,,,ħana,Phonemic
+4-857-510-1,darg1241,Dargwa (Mugi dialect),1808,шаха,CyrillTrans,pus,,,šaxa,Phonemic
+4-856-510-1,darg1241,Dargwa (Mugi dialect),793,шахала жижкІа,CyrillTrans,boil (noun),,,šaxala žižk’a,Phonemic
+4-855-510-1,darg1241,Dargwa (Mugi dialect),1584,шинтари,CyrillTrans,blister,,,šintari,Phonemic
+4-854-510-1,darg1241,Dargwa (Mugi dialect),148,бугни,CyrillTrans,itch,,,bugni,Phonemic
+4-853-510-1,darg1241,Dargwa (Mugi dialect),1903,бинтурил мир,CyrillTrans,swelling,,,binturil mir,Phonemic
+4-852-510-1,darg1241,Dargwa (Mugi dialect),1148,ицаурил мир,CyrillTrans,bruise,,,icauril mir,Phonemic
+4-850-510-1,darg1241,Dargwa (Mugi dialect),1109,дяхъя,CyrillTrans,"wound, sore",,,daˁqaˁ,Phonemic
+4-843-510-1,darg1241,Dargwa (Mugi dialect),102,яргни,CyrillTrans,cold (catarrh),,,yargni,Phonemic
+4-842-510-1,darg1241,Dargwa (Mugi dialect),1957,гьунугьла ицала,CyrillTrans,goiter,,,hunuhla icala,Phonemic
+4-841-510-1,darg1241,Dargwa (Mugi dialect),1534,буцІардиш,CyrillTrans,fever,,,"buc’ardiš, qip’ikes",Phonemic
+4-841-510-3,darg1241,Dargwa (Mugi dialect),1534,хъипІикес,CyrillTrans,fever,,,"buc’ardiš, qip’ikes",Phonemic
+4-840-510-1,darg1241,Dargwa (Mugi dialect),1847,ицани,CyrillTrans,"sick, sickness",,,"icani, icala",Phonemic
+4-840-510-3,darg1241,Dargwa (Mugi dialect),1847,ицала,CyrillTrans,"sick, sickness",,,"icani, icala",Phonemic
+4-830-510-1,darg1241,Dargwa (Mugi dialect),1364,арасагъси,CyrillTrans,"well, health",,,"arasaɣsi, aradiš",Phonemic
+4-830-510-3,darg1241,Dargwa (Mugi dialect),1364,арадиш,CyrillTrans,"well, health",,,"arasaɣsi, aradiš",Phonemic
+4-820-510-1,darg1241,Dargwa (Mugi dialect),1601,кІаитІил,CyrillTrans,weak,,,"k’ait’il, uruxk’an",Phonemic
+4-820-510-3,darg1241,Dargwa (Mugi dialect),1601,урухкІан,CyrillTrans,weak,,,"k’ait’il, uruxk’an",Phonemic
+4-810-510-1,darg1241,Dargwa (Mugi dialect),785,цІакьсил,CyrillTrans,"strong, mighty, powerful",,,"c’aq’sil, hunarla weʕ",Phonemic
+4-810-510-3,darg1241,Dargwa (Mugi dialect),785,гьунарла вегІ,CyrillTrans,"strong, mighty, powerful",,,"c’aq’sil, hunarla weʕ",Phonemic
+4-790-510-1,darg1241,Dargwa (Mugi dialect),1773,хІаб,CyrillTrans,"grave, tomb",,,ħab,Phonemic
+4-780-510-1,darg1241,Dargwa (Mugi dialect),1719,хІяриъихьес,CyrillTrans,bury (the dead),,,ħaˁriɁix̌es,Phonemic
+4-770-510-1,darg1241,Dargwa (Mugi dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-510-1,darg1241,Dargwa (Mugi dialect),1417,кавшес,CyrillTrans,kill,,,kawšes,Phonemic
+4-751-510-1,darg1241,Dargwa (Mugi dialect),1904,кягІябил,CyrillTrans,drowned,,,"kaˁʕaˁbil, šinli ʕaˁndak’ibsi",Phonemic
+4-751-510-3,darg1241,Dargwa (Mugi dialect),1904,шинли гІяндакІибси,CyrillTrans,drowned,,,"kaˁʕaˁbil, šinli ʕaˁndak’ibsi",Phonemic
+4-750-510-1,darg1241,Dargwa (Mugi dialect),1494,вебкІес,CyrillTrans,"die, dead",,,"webk’es, ibk’ibil",Phonemic
+4-750-510-3,darg1241,Dargwa (Mugi dialect),1494,ибкІибил,CyrillTrans,"die, dead",,,"webk’es, ibk’ibil",Phonemic
+4-740-510-1,darg1241,Dargwa (Mugi dialect),1422,хІериэс,CyrillTrans,"live, living, life",,,"ħeriʔes, mic’iril, ʕanru",Phonemic
+4-740-510-3,darg1241,Dargwa (Mugi dialect),1422,мицІирил,CyrillTrans,"live, living, life",,,"ħeriʔes, mic’iril, ʕanru",Phonemic
+4-740-510-5,darg1241,Dargwa (Mugi dialect),1422,гІанру,CyrillTrans,"live, living, life",,,"ħeriʔes, mic’iril, ʕanru",Phonemic
+4-732-510-1,darg1241,Dargwa (Mugi dialect),1087,дурхІялис биэс,CyrillTrans,conceive,,,durħaˁlis biʔes,Phonemic
+4-730-510-1,darg1241,Dargwa (Mugi dialect),1123,хъяшала регІ,CyrillTrans,pregnant,,,qaˁšala reʕ,Phonemic
+4-720-510-1,darg1241,Dargwa (Mugi dialect),1090,акІара,CyrillTrans,born (to be),,,ak’ara,Phonemic
+4-710-510-1,darg1241,Dargwa (Mugi dialect),1152,атаси хІулкІес,CyrillTrans,beget (of father),,,atasi ħulk’es,Phonemic
+4-690-510-1,darg1241,Dargwa (Mugi dialect),138,ухІнаухъес,CyrillTrans,bathe,,,uħnauqes,Phonemic
+4-680-510-1,darg1241,Dargwa (Mugi dialect),52,руржес,CyrillTrans,shiver,,,ruržes,Phonemic
+4-670-510-1,darg1241,Dargwa (Mugi dialect),1785,хьайчи кайэс,CyrillTrans,have sexual intercourse,,,x̌ayči kayes,Phonemic
+4-660-510-1,darg1241,Dargwa (Mugi dialect),676,дек кадатес,CyrillTrans,defecate,,,dek kadates,Phonemic
+4-650-510-1,darg1241,Dargwa (Mugi dialect),592,шинкІавиэс,CyrillTrans,urinate,,,šink’awiʔes,Phonemic
+4-640-510-1,darg1241,Dargwa (Mugi dialect),1159,пушанес,CyrillTrans,break wind,,,"pušanes, gaˁʕaˁnaziwad amuwiʔes",Phonemic
+4-640-510-3,darg1241,Dargwa (Mugi dialect),1159,гягІяназивад амувиэс,CyrillTrans,break wind,,,"pušanes, gaˁʕaˁnaziwad amuwiʔes",Phonemic
+4-630-510-1,darg1241,Dargwa (Mugi dialect),1602,кивалхІес,CyrillTrans,wake up,,,kiwalħes,Phonemic
+4-620-510-1,darg1241,Dargwa (Mugi dialect),1920,муири кибалес,CyrillTrans,dream,,,muiri kibales,Phonemic
+4-612-510-1,darg1241,Dargwa (Mugi dialect),1983,хухикІес,CyrillTrans,snore,,,xuxik’es,Phonemic
+4-610-510-1,darg1241,Dargwa (Mugi dialect),1585,усес,CyrillTrans,sleep,,,uses,Phonemic
+4-591-510-1,darg1241,Dargwa (Mugi dialect),268,шатрали чагъикІес,CyrillTrans,dribble,,,šatrali čaɣik’es,Phonemic
+4-590-510-1,darg1241,Dargwa (Mugi dialect),319,лимцІикІес,CyrillTrans,lick,,,limc’ik’es,Phonemic
+4-580-510-1,darg1241,Dargwa (Mugi dialect),1403,кьацІбикес,CyrillTrans,bite,,,q’ac’bikes,Phonemic
+4-570-510-1,darg1241,Dargwa (Mugi dialect),1278,рабчикІуназив язикъил,CyrillTrans,vomit,,,rabčik’unaziw aˁziq̄il,Phonemic
+4-560-510-1,darg1241,Dargwa (Mugi dialect),1440,туикІес,CyrillTrans,spit,,,"tuik’es, axturi",Phonemic
+4-560-510-3,darg1241,Dargwa (Mugi dialect),1440,ахтури,CyrillTrans,spit,,,"tuik’es, axturi",Phonemic
+4-550-510-1,darg1241,Dargwa (Mugi dialect),126,майаликатес,CyrillTrans,perspire,,,mayalikates,Phonemic
+4-540-510-1,darg1241,Dargwa (Mugi dialect),1621,гІинчуикІес,CyrillTrans,sneeze,,,ʕinčuik’es,Phonemic
+4-530-510-1,darg1241,Dargwa (Mugi dialect),879,хъехІикІес,CyrillTrans,cough,,,qeħik’es,Phonemic
+4-521-510-1,darg1241,Dargwa (Mugi dialect),162,хІуркьикІес,CyrillTrans,hiccough,,,ħurq’ik’es,Phonemic
+4-520-510-1,darg1241,Dargwa (Mugi dialect),1028,гьагьикІес,CyrillTrans,"yawn, gape",,,hahik’es,Phonemic
+4-510-510-1,darg1241,Dargwa (Mugi dialect),1407,гьигьикІес,CyrillTrans,"breathe, breath",,,"hihik’es, hih",Phonemic
+4-510-510-3,darg1241,Dargwa (Mugi dialect),1407,гьигь,CyrillTrans,"breathe, breath",,,"hihik’es, hih",Phonemic
+4-492-510-1,darg1241,Dargwa (Mugi dialect),1222,туна,CyrillTrans,penis,,,tuna,Phonemic
+4-490-510-1,darg1241,Dargwa (Mugi dialect),797,кьулкьме,CyrillTrans,testicle,,,q’ulq’me,Phonemic
+4-470-510-1,darg1241,Dargwa (Mugi dialect),804,дархІнугла кьяли,CyrillTrans,womb,,,darħnugla q’aˁli,Phonemic
+4-464-510-1,darg1241,Dargwa (Mugi dialect),834,дуйми,CyrillTrans,buttocks,,,duymi,Phonemic
+4-463-510-1,darg1241,Dargwa (Mugi dialect),1745,урдулла дигІ,CyrillTrans,hip,,,urdulla diʕ,Phonemic
+4-462-510-1,darg1241,Dargwa (Mugi dialect),1681,вай,CyrillTrans,waist,,,"way, ray",Phonemic
+4-462-510-3,darg1241,Dargwa (Mugi dialect),1681,рай,CyrillTrans,waist,,,"way, ray",Phonemic
+4-461-510-1,darg1241,Dargwa (Mugi dialect),1991,умхитІ,CyrillTrans,"intestines, guts",,,umxit’,Phonemic
+4-460-510-1,darg1241,Dargwa (Mugi dialect),819,дашкІапІи,CyrillTrans,stomach,,,dašk’ap’i,Phonemic
+4-452-510-1,darg1241,Dargwa (Mugi dialect),1744,кІацІ,CyrillTrans,spleen,,,k’ac’,Phonemic
+4-451-510-1,darg1241,Dargwa (Mugi dialect),489,урциц,CyrillTrans,kidney,,,urcic,Phonemic
+4-450-510-1,darg1241,Dargwa (Mugi dialect),1224,дуликІ,CyrillTrans,liver,,,dulik’,Phonemic
+4-441-510-1,darg1241,Dargwa (Mugi dialect),688,хургьри,CyrillTrans,lung,,,xurhri,Phonemic
+4-440-510-1,darg1241,Dargwa (Mugi dialect),1223,уркІи,CyrillTrans,heart,,,urk’i,Phonemic
+4-430-510-1,darg1241,Dargwa (Mugi dialect),1838,къута,CyrillTrans,navel,,,q̄uta,Phonemic
+4-420-510-1,darg1241,Dargwa (Mugi dialect),154,бурхІе,CyrillTrans,udder,,,"burħe, ut’i",Phonemic
+4-420-510-3,darg1241,Dargwa (Mugi dialect),154,утІи,CyrillTrans,udder,,,"burħe, ut’i",Phonemic
+4-412-510-1,darg1241,Dargwa (Mugi dialect),796,утІи,CyrillTrans,"nipple, teat",,,"ut’i, mama",Phonemic
+4-412-510-3,darg1241,Dargwa (Mugi dialect),796,мама,CyrillTrans,"nipple, teat",,,"ut’i, mama",Phonemic
+4-410-510-1,darg1241,Dargwa (Mugi dialect),1402,мама,CyrillTrans,breast (of woman),,,mama,Phonemic
+4-400-510-1,darg1241,Dargwa (Mugi dialect),1592,михъирла умх,CyrillTrans,chest,,,miqirla umx,Phonemic
+4-393-510-1,darg1241,Dargwa (Mugi dialect),1201,пахІала,CyrillTrans,feather,,,paħala,Phonemic
+4-392-510-1,darg1241,Dargwa (Mugi dialect),1257,дукала,CyrillTrans,wing,,,dukala,Phonemic
+4-380-510-1,darg1241,Dargwa (Mugi dialect),1389,камул,CyrillTrans,toe,,,kamul,Phonemic
+4-374-510-1,darg1241,Dargwa (Mugi dialect),318,кьяшла къил,CyrillTrans,footprint,,,q’aˁšla q̄il,Phonemic
+4-372-510-1,darg1241,Dargwa (Mugi dialect),980,кьячІа,CyrillTrans,heel,,,q’aˁč’a,Phonemic
+4-371-510-1,darg1241,Dargwa (Mugi dialect),803,чярда,CyrillTrans,ankle,,,čaˁrda,Phonemic
+4-370-510-1,darg1241,Dargwa (Mugi dialect),1301,лутІи кьяш,CyrillTrans,foot,,,lut’i q’aˁš,Phonemic
+4-360-510-1,darg1241,Dargwa (Mugi dialect),1371,кьукьа,CyrillTrans,knee,,,q’uq’a,Phonemic
+4-352-510-1,darg1241,Dargwa (Mugi dialect),498,чІикІ,CyrillTrans,calf of leg,,,č’ik’,Phonemic
+4-351-510-1,darg1241,Dargwa (Mugi dialect),800,уртур,CyrillTrans,thigh,,,urtur,Phonemic
+4-350-510-1,darg1241,Dargwa (Mugi dialect),1297,кьяш,CyrillTrans,leg,,,q’aˁš,Phonemic
+4-345-510-1,darg1241,Dargwa (Mugi dialect),72,жаниварла кьялши,CyrillTrans,claw,,,"žaniwarla q’aˁlši, nika",Phonemic
+4-345-510-3,darg1241,Dargwa (Mugi dialect),72,ника,CyrillTrans,claw,,,"žaniwarla q’aˁlši, nika",Phonemic
+4-344-510-1,darg1241,Dargwa (Mugi dialect),1258,ника,CyrillTrans,fingernail,,,nika,Phonemic
+4-342-510-1,darg1241,Dargwa (Mugi dialect),1781,хала тІул,CyrillTrans,thumb,,,xala t’ul,Phonemic
+4-340-510-1,darg1241,Dargwa (Mugi dialect),1303,тІул,CyrillTrans,finger,,,t’ul,Phonemic
+4-331-510-1,darg1241,Dargwa (Mugi dialect),1183,тахъ,CyrillTrans,palm of hand,,,taq,Phonemic
+4-330-510-1,darg1241,Dargwa (Mugi dialect),1277,бикІ някъ,CyrillTrans,hand,,,bik’ naˁq̄,Phonemic
+4-321-510-1,darg1241,Dargwa (Mugi dialect),799,хъяб някъ,CyrillTrans,wrist,,,qaˁb naˁq̄,Phonemic
+4-320-510-1,darg1241,Dargwa (Mugi dialect),981,каца някъ,CyrillTrans,elbow,,,kaca naˁq̄,Phonemic
+4-312-510-1,darg1241,Dargwa (Mugi dialect),1886,шайула,CyrillTrans,armpit,,,šayula,Phonemic
+4-310-510-1,darg1241,Dargwa (Mugi dialect),1673,някъ,CyrillTrans,arm,,,naˁq̄,Phonemic
+4-302-510-1,darg1241,Dargwa (Mugi dialect),1994,дукІла лика,CyrillTrans,collarbone,,,duk’la lika,Phonemic
+4-301-510-1,darg1241,Dargwa (Mugi dialect),172,хайхай кІатІа,CyrillTrans,shoulderblade,,,xayxay k’at’a,Phonemic
+4-300-510-1,darg1241,Dargwa (Mugi dialect),1482,хъарчІали,CyrillTrans,shoulder,,,qarč’ali,Phonemic
+4-290-510-1,darg1241,Dargwa (Mugi dialect),1346,сус,CyrillTrans,throat,,,"sus, q’aq’ari",Phonemic
+4-290-510-3,darg1241,Dargwa (Mugi dialect),1346,кьакьари,CyrillTrans,throat,,,"sus, q’aq’ari",Phonemic
+4-281-510-1,darg1241,Dargwa (Mugi dialect),1347,гІила бикІ,CyrillTrans,nape of neck,,,ʕila bik’,Phonemic
+4-280-510-1,darg1241,Dargwa (Mugi dialect),1333,хъяб,CyrillTrans,neck,,,qaˁb,Phonemic
+4-272-510-1,darg1241,Dargwa (Mugi dialect),1049,кьялила бегІ цула,CyrillTrans,molartooth,,,q’aˁlila beʕ cula,Phonemic
+4-270-510-1,darg1241,Dargwa (Mugi dialect),1380,цула,CyrillTrans,tooth,,,cula,Phonemic
+4-271-510-1,darg1241,Dargwa (Mugi dialect),139,кІинчІуби,CyrillTrans,gums,,,k’inč’ubi,Phonemic
+4-260-510-1,darg1241,Dargwa (Mugi dialect),1205,лицми,CyrillTrans,tongue,,,licmi,Phonemic
+4-250-510-1,darg1241,Dargwa (Mugi dialect),478,кІинтІ,CyrillTrans,lip,,,k’int’,Phonemic
+4-241-510-1,darg1241,Dargwa (Mugi dialect),73,къудкъуда,CyrillTrans,beak,,,q̄udq̄uda,Phonemic
+4-240-510-1,darg1241,Dargwa (Mugi dialect),674,мухІли,CyrillTrans,mouth,,,muħli,Phonemic
+4-232-510-1,darg1241,Dargwa (Mugi dialect),208,хъутни,CyrillTrans,mucus (nasal),,,qutni,Phonemic
+4-231-510-1,darg1241,Dargwa (Mugi dialect),1178,къянкъла гІями,CyrillTrans,nostril,,,q̄aˁnq̄la ʕaˁmi,Phonemic
+4-230-510-1,darg1241,Dargwa (Mugi dialect),1221,къянкъ,CyrillTrans,nose,,,q̄aˁnq̄,Phonemic
+4-222-510-1,darg1241,Dargwa (Mugi dialect),32,лихІилебил бухъутІа няс,CyrillTrans,earwax,,,liħilebil buqut’a naˁs,Phonemic
+4-221-510-1,darg1241,Dargwa (Mugi dialect),18,лихІила бухІнала,CyrillTrans,earlobe,,,liħila buħnala,Phonemic
+4-220-510-1,darg1241,Dargwa (Mugi dialect),1247,лихІи,CyrillTrans,ear,,,liħi,Phonemic
+4-215-510-1,darg1241,Dargwa (Mugi dialect),1655,цІивацара,CyrillTrans,blink,,,c’iwacara,Phonemic
+4-214-510-1,darg1241,Dargwa (Mugi dialect),1540,чІимичІала,CyrillTrans,eyelash,,,č’imič’ala,Phonemic
+4-213-510-1,darg1241,Dargwa (Mugi dialect),17,кьяпІикІан,CyrillTrans,eyelid,,,q’aˁp’ik’an,Phonemic
+4-212-510-1,darg1241,Dargwa (Mugi dialect),1173,нит,CyrillTrans,eyebrow,,,nit,Phonemic
+4-210-510-1,darg1241,Dargwa (Mugi dialect),1248,хІули,CyrillTrans,eye,,,ħuli,Phonemic
+4-208-510-1,darg1241,Dargwa (Mugi dialect),1730,ляжи,CyrillTrans,cheek,,,laˁži,Phonemic
+4-209-510-1,darg1241,Dargwa (Mugi dialect),1510,муцІур,CyrillTrans,chin,,,muc’ur,Phonemic
+4-205-510-1,darg1241,Dargwa (Mugi dialect),123,анта,CyrillTrans,forehead,,,anta,Phonemic
+4-207-510-1,darg1241,Dargwa (Mugi dialect),798,хъяйхъяй,CyrillTrans,jaw,,,qaˁyqaˁy,Phonemic
+4-204-510-1,darg1241,Dargwa (Mugi dialect),1560,дяхІ,CyrillTrans,face,,,daˁħ,Phonemic
+4-203-510-1,darg1241,Dargwa (Mugi dialect),1583,мехІе,CyrillTrans,brain,,,meħe,Phonemic
+4-201-510-1,darg1241,Dargwa (Mugi dialect),1604,лихІишкан,CyrillTrans,"side of head, temple",,,liħiškan,Phonemic
+4-202-510-1,darg1241,Dargwa (Mugi dialect),1605,бикІла вакъ,CyrillTrans,skull,,,bik’la waq̄,Phonemic
+4-200-510-1,darg1241,Dargwa (Mugi dialect),1256,бикІ,CyrillTrans,head,,,bik’,Phonemic
+4-191-510-1,darg1241,Dargwa (Mugi dialect),805,къакъла лика,CyrillTrans,spine,,,q̄aq̄la lika,Phonemic
+4-190-510-1,darg1241,Dargwa (Mugi dialect),1291,къакъ,CyrillTrans,back,,,q̄aq̄,Phonemic
+4-180-510-1,darg1241,Dargwa (Mugi dialect),1220,къуйрукъ,CyrillTrans,tail,,,q̄uyruq̄,Phonemic
+4-170-510-1,darg1241,Dargwa (Mugi dialect),1393,мукаки,CyrillTrans,horn,,,mukaki,Phonemic
+4-162-510-1,darg1241,Dargwa (Mugi dialect),801,шалила лика,CyrillTrans,rib,,,šalila lika,Phonemic
+4-160-510-1,darg1241,Dargwa (Mugi dialect),1394,лика,CyrillTrans,bone,,,lika,Phonemic
+4-151-510-1,darg1241,Dargwa (Mugi dialect),525,хІила тум,CyrillTrans,"vein, artery",,,ħila tum,Phonemic
+4-150-510-1,darg1241,Dargwa (Mugi dialect),946,хІи,CyrillTrans,blood,,,ħi,Phonemic
+4-146-510-1,darg1241,Dargwa (Mugi dialect),576,хъимсли,CyrillTrans,dandruff,,,qimsli,Phonemic
+4-145-510-1,darg1241,Dargwa (Mugi dialect),36,кьама,CyrillTrans,pubic hair,,,q’ama,Phonemic
+4-144-510-1,darg1241,Dargwa (Mugi dialect),189,кьаркьа гъиз,CyrillTrans,body hair,,,q’arq’a ɣiz,Phonemic
+4-142-510-1,darg1241,Dargwa (Mugi dialect),678,муцІур,CyrillTrans,beard,,,muc’ur,Phonemic
+4-140-510-1,darg1241,Dargwa (Mugi dialect),1040,бекІла гъиз,CyrillTrans,hair (head),,,bek’la ɣiz,Phonemic
+4-130-510-1,darg1241,Dargwa (Mugi dialect),2259,кам,CyrillTrans,flesh,,,kam,Phonemic
+4-120-510-1,darg1241,Dargwa (Mugi dialect),763,кабц,CyrillTrans,"skin, hide",,,"kabc, kam",Phonemic
+4-120-510-3,darg1241,Dargwa (Mugi dialect),763,кам,CyrillTrans,"skin, hide",,,"kabc, kam",Phonemic
+4-110-510-1,darg1241,Dargwa (Mugi dialect),1480,кьаркьала,CyrillTrans,body,,,q’arq’ala,Phonemic
+3-980-510-1,darg1241,Dargwa (Mugi dialect),112,вахкиб гІятІа,CyrillTrans,turtle,,,waxkib ʕaˁt’a,Phonemic
+3-970-510-1,darg1241,Dargwa (Mugi dialect),1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-510-1,darg1241,Dargwa (Mugi dialect),632,ширшитІан,CyrillTrans,lizard,,,širšit’an,Phonemic
+3-950-510-1,darg1241,Dargwa (Mugi dialect),503,гІятІа,CyrillTrans,frog,,,ʕaˁt’a,Phonemic
+3-940-510-1,darg1241,Dargwa (Mugi dialect),1543,маркучІ,CyrillTrans,snail,,,markuč’,Phonemic
+3-930-510-1,darg1241,Dargwa (Mugi dialect),607,цІирцІ,CyrillTrans,grasshopper,,,c’irc’,Phonemic
+3-920-510-1,darg1241,Dargwa (Mugi dialect),1791,къабигІан,CyrillTrans,butterfly,,,q̄abiʕan,Phonemic
+3-910-510-1,darg1241,Dargwa (Mugi dialect),206,дукили шалабикІани милякь,CyrillTrans,firefly,,,dukili šalabik’ani milaˁq’,Phonemic
+3-850-510-1,darg1241,Dargwa (Mugi dialect),730,чІичІала,CyrillTrans,snake,,,č’ič’ala,Phonemic
+3-840-510-1,darg1241,Dargwa (Mugi dialect),1219,милякъ,CyrillTrans,worm,,,milaˁq̄,Phonemic
+3-832-510-1,darg1241,Dargwa (Mugi dialect),1509,хІумурз,CyrillTrans,mosquito,,,ħumurz,Phonemic
+3-831-510-1,darg1241,Dargwa (Mugi dialect),95,жибин,CyrillTrans,"sandfly (midge), gnat",,,žibin,Phonemic
+3-830-510-1,darg1241,Dargwa (Mugi dialect),1504,тІинтІ,CyrillTrans,fly,,,t’int’,Phonemic
+3-823-510-1,darg1241,Dargwa (Mugi dialect),1517,гІича мирхъи,CyrillTrans,wasp,,,ʕiča mirqi,Phonemic
+3-822-510-1,darg1241,Dargwa (Mugi dialect),88,мирхъила тІакьа,CyrillTrans,beehive,,,mirqila t’aq’a,Phonemic
+3-821-510-1,darg1241,Dargwa (Mugi dialect),1931,мурчІали,CyrillTrans,beeswax,,,murč’ali,Phonemic
+3-820-510-1,darg1241,Dargwa (Mugi dialect),665,мирхъи,CyrillTrans,bee,,,mirqi,Phonemic
+3-819-510-1,darg1241,Dargwa (Mugi dialect),1065,хъисхъала души,CyrillTrans,spider web,,,qisqala duši,Phonemic
+3-818-510-1,darg1241,Dargwa (Mugi dialect),843,хъисхъа,CyrillTrans,spider,,,qisqa,Phonemic
+3-817-510-1,darg1241,Dargwa (Mugi dialect),587,имиала,CyrillTrans,ant,,,imiala,Phonemic
+3-816-510-1,darg1241,Dargwa (Mugi dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-510-1,darg1241,Dargwa (Mugi dialect),1538,гІякьраб,CyrillTrans,scorpion,,,ʕaˁq’rab,Phonemic
+3-814-510-1,darg1241,Dargwa (Mugi dialect),1974,авцIали кьяшмар милякъ,CyrillTrans,centipede,,,awc’ali q’aˁšmar milaˁq̄,Phonemic
+3-813-510-1,darg1241,Dargwa (Mugi dialect),232,цІика,CyrillTrans,flea,,,"c’ika, c’unkbi",Phonemic
+3-813-510-3,darg1241,Dargwa (Mugi dialect),232,цІункби,CyrillTrans,flea,,,"c’ika, c’unkbi",Phonemic
+3-812-510-1,darg1241,Dargwa (Mugi dialect),267,кьими,CyrillTrans,nit (louse egg),,,q’imi,Phonemic
+3-811-510-1,darg1241,Dargwa (Mugi dialect),1392,нир,CyrillTrans,louse,,,nir,Phonemic
+3-810-510-1,darg1241,Dargwa (Mugi dialect),620,дибгІянти милкъя,CyrillTrans,insect,,,dibʕaˁnti milq̄aˁ,Phonemic
+3-780-510-1,darg1241,Dargwa (Mugi dialect),1871,валри,CyrillTrans,camel,,,walri,Phonemic
+3-770-510-1,darg1241,Dargwa (Mugi dialect),1290,пил цура,CyrillTrans,elephant,,,pil cura,Phonemic
+3-760-510-1,darg1241,Dargwa (Mugi dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-510-1,darg1241,Dargwa (Mugi dialect),1936,пурс кьяцІа,CyrillTrans,deer,,,purs q’aˁc’a,Phonemic
+3-740-510-1,darg1241,Dargwa (Mugi dialect),1312,гурда,CyrillTrans,fox,,,gurda,Phonemic
+3-730-510-1,darg1241,Dargwa (Mugi dialect),1820,синка,CyrillTrans,bear,,,sinka,Phonemic
+3-720-510-1,darg1241,Dargwa (Mugi dialect),1386,къаплан,CyrillTrans,lion,,,q̄aplan,Phonemic
+3-710-510-1,darg1241,Dargwa (Mugi dialect),522,бицІ,CyrillTrans,wolf,,,bic’,Phonemic
+3-664-510-1,darg1241,Dargwa (Mugi dialect),1910,урхьнала ката,CyrillTrans,stingray,,,urx̌nala kata,Phonemic
+3-663-510-1,darg1241,Dargwa (Mugi dialect),957,кІас,CyrillTrans,whale,,,"k’as, xulal baˁliq̄",Phonemic
+3-663-510-3,darg1241,Dargwa (Mugi dialect),957,хулал бяликъ,CyrillTrans,whale,,,"k’as, xulal baˁliq̄",Phonemic
+3-662-510-1,darg1241,Dargwa (Mugi dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-510-1,darg1241,Dargwa (Mugi dialect),1110,гъармука бяликъ,CyrillTrans,shark,,,ɣarmuka baˁliq̄,Phonemic
+3-655-510-1,darg1241,Dargwa (Mugi dialect),598,къякри,CyrillTrans,shell,,,q̄aˁkri,Phonemic
+3-654-510-1,darg1241,Dargwa (Mugi dialect),1916,жабраби,CyrillTrans,gill,,,žabrabi,Phonemic
+3-653-510-1,darg1241,Dargwa (Mugi dialect),266,бяликъла кІапІри,CyrillTrans,fishscale,,,baˁliq̄la k’ap’ri,Phonemic
+3-652-510-1,darg1241,Dargwa (Mugi dialect),213,бяликъла дукала,CyrillTrans,fin (dorsal),,,baˁliq̄la dukala,Phonemic
+3-650-510-1,darg1241,Dargwa (Mugi dialect),227,бяликъ,CyrillTrans,fish,,,baˁliq̄,Phonemic
+3-630-510-1,darg1241,Dargwa (Mugi dialect),2139,кьурга ваца,CyrillTrans,"mouse, rat",,,q’urga waca,Phonemic
+3-620-510-1,darg1241,Dargwa (Mugi dialect),1208,ката,CyrillTrans,cat,,,kata,Phonemic
+3-614-510-1,darg1241,Dargwa (Mugi dialect),1136,гІари,CyrillTrans,rabbit,,,ʕari,Phonemic
+3-610-510-1,darg1241,Dargwa (Mugi dialect),2009,хи,CyrillTrans,dog,,,xi,Phonemic
+3-594-510-1,darg1241,Dargwa (Mugi dialect),1853,лавгьа,CyrillTrans,dove,,,lawha,Phonemic
+3-596-510-1,darg1241,Dargwa (Mugi dialect),735,тІума,CyrillTrans,owl,,,t’uma,Phonemic
+3-593-510-1,darg1241,Dargwa (Mugi dialect),913,къяна,CyrillTrans,crow,,,q̄aˁna,Phonemic
+3-592-510-1,darg1241,Dargwa (Mugi dialect),882,попугай,CyrillTrans,parrot,,,popugay,Phonemic
+3-591-510-1,darg1241,Dargwa (Mugi dialect),1793,урцан ваца,CyrillTrans,bat,,,urcan waca,Phonemic
+3-586-510-1,darg1241,Dargwa (Mugi dialect),1185,чІака,CyrillTrans,vulture,,,č’aka,Phonemic
+3-585-510-1,darg1241,Dargwa (Mugi dialect),307,къиргъу,CyrillTrans,hawk,,,q̄irɣu,Phonemic
+3-584-510-1,darg1241,Dargwa (Mugi dialect),1905,чІака,CyrillTrans,eagle,,,č’aka,Phonemic
+3-582-510-1,darg1241,Dargwa (Mugi dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-510-1,darg1241,Dargwa (Mugi dialect),758,бирхІлала арцан,CyrillTrans,heron,,,birħlala arcan,Phonemic
+3-581-510-1,darg1241,Dargwa (Mugi dialect),937,чяка,CyrillTrans,bird,,,čaˁka,Phonemic
+3-580-510-1,darg1241,Dargwa (Mugi dialect),539,мукьа,CyrillTrans,nest,,,muq’a,Phonemic
+3-570-510-1,darg1241,Dargwa (Mugi dialect),1360,бятІ,CyrillTrans,duck,,,baˁt’,Phonemic
+3-560-510-1,darg1241,Dargwa (Mugi dialect),1187,къаз,CyrillTrans,goose,,,q̄az,Phonemic
+3-550-510-1,darg1241,Dargwa (Mugi dialect),1318,чІикІа,CyrillTrans,chicken,,,č’ik’a,Phonemic
+3-540-510-1,darg1241,Dargwa (Mugi dialect),1514,гІаргІа,CyrillTrans,hen,,,ʕarʕa,Phonemic
+3-520-510-1,darg1241,Dargwa (Mugi dialect),1511,дагъа,CyrillTrans,"cock, rooster",,,daɣa,Phonemic
+3-470-510-1,darg1241,Dargwa (Mugi dialect),890,хІемхІерукъ,CyrillTrans,mule,,,ħemħeruq̄,Phonemic
+3-500-510-1,darg1241,Dargwa (Mugi dialect),265,гІаргІни,CyrillTrans,fowl,,,ʕarʕni,Phonemic
+3-460-510-1,darg1241,Dargwa (Mugi dialect),1862,хІемхІе,CyrillTrans,"ass, donkey",,,ħemħe,Phonemic
+3-450-510-1,darg1241,Dargwa (Mugi dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˁy,Phonemic
+3-440-510-1,darg1241,Dargwa (Mugi dialect),938,каца урчи,CyrillTrans,mare,,,kaca urči,Phonemic
+3-420-510-1,darg1241,Dargwa (Mugi dialect),936,айгъир,CyrillTrans,stallion,,,"ayɣir, urči",Phonemic
+3-420-510-3,darg1241,Dargwa (Mugi dialect),936,урчи,CyrillTrans,stallion,,,"ayɣir, urči",Phonemic
+3-410-510-1,darg1241,Dargwa (Mugi dialect),615,урчи,CyrillTrans,horse (equine),,,urči,Phonemic
+3-380-510-1,darg1241,Dargwa (Mugi dialect),1972,кичба,CyrillTrans,kid,,,kičba,Phonemic
+3-370-510-1,darg1241,Dargwa (Mugi dialect),264,кьяца,CyrillTrans,he-goat,,,q’aˁca,Phonemic
+3-360-510-1,darg1241,Dargwa (Mugi dialect),1502,гІича,CyrillTrans,goat,,,ʕiča,Phonemic
+3-350-510-1,darg1241,Dargwa (Mugi dialect),1337,цура,CyrillTrans,pig,,,cura,Phonemic
+3-340-510-1,darg1241,Dargwa (Mugi dialect),1351,гажа цура,CyrillTrans,sow (2),,,gaža cura,Phonemic
+3-320-510-1,darg1241,Dargwa (Mugi dialect),1348,дугІла цура,CyrillTrans,boar,,,duʕla cura,Phonemic
+3-290-510-1,darg1241,Dargwa (Mugi dialect),820,мукьара,CyrillTrans,lamb,,,muq’ara,Phonemic
+3-280-510-1,darg1241,Dargwa (Mugi dialect),1345,маза,CyrillTrans,ewe,,,maza,Phonemic
+3-260-510-1,darg1241,Dargwa (Mugi dialect),1344,ке,CyrillTrans,ram,,,ke,Phonemic
+3-250-510-1,darg1241,Dargwa (Mugi dialect),1331,маза,CyrillTrans,sheep,,,maza,Phonemic
+3-240-510-1,darg1241,Dargwa (Mugi dialect),1989,къача,CyrillTrans,calf,,,q̄ača,Phonemic
+3-230-510-1,darg1241,Dargwa (Mugi dialect),1007,кьял,CyrillTrans,cow,,,q’aˁl,Phonemic
+3-220-510-1,darg1241,Dargwa (Mugi dialect),1169,бурхъибил бугъа,CyrillTrans,ox,,,burqibil buɣa,Phonemic
+3-210-510-1,darg1241,Dargwa (Mugi dialect),1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-510-1,darg1241,Dargwa (Mugi dialect),1153,хула мукукрар бугъни,CyrillTrans,cattle (bovine),,,xula mukukrar buɣni,Phonemic
+3-190-510-1,darg1241,Dargwa (Mugi dialect),851,урчнала дярхъ-тІини,CyrillTrans,"stable, stall",,,určnala daˁrq-t’ini,Phonemic
+3-180-510-1,darg1241,Dargwa (Mugi dialect),263,букІун,CyrillTrans,herdsman,,,buk’un,Phonemic
+3-160-510-1,darg1241,Dargwa (Mugi dialect),649,дуки-гьунила мер,CyrillTrans,pasture,,,duki-hunila mer,Phonemic
+3-150-510-1,darg1241,Dargwa (Mugi dialect),631,кьяли,CyrillTrans,livestock,,,q’aˁli,Phonemic
+3-130-510-1,darg1241,Dargwa (Mugi dialect),2262,хьунул жинсла,CyrillTrans,female (adj),,,x̌unul žinsla,Phonemic
+3-120-510-1,darg1241,Dargwa (Mugi dialect),2261,мурул жинсла,CyrillTrans,male (adj),,,murul žinsla,Phonemic
+3-110-510-1,darg1241,Dargwa (Mugi dialect),619,мицІирак,CyrillTrans,animal,,,mic’irak,Phonemic
+2-960-510-1,darg1241,Dargwa (Mugi dialect),817,итди,CyrillTrans,they,,,itdi,Phonemic
+2-950-510-1,darg1241,Dargwa (Mugi dialect),1213,хІуша,CyrillTrans,you (plural),,,ħuša,Phonemic
+2-940-510-1,darg1241,Dargwa (Mugi dialect),1212,нуша,CyrillTrans,we,,,nuša,Phonemic
+2-930-510-1,darg1241,Dargwa (Mugi dialect),262,сай,CyrillTrans,he/she/it,,,"say, sab, sari",Phonemic
+2-930-510-3,darg1241,Dargwa (Mugi dialect),262,саб,CyrillTrans,he/she/it,,,"say, sab, sari",Phonemic
+2-930-510-5,darg1241,Dargwa (Mugi dialect),262,сари,CyrillTrans,he/she/it,,,"say, sab, sari",Phonemic
+2-920-510-1,darg1241,Dargwa (Mugi dialect),1215,хІу,CyrillTrans,you (singular),,,ħu,Phonemic
+2-910-510-1,darg1241,Dargwa (Mugi dialect),1209,ну,CyrillTrans,I,,,nu,Phonemic
+2-820-510-1,darg1241,Dargwa (Mugi dialect),194,хъалибарк,CyrillTrans,family,,,qalibark,Phonemic
+2-810-510-1,darg1241,Dargwa (Mugi dialect),1644,тухумти,CyrillTrans,"relatives, kinsmen",,,tuxumti,Phonemic
+2-770-510-1,darg1241,Dargwa (Mugi dialect),1981,гамъа мурул,CyrillTrans,widower,,,gamɁa murul,Phonemic
+2-760-510-1,darg1241,Dargwa (Mugi dialect),1756,гамъа,CyrillTrans,widow,,,gamɁa,Phonemic
+2-750-510-1,darg1241,Dargwa (Mugi dialect),1149,цІуръа,CyrillTrans,orphan,,,c’urɁa,Phonemic
+2-740-510-1,darg1241,Dargwa (Mugi dialect),1058,угай рурси,CyrillTrans,stepdaughter,,,ugay rursi,Phonemic
+2-730-510-1,darg1241,Dargwa (Mugi dialect),1059,угай дархІа,CyrillTrans,stepson,,,ugay darħa,Phonemic
+2-720-510-1,darg1241,Dargwa (Mugi dialect),236,угай аба,CyrillTrans,stepmother,,,ugay aba,Phonemic
+2-710-510-1,darg1241,Dargwa (Mugi dialect),237,угай ата,CyrillTrans,stepfather,,,ugay ata,Phonemic
+2-641-510-1,darg1241,Dargwa (Mugi dialect),2264,гелешмеш,CyrillTrans,daughter-in-law (of a woman),,,gelešmeš,Phonemic
+2-640-510-1,darg1241,Dargwa (Mugi dialect),2265,дархІала хьунул,CyrillTrans,daughter-in-law (of a man),,,darħala x̌unul,Phonemic
+2-631-510-1,darg1241,Dargwa (Mugi dialect),2266,гуяв,CyrillTrans,son-in-law (of a woman),,,guyaw,Phonemic
+2-630-510-1,darg1241,Dargwa (Mugi dialect),2267,гуяв,CyrillTrans,son-in-law (of a man),,,guyaw,Phonemic
+2-621-510-1,darg1241,Dargwa (Mugi dialect),2257,хъубиша аба,CyrillTrans,mother-in-law (of a woman),,,"qubiša aba, x̌unulla (x̌una) aba",Phonemic
+2-621-510-3,darg1241,Dargwa (Mugi dialect),2257,хьунулла (хьуна) аба,CyrillTrans,mother-in-law (of a woman),,,"qubiša aba, x̌unulla (x̌una) aba",Phonemic
+2-620-510-1,darg1241,Dargwa (Mugi dialect),2256,хъубиша аба,CyrillTrans,mother-in-law (of a man),,,"qubiša aba, murgulla aba",Phonemic
+2-620-510-3,darg1241,Dargwa (Mugi dialect),2256,мургулла аба,CyrillTrans,mother-in-law (of a man),,,"qubiša aba, murgulla aba",Phonemic
+2-611-510-1,darg1241,Dargwa (Mugi dialect),2254,хъубиша ата,CyrillTrans,father-in-law (of a woman),,,"qubiša ata, x̌unulla (x̌una) ata",Phonemic
+2-611-510-3,darg1241,Dargwa (Mugi dialect),2254,хьунулла (хьуна) ата,CyrillTrans,father-in-law (of a woman),,,"qubiša ata, x̌unulla (x̌una) ata",Phonemic
+2-610-510-1,darg1241,Dargwa (Mugi dialect),2255,хъубиша ата,CyrillTrans,father-in-law (of a man),,,"qubiša ata, murgulla ata",Phonemic
+2-610-510-3,darg1241,Dargwa (Mugi dialect),2255,мургулла ата,CyrillTrans,father-in-law (of a man),,,"qubiša ata, murgulla ata",Phonemic
+2-570-510-1,darg1241,Dargwa (Mugi dialect),490,гІурла наслу,CyrillTrans,descendants,,,ʕurla naslu,Phonemic
+2-560-510-1,darg1241,Dargwa (Mugi dialect),1669,гьалабла наслу,CyrillTrans,ancestors,,,halabla naslu,Phonemic
+2-550-510-1,darg1241,Dargwa (Mugi dialect),1643,уцикьар,CyrillTrans,cousin,,,"uciq’ar, ruciq’ar",Phonemic
+2-550-510-3,darg1241,Dargwa (Mugi dialect),1643,руцикьар,CyrillTrans,cousin,,,"uciq’ar, ruciq’ar",Phonemic
+2-540-510-1,darg1241,Dargwa (Mugi dialect),1642,уцила рурси,CyrillTrans,niece,,,"ucila rursi, rucila rursi",Phonemic
+2-540-510-3,darg1241,Dargwa (Mugi dialect),1642,руцила рурси,CyrillTrans,niece,,,"ucila rursi, rucila rursi",Phonemic
+2-530-510-1,darg1241,Dargwa (Mugi dialect),1063,уцила дархІа,CyrillTrans,nephew,,,"ucila darħa, rucila darħa",Phonemic
+2-530-510-3,darg1241,Dargwa (Mugi dialect),1063,руцила дархІа,CyrillTrans,nephew,,,"ucila darħa, rucila darħa",Phonemic
+2-522-510-1,darg1241,Dargwa (Mugi dialect),170,атала руци,CyrillTrans,father's sister,,,atala ruci,Phonemic
+2-520-510-1,darg1241,Dargwa (Mugi dialect),1272,абаци,CyrillTrans,aunt,,,abaci,Phonemic
+2-521-510-1,darg1241,Dargwa (Mugi dialect),171,абала руци,CyrillTrans,mother's sister,,,abala ruci,Phonemic
+2-512-510-1,darg1241,Dargwa (Mugi dialect),1985,атала уци,CyrillTrans,father's brother,,,atala uci,Phonemic
+2-511-510-1,darg1241,Dargwa (Mugi dialect),1984,абала уци,CyrillTrans,mother's brother,,,abala uci,Phonemic
+2-510-510-1,darg1241,Dargwa (Mugi dialect),1327,аци,CyrillTrans,uncle,,,aci,Phonemic
+2-480-510-1,darg1241,Dargwa (Mugi dialect),1618,дархІала дархІа,CyrillTrans,grandson,,,"darħala darħa, rursila darħa",Phonemic
+2-480-510-3,darg1241,Dargwa (Mugi dialect),1618,рурсила дархІа,CyrillTrans,grandson,,,"darħala darħa, rursila darħa",Phonemic
+2-490-510-1,darg1241,Dargwa (Mugi dialect),1619,дархІала рурси,CyrillTrans,granddaughter,,,"darħala rursi, rursila rursi",Phonemic
+2-490-510-3,darg1241,Dargwa (Mugi dialect),1619,рурсила рурси,CyrillTrans,granddaughter,,,"darħala rursi, rursila rursi",Phonemic
+2-471-510-1,darg1241,Dargwa (Mugi dialect),907,рухъна,CyrillTrans,old woman,,,ruqna,Phonemic
+2-470-510-1,darg1241,Dargwa (Mugi dialect),1496,хула аба,CyrillTrans,grandmother,,,xula aba,Phonemic
+2-461-510-1,darg1241,Dargwa (Mugi dialect),406,ухъна,CyrillTrans,old man,,,uqna,Phonemic
+2-460-510-1,darg1241,Dargwa (Mugi dialect),1383,хула ата,CyrillTrans,grandfather,,,xula ata,Phonemic
+2-458-510-1,darg1241,Dargwa (Mugi dialect),1005,кІилизанти,CyrillTrans,twins,,,k’ilizanti,Phonemic
+2-456-510-1,darg1241,Dargwa (Mugi dialect),1640,уци-руци,CyrillTrans,sibling,,,uci-ruci,Phonemic
+2-455-510-1,darg1241,Dargwa (Mugi dialect),1761,риштІал руци,CyrillTrans,younger sister,,,rišt’al ruci,Phonemic
+2-454-510-1,darg1241,Dargwa (Mugi dialect),1758,хулал руци,CyrillTrans,older sister,,,xulal ruci,Phonemic
+2-450-510-1,darg1241,Dargwa (Mugi dialect),1263,руци,CyrillTrans,sister,,,ruci,Phonemic
+2-445-510-1,darg1241,Dargwa (Mugi dialect),1760,иштІал уци,CyrillTrans,younger brother,,,išt’al uci,Phonemic
+2-444-510-1,darg1241,Dargwa (Mugi dialect),1759,хулал уци,CyrillTrans,older brother,,,xulal uci,Phonemic
+2-440-510-1,darg1241,Dargwa (Mugi dialect),1262,уци,CyrillTrans,brother,,,uci,Phonemic
+2-430-510-1,darg1241,Dargwa (Mugi dialect),1801,хъяшеси,CyrillTrans,offspring (son or daughter),,,qaˁšesi,Phonemic
+2-420-510-1,darg1241,Dargwa (Mugi dialect),1357,рурси,CyrillTrans,daughter,,,rursi,Phonemic
+2-410-510-1,darg1241,Dargwa (Mugi dialect),1620,дархІа,CyrillTrans,son,,,darħa,Phonemic
+2-390-510-1,darg1241,Dargwa (Mugi dialect),426,ширирикьянил,CyrillTrans,married woman,,,šiririq’aˁnil,Phonemic
+2-380-510-1,darg1241,Dargwa (Mugi dialect),424,хъаигьубил,CyrillTrans,married man,,,qaihubil,Phonemic
+2-370-510-1,darg1241,Dargwa (Mugi dialect),505,бегІти,CyrillTrans,parents,,,beʕti,Phonemic
+2-360-510-1,darg1241,Dargwa (Mugi dialect),1216,аба,CyrillTrans,mother,,,aba,Phonemic
+2-350-510-1,darg1241,Dargwa (Mugi dialect),1217,ата,CyrillTrans,father,,,ata,Phonemic
+2-341-510-1,darg1241,Dargwa (Mugi dialect),1134,хъалцІа дуэс,CyrillTrans,divorce,,,qalc’a duʔes,Phonemic
+2-340-510-1,darg1241,Dargwa (Mugi dialect),1259,микъ,CyrillTrans,"marriage, wedding",,,miq̄,Phonemic
+2-330-510-1,darg1241,Dargwa (Mugi dialect),203,хъаигьарec,CyrillTrans,marry,,,"qaihares, šeri ruq’aˁnes",Phonemic
+2-330-510-3,darg1241,Dargwa (Mugi dialect),203,шери рукьянec,CyrillTrans,marry,,,"qaihares, šeri ruq’aˁnes",Phonemic
+2-320-510-1,darg1241,Dargwa (Mugi dialect),1199,хьунул,CyrillTrans,wife,,,x̌unul,Phonemic
+2-310-510-1,darg1241,Dargwa (Mugi dialect),1200,мурул,CyrillTrans,husband,,,murul,Phonemic
+2-280-510-1,darg1241,Dargwa (Mugi dialect),1289,виштІаси,CyrillTrans,"infant, baby",,,wišt’asi,Phonemic
+2-270-510-1,darg1241,Dargwa (Mugi dialect),1304,хъяша,CyrillTrans,child,,,qaˁša,Phonemic
+2-261-510-1,darg1241,Dargwa (Mugi dialect),77,чехьери,CyrillTrans,young woman (adolescent),,,čex̌eri,Phonemic
+2-260-510-1,darg1241,Dargwa (Mugi dialect),1646,рурси,CyrillTrans,girl,,,rursi,Phonemic
+2-251-510-1,darg1241,Dargwa (Mugi dialect),76,гІулухъа,CyrillTrans,young man (adolescent),,,ʕuluqa,Phonemic
+2-250-510-1,darg1241,Dargwa (Mugi dialect),1366,дархІя,CyrillTrans,boy,,,darħaˁ,Phonemic
+2-240-510-1,darg1241,Dargwa (Mugi dialect),1551,гача,CyrillTrans,female,,,gača,Phonemic
+2-230-510-1,darg1241,Dargwa (Mugi dialect),1553,марга,CyrillTrans,male,,,marga,Phonemic
+2-220-510-1,darg1241,Dargwa (Mugi dialect),962,хьунул адамгІил,CyrillTrans,woman,,,x̌unul adamʕil,Phonemic
+2-210-510-1,darg1241,Dargwa (Mugi dialect),1554,мургул адамгІил,CyrillTrans,man (vs. woman),,,murgul adamʕil,Phonemic
+2-100-510-1,darg1241,Dargwa (Mugi dialect),683,адамгІил,CyrillTrans,"person, human being",,,adamʕil,Phonemic
+1-890-510-1,darg1241,Dargwa (Mugi dialect),1188,га,CyrillTrans,charcoal,,,ga,Phonemic
+1-880-510-1,darg1241,Dargwa (Mugi dialect),10,урцІул,CyrillTrans,firewood,,,urc’ul,Phonemic
+1-870-510-1,darg1241,Dargwa (Mugi dialect),1133,пирхикІ,CyrillTrans,match (noun),,,pirxik’,Phonemic
+1-861-510-1,darg1241,Dargwa (Mugi dialect),127,бяшес,CyrillTrans,extinguish,,,baˁšes,Phonemic
+1-860-510-1,darg1241,Dargwa (Mugi dialect),737,абикьес,CyrillTrans,"light, kindle, ignite",,,abiq’es,Phonemic
+1-852-510-1,darg1241,Dargwa (Mugi dialect),1428,бикес,CyrillTrans,burn (vb intrans),,,bikes,Phonemic
+1-851-510-1,darg1241,Dargwa (Mugi dialect),141,цІалибигахъес,CyrillTrans,burn (vb trans),,,c’alibigaqes,Phonemic
+1-841-510-1,darg1241,Dargwa (Mugi dialect),67,дуцІарти га,CyrillTrans,embers,,,duc’arti ga,Phonemic
+1-840-510-1,darg1241,Dargwa (Mugi dialect),646,палда,CyrillTrans,ashes,,,palda,Phonemic
+1-830-510-1,darg1241,Dargwa (Mugi dialect),778,гав,CyrillTrans,smoke (noun),,,gaw,Phonemic
+1-820-510-1,darg1241,Dargwa (Mugi dialect),889,лами,CyrillTrans,flame (noun),,,lami,Phonemic
+1-810-510-1,darg1241,Dargwa (Mugi dialect),221,цІа,CyrillTrans,fire,,,c’a,Phonemic
+1-780-510-1,darg1241,Dargwa (Mugi dialect),952,аргъ,CyrillTrans,weather,,,arɣ,Phonemic
+1-770-510-1,darg1241,Dargwa (Mugi dialect),617,мигІкартІни,CyrillTrans,ice,,,miʕkart’ni,Phonemic
+1-760-510-1,darg1241,Dargwa (Mugi dialect),784,духІя,CyrillTrans,snow (noun),,,duħaˁ,Phonemic
+1-750-510-1,darg1241,Dargwa (Mugi dialect),658,заб,CyrillTrans,rain (noun),,,zab,Phonemic
+1-740-510-1,darg1241,Dargwa (Mugi dialect),249,дирихь,CyrillTrans,fog,,,dirix̌,Phonemic
+1-720-510-1,darg1241,Dargwa (Mugi dialect),960,дагІ,CyrillTrans,wind,,,daʕ,Phonemic
+1-730-510-1,darg1241,Dargwa (Mugi dialect),1489,къукри,CyrillTrans,cloud,,,q̄ukri,Phonemic
+1-710-510-1,darg1241,Dargwa (Mugi dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-510-1,darg1241,Dargwa (Mugi dialect),1977,марка,CyrillTrans,dew,,,marka,Phonemic
+1-630-510-1,darg1241,Dargwa (Mugi dialect),1388,бяхІти,CyrillTrans,"shade, shadow",,,baˁħti,Phonemic
+1-620-510-1,darg1241,Dargwa (Mugi dialect),11,цІябдиш,CyrillTrans,darkness,,,c’aˁbdiš,Phonemic
+1-610-510-1,darg1241,Dargwa (Mugi dialect),630,шала,CyrillTrans,light (noun),,,šala,Phonemic
+1-590-510-1,darg1241,Dargwa (Mugi dialect),1733,зурхІяб,CyrillTrans,rainbow,,,zurħaˁb,Phonemic
+1-580-510-1,darg1241,Dargwa (Mugi dialect),858,бурям,CyrillTrans,storm,,,buraˁm,Phonemic
+1-560-510-1,darg1241,Dargwa (Mugi dialect),1150,къукъу,CyrillTrans,thunder,,,q̄uq̄u,Phonemic
+1-570-510-1,darg1241,Dargwa (Mugi dialect),2007,лямцІлибяхъни,CyrillTrans,lightning (as striking),,,laˁmc’libaˁqni,Phonemic
+1-550-510-1,darg1241,Dargwa (Mugi dialect),1654,лямцІ,CyrillTrans,lightning,,,laˁmc’,Phonemic
+1-540-510-1,darg1241,Dargwa (Mugi dialect),1430,ури,CyrillTrans,star,,,uri,Phonemic
+1-530-510-1,darg1241,Dargwa (Mugi dialect),1313,бац,CyrillTrans,moon,,,bac,Phonemic
+1-520-510-1,darg1241,Dargwa (Mugi dialect),1343,бархІи,CyrillTrans,sun,,,barħi,Phonemic
+1-510-510-1,darg1241,Dargwa (Mugi dialect),1732,цубри,CyrillTrans,sky,,,cubri,Phonemic
+1-450-510-1,darg1241,Dargwa (Mugi dialect),6,мирсдакьни,CyrillTrans,earthquake,,,mirsdaq’ni,Phonemic
+1-440-510-1,darg1241,Dargwa (Mugi dialect),2125,къаркъа,CyrillTrans,"stone, rock",,,q̄arq̄a,Phonemic
+1-430-510-1,darg1241,Dargwa (Mugi dialect),1803,урцул,CyrillTrans,wood,,,urcul,Phonemic
+1-420-510-1,darg1241,Dargwa (Mugi dialect),906,калки,CyrillTrans,tree (cf 08.600),,,kalki,Phonemic
+1-410-510-1,darg1241,Dargwa (Mugi dialect),420,вацІа,CyrillTrans,"woods, forest",,,wac’a,Phonemic
+1-390-510-1,darg1241,Dargwa (Mugi dialect),943,чяхІя,CyrillTrans,waterfall,,,čaˁħaˁ,Phonemic
+1-380-510-1,darg1241,Dargwa (Mugi dialect),1145,билхІла,CyrillTrans,swamp,,,bilħla,Phonemic
+1-370-510-1,darg1241,Dargwa (Mugi dialect),2144,гІиниц,CyrillTrans,"spring, well",,,ʕinic,Phonemic
+1-362-510-1,darg1241,Dargwa (Mugi dialect),1982,шинна шившитІан,CyrillTrans,whirlpool,,,šinna šiwšit’an,Phonemic
+1-360-510-1,darg1241,Dargwa (Mugi dialect),666,хІиркІ,CyrillTrans,"river, stream, brook",,,ħirk’,Phonemic
+1-354-510-1,darg1241,Dargwa (Mugi dialect),613,ахъбигьни,CyrillTrans,hightide,,,aqbihni,Phonemic
+1-353-510-1,darg1241,Dargwa (Mugi dialect),1026,гІашкабаъни,CyrillTrans,lowtide,,,"ʕaškabaɁni, ʕilabaˁħ arbuq’ni",Phonemic
+1-353-510-3,darg1241,Dargwa (Mugi dialect),1026,гІилабяхІ арбукьни,CyrillTrans,lowtide,,,"ʕaškabaɁni, ʕilabaˁħ arbuq’ni",Phonemic
+1-352-510-1,darg1241,Dargwa (Mugi dialect),891,урхьу гІашбигьни ва ахъбигьни,CyrillTrans,tide,,,urx̌u ʕašbihni wa aqbihni,Phonemic
+1-350-510-1,darg1241,Dargwa (Mugi dialect),978,ругир,CyrillTrans,wave,,,rugir,Phonemic
+1-343-510-1,darg1241,Dargwa (Mugi dialect),1662,берубил мир,CyrillTrans,"headland, point",,,"berubil mir, but’a",Phonemic
+1-343-510-3,darg1241,Dargwa (Mugi dialect),1662,бутІа,CyrillTrans,"headland, point",,,"berubil mir, but’a",Phonemic
+1-342-510-1,darg1241,Dargwa (Mugi dialect),660,ухьула шурмала сирт,CyrillTrans,reef,,,ux̌ula šurmala sirt,Phonemic
+1-341-510-1,darg1241,Dargwa (Mugi dialect),623,кІав,CyrillTrans,lagoon,,,k’aw,Phonemic
+1-340-510-1,darg1241,Dargwa (Mugi dialect),663,урхьула кьяли,CyrillTrans,"gulf, bay",,,"urx̌ula q’aˁli, dub",Phonemic
+1-340-510-3,darg1241,Dargwa (Mugi dialect),663,дуб,CyrillTrans,"gulf, bay",,,"urx̌ula q’aˁli, dub",Phonemic
+1-330-510-1,darg1241,Dargwa (Mugi dialect),624,шурай,CyrillTrans,lake,,,šuray,Phonemic
+1-329-510-1,darg1241,Dargwa (Mugi dialect),645,хулал урхьу,CyrillTrans,ocean,,,xulal urx̌u,Phonemic
+1-324-510-1,darg1241,Dargwa (Mugi dialect),1768,хьулихьа,CyrillTrans,foam,,,x̌ulix̌a,Phonemic
+1-323-510-1,darg1241,Dargwa (Mugi dialect),259,бамкьурил (урхьу),CyrillTrans,rough (of sea),,,bamq’uril (urx̌u),Phonemic
+1-320-510-1,darg1241,Dargwa (Mugi dialect),1474,урхьу,CyrillTrans,sea,,,urx̌u,Phonemic
+1-322-510-1,darg1241,Dargwa (Mugi dialect),258,паргъатил (урхьу),CyrillTrans,calm (of sea),,,parɣatil (urx̌u),Phonemic
+1-310-510-1,darg1241,Dargwa (Mugi dialect),948,шин,CyrillTrans,water,,,šin,Phonemic
+1-280-510-1,darg1241,Dargwa (Mugi dialect),1155,гІиникъ,CyrillTrans,cave,,,ʕiniq̄,Phonemic
+1-270-510-1,darg1241,Dargwa (Mugi dialect),113,урхьнала дуб,CyrillTrans,shore,,,urx̌nala dub,Phonemic
+1-260-510-1,darg1241,Dargwa (Mugi dialect),166,дегъ,CyrillTrans,mainland,,,"deɣ, kantinent",Phonemic
+1-260-510-3,darg1241,Dargwa (Mugi dialect),166,кантинент,CyrillTrans,mainland,,,"deɣ, kantinent",Phonemic
+1-250-510-1,darg1241,Dargwa (Mugi dialect),622,шинли алавбуцибил биръубил мир,CyrillTrans,island,,,šinli alawbucibil birɁubil mir,Phonemic
+1-240-510-1,darg1241,Dargwa (Mugi dialect),921,барк,CyrillTrans,valley,,,bark,Phonemic
+1-230-510-1,darg1241,Dargwa (Mugi dialect),652,диркьбик,CyrillTrans,"plain, field",,,dirq’bik,Phonemic
+1-222-510-1,darg1241,Dargwa (Mugi dialect),618,ахъил,CyrillTrans,"cliff, precipice",,,"aqil, šurla baˁħ, lusen",Phonemic
+1-222-510-3,darg1241,Dargwa (Mugi dialect),618,шурла бяхІ,CyrillTrans,"cliff, precipice",,,"aqil, šurla baˁħ, lusen",Phonemic
+1-222-510-5,darg1241,Dargwa (Mugi dialect),618,лусен,CyrillTrans,"cliff, precipice",,,"aqil, šurla baˁħ, lusen",Phonemic
+1-220-510-1,darg1241,Dargwa (Mugi dialect),2118,музабицурил мир,CyrillTrans,"mountain, hill",,,"muzabicuril mir, dubura",Phonemic
+1-220-510-3,darg1241,Dargwa (Mugi dialect),2118,дубура,CyrillTrans,"mountain, hill",,,"muzabicuril mir, dubura",Phonemic
+1-214-510-1,darg1241,Dargwa (Mugi dialect),640,няс,CyrillTrans,mud,,,"naˁs, čaˁt",Phonemic
+1-214-510-3,darg1241,Dargwa (Mugi dialect),640,чят,CyrillTrans,mud,,,"naˁs, čaˁt",Phonemic
+1-215-510-1,darg1241,Dargwa (Mugi dialect),671,гъум,CyrillTrans,sand,,,ɣum,Phonemic
+1-213-510-1,darg1241,Dargwa (Mugi dialect),2,хиса,CyrillTrans,dust,,,"xisa, puħ",Phonemic
+1-213-510-3,darg1241,Dargwa (Mugi dialect),2,пухІ,CyrillTrans,dust,,,"xisa, puħ",Phonemic
+1-212-510-1,darg1241,Dargwa (Mugi dialect),1228,ванза,CyrillTrans,"earth=ground, soil",,,"wanza, ʕaˁnži",Phonemic
+1-212-510-3,darg1241,Dargwa (Mugi dialect),1228,гІянжи,CyrillTrans,"earth=ground, soil",,,"wanza, ʕaˁnži",Phonemic
+1-210-510-1,darg1241,Dargwa (Mugi dialect),626,улка,CyrillTrans,"earth, land",,,"ulka, pačaliq̄",Phonemic
+1-210-510-3,darg1241,Dargwa (Mugi dialect),626,пачаликъ,CyrillTrans,"earth, land",,,"ulka, pačaliq̄",Phonemic
+1-100-510-1,darg1241,Dargwa (Mugi dialect),965,дунъя,CyrillTrans,world,,,dunya,Phonemic
+14-330-510-1,darg1241,Dargwa (Mugi dialect),1544,рахли,CyrillTrans,sometimes,,,raxli,Phonemic
+14-331-510-1,darg1241,Dargwa (Mugi dialect),703,гъамли,CyrillTrans,soon,,,ɣamli,Phonemic
+14-332-510-1,darg1241,Dargwa (Mugi dialect),418,хулар заманали биркьан,CyrillTrans,long-time (for a),,,xular zamanali birq’an,Phonemic
+14-340-510-1,darg1241,Dargwa (Mugi dialect),1656,гьачамалра,CyrillTrans,never,,,hačamalra,Phonemic
+14-350-510-1,darg1241,Dargwa (Mugi dialect),204,сагали,CyrillTrans,again,,,sagali,Phonemic
+14-410-510-1,darg1241,Dargwa (Mugi dialect),1225,бархІи,CyrillTrans,day,,,barħi,Phonemic
+14-420-510-1,darg1241,Dargwa (Mugi dialect),1233,дуги,CyrillTrans,night,,,dugi,Phonemic
+14-430-510-1,darg1241,Dargwa (Mugi dialect),729,хІунтІеншала,CyrillTrans,dawn,,,ħunt’enšala,Phonemic
+14-440-510-1,darg1241,Dargwa (Mugi dialect),1339,гІанручІ,CyrillTrans,morning,,,ʕanruč’,Phonemic
+14-450-510-1,darg1241,Dargwa (Mugi dialect),12,хІирес,CyrillTrans,"noon, midday",,,ħires,Phonemic
+14-451-510-1,darg1241,Dargwa (Mugi dialect),1807,икІралла,CyrillTrans,afternoon,,,ik’ralla,Phonemic
+14-460-510-1,darg1241,Dargwa (Mugi dialect),1629,берхІехъ,CyrillTrans,evening,,,berħeq,Phonemic
+14-470-510-1,darg1241,Dargwa (Mugi dialect),1283,ишбархІи,CyrillTrans,today,,,išbarħi,Phonemic
+14-480-510-1,darg1241,Dargwa (Mugi dialect),1329,жягІял,CyrillTrans,tomorrow,,,žaˁʕaˁl,Phonemic
+14-481-510-1,darg1241,Dargwa (Mugi dialect),1179,царахІел,CyrillTrans,day-after-tomorrow,,,caraħel,Phonemic
+14-490-510-1,darg1241,Dargwa (Mugi dialect),1174,даг,CyrillTrans,yesterday,,,dag,Phonemic
+14-491-510-1,darg1241,Dargwa (Mugi dialect),1180,гьабил бархІи,CyrillTrans,day-before-yesterday,,,habil barħi,Phonemic
+14-510-510-1,darg1241,Dargwa (Mugi dialect),1353,сягІят,CyrillTrans,hour,,,saˁʕaˁt,Phonemic
+14-530-510-1,darg1241,Dargwa (Mugi dialect),1323,сягІят,CyrillTrans,"clock, timepiece",,,saˁʕaˁt,Phonemic
+14-610-510-1,darg1241,Dargwa (Mugi dialect),1469,жумягІ,CyrillTrans,week,,,"žumaˁʕ, barsur barħi",Phonemic
+14-610-510-3,darg1241,Dargwa (Mugi dialect),1469,барсур бархІи,CyrillTrans,week,,,"žumaˁʕ, barsur barħi",Phonemic
+14-620-510-1,darg1241,Dargwa (Mugi dialect),1699,алхІят,CyrillTrans,Sunday,,,alħaˁt,Phonemic
+14-630-510-1,darg1241,Dargwa (Mugi dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-510-1,darg1241,Dargwa (Mugi dialect),1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-510-1,darg1241,Dargwa (Mugi dialect),1694,арбягІ,CyrillTrans,Wednesday,,,arbaˁʕ,Phonemic
+14-660-510-1,darg1241,Dargwa (Mugi dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-510-1,darg1241,Dargwa (Mugi dialect),1692,жумягІ,CyrillTrans,Friday,,,žumaˁʕ,Phonemic
+14-680-510-1,darg1241,Dargwa (Mugi dialect),1700,сут,CyrillTrans,Saturday,,,sut,Phonemic
+14-710-510-1,darg1241,Dargwa (Mugi dialect),1370,бац,CyrillTrans,month,,,bac,Phonemic
+14-730-510-1,darg1241,Dargwa (Mugi dialect),1226,дус,CyrillTrans,year,,,dus,Phonemic
+14-740-510-1,darg1241,Dargwa (Mugi dialect),1471,гени,CyrillTrans,winter,,,geni,Phonemic
+14-750-510-1,darg1241,Dargwa (Mugi dialect),1537,хІеб,CyrillTrans,spring,,,ħeb,Phonemic
+14-760-510-1,darg1241,Dargwa (Mugi dialect),1342,дуцІрум,CyrillTrans,summer,,,duc’rum,Phonemic
+14-770-510-1,darg1241,Dargwa (Mugi dialect),1276,гІебшни,CyrillTrans,autumn,,,ʕebšni,Phonemic
+14-780-510-1,darg1241,Dargwa (Mugi dialect),691,дусла бухІнаб,CyrillTrans,season,,,dusla buħnab,Phonemic
+15-210-510-1,darg1241,Dargwa (Mugi dialect),1587,тІембикІес,CyrillTrans,smell (vb intrans),,,t’embik’es,Phonemic
+15-212-510-1,darg1241,Dargwa (Mugi dialect),375,сясикІес,CyrillTrans,sniff,,,saˁsik’es,Phonemic
+15-220-510-1,darg1241,Dargwa (Mugi dialect),1586,сунтІикІес,CyrillTrans,smell (vb trans),,,sunt’ik’es,Phonemic
+15-250-510-1,darg1241,Dargwa (Mugi dialect),376,гІяхІна тІим,CyrillTrans,"fragrant, good smelling",,,ʕaˁħna t’im,Phonemic
+15-260-510-1,darg1241,Dargwa (Mugi dialect),42,гягІ,CyrillTrans,"stinking, bad smelling",,,gaˁʕ,Phonemic
+15-310-510-1,darg1241,Dargwa (Mugi dialect),21,бизидеш,CyrillTrans,taste,,,bizideš,Phonemic
+15-350-510-1,darg1241,Dargwa (Mugi dialect),717,муръил,CyrillTrans,sweet,,,murɁil,Phonemic
+15-360-510-1,darg1241,Dargwa (Mugi dialect),1091,зуйил,CyrillTrans,salty,,,zuyil,Phonemic
+15-370-510-1,darg1241,Dargwa (Mugi dialect),887,кьутІкьул,CyrillTrans,bitter,,,q’ut’q’ul,Phonemic
+15-380-510-1,darg1241,Dargwa (Mugi dialect),1906,цІикІил,CyrillTrans,"acid, sour",,,c’ik’il,Phonemic
+15-390-510-1,darg1241,Dargwa (Mugi dialect),70,зетІемил,CyrillTrans,brackish,,,zet’emil,Phonemic
+15-410-510-1,darg1241,Dargwa (Mugi dialect),1408,иргъес,CyrillTrans,hear,,,irɣes,Phonemic
+15-420-510-1,darg1241,Dargwa (Mugi dialect),1608,лехІахъара,CyrillTrans,listen,,,leħaqara,Phonemic
+15-440-510-1,darg1241,Dargwa (Mugi dialect),1811,тІама,CyrillTrans,"sound, noise",,,"t’ama, waˁšat’ala",Phonemic
+15-440-510-3,darg1241,Dargwa (Mugi dialect),1811,вяшатІала,CyrillTrans,"sound, noise",,,"t’ama, waˁšat’ala",Phonemic
+15-450-510-1,darg1241,Dargwa (Mugi dialect),377,акъил,CyrillTrans,loud,,,aq̄il,Phonemic
+15-460-510-1,darg1241,Dargwa (Mugi dialect),1314,малхІямил,CyrillTrans,"quiet, silence",,,"malħaˁmil, lek’kaqibil",Phonemic
+15-460-510-3,darg1241,Dargwa (Mugi dialect),1314,лекІкахъибил,CyrillTrans,"quiet, silence",,,"malħaˁmil, lek’kaqibil",Phonemic
+15-510-510-1,darg1241,Dargwa (Mugi dialect),1409,кибиэс,CyrillTrans,see,,,kibiʔes,Phonemic
+15-520-510-1,darg1241,Dargwa (Mugi dialect),1819,хІерикІес,CyrillTrans,"look, look at",,,ħerik’es,Phonemic
+15-550-510-1,darg1241,Dargwa (Mugi dialect),1039,кибниахъес,CyrillTrans,show,,,kibniaqes,Phonemic
+15-560-510-1,darg1241,Dargwa (Mugi dialect),708,шалабикІес,CyrillTrans,shine,,,šalabik’es,Phonemic
+15-570-510-1,darg1241,Dargwa (Mugi dialect),679,шалал,CyrillTrans,bright,,,šalal,Phonemic
+15-610-510-1,darg1241,Dargwa (Mugi dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-510-1,darg1241,Dargwa (Mugi dialect),250,шалал,CyrillTrans,light (in color),,,šalal,Phonemic
+15-630-510-1,darg1241,Dargwa (Mugi dialect),706,цІяба,CyrillTrans,dark (in color),,,c’aˁba,Phonemic
+15-640-510-1,darg1241,Dargwa (Mugi dialect),1335,цІуба,CyrillTrans,white,,,c’uba,Phonemic
+15-650-510-1,darg1241,Dargwa (Mugi dialect),163,цІудара,CyrillTrans,black,,,c’udara,Phonemic
+15-660-510-1,darg1241,Dargwa (Mugi dialect),156,хІинтІина,CyrillTrans,red,,,ħint’ina,Phonemic
+15-670-510-1,darg1241,Dargwa (Mugi dialect),837,хьанцІа,CyrillTrans,blue,,,x̌anc’a,Phonemic
+15-680-510-1,darg1241,Dargwa (Mugi dialect),1425,шиниша,CyrillTrans,green,,,šiniša,Phonemic
+15-690-510-1,darg1241,Dargwa (Mugi dialect),1424,бухъутІа,CyrillTrans,yellow,,,buqut’a,Phonemic
+15-710-510-1,darg1241,Dargwa (Mugi dialect),1892,гачикес,CyrillTrans,touch,,,gačikes,Phonemic
+15-712-510-1,darg1241,Dargwa (Mugi dialect),378,къипикIес,CyrillTrans,pinch,,,q̄ipik’es,Phonemic
+15-720-510-1,darg1241,Dargwa (Mugi dialect),1079,кьаркьай балес,CyrillTrans,feel,,,q’arq’ay bales,Phonemic
+15-740-510-1,darg1241,Dargwa (Mugi dialect),1884,чІумал,CyrillTrans,hard,,,č’umal,Phonemic
+15-750-510-1,darg1241,Dargwa (Mugi dialect),1856,кІантІил,CyrillTrans,soft,,,k’ant’il,Phonemic
+15-760-510-1,darg1241,Dargwa (Mugi dialect),1923,чурхси,CyrillTrans,rough,,,čurxsi,Phonemic
+15-770-510-1,darg1241,Dargwa (Mugi dialect),1234,лугІянил,CyrillTrans,smooth,,,luʕaˁnil,Phonemic
+15-780-510-1,darg1241,Dargwa (Mugi dialect),1396,бехІла бегІ,CyrillTrans,sharp,,,beħla beʕ,Phonemic
+15-790-510-1,darg1241,Dargwa (Mugi dialect),379,кьутал,CyrillTrans,"blunt, dull",,,q’utal,Phonemic
+15-810-510-1,darg1241,Dargwa (Mugi dialect),1210,дикІил,CyrillTrans,heavy,,,dik’il,Phonemic
+15-820-510-1,darg1241,Dargwa (Mugi dialect),1052,кумкил,CyrillTrans,light (in weight),,,kumkil,Phonemic
+15-830-510-1,darg1241,Dargwa (Mugi dialect),1726,шинкІал,CyrillTrans,"wet, damp",,,šink’al,Phonemic
+15-840-510-1,darg1241,Dargwa (Mugi dialect),1398,биръубил,CyrillTrans,dry,,,birɁubil,Phonemic
+15-850-510-1,darg1241,Dargwa (Mugi dialect),1286,буцІарил,CyrillTrans,hot,,,buc’aril,Phonemic
+15-851-510-1,darg1241,Dargwa (Mugi dialect),1232,ванал,CyrillTrans,warm,,,wanal,Phonemic
+15-860-510-1,darg1241,Dargwa (Mugi dialect),1287,баргІябил,CyrillTrans,cold,,,barʕaˁbil,Phonemic
+15-870-510-1,darg1241,Dargwa (Mugi dialect),704,умъул,CyrillTrans,clean,,,umɁul,Phonemic
+15-880-510-1,darg1241,Dargwa (Mugi dialect),1230,нясил,CyrillTrans,"dirty, soiled",,,naˁsil,Phonemic
+15-890-510-1,darg1241,Dargwa (Mugi dialect),380,гъянчІбигьубил,CyrillTrans,wrinkled,,,ɣaˁnč’bihubil,Phonemic
+16-110-510-1,darg1241,Dargwa (Mugi dialect),53,рахІ,CyrillTrans,"soul, spirit",,,"raħ, ruħ",Phonemic
+16-110-510-3,darg1241,Dargwa (Mugi dialect),53,рухІ,CyrillTrans,"soul, spirit",,,"raħ, ruħ",Phonemic
+16-150-510-1,darg1241,Dargwa (Mugi dialect),1572,тамашаигьубил,CyrillTrans,"surprised, astonished",,,tamašaihubil,Phonemic
+16-180-510-1,darg1241,Dargwa (Mugi dialect),720,гьарбизни,CyrillTrans,"good fortune, luck",,,harbizni,Phonemic
+16-190-510-1,darg1241,Dargwa (Mugi dialect),56,гьархІебизур,CyrillTrans,"misfortune, bad luck",,,harħebizur,Phonemic
+16-230-510-1,darg1241,Dargwa (Mugi dialect),1495,разил,CyrillTrans,"joyful, glad, happy",,,razil,Phonemic
+16-250-510-1,darg1241,Dargwa (Mugi dialect),1355,дукалирхІес,CyrillTrans,laugh,,,dukalirħes,Phonemic
+16-251-510-1,darg1241,Dargwa (Mugi dialect),1451,гъинчІилзес,CyrillTrans,smile,,,ɣinč’ilzes,Phonemic
+16-260-510-1,darg1241,Dargwa (Mugi dialect),1413,хІязли иркьес,CyrillTrans,play,,,ħaˁzli irq’es,Phonemic
+16-270-510-1,darg1241,Dargwa (Mugi dialect),923,дигахъес,CyrillTrans,love,,,digaqes,Phonemic
+16-290-510-1,darg1241,Dargwa (Mugi dialect),578,уммайдарес,CyrillTrans,kiss,,,ummaydares,Phonemic
+16-300-510-1,darg1241,Dargwa (Mugi dialect),928,кІапІуцес,CyrillTrans,embrace,,,k’ap’uces,Phonemic
+16-310-510-1,darg1241,Dargwa (Mugi dialect),1783,изала,CyrillTrans,pain,,,izala,Phonemic
+16-320-510-1,darg1241,Dargwa (Mugi dialect),1668,вагьилдиш,CyrillTrans,"grief, sorrow, sadness",,,wahildiš,Phonemic
+16-330-510-1,darg1241,Dargwa (Mugi dialect),1000,гъузгъалди,CyrillTrans,"anxiety, worry",,,ɣuzɣaldi,Phonemic
+16-340-510-1,darg1241,Dargwa (Mugi dialect),1875,пашманигьес,CyrillTrans,"regret, be sorry",,,pašmanihes,Phonemic
+16-350-510-1,darg1241,Dargwa (Mugi dialect),1141,уркІецІи,CyrillTrans,pity,,,urk’ec’i,Phonemic
+16-370-510-1,darg1241,Dargwa (Mugi dialect),1839,гьуеикІес,CyrillTrans,"cry, weep",,,"huyeik’es, saˁmq’ik’es",Phonemic
+16-370-510-3,darg1241,Dargwa (Mugi dialect),1839,сямкьикІес,CyrillTrans,"cry, weep",,,"huyeik’es, saˁmq’ik’es",Phonemic
+16-380-510-1,darg1241,Dargwa (Mugi dialect),1651,нургьби,CyrillTrans,tear (noun),,,nurhbi,Phonemic
+16-390-510-1,darg1241,Dargwa (Mugi dialect),716,цІумикІес,CyrillTrans,groan,,,c’umik’es,Phonemic
+16-410-510-1,darg1241,Dargwa (Mugi dialect),1607,гьимидулхъес,CyrillTrans,hate,,,himidulqes,Phonemic
+16-420-510-1,darg1241,Dargwa (Mugi dialect),82,гІяссидиш,CyrillTrans,anger,,,ʕaˁs̄idiš,Phonemic
+16-440-510-1,darg1241,Dargwa (Mugi dialect),40,хІясратдиш,CyrillTrans,"envy, jealousy",,,ħaˁsratdiš,Phonemic
+16-450-510-1,darg1241,Dargwa (Mugi dialect),1776,урези,CyrillTrans,shame (noun),,,urezi,Phonemic
+16-480-510-1,darg1241,Dargwa (Mugi dialect),174,хамил,CyrillTrans,proud,,,xamil,Phonemic
+16-510-510-1,darg1241,Dargwa (Mugi dialect),1779,цІакьил адам,CyrillTrans,dare,,,c’aq’il adam,Phonemic
+16-520-510-1,darg1241,Dargwa (Mugi dialect),3,гъабза,CyrillTrans,brave,,,ɣabza,Phonemic
+16-530-510-1,darg1241,Dargwa (Mugi dialect),781,урехи,CyrillTrans,"fear, fright",,,urexi,Phonemic
+16-540-510-1,darg1241,Dargwa (Mugi dialect),1810,вайси бетарнила урехи,CyrillTrans,danger,,,waysi betarnila urexi,Phonemic
+16-620-510-1,darg1241,Dargwa (Mugi dialect),1784,хьул,CyrillTrans,"desire, want",,,x̌ul,Phonemic
+16-622-510-1,darg1241,Dargwa (Mugi dialect),1750,дикІарбирес,CyrillTrans,choose,,,dik’arbires,Phonemic
+16-630-510-1,darg1241,Dargwa (Mugi dialect),1092,хьуликІес,CyrillTrans,hope,,,x̌ulik’es,Phonemic
+16-650-510-1,darg1241,Dargwa (Mugi dialect),100,бирхаудичевси,CyrillTrans,faithful,,,birxaydičewsi,Phonemic
+16-660-510-1,darg1241,Dargwa (Mugi dialect),1657,гьарли марси,CyrillTrans,true,,,harli marsi,Phonemic
+16-670-510-1,darg1241,Dargwa (Mugi dialect),601,къянбали угьес,CyrillTrans,"lie, tell lies",,,q̄aˁnbali uhes,Phonemic
+16-680-510-1,darg1241,Dargwa (Mugi dialect),13,виргІявергес,CyrillTrans,deceit,,,wirʕaˁwerges,Phonemic
+16-690-510-1,darg1241,Dargwa (Mugi dialect),1528,чевкархес,CyrillTrans,forgive,,,čewkarxes,Phonemic
+16-710-510-1,darg1241,Dargwa (Mugi dialect),1035,гІяхІна,CyrillTrans,good,,,ʕaˁħna,Phonemic
+16-720-510-1,darg1241,Dargwa (Mugi dialect),1292,вайна,CyrillTrans,bad,,,wayna,Phonemic
+16-730-510-1,darg1241,Dargwa (Mugi dialect),1725,вархьил,CyrillTrans,"right, correct",,,warx̌il,Phonemic
+16-740-510-1,darg1241,Dargwa (Mugi dialect),1390,валкІил,CyrillTrans,wrong,,,walk’il,Phonemic
+16-760-510-1,darg1241,Dargwa (Mugi dialect),134,балхІебикибил баркьуди,CyrillTrans,fault,,,balħebikibil barq’udi,Phonemic
+16-770-510-1,darg1241,Dargwa (Mugi dialect),1293,хатІа,CyrillTrans,"mistake, error",,,xat’a,Phonemic
+16-780-510-1,darg1241,Dargwa (Mugi dialect),381,гІяйибла вирес,CyrillTrans,blame,,,ʕaˁyibla wires,Phonemic
+16-790-510-1,darg1241,Dargwa (Mugi dialect),1687,гапирес,CyrillTrans,praise,,,gapires,Phonemic
+16-810-510-1,darg1241,Dargwa (Mugi dialect),1427,къугъал,CyrillTrans,beautiful,,,q̄uɣal,Phonemic
+16-820-510-1,darg1241,Dargwa (Mugi dialect),1548,цІахил,CyrillTrans,ugly,,,c’axil,Phonemic
+16-830-510-1,darg1241,Dargwa (Mugi dialect),2018,кьиркьир,CyrillTrans,greedy,,,q’irq’ir,Phonemic
+16-840-510-1,darg1241,Dargwa (Mugi dialect),1310,духул,CyrillTrans,clever,,,duxul,Phonemic
+17-110-510-1,darg1241,Dargwa (Mugi dialect),1562,гІякьлу,CyrillTrans,mind,,,ʕaˁq’lu,Phonemic
+17-130-510-1,darg1241,Dargwa (Mugi dialect),1415,пикриъикІес,CyrillTrans,think (= reflect),,,"pikriɁik’es, bales",Phonemic
+17-130-510-3,darg1241,Dargwa (Mugi dialect),1415,балес,CyrillTrans,think (= reflect),,,"pikriɁik’es, bales",Phonemic
+17-140-510-1,darg1241,Dargwa (Mugi dialect),1513,лугІес,CyrillTrans,think (= be of the opinion),,,luʕes,Phonemic
+17-150-510-1,darg1241,Dargwa (Mugi dialect),1890,вирхаэс,CyrillTrans,believe,,,wirxaʔes,Phonemic
+17-160-510-1,darg1241,Dargwa (Mugi dialect),1536,багьес,CyrillTrans,understand,,,bahes,Phonemic
+17-170-510-1,darg1241,Dargwa (Mugi dialect),1410,багьес,CyrillTrans,know,,,bahes,Phonemic
+17-171-510-1,darg1241,Dargwa (Mugi dialect),1932,гьанбирмес,CyrillTrans,guess,,,hanbirmes,Phonemic
+17-172-510-1,darg1241,Dargwa (Mugi dialect),117,гІирдаркьес,CyrillTrans,imitate,,,ʕirdarq’es,Phonemic
+17-180-510-1,darg1241,Dargwa (Mugi dialect),1521,чебиэс,CyrillTrans,seem,,,čebiʔes,Phonemic
+17-190-510-1,darg1241,Dargwa (Mugi dialect),1609,пикри,CyrillTrans,"idea, notion",,,"pikri, betuc",Phonemic
+17-190-510-3,darg1241,Dargwa (Mugi dialect),1609,бетуц,CyrillTrans,"idea, notion",,,"pikri, betuc",Phonemic
+17-210-510-1,darg1241,Dargwa (Mugi dialect),698,духул,CyrillTrans,wise,,,duxul,Phonemic
+17-220-510-1,darg1241,Dargwa (Mugi dialect),1518,гІякьлудалар,CyrillTrans,"foolish, stupid",,,ʕaˁq’ludalar,Phonemic
+17-230-510-1,darg1241,Dargwa (Mugi dialect),1899,къакил,CyrillTrans,"insane, crazy",,,"q̄akil, meħur",Phonemic
+17-230-510-3,darg1241,Dargwa (Mugi dialect),1899,мехІур,CyrillTrans,"insane, crazy",,,"q̄akil, meħur",Phonemic
+17-240-510-1,darg1241,Dargwa (Mugi dialect),504,балес,CyrillTrans,learn,,,bales,Phonemic
+17-242-510-1,darg1241,Dargwa (Mugi dialect),1929,белчІи бяркъес,CyrillTrans,study,,,belč’i baˁrq̄es,Phonemic
+17-250-510-1,darg1241,Dargwa (Mugi dialect),709,учІахъес,CyrillTrans,teach,,,uč’aqes,Phonemic
+17-260-510-1,darg1241,Dargwa (Mugi dialect),753,учІан,CyrillTrans,pupil,,,uč’an,Phonemic
+17-270-510-1,darg1241,Dargwa (Mugi dialect),1038,дурери кадирхьан,CyrillTrans,teacher,,,"dureri kadirx̌an, učitel",Phonemic
+17-270-510-3,darg1241,Dargwa (Mugi dialect),1038,учител,CyrillTrans,teacher,,,"dureri kadirx̌an, učitel",Phonemic
+17-280-510-1,darg1241,Dargwa (Mugi dialect),673,бучІахъуси хъали,CyrillTrans,school,,,"buč’aqusi qali, škola",Phonemic
+17-280-510-3,darg1241,Dargwa (Mugi dialect),673,школа,CyrillTrans,school,,,"buč’aqusi qali, škola",Phonemic
+17-310-510-1,darg1241,Dargwa (Mugi dialect),707,гьанбиркахъес,CyrillTrans,remember,,,hanbirkaqes,Phonemic
+17-320-510-1,darg1241,Dargwa (Mugi dialect),1523,хъумиртес,CyrillTrans,forget,,,qumirtes,Phonemic
+17-340-510-1,darg1241,Dargwa (Mugi dialect),989,гІячикъси,CyrillTrans,"clear, plain",,,ʕaˁčiq̄si,Phonemic
+17-350-510-1,darg1241,Dargwa (Mugi dialect),1764,атхІергъесил,CyrillTrans,obscure,,,atħerɣesil,Phonemic
+17-360-510-1,darg1241,Dargwa (Mugi dialect),1121,дигІянаси,CyrillTrans,secret,,,diʕaˁnasi,Phonemic
+17-370-510-1,darg1241,Dargwa (Mugi dialect),509,бирхуси,CyrillTrans,"sure, certain",,,birxusi,Phonemic
+17-380-510-1,darg1241,Dargwa (Mugi dialect),1626,гІербурес,CyrillTrans,explain,,,ʕerbures,Phonemic
+17-410-510-1,darg1241,Dargwa (Mugi dialect),1162,кьас,CyrillTrans,"intention, purpose",,,"q’as, lišan",Phonemic
+17-410-510-3,darg1241,Dargwa (Mugi dialect),1162,лишан,CyrillTrans,"intention, purpose",,,"q’as, lišan",Phonemic
+17-420-510-1,darg1241,Dargwa (Mugi dialect),860,сабаб,CyrillTrans,cause,,,sabab,Phonemic
+17-430-510-1,darg1241,Dargwa (Mugi dialect),1308,васвасъала,CyrillTrans,doubt,,,waswasɁala,Phonemic
+17-440-510-1,darg1241,Dargwa (Mugi dialect),1841,ташмишидес,CyrillTrans,suspect,,,tašmišides,Phonemic
+17-441-510-1,darg1241,Dargwa (Mugi dialect),1902,уведес,CyrillTrans,betray,,,uwedes,Phonemic
+17-450-510-1,darg1241,Dargwa (Mugi dialect),643,хІяжатдеш,CyrillTrans,"need, necessity",,,ħaˁžatdeš,Phonemic
+17-460-510-1,darg1241,Dargwa (Mugi dialect),686,кумкил,CyrillTrans,easy,,,kumkil,Phonemic
+17-470-510-1,darg1241,Dargwa (Mugi dialect),584,къиянил,CyrillTrans,difficult,,,q̄iaˁnil,Phonemic
+17-480-510-1,darg1241,Dargwa (Mugi dialect),1812,халбарни,CyrillTrans,"try, attempt",,,xalbarni,Phonemic
+17-490-510-1,darg1241,Dargwa (Mugi dialect),488,тяхІяр,CyrillTrans,"way, manner",,,taˁħaˁr,Phonemic
+17-510-510-1,darg1241,Dargwa (Mugi dialect),1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-510-1,darg1241,Dargwa (Mugi dialect),1157,сенахІенну,CyrillTrans,because,,,senaħennu,Phonemic
+17-530-510-1,darg1241,Dargwa (Mugi dialect),1459,рахли,CyrillTrans,if,,,raxli,Phonemic
+17-540-510-1,darg1241,Dargwa (Mugi dialect),1014,яра,CyrillTrans,or,,,yara,Phonemic
+17-550-510-1,darg1241,Dargwa (Mugi dialect),1268,гІе,CyrillTrans,"yes, affirmative",,,ʕe,Phonemic
+17-560-510-1,darg1241,Dargwa (Mugi dialect),1269,ахІен,CyrillTrans,"no, negative",,,aħen,Phonemic
+17-610-510-1,darg1241,Dargwa (Mugi dialect),1239,сен-сен,CyrillTrans,how?,,,sen-sen,Phonemic
+17-620-510-1,darg1241,Dargwa (Mugi dialect),822,чум,CyrillTrans,how many?,,,čum,Phonemic
+17-630-510-1,darg1241,Dargwa (Mugi dialect),531,чум,CyrillTrans,how much?,,,čum,Phonemic
+17-640-510-1,darg1241,Dargwa (Mugi dialect),1236,си,CyrillTrans,what?,,,si,Phonemic
+17-650-510-1,darg1241,Dargwa (Mugi dialect),1238,мурт,CyrillTrans,when?,,,murt,Phonemic
+17-660-510-1,darg1241,Dargwa (Mugi dialect),1237,кинаб,CyrillTrans,where?,,,"kinab, kinadli",Phonemic
+17-660-510-3,darg1241,Dargwa (Mugi dialect),1237,кинадли,CyrillTrans,where?,,,"kinab, kinadli",Phonemic
+17-670-510-1,darg1241,Dargwa (Mugi dialect),727,сегъуна,CyrillTrans,which?,,,seɣuna,Phonemic
+17-680-510-1,darg1241,Dargwa (Mugi dialect),1235,чи,CyrillTrans,who?,,,či,Phonemic
+17-690-510-1,darg1241,Dargwa (Mugi dialect),1270,сен,CyrillTrans,why?,,,sen,Phonemic
+18-110-510-1,darg1241,Dargwa (Mugi dialect),1363,тІама,CyrillTrans,voice,,,t’ama,Phonemic
+18-120-510-1,darg1241,Dargwa (Mugi dialect),1261,далайикІес,CyrillTrans,sing,,,dalayik’es,Phonemic
+18-130-510-1,darg1241,Dargwa (Mugi dialect),715,вявикІес,CyrillTrans,"shout, cry out",,,waˁwik’es,Phonemic
+18-150-510-1,darg1241,Dargwa (Mugi dialect),55,гІашли гъайикІес,CyrillTrans,whisper,,,ʕašli ɣayik’es,Phonemic
+18-160-510-1,darg1241,Dargwa (Mugi dialect),128,шивкІивикІес,CyrillTrans,mumble,,,šiwk’iwik’es,Phonemic
+18-170-510-1,darg1241,Dargwa (Mugi dialect),1025,шятІикІес,CyrillTrans,whistle,,,šaˁt’ik’es,Phonemic
+18-180-510-1,darg1241,Dargwa (Mugi dialect),298,чІярикІес,CyrillTrans,"shriek, screech",,,č’aˁrik’es,Phonemic
+18-190-510-1,darg1241,Dargwa (Mugi dialect),526,агьибакІес,CyrillTrans,howl,,,ahibak’es,Phonemic
+18-210-510-1,darg1241,Dargwa (Mugi dialect),1623,гъайикІес,CyrillTrans,"speak, talk",,,ɣayik’es,Phonemic
+18-211-510-1,darg1241,Dargwa (Mugi dialect),1866,маъмаикІес,CyrillTrans,"stutter, stammer",,,maɁmaik’es,Phonemic
+18-220-510-1,darg1241,Dargwa (Mugi dialect),1458,бурес,CyrillTrans,say,,,bures,Phonemic
+18-221-510-1,darg1241,Dargwa (Mugi dialect),1711,хабар бурес,CyrillTrans,tell story,,,xabar bures,Phonemic
+18-222-510-1,darg1241,Dargwa (Mugi dialect),1115,гъай,CyrillTrans,speech (make a),,,ɣay,Phonemic
+18-230-510-1,darg1241,Dargwa (Mugi dialect),48,лехІкакъес,CyrillTrans,silent (be),,,leħkaq̄es,Phonemic
+18-240-510-1,darg1241,Dargwa (Mugi dialect),1307,мез,CyrillTrans,language,,,mez,Phonemic
+18-260-510-1,darg1241,Dargwa (Mugi dialect),1599,гъай,CyrillTrans,word,,,ɣay,Phonemic
+18-280-510-1,darg1241,Dargwa (Mugi dialect),1405,села биалра,CyrillTrans,name,,,"sela bialra, u",Phonemic
+18-280-510-3,darg1241,Dargwa (Mugi dialect),1405,у,CyrillTrans,name,,,"sela bialra, u",Phonemic
+18-310-510-1,darg1241,Dargwa (Mugi dialect),1309,хьарикІес,CyrillTrans,"ask (question, inquire)",,,x̌arik’es,Phonemic
+18-320-510-1,darg1241,Dargwa (Mugi dialect),1275,жаваб гес,CyrillTrans,answer,,,žawab ges,Phonemic
+18-330-510-1,darg1241,Dargwa (Mugi dialect),2022,дакІуъухъес,CyrillTrans,"admit, confess",,,dak’uɁuqes,Phonemic
+18-340-510-1,darg1241,Dargwa (Mugi dialect),755,батІес,CyrillTrans,deny,,,bat’es,Phonemic
+18-350-510-1,darg1241,Dargwa (Mugi dialect),1828,тиладилкІес,CyrillTrans,"ask, request",,,tiladilk’es,Phonemic
+18-360-510-1,darg1241,Dargwa (Mugi dialect),1675,себиалра чеасес,CyrillTrans,promise,,,sebialra čeases,Phonemic
+18-370-510-1,darg1241,Dargwa (Mugi dialect),49,гІелавяхІ чарварес,CyrillTrans,refuse,,,ʕelawaˁħ čarwares,Phonemic
+18-380-510-1,darg1241,Dargwa (Mugi dialect),83,къадагъабаркьес,CyrillTrans,forbid,,,q̄adaɣabarq’es,Phonemic
+18-390-510-1,darg1241,Dargwa (Mugi dialect),299,гІягІикІес,CyrillTrans,"rebuke, scold",,,ʕaˁʕik’es,Phonemic
+18-410-510-1,darg1241,Dargwa (Mugi dialect),1084,жиъиркьес,CyrillTrans,call (=summon),,,žiɁirq’es,Phonemic
+18-420-510-1,darg1241,Dargwa (Mugi dialect),180,урес,CyrillTrans,call (=name),,,ures,Phonemic
+18-430-510-1,darg1241,Dargwa (Mugi dialect),9,бурес,CyrillTrans,announce,,,"bures, halabix̌es",Phonemic
+18-430-510-3,darg1241,Dargwa (Mugi dialect),9,гьалабихьес,CyrillTrans,announce,,,"bures, halabix̌es",Phonemic
+18-440-510-1,darg1241,Dargwa (Mugi dialect),1192,урухирес,CyrillTrans,threaten,,,uruxires,Phonemic
+18-450-510-1,darg1241,Dargwa (Mugi dialect),101,хулаурхес,CyrillTrans,boast,,,xulaurxes,Phonemic
+18-510-510-1,darg1241,Dargwa (Mugi dialect),1672,лукІес,CyrillTrans,write,,,luk’es,Phonemic
+18-520-510-1,darg1241,Dargwa (Mugi dialect),724,билчІес,CyrillTrans,read,,,bilč’es,Phonemic
+18-560-510-1,darg1241,Dargwa (Mugi dialect),648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-510-1,darg1241,Dargwa (Mugi dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-510-1,darg1241,Dargwa (Mugi dialect),963,жуз,CyrillTrans,book,,,žuz,Phonemic
+18-670-510-1,darg1241,Dargwa (Mugi dialect),1045,поэт,CyrillTrans,poet,,,"poet, luk’an-uč’an",Phonemic
+18-670-510-3,darg1241,Dargwa (Mugi dialect),1045,лукІан-учІан,CyrillTrans,poet,,,"poet, luk’an-uč’an",Phonemic
+18-710-510-1,darg1241,Dargwa (Mugi dialect),777,дяд,CyrillTrans,flute,,,daˁd,Phonemic
+18-720-510-1,darg1241,Dargwa (Mugi dialect),908,там,CyrillTrans,drum,,,tam,Phonemic
+18-730-510-1,darg1241,Dargwa (Mugi dialect),2136,дубсила дяд,CyrillTrans,"horn, trumpet",,,dubsila daˁd,Phonemic
+18-740-510-1,darg1241,Dargwa (Mugi dialect),300,зингъирай,CyrillTrans,rattle,,,zinɣiray,Phonemic
+19-110-510-1,darg1241,Dargwa (Mugi dialect),1300,улка,CyrillTrans,country,,,ulka,Phonemic
+19-120-510-1,darg1241,Dargwa (Mugi dialect),89,вегІла улка,CyrillTrans,one's native country,,,"weʕa ulka, wat’an",Phonemic
+19-120-510-3,darg1241,Dargwa (Mugi dialect),89,ватIан,CyrillTrans,one's native country,,,"weʕa ulka, wat’an",Phonemic
+19-150-510-1,darg1241,Dargwa (Mugi dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-510-1,darg1241,Dargwa (Mugi dialect),930,ши,CyrillTrans,village,,,"ši, max̌i",Phonemic
+19-160-510-3,darg1241,Dargwa (Mugi dialect),930,махьи,CyrillTrans,village,,,"ši, max̌i",Phonemic
+19-170-510-1,darg1241,Dargwa (Mugi dialect),1010,дазу,CyrillTrans,boundary,,,dazu,Phonemic
+19-210-510-1,darg1241,Dargwa (Mugi dialect),789,халкь,CyrillTrans,people (populace),,,xalq’,Phonemic
+19-230-510-1,darg1241,Dargwa (Mugi dialect),302,кьам,CyrillTrans,"tribe, clan",,,q’am,Phonemic
+19-240-510-1,darg1241,Dargwa (Mugi dialect),301,гьавкья,CyrillTrans,"chief, chieftain",,,hawq’aˁ,Phonemic
+19-250-510-1,darg1241,Dargwa (Mugi dialect),1296,гІяйса,CyrillTrans,"staff, walking stick",,,ʕaˁysa,Phonemic
+19-310-510-1,darg1241,Dargwa (Mugi dialect),1846,бекІдеш дирес,CyrillTrans,"rule, govern",,,bek’deš dires,Phonemic
+19-320-510-1,darg1241,Dargwa (Mugi dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-320-510-3,darg1241,Dargwa (Mugi dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-330-510-1,darg1241,Dargwa (Mugi dialect),1306,пачала хьунул,CyrillTrans,queen,,,pačala x̌unul,Phonemic
+19-360-510-1,darg1241,Dargwa (Mugi dialect),482,чихъти адабла,CyrillTrans,"noble, nobleman",,,"čiqti adabla, debali q’imatčewsi",Phonemic
+19-360-510-3,darg1241,Dargwa (Mugi dialect),482,дебали кьиматчевси,CyrillTrans,"noble, nobleman",,,"čiqti adabla, debali q’imatčewsi",Phonemic
+19-370-510-1,darg1241,Dargwa (Mugi dialect),1032,шагьарлан,CyrillTrans,"citizen, subject",,,šaharlan,Phonemic
+19-410-510-1,darg1241,Dargwa (Mugi dialect),383,вегІбекІ,CyrillTrans,master,,,weʕbek’,Phonemic
+19-420-510-1,darg1241,Dargwa (Mugi dialect),812,ялчи,CyrillTrans,slave,,,yalči,Phonemic
+19-430-510-1,darg1241,Dargwa (Mugi dialect),255,къараваш,CyrillTrans,servant,,,q̄arawaš,Phonemic
+19-440-510-1,darg1241,Dargwa (Mugi dialect),384,азадси адам,CyrillTrans,freeman,,,"azadsi adam, uzdan",Phonemic
+19-440-510-3,darg1241,Dargwa (Mugi dialect),384,уздан,CyrillTrans,freeman,,,"azadsi adam, uzdan",Phonemic
+19-450-510-1,darg1241,Dargwa (Mugi dialect),1128,буйрухъ угьес,CyrillTrans,"command, order",,,buyruq uhes,Phonemic
+19-460-510-1,darg1241,Dargwa (Mugi dialect),1635,инцІякь гъайагарли лехІихъес,CyrillTrans,obey,,,inc’aˁq’ ɣayagarli leħiqes,Phonemic
+19-470-510-1,darg1241,Dargwa (Mugi dialect),1003,ихтияр баркьес,CyrillTrans,"let, permit",,,ixtiaˁr barq’es,Phonemic
+19-510-510-1,darg1241,Dargwa (Mugi dialect),1325,юлдаш,CyrillTrans,"friend, companion",,,yuldaš,Phonemic
+19-520-510-1,darg1241,Dargwa (Mugi dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-510-1,darg1241,Dargwa (Mugi dialect),1332,унра,CyrillTrans,neighbor,,,unra,Phonemic
+19-550-510-1,darg1241,Dargwa (Mugi dialect),791,валхІялани,CyrillTrans,stranger,,,walħaˁlani,Phonemic
+19-560-510-1,darg1241,Dargwa (Mugi dialect),1782,ахІал,CyrillTrans,guest,,,aħal,Phonemic
+19-570-510-1,darg1241,Dargwa (Mugi dialect),1545,хъавегІ,CyrillTrans,host,,,qaweʕ,Phonemic
+19-580-510-1,darg1241,Dargwa (Mugi dialect),1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-510-1,darg1241,Dargwa (Mugi dialect),1550,диригала булхъес,CyrillTrans,"hinder, prevent",,,dirigala bulqes,Phonemic
+19-610-510-1,darg1241,Dargwa (Mugi dialect),1747,гІядат,CyrillTrans,custom,,,ʕaˁdat,Phonemic
+19-620-510-1,darg1241,Dargwa (Mugi dialect),1848,къалмакъар,CyrillTrans,"strife, quarrel",,,q̄almaq̄ar,Phonemic
+19-630-510-1,darg1241,Dargwa (Mugi dialect),2024,дигІянаси вягІда,CyrillTrans,"conspiracy, plot",,,diʕaˁnasi waˁʕda,Phonemic
+19-650-510-1,darg1241,Dargwa (Mugi dialect),1831,цугиркес,CyrillTrans,meet,,,cugirkes,Phonemic
+19-720-510-1,darg1241,Dargwa (Mugi dialect),1610,къехІба,CyrillTrans,prostitute,,,q̄eħba,Phonemic
+20-110-510-1,darg1241,Dargwa (Mugi dialect),1423,вяхІярес,CyrillTrans,fight (vb),,,"waˁħaˁres, urɣes",Phonemic
+20-110-510-3,darg1241,Dargwa (Mugi dialect),1423,ургъес,CyrillTrans,fight (vb),,,"waˁħaˁres, urɣes",Phonemic
+20-130-510-1,darg1241,Dargwa (Mugi dialect),579,дергъ,CyrillTrans,"war, battle",,,derɣ,Phonemic
+20-140-510-1,darg1241,Dargwa (Mugi dialect),1338,даршудеш,CyrillTrans,peace,,,daršudeš,Phonemic
+20-150-510-1,darg1241,Dargwa (Mugi dialect),1561,гІярмия,CyrillTrans,army,,,ʕaˁrmiya,Phonemic
+20-170-510-1,darg1241,Dargwa (Mugi dialect),1941,солдатуни,CyrillTrans,soldier,,,soldatuni,Phonemic
+20-210-510-1,darg1241,Dargwa (Mugi dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-510-1,darg1241,Dargwa (Mugi dialect),1763,дирхьа,CyrillTrans,club,,,dirx̌a,Phonemic
+20-222-510-1,darg1241,Dargwa (Mugi dialect),386,дергъла бурида,CyrillTrans,battle-ax,,,derɣla burida,Phonemic
+20-230-510-1,darg1241,Dargwa (Mugi dialect),387,къаркънуцІ,CyrillTrans,sling,,,q̄arq̄nuc’,Phonemic
+20-240-510-1,darg1241,Dargwa (Mugi dialect),994,ургадерга,CyrillTrans,bow,,,urgaderga,Phonemic
+20-250-510-1,darg1241,Dargwa (Mugi dialect),977,гъуц,CyrillTrans,arrow,,,ɣuc,Phonemic
+20-260-510-1,darg1241,Dargwa (Mugi dialect),945,жида,CyrillTrans,spear,,,žida,Phonemic
+20-270-510-1,darg1241,Dargwa (Mugi dialect),1535,мур,CyrillTrans,sword,,,mur,Phonemic
+20-280-510-1,darg1241,Dargwa (Mugi dialect),1566,тупанча,CyrillTrans,"gun, cannon",,,"tupanča, tup",Phonemic
+20-280-510-3,darg1241,Dargwa (Mugi dialect),1566,туп,CyrillTrans,"gun, cannon",,,"tupanča, tup",Phonemic
+20-310-510-1,darg1241,Dargwa (Mugi dialect),1061,ургъана палтаркьяш,CyrillTrans,armor (defensive),,,urɣana paltarq’aˁš,Phonemic
+20-330-510-1,darg1241,Dargwa (Mugi dialect),1680,мегьла кьапІа,CyrillTrans,helmet,,,mehla q’ap’a,Phonemic
+20-340-510-1,darg1241,Dargwa (Mugi dialect),1064,гьалабиз,CyrillTrans,shield,,,halabiz,Phonemic
+20-350-510-1,darg1241,Dargwa (Mugi dialect),1938,къала,CyrillTrans,fortress,,,q̄ala,Phonemic
+20-360-510-1,darg1241,Dargwa (Mugi dialect),1671,кІалгІя,CyrillTrans,tower,,,k’alʕaˁ,Phonemic
+20-410-510-1,darg1241,Dargwa (Mugi dialect),783,чедибдеш,CyrillTrans,victory,,,čedibdeš,Phonemic
+20-420-510-1,darg1241,Dargwa (Mugi dialect),782,тІутІукьякьябарни,CyrillTrans,defeat,,,t’ut’uq’aˁq’aˁbarni,Phonemic
+20-430-510-1,darg1241,Dargwa (Mugi dialect),722,гьужум дураберкІес,CyrillTrans,attack,,,hužum duraberk’es,Phonemic
+20-440-510-1,darg1241,Dargwa (Mugi dialect),1330,балтахъес,CyrillTrans,defend,,,baltaqes,Phonemic
+20-450-510-1,darg1241,Dargwa (Mugi dialect),421,гІилавахІ чаригьес,CyrillTrans,retreat,,,ʕilawaħ čarihes,Phonemic
+20-460-510-1,darg1241,Dargwa (Mugi dialect),1696,мутІигІвакІес,CyrillTrans,surrender,,,mut’iʕwak’es,Phonemic
+20-470-510-1,darg1241,Dargwa (Mugi dialect),1072,ясир уцибил,CyrillTrans,"captive, prisoner",,,"yasir ucibil, tusnaq̄či",Phonemic
+20-470-510-3,darg1241,Dargwa (Mugi dialect),1072,туснакъчи,CyrillTrans,"captive, prisoner",,,"yasir ucibil, tusnaq̄či",Phonemic
+20-471-510-1,darg1241,Dargwa (Mugi dialect),1940,къараул,CyrillTrans,"guard, sentinel",,,q̄araul,Phonemic
+20-480-510-1,darg1241,Dargwa (Mugi dialect),1022,халал гІяхІдеш,CyrillTrans,"booty, spoils",,,"xalal ʕaˁħdeš, dawla",Phonemic
+20-480-510-3,darg1241,Dargwa (Mugi dialect),1022,давла,CyrillTrans,"booty, spoils",,,"xalal ʕaˁħdeš, dawla",Phonemic
+20-490-510-1,darg1241,Dargwa (Mugi dialect),65,къараул баркьара,CyrillTrans,ambush,,,q̄araul barq’ara,Phonemic
+20-510-510-1,darg1241,Dargwa (Mugi dialect),1858,бяликъчи,CyrillTrans,fisherman,,,baˁliq̄či,Phonemic
+20-520-510-1,darg1241,Dargwa (Mugi dialect),1074,къармакъ,CyrillTrans,fishhook,,,q̄armaq̄,Phonemic
+20-530-510-1,darg1241,Dargwa (Mugi dialect),19,бяликъуни дурцуси сеткала вакъ,CyrillTrans,fishing line,,,"baˁliq̄uni durcusi setkala waq̄, lesk’a",Phonemic
+20-530-510-3,darg1241,Dargwa (Mugi dialect),19,лескІа,CyrillTrans,fishing line,,,"baˁliq̄uni durcusi setkala waq̄, lesk’a",Phonemic
+20-540-510-1,darg1241,Dargwa (Mugi dialect),388,бяликъунала сетІкІа,CyrillTrans,fishnet,,,baˁliq̄unala set’k’a,Phonemic
+20-550-510-1,darg1241,Dargwa (Mugi dialect),389,бяликълис тІимкь,CyrillTrans,fish trap,,,baˁliq̄lis t’imq’,Phonemic
+20-560-510-1,darg1241,Dargwa (Mugi dialect),2013,някъла лишайчил жибирес,CyrillTrans,bait,,,naˁq̄la lišayčil žibires,Phonemic
+20-610-510-1,darg1241,Dargwa (Mugi dialect),1435,гІяяр вашес,CyrillTrans,hunt,,,ʕaˁyar wašes,Phonemic
+20-620-510-1,darg1241,Dargwa (Mugi dialect),1172,иргьес,CyrillTrans,shoot,,,irhes,Phonemic
+20-630-510-1,darg1241,Dargwa (Mugi dialect),161,хатІаикес,CyrillTrans,miss (target),,,xat’aikes,Phonemic
+20-640-510-1,darg1241,Dargwa (Mugi dialect),1075,кур,CyrillTrans,trap (noun),,,"kur, t’imq’",Phonemic
+20-640-510-3,darg1241,Dargwa (Mugi dialect),1075,тІимкь,CyrillTrans,trap (noun),,,"kur, t’imq’",Phonemic
+20-650-510-1,darg1241,Dargwa (Mugi dialect),1170,тІимкьли бурцес,CyrillTrans,trap (vb),,,t’imq’li burces,Phonemic
+21-110-510-1,darg1241,Dargwa (Mugi dialect),1062,закун,CyrillTrans,law,,,"zakun, q̄anun",Phonemic
+21-110-510-3,darg1241,Dargwa (Mugi dialect),1062,къанун,CyrillTrans,law,,,"zakun, q̄anun",Phonemic
+21-150-510-1,darg1241,Dargwa (Mugi dialect),1068,диван,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-150-510-3,darg1241,Dargwa (Mugi dialect),1068,суд,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-160-510-1,darg1241,Dargwa (Mugi dialect),1818,хІекьдеш барес,CyrillTrans,judge (vb),,,"ħeq’deš bares, diwan bares, sud bares",Phonemic
+21-160-510-3,darg1241,Dargwa (Mugi dialect),1818,диван барес,CyrillTrans,judge (vb),,,"ħeq’deš bares, diwan bares, sud bares",Phonemic
+21-160-510-5,darg1241,Dargwa (Mugi dialect),1818,суд барес,CyrillTrans,judge (vb),,,"ħeq’deš bares, diwan bares, sud bares",Phonemic
+21-170-510-1,darg1241,Dargwa (Mugi dialect),1067,судла кьадар,CyrillTrans,judgment,,,sudla q’adar,Phonemic
+21-180-510-1,darg1241,Dargwa (Mugi dialect),861,судъя,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-510-1,darg1241,Dargwa (Mugi dialect),2020,гІярза бедибси,CyrillTrans,plaintiff,,,"ʕaˁrza bedibsi, ʕaˁrzači",Phonemic
+21-210-510-3,darg1241,Dargwa (Mugi dialect),2020,гІярзачи,CyrillTrans,plaintiff,,,"ʕaˁrza bedibsi, ʕaˁrzači",Phonemic
+21-220-510-1,darg1241,Dargwa (Mugi dialect),1034,жавабкар,CyrillTrans,defendant,,,žawabkar,Phonemic
+21-230-510-1,darg1241,Dargwa (Mugi dialect),1144,бикьри,CyrillTrans,witness,,,biq’ri,Phonemic
+21-240-510-1,darg1241,Dargwa (Mugi dialect),1939,хъябаркьес,CyrillTrans,swear,,,qaˁbarq’es,Phonemic
+21-250-510-1,darg1241,Dargwa (Mugi dialect),1712,хъя,CyrillTrans,oath,,,qaˁ,Phonemic
+21-310-510-1,darg1241,Dargwa (Mugi dialect),1814,гІяйиблавирес,CyrillTrans,accuse,,,ʕaˁyiblawires,Phonemic
+21-320-510-1,darg1241,Dargwa (Mugi dialect),484,пикрумидурес,CyrillTrans,condemn,,,pikrumidures,Phonemic
+21-330-510-1,darg1241,Dargwa (Mugi dialect),983,гІяйиблизи уцес,CyrillTrans,convict (vb),,,ʕaˁyiblizi uces,Phonemic
+21-340-510-1,darg1241,Dargwa (Mugi dialect),988,се биалра марбирес,CyrillTrans,acquit,,,se bialra marbires,Phonemic
+21-350-510-1,darg1241,Dargwa (Mugi dialect),1682,гІяйибла вегІ,CyrillTrans,guilty,,,ʕaˁyibla weʕ,Phonemic
+21-360-510-1,darg1241,Dargwa (Mugi dialect),90,гІяйиб агар,CyrillTrans,innocent,,,ʕaˁyib agar,Phonemic
+21-370-510-1,darg1241,Dargwa (Mugi dialect),390,тамбихІ,CyrillTrans,"penalty, punishment",,,tambiħ,Phonemic
+21-380-510-1,darg1241,Dargwa (Mugi dialect),218,арцла гІякІа,CyrillTrans,fine,,,arcla ʕaˁk’a,Phonemic
+21-390-510-1,darg1241,Dargwa (Mugi dialect),1281,туснакъ,CyrillTrans,"prison, jail",,,tusnaq̄,Phonemic
+21-420-510-1,darg1241,Dargwa (Mugi dialect),845,кавшни,CyrillTrans,murder,,,kawšni,Phonemic
+21-430-510-1,darg1241,Dargwa (Mugi dialect),902,дигайла бархбас,CyrillTrans,adultery,,,"digayla barxbas, zina",Phonemic
+21-430-510-3,darg1241,Dargwa (Mugi dialect),902,зина,CyrillTrans,adultery,,,"digayla barxbas, zina",Phonemic
+21-440-510-1,darg1241,Dargwa (Mugi dialect),953,гужбарни,CyrillTrans,rape,,,gužbarni,Phonemic
+21-460-510-1,darg1241,Dargwa (Mugi dialect),1889,цІадушни,CyrillTrans,arson,,,c’adušni,Phonemic
+21-470-510-1,darg1241,Dargwa (Mugi dialect),1792,къянала бикьридеш,CyrillTrans,perjury,,,q̄aˁnala biq’rideš,Phonemic
+21-510-510-1,darg1241,Dargwa (Mugi dialect),713,илгІяс,CyrillTrans,steal,,,ilʕaˁs,Phonemic
+21-520-510-1,darg1241,Dargwa (Mugi dialect),1160,хъулки,CyrillTrans,thief,,,qulki,Phonemic
+22-110-510-1,darg1241,Dargwa (Mugi dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-510-1,darg1241,Dargwa (Mugi dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-510-1,darg1241,Dargwa (Mugi dialect),911,киласа,CyrillTrans,"temple, church",,,"kilasa, mizgit",Phonemic
+22-130-510-3,darg1241,Dargwa (Mugi dialect),911,мизгит,CyrillTrans,"temple, church",,,"kilasa, mizgit",Phonemic
+22-140-510-1,darg1241,Dargwa (Mugi dialect),853,къурбанти лугьуси мер,CyrillTrans,altar,,,"q̄urbanti luhusi mer, mihrab",Phonemic
+22-140-510-3,darg1241,Dargwa (Mugi dialect),853,мигьраб,CyrillTrans,altar,,,"q̄urbanti luhusi mer, mihrab",Phonemic
+22-150-510-1,darg1241,Dargwa (Mugi dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,q̄urban,Phonemic
+22-160-510-1,darg1241,Dargwa (Mugi dialect),257,тІягІят бирес,CyrillTrans,worship,,,t’aˁʕaˁt bires,Phonemic
+22-170-510-1,darg1241,Dargwa (Mugi dialect),24,улгес,CyrillTrans,pray,,,ulges,Phonemic
+22-180-510-1,darg1241,Dargwa (Mugi dialect),852,дурхъал,CyrillTrans,priest,,,"durqal, kašiš",Phonemic
+22-180-510-3,darg1241,Dargwa (Mugi dialect),852,кашиш,CyrillTrans,priest,,,"durqal, kašiš",Phonemic
+22-190-510-1,darg1241,Dargwa (Mugi dialect),1702,дурхъаси,CyrillTrans,"holy, sacred",,,durqasi,Phonemic
+22-220-510-1,darg1241,Dargwa (Mugi dialect),304,вягІза баркьес,CyrillTrans,preach,,,waˁʕza barq’es,Phonemic
+22-230-510-1,darg1241,Dargwa (Mugi dialect),391,уркІичевварес,CyrillTrans,bless,,,"urk’ičewwares, barkallawares",Phonemic
+22-230-510-3,darg1241,Dargwa (Mugi dialect),391,баркаллаварес,CyrillTrans,bless,,,"urk’ičewwares, barkallawares",Phonemic
+22-240-510-1,darg1241,Dargwa (Mugi dialect),8,иркес,CyrillTrans,curse,,,irkes,Phonemic
+22-260-510-1,darg1241,Dargwa (Mugi dialect),303,декІарикес,CyrillTrans,fast (vb),,,"dek’arikes, čewwerkes",Phonemic
+22-260-510-3,darg1241,Dargwa (Mugi dialect),303,чевверкес,CyrillTrans,fast (vb),,,"dek’arikes, čewwerkes",Phonemic
+22-310-510-1,darg1241,Dargwa (Mugi dialect),1565,алжана,CyrillTrans,heaven,,,alžana,Phonemic
+22-320-510-1,darg1241,Dargwa (Mugi dialect),878,жагьаннаб,CyrillTrans,hell,,,žahannab,Phonemic
+22-350-510-1,darg1241,Dargwa (Mugi dialect),1973,шайтІан,CyrillTrans,demon (evil spirit),,,šayt’an,Phonemic
+22-370-510-1,darg1241,Dargwa (Mugi dialect),1945,къанч,CyrillTrans,idol,,,"q̄anč, axmax",Phonemic
+22-370-510-3,darg1241,Dargwa (Mugi dialect),1945,ахмах,CyrillTrans,idol,,,"q̄anč, axmax",Phonemic
+22-420-510-1,darg1241,Dargwa (Mugi dialect),392,сихІрукьядеш,CyrillTrans,"magic, witchcraft, sorcery",,,siħruq’aˁdeš,Phonemic
+22-430-510-1,darg1241,Dargwa (Mugi dialect),2137,вайна сихІрукья хьунул,CyrillTrans,"sorcerer, witch",,,wayna siħruq’aˁ x̌unul,Phonemic
+22-440-510-1,darg1241,Dargwa (Mugi dialect),2138,хIурулгІян,CyrillTrans,"fairy, elf",,,ħurulʕaˁn,Phonemic
+22-450-510-1,darg1241,Dargwa (Mugi dialect),1175,къаралди,CyrillTrans,"ghost, phantom",,,"q̄araldi, lišan",Phonemic
+22-450-510-3,darg1241,Dargwa (Mugi dialect),1175,лишан,CyrillTrans,"ghost, phantom",,,"q̄araldi, lišan",Phonemic
+22-470-510-1,darg1241,Dargwa (Mugi dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

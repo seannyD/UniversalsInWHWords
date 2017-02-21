@@ -1,0 +1,1749 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-42-1,hinu1240,Hinuq,1852,гІаши,CyrillTrans,often,,,"ʕaši, koɬeho",Phonemic
+14-320-42-3,hinu1240,Hinuq,1852,колъегьо,CyrillTrans,often,,,"ʕaši, koɬeho",Phonemic
+14-310-42-1,hinu1240,Hinuq,1676,даим,CyrillTrans,always,,,"daim, netten",Phonemic
+14-310-42-3,hinu1240,Hinuq,1676,неттен,CyrillTrans,always,,,"daim, netten",Phonemic
+14-290-42-1,hinu1240,Hinuq,790,хІадурав,CyrillTrans,ready,,,ħaduraw,Phonemic
+14-280-42-1,hinu1240,Hinuq,1928,лъакъера,CyrillTrans,"cease, stop",,,ɬaqʼera,Phonemic
+14-270-42-1,hinu1240,Hinuq,1766,лъакъераqāз,CyrillTrans,finish,,,ɬaqʼerayāz,Phonemic
+14-260-42-1,hinu1240,Hinuq,743,лъакъера,CyrillTrans,end (temporal),,,ɬaqʼera,Phonemic
+14-252-42-1,hinu1240,Hinuq,1186,бехорелъа,CyrillTrans,"last, endure",,,bexoreɬa,Phonemic
+14-250-42-1,hinu1240,Hinuq,1806,авал,CyrillTrans,"begin, beginning",,,"awal, baybikil, baybikizi buwa, bašlabuwa",Phonemic
+14-250-42-3,hinu1240,Hinuq,1806,байбикил,CyrillTrans,"begin, beginning",,,"awal, baybikil, baybikizi buwa, bašlabuwa",Phonemic
+14-250-42-5,hinu1240,Hinuq,1806,байбикизи бува,CyrillTrans,"begin, beginning",,,"awal, baybikil, baybikizi buwa, bašlabuwa",Phonemic
+14-250-42-7,hinu1240,Hinuq,1806,башла бува,CyrillTrans,"begin, beginning",,,"awal, baybikil, baybikizi buwa, bašlabuwa",Phonemic
+14-240-42-1,hinu1240,Hinuq,425,аширайāз,CyrillTrans,"retard, delay",,,"aširayāz, bašira, bocʼera",Phonemic
+14-240-42-3,hinu1240,Hinuq,425,башира,CyrillTrans,"retard, delay",,,"aširayāz, bašira, bocʼera",Phonemic
+14-240-42-5,hinu1240,Hinuq,425,боцІера,CyrillTrans,"retard, delay",,,"aširayāz, bašira, bocʼera",Phonemic
+14-230-42-1,hinu1240,Hinuq,754,гІедегІези ихъа,CyrillTrans,"hasten, hurry",,,"ʕedeʕezi iqa, xexɬizi iqa",Phonemic
+14-230-42-3,hinu1240,Hinuq,754,хехлъизи рихъа,CyrillTrans,"hasten, hurry",,,"ʕedeʕezi iqa, xexɬizi iqa",Phonemic
+14-220-42-1,hinu1240,Hinuq,701,гъегъе,CyrillTrans,slow,,,ɣeɣe,Phonemic
+14-210-42-1,hinu1240,Hinuq,1631,хехав,CyrillTrans,"swift, fast, quick",,,"xexaw, ʕedeʕaraw",Phonemic
+14-210-42-3,hinu1240,Hinuq,1631,гІдегІарав,CyrillTrans,"swift, fast, quick",,,"xexaw, ʕedeʕaraw",Phonemic
+14-190-42-1,hinu1240,Hinuq,1963,жихъутов,CyrillTrans,immediately,,,žiqutow,Phonemic
+14-180-42-1,hinu1240,Hinuq,1376,гьавсагІат,CyrillTrans,now,,,"hawsaʕat, hoboži",Phonemic
+14-180-42-3,hinu1240,Hinuq,1376,гьобожи,CyrillTrans,now,,,"hawsaʕat, hoboži",Phonemic
+14-170-42-1,hinu1240,Hinuq,477,гьеззо,CyrillTrans,late,,,hezzo,Phonemic
+14-160-42-1,hinu1240,Hinuq,672,къарлъӣ,CyrillTrans,early,,,qʼarɬī,Phonemic
+14-150-42-1,hinu1240,Hinuq,1229,гІежи,CyrillTrans,old,,,"ʕeži, očordiyu",Phonemic
+14-150-42-3,hinu1240,Hinuq,1229,очордийу,CyrillTrans,old,,,"ʕeži, očordiyu",Phonemic
+14-140-42-1,hinu1240,Hinuq,1207,бахІарав,CyrillTrans,young,,,"baħaraw, ʕoloqanaw",Phonemic
+14-140-42-3,hinu1240,Hinuq,1207,гІолохъанав,CyrillTrans,young,,,"baħaraw, ʕoloqanaw",Phonemic
+14-120-42-1,hinu1240,Hinuq,1789,гІасру,CyrillTrans,age,,,ʕasru,Phonemic
+14-130-42-1,hinu1240,Hinuq,1231,эцІендийу,CyrillTrans,new,,,ecʼendiyu,Phonemic
+14-110-42-1,hinu1240,Hinuq,892,заман,CyrillTrans,time,,,"zaman, mix",Phonemic
+14-110-42-3,hinu1240,Hinuq,892,мих,CyrillTrans,time,,,"zaman, mix",Phonemic
+13-440-42-1,hinu1240,Hinuq,417,лъорах,CyrillTrans,three times,,,"ɬorax, ɬox",Phonemic
+13-440-42-3,hinu1240,Hinuq,417,лъох,CyrillTrans,three times,,,"ɬorax, ɬox",Phonemic
+13-420-42-1,hinu1240,Hinuq,1859,лъорас,CyrillTrans,third,,,"ɬoras, ɬono eƛa",Phonemic
+13-420-42-3,hinu1240,Hinuq,1859,лъоно элІа,CyrillTrans,third,,,"ɬoras, ɬono eƛa",Phonemic
+13-380-42-1,hinu1240,Hinuq,1546,кІох,CyrillTrans,two times,,,kʼox,Phonemic
+13-370-42-1,hinu1240,Hinuq,1888,къоно,CyrillTrans,pair,,,"ɣatʼ, čut",Phonemic
+13-370-42-3,hinu1240,Hinuq,1888,чут,CyrillTrans,pair,,,"ɣatʼ, čut",Phonemic
+13-360-42-1,hinu1240,Hinuq,1384,къенес,CyrillTrans,second,,,"qʼenes, qʼono eƛa",Phonemic
+13-360-42-3,hinu1240,Hinuq,1384,къоно элІа,CyrillTrans,second,,,"qʼenes, qʼono eƛa",Phonemic
+13-350-42-1,hinu1240,Hinuq,1529,ахирийав,CyrillTrans,last,,,"axiriyaw, hezzobitos",Phonemic
+13-350-42-3,hinu1240,Hinuq,1529,гьеззобитос,CyrillTrans,last,,,"axiriyaw, hezzobitos",Phonemic
+13-340-42-1,hinu1240,Hinuq,728,алдогъос,CyrillTrans,first,,,"aldoɣos, tʼosewesew",Phonemic
+13-340-42-3,hinu1240,Hinuq,728,тІосевесев,CyrillTrans,first,,,"aldoɣos, tʼosewesew",Phonemic
+13-330-42-1,hinu1240,Hinuq,1580,гьес,CyrillTrans,"alone, only",,,"hes, hes goɬiš",Phonemic
+13-330-42-3,hinu1240,Hinuq,1580,гьес голъиш,CyrillTrans,"alone, only",,,"hes, hes goɬiš",Phonemic
+13-240-42-1,hinu1240,Hinuq,816,ролІокІу,CyrillTrans,half,,,roƛokʼu,Phonemic
+13-230-42-1,hinu1240,Hinuq,779,бутІа,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-230-42-3,hinu1240,Hinuq,779,кесек,CyrillTrans,"part, piece",,,"butʼa, kesek",Phonemic
+13-220-42-1,hinu1240,Hinuq,1624,къокъору,CyrillTrans,empty,,,"qʼoqʼoru, čobogoyaw",Phonemic
+13-220-42-3,hinu1240,Hinuq,1624,чІобогойав,CyrillTrans,empty,,,"qʼoqʼoru, čobogoyaw",Phonemic
+13-210-42-1,hinu1240,Hinuq,1429,ричІиш,CyrillTrans,full,,,"ričʼiš, čʼekʼkʼutow",Phonemic
+13-210-42-3,hinu1240,Hinuq,1429,чІекІкІутов,CyrillTrans,full,,,"ričʼiš, čʼekʼkʼutow",Phonemic
+13-190-42-1,hinu1240,Hinuq,2023,аши,CyrillTrans,"multitude, crowd",,,"aši, ʕuraw",Phonemic
+13-190-42-3,hinu1240,Hinuq,2023,гІурав,CyrillTrans,"multitude, crowd",,,"aši, ʕuraw",Phonemic
+13-181-42-1,hinu1240,Hinuq,1241,сомолІа,CyrillTrans,some,,,somoƛa,Phonemic
+13-170-42-1,hinu1240,Hinuq,1242,дагь,CyrillTrans,"little (quantity), few",,,"dah, dahaw",Phonemic
+13-170-42-3,hinu1240,Hinuq,1242,дагьав,CyrillTrans,"little (quantity), few",,,"dah, dahaw",Phonemic
+13-180-42-1,hinu1240,Hinuq,1881,гІела,CyrillTrans,enough,,,"ʕela, ʕezziyaw",Phonemic
+13-180-42-3,hinu1240,Hinuq,1881,гІеззийав,CyrillTrans,enough,,,"ʕela, ʕezziyaw",Phonemic
+13-160-42-1,hinu1240,Hinuq,1992,режи,CyrillTrans,more,,,"reži, cʼikʼaraw",Phonemic
+13-160-42-3,hinu1240,Hinuq,1992,цІикІарав,CyrillTrans,more,,,"reži, cʼikʼaraw",Phonemic
+13-150-42-1,hinu1240,Hinuq,1198,аши,CyrillTrans,"much, many",,,"aši, ʕuraw",Phonemic
+13-150-42-3,hinu1240,Hinuq,1198,гІурав,CyrillTrans,"much, many",,,"aši, ʕuraw",Phonemic
+13-140-42-1,hinu1240,Hinuq,98,садахъ,CyrillTrans,"every, all",,,"sadaq, čʼekʼkʼu",Phonemic
+13-140-42-3,hinu1240,Hinuq,98,чІекІкІу,CyrillTrans,"every, all",,,"sadaq, čʼekʼkʼu",Phonemic
+13-107-42-1,hinu1240,Hinuq,1420,тІотра,CyrillTrans,count,,,tʼotra,Phonemic
+13-106-42-1,hinu1240,Hinuq,1843,гІазал,CyrillTrans,thousand,,,ʕazal,Phonemic
+13-105-42-1,hinu1240,Hinuq,1634,бишон,CyrillTrans,hundred,,,bišon,Phonemic
+13-104-42-1,hinu1240,Hinuq,1710,хъу,CyrillTrans,twenty,,,qu,Phonemic
+13-103-42-1,hinu1240,Hinuq,1709,оцІено лъено,CyrillTrans,fifteen,,,ocʼeno ɬeno,Phonemic
+13-102-42-1,hinu1240,Hinuq,1707,оцІено къоно,CyrillTrans,twelve,,,ocʼeno qʼono,Phonemic
+13-101-42-1,hinu1240,Hinuq,1706,оцІено гьес,CyrillTrans,eleven,,,ocʼeno hes,Phonemic
+13-100-42-1,hinu1240,Hinuq,1515,оцІено,CyrillTrans,ten,,,ocʼeno,Phonemic
+13-90-42-1,hinu1240,Hinuq,1483,гІачІино,CyrillTrans,nine,,,ʕačʼino,Phonemic
+13-80-42-1,hinu1240,Hinuq,1705,белІно,CyrillTrans,eight,,,beƛno,Phonemic
+13-70-42-1,hinu1240,Hinuq,1704,олІно,CyrillTrans,seven,,,oƛno,Phonemic
+13-60-42-1,hinu1240,Hinuq,1703,илъно,CyrillTrans,six,,,iɬno,Phonemic
+13-50-42-1,hinu1240,Hinuq,493,лъено,CyrillTrans,five,,,ɬeno,Phonemic
+13-40-42-1,hinu1240,Hinuq,1500,укъино,CyrillTrans,four,,,uqʼino,Phonemic
+13-20-42-1,hinu1240,Hinuq,1498,къоно,CyrillTrans,two,,,qʼono,Phonemic
+13-30-42-1,hinu1240,Hinuq,492,лъоно,CyrillTrans,three,,,ɬono,Phonemic
+13-10-42-1,hinu1240,Hinuq,1493,гьес,CyrillTrans,one,,,hes,Phonemic
+13-0-42-1,hinu1240,Hinuq,1294,нул,CyrillTrans,"zero, nothing",,,nul,Phonemic
+12-930-42-1,hinu1240,Hinuq,1264,хисси рува,CyrillTrans,change,,,"xissi ruwa, xežera",Phonemic
+12-930-42-3,hinu1240,Hinuq,1264,хежера,CyrillTrans,change,,,"xissi ruwa, xežera",Phonemic
+12-920-42-1,hinu1240,Hinuq,1558,илъиш,CyrillTrans,"like, similar",,,"iɬiš, hestow, reɬaraw",Phonemic
+12-920-42-3,hinu1240,Hinuq,1558,гьестов,CyrillTrans,"like, similar",,,"iɬiš, hestow, reɬaraw",Phonemic
+12-920-42-5,hinu1240,Hinuq,1558,рилъарав,CyrillTrans,"like, similar",,,"iɬiš, hestow, reɬaraw",Phonemic
+12-840-42-1,hinu1240,Hinuq,1048,мухъ,CyrillTrans,line,,,"muq, kux, ħuс̌, cux",Phonemic
+12-840-42-3,hinu1240,Hinuq,1048,кух,CyrillTrans,line,,,"muq, kux, ħuс̌, cux",Phonemic
+12-840-42-5,hinu1240,Hinuq,1048,хІуч,CyrillTrans,line,,,"muq, kux, ħuс̌, cux",Phonemic
+12-840-42-7,hinu1240,Hinuq,1048,цух,CyrillTrans,line,,,"muq, kux, ħuс̌, cux",Phonemic
+12-850-42-1,hinu1240,Hinuq,1667,хъод,CyrillTrans,hole,,,qod,Phonemic
+12-830-42-1,hinu1240,Hinuq,1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-42-1,hinu1240,Hinuq,1395,гемердийу,CyrillTrans,round,,,"gemerdiyu, gurginaw",Phonemic
+12-810-42-3,hinu1240,Hinuq,1395,гургинав,CyrillTrans,round,,,"gemerdiyu, gurginaw",Phonemic
+12-820-42-1,hinu1240,Hinuq,1467,гъемер,CyrillTrans,circle,,,"ɣemer, gor",Phonemic
+12-820-42-3,hinu1240,Hinuq,1467,гор,CyrillTrans,circle,,,"ɣemer, gor",Phonemic
+12-780-42-1,hinu1240,Hinuq,850,укъинбокІон,CyrillTrans,square,,,uqʼinobokʼon,Phonemic
+12-770-42-1,hinu1240,Hinuq,1367,хъанчи,CyrillTrans,cross,,,qanči,Phonemic
+12-760-42-1,hinu1240,Hinuq,192,цеми,CyrillTrans,corner,,,cemi,Phonemic
+12-750-42-1,hinu1240,Hinuq,1071,гъвакІу,CyrillTrans,hook,,,ɣʷakʼu,Phonemic
+12-740-42-1,hinu1240,Hinuq,297,бошали,CyrillTrans,crooked,,,"bošali, boššu, hetʼaraw",Phonemic
+12-740-42-3,hinu1240,Hinuq,297,бошу,CyrillTrans,crooked,,,"bošali, boššu, hetʼaraw",Phonemic
+12-740-42-5,hinu1240,Hinuq,297,гьетІарав,CyrillTrans,crooked,,,"bošali, boššu, hetʼaraw",Phonemic
+12-730-42-1,hinu1240,Hinuq,1404,рукъес,CyrillTrans,straight,,,"ruqʼes, biɬiš",Phonemic
+12-730-42-3,hinu1240,Hinuq,1404,билъиш,CyrillTrans,straight,,,"ruqʼes, biɬiš",Phonemic
+12-710-42-1,hinu1240,Hinuq,1633,кьекьукІа,CyrillTrans,flat,,,"ƛ̄ʼeƛ̄ʼukʼa, biɬiš",Phonemic
+12-710-42-3,hinu1240,Hinuq,1633,билъиш,CyrillTrans,flat,,,"ƛ̄ʼeƛ̄ʼukʼa, biɬiš",Phonemic
+12-680-42-1,hinu1240,Hinuq,193,гІисинав,CyrillTrans,shallow,,,"ʕisinaw, regʷey",Phonemic
+12-680-42-3,hinu1240,Hinuq,193,регвей,CyrillTrans,shallow,,,"ʕisinaw, regʷey",Phonemic
+12-670-42-1,hinu1240,Hinuq,1593,гогьорес,CyrillTrans,deep,,,"gohores, teɬeres, ɣʷaridaw",Phonemic
+12-670-42-3,hinu1240,Hinuq,1593,телъерес,CyrillTrans,deep,,,"gohores, teɬeres, ɣʷaridaw",Phonemic
+12-670-42-5,hinu1240,Hinuq,1593,гъваридав,CyrillTrans,deep,,,"gohores, teɬeres, ɣʷaridaw",Phonemic
+12-650-42-1,hinu1240,Hinuq,2249,дадару,CyrillTrans,thin (in dimension),,,"dadaru, tʼerenaw",Phonemic
+12-650-42-3,hinu1240,Hinuq,2249,тІеренав,CyrillTrans,thin (in dimension),,,"dadaru, tʼerenaw",Phonemic
+12-630-42-1,hinu1240,Hinuq,1244,эччу,CyrillTrans,thick (in dimension),,,ečču,Phonemic
+12-620-42-1,hinu1240,Hinuq,1267,хъуссу,CyrillTrans,narrow,,,qussu,Phonemic
+12-610-42-1,hinu1240,Hinuq,1243,холлу,CyrillTrans,"wide, broad",,,"xollu, ʕatʼidaw",Phonemic
+12-610-42-3,hinu1240,Hinuq,1243,гІатІидав,CyrillTrans,"wide, broad",,,"xollu, ʕatʼidaw",Phonemic
+12-590-42-1,hinu1240,Hinuq,1645,кІотту,CyrillTrans,short,,,kʼottu,Phonemic
+12-580-42-1,hinu1240,Hinuq,711,оссу,CyrillTrans,tall,,,ossu,Phonemic
+12-570-42-1,hinu1240,Hinuq,1203,рохору,CyrillTrans,long,,,roxoru,Phonemic
+12-560-42-1,hinu1240,Hinuq,1246,регвей,CyrillTrans,"small, little",,,regʷey,Phonemic
+12-550-42-1,hinu1240,Hinuq,1202,режи,CyrillTrans,"large, big",,,reži,Phonemic
+12-540-42-1,hinu1240,Hinuq,1506,расāз,CyrillTrans,measure,,,rasāz,Phonemic
+12-530-42-1,hinu1240,Hinuq,479,окъелъа,CyrillTrans,grow,,,oqʼeɬa,Phonemic
+12-480-42-1,hinu1240,Hinuq,1595,къилба,CyrillTrans,south,,,qʼilba,Phonemic
+12-470-42-1,hinu1240,Hinuq,1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-42-1,hinu1240,Hinuq,1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-42-1,hinu1240,Hinuq,1877,машрикъ,CyrillTrans,east,,,mašriqʼ,Phonemic
+12-430-42-1,hinu1240,Hinuq,1942,пурелъ,CyrillTrans,near (adv),,,"pureɬ, igo, saddaq",Phonemic
+12-430-42-3,hinu1240,Hinuq,1942,иго,CyrillTrans,near (adv),,,"pureɬ, igo, saddaq",Phonemic
+12-430-42-5,hinu1240,Hinuq,1942,саддахъ,CyrillTrans,near (adv),,,"pureɬ, igo, saddaq",Phonemic
+12-440-42-1,hinu1240,Hinuq,1406,мехъи,CyrillTrans,far (adv),,,meqi,Phonemic
+12-420-42-1,hinu1240,Hinuq,244,кочІомикьос (пу),CyrillTrans,left (side),,,kočʼomiƛ̄ʼos (pu),Phonemic
+12-410-42-1,hinu1240,Hinuq,1019,кветІкьос (пу),CyrillTrans,right (side),,,kʷetʼƛ̄ʼos (pu),Phonemic
+12-370-42-1,hinu1240,Hinuq,1093,ролІлІос,CyrillTrans,"middle, center",,,roƛƛos,Phonemic
+12-360-42-1,hinu1240,Hinuq,682,пу,CyrillTrans,side,,,"pu, pur, raq",Phonemic
+12-360-42-3,hinu1240,Hinuq,682,пур,CyrillTrans,side,,,"pu, pur, raq",Phonemic
+12-360-42-5,hinu1240,Hinuq,682,рахъ,CyrillTrans,side,,,"pu, pur, raq",Phonemic
+12-353-42-1,hinu1240,Hinuq,863,рагІал,CyrillTrans,edge,,,"raʕal, hutʼ",Phonemic
+12-353-42-3,hinu1240,Hinuq,863,гьутІ,CyrillTrans,edge,,,"raʕal, hutʼ",Phonemic
+12-352-42-1,hinu1240,Hinuq,372,цІокъкъу,CyrillTrans,pointed,,,cʼoqʼqʼu,Phonemic
+12-350-42-1,hinu1240,Hinuq,742,лъакъес,CyrillTrans,end,,,"ɬaqʼes, axir",Phonemic
+12-350-42-3,hinu1240,Hinuq,742,ахир,CyrillTrans,end,,,"ɬaqʼes, axir",Phonemic
+12-340-42-1,hinu1240,Hinuq,690,гелъ,CyrillTrans,bottom,,,geɬ,Phonemic
+12-320-42-1,hinu1240,Hinuq,721,лІоппогьо гелъ,CyrillTrans,low,,,ƛoppoho geɬ,Phonemic
+12-330-42-1,hinu1240,Hinuq,1753,къиму,CyrillTrans,top,,,qʼimu,Phonemic
+12-310-42-1,hinu1240,Hinuq,1265,оссагьо,CyrillTrans,high,,,ossaho,Phonemic
+12-270-42-1,hinu1240,Hinuq,602,рухъа,CyrillTrans,"hide, conceal",,,ruqa,Phonemic
+12-250-42-1,hinu1240,Hinuq,1046,рахъа,CyrillTrans,"shut, close",,,raqa,Phonemic
+12-260-42-1,hinu1240,Hinuq,761,кьере кура,CyrillTrans,cover,,,ƛ̄ʼere kura,Phonemic
+12-240-42-1,hinu1240,Hinuq,1156,рагъа,CyrillTrans,open,,,raɣa,Phonemic
+12-232-42-1,hinu1240,Hinuq,1119,бикьзи рува,CyrillTrans,divide,,,biƛ̄ʼzi ruwa,Phonemic
+12-230-42-1,hinu1240,Hinuq,1359,батІа рува,CyrillTrans,separate,,,batʼa ruwa,Phonemic
+12-220-42-1,hinu1240,Hinuq,1743,дандир ракъера,CyrillTrans,"join, unite",,,dandir raqʼera,Phonemic
+12-213-42-1,hinu1240,Hinuq,1576,гІези рува,CyrillTrans,pile up,,,"ʕezi ruwa, bakʼarzi ruwa",Phonemic
+12-213-42-3,hinu1240,Hinuq,1576,бакІарзи рува,CyrillTrans,pile up,,,"ʕezi ruwa, bakʼarzi ruwa",Phonemic
+12-212-42-1,hinu1240,Hinuq,371,рашира,CyrillTrans,pick up,,,"rašira, ruxra",Phonemic
+12-212-42-3,hinu1240,Hinuq,371,рухра,CyrillTrans,pick up,,,"rašira, ruxra",Phonemic
+12-210-42-1,hinu1240,Hinuq,7,бутира,CyrillTrans,"collect, gather",,,"butira, bakʼarzi ruwa",Phonemic
+12-210-42-3,hinu1240,Hinuq,7,бакІарзи рува,CyrillTrans,"collect, gather",,,"butira, bakʼarzi ruwa",Phonemic
+12-170-42-1,hinu1240,Hinuq,838,тутурилъи,CyrillTrans,"remains, left overs",,,"tuturɬi, ƛexʷe-ričiš",Phonemic
+12-170-42-3,hinu1240,Hinuq,838,лІехве-ричиш,CyrillTrans,"remains, left overs",,,"tuturɬi, ƛexʷe-ričiš",Phonemic
+12-160-42-1,hinu1240,Hinuq,987,лІехва,CyrillTrans,"remain, stay",,,"ƛexʷa, iča",Phonemic
+12-160-42-3,hinu1240,Hinuq,987,ича,CyrillTrans,"remain, stay",,,"ƛexʷa, iča",Phonemic
+12-150-42-1,hinu1240,Hinuq,1442,ихно ича,CyrillTrans,stand,,,"ixno iča, ičiru iča",Phonemic
+12-150-42-3,hinu1240,Hinuq,1442,ичиру ича,CyrillTrans,stand,,,"ixno iča, ičiru iča",Phonemic
+12-140-42-1,hinu1240,Hinuq,215,отІа,CyrillTrans,lie down,,,otʼa,Phonemic
+12-130-42-1,hinu1240,Hinuq,1416,къиди ича,CyrillTrans,sit,,,qʼidi iča,Phonemic
+12-120-42-1,hinu1240,Hinuq,998,гора,CyrillTrans,put,,,gora,Phonemic
+12-110-42-1,hinu1240,Hinuq,723,мочи,CyrillTrans,place,,,moči,Phonemic
+12-80-42-1,hinu1240,Hinuq,1591,кьере,CyrillTrans,"up, above",,,ƛ̄ʼere,Phonemic
+12-70-42-1,hinu1240,Hinuq,1485,гелъ,CyrillTrans,under,,,geɬ,Phonemic
+12-60-42-1,hinu1240,Hinuq,762,махъо,CyrillTrans,outside,,,"maqo, maqobito",Phonemic
+12-60-42-3,hinu1240,Hinuq,762,махъобито,CyrillTrans,outside,,,"maqo, maqobito",Phonemic
+12-50-42-1,hinu1240,Hinuq,1606,телъ,CyrillTrans,"inside, in",,,teɬ,Phonemic
+12-41-42-1,hinu1240,Hinuq,1883,алдогъо,CyrillTrans,front,,,aldoɣo,Phonemic
+12-40-42-1,hinu1240,Hinuq,1882,алдогъо,CyrillTrans,before,,,"aldoɣo, hayɬuɬ aldoɣo",Phonemic
+12-40-42-3,hinu1240,Hinuq,1882,гьайлъулъ алдогъо,CyrillTrans,before,,,"aldoɣo, hayɬuɬ aldoɣo",Phonemic
+12-30-42-1,hinu1240,Hinuq,2094,гелъеддо,CyrillTrans,"down, below",,,"geɬeddo, geɬ",Phonemic
+12-30-42-3,hinu1240,Hinuq,2094,гелъ,CyrillTrans,"down, below",,,"geɬeddo, geɬ",Phonemic
+12-20-42-1,hinu1240,Hinuq,1816,игор,CyrillTrans,beside,,,"igor, pureɬ",Phonemic
+12-20-42-3,hinu1240,Hinuq,1816,пурелъ,CyrillTrans,beside,,,"igor, pureɬ",Phonemic
+12-11-42-1,hinu1240,Hinuq,1686,гьайлІогьоддо,CyrillTrans,behind,,,hayƛohoddo,Phonemic
+12-10-42-1,hinu1240,Hinuq,1685,гьеззо,CyrillTrans,after,,,hezzo,Phonemic
+11-920-42-1,hinu1240,Hinuq,1098,рихера,CyrillTrans,weigh,,,"rixera, rasa",Phonemic
+11-920-42-3,hinu1240,Hinuq,1098,раса,CyrillTrans,weigh,,,"rixera, rasa",Phonemic
+11-910-42-1,hinu1240,Hinuq,884,рулъира,CyrillTrans,share (distribute),,,ruɬira,Phonemic
+11-890-42-1,hinu1240,Hinuq,1887,учузав,CyrillTrans,cheap,,,učuzaw,Phonemic
+11-880-42-1,hinu1240,Hinuq,1426,хирияб,CyrillTrans,"dear (costly, expensive)",,,xiriyab,Phonemic
+11-870-42-1,hinu1240,Hinuq,657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-42-1,hinu1240,Hinuq,752,магазин,CyrillTrans,"store, shop",,,"magazin, tukan",Phonemic
+11-860-42-3,hinu1240,Hinuq,752,тукан,CyrillTrans,"store, shop",,,"magazin, tukan",Phonemic
+11-850-42-1,hinu1240,Hinuq,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-42-1,hinu1240,Hinuq,1082,базарган,CyrillTrans,merchant,,,bazargan,Phonemic
+11-830-42-1,hinu1240,Hinuq,2135,бича-хиси,CyrillTrans,"trade, barter",,,"biča-xisi, daram, daram-bazar, toƛruxišɬi",Phonemic
+11-830-42-3,hinu1240,Hinuq,2135,дарам,CyrillTrans,"trade, barter",,,"biča-xisi, daram, daram-bazar, toƛruxišɬi",Phonemic
+11-830-42-5,hinu1240,Hinuq,2135,дарам-базар,CyrillTrans,"trade, barter",,,"biča-xisi, daram, daram-bazar, toƛruxišɬi",Phonemic
+11-830-42-7,hinu1240,Hinuq,2135,толІрухишлъи,CyrillTrans,"trade, barter",,,"biča-xisi, daram, daram-bazar, toƛruxišɬi",Phonemic
+11-820-42-1,hinu1240,Hinuq,1571,толІа,CyrillTrans,sell,,,toƛa,Phonemic
+11-810-42-1,hinu1240,Hinuq,1869,руха,CyrillTrans,buy,,,ruxa,Phonemic
+11-790-42-1,hinu1240,Hinuq,733,харж бува,CyrillTrans,earn,,,xarž buwa,Phonemic
+11-780-42-1,hinu1240,Hinuq,1122,хІалтІос мугь,CyrillTrans,wages,,,"ħaltʼos muh, xarž",Phonemic
+11-780-42-3,hinu1240,Hinuq,1122,харж,CyrillTrans,wages,,,"ħaltʼos muh, xarž",Phonemic
+11-770-42-1,hinu1240,Hinuq,856,эсен толІа,CyrillTrans,hire,,,"esen toƛa, hezzor butira",Phonemic
+11-770-42-3,hinu1240,Hinuq,856,гьеззор бутира,CyrillTrans,hire,,,"esen toƛa, hezzor butira",Phonemic
+11-690-42-1,hinu1240,Hinuq,873,хІакъ,CyrillTrans,"tax, tribute",,,"ħaqʼ, nalog",Phonemic
+11-690-42-3,hinu1240,Hinuq,873,налог,CyrillTrans,"tax, tribute",,,"ħaqʼ, nalog",Phonemic
+11-660-42-1,hinu1240,Hinuq,1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-42-1,hinu1240,Hinuq,718,толІа,CyrillTrans,pay (vb),,,toƛa,Phonemic
+11-640-42-1,hinu1240,Hinuq,1914,нагьлъи,CyrillTrans,debt,,,nahɬi,Phonemic
+11-630-42-1,hinu1240,Hinuq,369,нагьлъулав,CyrillTrans,owe,,,nahɬulaw,Phonemic
+11-620-42-1,hinu1240,Hinuq,1823,нагьлъимоз эсера,CyrillTrans,borrow,,,nahɬimoz esera,Phonemic
+11-610-42-1,hinu1240,Hinuq,582,нагьлъимоз толІа,CyrillTrans,lend,,,"nahɬimoz toƛa, qʼarza toƛa",Phonemic
+11-610-42-3,hinu1240,Hinuq,582,къарза толІа,CyrillTrans,lend,,,"nahɬimoz toƛa, qʼarza toƛa",Phonemic
+11-540-42-1,hinu1240,Hinuq,1774,къарумав,CyrillTrans,"avaricious, stingy",,,"qʼarumaw, baxilaw",Phonemic
+11-540-42-3,hinu1240,Hinuq,1774,бахилав,CyrillTrans,"avaricious, stingy",,,"qʼarumaw, baxilaw",Phonemic
+11-530-42-1,hinu1240,Hinuq,1934,гьардухъан,CyrillTrans,beggar,,,harduqan,Phonemic
+11-520-42-1,hinu1240,Hinuq,1674,мискинав,CyrillTrans,poor,,,miskinaw,Phonemic
+11-510-42-1,hinu1240,Hinuq,712,бечедав,CyrillTrans,rich,,,bečedaw,Phonemic
+11-440-42-1,hinu1240,Hinuq,1867,абази,CyrillTrans,coin,,,"abazi, šahi",Phonemic
+11-440-42-3,hinu1240,Hinuq,1867,шагьи,CyrillTrans,coin,,,"abazi, šahi",Phonemic
+11-430-42-1,hinu1240,Hinuq,1559,мецхер,CyrillTrans,money,,,mecxer,Phonemic
+11-340-42-1,hinu1240,Hinuq,1095,кекира,CyrillTrans,"release, let go",,,kekira,Phonemic
+11-330-42-1,hinu1240,Hinuq,1660,гвегва,CyrillTrans,lose,,,"gʷegʷa, riƛ̄ʼa",Phonemic
+11-330-42-3,hinu1240,Hinuq,1660,рикьа,CyrillTrans,lose,,,"gʷegʷa, riƛ̄ʼa",Phonemic
+11-320-42-1,hinu1240,Hinuq,719,раша,CyrillTrans,find,,,"raša, hacikʼa",Phonemic
+11-320-42-3,hinu1240,Hinuq,719,гьацикІа,CyrillTrans,find,,,"raša, hacikʼa",Phonemic
+11-310-42-1,hinu1240,Hinuq,1468,башира,CyrillTrans,"seek, look for",,,"bašira, beze-geza, hacikʼa, xal buwa",Phonemic
+11-310-42-3,hinu1240,Hinuq,1468,безе-геза,CyrillTrans,"seek, look for",,,"bašira, beze-geza, hacikʼa, xal buwa",Phonemic
+11-310-42-5,hinu1240,Hinuq,1468,гьацикІа,CyrillTrans,"seek, look for",,,"bašira, beze-geza, hacikʼa, xal buwa",Phonemic
+11-310-42-7,hinu1240,Hinuq,1468,хал бува,CyrillTrans,"seek, look for",,,"bašira, beze-geza, hacikʼa, xal buwa",Phonemic
+11-280-42-1,hinu1240,Hinuq,44,зарал бува,CyrillTrans,"harm, injure, damage",,,zaral buwa,Phonemic
+11-270-42-1,hinu1240,Hinuq,681,ругьера,CyrillTrans,destroy,,,"ruhera, poƛera",Phonemic
+11-270-42-3,hinu1240,Hinuq,681,полІера,CyrillTrans,destroy,,,"ruhera, poƛera",Phonemic
+11-250-42-1,hinu1240,Hinuq,2008,хвасар ува,CyrillTrans,"save, rescue",,,xʷasar uwa,Phonemic
+11-240-42-1,hinu1240,Hinuq,1997,цІунзи рува,CyrillTrans,"preserve, look after",,,cʼunzi ruwa,Phonemic
+11-220-42-1,hinu1240,Hinuq,85,гьеззор рутира,CyrillTrans,give back,,,"hezzor rutira, raqʼera",Phonemic
+11-220-42-3,hinu1240,Hinuq,85,ракъера,CyrillTrans,give back,,,"hezzor rutira, raqʼera",Phonemic
+11-210-42-1,hinu1240,Hinuq,1447,толІа,CyrillTrans,give,,,toƛa,Phonemic
+11-180-42-1,hinu1240,Hinuq,738,жо,CyrillTrans,thing,,,"žo, alat",Phonemic
+11-180-42-3,hinu1240,Hinuq,738,алат,CyrillTrans,thing,,,"žo, alat",Phonemic
+11-170-42-1,hinu1240,Hinuq,1477,цІунизи рува,CyrillTrans,"keep, retain",,,cʼunizi ruwa,Phonemic
+11-160-42-1,hinu1240,Hinuq,694,руха,CyrillTrans,"get, obtain",,,ruxa,Phonemic
+11-150-42-1,hinu1240,Hinuq,1448,рашира,CyrillTrans,hold,,,"rašira, rikera",Phonemic
+11-150-42-3,hinu1240,Hinuq,1448,рикера,CyrillTrans,hold,,,"rašira, rikera",Phonemic
+11-140-42-1,hinu1240,Hinuq,2021,рашира,CyrillTrans,"seize, grasp",,,"rašira, ruxa",Phonemic
+11-140-42-3,hinu1240,Hinuq,2021,руха,CyrillTrans,"seize, grasp",,,"rašira, ruxa",Phonemic
+11-130-42-1,hinu1240,Hinuq,1749,руха,CyrillTrans,take,,,ruxa,Phonemic
+11-120-42-1,hinu1240,Hinuq,684,ихтийар бува,CyrillTrans,"own, possess",,,ixtiyar buwa,Phonemic
+11-110-42-1,hinu1240,Hinuq,773,рихъа,CyrillTrans,have,,,riqa,Phonemic
+10-920-42-1,hinu1240,Hinuq,1922,рештІизи ихъа,CyrillTrans,land (vb),,,reštʼizi iqa,Phonemic
+10-910-42-1,hinu1240,Hinuq,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-42-1,hinu1240,Hinuq,1870,йакор,CyrillTrans,anchor,,,yakor,Phonemic
+10-880-42-1,hinu1240,Hinuq,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-42-1,hinu1240,Hinuq,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-42-1,hinu1240,Hinuq,108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-42-1,hinu1240,Hinuq,1849,лъедези ихъа,CyrillTrans,row (vb),,,ɬedezi iqa,Phonemic
+10-851-42-1,hinu1240,Hinuq,234,аку,CyrillTrans,paddle (noun),,,aku,Phonemic
+10-850-42-1,hinu1240,Hinuq,108,аку,CyrillTrans,oar,,,aku,Phonemic
+10-840-42-1,hinu1240,Hinuq,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-42-1,hinu1240,Hinuq,416,лодка,CyrillTrans,outrigger,,,"lodka, rasa",Phonemic
+10-832-42-3,hinu1240,Hinuq,416,раса,CyrillTrans,outrigger,,,"lodka, rasa",Phonemic
+10-831-42-1,hinu1240,Hinuq,1970,лодка,CyrillTrans,canoe,,,"lodka, rasa",Phonemic
+10-831-42-3,hinu1240,Hinuq,1970,раса,CyrillTrans,canoe,,,"lodka, rasa",Phonemic
+10-830-42-1,hinu1240,Hinuq,1844,лодка,CyrillTrans,boat,,,"lodka, rasa",Phonemic
+10-830-42-3,hinu1240,Hinuq,1844,раса,CyrillTrans,boat,,,"lodka, rasa",Phonemic
+10-810-42-1,hinu1240,Hinuq,740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-42-1,hinu1240,Hinuq,14,рокьи,CyrillTrans,yoke,,,roƛ̄ʼi,Phonemic
+10-770-42-1,hinu1240,Hinuq,1769,хІос,CyrillTrans,axle,,,ħos,Phonemic
+10-760-42-1,hinu1240,Hinuq,710,гъемер,CyrillTrans,wheel,,,ɣemer,Phonemic
+10-750-42-1,hinu1240,Hinuq,122,гьоко,CyrillTrans,"carriage, wagon, cart",,,hoko,Phonemic
+10-740-42-1,hinu1240,Hinuq,1011,лІемо,CyrillTrans,bridge,,,ƛemo,Phonemic
+10-720-42-1,hinu1240,Hinuq,2252,биликІи,CyrillTrans,path,,,bilikʼi,Phonemic
+10-710-42-1,hinu1240,Hinuq,667,гьуне,CyrillTrans,road,,,hune,Phonemic
+10-670-42-1,hinu1240,Hinuq,1452,гьалІин кура,CyrillTrans,"push, shove",,,"haƛin kura, haƛa",Phonemic
+10-670-42-3,hinu1240,Hinuq,1452,гьалІа,CyrillTrans,"push, shove",,,"haƛin kura, haƛa",Phonemic
+10-660-42-1,hinu1240,Hinuq,367,гулукьо икьа,CyrillTrans,ride,,,guluƛ̄ʼo iƛ̄ʼa,Phonemic
+10-650-42-1,hinu1240,Hinuq,741,машинакьо икьа,CyrillTrans,drive,,,mašinaƛ̄ʼo iƛ̄ʼa,Phonemic
+10-640-42-1,hinu1240,Hinuq,43,ижа,CyrillTrans,lead (vb),,,iža,Phonemic
+10-630-42-1,hinu1240,Hinuq,1127,кекира,CyrillTrans,send,,,kekira,Phonemic
+10-620-42-1,hinu1240,Hinuq,692,рикъа,CyrillTrans,bring,,,riqʼa,Phonemic
+10-615-42-1,hinu1240,Hinuq,415,гьабилІ рижа,CyrillTrans,carry-underarm,,,habiƛ riža,Phonemic
+10-614-42-1,hinu1240,Hinuq,414,къимукьо рижа,CyrillTrans,carry-on-head,,,qʼimuƛ̄ʼo riža,Phonemic
+10-613-42-1,hinu1240,Hinuq,413,къилакьо рижа,CyrillTrans,carry-on-shoulder,,,qʼilaƛ̄ʼo riža,Phonemic
+10-612-42-1,hinu1240,Hinuq,412,квезеракьо рижа,CyrillTrans,carry-in-hand,,,kʷezeraƛ̄ʼo riža,Phonemic
+10-610-42-1,hinu1240,Hinuq,700,рижа,CyrillTrans,carry (bear),,,riža,Phonemic
+10-570-42-1,hinu1240,Hinuq,749,телъеддо улъа,CyrillTrans,enter,,,"teɬeddo uɬa, teɬer uɬa",Phonemic
+10-570-42-3,hinu1240,Hinuq,749,телъер улъа,CyrillTrans,enter,,,"teɬeddo uɬa, teɬer uɬa",Phonemic
+10-560-42-1,hinu1240,Hinuq,1778,бикъилъа,CyrillTrans,approach,,,"biqʼita, ʕuntʼizi iqa",Phonemic
+10-560-42-3,hinu1240,Hinuq,1778,гІунтІизи ихъа,CyrillTrans,approach,,,"biqʼita, ʕuntʼizi iqa",Phonemic
+10-550-42-1,hinu1240,Hinuq,1387,рашира бакъа,CyrillTrans,"reach, arrive",,,rašira baqʼa,Phonemic
+10-530-42-1,hinu1240,Hinuq,1047,халбун гьеззо икьа,CyrillTrans,pursue,,,xalbun hezzo iƛ̄ʼa,Phonemic
+10-520-42-1,hinu1240,Hinuq,1085,гьеззо икьа,CyrillTrans,follow,,,hezzo iƛ̄ʼa,Phonemic
+10-510-42-1,hinu1240,Hinuq,956,охен икІелъа,CyrillTrans,flee,,,oxen ikʼeɬa,Phonemic
+10-491-42-1,hinu1240,Hinuq,485,алдогъос икІелъа,CyrillTrans,disappear,,,"aldoɣos ikʼeɬa, gʷegʷāz",Phonemic
+10-491-42-3,hinu1240,Hinuq,485,гвегвāз,CyrillTrans,disappear,,,"aldoɣos ikʼeɬa, gʷegʷāz",Phonemic
+10-490-42-1,hinu1240,Hinuq,1752,икьа,CyrillTrans,"go away, depart",,,iƛ̄ʼa,Phonemic
+10-481-42-1,hinu1240,Hinuq,581,ноха,CyrillTrans,come back,,,noxa,Phonemic
+10-480-42-1,hinu1240,Hinuq,1446,акъа,CyrillTrans,come,,,aqʼa,Phonemic
+10-474-42-1,hinu1240,Hinuq,1107,улъа,CyrillTrans,go out,,,uɬa,Phonemic
+10-473-42-1,hinu1240,Hinuq,2014,кьийо икьа,CyrillTrans,go down,,,"ƛ̄ʼiyo iƛ̄ʼa, ƛ̄ʼidir noxa, aqʼa",Phonemic
+10-473-42-3,hinu1240,Hinuq,2014,кьидир ноха,CyrillTrans,go down,,,"ƛ̄ʼiyo iƛ̄ʼa, ƛ̄ʼidir noxa, aqʼa",Phonemic
+10-473-42-5,hinu1240,Hinuq,2014,акъа,CyrillTrans,go down,,,"ƛ̄ʼiyo iƛ̄ʼa, ƛ̄ʼidir noxa, aqʼa",Phonemic
+10-472-42-1,hinu1240,Hinuq,1102,хвинхъо иха,CyrillTrans,climb,,,"xʷinqo ixa, toššid iƛ̄ʼa",Phonemic
+10-472-42-3,hinu1240,Hinuq,1102,тошшид икьа,CyrillTrans,climb,,,"xʷinqo ixa, toššid iƛ̄ʼa",Phonemic
+10-470-42-1,hinu1240,Hinuq,695,бикьа,CyrillTrans,go,,,biƛ̄ʼa,Phonemic
+10-471-42-1,hinu1240,Hinuq,705,шид икьа,CyrillTrans,go up,,,šid iƛ̄ʼa,Phonemic
+10-460-42-1,hinu1240,Hinuq,1519,олІо кІолІа,CyrillTrans,run,,,oƛo kʼoƛa,Phonemic
+10-451-42-1,hinu1240,Hinuq,366,шухъарийāз,CyrillTrans,limp,,,"šuqariyāz, reqʼɬezi iqa",Phonemic
+10-451-42-3,hinu1240,Hinuq,366,рекълъези ихъа,CyrillTrans,limp,,,"šuqariyāz, reqʼɬezi iqa",Phonemic
+10-450-42-1,hinu1240,Hinuq,1443,эхнāз,CyrillTrans,walk,,,exnāz,Phonemic
+10-440-42-1,hinu1240,Hinuq,1879,хъоццакьо кІолІа,CyrillTrans,dance,,,qoccaƛ̄ʼo kʼoƛa,Phonemic
+10-431-42-1,hinu1240,Hinuq,1135,гьобо цалІа,CyrillTrans,kick,,,hobo caƛa,Phonemic
+10-430-42-1,hinu1240,Hinuq,1829,бетен-кІолІа,CyrillTrans,"jump, leap",,,"betʼen-kʼoƛa, kʼoƛa",Phonemic
+10-430-42-3,hinu1240,Hinuq,1829,кІолІа,CyrillTrans,"jump, leap",,,"betʼen-kʼoƛa, kʼoƛa",Phonemic
+10-420-42-1,hinu1240,Hinuq,1324,палІера,CyrillTrans,"slide, slip",,,paƛera,Phonemic
+10-413-42-1,hinu1240,Hinuq,296,къиди ича,CyrillTrans,crouch,,,qʼidi iča,Phonemic
+10-412-42-1,hinu1240,Hinuq,66,бечназакьор ича,CyrillTrans,kneel,,,bečnazaƛ̄ʼor iča,Phonemic
+10-410-42-1,hinu1240,Hinuq,96,(ракьмокьо) лага лІеша,CyrillTrans,"creep, crawl",,,(raƛ̄ʼmoƛ̄ʼo) laga ƛeša,Phonemic
+10-380-42-1,hinu1240,Hinuq,175,муши пелІа,CyrillTrans,blow,,,muši peƛa,Phonemic
+10-370-42-1,hinu1240,Hinuq,1441,гьавакьо кІолІа,CyrillTrans,fly (vb),,,hawaƛ̄ʼo kʼoƛa,Phonemic
+10-360-42-1,hinu1240,Hinuq,787,лъедизи ихъа,CyrillTrans,sail (vb),,,ɬedizi iqa,Phonemic
+10-352-42-1,hinu1240,Hinuq,365,лъе чапзи рува,CyrillTrans,splash,,,ɬe čapzi ruwa,Phonemic
+10-351-42-1,hinu1240,Hinuq,119,лъейлъер кІолІа,CyrillTrans,dive,,,ɬeyɬer kʼoƛa,Phonemic
+10-350-42-1,hinu1240,Hinuq,1439,лъедизи ихъа,CyrillTrans,swim,,,ɬedizi iqa,Phonemic
+10-340-42-1,hinu1240,Hinuq,1574,лъейкьо кьере лъедизи ихъа,CyrillTrans,float,,,ɬeyƛ̄ʼo ƛ̄ʼere ɬedizi iqa,Phonemic
+10-330-42-1,hinu1240,Hinuq,1088,лъейилъ охъелъа,CyrillTrans,sink,,,"ɬeyiɬ oqeɬa, ɣanqʼizi iqa",Phonemic
+10-330-42-3,hinu1240,Hinuq,1088,гъанкъизи ихъа,CyrillTrans,sink,,,"ɬeyiɬ oqeɬa, ɣanqʼizi iqa",Phonemic
+10-320-42-1,hinu1240,Hinuq,2003,ричІилъа,CyrillTrans,flow,,,"ričʼiɬa, tʼarāz",Phonemic
+10-320-42-3,hinu1240,Hinuq,2003,тІарāз,CyrillTrans,flow,,,"ričʼiɬa, tʼarāz",Phonemic
+10-260-42-1,hinu1240,Hinuq,1909,лахлІера,CyrillTrans,shake,,,"laxƛera, kʼekʼera, kʼekʼrikʼra",Phonemic
+10-260-42-3,hinu1240,Hinuq,1909,кІекІера,CyrillTrans,shake,,,"laxƛera, kʼekʼera, kʼekʼrikʼra",Phonemic
+10-260-42-5,hinu1240,Hinuq,1909,кІекІрикІра,CyrillTrans,shake,,,"laxƛera, kʼekʼera, kʼekʼrikʼra",Phonemic
+10-252-42-1,hinu1240,Hinuq,702,башира (кІохІло),CyrillTrans,catch (ball),,,bašira (kʼoħlo),Phonemic
+10-250-42-1,hinu1240,Hinuq,1456,кура,CyrillTrans,throw,,,"kura, caƛa",Phonemic
+10-250-42-3,hinu1240,Hinuq,1456,цалІа,CyrillTrans,throw,,,"kura, caƛa",Phonemic
+10-240-42-1,hinu1240,Hinuq,2253,мутІмозад готІа,CyrillTrans,drip,,,mutʼmozad gotʼa,Phonemic
+10-230-42-1,hinu1240,Hinuq,1280,бихъа,CyrillTrans,fall,,,"biqa, biƛ̄ʼa, bosa, tʼarāz",Phonemic
+10-230-42-3,hinu1240,Hinuq,1280,бикьа,CyrillTrans,fall,,,"biqa, biƛ̄ʼa, bosa, tʼarāz",Phonemic
+10-230-42-5,hinu1240,Hinuq,1280,боса,CyrillTrans,fall,,,"biqa, biƛ̄ʼa, bosa, tʼarāz",Phonemic
+10-230-42-7,hinu1240,Hinuq,1280,тІарāз,CyrillTrans,fall,,,"biqa, biƛ̄ʼa, bosa, tʼarāz",Phonemic
+10-220-42-1,hinu1240,Hinuq,501,рихера,CyrillTrans,"raise, lift",,,rixera,Phonemic
+10-210-42-1,hinu1240,Hinuq,568,ӥха,CyrillTrans,rise,,,"ïxa, ƛ̄ʼerer ïxa",Phonemic
+10-210-42-3,hinu1240,Hinuq,568,кьерер ӥха,CyrillTrans,rise,,,"ïxa, ƛ̄ʼerer ïxa",Phonemic
+10-170-42-1,hinu1240,Hinuq,430,сотІи рутира,CyrillTrans,twist,,,sotʼi rutira,Phonemic
+10-160-42-1,hinu1240,Hinuq,808,рувасāз,CyrillTrans,drop (vb),,,"ruwasāz, tʼarāz",Phonemic
+10-160-42-3,hinu1240,Hinuq,808,тІарāз,CyrillTrans,drop (vb),,,"ruwasāz, tʼarāz",Phonemic
+10-150-42-1,hinu1240,Hinuq,827,сотІи рутира,CyrillTrans,roll,,,sotʼi rutira,Phonemic
+10-140-42-1,hinu1240,Hinuq,1113,рутира,CyrillTrans,"wind, wrap",,,rutira,Phonemic
+10-130-42-1,hinu1240,Hinuq,1445,гьеззор ута,CyrillTrans,turn around,,,hezzor uta,Phonemic
+10-120-42-1,hinu1240,Hinuq,1588,пуркьор ута,CyrillTrans,turn over,,,purƛ̄ʼor uta,Phonemic
+10-110-42-1,hinu1240,Hinuq,765,эхна-икьа,CyrillTrans,move,,,exna-iƛ̄ʼa,Phonemic
+9-890-42-1,hinu1240,Hinuq,2001,сурат бигъа,CyrillTrans,paint (vb),,,"surat biɣa, bixa, texra",Phonemic
+9-890-42-3,hinu1240,Hinuq,2001,биха,CyrillTrans,paint (vb),,,"surat biɣa, bixa, texra",Phonemic
+9-890-42-5,hinu1240,Hinuq,2001,техра,CyrillTrans,paint (vb),,,"surat biɣa, bixa, texra",Phonemic
+9-840-42-1,hinu1240,Hinuq,1979,тІахъ,CyrillTrans,chisel,,,"tʼaq, ešudori",Phonemic
+9-840-42-3,hinu1240,Hinuq,1979,эшудори,CyrillTrans,chisel,,,"tʼaq, ešudori",Phonemic
+9-880-42-1,hinu1240,Hinuq,647,лажбар,CyrillTrans,paint (noun),,,lažbar,Phonemic
+9-830-42-1,hinu1240,Hinuq,1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-42-1,hinu1240,Hinuq,914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-42-1,hinu1240,Hinuq,228,роцІа,CyrillTrans,carve,,,rocʼa,Phonemic
+9-791-42-1,hinu1240,Hinuq,360,лъаци рува,CyrillTrans,fan (vb),,,ɬaci ruwa,Phonemic
+9-790-42-1,hinu1240,Hinuq,1971,вентилятор,CyrillTrans,fan (noun),,,wentilator,Phonemic
+9-780-42-1,hinu1240,Hinuq,293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-42-1,hinu1240,Hinuq,292,тІанса,CyrillTrans,rug,,,tʼansa,Phonemic
+9-770-42-1,hinu1240,Hinuq,195,габа,CyrillTrans,mat,,,gaba,Phonemic
+9-760-42-1,hinu1240,Hinuq,1539,квид,CyrillTrans,basket,,,kʷid,Phonemic
+9-750-42-1,hinu1240,Hinuq,1729,код рува,CyrillTrans,"weave, plait",,,kod ruwa,Phonemic
+9-740-42-1,hinu1240,Hinuq,604,цІикай,CyrillTrans,glass,,,cʼikay,Phonemic
+9-730-42-1,hinu1240,Hinuq,1399,имичІ,CyrillTrans,clay,,,imičʼ,Phonemic
+9-720-42-1,hinu1240,Hinuq,289,куц готІа,CyrillTrans,mold (clay etc),,,kuc gotʼa,Phonemic
+9-710-42-1,hinu1240,Hinuq,359,шагІихъан,CyrillTrans,potter,,,šaʕiqan,Phonemic
+9-690-42-1,hinu1240,Hinuq,358,кер,CyrillTrans,"tin, tinplate",,,ker,Phonemic
+9-680-42-1,hinu1240,Hinuq,627,кебу,CyrillTrans,lead (noun),,,kebu,Phonemic
+9-670-42-1,hinu1240,Hinuq,621,кер,CyrillTrans,iron,,,ker,Phonemic
+9-660-42-1,hinu1240,Hinuq,1825,пак,CyrillTrans,"copper, bronze",,,pak,Phonemic
+9-650-42-1,hinu1240,Hinuq,759,укру,CyrillTrans,silver,,,ukru,Phonemic
+9-640-42-1,hinu1240,Hinuq,1369,месед,CyrillTrans,gold,,,mesed,Phonemic
+9-630-42-1,hinu1240,Hinuq,211,куц готІа,CyrillTrans,cast (metals),,,kuc gotʼa,Phonemic
+9-620-42-1,hinu1240,Hinuq,1648,керус къуре,CyrillTrans,anvil,,,kerus qʼure,Phonemic
+9-610-42-1,hinu1240,Hinuq,288,чІигъи,CyrillTrans,forge,,,čʼiɣi,Phonemic
+9-600-42-1,hinu1240,Hinuq,1001,къебед,CyrillTrans,"smith, blacksmith",,,qʼebed,Phonemic
+9-560-42-1,hinu1240,Hinuq,1069,сину,CyrillTrans,glue,,,sinu,Phonemic
+9-500-42-1,hinu1240,Hinuq,502,акІве,CyrillTrans,nail,,,akʼʷe,Phonemic
+9-490-42-1,hinu1240,Hinuq,1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-42-1,hinu1240,Hinuq,1948,хилих,CyrillTrans,saw,,,xilix,Phonemic
+9-461-42-1,hinu1240,Hinuq,46,билъа,CyrillTrans,hollow out,,,"biɬa, bïɬa",Phonemic
+9-461-42-3,hinu1240,Hinuq,46,бӥлъа,CyrillTrans,hollow out,,,"biɬa, bïɬa",Phonemic
+9-460-42-1,hinu1240,Hinuq,1501,хъод,CyrillTrans,bore,,,qod,Phonemic
+9-440-42-1,hinu1240,Hinuq,1840,рува,CyrillTrans,build,,,ruwa,Phonemic
+9-430-42-1,hinu1240,Hinuq,1042,хъацас устар,CyrillTrans,carpenter,,,qacas ustar,Phonemic
+9-422-42-1,hinu1240,Hinuq,1361,алат,CyrillTrans,tool,,,"alat, tʼaʕel, kʷart’a-qʼure",Phonemic
+9-422-42-3,hinu1240,Hinuq,1361,тІагІел,CyrillTrans,tool,,,"alat, tʼaʕel, kʷart’a-qʼure",Phonemic
+9-422-42-5,hinu1240,Hinuq,1361,квартІа-къуре,CyrillTrans,tool,,,"alat, tʼaʕel, kʷart’a-qʼure",Phonemic
+9-380-42-1,hinu1240,Hinuq,245,мос,CyrillTrans,broom,,,mos,Phonemic
+9-360-42-1,hinu1240,Hinuq,1453,кІиликІа,CyrillTrans,wash,,,kʼilikʼa,Phonemic
+9-370-42-1,hinu1240,Hinuq,230,ралІа,CyrillTrans,sweep,,,raƛa,Phonemic
+9-350-42-1,hinu1240,Hinuq,1487,готІа,CyrillTrans,pour,,,gotʼa,Phonemic
+9-343-42-1,hinu1240,Hinuq,1414,тІеца,CyrillTrans,"squeeze, wring",,,tʼeca,Phonemic
+9-342-42-1,hinu1240,Hinuq,1913,рикъира,CyrillTrans,press,,,riqʼira,Phonemic
+9-341-42-1,hinu1240,Hinuq,357,реха,CyrillTrans,hang up,,,rexa,Phonemic
+9-340-42-1,hinu1240,Hinuq,38,бетІера,CyrillTrans,spread out,,,"betʼera, retʼraɬira, tʼibitʼizi ruwa",Phonemic
+9-340-42-3,hinu1240,Hinuq,38,ретІралъира,CyrillTrans,spread out,,,"betʼera, retʼraɬira, tʼibitʼizi ruwa",Phonemic
+9-340-42-5,hinu1240,Hinuq,38,тІибитІизи рува,CyrillTrans,spread out,,,"betʼera, retʼraɬira, tʼibitʼizi ruwa",Phonemic
+9-330-42-1,hinu1240,Hinuq,1455,лІеша,CyrillTrans,pull,,,ƛeša,Phonemic
+9-320-42-1,hinu1240,Hinuq,214,лІеша,CyrillTrans,stretch,,,ƛeša,Phonemic
+9-310-42-1,hinu1240,Hinuq,1449,ругьера,CyrillTrans,"rub, wipe",,,ruhera,Phonemic
+9-290-42-1,hinu1240,Hinuq,291,хвиши бигъа,CyrillTrans,"flay, skin",,,xʷiši biɣa,Phonemic
+9-280-42-1,hinu1240,Hinuq,1735,ретІера,CyrillTrans,tear,,,retʼera,Phonemic
+9-270-42-1,hinu1240,Hinuq,1437,цІалІа,CyrillTrans,split,,,cʼaƛa,Phonemic
+9-261-42-1,hinu1240,Hinuq,588,кекериш,CyrillTrans,broken,,,"kekeriš, ruheriš",Phonemic
+9-261-42-3,hinu1240,Hinuq,588,ругьериш,CyrillTrans,broken,,,"kekeriš, ruheriš",Phonemic
+9-260-42-1,hinu1240,Hinuq,680,ругьера,CyrillTrans,break,,,"ruhera, kekera",Phonemic
+9-260-42-3,hinu1240,Hinuq,680,кекера,CyrillTrans,break,,,"ruhera, kekera",Phonemic
+9-250-42-1,hinu1240,Hinuq,677,ог,CyrillTrans,ax,,,og,Phonemic
+9-251-42-1,hinu1240,Hinuq,290,ишину,CyrillTrans,adze,,,išinu,Phonemic
+9-240-42-1,hinu1240,Hinuq,356,мокІортІи,CyrillTrans,"scissors, shears",,,mokʼortʼi,Phonemic
+9-230-42-1,hinu1240,Hinuq,1352,тІохъ,CyrillTrans,knife,,,tʼoq,Phonemic
+9-223-42-1,hinu1240,Hinuq,1434,къилъи рикьира,CyrillTrans,stab,,,qʼiɬi riƛ̄ʼira,Phonemic
+9-222-42-1,hinu1240,Hinuq,155,роцІа,CyrillTrans,"chop, hew",,,rocʼa,Phonemic
+9-221-42-1,hinu1240,Hinuq,355,регвекІа,CyrillTrans,cut down,,,regʷekʼa,Phonemic
+9-220-42-1,hinu1240,Hinuq,1432,роцІа,CyrillTrans,cut,,,rocʼa,Phonemic
+9-211-42-1,hinu1240,Hinuq,354,бешид зокІа,CyrillTrans,pound with fist,,,bešid zokʼa,Phonemic
+9-210-42-1,hinu1240,Hinuq,2133,зокІа,CyrillTrans,"strike (hit, beat)",,,zokʼa,Phonemic
+9-192-42-1,hinu1240,Hinuq,760,гарцІи,CyrillTrans,knot (noun),,,garcʼi,Phonemic
+9-190-42-1,hinu1240,Hinuq,1218,роч,CyrillTrans,"rope, cord",,,roč,Phonemic
+9-180-42-1,hinu1240,Hinuq,1627,реху,CyrillTrans,chain,,,rexu,Phonemic
+9-161-42-1,hinu1240,Hinuq,352,рекира,CyrillTrans,untie,,,rekira,Phonemic
+9-160-42-1,hinu1240,Hinuq,1917,реца,CyrillTrans,"tie, bind",,,reca,Phonemic
+9-150-42-1,hinu1240,Hinuq,1470,хъеша,CyrillTrans,fold,,,"qeša, rutira",Phonemic
+9-150-42-3,hinu1240,Hinuq,1470,рутира,CyrillTrans,fold,,,"qeša, rutira",Phonemic
+9-140-42-1,hinu1240,Hinuq,2004,бошира,CyrillTrans,bend,,,"bošira, bužira, ɬožera",Phonemic
+9-140-42-3,hinu1240,Hinuq,2004,бужира,CyrillTrans,bend,,,"bošira, bužira, ɬožera",Phonemic
+9-140-42-5,hinu1240,Hinuq,2004,лъожера,CyrillTrans,bend,,,"bošira, bužira, ɬožera",Phonemic
+9-120-42-1,hinu1240,Hinuq,984,хІалтІи,CyrillTrans,work,,,ħaltʼi,Phonemic
+9-110-42-1,hinu1240,Hinuq,2575,рува,CyrillTrans,"do, make",,,ruwa,Phonemic
+8-980-42-1,hinu1240,Hinuq,641,инахІзекІу,CyrillTrans,mushroom,,,inaħzekʼu,Phonemic
+8-970-42-1,hinu1240,Hinuq,33,меча,CyrillTrans,nettle,,,meča,Phonemic
+8-960-42-1,hinu1240,Hinuq,348,бесурос загьру,CyrillTrans,fish poison (root),,,besuros zahru,Phonemic
+8-941-42-1,hinu1240,Hinuq,146,чакариш чІархала,CyrillTrans,sugar cane,,,čakariš čʼarxala,Phonemic
+8-940-42-1,hinu1240,Hinuq,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-42-1,hinu1240,Hinuq,864,кІабах,CyrillTrans,"pumpkin, squash",,,kʼabax,Phonemic
+8-930-42-1,hinu1240,Hinuq,411,кІабах,CyrillTrans,gourd,,,kʼabax,Phonemic
+8-910-42-1,hinu1240,Hinuq,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-42-1,hinu1240,Hinuq,346,легъиш аже,CyrillTrans,banyan,,,leɣiš aže,Phonemic
+8-840-42-1,hinu1240,Hinuq,868,бананиш аже,CyrillTrans,banana tree,,,bananiš aže,Phonemic
+8-830-42-1,hinu1240,Hinuq,1126,цитрусиш пихъ,CyrillTrans,citrus fruit,,,citrusiš piq,Phonemic
+8-820-42-1,hinu1240,Hinuq,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-42-1,hinu1240,Hinuq,1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-42-1,hinu1240,Hinuq,345,бехос лъе,CyrillTrans,sap,,,bexos ɬe,Phonemic
+8-750-42-1,hinu1240,Hinuq,1204,хъал,CyrillTrans,bark,,,qal,Phonemic
+8-740-42-1,hinu1240,Hinuq,409,али,CyrillTrans,forked branch,,,ali,Phonemic
+8-730-42-1,hinu1240,Hinuq,344,хІуби,CyrillTrans,tree trunk,,,ħubi,Phonemic
+8-720-42-1,hinu1240,Hinuq,241,зуде,CyrillTrans,tree stump,,,zude,Phonemic
+8-691-42-1,hinu1240,Hinuq,1124,муштукІ,CyrillTrans,pipe,,,muštukʼ,Phonemic
+8-690-42-1,hinu1240,Hinuq,1689,таммакус кутІи,CyrillTrans,smoke (tobacco),,,tammakus kutʼi,Phonemic
+8-680-42-1,hinu1240,Hinuq,974,таммаку,CyrillTrans,tobacco,,,tammaku,Phonemic
+8-670-42-1,hinu1240,Hinuq,343,охъотІ,CyrillTrans,vine,,,oqotʼ,Phonemic
+8-660-42-1,hinu1240,Hinuq,968,нехукІра,CyrillTrans,acorn,,,nexukʼra,Phonemic
+8-650-42-1,hinu1240,Hinuq,1915,йолка,CyrillTrans,fir,,,yolka,Phonemic
+8-640-42-1,hinu1240,Hinuq,1740,ачитІ,CyrillTrans,pine,,,ačitʼ,Phonemic
+8-630-42-1,hinu1240,Hinuq,1855,мӣ,CyrillTrans,birch,,,mī,Phonemic
+8-620-42-1,hinu1240,Hinuq,1950,пепи,CyrillTrans,beech,,,pepi,Phonemic
+8-610-42-1,hinu1240,Hinuq,644,ролІонукІа,CyrillTrans,oak,,,"roƛonukʼa, nexukʼra",Phonemic
+8-610-42-3,hinu1240,Hinuq,644,нехукІра,CyrillTrans,oak,,,"roƛonukʼa, nexukʼra",Phonemic
+8-600-42-1,hinu1240,Hinuq,906,аже,CyrillTrans,tree,,,aže,Phonemic
+8-570-42-1,hinu1240,Hinuq,239,гага,CyrillTrans,flower,,,gaga,Phonemic
+8-560-42-1,hinu1240,Hinuq,628,лІебу,CyrillTrans,leaf,,,ƛebu,Phonemic
+8-550-42-1,hinu1240,Hinuq,1531,али,CyrillTrans,branch,,,ali,Phonemic
+8-540-42-1,hinu1240,Hinuq,670,гІаркьел,CyrillTrans,root,,,"ʕarƛ̄ʼel, rokʼe",Phonemic
+8-540-42-3,hinu1240,Hinuq,670,рокІе,CyrillTrans,root,,,"ʕarƛ̄ʼel, rokʼe",Phonemic
+8-531-42-1,hinu1240,Hinuq,1486,релІа,CyrillTrans,plant (vb),,,"reƛa, bižži ruwa",Phonemic
+8-531-42-3,hinu1240,Hinuq,1486,бижжи рува,CyrillTrans,plant (vb),,,"reƛa, bižži ruwa",Phonemic
+8-520-42-1,hinu1240,Hinuq,342,хъухъес бех,CyrillTrans,hay,,,quqes bex,Phonemic
+8-530-42-1,hinu1240,Hinuq,653,бех,CyrillTrans,plant (noun),,,bex,Phonemic
+8-510-42-1,hinu1240,Hinuq,606,бех,CyrillTrans,grass,,,bex,Phonemic
+8-480-42-1,hinu1240,Hinuq,926,пулав,CyrillTrans,rice,,,pulaw,Phonemic
+8-470-42-1,hinu1240,Hinuq,506,симинди,CyrillTrans,"maize, corn",,,simindi,Phonemic
+8-460-42-1,hinu1240,Hinuq,60,ниха,CyrillTrans,oats,,,nixa,Phonemic
+8-450-42-1,hinu1240,Hinuq,23,чибарлІу,CyrillTrans,rye,,,čibarƛu,Phonemic
+8-430-42-1,hinu1240,Hinuq,1077,атІ,CyrillTrans,wheat,,,atʼ,Phonemic
+8-440-42-1,hinu1240,Hinuq,932,махъа,CyrillTrans,barley,,,maqa,Phonemic
+8-420-42-1,hinu1240,Hinuq,605,махъа,CyrillTrans,"grain (barley, oats etc)",,,"maqa, muh",Phonemic
+8-420-42-3,hinu1240,Hinuq,605,мугь,CyrillTrans,"grain (barley, oats etc)",,,"maqa, muh",Phonemic
+8-410-42-1,hinu1240,Hinuq,611,бачІин,CyrillTrans,"crop, harvest",,,bačʼin,Phonemic
+8-350-42-1,hinu1240,Hinuq,223,ӣч,CyrillTrans,threshing-floor,,,īč,Phonemic
+8-340-42-1,hinu1240,Hinuq,285,релъай рува,CyrillTrans,thresh,,,reɬay ruwa,Phonemic
+8-330-42-1,hinu1240,Hinuq,2132,нешу,CyrillTrans,"sickle, scythe",,,"nešu, xalisen",Phonemic
+8-330-42-3,hinu1240,Hinuq,2132,халисен,CyrillTrans,"sickle, scythe",,,"nešu, xalisen",Phonemic
+8-320-42-1,hinu1240,Hinuq,190,рета̄з,CyrillTrans,"mow, reap",,,retāz,Phonemic
+8-311-42-1,hinu1240,Hinuq,714,эжу,CyrillTrans,seed,,,ežu,Phonemic
+8-310-42-1,hinu1240,Hinuq,748,релІа,CyrillTrans,sow,,,reƛa,Phonemic
+8-270-42-1,hinu1240,Hinuq,338,лІахлІакІу,CyrillTrans,rake,,,ƛaxƛakʼu,Phonemic
+8-260-42-1,hinu1240,Hinuq,337,гъомо,CyrillTrans,fork,,,ɣomo,Phonemic
+8-250-42-1,hinu1240,Hinuq,284,тохъи,CyrillTrans,hoe,,,"toqi, bezo",Phonemic
+8-250-42-3,hinu1240,Hinuq,284,безо,CyrillTrans,hoe,,,"toqi, bezo",Phonemic
+8-240-42-1,hinu1240,Hinuq,1901,рошонихъу,CyrillTrans,shovel,,,rošoniqu,Phonemic
+8-230-42-1,hinu1240,Hinuq,1176,аку,CyrillTrans,spade,,,aku,Phonemic
+8-212-42-1,hinu1240,Hinuq,1794,лах,CyrillTrans,furrow,,,"lax, beƛeƛ̄ʼos moči",Phonemic
+8-212-42-3,hinu1240,Hinuq,1794,белІекьос мочи,CyrillTrans,furrow,,,"lax, beƛeƛ̄ʼos moči",Phonemic
+8-220-42-1,hinu1240,Hinuq,1418,ричІа,CyrillTrans,dig,,,ričʼa,Phonemic
+8-210-42-1,hinu1240,Hinuq,1921,белІа,CyrillTrans,plow,,,beƛa,Phonemic
+8-170-42-1,hinu1240,Hinuq,2002,архи,CyrillTrans,ditch,,,arxi,Phonemic
+8-160-42-1,hinu1240,Hinuq,1690,галаван,CyrillTrans,fence,,,"galawan, ɣer, kore",Phonemic
+8-160-42-3,hinu1240,Hinuq,1690,гъер,CyrillTrans,fence,,,"galawan, ɣer, kore",Phonemic
+8-160-42-5,hinu1240,Hinuq,1690,коре,CyrillTrans,fence,,,"galawan, ɣer, kore",Phonemic
+8-150-42-1,hinu1240,Hinuq,1541,мочи белІа,CyrillTrans,"cultivate, till",,,moči beƛa,Phonemic
+8-130-42-1,hinu1240,Hinuq,586,ахибакІ,CyrillTrans,garden,,,axibakʼ,Phonemic
+8-120-42-1,hinu1240,Hinuq,212,мочи (белІекьос),CyrillTrans,field (for cultivation),,,moči (beƛeƛ̄ʼos),Phonemic
+8-110-42-1,hinu1240,Hinuq,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-42-1,hinu1240,Hinuq,901,кохи,CyrillTrans,adobe,,,koxi,Phonemic
+7-630-42-1,hinu1240,Hinuq,224,кираж,CyrillTrans,mortar,,,kiraž,Phonemic
+7-620-42-1,hinu1240,Hinuq,1006,агури,CyrillTrans,brick,,,aguri,Phonemic
+7-580-42-1,hinu1240,Hinuq,876,кІамури,CyrillTrans,arch,,,kʼamuri,Phonemic
+7-610-42-1,hinu1240,Hinuq,877,хъешухъан,CyrillTrans,mason,,,qešuqan,Phonemic
+7-570-42-1,hinu1240,Hinuq,1227,къил,CyrillTrans,board,,,qʼil,Phonemic
+7-560-42-1,hinu1240,Hinuq,281,им,CyrillTrans,"post, pole",,,im,Phonemic
+7-550-42-1,hinu1240,Hinuq,1132,лІугьу,CyrillTrans,beam,,,ƛuhu,Phonemic
+7-540-42-1,hinu1240,Hinuq,829,нухъо,CyrillTrans,rafter,,,"nuqo, tiri, giri",Phonemic
+7-540-42-3,hinu1240,Hinuq,829,тири,CyrillTrans,rafter,,,"nuqo, tiri, giri",Phonemic
+7-540-42-5,hinu1240,Hinuq,829,гири,CyrillTrans,rafter,,,"nuqo, tiri, giri",Phonemic
+7-530-42-1,hinu1240,Hinuq,280,къвачІа,CyrillTrans,ridgepole,,,qʼʷačʼa,Phonemic
+7-520-42-1,hinu1240,Hinuq,279,нохас кьу (цухани),CyrillTrans,thatch,,,noxasƛ̄ʼ ƛ̄ʼu (cuxani),Phonemic
+7-510-42-1,hinu1240,Hinuq,769,кьу,CyrillTrans,roof,,,"ƛ̄ʼu, cuxani",Phonemic
+7-510-42-3,hinu1240,Hinuq,769,цухани,CyrillTrans,roof,,,"ƛ̄ʼu, cuxani",Phonemic
+7-480-42-1,hinu1240,Hinuq,205,тара,CyrillTrans,trough,,,tara,Phonemic
+7-470-42-1,hinu1240,Hinuq,745,регъва,CyrillTrans,shelf,,,reɣʷa,Phonemic
+7-460-42-1,hinu1240,Hinuq,1273,сантели,CyrillTrans,candle,,,santeli,Phonemic
+7-450-42-1,hinu1240,Hinuq,2131,чирах,CyrillTrans,"lamp, torch",,,"čirax, lampa",Phonemic
+7-450-42-3,hinu1240,Hinuq,2131,лампа,CyrillTrans,"lamp, torch",,,"čirax, lampa",Phonemic
+7-440-42-1,hinu1240,Hinuq,1775,истІоли,CyrillTrans,table,,,istʼoli,Phonemic
+7-430-42-1,hinu1240,Hinuq,1476,къуре,CyrillTrans,chair,,,qʼure,Phonemic
+7-422-42-1,hinu1240,Hinuq,806,адийал,CyrillTrans,blanket,,,"adiyal, sabani",Phonemic
+7-422-42-3,hinu1240,Hinuq,806,сабани,CyrillTrans,blanket,,,"adiyal, sabani",Phonemic
+7-421-42-1,hinu1240,Hinuq,1044,састІури,CyrillTrans,pillow,,,"sastʼuri, qicca",Phonemic
+7-421-42-3,hinu1240,Hinuq,1044,хъицца,CyrillTrans,pillow,,,"sastʼuri, qicca",Phonemic
+7-420-42-1,hinu1240,Hinuq,1663,тах,CyrillTrans,bed,,,"tax, krawat",Phonemic
+7-420-42-3,hinu1240,Hinuq,1663,крават,CyrillTrans,bed,,,"tax, krawat",Phonemic
+7-370-42-1,hinu1240,Hinuq,1464,лІемо,CyrillTrans,ladder,,,ƛemo,Phonemic
+7-330-42-1,hinu1240,Hinuq,1305,бухари,CyrillTrans,chimney,,,buxari,Phonemic
+7-320-42-1,hinu1240,Hinuq,859,печ,CyrillTrans,stove,,,"peč, kori",Phonemic
+7-320-42-3,hinu1240,Hinuq,859,кори,CyrillTrans,stove,,,"peč, kori",Phonemic
+7-310-42-1,hinu1240,Hinuq,185,бухари,CyrillTrans,fireplace,,,buxari,Phonemic
+7-270-42-1,hinu1240,Hinuq,933,хъешу,CyrillTrans,wall,,,qešu,Phonemic
+7-260-42-1,hinu1240,Hinuq,1632,мужи,CyrillTrans,floor,,,"muži, qʼidiš moči",Phonemic
+7-260-42-3,hinu1240,Hinuq,1632,къидиш мочи,CyrillTrans,floor,,,"muži, qʼidiš moči",Phonemic
+7-250-42-1,hinu1240,Hinuq,1375,аки,CyrillTrans,window,,,aki,Phonemic
+7-240-42-1,hinu1240,Hinuq,1472,хишу,CyrillTrans,key,,,xišu,Phonemic
+7-231-42-1,hinu1240,Hinuq,1012,гъомо,CyrillTrans,"latch, door-bolt",,,"ɣomo, xišu",Phonemic
+7-231-42-3,hinu1240,Hinuq,1012,хишу,CyrillTrans,"latch, door-bolt",,,"ɣomo, xišu",Phonemic
+7-230-42-1,hinu1240,Hinuq,1596,хишу,CyrillTrans,lock (noun),,,xišu,Phonemic
+7-221-42-1,hinu1240,Hinuq,80,гъомо,CyrillTrans,"doorpost, jamb",,,ɣomo,Phonemic
+7-210-42-1,hinu1240,Hinuq,1450,булІе,CyrillTrans,room,,,buƛe,Phonemic
+7-220-42-1,hinu1240,Hinuq,1567,ац,CyrillTrans,"door, gate",,,ac,Phonemic
+7-180-42-1,hinu1240,Hinuq,335,мажлисас булІе,CyrillTrans,meeting house,,,"mažlisas buƛe, kulub",Phonemic
+7-180-42-3,hinu1240,Hinuq,335,кулуб,CyrillTrans,meeting house,,,"mažlisas buƛe, kulub",Phonemic
+7-170-42-1,hinu1240,Hinuq,334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-42-1,hinu1240,Hinuq,408,обузос булІе,CyrillTrans,men's house,,,obuzos buƛe,Phonemic
+7-150-42-1,hinu1240,Hinuq,736,беж,CyrillTrans,"yard, court",,,"bež, azbar, maħla",Phonemic
+7-150-42-3,hinu1240,Hinuq,736,азбар,CyrillTrans,"yard, court",,,"bež, azbar, maħla",Phonemic
+7-150-42-5,hinu1240,Hinuq,736,махІла,CyrillTrans,"yard, court",,,"bež, azbar, maħla",Phonemic
+7-140-42-1,hinu1240,Hinuq,1316,чадир,CyrillTrans,tent,,,čadir,Phonemic
+7-131-42-1,hinu1240,Hinuq,403,булІе,CyrillTrans,garden-house,,,buƛe,Phonemic
+7-130-42-1,hinu1240,Hinuq,1678,бегвей булІе,CyrillTrans,hut,,,begʷey buƛe,Phonemic
+7-120-42-1,hinu1240,Hinuq,1252,булІе,CyrillTrans,house,,,buƛe,Phonemic
+7-110-42-1,hinu1240,Hinuq,363,гІумру бува,CyrillTrans,"dwell, live",,,ʕumru buwa,Phonemic
+6-960-42-1,hinu1240,Hinuq,1171,цІикай,CyrillTrans,mirror,,,cʼikay,Phonemic
+6-950-42-1,hinu1240,Hinuq,788,сапІуни,CyrillTrans,soap,,,sapʼuni,Phonemic
+6-940-42-1,hinu1240,Hinuq,1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-42-1,hinu1240,Hinuq,151,даллак,CyrillTrans,razor,,,dallak,Phonemic
+6-921-42-1,hinu1240,Hinuq,333,халисен,CyrillTrans,braid,,,"xalisen, nešu",Phonemic
+6-921-42-3,hinu1240,Hinuq,333,нешу,CyrillTrans,braid,,,"xalisen, nešu",Phonemic
+6-920-42-1,hinu1240,Hinuq,1821,гьилІу,CyrillTrans,brush,,,hiƛu,Phonemic
+6-910-42-1,hinu1240,Hinuq,1475,гьилІу,CyrillTrans,comb,,,hiƛu,Phonemic
+6-820-42-1,hinu1240,Hinuq,1021,палатенца,CyrillTrans,towel,,,palatenca,Phonemic
+6-810-42-1,hinu1240,Hinuq,332,хидо ригъкьос (хидонахъос) чургъан,CyrillTrans,"handkerchief, rag",,,xido riɣƛ̄ʼos (xidonaqos) čurɣan,Phonemic
+6-780-42-1,hinu1240,Hinuq,330,кьокъон,CyrillTrans,"headband, headdress",,,"ƛ̄ʼoqʼon, qʼumuƛ̄ʼos, betʼareču",Phonemic
+6-780-42-3,hinu1240,Hinuq,330,къимукьос,CyrillTrans,"headband, headdress",,,"ƛ̄ʼoqʼon, qʼumuƛ̄ʼos, betʼareču",Phonemic
+6-780-42-5,hinu1240,Hinuq,330,бетІаречу,CyrillTrans,"headband, headdress",,,"ƛ̄ʼoqʼon, qʼumuƛ̄ʼos, betʼareču",Phonemic
+6-770-42-1,hinu1240,Hinuq,770,хетІабе,CyrillTrans,earring,,,xetʼabe,Phonemic
+6-760-42-1,hinu1240,Hinuq,1860,агъве,CyrillTrans,bead,,,aɣʷe,Phonemic
+6-750-42-1,hinu1240,Hinuq,1961,агъвебе,CyrillTrans,necklace,,,aɣʷebe,Phonemic
+6-740-42-1,hinu1240,Hinuq,1754,ака,CyrillTrans,bracelet,,,aka,Phonemic
+6-730-42-1,hinu1240,Hinuq,1374,кичи,CyrillTrans,ring (for finger),,,kiči,Phonemic
+6-720-42-1,hinu1240,Hinuq,1029,маржан,CyrillTrans,jewel,,,"maržan, yaqʼut",Phonemic
+6-720-42-3,hinu1240,Hinuq,1029,йакъут,CyrillTrans,jewel,,,"maržan, yaqʼut",Phonemic
+6-710-42-1,hinu1240,Hinuq,917,накъиш,CyrillTrans,"ornament, adornment",,,"naqʼiš, žaržali",Phonemic
+6-710-42-3,hinu1240,Hinuq,917,жаржали,CyrillTrans,"ornament, adornment",,,"naqʼiš, žaržali",Phonemic
+6-630-42-1,hinu1240,Hinuq,64,лъихердому макъваре,CyrillTrans,pin,,,ɬixerdomu maqʼʷare,Phonemic
+6-620-42-1,hinu1240,Hinuq,757,геза,CyrillTrans,button,,,"geza, cetʼa",Phonemic
+6-620-42-3,hinu1240,Hinuq,757,цетІа,CyrillTrans,button,,,"geza, cetʼa",Phonemic
+6-610-42-1,hinu1240,Hinuq,1851,бакье,CyrillTrans,pocket,,,"baƛ̄ʼe, čanta",Phonemic
+6-610-42-3,hinu1240,Hinuq,1851,чанта,CyrillTrans,pocket,,,"baƛ̄ʼe, čanta",Phonemic
+6-590-42-1,hinu1240,Hinuq,1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-42-1,hinu1240,Hinuq,867,лІокІона,CyrillTrans,glove,,,ƛokʼona,Phonemic
+6-570-42-1,hinu1240,Hinuq,772,ашуне,CyrillTrans,"belt, girdle",,,ašune,Phonemic
+6-550-42-1,hinu1240,Hinuq,2130,шилапа,CyrillTrans,"hat, cap",,,šilapa,Phonemic
+6-540-42-1,hinu1240,Hinuq,875,чакмачи,CyrillTrans,"shoemaker, cobbler",,,čakmači,Phonemic
+6-510-42-1,hinu1240,Hinuq,1381,рорхъос,CyrillTrans,shoe,,,rorqos,Phonemic
+6-520-42-1,hinu1240,Hinuq,585,рорхъос,CyrillTrans,boot,,,"rorqos, patinka",Phonemic
+6-520-42-3,hinu1240,Hinuq,585,патинка,CyrillTrans,boot,,,"rorqos, patinka",Phonemic
+6-490-42-1,hinu1240,Hinuq,329,цІинда,CyrillTrans,"stocking, sock",,,cʼinda,Phonemic
+6-480-42-1,hinu1240,Hinuq,809,гьелІу,CyrillTrans,trousers,,,heƛu,Phonemic
+6-461-42-1,hinu1240,Hinuq,328,йупка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-42-1,hinu1240,Hinuq,1600,йупка,CyrillTrans,skirt,,,yupka,Phonemic
+6-450-42-1,hinu1240,Hinuq,2012,моцІ,CyrillTrans,collar,,,mocʼ,Phonemic
+6-440-42-1,hinu1240,Hinuq,1622,кІобой,CyrillTrans,shirt,,,kʼoboy,Phonemic
+6-430-42-1,hinu1240,Hinuq,603,палту,CyrillTrans,coat,,,paltu,Phonemic
+6-420-42-1,hinu1240,Hinuq,474,кунта,CyrillTrans,woman's dress,,,"kunta, kʼaba",Phonemic
+6-420-42-3,hinu1240,Hinuq,474,кІаба,CyrillTrans,woman's dress,,,"kunta, kʼaba",Phonemic
+6-390-42-1,hinu1240,Hinuq,157,лажбар,CyrillTrans,dye,,,lažbar,Phonemic
+6-410-42-1,hinu1240,Hinuq,326,палаш,CyrillTrans,cloak,,,palaš,Phonemic
+6-380-42-1,hinu1240,Hinuq,1161,мекъу,CyrillTrans,thread,,,meqʼu,Phonemic
+6-360-42-1,hinu1240,Hinuq,1382,макъваре,CyrillTrans,needle,,,maqʼʷare,Phonemic
+6-370-42-1,hinu1240,Hinuq,278,иму,CyrillTrans,awl,,,imu,Phonemic
+6-350-42-1,hinu1240,Hinuq,1457,рахъва,CyrillTrans,sew,,,raqʷa,Phonemic
+6-340-42-1,hinu1240,Hinuq,1787,истанок,CyrillTrans,loom,,,istanok,Phonemic
+6-330-42-1,hinu1240,Hinuq,133,биша,CyrillTrans,weave,,,biša,Phonemic
+6-320-42-1,hinu1240,Hinuq,277,икь,CyrillTrans,spindle,,,iƛ̄ʼ,Phonemic
+6-310-42-1,hinu1240,Hinuq,121,хеде̄з,CyrillTrans,spin,,,xedēz,Phonemic
+6-290-42-1,hinu1240,Hinuq,629,хвиши,CyrillTrans,leather,,,xʷiši,Phonemic
+6-280-42-1,hinu1240,Hinuq,580,къер,CyrillTrans,fur,,,qʼer,Phonemic
+6-270-42-1,hinu1240,Hinuq,325,къер,CyrillTrans,felt,,,"qʼer, xe",Phonemic
+6-270-42-3,hinu1240,Hinuq,325,хе,CyrillTrans,felt,,,"qʼer, xe",Phonemic
+6-250-42-1,hinu1240,Hinuq,1641,дарай,CyrillTrans,silk,,,daray,Phonemic
+6-240-42-1,hinu1240,Hinuq,1850,бамба,CyrillTrans,cotton,,,bamba,Phonemic
+6-230-42-1,hinu1240,Hinuq,916,лъелъ,CyrillTrans,"linen, flax",,,ɬeɬ,Phonemic
+6-220-42-1,hinu1240,Hinuq,964,лъус,CyrillTrans,wool,,,ɬus,Phonemic
+6-210-42-1,hinu1240,Hinuq,1616,нига-гъичІи,CyrillTrans,cloth,,,niga-ɣičʼi,Phonemic
+6-130-42-1,hinu1240,Hinuq,881,шекьу рахъвикьос рекІве,CyrillTrans,tailor,,,šeƛ̄ʼu raqʷiƛ̄ʼos rekʼʷe,Phonemic
+6-120-42-1,hinu1240,Hinuq,1895,шекьу,CyrillTrans,"clothing, clothes",,,"šeƛ̄ʼu, šeƛ̄ʼu-boƛ̄ʼo",Phonemic
+6-120-42-3,hinu1240,Hinuq,1895,шекьу-бокьо,CyrillTrans,"clothing, clothes",,,"šeƛ̄ʼu, šeƛ̄ʼu-boƛ̄ʼo",Phonemic
+6-110-42-1,hinu1240,Hinuq,158,геха,CyrillTrans,put on (clothes),,,"gexa, liya",Phonemic
+6-110-42-3,hinu1240,Hinuq,158,лийа,CyrillTrans,put on (clothes),,,"gexa, liya",Phonemic
+5-971-42-1,hinu1240,Hinuq,1556,гуде,CyrillTrans,egg yolk,,,gude,Phonemic
+5-970-42-1,hinu1240,Hinuq,744,къимацІ,CyrillTrans,egg,,,qʼimacʼ,Phonemic
+5-940-42-1,hinu1240,Hinuq,404,зере,CyrillTrans,fermented drink,,,zere,Phonemic
+5-930-42-1,hinu1240,Hinuq,1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-42-1,hinu1240,Hinuq,1524,чагъир,CyrillTrans,wine,,,čaɣir,Phonemic
+5-910-42-1,hinu1240,Hinuq,941,нуцос мед,CyrillTrans,mead,,,nucos med,Phonemic
+5-900-42-1,hinu1240,Hinuq,731,лъе,CyrillTrans,"beverage, drink",,,ɬe,Phonemic
+5-890-42-1,hinu1240,Hinuq,1245,чечей,CyrillTrans,butter,,,čečey,Phonemic
+5-880-42-1,hinu1240,Hinuq,1569,ах,CyrillTrans,cheese,,,ax,Phonemic
+5-870-42-1,hinu1240,Hinuq,93,тІотІа,CyrillTrans,milk (vb),,,tʼotʼa,Phonemic
+5-850-42-1,hinu1240,Hinuq,862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-42-1,hinu1240,Hinuq,635,гъи,CyrillTrans,milk (noun),,,ɣi,Phonemic
+5-840-42-1,hinu1240,Hinuq,942,нуце,CyrillTrans,honey,,,nuce,Phonemic
+5-821-42-1,hinu1240,Hinuq,919,кьогІав цІицІаки,CyrillTrans,chili pepper,,,ƛ̄ʼoʕaw cʼicʼaki,Phonemic
+5-820-42-1,hinu1240,Hinuq,1385,истовт,CyrillTrans,pepper,,,"istowt, pʼilpʼil, cʼicʼaka, cʼicʼaki",Phonemic
+5-820-42-3,hinu1240,Hinuq,1385,пІилпІил,CyrillTrans,pepper,,,"istowt, pʼilpʼil, cʼicʼaka, cʼicʼaki",Phonemic
+5-820-42-5,hinu1240,Hinuq,1385,цІицІакІа,CyrillTrans,pepper,,,"istowt, pʼilpʼil, cʼicʼaka, cʼicʼaki",Phonemic
+5-820-42-7,hinu1240,Hinuq,1385,цІацІаки,CyrillTrans,pepper,,,"istowt, pʼilpʼil, cʼicʼaka, cʼicʼaki",Phonemic
+5-810-42-1,hinu1240,Hinuq,1274,чийо,CyrillTrans,salt,,,čiyo,Phonemic
+5-791-42-1,hinu1240,Hinuq,323,хурус чечей,CyrillTrans,"grease, fat",,,"xurus čečey, miʔi",Phonemic
+5-791-42-3,hinu1240,Hinuq,323,мии,CyrillTrans,"grease, fat",,,"xurus čečey, miʔi",Phonemic
+5-790-42-1,hinu1240,Hinuq,1484,зети,CyrillTrans,oil,,,zeti,Phonemic
+5-780-42-1,hinu1240,Hinuq,1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-42-1,hinu1240,Hinuq,920,кІвиди,CyrillTrans,grape,,,kʼʷidi,Phonemic
+5-770-42-1,hinu1240,Hinuq,191,вахъи,CyrillTrans,nut,,,waqi,Phonemic
+5-750-42-1,hinu1240,Hinuq,322,легъи,CyrillTrans,fig,,,leɣi,Phonemic
+5-712-42-1,hinu1240,Hinuq,1966,охъотІ,CyrillTrans,bunch,,,oqotʼ,Phonemic
+5-710-42-1,hinu1240,Hinuq,1507,пихъ,CyrillTrans,fruit,,,piq,Phonemic
+5-700-42-1,hinu1240,Hinuq,593,картушка,CyrillTrans,potato,,,"kartuška, kʼartupeli",Phonemic
+5-700-42-3,hinu1240,Hinuq,593,кІартІупели,CyrillTrans,potato,,,"kartuška, kʼartupeli",Phonemic
+5-660-42-1,hinu1240,Hinuq,832,гьилу,CyrillTrans,bean,,,hilu,Phonemic
+5-650-42-1,hinu1240,Hinuq,924,пихъ-мичІ,CyrillTrans,vegetables,,,piq-mičʼ,Phonemic
+5-640-42-1,hinu1240,Hinuq,1547,чорпа,CyrillTrans,"soup, broth",,,čorpa,Phonemic
+5-630-42-1,hinu1240,Hinuq,1874,инаху,CyrillTrans,sausage,,,inaxu,Phonemic
+5-610-42-1,hinu1240,Hinuq,634,ху,CyrillTrans,meat,,,xu,Phonemic
+5-590-42-1,hinu1240,Hinuq,225,гензори,CyrillTrans,pestle,,,"genzori, ražiqu",Phonemic
+5-590-42-3,hinu1240,Hinuq,225,ражихъу,CyrillTrans,pestle,,,"genzori, ražiqu",Phonemic
+5-580-42-1,hinu1240,Hinuq,224,тІилухІ,CyrillTrans,mortar (2),,,tʼiluħ,Phonemic
+5-570-42-1,hinu1240,Hinuq,636,гъеме,CyrillTrans,mill,,,ɣeme,Phonemic
+5-560-42-1,hinu1240,Hinuq,1033,кекера,CyrillTrans,"crush, grind",,,"kekera, tʼetʼa, xoxorekʼa",Phonemic
+5-560-42-3,hinu1240,Hinuq,1033,тІетІа,CyrillTrans,"crush, grind",,,"kekera, tʼetʼa, xoxorekʼa",Phonemic
+5-560-42-5,hinu1240,Hinuq,1033,хохорекІа,CyrillTrans,"crush, grind",,,"kekera, tʼetʼa, xoxorekʼa",Phonemic
+5-550-42-1,hinu1240,Hinuq,1594,атІ,CyrillTrans,"meal, flour",,,atʼ,Phonemic
+5-540-42-1,hinu1240,Hinuq,274,(рото) рува,CyrillTrans,knead,,,(roto) ruwa,Phonemic
+5-530-42-1,hinu1240,Hinuq,273,рото,CyrillTrans,dough,,,roto,Phonemic
+5-510-42-1,hinu1240,Hinuq,1368,магалу,CyrillTrans,bread,,,magalu,Phonemic
+5-490-42-1,hinu1240,Hinuq,2017,багъарзи рува,CyrillTrans,"stir, mix",,,"baɣarzi ruwa, žubazi ruwa",Phonemic
+5-490-42-3,hinu1240,Hinuq,2017,жубази рува,CyrillTrans,"stir, mix",,,"baɣarzi ruwa, žubazi ruwa",Phonemic
+5-480-42-1,hinu1240,Hinuq,1767,къукъа,CyrillTrans,scrape,,,qʼuqʼa,Phonemic
+5-470-42-1,hinu1240,Hinuq,86,эзāз,CyrillTrans,"sieve, strain",,,ezāz,Phonemic
+5-460-42-1,hinu1240,Hinuq,275,(пихъ) бацІад рува,CyrillTrans,peel,,,"(piq) bacʼad ruwa, bičira",Phonemic
+5-460-42-3,hinu1240,Hinuq,275,бичира,CyrillTrans,peel,,,"(piq) bacʼad ruwa, bičira",Phonemic
+5-450-42-1,hinu1240,Hinuq,1833,несас биша,CyrillTrans,supper,,,nesas biša,Phonemic
+5-440-42-1,hinu1240,Hinuq,1833,носодес биша,CyrillTrans,dinner,,,nosodes biša,Phonemic
+5-420-42-1,hinu1240,Hinuq,1322,сасахъос биша,CyrillTrans,breakfast,,,sasaqos biša,Phonemic
+5-410-42-1,hinu1240,Hinuq,1526,биша,CyrillTrans,meal (a),,,biša,Phonemic
+5-391-42-1,hinu1240,Hinuq,272,хоцІу,CyrillTrans,tongs,,,xocʼu,Phonemic
+5-390-42-1,hinu1240,Hinuq,1302,къилъи,CyrillTrans,fork (2),,,qʼiɬi,Phonemic
+5-380-42-1,hinu1240,Hinuq,1352,тІохъ,CyrillTrans,knife (2),,,tʼoq,Phonemic
+5-370-42-1,hinu1240,Hinuq,1378,кІовзи,CyrillTrans,spoon,,,kʼowzi,Phonemic
+5-360-42-1,hinu1240,Hinuq,271,кІотІо,CyrillTrans,saucer,,,kʼotʼo,Phonemic
+5-350-42-1,hinu1240,Hinuq,476,кІотІо,CyrillTrans,"cup, drinking vessel",,,kʼotʼo,Phonemic
+5-340-42-1,hinu1240,Hinuq,270,тунги,CyrillTrans,"pitcher, jug",,,tungi,Phonemic
+5-320-42-1,hinu1240,Hinuq,480,кІотІо,CyrillTrans,plate,,,kʼotʼo,Phonemic
+5-310-42-1,hinu1240,Hinuq,481,кІотІо,CyrillTrans,dish,,,kʼotʼo,Phonemic
+5-280-42-1,hinu1240,Hinuq,31,шог,CyrillTrans,pan,,,šog,Phonemic
+5-260-42-1,hinu1240,Hinuq,1462,шог,CyrillTrans,"pot, cooking vessel",,,šog,Phonemic
+5-270-42-1,hinu1240,Hinuq,854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-42-1,hinu1240,Hinuq,183,решāз,CyrillTrans,bake,,,rešāz,Phonemic
+5-250-42-1,hinu1240,Hinuq,1143,печ,CyrillTrans,oven,,,peč,Phonemic
+5-230-42-1,hinu1240,Hinuq,2146,реша̄з,CyrillTrans,"roast, fry",,,"rešāz, tʼaƛera",Phonemic
+5-230-42-3,hinu1240,Hinuq,2146,тІалІера,CyrillTrans,"roast, fry",,,"rešāz, tʼaƛera",Phonemic
+5-220-42-1,hinu1240,Hinuq,792,хъор бигъра,CyrillTrans,boil (vb),,,qor biɣra,Phonemic
+5-210-42-1,hinu1240,Hinuq,1100,рехира,CyrillTrans,cook,,,rexira,Phonemic
+5-190-42-1,hinu1240,Hinuq,129,гъанкъези ува,CyrillTrans,choke,,,ɣanqʼezi uwa,Phonemic
+5-181-42-1,hinu1240,Hinuq,897,рика,CyrillTrans,swallow,,,rika,Phonemic
+5-180-42-1,hinu1240,Hinuq,321,къачІа̄з,CyrillTrans,chew,,,qʼačʼāz,Phonemic
+5-160-42-1,hinu1240,Hinuq,1421,гьердōз,CyrillTrans,suck,,,"herdōz, čoƛ̄ʼɬa",Phonemic
+5-160-42-3,hinu1240,Hinuq,1421,чокьлъа,CyrillTrans,suck,,,"herdōz, čoƛ̄ʼɬa",Phonemic
+5-150-42-1,hinu1240,Hinuq,848,ахъаслъи,CyrillTrans,thirst,,,"aqasɬi, q’eč",Phonemic
+5-150-42-3,hinu1240,Hinuq,848,къеч,CyrillTrans,thirst,,,"aqasɬi, q’eč",Phonemic
+5-141-42-1,hinu1240,Hinuq,199,ракъи,CyrillTrans,famine,,,raq’i,Phonemic
+5-140-42-1,hinu1240,Hinuq,1864,неквеслъи,CyrillTrans,hunger,,,nekʷesɬi,Phonemic
+5-130-42-1,hinu1240,Hinuq,1401,га̄з,CyrillTrans,drink,,,gāz,Phonemic
+5-125-42-1,hinu1240,Hinuq,1728,къекъес,CyrillTrans,rotten,,,qʼeqʼes,Phonemic
+5-124-42-1,hinu1240,Hinuq,1958,кьокъесме,CyrillTrans,"green, unripe",,,ƛ̄ʼoqʼesme,Phonemic
+5-123-42-1,hinu1240,Hinuq,178,кьокъес,CyrillTrans,ripe,,,ƛ̄ʼoqʼes,Phonemic
+5-122-42-1,hinu1240,Hinuq,1959,атІтІу,CyrillTrans,raw,,,atʼtʼu,Phonemic
+5-121-42-1,hinu1240,Hinuq,269,рехириш,CyrillTrans,cooked,,,rexiriš,Phonemic
+5-120-42-1,hinu1240,Hinuq,256,биша,CyrillTrans,food,,,"biša, ken",Phonemic
+5-120-42-3,hinu1240,Hinuq,256,кен,CyrillTrans,food,,,"biša, ken",Phonemic
+5-110-42-1,hinu1240,Hinuq,1336,иша,CyrillTrans,eat,,,"iša, racʼa",Phonemic
+5-110-42-3,hinu1240,Hinuq,1336,рацІа,CyrillTrans,eat,,,"iša, racʼa",Phonemic
+4-990-42-1,hinu1240,Hinuq,590,адару,CyrillTrans,"naked, bare",,,adaru,Phonemic
+4-970-42-1,hinu1240,Hinuq,1653,беццав,CyrillTrans,blind,,,beccaw,Phonemic
+4-980-42-1,hinu1240,Hinuq,1463,га̄с,CyrillTrans,intoxicated,,,gās,Phonemic
+4-960-42-1,hinu1240,Hinuq,1666,мец бекъимекьос,CyrillTrans,mute,,,mec beqʼimeƛ̄ʼos,Phonemic
+4-950-42-1,hinu1240,Hinuq,996,гІинкъав,CyrillTrans,deaf,,,ʕinqʼaw,Phonemic
+4-930-42-1,hinu1240,Hinuq,1125,тІехІав,CyrillTrans,bald,,,tʼeħaw,Phonemic
+4-940-42-1,hinu1240,Hinuq,320,шихъонделъа,CyrillTrans,lame,,,šiqondeɬa,Phonemic
+4-920-42-1,hinu1240,Hinuq,1564,кІвахІалав,CyrillTrans,lazy,,,kʼʷaħalaw,Phonemic
+4-912-42-1,hinu1240,Hinuq,168,хІухь бигъа,CyrillTrans,rest,,,ħux̆ biɣa,Phonemic
+4-910-42-1,hinu1240,Hinuq,1757,акелъиш,CyrillTrans,"tired, weary",,,akeɬiš,Phonemic
+4-890-42-1,hinu1240,Hinuq,655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-42-1,hinu1240,Hinuq,1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-42-3,hinu1240,Hinuq,1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-42-5,hinu1240,Hinuq,1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-42-1,hinu1240,Hinuq,597,тохтур,CyrillTrans,physician,,,"toxtur, wrač",Phonemic
+4-870-42-3,hinu1240,Hinuq,597,врач,CyrillTrans,physician,,,"toxtur, wrač",Phonemic
+4-860-42-1,hinu1240,Hinuq,499,сагъ ува,CyrillTrans,"cure, heal",,,saɣ uwa,Phonemic
+4-858-42-1,hinu1240,Hinuq,497,медо,CyrillTrans,scar,,,"medo, raqʼ",Phonemic
+4-858-42-3,hinu1240,Hinuq,497,ракъ,CyrillTrans,scar,,,"medo, raqʼ",Phonemic
+4-857-42-1,hinu1240,Hinuq,1808,лъамачІи,CyrillTrans,pus,,,ɬamačʼi,Phonemic
+4-856-42-1,hinu1240,Hinuq,793,лъамачІи,CyrillTrans,boil (noun),,,"ɬamačʼi, ɣeɣ",Phonemic
+4-856-42-3,hinu1240,Hinuq,793,гъегъ,CyrillTrans,boil (noun),,,"ɬamačʼi, ɣeɣ",Phonemic
+4-855-42-1,hinu1240,Hinuq,1584,билла,CyrillTrans,blister,,,billa,Phonemic
+4-854-42-1,hinu1240,Hinuq,148,квеквеслъи,CyrillTrans,itch,,,kʷekʷesɬi,Phonemic
+4-853-42-1,hinu1240,Hinuq,1903,агъвишлъи,CyrillTrans,swelling,,,aɣʷišɬi,Phonemic
+4-852-42-1,hinu1240,Hinuq,1148,агъвиш мочи,CyrillTrans,bruise,,,aɣʷiš moči,Phonemic
+4-850-42-1,hinu1240,Hinuq,1109,лахъ,CyrillTrans,"wound, sore",,,laq,Phonemic
+4-843-42-1,hinu1240,Hinuq,102,рочІос унти,CyrillTrans,cold (catarrh),,,ročʼos unti,Phonemic
+4-842-42-1,hinu1240,Hinuq,1957,гъагъ,CyrillTrans,goiter,,,ɣaɣ,Phonemic
+4-841-42-1,hinu1240,Hinuq,1534,рочІой куришлъи,CyrillTrans,fever,,,ročʼoy kurišɬi,Phonemic
+4-840-42-1,hinu1240,Hinuq,1847,унтарав,CyrillTrans,"sick, sickness",,,"untaraw, riƛnaxu, zaʕipaw",Phonemic
+4-840-42-3,hinu1240,Hinuq,1847,рилІнаху,CyrillTrans,"sick, sickness",,,"untaraw, riƛnaxu, zaʕipaw",Phonemic
+4-840-42-5,hinu1240,Hinuq,1847,загІипав,CyrillTrans,"sick, sickness",,,"untaraw, riƛnaxu, zaʕipaw",Phonemic
+4-830-42-1,hinu1240,Hinuq,1364,сагълъи,CyrillTrans,"well, health",,,"saɣɬi, saɣaw",Phonemic
+4-830-42-3,hinu1240,Hinuq,1364,сагъав,CyrillTrans,"well, health",,,"saɣɬi, saɣaw",Phonemic
+4-820-42-1,hinu1240,Hinuq,1601,хІалакъав,CyrillTrans,weak,,,"ħalaqʼaw, zaʕipaw",Phonemic
+4-820-42-3,hinu1240,Hinuq,1601,загІипав,CyrillTrans,weak,,,"ħalaqʼaw, zaʕipaw",Phonemic
+4-810-42-1,hinu1240,Hinuq,785,къуватав,CyrillTrans,"strong, mighty, powerful",,,"qʼuwataw, zalimaw",Phonemic
+4-810-42-3,hinu1240,Hinuq,785,залимав,CyrillTrans,"strong, mighty, powerful",,,"qʼuwataw, zalimaw",Phonemic
+4-790-42-1,hinu1240,Hinuq,1773,суд,CyrillTrans,"grave, tomb",,,sud,Phonemic
+4-780-42-1,hinu1240,Hinuq,1719,эхъера,CyrillTrans,bury (the dead),,,eqera,Phonemic
+4-770-42-1,hinu1240,Hinuq,767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-42-1,hinu1240,Hinuq,1417,бугьера,CyrillTrans,kill,,,buhera,Phonemic
+4-751-42-1,hinu1240,Hinuq,1904,гъанкъези ихъиш (лъейилъ),CyrillTrans,drowned,,,ɣanqʼezi iqiš (ɬeyiɬ),Phonemic
+4-750-42-1,hinu1240,Hinuq,1494,угьа,CyrillTrans,"die, dead",,,"uha, uhes",Phonemic
+4-750-42-3,hinu1240,Hinuq,1494,угьес,CyrillTrans,"die, dead",,,"uha, uhes",Phonemic
+4-740-42-1,hinu1240,Hinuq,1422,гІумру бува,CyrillTrans,"live, living, life",,,"ʕumru buwa, čʼagoyab, ʕumru, čʼagoɬi",Phonemic
+4-740-42-3,hinu1240,Hinuq,1422,чІагойав,CyrillTrans,"live, living, life",,,"ʕumru buwa, čʼagoyab, ʕumru, čʼagoɬi",Phonemic
+4-740-42-5,hinu1240,Hinuq,1422,гІумру,CyrillTrans,"live, living, life",,,"ʕumru buwa, čʼagoyab, ʕumru, čʼagoɬi",Phonemic
+4-740-42-7,hinu1240,Hinuq,1422,чІаголъи,CyrillTrans,"live, living, life",,,"ʕumru buwa, čʼagoyab, ʕumru, čʼagoɬi",Phonemic
+4-732-42-1,hinu1240,Hinuq,1087,ахи рихъа,CyrillTrans,conceive,,,axi riqa,Phonemic
+4-730-42-1,hinu1240,Hinuq,1123,ахи голъиш,CyrillTrans,pregnant,,,"axi goɬiš, qʼinaw",Phonemic
+4-730-42-3,hinu1240,Hinuq,1123,къинав,CyrillTrans,pregnant,,,"axi goɬiš, qʼinaw",Phonemic
+4-720-42-1,hinu1240,Hinuq,1090,ихъа,CyrillTrans,born (to be),,,iqa,Phonemic
+4-710-42-1,hinu1240,Hinuq,1152,ува,CyrillTrans,beget (of father),,,uwa,Phonemic
+4-690-42-1,hinu1240,Hinuq,138,кІиликІдоз,CyrillTrans,bathe,,,kʼilikʼdoz,Phonemic
+4-680-42-1,hinu1240,Hinuq,52,бабайа̄з,CyrillTrans,shiver,,,"babayāz, bibireɬa, dodoyāz, sosa",Phonemic
+4-680-42-3,hinu1240,Hinuq,52,бибирелъа,CyrillTrans,shiver,,,"babayāz, bibireɬa, dodoyāz, sosa",Phonemic
+4-680-42-5,hinu1240,Hinuq,52,додойа̄з,CyrillTrans,shiver,,,"babayāz, bibireɬa, dodoyāz, sosa",Phonemic
+4-680-42-7,hinu1240,Hinuq,52,соса,CyrillTrans,shiver,,,"babayāz, bibireɬa, dodoyāz, sosa",Phonemic
+4-670-42-1,hinu1240,Hinuq,1785,йукІера,CyrillTrans,have sexual intercourse,,,yukʼera,Phonemic
+4-660-42-1,hinu1240,Hinuq,676,балІаху готІа,CyrillTrans,defecate,,,baƛaxu gotʼa,Phonemic
+4-650-42-1,hinu1240,Hinuq,592,ахъве готІа,CyrillTrans,urinate,,,aqʷe gotʼa,Phonemic
+4-640-42-1,hinu1240,Hinuq,1159,хути кура,CyrillTrans,break wind,,,xuti kura,Phonemic
+4-630-42-1,hinu1240,Hinuq,1602,молІагьос цІарелъа,CyrillTrans,wake up,,,moƛahos cʼareɬa,Phonemic
+4-620-42-1,hinu1240,Hinuq,1920,молІу йика,CyrillTrans,dream,,,moƛu yika,Phonemic
+4-612-42-1,hinu1240,Hinuq,1983,хирāз,CyrillTrans,snore,,,xirāz,Phonemic
+4-610-42-1,hinu1240,Hinuq,1585,отІа,CyrillTrans,sleep,,,otʼa,Phonemic
+4-591-42-1,hinu1240,Hinuq,268,йоцу кекира,CyrillTrans,dribble,,,yocu kekira,Phonemic
+4-590-42-1,hinu1240,Hinuq,319,мец биха,CyrillTrans,lick,,,mec bixa,Phonemic
+4-580-42-1,hinu1240,Hinuq,1403,гьила,CyrillTrans,bite,,,hila,Phonemic
+4-570-42-1,hinu1240,Hinuq,1278,иччāз,CyrillTrans,vomit,,,"iččāz, ʕiččāz",Phonemic
+4-570-42-3,hinu1240,Hinuq,1278,гІиччāз,CyrillTrans,vomit,,,"iččāz, ʕiččāz",Phonemic
+4-560-42-1,hinu1240,Hinuq,1440,йоцу,CyrillTrans,spit,,,"yocu, yocu caƛa",Phonemic
+4-560-42-3,hinu1240,Hinuq,1440,йоцу цалІа,CyrillTrans,spit,,,"yocu, yocu caƛa",Phonemic
+4-550-42-1,hinu1240,Hinuq,126,эгъвада готІа,CyrillTrans,perspire,,,eɣʷada gotʼa,Phonemic
+4-540-42-1,hinu1240,Hinuq,1621,гьацни кура,CyrillTrans,sneeze,,,"hacni kura, hacciyāz",Phonemic
+4-540-42-3,hinu1240,Hinuq,1621,гьаццийāз,CyrillTrans,sneeze,,,"hacni kura, hacciyāz",Phonemic
+4-530-42-1,hinu1240,Hinuq,879,къахІийāз,CyrillTrans,cough,,,"qʼaħiyāz, oħiyāz, xomorāz, xomore boqʼa",Phonemic
+4-530-42-3,hinu1240,Hinuq,879,охІийāз,CyrillTrans,cough,,,"qʼaħiyāz, oħiyāz, xomorāz, xomore boqʼa",Phonemic
+4-530-42-5,hinu1240,Hinuq,879,хоморāз,CyrillTrans,cough,,,"qʼaħiyāz, oħiyāz, xomorāz, xomore boqʼa",Phonemic
+4-530-42-7,hinu1240,Hinuq,879,хоморе бакъа,CyrillTrans,cough,,,"qʼaħiyāz, oħiyāz, xomorāz, xomore boqʼa",Phonemic
+4-521-42-1,hinu1240,Hinuq,162,гьамакІийāз,CyrillTrans,hiccough,,,"hamakʼiyāz, hekƛ̄ʼa",Phonemic
+4-521-42-3,hinu1240,Hinuq,162,гьекІлІа,CyrillTrans,hiccough,,,"hamakʼiyāz, hekƛ̄ʼa",Phonemic
+4-520-42-1,hinu1240,Hinuq,1028,гьавар бохъа,CyrillTrans,"yawn, gape",,,hawar boqʼa,Phonemic
+4-510-42-1,hinu1240,Hinuq,1407,хІохьел лІеша,CyrillTrans,"breathe, breath",,,ħox̆el ƛešа,Phonemic
+4-492-42-1,hinu1240,Hinuq,1222,билу,CyrillTrans,penis,,,bilu,Phonemic
+4-490-42-1,hinu1240,Hinuq,797,чІиму,CyrillTrans,testicle,,,čʼimy,Phonemic
+4-470-42-1,hinu1240,Hinuq,804,бетІе,CyrillTrans,womb,,,betʼe,Phonemic
+4-464-42-1,hinu1240,Hinuq,834,кетІакъил,CyrillTrans,buttocks,,,ketʼaqʼil,Phonemic
+4-463-42-1,hinu1240,Hinuq,1745,кІонцІу,CyrillTrans,hip,,,kʼoncʼu,Phonemic
+4-461-42-1,hinu1240,Hinuq,1991,инаху-ах,CyrillTrans,"intestines, guts",,,inaxu-ax,Phonemic
+4-460-42-1,hinu1240,Hinuq,819,ах,CyrillTrans,stomach,,,ax,Phonemic
+4-452-42-1,hinu1240,Hinuq,1744,боцІе,CyrillTrans,spleen,,,bocʼe,Phonemic
+4-451-42-1,hinu1240,Hinuq,489,кубо,CyrillTrans,kidney,,,kubo,Phonemic
+4-450-42-1,hinu1240,Hinuq,1224,жубо,CyrillTrans,liver,,,žubo,Phonemic
+4-441-42-1,hinu1240,Hinuq,688,гьитІоре,CyrillTrans,lung,,,hitʼore,Phonemic
+4-440-42-1,hinu1240,Hinuq,1223,рокІе,CyrillTrans,heart,,,rokʼe,Phonemic
+4-430-42-1,hinu1240,Hinuq,1838,читІо,CyrillTrans,navel,,,čitʼo,Phonemic
+4-420-42-1,hinu1240,Hinuq,154,гъомо,CyrillTrans,udder,,,ɣomo,Phonemic
+4-412-42-1,hinu1240,Hinuq,796,тІум,CyrillTrans,"nipple, teat",,,tʼum,Phonemic
+4-410-42-1,hinu1240,Hinuq,1402,тІум,CyrillTrans,breast (of woman),,,tʼum,Phonemic
+4-400-42-1,hinu1240,Hinuq,1592,хемарокІе,CyrillTrans,chest,,,xemarokʼe,Phonemic
+4-393-42-1,hinu1240,Hinuq,1201,бумбули,CyrillTrans,feather,,,bumbuli,Phonemic
+4-392-42-1,hinu1240,Hinuq,1257,гьабу,CyrillTrans,wing,,,habu,Phonemic
+4-380-42-1,hinu1240,Hinuq,1389,кІонцІас лъикьи,CyrillTrans,toe,,,kʼoncʼas ɬiƛ̄ʼi,Phonemic
+4-374-42-1,hinu1240,Hinuq,318,кІонцІас лугъу,CyrillTrans,footprint,,,kʼoncʼas luɣu,Phonemic
+4-372-42-1,hinu1240,Hinuq,980,гьижи,CyrillTrans,heel,,,hiži,Phonemic
+4-371-42-1,hinu1240,Hinuq,803,къию,CyrillTrans,ankle,,,qʼiyu,Phonemic
+4-370-42-1,hinu1240,Hinuq,1301,гьижи,CyrillTrans,foot,,,hiži,Phonemic
+4-360-42-1,hinu1240,Hinuq,1371,бечну,CyrillTrans,knee,,,bečnu,Phonemic
+4-352-42-1,hinu1240,Hinuq,498,бекьо,CyrillTrans,calf of leg,,,beƛ̄ʼo,Phonemic
+4-351-42-1,hinu1240,Hinuq,800,огъ,CyrillTrans,thigh,,,"oɣ, oˤɣ",Phonemic
+4-351-42-3,hinu1240,Hinuq,800,оІгъ,CyrillTrans,thigh,,,"oɣ, oˤɣ",Phonemic
+4-350-42-1,hinu1240,Hinuq,1297,кІонцІу,CyrillTrans,leg,,,kʼoncʼu,Phonemic
+4-345-42-1,hinu1240,Hinuq,72,молъу,CyrillTrans,claw,,,moɬu,Phonemic
+4-344-42-1,hinu1240,Hinuq,1258,молъу,CyrillTrans,fingernail,,,moɬu,Phonemic
+4-342-42-1,hinu1240,Hinuq,1781,беІжинну лъӥкьи,CyrillTrans,thumb,,,beˤžinnu ɬï ƛ̄ʼi,Phonemic
+4-340-42-1,hinu1240,Hinuq,1303,лъӥкьи,CyrillTrans,finger,,,"ɬïƛ̄ʼi, ɬiƛ̄ʼi",Phonemic
+4-340-42-3,hinu1240,Hinuq,1303,лъикьи,CyrillTrans,finger,,,"ɬïƛ̄ʼi, ɬiƛ̄ʼi",Phonemic
+4-331-42-1,hinu1240,Hinuq,1183,къийу,CyrillTrans,palm of hand,,,qʼiyu,Phonemic
+4-330-42-1,hinu1240,Hinuq,1277,квезей,CyrillTrans,hand,,,kʷezey,Phonemic
+4-320-42-1,hinu1240,Hinuq,981,гьоро,CyrillTrans,elbow,,,horo,Phonemic
+4-312-42-1,hinu1240,Hinuq,1886,гьабилІ,CyrillTrans,armpit,,,habiƛ,Phonemic
+4-310-42-1,hinu1240,Hinuq,1673,квезей,CyrillTrans,arm,,,kʷezey,Phonemic
+4-302-42-1,hinu1240,Hinuq,1994,рекъу,CyrillTrans,collarbone,,,reqʼu,Phonemic
+4-301-42-1,hinu1240,Hinuq,172,чІихъи,CyrillTrans,shoulderblade,,,čʼiqi,Phonemic
+4-300-42-1,hinu1240,Hinuq,1482,къилу,CyrillTrans,shoulder,,,qʼilu,Phonemic
+4-290-42-1,hinu1240,Hinuq,1346,рес,CyrillTrans,throat,,,"res, qoq",Phonemic
+4-290-42-3,hinu1240,Hinuq,1346,хъохъ,CyrillTrans,throat,,,"res, qoq",Phonemic
+4-281-42-1,hinu1240,Hinuq,1347,ачІуре,CyrillTrans,nape of neck,,,ačʼure,Phonemic
+4-280-42-1,hinu1240,Hinuq,1333,моцІ,CyrillTrans,neck,,,mocʼ,Phonemic
+4-272-42-1,hinu1240,Hinuq,1049,йеІжинну кІечу,CyrillTrans,molartooth,,,yeˤžinnu kʼeču,Phonemic
+4-270-42-1,hinu1240,Hinuq,1380,кІечу,CyrillTrans,tooth,,,kʼeču,Phonemic
+4-271-42-1,hinu1240,Hinuq,139,соморе,CyrillTrans,gums,,,somore,Phonemic
+4-260-42-1,hinu1240,Hinuq,1205,мец,CyrillTrans,tongue,,,mec,Phonemic
+4-250-42-1,hinu1240,Hinuq,478,кьепу,CyrillTrans,lip,,,ƛ̄ʼepu,Phonemic
+4-241-42-1,hinu1240,Hinuq,73,микьи,CyrillTrans,beak,,,miƛ̄ʼi,Phonemic
+4-240-42-1,hinu1240,Hinuq,674,гьахъу,CyrillTrans,mouth,,,haqu,Phonemic
+4-232-42-1,hinu1240,Hinuq,208,хидо,CyrillTrans,mucus (nasal),,,xido,Phonemic
+4-231-42-1,hinu1240,Hinuq,1178,малу,CyrillTrans,nostril,,,malu,Phonemic
+4-230-42-1,hinu1240,Hinuq,1221,малу,CyrillTrans,nose,,,malu,Phonemic
+4-222-42-1,hinu1240,Hinuq,32,къвене,CyrillTrans,earwax,,,qʼʷene,Phonemic
+4-221-42-1,hinu1240,Hinuq,18,аххас рагІал,CyrillTrans,earlobe,,,axxas raʕal,Phonemic
+4-220-42-1,hinu1240,Hinuq,1247,ахха,CyrillTrans,ear,,,axxa,Phonemic
+4-215-42-1,hinu1240,Hinuq,1655,ижейбе рикъира,CyrillTrans,blink,,,ižeybe riqʼira,Phonemic
+4-214-42-1,hinu1240,Hinuq,1540,цІецІ,CyrillTrans,eyelash,,,cʼecʼ,Phonemic
+4-213-42-1,hinu1240,Hinuq,17,кьикъу,CyrillTrans,eyelid,,,ƛ̄ʼiqʼu,Phonemic
+4-212-42-1,hinu1240,Hinuq,1173,цІецІ,CyrillTrans,eyebrow,,,cʼecʼ,Phonemic
+4-210-42-1,hinu1240,Hinuq,1248,ижей,CyrillTrans,eye,,,ižey,Phonemic
+4-208-42-1,hinu1240,Hinuq,1730,хух,CyrillTrans,cheek,,,xux,Phonemic
+4-209-42-1,hinu1240,Hinuq,1510,чІичІину,CyrillTrans,chin,,,čʼičʼinu,Phonemic
+4-205-42-1,hinu1240,Hinuq,123,кьокъо,CyrillTrans,forehead,,,ƛ̄ʼoqʼo,Phonemic
+4-207-42-1,hinu1240,Hinuq,798,чІичІину,CyrillTrans,jaw,,,čʼičʼinu,Phonemic
+4-204-42-1,hinu1240,Hinuq,1560,гьумер,CyrillTrans,face,,,humer,Phonemic
+4-203-42-1,hinu1240,Hinuq,1583,ата,CyrillTrans,brain,,,ata,Phonemic
+4-201-42-1,hinu1240,Hinuq,1604,ахагьос мочи,CyrillTrans,"side of head, temple",,,axahos moči,Phonemic
+4-202-42-1,hinu1240,Hinuq,1605,окъру,CyrillTrans,skull,,,oqʼru,Phonemic
+4-200-42-1,hinu1240,Hinuq,1256,къиму,CyrillTrans,head,,,qʼimu,Phonemic
+4-191-42-1,hinu1240,Hinuq,805,мохъолиш хему,CyrillTrans,spine,,,moqoliš xemu,Phonemic
+4-190-42-1,hinu1240,Hinuq,1291,мохъоли,CyrillTrans,back,,,moqoli,Phonemic
+4-180-42-1,hinu1240,Hinuq,1220,мигьи,CyrillTrans,tail,,,mihi,Phonemic
+4-170-42-1,hinu1240,Hinuq,1393,тама,CyrillTrans,horn,,,tama,Phonemic
+4-162-42-1,hinu1240,Hinuq,801,жибра,CyrillTrans,rib,,,žibra,Phonemic
+4-160-42-1,hinu1240,Hinuq,1394,лІужей,CyrillTrans,bone,,,ƛužey,Phonemic
+4-151-42-1,hinu1240,Hinuq,525,биша,CyrillTrans,"vein, artery",,,biša,Phonemic
+4-150-42-1,hinu1240,Hinuq,946,ӣ,CyrillTrans,blood,,,ī,Phonemic
+4-146-42-1,hinu1240,Hinuq,576,къвил,CyrillTrans,dandruff,,,qʼʷil,Phonemic
+4-145-42-1,hinu1240,Hinuq,36,мус,CyrillTrans,pubic hair,,,mus,Phonemic
+4-144-42-1,hinu1240,Hinuq,189,мус,CyrillTrans,body hair,,,mus,Phonemic
+4-142-42-1,hinu1240,Hinuq,678,баб,CyrillTrans,beard,,,bab,Phonemic
+4-140-42-1,hinu1240,Hinuq,1040,мус,CyrillTrans,hair (head),,,mus,Phonemic
+4-130-42-1,hinu1240,Hinuq,2259,лага,CyrillTrans,flesh,,,"laga, xu",Phonemic
+4-130-42-3,hinu1240,Hinuq,2259,ху,CyrillTrans,flesh,,,"laga, xu",Phonemic
+4-120-42-1,hinu1240,Hinuq,763,хъал,CyrillTrans,"skin, hide",,,"qal, bik",Phonemic
+4-120-42-3,hinu1240,Hinuq,763,бик,CyrillTrans,"skin, hide",,,"qal, bik",Phonemic
+4-110-42-1,hinu1240,Hinuq,1480,лага,CyrillTrans,body,,,"laga, qʼarqʼala",Phonemic
+4-110-42-3,hinu1240,Hinuq,1480,къаркъала,CyrillTrans,body,,,"laga, qʼarqʼala",Phonemic
+3-980-42-1,hinu1240,Hinuq,112,шетра,CyrillTrans,turtle,,,šetra,Phonemic
+3-970-42-1,hinu1240,Hinuq,1857,аждахІ,CyrillTrans,"crocodile, alligator",,,aždaħ,Phonemic
+3-960-42-1,hinu1240,Hinuq,632,шотра,CyrillTrans,lizard,,,šotra,Phonemic
+3-950-42-1,hinu1240,Hinuq,503,лъохІро,CyrillTrans,frog,,,ɬoħro,Phonemic
+3-940-42-1,hinu1240,Hinuq,1543,хетІу-бисмилла,CyrillTrans,snail,,,"xetʼu-bismilla, xetʼu-bisbilla",Phonemic
+3-940-42-3,hinu1240,Hinuq,1543,хетІу-бисбилла,CyrillTrans,snail,,,"xetʼu-bismilla, xetʼu-bisbilla",Phonemic
+3-930-42-1,hinu1240,Hinuq,607,хоцІе,CyrillTrans,grasshopper,,,xocʼe,Phonemic
+3-920-42-1,hinu1240,Hinuq,1791,папатІу,CyrillTrans,butterfly,,,papatʼu,Phonemic
+3-910-42-1,hinu1240,Hinuq,206,гвангъези бихъкьос билІахъу,CyrillTrans,firefly,,,gʷanɣezi biqƛ̄ʼos biƛaqu,Phonemic
+3-850-42-1,hinu1240,Hinuq,730,бикоре,CyrillTrans,snake,,,bikore,Phonemic
+3-840-42-1,hinu1240,Hinuq,1219,бика,CyrillTrans,worm,,,bika,Phonemic
+3-832-42-1,hinu1240,Hinuq,1509,хІайа,CyrillTrans,mosquito,,,ħaya,Phonemic
+3-831-42-1,hinu1240,Hinuq,95,хІайа,CyrillTrans,"sandfly (midge), gnat",,,ħaya,Phonemic
+3-830-42-1,hinu1240,Hinuq,1504,тІутІ,CyrillTrans,fly,,,tʼutʼ,Phonemic
+3-823-42-1,hinu1240,Hinuq,1517,тетену,CyrillTrans,wasp,,,tetenu,Phonemic
+3-822-42-1,hinu1240,Hinuq,88,къичІу,CyrillTrans,beehive,,,qʼičʼu,Phonemic
+3-821-42-1,hinu1240,Hinuq,1931,хІе,CyrillTrans,beeswax,,,ħe,Phonemic
+3-820-42-1,hinu1240,Hinuq,665,нуцокьос тІутІ,CyrillTrans,bee,,,nucoƛ̄ʼos tʼutʼ,Phonemic
+3-819-42-1,hinu1240,Hinuq,1065,бозогъас тет,CyrillTrans,spider web,,,"bozoɣas tet, muži",Phonemic
+3-819-42-3,hinu1240,Hinuq,1065,мужи,CyrillTrans,spider web,,,"bozoɣas tet, muži",Phonemic
+3-818-42-1,hinu1240,Hinuq,843,бозогъу,CyrillTrans,spider,,,bozoɣu,Phonemic
+3-817-42-1,hinu1240,Hinuq,587,рецен,CyrillTrans,ant,,,recen,Phonemic
+3-816-42-1,hinu1240,Hinuq,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-42-1,hinu1240,Hinuq,1538,акърав,CyrillTrans,scorpion,,,aqʼraw,Phonemic
+3-814-42-1,hinu1240,Hinuq,1974,буржула,CyrillTrans,centipede,,,buržula,Phonemic
+3-813-42-1,hinu1240,Hinuq,232,чІики,CyrillTrans,flea,,,čʼiki,Phonemic
+3-812-42-1,hinu1240,Hinuq,267,къекъоголъа,CyrillTrans,nit (louse egg),,,qʼeqʼogoɬa,Phonemic
+3-811-42-1,hinu1240,Hinuq,1392,ноце,CyrillTrans,louse,,,noce,Phonemic
+3-810-42-1,hinu1240,Hinuq,620,хІутІ-хъумур,CyrillTrans,insect,,,ħutʼ-qumur,Phonemic
+3-780-42-1,hinu1240,Hinuq,1871,гІомокилу,CyrillTrans,camel,,,ʕomokilu,Phonemic
+3-770-42-1,hinu1240,Hinuq,1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-42-1,hinu1240,Hinuq,1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-42-1,hinu1240,Hinuq,1936,лъид,CyrillTrans,deer,,,ɬid,Phonemic
+3-740-42-1,hinu1240,Hinuq,1312,зеру,CyrillTrans,fox,,,zeru,Phonemic
+3-730-42-1,hinu1240,Hinuq,1820,зе,CyrillTrans,bear,,,ze,Phonemic
+3-720-42-1,hinu1240,Hinuq,1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-42-1,hinu1240,Hinuq,522,боцІе,CyrillTrans,wolf,,,bocʼe,Phonemic
+3-664-42-1,hinu1240,Hinuq,1910,ралъадлис кІетІу,CyrillTrans,stingray,,,raɬadlis kʼetʼu,Phonemic
+3-663-42-1,hinu1240,Hinuq,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-42-1,hinu1240,Hinuq,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-42-1,hinu1240,Hinuq,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-42-1,hinu1240,Hinuq,598,бесурос ахха,CyrillTrans,shell,,,besuros axxa,Phonemic
+3-653-42-1,hinu1240,Hinuq,266,бесурос хъал,CyrillTrans,fishscale,,,besuros qal,Phonemic
+3-652-42-1,hinu1240,Hinuq,213,бесурос мушохъу,CyrillTrans,fin (dorsal),,,besuros mušoqu,Phonemic
+3-650-42-1,hinu1240,Hinuq,227,бесуро,CyrillTrans,fish,,,besuro,Phonemic
+3-630-42-1,hinu1240,Hinuq,2139,акъве,CyrillTrans,"mouse, rat",,,"aqʼʷe, beˤzenu aqʼʷe, ɬaraʕ aqʼʷe",Phonemic
+3-630-42-3,hinu1240,Hinuq,2139,беIжену акъве,CyrillTrans,"mouse, rat",,,"aqʼʷe, beˤzenu aqʼʷe, ɬaraʕ aqʼʷe",Phonemic
+3-630-42-5,hinu1240,Hinuq,2139,лъарагI акъве,CyrillTrans,"mouse, rat",,,"aqʼʷe, beˤzenu aqʼʷe, ɬaraʕ aqʼʷe",Phonemic
+3-620-42-1,hinu1240,Hinuq,1208,кІетІу,CyrillTrans,cat,,,kʼetʼu,Phonemic
+3-614-42-1,hinu1240,Hinuq,1136,идус хъи,CyrillTrans,rabbit,,,idus qi,Phonemic
+3-610-42-1,hinu1240,Hinuq,2009,гъве,CyrillTrans,dog,,,"ɣʷe, kača",Phonemic
+3-610-42-3,hinu1240,Hinuq,2009,кача,CyrillTrans,dog,,,"ɣʷe, kača",Phonemic
+3-594-42-1,hinu1240,Hinuq,1853,олбо,CyrillTrans,dove,,,olbo,Phonemic
+3-596-42-1,hinu1240,Hinuq,735,бугьу,CyrillTrans,owl,,,buhu,Phonemic
+3-593-42-1,hinu1240,Hinuq,913,гъвади,CyrillTrans,crow,,,ɣʷadi,Phonemic
+3-592-42-1,hinu1240,Hinuq,882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-42-1,hinu1240,Hinuq,1793,киндури,CyrillTrans,bat,,,kinduri,Phonemic
+3-586-42-1,hinu1240,Hinuq,1185,цой,CyrillTrans,vulture,,,coy,Phonemic
+3-585-42-1,hinu1240,Hinuq,307,курзакІу,CyrillTrans,hawk,,,"kurzakʼu, lačen",Phonemic
+3-585-42-3,hinu1240,Hinuq,307,лачен,CyrillTrans,hawk,,,"kurzakʼu, lačen",Phonemic
+3-584-42-1,hinu1240,Hinuq,1905,цой,CyrillTrans,eagle,,,coy,Phonemic
+3-582-42-1,hinu1240,Hinuq,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-42-1,hinu1240,Hinuq,758,гьажилакълакъ,CyrillTrans,heron,,,hažilaq’laq’,Phonemic
+3-581-42-1,hinu1240,Hinuq,937,мигьна,CyrillTrans,bird,,,mihna,Phonemic
+3-580-42-1,hinu1240,Hinuq,539,мужи,CyrillTrans,nest,,,muži,Phonemic
+3-570-42-1,hinu1240,Hinuq,1360,матІи,CyrillTrans,duck,,,matʼi,Phonemic
+3-560-42-1,hinu1240,Hinuq,1187,ихурахъ,CyrillTrans,goose,,,ixuraq,Phonemic
+3-550-42-1,hinu1240,Hinuq,1318,ооцас мигьна,CyrillTrans,chicken,,,oʔocas mihna,Phonemic
+3-540-42-1,hinu1240,Hinuq,1514,ооцу,CyrillTrans,hen,,,oʔocu,Phonemic
+3-520-42-1,hinu1240,Hinuq,1511,гулучи,CyrillTrans,"cock, rooster",,,guluči,Phonemic
+3-470-42-1,hinu1240,Hinuq,890,гьурцІум,CyrillTrans,mule,,,hurcʼum,Phonemic
+3-500-42-1,hinu1240,Hinuq,265,ооцу-кІетІу,CyrillTrans,fowl,,,oʔocu-kʼetʼu,Phonemic
+3-460-42-1,hinu1240,Hinuq,1862,омокъи,CyrillTrans,"ass, donkey",,,omoqʼi,Phonemic
+3-450-42-1,hinu1240,Hinuq,1647,эчІир,CyrillTrans,"foal, colt",,,ečʼir,Phonemic
+3-440-42-1,hinu1240,Hinuq,938,шегве,CyrillTrans,mare,,,šegʷe,Phonemic
+3-420-42-1,hinu1240,Hinuq,936,барти,CyrillTrans,stallion,,,barti,Phonemic
+3-410-42-1,hinu1240,Hinuq,615,шегве,CyrillTrans,horse (equine),,,"šegʷe, gulu",Phonemic
+3-410-42-3,hinu1240,Hinuq,615,гулу,CyrillTrans,horse (equine),,,"šegʷe, gulu",Phonemic
+3-380-42-1,hinu1240,Hinuq,1972,цекІе,CyrillTrans,kid,,,cekʼe,Phonemic
+3-370-42-1,hinu1240,Hinuq,264,тІека,CyrillTrans,he-goat,,,tʼeka,Phonemic
+3-360-42-1,hinu1240,Hinuq,1502,цан,CyrillTrans,goat,,,can,Phonemic
+3-350-42-1,hinu1240,Hinuq,1337,болІи,CyrillTrans,pig,,,boƛi,Phonemic
+3-340-42-1,hinu1240,Hinuq,1351,цІуйаб болІи,CyrillTrans,sow (2),,,c’uyab boƛi,Phonemic
+3-320-42-1,hinu1240,Hinuq,1348,болІи,CyrillTrans,boar,,,boƛi,Phonemic
+3-290-42-1,hinu1240,Hinuq,820,лІели,CyrillTrans,lamb,,,ƛeli,Phonemic
+3-280-42-1,hinu1240,Hinuq,1345,бекькъу,CyrillTrans,ewe,,,beƛ̄ʼqʼu,Phonemic
+3-260-42-1,hinu1240,Hinuq,1344,кви,CyrillTrans,ram,,,kʷi,Phonemic
+3-250-42-1,hinu1240,Hinuq,1331,бекькъу,CyrillTrans,sheep,,,"beƛ̄ʼqʼu, kʷi, beƛ̄ʼ",Phonemic
+3-250-42-3,hinu1240,Hinuq,1331,кви,CyrillTrans,sheep,,,"beƛ̄ʼqʼu, kʷi, beƛ̄ʼ",Phonemic
+3-250-42-5,hinu1240,Hinuq,1331,бекь,CyrillTrans,sheep,,,"beƛ̄ʼqʼu, kʷi, beƛ̄ʼ",Phonemic
+3-240-42-1,hinu1240,Hinuq,1989,меши,CyrillTrans,calf,,,meši,Phonemic
+3-230-42-1,hinu1240,Hinuq,1007,гъверо,CyrillTrans,cow,,,ɣʷero,Phonemic
+3-220-42-1,hinu1240,Hinuq,1169,иш,CyrillTrans,ox,,,"iš, ïš",Phonemic
+3-220-42-3,hinu1240,Hinuq,1169,ӥш,CyrillTrans,ox,,,"iš, ïš",Phonemic
+3-210-42-1,hinu1240,Hinuq,1008,иш,CyrillTrans,bull,,,"iš, gani, buɣa",Phonemic
+3-210-42-3,hinu1240,Hinuq,1008,гани,CyrillTrans,bull,,,"iš, gani, buɣa",Phonemic
+3-210-42-5,hinu1240,Hinuq,1008,бугъа,CyrillTrans,bull,,,"iš, gani, buɣa",Phonemic
+3-200-42-1,hinu1240,Hinuq,1153,гъвериш,CyrillTrans,cattle (bovine),,,ɣʷeriš,Phonemic
+3-190-42-1,hinu1240,Hinuq,851,зоро,CyrillTrans,"stable, stall",,,zoro,Phonemic
+3-180-42-1,hinu1240,Hinuq,263,эхо,CyrillTrans,herdsman,,,exo,Phonemic
+3-160-42-1,hinu1240,Hinuq,649,гІалах,CyrillTrans,pasture,,,ʕalax,Phonemic
+3-150-42-1,hinu1240,Hinuq,631,посу,CyrillTrans,livestock,,,posu,Phonemic
+3-130-42-1,hinu1240,Hinuq,2262,цІуйав,CyrillTrans,female (adj),,,cʼuyaw,Phonemic
+3-120-42-1,hinu1240,Hinuq,2261,бикинав,CyrillTrans,male (adj),,,bikinaw,Phonemic
+3-110-42-1,hinu1240,Hinuq,619,посу,CyrillTrans,animal,,,posu,Phonemic
+2-960-42-1,hinu1240,Hinuq,817,гьагбе,CyrillTrans,they,,,hagbe,Phonemic
+2-950-42-1,hinu1240,Hinuq,1213,межи,CyrillTrans,you (plural),,,meži,Phonemic
+2-940-42-1,hinu1240,Hinuq,1212,эли,CyrillTrans,we,,,eli,Phonemic
+2-930-42-1,hinu1240,Hinuq,262,гьаго,CyrillTrans,he/she/it,,,"hago, haw",Phonemic
+2-930-42-3,hinu1240,Hinuq,262,гьав,CyrillTrans,he/she/it,,,"hago, haw",Phonemic
+2-920-42-1,hinu1240,Hinuq,1215,ме,CyrillTrans,you (singular),,,me,Phonemic
+2-910-42-1,hinu1240,Hinuq,1209,де,CyrillTrans,I,,,de,Phonemic
+2-820-42-1,hinu1240,Hinuq,194,гьакъу,CyrillTrans,family,,,"haqʼu, haqʼu-qʼala",Phonemic
+2-820-42-3,hinu1240,Hinuq,194,гьакъу-къала,CyrillTrans,family,,,"haqʼu, haqʼu-qʼala",Phonemic
+2-810-42-1,hinu1240,Hinuq,1644,гІагарлъи,CyrillTrans,"relatives, kinsmen",,,ʕagarɬi,Phonemic
+2-770-42-1,hinu1240,Hinuq,1981,къоролав,CyrillTrans,widower,,,qʼorolaw,Phonemic
+2-760-42-1,hinu1240,Hinuq,1756,къоролай,CyrillTrans,widow,,,qʼorolay,Phonemic
+2-750-42-1,hinu1240,Hinuq,1149,бестІал,CyrillTrans,orphan,,,bestʼal,Phonemic
+2-740-42-1,hinu1240,Hinuq,1058,бестІал кед,CyrillTrans,stepdaughter,,,bestʼal ked,Phonemic
+2-730-42-1,hinu1240,Hinuq,1059,бестІал ужи,CyrillTrans,stepson,,,bestʼal uži,Phonemic
+2-720-42-1,hinu1240,Hinuq,236,бестІал ийо,CyrillTrans,stepmother,,,bestʼal iyo,Phonemic
+2-710-42-1,hinu1240,Hinuq,237,бестІал обу,CyrillTrans,stepfather,,,bestʼal obu,Phonemic
+2-641-42-1,hinu1240,Hinuq,2264,ужиш бару,CyrillTrans,daughter-in-law (of a woman),,,"užiš baru, bikinab essus baru",Phonemic
+2-641-42-3,hinu1240,Hinuq,2264,бикинаб эссус бару,CyrillTrans,daughter-in-law (of a woman),,,"užiš baru, bikinab essus baru",Phonemic
+2-640-42-1,hinu1240,Hinuq,2265,ужиш бару,CyrillTrans,daughter-in-law (of a man),,,užiš baru,Phonemic
+2-631-42-1,hinu1240,Hinuq,2266,дурса,CyrillTrans,son-in-law (of a woman),,,dursa,Phonemic
+2-630-42-1,hinu1240,Hinuq,2267,дурса,CyrillTrans,son-in-law (of a man),,,dursa,Phonemic
+2-621-42-1,hinu1240,Hinuq,2257,барус ийо,CyrillTrans,mother-in-law (of a woman),,,"barus iyo, iyocala",Phonemic
+2-621-42-3,hinu1240,Hinuq,2257,ийоцала,CyrillTrans,mother-in-law (of a woman),,,"barus iyo, iyocala",Phonemic
+2-620-42-1,hinu1240,Hinuq,2256,ходдос ийо,CyrillTrans,mother-in-law (of a man),,,"xoddos iyo, iyocala",Phonemic
+2-620-42-3,hinu1240,Hinuq,2256,ийоцала,CyrillTrans,mother-in-law (of a man),,,"xoddos iyo, iyocala",Phonemic
+2-611-42-1,hinu1240,Hinuq,2254,барус обу,CyrillTrans,father-in-law (of a woman),,,"barus obu, obucala",Phonemic
+2-611-42-3,hinu1240,Hinuq,2254,обуцала,CyrillTrans,father-in-law (of a woman),,,"barus obu, obucala",Phonemic
+2-610-42-1,hinu1240,Hinuq,2255,ходдос обу,CyrillTrans,father-in-law (of a man),,,"xoddos obu, obucala",Phonemic
+2-610-42-3,hinu1240,Hinuq,2255,обуцала,CyrillTrans,father-in-law (of a man),,,"xoddos obu, obucala",Phonemic
+2-570-42-1,hinu1240,Hinuq,490,тухум,CyrillTrans,descendants,,,tuxum,Phonemic
+2-560-42-1,hinu1240,Hinuq,1669,бежиннубе,CyrillTrans,ancestors,,,"bežinnube, iyo-obu",Phonemic
+2-560-42-3,hinu1240,Hinuq,1669,ийо-обу,CyrillTrans,ancestors,,,"bežinnube, iyo-obu",Phonemic
+2-550-42-1,hinu1240,Hinuq,1643,вацгІал,CyrillTrans,cousin,,,"wacʕal, yacʕal",Phonemic
+2-550-42-3,hinu1240,Hinuq,1643,йацгІал,CyrillTrans,cousin,,,"wacʕal, yacʕal",Phonemic
+2-540-42-1,hinu1240,Hinuq,1642,эссус кед,CyrillTrans,niece,,,essus ked,Phonemic
+2-530-42-1,hinu1240,Hinuq,1063,эссус ужи,CyrillTrans,nephew,,,essus uži,Phonemic
+2-522-42-1,hinu1240,Hinuq,170,дада,CyrillTrans,father's sister,,,"dada, obus cʼuyaw essu",Phonemic
+2-522-42-3,hinu1240,Hinuq,170,обус цІуйав эссу,CyrillTrans,father's sister,,,"dada, obus cʼuyaw essu",Phonemic
+2-520-42-1,hinu1240,Hinuq,1272,дада,CyrillTrans,aunt,,,"dada, iyos cʼuyaw essu, obus essu",Phonemic
+2-520-42-3,hinu1240,Hinuq,1272,ийос цІуйав эссу,CyrillTrans,aunt,,,"dada, iyos cʼuyaw essu, obus essu",Phonemic
+2-520-42-5,hinu1240,Hinuq,1272,обус эссу,CyrillTrans,aunt,,,"dada, iyos cʼuyaw essu, obus essu",Phonemic
+2-521-42-1,hinu1240,Hinuq,171,дада,CyrillTrans,mother's sister,,,"dada, iyos cʼuyaw essu",Phonemic
+2-521-42-3,hinu1240,Hinuq,171,ийос цІуйав эссу,CyrillTrans,mother's sister,,,"dada, iyos cʼuyaw essu",Phonemic
+2-512-42-1,hinu1240,Hinuq,1985,обус эссу,CyrillTrans,father's brother,,,obus essu,Phonemic
+2-511-42-1,hinu1240,Hinuq,1984,ийос эссу,CyrillTrans,mother's brother,,,iyos essu,Phonemic
+2-510-42-1,hinu1240,Hinuq,1327,обус эссу,CyrillTrans,uncle,,,"obus essu, iyos iyos",Phonemic
+2-510-42-3,hinu1240,Hinuq,1327,ийос эссу,CyrillTrans,uncle,,,"obus essu, iyos iyos",Phonemic
+2-480-42-1,hinu1240,Hinuq,1618,ужиш ужи,CyrillTrans,grandson,,,"užiš uži, kedes uži",Phonemic
+2-480-42-3,hinu1240,Hinuq,1618,кедес ужи,CyrillTrans,grandson,,,"užiš uži, kedes uži",Phonemic
+2-490-42-1,hinu1240,Hinuq,1619,ужиш кед,CyrillTrans,granddaughter,,,"užiš ked, kedes ked",Phonemic
+2-490-42-3,hinu1240,Hinuq,1619,кедес кед,CyrillTrans,granddaughter,,,"užiš ked, kedes ked",Phonemic
+2-471-42-1,hinu1240,Hinuq,907,очордийу ахъили,CyrillTrans,old woman,,,očordiyu aqili,Phonemic
+2-470-42-1,hinu1240,Hinuq,1496,йеІжинну ийо,CyrillTrans,grandmother,,,yeˤžinnu iyo,Phonemic
+2-461-42-1,hinu1240,Hinuq,406,очордийу рекІве,CyrillTrans,old man,,,očordiyu rekʼʷe,Phonemic
+2-460-42-1,hinu1240,Hinuq,1383,эІжинну обу,CyrillTrans,grandfather,,,eˤžinnu obu,Phonemic
+2-458-42-1,hinu1240,Hinuq,1005,къвелъа,CyrillTrans,twins,,,qʼʷeɬa,Phonemic
+2-456-42-1,hinu1240,Hinuq,1640,эссу,CyrillTrans,sibling,,,"essu, esni",Phonemic
+2-456-42-3,hinu1240,Hinuq,1640,эсни,CyrillTrans,sibling,,,"essu, esni",Phonemic
+2-455-42-1,hinu1240,Hinuq,1761,йегвенну эссу,CyrillTrans,younger sister,,,yegʷennu essu,Phonemic
+2-454-42-1,hinu1240,Hinuq,1758,йеІжину эссу,CyrillTrans,older sister,,,yeˤžinu essu,Phonemic
+2-450-42-1,hinu1240,Hinuq,1263,эссу,CyrillTrans,sister,,,"essu, cʼuyaw essu",Phonemic
+2-450-42-3,hinu1240,Hinuq,1263,цІуйав эссу,CyrillTrans,sister,,,"essu, cʼuyaw essu",Phonemic
+2-445-42-1,hinu1240,Hinuq,1760,эгвенну эссу,CyrillTrans,younger brother,,,egʷennu essu,Phonemic
+2-444-42-1,hinu1240,Hinuq,1759,еІжину эссу,CyrillTrans,older brother,,,eˤžinu essu,Phonemic
+2-440-42-1,hinu1240,Hinuq,1262,эссу,CyrillTrans,brother,,,"essu, bikinab essu",Phonemic
+2-440-42-3,hinu1240,Hinuq,1262,бикинаб эссу,CyrillTrans,brother,,,"essu, bikinab essu",Phonemic
+2-430-42-1,hinu1240,Hinuq,1801,наслу,CyrillTrans,offspring (son or daughter),,,naslu,Phonemic
+2-420-42-1,hinu1240,Hinuq,1357,кед,CyrillTrans,daughter,,,ked,Phonemic
+2-410-42-1,hinu1240,Hinuq,1620,ужи,CyrillTrans,son,,,uži,Phonemic
+2-390-42-1,hinu1240,Hinuq,426,ходогьо йикъиш,CyrillTrans,married woman,,,xodoho yiqʼiš,Phonemic
+2-380-42-1,hinu1240,Hinuq,424,бару йикъес,CyrillTrans,married man,,,baru yiqʼes,Phonemic
+2-370-42-1,hinu1240,Hinuq,505,обу-ийо,CyrillTrans,parents,,,obu-iyo,Phonemic
+2-360-42-1,hinu1240,Hinuq,1216,ийо,CyrillTrans,mother,,,iyo,Phonemic
+2-350-42-1,hinu1240,Hinuq,1217,обу,CyrillTrans,father,,,obu,Phonemic
+2-341-42-1,hinu1240,Hinuq,1134,батІа бихъишлъи,CyrillTrans,divorce,,,batʼa biqišɬi,Phonemic
+2-340-42-1,hinu1240,Hinuq,1259,бертен,CyrillTrans,"marriage, wedding",,,"berten, rihin",Phonemic
+2-340-42-3,hinu1240,Hinuq,1259,ригьин,CyrillTrans,"marriage, wedding",,,"berten, rihin",Phonemic
+2-330-42-1,hinu1240,Hinuq,203,бару йикъа,CyrillTrans,marry,,,"baru yiqʼa, xoddoho yiƛ̄ʼa",Phonemic
+2-330-42-3,hinu1240,Hinuq,203,ходдогьо йикьа,CyrillTrans,marry,,,"baru yiqʼa, xoddoho yiƛ̄ʼa",Phonemic
+2-320-42-1,hinu1240,Hinuq,1199,бару,CyrillTrans,wife,,,baru,Phonemic
+2-310-42-1,hinu1240,Hinuq,1200,ходдо,CyrillTrans,husband,,,xoddo,Phonemic
+2-280-42-1,hinu1240,Hinuq,1289,эгвей хехбе,CyrillTrans,"infant, baby",,,egʷey xexbe,Phonemic
+2-270-42-1,hinu1240,Hinuq,1304,хехбе,CyrillTrans,child,,,xexbe,Phonemic
+2-261-42-1,hinu1240,Hinuq,77,кед,CyrillTrans,young woman (adolescent),,,"ked, qʼimaku",Phonemic
+2-261-42-3,hinu1240,Hinuq,77,къимаку,CyrillTrans,young woman (adolescent),,,"ked, qʼimaku",Phonemic
+2-260-42-1,hinu1240,Hinuq,1646,кед,CyrillTrans,girl,,,ked,Phonemic
+2-251-42-1,hinu1240,Hinuq,76,гІолохъан рекІве,CyrillTrans,young man (adolescent),,,"ʕoloqan rekʼʷe, ʕoloqan",Phonemic
+2-251-42-3,hinu1240,Hinuq,76,гІолохъан,CyrillTrans,young man (adolescent),,,"ʕoloqan rekʼʷe, ʕoloqan",Phonemic
+2-250-42-1,hinu1240,Hinuq,1366,ужи,CyrillTrans,boy,,,uži,Phonemic
+2-240-42-1,hinu1240,Hinuq,1551,цІуяй,CyrillTrans,female,,,cʼuyay,Phonemic
+2-230-42-1,hinu1240,Hinuq,1553,бихьинав,CyrillTrans,male,,,bix̆inaw,Phonemic
+2-220-42-1,hinu1240,Hinuq,962,ахъили,CyrillTrans,woman,,,aqili,Phonemic
+2-210-42-1,hinu1240,Hinuq,1554,бикинчи,CyrillTrans,man (vs. woman),,,"bikinči, rekʼʷe",Phonemic
+2-210-42-3,hinu1240,Hinuq,1554,рекІве,CyrillTrans,man (vs. woman),,,"bikinči, rekʼʷe",Phonemic
+2-100-42-1,hinu1240,Hinuq,683,рекІве,CyrillTrans,"person, human being",,,"rekʼʷe, ʕadam, insan",Phonemic
+2-100-42-3,hinu1240,Hinuq,683,гІадам,CyrillTrans,"person, human being",,,"rekʼʷe, ʕadam, insan",Phonemic
+2-100-42-5,hinu1240,Hinuq,683,инсан,CyrillTrans,"person, human being",,,"rekʼʷe, ʕadam, insan",Phonemic
+1-890-42-1,hinu1240,Hinuq,1188,аму,CyrillTrans,charcoal,,,amu,Phonemic
+1-880-42-1,hinu1240,Hinuq,10,хъаца,CyrillTrans,firewood,,,qaca,Phonemic
+1-870-42-1,hinu1240,Hinuq,1133,спичка,CyrillTrans,match (noun),,,spička,Phonemic
+1-861-42-1,hinu1240,Hinuq,127,чІе ритІра,CyrillTrans,extinguish,,,čʼe ritʼra,Phonemic
+1-860-42-1,hinu1240,Hinuq,737,чІе гора,CyrillTrans,"light, kindle, ignite",,,čʼe gora,Phonemic
+1-852-42-1,hinu1240,Hinuq,1428,рекІва,CyrillTrans,burn (vb intrans),,,rekʼʷa,Phonemic
+1-851-42-1,hinu1240,Hinuq,141,рекІвера,CyrillTrans,burn (vb trans),,,rekʼʷera,Phonemic
+1-841-42-1,hinu1240,Hinuq,67,чІедас аму,CyrillTrans,embers,,,čʼedas amu,Phonemic
+1-840-42-1,hinu1240,Hinuq,646,йелІу,CyrillTrans,ashes,,,yeƛu,Phonemic
+1-830-42-1,hinu1240,Hinuq,778,кутІи,CyrillTrans,smoke (noun),,,kutʼi,Phonemic
+1-820-42-1,hinu1240,Hinuq,889,мец,CyrillTrans,flame (noun),,,mec,Phonemic
+1-810-42-1,hinu1240,Hinuq,221,чІе,CyrillTrans,fire,,,čʼe,Phonemic
+1-780-42-1,hinu1240,Hinuq,952,гьава-бакъ,CyrillTrans,weather,,,hawa-baqʼ,Phonemic
+1-770-42-1,hinu1240,Hinuq,617,боре,CyrillTrans,ice,,,bore,Phonemic
+1-760-42-1,hinu1240,Hinuq,784,ише,CyrillTrans,snow (noun),,,iše,Phonemic
+1-750-42-1,hinu1240,Hinuq,658,хъема,CyrillTrans,rain (noun),,,qema,Phonemic
+1-740-42-1,hinu1240,Hinuq,249,ас,CyrillTrans,fog,,,as,Phonemic
+1-720-42-1,hinu1240,Hinuq,960,лъаци,CyrillTrans,wind,,,ɬaci,Phonemic
+1-730-42-1,hinu1240,Hinuq,1489,ас,CyrillTrans,cloud,,,as,Phonemic
+1-710-42-1,hinu1240,Hinuq,27,гьава,CyrillTrans,air,,,"hawa, ħox̆el",Phonemic
+1-710-42-3,hinu1240,Hinuq,27,хІохьел,CyrillTrans,air,,,"hawa, ħox̆el",Phonemic
+1-640-42-1,hinu1240,Hinuq,1977,хеби,CyrillTrans,dew,,,xebi,Phonemic
+1-630-42-1,hinu1240,Hinuq,1388,гъеду,CyrillTrans,"shade, shadow",,,ɣedu,Phonemic
+1-620-42-1,hinu1240,Hinuq,11,сассулъи,CyrillTrans,darkness,,,"sassuɬi, becʼɬi",Phonemic
+1-620-42-3,hinu1240,Hinuq,11,бецІлъи,CyrillTrans,darkness,,,"sassuɬi, becʼɬi",Phonemic
+1-610-42-1,hinu1240,Hinuq,630,канлъи,CyrillTrans,light (noun),,,kanɬi,Phonemic
+1-590-42-1,hinu1240,Hinuq,1733,ашуне,CyrillTrans,rainbow,,,ašune,Phonemic
+1-580-42-1,hinu1240,Hinuq,858,лъаци-пури,CyrillTrans,storm,,,ɬaci-puri,Phonemic
+1-560-42-1,hinu1240,Hinuq,1150,хуху,CyrillTrans,thunder,,,xuxu,Phonemic
+1-570-42-1,hinu1240,Hinuq,2007,макълІу,CyrillTrans,lightning (as striking),,,maqʼƛu,Phonemic
+1-550-42-1,hinu1240,Hinuq,1654,макълІу,CyrillTrans,lightning,,,maqʼƛu,Phonemic
+1-540-42-1,hinu1240,Hinuq,1430,ца,CyrillTrans,star,,,ca,Phonemic
+1-530-42-1,hinu1240,Hinuq,1313,буце,CyrillTrans,moon,,,buce,Phonemic
+1-520-42-1,hinu1240,Hinuq,1343,бухъ,CyrillTrans,sun,,,buq,Phonemic
+1-510-42-1,hinu1240,Hinuq,1732,ас,CyrillTrans,sky,,,as,Phonemic
+1-450-42-1,hinu1240,Hinuq,6,ракь лахлІеслъи,CyrillTrans,earthquake,,,raƛ̄ʼ laxƛesɬi,Phonemic
+1-440-42-1,hinu1240,Hinuq,2125,гамачІ,CyrillTrans,"stone, rock",,,"gamačʼ, ɬad",Phonemic
+1-440-42-3,hinu1240,Hinuq,2125,лъад,CyrillTrans,"stone, rock",,,"gamačʼ, ɬad",Phonemic
+1-430-42-1,hinu1240,Hinuq,1803,чехъ,CyrillTrans,wood,,,čeq,Phonemic
+1-420-42-1,hinu1240,Hinuq,906,аже,CyrillTrans,tree (cf 08.600),,,aže,Phonemic
+1-410-42-1,hinu1240,Hinuq,420,чехъ,CyrillTrans,"woods, forest",,,čeq,Phonemic
+1-390-42-1,hinu1240,Hinuq,943,чок,CyrillTrans,waterfall,,,"čok, qoq",Phonemic
+1-390-42-3,hinu1240,Hinuq,943,хъохъ,CyrillTrans,waterfall,,,"čok, qoq",Phonemic
+1-380-42-1,hinu1240,Hinuq,1145,мозо,CyrillTrans,swamp,,,"mozo, mozo-qʼec",Phonemic
+1-380-42-3,hinu1240,Hinuq,1145,мозо-къец,CyrillTrans,swamp,,,"mozo, mozo-qʼec",Phonemic
+1-370-42-1,hinu1240,Hinuq,2144,кик,CyrillTrans,"spring, well",,,"kik, ħamim",Phonemic
+1-370-42-3,hinu1240,Hinuq,2144,хІамим,CyrillTrans,"spring, well",,,"kik, ħamim",Phonemic
+1-362-42-1,hinu1240,Hinuq,1982,лъе сотІирутурлъи,CyrillTrans,whirlpool,,,ɬe sot’iruturɬi,Phonemic
+1-360-42-1,hinu1240,Hinuq,666,иху,CyrillTrans,"river, stream, brook",,,"ixu, madu",Phonemic
+1-360-42-3,hinu1240,Hinuq,666,маду,CyrillTrans,"river, stream, brook",,,"ixu, madu",Phonemic
+1-354-42-1,hinu1240,Hinuq,613,ралъад кьере бакъерлъи,CyrillTrans,hightide,,,raɬad ƛ̄ʼere baqʼerɬi,Phonemic
+1-353-42-1,hinu1240,Hinuq,1026,ралъад гьезор бикьирлъи,CyrillTrans,lowtide,,,raɬad hezor biƛ̄ʼirɬi,Phonemic
+1-352-42-1,hinu1240,Hinuq,891,ралъад кьере бакъерлъи,CyrillTrans,tide,,,"raɬad ƛ̄ʼere baqʼerɬi, hezor biƛ̄ʼirɬi",Phonemic
+1-352-42-3,hinu1240,Hinuq,891,гьезор бикьирлъи,CyrillTrans,tide,,,"raɬad ƛ̄ʼere baqʼerɬi, hezor biƛ̄ʼirɬi",Phonemic
+1-350-42-1,hinu1240,Hinuq,978,лаба,CyrillTrans,wave,,,"laba, karačel",Phonemic
+1-350-42-3,hinu1240,Hinuq,978,карачел,CyrillTrans,wave,,,"laba, karačel",Phonemic
+1-330-42-1,hinu1240,Hinuq,624,гІалазан,CyrillTrans,lake,,,"ʕalazan, olozen, ħor",Phonemic
+1-330-42-3,hinu1240,Hinuq,624,олозен,CyrillTrans,lake,,,"ʕalazan, olozen, ħor",Phonemic
+1-330-42-5,hinu1240,Hinuq,624,хІор,CyrillTrans,lake,,,"ʕalazan, olozen, ħor",Phonemic
+1-329-42-1,hinu1240,Hinuq,645,ралъад,CyrillTrans,ocean,,,raɬad,Phonemic
+1-324-42-1,hinu1240,Hinuq,1768,муж,CyrillTrans,foam,,,muž,Phonemic
+1-323-42-1,hinu1240,Hinuq,259,гьалагаб,CyrillTrans,rough (of sea),,,halagab,Phonemic
+1-320-42-1,hinu1240,Hinuq,1474,ралъад,CyrillTrans,sea,,,raɬad,Phonemic
+1-322-42-1,hinu1240,Hinuq,258,лъасиш,CyrillTrans,calm (of sea),,,ɬasiš,Phonemic
+1-310-42-1,hinu1240,Hinuq,948,лъе,CyrillTrans,water,,,ɬe,Phonemic
+1-280-42-1,hinu1240,Hinuq,1155,нохъо,CyrillTrans,cave,,,"noqo, qod",Phonemic
+1-280-42-3,hinu1240,Hinuq,1155,хъод,CyrillTrans,cave,,,"noqo, qod",Phonemic
+1-270-42-1,hinu1240,Hinuq,113,ихиш,CyrillTrans,shore,,,"ixiš, raʕal",Phonemic
+1-270-42-3,hinu1240,Hinuq,113,рагІал,CyrillTrans,shore,,,"ixiš, raʕal",Phonemic
+1-260-42-1,hinu1240,Hinuq,166,дуллан,CyrillTrans,mainland,,,"dullan, kantinent",Phonemic
+1-260-42-3,hinu1240,Hinuq,166,кантинент,CyrillTrans,mainland,,,"dullan, kantinent",Phonemic
+1-250-42-1,hinu1240,Hinuq,622,чІинкІиллъи,CyrillTrans,island,,,čʼinkʼilɬi,Phonemic
+1-240-42-1,hinu1240,Hinuq,921,авлахъ,CyrillTrans,valley,,,awlaq,Phonemic
+1-230-42-1,hinu1240,Hinuq,652,авлахъ,CyrillTrans,"plain, field",,,"awlaq, ʕatʼiraƛ̄ʼ, ɬaraʕɬi, maydan",Phonemic
+1-230-42-3,hinu1240,Hinuq,652,гІатІиракь,CyrillTrans,"plain, field",,,"awlaq, ʕatʼiraƛ̄ʼ, ɬaraʕɬi, maydan",Phonemic
+1-230-42-5,hinu1240,Hinuq,652,лъарагІлъи,CyrillTrans,"plain, field",,,"awlaq, ʕatʼiraƛ̄ʼ, ɬaraʕɬi, maydan",Phonemic
+1-230-42-7,hinu1240,Hinuq,652,майдан,CyrillTrans,"plain, field",,,"awlaq, ʕatʼiraƛ̄ʼ, ɬaraʕɬi, maydan",Phonemic
+1-222-42-1,hinu1240,Hinuq,618,лъад,CyrillTrans,"cliff, precipice",,,"ɬad, qoq",Phonemic
+1-222-42-3,hinu1240,Hinuq,618,хъохъ,CyrillTrans,"cliff, precipice",,,"ɬad, qoq",Phonemic
+1-220-42-1,hinu1240,Hinuq,2118,гуз,CyrillTrans,"mountain, hill",,,"guz, gupʼ, guħ, qʼut, xʷin",Phonemic
+1-220-42-3,hinu1240,Hinuq,2118,гупІ,CyrillTrans,"mountain, hill",,,"guz, gupʼ, guħ, qʼut, xʷin",Phonemic
+1-220-42-5,hinu1240,Hinuq,2118,гухІ,CyrillTrans,"mountain, hill",,,"guz, gupʼ, guħ, qʼut, xʷin",Phonemic
+1-220-42-7,hinu1240,Hinuq,2118,къут,CyrillTrans,"mountain, hill",,,"guz, gupʼ, guħ, qʼut, xʷin",Phonemic
+1-220-42-9,hinu1240,Hinuq,2118,хвин,CyrillTrans,"mountain, hill",,,"guz, gupʼ, guħ, qʼut, xʷin",Phonemic
+1-214-42-1,hinu1240,Hinuq,640,ату,CyrillTrans,mud,,,atu,Phonemic
+1-215-42-1,hinu1240,Hinuq,671,месе,CyrillTrans,sand,,,"mese, sali",Phonemic
+1-215-42-3,hinu1240,Hinuq,671,сали,CyrillTrans,sand,,,"mese, sali",Phonemic
+1-213-42-1,hinu1240,Hinuq,2,гебу,CyrillTrans,dust,,,gebu,Phonemic
+1-212-42-1,hinu1240,Hinuq,1228,ракь,CyrillTrans,"earth=ground, soil",,,raƛ̄ʼ,Phonemic
+1-210-42-1,hinu1240,Hinuq,626,пачалихъ,CyrillTrans,"earth, land",,,"pačaliq, ħukumat",Phonemic
+1-210-42-3,hinu1240,Hinuq,626,хІукумат,CyrillTrans,"earth, land",,,"pačaliq, ħukumat",Phonemic
+1-100-42-1,hinu1240,Hinuq,965,дунйал,CyrillTrans,world,,,dunyal,Phonemic
+14-330-42-1,hinu1240,Hinuq,1544,сан-сан,CyrillTrans,sometimes,,,"san-san, saquho",Phonemic
+14-330-42-3,hinu1240,Hinuq,1544,сахъугьо,CyrillTrans,sometimes,,,"san-san, saquho",Phonemic
+14-331-42-1,hinu1240,Hinuq,703,колъе,CyrillTrans,soon,,,"koɬe, koɬe-koɬe",Phonemic
+14-331-42-3,hinu1240,Hinuq,703,колъе-колъе,CyrillTrans,soon,,,"koɬe, koɬe-koɬe",Phonemic
+14-332-42-1,hinu1240,Hinuq,418,заманалъес,CyrillTrans,long-time (for a),,,zamanaɬes,Phonemic
+14-340-42-1,hinu1240,Hinuq,1656,неттехъен,CyrillTrans,never,,,netteqen,Phonemic
+14-350-42-1,hinu1240,Hinuq,204,цІиддаса,CyrillTrans,again,,,"cʼiddasa, ecʼendiuƛ̄ʼo",Phonemic
+14-350-42-3,hinu1240,Hinuq,204,эцІендийукьо,CyrillTrans,again,,,"cʼiddasa, ecʼendiuƛ̄ʼo",Phonemic
+14-410-42-1,hinu1240,Hinuq,1225,гъведе,CyrillTrans,day,,,ɣʷede,Phonemic
+14-420-42-1,hinu1240,Hinuq,1233,неса,CyrillTrans,night,,,"nesa, neši",Phonemic
+14-420-42-3,hinu1240,Hinuq,1233,неши,CyrillTrans,night,,,"nesa, neši",Phonemic
+14-430-42-1,hinu1240,Hinuq,729,хъахІлъи,CyrillTrans,dawn,,,qaħɬi,Phonemic
+14-440-42-1,hinu1240,Hinuq,1339,сасахъо,CyrillTrans,morning,,,"sasaqo, žuħa",Phonemic
+14-440-42-3,hinu1240,Hinuq,1339,жугьа,CyrillTrans,morning,,,"sasaqo, žuħa",Phonemic
+14-450-42-1,hinu1240,Hinuq,12,носод,CyrillTrans,"noon, midday",,,"nosod, nosodes mix",Phonemic
+14-450-42-3,hinu1240,Hinuq,12,носодес мих,CyrillTrans,"noon, midday",,,"nosod, nosodes mix",Phonemic
+14-451-42-1,hinu1240,Hinuq,1807,бухъличІалъ,CyrillTrans,afternoon,,,"buqličʼaɬ, nosošid",Phonemic
+14-451-42-3,hinu1240,Hinuq,1807,носошид,CyrillTrans,afternoon,,,"buqličʼaɬ, nosošid",Phonemic
+14-460-42-1,hinu1240,Hinuq,1629,неса,CyrillTrans,evening,,,"bogoli, marčʼikʼu, nesa",Phonemic
+14-460-42-3,hinu1240,Hinuq,1629,марчІику,CyrillTrans,evening,,,"bogoli, marčʼikʼu, nesa",Phonemic
+14-460-42-5,hinu1240,Hinuq,1629,боголи,CyrillTrans,evening,,,"bogoli, marčʼikʼu, nesa",Phonemic
+14-470-42-1,hinu1240,Hinuq,1283,жихъу,CyrillTrans,today,,,žiqu,Phonemic
+14-480-42-1,hinu1240,Hinuq,1329,зек,CyrillTrans,tomorrow,,,zek,Phonemic
+14-481-42-1,hinu1240,Hinuq,1179,зекес хецен,CyrillTrans,day-after-tomorrow,,,zekes xecen,Phonemic
+14-490-42-1,hinu1240,Hinuq,1174,гьулъ,CyrillTrans,yesterday,,,huɬ,Phonemic
+14-491-42-1,hinu1240,Hinuq,1180,гьулълъокьо,CyrillTrans,day-before-yesterday,,,huɬɬoƛ̄ʼo,Phonemic
+14-510-42-1,hinu1240,Hinuq,1353,сагІат,CyrillTrans,hour,,,saʕat,Phonemic
+14-530-42-1,hinu1240,Hinuq,1323,сагІатбе,CyrillTrans,"clock, timepiece",,,saʕatbe,Phonemic
+14-610-42-1,hinu1240,Hinuq,1469,анкьи,CyrillTrans,week,,,anƛ̄ʼi,Phonemic
+14-620-42-1,hinu1240,Hinuq,1699,гьатІан,CyrillTrans,Sunday,,,hatʼan,Phonemic
+14-630-42-1,hinu1240,Hinuq,1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-42-1,hinu1240,Hinuq,1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-42-1,hinu1240,Hinuq,1694,арбагІ,CyrillTrans,Wednesday,,,arbaʕ,Phonemic
+14-660-42-1,hinu1240,Hinuq,1693,хамиз,CyrillTrans,Thursday,,,xamiz,Phonemic
+14-670-42-1,hinu1240,Hinuq,1692,рузман,CyrillTrans,Friday,,,ruzman,Phonemic
+14-680-42-1,hinu1240,Hinuq,1700,шамат,CyrillTrans,Saturday,,,šamat,Phonemic
+14-710-42-1,hinu1240,Hinuq,1370,буце,CyrillTrans,month,,,buce,Phonemic
+14-730-42-1,hinu1240,Hinuq,1226,лІебу,CyrillTrans,year,,,ƛebu,Phonemic
+14-740-42-1,hinu1240,Hinuq,1471,элІни,CyrillTrans,winter,,,eƛni,Phonemic
+14-750-42-1,hinu1240,Hinuq,1537,их,CyrillTrans,spring,,,ix,Phonemic
+14-760-42-1,hinu1240,Hinuq,1342,атІони,CyrillTrans,summer,,,atʼoni,Phonemic
+14-770-42-1,hinu1240,Hinuq,1276,себедогъо,CyrillTrans,autumn,,,sebedoɣo,Phonemic
+14-780-42-1,hinu1240,Hinuq,691,лъебас замана,CyrillTrans,season,,,ɬebas zamana,Phonemic
+15-210-42-1,hinu1240,Hinuq,1587,махІ бихъа,CyrillTrans,smell (vb intrans),,,"maħ biqa, maħ reqʼa",Phonemic
+15-210-42-3,hinu1240,Hinuq,1587,махІ рекъа,CyrillTrans,smell (vb intrans),,,"maħ biqa, maħ reqʼa",Phonemic
+15-212-42-1,hinu1240,Hinuq,375,хирлІа,CyrillTrans,sniff,,,"xirƛa, maħ beqʼira",Phonemic
+15-212-42-3,hinu1240,Hinuq,375,махІ бекъира,CyrillTrans,sniff,,,"xirƛa, maħ beqʼira",Phonemic
+15-220-42-1,hinu1240,Hinuq,1586,лІша,CyrillTrans,smell (vb trans),,,"ƛeša, maħ beqʼira",Phonemic
+15-220-42-3,hinu1240,Hinuq,1586,махІ бекъира,CyrillTrans,smell (vb trans),,,"ƛeša, maħ beqʼira",Phonemic
+15-250-42-1,hinu1240,Hinuq,376,беги махІ,CyrillTrans,"fragrant, good smelling",,,"begi maħ, huenaw maħ",Phonemic
+15-250-42-3,hinu1240,Hinuq,376,гьуэнав махІ,CyrillTrans,"fragrant, good smelling",,,"begi maħ, huenaw maħ",Phonemic
+15-260-42-1,hinu1240,Hinuq,42,квешав махІ,CyrillTrans,"stinking, bad smelling",,,kʷešaw maħ,Phonemic
+15-310-42-1,hinu1240,Hinuq,21,тІагІам,CyrillTrans,taste,,,"tʼaʕam, gimu",Phonemic
+15-310-42-3,hinu1240,Hinuq,21,гиму,CyrillTrans,taste,,,"tʼaʕam, gimu",Phonemic
+15-350-42-1,hinu1240,Hinuq,717,гьуэнав,CyrillTrans,sweet,,,huenaw,Phonemic
+15-360-42-1,hinu1240,Hinuq,1091,чагъгъу,CyrillTrans,salty,,,"čaɣɣu, čiyoxu",Phonemic
+15-360-42-3,hinu1240,Hinuq,1091,чийоху,CyrillTrans,salty,,,"čaɣɣu, čiyoxu",Phonemic
+15-370-42-1,hinu1240,Hinuq,887,кьогІав,CyrillTrans,bitter,,,"ƛ̄ʼoʕaw, meqʼayu",Phonemic
+15-370-42-3,hinu1240,Hinuq,887,мекъайу,CyrillTrans,bitter,,,"ƛ̄ʼoʕaw, meqʼayu",Phonemic
+15-380-42-1,hinu1240,Hinuq,1906,цекъкъу,CyrillTrans,"acid, sour",,,ceqʼqʼu,Phonemic
+15-390-42-1,hinu1240,Hinuq,70,чийоху,CyrillTrans,brackish,,,čiyoxu,Phonemic
+15-410-42-1,hinu1240,Hinuq,1408,бекъа,CyrillTrans,hear,,,"beqʼa, toqa",Phonemic
+15-410-42-3,hinu1240,Hinuq,1408,тохъа,CyrillTrans,hear,,,"beqʼa, toqa",Phonemic
+15-420-42-1,hinu1240,Hinuq,1608,тохъра,CyrillTrans,listen,,,"toqra, ʕenekizi biqa",Phonemic
+15-420-42-3,hinu1240,Hinuq,1608,гІенекзи бихъа,CyrillTrans,listen,,,"toqra, ʕenekizi biqa",Phonemic
+15-440-42-1,hinu1240,Hinuq,1811,гьаракь,CyrillTrans,"sound, noise",,,"haraƛ̄ʼ, pʼez, rukʼ, sas",Phonemic
+15-440-42-3,hinu1240,Hinuq,1811,пІез,CyrillTrans,"sound, noise",,,"haraƛ̄ʼ, pʼez, rukʼ, sas",Phonemic
+15-440-42-5,hinu1240,Hinuq,1811,рукІ,CyrillTrans,"sound, noise",,,"haraƛ̄ʼ, pʼez, rukʼ, sas",Phonemic
+15-440-42-7,hinu1240,Hinuq,1811,сас,CyrillTrans,"sound, noise",,,"haraƛ̄ʼ, pʼez, rukʼ, sas",Phonemic
+15-450-42-1,hinu1240,Hinuq,377,беІжӣ,CyrillTrans,loud,,,beˁžī,Phonemic
+15-460-42-1,hinu1240,Hinuq,1314,паракъатав,CyrillTrans,"quiet, silence",,,"paraqʼataw, raħataw, ħalimaw",Phonemic
+15-460-42-3,hinu1240,Hinuq,1314,рахІатав,CyrillTrans,"quiet, silence",,,"paraqʼataw, raħataw, ħalimaw",Phonemic
+15-460-42-5,hinu1240,Hinuq,1314,хІалимав,CyrillTrans,"quiet, silence",,,"paraqʼataw, raħataw, ħalimaw",Phonemic
+15-510-42-1,hinu1240,Hinuq,1409,рика̄з,CyrillTrans,see,,,rikāz,Phonemic
+15-520-42-1,hinu1240,Hinuq,1819,эза,CyrillTrans,"look, look at",,,eza,Phonemic
+15-550-42-1,hinu1240,Hinuq,1039,рикера,CyrillTrans,show,,,rikera,Phonemic
+15-560-42-1,hinu1240,Hinuq,708,канлъи бува,CyrillTrans,shine,,,"kanɬi buwa, cʼurekʼa",Phonemic
+15-560-42-3,hinu1240,Hinuq,708,цІурекІа,CyrillTrans,shine,,,"kanɬi buwa, cʼurekʼa",Phonemic
+15-570-42-1,hinu1240,Hinuq,679,гвангъарав,CyrillTrans,bright,,,"gʷanɣaraw, čʼunkaraw",Phonemic
+15-570-42-3,hinu1240,Hinuq,679,чІункарав,CyrillTrans,bright,,,"gʷanɣaraw, čʼunkaraw",Phonemic
+15-610-42-1,hinu1240,Hinuq,1613,кьер,CyrillTrans,color,,,ƛ̄ʼer,Phonemic
+15-620-42-1,hinu1240,Hinuq,250,алдийу рилъи,CyrillTrans,light (in color),,,aldiyu riɬi,Phonemic
+15-630-42-1,hinu1240,Hinuq,706,сассу,CyrillTrans,dark (in color),,,sassu,Phonemic
+15-640-42-1,hinu1240,Hinuq,1335,алдийу,CyrillTrans,white,,,aldiyu,Phonemic
+15-650-42-1,hinu1240,Hinuq,163,кабадду,CyrillTrans,black,,,kabaddu,Phonemic
+15-660-42-1,hinu1240,Hinuq,156,цІудду,CyrillTrans,red,,,cʼuddu,Phonemic
+15-670-42-1,hinu1240,Hinuq,837,асос,CyrillTrans,blue,,,"asos, asohos, nikdiyu, čʼani",Phonemic
+15-670-42-3,hinu1240,Hinuq,837,асогьос,CyrillTrans,blue,,,"asos, asohos, nikdiyu, čʼani",Phonemic
+15-670-42-5,hinu1240,Hinuq,837,никдийу,CyrillTrans,blue,,,"asos, asohos, nikdiyu, čʼani",Phonemic
+15-670-42-7,hinu1240,Hinuq,837,чІани,CyrillTrans,blue,,,"asos, asohos, nikdiyu, čʼani",Phonemic
+15-680-42-1,hinu1240,Hinuq,1425,гІурччинав,CyrillTrans,green,,,"ʕurččinaw, išiyоs",Phonemic
+15-680-42-3,hinu1240,Hinuq,1425,ишийос,CyrillTrans,green,,,"ʕurččinaw, išiyоs",Phonemic
+15-690-42-1,hinu1240,Hinuq,1424,ичІдийу,CyrillTrans,yellow,,,ičʼdiyu,Phonemic
+15-710-42-1,hinu1240,Hinuq,1892,ритира,CyrillTrans,touch,,,ritira,Phonemic
+15-712-42-1,hinu1240,Hinuq,378,бутІа,CyrillTrans,pinch,,,"butʼa, kika",Phonemic
+15-712-42-3,hinu1240,Hinuq,378,кика,CyrillTrans,pinch,,,"butʼa, kika",Phonemic
+15-720-42-1,hinu1240,Hinuq,1079,бекъа,CyrillTrans,feel,,,beqʼa,Phonemic
+15-740-42-1,hinu1240,Hinuq,1884,ролІойу,CyrillTrans,hard,,,roƛoyu,Phonemic
+15-750-42-1,hinu1240,Hinuq,1856,кокору,CyrillTrans,soft,,,"kokoru, ƛ̄ʼoƛ̄ʼoru, ƛoƛoru, tamaxaw",Phonemic
+15-750-42-3,hinu1240,Hinuq,1856,кьокьору,CyrillTrans,soft,,,"kokoru, ƛ̄ʼoƛ̄ʼoru, ƛoƛoru, tamaxaw",Phonemic
+15-750-42-5,hinu1240,Hinuq,1856,лІолІолу,CyrillTrans,soft,,,"kokoru, ƛ̄ʼoƛ̄ʼoru, ƛoƛoru, tamaxaw",Phonemic
+15-750-42-7,hinu1240,Hinuq,1856,тамахав,CyrillTrans,soft,,,"kokoru, ƛ̄ʼoƛ̄ʼoru, ƛoƛoru, tamaxaw",Phonemic
+15-760-42-1,hinu1240,Hinuq,1923,болІойу,CyrillTrans,rough,,,"boƛoyu, qačʼaw",Phonemic
+15-760-42-3,hinu1240,Hinuq,1923,хъачІав,CyrillTrans,rough,,,"boƛoyu, qačʼaw",Phonemic
+15-770-42-1,hinu1240,Hinuq,1234,гагару,CyrillTrans,smooth,,,gagaru,Phonemic
+15-780-42-1,hinu1240,Hinuq,1396,бегъес,CyrillTrans,sharp,,,"beɣes, cʼoqʼqʼu",Phonemic
+15-780-42-3,hinu1240,Hinuq,1396,цІокъкъу,CyrillTrans,sharp,,,"beɣes, cʼoqʼqʼu",Phonemic
+15-790-42-1,hinu1240,Hinuq,379,гупондийу,CyrillTrans,"blunt, dull",,,"gupondiyu, oqondiyu",Phonemic
+15-790-42-3,hinu1240,Hinuq,379,охъондийу,CyrillTrans,"blunt, dull",,,"gupondiyu, oqondiyu",Phonemic
+15-810-42-1,hinu1240,Hinuq,1210,рокъкъу,CyrillTrans,heavy,,,"roqʼqʼu, zaħmataw",Phonemic
+15-810-42-3,hinu1240,Hinuq,1210,захІматав,CyrillTrans,heavy,,,"roqʼqʼu, zaħmataw",Phonemic
+15-820-42-1,hinu1240,Hinuq,1052,кекку,CyrillTrans,light (in weight),,,"kekku, bihayaw",Phonemic
+15-820-42-3,hinu1240,Hinuq,1052,бигьайав,CyrillTrans,light (in weight),,,"kekku, bihayaw",Phonemic
+15-830-42-1,hinu1240,Hinuq,1726,атІтІу,CyrillTrans,"wet, damp",,,atʼtʼu,Phonemic
+15-840-42-1,hinu1240,Hinuq,1398,хъухъес,CyrillTrans,dry,,,quqes,Phonemic
+15-850-42-1,hinu1240,Hinuq,1286,бобору,CyrillTrans,hot,,,"boboru, ɣoɣoru",Phonemic
+15-850-42-3,hinu1240,Hinuq,1286,гъогъору,CyrillTrans,hot,,,"boboru, ɣoɣoru",Phonemic
+15-851-42-1,hinu1240,Hinuq,1232,рехкьес,CyrillTrans,warm,,,rexƛ̄ʼes,Phonemic
+15-860-42-1,hinu1240,Hinuq,1287,рочІчІу,CyrillTrans,cold,,,ročʼčʼu,Phonemic
+15-870-42-1,hinu1240,Hinuq,704,бацІадав,CyrillTrans,clean,,,"bacʼadaw, bacʼcʼadaw",Phonemic
+15-870-42-3,hinu1240,Hinuq,704,бацІцІадав,CyrillTrans,clean,,,"bacʼadaw, bacʼcʼadaw",Phonemic
+15-880-42-1,hinu1240,Hinuq,1230,гъезмоху,CyrillTrans,"dirty, soiled",,,"ɣezmoxu, tuturu, čorokaw",Phonemic
+15-880-42-3,hinu1240,Hinuq,1230,тутуру,CyrillTrans,"dirty, soiled",,,"ɣezmoxu, tuturu, čorokaw",Phonemic
+15-880-42-5,hinu1240,Hinuq,1230,чорокав,CyrillTrans,"dirty, soiled",,,"ɣezmoxu, tuturu, čorokaw",Phonemic
+15-890-42-1,hinu1240,Hinuq,380,лъожес,CyrillTrans,wrinkled,,,"ɬožes, buqʼuƛuqʼiš",Phonemic
+15-890-42-3,hinu1240,Hinuq,380,букъулІукъиш,CyrillTrans,wrinkled,,,"ɬožes, buqʼuƛuqʼiš",Phonemic
+16-110-42-1,hinu1240,Hinuq,53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-42-1,hinu1240,Hinuq,1572,хІайран ихъиш,CyrillTrans,"surprised, astonished",,,"ħayran iqiš, ħayranaw",Phonemic
+16-150-42-3,hinu1240,Hinuq,1572,хІайранав,CyrillTrans,"surprised, astonished",,,"ħayran iqiš, ħayranaw",Phonemic
+16-180-42-1,hinu1240,Hinuq,720,битІ,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ",Phonemic
+16-180-42-3,hinu1240,Hinuq,720,талихІ,CyrillTrans,"good fortune, luck",,,"bitʼ, taliħ",Phonemic
+16-190-42-1,hinu1240,Hinuq,56,талихІкъей,CyrillTrans,"misfortune, bad luck",,,taliħqʼey,Phonemic
+16-230-42-1,hinu1240,Hinuq,1495,разияв,CyrillTrans,"joyful, glad, happy",,,"raziyaw, taliħaw",Phonemic
+16-230-42-3,hinu1240,Hinuq,1495,талихІав,CyrillTrans,"joyful, glad, happy",,,"raziyaw, taliħaw",Phonemic
+16-250-42-1,hinu1240,Hinuq,1355,лъежāз,CyrillTrans,laugh,,,ɬežāz,Phonemic
+16-251-42-1,hinu1240,Hinuq,1451,нацІӣж,CyrillTrans,smile,,,nacʼīž,Phonemic
+16-260-42-1,hinu1240,Hinuq,1413,бикІа,CyrillTrans,play,,,"bikʼa, kʼešāz",Phonemic
+16-260-42-3,hinu1240,Hinuq,1413,кІешāз,CyrillTrans,play,,,"bikʼa, kʼešāz",Phonemic
+16-270-42-1,hinu1240,Hinuq,923,эта,CyrillTrans,love,,,eta,Phonemic
+16-290-42-1,hinu1240,Hinuq,578,уббай эса,CyrillTrans,kiss,,,"ubbay esa, ubbay buwa",Phonemic
+16-290-42-3,hinu1240,Hinuq,578,уббай бува,CyrillTrans,kiss,,,"ubbay esa, ubbay buwa",Phonemic
+16-300-42-1,hinu1240,Hinuq,928,алъу бичІа,CyrillTrans,embrace,,,aɬu bičʼa,Phonemic
+16-310-42-1,hinu1240,Hinuq,1783,гІузру,CyrillTrans,pain,,,"ʕuzru, unti",Phonemic
+16-310-42-3,hinu1240,Hinuq,1783,унти,CyrillTrans,pain,,,"ʕuzru, unti",Phonemic
+16-320-42-1,hinu1240,Hinuq,1668,ургъел,CyrillTrans,"grief, sorrow, sadness",,,urɣel,Phonemic
+16-330-42-1,hinu1240,Hinuq,1000,ахІи,CyrillTrans,"anxiety, worry",,,"aħi, aħi-ħur",Phonemic
+16-330-42-3,hinu1240,Hinuq,1000,ахІи-хІур,CyrillTrans,"anxiety, worry",,,"aħi, aħi-ħur",Phonemic
+16-340-42-1,hinu1240,Hinuq,1875,рокІве гурхІези рихъа,CyrillTrans,"regret, be sorry",,,rokʼʷe gurħezi riqa,Phonemic
+16-350-42-1,hinu1240,Hinuq,1141,гурхІел,CyrillTrans,pity,,,gurħel,Phonemic
+16-370-42-1,hinu1240,Hinuq,1839,бāз,CyrillTrans,"cry, weep",,,"bāz, batukʼa",Phonemic
+16-370-42-3,hinu1240,Hinuq,1839,батукІа,CyrillTrans,"cry, weep",,,"bāz, batukʼa",Phonemic
+16-380-42-1,hinu1240,Hinuq,1651,мокъу,CyrillTrans,tear (noun),,,moqʼu,Phonemic
+16-390-42-1,hinu1240,Hinuq,716,угьдизи бихъа,CyrillTrans,groan,,,"uhdizi biqa, ziqarɬezi biqa",Phonemic
+16-390-42-3,hinu1240,Hinuq,716,зигардизи бихъа,CyrillTrans,groan,,,"uhdizi biqa, ziqarɬezi biqa",Phonemic
+16-410-42-1,hinu1240,Hinuq,1607,этамēз,CyrillTrans,hate,,,etamēz,Phonemic
+16-420-42-1,hinu1240,Hinuq,82,цим,CyrillTrans,anger,,,cim,Phonemic
+16-440-42-1,hinu1240,Hinuq,40,рокІве лІехвешлъи,CyrillTrans,"envy, jealousy",,,"rokʼʷe ƛexʷešɬi, žaħda",Phonemic
+16-440-42-3,hinu1240,Hinuq,40,жахІда,CyrillTrans,"envy, jealousy",,,"rokʼʷe ƛexʷešɬi, žaħda",Phonemic
+16-450-42-1,hinu1240,Hinuq,1776,нич,CyrillTrans,shame (noun),,,"nič, namus",Phonemic
+16-450-42-3,hinu1240,Hinuq,1776,намус,CyrillTrans,shame (noun),,,"nič, namus",Phonemic
+16-480-42-1,hinu1240,Hinuq,174,чІухІарав,CyrillTrans,proud,,,čʼuħaraw,Phonemic
+16-510-42-1,hinu1240,Hinuq,1779,багьадур,CyrillTrans,dare,,,"bahadur, baħarči",Phonemic
+16-510-42-3,hinu1240,Hinuq,1779,бахІарчи,CyrillTrans,dare,,,"bahadur, baħarči",Phonemic
+16-520-42-1,hinu1240,Hinuq,3,бахІарчийав,CyrillTrans,brave,,,"baħarčiyaw, ħinqʼi gosme, giħondiyu",Phonemic
+16-520-42-3,hinu1240,Hinuq,3,хІинкъи госме,CyrillTrans,brave,,,"baħarčiyaw, ħinqʼi gosme, giħondiyu",Phonemic
+16-520-42-5,hinu1240,Hinuq,3,гихІондийу,CyrillTrans,brave,,,"baħarčiyaw, ħinqʼi gosme, giħondiyu",Phonemic
+16-530-42-1,hinu1240,Hinuq,781,хІинкъи,CyrillTrans,"fear, fright",,,ħinqʼi,Phonemic
+16-540-42-1,hinu1240,Hinuq,1810,хІинкъи,CyrillTrans,danger,,,ħinqʼi,Phonemic
+16-620-42-1,hinu1240,Hinuq,1784,мурад,CyrillTrans,"desire, want",,,"murad, q’as, xiyal",Phonemic
+16-620-42-3,hinu1240,Hinuq,1784,къас,CyrillTrans,"desire, want",,,"murad, q’as, xiyal",Phonemic
+16-620-42-5,hinu1240,Hinuq,1784,хийал,CyrillTrans,"desire, want",,,"murad, q’as, xiyal",Phonemic
+16-622-42-1,hinu1240,Hinuq,1750,бишши бува,CyrillTrans,choose,,,"bišši buwa, ɬekʼa, ɬetʼa",Phonemic
+16-622-42-3,hinu1240,Hinuq,1750,лъекІа,CyrillTrans,choose,,,"bišši buwa, ɬekʼa, ɬetʼa",Phonemic
+16-622-42-5,hinu1240,Hinuq,1750,лъетІа,CyrillTrans,choose,,,"bišši buwa, ɬekʼa, ɬetʼa",Phonemic
+16-630-42-1,hinu1240,Hinuq,1092,рокІве ракъа,CyrillTrans,hope,,,"rokʼʷe raqʼa, kul buwa",Phonemic
+16-630-42-3,hinu1240,Hinuq,1092,кул бува,CyrillTrans,hope,,,"rokʼʷe raqʼa, kul buwa",Phonemic
+16-650-42-1,hinu1240,Hinuq,100,рокІве ракъес,CyrillTrans,faithful,,,"rokʼʷe raqʼes, mutʼiʕaw",Phonemic
+16-650-42-3,hinu1240,Hinuq,100,мутІигІав,CyrillTrans,faithful,,,"rokʼʷe raqʼes, mutʼiʕaw",Phonemic
+16-660-42-1,hinu1240,Hinuq,1657,унго-унгояв,CyrillTrans,true,,,"ungo-ungoyaw, hobožiš",Phonemic
+16-660-42-3,hinu1240,Hinuq,1657,гьобожиш,CyrillTrans,true,,,"ungo-ungoyaw, hobožiš",Phonemic
+16-670-42-1,hinu1240,Hinuq,601,гьереси эса,CyrillTrans,"lie, tell lies",,,heresi esa,Phonemic
+16-680-42-1,hinu1240,Hinuq,13,акьира,CyrillTrans,deceit,,,aƛ̄ʼira,Phonemic
+16-690-42-1,hinu1240,Hinuq,1528,кьерес улъа,CyrillTrans,forgive,,,ƛ̄ʼeres uɬa,Phonemic
+16-710-42-1,hinu1240,Hinuq,1035,запІанав,CyrillTrans,good,,,"zapʼanaw, egiy, lazzataw",Phonemic
+16-710-42-3,hinu1240,Hinuq,1035,бегий,CyrillTrans,good,,,"zapʼanaw, egiy, lazzataw",Phonemic
+16-710-42-5,hinu1240,Hinuq,1035,лаззатав,CyrillTrans,good,,,"zapʼanaw, egiy, lazzataw",Phonemic
+16-720-42-1,hinu1240,Hinuq,1292,гахъий,CyrillTrans,bad,,,"gaqiy, exxu",Phonemic
+16-720-42-3,hinu1240,Hinuq,1292,эхху,CyrillTrans,bad,,,"gaqiy, exxu",Phonemic
+16-730-42-1,hinu1240,Hinuq,1725,битІарав,CyrillTrans,"right, correct",,,"bitʼaraw, buqʼeres",Phonemic
+16-730-42-3,hinu1240,Hinuq,1725,букъерес,CyrillTrans,"right, correct",,,"bitʼaraw, buqʼeres",Phonemic
+16-740-42-1,hinu1240,Hinuq,1390,битІараб госме,CyrillTrans,wrong,,,"bitʼarab gosme, meqʼqʼaw",Phonemic
+16-740-42-3,hinu1240,Hinuq,1390,мекъкъав,CyrillTrans,wrong,,,"bitʼarab gosme, meqʼqʼaw",Phonemic
+16-760-42-1,hinu1240,Hinuq,134,мекъкъав ругьоголъа жо,CyrillTrans,fault,,,meqʼqʼaw ruhogoɬa žo,Phonemic
+16-770-42-1,hinu1240,Hinuq,1293,гъалатІ,CyrillTrans,"mistake, error",,,"ɣalatʼ, meqʼɬi",Phonemic
+16-770-42-3,hinu1240,Hinuq,1293,мекълъи,CyrillTrans,"mistake, error",,,"ɣalatʼ, meqʼɬi",Phonemic
+16-780-42-1,hinu1240,Hinuq,381,гІайиб бува,CyrillTrans,blame,,,"ʕayib buwa, ʕayib gora",Phonemic
+16-780-42-3,hinu1240,Hinuq,381,гІайиб гора,CyrillTrans,blame,,,"ʕayib buwa, ʕayib gora",Phonemic
+16-790-42-1,hinu1240,Hinuq,1687,вецци ува,CyrillTrans,praise,,,"wecci uwa, rec buwa",Phonemic
+16-790-42-3,hinu1240,Hinuq,1687,рец бува,CyrillTrans,praise,,,"wecci uwa, rec buwa",Phonemic
+16-810-42-1,hinu1240,Hinuq,1427,берцинав,CyrillTrans,beautiful,,,"bercinaw, haybataw",Phonemic
+16-810-42-3,hinu1240,Hinuq,1427,гьайбатав,CyrillTrans,beautiful,,,"bercinaw, haybataw",Phonemic
+16-820-42-1,hinu1240,Hinuq,1548,сурукъав,CyrillTrans,ugly,,,suruqʼaw,Phonemic
+16-830-42-1,hinu1240,Hinuq,2018,бахилав,CyrillTrans,greedy,,,"baxilaw, qʼarumaw, baraxšaraw",Phonemic
+16-830-42-3,hinu1240,Hinuq,2018,барахшарав,CyrillTrans,greedy,,,"baxilaw, qʼarumaw, baraxšaraw",Phonemic
+16-830-42-5,hinu1240,Hinuq,2018,къарумав,CyrillTrans,greedy,,,"baxilaw, qʼarumaw, baraxšaraw",Phonemic
+16-840-42-1,hinu1240,Hinuq,1310,бачарав,CyrillTrans,clever,,,"bačaraw, ʕaqʼilaw",Phonemic
+16-840-42-3,hinu1240,Hinuq,1310,гІакъилав,CyrillTrans,clever,,,"bačaraw, ʕaqʼilaw",Phonemic
+17-110-42-1,hinu1240,Hinuq,1562,гІакълу,CyrillTrans,mind,,,ʕaqʼlu,Phonemic
+17-130-42-1,hinu1240,Hinuq,1415,пикру бува,CyrillTrans,think (= reflect),,,"pikru buwa, urɣezi iqa",Phonemic
+17-130-42-3,hinu1240,Hinuq,1415,ургъези ихъа,CyrillTrans,think (= reflect),,,"pikru buwa, urɣezi iqa",Phonemic
+17-140-42-1,hinu1240,Hinuq,1513,ургъези ихъа,CyrillTrans,think (= be of the opinion),,,urɣezi iqa,Phonemic
+17-150-42-1,hinu1240,Hinuq,1890,божжи ихъа,CyrillTrans,believe,,,božži iqa,Phonemic
+17-160-42-1,hinu1240,Hinuq,1536,бичІчІи рихъа,CyrillTrans,understand,,,bičʼčʼi riqa,Phonemic
+17-170-42-1,hinu1240,Hinuq,1410,рекъа,CyrillTrans,know,,,reqʼa,Phonemic
+17-171-42-1,hinu1240,Hinuq,1932,хъебāз,CyrillTrans,guess,,,"qebāz, rokʼƛ̄ʼo raƛ̄ʼa",Phonemic
+17-171-42-3,hinu1240,Hinuq,1932,рокІкьо ракьа,CyrillTrans,guess,,,"qebāz, rokʼƛ̄ʼo raƛ̄ʼa",Phonemic
+17-172-42-1,hinu1240,Hinuq,117,хвел бува,CyrillTrans,imitate,,,xʷel buwa,Phonemic
+17-180-42-1,hinu1240,Hinuq,1521,хъебāз,CyrillTrans,seem,,,qebāz,Phonemic
+17-190-42-1,hinu1240,Hinuq,1609,пикру,CyrillTrans,"idea, notion",,,pikru,Phonemic
+17-210-42-1,hinu1240,Hinuq,698,гІакъилав,CyrillTrans,wise,,,ʕaqʼilaw,Phonemic
+17-220-42-1,hinu1240,Hinuq,1518,ахІмакъав,CyrillTrans,"foolish, stupid",,,"aħmaqʼaw, hagaw, oqondiyu",Phonemic
+17-220-42-3,hinu1240,Hinuq,1518,гьагав,CyrillTrans,"foolish, stupid",,,"aħmaqʼaw, hagaw, oqondiyu",Phonemic
+17-220-42-5,hinu1240,Hinuq,1518,охъондийу,CyrillTrans,"foolish, stupid",,,"aħmaqʼaw, hagaw, oqondiyu",Phonemic
+17-230-42-1,hinu1240,Hinuq,1899,гІадалав,CyrillTrans,"insane, crazy",,,"ʕantaw, ʕadalaw",Phonemic
+17-230-42-3,hinu1240,Hinuq,1899,гІантав,CyrillTrans,"insane, crazy",,,"ʕantaw, ʕadalaw",Phonemic
+17-240-42-1,hinu1240,Hinuq,504,тІотІрайāз,CyrillTrans,learn,,,"tʼotʼrayāz, beqʼa",Phonemic
+17-240-42-3,hinu1240,Hinuq,504,бекъа,CyrillTrans,learn,,,"tʼotʼrayāz, beqʼa",Phonemic
+17-242-42-1,hinu1240,Hinuq,1929,рекъира,CyrillTrans,study,,,"reqʼira, tʼotʼra",Phonemic
+17-242-42-3,hinu1240,Hinuq,1929,тІотІра,CyrillTrans,study,,,"reqʼira, tʼotʼra",Phonemic
+17-250-42-1,hinu1240,Hinuq,709,жо молъа,CyrillTrans,teach,,,"žo moɬa, tʼotʼera",Phonemic
+17-250-42-3,hinu1240,Hinuq,709,тІотІера,CyrillTrans,teach,,,"žo moɬa, tʼotʼera",Phonemic
+17-260-42-1,hinu1240,Hinuq,753,молъес рухкьос,CyrillTrans,pupil,,,"moɬes ruxƛ̄ʼos, cʼalduqan",Phonemic
+17-260-42-3,hinu1240,Hinuq,753,цІалдухъан,CyrillTrans,pupil,,,"moɬes ruxƛ̄ʼos, cʼalduqan",Phonemic
+17-270-42-1,hinu1240,Hinuq,1038,жо молъекьос,CyrillTrans,teacher,,,"žo moɬeƛ̄ʼos, muʕalim, učitel",Phonemic
+17-270-42-3,hinu1240,Hinuq,1038,мугІалим,CyrillTrans,teacher,,,"žo moɬeƛ̄ʼos, muʕalim, učitel",Phonemic
+17-270-42-5,hinu1240,Hinuq,1038,учител,CyrillTrans,teacher,,,"žo moɬeƛ̄ʼos, muʕalim, učitel",Phonemic
+17-280-42-1,hinu1240,Hinuq,673,ишкола,CyrillTrans,school,,,iškola,Phonemic
+17-310-42-1,hinu1240,Hinuq,707,рокІкьо рича,CyrillTrans,remember,,,rokʼƛ̄ʼo riča,Phonemic
+17-320-42-1,hinu1240,Hinuq,1523,шукьа,CyrillTrans,forget,,,"šuƛ̄ʼa, šuƛ̄ʼera",Phonemic
+17-320-42-3,hinu1240,Hinuq,1523,шукьера,CyrillTrans,forget,,,"šuƛ̄ʼa, šuƛ̄ʼera",Phonemic
+17-340-42-1,hinu1240,Hinuq,989,байанав,CyrillTrans,"clear, plain",,,"bayanaw, muħkanaw",Phonemic
+17-340-42-3,hinu1240,Hinuq,989,мухІканав,CyrillTrans,"clear, plain",,,"bayanaw, muħkanaw",Phonemic
+17-350-42-1,hinu1240,Hinuq,1764,бичІчІи рихъмекьос,CyrillTrans,obscure,,,bičʼčʼi riqmeƛ̄ʼos,Phonemic
+17-360-42-1,hinu1240,Hinuq,1121,балъголъи,CyrillTrans,secret,,,baɬgoɬi,Phonemic
+17-370-42-1,hinu1240,Hinuq,509,божарав,CyrillTrans,"sure, certain",,,"rakʼ čʼaraw, božaraw",Phonemic
+17-370-42-3,hinu1240,Hinuq,509,ракІ чІарав,CyrillTrans,"sure, certain",,,"rakʼ čʼaraw, božaraw",Phonemic
+17-380-42-1,hinu1240,Hinuq,1626,эса,CyrillTrans,explain,,,"esa, moƛa, bičʼčʼizi buwa",Phonemic
+17-380-42-3,hinu1240,Hinuq,1626,молІа,CyrillTrans,explain,,,"esa, moƛa, bičʼčʼizi buwa",Phonemic
+17-380-42-5,hinu1240,Hinuq,1626,бичІчІизи рува,CyrillTrans,explain,,,"esa, moƛa, bičʼčʼizi buwa",Phonemic
+17-410-42-1,hinu1240,Hinuq,1162,рокІкьос жо,CyrillTrans,"intention, purpose",,,"rokʼƛ̄ʼos žo, murad",Phonemic
+17-410-42-3,hinu1240,Hinuq,1162,мурад,CyrillTrans,"intention, purpose",,,"rokʼƛ̄ʼos žo, murad",Phonemic
+17-420-42-1,hinu1240,Hinuq,860,багьана,CyrillTrans,cause,,,"bahana, ʕilla, sabab",Phonemic
+17-420-42-3,hinu1240,Hinuq,860,гІилла,CyrillTrans,cause,,,"bahana, ʕilla, sabab",Phonemic
+17-420-42-5,hinu1240,Hinuq,860,сабаб,CyrillTrans,cause,,,"bahana, ʕilla, sabab",Phonemic
+17-430-42-1,hinu1240,Hinuq,1308,васваси,CyrillTrans,doubt,,,"waswasi, šakɬi",Phonemic
+17-430-42-3,hinu1240,Hinuq,1308,шакдари,CyrillTrans,doubt,,,"waswasi, šakɬi",Phonemic
+17-440-42-1,hinu1240,Hinuq,1841,шак ихъа,CyrillTrans,suspect,,,"šak iqa, šak buwa, šakdezi biqa, šakdezi buwa",Phonemic
+17-440-42-3,hinu1240,Hinuq,1841,шак бува,CyrillTrans,suspect,,,"šak iqa, šak buwa, šakdezi biqa, šakdezi buwa",Phonemic
+17-440-42-5,hinu1240,Hinuq,1841,шакдези бихъа,CyrillTrans,suspect,,,"šak iqa, šak buwa, šakdezi biqa, šakdezi buwa",Phonemic
+17-440-42-7,hinu1240,Hinuq,1841,шакдези бува,CyrillTrans,suspect,,,"šak iqa, šak buwa, šakdezi biqa, šakdezi buwa",Phonemic
+17-441-42-1,hinu1240,Hinuq,1902,рекІ бува,CyrillTrans,betray,,,rekʼ buwa,Phonemic
+17-450-42-1,hinu1240,Hinuq,643,къварагІил,CyrillTrans,"need, necessity",,,"qʼʷaraʕel, ħažaɬi",Phonemic
+17-450-42-3,hinu1240,Hinuq,643,хІажалъи,CyrillTrans,"need, necessity",,,"qʼʷaraʕel, ħažaɬi",Phonemic
+17-460-42-1,hinu1240,Hinuq,686,кекку,CyrillTrans,easy,,,"kekku, pihayaw",Phonemic
+17-460-42-3,hinu1240,Hinuq,686,пигьайав,CyrillTrans,easy,,,"kekku, pihayaw",Phonemic
+17-470-42-1,hinu1240,Hinuq,584,захІматав,CyrillTrans,difficult,,,zaħmataw,Phonemic
+17-480-42-1,hinu1240,Hinuq,1812,сангозо,CyrillTrans,"try, attempt",,,ħalbiki,Phonemic
+17-490-42-1,hinu1240,Hinuq,488,куц,CyrillTrans,"way, manner",,,"kuc, qʼaʕida, čara",Phonemic
+17-490-42-3,hinu1240,Hinuq,488,къагІида,CyrillTrans,"way, manner",,,"kuc, qʼaʕida, čara",Phonemic
+17-490-42-5,hinu1240,Hinuq,488,чара,CyrillTrans,"way, manner",,,"kuc, qʼaʕida, čara",Phonemic
+17-510-42-1,hinu1240,Hinuq,1577,-но,CyrillTrans,and,,,"-no, wa",Phonemic
+17-510-42-3,hinu1240,Hinuq,1577,ва,CyrillTrans,and,,,"-no, wa",Phonemic
+17-520-42-1,hinu1240,Hinuq,1157,сиралІен элІийо,CyrillTrans,because,,,"siraƛen eƛiyo, hayɬuƛ̄ʼuɬʼon",Phonemic
+17-520-42-3,hinu1240,Hinuq,1157,гьайлъукьулъун,CyrillTrans,because,,,"siraƛen eƛiyo, hayɬuƛ̄ʼuɬʼon",Phonemic
+17-530-42-1,hinu1240,Hinuq,1459,рихъхъоме,CyrillTrans,if,,,"riqqome, heƛ̄ʼe, nagah",Phonemic
+17-530-42-3,hinu1240,Hinuq,1459,гьекье,CyrillTrans,if,,,"riqqome, heƛ̄ʼe, nagah",Phonemic
+17-530-42-5,hinu1240,Hinuq,1459,нагагь,CyrillTrans,if,,,"riqqome, heƛ̄ʼe, nagah",Phonemic
+17-540-42-1,hinu1240,Hinuq,1014,йа,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-540-42-3,hinu1240,Hinuq,1014,йаги,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-550-42-1,hinu1240,Hinuq,1268,голъ,CyrillTrans,"yes, affirmative",,,"goɬ, heƛ̄ʼe",Phonemic
+17-550-42-3,hinu1240,Hinuq,1268,гьекье,CyrillTrans,"yes, affirmative",,,"goɬ, heƛ̄ʼe",Phonemic
+17-560-42-1,hinu1240,Hinuq,1269,гом,CyrillTrans,"no, negative",,,gom,Phonemic
+17-610-42-1,hinu1240,Hinuq,1239,дерузо,CyrillTrans,how?,,,"deruzo, deru",Phonemic
+17-610-42-3,hinu1240,Hinuq,1239,деру,CyrillTrans,how?,,,"deruzo, deru",Phonemic
+17-620-42-1,hinu1240,Hinuq,822,дече,CyrillTrans,how many?,,,deče,Phonemic
+17-630-42-1,hinu1240,Hinuq,531,дече,CyrillTrans,how much?,,,"deče, somo",Phonemic
+17-630-42-3,hinu1240,Hinuq,531,сомо,CyrillTrans,how much?,,,"deče, somo",Phonemic
+17-640-42-1,hinu1240,Hinuq,1236,гье,CyrillTrans,what?,,,"he, se",Phonemic
+17-640-42-3,hinu1240,Hinuq,1236,се,CyrillTrans,what?,,,"he, se",Phonemic
+17-650-42-1,hinu1240,Hinuq,1238,нете,CyrillTrans,when?,,,"nete, -ƛ̄ʼо",Phonemic
+17-650-42-3,hinu1240,Hinuq,1238,-кьо,CyrillTrans,when?,,,"nete, -ƛ̄ʼо",Phonemic
+17-660-42-1,hinu1240,Hinuq,1237,нӣш,CyrillTrans,where?,,,"nīš, nī, nībitos",Phonemic
+17-660-42-3,hinu1240,Hinuq,1237,нӣ,CyrillTrans,where?,,,"nīš, nī, nībitos",Phonemic
+17-660-42-5,hinu1240,Hinuq,1237,нӣбитос,CyrillTrans,where?,,,"nīš, nī, nībitos",Phonemic
+17-670-42-1,hinu1240,Hinuq,727,дессу,CyrillTrans,which?,,,"dessu, nišƛa",Phonemic
+17-670-42-3,hinu1240,Hinuq,727,нишлІа,CyrillTrans,which?,,,"dessu, nišƛa",Phonemic
+17-680-42-1,hinu1240,Hinuq,1235,лъу,CyrillTrans,who?,,,"ɬu, ɬuy",Phonemic
+17-680-42-3,hinu1240,Hinuq,1235,лъуй,CyrillTrans,who?,,,"ɬu, ɬuy",Phonemic
+17-690-42-1,hinu1240,Hinuq,1270,сира,CyrillTrans,why?,,,"sira, ɬenez",Phonemic
+17-690-42-3,hinu1240,Hinuq,1270,лъенез,CyrillTrans,why?,,,"sira, ɬenez",Phonemic
+18-110-42-1,hinu1240,Hinuq,1363,гьаракь,CyrillTrans,voice,,,"haraƛ̄ʼ, sas",Phonemic
+18-110-42-3,hinu1240,Hinuq,1363,сас,CyrillTrans,voice,,,"haraƛ̄ʼ, sas",Phonemic
+18-120-42-1,hinu1240,Hinuq,1261,кечІ элІа,CyrillTrans,sing,,,kečʼ eƛa,Phonemic
+18-130-42-1,hinu1240,Hinuq,715,лалайāз,CyrillTrans,"shout, cry out",,,"lalayāz, qaƛelīž, eƛa",Phonemic
+18-130-42-3,hinu1240,Hinuq,715,хъалІелӣж,CyrillTrans,"shout, cry out",,,"lalayāz, qaƛelīž, eƛa",Phonemic
+18-130-42-5,hinu1240,Hinuq,715,элІа,CyrillTrans,"shout, cry out",,,"lalayāz, qaƛelīž, eƛa",Phonemic
+18-150-42-1,hinu1240,Hinuq,55,шушуйа̄з,CyrillTrans,whisper,,,šušuyāz,Phonemic
+18-160-42-1,hinu1240,Hinuq,128,бубулІа,CyrillTrans,mumble,,,"bubuƛa, guguyāz, lapɣi raƛ̄ʼira",Phonemic
+18-160-42-3,hinu1240,Hinuq,128,гугуйāз,CyrillTrans,mumble,,,"bubuƛa, guguyāz, lapɣi raƛ̄ʼira",Phonemic
+18-160-42-5,hinu1240,Hinuq,128,лапгъи ракьира,CyrillTrans,mumble,,,"bubuƛa, guguyāz, lapɣi raƛ̄ʼira",Phonemic
+18-170-42-1,hinu1240,Hinuq,1025,шалІу пелІа,CyrillTrans,whistle,,,"šaƛu peƛa, šaƛa",Phonemic
+18-170-42-3,hinu1240,Hinuq,1025,шалІа,CyrillTrans,whistle,,,"šaƛu peƛa, šaƛa",Phonemic
+18-180-42-1,hinu1240,Hinuq,298,кІвачІлІа,CyrillTrans,"shriek, screech",,,"kʼʷačʼƛa, čʼačʼaƛa",Phonemic
+18-180-42-3,hinu1240,Hinuq,298,чІачІалІа,CyrillTrans,"shriek, screech",,,"kʼʷačʼƛa, čʼačʼaƛa",Phonemic
+18-190-42-1,hinu1240,Hinuq,526,āз,CyrillTrans,howl,,,"āz, guru biɣa",Phonemic
+18-190-42-3,hinu1240,Hinuq,526,гуру бигъа,CyrillTrans,howl,,,"āz, guru biɣa",Phonemic
+18-210-42-1,hinu1240,Hinuq,1623,акьа,CyrillTrans,"speak, talk",,,"aƛ̄ʼa, xabaryāz",Phonemic
+18-210-42-3,hinu1240,Hinuq,1623,хабарйāз,CyrillTrans,"speak, talk",,,"aƛ̄ʼa, xabaryāz",Phonemic
+18-211-42-1,hinu1240,Hinuq,1866,бухелъдōз,CyrillTrans,"stutter, stammer",,,buxeɬdōz,Phonemic
+18-220-42-1,hinu1240,Hinuq,1458,элІа,CyrillTrans,say,,,eƛa,Phonemic
+18-221-42-1,hinu1240,Hinuq,1711,хабар эса,CyrillTrans,tell story,,,xabar esa,Phonemic
+18-222-42-1,hinu1240,Hinuq,1115,калам,CyrillTrans,speech (make a),,,"kalam, kʼaɬay, kʼaɬazi iqa",Phonemic
+18-222-42-3,hinu1240,Hinuq,1115,кІалъай,CyrillTrans,speech (make a),,,"kalam, kʼaɬay, kʼaɬazi iqa",Phonemic
+18-222-42-5,hinu1240,Hinuq,1115,кІалъази ихъа,CyrillTrans,speech (make a),,,"kalam, kʼaɬay, kʼaɬazi iqa",Phonemic
+18-230-42-1,hinu1240,Hinuq,48,хъуй бичира,CyrillTrans,silent (be),,,"quy bičira, qʼazi biqa",Phonemic
+18-230-42-3,hinu1240,Hinuq,48,къази бихъа,CyrillTrans,silent (be),,,"quy bičira, qʼazi biqa",Phonemic
+18-240-42-1,hinu1240,Hinuq,1307,мец,CyrillTrans,language,,,mec,Phonemic
+18-260-42-1,hinu1240,Hinuq,1599,рожи,CyrillTrans,word,,,roži,Phonemic
+18-280-42-1,hinu1240,Hinuq,1405,це,CyrillTrans,name,,,ce,Phonemic
+18-310-42-1,hinu1240,Hinuq,1309,эсера,CyrillTrans,"ask (question, inquire)",,,esera,Phonemic
+18-320-42-1,hinu1240,Hinuq,1275,эсера,CyrillTrans,answer,,,esera,Phonemic
+18-330-42-1,hinu1240,Hinuq,2022,мутІигІ ихъа,CyrillTrans,"admit, confess",,,"mutʼiʕ iqa, mukʼur iqa",Phonemic
+18-330-42-3,hinu1240,Hinuq,2022,мукІур ихъа,CyrillTrans,"admit, confess",,,"mutʼiʕ iqa, mukʼur iqa",Phonemic
+18-340-42-1,hinu1240,Hinuq,755,инкар бува,CyrillTrans,deny,,,inkar buwa,Phonemic
+18-350-42-1,hinu1240,Hinuq,1828,эсера,CyrillTrans,"ask, request",,,"esera, harzi buwa",Phonemic
+18-350-42-3,hinu1240,Hinuq,1828,гьарзи бува,CyrillTrans,"ask, request",,,"esera, harzi buwa",Phonemic
+18-360-42-1,hinu1240,Hinuq,1675,рожи толІа,CyrillTrans,promise,,,"roži toƛa, ƛ̄ʼere ruxa",Phonemic
+18-360-42-3,hinu1240,Hinuq,1675,кьере руха,CyrillTrans,promise,,,"roži toƛa, ƛ̄ʼere ruxa",Phonemic
+18-370-42-1,hinu1240,Hinuq,49,кекирмез хеца,CyrillTrans,refuse,,,kekirmez xeca,Phonemic
+18-380-42-1,hinu1240,Hinuq,83,боцІера,CyrillTrans,forbid,,,"bocʼera, kekiramez",Phonemic
+18-380-42-3,hinu1240,Hinuq,83,кекирамез,CyrillTrans,forbid,,,"bocʼera, kekiramez",Phonemic
+18-390-42-1,hinu1240,Hinuq,299,акьа,CyrillTrans,"rebuke, scold",,,"aƛ̄ʼa, gerdāz",Phonemic
+18-390-42-3,hinu1240,Hinuq,299,гердāз,CyrillTrans,"rebuke, scold",,,"aƛ̄ʼa, gerdāz",Phonemic
+18-410-42-1,hinu1240,Hinuq,1084,элІа,CyrillTrans,call (=summon),,,"eƛa, iɣa",Phonemic
+18-410-42-3,hinu1240,Hinuq,1084,игъа,CyrillTrans,call (=summon),,,"eƛa, iɣa",Phonemic
+18-420-42-1,hinu1240,Hinuq,180,элІа,CyrillTrans,call (=name),,,eƛa,Phonemic
+18-430-42-1,hinu1240,Hinuq,9,лъази рува,CyrillTrans,announce,,,"ɬazi ruwa, beqʼira",Phonemic
+18-430-42-3,hinu1240,Hinuq,9,бекъира,CyrillTrans,announce,,,"ɬazi ruwa, beqʼira",Phonemic
+18-440-42-1,hinu1240,Hinuq,1192,хІинкъи толІа,CyrillTrans,threaten,,,"ħinqʼi toƛa, buƛ̄ʼera",Phonemic
+18-440-42-3,hinu1240,Hinuq,1192,букьера,CyrillTrans,threaten,,,"ħinqʼi toƛa, buƛ̄ʼera",Phonemic
+18-450-42-1,hinu1240,Hinuq,101,вецардизи ихъа,CyrillTrans,boast,,,"wecardizi iqa, peƛa",Phonemic
+18-450-42-3,hinu1240,Hinuq,101,пелІа,CyrillTrans,boast,,,"wecardizi iqa, peƛa",Phonemic
+18-510-42-1,hinu1240,Hinuq,1672,цаха,CyrillTrans,write,,,caxa,Phonemic
+18-520-42-1,hinu1240,Hinuq,724,тІотІра,CyrillTrans,read,,,tʼotʼra,Phonemic
+18-560-42-1,hinu1240,Hinuq,648,кагъат,CyrillTrans,paper,,,kaɣat,Phonemic
+18-570-42-1,hinu1240,Hinuq,794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-42-1,hinu1240,Hinuq,963,тІехь,CyrillTrans,book,,,"tʼex̆, čʼegen",Phonemic
+18-610-42-3,hinu1240,Hinuq,963,чІеген,CyrillTrans,book,,,"tʼex̆, čʼegen",Phonemic
+18-670-42-1,hinu1240,Hinuq,1045,шаир,CyrillTrans,poet,,,"šair, poʔet",Phonemic
+18-670-42-3,hinu1240,Hinuq,1045,поэт,CyrillTrans,poet,,,"šair, poʔet",Phonemic
+18-710-42-1,hinu1240,Hinuq,777,шуршатІу,CyrillTrans,flute,,,šuršatʼu,Phonemic
+18-720-42-1,hinu1240,Hinuq,908,къили,CyrillTrans,drum,,,qʼili,Phonemic
+18-730-42-1,hinu1240,Hinuq,2136,пелу,CyrillTrans,"horn, trumpet",,,pelu,Phonemic
+19-110-42-1,hinu1240,Hinuq,1300,улка,CyrillTrans,country,,,ulka,Phonemic
+19-120-42-1,hinu1240,Hinuq,89,гІагараб улка,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-120-42-3,hinu1240,Hinuq,89,ватІан,CyrillTrans,one's native country,,,"ʕagarab ulka, watʼan",Phonemic
+19-150-42-1,hinu1240,Hinuq,1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-42-1,hinu1240,Hinuq,930,алІ,CyrillTrans,village,,,aƛ,Phonemic
+19-170-42-1,hinu1240,Hinuq,1010,гІурхъи,CyrillTrans,boundary,,,ʕurqi,Phonemic
+19-210-42-1,hinu1240,Hinuq,789,агьлу,CyrillTrans,people (populace),,,"ahlu, xalqʼi",Phonemic
+19-210-42-3,hinu1240,Hinuq,789,халкъи,CyrillTrans,people (populace),,,"ahlu, xalqʼi",Phonemic
+19-230-42-1,hinu1240,Hinuq,302,агълу,CyrillTrans,"tribe, clan",,,"aɣlu, qʼuqʼa, tuxum,ummat",Phonemic
+19-230-42-3,hinu1240,Hinuq,302,къукъа,CyrillTrans,"tribe, clan",,,"aɣlu, qʼuqʼa, tuxum,ummat",Phonemic
+19-230-42-5,hinu1240,Hinuq,302,тухум,CyrillTrans,"tribe, clan",,,"aɣlu, qʼuqʼa, tuxum,ummat",Phonemic
+19-230-42-7,hinu1240,Hinuq,302,уммат,CyrillTrans,"tribe, clan",,,"aɣlu, qʼuqʼa, tuxum,ummat",Phonemic
+19-240-42-1,hinu1240,Hinuq,301,къиму,CyrillTrans,"chief, chieftain",,,"qʼimu, betʼer",Phonemic
+19-240-42-3,hinu1240,Hinuq,301,бетІер,CyrillTrans,"chief, chieftain",,,"qʼimu, betʼer",Phonemic
+19-250-42-1,hinu1240,Hinuq,1296,гІанса,CyrillTrans,"staff, walking stick",,,"ʕansa, hebo",Phonemic
+19-250-42-3,hinu1240,Hinuq,1296,гьебо,CyrillTrans,"staff, walking stick",,,"ʕansa, hebo",Phonemic
+19-310-42-1,hinu1240,Hinuq,1846,ханлъи рува,CyrillTrans,"rule, govern",,,xanɬi ruwa,Phonemic
+19-320-42-1,hinu1240,Hinuq,1508,парчагь,CyrillTrans,"king, ruler",,,"parčah, pača, xan",Phonemic
+19-320-42-3,hinu1240,Hinuq,1508,пача,CyrillTrans,"king, ruler",,,"parčah, pača, xan",Phonemic
+19-320-42-5,hinu1240,Hinuq,1508,хан,CyrillTrans,"king, ruler",,,"parčah, pača, xan",Phonemic
+19-330-42-1,hinu1240,Hinuq,1306,бика,CyrillTrans,queen,,,"bika, xanes baru",Phonemic
+19-330-42-3,hinu1240,Hinuq,1306,ханес бару,CyrillTrans,queen,,,"bika, xanes baru",Phonemic
+19-360-42-1,hinu1240,Hinuq,482,бахьинав,CyrillTrans,"noble, nobleman",,,"bax̌inab, iman goɬiš",Phonemic
+19-360-42-3,hinu1240,Hinuq,482,иман голъиш,CyrillTrans,"noble, nobleman",,,"bax̌inab, iman goɬiš",Phonemic
+19-370-42-1,hinu1240,Hinuq,1032,шагьарес рекІве,CyrillTrans,"citizen, subject",,,sahares rekʼʷe,Phonemic
+19-410-42-1,hinu1240,Hinuq,383,бетІергьан,CyrillTrans,master,,,"betʼerhan, xazain",Phonemic
+19-410-42-3,hinu1240,Hinuq,383,хазаин,CyrillTrans,master,,,"betʼerhan, xazain",Phonemic
+19-420-42-1,hinu1240,Hinuq,812,лагъ,CyrillTrans,slave,,,"laɣ, ɣarabaš, ħambaliyaw",Phonemic
+19-420-42-3,hinu1240,Hinuq,812,гъарабаш,CyrillTrans,slave,,,"laɣ, ɣarabaš, ħambaliyaw",Phonemic
+19-420-42-5,hinu1240,Hinuq,812,хІамбалийав,CyrillTrans,slave,,,"laɣ, ɣarabaš, ħambaliyaw",Phonemic
+19-430-42-1,hinu1240,Hinuq,255,лагъ,CyrillTrans,servant,,,"laɣ, rahdatel",Phonemic
+19-430-42-3,hinu1240,Hinuq,255,рагьдател,CyrillTrans,servant,,,"laɣ, rahdatel",Phonemic
+19-440-42-1,hinu1240,Hinuq,384,узданав рекІве,CyrillTrans,freeman,,,uzdanaw rekʼʷe,Phonemic
+19-450-42-1,hinu1240,Hinuq,1128,амру бува,CyrillTrans,"command, order",,,"amru buwa, buyuruq buwa",Phonemic
+19-450-42-3,hinu1240,Hinuq,1128,буйурухъ бува,CyrillTrans,"command, order",,,"amru buwa, buyuruq buwa",Phonemic
+19-460-42-1,hinu1240,Hinuq,1635,мутІигІ ихъа,CyrillTrans,obey,,,mutʼiʕ iqa,Phonemic
+19-470-42-1,hinu1240,Hinuq,1003,кекира,CyrillTrans,"let, permit",,,"kekira, izmu toƛa",Phonemic
+19-470-42-3,hinu1240,Hinuq,1003,изму телІа,CyrillTrans,"let, permit",,,"kekira, izmu toƛa",Phonemic
+19-510-42-1,hinu1240,Hinuq,1325,гьалмагъ,CyrillTrans,"friend, companion",,,"halmaɣ, hudul",Phonemic
+19-510-42-3,hinu1240,Hinuq,1325,гьудул,CyrillTrans,"friend, companion",,,"halmaɣ, hudul",Phonemic
+19-520-42-1,hinu1240,Hinuq,1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-42-1,hinu1240,Hinuq,1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-42-1,hinu1240,Hinuq,791,экъимекьос рекІве,CyrillTrans,stranger,,,eqʼimeƛ̄ʼos rekʼʷe,Phonemic
+19-560-42-1,hinu1240,Hinuq,1782,лІерба,CyrillTrans,guest,,,ƛerba,Phonemic
+19-570-42-1,hinu1240,Hinuq,1545,бетІергьан,CyrillTrans,host,,,betʼerhan,Phonemic
+19-580-42-1,hinu1240,Hinuq,1897,кумак,CyrillTrans,"help, aid",,,kumak,Phonemic
+19-590-42-1,hinu1240,Hinuq,1550,квалквал бува,CyrillTrans,"hinder, prevent",,,kʷalkʷal buwa,Phonemic
+19-610-42-1,hinu1240,Hinuq,1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-42-1,hinu1240,Hinuq,1848,дагІба,CyrillTrans,"strife, quarrel",,,"daʕba, qʼacandi",Phonemic
+19-620-42-3,hinu1240,Hinuq,1848,къацанди,CyrillTrans,"strife, quarrel",,,"daʕba, qʼacandi",Phonemic
+19-630-42-1,hinu1240,Hinuq,2024,балъгойаб къутІи,CyrillTrans,"conspiracy, plot",,,baɬgoyab qʼutʼi,Phonemic
+19-650-42-1,hinu1240,Hinuq,1831,дандилъи бихъа,CyrillTrans,meet,,,dandiɬi biqa,Phonemic
+19-720-42-1,hinu1240,Hinuq,1610,хъахІба,CyrillTrans,prostitute,,,qaħba,Phonemic
+20-110-42-1,hinu1240,Hinuq,1423,игьӣж,CyrillTrans,fight (vb),,,ihīž,Phonemic
+20-130-42-1,hinu1240,Hinuq,579,лІоре,CyrillTrans,"war, battle",,,"ƛore, raɣ",Phonemic
+20-130-42-3,hinu1240,Hinuq,579,рагъ,CyrillTrans,"war, battle",,,"ƛore, raɣ",Phonemic
+20-140-42-1,hinu1240,Hinuq,1338,рекъел,CyrillTrans,peace,,,reqʼel,Phonemic
+20-150-42-1,hinu1240,Hinuq,1561,аскар,CyrillTrans,army,,,"askar, armiya",Phonemic
+20-150-42-3,hinu1240,Hinuq,1561,армийа,CyrillTrans,army,,,"askar, armiya",Phonemic
+20-170-42-1,hinu1240,Hinuq,1941,рагъулав,CyrillTrans,soldier,,,"raɣulaw, saldat",Phonemic
+20-170-42-3,hinu1240,Hinuq,1941,салдат,CyrillTrans,soldier,,,"raɣulaw, saldat",Phonemic
+20-210-42-1,hinu1240,Hinuq,951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-42-1,hinu1240,Hinuq,1763,гьебо,CyrillTrans,club,,,hebo,Phonemic
+20-222-42-1,hinu1240,Hinuq,386,ог,CyrillTrans,battle-ax,,,og,Phonemic
+20-240-42-1,hinu1240,Hinuq,994,цІеруцІа,CyrillTrans,bow,,,cʼerucʼa,Phonemic
+20-250-42-1,hinu1240,Hinuq,977,цІеру,CyrillTrans,arrow,,,cʼeru,Phonemic
+20-260-42-1,hinu1240,Hinuq,945,хеч,CyrillTrans,spear,,,xeč,Phonemic
+20-270-42-1,hinu1240,Hinuq,1535,белъай,CyrillTrans,sword,,,beɬay,Phonemic
+20-280-42-1,hinu1240,Hinuq,1566,гІарада,CyrillTrans,"gun, cannon",,,"ʕarada, tum, tupi",Phonemic
+20-280-42-3,hinu1240,Hinuq,1566,тум,CyrillTrans,"gun, cannon",,,"ʕarada, tum, tupi",Phonemic
+20-280-42-5,hinu1240,Hinuq,1566,тупи,CyrillTrans,"gun, cannon",,,"ʕarada, tum, tupi",Phonemic
+20-310-42-1,hinu1240,Hinuq,1061,йарагъ-матахІ,CyrillTrans,armor (defensive),,,yaraɣ-mataħ,Phonemic
+20-330-42-1,hinu1240,Hinuq,1680,такъийа,CyrillTrans,helmet,,,taqʼiya,Phonemic
+20-340-42-1,hinu1240,Hinuq,1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-42-1,hinu1240,Hinuq,1938,хъала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-42-1,hinu1240,Hinuq,1671,минара,CyrillTrans,tower,,,"tʼemra, tʼemura, minara",Phonemic
+20-360-42-3,hinu1240,Hinuq,1671,тІемра,CyrillTrans,tower,,,"tʼemra, tʼemura, minara",Phonemic
+20-360-42-5,hinu1240,Hinuq,1671,тІемура,CyrillTrans,tower,,,"tʼemra, tʼemura, minara",Phonemic
+20-410-42-1,hinu1240,Hinuq,783,бергьенлъи,CyrillTrans,victory,,,"berhenɬi, ʕežišɬi",Phonemic
+20-410-42-3,hinu1240,Hinuq,783,гІежишлъи,CyrillTrans,victory,,,"berhenɬi, ʕežišɬi",Phonemic
+20-420-42-1,hinu1240,Hinuq,782,эгвеслъи,CyrillTrans,defeat,,,egʷesɬi,Phonemic
+20-430-42-1,hinu1240,Hinuq,722,кверер бикьа,CyrillTrans,attack,,,"kʷerer biƛ̄ʼa, hužum buwa",Phonemic
+20-430-42-3,hinu1240,Hinuq,722,гьужум бува,CyrillTrans,attack,,,"kʷerer biƛ̄ʼa, hužum buwa",Phonemic
+20-440-42-1,hinu1240,Hinuq,1330,дандичІези ихъа,CyrillTrans,defend,,,"dandičʼezi iqa, dandi buta, ƛ̄ʼoqʼar buta",Phonemic
+20-440-42-3,hinu1240,Hinuq,1330,данди бута,CyrillTrans,defend,,,"dandičʼezi iqa, dandi buta, ƛ̄ʼoqʼar buta",Phonemic
+20-440-42-5,hinu1240,Hinuq,1330,кьокъар бута,CyrillTrans,defend,,,"dandičʼezi iqa, dandi buta, ƛ̄ʼoqʼar buta",Phonemic
+20-450-42-1,hinu1240,Hinuq,421,гьезор боха,CyrillTrans,retreat,,,hezor boxa,Phonemic
+20-460-42-1,hinu1240,Hinuq,1696,квар бикьа,CyrillTrans,surrender,,,kʷar biƛ̄ʼa,Phonemic
+20-470-42-1,hinu1240,Hinuq,1072,аширно ижиш рекІве,CyrillTrans,"captive, prisoner",,,"aširno ižiš rekʼʷe, asir, tusnaqrekʼʷe",Phonemic
+20-470-42-3,hinu1240,Hinuq,1072,асир,CyrillTrans,"captive, prisoner",,,"aširno ižiš rekʼʷe, asir, tusnaqrekʼʷe",Phonemic
+20-470-42-5,hinu1240,Hinuq,1072,туснахърекІве,CyrillTrans,"captive, prisoner",,,"aširno ižiš rekʼʷe, asir, tusnaqrekʼʷe",Phonemic
+20-471-42-1,hinu1240,Hinuq,1940,ахран,CyrillTrans,"guard, sentinel",,,"axran, qʼarawul",Phonemic
+20-471-42-3,hinu1240,Hinuq,1940,къаравул,CyrillTrans,"guard, sentinel",,,"axran, qʼarawul",Phonemic
+20-480-42-1,hinu1240,Hinuq,1022,рикІекІиш буголъи,CyrillTrans,"booty, spoils",,,"rikʼekʼiš bugoɬi, dawla",Phonemic
+20-480-42-3,hinu1240,Hinuq,1022,давла,CyrillTrans,"booty, spoils",,,"rikʼekʼiš bugoɬi, dawla",Phonemic
+20-490-42-1,hinu1240,Hinuq,65,гъоркьчІел бува,CyrillTrans,ambush,,,ɣorƛ̄ʼčʼel buwa,Phonemic
+20-510-42-1,hinu1240,Hinuq,1858,бесуро баширкьос рекІве,CyrillTrans,fisherman,,,besuro baširƛ̄ʼos rekʼʷe,Phonemic
+20-520-42-1,hinu1240,Hinuq,1074,молъу,CyrillTrans,fishhook,,,moɬu,Phonemic
+20-530-42-1,hinu1240,Hinuq,19,лескІа,CyrillTrans,fishing line,,,leskʼa,Phonemic
+20-540-42-1,hinu1240,Hinuq,388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-42-1,hinu1240,Hinuq,389,къор,CyrillTrans,fish trap,,,q’or,Phonemic
+20-610-42-1,hinu1240,Hinuq,1435,чан бува,CyrillTrans,hunt,,,"čan buwa, čanaqʼanɬi ruwa",Phonemic
+20-610-42-3,hinu1240,Hinuq,1435,чанахъанлъи рува,CyrillTrans,hunt,,,"čan buwa, čanaqʼanɬi ruwa",Phonemic
+20-620-42-1,hinu1240,Hinuq,1172,тупи кура,CyrillTrans,shoot,,,tupi kura,Phonemic
+20-630-42-1,hinu1240,Hinuq,161,тІатІалІа,CyrillTrans,miss (target),,,"tʼatʼaƛa, caƛa",Phonemic
+20-630-42-3,hinu1240,Hinuq,161,цалІа,CyrillTrans,miss (target),,,"tʼatʼaƛa, caƛa",Phonemic
+20-640-42-1,hinu1240,Hinuq,1075,къор,CyrillTrans,trap (noun),,,qʼor,Phonemic
+20-650-42-1,hinu1240,Hinuq,1170,рашира,CyrillTrans,trap (vb),,,rašira,Phonemic
+21-110-42-1,hinu1240,Hinuq,1062,закон,CyrillTrans,law,,,"zakon, qʼanun",Phonemic
+21-110-42-3,hinu1240,Hinuq,1062,къанун,CyrillTrans,law,,,"zakon, qʼanun",Phonemic
+21-150-42-1,hinu1240,Hinuq,1068,суд,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-150-42-3,hinu1240,Hinuq,1068,диван,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-160-42-1,hinu1240,Hinuq,1818,суд бува,CyrillTrans,judge (vb),,,sud buwa,Phonemic
+21-170-42-1,hinu1240,Hinuq,1067,судес хІукму,CyrillTrans,judgment,,,sudes ħukmu,Phonemic
+21-180-42-1,hinu1240,Hinuq,861,судийа,CyrillTrans,judge (noun),,,sudiya,Phonemic
+21-210-42-1,hinu1240,Hinuq,2020,эсеркьос рекІве,CyrillTrans,plaintiff,,,eserƛ̄ʼos rekʼʷe,Phonemic
+21-220-42-1,hinu1240,Hinuq,1034,эсергьоголъа рекІве,CyrillTrans,defendant,,,eserhogoɬa rekʼʷe,Phonemic
+21-230-42-1,hinu1240,Hinuq,1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-42-1,hinu1240,Hinuq,1939,гьедизи ихъа,CyrillTrans,swear,,,"hedizi iqa, hedi buwa",Phonemic
+21-240-42-3,hinu1240,Hinuq,1939,гьеди бува,CyrillTrans,swear,,,"hedizi iqa, hedi buwa",Phonemic
+21-250-42-1,hinu1240,Hinuq,1712,гьеди,CyrillTrans,oath,,,"hedi, ħo",Phonemic
+21-250-42-3,hinu1240,Hinuq,1712,гьо,CyrillTrans,oath,,,"hedi, ħo",Phonemic
+21-310-42-1,hinu1240,Hinuq,1814,гІайиб бува,CyrillTrans,accuse,,,"ʕayib buwa, ʕayib gora",Phonemic
+21-310-42-3,hinu1240,Hinuq,1814,гІайиб гора,CyrillTrans,accuse,,,"ʕayib buwa, ʕayib gora",Phonemic
+21-320-42-1,hinu1240,Hinuq,484,гІайиб толІа,CyrillTrans,condemn,,,"ʕayib toƛa, kakzi buwa, ƛ̄ʼere baƛ̄ʼa",Phonemic
+21-320-42-3,hinu1240,Hinuq,484,какзи бува,CyrillTrans,condemn,,,"ʕayib toƛa, kakzi buwa, ƛ̄ʼere baƛ̄ʼa",Phonemic
+21-320-42-5,hinu1240,Hinuq,484,кьере бакьа,CyrillTrans,condemn,,,"ʕayib toƛa, kakzi buwa, ƛ̄ʼere baƛ̄ʼa",Phonemic
+21-330-42-1,hinu1240,Hinuq,983,гІайиб гІунтІизи бува,CyrillTrans,convict (vb),,,"ʕayib ʕuntʼizi buwa, ʕayib gora",Phonemic
+21-330-42-3,hinu1240,Hinuq,983,гІайиб гора,CyrillTrans,convict (vb),,,"ʕayib ʕuntʼizi buwa, ʕayib gora",Phonemic
+21-340-42-1,hinu1240,Hinuq,988,битІарав ува,CyrillTrans,acquit,,,bitʼaraw uwa,Phonemic
+21-350-42-1,hinu1240,Hinuq,1682,гІайибав,CyrillTrans,guilty,,,"ʕayibaw, meqʼqʼaw",Phonemic
+21-350-42-3,hinu1240,Hinuq,1682,мекъкъав,CyrillTrans,guilty,,,"ʕayibaw, meqʼqʼaw",Phonemic
+21-360-42-1,hinu1240,Hinuq,90,гІайиб госме,CyrillTrans,innocent,,,ʕayib gosme,Phonemic
+21-370-42-1,hinu1240,Hinuq,390,азаб,CyrillTrans,"penalty, punishment",,,"azab, aqʼuba, tamiħ",Phonemic
+21-370-42-3,hinu1240,Hinuq,390,акъуба,CyrillTrans,"penalty, punishment",,,"azab, aqʼuba, tamiħ",Phonemic
+21-370-42-5,hinu1240,Hinuq,390,тамихІ,CyrillTrans,"penalty, punishment",,,"azab, aqʼuba, tamiħ",Phonemic
+21-380-42-1,hinu1240,Hinuq,218,гІакІа,CyrillTrans,fine,,,ʕakʼa,Phonemic
+21-390-42-1,hinu1240,Hinuq,1281,туснахъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-42-1,hinu1240,Hinuq,845,угьеришлъи,CyrillTrans,murder,,,"uherišlʲi, čʼʷay-qʼʷay",Phonemic
+21-420-42-3,hinu1240,Hinuq,845,чІвай-хъвай,CyrillTrans,murder,,,"uherišlʲi, čʼʷay-qʼʷay",Phonemic
+21-430-42-1,hinu1240,Hinuq,902,хъахІбалъи,CyrillTrans,adultery,,,"qaħbaɬi, zina būsɬi",Phonemic
+21-430-42-3,hinu1240,Hinuq,902,зина бӯслъи,CyrillTrans,adultery,,,"qaħbaɬi, zina būsɬi",Phonemic
+21-440-42-1,hinu1240,Hinuq,953,зулму бӯслъи,CyrillTrans,rape,,,"zulmu būsɬi, inžitti būsɬi",Phonemic
+21-440-42-3,hinu1240,Hinuq,953,инжитлъи бӯслъи,CyrillTrans,rape,,,"zulmu būsɬi, inžitti būsɬi",Phonemic
+21-460-42-1,hinu1240,Hinuq,1889,чІе горлъи,CyrillTrans,arson,,,čʼe gorɬi,Phonemic
+21-470-42-1,hinu1240,Hinuq,1792,гьереси эсеслъи,CyrillTrans,perjury,,,heresi esesɬi,Phonemic
+21-510-42-1,hinu1240,Hinuq,713,цІогьодизи ихъа,CyrillTrans,steal,,,"cʼohodizi iqa, ƛ̄ʼaƛ̄a ruwa, ƛeša",Phonemic
+21-510-42-3,hinu1240,Hinuq,713,кьакьа рува,CyrillTrans,steal,,,"cʼohodizi iqa, ƛ̄ʼaƛ̄a ruwa, ƛeša",Phonemic
+21-510-42-5,hinu1240,Hinuq,713,лІеша,CyrillTrans,steal,,,"cʼohodizi iqa, ƛ̄ʼaƛ̄a ruwa, ƛeša",Phonemic
+21-520-42-1,hinu1240,Hinuq,1160,цІогьор,CyrillTrans,thief,,,"cʼohor, ikʼekʼnakʼu, ƛ̄aƛ̄ʼaqu",Phonemic
+21-520-42-3,hinu1240,Hinuq,1160,икІекІнакІу,CyrillTrans,thief,,,"cʼohor, ikʼekʼnakʼu, ƛ̄aƛ̄ʼaqu",Phonemic
+21-520-42-5,hinu1240,Hinuq,1160,кьакьахъу,CyrillTrans,thief,,,"cʼohor, ikʼekʼnakʼu, ƛ̄aƛ̄ʼaqu",Phonemic
+22-110-42-1,hinu1240,Hinuq,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-42-1,hinu1240,Hinuq,1944,Аллагь,CyrillTrans,God,,,Аllah,Phonemic
+22-130-42-1,hinu1240,Hinuq,911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-42-1,hinu1240,Hinuq,853,михІбар,CyrillTrans,altar,,,miħbar,Phonemic
+22-150-42-1,hinu1240,Hinuq,1103,къурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-42-1,hinu1240,Hinuq,257,бужа,CyrillTrans,worship,,,"buža, buži-bukʼa",Phonemic
+22-160-42-3,hinu1240,Hinuq,257,бужи-бикІа,CyrillTrans,worship,,,"buža, buži-bukʼa",Phonemic
+22-170-42-1,hinu1240,Hinuq,24,как рува,CyrillTrans,pray,,,kak ruwa,Phonemic
+22-180-42-1,hinu1240,Hinuq,852,гъурдели,CyrillTrans,priest,,,ɣurdeli,Phonemic
+22-190-42-1,hinu1240,Hinuq,1702,иллагьийаб,CyrillTrans,"holy, sacred",,,ilahiyab,Phonemic
+22-220-42-1,hinu1240,Hinuq,304,вагІза бува,CyrillTrans,preach,,,waʕza buwa,Phonemic
+22-230-42-1,hinu1240,Hinuq,391,изну толІа,CyrillTrans,bless,,,"iznu toƛa, raziɬi toƛa",Phonemic
+22-230-42-3,hinu1240,Hinuq,391,разилъи толІа,CyrillTrans,bless,,,"iznu toƛa, raziɬi toƛa",Phonemic
+22-240-42-1,hinu1240,Hinuq,8,нагІана толІа,CyrillTrans,curse,,,"naʕana toƛa, naʕana buwa",Phonemic
+22-240-42-3,hinu1240,Hinuq,8,нагІана бува,CyrillTrans,curse,,,"naʕana toƛa, naʕana buwa",Phonemic
+22-260-42-1,hinu1240,Hinuq,303,кІал йуха,CyrillTrans,fast (vb),,,kʼal yuxa,Phonemic
+22-310-42-1,hinu1240,Hinuq,1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-42-1,hinu1240,Hinuq,878,журжахІ,CyrillTrans,hell,,,žuržaħ,Phonemic
+22-350-42-1,hinu1240,Hinuq,1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-350-42-3,hinu1240,Hinuq,1973,шайтІан,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-370-42-1,hinu1240,Hinuq,1945,хъанчи,CyrillTrans,idol,,,qanči,Phonemic
+22-420-42-1,hinu1240,Hinuq,392,макрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,makruɬi,Phonemic
+22-430-42-1,hinu1240,Hinuq,2137,хъартай,CyrillTrans,"sorcerer, witch",,,qartay,Phonemic
+22-440-42-1,hinu1240,Hinuq,2138,хІурулгІин,CyrillTrans,"fairy, elf",,,ħurulʕin,Phonemic
+22-450-42-1,hinu1240,Hinuq,1175,эмаду,CyrillTrans,"ghost, phantom",,,emadu,Phonemic
+22-470-42-1,hinu1240,Hinuq,107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic

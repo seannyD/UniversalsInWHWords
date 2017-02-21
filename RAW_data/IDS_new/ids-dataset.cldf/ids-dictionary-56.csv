@@ -1,0 +1,1504 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-56-1,lakk1252,Lak,1852,чІявуну,CyrillTrans,often,,,čʼaˁwunu,Phonemic
+14-310-56-1,lakk1252,Lak,1676,даиман,CyrillTrans,always,,,"daiman, mudan",Phonemic
+14-310-56-3,lakk1252,Lak,1676,мудан,CyrillTrans,always,,,"daiman, mudan",Phonemic
+14-290-56-1,lakk1252,Lak,790,хІадурсса,CyrillTrans,ready,,,ħadurs̄a,Phonemic
+14-280-56-1,lakk1252,Lak,1928,бацІан бан,CyrillTrans,"cease, stop",,,"bacʼan ban, qʼabitan",Phonemic
+14-280-56-3,lakk1252,Lak,1928,кьабитан,CyrillTrans,"cease, stop",,,"bacʼan ban, qʼabitan",Phonemic
+14-270-56-1,lakk1252,Lak,1766,къуртал дан,CyrillTrans,finish,,,Gurtal dan,Phonemic
+14-260-56-1,lakk1252,Lak,743,къуртал дан,CyrillTrans,end (temporal),,,Gurtal dan,Phonemic
+14-252-56-1,lakk1252,Lak,1186,дуллан,CyrillTrans,"last, endure",,,"dullan, bikʼan",Phonemic
+14-252-56-3,lakk1252,Lak,1186,бикІан,CyrillTrans,"last, endure",,,"dullan, bikʼan",Phonemic
+14-250-56-1,lakk1252,Lak,1806,дайдишин,CyrillTrans,"begin, beginning",,,"daydišin, daydix̌u",Phonemic
+14-250-56-3,lakk1252,Lak,1806,дайдихьу,CyrillTrans,"begin, beginning",,,"daydišin, daydix̌u",Phonemic
+14-240-56-1,lakk1252,Lak,425,хІурхІа бан,CyrillTrans,"retard, delay",,,"ħurħa ban, maqnin rutan",Phonemic
+14-240-56-3,lakk1252,Lak,425,махънин рутан,CyrillTrans,"retard, delay",,,"ħurħa ban, maqnin rutan",Phonemic
+14-230-56-1,lakk1252,Lak,754,анавар уккан,CyrillTrans,"hasten, hurry",,,"anawar uk̄an, anawarnu ikʼan",Phonemic
+14-230-56-3,lakk1252,Lak,754,анаварну икІан,CyrillTrans,"hasten, hurry",,,"anawar uk̄an, anawarnu ikʼan",Phonemic
+14-220-56-1,lakk1252,Lak,701,хІурхІасса,CyrillTrans,slow,,,ħurħas̄a,Phonemic
+14-210-56-1,lakk1252,Lak,1631,анаварсса,CyrillTrans,"swift, fast, quick",,,anawars̄a,Phonemic
+14-190-56-1,lakk1252,Lak,1963,мугьлат бакъа,CyrillTrans,immediately,,,muhlat baGa,Phonemic
+14-180-56-1,lakk1252,Lak,1376,цІана,CyrillTrans,now,,,cʼana,Phonemic
+14-170-56-1,lakk1252,Lak,477,чІалну,CyrillTrans,late,,,čʼalnu,Phonemic
+14-160-56-1,lakk1252,Lak,672,ччяни,CyrillTrans,early,,,č̄aˁni,Phonemic
+14-150-56-1,lakk1252,Lak,1229,(д)ухсса,CyrillTrans,old,,,(d)uxs̄a,Phonemic
+14-140-56-1,lakk1252,Lak,1207,жагьилсса,CyrillTrans,young,,,žahils̄a,Phonemic
+14-120-56-1,lakk1252,Lak,1789,замана,CyrillTrans,age,,,"zamana, oˁrmu, aˁsir, dawran",Phonemic
+14-120-56-3,lakk1252,Lak,1789,оьрму,CyrillTrans,age,,,"zamana, oˁrmu, aˁsir, dawran",Phonemic
+14-120-56-5,lakk1252,Lak,1789,аьсир,CyrillTrans,age,,,"zamana, oˁrmu, aˁsir, dawran",Phonemic
+14-120-56-7,lakk1252,Lak,1789,давран,CyrillTrans,age,,,"zamana, oˁrmu, aˁsir, dawran",Phonemic
+14-130-56-1,lakk1252,Lak,1231,цІусса,CyrillTrans,new,,,cʼus̄a,Phonemic
+14-110-56-1,lakk1252,Lak,892,чІун,CyrillTrans,time,,,"čʼun, zamana",Phonemic
+14-110-56-3,lakk1252,Lak,892,замана,CyrillTrans,time,,,"čʼun, zamana",Phonemic
+13-440-56-1,lakk1252,Lak,417,шамилла,CyrillTrans,three times,,,šamilla,Phonemic
+13-420-56-1,lakk1252,Lak,1859,шамулчинмур,CyrillTrans,third,,,šamulčinmur,Phonemic
+13-380-56-1,lakk1252,Lak,1546,кІийла,CyrillTrans,two times,,,kʼiyla,Phonemic
+13-370-56-1,lakk1252,Lak,1888,чут,CyrillTrans,pair,,,"čut, caray",Phonemic
+13-370-56-3,lakk1252,Lak,1888,царай,CyrillTrans,pair,,,"čut, caray",Phonemic
+13-360-56-1,lakk1252,Lak,1384,кІилчинмур,CyrillTrans,second,,,kʼilčinmur,Phonemic
+13-350-56-1,lakk1252,Lak,1529,махъсса,CyrillTrans,last,,,maqs̄a,Phonemic
+13-340-56-1,lakk1252,Lak,728,цалчинсса,CyrillTrans,first,,,"calčins̄a, calčinmur",Phonemic
+13-340-56-3,lakk1252,Lak,728,цалчинмур,CyrillTrans,first,,,"calčins̄a, calčinmur",Phonemic
+13-330-56-1,lakk1252,Lak,1580,цурдалусса,CyrillTrans,"alone, only",,,"curdalus̄a, ca aGa aGas̄a",Phonemic
+13-330-56-3,lakk1252,Lak,1580,ца акъа акъасса,CyrillTrans,"alone, only",,,"curdalus̄a, ca aGa aGas̄a",Phonemic
+13-240-56-1,lakk1252,Lak,816,бачІи,CyrillTrans,half,,,bačʼi,Phonemic
+13-230-56-1,lakk1252,Lak,779,бутІа,CyrillTrans,"part, piece",,,"butʼa, kasak",Phonemic
+13-230-56-3,lakk1252,Lak,779,касак,CyrillTrans,"part, piece",,,"butʼa, kasak",Phonemic
+13-220-56-1,lakk1252,Lak,1624,бачІвасса,CyrillTrans,empty,,,bačʼʷas̄a,Phonemic
+13-210-56-1,lakk1252,Lak,1429,дурцІусса,CyrillTrans,full,,,"durcʼus̄a, š̄allus̄a",Phonemic
+13-210-56-3,lakk1252,Lak,1429,щаллусса,CyrillTrans,full,,,"durcʼus̄a, š̄allus̄a",Phonemic
+13-190-56-1,lakk1252,Lak,2023,чІявусса,CyrillTrans,"multitude, crowd",,,"čʼaˁwus̄a, harzas̄a",Phonemic
+13-190-56-3,lakk1252,Lak,2023,гьарзасса,CyrillTrans,"multitude, crowd",,,"čʼaˁwus̄a, harzas̄a",Phonemic
+13-181-56-1,lakk1252,Lak,1241,цаппара,CyrillTrans,some,,,cap̄ara,Phonemic
+13-170-56-1,lakk1252,Lak,1242,чанну,CyrillTrans,"little (quantity), few",,,čannu,Phonemic
+13-180-56-1,lakk1252,Lak,1881,гьар,CyrillTrans,enough,,,"har, biyalnu",Phonemic
+13-180-56-3,lakk1252,Lak,1881,бийалну,CyrillTrans,enough,,,"har, biyalnu",Phonemic
+13-160-56-1,lakk1252,Lak,1992,ххишала,CyrillTrans,more,,,x̄išala,Phonemic
+13-150-56-1,lakk1252,Lak,1198,чІявусса,CyrillTrans,"much, many",,,čʼaˁwus̄a,Phonemic
+13-140-56-1,lakk1252,Lak,98,щала,CyrillTrans,"every, all",,,š̄ala,Phonemic
+13-107-56-1,lakk1252,Lak,1420,дуккин,CyrillTrans,count,,,duk̄in,Phonemic
+13-106-56-1,lakk1252,Lak,1843,азарва,CyrillTrans,thousand,,,azarwa,Phonemic
+13-105-56-1,lakk1252,Lak,1634,ттуршва,CyrillTrans,hundred,,,t̄uršʷa,Phonemic
+13-104-56-1,lakk1252,Lak,1710,кьува,CyrillTrans,twenty,,,qʼuwa,Phonemic
+13-103-56-1,lakk1252,Lak,1709,ацІнийа ххюва,CyrillTrans,fifteen,,,acʼniya x̄oˁwa,Phonemic
+13-102-56-1,lakk1252,Lak,1707,ацІнийа кІива,CyrillTrans,twelve,,,acʼniya kʼiwa,Phonemic
+13-101-56-1,lakk1252,Lak,1706,ацІнийа цава,CyrillTrans,eleven,,,acʼniya cawa,Phonemic
+13-100-56-1,lakk1252,Lak,1515,ацІва,CyrillTrans,ten,,,acʼʷa,Phonemic
+13-90-56-1,lakk1252,Lak,1483,урчІва,CyrillTrans,nine,,,určʼʷa,Phonemic
+13-80-56-1,lakk1252,Lak,1705,мяйва,CyrillTrans,eight,,,maˁywa,Phonemic
+13-70-56-1,lakk1252,Lak,1704,арулва,CyrillTrans,seven,,,arulwa,Phonemic
+13-60-56-1,lakk1252,Lak,1703,ряхва,CyrillTrans,six,,,raˁxʷa,Phonemic
+13-50-56-1,lakk1252,Lak,493,ххюва,CyrillTrans,five,,,x̄oˁwa,Phonemic
+13-40-56-1,lakk1252,Lak,1500,мукьва,CyrillTrans,four,,,muqʼwa,Phonemic
+13-20-56-1,lakk1252,Lak,1498,кІива,CyrillTrans,two,,,kʼiwa,Phonemic
+13-30-56-1,lakk1252,Lak,492,шанма,CyrillTrans,three,,,šanma,Phonemic
+13-10-56-1,lakk1252,Lak,1493,цава,CyrillTrans,one,,,"cawa, ca",Phonemic
+13-10-56-3,lakk1252,Lak,1493,ца,CyrillTrans,one,,,"cawa, ca",Phonemic
+13-0-56-1,lakk1252,Lak,1294,ноль,CyrillTrans,"zero, nothing",,,"nolʲ, nulʲ",Phonemic
+13-0-56-3,lakk1252,Lak,1294,нуль,CyrillTrans,"zero, nothing",,,"nolʲ, nulʲ",Phonemic
+12-930-56-1,lakk1252,Lak,1264,баххана буллан,CyrillTrans,change,,,bax̄ana bullan,Phonemic
+12-920-56-1,lakk1252,Lak,1558,лавхьхьусса,CyrillTrans,"like, similar",,,lawx̌̄us̄a,Phonemic
+12-840-56-1,lakk1252,Lak,1048,аьш,CyrillTrans,line,,,"aˁš, x̄a",Phonemic
+12-840-56-3,lakk1252,Lak,1048,хха,CyrillTrans,line,,,"aˁš, x̄a",Phonemic
+12-850-56-1,lakk1252,Lak,1667,ккутІ,CyrillTrans,hole,,,"k̄utʼ, waˁrčʼu",Phonemic
+12-850-56-3,lakk1252,Lak,1667,вярчІу,CyrillTrans,hole,,,"k̄utʼ, waˁrčʼu",Phonemic
+12-830-56-1,lakk1252,Lak,1845,ттуп,CyrillTrans,"sphere, ball",,,"t̄up, k̄uza",Phonemic
+12-830-56-3,lakk1252,Lak,1845,ккуза,CyrillTrans,"sphere, ball",,,"t̄up, k̄uza",Phonemic
+12-810-56-1,lakk1252,Lak,1395,ккурккисса,CyrillTrans,round,,,k̄urk̄is̄a,Phonemic
+12-820-56-1,lakk1252,Lak,1467,лагмахха,CyrillTrans,circle,,,lagmax̄a,Phonemic
+12-780-56-1,lakk1252,Lak,850,квадрат,CyrillTrans,square,,,kwadrat,Phonemic
+12-770-56-1,lakk1252,Lak,1367,ххач,CyrillTrans,cross,,,"x̄ač, Ganč",Phonemic
+12-770-56-3,lakk1252,Lak,1367,къанч,CyrillTrans,cross,,,"x̄ač, Ganč",Phonemic
+12-760-56-1,lakk1252,Lak,192,мурцІу,CyrillTrans,corner,,,murcʼu,Phonemic
+12-750-56-1,lakk1252,Lak,1071,къича,CyrillTrans,hook,,,Giča,Phonemic
+12-740-56-1,lakk1252,Lak,297,дарккусса,CyrillTrans,crooked,,,dark̄us̄a,Phonemic
+12-730-56-1,lakk1252,Lak,1404,тІайласса,CyrillTrans,straight,,,tʼaylas̄a,Phonemic
+12-710-56-1,lakk1252,Lak,1633,кьасса,CyrillTrans,flat,,,qʼas̄a,Phonemic
+12-680-56-1,lakk1252,Lak,193,ххялтІасса,CyrillTrans,shallow,,,"x̄aˁltʼas̄a, moˁršs̄a",Phonemic
+12-680-56-3,lakk1252,Lak,193,мюршсса,CyrillTrans,shallow,,,"x̄aˁltʼas̄a, moˁršs̄a",Phonemic
+12-670-56-1,lakk1252,Lak,1593,куртІсса,CyrillTrans,deep,,,kurtʼs̄a,Phonemic
+12-650-56-1,lakk1252,Lak,2249,кІюласса,CyrillTrans,thin (in dimension),,,kʼoˁlas̄a,Phonemic
+12-630-56-1,lakk1252,Lak,1244,ганзсса,CyrillTrans,thick (in dimension),,,ganzs̄a,Phonemic
+12-620-56-1,lakk1252,Lak,1267,лиссусса,CyrillTrans,narrow,,,lis̄us̄a,Phonemic
+12-610-56-1,lakk1252,Lak,1243,уттасса,CyrillTrans,"wide, broad",,,ut̄as̄a,Phonemic
+12-590-56-1,lakk1252,Lak,1645,кутІасса,CyrillTrans,short,,,kutʼas̄a,Phonemic
+12-580-56-1,lakk1252,Lak,711,лахъсса,CyrillTrans,tall,,,laqs̄a,Phonemic
+12-570-56-1,lakk1252,Lak,1203,лахъисса,CyrillTrans,long,,,laqis̄a,Phonemic
+12-560-56-1,lakk1252,Lak,1246,чІивисса,CyrillTrans,"small, little",,,čʼiwis̄a,Phonemic
+12-550-56-1,lakk1252,Lak,1202,хъунмасса,CyrillTrans,"large, big",,,qunmas̄a,Phonemic
+12-541-56-1,lakk1252,Lak,81,чарак,CyrillTrans,"span, fathom",,,čarak,Phonemic
+12-540-56-1,lakk1252,Lak,1506,дуцин дан,CyrillTrans,measure,,,ducin dan,Phonemic
+12-530-56-1,lakk1252,Lak,479,хъуна хъанан,CyrillTrans,grow,,,quna qanan,Phonemic
+12-480-56-1,lakk1252,Lak,1595,кьилва,CyrillTrans,south,,,qʼilwa,Phonemic
+12-470-56-1,lakk1252,Lak,1598,ухссав,CyrillTrans,north,,,uxs̄aw,Phonemic
+12-460-56-1,lakk1252,Lak,1817,баргълагавалу,CyrillTrans,west,,,barɣlagawalu,Phonemic
+12-450-56-1,lakk1252,Lak,1877,баргъбуккавалу,CyrillTrans,east,,,barɣbuk̄awalu,Phonemic
+12-430-56-1,lakk1252,Lak,1942,чІарав,CyrillTrans,near (adv),,,čʼaraw,Phonemic
+12-440-56-1,lakk1252,Lak,1406,архну,CyrillTrans,far (adv),,,arxnu,Phonemic
+12-420-56-1,lakk1252,Lak,244,кияхсса (чул),CyrillTrans,left (side),,,kiyaxs̄a (čul),Phonemic
+12-410-56-1,lakk1252,Lak,1019,урчІахсса (чул),CyrillTrans,right (side),,,určʼaxs̄a (čul),Phonemic
+12-370-56-1,lakk1252,Lak,1093,дя,CyrillTrans,"middle, center",,,daˁ,Phonemic
+12-360-56-1,lakk1252,Lak,682,чул,CyrillTrans,side,,,čul,Phonemic
+12-353-56-1,lakk1252,Lak,863,зума,CyrillTrans,edge,,,zuma,Phonemic
+12-352-56-1,lakk1252,Lak,372,мицІ бусса,CyrillTrans,pointed,,,micʼ bus̄a,Phonemic
+12-350-56-1,lakk1252,Lak,742,ахир,CyrillTrans,end,,,"axir, daylitʼu",Phonemic
+12-350-56-3,lakk1252,Lak,742,дайлитІу,CyrillTrans,end,,,"axir, daylitʼu",Phonemic
+12-340-56-1,lakk1252,Lak,690,лувалу,CyrillTrans,bottom,,,"luwalu, luwčʼin",Phonemic
+12-340-56-3,lakk1252,Lak,690,лувчІин,CyrillTrans,bottom,,,"luwalu, luwčʼin",Phonemic
+12-320-56-1,lakk1252,Lak,721,лагьну,CyrillTrans,low,,,lahnu,Phonemic
+12-330-56-1,lakk1252,Lak,1753,бакІ,CyrillTrans,top,,,bakʼ,Phonemic
+12-310-56-1,lakk1252,Lak,1265,лахъну,CyrillTrans,high,,,laqnu,Phonemic
+12-270-56-1,lakk1252,Lak,602,лабитан,CyrillTrans,"hide, conceal",,,labitan,Phonemic
+12-250-56-1,lakk1252,Lak,1046,лакьин,CyrillTrans,"shut, close",,,laqʼin,Phonemic
+12-260-56-1,lakk1252,Lak,761,йалтту бакьин,CyrillTrans,cover,,,yalt̄u baqʼin,Phonemic
+12-240-56-1,lakk1252,Lak,1156,тІитІин,CyrillTrans,open,,,tʼitʼin,Phonemic
+12-232-56-1,lakk1252,Lak,1119,личІи бан,CyrillTrans,divide,,,ličʼi ban,Phonemic
+12-230-56-1,lakk1252,Lak,1359,личІи бан,CyrillTrans,separate,,,ličʼi ban,Phonemic
+12-220-56-1,lakk1252,Lak,1743,дазин,CyrillTrans,"join, unite",,,"dazin, duħan, daħin",Phonemic
+12-220-56-3,lakk1252,Lak,1743,духІан,CyrillTrans,"join, unite",,,"dazin, duħan, daħin",Phonemic
+12-220-56-5,lakk1252,Lak,1743,дахІин,CyrillTrans,"join, unite",,,"dazin, duħan, daħin",Phonemic
+12-213-56-1,lakk1252,Lak,1576,цачІун дан,CyrillTrans,pile up,,,"cačʼun dan, Gala ban",Phonemic
+12-213-56-3,lakk1252,Lak,1576,къала бан,CyrillTrans,pile up,,,"cačʼun dan, Gala ban",Phonemic
+12-212-56-1,lakk1252,Lak,371,датІин,CyrillTrans,pick up,,,"datʼin, haz dan",Phonemic
+12-212-56-3,lakk1252,Lak,371,гьаз дан,CyrillTrans,pick up,,,"datʼin, haz dan",Phonemic
+12-210-56-1,lakk1252,Lak,7,цачІун бан,CyrillTrans,"collect, gather",,,cačʼun ban,Phonemic
+12-170-56-1,lakk1252,Lak,838,лирчІмур,CyrillTrans,"remains, left overs",,,lirčʼmur,Phonemic
+12-160-56-1,lakk1252,Lak,987,личІан,CyrillTrans,"remain, stay",,,ličʼan,Phonemic
+12-150-56-1,lakk1252,Lak,1442,ацІан,CyrillTrans,stand,,,acʼan,Phonemic
+12-140-56-1,lakk1252,Lak,215,чулий агьан,CyrillTrans,lie down,,,čuliy ahan,Phonemic
+12-130-56-1,lakk1252,Lak,1416,щяивкІун икІан,CyrillTrans,sit,,,š̄aˁiwkʼun ikʼan,Phonemic
+12-120-56-1,lakk1252,Lak,998,бишин,CyrillTrans,put,,,bišin,Phonemic
+12-110-56-1,lakk1252,Lak,723,кІану,CyrillTrans,place,,,kʼanu,Phonemic
+12-80-56-1,lakk1252,Lak,1591,йалув,CyrillTrans,"up, above",,,"yaluw, yalt̄u",Phonemic
+12-80-56-3,lakk1252,Lak,1591,йалтту,CyrillTrans,"up, above",,,"yaluw, yalt̄u",Phonemic
+12-70-56-1,lakk1252,Lak,1485,лув,CyrillTrans,under,,,luw,Phonemic
+12-60-56-1,lakk1252,Lak,762,кьатІату,CyrillTrans,outside,,,"qʼatʼatu, yalatu",Phonemic
+12-60-56-3,lakk1252,Lak,762,йалату,CyrillTrans,outside,,,"qʼatʼatu, yalatu",Phonemic
+12-50-56-1,lakk1252,Lak,1606,вив,CyrillTrans,"inside, in",,,wiw,Phonemic
+12-41-56-1,lakk1252,Lak,1883,хьхьичІ,CyrillTrans,front,,,x̌̄ičʼ,Phonemic
+12-40-56-1,lakk1252,Lak,1882,хьхьичІ,CyrillTrans,before,,,x̌̄ičʼ,Phonemic
+12-30-56-1,lakk1252,Lak,2094,йалавай,CyrillTrans,"down, below",,,yalaway,Phonemic
+12-20-56-1,lakk1252,Lak,1816,чІарав,CyrillTrans,beside,,,čʼaraw,Phonemic
+12-11-56-1,lakk1252,Lak,1686,ма̄хъ,CyrillTrans,behind,,,māq,Phonemic
+12-10-56-1,lakk1252,Lak,1685,ма̄хъ,CyrillTrans,after,,,"māq, yala",Phonemic
+12-10-56-3,lakk1252,Lak,1685,йала,CyrillTrans,after,,,"māq, yala",Phonemic
+11-920-56-1,lakk1252,Lak,1098,дуцин,CyrillTrans,weigh,,,ducin,Phonemic
+11-910-56-1,lakk1252,Lak,884,личІи дан,CyrillTrans,share (distribute),,,ličʼi dan,Phonemic
+11-890-56-1,lakk1252,Lak,1887,кьювкьусса,CyrillTrans,cheap,,,qʼoˁwqʼus̄a,Phonemic
+11-880-56-1,lakk1252,Lak,1426,ххирасса,CyrillTrans,"dear (costly, expensive)",,,x̄iras̄a,Phonemic
+11-870-56-1,lakk1252,Lak,657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-56-1,lakk1252,Lak,752,ттучан,CyrillTrans,"store, shop",,,t̄učan,Phonemic
+11-850-56-1,lakk1252,Lak,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-56-1,lakk1252,Lak,1082,савдажар,CyrillTrans,merchant,,,"sawdažar, mašači",Phonemic
+11-840-56-3,lakk1252,Lak,1082,машачи,CyrillTrans,merchant,,,"sawdažar, mašači",Phonemic
+11-830-56-1,lakk1252,Lak,2135,маша,CyrillTrans,"trade, barter",,,"maša, dax̄ana dawu (dax̄u-lisu)",Phonemic
+11-830-56-3,lakk1252,Lak,2135,даххана даву (дахху-лису),CyrillTrans,"trade, barter",,,"maša, dax̄ana dawu (dax̄u-lisu)",Phonemic
+11-820-56-1,lakk1252,Lak,1571,баххан,CyrillTrans,sell,,,bax̄an,Phonemic
+11-810-56-1,lakk1252,Lak,1869,(машан) ласлан,CyrillTrans,buy,,,(mašan) laslan,Phonemic
+11-790-56-1,lakk1252,Lak,733,лякъин,CyrillTrans,earn,,,laˁGin,Phonemic
+11-780-56-1,lakk1252,Lak,1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-56-1,lakk1252,Lak,856,бугьан,CyrillTrans,hire,,,"buhan, čirilun buhan",Phonemic
+11-770-56-3,lakk1252,Lak,856,чирилун бугьан,CyrillTrans,hire,,,"buhan, čirilun buhan",Phonemic
+11-690-56-1,lakk1252,Lak,873,дишала,CyrillTrans,"tax, tribute",,,dišala,Phonemic
+11-660-56-1,lakk1252,Lak,1081,хІисав,CyrillTrans,"account, reckoning",,,ħisaw,Phonemic
+11-650-56-1,lakk1252,Lak,718,(арцу) дуллан,CyrillTrans,pay (vb),,,(arcu) dullan,Phonemic
+11-640-56-1,lakk1252,Lak,1914,бурж,CyrillTrans,debt,,,burž,Phonemic
+11-630-56-1,lakk1252,Lak,369,буржирай икІан,CyrillTrans,owe,,,buržiray ikʼan,Phonemic
+11-620-56-1,lakk1252,Lak,1823,буржирай ласун,CyrillTrans,borrow,,,buržiray lasun,Phonemic
+11-610-56-1,lakk1252,Lak,582,буржирай булун,CyrillTrans,lend,,,buržiray bulun,Phonemic
+11-540-56-1,lakk1252,Lak,1774,мяшсса,CyrillTrans,"avaricious, stingy",,,maˁšs̄a,Phonemic
+11-530-56-1,lakk1252,Lak,1934,шярайхукку,CyrillTrans,beggar,,,šaˁrayxuk̄u,Phonemic
+11-520-56-1,lakk1252,Lak,1674,мискинсса,CyrillTrans,poor,,,miskins̄a,Phonemic
+11-510-56-1,lakk1252,Lak,712,авадансса,CyrillTrans,rich,,,awadans̄a,Phonemic
+11-440-56-1,lakk1252,Lak,1867,къарапул,CyrillTrans,coin,,,Garapul,Phonemic
+11-430-56-1,lakk1252,Lak,1559,арцу,CyrillTrans,money,,,arcu,Phonemic
+11-340-56-1,lakk1252,Lak,1095,итабакьин,CyrillTrans,"release, let go",,,itabaqʼin,Phonemic
+11-330-56-1,lakk1252,Lak,1660,дакъа дан,CyrillTrans,lose,,,daGa dan,Phonemic
+11-320-56-1,lakk1252,Lak,719,лякъин,CyrillTrans,find,,,laˁGin,Phonemic
+11-310-56-1,lakk1252,Lak,1468,луглан,CyrillTrans,"seek, look for",,,luglan,Phonemic
+11-280-56-1,lakk1252,Lak,44,зарал бан,CyrillTrans,"harm, injure, damage",,,zaral ban,Phonemic
+11-270-56-1,lakk1252,Lak,681,лекьан дан,CyrillTrans,destroy,,,leˁqʼan dan,Phonemic
+11-250-56-1,lakk1252,Lak,2008,ххассал бан,CyrillTrans,"save, rescue",,,x̄as̄al ban,Phonemic
+11-240-56-1,lakk1252,Lak,1997,йадан,CyrillTrans,"preserve, look after",,,yadan,Phonemic
+11-220-56-1,lakk1252,Lak,85,зана дитан,CyrillTrans,give back,,,zana ditan,Phonemic
+11-210-56-1,lakk1252,Lak,1447,дулун,CyrillTrans,give,,,dulun,Phonemic
+11-180-56-1,lakk1252,Lak,738,зад,CyrillTrans,thing,,,"zad, iš",Phonemic
+11-180-56-3,lakk1252,Lak,738,иш,CyrillTrans,thing,,,"zad, iš",Phonemic
+11-170-56-1,lakk1252,Lak,1477,йадуллан,CyrillTrans,"keep, retain",,,yadullan,Phonemic
+11-160-56-1,lakk1252,Lak,694,ласун,CyrillTrans,"get, obtain",,,lasun,Phonemic
+11-150-56-1,lakk1252,Lak,1448,бугьлан,CyrillTrans,hold,,,buhlan,Phonemic
+11-140-56-1,lakk1252,Lak,2021,хъапа тІун,CyrillTrans,"seize, grasp",,,qapa tʼun,Phonemic
+11-130-56-1,lakk1252,Lak,1749,ласлан,CyrillTrans,take,,,laslan,Phonemic
+11-120-56-1,lakk1252,Lak,684,дуну икІан,CyrillTrans,"own, possess",,,dunu ikʼan,Phonemic
+11-110-56-1,lakk1252,Lak,773,буну бикІан,CyrillTrans,have,,,"bunu bikʼan, dunu dikʼan",Phonemic
+11-110-56-3,lakk1252,Lak,773,дуну дикІан,CyrillTrans,have,,,"bunu bikʼan, dunu dikʼan",Phonemic
+10-910-56-1,lakk1252,Lak,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-56-1,lakk1252,Lak,1870,йакорь,CyrillTrans,anchor,,,aˁkorʲ,Phonemic
+10-880-56-1,lakk1252,Lak,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-56-1,lakk1252,Lak,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-56-1,lakk1252,Lak,108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-852-56-1,lakk1252,Lak,1849,бяхлан,CyrillTrans,row (vb),,,baˁxlan,Phonemic
+10-851-56-1,lakk1252,Lak,234,чІатІа,CyrillTrans,paddle (noun),,,čʼatʼa,Phonemic
+10-850-56-1,lakk1252,Lak,108,чІатІа,CyrillTrans,oar,,,čʼatʼa,Phonemic
+10-840-56-1,lakk1252,Lak,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-56-1,lakk1252,Lak,416,къаяхъ,CyrillTrans,outrigger,,,Gayaq,Phonemic
+10-831-56-1,lakk1252,Lak,1970,къаяхъ,CyrillTrans,canoe,,,Gayaq,Phonemic
+10-830-56-1,lakk1252,Lak,1844,къаяхъ,CyrillTrans,boat,,,Gayaq,Phonemic
+10-810-56-1,lakk1252,Lak,740,жами,CyrillTrans,ship,,,žami,Phonemic
+10-780-56-1,lakk1252,Lak,14,рукІ,CyrillTrans,yoke,,,rukʼ,Phonemic
+10-770-56-1,lakk1252,Lak,1769,кучалагъач,CyrillTrans,axle,,,kučalaɣač,Phonemic
+10-760-56-1,lakk1252,Lak,710,йа,CyrillTrans,wheel,,,"ya, nih",Phonemic
+10-760-56-3,lakk1252,Lak,710,нигь,CyrillTrans,wheel,,,"ya, nih",Phonemic
+10-750-56-1,lakk1252,Lak,122,аьрава,CyrillTrans,"carriage, wagon, cart",,,aˁrawa,Phonemic
+10-740-56-1,lakk1252,Lak,1011,ламу,CyrillTrans,bridge,,,lamu,Phonemic
+10-720-56-1,lakk1252,Lak,2252,жегъил ххуллу,CyrillTrans,path,,,žeˁɣil x̄ullu,Phonemic
+10-710-56-1,lakk1252,Lak,667,ххуллу,CyrillTrans,road,,,x̄ullu,Phonemic
+10-670-56-1,lakk1252,Lak,1452,щилан,CyrillTrans,"push, shove",,,š̄ilan,Phonemic
+10-660-56-1,lakk1252,Lak,367,ххяххан буллан,CyrillTrans,ride,,,x̄aˁx̄an bullan,Phonemic
+10-650-56-1,lakk1252,Lak,741,машиналий нан,CyrillTrans,drive,,,mašinaliy nan,Phonemic
+10-640-56-1,lakk1252,Lak,43,буцин,CyrillTrans,lead (vb),,,bucin,Phonemic
+10-630-56-1,lakk1252,Lak,1127,гьан бан,CyrillTrans,send,,,"han ban, tʼayla buk̄an",Phonemic
+10-630-56-3,lakk1252,Lak,1127,тІайла буккан,CyrillTrans,send,,,"han ban, tʼayla buk̄an",Phonemic
+10-620-56-1,lakk1252,Lak,692,ларсун учІан,CyrillTrans,bring,,,larsun učʼan,Phonemic
+10-615-56-1,lakk1252,Lak,415,ларсун занан,CyrillTrans,carry-underarm,,,larsun zanan,Phonemic
+10-614-56-1,lakk1252,Lak,414,ларсун занан,CyrillTrans,carry-on-head,,,larsun zanan,Phonemic
+10-613-56-1,lakk1252,Lak,413,ларсун занан,CyrillTrans,carry-on-shoulder,,,larsun zanan,Phonemic
+10-612-56-1,lakk1252,Lak,412,ларсун ачин,CyrillTrans,carry-in-hand,,,larsun ačin,Phonemic
+10-610-56-1,lakk1252,Lak,700,ларсун занан,CyrillTrans,carry (bear),,,larsun zanan,Phonemic
+10-570-56-1,lakk1252,Lak,749,буххан,CyrillTrans,enter,,,bux̄an,Phonemic
+10-560-56-1,lakk1252,Lak,1778,гъан хьун,CyrillTrans,approach,,,ɣan x̌un,Phonemic
+10-550-56-1,lakk1252,Lak,1387,бучІан,CyrillTrans,"reach, arrive",,,"bučʼan, biyan",Phonemic
+10-550-56-3,lakk1252,Lak,1387,бийан,CyrillTrans,"reach, arrive",,,"bučʼan, biyan",Phonemic
+10-530-56-1,lakk1252,Lak,1047,хъирив багьлан,CyrillTrans,pursue,,,qiriw bahlan,Phonemic
+10-520-56-1,lakk1252,Lak,1085,хъирив бачин,CyrillTrans,follow,,,qiriw bačin,Phonemic
+10-510-56-1,lakk1252,Lak,956,лихъан,CyrillTrans,flee,,,"liqan, x̄as̄al x̌un",Phonemic
+10-510-56-3,lakk1252,Lak,956,ххассал хьун,CyrillTrans,flee,,,"liqan, x̄as̄al x̌un",Phonemic
+10-491-56-1,lakk1252,Lak,485,бат хьун,CyrillTrans,disappear,,,bat x̌un,Phonemic
+10-490-56-1,lakk1252,Lak,1752,гьан,CyrillTrans,"go away, depart",,,"han, uk̄an",Phonemic
+10-490-56-3,lakk1252,Lak,1752,уккан,CyrillTrans,"go away, depart",,,"han, uk̄an",Phonemic
+10-481-56-1,lakk1252,Lak,581,зана хьун,CyrillTrans,come back,,,zana x̌un,Phonemic
+10-480-56-1,lakk1252,Lak,1446,учІан,CyrillTrans,come,,,učʼan,Phonemic
+10-474-56-1,lakk1252,Lak,1107,уккан,CyrillTrans,go out,,,uk̄an,Phonemic
+10-473-56-1,lakk1252,Lak,2014,йалавай бучІан,CyrillTrans,go down,,,yalaway bučʼan,Phonemic
+10-472-56-1,lakk1252,Lak,1102,гьаз хьун,CyrillTrans,climb,,,"haz x̌un, laway x̌un",Phonemic
+10-472-56-3,lakk1252,Lak,1102,лавай хьун,CyrillTrans,climb,,,"haz x̌un, laway x̌un",Phonemic
+10-470-56-1,lakk1252,Lak,695,нан,CyrillTrans,go,,,nan,Phonemic
+10-471-56-1,lakk1252,Lak,705,лавай хьун,CyrillTrans,go up,,,laway x̌un,Phonemic
+10-460-56-1,lakk1252,Lak,1519,лечлан,CyrillTrans,run,,,leˁčlan,Phonemic
+10-451-56-1,lakk1252,Lak,366,аьрчча тІун,CyrillTrans,limp,,,aˁrč̄a tʼun,Phonemic
+10-450-56-1,lakk1252,Lak,1443,занан,CyrillTrans,walk,,,zanan,Phonemic
+10-440-56-1,lakk1252,Lak,1879,къавтІун,CyrillTrans,dance,,,Gawtʼun,Phonemic
+10-431-56-1,lakk1252,Lak,1135,щилан,CyrillTrans,kick,,,š̄ilan,Phonemic
+10-430-56-1,lakk1252,Lak,1829,тІанкІ чин,CyrillTrans,"jump, leap",,,tʼankʼ čin,Phonemic
+10-420-56-1,lakk1252,Lak,1324,ччех бигьин,CyrillTrans,"slide, slip",,,č̄eˁx bihin,Phonemic
+10-413-56-1,lakk1252,Lak,296,къис бикІан,CyrillTrans,crouch,,,Gis bikʼan,Phonemic
+10-412-56-1,lakk1252,Lak,66,никру рищун,CyrillTrans,kneel,,,nikru riš̄un,Phonemic
+10-410-56-1,lakk1252,Lak,96,ххярк учин,CyrillTrans,"creep, crawl",,,x̄aˁrk učin,Phonemic
+10-380-56-1,lakk1252,Lak,175,бишлан,CyrillTrans,blow,,,bišlan,Phonemic
+10-370-56-1,lakk1252,Lak,1441,лехлан,CyrillTrans,fly (vb),,,leʕxlan,Phonemic
+10-360-56-1,lakk1252,Lak,787,гьузун,CyrillTrans,sail (vb),,,huzun,Phonemic
+10-352-56-1,lakk1252,Lak,365,чавхь тІун,CyrillTrans,splash,,,čawx̌ tʼun,Phonemic
+10-351-56-1,lakk1252,Lak,119,лултту уккан,CyrillTrans,dive,,,lult̄u uk̄an,Phonemic
+10-350-56-1,lakk1252,Lak,1439,гьузун,CyrillTrans,swim,,,huzun,Phonemic
+10-340-56-1,lakk1252,Lak,1574,гьузун,CyrillTrans,float,,,"huzun, bihlan",Phonemic
+10-340-56-3,lakk1252,Lak,1574,бигьлан,CyrillTrans,float,,,"huzun, bihlan",Phonemic
+10-330-56-1,lakk1252,Lak,1088,оькьлан,CyrillTrans,sink,,,oˁqʼlan,Phonemic
+10-320-56-1,lakk1252,Lak,2003,экьинан,CyrillTrans,flow,,,eqʼinan,Phonemic
+10-260-56-1,lakk1252,Lak,1909,хъюлчу буллан,CyrillTrans,shake,,,qoˁlču bullan,Phonemic
+10-252-56-1,lakk1252,Lak,702,бугьлан (ттуп),CyrillTrans,catch (ball),,,buhlan (t̄up),Phonemic
+10-250-56-1,lakk1252,Lak,1456,бутан,CyrillTrans,throw,,,butan,Phonemic
+10-240-56-1,lakk1252,Lak,2253,кІунтІру бутІлан,CyrillTrans,drip,,,kʼuntʼru butʼlan,Phonemic
+10-230-56-1,lakk1252,Lak,1280,багьлан,CyrillTrans,fall,,,bahlan,Phonemic
+10-220-56-1,lakk1252,Lak,501,гьаз дан,CyrillTrans,"raise, lift",,,haz dan,Phonemic
+10-210-56-1,lakk1252,Lak,568,гьаз хьун,CyrillTrans,rise,,,haz x̌un,Phonemic
+10-170-56-1,lakk1252,Lak,430,кІура даен (дан),CyrillTrans,twist,,,kʼura dayen (dan),Phonemic
+10-160-56-1,lakk1252,Lak,808,кІунтІа тІун,CyrillTrans,drop (vb),,,kʼuntʼa tʼun,Phonemic
+10-150-56-1,lakk1252,Lak,827,гъанагъи буллан,CyrillTrans,roll,,,ɣanaɣi bullan,Phonemic
+10-140-56-1,lakk1252,Lak,1113,каен,CyrillTrans,"wind, wrap",,,kayen,Phonemic
+10-130-56-1,lakk1252,Lak,1445,тІитІи бакьин,CyrillTrans,turn around,,,tʼitʼi baqʼin,Phonemic
+10-120-56-1,lakk1252,Lak,1588,кІура баен,CyrillTrans,turn over,,,kʼura bayen,Phonemic
+10-110-56-1,lakk1252,Lak,765,сукку хьун,CyrillTrans,move,,,suk̄u x̌un,Phonemic
+9-890-56-1,lakk1252,Lak,2001,ранг щилан,CyrillTrans,paint (vb),,,rang š̄ilan,Phonemic
+9-840-56-1,lakk1252,Lak,1979,щина,CyrillTrans,chisel,,,"š̄ina, x̌̄ini",Phonemic
+9-840-56-3,lakk1252,Lak,1979,хьхьини,CyrillTrans,chisel,,,"š̄ina, x̌̄ini",Phonemic
+9-880-56-1,lakk1252,Lak,647,ранг,CyrillTrans,paint (noun),,,rang,Phonemic
+9-830-56-1,lakk1252,Lak,1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-56-1,lakk1252,Lak,914,скульптор,CyrillTrans,sculptor,,,skulʼptor,Phonemic
+9-810-56-1,lakk1252,Lak,228,кьукьлан,CyrillTrans,carve,,,qʼuqʼlan,Phonemic
+9-791-56-1,lakk1252,Lak,360,марч дан,CyrillTrans,fan (vb),,,marč dan,Phonemic
+9-790-56-1,lakk1252,Lak,1971,вентилятор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-56-1,lakk1252,Lak,293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-56-1,lakk1252,Lak,292,халича,CyrillTrans,rug,,,"xaliča, bartbisu, qa",Phonemic
+9-771-56-3,lakk1252,Lak,292,бартбису,CyrillTrans,rug,,,"xaliča, bartbisu, qa",Phonemic
+9-771-56-5,lakk1252,Lak,292,хъа,CyrillTrans,rug,,,"xaliča, bartbisu, qa",Phonemic
+9-770-56-1,lakk1252,Lak,195,хІасил,CyrillTrans,mat,,,ħasil,Phonemic
+9-760-56-1,lakk1252,Lak,1539,чІапа,CyrillTrans,basket,,,čʼapa,Phonemic
+9-750-56-1,lakk1252,Lak,1729,щащан,CyrillTrans,"weave, plait",,,š̄aš̄an,Phonemic
+9-740-56-1,lakk1252,Lak,604,пюрун,CyrillTrans,glass,,,poˁrun,Phonemic
+9-730-56-1,lakk1252,Lak,1399,сина аьрщи,CyrillTrans,clay,,,sina aˁrš̄i,Phonemic
+9-720-56-1,lakk1252,Lak,289,сакин буллан,CyrillTrans,mold (clay etc),,,sakin bullan,Phonemic
+9-710-56-1,lakk1252,Lak,359,тІахІунттив даву,CyrillTrans,potter,,,tʼaħunt̄iw dawu,Phonemic
+9-690-56-1,lakk1252,Lak,358,кІяла мах,CyrillTrans,"tin, tinplate",,,kʼaˁla max,Phonemic
+9-680-56-1,lakk1252,Lak,627,чІутІи,CyrillTrans,lead (noun),,,čʼutʼi,Phonemic
+9-670-56-1,lakk1252,Lak,621,мах,CyrillTrans,iron,,,max,Phonemic
+9-660-56-1,lakk1252,Lak,1825,дувсси,CyrillTrans,"copper, bronze",,,"duws̄i, čarwit",Phonemic
+9-660-56-3,lakk1252,Lak,1825,чарвит,CyrillTrans,"copper, bronze",,,"duws̄i, čarwit",Phonemic
+9-650-56-1,lakk1252,Lak,759,(гъаргъ) арцу,CyrillTrans,silver,,,(ɣarɣ) arcu,Phonemic
+9-640-56-1,lakk1252,Lak,1369,муси,CyrillTrans,gold,,,musi,Phonemic
+9-630-56-1,lakk1252,Lak,211,(пюркьу) битлан,CyrillTrans,cast (metals),,,(poˁrqʼu) bitlan,Phonemic
+9-620-56-1,lakk1252,Lak,1648,лурзимах,CyrillTrans,anvil,,,lurzimax,Phonemic
+9-610-56-1,lakk1252,Lak,288,дуссукъатта,CyrillTrans,forge,,,dus̄uGat̄a,Phonemic
+9-600-56-1,lakk1252,Lak,1001,муххал усттар,CyrillTrans,"smith, blacksmith",,,mux̄al ust̄ar,Phonemic
+9-560-56-1,lakk1252,Lak,1069,сина,CyrillTrans,glue,,,sina,Phonemic
+9-500-56-1,lakk1252,Lak,502,мяр,CyrillTrans,nail,,,maˁr,Phonemic
+9-490-56-1,lakk1252,Lak,1481,кьютІилу,CyrillTrans,hammer,,,qʼoˁtʼilu,Phonemic
+9-480-56-1,lakk1252,Lak,1948,ххарачІани,CyrillTrans,saw,,,x̄aračʼani,Phonemic
+9-461-56-1,lakk1252,Lak,46,ккутІ дуклан,CyrillTrans,hollow out,,,k̄utʼ duklan,Phonemic
+9-460-56-1,lakk1252,Lak,1501,ккутІ,CyrillTrans,bore,,,"k̄utʼ, x̄aˁraclu",Phonemic
+9-460-56-3,lakk1252,Lak,1501,ххярацлу,CyrillTrans,bore,,,"k̄utʼ, x̄aˁraclu",Phonemic
+9-440-56-1,lakk1252,Lak,1840,дан,CyrillTrans,build,,,"dan, duzal dan",Phonemic
+9-440-56-3,lakk1252,Lak,1840,дузал дан,CyrillTrans,build,,,"dan, duzal dan",Phonemic
+9-430-56-1,lakk1252,Lak,1042,тІаннул усттар,CyrillTrans,carpenter,,,tʼannul ust̄ar,Phonemic
+9-422-56-1,lakk1252,Lak,1361,йарагъ,CyrillTrans,tool,,,yaraɣ,Phonemic
+9-380-56-1,lakk1252,Lak,245,цІуши,CyrillTrans,broom,,,cʼuši,Phonemic
+9-360-56-1,lakk1252,Lak,1453,шюшлан,CyrillTrans,wash,,,šoˁšlan,Phonemic
+9-370-56-1,lakk1252,Lak,230,башин,CyrillTrans,sweep,,,bašin,Phonemic
+9-350-56-1,lakk1252,Lak,1487,дутІин,CyrillTrans,pour,,,dutʼin,Phonemic
+9-343-56-1,lakk1252,Lak,1414,ккуччу дан,CyrillTrans,"squeeze, wring",,,"k̄uč̄u dan, x̌̄icʼin",Phonemic
+9-343-56-3,lakk1252,Lak,1414,хьхьицІин,CyrillTrans,"squeeze, wring",,,"k̄uč̄u dan, x̌̄icʼin",Phonemic
+9-342-56-1,lakk1252,Lak,1913,бас дуллан,CyrillTrans,press,,,bas dullan,Phonemic
+9-341-56-1,lakk1252,Lak,357,лахъан,CyrillTrans,hang up,,,laqan,Phonemic
+9-340-56-1,lakk1252,Lak,38,гьарта дан,CyrillTrans,spread out,,,"harta dan, harta x̌un",Phonemic
+9-340-56-3,lakk1252,Lak,38,гьарта хьун,CyrillTrans,spread out,,,"harta dan, harta x̌un",Phonemic
+9-330-56-1,lakk1252,Lak,1455,кІункІу банд,CyrillTrans,pull,,,kʼunkʼu band,Phonemic
+9-320-56-1,lakk1252,Lak,214,кІункІу дан,CyrillTrans,stretch,,,kʼunkʼu dan,Phonemic
+9-310-56-1,lakk1252,Lak,1449,лишин,CyrillTrans,"rub, wipe",,,lišin,Phonemic
+9-290-56-1,lakk1252,Lak,291,бурчу ликкан,CyrillTrans,"flay, skin",,,burču lik̄an,Phonemic
+9-280-56-1,lakk1252,Lak,1735,ххядуклан,CyrillTrans,tear,,,"x̄aˁduklan, ritlan",Phonemic
+9-280-56-3,lakk1252,Lak,1735,ритлан,CyrillTrans,tear,,,"x̄aˁduklan, ritlan",Phonemic
+9-270-56-1,lakk1252,Lak,1437,ххядуккан,CyrillTrans,split,,,x̄aˁduk̄an,Phonemic
+9-261-56-1,lakk1252,Lak,588,гъаргъсса,CyrillTrans,broken,,,ɣarɣs̄a,Phonemic
+9-260-56-1,lakk1252,Lak,680,гъагъан,CyrillTrans,break,,,ɣaɣan,Phonemic
+9-250-56-1,lakk1252,Lak,677,рикІ,CyrillTrans,ax,,,rikʼ,Phonemic
+9-251-56-1,lakk1252,Lak,290,рикІ,CyrillTrans,adze,,,rikʼ,Phonemic
+9-240-56-1,lakk1252,Lak,356,хІисилу,CyrillTrans,"scissors, shears",,,ħisilu,Phonemic
+9-230-56-1,lakk1252,Lak,1352,чІила,CyrillTrans,knife,,,čʼila,Phonemic
+9-223-56-1,lakk1252,Lak,1434,биххан,CyrillTrans,stab,,,bix̄an,Phonemic
+9-222-56-1,lakk1252,Lak,155,кьукьлан,CyrillTrans,"chop, hew",,,"qʼuqʼlan, butlan",Phonemic
+9-222-56-3,lakk1252,Lak,155,бутлан,CyrillTrans,"chop, hew",,,"qʼuqʼlan, butlan",Phonemic
+9-221-56-1,lakk1252,Lak,355,кутІа бан,CyrillTrans,cut down,,,kutʼa ban,Phonemic
+9-220-56-1,lakk1252,Lak,1432,кьукьлан,CyrillTrans,cut,,,qʼuqʼlan,Phonemic
+9-211-56-1,lakk1252,Lak,354,закканттай буккан,CyrillTrans,pound with fist,,,zak̄ant̄ay buk̄an,Phonemic
+9-210-56-1,lakk1252,Lak,2133,батлан,CyrillTrans,"strike (hit, beat)",,,"batlan, rišlan",Phonemic
+9-210-56-3,lakk1252,Lak,2133,ришлан,CyrillTrans,"strike (hit, beat)",,,"batlan, rišlan",Phonemic
+9-192-56-1,lakk1252,Lak,760,къурхъ,CyrillTrans,knot (noun),,,Gurq,Phonemic
+9-190-56-1,lakk1252,Lak,1218,хьхьа,CyrillTrans,"rope, cord",,,x̌̄a,Phonemic
+9-180-56-1,lakk1252,Lak,1627,щинзир,CyrillTrans,chain,,,š̄inzir,Phonemic
+9-161-56-1,lakk1252,Lak,352,ттирихІин,CyrillTrans,untie,,,t̄iriħin,Phonemic
+9-160-56-1,lakk1252,Lak,1917,дахІаву дуллан,CyrillTrans,"tie, bind",,,daħawu dullan,Phonemic
+9-150-56-1,lakk1252,Lak,1470,кІура баен бан,CyrillTrans,fold,,,"kʼura bayen ban, cačʼu dišin",Phonemic
+9-150-56-3,lakk1252,Lak,1470,цачІу дишин,CyrillTrans,fold,,,"kʼura bayen ban, cačʼu dišin",Phonemic
+9-140-56-1,lakk1252,Lak,2004,лахІан бан,CyrillTrans,bend,,,laħan ban,Phonemic
+9-120-56-1,lakk1252,Lak,984,даву,CyrillTrans,work,,,dawu,Phonemic
+9-110-56-1,lakk1252,Lak,2575,дан,CyrillTrans,"do, make",,,dan,Phonemic
+8-980-56-1,lakk1252,Lak,641,туккул нис,CyrillTrans,mushroom,,,tuk̄ul nis,Phonemic
+8-970-56-1,lakk1252,Lak,33,мечІ,CyrillTrans,nettle,,,meˁčʼ,Phonemic
+8-940-56-1,lakk1252,Lak,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-56-1,lakk1252,Lak,864,къавахъ,CyrillTrans,"pumpkin, squash",,,Gawaq,Phonemic
+8-930-56-1,lakk1252,Lak,411,къавахъ,CyrillTrans,gourd,,,Gawaq,Phonemic
+8-910-56-1,lakk1252,Lak,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-56-1,lakk1252,Lak,346,инжирал мурхь,CyrillTrans,banyan,,,inžiral murx̌,Phonemic
+8-840-56-1,lakk1252,Lak,868,бананал мурхь,CyrillTrans,banana tree,,,bananal murx̌,Phonemic
+8-830-56-1,lakk1252,Lak,1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-56-1,lakk1252,Lak,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-56-1,lakk1252,Lak,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-56-1,lakk1252,Lak,345,ххяххиял щин,CyrillTrans,sap,,,x̄aˁx̄iaˁl š̄in,Phonemic
+8-750-56-1,lakk1252,Lak,1204,ккири,CyrillTrans,bark,,,k̄iri,Phonemic
+8-740-56-1,lakk1252,Lak,409,къяртта,CyrillTrans,forked branch,,,Gaˁrt̄a,Phonemic
+8-730-56-1,lakk1252,Lak,344,мурхьирал ттарцІ,CyrillTrans,tree trunk,,,murx̌iral t̄arcʼ,Phonemic
+8-720-56-1,lakk1252,Lak,241,кутук,CyrillTrans,tree stump,,,kutuk,Phonemic
+8-691-56-1,lakk1252,Lak,1124,путІи,CyrillTrans,pipe,,,putʼi,Phonemic
+8-690-56-1,lakk1252,Lak,1689,таммакулул пуркІу,CyrillTrans,smoke (tobacco),,,tammakulul purkʼu,Phonemic
+8-680-56-1,lakk1252,Lak,974,тутун,CyrillTrans,tobacco,,,"tutun, tammaku",Phonemic
+8-680-56-3,lakk1252,Lak,974,таммаку,CyrillTrans,tobacco,,,"tutun, tammaku",Phonemic
+8-670-56-1,lakk1252,Lak,343,лухІи тІутІул къяртта,CyrillTrans,vine,,,luħi tʼutʼul Gaˁrt̄a,Phonemic
+8-660-56-1,lakk1252,Lak,968,пялутрал гьивхь,CyrillTrans,acorn,,,paˁlutral hiwx̌,Phonemic
+8-650-56-1,lakk1252,Lak,1915,ттарлил мурхь,CyrillTrans,fir,,,"t̄arlil murx̌, kʼaˁlat̄arlil",Phonemic
+8-650-56-3,lakk1252,Lak,1915,кІялаттарлил,CyrillTrans,fir,,,"t̄arlil murx̌, kʼaˁlat̄arlil",Phonemic
+8-640-56-1,lakk1252,Lak,1740,мазухъи,CyrillTrans,pine,,,mazuqi,Phonemic
+8-630-56-1,lakk1252,Lak,1855,кІялахІи,CyrillTrans,birch,,,kʼaˁlaħi,Phonemic
+8-620-56-1,lakk1252,Lak,1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-56-1,lakk1252,Lak,644,пялут,CyrillTrans,oak,,,paˁlut,Phonemic
+8-600-56-1,lakk1252,Lak,906,мурхь,CyrillTrans,tree,,,murx̌,Phonemic
+8-570-56-1,lakk1252,Lak,239,тІутІи,CyrillTrans,flower,,,tʼutʼi,Phonemic
+8-560-56-1,lakk1252,Lak,628,чІапІи,CyrillTrans,leaf,,,čʼapʼi,Phonemic
+8-550-56-1,lakk1252,Lak,1531,къяртта,CyrillTrans,branch,,,Gaˁrt̄a,Phonemic
+8-540-56-1,lakk1252,Lak,670,мархха,CyrillTrans,root,,,marx̄a,Phonemic
+8-531-56-1,lakk1252,Lak,1486,хъун бан,CyrillTrans,plant (vb),,,qun ban,Phonemic
+8-520-56-1,lakk1252,Lak,342,ххулӯв,CyrillTrans,hay,,,x̄ulūw,Phonemic
+8-530-56-1,lakk1252,Lak,653,ххяххийа,CyrillTrans,plant (noun),,,x̄aˁx̄iya,Phonemic
+8-510-56-1,lakk1252,Lak,606,уртту,CyrillTrans,grass,,,urt̄u,Phonemic
+8-480-56-1,lakk1252,Lak,926,ппиринж,CyrillTrans,rice,,,p̄irinž,Phonemic
+8-470-56-1,lakk1252,Lak,506,шагьнал лачІа,CyrillTrans,"maize, corn",,,šahnal lačʼa,Phonemic
+8-460-56-1,lakk1252,Lak,60,нехъа,CyrillTrans,oats,,,neˁqa,Phonemic
+8-450-56-1,lakk1252,Lak,23,сус,CyrillTrans,rye,,,sus,Phonemic
+8-430-56-1,lakk1252,Lak,1077,лачІа,CyrillTrans,wheat,,,lačʼa,Phonemic
+8-440-56-1,lakk1252,Lak,932,хъа,CyrillTrans,barley,,,qa,Phonemic
+8-420-56-1,lakk1252,Lak,605,къама,CyrillTrans,"grain (barley, oats etc)",,,Gama,Phonemic
+8-410-56-1,lakk1252,Lak,611,бакІлахъийа,CyrillTrans,"crop, harvest",,,bakʼlaqiya,Phonemic
+8-350-56-1,lakk1252,Lak,223,ттарацІалу,CyrillTrans,threshing-floor,,,t̄aracʼalu,Phonemic
+8-340-56-1,lakk1252,Lak,285,ччар дуллан,CyrillTrans,thresh,,,č̄ar dullan,Phonemic
+8-330-56-1,lakk1252,Lak,2132,мухІ,CyrillTrans,"sickle, scythe",,,"muħ, mirx̌, čʼinikʼ",Phonemic
+8-330-56-3,lakk1252,Lak,2132,мирхь,CyrillTrans,"sickle, scythe",,,"muħ, mirx̌, čʼinikʼ",Phonemic
+8-330-56-5,lakk1252,Lak,2132,чІиникІ,CyrillTrans,"sickle, scythe",,,"muħ, mirx̌, čʼinikʼ",Phonemic
+8-320-56-1,lakk1252,Lak,190,цулун,CyrillTrans,"mow, reap",,,culun,Phonemic
+8-311-56-1,lakk1252,Lak,714,гьанна,CyrillTrans,seed,,,hanna,Phonemic
+8-310-56-1,lakk1252,Lak,748,кІама бищун,CyrillTrans,sow,,,kʼama biš̄un,Phonemic
+8-270-56-1,lakk1252,Lak,338,ххялаххи,CyrillTrans,rake,,,x̄aˁlax̄i,Phonemic
+8-260-56-1,lakk1252,Lak,337,гьиссилу,CyrillTrans,fork,,,"his̄ilu, x̌ula",Phonemic
+8-260-56-3,lakk1252,Lak,337,хьула,CyrillTrans,fork,,,"his̄ilu, x̌ula",Phonemic
+8-250-56-1,lakk1252,Lak,284,кказа,CyrillTrans,hoe,,,k̄aza,Phonemic
+8-240-56-1,lakk1252,Lak,1901,щурк,CyrillTrans,shovel,,,"š̄urk, x̄akannaz",Phonemic
+8-240-56-3,lakk1252,Lak,1901,ххаканназ,CyrillTrans,shovel,,,"š̄urk, x̄akannaz",Phonemic
+8-230-56-1,lakk1252,Lak,1176,чІатІа,CyrillTrans,spade,,,čʼatʼa,Phonemic
+8-212-56-1,lakk1252,Lak,1794,гъайкусса хъу,CyrillTrans,furrow,,,"ɣaykus̄a qu, qurs̄ul ža",Phonemic
+8-212-56-3,lakk1252,Lak,1794,хъурссул жа,CyrillTrans,furrow,,,"ɣaykus̄a qu, qurs̄ul ža",Phonemic
+8-220-56-1,lakk1252,Lak,1418,бихлан,CyrillTrans,dig,,,"bixlan, dixlan",Phonemic
+8-220-56-3,lakk1252,Lak,1418,дихлан,CyrillTrans,dig,,,"bixlan, dixlan",Phonemic
+8-210-56-1,lakk1252,Lak,1921,гъайтІун,CyrillTrans,plow,,,ɣaytʼun,Phonemic
+8-170-56-1,lakk1252,Lak,2002,кьакьа,CyrillTrans,ditch,,,qʼaqʼa,Phonemic
+8-160-56-1,lakk1252,Lak,1690,чапар,CyrillTrans,fence,,,čapar,Phonemic
+8-150-56-1,lakk1252,Lak,1541,хъу оьргъа дан,CyrillTrans,"cultivate, till",,,qu oˁrɣa dan,Phonemic
+8-130-56-1,lakk1252,Lak,586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-56-1,lakk1252,Lak,212,хъу,CyrillTrans,field (for cultivation),,,qu,Phonemic
+8-110-56-1,lakk1252,Lak,979,пирмалул заллу,CyrillTrans,farmer,,,pirmalul zallu,Phonemic
+7-640-56-1,lakk1252,Lak,901,сина аьрщарал къатта,CyrillTrans,adobe,,,sina aˁrš̄aral Gat̄a,Phonemic
+7-630-56-1,lakk1252,Lak,224,киражрал щин,CyrillTrans,mortar,,,kiražral š̄in,Phonemic
+7-620-56-1,lakk1252,Lak,1006,калпуш,CyrillTrans,brick,,,kalpuš,Phonemic
+7-580-56-1,lakk1252,Lak,876,кІалан,CyrillTrans,arch,,,"kʼalan, čʼalan",Phonemic
+7-580-56-3,lakk1252,Lak,876,чІалан,CyrillTrans,arch,,,"kʼalan, čʼalan",Phonemic
+7-610-56-1,lakk1252,Lak,877,чарил усттар,CyrillTrans,mason,,,čaril ust̄ar,Phonemic
+7-570-56-1,lakk1252,Lak,1227,тахта,CyrillTrans,board,,,"taxta, ula",Phonemic
+7-570-56-3,lakk1252,Lak,1227,ула,CyrillTrans,board,,,"taxta, ula",Phonemic
+7-560-56-1,lakk1252,Lak,281,ттарцІ,CyrillTrans,"post, pole",,,t̄arcʼ,Phonemic
+7-550-56-1,lakk1252,Lak,1132,чІула,CyrillTrans,beam,,,čʼula,Phonemic
+7-540-56-1,lakk1252,Lak,829,уттусса,CyrillTrans,rafter,,,"ut̄us̄a, čʼula",Phonemic
+7-540-56-3,lakk1252,Lak,829,чІула,CyrillTrans,rafter,,,"ut̄us̄a, čʼula",Phonemic
+7-530-56-1,lakk1252,Lak,280,чІула,CyrillTrans,ridgepole,,,čʼula,Phonemic
+7-520-56-1,lakk1252,Lak,279,сумал магъи,CyrillTrans,thatch,,,sumal maɣi,Phonemic
+7-510-56-1,lakk1252,Lak,769,магъи,CyrillTrans,roof,,,maɣi,Phonemic
+7-480-56-1,lakk1252,Lak,205,бяшкІана,CyrillTrans,trough,,,baˁškʼana,Phonemic
+7-470-56-1,lakk1252,Lak,745,чІаму,CyrillTrans,shelf,,,čʼamu,Phonemic
+7-460-56-1,lakk1252,Lak,1273,майлул чирахъ,CyrillTrans,candle,,,maylul čiraq,Phonemic
+7-450-56-1,lakk1252,Lak,2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-450-56-3,lakk1252,Lak,2131,панар,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-440-56-1,lakk1252,Lak,1775,усттул,CyrillTrans,table,,,"ust̄ul, x̄unča",Phonemic
+7-440-56-3,lakk1252,Lak,1775,ххунча,CyrillTrans,table,,,"ust̄ul, x̄unča",Phonemic
+7-430-56-1,lakk1252,Lak,1476,(лув бишай) кІану,CyrillTrans,chair,,,(luw bišay) kʼanu,Phonemic
+7-422-56-1,lakk1252,Lak,806,виргъан,CyrillTrans,blanket,,,wirɣan,Phonemic
+7-421-56-1,lakk1252,Lak,1044,кІаралу,CyrillTrans,pillow,,,kʼaralu,Phonemic
+7-420-56-1,lakk1252,Lak,1663,тах,CyrillTrans,bed,,,tax,Phonemic
+7-370-56-1,lakk1252,Lak,1464,чуртту,CyrillTrans,ladder,,,čurt̄u,Phonemic
+7-330-56-1,lakk1252,Lak,1305,вярчІу,CyrillTrans,chimney,,,waˁrčʼu,Phonemic
+7-320-56-1,lakk1252,Lak,859,пач,CyrillTrans,stove,,,pač,Phonemic
+7-310-56-1,lakk1252,Lak,185,тав,CyrillTrans,fireplace,,,taw,Phonemic
+7-270-56-1,lakk1252,Lak,933,чІира,CyrillTrans,wall,,,čʼira,Phonemic
+7-260-56-1,lakk1252,Lak,1632,чІанкъатта,CyrillTrans,floor,,,čʼanGat̄a,Phonemic
+7-250-56-1,lakk1252,Lak,1375,чІавахьулу,CyrillTrans,window,,,čʼawax̌ulu,Phonemic
+7-240-56-1,lakk1252,Lak,1472,кІула,CyrillTrans,key,,,kʼula,Phonemic
+7-231-56-1,lakk1252,Lak,1012,къича,CyrillTrans,"latch, door-bolt",,,Giča,Phonemic
+7-230-56-1,lakk1252,Lak,1596,кьункьула,CyrillTrans,lock (noun),,,qʼunqʼula,Phonemic
+7-221-56-1,lakk1252,Lak,80,къича,CyrillTrans,"doorpost, jamb",,,Giča,Phonemic
+7-210-56-1,lakk1252,Lak,1450,къатта,CyrillTrans,room,,,Gat̄a,Phonemic
+7-220-56-1,lakk1252,Lak,1567,нуз,CyrillTrans,"door, gate",,,"nuz, darwaza",Phonemic
+7-220-56-3,lakk1252,Lak,1567,дарваза,CyrillTrans,"door, gate",,,"nuz, darwaza",Phonemic
+7-180-56-1,lakk1252,Lak,335,кулуб,CyrillTrans,meeting house,,,kulub,Phonemic
+7-170-56-1,lakk1252,Lak,334,мурцІу къатта,CyrillTrans,cookhouse,,,murcʼu Gat̄a,Phonemic
+7-160-56-1,lakk1252,Lak,408,къатри,CyrillTrans,men's house,,,Gatri,Phonemic
+7-150-56-1,lakk1252,Lak,736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-56-1,lakk1252,Lak,1316,чятир,CyrillTrans,tent,,,čaˁtir,Phonemic
+7-131-56-1,lakk1252,Lak,403,къатри,CyrillTrans,garden-house,,,Gatri,Phonemic
+7-130-56-1,lakk1252,Lak,1678,пукьа,CyrillTrans,hut,,,puqʼa,Phonemic
+7-120-56-1,lakk1252,Lak,1252,къатри,CyrillTrans,house,,,"Gatri, Gat̄a",Phonemic
+7-120-56-3,lakk1252,Lak,1252,къатта,CyrillTrans,house,,,"Gatri, Gat̄a",Phonemic
+7-110-56-1,lakk1252,Lak,363,йалапар хъанан,CyrillTrans,"dwell, live",,,yalapar qanan,Phonemic
+6-960-56-1,lakk1252,Lak,1171,дагьани,CyrillTrans,mirror,,,dahani,Phonemic
+6-950-56-1,lakk1252,Lak,788,ссахІван,CyrillTrans,soap,,,s̄aħwan,Phonemic
+6-940-56-1,lakk1252,Lak,1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-56-1,lakk1252,Lak,151,чІила (чІири чартІи бай чІила),CyrillTrans,razor,,,čʼila (čʼiri čartʼi bay čʼila),Phonemic
+6-921-56-1,lakk1252,Lak,333,хІаллу,CyrillTrans,braid,,,ħallu,Phonemic
+6-920-56-1,lakk1252,Lak,1821,зеххаву,CyrillTrans,brush,,,zeˁx̄awu,Phonemic
+6-910-56-1,lakk1252,Lak,1475,ттарал,CyrillTrans,comb,,,t̄aral,Phonemic
+6-820-56-1,lakk1252,Lak,1021,лажинлихьу,CyrillTrans,towel,,,lažinlix̌u,Phonemic
+6-810-56-1,lakk1252,Lak,332,жиплуву карщи,CyrillTrans,"handkerchief, rag",,,žipluwu karš̄i,Phonemic
+6-780-56-1,lakk1252,Lak,330,кьяпа,CyrillTrans,"headband, headdress",,,qʼaˁpa,Phonemic
+6-770-56-1,lakk1252,Lak,770,вичІилус,CyrillTrans,earring,,,wičʼilus,Phonemic
+6-760-56-1,lakk1252,Lak,1860,кюрщан,CyrillTrans,bead,,,koˁrš̄an,Phonemic
+6-750-56-1,lakk1252,Lak,1961,чарсса,CyrillTrans,necklace,,,čars̄a,Phonemic
+6-740-56-1,lakk1252,Lak,1754,каниш,CyrillTrans,bracelet,,,kaniš,Phonemic
+6-730-56-1,lakk1252,Lak,1374,каний кІисса,CyrillTrans,ring (for finger),,,kaniy kʼis̄a,Phonemic
+6-720-56-1,lakk1252,Lak,1029,ляълулул чару,CyrillTrans,jewel,,,laˁʔlulul čaru,Phonemic
+6-710-56-1,lakk1252,Lak,917,накьич,CyrillTrans,"ornament, adornment",,,naqʼič,Phonemic
+6-630-56-1,lakk1252,Lak,64,къуппа-ххалаххи,CyrillTrans,pin,,,Gup̄a-x̄alax̄i,Phonemic
+6-620-56-1,lakk1252,Lak,757,кІичІ,CyrillTrans,button,,,kʼičʼ,Phonemic
+6-610-56-1,lakk1252,Lak,1851,жип,CyrillTrans,pocket,,,žip,Phonemic
+6-590-56-1,lakk1252,Lak,1151,иттахсса,CyrillTrans,veil,,,it̄axs̄a,Phonemic
+6-580-56-1,lakk1252,Lak,867,катІа,CyrillTrans,glove,,,katʼa,Phonemic
+6-570-56-1,lakk1252,Lak,772,мухІлу,CyrillTrans,"belt, girdle",,,muħlu,Phonemic
+6-550-56-1,lakk1252,Lak,2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-56-1,lakk1252,Lak,875,чакмачи,CyrillTrans,"shoemaker, cobbler",,,čakmači,Phonemic
+6-510-56-1,lakk1252,Lak,1381,ттуплив,CyrillTrans,shoe,,,t̄upliw,Phonemic
+6-520-56-1,lakk1252,Lak,585,ус,CyrillTrans,boot,,,us,Phonemic
+6-490-56-1,lakk1252,Lak,329,жуларду,CyrillTrans,"stocking, sock",,,žulardu,Phonemic
+6-480-56-1,lakk1252,Lak,809,хІажак,CyrillTrans,trousers,,,ħažak,Phonemic
+6-461-56-1,lakk1252,Lak,328,йупкка,CyrillTrans,grass-skirt,,,yupk̄a,Phonemic
+6-460-56-1,lakk1252,Lak,1600,йупкка,CyrillTrans,skirt,,,yupk̄a,Phonemic
+6-450-56-1,lakk1252,Lak,2012,дарвач,CyrillTrans,collar,,,darwač,Phonemic
+6-440-56-1,lakk1252,Lak,1622,гьухъа,CyrillTrans,shirt,,,huqa,Phonemic
+6-430-56-1,lakk1252,Lak,603,пІалтІу,CyrillTrans,coat,,,pʼaltʼu,Phonemic
+6-420-56-1,lakk1252,Lak,474,гьухъа (хъаннил гьухъа),CyrillTrans,woman's dress,,,huqa (qannil huqa),Phonemic
+6-390-56-1,lakk1252,Lak,157,ранг,CyrillTrans,dye,,,rang,Phonemic
+6-410-56-1,lakk1252,Lak,326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-56-1,lakk1252,Lak,1161,ххал,CyrillTrans,thread,,,x̄al,Phonemic
+6-360-56-1,lakk1252,Lak,1382,ххалаххи,CyrillTrans,needle,,,x̄alax̄i,Phonemic
+6-370-56-1,lakk1252,Lak,278,ппа,CyrillTrans,awl,,,p̄a,Phonemic
+6-350-56-1,lakk1252,Lak,1457,дурухлан,CyrillTrans,sew,,,duruxlan,Phonemic
+6-340-56-1,lakk1252,Lak,1787,хах,CyrillTrans,loom,,,xax,Phonemic
+6-330-56-1,lakk1252,Lak,133,щашлан,CyrillTrans,weave,,,š̄ašlan,Phonemic
+6-320-56-1,lakk1252,Lak,277,зукка,CyrillTrans,spindle,,,zuk̄a,Phonemic
+6-310-56-1,lakk1252,Lak,121,ххаллу дуллан,CyrillTrans,spin,,,x̄allu dullan,Phonemic
+6-290-56-1,lakk1252,Lak,629,бурчу,CyrillTrans,leather,,,burču,Phonemic
+6-280-56-1,lakk1252,Lak,580,хаз,CyrillTrans,fur,,,xaz,Phonemic
+6-270-56-1,lakk1252,Lak,325,варси,CyrillTrans,felt,,,warsi,Phonemic
+6-250-56-1,lakk1252,Lak,1641,сими,CyrillTrans,silk,,,simi,Phonemic
+6-240-56-1,lakk1252,Lak,1850,памма,CyrillTrans,cotton,,,pamma,Phonemic
+6-230-56-1,lakk1252,Lak,916,чатан,CyrillTrans,"linen, flax",,,čatan,Phonemic
+6-220-56-1,lakk1252,Lak,964,ппал,CyrillTrans,wool,,,p̄al,Phonemic
+6-210-56-1,lakk1252,Lak,1616,щарщу йанна,CyrillTrans,cloth,,,š̄arš̄u yanna,Phonemic
+6-130-56-1,lakk1252,Lak,881,дарзи,CyrillTrans,tailor,,,darzi,Phonemic
+6-120-56-1,lakk1252,Lak,1895,йанна,CyrillTrans,"clothing, clothes",,,yanna,Phonemic
+6-110-56-1,lakk1252,Lak,158,лаххан,CyrillTrans,put on (clothes),,,lax̄an,Phonemic
+5-971-56-1,lakk1252,Lak,1556,ккунукрал хъахъимур,CyrillTrans,egg yolk,,,k̄unukral qaqimur,Phonemic
+5-970-56-1,lakk1252,Lak,744,ккунук,CyrillTrans,egg,,,k̄unuk,Phonemic
+5-940-56-1,lakk1252,Lak,404,дукьра-хІан,CyrillTrans,fermented drink,,,duqʼra-ħan,Phonemic
+5-930-56-1,lakk1252,Lak,1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-56-1,lakk1252,Lak,1524,чахир,CyrillTrans,wine,,,"čaxir, ħan",Phonemic
+5-920-56-3,lakk1252,Lak,1524,хІан,CyrillTrans,wine,,,"čaxir, ħan",Phonemic
+5-900-56-1,lakk1252,Lak,731,хІачІийа,CyrillTrans,"beverage, drink",,,ħačʼiya,Phonemic
+5-890-56-1,lakk1252,Lak,1245,лагаву,CyrillTrans,butter,,,lagawu,Phonemic
+5-880-56-1,lakk1252,Lak,1569,нис,CyrillTrans,cheese,,,nis,Phonemic
+5-870-56-1,lakk1252,Lak,93,ттизин,CyrillTrans,milk (vb),,,t̄izin,Phonemic
+5-850-56-1,lakk1252,Lak,862,качар,CyrillTrans,sugar,,,kačar,Phonemic
+5-860-56-1,lakk1252,Lak,635,накІ,CyrillTrans,milk (noun),,,nakʼ,Phonemic
+5-840-56-1,lakk1252,Lak,942,ницІ,CyrillTrans,honey,,,nicʼ,Phonemic
+5-821-56-1,lakk1252,Lak,919,мамаш,CyrillTrans,chili pepper,,,mamaš,Phonemic
+5-820-56-1,lakk1252,Lak,1385,иссийавт,CyrillTrans,pepper,,,is̄iyawt,Phonemic
+5-810-56-1,lakk1252,Lak,1274,цІу,CyrillTrans,salt,,,cʼu,Phonemic
+5-791-56-1,lakk1252,Lak,323,аьгъушиву,CyrillTrans,"grease, fat",,,"aˁɣušiwu, may",Phonemic
+5-791-56-3,lakk1252,Lak,323,май,CyrillTrans,"grease, fat",,,"aˁɣušiwu, may",Phonemic
+5-790-56-1,lakk1252,Lak,1484,нагь,CyrillTrans,oil,,,nah,Phonemic
+5-780-56-1,lakk1252,Lak,1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-56-1,lakk1252,Lak,920,лухІи тІутІи,CyrillTrans,grape,,,luħi tʼutʼi,Phonemic
+5-770-56-1,lakk1252,Lak,191,гьивхь,CyrillTrans,nut,,,"hiwx̌, punnuqʼ",Phonemic
+5-770-56-3,lakk1252,Lak,191,пуннукь,CyrillTrans,nut,,,"hiwx̌, punnuqʼ",Phonemic
+5-750-56-1,lakk1252,Lak,322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-56-1,lakk1252,Lak,1966,къюмай,CyrillTrans,bunch,,,Goˁmay,Phonemic
+5-710-56-1,lakk1252,Lak,1507,ахъулсса,CyrillTrans,fruit,,,aquls̄a,Phonemic
+5-700-56-1,lakk1252,Lak,593,нувщи,CyrillTrans,potato,,,nuwš̄i,Phonemic
+5-660-56-1,lakk1252,Lak,832,лухІи хъюру,CyrillTrans,bean,,,luħi qoˁru,Phonemic
+5-650-56-1,lakk1252,Lak,924,ахънилсри,CyrillTrans,vegetables,,,aqnilsri,Phonemic
+5-640-56-1,lakk1252,Lak,1547,накь,CyrillTrans,"soup, broth",,,naqʼ,Phonemic
+5-630-56-1,lakk1252,Lak,1874,ккурккимай,CyrillTrans,sausage,,,k̄urk̄imay,Phonemic
+5-610-56-1,lakk1252,Lak,634,дикІ,CyrillTrans,meat,,,dikʼ,Phonemic
+5-590-56-1,lakk1252,Lak,225,йалунбищу,CyrillTrans,pestle,,,yalunbiš̄u,Phonemic
+5-580-56-1,lakk1252,Lak,224,лаччибуту,CyrillTrans,mortar (2),,,"lač̄ibutu, hamang",Phonemic
+5-580-56-3,lakk1252,Lak,224,гьаманг,CyrillTrans,mortar (2),,,"lač̄ibutu, hamang",Phonemic
+5-570-56-1,lakk1252,Lak,636,гьарахъалу,CyrillTrans,mill,,,haraqalu,Phonemic
+5-560-56-1,lakk1252,Lak,1033,бас буллан,CyrillTrans,"crush, grind",,,"bas bullan, moˁrš bullan",Phonemic
+5-560-56-3,lakk1252,Lak,1033,мюрш буллан,CyrillTrans,"crush, grind",,,"bas bullan, moˁrš bullan",Phonemic
+5-550-56-1,lakk1252,Lak,1594,иникІма,CyrillTrans,"meal, flour",,,inikʼma,Phonemic
+5-540-56-1,lakk1252,Lak,274,дяргълан,CyrillTrans,knead,,,daˁrɣlan,Phonemic
+5-530-56-1,lakk1252,Lak,273,иникІма,CyrillTrans,dough,,,inikʼma,Phonemic
+5-510-56-1,lakk1252,Lak,1368,ччатІ,CyrillTrans,bread,,,č̄atʼ,Phonemic
+5-490-56-1,lakk1252,Lak,2017,хІала буллан,CyrillTrans,"stir, mix",,,ħala bullan,Phonemic
+5-480-56-1,lakk1252,Lak,1767,ссуку буллан,CyrillTrans,scrape,,,s̄uku bullan,Phonemic
+5-470-56-1,lakk1252,Lak,86,дигьин,CyrillTrans,"sieve, strain",,,"dihin, kʼučʼin",Phonemic
+5-470-56-3,lakk1252,Lak,86,кІучІин,CyrillTrans,"sieve, strain",,,"dihin, kʼučʼin",Phonemic
+5-460-56-1,lakk1252,Lak,275,марцІ бан,CyrillTrans,peel,,,marcʼ ban,Phonemic
+5-450-56-1,lakk1252,Lak,1833,гьанттайнсса,CyrillTrans,supper,,,hant̄ayns̄a,Phonemic
+5-440-56-1,lakk1252,Lak,1833,ахттайнсса,CyrillTrans,dinner,,,axt̄ayns̄a,Phonemic
+5-420-56-1,lakk1252,Lak,1322,кІюрххилсса,CyrillTrans,breakfast,,,kʼoˁrx̄ils̄a,Phonemic
+5-410-56-1,lakk1252,Lak,1526,дукра дукан,CyrillTrans,meal (a),,,dukra dukan,Phonemic
+5-391-56-1,lakk1252,Lak,272,къяцІа,CyrillTrans,tongs,,,Gaˁcʼa,Phonemic
+5-390-56-1,lakk1252,Lak,1302,гьиссилу,CyrillTrans,fork (2),,,his̄ilu,Phonemic
+5-380-56-1,lakk1252,Lak,1352,чІила,CyrillTrans,knife (2),,,čʼila,Phonemic
+5-370-56-1,lakk1252,Lak,1378,къуса,CyrillTrans,spoon,,,Gusa,Phonemic
+5-360-56-1,lakk1252,Lak,271,нярачи,CyrillTrans,saucer,,,naˁrači,Phonemic
+5-330-56-1,lakk1252,Lak,1530,кІичІу,CyrillTrans,bowl,,,kʼičʼu,Phonemic
+5-340-56-1,lakk1252,Lak,270,кІартташи,CyrillTrans,"pitcher, jug",,,"kʼart̄aši, parš, GuGu, xawa",Phonemic
+5-340-56-3,lakk1252,Lak,270,парш,CyrillTrans,"pitcher, jug",,,"kʼart̄aši, parš, GuGu, xawa",Phonemic
+5-340-56-5,lakk1252,Lak,270,къукъу,CyrillTrans,"pitcher, jug",,,"kʼart̄aši, parš, GuGu, xawa",Phonemic
+5-340-56-7,lakk1252,Lak,270,хава,CyrillTrans,"pitcher, jug",,,"kʼart̄aši, parš, GuGu, xawa",Phonemic
+5-320-56-1,lakk1252,Lak,480,бушкъап,CyrillTrans,plate,,,bušGap,Phonemic
+5-310-56-1,lakk1252,Lak,481,бушкъап,CyrillTrans,dish,,,bušGap,Phonemic
+5-280-56-1,lakk1252,Lak,31,кІункІур,CyrillTrans,pan,,,kʼunkʼur,Phonemic
+5-260-56-1,lakk1252,Lak,1462,чаг,CyrillTrans,"pot, cooking vessel",,,čag,Phonemic
+5-270-56-1,lakk1252,Lak,854,чяйникІ,CyrillTrans,kettle,,,čaˁynikʼ,Phonemic
+5-240-56-1,lakk1252,Lak,183,бишлан,CyrillTrans,bake,,,bišlan,Phonemic
+5-250-56-1,lakk1252,Lak,1143,пач,CyrillTrans,oven,,,pač,Phonemic
+5-230-56-1,lakk1252,Lak,2146,цІарайх дуллан,CyrillTrans,"roast, fry",,,cʼarayx dullan,Phonemic
+5-220-56-1,lakk1252,Lak,792,щара лахълан,CyrillTrans,boil (vb),,,š̄ara laqlan,Phonemic
+5-210-56-1,lakk1252,Lak,1100,шахьлан,CyrillTrans,cook,,,šax̌lan,Phonemic
+5-190-56-1,lakk1252,Lak,129,бугъ уллан,CyrillTrans,choke,,,buɣ ullan,Phonemic
+5-181-56-1,lakk1252,Lak,897,дюкьлан,CyrillTrans,swallow,,,doˁqʼlan,Phonemic
+5-180-56-1,lakk1252,Lak,321,ккухІлан,CyrillTrans,chew,,,k̄uħlan,Phonemic
+5-160-56-1,lakk1252,Lak,1421,цІупІ учин,CyrillTrans,suck,,,cʼupʼ učin,Phonemic
+5-150-56-1,lakk1252,Lak,848,мякь,CyrillTrans,thirst,,,maˁqʼ,Phonemic
+5-141-56-1,lakk1252,Lak,199,мискинишву,CyrillTrans,famine,,,miskinišwu,Phonemic
+5-140-56-1,lakk1252,Lak,1864,ккаши,CyrillTrans,hunger,,,k̄aši,Phonemic
+5-130-56-1,lakk1252,Lak,1401,хІачІан,CyrillTrans,drink,,,"ħačʼan, ħačʼlan",Phonemic
+5-130-56-3,lakk1252,Lak,1401,хІачІлан,CyrillTrans,drink,,,"ħačʼan, ħačʼlan",Phonemic
+5-125-56-1,lakk1252,Lak,1728,аьрсса,CyrillTrans,rotten,,,aˁrs̄a,Phonemic
+5-124-56-1,lakk1252,Lak,1958,дикъарсса,CyrillTrans,"green, unripe",,,diGars̄a,Phonemic
+5-123-56-1,lakk1252,Lak,178,бивсса,CyrillTrans,ripe,,,biws̄a,Phonemic
+5-122-56-1,lakk1252,Lak,1959,хъавтусса,CyrillTrans,raw,,,qawtus̄a,Phonemic
+5-121-56-1,lakk1252,Lak,269,шавхьсса,CyrillTrans,cooked,,,šawx̌s̄a,Phonemic
+5-120-56-1,lakk1252,Lak,256,дукра,CyrillTrans,food,,,dukra,Phonemic
+5-110-56-1,lakk1252,Lak,1336,канан,CyrillTrans,eat,,,kanan,Phonemic
+4-990-56-1,lakk1252,Lak,590,кІачІасса,CyrillTrans,"naked, bare",,,kʼačʼas̄a,Phonemic
+4-970-56-1,lakk1252,Lak,1653,мурчІисса,CyrillTrans,blind,,,murčʼis̄a,Phonemic
+4-980-56-1,lakk1252,Lak,1463,хІарчІсса,CyrillTrans,intoxicated,,,ħarčʼs̄a,Phonemic
+4-960-56-1,lakk1252,Lak,1666,маз къакІулсса,CyrillTrans,mute,,,maz Gakʼuls̄a,Phonemic
+4-950-56-1,lakk1252,Lak,996,къюкІсса,CyrillTrans,deaf,,,Goˁkʼs̄a,Phonemic
+4-930-56-1,lakk1252,Lak,1125,баллусса,CyrillTrans,bald,,,ballus̄a,Phonemic
+4-940-56-1,lakk1252,Lak,320,аьрчча тІун,CyrillTrans,lame,,,aˁrč̄a tʼun,Phonemic
+4-920-56-1,lakk1252,Lak,1564,курчІилсса,CyrillTrans,lazy,,,kurčʼils̄a,Phonemic
+4-912-56-1,lakk1252,Lak,168,бигьалаган,CyrillTrans,rest,,,bihalagan,Phonemic
+4-910-56-1,lakk1252,Lak,1757,увхсса,CyrillTrans,"tired, weary",,,"uwxs̄a, awkʼus̄a",Phonemic
+4-910-56-3,lakk1252,Lak,1757,авкІусса,CyrillTrans,"tired, weary",,,"uwxs̄a, awkʼus̄a",Phonemic
+4-890-56-1,lakk1252,Lak,655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-56-1,lakk1252,Lak,1372,дарман,CyrillTrans,"medicine, drug",,,"darman, daru",Phonemic
+4-880-56-3,lakk1252,Lak,1372,дару,CyrillTrans,"medicine, drug",,,"darman, daru",Phonemic
+4-870-56-1,lakk1252,Lak,597,духтур,CyrillTrans,physician,,,"duxtur, ħakin",Phonemic
+4-870-56-3,lakk1252,Lak,597,хІакин,CyrillTrans,physician,,,"duxtur, ħakin",Phonemic
+4-860-56-1,lakk1252,Lak,499,хъин буллан,CyrillTrans,"cure, heal",,,"qin bullan, daru bullan",Phonemic
+4-860-56-3,lakk1252,Lak,499,дару буллан,CyrillTrans,"cure, heal",,,"qin bullan, daru bullan",Phonemic
+4-858-56-1,lakk1252,Lak,497,аьш,CyrillTrans,scar,,,"aˁš, bawš",Phonemic
+4-858-56-3,lakk1252,Lak,497,бавш,CyrillTrans,scar,,,"aˁš, bawš",Phonemic
+4-857-56-1,lakk1252,Lak,1808,лал,CyrillTrans,pus,,,lal,Phonemic
+4-856-56-1,lakk1252,Lak,793,пицІу,CyrillTrans,boil (noun),,,picʼu,Phonemic
+4-855-56-1,lakk1252,Lak,1584,хьхьиначІали,CyrillTrans,blister,,,x̌̄inačʼali,Phonemic
+4-854-56-1,lakk1252,Lak,148,ччуччаву,CyrillTrans,itch,,,"č̄uč̄awu, zuw",Phonemic
+4-854-56-3,lakk1252,Lak,148,зув,CyrillTrans,itch,,,"č̄uč̄awu, zuw",Phonemic
+4-853-56-1,lakk1252,Lak,1903,дурухлу,CyrillTrans,swelling,,,duruxlu,Phonemic
+4-852-56-1,lakk1252,Lak,1148,цІунцийа даву,CyrillTrans,bruise,,,cʼunciya dawu,Phonemic
+4-850-56-1,lakk1252,Lak,1109,щаву,CyrillTrans,"wound, sore",,,"š̄awu, qʼurčʼu",Phonemic
+4-850-56-3,lakk1252,Lak,1109,кьурчІу,CyrillTrans,"wound, sore",,,"š̄awu, qʼurčʼu",Phonemic
+4-843-56-1,lakk1252,Lak,102,дяркъу щаву,CyrillTrans,cold (catarrh),,,daˁrGu š̄awu,Phonemic
+4-842-56-1,lakk1252,Lak,1957,чухь,CyrillTrans,goiter,,,čux̌,Phonemic
+4-841-56-1,lakk1252,Lak,1534,кІиришиву,CyrillTrans,fever,,,"kʼirišiwu, zurzu bullan",Phonemic
+4-841-56-3,lakk1252,Lak,1534,зурзу буллан,CyrillTrans,fever,,,"kʼirišiwu, zurzu bullan",Phonemic
+4-840-56-1,lakk1252,Lak,1847,къашавайсса,CyrillTrans,"sick, sickness",,,"Gašaways̄a, azar",Phonemic
+4-840-56-3,lakk1252,Lak,1847,азар,CyrillTrans,"sick, sickness",,,"Gašaways̄a, azar",Phonemic
+4-830-56-1,lakk1252,Lak,1364,цІуллу-цІакъсса,CyrillTrans,"well, health",,,"cʼullu-cʼaGs̄a, cʼullu-saɣšiwu",Phonemic
+4-830-56-3,lakk1252,Lak,1364,цІуллу-сагъшиву,CyrillTrans,"well, health",,,"cʼullu-cʼaGs̄a, cʼullu-saɣšiwu",Phonemic
+4-820-56-1,lakk1252,Lak,1601,заэвсса,CyrillTrans,weak,,,"zaʔews̄a, zuznas̄a",Phonemic
+4-820-56-3,lakk1252,Lak,1601,зузнасса,CyrillTrans,weak,,,"zaʔews̄a, zuznas̄a",Phonemic
+4-810-56-1,lakk1252,Lak,785,гужсса,CyrillTrans,"strong, mighty, powerful",,,"gužs̄a, kutak dus̄a",Phonemic
+4-810-56-3,lakk1252,Lak,785,кутак дусса,CyrillTrans,"strong, mighty, powerful",,,"gužs̄a, kutak dus̄a",Phonemic
+4-790-56-1,lakk1252,Lak,1773,гьав,CyrillTrans,"grave, tomb",,,haw,Phonemic
+4-780-56-1,lakk1252,Lak,1719,уччин,CyrillTrans,bury (the dead),,,"uč̄in, učlan",Phonemic
+4-780-56-3,lakk1252,Lak,1719,учлан,CyrillTrans,bury (the dead),,,"uč̄in, učlan",Phonemic
+4-770-56-1,lakk1252,Lak,767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-56-1,lakk1252,Lak,1417,ивчІан,CyrillTrans,kill,,,iwčʼan,Phonemic
+4-751-56-1,lakk1252,Lak,1904,оькьлакьима,CyrillTrans,drowned,,,"oˁqʼlaqʼima, oˁwqʼma",Phonemic
+4-751-56-3,lakk1252,Lak,1904,оьвкьма,CyrillTrans,drowned,,,"oˁqʼlaqʼima, oˁwqʼma",Phonemic
+4-750-56-1,lakk1252,Lak,1494,ивчІан,CyrillTrans,"die, dead",,,"iwčʼan, iwkʼus̄a",Phonemic
+4-750-56-3,lakk1252,Lak,1494,ивкІусса,CyrillTrans,"die, dead",,,"iwčʼan, iwkʼus̄a",Phonemic
+4-740-56-1,lakk1252,Lak,1422,оьрму бутлан,CyrillTrans,"live, living, life",,,"oˁrmu butlan, saɣs̄a, oˁrmu",Phonemic
+4-740-56-3,lakk1252,Lak,1422,сагъсса,CyrillTrans,"live, living, life",,,"oˁrmu butlan, saɣs̄a, oˁrmu",Phonemic
+4-740-56-5,lakk1252,Lak,1422,оьрму,CyrillTrans,"live, living, life",,,"oˁrmu butlan, saɣs̄a, oˁrmu",Phonemic
+4-732-56-1,lakk1252,Lak,1087,оьрчІан хьун,CyrillTrans,conceive,,,"oˁrčʼan x̌un, oˁrčʼaxa zun",Phonemic
+4-732-56-3,lakk1252,Lak,1087,оьрчІаха зун,CyrillTrans,conceive,,,"oˁrčʼan x̌un, oˁrčʼaxa zun",Phonemic
+4-730-56-1,lakk1252,Lak,1123,лякьлуву хьусса,CyrillTrans,pregnant,,,laˁqʼluwu x̌us̄a,Phonemic
+4-720-56-1,lakk1252,Lak,1090,ан,CyrillTrans,born (to be),,,"an, nit̄il an",Phonemic
+4-720-56-3,lakk1252,Lak,1090,ниттил ан,CyrillTrans,born (to be),,,"an, nit̄il an",Phonemic
+4-710-56-1,lakk1252,Lak,1152,оьрчІ бан,CyrillTrans,beget (of father),,,oˁrčʼ ban,Phonemic
+4-690-56-1,lakk1252,Lak,138,щинавун учІлан,CyrillTrans,bathe,,,š̄inawun učʼlan,Phonemic
+4-680-56-1,lakk1252,Lak,52,зурзу чин,CyrillTrans,shiver,,,zurzu čin,Phonemic
+4-670-56-1,lakk1252,Lak,1785,цачІун хъанан,CyrillTrans,have sexual intercourse,,,cačʼun qanan,Phonemic
+4-660-56-1,lakk1252,Lak,676,оьтІин,CyrillTrans,defecate,,,oˁtʼin,Phonemic
+4-650-56-1,lakk1252,Lak,592,кІущин бан,CyrillTrans,urinate,,,kʼuš̄in ban,Phonemic
+4-640-56-1,lakk1252,Lak,1159,пус учин,CyrillTrans,break wind,,,"pus učin, čʼeˤqʼ učin",Phonemic
+4-640-56-3,lakk1252,Lak,1159,чІекь учин,CyrillTrans,break wind,,,"pus učin, čʼeˤqʼ učin",Phonemic
+4-630-56-1,lakk1252,Lak,1602,чантІ учин,CyrillTrans,wake up,,,čantʼ učin,Phonemic
+4-620-56-1,lakk1252,Lak,1920,макІ ккаккан,CyrillTrans,dream,,,makʼ k̄ak̄an,Phonemic
+4-612-56-1,lakk1252,Lak,1983,ххюнхху тІун,CyrillTrans,snore,,,x̄oˁnx̄u tʼun,Phonemic
+4-610-56-1,lakk1252,Lak,1585,шанан,CyrillTrans,sleep,,,šanan,Phonemic
+4-591-56-1,lakk1252,Lak,268,хьурхь дуклан,CyrillTrans,dribble,,,x̌urx̌ duklan,Phonemic
+4-590-56-1,lakk1252,Lak,319,ланцІ учин,CyrillTrans,lick,,,lancʼ učin,Phonemic
+4-580-56-1,lakk1252,Lak,1403,кьацІа тІун,CyrillTrans,bite,,,qʼacʼa tʼun,Phonemic
+4-570-56-1,lakk1252,Lak,1278,кІарчІа тІун,CyrillTrans,vomit,,,kʼarčʼa tʼun,Phonemic
+4-560-56-1,lakk1252,Lak,1440,пув тІун,CyrillTrans,spit,,,"puw tʼun, puw",Phonemic
+4-560-56-3,lakk1252,Lak,1440,пув,CyrillTrans,spit,,,"puw tʼun, puw",Phonemic
+4-550-56-1,lakk1252,Lak,126,гьухъа итлан,CyrillTrans,perspire,,,huqa itlan,Phonemic
+4-540-56-1,lakk1252,Lak,1621,аьнч учин,CyrillTrans,sneeze,,,aˁnč učin,Phonemic
+4-530-56-1,lakk1252,Lak,879,хъугьу чин,CyrillTrans,cough,,,quhu čin,Phonemic
+4-521-56-1,lakk1252,Lak,162,хІункь учин,CyrillTrans,hiccough,,,ħunqʼ učin,Phonemic
+4-520-56-1,lakk1252,Lak,1028,гьагь бигьин,CyrillTrans,"yawn, gape",,,hah bihin,Phonemic
+4-510-56-1,lakk1252,Lak,1407,ссихІ бигьлан,CyrillTrans,"breathe, breath",,,s̄iħ bihlan,Phonemic
+4-492-56-1,lakk1252,Lak,1222,митІи,CyrillTrans,penis,,,"mitʼi, matʼa, čʼačʼ",Phonemic
+4-492-56-3,lakk1252,Lak,1222,матІа,CyrillTrans,penis,,,"mitʼi, matʼa, čʼačʼ",Phonemic
+4-492-56-5,lakk1252,Lak,1222,чІачІ,CyrillTrans,penis,,,"mitʼi, matʼa, čʼačʼ",Phonemic
+4-490-56-1,lakk1252,Lak,797,вичи,CyrillTrans,testicle,,,wiči,Phonemic
+4-470-56-1,lakk1252,Lak,804,оьрчІа-къатта,CyrillTrans,womb,,,oˁrčʼa-Gat̄a,Phonemic
+4-464-56-1,lakk1252,Lak,834,ганз жира,CyrillTrans,buttocks,,,ganz žira,Phonemic
+4-463-56-1,lakk1252,Lak,1745,жира,CyrillTrans,hip,,,žira,Phonemic
+4-462-56-1,lakk1252,Lak,1681,лялу,CyrillTrans,waist,,,laˁlu,Phonemic
+4-461-56-1,lakk1252,Lak,1991,ххютту-ка,CyrillTrans,"intestines, guts",,,x̄oˁt̄u-ka,Phonemic
+4-460-56-1,lakk1252,Lak,819,цІуму,CyrillTrans,stomach,,,"cʼumu, laˁqʼa",Phonemic
+4-460-56-3,lakk1252,Lak,819,лякьа,CyrillTrans,stomach,,,"cʼumu, laˁqʼa",Phonemic
+4-452-56-1,lakk1252,Lak,1744,кьучІ,CyrillTrans,spleen,,,qʼučʼ,Phonemic
+4-451-56-1,lakk1252,Lak,489,ччарлу,CyrillTrans,kidney,,,č̄arlu,Phonemic
+4-450-56-1,lakk1252,Lak,1224,ттиликІ,CyrillTrans,liver,,,t̄ilikʼ,Phonemic
+4-441-56-1,lakk1252,Lak,688,гьутру,CyrillTrans,lung,,,hutru,Phonemic
+4-440-56-1,lakk1252,Lak,1223,къюкІ,CyrillTrans,heart,,,Goˁkʼ,Phonemic
+4-430-56-1,lakk1252,Lak,1838,цІумуккутІ,CyrillTrans,navel,,,cʼumuk̄utʼ,Phonemic
+4-420-56-1,lakk1252,Lak,154,къар,CyrillTrans,udder,,,"Gar, Gwar",Phonemic
+4-420-56-3,lakk1252,Lak,154,къвар,CyrillTrans,udder,,,"Gar, Gwar",Phonemic
+4-412-56-1,lakk1252,Lak,796,мазу,CyrillTrans,"nipple, teat",,,mazu,Phonemic
+4-410-56-1,lakk1252,Lak,1402,ккукку,CyrillTrans,breast (of woman),,,k̄uk̄u,Phonemic
+4-400-56-1,lakk1252,Lak,1592,хъазам,CyrillTrans,chest,,,qazam,Phonemic
+4-393-56-1,lakk1252,Lak,1201,тІиму,CyrillTrans,feather,,,tʼimu,Phonemic
+4-392-56-1,lakk1252,Lak,1257,хъа,CyrillTrans,wing,,,qa,Phonemic
+4-380-56-1,lakk1252,Lak,1389,кІисса (ччаннал),CyrillTrans,toe,,,kʼis̄a (č̄annal),Phonemic
+4-374-56-1,lakk1252,Lak,318,ша,CyrillTrans,footprint,,,ša,Phonemic
+4-372-56-1,lakk1252,Lak,980,никъа,CyrillTrans,heel,,,niGa,Phonemic
+4-371-56-1,lakk1252,Lak,803,бакІччан,CyrillTrans,ankle,,,bakʼč̄an,Phonemic
+4-370-56-1,lakk1252,Lak,1301,чІанччан,CyrillTrans,foot,,,čʼanč̄an,Phonemic
+4-360-56-1,lakk1252,Lak,1371,ник,CyrillTrans,knee,,,nik,Phonemic
+4-351-56-1,lakk1252,Lak,800,жира,CyrillTrans,thigh,,,žira,Phonemic
+4-350-56-1,lakk1252,Lak,1297,ччан,CyrillTrans,leg,,,č̄an,Phonemic
+4-345-56-1,lakk1252,Lak,72,михь,CyrillTrans,claw,,,mix̌,Phonemic
+4-344-56-1,lakk1252,Lak,1258,михь,CyrillTrans,fingernail,,,mix̌,Phonemic
+4-342-56-1,lakk1252,Lak,1781,хъумма кІисса,CyrillTrans,thumb,,,qumma kʼis̄a,Phonemic
+4-340-56-1,lakk1252,Lak,1303,кІисса,CyrillTrans,finger,,,kʼis̄a,Phonemic
+4-331-56-1,lakk1252,Lak,1183,битІянхъ,CyrillTrans,palm of hand,,,bitʼaˁnq,Phonemic
+4-330-56-1,lakk1252,Lak,1277,бартка,CyrillTrans,hand,,,bartka,Phonemic
+4-321-56-1,lakk1252,Lak,799,бартка,CyrillTrans,wrist,,,bartka,Phonemic
+4-320-56-1,lakk1252,Lak,981,ссюрхъ,CyrillTrans,elbow,,,s̄oˁrq,Phonemic
+4-312-56-1,lakk1252,Lak,1886,хъаралалу,CyrillTrans,armpit,,,qaralalu,Phonemic
+4-310-56-1,lakk1252,Lak,1673,ка,CyrillTrans,arm,,,ka,Phonemic
+4-302-56-1,lakk1252,Lak,1994,хъаралу-ккуртта,CyrillTrans,collarbone,,,qaralu-k̄urt̄a,Phonemic
+4-301-56-1,lakk1252,Lak,172,къусаличча,CyrillTrans,shoulderblade,,,Gusalič̄a,Phonemic
+4-300-56-1,lakk1252,Lak,1482,хъачІ,CyrillTrans,shoulder,,,qačʼ,Phonemic
+4-290-56-1,lakk1252,Lak,1346,кьакьари,CyrillTrans,throat,,,qʼaqʼari,Phonemic
+4-281-56-1,lakk1252,Lak,1347,къинтта,CyrillTrans,nape of neck,,,Gint̄a,Phonemic
+4-280-56-1,lakk1252,Lak,1333,ссурссу,CyrillTrans,neck,,,s̄urs̄u,Phonemic
+4-272-56-1,lakk1252,Lak,1049,ккарччи,CyrillTrans,molartooth,,,"k̄arč̄i, x̄utʼi",Phonemic
+4-272-56-3,lakk1252,Lak,1049,ххутІи,CyrillTrans,molartooth,,,"k̄arč̄i, x̄utʼi",Phonemic
+4-270-56-1,lakk1252,Lak,1380,ккарччи,CyrillTrans,tooth,,,k̄arč̄i,Phonemic
+4-271-56-1,lakk1252,Lak,139,синтту,CyrillTrans,gums,,,sint̄u,Phonemic
+4-260-56-1,lakk1252,Lak,1205,маз,CyrillTrans,tongue,,,maz,Phonemic
+4-250-56-1,lakk1252,Lak,478,мурччи,CyrillTrans,lip,,,murč̄i,Phonemic
+4-241-56-1,lakk1252,Lak,73,къеппа,CyrillTrans,beak,,,Geˤp̄a,Phonemic
+4-240-56-1,lakk1252,Lak,674,кьацІ,CyrillTrans,mouth,,,qʼacʼ,Phonemic
+4-232-56-1,lakk1252,Lak,208,оьнцІу,CyrillTrans,mucus (nasal),,,oˁncʼu,Phonemic
+4-231-56-1,lakk1252,Lak,1178,кьункьуккутІ,CyrillTrans,nostril,,,qʼunqʼuk̄utʼ,Phonemic
+4-230-56-1,lakk1252,Lak,1221,май,CyrillTrans,nose,,,may,Phonemic
+4-222-56-1,lakk1252,Lak,32,вичІилул май,CyrillTrans,earwax,,,wičʼilul may,Phonemic
+4-221-56-1,lakk1252,Lak,18,вичІилул уттулу,CyrillTrans,earlobe,,,wičʼilul ut̄ulu,Phonemic
+4-220-56-1,lakk1252,Lak,1247,вичІи,CyrillTrans,ear,,,wičʼi,Phonemic
+4-215-56-1,lakk1252,Lak,1655,йавш икІлан,CyrillTrans,blink,,,yawš ikʼlan,Phonemic
+4-214-56-1,lakk1252,Lak,1540,иттархъен,CyrillTrans,eyelash,,,it̄arqeˁn,Phonemic
+4-213-56-1,lakk1252,Lak,17,иттархъен,CyrillTrans,eyelid,,,it̄arqeˁn,Phonemic
+4-212-56-1,lakk1252,Lak,1173,иттацІани,CyrillTrans,eyebrow,,,it̄acʼani,Phonemic
+4-210-56-1,lakk1252,Lak,1248,йа,CyrillTrans,eye,,,ya,Phonemic
+4-208-56-1,lakk1252,Lak,1730,чІав,CyrillTrans,cheek,,,čʼaw,Phonemic
+4-209-56-1,lakk1252,Lak,1510,лунттубакІ,CyrillTrans,chin,,,lunt̄ubakʼ,Phonemic
+4-205-56-1,lakk1252,Lak,123,ненттабакІ,CyrillTrans,forehead,,,neˁnt̄abakʼ,Phonemic
+4-207-56-1,lakk1252,Lak,798,ххинчу,CyrillTrans,jaw,,,x̄inču,Phonemic
+4-204-56-1,lakk1252,Lak,1560,лажин,CyrillTrans,face,,,lažin,Phonemic
+4-203-56-1,lakk1252,Lak,1583,ня,CyrillTrans,brain,,,naˁ,Phonemic
+4-201-56-1,lakk1252,Lak,1604,пулухалу,CyrillTrans,"side of head, temple",,,puluxalu,Phonemic
+4-202-56-1,lakk1252,Lak,1605,няракъатта,CyrillTrans,skull,,,naˁraGat̄a,Phonemic
+4-200-56-1,lakk1252,Lak,1256,бакІ,CyrillTrans,head,,,bakʼ,Phonemic
+4-191-56-1,lakk1252,Lak,805,бархІ,CyrillTrans,spine,,,"barħ, burħal t̄arkʼ",Phonemic
+4-191-56-3,lakk1252,Lak,805,бурхІал ттаркІ,CyrillTrans,spine,,,"barħ, burħal t̄arkʼ",Phonemic
+4-190-56-1,lakk1252,Lak,1291,ттиликІ,CyrillTrans,back,,,t̄ilikʼ,Phonemic
+4-180-56-1,lakk1252,Lak,1220,магъ,CyrillTrans,tail,,,maɣ,Phonemic
+4-170-56-1,lakk1252,Lak,1393,хъи,CyrillTrans,horn,,,qi,Phonemic
+4-162-56-1,lakk1252,Lak,801,линс,CyrillTrans,rib,,,lins,Phonemic
+4-160-56-1,lakk1252,Lak,1394,ттаркІ,CyrillTrans,bone,,,t̄arkʼ,Phonemic
+4-151-56-1,lakk1252,Lak,525,тунну,CyrillTrans,"vein, artery",,,tunnu,Phonemic
+4-150-56-1,lakk1252,Lak,946,оь,CyrillTrans,blood,,,oˁ,Phonemic
+4-146-56-1,lakk1252,Lak,576,чІачаран,CyrillTrans,dandruff,,,čʼačaran,Phonemic
+4-145-56-1,lakk1252,Lak,36,чІара,CyrillTrans,pubic hair,,,čʼara,Phonemic
+4-144-56-1,lakk1252,Lak,189,чІара,CyrillTrans,body hair,,,čʼara,Phonemic
+4-142-56-1,lakk1252,Lak,678,чІири,CyrillTrans,beard,,,čʼiri,Phonemic
+4-140-56-1,lakk1252,Lak,1040,кІиз,CyrillTrans,hair (head),,,kʼiz,Phonemic
+4-130-56-1,lakk1252,Lak,2259,кьаркьала,CyrillTrans,flesh,,,qʼarqʼala,Phonemic
+4-120-56-1,lakk1252,Lak,763,бурчу,CyrillTrans,"skin, hide",,,"burču, x̄aˁčara",Phonemic
+4-120-56-3,lakk1252,Lak,763,ххячара,CyrillTrans,"skin, hide",,,"burču, x̄aˁčara",Phonemic
+4-110-56-1,lakk1252,Lak,1480,чурх,CyrillTrans,body,,,čurx,Phonemic
+3-980-56-1,lakk1252,Lak,112,макьара оьрватІи,CyrillTrans,turtle,,,maqʼara oˁrwatʼi,Phonemic
+3-970-56-1,lakk1252,Lak,1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-56-1,lakk1252,Lak,632,кьюрщала,CyrillTrans,lizard,,,qʼoˁrš̄ala,Phonemic
+3-950-56-1,lakk1252,Lak,503,оьрватІи,CyrillTrans,frog,,,oˁrwatʼi,Phonemic
+3-940-56-1,lakk1252,Lak,1543,бажана ттукку,CyrillTrans,snail,,,bažana t̄uk̄u,Phonemic
+3-930-56-1,lakk1252,Lak,607,хъацІ,CyrillTrans,grasshopper,,,qacʼ,Phonemic
+3-920-56-1,lakk1252,Lak,1791,чІимучІали,CyrillTrans,butterfly,,,čʼimučʼali,Phonemic
+3-910-56-1,lakk1252,Lak,206,чирахъшатта,CyrillTrans,firefly,,,čiraqšat̄a,Phonemic
+3-850-56-1,lakk1252,Lak,730,шатта,CyrillTrans,snake,,,šat̄a,Phonemic
+3-840-56-1,lakk1252,Lak,1219,шатта,CyrillTrans,worm,,,"šat̄a, qʼakʼi",Phonemic
+3-840-56-3,lakk1252,Lak,1219,кьакІи,CyrillTrans,worm,,,"šat̄a, qʼakʼi",Phonemic
+3-832-56-1,lakk1252,Lak,1509,жимин,CyrillTrans,mosquito,,,"žimin, mičʼak",Phonemic
+3-832-56-3,lakk1252,Lak,1509,мичІак,CyrillTrans,mosquito,,,"žimin, mičʼak",Phonemic
+3-831-56-1,lakk1252,Lak,95,жимин,CyrillTrans,"sandfly (midge), gnat",,,"žimin, mičʼak",Phonemic
+3-831-56-3,lakk1252,Lak,95,мичІак,CyrillTrans,"sandfly (midge), gnat",,,"žimin, mičʼak",Phonemic
+3-830-56-1,lakk1252,Lak,1504,зимиз,CyrillTrans,fly,,,zimiz,Phonemic
+3-823-56-1,lakk1252,Lak,1517,щахха най,CyrillTrans,wasp,,,š̄ax̄a nay,Phonemic
+3-822-56-1,lakk1252,Lak,88,хъурзилу,CyrillTrans,beehive,,,qurzilu,Phonemic
+3-821-56-1,lakk1252,Lak,1931,хъан,CyrillTrans,beeswax,,,qan,Phonemic
+3-820-56-1,lakk1252,Lak,665,най,CyrillTrans,bee,,,nay,Phonemic
+3-819-56-1,lakk1252,Lak,1065,ххялцул чухъа,CyrillTrans,spider web,,,x̄aˁlcul čuqa,Phonemic
+3-818-56-1,lakk1252,Lak,843,ххялцу,CyrillTrans,spider,,,x̄aˁlcu,Phonemic
+3-817-56-1,lakk1252,Lak,587,митІикьукьу,CyrillTrans,ant,,,mitʼiqʼuqʼu,Phonemic
+3-816-56-1,lakk1252,Lak,1575,гъангъаратІи,CyrillTrans,cockroach,,,ɣanɣaratʼi,Phonemic
+3-815-56-1,lakk1252,Lak,1538,экьрав,CyrillTrans,scorpion,,,eqʼraw,Phonemic
+3-814-56-1,lakk1252,Lak,1974,вичІилувун духху,CyrillTrans,centipede,,,wičʼiluwun dux̄u,Phonemic
+3-813-56-1,lakk1252,Lak,232,чІача,CyrillTrans,flea,,,čʼača,Phonemic
+3-812-56-1,lakk1252,Lak,267,тІу,CyrillTrans,nit (louse egg),,,tʼu,Phonemic
+3-811-56-1,lakk1252,Lak,1392,нацІ,CyrillTrans,louse,,,nacʼ,Phonemic
+3-810-56-1,lakk1252,Lak,620,щулгъи,CyrillTrans,insect,,,š̄ulɣi,Phonemic
+3-780-56-1,lakk1252,Lak,1871,варани,CyrillTrans,camel,,,warani,Phonemic
+3-770-56-1,lakk1252,Lak,1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-56-1,lakk1252,Lak,1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-56-1,lakk1252,Lak,1936,бюрни,CyrillTrans,deer,,,"boˁrni, hinta",Phonemic
+3-750-56-3,lakk1252,Lak,1936,гьинта,CyrillTrans,deer,,,"boˁrni, hinta",Phonemic
+3-740-56-1,lakk1252,Lak,1312,цулчІа,CyrillTrans,fox,,,culčʼa,Phonemic
+3-730-56-1,lakk1252,Lak,1820,цуша,CyrillTrans,bear,,,cuša,Phonemic
+3-720-56-1,lakk1252,Lak,1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-56-1,lakk1252,Lak,522,барцІ,CyrillTrans,wolf,,,barcʼ,Phonemic
+3-663-56-1,lakk1252,Lak,957,кит,CyrillTrans,whale,,,"kit, Gurtma",Phonemic
+3-663-56-3,lakk1252,Lak,957,къуртма,CyrillTrans,whale,,,"kit, Gurtma",Phonemic
+3-662-56-1,lakk1252,Lak,1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-56-1,lakk1252,Lak,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-56-1,lakk1252,Lak,598,балугънал вичІи,CyrillTrans,shell,,,baluɣnal wič’i,Phonemic
+3-653-56-1,lakk1252,Lak,266,балугънал бурчу,CyrillTrans,fishscale,,,baluɣnal burču,Phonemic
+3-652-56-1,lakk1252,Lak,213,балугънал хъа,CyrillTrans,fin (dorsal),,,baluɣnal qa,Phonemic
+3-650-56-1,lakk1252,Lak,227,чавахъ,CyrillTrans,fish,,,"čawaq, baluɣ, ħawa",Phonemic
+3-650-56-3,lakk1252,Lak,227,балугъ,CyrillTrans,fish,,,"čawaq, baluɣ, ħawa",Phonemic
+3-650-56-5,lakk1252,Lak,227,хІава,CyrillTrans,fish,,,"čawaq, baluɣ, ħawa",Phonemic
+3-630-56-1,lakk1252,Lak,2139,кІулу,CyrillTrans,"mouse, rat",,,"kʼulu, Gulč̄a kʼulu",Phonemic
+3-630-56-3,lakk1252,Lak,2139,къулчча кІулу,CyrillTrans,"mouse, rat",,,"kʼulu, Gulč̄a kʼulu",Phonemic
+3-620-56-1,lakk1252,Lak,1208,ччиту,CyrillTrans,cat,,,č̄itu,Phonemic
+3-614-56-1,lakk1252,Lak,1136,бюрх,CyrillTrans,rabbit,,,boˁrx,Phonemic
+3-610-56-1,lakk1252,Lak,2009,ккаччи,CyrillTrans,dog,,,k̄ač̄i,Phonemic
+3-594-56-1,lakk1252,Lak,1853,хьхьи,CyrillTrans,dove,,,x̌̄i,Phonemic
+3-596-56-1,lakk1252,Lak,735,ису,CyrillTrans,owl,,,"isu, č̄ik̄umaˁw",Phonemic
+3-596-56-3,lakk1252,Lak,735,ччиккумяв,CyrillTrans,owl,,,"isu, č̄ik̄umaˁw",Phonemic
+3-593-56-1,lakk1252,Lak,913,хъатІу,CyrillTrans,crow,,,qatʼu,Phonemic
+3-592-56-1,lakk1252,Lak,882,тутукъуш,CyrillTrans,parrot,,,tutuGuš,Phonemic
+3-591-56-1,lakk1252,Lak,1793,ххячара чІелму,CyrillTrans,bat,,,x̄aˁčara čʼeˁlmu,Phonemic
+3-586-56-1,lakk1252,Lak,1185,барзу,CyrillTrans,vulture,,,barzu,Phonemic
+3-585-56-1,lakk1252,Lak,307,къарчигъай,CyrillTrans,hawk,,,"Garčiɣay, lačin",Phonemic
+3-585-56-3,lakk1252,Lak,307,лачин,CyrillTrans,hawk,,,"Garčiɣay, lačin",Phonemic
+3-584-56-1,lakk1252,Lak,1905,барзу,CyrillTrans,eagle,,,barzu,Phonemic
+3-582-56-1,lakk1252,Lak,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-56-1,lakk1252,Lak,758,хъунмасса лелуххи,CyrillTrans,heron,,,qunmas̄a leˁlux̄i,Phonemic
+3-581-56-1,lakk1252,Lak,937,лелуххи,CyrillTrans,bird,,,leˁlux̄i,Phonemic
+3-580-56-1,lakk1252,Lak,539,кюру,CyrillTrans,nest,,,koˁru,Phonemic
+3-570-56-1,lakk1252,Lak,1360,урдак,CyrillTrans,duck,,,urdak,Phonemic
+3-560-56-1,lakk1252,Lak,1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-56-1,lakk1252,Lak,1318,аьнакІул оьрчІ,CyrillTrans,chicken,,,aˁnakʼul oˁrčʼ,Phonemic
+3-540-56-1,lakk1252,Lak,1514,аьнакІи,CyrillTrans,hen,,,aˁnakʼi,Phonemic
+3-520-56-1,lakk1252,Lak,1511,ажари,CyrillTrans,"cock, rooster",,,ažari,Phonemic
+3-470-56-1,lakk1252,Lak,890,вилцІун,CyrillTrans,mule,,,wilcʼun,Phonemic
+3-500-56-1,lakk1252,Lak,265,ажари-аьнакІи,CyrillTrans,fowl,,,ažari-aˁnakʼi,Phonemic
+3-460-56-1,lakk1252,Lak,1862,ттукку,CyrillTrans,"ass, donkey",,,t̄uk̄u,Phonemic
+3-450-56-1,lakk1252,Lak,1647,тяй,CyrillTrans,"foal, colt",,,taˁy,Phonemic
+3-440-56-1,lakk1252,Lak,938,ккацца,CyrillTrans,mare,,,k̄ac̄a,Phonemic
+3-420-56-1,lakk1252,Lak,936,айгъур,CyrillTrans,stallion,,,ayɣur,Phonemic
+3-410-56-1,lakk1252,Lak,615,чу,CyrillTrans,horse (equine),,,ču,Phonemic
+3-380-56-1,lakk1252,Lak,1972,гада,CyrillTrans,kid,,,gada,Phonemic
+3-370-56-1,lakk1252,Lak,264,кьяца,CyrillTrans,he-goat,,,qʼaˁca,Phonemic
+3-360-56-1,lakk1252,Lak,1502,цІуку,CyrillTrans,goat,,,cʼuku,Phonemic
+3-350-56-1,lakk1252,Lak,1337,дунгъуз,CyrillTrans,pig,,,dunɣuz,Phonemic
+3-340-56-1,lakk1252,Lak,1351,дунгъуз,CyrillTrans,sow (2),,,dunɣuz,Phonemic
+3-320-56-1,lakk1252,Lak,1348,къаван,CyrillTrans,boar,,,Gawan,Phonemic
+3-290-56-1,lakk1252,Lak,820,чІи,CyrillTrans,lamb,,,čʼi,Phonemic
+3-280-56-1,lakk1252,Lak,1345,тта,CyrillTrans,ewe,,,t̄a,Phonemic
+3-260-56-1,lakk1252,Lak,1344,ку,CyrillTrans,ram,,,ku,Phonemic
+3-250-56-1,lakk1252,Lak,1331,йатта,CyrillTrans,sheep,,,"yat̄a, ku",Phonemic
+3-250-56-3,lakk1252,Lak,1331,ку,CyrillTrans,sheep,,,"yat̄a, ku",Phonemic
+3-240-56-1,lakk1252,Lak,1989,бярч,CyrillTrans,calf,,,baˁrč,Phonemic
+3-230-56-1,lakk1252,Lak,1007,оьл,CyrillTrans,cow,,,oˁl,Phonemic
+3-220-56-1,lakk1252,Lak,1169,ниц,CyrillTrans,ox,,,nic,Phonemic
+3-210-56-1,lakk1252,Lak,1008,ниц,CyrillTrans,bull,,,"nic, buɣa",Phonemic
+3-210-56-3,lakk1252,Lak,1008,бугъа,CyrillTrans,bull,,,"nic, buɣa",Phonemic
+3-200-56-1,lakk1252,Lak,1153,ризкьи,CyrillTrans,cattle (bovine),,,rizqʼi,Phonemic
+3-190-56-1,lakk1252,Lak,851,тІуну,CyrillTrans,"stable, stall",,,tʼunu,Phonemic
+3-180-56-1,lakk1252,Lak,263,хІухчу,CyrillTrans,herdsman,,,ħuxču,Phonemic
+3-160-56-1,lakk1252,Lak,649,гъаттара уртту,CyrillTrans,pasture,,,ɣat̄ara urt̄u,Phonemic
+3-150-56-1,lakk1252,Lak,631,гъаттара,CyrillTrans,livestock,,,ɣat̄ara,Phonemic
+3-130-56-1,lakk1252,Lak,2262,хъаннил,CyrillTrans,female (adj),,,qannil,Phonemic
+3-120-56-1,lakk1252,Lak,2261,арантурал,CyrillTrans,male (adj),,,arantural,Phonemic
+3-110-56-1,lakk1252,Lak,619,хІайван,CyrillTrans,animal,,,ħaywan,Phonemic
+2-960-56-1,lakk1252,Lak,817,гай,CyrillTrans,they,,,"gay, tay",Phonemic
+2-960-56-3,lakk1252,Lak,817,тай,CyrillTrans,they,,,"gay, tay",Phonemic
+2-950-56-1,lakk1252,Lak,1213,зу,CyrillTrans,you (plural),,,zu,Phonemic
+2-940-56-1,lakk1252,Lak,1212,жу,CyrillTrans,we,,,žu,Phonemic
+2-930-56-1,lakk1252,Lak,262,та(га),CyrillTrans,he/she/it,,,"ta(ga), wa(mu)",Phonemic
+2-930-56-3,lakk1252,Lak,262,ва(му),CyrillTrans,he/she/it,,,"ta(ga), wa(mu)",Phonemic
+2-920-56-1,lakk1252,Lak,1215,ина,CyrillTrans,you (singular),,,ina,Phonemic
+2-910-56-1,lakk1252,Lak,1209,на,CyrillTrans,I,,,na,Phonemic
+2-820-56-1,lakk1252,Lak,194,кулпат,CyrillTrans,family,,,kulpat,Phonemic
+2-810-56-1,lakk1252,Lak,1644,ляхъин,CyrillTrans,"relatives, kinsmen",,,laˁqin,Phonemic
+2-770-56-1,lakk1252,Lak,1981,курчІучу,CyrillTrans,widower,,,kurčʼuču,Phonemic
+2-760-56-1,lakk1252,Lak,1756,курчІущар,CyrillTrans,widow,,,kurčʼuš̄ar,Phonemic
+2-750-56-1,lakk1252,Lak,1149,йатин,CyrillTrans,orphan,,,yatin,Phonemic
+2-740-56-1,lakk1252,Lak,1058,лув душ,CyrillTrans,stepdaughter,,,luw duš,Phonemic
+2-730-56-1,lakk1252,Lak,1059,лув арс,CyrillTrans,stepson,,,luw ars,Phonemic
+2-720-56-1,lakk1252,Lak,236,дяркъун нину,CyrillTrans,stepmother,,,daˁrGun ninu,Phonemic
+2-710-56-1,lakk1252,Lak,237,аьвкъун ппу,CyrillTrans,stepfather,,,aˁwGun p̄u,Phonemic
+2-641-56-1,lakk1252,Lak,2264,арснал щар,CyrillTrans,daughter-in-law (of a woman),,,"arsnal š̄ar, us̄il š̄ar",Phonemic
+2-641-56-3,lakk1252,Lak,2264,уссил щар,CyrillTrans,daughter-in-law (of a woman),,,"arsnal š̄ar, us̄il š̄ar",Phonemic
+2-640-56-1,lakk1252,Lak,2265,арснал щар,CyrillTrans,daughter-in-law (of a man),,,arsnal š̄ar,Phonemic
+2-631-56-1,lakk1252,Lak,2266,куйав,CyrillTrans,son-in-law (of a woman),,,kuyaw,Phonemic
+2-630-56-1,lakk1252,Lak,2267,куйав,CyrillTrans,son-in-law (of a man),,,kuyaw,Phonemic
+2-621-56-1,lakk1252,Lak,2257,щарнил нину,CyrillTrans,mother-in-law (of a woman),,,š̄arnil ninu,Phonemic
+2-620-56-1,lakk1252,Lak,2256,ласнал нину,CyrillTrans,mother-in-law (of a man),,,lasnal ninu,Phonemic
+2-611-56-1,lakk1252,Lak,2254,щарнил ппу,CyrillTrans,father-in-law (of a woman),,,š̄arnil p̄u,Phonemic
+2-610-56-1,lakk1252,Lak,2255,ласнал ппу,CyrillTrans,father-in-law (of a man),,,lasnal p̄u,Phonemic
+2-570-56-1,lakk1252,Lak,490,авлад,CyrillTrans,descendants,,,awlad,Phonemic
+2-550-56-1,lakk1252,Lak,1643,ссурахъу,CyrillTrans,cousin,,,"s̄uraqu, s̄uraquls̄u",Phonemic
+2-550-56-3,lakk1252,Lak,1643,ссурахъулссу,CyrillTrans,cousin,,,"s̄uraqu, s̄uraquls̄u",Phonemic
+2-540-56-1,lakk1252,Lak,1642,(у)ссил душ,CyrillTrans,niece,,,(u)s̄il duš,Phonemic
+2-530-56-1,lakk1252,Lak,1063,(у)ссил оьрчІ,CyrillTrans,nephew,,,(u)s̄il oˁrčʼ,Phonemic
+2-522-56-1,lakk1252,Lak,170,буттал ссу,CyrillTrans,father's sister,,,but̄al s̄u,Phonemic
+2-520-56-1,lakk1252,Lak,1272,уссу,CyrillTrans,aunt,,,us̄u,Phonemic
+2-521-56-1,lakk1252,Lak,171,ниттил ссу,CyrillTrans,mother's sister,,,nit̄il s̄u,Phonemic
+2-512-56-1,lakk1252,Lak,1985,буттауссу,CyrillTrans,father's brother,,,but̄aus̄u,Phonemic
+2-511-56-1,lakk1252,Lak,1984,ниттиуссу,CyrillTrans,mother's brother,,,nit̄ius̄u,Phonemic
+2-510-56-1,lakk1252,Lak,1327,уссу,CyrillTrans,uncle,,,us̄u,Phonemic
+2-480-56-1,lakk1252,Lak,1618,арснал арс,CyrillTrans,grandson,,,"arsnal ars, dušnil ars",Phonemic
+2-480-56-3,lakk1252,Lak,1618,душнил арс,CyrillTrans,grandson,,,"arsnal ars, dušnil ars",Phonemic
+2-490-56-1,lakk1252,Lak,1619,арснал душ,CyrillTrans,granddaughter,,,"arsnal duš, dušnil duš",Phonemic
+2-490-56-3,lakk1252,Lak,1619,душнил душ,CyrillTrans,granddaughter,,,"arsnal duš, dušnil duš",Phonemic
+2-471-56-1,lakk1252,Lak,907,къари,CyrillTrans,old woman,,,Gari,Phonemic
+2-470-56-1,lakk1252,Lak,1496,буттал нину,CyrillTrans,grandmother,,,"but̄al ninu, nit̄il ninu",Phonemic
+2-470-56-3,lakk1252,Lak,1496,ниттил нину,CyrillTrans,grandmother,,,"but̄al ninu, nit̄il ninu",Phonemic
+2-461-56-1,lakk1252,Lak,406,къужа,CyrillTrans,old man,,,Guža,Phonemic
+2-460-56-1,lakk1252,Lak,1383,буттал ппу,CyrillTrans,grandfather,,,"but̄al p̄u, nit̄il p̄u",Phonemic
+2-460-56-3,lakk1252,Lak,1383,ниттил ппу,CyrillTrans,grandfather,,,"but̄al p̄u, nit̄il p̄u",Phonemic
+2-458-56-1,lakk1252,Lak,1005,кІинничалт,CyrillTrans,twins,,,kʼinničalt,Phonemic
+2-456-56-1,lakk1252,Lak,1640,уссу,CyrillTrans,sibling,,,"us̄u, s̄u",Phonemic
+2-456-56-3,lakk1252,Lak,1640,ссу,CyrillTrans,sibling,,,"us̄u, s̄u",Phonemic
+2-455-56-1,lakk1252,Lak,1761,чІивимур ссу,CyrillTrans,younger sister,,,čʼiwimur s̄u,Phonemic
+2-454-56-1,lakk1252,Lak,1758,хъунмур ссу,CyrillTrans,older sister,,,qunmur s̄u,Phonemic
+2-450-56-1,lakk1252,Lak,1263,ссу,CyrillTrans,sister,,,s̄u,Phonemic
+2-445-56-1,lakk1252,Lak,1760,чІивима уссу,CyrillTrans,younger brother,,,čʼiwima us̄u,Phonemic
+2-444-56-1,lakk1252,Lak,1759,хъунама уссу,CyrillTrans,older brother,,,qunama us̄u,Phonemic
+2-440-56-1,lakk1252,Lak,1262,уссу,CyrillTrans,brother,,,us̄u,Phonemic
+2-430-56-1,lakk1252,Lak,1801,наслу,CyrillTrans,offspring (son or daughter),,,naslu,Phonemic
+2-420-56-1,lakk1252,Lak,1357,душ,CyrillTrans,daughter,,,duš,Phonemic
+2-410-56-1,lakk1252,Lak,1620,арс,CyrillTrans,son,,,ars,Phonemic
+2-390-56-1,lakk1252,Lak,426,щар хьусса,CyrillTrans,married woman,,,š̄ar x̌us̄a,Phonemic
+2-380-56-1,lakk1252,Lak,424,щар дурцусса,CyrillTrans,married man,,,š̄ar durcus̄a,Phonemic
+2-370-56-1,lakk1252,Lak,505,нину-ппу,CyrillTrans,parents,,,ninu-p̄u,Phonemic
+2-360-56-1,lakk1252,Lak,1216,нину,CyrillTrans,mother,,,ninu,Phonemic
+2-350-56-1,lakk1252,Lak,1217,ппу,CyrillTrans,father,,,p̄u,Phonemic
+2-341-56-1,lakk1252,Lak,1134,(магьар) личІибаву,CyrillTrans,divorce,,,(mahar) ličʼibawu,Phonemic
+2-340-56-1,lakk1252,Lak,1259,хъатІи,CyrillTrans,"marriage, wedding",,,"qatʼi, tašu",Phonemic
+2-340-56-3,lakk1252,Lak,1259,ташу,CyrillTrans,"marriage, wedding",,,"qatʼi, tašu",Phonemic
+2-330-56-1,lakk1252,Lak,203,щар дуцин,CyrillTrans,marry,,,"š̄ar ducin, š̄ar x̌un",Phonemic
+2-330-56-3,lakk1252,Lak,203,щар хьун,CyrillTrans,marry,,,"š̄ar ducin, š̄ar x̌un",Phonemic
+2-320-56-1,lakk1252,Lak,1199,щарсса,CyrillTrans,wife,,,š̄ars̄a,Phonemic
+2-310-56-1,lakk1252,Lak,1200,лас,CyrillTrans,husband,,,las,Phonemic
+2-280-56-1,lakk1252,Lak,1289,оьрчІ,CyrillTrans,"infant, baby",,,oˁrčʼ,Phonemic
+2-270-56-1,lakk1252,Lak,1304,оьрчІ,CyrillTrans,child,,,oˁrčʼ,Phonemic
+2-261-56-1,lakk1252,Lak,77,душ,CyrillTrans,young woman (adolescent),,,duš,Phonemic
+2-260-56-1,lakk1252,Lak,1646,душ,CyrillTrans,girl,,,duš,Phonemic
+2-251-56-1,lakk1252,Lak,76,жагьил,CyrillTrans,young man (adolescent),,,žahil,Phonemic
+2-250-56-1,lakk1252,Lak,1366,оьрчІ,CyrillTrans,boy,,,oˁrčʼ,Phonemic
+2-240-56-1,lakk1252,Lak,1551,ццумур,CyrillTrans,female,,,c̄umur,Phonemic
+2-230-56-1,lakk1252,Lak,1553,бурхьнимур,CyrillTrans,male,,,burx̌nimur,Phonemic
+2-220-56-1,lakk1252,Lak,962,щарсса,CyrillTrans,woman,,,š̄ars̄a,Phonemic
+2-210-56-1,lakk1252,Lak,1554,адимина,CyrillTrans,man (vs. woman),,,adimina,Phonemic
+2-100-56-1,lakk1252,Lak,683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-56-1,lakk1252,Lak,1188,тІаннул кІалаш,CyrillTrans,charcoal,,,tʼannul kʼalaš,Phonemic
+1-880-56-1,lakk1252,Lak,10,тІама,CyrillTrans,firewood,,,tʼama,Phonemic
+1-870-56-1,lakk1252,Lak,1133,кирпит,CyrillTrans,match (noun),,,"kirpit, pilta",Phonemic
+1-870-56-3,lakk1252,Lak,1133,пилта,CyrillTrans,match (noun),,,"kirpit, pilta",Phonemic
+1-861-56-1,lakk1252,Lak,127,лещан,CyrillTrans,extinguish,,,leš̄an,Phonemic
+1-860-56-1,lakk1252,Lak,737,ччучлан,CyrillTrans,"light, kindle, ignite",,,č̄učlan,Phonemic
+1-852-56-1,lakk1252,Lak,1428,ччучлан,CyrillTrans,burn (vb intrans),,,č̄učlan,Phonemic
+1-851-56-1,lakk1252,Lak,141,ччучлан,CyrillTrans,burn (vb trans),,,č̄učlan,Phonemic
+1-841-56-1,lakk1252,Lak,67,тІаннул кІалаш,CyrillTrans,embers,,,tʼannul kʼalaš,Phonemic
+1-840-56-1,lakk1252,Lak,646,лах,CyrillTrans,ashes,,,lax,Phonemic
+1-830-56-1,lakk1252,Lak,778,пуркІу,CyrillTrans,smoke (noun),,,purkʼu,Phonemic
+1-820-56-1,lakk1252,Lak,889,лама,CyrillTrans,flame (noun),,,lama,Phonemic
+1-810-56-1,lakk1252,Lak,221,цІу,CyrillTrans,fire,,,cʼu,Phonemic
+1-780-56-1,lakk1252,Lak,952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-56-1,lakk1252,Lak,617,пюрунмикІ,CyrillTrans,ice,,,poˁrunmikʼ,Phonemic
+1-760-56-1,lakk1252,Lak,784,марххала,CyrillTrans,snow (noun),,,marx̄ala,Phonemic
+1-750-56-1,lakk1252,Lak,658,гъарал,CyrillTrans,rain (noun),,,ɣaral,Phonemic
+1-740-56-1,lakk1252,Lak,249,шархьттурлу,CyrillTrans,fog,,,šarx̌t̄urlu,Phonemic
+1-720-56-1,lakk1252,Lak,960,марч,CyrillTrans,wind,,,marč,Phonemic
+1-730-56-1,lakk1252,Lak,1489,ттурлу,CyrillTrans,cloud,,,t̄urlu,Phonemic
+1-710-56-1,lakk1252,Lak,27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-56-1,lakk1252,Lak,1977,хьхьем,CyrillTrans,dew,,,x̌̄em,Phonemic
+1-630-56-1,lakk1252,Lak,1388,ххют,CyrillTrans,"shade, shadow",,,x̄oˁt,Phonemic
+1-620-56-1,lakk1252,Lak,11,цІан,CyrillTrans,darkness,,,cʼan,Phonemic
+1-610-56-1,lakk1252,Lak,630,чани,CyrillTrans,light (noun),,,čani,Phonemic
+1-590-56-1,lakk1252,Lak,1733,ссурул ккуртта,CyrillTrans,rainbow,,,s̄urul k̄urt̄a,Phonemic
+1-580-56-1,lakk1252,Lak,858,марч,CyrillTrans,storm,,,marč,Phonemic
+1-560-56-1,lakk1252,Lak,1150,къув,CyrillTrans,thunder,,,Guw,Phonemic
+1-570-56-1,lakk1252,Lak,2007,цІупар,CyrillTrans,lightning (as striking),,,cʼupar,Phonemic
+1-550-56-1,lakk1252,Lak,1654,цІупар,CyrillTrans,lightning,,,cʼupar,Phonemic
+1-540-56-1,lakk1252,Lak,1430,цІуку,CyrillTrans,star,,,cʼuku,Phonemic
+1-530-56-1,lakk1252,Lak,1313,барз,CyrillTrans,moon,,,barz,Phonemic
+1-520-56-1,lakk1252,Lak,1343,баргъ,CyrillTrans,sun,,,barɣ,Phonemic
+1-510-56-1,lakk1252,Lak,1732,ссав,CyrillTrans,sky,,,s̄aw,Phonemic
+1-450-56-1,lakk1252,Lak,6,дунийал сукку шаву,CyrillTrans,earthquake,,,"duniyal suk̄u šawu, zarzala",Phonemic
+1-450-56-3,lakk1252,Lak,6,зарзала,CyrillTrans,earthquake,,,"duniyal suk̄u šawu, zarzala",Phonemic
+1-440-56-1,lakk1252,Lak,2125,чару,CyrillTrans,"stone, rock",,,"čaru, x̄aˁli",Phonemic
+1-440-56-3,lakk1252,Lak,2125,ххяли,CyrillTrans,"stone, rock",,,"čaru, x̄aˁli",Phonemic
+1-430-56-1,lakk1252,Lak,1803,тІама,CyrillTrans,wood,,,tʼama,Phonemic
+1-420-56-1,lakk1252,Lak,906,мурхь,CyrillTrans,tree (cf 08.600),,,murx̌,Phonemic
+1-410-56-1,lakk1252,Lak,420,вацІа,CyrillTrans,"woods, forest",,,wacʼa,Phonemic
+1-390-56-1,lakk1252,Lak,943,чйух,CyrillTrans,waterfall,,,čyux,Phonemic
+1-380-56-1,lakk1252,Lak,1145,кунцІа,CyrillTrans,swamp,,,kuncʼa,Phonemic
+1-370-56-1,lakk1252,Lak,2144,щаращи,CyrillTrans,"spring, well",,,"š̄araš̄i, Guy",Phonemic
+1-370-56-3,lakk1252,Lak,2144,къуй,CyrillTrans,"spring, well",,,"š̄araš̄i, Guy",Phonemic
+1-362-56-1,lakk1252,Lak,1982,кІурглу,CyrillTrans,whirlpool,,,kʼurglu,Phonemic
+1-360-56-1,lakk1252,Lak,666,нех,CyrillTrans,"river, stream, brook",,,"neˁx, čʼiri neˁx",Phonemic
+1-360-56-3,lakk1252,Lak,666,чІири нех,CyrillTrans,"river, stream, brook",,,"neˁx, čʼiri neˁx",Phonemic
+1-350-56-1,lakk1252,Lak,978,щатІи,CyrillTrans,wave,,,š̄atʼi,Phonemic
+1-330-56-1,lakk1252,Lak,624,бяр,CyrillTrans,lake,,,baˁr,Phonemic
+1-329-56-1,lakk1252,Lak,645,кьамус,CyrillTrans,ocean,,,"qʼamus, akeʕan",Phonemic
+1-329-56-3,lakk1252,Lak,645,акеан,CyrillTrans,ocean,,,"qʼamus, akeʕan",Phonemic
+1-324-56-1,lakk1252,Lak,1768,хьама,CyrillTrans,foam,,,x̌ama,Phonemic
+1-323-56-1,lakk1252,Lak,259,гьалаксса,CyrillTrans,rough (of sea),,,halaks̄a,Phonemic
+1-320-56-1,lakk1252,Lak,1474,хьхьири,CyrillTrans,sea,,,x̌̄iri,Phonemic
+1-322-56-1,lakk1252,Lak,258,паракьатсса,CyrillTrans,calm (of sea),,,paraqʼats̄a,Phonemic
+1-310-56-1,lakk1252,Lak,948,щин,CyrillTrans,water,,,š̄in,Phonemic
+1-280-56-1,lakk1252,Lak,1155,нух,CyrillTrans,cave,,,nux,Phonemic
+1-270-56-1,lakk1252,Lak,113,зума,CyrillTrans,shore,,,zuma,Phonemic
+1-260-56-1,lakk1252,Lak,166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-56-1,lakk1252,Lak,622,жазира,CyrillTrans,island,,,žazira,Phonemic
+1-240-56-1,lakk1252,Lak,921,ар,CyrillTrans,valley,,,ar,Phonemic
+1-230-56-1,lakk1252,Lak,652,кьан,CyrillTrans,"plain, field",,,"qʼan, ar, čul, qu",Phonemic
+1-230-56-3,lakk1252,Lak,652,ар,CyrillTrans,"plain, field",,,"qʼan, ar, čul, qu",Phonemic
+1-230-56-5,lakk1252,Lak,652,чул,CyrillTrans,"plain, field",,,"qʼan, ar, čul, qu",Phonemic
+1-230-56-7,lakk1252,Lak,652,хъу,CyrillTrans,"plain, field",,,"qʼan, ar, čul, qu",Phonemic
+1-222-56-1,lakk1252,Lak,618,ххяли,CyrillTrans,"cliff, precipice",,,"x̄aˁli, murlu",Phonemic
+1-222-56-3,lakk1252,Lak,618,мурлу,CyrillTrans,"cliff, precipice",,,"x̄aˁli, murlu",Phonemic
+1-220-56-1,lakk1252,Lak,2118,зунтту,CyrillTrans,"mountain, hill",,,"zunt̄u, bakʼu",Phonemic
+1-220-56-3,lakk1252,Lak,2118,бакІу,CyrillTrans,"mountain, hill",,,"zunt̄u, bakʼu",Phonemic
+1-214-56-1,lakk1252,Lak,640,кьяркьи,CyrillTrans,mud,,,qʼaˁrqʼi,Phonemic
+1-215-56-1,lakk1252,Lak,671,къун,CyrillTrans,sand,,,Gun,Phonemic
+1-213-56-1,lakk1252,Lak,2,лах,CyrillTrans,dust,,,lax,Phonemic
+1-212-56-1,lakk1252,Lak,1228,аьрщи,CyrillTrans,"earth=ground, soil",,,"aˁrš̄i, qʼiri",Phonemic
+1-212-56-3,lakk1252,Lak,1228,кьири,CyrillTrans,"earth=ground, soil",,,"aˁrš̄i, qʼiri",Phonemic
+1-210-56-1,lakk1252,Lak,626,аьрщи,CyrillTrans,"earth, land",,,"aˁrš̄i, bilayat",Phonemic
+1-210-56-3,lakk1252,Lak,626,билайат,CyrillTrans,"earth, land",,,"aˁrš̄i, bilayat",Phonemic
+1-100-56-1,lakk1252,Lak,965,дунийал,CyrillTrans,world,,,duniyal,Phonemic
+14-330-56-1,lakk1252,Lak,1544,ца-ца чІумал,CyrillTrans,sometimes,,,ca-ca čʼumal,Phonemic
+14-331-56-1,lakk1252,Lak,703,цакуну,CyrillTrans,soon,,,cakunu,Phonemic
+14-332-56-1,lakk1252,Lak,418,хъунмасса хІаллайсса,CyrillTrans,long-time (for a),,,qunmas̄a ħallays̄a,Phonemic
+14-340-56-1,lakk1252,Lak,1656,тачІав,CyrillTrans,never,,,tačʼaw,Phonemic
+14-350-56-1,lakk1252,Lak,204,уттигу,CyrillTrans,again,,,"ut̄igu, cʼunil",Phonemic
+14-350-56-3,lakk1252,Lak,204,цІунил,CyrillTrans,again,,,"ut̄igu, cʼunil",Phonemic
+14-410-56-1,lakk1252,Lak,1225,кьини,CyrillTrans,day,,,qʼini,Phonemic
+14-420-56-1,lakk1252,Lak,1233,хьхьу,CyrillTrans,night,,,x̌̄u,Phonemic
+14-430-56-1,lakk1252,Lak,729,зунзул чани,CyrillTrans,dawn,,,zunzul čani,Phonemic
+14-440-56-1,lakk1252,Lak,1339,кІюрх,CyrillTrans,morning,,,kʼoˁrx,Phonemic
+14-450-56-1,lakk1252,Lak,12,ахттайн чІун,CyrillTrans,"noon, midday",,,axt̄ayn čʼun,Phonemic
+14-451-56-1,lakk1252,Lak,1807,ахттая махъ,CyrillTrans,afternoon,,,axt̄aya maq,Phonemic
+14-460-56-1,lakk1252,Lak,1629,маркІачІан,CyrillTrans,evening,,,markʼačʼan,Phonemic
+14-470-56-1,lakk1252,Lak,1283,хІакьину,CyrillTrans,today,,,ħaqʼinu,Phonemic
+14-480-56-1,lakk1252,Lak,1329,гьунттий,CyrillTrans,tomorrow,,,hunt̄iy,Phonemic
+14-481-56-1,lakk1252,Lak,1179,сарану,CyrillTrans,day-after-tomorrow,,,saranu,Phonemic
+14-490-56-1,lakk1252,Lak,1174,лахьхьу,CyrillTrans,yesterday,,,lax̌̄u,Phonemic
+14-491-56-1,lakk1252,Lak,1180,цархьхьу,CyrillTrans,day-before-yesterday,,,carx̌̄u,Phonemic
+14-510-56-1,lakk1252,Lak,1353,ссят,CyrillTrans,hour,,,s̄aˁt,Phonemic
+14-530-56-1,lakk1252,Lak,1323,ссят,CyrillTrans,"clock, timepiece",,,s̄aˁt,Phonemic
+14-610-56-1,lakk1252,Lak,1469,нютжмар,CyrillTrans,week,,,noˁtžmar,Phonemic
+14-620-56-1,lakk1252,Lak,1699,алхІат (алхІат кьини),CyrillTrans,Sunday,,,alħat (alħat qʼini),Phonemic
+14-630-56-1,lakk1252,Lak,1697,итни (кьини),CyrillTrans,Monday,,,itni (qʼini),Phonemic
+14-640-56-1,lakk1252,Lak,1695,тталат (кьини),CyrillTrans,Tuesday,,,t̄alat (qʼini),Phonemic
+14-650-56-1,lakk1252,Lak,1694,арвахІ (кьини),CyrillTrans,Wednesday,,,arwaħ (qʼini),Phonemic
+14-660-56-1,lakk1252,Lak,1693,хамис (кьини),CyrillTrans,Thursday,,,xamis (qʼini),Phonemic
+14-670-56-1,lakk1252,Lak,1692,нюжмар (кьини),CyrillTrans,Friday,,,noˁžmar (qʼini),Phonemic
+14-680-56-1,lakk1252,Lak,1700,ххуллун (кьини),CyrillTrans,Saturday,,,x̄ullun (qʼini),Phonemic
+14-710-56-1,lakk1252,Lak,1370,барз,CyrillTrans,month,,,barz,Phonemic
+14-730-56-1,lakk1252,Lak,1226,шин,CyrillTrans,year,,,šin,Phonemic
+14-740-56-1,lakk1252,Lak,1471,кІи,CyrillTrans,winter,,,kʼi,Phonemic
+14-750-56-1,lakk1252,Lak,1537,инт,CyrillTrans,spring,,,int,Phonemic
+14-760-56-1,lakk1252,Lak,1342,гъи,CyrillTrans,summer,,,ɣi,Phonemic
+14-770-56-1,lakk1252,Lak,1276,ссут,CyrillTrans,autumn,,,s̄ut,Phonemic
+14-780-56-1,lakk1252,Lak,691,шинул замана,CyrillTrans,season,,,šinul zamana,Phonemic
+15-210-56-1,lakk1252,Lak,1587,кьанкь ришлан,CyrillTrans,smell (vb intrans),,,qʼanqʼ rišlan,Phonemic
+15-212-56-1,lakk1252,Lak,375,ссунтІа тІун,CyrillTrans,sniff,,,s̄untʼa tʼun,Phonemic
+15-220-56-1,lakk1252,Lak,1586,ссунтІа тІун,CyrillTrans,smell (vb trans),,,s̄untʼa tʼun,Phonemic
+15-250-56-1,lakk1252,Lak,376,тІаъаьнсса кьанкь,CyrillTrans,"fragrant, good smelling",,,tʼaʔaˁns̄a qʼanqʼ,Phonemic
+15-260-56-1,lakk1252,Lak,42,цухханну,CyrillTrans,"stinking, bad smelling",,,cux̄annu,Phonemic
+15-310-56-1,lakk1252,Lak,21,тІин,CyrillTrans,taste,,,tʼin,Phonemic
+15-350-56-1,lakk1252,Lak,717,нацІусса,CyrillTrans,sweet,,,nacʼus̄a,Phonemic
+15-360-56-1,lakk1252,Lak,1091,цІу бусса,CyrillTrans,salty,,,cʼu bus̄a,Phonemic
+15-370-56-1,lakk1252,Lak,887,кьурчІисса,CyrillTrans,bitter,,,qʼurčʼis̄a,Phonemic
+15-380-56-1,lakk1252,Lak,1906,туршсса,CyrillTrans,"acid, sour",,,turšs̄a,Phonemic
+15-390-56-1,lakk1252,Lak,70,цІу бусса,CyrillTrans,brackish,,,cʼu bus̄a,Phonemic
+15-410-56-1,lakk1252,Lak,1408,байан,CyrillTrans,hear,,,bayan,Phonemic
+15-420-56-1,lakk1252,Lak,1608,вичІи дихьлан,CyrillTrans,listen,,,wičʼi dix̌lan,Phonemic
+15-440-56-1,lakk1252,Lak,1811,чІу,CyrillTrans,"sound, noise",,,"čʼu, laqs̄a čʼu",Phonemic
+15-440-56-3,lakk1252,Lak,1811,лахъсса чІу,CyrillTrans,"sound, noise",,,"čʼu, laqs̄a čʼu",Phonemic
+15-450-56-1,lakk1252,Lak,377,лахъсса,CyrillTrans,loud,,,laqs̄a,Phonemic
+15-460-56-1,lakk1252,Lak,1314,паракьатсса,CyrillTrans,"quiet, silence",,,"paraqʼats̄a, ħallixs̄a, lahs̄a",Phonemic
+15-460-56-3,lakk1252,Lak,1314,хІаллихсса,CyrillTrans,"quiet, silence",,,"paraqʼats̄a, ħallixs̄a, lahs̄a",Phonemic
+15-460-56-5,lakk1252,Lak,1314,лагьсса,CyrillTrans,"quiet, silence",,,"paraqʼats̄a, ħallixs̄a, lahs̄a",Phonemic
+15-510-56-1,lakk1252,Lak,1409,чІалан,CyrillTrans,see,,,"čʼalan, k̄ak̄an",Phonemic
+15-510-56-3,lakk1252,Lak,1409,ккаккан,CyrillTrans,see,,,"čʼalan, k̄ak̄an",Phonemic
+15-520-56-1,lakk1252,Lak,1819,буруглан,CyrillTrans,"look, look at",,,buruglan,Phonemic
+15-550-56-1,lakk1252,Lak,1039,ккаккан бан,CyrillTrans,show,,,k̄ak̄an ban,Phonemic
+15-560-56-1,lakk1252,Lak,708,чани буллан,CyrillTrans,shine,,,čani bullan,Phonemic
+15-570-56-1,lakk1252,Lak,679,йаргсса,CyrillTrans,bright,,,"yargs̄a, čannas̄a",Phonemic
+15-570-56-3,lakk1252,Lak,679,чаннасса,CyrillTrans,bright,,,"yargs̄a, čannas̄a",Phonemic
+15-610-56-1,lakk1252,Lak,1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-56-1,lakk1252,Lak,250,чаннасса,CyrillTrans,light (in color),,,čannas̄a,Phonemic
+15-630-56-1,lakk1252,Lak,706,цІансса,CyrillTrans,dark (in color),,,cʼans̄a,Phonemic
+15-640-56-1,lakk1252,Lak,1335,кІяласса,CyrillTrans,white,,,kʼaˁlas̄a,Phonemic
+15-650-56-1,lakk1252,Lak,163,лухІисса,CyrillTrans,black,,,luħis̄a,Phonemic
+15-660-56-1,lakk1252,Lak,156,йатІулсса,CyrillTrans,red,,,yatʼuls̄a,Phonemic
+15-670-56-1,lakk1252,Lak,837,(хьхьи-)някІсса,CyrillTrans,blue,,,(x̌̄i-)naˁkʼs̄a,Phonemic
+15-680-56-1,lakk1252,Lak,1425,щюллисса,CyrillTrans,green,,,š̄oˁllis̄a,Phonemic
+15-690-56-1,lakk1252,Lak,1424,хъахъисса,CyrillTrans,yellow,,,qaqis̄a,Phonemic
+15-710-56-1,lakk1252,Lak,1892,ка щун,CyrillTrans,touch,,,ka š̄un,Phonemic
+15-712-56-1,lakk1252,Lak,378,кьипи буцІин,CyrillTrans,pinch,,,"qʼipi bucʼin, layan dullan",Phonemic
+15-712-56-3,lakk1252,Lak,378,лайан дуллан,CyrillTrans,pinch,,,"qʼipi bucʼin, layan dullan",Phonemic
+15-720-56-1,lakk1252,Lak,1079,асар хъанан,CyrillTrans,feel,,,asar qanan,Phonemic
+15-740-56-1,lakk1252,Lak,1884,кьянкьасса,CyrillTrans,hard,,,qʼaˁnqʼas̄a,Phonemic
+15-750-56-1,lakk1252,Lak,1856,кІукІлусса,CyrillTrans,soft,,,kʼukʼlus̄a,Phonemic
+15-760-56-1,lakk1252,Lak,1923,гьарапІарасса,CyrillTrans,rough,,,harapʼaras̄a,Phonemic
+15-770-56-1,lakk1252,Lak,1234,саргъунсса,CyrillTrans,smooth,,,sarɣuns̄a,Phonemic
+15-780-56-1,lakk1252,Lak,1396,дайлсса,CyrillTrans,sharp,,,dayls̄a,Phonemic
+15-790-56-1,lakk1252,Lak,379,къуркъасса,CyrillTrans,"blunt, dull",,,GurGas̄a,Phonemic
+15-810-56-1,lakk1252,Lak,1210,кІусса,CyrillTrans,heavy,,,kʼus̄a,Phonemic
+15-820-56-1,lakk1252,Lak,1052,куклусса,CyrillTrans,light (in weight),,,kuklus̄a,Phonemic
+15-830-56-1,lakk1252,Lak,1726,атилсса,CyrillTrans,"wet, damp",,,atils̄a,Phonemic
+15-840-56-1,lakk1252,Lak,1398,кьавкьсса,CyrillTrans,dry,,,qʼawqʼs̄a,Phonemic
+15-850-56-1,lakk1252,Lak,1286,кІирисса,CyrillTrans,hot,,,kʼiris̄a,Phonemic
+15-851-56-1,lakk1252,Lak,1232,гъелисса,CyrillTrans,warm,,,ɣeˁlis̄a,Phonemic
+15-860-56-1,lakk1252,Lak,1287,дяркъусса,CyrillTrans,cold,,,daˁrGus̄a,Phonemic
+15-870-56-1,lakk1252,Lak,704,марцІсса,CyrillTrans,clean,,,marcʼs̄a,Phonemic
+15-880-56-1,lakk1252,Lak,1230,чапалсса,CyrillTrans,"dirty, soiled",,,čapals̄a,Phonemic
+15-890-56-1,lakk1252,Lak,380,ккуччу хьусса,CyrillTrans,wrinkled,,,"k̄uč̄u x̌us̄a, žig dartʼs̄a",Phonemic
+15-890-56-3,lakk1252,Lak,380,жиг дартІсса,CyrillTrans,wrinkled,,,"k̄uč̄u x̌us̄a, žig dartʼs̄a",Phonemic
+16-110-56-1,lakk1252,Lak,53,рухІ,CyrillTrans,"soul, spirit",,,"ruħ, s̄iħ",Phonemic
+16-110-56-3,lakk1252,Lak,53,ссихІ,CyrillTrans,"soul, spirit",,,"ruħ, s̄iħ",Phonemic
+16-150-56-1,lakk1252,Lak,1572,махІаттал хьусса,CyrillTrans,"surprised, astonished",,,maħat̄al x̌us̄a,Phonemic
+16-180-56-1,lakk1252,Lak,720,тІайлабацІу,CyrillTrans,"good fortune, luck",,,tʼaylabacʼu,Phonemic
+16-190-56-1,lakk1252,Lak,56,мяркьу,CyrillTrans,"misfortune, bad luck",,,maˁrqʼu,Phonemic
+16-230-56-1,lakk1252,Lak,1495,талихІ бусса,CyrillTrans,"joyful, glad, happy",,,"taliħ bus̄a, x̄aris̄a, taˁqas̄a",Phonemic
+16-230-56-3,lakk1252,Lak,1495,ххарисса,CyrillTrans,"joyful, glad, happy",,,"taliħ bus̄a, x̄aris̄a, taˁqas̄a",Phonemic
+16-230-56-5,lakk1252,Lak,1495,тяхъасса,CyrillTrans,"joyful, glad, happy",,,"taliħ bus̄a, x̄aris̄a, taˁqas̄a",Phonemic
+16-250-56-1,lakk1252,Lak,1355,хъян,CyrillTrans,laugh,,,qaˁn,Phonemic
+16-251-56-1,lakk1252,Lak,1451,пиш тІун,CyrillTrans,smile,,,piš tʼun,Phonemic
+16-260-56-1,lakk1252,Lak,1413,тІуркІу тІун,CyrillTrans,play,,,tʼurkʼu tʼun,Phonemic
+16-270-56-1,lakk1252,Lak,923,ххирану бикІан,CyrillTrans,love,,,x̄iranu bikʼan,Phonemic
+16-290-56-1,lakk1252,Lak,578,ппай тІун,CyrillTrans,kiss,,,p̄ay tʼun,Phonemic
+16-300-56-1,lakk1252,Lak,928,хъямала агьан,CyrillTrans,embrace,,,qaˁmala ahan,Phonemic
+16-310-56-1,lakk1252,Lak,1783,цІуцІаву,CyrillTrans,pain,,,cʼucʼawu,Phonemic
+16-320-56-1,lakk1252,Lak,1668,пашманшиву,CyrillTrans,"grief, sorrow, sadness",,,"pašmanšiwu, dard, buruk̄in",Phonemic
+16-320-56-3,lakk1252,Lak,1668,дард,CyrillTrans,"grief, sorrow, sadness",,,"pašmanšiwu, dard, buruk̄in",Phonemic
+16-320-56-5,lakk1252,Lak,1668,буруккин,CyrillTrans,"grief, sorrow, sadness",,,"pašmanšiwu, dard, buruk̄in",Phonemic
+16-330-56-1,lakk1252,Lak,1000,ццахханну,CyrillTrans,"anxiety, worry",,,c̄ax̄annu,Phonemic
+16-340-56-1,lakk1252,Lak,1875,хІайпну икІан,CyrillTrans,"regret, be sorry",,,ħaypnu ikʼan,Phonemic
+16-350-56-1,lakk1252,Lak,1141,цІими,CyrillTrans,pity,,,"cʼimi, ħayp",Phonemic
+16-350-56-3,lakk1252,Lak,1141,хІайп,CyrillTrans,pity,,,"cʼimi, ħayp",Phonemic
+16-370-56-1,lakk1252,Lak,1839,аьтІун,CyrillTrans,"cry, weep",,,aˁtʼun,Phonemic
+16-380-56-1,lakk1252,Lak,1651,макь,CyrillTrans,tear (noun),,,maqʼ,Phonemic
+16-390-56-1,lakk1252,Lak,716,угь-къак тІун,CyrillTrans,groan,,,uh-Gak tʼun,Phonemic
+16-410-56-1,lakk1252,Lak,1607,ккавккун къаччан,CyrillTrans,hate,,,k̄awk̄un Gač̄an,Phonemic
+16-420-56-1,lakk1252,Lak,82,сси,CyrillTrans,anger,,,"s̄i, s̄ibizawu",Phonemic
+16-420-56-3,lakk1252,Lak,82,ссибизаву,CyrillTrans,anger,,,"s̄i, s̄ibizawu",Phonemic
+16-440-56-1,lakk1252,Lak,40,къащи,CyrillTrans,"envy, jealousy",,,Gaš̄i,Phonemic
+16-450-56-1,lakk1252,Lak,1776,нач,CyrillTrans,shame (noun),,,"nač, ħaya",Phonemic
+16-450-56-3,lakk1252,Lak,1776,хІайа,CyrillTrans,shame (noun),,,"nač, ħaya",Phonemic
+16-480-56-1,lakk1252,Lak,174,ххаллилсса,CyrillTrans,proud,,,x̄allils̄a,Phonemic
+16-510-56-1,lakk1252,Lak,1779,къучагъ,CyrillTrans,dare,,,Gučaɣ,Phonemic
+16-520-56-1,lakk1252,Lak,3,сивсусса,CyrillTrans,brave,,,siwsus̄a,Phonemic
+16-530-56-1,lakk1252,Lak,781,нигь,CyrillTrans,"fear, fright",,,"nih, c̄ax",Phonemic
+16-530-56-3,lakk1252,Lak,781,ццах,CyrillTrans,"fear, fright",,,"nih, c̄ax",Phonemic
+16-540-56-1,lakk1252,Lak,1810,нигьачІаву,CyrillTrans,danger,,,nihačʼawu,Phonemic
+16-620-56-1,lakk1252,Lak,1784,мурад,CyrillTrans,"desire, want",,,"murad, pikri",Phonemic
+16-620-56-3,lakk1252,Lak,1784,пикри,CyrillTrans,"desire, want",,,"murad, pikri",Phonemic
+16-622-56-1,lakk1252,Lak,1750,бувчІин,CyrillTrans,choose,,,buwčʼin,Phonemic
+16-630-56-1,lakk1252,Lak,1092,умуд бихьлан,CyrillTrans,hope,,,umud bix̌lan,Phonemic
+16-650-56-1,lakk1252,Lak,100,дакІ тІайласса,CyrillTrans,faithful,,,dakʼ tʼaylas̄a,Phonemic
+16-660-56-1,lakk1252,Lak,1657,хІакьсса,CyrillTrans,true,,,ħaqʼs̄a,Phonemic
+16-670-56-1,lakk1252,Lak,601,щялмахъ буслан,CyrillTrans,"lie, tell lies",,,š̄aˁlmaq buslan,Phonemic
+16-680-56-1,lakk1252,Lak,13,хъяврин ан,CyrillTrans,deceit,,,qaˁwrin an,Phonemic
+16-690-56-1,lakk1252,Lak,1528,багъишла бан,CyrillTrans,forgive,,,baɣišla ban,Phonemic
+16-710-56-1,lakk1252,Lak,1035,ххуйсса,CyrillTrans,good,,,"x̄uys̄a, qins̄a",Phonemic
+16-710-56-3,lakk1252,Lak,1035,хъинсса,CyrillTrans,good,,,"x̄uys̄a, qins̄a",Phonemic
+16-720-56-1,lakk1252,Lak,1292,оьккисса,CyrillTrans,bad,,,oˁk̄is̄a,Phonemic
+16-730-56-1,lakk1252,Lak,1725,тІайласса,CyrillTrans,"right, correct",,,tʼaylas̄a,Phonemic
+16-740-56-1,lakk1252,Lak,1390,къатІайласса,CyrillTrans,wrong,,,Gatʼaylas̄a,Phonemic
+16-760-56-1,lakk1252,Lak,134,хатІа,CyrillTrans,fault,,,"xatʼa, taxsir",Phonemic
+16-760-56-3,lakk1252,Lak,134,тахсир,CyrillTrans,fault,,,"xatʼa, taxsir",Phonemic
+16-770-56-1,lakk1252,Lak,1293,гъалатІ,CyrillTrans,"mistake, error",,,ɣalatʼ,Phonemic
+16-780-56-1,lakk1252,Lak,381,тахсир бишин,CyrillTrans,blame,,,taxsir bišin,Phonemic
+16-790-56-1,lakk1252,Lak,1687,цІа дан,CyrillTrans,praise,,,cʼa dan,Phonemic
+16-810-56-1,lakk1252,Lak,1427,аьнтІикІасса,CyrillTrans,beautiful,,,aˁntʼikʼas̄a,Phonemic
+16-820-56-1,lakk1252,Lak,1548,ккаккан ххуй бакъасса,CyrillTrans,ugly,,,k̄ak̄an x̄uy baGas̄a,Phonemic
+16-830-56-1,lakk1252,Lak,2018,иттарцІансса,CyrillTrans,greedy,,,"it̄arcʼans̄a, maˁšs̄a",Phonemic
+16-830-56-3,lakk1252,Lak,2018,мяшсса,CyrillTrans,greedy,,,"it̄arcʼans̄a, maˁšs̄a",Phonemic
+16-840-56-1,lakk1252,Lak,1310,аькьлу бусса,CyrillTrans,clever,,,aˁqʼlu bus̄a,Phonemic
+17-110-56-1,lakk1252,Lak,1562,кІулши,CyrillTrans,mind,,,"kʼulši, aˁqʼlu",Phonemic
+17-110-56-3,lakk1252,Lak,1562,аькьлу,CyrillTrans,mind,,,"kʼulši, aˁqʼlu",Phonemic
+17-130-56-1,lakk1252,Lak,1415,пикри буллан,CyrillTrans,think (= reflect),,,pikri bullan,Phonemic
+17-140-56-1,lakk1252,Lak,1513,ххан,CyrillTrans,think (= be of the opinion),,,x̄an,Phonemic
+17-150-56-1,lakk1252,Lak,1890,вихну икІан,CyrillTrans,believe,,,wixnu ikʼan,Phonemic
+17-160-56-1,lakk1252,Lak,1536,бувчІин,CyrillTrans,understand,,,buwčʼin,Phonemic
+17-170-56-1,lakk1252,Lak,1410,кІулну бикІан,CyrillTrans,know,,,kʼulnu bikʼan,Phonemic
+17-171-56-1,lakk1252,Lak,1932,ххан,CyrillTrans,guess,,,x̄an,Phonemic
+17-180-56-1,lakk1252,Lak,1521,чІалан,CyrillTrans,seem,,,čʼalan,Phonemic
+17-190-56-1,lakk1252,Lak,1609,хІучча,CyrillTrans,"idea, notion",,,"ħuč̄a, murad",Phonemic
+17-190-56-3,lakk1252,Lak,1609,мурад,CyrillTrans,"idea, notion",,,"ħuč̄a, murad",Phonemic
+17-210-56-1,lakk1252,Lak,698,оьрму кІулсса,CyrillTrans,wise,,,oˁrmu kʼuls̄a,Phonemic
+17-220-56-1,lakk1252,Lak,1518,ахІмакьсса,CyrillTrans,"foolish, stupid",,,aħmaqʼs̄a,Phonemic
+17-230-56-1,lakk1252,Lak,1899,аькьлу бакъасса,CyrillTrans,"insane, crazy",,,aˁqʼlu baGas̄a,Phonemic
+17-240-56-1,lakk1252,Lak,504,кІул хьун,CyrillTrans,learn,,,"kʼul x̌un, duklan",Phonemic
+17-240-56-3,lakk1252,Lak,504,дуклан,CyrillTrans,learn,,,"kʼul x̌un, duklan",Phonemic
+17-242-56-1,lakk1252,Lak,1929,лахьхьин буллан,CyrillTrans,study,,,"lax̌̄in bullan, duk̄in",Phonemic
+17-242-56-3,lakk1252,Lak,1929,дуккин,CyrillTrans,study,,,"lax̌̄in bullan, duk̄in",Phonemic
+17-250-56-1,lakk1252,Lak,709,лахьхьин буллан,CyrillTrans,teach,,,lax̌̄in bullan,Phonemic
+17-260-56-1,lakk1252,Lak,753,дуклаки оьрчІ,CyrillTrans,pupil,,,duklaki oˁrčʼ,Phonemic
+17-270-56-1,lakk1252,Lak,1038,учитель,CyrillTrans,teacher,,,učitelʲ,Phonemic
+17-280-56-1,lakk1252,Lak,673,школа,CyrillTrans,school,,,škola,Phonemic
+17-310-56-1,lakk1252,Lak,707,дакІний битан,CyrillTrans,remember,,,dakʼniy bitan,Phonemic
+17-320-56-1,lakk1252,Lak,1523,хъама битан,CyrillTrans,forget,,,qama bitan,Phonemic
+17-340-56-1,lakk1252,Lak,989,чаннасса,CyrillTrans,"clear, plain",,,čannas̄a,Phonemic
+17-350-56-1,lakk1252,Lak,1764,букъавчІайсса,CyrillTrans,obscure,,,buGawčʼays̄a,Phonemic
+17-360-56-1,lakk1252,Lak,1121,кьюлтІсса за,CyrillTrans,secret,,,qʼoˁltʼs̄a za,Phonemic
+17-370-56-1,lakk1252,Lak,509,вихсса,CyrillTrans,"sure, certain",,,wixs̄a,Phonemic
+17-380-56-1,lakk1252,Lak,1626,бувчІин бан,CyrillTrans,explain,,,buwčʼin ban,Phonemic
+17-410-56-1,lakk1252,Lak,1162,кьаст,CyrillTrans,"intention, purpose",,,"qʼast, dirzs̄a aˁš",Phonemic
+17-410-56-3,lakk1252,Lak,1162,дирзсса аьш,CyrillTrans,"intention, purpose",,,"qʼast, dirzs̄a aˁš",Phonemic
+17-420-56-1,lakk1252,Lak,860,савав,CyrillTrans,cause,,,"sawaw, bahana",Phonemic
+17-420-56-3,lakk1252,Lak,860,багьана,CyrillTrans,cause,,,"sawaw, bahana",Phonemic
+17-430-56-1,lakk1252,Lak,1308,щак,CyrillTrans,doubt,,,š̄ak,Phonemic
+17-440-56-1,lakk1252,Lak,1841,щак багьлан,CyrillTrans,suspect,,,š̄ak bahlan,Phonemic
+17-441-56-1,lakk1252,Lak,1902,тапшур бан,CyrillTrans,betray,,,tapšur ban,Phonemic
+17-450-56-1,lakk1252,Lak,643,чарабакъашин,CyrillTrans,"need, necessity",,,čarabaGašin,Phonemic
+17-460-56-1,lakk1252,Lak,686,куклусса,CyrillTrans,easy,,,kuklus̄a,Phonemic
+17-470-56-1,lakk1252,Lak,584,захІматсса,CyrillTrans,difficult,,,zaħmats̄a,Phonemic
+17-490-56-1,lakk1252,Lak,488,кьайда,CyrillTrans,"way, manner",,,"qʼayda, kuc",Phonemic
+17-490-56-3,lakk1252,Lak,488,куц,CyrillTrans,"way, manner",,,"qʼayda, kuc",Phonemic
+17-510-56-1,lakk1252,Lak,1577,ва,CyrillTrans,and,,,"wa, -gu",Phonemic
+17-510-56-3,lakk1252,Lak,1577,-гу,CyrillTrans,and,,,"wa, -gu",Phonemic
+17-520-56-1,lakk1252,Lak,1157,мунийату,CyrillTrans,because,,,muniyatu,Phonemic
+17-530-56-1,lakk1252,Lak,1459,агар,CyrillTrans,if,,,"agar, agana",Phonemic
+17-530-56-3,lakk1252,Lak,1459,агана,CyrillTrans,if,,,"agar, agana",Phonemic
+17-540-56-1,lakk1252,Lak,1014,йагу,CyrillTrans,or,,,"yagu, ya",Phonemic
+17-540-56-3,lakk1252,Lak,1014,йа,CyrillTrans,or,,,"yagu, ya",Phonemic
+17-550-56-1,lakk1252,Lak,1268,ди,CyrillTrans,"yes, affirmative",,,di,Phonemic
+17-560-56-1,lakk1252,Lak,1269,акъар,CyrillTrans,"no, negative",,,"aGar, baGar, daGar",Phonemic
+17-560-56-3,lakk1252,Lak,1269,бакъар,CyrillTrans,"no, negative",,,"aGar, baGar, daGar",Phonemic
+17-560-56-5,lakk1252,Lak,1269,дакъар,CyrillTrans,"no, negative",,,"aGar, baGar, daGar",Phonemic
+17-610-56-1,lakk1252,Lak,1239,цукун,CyrillTrans,how?,,,cukun,Phonemic
+17-620-56-1,lakk1252,Lak,822,цими,CyrillTrans,how many?,,,cimi,Phonemic
+17-630-56-1,lakk1252,Lak,531,циксса,CyrillTrans,how much?,,,ciks̄a,Phonemic
+17-640-56-1,lakk1252,Lak,1236,ци,CyrillTrans,what?,,,ci,Phonemic
+17-650-56-1,lakk1252,Lak,1238,та,CyrillTrans,when?,,,ta,Phonemic
+17-660-56-1,lakk1252,Lak,1237,чув,CyrillTrans,where?,,,"čuw, ča, čatu",Phonemic
+17-660-56-3,lakk1252,Lak,1237,ча,CyrillTrans,where?,,,"čuw, ča, čatu",Phonemic
+17-660-56-5,lakk1252,Lak,1237,чату,CyrillTrans,where?,,,"čuw, ča, čatu",Phonemic
+17-670-56-1,lakk1252,Lak,727,цукунсса,CyrillTrans,which?,,,cukuns̄a,Phonemic
+17-680-56-1,lakk1252,Lak,1235,цу,CyrillTrans,who?,,,cu,Phonemic
+17-690-56-1,lakk1252,Lak,1270,циван,CyrillTrans,why?,,,"ciwan, can",Phonemic
+17-690-56-3,lakk1252,Lak,1270,цан,CyrillTrans,why?,,,"ciwan, can",Phonemic
+18-110-56-1,lakk1252,Lak,1363,чІу,CyrillTrans,voice,,,čʼu,Phonemic
+18-120-56-1,lakk1252,Lak,1261,балай тІун,CyrillTrans,sing,,,balay tʼun,Phonemic
+18-130-56-1,lakk1252,Lak,715,вев учин,CyrillTrans,"shout, cry out",,,weʕw učin,Phonemic
+18-150-56-1,lakk1252,Lak,55,щурщу бан,CyrillTrans,whisper,,,š̄urš̄u ban,Phonemic
+18-160-56-1,lakk1252,Lak,128,мур-мур тІун,CyrillTrans,mumble,,,mur-mur tʼun,Phonemic
+18-170-56-1,lakk1252,Lak,1025,щютІ тІун,CyrillTrans,whistle,,,š̄oˁtʼ tʼun,Phonemic
+18-180-56-1,lakk1252,Lak,298,цІир-цІир тІун,CyrillTrans,"shriek, screech",,,cʼir-cʼir tʼun,Phonemic
+18-190-56-1,lakk1252,Lak,526,ав-ав тІун,CyrillTrans,howl,,,aw-aw tʼun,Phonemic
+18-210-56-1,lakk1252,Lak,1623,гъалгъа тІун,CyrillTrans,"speak, talk",,,"ɣalɣa tʼun, ixtilat bullan",Phonemic
+18-210-56-3,lakk1252,Lak,1623,ихтилат буллан,CyrillTrans,"speak, talk",,,"ɣalɣa tʼun, ixtilat bullan",Phonemic
+18-211-56-1,lakk1252,Lak,1866,баъ-баъ тІун,CyrillTrans,"stutter, stammer",,,"baʔ-baʔ tʼun, maq baˁyqʼunu ikʼan",Phonemic
+18-211-56-3,lakk1252,Lak,1866,махъ бяйкьуну икІан,CyrillTrans,"stutter, stammer",,,"baʔ-baʔ tʼun, maq baˁyqʼunu ikʼan",Phonemic
+18-220-56-1,lakk1252,Lak,1458,гъалгъа тІун,CyrillTrans,say,,,ɣalɣa tʼun,Phonemic
+18-221-56-1,lakk1252,Lak,1711,хавар бусан,CyrillTrans,tell story,,,xawar busan,Phonemic
+18-222-56-1,lakk1252,Lak,1115,гъалгъа,CyrillTrans,speech (make a),,,"ɣalɣa, ixtilat",Phonemic
+18-222-56-3,lakk1252,Lak,1115,ихтилат,CyrillTrans,speech (make a),,,"ɣalɣa, ixtilat",Phonemic
+18-230-56-1,lakk1252,Lak,48,букъасан,CyrillTrans,silent (be),,,buGasan,Phonemic
+18-240-56-1,lakk1252,Lak,1307,маз,CyrillTrans,language,,,maz,Phonemic
+18-260-56-1,lakk1252,Lak,1599,махъ,CyrillTrans,word,,,maq,Phonemic
+18-280-56-1,lakk1252,Lak,1405,цІа,CyrillTrans,name,,,cʼa,Phonemic
+18-310-56-1,lakk1252,Lak,1309,суал булун,CyrillTrans,"ask (question, inquire)",,,sual bulun,Phonemic
+18-320-56-1,lakk1252,Lak,1275,цІуххин,CyrillTrans,answer,,,"cʼux̄in, žawab dulun",Phonemic
+18-320-56-3,lakk1252,Lak,1275,жаваб дулун,CyrillTrans,answer,,,"cʼux̄in, žawab dulun",Phonemic
+18-330-56-1,lakk1252,Lak,2022,кІул хьун,CyrillTrans,"admit, confess",,,"kʼul x̌un, mukʼru x̌un",Phonemic
+18-330-56-3,lakk1252,Lak,2022,мукІру хьун,CyrillTrans,"admit, confess",,,"kʼul x̌un, mukʼru x̌un",Phonemic
+18-340-56-1,lakk1252,Lak,755,къарщи уклан,CyrillTrans,deny,,,Garš̄i uklan,Phonemic
+18-350-56-1,lakk1252,Lak,1828,миннат буллан,CyrillTrans,"ask, request",,,minnat bullan,Phonemic
+18-360-56-1,lakk1252,Lak,1675,махъ булун,CyrillTrans,promise,,,maq bulun,Phonemic
+18-370-56-1,lakk1252,Lak,49,рязи къахьун,CyrillTrans,refuse,,,raˁzi Gax̌un,Phonemic
+18-380-56-1,lakk1252,Lak,83,къадагъа дан,CyrillTrans,forbid,,,Gadaɣa dan,Phonemic
+18-390-56-1,lakk1252,Lak,299,ссугру дуллан,CyrillTrans,"rebuke, scold",,,s̄ugru dullan,Phonemic
+18-410-56-1,lakk1252,Lak,1084,оьвтІун,CyrillTrans,call (=summon),,,oˁwtʼun,Phonemic
+18-420-56-1,lakk1252,Lak,180,цІа дизан,CyrillTrans,call (=name),,,cʼa dizan,Phonemic
+18-430-56-1,lakk1252,Lak,9,баян бан,CyrillTrans,announce,,,bayan ban,Phonemic
+18-440-56-1,lakk1252,Lak,1192,нигьа усан уллан,CyrillTrans,threaten,,,niha usan ullan,Phonemic
+18-450-56-1,lakk1252,Lak,101,пахру буллан,CyrillTrans,boast,,,paxru bullan,Phonemic
+18-510-56-1,lakk1252,Lak,1672,чичлан,CyrillTrans,write,,,čičlan,Phonemic
+18-520-56-1,lakk1252,Lak,724,ккалан,CyrillTrans,read,,,"k̄alan, buklan",Phonemic
+18-520-56-3,lakk1252,Lak,724,буклан,CyrillTrans,read,,,"k̄alan, buklan",Phonemic
+18-560-56-1,lakk1252,Lak,648,чагъар,CyrillTrans,paper,,,čaɣar,Phonemic
+18-570-56-1,lakk1252,Lak,794,ручка,CyrillTrans,pen,,,"ručka, qʼalam",Phonemic
+18-570-56-3,lakk1252,Lak,794,кьалам,CyrillTrans,pen,,,"ručka, qʼalam",Phonemic
+18-610-56-1,lakk1252,Lak,963,лу,CyrillTrans,book,,,lu,Phonemic
+18-670-56-1,lakk1252,Lak,1045,шаэр,CyrillTrans,poet,,,šaer,Phonemic
+18-720-56-1,lakk1252,Lak,908,дачІу,CyrillTrans,drum,,,"dačʼu, naqʼara",Phonemic
+18-720-56-3,lakk1252,Lak,908,накьара,CyrillTrans,drum,,,"dačʼu, naqʼara",Phonemic
+18-730-56-1,lakk1252,Lak,2136,турба,CyrillTrans,"horn, trumpet",,,"turba, burɣu",Phonemic
+18-730-56-3,lakk1252,Lak,2136,бургъу,CyrillTrans,"horn, trumpet",,,"turba, burɣu",Phonemic
+19-110-56-1,lakk1252,Lak,1300,билайат,CyrillTrans,country,,,bilayat,Phonemic
+19-120-56-1,lakk1252,Lak,89,буттал улча,CyrillTrans,one's native country,,,but̄al ulča,Phonemic
+19-150-56-1,lakk1252,Lak,1391,шагьру,CyrillTrans,"city, town",,,šahru,Phonemic
+19-160-56-1,lakk1252,Lak,930,щар,CyrillTrans,village,,,"š̄ar, šaˁrawalu",Phonemic
+19-160-56-3,lakk1252,Lak,930,шяравалу,CyrillTrans,village,,,"š̄ar, šaˁrawalu",Phonemic
+19-170-56-1,lakk1252,Lak,1010,дазу,CyrillTrans,boundary,,,dazu,Phonemic
+19-210-56-1,lakk1252,Lak,789,халкь,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-56-1,lakk1252,Lak,302,тайпа,CyrillTrans,"tribe, clan",,,"taypa, tuxum",Phonemic
+19-230-56-3,lakk1252,Lak,302,тухум,CyrillTrans,"tribe, clan",,,"taypa, tuxum",Phonemic
+19-240-56-1,lakk1252,Lak,301,бакІчи,CyrillTrans,"chief, chieftain",,,bakʼči,Phonemic
+19-250-56-1,lakk1252,Lak,1296,ттархь,CyrillTrans,"staff, walking stick",,,t̄arx̌,Phonemic
+19-310-56-1,lakk1252,Lak,1846,каялувшиву дуллан,CyrillTrans,"rule, govern",,,kayaluwšiwu dullan,Phonemic
+19-320-56-1,lakk1252,Lak,1508,паччахІ,CyrillTrans,"king, ruler",,,pač̄aħ,Phonemic
+19-330-56-1,lakk1252,Lak,1306,паччахІ-щар,CyrillTrans,queen,,,pač̄aħ-š̄ar,Phonemic
+19-360-56-1,lakk1252,Lak,482,уздансса,CyrillTrans,"noble, nobleman",,,uzdans̄a,Phonemic
+19-370-56-1,lakk1252,Lak,1032,шагьрул инсан,CyrillTrans,"citizen, subject",,,šahrul insan,Phonemic
+19-410-56-1,lakk1252,Lak,383,агъа,CyrillTrans,master,,,"aɣa, zallu",Phonemic
+19-410-56-3,lakk1252,Lak,383,заллу,CyrillTrans,master,,,"aɣa, zallu",Phonemic
+19-420-56-1,lakk1252,Lak,812,лагъ,CyrillTrans,slave,,,"laɣ, yasir",Phonemic
+19-420-56-3,lakk1252,Lak,812,йасир,CyrillTrans,slave,,,"laɣ, yasir",Phonemic
+19-430-56-1,lakk1252,Lak,255,къазахъ,CyrillTrans,servant,,,"Gazaq, nukar",Phonemic
+19-430-56-3,lakk1252,Lak,255,нукар,CyrillTrans,servant,,,"Gazaq, nukar",Phonemic
+19-440-56-1,lakk1252,Lak,384,тархъансса инсан,CyrillTrans,freeman,,,tarqans̄a insan,Phonemic
+19-450-56-1,lakk1252,Lak,1128,амру бан,CyrillTrans,"command, order",,,"amru ban, buyur ban",Phonemic
+19-450-56-3,lakk1252,Lak,1128,буйур бан,CyrillTrans,"command, order",,,"amru ban, buyur ban",Phonemic
+19-460-56-1,lakk1252,Lak,1635,мютІи хьун,CyrillTrans,obey,,,moˁtʼi x̌un,Phonemic
+19-470-56-1,lakk1252,Lak,1003,рухсат булун,CyrillTrans,"let, permit",,,ruxsat bulun,Phonemic
+19-510-56-1,lakk1252,Lak,1325,дус,CyrillTrans,"friend, companion",,,dus,Phonemic
+19-520-56-1,lakk1252,Lak,1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-56-1,lakk1252,Lak,1332,чІаххучу,CyrillTrans,neighbor,,,čʼax̄uču,Phonemic
+19-550-56-1,lakk1252,Lak,791,кІул акъасса инсан,CyrillTrans,stranger,,,kʼul aGas̄a insan,Phonemic
+19-560-56-1,lakk1252,Lak,1782,хъамаличу,CyrillTrans,guest,,,qamaliču,Phonemic
+19-570-56-1,lakk1252,Lak,1545,заллу,CyrillTrans,host,,,zallu,Phonemic
+19-580-56-1,lakk1252,Lak,1897,кумаг,CyrillTrans,"help, aid",,,kumag,Phonemic
+19-590-56-1,lakk1252,Lak,1550,ахчилан,CyrillTrans,"hinder, prevent",,,"axčilan, baxču bullan",Phonemic
+19-590-56-3,lakk1252,Lak,1550,бахчу буллан,CyrillTrans,"hinder, prevent",,,"axčilan, baxču bullan",Phonemic
+19-610-56-1,lakk1252,Lak,1747,аьдат,CyrillTrans,custom,,,aˁdat,Phonemic
+19-620-56-1,lakk1252,Lak,1848,ххаххаву,CyrillTrans,"strife, quarrel",,,"x̄ax̄awu, GalmaGal",Phonemic
+19-620-56-3,lakk1252,Lak,1848,къалмакъал,CyrillTrans,"strife, quarrel",,,"x̄ax̄awu, GalmaGal",Phonemic
+19-630-56-1,lakk1252,Lak,2024,ургъун,CyrillTrans,"conspiracy, plot",,,urɣun,Phonemic
+19-650-56-1,lakk1252,Lak,1831,хьунабакьин,CyrillTrans,meet,,,x̌unabaqʼin,Phonemic
+19-720-56-1,lakk1252,Lak,1610,къахІва-щарсса,CyrillTrans,prostitute,,,Gaħwa-š̄ars̄a,Phonemic
+20-110-56-1,lakk1252,Lak,1423,биллан,CyrillTrans,fight (vb),,,"billan, dandi uk̄an",Phonemic
+20-110-56-3,lakk1252,Lak,1423,данди уккан,CyrillTrans,fight (vb),,,"billan, dandi uk̄an",Phonemic
+20-130-56-1,lakk1252,Lak,579,дяъви,CyrillTrans,"war, battle",,,"daˁʔwi, talatawu",Phonemic
+20-130-56-3,lakk1252,Lak,579,талатаву,CyrillTrans,"war, battle",,,"daˁʔwi, talatawu",Phonemic
+20-140-56-1,lakk1252,Lak,1338,дакьаву,CyrillTrans,peace,,,daqʼawu,Phonemic
+20-150-56-1,lakk1252,Lak,1561,аьрал,CyrillTrans,army,,,aˁral,Phonemic
+20-170-56-1,lakk1252,Lak,1941,саллатІ,CyrillTrans,soldier,,,"sallatʼ, aˁskar",Phonemic
+20-170-56-3,lakk1252,Lak,1941,аьскар,CyrillTrans,soldier,,,"sallatʼ, aˁskar",Phonemic
+20-210-56-1,lakk1252,Lak,951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-56-1,lakk1252,Lak,1763,ттархь,CyrillTrans,club,,,t̄arx̌,Phonemic
+20-222-56-1,lakk1252,Lak,386,рикІ,CyrillTrans,battle-ax,,,rikʼ,Phonemic
+20-230-56-1,lakk1252,Lak,387,урун,CyrillTrans,sling,,,urun,Phonemic
+20-240-56-1,lakk1252,Lak,994,ккуртта,CyrillTrans,bow,,,k̄urt̄a,Phonemic
+20-250-56-1,lakk1252,Lak,977,чІатІаракІ,CyrillTrans,arrow,,,čʼatʼarakʼ,Phonemic
+20-260-56-1,lakk1252,Lak,945,къазихъ,CyrillTrans,spear,,,Gaziq,Phonemic
+20-270-56-1,lakk1252,Lak,1535,тур,CyrillTrans,sword,,,tur,Phonemic
+20-280-56-1,lakk1252,Lak,1566,ттупанг,CyrillTrans,"gun, cannon",,,"t̄upang, t̄up",Phonemic
+20-280-56-3,lakk1252,Lak,1566,ттуп,CyrillTrans,"gun, cannon",,,"t̄upang, t̄up",Phonemic
+20-310-56-1,lakk1252,Lak,1061,хІурни,CyrillTrans,armor (defensive),,,"ħurni, ħurni-taqʼiya",Phonemic
+20-310-56-3,lakk1252,Lak,1061,хІурни-такьийа,CyrillTrans,armor (defensive),,,"ħurni, ħurni-taqʼiya",Phonemic
+20-330-56-1,lakk1252,Lak,1680,такьийа,CyrillTrans,helmet,,,taqʼiya,Phonemic
+20-340-56-1,lakk1252,Lak,1064,къалхан,CyrillTrans,shield,,,Galxan,Phonemic
+20-350-56-1,lakk1252,Lak,1938,къала,CyrillTrans,fortress,,,"Gala, Gapu",Phonemic
+20-350-56-3,lakk1252,Lak,1938,къапу,CyrillTrans,fortress,,,"Gala, Gapu",Phonemic
+20-360-56-1,lakk1252,Lak,1671,чІюй,CyrillTrans,tower,,,čʼoˁy,Phonemic
+20-410-56-1,lakk1252,Lak,783,ххувшаву,CyrillTrans,victory,,,x̄uwšawu,Phonemic
+20-420-56-1,lakk1252,Lak,782,бух шаву,CyrillTrans,defeat,,,bux šawu,Phonemic
+20-430-56-1,lakk1252,Lak,722,гьужум бан,CyrillTrans,attack,,,hužum ban,Phonemic
+20-440-56-1,lakk1252,Lak,1330,йабуллан,CyrillTrans,defend,,,"yabullan, buručlan",Phonemic
+20-440-56-3,lakk1252,Lak,1330,буручлан,CyrillTrans,defend,,,"yabullan, buručlan",Phonemic
+20-450-56-1,lakk1252,Lak,421,байщун,CyrillTrans,retreat,,,"bayš̄un, maqunmay x̌un",Phonemic
+20-450-56-3,lakk1252,Lak,421,махъунмай хьун,CyrillTrans,retreat,,,"bayš̄un, maqunmay x̌un",Phonemic
+20-460-56-1,lakk1252,Lak,1696,канин гьан,CyrillTrans,surrender,,,"kanin han, dindir x̌un",Phonemic
+20-460-56-3,lakk1252,Lak,1696,диндир хьун,CyrillTrans,surrender,,,"kanin han, dindir x̌un",Phonemic
+20-470-56-1,lakk1252,Lak,1072,йасир,CyrillTrans,"captive, prisoner",,,"yasir, yasirnu laws̄a",Phonemic
+20-470-56-3,lakk1252,Lak,1072,йасирну лавсса,CyrillTrans,"captive, prisoner",,,"yasir, yasirnu laws̄a",Phonemic
+20-471-56-1,lakk1252,Lak,1940,къарал,CyrillTrans,"guard, sentinel",,,Garal,Phonemic
+20-480-56-1,lakk1252,Lak,1022,хъинбала,CyrillTrans,"booty, spoils",,,qinbala,Phonemic
+20-490-56-1,lakk1252,Lak,65,луркІан дан,CyrillTrans,ambush,,,lurkʼan dan,Phonemic
+20-510-56-1,lakk1252,Lak,1858,чавахъчи,CyrillTrans,fisherman,,,čawaqči,Phonemic
+20-520-56-1,lakk1252,Lak,1074,чавахъ бугъай ххалаххи,CyrillTrans,fishhook,,,čawaq buɣay x̄alax̄i,Phonemic
+20-530-56-1,lakk1252,Lak,19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-56-1,lakk1252,Lak,388,чавахъру бугъай къери,CyrillTrans,fishnet,,,čawaqru buɣay Geˁri,Phonemic
+20-550-56-1,lakk1252,Lak,389,къери,CyrillTrans,fish trap,,,Geˁri,Phonemic
+20-560-56-1,lakk1252,Lak,2013,кьюнукьи шатта,CyrillTrans,bait,,,qʼoˁnuqʼi šat̄a,Phonemic
+20-610-56-1,lakk1252,Lak,1435,авли уклан,CyrillTrans,hunt,,,awli uklan,Phonemic
+20-620-56-1,lakk1252,Lak,1172,битлан,CyrillTrans,shoot,,,bitlan,Phonemic
+20-630-56-1,lakk1252,Lak,161,къащун,CyrillTrans,miss (target),,,Gaš̄un,Phonemic
+20-640-56-1,lakk1252,Lak,1075,къатІа,CyrillTrans,trap (noun),,,Gatʼa,Phonemic
+20-650-56-1,lakk1252,Lak,1170,къатІа бизан,CyrillTrans,trap (vb),,,Gatʼa bizan,Phonemic
+21-110-56-1,lakk1252,Lak,1062,кьанун,CyrillTrans,law,,,"qʼanun, aˁdat",Phonemic
+21-110-56-3,lakk1252,Lak,1062,аьдат,CyrillTrans,law,,,"qʼanun, aˁdat",Phonemic
+21-150-56-1,lakk1252,Lak,1068,диван,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-150-56-3,lakk1252,Lak,1068,суд,CyrillTrans,court,,,"diwan, sud",Phonemic
+21-160-56-1,lakk1252,Lak,1818,диван буллан,CyrillTrans,judge (vb),,,"diwan bullan, sud bullan",Phonemic
+21-160-56-3,lakk1252,Lak,1818,суд буллан,CyrillTrans,judge (vb),,,"diwan bullan, sud bullan",Phonemic
+21-170-56-1,lakk1252,Lak,1067,(кьувхьусса) диван,CyrillTrans,judgment,,,(qʼuwx̌us̄a) diwan,Phonemic
+21-180-56-1,lakk1252,Lak,861,ссудийа,CyrillTrans,judge (noun),,,s̄udiya,Phonemic
+21-210-56-1,lakk1252,Lak,2020,дяъвикар,CyrillTrans,plaintiff,,,daˁʔwikar,Phonemic
+21-220-56-1,lakk1252,Lak,1034,жавабчу,CyrillTrans,defendant,,,žawabču,Phonemic
+21-230-56-1,lakk1252,Lak,1144,бара,CyrillTrans,witness,,,bara,Phonemic
+21-240-56-1,lakk1252,Lak,1939,хъварду буллан,CyrillTrans,swear,,,qʷardu bullan,Phonemic
+21-250-56-1,lakk1252,Lak,1712,хъва,CyrillTrans,oath,,,qʷa,Phonemic
+21-310-56-1,lakk1252,Lak,1814,тахсир бишин,CyrillTrans,accuse,,,taxsir bišin,Phonemic
+21-320-56-1,lakk1252,Lak,484,танмихІ кьукьин,CyrillTrans,condemn,,,tanmiħ qʼuqʼin,Phonemic
+21-330-56-1,lakk1252,Lak,983,тахсирлу ан,CyrillTrans,convict (vb),,,taxsirlu an,Phonemic
+21-340-56-1,lakk1252,Lak,988,марцІ ан,CyrillTrans,acquit,,,marcʼ an,Phonemic
+21-350-56-1,lakk1252,Lak,1682,тахсирлу,CyrillTrans,guilty,,,taxsirlu,Phonemic
+21-360-56-1,lakk1252,Lak,90,тахсир бакъасса,CyrillTrans,innocent,,,taxsir baGas̄a,Phonemic
+21-370-56-1,lakk1252,Lak,390,танмихІ,CyrillTrans,"penalty, punishment",,,"tanmiħ, žaza",Phonemic
+21-370-56-3,lakk1252,Lak,390,жаза,CyrillTrans,"penalty, punishment",,,"tanmiħ, žaza",Phonemic
+21-380-56-1,lakk1252,Lak,218,аьчІа,CyrillTrans,fine,,,"aˁčʼa, buɣi",Phonemic
+21-380-56-3,lakk1252,Lak,218,бугъи,CyrillTrans,fine,,,"aˁčʼa, buɣi",Phonemic
+21-390-56-1,lakk1252,Lak,1281,дуснакь,CyrillTrans,"prison, jail",,,dusnaqʼ,Phonemic
+21-420-56-1,lakk1252,Lak,845,ивчІаву,CyrillTrans,murder,,,iwčʼawu,Phonemic
+21-430-56-1,lakk1252,Lak,902,зуна,CyrillTrans,adultery,,,zuna,Phonemic
+21-440-56-1,lakk1252,Lak,953,гуж баву,CyrillTrans,rape,,,guž bawu,Phonemic
+21-460-56-1,lakk1252,Lak,1889,ччуччаву,CyrillTrans,arson,,,č̄uč̄awu,Phonemic
+21-510-56-1,lakk1252,Lak,713,цурк буллан,CyrillTrans,steal,,,curk bullan,Phonemic
+21-520-56-1,lakk1252,Lak,1160,цурку,CyrillTrans,thief,,,curku,Phonemic
+22-110-56-1,lakk1252,Lak,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-56-1,lakk1252,Lak,1944,Зал,CyrillTrans,God,,,"Zal, Allah",Phonemic
+22-120-56-3,lakk1252,Lak,1944,Аллагь,CyrillTrans,God,,,"Zal, Allah",Phonemic
+22-130-56-1,lakk1252,Lak,911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-56-1,lakk1252,Lak,853,михІрав,CyrillTrans,altar,,,miħraw,Phonemic
+22-150-56-1,lakk1252,Lak,1103,кьурван,CyrillTrans,"sacrifice, offering",,,qʼurwan,Phonemic
+22-160-56-1,lakk1252,Lak,257,икрам бан,CyrillTrans,worship,,,ikram ban,Phonemic
+22-170-56-1,lakk1252,Lak,24,чак буллан,CyrillTrans,pray,,,"čak bullan, duaˁ dullan",Phonemic
+22-170-56-3,lakk1252,Lak,24,дуаь дуллан,CyrillTrans,pray,,,"čak bullan, duaˁ dullan",Phonemic
+22-180-56-1,lakk1252,Lak,852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-56-1,lakk1252,Lak,1702,караматсса,CyrillTrans,"holy, sacred",,,"karamats̄a, mubaraks̄a",Phonemic
+22-190-56-3,lakk1252,Lak,1702,мубараксса,CyrillTrans,"holy, sacred",,,"karamats̄a, mubaraks̄a",Phonemic
+22-220-56-1,lakk1252,Lak,304,машгьур буллан,CyrillTrans,preach,,,mašhur bullan,Phonemic
+22-230-56-1,lakk1252,Lak,391,дуаь дуллан,CyrillTrans,bless,,,"duʔaˁ dullan, cʼa dullan",Phonemic
+22-230-56-3,lakk1252,Lak,391,цІа дуллан,CyrillTrans,bless,,,"duʔaˁ dullan, cʼa dullan",Phonemic
+22-240-56-1,lakk1252,Lak,8,наъаьна дан,CyrillTrans,curse,,,naʔaˁna dan,Phonemic
+22-260-56-1,lakk1252,Lak,303,зума дугьан,CyrillTrans,fast (vb),,,zuma duhan,Phonemic
+22-310-56-1,lakk1252,Lak,1565,ссурувалу,CyrillTrans,heaven,,,"s̄uruwalu, alžan",Phonemic
+22-310-56-3,lakk1252,Lak,1565,алжан,CyrillTrans,heaven,,,"s̄uruwalu, alžan",Phonemic
+22-320-56-1,lakk1252,Lak,878,дужжагь,CyrillTrans,hell,,,dužžah,Phonemic
+22-350-56-1,lakk1252,Lak,1973,жин,CyrillTrans,demon (evil spirit),,,žin,Phonemic
+22-370-56-1,lakk1252,Lak,1945,пут,CyrillTrans,idol,,,"put, burkʼ",Phonemic
+22-370-56-3,lakk1252,Lak,1945,буркІ,CyrillTrans,idol,,,"put, burkʼ",Phonemic
+22-420-56-1,lakk1252,Lak,392,ссихІир,CyrillTrans,"magic, witchcraft, sorcery",,,"s̄iħir, tʼilisin",Phonemic
+22-420-56-3,lakk1252,Lak,392,тІилисин,CyrillTrans,"magic, witchcraft, sorcery",,,"s̄iħir, tʼilisin",Phonemic
+22-430-56-1,lakk1252,Lak,2137,ссихІирщар,CyrillTrans,"sorcerer, witch",,,"s̄iħirš̄ar, tʼilisinš̄ar",Phonemic
+22-430-56-3,lakk1252,Lak,2137,тІилисинщар,CyrillTrans,"sorcerer, witch",,,"s̄iħirš̄ar, tʼilisinš̄ar",Phonemic
+22-440-56-1,lakk1252,Lak,2138,гьурулгІин,CyrillTrans,"fairy, elf",,,hurulʕin,Phonemic
+22-450-56-1,lakk1252,Lak,1175,дирзсса дарс,CyrillTrans,"ghost, phantom",,,"dirzs̄a dars, x̄oˁt",Phonemic
+22-450-56-3,lakk1252,Lak,1175,ххют,CyrillTrans,"ghost, phantom",,,"dirzs̄a dars, x̄oˁt",Phonemic
+22-470-56-1,lakk1252,Lak,107,аьламат,CyrillTrans,"omen, portent",,,aˁlamat,Phonemic

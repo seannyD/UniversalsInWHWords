@@ -1,0 +1,1413 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-525-1,lakk1252,Lak (Balkhar dialect),1852,чӀябун,CyrillTrans,often,,,č̛aˤbun,Phonemic
+14-310-525-1,lakk1252,Lak (Balkhar dialect),1676,мудан,CyrillTrans,always,,,mudan,Phonemic
+14-290-525-1,lakk1252,Lak (Balkhar dialect),790,хӀадурсса,CyrillTrans,ready,,,ћadurs̄a,Phonemic
+14-280-525-1,lakk1252,Lak (Balkhar dialect),1928,ацӀан,CyrillTrans,"cease, stop",,,ac̛an,Phonemic
+14-270-525-1,lakk1252,Lak (Balkhar dialect),1766,къуртал дан,CyrillTrans,finish,,,Gurtal dan,Phonemic
+14-260-525-1,lakk1252,Lak (Balkhar dialect),743,къуртал дуллан,CyrillTrans,end (temporal),,,Gurtal dulan,Phonemic
+14-252-525-1,lakk1252,Lak (Balkhar dialect),1186,лахъи дукан,CyrillTrans,"last, endure",,,laqi dukan,Phonemic
+14-250-525-1,lakk1252,Lak (Balkhar dialect),1806,дайдишин,CyrillTrans,"begin, beginning",,,"daydišin, daydix̌u",Phonemic
+14-250-525-3,lakk1252,Lak (Balkhar dialect),1806,дайдихьу,CyrillTrans,"begin, beginning",,,"daydišin, daydix̌u",Phonemic
+14-240-525-1,lakk1252,Lak (Balkhar dialect),425,чӀал дуллан,CyrillTrans,"retard, delay",,,čʼal dullan,Phonemic
+14-230-525-1,lakk1252,Lak (Balkhar dialect),754,къала бахьун,CyrillTrans,"hasten, hurry",,,Gala bax̌un,Phonemic
+14-220-525-1,lakk1252,Lak (Balkhar dialect),701,хӀурхӀасса,CyrillTrans,slow,,,ћurћas̄a,Phonemic
+14-210-525-1,lakk1252,Lak (Balkhar dialect),1631,къалабасса,CyrillTrans,"swift, fast, quick",,,Galabas̄a,Phonemic
+14-190-525-1,lakk1252,Lak (Balkhar dialect),1963,уттидахьба,CyrillTrans,immediately,,,ut̄idax̌ba,Phonemic
+14-180-525-1,lakk1252,Lak (Balkhar dialect),1376,утти,CyrillTrans,now,,,ut̄i,Phonemic
+14-170-525-1,lakk1252,Lak (Balkhar dialect),477,чӀанну,CyrillTrans,late,,,č̛annu,Phonemic
+14-160-525-1,lakk1252,Lak (Balkhar dialect),672,ччяни,CyrillTrans,early,,,č̄aˤni,Phonemic
+14-150-525-1,lakk1252,Lak (Balkhar dialect),1229,хъунабхьусса,CyrillTrans,old,,,qunabx̌us̄a,Phonemic
+14-140-525-1,lakk1252,Lak (Balkhar dialect),1207,жагьилсса,CyrillTrans,young,,,žahils̄a,Phonemic
+14-120-525-1,lakk1252,Lak (Balkhar dialect),1789,оьрму,CyrillTrans,age,,,"oˤrmu, č̛un",Phonemic
+14-120-525-3,lakk1252,Lak (Balkhar dialect),1789,чӀун,CyrillTrans,age,,,"oˤrmu, č̛un",Phonemic
+14-130-525-1,lakk1252,Lak (Balkhar dialect),1231,цӀусса,CyrillTrans,new,,,c̛us̄a,Phonemic
+14-110-525-1,lakk1252,Lak (Balkhar dialect),892,чӀун,CyrillTrans,time,,,č̛un,Phonemic
+13-440-525-1,lakk1252,Lak (Balkhar dialect),417,шамилба,CyrillTrans,three times,,,šamilba,Phonemic
+13-420-525-1,lakk1252,Lak (Balkhar dialect),1859,шамилчин,CyrillTrans,third,,,šamilčin,Phonemic
+13-380-525-1,lakk1252,Lak (Balkhar dialect),1546,кӀилба,CyrillTrans,two times,,,k̛ilba,Phonemic
+13-370-525-1,lakk1252,Lak (Balkhar dialect),1888,кӀиба,CyrillTrans,pair,,,k̛iba,Phonemic
+13-360-525-1,lakk1252,Lak (Balkhar dialect),1384,кӀилчинмур,CyrillTrans,second,,,k̛ilčinmur,Phonemic
+13-350-525-1,lakk1252,Lak (Balkhar dialect),1529,махба-махмур,CyrillTrans,last,,,maxba-maxmur,Phonemic
+13-340-525-1,lakk1252,Lak (Balkhar dialect),728,цалчин,CyrillTrans,first,,,calčin,Phonemic
+13-330-525-1,lakk1252,Lak (Balkhar dialect),1580,ца,CyrillTrans,"alone, only",,,ca,Phonemic
+13-240-525-1,lakk1252,Lak (Balkhar dialect),816,дачӀи,CyrillTrans,half,,,dač̛i,Phonemic
+13-230-525-1,lakk1252,Lak (Balkhar dialect),779,касак,CyrillTrans,"part, piece",,,kasak,Phonemic
+13-220-525-1,lakk1252,Lak (Balkhar dialect),1624,бачӀбасса,CyrillTrans,empty,,,bač̛bas̄a,Phonemic
+13-210-525-1,lakk1252,Lak (Balkhar dialect),1429,бубцӀусса,CyrillTrans,full,,,bubc̛us̄a,Phonemic
+13-190-525-1,lakk1252,Lak (Balkhar dialect),2023,чӀярушибу,CyrillTrans,"multitude, crowd",,,č̛aˤrušibu,Phonemic
+13-181-525-1,lakk1252,Lak (Balkhar dialect),1241,ца-кӀиба,CyrillTrans,some,,,ca-k̛iba,Phonemic
+13-170-525-1,lakk1252,Lak (Balkhar dialect),1242,чансса,CyrillTrans,"little (quantity), few",,,"čans̄a, č̛iris̄a",Phonemic
+13-170-525-3,lakk1252,Lak (Balkhar dialect),1242,чIирисса,CyrillTrans,"little (quantity), few",,,"čans̄a, č̛iris̄a",Phonemic
+13-180-525-1,lakk1252,Lak (Balkhar dialect),1881,гьасса,CyrillTrans,enough,,,has̄a,Phonemic
+13-160-525-1,lakk1252,Lak (Balkhar dialect),1992,ххишала,CyrillTrans,more,,,x̄išala,Phonemic
+13-150-525-1,lakk1252,Lak (Balkhar dialect),1198,чӀябусса,CyrillTrans,"much, many",,,č̛aˤbus̄a,Phonemic
+13-140-525-1,lakk1252,Lak (Balkhar dialect),98,циняв,CyrillTrans,"every, all",,,"cinaˤw, harza, harmur",Phonemic
+13-140-525-3,lakk1252,Lak (Balkhar dialect),98,гьарза,CyrillTrans,"every, all",,,"cinaˤw, harza, harmur",Phonemic
+13-140-525-5,lakk1252,Lak (Balkhar dialect),98,гьармур,CyrillTrans,"every, all",,,"cinaˤw, harza, harmur",Phonemic
+13-107-525-1,lakk1252,Lak (Balkhar dialect),1420,ккалан,CyrillTrans,count,,,k̄alan,Phonemic
+13-106-525-1,lakk1252,Lak (Balkhar dialect),1843,азарба,CyrillTrans,thousand,,,azarba,Phonemic
+13-105-525-1,lakk1252,Lak (Balkhar dialect),1634,ттуршба,CyrillTrans,hundred,,,t̄uršba,Phonemic
+13-104-525-1,lakk1252,Lak (Balkhar dialect),1710,уба,CyrillTrans,twenty,,,uba,Phonemic
+13-103-525-1,lakk1252,Lak (Balkhar dialect),1709,ацӀнийа ххюба,CyrillTrans,fifteen,,,ac̛niya x̄oˤba,Phonemic
+13-102-525-1,lakk1252,Lak (Balkhar dialect),1707,ацӀнийа кӀиба,CyrillTrans,twelve,,,ac̛niya k̛iba,Phonemic
+13-101-525-1,lakk1252,Lak (Balkhar dialect),1706,ацӀнийа цаба,CyrillTrans,eleven,,,ac̛niya caba,Phonemic
+13-100-525-1,lakk1252,Lak (Balkhar dialect),1515,ацӀба,CyrillTrans,ten,,,ac̛ba,Phonemic
+13-90-525-1,lakk1252,Lak (Balkhar dialect),1483,урчӀба,CyrillTrans,nine,,,urč̛ba,Phonemic
+13-80-525-1,lakk1252,Lak (Balkhar dialect),1705,мяйба,CyrillTrans,eight,,,maˤyba,Phonemic
+13-70-525-1,lakk1252,Lak (Balkhar dialect),1704,арулба,CyrillTrans,seven,,,arulba,Phonemic
+13-60-525-1,lakk1252,Lak (Balkhar dialect),1703,ряхба,CyrillTrans,six,,,raˤxba,Phonemic
+13-50-525-1,lakk1252,Lak (Balkhar dialect),493,ххюба,CyrillTrans,five,,,x̄oˤba,Phonemic
+13-40-525-1,lakk1252,Lak (Balkhar dialect),1500,муъба,CyrillTrans,four,,,muɁba,Phonemic
+13-20-525-1,lakk1252,Lak (Balkhar dialect),1498,кӀи,CyrillTrans,two,,,k̛i,Phonemic
+13-30-525-1,lakk1252,Lak (Balkhar dialect),492,шамма,CyrillTrans,three,,,šamma,Phonemic
+13-10-525-1,lakk1252,Lak (Balkhar dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-525-1,lakk1252,Lak (Balkhar dialect),1294,нуль,CyrillTrans,"zero, nothing",,,nulʲ,Phonemic
+12-930-525-1,lakk1252,Lak (Balkhar dialect),1264,даххана дуллан,CyrillTrans,change,,,dax̄ana dullan,Phonemic
+12-920-525-1,lakk1252,Lak (Balkhar dialect),1558,лахьхьусса,CyrillTrans,"like, similar",,,"lax̌̄us̄a, cakucs̄a",Phonemic
+12-920-525-3,lakk1252,Lak (Balkhar dialect),1558,цакуцсса,CyrillTrans,"like, similar",,,"lax̌̄us̄a, cakucs̄a",Phonemic
+12-840-525-1,lakk1252,Lak (Balkhar dialect),1048,ща,CyrillTrans,line,,,š̄a,Phonemic
+12-850-525-1,lakk1252,Lak (Balkhar dialect),1667,ккутӀ,CyrillTrans,hole,,,k̄ut̛,Phonemic
+12-830-525-1,lakk1252,Lak (Balkhar dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-525-1,lakk1252,Lak (Balkhar dialect),1395,ккурккисса,CyrillTrans,round,,,k̄urk̄is̄a,Phonemic
+12-820-525-1,lakk1252,Lak (Balkhar dialect),1467,ккуруг,CyrillTrans,circle,,,k̄urug,Phonemic
+12-780-525-1,lakk1252,Lak (Balkhar dialect),850,муъмурцӀу,CyrillTrans,square,,,muɁmurc̛u,Phonemic
+12-770-525-1,lakk1252,Lak (Balkhar dialect),1367,ххач,CyrillTrans,cross,,,x̄ač,Phonemic
+12-760-525-1,lakk1252,Lak (Balkhar dialect),192,мурцӀу,CyrillTrans,corner,,,murc̛u,Phonemic
+12-750-525-1,lakk1252,Lak (Balkhar dialect),1071,къанца,CyrillTrans,hook,,,Ganca,Phonemic
+12-740-525-1,lakk1252,Lak (Balkhar dialect),297,дарккусса,CyrillTrans,crooked,,,dark̄us̄a,Phonemic
+12-730-525-1,lakk1252,Lak (Balkhar dialect),1404,тӀайласса,CyrillTrans,straight,,,t̛aylas̄a,Phonemic
+12-710-525-1,lakk1252,Lak (Balkhar dialect),1633,асса,CyrillTrans,flat,,,as̄a,Phonemic
+12-680-525-1,lakk1252,Lak (Balkhar dialect),193,мюршсса,CyrillTrans,shallow,,,moˤršs̄a,Phonemic
+12-670-525-1,lakk1252,Lak (Balkhar dialect),1593,кӀуртӀсса,CyrillTrans,deep,,,k̛urt̛s̄a,Phonemic
+12-650-525-1,lakk1252,Lak (Balkhar dialect),2249,кІюласса,CyrillTrans,thin (in dimension),,,k̛oˤlas̄a,Phonemic
+12-630-525-1,lakk1252,Lak (Balkhar dialect),1244,ганзсса,CyrillTrans,thick (in dimension),,,ganzs̄a,Phonemic
+12-620-525-1,lakk1252,Lak (Balkhar dialect),1267,уттакӀюласса,CyrillTrans,narrow,,,ut̄ak̛oˤlas̄a,Phonemic
+12-610-525-1,lakk1252,Lak (Balkhar dialect),1243,уттасса,CyrillTrans,"wide, broad",,,ut̄as̄a,Phonemic
+12-590-525-1,lakk1252,Lak (Balkhar dialect),1645,кӀутӀасса,CyrillTrans,short,,,k̛ut̛as̄a,Phonemic
+12-580-525-1,lakk1252,Lak (Balkhar dialect),711,лахъсса,CyrillTrans,tall,,,laqs̄a,Phonemic
+12-570-525-1,lakk1252,Lak (Balkhar dialect),1203,лахъисса,CyrillTrans,long,,,laqis̄a,Phonemic
+12-560-525-1,lakk1252,Lak (Balkhar dialect),1246,чӀирисса,CyrillTrans,"small, little",,,č̛iris̄a,Phonemic
+12-550-525-1,lakk1252,Lak (Balkhar dialect),1202,хъуннасса,CyrillTrans,"large, big",,,qunnas̄a,Phonemic
+12-540-525-1,lakk1252,Lak (Balkhar dialect),1506,дуцлан,CyrillTrans,measure,,,duclan,Phonemic
+12-530-525-1,lakk1252,Lak (Balkhar dialect),479,ххяхлан,CyrillTrans,grow,,,x̄aˤxlan,Phonemic
+12-480-525-1,lakk1252,Lak (Balkhar dialect),1595,къилба,CyrillTrans,south,,,Gilba,Phonemic
+12-470-525-1,lakk1252,Lak (Balkhar dialect),1598,ухссав,CyrillTrans,north,,,uxs̄aw,Phonemic
+12-460-525-1,lakk1252,Lak (Balkhar dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-525-1,lakk1252,Lak (Balkhar dialect),1877,машрикь,CyrillTrans,east,,,mašriq̛,Phonemic
+12-430-525-1,lakk1252,Lak (Balkhar dialect),1942,чӀабту,CyrillTrans,near (adv),,,č̛abtu,Phonemic
+12-440-525-1,lakk1252,Lak (Balkhar dialect),1406,арххун,CyrillTrans,far (adv),,,arx̄un,Phonemic
+12-420-525-1,lakk1252,Lak (Balkhar dialect),244,кийачулийал,CyrillTrans,left (side),,,kiyačuliyal,Phonemic
+12-410-525-1,lakk1252,Lak (Balkhar dialect),1019,урчӀачулийал,CyrillTrans,right (side),,,urč̛ačuliyal,Phonemic
+12-370-525-1,lakk1252,Lak (Balkhar dialect),1093,дянийалу,CyrillTrans,"middle, center",,,daˤniyalu,Phonemic
+12-360-525-1,lakk1252,Lak (Balkhar dialect),682,чулухал,CyrillTrans,side,,,čuluxal,Phonemic
+12-353-525-1,lakk1252,Lak (Balkhar dialect),863,зма,CyrillTrans,edge,,,zma,Phonemic
+12-352-525-1,lakk1252,Lak (Balkhar dialect),372,мицӀдусса,CyrillTrans,pointed,,,mic̛dus̄a,Phonemic
+12-350-525-1,lakk1252,Lak (Balkhar dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-525-1,lakk1252,Lak (Balkhar dialect),690,лувалу,CyrillTrans,bottom,,,luwalu,Phonemic
+12-320-525-1,lakk1252,Lak (Balkhar dialect),721,лагьну,CyrillTrans,low,,,lahnu,Phonemic
+12-330-525-1,lakk1252,Lak (Balkhar dialect),1753,мицӀ,CyrillTrans,top,,,"mic̛, bac̛",Phonemic
+12-330-525-3,lakk1252,Lak (Balkhar dialect),1753,бакӀ,CyrillTrans,top,,,"mic̛, bac̛",Phonemic
+12-310-525-1,lakk1252,Lak (Balkhar dialect),1265,лахъну,CyrillTrans,high,,,laqnu,Phonemic
+12-270-525-1,lakk1252,Lak (Balkhar dialect),602,лайдишин,CyrillTrans,"hide, conceal",,,laydišin,Phonemic
+12-250-525-1,lakk1252,Lak (Balkhar dialect),1046,лаълан,CyrillTrans,"shut, close",,,laɁlan,Phonemic
+12-260-525-1,lakk1252,Lak (Balkhar dialect),761,йалун дутлан,CyrillTrans,cover,,,yalun dutlan,Phonemic
+12-240-525-1,lakk1252,Lak (Balkhar dialect),1156,тӀитӀлан,CyrillTrans,open,,,t̛it̛lan,Phonemic
+12-232-525-1,lakk1252,Lak (Balkhar dialect),1119,дачӀлан,CyrillTrans,divide,,,dac̛lan,Phonemic
+12-230-525-1,lakk1252,Lak (Balkhar dialect),1359,батӀул дан,CyrillTrans,separate,,,bat̛ul dan,Phonemic
+12-220-525-1,lakk1252,Lak (Balkhar dialect),1743,цӀачӀун дан,CyrillTrans,"join, unite",,,c̛ač̛un dan,Phonemic
+12-213-525-1,lakk1252,Lak (Balkhar dialect),1576,йалун диглан,CyrillTrans,pile up,,,yalun diglan,Phonemic
+12-212-525-1,lakk1252,Lak (Balkhar dialect),371,гьаз дан,CyrillTrans,pick up,,,haz dan,Phonemic
+12-210-525-1,lakk1252,Lak (Balkhar dialect),7,дацӀлан,CyrillTrans,"collect, gather",,,dac̛lan,Phonemic
+12-170-525-1,lakk1252,Lak (Balkhar dialect),838,личсса мигьай,CyrillTrans,"remains, left overs",,,"ličs̄a mihay, maxun dahmur",Phonemic
+12-170-525-3,lakk1252,Lak (Balkhar dialect),838,махун дагьмур,CyrillTrans,"remains, left overs",,,"ličs̄a mihay, maxun dahmur",Phonemic
+12-160-525-1,lakk1252,Lak (Balkhar dialect),987,ацӀан,CyrillTrans,"remain, stay",,,ac̛an,Phonemic
+12-150-525-1,lakk1252,Lak (Balkhar dialect),1442,ацӀан,CyrillTrans,stand,,,ac̛an,Phonemic
+12-140-525-1,lakk1252,Lak (Balkhar dialect),215,утту ишин,CyrillTrans,lie down,,,ut̄u išin,Phonemic
+12-130-525-1,lakk1252,Lak (Balkhar dialect),1416,щяикӀан,CyrillTrans,sit,,,š̄aˤik̛an,Phonemic
+12-120-525-1,lakk1252,Lak (Balkhar dialect),998,дишин,CyrillTrans,put,,,dišin,Phonemic
+12-110-525-1,lakk1252,Lak (Balkhar dialect),723,кӀан,CyrillTrans,place,,,k̛an,Phonemic
+12-80-525-1,lakk1252,Lak (Balkhar dialect),1591,йалуб,CyrillTrans,"up, above",,,yalub,Phonemic
+12-70-525-1,lakk1252,Lak (Balkhar dialect),1485,лубту,CyrillTrans,under,,,lubtu,Phonemic
+12-60-525-1,lakk1252,Lak (Balkhar dialect),762,атӀух,CyrillTrans,outside,,,"at̛ux, yalt̄u",Phonemic
+12-60-525-3,lakk1252,Lak (Balkhar dialect),762,йалтту,CyrillTrans,outside,,,"at̛ux, yalt̄u",Phonemic
+12-50-525-1,lakk1252,Lak (Balkhar dialect),1606,ибту,CyrillTrans,"inside, in",,,ibtu,Phonemic
+12-41-525-1,lakk1252,Lak (Balkhar dialect),1883,хьхьичӀалу,CyrillTrans,front,,,x̌̄ič̛alu,Phonemic
+12-40-525-1,lakk1252,Lak (Balkhar dialect),1882,хьхьичӀабай,CyrillTrans,before,,,"x̌̄ič̛abay, x̌̄ič̛alu",Phonemic
+12-40-525-3,lakk1252,Lak (Balkhar dialect),1882,хьхьичӀалу,CyrillTrans,before,,,"x̌̄ič̛abay, x̌̄ič̛alu",Phonemic
+12-30-525-1,lakk1252,Lak (Balkhar dialect),2094,ялабайну,CyrillTrans,"down, below",,,yalabaynu,Phonemic
+12-20-525-1,lakk1252,Lak (Balkhar dialect),1816,чӀабту,CyrillTrans,beside,,,č̛abtu,Phonemic
+12-11-525-1,lakk1252,Lak (Balkhar dialect),1686,махъ,CyrillTrans,behind,,,maq,Phonemic
+12-10-525-1,lakk1252,Lak (Balkhar dialect),1685,йала,CyrillTrans,after,,,yala,Phonemic
+11-920-525-1,lakk1252,Lak (Balkhar dialect),1098,дуцан,CyrillTrans,weigh,,,ducan,Phonemic
+11-910-525-1,lakk1252,Lak (Balkhar dialect),884,батӀул дуллан,CyrillTrans,share (distribute),,,bat̛ul dullan,Phonemic
+11-890-525-1,lakk1252,Lak (Balkhar dialect),1887,оьръосса,CyrillTrans,cheap,,,oˤrɁos̄a,Phonemic
+11-880-525-1,lakk1252,Lak (Balkhar dialect),1426,ххирасса,CyrillTrans,"dear (costly, expensive)",,,x̄iras̄a,Phonemic
+11-870-525-1,lakk1252,Lak (Balkhar dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-525-1,lakk1252,Lak (Balkhar dialect),752,тучан,CyrillTrans,"store, shop",,,tučan,Phonemic
+11-850-525-1,lakk1252,Lak (Balkhar dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-525-1,lakk1252,Lak (Balkhar dialect),1082,машачи,CyrillTrans,merchant,,,mašači,Phonemic
+11-830-525-1,lakk1252,Lak (Balkhar dialect),2135,маша-хаша,CyrillTrans,"trade, barter",,,maša-xaša,Phonemic
+11-820-525-1,lakk1252,Lak (Balkhar dialect),1571,дахлан,CyrillTrans,sell,,,daxlan,Phonemic
+11-810-525-1,lakk1252,Lak (Balkhar dialect),1869,ласлан,CyrillTrans,buy,,,"laslan, mašan laslan",Phonemic
+11-810-525-3,lakk1252,Lak (Balkhar dialect),1869,машан ласлан,CyrillTrans,buy,,,"laslan, mašan laslan",Phonemic
+11-790-525-1,lakk1252,Lak (Balkhar dialect),733,ляхълан,CyrillTrans,earn,,,laˤqlan,Phonemic
+11-780-525-1,lakk1252,Lak (Balkhar dialect),1122,харж,CyrillTrans,wages,,,"xarž, napaGa",Phonemic
+11-780-525-3,lakk1252,Lak (Balkhar dialect),1122,напакьа,CyrillTrans,wages,,,"xarž, napaGa",Phonemic
+11-770-525-1,lakk1252,Lak (Balkhar dialect),856,киралуй ласун,CyrillTrans,hire,,,kiraluy lasun,Phonemic
+11-690-525-1,lakk1252,Lak (Balkhar dialect),873,налукІ,CyrillTrans,"tax, tribute",,,naluk̛,Phonemic
+11-660-525-1,lakk1252,Lak (Balkhar dialect),1081,гьисав,CyrillTrans,"account, reckoning",,,hisaw,Phonemic
+11-650-525-1,lakk1252,Lak (Balkhar dialect),718,арцу дулун,CyrillTrans,pay (vb),,,"arcu dulun, baha bullan",Phonemic
+11-650-525-3,lakk1252,Lak (Balkhar dialect),718,багьа буллан,CyrillTrans,pay (vb),,,"arcu dulun, baha bullan",Phonemic
+11-640-525-1,lakk1252,Lak (Balkhar dialect),1914,бурж,CyrillTrans,debt,,,burž,Phonemic
+11-630-525-1,lakk1252,Lak (Balkhar dialect),369,буржлуну икIан,CyrillTrans,owe,,,buržlunu ik̛an,Phonemic
+11-620-525-1,lakk1252,Lak (Balkhar dialect),1823,буржирай ласун,CyrillTrans,borrow,,,buržiray lasun,Phonemic
+11-610-525-1,lakk1252,Lak (Balkhar dialect),582,буржирай дулун,CyrillTrans,lend,,,buržiray dulun,Phonemic
+11-540-525-1,lakk1252,Lak (Balkhar dialect),1774,чӀувусса,CyrillTrans,"avaricious, stingy",,,"č̛uwus̄a, č̛uruq̛s̄a",Phonemic
+11-540-525-3,lakk1252,Lak (Balkhar dialect),1774,чӀурукьсса,CyrillTrans,"avaricious, stingy",,,"č̛uwus̄a, č̛uruq̛s̄a",Phonemic
+11-530-525-1,lakk1252,Lak (Balkhar dialect),1934,чӀатӀун укку,CyrillTrans,beggar,,,č̛at̛un uk̄u,Phonemic
+11-520-525-1,lakk1252,Lak (Balkhar dialect),1674,мискIинсса,CyrillTrans,poor,,,misk̛ins̄a,Phonemic
+11-510-525-1,lakk1252,Lak (Balkhar dialect),712,ттуршамасса,CyrillTrans,rich,,,t̄uršamas̄a,Phonemic
+11-440-525-1,lakk1252,Lak (Balkhar dialect),1867,ашрапи,CyrillTrans,coin,,,ašrapi,Phonemic
+11-430-525-1,lakk1252,Lak (Balkhar dialect),1559,арцу,CyrillTrans,money,,,arcu,Phonemic
+11-340-525-1,lakk1252,Lak (Balkhar dialect),1095,ита даълан,CyrillTrans,"release, let go",,,ita daɁlan,Phonemic
+11-330-525-1,lakk1252,Lak (Balkhar dialect),1660,дяйъин дан,CyrillTrans,lose,,,daˤyɁin dan,Phonemic
+11-320-525-1,lakk1252,Lak (Balkhar dialect),719,лякълан,CyrillTrans,find,,,laˤGlan,Phonemic
+11-310-525-1,lakk1252,Lak (Balkhar dialect),1468,луган,CyrillTrans,"seek, look for",,,lugan,Phonemic
+11-280-525-1,lakk1252,Lak (Balkhar dialect),44,зарал бан,CyrillTrans,"harm, injure, damage",,,zaral ban,Phonemic
+11-270-525-1,lakk1252,Lak (Balkhar dialect),681,лиян дуллан,CyrillTrans,destroy,,,liyan dullan,Phonemic
+11-250-525-1,lakk1252,Lak (Balkhar dialect),2008,ххассал уллан,CyrillTrans,"save, rescue",,,x̄as̄al ullan,Phonemic
+11-240-525-1,lakk1252,Lak (Balkhar dialect),1997,йа дан,CyrillTrans,"preserve, look after",,,ya dan,Phonemic
+11-220-525-1,lakk1252,Lak (Balkhar dialect),85,зана дитлан,CyrillTrans,give back,,,zana ditlan,Phonemic
+11-210-525-1,lakk1252,Lak (Balkhar dialect),1447,дуллан,CyrillTrans,give,,,dyllan,Phonemic
+11-180-525-1,lakk1252,Lak (Balkhar dialect),738,за,CyrillTrans,thing,,,za,Phonemic
+11-170-525-1,lakk1252,Lak (Balkhar dialect),1477,сахъ дан,CyrillTrans,"keep, retain",,,saq dan,Phonemic
+11-160-525-1,lakk1252,Lak (Balkhar dialect),694,дукӀлан,CyrillTrans,"get, obtain",,,duk̛lan,Phonemic
+11-150-525-1,lakk1252,Lak (Balkhar dialect),1448,дугьан,CyrillTrans,hold,,,duhan,Phonemic
+11-140-525-1,lakk1252,Lak (Balkhar dialect),2021,хъап дан,CyrillTrans,"seize, grasp",,,qap dan,Phonemic
+11-130-525-1,lakk1252,Lak (Balkhar dialect),1749,ласлан,CyrillTrans,take,,,laslan,Phonemic
+11-120-525-1,lakk1252,Lak (Balkhar dialect),684,каялуришибу дан,CyrillTrans,"own, possess",,,kayalurišibu dan,Phonemic
+11-110-525-1,lakk1252,Lak (Balkhar dialect),773,дикІан,CyrillTrans,have,,,dik̛an,Phonemic
+10-910-525-1,lakk1252,Lak (Balkhar dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-525-1,lakk1252,Lak (Balkhar dialect),1870,якорь,CyrillTrans,anchor,,,yakorʲ,Phonemic
+10-880-525-1,lakk1252,Lak (Balkhar dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-525-1,lakk1252,Lak (Balkhar dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-525-1,lakk1252,Lak (Balkhar dialect),108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-852-525-1,lakk1252,Lak (Balkhar dialect),1849,бяхлан,CyrillTrans,row (vb),,,baˤxlan,Phonemic
+10-851-525-1,lakk1252,Lak (Balkhar dialect),234,чІатІа,CyrillTrans,paddle (noun),,,čʼat̛a,Phonemic
+10-850-525-1,lakk1252,Lak (Balkhar dialect),108,чІатІа,CyrillTrans,oar,,,čʼat̛a,Phonemic
+10-840-525-1,lakk1252,Lak (Balkhar dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-525-1,lakk1252,Lak (Balkhar dialect),416,къайахъ,CyrillTrans,outrigger,,,Gayaq,Phonemic
+10-831-525-1,lakk1252,Lak (Balkhar dialect),1970,къайахъ,CyrillTrans,canoe,,,Gayaq,Phonemic
+10-830-525-1,lakk1252,Lak (Balkhar dialect),1844,къайахъ,CyrillTrans,boat,,,Gayaq,Phonemic
+10-810-525-1,lakk1252,Lak (Balkhar dialect),740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-525-1,lakk1252,Lak (Balkhar dialect),14,рукІ,CyrillTrans,yoke,,,ruk̛,Phonemic
+10-770-525-1,lakk1252,Lak (Balkhar dialect),1769,кучалагъач,CyrillTrans,axle,,,kučalaɣač,Phonemic
+10-760-525-1,lakk1252,Lak (Balkhar dialect),710,ями,CyrillTrans,wheel,,,yami,Phonemic
+10-750-525-1,lakk1252,Lak (Balkhar dialect),122,аьраба,CyrillTrans,"carriage, wagon, cart",,,aˤraba,Phonemic
+10-740-525-1,lakk1252,Lak (Balkhar dialect),1011,ламу,CyrillTrans,bridge,,,lamu,Phonemic
+10-720-525-1,lakk1252,Lak (Balkhar dialect),2252,ххуллу,CyrillTrans,path,,,x̄ullu,Phonemic
+10-710-525-1,lakk1252,Lak (Balkhar dialect),667,ххуллу,CyrillTrans,road,,,x̄ullu,Phonemic
+10-670-525-1,lakk1252,Lak (Balkhar dialect),1452,къуч тӀун,CyrillTrans,"push, shove",,,Guč t̛un,Phonemic
+10-660-525-1,lakk1252,Lak (Balkhar dialect),367,балчаннуй нан,CyrillTrans,ride,,,balcannuy nan,Phonemic
+10-650-525-1,lakk1252,Lak (Balkhar dialect),741,машиналий нан,CyrillTrans,drive,,,mašinaliy nan,Phonemic
+10-640-525-1,lakk1252,Lak (Balkhar dialect),43,нани бан,CyrillTrans,lead (vb),,,nani ban,Phonemic
+10-630-525-1,lakk1252,Lak (Balkhar dialect),1127,гьан дуллан,CyrillTrans,send,,,han dullan,Phonemic
+10-620-525-1,lakk1252,Lak (Balkhar dialect),692,гьиглан,CyrillTrans,bring,,,higlan,Phonemic
+10-615-525-1,lakk1252,Lak (Balkhar dialect),415,хъаралух дургьун нан,CyrillTrans,carry-underarm,,,qaralux durhun nan,Phonemic
+10-614-525-1,lakk1252,Lak (Balkhar dialect),414,бакӀрай дургьун нан,CyrillTrans,carry-on-head,,,bak̛ray durhun nan,Phonemic
+10-613-525-1,lakk1252,Lak (Balkhar dialect),413,лахъун нан,CyrillTrans,carry-on-shoulder,,,laqun nan,Phonemic
+10-612-525-1,lakk1252,Lak (Balkhar dialect),412,канил дургьун нан,CyrillTrans,carry-in-hand,,,kanil durhun nan,Phonemic
+10-610-525-1,lakk1252,Lak (Balkhar dialect),700,ларсун нан,CyrillTrans,carry (bear),,,larsun nan,Phonemic
+10-570-525-1,lakk1252,Lak (Balkhar dialect),749,уххан,CyrillTrans,enter,,,ux̄an,Phonemic
+10-560-525-1,lakk1252,Lak (Balkhar dialect),1778,гъан хъанан,CyrillTrans,approach,,,ɣan qanan,Phonemic
+10-550-525-1,lakk1252,Lak (Balkhar dialect),1387,мурадирайн биян,CyrillTrans,"reach, arrive",,,muradirayn biyan,Phonemic
+10-530-525-1,lakk1252,Lak (Balkhar dialect),1047,хъриб ацӀан,CyrillTrans,pursue,,,qrib ac̛an,Phonemic
+10-520-525-1,lakk1252,Lak (Balkhar dialect),1085,хъриб нан,CyrillTrans,follow,,,qrib nan,Phonemic
+10-510-525-1,lakk1252,Lak (Balkhar dialect),956,лихъан,CyrillTrans,flee,,,liqan,Phonemic
+10-491-525-1,lakk1252,Lak (Balkhar dialect),485,аьйълан,CyrillTrans,disappear,,,aˤyɁlan,Phonemic
+10-490-525-1,lakk1252,Lak (Balkhar dialect),1752,гьан,CyrillTrans,"go away, depart",,,han,Phonemic
+10-481-525-1,lakk1252,Lak (Balkhar dialect),581,зана икӀун учӀан,CyrillTrans,come back,,,zana ik̛un uc̛an,Phonemic
+10-480-525-1,lakk1252,Lak (Balkhar dialect),1446,укӀлан,CyrillTrans,come,,,uk̛lan,Phonemic
+10-474-525-1,lakk1252,Lak (Balkhar dialect),1107,уккун нан,CyrillTrans,go out,,,uk̄un nan,Phonemic
+10-473-525-1,lakk1252,Lak (Balkhar dialect),2014,убчӀун нан,CyrillTrans,go down,,,ubč̛un nan,Phonemic
+10-472-525-1,lakk1252,Lak (Balkhar dialect),1102,лабхъун нан,CyrillTrans,climb,,,labqun nan,Phonemic
+10-470-525-1,lakk1252,Lak (Balkhar dialect),695,нан,CyrillTrans,go,,,nan,Phonemic
+10-471-525-1,lakk1252,Lak (Balkhar dialect),705,лабхъун нан,CyrillTrans,go up,,,labqun nan,Phonemic
+10-460-525-1,lakk1252,Lak (Balkhar dialect),1519,лечин,CyrillTrans,run,,,lečin,Phonemic
+10-451-525-1,lakk1252,Lak (Balkhar dialect),366,аьрк тӀун,CyrillTrans,limp,,,aˤrk t̛un,Phonemic
+10-450-525-1,lakk1252,Lak (Balkhar dialect),1443,занан,CyrillTrans,walk,,,zanan,Phonemic
+10-440-525-1,lakk1252,Lak (Balkhar dialect),1879,къан тӀун,CyrillTrans,dance,,,Gan t̛un,Phonemic
+10-431-525-1,lakk1252,Lak (Balkhar dialect),1135,ччан щун,CyrillTrans,kick,,,č̄an š̄un,Phonemic
+10-430-525-1,lakk1252,Lak (Balkhar dialect),1829,танкӀ тӀун,CyrillTrans,"jump, leap",,,tank̛̛ t̛un,Phonemic
+10-420-525-1,lakk1252,Lak (Balkhar dialect),1324,ччих иклан,CyrillTrans,"slide, slip",,,č̄ix iklan,Phonemic
+10-413-525-1,lakk1252,Lak (Balkhar dialect),296,щяикӀлан,CyrillTrans,crouch,,,š̄aˤik̛lan,Phonemic
+10-412-525-1,lakk1252,Lak (Balkhar dialect),66,никирттайн агьан,CyrillTrans,kneel,,,nikirt̄ayn ahan,Phonemic
+10-410-525-1,lakk1252,Lak (Balkhar dialect),96,ххюрхху тӀун,CyrillTrans,"creep, crawl",,,x̄oˤrx̄u t̛un,Phonemic
+10-380-525-1,lakk1252,Lak (Balkhar dialect),175,уф тIун,CyrillTrans,blow,,,uf t̛un,Phonemic
+10-370-525-1,lakk1252,Lak (Balkhar dialect),1441,лехлан,CyrillTrans,fly (vb),,,lexlan,Phonemic
+10-360-525-1,lakk1252,Lak (Balkhar dialect),787,гьюзун,CyrillTrans,sail (vb),,,hoˤzun,Phonemic
+10-352-525-1,lakk1252,Lak (Balkhar dialect),365,чабхъюр тIун,CyrillTrans,splash,,,čabqoˤr t̛un,Phonemic
+10-351-525-1,lakk1252,Lak (Balkhar dialect),119,гьюзун,CyrillTrans,dive,,,hoˤzun,Phonemic
+10-350-525-1,lakk1252,Lak (Balkhar dialect),1439,гьюзун,CyrillTrans,swim,,,hoˤzun,Phonemic
+10-340-525-1,lakk1252,Lak (Balkhar dialect),1574,гьюзун щинал ялтту,CyrillTrans,float,,,hoˤzun š̄inal yalt̄u,Phonemic
+10-330-525-1,lakk1252,Lak (Balkhar dialect),1088,оьълан,CyrillTrans,sink,,,oˤɁlan,Phonemic
+10-320-525-1,lakk1252,Lak (Balkhar dialect),2003,эъи нан,CyrillTrans,flow,,,eɁi nan,Phonemic
+10-260-525-1,lakk1252,Lak (Balkhar dialect),1909,зурзу тӀибан,CyrillTrans,shake,,,"zurzu t̛iban, suk̄u bullan",Phonemic
+10-260-525-3,lakk1252,Lak (Balkhar dialect),1909,сукку буллан,CyrillTrans,shake,,,"zurzu t̛iban, suk̄u bullan",Phonemic
+10-252-525-1,lakk1252,Lak (Balkhar dialect),702,дугьан,CyrillTrans,catch (ball),,,"duhan, duhlan",Phonemic
+10-252-525-3,lakk1252,Lak (Balkhar dialect),702,дугьлан,CyrillTrans,catch (ball),,,"duhan, duhlan",Phonemic
+10-250-525-1,lakk1252,Lak (Balkhar dialect),1456,дутлан,CyrillTrans,throw,,,dutlan,Phonemic
+10-240-525-1,lakk1252,Lak (Balkhar dialect),2253,кӀунтӀру бутӀлан,CyrillTrans,drip,,,k̛unt̛ru but̛lan,Phonemic
+10-230-525-1,lakk1252,Lak (Balkhar dialect),1280,дагьан,CyrillTrans,fall,,,dahan,Phonemic
+10-220-525-1,lakk1252,Lak (Balkhar dialect),501,гьаз дан,CyrillTrans,"raise, lift",,,haz dan,Phonemic
+10-210-525-1,lakk1252,Lak (Balkhar dialect),568,лавай нан,CyrillTrans,rise,,,laway nan,Phonemic
+10-170-525-1,lakk1252,Lak (Balkhar dialect),430,цӀирку дуллан,CyrillTrans,twist,,,c̛irku dullan,Phonemic
+10-160-525-1,lakk1252,Lak (Balkhar dialect),808,кӀунтӀа тӀун,CyrillTrans,drop (vb),,,k̛unt̛a t̛un,Phonemic
+10-150-525-1,lakk1252,Lak (Balkhar dialect),827,цӀирку тӀидан,CyrillTrans,roll,,,c̛irku t̛idan,Phonemic
+10-140-525-1,lakk1252,Lak (Balkhar dialect),1113,каен,CyrillTrans,"wind, wrap",,,kayen,Phonemic
+10-130-525-1,lakk1252,Lak (Balkhar dialect),1445,зана икӀан,CyrillTrans,turn around,,,zana ik̛an,Phonemic
+10-120-525-1,lakk1252,Lak (Balkhar dialect),1588,циркIу хьун,CyrillTrans,turn over,,,cirk̛u x̌un,Phonemic
+10-110-525-1,lakk1252,Lak (Balkhar dialect),765,сукку тӀун,CyrillTrans,move,,,suk̄u t̛un,Phonemic
+9-890-525-1,lakk1252,Lak (Balkhar dialect),2001,сир буккан,CyrillTrans,paint (vb),,,sir buk̄an,Phonemic
+9-840-525-1,lakk1252,Lak (Balkhar dialect),1979,щина,CyrillTrans,chisel,,,š̄ina,Phonemic
+9-880-525-1,lakk1252,Lak (Balkhar dialect),647,сир,CyrillTrans,paint (noun),,,sir,Phonemic
+9-830-525-1,lakk1252,Lak (Balkhar dialect),1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-525-1,lakk1252,Lak (Balkhar dialect),914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-525-1,lakk1252,Lak (Balkhar dialect),228,учин,CyrillTrans,carve,,,učin,Phonemic
+9-791-525-1,lakk1252,Lak (Balkhar dialect),360,марч дан,CyrillTrans,fan (vb),,,marč dan,Phonemic
+9-790-525-1,lakk1252,Lak (Balkhar dialect),1971,вентилятор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-525-1,lakk1252,Lak (Balkhar dialect),293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-525-1,lakk1252,Lak (Balkhar dialect),292,бартбиссу,CyrillTrans,rug,,,bartbis̄u,Phonemic
+9-770-525-1,lakk1252,Lak (Balkhar dialect),195,хъа,CyrillTrans,mat,,,"qa, hit̄a",Phonemic
+9-770-525-3,lakk1252,Lak (Balkhar dialect),195,гьитта,CyrillTrans,mat,,,"qa, hit̄a",Phonemic
+9-760-525-1,lakk1252,Lak (Balkhar dialect),1539,чӀапа,CyrillTrans,basket,,,č̛apa,Phonemic
+9-750-525-1,lakk1252,Lak (Balkhar dialect),1729,щан,CyrillTrans,"weave, plait",,,"š̄an, š̄ašlan",Phonemic
+9-750-525-3,lakk1252,Lak (Balkhar dialect),1729,щашлан,CyrillTrans,"weave, plait",,,"š̄an, š̄ašlan",Phonemic
+9-740-525-1,lakk1252,Lak (Balkhar dialect),604,пюрун,CyrillTrans,glass,,,poˤrun,Phonemic
+9-730-525-1,lakk1252,Lak (Balkhar dialect),1399,аьрщи,CyrillTrans,clay,,,aˤrš̄i,Phonemic
+9-720-525-1,lakk1252,Lak (Balkhar dialect),289,куц буллан,CyrillTrans,mold (clay etc),,,cuc bulan,Phonemic
+9-710-525-1,lakk1252,Lak (Balkhar dialect),359,тӀяхӀни дугу,CyrillTrans,potter,,,t̛aˤћni dugu,Phonemic
+9-690-525-1,lakk1252,Lak (Balkhar dialect),358,кIла мах,CyrillTrans,"tin, tinplate",,,k̛la max,Phonemic
+9-680-525-1,lakk1252,Lak (Balkhar dialect),627,чӀути,CyrillTrans,lead (noun),,,č̛uti,Phonemic
+9-670-525-1,lakk1252,Lak (Balkhar dialect),621,мах,CyrillTrans,iron,,,max,Phonemic
+9-660-525-1,lakk1252,Lak (Balkhar dialect),1825,дубсси,CyrillTrans,"copper, bronze",,,dubs̄i,Phonemic
+9-650-525-1,lakk1252,Lak (Balkhar dialect),759,арцулсса,CyrillTrans,silver,,,arculs̄a,Phonemic
+9-640-525-1,lakk1252,Lak (Balkhar dialect),1369,муси,CyrillTrans,gold,,,musi,Phonemic
+9-630-525-1,lakk1252,Lak (Balkhar dialect),211,къалип буллан,CyrillTrans,cast (metals),,,Galip bullan,Phonemic
+9-620-525-1,lakk1252,Lak (Balkhar dialect),1648,лубзи,CyrillTrans,anvil,,,lubzi,Phonemic
+9-610-525-1,lakk1252,Lak (Balkhar dialect),288,къалай къатта,CyrillTrans,forge,,,Galay Gat̄a,Phonemic
+9-600-525-1,lakk1252,Lak (Balkhar dialect),1001,муххал устар,CyrillTrans,"smith, blacksmith",,,"mux̄al ustar, Galayči",Phonemic
+9-600-525-3,lakk1252,Lak (Balkhar dialect),1001,къалайчи,CyrillTrans,"smith, blacksmith",,,"mux̄al ustar, Galayči",Phonemic
+9-560-525-1,lakk1252,Lak (Balkhar dialect),1069,сина,CyrillTrans,glue,,,sina,Phonemic
+9-500-525-1,lakk1252,Lak (Balkhar dialect),502,мяр,CyrillTrans,nail,,,maˤr,Phonemic
+9-490-525-1,lakk1252,Lak (Balkhar dialect),1481,оьтилу,CyrillTrans,hammer,,,oˤtilu,Phonemic
+9-480-525-1,lakk1252,Lak (Balkhar dialect),1948,ххарачӀани,CyrillTrans,saw,,,x̄arač̛ani,Phonemic
+9-461-525-1,lakk1252,Lak (Balkhar dialect),46,духьхьин дан,CyrillTrans,hollow out,,,dux̌̄in dan,Phonemic
+9-460-525-1,lakk1252,Lak (Balkhar dialect),1501,ккутӀ,CyrillTrans,bore,,,k̄utʼ,Phonemic
+9-440-525-1,lakk1252,Lak (Balkhar dialect),1840,къатта буллан,CyrillTrans,build,,,Gat̄a bullan,Phonemic
+9-430-525-1,lakk1252,Lak (Balkhar dialect),1042,тӀаннул усттар,CyrillTrans,carpenter,,,t̛annul ustar,Phonemic
+9-422-525-1,lakk1252,Lak (Balkhar dialect),1361,йарагъ,CyrillTrans,tool,,,yaraɣ,Phonemic
+9-380-525-1,lakk1252,Lak (Balkhar dialect),245,чӀатлу,CyrillTrans,broom,,,"č̛atlu, c̛uši",Phonemic
+9-380-525-3,lakk1252,Lak (Balkhar dialect),245,цӀуши,CyrillTrans,broom,,,"č̛atlu, c̛uši",Phonemic
+9-360-525-1,lakk1252,Lak (Balkhar dialect),1453,шюшлан,CyrillTrans,wash,,,soˤslan,Phonemic
+9-370-525-1,lakk1252,Lak (Balkhar dialect),230,дахьлан,CyrillTrans,sweep,,,dax̌lan,Phonemic
+9-350-525-1,lakk1252,Lak (Balkhar dialect),1487,дутӀлан,CyrillTrans,pour,,,"dut̛lan, dut̛in",Phonemic
+9-350-525-3,lakk1252,Lak (Balkhar dialect),1487,дутӀин,CyrillTrans,pour,,,"dut̛lan, dut̛in",Phonemic
+9-343-525-1,lakk1252,Lak (Balkhar dialect),1414,хьхьицӀин,CyrillTrans,"squeeze, wring",,,x̌̄ic̛in,Phonemic
+9-342-525-1,lakk1252,Lak (Balkhar dialect),1913,гъюж дан,CyrillTrans,press,,,ɣoˤž dan,Phonemic
+9-341-525-1,lakk1252,Lak (Balkhar dialect),357,лахъан,CyrillTrans,hang up,,,laqan,Phonemic
+9-340-525-1,lakk1252,Lak (Balkhar dialect),38,ххишала бан,CyrillTrans,spread out,,,x̄išala ban,Phonemic
+9-330-525-1,lakk1252,Lak (Balkhar dialect),1455,кӀункӀу тӀун,CyrillTrans,pull,,,k̛unk̛u t̛un,Phonemic
+9-320-525-1,lakk1252,Lak (Balkhar dialect),214,ляхъи дуккан дан,CyrillTrans,stretch,,,laˤqi duk̄an dan,Phonemic
+9-310-525-1,lakk1252,Lak (Balkhar dialect),1449,лиххан дан,CyrillTrans,"rub, wipe",,,lix̄an dan,Phonemic
+9-290-525-1,lakk1252,Lak (Balkhar dialect),291,бурчу ликкан,CyrillTrans,"flay, skin",,,burču lik̄an,Phonemic
+9-280-525-1,lakk1252,Lak (Balkhar dialect),1735,диттун,CyrillTrans,tear,,,dit̄un,Phonemic
+9-270-525-1,lakk1252,Lak (Balkhar dialect),1437,гъагъан,CyrillTrans,split,,,ɣaɣan,Phonemic
+9-261-525-1,lakk1252,Lak (Balkhar dialect),588,гъаргъсса,CyrillTrans,broken,,,ɣarɣs̄a,Phonemic
+9-260-525-1,lakk1252,Lak (Balkhar dialect),680,гъагълан,CyrillTrans,break,,,ɣaɣlan,Phonemic
+9-250-525-1,lakk1252,Lak (Balkhar dialect),677,рикӀ,CyrillTrans,ax,,,rik̛,Phonemic
+9-251-525-1,lakk1252,Lak (Balkhar dialect),290,рикІ,CyrillTrans,adze,,,rik̛,Phonemic
+9-240-525-1,lakk1252,Lak (Balkhar dialect),356,хӀисилу,CyrillTrans,"scissors, shears",,,ћisilu,Phonemic
+9-230-525-1,lakk1252,Lak (Balkhar dialect),1352,чӀила,CyrillTrans,knife,,,č̛ila,Phonemic
+9-223-525-1,lakk1252,Lak (Balkhar dialect),1434,рищун,CyrillTrans,stab,,,riš̄un,Phonemic
+9-222-525-1,lakk1252,Lak (Balkhar dialect),155,гъагълан,CyrillTrans,"chop, hew",,,ɣaɣlan,Phonemic
+9-221-525-1,lakk1252,Lak (Balkhar dialect),355,кутӀа дуллан,CyrillTrans,cut down,,,kut̛a dullan,Phonemic
+9-220-525-1,lakk1252,Lak (Balkhar dialect),1432,уълан,CyrillTrans,cut,,,uɁlan,Phonemic
+9-211-525-1,lakk1252,Lak (Balkhar dialect),354,сакантту бишлан,CyrillTrans,pound with fist,,,sakant̄u bišlan,Phonemic
+9-210-525-1,lakk1252,Lak (Balkhar dialect),2133,атлан,CyrillTrans,"strike (hit, beat)",,,"atlan, datlan",Phonemic
+9-210-525-3,lakk1252,Lak (Balkhar dialect),2133,датлан,CyrillTrans,"strike (hit, beat)",,,"atlan, datlan",Phonemic
+9-192-525-1,lakk1252,Lak (Balkhar dialect),760,къурхъ,CyrillTrans,knot (noun),,,Gurq,Phonemic
+9-190-525-1,lakk1252,Lak (Balkhar dialect),1218,хӀинча,CyrillTrans,"rope, cord",,,ћinča,Phonemic
+9-180-525-1,lakk1252,Lak (Balkhar dialect),1627,раххаз,CyrillTrans,chain,,,rax̄az,Phonemic
+9-161-525-1,lakk1252,Lak (Balkhar dialect),352,духъин,CyrillTrans,untie,,,duqin,Phonemic
+9-160-525-1,lakk1252,Lak (Balkhar dialect),1917,дахӀин,CyrillTrans,"tie, bind",,,daћin,Phonemic
+9-150-525-1,lakk1252,Lak (Balkhar dialect),1470,кӀирахӀин дан,CyrillTrans,fold,,,k̛iraћin dan,Phonemic
+9-140-525-1,lakk1252,Lak (Balkhar dialect),2004,лахIан дуллан,CyrillTrans,bend,,,laћan dullan,Phonemic
+9-120-525-1,lakk1252,Lak (Balkhar dialect),984,дабу,CyrillTrans,work,,,dabu,Phonemic
+9-110-525-1,lakk1252,Lak (Balkhar dialect),2575,дуллан,CyrillTrans,"do, make",,,dullan,Phonemic
+8-980-525-1,lakk1252,Lak (Balkhar dialect),641,апитӀа,CyrillTrans,mushroom,,,apit̛a,Phonemic
+8-970-525-1,lakk1252,Lak (Balkhar dialect),33,мечӀ,CyrillTrans,nettle,,,meč̛,Phonemic
+8-940-525-1,lakk1252,Lak (Balkhar dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-525-1,lakk1252,Lak (Balkhar dialect),864,къабах,CyrillTrans,"pumpkin, squash",,,"Gabax, waɁaˤ",Phonemic
+8-931-525-3,lakk1252,Lak (Balkhar dialect),864,ваъаь,CyrillTrans,"pumpkin, squash",,,"Gabax, waɁaˤ",Phonemic
+8-930-525-1,lakk1252,Lak (Balkhar dialect),411,къабах,CyrillTrans,gourd,,,"Gabax, waɁaˤ",Phonemic
+8-930-525-3,lakk1252,Lak (Balkhar dialect),411,ваъаь,CyrillTrans,gourd,,,"Gabax, waɁaˤ",Phonemic
+8-912-525-1,lakk1252,Lak (Balkhar dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-525-1,lakk1252,Lak (Balkhar dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-525-1,lakk1252,Lak (Balkhar dialect),346,инжил,CyrillTrans,banyan,,,inžil,Phonemic
+8-840-525-1,lakk1252,Lak (Balkhar dialect),868,банан,CyrillTrans,banana tree,,,banan,Phonemic
+8-830-525-1,lakk1252,Lak (Balkhar dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-525-1,lakk1252,Lak (Balkhar dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-525-1,lakk1252,Lak (Balkhar dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-525-1,lakk1252,Lak (Balkhar dialect),345,уртул щин,CyrillTrans,sap,,,urtul š̄in,Phonemic
+8-750-525-1,lakk1252,Lak (Balkhar dialect),1204,чанну,CyrillTrans,bark,,,čannu,Phonemic
+8-740-525-1,lakk1252,Lak (Balkhar dialect),409,къянтта,CyrillTrans,forked branch,,,Gaˤnt̄a,Phonemic
+8-730-525-1,lakk1252,Lak (Balkhar dialect),344,ттала,CyrillTrans,tree trunk,,,t̄ala,Phonemic
+8-720-525-1,lakk1252,Lak (Balkhar dialect),241,кутук,CyrillTrans,tree stump,,,kutuk,Phonemic
+8-691-525-1,lakk1252,Lak (Balkhar dialect),1124,къалиян,CyrillTrans,pipe,,,Galiyan,Phonemic
+8-690-525-1,lakk1252,Lak (Balkhar dialect),1689,таммаxулул ппуркІу,CyrillTrans,smoke (tobacco),,,tammaxulul p̄urk̛u,Phonemic
+8-680-525-1,lakk1252,Lak (Balkhar dialect),974,таммаху,CyrillTrans,tobacco,,,tammaxu,Phonemic
+8-670-525-1,lakk1252,Lak (Balkhar dialect),343,тӀутӀул хълияй,CyrillTrans,vine,,,t̛ut̛ul qliyay,Phonemic
+8-660-525-1,lakk1252,Lak (Balkhar dialect),968,марахърал гьивхь,CyrillTrans,acorn,,,maraqral hiwx̌,Phonemic
+8-650-525-1,lakk1252,Lak (Balkhar dialect),1915,ель,CyrillTrans,fir,,,yelʲ,Phonemic
+8-640-525-1,lakk1252,Lak (Balkhar dialect),1740,ттарил мурхь,CyrillTrans,pine,,,t̄aril murx̌,Phonemic
+8-630-525-1,lakk1252,Lak (Balkhar dialect),1855,хӀаби,CyrillTrans,birch,,,ћabi,Phonemic
+8-620-525-1,lakk1252,Lak (Balkhar dialect),1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-525-1,lakk1252,Lak (Balkhar dialect),644,марахъ,CyrillTrans,oak,,,maraq,Phonemic
+8-600-525-1,lakk1252,Lak (Balkhar dialect),906,ахъ,CyrillTrans,tree,,,aq,Phonemic
+8-570-525-1,lakk1252,Lak (Balkhar dialect),239,тӀутӀи,CyrillTrans,flower,,,t̛ut̛i,Phonemic
+8-560-525-1,lakk1252,Lak (Balkhar dialect),628,чӀапӀи,CyrillTrans,leaf,,,č̛ap̛i,Phonemic
+8-550-525-1,lakk1252,Lak (Balkhar dialect),1531,аьрти,CyrillTrans,branch,,,"aˤrti, Gaˤrt̄a",Phonemic
+8-550-525-3,lakk1252,Lak (Balkhar dialect),1531,къяртта,CyrillTrans,branch,,,"aˤrti, Gaˤrt̄a",Phonemic
+8-540-525-1,lakk1252,Lak (Balkhar dialect),670,мархха,CyrillTrans,root,,,marx̄a,Phonemic
+8-531-525-1,lakk1252,Lak (Balkhar dialect),1486,дучӀан дуллан,CyrillTrans,plant (vb),,,"dučʼan dullan, duhlan",Phonemic
+8-531-525-3,lakk1252,Lak (Balkhar dialect),1486,дугьлан,CyrillTrans,plant (vb),,,"dučʼan dullan, duhlan",Phonemic
+8-520-525-1,lakk1252,Lak (Balkhar dialect),342,хлу,CyrillTrans,hay,,,xlu,Phonemic
+8-530-525-1,lakk1252,Lak (Balkhar dialect),653,ххиххия,CyrillTrans,plant (noun),,,"x̄ix̄iya, urt̄u",Phonemic
+8-530-525-3,lakk1252,Lak (Balkhar dialect),653,уртту,CyrillTrans,plant (noun),,,"x̄ix̄iya, urt̄u",Phonemic
+8-510-525-1,lakk1252,Lak (Balkhar dialect),606,уртту,CyrillTrans,grass,,,urt̄u,Phonemic
+8-480-525-1,lakk1252,Lak (Balkhar dialect),926,пинж,CyrillTrans,rice,,,pinž,Phonemic
+8-470-525-1,lakk1252,Lak (Balkhar dialect),506,хӀажикӀа,CyrillTrans,"maize, corn",,,"ћazik̛a, ћabzullač̛̛a",Phonemic
+8-470-525-3,lakk1252,Lak (Balkhar dialect),506,хӀабзуллачӀа,CyrillTrans,"maize, corn",,,"ћazik̛a, ћabzullač̛̛a",Phonemic
+8-460-525-1,lakk1252,Lak (Balkhar dialect),60,хъа,CyrillTrans,oats,,,qa,Phonemic
+8-450-525-1,lakk1252,Lak (Balkhar dialect),23,у,CyrillTrans,rye,,,u,Phonemic
+8-430-525-1,lakk1252,Lak (Balkhar dialect),1077,лачІа,CyrillTrans,wheat,,,lač̛a,Phonemic
+8-440-525-1,lakk1252,Lak (Balkhar dialect),932,нехъа,CyrillTrans,barley,,,neˤqa,Phonemic
+8-420-525-1,lakk1252,Lak (Balkhar dialect),605,къама,CyrillTrans,"grain (barley, oats etc)",,,Gama,Phonemic
+8-410-525-1,lakk1252,Lak (Balkhar dialect),611,бакӀлахъу,CyrillTrans,"crop, harvest",,,bak̛laqu,Phonemic
+8-350-525-1,lakk1252,Lak (Balkhar dialect),223,тук,CyrillTrans,threshing-floor,,,tuk,Phonemic
+8-340-525-1,lakk1252,Lak (Balkhar dialect),285,ччардан,CyrillTrans,thresh,,,č̄ardan,Phonemic
+8-330-525-1,lakk1252,Lak (Balkhar dialect),2132,мирхь,CyrillTrans,"sickle, scythe",,,"mirx̌, muћ",Phonemic
+8-330-525-3,lakk1252,Lak (Balkhar dialect),2132,мухӀ,CyrillTrans,"sickle, scythe",,,"mirx̌, muћ",Phonemic
+8-320-525-1,lakk1252,Lak (Balkhar dialect),190,цулун,CyrillTrans,"mow, reap",,,"culun, t̄ehlan",Phonemic
+8-320-525-3,lakk1252,Lak (Balkhar dialect),190,ттегьлан,CyrillTrans,"mow, reap",,,"culun, t̄ehlan",Phonemic
+8-311-525-1,lakk1252,Lak (Balkhar dialect),714,гьанна,CyrillTrans,seed,,,hanna,Phonemic
+8-310-525-1,lakk1252,Lak (Balkhar dialect),748,дугьлан,CyrillTrans,sow,,,duhlan,Phonemic
+8-270-525-1,lakk1252,Lak (Balkhar dialect),338,хляххи,CyrillTrans,rake,,,xlaˤx̄i,Phonemic
+8-260-525-1,lakk1252,Lak (Balkhar dialect),337,хьюла,CyrillTrans,fork,,,x̌oˤla,Phonemic
+8-250-525-1,lakk1252,Lak (Balkhar dialect),284,каза,CyrillTrans,hoe,,,kaza,Phonemic
+8-240-525-1,lakk1252,Lak (Balkhar dialect),1901,ччюрк дуъу,CyrillTrans,shovel,,,č̄oˤrk duɁu,Phonemic
+8-230-525-1,lakk1252,Lak (Balkhar dialect),1176,чӀатӀа,CyrillTrans,spade,,,č̛at̛a,Phonemic
+8-212-525-1,lakk1252,Lak (Balkhar dialect),1794,гьаллу,CyrillTrans,furrow,,,hallu,Phonemic
+8-220-525-1,lakk1252,Lak (Balkhar dialect),1418,дихлан,CyrillTrans,dig,,,dixlan,Phonemic
+8-210-525-1,lakk1252,Lak (Balkhar dialect),1921,гъай тӀун,CyrillTrans,plow,,,ɣay t̛un,Phonemic
+8-170-525-1,lakk1252,Lak (Balkhar dialect),2002,гьаллу,CyrillTrans,ditch,,,hallu,Phonemic
+8-160-525-1,lakk1252,Lak (Balkhar dialect),1690,чапар,CyrillTrans,fence,,,čapar,Phonemic
+8-150-525-1,lakk1252,Lak (Balkhar dialect),1541,аьрщи хъуру дан,CyrillTrans,"cultivate, till",,,arš̄i quru dan,Phonemic
+8-130-525-1,lakk1252,Lak (Balkhar dialect),586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-525-1,lakk1252,Lak (Balkhar dialect),212,хъу,CyrillTrans,field (for cultivation),,,qu,Phonemic
+8-110-525-1,lakk1252,Lak (Balkhar dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-525-1,lakk1252,Lak (Balkhar dialect),901,къатта,CyrillTrans,adobe,,,Gat̄a,Phonemic
+7-630-525-1,lakk1252,Lak (Balkhar dialect),224,ссугъат,CyrillTrans,mortar,,,s̄uɣat,Phonemic
+7-620-525-1,lakk1252,Lak (Balkhar dialect),1006,калпуш,CyrillTrans,brick,,,kalpuš,Phonemic
+7-580-525-1,lakk1252,Lak (Balkhar dialect),876,нав,CyrillTrans,arch,,,naw,Phonemic
+7-610-525-1,lakk1252,Lak (Balkhar dialect),877,чарил устар,CyrillTrans,mason,,,čaril ustar,Phonemic
+7-570-525-1,lakk1252,Lak (Balkhar dialect),1227,тахта,CyrillTrans,board,,,taxta,Phonemic
+7-560-525-1,lakk1252,Lak (Balkhar dialect),281,ттарцӀ,CyrillTrans,"post, pole",,,t̄arc̛,Phonemic
+7-550-525-1,lakk1252,Lak (Balkhar dialect),1132,чІула,CyrillTrans,beam,,,č̛ula,Phonemic
+7-540-525-1,lakk1252,Lak (Balkhar dialect),829,уттусса,CyrillTrans,rafter,,,"ut̄us̄a, č̛ula",Phonemic
+7-540-525-3,lakk1252,Lak (Balkhar dialect),829,чІула,CyrillTrans,rafter,,,"ut̄us̄a, č̛ula",Phonemic
+7-530-525-1,lakk1252,Lak (Balkhar dialect),280,чІула,CyrillTrans,ridgepole,,,č̛ula,Phonemic
+7-520-525-1,lakk1252,Lak (Balkhar dialect),279,сумал магъи,CyrillTrans,thatch,,,sumal maɣi,Phonemic
+7-510-525-1,lakk1252,Lak (Balkhar dialect),769,магъи,CyrillTrans,roof,,,maɣi,Phonemic
+7-480-525-1,lakk1252,Lak (Balkhar dialect),205,бяшкІана,CyrillTrans,trough,,,baˤsk̛ana,Phonemic
+7-470-525-1,lakk1252,Lak (Balkhar dialect),745,лахъру,CyrillTrans,shelf,,,"laqru, lacan",Phonemic
+7-470-525-3,lakk1252,Lak (Balkhar dialect),745,лацан,CyrillTrans,shelf,,,"laqru, lacan",Phonemic
+7-460-525-1,lakk1252,Lak (Balkhar dialect),1273,майлул чирахъ,CyrillTrans,candle,,,maylul čiraq,Phonemic
+7-450-525-1,lakk1252,Lak (Balkhar dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,čiraq,Phonemic
+7-440-525-1,lakk1252,Lak (Balkhar dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-525-1,lakk1252,Lak (Balkhar dialect),1476,ута,CyrillTrans,chair,,,uta,Phonemic
+7-422-525-1,lakk1252,Lak (Balkhar dialect),806,биргъан,CyrillTrans,blanket,,,birɣan,Phonemic
+7-421-525-1,lakk1252,Lak (Balkhar dialect),1044,кӀралу,CyrillTrans,pillow,,,k̛ralu,Phonemic
+7-420-525-1,lakk1252,Lak (Balkhar dialect),1663,карабат,CyrillTrans,bed,,,karabat,Phonemic
+7-370-525-1,lakk1252,Lak (Balkhar dialect),1464,чуртту,CyrillTrans,ladder,,,čurt̄u,Phonemic
+7-330-525-1,lakk1252,Lak (Balkhar dialect),1305,пичлил ккутӀ,CyrillTrans,chimney,,,"pičlil k̄utʼ, pičlil turba",Phonemic
+7-330-525-3,lakk1252,Lak (Balkhar dialect),1305,пичлил турба,CyrillTrans,chimney,,,"pičlil k̄utʼ, pičlil turba",Phonemic
+7-320-525-1,lakk1252,Lak (Balkhar dialect),859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-525-1,lakk1252,Lak (Balkhar dialect),185,кӀара,CyrillTrans,fireplace,,,k̛ara,Phonemic
+7-270-525-1,lakk1252,Lak (Balkhar dialect),933,чӀира,CyrillTrans,wall,,,č̛ira,Phonemic
+7-260-525-1,lakk1252,Lak (Balkhar dialect),1632,чӀанкъатта,CyrillTrans,floor,,,č̛anGat̄a,Phonemic
+7-250-525-1,lakk1252,Lak (Balkhar dialect),1375,чӀабахьлу,CyrillTrans,window,,,č̛abax̌lu,Phonemic
+7-240-525-1,lakk1252,Lak (Balkhar dialect),1472,кӀула,CyrillTrans,key,,,k̛ula,Phonemic
+7-231-525-1,lakk1252,Lak (Balkhar dialect),1012,мя,CyrillTrans,"latch, door-bolt",,,maˤ,Phonemic
+7-230-525-1,lakk1252,Lak (Balkhar dialect),1596,унъула,CyrillTrans,lock (noun),,,unɁula,Phonemic
+7-221-525-1,lakk1252,Lak (Balkhar dialect),80,къича,CyrillTrans,"doorpost, jamb",,,Giča,Phonemic
+7-210-525-1,lakk1252,Lak (Balkhar dialect),1450,ичӀал,CyrillTrans,room,,,ič̛al,Phonemic
+7-220-525-1,lakk1252,Lak (Balkhar dialect),1567,нуз,CyrillTrans,"door, gate",,,"nuz, darwaza",Phonemic
+7-220-525-3,lakk1252,Lak (Balkhar dialect),1567,дарваза,CyrillTrans,"door, gate",,,"nuz, darwaza",Phonemic
+7-180-525-1,lakk1252,Lak (Balkhar dialect),335,клуб,CyrillTrans,meeting house,,,klub,Phonemic
+7-170-525-1,lakk1252,Lak (Balkhar dialect),334,кухни,CyrillTrans,cookhouse,,,kuxni,Phonemic
+7-160-525-1,lakk1252,Lak (Balkhar dialect),408,чибаркӀуннал къатта,CyrillTrans,men's house,,,čibark̛unnal Gat̄a,Phonemic
+7-150-525-1,lakk1252,Lak (Balkhar dialect),736,хІю,CyrillTrans,"yard, court",,,ћoˤ,Phonemic
+7-140-525-1,lakk1252,Lak (Balkhar dialect),1316,къуш,CyrillTrans,tent,,,Guš,Phonemic
+7-131-525-1,lakk1252,Lak (Balkhar dialect),403,къатта,CyrillTrans,garden-house,,,Gat̄a,Phonemic
+7-130-525-1,lakk1252,Lak (Balkhar dialect),1678,къатта,CyrillTrans,hut,,,Gat̄a,Phonemic
+7-120-525-1,lakk1252,Lak (Balkhar dialect),1252,къатта,CyrillTrans,house,,,Gat̄a,Phonemic
+7-110-525-1,lakk1252,Lak (Balkhar dialect),363,йа хъанан,CyrillTrans,"dwell, live",,,ya qanan,Phonemic
+6-960-525-1,lakk1252,Lak (Balkhar dialect),1171,дагьани,CyrillTrans,mirror,,,dahani,Phonemic
+6-950-525-1,lakk1252,Lak (Balkhar dialect),788,ссахӀбан,CyrillTrans,soap,,,s̄aћban,Phonemic
+6-940-525-1,lakk1252,Lak (Balkhar dialect),1926,мазь,CyrillTrans,ointment,,,mazʲ,Phonemic
+6-930-525-1,lakk1252,Lak (Balkhar dialect),151,чӀри бичай станак,CyrillTrans,razor,,,č̛ri bičay stanok,Phonemic
+6-921-525-1,lakk1252,Lak (Balkhar dialect),333,бурушу,CyrillTrans,braid,,,burušu,Phonemic
+6-920-525-1,lakk1252,Lak (Balkhar dialect),1821,трал,CyrillTrans,brush,,,tral,Phonemic
+6-910-525-1,lakk1252,Lak (Balkhar dialect),1475,ццуматрал,CyrillTrans,comb,,,c̄umatral,Phonemic
+6-820-525-1,lakk1252,Lak (Balkhar dialect),1021,калихьу,CyrillTrans,towel,,,kalix̌u,Phonemic
+6-810-525-1,lakk1252,Lak (Balkhar dialect),332,кислубу калши,CyrillTrans,"handkerchief, rag",,,kislubu kalši,Phonemic
+6-780-525-1,lakk1252,Lak (Balkhar dialect),330,бакӀ бяхӀу,CyrillTrans,"headband, headdress",,,bak̛ baˤћu,Phonemic
+6-770-525-1,lakk1252,Lak (Balkhar dialect),770,ичӀилус,CyrillTrans,earring,,,ič̛ilus,Phonemic
+6-760-525-1,lakk1252,Lak (Balkhar dialect),1860,кюрщан,CyrillTrans,bead,,,koˤrš̄an,Phonemic
+6-750-525-1,lakk1252,Lak (Balkhar dialect),1961,чӀюн,CyrillTrans,necklace,,,č̛on,Phonemic
+6-740-525-1,lakk1252,Lak (Balkhar dialect),1754,каниш,CyrillTrans,bracelet,,,kaniš,Phonemic
+6-730-525-1,lakk1252,Lak (Balkhar dialect),1374,чӀиштта,CyrillTrans,ring (for finger),,,č̛išt̄a,Phonemic
+6-720-525-1,lakk1252,Lak (Balkhar dialect),1029,арцу муси,CyrillTrans,jewel,,,arcu musi,Phonemic
+6-710-525-1,lakk1252,Lak (Balkhar dialect),917,накьиш,CyrillTrans,"ornament, adornment",,,naq̛iš,Phonemic
+6-630-525-1,lakk1252,Lak (Balkhar dialect),64,оьрус ххалаххи,CyrillTrans,pin,,,oˤrus x̌alax̌i,Phonemic
+6-620-525-1,lakk1252,Lak (Balkhar dialect),757,чӀичӀ,CyrillTrans,button,,,č̛ič̛,Phonemic
+6-610-525-1,lakk1252,Lak (Balkhar dialect),1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-525-1,lakk1252,Lak (Balkhar dialect),1151,калиш,CyrillTrans,veil,,,kališ,Phonemic
+6-580-525-1,lakk1252,Lak (Balkhar dialect),867,катІа,CyrillTrans,glove,,,kat̛a,Phonemic
+6-570-525-1,lakk1252,Lak (Balkhar dialect),772,маскила,CyrillTrans,"belt, girdle",,,maskila,Phonemic
+6-550-525-1,lakk1252,Lak (Balkhar dialect),2130,шляпа,CyrillTrans,"hat, cap",,,"šlyapa, apa",Phonemic
+6-550-525-3,lakk1252,Lak (Balkhar dialect),2130,апа,CyrillTrans,"hat, cap",,,"šlyapa, apa",Phonemic
+6-540-525-1,lakk1252,Lak (Balkhar dialect),875,усру диву,CyrillTrans,"shoemaker, cobbler",,,usru diwu,Phonemic
+6-510-525-1,lakk1252,Lak (Balkhar dialect),1381,ттупли,CyrillTrans,shoe,,,"t̄upli, usru",Phonemic
+6-510-525-3,lakk1252,Lak (Balkhar dialect),1381,усру,CyrillTrans,shoe,,,"t̄upli, usru",Phonemic
+6-520-525-1,lakk1252,Lak (Balkhar dialect),585,батинкӀа,CyrillTrans,boot,,,"batink̛a, usru",Phonemic
+6-520-525-3,lakk1252,Lak (Balkhar dialect),585,усру,CyrillTrans,boot,,,"batink̛a, usru",Phonemic
+6-490-525-1,lakk1252,Lak (Balkhar dialect),329,гьехъилус,CyrillTrans,"stocking, sock",,,"heˤqilus, naski",Phonemic
+6-490-525-3,lakk1252,Lak (Balkhar dialect),329,наски,CyrillTrans,"stocking, sock",,,"heˤqilus, naski",Phonemic
+6-480-525-1,lakk1252,Lak (Balkhar dialect),809,хӀажак,CyrillTrans,trousers,,,ћažak,Phonemic
+6-461-525-1,lakk1252,Lak (Balkhar dialect),328,чӀапӀал юбка,CyrillTrans,grass-skirt,,,č̛ap̛al yubka,Phonemic
+6-460-525-1,lakk1252,Lak (Balkhar dialect),1600,юбка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-525-1,lakk1252,Lak (Balkhar dialect),2012,дарбач,CyrillTrans,collar,,,darbač,Phonemic
+6-440-525-1,lakk1252,Lak (Balkhar dialect),1622,ухъа,CyrillTrans,shirt,,,uqa,Phonemic
+6-430-525-1,lakk1252,Lak (Balkhar dialect),603,пальто,CyrillTrans,coat,,,palʲto,Phonemic
+6-420-525-1,lakk1252,Lak (Balkhar dialect),474,хъаннил ухъа,CyrillTrans,woman's dress,,,qannil yqa,Phonemic
+6-390-525-1,lakk1252,Lak (Balkhar dialect),157,ронг,CyrillTrans,dye,,,rong,Phonemic
+6-410-525-1,lakk1252,Lak (Balkhar dialect),326,пӀалаш,CyrillTrans,cloak,,,p̛alaš,Phonemic
+6-380-525-1,lakk1252,Lak (Balkhar dialect),1161,ххал,CyrillTrans,thread,,,x̄al,Phonemic
+6-360-525-1,lakk1252,Lak (Balkhar dialect),1382,ххалаххи,CyrillTrans,needle,,,x̌alax̌i,Phonemic
+6-370-525-1,lakk1252,Lak (Balkhar dialect),278,сасу,CyrillTrans,awl,,,sasu,Phonemic
+6-350-525-1,lakk1252,Lak (Balkhar dialect),1457,дурухлан,CyrillTrans,sew,,,duruxlan,Phonemic
+6-340-525-1,lakk1252,Lak (Balkhar dialect),1787,станок,CyrillTrans,loom,,,stanok,Phonemic
+6-330-525-1,lakk1252,Lak (Balkhar dialect),133,дурушлан,CyrillTrans,weave,,,durušlan,Phonemic
+6-320-525-1,lakk1252,Lak (Balkhar dialect),277,зукка,CyrillTrans,spindle,,,zuk̄a,Phonemic
+6-310-525-1,lakk1252,Lak (Balkhar dialect),121,ххаллу дуллан,CyrillTrans,spin,,,xallu dullan,Phonemic
+6-290-525-1,lakk1252,Lak (Balkhar dialect),629,бурчу,CyrillTrans,leather,,,burču,Phonemic
+6-280-525-1,lakk1252,Lak (Balkhar dialect),580,хаз,CyrillTrans,fur,,,xaz,Phonemic
+6-270-525-1,lakk1252,Lak (Balkhar dialect),325,варщ,CyrillTrans,felt,,,warš̄,Phonemic
+6-250-525-1,lakk1252,Lak (Balkhar dialect),1641,дараб,CyrillTrans,silk,,,darab,Phonemic
+6-240-525-1,lakk1252,Lak (Balkhar dialect),1850,чит,CyrillTrans,cotton,,,"čit, pamma",Phonemic
+6-240-525-3,lakk1252,Lak (Balkhar dialect),1850,памма,CyrillTrans,cotton,,,"čit, pamma",Phonemic
+6-230-525-1,lakk1252,Lak (Balkhar dialect),916,мачӀ,CyrillTrans,"linen, flax",,,"mač̛, katan",Phonemic
+6-230-525-3,lakk1252,Lak (Balkhar dialect),916,катан,CyrillTrans,"linen, flax",,,"mač̛, katan",Phonemic
+6-220-525-1,lakk1252,Lak (Balkhar dialect),964,ппалул янна,CyrillTrans,wool,,,p̄alul yanna,Phonemic
+6-210-525-1,lakk1252,Lak (Balkhar dialect),1616,ухъабансса (янна),CyrillTrans,cloth,,,uqabans̄a (yanna),Phonemic
+6-120-525-1,lakk1252,Lak (Balkhar dialect),1895,янна,CyrillTrans,"clothing, clothes",,,"yanna, lax̄iya",Phonemic
+6-120-525-3,lakk1252,Lak (Balkhar dialect),1895,лаххия,CyrillTrans,"clothing, clothes",,,"yanna, lax̄iya",Phonemic
+6-110-525-1,lakk1252,Lak (Balkhar dialect),158,лахлан,CyrillTrans,put on (clothes),,,laxlan,Phonemic
+5-971-525-1,lakk1252,Lak (Balkhar dialect),1556,хъахъу,CyrillTrans,egg yolk,,,qaqu,Phonemic
+5-970-525-1,lakk1252,Lak (Balkhar dialect),744,ккунук,CyrillTrans,egg,,,k̄unuk,Phonemic
+5-940-525-1,lakk1252,Lak (Balkhar dialect),404,дукъра хІан,CyrillTrans,fermented drink,,,duGra ћan,Phonemic
+5-930-525-1,lakk1252,Lak (Balkhar dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-525-1,lakk1252,Lak (Balkhar dialect),1524,чяхир,CyrillTrans,wine,,,caˤxir,Phonemic
+5-910-525-1,lakk1252,Lak (Balkhar dialect),941,мачча,CyrillTrans,mead,,,mač̄a,Phonemic
+5-900-525-1,lakk1252,Lak (Balkhar dialect),731,хӀачӀия,CyrillTrans,"beverage, drink",,,ћač̛iya,Phonemic
+5-890-525-1,lakk1252,Lak (Balkhar dialect),1245,лагабу,CyrillTrans,butter,,,lagabu,Phonemic
+5-880-525-1,lakk1252,Lak (Balkhar dialect),1569,нис,CyrillTrans,cheese,,,nis,Phonemic
+5-870-525-1,lakk1252,Lak (Balkhar dialect),93,ттизин,CyrillTrans,milk (vb),,,t̄izin,Phonemic
+5-850-525-1,lakk1252,Lak (Balkhar dialect),862,чачар,CyrillTrans,sugar,,,čačar,Phonemic
+5-860-525-1,lakk1252,Lak (Balkhar dialect),635,накӀ,CyrillTrans,milk (noun),,,nak̛,Phonemic
+5-840-525-1,lakk1252,Lak (Balkhar dialect),942,ницӀ,CyrillTrans,honey,,,nic̛,Phonemic
+5-821-525-1,lakk1252,Lak (Balkhar dialect),919,йерчи иссийавт,CyrillTrans,chili pepper,,,yeˤrči is̄iyawt,Phonemic
+5-820-525-1,lakk1252,Lak (Balkhar dialect),1385,иссийавт,CyrillTrans,pepper,,,is̄iyawt,Phonemic
+5-810-525-1,lakk1252,Lak (Balkhar dialect),1274,цӀу,CyrillTrans,salt,,,c̛u,Phonemic
+5-791-525-1,lakk1252,Lak (Balkhar dialect),323,гьа,CyrillTrans,"grease, fat",,,"ha, aˤgušiwu",Phonemic
+5-791-525-3,lakk1252,Lak (Balkhar dialect),323,аьгушиву,CyrillTrans,"grease, fat",,,"ha, aˤgušiwu",Phonemic
+5-790-525-1,lakk1252,Lak (Balkhar dialect),1484,нагь,CyrillTrans,oil,,,nah,Phonemic
+5-780-525-1,lakk1252,Lak (Balkhar dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-525-1,lakk1252,Lak (Balkhar dialect),920,тӀутӀи,CyrillTrans,grape,,,t̛ut̛i,Phonemic
+5-770-525-1,lakk1252,Lak (Balkhar dialect),191,гьихь,CyrillTrans,nut,,,hix̌,Phonemic
+5-750-525-1,lakk1252,Lak (Balkhar dialect),322,инжил,CyrillTrans,fig,,,inžil,Phonemic
+5-712-525-1,lakk1252,Lak (Balkhar dialect),1966,хъмяй,CyrillTrans,bunch,,,qmaˤy,Phonemic
+5-710-525-1,lakk1252,Lak (Balkhar dialect),1507,ахъулсса,CyrillTrans,fruit,,,aquls̄a,Phonemic
+5-700-525-1,lakk1252,Lak (Balkhar dialect),593,нубщи,CyrillTrans,potato,,,nubš̄i,Phonemic
+5-660-525-1,lakk1252,Lak (Balkhar dialect),832,хърю,CyrillTrans,bean,,,qroˤ,Phonemic
+5-650-525-1,lakk1252,Lak (Balkhar dialect),924,хъунилсcа,CyrillTrans,vegetables,,,qunils̄a,Phonemic
+5-640-525-1,lakk1252,Lak (Balkhar dialect),1547,наъ,CyrillTrans,"soup, broth",,,naɁ,Phonemic
+5-630-525-1,lakk1252,Lak (Balkhar dialect),1874,ккуркки май,CyrillTrans,sausage,,,k̄urk̄i may,Phonemic
+5-610-525-1,lakk1252,Lak (Balkhar dialect),634,дикӀ,CyrillTrans,meat,,,dik̛,Phonemic
+5-590-525-1,lakk1252,Lak (Balkhar dialect),225,лаччи буту,CyrillTrans,pestle,,,lač̄i butu,Phonemic
+5-580-525-1,lakk1252,Lak (Balkhar dialect),224,лаччи буту,CyrillTrans,mortar (2),,,lač̄i butu,Phonemic
+5-570-525-1,lakk1252,Lak (Balkhar dialect),636,гьарахъал,CyrillTrans,mill,,,haraqal,Phonemic
+5-560-525-1,lakk1252,Lak (Balkhar dialect),1033,гъюж дан,CyrillTrans,"crush, grind",,,ɣoˤž dan,Phonemic
+5-550-525-1,lakk1252,Lak (Balkhar dialect),1594,иниал,CyrillTrans,"meal, flour",,,inial,Phonemic
+5-540-525-1,lakk1252,Lak (Balkhar dialect),274,иниал дуручин,CyrillTrans,knead,,,inial duručin,Phonemic
+5-530-525-1,lakk1252,Lak (Balkhar dialect),273,иниал,CyrillTrans,dough,,,inial,Phonemic
+5-510-525-1,lakk1252,Lak (Balkhar dialect),1368,ччатӀ,CyrillTrans,bread,,,č̄at̛,Phonemic
+5-490-525-1,lakk1252,Lak (Balkhar dialect),2017,хӀала дуллан,CyrillTrans,"stir, mix",,,"ћala dullan, ћala t̛un",Phonemic
+5-490-525-3,lakk1252,Lak (Balkhar dialect),2017,хIала тIун,CyrillTrans,"stir, mix",,,"ћala dullan, ћala t̛un",Phonemic
+5-480-525-1,lakk1252,Lak (Balkhar dialect),1767,ххартӀ тӀун,CyrillTrans,scrape,,,x̄art̛ t̛un,Phonemic
+5-470-525-1,lakk1252,Lak (Balkhar dialect),86,кIучIин,CyrillTrans,"sieve, strain",,,"kʼuc̛in, dihin",Phonemic
+5-470-525-3,lakk1252,Lak (Balkhar dialect),86,дигьин,CyrillTrans,"sieve, strain",,,"kʼuc̛in, dihin",Phonemic
+5-460-525-1,lakk1252,Lak (Balkhar dialect),275,марцӀ дан,CyrillTrans,peel,,,marc̛ dan,Phonemic
+5-450-525-1,lakk1252,Lak (Balkhar dialect),1833,марчӀайсса,CyrillTrans,supper,,,"marč̛ays̄a, marč̛ač̛i",Phonemic
+5-450-525-3,lakk1252,Lak (Balkhar dialect),1833,марчIачIи,CyrillTrans,supper,,,"marč̛ays̄a, marč̛ač̛i",Phonemic
+5-440-525-1,lakk1252,Lak (Balkhar dialect),1833,ахтайнсса,CyrillTrans,dinner,,,axtayns̄a,Phonemic
+5-420-525-1,lakk1252,Lak (Balkhar dialect),1322,кӀюрххилсса,CyrillTrans,breakfast,,,k̛oˤrx̄ils̄a,Phonemic
+5-410-525-1,lakk1252,Lak (Balkhar dialect),1526,дукла дукабу,CyrillTrans,meal (a),,,dukla dukabu,Phonemic
+5-391-525-1,lakk1252,Lak (Balkhar dialect),272,къяцӀа,CyrillTrans,tongs,,,Gaˤc̛a,Phonemic
+5-390-525-1,lakk1252,Lak (Balkhar dialect),1302,гьиссилу,CyrillTrans,fork (2),,,his̄ilu,Phonemic
+5-380-525-1,lakk1252,Lak (Balkhar dialect),1352,чӀила,CyrillTrans,knife (2),,,č̛ila,Phonemic
+5-370-525-1,lakk1252,Lak (Balkhar dialect),1378,къусса,CyrillTrans,spoon,,,Gus̄a,Phonemic
+5-360-525-1,lakk1252,Lak (Balkhar dialect),271,чӀирисса вяртӀа,CyrillTrans,saucer,,,č̛iris̄a waˤrt̛a,Phonemic
+5-350-525-1,lakk1252,Lak (Balkhar dialect),476,курушка,CyrillTrans,"cup, drinking vessel",,,kuruška,Phonemic
+5-330-525-1,lakk1252,Lak (Balkhar dialect),1530,ачӀичӀу,CyrillTrans,bowl,,,ač̛ič̛u,Phonemic
+5-340-525-1,lakk1252,Lak (Balkhar dialect),270,урша,CyrillTrans,"pitcher, jug",,,urša,Phonemic
+5-320-525-1,lakk1252,Lak (Balkhar dialect),480,виртӀа,CyrillTrans,plate,,,wirt̛a,Phonemic
+5-310-525-1,lakk1252,Lak (Balkhar dialect),481,урцIи,CyrillTrans,dish,,,"urc̛i, bušGap",Phonemic
+5-310-525-3,lakk1252,Lak (Balkhar dialect),481,бушкъап,CyrillTrans,dish,,,"urc̛i, bušGap",Phonemic
+5-280-525-1,lakk1252,Lak (Balkhar dialect),31,кӀункӀур,CyrillTrans,pan,,,k̛unk̛ur,Phonemic
+5-260-525-1,lakk1252,Lak (Balkhar dialect),1462,оьххи,CyrillTrans,"pot, cooking vessel",,,"oˤx̄i, k̛unk̛ur",Phonemic
+5-260-525-3,lakk1252,Lak (Balkhar dialect),1462,кIункIур,CyrillTrans,"pot, cooking vessel",,,"oˤx̄i, k̛unk̛ur",Phonemic
+5-270-525-1,lakk1252,Lak (Balkhar dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-525-1,lakk1252,Lak (Balkhar dialect),183,шашан,CyrillTrans,bake,,,šašan,Phonemic
+5-250-525-1,lakk1252,Lak (Balkhar dialect),1143,пич,CyrillTrans,oven,,,pič,Phonemic
+5-230-525-1,lakk1252,Lak (Balkhar dialect),2146,шашан,CyrillTrans,"roast, fry",,,šašan,Phonemic
+5-220-525-1,lakk1252,Lak (Balkhar dialect),792,щаращи дан,CyrillTrans,boil (vb),,,š̄araš̄i dan,Phonemic
+5-210-525-1,lakk1252,Lak (Balkhar dialect),1100,шахьлан,CyrillTrans,cook,,,šax̌lan,Phonemic
+5-190-525-1,lakk1252,Lak (Balkhar dialect),129,бугъ уллан,CyrillTrans,choke,,,buɣ ullan,Phonemic
+5-181-525-1,lakk1252,Lak (Balkhar dialect),897,дюаьн,CyrillTrans,swallow,,,doˤaˤn,Phonemic
+5-180-525-1,lakk1252,Lak (Balkhar dialect),321,чӀян тӀун,CyrillTrans,chew,,,č̛aˤn t̛un,Phonemic
+5-160-525-1,lakk1252,Lak (Balkhar dialect),1421,цӀупӀ тӀун,CyrillTrans,suck,,,c̛up̛ t̛un,Phonemic
+5-150-525-1,lakk1252,Lak (Balkhar dialect),848,мяъ,CyrillTrans,thirst,,,maˤʔ,Phonemic
+5-141-525-1,lakk1252,Lak (Balkhar dialect),199,ччашил хьун,CyrillTrans,famine,,,č̄asil x̌un,Phonemic
+5-140-525-1,lakk1252,Lak (Balkhar dialect),1864,ччаши,CyrillTrans,hunger,,,č̄aši,Phonemic
+5-130-525-1,lakk1252,Lak (Balkhar dialect),1401,хьачӀан,CyrillTrans,drink,,,x̌ač̛an,Phonemic
+5-125-525-1,lakk1252,Lak (Balkhar dialect),1728,аьрсса,CyrillTrans,rotten,,,aˤrs̄a,Phonemic
+5-124-525-1,lakk1252,Lak (Balkhar dialect),1958,дикъарсса,CyrillTrans,"green, unripe",,,"diGars̄a, Gadirs̄a",Phonemic
+5-124-525-3,lakk1252,Lak (Balkhar dialect),1958,къадирсса,CyrillTrans,"green, unripe",,,"diGars̄a, Gadirs̄a",Phonemic
+5-123-525-1,lakk1252,Lak (Balkhar dialect),178,дирсса,CyrillTrans,ripe,,,dirs̄a,Phonemic
+5-122-525-1,lakk1252,Lak (Balkhar dialect),1959,дятӀрасса,CyrillTrans,raw,,,daˤt̛ras̄a,Phonemic
+5-121-525-1,lakk1252,Lak (Balkhar dialect),269,шархьсса,CyrillTrans,cooked,,,šarx̌s̄a,Phonemic
+5-120-525-1,lakk1252,Lak (Balkhar dialect),256,дукла,CyrillTrans,food,,,dukla,Phonemic
+5-110-525-1,lakk1252,Lak (Balkhar dialect),1336,канан,CyrillTrans,eat,,,"canan, dukan",Phonemic
+5-110-525-3,lakk1252,Lak (Balkhar dialect),1336,дукан,CyrillTrans,eat,,,"canan, dukan",Phonemic
+4-990-525-1,lakk1252,Lak (Balkhar dialect),590,чӀячӀасса,CyrillTrans,"naked, bare",,,č̛aˤč̛as̄a,Phonemic
+4-970-525-1,lakk1252,Lak (Balkhar dialect),1653,мурчІисса,CyrillTrans,blind,,,"murč̛is̄a, čani baGas̄a",Phonemic
+4-970-525-3,lakk1252,Lak (Balkhar dialect),1653,чани бакъасса,CyrillTrans,blind,,,"murč̛is̄a, čani baGas̄a",Phonemic
+4-980-525-1,lakk1252,Lak (Balkhar dialect),1463,хIарчӀсса,CyrillTrans,intoxicated,,,"ħarč̛s̄a, ubč̄u x̌us̄a",Phonemic
+4-980-525-3,lakk1252,Lak (Balkhar dialect),1463,убччу хьусса,CyrillTrans,intoxicated,,,"ħarč̛s̄a, ubč̄u x̌us̄a",Phonemic
+4-960-525-1,lakk1252,Lak (Balkhar dialect),1666,махъ къакӀулсса,CyrillTrans,mute,,,maq Gak̛uls̄a,Phonemic
+4-950-525-1,lakk1252,Lak (Balkhar dialect),996,къюкӀу,CyrillTrans,deaf,,,"Goˤk̛u, Goˤk̛̄s̄a",Phonemic
+4-950-525-3,lakk1252,Lak (Balkhar dialect),996,къюкӀсса,CyrillTrans,deaf,,,"Goˤk̛u, Goˤk̛̄s̄a",Phonemic
+4-930-525-1,lakk1252,Lak (Balkhar dialect),1125,чӀячӀа (бакӀ),CyrillTrans,bald,,,č̛aˤč̛a (bak̛),Phonemic
+4-940-525-1,lakk1252,Lak (Balkhar dialect),320,аьрчча тӀун,CyrillTrans,lame,,,aˤrč̄a t̛un,Phonemic
+4-920-525-1,lakk1252,Lak (Balkhar dialect),1564,карчI дусса,CyrillTrans,lazy,,,karč̛ dus̄a,Phonemic
+4-912-525-1,lakk1252,Lak (Balkhar dialect),168,игьа лаглан,CyrillTrans,rest,,,iha laglan,Phonemic
+4-910-525-1,lakk1252,Lak (Balkhar dialect),1757,ухсса,CyrillTrans,"tired, weary",,,uxs̄a,Phonemic
+4-890-525-1,lakk1252,Lak (Balkhar dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-525-1,lakk1252,Lak (Balkhar dialect),1372,дару,CyrillTrans,"medicine, drug",,,daru,Phonemic
+4-870-525-1,lakk1252,Lak (Balkhar dialect),597,духтур,CyrillTrans,physician,,,duxtur,Phonemic
+4-860-525-1,lakk1252,Lak (Balkhar dialect),499,хъин ан,CyrillTrans,"cure, heal",,,qin an,Phonemic
+4-858-525-1,lakk1252,Lak (Balkhar dialect),497,аьш (щабулул),CyrillTrans,scar,,,aˤš (š̄abulul),Phonemic
+4-857-525-1,lakk1252,Lak (Balkhar dialect),1808,лал,CyrillTrans,pus,,,lal,Phonemic
+4-856-525-1,lakk1252,Lak (Balkhar dialect),793,пицӀу,CyrillTrans,boil (noun),,,pic̛u,Phonemic
+4-855-525-1,lakk1252,Lak (Balkhar dialect),1584,хьхьиначӀари,CyrillTrans,blister,,,x̌̄inač̛ari,Phonemic
+4-854-525-1,lakk1252,Lak (Balkhar dialect),148,ччуччи,CyrillTrans,itch,,,č̄uč̄i,Phonemic
+4-853-525-1,lakk1252,Lak (Balkhar dialect),1903,дурухлу,CyrillTrans,swelling,,,duruxlu,Phonemic
+4-852-525-1,lakk1252,Lak (Balkhar dialect),1148,цӀун хьун,CyrillTrans,bruise,,,c̛un x̌un,Phonemic
+4-850-525-1,lakk1252,Lak (Balkhar dialect),1109,щабу,CyrillTrans,"wound, sore",,,š̄abu,Phonemic
+4-843-525-1,lakk1252,Lak (Balkhar dialect),102,дяркъу,CyrillTrans,cold (catarrh),,,daˤrGu,Phonemic
+4-842-525-1,lakk1252,Lak (Balkhar dialect),1957,гьал дирзун,CyrillTrans,goiter,,,hal dirzun,Phonemic
+4-841-525-1,lakk1252,Lak (Balkhar dialect),1534,кIришибу,CyrillTrans,fever,,,k̛ribšibu,Phonemic
+4-840-525-1,lakk1252,Lak (Balkhar dialect),1847,цӀуцӀисса,CyrillTrans,"sick, sickness",,,"c̛uc̛is̄a, saGats̄a,c̛uc̛abu",Phonemic
+4-840-525-3,lakk1252,Lak (Balkhar dialect),1847,сакъатсса,CyrillTrans,"sick, sickness",,,"c̛uc̛is̄a, saGats̄a,c̛uc̛abu",Phonemic
+4-840-525-5,lakk1252,Lak (Balkhar dialect),1847,цӀуцӀабу,CyrillTrans,"sick, sickness",,,"c̛uc̛is̄a, saGats̄a,c̛uc̛abu",Phonemic
+4-830-525-1,lakk1252,Lak (Balkhar dialect),1364,сагъсса,CyrillTrans,"well, health",,,"saɣs̄a, c̛ullu saɣs̄a, c̛ullu saɣšibu",Phonemic
+4-830-525-3,lakk1252,Lak (Balkhar dialect),1364,цӀуллу сагъсса,CyrillTrans,"well, health",,,"saɣs̄a, c̛ullu saɣs̄a, c̛ullu saɣšibu",Phonemic
+4-830-525-5,lakk1252,Lak (Balkhar dialect),1364,цӀуллу сагъшибу,CyrillTrans,"well, health",,,"saɣs̄a, c̛ullu saɣs̄a, c̛ullu saɣšibu",Phonemic
+4-820-525-1,lakk1252,Lak (Balkhar dialect),1601,оьсалсса,CyrillTrans,weak,,,oˤsals̄a,Phonemic
+4-810-525-1,lakk1252,Lak (Balkhar dialect),785,гужсса,CyrillTrans,"strong, mighty, powerful",,,"gužs̄a, guž, bus̄a",Phonemic
+4-810-525-3,lakk1252,Lak (Balkhar dialect),785,гуж бусса,CyrillTrans,"strong, mighty, powerful",,,"gužs̄a, guž, bus̄a",Phonemic
+4-790-525-1,lakk1252,Lak (Balkhar dialect),1773,гьаб,CyrillTrans,"grave, tomb",,,hab,Phonemic
+4-780-525-1,lakk1252,Lak (Balkhar dialect),1719,уччан,CyrillTrans,bury (the dead),,,uč̄an,Phonemic
+4-770-525-1,lakk1252,Lak (Balkhar dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-525-1,lakk1252,Lak (Balkhar dialect),1417,ибчӀан,CyrillTrans,kill,,,ibč̛an,Phonemic
+4-751-525-1,lakk1252,Lak (Balkhar dialect),1904,оьбъaсса,CyrillTrans,drowned,,,oˤbas̄a,Phonemic
+4-750-525-1,lakk1252,Lak (Balkhar dialect),1494,ибчӀан,CyrillTrans,"die, dead",,,"ibč̛an, ibkʼus̄a",Phonemic
+4-750-525-3,lakk1252,Lak (Balkhar dialect),1494,ибкӀусса,CyrillTrans,"die, dead",,,"ibč̛an, ibkʼus̄a",Phonemic
+4-740-525-1,lakk1252,Lak (Balkhar dialect),1422,я хъанан,CyrillTrans,"live, living, life",,,"ya qanan, ut̄awas̄a,oˤmru",Phonemic
+4-740-525-3,lakk1252,Lak (Balkhar dialect),1422,уттавасса,CyrillTrans,"live, living, life",,,"ya qanan, ut̄awas̄a,oˤmru",Phonemic
+4-740-525-5,lakk1252,Lak (Balkhar dialect),1422,оьмру,CyrillTrans,"live, living, life",,,"ya qanan, ut̄awas̄a,oˤmru",Phonemic
+4-732-525-1,lakk1252,Lak (Balkhar dialect),1087,оьрчІ хьун,CyrillTrans,conceive,,,oˤrč̛ x̌un,Phonemic
+4-730-525-1,lakk1252,Lak (Balkhar dialect),1123,оьрчӀ кулибусса,CyrillTrans,pregnant,,,"oˤrč̛ kulibus̄a, oˤrč̛an žaɣalas̄a",Phonemic
+4-730-525-3,lakk1252,Lak (Balkhar dialect),1123,оьрчІан жагъаласса,CyrillTrans,pregnant,,,"oˤrč̛ kulibus̄a, oˤrč̛an žaɣalas̄a",Phonemic
+4-720-525-1,lakk1252,Lak (Balkhar dialect),1090,оьрчӀ бан,CyrillTrans,born (to be),,,oˤrč̛ ban,Phonemic
+4-710-525-1,lakk1252,Lak (Balkhar dialect),1152,оьрчІ бан,CyrillTrans,beget (of father),,,oˤrč̛ ban,Phonemic
+4-690-525-1,lakk1252,Lak (Balkhar dialect),138,гьюзун бучӀлан,CyrillTrans,bathe,,,hoˤzun buč̛lan,Phonemic
+4-680-525-1,lakk1252,Lak (Balkhar dialect),52,зурзу тӀун,CyrillTrans,shiver,,,zurzu t̛un,Phonemic
+4-670-525-1,lakk1252,Lak (Balkhar dialect),1785,рагьин,CyrillTrans,have sexual intercourse,,,rahin,Phonemic
+4-660-525-1,lakk1252,Lak (Balkhar dialect),676,оьтӀин битан,CyrillTrans,defecate,,,oˤt̛in bitan,Phonemic
+4-650-525-1,lakk1252,Lak (Balkhar dialect),592,кӀущин,CyrillTrans,urinate,,,k̛uš̄in,Phonemic
+4-640-525-1,lakk1252,Lak (Balkhar dialect),1159,чIеъ учин,CyrillTrans,break wind,,,čʼeɁ učin,Phonemic
+4-630-525-1,lakk1252,Lak (Balkhar dialect),1602,чӀантӀ учин,CyrillTrans,wake up,,,č̛ant̛ učin,Phonemic
+4-620-525-1,lakk1252,Lak (Balkhar dialect),1920,махӀ ккакклан,CyrillTrans,dream,,,maћ k̄ak̄lan,Phonemic
+4-612-525-1,lakk1252,Lak (Balkhar dialect),1983,къахӀ тӀун,CyrillTrans,snore,,,Gaћ t̛un,Phonemic
+4-610-525-1,lakk1252,Lak (Balkhar dialect),1585,шанан,CyrillTrans,sleep,,,šanan,Phonemic
+4-591-525-1,lakk1252,Lak (Balkhar dialect),268,хьюрхьул нан,CyrillTrans,dribble,,,x̌oˤrx̌ul nan,Phonemic
+4-590-525-1,lakk1252,Lak (Balkhar dialect),319,щалан,CyrillTrans,lick,,,š̄alan,Phonemic
+4-580-525-1,lakk1252,Lak (Balkhar dialect),1403,ацӀа ишин,CyrillTrans,bite,,,ac̛a išin,Phonemic
+4-570-525-1,lakk1252,Lak (Balkhar dialect),1278,дутӀлан,CyrillTrans,vomit,,,"dut̛lan, huk̛ t̛un",Phonemic
+4-570-525-3,lakk1252,Lak (Balkhar dialect),1278,гьукӀ тӀун,CyrillTrans,vomit,,,"dut̛lan, huk̛ t̛un",Phonemic
+4-560-525-1,lakk1252,Lak (Balkhar dialect),1440,путӀун,CyrillTrans,spit,,,put̛un,Phonemic
+4-550-525-1,lakk1252,Lak (Balkhar dialect),126,гьухъа итан,CyrillTrans,perspire,,,huqa itan,Phonemic
+4-540-525-1,lakk1252,Lak (Balkhar dialect),1621,аьнч тІун,CyrillTrans,sneeze,,,aˤnč t̛un,Phonemic
+4-530-525-1,lakk1252,Lak (Balkhar dialect),879,хъугьу тӀун,CyrillTrans,cough,,,quhu t̛un,Phonemic
+4-521-525-1,lakk1252,Lak (Balkhar dialect),162,хӀуркI тӀун,CyrillTrans,hiccough,,,ћurk̛ t̛un,Phonemic
+4-520-525-1,lakk1252,Lak (Balkhar dialect),1028,гьагь бигьлан,CyrillTrans,"yawn, gape",,,hah bihlan,Phonemic
+4-510-525-1,lakk1252,Lak (Balkhar dialect),1407,ссихӀ бигьлан,CyrillTrans,"breathe, breath",,,"s̄iћ bihlan, s̄iћ t̛un",Phonemic
+4-510-525-3,lakk1252,Lak (Balkhar dialect),1407,ссихӀ тӀун,CyrillTrans,"breathe, breath",,,"s̄iћ bihlan, s̄iћ t̛un",Phonemic
+4-492-525-1,lakk1252,Lak (Balkhar dialect),1222,митIи,CyrillTrans,penis,,,mit̛i,Phonemic
+4-490-525-1,lakk1252,Lak (Balkhar dialect),797,ичив,CyrillTrans,testicle,,,ičiw,Phonemic
+4-470-525-1,lakk1252,Lak (Balkhar dialect),804,оьрчӀал къатта,CyrillTrans,womb,,,oˤrč̛al Gat̄a,Phonemic
+4-464-525-1,lakk1252,Lak (Balkhar dialect),834,кӀутӀнил ахъру,CyrillTrans,buttocks,,,k̛ut̛nil aqru,Phonemic
+4-463-525-1,lakk1252,Lak (Balkhar dialect),1745,жира,CyrillTrans,hip,,,žira,Phonemic
+4-462-525-1,lakk1252,Lak (Balkhar dialect),1681,лялал,CyrillTrans,waist,,,laˤlal,Phonemic
+4-461-525-1,lakk1252,Lak (Balkhar dialect),1991,ку,CyrillTrans,"intestines, guts",,,"ku, qun, x̄oˤt̄u",Phonemic
+4-461-525-3,lakk1252,Lak (Balkhar dialect),1991,хъун,CyrillTrans,"intestines, guts",,,"ku, qun, x̄oˤt̄u",Phonemic
+4-461-525-5,lakk1252,Lak (Balkhar dialect),1991,ххютту,CyrillTrans,"intestines, guts",,,"ku, qun, x̄oˤt̄u",Phonemic
+4-460-525-1,lakk1252,Lak (Balkhar dialect),819,ляа-ку,CyrillTrans,stomach,,,laˤa-ku,Phonemic
+4-452-525-1,lakk1252,Lak (Balkhar dialect),1744,пурхмуччи,CyrillTrans,spleen,,,purxmuč̄i,Phonemic
+4-451-525-1,lakk1252,Lak (Balkhar dialect),489,ччарлу,CyrillTrans,kidney,,,č̄arlu,Phonemic
+4-450-525-1,lakk1252,Lak (Balkhar dialect),1224,тликӀ,CyrillTrans,liver,,,tlik̛,Phonemic
+4-441-525-1,lakk1252,Lak (Balkhar dialect),688,гьутру,CyrillTrans,lung,,,hutru,Phonemic
+4-440-525-1,lakk1252,Lak (Balkhar dialect),1223,къюкӀ,CyrillTrans,heart,,,Goˤk̛,Phonemic
+4-430-525-1,lakk1252,Lak (Balkhar dialect),1838,цӀун,CyrillTrans,navel,,,c̛un,Phonemic
+4-420-525-1,lakk1252,Lak (Balkhar dialect),154,къал,CyrillTrans,udder,,,Gal,Phonemic
+4-412-525-1,lakk1252,Lak (Balkhar dialect),796,ккуккулул бакӀ,CyrillTrans,"nipple, teat",,,k̄uk̄ulul bak̛,Phonemic
+4-410-525-1,lakk1252,Lak (Balkhar dialect),1402,ккукку,CyrillTrans,breast (of woman),,,k̄uk̄u,Phonemic
+4-400-525-1,lakk1252,Lak (Balkhar dialect),1592,дакӀнил ула,CyrillTrans,chest,,,dak̛nil ula,Phonemic
+4-393-525-1,lakk1252,Lak (Balkhar dialect),1201,къу,CyrillTrans,feather,,,Gu,Phonemic
+4-392-525-1,lakk1252,Lak (Balkhar dialect),1257,хъа,CyrillTrans,wing,,,qa,Phonemic
+4-380-525-1,lakk1252,Lak (Balkhar dialect),1389,чӀища,CyrillTrans,toe,,,čʼiš̄a,Phonemic
+4-374-525-1,lakk1252,Lak (Balkhar dialect),318,аьш (ччанал),CyrillTrans,footprint,,,aˤš(č̄anal),Phonemic
+4-372-525-1,lakk1252,Lak (Balkhar dialect),980,чӀанччан,CyrillTrans,heel,,,č̛anč̄an,Phonemic
+4-371-525-1,lakk1252,Lak (Balkhar dialect),803,лябччан,CyrillTrans,ankle,,,laˤbč̄an,Phonemic
+4-370-525-1,lakk1252,Lak (Balkhar dialect),1301,ччан,CyrillTrans,foot,,,č̄an,Phonemic
+4-360-525-1,lakk1252,Lak (Balkhar dialect),1371,ник,CyrillTrans,knee,,,nik,Phonemic
+4-351-525-1,lakk1252,Lak (Balkhar dialect),800,чул,CyrillTrans,thigh,,,čul,Phonemic
+4-350-525-1,lakk1252,Lak (Balkhar dialect),1297,ччан,CyrillTrans,leg,,,č̄an,Phonemic
+4-345-525-1,lakk1252,Lak (Balkhar dialect),72,михь,CyrillTrans,claw,,,mix̌,Phonemic
+4-344-525-1,lakk1252,Lak (Balkhar dialect),1258,михь,CyrillTrans,fingernail,,,mix̌,Phonemic
+4-342-525-1,lakk1252,Lak (Balkhar dialect),1781,хъунчӀища,CyrillTrans,thumb,,,qunč̛iš̄a,Phonemic
+4-340-525-1,lakk1252,Lak (Balkhar dialect),1303,чӀища,CyrillTrans,finger,,,č̛iš̄a,Phonemic
+4-331-525-1,lakk1252,Lak (Balkhar dialect),1183,хъат,CyrillTrans,palm of hand,,,qat,Phonemic
+4-330-525-1,lakk1252,Lak (Balkhar dialect),1277,ка,CyrillTrans,hand,,,ka,Phonemic
+4-321-525-1,lakk1252,Lak (Balkhar dialect),799,бартка,CyrillTrans,wrist,,,bartka,Phonemic
+4-320-525-1,lakk1252,Lak (Balkhar dialect),981,оьшлу,CyrillTrans,elbow,,,oˤšlu,Phonemic
+4-312-525-1,lakk1252,Lak (Balkhar dialect),1886,хъаралал,CyrillTrans,armpit,,,qaralal,Phonemic
+4-310-525-1,lakk1252,Lak (Balkhar dialect),1673,ка,CyrillTrans,arm,,,ka,Phonemic
+4-302-525-1,lakk1252,Lak (Balkhar dialect),1994,къуса личча,CyrillTrans,collarbone,,,Gusa lič̄a,Phonemic
+4-301-525-1,lakk1252,Lak (Balkhar dialect),172,къуса личча,CyrillTrans,shoulderblade,,,Gusa lič̄a,Phonemic
+4-300-525-1,lakk1252,Lak (Balkhar dialect),1482,хъачӀ,CyrillTrans,shoulder,,,qač̛,Phonemic
+4-290-525-1,lakk1252,Lak (Balkhar dialect),1346,аъари,CyrillTrans,throat,,,aʔari,Phonemic
+4-281-525-1,lakk1252,Lak (Balkhar dialect),1347,махабакӀ,CyrillTrans,nape of neck,,,maxabak̛,Phonemic
+4-280-525-1,lakk1252,Lak (Balkhar dialect),1333,ссурссу,CyrillTrans,neck,,,s̄urs̄u,Phonemic
+4-272-525-1,lakk1252,Lak (Balkhar dialect),1049,ччарччи,CyrillTrans,molartooth,,,č̄arč̄i,Phonemic
+4-270-525-1,lakk1252,Lak (Balkhar dialect),1380,ччарччи,CyrillTrans,tooth,,,č̄arč̄i,Phonemic
+4-271-525-1,lakk1252,Lak (Balkhar dialect),139,синтту,CyrillTrans,gums,,,sint̄u,Phonemic
+4-260-525-1,lakk1252,Lak (Balkhar dialect),1205,маз,CyrillTrans,tongue,,,maz,Phonemic
+4-250-525-1,lakk1252,Lak (Balkhar dialect),478,мурччи,CyrillTrans,lip,,,murč̄i,Phonemic
+4-241-525-1,lakk1252,Lak (Balkhar dialect),73,къепӀ,CyrillTrans,beak,,,Geˤp̛,Phonemic
+4-240-525-1,lakk1252,Lak (Balkhar dialect),674,ацӀ,CyrillTrans,mouth,,,ac̛,Phonemic
+4-232-525-1,lakk1252,Lak (Balkhar dialect),208,мяцӀ,CyrillTrans,mucus (nasal),,,maˤc̛,Phonemic
+4-231-525-1,lakk1252,Lak (Balkhar dialect),1178,унул ккутӀ,CyrillTrans,nostril,,,unul k̄ut̛,Phonemic
+4-230-525-1,lakk1252,Lak (Balkhar dialect),1221,май,CyrillTrans,nose,,,may,Phonemic
+4-222-525-1,lakk1252,Lak (Balkhar dialect),32,ичӀилул оьт,CyrillTrans,earwax,,,ič̛ilul oˤt,Phonemic
+4-221-525-1,lakk1252,Lak (Balkhar dialect),18,уттулу,CyrillTrans,earlobe,,,ut̄ulu,Phonemic
+4-220-525-1,lakk1252,Lak (Balkhar dialect),1247,ичӀи,CyrillTrans,ear,,,ič̛i,Phonemic
+4-215-525-1,lakk1252,Lak (Balkhar dialect),1655,мюрш икӀан,CyrillTrans,blink,,,moˤrš ik̛an,Phonemic
+4-214-525-1,lakk1252,Lak (Balkhar dialect),1540,иттал хъен,CyrillTrans,eyelash,,,it̄al qeˤn,Phonemic
+4-213-525-1,lakk1252,Lak (Balkhar dialect),17,янил хъен,CyrillTrans,eyelid,,,yanil qeˤn,Phonemic
+4-212-525-1,lakk1252,Lak (Balkhar dialect),1173,иттацӀани,CyrillTrans,eyebrow,,,it̄ac̛ani,Phonemic
+4-210-525-1,lakk1252,Lak (Balkhar dialect),1248,я,CyrillTrans,eye,,,ya,Phonemic
+4-208-525-1,lakk1252,Lak (Balkhar dialect),1730,ххинчу,CyrillTrans,cheek,,,x̄inču,Phonemic
+4-209-525-1,lakk1252,Lak (Balkhar dialect),1510,кӀацу,CyrillTrans,chin,,,k̛acu,Phonemic
+4-205-525-1,lakk1252,Lak (Balkhar dialect),123,неттабакӀ,CyrillTrans,forehead,,,net̄abak̛,Phonemic
+4-207-525-1,lakk1252,Lak (Balkhar dialect),798,щунщубатӀи,CyrillTrans,jaw,,,š̄unš̄ubat̛i,Phonemic
+4-204-525-1,lakk1252,Lak (Balkhar dialect),1560,лажин,CyrillTrans,face,,,lažin,Phonemic
+4-203-525-1,lakk1252,Lak (Balkhar dialect),1583,ня,CyrillTrans,brain,,,naˤ,Phonemic
+4-201-525-1,lakk1252,Lak (Balkhar dialect),1604,пулухал,CyrillTrans,"side of head, temple",,,puluxal,Phonemic
+4-202-525-1,lakk1252,Lak (Balkhar dialect),1605,къалип,CyrillTrans,skull,,,Galip,Phonemic
+4-200-525-1,lakk1252,Lak (Balkhar dialect),1256,бакӀ,CyrillTrans,head,,,bak̛,Phonemic
+4-191-525-1,lakk1252,Lak (Balkhar dialect),805,бюрхъал ттаркI,CyrillTrans,spine,,,boˤrqal t̄ark̛,Phonemic
+4-190-525-1,lakk1252,Lak (Balkhar dialect),1291,бязар,CyrillTrans,back,,,baˤzar,Phonemic
+4-180-525-1,lakk1252,Lak (Balkhar dialect),1220,магъ,CyrillTrans,tail,,,maɣ,Phonemic
+4-170-525-1,lakk1252,Lak (Balkhar dialect),1393,хъи,CyrillTrans,horn,,,qi,Phonemic
+4-162-525-1,lakk1252,Lak (Balkhar dialect),801,лимс,CyrillTrans,rib,,,lims,Phonemic
+4-160-525-1,lakk1252,Lak (Balkhar dialect),1394,ттаркӀ,CyrillTrans,bone,,,t̄arkʼ,Phonemic
+4-151-525-1,lakk1252,Lak (Balkhar dialect),525,тунну,CyrillTrans,"vein, artery",,,tunnu,Phonemic
+4-150-525-1,lakk1252,Lak (Balkhar dialect),946,оьтту,CyrillTrans,blood,,,oˤt̄u,Phonemic
+4-146-525-1,lakk1252,Lak (Balkhar dialect),576,чанну,CyrillTrans,dandruff,,,čannu,Phonemic
+4-145-525-1,lakk1252,Lak (Balkhar dialect),36,чӀара,CyrillTrans,pubic hair,,,č̛ara,Phonemic
+4-144-525-1,lakk1252,Lak (Balkhar dialect),189,чӀара,CyrillTrans,body hair,,,č̛ara,Phonemic
+4-142-525-1,lakk1252,Lak (Balkhar dialect),678,чӀри,CyrillTrans,beard,,,č̛ri,Phonemic
+4-140-525-1,lakk1252,Lak (Balkhar dialect),1040,хӀаллу,CyrillTrans,hair (head),,,ћallu,Phonemic
+4-130-525-1,lakk1252,Lak (Balkhar dialect),2259,кьаркьала,CyrillTrans,flesh,,,q̛arq̛ala,Phonemic
+4-120-525-1,lakk1252,Lak (Balkhar dialect),763,бурчу,CyrillTrans,"skin, hide",,,burču,Phonemic
+4-110-525-1,lakk1252,Lak (Balkhar dialect),1480,чурх,CyrillTrans,body,,,čurx,Phonemic
+3-980-525-1,lakk1252,Lak (Balkhar dialect),112,моаьраоьрбатӀи,CyrillTrans,turtle,,,moaˤraoˤrbat̛i,Phonemic
+3-970-525-1,lakk1252,Lak (Balkhar dialect),1857,кIракIадил,CyrillTrans,"crocodile, alligator",,,k̛rak̛adil,Phonemic
+3-960-525-1,lakk1252,Lak (Balkhar dialect),632,аьрщалу,CyrillTrans,lizard,,,aˤrš̄alu,Phonemic
+3-950-525-1,lakk1252,Lak (Balkhar dialect),503,оьрбатӀи,CyrillTrans,frog,,,oˤrbat̛i,Phonemic
+3-940-525-1,lakk1252,Lak (Balkhar dialect),1543,чекъютӀ къяча,CyrillTrans,snail,,,čeˤGoˤt Gaˤča,Phonemic
+3-930-525-1,lakk1252,Lak (Balkhar dialect),607,хъацӀ,CyrillTrans,grasshopper,,,qac̛,Phonemic
+3-920-525-1,lakk1252,Lak (Balkhar dialect),1791,чӀимугӀали,CyrillTrans,butterfly,,,č̛imuʕali,Phonemic
+3-910-525-1,lakk1252,Lak (Balkhar dialect),206,чирахъ шатта,CyrillTrans,firefly,,,čiraq šat̄a,Phonemic
+3-850-525-1,lakk1252,Lak (Balkhar dialect),730,шатта,CyrillTrans,snake,,,šat̄a,Phonemic
+3-840-525-1,lakk1252,Lak (Balkhar dialect),1219,шатта,CyrillTrans,worm,,,"šat̄a, žoˤntlibu šat̄a",Phonemic
+3-840-525-3,lakk1252,Lak (Balkhar dialect),1219,жюнтлибу шатта,CyrillTrans,worm,,,"šat̄a, žoˤntlibu šat̄a",Phonemic
+3-832-525-1,lakk1252,Lak (Balkhar dialect),1509,щургъи,CyrillTrans,mosquito,,,š̄urɣi,Phonemic
+3-831-525-1,lakk1252,Lak (Balkhar dialect),95,щургъи,CyrillTrans,"sandfly (midge), gnat",,,š̄urɣi,Phonemic
+3-830-525-1,lakk1252,Lak (Balkhar dialect),1504,змиз,CyrillTrans,fly,,,zmiz,Phonemic
+3-823-525-1,lakk1252,Lak (Balkhar dialect),1517,най,CyrillTrans,wasp,,,nay,Phonemic
+3-822-525-1,lakk1252,Lak (Balkhar dialect),88,найрду,CyrillTrans,beehive,,,nayrdu,Phonemic
+3-821-525-1,lakk1252,Lak (Balkhar dialect),1931,хъам,CyrillTrans,beeswax,,,qam,Phonemic
+3-820-525-1,lakk1252,Lak (Balkhar dialect),665,най,CyrillTrans,bee,,,nay,Phonemic
+3-819-525-1,lakk1252,Lak (Balkhar dialect),1065,ххян,CyrillTrans,spider web,,,x̄aˤn,Phonemic
+3-818-525-1,lakk1252,Lak (Balkhar dialect),843,хъалчу,CyrillTrans,spider,,,qalču,Phonemic
+3-817-525-1,lakk1252,Lak (Balkhar dialect),587,митӀи-кьукьу,CyrillTrans,ant,,,mit̛i-q̛uq̛u,Phonemic
+3-816-525-1,lakk1252,Lak (Balkhar dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-525-1,lakk1252,Lak (Balkhar dialect),1538,аькьраб,CyrillTrans,scorpion,,,aq̛rab,Phonemic
+3-814-525-1,lakk1252,Lak (Balkhar dialect),1974,аьнхъа,CyrillTrans,centipede,,,aˤnqa,Phonemic
+3-813-525-1,lakk1252,Lak (Balkhar dialect),232,чӀака,CyrillTrans,flea,,,č̛aka,Phonemic
+3-812-525-1,lakk1252,Lak (Balkhar dialect),267,тӀу,CyrillTrans,nit (louse egg),,,t̛u,Phonemic
+3-811-525-1,lakk1252,Lak (Balkhar dialect),1392,нацӀ,CyrillTrans,louse,,,nac̛,Phonemic
+3-810-525-1,lakk1252,Lak (Balkhar dialect),620,ущу-щургъи,CyrillTrans,insect,,,uš̄u-š̄urɣi,Phonemic
+3-780-525-1,lakk1252,Lak (Balkhar dialect),1871,варани,CyrillTrans,camel,,,warani,Phonemic
+3-770-525-1,lakk1252,Lak (Balkhar dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-525-1,lakk1252,Lak (Balkhar dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-525-1,lakk1252,Lak (Balkhar dialect),1936,бюрни,CyrillTrans,deer,,,boˤrni,Phonemic
+3-740-525-1,lakk1252,Lak (Balkhar dialect),1312,цулчӀа,CyrillTrans,fox,,,culč̛a,Phonemic
+3-730-525-1,lakk1252,Lak (Balkhar dialect),1820,цуша,CyrillTrans,bear,,,cuša,Phonemic
+3-720-525-1,lakk1252,Lak (Balkhar dialect),1386,аслан-къаплан,CyrillTrans,lion,,,aslan-Gaplan,Phonemic
+3-710-525-1,lakk1252,Lak (Balkhar dialect),522,барцӀ,CyrillTrans,wolf,,,barc̛,Phonemic
+3-663-525-1,lakk1252,Lak (Balkhar dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-525-1,lakk1252,Lak (Balkhar dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-525-1,lakk1252,Lak (Balkhar dialect),1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-525-1,lakk1252,Lak (Balkhar dialect),598,балихъирал ичІи,CyrillTrans,shell,,,baliqiral ič̛i,Phonemic
+3-654-525-1,lakk1252,Lak (Balkhar dialect),1916,хъитру,CyrillTrans,gill,,,qirtu,Phonemic
+3-653-525-1,lakk1252,Lak (Balkhar dialect),266,балихъирал чан,CyrillTrans,fishscale,,,baliqiral čan,Phonemic
+3-652-525-1,lakk1252,Lak (Balkhar dialect),213,бaлихъирал магъ,CyrillTrans,fin (dorsal),,,baliqiral maˤɣ,Phonemic
+3-650-525-1,lakk1252,Lak (Balkhar dialect),227,балихъ,CyrillTrans,fish,,,baliq,Phonemic
+3-630-525-1,lakk1252,Lak (Balkhar dialect),2139,кӀулу,CyrillTrans,"mouse, rat",,,k̛ulu,Phonemic
+3-620-525-1,lakk1252,Lak (Balkhar dialect),1208,ччиту,CyrillTrans,cat,,,č̄itu,Phonemic
+3-614-525-1,lakk1252,Lak (Balkhar dialect),1136,бюрх,CyrillTrans,rabbit,,,boˤrx,Phonemic
+3-610-525-1,lakk1252,Lak (Balkhar dialect),2009,ккаччи,CyrillTrans,dog,,,k̄arč̄i,Phonemic
+3-594-525-1,lakk1252,Lak (Balkhar dialect),1853,хьхьи,CyrillTrans,dove,,,x̌̄i,Phonemic
+3-596-525-1,lakk1252,Lak (Balkhar dialect),735,ису,CyrillTrans,owl,,,isu,Phonemic
+3-593-525-1,lakk1252,Lak (Balkhar dialect),913,къягу,CyrillTrans,crow,,,Gaˤgu,Phonemic
+3-592-525-1,lakk1252,Lak (Balkhar dialect),882,попугай,CyrillTrans,parrot,,,popugay,Phonemic
+3-591-525-1,lakk1252,Lak (Balkhar dialect),1793,леххай кӀулу,CyrillTrans,bat,,,leˤx̄ay k̛ulu,Phonemic
+3-586-525-1,lakk1252,Lak (Balkhar dialect),1185,барзу,CyrillTrans,vulture,,,barzu,Phonemic
+3-585-525-1,lakk1252,Lak (Balkhar dialect),307,лачин,CyrillTrans,hawk,,,lačin,Phonemic
+3-584-525-1,lakk1252,Lak (Balkhar dialect),1905,барзу,CyrillTrans,eagle,,,barzu,Phonemic
+3-582-525-1,lakk1252,Lak (Balkhar dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-525-1,lakk1252,Lak (Balkhar dialect),758,гьяжилаглаг,CyrillTrans,heron,,,haˤžilaglag,Phonemic
+3-581-525-1,lakk1252,Lak (Balkhar dialect),937,лелуххи,CyrillTrans,bird,,,leˤlux̄i,Phonemic
+3-580-525-1,lakk1252,Lak (Balkhar dialect),539,кюру,CyrillTrans,nest,,,koˤru,Phonemic
+3-570-525-1,lakk1252,Lak (Balkhar dialect),1360,бятӀ,CyrillTrans,duck,,,baˤt̛,Phonemic
+3-560-525-1,lakk1252,Lak (Balkhar dialect),1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-525-1,lakk1252,Lak (Balkhar dialect),1318,аьнакӀул оьрчӀ,CyrillTrans,chicken,,,aˤnak̛ul oˤrč̛,Phonemic
+3-540-525-1,lakk1252,Lak (Balkhar dialect),1514,аьнакӀи,CyrillTrans,hen,,,aˤnak̛i,Phonemic
+3-520-525-1,lakk1252,Lak (Balkhar dialect),1511,ажари,CyrillTrans,"cock, rooster",,,ažari,Phonemic
+3-470-525-1,lakk1252,Lak (Balkhar dialect),890,илцун,CyrillTrans,mule,,,ilcun,Phonemic
+3-500-525-1,lakk1252,Lak (Balkhar dialect),265,шаллил аьнакӀив,CyrillTrans,fowl,,,šallil aˤnak̛iw,Phonemic
+3-460-525-1,lakk1252,Lak (Balkhar dialect),1862,ттукку,CyrillTrans,"ass, donkey",,,t̄uk̄u,Phonemic
+3-450-525-1,lakk1252,Lak (Balkhar dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˤy,Phonemic
+3-440-525-1,lakk1252,Lak (Balkhar dialect),938,кацца,CyrillTrans,mare,,,kac̄a,Phonemic
+3-420-525-1,lakk1252,Lak (Balkhar dialect),936,балчан,CyrillTrans,stallion,,,balčan,Phonemic
+3-410-525-1,lakk1252,Lak (Balkhar dialect),615,балчан,CyrillTrans,horse (equine),,,balčan,Phonemic
+3-380-525-1,lakk1252,Lak (Balkhar dialect),1972,гада,CyrillTrans,kid,,,gada,Phonemic
+3-370-525-1,lakk1252,Lak (Balkhar dialect),264,аьца,CyrillTrans,he-goat,,,aˤca,Phonemic
+3-360-525-1,lakk1252,Lak (Balkhar dialect),1502,цӀуку,CyrillTrans,goat,,,c̛uku,Phonemic
+3-350-525-1,lakk1252,Lak (Balkhar dialect),1337,дунгъуз,CyrillTrans,pig,,,dunɣuz,Phonemic
+3-340-525-1,lakk1252,Lak (Balkhar dialect),1351,ццусса дунгъуз,CyrillTrans,sow (2),,,c̄us̄a dunɣuz,Phonemic
+3-320-525-1,lakk1252,Lak (Balkhar dialect),1348,къабан,CyrillTrans,boar,,,Gaban,Phonemic
+3-290-525-1,lakk1252,Lak (Balkhar dialect),820,чӀи,CyrillTrans,lamb,,,č̛i,Phonemic
+3-280-525-1,lakk1252,Lak (Balkhar dialect),1345,тта,CyrillTrans,ewe,,,t̄a,Phonemic
+3-260-525-1,lakk1252,Lak (Balkhar dialect),1344,ку,CyrillTrans,ram,,,ku,Phonemic
+3-250-525-1,lakk1252,Lak (Balkhar dialect),1331,ку-тта,CyrillTrans,sheep,,,ku-t̄a,Phonemic
+3-240-525-1,lakk1252,Lak (Balkhar dialect),1989,бярч,CyrillTrans,calf,,,baˤrč,Phonemic
+3-230-525-1,lakk1252,Lak (Balkhar dialect),1007,оьл,CyrillTrans,cow,,,oˤl,Phonemic
+3-220-525-1,lakk1252,Lak (Balkhar dialect),1169,бали,CyrillTrans,ox,,,bali,Phonemic
+3-210-525-1,lakk1252,Lak (Balkhar dialect),1008,къяча,CyrillTrans,bull,,,Gaˤča,Phonemic
+3-200-525-1,lakk1252,Lak (Balkhar dialect),1153,хъунхӀайбан,CyrillTrans,cattle (bovine),,,qunћayban,Phonemic
+3-190-525-1,lakk1252,Lak (Balkhar dialect),851,ппал,CyrillTrans,"stable, stall",,,p̄al,Phonemic
+3-180-525-1,lakk1252,Lak (Balkhar dialect),263,хӀухчу,CyrillTrans,herdsman,,,ћuxču,Phonemic
+3-160-525-1,lakk1252,Lak (Balkhar dialect),649,къур,CyrillTrans,pasture,,,Gur,Phonemic
+3-150-525-1,lakk1252,Lak (Balkhar dialect),631,шаллил хӀайбант,CyrillTrans,livestock,,,"šallil ћaybant, ɣat̄ara",Phonemic
+3-150-525-3,lakk1252,Lak (Balkhar dialect),631,гъаттара,CyrillTrans,livestock,,,"šallil ћaybant, ɣat̄ara",Phonemic
+3-130-525-1,lakk1252,Lak (Balkhar dialect),2262,хъаннил,CyrillTrans,female (adj),,,qannil,Phonemic
+3-120-525-1,lakk1252,Lak (Balkhar dialect),2261,чибаркӀуннал,CyrillTrans,male (adj),,,čibark̛unnal,Phonemic
+3-110-525-1,lakk1252,Lak (Balkhar dialect),619,хӀайбан,CyrillTrans,animal,,,ћayban,Phonemic
+2-960-525-1,lakk1252,Lak (Balkhar dialect),817,тай,CyrillTrans,they,,,tay,Phonemic
+2-950-525-1,lakk1252,Lak (Balkhar dialect),1213,зу,CyrillTrans,you (plural),,,zy,Phonemic
+2-940-525-1,lakk1252,Lak (Balkhar dialect),1212,жу,CyrillTrans,we,,,žu,Phonemic
+2-930-525-1,lakk1252,Lak (Balkhar dialect),262,та,CyrillTrans,he/she/it,,,ta,Phonemic
+2-920-525-1,lakk1252,Lak (Balkhar dialect),1215,ина,CyrillTrans,you (singular),,,ina,Phonemic
+2-910-525-1,lakk1252,Lak (Balkhar dialect),1209,на,CyrillTrans,I,,,na,Phonemic
+2-820-525-1,lakk1252,Lak (Balkhar dialect),194,къуш,CyrillTrans,family,,,Guš,Phonemic
+2-810-525-1,lakk1252,Lak (Balkhar dialect),1644,мачча-гъанми,CyrillTrans,"relatives, kinsmen",,,mač̄a-ɣanmi,Phonemic
+2-770-525-1,lakk1252,Lak (Balkhar dialect),1981,курчӀучу,CyrillTrans,widower,,,kurc̛̄uču,Phonemic
+2-760-525-1,lakk1252,Lak (Balkhar dialect),1756,курчӀу щар,CyrillTrans,widow,,,kurc̛̄u š̄ar,Phonemic
+2-750-525-1,lakk1252,Lak (Balkhar dialect),1149,ятин,CyrillTrans,orphan,,,yatin,Phonemic
+2-740-525-1,lakk1252,Lak (Balkhar dialect),1058,луб душ,CyrillTrans,stepdaughter,,,lub duš,Phonemic
+2-730-525-1,lakk1252,Lak (Balkhar dialect),1059,луб оьрчӀ,CyrillTrans,stepson,,,lub oˤrč̛,Phonemic
+2-720-525-1,lakk1252,Lak (Balkhar dialect),236,дяркъу баба,CyrillTrans,stepmother,,,daˤrGu baba,Phonemic
+2-710-525-1,lakk1252,Lak (Balkhar dialect),237,аьбкъу ттатта,CyrillTrans,stepfather,,,aˤbGu t̄at̄a,Phonemic
+2-641-525-1,lakk1252,Lak (Balkhar dialect),2264,арснал щар,CyrillTrans,daughter-in-law (of a woman),,,arsnal š̄ar,Phonemic
+2-640-525-1,lakk1252,Lak (Balkhar dialect),2265,арснал щар,CyrillTrans,daughter-in-law (of a man),,,"arsnal š̄ar, us̄il š̄ar",Phonemic
+2-640-525-3,lakk1252,Lak (Balkhar dialect),2265,уссил щар,CyrillTrans,daughter-in-law (of a man),,,"arsnal š̄ar, us̄il š̄ar",Phonemic
+2-631-525-1,lakk1252,Lak (Balkhar dialect),2266,куяв,CyrillTrans,son-in-law (of a woman),,,kuyaw,Phonemic
+2-630-525-1,lakk1252,Lak (Balkhar dialect),2267,куяв,CyrillTrans,son-in-law (of a man),,,kuyaw,Phonemic
+2-621-525-1,lakk1252,Lak (Balkhar dialect),2257,щарнил баба,CyrillTrans,mother-in-law (of a woman),,,š̄arnil baba,Phonemic
+2-620-525-1,lakk1252,Lak (Balkhar dialect),2256,ласнал баба,CyrillTrans,mother-in-law (of a man),,,lasnal baba,Phonemic
+2-611-525-1,lakk1252,Lak (Balkhar dialect),2254,щарнил ттатта,CyrillTrans,father-in-law (of a woman),,,š̄arnil t̄at̄a,Phonemic
+2-610-525-1,lakk1252,Lak (Balkhar dialect),2255,ласнал ттатта,CyrillTrans,father-in-law (of a man),,,lasnal t̄at̄a,Phonemic
+2-570-525-1,lakk1252,Lak (Balkhar dialect),490,агьлу,CyrillTrans,descendants,,,ahlu,Phonemic
+2-560-525-1,lakk1252,Lak (Balkhar dialect),1669,агьлу-авлад,CyrillTrans,ancestors,,,ahlu-awlad,Phonemic
+2-550-525-1,lakk1252,Lak (Balkhar dialect),1643,ссурахъу,CyrillTrans,cousin,,,šuraqu,Phonemic
+2-540-525-1,lakk1252,Lak (Balkhar dialect),1642,уссил душ,CyrillTrans,niece,,,"us̄il duš, s̄il duš",Phonemic
+2-540-525-3,lakk1252,Lak (Balkhar dialect),1642,ссил душ,CyrillTrans,niece,,,"us̄il duš, s̄il duš",Phonemic
+2-530-525-1,lakk1252,Lak (Balkhar dialect),1063,уссил оьрчӀ,CyrillTrans,nephew,,,"us̄il oˤrč̛, s̄il oˤrč̛",Phonemic
+2-530-525-3,lakk1252,Lak (Balkhar dialect),1063,ссил оьрчӀ,CyrillTrans,nephew,,,"us̄il oˤrč̛, s̄il oˤrč̛",Phonemic
+2-522-525-1,lakk1252,Lak (Balkhar dialect),170,буттал ссу,CyrillTrans,father's sister,,,but̄al s̄u,Phonemic
+2-520-525-1,lakk1252,Lak (Balkhar dialect),1272,заза,CyrillTrans,aunt,,,zaza,Phonemic
+2-521-525-1,lakk1252,Lak (Balkhar dialect),171,ниттил ссу,CyrillTrans,mother's sister,,,nit̄il s̄u,Phonemic
+2-512-525-1,lakk1252,Lak (Balkhar dialect),1985,бутта уссу,CyrillTrans,father's brother,,,but̄a us̄u,Phonemic
+2-511-525-1,lakk1252,Lak (Balkhar dialect),1984,ннитти уссу,CyrillTrans,mother's brother,,,nnit̄i us̄u,Phonemic
+2-510-525-1,lakk1252,Lak (Balkhar dialect),1327,мямма,CyrillTrans,uncle,,,maˤmma,Phonemic
+2-480-525-1,lakk1252,Lak (Balkhar dialect),1618,оьрчӀал оьрчӀ,CyrillTrans,grandson,,,"oˤrč̛al oˤrč̛, dušnil oˤrč̛",Phonemic
+2-480-525-3,lakk1252,Lak (Balkhar dialect),1618,душнил оьрчӀ,CyrillTrans,grandson,,,"oˤrč̛al oˤrč̛, dušnil oˤrč̛",Phonemic
+2-490-525-1,lakk1252,Lak (Balkhar dialect),1619,оьрчӀал душ,CyrillTrans,granddaughter,,,"oˤrč̛al duš, dušnil duš",Phonemic
+2-490-525-3,lakk1252,Lak (Balkhar dialect),1619,душнил душ,CyrillTrans,granddaughter,,,"oˤrč̛al duš, dušnil duš",Phonemic
+2-471-525-1,lakk1252,Lak (Balkhar dialect),907,къари,CyrillTrans,old woman,,,Gari,Phonemic
+2-470-525-1,lakk1252,Lak (Balkhar dialect),1496,хъунна баба,CyrillTrans,grandmother,,,qunna baba,Phonemic
+2-461-525-1,lakk1252,Lak (Balkhar dialect),406,къужа,CyrillTrans,old man,,,Guža,Phonemic
+2-460-525-1,lakk1252,Lak (Balkhar dialect),1383,хъунна ттатта,CyrillTrans,grandfather,,,qunna t̄at̄a,Phonemic
+2-458-525-1,lakk1252,Lak (Balkhar dialect),1005,кӀиниццант,CyrillTrans,twins,,,k̛inic̄ant,Phonemic
+2-456-525-1,lakk1252,Lak (Balkhar dialect),1640,уссу-ссу,CyrillTrans,sibling,,,us̄u-s̄u,Phonemic
+2-455-525-1,lakk1252,Lak (Balkhar dialect),1761,чӀиримур ссу,CyrillTrans,younger sister,,,č̛irimur s̄u,Phonemic
+2-454-525-1,lakk1252,Lak (Balkhar dialect),1758,хъуннамур ссу,CyrillTrans,older sister,,,qunnamur s̄u,Phonemic
+2-450-525-1,lakk1252,Lak (Balkhar dialect),1263,ссу,CyrillTrans,sister,,,s̄u,Phonemic
+2-445-525-1,lakk1252,Lak (Balkhar dialect),1760,чӀивима уссу,CyrillTrans,younger brother,,,č̛iwima us̄u,Phonemic
+2-444-525-1,lakk1252,Lak (Balkhar dialect),1759,хъуннама уссу,CyrillTrans,older brother,,,qunnama us̄u,Phonemic
+2-440-525-1,lakk1252,Lak (Balkhar dialect),1262,уссу,CyrillTrans,brother,,,us̄u,Phonemic
+2-430-525-1,lakk1252,Lak (Balkhar dialect),1801,орчӀру,CyrillTrans,offspring (son or daughter),,,oˤrč̛ru,Phonemic
+2-420-525-1,lakk1252,Lak (Balkhar dialect),1357,душ,CyrillTrans,daughter,,,duš,Phonemic
+2-410-525-1,lakk1252,Lak (Balkhar dialect),1620,оьрчI,CyrillTrans,son,,,oˤrč̛,Phonemic
+2-390-525-1,lakk1252,Lak (Balkhar dialect),426,щар хьусса,CyrillTrans,married woman,,,š̄ar x̌us̄a,Phonemic
+2-380-525-1,lakk1252,Lak (Balkhar dialect),424,щар дурцусса,CyrillTrans,married man,,,š̄ar durcus̄a,Phonemic
+2-370-525-1,lakk1252,Lak (Balkhar dialect),505,баба-ттатта,CyrillTrans,parents,,,baba-t̄at̄a,Phonemic
+2-360-525-1,lakk1252,Lak (Balkhar dialect),1216,баба,CyrillTrans,mother,,,baba,Phonemic
+2-350-525-1,lakk1252,Lak (Balkhar dialect),1217,ттатта,CyrillTrans,father,,,t̄at̄a,Phonemic
+2-341-525-1,lakk1252,Lak (Balkhar dialect),1134,батул шабу,CyrillTrans,divorce,,,batul šabu,Phonemic
+2-340-525-1,lakk1252,Lak (Balkhar dialect),1259,хъатӀи,CyrillTrans,"marriage, wedding",,,qat̛i,Phonemic
+2-330-525-1,lakk1252,Lak (Balkhar dialect),203,щар дуцин,CyrillTrans,marry,,,"š̄ar, ducin, š̄ar x̌un",Phonemic
+2-330-525-3,lakk1252,Lak (Balkhar dialect),203,щар хьун,CyrillTrans,marry,,,"š̄ar, ducin, š̄ar x̌un",Phonemic
+2-320-525-1,lakk1252,Lak (Balkhar dialect),1199,щарсса,CyrillTrans,wife,,,š̄ars̄a,Phonemic
+2-310-525-1,lakk1252,Lak (Balkhar dialect),1200,чу,CyrillTrans,husband,,,ču,Phonemic
+2-280-525-1,lakk1252,Lak (Balkhar dialect),1289,чӀиби оьрчӀ,CyrillTrans,"infant, baby",,,č̛ibi oˤrč̛,Phonemic
+2-270-525-1,lakk1252,Lak (Balkhar dialect),1304,оьрчӀ,CyrillTrans,child,,,oˤrč̛,Phonemic
+2-261-525-1,lakk1252,Lak (Balkhar dialect),77,душ,CyrillTrans,young woman (adolescent),,,duš,Phonemic
+2-260-525-1,lakk1252,Lak (Balkhar dialect),1646,душ,CyrillTrans,girl,,,duš,Phonemic
+2-251-525-1,lakk1252,Lak (Balkhar dialect),76,жагьил,CyrillTrans,young man (adolescent),,,žahil,Phonemic
+2-250-525-1,lakk1252,Lak (Balkhar dialect),1366,оьрчӀ,CyrillTrans,boy,,,oˤrč̛,Phonemic
+2-240-525-1,lakk1252,Lak (Balkhar dialect),1551,ццусса,CyrillTrans,female,,,c̄us̄a,Phonemic
+2-230-525-1,lakk1252,Lak (Balkhar dialect),1553,бурхьнисса,CyrillTrans,male,,,burx̌nis̄a,Phonemic
+2-220-525-1,lakk1252,Lak (Balkhar dialect),962,щарсса,CyrillTrans,woman,,,š̄ars̄a,Phonemic
+2-210-525-1,lakk1252,Lak (Balkhar dialect),1554,адамина,CyrillTrans,man (vs. woman),,,"aqamina, ču",Phonemic
+2-210-525-3,lakk1252,Lak (Balkhar dialect),1554,чу,CyrillTrans,man (vs. woman),,,"aqamina, ču",Phonemic
+2-100-525-1,lakk1252,Lak (Balkhar dialect),683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-525-1,lakk1252,Lak (Balkhar dialect),1188,хъручӀ,CyrillTrans,charcoal,,,qruč̛,Phonemic
+1-880-525-1,lakk1252,Lak (Balkhar dialect),10,тӀама,CyrillTrans,firewood,,,t̛ama,Phonemic
+1-870-525-1,lakk1252,Lak (Balkhar dialect),1133,къермит,CyrillTrans,match (noun),,,Geˤrmit,Phonemic
+1-861-525-1,lakk1252,Lak (Balkhar dialect),127,лещан дан,CyrillTrans,extinguish,,,leˤš̄an dan,Phonemic
+1-860-525-1,lakk1252,Lak (Balkhar dialect),737,цӀу лахъан,CyrillTrans,"light, kindle, ignite",,,c̛u laqan,Phonemic
+1-852-525-1,lakk1252,Lak (Balkhar dialect),1428,ччучлан,CyrillTrans,burn (vb intrans),,,č̄učlan,Phonemic
+1-851-525-1,lakk1252,Lak (Balkhar dialect),141,ччуччин,CyrillTrans,burn (vb trans),,,č̄uč̄in,Phonemic
+1-841-525-1,lakk1252,Lak (Balkhar dialect),67,кӀлащру,CyrillTrans,embers,,,k̛laš̄ru,Phonemic
+1-840-525-1,lakk1252,Lak (Balkhar dialect),646,лах,CyrillTrans,ashes,,,lax,Phonemic
+1-830-525-1,lakk1252,Lak (Balkhar dialect),778,ппуркIу,CyrillTrans,smoke (noun),,,p̄urk̛u,Phonemic
+1-820-525-1,lakk1252,Lak (Balkhar dialect),889,лама,CyrillTrans,flame (noun),,,lama,Phonemic
+1-810-525-1,lakk1252,Lak (Balkhar dialect),221,цӀу,CyrillTrans,fire,,,c̛u,Phonemic
+1-780-525-1,lakk1252,Lak (Balkhar dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-525-1,lakk1252,Lak (Balkhar dialect),617,микӀ,CyrillTrans,ice,,,mik̛,Phonemic
+1-760-525-1,lakk1252,Lak (Balkhar dialect),784,марххала,CyrillTrans,snow (noun),,,marx̄ala,Phonemic
+1-750-525-1,lakk1252,Lak (Balkhar dialect),658,гъарал,CyrillTrans,rain (noun),,,ɣaral,Phonemic
+1-740-525-1,lakk1252,Lak (Balkhar dialect),249,ттуруллив,CyrillTrans,fog,,,t̄urulliw,Phonemic
+1-720-525-1,lakk1252,Lak (Balkhar dialect),960,марч,CyrillTrans,wind,,,marč,Phonemic
+1-730-525-1,lakk1252,Lak (Balkhar dialect),1489,ттурлу,CyrillTrans,cloud,,,"t̄yrlu, Gurq",Phonemic
+1-730-525-3,lakk1252,Lak (Balkhar dialect),1489,къурхъ,CyrillTrans,cloud,,,"t̄yrlu, Gurq",Phonemic
+1-710-525-1,lakk1252,Lak (Balkhar dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-525-1,lakk1252,Lak (Balkhar dialect),1977,хьхьем,CyrillTrans,dew,,,x̌̄eˤm,Phonemic
+1-630-525-1,lakk1252,Lak (Balkhar dialect),1388,ххют,CyrillTrans,"shade, shadow",,,x̄oˤt,Phonemic
+1-620-525-1,lakk1252,Lak (Balkhar dialect),11,цӀан,CyrillTrans,darkness,,,c̛an,Phonemic
+1-610-525-1,lakk1252,Lak (Balkhar dialect),630,чани,CyrillTrans,light (noun),,,čani,Phonemic
+1-590-525-1,lakk1252,Lak (Balkhar dialect),1733,ссурул ккуртта,CyrillTrans,rainbow,,,s̄urul k̄urt̄a,Phonemic
+1-580-525-1,lakk1252,Lak (Balkhar dialect),858,марч,CyrillTrans,storm,,,marč,Phonemic
+1-560-525-1,lakk1252,Lak (Balkhar dialect),1150,къуь аьс,CyrillTrans,thunder,,,Guˤ aˤs,Phonemic
+1-570-525-1,lakk1252,Lak (Balkhar dialect),2007,цӀупар,CyrillTrans,lightning (as striking),,,c̛upar,Phonemic
+1-550-525-1,lakk1252,Lak (Balkhar dialect),1654,цӀупар,CyrillTrans,lightning,,,c̛upar,Phonemic
+1-540-525-1,lakk1252,Lak (Balkhar dialect),1430,цӀуку,CyrillTrans,star,,,c̛uku,Phonemic
+1-530-525-1,lakk1252,Lak (Balkhar dialect),1313,барз,CyrillTrans,moon,,,barz,Phonemic
+1-520-525-1,lakk1252,Lak (Balkhar dialect),1343,баргъ,CyrillTrans,sun,,,barɣ,Phonemic
+1-510-525-1,lakk1252,Lak (Balkhar dialect),1732,ссаб,CyrillTrans,sky,,,s̄ab,Phonemic
+1-450-525-1,lakk1252,Lak (Balkhar dialect),6,аьрщи сукку шаву,CyrillTrans,earthquake,,,aˤrš̄i suk̄u šawu,Phonemic
+1-440-525-1,lakk1252,Lak (Balkhar dialect),2125,чару,CyrillTrans,"stone, rock",,,čaru,Phonemic
+1-430-525-1,lakk1252,Lak (Balkhar dialect),1803,тӀама,CyrillTrans,wood,,,t̛ama,Phonemic
+1-420-525-1,lakk1252,Lak (Balkhar dialect),906,ахъ,CyrillTrans,tree (cf 08.600),,,aq,Phonemic
+1-410-525-1,lakk1252,Lak (Balkhar dialect),420,вацӀа,CyrillTrans,"woods, forest",,,wac̛a,Phonemic
+1-390-525-1,lakk1252,Lak (Balkhar dialect),943,щиндагьу,CyrillTrans,waterfall,,,š̄indahu,Phonemic
+1-380-525-1,lakk1252,Lak (Balkhar dialect),1145,хьхьинцӀлу,CyrillTrans,swamp,,,x̌̄inc̛lu,Phonemic
+1-370-525-1,lakk1252,Lak (Balkhar dialect),2144,олла,CyrillTrans,"spring, well",,,"olla, š̄araš̄i",Phonemic
+1-370-525-3,lakk1252,Lak (Balkhar dialect),2144,щаращи,CyrillTrans,"spring, well",,,"olla, š̄araš̄i",Phonemic
+1-362-525-1,lakk1252,Lak (Balkhar dialect),1982,щиритӀай,CyrillTrans,whirlpool,,,š̄irit̛ay,Phonemic
+1-360-525-1,lakk1252,Lak (Balkhar dialect),666,нех,CyrillTrans,"river, stream, brook",,,neˤx,Phonemic
+1-354-525-1,lakk1252,Lak (Balkhar dialect),613,щиндучIаву,CyrillTrans,hightide,,,š̄induč̛awu,Phonemic
+1-353-525-1,lakk1252,Lak (Balkhar dialect),1026,щинлагаву,CyrillTrans,lowtide,,,š̄inlagawu,Phonemic
+1-352-525-1,lakk1252,Lak (Balkhar dialect),891,хори щиндучIаву ва щинлагаву,CyrillTrans,tide,,,xori š̄induč̛awu wa š̄inlagawu,Phonemic
+1-350-525-1,lakk1252,Lak (Balkhar dialect),978,гьав,CyrillTrans,wave,,,haw,Phonemic
+1-330-525-1,lakk1252,Lak (Balkhar dialect),624,бяр,CyrillTrans,lake,,,bˤar,Phonemic
+1-329-525-1,lakk1252,Lak (Balkhar dialect),645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-525-1,lakk1252,Lak (Balkhar dialect),1768,хьма,CyrillTrans,foam,,,x̌ma,Phonemic
+1-323-525-1,lakk1252,Lak (Balkhar dialect),259,гьалаксса,CyrillTrans,rough (of sea),,,halaks̄a,Phonemic
+1-320-525-1,lakk1252,Lak (Balkhar dialect),1474,хори,CyrillTrans,sea,,,xori,Phonemic
+1-322-525-1,lakk1252,Lak (Balkhar dialect),258,бигьаласса,CyrillTrans,calm (of sea),,,bihalas̄a,Phonemic
+1-310-525-1,lakk1252,Lak (Balkhar dialect),948,щин,CyrillTrans,water,,,š̄in,Phonemic
+1-280-525-1,lakk1252,Lak (Balkhar dialect),1155,тух,CyrillTrans,cave,,,tux,Phonemic
+1-270-525-1,lakk1252,Lak (Balkhar dialect),113,неххял зма,CyrillTrans,shore,,,neˤx̄aˤl zma,Phonemic
+1-260-525-1,lakk1252,Lak (Balkhar dialect),166,континент,CyrillTrans,mainland,,,kontinent,Phonemic
+1-250-525-1,lakk1252,Lak (Balkhar dialect),622,жазира,CyrillTrans,island,,,žazira,Phonemic
+1-240-525-1,lakk1252,Lak (Balkhar dialect),921,ан,CyrillTrans,valley,,,"an, ar, han",Phonemic
+1-240-525-3,lakk1252,Lak (Balkhar dialect),921,ар,CyrillTrans,valley,,,"an, ar, han",Phonemic
+1-240-525-5,lakk1252,Lak (Balkhar dialect),921,гьан,CyrillTrans,valley,,,"an, ar, han",Phonemic
+1-230-525-1,lakk1252,Lak (Balkhar dialect),652,ан,CyrillTrans,"plain, field",,,"an, luxč̄i",Phonemic
+1-230-525-3,lakk1252,Lak (Balkhar dialect),652,лухччи,CyrillTrans,"plain, field",,,"an, luxč̄i",Phonemic
+1-222-525-1,lakk1252,Lak (Balkhar dialect),618,ун,CyrillTrans,"cliff, precipice",,,"un, an, x̄aˤli",Phonemic
+1-222-525-3,lakk1252,Lak (Balkhar dialect),618,ан,CyrillTrans,"cliff, precipice",,,"un, an, x̄aˤli",Phonemic
+1-222-525-5,lakk1252,Lak (Balkhar dialect),618,ххяли,CyrillTrans,"cliff, precipice",,,"un, an, x̄aˤli",Phonemic
+1-220-525-1,lakk1252,Lak (Balkhar dialect),2118,бакIу,CyrillTrans,"mountain, hill",,,bakʼu,Phonemic
+1-214-525-1,lakk1252,Lak (Balkhar dialect),640,чят,CyrillTrans,mud,,,čaˤt,Phonemic
+1-215-525-1,lakk1252,Lak (Balkhar dialect),671,къун,CyrillTrans,sand,,,Gun,Phonemic
+1-213-525-1,lakk1252,Lak (Balkhar dialect),2,лах,CyrillTrans,dust,,,lax,Phonemic
+1-212-525-1,lakk1252,Lak (Balkhar dialect),1228,аьрщи,CyrillTrans,"earth=ground, soil",,,aˤrš̄i,Phonemic
+1-210-525-1,lakk1252,Lak (Balkhar dialect),626,билаят,CyrillTrans,"earth, land",,,"bilayat, ulča",Phonemic
+1-210-525-3,lakk1252,Lak (Balkhar dialect),626,улча,CyrillTrans,"earth, land",,,"bilayat, ulča",Phonemic
+1-100-525-1,lakk1252,Lak (Balkhar dialect),965,дуниял,CyrillTrans,world,,,duniyal,Phonemic
+14-330-525-1,lakk1252,Lak (Balkhar dialect),1544,ца-цал,CyrillTrans,sometimes,,,ca-cal,Phonemic
+14-331-525-1,lakk1252,Lak (Balkhar dialect),703,чӀал къабхьун,CyrillTrans,soon,,,č̛al-Gabx̌un,Phonemic
+14-332-525-1,lakk1252,Lak (Balkhar dialect),418,лахъисса хІаллай,CyrillTrans,long-time (for a),,,laqis̄a ћallay,Phonemic
+14-340-525-1,lakk1252,Lak (Balkhar dialect),1656,тачӀав,CyrillTrans,never,,,tač̛aw,Phonemic
+14-350-525-1,lakk1252,Lak (Balkhar dialect),204,ялачу,CyrillTrans,again,,,"yalaču, c̛unilma",Phonemic
+14-350-525-3,lakk1252,Lak (Balkhar dialect),204,цІунилма,CyrillTrans,again,,,"yalaču, c̛unilma",Phonemic
+14-410-525-1,lakk1252,Lak (Balkhar dialect),1225,ъини,CyrillTrans,day,,,Ɂini,Phonemic
+14-420-525-1,lakk1252,Lak (Balkhar dialect),1233,хъхьу,CyrillTrans,night,,,qx̌u,Phonemic
+14-430-525-1,lakk1252,Lak (Balkhar dialect),729,цӀан-чани,CyrillTrans,dawn,,,"c̛an-čani, k̛oˤrx̄ic̛un",Phonemic
+14-430-525-3,lakk1252,Lak (Balkhar dialect),729,кӀюрххицӀун,CyrillTrans,dawn,,,"c̛an-čani, k̛oˤrx̄ic̛un",Phonemic
+14-440-525-1,lakk1252,Lak (Balkhar dialect),1339,кӀюрхх,CyrillTrans,morning,,,k̛oˤrx̄,Phonemic
+14-450-525-1,lakk1252,Lak (Balkhar dialect),12,аххттайн,CyrillTrans,"noon, midday",,,ax̄t̄ayn,Phonemic
+14-451-525-1,lakk1252,Lak (Balkhar dialect),1807,ахxттайар мах,CyrillTrans,afternoon,,,ax̄t̄ayar max,Phonemic
+14-460-525-1,lakk1252,Lak (Balkhar dialect),1629,уннийал,CyrillTrans,evening,,,unniyal,Phonemic
+14-470-525-1,lakk1252,Lak (Balkhar dialect),1283,хӀаъин,CyrillTrans,today,,,ћaɁin,Phonemic
+14-480-525-1,lakk1252,Lak (Balkhar dialect),1329,гьунтти,CyrillTrans,tomorrow,,,hunt̄i,Phonemic
+14-481-525-1,lakk1252,Lak (Balkhar dialect),1179,сарану,CyrillTrans,day-after-tomorrow,,,saranu,Phonemic
+14-490-525-1,lakk1252,Lak (Balkhar dialect),1174,лахьхьу,CyrillTrans,yesterday,,,lax̌̄u,Phonemic
+14-491-525-1,lakk1252,Lak (Balkhar dialect),1180,цаъни,CyrillTrans,day-before-yesterday,,,caɁni,Phonemic
+14-510-525-1,lakk1252,Lak (Balkhar dialect),1353,ссят,CyrillTrans,hour,,,s̄aˤt,Phonemic
+14-530-525-1,lakk1252,Lak (Balkhar dialect),1323,ссят,CyrillTrans,"clock, timepiece",,,s̄aˤt,Phonemic
+14-610-525-1,lakk1252,Lak (Balkhar dialect),1469,дюжмар,CyrillTrans,week,,,doˤžmar,Phonemic
+14-620-525-1,lakk1252,Lak (Balkhar dialect),1699,алхӀатни,CyrillTrans,Sunday,,,alћatni,Phonemic
+14-630-525-1,lakk1252,Lak (Balkhar dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-525-1,lakk1252,Lak (Balkhar dialect),1695,тталатъини,CyrillTrans,Tuesday,,,t̄alatɁini,Phonemic
+14-650-525-1,lakk1252,Lak (Balkhar dialect),1694,аьрбахӀни,CyrillTrans,Wednesday,,,aˤrbaћni,Phonemic
+14-660-525-1,lakk1252,Lak (Balkhar dialect),1693,ххамисни,CyrillTrans,Thursday,,,x̄amisni,Phonemic
+14-670-525-1,lakk1252,Lak (Balkhar dialect),1692,дюжмарни,CyrillTrans,Friday,,,doˤžmarni,Phonemic
+14-680-525-1,lakk1252,Lak (Balkhar dialect),1700,ххуллуъни,CyrillTrans,Saturday,,,x̄ulluɁni,Phonemic
+14-710-525-1,lakk1252,Lak (Balkhar dialect),1370,барз,CyrillTrans,month,,,barz,Phonemic
+14-730-525-1,lakk1252,Lak (Balkhar dialect),1226,шин,CyrillTrans,year,,,šin,Phonemic
+14-740-525-1,lakk1252,Lak (Balkhar dialect),1471,кӀи,CyrillTrans,winter,,,k̛i,Phonemic
+14-750-525-1,lakk1252,Lak (Balkhar dialect),1537,инт,CyrillTrans,spring,,,int,Phonemic
+14-760-525-1,lakk1252,Lak (Balkhar dialect),1342,гъи,CyrillTrans,summer,,,ɣi,Phonemic
+14-770-525-1,lakk1252,Lak (Balkhar dialect),1276,ссубт,CyrillTrans,autumn,,,s̄ubt,Phonemic
+14-780-525-1,lakk1252,Lak (Balkhar dialect),691,шинал чӀун,CyrillTrans,season,,,šinal čʼun,Phonemic
+15-210-525-1,lakk1252,Lak (Balkhar dialect),1587,аъдизан,CyrillTrans,smell (vb intrans),,,aɁdizan,Phonemic
+15-212-525-1,lakk1252,Lak (Balkhar dialect),375,мюцал нан,CyrillTrans,sniff,,,moˤcal nan,Phonemic
+15-220-525-1,lakk1252,Lak (Balkhar dialect),1586,сунтӀ тӀун,CyrillTrans,smell (vb trans),,,sunt̛ t̛un,Phonemic
+15-250-525-1,lakk1252,Lak (Balkhar dialect),376,ххуйсса аъ,CyrillTrans,"fragrant, good smelling",,,x̄uys̄a aɁ,Phonemic
+15-260-525-1,lakk1252,Lak (Balkhar dialect),42,оьккисса аъ,CyrillTrans,"stinking, bad smelling",,,oˤk̄is̄a aɁ,Phonemic
+15-310-525-1,lakk1252,Lak (Balkhar dialect),21,тӀин,CyrillTrans,taste,,,t̛in,Phonemic
+15-350-525-1,lakk1252,Lak (Balkhar dialect),717,нацӀусса,CyrillTrans,sweet,,,nac̛is̄a,Phonemic
+15-360-525-1,lakk1252,Lak (Balkhar dialect),1091,цӀу бусса,CyrillTrans,salty,,,c̛u bus̄a,Phonemic
+15-370-525-1,lakk1252,Lak (Balkhar dialect),887,орчӀисса,CyrillTrans,bitter,,,orč̛is̄a,Phonemic
+15-380-525-1,lakk1252,Lak (Balkhar dialect),1906,орчӀисса,CyrillTrans,"acid, sour",,,orč̛is̄a,Phonemic
+15-390-525-1,lakk1252,Lak (Balkhar dialect),70,цӀу бусса,CyrillTrans,brackish,,,c̛u bus̄a,Phonemic
+15-410-525-1,lakk1252,Lak (Balkhar dialect),1408,байан,CyrillTrans,hear,,,bayan,Phonemic
+15-420-525-1,lakk1252,Lak (Balkhar dialect),1608,ичӀиришин,CyrillTrans,listen,,,ič̛iršin,Phonemic
+15-440-525-1,lakk1252,Lak (Balkhar dialect),1811,чӀу,CyrillTrans,"sound, noise",,,č̛u,Phonemic
+15-450-525-1,lakk1252,Lak (Balkhar dialect),377,лахъсса,CyrillTrans,loud,,,laqs̄a,Phonemic
+15-460-525-1,lakk1252,Lak (Balkhar dialect),1314,лагьсса,CyrillTrans,"quiet, silence",,,lahs̄a,Phonemic
+15-510-525-1,lakk1252,Lak (Balkhar dialect),1409,чӀалан,CyrillTrans,see,,,č̛alan,Phonemic
+15-520-525-1,lakk1252,Lak (Balkhar dialect),1819,ялугьлан,CyrillTrans,"look, look at",,,yaluhlan,Phonemic
+15-550-525-1,lakk1252,Lak (Balkhar dialect),1039,ккаккан дуллан,CyrillTrans,show,,,k̄ak̄an dullan,Phonemic
+15-560-525-1,lakk1252,Lak (Balkhar dialect),708,чани бан,CyrillTrans,shine,,,̌čani ban,Phonemic
+15-570-525-1,lakk1252,Lak (Balkhar dialect),679,чаннасса,CyrillTrans,bright,,,čannas̄a,Phonemic
+15-610-525-1,lakk1252,Lak (Balkhar dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-525-1,lakk1252,Lak (Balkhar dialect),250,чаннасса,CyrillTrans,light (in color),,,čannas̄a,Phonemic
+15-630-525-1,lakk1252,Lak (Balkhar dialect),706,цӀансса,CyrillTrans,dark (in color),,,c̛ans̄a,Phonemic
+15-640-525-1,lakk1252,Lak (Balkhar dialect),1335,кӀлясса,CyrillTrans,white,,,k̛laˤs̄a,Phonemic
+15-650-525-1,lakk1252,Lak (Balkhar dialect),163,лухӀисса,CyrillTrans,black,,,luћis̄a,Phonemic
+15-660-525-1,lakk1252,Lak (Balkhar dialect),156,йатӀулсса,CyrillTrans,red,,,yat̛uls̄a,Phonemic
+15-670-525-1,lakk1252,Lak (Balkhar dialect),837,някӀсса,CyrillTrans,blue,,,naˤk̛s̄a,Phonemic
+15-680-525-1,lakk1252,Lak (Balkhar dialect),1425,щюлисса,CyrillTrans,green,,,š̄oˤlis̄a,Phonemic
+15-690-525-1,lakk1252,Lak (Balkhar dialect),1424,хъахъисса,CyrillTrans,yellow,,,qaqis̄a,Phonemic
+15-710-525-1,lakk1252,Lak (Balkhar dialect),1892,каш-каш тӀун,CyrillTrans,touch,,,kaš-kaš t̛un,Phonemic
+15-712-525-1,lakk1252,Lak (Balkhar dialect),378,кьис битлан,CyrillTrans,pinch,,,q̛is bitlan,Phonemic
+15-720-525-1,lakk1252,Lak (Balkhar dialect),1079,кІул хьун,CyrillTrans,feel,,,k̛ul x̌un,Phonemic
+15-740-525-1,lakk1252,Lak (Balkhar dialect),1884,кьянкьасса,CyrillTrans,hard,,,q̛aˤnq̛as̄a,Phonemic
+15-750-525-1,lakk1252,Lak (Balkhar dialect),1856,кӀукӀлусса,CyrillTrans,soft,,,k̛uk̛lus̄a,Phonemic
+15-760-525-1,lakk1252,Lak (Balkhar dialect),1923,хъабхъасса,CyrillTrans,rough,,,qabqas̄a,Phonemic
+15-770-525-1,lakk1252,Lak (Balkhar dialect),1234,дюрчӀусса,CyrillTrans,smooth,,,doˤrč̛us̄a,Phonemic
+15-780-525-1,lakk1252,Lak (Balkhar dialect),1396,мицӀ дусса,CyrillTrans,sharp,,,"mic̛ dus̄a, days̄a",Phonemic
+15-780-525-3,lakk1252,Lak (Balkhar dialect),1396,дайсса,CyrillTrans,sharp,,,"mic̛ dus̄a, days̄a",Phonemic
+15-790-525-1,lakk1252,Lak (Balkhar dialect),379,къуркъасса,CyrillTrans,"blunt, dull",,,GurGas̄a,Phonemic
+15-810-525-1,lakk1252,Lak (Balkhar dialect),1210,кӀусса,CyrillTrans,heavy,,,k̛us̄a,Phonemic
+15-820-525-1,lakk1252,Lak (Balkhar dialect),1052,куклусса,CyrillTrans,light (in weight),,,kuklus̄a,Phonemic
+15-830-525-1,lakk1252,Lak (Balkhar dialect),1726,чятсса,CyrillTrans,"wet, damp",,,čaˤts̄a,Phonemic
+15-840-525-1,lakk1252,Lak (Balkhar dialect),1398,аъсса,CyrillTrans,dry,,,aʔs̄a,Phonemic
+15-850-525-1,lakk1252,Lak (Balkhar dialect),1286,кӀрисса,CyrillTrans,hot,,,k̛ris̄a,Phonemic
+15-851-525-1,lakk1252,Lak (Balkhar dialect),1232,гълисса,CyrillTrans,warm,,,ɣlis̄a,Phonemic
+15-860-525-1,lakk1252,Lak (Balkhar dialect),1287,дяркъусса,CyrillTrans,cold,,,daˤGus̄a,Phonemic
+15-870-525-1,lakk1252,Lak (Balkhar dialect),704,марцӀсса,CyrillTrans,clean,,,marc̛s̄a,Phonemic
+15-880-525-1,lakk1252,Lak (Balkhar dialect),1230,ччюрччасса,CyrillTrans,"dirty, soiled",,,č̄oˤrč̄as̄a,Phonemic
+15-890-525-1,lakk1252,Lak (Balkhar dialect),380,гъюнжу,CyrillTrans,wrinkled,,,"ɣoˤnžu, ɣot̛u x̌us̄a",Phonemic
+15-890-525-3,lakk1252,Lak (Balkhar dialect),380,гъотӀу хьусса,CyrillTrans,wrinkled,,,"ɣoˤnžu, ɣot̛u x̌us̄a",Phonemic
+16-110-525-1,lakk1252,Lak (Balkhar dialect),53,рухӀ,CyrillTrans,"soul, spirit",,,ruћ,Phonemic
+16-150-525-1,lakk1252,Lak (Balkhar dialect),1572,махӀаттал хьусса,CyrillTrans,"surprised, astonished",,,maћat̄al x̌us̄a,Phonemic
+16-180-525-1,lakk1252,Lak (Balkhar dialect),720,талихӀ,CyrillTrans,"good fortune, luck",,,taliћ,Phonemic
+16-190-525-1,lakk1252,Lak (Balkhar dialect),56,талихӀ бакъашиву,CyrillTrans,"misfortune, bad luck",,,taliћ baGašiwu,Phonemic
+16-230-525-1,lakk1252,Lak (Balkhar dialect),1495,дакӀ ххарисса,CyrillTrans,"joyful, glad, happy",,,dak̛ x̄aris̄a,Phonemic
+16-250-525-1,lakk1252,Lak (Balkhar dialect),1355,хъян,CyrillTrans,laugh,,,x̌ˤan,Phonemic
+16-251-525-1,lakk1252,Lak (Balkhar dialect),1451,пиш тӀун,CyrillTrans,smile,,,piš t̛un,Phonemic
+16-260-525-1,lakk1252,Lak (Balkhar dialect),1413,тӀуркӀу тӀун,CyrillTrans,play,,,t̛urk̛u t̛un,Phonemic
+16-270-525-1,lakk1252,Lak (Balkhar dialect),923,ччан,CyrillTrans,love,,,č̄an,Phonemic
+16-290-525-1,lakk1252,Lak (Balkhar dialect),578,ппай тӀун,CyrillTrans,kiss,,,p̄ay t̛un,Phonemic
+16-300-525-1,lakk1252,Lak (Balkhar dialect),928,хъямала агьан,CyrillTrans,embrace,,,qaˤmala ahan,Phonemic
+16-310-525-1,lakk1252,Lak (Balkhar dialect),1783,къюбу,CyrillTrans,pain,,,Goˤbu,Phonemic
+16-320-525-1,lakk1252,Lak (Balkhar dialect),1668,къумашибу,CyrillTrans,"grief, sorrow, sadness",,,Gumašibu,Phonemic
+16-330-525-1,lakk1252,Lak (Balkhar dialect),1000,ццах,CyrillTrans,"anxiety, worry",,,"c̄ax, buruk̄in",Phonemic
+16-330-525-3,lakk1252,Lak (Balkhar dialect),1000,буруккин,CyrillTrans,"anxiety, worry",,,"c̄ax, buruk̄in",Phonemic
+16-340-525-1,lakk1252,Lak (Balkhar dialect),1875,пашман хьун,CyrillTrans,"regret, be sorry",,,pašman x̌un,Phonemic
+16-350-525-1,lakk1252,Lak (Balkhar dialect),1141,оьоьба хьун,CyrillTrans,pity,,,oˤʔoˤba x̌un,Phonemic
+16-370-525-1,lakk1252,Lak (Balkhar dialect),1839,аьтӀун,CyrillTrans,"cry, weep",,,aˤt̛un,Phonemic
+16-380-525-1,lakk1252,Lak (Balkhar dialect),1651,маъ,CyrillTrans,tear (noun),,,maɁ,Phonemic
+16-390-525-1,lakk1252,Lak (Balkhar dialect),716,цӀунцӀу тӀун,CyrillTrans,groan,,,c̛unc̛u t̛un,Phonemic
+16-410-525-1,lakk1252,Lak (Balkhar dialect),1607,йабщун къаччан,CyrillTrans,hate,,,yabš̄un Gač̄an,Phonemic
+16-420-525-1,lakk1252,Lak (Balkhar dialect),82,сси,CyrillTrans,anger,,,s̄i,Phonemic
+16-440-525-1,lakk1252,Lak (Balkhar dialect),40,мяшшибу,CyrillTrans,"envy, jealousy",,,maˤš̄ibu,Phonemic
+16-450-525-1,lakk1252,Lak (Balkhar dialect),1776,нач,CyrillTrans,shame (noun),,,nač,Phonemic
+16-480-525-1,lakk1252,Lak (Balkhar dialect),174,дакӀ хъунсса,CyrillTrans,proud,,,dak̛ quns̄a,Phonemic
+16-510-525-1,lakk1252,Lak (Balkhar dialect),1779,нигьа къаусайсса,CyrillTrans,dare,,,"niha Gausays̄a, iriču",Phonemic
+16-510-525-3,lakk1252,Lak (Balkhar dialect),1779,иричу,CyrillTrans,dare,,,"niha Gausays̄a, iriču",Phonemic
+16-520-525-1,lakk1252,Lak (Balkhar dialect),3,сибсусса,CyrillTrans,brave,,,sibsus̄a,Phonemic
+16-530-525-1,lakk1252,Lak (Balkhar dialect),781,нигь,CyrillTrans,"fear, fright",,,nih,Phonemic
+16-540-525-1,lakk1252,Lak (Balkhar dialect),1810,нигьачӀабу,CyrillTrans,danger,,,nihač̛abu,Phonemic
+16-620-525-1,lakk1252,Lak (Balkhar dialect),1784,ччимур,CyrillTrans,"desire, want",,,č̄imur,Phonemic
+16-622-525-1,lakk1252,Lak (Balkhar dialect),1750,дурчӀлан,CyrillTrans,choose,,,durc̛̄lan,Phonemic
+16-630-525-1,lakk1252,Lak (Balkhar dialect),1092,тамахӀ бишин,CyrillTrans,hope,,,tamaћ bišin,Phonemic
+16-650-525-1,lakk1252,Lak (Balkhar dialect),100,дакӀ тӀайласса,CyrillTrans,faithful,,,dak̛ t̛aylas̄a,Phonemic
+16-660-525-1,lakk1252,Lak (Balkhar dialect),1657,икӀайкӀунсса,CyrillTrans,true,,,ik̛ayk̛uns̄a,Phonemic
+16-670-525-1,lakk1252,Lak (Balkhar dialect),601,щял махъ буслан,CyrillTrans,"lie, tell lies",,,šaˤl maq buslan,Phonemic
+16-680-525-1,lakk1252,Lak (Balkhar dialect),13,хъябрийбихьлан,CyrillTrans,deceit,,,qaˤbriybix̌lan,Phonemic
+16-690-525-1,lakk1252,Lak (Balkhar dialect),1528,йалтту учӀан,CyrillTrans,forgive,,,yalt̄u uč̛an,Phonemic
+16-710-525-1,lakk1252,Lak (Balkhar dialect),1035,ххуйсса,CyrillTrans,good,,,x̄uys̄a,Phonemic
+16-720-525-1,lakk1252,Lak (Balkhar dialect),1292,оьккисса,CyrillTrans,bad,,,oˤk̄is̄a,Phonemic
+16-730-525-1,lakk1252,Lak (Balkhar dialect),1725,тӀайласса,CyrillTrans,"right, correct",,,t̛aylas̄a,Phonemic
+16-740-525-1,lakk1252,Lak (Balkhar dialect),1390,къатӀайласса,CyrillTrans,wrong,,,Gat̛aylas̄a,Phonemic
+16-760-525-1,lakk1252,Lak (Balkhar dialect),134,къел,CyrillTrans,fault,,,Gel,Phonemic
+16-770-525-1,lakk1252,Lak (Balkhar dialect),1293,тӀайла дакъашибу,CyrillTrans,"mistake, error",,,"t̛ayla daGašibu, ɣalat̛",Phonemic
+16-770-525-3,lakk1252,Lak (Balkhar dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,"t̛ayla daGašibu, ɣalat̛",Phonemic
+16-780-525-1,lakk1252,Lak (Balkhar dialect),381,багьана уллан,CyrillTrans,blame,,,bahana ullan,Phonemic
+16-790-525-1,lakk1252,Lak (Balkhar dialect),1687,ххуй уллан,CyrillTrans,praise,,,x̄uy ullan,Phonemic
+16-810-525-1,lakk1252,Lak (Balkhar dialect),1427,ккаккан ххуйсса,CyrillTrans,beautiful,,,k̄ak̄an x̄uys̄a,Phonemic
+16-820-525-1,lakk1252,Lak (Balkhar dialect),1548,ккаккан оьккисса,CyrillTrans,ugly,,,k̄ak̄an oˤk̄is̄a,Phonemic
+16-830-525-1,lakk1252,Lak (Balkhar dialect),2018,чӀурукьсса,CyrillTrans,greedy,,,č̛uruq̛s̄a,Phonemic
+16-840-525-1,lakk1252,Lak (Balkhar dialect),1310,убурсса,CyrillTrans,clever,,,uburs̄a,Phonemic
+17-110-525-1,lakk1252,Lak (Balkhar dialect),1562,аьълу,CyrillTrans,mind,,,aˤɁlu,Phonemic
+17-130-525-1,lakk1252,Lak (Balkhar dialect),1415,пикри буллан,CyrillTrans,think (= reflect),,,pikri bullan,Phonemic
+17-140-525-1,lakk1252,Lak (Balkhar dialect),1513,ккалли бан,CyrillTrans,think (= be of the opinion),,,k̄alli ban,Phonemic
+17-150-525-1,lakk1252,Lak (Balkhar dialect),1890,их хьун,CyrillTrans,believe,,,ix x̌un,Phonemic
+17-160-525-1,lakk1252,Lak (Balkhar dialect),1536,бубчӀин,CyrillTrans,understand,,,bubč̛in,Phonemic
+17-170-525-1,lakk1252,Lak (Balkhar dialect),1410,кӀул хьун,CyrillTrans,know,,,k̛ul x̌un,Phonemic
+17-171-525-1,lakk1252,Lak (Balkhar dialect),1932,умуд бишин,CyrillTrans,guess,,,umud bišin,Phonemic
+17-172-525-1,lakk1252,Lak (Balkhar dialect),117,лащан дуллан,CyrillTrans,imitate,,,laš̄an dullan,Phonemic
+17-180-525-1,lakk1252,Lak (Balkhar dialect),1521,ххан бикӀан,CyrillTrans,seem,,,x̄an bik̛an,Phonemic
+17-190-525-1,lakk1252,Lak (Balkhar dialect),1609,пикри,CyrillTrans,"idea, notion",,,pikri,Phonemic
+17-210-525-1,lakk1252,Lak (Balkhar dialect),698,убурсса,CyrillTrans,wise,,,"uburs̄a, aˤɁlu bus̄a",Phonemic
+17-210-525-3,lakk1252,Lak (Balkhar dialect),698,аьълу бусса,CyrillTrans,wise,,,"uburs̄a, aˤɁlu bus̄a",Phonemic
+17-220-525-1,lakk1252,Lak (Balkhar dialect),1518,авдалсса,CyrillTrans,"foolish, stupid",,,awdals̄a,Phonemic
+17-230-525-1,lakk1252,Lak (Balkhar dialect),1899,аьълу бакъасса,CyrillTrans,"insane, crazy",,,aˤɁlu baGas̄a,Phonemic
+17-240-525-1,lakk1252,Lak (Balkhar dialect),504,кӀул хъанан,CyrillTrans,learn,,,k̛ul qanan,Phonemic
+17-242-525-1,lakk1252,Lak (Balkhar dialect),1929,лахьлан,CyrillTrans,study,,,lax̌lan,Phonemic
+17-250-525-1,lakk1252,Lak (Balkhar dialect),709,лахьлан,CyrillTrans,teach,,,lax̌lan,Phonemic
+17-260-525-1,lakk1252,Lak (Balkhar dialect),753,дуклакки оьрчІ,CyrillTrans,pupil,,,duklak̄i oˤrčʼ,Phonemic
+17-270-525-1,lakk1252,Lak (Balkhar dialect),1038,учитель,CyrillTrans,teacher,,,učitelʲ,Phonemic
+17-280-525-1,lakk1252,Lak (Balkhar dialect),673,школа,CyrillTrans,school,,,škola,Phonemic
+17-310-525-1,lakk1252,Lak (Balkhar dialect),707,дакӀний битан,CyrillTrans,remember,,,dak̛niy bitan,Phonemic
+17-320-525-1,lakk1252,Lak (Balkhar dialect),1523,хъама битан,CyrillTrans,forget,,,qama bitan,Phonemic
+17-340-525-1,lakk1252,Lak (Balkhar dialect),989,чаннасса,CyrillTrans,"clear, plain",,,čannas̄a,Phonemic
+17-350-525-1,lakk1252,Lak (Balkhar dialect),1764,букъабчIлачӀисса,CyrillTrans,obscure,,,buGabс̌ʼlač̛is̄a,Phonemic
+17-360-525-1,lakk1252,Lak (Balkhar dialect),1121,оьлтӀсса за,CyrillTrans,secret,,,"oˤlt̛s̄a za, oˤlt̛šibu",Phonemic
+17-360-525-3,lakk1252,Lak (Balkhar dialect),1121,оьлтӀшибу,CyrillTrans,secret,,,"oˤlt̛s̄a za, oˤlt̛šibu",Phonemic
+17-370-525-1,lakk1252,Lak (Balkhar dialect),509,вихсса,CyrillTrans,"sure, certain",,,wixs̄a,Phonemic
+17-380-525-1,lakk1252,Lak (Balkhar dialect),1626,бубчӀин буллан,CyrillTrans,explain,,,bubč̛in bullan,Phonemic
+17-410-525-1,lakk1252,Lak (Balkhar dialect),1162,табаккал,CyrillTrans,"intention, purpose",,,tabak̄al,Phonemic
+17-420-525-1,lakk1252,Lak (Balkhar dialect),860,багьана,CyrillTrans,cause,,,"bahana, sawaw",Phonemic
+17-420-525-3,lakk1252,Lak (Balkhar dialect),860,савав,CyrillTrans,cause,,,"bahana, sawaw",Phonemic
+17-430-525-1,lakk1252,Lak (Balkhar dialect),1308,щак,CyrillTrans,doubt,,,"š̄ak, x̌anni",Phonemic
+17-430-525-3,lakk1252,Lak (Balkhar dialect),1308,хьанни,CyrillTrans,doubt,,,"š̄ak, x̌anni",Phonemic
+17-440-525-1,lakk1252,Lak (Balkhar dialect),1841,щак тӀун,CyrillTrans,suspect,,,š̄ak t̛un,Phonemic
+17-441-525-1,lakk1252,Lak (Balkhar dialect),1902,аххаву бан,CyrillTrans,betray,,,ax̄awu ban,Phonemic
+17-450-525-1,lakk1252,Lak (Balkhar dialect),643,чара бакъашибу,CyrillTrans,"need, necessity",,,čara baGašibu,Phonemic
+17-460-525-1,lakk1252,Lak (Balkhar dialect),686,куклусса,CyrillTrans,easy,,,"kuklus̄a, bihas̄a",Phonemic
+17-460-525-3,lakk1252,Lak (Balkhar dialect),686,бигьасса,CyrillTrans,easy,,,"kuklus̄a, bihas̄a",Phonemic
+17-470-525-1,lakk1252,Lak (Balkhar dialect),584,захӀматсса,CyrillTrans,difficult,,,zaћmats̄a,Phonemic
+17-480-525-1,lakk1252,Lak (Balkhar dialect),1812,къаст,CyrillTrans,"try, attempt",,,Gast,Phonemic
+17-490-525-1,lakk1252,Lak (Balkhar dialect),488,жура,CyrillTrans,"way, manner",,,žura,Phonemic
+17-510-525-1,lakk1252,Lak (Balkhar dialect),1577,ттигу,CyrillTrans,and,,,t̄igu,Phonemic
+17-520-525-1,lakk1252,Lak (Balkhar dialect),1157,цаннав,CyrillTrans,because,,,cannaw,Phonemic
+17-530-525-1,lakk1252,Lak (Balkhar dialect),1459,агар,CyrillTrans,if,,,agar,Phonemic
+17-540-525-1,lakk1252,Lak (Balkhar dialect),1014,йагу,CyrillTrans,or,,,yagu,Phonemic
+17-550-525-1,lakk1252,Lak (Balkhar dialect),1268,ди,CyrillTrans,"yes, affirmative",,,di,Phonemic
+17-560-525-1,lakk1252,Lak (Balkhar dialect),1269,бакъар,CyrillTrans,"no, negative",,,"baGar, daGar",Phonemic
+17-560-525-3,lakk1252,Lak (Balkhar dialect),1269,дакъар,CyrillTrans,"no, negative",,,"baGar, daGar",Phonemic
+17-610-525-1,lakk1252,Lak (Balkhar dialect),1239,цукун,CyrillTrans,how?,,,cukun,Phonemic
+17-620-525-1,lakk1252,Lak (Balkhar dialect),822,цими,CyrillTrans,how many?,,,cimi,Phonemic
+17-630-525-1,lakk1252,Lak (Balkhar dialect),531,цуксса,CyrillTrans,how much?,,,cuks̄a,Phonemic
+17-640-525-1,lakk1252,Lak (Balkhar dialect),1236,ци,CyrillTrans,what?,,,ci,Phonemic
+17-650-525-1,lakk1252,Lak (Balkhar dialect),1238,та,CyrillTrans,when?,,,ta,Phonemic
+17-660-525-1,lakk1252,Lak (Balkhar dialect),1237,шу,CyrillTrans,where?,,,"su, sa",Phonemic
+17-660-525-3,lakk1252,Lak (Balkhar dialect),1237,ша,CyrillTrans,where?,,,"su, sa",Phonemic
+17-670-525-1,lakk1252,Lak (Balkhar dialect),727,цукунсса,CyrillTrans,which?,,,cukuns̄a,Phonemic
+17-680-525-1,lakk1252,Lak (Balkhar dialect),1235,цу,CyrillTrans,who?,,,cu,Phonemic
+17-690-525-1,lakk1252,Lak (Balkhar dialect),1270,цан,CyrillTrans,why?,,,can,Phonemic
+18-110-525-1,lakk1252,Lak (Balkhar dialect),1363,чӀу,CyrillTrans,voice,,,č̛u,Phonemic
+18-120-525-1,lakk1252,Lak (Balkhar dialect),1261,балай тӀун,CyrillTrans,sing,,,balay t̛un,Phonemic
+18-130-525-1,lakk1252,Lak (Balkhar dialect),715,бяъ-бяъ тӀун,CyrillTrans,"shout, cry out",,,baˤʔ-baˤʔ t̛un,Phonemic
+18-150-525-1,lakk1252,Lak (Balkhar dialect),55,щурщу тӀун,CyrillTrans,whisper,,,š̄urš̄u t̛un,Phonemic
+18-160-525-1,lakk1252,Lak (Balkhar dialect),128,гъургъу тӀун,CyrillTrans,mumble,,,ɣurɣu t̛un,Phonemic
+18-170-525-1,lakk1252,Lak (Balkhar dialect),1025,щютӀ тӀун,CyrillTrans,whistle,,,š̄oˤt̛ t̛un,Phonemic
+18-180-525-1,lakk1252,Lak (Balkhar dialect),298,цӀир-цӀир тӀун,CyrillTrans,"shriek, screech",,,c̛ir-c̛ir t̛un,Phonemic
+18-190-525-1,lakk1252,Lak (Balkhar dialect),526,ац-ац тӀун,CyrillTrans,howl,,,"ac-ac t̛un, aw-aw t̛un",Phonemic
+18-190-525-3,lakk1252,Lak (Balkhar dialect),526,ав-ав тӀун,CyrillTrans,howl,,,"ac-ac t̛un, aw-aw t̛un",Phonemic
+18-210-525-1,lakk1252,Lak (Balkhar dialect),1623,гъалгъа тӀун,CyrillTrans,"speak, talk",,,ɣalɣa t̛un,Phonemic
+18-211-525-1,lakk1252,Lak (Balkhar dialect),1866,маз бахчлан,CyrillTrans,"stutter, stammer",,,maz baxčlan,Phonemic
+18-220-525-1,lakk1252,Lak (Balkhar dialect),1458,учин,CyrillTrans,say,,,učin,Phonemic
+18-221-525-1,lakk1252,Lak (Balkhar dialect),1711,хабар буслан,CyrillTrans,tell story,,,xabar buslan,Phonemic
+18-222-525-1,lakk1252,Lak (Balkhar dialect),1115,гъалгъа,CyrillTrans,speech (make a),,,ɣalɣa,Phonemic
+18-230-525-1,lakk1252,Lak (Balkhar dialect),48,ичӀидирхьун икӀан,CyrillTrans,silent (be),,,Ičidirx̌un ik̛an,Phonemic
+18-240-525-1,lakk1252,Lak (Balkhar dialect),1307,маз,CyrillTrans,language,,,maz,Phonemic
+18-260-525-1,lakk1252,Lak (Balkhar dialect),1599,махъ,CyrillTrans,word,,,maq,Phonemic
+18-280-525-1,lakk1252,Lak (Balkhar dialect),1405,цӀа,CyrillTrans,name,,,c̛a,Phonemic
+18-310-525-1,lakk1252,Lak (Balkhar dialect),1309,цӀухлан,CyrillTrans,"ask (question, inquire)",,,c̛uxlan,Phonemic
+18-320-525-1,lakk1252,Lak (Balkhar dialect),1275,жуваб дуллан,CyrillTrans,answer,,,žuwab dullan,Phonemic
+18-330-525-1,lakk1252,Lak (Balkhar dialect),2022,кІул хьун,CyrillTrans,"admit, confess",,,"k̛ul x̌un, mukʼru x̌un, buwč̛lan",Phonemic
+18-330-525-3,lakk1252,Lak (Balkhar dialect),2022,мукІру хьун,CyrillTrans,"admit, confess",,,"k̛ul x̌un, mukʼru x̌un, buwč̛lan",Phonemic
+18-330-525-5,lakk1252,Lak (Balkhar dialect),2022,бувчІлан,CyrillTrans,"admit, confess",,,"k̛ul x̌un, mukʼru x̌un, buwč̛lan",Phonemic
+18-340-525-1,lakk1252,Lak (Balkhar dialect),755,инкар дуллан,CyrillTrans,deny,,,inkar dullan,Phonemic
+18-350-525-1,lakk1252,Lak (Balkhar dialect),1828,дула тӀун,CyrillTrans,"ask, request",,,dul at̛un,Phonemic
+18-360-525-1,lakk1252,Lak (Balkhar dialect),1675,дулунна учин,CyrillTrans,promise,,,dulluna učin,Phonemic
+18-370-525-1,lakk1252,Lak (Balkhar dialect),49,къачча учин,CyrillTrans,refuse,,,"Gač̄a učin, Gač̄a t̛un",Phonemic
+18-370-525-3,lakk1252,Lak (Balkhar dialect),49,къачча тӀун,CyrillTrans,refuse,,,"Gač̄a učin, Gač̄a t̛un",Phonemic
+18-380-525-1,lakk1252,Lak (Balkhar dialect),83,ихтияр къадулун,CyrillTrans,forbid,,,ixtiyar Gadulun,Phonemic
+18-390-525-1,lakk1252,Lak (Balkhar dialect),299,биллан,CyrillTrans,"rebuke, scold",,,billan,Phonemic
+18-410-525-1,lakk1252,Lak (Balkhar dialect),1084,бучӀан бан,CyrillTrans,call (=summon),,,"buč̛an ban, oˤ t̛un",Phonemic
+18-410-525-3,lakk1252,Lak (Balkhar dialect),1084,оь тӀун,CyrillTrans,call (=summon),,,"buč̛an ban, oˤ t̛un",Phonemic
+18-420-525-1,lakk1252,Lak (Balkhar dialect),180,цӀa дизан,CyrillTrans,call (=name),,,c̛a dizan,Phonemic
+18-430-525-1,lakk1252,Lak (Balkhar dialect),9,байан буллан,CyrillTrans,announce,,,bayan bullan,Phonemic
+18-440-525-1,lakk1252,Lak (Balkhar dialect),1192,биллан,CyrillTrans,threaten,,,"billan, banna t̛un",Phonemic
+18-440-525-3,lakk1252,Lak (Balkhar dialect),1192,банна тӀун,CyrillTrans,threaten,,,"billan, banna t̛un",Phonemic
+18-450-525-1,lakk1252,Lak (Balkhar dialect),101,ххаллил хьун,CyrillTrans,boast,,,x̄allil x̌un,Phonemic
+18-510-525-1,lakk1252,Lak (Balkhar dialect),1672,чичлан,CyrillTrans,write,,,čičlan,Phonemic
+18-520-525-1,lakk1252,Lak (Balkhar dialect),724,ккалан,CyrillTrans,read,,,k̄alan,Phonemic
+18-560-525-1,lakk1252,Lak (Balkhar dialect),648,чагъар,CyrillTrans,paper,,,čaɣar,Phonemic
+18-570-525-1,lakk1252,Lak (Balkhar dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-525-1,lakk1252,Lak (Balkhar dialect),963,кинишка,CyrillTrans,book,,,kiniška,Phonemic
+18-670-525-1,lakk1252,Lak (Balkhar dialect),1045,чичу,CyrillTrans,poet,,,čiču,Phonemic
+18-710-525-1,lakk1252,Lak (Balkhar dialect),777,зюнна,CyrillTrans,flute,,,zoˤnna,Phonemic
+18-720-525-1,lakk1252,Lak (Balkhar dialect),908,дачӀу,CyrillTrans,drum,,,dač̛u,Phonemic
+18-730-525-1,lakk1252,Lak (Balkhar dialect),2136,зурма,CyrillTrans,"horn, trumpet",,,zurma,Phonemic
+18-740-525-1,lakk1252,Lak (Balkhar dialect),300,щвитІала,CyrillTrans,rattle,,,š̄ʷit̛ala,Phonemic
+19-110-525-1,lakk1252,Lak (Balkhar dialect),1300,билаят,CyrillTrans,country,,,"bilayat, ulča",Phonemic
+19-110-525-3,lakk1252,Lak (Balkhar dialect),1300,улча,CyrillTrans,country,,,"bilayat, ulča",Phonemic
+19-120-525-1,lakk1252,Lak (Balkhar dialect),89,лакку билаят (улча),CyrillTrans,one's native country,,,"lak̄u bilayat (ulča), wat̛an",Phonemic
+19-120-525-3,lakk1252,Lak (Balkhar dialect),89,ватІан,CyrillTrans,one's native country,,,"lak̄u bilayat (ulča), wat̛an",Phonemic
+19-150-525-1,lakk1252,Lak (Balkhar dialect),1391,шагьру,CyrillTrans,"city, town",,,šahru,Phonemic
+19-160-525-1,lakk1252,Lak (Balkhar dialect),930,шярабал,CyrillTrans,village,,,saˤrabal,Phonemic
+19-170-525-1,lakk1252,Lak (Balkhar dialect),1010,дазу,CyrillTrans,boundary,,,dazu,Phonemic
+19-210-525-1,lakk1252,Lak (Balkhar dialect),789,жямат,CyrillTrans,people (populace),,,žaˤmat,Phonemic
+19-230-525-1,lakk1252,Lak (Balkhar dialect),302,агьлу-авлад,CyrillTrans,"tribe, clan",,,ahlu-awlad,Phonemic
+19-240-525-1,lakk1252,Lak (Balkhar dialect),301,хъунама,CyrillTrans,"chief, chieftain",,,qunama,Phonemic
+19-250-525-1,lakk1252,Lak (Balkhar dialect),1296,авса,CyrillTrans,"staff, walking stick",,,awsa,Phonemic
+19-310-525-1,lakk1252,Lak (Balkhar dialect),1846,йалуб ацӀабу дан,CyrillTrans,"rule, govern",,,yalub ac̛abu dan,Phonemic
+19-320-525-1,lakk1252,Lak (Balkhar dialect),1508,паччахӀ,CyrillTrans,"king, ruler",,,pač̄aћ,Phonemic
+19-330-525-1,lakk1252,Lak (Balkhar dialect),1306,паччахӀ-щар,CyrillTrans,queen,,,pač̄aћ-š̄ar,Phonemic
+19-360-525-1,lakk1252,Lak (Balkhar dialect),482,дакӀ тӀайласса,CyrillTrans,"noble, nobleman",,,dak̛ t̛aylas̄a,Phonemic
+19-370-525-1,lakk1252,Lak (Balkhar dialect),1032,шагьрулийа хъарахъис инсан,CyrillTrans,"citizen, subject",,,šahruliya qaraqis insan,Phonemic
+19-410-525-1,lakk1252,Lak (Balkhar dialect),383,заллу,CyrillTrans,master,,,zallu,Phonemic
+19-420-525-1,lakk1252,Lak (Balkhar dialect),812,къазакъ,CyrillTrans,slave,,,GazaG,Phonemic
+19-430-525-1,lakk1252,Lak (Balkhar dialect),255,къазакъ,CyrillTrans,servant,,,GazaG,Phonemic
+19-440-525-1,lakk1252,Lak (Balkhar dialect),384,тархъансса инсан,CyrillTrans,freeman,,,tarqans̄a insan,Phonemic
+19-450-525-1,lakk1252,Lak (Balkhar dialect),1128,буйур буллан,CyrillTrans,"command, order",,,buyur bulan,Phonemic
+19-460-525-1,lakk1252,Lak (Balkhar dialect),1635,багьаннаралун агьан,CyrillTrans,obey,,,bahannaralun ahan,Phonemic
+19-470-525-1,lakk1252,Lak (Balkhar dialect),1003,ихтийар дулун,CyrillTrans,"let, permit",,,ixtiyar dulun,Phonemic
+19-510-525-1,lakk1252,Lak (Balkhar dialect),1325,гармахчу,CyrillTrans,"friend, companion",,,garmaxču,Phonemic
+19-520-525-1,lakk1252,Lak (Balkhar dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-525-1,lakk1252,Lak (Balkhar dialect),1332,чӀаххубчу,CyrillTrans,neighbor,,,č̛ax̄ubču,Phonemic
+19-550-525-1,lakk1252,Lak (Balkhar dialect),791,кӀулЪакъу,CyrillTrans,stranger,,,k̛ulʔaGu,Phonemic
+19-560-525-1,lakk1252,Lak (Balkhar dialect),1782,хъмал,CyrillTrans,guest,,,qmal,Phonemic
+19-570-525-1,lakk1252,Lak (Balkhar dialect),1545,заллу,CyrillTrans,host,,,zallu,Phonemic
+19-580-525-1,lakk1252,Lak (Balkhar dialect),1897,кумаг,CyrillTrans,"help, aid",,,kumag,Phonemic
+19-590-525-1,lakk1252,Lak (Balkhar dialect),1550,ахчлан,CyrillTrans,"hinder, prevent",,,axčlan,Phonemic
+19-610-525-1,lakk1252,Lak (Balkhar dialect),1747,аьдат,CyrillTrans,custom,,,aˤdat,Phonemic
+19-620-525-1,lakk1252,Lak (Balkhar dialect),1848,бакъаабу,CyrillTrans,"strife, quarrel",,,baGaʔabu,Phonemic
+19-630-525-1,lakk1252,Lak (Balkhar dialect),2024,бахӀу бан,CyrillTrans,"conspiracy, plot",,,baћu ban,Phonemic
+19-650-525-1,lakk1252,Lak (Balkhar dialect),1831,гьунабаълан,CyrillTrans,meet,,,hunabaɁlan,Phonemic
+19-720-525-1,lakk1252,Lak (Balkhar dialect),1610,кьягьба,CyrillTrans,prostitute,,,q̛aˤhba,Phonemic
+20-110-525-1,lakk1252,Lak (Balkhar dialect),1423,талан,CyrillTrans,fight (vb),,,"talan, billan",Phonemic
+20-110-525-3,lakk1252,Lak (Balkhar dialect),1423,биллан,CyrillTrans,fight (vb),,,"talan, billan",Phonemic
+20-130-525-1,lakk1252,Lak (Balkhar dialect),579,дяъби,CyrillTrans,"war, battle",,,"daˤɁbi, bita-x̄itabu",Phonemic
+20-130-525-3,lakk1252,Lak (Balkhar dialect),579,бита-ххитабу,CyrillTrans,"war, battle",,,"daˤɁbi, bita-x̄itabu",Phonemic
+20-140-525-1,lakk1252,Lak (Balkhar dialect),1338,баъабу,CyrillTrans,peace,,,baɁabu,Phonemic
+20-150-525-1,lakk1252,Lak (Balkhar dialect),1561,аьрал,CyrillTrans,army,,,aˤral,Phonemic
+20-170-525-1,lakk1252,Lak (Balkhar dialect),1941,салдат,CyrillTrans,soldier,,,saldat,Phonemic
+20-210-525-1,lakk1252,Lak (Balkhar dialect),951,йарагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-525-1,lakk1252,Lak (Balkhar dialect),1763,ттархь,CyrillTrans,club,,,t̄arx̌,Phonemic
+20-222-525-1,lakk1252,Lak (Balkhar dialect),386,рикІ,CyrillTrans,battle-ax,,,rik̛,Phonemic
+20-230-525-1,lakk1252,Lak (Balkhar dialect),387,урун,CyrillTrans,sling,,,urun,Phonemic
+20-240-525-1,lakk1252,Lak (Balkhar dialect),994,чӀатӀарак,CyrillTrans,bow,,,č̛at̛arak,Phonemic
+20-250-525-1,lakk1252,Lak (Balkhar dialect),977,чІатІаракрал тІиму,CyrillTrans,arrow,,,č̛at̛arakral t̛imu,Phonemic
+20-260-525-1,lakk1252,Lak (Balkhar dialect),945,ччала,CyrillTrans,spear,,,č̄ala,Phonemic
+20-270-525-1,lakk1252,Lak (Balkhar dialect),1535,тур,CyrillTrans,sword,,,tur,Phonemic
+20-280-525-1,lakk1252,Lak (Balkhar dialect),1566,ттупанча,CyrillTrans,"gun, cannon",,,t̄upanča,Phonemic
+20-310-525-1,lakk1252,Lak (Balkhar dialect),1061,йарагъ,CyrillTrans,armor (defensive),,,yaraɣ,Phonemic
+20-330-525-1,lakk1252,Lak (Balkhar dialect),1680,такьийа,CyrillTrans,helmet,,,taq̛iya,Phonemic
+20-340-525-1,lakk1252,Lak (Balkhar dialect),1064,къалхан,CyrillTrans,shield,,,Galxan,Phonemic
+20-350-525-1,lakk1252,Lak (Balkhar dialect),1938,къала,CyrillTrans,fortress,,,Gala,Phonemic
+20-360-525-1,lakk1252,Lak (Balkhar dialect),1671,къала,CyrillTrans,tower,,,Gala,Phonemic
+20-410-525-1,lakk1252,Lak (Balkhar dialect),783,ххубшабу,CyrillTrans,victory,,,x̄ubšabu,Phonemic
+20-420-525-1,lakk1252,Lak (Balkhar dialect),782,бухшабу,CyrillTrans,defeat,,,buxšabu,Phonemic
+20-430-525-1,lakk1252,Lak (Balkhar dialect),722,йаллун ххяххян,CyrillTrans,attack,,,yallun x̄aˤx̄aˤn,Phonemic
+20-440-525-1,lakk1252,Lak (Balkhar dialect),1330,ссахъхьун,CyrillTrans,defend,,,s̄aqx̌un,Phonemic
+20-450-525-1,lakk1252,Lak (Balkhar dialect),421,махъунай ищун,CyrillTrans,retreat,,,maqunay iš̄un,Phonemic
+20-460-525-1,lakk1252,Lak (Balkhar dialect),1696,мютӀи хьун,CyrillTrans,surrender,,,moˤt̛i x̌un,Phonemic
+20-470-525-1,lakk1252,Lak (Balkhar dialect),1072,ясир,CyrillTrans,"captive, prisoner",,,yasir,Phonemic
+20-471-525-1,lakk1252,Lak (Balkhar dialect),1940,къаралчи,CyrillTrans,"guard, sentinel",,,Garalči,Phonemic
+20-480-525-1,lakk1252,Lak (Balkhar dialect),1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-490-525-1,lakk1252,Lak (Balkhar dialect),65,лагша бугьан,CyrillTrans,ambush,,,lagša buhan,Phonemic
+20-510-525-1,lakk1252,Lak (Balkhar dialect),1858,балихьру бугьу,CyrillTrans,fisherman,,,balix̌ru buhu,Phonemic
+20-520-525-1,lakk1252,Lak (Balkhar dialect),1074,къалмах,CyrillTrans,fishhook,,,Galmax,Phonemic
+20-530-525-1,lakk1252,Lak (Balkhar dialect),19,леска,CyrillTrans,fishing line,,,leska,Phonemic
+20-540-525-1,lakk1252,Lak (Balkhar dialect),388,къери,CyrillTrans,fishnet,,,"Geri, setka",Phonemic
+20-540-525-3,lakk1252,Lak (Balkhar dialect),388,сетка,CyrillTrans,fishnet,,,"Geri, setka",Phonemic
+20-550-525-1,lakk1252,Lak (Balkhar dialect),389,кур,CyrillTrans,fish trap,,,"kur, Gat̛a",Phonemic
+20-550-525-3,lakk1252,Lak (Balkhar dialect),389,къатӀа,CyrillTrans,fish trap,,,"kur, Gat̛a",Phonemic
+20-560-525-1,lakk1252,Lak (Balkhar dialect),2013,кьюнукьи шатта,CyrillTrans,bait,,,q̛oˤnuq̛i šat̄a,Phonemic
+20-610-525-1,lakk1252,Lak (Balkhar dialect),1435,ав бан,CyrillTrans,hunt,,,aw ban,Phonemic
+20-620-525-1,lakk1252,Lak (Balkhar dialect),1172,битлан,CyrillTrans,shoot,,,bitlan,Phonemic
+20-630-525-1,lakk1252,Lak (Balkhar dialect),161,чулих абан,CyrillTrans,miss (target),,,čulix aban,Phonemic
+20-640-525-1,lakk1252,Lak (Balkhar dialect),1075,кур,CyrillTrans,trap (noun),,,kur,Phonemic
+20-650-525-1,lakk1252,Lak (Balkhar dialect),1170,угьан,CyrillTrans,trap (vb),,,uhan,Phonemic
+21-110-525-1,lakk1252,Lak (Balkhar dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-525-1,lakk1252,Lak (Balkhar dialect),1068,суд,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-150-525-3,lakk1252,Lak (Balkhar dialect),1068,диван,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-160-525-1,lakk1252,Lak (Balkhar dialect),1818,суд бан,CyrillTrans,judge (vb),,,"sud ban, tanmiћ ban",Phonemic
+21-160-525-3,lakk1252,Lak (Balkhar dialect),1818,танмихӀ бан,CyrillTrans,judge (vb),,,"sud ban, tanmiћ ban",Phonemic
+21-170-525-1,lakk1252,Lak (Balkhar dialect),1067,диванрел хІукму,CyrillTrans,judgment,,,"diwanrel ћukmu, sudrel ћukmu",Phonemic
+21-170-525-3,lakk1252,Lak (Balkhar dialect),1067,судрел хӀукму,CyrillTrans,judgment,,,"diwanrel ћukmu, sudrel ћukmu",Phonemic
+21-180-525-1,lakk1252,Lak (Balkhar dialect),861,судйа,CyrillTrans,judge (noun),,,sudiya,Phonemic
+21-210-525-1,lakk1252,Lak (Balkhar dialect),2020,диваннашин буллума,CyrillTrans,plaintiff,,,diwannašin bulluma,Phonemic
+21-220-525-1,lakk1252,Lak (Balkhar dialect),1034,жувабчи,CyrillTrans,defendant,,,žuwabči,Phonemic
+21-230-525-1,lakk1252,Lak (Balkhar dialect),1144,барачи,CyrillTrans,witness,,,barači,Phonemic
+21-240-525-1,lakk1252,Lak (Balkhar dialect),1939,хъа бан,CyrillTrans,swear,,,qa ban,Phonemic
+21-250-525-1,lakk1252,Lak (Balkhar dialect),1712,хъа,CyrillTrans,oath,,,qa,Phonemic
+21-310-525-1,lakk1252,Lak (Balkhar dialect),1814,багьана бан,CyrillTrans,accuse,,,bahana ban,Phonemic
+21-320-525-1,lakk1252,Lak (Balkhar dialect),484,танмигь буван,CyrillTrans,condemn,,,tanmih ban,Phonemic
+21-330-525-1,lakk1252,Lak (Balkhar dialect),983,тахсирлу бан,CyrillTrans,convict (vb),,,taxsirlu ban,Phonemic
+21-340-525-1,lakk1252,Lak (Balkhar dialect),988,тӀайла бацӀан бан,CyrillTrans,acquit,,,tʼayla bac̛an ban,Phonemic
+21-350-525-1,lakk1252,Lak (Balkhar dialect),1682,багьаначи,CyrillTrans,guilty,,,bahanači,Phonemic
+21-360-525-1,lakk1252,Lak (Balkhar dialect),90,багьана бакъу,CyrillTrans,innocent,,,bahana baGu,Phonemic
+21-370-525-1,lakk1252,Lak (Balkhar dialect),390,танмигь,CyrillTrans,"penalty, punishment",,,"tanmih, žaza",Phonemic
+21-370-525-3,lakk1252,Lak (Balkhar dialect),390,жаза,CyrillTrans,"penalty, punishment",,,"tanmih, žaza",Phonemic
+21-380-525-1,lakk1252,Lak (Balkhar dialect),218,арцул ишттарап,CyrillTrans,fine,,,arcul išt̄arap,Phonemic
+21-390-525-1,lakk1252,Lak (Balkhar dialect),1281,туснакь,CyrillTrans,"prison, jail",,,tusnaq̛,Phonemic
+21-420-525-1,lakk1252,Lak (Balkhar dialect),845,инсан ивчӀаву,CyrillTrans,murder,,,insan iwč̛awu,Phonemic
+21-430-525-1,lakk1252,Lak (Balkhar dialect),902,зунарай заназаву,CyrillTrans,adultery,,,zunaray zanazawu,Phonemic
+21-440-525-1,lakk1252,Lak (Balkhar dialect),953,гуж баву,CyrillTrans,rape,,,"guz bawu, ziya bawu",Phonemic
+21-440-525-3,lakk1252,Lak (Balkhar dialect),953,зийа баву,CyrillTrans,rape,,,"guz bawu, ziya bawu",Phonemic
+21-460-525-1,lakk1252,Lak (Balkhar dialect),1889,цӀу щаву,CyrillTrans,arson,,,c̛u š̄awu,Phonemic
+21-470-525-1,lakk1252,Lak (Balkhar dialect),1792,щялмахъсса кІулчу,CyrillTrans,perjury,,,š̄aˤlmaqs̄a k̛ulču,Phonemic
+21-510-525-1,lakk1252,Lak (Balkhar dialect),713,дацин,CyrillTrans,steal,,,"dacin, daclan",Phonemic
+21-510-525-3,lakk1252,Lak (Balkhar dialect),713,дацлан,CyrillTrans,steal,,,"dacin, daclan",Phonemic
+21-520-525-1,lakk1252,Lak (Balkhar dialect),1160,цурку,CyrillTrans,thief,,,curku,Phonemic
+22-110-525-1,lakk1252,Lak (Balkhar dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-525-1,lakk1252,Lak (Balkhar dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-525-1,lakk1252,Lak (Balkhar dialect),911,мечет,CyrillTrans,"temple, church",,,"mečet, kilisa",Phonemic
+22-130-525-3,lakk1252,Lak (Balkhar dialect),911,килиса,CyrillTrans,"temple, church",,,"mečet, kilisa",Phonemic
+22-140-525-1,lakk1252,Lak (Balkhar dialect),853,михӀмар,CyrillTrans,altar,,,miћmar,Phonemic
+22-150-525-1,lakk1252,Lak (Balkhar dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,q̛urban,Phonemic
+22-160-525-1,lakk1252,Lak (Balkhar dialect),257,хӀурмат бан,CyrillTrans,worship,,,"ћurmat ban, sužda ban",Phonemic
+22-160-525-3,lakk1252,Lak (Balkhar dialect),257,сужда бан,CyrillTrans,worship,,,"ћurmat ban, sužda ban",Phonemic
+22-170-525-1,lakk1252,Lak (Balkhar dialect),24,чак бан,CyrillTrans,pray,,,čak ban,Phonemic
+22-180-525-1,lakk1252,Lak (Balkhar dialect),852,малла,CyrillTrans,priest,,,"malla, kašiš",Phonemic
+22-180-525-3,lakk1252,Lak (Balkhar dialect),852,кашиш,CyrillTrans,priest,,,"malla, kašiš",Phonemic
+22-190-525-1,lakk1252,Lak (Balkhar dialect),1702,караматсса,CyrillTrans,"holy, sacred",,,"karamats̄a, mubaraks̄a",Phonemic
+22-190-525-3,lakk1252,Lak (Balkhar dialect),1702,мубараксса,CyrillTrans,"holy, sacred",,,"karamats̄a, mubaraks̄a",Phonemic
+22-220-525-1,lakk1252,Lak (Balkhar dialect),304,вагІза бан,CyrillTrans,preach,,,"waʕza ban, waʕza-nasihat ban",Phonemic
+22-220-525-3,lakk1252,Lak (Balkhar dialect),304,вагІза-насигьат бан,CyrillTrans,preach,,,"waʕza ban, waʕza-nasihat ban",Phonemic
+22-230-525-1,lakk1252,Lak (Balkhar dialect),391,хъанмурчІа учин,CyrillTrans,bless,,,qarmurč̛a ucin,Phonemic
+22-240-525-1,lakk1252,Lak (Balkhar dialect),8,зай бишин,CyrillTrans,curse,,,zay bišin,Phonemic
+22-260-525-1,lakk1252,Lak (Balkhar dialect),303,зма дугьан,CyrillTrans,fast (vb),,,zma duhan,Phonemic
+22-310-525-1,lakk1252,Lak (Balkhar dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-525-1,lakk1252,Lak (Balkhar dialect),878,дужагь,CyrillTrans,hell,,,dužah,Phonemic
+22-350-525-1,lakk1252,Lak (Balkhar dialect),1973,щяйтӀан,CyrillTrans,demon (evil spirit),,,š̄aˤyt̛an,Phonemic
+22-370-525-1,lakk1252,Lak (Balkhar dialect),1945,къанч,CyrillTrans,idol,,,Ganč,Phonemic
+22-420-525-1,lakk1252,Lak (Balkhar dialect),392,ссихӀиршибу,CyrillTrans,"magic, witchcraft, sorcery",,,s̄iћiršibu,Phonemic
+22-430-525-1,lakk1252,Lak (Balkhar dialect),2137,ссихІирщар,CyrillTrans,"sorcerer, witch",,,"s̄iћirš̄ar, t̛ilisinš̄ar",Phonemic
+22-430-525-3,lakk1252,Lak (Balkhar dialect),2137,тІилисинщар,CyrillTrans,"sorcerer, witch",,,"s̄iћirš̄ar, t̛ilisinš̄ar",Phonemic
+22-440-525-1,lakk1252,Lak (Balkhar dialect),2138,гьурулгІин,CyrillTrans,"fairy, elf",,,hyrulʕin,Phonemic
+22-450-525-1,lakk1252,Lak (Balkhar dialect),1175,ххют,CyrillTrans,"ghost, phantom",,,"x̄oˤt, lišan",Phonemic
+22-450-525-3,lakk1252,Lak (Balkhar dialect),1175,лишан,CyrillTrans,"ghost, phantom",,,"x̄oˤt, lišan",Phonemic
+22-470-525-1,lakk1252,Lak (Balkhar dialect),107,аьламат,CyrillTrans,"omen, portent",,,aˤlamat,Phonemic

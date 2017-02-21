@@ -28,7 +28,8 @@ c2[nchar(c2)<11] = ""
 
 grammar$ref = paste(c1, c2)
 
-
+glx = unique(alldata$glotto)
+glx[!glx %in% l.details$glotto]
 
 
 

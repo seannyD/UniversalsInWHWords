@@ -1,0 +1,1515 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-38-1,ghod1238,Godoberi,1852,бекъа-бекъа,CyrillTrans,often,,,beqʼa-beqʼa,Phonemic
+14-310-38-1,ghod1238,Godoberi,1676,индала,CyrillTrans,always,,,"indala, indadala",Phonemic
+14-310-38-3,ghod1238,Godoberi,1676,индадала,CyrillTrans,always,,,"indala, indadala",Phonemic
+14-290-38-1,ghod1238,Godoberi,790,хӀадурав,CyrillTrans,ready,,,ħaduraw,Phonemic
+14-280-38-1,ghod1238,Godoberi,1928,бикъвали,CyrillTrans,"cease, stop",,,"biqʼʷali, buƛali",Phonemic
+14-280-38-3,ghod1238,Godoberi,1928,булІали,CyrillTrans,"cease, stop",,,"biqʼʷali, buƛali",Phonemic
+14-270-38-1,ghod1238,Godoberi,1766,булІали,CyrillTrans,finish,,,buƛali,Phonemic
+14-260-38-1,ghod1238,Godoberi,743,вулІи,CyrillTrans,end (temporal),,,"wuƛi, buƛi, yuƛi",Phonemic
+14-260-38-3,ghod1238,Godoberi,743,булІи,CyrillTrans,end (temporal),,,"wuƛi, buƛi, yuƛi",Phonemic
+14-260-38-5,ghod1238,Godoberi,743,йулІи,CyrillTrans,end (temporal),,,"wuƛi, buƛi, yuƛi",Phonemic
+14-252-38-1,ghod1238,Godoberi,1186,дагӀинда-дагӀин,CyrillTrans,"last, endure",,,daʕinda-daʕin,Phonemic
+14-250-38-1,ghod1238,Godoberi,1806,байбихьи иᴴгьи,CyrillTrans,"begin, beginning",,,baybix̌i iⁿhi,Phonemic
+14-240-38-1,ghod1238,Godoberi,425,суруса бихани,CyrillTrans,"retard, delay",,,surusa bixani,Phonemic
+14-230-38-1,ghod1238,Godoberi,754,гӀедегӀил иᴴгьи,CyrillTrans,"hasten, hurry",,,ʕedeʕil iⁿhi,Phonemic
+14-220-38-1,ghod1238,Godoberi,701,сурисабу,CyrillTrans,slow,,,surisabu,Phonemic
+14-210-38-1,ghod1238,Godoberi,1631,ххеххав,CyrillTrans,"swift, fast, quick",,,x̄ex̄aw,Phonemic
+14-190-38-1,ghod1238,Godoberi,1963,ххеххи,CyrillTrans,immediately,,,"x̄ex̄i, beqʼa",Phonemic
+14-190-38-3,ghod1238,Godoberi,1963,бекъа,CyrillTrans,immediately,,,"x̄ex̄i, beqʼa",Phonemic
+14-180-38-1,ghod1238,Godoberi,1376,гьера,CyrillTrans,now,,,hera,Phonemic
+14-170-38-1,ghod1238,Godoberi,477,кватӀаᴴ,CyrillTrans,late,,,kʷatʼaⁿ,Phonemic
+14-160-38-1,ghod1238,Godoberi,672,бекъада,CyrillTrans,early,,,beqʼada,Phonemic
+14-150-38-1,ghod1238,Godoberi,1229,вахар,CyrillTrans,old,,,waxar,Phonemic
+14-140-38-1,ghod1238,Godoberi,1207,гӀолохъанав,CyrillTrans,young,,,"ʕoloqanaw, baħaraw",Phonemic
+14-140-38-3,ghod1238,Godoberi,1207,бахІарав,CyrillTrans,young,,,"ʕoloqanaw, baħaraw",Phonemic
+14-120-38-1,ghod1238,Godoberi,1789,гӀʼасру,CyrillTrans,age,,,ʕʲasru,Phonemic
+14-130-38-1,ghod1238,Godoberi,1231,цӀиᴴву,CyrillTrans,new,,,cʼiⁿwu,Phonemic
+14-110-38-1,ghod1238,Godoberi,892,замана,CyrillTrans,time,,,"zamana, qʼaru",Phonemic
+14-110-38-3,ghod1238,Godoberi,892,къару,CyrillTrans,time,,,"zamana, qʼaru",Phonemic
+13-440-38-1,ghod1238,Godoberi,417,лъабцІида,CyrillTrans,three times,,,ɬabcʼida,Phonemic
+13-420-38-1,ghod1238,Godoberi,1859,лъабулъиссу,CyrillTrans,third,,,ɬabuɬis̄u,Phonemic
+13-380-38-1,ghod1238,Godoberi,1546,кІʼанцІида,CyrillTrans,two times,,,"kʼʲancʼida, kʼeda miqʼiƛi",Phonemic
+13-380-38-3,ghod1238,Godoberi,1546,кІеда микъилІи,CyrillTrans,two times,,,"kʼʲancʼida, kʼeda miqʼiƛi",Phonemic
+13-370-38-1,ghod1238,Godoberi,1888,кІеда,CyrillTrans,pair,,,"kʼeda, sadaqe",Phonemic
+13-370-38-3,ghod1238,Godoberi,1888,садахъе,CyrillTrans,pair,,,"kʼeda, sadaqe",Phonemic
+13-360-38-1,ghod1238,Godoberi,1384,кІе̄лъиссу,CyrillTrans,second,,,kʼēɬis̄u,Phonemic
+13-350-38-1,ghod1238,Godoberi,1529,гьичІи бехутІуссу,CyrillTrans,last,,,"hičʼi bexutʼus̄u, hičʼiraqʼudaras̄u",Phonemic
+13-350-38-3,ghod1238,Godoberi,1529,гьичІиракъударассу,CyrillTrans,last,,,"hičʼi bexutʼus̄u, hičʼiraqʼudaras̄u",Phonemic
+13-340-38-1,ghod1238,Godoberi,728,гьичІи ссебассу,CyrillTrans,first,,,hičʼi s̄ebas̄u,Phonemic
+13-330-38-1,ghod1238,Godoberi,1580,цебда-цеб,CyrillTrans,"alone, only",,,cebda-ceb,Phonemic
+13-240-38-1,ghod1238,Godoberi,816,гІахьʼалъи,CyrillTrans,half,,,ʕax̌ʲaɬi,Phonemic
+13-230-38-1,ghod1238,Godoberi,779,кесеки,CyrillTrans,"part, piece",,,"keseki, tʼubi",Phonemic
+13-230-38-3,ghod1238,Godoberi,779,тІуби,CyrillTrans,"part, piece",,,"keseki, tʼubi",Phonemic
+13-220-38-1,ghod1238,Godoberi,1624,бечІудассу,CyrillTrans,empty,,,bečʼudas̄u,Phonemic
+13-210-38-1,ghod1238,Godoberi,1429,бецІибу,CyrillTrans,full,,,becʼibu,Phonemic
+13-190-38-1,ghod1238,Godoberi,2023,бегъуда,CyrillTrans,"multitude, crowd",,,beɣuda,Phonemic
+13-181-38-1,ghod1238,Godoberi,1241,чамухубуда,CyrillTrans,some,,,čamuxubuda,Phonemic
+13-170-38-1,ghod1238,Godoberi,1242,котте,CyrillTrans,"little (quantity), few",,,kot̄e,Phonemic
+13-180-38-1,ghod1238,Godoberi,1881,боинццима,CyrillTrans,enough,,,boinc̄ima,Phonemic
+13-160-38-1,ghod1238,Godoberi,1992,целла,CyrillTrans,more,,,cella,Phonemic
+13-150-38-1,ghod1238,Godoberi,1198,бегъу,CyrillTrans,"much, many",,,beɣu,Phonemic
+13-140-38-1,ghod1238,Godoberi,98,тІорда,CyrillTrans,"every, all",,,tʼorda,Phonemic
+13-107-38-1,ghod1238,Godoberi,1420,бицциᴴ,CyrillTrans,count,,,bic̄iⁿ,Phonemic
+13-106-38-1,ghod1238,Godoberi,1843,азаруда,CyrillTrans,thousand,,,azaruda,Phonemic
+13-105-38-1,ghod1238,Godoberi,1634,бешануда,CyrillTrans,hundred,,,bešanuda,Phonemic
+13-104-38-1,ghod1238,Godoberi,1710,кІаъацІада,CyrillTrans,twenty,,,"kʼaʔacʼada, kʼʲahacʼada",Phonemic
+13-104-38-3,ghod1238,Godoberi,1710,кІʼагьацІада,CyrillTrans,twenty,,,"kʼaʔacʼada, kʼʲahacʼada",Phonemic
+13-103-38-1,ghod1238,Godoberi,1709,гьацІалъи иншттуда,CyrillTrans,fifteen,,,hacʼaɬi inšt̄uda,Phonemic
+13-102-38-1,ghod1238,Godoberi,1707,гьацІалъи кІеда,CyrillTrans,twelve,,,hacʼaɬi kʼeda,Phonemic
+13-101-38-1,ghod1238,Godoberi,1706,гьачІалъи цеб,CyrillTrans,eleven,,,hačʼaɬi ceb,Phonemic
+13-100-38-1,ghod1238,Godoberi,1515,гьацІада,CyrillTrans,ten,,,hacʼada,Phonemic
+13-90-38-1,ghod1238,Godoberi,1483,гьачІада,CyrillTrans,nine,,,hačʼada,Phonemic
+13-80-38-1,ghod1238,Godoberi,1705,бикьида,CyrillTrans,eight,,,biƛ̄ʼida,Phonemic
+13-70-38-1,ghod1238,Godoberi,1704,гьакьуда,CyrillTrans,seven,,,haƛ̄ʼuda,Phonemic
+13-60-38-1,ghod1238,Godoberi,1703,инлъида,CyrillTrans,six,,,inɬida,Phonemic
+13-50-38-1,ghod1238,Godoberi,493,иншттуда,CyrillTrans,five,,,inšt̄uda,Phonemic
+13-40-38-1,ghod1238,Godoberi,1500,буъуда,CyrillTrans,four,,,buʔuda,Phonemic
+13-20-38-1,ghod1238,Godoberi,1498,кІеда,CyrillTrans,two,,,kʼeda,Phonemic
+13-30-38-1,ghod1238,Godoberi,492,лъабуда,CyrillTrans,three,,,ɬabuda,Phonemic
+13-10-38-1,ghod1238,Godoberi,1493,цеб,CyrillTrans,one,,,ceb,Phonemic
+13-0-38-1,ghod1238,Godoberi,1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-38-1,ghod1238,Godoberi,1264,хисиᴴ,CyrillTrans,change,,,"xisiⁿ, berši",Phonemic
+12-930-38-3,ghod1238,Godoberi,1264,берши,CyrillTrans,change,,,"xisiⁿ, berši",Phonemic
+12-920-38-1,ghod1238,Godoberi,1558,балълъин,CyrillTrans,"like, similar",,,baɬ̄in,Phonemic
+12-840-38-1,ghod1238,Godoberi,1048,мухъи,CyrillTrans,line,,,muqi,Phonemic
+12-850-38-1,ghod1238,Godoberi,1667,дунгʼа,CyrillTrans,hole,,,dungʲa,Phonemic
+12-830-38-1,ghod1238,Godoberi,1845,шари,CyrillTrans,"sphere, ball",,,šari,Phonemic
+12-810-38-1,ghod1238,Godoberi,1395,гиргʼаму,CyrillTrans,round,,,girgʲamu,Phonemic
+12-820-38-1,ghod1238,Godoberi,1467,бехъутІуссу муса,CyrillTrans,circle,,,"bequtʼus̄u musa, goru",Phonemic
+12-820-38-3,ghod1238,Godoberi,1467,гору,CyrillTrans,circle,,,"bequtʼus̄u musa, goru",Phonemic
+12-780-38-1,ghod1238,Godoberi,850,буудабикІуна,CyrillTrans,square,,,buʔudabikʼuna,Phonemic
+12-770-38-1,ghod1238,Godoberi,1367,хъанчи,CyrillTrans,cross,,,qanči,Phonemic
+12-760-38-1,ghod1238,Godoberi,192,бикІун,CyrillTrans,corner,,,bikʼun,Phonemic
+12-750-38-1,ghod1238,Godoberi,1071,гваза,CyrillTrans,hook,,,gʷaza,Phonemic
+12-740-38-1,ghod1238,Godoberi,297,кІичІаму,CyrillTrans,crooked,,,kʼičʼamu,Phonemic
+12-730-38-1,ghod1238,Godoberi,1404,битІиссу,CyrillTrans,straight,,,"bitʼis̄u, bitʼi",Phonemic
+12-730-38-3,ghod1238,Godoberi,1404,битІи,CyrillTrans,straight,,,"bitʼis̄u, bitʼi",Phonemic
+12-710-38-1,ghod1238,Godoberi,1633,цІутІаму,CyrillTrans,flat,,,cʼutʼamu,Phonemic
+12-680-38-1,ghod1238,Godoberi,193,микІиси,CyrillTrans,shallow,,,"mikʼisi, kʼʲanci",Phonemic
+12-680-38-3,ghod1238,Godoberi,193,кІʼанци,CyrillTrans,shallow,,,"mikʼisi, kʼʲanci",Phonemic
+12-670-38-1,ghod1238,Godoberi,1593,гъаду,CyrillTrans,deep,,,ɣadu,Phonemic
+12-650-38-1,ghod1238,Godoberi,2249,беллараб,CyrillTrans,thin (in dimension),,,bellarab,Phonemic
+12-630-38-1,ghod1238,Godoberi,1244,биши,CyrillTrans,thick (in dimension),,,biši,Phonemic
+12-620-38-1,ghod1238,Godoberi,1267,къвара,CyrillTrans,narrow,,,qʼʷara,Phonemic
+12-610-38-1,ghod1238,Godoberi,1243,леми,CyrillTrans,"wide, broad",,,lemi,Phonemic
+12-590-38-1,ghod1238,Godoberi,1645,бачикІи,CyrillTrans,short,,,bačikʼi,Phonemic
+12-580-38-1,ghod1238,Godoberi,711,гьицІи,CyrillTrans,tall,,,hicʼi,Phonemic
+12-570-38-1,ghod1238,Godoberi,1203,беххила,CyrillTrans,long,,,bex̄ila,Phonemic
+12-560-38-1,ghod1238,Godoberi,1246,микІиси,CyrillTrans,"small, little",,,mikʼisi,Phonemic
+12-550-38-1,ghod1238,Godoberi,1202,бечІуха,CyrillTrans,"large, big",,,bečʼuxa,Phonemic
+12-540-38-1,ghod1238,Godoberi,1506,басиᴴ,CyrillTrans,measure,,,basiⁿ,Phonemic
+12-530-38-1,ghod1238,Godoberi,479,бижиᴴ,CyrillTrans,grow,,,bižiⁿ,Phonemic
+12-480-38-1,ghod1238,Godoberi,1595,къирпа,CyrillTrans,south,,,qʼirpa,Phonemic
+12-470-38-1,ghod1238,Godoberi,1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-38-1,ghod1238,Godoberi,1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-38-1,ghod1238,Godoberi,1877,машрикъ,CyrillTrans,east,,,mašriqʼ,Phonemic
+12-430-38-1,ghod1238,Godoberi,1942,исибала,CyrillTrans,near (adv),,,isibala,Phonemic
+12-440-38-1,ghod1238,Godoberi,1406,бекьута,CyrillTrans,far (adv),,,beƛ̄ʼuta,Phonemic
+12-420-38-1,ghod1238,Godoberi,244,квачІикъил рахъи,CyrillTrans,left (side),,,kʷačʼiqʼil raqi,Phonemic
+12-410-38-1,ghod1238,Godoberi,1019,икваму рахъи,CyrillTrans,right (side),,,ikʷamu raqi,Phonemic
+12-370-38-1,ghod1238,Godoberi,1093,бакьуссу муса,CyrillTrans,"middle, center",,,baƛ̄ʼus̄u musa,Phonemic
+12-360-38-1,ghod1238,Godoberi,682,рахъи,CyrillTrans,side,,,raqi,Phonemic
+12-353-38-1,ghod1238,Godoberi,863,бакʼа,CyrillTrans,edge,,,bakʲa,Phonemic
+12-352-38-1,ghod1238,Godoberi,372,бакʼа багьараб,CyrillTrans,pointed,,,bakʲa baharab,Phonemic
+12-350-38-1,ghod1238,Godoberi,742,ахир,CyrillTrans,end,,,"axir, buƛir",Phonemic
+12-350-38-3,ghod1238,Godoberi,742,булІир,CyrillTrans,end,,,"axir, buƛir",Phonemic
+12-340-38-1,ghod1238,Godoberi,690,гьинлу,CyrillTrans,bottom,,,hinlu,Phonemic
+12-320-38-1,ghod1238,Godoberi,721,чІабтІи,CyrillTrans,low,,,čʼabtʼi,Phonemic
+12-330-38-1,ghod1238,Godoberi,1753,гьицІилъир макІва,CyrillTrans,top,,,"hicʼiɬir makʼʷa, bakʲa",Phonemic
+12-330-38-3,ghod1238,Godoberi,1753,бакʼа,CyrillTrans,top,,,"hicʼiɬir makʼʷa, bakʲa",Phonemic
+12-310-38-1,ghod1238,Godoberi,1265,гьицІи,CyrillTrans,high,,,hicʼi,Phonemic
+12-270-38-1,ghod1238,Godoberi,602,бакъащали,CyrillTrans,"hide, conceal",,,baqʼaš̄ali,Phonemic
+12-250-38-1,ghod1238,Godoberi,1046,гьишали,CyrillTrans,"shut, close",,,hišali,Phonemic
+12-260-38-1,ghod1238,Godoberi,761,аркъуй,CyrillTrans,cover,,,"arqʼuy, tʼami",Phonemic
+12-260-38-3,ghod1238,Godoberi,761,тІами,CyrillTrans,cover,,,"arqʼuy, tʼami",Phonemic
+12-240-38-1,ghod1238,Godoberi,1156,хваби,CyrillTrans,open,,,xʷabi,Phonemic
+12-232-38-1,ghod1238,Godoberi,1119,бикьиди,CyrillTrans,divide,,,biƛ̄ʼidi,Phonemic
+12-230-38-1,ghod1238,Godoberi,1359,батІа иᴴгьи,CyrillTrans,separate,,,batʼa iⁿhi,Phonemic
+12-220-38-1,ghod1238,Godoberi,1743,сану гьабажали,CyrillTrans,"join, unite",,,sanu habažali,Phonemic
+12-213-38-1,ghod1238,Godoberi,1576,данди иᴴгьи,CyrillTrans,pile up,,,dandi iⁿhi,Phonemic
+12-212-38-1,ghod1238,Godoberi,371,бишали,CyrillTrans,pick up,,,"bišali, hicʼali",Phonemic
+12-212-38-3,ghod1238,Godoberi,371,гьицІали,CyrillTrans,pick up,,,"bišali, hicʼali",Phonemic
+12-210-38-1,ghod1238,Godoberi,7,бишали,CyrillTrans,"collect, gather",,,bišali,Phonemic
+12-170-38-1,ghod1238,Godoberi,838,гьикьи буххаму даᴴйи,CyrillTrans,"remains, left overs",,,hiƛ̄ʼi bux̄amu daⁿyi,Phonemic
+12-160-38-1,ghod1238,Godoberi,987,вукІи,CyrillTrans,"remain, stay",,,wukʼi,Phonemic
+12-150-38-1,ghod1238,Godoberi,1442,гьирччи,CyrillTrans,stand,,,"hirč̄i, hič̄ubiɣi",Phonemic
+12-150-38-3,ghod1238,Godoberi,1442,гьиччубигъи,CyrillTrans,stand,,,"hirč̄i, hič̄ubiɣi",Phonemic
+12-140-38-1,ghod1238,Godoberi,215,вораххи,CyrillTrans,lie down,,,"worax̄i, yerax̄i",Phonemic
+12-140-38-3,ghod1238,Godoberi,215,йераххи,CyrillTrans,lie down,,,"worax̄i, yerax̄i",Phonemic
+12-130-38-1,ghod1238,Godoberi,1416,аччахъи вукІи,CyrillTrans,sit,,,ač̄aqi wukʼi,Phonemic
+12-120-38-1,ghod1238,Godoberi,998,букІали,CyrillTrans,put,,,bukʼali,Phonemic
+12-110-38-1,ghod1238,Godoberi,723,муса,CyrillTrans,place,,,musa,Phonemic
+12-80-38-1,ghod1238,Godoberi,1591,гьилʼа,CyrillTrans,"up, above",,,hilʲa,Phonemic
+12-70-38-1,ghod1238,Godoberi,1485,гьикьи,CyrillTrans,under,,,hiƛ̄ʼi,Phonemic
+12-60-38-1,ghod1238,Godoberi,762,иссира,CyrillTrans,outside,,,is̄ira,Phonemic
+12-50-38-1,ghod1238,Godoberi,1606,гьину,CyrillTrans,"inside, in",,,hinu,Phonemic
+12-41-38-1,ghod1238,Godoberi,1883,ссеба,CyrillTrans,front,,,s̄eba,Phonemic
+12-40-38-1,ghod1238,Godoberi,1882,ссеба гьолълъичІу,CyrillTrans,before,,,s̄eba hoɬ̄ičʼu,Phonemic
+12-30-38-1,ghod1238,Godoberi,2094,гьикьи,CyrillTrans,"down, below",,,hiƛ̄ʼi,Phonemic
+12-20-38-1,ghod1238,Godoberi,1816,исибала,CyrillTrans,beside,,,isibala,Phonemic
+12-11-38-1,ghod1238,Godoberi,1686,ракъудара,CyrillTrans,behind,,,raqʼudara,Phonemic
+12-10-38-1,ghod1238,Godoberi,1685,эхха,CyrillTrans,after,,,ex̄a,Phonemic
+11-920-38-1,ghod1238,Godoberi,1098,гʼанни,CyrillTrans,weigh,,,gʲanni,Phonemic
+11-910-38-1,ghod1238,Godoberi,884,бикьиди,CyrillTrans,share (distribute),,,biƛ̄ʼidi,Phonemic
+11-890-38-1,ghod1238,Godoberi,1887,учузу,CyrillTrans,cheap,,,učuzu,Phonemic
+11-880-38-1,ghod1238,Godoberi,1426,ххира,CyrillTrans,"dear (costly, expensive)",,,x̄ira,Phonemic
+11-870-38-1,ghod1238,Godoberi,657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-38-1,ghod1238,Godoberi,752,тукен,CyrillTrans,"store, shop",,,tuken,Phonemic
+11-850-38-1,ghod1238,Godoberi,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-38-1,ghod1238,Godoberi,1082,базарган,CyrillTrans,merchant,,,bazargan,Phonemic
+11-830-38-1,ghod1238,Godoberi,2135,хисин,CyrillTrans,"trade, barter",,,xisin,Phonemic
+11-820-38-1,ghod1238,Godoberi,1571,бичиᴴ,CyrillTrans,sell,,,bičiⁿ,Phonemic
+11-810-38-1,ghod1238,Godoberi,1869,бахи,CyrillTrans,buy,,,baxi,Phonemic
+11-790-38-1,ghod1238,Godoberi,733,арси иᴴгьи,CyrillTrans,earn,,,arsi iⁿhi,Phonemic
+11-780-38-1,ghod1238,Godoberi,1122,харжи,CyrillTrans,wages,,,xarži,Phonemic
+11-770-38-1,ghod1238,Godoberi,856,бахи,CyrillTrans,hire,,,baxi,Phonemic
+11-690-38-1,ghod1238,Godoberi,873,налогу,CyrillTrans,"tax, tribute",,,"nalogu, maɣalu",Phonemic
+11-690-38-3,ghod1238,Godoberi,873,магъалу,CyrillTrans,"tax, tribute",,,"nalogu, maɣalu",Phonemic
+11-660-38-1,ghod1238,Godoberi,1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-38-1,ghod1238,Godoberi,718,икки,CyrillTrans,pay (vb),,,ik̄i,Phonemic
+11-640-38-1,ghod1238,Godoberi,1914,налъи,CyrillTrans,debt,,,"naɬi, parzi",Phonemic
+11-640-38-3,ghod1238,Godoberi,1914,парзи,CyrillTrans,debt,,,"naɬi, parzi",Phonemic
+11-630-38-1,ghod1238,Godoberi,369,гьила иᴴгьу икки,CyrillTrans,owe,,,hila iⁿhu ik̄i,Phonemic
+11-620-38-1,ghod1238,Godoberi,1823,налъи иᴴгьи,CyrillTrans,borrow,,,naɬi iⁿhi,Phonemic
+11-610-38-1,ghod1238,Godoberi,582,гьила иᴴгьу икки,CyrillTrans,lend,,,hila iⁿhu ik̄i,Phonemic
+11-540-38-1,ghod1238,Godoberi,1774,къарумав,CyrillTrans,"avaricious, stingy",,,qʼarumaw,Phonemic
+11-530-38-1,ghod1238,Godoberi,1934,хахача,CyrillTrans,beggar,,,xaxača,Phonemic
+11-520-38-1,ghod1238,Godoberi,1674,мискинав,CyrillTrans,poor,,,miskinaw,Phonemic
+11-510-38-1,ghod1238,Godoberi,712,вочедав,CyrillTrans,rich,,,"wočedaw, bečedab",Phonemic
+11-510-38-3,ghod1238,Godoberi,712,бечедаб,CyrillTrans,rich,,,"wočedaw, bečedab",Phonemic
+11-440-38-1,ghod1238,Godoberi,1867,кебеки,CyrillTrans,coin,,,kebeki,Phonemic
+11-430-38-1,ghod1238,Godoberi,1559,арси,CyrillTrans,money,,,arsi,Phonemic
+11-340-38-1,ghod1238,Godoberi,1095,бештти,CyrillTrans,"release, let go",,,"bešt̄i, wešt̄i, yešt̄i",Phonemic
+11-340-38-3,ghod1238,Godoberi,1095,вештти,CyrillTrans,"release, let go",,,"bešt̄i, wešt̄i, yešt̄i",Phonemic
+11-340-38-5,ghod1238,Godoberi,1095,йештти,CyrillTrans,"release, let go",,,"bešt̄i, wešt̄i, yešt̄i",Phonemic
+11-330-38-1,ghod1238,Godoberi,1660,битали,CyrillTrans,lose,,,bitali,Phonemic
+11-320-38-1,ghod1238,Godoberi,719,бисани,CyrillTrans,find,,,bisani,Phonemic
+11-310-38-1,ghod1238,Godoberi,1468,цІеххиᴴ,CyrillTrans,"seek, look for",,,cʼex̄iⁿ,Phonemic
+11-280-38-1,ghod1238,Godoberi,44,зарал иᴴгьи,CyrillTrans,"harm, injure, damage",,,zaral iⁿhi,Phonemic
+11-270-38-1,ghod1238,Godoberi,681,биххали,CyrillTrans,destroy,,,bix̄ali,Phonemic
+11-250-38-1,ghod1238,Godoberi,2008,хвассар иᴴгьи,CyrillTrans,"save, rescue",,,xʷas̄ar iⁿhi,Phonemic
+11-240-38-1,ghod1238,Godoberi,1997,цІинни,CyrillTrans,"preserve, look after",,,cʼinni,Phonemic
+11-220-38-1,ghod1238,Godoberi,85,цахаба икки,CyrillTrans,give back,,,"caxaba ik̄i, bišali",Phonemic
+11-220-38-3,ghod1238,Godoberi,85,бишали,CyrillTrans,give back,,,"caxaba ik̄i, bišali",Phonemic
+11-210-38-1,ghod1238,Godoberi,1447,икки,CyrillTrans,give,,,ik̄i,Phonemic
+11-180-38-1,ghod1238,Godoberi,738,даᴴйи,CyrillTrans,thing,,,daⁿyi,Phonemic
+11-170-38-1,ghod1238,Godoberi,1477,цІинни,CyrillTrans,"keep, retain",,,cʼinni,Phonemic
+11-160-38-1,ghod1238,Godoberi,694,бацІиᴴ,CyrillTrans,"get, obtain",,,bacʼiⁿ,Phonemic
+11-150-38-1,ghod1238,Godoberi,1448,бикки,CyrillTrans,hold,,,bik̄i,Phonemic
+11-140-38-1,ghod1238,Godoberi,2021,бакки,CyrillTrans,"seize, grasp",,,"bak̄i, bik̄i, qapidi",Phonemic
+11-140-38-3,ghod1238,Godoberi,2021,бикки,CyrillTrans,"seize, grasp",,,"bak̄i, bik̄i, qapidi",Phonemic
+11-140-38-5,ghod1238,Godoberi,2021,хъапиди,CyrillTrans,"seize, grasp",,,"bak̄i, bik̄i, qapidi",Phonemic
+11-130-38-1,ghod1238,Godoberi,1749,бахи,CyrillTrans,take,,,baxi,Phonemic
+11-120-38-1,ghod1238,Godoberi,684,букІи,CyrillTrans,"own, possess",,,bukʼi,Phonemic
+11-110-38-1,ghod1238,Godoberi,773,букІи,CyrillTrans,have,,,bukʼi,Phonemic
+10-920-38-1,ghod1238,Godoberi,1922,рештІиᴴ,CyrillTrans,land (vb),,,reštʼiⁿ,Phonemic
+10-910-38-1,ghod1238,Godoberi,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-38-1,ghod1238,Godoberi,1870,йакорь,CyrillTrans,anchor,,,yakorj,Phonemic
+10-880-38-1,ghod1238,Godoberi,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-38-1,ghod1238,Godoberi,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-38-1,ghod1238,Godoberi,108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-38-1,ghod1238,Godoberi,1849,хьарди,CyrillTrans,row (vb),,,x̌ardi,Phonemic
+10-851-38-1,ghod1238,Godoberi,234,реххин,CyrillTrans,paddle (noun),,,rex̄in,Phonemic
+10-850-38-1,ghod1238,Godoberi,108,реххин,CyrillTrans,oar,,,rex̄in,Phonemic
+10-840-38-1,ghod1238,Godoberi,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-38-1,ghod1238,Godoberi,416,лодка,CyrillTrans,outrigger,,,lodka,Phonemic
+10-831-38-1,ghod1238,Godoberi,1970,лодка,CyrillTrans,canoe,,,lodka,Phonemic
+10-830-38-1,ghod1238,Godoberi,1844,лодка,CyrillTrans,boat,,,lodka,Phonemic
+10-810-38-1,ghod1238,Godoberi,740,гʼама,CyrillTrans,ship,,,gʲama,Phonemic
+10-780-38-1,ghod1238,Godoberi,14,рукьи,CyrillTrans,yoke,,,ruƛ̄ʼi,Phonemic
+10-770-38-1,ghod1238,Godoberi,1769,ссами,CyrillTrans,axle,,,s̄ami,Phonemic
+10-760-38-1,ghod1238,Godoberi,710,гургущил,CyrillTrans,wheel,,,gurguš̄il,Phonemic
+10-750-38-1,ghod1238,Godoberi,122,гьоко,CyrillTrans,"carriage, wagon, cart",,,hoko,Phonemic
+10-740-38-1,ghod1238,Godoberi,1011,кьиру,CyrillTrans,bridge,,,ƛ̄ʼiru,Phonemic
+10-720-38-1,ghod1238,Godoberi,2252,ччидирмикъи,CyrillTrans,path,,,č̄idirmiqʼi,Phonemic
+10-710-38-1,ghod1238,Godoberi,667,микъи,CyrillTrans,road,,,miqʼi,Phonemic
+10-670-38-1,ghod1238,Godoberi,1452,биси,CyrillTrans,"push, shove",,,"bisi, tunkidi",Phonemic
+10-670-38-3,ghod1238,Godoberi,1452,тункиди,CyrillTrans,"push, shove",,,"bisi, tunkidi",Phonemic
+10-660-38-1,ghod1238,Godoberi,367,ххваничІула гьанкІу мани,CyrillTrans,ride,,,x̄ʷaničʼula hankʼu mani,Phonemic
+10-650-38-1,ghod1238,Godoberi,741,машиначІула гьанкІу мани,CyrillTrans,drive,,,mašinačʼula hankʼu mani,Phonemic
+10-640-38-1,ghod1238,Godoberi,43,баъали,CyrillTrans,lead (vb),,,baʔali,Phonemic
+10-630-38-1,ghod1238,Godoberi,1127,бештти,CyrillTrans,send,,,bešt̄i,Phonemic
+10-620-38-1,ghod1238,Godoberi,692,баъали,CyrillTrans,bring,,,baʔali,Phonemic
+10-615-38-1,ghod1238,Godoberi,415,къвазукьи баччиди,CyrillTrans,carry-underarm,,,qʼʷazuƛ̄ʼi bač̄idi,Phonemic
+10-614-38-1,ghod1238,Godoberi,414,микъала букІалу баччиди,CyrillTrans,carry-on-head,,,miqʼala bukʼalu bač̄idi,Phonemic
+10-613-38-1,ghod1238,Godoberi,413,гъажичІула букІалу баччиди,CyrillTrans,carry-on-shoulder,,,ɣažičʼula bukʼalu bač̄idi,Phonemic
+10-612-38-1,ghod1238,Godoberi,412,лелибеди баччиди,CyrillTrans,carry-in-hand,,,lelibedi bač̄idi,Phonemic
+10-610-38-1,ghod1238,Godoberi,700,баччиди,CyrillTrans,carry (bear),,,bač̄idi,Phonemic
+10-570-38-1,ghod1238,Godoberi,749,гьину ваи,CyrillTrans,enter,,,hinu wai,Phonemic
+10-560-38-1,ghod1238,Godoberi,1778,исибела ваи,CyrillTrans,approach,,,isibela wai,Phonemic
+10-550-38-1,ghod1238,Godoberi,1387,вехутІу ваи,CyrillTrans,"reach, arrive",,,wexutʼu wai,Phonemic
+10-530-38-1,ghod1238,Godoberi,1047,вехутІу мани,CyrillTrans,pursue,,,"wexutʼu mani, bexutʼu mani",Phonemic
+10-530-38-3,ghod1238,Godoberi,1047,бехутІу мани,CyrillTrans,pursue,,,"wexutʼu mani, bexutʼu mani",Phonemic
+10-520-38-1,ghod1238,Godoberi,1085,вехутІу вулІи,CyrillTrans,follow,,,wexutʼu wuƛi,Phonemic
+10-510-38-1,ghod1238,Godoberi,956,ччари,CyrillTrans,flee,,,č̄ari,Phonemic
+10-491-38-1,ghod1238,Godoberi,485,тІагІиᴴ,CyrillTrans,disappear,,,tʼaʕiⁿ,Phonemic
+10-490-38-1,ghod1238,Godoberi,1752,цахава вуни (муни),CyrillTrans,"go away, depart",,,caxawa (wuni) muni,Phonemic
+10-481-38-1,ghod1238,Godoberi,581,ракъудара ваи,CyrillTrans,come back,,,raqʼudara wai,Phonemic
+10-480-38-1,ghod1238,Godoberi,1446,ваи,CyrillTrans,come,,,wai,Phonemic
+10-474-38-1,ghod1238,Godoberi,1107,иссира ваи,CyrillTrans,go out,,,is̄ira wai,Phonemic
+10-473-38-1,ghod1238,Godoberi,2014,гьикьихху вуни,CyrillTrans,go down,,,hiƛ̄ʼix̄u wuni,Phonemic
+10-472-38-1,ghod1238,Godoberi,1102,ххарди,CyrillTrans,climb,,,x̄ardi,Phonemic
+10-470-38-1,ghod1238,Godoberi,695,вуни,CyrillTrans,go,,,wuni,Phonemic
+10-471-38-1,ghod1238,Godoberi,705,гьилахху вуни,CyrillTrans,go up,,,hilax̄u wuni,Phonemic
+10-460-38-1,ghod1238,Godoberi,1519,тІари,CyrillTrans,run,,,tʼari,Phonemic
+10-451-38-1,ghod1238,Godoberi,366,рекъвалъи,CyrillTrans,limp,,,reqʼʷaɬi,Phonemic
+10-450-38-1,ghod1238,Godoberi,1443,велълъи,CyrillTrans,walk,,,"weɬ̄i, beƛi, x̌ʷadi",Phonemic
+10-450-38-3,ghod1238,Godoberi,1443,белІи,CyrillTrans,walk,,,"weɬ̄i, beƛi, x̌ʷadi",Phonemic
+10-450-38-5,ghod1238,Godoberi,1443,хьвади,CyrillTrans,walk,,,"weɬ̄i, beƛi, x̌ʷadi",Phonemic
+10-440-38-1,ghod1238,Godoberi,1879,кьиби,CyrillTrans,dance,,,ƛ̄ʼibi,Phonemic
+10-431-38-1,ghod1238,Godoberi,1135,хІунссиди,CyrillTrans,kick,,,ħuns̄idi,Phonemic
+10-430-38-1,ghod1238,Godoberi,1829,кІʼанцІи,CyrillTrans,"jump, leap",,,kʼʲancʼi,Phonemic
+10-420-38-1,ghod1238,Godoberi,1324,ссурди,CyrillTrans,"slide, slip",,,s̄urdi,Phonemic
+10-413-38-1,ghod1238,Godoberi,296,аччахъи вукІи,CyrillTrans,crouch,,,ač̄aqi wukʼi,Phonemic
+10-412-38-1,ghod1238,Godoberi,66,нукибечІу вукІи,CyrillTrans,kneel,,,nukibečʼu wukʼi,Phonemic
+10-410-38-1,ghod1238,Godoberi,96,лІурди,CyrillTrans,"creep, crawl",,,ƛurdi,Phonemic
+10-380-38-1,ghod1238,Godoberi,175,пуди,CyrillTrans,blow,,,pudi,Phonemic
+10-370-38-1,ghod1238,Godoberi,1441,вурди,CyrillTrans,fly (vb),,,"wurdi, burdi",Phonemic
+10-370-38-3,ghod1238,Godoberi,1441,бурди,CyrillTrans,fly (vb),,,"wurdi, burdi",Phonemic
+10-360-38-1,ghod1238,Godoberi,787,хьварди,CyrillTrans,sail (vb),,,x̌ʷardi,Phonemic
+10-352-38-1,ghod1238,Godoberi,365,чапидали,CyrillTrans,splash,,,čapidali,Phonemic
+10-351-38-1,ghod1238,Godoberi,119,хьварди,CyrillTrans,dive,,,x̌ʷardi,Phonemic
+10-350-38-1,ghod1238,Godoberi,1439,хьварди,CyrillTrans,swim,,,x̌ʷardi,Phonemic
+10-340-38-1,ghod1238,Godoberi,1574,лъеначІу,CyrillTrans,float,,,ɬenačʼu,Phonemic
+10-330-38-1,ghod1238,Godoberi,1088,гъанкъи,CyrillTrans,sink,,,ɣanqʼi,Phonemic
+10-320-38-1,ghod1238,Godoberi,2003,чарчарилъи тІинни,CyrillTrans,flow,,,"čarčariɬi tʼinni, x̄ʷardi",Phonemic
+10-320-38-3,ghod1238,Godoberi,2003,ххварди,CyrillTrans,flow,,,"čarčariɬi tʼinni, x̄ʷardi",Phonemic
+10-260-38-1,ghod1238,Godoberi,1909,лъурди,CyrillTrans,shake,,,ɬurdi,Phonemic
+10-252-38-1,ghod1238,Godoberi,702,къакъура,CyrillTrans,catch (ball),,,"qʼaqʼura, bik̄i",Phonemic
+10-252-38-3,ghod1238,Godoberi,702,бикки,CyrillTrans,catch (ball),,,"qʼaqʼura, bik̄i",Phonemic
+10-250-38-1,ghod1238,Godoberi,1456,лълъехъу,CyrillTrans,throw,,,ɬ̄equ,Phonemic
+10-240-38-1,ghod1238,Godoberi,2253,тІинни,CyrillTrans,drip,,,tʼinni,Phonemic
+10-230-38-1,ghod1238,Godoberi,1280,букки,CyrillTrans,fall,,,buk̄i,Phonemic
+10-220-38-1,ghod1238,Godoberi,501,гьицІали,CyrillTrans,"raise, lift",,,hicʼali,Phonemic
+10-210-38-1,ghod1238,Godoberi,568,бахиди,CyrillTrans,rise,,,baxidi,Phonemic
+10-170-38-1,ghod1238,Godoberi,430,кьурани,CyrillTrans,twist,,,ƛ̄ʼurani,Phonemic
+10-160-38-1,ghod1238,Godoberi,808,боали,CyrillTrans,drop (vb),,,"boali, xʷardi, tʼurbi",Phonemic
+10-160-38-3,ghod1238,Godoberi,808,хварди,CyrillTrans,drop (vb),,,"boali, xʷardi, tʼurbi",Phonemic
+10-160-38-5,ghod1238,Godoberi,808,тІурби,CyrillTrans,drop (vb),,,"boali, xʷardi, tʼurbi",Phonemic
+10-150-38-1,ghod1238,Godoberi,827,ххарадали,CyrillTrans,roll,,,x̄aradali,Phonemic
+10-140-38-1,ghod1238,Godoberi,1113,чІанни,CyrillTrans,"wind, wrap",,,čʼanni,Phonemic
+10-130-38-1,ghod1238,Godoberi,1445,ххаради,CyrillTrans,turn around,,,x̄aradi,Phonemic
+10-120-38-1,ghod1238,Godoberi,1588,ххарадали,CyrillTrans,turn over,,,x̄aradali,Phonemic
+10-110-38-1,ghod1238,Godoberi,765,луллаби,CyrillTrans,move,,,lullabi,Phonemic
+9-890-38-1,ghod1238,Godoberi,2001,ссурати бухи,CyrillTrans,paint (vb),,,"s̄urati buxi, nažbaradi",Phonemic
+9-890-38-3,ghod1238,Godoberi,2001,нажбаради,CyrillTrans,paint (vb),,,"s̄urati buxi, nažbaradi",Phonemic
+9-840-38-1,ghod1238,Godoberi,1979,азал,CyrillTrans,chisel,,,"azal, ƛertʼa",Phonemic
+9-840-38-3,ghod1238,Godoberi,1979,лІертІа,CyrillTrans,chisel,,,"azal, ƛertʼa",Phonemic
+9-880-38-1,ghod1238,Godoberi,647,нажбар,CyrillTrans,paint (noun),,,nažbar,Phonemic
+9-830-38-1,ghod1238,Godoberi,1002,статуйа,CyrillTrans,statue,,,statuya,Phonemic
+9-820-38-1,ghod1238,Godoberi,914,скульптор,CyrillTrans,sculptor,,,skuljptor,Phonemic
+9-810-38-1,ghod1238,Godoberi,228,букъи,CyrillTrans,carve,,,buqʼi,Phonemic
+9-791-38-1,ghod1238,Godoberi,360,сайилъали,CyrillTrans,fan (vb),,,sayiɬali,Phonemic
+9-790-38-1,ghod1238,Godoberi,1971,вентилйатор,CyrillTrans,fan (noun),,,wentilyator,Phonemic
+9-780-38-1,ghod1238,Godoberi,293,сумкʼа,CyrillTrans,netbag,,,sumkʲa,Phonemic
+9-771-38-1,ghod1238,Godoberi,292,тІансса,CyrillTrans,rug,,,tʼans̄a,Phonemic
+9-770-38-1,ghod1238,Godoberi,195,сумало,CyrillTrans,mat,,,sumalo,Phonemic
+9-760-38-1,ghod1238,Godoberi,1539,инча,CyrillTrans,basket,,,inča,Phonemic
+9-750-38-1,ghod1238,Godoberi,1729,бессиди,CyrillTrans,"weave, plait",,,"bes̄idi, hiš̄i",Phonemic
+9-750-38-3,ghod1238,Godoberi,1729,гьищи,CyrillTrans,"weave, plait",,,"bes̄idi, hiš̄i",Phonemic
+9-740-38-1,ghod1238,Godoberi,604,матІу,CyrillTrans,glass,,,matʼu,Phonemic
+9-730-38-1,ghod1238,Godoberi,1399,чарта,CyrillTrans,clay,,,čarta,Phonemic
+9-720-38-1,ghod1238,Godoberi,289,куци тІинни,CyrillTrans,mold (clay etc),,,kuci tʼinni,Phonemic
+9-710-38-1,ghod1238,Godoberi,359,щагІилІи устар,CyrillTrans,potter,,,š̄aʕiƛi ustar,Phonemic
+9-690-38-1,ghod1238,Godoberi,358,гьацІа куби,CyrillTrans,"tin, tinplate",,,hacʼa kubi,Phonemic
+9-680-38-1,ghod1238,Godoberi,627,тІухьи,CyrillTrans,lead (noun),,,tʼux̌i,Phonemic
+9-670-38-1,ghod1238,Godoberi,621,куби,CyrillTrans,iron,,,kubi,Phonemic
+9-660-38-1,ghod1238,Godoberi,1825,пахьи,CyrillTrans,"copper, bronze",,,pax̌i,Phonemic
+9-650-38-1,ghod1238,Godoberi,759,арси,CyrillTrans,silver,,,arsi,Phonemic
+9-640-38-1,ghod1238,Godoberi,1369,мисиди,CyrillTrans,gold,,,misidi,Phonemic
+9-630-38-1,ghod1238,Godoberi,211,куци тІинни,CyrillTrans,cast (metals),,,kuci tʼinni,Phonemic
+9-620-38-1,ghod1238,Godoberi,1648,лабчи,CyrillTrans,anvil,,,labči,Phonemic
+9-610-38-1,ghod1238,Godoberi,288,ихунди,CyrillTrans,forge,,,ixundi,Phonemic
+9-600-38-1,ghod1238,Godoberi,1001,ихун,CyrillTrans,"smith, blacksmith",,,ixun,Phonemic
+9-560-38-1,ghod1238,Godoberi,1069,сину,CyrillTrans,glue,,,sinu,Phonemic
+9-500-38-1,ghod1238,Godoberi,502,гьанкІва,CyrillTrans,nail,,,hankʼʷa,Phonemic
+9-490-38-1,ghod1238,Godoberi,1481,квартІа,CyrillTrans,hammer,,,kʷartʼa,Phonemic
+9-480-38-1,ghod1238,Godoberi,1948,хъухъатІур,CyrillTrans,saw,,,quqatʼur,Phonemic
+9-461-38-1,ghod1238,Godoberi,46,гъами,CyrillTrans,hollow out,,,ɣami,Phonemic
+9-460-38-1,ghod1238,Godoberi,1501,багʼан,CyrillTrans,bore,,,bagʲan,Phonemic
+9-440-38-1,ghod1238,Godoberi,1840,билъи,CyrillTrans,build,,,biɬi,Phonemic
+9-430-38-1,ghod1238,Godoberi,1042,лъудалІи устар,CyrillTrans,carpenter,,,ɬudaƛi ustar,Phonemic
+9-422-38-1,ghod1238,Godoberi,1361,къайи,CyrillTrans,tool,,,"qʼayi, alat",Phonemic
+9-422-38-3,ghod1238,Godoberi,1361,алат,CyrillTrans,tool,,,"qʼayi, alat",Phonemic
+9-380-38-1,ghod1238,Godoberi,245,квацІир,CyrillTrans,broom,,,kʷacʼir,Phonemic
+9-360-38-1,ghod1238,Godoberi,1453,безиᴴ,CyrillTrans,wash,,,beziⁿ,Phonemic
+9-370-38-1,ghod1238,Godoberi,230,чанни,CyrillTrans,sweep,,,čanni,Phonemic
+9-350-38-1,ghod1238,Godoberi,1487,тІинни,CyrillTrans,pour,,,tʼinni,Phonemic
+9-343-38-1,ghod1238,Godoberi,1414,ццурди,CyrillTrans,"squeeze, wring",,,c̄urdi,Phonemic
+9-342-38-1,ghod1238,Godoberi,1913,чІинтІали,CyrillTrans,press,,,čʼintʼali,Phonemic
+9-341-38-1,ghod1238,Godoberi,357,ирххи,CyrillTrans,hang up,,,irx̄i,Phonemic
+9-340-38-1,ghod1238,Godoberi,38,бецІали,CyrillTrans,spread out,,,"becʼali, tʼibitʼali",Phonemic
+9-340-38-3,ghod1238,Godoberi,38,тІибитІали,CyrillTrans,spread out,,,"becʼali, tʼibitʼali",Phonemic
+9-330-38-1,ghod1238,Godoberi,1455,гʼанни,CyrillTrans,pull,,,gʲanni,Phonemic
+9-320-38-1,ghod1238,Godoberi,214,гʼанни,CyrillTrans,stretch,,,gʲanni,Phonemic
+9-310-38-1,ghod1238,Godoberi,1449,гьарчІали,CyrillTrans,"rub, wipe",,,harčʼali,Phonemic
+9-290-38-1,ghod1238,Godoberi,291,хъали бухи,CyrillTrans,"flay, skin",,,qali buxi,Phonemic
+9-280-38-1,ghod1238,Godoberi,1735,хъабали,CyrillTrans,tear,,,qabali,Phonemic
+9-270-38-1,ghod1238,Godoberi,1437,кьватІидали,CyrillTrans,split,,,"ƛ̄ʼʷatʼidali, qabali",Phonemic
+9-270-38-3,ghod1238,Godoberi,1437,хъабали,CyrillTrans,split,,,"ƛ̄ʼʷatʼidali, qabali",Phonemic
+9-261-38-1,ghod1238,Godoberi,588,бахъаму,CyrillTrans,broken,,,baqamu,Phonemic
+9-260-38-1,ghod1238,Godoberi,680,бахъани,CyrillTrans,break,,,baqani,Phonemic
+9-250-38-1,ghod1238,Godoberi,677,куртІа,CyrillTrans,ax,,,kurtʼa,Phonemic
+9-251-38-1,ghod1238,Godoberi,290,эжун,CyrillTrans,adze,,,ežun,Phonemic
+9-240-38-1,ghod1238,Godoberi,356,кІванкьибу,CyrillTrans,"scissors, shears",,,kʼʷanƛ̄ʼibu,Phonemic
+9-230-38-1,ghod1238,Godoberi,1352,бесун,CyrillTrans,knife,,,besun,Phonemic
+9-223-38-1,ghod1238,Godoberi,1434,къиннали,CyrillTrans,stab,,,qʼinnali,Phonemic
+9-222-38-1,ghod1238,Godoberi,155,букъи,CyrillTrans,"chop, hew",,,buqʼi,Phonemic
+9-221-38-1,ghod1238,Godoberi,355,микІиси иᴴгьи,CyrillTrans,cut down,,,mikʼisi iⁿhi,Phonemic
+9-220-38-1,ghod1238,Godoberi,1432,букъи,CyrillTrans,cut,,,buqʼi,Phonemic
+9-211-38-1,ghod1238,Godoberi,354,гьункІиди зуриᴴ,CyrillTrans,pound with fist,,,hunkʼidi zuriⁿ,Phonemic
+9-210-38-1,ghod1238,Godoberi,2133,бугъи,CyrillTrans,"strike (hit, beat)",,,buɣi,Phonemic
+9-192-38-1,ghod1238,Godoberi,760,кІʼарццу,CyrillTrans,knot (noun),,,kʼʲarc̄u,Phonemic
+9-190-38-1,ghod1238,Godoberi,1218,чІали,CyrillTrans,"rope, cord",,,čʼali,Phonemic
+9-180-38-1,ghod1238,Godoberi,1627,рахасси,CyrillTrans,chain,,,raxas̄i,Phonemic
+9-161-38-1,ghod1238,Godoberi,352,начи,CyrillTrans,untie,,,"nači, bešt̄ali, hamali",Phonemic
+9-161-38-3,ghod1238,Godoberi,352,бешттали,CyrillTrans,untie,,,"nači, bešt̄ali, hamali",Phonemic
+9-161-38-5,ghod1238,Godoberi,352,гьамали,CyrillTrans,untie,,,"nači, bešt̄ali, hamali",Phonemic
+9-160-38-1,ghod1238,Godoberi,1917,чІан̄и,CyrillTrans,"tie, bind",,,čʼanni,Phonemic
+9-150-38-1,ghod1238,Godoberi,1470,балъи,CyrillTrans,fold,,,"baɬi, bas̄iⁿ, baqʼali, bišali",Phonemic
+9-150-38-3,ghod1238,Godoberi,1470,бас̄иᴴ,CyrillTrans,fold,,,"baɬi, bas̄iⁿ, baqʼali, bišali",Phonemic
+9-150-38-5,ghod1238,Godoberi,1470,бакъали,CyrillTrans,fold,,,"baɬi, bas̄iⁿ, baqʼali, bišali",Phonemic
+9-150-38-7,ghod1238,Godoberi,1470,башали,CyrillTrans,fold,,,"baɬi, bas̄iⁿ, baqʼali, bišali",Phonemic
+9-140-38-1,ghod1238,Godoberi,2004,кІичІани,CyrillTrans,bend,,,kʼičʼani,Phonemic
+9-120-38-1,ghod1238,Godoberi,984,муху,CyrillTrans,work,,,muxu,Phonemic
+9-110-38-1,ghod1238,Godoberi,2575,иᴴгьи,CyrillTrans,"do, make",,,iⁿhi,Phonemic
+8-980-38-1,ghod1238,Godoberi,641,гІурдахІани,CyrillTrans,mushroom,,,"ʕurdaħani, š̄aytʼunƛi tʼatʼa",Phonemic
+8-980-38-3,ghod1238,Godoberi,641,щайтІунлІи тІатІа,CyrillTrans,mushroom,,,"ʕurdaħani, š̄aytʼunƛi tʼatʼa",Phonemic
+8-970-38-1,ghod1238,Godoberi,33,белъира,CyrillTrans,nettle,,,beɬira,Phonemic
+8-940-38-1,ghod1238,Godoberi,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-38-1,ghod1238,Godoberi,864,хъабахъи,CyrillTrans,"pumpkin, squash",,,qabaqi,Phonemic
+8-930-38-1,ghod1238,Godoberi,411,хъабахъи,CyrillTrans,gourd,,,qabaqi,Phonemic
+8-910-38-1,ghod1238,Godoberi,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-38-1,ghod1238,Godoberi,346,инжирилІи руша,CyrillTrans,banyan,,,inžiriƛi ruša,Phonemic
+8-840-38-1,ghod1238,Godoberi,868,бананилІи руша,CyrillTrans,banana tree,,,bananiƛi ruša,Phonemic
+8-830-38-1,ghod1238,Godoberi,1126,цитрусилІи перхъи,CyrillTrans,citrus fruit,,,citrusiƛi peqi,Phonemic
+8-820-38-1,ghod1238,Godoberi,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-38-1,ghod1238,Godoberi,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-38-1,ghod1238,Godoberi,345,лълъени,CyrillTrans,sap,,,ɬ̄eni,Phonemic
+8-750-38-1,ghod1238,Godoberi,1204,хъали,CyrillTrans,bark,,,qali,Phonemic
+8-740-38-1,ghod1238,Godoberi,409,бикьидибу гьала,CyrillTrans,forked branch,,,biƛ̄ʼidibu hala,Phonemic
+8-730-38-1,ghod1238,Godoberi,344,рушилІи чІума,CyrillTrans,tree trunk,,,rušiƛi čʼuma,Phonemic
+8-720-38-1,ghod1238,Godoberi,241,хІанкІвара,CyrillTrans,tree stump,,,ħankʼʷara,Phonemic
+8-691-38-1,ghod1238,Godoberi,1124,муштукІу,CyrillTrans,pipe,,,muštukʼu,Phonemic
+8-690-38-1,ghod1238,Godoberi,1689,тамакулІи ссури,CyrillTrans,smoke (tobacco),,,tamakuƛi s̄uri,Phonemic
+8-680-38-1,ghod1238,Godoberi,974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-38-1,ghod1238,Godoberi,343,чечилʼ,CyrillTrans,vine,,,"čečilʲ, ɣapu",Phonemic
+8-670-38-3,ghod1238,Godoberi,343,гъапу,CyrillTrans,vine,,,"čečilʲ, ɣapu",Phonemic
+8-650-38-1,ghod1238,Godoberi,1915,кваᴴйи,CyrillTrans,fir,,,kʷaⁿyi,Phonemic
+8-640-38-1,ghod1238,Godoberi,1740,кваᴴйи,CyrillTrans,pine,,,kʷaⁿyi,Phonemic
+8-630-38-1,ghod1238,Godoberi,1855,бехуй,CyrillTrans,birch,,,bexuy,Phonemic
+8-620-38-1,ghod1238,Godoberi,1950,чинари,CyrillTrans,beech,,,činari,Phonemic
+8-610-38-1,ghod1238,Godoberi,644,бечІуха руша,CyrillTrans,oak,,,bečʼuxa ruša,Phonemic
+8-600-38-1,ghod1238,Godoberi,906,руша,CyrillTrans,tree,,,ruša,Phonemic
+8-570-38-1,ghod1238,Godoberi,239,гигим,CyrillTrans,flower,,,gigim,Phonemic
+8-560-38-1,ghod1238,Godoberi,628,халъаб,CyrillTrans,leaf,,,xaɬab,Phonemic
+8-550-38-1,ghod1238,Godoberi,1531,гьала,CyrillTrans,branch,,,hala,Phonemic
+8-540-38-1,ghod1238,Godoberi,670,гьикьим,CyrillTrans,root,,,hiƛ̄ʼim,Phonemic
+8-531-38-1,ghod1238,Godoberi,1486,бижани,CyrillTrans,plant (vb),,,bižani,Phonemic
+8-520-38-1,ghod1238,Godoberi,342,гьунчІа,CyrillTrans,hay,,,hunčʼa,Phonemic
+8-530-38-1,ghod1238,Godoberi,653,беси,CyrillTrans,plant (noun),,,besi,Phonemic
+8-510-38-1,ghod1238,Godoberi,606,беси,CyrillTrans,grass,,,besi,Phonemic
+8-480-38-1,ghod1238,Godoberi,926,пуло,CyrillTrans,rice,,,pulo,Phonemic
+8-470-38-1,ghod1238,Godoberi,506,хІежинкІʼа,CyrillTrans,"maize, corn",,,ħežinkʼʲa,Phonemic
+8-460-38-1,ghod1238,Godoberi,60,ниха,CyrillTrans,oats,,,nixa,Phonemic
+8-450-38-1,ghod1238,Godoberi,23,бугІа,CyrillTrans,rye,,,"buʕa, mua",Phonemic
+8-450-38-3,ghod1238,Godoberi,23,муа,CyrillTrans,rye,,,"buʕa, mua",Phonemic
+8-430-38-1,ghod1238,Godoberi,1077,къеру,CyrillTrans,wheat,,,qʼeru,Phonemic
+8-440-38-1,ghod1238,Godoberi,932,бечІин,CyrillTrans,barley,,,bečʼin,Phonemic
+8-420-38-1,ghod1238,Godoberi,605,миха,CyrillTrans,"grain (barley, oats etc)",,,"mixa, muhi",Phonemic
+8-420-38-3,ghod1238,Godoberi,605,мугьи,CyrillTrans,"grain (barley, oats etc)",,,"mixa, muhi",Phonemic
+8-410-38-1,ghod1238,Godoberi,611,бачІин,CyrillTrans,"crop, harvest",,,bačʼin,Phonemic
+8-350-38-1,ghod1238,Godoberi,223,гьинццу,CyrillTrans,threshing-floor,,,hinc̄u,Phonemic
+8-340-38-1,ghod1238,Godoberi,285,лали бухи,CyrillTrans,thresh,,,lali buxi,Phonemic
+8-330-38-1,ghod1238,Godoberi,2132,хъантІуро,CyrillTrans,"sickle, scythe",,,qantʼuro,Phonemic
+8-320-38-1,ghod1238,Godoberi,190,хханни,CyrillTrans,"mow, reap",,,x̄anni,Phonemic
+8-311-38-1,ghod1238,Godoberi,714,шуни,CyrillTrans,seed,,,šuni,Phonemic
+8-310-38-1,ghod1238,Godoberi,748,шанши,CyrillTrans,sow,,,"šanši, beƛ̄ʼi",Phonemic
+8-310-38-3,ghod1238,Godoberi,748,бекьи,CyrillTrans,sow,,,"šanši, beƛ̄ʼi",Phonemic
+8-270-38-1,ghod1238,Godoberi,338,ххадуру,CyrillTrans,rake,,,x̄aduru,Phonemic
+8-260-38-1,ghod1238,Godoberi,337,хвара,CyrillTrans,fork,,,"xʷara, kʼʷanƛ̄ʼa",Phonemic
+8-260-38-3,ghod1238,Godoberi,337,кІванкьа,CyrillTrans,fork,,,"xʷara, kʼʷanƛ̄ʼa",Phonemic
+8-250-38-1,ghod1238,Godoberi,284,гʼаза,CyrillTrans,hoe,,,gʲaza,Phonemic
+8-240-38-1,ghod1238,Godoberi,1901,перччун,CyrillTrans,shovel,,,perč̄un,Phonemic
+8-230-38-1,ghod1238,Godoberi,1176,реххин,CyrillTrans,spade,,,rex̄in,Phonemic
+8-212-38-1,ghod1238,Godoberi,1794,рехъин,CyrillTrans,furrow,,,reqin,Phonemic
+8-220-38-1,ghod1238,Godoberi,1418,хварди,CyrillTrans,dig,,,"xʷardi, tʼurdi, tʼurtʼudi",Phonemic
+8-220-38-3,ghod1238,Godoberi,1418,тІурди,CyrillTrans,dig,,,"xʷardi, tʼurdi, tʼurtʼudi",Phonemic
+8-220-38-5,ghod1238,Godoberi,1418,тІуртІуди,CyrillTrans,dig,,,"xʷardi, tʼurdi, tʼurtʼudi",Phonemic
+8-210-38-1,ghod1238,Godoberi,1921,Боъоли,CyrillTrans,plow,,,boʔoli,Phonemic
+8-170-38-1,ghod1238,Godoberi,2002,рехъин,CyrillTrans,ditch,,,"reqin, xandaqʼi",Phonemic
+8-170-38-3,ghod1238,Godoberi,2002,хандакъи,CyrillTrans,ditch,,,"reqin, xandaqʼi",Phonemic
+8-160-38-1,ghod1238,Godoberi,1690,чали,CyrillTrans,fence,,,čali,Phonemic
+8-150-38-1,ghod1238,Godoberi,1541,хури иᴴгьа бихани,CyrillTrans,"cultivate, till",,,xuri iⁿha bixani,Phonemic
+8-130-38-1,ghod1238,Godoberi,586,ахи,CyrillTrans,garden,,,axi,Phonemic
+8-120-38-1,ghod1238,Godoberi,212,хури,CyrillTrans,field (for cultivation),,,xuri,Phonemic
+8-110-38-1,ghod1238,Godoberi,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-38-1,ghod1238,Godoberi,901,къощи,CyrillTrans,adobe,,,qʼoš̄i,Phonemic
+7-630-38-1,ghod1238,Godoberi,224,гачи,CyrillTrans,mortar,,,gači,Phonemic
+7-620-38-1,ghod1238,Godoberi,1006,кирпичи,CyrillTrans,brick,,,kirpiči,Phonemic
+7-580-38-1,ghod1238,Godoberi,876,кІʼамур,CyrillTrans,arch,,,kʼʲamur,Phonemic
+7-610-38-1,ghod1238,Godoberi,877,къуᴴйи иᴴгьатабу адами,CyrillTrans,mason,,,"qʼuⁿyi iⁿhatabu adami, ančiƛi ustar",Phonemic
+7-610-38-3,ghod1238,Godoberi,877,анчилІи устар,CyrillTrans,mason,,,"qʼuⁿyi iⁿhatabu adami, ančiƛi ustar",Phonemic
+7-570-38-1,ghod1238,Godoberi,1227,ччейи,CyrillTrans,board,,,č̄eyi,Phonemic
+7-560-38-1,ghod1238,Godoberi,281,гьума,CyrillTrans,"post, pole",,,huma,Phonemic
+7-550-38-1,ghod1238,Godoberi,1132,ахиму,CyrillTrans,beam,,,aximu,Phonemic
+7-540-38-1,ghod1238,Godoberi,829,руша,CyrillTrans,rafter,,,ruša,Phonemic
+7-530-38-1,ghod1238,Godoberi,280,ахиму,CyrillTrans,ridgepole,,,aximu,Phonemic
+7-520-38-1,ghod1238,Godoberi,279,хвахвабалІи ламур,CyrillTrans,thatch,,,xʷaxʷabaƛi lamur,Phonemic
+7-510-38-1,ghod1238,Godoberi,769,ламур,CyrillTrans,roof,,,lamur,Phonemic
+7-480-38-1,ghod1238,Godoberi,205,чорчо,CyrillTrans,trough,,,"čorčo, hik̄uba",Phonemic
+7-480-38-3,ghod1238,Godoberi,205,гьиккуба,CyrillTrans,trough,,,"čorčo, hik̄uba",Phonemic
+7-470-38-1,ghod1238,Godoberi,745,рагьал,CyrillTrans,shelf,,,rahal,Phonemic
+7-460-38-1,ghod1238,Godoberi,1273,хІедул чирахъи,CyrillTrans,candle,,,"ħedul čiraqi, š̄iruƛi čiraqi",Phonemic
+7-460-38-3,ghod1238,Godoberi,1273,щирулІи чирахъи,CyrillTrans,candle,,,"ħedul čiraqi, š̄iruƛi čiraqi",Phonemic
+7-450-38-1,ghod1238,Godoberi,2131,чирахъи,CyrillTrans,"lamp, torch",,,čiraqi,Phonemic
+7-440-38-1,ghod1238,Godoberi,1775,устур,CyrillTrans,table,,,ustur,Phonemic
+7-430-38-1,ghod1238,Godoberi,1476,къоштта,CyrillTrans,chair,,,qʼošt̄a,Phonemic
+7-422-38-1,ghod1238,Godoberi,806,иргъван,CyrillTrans,blanket,,,irɣʷan,Phonemic
+7-421-38-1,ghod1238,Godoberi,1044,таргъва,CyrillTrans,pillow,,,tarɣʷa,Phonemic
+7-420-38-1,ghod1238,Godoberi,1663,тахи,CyrillTrans,bed,,,"taxi, kʲarawati",Phonemic
+7-420-38-3,ghod1238,Godoberi,1663,кʼаравати,CyrillTrans,bed,,,"taxi, kʲarawati",Phonemic
+7-370-38-1,ghod1238,Godoberi,1464,милъур(у),CyrillTrans,ladder,,,miɬur(u),Phonemic
+7-330-38-1,ghod1238,Godoberi,1305,мащу,CyrillTrans,chimney,,,maš̄u,Phonemic
+7-320-38-1,ghod1238,Godoberi,859,печи,CyrillTrans,stove,,,peči,Phonemic
+7-310-38-1,ghod1238,Godoberi,185,тавухан,CyrillTrans,fireplace,,,tawuxan,Phonemic
+7-270-38-1,ghod1238,Godoberi,933,къуᴴйи,CyrillTrans,wall,,,qʼuⁿyi,Phonemic
+7-260-38-1,ghod1238,Godoberi,1632,чІабар,CyrillTrans,floor,,,čʼabar,Phonemic
+7-250-38-1,ghod1238,Godoberi,1375,гьингур,CyrillTrans,window,,,hingur,Phonemic
+7-240-38-1,ghod1238,Godoberi,1472,рекІул,CyrillTrans,key,,,rekʼul,Phonemic
+7-231-38-1,ghod1238,Godoberi,1012,чечи,CyrillTrans,"latch, door-bolt",,,čeči,Phonemic
+7-230-38-1,ghod1238,Godoberi,1596,рекІубе,CyrillTrans,lock (noun),,,"rekʼube, rekʼul",Phonemic
+7-230-38-3,ghod1238,Godoberi,1596,рекІул,CyrillTrans,lock (noun),,,"rekʼube, rekʼul",Phonemic
+7-221-38-1,ghod1238,Godoberi,80,чечи,CyrillTrans,"doorpost, jamb",,,čeči,Phonemic
+7-210-38-1,ghod1238,Godoberi,1450,гьанкъу,CyrillTrans,room,,,hanqʼu,Phonemic
+7-220-38-1,ghod1238,Godoberi,1567,гьинццу,CyrillTrans,"door, gate",,,"hinc̄u, kʲawu",Phonemic
+7-220-38-3,ghod1238,Godoberi,1567,кʼаву,CyrillTrans,"door, gate",,,"hinc̄u, kʲawu",Phonemic
+7-180-38-1,ghod1238,Godoberi,335,кулуб,CyrillTrans,meeting house,,,kulub,Phonemic
+7-170-38-1,ghod1238,Godoberi,334,манза иᴴгьатабу гьанкъу,CyrillTrans,cookhouse,,,manza iⁿhatabu hanqʼu,Phonemic
+7-160-38-1,ghod1238,Godoberi,408,кунтІукІʼабелІи гьанкъу,CyrillTrans,men's house,,,kuntʼukʼʲabeƛi hanqʼu,Phonemic
+7-150-38-1,ghod1238,Godoberi,736,чатир,CyrillTrans,"yard, court",,,čatir,Phonemic
+7-140-38-1,ghod1238,Godoberi,1316,чатир,CyrillTrans,tent,,,čatir,Phonemic
+7-131-38-1,ghod1238,Godoberi,403,гьанкъу,CyrillTrans,garden-house,,,hanqʼu,Phonemic
+7-130-38-1,ghod1238,Godoberi,1678,къощи,CyrillTrans,hut,,,qʼoš̄i,Phonemic
+7-120-38-1,ghod1238,Godoberi,1252,гьанкъу,CyrillTrans,house,,,hanqʼu,Phonemic
+7-110-38-1,ghod1238,Godoberi,363,гІумру иᴴгьи,CyrillTrans,"dwell, live",,,ʕumru iⁿhi,Phonemic
+6-960-38-1,ghod1238,Godoberi,1171,матІу,CyrillTrans,mirror,,,matʼu,Phonemic
+6-950-38-1,ghod1238,Godoberi,788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-38-1,ghod1238,Godoberi,1926,мази,CyrillTrans,ointment,,,mazi,Phonemic
+6-930-38-1,ghod1238,Godoberi,151,далак,CyrillTrans,razor,,,dalak,Phonemic
+6-921-38-1,ghod1238,Godoberi,333,бакьи,CyrillTrans,braid,,,baƛ̄ʼi,Phonemic
+6-920-38-1,ghod1238,Godoberi,1821,гьакьу,CyrillTrans,brush,,,haƛ̄ʼu,Phonemic
+6-910-38-1,ghod1238,Godoberi,1475,гьакьу,CyrillTrans,comb,,,haƛ̄ʼu,Phonemic
+6-820-38-1,ghod1238,Godoberi,1021,ракьичал,CyrillTrans,towel,,,raƛ̄ʼičal,Phonemic
+6-810-38-1,ghod1238,Godoberi,332,махъа гьарчІалатабу гʼалухъу,CyrillTrans,"handkerchief, rag",,,maqa harčʼalatabu gʲaluqu,Phonemic
+6-790-38-1,ghod1238,Godoberi,68,накъищи,CyrillTrans,tattoo,,,naqʼiš̄i,Phonemic
+6-780-38-1,ghod1238,Godoberi,330,микъа чІаннатабу даᴴйи,CyrillTrans,"headband, headdress",,,miqʼa čʼannatabu daⁿyi,Phonemic
+6-770-38-1,ghod1238,Godoberi,770,кІиликІи,CyrillTrans,earring,,,kʼilikʼi,Phonemic
+6-760-38-1,ghod1238,Godoberi,1860,миххи,CyrillTrans,bead,,,mix̄i,Phonemic
+6-750-38-1,ghod1238,Godoberi,1961,миххе,CyrillTrans,necklace,,,mix̄e,Phonemic
+6-740-38-1,ghod1238,Godoberi,1754,кваркъин,CyrillTrans,bracelet,,,kʷarqʼin,Phonemic
+6-730-38-1,ghod1238,Godoberi,1374,сетІибещи,CyrillTrans,ring (for finger),,,setʼibeš̄i,Phonemic
+6-720-38-1,ghod1238,Godoberi,1029,ххира анча,CyrillTrans,jewel,,,x̄ira anča,Phonemic
+6-710-38-1,ghod1238,Godoberi,917,накъиш,CyrillTrans,"ornament, adornment",,,naqʼiš,Phonemic
+6-630-38-1,ghod1238,Godoberi,64,чачан бежун,CyrillTrans,pin,,,čačan bežun,Phonemic
+6-620-38-1,ghod1238,Godoberi,757,маргъал,CyrillTrans,button,,,marɣal,Phonemic
+6-610-38-1,ghod1238,Godoberi,1851,чанта,CyrillTrans,pocket,,,čanta,Phonemic
+6-590-38-1,ghod1238,Godoberi,1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-38-1,ghod1238,Godoberi,867,квалъала,CyrillTrans,glove,,,kʷaɬala,Phonemic
+6-570-38-1,ghod1238,Godoberi,772,къвали,CyrillTrans,"belt, girdle",,,qʼʷali,Phonemic
+6-550-38-1,ghod1238,Godoberi,2130,тІатІа,CyrillTrans,"hat, cap",,,tʼatʼa,Phonemic
+6-540-38-1,ghod1238,Godoberi,875,нассӣлІи устар,CyrillTrans,"shoemaker, cobbler",,,nas̄īƛi ustar,Phonemic
+6-510-38-1,ghod1238,Godoberi,1381,насси,CyrillTrans,shoe,,,nas̄i,Phonemic
+6-520-38-1,ghod1238,Godoberi,585,патинкʼа,CyrillTrans,boot,,,patinkʲa,Phonemic
+6-490-38-1,ghod1238,Godoberi,329,таххала,CyrillTrans,"stocking, sock",,,tax̄ala,Phonemic
+6-480-38-1,ghod1238,Godoberi,809,барта,CyrillTrans,trousers,,,barta,Phonemic
+6-461-38-1,ghod1238,Godoberi,328,йупка,CyrillTrans,grass-skirt,,,yupka,Phonemic
+6-460-38-1,ghod1238,Godoberi,1600,йупка,CyrillTrans,skirt,,,yupka,Phonemic
+6-450-38-1,ghod1238,Godoberi,2012,хелулІи гʼару,CyrillTrans,collar,,,xeluƛi gʲaru,Phonemic
+6-440-38-1,ghod1238,Godoberi,1622,хелу,CyrillTrans,shirt,,,xelu,Phonemic
+6-430-38-1,ghod1238,Godoberi,603,палту,CyrillTrans,coat,,,paltu,Phonemic
+6-420-38-1,ghod1238,Godoberi,474,йашикІабелІи хелу,CyrillTrans,woman's dress,,,yašikʼabeƛi xelu,Phonemic
+6-390-38-1,ghod1238,Godoberi,157,нажбар,CyrillTrans,dye,,,nažbar,Phonemic
+6-410-38-1,ghod1238,Godoberi,326,палащ,CyrillTrans,cloak,,,palaš̄,Phonemic
+6-380-38-1,ghod1238,Godoberi,1161,рекун,CyrillTrans,thread,,,rekun,Phonemic
+6-360-38-1,ghod1238,Godoberi,1382,бежун,CyrillTrans,needle,,,bežun,Phonemic
+6-370-38-1,ghod1238,Godoberi,278,гьими,CyrillTrans,awl,,,himi,Phonemic
+6-350-38-1,ghod1238,Godoberi,1457,баккуᴴ,CyrillTrans,sew,,,bak̄uⁿ,Phonemic
+6-340-38-1,ghod1238,Godoberi,1787,ххалатІур,CyrillTrans,loom,,,x̄alatʼur,Phonemic
+6-330-38-1,ghod1238,Godoberi,133,балІи,CyrillTrans,weave,,,"baƛi, bes̄idi",Phonemic
+6-330-38-3,ghod1238,Godoberi,133,бессиди,CyrillTrans,weave,,,"baƛi, bes̄idi",Phonemic
+6-320-38-1,ghod1238,Godoberi,277,мингва,CyrillTrans,spindle,,,mingʷa,Phonemic
+6-310-38-1,ghod1238,Godoberi,121,ххарди,CyrillTrans,spin,,,x̄ardi,Phonemic
+6-290-38-1,ghod1238,Godoberi,629,буки,CyrillTrans,leather,,,"buki, qali",Phonemic
+6-290-38-3,ghod1238,Godoberi,629,хъали,CyrillTrans,leather,,,"buki, qali",Phonemic
+6-280-38-1,ghod1238,Godoberi,580,баса,CyrillTrans,fur,,,"basa, muxu",Phonemic
+6-280-38-3,ghod1238,Godoberi,580,муху,CyrillTrans,fur,,,"basa, muxu",Phonemic
+6-270-38-1,ghod1238,Godoberi,325,буртина,CyrillTrans,felt,,,burtina,Phonemic
+6-250-38-1,ghod1238,Godoberi,1641,дарай,CyrillTrans,silk,,,"daray, hatʼilasi, čilley",Phonemic
+6-250-38-3,ghod1238,Godoberi,1641,гьатІиласи,CyrillTrans,silk,,,"daray, hatʼilasi, čilley",Phonemic
+6-250-38-5,ghod1238,Godoberi,1641,чиллей,CyrillTrans,silk,,,"daray, hatʼilasi, čilley",Phonemic
+6-240-38-1,ghod1238,Godoberi,1850,пампа,CyrillTrans,cotton,,,pampa,Phonemic
+6-230-38-1,ghod1238,Godoberi,916,хІебети,CyrillTrans,"linen, flax",,,ħebeti,Phonemic
+6-220-38-1,ghod1238,Godoberi,964,муху,CyrillTrans,wool,,,muxu,Phonemic
+6-210-38-1,ghod1238,Godoberi,1616,ххами,CyrillTrans,cloth,,,x̄ami,Phonemic
+6-130-38-1,ghod1238,Godoberi,881,изу баккватабу адами,CyrillTrans,tailor,,,izu bak̄ʷatabu adami,Phonemic
+6-120-38-1,ghod1238,Godoberi,1895,изу,CyrillTrans,"clothing, clothes",,,izu,Phonemic
+6-110-38-1,ghod1238,Godoberi,158,изу рали,CyrillTrans,put on (clothes),,,izu rali,Phonemic
+5-971-38-1,ghod1238,Godoberi,1556,ччакку гъаргъану,CyrillTrans,egg yolk,,,č̄ak̄u ɣarɣanu,Phonemic
+5-970-38-1,ghod1238,Godoberi,744,гъаргъану,CyrillTrans,egg,,,ɣarɣanu,Phonemic
+5-940-38-1,ghod1238,Godoberi,404,чІагІа,CyrillTrans,fermented drink,,,čʼaʕa,Phonemic
+5-930-38-1,ghod1238,Godoberi,1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-38-1,ghod1238,Godoberi,1524,чагъир,CyrillTrans,wine,,,čaɣir,Phonemic
+5-910-38-1,ghod1238,Godoberi,941,мед,CyrillTrans,mead,,,med,Phonemic
+5-890-38-1,ghod1238,Godoberi,1245,кІвацІа,CyrillTrans,butter,,,kʼʷacʼa,Phonemic
+5-880-38-1,ghod1238,Godoberi,1569,къвачара,CyrillTrans,cheese,,,qʼʷačara,Phonemic
+5-870-38-1,ghod1238,Godoberi,93,ккʼанни,CyrillTrans,milk (vb),,,k̄ʲanni,Phonemic
+5-850-38-1,ghod1238,Godoberi,862,чакар,CyrillTrans,sugar,,,čakar,Phonemic
+5-860-38-1,ghod1238,Godoberi,635,щиᴴву,CyrillTrans,milk (noun),,,š̄iⁿwu,Phonemic
+5-840-38-1,ghod1238,Godoberi,942,гьунцци,CyrillTrans,honey,,,hunc̄i,Phonemic
+5-821-38-1,ghod1238,Godoberi,919,букьа пурччу,CyrillTrans,chili pepper,,,buƛ̄ʼa purč̄u,Phonemic
+5-820-38-1,ghod1238,Godoberi,1385,пурччу,CyrillTrans,pepper,,,"purč̄u, puč̄u",Phonemic
+5-820-38-3,ghod1238,Godoberi,1385,пуччу,CyrillTrans,pepper,,,"purč̄u, puč̄u",Phonemic
+5-810-38-1,ghod1238,Godoberi,1274,ццаᴴйи,CyrillTrans,salt,,,c̄aⁿyi,Phonemic
+5-791-38-1,ghod1238,Godoberi,323,бегІенлъи,CyrillTrans,"grease, fat",,,"beʕenɬi, šamu",Phonemic
+5-791-38-3,ghod1238,Godoberi,323,шаму,CyrillTrans,"grease, fat",,,"beʕenɬi, šamu",Phonemic
+5-790-38-1,ghod1238,Godoberi,1484,лъирлълъи,CyrillTrans,oil,,,ɬirɬ̄i,Phonemic
+5-780-38-1,ghod1238,Godoberi,1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-38-1,ghod1238,Godoberi,920,кІикІи,CyrillTrans,grape,,,kʼikʼi,Phonemic
+5-770-38-1,ghod1238,Godoberi,191,цІулакъа,CyrillTrans,nut,,,cʼulaqʼa,Phonemic
+5-750-38-1,ghod1238,Godoberi,322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-38-1,ghod1238,Godoberi,1966,квацІир,CyrillTrans,bunch,,,kʷacʼir,Phonemic
+5-710-38-1,ghod1238,Godoberi,1507,перхъи,CyrillTrans,fruit,,,perqi,Phonemic
+5-700-38-1,ghod1238,Godoberi,593,кʼатушкʼа,CyrillTrans,potato,,,kʲatuškʲa,Phonemic
+5-660-38-1,ghod1238,Godoberi,832,гьали,CyrillTrans,bean,,,"hali, čʼeʕerhali",Phonemic
+5-660-38-3,ghod1238,Godoberi,832,чІегІергьали,CyrillTrans,bean,,,"hali, čʼeʕerhali",Phonemic
+5-650-38-1,ghod1238,Godoberi,924,пихъ-мичІ,CyrillTrans,vegetables,,,piq-mičʼ,Phonemic
+5-640-38-1,ghod1238,Godoberi,1547,чорпа,CyrillTrans,"soup, broth",,,čorpa,Phonemic
+5-630-38-1,ghod1238,Godoberi,1874,ччакква,CyrillTrans,sausage,,,č̄ak̄ʷa,Phonemic
+5-610-38-1,ghod1238,Godoberi,634,рикьи,CyrillTrans,meat,,,riƛ̄ʼi,Phonemic
+5-590-38-1,ghod1238,Godoberi,225,ражихъан,CyrillTrans,pestle,,,ražiqan,Phonemic
+5-580-38-1,ghod1238,Godoberi,224,ражихъан,CyrillTrans,mortar (2),,,ražiqan,Phonemic
+5-570-38-1,ghod1238,Godoberi,636,хвабу,CyrillTrans,mill,,,xʷabu,Phonemic
+5-560-38-1,ghod1238,Godoberi,1033,гъурди,CyrillTrans,"crush, grind",,,ɣurdi,Phonemic
+5-550-38-1,ghod1238,Godoberi,1594,гьатІи,CyrillTrans,"meal, flour",,,hatʼi,Phonemic
+5-540-38-1,ghod1238,Godoberi,274,(гьатІи) бегъали,CyrillTrans,knead,,,(hatʼi) beɣali,Phonemic
+5-530-38-1,ghod1238,Godoberi,273,гьатІи,CyrillTrans,dough,,,hatʼi,Phonemic
+5-510-38-1,ghod1238,Godoberi,1368,рецІи,CyrillTrans,bread,,,recʼi,Phonemic
+5-490-38-1,ghod1238,Godoberi,2017,гьабажали,CyrillTrans,"stir, mix",,,habažali,Phonemic
+5-480-38-1,ghod1238,Godoberi,1767,лІулІаби,CyrillTrans,scrape,,,ƛuƛabi,Phonemic
+5-470-38-1,ghod1238,Godoberi,86,сусукІи,CyrillTrans,"sieve, strain",,,susukʼi,Phonemic
+5-460-38-1,ghod1238,Godoberi,275,гьарчІали,CyrillTrans,peel,,,harčʼali,Phonemic
+5-450-38-1,ghod1238,Godoberi,1833,бугилъиссу манза,CyrillTrans,supper,,,bugiɬis̄u manza,Phonemic
+5-440-38-1,ghod1238,Godoberi,1833,лъеслссу манза,CyrillTrans,dinner,,,ɬēls̄u manza,Phonemic
+5-420-38-1,ghod1238,Godoberi,1322,рахакьиссу манза,CyrillTrans,breakfast,,,raxaƛ̄ʼis̄u manza,Phonemic
+5-410-38-1,ghod1238,Godoberi,1526,манза,CyrillTrans,meal (a),,,manza,Phonemic
+5-391-38-1,ghod1238,Godoberi,272,гъуцІу,CyrillTrans,tongs,,,ɣucʼu,Phonemic
+5-390-38-1,ghod1238,Godoberi,1302,хвара,CyrillTrans,fork (2),,,xʷara,Phonemic
+5-380-38-1,ghod1238,Godoberi,1352,бесун,CyrillTrans,knife (2),,,besun,Phonemic
+5-370-38-1,ghod1238,Godoberi,1378,гъеру,CyrillTrans,spoon,,,ɣeru,Phonemic
+5-360-38-1,ghod1238,Godoberi,271,чини,CyrillTrans,saucer,,,čini,Phonemic
+5-330-38-1,ghod1238,Godoberi,1530,гярда,CyrillTrans,bowl,,,gʲarda,Phonemic
+5-340-38-1,ghod1238,Godoberi,270,занххи,CyrillTrans,"pitcher, jug",,,zanx̄i,Phonemic
+5-320-38-1,ghod1238,Godoberi,480,чІи,CyrillTrans,plate,,,čʼi,Phonemic
+5-310-38-1,ghod1238,Godoberi,481,чини,CyrillTrans,dish,,,čini,Phonemic
+5-280-38-1,ghod1238,Godoberi,31,чаги,CyrillTrans,pan,,,čagi,Phonemic
+5-260-38-1,ghod1238,Godoberi,1462,хъаба,CyrillTrans,"pot, cooking vessel",,,qaba,Phonemic
+5-270-38-1,ghod1238,Godoberi,854,чайники,CyrillTrans,kettle,,,"čayniki, čanikʼi",Phonemic
+5-270-38-3,ghod1238,Godoberi,854,чаникІи,CyrillTrans,kettle,,,"čayniki, čanikʼi",Phonemic
+5-240-38-1,ghod1238,Godoberi,183,бежиᴴ,CyrillTrans,bake,,,bežiⁿ,Phonemic
+5-250-38-1,ghod1238,Godoberi,1143,печʼ,CyrillTrans,oven,,,pečʲ,Phonemic
+5-230-38-1,ghod1238,Godoberi,2146,бежи,CyrillTrans,"roast, fry",,,"beži, beš̄i, bežiⁿ",Phonemic
+5-230-38-3,ghod1238,Godoberi,2146,бещи,CyrillTrans,"roast, fry",,,"beži, beš̄i, bežiⁿ",Phonemic
+5-230-38-5,ghod1238,Godoberi,2146,бежиᴴ,CyrillTrans,"roast, fry",,,"beži, beš̄i, bežiⁿ",Phonemic
+5-220-38-1,ghod1238,Godoberi,792,цІатали,CyrillTrans,boil (vb),,,"cʼatali, aⁿwuxali",Phonemic
+5-220-38-3,ghod1238,Godoberi,792,аᴴвухали,CyrillTrans,boil (vb),,,"cʼatali, aⁿwuxali",Phonemic
+5-210-38-1,ghod1238,Godoberi,1100,билъиᴴ,CyrillTrans,cook,,,biɬiⁿ,Phonemic
+5-190-38-1,ghod1238,Godoberi,129,гъанкъали,CyrillTrans,choke,,,ɣanqʼali,Phonemic
+5-181-38-1,ghod1238,Godoberi,897,букин,CyrillTrans,swallow,,,"bukin, buk̄iⁿ",Phonemic
+5-181-38-3,ghod1238,Godoberi,897,буккиᴴ,CyrillTrans,swallow,,,"bukin, buk̄iⁿ",Phonemic
+5-180-38-1,ghod1238,Godoberi,321,чІамчІади,CyrillTrans,chew,,,čʼamčʼadi,Phonemic
+5-160-38-1,ghod1238,Godoberi,1421,ццунни,CyrillTrans,suck,,,c̄unni,Phonemic
+5-150-38-1,ghod1238,Godoberi,848,гьанкъихир,CyrillTrans,thirst,,,"hanqʼixir, hanqʼasir",Phonemic
+5-150-38-3,ghod1238,Godoberi,848,гьанкъасир,CyrillTrans,thirst,,,"hanqʼixir, hanqʼasir",Phonemic
+5-141-38-1,ghod1238,Godoberi,199,маквалъир,CyrillTrans,famine,,,"makʷaɬir, makʷas̄ir",Phonemic
+5-141-38-3,ghod1238,Godoberi,199,маквассир,CyrillTrans,famine,,,"makʷaɬir, makʷas̄ir",Phonemic
+5-140-38-1,ghod1238,Godoberi,1864,маквалъир,CyrillTrans,hunger,,,"makʷaɬir, makʷas̄ir",Phonemic
+5-140-38-3,ghod1238,Godoberi,1864,маквассир,CyrillTrans,hunger,,,"makʷaɬir, makʷas̄ir",Phonemic
+5-130-38-1,ghod1238,Godoberi,1401,ххуди,CyrillTrans,drink,,,x̄udi,Phonemic
+5-125-38-1,ghod1238,Godoberi,1728,таннибу,CyrillTrans,rotten,,,tannibu,Phonemic
+5-124-38-1,ghod1238,Godoberi,1958,биичІибу,CyrillTrans,"green, unripe",,,"biʔičʼibu, žaɣalɬi",Phonemic
+5-124-38-3,ghod1238,Godoberi,1958,жагъаллъи,CyrillTrans,"green, unripe",,,"biʔičʼibu, žaɣalɬi",Phonemic
+5-123-38-1,ghod1238,Godoberi,178,биабу,CyrillTrans,ripe,,,biabu,Phonemic
+5-122-38-1,ghod1238,Godoberi,1959,биччи,CyrillTrans,raw,,,bič̄i,Phonemic
+5-121-38-1,ghod1238,Godoberi,269,билъаму,CyrillTrans,cooked,,,biɬamu,Phonemic
+5-120-38-1,ghod1238,Godoberi,256,амидаан,CyrillTrans,food,,,"amidaʔan, manza",Phonemic
+5-120-38-3,ghod1238,Godoberi,256,манза,CyrillTrans,food,,,"amidaʔan, manza",Phonemic
+5-110-38-1,ghod1238,Godoberi,1336,икуᴴ,CyrillTrans,eat,,,ikuⁿ,Phonemic
+4-990-38-1,ghod1238,Godoberi,590,къуликъачицциму,CyrillTrans,"naked, bare",,,qʼuliqʼačic̄imu,Phonemic
+4-970-38-1,ghod1238,Godoberi,1653,кванукъу,CyrillTrans,blind,,,"kʷanuqʼu, zaqu",Phonemic
+4-970-38-3,ghod1238,Godoberi,1653,захъу,CyrillTrans,blind,,,"kʷanuqʼu, zaqu",Phonemic
+4-980-38-1,ghod1238,Godoberi,1463,вогулъибу,CyrillTrans,intoxicated,,,woguɬibu,Phonemic
+4-960-38-1,ghod1238,Godoberi,1666,мицци биъичІибу,CyrillTrans,mute,,,mic̄i biʔičʼibu,Phonemic
+4-950-38-1,ghod1238,Godoberi,996,гьаникъул,CyrillTrans,deaf,,,haniqʼul,Phonemic
+4-930-38-1,ghod1238,Godoberi,1125,кІвартІаси,CyrillTrans,bald,,,"kʼʷartʼasi, s̄innibu",Phonemic
+4-930-38-3,ghod1238,Godoberi,1125,ссиннибу,CyrillTrans,bald,,,"kʼʷartʼasi, s̄innibu",Phonemic
+4-940-38-1,ghod1238,Godoberi,320,рекъвалъи,CyrillTrans,lame,,,reqʼʷaɬi,Phonemic
+4-920-38-1,ghod1238,Godoberi,1564,кІвахІала,CyrillTrans,lazy,,,kʼʷaħala,Phonemic
+4-912-38-1,ghod1238,Godoberi,168,шани,CyrillTrans,rest,,,šani,Phonemic
+4-910-38-1,ghod1238,Godoberi,1757,ссакваму,CyrillTrans,"tired, weary",,,s̄akʷamu,Phonemic
+4-890-38-1,ghod1238,Godoberi,655,зайру,CyrillTrans,poison,,,"zayru, zahuru",Phonemic
+4-890-38-3,ghod1238,Godoberi,655,загьуру,CyrillTrans,poison,,,"zayru, zahuru",Phonemic
+4-880-38-1,ghod1238,Godoberi,1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-38-3,ghod1238,Godoberi,1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-38-5,ghod1238,Godoberi,1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-38-1,ghod1238,Godoberi,597,тохтор,CyrillTrans,physician,,,"toxtor, warač",Phonemic
+4-870-38-3,ghod1238,Godoberi,597,варач,CyrillTrans,physician,,,"toxtor, warač",Phonemic
+4-860-38-1,ghod1238,Godoberi,499,чадали,CyrillTrans,"cure, heal",,,čadali,Phonemic
+4-858-38-1,ghod1238,Godoberi,497,букъибу муса анжи,CyrillTrans,scar,,,"buqʼibu musa anži, s̄al",Phonemic
+4-858-38-3,ghod1238,Godoberi,497,ссал,CyrillTrans,scar,,,"buqʼibu musa anži, s̄al",Phonemic
+4-857-38-1,ghod1238,Godoberi,1808,танир,CyrillTrans,pus,,,"tanir, rec̄a",Phonemic
+4-857-38-3,ghod1238,Godoberi,1808,рецца,CyrillTrans,pus,,,"tanir, rec̄a",Phonemic
+4-856-38-1,ghod1238,Godoberi,793,къвачІа,CyrillTrans,boil (noun),,,qʼʷačʼa,Phonemic
+4-855-38-1,ghod1238,Godoberi,1584,пули,CyrillTrans,blister,,,puli,Phonemic
+4-854-38-1,ghod1238,Godoberi,148,хъазан,CyrillTrans,itch,,,qazan,Phonemic
+4-853-38-1,ghod1238,Godoberi,1903,гьабахир,CyrillTrans,swelling,,,habaxir,Phonemic
+4-852-38-1,ghod1238,Godoberi,1148,хъайилІа,CyrillTrans,bruise,,,qayiƛa,Phonemic
+4-850-38-1,ghod1238,Godoberi,1109,анлълъа,CyrillTrans,"wound, sore",,,anɬ̄a,Phonemic
+4-843-38-1,ghod1238,Godoberi,102,вагъашир,CyrillTrans,cold (catarrh),,,waɣašir,Phonemic
+4-842-38-1,ghod1238,Godoberi,1957,кІуру,CyrillTrans,goiter,,,"kʼuru, ɣutʼu",Phonemic
+4-842-38-3,ghod1238,Godoberi,1957,гъутІу,CyrillTrans,goiter,,,"kʼuru, ɣutʼu",Phonemic
+4-841-38-1,ghod1238,Godoberi,1534,ихумакІу балъи,CyrillTrans,fever,,,ixumakʼu baɬi,Phonemic
+4-840-38-1,ghod1238,Godoberi,1847,жабир,CyrillTrans,"sick, sickness",,,žabir,Phonemic
+4-830-38-1,ghod1238,Godoberi,1364,сахлъи,CyrillTrans,"well, health",,,"saxɬi, saxaw",Phonemic
+4-830-38-3,ghod1238,Godoberi,1364,сахаб,CyrillTrans,"well, health",,,"saxɬi, saxaw",Phonemic
+4-820-38-1,ghod1238,Godoberi,1601,тухав,CyrillTrans,weak,,,"tuxaw, zaʕipab",Phonemic
+4-820-38-3,ghod1238,Godoberi,1601,загІипаб,CyrillTrans,weak,,,"tuxaw, zaʕipab",Phonemic
+4-810-38-1,ghod1238,Godoberi,785,къубатав,CyrillTrans,"strong, mighty, powerful",,,"qʼubataw, gučaw, kutakʲaw",Phonemic
+4-810-38-3,ghod1238,Godoberi,785,гучав,CyrillTrans,"strong, mighty, powerful",,,"qʼubataw, gučaw, kutakʲaw",Phonemic
+4-810-38-5,ghod1238,Godoberi,785,кутакʼав,CyrillTrans,"strong, mighty, powerful",,,"qʼubataw, gučaw, kutakʲaw",Phonemic
+4-790-38-1,ghod1238,Godoberi,1773,шубу,CyrillTrans,"grave, tomb",,,šubu,Phonemic
+4-780-38-1,ghod1238,Godoberi,1719,шудалалъи вукІали,CyrillTrans,bury (the dead),,,šudalaɬi wukʼali,Phonemic
+4-770-38-1,ghod1238,Godoberi,767,бичІабу къаркъала,CyrillTrans,corpse,,,bičʼabu qʼarqʼala,Phonemic
+4-760-38-1,ghod1238,Godoberi,1417,ккванни,CyrillTrans,kill,,,k̄ʷanni,Phonemic
+4-751-38-1,ghod1238,Godoberi,1904,гъанкъибу,CyrillTrans,drowned,,,ɣanqʼibu,Phonemic
+4-750-38-1,ghod1238,Godoberi,1494,бичІи,CyrillTrans,"die, dead",,,"bičʼi, bičʼabu",Phonemic
+4-750-38-3,ghod1238,Godoberi,1494,бичІабу,CyrillTrans,"die, dead",,,"bičʼi, bičʼabu",Phonemic
+4-740-38-1,ghod1238,Godoberi,1422,гІумру игьи,CyrillTrans,"live, living, life",,,"ʕumru ihi, čʼagoyab, ʕumru",Phonemic
+4-740-38-3,ghod1238,Godoberi,1422,чІагуйаб,CyrillTrans,"live, living, life",,,"ʕumru ihi, čʼagoyab, ʕumru",Phonemic
+4-740-38-5,ghod1238,Godoberi,1422,гІумру,CyrillTrans,"live, living, life",,,"ʕumru ihi, čʼagoyab, ʕumru",Phonemic
+4-732-38-1,ghod1238,Godoberi,1087,йахин йилІи,CyrillTrans,conceive,,,yaxin yiƛi,Phonemic
+4-730-38-1,ghod1238,Godoberi,1123,йахиᴴ,CyrillTrans,pregnant,,,yaxiⁿ,Phonemic
+4-720-38-1,ghod1238,Godoberi,1090,бахиᴴ,CyrillTrans,born (to be),,,baxiⁿ,Phonemic
+4-710-38-1,ghod1238,Godoberi,1152,ӣгьи,CyrillTrans,beget (of father),,,īhi,Phonemic
+4-690-38-1,ghod1238,Godoberi,138,возиᴴ,CyrillTrans,bathe,,,woziⁿ,Phonemic
+4-680-38-1,ghod1238,Godoberi,52,сиридалъи гиргиси,CyrillTrans,shiver,,,siridaɬi girgisi,Phonemic
+4-670-38-1,ghod1238,Godoberi,1785,банди,CyrillTrans,have sexual intercourse,,,bandi,Phonemic
+4-660-38-1,ghod1238,Godoberi,676,чаби,CyrillTrans,defecate,,,čabi,Phonemic
+4-650-38-1,ghod1238,Godoberi,592,гьикІущи,CyrillTrans,urinate,,,hikʼuš̄i,Phonemic
+4-640-38-1,ghod1238,Godoberi,1159,цайи тІами,CyrillTrans,break wind,,,cayi tʼami,Phonemic
+4-630-38-1,ghod1238,Godoberi,1602,вулли,CyrillTrans,wake up,,,wulli,Phonemic
+4-620-38-1,ghod1238,Godoberi,1920,макьу гьаи,CyrillTrans,dream,,,maƛ̄ʼu hai,Phonemic
+4-612-38-1,ghod1238,Godoberi,1983,ххванххвасалІи,CyrillTrans,snore,,,x̄ʷanx̄ʷasaƛi,Phonemic
+4-610-38-1,ghod1238,Godoberi,1585,гъуми,CyrillTrans,sleep,,,ɣumi,Phonemic
+4-591-38-1,ghod1238,Godoberi,268,тата бештти,CyrillTrans,dribble,,,tata bešt̄i,Phonemic
+4-590-38-1,ghod1238,Godoberi,319,лами,CyrillTrans,lick,,,lami,Phonemic
+4-580-38-1,ghod1238,Godoberi,1403,къами,CyrillTrans,bite,,,qʼami,Phonemic
+4-570-38-1,ghod1238,Godoberi,1278,кІаркІадалъи,CyrillTrans,vomit,,,kʼarkʼadaɬi,Phonemic
+4-560-38-1,ghod1238,Godoberi,1440,ахтата,CyrillTrans,spit,,,"axtata, tutudi",Phonemic
+4-560-38-3,ghod1238,Godoberi,1440,тутуди,CyrillTrans,spit,,,"axtata, tutudi",Phonemic
+4-550-38-1,ghod1238,Godoberi,126,гьанла чиби,CyrillTrans,perspire,,,hanla čibi,Phonemic
+4-540-38-1,ghod1238,Godoberi,1621,хІинчиди,CyrillTrans,sneeze,,,ħinčidi,Phonemic
+4-530-38-1,ghod1238,Godoberi,879,охІуди,CyrillTrans,cough,,,oħudi,Phonemic
+4-521-38-1,ghod1238,Godoberi,162,гьэ̄сали,CyrillTrans,hiccough,,,hēsali,Phonemic
+4-520-38-1,ghod1238,Godoberi,1028,цІамуцІил гьамгьади,CyrillTrans,"yawn, gape",,,cʼamucʼil hamhadi,Phonemic
+4-510-38-1,ghod1238,Godoberi,1407,хІухьел бухи,CyrillTrans,"breathe, breath",,,ħux̌el buxi,Phonemic
+4-492-38-1,ghod1238,Godoberi,1222,кІукІуци,CyrillTrans,penis,,,kʼukʼuci,Phonemic
+4-490-38-1,ghod1238,Godoberi,797,хІундул,CyrillTrans,testicle,,,ħundul,Phonemic
+4-470-38-1,ghod1238,Godoberi,804,бешен,CyrillTrans,womb,,,bešen,Phonemic
+4-464-38-1,ghod1238,Godoberi,834,гуги,CyrillTrans,buttocks,,,gugi,Phonemic
+4-463-38-1,ghod1238,Godoberi,1745,ахъу,CyrillTrans,hip,,,"aqu, reɣilʲ",Phonemic
+4-463-38-3,ghod1238,Godoberi,1745,регъил,CyrillTrans,hip,,,"aqu, reɣilʲ",Phonemic
+4-462-38-1,ghod1238,Godoberi,1681,бакьар,CyrillTrans,waist,,,baƛ̄ʼar,Phonemic
+4-461-38-1,ghod1238,Godoberi,1991,ччакква,CyrillTrans,"intestines, guts",,,č̄ak̄ʷa,Phonemic
+4-460-38-1,ghod1238,Godoberi,819,хвабу,CyrillTrans,stomach,,,xʷabu,Phonemic
+4-452-38-1,ghod1238,Godoberi,1744,исибалассу,CyrillTrans,spleen,,,isibalas̄u,Phonemic
+4-451-38-1,ghod1238,Godoberi,489,ккуᴴйи,CyrillTrans,kidney,,,k̄uⁿyi,Phonemic
+4-450-38-1,ghod1238,Godoberi,1224,лелилІа,CyrillTrans,liver,,,leliƛa,Phonemic
+4-441-38-1,ghod1238,Godoberi,688,гьилапана ххунссир,CyrillTrans,lung,,,hilapana x̄uns̄ir,Phonemic
+4-440-38-1,ghod1238,Godoberi,1223,ракІва,CyrillTrans,heart,,,rakʼʷa,Phonemic
+4-430-38-1,ghod1238,Godoberi,1838,ццуᴴйи,CyrillTrans,navel,,,c̄uⁿyi,Phonemic
+4-420-38-1,ghod1238,Godoberi,154,кора,CyrillTrans,udder,,,kora,Phonemic
+4-412-38-1,ghod1238,Godoberi,796,мицци,CyrillTrans,"nipple, teat",,,mic̄i,Phonemic
+4-410-38-1,ghod1238,Godoberi,1402,кʼакʼа,CyrillTrans,breast (of woman),,,kʲakʲa,Phonemic
+4-400-38-1,ghod1238,Godoberi,1592,нихи,CyrillTrans,chest,,,nixi,Phonemic
+4-393-38-1,ghod1238,Godoberi,1201,перу,CyrillTrans,feather,,,peru,Phonemic
+4-392-38-1,ghod1238,Godoberi,1257,лъеру,CyrillTrans,wing,,,ɬeru,Phonemic
+4-380-38-1,ghod1238,Godoberi,1389,сетІилʼ,CyrillTrans,toe,,,setʼilʲ,Phonemic
+4-374-38-1,ghod1238,Godoberi,318,лъали,CyrillTrans,footprint,,,ɬali,Phonemic
+4-372-38-1,ghod1238,Godoberi,980,мижу,CyrillTrans,heel,,,mižu,Phonemic
+4-371-38-1,ghod1238,Godoberi,803,щиквар,CyrillTrans,ankle,,,š̄ikʷar,Phonemic
+4-370-38-1,ghod1238,Godoberi,1301,мижу,CyrillTrans,foot,,,mižu,Phonemic
+4-360-38-1,ghod1238,Godoberi,1371,нуку,CyrillTrans,knee,,,nuku,Phonemic
+4-352-38-1,ghod1238,Godoberi,498,бишерегъил,CyrillTrans,calf of leg,,,bišereɣil,Phonemic
+4-351-38-1,ghod1238,Godoberi,800,ахъу,CyrillTrans,thigh,,,aqu,Phonemic
+4-350-38-1,ghod1238,Godoberi,1297,регъилʼ,CyrillTrans,leg,,,reɣilʲ,Phonemic
+4-345-38-1,ghod1238,Godoberi,72,лъумул,CyrillTrans,claw,,,ɬumul,Phonemic
+4-344-38-1,ghod1238,Godoberi,1258,лъумул,CyrillTrans,fingernail,,,ɬumul,Phonemic
+4-342-38-1,ghod1238,Godoberi,1781,им’а сетІил,CyrillTrans,thumb,,,"imʲa setʼil, bečʼuxa setil",Phonemic
+4-342-38-3,ghod1238,Godoberi,1781,бечІуха сетил,CyrillTrans,thumb,,,"imʲa setʼil, bečʼuxa setil",Phonemic
+4-340-38-1,ghod1238,Godoberi,1303,сетІилʼ,CyrillTrans,finger,,,setʼilʲ,Phonemic
+4-331-38-1,ghod1238,Godoberi,1183,хъати,CyrillTrans,palm of hand,,,qati,Phonemic
+4-330-38-1,ghod1238,Godoberi,1277,лела,CyrillTrans,hand,,,lela,Phonemic
+4-321-38-1,ghod1238,Godoberi,799,уркъи,CyrillTrans,wrist,,,urqʼi,Phonemic
+4-320-38-1,ghod1238,Godoberi,981,цІикван,CyrillTrans,elbow,,,cʼikʷan,Phonemic
+4-312-38-1,ghod1238,Godoberi,1886,къвацІалъису муса,CyrillTrans,armpit,,,"qʼʷacʼaɬisu musa, haƛ̄ʼēƛi, qʼʷazuƛ̄ʼi",Phonemic
+4-312-38-3,ghod1238,Godoberi,1886,гьакье̄лІи,CyrillTrans,armpit,,,"qʼʷacʼaɬisu musa, haƛ̄ʼēƛi, qʼʷazuƛ̄ʼi",Phonemic
+4-312-38-5,ghod1238,Godoberi,1886,къвазукьи,CyrillTrans,armpit,,,"qʼʷacʼaɬisu musa, haƛ̄ʼēƛi, qʼʷazuƛ̄ʼi",Phonemic
+4-310-38-1,ghod1238,Godoberi,1673,лела,CyrillTrans,arm,,,"lela, ɣaži",Phonemic
+4-310-38-3,ghod1238,Godoberi,1673,гъажи,CyrillTrans,arm,,,"lela, ɣaži",Phonemic
+4-302-38-1,ghod1238,Godoberi,1994,ссологІучІ,CyrillTrans,collarbone,,,s̄oloʕučʼ,Phonemic
+4-301-38-1,ghod1238,Godoberi,172,реххин,CyrillTrans,shoulderblade,,,rex̄in,Phonemic
+4-300-38-1,ghod1238,Godoberi,1482,гъажи,CyrillTrans,shoulder,,,ɣaži,Phonemic
+4-290-38-1,ghod1238,Godoberi,1346,къванкъватІил,CyrillTrans,throat,,,qʼʷanqʼʷatʼil,Phonemic
+4-281-38-1,ghod1238,Godoberi,1347,гъванща,CyrillTrans,nape of neck,,,ɣʷanš̄a,Phonemic
+4-280-38-1,ghod1238,Godoberi,1333,гʼару,CyrillTrans,neck,,,gʲaru,Phonemic
+4-272-38-1,ghod1238,Godoberi,1049,сукІи,CyrillTrans,molartooth,,,sukʼi,Phonemic
+4-270-38-1,ghod1238,Godoberi,1380,сукІи,CyrillTrans,tooth,,,sukʼi,Phonemic
+4-271-38-1,ghod1238,Godoberi,139,таме,CyrillTrans,gums,,,tame,Phonemic
+4-260-38-1,ghod1238,Godoberi,1205,мицци,CyrillTrans,tongue,,,mic̄i,Phonemic
+4-250-38-1,ghod1238,Godoberi,478,гурчи,CyrillTrans,lip,,,gurči,Phonemic
+4-241-38-1,ghod1238,Godoberi,73,гозо,CyrillTrans,beak,,,gozo,Phonemic
+4-240-38-1,ghod1238,Godoberi,674,элли,CyrillTrans,mouth,,,elli,Phonemic
+4-232-38-1,ghod1238,Godoberi,208,махъа,CyrillTrans,mucus (nasal),,,maqa,Phonemic
+4-231-38-1,ghod1238,Godoberi,1178,мигьаралІи къалибе,CyrillTrans,nostril,,,miharaƛi qʼalibe,Phonemic
+4-230-38-1,ghod1238,Godoberi,1221,мигьар,CyrillTrans,nose,,,mihar,Phonemic
+4-222-38-1,ghod1238,Godoberi,32,чІабатІи,CyrillTrans,earwax,,,čʼabatʼi,Phonemic
+4-221-38-1,ghod1238,Godoberi,18,гьантІукІʼа,CyrillTrans,earlobe,,,hantʼukʼʲa,Phonemic
+4-220-38-1,ghod1238,Godoberi,1247,гьантІукІʼа,CyrillTrans,ear,,,hantʼukʼʲa,Phonemic
+4-215-38-1,ghod1238,Godoberi,1655,лабкъида,CyrillTrans,blink,,,labqʼidi,Phonemic
+4-214-38-1,ghod1238,Godoberi,1540,ниди,CyrillTrans,eyelash,,,nidi,Phonemic
+4-213-38-1,ghod1238,Godoberi,17,гьабелІи лакьур,CyrillTrans,eyelid,,,habeƛi laƛ̄ʼur,Phonemic
+4-212-38-1,ghod1238,Godoberi,1173,кьинссир,CyrillTrans,eyebrow,,,ƛ̄ʼins̄ir,Phonemic
+4-210-38-1,ghod1238,Godoberi,1248,гьайи,CyrillTrans,eye,,,hayi,Phonemic
+4-208-38-1,ghod1238,Godoberi,1730,кІилу,CyrillTrans,cheek,,,kʼilu,Phonemic
+4-209-38-1,ghod1238,Godoberi,1510,гуцуну,CyrillTrans,chin,,,gucunu,Phonemic
+4-205-38-1,ghod1238,Godoberi,123,гьанла,CyrillTrans,forehead,,,hanla,Phonemic
+4-207-38-1,ghod1238,Godoberi,798,гуцуну,CyrillTrans,jaw,,,gucunu,Phonemic
+4-204-38-1,ghod1238,Godoberi,1560,гьали,CyrillTrans,face,,,"hali, s̄untʼur",Phonemic
+4-204-38-3,ghod1238,Godoberi,1560,ссунтІур,CyrillTrans,face,,,"hali, s̄untʼur",Phonemic
+4-203-38-1,ghod1238,Godoberi,1583,ваналІи гьани,CyrillTrans,brain,,,wanaƛi hani,Phonemic
+4-201-38-1,ghod1238,Godoberi,1604,парччи,CyrillTrans,"side of head, temple",,,parč̄i,Phonemic
+4-202-38-1,ghod1238,Godoberi,1605,гвангвара,CyrillTrans,skull,,,gʷangʷara,Phonemic
+4-200-38-1,ghod1238,Godoberi,1256,вани,CyrillTrans,head,,,wani,Phonemic
+4-191-38-1,ghod1238,Godoberi,805,гьоде,CyrillTrans,spine,,,hode,Phonemic
+4-190-38-1,ghod1238,Godoberi,1291,мугъул,CyrillTrans,back,,,muɣul,Phonemic
+4-180-38-1,ghod1238,Godoberi,1220,мигъа,CyrillTrans,tail,,,miɣa,Phonemic
+4-170-38-1,ghod1238,Godoberi,1393,кІʼами,CyrillTrans,horn,,,kʼʲami,Phonemic
+4-162-38-1,ghod1238,Godoberi,801,исибелІи жала,CyrillTrans,rib,,,isibeƛi žala,Phonemic
+4-160-38-1,ghod1238,Godoberi,1394,ракьин,CyrillTrans,bone,,,raƛ̄ʼin,Phonemic
+4-151-38-1,ghod1238,Godoberi,525,гьирилІи щекІи,CyrillTrans,"vein, artery",,,hiriƛi š̄ekʼi,Phonemic
+4-150-38-1,ghod1238,Godoberi,946,гьири,CyrillTrans,blood,,,hiri,Phonemic
+4-146-38-1,ghod1238,Godoberi,576,гъвагъва,CyrillTrans,dandruff,,,ɣʷaɣʷa,Phonemic
+4-145-38-1,ghod1238,Godoberi,36,щина,CyrillTrans,pubic hair,,,š̄ina,Phonemic
+4-144-38-1,ghod1238,Godoberi,189,баса,CyrillTrans,body hair,,,basa,Phonemic
+4-142-38-1,ghod1238,Godoberi,678,мигʼажу,CyrillTrans,beard,,,migʲažu,Phonemic
+4-140-38-1,ghod1238,Godoberi,1040,микъабаса,CyrillTrans,hair (head),,,miqʼabasa,Phonemic
+4-130-38-1,ghod1238,Godoberi,2259,лагʼа,CyrillTrans,flesh,,,lagʲa,Phonemic
+4-120-38-1,ghod1238,Godoberi,763,хъали,CyrillTrans,"skin, hide",,,"qali, buki",Phonemic
+4-120-38-3,ghod1238,Godoberi,763,буки,CyrillTrans,"skin, hide",,,"qali, buki",Phonemic
+4-110-38-1,ghod1238,Godoberi,1480,лагʼа,CyrillTrans,body,,,lagʲa,Phonemic
+3-980-38-1,ghod1238,Godoberi,112,щурункъверкъ,CyrillTrans,turtle,,,š̄urunqʼʷerqʼ,Phonemic
+3-970-38-1,ghod1238,Godoberi,1857,аздагьо,CyrillTrans,"crocodile, alligator",,,azdaho,Phonemic
+3-960-38-1,ghod1238,Godoberi,632,бачаникІи,CyrillTrans,lizard,,,bačanikʼi,Phonemic
+3-950-38-1,ghod1238,Godoberi,503,къуркъу,CyrillTrans,frog,,,qʼurqʼu,Phonemic
+3-940-38-1,ghod1238,Godoberi,1543,цанилли,CyrillTrans,snail,,,"canilli, berkʲaƛi kuši",Phonemic
+3-940-38-3,ghod1238,Godoberi,1543,беркʼалІи куши,CyrillTrans,snail,,,"canilli, berkʲaƛi kuši",Phonemic
+3-930-38-1,ghod1238,Godoberi,607,гъанцІа,CyrillTrans,grasshopper,,,ɣancʼa,Phonemic
+3-920-38-1,ghod1238,Godoberi,1791,сисикІʼан,CyrillTrans,butterfly,,,sisikʼʲan,Phonemic
+3-910-38-1,ghod1238,Godoberi,206,букатабучІалха,CyrillTrans,firefly,,,bukatabučʼalxa,Phonemic
+3-850-38-1,ghod1238,Godoberi,730,беркʼа,CyrillTrans,snake,,,berkʲa,Phonemic
+3-840-38-1,ghod1238,Godoberi,1219,хІапара,CyrillTrans,worm,,,ħapara,Phonemic
+3-832-38-1,ghod1238,Godoberi,1509,кІкІʼара,CyrillTrans,mosquito,,,k̄ʼʲara,Phonemic
+3-831-38-1,ghod1238,Godoberi,95,кІкІʼара,CyrillTrans,"sandfly (midge), gnat",,,k̄ʼʲara,Phonemic
+3-830-38-1,ghod1238,Godoberi,1504,тІунтІу,CyrillTrans,fly,,,tʼuntʼu,Phonemic
+3-823-38-1,ghod1238,Godoberi,1517,зинквата,CyrillTrans,wasp,,,zinkʷata,Phonemic
+3-822-38-1,ghod1238,Godoberi,88,тІала,CyrillTrans,beehive,,,tʼala,Phonemic
+3-821-38-1,ghod1238,Godoberi,1931,щиру,CyrillTrans,beeswax,,,š̄iru,Phonemic
+3-820-38-1,ghod1238,Godoberi,665,пера,CyrillTrans,bee,,,pera,Phonemic
+3-819-38-1,ghod1238,Godoberi,1065,хъанхъара,CyrillTrans,spider web,,,qanqara,Phonemic
+3-818-38-1,ghod1238,Godoberi,843,хъанхъара,CyrillTrans,spider,,,"qanqara, nusaxar",Phonemic
+3-818-38-3,ghod1238,Godoberi,843,нусахар,CyrillTrans,spider,,,"qanqara, nusaxar",Phonemic
+3-817-38-1,ghod1238,Godoberi,587,лъабцца,CyrillTrans,ant,,,ɬabc̄a,Phonemic
+3-816-38-1,ghod1238,Godoberi,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-38-1,ghod1238,Godoberi,1538,гІакъира,CyrillTrans,scorpion,,,ʕaqʼira,Phonemic
+3-813-38-1,ghod1238,Godoberi,232,чІантІи,CyrillTrans,flea,,,čʼantʼi,Phonemic
+3-812-38-1,ghod1238,Godoberi,267,тІана,CyrillTrans,nit (louse egg),,,tʼana,Phonemic
+3-811-38-1,ghod1238,Godoberi,1392,нацци,CyrillTrans,louse,,,nac̄i,Phonemic
+3-810-38-1,ghod1238,Godoberi,620,хІутІ,CyrillTrans,insect,,,ħutʼ,Phonemic
+3-780-38-1,ghod1238,Godoberi,1871,гъварани,CyrillTrans,camel,,,ɣʷarani,Phonemic
+3-770-38-1,ghod1238,Godoberi,1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-38-1,ghod1238,Godoberi,1350,маймалаки,CyrillTrans,monkey,,,maymalaki,Phonemic
+3-750-38-1,ghod1238,Godoberi,1936,чаᴴйи,CyrillTrans,deer,,,"čaⁿyi, ričʼa",Phonemic
+3-750-38-3,ghod1238,Godoberi,1936,ричІа,CyrillTrans,deer,,,"čaⁿyi, ričʼa",Phonemic
+3-740-38-1,ghod1238,Godoberi,1312,сари,CyrillTrans,fox,,,sari,Phonemic
+3-730-38-1,ghod1238,Godoberi,1820,сиᴴгьи,CyrillTrans,bear,,,siⁿhi,Phonemic
+3-720-38-1,ghod1238,Godoberi,1386,гъалбацІи,CyrillTrans,lion,,,ɣalbacʼi,Phonemic
+3-710-38-1,ghod1238,Godoberi,522,бацІа,CyrillTrans,wolf,,,bacʼa,Phonemic
+3-664-38-1,ghod1238,Godoberi,1910,релъалІи геду,CyrillTrans,stingray,,,reɬaƛi gedu,Phonemic
+3-663-38-1,ghod1238,Godoberi,957,кити,CyrillTrans,whale,,,kiti,Phonemic
+3-662-38-1,ghod1238,Godoberi,1479,делфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-38-1,ghod1238,Godoberi,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-38-1,ghod1238,Godoberi,598,релъалІи гьантІукІʼа,CyrillTrans,shell,,,reɬaƛi hantʼukʼʲa,Phonemic
+3-653-38-1,ghod1238,Godoberi,266,ччугІалІи хъали,CyrillTrans,fishscale,,,č̄uʕaƛi qali,Phonemic
+3-652-38-1,ghod1238,Godoberi,213,ччугІалІи лъеру,CyrillTrans,fin (dorsal),,,č̄uʕaƛi ɬeru,Phonemic
+3-650-38-1,ghod1238,Godoberi,227,ччугІа,CyrillTrans,fish,,,č̄uʕa,Phonemic
+3-630-38-1,ghod1238,Godoberi,2139,гьикква,CyrillTrans,"mouse, rat",,,hik̄ʷa,Phonemic
+3-620-38-1,ghod1238,Godoberi,1208,геду,CyrillTrans,cat,,,gedu,Phonemic
+3-614-38-1,ghod1238,Godoberi,1136,кІʼанкьала,CyrillTrans,rabbit,,,kʼʲanƛ̄ʼala,Phonemic
+3-610-38-1,ghod1238,Godoberi,2009,хвайи,CyrillTrans,dog,,,xʷayi,Phonemic
+3-594-38-1,ghod1238,Godoberi,1853,гъугъу,CyrillTrans,dove,,,ɣuɣu,Phonemic
+3-596-38-1,ghod1238,Godoberi,735,бугьу,CyrillTrans,owl,,,buhu,Phonemic
+3-593-38-1,ghod1238,Godoberi,913,гъанди,CyrillTrans,crow,,,ɣandi,Phonemic
+3-592-38-1,ghod1238,Godoberi,882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-38-1,ghod1238,Godoberi,1793,захъу гьикква,CyrillTrans,bat,,,zaqu hik̄ʷa,Phonemic
+3-586-38-1,ghod1238,Godoberi,1185,ццуᴴйи,CyrillTrans,vulture,,,c̄uⁿyi,Phonemic
+3-585-38-1,ghod1238,Godoberi,307,хъергъу,CyrillTrans,hawk,,,qerɣu,Phonemic
+3-584-38-1,ghod1238,Godoberi,1905,ццуᴴйи,CyrillTrans,eagle,,,c̄uⁿyi,Phonemic
+3-582-38-1,ghod1238,Godoberi,950,релъалІи щикин,CyrillTrans,seagull,,,"reɬaƛi š̄ikin, čayka",Phonemic
+3-582-38-3,ghod1238,Godoberi,950,чайка,CyrillTrans,seagull,,,"reɬaƛi š̄ikin, čayka",Phonemic
+3-583-38-1,ghod1238,Godoberi,758,хІажилакълакъ,CyrillTrans,heron,,,ħažilaq’laq’,Phonemic
+3-581-38-1,ghod1238,Godoberi,937,щиким,CyrillTrans,bird,,,š̄ikim,Phonemic
+3-580-38-1,ghod1238,Godoberi,539,багʼан,CyrillTrans,nest,,,"bagʲan, bagan",Phonemic
+3-580-38-3,ghod1238,Godoberi,539,баган,CyrillTrans,nest,,,"bagʲan, bagan",Phonemic
+3-570-38-1,ghod1238,Godoberi,1360,бади,CyrillTrans,duck,,,badi,Phonemic
+3-560-38-1,ghod1238,Godoberi,1187,хъази,CyrillTrans,goose,,,qazi,Phonemic
+3-550-38-1,ghod1238,Godoberi,1318,оочулІи балъа,CyrillTrans,chicken,,,oʔočuƛi baɬa,Phonemic
+3-540-38-1,ghod1238,Godoberi,1514,ооча,CyrillTrans,hen,,,oʔoča,Phonemic
+3-520-38-1,ghod1238,Godoberi,1511,хІелеку,CyrillTrans,"cock, rooster",,,ħeleku,Phonemic
+3-470-38-1,ghod1238,Godoberi,890,гІорцІин,CyrillTrans,mule,,,ʕorcʼin,Phonemic
+3-500-38-1,ghod1238,Godoberi,265,ооча-хІелеку,CyrillTrans,fowl,,,oʔoča-ħeleku,Phonemic
+3-460-38-1,ghod1238,Godoberi,1862,гьамахи,CyrillTrans,"ass, donkey",,,hamaxi,Phonemic
+3-450-38-1,ghod1238,Godoberi,1647,тагьи,CyrillTrans,"foal, colt",,,tahi,Phonemic
+3-440-38-1,ghod1238,Godoberi,938,ича,CyrillTrans,mare,,,iča,Phonemic
+3-420-38-1,ghod1238,Godoberi,936,барти,CyrillTrans,stallion,,,barti,Phonemic
+3-410-38-1,ghod1238,Godoberi,615,хвани,CyrillTrans,horse (equine),,,xʷani,Phonemic
+3-380-38-1,ghod1238,Godoberi,1972,цІекІир,CyrillTrans,kid,,,cʼekʼir,Phonemic
+3-370-38-1,ghod1238,Godoberi,264,тІукʼа,CyrillTrans,he-goat,,,tʼukʲa,Phonemic
+3-360-38-1,ghod1238,Godoberi,1502,цциналІу,CyrillTrans,goat,,,c̄inaƛu,Phonemic
+3-350-38-1,ghod1238,Godoberi,1337,болъон,CyrillTrans,pig,,,boɬon,Phonemic
+3-340-38-1,ghod1238,Godoberi,1351,болъон,CyrillTrans,sow (2),,,boɬon,Phonemic
+3-320-38-1,ghod1238,Godoberi,1348,болъон,CyrillTrans,boar,,,boɬon,Phonemic
+3-290-38-1,ghod1238,Godoberi,820,кьидир,CyrillTrans,lamb,,,ƛ̄ʼidir,Phonemic
+3-280-38-1,ghod1238,Godoberi,1345,риха,CyrillTrans,ewe,,,rixa,Phonemic
+3-260-38-1,ghod1238,Godoberi,1344,куᴴйи,CyrillTrans,ram,,,kuⁿyi,Phonemic
+3-250-38-1,ghod1238,Godoberi,1331,риха,CyrillTrans,sheep,,,rixa,Phonemic
+3-240-38-1,ghod1238,Godoberi,1989,гьаниха,CyrillTrans,calf,,,hanixa,Phonemic
+3-230-38-1,ghod1238,Godoberi,1007,зини,CyrillTrans,cow,,,zini,Phonemic
+3-220-38-1,ghod1238,Godoberi,1169,унса,CyrillTrans,ox,,,unsa,Phonemic
+3-210-38-1,ghod1238,Godoberi,1008,унса,CyrillTrans,bull,,,unsa,Phonemic
+3-200-38-1,ghod1238,Godoberi,1153,пурцци,CyrillTrans,cattle (bovine),,,purc̄i,Phonemic
+3-190-38-1,ghod1238,Godoberi,851,бекьи,CyrillTrans,"stable, stall",,,beƛ̄ʼi,Phonemic
+3-180-38-1,ghod1238,Godoberi,263,харашу,CyrillTrans,herdsman,,,xarašu,Phonemic
+3-160-38-1,ghod1238,Godoberi,649,гІалахи,CyrillTrans,pasture,,,ʕalaxi,Phonemic
+3-150-38-1,ghod1238,Godoberi,631,пурцци,CyrillTrans,livestock,,,purc̄i,Phonemic
+3-130-38-1,ghod1238,Godoberi,2262,зини чІара,CyrillTrans,female (adj),,,"zini čʼara, yašikʼʷa",Phonemic
+3-130-38-3,ghod1238,Godoberi,2262,яшикІва,CyrillTrans,female (adj),,,"zini čʼara, yašikʼʷa",Phonemic
+3-120-38-1,ghod1238,Godoberi,2261,унса гъадачІа,CyrillTrans,male (adj),,,unsa ɣadačʼa,Phonemic
+3-110-38-1,ghod1238,Godoberi,619,хІайпан,CyrillTrans,animal,,,ħaypan,Phonemic
+2-960-38-1,ghod1238,Godoberi,817,гьодобе,CyrillTrans,they,,,hodobe,Phonemic
+2-950-38-1,ghod1238,Godoberi,1213,битте,CyrillTrans,you (plural),,,bit̄e,Phonemic
+2-942-38-1,ghod1238,Godoberi,1130,ище,CyrillTrans,we (exclusive),,,iš̄e,Phonemic
+2-941-38-1,ghod1238,Godoberi,1131,илІе,CyrillTrans,we (inclusive),,,iƛe,Phonemic
+2-940-38-1,ghod1238,Godoberi,1212,илІе,CyrillTrans,we,,,iƛe,Phonemic
+2-930-38-1,ghod1238,Godoberi,262,гьодов,CyrillTrans,he/she/it,,,"hodow, hadow",Phonemic
+2-930-38-3,ghod1238,Godoberi,262,гьадов,CyrillTrans,he/she/it,,,"hodow, hadow",Phonemic
+2-920-38-1,ghod1238,Godoberi,1215,мин,CyrillTrans,you (singular),,,min,Phonemic
+2-910-38-1,ghod1238,Godoberi,1209,ден,CyrillTrans,I,,,den,Phonemic
+2-820-38-1,ghod1238,Godoberi,194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-38-1,ghod1238,Godoberi,1644,гІагʼарлъи,CyrillTrans,"relatives, kinsmen",,,ʕagʲarɬi,Phonemic
+2-770-38-1,ghod1238,Godoberi,1981,къороло,CyrillTrans,widower,,,qʼorolo,Phonemic
+2-760-38-1,ghod1238,Godoberi,1756,къороле,CyrillTrans,widow,,,qʼorole,Phonemic
+2-750-38-1,ghod1238,Godoberi,1149,илъаду макІи,CyrillTrans,orphan,,,iɬadu makʼi,Phonemic
+2-740-38-1,ghod1238,Godoberi,1058,илъаду йаши,CyrillTrans,stepdaughter,,,iɬadu yaši,Phonemic
+2-730-38-1,ghod1238,Godoberi,1059,илъаду ваша,CyrillTrans,stepson,,,iɬadu waša,Phonemic
+2-720-38-1,ghod1238,Godoberi,236,илъаду ила,CyrillTrans,stepmother,,,iɬadu ila,Phonemic
+2-710-38-1,ghod1238,Godoberi,237,илъаду им’а,CyrillTrans,stepfather,,,iɬadu imʲa,Phonemic
+2-641-38-1,ghod1238,Godoberi,2264,бахІарай,CyrillTrans,daughter-in-law (of a woman),,,baħaray,Phonemic
+2-640-38-1,ghod1238,Godoberi,2265,нуса,CyrillTrans,daughter-in-law (of a man),,,nusa,Phonemic
+2-631-38-1,ghod1238,Godoberi,2266,нуса,CyrillTrans,son-in-law (of a woman),,,nusa,Phonemic
+2-630-38-1,ghod1238,Godoberi,2267,нуса,CyrillTrans,son-in-law (of a man),,,nusa,Phonemic
+2-621-38-1,ghod1238,Godoberi,2257,илакьур,CyrillTrans,mother-in-law (of a woman),,,"ilaƛ̄ʼur, hark̄ʲiƛi ila",Phonemic
+2-621-38-3,ghod1238,Godoberi,2257,гьаркк’илІи ила,CyrillTrans,mother-in-law (of a woman),,,"ilaƛ̄ʼur, hark̄ʲiƛi ila",Phonemic
+2-620-38-1,ghod1238,Godoberi,2256,илакьур,CyrillTrans,mother-in-law (of a man),,,"ilaƛ̄ʼur, kuntʼaƛi ila",Phonemic
+2-620-38-3,ghod1238,Godoberi,2256,кунтІалІи ила,CyrillTrans,mother-in-law (of a man),,,"ilaƛ̄ʼur, kuntʼaƛi ila",Phonemic
+2-611-38-1,ghod1238,Godoberi,2254,имакьур,CyrillTrans,father-in-law (of a woman),,,"imaƛ̄ʼur, hark̄ʲiƛi imʲa",Phonemic
+2-611-38-3,ghod1238,Godoberi,2254,гьаркк’илІи им’а,CyrillTrans,father-in-law (of a woman),,,"imaƛ̄ʼur, hark̄ʲiƛi imʲa",Phonemic
+2-610-38-1,ghod1238,Godoberi,2255,имакьур,CyrillTrans,father-in-law (of a man),,,"imaƛ̄ʼur, kuntʼaƛi imʲa",Phonemic
+2-610-38-3,ghod1238,Godoberi,2255,кунтІалІи им’а,CyrillTrans,father-in-law (of a man),,,"imaƛ̄ʼur, kuntʼaƛi imʲa",Phonemic
+2-570-38-1,ghod1238,Godoberi,490,боантабу гІел,CyrillTrans,descendants,,,boantabu ʕel,Phonemic
+2-560-38-1,ghod1238,Godoberi,1669,бечІухабе,CyrillTrans,ancestors,,,bečʼuxabe,Phonemic
+2-550-38-1,ghod1238,Godoberi,1643,йацгІал,CyrillTrans,cousin,,,"yacʕal, wacʕal",Phonemic
+2-550-38-3,ghod1238,Godoberi,1643,вацгІал,CyrillTrans,cousin,,,"yacʕal, wacʕal",Phonemic
+2-540-38-1,ghod1238,Godoberi,1642,йаццулІи йаши,CyrillTrans,niece,,,"yac̄uƛi yaši, wac̄uɬi yaši",Phonemic
+2-540-38-3,ghod1238,Godoberi,1642,ваццулІи йаши,CyrillTrans,niece,,,"yac̄uƛi yaši, wac̄uɬi yaši",Phonemic
+2-530-38-1,ghod1238,Godoberi,1063,ваццулІи ваша,CyrillTrans,nephew,,,"wac̄uƛi waša, yac̄uƛi waša",Phonemic
+2-530-38-3,ghod1238,Godoberi,1063,йаццулІи ваша,CyrillTrans,nephew,,,"wac̄uƛi waša, yac̄uƛi waša",Phonemic
+2-522-38-1,ghod1238,Godoberi,170,атІа,CyrillTrans,father's sister,,,"atʼa, imuƛi yac̄i",Phonemic
+2-522-38-3,ghod1238,Godoberi,170,имулІи йацци,CyrillTrans,father's sister,,,"atʼa, imuƛi yac̄i",Phonemic
+2-520-38-1,ghod1238,Godoberi,1272,атІа,CyrillTrans,aunt,,,atʼa,Phonemic
+2-521-38-1,ghod1238,Godoberi,171,атІа,CyrillTrans,mother's sister,,,"atʼa, iluƛi yac̄i",Phonemic
+2-521-38-3,ghod1238,Godoberi,171,илулІи йацци,CyrillTrans,mother's sister,,,"atʼa, iluƛi yac̄i",Phonemic
+2-512-38-1,ghod1238,Godoberi,1985,ацци,CyrillTrans,father's brother,,,"ac̄i, imuƛi wac̄i",Phonemic
+2-512-38-3,ghod1238,Godoberi,1985,имулІи вац̄и,CyrillTrans,father's brother,,,"ac̄i, imuƛi wac̄i",Phonemic
+2-511-38-1,ghod1238,Godoberi,1984,ацци,CyrillTrans,mother's brother,,,"ac̄i, iluƛi wac̄i",Phonemic
+2-511-38-3,ghod1238,Godoberi,1984,илулІи вацци,CyrillTrans,mother's brother,,,"ac̄i, iluƛi wac̄i",Phonemic
+2-510-38-1,ghod1238,Godoberi,1327,ацци,CyrillTrans,uncle,,,ac̄i,Phonemic
+2-480-38-1,ghod1238,Godoberi,1618,вашулІи макІи,CyrillTrans,grandson,,,"wašuƛi makʼi, yašuƛi makʼi",Phonemic
+2-480-38-3,ghod1238,Godoberi,1618,йашулІи макІи,CyrillTrans,grandson,,,"wašuƛi makʼi, yašuƛi makʼi",Phonemic
+2-490-38-1,ghod1238,Godoberi,1619,вашулІи йаши,CyrillTrans,granddaughter,,,"wašuƛi yaši, yašuƛi yaši",Phonemic
+2-490-38-3,ghod1238,Godoberi,1619,йашулІи йаши,CyrillTrans,granddaughter,,,"wašuƛi yaši, yašuƛi yaši",Phonemic
+2-471-38-1,ghod1238,Godoberi,907,йахар адами,CyrillTrans,old woman,,,yaxar adami,Phonemic
+2-470-38-1,ghod1238,Godoberi,1496,йечІуха ила,CyrillTrans,grandmother,,,yečʼuxa ila,Phonemic
+2-461-38-1,ghod1238,Godoberi,406,вахар адами,CyrillTrans,old man,,,waxar adami,Phonemic
+2-460-38-1,ghod1238,Godoberi,1383,вечІуха им’а,CyrillTrans,grandfather,,,wečʼuxa imʲa,Phonemic
+2-458-38-1,ghod1238,Godoberi,1005,къетІе,CyrillTrans,twins,,,qʼetʼe,Phonemic
+2-456-38-1,ghod1238,Godoberi,1640,вацци-йацци,CyrillTrans,sibling,,,wac̄i-yac̄i,Phonemic
+2-455-38-1,ghod1238,Godoberi,1761,микІиси йацци,CyrillTrans,younger sister,,,mikʼisi yac̄i,Phonemic
+2-454-38-1,ghod1238,Godoberi,1758,йечІуха йацци,CyrillTrans,older sister,,,yečʼuxa yac̄i,Phonemic
+2-450-38-1,ghod1238,Godoberi,1263,йацци,CyrillTrans,sister,,,yac̄i,Phonemic
+2-445-38-1,ghod1238,Godoberi,1760,микІиси вацци,CyrillTrans,younger brother,,,mikʼisi wac̄i,Phonemic
+2-444-38-1,ghod1238,Godoberi,1759,вечІуха вацци,CyrillTrans,older brother,,,wečʼuxa wac̄i,Phonemic
+2-440-38-1,ghod1238,Godoberi,1262,вацци,CyrillTrans,brother,,,wac̄i,Phonemic
+2-430-38-1,ghod1238,Godoberi,1801,балъе,CyrillTrans,offspring (son or daughter),,,baɬe,Phonemic
+2-420-38-1,ghod1238,Godoberi,1357,йаши,CyrillTrans,daughter,,,yaši,Phonemic
+2-410-38-1,ghod1238,Godoberi,1620,ваша,CyrillTrans,son,,,waša,Phonemic
+2-390-38-1,ghod1238,Godoberi,426,кунтІулъи йинабу,CyrillTrans,married woman,,,kuntʼuɬi yinabu,Phonemic
+2-380-38-1,ghod1238,Godoberi,424,гьарккʼи йечаму,CyrillTrans,married man,,,hark̄ʲi yečamu,Phonemic
+2-370-38-1,ghod1238,Godoberi,505,ила-им’а,CyrillTrans,parents,,,ila-imʲa,Phonemic
+2-360-38-1,ghod1238,Godoberi,1216,ила,CyrillTrans,mother,,,ila,Phonemic
+2-350-38-1,ghod1238,Godoberi,1217,им’а,CyrillTrans,father,,,imʲa,Phonemic
+2-341-38-1,ghod1238,Godoberi,1134,батІалъи,CyrillTrans,divorce,,,batʼaɬi,Phonemic
+2-340-38-1,ghod1238,Godoberi,1259,нусахар,CyrillTrans,"marriage, wedding",,,nusaxar,Phonemic
+2-330-38-1,ghod1238,Godoberi,203,гьарккʼи йечиᴴ,CyrillTrans,marry,,,hark̄ʲi yečiⁿ,Phonemic
+2-320-38-1,ghod1238,Godoberi,1199,гьаркк’и,CyrillTrans,wife,,,hark̄ʲi,Phonemic
+2-310-38-1,ghod1238,Godoberi,1200,кунтІа,CyrillTrans,husband,,,kuntʼa,Phonemic
+2-280-38-1,ghod1238,Godoberi,1289,микІиси макІи,CyrillTrans,"infant, baby",,,mikʼisi makʼi,Phonemic
+2-270-38-1,ghod1238,Godoberi,1304,макІи,CyrillTrans,child,,,makʼi,Phonemic
+2-261-38-1,ghod1238,Godoberi,77,йаши,CyrillTrans,young woman (adolescent),,,yaši,Phonemic
+2-260-38-1,ghod1238,Godoberi,1646,йаши,CyrillTrans,girl,,,yaši,Phonemic
+2-251-38-1,ghod1238,Godoberi,76,гІолохъа гьекІва,CyrillTrans,young man (adolescent),,,ʕoloqa hekʼwa,Phonemic
+2-250-38-1,ghod1238,Godoberi,1366,ваша,CyrillTrans,boy,,,waša,Phonemic
+2-240-38-1,ghod1238,Godoberi,1551,гьаркк’и,CyrillTrans,female,,,hark̄ʲi,Phonemic
+2-230-38-1,ghod1238,Godoberi,1553,кунтІа,CyrillTrans,male,,,kuntʼa,Phonemic
+2-220-38-1,ghod1238,Godoberi,962,йаши,CyrillTrans,woman,,,yaši,Phonemic
+2-210-38-1,ghod1238,Godoberi,1554,гьекІва,CyrillTrans,man (vs. woman),,,hekʼʷa,Phonemic
+2-100-38-1,ghod1238,Godoberi,683,адами,CyrillTrans,"person, human being",,,adami,Phonemic
+1-890-38-1,ghod1238,Godoberi,1188,гьабу,CyrillTrans,charcoal,,,habu,Phonemic
+1-880-38-1,ghod1238,Godoberi,10,лъуди,CyrillTrans,firewood,,,ɬudi,Phonemic
+1-870-38-1,ghod1238,Godoberi,1133,испишкʼа,CyrillTrans,match (noun),,,ispiškʲa,Phonemic
+1-861-38-1,ghod1238,Godoberi,127,бищани,CyrillTrans,extinguish,,,biš̄ani,Phonemic
+1-860-38-1,ghod1238,Godoberi,737,цІатали,CyrillTrans,"light, kindle, ignite",,,cʼatali,Phonemic
+1-852-38-1,ghod1238,Godoberi,1428,цІати,CyrillTrans,burn (vb intrans),,,cʼati,Phonemic
+1-851-38-1,ghod1238,Godoberi,141,цІайи кІʼанахали,CyrillTrans,burn (vb trans),,,cʼayi kʼʲanaxali,Phonemic
+1-841-38-1,ghod1238,Godoberi,67,цІатабу анчибе,CyrillTrans,embers,,,cʼatabu ančibe,Phonemic
+1-840-38-1,ghod1238,Godoberi,646,кьейи,CyrillTrans,ashes,,,ƛ̄ʼeyi,Phonemic
+1-830-38-1,ghod1238,Godoberi,778,ссури,CyrillTrans,smoke (noun),,,s̄uri,Phonemic
+1-820-38-1,ghod1238,Godoberi,889,цІайилъи мици,CyrillTrans,flame (noun),,,cʼayiɬi mici,Phonemic
+1-810-38-1,ghod1238,Godoberi,221,цІайи,CyrillTrans,fire,,,cʼayi,Phonemic
+1-780-38-1,ghod1238,Godoberi,952,анссакир-зараши,CyrillTrans,weather,,,ans̄akir-zaraši,Phonemic
+1-770-38-1,ghod1238,Godoberi,617,зари,CyrillTrans,ice,,,zari,Phonemic
+1-760-38-1,ghod1238,Godoberi,784,анзи,CyrillTrans,snow (noun),,,anzi,Phonemic
+1-750-38-1,ghod1238,Godoberi,658,ццайи,CyrillTrans,rain (noun),,,c̄ayi,Phonemic
+1-740-38-1,ghod1238,Godoberi,249,гьину гьанлу,CyrillTrans,fog,,,hinu hanlu,Phonemic
+1-720-38-1,ghod1238,Godoberi,960,мучу,CyrillTrans,wind,,,muču,Phonemic
+1-730-38-1,ghod1238,Godoberi,1489,гьанлу,CyrillTrans,cloud,,,hanlu,Phonemic
+1-710-38-1,ghod1238,Godoberi,27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-38-1,ghod1238,Godoberi,1977,щибил,CyrillTrans,dew,,,"š̄ibil, šibi",Phonemic
+1-640-38-3,ghod1238,Godoberi,1977,щиби,CyrillTrans,dew,,,"š̄ibil, šibi",Phonemic
+1-630-38-1,ghod1238,Godoberi,1388,гьанччу,CyrillTrans,"shade, shadow",,,hanč̄u,Phonemic
+1-620-38-1,ghod1238,Godoberi,11,синдилъир,CyrillTrans,darkness,,,sindiɬir,Phonemic
+1-610-38-1,ghod1238,Godoberi,630,кванулъир,CyrillTrans,light (noun),,,kʷanuɬir,Phonemic
+1-590-38-1,ghod1238,Godoberi,1733,цІиву-цІаву,CyrillTrans,rainbow,,,cʼiwu-cʼawu,Phonemic
+1-580-38-1,ghod1238,Godoberi,858,бечІуха мучу,CyrillTrans,storm,,,bečʼuxa muču,Phonemic
+1-560-38-1,ghod1238,Godoberi,1150,решин худи,CyrillTrans,thunder,,,rešin xudi,Phonemic
+1-570-38-1,ghod1238,Godoberi,2007,пири,CyrillTrans,lightning (as striking),,,piri,Phonemic
+1-550-38-1,ghod1238,Godoberi,1654,пири,CyrillTrans,lightning,,,"piri, ɣuɣadir",Phonemic
+1-550-38-3,ghod1238,Godoberi,1654,гъугъадир,CyrillTrans,lightning,,,"piri, ɣuɣadir",Phonemic
+1-540-38-1,ghod1238,Godoberi,1430,ццайи,CyrillTrans,star,,,c̄ayi,Phonemic
+1-530-38-1,ghod1238,Godoberi,1313,пурццу,CyrillTrans,moon,,,purc̄u,Phonemic
+1-520-38-1,ghod1238,Godoberi,1343,милъи,CyrillTrans,sun,,,miɬi,Phonemic
+1-510-38-1,ghod1238,Godoberi,1732,решин,CyrillTrans,sky,,,rešin,Phonemic
+1-450-38-1,ghod1238,Godoberi,6,муса луллабир,CyrillTrans,earthquake,,,musa lullabir,Phonemic
+1-440-38-1,ghod1238,Godoberi,2125,анча,CyrillTrans,"stone, rock",,,"anča, ƛ̄ʼudu",Phonemic
+1-440-38-3,ghod1238,Godoberi,2125,кьуду,CyrillTrans,"stone, rock",,,"anča, ƛ̄ʼudu",Phonemic
+1-430-38-1,ghod1238,Godoberi,1803,лъуди,CyrillTrans,wood,,,ɬudi,Phonemic
+1-420-38-1,ghod1238,Godoberi,906,руша,CyrillTrans,tree (cf 08.600),,,ruša,Phonemic
+1-410-38-1,ghod1238,Godoberi,420,рушлъи,CyrillTrans,"woods, forest",,,"rušɬi, ruša",Phonemic
+1-410-38-3,ghod1238,Godoberi,420,руша,CyrillTrans,"woods, forest",,,"rušɬi, ruša",Phonemic
+1-390-38-1,ghod1238,Godoberi,943,чорча,CyrillTrans,waterfall,,,čorča,Phonemic
+1-380-38-1,ghod1238,Godoberi,1145,лълъинццу,CyrillTrans,swamp,,,ɬ̄inc̄u,Phonemic
+1-370-38-1,ghod1238,Godoberi,2144,къулгІе,CyrillTrans,"spring, well",,,qʼulʕe,Phonemic
+1-362-38-1,ghod1238,Godoberi,1982,ххарадатабу лълъени,CyrillTrans,whirlpool,,,x̄aradatabu ɬ̄eni,Phonemic
+1-360-38-1,ghod1238,Godoberi,666,инххи лълъинсса,CyrillTrans,"river, stream, brook",,,inx̄i ɬ̄ins̄a,Phonemic
+1-354-38-1,ghod1238,Godoberi,613,релъа гьикьи мунир,CyrillTrans,hightide,,,reɬa hiƛ̄ʼi munir,Phonemic
+1-353-38-1,ghod1238,Godoberi,1026,релъа гьикьи буккуди,CyrillTrans,lowtide,,,reɬa hiƛ̄ʼi buk̄udi,Phonemic
+1-352-38-1,ghod1238,Godoberi,891,релъа гьикьи мунир,CyrillTrans,tide,,,"reɬa hiƛ̄ʼi munir, hiƛ̄ʼi buk̄udi",Phonemic
+1-352-38-3,ghod1238,Godoberi,891,гьикьи буккуди,CyrillTrans,tide,,,"reɬa hiƛ̄ʼi munir, hiƛ̄ʼi buk̄udi",Phonemic
+1-350-38-1,ghod1238,Godoberi,978,к’арачел,CyrillTrans,wave,,,kʲaračel,Phonemic
+1-330-38-1,ghod1238,Godoberi,624,игьуру,CyrillTrans,lake,,,ihuru,Phonemic
+1-329-38-1,ghod1238,Godoberi,645,бечІуха релъа,CyrillTrans,ocean,,,bečʼuxa reɬa,Phonemic
+1-324-38-1,ghod1238,Godoberi,1768,пали,CyrillTrans,foam,,,pali,Phonemic
+1-323-38-1,ghod1238,Godoberi,259,гьалагʼаб (релъа),CyrillTrans,rough (of sea),,,halagʲab(reɬa),Phonemic
+1-320-38-1,ghod1238,Godoberi,1474,релъа,CyrillTrans,sea,,,reɬa,Phonemic
+1-322-38-1,ghod1238,Godoberi,258,щинтІибу (релъа),CyrillTrans,calm (of sea),,,š̄intʼibu (reɬa),Phonemic
+1-310-38-1,ghod1238,Godoberi,948,лълъени,CyrillTrans,water,,,ɬ̄eni,Phonemic
+1-280-38-1,ghod1238,Godoberi,1155,речча,CyrillTrans,cave,,,reč̄a,Phonemic
+1-270-38-1,ghod1238,Godoberi,113,релъалІи бакил,CyrillTrans,shore,,,reɬaƛi bakil,Phonemic
+1-260-38-1,ghod1238,Godoberi,166,бечІуха ракьи,CyrillTrans,mainland,,,bečʼuxa raƛ̄ʼi,Phonemic
+1-250-38-1,ghod1238,Godoberi,622,чІинкІиллъи,CyrillTrans,island,,,čʼinkʼilɬi,Phonemic
+1-240-38-1,ghod1238,Godoberi,921,реккин,CyrillTrans,valley,,,rek̄in,Phonemic
+1-230-38-1,ghod1238,Godoberi,652,хури,CyrillTrans,"plain, field",,,xuri,Phonemic
+1-222-38-1,ghod1238,Godoberi,618,кьуду,CyrillTrans,"cliff, precipice",,,ƛ̄ʼudu,Phonemic
+1-220-38-1,ghod1238,Godoberi,2118,бегьил рекъа,CyrillTrans,"mountain, hill",,,"behil reqʼa, bēl",Phonemic
+1-220-38-3,ghod1238,Godoberi,2118,бе̄л,CyrillTrans,"mountain, hill",,,"behil reqʼa, bēl",Phonemic
+1-214-38-1,ghod1238,Godoberi,640,чарта,CyrillTrans,mud,,,čarta,Phonemic
+1-215-38-1,ghod1238,Godoberi,671,сира,CyrillTrans,sand,,,sira,Phonemic
+1-213-38-1,ghod1238,Godoberi,2,дада,CyrillTrans,dust,,,dada,Phonemic
+1-212-38-1,ghod1238,Godoberi,1228,ракьи,CyrillTrans,"earth=ground, soil",,,"raƛ̄ʼi, unš̄i",Phonemic
+1-212-38-3,ghod1238,Godoberi,1228,унщи,CyrillTrans,"earth=ground, soil",,,"raƛ̄ʼi, unš̄i",Phonemic
+1-210-38-1,ghod1238,Godoberi,626,улка,CyrillTrans,"earth, land",,,"ulka, ħukumat",Phonemic
+1-210-38-3,ghod1238,Godoberi,626,хІукумат,CyrillTrans,"earth, land",,,"ulka, ħukumat",Phonemic
+1-100-38-1,ghod1238,Godoberi,965,дунел,CyrillTrans,world,,,dunel,Phonemic
+14-330-38-1,ghod1238,Godoberi,1544,анщи-анщи,CyrillTrans,sometimes,,,anš̄i-anš̄i,Phonemic
+14-331-38-1,ghod1238,Godoberi,703,бекъада,CyrillTrans,soon,,,beqʼada,Phonemic
+14-332-38-1,ghod1238,Godoberi,418,бегъукъалІи,CyrillTrans,long-time (for a),,,beɣuqʼaƛi,Phonemic
+14-340-38-1,ghod1238,Godoberi,1656,анщидала,CyrillTrans,never,,,anš̄idala,Phonemic
+14-350-38-1,ghod1238,Godoberi,204,цӀидасса,CyrillTrans,again,,,"cʼidas̄a, herala",Phonemic
+14-350-38-3,ghod1238,Godoberi,204,гьерала,CyrillTrans,again,,,"cʼidas̄a, herala",Phonemic
+14-410-38-1,ghod1238,Godoberi,1225,зибу,CyrillTrans,day,,,zibu,Phonemic
+14-420-38-1,ghod1238,Godoberi,1233,релъади,CyrillTrans,night,,,"reɬadi, reɬa",Phonemic
+14-420-38-3,ghod1238,Godoberi,1233,релъа,CyrillTrans,night,,,"reɬadi, reɬa",Phonemic
+14-430-38-1,ghod1238,Godoberi,729,кванлъир,CyrillTrans,dawn,,,kʷanɬir,Phonemic
+14-440-38-1,ghod1238,Godoberi,1339,рахакьи,CyrillTrans,morning,,,raxaƛ̄ʼi,Phonemic
+14-450-38-1,ghod1238,Godoberi,12,лъел,CyrillTrans,"noon, midday",,,"ɬel, ɬelzaman",Phonemic
+14-450-38-3,ghod1238,Godoberi,12,лъелзаман,CyrillTrans,"noon, midday",,,"ɬel, ɬelzaman",Phonemic
+14-451-38-1,ghod1238,Godoberi,1807,милълъарахъи,CyrillTrans,afternoon,,,miɬ̄araqi,Phonemic
+14-460-38-1,ghod1238,Godoberi,1629,маркӀачӀулъи,CyrillTrans,evening,,,markʼačʼuɬi,Phonemic
+14-470-38-1,ghod1238,Godoberi,1283,гьелъе,CyrillTrans,today,,,heɬe,Phonemic
+14-480-38-1,ghod1238,Godoberi,1329,рахара,CyrillTrans,tomorrow,,,raxara,Phonemic
+14-481-38-1,ghod1238,Godoberi,1179,саву,CyrillTrans,day-after-tomorrow,,,sawu,Phonemic
+14-490-38-1,ghod1238,Godoberi,1174,суни,CyrillTrans,yesterday,,,suni,Phonemic
+14-491-38-1,ghod1238,Godoberi,1180,сунассуру,CyrillTrans,day-before-yesterday,,,sunas̄uru,Phonemic
+14-510-38-1,ghod1238,Godoberi,1353,сагӀати,CyrillTrans,hour,,,saʕati,Phonemic
+14-530-38-1,ghod1238,Godoberi,1323,сагӀати,CyrillTrans,"clock, timepiece",,,saʕati,Phonemic
+14-610-38-1,ghod1238,Godoberi,1469,гьакьу,CyrillTrans,week,,,haƛ̄ʼu,Phonemic
+14-620-38-1,ghod1238,Godoberi,1699,базарзибу,CyrillTrans,Sunday,,,bazarzibu,Phonemic
+14-630-38-1,ghod1238,Godoberi,1697,итнизибу,CyrillTrans,Monday,,,itnizibu,Phonemic
+14-640-38-1,ghod1238,Godoberi,1695,талатзибу,CyrillTrans,Tuesday,,,talatzibu,Phonemic
+14-650-38-1,ghod1238,Godoberi,1694,гӀарбагӀзибу,CyrillTrans,Wednesday,,,ʕarbaʕzibu,Phonemic
+14-660-38-1,ghod1238,Godoberi,1693,хамиззибу,CyrillTrans,Thursday,,,xamizzibu,Phonemic
+14-670-38-1,ghod1238,Godoberi,1692,рузманзибу,CyrillTrans,Friday,,,ruzmanzibu,Phonemic
+14-680-38-1,ghod1238,Godoberi,1700,шаматзибу,CyrillTrans,Saturday,,,šamatzibu,Phonemic
+14-710-38-1,ghod1238,Godoberi,1370,пурццу,CyrillTrans,month,,,purc̄u,Phonemic
+14-730-38-1,ghod1238,Godoberi,1226,реши,CyrillTrans,year,,,reši,Phonemic
+14-740-38-1,ghod1238,Godoberi,1471,ццибуру,CyrillTrans,winter,,,c̄iburu,Phonemic
+14-750-38-1,ghod1238,Godoberi,1537,реибу,CyrillTrans,spring,,,"reibu, rēbu",Phonemic
+14-750-38-3,ghod1238,Godoberi,1537,ре̄бу,CyrillTrans,spring,,,"reibu, rēbu",Phonemic
+14-760-38-1,ghod1238,Godoberi,1342,къину,CyrillTrans,summer,,,qʼinu,Phonemic
+14-770-38-1,ghod1238,Godoberi,1276,барийан,CyrillTrans,autumn,,,bariyan,Phonemic
+14-780-38-1,ghod1238,Godoberi,691,решилІи заман,CyrillTrans,season,,,rešiƛi zaman,Phonemic
+15-210-38-1,ghod1238,Godoberi,1587,шаᴴйи баи,CyrillTrans,smell (vb intrans),,,šaⁿyi bai,Phonemic
+15-212-38-1,ghod1238,Godoberi,375,шунни,CyrillTrans,sniff,,,šunni,Phonemic
+15-220-38-1,ghod1238,Godoberi,1586,щунни,CyrillTrans,smell (vb trans),,,"š̄unni, s̄untʼidi",Phonemic
+15-220-38-3,ghod1238,Godoberi,1586,ссунтІиди,CyrillTrans,smell (vb trans),,,"š̄unni, s̄untʼidi",Phonemic
+15-250-38-1,ghod1238,Godoberi,376,тӀагӀамаб-чӀиквар шаᴴйи,CyrillTrans,"fragrant, good smelling",,,tʼaʕamab-čʼikʷar šaⁿyi,Phonemic
+15-260-38-1,ghod1238,Godoberi,42,бакъати,CyrillTrans,"stinking, bad smelling",,,"baqʼati, qubi šaⁿyi",Phonemic
+15-260-38-3,ghod1238,Godoberi,42,хъуби шаᴴйи,CyrillTrans,"stinking, bad smelling",,,"baqʼati, qubi šaⁿyi",Phonemic
+15-310-38-1,ghod1238,Godoberi,21,миццалъир,CyrillTrans,taste,,,"mic̄aɬir, tʼaʕam",Phonemic
+15-310-38-3,ghod1238,Godoberi,21,тІагІам,CyrillTrans,taste,,,"mic̄aɬir, tʼaʕam",Phonemic
+15-350-38-1,ghod1238,Godoberi,717,мицца,CyrillTrans,sweet,,,mic̄a,Phonemic
+15-360-38-1,ghod1238,Godoberi,1091,цаᴴйи,CyrillTrans,salty,,,caⁿyi,Phonemic
+15-370-38-1,ghod1238,Godoberi,887,букьа,CyrillTrans,bitter,,,buƛ̄ʼa,Phonemic
+15-380-38-1,ghod1238,Godoberi,1906,цикку,CyrillTrans,"acid, sour",,,cik̄u,Phonemic
+15-390-38-1,ghod1238,Godoberi,70,ццаᴴйихӀалаб,CyrillTrans,brackish,,,c̄aⁿyiħalab,Phonemic
+15-410-38-1,ghod1238,Godoberi,1408,анлъи,CyrillTrans,hear,,,anɬi,Phonemic
+15-420-38-1,ghod1238,Godoberi,1608,гьантӀукӀʼа рикки,CyrillTrans,listen,,,hantʼukʼʲa rik̄i,Phonemic
+15-440-38-1,ghod1238,Godoberi,1811,лъаччу,CyrillTrans,"sound, noise",,,ɬač̄u,Phonemic
+15-450-38-1,ghod1238,Godoberi,377,анлъалу,CyrillTrans,loud,,,anɬalu,Phonemic
+15-460-38-1,ghod1238,Godoberi,1314,щинтӀибу,CyrillTrans,"quiet, silence",,,"š̄intʼibu, ač̄aqibešt̄abu",Phonemic
+15-460-38-3,ghod1238,Godoberi,1314,аччахъибешттабу,CyrillTrans,"quiet, silence",,,"š̄intʼibu, ač̄aqibešt̄abu",Phonemic
+15-510-38-1,ghod1238,Godoberi,1409,гьаи,CyrillTrans,see,,,hai,Phonemic
+15-520-38-1,ghod1238,Godoberi,1819,гьалищи,CyrillTrans,"look, look at",,,hališ̄i,Phonemic
+15-550-38-1,ghod1238,Godoberi,1039,гьаъали,CyrillTrans,show,,,haʔali,Phonemic
+15-560-38-1,ghod1238,Godoberi,708,канлъи,CyrillTrans,shine,,,kanɬi,Phonemic
+15-570-38-1,ghod1238,Godoberi,679,квану,CyrillTrans,bright,,,kʷanu,Phonemic
+15-610-38-1,ghod1238,Godoberi,1613,кьери,CyrillTrans,color,,,ƛ̄ʼeri,Phonemic
+15-620-38-1,ghod1238,Godoberi,250,квану,CyrillTrans,light (in color),,,kʷanu,Phonemic
+15-630-38-1,ghod1238,Godoberi,706,синдил,CyrillTrans,dark (in color),,,sindil,Phonemic
+15-640-38-1,ghod1238,Godoberi,1335,гьацӀа,CyrillTrans,white,,,hacʼa,Phonemic
+15-650-38-1,ghod1238,Godoberi,163,бечӀер,CyrillTrans,black,,,bečʼer,Phonemic
+15-660-38-1,ghod1238,Godoberi,156,ирхха,CyrillTrans,red,,,irx̄a,Phonemic
+15-670-38-1,ghod1238,Godoberi,837,хъайилІа,CyrillTrans,blue,,,qayiƛa,Phonemic
+15-680-38-1,ghod1238,Godoberi,1425,ххайи,CyrillTrans,green,,,x̄ayi,Phonemic
+15-690-38-1,ghod1238,Godoberi,1424,ччакку,CyrillTrans,yellow,,,č̄ak̄u,Phonemic
+15-710-38-1,ghod1238,Godoberi,1892,кӀутӀиᴴ,CyrillTrans,touch,,,kʼutʼiⁿ,Phonemic
+15-712-38-1,ghod1238,Godoberi,378,ццими,CyrillTrans,pinch,,,c̄imi,Phonemic
+15-740-38-1,ghod1238,Godoberi,1884,бещаб,CyrillTrans,hard,,,beš̄ab,Phonemic
+15-750-38-1,ghod1238,Godoberi,1856,лъуна,CyrillTrans,soft,,,ɬuna,Phonemic
+15-760-38-1,ghod1238,Godoberi,1923,хъачІаб,CyrillTrans,rough,,,qačʼab,Phonemic
+15-770-38-1,ghod1238,Godoberi,1234,битІи(ссу),CyrillTrans,smooth,,,bitʼi(s̄u),Phonemic
+15-780-38-1,ghod1238,Godoberi,1396,багьараб,CyrillTrans,sharp,,,baharab,Phonemic
+15-790-38-1,ghod1238,Godoberi,379,гъвантІи,CyrillTrans,"blunt, dull",,,ɣʷantʼi,Phonemic
+15-810-38-1,ghod1238,Godoberi,1210,гьакӀуба,CyrillTrans,heavy,,,hakʼuba,Phonemic
+15-820-38-1,ghod1238,Godoberi,1052,папа,CyrillTrans,light (in weight),,,papa,Phonemic
+15-830-38-1,ghod1238,Godoberi,1726,биччи,CyrillTrans,"wet, damp",,,bič̄i,Phonemic
+15-840-38-1,ghod1238,Godoberi,1398,бекъу,CyrillTrans,dry,,,beqʼu,Phonemic
+15-850-38-1,ghod1238,Godoberi,1286,цӀатабу,CyrillTrans,hot,,,cʼatabu,Phonemic
+15-851-38-1,ghod1238,Godoberi,1232,ансса,CyrillTrans,warm,,,ans̄a,Phonemic
+15-860-38-1,ghod1238,Godoberi,1287,сайи,CyrillTrans,cold,,,sayi,Phonemic
+15-870-38-1,ghod1238,Godoberi,704,цӀинкӀи,CyrillTrans,clean,,,cʼinkʼi,Phonemic
+15-880-38-1,ghod1238,Godoberi,1230,хъуби,CyrillTrans,"dirty, soiled",,,qubi,Phonemic
+15-890-38-1,ghod1238,Godoberi,380,бишабу,CyrillTrans,wrinkled,,,"bišabu, bišašabu",Phonemic
+15-890-38-3,ghod1238,Godoberi,380,бишашабу,CyrillTrans,wrinkled,,,"bišabu, bišašabu",Phonemic
+16-110-38-1,ghod1238,Godoberi,53,рухӀил,CyrillTrans,"soul, spirit",,,ruħil,Phonemic
+16-150-38-1,ghod1238,Godoberi,1572,гІажаибаб,CyrillTrans,"surprised, astonished",,,"ʕažaibab, tamašayab, ħikmatab",Phonemic
+16-150-38-3,ghod1238,Godoberi,1572,тамашайаб,CyrillTrans,"surprised, astonished",,,"ʕažaibab, tamašayab, ħikmatab",Phonemic
+16-150-38-5,ghod1238,Godoberi,1572,хІикматаб,CyrillTrans,"surprised, astonished",,,"ʕažaibab, tamašayab, ħikmatab",Phonemic
+16-180-38-1,ghod1238,Godoberi,720,битІилъи,CyrillTrans,"good fortune, luck",,,"bitʼiɬi, iqʼibar, tawpiqʼ, taliħi",Phonemic
+16-180-38-3,ghod1238,Godoberi,720,икъибар,CyrillTrans,"good fortune, luck",,,"bitʼiɬi, iqʼibar, tawpiqʼ, taliħi",Phonemic
+16-180-38-5,ghod1238,Godoberi,720,тавпикъ,CyrillTrans,"good fortune, luck",,,"bitʼiɬi, iqʼibar, tawpiqʼ, taliħi",Phonemic
+16-180-38-7,ghod1238,Godoberi,720,талихІи,CyrillTrans,"good fortune, luck",,,"bitʼiɬi, iqʼibar, tawpiqʼ, taliħi",Phonemic
+16-190-38-1,ghod1238,Godoberi,56,талихІкъосиᴴ,CyrillTrans,"misfortune, bad luck",,,taliħqʼosiⁿ,Phonemic
+16-230-38-1,ghod1238,Godoberi,1495,вуххувукабу,CyrillTrans,"joyful, glad, happy",,,"wux̄uwukabu, bix̄ibukabu",Phonemic
+16-230-38-3,ghod1238,Godoberi,1495,биххибукабу,CyrillTrans,"joyful, glad, happy",,,"wux̄uwukabu, bix̄ibukabu",Phonemic
+16-250-38-1,ghod1238,Godoberi,1355,белъикки,CyrillTrans,laugh,,,"beɬik̄i, woɬik̄i",Phonemic
+16-250-38-3,ghod1238,Godoberi,1355,волъикки,CyrillTrans,laugh,,,"beɬik̄i, woɬik̄i",Phonemic
+16-251-38-1,ghod1238,Godoberi,1451,биххибуки,CyrillTrans,smile,,,bix̄ibuki,Phonemic
+16-260-38-1,ghod1238,Godoberi,1413,хӀаᴴйиди,CyrillTrans,play,,,"ħaⁿyidi, č̄abi",Phonemic
+16-260-38-3,ghod1238,Godoberi,1413,ччаби,CyrillTrans,play,,,"ħaⁿyidi, č̄abi",Phonemic
+16-270-38-1,ghod1238,Godoberi,923,идалъи,CyrillTrans,love,,,idaɬi,Phonemic
+16-290-38-1,ghod1238,Godoberi,578,обади,CyrillTrans,kiss,,,obadi,Phonemic
+16-300-38-1,ghod1238,Godoberi,928,гьашелъи гьиши,CyrillTrans,embrace,,,hašeɬi hiši,Phonemic
+16-310-38-1,ghod1238,Godoberi,1783,жабир,CyrillTrans,pain,,,žabir,Phonemic
+16-320-38-1,ghod1238,Godoberi,1668,ракӀва къварилъи,CyrillTrans,"grief, sorrow, sadness",,,"rakʼʷa qʼʷariɬi, pašmanɬi",Phonemic
+16-320-38-3,ghod1238,Godoberi,1668,пашманлъи,CyrillTrans,"grief, sorrow, sadness",,,"rakʼʷa qʼʷariɬi, pašmanɬi",Phonemic
+16-330-38-1,ghod1238,Godoberi,1000,ахӀи,CyrillTrans,"anxiety, worry",,,aħi,Phonemic
+16-340-38-1,ghod1238,Godoberi,1875,ракӀвабичӀи,CyrillTrans,"regret, be sorry",,,"rakʼʷabičʼi, rakʼʷaqʼiɬi",Phonemic
+16-340-38-3,ghod1238,Godoberi,1875,ракІвакъилъи,CyrillTrans,"regret, be sorry",,,"rakʼʷabičʼi, rakʼʷaqʼiɬi",Phonemic
+16-350-38-1,ghod1238,Godoberi,1141,гурхӀи,CyrillTrans,pity,,,"gurħi, cʼob",Phonemic
+16-350-38-3,ghod1238,Godoberi,1141,цІоб,CyrillTrans,pity,,,"gurħi, cʼob",Phonemic
+16-370-38-1,ghod1238,Godoberi,1839,хъади,CyrillTrans,"cry, weep",,,qadi,Phonemic
+16-380-38-1,ghod1238,Godoberi,1651,маъа,CyrillTrans,tear (noun),,,maʔa,Phonemic
+16-390-38-1,ghod1238,Godoberi,716,угьугьулъи,CyrillTrans,groan,,,uhuhuɬi,Phonemic
+16-410-38-1,ghod1238,Godoberi,1607,рихиᴴ,CyrillTrans,hate,,,rixiⁿ,Phonemic
+16-420-38-1,ghod1238,Godoberi,82,ссими,CyrillTrans,anger,,,"s̄imi, tʼuⁿyiɬi",Phonemic
+16-420-38-3,ghod1238,Godoberi,82,тӀуᴴйилъи,CyrillTrans,anger,,,"s̄imi, tʼuⁿyiɬi",Phonemic
+16-440-38-1,ghod1238,Godoberi,40,жахІдалъи,CyrillTrans,"envy, jealousy",,,žaħdaɬi,Phonemic
+16-450-38-1,ghod1238,Godoberi,1776,сули,CyrillTrans,shame (noun),,,suli,Phonemic
+16-480-38-1,ghod1238,Godoberi,174,чӀухӀаму,CyrillTrans,proud,,,čʼuħamu,Phonemic
+16-510-38-1,ghod1238,Godoberi,1779,кьантӀи,CyrillTrans,dare,,,ƛ̄ʼantʼi,Phonemic
+16-520-38-1,ghod1238,Godoberi,3,вощав,CyrillTrans,brave,,,woš̄aw,Phonemic
+16-530-38-1,ghod1238,Godoberi,781,лъибир,CyrillTrans,"fear, fright",,,ɬibir,Phonemic
+16-540-38-1,ghod1238,Godoberi,1810,лъибир,CyrillTrans,danger,,,ɬibir,Phonemic
+16-620-38-1,ghod1238,Godoberi,1784,анищ,CyrillTrans,"desire, want",,,"aniš̄, ɣira, muradi, šawuqʼ",Phonemic
+16-620-38-3,ghod1238,Godoberi,1784,гъира,CyrillTrans,"desire, want",,,"aniš̄, ɣira, muradi, šawuqʼ",Phonemic
+16-620-38-5,ghod1238,Godoberi,1784,муради,CyrillTrans,"desire, want",,,"aniš̄, ɣira, muradi, šawuqʼ",Phonemic
+16-620-38-7,ghod1238,Godoberi,1784,шавукъ,CyrillTrans,"desire, want",,,"aniš̄, ɣira, muradi, šawuqʼ",Phonemic
+16-622-38-1,ghod1238,Godoberi,1750,вачӀи,CyrillTrans,choose,,,"wačʼi, bačʼi, yačʼi",Phonemic
+16-622-38-3,ghod1238,Godoberi,1750,бачІи,CyrillTrans,choose,,,"wačʼi, bačʼi, yačʼi",Phonemic
+16-622-38-5,ghod1238,Godoberi,1750,йачІи,CyrillTrans,choose,,,"wačʼi, bačʼi, yačʼi",Phonemic
+16-630-38-1,ghod1238,Godoberi,1092,бужи,CyrillTrans,hope,,,buži,Phonemic
+16-650-38-1,ghod1238,Godoberi,100,вутӀи,CyrillTrans,faithful,,,"wutʼi, butʼi, yutʼi",Phonemic
+16-650-38-3,ghod1238,Godoberi,100,бутІи,CyrillTrans,faithful,,,"wutʼi, butʼi, yutʼi",Phonemic
+16-650-38-5,ghod1238,Godoberi,100,йутІи,CyrillTrans,faithful,,,"wutʼi, butʼi, yutʼi",Phonemic
+16-660-38-1,ghod1238,Godoberi,1657,уᴴудалассу,CyrillTrans,true,,,uⁿudalas̄u,Phonemic
+16-670-38-1,ghod1238,Godoberi,601,гьебесси басиᴴ,CyrillTrans,"lie, tell lies",,,hebes̄i basiⁿ,Phonemic
+16-680-38-1,ghod1238,Godoberi,13,гурккиᴴ,CyrillTrans,deceit,,,gurk̄iⁿ,Phonemic
+16-690-38-1,ghod1238,Godoberi,1528,гьилару вухи,CyrillTrans,forgive,,,hilaru wuxi,Phonemic
+16-710-38-1,ghod1238,Godoberi,1035,шуб,CyrillTrans,good,,,"šub, cʼaqʼaw",Phonemic
+16-710-38-3,ghod1238,Godoberi,1035,цӀакъав,CyrillTrans,good,,,"šub, cʼaqʼaw",Phonemic
+16-720-38-1,ghod1238,Godoberi,1292,сураму,CyrillTrans,bad,,,suramu,Phonemic
+16-730-38-1,ghod1238,Godoberi,1725,вутӀи,CyrillTrans,"right, correct",,,"wutʼi, butʼi, yutʼi",Phonemic
+16-730-38-3,ghod1238,Godoberi,1725,бутІи,CyrillTrans,"right, correct",,,"wutʼi, butʼi, yutʼi",Phonemic
+16-730-38-5,ghod1238,Godoberi,1725,йутІи,CyrillTrans,"right, correct",,,"wutʼi, butʼi, yutʼi",Phonemic
+16-740-38-1,ghod1238,Godoberi,1390,микъиссав,CyrillTrans,wrong,,,miqʼis̄aw,Phonemic
+16-760-38-1,ghod1238,Godoberi,134,мекъаб иᴴгьибу даᴴйи,CyrillTrans,fault,,,meqʼab iⁿhibu daⁿyi,Phonemic
+16-770-38-1,ghod1238,Godoberi,1293,гъалатӀи,CyrillTrans,"mistake, error",,,ɣalatʼi,Phonemic
+16-780-38-1,ghod1238,Godoberi,381,гьила бугъи,CyrillTrans,blame,,,hila buɣi,Phonemic
+16-790-38-1,ghod1238,Godoberi,1687,воцциди,CyrillTrans,praise,,,woc̄idi,Phonemic
+16-810-38-1,ghod1238,Godoberi,1427,чӀиквар,CyrillTrans,beautiful,,,čʼikʷar,Phonemic
+16-820-38-1,ghod1238,Godoberi,1548,вакъати,CyrillTrans,ugly,,,waqʼati,Phonemic
+16-830-38-1,ghod1238,Godoberi,2018,къиннибу,CyrillTrans,greedy,,,"qʼin̄ibu, qʼinqʼiš̄i",Phonemic
+16-830-38-3,ghod1238,Godoberi,2018,къинкъищи,CyrillTrans,greedy,,,"qʼin̄ibu, qʼinqʼiš̄i",Phonemic
+16-840-38-1,ghod1238,Godoberi,1310,гӀакъулулІи,CyrillTrans,clever,,,ʕaqʼuluƛi,Phonemic
+17-110-38-1,ghod1238,Godoberi,1562,гӀакъулу,CyrillTrans,mind,,,ʕaqʼulu,Phonemic
+17-130-38-1,ghod1238,Godoberi,1415,ургъиᴴ,CyrillTrans,think (= reflect),,,urɣiⁿ,Phonemic
+17-140-38-1,ghod1238,Godoberi,1513,ургъиᴴ,CyrillTrans,think (= be of the opinion),,,"urɣiⁿ, ric̄in, biš̄iⁿ",Phonemic
+17-140-38-3,ghod1238,Godoberi,1513,риццин,CyrillTrans,think (= be of the opinion),,,"urɣiⁿ, ric̄in, biš̄iⁿ",Phonemic
+17-140-38-5,ghod1238,Godoberi,1513,бищиᴴ,CyrillTrans,think (= be of the opinion),,,"urɣiⁿ, ric̄in, biš̄iⁿ",Phonemic
+17-150-38-1,ghod1238,Godoberi,1890,бужи,CyrillTrans,believe,,,buži,Phonemic
+17-160-38-1,ghod1238,Godoberi,1536,биччиᴴ,CyrillTrans,understand,,,bič̄iⁿ,Phonemic
+17-170-38-1,ghod1238,Godoberi,1410,биъи,CyrillTrans,know,,,bii,Phonemic
+17-171-38-1,ghod1238,Godoberi,1932,рукката,CyrillTrans,guess,,,ruk̄ata,Phonemic
+17-180-38-1,ghod1238,Godoberi,1521,рукки,CyrillTrans,seem,,,ruk̄i,Phonemic
+17-190-38-1,ghod1238,Godoberi,1609,пикру,CyrillTrans,"idea, notion",,,"pikru, bič̄ir",Phonemic
+17-190-38-3,ghod1238,Godoberi,1609,биччир,CyrillTrans,"idea, notion",,,"pikru, bič̄ir",Phonemic
+17-210-38-1,ghod1238,Godoberi,698,гӀакълулъиссу,CyrillTrans,wise,,,ʕaqʼluɬis̄u,Phonemic
+17-220-38-1,ghod1238,Godoberi,1518,канлъибу,CyrillTrans,"foolish, stupid",,,"kanɬibu, ʕadalab",Phonemic
+17-220-38-3,ghod1238,Godoberi,1518,гІадалаб,CyrillTrans,"foolish, stupid",,,"kanɬibu, ʕadalab",Phonemic
+17-230-38-1,ghod1238,Godoberi,1899,гӀакълу ивучӀибу,CyrillTrans,"insane, crazy",,,ʕaqʼlu iwučʼibu,Phonemic
+17-240-38-1,ghod1238,Godoberi,504,биали,CyrillTrans,learn,,,biali,Phonemic
+17-242-38-1,ghod1238,Godoberi,1929,бали,CyrillTrans,study,,,bali,Phonemic
+17-250-38-1,ghod1238,Godoberi,709,биали,CyrillTrans,teach,,,"biali, maɬ̄i",Phonemic
+17-250-38-3,ghod1238,Godoberi,709,малълъи,CyrillTrans,teach,,,"biali, maɬ̄i",Phonemic
+17-260-38-1,ghod1238,Godoberi,753,мутагӀил,CyrillTrans,pupil,,,"mutaʕil, cʼalduqaⁿ",Phonemic
+17-260-38-3,ghod1238,Godoberi,753,цІалдухъаᴴ,CyrillTrans,pupil,,,"mutaʕil, cʼalduqaⁿ",Phonemic
+17-270-38-1,ghod1238,Godoberi,1038,мугӀалим,CyrillTrans,teacher,,,"muʕalim, učitel",Phonemic
+17-270-38-3,ghod1238,Godoberi,1038,учител,CyrillTrans,teacher,,,"muʕalim, učitel",Phonemic
+17-280-38-1,ghod1238,Godoberi,673,ушкур,CyrillTrans,school,,,uškur,Phonemic
+17-310-38-1,ghod1238,Godoberi,707,ракӀвачӀу бигъи,CyrillTrans,remember,,,rakʼʷačʼu biɣi,Phonemic
+17-320-38-1,ghod1238,Godoberi,1523,боъочи,CyrillTrans,forget,,,boʔoči,Phonemic
+17-340-38-1,ghod1238,Godoberi,989,байанаб,CyrillTrans,"clear, plain",,,"bayanab, cʼinkʼi",Phonemic
+17-340-38-3,ghod1238,Godoberi,989,цІинкІи,CyrillTrans,"clear, plain",,,"bayanab, cʼinkʼi",Phonemic
+17-350-38-1,ghod1238,Godoberi,1764,тамашабу,CyrillTrans,obscure,,,tamašabu,Phonemic
+17-360-38-1,ghod1238,Godoberi,1121,балъголъир,CyrillTrans,secret,,,baɬgoɬir,Phonemic
+17-370-38-1,ghod1238,Godoberi,509,божарав,CyrillTrans,"sure, certain",,,božaraw,Phonemic
+17-380-38-1,ghod1238,Godoberi,1626,биччани,CyrillTrans,explain,,,bič̄ani,Phonemic
+17-410-38-1,ghod1238,Godoberi,1162,муради,CyrillTrans,"intention, purpose",,,muradi,Phonemic
+17-420-38-1,ghod1238,Godoberi,860,гӀилла,CyrillTrans,cause,,,ʕilla,Phonemic
+17-430-38-1,ghod1238,Godoberi,1308,шакаргъи,CyrillTrans,doubt,,,"šakarɣi, waswasi",Phonemic
+17-430-38-3,ghod1238,Godoberi,1308,васваси,CyrillTrans,doubt,,,"šakarɣi, waswasi",Phonemic
+17-440-38-1,ghod1238,Godoberi,1841,шакаргъила,CyrillTrans,suspect,,,"šakarɣila, waɬi",Phonemic
+17-440-38-3,ghod1238,Godoberi,1841,валъи,CyrillTrans,suspect,,,"šakarɣila, waɬi",Phonemic
+17-441-38-1,ghod1238,Godoberi,1902,хийаналъи иᴴгьи,CyrillTrans,betray,,,xiyanaɬi iⁿhi,Phonemic
+17-450-38-1,ghod1238,Godoberi,643,чара ивучӀулъир,CyrillTrans,"need, necessity",,,čara iwučʼuɬir,Phonemic
+17-460-38-1,ghod1238,Godoberi,686,папа,CyrillTrans,easy,,,papa,Phonemic
+17-470-38-1,ghod1238,Godoberi,584,захӀматаб,CyrillTrans,difficult,,,zaħmatab,Phonemic
+17-480-38-1,ghod1238,Godoberi,1812,хӀал бихьиди,CyrillTrans,"try, attempt",,,ħal bix̌idi,Phonemic
+17-490-38-1,ghod1238,Godoberi,488,реси,CyrillTrans,"way, manner",,,resi,Phonemic
+17-510-38-1,ghod1238,Godoberi,1577,эхха,CyrillTrans,and,,,ex̄a,Phonemic
+17-520-38-1,ghod1238,Godoberi,1157,инкьайивучІа,CyrillTrans,because,,,"inƛ̄ʼayiwučʼa, inƛ̄ʼayiwučʼibu",Phonemic
+17-520-38-3,ghod1238,Godoberi,1157,инкьайивучІибу,CyrillTrans,because,,,"inƛ̄ʼayiwučʼa, inƛ̄ʼayiwučʼibu",Phonemic
+17-530-38-1,ghod1238,Godoberi,1459,нагагь,CyrillTrans,if,,,"nagah, nagʲaha",Phonemic
+17-530-38-3,ghod1238,Godoberi,1459,нагʼагьа,CyrillTrans,if,,,"nagah, nagʲaha",Phonemic
+17-540-38-1,ghod1238,Godoberi,1014,йа,CyrillTrans,or,,,"ya, yaɬuni",Phonemic
+17-540-38-3,ghod1238,Godoberi,1014,йалъуни,CyrillTrans,or,,,"ya, yaɬuni",Phonemic
+17-550-38-1,ghod1238,Godoberi,1268,у,CyrillTrans,"yes, affirmative",,,u,Phonemic
+17-560-38-1,ghod1238,Godoberi,1269,ивучи,CyrillTrans,"no, negative",,,iwuči,Phonemic
+17-610-38-1,ghod1238,Godoberi,1239,инкьахху,CyrillTrans,how?,,,inƛ̄ʼax̄u,Phonemic
+17-620-38-1,ghod1238,Godoberi,822,чаму,CyrillTrans,how many?,,,"čamu, int̄ō",Phonemic
+17-620-38-3,ghod1238,Godoberi,822,интто̄,CyrillTrans,how many?,,,"čamu, int̄ō",Phonemic
+17-630-38-1,ghod1238,Godoberi,531,чаму,CyrillTrans,how much?,,,"čamu, int̄ō(wu)",Phonemic
+17-630-38-3,ghod1238,Godoberi,531,интто̄(ву),CyrillTrans,how much?,,,"čamu, int̄ō(wu)",Phonemic
+17-640-38-1,ghod1238,Godoberi,1236,эби,CyrillTrans,what?,,,"ebi, ebidāⁿ",Phonemic
+17-640-38-3,ghod1238,Godoberi,1236,эбида̄ᴴ,CyrillTrans,what?,,,"ebi, ebidāⁿ",Phonemic
+17-650-38-1,ghod1238,Godoberi,1238,индахъи,CyrillTrans,when?,,,"indaqi, indawu",Phonemic
+17-650-38-3,ghod1238,Godoberi,1238,индаву,CyrillTrans,when?,,,"indaqi, indawu",Phonemic
+17-660-38-1,ghod1238,Godoberi,1237,ийахъиру,CyrillTrans,where?,,,"iyaqiru, iyaqi",Phonemic
+17-660-38-3,ghod1238,Godoberi,1237,ийахъи,CyrillTrans,where?,,,"iyaqiru, iyaqi",Phonemic
+17-670-38-1,ghod1238,Godoberi,727,инкьассу,CyrillTrans,which?,,,inƛ̄ʼas̄u,Phonemic
+17-680-38-1,ghod1238,Godoberi,1235,э̄ву,CyrillTrans,who?,,,ēwu,Phonemic
+17-690-38-1,ghod1238,Godoberi,1270,инкьаву,CyrillTrans,why?,,,inƛ̄ʼawu,Phonemic
+18-110-38-1,ghod1238,Godoberi,1363,лъаччу,CyrillTrans,voice,,,ɬač̄u,Phonemic
+18-120-38-1,ghod1238,Godoberi,1261,кечӀи басиᴴ,CyrillTrans,sing,,,kečʼi basiⁿ,Phonemic
+18-130-38-1,ghod1238,Godoberi,715,вали,CyrillTrans,"shout, cry out",,,"wali, bali, waⁿwaⁿdi",Phonemic
+18-130-38-3,ghod1238,Godoberi,715,бали,CyrillTrans,"shout, cry out",,,"wali, bali, waⁿwaⁿdi",Phonemic
+18-130-38-5,ghod1238,Godoberi,715,ваᴴваᴴди,CyrillTrans,"shout, cry out",,,"wali, bali, waⁿwaⁿdi",Phonemic
+18-150-38-1,ghod1238,Godoberi,55,шушукӀалъи,CyrillTrans,whisper,,,šušukʼaɬi,Phonemic
+18-160-38-1,ghod1238,Godoberi,128,дундусалъи,CyrillTrans,mumble,,,"dundusaɬi, bumbusi, nunusaƛi",Phonemic
+18-160-38-3,ghod1238,Godoberi,128,бумбуси,CyrillTrans,mumble,,,"dundusaɬi, bumbusi, nunusaƛi",Phonemic
+18-160-38-5,ghod1238,Godoberi,128,нунусалІи,CyrillTrans,mumble,,,"dundusaɬi, bumbusi, nunusaƛi",Phonemic
+18-170-38-1,ghod1238,Godoberi,1025,шанша пуди,CyrillTrans,whistle,,,šanša pudi,Phonemic
+18-180-38-1,ghod1238,Godoberi,298,цІирцІиси,CyrillTrans,"shriek, screech",,,cʼircʼisi,Phonemic
+18-190-38-1,ghod1238,Godoberi,526,руруди,CyrillTrans,howl,,,rurudi,Phonemic
+18-210-38-1,ghod1238,Godoberi,1623,гулати,CyrillTrans,"speak, talk",,,gulati,Phonemic
+18-211-38-1,ghod1238,Godoberi,1866,миццибиккибу,CyrillTrans,"stutter, stammer",,,mic̄ibik̄ibu,Phonemic
+18-220-38-1,ghod1238,Godoberi,1458,гьикьи,CyrillTrans,say,,,hiƛ̄ʼi,Phonemic
+18-221-38-1,ghod1238,Godoberi,1711,букӀабу басиᴴ даᴴйи,CyrillTrans,tell story,,,bukʼabu basiⁿ daⁿyi,Phonemic
+18-222-38-1,ghod1238,Godoberi,1115,раша,CyrillTrans,speech (make a),,,"raša, gulatir",Phonemic
+18-222-38-3,ghod1238,Godoberi,1115,гулатир,CyrillTrans,speech (make a),,,"raša, gulatir",Phonemic
+18-230-38-1,ghod1238,Godoberi,48,щинтӀи,CyrillTrans,silent (be),,,š̄intʼi,Phonemic
+18-240-38-1,ghod1238,Godoberi,1307,мицци,CyrillTrans,language,,,mic̄i,Phonemic
+18-260-38-1,ghod1238,Godoberi,1599,раша,CyrillTrans,word,,,"raša, kʲalam",Phonemic
+18-260-38-3,ghod1238,Godoberi,1599,кʼалам,CyrillTrans,word,,,"raša, kʲalam",Phonemic
+18-280-38-1,ghod1238,Godoberi,1405,ццери,CyrillTrans,name,,,c̄eri,Phonemic
+18-310-38-1,ghod1238,Godoberi,1309,рацциᴴ,CyrillTrans,"ask (question, inquire)",,,rac̄iⁿ,Phonemic
+18-320-38-1,ghod1238,Godoberi,1275,жаваб игьи,CyrillTrans,answer,,,žawab ihi,Phonemic
+18-330-38-1,ghod1238,Godoberi,2022,битӀи басин,CyrillTrans,"admit, confess",,,"bitʼi basin, mukʼurɬi",Phonemic
+18-330-38-3,ghod1238,Godoberi,2022,мукІурлъи,CyrillTrans,"admit, confess",,,"bitʼi basin, mukʼurɬi",Phonemic
+18-340-38-1,ghod1238,Godoberi,755,нагӀдала бикки,CyrillTrans,deny,,,naʕdala bik̄i,Phonemic
+18-350-38-1,ghod1238,Godoberi,1828,хади,CyrillTrans,"ask, request",,,xadi,Phonemic
+18-360-38-1,ghod1238,Godoberi,1675,раша икки,CyrillTrans,promise,,,raša ik̄i,Phonemic
+18-370-38-1,ghod1238,Godoberi,49,инкʼар иᴴгьи,CyrillTrans,refuse,,,inkʲar iⁿhi,Phonemic
+18-380-38-1,ghod1238,Godoberi,83,гьукъиди,CyrillTrans,forbid,,,huqʼidi,Phonemic
+18-390-38-1,ghod1238,Godoberi,299,ххамавалъи,CyrillTrans,"rebuke, scold",,,x̄amawaɬi,Phonemic
+18-410-38-1,ghod1238,Godoberi,1084,вали,CyrillTrans,call (=summon),,,"wali, bali, yali",Phonemic
+18-410-38-3,ghod1238,Godoberi,1084,бали,CyrillTrans,call (=summon),,,"wali, bali, yali",Phonemic
+18-410-38-5,ghod1238,Godoberi,1084,йали,CyrillTrans,call (=summon),,,"wali, bali, yali",Phonemic
+18-420-38-1,ghod1238,Godoberi,180,гьикьи,CyrillTrans,call (=name),,,hiƛ̄ʼi,Phonemic
+18-430-38-1,ghod1238,Godoberi,9,биали,CyrillTrans,announce,,,biali,Phonemic
+18-440-38-1,ghod1238,Godoberi,1192,лъибали,CyrillTrans,threaten,,,ɬibali,Phonemic
+18-450-38-1,ghod1238,Godoberi,101,пудавалъи,CyrillTrans,boast,,,pudawaɬi,Phonemic
+18-510-38-1,ghod1238,Godoberi,1672,хъварди,CyrillTrans,write,,,qʷardi,Phonemic
+18-520-38-1,ghod1238,Godoberi,724,бали,CyrillTrans,read,,,bali,Phonemic
+18-560-38-1,ghod1238,Godoberi,648,кʼагъати,CyrillTrans,paper,,,kʲaɣati,Phonemic
+18-570-38-1,ghod1238,Godoberi,794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-38-1,ghod1238,Godoberi,963,хъуча,CyrillTrans,book,,,quča,Phonemic
+18-670-38-1,ghod1238,Godoberi,1045,кечӀе игьатабу адами,CyrillTrans,poet,,,"kečʼe ihatabu adami, kečʼeqan, šaʕir",Phonemic
+18-670-38-3,ghod1238,Godoberi,1045,кечІехъан,CyrillTrans,poet,,,"kečʼe ihatabu adami, kečʼeqan, šaʕir",Phonemic
+18-670-38-5,ghod1238,Godoberi,1045,шагІир,CyrillTrans,poet,,,"kečʼe ihatabu adami, kečʼeqan, šaʕir",Phonemic
+18-710-38-1,ghod1238,Godoberi,777,зурма,CyrillTrans,flute,,,zurma,Phonemic
+18-720-38-1,ghod1238,Godoberi,908,дани,CyrillTrans,drum,,,dani,Phonemic
+19-110-38-1,ghod1238,Godoberi,1300,пачалихъи,CyrillTrans,country,,,"pačaliqi, ulka",Phonemic
+19-110-38-3,ghod1238,Godoberi,1300,улка,CyrillTrans,country,,,"pačaliqi, ulka",Phonemic
+19-120-38-1,ghod1238,Godoberi,89,гӀагараб пачалихъи (улка),CyrillTrans,one's native country,,,"ʕagarab pačaliqi (ulka), wat’an",Phonemic
+19-120-38-3,ghod1238,Godoberi,89,ватІан,CyrillTrans,one's native country,,,"ʕagarab pačaliqi (ulka), wat’an",Phonemic
+19-150-38-1,ghod1238,Godoberi,1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-38-1,ghod1238,Godoberi,930,гьани,CyrillTrans,village,,,hani,Phonemic
+19-170-38-1,ghod1238,Godoberi,1010,гӀурхъи,CyrillTrans,boundary,,,ʕurqi,Phonemic
+19-210-38-1,ghod1238,Godoberi,789,халкъи,CyrillTrans,people (populace),,,xalqʼi,Phonemic
+19-230-38-1,ghod1238,Godoberi,302,тухум,CyrillTrans,"tribe, clan",,,"tuxum, ahulu",Phonemic
+19-230-38-3,ghod1238,Godoberi,302,агьулу,CyrillTrans,"tribe, clan",,,"tuxum, ahulu",Phonemic
+19-240-38-1,ghod1238,Godoberi,301,цевехъан,CyrillTrans,"chief, chieftain",,,ceweqan,Phonemic
+19-250-38-1,ghod1238,Godoberi,1296,гӀанса,CyrillTrans,"staff, walking stick",,,"ʕansa, cʼuli",Phonemic
+19-250-38-3,ghod1238,Godoberi,1296,цІули,CyrillTrans,"staff, walking stick",,,"ʕansa, cʼuli",Phonemic
+19-310-38-1,ghod1238,Godoberi,1846,ханлъи иᴴгьи,CyrillTrans,"rule, govern",,,xanɬi iⁿhi,Phonemic
+19-320-38-1,ghod1238,Godoberi,1508,хан,CyrillTrans,"king, ruler",,,"xan, pača",Phonemic
+19-320-38-3,ghod1238,Godoberi,1508,пача,CyrillTrans,"king, ruler",,,"xan, pača",Phonemic
+19-330-38-1,ghod1238,Godoberi,1306,ханашу гьаркки,CyrillTrans,queen,,,xanašu hark̄i,Phonemic
+19-360-38-1,ghod1238,Godoberi,482,ракІва леми,CyrillTrans,"noble, nobleman",,,rakʼʷa lemi,Phonemic
+19-370-38-1,ghod1238,Godoberi,1032,шагьарилІи адами,CyrillTrans,"citizen, subject",,,šahariƛi adami,Phonemic
+19-410-38-1,ghod1238,Godoberi,383,ванигьекӀва,CyrillTrans,master,,,wanihekʼʷa,Phonemic
+19-420-38-1,ghod1238,Godoberi,812,сева игьаму адами,CyrillTrans,slave,,,"sewa ihamu adami, ɣarabaši, laɣi",Phonemic
+19-420-38-3,ghod1238,Godoberi,812,гъарабаши,CyrillTrans,slave,,,"sewa ihamu adami, ɣarabaši, laɣi",Phonemic
+19-420-38-5,ghod1238,Godoberi,812,лагъи,CyrillTrans,slave,,,"sewa ihamu adami, ɣarabaši, laɣi",Phonemic
+19-430-38-1,ghod1238,Godoberi,255,сева игьаму адами,CyrillTrans,servant,,,sewa ihamu adami,Phonemic
+19-440-38-1,ghod1238,Godoberi,384,озденав адами,CyrillTrans,freeman,,,ozdenaw adami,Phonemic
+19-450-38-1,ghod1238,Godoberi,1128,буйурухъ икки,CyrillTrans,"command, order",,,buyuruq ik̄i,Phonemic
+19-460-38-1,ghod1238,Godoberi,1635,мукІурлъи,CyrillTrans,obey,,,mukʼurɬi,Phonemic
+19-470-38-1,ghod1238,Godoberi,1003,бешти,CyrillTrans,"let, permit",,,bešti,Phonemic
+19-510-38-1,ghod1238,Godoberi,1325,гьалмагъи,CyrillTrans,"friend, companion",,,"halmaɣi, hudul",Phonemic
+19-510-38-3,ghod1238,Godoberi,1325,гьудул,CyrillTrans,"friend, companion",,,"halmaɣi, hudul",Phonemic
+19-520-38-1,ghod1238,Godoberi,1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-38-1,ghod1238,Godoberi,1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-38-1,ghod1238,Godoberi,791,вуичӀибу адами,CyrillTrans,stranger,,,wuičʼibu adami,Phonemic
+19-560-38-1,ghod1238,Godoberi,1782,ццейи,CyrillTrans,guest,,,c̄eyi,Phonemic
+19-570-38-1,ghod1238,Godoberi,1545,вана гьекӀо,CyrillTrans,host,,,wana hekʼo,Phonemic
+19-580-38-1,ghod1238,Godoberi,1897,кумаки,CyrillTrans,"help, aid",,,kumaki,Phonemic
+19-590-38-1,ghod1238,Godoberi,1550,квалквал игьи,CyrillTrans,"hinder, prevent",,,kʷalkʷal iⁿhi,Phonemic
+19-610-38-1,ghod1238,Godoberi,1747,гӀадати,CyrillTrans,custom,,,ʕadati,Phonemic
+19-620-38-1,ghod1238,Godoberi,1848,дагӀба,CyrillTrans,"strife, quarrel",,,"daʕba, barš̄in, qʼasan, ƛ̄ʼal",Phonemic
+19-620-38-3,ghod1238,Godoberi,1848,барщин,CyrillTrans,"strife, quarrel",,,"daʕba, barš̄in, qʼasan, ƛ̄ʼal",Phonemic
+19-620-38-5,ghod1238,Godoberi,1848,къасан,CyrillTrans,"strife, quarrel",,,"daʕba, barš̄in, qʼasan, ƛ̄ʼal",Phonemic
+19-620-38-7,ghod1238,Godoberi,1848,кьал,CyrillTrans,"strife, quarrel",,,"daʕba, barš̄in, qʼasan, ƛ̄ʼal",Phonemic
+19-630-38-1,ghod1238,Godoberi,2024,мицци,CyrillTrans,"conspiracy, plot",,,mic̄i,Phonemic
+19-650-38-1,ghod1238,Godoberi,1831,дандилъи,CyrillTrans,meet,,,dandiɬi,Phonemic
+19-720-38-1,ghod1238,Godoberi,1610,хъʼахӀба,CyrillTrans,prostitute,,,qʲaħba,Phonemic
+20-110-38-1,ghod1238,Godoberi,1423,рехъвалъи,CyrillTrans,fight (vb),,,reqʷaɬi,Phonemic
+20-130-38-1,ghod1238,Godoberi,579,рагъи,CyrillTrans,"war, battle",,,raɣi,Phonemic
+20-140-38-1,ghod1238,Godoberi,1338,рекъел,CyrillTrans,peace,,,"reqʼel, raqʼir",Phonemic
+20-140-38-3,ghod1238,Godoberi,1338,ракъир,CyrillTrans,peace,,,"reqʼel, raqʼir",Phonemic
+20-150-38-1,ghod1238,Godoberi,1561,арми,CyrillTrans,army,,,"armi, askar",Phonemic
+20-150-38-3,ghod1238,Godoberi,1561,аскар,CyrillTrans,army,,,"armi, askar",Phonemic
+20-170-38-1,ghod1238,Godoberi,1941,солдати,CyrillTrans,soldier,,,"soldati, raɣuqan",Phonemic
+20-170-38-3,ghod1238,Godoberi,1941,рагъухъан,CyrillTrans,soldier,,,"soldati, raɣuqan",Phonemic
+20-210-38-1,ghod1238,Godoberi,951,йарагъи,CyrillTrans,"weapons, arms",,,yaraɣi,Phonemic
+20-220-38-1,ghod1238,Godoberi,1763,цІули,CyrillTrans,club,,,cʼuli,Phonemic
+20-222-38-1,ghod1238,Godoberi,386,рехъвабу куртӀа,CyrillTrans,battle-ax,,,reqʷabu kurtʼa,Phonemic
+20-240-38-1,ghod1238,Godoberi,994,чІор,CyrillTrans,bow,,,"čʼor, gʲazaɣu",Phonemic
+20-240-38-3,ghod1238,Godoberi,994,гʼазагъу,CyrillTrans,bow,,,"čʼor, gʲazaɣu",Phonemic
+20-250-38-1,ghod1238,Godoberi,977,чІор,CyrillTrans,arrow,,,čʼor,Phonemic
+20-260-38-1,ghod1238,Godoberi,945,хеч,CyrillTrans,spear,,,xeč,Phonemic
+20-270-38-1,ghod1238,Godoberi,1535,ханжар,CyrillTrans,sword,,,xanžar,Phonemic
+20-280-38-1,ghod1238,Godoberi,1566,тумаги,CyrillTrans,"gun, cannon",,,"tumagi, ʕarada",Phonemic
+20-280-38-3,ghod1238,Godoberi,1566,гӀарада,CyrillTrans,"gun, cannon",,,"tumagi, ʕarada",Phonemic
+20-310-38-1,ghod1238,Godoberi,1061,йарагъи-матахІи,CyrillTrans,armor (defensive),,,yaraɣi-mataħi,Phonemic
+20-330-38-1,ghod1238,Godoberi,1680,такъийа,CyrillTrans,helmet,,,taqʼiya,Phonemic
+20-340-38-1,ghod1238,Godoberi,1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-38-1,ghod1238,Godoberi,1938,хъала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-38-1,ghod1238,Godoberi,1671,иса,CyrillTrans,tower,,,isa,Phonemic
+20-410-38-1,ghod1238,Godoberi,783,бишан,CyrillTrans,victory,,,"bišan, rišanɬi",Phonemic
+20-410-38-3,ghod1238,Godoberi,783,ришанлъи,CyrillTrans,victory,,,"bišan, rišanɬi",Phonemic
+20-420-38-1,ghod1238,Godoberi,782,киннир,CyrillTrans,defeat,,,kinnir,Phonemic
+20-430-38-1,ghod1238,Godoberi,722,гьила кӀанцӀир,CyrillTrans,attack,,,hila kʼancʼir,Phonemic
+20-440-38-1,ghod1238,Godoberi,1330,данди бигъи,CyrillTrans,defend,,,dandi biɣi,Phonemic
+20-450-38-1,ghod1238,Godoberi,421,чарчади,CyrillTrans,retreat,,,čarčadi,Phonemic
+20-460-38-1,ghod1238,Godoberi,1696,кваду мани,CyrillTrans,surrender,,,kʷadu mani,Phonemic
+20-470-38-1,ghod1238,Godoberi,1072,гьину тӀайиму,CyrillTrans,"captive, prisoner",,,"hinu tʼayimu, asir",Phonemic
+20-470-38-3,ghod1238,Godoberi,1072,асир,CyrillTrans,"captive, prisoner",,,"hinu tʼayimu, asir",Phonemic
+20-471-38-1,ghod1238,Godoberi,1940,хъаравулзабе,CyrillTrans,"guard, sentinel",,,qarawulzabe,Phonemic
+20-480-38-1,ghod1238,Godoberi,1022,шулъибер,CyrillTrans,"booty, spoils",,,"šuɬiber, dawla",Phonemic
+20-480-38-3,ghod1238,Godoberi,1022,давла,CyrillTrans,"booty, spoils",,,"šuɬiber, dawla",Phonemic
+20-490-38-1,ghod1238,Godoberi,65,гьикьи муса бикки,CyrillTrans,ambush,,,hiƛ̄ʼi musa bik̄i,Phonemic
+20-510-38-1,ghod1238,Godoberi,1858,ччугӀа биккатабу адами,CyrillTrans,fisherman,,,"č̄uʕa bik̄atabu adami, č̄uʕiqan",Phonemic
+20-510-38-3,ghod1238,Godoberi,1858,ччугІихъан,CyrillTrans,fisherman,,,"č̄uʕa bik̄atabu adami, č̄uʕiqan",Phonemic
+20-520-38-1,ghod1238,Godoberi,1074,ччугӀа биккатабу кӀичӀу,CyrillTrans,fishhook,,,č̄uʕa bik̄atabu kʼičʼu,Phonemic
+20-530-38-1,ghod1238,Godoberi,19,чІелал,CyrillTrans,fishing line,,,čʼelal,Phonemic
+20-540-38-1,ghod1238,Godoberi,388,ччугӀа биккатабу сетка,CyrillTrans,fishnet,,,č̄uʕa bik̄atabu setka,Phonemic
+20-560-38-1,ghod1238,Godoberi,2013,ккуккин,CyrillTrans,bait,,,k̄uk̄in,Phonemic
+20-610-38-1,ghod1238,Godoberi,1435,чанахъвалъи,CyrillTrans,hunt,,,čanaqʷaɬi,Phonemic
+20-620-38-1,ghod1238,Godoberi,1172,бахали,CyrillTrans,shoot,,,"baxali, ƛ̄ʼohidali",Phonemic
+20-620-38-3,ghod1238,Godoberi,1172,кьогьидали,CyrillTrans,shoot,,,"baxali, ƛ̄ʼohidali",Phonemic
+20-640-38-1,ghod1238,Godoberi,1075,гьикьи багъир ингьи,CyrillTrans,trap (noun),,,hiƛ̄ʼi baɣir iⁿhi,Phonemic
+20-650-38-1,ghod1238,Godoberi,1170,бикки,CyrillTrans,trap (vb),,,bik̄i,Phonemic
+21-110-38-1,ghod1238,Godoberi,1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-38-1,ghod1238,Godoberi,1068,суд,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-150-38-3,ghod1238,Godoberi,1068,диван,CyrillTrans,court,,,"sud, diwan",Phonemic
+21-160-38-1,ghod1238,Godoberi,1818,суди иᴴгьи,CyrillTrans,judge (vb),,,sudi iⁿhi,Phonemic
+21-170-38-1,ghod1238,Godoberi,1067,судилІи хІукму,CyrillTrans,judgment,,,sudiƛi ħukmu,Phonemic
+21-180-38-1,ghod1238,Godoberi,861,ссудийав,CyrillTrans,judge (noun),,,s̄udiyaw,Phonemic
+21-210-38-1,ghod1238,Godoberi,2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-38-1,ghod1238,Godoberi,1034,жавабчи,CyrillTrans,defendant,,,žawabči,Phonemic
+21-230-38-1,ghod1238,Godoberi,1144,нугӀи,CyrillTrans,witness,,,nuʕi,Phonemic
+21-240-38-1,ghod1238,Godoberi,1939,нокарухи,CyrillTrans,swear,,,nokaruxi,Phonemic
+21-250-38-1,ghod1238,Godoberi,1712,наква,CyrillTrans,oath,,,nakʷa,Phonemic
+21-310-38-1,ghod1238,Godoberi,1814,гьилабугъи,CyrillTrans,accuse,,,hilabuɣi,Phonemic
+21-320-38-1,ghod1238,Godoberi,484,хабарисалъи,CyrillTrans,condemn,,,xabarisaɬi,Phonemic
+21-330-38-1,ghod1238,Godoberi,983,гӀайибийавлъу рицци,CyrillTrans,convict (vb),,,ʕayibiyawɬu ric̄i,Phonemic
+21-340-38-1,ghod1238,Godoberi,988,вутӀи игьи,CyrillTrans,acquit,,,wutʼi ihi,Phonemic
+21-350-38-1,ghod1238,Godoberi,1682,гӀайибав,CyrillTrans,guilty,,,"ʕayibaw, taqʼsiraw",Phonemic
+21-350-38-3,ghod1238,Godoberi,1682,такъсирав,CyrillTrans,guilty,,,"ʕayibaw, taqʼsiraw",Phonemic
+21-360-38-1,ghod1238,Godoberi,90,гӀайибав ивучӀибу,CyrillTrans,innocent,,,ʕayibaw iwučʼibu,Phonemic
+21-370-38-1,ghod1238,Godoberi,390,тамихІи,CyrillTrans,"penalty, punishment",,,tamiħi,Phonemic
+21-380-38-1,ghod1238,Godoberi,218,гьила арси букъи (бугъи),CyrillTrans,fine,,,hila arsi buqʼi (buɣi),Phonemic
+21-390-38-1,ghod1238,Godoberi,1281,туснахъи,CyrillTrans,"prison, jail",,,tusnaqi,Phonemic
+21-420-38-1,ghod1238,Godoberi,845,ккванир,CyrillTrans,murder,,,k̄ʷanir,Phonemic
+21-430-38-1,ghod1238,Godoberi,902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-38-1,ghod1238,Godoberi,953,инжити игьи,CyrillTrans,rape,,,"inžiti iⁿhi, maxsaraɬi yik̄i",Phonemic
+21-440-38-3,ghod1238,Godoberi,953,махсаралъи йикки,CyrillTrans,rape,,,"inžiti iⁿhi, maxsaraɬi yik̄i",Phonemic
+21-460-38-1,ghod1238,Godoberi,1889,цӀайирукали,CyrillTrans,arson,,,cʼayirukali,Phonemic
+21-470-38-1,ghod1238,Godoberi,1792,гьебесебелъи нугӀилъир,CyrillTrans,perjury,,,hebesebeɬi nuʕiɬir,Phonemic
+21-510-38-1,ghod1238,Godoberi,713,бакъащи,CyrillTrans,steal,,,"baqʼaš̄i, cʼohordi",Phonemic
+21-510-38-3,ghod1238,Godoberi,713,цІогьорди,CyrillTrans,steal,,,"baqʼaš̄i, cʼohordi",Phonemic
+21-520-38-1,ghod1238,Godoberi,1160,цӀогьор,CyrillTrans,thief,,,cʼohor,Phonemic
+22-110-38-1,ghod1238,Godoberi,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-38-1,ghod1238,Godoberi,1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-38-1,ghod1238,Godoberi,911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-38-1,ghod1238,Godoberi,853,мигьмар,CyrillTrans,altar,,,mihmar,Phonemic
+22-150-38-1,ghod1238,Godoberi,1103,къурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-38-1,ghod1238,Godoberi,257,вани бикӀʼани,CyrillTrans,worship,,,wani bikʼʲani,Phonemic
+22-170-38-1,ghod1238,Godoberi,24,кубади,CyrillTrans,pray,,,kubadi,Phonemic
+22-180-38-1,ghod1238,Godoberi,852,динийав адами,CyrillTrans,priest,,,"diniyaw adami, kʲašišaw",Phonemic
+22-180-38-3,ghod1238,Godoberi,852,кʼашишав,CyrillTrans,priest,,,"diniyaw adami, kʲašišaw",Phonemic
+22-190-38-1,ghod1238,Godoberi,1702,цӀинкӀи,CyrillTrans,"holy, sacred",,,cʼinkʼi,Phonemic
+22-220-38-1,ghod1238,Godoberi,304,дин тӀибитӀали,CyrillTrans,preach,,,"din tʼibitʼali, waʔza iⁿhi",Phonemic
+22-220-38-3,ghod1238,Godoberi,304,вагІза ингьи,CyrillTrans,preach,,,"din tʼibitʼali, waʔza iⁿhi",Phonemic
+22-230-38-1,ghod1238,Godoberi,391,разилъи,CyrillTrans,bless,,,raziɬi,Phonemic
+22-240-38-1,ghod1238,Godoberi,8,нагӀана икки,CyrillTrans,curse,,,"naʕana ik̄i, rohobiɬi, x̄ami",Phonemic
+22-240-38-3,ghod1238,Godoberi,8,рогьобилъи,CyrillTrans,curse,,,"naʕana ik̄i, rohobiɬi, x̄ami",Phonemic
+22-240-38-5,ghod1238,Godoberi,8,ххами,CyrillTrans,curse,,,"naʕana ik̄i, rohobiɬi, x̄ami",Phonemic
+22-260-38-1,ghod1238,Godoberi,303,эликки,CyrillTrans,fast (vb),,,elik̄i,Phonemic
+22-310-38-1,ghod1238,Godoberi,1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-38-1,ghod1238,Godoberi,878,жужахӀи,CyrillTrans,hell,,,žužaħi,Phonemic
+22-350-38-1,ghod1238,Godoberi,1973,шайтӀан,CyrillTrans,demon (evil spirit),,,"šaytʼan, ilbis, ʕibrit",Phonemic
+22-350-38-3,ghod1238,Godoberi,1973,илбис,CyrillTrans,demon (evil spirit),,,"šaytʼan, ilbis, ʕibrit",Phonemic
+22-350-38-5,ghod1238,Godoberi,1973,гІибрит,CyrillTrans,demon (evil spirit),,,"šaytʼan, ilbis, ʕibrit",Phonemic
+22-370-38-1,ghod1238,Godoberi,1945,хъанчи,CyrillTrans,idol,,,qanči,Phonemic
+22-420-38-1,ghod1238,Godoberi,392,сихӀрулъ,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-420-38-3,ghod1238,Godoberi,392,макрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-430-38-1,ghod1238,Godoberi,2137,хъартай,CyrillTrans,"sorcerer, witch",,,"qartay, godaɬi yaši",Phonemic
+22-430-38-3,ghod1238,Godoberi,2137,годалъи йаши,CyrillTrans,"sorcerer, witch",,,"qartay, godaɬi yaši",Phonemic
+22-440-38-1,ghod1238,Godoberi,2138,хІурулгІиᴴ,CyrillTrans,"fairy, elf",,,ħurulʕiⁿ,Phonemic
+22-450-38-1,ghod1238,Godoberi,1175,рухӀил,CyrillTrans,"ghost, phantom",,,ruħil,Phonemic
+22-470-38-1,ghod1238,Godoberi,107,акънулъай,CyrillTrans,"omen, portent",,,aqʼnuɬay,Phonemic

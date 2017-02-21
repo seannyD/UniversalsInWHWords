@@ -1,0 +1,1429 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-521-1,kumy1244,Kumyk (Kajtak dialect),1852,коп керен,CyrillTrans,often,,,kop keren,Phonemic
+14-310-521-1,kumy1244,Kumyk (Kajtak dialect),1676,гьар заман,CyrillTrans,always,,,har zaman,Phonemic
+14-290-521-1,kumy1244,Kumyk (Kajtak dialect),790,гьазур,CyrillTrans,ready,,,hazur,Phonemic
+14-280-521-1,kumy1244,Kumyk (Kajtak dialect),1928,токъдамакъ,CyrillTrans,"cease, stop",,,toqdamaq,Phonemic
+14-270-521-1,kumy1244,Kumyk (Kajtak dialect),1766,битдирмакъ,CyrillTrans,finish,,,bitdirmaq,Phonemic
+14-260-521-1,kumy1244,Kumyk (Kajtak dialect),743,битмакъ,CyrillTrans,end (temporal),,,bitmaq,Phonemic
+14-252-521-1,kumy1244,Kumyk (Kajtak dialect),1186,узатылмакъ,CyrillTrans,"last, endure",,,uzatɨlmaq,Phonemic
+14-250-521-1,kumy1244,Kumyk (Kajtak dialect),1806,башламакъ,CyrillTrans,"begin, beginning",,,"bašlamaq, bašɨ",Phonemic
+14-250-521-3,kumy1244,Kumyk (Kajtak dialect),1806,башы,CyrillTrans,"begin, beginning",,,"bašlamaq, bašɨ",Phonemic
+14-240-521-1,kumy1244,Kumyk (Kajtak dialect),425,токътатмакъ,CyrillTrans,"retard, delay",,,toqtatmaq,Phonemic
+14-230-521-1,kumy1244,Kumyk (Kajtak dialect),754,алгъасамакъ,CyrillTrans,"hasten, hurry",,,alɣasamaq,Phonemic
+14-220-521-1,kumy1244,Kumyk (Kajtak dialect),701,аста,CyrillTrans,slow,,,asta,Phonemic
+14-210-521-1,kumy1244,Kumyk (Kajtak dialect),1631,чалт,CyrillTrans,"swift, fast, quick",,,čalt,Phonemic
+14-190-521-1,kumy1244,Kumyk (Kajtak dialect),1963,буссагьат,CyrillTrans,immediately,,,bus̄ahat,Phonemic
+14-180-521-1,kumy1244,Kumyk (Kajtak dialect),1376,гьалли,CyrillTrans,now,,,halli,Phonemic
+14-170-521-1,kumy1244,Kumyk (Kajtak dialect),477,геч,CyrillTrans,late,,,geč,Phonemic
+14-160-521-1,kumy1244,Kumyk (Kajtak dialect),672,тез,CyrillTrans,early,,,tez,Phonemic
+14-150-521-1,kumy1244,Kumyk (Kajtak dialect),1229,къарт,CyrillTrans,old,,,qart,Phonemic
+14-140-521-1,kumy1244,Kumyk (Kajtak dialect),1207,жагьил,CyrillTrans,young,,,ǯahil,Phonemic
+14-120-521-1,kumy1244,Kumyk (Kajtak dialect),1789,асру,CyrillTrans,age,,,"asru, dewür",Phonemic
+14-120-521-3,kumy1244,Kumyk (Kajtak dialect),1789,девюр,CyrillTrans,age,,,"asru, dewür",Phonemic
+14-130-521-1,kumy1244,Kumyk (Kajtak dialect),1231,янгъы,CyrillTrans,new,,,yanɣɨ,Phonemic
+14-110-521-1,kumy1244,Kumyk (Kajtak dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-521-1,kumy1244,Kumyk (Kajtak dialect),417,уч керен,CyrillTrans,three times,,,uč keren,Phonemic
+13-420-521-1,kumy1244,Kumyk (Kajtak dialect),1859,учунчу,CyrillTrans,third,,,učunču,Phonemic
+13-380-521-1,kumy1244,Kumyk (Kajtak dialect),1546,эки керен,CyrillTrans,two times,,,eki keren,Phonemic
+13-370-521-1,kumy1244,Kumyk (Kajtak dialect),1888,жут,CyrillTrans,pair,,,ǯut,Phonemic
+13-360-521-1,kumy1244,Kumyk (Kajtak dialect),1384,экинчи,CyrillTrans,second,,,ekinči,Phonemic
+13-350-521-1,kumy1244,Kumyk (Kajtak dialect),1529,артдаги,CyrillTrans,last,,,artdagi,Phonemic
+13-340-521-1,kumy1244,Kumyk (Kajtak dialect),728,биринчи,CyrillTrans,first,,,birinči,Phonemic
+13-330-521-1,kumy1244,Kumyk (Kajtak dialect),1580,биргина бир,CyrillTrans,"alone, only",,,birgina bir,Phonemic
+13-240-521-1,kumy1244,Kumyk (Kajtak dialect),816,ярты,CyrillTrans,half,,,yartɨ,Phonemic
+13-230-521-1,kumy1244,Kumyk (Kajtak dialect),779,кесек,CyrillTrans,"part, piece",,,"kesek, pay",Phonemic
+13-230-521-3,kumy1244,Kumyk (Kajtak dialect),779,пай,CyrillTrans,"part, piece",,,"kesek, pay",Phonemic
+13-220-521-1,kumy1244,Kumyk (Kajtak dialect),1624,бош,CyrillTrans,empty,,,boš,Phonemic
+13-210-521-1,kumy1244,Kumyk (Kajtak dialect),1429,толуп,CyrillTrans,full,,,tolup,Phonemic
+13-190-521-1,kumy1244,Kumyk (Kajtak dialect),2023,коп,CyrillTrans,"multitude, crowd",,,kop,Phonemic
+13-181-521-1,kumy1244,Kumyk (Kajtak dialect),1241,бираз,CyrillTrans,some,,,biraz,Phonemic
+13-170-521-1,kumy1244,Kumyk (Kajtak dialect),1242,аз,CyrillTrans,"little (quantity), few",,,az,Phonemic
+13-180-521-1,kumy1244,Kumyk (Kajtak dialect),1881,коп,CyrillTrans,enough,,,kop,Phonemic
+13-160-521-1,kumy1244,Kumyk (Kajtak dialect),1992,коп,CyrillTrans,more,,,kop,Phonemic
+13-150-521-1,kumy1244,Kumyk (Kajtak dialect),1198,коп,CyrillTrans,"much, many",,,kop,Phonemic
+13-140-521-1,kumy1244,Kumyk (Kajtak dialect),98,барыда,CyrillTrans,"every, all",,,barɨda,Phonemic
+13-107-521-1,kumy1244,Kumyk (Kajtak dialect),1420,сонамакъ,CyrillTrans,count,,,sonamaq,Phonemic
+13-106-521-1,kumy1244,Kumyk (Kajtak dialect),1843,мин,CyrillTrans,thousand,,,min,Phonemic
+13-105-521-1,kumy1244,Kumyk (Kajtak dialect),1634,юз,CyrillTrans,hundred,,,yuz,Phonemic
+13-104-521-1,kumy1244,Kumyk (Kajtak dialect),1710,йигирма,CyrillTrans,twenty,,,yigirma,Phonemic
+13-103-521-1,kumy1244,Kumyk (Kajtak dialect),1709,он беш,CyrillTrans,fifteen,,,on beš,Phonemic
+13-102-521-1,kumy1244,Kumyk (Kajtak dialect),1707,он эки,CyrillTrans,twelve,,,on eki,Phonemic
+13-101-521-1,kumy1244,Kumyk (Kajtak dialect),1706,он бир,CyrillTrans,eleven,,,on bir,Phonemic
+13-100-521-1,kumy1244,Kumyk (Kajtak dialect),1515,он,CyrillTrans,ten,,,on,Phonemic
+13-90-521-1,kumy1244,Kumyk (Kajtak dialect),1483,тогъуз,CyrillTrans,nine,,,toɣuz,Phonemic
+13-80-521-1,kumy1244,Kumyk (Kajtak dialect),1705,сегиз,CyrillTrans,eight,,,segiz,Phonemic
+13-70-521-1,kumy1244,Kumyk (Kajtak dialect),1704,ети,CyrillTrans,seven,,,yeti,Phonemic
+13-60-521-1,kumy1244,Kumyk (Kajtak dialect),1703,алты,CyrillTrans,six,,,altɨ,Phonemic
+13-50-521-1,kumy1244,Kumyk (Kajtak dialect),493,беш,CyrillTrans,five,,,beš,Phonemic
+13-40-521-1,kumy1244,Kumyk (Kajtak dialect),1500,дорт,CyrillTrans,four,,,dort,Phonemic
+13-20-521-1,kumy1244,Kumyk (Kajtak dialect),1498,эки,CyrillTrans,two,,,eki,Phonemic
+13-30-521-1,kumy1244,Kumyk (Kajtak dialect),492,уч,CyrillTrans,three,,,uč,Phonemic
+13-10-521-1,kumy1244,Kumyk (Kajtak dialect),1493,бир,CyrillTrans,one,,,bir,Phonemic
+13-0-521-1,kumy1244,Kumyk (Kajtak dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-521-1,kumy1244,Kumyk (Kajtak dialect),1264,алишдирмакъ,CyrillTrans,change,,,ališdirmaq,Phonemic
+12-920-521-1,kumy1244,Kumyk (Kajtak dialect),1558,ушейген,CyrillTrans,"like, similar",,,ušeygen,Phonemic
+12-840-521-1,kumy1244,Kumyk (Kajtak dialect),1048,йиз,CyrillTrans,line,,,yiz,Phonemic
+12-850-521-1,kumy1244,Kumyk (Kajtak dialect),1667,тешик,CyrillTrans,hole,,,tešik,Phonemic
+12-830-521-1,kumy1244,Kumyk (Kajtak dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-521-1,kumy1244,Kumyk (Kajtak dialect),1395,догерек,CyrillTrans,round,,,dogerek,Phonemic
+12-820-521-1,kumy1244,Kumyk (Kajtak dialect),1467,догерек,CyrillTrans,circle,,,dogerek,Phonemic
+12-780-521-1,kumy1244,Kumyk (Kajtak dialect),850,дортгул,CyrillTrans,square,,,dortgul,Phonemic
+12-770-521-1,kumy1244,Kumyk (Kajtak dialect),1367,къач,CyrillTrans,cross,,,qač,Phonemic
+12-760-521-1,kumy1244,Kumyk (Kajtak dialect),192,муюш,CyrillTrans,corner,,,muyuš,Phonemic
+12-750-521-1,kumy1244,Kumyk (Kajtak dialect),1071,къармакъ,CyrillTrans,hook,,,qarmaq,Phonemic
+12-740-521-1,kumy1244,Kumyk (Kajtak dialect),297,къынгъыр,CyrillTrans,crooked,,,qɨnɣɨr,Phonemic
+12-730-521-1,kumy1244,Kumyk (Kajtak dialect),1404,туз,CyrillTrans,straight,,,tuz,Phonemic
+12-710-521-1,kumy1244,Kumyk (Kajtak dialect),1633,тегиш,CyrillTrans,flat,,,tegiš,Phonemic
+12-680-521-1,kumy1244,Kumyk (Kajtak dialect),193,сай,CyrillTrans,shallow,,,say,Phonemic
+12-670-521-1,kumy1244,Kumyk (Kajtak dialect),1593,терен,CyrillTrans,deep,,,teren,Phonemic
+12-650-521-1,kumy1244,Kumyk (Kajtak dialect),2249,назик,CyrillTrans,thin (in dimension),,,nazik,Phonemic
+12-630-521-1,kumy1244,Kumyk (Kajtak dialect),1244,базыкъ,CyrillTrans,thick (in dimension),,,bazɨq,Phonemic
+12-620-521-1,kumy1244,Kumyk (Kajtak dialect),1267,тар,CyrillTrans,narrow,,,tar,Phonemic
+12-610-521-1,kumy1244,Kumyk (Kajtak dialect),1243,генг,CyrillTrans,"wide, broad",,,geŋ,Phonemic
+12-590-521-1,kumy1244,Kumyk (Kajtak dialect),1645,къыскъа,CyrillTrans,short,,,qɨsqa,Phonemic
+12-580-521-1,kumy1244,Kumyk (Kajtak dialect),711,бийик,CyrillTrans,tall,,,biyik,Phonemic
+12-570-521-1,kumy1244,Kumyk (Kajtak dialect),1203,узун,CyrillTrans,long,,,uzun,Phonemic
+12-560-521-1,kumy1244,Kumyk (Kajtak dialect),1246,гичи,CyrillTrans,"small, little",,,giči,Phonemic
+12-550-521-1,kumy1244,Kumyk (Kajtak dialect),1202,уллу,CyrillTrans,"large, big",,,ullu,Phonemic
+12-540-521-1,kumy1244,Kumyk (Kajtak dialect),1506,олчемек,CyrillTrans,measure,,,olčemek,Phonemic
+12-530-521-1,kumy1244,Kumyk (Kajtak dialect),479,осмакъ,CyrillTrans,grow,,,osmaq,Phonemic
+12-480-521-1,kumy1244,Kumyk (Kajtak dialect),1595,къаблама,CyrillTrans,south,,,qablama,Phonemic
+12-470-521-1,kumy1244,Kumyk (Kajtak dialect),1598,темиркъазыкъ,CyrillTrans,north,,,temirqazɨq,Phonemic
+12-460-521-1,kumy1244,Kumyk (Kajtak dialect),1817,гун батыш,CyrillTrans,west,,,gun batɨš,Phonemic
+12-450-521-1,kumy1244,Kumyk (Kajtak dialect),1877,гун,CyrillTrans,east,,,"gun, čɨɣɨš",Phonemic
+12-450-521-3,kumy1244,Kumyk (Kajtak dialect),1877,чыгъыш,CyrillTrans,east,,,"gun, čɨɣɨš",Phonemic
+12-430-521-1,kumy1244,Kumyk (Kajtak dialect),1942,янында,CyrillTrans,near (adv),,,yanɨnda,Phonemic
+12-440-521-1,kumy1244,Kumyk (Kajtak dialect),1406,узакъда,CyrillTrans,far (adv),,,uzaqda,Phonemic
+12-420-521-1,kumy1244,Kumyk (Kajtak dialect),244,сол (ян),CyrillTrans,left (side),,,sol (yan),Phonemic
+12-410-521-1,kumy1244,Kumyk (Kajtak dialect),1019,онг (ян),CyrillTrans,right (side),,,oŋ (yan),Phonemic
+12-370-521-1,kumy1244,Kumyk (Kajtak dialect),1093,ортаси,CyrillTrans,"middle, center",,,ortasi,Phonemic
+12-360-521-1,kumy1244,Kumyk (Kajtak dialect),682,ян,CyrillTrans,side,,,"yan, yaɣa",Phonemic
+12-360-521-3,kumy1244,Kumyk (Kajtak dialect),682,ягъа,CyrillTrans,side,,,"yan, yaɣa",Phonemic
+12-353-521-1,kumy1244,Kumyk (Kajtak dialect),863,къыракъ,CyrillTrans,edge,,,qɨraq,Phonemic
+12-352-521-1,kumy1244,Kumyk (Kajtak dialect),372,ити учлу,CyrillTrans,pointed,,,iti učlu,Phonemic
+12-350-521-1,kumy1244,Kumyk (Kajtak dialect),742,арты,CyrillTrans,end,,,"artɨ, axɨrɨ",Phonemic
+12-350-521-3,kumy1244,Kumyk (Kajtak dialect),742,ахыры,CyrillTrans,end,,,"artɨ, axɨrɨ",Phonemic
+12-340-521-1,kumy1244,Kumyk (Kajtak dialect),690,тубу,CyrillTrans,bottom,,,tubu,Phonemic
+12-320-521-1,kumy1244,Kumyk (Kajtak dialect),721,алаша,CyrillTrans,low,,,alaša,Phonemic
+12-330-521-1,kumy1244,Kumyk (Kajtak dialect),1753,тобеси,CyrillTrans,top,,,tobesi,Phonemic
+12-310-521-1,kumy1244,Kumyk (Kajtak dialect),1265,бийик,CyrillTrans,high,,,biyik,Phonemic
+12-270-521-1,kumy1244,Kumyk (Kajtak dialect),602,яшырмакъ,CyrillTrans,"hide, conceal",,,yašɨrmaq,Phonemic
+12-250-521-1,kumy1244,Kumyk (Kajtak dialect),1046,бекетмек,CyrillTrans,"shut, close",,,beketmek,Phonemic
+12-260-521-1,kumy1244,Kumyk (Kajtak dialect),761,япмакъ,CyrillTrans,cover,,,yapmaq,Phonemic
+12-240-521-1,kumy1244,Kumyk (Kajtak dialect),1156,ачмакъ,CyrillTrans,open,,,ačmaq,Phonemic
+12-232-521-1,kumy1244,Kumyk (Kajtak dialect),1119,пайламакъ,CyrillTrans,divide,,,paylamaq,Phonemic
+12-230-521-1,kumy1244,Kumyk (Kajtak dialect),1359,айырмакъ,CyrillTrans,separate,,,ayɨrmaq,Phonemic
+12-220-521-1,kumy1244,Kumyk (Kajtak dialect),1743,къошмакъ,CyrillTrans,"join, unite",,,qošmaq,Phonemic
+12-213-521-1,kumy1244,Kumyk (Kajtak dialect),1576,жиймакъ,CyrillTrans,pile up,,,"ǯiymaq, toplamaq, töbe-töbe etmek",Phonemic
+12-213-521-3,kumy1244,Kumyk (Kajtak dialect),1576,топламакъ,CyrillTrans,pile up,,,"ǯiymaq, toplamaq, töbe-töbe etmek",Phonemic
+12-213-521-5,kumy1244,Kumyk (Kajtak dialect),1576,тёбе-тёбе этмек,CyrillTrans,pile up,,,"ǯiymaq, toplamaq, töbe-töbe etmek",Phonemic
+12-212-521-1,kumy1244,Kumyk (Kajtak dialect),371,готермек,CyrillTrans,pick up,,,gotermek,Phonemic
+12-210-521-1,kumy1244,Kumyk (Kajtak dialect),7,жиймакъ,CyrillTrans,"collect, gather",,,ǯiymaq,Phonemic
+12-170-521-1,kumy1244,Kumyk (Kajtak dialect),838,къалгъын,CyrillTrans,"remains, left overs",,,qalɣɨn,Phonemic
+12-160-521-1,kumy1244,Kumyk (Kajtak dialect),987,къалмакъ,CyrillTrans,"remain, stay",,,qalmaq,Phonemic
+12-150-521-1,kumy1244,Kumyk (Kajtak dialect),1442,эре турмакъ,CyrillTrans,stand,,,ere turmaq,Phonemic
+12-140-521-1,kumy1244,Kumyk (Kajtak dialect),215,ятмакъ,CyrillTrans,lie down,,,yatmaq,Phonemic
+12-130-521-1,kumy1244,Kumyk (Kajtak dialect),1416,олтурмакъ,CyrillTrans,sit,,,olturmaq,Phonemic
+12-120-521-1,kumy1244,Kumyk (Kajtak dialect),998,салмакъ,CyrillTrans,put,,,salmaq,Phonemic
+12-110-521-1,kumy1244,Kumyk (Kajtak dialect),723,ер,CyrillTrans,place,,,yer,Phonemic
+12-80-521-1,kumy1244,Kumyk (Kajtak dialect),1591,устунда,CyrillTrans,"up, above",,,ustunda,Phonemic
+12-70-521-1,kumy1244,Kumyk (Kajtak dialect),1485,тубунда,CyrillTrans,under,,,tubunda,Phonemic
+12-60-521-1,kumy1244,Kumyk (Kajtak dialect),762,тишанда,CyrillTrans,outside,,,tišanda,Phonemic
+12-50-521-1,kumy1244,Kumyk (Kajtak dialect),1606,ичинда,CyrillTrans,"inside, in",,,ičinda,Phonemic
+12-41-521-1,kumy1244,Kumyk (Kajtak dialect),1883,алдида,CyrillTrans,front,,,aldida,Phonemic
+12-40-521-1,kumy1244,Kumyk (Kajtak dialect),1882,алдын,CyrillTrans,before,,,aldɨn,Phonemic
+12-30-521-1,kumy1244,Kumyk (Kajtak dialect),2094,тупда,CyrillTrans,"down, below",,,tupda,Phonemic
+12-20-521-1,kumy1244,Kumyk (Kajtak dialect),1816,янинда,CyrillTrans,beside,,,yaninda,Phonemic
+12-11-521-1,kumy1244,Kumyk (Kajtak dialect),1686,арии янинда,CyrillTrans,behind,,,arii yaninda,Phonemic
+12-10-521-1,kumy1244,Kumyk (Kajtak dialect),1685,эгинчи,CyrillTrans,after,,,"eginči, daɣɨ",Phonemic
+12-10-521-3,kumy1244,Kumyk (Kajtak dialect),1685,дагъы,CyrillTrans,after,,,"eginči, daɣɨ",Phonemic
+11-920-521-1,kumy1244,Kumyk (Kajtak dialect),1098,тартмакъ,CyrillTrans,weigh,,,tartmaq,Phonemic
+11-910-521-1,kumy1244,Kumyk (Kajtak dialect),884,пайламакъ,CyrillTrans,share (distribute),,,paylamaq,Phonemic
+11-890-521-1,kumy1244,Kumyk (Kajtak dialect),1887,учуз,CyrillTrans,cheap,,,učuz,Phonemic
+11-880-521-1,kumy1244,Kumyk (Kajtak dialect),1426,багьа,CyrillTrans,"dear (costly, expensive)",,,baha,Phonemic
+11-870-521-1,kumy1244,Kumyk (Kajtak dialect),657,багьаси,CyrillTrans,price,,,bahasi,Phonemic
+11-860-521-1,kumy1244,Kumyk (Kajtak dialect),752,тукен,CyrillTrans,"store, shop",,,tuken,Phonemic
+11-850-521-1,kumy1244,Kumyk (Kajtak dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-521-1,kumy1244,Kumyk (Kajtak dialect),1082,сатувчу,CyrillTrans,merchant,,,satuwču,Phonemic
+11-830-521-1,kumy1244,Kumyk (Kajtak dialect),2135,алиш-бериш,CyrillTrans,"trade, barter",,,ališ-beriš,Phonemic
+11-820-521-1,kumy1244,Kumyk (Kajtak dialect),1571,сатмакъ,CyrillTrans,sell,,,satmaq,Phonemic
+11-810-521-1,kumy1244,Kumyk (Kajtak dialect),1869,сатып алмакъ,CyrillTrans,buy,,,satɨp almaq,Phonemic
+11-790-521-1,kumy1244,Kumyk (Kajtak dialect),733,къазанмакъ,CyrillTrans,earn,,,qazanmaq,Phonemic
+11-780-521-1,kumy1244,Kumyk (Kajtak dialect),1122,алапа,CyrillTrans,wages,,,"alapa, aylɨq",Phonemic
+11-780-521-3,kumy1244,Kumyk (Kajtak dialect),1122,айлыкъ,CyrillTrans,wages,,,"alapa, aylɨq",Phonemic
+11-770-521-1,kumy1244,Kumyk (Kajtak dialect),856,ижарагъа алмакъ,CyrillTrans,hire,,,iǯaraɣa almaq,Phonemic
+11-690-521-1,kumy1244,Kumyk (Kajtak dialect),873,налог,CyrillTrans,"tax, tribute",,,nalog,Phonemic
+11-660-521-1,kumy1244,Kumyk (Kajtak dialect),1081,гьисап,CyrillTrans,"account, reckoning",,,hisap,Phonemic
+11-650-521-1,kumy1244,Kumyk (Kajtak dialect),718,толемек,CyrillTrans,pay (vb),,,tolemek,Phonemic
+11-640-521-1,kumy1244,Kumyk (Kajtak dialect),1914,борч,CyrillTrans,debt,,,borč,Phonemic
+11-630-521-1,kumy1244,Kumyk (Kajtak dialect),369,борчлу болмакъ,CyrillTrans,owe,,,borčlu bolmaq,Phonemic
+11-620-521-1,kumy1244,Kumyk (Kajtak dialect),1823,борчгъа алмакъ,CyrillTrans,borrow,,,borčɣa almaq,Phonemic
+11-610-521-1,kumy1244,Kumyk (Kajtak dialect),582,борчгъа бермек,CyrillTrans,lend,,,borčɣa bermek,Phonemic
+11-540-521-1,kumy1244,Kumyk (Kajtak dialect),1774,къыркъыр,CyrillTrans,"avaricious, stingy",,,"qɨrqɨr, qɨzɣanč",Phonemic
+11-540-521-3,kumy1244,Kumyk (Kajtak dialect),1774,къызгъанч,CyrillTrans,"avaricious, stingy",,,"qɨrqɨr, qɨzɣanč",Phonemic
+11-530-521-1,kumy1244,Kumyk (Kajtak dialect),1934,тиланчи,CyrillTrans,beggar,,,tilanči,Phonemic
+11-520-521-1,kumy1244,Kumyk (Kajtak dialect),1674,касип,CyrillTrans,poor,,,kasip,Phonemic
+11-510-521-1,kumy1244,Kumyk (Kajtak dialect),712,бай,CyrillTrans,rich,,,bay,Phonemic
+11-440-521-1,kumy1244,Kumyk (Kajtak dialect),1867,кепеклер,CyrillTrans,coin,,,kepekler,Phonemic
+11-430-521-1,kumy1244,Kumyk (Kajtak dialect),1559,акъча,CyrillTrans,money,,,aqča,Phonemic
+11-340-521-1,kumy1244,Kumyk (Kajtak dialect),1095,йибермек,CyrillTrans,"release, let go",,,yibermek,Phonemic
+11-330-521-1,kumy1244,Kumyk (Kajtak dialect),1660,тас этмек,CyrillTrans,lose,,,tas etmek,Phonemic
+11-320-521-1,kumy1244,Kumyk (Kajtak dialect),719,тапмакъ,CyrillTrans,find,,,tapmaq,Phonemic
+11-310-521-1,kumy1244,Kumyk (Kajtak dialect),1468,изламакъ,CyrillTrans,"seek, look for",,,izlamaq,Phonemic
+11-280-521-1,kumy1244,Kumyk (Kajtak dialect),44,зарал этмек,CyrillTrans,"harm, injure, damage",,,zaral etmek,Phonemic
+11-270-521-1,kumy1244,Kumyk (Kajtak dialect),681,бузмакъ,CyrillTrans,destroy,,,buzmaq,Phonemic
+11-250-521-1,kumy1244,Kumyk (Kajtak dialect),2008,къуткъармакъ,CyrillTrans,"save, rescue",,,qutqarmaq,Phonemic
+11-240-521-1,kumy1244,Kumyk (Kajtak dialect),1997,сакъламакъ,CyrillTrans,"preserve, look after",,,saqlamaq,Phonemic
+11-220-521-1,kumy1244,Kumyk (Kajtak dialect),85,къайтармакъ,CyrillTrans,give back,,,qaytarmaq,Phonemic
+11-210-521-1,kumy1244,Kumyk (Kajtak dialect),1447,бермек,CyrillTrans,give,,,bermek,Phonemic
+11-180-521-1,kumy1244,Kumyk (Kajtak dialect),738,зат,CyrillTrans,thing,,,zat,Phonemic
+11-170-521-1,kumy1244,Kumyk (Kajtak dialect),1477,сакъламакъ,CyrillTrans,"keep, retain",,,saqlamaq,Phonemic
+11-160-521-1,kumy1244,Kumyk (Kajtak dialect),694,алмакъ,CyrillTrans,"get, obtain",,,almaq,Phonemic
+11-150-521-1,kumy1244,Kumyk (Kajtak dialect),1448,тутуп турмакъ,CyrillTrans,hold,,,tutup turmaq,Phonemic
+11-140-521-1,kumy1244,Kumyk (Kajtak dialect),2021,тутмакъ,CyrillTrans,"seize, grasp",,,tutmaq,Phonemic
+11-130-521-1,kumy1244,Kumyk (Kajtak dialect),1749,алмакъ,CyrillTrans,take,,,almaq,Phonemic
+11-120-521-1,kumy1244,Kumyk (Kajtak dialect),684,ес болмакъ,CyrillTrans,"own, possess",,,yes bolmaq,Phonemic
+11-110-521-1,kumy1244,Kumyk (Kajtak dialect),773,ес болмакъ,CyrillTrans,have,,,yes bolmaq,Phonemic
+10-920-521-1,kumy1244,Kumyk (Kajtak dialect),1922,ерге тюшмек,CyrillTrans,land (vb),,,"yerge tüšmek, suw yaɣaɣa baylamaq",Phonemic
+10-920-521-3,kumy1244,Kumyk (Kajtak dialect),1922,сув ягъагъа байламакъ,CyrillTrans,land (vb),,,"yerge tüšmek, suw yaɣaɣa baylamaq",Phonemic
+10-910-521-1,kumy1244,Kumyk (Kajtak dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-521-1,kumy1244,Kumyk (Kajtak dialect),1870,лабар,CyrillTrans,anchor,,,labar,Phonemic
+10-880-521-1,kumy1244,Kumyk (Kajtak dialect),786,елкен,CyrillTrans,sail (noun),,,yelken,Phonemic
+10-870-521-1,kumy1244,Kumyk (Kajtak dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-521-1,kumy1244,Kumyk (Kajtak dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-521-1,kumy1244,Kumyk (Kajtak dialect),1849,кюсмен чалмакъ,CyrillTrans,row (vb),,,küsmen čalmaq,Phonemic
+10-851-521-1,kumy1244,Kumyk (Kajtak dialect),234,къалакъ,CyrillTrans,paddle (noun),,,qalaq,Phonemic
+10-850-521-1,kumy1244,Kumyk (Kajtak dialect),108,къалакъ,CyrillTrans,oar,,,qalaq,Phonemic
+10-840-521-1,kumy1244,Kumyk (Kajtak dialect),1664,плот,CyrillTrans,raft,,,"plot, sal",Phonemic
+10-840-521-3,kumy1244,Kumyk (Kajtak dialect),1664,сал,CyrillTrans,raft,,,"plot, sal",Phonemic
+10-832-521-1,kumy1244,Kumyk (Kajtak dialect),416,къайыкъ,CyrillTrans,outrigger,,,qayɨq,Phonemic
+10-831-521-1,kumy1244,Kumyk (Kajtak dialect),1970,къайыкъ,CyrillTrans,canoe,,,qayɨq,Phonemic
+10-830-521-1,kumy1244,Kumyk (Kajtak dialect),1844,лодке,CyrillTrans,boat,,,"lodke, qayɨq",Phonemic
+10-830-521-3,kumy1244,Kumyk (Kajtak dialect),1844,къайыкъ,CyrillTrans,boat,,,"lodke, qayɨq",Phonemic
+10-810-521-1,kumy1244,Kumyk (Kajtak dialect),740,геме,CyrillTrans,ship,,,"geme, paraxod",Phonemic
+10-810-521-3,kumy1244,Kumyk (Kajtak dialect),740,параход,CyrillTrans,ship,,,"geme, paraxod",Phonemic
+10-780-521-1,kumy1244,Kumyk (Kajtak dialect),14,боюнса,CyrillTrans,yoke,,,boyunsa,Phonemic
+10-770-521-1,kumy1244,Kumyk (Kajtak dialect),1769,гёчерагъач,CyrillTrans,axle,,,göčeraɣač,Phonemic
+10-760-521-1,kumy1244,Kumyk (Kajtak dialect),710,гьуле,CyrillTrans,wheel,,,hule,Phonemic
+10-750-521-1,kumy1244,Kumyk (Kajtak dialect),122,арба,CyrillTrans,"carriage, wagon, cart",,,arba,Phonemic
+10-740-521-1,kumy1244,Kumyk (Kajtak dialect),1011,копур,CyrillTrans,bridge,,,kopur,Phonemic
+10-720-521-1,kumy1244,Kumyk (Kajtak dialect),2252,сокъмакъ,CyrillTrans,path,,,soqmaq,Phonemic
+10-710-521-1,kumy1244,Kumyk (Kajtak dialect),667,ел,CyrillTrans,road,,,yel,Phonemic
+10-670-521-1,kumy1244,Kumyk (Kajtak dialect),1452,итебермек,CyrillTrans,"push, shove",,,itebermek,Phonemic
+10-660-521-1,kumy1244,Kumyk (Kajtak dialect),367,ат булан бармакъ,CyrillTrans,ride,,,at bulan barmaq,Phonemic
+10-650-521-1,kumy1244,Kumyk (Kajtak dialect),741,машин булан бармакъ,CyrillTrans,drive,,,mašin bulan barmaq,Phonemic
+10-640-521-1,kumy1244,Kumyk (Kajtak dialect),43,алып балмакъ,CyrillTrans,lead (vb),,,alɨp balmaq,Phonemic
+10-630-521-1,kumy1244,Kumyk (Kajtak dialect),1127,йибермак,CyrillTrans,send,,,yibermak,Phonemic
+10-620-521-1,kumy1244,Kumyk (Kajtak dialect),692,гелтырмакъ,CyrillTrans,bring,,,geltɨrmaq,Phonemic
+10-615-521-1,kumy1244,Kumyk (Kajtak dialect),415,къултукъ тупда элтмек,CyrillTrans,carry-underarm,,,qultuq tupda eltmek,Phonemic
+10-614-521-1,kumy1244,Kumyk (Kajtak dialect),414,башда элтмек,CyrillTrans,carry-on-head,,,bašda eltmek,Phonemic
+10-613-521-1,kumy1244,Kumyk (Kajtak dialect),413,ийнида элтмек,CyrillTrans,carry-on-shoulder,,,iynida eltmek,Phonemic
+10-612-521-1,kumy1244,Kumyk (Kajtak dialect),412,къолда элтмек,CyrillTrans,carry-in-hand,,,qolda eltmek,Phonemic
+10-610-521-1,kumy1244,Kumyk (Kajtak dialect),700,элтмек,CyrillTrans,carry (bear),,,eltmek,Phonemic
+10-570-521-1,kumy1244,Kumyk (Kajtak dialect),749,гирмакъ,CyrillTrans,enter,,,girmaq,Phonemic
+10-560-521-1,kumy1244,Kumyk (Kajtak dialect),1778,ювукъ болмакъ,CyrillTrans,approach,,,yuwuq bolmaq,Phonemic
+10-550-521-1,kumy1244,Kumyk (Kajtak dialect),1387,етишмакъ,CyrillTrans,"reach, arrive",,,yetišmaq,Phonemic
+10-530-521-1,kumy1244,Kumyk (Kajtak dialect),1047,гьызарламакъ,CyrillTrans,pursue,,,"hɨzarlamaq, qɨynamaq",Phonemic
+10-530-521-3,kumy1244,Kumyk (Kajtak dialect),1047,къыйнамакъ,CyrillTrans,pursue,,,"hɨzarlamaq, qɨynamaq",Phonemic
+10-520-521-1,kumy1244,Kumyk (Kajtak dialect),1085,артдан бармакъ,CyrillTrans,follow,,,artdan barmaq,Phonemic
+10-510-521-1,kumy1244,Kumyk (Kajtak dialect),956,къачмакъ,CyrillTrans,flee,,,qačmaq,Phonemic
+10-491-521-1,kumy1244,Kumyk (Kajtak dialect),485,екъ болмакъ,CyrillTrans,disappear,,,yeq bolmaq,Phonemic
+10-490-521-1,kumy1244,Kumyk (Kajtak dialect),1752,гетмек,CyrillTrans,"go away, depart",,,getmek,Phonemic
+10-481-521-1,kumy1244,Kumyk (Kajtak dialect),581,къайтмакъ,CyrillTrans,come back,,,qaytmaq,Phonemic
+10-480-521-1,kumy1244,Kumyk (Kajtak dialect),1446,гелмек,CyrillTrans,come,,,gelmek,Phonemic
+10-474-521-1,kumy1244,Kumyk (Kajtak dialect),1107,чыкъмакъ,CyrillTrans,go out,,,čɨqmaq,Phonemic
+10-473-521-1,kumy1244,Kumyk (Kajtak dialect),2014,тупга тушмакъ,CyrillTrans,go down,,,tupga tušmaq,Phonemic
+10-472-521-1,kumy1244,Kumyk (Kajtak dialect),1102,минмакъ,CyrillTrans,climb,,,minmaq,Phonemic
+10-470-521-1,kumy1244,Kumyk (Kajtak dialect),695,бармакъ,CyrillTrans,go,,,barmaq,Phonemic
+10-471-521-1,kumy1244,Kumyk (Kajtak dialect),705,орге бармакъ,CyrillTrans,go up,,,orge barmaq,Phonemic
+10-460-521-1,kumy1244,Kumyk (Kajtak dialect),1519,чапмакъ,CyrillTrans,run,,,čapmaq,Phonemic
+10-451-521-1,kumy1244,Kumyk (Kajtak dialect),366,аскъакъламакъ,CyrillTrans,limp,,,asqaqlamaq,Phonemic
+10-450-521-1,kumy1244,Kumyk (Kajtak dialect),1443,юрумакъ,CyrillTrans,walk,,,yurumaq,Phonemic
+10-440-521-1,kumy1244,Kumyk (Kajtak dialect),1879,бийимакъ,CyrillTrans,dance,,,biyimaq,Phonemic
+10-431-521-1,kumy1244,Kumyk (Kajtak dialect),1135,тепмек,CyrillTrans,kick,,,tepmek,Phonemic
+10-430-521-1,kumy1244,Kumyk (Kajtak dialect),1829,атылмакъ,CyrillTrans,"jump, leap",,,atɨlmaq,Phonemic
+10-420-521-1,kumy1244,Kumyk (Kajtak dialect),1324,тайгаламакъ,CyrillTrans,"slide, slip",,,taygalamaq,Phonemic
+10-413-521-1,kumy1244,Kumyk (Kajtak dialect),296,чончмакъ,CyrillTrans,crouch,,,čončmaq,Phonemic
+10-412-521-1,kumy1244,Kumyk (Kajtak dialect),66,тизгозга алтурмакъ,CyrillTrans,kneel,,,tizgozga alturmaq,Phonemic
+10-410-521-1,kumy1244,Kumyk (Kajtak dialect),96,сюйкелмек,CyrillTrans,"creep, crawl",,,süykelmek,Phonemic
+10-380-521-1,kumy1244,Kumyk (Kajtak dialect),175,увурмакъ,CyrillTrans,blow,,,uwurmaq,Phonemic
+10-370-521-1,kumy1244,Kumyk (Kajtak dialect),1441,учмакъ,CyrillTrans,fly (vb),,,učmaq,Phonemic
+10-360-521-1,kumy1244,Kumyk (Kajtak dialect),787,юзмек,CyrillTrans,sail (vb),,,yuzmek,Phonemic
+10-352-521-1,kumy1244,Kumyk (Kajtak dialect),365,шарпылламакъ,CyrillTrans,splash,,,šarpɨllamaq,Phonemic
+10-351-521-1,kumy1244,Kumyk (Kajtak dialect),119,чомулмакъ,CyrillTrans,dive,,,čomulmaq,Phonemic
+10-350-521-1,kumy1244,Kumyk (Kajtak dialect),1439,юзмек,CyrillTrans,swim,,,yuzmek,Phonemic
+10-340-521-1,kumy1244,Kumyk (Kajtak dialect),1574,езмакъ,CyrillTrans,float,,,yezmaq,Phonemic
+10-330-521-1,kumy1244,Kumyk (Kajtak dialect),1088,батылмакъ,CyrillTrans,sink,,,batɨlmaq,Phonemic
+10-320-521-1,kumy1244,Kumyk (Kajtak dialect),2003,тогулмакъ,CyrillTrans,flow,,,togulmaq,Phonemic
+10-260-521-1,kumy1244,Kumyk (Kajtak dialect),1909,чайкъамакъ,CyrillTrans,shake,,,čayqamaq,Phonemic
+10-252-521-1,kumy1244,Kumyk (Kajtak dialect),702,тутмакъ,CyrillTrans,catch (ball),,,tutmaq,Phonemic
+10-250-521-1,kumy1244,Kumyk (Kajtak dialect),1456,атмакъ,CyrillTrans,throw,,,atmaq,Phonemic
+10-240-521-1,kumy1244,Kumyk (Kajtak dialect),2253,токмакъ,CyrillTrans,drip,,,tokmaq,Phonemic
+10-230-521-1,kumy1244,Kumyk (Kajtak dialect),1280,йыгъылмакъ,CyrillTrans,fall,,,yɨɣɨlmaq,Phonemic
+10-220-521-1,kumy1244,Kumyk (Kajtak dialect),501,готермек,CyrillTrans,"raise, lift",,,gotermek,Phonemic
+10-210-521-1,kumy1244,Kumyk (Kajtak dialect),568,минмакъ,CyrillTrans,rise,,,minmaq,Phonemic
+10-170-521-1,kumy1244,Kumyk (Kajtak dialect),430,чирмамакъ,CyrillTrans,twist,,,čirmamaq,Phonemic
+10-160-521-1,kumy1244,Kumyk (Kajtak dialect),808,къазмакъ,CyrillTrans,drop (vb),,,qazmaq,Phonemic
+10-150-521-1,kumy1244,Kumyk (Kajtak dialect),827,дёгеретмек,CyrillTrans,roll,,,dögeretmek,Phonemic
+10-140-521-1,kumy1244,Kumyk (Kajtak dialect),1113,чирмамакъ,CyrillTrans,"wind, wrap",,,čirmamaq,Phonemic
+10-130-521-1,kumy1244,Kumyk (Kajtak dialect),1445,чечмек,CyrillTrans,turn around,,,čečmek,Phonemic
+10-120-521-1,kumy1244,Kumyk (Kajtak dialect),1588,айландырмакъ,CyrillTrans,turn over,,,aylandɨrmaq,Phonemic
+10-110-521-1,kumy1244,Kumyk (Kajtak dialect),765,тербенмек,CyrillTrans,move,,,terbenmek,Phonemic
+9-890-521-1,kumy1244,Kumyk (Kajtak dialect),2001,ширламакъ,CyrillTrans,paint (vb),,,širlamaq,Phonemic
+9-840-521-1,kumy1244,Kumyk (Kajtak dialect),1979,гесгич,CyrillTrans,chisel,,,"gesgič, gesewüč",Phonemic
+9-840-521-3,kumy1244,Kumyk (Kajtak dialect),1979,гесевюч,CyrillTrans,chisel,,,"gesgič, gesewüč",Phonemic
+9-880-521-1,kumy1244,Kumyk (Kajtak dialect),647,шир,CyrillTrans,paint (noun),,,šir,Phonemic
+9-830-521-1,kumy1244,Kumyk (Kajtak dialect),1002,ташсурат,CyrillTrans,statue,,,"tašsurat, statuya",Phonemic
+9-830-521-3,kumy1244,Kumyk (Kajtak dialect),1002,статуя,CyrillTrans,statue,,,"tašsurat, statuya",Phonemic
+9-820-521-1,kumy1244,Kumyk (Kajtak dialect),914,скулптор,CyrillTrans,sculptor,,,skulptor,Phonemic
+9-810-521-1,kumy1244,Kumyk (Kajtak dialect),228,кесмек,CyrillTrans,carve,,,kesmek,Phonemic
+9-791-521-1,kumy1244,Kumyk (Kajtak dialect),360,янгыртмакъ,CyrillTrans,fan (vb),,,yaŋɨrtmaq,Phonemic
+9-790-521-1,kumy1244,Kumyk (Kajtak dialect),1971,елпивюр,CyrillTrans,fan (noun),,,"yelpiwyur, wetilyator",Phonemic
+9-790-521-3,kumy1244,Kumyk (Kajtak dialect),1971,ветилятор,CyrillTrans,fan (noun),,,"yelpiwyur, wetilyator",Phonemic
+9-780-521-1,kumy1244,Kumyk (Kajtak dialect),293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-521-1,kumy1244,Kumyk (Kajtak dialect),292,хали,CyrillTrans,rug,,,xali,Phonemic
+9-770-521-1,kumy1244,Kumyk (Kajtak dialect),195,чыпта,CyrillTrans,mat,,,čɨpta,Phonemic
+9-760-521-1,kumy1244,Kumyk (Kajtak dialect),1539,четен,CyrillTrans,basket,,,četen,Phonemic
+9-750-521-1,kumy1244,Kumyk (Kajtak dialect),1729,тухумакъ,CyrillTrans,"weave, plait",,,tuxumaq,Phonemic
+9-740-521-1,kumy1244,Kumyk (Kajtak dialect),604,шиша,CyrillTrans,glass,,,"šiša, guzgu",Phonemic
+9-740-521-3,kumy1244,Kumyk (Kajtak dialect),604,гузгу,CyrillTrans,glass,,,"šiša, guzgu",Phonemic
+9-730-521-1,kumy1244,Kumyk (Kajtak dialect),1399,балчыкъ,CyrillTrans,clay,,,balčɨq,Phonemic
+9-720-521-1,kumy1244,Kumyk (Kajtak dialect),289,кепге салмакъ,CyrillTrans,mold (clay etc),,,kepge salmaq,Phonemic
+9-710-521-1,kumy1244,Kumyk (Kajtak dialect),359,этеген уста,CyrillTrans,potter,,,etegen usta,Phonemic
+9-690-521-1,kumy1244,Kumyk (Kajtak dialect),358,темир,CyrillTrans,"tin, tinplate",,,temir,Phonemic
+9-680-521-1,kumy1244,Kumyk (Kajtak dialect),627,къоргъашын,CyrillTrans,lead (noun),,,qorɣašɨn,Phonemic
+9-670-521-1,kumy1244,Kumyk (Kajtak dialect),621,темир,CyrillTrans,iron,,,temir,Phonemic
+9-660-521-1,kumy1244,Kumyk (Kajtak dialect),1825,ез,CyrillTrans,"copper, bronze",,,yez,Phonemic
+9-650-521-1,kumy1244,Kumyk (Kajtak dialect),759,гумуш,CyrillTrans,silver,,,gumuš,Phonemic
+9-640-521-1,kumy1244,Kumyk (Kajtak dialect),1369,алтун,CyrillTrans,gold,,,"altun, qɨzɨl",Phonemic
+9-640-521-3,kumy1244,Kumyk (Kajtak dialect),1369,къызыл,CyrillTrans,gold,,,"altun, qɨzɨl",Phonemic
+9-630-521-1,kumy1244,Kumyk (Kajtak dialect),211,кепге къуймакъ,CyrillTrans,cast (metals),,,kepge quymaq,Phonemic
+9-620-521-1,kumy1244,Kumyk (Kajtak dialect),1648,тёш,CyrillTrans,anvil,,,"töš, temirči töš",Phonemic
+9-620-521-3,kumy1244,Kumyk (Kajtak dialect),1648,темирчи тёш,CyrillTrans,anvil,,,"töš, temirči töš",Phonemic
+9-610-521-1,kumy1244,Kumyk (Kajtak dialect),288,меч,CyrillTrans,forge,,,meč,Phonemic
+9-600-521-1,kumy1244,Kumyk (Kajtak dialect),1001,меччи,CyrillTrans,"smith, blacksmith",,,"meč̄i, temir usta",Phonemic
+9-600-521-3,kumy1244,Kumyk (Kajtak dialect),1001,темир уста,CyrillTrans,"smith, blacksmith",,,"meč̄i, temir usta",Phonemic
+9-560-521-1,kumy1244,Kumyk (Kajtak dialect),1069,къылыкъ,CyrillTrans,glue,,,qɨlɨq,Phonemic
+9-500-521-1,kumy1244,Kumyk (Kajtak dialect),502,мих,CyrillTrans,nail,,,mix,Phonemic
+9-490-521-1,kumy1244,Kumyk (Kajtak dialect),1481,чокгуч,CyrillTrans,hammer,,,čokguč,Phonemic
+9-480-521-1,kumy1244,Kumyk (Kajtak dialect),1948,бичкъы,CyrillTrans,saw,,,bičqɨ,Phonemic
+9-461-521-1,kumy1244,Kumyk (Kajtak dialect),46,тешмек,CyrillTrans,hollow out,,,tešmek,Phonemic
+9-460-521-1,kumy1244,Kumyk (Kajtak dialect),1501,тешик,CyrillTrans,bore,,,tešik,Phonemic
+9-440-521-1,kumy1244,Kumyk (Kajtak dialect),1840,къурмакъ,CyrillTrans,build,,,qurmaq,Phonemic
+9-430-521-1,kumy1244,Kumyk (Kajtak dialect),1042,такъта уста,CyrillTrans,carpenter,,,taqta usta,Phonemic
+9-422-521-1,kumy1244,Kumyk (Kajtak dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-521-1,kumy1244,Kumyk (Kajtak dialect),245,сибирки,CyrillTrans,broom,,,sibirki,Phonemic
+9-360-521-1,kumy1244,Kumyk (Kajtak dialect),1453,жувмакъ,CyrillTrans,wash,,,ǯuwmaq,Phonemic
+9-370-521-1,kumy1244,Kumyk (Kajtak dialect),230,сибирмакъ,CyrillTrans,sweep,,,sibirmaq,Phonemic
+9-350-521-1,kumy1244,Kumyk (Kajtak dialect),1487,токмакъ,CyrillTrans,pour,,,tokmaq,Phonemic
+9-343-521-1,kumy1244,Kumyk (Kajtak dialect),1414,сыкъмакъ,CyrillTrans,"squeeze, wring",,,sɨqmaq,Phonemic
+9-342-521-1,kumy1244,Kumyk (Kajtak dialect),1913,басмакъ,CyrillTrans,press,,,basmaq,Phonemic
+9-341-521-1,kumy1244,Kumyk (Kajtak dialect),357,илмакъ,CyrillTrans,hang up,,,ilmaq,Phonemic
+9-340-521-1,kumy1244,Kumyk (Kajtak dialect),38,яймакъ,CyrillTrans,spread out,,,yaymaq,Phonemic
+9-330-521-1,kumy1244,Kumyk (Kajtak dialect),1455,тартмакъ,CyrillTrans,pull,,,tartmaq,Phonemic
+9-320-521-1,kumy1244,Kumyk (Kajtak dialect),214,тартмакъ,CyrillTrans,stretch,,,tartmaq,Phonemic
+9-310-521-1,kumy1244,Kumyk (Kajtak dialect),1449,ишимакъ,CyrillTrans,"rub, wipe",,,išimaq,Phonemic
+9-290-521-1,kumy1244,Kumyk (Kajtak dialect),291,терини айырмакъ,CyrillTrans,"flay, skin",,,terini ayɨrmaq,Phonemic
+9-280-521-1,kumy1244,Kumyk (Kajtak dialect),1735,йиртмакъ,CyrillTrans,tear,,,yirtmaq,Phonemic
+9-270-521-1,kumy1244,Kumyk (Kajtak dialect),1437,синнирмакъ,CyrillTrans,split,,,sinnirmaq,Phonemic
+9-261-521-1,kumy1244,Kumyk (Kajtak dialect),588,синган,CyrillTrans,broken,,,siŋan,Phonemic
+9-260-521-1,kumy1244,Kumyk (Kajtak dialect),680,уватмакъ,CyrillTrans,break,,,uwatmaq,Phonemic
+9-250-521-1,kumy1244,Kumyk (Kajtak dialect),677,балта,CyrillTrans,ax,,,balta,Phonemic
+9-251-521-1,kumy1244,Kumyk (Kajtak dialect),290,балта,CyrillTrans,adze,,,balta,Phonemic
+9-240-521-1,kumy1244,Kumyk (Kajtak dialect),356,къайчи,CyrillTrans,"scissors, shears",,,qayči,Phonemic
+9-230-521-1,kumy1244,Kumyk (Kajtak dialect),1352,бичакъ,CyrillTrans,knife,,,bičaq,Phonemic
+9-223-521-1,kumy1244,Kumyk (Kajtak dialect),1434,тутурмакъ,CyrillTrans,stab,,,tuturmaq,Phonemic
+9-222-521-1,kumy1244,Kumyk (Kajtak dialect),155,ярмакъ,CyrillTrans,"chop, hew",,,yarmaq,Phonemic
+9-221-521-1,kumy1244,Kumyk (Kajtak dialect),355,аз этмек,CyrillTrans,cut down,,,az etmek,Phonemic
+9-220-521-1,kumy1244,Kumyk (Kajtak dialect),1432,кесмек,CyrillTrans,cut,,,kesmek,Phonemic
+9-211-521-1,kumy1244,Kumyk (Kajtak dialect),354,юмурукъ,CyrillTrans,pound with fist,,,yumuruq,Phonemic
+9-210-521-1,kumy1244,Kumyk (Kajtak dialect),2133,урмакъ,CyrillTrans,"strike (hit, beat)",,,urmaq,Phonemic
+9-192-521-1,kumy1244,Kumyk (Kajtak dialect),760,туюн,CyrillTrans,knot (noun),,,tuyun,Phonemic
+9-190-521-1,kumy1244,Kumyk (Kajtak dialect),1218,йип,CyrillTrans,"rope, cord",,,yip,Phonemic
+9-180-521-1,kumy1244,Kumyk (Kajtak dialect),1627,синжир,CyrillTrans,chain,,,sinǯir,Phonemic
+9-161-521-1,kumy1244,Kumyk (Kajtak dialect),352,ачмакъ,CyrillTrans,untie,,,ačmaq,Phonemic
+9-160-521-1,kumy1244,Kumyk (Kajtak dialect),1917,байламакъ,CyrillTrans,"tie, bind",,,baylamaq,Phonemic
+9-150-521-1,kumy1244,Kumyk (Kajtak dialect),1470,чырмамакъ,CyrillTrans,fold,,,"čɨrmamaq, tizmaq",Phonemic
+9-150-521-3,kumy1244,Kumyk (Kajtak dialect),1470,тизмакъ,CyrillTrans,fold,,,"čɨrmamaq, tizmaq",Phonemic
+9-140-521-1,kumy1244,Kumyk (Kajtak dialect),2004,буклемек,CyrillTrans,bend,,,buklemek,Phonemic
+9-120-521-1,kumy1244,Kumyk (Kajtak dialect),984,иш,CyrillTrans,work,,,iš,Phonemic
+9-110-521-1,kumy1244,Kumyk (Kajtak dialect),2575,этмек,CyrillTrans,"do, make",,,etmek,Phonemic
+8-980-521-1,kumy1244,Kumyk (Kajtak dialect),641,шейден папах,CyrillTrans,mushroom,,,šeyden papax,Phonemic
+8-970-521-1,kumy1244,Kumyk (Kajtak dialect),33,къычыткъан,CyrillTrans,nettle,,,qɨčɨtqan,Phonemic
+8-941-521-1,kumy1244,Kumyk (Kajtak dialect),146,балкъамуш,CyrillTrans,sugar cane,,,balqamuš,Phonemic
+8-940-521-1,kumy1244,Kumyk (Kajtak dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-521-1,kumy1244,Kumyk (Kajtak dialect),864,къабакъ,CyrillTrans,"pumpkin, squash",,,qabaq,Phonemic
+8-930-521-1,kumy1244,Kumyk (Kajtak dialect),411,къабакъ,CyrillTrans,gourd,,,qabaq,Phonemic
+8-912-521-1,kumy1244,Kumyk (Kajtak dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-521-1,kumy1244,Kumyk (Kajtak dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-521-1,kumy1244,Kumyk (Kajtak dialect),346,инжирни терек,CyrillTrans,banyan,,,inžirni terek,Phonemic
+8-840-521-1,kumy1244,Kumyk (Kajtak dialect),868,бананни терек,CyrillTrans,banana tree,,,bananni terek,Phonemic
+8-830-521-1,kumy1244,Kumyk (Kajtak dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-521-1,kumy1244,Kumyk (Kajtak dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-521-1,kumy1244,Kumyk (Kajtak dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-521-1,kumy1244,Kumyk (Kajtak dialect),345,суву,CyrillTrans,sap,,,suwu,Phonemic
+8-750-521-1,kumy1244,Kumyk (Kajtak dialect),1204,къабукъ,CyrillTrans,bark,,,qabuq,Phonemic
+8-740-521-1,kumy1244,Kumyk (Kajtak dialect),409,эки айры бутакъ,CyrillTrans,forked branch,,,eki ayrɨ butaq,Phonemic
+8-730-521-1,kumy1244,Kumyk (Kajtak dialect),344,терекни бою,CyrillTrans,tree trunk,,,terekni boyu,Phonemic
+8-720-521-1,kumy1244,Kumyk (Kajtak dialect),241,къыда,CyrillTrans,tree stump,,,qɨda,Phonemic
+8-691-521-1,kumy1244,Kumyk (Kajtak dialect),1124,муштук,CyrillTrans,pipe,,,muštuk,Phonemic
+8-690-521-1,kumy1244,Kumyk (Kajtak dialect),1689,тамаку тутун,CyrillTrans,smoke (tobacco),,,tamaku tutun,Phonemic
+8-680-521-1,kumy1244,Kumyk (Kajtak dialect),974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-521-1,kumy1244,Kumyk (Kajtak dialect),343,туек,CyrillTrans,vine,,,tuyek,Phonemic
+8-660-521-1,kumy1244,Kumyk (Kajtak dialect),968,эмен къоз,CyrillTrans,acorn,,,emen qoz,Phonemic
+8-650-521-1,kumy1244,Kumyk (Kajtak dialect),1915,елка терек,CyrillTrans,fir,,,yelka terek,Phonemic
+8-640-521-1,kumy1244,Kumyk (Kajtak dialect),1740,нарат,CyrillTrans,pine,,,narat,Phonemic
+8-630-521-1,kumy1244,Kumyk (Kajtak dialect),1855,макъыр,CyrillTrans,birch,,,maqɨr,Phonemic
+8-620-521-1,kumy1244,Kumyk (Kajtak dialect),1950,чинар,CyrillTrans,beech,,,činar,Phonemic
+8-610-521-1,kumy1244,Kumyk (Kajtak dialect),644,эмен,CyrillTrans,oak,,,emen,Phonemic
+8-600-521-1,kumy1244,Kumyk (Kajtak dialect),906,терек,CyrillTrans,tree,,,terek,Phonemic
+8-570-521-1,kumy1244,Kumyk (Kajtak dialect),239,чечек,CyrillTrans,flower,,,"čeček, gul",Phonemic
+8-570-521-3,kumy1244,Kumyk (Kajtak dialect),239,гул,CyrillTrans,flower,,,"čeček, gul",Phonemic
+8-560-521-1,kumy1244,Kumyk (Kajtak dialect),628,ярпакъ,CyrillTrans,leaf,,,yarpaq,Phonemic
+8-550-521-1,kumy1244,Kumyk (Kajtak dialect),1531,къали,CyrillTrans,branch,,,qali,Phonemic
+8-540-521-1,kumy1244,Kumyk (Kajtak dialect),670,тамур,CyrillTrans,root,,,tamur,Phonemic
+8-531-521-1,kumy1244,Kumyk (Kajtak dialect),1486,осдурмакъ,CyrillTrans,plant (vb),,,osdurmaq,Phonemic
+8-520-521-1,kumy1244,Kumyk (Kajtak dialect),342,бучен,CyrillTrans,hay,,,bučen,Phonemic
+8-530-521-1,kumy1244,Kumyk (Kajtak dialect),653,осумлукъ,CyrillTrans,plant (noun),,,osumluq,Phonemic
+8-510-521-1,kumy1244,Kumyk (Kajtak dialect),606,от,CyrillTrans,grass,,,ot,Phonemic
+8-480-521-1,kumy1244,Kumyk (Kajtak dialect),926,дуги,CyrillTrans,rice,,,dugi,Phonemic
+8-470-521-1,kumy1244,Kumyk (Kajtak dialect),506,гьажибудай,CyrillTrans,"maize, corn",,,haǯibuday,Phonemic
+8-460-521-1,kumy1244,Kumyk (Kajtak dialect),60,сулу,CyrillTrans,oats,,,"sulu, nɨxa",Phonemic
+8-460-521-3,kumy1244,Kumyk (Kajtak dialect),60,ныха,CyrillTrans,oats,,,"sulu, nɨxa",Phonemic
+8-450-521-1,kumy1244,Kumyk (Kajtak dialect),23,арыш будай,CyrillTrans,rye,,,arɨš buday,Phonemic
+8-430-521-1,kumy1244,Kumyk (Kajtak dialect),1077,будай,CyrillTrans,wheat,,,buday,Phonemic
+8-440-521-1,kumy1244,Kumyk (Kajtak dialect),932,арпа,CyrillTrans,barley,,,arpa,Phonemic
+8-420-521-1,kumy1244,Kumyk (Kajtak dialect),605,буртук,CyrillTrans,"grain (barley, oats etc)",,,burtuk,Phonemic
+8-410-521-1,kumy1244,Kumyk (Kajtak dialect),611,гелим,CyrillTrans,"crop, harvest",,,gelim,Phonemic
+8-350-521-1,kumy1244,Kumyk (Kajtak dialect),223,харман,CyrillTrans,threshing-floor,,,"xarman, innɨr",Phonemic
+8-350-521-3,kumy1244,Kumyk (Kajtak dialect),223,инныр,CyrillTrans,threshing-floor,,,"xarman, innɨr",Phonemic
+8-340-521-1,kumy1244,Kumyk (Kajtak dialect),285,ашлыкъ басмакъ,CyrillTrans,thresh,,,ašlɨq basmaq,Phonemic
+8-330-521-1,kumy1244,Kumyk (Kajtak dialect),2132,оракъ,CyrillTrans,"sickle, scythe",,,"oraq, čalɣɨ",Phonemic
+8-330-521-3,kumy1244,Kumyk (Kajtak dialect),2132,чалгъы,CyrillTrans,"sickle, scythe",,,"oraq, čalɣɨ",Phonemic
+8-320-521-1,kumy1244,Kumyk (Kajtak dialect),190,чалмакъ,CyrillTrans,"mow, reap",,,čalmaq,Phonemic
+8-311-521-1,kumy1244,Kumyk (Kajtak dialect),714,урлукъ,CyrillTrans,seed,,,urluq,Phonemic
+8-310-521-1,kumy1244,Kumyk (Kajtak dialect),748,чачма,CyrillTrans,sow,,,čačma,Phonemic
+8-270-521-1,kumy1244,Kumyk (Kajtak dialect),338,тирнавуч,CyrillTrans,rake,,,tirnawuč,Phonemic
+8-260-521-1,kumy1244,Kumyk (Kajtak dialect),337,сенек,CyrillTrans,fork,,,senek,Phonemic
+8-250-521-1,kumy1244,Kumyk (Kajtak dialect),284,газа,CyrillTrans,hoe,,,gaza,Phonemic
+8-240-521-1,kumy1244,Kumyk (Kajtak dialect),1901,гьукеннез,CyrillTrans,shovel,,,hukennez,Phonemic
+8-230-521-1,kumy1244,Kumyk (Kajtak dialect),1176,лапутке,CyrillTrans,spade,,,laputke,Phonemic
+8-212-521-1,kumy1244,Kumyk (Kajtak dialect),1794,сабанлыкъ,CyrillTrans,furrow,,,"sabanlɨq, paranza",Phonemic
+8-212-521-3,kumy1244,Kumyk (Kajtak dialect),1794,паранза,CyrillTrans,furrow,,,"sabanlɨq, paranza",Phonemic
+8-220-521-1,kumy1244,Kumyk (Kajtak dialect),1418,къазмакъ,CyrillTrans,dig,,,qazmaq,Phonemic
+8-210-521-1,kumy1244,Kumyk (Kajtak dialect),1921,сурмакъ,CyrillTrans,plow,,,surmaq,Phonemic
+8-170-521-1,kumy1244,Kumyk (Kajtak dialect),2002,татавул,CyrillTrans,ditch,,,tatawul,Phonemic
+8-160-521-1,kumy1244,Kumyk (Kajtak dialect),1690,барув,CyrillTrans,fence,,,baruw,Phonemic
+8-150-521-1,kumy1244,Kumyk (Kajtak dialect),1541,ишлетмек,CyrillTrans,"cultivate, till",,,išletmek,Phonemic
+8-130-521-1,kumy1244,Kumyk (Kajtak dialect),586,бав,CyrillTrans,garden,,,baw,Phonemic
+8-120-521-1,kumy1244,Kumyk (Kajtak dialect),212,авлакъ,CyrillTrans,field (for cultivation),,,awlaq,Phonemic
+8-110-521-1,kumy1244,Kumyk (Kajtak dialect),979,пермер,CyrillTrans,farmer,,,permer,Phonemic
+7-640-521-1,kumy1244,Kumyk (Kajtak dialect),901,балчыкъ уй,CyrillTrans,adobe,,,balčɨq uy,Phonemic
+7-630-521-1,kumy1244,Kumyk (Kajtak dialect),224,киреч,CyrillTrans,mortar,,,kireč,Phonemic
+7-620-521-1,kumy1244,Kumyk (Kajtak dialect),1006,керпич,CyrillTrans,brick,,,kerpič,Phonemic
+7-580-521-1,kumy1244,Kumyk (Kajtak dialect),876,арсава,CyrillTrans,arch,,,arsawa,Phonemic
+7-610-521-1,kumy1244,Kumyk (Kajtak dialect),877,таш уста,CyrillTrans,mason,,,taš usta,Phonemic
+7-570-521-1,kumy1244,Kumyk (Kajtak dialect),1227,такъта,CyrillTrans,board,,,taqta,Phonemic
+7-560-521-1,kumy1244,Kumyk (Kajtak dialect),281,багъана,CyrillTrans,"post, pole",,,baɣana,Phonemic
+7-550-521-1,kumy1244,Kumyk (Kajtak dialect),1132,буруз,CyrillTrans,beam,,,buruz,Phonemic
+7-540-521-1,kumy1244,Kumyk (Kajtak dialect),829,чатал,CyrillTrans,rafter,,,"čatal, arqalɨq, buruz",Phonemic
+7-540-521-3,kumy1244,Kumyk (Kajtak dialect),829,аркъалыкъ,CyrillTrans,rafter,,,"čatal, arqalɨq, buruz",Phonemic
+7-540-521-5,kumy1244,Kumyk (Kajtak dialect),829,буруз,CyrillTrans,rafter,,,"čatal, arqalɨq, buruz",Phonemic
+7-530-521-1,kumy1244,Kumyk (Kajtak dialect),280,таякъ,CyrillTrans,ridgepole,,,tayaq,Phonemic
+7-520-521-1,kumy1244,Kumyk (Kajtak dialect),279,салам къалкъы,CyrillTrans,thatch,,,salam qalqɨ,Phonemic
+7-510-521-1,kumy1244,Kumyk (Kajtak dialect),769,къалкъы,CyrillTrans,roof,,,qalqɨ,Phonemic
+7-480-521-1,kumy1244,Kumyk (Kajtak dialect),205,чоргъа,CyrillTrans,trough,,,čorɣa,Phonemic
+7-470-521-1,kumy1244,Kumyk (Kajtak dialect),745,такъча,CyrillTrans,shelf,,,taqča,Phonemic
+7-460-521-1,kumy1244,Kumyk (Kajtak dialect),1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-521-1,kumy1244,Kumyk (Kajtak dialect),2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-450-521-3,kumy1244,Kumyk (Kajtak dialect),2131,панар,CyrillTrans,"lamp, torch",,,"lampa, panar",Phonemic
+7-440-521-1,kumy1244,Kumyk (Kajtak dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-521-1,kumy1244,Kumyk (Kajtak dialect),1476,санжал,CyrillTrans,chair,,,sanǯal,Phonemic
+7-422-521-1,kumy1244,Kumyk (Kajtak dialect),806,юргъан,CyrillTrans,blanket,,,yurɣan,Phonemic
+7-421-521-1,kumy1244,Kumyk (Kajtak dialect),1044,ястукъ,CyrillTrans,pillow,,,yastuq,Phonemic
+7-420-521-1,kumy1244,Kumyk (Kajtak dialect),1663,карават,CyrillTrans,bed,,,karawat,Phonemic
+7-370-521-1,kumy1244,Kumyk (Kajtak dialect),1464,канзи,CyrillTrans,ladder,,,kanzi,Phonemic
+7-330-521-1,kumy1244,Kumyk (Kajtak dialect),1305,тангъулукъ,CyrillTrans,chimney,,,tanɣuluq,Phonemic
+7-320-521-1,kumy1244,Kumyk (Kajtak dialect),859,печ,CyrillTrans,stove,,,"peč, oǯaq",Phonemic
+7-320-521-3,kumy1244,Kumyk (Kajtak dialect),859,ожакъ,CyrillTrans,stove,,,"peč, oǯaq",Phonemic
+7-310-521-1,kumy1244,Kumyk (Kajtak dialect),185,тавхана,CyrillTrans,fireplace,,,tawxana,Phonemic
+7-270-521-1,kumy1244,Kumyk (Kajtak dialect),933,там,CyrillTrans,wall,,,"tam, čɨr",Phonemic
+7-270-521-3,kumy1244,Kumyk (Kajtak dialect),933,чыр,CyrillTrans,wall,,,"tam, čɨr",Phonemic
+7-260-521-1,kumy1244,Kumyk (Kajtak dialect),1632,пол,CyrillTrans,floor,,,pol,Phonemic
+7-250-521-1,kumy1244,Kumyk (Kajtak dialect),1375,терезе,CyrillTrans,window,,,tereze,Phonemic
+7-240-521-1,kumy1244,Kumyk (Kajtak dialect),1472,ачкъыч,CyrillTrans,key,,,ačqɨč,Phonemic
+7-231-521-1,kumy1244,Kumyk (Kajtak dialect),1012,тогъанакъ,CyrillTrans,"latch, door-bolt",,,toɣanaq,Phonemic
+7-230-521-1,kumy1244,Kumyk (Kajtak dialect),1596,кирит,CyrillTrans,lock (noun),,,kirit,Phonemic
+7-221-521-1,kumy1244,Kumyk (Kajtak dialect),80,энеге,CyrillTrans,"doorpost, jamb",,,enege,Phonemic
+7-210-521-1,kumy1244,Kumyk (Kajtak dialect),1450,уй,CyrillTrans,room,,,uy,Phonemic
+7-220-521-1,kumy1244,Kumyk (Kajtak dialect),1567,къапу,CyrillTrans,"door, gate",,,"qapu, ešik",Phonemic
+7-220-521-3,kumy1244,Kumyk (Kajtak dialect),1567,эшик,CyrillTrans,"door, gate",,,"qapu, ešik",Phonemic
+7-180-521-1,kumy1244,Kumyk (Kajtak dialect),335,клуб,CyrillTrans,meeting house,,,klub,Phonemic
+7-170-521-1,kumy1244,Kumyk (Kajtak dialect),334,кухня,CyrillTrans,cookhouse,,,kuxnya,Phonemic
+7-160-521-1,kumy1244,Kumyk (Kajtak dialect),408,уй,CyrillTrans,men's house,,,uy,Phonemic
+7-150-521-1,kumy1244,Kumyk (Kajtak dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-521-1,kumy1244,Kumyk (Kajtak dialect),1316,чатыр,CyrillTrans,tent,,,čatɨr,Phonemic
+7-131-521-1,kumy1244,Kumyk (Kajtak dialect),403,уй,CyrillTrans,garden-house,,,uy,Phonemic
+7-130-521-1,kumy1244,Kumyk (Kajtak dialect),1678,уй,CyrillTrans,hut,,,uy,Phonemic
+7-120-521-1,kumy1244,Kumyk (Kajtak dialect),1252,уй,CyrillTrans,house,,,uy,Phonemic
+7-110-521-1,kumy1244,Kumyk (Kajtak dialect),363,яшамакъ,CyrillTrans,"dwell, live",,,yašamaq,Phonemic
+6-960-521-1,kumy1244,Kumyk (Kajtak dialect),1171,гузгу,CyrillTrans,mirror,,,guzgu,Phonemic
+6-950-521-1,kumy1244,Kumyk (Kajtak dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-521-1,kumy1244,Kumyk (Kajtak dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-521-1,kumy1244,Kumyk (Kajtak dialect),151,деллек,CyrillTrans,razor,,,dellek,Phonemic
+6-921-521-1,kumy1244,Kumyk (Kajtak dialect),333,чач,CyrillTrans,braid,,,čač,Phonemic
+6-920-521-1,kumy1244,Kumyk (Kajtak dialect),1821,таракъ,CyrillTrans,brush,,,taraq,Phonemic
+6-910-521-1,kumy1244,Kumyk (Kajtak dialect),1475,таракъ,CyrillTrans,comb,,,taraq,Phonemic
+6-820-521-1,kumy1244,Kumyk (Kajtak dialect),1021,палатенца,CyrillTrans,towel,,,palatenca,Phonemic
+6-810-521-1,kumy1244,Kumyk (Kajtak dialect),332,къолявлукъ,CyrillTrans,"handkerchief, rag",,,qolyawluq,Phonemic
+6-780-521-1,kumy1244,Kumyk (Kajtak dialect),330,чалма,CyrillTrans,"headband, headdress",,,"čalma, bašgiyim",Phonemic
+6-780-521-3,kumy1244,Kumyk (Kajtak dialect),330,башгийим,CyrillTrans,"headband, headdress",,,"čalma, bašgiyim",Phonemic
+6-770-521-1,kumy1244,Kumyk (Kajtak dialect),770,сыргъа,CyrillTrans,earring,,,sɨrɣa,Phonemic
+6-760-521-1,kumy1244,Kumyk (Kajtak dialect),1860,минчакъ,CyrillTrans,bead,,,minčaq,Phonemic
+6-750-521-1,kumy1244,Kumyk (Kajtak dialect),1961,бучы,CyrillTrans,necklace,,,"bučɨ, minčaqlar",Phonemic
+6-750-521-3,kumy1244,Kumyk (Kajtak dialect),1961,минчакълар,CyrillTrans,necklace,,,"bučɨ, minčaqlar",Phonemic
+6-740-521-1,kumy1244,Kumyk (Kajtak dialect),1754,булезик,CyrillTrans,bracelet,,,bulezik,Phonemic
+6-730-521-1,kumy1244,Kumyk (Kajtak dialect),1374,юзук,CyrillTrans,ring (for finger),,,yuzuk,Phonemic
+6-720-521-1,kumy1244,Kumyk (Kajtak dialect),1029,къаиш,CyrillTrans,jewel,,,qaiš,Phonemic
+6-710-521-1,kumy1244,Kumyk (Kajtak dialect),917,безендирив,CyrillTrans,"ornament, adornment",,,bezendiriw,Phonemic
+6-630-521-1,kumy1244,Kumyk (Kajtak dialect),64,орус ина,CyrillTrans,pin,,,orus ina,Phonemic
+6-620-521-1,kumy1244,Kumyk (Kajtak dialect),757,седеп,CyrillTrans,button,,,sedep,Phonemic
+6-610-521-1,kumy1244,Kumyk (Kajtak dialect),1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-521-1,kumy1244,Kumyk (Kajtak dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-521-1,kumy1244,Kumyk (Kajtak dialect),867,къолгъап,CyrillTrans,glove,,,qolɣap,Phonemic
+6-570-521-1,kumy1244,Kumyk (Kajtak dialect),772,белбев,CyrillTrans,"belt, girdle",,,belbew,Phonemic
+6-550-521-1,kumy1244,Kumyk (Kajtak dialect),2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-521-1,kumy1244,Kumyk (Kajtak dialect),875,этикчи,CyrillTrans,"shoemaker, cobbler",,,etikči,Phonemic
+6-510-521-1,kumy1244,Kumyk (Kajtak dialect),1381,тупли,CyrillTrans,shoe,,,tupli,Phonemic
+6-520-521-1,kumy1244,Kumyk (Kajtak dialect),585,патинке,CyrillTrans,boot,,,patinke,Phonemic
+6-490-521-1,kumy1244,Kumyk (Kajtak dialect),329,жораб,CyrillTrans,"stocking, sock",,,ǯorab,Phonemic
+6-480-521-1,kumy1244,Kumyk (Kajtak dialect),809,шарбар,CyrillTrans,trousers,,,šarbar,Phonemic
+6-461-521-1,kumy1244,Kumyk (Kajtak dialect),328,ярпакъдан бел-юбке,CyrillTrans,grass-skirt,,,yarpaqdan bel-yubke,Phonemic
+6-460-521-1,kumy1244,Kumyk (Kajtak dialect),1600,бел-юбке,CyrillTrans,skirt,,,bel-yubke,Phonemic
+6-450-521-1,kumy1244,Kumyk (Kajtak dialect),2012,ягъа,CyrillTrans,collar,,,yaɣa,Phonemic
+6-440-521-1,kumy1244,Kumyk (Kajtak dialect),1622,гойлек,CyrillTrans,shirt,,,goylek,Phonemic
+6-430-521-1,kumy1244,Kumyk (Kajtak dialect),603,палтун,CyrillTrans,coat,,,paltun,Phonemic
+6-420-521-1,kumy1244,Kumyk (Kajtak dialect),474,капут,CyrillTrans,woman's dress,,,kaput,Phonemic
+6-390-521-1,kumy1244,Kumyk (Kajtak dialect),157,шир,CyrillTrans,dye,,,šir,Phonemic
+6-410-521-1,kumy1244,Kumyk (Kajtak dialect),326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-521-1,kumy1244,Kumyk (Kajtak dialect),1161,йип,CyrillTrans,thread,,,yip,Phonemic
+6-360-521-1,kumy1244,Kumyk (Kajtak dialect),1382,ина,CyrillTrans,needle,,,ina,Phonemic
+6-370-521-1,kumy1244,Kumyk (Kajtak dialect),278,биз,CyrillTrans,awl,,,biz,Phonemic
+6-350-521-1,kumy1244,Kumyk (Kajtak dialect),1457,тикмакъ,CyrillTrans,sew,,,tikmaq,Phonemic
+6-340-521-1,kumy1244,Kumyk (Kajtak dialect),1787,чыгъыр,CyrillTrans,loom,,,čɨɣɨr,Phonemic
+6-330-521-1,kumy1244,Kumyk (Kajtak dialect),133,эшмек,CyrillTrans,weave,,,ešmek,Phonemic
+6-320-521-1,kumy1244,Kumyk (Kajtak dialect),277,урчукъ,CyrillTrans,spindle,,,určuq,Phonemic
+6-310-521-1,kumy1244,Kumyk (Kajtak dialect),121,сокъмакъ,CyrillTrans,spin,,,soqmaq,Phonemic
+6-290-521-1,kumy1244,Kumyk (Kajtak dialect),629,тери,CyrillTrans,leather,,,teri,Phonemic
+6-280-521-1,kumy1244,Kumyk (Kajtak dialect),580,тери,CyrillTrans,fur,,,teri,Phonemic
+6-270-521-1,kumy1244,Kumyk (Kajtak dialect),325,кийиз,CyrillTrans,felt,,,kiyiz,Phonemic
+6-250-521-1,kumy1244,Kumyk (Kajtak dialect),1641,шелк,CyrillTrans,silk,,,šelk,Phonemic
+6-240-521-1,kumy1244,Kumyk (Kajtak dialect),1850,чит,CyrillTrans,cotton,,,čit,Phonemic
+6-230-521-1,kumy1244,Kumyk (Kajtak dialect),916,кендир къумач,CyrillTrans,"linen, flax",,,kendir qumač,Phonemic
+6-220-521-1,kumy1244,Kumyk (Kajtak dialect),964,юн къумач,CyrillTrans,wool,,,yun qumač,Phonemic
+6-210-521-1,kumy1244,Kumyk (Kajtak dialect),1616,къумач,CyrillTrans,cloth,,,qumač,Phonemic
+6-130-521-1,kumy1244,Kumyk (Kajtak dialect),881,дерзичу,CyrillTrans,tailor,,,derziču,Phonemic
+6-120-521-1,kumy1244,Kumyk (Kajtak dialect),1895,урпакъ,CyrillTrans,"clothing, clothes",,,urpaq,Phonemic
+6-110-521-1,kumy1244,Kumyk (Kajtak dialect),158,гийинмакъ,CyrillTrans,put on (clothes),,,giyinmaq,Phonemic
+5-971-521-1,kumy1244,Kumyk (Kajtak dialect),1556,юмуркъани сариси,CyrillTrans,egg yolk,,,yumurqani sarisi,Phonemic
+5-970-521-1,kumy1244,Kumyk (Kajtak dialect),744,юмуркъа,CyrillTrans,egg,,,yumurqa,Phonemic
+5-940-521-1,kumy1244,Kumyk (Kajtak dialect),404,буза,CyrillTrans,fermented drink,,,buza,Phonemic
+5-930-521-1,kumy1244,Kumyk (Kajtak dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-521-1,kumy1244,Kumyk (Kajtak dialect),1524,чагъыр,CyrillTrans,wine,,,čaɣɨr,Phonemic
+5-910-521-1,kumy1244,Kumyk (Kajtak dialect),941,бал ичги,CyrillTrans,mead,,,bal ičgi,Phonemic
+5-900-521-1,kumy1244,Kumyk (Kajtak dialect),731,ичаган зат,CyrillTrans,"beverage, drink",,,ičagan zat,Phonemic
+5-890-521-1,kumy1244,Kumyk (Kajtak dialect),1245,геме,CyrillTrans,butter,,,"geme, yaw",Phonemic
+5-890-521-3,kumy1244,Kumyk (Kajtak dialect),1245,яв,CyrillTrans,butter,,,"geme, yaw",Phonemic
+5-880-521-1,kumy1244,Kumyk (Kajtak dialect),1569,бишлакъ,CyrillTrans,cheese,,,bišlaq,Phonemic
+5-870-521-1,kumy1244,Kumyk (Kajtak dialect),93,савмакъ,CyrillTrans,milk (vb),,,sawmaq,Phonemic
+5-850-521-1,kumy1244,Kumyk (Kajtak dialect),862,шекер,CyrillTrans,sugar,,,šeker,Phonemic
+5-860-521-1,kumy1244,Kumyk (Kajtak dialect),635,сут,CyrillTrans,milk (noun),,,sut,Phonemic
+5-840-521-1,kumy1244,Kumyk (Kajtak dialect),942,бал,CyrillTrans,honey,,,bal,Phonemic
+5-821-521-1,kumy1244,Kumyk (Kajtak dialect),919,аччи уссет,CyrillTrans,chili pepper,,,ač̄i us̄et,Phonemic
+5-820-521-1,kumy1244,Kumyk (Kajtak dialect),1385,уссет,CyrillTrans,pepper,,,us̄et,Phonemic
+5-810-521-1,kumy1244,Kumyk (Kajtak dialect),1274,туз,CyrillTrans,salt,,,tuz,Phonemic
+5-791-521-1,kumy1244,Kumyk (Kajtak dialect),323,пий,CyrillTrans,"grease, fat",,,"piy, quyruq",Phonemic
+5-791-521-3,kumy1244,Kumyk (Kajtak dialect),323,къуйрукъ,CyrillTrans,"grease, fat",,,"piy, quyruq",Phonemic
+5-790-521-1,kumy1244,Kumyk (Kajtak dialect),1484,семичке яв,CyrillTrans,oil,,,semičke yaw,Phonemic
+5-780-521-1,kumy1244,Kumyk (Kajtak dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-521-1,kumy1244,Kumyk (Kajtak dialect),920,юзум,CyrillTrans,grape,,,yuzum,Phonemic
+5-770-521-1,kumy1244,Kumyk (Kajtak dialect),191,къоз,CyrillTrans,nut,,,qoz,Phonemic
+5-750-521-1,kumy1244,Kumyk (Kajtak dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-521-1,kumy1244,Kumyk (Kajtak dialect),1966,салкъин,CyrillTrans,bunch,,,salqin,Phonemic
+5-710-521-1,kumy1244,Kumyk (Kajtak dialect),1507,емиш,CyrillTrans,fruit,,,yemiš,Phonemic
+5-700-521-1,kumy1244,Kumyk (Kajtak dialect),593,картушке,CyrillTrans,potato,,,kartuške,Phonemic
+5-660-521-1,kumy1244,Kumyk (Kajtak dialect),832,къара,CyrillTrans,bean,,,qara,Phonemic
+5-650-521-1,kumy1244,Kumyk (Kajtak dialect),924,яшылчалар,CyrillTrans,vegetables,,,yašɨlčalar,Phonemic
+5-640-521-1,kumy1244,Kumyk (Kajtak dialect),1547,шорпа,CyrillTrans,"soup, broth",,,šorpa,Phonemic
+5-630-521-1,kumy1244,Kumyk (Kajtak dialect),1874,калбаса,CyrillTrans,sausage,,,"kalbasa, iček, pak",Phonemic
+5-630-521-3,kumy1244,Kumyk (Kajtak dialect),1874,ичек,CyrillTrans,sausage,,,"kalbasa, iček, pak",Phonemic
+5-630-521-5,kumy1244,Kumyk (Kajtak dialect),1874,пак,CyrillTrans,sausage,,,"kalbasa, iček, pak",Phonemic
+5-610-521-1,kumy1244,Kumyk (Kajtak dialect),634,эт,CyrillTrans,meat,,,et,Phonemic
+5-590-521-1,kumy1244,Kumyk (Kajtak dialect),225,келини токъмагъы,CyrillTrans,pestle,,,kelini toqmaɣɨ,Phonemic
+5-580-521-1,kumy1244,Kumyk (Kajtak dialect),224,кели гьавенк,CyrillTrans,mortar (2),,,keli hawenk,Phonemic
+5-570-521-1,kumy1244,Kumyk (Kajtak dialect),636,тирман,CyrillTrans,mill,,,tirman,Phonemic
+5-560-521-1,kumy1244,Kumyk (Kajtak dialect),1033,эзмек,CyrillTrans,"crush, grind",,,ezmek,Phonemic
+5-550-521-1,kumy1244,Kumyk (Kajtak dialect),1594,ун,CyrillTrans,"meal, flour",,,un,Phonemic
+5-540-521-1,kumy1244,Kumyk (Kajtak dialect),274,хамур басмакъ,CyrillTrans,knead,,,xamur basmaq,Phonemic
+5-530-521-1,kumy1244,Kumyk (Kajtak dialect),273,хамур,CyrillTrans,dough,,,xamur,Phonemic
+5-510-521-1,kumy1244,Kumyk (Kajtak dialect),1368,экмек,CyrillTrans,bread,,,ekmek,Phonemic
+5-490-521-1,kumy1244,Kumyk (Kajtak dialect),2017,къошмакъ,CyrillTrans,"stir, mix",,,qošmaq,Phonemic
+5-480-521-1,kumy1244,Kumyk (Kajtak dialect),1767,къырмакъ,CyrillTrans,scrape,,,qɨrmaq,Phonemic
+5-470-521-1,kumy1244,Kumyk (Kajtak dialect),86,сузмакъ,CyrillTrans,"sieve, strain",,,suzmaq,Phonemic
+5-460-521-1,kumy1244,Kumyk (Kajtak dialect),275,авчумакъ,CyrillTrans,peel,,,awčumaq,Phonemic
+5-450-521-1,kumy1244,Kumyk (Kajtak dialect),1833,ахшам аш,CyrillTrans,supper,,,axšam aš,Phonemic
+5-440-521-1,kumy1244,Kumyk (Kajtak dialect),1833,туш аш,CyrillTrans,dinner,,,tuš aš,Phonemic
+5-420-521-1,kumy1244,Kumyk (Kajtak dialect),1322,эртенги аш,CyrillTrans,breakfast,,,erteŋi aš,Phonemic
+5-410-521-1,kumy1244,Kumyk (Kajtak dialect),1526,ашамакъ,CyrillTrans,meal (a),,,ašamaq,Phonemic
+5-391-521-1,kumy1244,Kumyk (Kajtak dialect),272,маша,CyrillTrans,tongs,,,maša,Phonemic
+5-390-521-1,kumy1244,Kumyk (Kajtak dialect),1302,чиш,CyrillTrans,fork (2),,,čiš,Phonemic
+5-380-521-1,kumy1244,Kumyk (Kajtak dialect),1352,бичакъ,CyrillTrans,knife (2),,,bičaq,Phonemic
+5-370-521-1,kumy1244,Kumyk (Kajtak dialect),1378,къашыкъ,CyrillTrans,spoon,,,qašɨq,Phonemic
+5-360-521-1,kumy1244,Kumyk (Kajtak dialect),271,налбеки,CyrillTrans,saucer,,,nalbeki,Phonemic
+5-350-521-1,kumy1244,Kumyk (Kajtak dialect),476,чашка,CyrillTrans,"cup, drinking vessel",,,čaška,Phonemic
+5-330-521-1,kumy1244,Kumyk (Kajtak dialect),1530,чашка,CyrillTrans,bowl,,,čaška,Phonemic
+5-340-521-1,kumy1244,Kumyk (Kajtak dialect),270,къуткъа,CyrillTrans,"pitcher, jug",,,"qutqa, čölmek",Phonemic
+5-340-521-3,kumy1244,Kumyk (Kajtak dialect),270,чёлмек,CyrillTrans,"pitcher, jug",,,"qutqa, čölmek",Phonemic
+5-320-521-1,kumy1244,Kumyk (Kajtak dialect),480,бошкъап,CyrillTrans,plate,,,bošqap,Phonemic
+5-310-521-1,kumy1244,Kumyk (Kajtak dialect),481,бошкъап,CyrillTrans,dish,,,bošqap,Phonemic
+5-280-521-1,kumy1244,Kumyk (Kajtak dialect),31,къазан,CyrillTrans,pan,,,qazan,Phonemic
+5-260-521-1,kumy1244,Kumyk (Kajtak dialect),1462,къума,CyrillTrans,"pot, cooking vessel",,,quma,Phonemic
+5-270-521-1,kumy1244,Kumyk (Kajtak dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-521-1,kumy1244,Kumyk (Kajtak dialect),183,биширмакъ,CyrillTrans,bake,,,biširmaq,Phonemic
+5-250-521-1,kumy1244,Kumyk (Kajtak dialect),1143,печ,CyrillTrans,oven,,,peč,Phonemic
+5-230-521-1,kumy1244,Kumyk (Kajtak dialect),2146,къызартмакъ,CyrillTrans,"roast, fry",,,qɨzartmaq,Phonemic
+5-220-521-1,kumy1244,Kumyk (Kajtak dialect),792,къайнатмакъ,CyrillTrans,boil (vb),,,qaynatmaq,Phonemic
+5-210-521-1,kumy1244,Kumyk (Kajtak dialect),1100,биширмакъ,CyrillTrans,cook,,,biširmaq,Phonemic
+5-190-521-1,kumy1244,Kumyk (Kajtak dialect),129,бувмакъ,CyrillTrans,choke,,,buwmaq,Phonemic
+5-181-521-1,kumy1244,Kumyk (Kajtak dialect),897,ютмакъ,CyrillTrans,swallow,,,yutmaq,Phonemic
+5-180-521-1,kumy1244,Kumyk (Kajtak dialect),321,чайнамакъ,CyrillTrans,chew,,,čaynamaq,Phonemic
+5-160-521-1,kumy1244,Kumyk (Kajtak dialect),1421,сормакъ,CyrillTrans,suck,,,sormaq,Phonemic
+5-150-521-1,kumy1244,Kumyk (Kajtak dialect),848,сувсап,CyrillTrans,thirst,,,suwsap,Phonemic
+5-141-521-1,kumy1244,Kumyk (Kajtak dialect),199,ачлыкъ,CyrillTrans,famine,,,ačlɨq,Phonemic
+5-140-521-1,kumy1244,Kumyk (Kajtak dialect),1864,ачлыкъ,CyrillTrans,hunger,,,ačlɨq,Phonemic
+5-130-521-1,kumy1244,Kumyk (Kajtak dialect),1401,ичмакъ,CyrillTrans,drink,,,ičmaq,Phonemic
+5-125-521-1,kumy1244,Kumyk (Kajtak dialect),1728,чириган,CyrillTrans,rotten,,,čirigan,Phonemic
+5-124-521-1,kumy1244,Kumyk (Kajtak dialect),1958,бишмага,CyrillTrans,"green, unripe",,,bišmaga,Phonemic
+5-123-521-1,kumy1244,Kumyk (Kajtak dialect),178,бишган,CyrillTrans,ripe,,,bišgan,Phonemic
+5-122-521-1,kumy1244,Kumyk (Kajtak dialect),1959,бишмаган,CyrillTrans,raw,,,bišmagan,Phonemic
+5-121-521-1,kumy1244,Kumyk (Kajtak dialect),269,бишаган,CyrillTrans,cooked,,,bišagan,Phonemic
+5-120-521-1,kumy1244,Kumyk (Kajtak dialect),256,аш,CyrillTrans,food,,,aš,Phonemic
+5-110-521-1,kumy1244,Kumyk (Kajtak dialect),1336,ашамакъ,CyrillTrans,eat,,,ašamaq,Phonemic
+4-990-521-1,kumy1244,Kumyk (Kajtak dialect),590,ялакъач,CyrillTrans,"naked, bare",,,yalaqač,Phonemic
+4-970-521-1,kumy1244,Kumyk (Kajtak dialect),1653,сокъкъур,CyrillTrans,blind,,,soqqur,Phonemic
+4-980-521-1,kumy1244,Kumyk (Kajtak dialect),1463,ичган,CyrillTrans,intoxicated,,,ičgan,Phonemic
+4-960-521-1,kumy1244,Kumyk (Kajtak dialect),1666,тилсиз,CyrillTrans,mute,,,tilsiz,Phonemic
+4-950-521-1,kumy1244,Kumyk (Kajtak dialect),996,кар,CyrillTrans,deaf,,,kar,Phonemic
+4-930-521-1,kumy1244,Kumyk (Kajtak dialect),1125,кечел баш,CyrillTrans,bald,,,kečel baš,Phonemic
+4-940-521-1,kumy1244,Kumyk (Kajtak dialect),320,аскъакъ,CyrillTrans,lame,,,asqaq,Phonemic
+4-920-521-1,kumy1244,Kumyk (Kajtak dialect),1564,эринчек,CyrillTrans,lazy,,,erinček,Phonemic
+4-912-521-1,kumy1244,Kumyk (Kajtak dialect),168,ял алмакъ,CyrillTrans,rest,,,yal almaq,Phonemic
+4-910-521-1,kumy1244,Kumyk (Kajtak dialect),1757,ариган,CyrillTrans,"tired, weary",,,arigan,Phonemic
+4-890-521-1,kumy1244,Kumyk (Kajtak dialect),655,ахъу,CyrillTrans,poison,,,"aqu, uw",Phonemic
+4-890-521-3,kumy1244,Kumyk (Kajtak dialect),655,ув,CyrillTrans,poison,,,"aqu, uw",Phonemic
+4-880-521-1,kumy1244,Kumyk (Kajtak dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"darman, em",Phonemic
+4-880-521-3,kumy1244,Kumyk (Kajtak dialect),1372,эм,CyrillTrans,"medicine, drug",,,"darman, em",Phonemic
+4-870-521-1,kumy1244,Kumyk (Kajtak dialect),597,духтур,CyrillTrans,physician,,,"duxtur, wrač",Phonemic
+4-870-521-3,kumy1244,Kumyk (Kajtak dialect),597,врач,CyrillTrans,physician,,,"duxtur, wrač",Phonemic
+4-860-521-1,kumy1244,Kumyk (Kajtak dialect),499,сав этмакъ,CyrillTrans,"cure, heal",,,saw etmaq,Phonemic
+4-858-521-1,kumy1244,Kumyk (Kajtak dialect),497,гьана,CyrillTrans,scar,,,hana,Phonemic
+4-857-521-1,kumy1244,Kumyk (Kajtak dialect),1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-521-1,kumy1244,Kumyk (Kajtak dialect),793,сызлавукъ,CyrillTrans,boil (noun),,,sɨzlawuq,Phonemic
+4-855-521-1,kumy1244,Kumyk (Kajtak dialect),1584,сутлаган,CyrillTrans,blister,,,sutlagan,Phonemic
+4-854-521-1,kumy1244,Kumyk (Kajtak dialect),148,къичыта,CyrillTrans,itch,,,qičɨta,Phonemic
+4-853-521-1,kumy1244,Kumyk (Kajtak dialect),1903,шишган ер,CyrillTrans,swelling,,,šišgan yer,Phonemic
+4-852-521-1,kumy1244,Kumyk (Kajtak dialect),1148,аврутув,CyrillTrans,bruise,,,"awrutuw, awrutgan yeri",Phonemic
+4-852-521-3,kumy1244,Kumyk (Kajtak dialect),1148,аврутган ери,CyrillTrans,bruise,,,"awrutuw, awrutgan yeri",Phonemic
+4-850-521-1,kumy1244,Kumyk (Kajtak dialect),1109,яра,CyrillTrans,"wound, sore",,,yara,Phonemic
+4-843-521-1,kumy1244,Kumyk (Kajtak dialect),102,сувукъ,CyrillTrans,cold (catarrh),,,"suwuq, bolgan",Phonemic
+4-843-521-3,kumy1244,Kumyk (Kajtak dialect),102,болган,CyrillTrans,cold (catarrh),,,"suwuq, bolgan",Phonemic
+4-842-521-1,kumy1244,Kumyk (Kajtak dialect),1957,тамакъ безлер,CyrillTrans,goiter,,,tamaq bezler,Phonemic
+4-841-521-1,kumy1244,Kumyk (Kajtak dialect),1534,безгек,CyrillTrans,fever,,,bezgek,Phonemic
+4-840-521-1,kumy1244,Kumyk (Kajtak dialect),1847,аврув,CyrillTrans,"sick, sickness",,,"awruw,awruwlu",Phonemic
+4-840-521-3,kumy1244,Kumyk (Kajtak dialect),1847,аврувлу,CyrillTrans,"sick, sickness",,,"awruw,awruwlu",Phonemic
+4-830-521-1,kumy1244,Kumyk (Kajtak dialect),1364,савлухъ,CyrillTrans,"well, health",,,sawluq,Phonemic
+4-820-521-1,kumy1244,Kumyk (Kajtak dialect),1601,осал,CyrillTrans,weak,,,osal,Phonemic
+4-810-521-1,kumy1244,Kumyk (Kajtak dialect),785,гучлу,CyrillTrans,"strong, mighty, powerful",,,gučlu,Phonemic
+4-790-521-1,kumy1244,Kumyk (Kajtak dialect),1773,къабур,CyrillTrans,"grave, tomb",,,qabur,Phonemic
+4-780-521-1,kumy1244,Kumyk (Kajtak dialect),1719,гоммакъ,CyrillTrans,bury (the dead),,,gommaq,Phonemic
+4-770-521-1,kumy1244,Kumyk (Kajtak dialect),767,суек,CyrillTrans,corpse,,,suyek,Phonemic
+4-760-521-1,kumy1244,Kumyk (Kajtak dialect),1417,элтурмакъ,CyrillTrans,kill,,,elturmaq,Phonemic
+4-751-521-1,kumy1244,Kumyk (Kajtak dialect),1904,батынган,CyrillTrans,drowned,,,batɨŋan,Phonemic
+4-750-521-1,kumy1244,Kumyk (Kajtak dialect),1494,олмек,CyrillTrans,"die, dead",,,olmek,Phonemic
+4-740-521-1,kumy1244,Kumyk (Kajtak dialect),1422,яшав яшамакъ,CyrillTrans,"live, living, life",,,yašaw yašamaq,Phonemic
+4-732-521-1,kumy1244,Kumyk (Kajtak dialect),1087,айли болмакъ,CyrillTrans,conceive,,,ayli bolmaq,Phonemic
+4-730-521-1,kumy1244,Kumyk (Kajtak dialect),1123,айли,CyrillTrans,pregnant,,,ayli,Phonemic
+4-720-521-1,kumy1244,Kumyk (Kajtak dialect),1090,тувмакъ,CyrillTrans,born (to be),,,tuwmaq,Phonemic
+4-710-521-1,kumy1244,Kumyk (Kajtak dialect),1152,этмек,CyrillTrans,beget (of father),,,etmek,Phonemic
+4-690-521-1,kumy1244,Kumyk (Kajtak dialect),138,киринмакъ,CyrillTrans,bathe,,,kirinmaq,Phonemic
+4-680-521-1,kumy1244,Kumyk (Kajtak dialect),52,къартыламакъ,CyrillTrans,shiver,,,qartɨlamaq,Phonemic
+4-670-521-1,kumy1244,Kumyk (Kajtak dialect),1785,сигишмек,CyrillTrans,have sexual intercourse,,,sigišmek,Phonemic
+4-660-521-1,kumy1244,Kumyk (Kajtak dialect),676,эшигин этмек,CyrillTrans,defecate,,,ešigin etmek,Phonemic
+4-650-521-1,kumy1244,Kumyk (Kajtak dialect),592,сиймакъ,CyrillTrans,urinate,,,siymaq,Phonemic
+4-640-521-1,kumy1244,Kumyk (Kajtak dialect),1159,осурмакъ,CyrillTrans,break wind,,,osurmaq,Phonemic
+4-630-521-1,kumy1244,Kumyk (Kajtak dialect),1602,уенмек,CyrillTrans,wake up,,,uyenmek,Phonemic
+4-620-521-1,kumy1244,Kumyk (Kajtak dialect),1920,туш гормек,CyrillTrans,dream,,,tuš gormek,Phonemic
+4-612-521-1,kumy1244,Kumyk (Kajtak dialect),1983,хур этмек,CyrillTrans,snore,,,xur etmek,Phonemic
+4-610-521-1,kumy1244,Kumyk (Kajtak dialect),1585,юхламакъ,CyrillTrans,sleep,,,yuxlamaq,Phonemic
+4-591-521-1,kumy1244,Kumyk (Kajtak dialect),268,силегей акъмакъ,CyrillTrans,dribble,,,silegey aqmaq,Phonemic
+4-590-521-1,kumy1244,Kumyk (Kajtak dialect),319,яламакъ,CyrillTrans,lick,,,yalamaq,Phonemic
+4-580-521-1,kumy1244,Kumyk (Kajtak dialect),1403,хапмакъ,CyrillTrans,bite,,,xapmaq,Phonemic
+4-570-521-1,kumy1244,Kumyk (Kajtak dialect),1278,къусмакъ,CyrillTrans,vomit,,,qusmaq,Phonemic
+4-560-521-1,kumy1244,Kumyk (Kajtak dialect),1440,тукурмакъ,CyrillTrans,spit,,,tukurmaq,Phonemic
+4-550-521-1,kumy1244,Kumyk (Kajtak dialect),126,термелек,CyrillTrans,perspire,,,termelek,Phonemic
+4-540-521-1,kumy1244,Kumyk (Kajtak dialect),1621,чучгурмакъ,CyrillTrans,sneeze,,,čučgurmaq,Phonemic
+4-530-521-1,kumy1244,Kumyk (Kajtak dialect),879,къах этмек,CyrillTrans,cough,,,qax etmek,Phonemic
+4-521-521-1,kumy1244,Kumyk (Kajtak dialect),162,гьикъ этмек,CyrillTrans,hiccough,,,hiq etmek,Phonemic
+4-520-521-1,kumy1244,Kumyk (Kajtak dialect),1028,эсней,CyrillTrans,"yawn, gape",,,esney,Phonemic
+4-510-521-1,kumy1244,Kumyk (Kajtak dialect),1407,гьигь алмакъ,CyrillTrans,"breathe, breath",,,hih almaq,Phonemic
+4-492-521-1,kumy1244,Kumyk (Kajtak dialect),1222,эргишини уят ери,CyrillTrans,penis,,,ergišini uyat yeri,Phonemic
+4-490-521-1,kumy1244,Kumyk (Kajtak dialect),797,ташакълар,CyrillTrans,testicle,,,tašaqlar,Phonemic
+4-470-521-1,kumy1244,Kumyk (Kajtak dialect),804,аналыкъ йери,CyrillTrans,womb,,,analɨq yeri,Phonemic
+4-464-521-1,kumy1244,Kumyk (Kajtak dialect),834,бутну арт сому,CyrillTrans,buttocks,,,butnu art somu,Phonemic
+4-463-521-1,kumy1244,Kumyk (Kajtak dialect),1745,бутну арт сому,CyrillTrans,hip,,,butnu art somu,Phonemic
+4-462-521-1,kumy1244,Kumyk (Kajtak dialect),1681,бел,CyrillTrans,waist,,,bel,Phonemic
+4-461-521-1,kumy1244,Kumyk (Kajtak dialect),1991,ич къурсакъ,CyrillTrans,"intestines, guts",,,ič qursaq,Phonemic
+4-460-521-1,kumy1244,Kumyk (Kajtak dialect),819,аш къазан,CyrillTrans,stomach,,,aš qazan,Phonemic
+4-452-521-1,kumy1244,Kumyk (Kajtak dialect),1744,талакъ,CyrillTrans,spleen,,,talaq,Phonemic
+4-451-521-1,kumy1244,Kumyk (Kajtak dialect),489,гьурцец,CyrillTrans,kidney,,,hurcec,Phonemic
+4-450-521-1,kumy1244,Kumyk (Kajtak dialect),1224,къара бавур,CyrillTrans,liver,,,qara bawur,Phonemic
+4-441-521-1,kumy1244,Kumyk (Kajtak dialect),688,оьпке,CyrillTrans,lung,,,öpke,Phonemic
+4-440-521-1,kumy1244,Kumyk (Kajtak dialect),1223,юрек,CyrillTrans,heart,,,yurek,Phonemic
+4-430-521-1,kumy1244,Kumyk (Kajtak dialect),1838,гинник,CyrillTrans,navel,,,ginnik,Phonemic
+4-420-521-1,kumy1244,Kumyk (Kajtak dialect),154,елим,CyrillTrans,udder,,,yelim,Phonemic
+4-412-521-1,kumy1244,Kumyk (Kajtak dialect),796,эмчек,CyrillTrans,"nipple, teat",,,emček,Phonemic
+4-410-521-1,kumy1244,Kumyk (Kajtak dialect),1402,кокурек,CyrillTrans,breast (of woman),,,kokurek,Phonemic
+4-400-521-1,kumy1244,Kumyk (Kajtak dialect),1592,тош,CyrillTrans,chest,,,toš,Phonemic
+4-393-521-1,kumy1244,Kumyk (Kajtak dialect),1201,къув,CyrillTrans,feather,,,quw,Phonemic
+4-392-521-1,kumy1244,Kumyk (Kajtak dialect),1257,къанат,CyrillTrans,wing,,,qanat,Phonemic
+4-380-521-1,kumy1244,Kumyk (Kajtak dialect),1389,аякъ бармакъ,CyrillTrans,toe,,,ayaq barmaq,Phonemic
+4-374-521-1,kumy1244,Kumyk (Kajtak dialect),318,аякъ йиз,CyrillTrans,footprint,,,ayaq yiz,Phonemic
+4-372-521-1,kumy1244,Kumyk (Kajtak dialect),980,табан,CyrillTrans,heel,,,taban,Phonemic
+4-371-521-1,kumy1244,Kumyk (Kajtak dialect),803,багъынчакъ,CyrillTrans,ankle,,,baɣɨnčaq,Phonemic
+4-370-521-1,kumy1244,Kumyk (Kajtak dialect),1301,аякъни тюбю,CyrillTrans,foot,,,ayaqni tübü,Phonemic
+4-360-521-1,kumy1244,Kumyk (Kajtak dialect),1371,тиз,CyrillTrans,knee,,,tiz,Phonemic
+4-352-521-1,kumy1244,Kumyk (Kajtak dialect),498,борбай,CyrillTrans,calf of leg,,,"borbay, baldɨr",Phonemic
+4-352-521-3,kumy1244,Kumyk (Kajtak dialect),498,балдыр,CyrillTrans,calf of leg,,,"borbay, baldɨr",Phonemic
+4-351-521-1,kumy1244,Kumyk (Kajtak dialect),800,бут,CyrillTrans,thigh,,,but,Phonemic
+4-350-521-1,kumy1244,Kumyk (Kajtak dialect),1297,аякъ,CyrillTrans,leg,,,ayaq,Phonemic
+4-345-521-1,kumy1244,Kumyk (Kajtak dialect),72,тирнакъ,CyrillTrans,claw,,,tirnaq,Phonemic
+4-344-521-1,kumy1244,Kumyk (Kajtak dialect),1258,тирнакъ,CyrillTrans,fingernail,,,tirnaq,Phonemic
+4-342-521-1,kumy1244,Kumyk (Kajtak dialect),1781,башмармакъ,CyrillTrans,thumb,,,bašmarmaq,Phonemic
+4-340-521-1,kumy1244,Kumyk (Kajtak dialect),1303,барнакъ,CyrillTrans,finger,,,barnaq,Phonemic
+4-331-521-1,kumy1244,Kumyk (Kajtak dialect),1183,ая,CyrillTrans,palm of hand,,,aya,Phonemic
+4-330-521-1,kumy1244,Kumyk (Kajtak dialect),1277,къол,CyrillTrans,hand,,,qol,Phonemic
+4-321-521-1,kumy1244,Kumyk (Kajtak dialect),799,билек тюбю,CyrillTrans,wrist,,,bilek tübü,Phonemic
+4-320-521-1,kumy1244,Kumyk (Kajtak dialect),981,тирсек,CyrillTrans,elbow,,,tirsek,Phonemic
+4-312-521-1,kumy1244,Kumyk (Kajtak dialect),1886,къолтукътюп,CyrillTrans,armpit,,,qoltuqtüp,Phonemic
+4-310-521-1,kumy1244,Kumyk (Kajtak dialect),1673,къол,CyrillTrans,arm,,,qol,Phonemic
+4-302-521-1,kumy1244,Kumyk (Kajtak dialect),1994,омура,CyrillTrans,collarbone,,,omura,Phonemic
+4-301-521-1,kumy1244,Kumyk (Kajtak dialect),172,явру къалакъ,CyrillTrans,shoulderblade,,,yawru qalaq,Phonemic
+4-300-521-1,kumy1244,Kumyk (Kajtak dialect),1482,ийни,CyrillTrans,shoulder,,,iyni,Phonemic
+4-290-521-1,kumy1244,Kumyk (Kajtak dialect),1346,тамакъ,CyrillTrans,throat,,,tamaq,Phonemic
+4-281-521-1,kumy1244,Kumyk (Kajtak dialect),1347,елке,CyrillTrans,nape of neck,,,yelke,Phonemic
+4-280-521-1,kumy1244,Kumyk (Kajtak dialect),1333,бойну,CyrillTrans,neck,,,boynu,Phonemic
+4-272-521-1,kumy1244,Kumyk (Kajtak dialect),1049,къасы тиш,CyrillTrans,molartooth,,,qasɨ tiš,Phonemic
+4-270-521-1,kumy1244,Kumyk (Kajtak dialect),1380,тиш,CyrillTrans,tooth,,,tiš,Phonemic
+4-271-521-1,kumy1244,Kumyk (Kajtak dialect),139,тишэтлер,CyrillTrans,gums,,,tišetler,Phonemic
+4-260-521-1,kumy1244,Kumyk (Kajtak dialect),1205,тил,CyrillTrans,tongue,,,til,Phonemic
+4-250-521-1,kumy1244,Kumyk (Kajtak dialect),478,эрни,CyrillTrans,lip,,,erni,Phonemic
+4-241-521-1,kumy1244,Kumyk (Kajtak dialect),73,къушбурну,CyrillTrans,beak,,,qušburnu,Phonemic
+4-240-521-1,kumy1244,Kumyk (Kajtak dialect),674,авзу,CyrillTrans,mouth,,,awzu,Phonemic
+4-232-521-1,kumy1244,Kumyk (Kajtak dialect),208,бурну покъ,CyrillTrans,mucus (nasal),,,burnu poq,Phonemic
+4-231-521-1,kumy1244,Kumyk (Kajtak dialect),1178,танав,CyrillTrans,nostril,,,tanaw,Phonemic
+4-230-521-1,kumy1244,Kumyk (Kajtak dialect),1221,бурну,CyrillTrans,nose,,,burnu,Phonemic
+4-222-521-1,kumy1244,Kumyk (Kajtak dialect),32,къулакъ кюкюрт,CyrillTrans,earwax,,,qulaq kükürt,Phonemic
+4-221-521-1,kumy1244,Kumyk (Kajtak dialect),18,къулакъ тюбю,CyrillTrans,earlobe,,,qulaq tübü,Phonemic
+4-220-521-1,kumy1244,Kumyk (Kajtak dialect),1247,къулакъ,CyrillTrans,ear,,,qulaq,Phonemic
+4-215-521-1,kumy1244,Kumyk (Kajtak dialect),1655,гоз сюзмек,CyrillTrans,blink,,,goz süzmek,Phonemic
+4-214-521-1,kumy1244,Kumyk (Kajtak dialect),1540,кирпик,CyrillTrans,eyelash,,,kirpik,Phonemic
+4-213-521-1,kumy1244,Kumyk (Kajtak dialect),17,кирпик,CyrillTrans,eyelid,,,kirpik,Phonemic
+4-212-521-1,kumy1244,Kumyk (Kajtak dialect),1173,къаш,CyrillTrans,eyebrow,,,qaš,Phonemic
+4-210-521-1,kumy1244,Kumyk (Kajtak dialect),1248,гоз,CyrillTrans,eye,,,goz,Phonemic
+4-208-521-1,kumy1244,Kumyk (Kajtak dialect),1730,энг,CyrillTrans,cheek,,,eŋ,Phonemic
+4-209-521-1,kumy1244,Kumyk (Kajtak dialect),1510,къайкъай,CyrillTrans,chin,,,qayqay,Phonemic
+4-205-521-1,kumy1244,Kumyk (Kajtak dialect),123,мангнай,CyrillTrans,forehead,,,maŋnay,Phonemic
+4-207-521-1,kumy1244,Kumyk (Kajtak dialect),798,къайкъай,CyrillTrans,jaw,,,qayqay,Phonemic
+4-204-521-1,kumy1244,Kumyk (Kajtak dialect),1560,бет,CyrillTrans,face,,,bet,Phonemic
+4-203-521-1,kumy1244,Kumyk (Kajtak dialect),1583,магьа,CyrillTrans,brain,,,maha,Phonemic
+4-201-521-1,kumy1244,Kumyk (Kajtak dialect),1604,чеке,CyrillTrans,"side of head, temple",,,"čeke, qama",Phonemic
+4-201-521-3,kumy1244,Kumyk (Kajtak dialect),1604,къама,CyrillTrans,"side of head, temple",,,"čeke, qama",Phonemic
+4-202-521-1,kumy1244,Kumyk (Kajtak dialect),1605,такъа,CyrillTrans,skull,,,taqa,Phonemic
+4-200-521-1,kumy1244,Kumyk (Kajtak dialect),1256,баш,CyrillTrans,head,,,baš,Phonemic
+4-191-521-1,kumy1244,Kumyk (Kajtak dialect),805,аркъа суек,CyrillTrans,spine,,,arqa suyek,Phonemic
+4-190-521-1,kumy1244,Kumyk (Kajtak dialect),1291,аркъа,CyrillTrans,back,,,arqa,Phonemic
+4-180-521-1,kumy1244,Kumyk (Kajtak dialect),1220,къуйрукъ,CyrillTrans,tail,,,quyruq,Phonemic
+4-170-521-1,kumy1244,Kumyk (Kajtak dialect),1393,муюз,CyrillTrans,horn,,,muyuz,Phonemic
+4-162-521-1,kumy1244,Kumyk (Kajtak dialect),801,къабургъа чибикъ,CyrillTrans,rib,,,qaburɣa čibiq,Phonemic
+4-160-521-1,kumy1244,Kumyk (Kajtak dialect),1394,суек,CyrillTrans,bone,,,suyek,Phonemic
+4-151-521-1,kumy1244,Kumyk (Kajtak dialect),525,тамур,CyrillTrans,"vein, artery",,,tamur,Phonemic
+4-150-521-1,kumy1244,Kumyk (Kajtak dialect),946,къан,CyrillTrans,blood,,,qan,Phonemic
+4-146-521-1,kumy1244,Kumyk (Kajtak dialect),576,къувакъ,CyrillTrans,dandruff,,,quwaq,Phonemic
+4-145-521-1,kumy1244,Kumyk (Kajtak dialect),36,туклар,CyrillTrans,pubic hair,,,tuklar,Phonemic
+4-144-521-1,kumy1244,Kumyk (Kajtak dialect),189,туклар,CyrillTrans,body hair,,,tuklar,Phonemic
+4-142-521-1,kumy1244,Kumyk (Kajtak dialect),678,сакъкъал,CyrillTrans,beard,,,saqqal,Phonemic
+4-140-521-1,kumy1244,Kumyk (Kajtak dialect),1040,туклар,CyrillTrans,hair (head),,,tuklar,Phonemic
+4-130-521-1,kumy1244,Kumyk (Kajtak dialect),2259,эт,CyrillTrans,flesh,,,et,Phonemic
+4-120-521-1,kumy1244,Kumyk (Kajtak dialect),763,тери,CyrillTrans,"skin, hide",,,teri,Phonemic
+4-110-521-1,kumy1244,Kumyk (Kajtak dialect),1480,къаркъара,CyrillTrans,body,,,qarqara,Phonemic
+3-980-521-1,kumy1244,Kumyk (Kajtak dialect),112,къапкъачлибакъа,CyrillTrans,turtle,,,qapqačlibaqa,Phonemic
+3-970-521-1,kumy1244,Kumyk (Kajtak dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-521-1,kumy1244,Kumyk (Kajtak dialect),632,гьалкъа,CyrillTrans,lizard,,,halqa,Phonemic
+3-950-521-1,kumy1244,Kumyk (Kajtak dialect),503,бакъа,CyrillTrans,frog,,,baqa,Phonemic
+3-940-521-1,kumy1244,Kumyk (Kajtak dialect),1543,хуртуя,CyrillTrans,snail,,,xurtuya,Phonemic
+3-930-521-1,kumy1244,Kumyk (Kajtak dialect),607,ченгертки,CyrillTrans,grasshopper,,,čeŋertki,Phonemic
+3-920-521-1,kumy1244,Kumyk (Kajtak dialect),1791,губелек,CyrillTrans,butterfly,,,gubelek,Phonemic
+3-910-521-1,kumy1244,Kumyk (Kajtak dialect),206,ярикъ береген къурт,CyrillTrans,firefly,,,yariq beregen qurt,Phonemic
+3-850-521-1,kumy1244,Kumyk (Kajtak dialect),730,йылан,CyrillTrans,snake,,,yɨlan,Phonemic
+3-840-521-1,kumy1244,Kumyk (Kajtak dialect),1219,къурт,CyrillTrans,worm,,,qurt,Phonemic
+3-832-521-1,kumy1244,Kumyk (Kajtak dialect),1509,савлу жибин,CyrillTrans,mosquito,,,sawlu ǯibin,Phonemic
+3-831-521-1,kumy1244,Kumyk (Kajtak dialect),95,савлу жибин,CyrillTrans,"sandfly (midge), gnat",,,sawlu ǯibin,Phonemic
+3-830-521-1,kumy1244,Kumyk (Kajtak dialect),1504,къара жибин,CyrillTrans,fly,,,qara ǯibin,Phonemic
+3-823-521-1,kumy1244,Kumyk (Kajtak dialect),1517,телли,CyrillTrans,wasp,,,"telli, ǯibin",Phonemic
+3-823-521-3,kumy1244,Kumyk (Kajtak dialect),1517,жибин,CyrillTrans,wasp,,,"telli, ǯibin",Phonemic
+3-822-521-1,kumy1244,Kumyk (Kajtak dialect),88,балжибин уя,CyrillTrans,beehive,,,balǯibin uya,Phonemic
+3-821-521-1,kumy1244,Kumyk (Kajtak dialect),1931,балавуз,CyrillTrans,beeswax,,,balawuz,Phonemic
+3-820-521-1,kumy1244,Kumyk (Kajtak dialect),665,балжибин,CyrillTrans,bee,,,balǯibin,Phonemic
+3-819-521-1,kumy1244,Kumyk (Kajtak dialect),1065,тор,CyrillTrans,spider web,,,tor,Phonemic
+3-818-521-1,kumy1244,Kumyk (Kajtak dialect),843,мияла,CyrillTrans,spider,,,miyala,Phonemic
+3-817-521-1,kumy1244,Kumyk (Kajtak dialect),587,къомурскъа,CyrillTrans,ant,,,qomursqa,Phonemic
+3-816-521-1,kumy1244,Kumyk (Kajtak dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-521-1,kumy1244,Kumyk (Kajtak dialect),1538,арпелек,CyrillTrans,scorpion,,,arpelek,Phonemic
+3-814-521-1,kumy1244,Kumyk (Kajtak dialect),1974,къыркъаякъ,CyrillTrans,centipede,,,qɨrqayaq,Phonemic
+3-813-521-1,kumy1244,Kumyk (Kajtak dialect),232,бурче,CyrillTrans,flea,,,burče,Phonemic
+3-812-521-1,kumy1244,Kumyk (Kajtak dialect),267,сирке,CyrillTrans,nit (louse egg),,,sirke,Phonemic
+3-811-521-1,kumy1244,Kumyk (Kajtak dialect),1392,бит,CyrillTrans,louse,,,bit,Phonemic
+3-810-521-1,kumy1244,Kumyk (Kajtak dialect),620,джибин,CyrillTrans,insect,,,ǯibin,Phonemic
+3-780-521-1,kumy1244,Kumyk (Kajtak dialect),1871,туе,CyrillTrans,camel,,,tuye,Phonemic
+3-770-521-1,kumy1244,Kumyk (Kajtak dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-521-1,kumy1244,Kumyk (Kajtak dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-521-1,kumy1244,Kumyk (Kajtak dialect),1936,къубагийик,CyrillTrans,deer,,,"qubagiyik, maral",Phonemic
+3-750-521-3,kumy1244,Kumyk (Kajtak dialect),1936,марал,CyrillTrans,deer,,,"qubagiyik, maral",Phonemic
+3-740-521-1,kumy1244,Kumyk (Kajtak dialect),1312,тулку,CyrillTrans,fox,,,tulku,Phonemic
+3-730-521-1,kumy1244,Kumyk (Kajtak dialect),1820,аюв,CyrillTrans,bear,,,ayuw,Phonemic
+3-720-521-1,kumy1244,Kumyk (Kajtak dialect),1386,арслан-къаплан,CyrillTrans,lion,,,arslan-qaplan,Phonemic
+3-710-521-1,kumy1244,Kumyk (Kajtak dialect),522,бору,CyrillTrans,wolf,,,boru,Phonemic
+3-664-521-1,kumy1244,Kumyk (Kajtak dialect),1910,денгиз мишик,CyrillTrans,stingray,,,deŋiz mišik,Phonemic
+3-663-521-1,kumy1244,Kumyk (Kajtak dialect),957,хуртма,CyrillTrans,whale,,,"xurtma, kit",Phonemic
+3-663-521-3,kumy1244,Kumyk (Kajtak dialect),957,кит,CyrillTrans,whale,,,"xurtma, kit",Phonemic
+3-662-521-1,kumy1244,Kumyk (Kajtak dialect),1479,делфин,CyrillTrans,"porpoise, dolphin",,,delfin,Phonemic
+3-661-521-1,kumy1244,Kumyk (Kajtak dialect),1110,хуртма,CyrillTrans,shark,,,"xurtma, akula",Phonemic
+3-661-521-3,kumy1244,Kumyk (Kajtak dialect),1110,акула,CyrillTrans,shark,,,"xurtma, akula",Phonemic
+3-655-521-1,kumy1244,Kumyk (Kajtak dialect),598,денгиз жыгъыржагъ,CyrillTrans,shell,,,deŋiz ǯɨɣɨrǯaɣ,Phonemic
+3-654-521-1,kumy1244,Kumyk (Kajtak dialect),1916,балыкъны тыныш тамагъы,CyrillTrans,gill,,,balɨqnɨ tɨnɨš tamaɣɨ,Phonemic
+3-653-521-1,kumy1244,Kumyk (Kajtak dialect),266,балыкъакъча,CyrillTrans,fishscale,,,balɨqaqča,Phonemic
+3-652-521-1,kumy1244,Kumyk (Kajtak dialect),213,балыкъны къанаты,CyrillTrans,fin (dorsal),,,balɨqnɨ qanatɨ,Phonemic
+3-650-521-1,kumy1244,Kumyk (Kajtak dialect),227,балыкъ,CyrillTrans,fish,,,balɨq,Phonemic
+3-630-521-1,kumy1244,Kumyk (Kajtak dialect),2139,чичкъан,CyrillTrans,"mouse, rat",,,"čičqan, abay čičqan",Phonemic
+3-630-521-3,kumy1244,Kumyk (Kajtak dialect),2139,абай чичкъан,CyrillTrans,"mouse, rat",,,"čičqan, abay čičqan",Phonemic
+3-620-521-1,kumy1244,Kumyk (Kajtak dialect),1208,мишик,CyrillTrans,cat,,,mišik,Phonemic
+3-614-521-1,kumy1244,Kumyk (Kajtak dialect),1136,тавшан,CyrillTrans,rabbit,,,tawšan,Phonemic
+3-610-521-1,kumy1244,Kumyk (Kajtak dialect),2009,ит,CyrillTrans,dog,,,"it, laqay",Phonemic
+3-610-521-3,kumy1244,Kumyk (Kajtak dialect),2009,лакъай,CyrillTrans,dog,,,"it, laqay",Phonemic
+3-594-521-1,kumy1244,Kumyk (Kajtak dialect),1853,гогурчун,CyrillTrans,dove,,,gogurčun,Phonemic
+3-596-521-1,kumy1244,Kumyk (Kajtak dialect),735,гугумав,CyrillTrans,owl,,,gugumaw,Phonemic
+3-593-521-1,kumy1244,Kumyk (Kajtak dialect),913,къаргъа,CyrillTrans,crow,,,qarɣa,Phonemic
+3-592-521-1,kumy1244,Kumyk (Kajtak dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-521-1,kumy1244,Kumyk (Kajtak dialect),1793,варканат,CyrillTrans,bat,,,"warkanat, gečequš",Phonemic
+3-591-521-3,kumy1244,Kumyk (Kajtak dialect),1793,гечекъуш,CyrillTrans,bat,,,"warkanat, gečequš",Phonemic
+3-586-521-1,kumy1244,Kumyk (Kajtak dialect),1185,къалигъан,CyrillTrans,vulture,,,qaliɣan,Phonemic
+3-585-521-1,kumy1244,Kumyk (Kajtak dialect),307,лачин,CyrillTrans,hawk,,,lačin,Phonemic
+3-584-521-1,kumy1244,Kumyk (Kajtak dialect),1905,къалигъан,CyrillTrans,eagle,,,qaliɣan,Phonemic
+3-582-521-1,kumy1244,Kumyk (Kajtak dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-521-1,kumy1244,Kumyk (Kajtak dialect),758,гьажилакълакъ,CyrillTrans,heron,,,haǯilaqlaq,Phonemic
+3-581-521-1,kumy1244,Kumyk (Kajtak dialect),937,къуш,CyrillTrans,bird,,,quš,Phonemic
+3-580-521-1,kumy1244,Kumyk (Kajtak dialect),539,уя,CyrillTrans,nest,,,uya,Phonemic
+3-570-521-1,kumy1244,Kumyk (Kajtak dialect),1360,батбат,CyrillTrans,duck,,,batbat,Phonemic
+3-560-521-1,kumy1244,Kumyk (Kajtak dialect),1187,къаз,CyrillTrans,goose,,,qaz,Phonemic
+3-550-521-1,kumy1244,Kumyk (Kajtak dialect),1318,джика,CyrillTrans,chicken,,,ǯika,Phonemic
+3-540-521-1,kumy1244,Kumyk (Kajtak dialect),1514,тавукъ,CyrillTrans,hen,,,tawuq,Phonemic
+3-520-521-1,kumy1244,Kumyk (Kajtak dialect),1511,хораз,CyrillTrans,"cock, rooster",,,xoraz,Phonemic
+3-470-521-1,kumy1244,Kumyk (Kajtak dialect),890,къачир,CyrillTrans,mule,,,qačir,Phonemic
+3-500-521-1,kumy1244,Kumyk (Kajtak dialect),265,уьй къуш,CyrillTrans,fowl,,,üy quš,Phonemic
+3-460-521-1,kumy1244,Kumyk (Kajtak dialect),1862,эшек,CyrillTrans,"ass, donkey",,,ešek,Phonemic
+3-450-521-1,kumy1244,Kumyk (Kajtak dialect),1647,тай,CyrillTrans,"foal, colt",,,tay,Phonemic
+3-440-521-1,kumy1244,Kumyk (Kajtak dialect),938,байтал,CyrillTrans,mare,,,baytal,Phonemic
+3-420-521-1,kumy1244,Kumyk (Kajtak dialect),936,айгъыр,CyrillTrans,stallion,,,ayɣɨr,Phonemic
+3-410-521-1,kumy1244,Kumyk (Kajtak dialect),615,ат,CyrillTrans,horse (equine),,,at,Phonemic
+3-380-521-1,kumy1244,Kumyk (Kajtak dialect),1972,гадай,CyrillTrans,kid,,,gaday,Phonemic
+3-370-521-1,kumy1244,Kumyk (Kajtak dialect),264,эркек эчки,CyrillTrans,he-goat,,,erkek ečki,Phonemic
+3-360-521-1,kumy1244,Kumyk (Kajtak dialect),1502,эчки,CyrillTrans,goat,,,ečki,Phonemic
+3-350-521-1,kumy1244,Kumyk (Kajtak dialect),1337,донгъуз,CyrillTrans,pig,,,donɣuz,Phonemic
+3-340-521-1,kumy1244,Kumyk (Kajtak dialect),1351,донгъуз,CyrillTrans,sow (2),,,donɣuz,Phonemic
+3-320-521-1,kumy1244,Kumyk (Kajtak dialect),1348,донгъуз,CyrillTrans,boar,,,donɣuz,Phonemic
+3-290-521-1,kumy1244,Kumyk (Kajtak dialect),820,къозу,CyrillTrans,lamb,,,qozu,Phonemic
+3-280-521-1,kumy1244,Kumyk (Kajtak dialect),1345,къой,CyrillTrans,ewe,,,qoy,Phonemic
+3-260-521-1,kumy1244,Kumyk (Kajtak dialect),1344,ирк,CyrillTrans,ram,,,irk,Phonemic
+3-250-521-1,kumy1244,Kumyk (Kajtak dialect),1331,къой,CyrillTrans,sheep,,,qoy,Phonemic
+3-240-521-1,kumy1244,Kumyk (Kajtak dialect),1989,бузав,CyrillTrans,calf,,,buzaw,Phonemic
+3-230-521-1,kumy1244,Kumyk (Kajtak dialect),1007,инек,CyrillTrans,cow,,,inek,Phonemic
+3-220-521-1,kumy1244,Kumyk (Kajtak dialect),1169,огуз,CyrillTrans,ox,,,oguz,Phonemic
+3-210-521-1,kumy1244,Kumyk (Kajtak dialect),1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-521-1,kumy1244,Kumyk (Kajtak dialect),1153,къара мал,CyrillTrans,cattle (bovine),,,qara mal,Phonemic
+3-190-521-1,kumy1244,Kumyk (Kajtak dialect),851,ат уй,CyrillTrans,"stable, stall",,,at uy,Phonemic
+3-180-521-1,kumy1244,Kumyk (Kajtak dialect),263,гезувчу,CyrillTrans,herdsman,,,gezuwču,Phonemic
+3-160-521-1,kumy1244,Kumyk (Kajtak dialect),649,гезув,CyrillTrans,pasture,,,gezuw,Phonemic
+3-150-521-1,kumy1244,Kumyk (Kajtak dialect),631,гьайван,CyrillTrans,livestock,,,"haywan, mal",Phonemic
+3-150-521-3,kumy1244,Kumyk (Kajtak dialect),631,мал,CyrillTrans,livestock,,,"haywan, mal",Phonemic
+3-130-521-1,kumy1244,Kumyk (Kajtak dialect),2262,тиши,CyrillTrans,female (adj),,,tiši,Phonemic
+3-120-521-1,kumy1244,Kumyk (Kajtak dialect),2261,эркек,CyrillTrans,male (adj),,,erkek,Phonemic
+3-110-521-1,kumy1244,Kumyk (Kajtak dialect),619,гьайван,CyrillTrans,animal,,,haywan,Phonemic
+2-960-521-1,kumy1244,Kumyk (Kajtak dialect),817,олар,CyrillTrans,they,,,olar,Phonemic
+2-950-521-1,kumy1244,Kumyk (Kajtak dialect),1213,сиз,CyrillTrans,you (plural),,,siz,Phonemic
+2-940-521-1,kumy1244,Kumyk (Kajtak dialect),1212,биз,CyrillTrans,we,,,biz,Phonemic
+2-930-521-1,kumy1244,Kumyk (Kajtak dialect),262,ол,CyrillTrans,he/she/it,,,ol,Phonemic
+2-920-521-1,kumy1244,Kumyk (Kajtak dialect),1215,сен,CyrillTrans,you (singular),,,sen,Phonemic
+2-910-521-1,kumy1244,Kumyk (Kajtak dialect),1209,мен,CyrillTrans,I,,,men,Phonemic
+2-820-521-1,kumy1244,Kumyk (Kajtak dialect),194,хизан,CyrillTrans,family,,,xizan,Phonemic
+2-810-521-1,kumy1244,Kumyk (Kajtak dialect),1644,тухумлар,CyrillTrans,"relatives, kinsmen",,,tuxumlar,Phonemic
+2-770-521-1,kumy1244,Kumyk (Kajtak dialect),1981,тул киши,CyrillTrans,widower,,,tul kiši,Phonemic
+2-760-521-1,kumy1244,Kumyk (Kajtak dialect),1756,тул къатун,CyrillTrans,widow,,,tul qatun,Phonemic
+2-750-521-1,kumy1244,Kumyk (Kajtak dialect),1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-521-1,kumy1244,Kumyk (Kajtak dialect),1058,огей къыз,CyrillTrans,stepdaughter,,,ogey qɨz,Phonemic
+2-730-521-1,kumy1244,Kumyk (Kajtak dialect),1059,огей улан,CyrillTrans,stepson,,,ogey ulan,Phonemic
+2-720-521-1,kumy1244,Kumyk (Kajtak dialect),236,огей ана,CyrillTrans,stepmother,,,ogey ana,Phonemic
+2-710-521-1,kumy1244,Kumyk (Kajtak dialect),237,огей ата,CyrillTrans,stepfather,,,ogey ata,Phonemic
+2-641-521-1,kumy1244,Kumyk (Kajtak dialect),2264,гелин,CyrillTrans,daughter-in-law (of a woman),,,gelin,Phonemic
+2-640-521-1,kumy1244,Kumyk (Kajtak dialect),2265,гелин,CyrillTrans,daughter-in-law (of a man),,,gelin,Phonemic
+2-631-521-1,kumy1244,Kumyk (Kajtak dialect),2266,гияв,CyrillTrans,son-in-law (of a woman),,,giyaw,Phonemic
+2-630-521-1,kumy1244,Kumyk (Kajtak dialect),2267,гияв,CyrillTrans,son-in-law (of a man),,,giyaw,Phonemic
+2-621-521-1,kumy1244,Kumyk (Kajtak dialect),2257,къайна ана,CyrillTrans,mother-in-law (of a woman),,,qayna ana,Phonemic
+2-620-521-1,kumy1244,Kumyk (Kajtak dialect),2256,къайна ана,CyrillTrans,mother-in-law (of a man),,,qayna ana,Phonemic
+2-611-521-1,kumy1244,Kumyk (Kajtak dialect),2254,къайна ата,CyrillTrans,father-in-law (of a woman),,,qayna ata,Phonemic
+2-610-521-1,kumy1244,Kumyk (Kajtak dialect),2255,къайна ата,CyrillTrans,father-in-law (of a man),,,qayna ata,Phonemic
+2-570-521-1,kumy1244,Kumyk (Kajtak dialect),490,яшлар,CyrillTrans,descendants,,,yašlar,Phonemic
+2-560-521-1,kumy1244,Kumyk (Kajtak dialect),1669,ата бабалар,CyrillTrans,ancestors,,,ata babalar,Phonemic
+2-550-521-1,kumy1244,Kumyk (Kajtak dialect),1643,уццукъар,CyrillTrans,cousin,,,uccuqar,Phonemic
+2-540-521-1,kumy1244,Kumyk (Kajtak dialect),1642,къардашини къызы,CyrillTrans,niece,,,"qardašini qɨzɨ, qɨzqardašini qɨzɨ",Phonemic
+2-540-521-3,kumy1244,Kumyk (Kajtak dialect),1642,къызкъардашини къызы,CyrillTrans,niece,,,"qardašini qɨzɨ, qɨzqardašini qɨzɨ",Phonemic
+2-530-521-1,kumy1244,Kumyk (Kajtak dialect),1063,къардашини уланы,CyrillTrans,nephew,,,"qardašini ulanɨ, qɨzqardašini ulanɨ",Phonemic
+2-530-521-3,kumy1244,Kumyk (Kajtak dialect),1063,къызкъардашини уланы,CyrillTrans,nephew,,,"qardašini ulanɨ, qɨzqardašini ulanɨ",Phonemic
+2-522-521-1,kumy1244,Kumyk (Kajtak dialect),170,эчи,CyrillTrans,father's sister,,,eči,Phonemic
+2-520-521-1,kumy1244,Kumyk (Kajtak dialect),1272,эчи,CyrillTrans,aunt,,,eči,Phonemic
+2-521-521-1,kumy1244,Kumyk (Kajtak dialect),171,эчи,CyrillTrans,mother's sister,,,eči,Phonemic
+2-512-521-1,kumy1244,Kumyk (Kajtak dialect),1985,агъа,CyrillTrans,father's brother,,,aɣa,Phonemic
+2-511-521-1,kumy1244,Kumyk (Kajtak dialect),1984,агъа,CyrillTrans,mother's brother,,,aɣa,Phonemic
+2-510-521-1,kumy1244,Kumyk (Kajtak dialect),1327,агъа,CyrillTrans,uncle,,,aɣa,Phonemic
+2-480-521-1,kumy1244,Kumyk (Kajtak dialect),1618,уланини улан,CyrillTrans,grandson,,,"ulanini ulan, qɨzɨni ulan",Phonemic
+2-480-521-3,kumy1244,Kumyk (Kajtak dialect),1618,къызыни улан,CyrillTrans,grandson,,,"ulanini ulan, qɨzɨni ulan",Phonemic
+2-490-521-1,kumy1244,Kumyk (Kajtak dialect),1619,уланини къыз,CyrillTrans,granddaughter,,,"ulanini qɨz, qɨzɨni qɨz",Phonemic
+2-490-521-3,kumy1244,Kumyk (Kajtak dialect),1619,къызыни къыз,CyrillTrans,granddaughter,,,"ulanini qɨz, qɨzɨni qɨz",Phonemic
+2-471-521-1,kumy1244,Kumyk (Kajtak dialect),907,къарт къатун,CyrillTrans,old woman,,,qart qatun,Phonemic
+2-470-521-1,kumy1244,Kumyk (Kajtak dialect),1496,ана,CyrillTrans,grandmother,,,"ana, aba",Phonemic
+2-470-521-3,kumy1244,Kumyk (Kajtak dialect),1496,аба,CyrillTrans,grandmother,,,"ana, aba",Phonemic
+2-461-521-1,kumy1244,Kumyk (Kajtak dialect),406,къарт киши,CyrillTrans,old man,,,qart kiši,Phonemic
+2-460-521-1,kumy1244,Kumyk (Kajtak dialect),1383,ада,CyrillTrans,grandfather,,,ada,Phonemic
+2-458-521-1,kumy1244,Kumyk (Kajtak dialect),1005,эгизлар,CyrillTrans,twins,,,egizlar,Phonemic
+2-456-521-1,kumy1244,Kumyk (Kajtak dialect),1640,къардаш,CyrillTrans,sibling,,,"qardaš, qɨzqardaš",Phonemic
+2-456-521-3,kumy1244,Kumyk (Kajtak dialect),1640,къызкъардаш,CyrillTrans,sibling,,,"qardaš, qɨzqardaš",Phonemic
+2-455-521-1,kumy1244,Kumyk (Kajtak dialect),1761,гичи къызкъардаш,CyrillTrans,younger sister,,,giči qɨzqardaš,Phonemic
+2-454-521-1,kumy1244,Kumyk (Kajtak dialect),1758,уллу къызкъардаш,CyrillTrans,older sister,,,ullu qɨzqardaš,Phonemic
+2-450-521-1,kumy1244,Kumyk (Kajtak dialect),1263,къызкъардаш,CyrillTrans,sister,,,qɨzqardaš,Phonemic
+2-445-521-1,kumy1244,Kumyk (Kajtak dialect),1760,гичи къардаш,CyrillTrans,younger brother,,,giči qardaš,Phonemic
+2-444-521-1,kumy1244,Kumyk (Kajtak dialect),1759,уллу къардаш,CyrillTrans,older brother,,,ullu qardaš,Phonemic
+2-440-521-1,kumy1244,Kumyk (Kajtak dialect),1262,къардаш,CyrillTrans,brother,,,qardaš,Phonemic
+2-430-521-1,kumy1244,Kumyk (Kajtak dialect),1801,яшлар,CyrillTrans,offspring (son or daughter),,,yašlar,Phonemic
+2-420-521-1,kumy1244,Kumyk (Kajtak dialect),1357,къыз,CyrillTrans,daughter,,,qɨz,Phonemic
+2-410-521-1,kumy1244,Kumyk (Kajtak dialect),1620,улан,CyrillTrans,son,,,ulan,Phonemic
+2-390-521-1,kumy1244,Kumyk (Kajtak dialect),426,эри барган,CyrillTrans,married woman,,,eri bargan,Phonemic
+2-380-521-1,kumy1244,Kumyk (Kajtak dialect),424,акъун алган киши,CyrillTrans,married man,,,aqun algan kiši,Phonemic
+2-370-521-1,kumy1244,Kumyk (Kajtak dialect),505,ата-ана,CyrillTrans,parents,,,ata-ana,Phonemic
+2-360-521-1,kumy1244,Kumyk (Kajtak dialect),1216,анам,CyrillTrans,mother,,,"anam, abam, mamam, aǯim",Phonemic
+2-360-521-3,kumy1244,Kumyk (Kajtak dialect),1216,абам,CyrillTrans,mother,,,"anam, abam, mamam, aǯim",Phonemic
+2-360-521-5,kumy1244,Kumyk (Kajtak dialect),1216,мамам,CyrillTrans,mother,,,"anam, abam, mamam, aǯim",Phonemic
+2-360-521-7,kumy1244,Kumyk (Kajtak dialect),1216,ажим,CyrillTrans,mother,,,"anam, abam, mamam, aǯim",Phonemic
+2-350-521-1,kumy1244,Kumyk (Kajtak dialect),1217,атам,CyrillTrans,father,,,"atam, adam, papam",Phonemic
+2-350-521-3,kumy1244,Kumyk (Kajtak dialect),1217,адам,CyrillTrans,father,,,"atam, adam, papam",Phonemic
+2-350-521-5,kumy1244,Kumyk (Kajtak dialect),1217,папам,CyrillTrans,father,,,"atam, adam, papam",Phonemic
+2-341-521-1,kumy1244,Kumyk (Kajtak dialect),1134,айрылыв,CyrillTrans,divorce,,,ayrɨlɨw,Phonemic
+2-340-521-1,kumy1244,Kumyk (Kajtak dialect),1259,той,CyrillTrans,"marriage, wedding",,,toy,Phonemic
+2-330-521-1,kumy1244,Kumyk (Kajtak dialect),203,къайтун алмакъ,CyrillTrans,marry,,,"qaytun almaq, erge barmaq",Phonemic
+2-330-521-3,kumy1244,Kumyk (Kajtak dialect),203,эрге бармакъ,CyrillTrans,marry,,,"qaytun almaq, erge barmaq",Phonemic
+2-320-521-1,kumy1244,Kumyk (Kajtak dialect),1199,къатун,CyrillTrans,wife,,,qatun,Phonemic
+2-310-521-1,kumy1244,Kumyk (Kajtak dialect),1200,эр,CyrillTrans,husband,,,er,Phonemic
+2-280-521-1,kumy1244,Kumyk (Kajtak dialect),1289,гичи яш,CyrillTrans,"infant, baby",,,giči yaš,Phonemic
+2-270-521-1,kumy1244,Kumyk (Kajtak dialect),1304,гичи яш,CyrillTrans,child,,,giči yaš,Phonemic
+2-261-521-1,kumy1244,Kumyk (Kajtak dialect),77,жагьил къыз,CyrillTrans,young woman (adolescent),,,ǯahil qɨz,Phonemic
+2-260-521-1,kumy1244,Kumyk (Kajtak dialect),1646,къыз,CyrillTrans,girl,,,qɨz,Phonemic
+2-251-521-1,kumy1244,Kumyk (Kajtak dialect),76,жагьил улан,CyrillTrans,young man (adolescent),,,ǯahil ulan,Phonemic
+2-250-521-1,kumy1244,Kumyk (Kajtak dialect),1366,улан,CyrillTrans,boy,,,ulan,Phonemic
+2-240-521-1,kumy1244,Kumyk (Kajtak dialect),1551,тиши,CyrillTrans,female,,,tiši,Phonemic
+2-230-521-1,kumy1244,Kumyk (Kajtak dialect),1553,эркек,CyrillTrans,male,,,erkek,Phonemic
+2-220-521-1,kumy1244,Kumyk (Kajtak dialect),962,къатункиши,CyrillTrans,woman,,,qatunkiši,Phonemic
+2-210-521-1,kumy1244,Kumyk (Kajtak dialect),1554,эркиши,CyrillTrans,man (vs. woman),,,erkiši,Phonemic
+2-100-521-1,kumy1244,Kumyk (Kajtak dialect),683,адам,CyrillTrans,"person, human being",,,adam,Phonemic
+1-890-521-1,kumy1244,Kumyk (Kajtak dialect),1188,комур,CyrillTrans,charcoal,,,komur,Phonemic
+1-880-521-1,kumy1244,Kumyk (Kajtak dialect),10,агъачлар,CyrillTrans,firewood,,,aɣačlar,Phonemic
+1-870-521-1,kumy1244,Kumyk (Kajtak dialect),1133,ишбишке,CyrillTrans,match (noun),,,išbiške,Phonemic
+1-861-521-1,kumy1244,Kumyk (Kajtak dialect),127,соннурмакъ,CyrillTrans,extinguish,,,sonnurmaq,Phonemic
+1-860-521-1,kumy1244,Kumyk (Kajtak dialect),737,яннырмакъ,CyrillTrans,"light, kindle, ignite",,,yannɨrmaq,Phonemic
+1-852-521-1,kumy1244,Kumyk (Kajtak dialect),1428,янмакъ,CyrillTrans,burn (vb intrans),,,yanmaq,Phonemic
+1-851-521-1,kumy1244,Kumyk (Kajtak dialect),141,яннырмакъ,CyrillTrans,burn (vb trans),,,yannɨrmaq,Phonemic
+1-841-521-1,kumy1244,Kumyk (Kajtak dialect),67,комур,CyrillTrans,embers,,,komur,Phonemic
+1-840-521-1,kumy1244,Kumyk (Kajtak dialect),646,кул,CyrillTrans,ashes,,,kul,Phonemic
+1-830-521-1,kumy1244,Kumyk (Kajtak dialect),778,тутун,CyrillTrans,smoke (noun),,,tutun,Phonemic
+1-820-521-1,kumy1244,Kumyk (Kajtak dialect),889,ялын,CyrillTrans,flame (noun),,,yalɨn,Phonemic
+1-810-521-1,kumy1244,Kumyk (Kajtak dialect),221,от,CyrillTrans,fire,,,ot,Phonemic
+1-780-521-1,kumy1244,Kumyk (Kajtak dialect),952,чакъ,CyrillTrans,weather,,,čaq,Phonemic
+1-770-521-1,kumy1244,Kumyk (Kajtak dialect),617,буз,CyrillTrans,ice,,,buz,Phonemic
+1-760-521-1,kumy1244,Kumyk (Kajtak dialect),784,къар,CyrillTrans,snow (noun),,,qar,Phonemic
+1-750-521-1,kumy1244,Kumyk (Kajtak dialect),658,янгъур,CyrillTrans,rain (noun),,,yanɣur,Phonemic
+1-740-521-1,kumy1244,Kumyk (Kajtak dialect),249,булут,CyrillTrans,fog,,,bulut,Phonemic
+1-720-521-1,kumy1244,Kumyk (Kajtak dialect),960,ел,CyrillTrans,wind,,,yel,Phonemic
+1-730-521-1,kumy1244,Kumyk (Kajtak dialect),1489,булут,CyrillTrans,cloud,,,bulut,Phonemic
+1-710-521-1,kumy1244,Kumyk (Kajtak dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-521-1,kumy1244,Kumyk (Kajtak dialect),1977,чыкъ,CyrillTrans,dew,,,čɨq,Phonemic
+1-630-521-1,kumy1244,Kumyk (Kajtak dialect),1388,санкъынлыкъ,CyrillTrans,"shade, shadow",,,sanqɨnlɨq,Phonemic
+1-620-521-1,kumy1244,Kumyk (Kajtak dialect),11,къарангъы,CyrillTrans,darkness,,,qaranɣɨ,Phonemic
+1-610-521-1,kumy1244,Kumyk (Kajtak dialect),630,ярыкъ,CyrillTrans,light (noun),,,yarɨq,Phonemic
+1-590-521-1,kumy1244,Kumyk (Kajtak dialect),1733,энежмая,CyrillTrans,rainbow,,,eneǯmaya,Phonemic
+1-580-521-1,kumy1244,Kumyk (Kajtak dialect),858,боран,CyrillTrans,storm,,,boran,Phonemic
+1-560-521-1,kumy1244,Kumyk (Kajtak dialect),1150,кок кокурей,CyrillTrans,thunder,,,kok kokurey,Phonemic
+1-570-521-1,kumy1244,Kumyk (Kajtak dialect),2007,ламц ура,CyrillTrans,lightning (as striking),,,lamc ura,Phonemic
+1-550-521-1,kumy1244,Kumyk (Kajtak dialect),1654,ламц,CyrillTrans,lightning,,,lamc,Phonemic
+1-540-521-1,kumy1244,Kumyk (Kajtak dialect),1430,юлдуз,CyrillTrans,star,,,yulduz,Phonemic
+1-530-521-1,kumy1244,Kumyk (Kajtak dialect),1313,ай,CyrillTrans,moon,,,ay,Phonemic
+1-520-521-1,kumy1244,Kumyk (Kajtak dialect),1343,гун,CyrillTrans,sun,,,gun,Phonemic
+1-510-521-1,kumy1244,Kumyk (Kajtak dialect),1732,кок,CyrillTrans,sky,,,kok,Phonemic
+1-450-521-1,kumy1244,Kumyk (Kajtak dialect),6,ер тербене,CyrillTrans,earthquake,,,yer terbene,Phonemic
+1-440-521-1,kumy1244,Kumyk (Kajtak dialect),2125,таш,CyrillTrans,"stone, rock",,,taš,Phonemic
+1-430-521-1,kumy1244,Kumyk (Kajtak dialect),1803,агъач,CyrillTrans,wood,,,aɣač,Phonemic
+1-420-521-1,kumy1244,Kumyk (Kajtak dialect),906,терек,CyrillTrans,tree (cf 08.600),,,terek,Phonemic
+1-410-521-1,kumy1244,Kumyk (Kajtak dialect),420,орман,CyrillTrans,"woods, forest",,,orman,Phonemic
+1-390-521-1,kumy1244,Kumyk (Kajtak dialect),943,шаршар,CyrillTrans,waterfall,,,šaršar,Phonemic
+1-380-521-1,kumy1244,Kumyk (Kajtak dialect),1145,батмакълыкъ,CyrillTrans,swamp,,,batmaqlɨq,Phonemic
+1-370-521-1,kumy1244,Kumyk (Kajtak dialect),2144,булакъ,CyrillTrans,"spring, well",,,bulaq,Phonemic
+1-362-521-1,kumy1244,Kumyk (Kajtak dialect),1982,айланма,CyrillTrans,whirlpool,,,aylanma,Phonemic
+1-360-521-1,kumy1244,Kumyk (Kajtak dialect),666,чай,CyrillTrans,"river, stream, brook",,,"čay, ozen",Phonemic
+1-360-521-3,kumy1244,Kumyk (Kajtak dialect),666,озен,CyrillTrans,"river, stream, brook",,,"čay, ozen",Phonemic
+1-350-521-1,kumy1244,Kumyk (Kajtak dialect),978,толкъун,CyrillTrans,wave,,,tolqun,Phonemic
+1-340-521-1,kumy1244,Kumyk (Kajtak dialect),663,къолтукъ,CyrillTrans,"gulf, bay",,,qoltuq,Phonemic
+1-330-521-1,kumy1244,Kumyk (Kajtak dialect),624,кёл,CyrillTrans,lake,,,köl,Phonemic
+1-329-521-1,kumy1244,Kumyk (Kajtak dialect),645,акеан,CyrillTrans,ocean,,,akean,Phonemic
+1-324-521-1,kumy1244,Kumyk (Kajtak dialect),1768,гобук,CyrillTrans,foam,,,gobuk,Phonemic
+1-323-521-1,kumy1244,Kumyk (Kajtak dialect),259,гьалек,CyrillTrans,rough (of sea),,,halek,Phonemic
+1-320-521-1,kumy1244,Kumyk (Kajtak dialect),1474,денгиз,CyrillTrans,sea,,,deŋiz,Phonemic
+1-322-521-1,kumy1244,Kumyk (Kajtak dialect),258,рагьат,CyrillTrans,calm (of sea),,,rahat,Phonemic
+1-310-521-1,kumy1244,Kumyk (Kajtak dialect),948,сув,CyrillTrans,water,,,suw,Phonemic
+1-280-521-1,kumy1244,Kumyk (Kajtak dialect),1155,анакъ,CyrillTrans,cave,,,anaq,Phonemic
+1-270-521-1,kumy1244,Kumyk (Kajtak dialect),113,ягъа,CyrillTrans,shore,,,yaɣa,Phonemic
+1-260-521-1,kumy1244,Kumyk (Kajtak dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-521-1,kumy1244,Kumyk (Kajtak dialect),622,остров,CyrillTrans,island,,,ostrow,Phonemic
+1-240-521-1,kumy1244,Kumyk (Kajtak dialect),921,къол,CyrillTrans,valley,,,qol,Phonemic
+1-230-521-1,kumy1244,Kumyk (Kajtak dialect),652,туб,CyrillTrans,"plain, field",,,"tub, awlaq",Phonemic
+1-230-521-3,kumy1244,Kumyk (Kajtak dialect),652,авлакъ,CyrillTrans,"plain, field",,,"tub, awlaq",Phonemic
+1-222-521-1,kumy1244,Kumyk (Kajtak dialect),618,тик яр,CyrillTrans,"cliff, precipice",,,"tik yar, qaya",Phonemic
+1-222-521-3,kumy1244,Kumyk (Kajtak dialect),618,къая,CyrillTrans,"cliff, precipice",,,"tik yar, qaya",Phonemic
+1-220-521-1,kumy1244,Kumyk (Kajtak dialect),2118,тав,CyrillTrans,"mountain, hill",,,"taw, tobe",Phonemic
+1-220-521-3,kumy1244,Kumyk (Kajtak dialect),2118,тобе,CyrillTrans,"mountain, hill",,,"taw, tobe",Phonemic
+1-214-521-1,kumy1244,Kumyk (Kajtak dialect),640,нас,CyrillTrans,mud,,,nas,Phonemic
+1-215-521-1,kumy1244,Kumyk (Kajtak dialect),671,къайыр,CyrillTrans,sand,,,qayɨr,Phonemic
+1-213-521-1,kumy1244,Kumyk (Kajtak dialect),2,чанг,CyrillTrans,dust,,,čaŋ,Phonemic
+1-212-521-1,kumy1244,Kumyk (Kajtak dialect),1228,топуракъ,CyrillTrans,"earth=ground, soil",,,topuraq,Phonemic
+1-210-521-1,kumy1244,Kumyk (Kajtak dialect),626,пачаликъ,CyrillTrans,"earth, land",,,pačaliq,Phonemic
+1-100-521-1,kumy1244,Kumyk (Kajtak dialect),965,дунйа,CyrillTrans,world,,,dunya,Phonemic
+14-330-521-1,kumy1244,Kumyk (Kajtak dialect),1544,заман-заман,CyrillTrans,sometimes,,,zaman-zaman,Phonemic
+14-331-521-1,kumy1244,Kumyk (Kajtak dialect),703,тезтез,CyrillTrans,soon,,,teztez,Phonemic
+14-332-521-1,kumy1244,Kumyk (Kajtak dialect),418,коп заманлы,CyrillTrans,long-time (for a),,,kop zamanlɨ,Phonemic
+14-340-521-1,kumy1244,Kumyk (Kajtak dialect),1656,бирзамандада,CyrillTrans,never,,,birzamandada,Phonemic
+14-350-521-1,kumy1244,Kumyk (Kajtak dialect),204,бирдагъы,CyrillTrans,again,,,birdaɣɨ,Phonemic
+14-410-521-1,kumy1244,Kumyk (Kajtak dialect),1225,гун,CyrillTrans,day,,,gun,Phonemic
+14-420-521-1,kumy1244,Kumyk (Kajtak dialect),1233,гече,CyrillTrans,night,,,geče,Phonemic
+14-430-521-1,kumy1244,Kumyk (Kajtak dialect),729,танг,CyrillTrans,dawn,,,taŋ,Phonemic
+14-440-521-1,kumy1244,Kumyk (Kajtak dialect),1339,эртен,CyrillTrans,morning,,,erten,Phonemic
+14-450-521-1,kumy1244,Kumyk (Kajtak dialect),12,туш заман,CyrillTrans,"noon, midday",,,tuš zaman,Phonemic
+14-451-521-1,kumy1244,Kumyk (Kajtak dialect),1807,тушдансонг,CyrillTrans,afternoon,,,tušdansoŋ,Phonemic
+14-460-521-1,kumy1244,Kumyk (Kajtak dialect),1629,ахшам,CyrillTrans,evening,,,axšam,Phonemic
+14-470-521-1,kumy1244,Kumyk (Kajtak dialect),1283,бугун,CyrillTrans,today,,,bugun,Phonemic
+14-480-521-1,kumy1244,Kumyk (Kajtak dialect),1329,тангна,CyrillTrans,tomorrow,,,taŋna,Phonemic
+14-481-521-1,kumy1244,Kumyk (Kajtak dialect),1179,бирисигун,CyrillTrans,day-after-tomorrow,,,birisigun,Phonemic
+14-490-521-1,kumy1244,Kumyk (Kajtak dialect),1174,тунегун,CyrillTrans,yesterday,,,tunegun,Phonemic
+14-491-521-1,kumy1244,Kumyk (Kajtak dialect),1180,тунегун тугул,CyrillTrans,day-before-yesterday,,,tunegun tugul,Phonemic
+14-510-521-1,kumy1244,Kumyk (Kajtak dialect),1353,сагьат,CyrillTrans,hour,,,sahat,Phonemic
+14-530-521-1,kumy1244,Kumyk (Kajtak dialect),1323,сагьат,CyrillTrans,"clock, timepiece",,,sahat,Phonemic
+14-610-521-1,kumy1244,Kumyk (Kajtak dialect),1469,жума,CyrillTrans,week,,,ǯuma,Phonemic
+14-620-521-1,kumy1244,Kumyk (Kajtak dialect),1699,къатыгун,CyrillTrans,Sunday,,,"qatɨgun, bazargun",Phonemic
+14-620-521-3,kumy1244,Kumyk (Kajtak dialect),1699,базаргун,CyrillTrans,Sunday,,,"qatɨgun, bazargun",Phonemic
+14-630-521-1,kumy1244,Kumyk (Kajtak dialect),1697,итнигун,CyrillTrans,Monday,,,itnigun,Phonemic
+14-640-521-1,kumy1244,Kumyk (Kajtak dialect),1695,талатгун,CyrillTrans,Tuesday,,,talatgun,Phonemic
+14-650-521-1,kumy1244,Kumyk (Kajtak dialect),1694,арбагун,CyrillTrans,Wednesday,,,arbagun,Phonemic
+14-660-521-1,kumy1244,Kumyk (Kajtak dialect),1693,хамисгун,CyrillTrans,Thursday,,,xamisgun,Phonemic
+14-670-521-1,kumy1244,Kumyk (Kajtak dialect),1692,жумагун,CyrillTrans,Friday,,,ǯumagun,Phonemic
+14-680-521-1,kumy1244,Kumyk (Kajtak dialect),1700,сутгун,CyrillTrans,Saturday,,,sutgun,Phonemic
+14-710-521-1,kumy1244,Kumyk (Kajtak dialect),1370,ай,CyrillTrans,month,,,ay,Phonemic
+14-730-521-1,kumy1244,Kumyk (Kajtak dialect),1226,йыл,CyrillTrans,year,,,yɨl,Phonemic
+14-740-521-1,kumy1244,Kumyk (Kajtak dialect),1471,къыш,CyrillTrans,winter,,,qɨš,Phonemic
+14-750-521-1,kumy1244,Kumyk (Kajtak dialect),1537,язбаш,CyrillTrans,spring,,,yazbaš,Phonemic
+14-760-521-1,kumy1244,Kumyk (Kajtak dialect),1342,яз,CyrillTrans,summer,,,yaz,Phonemic
+14-770-521-1,kumy1244,Kumyk (Kajtak dialect),1276,гуз,CyrillTrans,autumn,,,guz,Phonemic
+14-780-521-1,kumy1244,Kumyk (Kajtak dialect),691,йылны вакътиси,CyrillTrans,season,,,yɨlnɨ waqtisi,Phonemic
+15-210-521-1,kumy1244,Kumyk (Kajtak dialect),1587,ийис гелек,CyrillTrans,smell (vb intrans),,,iyis gelek,Phonemic
+15-212-521-1,kumy1244,Kumyk (Kajtak dialect),375,пышгъырмакъ,CyrillTrans,sniff,,,pɨšɣɨrmaq,Phonemic
+15-220-521-1,kumy1244,Kumyk (Kajtak dialect),1586,ийысламакъ,CyrillTrans,smell (vb trans),,,iyɨslamaq,Phonemic
+15-250-521-1,kumy1244,Kumyk (Kajtak dialect),376,арув йис,CyrillTrans,"fragrant, good smelling",,,aruw yis,Phonemic
+15-260-521-1,kumy1244,Kumyk (Kajtak dialect),42,яман йис,CyrillTrans,"stinking, bad smelling",,,yaman yis,Phonemic
+15-310-521-1,kumy1244,Kumyk (Kajtak dialect),21,татув,CyrillTrans,taste,,,tatuw,Phonemic
+15-350-521-1,kumy1244,Kumyk (Kajtak dialect),717,таьли,CyrillTrans,sweet,,,täli,Phonemic
+15-360-521-1,kumy1244,Kumyk (Kajtak dialect),1091,тузлу,CyrillTrans,salty,,,tuzlu,Phonemic
+15-370-521-1,kumy1244,Kumyk (Kajtak dialect),887,аччи,CyrillTrans,bitter,,,ač̄i,Phonemic
+15-380-521-1,kumy1244,Kumyk (Kajtak dialect),1906,туршлу,CyrillTrans,"acid, sour",,,turšlu,Phonemic
+15-390-521-1,kumy1244,Kumyk (Kajtak dialect),70,бираз тузлу,CyrillTrans,brackish,,,biraz tuzlu,Phonemic
+15-410-521-1,kumy1244,Kumyk (Kajtak dialect),1408,эшитмакъ,CyrillTrans,hear,,,ešitmaq,Phonemic
+15-420-521-1,kumy1244,Kumyk (Kajtak dialect),1608,тынгламакъ,CyrillTrans,listen,,,tɨŋlamaq,Phonemic
+15-440-521-1,kumy1244,Kumyk (Kajtak dialect),1811,аваз,CyrillTrans,"sound, noise",,,awaz,Phonemic
+15-450-521-1,kumy1244,Kumyk (Kajtak dialect),377,бек аваз,CyrillTrans,loud,,,bek awaz,Phonemic
+15-460-521-1,kumy1244,Kumyk (Kajtak dialect),1314,сабур,CyrillTrans,"quiet, silence",,,"sabur, asta",Phonemic
+15-460-521-3,kumy1244,Kumyk (Kajtak dialect),1314,аста,CyrillTrans,"quiet, silence",,,"sabur, asta",Phonemic
+15-510-521-1,kumy1244,Kumyk (Kajtak dialect),1409,гормек,CyrillTrans,see,,,gormek,Phonemic
+15-520-521-1,kumy1244,Kumyk (Kajtak dialect),1819,бакъмакъ,CyrillTrans,"look, look at",,,baqmaq,Phonemic
+15-550-521-1,kumy1244,Kumyk (Kajtak dialect),1039,горсетмек,CyrillTrans,show,,,gorsetmek,Phonemic
+15-560-521-1,kumy1244,Kumyk (Kajtak dialect),708,ярыкъ бермек,CyrillTrans,shine,,,yarɨq bermek,Phonemic
+15-570-521-1,kumy1244,Kumyk (Kajtak dialect),679,ярыкъ,CyrillTrans,bright,,,yarɨq,Phonemic
+15-610-521-1,kumy1244,Kumyk (Kajtak dialect),1613,тюс,CyrillTrans,color,,,tüs,Phonemic
+15-620-521-1,kumy1244,Kumyk (Kajtak dialect),250,ачыкъ,CyrillTrans,light (in color),,,ačɨq,Phonemic
+15-630-521-1,kumy1244,Kumyk (Kajtak dialect),706,авур,CyrillTrans,dark (in color),,,awur,Phonemic
+15-640-521-1,kumy1244,Kumyk (Kajtak dialect),1335,акъ,CyrillTrans,white,,,aq,Phonemic
+15-650-521-1,kumy1244,Kumyk (Kajtak dialect),163,къара,CyrillTrans,black,,,qara,Phonemic
+15-660-521-1,kumy1244,Kumyk (Kajtak dialect),156,къызыл,CyrillTrans,red,,,qɨzɨl,Phonemic
+15-670-521-1,kumy1244,Kumyk (Kajtak dialect),837,ачыкъ гок,CyrillTrans,blue,,,ačɨq gok,Phonemic
+15-680-521-1,kumy1244,Kumyk (Kajtak dialect),1425,яшил,CyrillTrans,green,,,yašil,Phonemic
+15-690-521-1,kumy1244,Kumyk (Kajtak dialect),1424,сари,CyrillTrans,yellow,,,sari,Phonemic
+15-710-521-1,kumy1244,Kumyk (Kajtak dialect),1892,тиймакъ,CyrillTrans,touch,,,tiymaq,Phonemic
+15-712-521-1,kumy1244,Kumyk (Kajtak dialect),378,къымцамакъ,CyrillTrans,pinch,,,qɨmcamaq,Phonemic
+15-720-521-1,kumy1244,Kumyk (Kajtak dialect),1079,сезме,CyrillTrans,feel,,,sezme,Phonemic
+15-740-521-1,kumy1244,Kumyk (Kajtak dialect),1884,къатты,CyrillTrans,hard,,,qat̄ɨ,Phonemic
+15-750-521-1,kumy1244,Kumyk (Kajtak dialect),1856,йимишакъ,CyrillTrans,soft,,,yimišaq,Phonemic
+15-760-521-1,kumy1244,Kumyk (Kajtak dialect),1923,тири,CyrillTrans,rough,,,tiri,Phonemic
+15-770-521-1,kumy1244,Kumyk (Kajtak dialect),1234,тегиш,CyrillTrans,smooth,,,tegiš,Phonemic
+15-780-521-1,kumy1244,Kumyk (Kajtak dialect),1396,ити,CyrillTrans,sharp,,,iti,Phonemic
+15-790-521-1,kumy1244,Kumyk (Kajtak dialect),379,къуда,CyrillTrans,"blunt, dull",,,quda,Phonemic
+15-810-521-1,kumy1244,Kumyk (Kajtak dialect),1210,авур,CyrillTrans,heavy,,,awur,Phonemic
+15-820-521-1,kumy1244,Kumyk (Kajtak dialect),1052,енгил,CyrillTrans,light (in weight),,,yeŋil,Phonemic
+15-830-521-1,kumy1244,Kumyk (Kajtak dialect),1726,сув болган,CyrillTrans,"wet, damp",,,suw bolgan,Phonemic
+15-840-521-1,kumy1244,Kumyk (Kajtak dialect),1398,къуру,CyrillTrans,dry,,,quru,Phonemic
+15-850-521-1,kumy1244,Kumyk (Kajtak dialect),1286,къайнар,CyrillTrans,hot,,,qaynar,Phonemic
+15-851-521-1,kumy1244,Kumyk (Kajtak dialect),1232,исси,CyrillTrans,warm,,,is̄i,Phonemic
+15-860-521-1,kumy1244,Kumyk (Kajtak dialect),1287,сувукъ,CyrillTrans,cold,,,suwuq,Phonemic
+15-870-521-1,kumy1244,Kumyk (Kajtak dialect),704,таза,CyrillTrans,clean,,,taza,Phonemic
+15-880-521-1,kumy1244,Kumyk (Kajtak dialect),1230,нас,CyrillTrans,"dirty, soiled",,,nas,Phonemic
+15-890-521-1,kumy1244,Kumyk (Kajtak dialect),380,бурушган,CyrillTrans,wrinkled,,,burušgan,Phonemic
+16-110-521-1,kumy1244,Kumyk (Kajtak dialect),53,ругь,CyrillTrans,"soul, spirit",,,ruh,Phonemic
+16-150-521-1,kumy1244,Kumyk (Kajtak dialect),1572,магьдал болган,CyrillTrans,"surprised, astonished",,,mahdal bolgan,Phonemic
+16-180-521-1,kumy1244,Kumyk (Kajtak dialect),720,онг тюшюв,CyrillTrans,"good fortune, luck",,,"oŋ tüšüw, iši yurüw",Phonemic
+16-180-521-3,kumy1244,Kumyk (Kajtak dialect),720,иши юрюв,CyrillTrans,"good fortune, luck",,,"oŋ tüšüw, iši yurüw",Phonemic
+16-190-521-1,kumy1244,Kumyk (Kajtak dialect),56,онг тюшмегенлик,CyrillTrans,"misfortune, bad luck",,,"oŋ tüšmegenlik, iši yurümegenlik",Phonemic
+16-190-521-3,kumy1244,Kumyk (Kajtak dialect),56,иши юрюмегенлик,CyrillTrans,"misfortune, bad luck",,,"oŋ tüšmegenlik, iši yurümegenlik",Phonemic
+16-230-521-1,kumy1244,Kumyk (Kajtak dialect),1495,суюнчлу,CyrillTrans,"joyful, glad, happy",,,suyunčlu,Phonemic
+16-250-521-1,kumy1244,Kumyk (Kajtak dialect),1355,кулемек,CyrillTrans,laugh,,,kulemek,Phonemic
+16-251-521-1,kumy1244,Kumyk (Kajtak dialect),1451,иржеймакъ,CyrillTrans,smile,,,irǯeymaq,Phonemic
+16-260-521-1,kumy1244,Kumyk (Kajtak dialect),1413,ойнамакъ,CyrillTrans,play,,,oynamaq,Phonemic
+16-270-521-1,kumy1244,Kumyk (Kajtak dialect),923,сюймек,CyrillTrans,love,,,süymek,Phonemic
+16-290-521-1,kumy1244,Kumyk (Kajtak dialect),578,оймакъ,CyrillTrans,kiss,,,oymaq,Phonemic
+16-300-521-1,kumy1244,Kumyk (Kajtak dialect),928,къучакъламакъ,CyrillTrans,embrace,,,qučaqlamaq,Phonemic
+16-310-521-1,kumy1244,Kumyk (Kajtak dialect),1783,аврув,CyrillTrans,pain,,,awruw,Phonemic
+16-320-521-1,kumy1244,Kumyk (Kajtak dialect),1668,пашманлыкъ,CyrillTrans,"grief, sorrow, sadness",,,pašmanlɨq,Phonemic
+16-330-521-1,kumy1244,Kumyk (Kajtak dialect),1000,рагьатсызлыкъ,CyrillTrans,"anxiety, worry",,,rahatsɨzlɨq,Phonemic
+16-340-521-1,kumy1244,Kumyk (Kajtak dialect),1875,гьокюнмек,CyrillTrans,"regret, be sorry",,,hokünmek,Phonemic
+16-350-521-1,kumy1244,Kumyk (Kajtak dialect),1141,языкъ сынма,CyrillTrans,pity,,,yazɨq sɨnma,Phonemic
+16-370-521-1,kumy1244,Kumyk (Kajtak dialect),1839,йыламакъ,CyrillTrans,"cry, weep",,,yɨlamaq,Phonemic
+16-380-521-1,kumy1244,Kumyk (Kajtak dialect),1651,гоз яш,CyrillTrans,tear (noun),,,goz yaš,Phonemic
+16-390-521-1,kumy1244,Kumyk (Kajtak dialect),716,зигар этмек,CyrillTrans,groan,,,zigar etmek,Phonemic
+16-410-521-1,kumy1244,Kumyk (Kajtak dialect),1607,кюсмек оьч болмакъ,CyrillTrans,hate,,,küsmek öč bolmaq,Phonemic
+16-420-521-1,kumy1244,Kumyk (Kajtak dialect),82,асси,CyrillTrans,anger,,,as̄i,Phonemic
+16-440-521-1,kumy1244,Kumyk (Kajtak dialect),40,гюнлемек,CyrillTrans,"envy, jealousy",,,günlemek,Phonemic
+16-450-521-1,kumy1244,Kumyk (Kajtak dialect),1776,ювалув,CyrillTrans,shame (noun),,,yuwaluw,Phonemic
+16-480-521-1,kumy1244,Kumyk (Kajtak dialect),174,октем,CyrillTrans,proud,,,oktem,Phonemic
+16-510-521-1,kumy1244,Kumyk (Kajtak dialect),1779,къоччакъ,CyrillTrans,dare,,,qoč̄aq,Phonemic
+16-520-521-1,kumy1244,Kumyk (Kajtak dialect),3,игит,CyrillTrans,brave,,,igit,Phonemic
+16-530-521-1,kumy1244,Kumyk (Kajtak dialect),781,къоркъув,CyrillTrans,"fear, fright",,,qorquw,Phonemic
+16-540-521-1,kumy1244,Kumyk (Kajtak dialect),1810,къоркъувлу,CyrillTrans,danger,,,qorquwlu,Phonemic
+16-620-521-1,kumy1244,Kumyk (Kajtak dialect),1784,иштагь,CyrillTrans,"desire, want",,,"ištah, süyum, kep",Phonemic
+16-620-521-3,kumy1244,Kumyk (Kajtak dialect),1784,сююм,CyrillTrans,"desire, want",,,"ištah, süyum, kep",Phonemic
+16-620-521-5,kumy1244,Kumyk (Kajtak dialect),1784,кеп,CyrillTrans,"desire, want",,,"ištah, süyum, kep",Phonemic
+16-622-521-1,kumy1244,Kumyk (Kajtak dialect),1750,айырмакъ,CyrillTrans,choose,,,ayɨrmaq,Phonemic
+16-630-521-1,kumy1244,Kumyk (Kajtak dialect),1092,ининмакъ,CyrillTrans,hope,,,ininmaq,Phonemic
+16-650-521-1,kumy1244,Kumyk (Kajtak dialect),100,инамли,CyrillTrans,faithful,,,inamli,Phonemic
+16-660-521-1,kumy1244,Kumyk (Kajtak dialect),1657,герти,CyrillTrans,true,,,gerti,Phonemic
+16-670-521-1,kumy1244,Kumyk (Kajtak dialect),601,алдатмакъ,CyrillTrans,"lie, tell lies",,,aldatmaq,Phonemic
+16-680-521-1,kumy1244,Kumyk (Kajtak dialect),13,ялгъан айтмакъ,CyrillTrans,deceit,,,yalɣan aytmaq,Phonemic
+16-690-521-1,kumy1244,Kumyk (Kajtak dialect),1528,гечмек,CyrillTrans,forgive,,,gečmek,Phonemic
+16-710-521-1,kumy1244,Kumyk (Kajtak dialect),1035,яхши,CyrillTrans,good,,,yaxši,Phonemic
+16-720-521-1,kumy1244,Kumyk (Kajtak dialect),1292,яман,CyrillTrans,bad,,,yaman,Phonemic
+16-730-521-1,kumy1244,Kumyk (Kajtak dialect),1725,туз,CyrillTrans,"right, correct",,,tuz,Phonemic
+16-740-521-1,kumy1244,Kumyk (Kajtak dialect),1390,туз тугул,CyrillTrans,wrong,,,tuz tugul,Phonemic
+16-760-521-1,kumy1244,Kumyk (Kajtak dialect),134,бузукъ иш,CyrillTrans,fault,,,"buzuq iš, ayɨp iš",Phonemic
+16-760-521-3,kumy1244,Kumyk (Kajtak dialect),134,айып иш,CyrillTrans,fault,,,"buzuq iš, ayɨp iš",Phonemic
+16-770-521-1,kumy1244,Kumyk (Kajtak dialect),1293,янгылыш,CyrillTrans,"mistake, error",,,yaŋɨlɨš,Phonemic
+16-780-521-1,kumy1244,Kumyk (Kajtak dialect),381,айыпламакъ,CyrillTrans,blame,,,ayɨplamaq,Phonemic
+16-790-521-1,kumy1244,Kumyk (Kajtak dialect),1687,макътамакъ,CyrillTrans,praise,,,maqtamaq,Phonemic
+16-810-521-1,kumy1244,Kumyk (Kajtak dialect),1427,арув,CyrillTrans,beautiful,,,aruw,Phonemic
+16-820-521-1,kumy1244,Kumyk (Kajtak dialect),1548,эрши,CyrillTrans,ugly,,,erši,Phonemic
+16-830-521-1,kumy1244,Kumyk (Kajtak dialect),2018,къызкъанч,CyrillTrans,greedy,,,qɨzqanč,Phonemic
+16-840-521-1,kumy1244,Kumyk (Kajtak dialect),1310,акъкъылли,CyrillTrans,clever,,,aqqɨlli,Phonemic
+17-110-521-1,kumy1244,Kumyk (Kajtak dialect),1562,акъыл,CyrillTrans,mind,,,aqɨl,Phonemic
+17-130-521-1,kumy1244,Kumyk (Kajtak dialect),1415,ойлашмакъ,CyrillTrans,think (= reflect),,,oylašmaq,Phonemic
+17-140-521-1,kumy1244,Kumyk (Kajtak dialect),1513,сонамакъ,CyrillTrans,think (= be of the opinion),,,sonamaq,Phonemic
+17-150-521-1,kumy1244,Kumyk (Kajtak dialect),1890,инанмакъ,CyrillTrans,believe,,,inanmaq,Phonemic
+17-160-521-1,kumy1244,Kumyk (Kajtak dialect),1536,англамакъ,CyrillTrans,understand,,,aŋlamaq,Phonemic
+17-170-521-1,kumy1244,Kumyk (Kajtak dialect),1410,билмакъ,CyrillTrans,know,,,bilmaq,Phonemic
+17-171-521-1,kumy1244,Kumyk (Kajtak dialect),1932,йоламакъ,CyrillTrans,guess,,,yolamaq,Phonemic
+17-172-521-1,kumy1244,Kumyk (Kajtak dialect),117,лап ошатмакъ,CyrillTrans,imitate,,,lap ošatmaq,Phonemic
+17-180-521-1,kumy1244,Kumyk (Kajtak dialect),1521,болуп горунмек,CyrillTrans,seem,,,"bolup gorunmek, gorunup",Phonemic
+17-180-521-3,kumy1244,Kumyk (Kajtak dialect),1521,горунуп,CyrillTrans,seem,,,"bolup gorunmek, gorunup",Phonemic
+17-190-521-1,kumy1244,Kumyk (Kajtak dialect),1609,ой,CyrillTrans,"idea, notion",,,"oy, pikir, murat, aŋlaw",Phonemic
+17-190-521-3,kumy1244,Kumyk (Kajtak dialect),1609,пикир,CyrillTrans,"idea, notion",,,"oy, pikir, murat, aŋlaw",Phonemic
+17-190-521-5,kumy1244,Kumyk (Kajtak dialect),1609,мурат,CyrillTrans,"idea, notion",,,"oy, pikir, murat, aŋlaw",Phonemic
+17-190-521-7,kumy1244,Kumyk (Kajtak dialect),1609,англав,CyrillTrans,"idea, notion",,,"oy, pikir, murat, aŋlaw",Phonemic
+17-210-521-1,kumy1244,Kumyk (Kajtak dialect),698,акъкъыллы,CyrillTrans,wise,,,aqqɨllɨ,Phonemic
+17-220-521-1,kumy1244,Kumyk (Kajtak dialect),1518,авлия,CyrillTrans,"foolish, stupid",,,awliya,Phonemic
+17-230-521-1,kumy1244,Kumyk (Kajtak dialect),1899,къах,CyrillTrans,"insane, crazy",,,qax,Phonemic
+17-240-521-1,kumy1244,Kumyk (Kajtak dialect),504,билмакъ,CyrillTrans,learn,,,"bilmaq, bilim almaq",Phonemic
+17-240-521-3,kumy1244,Kumyk (Kajtak dialect),504,билим алмакъ,CyrillTrans,learn,,,"bilmaq, bilim almaq",Phonemic
+17-242-521-1,kumy1244,Kumyk (Kajtak dialect),1929,охъумакъ,CyrillTrans,study,,,oqumaq,Phonemic
+17-250-521-1,kumy1244,Kumyk (Kajtak dialect),709,охъумакъ,CyrillTrans,teach,,,oqumaq,Phonemic
+17-260-521-1,kumy1244,Kumyk (Kajtak dialect),753,охъувчу,CyrillTrans,pupil,,,оquwču,Phonemic
+17-270-521-1,kumy1244,Kumyk (Kajtak dialect),1038,муалим,CyrillTrans,teacher,,,mualim,Phonemic
+17-280-521-1,kumy1244,Kumyk (Kajtak dialect),673,учкула,CyrillTrans,school,,,učkula,Phonemic
+17-310-521-1,kumy1244,Kumyk (Kajtak dialect),707,эсде сакъламакъ,CyrillTrans,remember,,,esde saqlamaq,Phonemic
+17-320-521-1,kumy1244,Kumyk (Kajtak dialect),1523,унутмакъ,CyrillTrans,forget,,,unutmaq,Phonemic
+17-340-521-1,kumy1244,Kumyk (Kajtak dialect),989,ачы,CyrillTrans,"clear, plain",,,ačɨ,Phonemic
+17-350-521-1,kumy1244,Kumyk (Kajtak dialect),1764,англашилмайган,CyrillTrans,obscure,,,aŋlašilmaygan,Phonemic
+17-360-521-1,kumy1244,Kumyk (Kajtak dialect),1121,яширтин сёз,CyrillTrans,secret,,,yaširtin söz,Phonemic
+17-370-521-1,kumy1244,Kumyk (Kajtak dialect),509,иманлы къатты,CyrillTrans,"sure, certain",,,"imanlɨ qat̄ɨ, toqtašɣan",Phonemic
+17-370-521-3,kumy1244,Kumyk (Kajtak dialect),509,токъташгъан,CyrillTrans,"sure, certain",,,"imanlɨ qat̄ɨ, toqtašɣan",Phonemic
+17-380-521-1,kumy1244,Kumyk (Kajtak dialect),1626,англатмакъ,CyrillTrans,explain,,,aŋlatmaq,Phonemic
+17-410-521-1,kumy1244,Kumyk (Kajtak dialect),1162,хыял,CyrillTrans,"intention, purpose",,,"xɨyal, murat",Phonemic
+17-410-521-3,kumy1244,Kumyk (Kajtak dialect),1162,мурат,CyrillTrans,"intention, purpose",,,"xɨyal, murat",Phonemic
+17-420-521-1,kumy1244,Kumyk (Kajtak dialect),860,багьана,CyrillTrans,cause,,,"bahana, sebep",Phonemic
+17-420-521-3,kumy1244,Kumyk (Kajtak dialect),860,себеп,CyrillTrans,cause,,,"bahana, sebep",Phonemic
+17-430-521-1,kumy1244,Kumyk (Kajtak dialect),1308,шеклик,CyrillTrans,doubt,,,šeklik,Phonemic
+17-440-521-1,kumy1244,Kumyk (Kajtak dialect),1841,йорамакъ,CyrillTrans,suspect,,,yoramaq,Phonemic
+17-441-521-1,kumy1244,Kumyk (Kajtak dialect),1902,сатмакъ,CyrillTrans,betray,,,satmaq,Phonemic
+17-450-521-1,kumy1244,Kumyk (Kajtak dialect),643,тарыкълыкъ,CyrillTrans,"need, necessity",,,tarɨqlɨq,Phonemic
+17-460-521-1,kumy1244,Kumyk (Kajtak dialect),686,енгил,CyrillTrans,easy,,,yeŋil,Phonemic
+17-470-521-1,kumy1244,Kumyk (Kajtak dialect),584,къыйын,CyrillTrans,difficult,,,qɨyɨn,Phonemic
+17-480-521-1,kumy1244,Kumyk (Kajtak dialect),1812,къаст,CyrillTrans,"try, attempt",,,"qast, sɨnaw",Phonemic
+17-480-521-3,kumy1244,Kumyk (Kajtak dialect),1812,сынав,CyrillTrans,"try, attempt",,,"qast, sɨnaw",Phonemic
+17-490-521-1,kumy1244,Kumyk (Kajtak dialect),488,кюв,CyrillTrans,"way, manner",,,"küw, qayda",Phonemic
+17-490-521-3,kumy1244,Kumyk (Kajtak dialect),488,къайда,CyrillTrans,"way, manner",,,"küw, qayda",Phonemic
+17-510-521-1,kumy1244,Kumyk (Kajtak dialect),1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-521-1,kumy1244,Kumyk (Kajtak dialect),1157,неге тогул,CyrillTrans,because,,,nege togul,Phonemic
+17-530-521-1,kumy1244,Kumyk (Kajtak dialect),1459,егене,CyrillTrans,if,,,yegene,Phonemic
+17-540-521-1,kumy1244,Kumyk (Kajtak dialect),1014,яда,CyrillTrans,or,,,yada,Phonemic
+17-550-521-1,kumy1244,Kumyk (Kajtak dialect),1268,дур,CyrillTrans,"yes, affirmative",,,dur,Phonemic
+17-560-521-1,kumy1244,Kumyk (Kajtak dialect),1269,тугул,CyrillTrans,"no, negative",,,tugul,Phonemic
+17-610-521-1,kumy1244,Kumyk (Kajtak dialect),1239,нечик,CyrillTrans,how?,,,nečik,Phonemic
+17-620-521-1,kumy1244,Kumyk (Kajtak dialect),822,нече,CyrillTrans,how many?,,,neče,Phonemic
+17-630-521-1,kumy1244,Kumyk (Kajtak dialect),531,нечакъы,CyrillTrans,how much?,,,nečaqɨ,Phonemic
+17-640-521-1,kumy1244,Kumyk (Kajtak dialect),1236,не,CyrillTrans,what?,,,ne,Phonemic
+17-650-521-1,kumy1244,Kumyk (Kajtak dialect),1238,къачан,CyrillTrans,when?,,,qačan,Phonemic
+17-660-521-1,kumy1244,Kumyk (Kajtak dialect),1237,къайда,CyrillTrans,where?,,,"qayda, qaydan",Phonemic
+17-660-521-3,kumy1244,Kumyk (Kajtak dialect),1237,къайдан,CyrillTrans,where?,,,"qayda, qaydan",Phonemic
+17-670-521-1,kumy1244,Kumyk (Kajtak dialect),727,нечик,CyrillTrans,which?,,,nečik,Phonemic
+17-680-521-1,kumy1244,Kumyk (Kajtak dialect),1235,ким,CyrillTrans,who?,,,kim,Phonemic
+17-690-521-1,kumy1244,Kumyk (Kajtak dialect),1270,негер,CyrillTrans,why?,,,neger,Phonemic
+18-110-521-1,kumy1244,Kumyk (Kajtak dialect),1363,аваз,CyrillTrans,voice,,,awaz,Phonemic
+18-120-521-1,kumy1244,Kumyk (Kajtak dialect),1261,йырлама,CyrillTrans,sing,,,yɨrlama,Phonemic
+18-130-521-1,kumy1244,Kumyk (Kajtak dialect),715,акъырламакъ,CyrillTrans,"shout, cry out",,,aqɨrlamaq,Phonemic
+18-150-521-1,kumy1244,Kumyk (Kajtak dialect),55,шибишламакъ,CyrillTrans,whisper,,,šibišlamaq,Phonemic
+18-160-521-1,kumy1244,Kumyk (Kajtak dialect),128,шибишламакъ,CyrillTrans,mumble,,,šibišlamaq,Phonemic
+18-170-521-1,kumy1244,Kumyk (Kajtak dialect),1025,сысгъырмакъ,CyrillTrans,whistle,,,sɨsɣɨrmaq,Phonemic
+18-180-521-1,kumy1244,Kumyk (Kajtak dialect),298,акъырмакъ,CyrillTrans,"shriek, screech",,,aqɨrmaq,Phonemic
+18-190-521-1,kumy1244,Kumyk (Kajtak dialect),526,увулдамакъ,CyrillTrans,howl,,,uwuldamaq,Phonemic
+18-210-521-1,kumy1244,Kumyk (Kajtak dialect),1623,сёйлемек,CyrillTrans,"speak, talk",,,söylemek,Phonemic
+18-211-521-1,kumy1244,Kumyk (Kajtak dialect),1866,тутулуп сёйлемек,CyrillTrans,"stutter, stammer",,,"tutulup söylemek, meltek söylemek",Phonemic
+18-211-521-3,kumy1244,Kumyk (Kajtak dialect),1866,мелтек сёйлемек,CyrillTrans,"stutter, stammer",,,"tutulup söylemek, meltek söylemek",Phonemic
+18-220-521-1,kumy1244,Kumyk (Kajtak dialect),1458,айтмакъ,CyrillTrans,say,,,aytmaq,Phonemic
+18-221-521-1,kumy1244,Kumyk (Kajtak dialect),1711,хабарламакъ,CyrillTrans,tell story,,,xabarlamaq,Phonemic
+18-222-521-1,kumy1244,Kumyk (Kajtak dialect),1115,сёз айтмакъ,CyrillTrans,speech (make a),,,söz aytmaq,Phonemic
+18-230-521-1,kumy1244,Kumyk (Kajtak dialect),48,иннемей турмакъ,CyrillTrans,silent (be),,,innemey turmaq,Phonemic
+18-240-521-1,kumy1244,Kumyk (Kajtak dialect),1307,тил,CyrillTrans,language,,,til,Phonemic
+18-260-521-1,kumy1244,Kumyk (Kajtak dialect),1599,сёз,CyrillTrans,word,,,söz,Phonemic
+18-280-521-1,kumy1244,Kumyk (Kajtak dialect),1405,ат,CyrillTrans,name,,,"at, atɨ",Phonemic
+18-280-521-3,kumy1244,Kumyk (Kajtak dialect),1405,аты,CyrillTrans,name,,,"at, atɨ",Phonemic
+18-310-521-1,kumy1244,Kumyk (Kajtak dialect),1309,сорамакъ,CyrillTrans,"ask (question, inquire)",,,soramaq,Phonemic
+18-320-521-1,kumy1244,Kumyk (Kajtak dialect),1275,жаваб бермек,CyrillTrans,answer,,,ǯawab bermek,Phonemic
+18-330-521-1,kumy1244,Kumyk (Kajtak dialect),2022,мюкюр болмакъ,CyrillTrans,"admit, confess",,,mükür bolmaq,Phonemic
+18-340-521-1,kumy1244,Kumyk (Kajtak dialect),755,наъдеп турмакъ,CyrillTrans,deny,,,naʔdep turmaq,Phonemic
+18-350-521-1,kumy1244,Kumyk (Kajtak dialect),1828,тиламакъ,CyrillTrans,"ask, request",,,tilamaq,Phonemic
+18-360-521-1,kumy1244,Kumyk (Kajtak dialect),1675,сёз бермек,CyrillTrans,promise,,,söz bermek,Phonemic
+18-370-521-1,kumy1244,Kumyk (Kajtak dialect),49,разисиз къалмакъ,CyrillTrans,refuse,,,razisiz qalmaq,Phonemic
+18-380-521-1,kumy1244,Kumyk (Kajtak dialect),83,гери урмакъ,CyrillTrans,forbid,,,geri urmaq,Phonemic
+18-390-521-1,kumy1244,Kumyk (Kajtak dialect),299,ябушмакъ,CyrillTrans,"rebuke, scold",,,yabušmaq,Phonemic
+18-410-521-1,kumy1244,Kumyk (Kajtak dialect),1084,чакъырмакъ,CyrillTrans,call (=summon),,,čaqɨrmaq,Phonemic
+18-420-521-1,kumy1244,Kumyk (Kajtak dialect),180,ат такъмакъ,CyrillTrans,call (=name),,,"at taqmaq, aytmaq",Phonemic
+18-420-521-3,kumy1244,Kumyk (Kajtak dialect),180,айтмакъ,CyrillTrans,call (=name),,,"at taqmaq, aytmaq",Phonemic
+18-430-521-1,kumy1244,Kumyk (Kajtak dialect),9,билдирмек,CyrillTrans,announce,,,bildirmek,Phonemic
+18-440-521-1,kumy1244,Kumyk (Kajtak dialect),1192,къоркъув бермек,CyrillTrans,threaten,,,qorquw bermek,Phonemic
+18-450-521-1,kumy1244,Kumyk (Kajtak dialect),101,макътанмакъ,CyrillTrans,boast,,,maqtanmaq,Phonemic
+18-510-521-1,kumy1244,Kumyk (Kajtak dialect),1672,язмакъ,CyrillTrans,write,,,yazmaq,Phonemic
+18-520-521-1,kumy1244,Kumyk (Kajtak dialect),724,охумакъ,CyrillTrans,read,,,oxumaq,Phonemic
+18-560-521-1,kumy1244,Kumyk (Kajtak dialect),648,кагъаз,CyrillTrans,paper,,,kaɣaz,Phonemic
+18-570-521-1,kumy1244,Kumyk (Kajtak dialect),794,ручка,CyrillTrans,pen,,,ručka,Phonemic
+18-610-521-1,kumy1244,Kumyk (Kajtak dialect),963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-521-1,kumy1244,Kumyk (Kajtak dialect),1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-521-1,kumy1244,Kumyk (Kajtak dialect),777,биби,CyrillTrans,flute,,,bibi,Phonemic
+18-720-521-1,kumy1244,Kumyk (Kajtak dialect),908,дам,CyrillTrans,drum,,,dam,Phonemic
+18-730-521-1,kumy1244,Kumyk (Kajtak dialect),2136,быргъы,CyrillTrans,"horn, trumpet",,,bɨrɣɨ,Phonemic
+18-740-521-1,kumy1244,Kumyk (Kajtak dialect),300,жыгъыржакъ,CyrillTrans,rattle,,,"ǯɨɣɨrǯaq, oyunčaq",Phonemic
+18-740-521-3,kumy1244,Kumyk (Kajtak dialect),300,оюнчакъ,CyrillTrans,rattle,,,"ǯɨɣɨrǯaq, oyunčaq",Phonemic
+19-110-521-1,kumy1244,Kumyk (Kajtak dialect),1300,гьукумат,CyrillTrans,country,,,"hukumat, ülke",Phonemic
+19-110-521-3,kumy1244,Kumyk (Kajtak dialect),1300,уьлке,CyrillTrans,country,,,"hukumat, ülke",Phonemic
+19-120-521-1,kumy1244,Kumyk (Kajtak dialect),89,ана уьлке,CyrillTrans,one's native country,,,"ana ülke, watan",Phonemic
+19-120-521-3,kumy1244,Kumyk (Kajtak dialect),89,ватан,CyrillTrans,one's native country,,,"ana ülke, watan",Phonemic
+19-150-521-1,kumy1244,Kumyk (Kajtak dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-521-1,kumy1244,Kumyk (Kajtak dialect),930,гент,CyrillTrans,village,,,gent,Phonemic
+19-170-521-1,kumy1244,Kumyk (Kajtak dialect),1010,дазув,CyrillTrans,boundary,,,dazuw,Phonemic
+19-210-521-1,kumy1244,Kumyk (Kajtak dialect),789,халкъ,CyrillTrans,people (populace),,,xalq,Phonemic
+19-230-521-1,kumy1244,Kumyk (Kajtak dialect),302,къавум,CyrillTrans,"tribe, clan",,,qawum,Phonemic
+19-240-521-1,kumy1244,Kumyk (Kajtak dialect),301,йолбашчу,CyrillTrans,"chief, chieftain",,,yolbašču,Phonemic
+19-250-521-1,kumy1244,Kumyk (Kajtak dialect),1296,аса,CyrillTrans,"staff, walking stick",,,asa,Phonemic
+19-310-521-1,kumy1244,Kumyk (Kajtak dialect),1846,гьакимлик экмек,CyrillTrans,"rule, govern",,,hakimlik ekmek,Phonemic
+19-320-521-1,kumy1244,Kumyk (Kajtak dialect),1508,пача,CyrillTrans,"king, ruler",,,pača,Phonemic
+19-330-521-1,kumy1244,Kumyk (Kajtak dialect),1306,пача къатын,CyrillTrans,queen,,,pača qatɨn,Phonemic
+19-360-521-1,kumy1244,Kumyk (Kajtak dialect),482,асил,CyrillTrans,"noble, nobleman",,,"asil, qɨlɨqli",Phonemic
+19-360-521-3,kumy1244,Kumyk (Kajtak dialect),482,къылыкъли,CyrillTrans,"noble, nobleman",,,"asil, qɨlɨqli",Phonemic
+19-370-521-1,kumy1244,Kumyk (Kajtak dialect),1032,шагьарли адам,CyrillTrans,"citizen, subject",,,šaharli adam,Phonemic
+19-410-521-1,kumy1244,Kumyk (Kajtak dialect),383,агъа,CyrillTrans,master,,,"aɣa, yes̄i, xožayɨn",Phonemic
+19-410-521-3,kumy1244,Kumyk (Kajtak dialect),383,есси,CyrillTrans,master,,,"aɣa, yes̄i, xožayɨn",Phonemic
+19-410-521-5,kumy1244,Kumyk (Kajtak dialect),383,хожайын,CyrillTrans,master,,,"aɣa, yes̄i, xožayɨn",Phonemic
+19-420-521-1,kumy1244,Kumyk (Kajtak dialect),812,къул,CyrillTrans,slave,,,qul,Phonemic
+19-430-521-1,kumy1244,Kumyk (Kajtak dialect),255,къуллукъчу,CyrillTrans,servant,,,qulluqču,Phonemic
+19-440-521-1,kumy1244,Kumyk (Kajtak dialect),384,оьзден,CyrillTrans,freeman,,,"özden, erkin adam",Phonemic
+19-440-521-3,kumy1244,Kumyk (Kajtak dialect),384,эркин адам,CyrillTrans,freeman,,,"özden, erkin adam",Phonemic
+19-450-521-1,kumy1244,Kumyk (Kajtak dialect),1128,буюрмакъ,CyrillTrans,"command, order",,,buyurmaq,Phonemic
+19-460-521-1,kumy1244,Kumyk (Kajtak dialect),1635,таби болмакъ,CyrillTrans,obey,,,"tabi bolmaq, boysɨnmaq",Phonemic
+19-460-521-3,kumy1244,Kumyk (Kajtak dialect),1635,бойсынмакъ,CyrillTrans,obey,,,"tabi bolmaq, boysɨnmaq",Phonemic
+19-470-521-1,kumy1244,Kumyk (Kajtak dialect),1003,ихтияр бермек,CyrillTrans,"let, permit",,,ixtiyar bermek,Phonemic
+19-510-521-1,kumy1244,Kumyk (Kajtak dialect),1325,къурдаш,CyrillTrans,"friend, companion",,,qurdaš,Phonemic
+19-520-521-1,kumy1244,Kumyk (Kajtak dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-521-1,kumy1244,Kumyk (Kajtak dialect),1332,хоншу,CyrillTrans,neighbor,,,xonšu,Phonemic
+19-550-521-1,kumy1244,Kumyk (Kajtak dialect),791,танишмайган адам,CyrillTrans,stranger,,,tanišmaygan adam,Phonemic
+19-560-521-1,kumy1244,Kumyk (Kajtak dialect),1782,къонакъ,CyrillTrans,guest,,,qonaq,Phonemic
+19-570-521-1,kumy1244,Kumyk (Kajtak dialect),1545,уйну есси,CyrillTrans,host,,,uynu yes̄i,Phonemic
+19-580-521-1,kumy1244,Kumyk (Kajtak dialect),1897,комек,CyrillTrans,"help, aid",,,komek,Phonemic
+19-590-521-1,kumy1244,Kumyk (Kajtak dialect),1550,мешайт этмек,CyrillTrans,"hinder, prevent",,,"mešayt etmek, četim etmek, puršaw etmek",Phonemic
+19-590-521-3,kumy1244,Kumyk (Kajtak dialect),1550,четим этмек,CyrillTrans,"hinder, prevent",,,"mešayt etmek, četim etmek, puršaw etmek",Phonemic
+19-590-521-5,kumy1244,Kumyk (Kajtak dialect),1550,пуршав этмек,CyrillTrans,"hinder, prevent",,,"mešayt etmek, četim etmek, puršaw etmek",Phonemic
+19-610-521-1,kumy1244,Kumyk (Kajtak dialect),1747,адат,CyrillTrans,custom,,,adat,Phonemic
+19-620-521-1,kumy1244,Kumyk (Kajtak dialect),1848,эришив,CyrillTrans,"strife, quarrel",,,erišiw,Phonemic
+19-630-521-1,kumy1244,Kumyk (Kajtak dialect),2024,яман хыял,CyrillTrans,"conspiracy, plot",,,yaman xɨyal,Phonemic
+19-650-521-1,kumy1244,Kumyk (Kajtak dialect),1831,ёлукъмакъ,CyrillTrans,meet,,,yoluqmaq,Phonemic
+19-720-521-1,kumy1244,Kumyk (Kajtak dialect),1610,къагьба,CyrillTrans,prostitute,,,qahba,Phonemic
+20-110-521-1,kumy1244,Kumyk (Kajtak dialect),1423,тутушмакъ,CyrillTrans,fight (vb),,,"tutušmaq, yabušmaq",Phonemic
+20-110-521-3,kumy1244,Kumyk (Kajtak dialect),1423,ябушмакъ,CyrillTrans,fight (vb),,,"tutušmaq, yabušmaq",Phonemic
+20-130-521-1,kumy1244,Kumyk (Kajtak dialect),579,дав,CyrillTrans,"war, battle",,,daw,Phonemic
+20-140-521-1,kumy1244,Kumyk (Kajtak dialect),1338,парахатлы,CyrillTrans,peace,,,paraxatlɨ,Phonemic
+20-150-521-1,kumy1244,Kumyk (Kajtak dialect),1561,армия,CyrillTrans,army,,,"armiya, asger",Phonemic
+20-150-521-3,kumy1244,Kumyk (Kajtak dialect),1561,асгер,CyrillTrans,army,,,"armiya, asger",Phonemic
+20-170-521-1,kumy1244,Kumyk (Kajtak dialect),1941,салдат,CyrillTrans,soldier,,,saldat,Phonemic
+20-210-521-1,kumy1244,Kumyk (Kajtak dialect),951,савут,CyrillTrans,"weapons, arms",,,sawut,Phonemic
+20-220-521-1,kumy1244,Kumyk (Kajtak dialect),1763,чокъмар,CyrillTrans,club,,,čoqmar,Phonemic
+20-222-521-1,kumy1244,Kumyk (Kajtak dialect),386,балта,CyrillTrans,battle-ax,,,balta,Phonemic
+20-230-521-1,kumy1244,Kumyk (Kajtak dialect),387,къазархы,CyrillTrans,sling,,,qazarxɨ,Phonemic
+20-240-521-1,kumy1244,Kumyk (Kajtak dialect),994,сохан,CyrillTrans,bow,,,soxan,Phonemic
+20-250-521-1,kumy1244,Kumyk (Kajtak dialect),977,окъ,CyrillTrans,arrow,,,oq,Phonemic
+20-260-521-1,kumy1244,Kumyk (Kajtak dialect),945,сюнгю,CyrillTrans,spear,,,süŋü,Phonemic
+20-270-521-1,kumy1244,Kumyk (Kajtak dialect),1535,хынжал,CyrillTrans,sword,,,xɨnžal,Phonemic
+20-280-521-1,kumy1244,Kumyk (Kajtak dialect),1566,тубек,CyrillTrans,"gun, cannon",,,"tubek, top",Phonemic
+20-280-521-3,kumy1244,Kumyk (Kajtak dialect),1566,топ,CyrillTrans,"gun, cannon",,,"tubek, top",Phonemic
+20-310-521-1,kumy1244,Kumyk (Kajtak dialect),1061,дав савутлар,CyrillTrans,armor (defensive),,,daw sawutlar,Phonemic
+20-330-521-1,kumy1244,Kumyk (Kajtak dialect),1680,асгер такъыя,CyrillTrans,helmet,,,asger taqɨya,Phonemic
+20-340-521-1,kumy1244,Kumyk (Kajtak dialect),1064,талкъан,CyrillTrans,shield,,,talqan,Phonemic
+20-350-521-1,kumy1244,Kumyk (Kajtak dialect),1938,къала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-521-1,kumy1244,Kumyk (Kajtak dialect),1671,беклик,CyrillTrans,tower,,,beklik,Phonemic
+20-410-521-1,kumy1244,Kumyk (Kajtak dialect),783,устунлукъ,CyrillTrans,victory,,,ustunluq,Phonemic
+20-420-521-1,kumy1244,Kumyk (Kajtak dialect),782,туп болмакъ,CyrillTrans,defeat,,,tup bolmaq,Phonemic
+20-430-521-1,kumy1244,Kumyk (Kajtak dialect),722,гьужум этмек,CyrillTrans,attack,,,huǯum etmek,Phonemic
+20-440-521-1,kumy1244,Kumyk (Kajtak dialect),1330,душбандан турмакъ,CyrillTrans,defend,,,dušbandan turmaq,Phonemic
+20-450-521-1,kumy1244,Kumyk (Kajtak dialect),421,арта бармакъ,CyrillTrans,retreat,,,arta barmaq,Phonemic
+20-460-521-1,kumy1244,Kumyk (Kajtak dialect),1696,къолгъа бармакъ,CyrillTrans,surrender,,,qolɣa barmaq,Phonemic
+20-470-521-1,kumy1244,Kumyk (Kajtak dialect),1072,асир,CyrillTrans,"captive, prisoner",,,"asir, tusnaq",Phonemic
+20-470-521-3,kumy1244,Kumyk (Kajtak dialect),1072,туснакъ,CyrillTrans,"captive, prisoner",,,"asir, tusnaq",Phonemic
+20-471-521-1,kumy1244,Kumyk (Kajtak dialect),1940,жаллат,CyrillTrans,"guard, sentinel",,,"ǯallat, qarawulču",Phonemic
+20-471-521-3,kumy1244,Kumyk (Kajtak dialect),1940,къаравулчу,CyrillTrans,"guard, sentinel",,,"ǯallat, qarawulču",Phonemic
+20-480-521-1,kumy1244,Kumyk (Kajtak dialect),1022,урлангал мал,CyrillTrans,"booty, spoils",,,urlaŋal mal,Phonemic
+20-490-521-1,kumy1244,Kumyk (Kajtak dialect),65,тусхъун турма,CyrillTrans,ambush,,,tusqun turma,Phonemic
+20-510-521-1,kumy1244,Kumyk (Kajtak dialect),1858,балыкъчу,CyrillTrans,fisherman,,,balɨqču,Phonemic
+20-520-521-1,kumy1244,Kumyk (Kajtak dialect),1074,балыкъ къармакъ,CyrillTrans,fishhook,,,balɨq qarmaq,Phonemic
+20-530-521-1,kumy1244,Kumyk (Kajtak dialect),19,къармакъ йип,CyrillTrans,fishing line,,,qarmaq yip,Phonemic
+20-540-521-1,kumy1244,Kumyk (Kajtak dialect),388,балыкъ тор,CyrillTrans,fishnet,,,balɨq tor,Phonemic
+20-550-521-1,kumy1244,Kumyk (Kajtak dialect),389,манна,CyrillTrans,fish trap,,,manna,Phonemic
+20-560-521-1,kumy1244,Kumyk (Kajtak dialect),2013,алдатгъыч аш,CyrillTrans,bait,,,aldatɣɨč aš,Phonemic
+20-610-521-1,kumy1244,Kumyk (Kajtak dialect),1435,гьав этмек,CyrillTrans,hunt,,,"haw etmek, oxotga barmaq",Phonemic
+20-610-521-3,kumy1244,Kumyk (Kajtak dialect),1435,охотга бармакъ,CyrillTrans,hunt,,,"haw etmek, oxotga barmaq",Phonemic
+20-620-521-1,kumy1244,Kumyk (Kajtak dialect),1172,атышмакъ,CyrillTrans,shoot,,,atɨšmaq,Phonemic
+20-630-521-1,kumy1244,Kumyk (Kajtak dialect),161,тиймей къалмакъ,CyrillTrans,miss (target),,,tiymey qalmaq,Phonemic
+20-640-521-1,kumy1244,Kumyk (Kajtak dialect),1075,тузакъ,CyrillTrans,trap (noun),,,"tuzaq, qapɣɨn",Phonemic
+20-640-521-3,kumy1244,Kumyk (Kajtak dialect),1075,къапгъын,CyrillTrans,trap (noun),,,"tuzaq, qapɣɨn",Phonemic
+20-650-521-1,kumy1244,Kumyk (Kajtak dialect),1170,тутмакъ,CyrillTrans,trap (vb),,,tutmaq,Phonemic
+21-110-521-1,kumy1244,Kumyk (Kajtak dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-521-1,kumy1244,Kumyk (Kajtak dialect),1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-521-1,kumy1244,Kumyk (Kajtak dialect),1818,суд этмек,CyrillTrans,judge (vb),,,sud etmek,Phonemic
+21-170-521-1,kumy1244,Kumyk (Kajtak dialect),1067,судну гьукмусу,CyrillTrans,judgment,,,sudnu hukmusu,Phonemic
+21-180-521-1,kumy1244,Kumyk (Kajtak dialect),861,судйа,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-521-1,kumy1244,Kumyk (Kajtak dialect),2020,арзачи,CyrillTrans,plaintiff,,,arzači,Phonemic
+21-220-521-1,kumy1244,Kumyk (Kajtak dialect),1034,жавабчи,CyrillTrans,defendant,,,ǯawabči,Phonemic
+21-230-521-1,kumy1244,Kumyk (Kajtak dialect),1144,шагьат,CyrillTrans,witness,,,šahat,Phonemic
+21-240-521-1,kumy1244,Kumyk (Kajtak dialect),1939,ант этмек,CyrillTrans,swear,,,ant etmek,Phonemic
+21-250-521-1,kumy1244,Kumyk (Kajtak dialect),1712,ант,CyrillTrans,oath,,,ant,Phonemic
+21-310-521-1,kumy1244,Kumyk (Kajtak dialect),1814,айыпламакъ,CyrillTrans,accuse,,,"ayɨplamaq, günahlamaq",Phonemic
+21-310-521-3,kumy1244,Kumyk (Kajtak dialect),1814,гюнагьламакъ,CyrillTrans,accuse,,,"ayɨplamaq, günahlamaq",Phonemic
+21-320-521-1,kumy1244,Kumyk (Kajtak dialect),484,айыпламакъ,CyrillTrans,condemn,,,"ayɨplamaq, günahlamaq",Phonemic
+21-320-521-3,kumy1244,Kumyk (Kajtak dialect),484,гюнагьламакъ,CyrillTrans,condemn,,,"ayɨplamaq, günahlamaq",Phonemic
+21-330-521-1,kumy1244,Kumyk (Kajtak dialect),983,гюнагьли деп билдирмек,CyrillTrans,convict (vb),,,günahli dep bildirmek,Phonemic
+21-340-521-1,kumy1244,Kumyk (Kajtak dialect),988,гюнагьдан тазаламакъ,CyrillTrans,acquit,,,günahdan tazalamaq,Phonemic
+21-350-521-1,kumy1244,Kumyk (Kajtak dialect),1682,жавабли,CyrillTrans,guilty,,,"ǯawabli, ayɨplɨ, günahlɨ",Phonemic
+21-350-521-3,kumy1244,Kumyk (Kajtak dialect),1682,айыплы,CyrillTrans,guilty,,,"ǯawabli, ayɨplɨ, günahlɨ",Phonemic
+21-350-521-5,kumy1244,Kumyk (Kajtak dialect),1682,гюнагьлы,CyrillTrans,guilty,,,"ǯawabli, ayɨplɨ, günahlɨ",Phonemic
+21-360-521-1,kumy1244,Kumyk (Kajtak dialect),90,жавабсыз,CyrillTrans,innocent,,,"ǯawabsɨz, ayɨpsɨz, günahsɨz",Phonemic
+21-360-521-3,kumy1244,Kumyk (Kajtak dialect),90,айыпсыз,CyrillTrans,innocent,,,"ǯawabsɨz, ayɨpsɨz, günahsɨz",Phonemic
+21-360-521-5,kumy1244,Kumyk (Kajtak dialect),90,гюнагьсыз,CyrillTrans,innocent,,,"ǯawabsɨz, ayɨpsɨz, günahsɨz",Phonemic
+21-370-521-1,kumy1244,Kumyk (Kajtak dialect),390,жаза,CyrillTrans,"penalty, punishment",,,"ǯaza, taqsɨr",Phonemic
+21-370-521-3,kumy1244,Kumyk (Kajtak dialect),390,такъсыр,CyrillTrans,"penalty, punishment",,,"ǯaza, taqsɨr",Phonemic
+21-380-521-1,kumy1244,Kumyk (Kajtak dialect),218,акъча штраф,CyrillTrans,fine,,,"aqča štraf, aqča qodu",Phonemic
+21-380-521-3,kumy1244,Kumyk (Kajtak dialect),218,акъча къоду,CyrillTrans,fine,,,"aqča štraf, aqča qodu",Phonemic
+21-390-521-1,kumy1244,Kumyk (Kajtak dialect),1281,туснакъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-521-1,kumy1244,Kumyk (Kajtak dialect),845,элтурув,CyrillTrans,murder,,,elturuw,Phonemic
+21-430-521-1,kumy1244,Kumyk (Kajtak dialect),902,зина,CyrillTrans,adultery,,,"zina, qahbalɨq",Phonemic
+21-430-521-3,kumy1244,Kumyk (Kajtak dialect),902,къагьбалыкъ,CyrillTrans,adultery,,,"zina, qahbalɨq",Phonemic
+21-440-521-1,kumy1244,Kumyk (Kajtak dialect),953,хорлав,CyrillTrans,rape,,,"xorlaw, namusuna tiyiw",Phonemic
+21-440-521-3,kumy1244,Kumyk (Kajtak dialect),953,намусуна тийив,CyrillTrans,rape,,,"xorlaw, namusuna tiyiw",Phonemic
+21-460-521-1,kumy1244,Kumyk (Kajtak dialect),1889,от салыв,CyrillTrans,arson,,,ot salɨw,Phonemic
+21-470-521-1,kumy1244,Kumyk (Kajtak dialect),1792,ялгъан шагьатчылыкъ,CyrillTrans,perjury,,,yalɣan šahatčɨlɨq,Phonemic
+21-510-521-1,kumy1244,Kumyk (Kajtak dialect),713,урламакъ,CyrillTrans,steal,,,urlamaq,Phonemic
+21-520-521-1,kumy1244,Kumyk (Kajtak dialect),1160,уручу,CyrillTrans,thief,,,uruču,Phonemic
+22-110-521-1,kumy1244,Kumyk (Kajtak dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-521-1,kumy1244,Kumyk (Kajtak dialect),1944,Аллагь,CyrillTrans,God,,,"Allah, Xuday, Tеŋiri",Phonemic
+22-120-521-3,kumy1244,Kumyk (Kajtak dialect),1944,Худай,CyrillTrans,God,,,"Allah, Xuday, Tеŋiri",Phonemic
+22-120-521-5,kumy1244,Kumyk (Kajtak dialect),1944,Тенгири,CyrillTrans,God,,,"Allah, Xuday, Tеŋiri",Phonemic
+22-130-521-1,kumy1244,Kumyk (Kajtak dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-521-1,kumy1244,Kumyk (Kajtak dialect),853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-521-1,kumy1244,Kumyk (Kajtak dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,qurban,Phonemic
+22-160-521-1,kumy1244,Kumyk (Kajtak dialect),257,инанмакъ,CyrillTrans,worship,,,"inanmaq, sužda qɨlmaq",Phonemic
+22-160-521-3,kumy1244,Kumyk (Kajtak dialect),257,сужда къылмакъ,CyrillTrans,worship,,,"inanmaq, sužda qɨlmaq",Phonemic
+22-170-521-1,kumy1244,Kumyk (Kajtak dialect),24,намаз этмек,CyrillTrans,pray,,,namaz etmek,Phonemic
+22-180-521-1,kumy1244,Kumyk (Kajtak dialect),852,кешиш,CyrillTrans,priest,,,"kešiš, qadi",Phonemic
+22-180-521-3,kumy1244,Kumyk (Kajtak dialect),852,къади,CyrillTrans,priest,,,"kešiš, qadi",Phonemic
+22-190-521-1,kumy1244,Kumyk (Kajtak dialect),1702,шейих,CyrillTrans,"holy, sacred",,,"šeyix, sɨylɨ, bekayawlu",Phonemic
+22-190-521-3,kumy1244,Kumyk (Kajtak dialect),1702,сыйлы,CyrillTrans,"holy, sacred",,,"šeyix, sɨylɨ, bekayawlu",Phonemic
+22-190-521-5,kumy1244,Kumyk (Kajtak dialect),1702,бекаявлу,CyrillTrans,"holy, sacred",,,"šeyix, sɨylɨ, bekayawlu",Phonemic
+22-220-521-1,kumy1244,Kumyk (Kajtak dialect),304,ваъза-насигьат этмек,CyrillTrans,preach,,,waza-nasihat etmek,Phonemic
+22-230-521-1,kumy1244,Kumyk (Kajtak dialect),391,пурман бермек,CyrillTrans,bless,,,"purman bermek, iznu bermek",Phonemic
+22-230-521-3,kumy1244,Kumyk (Kajtak dialect),391,изну бермек,CyrillTrans,bless,,,"purman bermek, iznu bermek",Phonemic
+22-240-521-1,kumy1244,Kumyk (Kajtak dialect),8,къаргъамакъ,CyrillTrans,curse,,,qarɣamaq,Phonemic
+22-260-521-1,kumy1244,Kumyk (Kajtak dialect),303,ораза тутмакъ,CyrillTrans,fast (vb),,,oraza tutmaq,Phonemic
+22-310-521-1,kumy1244,Kumyk (Kajtak dialect),1565,жаннат,CyrillTrans,heaven,,,ǯannat,Phonemic
+22-320-521-1,kumy1244,Kumyk (Kajtak dialect),878,жагьаннам,CyrillTrans,hell,,,ǯahannam,Phonemic
+22-350-521-1,kumy1244,Kumyk (Kajtak dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin",Phonemic
+22-350-521-3,kumy1244,Kumyk (Kajtak dialect),1973,шайтан,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin",Phonemic
+22-350-521-5,kumy1244,Kumyk (Kajtak dialect),1973,жин,CyrillTrans,demon (evil spirit),,,"ilbis, šaytan, ǯin",Phonemic
+22-370-521-1,kumy1244,Kumyk (Kajtak dialect),1945,ташсурат,CyrillTrans,idol,,,tašsurat,Phonemic
+22-420-521-1,kumy1244,Kumyk (Kajtak dialect),392,сигьручулукъ,CyrillTrans,"magic, witchcraft, sorcery",,,"sihručuluq, xalmaǯčɨlɨq",Phonemic
+22-420-521-3,kumy1244,Kumyk (Kajtak dialect),392,халмажчылыкъ,CyrillTrans,"magic, witchcraft, sorcery",,,"sihručuluq, xalmaǯčɨlɨq",Phonemic
+22-430-521-1,kumy1244,Kumyk (Kajtak dialect),2137,сигьручу къатын,CyrillTrans,"sorcerer, witch",,,"sihruču qatɨn, enem",Phonemic
+22-430-521-3,kumy1244,Kumyk (Kajtak dialect),2137,энем,CyrillTrans,"sorcerer, witch",,,"sihruču qatɨn, enem",Phonemic
+22-440-521-1,kumy1244,Kumyk (Kajtak dialect),2138,пери,CyrillTrans,"fairy, elf",,,peri,Phonemic
+22-450-521-1,kumy1244,Kumyk (Kajtak dialect),1175,сюлдюр,CyrillTrans,"ghost, phantom",,,süldür,Phonemic
+22-470-521-1,kumy1244,Kumyk (Kajtak dialect),107,белги,CyrillTrans,"omen, portent",,,"belgi, belgi gorünüš",Phonemic
+22-470-521-3,kumy1244,Kumyk (Kajtak dialect),107,белги горюнюш,CyrillTrans,"omen, portent",,,"belgi, belgi gorünüš",Phonemic

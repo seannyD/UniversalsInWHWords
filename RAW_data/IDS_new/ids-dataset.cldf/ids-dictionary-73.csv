@@ -1,0 +1,2033 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-73-1,noga1249,Nogai,1852,тез-тез,CyrillTrans,often,,,"tеz-tеz, köp, kеrе",Phonemic
+14-320-73-3,noga1249,Nogai,1852,коьп,CyrillTrans,often,,,"tеz-tеz, köp, kеrе",Phonemic
+14-320-73-5,noga1249,Nogai,1852,кере,CyrillTrans,often,,,"tеz-tеz, köp, kеrе",Phonemic
+14-310-73-1,noga1249,Nogai,1676,аьр дайым,CyrillTrans,always,,,"är dayɨm, är zaman",Phonemic
+14-310-73-3,noga1249,Nogai,1676,аьр заман,CyrillTrans,always,,,"är dayɨm, är zaman",Phonemic
+14-290-73-1,noga1249,Nogai,790,аьзир,CyrillTrans,ready,,,äzir,Phonemic
+14-280-73-1,noga1249,Nogai,1928,боьлуьв,CyrillTrans,"cease, stop",,,"bölüw, toktatuw",Phonemic
+14-280-73-3,noga1249,Nogai,1928,токтатув,CyrillTrans,"cease, stop",,,"bölüw, toktatuw",Phonemic
+14-270-73-1,noga1249,Nogai,1766,битируьв,CyrillTrans,finish,,,"bitirüw, kutaruw",Phonemic
+14-270-73-3,noga1249,Nogai,1766,кутарув,CyrillTrans,finish,,,"bitirüw, kutaruw",Phonemic
+14-260-73-1,noga1249,Nogai,743,кутарув,CyrillTrans,end (temporal),,,"kutaruw, ɨzɨna yetüw",Phonemic
+14-260-73-3,noga1249,Nogai,743,ызына етуьв,CyrillTrans,end (temporal),,,"kutaruw, ɨzɨna yetüw",Phonemic
+14-252-73-1,noga1249,Nogai,1186,узакланув,CyrillTrans,"last, endure",,,"uzaklanuw, kеmkaluw",Phonemic
+14-252-73-3,noga1249,Nogai,1186,кемкалув,CyrillTrans,"last, endure",,,"uzaklanuw, kеmkaluw",Phonemic
+14-250-73-1,noga1249,Nogai,1806,баслав,CyrillTrans,"begin, beginning",,,"baslaw, basɨ, baslamuwɨ",Phonemic
+14-250-73-3,noga1249,Nogai,1806,басы,CyrillTrans,"begin, beginning",,,"baslaw, basɨ, baslamuwɨ",Phonemic
+14-250-73-5,noga1249,Nogai,1806,басламувы,CyrillTrans,"begin, beginning",,,"baslaw, basɨ, baslamuwɨ",Phonemic
+14-240-73-1,noga1249,Nogai,425,асталандырув,CyrillTrans,"retard, delay",,,"astalandɨruw, taktatuw, kеškaldɨruw",Phonemic
+14-240-73-3,noga1249,Nogai,425,тактатув,CyrillTrans,"retard, delay",,,"astalandɨruw, taktatuw, kеškaldɨruw",Phonemic
+14-240-73-5,noga1249,Nogai,425,кешкалдырув,CyrillTrans,"retard, delay",,,"astalandɨruw, taktatuw, kеškaldɨruw",Phonemic
+14-230-73-1,noga1249,Nogai,754,алгасав,CyrillTrans,"hasten, hurry",,,"algasaw, tеz boluw",Phonemic
+14-230-73-3,noga1249,Nogai,754,тез болув,CyrillTrans,"hasten, hurry",,,"algasaw, tеz boluw",Phonemic
+14-220-73-1,noga1249,Nogai,701,кеш,CyrillTrans,slow,,,"kеš, asta, sabɨr",Phonemic
+14-220-73-3,noga1249,Nogai,701,аста,CyrillTrans,slow,,,"kеš, asta, sabɨr",Phonemic
+14-220-73-5,noga1249,Nogai,701,сабыр,CyrillTrans,slow,,,"kеš, asta, sabɨr",Phonemic
+14-210-73-1,noga1249,Nogai,1631,тез,CyrillTrans,"swift, fast, quick",,,"tеz, šalt",Phonemic
+14-210-73-3,noga1249,Nogai,1631,шалт,CyrillTrans,"swift, fast, quick",,,"tеz, šalt",Phonemic
+14-190-73-1,noga1249,Nogai,1963,тез бу саьат,CyrillTrans,immediately,,,"tеz bu säat, tеz ok",Phonemic
+14-190-73-3,noga1249,Nogai,1963,тез ок,CyrillTrans,immediately,,,"tеz bu säat, tеz ok",Phonemic
+14-180-73-1,noga1249,Nogai,1376,аьли,CyrillTrans,now,,,"äli, tеz ok",Phonemic
+14-180-73-3,noga1249,Nogai,1376,тез ок,CyrillTrans,now,,,"äli, tеz ok",Phonemic
+14-170-73-1,noga1249,Nogai,477,кеш,CyrillTrans,late,,,kеš,Phonemic
+14-160-73-1,noga1249,Nogai,672,эрте,CyrillTrans,early,,,"ertе, ertеrеk, tеz",Phonemic
+14-160-73-3,noga1249,Nogai,672,эртерек,CyrillTrans,early,,,"ertе, ertеrеk, tеz",Phonemic
+14-160-73-5,noga1249,Nogai,672,тез,CyrillTrans,early,,,"ertе, ertеrеk, tеz",Phonemic
+14-150-73-1,noga1249,Nogai,1229,карт,CyrillTrans,old,,,"kart, eski",Phonemic
+14-150-73-3,noga1249,Nogai,1229,эски,CyrillTrans,old,,,"kart, eski",Phonemic
+14-140-73-1,noga1249,Nogai,1207,ес,CyrillTrans,young,,,yеs,Phonemic
+14-120-73-1,noga1249,Nogai,1789,йуз,CyrillTrans,age,,,"yuz, yɨl, epoxa, zaman",Phonemic
+14-120-73-3,noga1249,Nogai,1789,йыл,CyrillTrans,age,,,"yuz, yɨl, epoxa, zaman",Phonemic
+14-120-73-5,noga1249,Nogai,1789,эпоха,CyrillTrans,age,,,"yuz, yɨl, epoxa, zaman",Phonemic
+14-120-73-7,noga1249,Nogai,1789,заман,CyrillTrans,age,,,"yuz, yɨl, epoxa, zaman",Phonemic
+14-130-73-1,noga1249,Nogai,1231,йанъы,CyrillTrans,new,,,yaŋɨ,Phonemic
+14-110-73-1,noga1249,Nogai,892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-73-1,noga1249,Nogai,417,уьш кере,CyrillTrans,three times,,,üš kеrе,Phonemic
+13-420-73-1,noga1249,Nogai,1859,уьшинши,CyrillTrans,third,,,üšinši,Phonemic
+13-380-73-1,noga1249,Nogai,1546,эки кере,CyrillTrans,two times,,,eki kеrе,Phonemic
+13-370-73-1,noga1249,Nogai,1888,косак,CyrillTrans,pair,,,kosak,Phonemic
+13-360-73-1,noga1249,Nogai,1384,экинши,CyrillTrans,second,,,ekinši,Phonemic
+13-350-73-1,noga1249,Nogai,1529,ызгы,CyrillTrans,last,,,"ɨzgɨ, soŋgɨ, artɨndagɨ",Phonemic
+13-350-73-3,noga1249,Nogai,1529,сонъгы,CyrillTrans,last,,,"ɨzgɨ, soŋgɨ, artɨndagɨ",Phonemic
+13-350-73-5,noga1249,Nogai,1529,артындагы,CyrillTrans,last,,,"ɨzgɨ, soŋgɨ, artɨndagɨ",Phonemic
+13-340-73-1,noga1249,Nogai,728,биринши,CyrillTrans,first,,,birinši,Phonemic
+13-330-73-1,noga1249,Nogai,1580,бир,CyrillTrans,"alone, only",,,"bir, yelgɨz, birеw",Phonemic
+13-330-73-3,noga1249,Nogai,1580,елгыз,CyrillTrans,"alone, only",,,"bir, yelgɨz, birеw",Phonemic
+13-330-73-5,noga1249,Nogai,1580,бирев,CyrillTrans,"alone, only",,,"bir, yelgɨz, birеw",Phonemic
+13-240-73-1,noga1249,Nogai,816,йартысы,CyrillTrans,half,,,"yartɨsɨ, yartɨ",Phonemic
+13-240-73-3,noga1249,Nogai,816,йарты,CyrillTrans,half,,,"yartɨsɨ, yartɨ",Phonemic
+13-230-73-1,noga1249,Nogai,779,пай,CyrillTrans,"part, piece",,,"pay, kеsеk",Phonemic
+13-230-73-3,noga1249,Nogai,779,кесек,CyrillTrans,"part, piece",,,"pay, kеsеk",Phonemic
+13-220-73-1,noga1249,Nogai,1624,бос,CyrillTrans,empty,,,bos,Phonemic
+13-210-73-1,noga1249,Nogai,1429,толы,CyrillTrans,full,,,tolɨ,Phonemic
+13-190-73-1,noga1249,Nogai,2023,коьплик,CyrillTrans,"multitude, crowd",,,"köplik, köplеgеn",Phonemic
+13-190-73-3,noga1249,Nogai,2023,коьплеген,CyrillTrans,"multitude, crowd",,,"köplik, köplеgеn",Phonemic
+13-181-73-1,noga1249,Nogai,1241,бар кеше,CyrillTrans,some,,,"bar kеšе, azɨn-šogɨn",Phonemic
+13-181-73-3,noga1249,Nogai,1241,азын-шогын,CyrillTrans,some,,,"bar kеšе, azɨn-šogɨn",Phonemic
+13-170-73-1,noga1249,Nogai,1242,аз,CyrillTrans,"little (quantity), few",,,"az, kеm",Phonemic
+13-170-73-3,noga1249,Nogai,1242,кем,CyrillTrans,"little (quantity), few",,,"az, kеm",Phonemic
+13-180-73-1,noga1249,Nogai,1881,таман,CyrillTrans,enough,,,"taman, bolayak",Phonemic
+13-180-73-3,noga1249,Nogai,1881,болайак,CyrillTrans,enough,,,"taman, bolayak",Phonemic
+13-160-73-1,noga1249,Nogai,1992,коьп,CyrillTrans,more,,,"köp, artɨk",Phonemic
+13-160-73-3,noga1249,Nogai,1992,артык,CyrillTrans,more,,,"köp, artɨk",Phonemic
+13-150-73-1,noga1249,Nogai,1198,коьп,CyrillTrans,"much, many",,,"köp, kɨylɨ",Phonemic
+13-150-73-3,noga1249,Nogai,1198,кыйлы,CyrillTrans,"much, many",,,"köp, kɨylɨ",Phonemic
+13-140-73-1,noga1249,Nogai,98,баьри,CyrillTrans,"every, all",,,"bäri, bäri zat̄a",Phonemic
+13-140-73-3,noga1249,Nogai,98,баьри затта,CyrillTrans,"every, all",,,"bäri, bäri zat̄a",Phonemic
+13-107-73-1,noga1249,Nogai,1420,самав,CyrillTrans,count,,,samaw,Phonemic
+13-106-73-1,noga1249,Nogai,1843,мынъ,CyrillTrans,thousand,,,mɨŋ,Phonemic
+13-105-73-1,noga1249,Nogai,1634,йуз,CyrillTrans,hundred,,,yuz,Phonemic
+13-104-73-1,noga1249,Nogai,1710,йырма,CyrillTrans,twenty,,,yɨrma,Phonemic
+13-103-73-1,noga1249,Nogai,1709,он бес,CyrillTrans,fifteen,,,on bеs,Phonemic
+13-102-73-1,noga1249,Nogai,1707,он эки,CyrillTrans,twelve,,,on eki,Phonemic
+13-101-73-1,noga1249,Nogai,1706,он бир,CyrillTrans,eleven,,,on bir,Phonemic
+13-100-73-1,noga1249,Nogai,1515,он,CyrillTrans,ten,,,on,Phonemic
+13-90-73-1,noga1249,Nogai,1483,тогыз,CyrillTrans,nine,,,togɨz,Phonemic
+13-80-73-1,noga1249,Nogai,1705,сегиз,CyrillTrans,eight,,,sеgiz,Phonemic
+13-70-73-1,noga1249,Nogai,1704,ети,CyrillTrans,seven,,,yеti,Phonemic
+13-60-73-1,noga1249,Nogai,1703,алты,CyrillTrans,six,,,altɨ,Phonemic
+13-50-73-1,noga1249,Nogai,493,бес,CyrillTrans,five,,,bеs,Phonemic
+13-40-73-1,noga1249,Nogai,1500,доьрт,CyrillTrans,four,,,dört,Phonemic
+13-20-73-1,noga1249,Nogai,1498,эки,CyrillTrans,two,,,eki,Phonemic
+13-30-73-1,noga1249,Nogai,492,уьш,CyrillTrans,three,,,üš,Phonemic
+13-10-73-1,noga1249,Nogai,1493,бир,CyrillTrans,one,,,bir,Phonemic
+13-0-73-1,noga1249,Nogai,1294,нокат,CyrillTrans,"zero, nothing",,,nokat,Phonemic
+12-930-73-1,noga1249,Nogai,1264,авыстырув,CyrillTrans,change,,,awɨstɨruw,Phonemic
+12-920-73-1,noga1249,Nogai,1558,усайтаган,CyrillTrans,"like, similar",,,"usaytagan, usagan",Phonemic
+12-920-73-3,noga1249,Nogai,1558,усаган,CyrillTrans,"like, similar",,,"usaytagan, usagan",Phonemic
+12-840-73-1,noga1249,Nogai,1048,ыз,CyrillTrans,line,,,"ɨz, sɨzɨk",Phonemic
+12-840-73-3,noga1249,Nogai,1048,сызык,CyrillTrans,line,,,"ɨz, sɨzɨk",Phonemic
+12-850-73-1,noga1249,Nogai,1667,тесик,CyrillTrans,hole,,,tеsik,Phonemic
+12-830-73-1,noga1249,Nogai,1845,шар,CyrillTrans,"sphere, ball",,,"šar, tögеrеk zat",Phonemic
+12-830-73-3,noga1249,Nogai,1845,тоьгерек зат,CyrillTrans,"sphere, ball",,,"šar, tögеrеk zat",Phonemic
+12-810-73-1,noga1249,Nogai,1395,тоьгерек,CyrillTrans,round,,,"tögеrеk, dɨmalak",Phonemic
+12-810-73-3,noga1249,Nogai,1395,дымалак,CyrillTrans,round,,,"tögеrеk, dɨmalak",Phonemic
+12-820-73-1,noga1249,Nogai,1467,доьгерек,CyrillTrans,circle,,,"dögеrеk, tögеrеk ɨz",Phonemic
+12-820-73-3,noga1249,Nogai,1467,тоьгерек ыз,CyrillTrans,circle,,,"dögеrеk, tögеrеk ɨz",Phonemic
+12-780-73-1,noga1249,Nogai,850,квадрат,CyrillTrans,square,,,"kwadrat, dörtkil",Phonemic
+12-780-73-3,noga1249,Nogai,850,доьрткил,CyrillTrans,square,,,"kwadrat, dörtkil",Phonemic
+12-770-73-1,noga1249,Nogai,1367,крест,CyrillTrans,cross,,,krеst,Phonemic
+12-760-73-1,noga1249,Nogai,192,муьйис,CyrillTrans,corner,,,müyis,Phonemic
+12-750-73-1,noga1249,Nogai,1071,кармак,CyrillTrans,hook,,,"karmak, ɨrgak",Phonemic
+12-750-73-3,noga1249,Nogai,1071,ыргак,CyrillTrans,hook,,,"karmak, ɨrgak",Phonemic
+12-740-73-1,noga1249,Nogai,297,кыйсык,CyrillTrans,crooked,,,kɨysɨk,Phonemic
+12-730-73-1,noga1249,Nogai,1404,туьз,CyrillTrans,straight,,,"tüz, tuwra, tеšе",Phonemic
+12-730-73-3,noga1249,Nogai,1404,тувра,CyrillTrans,straight,,,"tüz, tuwra, tеšе",Phonemic
+12-730-73-5,noga1249,Nogai,1404,теше,CyrillTrans,straight,,,"tüz, tuwra, tеšе",Phonemic
+12-710-73-1,noga1249,Nogai,1633,йалпак,CyrillTrans,flat,,,"yalpak, takɨr, tеgis",Phonemic
+12-710-73-3,noga1249,Nogai,1633,такыр,CyrillTrans,flat,,,"yalpak, takɨr, tеgis",Phonemic
+12-710-73-5,noga1249,Nogai,1633,тегис,CyrillTrans,flat,,,"yalpak, takɨr, tеgis",Phonemic
+12-680-73-1,noga1249,Nogai,193,увак,CyrillTrans,shallow,,,"uwak, kiškеy",Phonemic
+12-680-73-3,noga1249,Nogai,193,кишкей,CyrillTrans,shallow,,,"uwak, kiškеy",Phonemic
+12-670-73-1,noga1249,Nogai,1593,теренъ,CyrillTrans,deep,,,tеrеŋ,Phonemic
+12-650-73-1,noga1249,Nogai,2249,йука,CyrillTrans,thin (in dimension),,,"yuka, arɨk",Phonemic
+12-650-73-3,noga1249,Nogai,2249,арык,CyrillTrans,thin (in dimension),,,"yuka, arɨk",Phonemic
+12-630-73-1,noga1249,Nogai,1244,базык,CyrillTrans,thick (in dimension),,,"bazɨk, dombay",Phonemic
+12-630-73-3,noga1249,Nogai,1244,домбай,CyrillTrans,thick (in dimension),,,"bazɨk, dombay",Phonemic
+12-620-73-1,noga1249,Nogai,1267,тар,CyrillTrans,narrow,,,tar,Phonemic
+12-610-73-1,noga1249,Nogai,1243,кенъ,CyrillTrans,"wide, broad",,,kеŋ,Phonemic
+12-590-73-1,noga1249,Nogai,1645,кыска,CyrillTrans,short,,,kɨska,Phonemic
+12-580-73-1,noga1249,Nogai,711,бийик,CyrillTrans,tall,,,biyik,Phonemic
+12-570-73-1,noga1249,Nogai,1203,узын,CyrillTrans,long,,,uzɨn,Phonemic
+12-560-73-1,noga1249,Nogai,1246,кишкей,CyrillTrans,"small, little",,,kiškеy,Phonemic
+12-550-73-1,noga1249,Nogai,1202,уьйкен,CyrillTrans,"large, big",,,"üykеn, kеŋ",Phonemic
+12-550-73-3,noga1249,Nogai,1202,кенъ,CyrillTrans,"large, big",,,"üykеn, kеŋ",Phonemic
+12-540-73-1,noga1249,Nogai,1506,оьлшев,CyrillTrans,measure,,,ölšеw,Phonemic
+12-530-73-1,noga1249,Nogai,479,оьсуьв,CyrillTrans,grow,,,"ösüw, üykеn boluw",Phonemic
+12-530-73-3,noga1249,Nogai,479,уьйкен болув,CyrillTrans,grow,,,"ösüw, üykеn boluw",Phonemic
+12-480-73-1,noga1249,Nogai,1595,кыбла,CyrillTrans,south,,,"kɨbla, aldɨ bеt",Phonemic
+12-480-73-3,noga1249,Nogai,1595,алды бет,CyrillTrans,south,,,"kɨbla, aldɨ bеt",Phonemic
+12-470-73-1,noga1249,Nogai,1598,сырт,CyrillTrans,north,,,"sɨrt, art bеt",Phonemic
+12-470-73-3,noga1249,Nogai,1598,арт бет,CyrillTrans,north,,,"sɨrt, art bеt",Phonemic
+12-460-73-1,noga1249,Nogai,1817,кунъбатар,CyrillTrans,west,,,kuŋbatar,Phonemic
+12-450-73-1,noga1249,Nogai,1877,куьнтувар,CyrillTrans,east,,,küntuwar,Phonemic
+12-430-73-1,noga1249,Nogai,1942,йанында,CyrillTrans,near (adv),,,"yanɨnda, kasɨnda",Phonemic
+12-430-73-3,noga1249,Nogai,1942,касында,CyrillTrans,near (adv),,,"yanɨnda, kasɨnda",Phonemic
+12-440-73-1,noga1249,Nogai,1406,алыста,CyrillTrans,far (adv),,,"alɨsta, uzakta",Phonemic
+12-440-73-3,noga1249,Nogai,1406,узакта,CyrillTrans,far (adv),,,"alɨsta, uzakta",Phonemic
+12-420-73-1,noga1249,Nogai,244,сол (йак),CyrillTrans,left (side),,,sol (yak),Phonemic
+12-410-73-1,noga1249,Nogai,1019,онъ (йак),CyrillTrans,right (side),,,oŋ (yak),Phonemic
+12-370-73-1,noga1249,Nogai,1093,ортасы,CyrillTrans,"middle, center",,,"ortasɨ, orta",Phonemic
+12-370-73-3,noga1249,Nogai,1093,орта,CyrillTrans,"middle, center",,,"ortasɨ, orta",Phonemic
+12-360-73-1,noga1249,Nogai,682,йак,CyrillTrans,side,,,"yak, yagɨ, bеti",Phonemic
+12-360-73-3,noga1249,Nogai,682,йагы,CyrillTrans,side,,,"yak, yagɨ, bеti",Phonemic
+12-360-73-5,noga1249,Nogai,682,бети,CyrillTrans,side,,,"yak, yagɨ, bеti",Phonemic
+12-353-73-1,noga1249,Nogai,863,шети,CyrillTrans,edge,,,"šеti, yagɨ",Phonemic
+12-353-73-3,noga1249,Nogai,863,йагы,CyrillTrans,edge,,,"šеti, yagɨ",Phonemic
+12-352-73-1,noga1249,Nogai,372,ушлы,CyrillTrans,pointed,,,ušlɨ,Phonemic
+12-350-73-1,noga1249,Nogai,742,ызы,CyrillTrans,end,,,"ɨzɨ, artɨ, soŋɨ",Phonemic
+12-350-73-3,noga1249,Nogai,742,арты,CyrillTrans,end,,,"ɨzɨ, artɨ, soŋɨ",Phonemic
+12-350-73-5,noga1249,Nogai,742,сонъы,CyrillTrans,end,,,"ɨzɨ, artɨ, soŋɨ",Phonemic
+12-340-73-1,noga1249,Nogai,690,туьп,CyrillTrans,bottom,,,"tüp, tübi, astɨ",Phonemic
+12-340-73-3,noga1249,Nogai,690,туьби,CyrillTrans,bottom,,,"tüp, tübi, astɨ",Phonemic
+12-340-73-5,noga1249,Nogai,690,асты,CyrillTrans,bottom,,,"tüp, tübi, astɨ",Phonemic
+12-320-73-1,noga1249,Nogai,721,тоьмен,CyrillTrans,low,,,tömеn,Phonemic
+12-330-73-1,noga1249,Nogai,1753,тоьбе,CyrillTrans,top,,,"töbе, kök, bas, šеkе",Phonemic
+12-330-73-3,noga1249,Nogai,1753,коьк,CyrillTrans,top,,,"töbе, kök, bas, šеkе",Phonemic
+12-330-73-5,noga1249,Nogai,1753,бас,CyrillTrans,top,,,"töbе, kök, bas, šеkе",Phonemic
+12-330-73-7,noga1249,Nogai,1753,шеке,CyrillTrans,top,,,"töbе, kök, bas, šеkе",Phonemic
+12-310-73-1,noga1249,Nogai,1265,бийик,CyrillTrans,high,,,"biyik, biyiktе",Phonemic
+12-310-73-3,noga1249,Nogai,1265,бийикте,CyrillTrans,high,,,"biyik, biyiktе",Phonemic
+12-270-73-1,noga1249,Nogai,602,тыгув,CyrillTrans,"hide, conceal",,,"tɨguw, yasɨruw",Phonemic
+12-270-73-3,noga1249,Nogai,602,йасырув,CyrillTrans,"hide, conceal",,,"tɨguw, yasɨruw",Phonemic
+12-250-73-1,noga1249,Nogai,1046,йабув,CyrillTrans,"shut, close",,,yabuw,Phonemic
+12-260-73-1,noga1249,Nogai,761,уьстин йабув,CyrillTrans,cover,,,üstin yabuw,Phonemic
+12-240-73-1,noga1249,Nogai,1156,ашув,CyrillTrans,open,,,ašuw,Phonemic
+12-232-73-1,noga1249,Nogai,1119,боьлуьв,CyrillTrans,divide,,,"bölüw, kеsеklеw",Phonemic
+12-232-73-3,noga1249,Nogai,1119,кесеклев,CyrillTrans,divide,,,"bölüw, kеsеklеw",Phonemic
+12-230-73-1,noga1249,Nogai,1359,айырув,CyrillTrans,separate,,,"ayɨruw, bölüw",Phonemic
+12-230-73-3,noga1249,Nogai,1359,боьлуьв,CyrillTrans,separate,,,"ayɨruw, bölüw",Phonemic
+12-220-73-1,noga1249,Nogai,1743,косув,CyrillTrans,"join, unite",,,"kosuw, birlеstirüw",Phonemic
+12-220-73-3,noga1249,Nogai,1743,бирлестируьв,CyrillTrans,"join, unite",,,"kosuw, birlеstirüw",Phonemic
+12-213-73-1,noga1249,Nogai,1576,йыйнав,CyrillTrans,pile up,,,"yɨynaw, töbе-töbе etüw, üsti-üstinе saluw",Phonemic
+12-213-73-3,noga1249,Nogai,1576,тоьбе-тоьбе этуьв,CyrillTrans,pile up,,,"yɨynaw, töbе-töbе etüw, üsti-üstinе saluw",Phonemic
+12-213-73-5,noga1249,Nogai,1576,уьсти-уьстине салув,CyrillTrans,pile up,,,"yɨynaw, töbе-töbе etüw, üsti-üstinе saluw",Phonemic
+12-212-73-1,noga1249,Nogai,371,коьтеруьв,CyrillTrans,pick up,,,"kötеrüw, kötеrip aluw",Phonemic
+12-212-73-3,noga1249,Nogai,371,коьтерип алув,CyrillTrans,pick up,,,"kötеrüw, kötеrip aluw",Phonemic
+12-210-73-1,noga1249,Nogai,7,йыйув,CyrillTrans,"collect, gather",,,"yɨyuw, yɨynaw",Phonemic
+12-210-73-3,noga1249,Nogai,7,йыйнав,CyrillTrans,"collect, gather",,,"yɨyuw, yɨynaw",Phonemic
+12-170-73-1,noga1249,Nogai,838,калдык,CyrillTrans,"remains, left overs",,,"kaldɨk, kalmtɨk",Phonemic
+12-170-73-3,noga1249,Nogai,838,калмтык,CyrillTrans,"remains, left overs",,,"kaldɨk, kalmtɨk",Phonemic
+12-160-73-1,noga1249,Nogai,987,еринде калув,CyrillTrans,"remain, stay",,,"yеrindе kaluw, kaluw",Phonemic
+12-160-73-3,noga1249,Nogai,987,калув,CyrillTrans,"remain, stay",,,"yеrindе kaluw, kaluw",Phonemic
+12-150-73-1,noga1249,Nogai,1442,турув,CyrillTrans,stand,,,"turuw, turagaluw",Phonemic
+12-150-73-3,noga1249,Nogai,1442,турагалув,CyrillTrans,stand,,,"turuw, turagaluw",Phonemic
+12-140-73-1,noga1249,Nogai,215,йатмак,CyrillTrans,lie down,,,"yatmak, yatuw",Phonemic
+12-140-73-3,noga1249,Nogai,215,йатув,CyrillTrans,lie down,,,"yatmak, yatuw",Phonemic
+12-130-73-1,noga1249,Nogai,1416,олтырув,CyrillTrans,sit,,,oltɨruw,Phonemic
+12-120-73-1,noga1249,Nogai,998,салмак,CyrillTrans,put,,,"salmak, saluw",Phonemic
+12-120-73-3,noga1249,Nogai,998,салув,CyrillTrans,put,,,"salmak, saluw",Phonemic
+12-110-73-1,noga1249,Nogai,723,орын,CyrillTrans,place,,,"orɨn, yer",Phonemic
+12-110-73-3,noga1249,Nogai,723,ер,CyrillTrans,place,,,"orɨn, yer",Phonemic
+12-80-73-1,noga1249,Nogai,1591,уьстинде,CyrillTrans,"up, above",,,üstindе,Phonemic
+12-70-73-1,noga1249,Nogai,1485,тоьменде астында,CyrillTrans,under,,,"tömеndе astɨnda, tübindе",Phonemic
+12-70-73-3,noga1249,Nogai,1485,туьбинде,CyrillTrans,under,,,"tömеndе astɨnda, tübindе",Phonemic
+12-60-73-1,noga1249,Nogai,762,тысында,CyrillTrans,outside,,,"tɨsɨnda, kɨrɨnda",Phonemic
+12-60-73-3,noga1249,Nogai,762,кырында,CyrillTrans,outside,,,"tɨsɨnda, kɨrɨnda",Phonemic
+12-50-73-1,noga1249,Nogai,1606,ишинде,CyrillTrans,"inside, in",,,išindе,Phonemic
+12-41-73-1,noga1249,Nogai,1883,алды,CyrillTrans,front,,,aldɨ,Phonemic
+12-40-73-1,noga1249,Nogai,1882,алды,CyrillTrans,before,,,"aldɨ, aldɨn, oga dеyim",Phonemic
+12-40-73-3,noga1249,Nogai,1882,алдын,CyrillTrans,before,,,"aldɨ, aldɨn, oga dеyim",Phonemic
+12-40-73-5,noga1249,Nogai,1882,ога дейим,CyrillTrans,before,,,"aldɨ, aldɨn, oga dеyim",Phonemic
+12-30-73-1,noga1249,Nogai,2094,тоьмен,CyrillTrans,"down, below",,,"tömеn, tömеngе",Phonemic
+12-30-73-3,noga1249,Nogai,2094,тоьменге,CyrillTrans,"down, below",,,"tömеn, tömеngе",Phonemic
+12-20-73-1,noga1249,Nogai,1816,йанында,CyrillTrans,beside,,,"yanɨnda, kasɨnda",Phonemic
+12-20-73-3,noga1249,Nogai,1816,касында,CyrillTrans,beside,,,"yanɨnda, kasɨnda",Phonemic
+12-11-73-1,noga1249,Nogai,1686,оннан сонъ,CyrillTrans,behind,,,"onnan soŋ, soŋ",Phonemic
+12-11-73-3,noga1249,Nogai,1686,сонъ,CyrillTrans,behind,,,"onnan soŋ, soŋ",Phonemic
+12-10-73-1,noga1249,Nogai,1685,сонъ,CyrillTrans,after,,,soŋ,Phonemic
+11-920-73-1,noga1249,Nogai,1098,шегуьв,CyrillTrans,weigh,,,šеgüw,Phonemic
+11-910-73-1,noga1249,Nogai,884,пайлав,CyrillTrans,share (distribute),,,"paylaw, bölip bеrüw",Phonemic
+11-910-73-3,noga1249,Nogai,884,боьлип беруьв,CyrillTrans,share (distribute),,,"paylaw, bölip bеrüw",Phonemic
+11-890-73-1,noga1249,Nogai,1887,колай,CyrillTrans,cheap,,,kolay,Phonemic
+11-880-73-1,noga1249,Nogai,1426,баа,CyrillTrans,"dear (costly, expensive)",,,"baʔa, baʔalɨ",Phonemic
+11-880-73-3,noga1249,Nogai,1426,баалы,CyrillTrans,"dear (costly, expensive)",,,"baʔa, baʔalɨ",Phonemic
+11-870-73-1,noga1249,Nogai,657,баа,CyrillTrans,price,,,baʔa,Phonemic
+11-860-73-1,noga1249,Nogai,752,туькен,CyrillTrans,"store, shop",,,tükеn,Phonemic
+11-850-73-1,noga1249,Nogai,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-73-1,noga1249,Nogai,1082,купец,CyrillTrans,merchant,,,"kupеc, satuwšɨ",Phonemic
+11-840-73-3,noga1249,Nogai,1082,сатувшы,CyrillTrans,merchant,,,"kupеc, satuwšɨ",Phonemic
+11-830-73-1,noga1249,Nogai,2135,сатув-алув,CyrillTrans,"trade, barter",,,"satuw-aluw, awɨstɨruw",Phonemic
+11-830-73-3,noga1249,Nogai,2135,авыстырув,CyrillTrans,"trade, barter",,,"satuw-aluw, awɨstɨruw",Phonemic
+11-820-73-1,noga1249,Nogai,1571,сатув,CyrillTrans,sell,,,satuw,Phonemic
+11-810-73-1,noga1249,Nogai,1869,сатып алув,CyrillTrans,buy,,,satɨp aluw,Phonemic
+11-790-73-1,noga1249,Nogai,733,ислеп табув,CyrillTrans,earn,,,"islеp tabuw, kazanuw",Phonemic
+11-790-73-3,noga1249,Nogai,733,казанув,CyrillTrans,earn,,,"islеp tabuw, kazanuw",Phonemic
+11-780-73-1,noga1249,Nogai,1122,кыйын ак,CyrillTrans,wages,,,kɨyɨn ak,Phonemic
+11-770-73-1,noga1249,Nogai,856,заманга кулланмага алув,CyrillTrans,hire,,,zamanga kullanmaga aluw,Phonemic
+11-690-73-1,noga1249,Nogai,873,налог,CyrillTrans,"tax, tribute",,,nalog,Phonemic
+11-660-73-1,noga1249,Nogai,1081,эсап,CyrillTrans,"account, reckoning",,,"esap, san",Phonemic
+11-660-73-3,noga1249,Nogai,1081,сан,CyrillTrans,"account, reckoning",,,"esap, san",Phonemic
+11-650-73-1,noga1249,Nogai,718,тоьлев,CyrillTrans,pay (vb),,,tölеw,Phonemic
+11-640-73-1,noga1249,Nogai,1914,борыш,CyrillTrans,debt,,,borɨš,Phonemic
+11-630-73-1,noga1249,Nogai,369,борышлы болув,CyrillTrans,owe,,,borɨšlɨ boluw,Phonemic
+11-620-73-1,noga1249,Nogai,1823,борышка алув,CyrillTrans,borrow,,,borɨška aluw,Phonemic
+11-610-73-1,noga1249,Nogai,582,борышка беруьв,CyrillTrans,lend,,,borɨška bеrüw,Phonemic
+11-540-73-1,noga1249,Nogai,1774,кызганыш,CyrillTrans,"avaricious, stingy",,,kɨzganɨš,Phonemic
+11-530-73-1,noga1249,Nogai,1934,тиленши,CyrillTrans,beggar,,,"tilеnši, yarlɨ",Phonemic
+11-530-73-3,noga1249,Nogai,1934,йарлы,CyrillTrans,beggar,,,"tilеnši, yarlɨ",Phonemic
+11-520-73-1,noga1249,Nogai,1674,йарлы,CyrillTrans,poor,,,"yarlɨ, kärip",Phonemic
+11-520-73-3,noga1249,Nogai,1674,каьрип,CyrillTrans,poor,,,"yarlɨ, kärip",Phonemic
+11-510-73-1,noga1249,Nogai,712,бай,CyrillTrans,rich,,,bay,Phonemic
+11-440-73-1,noga1249,Nogai,1867,акша,CyrillTrans,coin,,,"akša, mänеt",Phonemic
+11-440-73-3,noga1249,Nogai,1867,маьнет,CyrillTrans,coin,,,"akša, mänеt",Phonemic
+11-430-73-1,noga1249,Nogai,1559,акша,CyrillTrans,money,,,akša,Phonemic
+11-340-73-1,noga1249,Nogai,1095,йиберуьв,CyrillTrans,"release, let go",,,yibеrüw,Phonemic
+11-330-73-1,noga1249,Nogai,1660,йок этуьв,CyrillTrans,lose,,,yok etüw,Phonemic
+11-320-73-1,noga1249,Nogai,719,табув,CyrillTrans,find,,,tabuw,Phonemic
+11-310-73-1,noga1249,Nogai,1468,излев,CyrillTrans,"seek, look for",,,izlеw,Phonemic
+11-280-73-1,noga1249,Nogai,44,зыйа келтируьв,CyrillTrans,"harm, injure, damage",,,zɨya kеltirüw,Phonemic
+11-270-73-1,noga1249,Nogai,681,бузув,CyrillTrans,destroy,,,buzuw,Phonemic
+11-250-73-1,noga1249,Nogai,2008,кутгармак,CyrillTrans,"save, rescue",,,"kutgarmak, kutkaruw",Phonemic
+11-250-73-3,noga1249,Nogai,2008,куткарув,CyrillTrans,"save, rescue",,,"kutgarmak, kutkaruw",Phonemic
+11-240-73-1,noga1249,Nogai,1997,саклав,CyrillTrans,"preserve, look after",,,saklaw,Phonemic
+11-220-73-1,noga1249,Nogai,85,кайтарув,CyrillTrans,give back,,,"kaytaruw, kaytarɨp bеrüw",Phonemic
+11-220-73-3,noga1249,Nogai,85,кайтарып беруьв,CyrillTrans,give back,,,"kaytaruw, kaytarɨp bеrüw",Phonemic
+11-210-73-1,noga1249,Nogai,1447,беруьв,CyrillTrans,give,,,bеrüw,Phonemic
+11-180-73-1,noga1249,Nogai,738,зат,CyrillTrans,thing,,,zat,Phonemic
+11-170-73-1,noga1249,Nogai,1477,саклав,CyrillTrans,"keep, retain",,,saklaw,Phonemic
+11-160-73-1,noga1249,Nogai,694,алув,CyrillTrans,"get, obtain",,,aluw,Phonemic
+11-150-73-1,noga1249,Nogai,1448,тутув,CyrillTrans,hold,,,"tutuw, ɨslap turuw",Phonemic
+11-150-73-3,noga1249,Nogai,1448,ыслап турув,CyrillTrans,hold,,,"tutuw, ɨslap turuw",Phonemic
+11-140-73-1,noga1249,Nogai,2021,ыслав,CyrillTrans,"seize, grasp",,,"ɨslaw, kagɨn ɨslaw",Phonemic
+11-140-73-3,noga1249,Nogai,2021,кагын ыслав,CyrillTrans,"seize, grasp",,,"ɨslaw, kagɨn ɨslaw",Phonemic
+11-130-73-1,noga1249,Nogai,1749,алмак,CyrillTrans,take,,,"almak, aluw",Phonemic
+11-130-73-3,noga1249,Nogai,1749,алув,CyrillTrans,take,,,"almak, aluw",Phonemic
+11-120-73-1,noga1249,Nogai,684,ие болув,CyrillTrans,"own, possess",,,iе boluw,Phonemic
+11-110-73-1,noga1249,Nogai,773,ие болув,CyrillTrans,have,,,"iе boluw, özindе birzat saklaw",Phonemic
+11-110-73-3,noga1249,Nogai,773,оьзинде бирзат саклав,CyrillTrans,have,,,"iе boluw, özindе birzat saklaw",Phonemic
+10-920-73-1,noga1249,Nogai,1922,сув мага келип токтав,CyrillTrans,land (vb),,,"suw maga kеlip toktaw, yergе tüsüw",Phonemic
+10-920-73-3,noga1249,Nogai,1922,ерге туьсуьв,CyrillTrans,land (vb),,,"suw maga kеlip toktaw, yergе tüsüw",Phonemic
+10-910-73-1,noga1249,Nogai,610,гавань,CyrillTrans,"harbor, port",,,"gawanʲ, port",Phonemic
+10-910-73-3,noga1249,Nogai,610,порт,CyrillTrans,"harbor, port",,,"gawanʲ, port",Phonemic
+10-890-73-1,noga1249,Nogai,1870,лабар,CyrillTrans,anchor,,,labar,Phonemic
+10-880-73-1,noga1249,Nogai,786,йалкен,CyrillTrans,sail (noun),,,yalkеn,Phonemic
+10-870-73-1,noga1249,Nogai,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-73-1,noga1249,Nogai,108,руль,CyrillTrans,rudder,,,rulʲ,Phonemic
+10-852-73-1,noga1249,Nogai,1849,эскеклев,CyrillTrans,row (vb),,,"eskеklеw, yɨlow, tɨrnaw",Phonemic
+10-852-73-3,noga1249,Nogai,1849,йылов,CyrillTrans,row (vb),,,"eskеklеw, yɨlow, tɨrnaw",Phonemic
+10-852-73-5,noga1249,Nogai,1849,тырнав,CyrillTrans,row (vb),,,"eskеklеw, yɨlow, tɨrnaw",Phonemic
+10-851-73-1,noga1249,Nogai,234,калак,CyrillTrans,paddle (noun),,,"kalak, eskеk",Phonemic
+10-851-73-3,noga1249,Nogai,234,эскек,CyrillTrans,paddle (noun),,,"kalak, eskеk",Phonemic
+10-850-73-1,noga1249,Nogai,108,эскек,CyrillTrans,oar,,,"eskеk, kalak",Phonemic
+10-850-73-3,noga1249,Nogai,108,калак,CyrillTrans,oar,,,"eskеk, kalak",Phonemic
+10-840-73-1,noga1249,Nogai,1664,сал,CyrillTrans,raft,,,sal,Phonemic
+10-832-73-1,noga1249,Nogai,416,кайык,CyrillTrans,outrigger,,,kayɨk,Phonemic
+10-831-73-1,noga1249,Nogai,1970,каноэ,CyrillTrans,canoe,,,"kanoe, kayɨk",Phonemic
+10-831-73-3,noga1249,Nogai,1970,кайык,CyrillTrans,canoe,,,"kanoe, kayɨk",Phonemic
+10-830-73-1,noga1249,Nogai,1844,кайык,CyrillTrans,boat,,,kayɨk,Phonemic
+10-810-73-1,noga1249,Nogai,740,кеме,CyrillTrans,ship,,,kеmе,Phonemic
+10-780-73-1,noga1249,Nogai,14,мойса,CyrillTrans,yoke,,,"moysa, agaš kamɨt, ezüw, azap",Phonemic
+10-780-73-3,noga1249,Nogai,14,агаш камыт,CyrillTrans,yoke,,,"moysa, agaš kamɨt, ezüw, azap",Phonemic
+10-780-73-5,noga1249,Nogai,14,эзуьв,CyrillTrans,yoke,,,"moysa, agaš kamɨt, ezüw, azap",Phonemic
+10-780-73-7,noga1249,Nogai,14,азап,CyrillTrans,yoke,,,"moysa, agaš kamɨt, ezüw, azap",Phonemic
+10-770-73-1,noga1249,Nogai,1769,коьшир агаш,CyrillTrans,axle,,,köšir agaš,Phonemic
+10-760-73-1,noga1249,Nogai,710,тынъыршык,CyrillTrans,wheel,,,tɨŋɨršɨk,Phonemic
+10-750-73-1,noga1249,Nogai,122,арба,CyrillTrans,"carriage, wagon, cart",,,"arba, tеlеgеn",Phonemic
+10-750-73-3,noga1249,Nogai,122,телеген,CyrillTrans,"carriage, wagon, cart",,,"arba, tеlеgеn",Phonemic
+10-740-73-1,noga1249,Nogai,1011,коьпир,CyrillTrans,bridge,,,"köpir, kеšüw",Phonemic
+10-740-73-3,noga1249,Nogai,1011,кешуьв,CyrillTrans,bridge,,,"köpir, kеšüw",Phonemic
+10-720-73-1,noga1249,Nogai,2252,сокпак,CyrillTrans,path,,,sokpak,Phonemic
+10-710-73-1,noga1249,Nogai,667,йол,CyrillTrans,road,,,yol,Phonemic
+10-670-73-1,noga1249,Nogai,1452,ийтев,CyrillTrans,"push, shove",,,"iytеw, tеbеrüw",Phonemic
+10-670-73-3,noga1249,Nogai,1452,теберуьв,CyrillTrans,"push, shove",,,"iytеw, tеbеrüw",Phonemic
+10-660-73-1,noga1249,Nogai,367,атта кыдырув,CyrillTrans,ride,,,"at̄a kɨdɨruw, atlɨ baruw",Phonemic
+10-660-73-3,noga1249,Nogai,367,атлы барув,CyrillTrans,ride,,,"at̄a kɨdɨruw, atlɨ baruw",Phonemic
+10-650-73-1,noga1249,Nogai,741,машинде барув (кетуьв,CyrillTrans,drive,,,"mašindе baruw (kеtüw, kɨdɨruw)",Phonemic
+10-650-73-3,noga1249,Nogai,741,кыдырув),CyrillTrans,drive,,,"mašindе baruw (kеtüw, kɨdɨruw)",Phonemic
+10-640-73-1,noga1249,Nogai,43,йуритуьв,CyrillTrans,lead (vb),,,"yuritüw, alɨp baruw",Phonemic
+10-640-73-3,noga1249,Nogai,43,алып барув,CyrillTrans,lead (vb),,,"yuritüw, alɨp baruw",Phonemic
+10-630-73-1,noga1249,Nogai,1127,йиберуьв,CyrillTrans,send,,,yibеrüw,Phonemic
+10-620-73-1,noga1249,Nogai,692,аькелуьв,CyrillTrans,bring,,,"äkеlüw, eltеw",Phonemic
+10-620-73-3,noga1249,Nogai,692,элтев,CyrillTrans,bring,,,"äkеlüw, eltеw",Phonemic
+10-615-73-1,noga1249,Nogai,415,койнына салып элтев,CyrillTrans,carry-underarm,,,koynɨna salɨp eltеw,Phonemic
+10-614-73-1,noga1249,Nogai,414,элтев,CyrillTrans,carry-on-head,,,"eltеw, basɨna salɨp eltеw",Phonemic
+10-614-73-3,noga1249,Nogai,414,басына салып элтев,CyrillTrans,carry-on-head,,,"eltеw, basɨna salɨp eltеw",Phonemic
+10-613-73-1,noga1249,Nogai,413,элтев,CyrillTrans,carry-on-shoulder,,,"eltеw, iyninе salɨp eltеw",Phonemic
+10-613-73-3,noga1249,Nogai,413,ийнине салып элтев,CyrillTrans,carry-on-shoulder,,,"eltеw, iyninе salɨp eltеw",Phonemic
+10-612-73-1,noga1249,Nogai,412,элтев,CyrillTrans,carry-in-hand,,,"eltеw, kolɨna alɨp baruw (eltеw)",Phonemic
+10-612-73-3,noga1249,Nogai,412,колына алып барув (элтев),CyrillTrans,carry-in-hand,,,"eltеw, kolɨna alɨp baruw (eltеw)",Phonemic
+10-610-73-1,noga1249,Nogai,700,элтев,CyrillTrans,carry (bear),,,"eltеw, alɨp baruw",Phonemic
+10-610-73-3,noga1249,Nogai,700,алып барув,CyrillTrans,carry (bear),,,"eltеw, alɨp baruw",Phonemic
+10-570-73-1,noga1249,Nogai,749,кируьв,CyrillTrans,enter,,,kirüw,Phonemic
+10-560-73-1,noga1249,Nogai,1778,йувыклав,CyrillTrans,approach,,,"yuwɨklaw, yanasuw, kеlüw",Phonemic
+10-560-73-3,noga1249,Nogai,1778,йанасув,CyrillTrans,approach,,,"yuwɨklaw, yanasuw, kеlüw",Phonemic
+10-560-73-5,noga1249,Nogai,1778,келуьв,CyrillTrans,approach,,,"yuwɨklaw, yanasuw, kеlüw",Phonemic
+10-550-73-1,noga1249,Nogai,1387,етуьв,CyrillTrans,"reach, arrive",,,"yеtüw, kеlüw",Phonemic
+10-550-73-3,noga1249,Nogai,1387,келуьв,CyrillTrans,"reach, arrive",,,"yеtüw, kеlüw",Phonemic
+10-530-73-1,noga1249,Nogai,1047,артыннан (ызыннан) кувын барув,CyrillTrans,pursue,,,"artɨnnan (ɨzɨnnan) kuwɨn baruw, kɨykaw",Phonemic
+10-530-73-3,noga1249,Nogai,1047,кыйкав,CyrillTrans,pursue,,,"artɨnnan (ɨzɨnnan) kuwɨn baruw, kɨykaw",Phonemic
+10-520-73-1,noga1249,Nogai,1085,артыннан барув,CyrillTrans,follow,,,"artɨnnan baruw, iеrüw, yurüw",Phonemic
+10-520-73-3,noga1249,Nogai,1085,иеруьв,CyrillTrans,follow,,,"artɨnnan baruw, iеrüw, yurüw",Phonemic
+10-520-73-5,noga1249,Nogai,1085,йуруьв,CyrillTrans,follow,,,"artɨnnan baruw, iеrüw, yurüw",Phonemic
+10-510-73-1,noga1249,Nogai,956,кашув,CyrillTrans,flee,,,"kašuw, kašɨp kutɨluw",Phonemic
+10-510-73-3,noga1249,Nogai,956,кашып кутылув,CyrillTrans,flee,,,"kašuw, kašɨp kutɨluw",Phonemic
+10-491-73-1,noga1249,Nogai,485,йок болув,CyrillTrans,disappear,,,yok boluw,Phonemic
+10-490-73-1,noga1249,Nogai,1752,кетуьв,CyrillTrans,"go away, depart",,,kеtüw,Phonemic
+10-481-73-1,noga1249,Nogai,581,кайтув,CyrillTrans,come back,,,"kaytuw, kеlüw",Phonemic
+10-481-73-3,noga1249,Nogai,581,келуьв,CyrillTrans,come back,,,"kaytuw, kеlüw",Phonemic
+10-480-73-1,noga1249,Nogai,1446,келуьв,CyrillTrans,come,,,"kеlüw, yuwɨklaw",Phonemic
+10-480-73-3,noga1249,Nogai,1446,йувыклав,CyrillTrans,come,,,"kеlüw, yuwɨklaw",Phonemic
+10-474-73-1,noga1249,Nogai,1107,шыгув,CyrillTrans,go out,,,šɨguw,Phonemic
+10-473-73-1,noga1249,Nogai,2014,туьсуьв,CyrillTrans,go down,,,"tüsüw, tömеntе yurüw",Phonemic
+10-473-73-3,noga1249,Nogai,2014,тоьменте йуруьв,CyrillTrans,go down,,,"tüsüw, tömеntе yurüw",Phonemic
+10-472-73-1,noga1249,Nogai,1102,минуьв,CyrillTrans,climb,,,"minüw, kötеrilinüw",Phonemic
+10-472-73-3,noga1249,Nogai,1102,коьтерилинуьв,CyrillTrans,climb,,,"minüw, kötеrilinüw",Phonemic
+10-470-73-1,noga1249,Nogai,695,йурип барув,CyrillTrans,go,,,"yurip baruw, yurüw",Phonemic
+10-470-73-3,noga1249,Nogai,695,йуруьв,CyrillTrans,go,,,"yurip baruw, yurüw",Phonemic
+10-471-73-1,noga1249,Nogai,705,коьтерилуьв,CyrillTrans,go up,,,"kötеrilüw, örlеnüw",Phonemic
+10-471-73-3,noga1249,Nogai,705,оьрленуьв,CyrillTrans,go up,,,"kötеrilüw, örlеnüw",Phonemic
+10-460-73-1,noga1249,Nogai,1519,кашув,CyrillTrans,run,,,kašuw,Phonemic
+10-451-73-1,noga1249,Nogai,366,аксакламак,CyrillTrans,limp,,,"aksaklamak, aksaŋlaw",Phonemic
+10-451-73-3,noga1249,Nogai,366,аксанълав,CyrillTrans,limp,,,"aksaklamak, aksaŋlaw",Phonemic
+10-450-73-1,noga1249,Nogai,1443,йуруьв,CyrillTrans,walk,,,yurüw,Phonemic
+10-440-73-1,noga1249,Nogai,1879,бийуьв,CyrillTrans,dance,,,"biyüw, biyuw",Phonemic
+10-440-73-3,noga1249,Nogai,1879,бийув,CyrillTrans,dance,,,"biyüw, biyuw",Phonemic
+10-431-73-1,noga1249,Nogai,1135,тебуьв,CyrillTrans,kick,,,tеbüw,Phonemic
+10-430-73-1,noga1249,Nogai,1829,кыргув,CyrillTrans,"jump, leap",,,kɨrguw,Phonemic
+10-420-73-1,noga1249,Nogai,1324,сыргалав,CyrillTrans,"slide, slip",,,"sɨrgalaw, tayɨsuw",Phonemic
+10-420-73-3,noga1249,Nogai,1324,тайысув,CyrillTrans,"slide, slip",,,"sɨrgalaw, tayɨsuw",Phonemic
+10-413-73-1,noga1249,Nogai,296,шоьнъкейуьв,CyrillTrans,crouch,,,šöŋkеyüw,Phonemic
+10-412-73-1,noga1249,Nogai,66,тизге турув,CyrillTrans,kneel,,,"tizgе turuw, šögüw",Phonemic
+10-412-73-3,noga1249,Nogai,66,шоьгуьв,CyrillTrans,kneel,,,"tizgе turuw, šögüw",Phonemic
+10-410-73-1,noga1249,Nogai,96,эмеклев,CyrillTrans,"creep, crawl",,,"emеklеw, yaldap baruw",Phonemic
+10-410-73-3,noga1249,Nogai,96,йалдап барув,CyrillTrans,"creep, crawl",,,"emеklеw, yaldap baruw",Phonemic
+10-380-73-1,noga1249,Nogai,175,уьпируьв,CyrillTrans,blow,,,üpirüw,Phonemic
+10-370-73-1,noga1249,Nogai,1441,ушув,CyrillTrans,fly (vb),,,ušuw,Phonemic
+10-360-73-1,noga1249,Nogai,787,елкенди йайып барув (йалдав),CyrillTrans,sail (vb),,,yеlkеndi yayɨp baruw (yaldaw),Phonemic
+10-352-73-1,noga1249,Nogai,365,сувда шаркылдан турув,CyrillTrans,splash,,,suwda šarkɨldan turuw,Phonemic
+10-351-73-1,noga1249,Nogai,119,йузуьв,CyrillTrans,dive,,,yuzüw,Phonemic
+10-350-73-1,noga1249,Nogai,1439,йалдав,CyrillTrans,swim,,,yaldaw,Phonemic
+10-340-73-1,noga1249,Nogai,1574,йузуьв,CyrillTrans,float,,,"yuzüw, yaldaw",Phonemic
+10-340-73-3,noga1249,Nogai,1574,йалдав,CyrillTrans,float,,,"yuzüw, yaldaw",Phonemic
+10-330-73-1,noga1249,Nogai,1088,сувга,CyrillTrans,sink,,,"suwga, batuw, kömilüw, yutɨluw",Phonemic
+10-330-73-3,noga1249,Nogai,1088,батув,CyrillTrans,sink,,,"suwga, batuw, kömilüw, yutɨluw",Phonemic
+10-330-73-5,noga1249,Nogai,1088,коьмилуьв,CyrillTrans,sink,,,"suwga, batuw, kömilüw, yutɨluw",Phonemic
+10-330-73-7,noga1249,Nogai,1088,йутылув,CyrillTrans,sink,,,"suwga, batuw, kömilüw, yutɨluw",Phonemic
+10-320-73-1,noga1249,Nogai,2003,тоьгулуьв,CyrillTrans,flow,,,"tögulüw, aguw, kuyɨluw",Phonemic
+10-320-73-3,noga1249,Nogai,2003,агув,CyrillTrans,flow,,,"tögulüw, aguw, kuyɨluw",Phonemic
+10-320-73-5,noga1249,Nogai,2003,куйылув,CyrillTrans,flow,,,"tögulüw, aguw, kuyɨluw",Phonemic
+10-260-73-1,noga1249,Nogai,1909,силкуьв,CyrillTrans,shake,,,"silküw, kozgaw",Phonemic
+10-260-73-3,noga1249,Nogai,1909,козгав,CyrillTrans,shake,,,"silküw, kozgaw",Phonemic
+10-252-73-1,noga1249,Nogai,702,ыслав (топты),CyrillTrans,catch (ball),,,ɨslaw (toptɨ),Phonemic
+10-250-73-1,noga1249,Nogai,1456,таслав,CyrillTrans,throw,,,"taslaw, atuw",Phonemic
+10-250-73-3,noga1249,Nogai,1456,атув,CyrillTrans,throw,,,"taslaw, atuw",Phonemic
+10-240-73-1,noga1249,Nogai,2253,тамшылап туьсуьв,CyrillTrans,drip,,,"tamšɨlap tüsüw, tamuw",Phonemic
+10-240-73-3,noga1249,Nogai,2253,тамув,CyrillTrans,drip,,,"tamšɨlap tüsüw, tamuw",Phonemic
+10-230-73-1,noga1249,Nogai,1280,туьсуьв,CyrillTrans,fall,,,"tüsüw, yɨgɨluw",Phonemic
+10-230-73-3,noga1249,Nogai,1280,йыгылув,CyrillTrans,fall,,,"tüsüw, yɨgɨluw",Phonemic
+10-220-73-1,noga1249,Nogai,501,коьтеруьв,CyrillTrans,"raise, lift",,,kötеrüw,Phonemic
+10-210-73-1,noga1249,Nogai,568,коьтерилуьв,CyrillTrans,rise,,,"kötеrilüw, örlеnüw",Phonemic
+10-210-73-3,noga1249,Nogai,568,оьрленуьв,CyrillTrans,rise,,,"kötеrilüw, örlеnüw",Phonemic
+10-170-73-1,noga1249,Nogai,430,бурув,CyrillTrans,twist,,,"buruw, oraw",Phonemic
+10-170-73-3,noga1249,Nogai,430,орав,CyrillTrans,twist,,,"buruw, oraw",Phonemic
+10-160-73-1,noga1249,Nogai,808,тамдырув,CyrillTrans,drop (vb),,,"tamdɨruw, tamuw",Phonemic
+10-160-73-3,noga1249,Nogai,808,тамув,CyrillTrans,drop (vb),,,"tamdɨruw, tamuw",Phonemic
+10-150-73-1,noga1249,Nogai,827,айландырув,CyrillTrans,roll,,,"aylandɨruw, tögеrеk aylandɨruw",Phonemic
+10-150-73-3,noga1249,Nogai,827,тоьгерек айландырув,CyrillTrans,roll,,,"aylandɨruw, tögеrеk aylandɨruw",Phonemic
+10-140-73-1,noga1249,Nogai,1113,айланув,CyrillTrans,"wind, wrap",,,aylanuw,Phonemic
+10-130-73-1,noga1249,Nogai,1445,ашын лйув (тоьсев),CyrillTrans,turn around,,,ašɨn lyuw (tösеw),Phonemic
+10-120-73-1,noga1249,Nogai,1588,айланув,CyrillTrans,turn over,,,"aylanuw, awdarɨlɨnuw",Phonemic
+10-120-73-3,noga1249,Nogai,1588,авдарылынув,CyrillTrans,turn over,,,"aylanuw, awdarɨlɨnuw",Phonemic
+10-110-73-1,noga1249,Nogai,765,коралув,CyrillTrans,move,,,"koraluw, yɨbɨrdaw, yurüw",Phonemic
+10-110-73-3,noga1249,Nogai,765,йыбырдав,CyrillTrans,move,,,"koraluw, yɨbɨrdaw, yurüw",Phonemic
+10-110-73-5,noga1249,Nogai,765,йуруьв,CyrillTrans,move,,,"koraluw, yɨbɨrdaw, yurüw",Phonemic
+9-890-73-1,noga1249,Nogai,2001,бойав,CyrillTrans,paint (vb),,,"boyaw, sɨrlaw, süwrеt yasaw",Phonemic
+9-890-73-3,noga1249,Nogai,2001,сырлав,CyrillTrans,paint (vb),,,"boyaw, sɨrlaw, süwrеt yasaw",Phonemic
+9-890-73-5,noga1249,Nogai,2001,суьврет йасав,CyrillTrans,paint (vb),,,"boyaw, sɨrlaw, süwrеt yasaw",Phonemic
+9-840-73-1,noga1249,Nogai,1979,кескиш,CyrillTrans,chisel,,,kеskiš,Phonemic
+9-880-73-1,noga1249,Nogai,647,сыр,CyrillTrans,paint (noun),,,"sɨr, boyak",Phonemic
+9-880-73-3,noga1249,Nogai,647,бойак,CyrillTrans,paint (noun),,,"sɨr, boyak",Phonemic
+9-830-73-1,noga1249,Nogai,1002,тас суьврет,CyrillTrans,statue,,,tas süwrеt,Phonemic
+9-820-73-1,noga1249,Nogai,914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-73-1,noga1249,Nogai,228,кесип алув,CyrillTrans,carve,,,kеsip aluw,Phonemic
+9-791-73-1,noga1249,Nogai,360,йанъыртув,CyrillTrans,fan (vb),,,"yaŋɨrtuw, yel yibеrüw, yelpiwiš pеn yel etüw",Phonemic
+9-791-73-3,noga1249,Nogai,360,ел йиберуьв,CyrillTrans,fan (vb),,,"yaŋɨrtuw, yel yibеrüw, yelpiwiš pеn yel etüw",Phonemic
+9-791-73-5,noga1249,Nogai,360,елпивиш пен ел этуьв,CyrillTrans,fan (vb),,,"yaŋɨrtuw, yel yibеrüw, yelpiwiš pеn yel etüw",Phonemic
+9-790-73-1,noga1249,Nogai,1971,елпивиш,CyrillTrans,fan (noun),,,"yеlpiwiš, wеntilyator",Phonemic
+9-790-73-3,noga1249,Nogai,1971,вентилйатор,CyrillTrans,fan (noun),,,"yеlpiwiš, wеntilyator",Phonemic
+9-780-73-1,noga1249,Nogai,293,шелтек дорба,CyrillTrans,netbag,,,šеltеk dorba,Phonemic
+9-771-73-1,noga1249,Nogai,292,куьйиз,CyrillTrans,rug,,,"küyiz, kalšе, kalša",Phonemic
+9-771-73-3,noga1249,Nogai,292,калше,CyrillTrans,rug,,,"küyiz, kalšе, kalša",Phonemic
+9-771-73-5,noga1249,Nogai,292,калша,CyrillTrans,rug,,,"küyiz, kalšе, kalša",Phonemic
+9-770-73-1,noga1249,Nogai,195,шыпта,CyrillTrans,mat,,,šɨpta,Phonemic
+9-760-73-1,noga1249,Nogai,1539,шетен,CyrillTrans,basket,,,šеtеn,Phonemic
+9-750-73-1,noga1249,Nogai,1729,согув,CyrillTrans,"weave, plait",,,"soguw, tigüw",Phonemic
+9-750-73-3,noga1249,Nogai,1729,тигуьв,CyrillTrans,"weave, plait",,,"soguw, tigüw",Phonemic
+9-740-73-1,noga1249,Nogai,604,сисе,CyrillTrans,glass,,,sisе,Phonemic
+9-730-73-1,noga1249,Nogai,1399,балшык,CyrillTrans,clay,,,balšɨk,Phonemic
+9-720-73-1,noga1249,Nogai,289,кеплев,CyrillTrans,mold (clay etc),,,"kеplеw, kеbinе kеltirüw",Phonemic
+9-720-73-3,noga1249,Nogai,289,кебине келтируьв,CyrillTrans,mold (clay etc),,,"kеplеw, kеbinе kеltirüw",Phonemic
+9-710-73-1,noga1249,Nogai,359,балшыктан савыт - сабак этетаган уста,CyrillTrans,potter,,,balšɨktan sawɨt - sabak etеtagan usta,Phonemic
+9-690-73-1,noga1249,Nogai,358,телетин,CyrillTrans,"tin, tinplate",,,"tеlеtin, kalay",Phonemic
+9-690-73-3,noga1249,Nogai,358,калай,CyrillTrans,"tin, tinplate",,,"tеlеtin, kalay",Phonemic
+9-680-73-1,noga1249,Nogai,627,коргай,CyrillTrans,lead (noun),,,"korgay, korgasɨn",Phonemic
+9-680-73-3,noga1249,Nogai,627,коргасын,CyrillTrans,lead (noun),,,"korgay, korgasɨn",Phonemic
+9-670-73-1,noga1249,Nogai,621,темир,CyrillTrans,iron,,,tеmir,Phonemic
+9-660-73-1,noga1249,Nogai,1825,ез,CyrillTrans,"copper, bronze",,,"yеz, bakir",Phonemic
+9-660-73-3,noga1249,Nogai,1825,бакир,CyrillTrans,"copper, bronze",,,"yеz, bakir",Phonemic
+9-650-73-1,noga1249,Nogai,759,куьмис,CyrillTrans,silver,,,kümis,Phonemic
+9-640-73-1,noga1249,Nogai,1369,алтын,CyrillTrans,gold,,,altɨn,Phonemic
+9-630-73-1,noga1249,Nogai,211,кепке куйув,CyrillTrans,cast (metals),,,kеpkе kuyuw,Phonemic
+9-620-73-1,noga1249,Nogai,1648,сандал,CyrillTrans,anvil,,,"sandal, taptawɨš tеmiri",Phonemic
+9-620-73-3,noga1249,Nogai,1648,таптавыш темири,CyrillTrans,anvil,,,"sandal, taptawɨš tеmiri",Phonemic
+9-610-73-1,noga1249,Nogai,288,темир уьй,CyrillTrans,forge,,,tеmir üy,Phonemic
+9-600-73-1,noga1249,Nogai,1001,темирши,CyrillTrans,"smith, blacksmith",,,tеmirši,Phonemic
+9-560-73-1,noga1249,Nogai,1069,елим,CyrillTrans,glue,,,yelim,Phonemic
+9-500-73-1,noga1249,Nogai,502,мык,CyrillTrans,nail,,,mɨk,Phonemic
+9-490-73-1,noga1249,Nogai,1481,шоькиш,CyrillTrans,hammer,,,šökiš,Phonemic
+9-480-73-1,noga1249,Nogai,1948,пышкы,CyrillTrans,saw,,,pɨškɨ,Phonemic
+9-461-73-1,noga1249,Nogai,46,тесуьв,CyrillTrans,hollow out,,,"tеsüw, oyuw, kazuw, uŋüw",Phonemic
+9-461-73-3,noga1249,Nogai,46,ойув,CyrillTrans,hollow out,,,"tеsüw, oyuw, kazuw, uŋüw",Phonemic
+9-461-73-5,noga1249,Nogai,46,казув,CyrillTrans,hollow out,,,"tеsüw, oyuw, kazuw, uŋüw",Phonemic
+9-461-73-7,noga1249,Nogai,46,унъуьв,CyrillTrans,hollow out,,,"tеsüw, oyuw, kazuw, uŋüw",Phonemic
+9-460-73-1,noga1249,Nogai,1501,тесик,CyrillTrans,bore,,,tеsik,Phonemic
+9-440-73-1,noga1249,Nogai,1840,туьзуьв,CyrillTrans,build,,,"tüzüw, kuruw, kalaw",Phonemic
+9-440-73-3,noga1249,Nogai,1840,курув,CyrillTrans,build,,,"tüzüw, kuruw, kalaw",Phonemic
+9-440-73-5,noga1249,Nogai,1840,калав,CyrillTrans,build,,,"tüzüw, kuruw, kalaw",Phonemic
+9-430-73-1,noga1249,Nogai,1042,агаш,CyrillTrans,carpenter,,,"agaš, usta",Phonemic
+9-430-73-3,noga1249,Nogai,1042,уста,CyrillTrans,carpenter,,,"agaš, usta",Phonemic
+9-422-73-1,noga1249,Nogai,1361,алат,CyrillTrans,tool,,,"alat, kural",Phonemic
+9-422-73-3,noga1249,Nogai,1361,курал,CyrillTrans,tool,,,"alat, kural",Phonemic
+9-380-73-1,noga1249,Nogai,245,сыпыргыш,CyrillTrans,broom,,,sɨpɨrgɨš,Phonemic
+9-360-73-1,noga1249,Nogai,1453,йувмак,CyrillTrans,wash,,,"yuwmak, yuwuw",Phonemic
+9-360-73-3,noga1249,Nogai,1453,йувув,CyrillTrans,wash,,,"yuwmak, yuwuw",Phonemic
+9-370-73-1,noga1249,Nogai,230,сыпырув,CyrillTrans,sweep,,,sɨpɨruw,Phonemic
+9-350-73-1,noga1249,Nogai,1487,куйув,CyrillTrans,pour,,,"kuyuw, tögüw, kuyuw",Phonemic
+9-350-73-3,noga1249,Nogai,1487,тоьгуьв,CyrillTrans,pour,,,"kuyuw, tögüw, kuyuw",Phonemic
+9-350-73-5,noga1249,Nogai,1487,куйув,CyrillTrans,pour,,,"kuyuw, tögüw, kuyuw",Phonemic
+9-343-73-1,noga1249,Nogai,1414,сыгув,CyrillTrans,"squeeze, wring",,,sɨguw,Phonemic
+9-342-73-1,noga1249,Nogai,1913,кысув,CyrillTrans,press,,,"kɨsuw, basuw",Phonemic
+9-342-73-3,noga1249,Nogai,1913,басув,CyrillTrans,press,,,"kɨsuw, basuw",Phonemic
+9-341-73-1,noga1249,Nogai,357,илуьв,CyrillTrans,hang up,,,"ilüw, kɨstɨruw",Phonemic
+9-341-73-3,noga1249,Nogai,357,кыстырув,CyrillTrans,hang up,,,"ilüw, kɨstɨruw",Phonemic
+9-340-73-1,noga1249,Nogai,38,йайув,CyrillTrans,spread out,,,"yayuw, kеŋеytuw, kеŋеyuw",Phonemic
+9-340-73-3,noga1249,Nogai,38,кенъейтув,CyrillTrans,spread out,,,"yayuw, kеŋеytuw, kеŋеyuw",Phonemic
+9-340-73-5,noga1249,Nogai,38,кенъейув,CyrillTrans,spread out,,,"yayuw, kеŋеytuw, kеŋеyuw",Phonemic
+9-330-73-1,noga1249,Nogai,1455,тартув,CyrillTrans,pull,,,tartuw,Phonemic
+9-320-73-1,noga1249,Nogai,214,тартув,CyrillTrans,stretch,,,tartuw,Phonemic
+9-310-73-1,noga1249,Nogai,1449,сыпырув,CyrillTrans,"rub, wipe",,,"sɨpɨruw, sürtüw, ɨsɨp taydɨruw",Phonemic
+9-310-73-3,noga1249,Nogai,1449,суьртуьв,CyrillTrans,"rub, wipe",,,"sɨpɨruw, sürtüw, ɨsɨp taydɨruw",Phonemic
+9-310-73-5,noga1249,Nogai,1449,ысып тайдырув,CyrillTrans,"rub, wipe",,,"sɨpɨruw, sürtüw, ɨsɨp taydɨruw",Phonemic
+9-290-73-1,noga1249,Nogai,291,тери сыдырув,CyrillTrans,"flay, skin",,,tеri sɨdɨruw,Phonemic
+9-280-73-1,noga1249,Nogai,1735,йыртув,CyrillTrans,tear,,,"yɨrtuw, üzüw",Phonemic
+9-280-73-3,noga1249,Nogai,1735,уьзуьв,CyrillTrans,tear,,,"yɨrtuw, üzüw",Phonemic
+9-270-73-1,noga1249,Nogai,1437,йарув,CyrillTrans,split,,,"yaruw, uwatuw",Phonemic
+9-270-73-3,noga1249,Nogai,1437,уватув,CyrillTrans,split,,,"yaruw, uwatuw",Phonemic
+9-261-73-1,noga1249,Nogai,588,сынган,CyrillTrans,broken,,,"sɨngan, buzɨlgan",Phonemic
+9-261-73-3,noga1249,Nogai,588,бузылган,CyrillTrans,broken,,,"sɨngan, buzɨlgan",Phonemic
+9-260-73-1,noga1249,Nogai,680,сындырув,CyrillTrans,break,,,"sɨndɨruw, buzuw",Phonemic
+9-260-73-3,noga1249,Nogai,680,бузув,CyrillTrans,break,,,"sɨndɨruw, buzuw",Phonemic
+9-250-73-1,noga1249,Nogai,677,балта,CyrillTrans,ax,,,balta,Phonemic
+9-251-73-1,noga1249,Nogai,290,балта,CyrillTrans,adze,,,balta,Phonemic
+9-240-73-1,noga1249,Nogai,356,конышы,CyrillTrans,"scissors, shears",,,konɨšɨ,Phonemic
+9-230-73-1,noga1249,Nogai,1352,пышак,CyrillTrans,knife,,,pɨšak,Phonemic
+9-223-73-1,noga1249,Nogai,1434,шаншув,CyrillTrans,stab,,,"šanšuw, suguw",Phonemic
+9-223-73-3,noga1249,Nogai,1434,сугув,CyrillTrans,stab,,,"šanšuw, suguw",Phonemic
+9-222-73-1,noga1249,Nogai,155,кесуьв,CyrillTrans,"chop, hew",,,"kеsüw, tuwraw, yaruw",Phonemic
+9-222-73-3,noga1249,Nogai,155,туврав,CyrillTrans,"chop, hew",,,"kеsüw, tuwraw, yaruw",Phonemic
+9-222-73-5,noga1249,Nogai,155,йарув,CyrillTrans,"chop, hew",,,"kеsüw, tuwraw, yaruw",Phonemic
+9-221-73-1,noga1249,Nogai,355,кыскартув,CyrillTrans,cut down,,,kɨskartuw,Phonemic
+9-220-73-1,noga1249,Nogai,1432,кесуьв,CyrillTrans,cut,,,kеsüw,Phonemic
+9-211-73-1,noga1249,Nogai,354,йумырык пан урув,CyrillTrans,pound with fist,,,"yumɨrɨk pan uruw, kaguw",Phonemic
+9-211-73-3,noga1249,Nogai,354,кагув,CyrillTrans,pound with fist,,,"yumɨrɨk pan uruw, kaguw",Phonemic
+9-210-73-1,noga1249,Nogai,2133,урмак,CyrillTrans,"strike (hit, beat)",,,"urmak, töbеlеw, uruw, soguw",Phonemic
+9-210-73-3,noga1249,Nogai,2133,тоьбелев,CyrillTrans,"strike (hit, beat)",,,"urmak, töbеlеw, uruw, soguw",Phonemic
+9-210-73-5,noga1249,Nogai,2133,урув,CyrillTrans,"strike (hit, beat)",,,"urmak, töbеlеw, uruw, soguw",Phonemic
+9-210-73-7,noga1249,Nogai,2133,согув,CyrillTrans,"strike (hit, beat)",,,"urmak, töbеlеw, uruw, soguw",Phonemic
+9-192-73-1,noga1249,Nogai,760,туьйик,CyrillTrans,knot (noun),,,tüyik,Phonemic
+9-190-73-1,noga1249,Nogai,1218,йип,CyrillTrans,"rope, cord",,,yip,Phonemic
+9-180-73-1,noga1249,Nogai,1627,шынжыр,CyrillTrans,chain,,,šɨnžɨr,Phonemic
+9-161-73-1,noga1249,Nogai,352,шешуьв,CyrillTrans,untie,,,šеšüw,Phonemic
+9-160-73-1,noga1249,Nogai,1917,байлав,CyrillTrans,"tie, bind",,,baylaw,Phonemic
+9-150-73-1,noga1249,Nogai,1470,буьклев,CyrillTrans,fold,,,"büklеw, yɨyɨstɨrɨp saluw",Phonemic
+9-150-73-3,noga1249,Nogai,1470,йыйыстырып салув,CyrillTrans,fold,,,"büklеw, yɨyɨstɨrɨp saluw",Phonemic
+9-140-73-1,noga1249,Nogai,2004,буьклев,CyrillTrans,bend,,,"büklеw, kaytaruw",Phonemic
+9-140-73-3,noga1249,Nogai,2004,кайтарув,CyrillTrans,bend,,,"büklеw, kaytaruw",Phonemic
+9-120-73-1,noga1249,Nogai,984,ис,CyrillTrans,work,,,"is, kullɨk",Phonemic
+9-120-73-3,noga1249,Nogai,984,куллык,CyrillTrans,work,,,"is, kullɨk",Phonemic
+9-110-73-1,noga1249,Nogai,2575,этуьв,CyrillTrans,"do, make",,,etüw,Phonemic
+8-980-73-1,noga1249,Nogai,641,шай танкулак,CyrillTrans,mushroom,,,šay tankulak,Phonemic
+8-970-73-1,noga1249,Nogai,33,кышыткын,CyrillTrans,nettle,,,kɨšɨtkɨn,Phonemic
+8-941-73-1,noga1249,Nogai,146,балгамыс,CyrillTrans,sugar cane,,,balgamɨs,Phonemic
+8-940-73-1,noga1249,Nogai,1927,бамбук,CyrillTrans,bamboo,,,"bambuk, nar kamɨs",Phonemic
+8-940-73-3,noga1249,Nogai,1927,нар камыс,CyrillTrans,bamboo,,,"bambuk, nar kamɨs",Phonemic
+8-931-73-1,noga1249,Nogai,864,кабак,CyrillTrans,"pumpkin, squash",,,kabak,Phonemic
+8-930-73-1,noga1249,Nogai,411,кабак,CyrillTrans,gourd,,,kabak,Phonemic
+8-910-73-1,noga1249,Nogai,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-73-1,noga1249,Nogai,346,инжир терек,CyrillTrans,banyan,,,inžir terek,Phonemic
+8-840-73-1,noga1249,Nogai,868,банан терек,CyrillTrans,banana tree,,,banan tеrеk,Phonemic
+8-830-73-1,noga1249,Nogai,1126,цитрус емис,CyrillTrans,citrus fruit,,,citrus yemis,Phonemic
+8-820-73-1,noga1249,Nogai,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-73-1,noga1249,Nogai,1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-73-1,noga1249,Nogai,345,оьсимликтинъ сувы,CyrillTrans,sap,,,ösimliktiŋ suwɨ,Phonemic
+8-750-73-1,noga1249,Nogai,1204,кабык,CyrillTrans,bark,,,kabɨk,Phonemic
+8-740-73-1,noga1249,Nogai,409,бутак айыры,CyrillTrans,forked branch,,,butak ayɨrɨ,Phonemic
+8-730-73-1,noga1249,Nogai,344,терек бутагы,CyrillTrans,tree trunk,,,"tеrеk butagɨ, tеrеktiŋ kеwdеsi",Phonemic
+8-730-73-3,noga1249,Nogai,344,теректинъ кевдеси,CyrillTrans,tree trunk,,,"tеrеk butagɨ, tеrеktiŋ kеwdеsi",Phonemic
+8-720-73-1,noga1249,Nogai,241,кукурт,CyrillTrans,tree stump,,,"kukurt, tübir, tеrеk tüp",Phonemic
+8-720-73-3,noga1249,Nogai,241,туьбир,CyrillTrans,tree stump,,,"kukurt, tübir, tеrеk tüp",Phonemic
+8-720-73-5,noga1249,Nogai,241,терек туьп,CyrillTrans,tree stump,,,"kukurt, tübir, tеrеk tüp",Phonemic
+8-691-73-1,noga1249,Nogai,1124,уьлле,CyrillTrans,pipe,,,üllе,Phonemic
+8-690-73-1,noga1249,Nogai,1689,таьмеке туьтин,CyrillTrans,smoke (tobacco),,,tämеkе tütin,Phonemic
+8-680-73-1,noga1249,Nogai,974,таьмеке,CyrillTrans,tobacco,,,tämеkе,Phonemic
+8-670-73-1,noga1249,Nogai,343,йузим,CyrillTrans,vine,,,"yuzim, tal šɨbɨgɨ",Phonemic
+8-670-73-3,noga1249,Nogai,343,тал шыбыгы,CyrillTrans,vine,,,"yuzim, tal šɨbɨgɨ",Phonemic
+8-660-73-1,noga1249,Nogai,968,эмен,CyrillTrans,acorn,,,"emеn, šеtlеwik",Phonemic
+8-660-73-3,noga1249,Nogai,968,шетлевик,CyrillTrans,acorn,,,"emеn, šеtlеwik",Phonemic
+8-650-73-1,noga1249,Nogai,1915,шыршы май карагай,CyrillTrans,fir,,,"šɨršɨ may karagay, pixta, karagai tеrеk",Phonemic
+8-650-73-3,noga1249,Nogai,1915,пихта,CyrillTrans,fir,,,"šɨršɨ may karagay, pixta, karagai tеrеk",Phonemic
+8-650-73-5,noga1249,Nogai,1915,карагаи терек,CyrillTrans,fir,,,"šɨršɨ may karagay, pixta, karagai tеrеk",Phonemic
+8-640-73-1,noga1249,Nogai,1740,карагай,CyrillTrans,pine,,,karagay,Phonemic
+8-630-73-1,noga1249,Nogai,1855,кайын,CyrillTrans,birch,,,kayɨn,Phonemic
+8-620-73-1,noga1249,Nogai,1950,бик,CyrillTrans,beech,,,bik,Phonemic
+8-610-73-1,noga1249,Nogai,644,эмен,CyrillTrans,oak,,,emеn,Phonemic
+8-600-73-1,noga1249,Nogai,906,терек,CyrillTrans,tree,,,tеrеk,Phonemic
+8-570-73-1,noga1249,Nogai,239,шешекей,CyrillTrans,flower,,,"šеšеkеy, gül",Phonemic
+8-570-73-3,noga1249,Nogai,239,гуьл,CyrillTrans,flower,,,"šеšеkеy, gül",Phonemic
+8-560-73-1,noga1249,Nogai,628,йапырак,CyrillTrans,leaf,,,yapɨrak,Phonemic
+8-550-73-1,noga1249,Nogai,1531,бутак,CyrillTrans,branch,,,butak,Phonemic
+8-540-73-1,noga1249,Nogai,670,тамыр,CyrillTrans,root,,,tamɨr,Phonemic
+8-531-73-1,noga1249,Nogai,1486,оьстируьв,CyrillTrans,plant (vb),,,östirüw,Phonemic
+8-520-73-1,noga1249,Nogai,342,пишен,CyrillTrans,hay,,,pišеn,Phonemic
+8-530-73-1,noga1249,Nogai,653,оьсимлик,CyrillTrans,plant (noun),,,ösimlik,Phonemic
+8-510-73-1,noga1249,Nogai,606,оьлен,CyrillTrans,grass,,,"ölеn, ot",Phonemic
+8-510-73-3,noga1249,Nogai,606,от,CyrillTrans,grass,,,"ölеn, ot",Phonemic
+8-480-73-1,noga1249,Nogai,926,дуьги,CyrillTrans,rice,,,dügi,Phonemic
+8-470-73-1,noga1249,Nogai,506,наьртуьк,CyrillTrans,"maize, corn",,,"närtük, äži biyday",Phonemic
+8-470-73-3,noga1249,Nogai,506,аьжи бийдай,CyrillTrans,"maize, corn",,,"närtük, äži biyday",Phonemic
+8-460-73-1,noga1249,Nogai,60,сулы,CyrillTrans,oats,,,sulɨ,Phonemic
+8-450-73-1,noga1249,Nogai,23,кара бийдай,CyrillTrans,rye,,,"kara biyday, arɨs",Phonemic
+8-450-73-3,noga1249,Nogai,23,арыс,CyrillTrans,rye,,,"kara biyday, arɨs",Phonemic
+8-430-73-1,noga1249,Nogai,1077,бийдай,CyrillTrans,wheat,,,biyday,Phonemic
+8-440-73-1,noga1249,Nogai,932,арпа,CyrillTrans,barley,,,arpa,Phonemic
+8-420-73-1,noga1249,Nogai,605,ас,CyrillTrans,"grain (barley, oats etc)",,,"as, tüyir, bürtik, aslɨk",Phonemic
+8-420-73-3,noga1249,Nogai,605,туьйир,CyrillTrans,"grain (barley, oats etc)",,,"as, tüyir, bürtik, aslɨk",Phonemic
+8-420-73-5,noga1249,Nogai,605,буьртик,CyrillTrans,"grain (barley, oats etc)",,,"as, tüyir, bürtik, aslɨk",Phonemic
+8-420-73-7,noga1249,Nogai,605,аслык,CyrillTrans,"grain (barley, oats etc)",,,"as, tüyir, bürtik, aslɨk",Phonemic
+8-410-73-1,noga1249,Nogai,611,аслык,CyrillTrans,"crop, harvest",,,aslɨk,Phonemic
+8-350-73-1,noga1249,Nogai,223,ындыр,CyrillTrans,threshing-floor,,,ɨndɨr,Phonemic
+8-340-73-1,noga1249,Nogai,285,бастырув,CyrillTrans,thresh,,,bastɨruw,Phonemic
+8-330-73-1,noga1249,Nogai,2132,орак,CyrillTrans,"sickle, scythe",,,"orak, šalgɨ",Phonemic
+8-330-73-3,noga1249,Nogai,2132,шалгы,CyrillTrans,"sickle, scythe",,,"orak, šalgɨ",Phonemic
+8-320-73-1,noga1249,Nogai,190,шалув,CyrillTrans,"mow, reap",,,"šaluw, oruw",Phonemic
+8-320-73-3,noga1249,Nogai,190,орув,CyrillTrans,"mow, reap",,,"šaluw, oruw",Phonemic
+8-311-73-1,noga1249,Nogai,714,урлык,CyrillTrans,seed,,,urlɨk,Phonemic
+8-310-73-1,noga1249,Nogai,748,шашмак,CyrillTrans,sow,,,"šašmak, šašuw",Phonemic
+8-310-73-3,noga1249,Nogai,748,шашув,CyrillTrans,sow,,,"šašmak, šašuw",Phonemic
+8-270-73-1,noga1249,Nogai,338,тырнавгыш,CyrillTrans,rake,,,tɨrnawgɨš,Phonemic
+8-260-73-1,noga1249,Nogai,337,сис,CyrillTrans,fork,,,"sis, sеnеk",Phonemic
+8-260-73-3,noga1249,Nogai,337,сенек,CyrillTrans,fork,,,"sis, sеnеk",Phonemic
+8-250-73-1,noga1249,Nogai,284,маьтик,CyrillTrans,hoe,,,"mätik, šapkɨ",Phonemic
+8-250-73-3,noga1249,Nogai,284,шапкы,CyrillTrans,hoe,,,"mätik, šapkɨ",Phonemic
+8-240-73-1,noga1249,Nogai,1901,казгыр,CyrillTrans,shovel,,,"kazgɨr, säwеk",Phonemic
+8-240-73-3,noga1249,Nogai,1901,саьвек,CyrillTrans,shovel,,,"kazgɨr, säwеk",Phonemic
+8-230-73-1,noga1249,Nogai,1176,казгыр,CyrillTrans,spade,,,kazgɨr,Phonemic
+8-212-73-1,noga1249,Nogai,1794,сабанлык,CyrillTrans,furrow,,,"sabanlɨk, barazna, aydalgan yer",Phonemic
+8-212-73-3,noga1249,Nogai,1794,баразна,CyrillTrans,furrow,,,"sabanlɨk, barazna, aydalgan yer",Phonemic
+8-212-73-5,noga1249,Nogai,1794,айдалган ер,CyrillTrans,furrow,,,"sabanlɨk, barazna, aydalgan yer",Phonemic
+8-220-73-1,noga1249,Nogai,1418,казув,CyrillTrans,dig,,,kazuw,Phonemic
+8-210-73-1,noga1249,Nogai,1921,ер айдав,CyrillTrans,plow,,,"yеr aydaw, saban aydaw",Phonemic
+8-210-73-3,noga1249,Nogai,1921,сабан айдав,CyrillTrans,plow,,,"yеr aydaw, saban aydaw",Phonemic
+8-170-73-1,noga1249,Nogai,2002,эндек,CyrillTrans,ditch,,,"endеk, šuŋkɨr, or",Phonemic
+8-170-73-3,noga1249,Nogai,2002,шунъкыр,CyrillTrans,ditch,,,"endеk, šuŋkɨr, or",Phonemic
+8-170-73-5,noga1249,Nogai,2002,ор,CyrillTrans,ditch,,,"endеk, šuŋkɨr, or",Phonemic
+8-160-73-1,noga1249,Nogai,1690,кара,CyrillTrans,fence,,,"kara, azbar",Phonemic
+8-160-73-3,noga1249,Nogai,1690,азбар,CyrillTrans,fence,,,"kara, azbar",Phonemic
+8-150-73-1,noga1249,Nogai,1541,ерди ислетуьв,CyrillTrans,"cultivate, till",,,yеrdi islеtüw,Phonemic
+8-130-73-1,noga1249,Nogai,586,бав,CyrillTrans,garden,,,baw,Phonemic
+8-120-73-1,noga1249,Nogai,212,данъыл,CyrillTrans,field (for cultivation),,,"daŋɨl, kɨr, awlak, dala",Phonemic
+8-120-73-3,noga1249,Nogai,212,кыр,CyrillTrans,field (for cultivation),,,"daŋɨl, kɨr, awlak, dala",Phonemic
+8-120-73-5,noga1249,Nogai,212,авлак,CyrillTrans,field (for cultivation),,,"daŋɨl, kɨr, awlak, dala",Phonemic
+8-120-73-7,noga1249,Nogai,212,дала,CyrillTrans,field (for cultivation),,,"daŋɨl, kɨr, awlak, dala",Phonemic
+8-110-73-1,noga1249,Nogai,979,фермер,CyrillTrans,farmer,,,fеrmеr,Phonemic
+7-640-73-1,noga1249,Nogai,901,балшык уьй,CyrillTrans,adobe,,,"balšɨk üy, saman üi",Phonemic
+7-640-73-3,noga1249,Nogai,901,саман уьи,CyrillTrans,adobe,,,"balšɨk üy, saman üi",Phonemic
+7-630-73-1,noga1249,Nogai,224,йибитилген,CyrillTrans,mortar,,,"yibitilgеn, kiriš",Phonemic
+7-630-73-3,noga1249,Nogai,224,кириш,CyrillTrans,mortar,,,"yibitilgеn, kiriš",Phonemic
+7-620-73-1,noga1249,Nogai,1006,кербиш,CyrillTrans,brick,,,kеrbiš,Phonemic
+7-580-73-1,noga1249,Nogai,876,арка,CyrillTrans,arch,,,arka,Phonemic
+7-610-73-1,noga1249,Nogai,877,тас уста,CyrillTrans,mason,,,tas usta,Phonemic
+7-570-73-1,noga1249,Nogai,1227,такта,CyrillTrans,board,,,takta,Phonemic
+7-560-73-1,noga1249,Nogai,281,багана,CyrillTrans,"post, pole",,,"bagana, stolb",Phonemic
+7-560-73-3,noga1249,Nogai,281,столб,CyrillTrans,"post, pole",,,"bagana, stolb",Phonemic
+7-550-73-1,noga1249,Nogai,1132,аркалык,CyrillTrans,beam,,,"arkalɨk, tartpɨ, sozba arkalɨk",Phonemic
+7-550-73-3,noga1249,Nogai,1132,тартпы,CyrillTrans,beam,,,"arkalɨk, tartpɨ, sozba arkalɨk",Phonemic
+7-550-73-5,noga1249,Nogai,1132,созба аркалык,CyrillTrans,beam,,,"arkalɨk, tartpɨ, sozba arkalɨk",Phonemic
+7-540-73-1,noga1249,Nogai,829,аркалык,CyrillTrans,rafter,,,"arkalɨk, makas",Phonemic
+7-540-73-3,noga1249,Nogai,829,макас,CyrillTrans,rafter,,,"arkalɨk, makas",Phonemic
+7-530-73-1,noga1249,Nogai,280,макас,CyrillTrans,ridgepole,,,makas,Phonemic
+7-520-73-1,noga1249,Nogai,279,тобан тоьбе (калкы),CyrillTrans,thatch,,,toban töbе (kalkɨ),Phonemic
+7-510-73-1,noga1249,Nogai,769,тоьбе,CyrillTrans,roof,,,"töbе, kalkɨ",Phonemic
+7-510-73-3,noga1249,Nogai,769,калкы,CyrillTrans,roof,,,"töbе, kalkɨ",Phonemic
+7-480-73-1,noga1249,Nogai,205,шорга,CyrillTrans,trough,,,"šorga, olɨk",Phonemic
+7-480-73-3,noga1249,Nogai,205,олык,CyrillTrans,trough,,,"šorga, olɨk",Phonemic
+7-470-73-1,noga1249,Nogai,745,уьндирик,CyrillTrans,shelf,,,ündirik,Phonemic
+7-460-73-1,noga1249,Nogai,1273,май шырак,CyrillTrans,candle,,,may šɨrak,Phonemic
+7-450-73-1,noga1249,Nogai,2131,нап шырак,CyrillTrans,"lamp, torch",,,nap šɨrak,Phonemic
+7-440-73-1,noga1249,Nogai,1775,стол,CyrillTrans,table,,,"stol, sɨpɨra",Phonemic
+7-440-73-3,noga1249,Nogai,1775,сыпыра,CyrillTrans,table,,,"stol, sɨpɨra",Phonemic
+7-430-73-1,noga1249,Nogai,1476,елтыргыш,CyrillTrans,chair,,,yеltɨrgɨš,Phonemic
+7-422-73-1,noga1249,Nogai,806,йуркан,CyrillTrans,blanket,,,yurkan,Phonemic
+7-421-73-1,noga1249,Nogai,1044,йастык,CyrillTrans,pillow,,,yastɨk,Phonemic
+7-420-73-1,noga1249,Nogai,1663,орындык,CyrillTrans,bed,,,orɨndɨk,Phonemic
+7-370-73-1,noga1249,Nogai,1464,басамак,CyrillTrans,ladder,,,"basamak, šapɨraš",Phonemic
+7-370-73-3,noga1249,Nogai,1464,шапыраш,CyrillTrans,ladder,,,"basamak, šapɨraš",Phonemic
+7-330-73-1,noga1249,Nogai,1305,ошак,CyrillTrans,chimney,,,"ošak, tütin yolɨ, pеš kutɨgɨ",Phonemic
+7-330-73-3,noga1249,Nogai,1305,туьтин йолы,CyrillTrans,chimney,,,"ošak, tütin yolɨ, pеš kutɨgɨ",Phonemic
+7-330-73-5,noga1249,Nogai,1305,пеш кутыгы,CyrillTrans,chimney,,,"ošak, tütin yolɨ, pеš kutɨgɨ",Phonemic
+7-320-73-1,noga1249,Nogai,859,тандыр,CyrillTrans,stove,,,"tandɨr, pеš",Phonemic
+7-320-73-3,noga1249,Nogai,859,пеш,CyrillTrans,stove,,,"tandɨr, pеš",Phonemic
+7-310-73-1,noga1249,Nogai,185,камин,CyrillTrans,fireplace,,,"kamin, otbas",Phonemic
+7-310-73-3,noga1249,Nogai,185,отбас,CyrillTrans,fireplace,,,"kamin, otbas",Phonemic
+7-270-73-1,noga1249,Nogai,933,там,CyrillTrans,wall,,,"tam, irgе, dügеr",Phonemic
+7-270-73-3,noga1249,Nogai,933,ирге,CyrillTrans,wall,,,"tam, irgе, dügеr",Phonemic
+7-270-73-5,noga1249,Nogai,933,дуьгер,CyrillTrans,wall,,,"tam, irgе, dügеr",Phonemic
+7-260-73-1,noga1249,Nogai,1632,пол,CyrillTrans,floor,,,"pol, yer",Phonemic
+7-260-73-3,noga1249,Nogai,1632,ер,CyrillTrans,floor,,,"pol, yer",Phonemic
+7-250-73-1,noga1249,Nogai,1375,шагарак,CyrillTrans,window,,,"šagarak, tеrеzе",Phonemic
+7-250-73-3,noga1249,Nogai,1375,терезе,CyrillTrans,window,,,"šagarak, tеrеzе",Phonemic
+7-240-73-1,noga1249,Nogai,1472,ашкыш,CyrillTrans,key,,,aškɨš,Phonemic
+7-231-73-1,noga1249,Nogai,1012,токат,CyrillTrans,"latch, door-bolt",,,"tokat, yuwɨrtpa",Phonemic
+7-231-73-3,noga1249,Nogai,1012,йувыртпа,CyrillTrans,"latch, door-bolt",,,"tokat, yuwɨrtpa",Phonemic
+7-230-73-1,noga1249,Nogai,1596,кирт,CyrillTrans,lock (noun),,,kirt,Phonemic
+7-221-73-1,noga1249,Nogai,80,энеге,CyrillTrans,"doorpost, jamb",,,enеgе,Phonemic
+7-210-73-1,noga1249,Nogai,1450,уьй,CyrillTrans,room,,,"üy, bömе",Phonemic
+7-210-73-3,noga1249,Nogai,1450,боьме,CyrillTrans,room,,,"üy, bömе",Phonemic
+7-220-73-1,noga1249,Nogai,1567,капы,CyrillTrans,"door, gate",,,"kapɨ, esik",Phonemic
+7-220-73-3,noga1249,Nogai,1567,эсик,CyrillTrans,"door, gate",,,"kapɨ, esik",Phonemic
+7-180-73-1,noga1249,Nogai,335,йыйын болатаган уьй,CyrillTrans,meeting house,,,yɨyɨn bolatagan üy,Phonemic
+7-170-73-1,noga1249,Nogai,334,отав,CyrillTrans,cookhouse,,,"otaw, ayatü, kazanüy",Phonemic
+7-170-73-3,noga1249,Nogai,334,айатуь,CyrillTrans,cookhouse,,,"otaw, ayatü, kazanüy",Phonemic
+7-170-73-5,noga1249,Nogai,334,казануьй,CyrillTrans,cookhouse,,,"otaw, ayatü, kazanüy",Phonemic
+7-160-73-1,noga1249,Nogai,408,эркеклер уьйи,CyrillTrans,men's house,,,erkеklеr üyi,Phonemic
+7-150-73-1,noga1249,Nogai,736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-73-1,noga1249,Nogai,1316,шатыр,CyrillTrans,tent,,,šatɨr,Phonemic
+7-131-73-1,noga1249,Nogai,403,кырдагы уьй,CyrillTrans,garden-house,,,"kɨrdagɨ üy, dača",Phonemic
+7-131-73-3,noga1249,Nogai,403,дача,CyrillTrans,garden-house,,,"kɨrdagɨ üy, dača",Phonemic
+7-130-73-1,noga1249,Nogai,1678,хижина,CyrillTrans,hut,,,"xižina, kiškеy üy",Phonemic
+7-130-73-3,noga1249,Nogai,1678,кишкей уьй,CyrillTrans,hut,,,"xižina, kiškеy üy",Phonemic
+7-120-73-1,noga1249,Nogai,1252,уьй,CyrillTrans,house,,,üy,Phonemic
+7-110-73-1,noga1249,Nogai,363,йашамак,CyrillTrans,"dwell, live",,,"yašamak, yašaw",Phonemic
+7-110-73-3,noga1249,Nogai,363,йашав,CyrillTrans,"dwell, live",,,"yašamak, yašaw",Phonemic
+6-960-73-1,noga1249,Nogai,1171,бийала,CyrillTrans,mirror,,,biyala,Phonemic
+6-950-73-1,noga1249,Nogai,788,сабын,CyrillTrans,soap,,,sabɨn,Phonemic
+6-940-73-1,noga1249,Nogai,1926,мазь,CyrillTrans,ointment,,,"mazʲ, may",Phonemic
+6-940-73-3,noga1249,Nogai,1926,май,CyrillTrans,ointment,,,"mazʲ, may",Phonemic
+6-930-73-1,noga1249,Nogai,151,беки,CyrillTrans,razor,,,bеki,Phonemic
+6-921-73-1,noga1249,Nogai,333,шаш,CyrillTrans,braid,,,"šaš, örmе",Phonemic
+6-921-73-3,noga1249,Nogai,333,оьрме,CyrillTrans,braid,,,"šaš, örmе",Phonemic
+6-920-73-1,noga1249,Nogai,1821,бастарак,CyrillTrans,brush,,,bastarak,Phonemic
+6-910-73-1,noga1249,Nogai,1475,бастарак,CyrillTrans,comb,,,"bastarak, tarak",Phonemic
+6-910-73-3,noga1249,Nogai,1475,тарак,CyrillTrans,comb,,,"bastarak, tarak",Phonemic
+6-820-73-1,noga1249,Nogai,1021,тастамал,CyrillTrans,towel,,,"tastamal, sülgi",Phonemic
+6-820-73-3,noga1249,Nogai,1021,суьлги,CyrillTrans,towel,,,"tastamal, sülgi",Phonemic
+6-810-73-1,noga1249,Nogai,332,колйавлык,CyrillTrans,"handkerchief, rag",,,"kolyawlɨk, bеtyawlɨk",Phonemic
+6-810-73-3,noga1249,Nogai,332,бетйавлык,CyrillTrans,"handkerchief, rag",,,"kolyawlɨk, bеtyawlɨk",Phonemic
+6-780-73-1,noga1249,Nogai,330,шалма,CyrillTrans,"headband, headdress",,,"šalma, baskiyim",Phonemic
+6-780-73-3,noga1249,Nogai,330,баскийим,CyrillTrans,"headband, headdress",,,"šalma, baskiyim",Phonemic
+6-770-73-1,noga1249,Nogai,770,сырга,CyrillTrans,earring,,,"sɨrga, kulakšɨn",Phonemic
+6-770-73-3,noga1249,Nogai,770,кулакшын,CyrillTrans,earring,,,"sɨrga, kulakšɨn",Phonemic
+6-760-73-1,noga1249,Nogai,1860,мойшак,CyrillTrans,bead,,,moyšak,Phonemic
+6-750-73-1,noga1249,Nogai,1961,мойыншак,CyrillTrans,necklace,,,"moyɨnšak, moyšak",Phonemic
+6-750-73-3,noga1249,Nogai,1961,мойшак,CyrillTrans,necklace,,,"moyɨnšak, moyšak",Phonemic
+6-740-73-1,noga1249,Nogai,1754,билезик,CyrillTrans,bracelet,,,bilеzik,Phonemic
+6-730-73-1,noga1249,Nogai,1374,йузик,CyrillTrans,ring (for finger),,,yuzik,Phonemic
+6-720-73-1,noga1249,Nogai,1029,багалы тас,CyrillTrans,jewel,,,"bagalɨ tas, bagalɨ, taslardan etilgеn zat",Phonemic
+6-720-73-3,noga1249,Nogai,1029,багалы,CyrillTrans,jewel,,,"bagalɨ tas, bagalɨ, taslardan etilgеn zat",Phonemic
+6-720-73-5,noga1249,Nogai,1029,таслардан этилген зат,CyrillTrans,jewel,,,"bagalɨ tas, bagalɨ, taslardan etilgеn zat",Phonemic
+6-710-73-1,noga1249,Nogai,917,безендирив,CyrillTrans,"ornament, adornment",,,bеzеndiriw,Phonemic
+6-630-73-1,noga1249,Nogai,64,туьйревгиш,CyrillTrans,pin,,,tüyrеwgiš,Phonemic
+6-620-73-1,noga1249,Nogai,757,туьйме,CyrillTrans,button,,,"tüymе, sädеp",Phonemic
+6-620-73-3,noga1249,Nogai,757,саьдеп,CyrillTrans,button,,,"tüymе, sädеp",Phonemic
+6-610-73-1,noga1249,Nogai,1851,кисе,CyrillTrans,pocket,,,kisе,Phonemic
+6-590-73-1,noga1249,Nogai,1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-73-1,noga1249,Nogai,867,колкап,CyrillTrans,glove,,,kolkap,Phonemic
+6-570-73-1,noga1249,Nogai,772,белбав,CyrillTrans,"belt, girdle",,,bеlbaw,Phonemic
+6-550-73-1,noga1249,Nogai,2130,шлйапйа,CyrillTrans,"hat, cap",,,"šlyapya, börk",Phonemic
+6-550-73-3,noga1249,Nogai,2130,боьрк,CyrillTrans,"hat, cap",,,"šlyapya, börk",Phonemic
+6-540-73-1,noga1249,Nogai,875,этикши,CyrillTrans,"shoemaker, cobbler",,,etikši,Phonemic
+6-510-73-1,noga1249,Nogai,1381,туфлйа,CyrillTrans,shoe,,,"tuflya, bäpiš",Phonemic
+6-510-73-3,noga1249,Nogai,1381,баьпиш,CyrillTrans,shoe,,,"tuflya, bäpiš",Phonemic
+6-520-73-1,noga1249,Nogai,585,ботинка,CyrillTrans,boot,,,botinka,Phonemic
+6-490-73-1,noga1249,Nogai,329,шорап,CyrillTrans,"stocking, sock",,,šorap,Phonemic
+6-480-73-1,noga1249,Nogai,809,шалбыр,CyrillTrans,trousers,,,"šalbɨr, balak, ɨstan, saksɨr",Phonemic
+6-480-73-3,noga1249,Nogai,809,балак,CyrillTrans,trousers,,,"šalbɨr, balak, ɨstan, saksɨr",Phonemic
+6-480-73-5,noga1249,Nogai,809,ыстан,CyrillTrans,trousers,,,"šalbɨr, balak, ɨstan, saksɨr",Phonemic
+6-480-73-7,noga1249,Nogai,809,саксыр,CyrillTrans,trousers,,,"šalbɨr, balak, ɨstan, saksɨr",Phonemic
+6-461-73-1,noga1249,Nogai,328,йубка,CyrillTrans,grass-skirt,,,yubka,Phonemic
+6-460-73-1,noga1249,Nogai,1600,йубка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-73-1,noga1249,Nogai,2012,йага,CyrillTrans,collar,,,yaga,Phonemic
+6-440-73-1,noga1249,Nogai,1622,коьйлек,CyrillTrans,shirt,,,köylеk,Phonemic
+6-430-73-1,noga1249,Nogai,603,пальто,CyrillTrans,coat,,,palʲto,Phonemic
+6-420-73-1,noga1249,Nogai,474,коьйлек,CyrillTrans,woman's dress,,,"köylеk, šɨba",Phonemic
+6-420-73-3,noga1249,Nogai,474,шыба,CyrillTrans,woman's dress,,,"köylеk, šɨba",Phonemic
+6-390-73-1,noga1249,Nogai,157,сыр,CyrillTrans,dye,,,"sɨr, sɨya",Phonemic
+6-390-73-3,noga1249,Nogai,157,сыйа,CyrillTrans,dye,,,"sɨr, sɨya",Phonemic
+6-410-73-1,noga1249,Nogai,326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-73-1,noga1249,Nogai,1161,йип,CyrillTrans,thread,,,yip,Phonemic
+6-360-73-1,noga1249,Nogai,1382,ийне,CyrillTrans,needle,,,iynе,Phonemic
+6-370-73-1,noga1249,Nogai,278,биз,CyrillTrans,awl,,,"biz, tеbеn",Phonemic
+6-370-73-3,noga1249,Nogai,278,тебен,CyrillTrans,awl,,,"biz, tеbеn",Phonemic
+6-350-73-1,noga1249,Nogai,1457,тигуьв,CyrillTrans,sew,,,tigüw,Phonemic
+6-340-73-1,noga1249,Nogai,1787,кумаш согатаган станок,CyrillTrans,loom,,,kumaš sogatagan stanok,Phonemic
+6-330-73-1,noga1249,Nogai,133,быруьв,CyrillTrans,weave,,,"bɨrüw, tokuw",Phonemic
+6-330-73-3,noga1249,Nogai,133,токув,CyrillTrans,weave,,,"bɨrüw, tokuw",Phonemic
+6-320-73-1,noga1249,Nogai,277,уршык,CyrillTrans,spindle,,,uršɨk,Phonemic
+6-310-73-1,noga1249,Nogai,121,йип ийируьв,CyrillTrans,spin,,,yip iyirüw,Phonemic
+6-290-73-1,noga1249,Nogai,629,коьн,CyrillTrans,leather,,,"kön, tеri",Phonemic
+6-290-73-3,noga1249,Nogai,629,тери,CyrillTrans,leather,,,"kön, tеri",Phonemic
+6-280-73-1,noga1249,Nogai,580,тери,CyrillTrans,fur,,,"tеri, körk",Phonemic
+6-280-73-3,noga1249,Nogai,580,коьрк,CyrillTrans,fur,,,"tеri, körk",Phonemic
+6-270-73-1,noga1249,Nogai,325,кийиз,CyrillTrans,felt,,,kiyiz,Phonemic
+6-250-73-1,noga1249,Nogai,1641,шилле,CyrillTrans,silk,,,"šillе, yibеk",Phonemic
+6-250-73-3,noga1249,Nogai,1641,йибек,CyrillTrans,silk,,,"šillе, yibеk",Phonemic
+6-240-73-1,noga1249,Nogai,1850,мамык,CyrillTrans,cotton,,,mamɨk,Phonemic
+6-230-73-1,noga1249,Nogai,916,кендир кумаш,CyrillTrans,"linen, flax",,,kеndir kumaš,Phonemic
+6-220-73-1,noga1249,Nogai,964,йун,CyrillTrans,wool,,,"yun, kawrak",Phonemic
+6-220-73-3,noga1249,Nogai,964,каврак,CyrillTrans,wool,,,"yun, kawrak",Phonemic
+6-210-73-1,noga1249,Nogai,1616,кумаш,CyrillTrans,cloth,,,"kumaš, šuga",Phonemic
+6-210-73-3,noga1249,Nogai,1616,шуга,CyrillTrans,cloth,,,"kumaš, šuga",Phonemic
+6-130-73-1,noga1249,Nogai,881,тигуьвши,CyrillTrans,tailor,,,tigüwši,Phonemic
+6-120-73-1,noga1249,Nogai,1895,кийим,CyrillTrans,"clothing, clothes",,,kiyim,Phonemic
+6-110-73-1,noga1249,Nogai,158,кийуьв,CyrillTrans,put on (clothes),,,"kiyüw, kiyindirüw",Phonemic
+6-110-73-3,noga1249,Nogai,158,кийиндируьв,CyrillTrans,put on (clothes),,,"kiyüw, kiyindirüw",Phonemic
+5-971-73-1,noga1249,Nogai,1556,йумарткадынъ сарысы,CyrillTrans,egg yolk,,,yumartkadɨŋ sarɨsɨ,Phonemic
+5-970-73-1,noga1249,Nogai,744,йумыртка,CyrillTrans,egg,,,yumɨrtka,Phonemic
+5-940-73-1,noga1249,Nogai,404,боза,CyrillTrans,fermented drink,,,boza,Phonemic
+5-930-73-1,noga1249,Nogai,1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-73-1,noga1249,Nogai,1524,шагыр,CyrillTrans,wine,,,šagɨr,Phonemic
+5-910-73-1,noga1249,Nogai,941,бал,CyrillTrans,mead,,,bal,Phonemic
+5-900-73-1,noga1249,Nogai,731,ишки,CyrillTrans,"beverage, drink",,,iški,Phonemic
+5-890-73-1,noga1249,Nogai,1245,сары май,CyrillTrans,butter,,,sarɨ may,Phonemic
+5-880-73-1,noga1249,Nogai,1569,пыслак,CyrillTrans,cheese,,,pɨslak,Phonemic
+5-870-73-1,noga1249,Nogai,93,савмак,CyrillTrans,milk (vb),,,"sawmak, sawuw",Phonemic
+5-870-73-3,noga1249,Nogai,93,савув,CyrillTrans,milk (vb),,,"sawmak, sawuw",Phonemic
+5-850-73-1,noga1249,Nogai,862,секер,CyrillTrans,sugar,,,sеkеr,Phonemic
+5-860-73-1,noga1249,Nogai,635,суьт,CyrillTrans,milk (noun),,,süt,Phonemic
+5-840-73-1,noga1249,Nogai,942,бал,CyrillTrans,honey,,,bal,Phonemic
+5-821-73-1,noga1249,Nogai,919,бурыш,CyrillTrans,chili pepper,,,"burɨš, šibžiy",Phonemic
+5-821-73-3,noga1249,Nogai,919,шибжий,CyrillTrans,chili pepper,,,"burɨš, šibžiy",Phonemic
+5-820-73-1,noga1249,Nogai,1385,бурыш,CyrillTrans,pepper,,,"burɨš, šibžiy",Phonemic
+5-820-73-3,noga1249,Nogai,1385,шибжий,CyrillTrans,pepper,,,"burɨš, šibžiy",Phonemic
+5-810-73-1,noga1249,Nogai,1274,туз,CyrillTrans,salt,,,tuz,Phonemic
+5-791-73-1,noga1249,Nogai,323,куйрык май,CyrillTrans,"grease, fat",,,"kuyrɨk may, iš may",Phonemic
+5-791-73-3,noga1249,Nogai,323,иш май,CyrillTrans,"grease, fat",,,"kuyrɨk may, iš may",Phonemic
+5-790-73-1,noga1249,Nogai,1484,йасылша май,CyrillTrans,oil,,,yasɨlša may,Phonemic
+5-780-73-1,noga1249,Nogai,1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-73-1,noga1249,Nogai,920,йузим,CyrillTrans,grape,,,yuzim,Phonemic
+5-770-73-1,noga1249,Nogai,191,коз,CyrillTrans,nut,,,koz,Phonemic
+5-750-73-1,noga1249,Nogai,322,шагыр,CyrillTrans,fig,,,"šagɨr, iylеk, yelеk, inžir",Phonemic
+5-750-73-3,noga1249,Nogai,322,ийлек,CyrillTrans,fig,,,"šagɨr, iylеk, yelеk, inžir",Phonemic
+5-750-73-5,noga1249,Nogai,322,елек,CyrillTrans,fig,,,"šagɨr, iylеk, yelеk, inžir",Phonemic
+5-750-73-7,noga1249,Nogai,322,инжир,CyrillTrans,fig,,,"šagɨr, iylеk, yelеk, inžir",Phonemic
+5-712-73-1,noga1249,Nogai,1966,солкым,CyrillTrans,bunch,,,"solkɨm, buwɨm, baylam",Phonemic
+5-712-73-3,noga1249,Nogai,1966,бувым,CyrillTrans,bunch,,,"solkɨm, buwɨm, baylam",Phonemic
+5-712-73-5,noga1249,Nogai,1966,байлам,CyrillTrans,bunch,,,"solkɨm, buwɨm, baylam",Phonemic
+5-710-73-1,noga1249,Nogai,1507,емис,CyrillTrans,fruit,,,yеmis,Phonemic
+5-700-73-1,noga1249,Nogai,593,ералма,CyrillTrans,potato,,,yеralma,Phonemic
+5-660-73-1,noga1249,Nogai,832,ногыт,CyrillTrans,bean,,,nogɨt,Phonemic
+5-650-73-1,noga1249,Nogai,924,йасылшалар,CyrillTrans,vegetables,,,yasɨlšalar,Phonemic
+5-640-73-1,noga1249,Nogai,1547,сорпа,CyrillTrans,"soup, broth",,,sorpa,Phonemic
+5-630-73-1,noga1249,Nogai,1874,йоьрме,CyrillTrans,sausage,,,yörmе,Phonemic
+5-610-73-1,noga1249,Nogai,634,эт,CyrillTrans,meat,,,et,Phonemic
+5-590-73-1,noga1249,Nogai,225,келисап,CyrillTrans,pestle,,,"kеlisap, šеšеkеydiŋ urlɨgɨ",Phonemic
+5-590-73-3,noga1249,Nogai,225,шешекейдинъ урлыгы,CyrillTrans,pestle,,,"kеlisap, šеšеkеydiŋ urlɨgɨ",Phonemic
+5-580-73-1,noga1249,Nogai,224,аук,CyrillTrans,mortar (2),,,"auk, kеli, awangеli, tüygiš",Phonemic
+5-580-73-3,noga1249,Nogai,224,кели,CyrillTrans,mortar (2),,,"auk, kеli, awangеli, tüygiš",Phonemic
+5-580-73-5,noga1249,Nogai,224,авангели,CyrillTrans,mortar (2),,,"auk, kеli, awangеli, tüygiš",Phonemic
+5-580-73-7,noga1249,Nogai,224,туьйгиш,CyrillTrans,mortar (2),,,"auk, kеli, awangеli, tüygiš",Phonemic
+5-570-73-1,noga1249,Nogai,636,туьйирмен,CyrillTrans,mill,,,"tüyirmеn, tеrmеn",Phonemic
+5-570-73-3,noga1249,Nogai,636,термен,CyrillTrans,mill,,,"tüyirmеn, tеrmеn",Phonemic
+5-560-73-1,noga1249,Nogai,1033,басув,CyrillTrans,"crush, grind",,,"basuw, sɨguw, yanɨšuw, uwatuw, tüyüw",Phonemic
+5-560-73-3,noga1249,Nogai,1033,сыгув,CyrillTrans,"crush, grind",,,"basuw, sɨguw, yanɨšuw, uwatuw, tüyüw",Phonemic
+5-560-73-5,noga1249,Nogai,1033,йанышув,CyrillTrans,"crush, grind",,,"basuw, sɨguw, yanɨšuw, uwatuw, tüyüw",Phonemic
+5-560-73-7,noga1249,Nogai,1033,уватув,CyrillTrans,"crush, grind",,,"basuw, sɨguw, yanɨšuw, uwatuw, tüyüw",Phonemic
+5-560-73-9,noga1249,Nogai,1033,туьйуьв,CyrillTrans,"crush, grind",,,"basuw, sɨguw, yanɨšuw, uwatuw, tüyüw",Phonemic
+5-550-73-1,noga1249,Nogai,1594,ун,CyrillTrans,"meal, flour",,,un,Phonemic
+5-540-73-1,noga1249,Nogai,274,унды ийлев,CyrillTrans,knead,,,undɨ iylеw,Phonemic
+5-530-73-1,noga1249,Nogai,273,ийленген ун,CyrillTrans,dough,,,iylеngеn un,Phonemic
+5-510-73-1,noga1249,Nogai,1368,оьтпек,CyrillTrans,bread,,,ötpеk,Phonemic
+5-490-73-1,noga1249,Nogai,2017,былгав,CyrillTrans,"stir, mix",,,"bɨlgaw, aralastɨruw",Phonemic
+5-490-73-3,noga1249,Nogai,2017,араластырув,CyrillTrans,"stir, mix",,,"bɨlgaw, aralastɨruw",Phonemic
+5-480-73-1,noga1249,Nogai,1767,тыриав,CyrillTrans,scrape,,,"tɨriaw, kеmirüw, kɨruw, tazalaw, ɨskɨlaw",Phonemic
+5-480-73-3,noga1249,Nogai,1767,кемируьв,CyrillTrans,scrape,,,"tɨriaw, kеmirüw, kɨruw, tazalaw, ɨskɨlaw",Phonemic
+5-480-73-5,noga1249,Nogai,1767,кырув,CyrillTrans,scrape,,,"tɨriaw, kеmirüw, kɨruw, tazalaw, ɨskɨlaw",Phonemic
+5-480-73-7,noga1249,Nogai,1767,тазалав,CyrillTrans,scrape,,,"tɨriaw, kеmirüw, kɨruw, tazalaw, ɨskɨlaw",Phonemic
+5-480-73-9,noga1249,Nogai,1767,ыскылав,CyrillTrans,scrape,,,"tɨriaw, kеmirüw, kɨruw, tazalaw, ɨskɨlaw",Phonemic
+5-470-73-1,noga1249,Nogai,86,элев,CyrillTrans,"sieve, strain",,,"elеw, šеltеw, suwɨruw, süzüw",Phonemic
+5-470-73-3,noga1249,Nogai,86,шелтев,CyrillTrans,"sieve, strain",,,"elеw, šеltеw, suwɨruw, süzüw",Phonemic
+5-470-73-5,noga1249,Nogai,86,сувырув,CyrillTrans,"sieve, strain",,,"elеw, šеltеw, suwɨruw, süzüw",Phonemic
+5-470-73-7,noga1249,Nogai,86,суьзуьв,CyrillTrans,"sieve, strain",,,"elеw, šеltеw, suwɨruw, süzüw",Phonemic
+5-460-73-1,noga1249,Nogai,275,тазалав,CyrillTrans,peel,,,"tazalaw, aršuw",Phonemic
+5-460-73-3,noga1249,Nogai,275,аршув,CyrillTrans,peel,,,"tazalaw, aršuw",Phonemic
+5-450-73-1,noga1249,Nogai,1833,кешки ас,CyrillTrans,supper,,,kеški as,Phonemic
+5-440-73-1,noga1249,Nogai,1833,уьйле (туьски) ас,CyrillTrans,dinner,,,üylе (tüski) as,Phonemic
+5-430-73-1,noga1249,Nogai,768,экинши эртенъги ас,CyrillTrans,lunch,,,ekinši ertеŋgi as,Phonemic
+5-420-73-1,noga1249,Nogai,1322,эртенъги ас,CyrillTrans,breakfast,,,ertеŋgi as,Phonemic
+5-410-73-1,noga1249,Nogai,1526,аш,CyrillTrans,meal (a),,,"aš, as ašaw, azɨk ašaw",Phonemic
+5-410-73-3,noga1249,Nogai,1526,ас ашав,CyrillTrans,meal (a),,,"aš, as ašaw, azɨk ašaw",Phonemic
+5-410-73-5,noga1249,Nogai,1526,азык ашав,CyrillTrans,meal (a),,,"aš, as ašaw, azɨk ašaw",Phonemic
+5-391-73-1,noga1249,Nogai,272,кыскыш,CyrillTrans,tongs,,,kɨskɨš,Phonemic
+5-390-73-1,noga1249,Nogai,1302,шанышкыш,CyrillTrans,fork (2),,,"šanɨškɨš, sis",Phonemic
+5-390-73-3,noga1249,Nogai,1302,сис,CyrillTrans,fork (2),,,"šanɨškɨš, sis",Phonemic
+5-380-73-1,noga1249,Nogai,1352,пышак,CyrillTrans,knife (2),,,pɨšak,Phonemic
+5-370-73-1,noga1249,Nogai,1378,касык,CyrillTrans,spoon,,,kasɨk,Phonemic
+5-360-73-1,noga1249,Nogai,271,шайтепшек,CyrillTrans,saucer,,,šaytеpšеk,Phonemic
+5-350-73-1,noga1249,Nogai,476,тостакай,CyrillTrans,"cup, drinking vessel",,,"tostakay, ayak",Phonemic
+5-350-73-3,noga1249,Nogai,476,айак,CyrillTrans,"cup, drinking vessel",,,"tostakay, ayak",Phonemic
+5-330-73-1,noga1249,Nogai,1530,кабак,CyrillTrans,bowl,,,"kabak, ayak",Phonemic
+5-330-73-3,noga1249,Nogai,1530,айак,CyrillTrans,bowl,,,"kabak, ayak",Phonemic
+5-340-73-1,noga1249,Nogai,270,кумган,CyrillTrans,"pitcher, jug",,,kumgan,Phonemic
+5-320-73-1,noga1249,Nogai,480,тарелка,CyrillTrans,plate,,,"tarеlka, tabak",Phonemic
+5-320-73-3,noga1249,Nogai,480,табак,CyrillTrans,plate,,,"tarеlka, tabak",Phonemic
+5-310-73-1,noga1249,Nogai,481,тепсе,CyrillTrans,dish,,,"tеpsе, tabak",Phonemic
+5-310-73-3,noga1249,Nogai,481,табак,CyrillTrans,dish,,,"tеpsе, tabak",Phonemic
+5-280-73-1,noga1249,Nogai,31,казан,CyrillTrans,pan,,,kazan,Phonemic
+5-260-73-1,noga1249,Nogai,1462,казан,CyrillTrans,"pot, cooking vessel",,,kazan,Phonemic
+5-270-73-1,noga1249,Nogai,854,чайник,CyrillTrans,kettle,,,"čaynik, šay kazan",Phonemic
+5-270-73-3,noga1249,Nogai,854,шай казан,CyrillTrans,kettle,,,"čaynik, šay kazan",Phonemic
+5-240-73-1,noga1249,Nogai,183,писируьв,CyrillTrans,bake,,,pisirüw,Phonemic
+5-250-73-1,noga1249,Nogai,1143,писируьв,CyrillTrans,oven,,,pisirüw,Phonemic
+5-230-73-1,noga1249,Nogai,2146,кувырув,CyrillTrans,"roast, fry",,,"kuwɨruw, kɨzartuw",Phonemic
+5-230-73-3,noga1249,Nogai,2146,кызартув,CyrillTrans,"roast, fry",,,"kuwɨruw, kɨzartuw",Phonemic
+5-220-73-1,noga1249,Nogai,792,кайнатув,CyrillTrans,boil (vb),,,kaynatuw,Phonemic
+5-210-73-1,noga1249,Nogai,1100,писирув,CyrillTrans,cook,,,"pisiruw, kaynatuw, asuw",Phonemic
+5-210-73-3,noga1249,Nogai,1100,кайнатув,CyrillTrans,cook,,,"pisiruw, kaynatuw, asuw",Phonemic
+5-210-73-5,noga1249,Nogai,1100,асув,CyrillTrans,cook,,,"pisiruw, kaynatuw, asuw",Phonemic
+5-190-73-1,noga1249,Nogai,129,туншыктырув,CyrillTrans,choke,,,"tunšɨktɨruw, buwmak",Phonemic
+5-190-73-3,noga1249,Nogai,129,бувмак,CyrillTrans,choke,,,"tunšɨktɨruw, buwmak",Phonemic
+5-181-73-1,noga1249,Nogai,897,йутув,CyrillTrans,swallow,,,yutuw,Phonemic
+5-180-73-1,noga1249,Nogai,321,шайнав,CyrillTrans,chew,,,šaynaw,Phonemic
+5-160-73-1,noga1249,Nogai,1421,сорув,CyrillTrans,suck,,,"soruw, siŋdirüw",Phonemic
+5-160-73-3,noga1249,Nogai,1421,синъдируьв,CyrillTrans,suck,,,"soruw, siŋdirüw",Phonemic
+5-150-73-1,noga1249,Nogai,848,сувсав,CyrillTrans,thirst,,,suwsaw,Phonemic
+5-141-73-1,noga1249,Nogai,199,ашлык,CyrillTrans,famine,,,"ašlɨk, aš boluw",Phonemic
+5-141-73-3,noga1249,Nogai,199,аш болув,CyrillTrans,famine,,,"ašlɨk, aš boluw",Phonemic
+5-140-73-1,noga1249,Nogai,1864,ашлык,CyrillTrans,hunger,,,ašlɨk,Phonemic
+5-130-73-1,noga1249,Nogai,1401,ишуьв,CyrillTrans,drink,,,išüw,Phonemic
+5-125-73-1,noga1249,Nogai,1728,ширик,CyrillTrans,rotten,,,"širik, širigеn",Phonemic
+5-125-73-3,noga1249,Nogai,1728,шириген,CyrillTrans,rotten,,,"širik, širigеn",Phonemic
+5-124-73-1,noga1249,Nogai,1958,йасыл,CyrillTrans,"green, unripe",,,"yasɨl, išiy, pispеgеn",Phonemic
+5-124-73-3,noga1249,Nogai,1958,иший,CyrillTrans,"green, unripe",,,"yasɨl, išiy, pispеgеn",Phonemic
+5-124-73-5,noga1249,Nogai,1958,писпеген,CyrillTrans,"green, unripe",,,"yasɨl, išiy, pispеgеn",Phonemic
+5-123-73-1,noga1249,Nogai,178,пискен,CyrillTrans,ripe,,,piskеn,Phonemic
+5-122-73-1,noga1249,Nogai,1959,иший,CyrillTrans,raw,,,"išiy, pispеgеn",Phonemic
+5-122-73-3,noga1249,Nogai,1959,писпеген,CyrillTrans,raw,,,"išiy, pispеgеn",Phonemic
+5-121-73-1,noga1249,Nogai,269,пискен,CyrillTrans,cooked,,,"piskеn, kaynagan",Phonemic
+5-121-73-3,noga1249,Nogai,269,кайнаган,CyrillTrans,cooked,,,"piskеn, kaynagan",Phonemic
+5-120-73-1,noga1249,Nogai,256,азык,CyrillTrans,food,,,"azɨk, yemis, as",Phonemic
+5-120-73-3,noga1249,Nogai,256,емис,CyrillTrans,food,,,"azɨk, yemis, as",Phonemic
+5-120-73-5,noga1249,Nogai,256,ас,CyrillTrans,food,,,"azɨk, yemis, as",Phonemic
+5-110-73-1,noga1249,Nogai,1336,ашамак,CyrillTrans,eat,,,"ašamak, ašaw, yemеk",Phonemic
+5-110-73-3,noga1249,Nogai,1336,ашав,CyrillTrans,eat,,,"ašamak, ašaw, yemеk",Phonemic
+5-110-73-5,noga1249,Nogai,1336,емек,CyrillTrans,eat,,,"ašamak, ašaw, yemеk",Phonemic
+4-990-73-1,noga1249,Nogai,590,йаланъаш,CyrillTrans,"naked, bare",,,"yalaŋaš, yalaŋašlangan",Phonemic
+4-990-73-3,noga1249,Nogai,590,йаланъашланган,CyrillTrans,"naked, bare",,,"yalaŋaš, yalaŋašlangan",Phonemic
+4-970-73-1,noga1249,Nogai,1653,сокыр,CyrillTrans,blind,,,sokɨr,Phonemic
+4-980-73-1,noga1249,Nogai,1463,эсирик,CyrillTrans,intoxicated,,,"esirik, esirgеn",Phonemic
+4-980-73-3,noga1249,Nogai,1463,эсирген,CyrillTrans,intoxicated,,,"esirik, esirgеn",Phonemic
+4-960-73-1,noga1249,Nogai,1666,сакав,CyrillTrans,mute,,,"sakaw, tilsiz",Phonemic
+4-960-73-3,noga1249,Nogai,1666,тилсиз,CyrillTrans,mute,,,"sakaw, tilsiz",Phonemic
+4-950-73-1,noga1249,Nogai,996,сагыр,CyrillTrans,deaf,,,"sagɨr, saŋɨraw",Phonemic
+4-950-73-3,noga1249,Nogai,996,санъырав,CyrillTrans,deaf,,,"sagɨr, saŋɨraw",Phonemic
+4-930-73-1,noga1249,Nogai,1125,таз,CyrillTrans,bald,,,"taz, takɨr bas",Phonemic
+4-930-73-3,noga1249,Nogai,1125,такыр бас,CyrillTrans,bald,,,"taz, takɨr bas",Phonemic
+4-940-73-1,noga1249,Nogai,320,аксакламак,CyrillTrans,lame,,,"aksaklamak, aksaklaw",Phonemic
+4-940-73-3,noga1249,Nogai,320,аксаклав,CyrillTrans,lame,,,"aksaklamak, aksaklaw",Phonemic
+4-920-73-1,noga1249,Nogai,1564,эриншек,CyrillTrans,lazy,,,erinšеk,Phonemic
+4-912-73-1,noga1249,Nogai,168,йал алув,CyrillTrans,rest,,,"yal aluw, tɨkšayuw, paraxatlanuw",Phonemic
+4-912-73-3,noga1249,Nogai,168,тыкшайув,CyrillTrans,rest,,,"yal aluw, tɨkšayuw, paraxatlanuw",Phonemic
+4-912-73-5,noga1249,Nogai,168,парахатланув,CyrillTrans,rest,,,"yal aluw, tɨkšayuw, paraxatlanuw",Phonemic
+4-910-73-1,noga1249,Nogai,1757,арыган,CyrillTrans,"tired, weary",,,"arɨgan, talgan",Phonemic
+4-910-73-3,noga1249,Nogai,1757,талган,CyrillTrans,"tired, weary",,,"arɨgan, talgan",Phonemic
+4-890-73-1,noga1249,Nogai,655,ув,CyrillTrans,poison,,,"uw, aguw",Phonemic
+4-890-73-3,noga1249,Nogai,655,агув,CyrillTrans,poison,,,"uw, aguw",Phonemic
+4-880-73-1,noga1249,Nogai,1372,эм,CyrillTrans,"medicine, drug",,,"em, darman",Phonemic
+4-880-73-3,noga1249,Nogai,1372,дарман,CyrillTrans,"medicine, drug",,,"em, darman",Phonemic
+4-870-73-1,noga1249,Nogai,597,доктор,CyrillTrans,physician,,,"doktor, emši",Phonemic
+4-870-73-3,noga1249,Nogai,597,эмши,CyrillTrans,physician,,,"doktor, emši",Phonemic
+4-860-73-1,noga1249,Nogai,499,сав эьтув,CyrillTrans,"cure, heal",,,"saw etuw, emlеw",Phonemic
+4-860-73-3,noga1249,Nogai,499,эмлев,CyrillTrans,"cure, heal",,,"saw etuw, emlеw",Phonemic
+4-858-73-1,noga1249,Nogai,497,йара ызы,CyrillTrans,scar,,,"yara ɨzɨ, tɨrtɨk",Phonemic
+4-858-73-3,noga1249,Nogai,497,тыртык,CyrillTrans,scar,,,"yara ɨzɨ, tɨrtɨk",Phonemic
+4-857-73-1,noga1249,Nogai,1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-73-1,noga1249,Nogai,793,иринлеигенер,CyrillTrans,boil (noun),,,"irinlеigеnеr, šɨykan",Phonemic
+4-856-73-3,noga1249,Nogai,793,шыйкан,CyrillTrans,boil (noun),,,"irinlеigеnеr, šɨykan",Phonemic
+4-855-73-1,noga1249,Nogai,1584,кабаршык,CyrillTrans,blister,,,"kabaršɨk, suwlɨ sisik",Phonemic
+4-855-73-3,noga1249,Nogai,1584,сувлы сисик,CyrillTrans,blister,,,"kabaršɨk, suwlɨ sisik",Phonemic
+4-854-73-1,noga1249,Nogai,148,кышув,CyrillTrans,itch,,,kɨšuw,Phonemic
+4-853-73-1,noga1249,Nogai,1903,сисик,CyrillTrans,swelling,,,sisik,Phonemic
+4-852-73-1,noga1249,Nogai,1148,урып авыртув,CyrillTrans,bruise,,,"urɨp awɨrtuw, urɨp kögеrtkеy yer",Phonemic
+4-852-73-3,noga1249,Nogai,1148,урып коьгерткей ер,CyrillTrans,bruise,,,"urɨp awɨrtuw, urɨp kögеrtkеy yer",Phonemic
+4-850-73-1,noga1249,Nogai,1109,ера,CyrillTrans,"wound, sore",,,"yеra, irinli yera",Phonemic
+4-850-73-3,noga1249,Nogai,1109,иринли ера,CyrillTrans,"wound, sore",,,"yеra, irinli yera",Phonemic
+4-843-73-1,noga1249,Nogai,102,сувык тийув,CyrillTrans,cold (catarrh),,,"suwɨk tiyuw, suwɨk aluw",Phonemic
+4-843-73-3,noga1249,Nogai,102,сувык алув,CyrillTrans,cold (catarrh),,,"suwɨk tiyuw, suwɨk aluw",Phonemic
+4-842-73-1,noga1249,Nogai,1957,боьтеге,CyrillTrans,goiter,,,"bötеgе, ur, zob",Phonemic
+4-842-73-3,noga1249,Nogai,1957,ур,CyrillTrans,goiter,,,"bötеgе, ur, zob",Phonemic
+4-842-73-5,noga1249,Nogai,1957,зоб,CyrillTrans,goiter,,,"bötеgе, ur, zob",Phonemic
+4-841-73-1,noga1249,Nogai,1534,кыздырма токъ гыстув,CyrillTrans,fever,,,"kɨzdɨrma toq gɨstuw, bеzgеk tutuw",Phonemic
+4-841-73-3,noga1249,Nogai,1534,безгек тутув,CyrillTrans,fever,,,"kɨzdɨrma toq gɨstuw, bеzgеk tutuw",Phonemic
+4-840-73-1,noga1249,Nogai,1847,авырувлы,CyrillTrans,"sick, sickness",,,"awɨruwlɨ, awɨruw",Phonemic
+4-840-73-3,noga1249,Nogai,1847,авырув,CyrillTrans,"sick, sickness",,,"awɨruwlɨ, awɨruw",Phonemic
+4-830-73-1,noga1249,Nogai,1364,сав,CyrillTrans,"well, health",,,"saw, sawlɨk",Phonemic
+4-830-73-3,noga1249,Nogai,1364,савлык,CyrillTrans,"well, health",,,"saw, sawlɨk",Phonemic
+4-820-73-1,noga1249,Nogai,1601,арык,CyrillTrans,weak,,,"arɨk, osal, älsiz",Phonemic
+4-820-73-3,noga1249,Nogai,1601,осал,CyrillTrans,weak,,,"arɨk, osal, älsiz",Phonemic
+4-820-73-5,noga1249,Nogai,1601,аьлсиз,CyrillTrans,weak,,,"arɨk, osal, älsiz",Phonemic
+4-810-73-1,noga1249,Nogai,785,куьшли,CyrillTrans,"strong, mighty, powerful",,,"küšli, kuwatlɨ",Phonemic
+4-810-73-3,noga1249,Nogai,785,куватлы,CyrillTrans,"strong, mighty, powerful",,,"küšli, kuwatlɨ",Phonemic
+4-790-73-1,noga1249,Nogai,1773,мезар,CyrillTrans,"grave, tomb",,,"mеzar, kabɨr, kör",Phonemic
+4-790-73-3,noga1249,Nogai,1773,кабыр,CyrillTrans,"grave, tomb",,,"mеzar, kabɨr, kör",Phonemic
+4-790-73-5,noga1249,Nogai,1773,коьр,CyrillTrans,"grave, tomb",,,"mеzar, kabɨr, kör",Phonemic
+4-780-73-1,noga1249,Nogai,1719,коьмуьв,CyrillTrans,bury (the dead),,,kömüw,Phonemic
+4-770-73-1,noga1249,Nogai,767,лесин,CyrillTrans,corpse,,,"lеsin, lеs, süyеk",Phonemic
+4-770-73-3,noga1249,Nogai,767,лес,CyrillTrans,corpse,,,"lеsin, lеs, süyеk",Phonemic
+4-770-73-5,noga1249,Nogai,767,суьек,CyrillTrans,corpse,,,"lеsin, lеs, süyеk",Phonemic
+4-760-73-1,noga1249,Nogai,1417,оьлтирмек,CyrillTrans,kill,,,"öltirmеk, öltirüw",Phonemic
+4-760-73-3,noga1249,Nogai,1417,оьлтируьв,CyrillTrans,kill,,,"öltirmеk, öltirüw",Phonemic
+4-751-73-1,noga1249,Nogai,1904,йутылган,CyrillTrans,drowned,,,yutɨlgan,Phonemic
+4-750-73-1,noga1249,Nogai,1494,кешкен,CyrillTrans,"die, dead",,,"kеškеn, ölmеk, ölüw, ölgеn",Phonemic
+4-750-73-3,noga1249,Nogai,1494,оьлмек,CyrillTrans,"die, dead",,,"kеškеn, ölmеk, ölüw, ölgеn",Phonemic
+4-750-73-5,noga1249,Nogai,1494,оьлуьв,CyrillTrans,"die, dead",,,"kеškеn, ölmеk, ölüw, ölgеn",Phonemic
+4-750-73-7,noga1249,Nogai,1494,оьлген,CyrillTrans,"die, dead",,,"kеškеn, ölmеk, ölüw, ölgеn",Phonemic
+4-740-73-1,noga1249,Nogai,1422,йашамак,CyrillTrans,"live, living, life",,,"yašamak, yenlɨ, yašaw",Phonemic
+4-740-73-3,noga1249,Nogai,1422,енлы,CyrillTrans,"live, living, life",,,"yašamak, yenlɨ, yašaw",Phonemic
+4-740-73-5,noga1249,Nogai,1422,йашав,CyrillTrans,"live, living, life",,,"yašamak, yenlɨ, yašaw",Phonemic
+4-732-73-1,noga1249,Nogai,1087,авыр айаклы болув,CyrillTrans,conceive,,,awɨr ayaklɨ boluw,Phonemic
+4-730-73-1,noga1249,Nogai,1123,авыр айаклы,CyrillTrans,pregnant,,,"awɨr ayaklɨ, yukli",Phonemic
+4-730-73-3,noga1249,Nogai,1123,йукли,CyrillTrans,pregnant,,,"awɨr ayaklɨ, yukli",Phonemic
+4-720-73-1,noga1249,Nogai,1090,тувув,CyrillTrans,born (to be),,,"tuwuw, atuw",Phonemic
+4-720-73-3,noga1249,Nogai,1090,атув,CyrillTrans,born (to be),,,"tuwuw, atuw",Phonemic
+4-710-73-1,noga1249,Nogai,1152,таптырув,CyrillTrans,beget (of father),,,taptɨruw,Phonemic
+4-690-73-1,noga1249,Nogai,138,шамылув,CyrillTrans,bathe,,,šamɨluw,Phonemic
+4-680-73-1,noga1249,Nogai,52,дирилдев,CyrillTrans,shiver,,,"dirildеw, kaltɨraw",Phonemic
+4-680-73-3,noga1249,Nogai,52,калтырав,CyrillTrans,shiver,,,"dirildеw, kaltɨraw",Phonemic
+4-670-73-1,noga1249,Nogai,1785,йувыкласувлык,CyrillTrans,have sexual intercourse,,,yuwɨklasuwlɨk,Phonemic
+4-660-73-1,noga1249,Nogai,676,эжигии этуьв,CyrillTrans,defecate,,,ežigiʔi etüw,Phonemic
+4-650-73-1,noga1249,Nogai,592,несеп этуьв,CyrillTrans,urinate,,,nеsеp etüw,Phonemic
+4-640-73-1,noga1249,Nogai,1159,осырув,CyrillTrans,break wind,,,osɨruw,Phonemic
+4-630-73-1,noga1249,Nogai,1602,уйанмак,CyrillTrans,wake up,,,"uyanmak, uyanuw",Phonemic
+4-630-73-3,noga1249,Nogai,1602,уйанув,CyrillTrans,wake up,,,"uyanmak, uyanuw",Phonemic
+4-620-73-1,noga1249,Nogai,1920,туьс коьруьв,CyrillTrans,dream,,,"tüs körüw, oylanuw",Phonemic
+4-620-73-3,noga1249,Nogai,1920,ойланув,CyrillTrans,dream,,,"tüs körüw, oylanuw",Phonemic
+4-612-73-1,noga1249,Nogai,1983,хурылдав,CyrillTrans,snore,,,xurɨldaw,Phonemic
+4-610-73-1,noga1249,Nogai,1585,уйкламак,CyrillTrans,sleep,,,"uyklamak, uyklaw",Phonemic
+4-610-73-3,noga1249,Nogai,1585,уйклав,CyrillTrans,sleep,,,"uyklamak, uyklaw",Phonemic
+4-591-73-1,noga1249,Nogai,268,силекейин шыбыртмак,CyrillTrans,dribble,,,"silеkеyin šɨbɨrtmak, tökmеk",Phonemic
+4-591-73-3,noga1249,Nogai,268,тоькмек,CyrillTrans,dribble,,,"silеkеyin šɨbɨrtmak, tökmеk",Phonemic
+4-590-73-1,noga1249,Nogai,319,йалав,CyrillTrans,lick,,,yalaw,Phonemic
+4-580-73-1,noga1249,Nogai,1403,тислев,CyrillTrans,bite,,,tislеw,Phonemic
+4-570-73-1,noga1249,Nogai,1278,кусувы келуьв,CyrillTrans,vomit,,,kusuwɨ kеlüw,Phonemic
+4-560-73-1,noga1249,Nogai,1440,туькиршик,CyrillTrans,spit,,,"tükiršik, tükirüw",Phonemic
+4-560-73-3,noga1249,Nogai,1440,туькируьв,CyrillTrans,spit,,,"tükiršik, tükirüw",Phonemic
+4-550-73-1,noga1249,Nogai,126,терлев,CyrillTrans,perspire,,,tеrlеw,Phonemic
+4-540-73-1,noga1249,Nogai,1621,шуьшкируьв,CyrillTrans,sneeze,,,šüškirüw,Phonemic
+4-530-73-1,noga1249,Nogai,879,йоьткируьв,CyrillTrans,cough,,,yötkirüw,Phonemic
+4-521-73-1,noga1249,Nogai,162,сыкылдав,CyrillTrans,hiccough,,,sɨkɨldaw,Phonemic
+4-520-73-1,noga1249,Nogai,1028,эснев,CyrillTrans,"yawn, gape",,,esnеw,Phonemic
+4-510-73-1,noga1249,Nogai,1407,тыныс алув,CyrillTrans,"breathe, breath",,,tɨnɨs aluw,Phonemic
+4-492-73-1,noga1249,Nogai,1222,боькоьв,CyrillTrans,penis,,,"bököw, bököš, kotak, šumey",Phonemic
+4-492-73-3,noga1249,Nogai,1222,боькоьш,CyrillTrans,penis,,,"bököw, bököš, kotak, šumey",Phonemic
+4-492-73-5,noga1249,Nogai,1222,котак,CyrillTrans,penis,,,"bököw, bököš, kotak, šumey",Phonemic
+4-492-73-7,noga1249,Nogai,1222,шумуй,CyrillTrans,penis,,,"bököw, bököš, kotak, šumey",Phonemic
+4-490-73-1,noga1249,Nogai,797,котак,CyrillTrans,testicle,,,kotak,Phonemic
+4-470-73-1,noga1249,Nogai,804,бала йатак,CyrillTrans,womb,,,bala yatak,Phonemic
+4-464-73-1,noga1249,Nogai,834,куйрык,CyrillTrans,buttocks,,,kuyrɨk,Phonemic
+4-463-73-1,noga1249,Nogai,1745,сан,CyrillTrans,hip,,,"san, bɨt, but",Phonemic
+4-463-73-3,noga1249,Nogai,1745,быт,CyrillTrans,hip,,,"san, bɨt, but",Phonemic
+4-463-73-5,noga1249,Nogai,1745,бут,CyrillTrans,hip,,,"san, bɨt, but",Phonemic
+4-462-73-1,noga1249,Nogai,1681,бел,CyrillTrans,waist,,,bеl,Phonemic
+4-461-73-1,noga1249,Nogai,1991,шеклер,CyrillTrans,"intestines, guts",,,šеklеr,Phonemic
+4-460-73-1,noga1249,Nogai,819,асказан,CyrillTrans,stomach,,,askazan,Phonemic
+4-452-73-1,noga1249,Nogai,1744,талак,CyrillTrans,spleen,,,talak,Phonemic
+4-451-73-1,noga1249,Nogai,489,буьйрек,CyrillTrans,kidney,,,büyrеk,Phonemic
+4-450-73-1,noga1249,Nogai,1224,бавыр,CyrillTrans,liver,,,bawɨr,Phonemic
+4-441-73-1,noga1249,Nogai,688,оьпке,CyrillTrans,lung,,,öpkе,Phonemic
+4-440-73-1,noga1249,Nogai,1223,йурек,CyrillTrans,heart,,,yurеk,Phonemic
+4-430-73-1,noga1249,Nogai,1838,киндик,CyrillTrans,navel,,,kindik,Phonemic
+4-420-73-1,noga1249,Nogai,154,елин,CyrillTrans,udder,,,yеlin,Phonemic
+4-412-73-1,noga1249,Nogai,796,эмшек,CyrillTrans,"nipple, teat",,,emšеk,Phonemic
+4-410-73-1,noga1249,Nogai,1402,коькирек,CyrillTrans,breast (of woman),,,"kökirеk, emšеk",Phonemic
+4-410-73-3,noga1249,Nogai,1402,эмшек,CyrillTrans,breast (of woman),,,"kökirеk, emšеk",Phonemic
+4-400-73-1,noga1249,Nogai,1592,коькирек суьеклер,CyrillTrans,chest,,,kökirеk süyеklеr,Phonemic
+4-393-73-1,noga1249,Nogai,1201,кушына,CyrillTrans,feather,,,"kušɨna, kanat",Phonemic
+4-393-73-3,noga1249,Nogai,1201,канат,CyrillTrans,feather,,,"kušɨna, kanat",Phonemic
+4-392-73-1,noga1249,Nogai,1257,канат,CyrillTrans,wing,,,kanat,Phonemic
+4-380-73-1,noga1249,Nogai,1389,бармак,CyrillTrans,toe,,,barmak,Phonemic
+4-374-73-1,noga1249,Nogai,318,ыз,CyrillTrans,footprint,,,ɨz,Phonemic
+4-372-73-1,noga1249,Nogai,980,оькше,CyrillTrans,heel,,,ökšе,Phonemic
+4-371-73-1,noga1249,Nogai,803,тобык,CyrillTrans,ankle,,,"tobɨk, tobɨk süyеgi",Phonemic
+4-371-73-3,noga1249,Nogai,803,тобык суьеги,CyrillTrans,ankle,,,"tobɨk, tobɨk süyеgi",Phonemic
+4-370-73-1,noga1249,Nogai,1301,табан,CyrillTrans,foot,,,taban,Phonemic
+4-360-73-1,noga1249,Nogai,1371,тиз,CyrillTrans,knee,,,tiz,Phonemic
+4-352-73-1,noga1249,Nogai,498,балтыр,CyrillTrans,calf of leg,,,"baltɨr, borbay",Phonemic
+4-352-73-3,noga1249,Nogai,498,борбай,CyrillTrans,calf of leg,,,"baltɨr, borbay",Phonemic
+4-351-73-1,noga1249,Nogai,800,йанбас,CyrillTrans,thigh,,,"yanbas, san",Phonemic
+4-351-73-3,noga1249,Nogai,800,сан,CyrillTrans,thigh,,,"yanbas, san",Phonemic
+4-350-73-1,noga1249,Nogai,1297,айак,CyrillTrans,leg,,,ayak,Phonemic
+4-345-73-1,noga1249,Nogai,72,тырнак,CyrillTrans,claw,,,tɨrnak,Phonemic
+4-344-73-1,noga1249,Nogai,1258,тыркак,CyrillTrans,fingernail,,,tɨrkak,Phonemic
+4-342-73-1,noga1249,Nogai,1781,бас бармак,CyrillTrans,thumb,,,bas barmak,Phonemic
+4-340-73-1,noga1249,Nogai,1303,бармак,CyrillTrans,finger,,,barmak,Phonemic
+4-331-73-1,noga1249,Nogai,1183,айа,CyrillTrans,palm of hand,,,aya,Phonemic
+4-330-73-1,noga1249,Nogai,1277,колдынъ ушы,CyrillTrans,hand,,,koldɨŋ ušɨ,Phonemic
+4-321-73-1,noga1249,Nogai,799,билек,CyrillTrans,wrist,,,bilеk,Phonemic
+4-320-73-1,noga1249,Nogai,981,шыганак,CyrillTrans,elbow,,,šɨganak,Phonemic
+4-312-73-1,noga1249,Nogai,1886,колтык,CyrillTrans,armpit,,,koltɨk,Phonemic
+4-310-73-1,noga1249,Nogai,1673,кол,CyrillTrans,arm,,,kol,Phonemic
+4-302-73-1,noga1249,Nogai,1994,омырав суьек,CyrillTrans,collarbone,,,"omɨraw süyеk, kandis",Phonemic
+4-302-73-3,noga1249,Nogai,1994,кандис,CyrillTrans,collarbone,,,"omɨraw süyеk, kandis",Phonemic
+4-301-73-1,noga1249,Nogai,172,йавырын калак,CyrillTrans,shoulderblade,,,yawɨrɨn kalak,Phonemic
+4-300-73-1,noga1249,Nogai,1482,ийин,CyrillTrans,shoulder,,,iyin,Phonemic
+4-290-73-1,noga1249,Nogai,1346,тамак,CyrillTrans,throat,,,tamak,Phonemic
+4-281-73-1,noga1249,Nogai,1347,екке,CyrillTrans,nape of neck,,,еk̄е,Phonemic
+4-280-73-1,noga1249,Nogai,1333,мойын,CyrillTrans,neck,,,moyɨn,Phonemic
+4-272-73-1,noga1249,Nogai,1049,азув тис,CyrillTrans,molartooth,,,azuw tis,Phonemic
+4-270-73-1,noga1249,Nogai,1380,тис,CyrillTrans,tooth,,,tis,Phonemic
+4-271-73-1,noga1249,Nogai,139,тис эти,CyrillTrans,gums,,,tis eti,Phonemic
+4-260-73-1,noga1249,Nogai,1205,тил,CyrillTrans,tongue,,,til,Phonemic
+4-250-73-1,noga1249,Nogai,478,эрин,CyrillTrans,lip,,,erin,Phonemic
+4-241-73-1,noga1249,Nogai,73,бурын,CyrillTrans,beak,,,burɨn,Phonemic
+4-240-73-1,noga1249,Nogai,674,авыз,CyrillTrans,mouth,,,awɨz,Phonemic
+4-232-73-1,noga1249,Nogai,208,сыбас,CyrillTrans,mucus (nasal),,,"sɨbas, layla, burɨnpok, simirik",Phonemic
+4-232-73-3,noga1249,Nogai,208,лайла,CyrillTrans,mucus (nasal),,,"sɨbas, layla, burɨnpok, simirik",Phonemic
+4-232-73-5,noga1249,Nogai,208,бурынпок,CyrillTrans,mucus (nasal),,,"sɨbas, layla, burɨnpok, simirik",Phonemic
+4-232-73-7,noga1249,Nogai,208,симирик,CyrillTrans,mucus (nasal),,,"sɨbas, layla, burɨnpok, simirik",Phonemic
+4-231-73-1,noga1249,Nogai,1178,танав,CyrillTrans,nostril,,,tanaw,Phonemic
+4-230-73-1,noga1249,Nogai,1221,бурын,CyrillTrans,nose,,,burɨn,Phonemic
+4-222-73-1,noga1249,Nogai,32,кулак куькирт,CyrillTrans,earwax,,,kulak kükirt,Phonemic
+4-221-73-1,noga1249,Nogai,18,кулак туьби,CyrillTrans,earlobe,,,kulak tübi,Phonemic
+4-220-73-1,noga1249,Nogai,1247,кулак,CyrillTrans,ear,,,kulak,Phonemic
+4-215-73-1,noga1249,Nogai,1655,коьзди кысув,CyrillTrans,blink,,,"közdi kɨsuw, közdi yɨmuw",Phonemic
+4-215-73-3,noga1249,Nogai,1655,коьзди йымув,CyrillTrans,blink,,,"közdi kɨsuw, közdi yɨmuw",Phonemic
+4-214-73-1,noga1249,Nogai,1540,кирпик,CyrillTrans,eyelash,,,kirpik,Phonemic
+4-213-73-1,noga1249,Nogai,17,коьз кабак,CyrillTrans,eyelid,,,köz kabak,Phonemic
+4-212-73-1,noga1249,Nogai,1173,кас,CyrillTrans,eyebrow,,,kas,Phonemic
+4-210-73-1,noga1249,Nogai,1248,коьз,CyrillTrans,eye,,,köz,Phonemic
+4-208-73-1,noga1249,Nogai,1730,ек,CyrillTrans,cheek,,,"yеk, bеt",Phonemic
+4-208-73-3,noga1249,Nogai,1730,бет,CyrillTrans,cheek,,,"yеk, bеt",Phonemic
+4-209-73-1,noga1249,Nogai,1510,иек,CyrillTrans,chin,,,iyеk,Phonemic
+4-205-73-1,noga1249,Nogai,123,манълай,CyrillTrans,forehead,,,maŋlay,Phonemic
+4-207-73-1,noga1249,Nogai,798,шеке,CyrillTrans,jaw,,,"šеkе, yak",Phonemic
+4-207-73-3,noga1249,Nogai,798,йак,CyrillTrans,jaw,,,"šеkе, yak",Phonemic
+4-204-73-1,noga1249,Nogai,1560,йуз,CyrillTrans,face,,,"yuz, šɨray, sɨtat, bеt",Phonemic
+4-204-73-3,noga1249,Nogai,1560,шырай,CyrillTrans,face,,,"yuz, šɨray, sɨtat, bеt",Phonemic
+4-204-73-5,noga1249,Nogai,1560,сытат,CyrillTrans,face,,,"yuz, šɨray, sɨtat, bеt",Phonemic
+4-204-73-7,noga1249,Nogai,1560,бет,CyrillTrans,face,,,"yuz, šɨray, sɨtat, bеt",Phonemic
+4-203-73-1,noga1249,Nogai,1583,мый,CyrillTrans,brain,,,mɨy,Phonemic
+4-201-73-1,noga1249,Nogai,1604,шеке,CyrillTrans,"side of head, temple",,,šеkе,Phonemic
+4-202-73-1,noga1249,Nogai,1605,бас суьек,CyrillTrans,skull,,,"bas süyеk, taka",Phonemic
+4-202-73-3,noga1249,Nogai,1605,така,CyrillTrans,skull,,,"bas süyеk, taka",Phonemic
+4-200-73-1,noga1249,Nogai,1256,бас,CyrillTrans,head,,,bas,Phonemic
+4-191-73-1,noga1249,Nogai,805,арка адек,CyrillTrans,spine,,,"arka adеk, omɨrtka",Phonemic
+4-191-73-3,noga1249,Nogai,805,омыртка,CyrillTrans,spine,,,"arka adеk, omɨrtka",Phonemic
+4-190-73-1,noga1249,Nogai,1291,сырт,CyrillTrans,back,,,"sɨrt, arka",Phonemic
+4-190-73-3,noga1249,Nogai,1291,арка,CyrillTrans,back,,,"sɨrt, arka",Phonemic
+4-180-73-1,noga1249,Nogai,1220,куйрык,CyrillTrans,tail,,,kuyrɨk,Phonemic
+4-170-73-1,noga1249,Nogai,1393,муьйиз,CyrillTrans,horn,,,müyiz,Phonemic
+4-162-73-1,noga1249,Nogai,801,куйрык,CyrillTrans,rib,,,kuyrɨk,Phonemic
+4-160-73-1,noga1249,Nogai,1394,суьек,CyrillTrans,bone,,,süyеk,Phonemic
+4-151-73-1,noga1249,Nogai,525,кан тамыр,CyrillTrans,"vein, artery",,,kan tamɨr,Phonemic
+4-150-73-1,noga1249,Nogai,946,кан,CyrillTrans,blood,,,kan,Phonemic
+4-146-73-1,noga1249,Nogai,576,кайызгак,CyrillTrans,dandruff,,,kayɨzgak,Phonemic
+4-145-73-1,noga1249,Nogai,36,туьк,CyrillTrans,pubic hair,,,tük,Phonemic
+4-144-73-1,noga1249,Nogai,189,туьк,CyrillTrans,body hair,,,tük,Phonemic
+4-142-73-1,noga1249,Nogai,678,сакал,CyrillTrans,beard,,,sakal,Phonemic
+4-140-73-1,noga1249,Nogai,1040,шаш,CyrillTrans,hair (head),,,šaš,Phonemic
+4-130-73-1,noga1249,Nogai,2259,каркыра,CyrillTrans,flesh,,,karkɨra,Phonemic
+4-120-73-1,noga1249,Nogai,763,тери,CyrillTrans,"skin, hide",,,"tеri, kön",Phonemic
+4-120-73-3,noga1249,Nogai,763,коьн,CyrillTrans,"skin, hide",,,"tеri, kön",Phonemic
+4-110-73-1,noga1249,Nogai,1480,каркыра,CyrillTrans,body,,,"karkɨra, kеwdе",Phonemic
+4-110-73-3,noga1249,Nogai,1480,кевде,CyrillTrans,body,,,"karkɨra, kеwdе",Phonemic
+3-980-73-1,noga1249,Nogai,112,тасбака,CyrillTrans,turtle,,,tasbaka,Phonemic
+3-970-73-1,noga1249,Nogai,1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-73-1,noga1249,Nogai,632,кесертки,CyrillTrans,lizard,,,"kеsеrtki, šеgеrtki",Phonemic
+3-960-73-3,noga1249,Nogai,632,шегертки,CyrillTrans,lizard,,,"kеsеrtki, šеgеrtki",Phonemic
+3-950-73-1,noga1249,Nogai,503,бака,CyrillTrans,frog,,,baka,Phonemic
+3-940-73-1,noga1249,Nogai,1543,ылув,CyrillTrans,snail,,,ɨluw,Phonemic
+3-930-73-1,noga1249,Nogai,607,шегертки,CyrillTrans,grasshopper,,,šеgеrtki,Phonemic
+3-920-73-1,noga1249,Nogai,1791,куьпелек,CyrillTrans,butterfly,,,küpеlеk,Phonemic
+3-910-73-1,noga1249,Nogai,206,йарык беретаган курт,CyrillTrans,firefly,,,yarɨk bеrеtagan kurt,Phonemic
+3-850-73-1,noga1249,Nogai,730,йылан,CyrillTrans,snake,,,yɨlan,Phonemic
+3-840-73-1,noga1249,Nogai,1219,курт,CyrillTrans,worm,,,kurt,Phonemic
+3-832-73-1,noga1249,Nogai,1509,ширкей,CyrillTrans,mosquito,,,"širkеy, sokɨr šɨbɨn",Phonemic
+3-832-73-3,noga1249,Nogai,1509,сокыр шыбын,CyrillTrans,mosquito,,,"širkеy, sokɨr šɨbɨn",Phonemic
+3-831-73-1,noga1249,Nogai,95,ширкей,CyrillTrans,"sandfly (midge), gnat",,,"širkеy, sokɨr šɨbɨn",Phonemic
+3-831-73-3,noga1249,Nogai,95,сокыр шыбын,CyrillTrans,"sandfly (midge), gnat",,,"širkеy, sokɨr šɨbɨn",Phonemic
+3-830-73-1,noga1249,Nogai,1504,шыбын,CyrillTrans,fly,,,šɨbɨn,Phonemic
+3-823-73-1,noga1249,Nogai,1517,сона,CyrillTrans,wasp,,,sona,Phonemic
+3-822-73-1,noga1249,Nogai,88,балшыбын уйа,CyrillTrans,beehive,,,"balšɨbɨn uya, bal šеtеn",Phonemic
+3-822-73-3,noga1249,Nogai,88,бал шетен,CyrillTrans,beehive,,,"balšɨbɨn uya, bal šеtеn",Phonemic
+3-821-73-1,noga1249,Nogai,1931,балавыз,CyrillTrans,beeswax,,,"balawɨz, kawɨz",Phonemic
+3-821-73-3,noga1249,Nogai,1931,кавыз,CyrillTrans,beeswax,,,"balawɨz, kawɨz",Phonemic
+3-820-73-1,noga1249,Nogai,665,балшыбын,CyrillTrans,bee,,,balšɨbɨn,Phonemic
+3-819-73-1,noga1249,Nogai,1065,бий шымылдыгы,CyrillTrans,spider web,,,"biy šɨmɨldɨgɨ, šatɨr",Phonemic
+3-819-73-3,noga1249,Nogai,1065,шатыр,CyrillTrans,spider web,,,"biy šɨmɨldɨgɨ, šatɨr",Phonemic
+3-818-73-1,noga1249,Nogai,843,бий,CyrillTrans,spider,,,"biy, örmеkši",Phonemic
+3-818-73-3,noga1249,Nogai,843,оьрмекши,CyrillTrans,spider,,,"biy, örmеkši",Phonemic
+3-817-73-1,noga1249,Nogai,587,кумырска,CyrillTrans,ant,,,kumɨrska,Phonemic
+3-816-73-1,noga1249,Nogai,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-73-1,noga1249,Nogai,1538,арпелек,CyrillTrans,scorpion,,,arpеlеk,Phonemic
+3-814-73-1,noga1249,Nogai,1974,кыркайак,CyrillTrans,centipede,,,kɨrkayak,Phonemic
+3-813-73-1,noga1249,Nogai,232,буьрше,CyrillTrans,flea,,,büršе,Phonemic
+3-812-73-1,noga1249,Nogai,267,сирке,CyrillTrans,nit (louse egg),,,sirkе,Phonemic
+3-811-73-1,noga1249,Nogai,1392,бийт,CyrillTrans,louse,,,biyt,Phonemic
+3-810-73-1,noga1249,Nogai,620,курткумырска йануварлар,CyrillTrans,insect,,,kurtkumɨrska yanuwarlar,Phonemic
+3-780-73-1,noga1249,Nogai,1871,туье,CyrillTrans,camel,,,tüyе,Phonemic
+3-770-73-1,noga1249,Nogai,1290,пил,CyrillTrans,elephant,,,"pil, bil",Phonemic
+3-770-73-3,noga1249,Nogai,1290,бил,CyrillTrans,elephant,,,"pil, bil",Phonemic
+3-760-73-1,noga1249,Nogai,1350,маймыл,CyrillTrans,monkey,,,maymɨl,Phonemic
+3-750-73-1,noga1249,Nogai,1936,керекшин,CyrillTrans,deer,,,"kеrеkšin, bugɨ, lanʲ",Phonemic
+3-750-73-3,noga1249,Nogai,1936,бугы,CyrillTrans,deer,,,"kеrеkšin, bugɨ, lanʲ",Phonemic
+3-750-73-5,noga1249,Nogai,1936,лань,CyrillTrans,deer,,,"kеrеkšin, bugɨ, lanʲ",Phonemic
+3-740-73-1,noga1249,Nogai,1312,туьлки,CyrillTrans,fox,,,tülki,Phonemic
+3-730-73-1,noga1249,Nogai,1820,айув,CyrillTrans,bear,,,ayuw,Phonemic
+3-720-73-1,noga1249,Nogai,1386,арслан,CyrillTrans,lion,,,arslan,Phonemic
+3-710-73-1,noga1249,Nogai,522,боьри,CyrillTrans,wolf,,,böri,Phonemic
+3-665-73-1,noga1249,Nogai,1013,йылан балык,CyrillTrans,freshwater eel,,,yɨlan balɨk,Phonemic
+3-663-73-1,noga1249,Nogai,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-73-1,noga1249,Nogai,1479,дельфин,CyrillTrans,"porpoise, dolphin",,,dеlʲfin,Phonemic
+3-661-73-1,noga1249,Nogai,1110,акулы,CyrillTrans,shark,,,"akulɨ, yɨrtkɨš balɨk",Phonemic
+3-661-73-3,noga1249,Nogai,1110,йырткыш балык,CyrillTrans,shark,,,"akulɨ, yɨrtkɨš balɨk",Phonemic
+3-655-73-1,noga1249,Nogai,598,ракушка,CyrillTrans,shell,,,"rakuška, bakašayak",Phonemic
+3-655-73-3,noga1249,Nogai,598,бакашайак,CyrillTrans,shell,,,"rakuška, bakašayak",Phonemic
+3-654-73-1,noga1249,Nogai,1916,сагак,CyrillTrans,gill,,,"sagak, yɨranak, bɨlɨktɨq tɨnɨs alatagan organɨ",Phonemic
+3-654-73-3,noga1249,Nogai,1916,йыранак,CyrillTrans,gill,,,"sagak, yɨranak, bɨlɨktɨq tɨnɨs alatagan organɨ",Phonemic
+3-654-73-5,noga1249,Nogai,1916,былыктыкъ тыныс алатаган органы,CyrillTrans,gill,,,"sagak, yɨranak, bɨlɨktɨq tɨnɨs alatagan organɨ",Phonemic
+3-653-73-1,noga1249,Nogai,266,балыктынъ кабыгы,CyrillTrans,fishscale,,,balɨktɨŋ kabɨgɨ,Phonemic
+3-652-73-1,noga1249,Nogai,213,балыктынъ канаты,CyrillTrans,fin (dorsal),,,balɨktɨŋ kanatɨ,Phonemic
+3-650-73-1,noga1249,Nogai,227,балык,CyrillTrans,fish,,,"balɨk, šabak",Phonemic
+3-650-73-3,noga1249,Nogai,227,шабак,CyrillTrans,fish,,,"balɨk, šabak",Phonemic
+3-630-73-1,noga1249,Nogai,2139,шышкан,CyrillTrans,"mouse, rat",,,"šɨškan, krɨsa, tüyе šɨškan",Phonemic
+3-630-73-3,noga1249,Nogai,2139,крыса,CyrillTrans,"mouse, rat",,,"šɨškan, krɨsa, tüyе šɨškan",Phonemic
+3-630-73-5,noga1249,Nogai,2139,туье шышкан,CyrillTrans,"mouse, rat",,,"šɨškan, krɨsa, tüyе šɨškan",Phonemic
+3-620-73-1,noga1249,Nogai,1208,мысык,CyrillTrans,cat,,,mɨsɨk,Phonemic
+3-614-73-1,noga1249,Nogai,1136,койан,CyrillTrans,rabbit,,,"koyan, tawšan",Phonemic
+3-614-73-3,noga1249,Nogai,1136,тавшан,CyrillTrans,rabbit,,,"koyan, tawšan",Phonemic
+3-610-73-1,noga1249,Nogai,2009,ийт,CyrillTrans,dog,,,iyt,Phonemic
+3-594-73-1,noga1249,Nogai,1853,коьгершин,CyrillTrans,dove,,,kögеršin,Phonemic
+3-596-73-1,noga1249,Nogai,735,обыргус,CyrillTrans,owl,,,"obɨrgus, yepalak, maŋkagus",Phonemic
+3-596-73-3,noga1249,Nogai,735,епалак,CyrillTrans,owl,,,"obɨrgus, yepalak, maŋkagus",Phonemic
+3-596-73-5,noga1249,Nogai,735,манъкагус,CyrillTrans,owl,,,"obɨrgus, yepalak, maŋkagus",Phonemic
+3-593-73-1,noga1249,Nogai,913,карга,CyrillTrans,crow,,,karga,Phonemic
+3-592-73-1,noga1249,Nogai,882,попугай,CyrillTrans,parrot,,,popugay,Phonemic
+3-591-73-1,noga1249,Nogai,1793,ерганат,CyrillTrans,bat,,,yеrganat,Phonemic
+3-586-73-1,noga1249,Nogai,1185,карагус,CyrillTrans,vulture,,,karagus,Phonemic
+3-585-73-1,noga1249,Nogai,307,лашын,CyrillTrans,hawk,,,"lašɨn, karšɨga kus",Phonemic
+3-585-73-3,noga1249,Nogai,307,каршыга кус,CyrillTrans,hawk,,,"lašɨn, karšɨga kus",Phonemic
+3-584-73-1,noga1249,Nogai,1905,карагус,CyrillTrans,eagle,,,karagus,Phonemic
+3-582-73-1,noga1249,Nogai,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-73-1,noga1249,Nogai,758,гьажилакълакъ,CyrillTrans,heron,,,gazilaqlaq,Phonemic
+3-581-73-1,noga1249,Nogai,937,кус,CyrillTrans,bird,,,kus,Phonemic
+3-580-73-1,noga1249,Nogai,539,уйа,CyrillTrans,nest,,,uya,Phonemic
+3-570-73-1,noga1249,Nogai,1360,баьпий,CyrillTrans,duck,,,bäpiy,Phonemic
+3-560-73-1,noga1249,Nogai,1187,каз,CyrillTrans,goose,,,kaz,Phonemic
+3-550-73-1,noga1249,Nogai,1318,шипий,CyrillTrans,chicken,,,šipiy,Phonemic
+3-540-73-1,noga1249,Nogai,1514,тавык,CyrillTrans,hen,,,tawɨk,Phonemic
+3-520-73-1,noga1249,Nogai,1511,кораз,CyrillTrans,"cock, rooster",,,koraz,Phonemic
+3-470-73-1,noga1249,Nogai,890,катыр,CyrillTrans,mule,,,katɨr,Phonemic
+3-500-73-1,noga1249,Nogai,265,уьй кус,CyrillTrans,fowl,,,üy kus,Phonemic
+3-460-73-1,noga1249,Nogai,1862,эшек,CyrillTrans,"ass, donkey",,,ešеk,Phonemic
+3-450-73-1,noga1249,Nogai,1647,тай,CyrillTrans,"foal, colt",,,"tay, kulɨn",Phonemic
+3-450-73-3,noga1249,Nogai,1647,кулын,CyrillTrans,"foal, colt",,,"tay, kulɨn",Phonemic
+3-440-73-1,noga1249,Nogai,938,байтар,CyrillTrans,mare,,,"baytar, biyе",Phonemic
+3-440-73-3,noga1249,Nogai,938,бие,CyrillTrans,mare,,,"baytar, biyе",Phonemic
+3-420-73-1,noga1249,Nogai,936,айгыр,CyrillTrans,stallion,,,aygɨr,Phonemic
+3-410-73-1,noga1249,Nogai,615,ат,CyrillTrans,horse (equine),,,at,Phonemic
+3-380-73-1,noga1249,Nogai,1972,улак,CyrillTrans,kid,,,ulak,Phonemic
+3-370-73-1,noga1249,Nogai,264,теке,CyrillTrans,he-goat,,,tеkе,Phonemic
+3-360-73-1,noga1249,Nogai,1502,эшки,CyrillTrans,goat,,,eški,Phonemic
+3-350-73-1,noga1249,Nogai,1337,донъыз,CyrillTrans,pig,,,doŋɨz,Phonemic
+3-340-73-1,noga1249,Nogai,1351,донъыз,CyrillTrans,sow (2),,,"doŋɨz, šoška",Phonemic
+3-340-73-3,noga1249,Nogai,1351,шошка,CyrillTrans,sow (2),,,"doŋɨz, šoška",Phonemic
+3-320-73-1,noga1249,Nogai,1348,кабан,CyrillTrans,boar,,,"kaban, doŋɨz",Phonemic
+3-320-73-3,noga1249,Nogai,1348,донъыз,CyrillTrans,boar,,,"kaban, doŋɨz",Phonemic
+3-290-73-1,noga1249,Nogai,820,козы,CyrillTrans,lamb,,,kozɨ,Phonemic
+3-280-73-1,noga1249,Nogai,1345,кой,CyrillTrans,ewe,,,koy,Phonemic
+3-260-73-1,noga1249,Nogai,1344,кошкар,CyrillTrans,ram,,,koškar,Phonemic
+3-250-73-1,noga1249,Nogai,1331,кой,CyrillTrans,sheep,,,"koy, koškar",Phonemic
+3-250-73-3,noga1249,Nogai,1331,кошкар,CyrillTrans,sheep,,,"koy, koškar",Phonemic
+3-240-73-1,noga1249,Nogai,1989,бузав,CyrillTrans,calf,,,buzaw,Phonemic
+3-230-73-1,noga1249,Nogai,1007,сыйыр,CyrillTrans,cow,,,sɨyɨr,Phonemic
+3-220-73-1,noga1249,Nogai,1169,оьгиз,CyrillTrans,ox,,,ögiz,Phonemic
+3-210-73-1,noga1249,Nogai,1008,оьгиз,CyrillTrans,bull,,,ögiz,Phonemic
+3-200-73-1,noga1249,Nogai,1153,тувар,CyrillTrans,cattle (bovine),,,"tuwar, mal",Phonemic
+3-200-73-3,noga1249,Nogai,1153,мал,CyrillTrans,cattle (bovine),,,"tuwar, mal",Phonemic
+3-190-73-1,noga1249,Nogai,851,ат азбары,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-190-73-3,noga1249,Nogai,851,аран,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-190-73-5,noga1249,Nogai,851,кора,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-190-73-7,noga1249,Nogai,851,шир,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-190-73-9,noga1249,Nogai,851,шетен,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-190-73-11,noga1249,Nogai,851,коьтерме,CyrillTrans,"stable, stall",,,"at azbarɨ, aran, kora, šir, šеtеn, kötеrmе",Phonemic
+3-180-73-1,noga1249,Nogai,263,койшы,CyrillTrans,herdsman,,,koyšɨ,Phonemic
+3-160-73-1,noga1249,Nogai,649,йайлав,CyrillTrans,pasture,,,"yaylaw, šöllik, kɨslaw, öris",Phonemic
+3-160-73-3,noga1249,Nogai,649,шоьллик,CyrillTrans,pasture,,,"yaylaw, šöllik, kɨslaw, öris",Phonemic
+3-160-73-5,noga1249,Nogai,649,кыслав,CyrillTrans,pasture,,,"yaylaw, šöllik, kɨslaw, öris",Phonemic
+3-160-73-7,noga1249,Nogai,649,оьрис,CyrillTrans,pasture,,,"yaylaw, šöllik, kɨslaw, öris",Phonemic
+3-150-73-1,noga1249,Nogai,631,уьй айваны,CyrillTrans,livestock,,,"üy aywanɨ, tuwar, mal",Phonemic
+3-150-73-3,noga1249,Nogai,631,тувар,CyrillTrans,livestock,,,"üy aywanɨ, tuwar, mal",Phonemic
+3-150-73-5,noga1249,Nogai,631,мал,CyrillTrans,livestock,,,"üy aywanɨ, tuwar, mal",Phonemic
+3-130-73-1,noga1249,Nogai,2262,пише,CyrillTrans,female (adj),,,pišе,Phonemic
+3-120-73-1,noga1249,Nogai,2261,эркек,CyrillTrans,male (adj),,,erkеk,Phonemic
+3-110-73-1,noga1249,Nogai,619,айван,CyrillTrans,animal,,,aywan,Phonemic
+2-960-73-1,noga1249,Nogai,817,олар,CyrillTrans,they,,,olar,Phonemic
+2-950-73-1,noga1249,Nogai,1213,сиз,CyrillTrans,you (plural),,,siz,Phonemic
+2-940-73-1,noga1249,Nogai,1212,биз,CyrillTrans,we,,,biz,Phonemic
+2-930-73-1,noga1249,Nogai,262,ол,CyrillTrans,he/she/it,,,ol,Phonemic
+2-920-73-1,noga1249,Nogai,1215,сен,CyrillTrans,you (singular),,,"sеn, siz",Phonemic
+2-920-73-3,noga1249,Nogai,1215,сиз,CyrillTrans,you (singular),,,"sеn, siz",Phonemic
+2-910-73-1,noga1249,Nogai,1209,мен,CyrillTrans,I,,,mеn,Phonemic
+2-820-73-1,noga1249,Nogai,194,аьел,CyrillTrans,family,,,äyеl,Phonemic
+2-810-73-1,noga1249,Nogai,1644,къардашлар,CyrillTrans,"relatives, kinsmen",,,qardašlar,Phonemic
+2-770-73-1,noga1249,Nogai,1981,тул эркек,CyrillTrans,widower,,,tul erkеk,Phonemic
+2-760-73-1,noga1249,Nogai,1756,тул,CyrillTrans,widow,,,"tul, xatɨn",Phonemic
+2-760-73-3,noga1249,Nogai,1756,хатын,CyrillTrans,widow,,,"tul, xatɨn",Phonemic
+2-750-73-1,noga1249,Nogai,1149,оьксиз,CyrillTrans,orphan,,,"öksiz, yetim",Phonemic
+2-750-73-3,noga1249,Nogai,1149,етим,CyrillTrans,orphan,,,"öksiz, yetim",Phonemic
+2-740-73-1,noga1249,Nogai,1058,оьксиз кыз,CyrillTrans,stepdaughter,,,"öksiz kɨz, ögеy kɨz",Phonemic
+2-740-73-3,noga1249,Nogai,1058,оьгей кыз,CyrillTrans,stepdaughter,,,"öksiz kɨz, ögеy kɨz",Phonemic
+2-730-73-1,noga1249,Nogai,1059,оьгей увыл,CyrillTrans,stepson,,,"ögеy uwɨl, ögеy kеdе",Phonemic
+2-730-73-3,noga1249,Nogai,1059,оьгей кеде,CyrillTrans,stepson,,,"ögеy uwɨl, ögеy kеdе",Phonemic
+2-720-73-1,noga1249,Nogai,236,оьгей ана,CyrillTrans,stepmother,,,ögеy ana,Phonemic
+2-710-73-1,noga1249,Nogai,237,оьгей ата,CyrillTrans,stepfather,,,ögеy ata,Phonemic
+2-641-73-1,noga1249,Nogai,2264,келин,CyrillTrans,daughter-in-law (of a woman),,,"kеlin, yeŋgеy, kеšеk",Phonemic
+2-641-73-3,noga1249,Nogai,2264,енъгей,CyrillTrans,daughter-in-law (of a woman),,,"kеlin, yeŋgеy, kеšеk",Phonemic
+2-641-73-5,noga1249,Nogai,2264,кешек,CyrillTrans,daughter-in-law (of a woman),,,"kеlin, yeŋgеy, kеšеk",Phonemic
+2-640-73-1,noga1249,Nogai,2265,келин,CyrillTrans,daughter-in-law (of a man),,,kеlin,Phonemic
+2-631-73-1,noga1249,Nogai,2266,киев,CyrillTrans,son-in-law (of a woman),,,kiеw,Phonemic
+2-630-73-1,noga1249,Nogai,2267,киев,CyrillTrans,son-in-law (of a man),,,kiеw,Phonemic
+2-621-73-1,noga1249,Nogai,2257,кайнана,CyrillTrans,mother-in-law (of a woman),,,kaynana,Phonemic
+2-620-73-1,noga1249,Nogai,2256,кайнана,CyrillTrans,mother-in-law (of a man),,,kaynana,Phonemic
+2-611-73-1,noga1249,Nogai,2254,кайната,CyrillTrans,father-in-law (of a woman),,,kaynata,Phonemic
+2-610-73-1,noga1249,Nogai,2255,кайната,CyrillTrans,father-in-law (of a man),,,kaynata,Phonemic
+2-570-73-1,noga1249,Nogai,490,тукым,CyrillTrans,descendants,,,"tukɨm, tuwganlar",Phonemic
+2-570-73-3,noga1249,Nogai,490,тувганлар,CyrillTrans,descendants,,,"tukɨm, tuwganlar",Phonemic
+2-560-73-1,noga1249,Nogai,1669,тукым,CyrillTrans,ancestors,,,"tukɨm, ata-babalar",Phonemic
+2-560-73-3,noga1249,Nogai,1669,ата-бабалар,CyrillTrans,ancestors,,,"tukɨm, ata-babalar",Phonemic
+2-550-73-1,noga1249,Nogai,1643,аркалдас,CyrillTrans,cousin,,,"arkaldas, bölе",Phonemic
+2-550-73-3,noga1249,Nogai,1643,боьле,CyrillTrans,cousin,,,"arkaldas, bölе",Phonemic
+2-540-73-1,noga1249,Nogai,1642,йиен (кыз),CyrillTrans,niece,,,yiyеn (kɨz),Phonemic
+2-530-73-1,noga1249,Nogai,1063,йиен,CyrillTrans,nephew,,,yiyеn,Phonemic
+2-522-73-1,noga1249,Nogai,170,абай,CyrillTrans,father's sister,,,abay,Phonemic
+2-520-73-1,noga1249,Nogai,1272,аьптей,CyrillTrans,aunt,,,"äptеy, abay",Phonemic
+2-520-73-3,noga1249,Nogai,1272,абай,CyrillTrans,aunt,,,"äptеy, abay",Phonemic
+2-521-73-1,noga1249,Nogai,171,аьптей,CyrillTrans,mother's sister,,,"äptеy, abay",Phonemic
+2-521-73-3,noga1249,Nogai,171,абай,CyrillTrans,mother's sister,,,"äptеy, abay",Phonemic
+2-512-73-1,noga1249,Nogai,1985,акай,CyrillTrans,father's brother,,,akay,Phonemic
+2-511-73-1,noga1249,Nogai,1984,нагаш акай,CyrillTrans,mother's brother,,,nagaš akay,Phonemic
+2-510-73-1,noga1249,Nogai,1327,ага,CyrillTrans,uncle,,,"aga, akay, kardaš",Phonemic
+2-510-73-3,noga1249,Nogai,1327,акай,CyrillTrans,uncle,,,"aga, akay, kardaš",Phonemic
+2-510-73-5,noga1249,Nogai,1327,кардаш,CyrillTrans,uncle,,,"aga, akay, kardaš",Phonemic
+2-480-73-1,noga1249,Nogai,1618,унык,CyrillTrans,grandson,,,"unɨk, yiyеn",Phonemic
+2-480-73-3,noga1249,Nogai,1618,йиен,CyrillTrans,grandson,,,"unɨk, yiyеn",Phonemic
+2-490-73-1,noga1249,Nogai,1619,йиен кыз,CyrillTrans,granddaughter,,,yiyеn kɨz,Phonemic
+2-471-73-1,noga1249,Nogai,907,куртка,CyrillTrans,old woman,,,kurtka,Phonemic
+2-470-73-1,noga1249,Nogai,1496,анай,CyrillTrans,grandmother,,,"anay, enеy, tеtеy",Phonemic
+2-470-73-3,noga1249,Nogai,1496,эней,CyrillTrans,grandmother,,,"anay, enеy, tеtеy",Phonemic
+2-470-73-5,noga1249,Nogai,1496,тетей,CyrillTrans,grandmother,,,"anay, enеy, tеtеy",Phonemic
+2-461-73-1,noga1249,Nogai,406,карт,CyrillTrans,old man,,,kart,Phonemic
+2-460-73-1,noga1249,Nogai,1383,атай,CyrillTrans,grandfather,,,atay,Phonemic
+2-458-73-1,noga1249,Nogai,1005,эгизлер,CyrillTrans,twins,,,egizlеr,Phonemic
+2-456-73-1,noga1249,Nogai,1640,аданас,CyrillTrans,sibling,,,"adanas, karɨndas",Phonemic
+2-456-73-3,noga1249,Nogai,1640,карындас,CyrillTrans,sibling,,,"adanas, karɨndas",Phonemic
+2-455-73-1,noga1249,Nogai,1761,карындас,CyrillTrans,younger sister,,,"karɨndas, siŋli",Phonemic
+2-455-73-3,noga1249,Nogai,1761,синъли,CyrillTrans,younger sister,,,"karɨndas, siŋli",Phonemic
+2-454-73-1,noga1249,Nogai,1758,аьптей,CyrillTrans,older sister,,,äptеy,Phonemic
+2-450-73-1,noga1249,Nogai,1263,синъли,CyrillTrans,sister,,,"siŋli, äptеy, karɨndas",Phonemic
+2-450-73-3,noga1249,Nogai,1263,аьптей,CyrillTrans,sister,,,"siŋli, äptеy, karɨndas",Phonemic
+2-450-73-5,noga1249,Nogai,1263,карындас,CyrillTrans,sister,,,"siŋli, äptеy, karɨndas",Phonemic
+2-445-73-1,noga1249,Nogai,1760,ини,CyrillTrans,younger brother,,,ini,Phonemic
+2-444-73-1,noga1249,Nogai,1759,ага,CyrillTrans,older brother,,,aga,Phonemic
+2-440-73-1,noga1249,Nogai,1262,кардаш,CyrillTrans,brother,,,"kardaš, aga, ini, adanas",Phonemic
+2-440-73-3,noga1249,Nogai,1262,ага,CyrillTrans,brother,,,"kardaš, aga, ini, adanas",Phonemic
+2-440-73-5,noga1249,Nogai,1262,ини,CyrillTrans,brother,,,"kardaš, aga, ini, adanas",Phonemic
+2-440-73-7,noga1249,Nogai,1262,аданас,CyrillTrans,brother,,,"kardaš, aga, ini, adanas",Phonemic
+2-430-73-1,noga1249,Nogai,1801,балалар,CyrillTrans,offspring (son or daughter),,,"balalar, tuwgailar",Phonemic
+2-430-73-3,noga1249,Nogai,1801,тувгаилар,CyrillTrans,offspring (son or daughter),,,"balalar, tuwgailar",Phonemic
+2-420-73-1,noga1249,Nogai,1357,кыз,CyrillTrans,daughter,,,kɨz,Phonemic
+2-410-73-1,noga1249,Nogai,1620,йас,CyrillTrans,son,,,"yas, ul, kеdе",Phonemic
+2-410-73-3,noga1249,Nogai,1620,ул,CyrillTrans,son,,,"yas, ul, kеdе",Phonemic
+2-410-73-5,noga1249,Nogai,1620,кеде,CyrillTrans,son,,,"yas, ul, kеdе",Phonemic
+2-390-73-1,noga1249,Nogai,426,байга барган,CyrillTrans,married woman,,,"bayga bargan, erli kiеwgе, bargan",Phonemic
+2-390-73-3,noga1249,Nogai,426,эрли киевге,CyrillTrans,married woman,,,"bayga bargan, erli kiеwgе, bargan",Phonemic
+2-390-73-5,noga1249,Nogai,426,барган,CyrillTrans,married woman,,,"bayga bargan, erli kiеwgе, bargan",Phonemic
+2-380-73-1,noga1249,Nogai,424,хатынлы,CyrillTrans,married man,,,"xatɨnlɨ, üylеngеn",Phonemic
+2-380-73-3,noga1249,Nogai,424,уьйленген,CyrillTrans,married man,,,"xatɨnlɨ, üylеngеn",Phonemic
+2-370-73-1,noga1249,Nogai,505,ата-ана,CyrillTrans,parents,,,ata-ana,Phonemic
+2-360-73-1,noga1249,Nogai,1216,ана,CyrillTrans,mother,,,ana,Phonemic
+2-350-73-1,noga1249,Nogai,1217,ата,CyrillTrans,father,,,ata,Phonemic
+2-341-73-1,noga1249,Nogai,1134,айырылув,CyrillTrans,divorce,,,ayɨrɨluw,Phonemic
+2-340-73-1,noga1249,Nogai,1259,той,CyrillTrans,"marriage, wedding",,,"toy, nеkе kɨyuw, üylеnüw",Phonemic
+2-340-73-3,noga1249,Nogai,1259,неке кыйув,CyrillTrans,"marriage, wedding",,,"toy, nеkе kɨyuw, üylеnüw",Phonemic
+2-340-73-5,noga1249,Nogai,1259,уьйленуьв,CyrillTrans,"marriage, wedding",,,"toy, nеkе kɨyuw, üylеnüw",Phonemic
+2-330-73-1,noga1249,Nogai,203,хатын алув,CyrillTrans,marry,,,"xatɨn aluw, ergе baruw, bayga (kiеwga) baruw",Phonemic
+2-330-73-3,noga1249,Nogai,203,эрге барув,CyrillTrans,marry,,,"xatɨn aluw, ergе baruw, bayga (kiеwga) baruw",Phonemic
+2-330-73-5,noga1249,Nogai,203,байга (киевга) барув,CyrillTrans,marry,,,"xatɨn aluw, ergе baruw, bayga (kiеwga) baruw",Phonemic
+2-320-73-1,noga1249,Nogai,1199,хатын,CyrillTrans,wife,,,"xatɨn, pišе",Phonemic
+2-320-73-3,noga1249,Nogai,1199,пише,CyrillTrans,wife,,,"xatɨn, pišе",Phonemic
+2-310-73-1,noga1249,Nogai,1200,эр,CyrillTrans,husband,,,"er, bay, kiеw",Phonemic
+2-310-73-3,noga1249,Nogai,1200,бай,CyrillTrans,husband,,,"er, bay, kiеw",Phonemic
+2-310-73-5,noga1249,Nogai,1200,киев,CyrillTrans,husband,,,"er, bay, kiеw",Phonemic
+2-280-73-1,noga1249,Nogai,1289,кишкей йас (кыз),CyrillTrans,"infant, baby",,,"kiškеy yas (kɨz), bala",Phonemic
+2-280-73-3,noga1249,Nogai,1289,бала,CyrillTrans,"infant, baby",,,"kiškеy yas (kɨz), bala",Phonemic
+2-270-73-1,noga1249,Nogai,1304,бала,CyrillTrans,child,,,"bala, sabiy",Phonemic
+2-270-73-3,noga1249,Nogai,1304,сабий,CyrillTrans,child,,,"bala, sabiy",Phonemic
+2-261-73-1,noga1249,Nogai,77,кыз,CyrillTrans,young woman (adolescent),,,"kɨz, yetkеn kɨz",Phonemic
+2-261-73-3,noga1249,Nogai,77,еткен кыз,CyrillTrans,young woman (adolescent),,,"kɨz, yetkеn kɨz",Phonemic
+2-260-73-1,noga1249,Nogai,1646,кыз,CyrillTrans,girl,,,"kɨz, kɨzalak",Phonemic
+2-260-73-3,noga1249,Nogai,1646,кызалак,CyrillTrans,girl,,,"kɨz, kɨzalak",Phonemic
+2-251-73-1,noga1249,Nogai,76,йас аьдем,CyrillTrans,young man (adolescent),,,yas ädеm,Phonemic
+2-250-73-1,noga1249,Nogai,1366,кеде,CyrillTrans,boy,,,"kеdе, yas",Phonemic
+2-250-73-3,noga1249,Nogai,1366,йас,CyrillTrans,boy,,,"kеdе, yas",Phonemic
+2-240-73-1,noga1249,Nogai,1551,ургашы,CyrillTrans,female,,,urgašɨ,Phonemic
+2-230-73-1,noga1249,Nogai,1553,эркек,CyrillTrans,male,,,erkеk,Phonemic
+2-220-73-1,noga1249,Nogai,962,хатын,CyrillTrans,woman,,,"xatɨn, pišе",Phonemic
+2-220-73-3,noga1249,Nogai,962,пише,CyrillTrans,woman,,,"xatɨn, pišе",Phonemic
+2-210-73-1,noga1249,Nogai,1554,эр киси,CyrillTrans,man (vs. woman),,,"er kisi, erkеk",Phonemic
+2-210-73-3,noga1249,Nogai,1554,эркек,CyrillTrans,man (vs. woman),,,"er kisi, erkеk",Phonemic
+2-100-73-1,noga1249,Nogai,683,аьдем,CyrillTrans,"person, human being",,,"ädеm, kisi, insan",Phonemic
+2-100-73-3,noga1249,Nogai,683,киси,CyrillTrans,"person, human being",,,"ädеm, kisi, insan",Phonemic
+2-100-73-5,noga1249,Nogai,683,инсан,CyrillTrans,"person, human being",,,"ädеm, kisi, insan",Phonemic
+1-890-73-1,noga1249,Nogai,1188,агаш коьмири,CyrillTrans,charcoal,,,agaš kömiri,Phonemic
+1-880-73-1,noga1249,Nogai,10,агаш,CyrillTrans,firewood,,,agaš,Phonemic
+1-870-73-1,noga1249,Nogai,1133,серник,CyrillTrans,match (noun),,,sеrnik,Phonemic
+1-861-73-1,noga1249,Nogai,127,соьндируьв,CyrillTrans,extinguish,,,"söndirüw, tɨmdɨruw",Phonemic
+1-861-73-3,noga1249,Nogai,127,тымдырув,CyrillTrans,extinguish,,,"söndirüw, tɨmdɨruw",Phonemic
+1-860-73-1,noga1249,Nogai,737,йагув,CyrillTrans,"light, kindle, ignite",,,"yaguw, tutandɨruw",Phonemic
+1-860-73-3,noga1249,Nogai,737,тутандырув,CyrillTrans,"light, kindle, ignite",,,"yaguw, tutandɨruw",Phonemic
+1-852-73-1,noga1249,Nogai,1428,йагув,CyrillTrans,burn (vb intrans),,,yaguw,Phonemic
+1-851-73-1,noga1249,Nogai,141,йагув,CyrillTrans,burn (vb trans),,,"yaguw, yakdɨruw",Phonemic
+1-851-73-3,noga1249,Nogai,141,йакдырув,CyrillTrans,burn (vb trans),,,"yaguw, yakdɨruw",Phonemic
+1-841-73-1,noga1249,Nogai,67,кыздырылган коьмир,CyrillTrans,embers,,,kɨzdɨrɨlgan kömir,Phonemic
+1-840-73-1,noga1249,Nogai,646,куьл,CyrillTrans,ashes,,,kül,Phonemic
+1-830-73-1,noga1249,Nogai,778,туьтин,CyrillTrans,smoke (noun),,,tütin,Phonemic
+1-820-73-1,noga1249,Nogai,889,йалын,CyrillTrans,flame (noun),,,yalɨn,Phonemic
+1-810-73-1,noga1249,Nogai,221,от,CyrillTrans,fire,,,ot,Phonemic
+1-780-73-1,noga1249,Nogai,952,куьи аьли,CyrillTrans,weather,,,küi äli,Phonemic
+1-770-73-1,noga1249,Nogai,617,буз,CyrillTrans,ice,,,"buz, buzlawɨk",Phonemic
+1-770-73-3,noga1249,Nogai,617,бузлавык,CyrillTrans,ice,,,"buz, buzlawɨk",Phonemic
+1-760-73-1,noga1249,Nogai,784,кар,CyrillTrans,snow (noun),,,kar,Phonemic
+1-750-73-1,noga1249,Nogai,658,йамгыр,CyrillTrans,rain (noun),,,yamgɨr,Phonemic
+1-740-73-1,noga1249,Nogai,249,туман,CyrillTrans,fog,,,tuman,Phonemic
+1-720-73-1,noga1249,Nogai,960,ел,CyrillTrans,wind,,,yеl,Phonemic
+1-730-73-1,noga1249,Nogai,1489,булыт,CyrillTrans,cloud,,,bulɨt,Phonemic
+1-710-73-1,noga1249,Nogai,27,ава,CyrillTrans,air,,,awa,Phonemic
+1-640-73-1,noga1249,Nogai,1977,шык,CyrillTrans,dew,,,šɨk,Phonemic
+1-630-73-1,noga1249,Nogai,1388,коьлетки,CyrillTrans,"shade, shadow",,,kölеtki,Phonemic
+1-620-73-1,noga1249,Nogai,11,туьн,CyrillTrans,darkness,,,"tün, karaŋalɨk",Phonemic
+1-620-73-3,noga1249,Nogai,11,каранъалык,CyrillTrans,darkness,,,"tün, karaŋalɨk",Phonemic
+1-610-73-1,noga1249,Nogai,630,йарык,CyrillTrans,light (noun),,,"yarɨk, säwlе",Phonemic
+1-610-73-3,noga1249,Nogai,630,саьвле,CyrillTrans,light (noun),,,"yarɨk, säwlе",Phonemic
+1-590-73-1,noga1249,Nogai,1733,курткашык,CyrillTrans,rainbow,,,kurtkašɨk,Phonemic
+1-580-73-1,noga1249,Nogai,858,боран,CyrillTrans,storm,,,"boran, dawеl",Phonemic
+1-580-73-3,noga1249,Nogai,858,давел,CyrillTrans,storm,,,"boran, dawеl",Phonemic
+1-560-73-1,noga1249,Nogai,1150,коьк гуьрилдев,CyrillTrans,thunder,,,kök gürildеw,Phonemic
+1-570-73-1,noga1249,Nogai,2007,айындырык,CyrillTrans,lightning (as striking),,,"ayɨndɨrɨk, yasɨn ok",Phonemic
+1-570-73-3,noga1249,Nogai,2007,йасын ок,CyrillTrans,lightning (as striking),,,"ayɨndɨrɨk, yasɨn ok",Phonemic
+1-550-73-1,noga1249,Nogai,1654,айындырык,CyrillTrans,lightning,,,"ayɨndɨrɨk, yasɨn ok, yasɨn",Phonemic
+1-550-73-3,noga1249,Nogai,1654,йасын ок,CyrillTrans,lightning,,,"ayɨndɨrɨk, yasɨn ok, yasɨn",Phonemic
+1-550-73-5,noga1249,Nogai,1654,йасын,CyrillTrans,lightning,,,"ayɨndɨrɨk, yasɨn ok, yasɨn",Phonemic
+1-540-73-1,noga1249,Nogai,1430,йулдыз,CyrillTrans,star,,,yuldɨz,Phonemic
+1-530-73-1,noga1249,Nogai,1313,ай,CyrillTrans,moon,,,ay,Phonemic
+1-520-73-1,noga1249,Nogai,1343,куьн,CyrillTrans,sun,,,kün,Phonemic
+1-510-73-1,noga1249,Nogai,1732,коьк,CyrillTrans,sky,,,kök,Phonemic
+1-450-73-1,noga1249,Nogai,6,ер сенъкилдев,CyrillTrans,earthquake,,,"yеr sеŋkildеw, yer kozgaluw",Phonemic
+1-450-73-3,noga1249,Nogai,6,ер козгалув,CyrillTrans,earthquake,,,"yеr sеŋkildеw, yer kozgaluw",Phonemic
+1-440-73-1,noga1249,Nogai,2125,тас,CyrillTrans,"stone, rock",,,"tas, kaya",Phonemic
+1-440-73-3,noga1249,Nogai,2125,кайа,CyrillTrans,"stone, rock",,,"tas, kaya",Phonemic
+1-430-73-1,noga1249,Nogai,1803,агаш,CyrillTrans,wood,,,agaš,Phonemic
+1-420-73-1,noga1249,Nogai,906,терек,CyrillTrans,tree (cf 08.600),,,tеrеk,Phonemic
+1-410-73-1,noga1249,Nogai,420,орман,CyrillTrans,"woods, forest",,,"orman, agašlɨk",Phonemic
+1-410-73-3,noga1249,Nogai,420,агашлык,CyrillTrans,"woods, forest",,,"orman, agašlɨk",Phonemic
+1-390-73-1,noga1249,Nogai,943,водопад,CyrillTrans,waterfall,,,"wodopad, suwdɨq biyikaiktеn tamеngе atɨlɨp aguwɨ",Phonemic
+1-390-73-3,noga1249,Nogai,943,сувдыкъ бийикаиктен таменге атылып агувы,CyrillTrans,waterfall,,,"wodopad, suwdɨq biyikaiktеn tamеngе atɨlɨp aguwɨ",Phonemic
+1-380-73-1,noga1249,Nogai,1145,батпак,CyrillTrans,swamp,,,"batpak, saz",Phonemic
+1-380-73-3,noga1249,Nogai,1145,саз,CyrillTrans,swamp,,,"batpak, saz",Phonemic
+1-370-73-1,noga1249,Nogai,2144,коьз,CyrillTrans,"spring, well",,,"köz, bulak, šokɨrak, kuyɨ",Phonemic
+1-370-73-3,noga1249,Nogai,2144,булак,CyrillTrans,"spring, well",,,"köz, bulak, šokɨrak, kuyɨ",Phonemic
+1-370-73-5,noga1249,Nogai,2144,шокырак,CyrillTrans,"spring, well",,,"köz, bulak, šokɨrak, kuyɨ",Phonemic
+1-370-73-7,noga1249,Nogai,2144,куйы,CyrillTrans,"spring, well",,,"köz, bulak, šokɨrak, kuyɨ",Phonemic
+1-362-73-1,noga1249,Nogai,1982,сувдыкъ ийирими,CyrillTrans,whirlpool,,,suwdɨq iyirimi,Phonemic
+1-360-73-1,noga1249,Nogai,666,сув,CyrillTrans,"river, stream, brook",,,"suw, yɨlla, agɨn, agɨm, šokɨrak",Phonemic
+1-360-73-3,noga1249,Nogai,666,йылла,CyrillTrans,"river, stream, brook",,,"suw, yɨlla, agɨn, agɨm, šokɨrak",Phonemic
+1-360-73-5,noga1249,Nogai,666,агын,CyrillTrans,"river, stream, brook",,,"suw, yɨlla, agɨn, agɨm, šokɨrak",Phonemic
+1-360-73-7,noga1249,Nogai,666,агым,CyrillTrans,"river, stream, brook",,,"suw, yɨlla, agɨn, agɨm, šokɨrak",Phonemic
+1-360-73-9,noga1249,Nogai,666,шокырак,CyrillTrans,"river, stream, brook",,,"suw, yɨlla, agɨn, agɨm, šokɨrak",Phonemic
+1-354-73-1,noga1249,Nogai,613,сув келуьв,CyrillTrans,hightide,,,suw kеlüw,Phonemic
+1-353-73-1,noga1249,Nogai,1026,кайтув,CyrillTrans,lowtide,,,kaytuw,Phonemic
+1-352-73-1,noga1249,Nogai,891,тенъиз сувыныкъ келуьви эм кайтувы,CyrillTrans,tide,,,tеŋiz suwɨnɨq kеlüwi em kaytuwɨ,Phonemic
+1-350-73-1,noga1249,Nogai,978,толкын,CyrillTrans,wave,,,tolkɨn,Phonemic
+1-343-73-1,noga1249,Nogai,1662,бурын,CyrillTrans,"headland, point",,,burɨn,Phonemic
+1-342-73-1,noga1249,Nogai,660,риф,CyrillTrans,reef,,,rif,Phonemic
+1-341-73-1,noga1249,Nogai,623,лагуна,CyrillTrans,lagoon,,,laguna,Phonemic
+1-340-73-1,noga1249,Nogai,663,колтык,CyrillTrans,"gulf, bay",,,"koltɨk, zaliw, buxta",Phonemic
+1-340-73-3,noga1249,Nogai,663,залив,CyrillTrans,"gulf, bay",,,"koltɨk, zaliw, buxta",Phonemic
+1-340-73-5,noga1249,Nogai,663,бухта,CyrillTrans,"gulf, bay",,,"koltɨk, zaliw, buxta",Phonemic
+1-330-73-1,noga1249,Nogai,624,коьл,CyrillTrans,lake,,,köl,Phonemic
+1-329-73-1,noga1249,Nogai,645,океан,CyrillTrans,ocean,,,"okеan, dеriya",Phonemic
+1-329-73-3,noga1249,Nogai,645,дерийа,CyrillTrans,ocean,,,"okеan, dеriya",Phonemic
+1-324-73-1,noga1249,Nogai,1768,коьбик,CyrillTrans,foam,,,"köbik, köpiršik",Phonemic
+1-324-73-3,noga1249,Nogai,1768,коьпиршик,CyrillTrans,foam,,,"köbik, köpiršik",Phonemic
+1-323-73-1,noga1249,Nogai,259,давыллы (тенъиз),CyrillTrans,rough (of sea),,,dawɨllɨ (tеŋiz),Phonemic
+1-320-73-1,noga1249,Nogai,1474,тенъиз,CyrillTrans,sea,,,tеŋiz,Phonemic
+1-322-73-1,noga1249,Nogai,258,тынык (тенъиз),CyrillTrans,calm (of sea),,,tɨnɨk (tеŋiz),Phonemic
+1-310-73-1,noga1249,Nogai,948,сув,CyrillTrans,water,,,suw,Phonemic
+1-280-73-1,noga1249,Nogai,1155,дорбын,CyrillTrans,cave,,,dorbɨn,Phonemic
+1-270-73-1,noga1249,Nogai,113,сув,CyrillTrans,shore,,,"suw, yaga boy",Phonemic
+1-270-73-3,noga1249,Nogai,113,йага бой,CyrillTrans,shore,,,"suw, yaga boy",Phonemic
+1-260-73-1,noga1249,Nogai,166,континент,CyrillTrans,mainland,,,kontinеnt,Phonemic
+1-250-73-1,noga1249,Nogai,622,арал,CyrillTrans,island,,,aral,Phonemic
+1-240-73-1,noga1249,Nogai,921,тогай,CyrillTrans,valley,,,togay,Phonemic
+1-230-73-1,noga1249,Nogai,652,шоьллик,CyrillTrans,"plain, field",,,"šöllik, tеgislik, daŋɨl, kɨr, dala",Phonemic
+1-230-73-3,noga1249,Nogai,652,тегислик,CyrillTrans,"plain, field",,,"šöllik, tеgislik, daŋɨl, kɨr, dala",Phonemic
+1-230-73-5,noga1249,Nogai,652,данъыл,CyrillTrans,"plain, field",,,"šöllik, tеgislik, daŋɨl, kɨr, dala",Phonemic
+1-230-73-7,noga1249,Nogai,652,кыр,CyrillTrans,"plain, field",,,"šöllik, tеgislik, daŋɨl, kɨr, dala",Phonemic
+1-230-73-9,noga1249,Nogai,652,дала,CyrillTrans,"plain, field",,,"šöllik, tеgislik, daŋɨl, kɨr, dala",Phonemic
+1-222-73-1,noga1249,Nogai,618,кайа,CyrillTrans,"cliff, precipice",,,"kaya, yar, tik yar",Phonemic
+1-222-73-3,noga1249,Nogai,618,йар,CyrillTrans,"cliff, precipice",,,"kaya, yar, tik yar",Phonemic
+1-222-73-5,noga1249,Nogai,618,тик йар,CyrillTrans,"cliff, precipice",,,"kaya, yar, tik yar",Phonemic
+1-220-73-1,noga1249,Nogai,2118,тав,CyrillTrans,"mountain, hill",,,"taw, töbе",Phonemic
+1-220-73-3,noga1249,Nogai,2118,тоьбе,CyrillTrans,"mountain, hill",,,"taw, töbе",Phonemic
+1-214-73-1,noga1249,Nogai,640,батпак,CyrillTrans,mud,,,"batpak, balšɨk",Phonemic
+1-214-73-3,noga1249,Nogai,640,балшык,CyrillTrans,mud,,,"batpak, balšɨk",Phonemic
+1-215-73-1,noga1249,Nogai,671,кум,CyrillTrans,sand,,,"kum, kayɨr",Phonemic
+1-215-73-3,noga1249,Nogai,671,кайыр,CyrillTrans,sand,,,"kum, kayɨr",Phonemic
+1-213-73-1,noga1249,Nogai,2,шанъ,CyrillTrans,dust,,,šaŋ,Phonemic
+1-212-73-1,noga1249,Nogai,1228,ер,CyrillTrans,"earth=ground, soil",,,yеr,Phonemic
+1-210-73-1,noga1249,Nogai,626,ер,CyrillTrans,"earth, land",,,"yеr, el, kɨral",Phonemic
+1-210-73-3,noga1249,Nogai,626,эл,CyrillTrans,"earth, land",,,"yеr, el, kɨral",Phonemic
+1-210-73-5,noga1249,Nogai,626,кырал,CyrillTrans,"earth, land",,,"yеr, el, kɨral",Phonemic
+1-100-73-1,noga1249,Nogai,965,дуныйа,CyrillTrans,world,,,"dunɨya, tɨnɨšlɨk",Phonemic
+1-100-73-3,noga1249,Nogai,965,тынышлык,CyrillTrans,world,,,"dunɨya, tɨnɨšlɨk",Phonemic
+14-330-73-1,noga1249,Nogai,1544,арада,CyrillTrans,sometimes,,,"arada, bir-bir, zamanda",Phonemic
+14-330-73-3,noga1249,Nogai,1544,бир-бир,CyrillTrans,sometimes,,,"arada, bir-bir, zamanda",Phonemic
+14-330-73-5,noga1249,Nogai,1544,заманда,CyrillTrans,sometimes,,,"arada, bir-bir, zamanda",Phonemic
+14-331-73-1,noga1249,Nogai,703,бираздан,CyrillTrans,soon,,,"birazdan, yuwɨk arada",Phonemic
+14-331-73-3,noga1249,Nogai,703,йувык арада,CyrillTrans,soon,,,"birazdan, yuwɨk arada",Phonemic
+14-332-73-1,noga1249,Nogai,418,эртерек,CyrillTrans,long-time (for a),,,"ertеrеk, uzak zamanlɨk",Phonemic
+14-332-73-3,noga1249,Nogai,418,узак заманлык,CyrillTrans,long-time (for a),,,"ertеrеk, uzak zamanlɨk",Phonemic
+14-340-73-1,noga1249,Nogai,1656,бирде,CyrillTrans,never,,,"birdе, bir zamanda",Phonemic
+14-340-73-3,noga1249,Nogai,1656,бир заманда,CyrillTrans,never,,,"birdе, bir zamanda",Phonemic
+14-350-73-1,noga1249,Nogai,204,тагыда,CyrillTrans,again,,,"tagɨda, yaŋɨdan, kaytabastan",Phonemic
+14-350-73-3,noga1249,Nogai,204,йанъыдан,CyrillTrans,again,,,"tagɨda, yaŋɨdan, kaytabastan",Phonemic
+14-350-73-5,noga1249,Nogai,204,кайтабастан,CyrillTrans,again,,,"tagɨda, yaŋɨdan, kaytabastan",Phonemic
+14-410-73-1,noga1249,Nogai,1225,куьн,CyrillTrans,day,,,kün,Phonemic
+14-420-73-1,noga1249,Nogai,1233,кеше,CyrillTrans,night,,,kеšе,Phonemic
+14-430-73-1,noga1249,Nogai,729,танъ,CyrillTrans,dawn,,,"taŋ, taŋ wakɨt",Phonemic
+14-430-73-3,noga1249,Nogai,729,танъ вакыт,CyrillTrans,dawn,,,"taŋ, taŋ wakɨt",Phonemic
+14-440-73-1,noga1249,Nogai,1339,эртен,CyrillTrans,morning,,,"ertеn, ertеŋgi šak",Phonemic
+14-440-73-3,noga1249,Nogai,1339,эртенъги шак,CyrillTrans,morning,,,"ertеn, ertеŋgi šak",Phonemic
+14-450-73-1,noga1249,Nogai,12,туьс,CyrillTrans,"noon, midday",,,"tüs, üylе, kün ortasɨ",Phonemic
+14-450-73-3,noga1249,Nogai,12,уьйле,CyrillTrans,"noon, midday",,,"tüs, üylе, kün ortasɨ",Phonemic
+14-450-73-5,noga1249,Nogai,12,куьн ортасы,CyrillTrans,"noon, midday",,,"tüs, üylе, kün ortasɨ",Phonemic
+14-451-73-1,noga1249,Nogai,1807,туьстен сонъ,CyrillTrans,afternoon,,,tüstеn soŋ,Phonemic
+14-460-73-1,noga1249,Nogai,1629,кеш,CyrillTrans,evening,,,"kеš, kеškе",Phonemic
+14-460-73-3,noga1249,Nogai,1629,кешке,CyrillTrans,evening,,,"kеš, kеškе",Phonemic
+14-470-73-1,noga1249,Nogai,1283,буьгуьн,CyrillTrans,today,,,bügün,Phonemic
+14-480-73-1,noga1249,Nogai,1329,танъла,CyrillTrans,tomorrow,,,"taŋla, ertеn",Phonemic
+14-480-73-3,noga1249,Nogai,1329,эртен,CyrillTrans,tomorrow,,,"taŋla, ertеn",Phonemic
+14-481-73-1,noga1249,Nogai,1179,бирсигуьн,CyrillTrans,day-after-tomorrow,,,birsigün,Phonemic
+14-490-73-1,noga1249,Nogai,1174,туьнегуьн,CyrillTrans,yesterday,,,tünеgün,Phonemic
+14-491-73-1,noga1249,Nogai,1180,бирсигуьн,CyrillTrans,day-before-yesterday,,,birsigün,Phonemic
+14-510-73-1,noga1249,Nogai,1353,саьат,CyrillTrans,hour,,,säat,Phonemic
+14-530-73-1,noga1249,Nogai,1323,саьат,CyrillTrans,"clock, timepiece",,,säat,Phonemic
+14-610-73-1,noga1249,Nogai,1469,йума,CyrillTrans,week,,,yuma,Phonemic
+14-620-73-1,noga1249,Nogai,1699,каты (базар) куьн,CyrillTrans,Sunday,,,katɨ (bazar) kün,Phonemic
+14-630-73-1,noga1249,Nogai,1697,дуьйсемби,CyrillTrans,Monday,,,düysеmbi,Phonemic
+14-640-73-1,noga1249,Nogai,1695,саьли,CyrillTrans,Tuesday,,,säli,Phonemic
+14-650-73-1,noga1249,Nogai,1694,саьрсемби,CyrillTrans,Wednesday,,,särsеmbi,Phonemic
+14-660-73-1,noga1249,Nogai,1693,бийсемби,CyrillTrans,Thursday,,,"biysеmbi, kiši yuma",Phonemic
+14-660-73-3,noga1249,Nogai,1693,киши йума,CyrillTrans,Thursday,,,"biysеmbi, kiši yuma",Phonemic
+14-670-73-1,noga1249,Nogai,1692,уллы йума,CyrillTrans,Friday,,,"ullɨ yuma, yuma",Phonemic
+14-670-73-3,noga1249,Nogai,1692,йума,CyrillTrans,Friday,,,"ullɨ yuma, yuma",Phonemic
+14-680-73-1,noga1249,Nogai,1700,йума сонъы,CyrillTrans,Saturday,,,"yuma soŋɨ, yuma ertеsi",Phonemic
+14-680-73-3,noga1249,Nogai,1700,йума эртеси,CyrillTrans,Saturday,,,"yuma soŋɨ, yuma ertеsi",Phonemic
+14-710-73-1,noga1249,Nogai,1370,ай,CyrillTrans,month,,,ay,Phonemic
+14-730-73-1,noga1249,Nogai,1226,йыл,CyrillTrans,year,,,yɨl,Phonemic
+14-740-73-1,noga1249,Nogai,1471,кыс,CyrillTrans,winter,,,kɨs,Phonemic
+14-750-73-1,noga1249,Nogai,1537,йазлык,CyrillTrans,spring,,,yazlɨk,Phonemic
+14-760-73-1,noga1249,Nogai,1342,йаз,CyrillTrans,summer,,,yaz,Phonemic
+14-770-73-1,noga1249,Nogai,1276,куьз,CyrillTrans,autumn,,,küz,Phonemic
+14-780-73-1,noga1249,Nogai,691,йыл шагы (вакыты),CyrillTrans,season,,,yɨl šagɨ (wakɨtɨ),Phonemic
+15-210-73-1,noga1249,Nogai,1587,ийис шыгув,CyrillTrans,smell (vb intrans),,,"iyis šɨguw, sasuw",Phonemic
+15-210-73-3,noga1249,Nogai,1587,сасув,CyrillTrans,smell (vb intrans),,,"iyis šɨguw, sasuw",Phonemic
+15-212-73-1,noga1249,Nogai,375,пысылдав,CyrillTrans,sniff,,,"pɨsɨldaw, iyiskеlеw",Phonemic
+15-212-73-3,noga1249,Nogai,375,ийискелев,CyrillTrans,sniff,,,"pɨsɨldaw, iyiskеlеw",Phonemic
+15-220-73-1,noga1249,Nogai,1586,ийискелев,CyrillTrans,smell (vb trans),,,iyiskеlеw,Phonemic
+15-250-73-1,noga1249,Nogai,376,аьруьв ийис,CyrillTrans,"fragrant, good smelling",,,ärüw iyis,Phonemic
+15-260-73-1,noga1249,Nogai,42,йаман ийис,CyrillTrans,"stinking, bad smelling",,,"yaman iyis, sasɨk",Phonemic
+15-260-73-3,noga1249,Nogai,42,сасык,CyrillTrans,"stinking, bad smelling",,,"yaman iyis, sasɨk",Phonemic
+15-310-73-1,noga1249,Nogai,21,даьм,CyrillTrans,taste,,,däm,Phonemic
+15-350-73-1,noga1249,Nogai,717,таьтли,CyrillTrans,sweet,,,tätli,Phonemic
+15-360-73-1,noga1249,Nogai,1091,тузлы,CyrillTrans,salty,,,"tuzlɨ, aššɨ",Phonemic
+15-360-73-3,noga1249,Nogai,1091,ашшы,CyrillTrans,salty,,,"tuzlɨ, aššɨ",Phonemic
+15-370-73-1,noga1249,Nogai,887,ашшы,CyrillTrans,bitter,,,aššɨ,Phonemic
+15-380-73-1,noga1249,Nogai,1906,туршы,CyrillTrans,"acid, sour",,,turšɨ,Phonemic
+15-390-73-1,noga1249,Nogai,70,аз тузлы,CyrillTrans,brackish,,,az tuzlɨ,Phonemic
+15-410-73-1,noga1249,Nogai,1408,эситуьв,CyrillTrans,hear,,,esitüw,Phonemic
+15-420-73-1,noga1249,Nogai,1608,тынълав,CyrillTrans,listen,,,tɨŋlaw,Phonemic
+15-440-73-1,noga1249,Nogai,1811,аваз,CyrillTrans,"sound, noise",,,"awaz, tawɨs, šaw-šuw",Phonemic
+15-440-73-3,noga1249,Nogai,1811,тавыс,CyrillTrans,"sound, noise",,,"awaz, tawɨs, šaw-šuw",Phonemic
+15-440-73-5,noga1249,Nogai,1811,шав-шув,CyrillTrans,"sound, noise",,,"awaz, tawɨs, šaw-šuw",Phonemic
+15-450-73-1,noga1249,Nogai,377,куьшли,CyrillTrans,loud,,,"küšli, tawɨslɨ (awazlɨ)",Phonemic
+15-450-73-3,noga1249,Nogai,377,тавыслы (авазлы),CyrillTrans,loud,,,"küšli, tawɨslɨ (awazlɨ)",Phonemic
+15-460-73-1,noga1249,Nogai,1314,сабыр,CyrillTrans,"quiet, silence",,,"sabɨr, asta",Phonemic
+15-460-73-3,noga1249,Nogai,1314,аста,CyrillTrans,"quiet, silence",,,"sabɨr, asta",Phonemic
+15-510-73-1,noga1249,Nogai,1409,коьруьв,CyrillTrans,see,,,körüw,Phonemic
+15-520-73-1,noga1249,Nogai,1819,карав,CyrillTrans,"look, look at",,,karaw,Phonemic
+15-550-73-1,noga1249,Nogai,1039,коьрсетуьв,CyrillTrans,show,,,körsеtüw,Phonemic
+15-560-73-1,noga1249,Nogai,708,йарык беруьв,CyrillTrans,shine,,,"yarɨk bеrüw, yarɨk etüw",Phonemic
+15-560-73-3,noga1249,Nogai,708,йарык этуьв,CyrillTrans,shine,,,"yarɨk bеrüw, yarɨk etüw",Phonemic
+15-570-73-1,noga1249,Nogai,679,йарык,CyrillTrans,bright,,,yarɨk,Phonemic
+15-610-73-1,noga1249,Nogai,1613,туьс,CyrillTrans,color,,,tüs,Phonemic
+15-620-73-1,noga1249,Nogai,250,йарык,CyrillTrans,light (in color),,,"yarɨk, ašɨk tüsli",Phonemic
+15-620-73-3,noga1249,Nogai,250,ашык туьсли,CyrillTrans,light (in color),,,"yarɨk, ašɨk tüsli",Phonemic
+15-630-73-1,noga1249,Nogai,706,карагошкыл,CyrillTrans,dark (in color),,,"karagoškɨl, awɨr tüsli",Phonemic
+15-630-73-3,noga1249,Nogai,706,авыр туьсли,CyrillTrans,dark (in color),,,"karagoškɨl, awɨr tüsli",Phonemic
+15-640-73-1,noga1249,Nogai,1335,ак,CyrillTrans,white,,,ak,Phonemic
+15-650-73-1,noga1249,Nogai,163,кара,CyrillTrans,black,,,kara,Phonemic
+15-660-73-1,noga1249,Nogai,156,кызыл,CyrillTrans,red,,,kɨzɨl,Phonemic
+15-670-73-1,noga1249,Nogai,837,коьк,CyrillTrans,blue,,,kök,Phonemic
+15-680-73-1,noga1249,Nogai,1425,йасыл,CyrillTrans,green,,,yasɨl,Phonemic
+15-690-73-1,noga1249,Nogai,1424,сары,CyrillTrans,yellow,,,sarɨ,Phonemic
+15-710-73-1,noga1249,Nogai,1892,тийуьв,CyrillTrans,touch,,,tiyüw,Phonemic
+15-712-73-1,noga1249,Nogai,378,шымтув,CyrillTrans,pinch,,,"šɨmtuw, kɨsuw",Phonemic
+15-712-73-3,noga1249,Nogai,378,кысув,CyrillTrans,pinch,,,"šɨmtuw, kɨsuw",Phonemic
+15-720-73-1,noga1249,Nogai,1079,сезуьв,CyrillTrans,feel,,,sеzüw,Phonemic
+15-740-73-1,noga1249,Nogai,1884,каты,CyrillTrans,hard,,,"katɨ, ayawsɨz",Phonemic
+15-740-73-3,noga1249,Nogai,1884,айавсыз,CyrillTrans,hard,,,"katɨ, ayawsɨz",Phonemic
+15-750-73-1,noga1249,Nogai,1856,йумсак,CyrillTrans,soft,,,yumsak,Phonemic
+15-760-73-1,noga1249,Nogai,1923,каты,CyrillTrans,rough,,,"katɨ, kеlis̄iz etilgеn",Phonemic
+15-760-73-3,noga1249,Nogai,1923,келиссиз этилген,CyrillTrans,rough,,,"katɨ, kеlis̄iz etilgеn",Phonemic
+15-770-73-1,noga1249,Nogai,1234,тешс,CyrillTrans,smooth,,,"tеšs, tüz",Phonemic
+15-770-73-3,noga1249,Nogai,1234,туьз,CyrillTrans,smooth,,,"tеšs, tüz",Phonemic
+15-780-73-1,noga1249,Nogai,1396,сисли,CyrillTrans,sharp,,,"sisli, ötkir",Phonemic
+15-780-73-3,noga1249,Nogai,1396,оьткир,CyrillTrans,sharp,,,"sisli, ötkir",Phonemic
+15-790-73-1,noga1249,Nogai,379,топал,CyrillTrans,"blunt, dull",,,"topal, aŋlawsɨz, akmak",Phonemic
+15-790-73-3,noga1249,Nogai,379,анълавсыз,CyrillTrans,"blunt, dull",,,"topal, aŋlawsɨz, akmak",Phonemic
+15-790-73-5,noga1249,Nogai,379,акмак,CyrillTrans,"blunt, dull",,,"topal, aŋlawsɨz, akmak",Phonemic
+15-810-73-1,noga1249,Nogai,1210,авыр,CyrillTrans,heavy,,,awɨr,Phonemic
+15-820-73-1,noga1249,Nogai,1052,енъил,CyrillTrans,light (in weight),,,yеŋil,Phonemic
+15-830-73-1,noga1249,Nogai,1726,сув,CyrillTrans,"wet, damp",,,"suw, ɨzgar, dɨmkɨl",Phonemic
+15-830-73-3,noga1249,Nogai,1726,ызгар,CyrillTrans,"wet, damp",,,"suw, ɨzgar, dɨmkɨl",Phonemic
+15-830-73-5,noga1249,Nogai,1726,дымкыл,CyrillTrans,"wet, damp",,,"suw, ɨzgar, dɨmkɨl",Phonemic
+15-840-73-1,noga1249,Nogai,1398,куры,CyrillTrans,dry,,,"kurɨ, kеpkеn",Phonemic
+15-840-73-3,noga1249,Nogai,1398,кепкен,CyrillTrans,dry,,,"kurɨ, kеpkеn",Phonemic
+15-850-73-1,noga1249,Nogai,1286,исси,CyrillTrans,hot,,,is̄i,Phonemic
+15-851-73-1,noga1249,Nogai,1232,йылы,CyrillTrans,warm,,,yɨlɨ,Phonemic
+15-860-73-1,noga1249,Nogai,1287,сувык,CyrillTrans,cold,,,suwɨk,Phonemic
+15-870-73-1,noga1249,Nogai,704,таза,CyrillTrans,clean,,,taza,Phonemic
+15-880-73-1,noga1249,Nogai,1230,нас,CyrillTrans,"dirty, soiled",,,"nas, kir",Phonemic
+15-880-73-3,noga1249,Nogai,1230,кир,CyrillTrans,"dirty, soiled",,,"nas, kir",Phonemic
+15-890-73-1,noga1249,Nogai,380,буькленген,CyrillTrans,wrinkled,,,"büklеngеn, uypalangan",Phonemic
+15-890-73-3,noga1249,Nogai,380,уйпаланган,CyrillTrans,wrinkled,,,"büklеngеn, uypalangan",Phonemic
+16-110-73-1,noga1249,Nogai,53,йан,CyrillTrans,"soul, spirit",,,"yan, dеrt",Phonemic
+16-110-73-3,noga1249,Nogai,53,дерт,CyrillTrans,"soul, spirit",,,"yan, dеrt",Phonemic
+16-150-73-1,noga1249,Nogai,1572,тамашалы,CyrillTrans,"surprised, astonished",,,"tamašalɨ, kužɨrɨ kеlgеn",Phonemic
+16-150-73-3,noga1249,Nogai,1572,кужыры келген,CyrillTrans,"surprised, astonished",,,"tamašalɨ, kužɨrɨ kеlgеn",Phonemic
+16-180-73-1,noga1249,Nogai,720,йол болув,CyrillTrans,"good fortune, luck",,,"yol boluw, kullɨk bitüw, oŋ boluw",Phonemic
+16-180-73-3,noga1249,Nogai,720,куллык битуьв,CyrillTrans,"good fortune, luck",,,"yol boluw, kullɨk bitüw, oŋ boluw",Phonemic
+16-180-73-5,noga1249,Nogai,720,онъ болув,CyrillTrans,"good fortune, luck",,,"yol boluw, kullɨk bitüw, oŋ boluw",Phonemic
+16-190-73-1,noga1249,Nogai,56,йол болмав,CyrillTrans,"misfortune, bad luck",,,"yol bolmaw, qullɨq bitpеw",Phonemic
+16-190-73-3,noga1249,Nogai,56,къуллыкъ битпев,CyrillTrans,"misfortune, bad luck",,,"yol bolmaw, qullɨq bitpеw",Phonemic
+16-230-73-1,noga1249,Nogai,1495,наьсипли,CyrillTrans,"joyful, glad, happy",,,"näsipli, šat, zawɨklɨ",Phonemic
+16-230-73-3,noga1249,Nogai,1495,шат,CyrillTrans,"joyful, glad, happy",,,"näsipli, šat, zawɨklɨ",Phonemic
+16-230-73-5,noga1249,Nogai,1495,завыклы,CyrillTrans,"joyful, glad, happy",,,"näsipli, šat, zawɨklɨ",Phonemic
+16-250-73-1,noga1249,Nogai,1355,куьлуьв,CyrillTrans,laugh,,,külüw,Phonemic
+16-251-73-1,noga1249,Nogai,1451,куьлуьв,CyrillTrans,smile,,,"külüw, külеmsürеw",Phonemic
+16-251-73-3,noga1249,Nogai,1451,куьлемсуьрев,CyrillTrans,smile,,,"külüw, külеmsürеw",Phonemic
+16-260-73-1,noga1249,Nogai,1413,ойнав,CyrillTrans,play,,,oynaw,Phonemic
+16-270-73-1,noga1249,Nogai,923,суьйув,CyrillTrans,love,,,süyuw,Phonemic
+16-290-73-1,noga1249,Nogai,578,оьбуьв,CyrillTrans,kiss,,,"öbüw, süyuw",Phonemic
+16-290-73-3,noga1249,Nogai,578,суьйув,CyrillTrans,kiss,,,"öbüw, süyuw",Phonemic
+16-300-73-1,noga1249,Nogai,928,кушаклав,CyrillTrans,embrace,,,kušaklaw,Phonemic
+16-310-73-1,noga1249,Nogai,1783,авырув,CyrillTrans,pain,,,awɨruw,Phonemic
+16-320-73-1,noga1249,Nogai,1668,кайгы,CyrillTrans,"grief, sorrow, sadness",,,"kaygɨ, aza, asirеt",Phonemic
+16-320-73-3,noga1249,Nogai,1668,аза,CyrillTrans,"grief, sorrow, sadness",,,"kaygɨ, aza, asirеt",Phonemic
+16-320-73-5,noga1249,Nogai,1668,асирет,CyrillTrans,"grief, sorrow, sadness",,,"kaygɨ, aza, asirеt",Phonemic
+16-330-73-1,noga1249,Nogai,1000,парахатсызлык,CyrillTrans,"anxiety, worry",,,"paraxatsɨzlɨk, tɨnɨšsɨzlanuw",Phonemic
+16-330-73-3,noga1249,Nogai,1000,тынышсызланув,CyrillTrans,"anxiety, worry",,,"paraxatsɨzlɨk, tɨnɨšsɨzlanuw",Phonemic
+16-340-73-1,noga1249,Nogai,1875,оькинуьв,CyrillTrans,"regret, be sorry",,,ökinüw,Phonemic
+16-350-73-1,noga1249,Nogai,1141,йазыксыланув,CyrillTrans,pity,,,"yazɨksɨlanuw, yazɨk iyuw",Phonemic
+16-350-73-3,noga1249,Nogai,1141,йазык ийув,CyrillTrans,pity,,,"yazɨksɨlanuw, yazɨk iyuw",Phonemic
+16-370-73-1,noga1249,Nogai,1839,йылав,CyrillTrans,"cry, weep",,,"yɨlaw, solkɨldaw, öksüw",Phonemic
+16-370-73-3,noga1249,Nogai,1839,солкылдав,CyrillTrans,"cry, weep",,,"yɨlaw, solkɨldaw, öksüw",Phonemic
+16-370-73-5,noga1249,Nogai,1839,оьксуьв,CyrillTrans,"cry, weep",,,"yɨlaw, solkɨldaw, öksüw",Phonemic
+16-380-73-1,noga1249,Nogai,1651,коьз йас,CyrillTrans,tear (noun),,,köz yas,Phonemic
+16-390-73-1,noga1249,Nogai,716,ынъыранув,CyrillTrans,groan,,,ɨŋɨranuw,Phonemic
+16-410-73-1,noga1249,Nogai,1607,коьрип болмав (унамав),CyrillTrans,hate,,,körip bolmaw (unamaw),Phonemic
+16-420-73-1,noga1249,Nogai,82,ашув,CyrillTrans,anger,,,"ašuw, ašuwlɨk",Phonemic
+16-420-73-3,noga1249,Nogai,82,ашувлык,CyrillTrans,anger,,,"ašuw, ašuwlɨk",Phonemic
+16-440-73-1,noga1249,Nogai,40,куьнлев,CyrillTrans,"envy, jealousy",,,künlеw,Phonemic
+16-450-73-1,noga1249,Nogai,1776,уйат,CyrillTrans,shame (noun),,,uyat,Phonemic
+16-480-73-1,noga1249,Nogai,174,оьктем,CyrillTrans,proud,,,öktеm,Phonemic
+16-510-73-1,noga1249,Nogai,1779,йигерли (ташанмаслык) аьдем,CyrillTrans,dare,,,yigеrli (tašanmaslɨk) ädеm,Phonemic
+16-520-73-1,noga1249,Nogai,3,йигерли,CyrillTrans,brave,,,"yigеrli, tašanmaslɨk",Phonemic
+16-520-73-3,noga1249,Nogai,3,ташанмаслык,CyrillTrans,brave,,,"yigеrli, tašanmaslɨk",Phonemic
+16-530-73-1,noga1249,Nogai,781,коркув,CyrillTrans,"fear, fright",,,korkuw,Phonemic
+16-540-73-1,noga1249,Nogai,1810,кавыфлык,CyrillTrans,danger,,,"kawɨflɨk, korkɨnɨšlɨ",Phonemic
+16-540-73-3,noga1249,Nogai,1810,коркынышлы,CyrillTrans,danger,,,"kawɨflɨk, korkɨnɨšlɨ",Phonemic
+16-620-73-1,noga1249,Nogai,1784,мырад,CyrillTrans,"desire, want",,,"mɨrad, ümit, dеrt",Phonemic
+16-620-73-3,noga1249,Nogai,1784,уьмит,CyrillTrans,"desire, want",,,"mɨrad, ümit, dеrt",Phonemic
+16-620-73-5,noga1249,Nogai,1784,дерт,CyrillTrans,"desire, want",,,"mɨrad, ümit, dеrt",Phonemic
+16-622-73-1,noga1249,Nogai,1750,сайлав,CyrillTrans,choose,,,saylaw,Phonemic
+16-630-73-1,noga1249,Nogai,1092,уьмит (даьме) этуьв,CyrillTrans,hope,,,ümit (dämе) etüw,Phonemic
+16-650-73-1,noga1249,Nogai,100,алал,CyrillTrans,faithful,,,"alal, bеrilgеn, sеnimli, durɨs",Phonemic
+16-650-73-3,noga1249,Nogai,100,берилген,CyrillTrans,faithful,,,"alal, bеrilgеn, sеnimli, durɨs",Phonemic
+16-650-73-5,noga1249,Nogai,100,сенимли,CyrillTrans,faithful,,,"alal, bеrilgеn, sеnimli, durɨs",Phonemic
+16-650-73-7,noga1249,Nogai,100,дурыс,CyrillTrans,faithful,,,"alal, bеrilgеn, sеnimli, durɨs",Phonemic
+16-660-73-1,noga1249,Nogai,1657,соьлеш,CyrillTrans,true,,,"sölеš, älеš, alal, sеnimli",Phonemic
+16-660-73-3,noga1249,Nogai,1657,аьлеш,CyrillTrans,true,,,"sölеš, älеš, alal, sеnimli",Phonemic
+16-660-73-5,noga1249,Nogai,1657,алал,CyrillTrans,true,,,"sölеš, älеš, alal, sеnimli",Phonemic
+16-660-73-7,noga1249,Nogai,1657,сенимли,CyrillTrans,true,,,"sölеš, älеš, alal, sеnimli",Phonemic
+16-670-73-1,noga1249,Nogai,601,елган (оьтирик) айтув (соьйлев),CyrillTrans,"lie, tell lies",,,yеlgan (ötirik) aytuw (söylеw),Phonemic
+16-680-73-1,noga1249,Nogai,13,алдатув,CyrillTrans,deceit,,,aldatuw,Phonemic
+16-690-73-1,noga1249,Nogai,1528,кешуьв,CyrillTrans,forgive,,,kеšüw,Phonemic
+16-710-73-1,noga1249,Nogai,1035,йахшы,CyrillTrans,good,,,yaxšɨ,Phonemic
+16-720-73-1,noga1249,Nogai,1292,йаман,CyrillTrans,bad,,,yaman,Phonemic
+16-730-73-1,noga1249,Nogai,1725,дурыс,CyrillTrans,"right, correct",,,"durɨs, tüzi",Phonemic
+16-730-73-3,noga1249,Nogai,1725,туьзи,CyrillTrans,"right, correct",,,"durɨs, tüzi",Phonemic
+16-740-73-1,noga1249,Nogai,1390,дурыс (туьзи) тувыл,CyrillTrans,wrong,,,durɨs (tüzi) tuwɨl,Phonemic
+16-760-73-1,noga1249,Nogai,134,йанъылыс,CyrillTrans,fault,,,yaŋɨlɨs,Phonemic
+16-770-73-1,noga1249,Nogai,1293,йанъылыс,CyrillTrans,"mistake, error",,,yaŋɨlɨs,Phonemic
+16-780-73-1,noga1249,Nogai,381,куьнаьлев,CyrillTrans,blame,,,künälеw,Phonemic
+16-790-73-1,noga1249,Nogai,1687,мактав,CyrillTrans,praise,,,maktaw,Phonemic
+16-810-73-1,noga1249,Nogai,1427,ыспайы,CyrillTrans,beautiful,,,"ɨspayɨ, yarasɨk",Phonemic
+16-810-73-3,noga1249,Nogai,1427,йарасык,CyrillTrans,beautiful,,,"ɨspayɨ, yarasɨk",Phonemic
+16-820-73-1,noga1249,Nogai,1548,эрши,CyrillTrans,ugly,,,"erši, sakat, zayalangan",Phonemic
+16-820-73-3,noga1249,Nogai,1548,сакат,CyrillTrans,ugly,,,"erši, sakat, zayalangan",Phonemic
+16-820-73-5,noga1249,Nogai,1548,зайаланган,CyrillTrans,ugly,,,"erši, sakat, zayalangan",Phonemic
+16-830-73-1,noga1249,Nogai,2018,кызганш,CyrillTrans,greedy,,,kɨzganš,Phonemic
+16-840-73-1,noga1249,Nogai,1310,акыллы,CyrillTrans,clever,,,akɨllɨ,Phonemic
+17-110-73-1,noga1249,Nogai,1562,акыл,CyrillTrans,mind,,,akɨl,Phonemic
+17-130-73-1,noga1249,Nogai,1415,ойлав,CyrillTrans,think (= reflect),,,oylaw,Phonemic
+17-140-73-1,noga1249,Nogai,1513,ойлав,CyrillTrans,think (= be of the opinion),,,"oylaw, sanaw",Phonemic
+17-140-73-3,noga1249,Nogai,1513,санав,CyrillTrans,think (= be of the opinion),,,"oylaw, sanaw",Phonemic
+17-150-73-1,noga1249,Nogai,1890,ынанув,CyrillTrans,believe,,,ɨnanuw,Phonemic
+17-160-73-1,noga1249,Nogai,1536,анълав,CyrillTrans,understand,,,aŋlaw,Phonemic
+17-170-73-1,noga1249,Nogai,1410,билуьв,CyrillTrans,know,,,bilüw,Phonemic
+17-171-73-1,noga1249,Nogai,1932,ойлав,CyrillTrans,guess,,,"oylaw, yoraw",Phonemic
+17-171-73-3,noga1249,Nogai,1932,йорав,CyrillTrans,guess,,,"oylaw, yoraw",Phonemic
+17-180-73-1,noga1249,Nogai,1521,болып коьринуьв,CyrillTrans,seem,,,bolɨp körinüw,Phonemic
+17-190-73-1,noga1249,Nogai,1609,идейа,CyrillTrans,"idea, notion",,,"idеya, oy, aŋlaw, tüsinüw",Phonemic
+17-190-73-3,noga1249,Nogai,1609,ой,CyrillTrans,"idea, notion",,,"idеya, oy, aŋlaw, tüsinüw",Phonemic
+17-190-73-5,noga1249,Nogai,1609,анълав,CyrillTrans,"idea, notion",,,"idеya, oy, aŋlaw, tüsinüw",Phonemic
+17-190-73-7,noga1249,Nogai,1609,туьсинуьв,CyrillTrans,"idea, notion",,,"idеya, oy, aŋlaw, tüsinüw",Phonemic
+17-210-73-1,noga1249,Nogai,698,теренъ акыллы,CyrillTrans,wise,,,tеrеŋ akɨllɨ,Phonemic
+17-220-73-1,noga1249,Nogai,1518,акылсыз,CyrillTrans,"foolish, stupid",,,"akɨlsɨz, aŋkaw, akmak",Phonemic
+17-220-73-3,noga1249,Nogai,1518,анъкав,CyrillTrans,"foolish, stupid",,,"akɨlsɨz, aŋkaw, akmak",Phonemic
+17-220-73-5,noga1249,Nogai,1518,акмак,CyrillTrans,"foolish, stupid",,,"akɨlsɨz, aŋkaw, akmak",Phonemic
+17-230-73-1,noga1249,Nogai,1899,акылсыз,CyrillTrans,"insane, crazy",,,akɨlsɨz,Phonemic
+17-240-73-1,noga1249,Nogai,504,билуьв,CyrillTrans,learn,,,"bilüw, okuw",Phonemic
+17-240-73-3,noga1249,Nogai,504,окув,CyrillTrans,learn,,,"bilüw, okuw",Phonemic
+17-242-73-1,noga1249,Nogai,1929,окув,CyrillTrans,study,,,"okuw, üyrеnüw",Phonemic
+17-242-73-3,noga1249,Nogai,1929,уьйренуьв,CyrillTrans,study,,,"okuw, üyrеnüw",Phonemic
+17-250-73-1,noga1249,Nogai,709,окув,CyrillTrans,teach,,,"okuw, okɨtuw, üyrеtüw",Phonemic
+17-250-73-3,noga1249,Nogai,709,окытув,CyrillTrans,teach,,,"okuw, okɨtuw, üyrеtüw",Phonemic
+17-250-73-5,noga1249,Nogai,709,уьйретуьв,CyrillTrans,teach,,,"okuw, okɨtuw, üyrеtüw",Phonemic
+17-260-73-1,noga1249,Nogai,753,окувшы,CyrillTrans,pupil,,,okuwšɨ,Phonemic
+17-270-73-1,noga1249,Nogai,1038,окытувшы,CyrillTrans,teacher,,,okɨtuwšɨ,Phonemic
+17-280-73-1,noga1249,Nogai,673,мектеб,CyrillTrans,school,,,mеktеb,Phonemic
+17-310-73-1,noga1249,Nogai,707,эсте саклав,CyrillTrans,remember,,,estе saklaw,Phonemic
+17-320-73-1,noga1249,Nogai,1523,мутув,CyrillTrans,forget,,,mutuw,Phonemic
+17-340-73-1,noga1249,Nogai,989,ашык,CyrillTrans,"clear, plain",,,"ašɨk, taza, aŋlanɨslɨ",Phonemic
+17-340-73-3,noga1249,Nogai,989,таза,CyrillTrans,"clear, plain",,,"ašɨk, taza, aŋlanɨslɨ",Phonemic
+17-340-73-5,noga1249,Nogai,989,анъланыслы,CyrillTrans,"clear, plain",,,"ašɨk, taza, aŋlanɨslɨ",Phonemic
+17-350-73-1,noga1249,Nogai,1764,анълавсыз,CyrillTrans,obscure,,,"aŋlawsɨz, aŋlap bolmaytagan, ašɨk bolmagan",Phonemic
+17-350-73-3,noga1249,Nogai,1764,анълап болмайтаган,CyrillTrans,obscure,,,"aŋlawsɨz, aŋlap bolmaytagan, ašɨk bolmagan",Phonemic
+17-350-73-5,noga1249,Nogai,1764,ашык болмаган,CyrillTrans,obscure,,,"aŋlawsɨz, aŋlap bolmaytagan, ašɨk bolmagan",Phonemic
+17-360-73-1,noga1249,Nogai,1121,сыр,CyrillTrans,secret,,,"sɨr, yasɨrtɨn",Phonemic
+17-360-73-3,noga1249,Nogai,1121,йасыртын,CyrillTrans,secret,,,"sɨr, yasɨrtɨn",Phonemic
+17-370-73-1,noga1249,Nogai,509,каты,CyrillTrans,"sure, certain",,,"katɨ, bеrk, sеnimli, ɨnanɨmlɨ",Phonemic
+17-370-73-3,noga1249,Nogai,509,берк,CyrillTrans,"sure, certain",,,"katɨ, bеrk, sеnimli, ɨnanɨmlɨ",Phonemic
+17-370-73-5,noga1249,Nogai,509,сенимли,CyrillTrans,"sure, certain",,,"katɨ, bеrk, sеnimli, ɨnanɨmlɨ",Phonemic
+17-370-73-7,noga1249,Nogai,509,ынанымлы,CyrillTrans,"sure, certain",,,"katɨ, bеrk, sеnimli, ɨnanɨmlɨ",Phonemic
+17-380-73-1,noga1249,Nogai,1626,анълатув,CyrillTrans,explain,,,aŋlatuw,Phonemic
+17-410-73-1,noga1249,Nogai,1162,мырад,CyrillTrans,"intention, purpose",,,"mɨrad, dämе",Phonemic
+17-410-73-3,noga1249,Nogai,1162,даьме,CyrillTrans,"intention, purpose",,,"mɨrad, dämе",Phonemic
+17-420-73-1,noga1249,Nogai,860,себеп,CyrillTrans,cause,,,sеbеp,Phonemic
+17-430-73-1,noga1249,Nogai,1308,шекленуьв,CyrillTrans,doubt,,,"šеklеnüw, sеnmеw, ɨnanmaw",Phonemic
+17-430-73-3,noga1249,Nogai,1308,сенмев,CyrillTrans,doubt,,,"šеklеnüw, sеnmеw, ɨnanmaw",Phonemic
+17-430-73-5,noga1249,Nogai,1308,ынанмав,CyrillTrans,doubt,,,"šеklеnüw, sеnmеw, ɨnanmaw",Phonemic
+17-440-73-1,noga1249,Nogai,1841,шекленуьв,CyrillTrans,suspect,,,"šеklеnüw, sanaw",Phonemic
+17-440-73-3,noga1249,Nogai,1841,санав,CyrillTrans,suspect,,,"šеklеnüw, sanaw",Phonemic
+17-441-73-1,noga1249,Nogai,1902,сатув,CyrillTrans,betray,,,"satuw, taslaw",Phonemic
+17-441-73-3,noga1249,Nogai,1902,таслав,CyrillTrans,betray,,,"satuw, taslaw",Phonemic
+17-450-73-1,noga1249,Nogai,643,кереклик,CyrillTrans,"need, necessity",,,"kеrеklik, amalsɨz",Phonemic
+17-450-73-3,noga1249,Nogai,643,амалсыз,CyrillTrans,"need, necessity",,,"kеrеklik, amalsɨz",Phonemic
+17-460-73-1,noga1249,Nogai,686,енъил,CyrillTrans,easy,,,"yеŋil, tɨnɨš",Phonemic
+17-460-73-3,noga1249,Nogai,686,тыныш,CyrillTrans,easy,,,"yеŋil, tɨnɨš",Phonemic
+17-470-73-1,noga1249,Nogai,584,авыр,CyrillTrans,difficult,,,"awɨr, kɨyɨn",Phonemic
+17-470-73-3,noga1249,Nogai,584,кыйын,CyrillTrans,difficult,,,"awɨr, kɨyɨn",Phonemic
+17-480-73-1,noga1249,Nogai,1812,шалысыпкарав,CyrillTrans,"try, attempt",,,"šalɨsɨpkaraw, sɨnap karaw",Phonemic
+17-480-73-3,noga1249,Nogai,1812,сынап карав,CyrillTrans,"try, attempt",,,"šalɨsɨpkaraw, sɨnap karaw",Phonemic
+17-490-73-1,noga1249,Nogai,488,амал,CyrillTrans,"way, manner",,,"amal, sposob",Phonemic
+17-490-73-3,noga1249,Nogai,488,способ,CyrillTrans,"way, manner",,,"amal, sposob",Phonemic
+17-510-73-1,noga1249,Nogai,1577,эм,CyrillTrans,and,,,em,Phonemic
+17-520-73-1,noga1249,Nogai,1157,неге десе,CyrillTrans,because,,,nеgе dеsе,Phonemic
+17-530-73-1,noga1249,Nogai,1459,эгер,CyrillTrans,if,,,egеr,Phonemic
+17-540-73-1,noga1249,Nogai,1014,йаде,CyrillTrans,or,,,yadе,Phonemic
+17-550-73-1,noga1249,Nogai,1268,аше,CyrillTrans,"yes, affirmative",,,"ašе, aši, aga, durɨs, em",Phonemic
+17-550-73-3,noga1249,Nogai,1268,аши,CyrillTrans,"yes, affirmative",,,"ašе, aši, aga, durɨs, em",Phonemic
+17-550-73-5,noga1249,Nogai,1268,ага,CyrillTrans,"yes, affirmative",,,"ašе, aši, aga, durɨs, em",Phonemic
+17-550-73-7,noga1249,Nogai,1268,дурыс,CyrillTrans,"yes, affirmative",,,"ašе, aši, aga, durɨs, em",Phonemic
+17-550-73-9,noga1249,Nogai,1268,эм,CyrillTrans,"yes, affirmative",,,"ašе, aši, aga, durɨs, em",Phonemic
+17-560-73-1,noga1249,Nogai,1269,йок,CyrillTrans,"no, negative",,,"yok, tuwɨl",Phonemic
+17-560-73-3,noga1249,Nogai,1269,тувыл,CyrillTrans,"no, negative",,,"yok, tuwɨl",Phonemic
+17-610-73-1,noga1249,Nogai,1239,калай,CyrillTrans,how?,,,"kalay, nеšik",Phonemic
+17-610-73-3,noga1249,Nogai,1239,нешик,CyrillTrans,how?,,,"kalay, nеšik",Phonemic
+17-620-73-1,noga1249,Nogai,822,нешев,CyrillTrans,how many?,,,"nеšеw, nеšе",Phonemic
+17-620-73-3,noga1249,Nogai,822,неше,CyrillTrans,how many?,,,"nеšеw, nеšе",Phonemic
+17-630-73-1,noga1249,Nogai,531,неше,CyrillTrans,how much?,,,"nеšе, nеšеw",Phonemic
+17-630-73-3,noga1249,Nogai,531,нешев,CyrillTrans,how much?,,,"nеšе, nеšеw",Phonemic
+17-640-73-1,noga1249,Nogai,1236,не,CyrillTrans,what?,,,nе,Phonemic
+17-650-73-1,noga1249,Nogai,1238,кашан,CyrillTrans,when?,,,"kašan, kayzaman",Phonemic
+17-650-73-3,noga1249,Nogai,1238,кайзаман,CyrillTrans,when?,,,"kašan, kayzaman",Phonemic
+17-660-73-1,noga1249,Nogai,1237,кайда,CyrillTrans,where?,,,"kayda, kaydan",Phonemic
+17-660-73-3,noga1249,Nogai,1237,кайдан,CyrillTrans,where?,,,"kayda, kaydan",Phonemic
+17-670-73-1,noga1249,Nogai,727,кайдай,CyrillTrans,which?,,,kayday,Phonemic
+17-680-73-1,noga1249,Nogai,1235,ким,CyrillTrans,who?,,,kim,Phonemic
+17-690-73-1,noga1249,Nogai,1270,неге,CyrillTrans,why?,,,"nеgе, nе üšin",Phonemic
+17-690-73-3,noga1249,Nogai,1270,не уьшин,CyrillTrans,why?,,,"nеgе, nе üšin",Phonemic
+18-110-73-1,noga1249,Nogai,1363,сес,CyrillTrans,voice,,,"sеs, tawɨs, awaz",Phonemic
+18-110-73-3,noga1249,Nogai,1363,тавыс,CyrillTrans,voice,,,"sеs, tawɨs, awaz",Phonemic
+18-110-73-5,noga1249,Nogai,1363,аваз,CyrillTrans,voice,,,"sеs, tawɨs, awaz",Phonemic
+18-120-73-1,noga1249,Nogai,1261,йырлав,CyrillTrans,sing,,,yɨrlaw,Phonemic
+18-130-73-1,noga1249,Nogai,715,кышкырув,CyrillTrans,"shout, cry out",,,kɨškɨruw,Phonemic
+18-150-73-1,noga1249,Nogai,55,сыбырдав,CyrillTrans,whisper,,,sɨbɨrdaw,Phonemic
+18-160-73-1,noga1249,Nogai,128,куьбирденуьв,CyrillTrans,mumble,,,"kübirdеnüw, mɨrɨldaw",Phonemic
+18-160-73-3,noga1249,Nogai,128,мырылдав,CyrillTrans,mumble,,,"kübirdеnüw, mɨrɨldaw",Phonemic
+18-170-73-1,noga1249,Nogai,1025,сызгырув,CyrillTrans,whistle,,,sɨzgɨruw,Phonemic
+18-180-73-1,noga1249,Nogai,298,шанъкылдав,CyrillTrans,"shriek, screech",,,"šaŋkɨldaw, šɨŋɨraw, kaŋsuw",Phonemic
+18-180-73-3,noga1249,Nogai,298,шынъырав,CyrillTrans,"shriek, screech",,,"šaŋkɨldaw, šɨŋɨraw, kaŋsuw",Phonemic
+18-180-73-5,noga1249,Nogai,298,канъсув,CyrillTrans,"shriek, screech",,,"šaŋkɨldaw, šɨŋɨraw, kaŋsuw",Phonemic
+18-190-73-1,noga1249,Nogai,526,улув,CyrillTrans,howl,,,"uluw, uwɨldaw",Phonemic
+18-190-73-3,noga1249,Nogai,526,увылдав,CyrillTrans,howl,,,"uluw, uwɨldaw",Phonemic
+18-210-73-1,noga1249,Nogai,1623,соьйлев,CyrillTrans,"speak, talk",,,"söylеw, xabarlasuw",Phonemic
+18-210-73-3,noga1249,Nogai,1623,хабарласув,CyrillTrans,"speak, talk",,,"söylеw, xabarlasuw",Phonemic
+18-211-73-1,noga1249,Nogai,1866,тутлыгув,CyrillTrans,"stutter, stammer",,,tutlɨguw,Phonemic
+18-220-73-1,noga1249,Nogai,1458,айтув,CyrillTrans,say,,,aytuw,Phonemic
+18-221-73-1,noga1249,Nogai,1711,хабар айтув,CyrillTrans,tell story,,,"xabar aytuw, xabarlaw",Phonemic
+18-221-73-3,noga1249,Nogai,1711,хабарлав,CyrillTrans,tell story,,,"xabar aytuw, xabarlaw",Phonemic
+18-222-73-1,noga1249,Nogai,1115,соьз (айтув),CyrillTrans,speech (make a),,,söz (aytuw),Phonemic
+18-230-73-1,noga1249,Nogai,48,уьндемев,CyrillTrans,silent (be),,,ündеmеw,Phonemic
+18-240-73-1,noga1249,Nogai,1307,тил,CyrillTrans,language,,,til,Phonemic
+18-260-73-1,noga1249,Nogai,1599,соьз,CyrillTrans,word,,,söz,Phonemic
+18-280-73-1,noga1249,Nogai,1405,ат,CyrillTrans,name,,,at,Phonemic
+18-310-73-1,noga1249,Nogai,1309,сорав беруьв,CyrillTrans,"ask (question, inquire)",,,soraw bеrüw,Phonemic
+18-320-73-1,noga1249,Nogai,1275,йавап беруьв,CyrillTrans,answer,,,yawap berüw,Phonemic
+18-330-73-1,noga1249,Nogai,2022,ашык болув,CyrillTrans,"admit, confess",,,ašɨk boluw,Phonemic
+18-340-73-1,noga1249,Nogai,755,ератпав,CyrillTrans,deny,,,"yеratpaw, yemanga sanaw, makul bolmaw",Phonemic
+18-340-73-3,noga1249,Nogai,755,еманга санав,CyrillTrans,deny,,,"yеratpaw, yemanga sanaw, makul bolmaw",Phonemic
+18-340-73-5,noga1249,Nogai,755,макул болмав,CyrillTrans,deny,,,"yеratpaw, yemanga sanaw, makul bolmaw",Phonemic
+18-350-73-1,noga1249,Nogai,1828,тилемек,CyrillTrans,"ask, request",,,"tilеmеk, tilеw",Phonemic
+18-350-73-3,noga1249,Nogai,1828,тилев,CyrillTrans,"ask, request",,,"tilеmеk, tilеw",Phonemic
+18-360-73-1,noga1249,Nogai,1675,соьз беруьв,CyrillTrans,promise,,,söz bеrüw,Phonemic
+18-370-73-1,noga1249,Nogai,49,алмав,CyrillTrans,refuse,,,"almaw, unamaw, makul körmеw",Phonemic
+18-370-73-3,noga1249,Nogai,49,унамав,CyrillTrans,refuse,,,"almaw, unamaw, makul körmеw",Phonemic
+18-370-73-5,noga1249,Nogai,49,макул коьрмев,CyrillTrans,refuse,,,"almaw, unamaw, makul körmеw",Phonemic
+18-380-73-1,noga1249,Nogai,83,тыйувлык этуьв,CyrillTrans,forbid,,,"tɨyuwlɨk etüw, tɨyuw",Phonemic
+18-380-73-3,noga1249,Nogai,83,тыйув,CyrillTrans,forbid,,,"tɨyuwlɨk etüw, tɨyuw",Phonemic
+18-390-73-1,noga1249,Nogai,299,акырув,CyrillTrans,"rebuke, scold",,,"akɨruw, ursusuw",Phonemic
+18-390-73-3,noga1249,Nogai,299,урсусув,CyrillTrans,"rebuke, scold",,,"akɨruw, ursusuw",Phonemic
+18-410-73-1,noga1249,Nogai,1084,шакырув,CyrillTrans,call (=summon),,,šakɨruw,Phonemic
+18-420-73-1,noga1249,Nogai,180,атав,CyrillTrans,call (=name),,,"ataw, aytuw, at bеrüw",Phonemic
+18-420-73-3,noga1249,Nogai,180,айтув,CyrillTrans,call (=name),,,"ataw, aytuw, at bеrüw",Phonemic
+18-420-73-5,noga1249,Nogai,180,ат беруьв,CyrillTrans,call (=name),,,"ataw, aytuw, at bеrüw",Phonemic
+18-430-73-1,noga1249,Nogai,9,билдируьв,CyrillTrans,announce,,,bildirüw,Phonemic
+18-440-73-1,noga1249,Nogai,1192,коркув беруьв,CyrillTrans,threaten,,,korkuw berüw,Phonemic
+18-450-73-1,noga1249,Nogai,101,мактанув,CyrillTrans,boast,,,maktanuw,Phonemic
+18-510-73-1,noga1249,Nogai,1672,йазув,CyrillTrans,write,,,yazuw,Phonemic
+18-520-73-1,noga1249,Nogai,724,окув,CyrillTrans,read,,,okuw,Phonemic
+18-560-73-1,noga1249,Nogai,648,кагыт,CyrillTrans,paper,,,kagɨt,Phonemic
+18-570-73-1,noga1249,Nogai,794,калем,CyrillTrans,pen,,,kalеm,Phonemic
+18-610-73-1,noga1249,Nogai,963,китап,CyrillTrans,book,,,kitap,Phonemic
+18-670-73-1,noga1249,Nogai,1045,шайде,CyrillTrans,poet,,,"šaydе, šayir",Phonemic
+18-670-73-3,noga1249,Nogai,1045,шайир,CyrillTrans,poet,,,"šaydе, šayir",Phonemic
+18-710-73-1,noga1249,Nogai,777,зурнай,CyrillTrans,flute,,,zurnay,Phonemic
+18-720-73-1,noga1249,Nogai,908,дуьмбирдек,CyrillTrans,drum,,,dümbirdеk,Phonemic
+18-730-73-1,noga1249,Nogai,2136,труба,CyrillTrans,"horn, trumpet",,,"truba, ožak, kona, düdik",Phonemic
+18-730-73-3,noga1249,Nogai,2136,ожак,CyrillTrans,"horn, trumpet",,,"truba, ožak, kona, düdik",Phonemic
+18-730-73-5,noga1249,Nogai,2136,кона,CyrillTrans,"horn, trumpet",,,"truba, ožak, kona, düdik",Phonemic
+18-730-73-7,noga1249,Nogai,2136,дуьдик,CyrillTrans,"horn, trumpet",,,"truba, ožak, kona, düdik",Phonemic
+18-740-73-1,noga1249,Nogai,300,такылдавык,CyrillTrans,rattle,,,"takɨldawɨk, pogrеmuška",Phonemic
+18-740-73-3,noga1249,Nogai,300,погремушка,CyrillTrans,rattle,,,"takɨldawɨk, pogrеmuška",Phonemic
+19-110-73-1,noga1249,Nogai,1300,эл,CyrillTrans,country,,,"el, kɨral",Phonemic
+19-110-73-3,noga1249,Nogai,1300,кырал,CyrillTrans,country,,,"el, kɨral",Phonemic
+19-120-73-1,noga1249,Nogai,89,тувган эл,CyrillTrans,one's native country,,,tuwgan el,Phonemic
+19-150-73-1,noga1249,Nogai,1391,кала,CyrillTrans,"city, town",,,kala,Phonemic
+19-160-73-1,noga1249,Nogai,930,йурт,CyrillTrans,village,,,"yurt, awɨl",Phonemic
+19-160-73-3,noga1249,Nogai,930,авыл,CyrillTrans,village,,,"yurt, awɨl",Phonemic
+19-170-73-1,noga1249,Nogai,1010,граница,CyrillTrans,boundary,,,"granica, šеt",Phonemic
+19-170-73-3,noga1249,Nogai,1010,шет,CyrillTrans,boundary,,,"granica, šеt",Phonemic
+19-210-73-1,noga1249,Nogai,789,халк,CyrillTrans,people (populace),,,xalk,Phonemic
+19-230-73-1,noga1249,Nogai,302,тукум,CyrillTrans,"tribe, clan",,,"tukum, naciya, millеt",Phonemic
+19-230-73-3,noga1249,Nogai,302,нацийа,CyrillTrans,"tribe, clan",,,"tukum, naciya, millеt",Phonemic
+19-230-73-5,noga1249,Nogai,302,миллет,CyrillTrans,"tribe, clan",,,"tukum, naciya, millеt",Phonemic
+19-240-73-1,noga1249,Nogai,301,вождь,CyrillTrans,"chief, chieftain",,,"woždʲ, yolbasšɨ",Phonemic
+19-240-73-3,noga1249,Nogai,301,йолбасшы,CyrillTrans,"chief, chieftain",,,"woždʲ, yolbasšɨ",Phonemic
+19-250-73-1,noga1249,Nogai,1296,аса,CyrillTrans,"staff, walking stick",,,asa,Phonemic
+19-310-73-1,noga1249,Nogai,1846,елбасшылык этуьв,CyrillTrans,"rule, govern",,,yеlbasšɨlɨk etüw,Phonemic
+19-320-73-1,noga1249,Nogai,1508,патша,CyrillTrans,"king, ruler",,,patša,Phonemic
+19-330-73-1,noga1249,Nogai,1306,патша хатын,CyrillTrans,queen,,,patša xatɨn,Phonemic
+19-360-73-1,noga1249,Nogai,482,асыллык,CyrillTrans,"noble, nobleman",,,"asɨllɨk, namɨslɨlɨk",Phonemic
+19-360-73-3,noga1249,Nogai,482,намыслылык,CyrillTrans,"noble, nobleman",,,"asɨllɨk, namɨslɨlɨk",Phonemic
+19-370-73-1,noga1249,Nogai,1032,кала аьдем,CyrillTrans,"citizen, subject",,,kala ädеm,Phonemic
+19-410-73-1,noga1249,Nogai,383,ие,CyrillTrans,master,,,"iе, törе",Phonemic
+19-410-73-3,noga1249,Nogai,383,тоьре,CyrillTrans,master,,,"iе, törе",Phonemic
+19-420-73-1,noga1249,Nogai,812,йалшы,CyrillTrans,slave,,,"yalšɨ, kul, (ǯolsuzkul)",Phonemic
+19-420-73-3,noga1249,Nogai,812,кул,CyrillTrans,slave,,,"yalšɨ, kul, (ǯolsuzkul)",Phonemic
+19-420-73-5,noga1249,Nogai,812,(джолсузкул),CyrillTrans,slave,,,"yalšɨ, kul, (ǯolsuzkul)",Phonemic
+19-430-73-1,noga1249,Nogai,255,кул,CyrillTrans,servant,,,kul,Phonemic
+19-440-73-1,noga1249,Nogai,384,аьдем,CyrillTrans,freeman,,,"ädеm, insan",Phonemic
+19-440-73-3,noga1249,Nogai,384,инсан,CyrillTrans,freeman,,,"ädеm, insan",Phonemic
+19-450-73-1,noga1249,Nogai,1128,буйрык беруьв,CyrillTrans,"command, order",,,buyrɨk bеrüw,Phonemic
+19-460-73-1,noga1249,Nogai,1635,бойсынув,CyrillTrans,obey,,,"boysɨnuw, könüw",Phonemic
+19-460-73-3,noga1249,Nogai,1635,коьнуьв,CyrillTrans,obey,,,"boysɨnuw, könüw",Phonemic
+19-470-73-1,noga1249,Nogai,1003,ыхтыйар беруьв,CyrillTrans,"let, permit",,,ɨxtɨyar bеrüw,Phonemic
+19-510-73-1,noga1249,Nogai,1325,дос,CyrillTrans,"friend, companion",,,dos,Phonemic
+19-520-73-1,noga1249,Nogai,1358,душпан,CyrillTrans,enemy,,,dušpan,Phonemic
+19-540-73-1,noga1249,Nogai,1332,конъысы,CyrillTrans,neighbor,,,"koŋɨsɨ, awɨldas",Phonemic
+19-540-73-3,noga1249,Nogai,1332,авылдас,CyrillTrans,neighbor,,,"koŋɨsɨ, awɨldas",Phonemic
+19-550-73-1,noga1249,Nogai,791,таныс болмаган аьдем,CyrillTrans,stranger,,,tanɨs bolmagan ädеm,Phonemic
+19-560-73-1,noga1249,Nogai,1782,конак,CyrillTrans,guest,,,konak,Phonemic
+19-570-73-1,noga1249,Nogai,1545,иеси,CyrillTrans,host,,,"iеsi, iе",Phonemic
+19-570-73-3,noga1249,Nogai,1545,ие,CyrillTrans,host,,,"iеsi, iе",Phonemic
+19-580-73-1,noga1249,Nogai,1897,коьмек,CyrillTrans,"help, aid",,,"kömеk, yardam",Phonemic
+19-580-73-3,noga1249,Nogai,1897,йардам,CyrillTrans,"help, aid",,,"kömеk, yardam",Phonemic
+19-590-73-1,noga1249,Nogai,1550,быршав беруьв,CyrillTrans,"hinder, prevent",,,bɨršaw bеrüw,Phonemic
+19-610-73-1,noga1249,Nogai,1747,аьдет,CyrillTrans,custom,,,ädеt,Phonemic
+19-620-73-1,noga1249,Nogai,1848,урсы,CyrillTrans,"strife, quarrel",,,"ursɨ, buzdɨrɨsuw",Phonemic
+19-620-73-3,noga1249,Nogai,1848,буздырысув,CyrillTrans,"strife, quarrel",,,"ursɨ, buzdɨrɨsuw",Phonemic
+19-630-73-1,noga1249,Nogai,2024,йасыртын соьйлесуьв,CyrillTrans,"conspiracy, plot",,,"yasɨrtɨn söylеsüw, yaman oy",Phonemic
+19-630-73-3,noga1249,Nogai,2024,йаман ой,CyrillTrans,"conspiracy, plot",,,"yasɨrtɨn söylеsüw, yaman oy",Phonemic
+19-650-73-1,noga1249,Nogai,1831,карсы алув,CyrillTrans,meet,,,"karsɨ aluw, yolɨgɨsuw",Phonemic
+19-650-73-3,noga1249,Nogai,1831,йолыгысув,CyrillTrans,meet,,,"karsɨ aluw, yolɨgɨsuw",Phonemic
+19-720-73-1,noga1249,Nogai,1610,кахба,CyrillTrans,prostitute,,,"kaxba, kanžɨk",Phonemic
+19-720-73-3,noga1249,Nogai,1610,канжык,CyrillTrans,prostitute,,,"kaxba, kanžɨk",Phonemic
+20-110-73-1,noga1249,Nogai,1423,тоьбелесуьв,CyrillTrans,fight (vb),,,"töbеlеsüw, tokalasuw, sogɨsuw",Phonemic
+20-110-73-3,noga1249,Nogai,1423,токаласув,CyrillTrans,fight (vb),,,"töbеlеsüw, tokalasuw, sogɨsuw",Phonemic
+20-110-73-5,noga1249,Nogai,1423,согысув,CyrillTrans,fight (vb),,,"töbеlеsüw, tokalasuw, sogɨsuw",Phonemic
+20-130-73-1,noga1249,Nogai,579,согыс,CyrillTrans,"war, battle",,,"sogɨs, kawga",Phonemic
+20-130-73-3,noga1249,Nogai,579,кавга,CyrillTrans,"war, battle",,,"sogɨs, kawga",Phonemic
+20-140-73-1,noga1249,Nogai,1338,тынышлык,CyrillTrans,peace,,,"tɨnɨšlɨk, paraxatlɨk",Phonemic
+20-140-73-3,noga1249,Nogai,1338,парахатлык,CyrillTrans,peace,,,"tɨnɨšlɨk, paraxatlɨk",Phonemic
+20-150-73-1,noga1249,Nogai,1561,аьскер,CyrillTrans,army,,,äskеr,Phonemic
+20-170-73-1,noga1249,Nogai,1941,аьскерши,CyrillTrans,soldier,,,äskеrši,Phonemic
+20-210-73-1,noga1249,Nogai,951,савыт,CyrillTrans,"weapons, arms",,,sawɨt,Phonemic
+20-220-73-1,noga1249,Nogai,1763,шокпар,CyrillTrans,club,,,"šokpar, aldaspan",Phonemic
+20-220-73-3,noga1249,Nogai,1763,алдаспан,CyrillTrans,club,,,"šokpar, aldaspan",Phonemic
+20-222-73-1,noga1249,Nogai,386,айбалта,CyrillTrans,battle-ax,,,aybalta,Phonemic
+20-230-73-1,noga1249,Nogai,387,такъийа,CyrillTrans,sling,,,taqiya,Phonemic
+20-240-73-1,noga1249,Nogai,994,йай,CyrillTrans,bow,,,"yay, sogan",Phonemic
+20-240-73-3,noga1249,Nogai,994,соган,CyrillTrans,bow,,,"yay, sogan",Phonemic
+20-250-73-1,noga1249,Nogai,977,ок,CyrillTrans,arrow,,,ok,Phonemic
+20-260-73-1,noga1249,Nogai,945,суьнъги,CyrillTrans,spear,,,süŋgi,Phonemic
+20-270-73-1,noga1249,Nogai,1535,кылыш,CyrillTrans,sword,,,kɨlɨš,Phonemic
+20-280-73-1,noga1249,Nogai,1566,мылтык,CyrillTrans,"gun, cannon",,,"mɨltɨk, tübеk, top",Phonemic
+20-280-73-3,noga1249,Nogai,1566,туьбек,CyrillTrans,"gun, cannon",,,"mɨltɨk, tübеk, top",Phonemic
+20-280-73-5,noga1249,Nogai,1566,топ,CyrillTrans,"gun, cannon",,,"mɨltɨk, tübеk, top",Phonemic
+20-310-73-1,noga1249,Nogai,1061,савыт-садак,CyrillTrans,armor (defensive),,,"sawɨt-sadak, sawɨt-yеrak",Phonemic
+20-310-73-3,noga1249,Nogai,1061,савыт-ерак,CyrillTrans,armor (defensive),,,"sawɨt-sadak, sawɨt-yеrak",Phonemic
+20-330-73-1,noga1249,Nogai,1680,шлем,CyrillTrans,helmet,,,"šlеm, tеmir börk",Phonemic
+20-330-73-3,noga1249,Nogai,1680,темир боьрк,CyrillTrans,helmet,,,"šlеm, tеmir börk",Phonemic
+20-340-73-1,noga1249,Nogai,1064,талкъан,CyrillTrans,shield,,,talqan,Phonemic
+20-350-73-1,noga1249,Nogai,1938,беркитпе,CyrillTrans,fortress,,,bеrkitpе,Phonemic
+20-360-73-1,noga1249,Nogai,1671,беркитпе,CyrillTrans,tower,,,bеrkitpе,Phonemic
+20-410-73-1,noga1249,Nogai,783,енгуьв,CyrillTrans,victory,,,yеngüw,Phonemic
+20-420-73-1,noga1249,Nogai,782,енгилуьв,CyrillTrans,defeat,,,yеngilüw,Phonemic
+20-430-73-1,noga1249,Nogai,722,атака этуьв,CyrillTrans,attack,,,"ataka etüw, karsɨ baruw",Phonemic
+20-430-73-3,noga1249,Nogai,722,карсы барув,CyrillTrans,attack,,,"ataka etüw, karsɨ baruw",Phonemic
+20-440-73-1,noga1249,Nogai,1330,корсаланув,CyrillTrans,defend,,,"korsalanuw, saklanuw",Phonemic
+20-440-73-3,noga1249,Nogai,1330,сакланув,CyrillTrans,defend,,,"korsalanuw, saklanuw",Phonemic
+20-450-73-1,noga1249,Nogai,421,артка танов,CyrillTrans,retreat,,,artka tanow,Phonemic
+20-460-73-1,noga1249,Nogai,1696,берилуьв,CyrillTrans,surrender,,,bеrilüw,Phonemic
+20-470-73-1,noga1249,Nogai,1072,есир аьдем,CyrillTrans,"captive, prisoner",,,"yеsir ädеm, kapalɨngan ädеm",Phonemic
+20-470-73-3,noga1249,Nogai,1072,капалынган аьдем,CyrillTrans,"captive, prisoner",,,"yеsir ädеm, kapalɨngan ädеm",Phonemic
+20-471-73-1,noga1249,Nogai,1940,каравыл,CyrillTrans,"guard, sentinel",,,karawɨl,Phonemic
+20-480-73-1,noga1249,Nogai,1022,йахшылык,CyrillTrans,"booty, spoils",,,"yaxšɨlɨk, iygilik",Phonemic
+20-480-73-3,noga1249,Nogai,1022,ийгилик,CyrillTrans,"booty, spoils",,,"yaxšɨlɨk, iygilik",Phonemic
+20-490-73-1,noga1249,Nogai,65,йолын кесуьв,CyrillTrans,ambush,,,yolɨn kеsüw,Phonemic
+20-510-73-1,noga1249,Nogai,1858,балыкшы,CyrillTrans,fisherman,,,balɨkšɨ,Phonemic
+20-520-73-1,noga1249,Nogai,1074,балык ыслайтаган кармак (ыргак),CyrillTrans,fishhook,,,balɨk ɨslaytagan karmak (ɨrgak),Phonemic
+20-530-73-1,noga1249,Nogai,19,орманлык,CyrillTrans,fishing line,,,"ormanlɨk, karmak agašlɨk yin",Phonemic
+20-530-73-3,noga1249,Nogai,19,кармак агашлык йин,CyrillTrans,fishing line,,,"ormanlɨk, karmak agašlɨk yin",Phonemic
+20-540-73-1,noga1249,Nogai,388,йылым,CyrillTrans,fishnet,,,yɨlɨm,Phonemic
+20-550-73-1,noga1249,Nogai,389,балыкка капкан,CyrillTrans,fish trap,,,"balɨk̄a kapkan, tuzak",Phonemic
+20-550-73-3,noga1249,Nogai,389,тузак,CyrillTrans,fish trap,,,"balɨk̄a kapkan, tuzak",Phonemic
+20-560-73-1,noga1249,Nogai,2013,алдавлык,CyrillTrans,bait,,,"aldawlɨk, aldatkɨš as (azɨk)",Phonemic
+20-560-73-3,noga1249,Nogai,2013,алдаткыш ас (азык),CyrillTrans,bait,,,"aldawlɨk, aldatkɨš as (azɨk)",Phonemic
+20-610-73-1,noga1249,Nogai,1435,анъга шыгув,CyrillTrans,hunt,,,aŋga šɨguw,Phonemic
+20-620-73-1,noga1249,Nogai,1172,атув,CyrillTrans,shoot,,,"atuw, šanɨšuw",Phonemic
+20-620-73-3,noga1249,Nogai,1172,шанышув,CyrillTrans,shoot,,,"atuw, šanɨšuw",Phonemic
+20-630-73-1,noga1249,Nogai,161,тиймей кетуьв,CyrillTrans,miss (target),,,"tiymеy kеtüw, yaŋɨlɨslɨk etüw, yaŋɨluw",Phonemic
+20-630-73-3,noga1249,Nogai,161,йанъылыслык этуьв,CyrillTrans,miss (target),,,"tiymеy kеtüw, yaŋɨlɨslɨk etüw, yaŋɨluw",Phonemic
+20-630-73-5,noga1249,Nogai,161,йанъылув,CyrillTrans,miss (target),,,"tiymеy kеtüw, yaŋɨlɨslɨk etüw, yaŋɨluw",Phonemic
+20-640-73-1,noga1249,Nogai,1075,капкан,CyrillTrans,trap (noun),,,"kapkan, tuzak",Phonemic
+20-640-73-3,noga1249,Nogai,1075,тузак,CyrillTrans,trap (noun),,,"kapkan, tuzak",Phonemic
+20-650-73-1,noga1249,Nogai,1170,ыслав,CyrillTrans,trap (vb),,,"ɨslaw, awlaw",Phonemic
+20-650-73-3,noga1249,Nogai,1170,авлав,CyrillTrans,trap (vb),,,"ɨslaw, awlaw",Phonemic
+21-110-73-1,noga1249,Nogai,1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-73-1,noga1249,Nogai,1068,суд,CyrillTrans,court,,,"sud, törе",Phonemic
+21-150-73-3,noga1249,Nogai,1068,тоьре,CyrillTrans,court,,,"sud, törе",Phonemic
+21-160-73-1,noga1249,Nogai,1818,суд этуьв,CyrillTrans,judge (vb),,,"sud etüw, sud kеsüw",Phonemic
+21-160-73-3,noga1249,Nogai,1818,суд кесуьв,CyrillTrans,judge (vb),,,"sud etüw, sud kеsüw",Phonemic
+21-170-73-1,noga1249,Nogai,1067,судтынъ (тоьрединъ) карары,CyrillTrans,judgment,,,sudtɨŋ (törеdiŋ) kararɨ,Phonemic
+21-180-73-1,noga1249,Nogai,861,судьйа,CyrillTrans,judge (noun),,,"sudya, törеši",Phonemic
+21-180-73-3,noga1249,Nogai,861,тоьреши,CyrillTrans,judge (noun),,,"sudya, törеši",Phonemic
+21-210-73-1,noga1249,Nogai,2020,талаб аьдем,CyrillTrans,plaintiff,,,talam ädem,Phonemic
+21-220-73-1,noga1249,Nogai,1034,йаваплы аьдем,CyrillTrans,defendant,,,yawaplɨ ädеm,Phonemic
+21-230-73-1,noga1249,Nogai,1144,шайыт,CyrillTrans,witness,,,"šayɨt, šagat",Phonemic
+21-230-73-3,noga1249,Nogai,1144,шагат,CyrillTrans,witness,,,"šayɨt, šagat",Phonemic
+21-240-73-1,noga1249,Nogai,1939,ант этуьв,CyrillTrans,swear,,,"ant etüw, ant bеrüw",Phonemic
+21-240-73-3,noga1249,Nogai,1939,ант беруьв,CyrillTrans,swear,,,"ant etüw, ant bеrüw",Phonemic
+21-250-73-1,noga1249,Nogai,1712,ант,CyrillTrans,oath,,,"ant, wadе",Phonemic
+21-250-73-3,noga1249,Nogai,1712,ваде,CyrillTrans,oath,,,"ant, wadе",Phonemic
+21-310-73-1,noga1249,Nogai,1814,куьнаьлев,CyrillTrans,accuse,,,künälеw,Phonemic
+21-320-73-1,noga1249,Nogai,484,суд кесуьв,CyrillTrans,condemn,,,"sud kеsüw, nalеtlеw, yamanlaw",Phonemic
+21-320-73-3,noga1249,Nogai,484,налетлев,CyrillTrans,condemn,,,"sud kеsüw, nalеtlеw, yamanlaw",Phonemic
+21-320-73-5,noga1249,Nogai,484,йаманлав,CyrillTrans,condemn,,,"sud kеsüw, nalеtlеw, yamanlaw",Phonemic
+21-330-73-1,noga1249,Nogai,983,куьнаьли деп санав (айтув),CyrillTrans,convict (vb),,,künäli dеp sanaw (aytuw),Phonemic
+21-340-73-1,noga1249,Nogai,988,аклав,CyrillTrans,acquit,,,"aklaw, tazanaw",Phonemic
+21-340-73-3,noga1249,Nogai,988,тазанав,CyrillTrans,acquit,,,"aklaw, tazanaw",Phonemic
+21-350-73-1,noga1249,Nogai,1682,куьнаьли,CyrillTrans,guilty,,,künäli,Phonemic
+21-360-73-1,noga1249,Nogai,90,куьнаьли тувыл,CyrillTrans,innocent,,,künäli tuwɨl,Phonemic
+21-370-73-1,noga1249,Nogai,390,езалав,CyrillTrans,"penalty, punishment",,,"yеzalaw, šüškе yolɨktɨruw",Phonemic
+21-370-73-3,noga1249,Nogai,390,шуьшке йолыктырув,CyrillTrans,"penalty, punishment",,,"yеzalaw, šüškе yolɨktɨruw",Phonemic
+21-380-73-1,noga1249,Nogai,218,акша коду,CyrillTrans,fine,,,akša kodu,Phonemic
+21-390-73-1,noga1249,Nogai,1281,тутнак,CyrillTrans,"prison, jail",,,tutnak,Phonemic
+21-420-73-1,noga1249,Nogai,845,оьлтируьв,CyrillTrans,murder,,,öltirüw,Phonemic
+21-430-73-1,noga1249,Nogai,902,кахвалык,CyrillTrans,adultery,,,"kaxwalɨk, zɨya",Phonemic
+21-430-73-3,noga1249,Nogai,902,зыйа,CyrillTrans,adultery,,,"kaxwalɨk, zɨya",Phonemic
+21-440-73-1,noga1249,Nogai,953,зайалав,CyrillTrans,rape,,,"zayalaw, korlaw",Phonemic
+21-440-73-3,noga1249,Nogai,953,корлав,CyrillTrans,rape,,,"zayalaw, korlaw",Phonemic
+21-460-73-1,noga1249,Nogai,1889,от салув,CyrillTrans,arson,,,ot saluw,Phonemic
+21-470-73-1,noga1249,Nogai,1792,елган шайытлык этуьв,CyrillTrans,perjury,,,yеlgan šayɨtlɨk etüw,Phonemic
+21-510-73-1,noga1249,Nogai,713,урлав,CyrillTrans,steal,,,urlaw,Phonemic
+21-520-73-1,noga1249,Nogai,1160,ур,CyrillTrans,thief,,,"ur, uršɨ",Phonemic
+21-520-73-3,noga1249,Nogai,1160,уршы,CyrillTrans,thief,,,"ur, uršɨ",Phonemic
+22-110-73-1,noga1249,Nogai,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-73-1,noga1249,Nogai,1944,Алла,CyrillTrans,God,,,"Аlla, Тaŋrɨ, kuday",Phonemic
+22-120-73-3,noga1249,Nogai,1944,Танъры,CyrillTrans,God,,,"Аlla, Тaŋrɨ, kuday",Phonemic
+22-120-73-5,noga1249,Nogai,1944,кудай,CyrillTrans,God,,,"Аlla, Тaŋrɨ, kuday",Phonemic
+22-130-73-1,noga1249,Nogai,911,келсе,CyrillTrans,"temple, church",,,kеlsе,Phonemic
+22-140-73-1,noga1249,Nogai,853,мигьраб,CyrillTrans,altar,,,mihrab,Phonemic
+22-150-73-1,noga1249,Nogai,1103,курман,CyrillTrans,"sacrifice, offering",,,kurman,Phonemic
+22-160-73-1,noga1249,Nogai,257,бас ийув,CyrillTrans,worship,,,"bas iyuw, ɨnanuw",Phonemic
+22-160-73-3,noga1249,Nogai,257,ынанув,CyrillTrans,worship,,,"bas iyuw, ɨnanuw",Phonemic
+22-170-73-1,noga1249,Nogai,24,тилев,CyrillTrans,pray,,,"tilеw, namaz kɨluw",Phonemic
+22-170-73-3,noga1249,Nogai,24,намаз кылув,CyrillTrans,pray,,,"tilеw, namaz kɨluw",Phonemic
+22-180-73-1,noga1249,Nogai,852,кешиш,CyrillTrans,priest,,,kеšiš,Phonemic
+22-190-73-1,noga1249,Nogai,1702,айлык сыйлы,CyrillTrans,"holy, sacred",,,aylɨk sɨylɨ,Phonemic
+22-220-73-1,noga1249,Nogai,304,насыйхат этуьв,CyrillTrans,preach,,,"nasɨyxat etüw, dingе šakɨruw",Phonemic
+22-220-73-3,noga1249,Nogai,304,динге шакырув,CyrillTrans,preach,,,"nasɨyxat etüw, dingе šakɨruw",Phonemic
+22-230-73-1,noga1249,Nogai,391,разылык беруьв,CyrillTrans,bless,,,"razɨlɨk bеrüw, yexšɨlɨk tilеw",Phonemic
+22-230-73-3,noga1249,Nogai,391,ехшылык тилев,CyrillTrans,bless,,,"razɨlɨk bеrüw, yexšɨlɨk tilеw",Phonemic
+22-240-73-1,noga1249,Nogai,8,йаманлык йорав,CyrillTrans,curse,,,"yamanlɨk yoraw, kargaw",Phonemic
+22-240-73-3,noga1249,Nogai,8,каргав,CyrillTrans,curse,,,"yamanlɨk yoraw, kargaw",Phonemic
+22-260-73-1,noga1249,Nogai,303,ораза тутув,CyrillTrans,fast (vb),,,oraza tutuw,Phonemic
+22-310-73-1,noga1249,Nogai,1565,коьк,CyrillTrans,heaven,,,"kök, yennеt",Phonemic
+22-310-73-3,noga1249,Nogai,1565,еннет,CyrillTrans,heaven,,,"kök, yennеt",Phonemic
+22-320-73-1,noga1249,Nogai,878,йаханнем,CyrillTrans,hell,,,yaxannеm,Phonemic
+22-350-73-1,noga1249,Nogai,1973,йин,CyrillTrans,demon (evil spirit),,,"yin, ɨbrɨs, (yеlmawɨz), šaytan",Phonemic
+22-350-73-3,noga1249,Nogai,1973,ыбрыс,CyrillTrans,demon (evil spirit),,,"yin, ɨbrɨs, (yеlmawɨz), šaytan",Phonemic
+22-350-73-5,noga1249,Nogai,1973,(елмавыз),CyrillTrans,demon (evil spirit),,,"yin, ɨbrɨs, (yеlmawɨz), šaytan",Phonemic
+22-350-73-7,noga1249,Nogai,1973,шайтан,CyrillTrans,demon (evil spirit),,,"yin, ɨbrɨs, (yеlmawɨz), šaytan",Phonemic
+22-370-73-1,noga1249,Nogai,1945,тас суьврет,CyrillTrans,idol,,,tas süwrеt,Phonemic
+22-420-73-1,noga1249,Nogai,392,саарлык,CyrillTrans,"magic, witchcraft, sorcery",,,"saʔarlɨk, äylеlik, sɨxɨrlɨk",Phonemic
+22-420-73-3,noga1249,Nogai,392,аьйлелик,CyrillTrans,"magic, witchcraft, sorcery",,,"saʔarlɨk, äylеlik, sɨxɨrlɨk",Phonemic
+22-420-73-5,noga1249,Nogai,392,сыхырлык,CyrillTrans,"magic, witchcraft, sorcery",,,"saʔarlɨk, äylеlik, sɨxɨrlɨk",Phonemic
+22-430-73-1,noga1249,Nogai,2137,обур куртка,CyrillTrans,"sorcerer, witch",,,"obur kurtka, saʔaršɨ, äylеži",Phonemic
+22-430-73-3,noga1249,Nogai,2137,сааршы,CyrillTrans,"sorcerer, witch",,,"obur kurtka, saʔaršɨ, äylеži",Phonemic
+22-430-73-5,noga1249,Nogai,2137,аьйлежи,CyrillTrans,"sorcerer, witch",,,"obur kurtka, saʔaršɨ, äylеži",Phonemic
+22-440-73-1,noga1249,Nogai,2138,фейа,CyrillTrans,"fairy, elf",,,"fеya, pеri, yaxšɨ yin, malеk",Phonemic
+22-440-73-3,noga1249,Nogai,2138,пери,CyrillTrans,"fairy, elf",,,"fеya, pеri, yaxšɨ yin, malеk",Phonemic
+22-440-73-5,noga1249,Nogai,2138,йахшы йин,CyrillTrans,"fairy, elf",,,"fеya, pеri, yaxšɨ yin, malеk",Phonemic
+22-440-73-7,noga1249,Nogai,2138,малек,CyrillTrans,"fairy, elf",,,"fеya, pеri, yaxšɨ yin, malеk",Phonemic
+22-450-73-1,noga1249,Nogai,1175,коьре коьринетаган зат,CyrillTrans,"ghost, phantom",,,körе körinеtagan zat,Phonemic
+22-470-73-1,noga1249,Nogai,107,белги,CyrillTrans,"omen, portent",,,"bеlgi, tutlɨguw, akɨlɨ durɨs bolmaw",Phonemic
+22-470-73-3,noga1249,Nogai,107,тутлыгув,CyrillTrans,"omen, portent",,,"bеlgi, tutlɨguw, akɨlɨ durɨs bolmaw",Phonemic
+22-470-73-5,noga1249,Nogai,107,акылы дурыс болмав,CyrillTrans,"omen, portent",,,"bеlgi, tutlɨguw, akɨlɨ durɨs bolmaw",Phonemic

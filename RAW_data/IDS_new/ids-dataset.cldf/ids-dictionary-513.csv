@@ -1,0 +1,1383 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1852,муртара,CyrillTrans,often,,,murtara,Phonemic
+14-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1676,гьармуртара,CyrillTrans,always,,,harmurtara,Phonemic
+14-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),790,хІядурсе,CyrillTrans,ready,,,ħaˤdurse,Phonemic
+14-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1928,тІашилцуннез,CyrillTrans,"cease, stop",,,t’ašilcunnez,Phonemic
+14-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1766,таманбирхулез,CyrillTrans,finish,,,tamanbirxulez,Phonemic
+14-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),743,таманбиркьулез,CyrillTrans,end (temporal),,,tamanbirq’ulez,Phonemic
+14-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1806,бехІирхьуиз,CyrillTrans,"begin, beginning",,,"beħirx̌uiz, beħbirx̌ui",Phonemic
+14-250-513-3,cuda1238,Dargwa (Tsudakhar dialect),1806,бехІбирхьуи,CyrillTrans,"begin, beginning",,,"beħirx̌uiz, beħbirx̌ui",Phonemic
+14-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),425,кьанирхулез,CyrillTrans,"retard, delay",,,q’anirxulez,Phonemic
+14-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),754,хъалабикІулез,CyrillTrans,"hasten, hurry",,,"qalabik’ulez, q’anirxulez",Phonemic
+14-230-513-3,cuda1238,Dargwa (Tsudakhar dialect),754,кьанирхулез,CyrillTrans,"hasten, hurry",,,"qalabik’ulez, q’anirxulez",Phonemic
+14-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),701,орхІясе,CyrillTrans,slow,,,orħaˤse,Phonemic
+14-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1631,гъалабале,CyrillTrans,"swift, fast, quick",,,ɣalabale,Phonemic
+14-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),1963,буссягьат,CyrillTrans,immediately,,,bus̄aˤhat,Phonemic
+14-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),1376,гьанне,CyrillTrans,now,,,hanne,Phonemic
+14-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),477,кьанне,CyrillTrans,late,,,q’anne,Phonemic
+14-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),672,чявле,CyrillTrans,early,,,čaˤwle,Phonemic
+14-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1229,ухънасе,CyrillTrans,old,,,uqnase,Phonemic
+14-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1207,жагьиласе,CyrillTrans,young,,,žahilase,Phonemic
+14-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1789,замана,CyrillTrans,age,,,"zamana, ʕaˤsru, epoxa",Phonemic
+14-120-513-3,cuda1238,Dargwa (Tsudakhar dialect),1789,гІясру,CyrillTrans,age,,,"zamana, ʕaˤsru, epoxa",Phonemic
+14-120-513-5,cuda1238,Dargwa (Tsudakhar dialect),1789,эпоха,CyrillTrans,age,,,"zamana, ʕaˤsru, epoxa",Phonemic
+14-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1231,сакасе,CyrillTrans,new,,,sakase,Phonemic
+14-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),892,замана,CyrillTrans,time,,,zamana,Phonemic
+13-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),417,хІяйнализ,CyrillTrans,three times,,,ħaˤynaliz,Phonemic
+13-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1859,хІябозил,CyrillTrans,third,,,ħaˤbozil,Phonemic
+13-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1546,чІуйнаиз,CyrillTrans,two times,,,č’uynaiz,Phonemic
+13-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1888,мишисне,CyrillTrans,pair,,,mišisne,Phonemic
+13-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1384,чІуйзил,CyrillTrans,second,,,č’uyzil,Phonemic
+13-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1529,гьитидил,CyrillTrans,last,,,hitidil,Phonemic
+13-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),728,цайзил,CyrillTrans,first,,,cayzil,Phonemic
+13-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1580,ца,CyrillTrans,"alone, only",,,"ca, callaca",Phonemic
+13-330-513-3,cuda1238,Dargwa (Tsudakhar dialect),1580,цаллаца,CyrillTrans,"alone, only",,,"ca, callaca",Phonemic
+13-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),816,чищала,CyrillTrans,half,,,čiš̄ala,Phonemic
+13-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),779,бутІа,CyrillTrans,"part, piece",,,"but’a, biyax̌ala",Phonemic
+13-230-513-3,cuda1238,Dargwa (Tsudakhar dialect),779,бияхьала,CyrillTrans,"part, piece",,,"but’a, biyax̌ala",Phonemic
+13-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1624,бацІсне,CyrillTrans,empty,,,bac’sne,Phonemic
+13-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1429,бицибсе,CyrillTrans,full,,,bicibse,Phonemic
+13-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),2023,дякилал,CyrillTrans,"multitude, crowd",,,daˤkilal,Phonemic
+13-181-513-1,cuda1238,Dargwa (Tsudakhar dialect),1241,цакамсне,CyrillTrans,some,,,cakamsne,Phonemic
+13-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1242,никасе,CyrillTrans,"little (quantity), few",,,nikase,Phonemic
+13-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),1881,бегъура,CyrillTrans,enough,,,beɣura,Phonemic
+13-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1992,хуласе,CyrillTrans,more,,,xulase,Phonemic
+13-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1198,дяхъил,CyrillTrans,"much, many",,,daˤqil,Phonemic
+13-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),98,лядинда,CyrillTrans,"every, all",,,laˤdinda,Phonemic
+13-107-513-1,cuda1238,Dargwa (Tsudakhar dialect),1420,лужиз,CyrillTrans,count,,,lužiz,Phonemic
+13-106-513-1,cuda1238,Dargwa (Tsudakhar dialect),1843,азир,CyrillTrans,thousand,,,azir,Phonemic
+13-105-513-1,cuda1238,Dargwa (Tsudakhar dialect),1634,дарщал,CyrillTrans,hundred,,,darš̄al,Phonemic
+13-104-513-1,cuda1238,Dargwa (Tsudakhar dialect),1710,гъал,CyrillTrans,twenty,,,ɣal,Phonemic
+13-103-513-1,cuda1238,Dargwa (Tsudakhar dialect),1709,вецІну гьура,CyrillTrans,fifteen,,,wec’nu hura,Phonemic
+13-102-513-1,cuda1238,Dargwa (Tsudakhar dialect),1707,вецІну чІура,CyrillTrans,twelve,,,wec’nu č’ura,Phonemic
+13-101-513-1,cuda1238,Dargwa (Tsudakhar dialect),1706,вецІну цара,CyrillTrans,eleven,,,wec’nu cara,Phonemic
+13-100-513-1,cuda1238,Dargwa (Tsudakhar dialect),1515,вецІал,CyrillTrans,ten,,,wec’al,Phonemic
+13-90-513-1,cuda1238,Dargwa (Tsudakhar dialect),1483,урчІемал,CyrillTrans,nine,,,urč’emal,Phonemic
+13-80-513-1,cuda1238,Dargwa (Tsudakhar dialect),1705,кегьел,CyrillTrans,eight,,,kehel,Phonemic
+13-70-513-1,cuda1238,Dargwa (Tsudakhar dialect),1704,верал,CyrillTrans,seven,,,weral,Phonemic
+13-60-513-1,cuda1238,Dargwa (Tsudakhar dialect),1703,урекал,CyrillTrans,six,,,urekal,Phonemic
+13-50-513-1,cuda1238,Dargwa (Tsudakhar dialect),493,гьувал,CyrillTrans,five,,,huwal,Phonemic
+13-40-513-1,cuda1238,Dargwa (Tsudakhar dialect),1500,авгъал,CyrillTrans,four,,,awɣal,Phonemic
+13-20-513-1,cuda1238,Dargwa (Tsudakhar dialect),1498,чІёл,CyrillTrans,two,,,č’yol,Phonemic
+13-30-513-1,cuda1238,Dargwa (Tsudakhar dialect),492,хІябал,CyrillTrans,three,,,ħaˤbal,Phonemic
+13-10-513-1,cuda1238,Dargwa (Tsudakhar dialect),1493,ца,CyrillTrans,one,,,ca,Phonemic
+13-0-513-1,cuda1238,Dargwa (Tsudakhar dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),1264,бесурагъиз,CyrillTrans,change,,,besuraɣiz,Phonemic
+12-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1558,мишисе,CyrillTrans,"like, similar",,,mišise,Phonemic
+12-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1048,тугъ,CyrillTrans,line,,,tuɣ,Phonemic
+12-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),1667,тІяркъи,CyrillTrans,hole,,,t’aˤrGi,Phonemic
+12-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1395,журукасе,CyrillTrans,round,,,žurukase,Phonemic
+12-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1467,шява,CyrillTrans,circle,,,"šaˤwa, alawčarse",Phonemic
+12-820-513-3,cuda1238,Dargwa (Tsudakhar dialect),1467,алавчарсе,CyrillTrans,circle,,,"šaˤwa, alawčarse",Phonemic
+12-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),850,агъмузасе,CyrillTrans,square,,,aɣmuzase,Phonemic
+12-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1367,къанч,CyrillTrans,cross,,,Ganč,Phonemic
+12-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),192,къута,CyrillTrans,corner,,,Guta,Phonemic
+12-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1071,къармакъ,CyrillTrans,hook,,,GarmaG,Phonemic
+12-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),297,балкІунсе,CyrillTrans,crooked,,,balk’unse,Phonemic
+12-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1404,бархьасе,CyrillTrans,straight,,,barx̌ase,Phonemic
+12-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1633,диркьсе,CyrillTrans,flat,,,dirq’se,Phonemic
+12-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),193,дибгІянасе,CyrillTrans,shallow,,,dibʕaˤnase,Phonemic
+12-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),1593,мургьасе,CyrillTrans,deep,,,murhase,Phonemic
+12-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),2249,букІуласе,CyrillTrans,thin (in dimension),,,buk’ulase,Phonemic
+12-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1244,бабцасе,CyrillTrans,thick (in dimension),,,babcase,Phonemic
+12-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1267,чІяртасе,CyrillTrans,narrow,,,č’aˤrtase,Phonemic
+12-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1243,боъосе,CyrillTrans,"wide, broad",,,boʔose,Phonemic
+12-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),1645,кьантІасе,CyrillTrans,short,,,q’ant’ase,Phonemic
+12-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),711,ахъсе,CyrillTrans,tall,,,aqse,Phonemic
+12-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),1203,эрхъасе,CyrillTrans,long,,,erqase,Phonemic
+12-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1246,никІасе,CyrillTrans,"small, little",,,nik’ase,Phonemic
+12-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1202,хуласе,CyrillTrans,"large, big",,,xulase,Phonemic
+12-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1506,вехIсурихиз,CyrillTrans,measure,,,weħsurixiz,Phonemic
+12-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),479,хулабегъиз,CyrillTrans,grow,,,xulabeɣiz,Phonemic
+12-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1595,къибла,CyrillTrans,south,,,Gibla,Phonemic
+12-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1817,магъриб,CyrillTrans,west,,,maɣrib,Phonemic
+12-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1877,машрикь,CyrillTrans,east,,,mašriq’,Phonemic
+12-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1942,мякьлеб,CyrillTrans,near (adv),,,maˤq’leb,Phonemic
+12-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1406,эхъле,CyrillTrans,far (adv),,,eqle,Phonemic
+12-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),244,алгъасе,CyrillTrans,left (side),,,alɣase,Phonemic
+12-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1019,балусе,CyrillTrans,right (side),,,baluse,Phonemic
+12-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1093,баг уркала,CyrillTrans,"middle, center",,,bag urkala,Phonemic
+12-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),682,щили,CyrillTrans,side,,,š̄ili,Phonemic
+12-353-513-1,cuda1238,Dargwa (Tsudakhar dialect),863,бегь,CyrillTrans,edge,,,beh,Phonemic
+12-352-513-1,cuda1238,Dargwa (Tsudakhar dialect),372,хъар бугасе,CyrillTrans,pointed,,,qar bugase,Phonemic
+12-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),742,таман,CyrillTrans,end,,,"taman, axir",Phonemic
+12-350-513-3,cuda1238,Dargwa (Tsudakhar dialect),742,ахир,CyrillTrans,end,,,"taman, axir",Phonemic
+12-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),690,лутІи,CyrillTrans,bottom,,,lut’i,Phonemic
+12-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),721,ошле,CyrillTrans,low,,,ošle,Phonemic
+12-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1753,хъар,CyrillTrans,top,,,"qar, bek’",Phonemic
+12-330-513-3,cuda1238,Dargwa (Tsudakhar dialect),1753,бекІ,CyrillTrans,top,,,"qar, bek’",Phonemic
+12-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1265,ахъле,CyrillTrans,high,,,aqle,Phonemic
+12-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),602,гурбищиз,CyrillTrans,"hide, conceal",,,gurbiš̄iz,Phonemic
+12-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1046,чебукьиз,CyrillTrans,"shut, close",,,čebuq’iz,Phonemic
+12-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),761,кІапІбаркьиз,CyrillTrans,cover,,,k’ap’barq’iz,Phonemic
+12-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1156,абщиз,CyrillTrans,open,,,abš̄iz,Phonemic
+12-232-513-1,cuda1238,Dargwa (Tsudakhar dialect),1119,дутIиз,CyrillTrans,divide,,,dut’iz,Phonemic
+12-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1359,дикІардаркьиз,CyrillTrans,separate,,,dik’ardarq’iz,Phonemic
+12-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1743,цалиагъиз,CyrillTrans,"join, unite",,,caliaɣiz,Phonemic
+12-213-513-1,cuda1238,Dargwa (Tsudakhar dialect),1576,цаладихъез,CyrillTrans,pile up,,,caladiqez,Phonemic
+12-212-513-1,cuda1238,Dargwa (Tsudakhar dialect),371,гьакиз,CyrillTrans,pick up,,,"hakiz, balc’iz",Phonemic
+12-212-513-3,cuda1238,Dargwa (Tsudakhar dialect),371,балцІиз,CyrillTrans,pick up,,,"hakiz, balc’iz",Phonemic
+12-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),7,даргъиз,CyrillTrans,"collect, gather",,,darɣiz,Phonemic
+12-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),838,эладикре,CyrillTrans,"remains, left overs",,,eladikre,Phonemic
+12-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),987,калжиз,CyrillTrans,"remain, stay",,,kalžiz,Phonemic
+12-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1442,тІашле,CyrillTrans,stand,,,t’ašle,Phonemic
+12-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),215,кайщиз,CyrillTrans,lie down,,,kayš̄iz,Phonemic
+12-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1416,кайжиз,CyrillTrans,sit,,,kayžiz,Phonemic
+12-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),998,кабишиз,CyrillTrans,put,,,kabišiz,Phonemic
+12-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),723,муса,CyrillTrans,place,,,musa,Phonemic
+12-80-513-1,cuda1238,Dargwa (Tsudakhar dialect),1591,четиб,CyrillTrans,"up, above",,,četib,Phonemic
+12-70-513-1,cuda1238,Dargwa (Tsudakhar dialect),1485,гутиб,CyrillTrans,under,,,gutib,Phonemic
+12-60-513-1,cuda1238,Dargwa (Tsudakhar dialect),762,турала,CyrillTrans,outside,,,turala,Phonemic
+12-50-513-1,cuda1238,Dargwa (Tsudakhar dialect),1606,бухІнеб,CyrillTrans,"inside, in",,,buħneb,Phonemic
+12-41-513-1,cuda1238,Dargwa (Tsudakhar dialect),1883,гьалаб,CyrillTrans,front,,,halab,Phonemic
+12-40-513-1,cuda1238,Dargwa (Tsudakhar dialect),1882,гьаб,CyrillTrans,before,,,"hab, halab",Phonemic
+12-40-513-3,cuda1238,Dargwa (Tsudakhar dialect),1882,гьалаб,CyrillTrans,before,,,"hab, halab",Phonemic
+12-30-513-1,cuda1238,Dargwa (Tsudakhar dialect),2094,гутив,CyrillTrans,"down, below",,,gutiw,Phonemic
+12-20-513-1,cuda1238,Dargwa (Tsudakhar dialect),1816,мякьлев,CyrillTrans,beside,,,maˤq’lew,Phonemic
+12-11-513-1,cuda1238,Dargwa (Tsudakhar dialect),1686,гІелаб,CyrillTrans,behind,,,ʕelab,Phonemic
+12-10-513-1,cuda1238,Dargwa (Tsudakhar dialect),1685,гьатІелиз,CyrillTrans,after,,,hat’eliz,Phonemic
+11-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1098,битІикІез,CyrillTrans,weigh,,,bit’ik’ez,Phonemic
+11-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),884,бутІиз,CyrillTrans,share (distribute),,,but’iz,Phonemic
+11-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),1887,губсе,CyrillTrans,cheap,,,gubse,Phonemic
+11-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),1426,дурхъасе,CyrillTrans,"dear (costly, expensive)",,,durqase,Phonemic
+11-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1082,ирцан,CyrillTrans,merchant,,,ircan,Phonemic
+11-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),2135,даран-базар,CyrillTrans,"trade, barter",,,"daran-bazar, wačar-čakar",Phonemic
+11-830-513-3,cuda1238,Dargwa (Tsudakhar dialect),2135,вачар-чакар,CyrillTrans,"trade, barter",,,"daran-bazar, wačar-čakar",Phonemic
+11-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1571,дициз,CyrillTrans,sell,,,diciz,Phonemic
+11-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1869,исиз,CyrillTrans,buy,,,isiz,Phonemic
+11-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),733,арц даркьиз,CyrillTrans,earn,,,arc darq’iz,Phonemic
+11-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),1122,хІянчила багьа,CyrillTrans,wages,,,ħaˤnčila baha,Phonemic
+11-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),856,чибла гьасиз,CyrillTrans,hire,,,čibla hasiz,Phonemic
+11-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),873,налуг,CyrillTrans,"tax, tribute",,,nalug,Phonemic
+11-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),718,арц бичас,CyrillTrans,pay (vb),,,arc bičas,Phonemic
+11-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1914,чибла,CyrillTrans,debt,,,čibla,Phonemic
+11-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),369,чибла баркьиз,CyrillTrans,owe,,,čibla barq’iz,Phonemic
+11-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1823,чибла баркьиз,CyrillTrans,borrow,,,čibla barq’iz,Phonemic
+11-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),582,чиблализ бичиз,CyrillTrans,lend,,,čiblaliz bičiz,Phonemic
+11-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1774,кьиркьир,CyrillTrans,"avaricious, stingy",,,q’irq’ir,Phonemic
+11-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1934,садакьачи,CyrillTrans,beggar,,,sadaq’ači,Phonemic
+11-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1674,мискинсе,CyrillTrans,poor,,,miskinse,Phonemic
+11-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),712,давлачевсе,CyrillTrans,rich,,,dawlačewse,Phonemic
+11-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1867,кепек,CyrillTrans,coin,,,kepek,Phonemic
+11-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1559,арц,CyrillTrans,money,,,arc,Phonemic
+11-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1095,баткагьиз,CyrillTrans,"release, let go",,,batkahiz,Phonemic
+11-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1660,пяхІлебужиз,CyrillTrans,lose,,,paˤħlebužiz,Phonemic
+11-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),719,барчиз,CyrillTrans,find,,,barčiz,Phonemic
+11-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1468,гьити вашиз,CyrillTrans,"seek, look for",,,hiti wašiz,Phonemic
+11-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),44,зарал баркьиз,CyrillTrans,"harm, injure, damage",,,zaral barq’iz,Phonemic
+11-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),681,бихъиз,CyrillTrans,destroy,,,biqiz,Phonemic
+11-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),2008,кумек баркьиз,CyrillTrans,"save, rescue",,,kumek barq’iz,Phonemic
+11-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1997,мяхІкамбириз,CyrillTrans,"preserve, look after",,,maˤħkambiriz,Phonemic
+11-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),85,чарбаркьиз,CyrillTrans,give back,,,čarbarq’iz,Phonemic
+11-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1447,бичиз,CyrillTrans,give,,,bičiz,Phonemic
+11-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),738,сикІал,CyrillTrans,thing,,,sik’al,Phonemic
+11-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1477,бихиз,CyrillTrans,"keep, retain",,,bixiz,Phonemic
+11-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),694,бихиз,CyrillTrans,"get, obtain",,,bixiz,Phonemic
+11-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1448,буциз,CyrillTrans,hold,,,buciz,Phonemic
+11-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),2021,буциз,CyrillTrans,"seize, grasp",,,buciz,Phonemic
+11-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1749,гьасиз,CyrillTrans,take,,,hasiz,Phonemic
+11-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),684,бихахъиз,CyrillTrans,"own, possess",,,bixaqiz,Phonemic
+11-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),773,бихахъиз,CyrillTrans,have,,,bixaqiz,Phonemic
+10-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),1870,лабар,CyrillTrans,anchor,,,"labar, yakorʲ",Phonemic
+10-890-513-3,cuda1238,Dargwa (Tsudakhar dialect),1870,якорь,CyrillTrans,anchor,,,"labar, yakorʲ",Phonemic
+10-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),786,ялкан,CyrillTrans,sail (noun),,,"yalkan, parus",Phonemic
+10-880-513-3,cuda1238,Dargwa (Tsudakhar dialect),786,парус,CyrillTrans,sail (noun),,,"yalkan, parus",Phonemic
+10-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-513-1,cuda1238,Dargwa (Tsudakhar dialect),1849,даркьиз,CyrillTrans,row (vb),,,darq’iz,Phonemic
+10-851-513-1,cuda1238,Dargwa (Tsudakhar dialect),234,шалхъа,CyrillTrans,paddle (noun),,,šalqa,Phonemic
+10-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),108,шалхъа,CyrillTrans,oar,,,šalqa,Phonemic
+10-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-513-1,cuda1238,Dargwa (Tsudakhar dialect),416,лодке,CyrillTrans,outrigger,,,lodke,Phonemic
+10-831-513-1,cuda1238,Dargwa (Tsudakhar dialect),1970,лодке,CyrillTrans,canoe,,,lodke,Phonemic
+10-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1844,лодке,CyrillTrans,boat,,,lodke,Phonemic
+10-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),740,гами,CyrillTrans,ship,,,gami,Phonemic
+10-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),14,дукІ,CyrillTrans,yoke,,,duk’,Phonemic
+10-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1769,арк,CyrillTrans,axle,,,ark,Phonemic
+10-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),710,хІулегари,CyrillTrans,wheel,,,ħulegari,Phonemic
+10-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),122,уркури,CyrillTrans,"carriage, wagon, cart",,,urkuri,Phonemic
+10-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1011,куби,CyrillTrans,bridge,,,kubi,Phonemic
+10-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),2252,хьуни,CyrillTrans,path,,,x̌uni,Phonemic
+10-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),667,хьуни,CyrillTrans,road,,,x̌uni,Phonemic
+10-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),1452,кьуле кьучбириз,CyrillTrans,"push, shove",,,q’ule q’učbiriz,Phonemic
+10-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),367,урчия вашиз,CyrillTrans,ride,,,určiya wašiz,Phonemic
+10-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),741,машиная вашиз,CyrillTrans,drive,,,mašinaya wašiz,Phonemic
+10-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),43,багьахъиз,CyrillTrans,lead (vb),,,bahaqiz,Phonemic
+10-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1127,баршиз,CyrillTrans,send,,,baršiz,Phonemic
+10-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),692,бекъиз,CyrillTrans,bring,,,beGiz,Phonemic
+10-615-513-1,cuda1238,Dargwa (Tsudakhar dialect),415,няхъла гукабуцибле бекъиз,CyrillTrans,carry-underarm,,,naˤqla gukabucible beGiz,Phonemic
+10-614-513-1,cuda1238,Dargwa (Tsudakhar dialect),414,бекІле бекъиз,CyrillTrans,carry-on-head,,,bek’le beGiz,Phonemic
+10-613-513-1,cuda1238,Dargwa (Tsudakhar dialect),413,хъучІрумале бекъиз,CyrillTrans,carry-on-shoulder,,,quč’rumale beGiz,Phonemic
+10-612-513-1,cuda1238,Dargwa (Tsudakhar dialect),412,нухъбяле бекъиз,CyrillTrans,carry-in-hand,,,nuqbaˤle beGiz,Phonemic
+10-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),700,бекъиз,CyrillTrans,carry (bear),,,beGiz,Phonemic
+10-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),749,ухIнаухъиз,CyrillTrans,enter,,,uħnauqiz,Phonemic
+10-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1778,гъамъихъиз,CyrillTrans,approach,,,ɣamʔiqiz,Phonemic
+10-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1387,ватиъез,CyrillTrans,"reach, arrive",,,"watiʔez, sayez",Phonemic
+10-550-513-3,cuda1238,Dargwa (Tsudakhar dialect),1387,сайез,CyrillTrans,"reach, arrive",,,"watiʔez, sayez",Phonemic
+10-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1047,гьитиухъиз,CyrillTrans,pursue,,,hitiuqiz,Phonemic
+10-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1085,гьитивашиз,CyrillTrans,follow,,,hitiwašiz,Phonemic
+10-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),956,дуцІичІиз эрциз дуцлицила,CyrillTrans,flee,,,duc’ič’iz erciz duclicila,Phonemic
+10-491-513-1,cuda1238,Dargwa (Tsudakhar dialect),485,пягьлеужиз,CyrillTrans,disappear,,,paˤhleužiz,Phonemic
+10-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),1752,ароиз,CyrillTrans,"go away, depart",,,aroiz,Phonemic
+10-481-513-1,cuda1238,Dargwa (Tsudakhar dialect),581,чарухъиз,CyrillTrans,come back,,,čaruqiz,Phonemic
+10-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1446,вачІиз,CyrillTrans,come,,,wač’iz,Phonemic
+10-474-513-1,cuda1238,Dargwa (Tsudakhar dialect),1107,тураухъиз,CyrillTrans,go out,,,turauqiz,Phonemic
+10-473-513-1,cuda1238,Dargwa (Tsudakhar dialect),2014,кацІибле гути ороиз,CyrillTrans,go down,,,kac’ible guti оroiz,Phonemic
+10-472-513-1,cuda1238,Dargwa (Tsudakhar dialect),1102,гьайцурле чети ароиз,CyrillTrans,climb,,,haycurle četi аroiz,Phonemic
+10-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),695,вахьулес,CyrillTrans,go,,,wax̌ules,Phonemic
+10-471-513-1,cuda1238,Dargwa (Tsudakhar dialect),705,гьайцурле чети ароиз,CyrillTrans,go up,,,haycurle četi аroiz,Phonemic
+10-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1519,дуцІичІиз,CyrillTrans,run,,,duc’ič’iz,Phonemic
+10-451-513-1,cuda1238,Dargwa (Tsudakhar dialect),366,валкІичІиз,CyrillTrans,limp,,,walk’ič’iz,Phonemic
+10-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1443,вашиз,CyrillTrans,walk,,,wašiz,Phonemic
+10-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1879,улхъиз,CyrillTrans,dance,,,ulqiz,Phonemic
+10-431-513-1,cuda1238,Dargwa (Tsudakhar dialect),1135,чепІяс ухъиз,CyrillTrans,kick,,,čep’aˤs uqiz,Phonemic
+10-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1829,пІяскавхъес,CyrillTrans,"jump, leap",,,p’aˤskawqes,Phonemic
+10-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1324,хІесбикІулес,CyrillTrans,"slide, slip",,,ħesbik’ules,Phonemic
+10-413-513-1,cuda1238,Dargwa (Tsudakhar dialect),296,кукиржиз,CyrillTrans,crouch,,,kukiržiz,Phonemic
+10-412-513-1,cuda1238,Dargwa (Tsudakhar dialect),66,кьукьбал усис,CyrillTrans,kneel,,,q’uq’bal usis,Phonemic
+10-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),96,суркьичІез,CyrillTrans,"creep, crawl",,,surq’ič’ez,Phonemic
+10-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),175,пушахъез,CyrillTrans,blow,,,pušaqez,Phonemic
+10-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1441,гьарциз,CyrillTrans,fly (vb),,,harciz,Phonemic
+10-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),787,даркьиз,CyrillTrans,sail (vb),,,darq’iz,Phonemic
+10-352-513-1,cuda1238,Dargwa (Tsudakhar dialect),365,кочІичІиз,CyrillTrans,splash,,,koč’ič’iz,Phonemic
+10-351-513-1,cuda1238,Dargwa (Tsudakhar dialect),119,кочІичІиз,CyrillTrans,dive,,,koč’ič’iz,Phonemic
+10-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1439,даркьиз,CyrillTrans,swim,,,darq’iz,Phonemic
+10-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1574,кочІичІиз,CyrillTrans,float,,,koč’ič’iz,Phonemic
+10-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1088,гурарухъиз,CyrillTrans,sink,,,guraruqiz,Phonemic
+10-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),2003,картІиз,CyrillTrans,flow,,,kart’iz,Phonemic
+10-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1909,вехярбаркьиз,CyrillTrans,shake,,,wexaˤrbarq’iz,Phonemic
+10-252-513-1,cuda1238,Dargwa (Tsudakhar dialect),702,буциз,CyrillTrans,catch (ball),,,buciz,Phonemic
+10-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1456,иршиз,CyrillTrans,throw,,,iršiz,Phonemic
+10-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),2253,картІиз кІантІурала,CyrillTrans,drip,,,kart’iz k’ant’urala,Phonemic
+10-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1280,кабирчиз,CyrillTrans,fall,,,kabirčiz,Phonemic
+10-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),501,ахъбурциз,CyrillTrans,"raise, lift",,,aqburciz,Phonemic
+10-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),568,ахъбурциз,CyrillTrans,rise,,,aqburciz,Phonemic
+10-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),430,сирбатиз,CyrillTrans,twist,,,sirbatiz,Phonemic
+10-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),808,гьалтІиз,CyrillTrans,drop (vb),,,"halt’iz, burq’iz",Phonemic
+10-160-513-3,cuda1238,Dargwa (Tsudakhar dialect),808,буркьиз,CyrillTrans,drop (vb),,,"halt’iz, burq’iz",Phonemic
+10-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),827,ширбичIиз,CyrillTrans,roll,,,širbič’iz,Phonemic
+10-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1113,барччиз,CyrillTrans,"wind, wrap",,,barč̄iz,Phonemic
+10-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1445,шурбулхъунез,CyrillTrans,turn around,,,šurbulqunez,Phonemic
+10-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1588,шурбалтиз,CyrillTrans,turn over,,,šurbaltiz,Phonemic
+10-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),765,щикьличІиз,CyrillTrans,move,,,š̄iq’lič’iz,Phonemic
+9-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),2001,бичиз,CyrillTrans,paint (vb),,,bičiz,Phonemic
+9-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1979,уршури,CyrillTrans,chisel,,,uršuri,Phonemic
+9-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),647,рущери,CyrillTrans,paint (noun),,,ruš̄eri,Phonemic
+9-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1002,статуя,CyrillTrans,statue,,,statuya,Phonemic
+9-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),228,балгъиз,CyrillTrans,carve,,,balɣiz,Phonemic
+9-791-513-1,cuda1238,Dargwa (Tsudakhar dialect),360,дугІ баркьиз,CyrillTrans,fan (vb),,,duʕ barq’iz,Phonemic
+9-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),1971,винтилятор,CyrillTrans,fan (noun),,,wintilaˤtor,Phonemic
+9-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),293,сеткала сумка,CyrillTrans,netbag,,,setkala sumka,Phonemic
+9-771-513-1,cuda1238,Dargwa (Tsudakhar dialect),292,салмак,CyrillTrans,rug,,,"salmak, k’arč’a",Phonemic
+9-771-513-3,cuda1238,Dargwa (Tsudakhar dialect),292,кІарчІа,CyrillTrans,rug,,,"salmak, k’arč’a",Phonemic
+9-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1539,карзинка,CyrillTrans,basket,,,karzinka,Phonemic
+9-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1729,бершиз (чІянчІи),CyrillTrans,"weave, plait",,,beršiz (č’aˤnč’i),Phonemic
+9-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),604,катехI,CyrillTrans,glass,,,kateħ,Phonemic
+9-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1399,гІянчІи,CyrillTrans,clay,,,ʕaˤnč’i,Phonemic
+9-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),289,къалип картІиз,CyrillTrans,mold (clay etc),,,Galip kart’iz,Phonemic
+9-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),359,гІянчила уста,CyrillTrans,potter,,,ʕaˤnčila usta,Phonemic
+9-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),358,мех,CyrillTrans,"tin, tinplate",,,mex,Phonemic
+9-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),627,чIатI,CyrillTrans,lead (noun),,,č’at’,Phonemic
+9-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),621,мех,CyrillTrans,iron,,,mex,Phonemic
+9-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),1825,яз,CyrillTrans,"copper, bronze",,,yaz,Phonemic
+9-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),759,арцла,CyrillTrans,silver,,,arcla,Phonemic
+9-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1369,мургье,CyrillTrans,gold,,,murhe,Phonemic
+9-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),211,къалип картІиз,CyrillTrans,cast (metals),,,Galip kart’iz,Phonemic
+9-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1648,убза,CyrillTrans,anvil,,,ubza,Phonemic
+9-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),288,гІевдухь,CyrillTrans,forge,,,ʕewdux̌,Phonemic
+9-600-513-1,cuda1238,Dargwa (Tsudakhar dialect),1001,мехла уста,CyrillTrans,"smith, blacksmith",,,mexla usta,Phonemic
+9-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1069,клей,CyrillTrans,glue,,,kley,Phonemic
+9-500-513-1,cuda1238,Dargwa (Tsudakhar dialect),502,тІябул,CyrillTrans,nail,,,t’aˤbul,Phonemic
+9-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),1481,кьякь,CyrillTrans,hammer,,,q’aˤq’,Phonemic
+9-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1948,рас,CyrillTrans,saw,,,"ras, rurčan",Phonemic
+9-480-513-3,cuda1238,Dargwa (Tsudakhar dialect),1948,рурчан,CyrillTrans,saw,,,"ras, rurčan",Phonemic
+9-461-513-1,cuda1238,Dargwa (Tsudakhar dialect),46,тураъагъиз,CyrillTrans,hollow out,,,turaʔaɣiz,Phonemic
+9-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1501,тІярхъи,CyrillTrans,bore,,,t’aˤrqi,Phonemic
+9-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1840,лушан,CyrillTrans,build,,,lušan,Phonemic
+9-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1042,урцла уста,CyrillTrans,carpenter,,,urcla usta,Phonemic
+9-422-513-1,cuda1238,Dargwa (Tsudakhar dialect),1361,алат,CyrillTrans,tool,,,"alat, maˤtaħ",Phonemic
+9-422-513-3,cuda1238,Dargwa (Tsudakhar dialect),1361,мятахІ,CyrillTrans,tool,,,"alat, maˤtaħ",Phonemic
+9-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),245,бушкала,CyrillTrans,broom,,,buškala,Phonemic
+9-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1453,ициз,CyrillTrans,wash,,,iciz,Phonemic
+9-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),230,ушкиз,CyrillTrans,sweep,,,uškiz,Phonemic
+9-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1487,картиз,CyrillTrans,pour,,,kartiz,Phonemic
+9-343-513-1,cuda1238,Dargwa (Tsudakhar dialect),1414,гъожбаркьиз,CyrillTrans,"squeeze, wring",,,ɣožbarq’iz,Phonemic
+9-342-513-1,cuda1238,Dargwa (Tsudakhar dialect),1913,гъожбаркьиз,CyrillTrans,press,,,ɣožbarq’iz,Phonemic
+9-341-513-1,cuda1238,Dargwa (Tsudakhar dialect),357,чебяхІ гьахъиз,CyrillTrans,hang up,,,čebaˤħ haqiz,Phonemic
+9-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),38,тІинтІибирез,CyrillTrans,spread out,,,t’int’ibirez,Phonemic
+9-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1455,битІачІиз,CyrillTrans,pull,,,bit’ač’iz,Phonemic
+9-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),214,зузбикьиз,CyrillTrans,stretch,,,zuzbiq’iz,Phonemic
+9-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1449,бугахъис,CyrillTrans,"rub, wipe",,,bugaqis,Phonemic
+9-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),291,чебертиз (кам),CyrillTrans,"flay, skin",,,čebertiz (kam),Phonemic
+9-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1735,гьабертиз,CyrillTrans,tear,,,habertiz,Phonemic
+9-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1437,бориз,CyrillTrans,split,,,boriz,Phonemic
+9-261-513-1,cuda1238,Dargwa (Tsudakhar dialect),588,кьячІборобсе,CyrillTrans,broken,,,"q’aˤč’borobse, berobse",Phonemic
+9-261-513-3,cuda1238,Dargwa (Tsudakhar dialect),588,беробсе,CyrillTrans,broken,,,"q’aˤč’borobse, berobse",Phonemic
+9-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),680,бориз,CyrillTrans,break,,,boriz,Phonemic
+9-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),677,барто,CyrillTrans,ax,,,barto,Phonemic
+9-251-513-1,cuda1238,Dargwa (Tsudakhar dialect),290,барто,CyrillTrans,adze,,,barto,Phonemic
+9-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),356,лясне,CyrillTrans,"scissors, shears",,,laˤsne,Phonemic
+9-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1352,дис,CyrillTrans,knife,,,dis,Phonemic
+9-223-513-1,cuda1238,Dargwa (Tsudakhar dialect),1434,бертиз,CyrillTrans,stab,,,bertiz,Phonemic
+9-222-513-1,cuda1238,Dargwa (Tsudakhar dialect),155,бертиз,CyrillTrans,"chop, hew",,,bertiz,Phonemic
+9-221-513-1,cuda1238,Dargwa (Tsudakhar dialect),355,балгъиз,CyrillTrans,cut down,,,balɣiz,Phonemic
+9-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1432,балгъиз,CyrillTrans,cut,,,balɣiz,Phonemic
+9-211-513-1,cuda1238,Dargwa (Tsudakhar dialect),354,итиз,CyrillTrans,pound with fist,,,itiz,Phonemic
+9-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),2133,итиз,CyrillTrans,"strike (hit, beat)",,,itiz,Phonemic
+9-192-513-1,cuda1238,Dargwa (Tsudakhar dialect),760,онт,CyrillTrans,knot (noun),,,ont,Phonemic
+9-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),1218,бихала,CyrillTrans,"rope, cord",,,bixala,Phonemic
+9-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),1627,цеп,CyrillTrans,chain,,,cep,Phonemic
+9-161-513-1,cuda1238,Dargwa (Tsudakhar dialect),352,биркьиз,CyrillTrans,untie,,,birq’iz,Phonemic
+9-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1917,бихиз,CyrillTrans,"tie, bind",,,bixiz,Phonemic
+9-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1470,руркез,CyrillTrans,fold,,,rurkez,Phonemic
+9-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),2004,балкІахъиз,CyrillTrans,bend,,,balk’aqiz,Phonemic
+9-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),984,хІянчи,CyrillTrans,work,,,ħaˤnči,Phonemic
+9-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),2575,баркьиз,CyrillTrans,"do, make",,,barq’iz,Phonemic
+8-980-513-1,cuda1238,Dargwa (Tsudakhar dialect),641,шитІанна кьапІа,CyrillTrans,mushroom,,,šit’anna q’ap’a,Phonemic
+8-970-513-1,cuda1238,Dargwa (Tsudakhar dialect),33,мице,CyrillTrans,nettle,,,mice,Phonemic
+8-941-513-1,cuda1238,Dargwa (Tsudakhar dialect),146,чакарла тросник,CyrillTrans,sugar cane,,,čakarla trosnik,Phonemic
+8-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-513-1,cuda1238,Dargwa (Tsudakhar dialect),864,вякья,CyrillTrans,"pumpkin, squash",,,waˤq’aˤ,Phonemic
+8-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),411,вякья,CyrillTrans,gourd,,,waˤq’aˤ,Phonemic
+8-912-513-1,cuda1238,Dargwa (Tsudakhar dialect),410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),346,инжирла тулта,CyrillTrans,banyan,,,inžirla tulta,Phonemic
+8-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),868,бананлата тулта,CyrillTrans,banana tree,,,bananlata tulta,Phonemic
+8-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1181,пальма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),345,кьарла сок,CyrillTrans,sap,,,q’arla sok,Phonemic
+8-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1204,кам,CyrillTrans,bark,,,kam,Phonemic
+8-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),409,кІикьяран,CyrillTrans,forked branch,,,k’iq’aˤran,Phonemic
+8-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),344,тулта,CyrillTrans,tree trunk,,,tulta,Phonemic
+8-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),241,хъитІа,CyrillTrans,tree stump,,,qit’a,Phonemic
+8-691-513-1,cuda1238,Dargwa (Tsudakhar dialect),1124,къалиян,CyrillTrans,pipe,,,Galiaˤn,Phonemic
+8-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),1689,хъашганна жерга,CyrillTrans,smoke (tobacco),,,qašganna žerga,Phonemic
+8-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),974,тамбаку,CyrillTrans,tobacco,,,tambaku,Phonemic
+8-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),343,тІутІила бухъ,CyrillTrans,vine,,,t’ut’ila buq,Phonemic
+8-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),968,ситули,CyrillTrans,acorn,,,situli,Phonemic
+8-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),1915,ель,CyrillTrans,fir,,,elʲ,Phonemic
+8-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1740,махъ,CyrillTrans,pine,,,maq,Phonemic
+8-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1855,махъла тулта,CyrillTrans,birch,,,maqla tulta,Phonemic
+8-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1950,пирпи,CyrillTrans,beech,,,pirpi,Phonemic
+8-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),644,миг,CyrillTrans,oak,,,mig,Phonemic
+8-600-513-1,cuda1238,Dargwa (Tsudakhar dialect),906,тулта,CyrillTrans,tree,,,tulta,Phonemic
+8-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),239,вава,CyrillTrans,flower,,,wawa,Phonemic
+8-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),628,кьаппе,CyrillTrans,leaf,,,q’ap̄e,Phonemic
+8-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1531,кьяли,CyrillTrans,branch,,,q’aˤli,Phonemic
+8-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),670,хІячме,CyrillTrans,root,,,ħaˤčme,Phonemic
+8-531-513-1,cuda1238,Dargwa (Tsudakhar dialect),1486,дакІахъиз,CyrillTrans,plant (vb),,,dak’aqiz,Phonemic
+8-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),342,мура,CyrillTrans,hay,,,mura,Phonemic
+8-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),653,шинишхир,CyrillTrans,plant (noun),,,šinišxir,Phonemic
+8-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),606,кьар,CyrillTrans,grass,,,q’ar,Phonemic
+8-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),926,биринж,CyrillTrans,rice,,,birinž,Phonemic
+8-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),506,хІяйланчІи,CyrillTrans,"maize, corn",,,ħaˤylanč’i,Phonemic
+8-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),60,нихъя,CyrillTrans,oats,,,niqaˤ,Phonemic
+8-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),23,сусул,CyrillTrans,rye,,,susul,Phonemic
+8-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1077,анчи,CyrillTrans,wheat,,,anči,Phonemic
+8-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),932,мухъи,CyrillTrans,barley,,,muqi,Phonemic
+8-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),605,анчи,CyrillTrans,"grain (barley, oats etc)",,,anči,Phonemic
+8-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),611,сабухъ,CyrillTrans,"crop, harvest",,,sabuq,Phonemic
+8-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),223,дургІела,CyrillTrans,threshing-floor,,,durʕela,Phonemic
+8-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),285,бергез,CyrillTrans,thresh,,,"bergez, dugez",Phonemic
+8-340-513-3,cuda1238,Dargwa (Tsudakhar dialect),285,дугез,CyrillTrans,thresh,,,"bergez, dugez",Phonemic
+8-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),2132,чури,CyrillTrans,"sickle, scythe",,,čuri,Phonemic
+8-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),190,иршез,CyrillTrans,"mow, reap",,,iršez,Phonemic
+8-311-513-1,cuda1238,Dargwa (Tsudakhar dialect),714,хъаш барк,CyrillTrans,seed,,,qaš bark,Phonemic
+8-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),748,бижиз,CyrillTrans,sow,,,bižiz,Phonemic
+8-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),338,диргъла,CyrillTrans,rake,,,dirɣla,Phonemic
+8-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),337,кьяга,CyrillTrans,fork,,,q’aˤga,Phonemic
+8-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),284,газа,CyrillTrans,hoe,,,gaza,Phonemic
+8-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1901,хяса дургъан,CyrillTrans,shovel,,,xaˤsa durɣan,Phonemic
+8-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1176,хъурагъ,CyrillTrans,spade,,,quraɣ,Phonemic
+8-212-513-1,cuda1238,Dargwa (Tsudakhar dialect),1794,хъу,CyrillTrans,furrow,,,"qu, ɣarš",Phonemic
+8-212-513-3,cuda1238,Dargwa (Tsudakhar dialect),1794,гъарш,CyrillTrans,furrow,,,"qu, ɣarš",Phonemic
+8-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1418,буркъиз,CyrillTrans,dig,,,burGiz,Phonemic
+8-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1921,хъё чІедиркьиз,CyrillTrans,plow,,,qyo č’edirq’iz,Phonemic
+8-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),2002,канав,CyrillTrans,ditch,,,kanaw,Phonemic
+8-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1690,хъунрала алава,CyrillTrans,fence,,,qunrala alawa,Phonemic
+8-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1541,ванза балцез,CyrillTrans,"cultivate, till",,,wanza balcez,Phonemic
+8-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),586,анхъ,CyrillTrans,garden,,,anq,Phonemic
+8-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),212,ургуба,CyrillTrans,field (for cultivation),,,urguba,Phonemic
+8-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),901,гІянчІила хъали,CyrillTrans,adobe,,,ʕaˤnč’ila qali,Phonemic
+7-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),224,сугъат,CyrillTrans,mortar,,,suɣat,Phonemic
+7-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1006,кирпиш,CyrillTrans,brick,,,kirpiš,Phonemic
+7-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),876,арсавар,CyrillTrans,arch,,,arsawar,Phonemic
+7-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),877,къархъбале иркьан уста,CyrillTrans,mason,,,Garqbale irq’an usta,Phonemic
+7-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),1227,уркьули,CyrillTrans,board,,,urq’uli,Phonemic
+7-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),281,тІал,CyrillTrans,"post, pole",,,t’al,Phonemic
+7-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1132,дукІи,CyrillTrans,beam,,,duk’i,Phonemic
+7-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),829,къубба,CyrillTrans,rafter,,,Gubba,Phonemic
+7-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),280,дукІи,CyrillTrans,ridgepole,,,duk’i,Phonemic
+7-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),279,саломала хъалжи,CyrillTrans,thatch,,,salomala qalži,Phonemic
+7-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),769,хъалжи,CyrillTrans,roof,,,qalži,Phonemic
+7-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),205,шиндири,CyrillTrans,trough,,,"šindiri, muGluG",Phonemic
+7-480-513-3,cuda1238,Dargwa (Tsudakhar dialect),205,мукълукъ,CyrillTrans,trough,,,"šindiri, muGluG",Phonemic
+7-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),745,шкап,CyrillTrans,shelf,,,škap,Phonemic
+7-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1273,шямчирахъ,CyrillTrans,candle,,,šaˤmčiraq,Phonemic
+7-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),2131,чирахъ,CyrillTrans,"lamp, torch",,,čiraq,Phonemic
+7-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1775,устул,CyrillTrans,table,,,ustul,Phonemic
+7-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1476,ута,CyrillTrans,chair,,,uta,Phonemic
+7-422-513-1,cuda1238,Dargwa (Tsudakhar dialect),806,ёргъан,CyrillTrans,blanket,,,yorɣan,Phonemic
+7-421-513-1,cuda1238,Dargwa (Tsudakhar dialect),1044,онела,CyrillTrans,pillow,,,onela,Phonemic
+7-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1663,кІарват,CyrillTrans,bed,,,k’arwat,Phonemic
+7-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1464,канзи,CyrillTrans,ladder,,,kanzi,Phonemic
+7-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1305,кьяпІи,CyrillTrans,chimney,,,q’aˤp’i,Phonemic
+7-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),859,пич,CyrillTrans,stove,,,pič,Phonemic
+7-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),185,анкъи,CyrillTrans,fireplace,,,"anGi, užaɣ",Phonemic
+7-310-513-3,cuda1238,Dargwa (Tsudakhar dialect),185,ужагъ,CyrillTrans,fireplace,,,"anGi, užaɣ",Phonemic
+7-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),933,бяхІ,CyrillTrans,wall,,,baˤħ,Phonemic
+7-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1632,чІябяр,CyrillTrans,floor,,,č’aˤbaˤr,Phonemic
+7-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1375,улкьаси,CyrillTrans,window,,,ulq’asi,Phonemic
+7-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1472,умхьу,CyrillTrans,key,,,umx̌u,Phonemic
+7-231-513-1,cuda1238,Dargwa (Tsudakhar dialect),1012,гІебикІ,CyrillTrans,"latch, door-bolt",,,ʕebik’,Phonemic
+7-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1596,мех,CyrillTrans,lock (noun),,,mex,Phonemic
+7-221-513-1,cuda1238,Dargwa (Tsudakhar dialect),80,шулумза,CyrillTrans,"doorpost, jamb",,,šulumza,Phonemic
+7-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1450,хъали,CyrillTrans,room,,,qali,Phonemic
+7-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1567,бур,CyrillTrans,"door, gate",,,"bur, xula burne",Phonemic
+7-220-513-3,cuda1238,Dargwa (Tsudakhar dialect),1567,хула бурне,CyrillTrans,"door, gate",,,"bur, xula burne",Phonemic
+7-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),335,мажлисла хъали,CyrillTrans,meeting house,,,"mažlisla qali, klub",Phonemic
+7-180-513-3,cuda1238,Dargwa (Tsudakhar dialect),335,клуб,CyrillTrans,meeting house,,,"mažlisla qali, klub",Phonemic
+7-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),334,кьацІикалабиркьусе муса,CyrillTrans,cookhouse,,,q’ac’ikalabirq’use musa,Phonemic
+7-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),408,мурглала хъаш,CyrillTrans,men's house,,,murglala qaš,Phonemic
+7-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1316,чятир,CyrillTrans,tent,,,čaˤtir,Phonemic
+7-131-513-1,cuda1238,Dargwa (Tsudakhar dialect),403,дачала хъали,CyrillTrans,garden-house,,,dačala qali,Phonemic
+7-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1678,хъали,CyrillTrans,hut,,,qali,Phonemic
+7-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1252,хъали,CyrillTrans,house,,,qali,Phonemic
+7-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),363,хІерирхиз,CyrillTrans,"dwell, live",,,ħerirxiz,Phonemic
+6-960-513-1,cuda1238,Dargwa (Tsudakhar dialect),1171,ляхьимцІала,CyrillTrans,mirror,,,laˤx̌imc’ala,Phonemic
+6-950-513-1,cuda1238,Dargwa (Tsudakhar dialect),788,супун,CyrillTrans,soap,,,supun,Phonemic
+6-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),1926,мяз,CyrillTrans,ointment,,,maˤz,Phonemic
+6-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),151,муцІр лугІянте,CyrillTrans,razor,,,muc’r luʕaˤnte,Phonemic
+6-921-513-1,cuda1238,Dargwa (Tsudakhar dialect),333,чури,CyrillTrans,braid,,,čuri,Phonemic
+6-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1821,дурека,CyrillTrans,brush,,,dureka,Phonemic
+6-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),1475,дурека,CyrillTrans,comb,,,dureka,Phonemic
+6-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1021,палатинца,CyrillTrans,towel,,,palatinca,Phonemic
+6-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),332,хъунхъбала няхъушкала,CyrillTrans,"handkerchief, rag",,,qunqbala naˤquškala,Phonemic
+6-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),330,кьавка,CyrillTrans,"headband, headdress",,,q’awka,Phonemic
+6-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),770,урцІле,CyrillTrans,earring,,,urc’le,Phonemic
+6-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1860,бячила ккакка,CyrillTrans,bead,,,baˤčila k̄ak̄a,Phonemic
+6-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1961,бячи,CyrillTrans,necklace,,,baˤči,Phonemic
+6-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1754,кулеха,CyrillTrans,bracelet,,,kulexa,Phonemic
+6-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1374,тулека,CyrillTrans,ring (for finger),,,tuleka,Phonemic
+6-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1029,дурхъаси къаркъа,CyrillTrans,jewel,,,durqasi GarGa,Phonemic
+6-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),917,някьиш,CyrillTrans,"ornament, adornment",,,naˤq’iš,Phonemic
+6-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),64,чІакьа ран буреба,CyrillTrans,pin,,,č’aq’a ran bureba,Phonemic
+6-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),757,хъапа,CyrillTrans,button,,,qapa,Phonemic
+6-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1851,киса,CyrillTrans,pocket,,,kisa,Phonemic
+6-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),1151,пардав,CyrillTrans,veil,,,pardaw,Phonemic
+6-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),867,кутбе,CyrillTrans,glove,,,kutbe,Phonemic
+6-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),772,вожилхани,CyrillTrans,"belt, girdle",,,wožilxani,Phonemic
+6-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),875,чакмала уста,CyrillTrans,"shoemaker, cobbler",,,čakmala usta,Phonemic
+6-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1381,туфли,CyrillTrans,shoe,,,tufli,Phonemic
+6-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),585,тапри,CyrillTrans,boot,,,tapri,Phonemic
+6-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),329,тІирих,CyrillTrans,"stocking, sock",,,"t’irix, dindi",Phonemic
+6-490-513-3,cuda1238,Dargwa (Tsudakhar dialect),329,динди,CyrillTrans,"stocking, sock",,,"t’irix, dindi",Phonemic
+6-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),809,шарбар,CyrillTrans,trousers,,,šarbar,Phonemic
+6-461-513-1,cuda1238,Dargwa (Tsudakhar dialect),328,кІапрала юбка,CyrillTrans,grass-skirt,,,k’aprala yubka,Phonemic
+6-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1600,юбка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),2012,вярятник,CyrillTrans,collar,,,waˤraˤtnik,Phonemic
+6-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1622,гьева,CyrillTrans,shirt,,,hewa,Phonemic
+6-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),603,пІалтІу,CyrillTrans,coat,,,p’alt’u,Phonemic
+6-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),474,хьунрала хІева,CyrillTrans,woman's dress,,,x̌unrala ħewa,Phonemic
+6-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),157,руршери,CyrillTrans,dye,,,ruršeri,Phonemic
+6-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),326,пляш,CyrillTrans,cloak,,,plyaš,Phonemic
+6-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1161,бакІари,CyrillTrans,thread,,,bak’ari,Phonemic
+6-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1382,буреба,CyrillTrans,needle,,,bureba,Phonemic
+6-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),278,буруб,CyrillTrans,awl,,,burub,Phonemic
+6-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1457,урхиз,CyrillTrans,sew,,,urxiz,Phonemic
+6-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1787,хъалип,CyrillTrans,loom,,,qalip,Phonemic
+6-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),133,бумхиз,CyrillTrans,weave,,,bumxiz,Phonemic
+6-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),277,дуруг,CyrillTrans,spindle,,,durug,Phonemic
+6-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),121,лукІиз,CyrillTrans,spin,,,luk’iz,Phonemic
+6-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),629,кам,CyrillTrans,leather,,,kam,Phonemic
+6-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),580,жанаварла гули,CyrillTrans,fur,,,žanawarla guli,Phonemic
+6-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),325,варгьи,CyrillTrans,felt,,,warhi,Phonemic
+6-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1641,шолкІла,CyrillTrans,silk,,,šolk’la,Phonemic
+6-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1850,бамбала чІянчІи,CyrillTrans,cotton,,,bambala č’aˤnč’i,Phonemic
+6-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),916,гантир чІянчІи,CyrillTrans,"linen, flax",,,gantir č’aˤnč’i,Phonemic
+6-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),964,балала чІянчІи,CyrillTrans,wool,,,balala č’aˤnč’i,Phonemic
+6-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1616,чІянчІи,CyrillTrans,cloth,,,č’aˤnč’i,Phonemic
+6-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),881,палтарла уста,CyrillTrans,tailor,,,paltarla usta,Phonemic
+6-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1895,палтар,CyrillTrans,"clothing, clothes",,,paltar,Phonemic
+6-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),158,гьахиз,CyrillTrans,put on (clothes),,,haxiz,Phonemic
+5-971-513-1,cuda1238,Dargwa (Tsudakhar dialect),1556,бухьутІбеъел,CyrillTrans,egg yolk,,,bux̌ut’beʔel,Phonemic
+5-970-513-1,cuda1238,Dargwa (Tsudakhar dialect),744,духъо,CyrillTrans,egg,,,duqo,Phonemic
+5-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),404,чягъир,CyrillTrans,fermented drink,,,čaˤɣir,Phonemic
+5-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),1639,пива,CyrillTrans,beer,,,piwa,Phonemic
+5-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1524,чягъир,CyrillTrans,wine,,,čaˤɣir,Phonemic
+5-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),941,маккатта,CyrillTrans,mead,,,mak̄at̄a,Phonemic
+5-900-513-1,cuda1238,Dargwa (Tsudakhar dialect),731,шин,CyrillTrans,"beverage, drink",,,"šin, sok",Phonemic
+5-900-513-3,cuda1238,Dargwa (Tsudakhar dialect),731,сок,CyrillTrans,"beverage, drink",,,"šin, sok",Phonemic
+5-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),1245,кІема,CyrillTrans,butter,,,"k’ema, agala",Phonemic
+5-890-513-3,cuda1238,Dargwa (Tsudakhar dialect),1245,агала,CyrillTrans,butter,,,"k’ema, agala",Phonemic
+5-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),1569,нусе,CyrillTrans,cheese,,,nuse,Phonemic
+5-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),93,бирцІиз,CyrillTrans,milk (vb),,,birc’iz,Phonemic
+5-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),862,писук,CyrillTrans,sugar,,,"pisuk, čikar",Phonemic
+5-850-513-3,cuda1238,Dargwa (Tsudakhar dialect),862,чикар,CyrillTrans,sugar,,,"pisuk, čikar",Phonemic
+5-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),635,ниг,CyrillTrans,milk (noun),,,nig,Phonemic
+5-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),942,ваза,CyrillTrans,honey,,,waza,Phonemic
+5-821-513-1,cuda1238,Dargwa (Tsudakhar dialect),919,цІакьсне исиут,CyrillTrans,chili pepper,,,c’aq’sne isiut,Phonemic
+5-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1385,исиут,CyrillTrans,pepper,,,isiut,Phonemic
+5-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1274,це,CyrillTrans,salt,,,ce,Phonemic
+5-791-513-1,cuda1238,Dargwa (Tsudakhar dialect),323,гІявдих,CyrillTrans,"grease, fat",,,ʕaˤwdix,Phonemic
+5-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),1484,гІявдих,CyrillTrans,oil,,,ʕaˤwdix,Phonemic
+5-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),920,тІутІи,CyrillTrans,grape,,,t’ut’i,Phonemic
+5-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),191,хъивгье,CyrillTrans,nut,,,qiwhe,Phonemic
+5-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-513-1,cuda1238,Dargwa (Tsudakhar dialect),1966,бухъ,CyrillTrans,bunch,,,buq,Phonemic
+5-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1507,цІедеш,CyrillTrans,fruit,,,c’edeš,Phonemic
+5-700-513-1,cuda1238,Dargwa (Tsudakhar dialect),593,об,CyrillTrans,potato,,,ob,Phonemic
+5-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),832,хъара,CyrillTrans,bean,,,qara,Phonemic
+5-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),924,хъумала цІедеш,CyrillTrans,vegetables,,,qumala c’edeš,Phonemic
+5-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1547,нергъ,CyrillTrans,"soup, broth",,,nerɣ,Phonemic
+5-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1874,сирисани,CyrillTrans,sausage,,,sirisani,Phonemic
+5-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),634,диг,CyrillTrans,meat,,,dig,Phonemic
+5-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),225,черши итан,CyrillTrans,pestle,,,čerši itan,Phonemic
+5-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),224,черши итан,CyrillTrans,mortar (2),,,čerši itan,Phonemic
+5-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),636,шилкьан,CyrillTrans,mill,,,šilq’an,Phonemic
+5-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1033,чІянтІизес,CyrillTrans,"crush, grind",,,č’aˤnt’izes,Phonemic
+5-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1594,дилкІун,CyrillTrans,"meal, flour",,,dilk’un,Phonemic
+5-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),274,сапІбаркьиз (башни),CyrillTrans,knead,,,sap’barq’iz (bašni),Phonemic
+5-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),273,башни,CyrillTrans,dough,,,bašni,Phonemic
+5-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1368,дика,CyrillTrans,bread,,,dika,Phonemic
+5-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),2017,шикьбаркьиз,CyrillTrans,"stir, mix",,,šiq’barq’iz,Phonemic
+5-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1767,ишхъез,CyrillTrans,scrape,,,"išqez, qaˤbšibaq’iz",Phonemic
+5-480-513-3,cuda1238,Dargwa (Tsudakhar dialect),1767,хъябшибакьиз,CyrillTrans,scrape,,,"išqez, qaˤbšibaq’iz",Phonemic
+5-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),86,умъес,CyrillTrans,"sieve, strain",,,umʔes,Phonemic
+5-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),275,унзусе унзубаркьиз,CyrillTrans,peel,,,unzuse unzubarq’iz,Phonemic
+5-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1833,бирахъла беркала,CyrillTrans,supper,,,biraqla berkala,Phonemic
+5-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1833,хІерилла беркала,CyrillTrans,dinner,,,ħerilla berkala,Phonemic
+5-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1322,гІянручІа беркала,CyrillTrans,breakfast,,,ʕaˤnruč’a berkala,Phonemic
+5-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1526,беркала,CyrillTrans,meal (a),,,berkala,Phonemic
+5-391-513-1,cuda1238,Dargwa (Tsudakhar dialect),272,гъямцІа,CyrillTrans,tongs,,,ɣaˤmc’a,Phonemic
+5-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),1302,алтІани,CyrillTrans,fork (2),,,alt’ani,Phonemic
+5-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1352,дис,CyrillTrans,knife (2),,,dis,Phonemic
+5-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1378,кьуса,CyrillTrans,spoon,,,q’usa,Phonemic
+5-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),271,никІа халдари,CyrillTrans,saucer,,,nik’a xaldari,Phonemic
+5-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),476,пигьалла,CyrillTrans,"cup, drinking vessel",,,pihalla,Phonemic
+5-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1530,бякура,CyrillTrans,bowl,,,baˤkura,Phonemic
+5-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),270,гажин,CyrillTrans,"pitcher, jug",,,"gažin, Gaˤnari",Phonemic
+5-340-513-3,cuda1238,Dargwa (Tsudakhar dialect),270,къянари,CyrillTrans,"pitcher, jug",,,"gažin, Gaˤnari",Phonemic
+5-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),480,диркьасе халдари,CyrillTrans,plate,,,dirq’ase xaldari,Phonemic
+5-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),481,мурхьасе халдари,CyrillTrans,dish,,,murx̌ase xaldari,Phonemic
+5-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),31,ихъля,CyrillTrans,pan,,,iqlaˤ,Phonemic
+5-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1462,гуршук,CyrillTrans,"pot, cooking vessel",,,guršuk,Phonemic
+5-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),854,чяйник,CyrillTrans,kettle,,,čaˤynik,Phonemic
+5-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),183,берцІиз,CyrillTrans,bake,,,berc’iz,Phonemic
+5-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1143,пич,CyrillTrans,oven,,,pič,Phonemic
+5-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),2146,берцІакиз,CyrillTrans,"roast, fry",,,berc’akiz,Phonemic
+5-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),792,рурхъе агъиз,CyrillTrans,boil (vb),,,rurqe aɣiz,Phonemic
+5-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1100,белшиз,CyrillTrans,cook,,,belšiz,Phonemic
+5-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),129,онтебачІиз,CyrillTrans,choke,,,ontebač’iz,Phonemic
+5-181-513-1,cuda1238,Dargwa (Tsudakhar dialect),897,кьортІагъез,CyrillTrans,swallow,,,q’ort’aɣez,Phonemic
+5-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),321,чІямичІиз,CyrillTrans,chew,,,č’aˤmič’iz,Phonemic
+5-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1421,супІбиркьиз,CyrillTrans,suck,,,sup’birq’iz,Phonemic
+5-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),848,мулежи,CyrillTrans,thirst,,,muleži,Phonemic
+5-141-513-1,cuda1238,Dargwa (Tsudakhar dialect),199,кушдихь,CyrillTrans,famine,,,kušdix̌,Phonemic
+5-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1864,кушдихь,CyrillTrans,hunger,,,kušdix̌,Phonemic
+5-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1401,берчІиз,CyrillTrans,drink,,,berč’iz,Phonemic
+5-125-513-1,cuda1238,Dargwa (Tsudakhar dialect),1728,берхІибсе,CyrillTrans,rotten,,,berħibse,Phonemic
+5-124-513-1,cuda1238,Dargwa (Tsudakhar dialect),1958,бикьгІябилкьуна,CyrillTrans,"green, unripe",,,biq’ʕaˤbilq’una,Phonemic
+5-123-513-1,cuda1238,Dargwa (Tsudakhar dialect),178,бикьурсе,CyrillTrans,ripe,,,biq’urse,Phonemic
+5-122-513-1,cuda1238,Dargwa (Tsudakhar dialect),1959,гІябилхьунсе,CyrillTrans,raw,,,ʕaˤbilx̌unse,Phonemic
+5-121-513-1,cuda1238,Dargwa (Tsudakhar dialect),269,билхьунсе,CyrillTrans,cooked,,,bilx̌unse,Phonemic
+5-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),256,беркала,CyrillTrans,food,,,"berkala, xureg",Phonemic
+5-120-513-3,cuda1238,Dargwa (Tsudakhar dialect),256,хурег,CyrillTrans,food,,,"berkala, xureg",Phonemic
+5-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1336,учис,CyrillTrans,eat,,,učis,Phonemic
+4-990-513-1,cuda1238,Dargwa (Tsudakhar dialect),590,чІянкІусе,CyrillTrans,"naked, bare",,,č’aˤnk’use,Phonemic
+4-970-513-1,cuda1238,Dargwa (Tsudakhar dialect),1653,сукъурсе,CyrillTrans,blind,,,suGurse,Phonemic
+4-980-513-1,cuda1238,Dargwa (Tsudakhar dialect),1463,кепкайхубсе,CyrillTrans,intoxicated,,,kepkayxubse,Phonemic
+4-960-513-1,cuda1238,Dargwa (Tsudakhar dialect),1666,онцІосе бикьгІяби кьусе,CyrillTrans,mute,,,onc’ose biq’ʕaˤbi q’use,Phonemic
+4-950-513-1,cuda1238,Dargwa (Tsudakhar dialect),996,онцІосе,CyrillTrans,deaf,,,onc’оse,Phonemic
+4-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),1125,гъизбе дякурсе,CyrillTrans,bald,,,ɣizbe daˤkurse,Phonemic
+4-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),320,валкІичІес,CyrillTrans,lame,,,walk’ič’es,Phonemic
+4-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1564,агъзинсе,CyrillTrans,lazy,,,aɣzinse,Phonemic
+4-912-513-1,cuda1238,Dargwa (Tsudakhar dialect),168,хIелбущиз,CyrillTrans,rest,,,"ħelbuš̄iz, atdɨx barq’iz",Phonemic
+4-912-513-3,cuda1238,Dargwa (Tsudakhar dialect),168,атдых баркьиз,CyrillTrans,rest,,,"ħelbuš̄iz, atdɨx barq’iz",Phonemic
+4-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),1757,камсурсе,CyrillTrans,"tired, weary",,,kamsurse,Phonemic
+4-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-880-513-3,cuda1238,Dargwa (Tsudakhar dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman",Phonemic
+4-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),597,тухтур,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-870-513-3,cuda1238,Dargwa (Tsudakhar dialect),597,врач,CyrillTrans,physician,,,"tuxtur, wrač",Phonemic
+4-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),499,арбаркьез,CyrillTrans,"cure, heal",,,arbarq’ez,Phonemic
+4-858-513-1,cuda1238,Dargwa (Tsudakhar dialect),497,дяхъя,CyrillTrans,scar,,,daˤqaˤ,Phonemic
+4-857-513-1,cuda1238,Dargwa (Tsudakhar dialect),1808,щах,CyrillTrans,pus,,,š̄ax,Phonemic
+4-856-513-1,cuda1238,Dargwa (Tsudakhar dialect),793,жижкІа,CyrillTrans,boil (noun),,,žižk’a,Phonemic
+4-855-513-1,cuda1238,Dargwa (Tsudakhar dialect),1584,кІанри,CyrillTrans,blister,,,k’anri,Phonemic
+4-854-513-1,cuda1238,Dargwa (Tsudakhar dialect),148,букни,CyrillTrans,itch,,,bukni,Phonemic
+4-853-513-1,cuda1238,Dargwa (Tsudakhar dialect),1903,демдри,CyrillTrans,swelling,,,demdri,Phonemic
+4-852-513-1,cuda1238,Dargwa (Tsudakhar dialect),1148,дяхъя,CyrillTrans,bruise,,,daˤqaˤ,Phonemic
+4-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),1109,дяхъя,CyrillTrans,"wound, sore",,,daˤqaˤ,Phonemic
+4-843-513-1,cuda1238,Dargwa (Tsudakhar dialect),102,бяхукачІибсе,CyrillTrans,cold (catarrh),,,baˤxukač’ibse,Phonemic
+4-842-513-1,cuda1238,Dargwa (Tsudakhar dialect),1957,гьунугь,CyrillTrans,goiter,,,"hunuh, part’",Phonemic
+4-842-513-3,cuda1238,Dargwa (Tsudakhar dialect),1957,партІ,CyrillTrans,goiter,,,"hunuh, part’",Phonemic
+4-841-513-1,cuda1238,Dargwa (Tsudakhar dialect),1534,рутери,CyrillTrans,fever,,,ruteri,Phonemic
+4-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1847,ицусе,CyrillTrans,"sick, sickness",,,"icuse, icala",Phonemic
+4-840-513-3,cuda1238,Dargwa (Tsudakhar dialect),1847,ицала,CyrillTrans,"sick, sickness",,,"icuse, icala",Phonemic
+4-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1364,арадхь чевсе,CyrillTrans,"well, health",,,"aradx̌ čewse, aradix̌",Phonemic
+4-830-513-3,cuda1238,Dargwa (Tsudakhar dialect),1364,арадихь,CyrillTrans,"well, health",,,"aradx̌ čewse, aradix̌",Phonemic
+4-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1601,зягІип,CyrillTrans,weak,,,"zaˤʕip, zaˤʕipse",Phonemic
+4-820-513-3,cuda1238,Dargwa (Tsudakhar dialect),1601,зягІипсе,CyrillTrans,weak,,,"zaˤʕip, zaˤʕipse",Phonemic
+4-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),785,эгьмакьу,CyrillTrans,"strong, mighty, powerful",,,ehmaq’u,Phonemic
+4-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),1773,хоб,CyrillTrans,"grave, tomb",,,xob,Phonemic
+4-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),1719,хоркайшиз,CyrillTrans,bury (the dead),,,xorkayšiz,Phonemic
+4-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),767,бебкІа,CyrillTrans,corpse,,,bebk’a,Phonemic
+4-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1417,кавшис,CyrillTrans,kill,,,kawšis,Phonemic
+4-751-513-1,cuda1238,Dargwa (Tsudakhar dialect),1904,гурарукьиз,CyrillTrans,drowned,,,guraruq’iz,Phonemic
+4-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1494,эбчІиз,CyrillTrans,"die, dead",,,"ebč’iz, ebč’iba, ebč’ibse",Phonemic
+4-750-513-3,cuda1238,Dargwa (Tsudakhar dialect),1494,эбчІиба,CyrillTrans,"die, dead",,,"ebč’iz, ebč’iba, ebč’ibse",Phonemic
+4-750-513-5,cuda1238,Dargwa (Tsudakhar dialect),1494,эбчIибсе,CyrillTrans,"die, dead",,,"ebč’iz, ebč’iba, ebč’ibse",Phonemic
+4-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1422,хІерихиз,CyrillTrans,"live, living, life",,,"ħerixiz, mic’irse, omro",Phonemic
+4-740-513-3,cuda1238,Dargwa (Tsudakhar dialect),1422,мицІирсе,CyrillTrans,"live, living, life",,,"ħerixiz, mic’irse, omro",Phonemic
+4-740-513-5,cuda1238,Dargwa (Tsudakhar dialect),1422,омро,CyrillTrans,"live, living, life",,,"ħerixiz, mic’irse, omro",Phonemic
+4-732-513-1,cuda1238,Dargwa (Tsudakhar dialect),1087,дурхІе изес,CyrillTrans,conceive,,,durħe izes,Phonemic
+4-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1123,дурхІяцІер,CyrillTrans,pregnant,,,durħaˤc’er,Phonemic
+4-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1090,гьачІиз,CyrillTrans,born (to be),,,hač’iz,Phonemic
+4-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1152,алкІахъез,CyrillTrans,beget (of father),,,alk’aqez,Phonemic
+4-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),138,кавхъес,CyrillTrans,bathe,,,kawqes,Phonemic
+4-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),52,рурчІиз,CyrillTrans,shiver,,,rurč’iz,Phonemic
+4-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),1785,бухІес,CyrillTrans,have sexual intercourse,,,buħes,Phonemic
+4-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),676,къулкъи баркьиз,CyrillTrans,defecate,,,GulGi barq’iz,Phonemic
+4-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),592,чІехь кабатиз,CyrillTrans,urinate,,,č’ex̌ kabatiz,Phonemic
+4-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1159,тус ишиз,CyrillTrans,break wind,,,tus išiz,Phonemic
+4-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1602,чеваргъез,CyrillTrans,wake up,,,čewarɣez,Phonemic
+4-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1920,гьанкь чебажез,CyrillTrans,dream,,,hanq’ čebažez,Phonemic
+4-612-513-1,cuda1238,Dargwa (Tsudakhar dialect),1983,хах ичІез,CyrillTrans,snore,,,xax ič’ez,Phonemic
+4-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1585,усиз,CyrillTrans,sleep,,,usiz,Phonemic
+4-591-513-1,cuda1238,Dargwa (Tsudakhar dialect),268,шутІя иркьез,CyrillTrans,dribble,,,šut’aˤ irq’ez,Phonemic
+4-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),319,лимцІичІес,CyrillTrans,lick,,,limc’ič’es,Phonemic
+4-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),1403,кьацІичІес,CyrillTrans,bite,,,q’ac’ič’es,Phonemic
+4-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),1278,урчІи вядирхиз,CyrillTrans,vomit,,,urč’i waˤdirxiz,Phonemic
+4-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1440,ту ичІес,CyrillTrans,spit,,,"tu ič’es, tu",Phonemic
+4-560-513-3,cuda1238,Dargwa (Tsudakhar dialect),1440,ту,CyrillTrans,spit,,,"tu ič’es, tu",Phonemic
+4-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),126,маго кахъес,CyrillTrans,perspire,,,mago kaqes,Phonemic
+4-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1621,эбч ис,CyrillTrans,sneeze,,,ebč is,Phonemic
+4-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),879,хъегь ис,CyrillTrans,cough,,,qeh is,Phonemic
+4-521-513-1,cuda1238,Dargwa (Tsudakhar dialect),162,гъуркь ичІез,CyrillTrans,hiccough,,,ɣurq’ ič’ez,Phonemic
+4-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1028,гьагьикІез,CyrillTrans,"yawn, gape",,,hahik’ez,Phonemic
+4-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1407,гьигьиз,CyrillTrans,"breathe, breath",,,"hihiz, hih",Phonemic
+4-510-513-3,cuda1238,Dargwa (Tsudakhar dialect),1407,гьигь,CyrillTrans,"breathe, breath",,,"hihiz, hih",Phonemic
+4-492-513-1,cuda1238,Dargwa (Tsudakhar dialect),1222,дуна,CyrillTrans,penis,,,duna,Phonemic
+4-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),797,кьулекьа,CyrillTrans,testicle,,,q’uleq’a,Phonemic
+4-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),804,дярхІнуш,CyrillTrans,womb,,,daˤrħnuš,Phonemic
+4-464-513-1,cuda1238,Dargwa (Tsudakhar dialect),834,кьикьме,CyrillTrans,buttocks,,,q’iq’me,Phonemic
+4-463-513-1,cuda1238,Dargwa (Tsudakhar dialect),1745,урдур,CyrillTrans,hip,,,urdur,Phonemic
+4-462-513-1,cuda1238,Dargwa (Tsudakhar dialect),1681,раг,CyrillTrans,waist,,,rag,Phonemic
+4-461-513-1,cuda1238,Dargwa (Tsudakhar dialect),1991,къукъа,CyrillTrans,"intestines, guts",,,GuGa,Phonemic
+4-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),819,чимхьа,CyrillTrans,stomach,,,"čimx̌a, šilq’an",Phonemic
+4-460-513-3,cuda1238,Dargwa (Tsudakhar dialect),819,шилкьан,CyrillTrans,stomach,,,"čimx̌a, šilq’an",Phonemic
+4-452-513-1,cuda1238,Dargwa (Tsudakhar dialect),1744,кІацІ,CyrillTrans,spleen,,,k’ac’,Phonemic
+4-451-513-1,cuda1238,Dargwa (Tsudakhar dialect),489,урцец,CyrillTrans,kidney,,,urcec,Phonemic
+4-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1224,дулекІ,CyrillTrans,liver,,,dulek’,Phonemic
+4-441-513-1,cuda1238,Dargwa (Tsudakhar dialect),688,хъусре,CyrillTrans,lung,,,qusre,Phonemic
+4-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1223,урчІи,CyrillTrans,heart,,,urč’i,Phonemic
+4-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1838,чІиличІа,CyrillTrans,navel,,,č’ilič’a,Phonemic
+4-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),154,бурхІе,CyrillTrans,udder,,,burħe,Phonemic
+4-412-513-1,cuda1238,Dargwa (Tsudakhar dialect),796,мама,CyrillTrans,"nipple, teat",,,"mama, ut’i",Phonemic
+4-412-513-3,cuda1238,Dargwa (Tsudakhar dialect),796,утІи,CyrillTrans,"nipple, teat",,,"mama, ut’i",Phonemic
+4-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1402,михъири,CyrillTrans,breast (of woman),,,miqiri,Phonemic
+4-400-513-1,cuda1238,Dargwa (Tsudakhar dialect),1592,хъасам,CyrillTrans,chest,,,qasam,Phonemic
+4-393-513-1,cuda1238,Dargwa (Tsudakhar dialect),1201,пІухьули,CyrillTrans,feather,,,p’ux̌uli,Phonemic
+4-392-513-1,cuda1238,Dargwa (Tsudakhar dialect),1257,дукала,CyrillTrans,wing,,,dukala,Phonemic
+4-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1389,тІул,CyrillTrans,toe,,,t’ul,Phonemic
+4-374-513-1,cuda1238,Dargwa (Tsudakhar dialect),318,кьушла лутІи,CyrillTrans,footprint,,,qʼušla lut’i,Phonemic
+4-372-513-1,cuda1238,Dargwa (Tsudakhar dialect),980,лутІи кьуш,CyrillTrans,heel,,,lut’i q’uš,Phonemic
+4-371-513-1,cuda1238,Dargwa (Tsudakhar dialect),803,кьякьи,CyrillTrans,ankle,,,q’aˤq’i,Phonemic
+4-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1301,лутІи кьуш,CyrillTrans,foot,,,lut’i q’uš,Phonemic
+4-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1371,къакъа,CyrillTrans,knee,,,GaGa,Phonemic
+4-352-513-1,cuda1238,Dargwa (Tsudakhar dialect),498,кьушла диг,CyrillTrans,calf of leg,,,qʼušla dig,Phonemic
+4-351-513-1,cuda1238,Dargwa (Tsudakhar dialect),800,уртур,CyrillTrans,thigh,,,urtur,Phonemic
+4-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1297,кьуш,CyrillTrans,leg,,,q’uš,Phonemic
+4-345-513-1,cuda1238,Dargwa (Tsudakhar dialect),72,кьушла ишка,CyrillTrans,claw,,,q’ušla iška,Phonemic
+4-344-513-1,cuda1238,Dargwa (Tsudakhar dialect),1258,мика,CyrillTrans,fingernail,,,mika,Phonemic
+4-342-513-1,cuda1238,Dargwa (Tsudakhar dialect),1781,хула тІул,CyrillTrans,thumb,,,xula t’ul,Phonemic
+4-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1303,тІул,CyrillTrans,finger,,,t’ul,Phonemic
+4-331-513-1,cuda1238,Dargwa (Tsudakhar dialect),1183,хъат,CyrillTrans,palm of hand,,,qat,Phonemic
+4-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1277,няхъ,CyrillTrans,hand,,,naˤq,Phonemic
+4-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),981,кІацІя няхъ,CyrillTrans,elbow,,,k’ac’aˤ naˤq,Phonemic
+4-312-513-1,cuda1238,Dargwa (Tsudakhar dialect),1886,няхъла гула,CyrillTrans,armpit,,,naˤqla gula,Phonemic
+4-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1673,няxъ,CyrillTrans,arm,,,naˤq,Phonemic
+4-302-513-1,cuda1238,Dargwa (Tsudakhar dialect),1994,унхьне,CyrillTrans,collarbone,,,unx̌ne,Phonemic
+4-301-513-1,cuda1238,Dargwa (Tsudakhar dialect),172,къурагь кIатIа кьулса,CyrillTrans,shoulderblade,,,Gurah k’at’a q’ulsa,Phonemic
+4-300-513-1,cuda1238,Dargwa (Tsudakhar dialect),1482,хъуцІари,CyrillTrans,shoulder,,,quc’ari,Phonemic
+4-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),1346,къакъари,CyrillTrans,throat,,,GaGari,Phonemic
+4-281-513-1,cuda1238,Dargwa (Tsudakhar dialect),1347,эла бекІ,CyrillTrans,nape of neck,,,ela bek’,Phonemic
+4-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1333,хъяб,CyrillTrans,neck,,,qaˤb,Phonemic
+4-272-513-1,cuda1238,Dargwa (Tsudakhar dialect),1049,хІячмала цула,CyrillTrans,molartooth,,,ħaˤčmala cula,Phonemic
+4-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1380,цула,CyrillTrans,tooth,,,cula,Phonemic
+4-271-513-1,cuda1238,Dargwa (Tsudakhar dialect),139,кукбе,CyrillTrans,gums,,,kukbe,Phonemic
+4-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1205,лимцІи,CyrillTrans,tongue,,,limc’i,Phonemic
+4-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),478,кІунтІбе,CyrillTrans,lip,,,k’unt’be,Phonemic
+4-241-513-1,cuda1238,Dargwa (Tsudakhar dialect),73,мухьули,CyrillTrans,beak,,,mux̌uli,Phonemic
+4-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),674,къак,CyrillTrans,mouth,,,Gak,Phonemic
+4-232-513-1,cuda1238,Dargwa (Tsudakhar dialect),208,кьутне,CyrillTrans,mucus (nasal),,,q’utne,Phonemic
+4-231-513-1,cuda1238,Dargwa (Tsudakhar dialect),1178,къунхъла тІели,CyrillTrans,nostril,,,Gunqla t’eli,Phonemic
+4-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1221,къунхъ,CyrillTrans,nose,,,Gunq,Phonemic
+4-222-513-1,cuda1238,Dargwa (Tsudakhar dialect),32,ляхІилла чІаматІу,CyrillTrans,earwax,,,laˤħilla č’amat’u,Phonemic
+4-221-513-1,cuda1238,Dargwa (Tsudakhar dialect),18,ляхІилла бухІне,CyrillTrans,earlobe,,,laˤħilla buħne,Phonemic
+4-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1247,мяхІи,CyrillTrans,ear,,,maˤħi,Phonemic
+4-215-513-1,cuda1238,Dargwa (Tsudakhar dialect),1655,цикІъижиз,CyrillTrans,blink,,,cik’ʔižiz,Phonemic
+4-214-513-1,cuda1238,Dargwa (Tsudakhar dialect),1540,цимцле,CyrillTrans,eyelash,,,cimcle,Phonemic
+4-213-513-1,cuda1238,Dargwa (Tsudakhar dialect),17,цимцле,CyrillTrans,eyelid,,,cimcle,Phonemic
+4-212-513-1,cuda1238,Dargwa (Tsudakhar dialect),1173,нет,CyrillTrans,eyebrow,,,net,Phonemic
+4-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1248,хІулбе,CyrillTrans,eye,,,ħulbe,Phonemic
+4-208-513-1,cuda1238,Dargwa (Tsudakhar dialect),1730,хъяйхъяй,CyrillTrans,cheek,,,qaˤyqaˤy,Phonemic
+4-209-513-1,cuda1238,Dargwa (Tsudakhar dialect),1510,муцІур,CyrillTrans,chin,,,muc’ur,Phonemic
+4-205-513-1,cuda1238,Dargwa (Tsudakhar dialect),123,антІа,CyrillTrans,forehead,,,ant’a,Phonemic
+4-207-513-1,cuda1238,Dargwa (Tsudakhar dialect),798,муцІур,CyrillTrans,jaw,,,muc’ur,Phonemic
+4-204-513-1,cuda1238,Dargwa (Tsudakhar dialect),1560,дяхІ,CyrillTrans,face,,,daˤħ,Phonemic
+4-203-513-1,cuda1238,Dargwa (Tsudakhar dialect),1583,бекІла мехІе,CyrillTrans,brain,,,bek’la meħe,Phonemic
+4-201-513-1,cuda1238,Dargwa (Tsudakhar dialect),1604,ляхIушкани,CyrillTrans,"side of head, temple",,,laˤħuškani,Phonemic
+4-202-513-1,cuda1238,Dargwa (Tsudakhar dialect),1605,бекІла вакьа,CyrillTrans,skull,,,bek’la waq’a,Phonemic
+4-200-513-1,cuda1238,Dargwa (Tsudakhar dialect),1256,бекІ,CyrillTrans,head,,,bek’,Phonemic
+4-191-513-1,cuda1238,Dargwa (Tsudakhar dialect),805,къахъла чІала,CyrillTrans,spine,,,Gaqla č’ala,Phonemic
+4-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),1291,къахъ,CyrillTrans,back,,,Gaq,Phonemic
+4-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),1220,чІими,CyrillTrans,tail,,,č’imi,Phonemic
+4-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1393,мучечи,CyrillTrans,horn,,,mučeči,Phonemic
+4-162-513-1,cuda1238,Dargwa (Tsudakhar dialect),801,бургъун,CyrillTrans,rib,,,burɣun,Phonemic
+4-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1394,ликІа,CyrillTrans,bone,,,lik’a,Phonemic
+4-151-513-1,cuda1238,Dargwa (Tsudakhar dialect),525,тІум,CyrillTrans,"vein, artery",,,t’um,Phonemic
+4-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),946,хІе,CyrillTrans,blood,,,ħe,Phonemic
+4-146-513-1,cuda1238,Dargwa (Tsudakhar dialect),576,кІачІ,CyrillTrans,dandruff,,,k’ač’,Phonemic
+4-145-513-1,cuda1238,Dargwa (Tsudakhar dialect),36,гъизбе,CyrillTrans,pubic hair,,,ɣizbe,Phonemic
+4-144-513-1,cuda1238,Dargwa (Tsudakhar dialect),189,гъизбе,CyrillTrans,body hair,,,ɣizbe,Phonemic
+4-142-513-1,cuda1238,Dargwa (Tsudakhar dialect),678,муцІур,CyrillTrans,beard,,,muc’ur,Phonemic
+4-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1040,чІурме,CyrillTrans,hair (head),,,č’urme,Phonemic
+4-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),2259,кьаркьалла кам,CyrillTrans,flesh,,,q’arq’alla kam,Phonemic
+4-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),763,кам,CyrillTrans,"skin, hide",,,kam,Phonemic
+4-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1480,кьаркьала,CyrillTrans,body,,,q’arq’ala,Phonemic
+3-980-513-1,cuda1238,Dargwa (Tsudakhar dialect),112,вакъчІеб ата,CyrillTrans,turtle,,,waGč’eb ata,Phonemic
+3-970-513-1,cuda1238,Dargwa (Tsudakhar dialect),1857,кракадил,CyrillTrans,"crocodile, alligator",,,krakadil,Phonemic
+3-960-513-1,cuda1238,Dargwa (Tsudakhar dialect),632,хІелхъа,CyrillTrans,lizard,,,ħelqa,Phonemic
+3-950-513-1,cuda1238,Dargwa (Tsudakhar dialect),503,гІятІа,CyrillTrans,frog,,,ʕaˤt’a,Phonemic
+3-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),1543,макруж,CyrillTrans,snail,,,"makruž, ɣaˤliʕaˤn",Phonemic
+3-940-513-3,cuda1238,Dargwa (Tsudakhar dialect),1543,гъялигІян,CyrillTrans,snail,,,"makruž, ɣaˤliʕaˤn",Phonemic
+3-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),607,цІерцІ,CyrillTrans,grasshopper,,,c’erc’,Phonemic
+3-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1791,кьалима,CyrillTrans,butterfly,,,q’alima,Phonemic
+3-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),206,дучели ухан,CyrillTrans,firefly,,,dučeli uxan,Phonemic
+3-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),730,чІичІала,CyrillTrans,snake,,,č’ič’ala,Phonemic
+3-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1219,миливхъ,CyrillTrans,worm,,,miliwq,Phonemic
+3-832-513-1,cuda1238,Dargwa (Tsudakhar dialect),1509,хIунри,CyrillTrans,mosquito,,,ħunri,Phonemic
+3-831-513-1,cuda1238,Dargwa (Tsudakhar dialect),95,хІунри,CyrillTrans,"sandfly (midge), gnat",,,ħunri,Phonemic
+3-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1504,тІентІ,CyrillTrans,fly,,,t’ent’,Phonemic
+3-823-513-1,cuda1238,Dargwa (Tsudakhar dialect),1517,мирхъи,CyrillTrans,wasp,,,mirqi,Phonemic
+3-822-513-1,cuda1238,Dargwa (Tsudakhar dialect),88,мирхъила хъали,CyrillTrans,beehive,,,mirqila qali,Phonemic
+3-821-513-1,cuda1238,Dargwa (Tsudakhar dialect),1931,мурчІали,CyrillTrans,beeswax,,,murč’ali,Phonemic
+3-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),665,мирхъи,CyrillTrans,bee,,,mirqi,Phonemic
+3-819-513-1,cuda1238,Dargwa (Tsudakhar dialect),1065,хъисхъала хъали,CyrillTrans,spider web,,,qisqala qali,Phonemic
+3-818-513-1,cuda1238,Dargwa (Tsudakhar dialect),843,хъисхъа,CyrillTrans,spider,,,qisqa,Phonemic
+3-817-513-1,cuda1238,Dargwa (Tsudakhar dialect),587,зимизала,CyrillTrans,ant,,,zimizala,Phonemic
+3-816-513-1,cuda1238,Dargwa (Tsudakhar dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-513-1,cuda1238,Dargwa (Tsudakhar dialect),1538,гІякьраб,CyrillTrans,scorpion,,,ʕaˤq’rab,Phonemic
+3-814-513-1,cuda1238,Dargwa (Tsudakhar dialect),1974,ляхІиле булхъан,CyrillTrans,centipede,,,laˤħile bulqan,Phonemic
+3-813-513-1,cuda1238,Dargwa (Tsudakhar dialect),232,цикне,CyrillTrans,flea,,,cikne,Phonemic
+3-812-513-1,cuda1238,Dargwa (Tsudakhar dialect),267,кьи,CyrillTrans,nit (louse egg),,,q’i,Phonemic
+3-811-513-1,cuda1238,Dargwa (Tsudakhar dialect),1392,нез,CyrillTrans,louse,,,nez,Phonemic
+3-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),620,милхье,CyrillTrans,insect,,,milx̌e,Phonemic
+3-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),1871,ванри,CyrillTrans,camel,,,wanri,Phonemic
+3-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1350,маймун,CyrillTrans,monkey,,,maymun,Phonemic
+3-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1936,чан кьяцІя,CyrillTrans,deer,,,čan q’aˤc’aˤ,Phonemic
+3-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1312,куртІа,CyrillTrans,fox,,,kurt’a,Phonemic
+3-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1820,синка,CyrillTrans,bear,,,sinka,Phonemic
+3-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1386,арслан-кьаплан,CyrillTrans,lion,,,arslan-q’aplan,Phonemic
+3-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),522,бецІ,CyrillTrans,wolf,,,bec’,Phonemic
+3-664-513-1,cuda1238,Dargwa (Tsudakhar dialect),1910,урхьулла хя,CyrillTrans,stingray,,,urx̌ulla xaˤ,Phonemic
+3-663-513-1,cuda1238,Dargwa (Tsudakhar dialect),957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-513-1,cuda1238,Dargwa (Tsudakhar dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-513-1,cuda1238,Dargwa (Tsudakhar dialect),1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-513-1,cuda1238,Dargwa (Tsudakhar dialect),598,кьякули,CyrillTrans,shell,,,q’aˤkuli,Phonemic
+3-654-513-1,cuda1238,Dargwa (Tsudakhar dialect),1916,бялихъла хІихІ,CyrillTrans,gill,,,baˤliqla ħiħ,Phonemic
+3-653-513-1,cuda1238,Dargwa (Tsudakhar dialect),266,бялихъла кам,CyrillTrans,fishscale,,,baˤliqla kam,Phonemic
+3-652-513-1,cuda1238,Dargwa (Tsudakhar dialect),213,качІбикан,CyrillTrans,fin (dorsal),,,kač’bikan,Phonemic
+3-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),227,бялихъ,CyrillTrans,fish,,,baˤliq,Phonemic
+3-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),2139,ваца,CyrillTrans,"mouse, rat",,,waca,Phonemic
+3-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1208,кІата,CyrillTrans,cat,,,k’ata,Phonemic
+3-614-513-1,cuda1238,Dargwa (Tsudakhar dialect),1136,гІура,CyrillTrans,rabbit,,,ʕura,Phonemic
+3-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),2009,хя,CyrillTrans,dog,,,xaˤ,Phonemic
+3-594-513-1,cuda1238,Dargwa (Tsudakhar dialect),1853,нагьа,CyrillTrans,dove,,,naha,Phonemic
+3-596-513-1,cuda1238,Dargwa (Tsudakhar dialect),735,кІукІумяв,CyrillTrans,owl,,,k’uk’umaˤw,Phonemic
+3-593-513-1,cuda1238,Dargwa (Tsudakhar dialect),913,къяна,CyrillTrans,crow,,,Gaˤna,Phonemic
+3-592-513-1,cuda1238,Dargwa (Tsudakhar dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-513-1,cuda1238,Dargwa (Tsudakhar dialect),1793,гьарцу ваца,CyrillTrans,bat,,,harcu waca,Phonemic
+3-586-513-1,cuda1238,Dargwa (Tsudakhar dialect),1185,унрукІ,CyrillTrans,vulture,,,unruk’,Phonemic
+3-585-513-1,cuda1238,Dargwa (Tsudakhar dialect),307,къиргъу,CyrillTrans,hawk,,,Girɣu,Phonemic
+3-584-513-1,cuda1238,Dargwa (Tsudakhar dialect),1905,унрукІ,CyrillTrans,eagle,,,unruk’,Phonemic
+3-582-513-1,cuda1238,Dargwa (Tsudakhar dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-513-1,cuda1238,Dargwa (Tsudakhar dialect),758,гьарцани,CyrillTrans,heron,,,harcani,Phonemic
+3-581-513-1,cuda1238,Dargwa (Tsudakhar dialect),937,жирту,CyrillTrans,bird,,,žirtu,Phonemic
+3-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),539,жиртула хъали,CyrillTrans,nest,,,žirtula qali,Phonemic
+3-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),1360,бяд,CyrillTrans,duck,,,baˤd,Phonemic
+3-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1187,къаз,CyrillTrans,goose,,,Gaz,Phonemic
+3-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1318,чІитІя,CyrillTrans,chicken,,,č’it’aˤ,Phonemic
+3-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1514,эргІя,CyrillTrans,hen,,,erʕaˤ,Phonemic
+3-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1511,тІагъа,CyrillTrans,"cock, rooster",,,"t’aɣa, tatqa",Phonemic
+3-520-513-3,cuda1238,Dargwa (Tsudakhar dialect),1511,татхъа,CyrillTrans,"cock, rooster",,,"t’aɣa, tatqa",Phonemic
+3-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),890,эмхІелухъ,CyrillTrans,mule,,,emħeluq,Phonemic
+3-500-513-1,cuda1238,Dargwa (Tsudakhar dialect),265,ургІне,CyrillTrans,fowl,,,urʕne,Phonemic
+3-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1862,эмхІе,CyrillTrans,"ass, donkey",,,emħe,Phonemic
+3-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1647,тяй,CyrillTrans,"foal, colt",,,taˤy,Phonemic
+3-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),938,эмх,CyrillTrans,mare,,,emx,Phonemic
+3-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),936,урчи,CyrillTrans,stallion,,,"urči, ayɣir",Phonemic
+3-420-513-3,cuda1238,Dargwa (Tsudakhar dialect),936,айгъир,CyrillTrans,stallion,,,"urči, ayɣir",Phonemic
+3-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),615,урчи,CyrillTrans,horse (equine),,,urči,Phonemic
+3-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1972,гиди,CyrillTrans,kid,,,gidi,Phonemic
+3-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),264,къяца,CyrillTrans,he-goat,,,Gaˤca,Phonemic
+3-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1502,къяца,CyrillTrans,goat,,,Gaˤca,Phonemic
+3-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1337,тІерхІ,CyrillTrans,pig,,,t’erħ,Phonemic
+3-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1351,тІерхІ,CyrillTrans,sow (2),,,t’erħ,Phonemic
+3-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1348,цура,CyrillTrans,boar,,,cura,Phonemic
+3-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),820,мукьара,CyrillTrans,lamb,,,muq’ara,Phonemic
+3-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1345,шам,CyrillTrans,ewe,,,šam,Phonemic
+3-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1344,мас,CyrillTrans,ram,,,"mas, čuya",Phonemic
+3-260-513-3,cuda1238,Dargwa (Tsudakhar dialect),1344,чуя,CyrillTrans,ram,,,"mas, čuya",Phonemic
+3-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1331,мацІа,CyrillTrans,sheep,,,mac’a,Phonemic
+3-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1989,кьачІа,CyrillTrans,calf,,,q’ač’a,Phonemic
+3-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1007,кьял,CyrillTrans,cow,,,"q’aˤl, ħaˤywante",Phonemic
+3-230-513-3,cuda1238,Dargwa (Tsudakhar dialect),1007,хIяйванте,CyrillTrans,cow,,,"q’aˤl, ħaˤywante",Phonemic
+3-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1169,унц,CyrillTrans,ox,,,unc,Phonemic
+3-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1008,бугъа,CyrillTrans,bull,,,buɣa,Phonemic
+3-200-513-1,cuda1238,Dargwa (Tsudakhar dialect),1153,хІяйванте,CyrillTrans,cattle (bovine),,,ħaˤywante,Phonemic
+3-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),851,урчила хъали,CyrillTrans,"stable, stall",,,určila qali,Phonemic
+3-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),263,букІун,CyrillTrans,herdsman,,,buk’un,Phonemic
+3-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),649,дучІе,CyrillTrans,pasture,,,duč’e,Phonemic
+3-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),631,хъулид дихусне хІяйванте,CyrillTrans,livestock,,,qulid dixusne ħaˤywante,Phonemic
+3-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),2262,хьунралла,CyrillTrans,female (adj),,,x̌unralla,Phonemic
+3-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),2261,муругулла,CyrillTrans,male (adj),,,murugulla,Phonemic
+3-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),619,жанаварте,CyrillTrans,animal,,,žanawarte,Phonemic
+2-960-513-1,cuda1238,Dargwa (Tsudakhar dialect),817,итІи,CyrillTrans,they,,,it’i,Phonemic
+2-950-513-1,cuda1238,Dargwa (Tsudakhar dialect),1213,гІуша,CyrillTrans,you (plural),,,ʕuša,Phonemic
+2-940-513-1,cuda1238,Dargwa (Tsudakhar dialect),1212,нухьа,CyrillTrans,we,,,nux̌a,Phonemic
+2-930-513-1,cuda1238,Dargwa (Tsudakhar dialect),262,итІ,CyrillTrans,he/she/it,,,it’,Phonemic
+2-920-513-1,cuda1238,Dargwa (Tsudakhar dialect),1215,гІу,CyrillTrans,you (singular),,,ʕu,Phonemic
+2-910-513-1,cuda1238,Dargwa (Tsudakhar dialect),1209,ду,CyrillTrans,I,,,du,Phonemic
+2-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),194,хъалибарк,CyrillTrans,family,,,qalibark,Phonemic
+2-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1644,тухум,CyrillTrans,"relatives, kinsmen",,,tuxum,Phonemic
+2-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1981,кІама мургул,CyrillTrans,widower,,,k’ama murgul,Phonemic
+2-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1756,кІама хьунул,CyrillTrans,widow,,,k’ama x̌unul,Phonemic
+2-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1149,эркІа гали,CyrillTrans,orphan,,,erk’a gali,Phonemic
+2-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1058,кьябжи рурси,CyrillTrans,stepdaughter,,,q’aˤbži rursi,Phonemic
+2-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1059,кьябжи урши,CyrillTrans,stepson,,,q’aˤbži urši,Phonemic
+2-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),236,кьябжи неш,CyrillTrans,stepmother,,,q’aˤbži neš,Phonemic
+2-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),237,кьябжи тІутІеш,CyrillTrans,stepfather,,,q’aˤbži t’ut’eš,Phonemic
+2-641-513-1,cuda1238,Dargwa (Tsudakhar dialect),2264,уршилла хьунул,CyrillTrans,daughter-in-law (of a woman),,,uršilla x̌unul,Phonemic
+2-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),2265,уршилла хьунул,CyrillTrans,daughter-in-law (of a man),,,uršilla x̌unul,Phonemic
+2-631-513-1,cuda1238,Dargwa (Tsudakhar dialect),2266,кІуяв,CyrillTrans,son-in-law (of a woman),,,k’uyaw,Phonemic
+2-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),2267,кІуяв,CyrillTrans,son-in-law (of a man),,,k’uyaw,Phonemic
+2-621-513-1,cuda1238,Dargwa (Tsudakhar dialect),2257,хьунулла неш,CyrillTrans,mother-in-law (of a woman),,,x̌unulla neš,Phonemic
+2-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),2256,хъубеш мургулла неш,CyrillTrans,mother-in-law (of a man),,,qubeš murgulla neš,Phonemic
+2-611-513-1,cuda1238,Dargwa (Tsudakhar dialect),2254,хьунулла тІутІеш,CyrillTrans,father-in-law (of a woman),,,x̌unulla t’ut’eš,Phonemic
+2-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),2255,хъубеш мургулла тІутІеш,CyrillTrans,father-in-law (of a man),,,qubeš murgulla t’ut’eš,Phonemic
+2-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),490,гулалла гуле,CyrillTrans,descendants,,,gulalla gule,Phonemic
+2-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1669,бухънабе,CyrillTrans,ancestors,,,buqnabe,Phonemic
+2-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1643,уцІикьар,CyrillTrans,cousin,,,"uc’iq’ar, ruc̄iq’ar",Phonemic
+2-550-513-3,cuda1238,Dargwa (Tsudakhar dialect),1643,руццикьар,CyrillTrans,cousin,,,"uc’iq’ar, ruc̄iq’ar",Phonemic
+2-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1642,руццила рурси,CyrillTrans,niece,,,"ruc̄ila rursi, ucilla rursi",Phonemic
+2-540-513-3,cuda1238,Dargwa (Tsudakhar dialect),1642,уцилла рурси,CyrillTrans,niece,,,"ruc̄ila rursi, ucilla rursi",Phonemic
+2-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1063,руццила урши,CyrillTrans,nephew,,,"ruc̄ila urši, urcilla urši",Phonemic
+2-530-513-3,cuda1238,Dargwa (Tsudakhar dialect),1063,урцилла урши,CyrillTrans,nephew,,,"ruc̄ila urši, urcilla urši",Phonemic
+2-522-513-1,cuda1238,Dargwa (Tsudakhar dialect),170,тІутІешла руцци,CyrillTrans,father's sister,,,t’ut’ešla ruс̄i,Phonemic
+2-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1272,нешла руцци,CyrillTrans,aunt,,,"nešla ruс̄i, t’ut’ešla ruс̄i",Phonemic
+2-520-513-3,cuda1238,Dargwa (Tsudakhar dialect),1272,тІутІешла руцци,CyrillTrans,aunt,,,"nešla ruс̄i, t’ut’ešla ruс̄i",Phonemic
+2-521-513-1,cuda1238,Dargwa (Tsudakhar dialect),171,нешла руцци,CyrillTrans,mother's sister,,,nešla ruc̄i,Phonemic
+2-512-513-1,cuda1238,Dargwa (Tsudakhar dialect),1985,тІутІешла уцци,CyrillTrans,father's brother,,,t’ut’ešla uс̄i,Phonemic
+2-511-513-1,cuda1238,Dargwa (Tsudakhar dialect),1984,нешла уцци,CyrillTrans,mother's brother,,,nešla uc̄i,Phonemic
+2-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1327,нешла уцци,CyrillTrans,uncle,,,"nešla uс̄i, t’ut’ešla uс̄i",Phonemic
+2-510-513-3,cuda1238,Dargwa (Tsudakhar dialect),1327,тІутІешла уцци,CyrillTrans,uncle,,,"nešla uс̄i, t’ut’ešla uс̄i",Phonemic
+2-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1618,уршила урши,CyrillTrans,grandson,,,"uršila urši, rursilla urši",Phonemic
+2-480-513-3,cuda1238,Dargwa (Tsudakhar dialect),1618,рурсилла урши,CyrillTrans,grandson,,,"uršila urši, rursilla urši",Phonemic
+2-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),1619,уршила рурси,CyrillTrans,granddaughter,,,"uršila rursi, rursilla rursi",Phonemic
+2-490-513-3,cuda1238,Dargwa (Tsudakhar dialect),1619,рурсилла рурси,CyrillTrans,granddaughter,,,"uršila rursi, rursilla rursi",Phonemic
+2-471-513-1,cuda1238,Dargwa (Tsudakhar dialect),907,рухъна,CyrillTrans,old woman,,,ruqna,Phonemic
+2-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1496,хула тІутІеш,CyrillTrans,grandmother,,,xula t’ut’eš,Phonemic
+2-461-513-1,cuda1238,Dargwa (Tsudakhar dialect),406,ухъна,CyrillTrans,old man,,,uqna,Phonemic
+2-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1383,хула тІутІеш,CyrillTrans,grandfather,,,xula t’ut’eš,Phonemic
+2-458-513-1,cuda1238,Dargwa (Tsudakhar dialect),1005,чІилицІанте,CyrillTrans,twins,,,č’ilic’ante,Phonemic
+2-456-513-1,cuda1238,Dargwa (Tsudakhar dialect),1640,уцци-руцци,CyrillTrans,sibling,,,uc̄i-ruc̄i,Phonemic
+2-455-513-1,cuda1238,Dargwa (Tsudakhar dialect),1761,никІа руцци,CyrillTrans,younger sister,,,nik’a ruc̄i,Phonemic
+2-454-513-1,cuda1238,Dargwa (Tsudakhar dialect),1758,хула руцци,CyrillTrans,older sister,,,xula ruc̄i,Phonemic
+2-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1263,руцци,CyrillTrans,sister,,,ruc̄i,Phonemic
+2-445-513-1,cuda1238,Dargwa (Tsudakhar dialect),1760,никІа уцци,CyrillTrans,younger brother,,,nik’a uc̄i,Phonemic
+2-444-513-1,cuda1238,Dargwa (Tsudakhar dialect),1759,хула уцци,CyrillTrans,older brother,,,xula uc̄i,Phonemic
+2-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1262,уцци,CyrillTrans,brother,,,uc̄i,Phonemic
+2-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1801,гуле,CyrillTrans,offspring (son or daughter),,,gule,Phonemic
+2-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1357,рурси,CyrillTrans,daughter,,,rursi,Phonemic
+2-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1620,урши,CyrillTrans,son,,,urši,Phonemic
+2-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),426,хъалла рихубсе,CyrillTrans,married woman,,,qalla rixubse,Phonemic
+2-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),424,хъалла ихубсе,CyrillTrans,married man,,,qalla ixubse,Phonemic
+2-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),505,бегІте,CyrillTrans,parents,,,beʕte,Phonemic
+2-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1216,неш,CyrillTrans,mother,,,neš,Phonemic
+2-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1217,тІутІеш,CyrillTrans,father,,,t’ut’eš,Phonemic
+2-341-513-1,cuda1238,Dargwa (Tsudakhar dialect),1134,зу кайхІни,CyrillTrans,divorce,,,zu kayħni,Phonemic
+2-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1259,мехъ,CyrillTrans,"marriage, wedding",,,"meq, max̌ar",Phonemic
+2-340-513-3,cuda1238,Dargwa (Tsudakhar dialect),1259,махьар,CyrillTrans,"marriage, wedding",,,"meq, max̌ar",Phonemic
+2-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),203,хъалла ихиз,CyrillTrans,marry,,,qalla ixiz,Phonemic
+2-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1199,хьунул,CyrillTrans,wife,,,x̌unul,Phonemic
+2-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1200,мургул,CyrillTrans,husband,,,murgul,Phonemic
+2-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1289,никІа гали,CyrillTrans,"infant, baby",,,nik’a gali,Phonemic
+2-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1304,гали,CyrillTrans,child,,,gali,Phonemic
+2-261-513-1,cuda1238,Dargwa (Tsudakhar dialect),77,чигьади,CyrillTrans,young woman (adolescent),,,čihadi,Phonemic
+2-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1646,рурси,CyrillTrans,girl,,,rursi,Phonemic
+2-251-513-1,cuda1238,Dargwa (Tsudakhar dialect),76,жагьил,CyrillTrans,young man (adolescent),,,žahil,Phonemic
+2-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1366,урши,CyrillTrans,boy,,,urši,Phonemic
+2-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1551,хьунул адим,CyrillTrans,female,,,x̌unul adim,Phonemic
+2-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1553,мургул адим,CyrillTrans,male,,,murgul adim,Phonemic
+2-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),962,хьунул адим,CyrillTrans,woman,,,x̌unul adim,Phonemic
+2-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1554,мургул адим,CyrillTrans,man (vs. woman),,,murgul adim,Phonemic
+2-100-513-1,cuda1238,Dargwa (Tsudakhar dialect),683,адим,CyrillTrans,"person, human being",,,adim,Phonemic
+1-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),1188,урцулла кІехре,CyrillTrans,charcoal,,,urculla k’exre,Phonemic
+1-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),10,урцули,CyrillTrans,firewood,,,urculi,Phonemic
+1-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),1133,спичка,CyrillTrans,match (noun),,,spička,Phonemic
+1-861-513-1,cuda1238,Dargwa (Tsudakhar dialect),127,бишахъиз,CyrillTrans,extinguish,,,bišaqiz,Phonemic
+1-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),737,цІадичиз,CyrillTrans,"light, kindle, ignite",,,c’adičiz,Phonemic
+1-852-513-1,cuda1238,Dargwa (Tsudakhar dialect),1428,агьиз,CyrillTrans,burn (vb intrans),,,ahiz,Phonemic
+1-851-513-1,cuda1238,Dargwa (Tsudakhar dialect),141,цІале бичІиз,CyrillTrans,burn (vb trans),,,c’ale bič’iz,Phonemic
+1-841-513-1,cuda1238,Dargwa (Tsudakhar dialect),67,кІехІре,CyrillTrans,embers,,,k’eħre,Phonemic
+1-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),646,хясся,CyrillTrans,ashes,,,xaˤs̄aˤ,Phonemic
+1-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),778,жерга,CyrillTrans,smoke (noun),,,žerga,Phonemic
+1-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),889,лам,CyrillTrans,flame (noun),,,lam,Phonemic
+1-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),221,цІа,CyrillTrans,fire,,,c’a,Phonemic
+1-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),952,аргъ,CyrillTrans,weather,,,arɣ,Phonemic
+1-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),617,миг,CyrillTrans,ice,,,mig,Phonemic
+1-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),784,духьи,CyrillTrans,snow (noun),,,dux̌i,Phonemic
+1-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),658,цаб,CyrillTrans,rain (noun),,,cab,Phonemic
+1-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),249,дирихь,CyrillTrans,fog,,,dirix̌,Phonemic
+1-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),960,дугІ,CyrillTrans,wind,,,duʕ,Phonemic
+1-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1489,дирихь,CyrillTrans,cloud,,,dirix̌,Phonemic
+1-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1977,марка,CyrillTrans,dew,,,marka,Phonemic
+1-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1388,бяхІтІи,CyrillTrans,"shade, shadow",,,baˤħt’i,Phonemic
+1-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),11,дучІи,CyrillTrans,darkness,,,"duč’i, c’ebdix̌",Phonemic
+1-620-513-3,cuda1238,Dargwa (Tsudakhar dialect),11,цІебдихь,CyrillTrans,darkness,,,"duč’i, c’ebdix̌",Phonemic
+1-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),630,шала,CyrillTrans,light (noun),,,šala,Phonemic
+1-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),1733,цухІяб,CyrillTrans,rainbow,,,cuħaˤb,Phonemic
+1-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),858,бурям,CyrillTrans,storm,,,buraˤm,Phonemic
+1-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1150,кьукьу,CyrillTrans,thunder,,,q’uq’u,Phonemic
+1-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),2007,пярбухъни,CyrillTrans,lightning (as striking),,,paˤrbuqni,Phonemic
+1-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1654,пяр,CyrillTrans,lightning,,,paˤr,Phonemic
+1-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1430,зури,CyrillTrans,star,,,zuri,Phonemic
+1-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1313,бац,CyrillTrans,moon,,,bac,Phonemic
+1-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1343,бери,CyrillTrans,sun,,,beri,Phonemic
+1-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1732,цІурби,CyrillTrans,sky,,,c’urbi,Phonemic
+1-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),6,ванза шикьбухъни,CyrillTrans,earthquake,,,wanza šiq’buqni,Phonemic
+1-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),2125,къаркьа,CyrillTrans,"stone, rock",,,Garq’a,Phonemic
+1-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1803,урцули,CyrillTrans,wood,,,urculi,Phonemic
+1-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),906,тулта,CyrillTrans,tree (cf 08.600),,,tulta,Phonemic
+1-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),420,вацІа,CyrillTrans,"woods, forest",,,wac’a,Phonemic
+1-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),943,чяхІчяхІи,CyrillTrans,waterfall,,,čaˤħčaˤħi,Phonemic
+1-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1145,билхІла,CyrillTrans,swamp,,,bilħla,Phonemic
+1-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),2144,иниц,CyrillTrans,"spring, well",,,"inic, Guyu",Phonemic
+1-370-513-3,cuda1238,Dargwa (Tsudakhar dialect),2144,къуйу,CyrillTrans,"spring, well",,,"inic, Guyu",Phonemic
+1-362-513-1,cuda1238,Dargwa (Tsudakhar dialect),1982,ширшитІан,CyrillTrans,whirlpool,,,širšit’an,Phonemic
+1-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),666,хІеркІ,CyrillTrans,"river, stream, brook",,,ħerk’,Phonemic
+1-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),978,рамч,CyrillTrans,wave,,,ramč,Phonemic
+1-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),624,шара,CyrillTrans,lake,,,"šara, k’ay",Phonemic
+1-330-513-3,cuda1238,Dargwa (Tsudakhar dialect),624,кІай,CyrillTrans,lake,,,"šara, k’ay",Phonemic
+1-329-513-1,cuda1238,Dargwa (Tsudakhar dialect),645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-513-1,cuda1238,Dargwa (Tsudakhar dialect),1768,хьама,CyrillTrans,foam,,,x̌ama,Phonemic
+1-323-513-1,cuda1238,Dargwa (Tsudakhar dialect),259,бургъусе,CyrillTrans,rough (of sea),,,"burɣuse, halag",Phonemic
+1-323-513-3,cuda1238,Dargwa (Tsudakhar dialect),259,гьалаг,CyrillTrans,rough (of sea),,,"burɣuse, halag",Phonemic
+1-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1474,урхьне,CyrillTrans,sea,,,urx̌ne,Phonemic
+1-322-513-1,cuda1238,Dargwa (Tsudakhar dialect),258,палгъатсе,CyrillTrans,calm (of sea),,,palɣatse,Phonemic
+1-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),948,шин,CyrillTrans,water,,,šin,Phonemic
+1-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1155,хъяшшу,CyrillTrans,cave,,,qaˤš̄u,Phonemic
+1-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),113,урхьнала муза,CyrillTrans,shore,,,urx̌nala muza,Phonemic
+1-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),622,остров,CyrillTrans,island,,,ostrow,Phonemic
+1-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),921,барг,CyrillTrans,valley,,,"barg, Gaˤrd",Phonemic
+1-240-513-3,cuda1238,Dargwa (Tsudakhar dialect),921,къярд,CyrillTrans,valley,,,"barg, Gaˤrd",Phonemic
+1-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),652,авлахъ,CyrillTrans,"plain, field",,,awlaq,Phonemic
+1-222-513-1,cuda1238,Dargwa (Tsudakhar dialect),618,дабурла муза,CyrillTrans,"cliff, precipice",,,daburla muza,Phonemic
+1-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),2118,дабур,CyrillTrans,"mountain, hill",,,dabur,Phonemic
+1-214-513-1,cuda1238,Dargwa (Tsudakhar dialect),640,ччорка,CyrillTrans,mud,,,č̄orka,Phonemic
+1-215-513-1,cuda1238,Dargwa (Tsudakhar dialect),671,хум,CyrillTrans,sand,,,xum,Phonemic
+1-213-513-1,cuda1238,Dargwa (Tsudakhar dialect),2,хваса,CyrillTrans,dust,,,xʷasa,Phonemic
+1-212-513-1,cuda1238,Dargwa (Tsudakhar dialect),1228,гванза,CyrillTrans,"earth=ground, soil",,,gʷanza,Phonemic
+1-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),626,улка,CyrillTrans,"earth, land",,,"ulka, pačaliq",Phonemic
+1-210-513-3,cuda1238,Dargwa (Tsudakhar dialect),626,пачалихъ,CyrillTrans,"earth, land",,,"ulka, pačaliq",Phonemic
+1-100-513-1,cuda1238,Dargwa (Tsudakhar dialect),965,дуне,CyrillTrans,world,,,dune,Phonemic
+14-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1544,цацахъале,CyrillTrans,sometimes,,,cacaqale,Phonemic
+14-331-513-1,cuda1238,Dargwa (Tsudakhar dialect),703,гъаиле,CyrillTrans,soon,,,ɣaile,Phonemic
+14-332-513-1,cuda1238,Dargwa (Tsudakhar dialect),418,эрхъасе,CyrillTrans,long-time (for a),,,erqase,Phonemic
+14-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1656,ачаманра,CyrillTrans,never,,,ačamanra,Phonemic
+14-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),204,гьанне,CyrillTrans,again,,,"hanne, hannera",Phonemic
+14-350-513-3,cuda1238,Dargwa (Tsudakhar dialect),204,гьаннера,CyrillTrans,again,,,"hanne, hannera",Phonemic
+14-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1225,бери,CyrillTrans,day,,,beri,Phonemic
+14-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1233,дучи,CyrillTrans,night,,,duči,Phonemic
+14-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),729,шаладихь,CyrillTrans,dawn,,,šaladix̌,Phonemic
+14-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1339,гІянручІ,CyrillTrans,morning,,,ʕaˤnruč’,Phonemic
+14-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),12,хIери,CyrillTrans,"noon, midday",,,ħeri,Phonemic
+14-451-513-1,cuda1238,Dargwa (Tsudakhar dialect),1807,хIерила гьити,CyrillTrans,afternoon,,,ħerila hiti,Phonemic
+14-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1629,берахъ,CyrillTrans,evening,,,beraq,Phonemic
+14-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1283,ижбари,CyrillTrans,today,,,ižbari,Phonemic
+14-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1329,чІёализ,CyrillTrans,tomorrow,,,č’yoaliz,Phonemic
+14-481-513-1,cuda1238,Dargwa (Tsudakhar dialect),1179,сарбери,CyrillTrans,day-after-tomorrow,,,sarberi,Phonemic
+14-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),1174,са,CyrillTrans,yesterday,,,sa,Phonemic
+14-491-513-1,cuda1238,Dargwa (Tsudakhar dialect),1180,хІерилла кьацІе учиз,CyrillTrans,day-before-yesterday,,,ħerilla q’ac’e učiz,Phonemic
+14-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1353,сягІят,CyrillTrans,hour,,,saˤʕaˤt,Phonemic
+14-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1323,сягІят,CyrillTrans,"clock, timepiece",,,saˤʕaˤt,Phonemic
+14-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1469,нужбар,CyrillTrans,week,,,nužbar,Phonemic
+14-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1699,алхІядбери,CyrillTrans,Sunday,,,alħaˤdberi,Phonemic
+14-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1695,тталат,CyrillTrans,Tuesday,,,t̄alat,Phonemic
+14-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),1694,арбяхІ,CyrillTrans,Wednesday,,,arbaˤħ,Phonemic
+14-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),1693,хамис,CyrillTrans,Thursday,,,xamis,Phonemic
+14-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),1692,нужбар,CyrillTrans,Friday,,,nužbar,Phonemic
+14-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),1700,хьунна,CyrillTrans,Saturday,,,x̌unna,Phonemic
+14-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1370,бац,CyrillTrans,month,,,bac,Phonemic
+14-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1226,дус,CyrillTrans,year,,,dus,Phonemic
+14-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1471,га,CyrillTrans,winter,,,ga,Phonemic
+14-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1537,хІеб,CyrillTrans,spring,,,ħeb,Phonemic
+14-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1342,дуцІрум,CyrillTrans,summer,,,duc’rum,Phonemic
+14-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1276,бихьне,CyrillTrans,autumn,,,bix̌ne,Phonemic
+14-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),691,дусла замана,CyrillTrans,season,,,dusla zamana,Phonemic
+15-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1587,коъдикІулез,CyrillTrans,smell (vb intrans),,,koʔdik’ulez,Phonemic
+15-212-513-1,cuda1238,Dargwa (Tsudakhar dialect),375,сунтІикІулез,CyrillTrans,sniff,,,sunt’ik’ulez,Phonemic
+15-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1586,сунтІикІулез,CyrillTrans,smell (vb trans),,,sunt’ik’ulez,Phonemic
+15-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),376,гІясе коъ,CyrillTrans,"fragrant, good smelling",,,ʕaˤse koʔ,Phonemic
+15-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),42,вясе коъ,CyrillTrans,"stinking, bad smelling",,,waˤse koʔ,Phonemic
+15-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),21,тІем,CyrillTrans,taste,,,t’em,Phonemic
+15-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),717,мезусе,CyrillTrans,sweet,,,mezuse,Phonemic
+15-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1091,цемусе,CyrillTrans,salty,,,cemuse,Phonemic
+15-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),887,цІакьсе,CyrillTrans,bitter,,,c’aq’se,Phonemic
+15-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1906,цикІусе,CyrillTrans,"acid, sour",,,cik’use,Phonemic
+15-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),70,цемудихьчеба,CyrillTrans,brackish,,,cemudix̌čeba,Phonemic
+15-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1408,бакьиз,CyrillTrans,hear,,,baq’iz,Phonemic
+15-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),1608,легьахьиз,CyrillTrans,listen,,,lehax̌iz,Phonemic
+15-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1811,тІама,CyrillTrans,"sound, noise",,,"t’ama, t’amahama",Phonemic
+15-440-513-3,cuda1238,Dargwa (Tsudakhar dialect),1811,тІамагьама,CyrillTrans,"sound, noise",,,"t’ama, t’amahama",Phonemic
+15-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),377,ахъсе,CyrillTrans,loud,,,aqse,Phonemic
+15-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1314,лехІкахъибсе урхІясе,CyrillTrans,"quiet, silence",,,leħkaqibse urħaˤse,Phonemic
+15-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1409,чебажиз,CyrillTrans,see,,,čebažiz,Phonemic
+15-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1819,хІерикІулез,CyrillTrans,"look, look at",,,ħerik’ulez,Phonemic
+15-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1039,чебагахъиз,CyrillTrans,show,,,čebagaqiz,Phonemic
+15-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),708,шалабикьулез,CyrillTrans,shine,,,šalabiq’ulez,Phonemic
+15-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),679,ранг бихубсе,CyrillTrans,bright,,,rang bixubse,Phonemic
+15-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),250,шаласе,CyrillTrans,light (in color),,,šalase,Phonemic
+15-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),706,кябасе,CyrillTrans,dark (in color),,,kaˤbase,Phonemic
+15-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1335,цІубасе,CyrillTrans,white,,,c’ubase,Phonemic
+15-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),163,цІутарасе,CyrillTrans,black,,,c’utarase,Phonemic
+15-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),156,гьинтІинасе,CyrillTrans,red,,,hint’inase,Phonemic
+15-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),837,хьанцІасе,CyrillTrans,blue,,,x̌anc’ase,Phonemic
+15-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),1425,шинишасе,CyrillTrans,green,,,šinišase,Phonemic
+15-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),1424,бухъутасе,CyrillTrans,yellow,,,buqutase,Phonemic
+15-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1892,хапІичиз,CyrillTrans,touch,,,xap’ičiz,Phonemic
+15-712-513-1,cuda1238,Dargwa (Tsudakhar dialect),378,гъожбаркьиз,CyrillTrans,pinch,,,"ɣožbarq’iz, q’ic’ič’iz",Phonemic
+15-712-513-3,cuda1238,Dargwa (Tsudakhar dialect),378,кьицІичІиз,CyrillTrans,pinch,,,"ɣožbarq’iz, q’ic’ič’iz",Phonemic
+15-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1079,иргъез,CyrillTrans,feel,,,irɣez,Phonemic
+15-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1884,кьяркъсе,CyrillTrans,hard,,,q’aˤrGse,Phonemic
+15-750-513-1,cuda1238,Dargwa (Tsudakhar dialect),1856,кІантІисе,CyrillTrans,soft,,,k’ant’ise,Phonemic
+15-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),1923,кьяркъсе,CyrillTrans,rough,,,q’aˤrGse,Phonemic
+15-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1234,лоъонасе,CyrillTrans,smooth,,,loʔonase,Phonemic
+15-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),1396,хъицІутІасе,CyrillTrans,sharp,,,qic’ut’ase,Phonemic
+15-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),379,къутбичибсе,CyrillTrans,"blunt, dull",,,Gutbičibse,Phonemic
+15-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1210,декІсе,CyrillTrans,heavy,,,dek’se,Phonemic
+15-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1052,гьаматасе,CyrillTrans,light (in weight),,,hamatase,Phonemic
+15-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),1726,бягьунасе,CyrillTrans,"wet, damp",,,baˤhunase,Phonemic
+15-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1398,бергъубсе,CyrillTrans,dry,,,berɣubse,Phonemic
+15-850-513-1,cuda1238,Dargwa (Tsudakhar dialect),1286,буцІарсе,CyrillTrans,hot,,,buc’arse,Phonemic
+15-851-513-1,cuda1238,Dargwa (Tsudakhar dialect),1232,гунасе,CyrillTrans,warm,,,gunase,Phonemic
+15-860-513-1,cuda1238,Dargwa (Tsudakhar dialect),1287,бухарсе,CyrillTrans,cold,,,buxarse,Phonemic
+15-870-513-1,cuda1238,Dargwa (Tsudakhar dialect),704,унзурсе,CyrillTrans,clean,,,unzurse,Phonemic
+15-880-513-1,cuda1238,Dargwa (Tsudakhar dialect),1230,чІаркасе,CyrillTrans,"dirty, soiled",,,č’arkase,Phonemic
+15-890-513-1,cuda1238,Dargwa (Tsudakhar dialect),380,гъончIбихубсе,CyrillTrans,wrinkled,,,ɣonč’bixubse,Phonemic
+16-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),53,рогь,CyrillTrans,"soul, spirit",,,roh,Phonemic
+16-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1572,уркІухъиз,CyrillTrans,"surprised, astonished",,,urk’uqiz,Phonemic
+16-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),720,гІяхІдикь,CyrillTrans,"good fortune, luck",,,ʕaˤħdiq’,Phonemic
+16-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),56,вядихь,CyrillTrans,"misfortune, bad luck",,,waˤdix̌,Phonemic
+16-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1495,рязисе,CyrillTrans,"joyful, glad, happy",,,raˤzise,Phonemic
+16-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1355,дукалирхьиз,CyrillTrans,laugh,,,dukalirx̌iz,Phonemic
+16-251-513-1,cuda1238,Dargwa (Tsudakhar dialect),1451,гьинчІижиз,CyrillTrans,smile,,,hinč’ižiz,Phonemic
+16-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1413,играцаичІиз,CyrillTrans,play,,,igracaič’iz,Phonemic
+16-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),923,ичІиз,CyrillTrans,love,,,ič’iz,Phonemic
+16-290-513-1,cuda1238,Dargwa (Tsudakhar dialect),578,чІёпІичІиз,CyrillTrans,kiss,,,č’yop’ič’iz,Phonemic
+16-300-513-1,cuda1238,Dargwa (Tsudakhar dialect),928,хъябдуцичиз,CyrillTrans,embrace,,,qaˤbducičiz,Phonemic
+16-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1783,ицеалхиз,CyrillTrans,pain,,,icealxiz,Phonemic
+16-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1668,пушмандихь,CyrillTrans,"grief, sorrow, sadness",,,pušmandix̌,Phonemic
+16-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1000,кахдеш,CyrillTrans,"anxiety, worry",,,"kaxdeš, waˤwdeš",Phonemic
+16-330-513-3,cuda1238,Dargwa (Tsudakhar dialect),1000,вявдеш,CyrillTrans,"anxiety, worry",,,"kaxdeš, waˤwdeš",Phonemic
+16-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1875,пушман ихиз,CyrillTrans,"regret, be sorry",,,pušman ixiz,Phonemic
+16-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1141,изихъициз,CyrillTrans,pity,,,iziqiciz,Phonemic
+16-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1839,исеиз,CyrillTrans,"cry, weep",,,"iseiz, simq’ič’iz",Phonemic
+16-370-513-3,cuda1238,Dargwa (Tsudakhar dialect),1839,симкьичІиз,CyrillTrans,"cry, weep",,,"iseiz, simq’ič’iz",Phonemic
+16-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1651,нургъбе,CyrillTrans,tear (noun),,,nurɣbe,Phonemic
+16-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),716,цІумикІез,CyrillTrans,groan,,,c’umik’ez,Phonemic
+16-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1607,симдухьиз,CyrillTrans,hate,,,simdux̌iz,Phonemic
+16-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),82,сими,CyrillTrans,anger,,,simi,Phonemic
+16-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),40,сими,CyrillTrans,"envy, jealousy",,,simi,Phonemic
+16-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1776,цІахдихь,CyrillTrans,shame (noun),,,c’axdix̌,Phonemic
+16-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),174,хула иргусе,CyrillTrans,proud,,,xula irguse,Phonemic
+16-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1779,эгьмакьсе,CyrillTrans,dare,,,ehmaq’se,Phonemic
+16-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),3,эгьмакьсе,CyrillTrans,brave,,,ehmaq’se,Phonemic
+16-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),781,урехи,CyrillTrans,"fear, fright",,,urexi,Phonemic
+16-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1810,урехи,CyrillTrans,danger,,,urexi,Phonemic
+16-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1784,хьул,CyrillTrans,"desire, want",,,"x̌ul, umut",Phonemic
+16-620-513-3,cuda1238,Dargwa (Tsudakhar dialect),1784,умут,CyrillTrans,"desire, want",,,"x̌ul, umut",Phonemic
+16-622-513-1,cuda1238,Dargwa (Tsudakhar dialect),1750,дикІарбаркьиз,CyrillTrans,choose,,,dik’arbarq’iz,Phonemic
+16-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),1092,кьас,CyrillTrans,hope,,,q’as,Phonemic
+16-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),100,марсе,CyrillTrans,faithful,,,marse,Phonemic
+16-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),1657,гьарлемарсе,CyrillTrans,true,,,harlemarse,Phonemic
+16-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),601,симкедурсиз,CyrillTrans,"lie, tell lies",,,simkedursiz,Phonemic
+16-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),13,иргІи ичІиз,CyrillTrans,deceit,,,irʕi ič’iz,Phonemic
+16-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),1528,чеверхиз,CyrillTrans,forgive,,,čewerxiz,Phonemic
+16-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),1035,гІяссе,CyrillTrans,good,,,ʕaˤs̄e,Phonemic
+16-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1292,вясе,CyrillTrans,bad,,,waˤse,Phonemic
+16-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),1725,вархьсе,CyrillTrans,"right, correct",,,warx̌se,Phonemic
+16-740-513-1,cuda1238,Dargwa (Tsudakhar dialect),1390,бархьа акарсе,CyrillTrans,wrong,,,barx̌a akarse,Phonemic
+16-760-513-1,cuda1238,Dargwa (Tsudakhar dialect),134,хатІа,CyrillTrans,fault,,,xat’a,Phonemic
+16-770-513-1,cuda1238,Dargwa (Tsudakhar dialect),1293,хатІа,CyrillTrans,"mistake, error",,,xat’a,Phonemic
+16-780-513-1,cuda1238,Dargwa (Tsudakhar dialect),381,айибваркьиз,CyrillTrans,blame,,,ayibwarq’iz,Phonemic
+16-790-513-1,cuda1238,Dargwa (Tsudakhar dialect),1687,эръурцулез,CyrillTrans,praise,,,erʔurculez,Phonemic
+16-810-513-1,cuda1238,Dargwa (Tsudakhar dialect),1427,чакусе,CyrillTrans,beautiful,,,čakuse,Phonemic
+16-820-513-1,cuda1238,Dargwa (Tsudakhar dialect),1548,жураъакарсе,CyrillTrans,ugly,,,"žuraʔakarse, caxse",Phonemic
+16-820-513-3,cuda1238,Dargwa (Tsudakhar dialect),1548,цахсе,CyrillTrans,ugly,,,"žuraʔakarse, caxse",Phonemic
+16-830-513-1,cuda1238,Dargwa (Tsudakhar dialect),2018,кьиркьира,CyrillTrans,greedy,,,q’irq’ira,Phonemic
+16-840-513-1,cuda1238,Dargwa (Tsudakhar dialect),1310,духусе,CyrillTrans,clever,,,duxuse,Phonemic
+17-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1562,гІякълу,CyrillTrans,mind,,,ʕaˤGlu,Phonemic
+17-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),1415,пикрумез,CyrillTrans,think (= reflect),,,pikrumez,Phonemic
+17-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1513,лужиз,CyrillTrans,think (= be of the opinion),,,lužiz,Phonemic
+17-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1890,ирхужиз,CyrillTrans,believe,,,irxužiz,Phonemic
+17-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1536,челаргъиз,CyrillTrans,understand,,,čelarɣiz,Phonemic
+17-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1410,бахиз,CyrillTrans,know,,,baxiz,Phonemic
+17-171-513-1,cuda1238,Dargwa (Tsudakhar dialect),1932,лужиз,CyrillTrans,guess,,,lužiz,Phonemic
+17-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),1521,чевагахъиз,CyrillTrans,seem,,,čewagaqiz,Phonemic
+17-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),1609,пикри,CyrillTrans,"idea, notion",,,pikri,Phonemic
+17-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),698,гІякълусе,CyrillTrans,wise,,,ʕaˤGluse,Phonemic
+17-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1518,мяъни акарсе,CyrillTrans,"foolish, stupid",,,maˤʔni akarse,Phonemic
+17-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1899,мяъни акарсе,CyrillTrans,"insane, crazy",,,maˤʔni akarse,Phonemic
+17-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),504,лугахъиз,CyrillTrans,learn,,,"lugaqiz, baxiz",Phonemic
+17-240-513-3,cuda1238,Dargwa (Tsudakhar dialect),504,бахиз,CyrillTrans,learn,,,"lugaqiz, baxiz",Phonemic
+17-242-513-1,cuda1238,Dargwa (Tsudakhar dialect),1929,бахиз,CyrillTrans,study,,,baxiz,Phonemic
+17-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),709,учІахъиз,CyrillTrans,teach,,,uč’aqiz,Phonemic
+17-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),753,шкуле вагьусе урищ,CyrillTrans,pupil,,,škule wahuse uriš̄,Phonemic
+17-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1038,учитель,CyrillTrans,teacher,,,učitelʲ,Phonemic
+17-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),673,ушкул,CyrillTrans,school,,,uškul,Phonemic
+17-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),707,гьамбичиз,CyrillTrans,remember,,,hambičiz,Phonemic
+17-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1523,хъумкартиз,CyrillTrans,forget,,,qumkartiz,Phonemic
+17-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),989,чергъусе,CyrillTrans,"clear, plain",,,čerɣuse,Phonemic
+17-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1764,сикІал чегIегъусе,CyrillTrans,obscure,,,sik’al čeʕeɣuse,Phonemic
+17-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1121,дигІянсе,CyrillTrans,secret,,,diʕaˤnse,Phonemic
+17-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),509,ирхкарлусе,CyrillTrans,"sure, certain",,,irxkarluse,Phonemic
+17-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),1626,аргьахьиз,CyrillTrans,explain,,,arhax̌iz,Phonemic
+17-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1162,хьул,CyrillTrans,"intention, purpose",,,"x̌ul, q’as, murat",Phonemic
+17-410-513-3,cuda1238,Dargwa (Tsudakhar dialect),1162,кьас,CyrillTrans,"intention, purpose",,,"x̌ul, q’as, murat",Phonemic
+17-410-513-5,cuda1238,Dargwa (Tsudakhar dialect),1162,мурат,CyrillTrans,"intention, purpose",,,"x̌ul, q’as, murat",Phonemic
+17-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),860,багьани,CyrillTrans,cause,,,bahani,Phonemic
+17-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),1308,ташмишдеш,CyrillTrans,doubt,,,"tašmišdeš, šak",Phonemic
+17-430-513-3,cuda1238,Dargwa (Tsudakhar dialect),1308,шак,CyrillTrans,doubt,,,"tašmišdeš, šak",Phonemic
+17-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1841,хиялбичIиз,CyrillTrans,suspect,,,xiyalbič’iz,Phonemic
+17-441-513-1,cuda1238,Dargwa (Tsudakhar dialect),1902,васе баркьиз,CyrillTrans,betray,,,wase barq’iz,Phonemic
+17-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),643,гІягІнигъябиркусе,CyrillTrans,"need, necessity",,,ʕaˤʕniɣaˤbirkuse,Phonemic
+17-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),686,гьаматсе,CyrillTrans,easy,,,hamatse,Phonemic
+17-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),584,къиянсе,CyrillTrans,difficult,,,Giyanse,Phonemic
+17-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1812,кьяс баркьибе,CyrillTrans,"try, attempt",,,q’aˤs barq’ibe,Phonemic
+17-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),488,къяйда,CyrillTrans,"way, manner",,,Gaˤyda,Phonemic
+17-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1577,ва,CyrillTrans,and,,,"wa, -ra",Phonemic
+17-510-513-3,cuda1238,Dargwa (Tsudakhar dialect),1577,-ра,CyrillTrans,and,,,"wa, -ra",Phonemic
+17-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1157,секІуна,CyrillTrans,because,,,sek’una,Phonemic
+17-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),1459,гьатІел,CyrillTrans,if,,,hat’el,Phonemic
+17-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1014,я,CyrillTrans,or,,,"ya, yada",Phonemic
+17-540-513-3,cuda1238,Dargwa (Tsudakhar dialect),1014,яда,CyrillTrans,or,,,"ya, yada",Phonemic
+17-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),1268,саб,CyrillTrans,"yes, affirmative",,,sab,Phonemic
+17-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1269,акара,CyrillTrans,"no, negative",,,akara,Phonemic
+17-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1239,сегІен,CyrillTrans,how?,,,seʕen,Phonemic
+17-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),822,чум,CyrillTrans,how many?,,,čum,Phonemic
+17-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),531,чум,CyrillTrans,how much?,,,čum,Phonemic
+17-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1236,се,CyrillTrans,what?,,,se,Phonemic
+17-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),1238,мурт,CyrillTrans,when?,,,murt,Phonemic
+17-660-513-1,cuda1238,Dargwa (Tsudakhar dialect),1237,чинаби,CyrillTrans,where?,,,"činabi, činala",Phonemic
+17-660-513-3,cuda1238,Dargwa (Tsudakhar dialect),1237,чинала,CyrillTrans,where?,,,"činabi, činala",Phonemic
+17-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),727,сегъуна,CyrillTrans,which?,,,seɣuna,Phonemic
+17-680-513-1,cuda1238,Dargwa (Tsudakhar dialect),1235,чесай,CyrillTrans,who?,,,česay,Phonemic
+17-690-513-1,cuda1238,Dargwa (Tsudakhar dialect),1270,селей,CyrillTrans,why?,,,seley,Phonemic
+18-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1363,тІама,CyrillTrans,voice,,,t’ama,Phonemic
+18-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1261,дечI белчIиз,CyrillTrans,sing,,,deč’ belč’iz,Phonemic
+18-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),715,чІяр ичІиз,CyrillTrans,"shout, cry out",,,č’aˤr ič’iz,Phonemic
+18-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),55,дигІянсе гъайиз,CyrillTrans,whisper,,,diʕaˤnse ɣayiz,Phonemic
+18-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),128,пІярпІяричІиз,CyrillTrans,mumble,,,p’aˤrp’aˤrič’iz,Phonemic
+18-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1025,шётІ ичІиз,CyrillTrans,whistle,,,šyot’ ič’iz,Phonemic
+18-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),298,чІигъикІиз,CyrillTrans,"shriek, screech",,,č’iɣik’iz,Phonemic
+18-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),526,чІигъикІиз,CyrillTrans,howl,,,č’iɣik’iz,Phonemic
+18-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),1623,гъай ичІиз,CyrillTrans,"speak, talk",,,ɣay ič’iz,Phonemic
+18-211-513-1,cuda1238,Dargwa (Tsudakhar dialect),1866,мучІ ичІиз,CyrillTrans,"stutter, stammer",,,muč’ ič’iz,Phonemic
+18-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1458,бурсиз,CyrillTrans,say,,,bursiz,Phonemic
+18-221-513-1,cuda1238,Dargwa (Tsudakhar dialect),1711,хабар бурсиз,CyrillTrans,tell story,,,xabar bursiz,Phonemic
+18-222-513-1,cuda1238,Dargwa (Tsudakhar dialect),1115,калам бурсиз,CyrillTrans,speech (make a),,,kalam bursiz,Phonemic
+18-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),48,лехІехьез,CyrillTrans,silent (be),,,leħex̌ez,Phonemic
+18-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1307,гъай,CyrillTrans,language,,,ɣay,Phonemic
+18-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),1599,гъай,CyrillTrans,word,,,ɣay,Phonemic
+18-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1405,зу,CyrillTrans,name,,,zu,Phonemic
+18-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1309,хьарбегъиз,CyrillTrans,"ask (question, inquire)",,,x̌arbeɣiz,Phonemic
+18-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1275,гъай чарбаркиз,CyrillTrans,answer,,,ɣay čarbarkiz,Phonemic
+18-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),2022,мукІурикІез,CyrillTrans,"admit, confess",,,muk’urik’ez,Phonemic
+18-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),755,мукІна гъяуннез,CyrillTrans,deny,,,"muk’na ɣaˤunnez, inkar barq’iz",Phonemic
+18-340-513-3,cuda1238,Dargwa (Tsudakhar dialect),755,инкар баркьиз,CyrillTrans,deny,,,"muk’na ɣaˤunnez, inkar barq’iz",Phonemic
+18-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1828,тила баркьиз,CyrillTrans,"ask, request",,,tila barq’iz,Phonemic
+18-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1675,хъя баркьиз,CyrillTrans,promise,,,qaˤ barq’iz,Phonemic
+18-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),49,кьабул гІябаркьиз,CyrillTrans,refuse,,,q’abul ʕaˤbarq’iz,Phonemic
+18-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),83,къадаикІез,CyrillTrans,forbid,,,Gadaik’ez,Phonemic
+18-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),299,вехІилцунез,CyrillTrans,"rebuke, scold",,,weħilcunez,Phonemic
+18-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),1084,вявъиз,CyrillTrans,call (=summon),,,waˤwʔiz,Phonemic
+18-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),180,зу бурсиз,CyrillTrans,call (=name),,,zu bursiz,Phonemic
+18-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),9,бурсиз,CyrillTrans,announce,,,bursiz,Phonemic
+18-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1192,урух уркьулез,CyrillTrans,threaten,,,urux urq’ulez,Phonemic
+18-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),101,хулаиъиргулез,CyrillTrans,boast,,,xulaiʔirgulez,Phonemic
+18-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1672,лучІиз,CyrillTrans,write,,,luč’iz,Phonemic
+18-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),724,лужиз,CyrillTrans,read,,,lužiz,Phonemic
+18-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),648,кагъар,CyrillTrans,paper,,,kaɣar,Phonemic
+18-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),794,ручкІа,CyrillTrans,pen,,,ručk’a,Phonemic
+18-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),963,книжкІа,CyrillTrans,book,,,"knižk’a, žuz, tabtar",Phonemic
+18-610-513-3,cuda1238,Dargwa (Tsudakhar dialect),963,жуз,CyrillTrans,book,,,"knižk’a, žuz, tabtar",Phonemic
+18-610-513-5,cuda1238,Dargwa (Tsudakhar dialect),963,табтар,CyrillTrans,book,,,"knižk’a, žuz, tabtar",Phonemic
+18-670-513-1,cuda1238,Dargwa (Tsudakhar dialect),1045,шагІир,CyrillTrans,poet,,,"šaˤir, poet",Phonemic
+18-670-513-3,cuda1238,Dargwa (Tsudakhar dialect),1045,поэт,CyrillTrans,poet,,,"šaˤir, poet",Phonemic
+18-710-513-1,cuda1238,Dargwa (Tsudakhar dialect),777,шятІихь,CyrillTrans,flute,,,šaˤt’ix̌,Phonemic
+18-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),908,там,CyrillTrans,drum,,,tam,Phonemic
+18-730-513-1,cuda1238,Dargwa (Tsudakhar dialect),2136,зурма,CyrillTrans,"horn, trumpet",,,zurma,Phonemic
+19-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1300,дуне,CyrillTrans,country,,,dune,Phonemic
+19-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),89,дурхьасе дуне,CyrillTrans,one's native country,,,"durx̌ase dune, wat’an",Phonemic
+19-120-513-3,cuda1238,Dargwa (Tsudakhar dialect),89,ватIан,CyrillTrans,one's native country,,,"durx̌ase dune, wat’an",Phonemic
+19-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),930,щи,CyrillTrans,village,,,š̄i,Phonemic
+19-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1010,дузу,CyrillTrans,boundary,,,duzu,Phonemic
+19-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),789,халкь,CyrillTrans,people (populace),,,xalq’,Phonemic
+19-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),302,тухум,CyrillTrans,"tribe, clan",,,tuxum,Phonemic
+19-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),301,бекӀ-адим,CyrillTrans,"chief, chieftain",,,bek’-adim,Phonemic
+19-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1296,гІянса,CyrillTrans,"staff, walking stick",,,ʕaˤnsa,Phonemic
+19-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1846,бекIдихь баркьиз,CyrillTrans,"rule, govern",,,bek’dix̌ barq’iz,Phonemic
+19-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),1508,пача,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-320-513-3,cuda1238,Dargwa (Tsudakhar dialect),1508,хан,CyrillTrans,"king, ruler",,,"pača, xan",Phonemic
+19-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1306,пачала хьунул,CyrillTrans,queen,,,"pačala x̌unul, xanla x̌unul",Phonemic
+19-330-513-3,cuda1238,Dargwa (Tsudakhar dialect),1306,ханла хьунул,CyrillTrans,queen,,,"pačala x̌unul, xanla x̌unul",Phonemic
+19-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),482,адабла (адим),CyrillTrans,"noble, nobleman",,,adabla (adim),Phonemic
+19-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1032,шагьарла адим,CyrillTrans,"citizen, subject",,,šaharla adim,Phonemic
+19-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),383,хужаим,CyrillTrans,master,,,xužaim,Phonemic
+19-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),255,къараваш,CyrillTrans,servant,,,Garawaš,Phonemic
+19-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),384,уздан адим,CyrillTrans,freeman,,,uzdan adim,Phonemic
+19-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1128,че ушиз,CyrillTrans,"command, order",,,če ušiz,Phonemic
+19-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1635,ченаргъусез,CyrillTrans,obey,,,čenarɣusez,Phonemic
+19-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1003,валтунез,CyrillTrans,"let, permit",,,waltunez,Phonemic
+19-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1325,юлдаш,CyrillTrans,"friend, companion",,,yuldaš,Phonemic
+19-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),1332,унра,CyrillTrans,neighbor,,,unra,Phonemic
+19-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),791,вахгІялхунсе адим,CyrillTrans,stranger,,,waxʕaˤlxunse adim,Phonemic
+19-560-513-1,cuda1238,Dargwa (Tsudakhar dialect),1782,охал,CyrillTrans,guest,,,oxal,Phonemic
+19-570-513-1,cuda1238,Dargwa (Tsudakhar dialect),1545,хъала веъ,CyrillTrans,host,,,qala weʔ,Phonemic
+19-580-513-1,cuda1238,Dargwa (Tsudakhar dialect),1897,кумек,CyrillTrans,"help, aid",,,kumek,Phonemic
+19-590-513-1,cuda1238,Dargwa (Tsudakhar dialect),1550,къиян ухясез,CyrillTrans,"hinder, prevent",,,Giyan uxaˤsez,Phonemic
+19-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1747,гІядат,CyrillTrans,custom,,,ʕaˤdat,Phonemic
+19-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1848,мец,CyrillTrans,"strife, quarrel",,,mec,Phonemic
+19-630-513-1,cuda1238,Dargwa (Tsudakhar dialect),2024,хІиял,CyrillTrans,"conspiracy, plot",,,ħiyal,Phonemic
+19-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),1831,къаршикІез,CyrillTrans,meet,,,Garšik’ez,Phonemic
+19-720-513-1,cuda1238,Dargwa (Tsudakhar dialect),1610,хъяйцІу,CyrillTrans,prostitute,,,qaˤyc’u,Phonemic
+20-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1423,дяв баркьиз,CyrillTrans,fight (vb),,,daˤw barq’iz,Phonemic
+20-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),579,дяв,CyrillTrans,"war, battle",,,"daˤw, derɣ",Phonemic
+20-130-513-3,cuda1238,Dargwa (Tsudakhar dialect),579,дергъ,CyrillTrans,"war, battle",,,"daˤw, derɣ",Phonemic
+20-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),1338,даршудеш,CyrillTrans,peace,,,daršudeš,Phonemic
+20-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1561,гІярмия,CyrillTrans,army,,,ʕaˤrmiya,Phonemic
+20-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1941,гІярмицала,CyrillTrans,soldier,,,ʕaˤrmicala,Phonemic
+20-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1763,чихъя,CyrillTrans,club,,,"čiqaˤ, qit’a",Phonemic
+20-220-513-3,cuda1238,Dargwa (Tsudakhar dialect),1763,хъитІа,CyrillTrans,club,,,"čiqaˤ, qit’a",Phonemic
+20-222-513-1,cuda1238,Dargwa (Tsudakhar dialect),386,дявла барто,CyrillTrans,battle-ax,,,daˤwla barto,Phonemic
+20-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),994,черши,CyrillTrans,bow,,,čerši,Phonemic
+20-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),977,ужитирхь,CyrillTrans,arrow,,,užitirx̌,Phonemic
+20-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),945,гъуц,CyrillTrans,spear,,,ɣuc,Phonemic
+20-270-513-1,cuda1238,Dargwa (Tsudakhar dialect),1535,ханжар,CyrillTrans,sword,,,xanžar,Phonemic
+20-280-513-1,cuda1238,Dargwa (Tsudakhar dialect),1566,тупанг,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-280-513-3,cuda1238,Dargwa (Tsudakhar dialect),1566,туп,CyrillTrans,"gun, cannon",,,"tupang, tup",Phonemic
+20-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1061,ярагъ-мятахІ,CyrillTrans,armor (defensive),,,yaraɣ-maˤtaħ,Phonemic
+20-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),1680,мехІла къапІа,CyrillTrans,helmet,,,meħla Gap’a,Phonemic
+20-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),1064,къалхан,CyrillTrans,shield,,,Galxan,Phonemic
+20-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1938,къала,CyrillTrans,fortress,,,Gala,Phonemic
+20-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),1671,къала,CyrillTrans,tower,,,Gala,Phonemic
+20-410-513-1,cuda1238,Dargwa (Tsudakhar dialect),783,четигьабувхъуне,CyrillTrans,victory,,,četihabuwqune,Phonemic
+20-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),782,гувгьайчни,CyrillTrans,defeat,,,guwhayčni,Phonemic
+20-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),722,гьужум баркьиз,CyrillTrans,attack,,,hužum barq’iz,Phonemic
+20-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),1330,къардеш дирез,CyrillTrans,defend,,,Gardeš direz,Phonemic
+20-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),421,гІеламилзез,CyrillTrans,retreat,,,ʕelamilzez,Phonemic
+20-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1696,някъла арашез,CyrillTrans,surrender,,,naˤGla arašez,Phonemic
+20-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1072,ясир,CyrillTrans,"captive, prisoner",,,"yasir, tusnaGči",Phonemic
+20-470-513-3,cuda1238,Dargwa (Tsudakhar dialect),1072,туснакъчи,CyrillTrans,"captive, prisoner",,,"yasir, tusnaGči",Phonemic
+20-471-513-1,cuda1238,Dargwa (Tsudakhar dialect),1940,къараул,CyrillTrans,"guard, sentinel",,,Garaul,Phonemic
+20-480-513-1,cuda1238,Dargwa (Tsudakhar dialect),1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-490-513-1,cuda1238,Dargwa (Tsudakhar dialect),65,гуижиз,CyrillTrans,ambush,,,guižiz,Phonemic
+20-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),1858,бяликъасе урцан,CyrillTrans,fisherman,,,"baˤliGase urcan, baˤliqči",Phonemic
+20-510-513-3,cuda1238,Dargwa (Tsudakhar dialect),1858,бялихъчи,CyrillTrans,fisherman,,,"baˤliGase urcan, baˤliqči",Phonemic
+20-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1074,къалмакъ,CyrillTrans,fishhook,,,GalmaG,Phonemic
+20-530-513-1,cuda1238,Dargwa (Tsudakhar dialect),19,лескІа,CyrillTrans,fishing line,,,lesk’a,Phonemic
+20-540-513-1,cuda1238,Dargwa (Tsudakhar dialect),388,бялиxъе дурцу сетка,CyrillTrans,fishnet,,,baˤliqe durcu setka,Phonemic
+20-550-513-1,cuda1238,Dargwa (Tsudakhar dialect),389,тур,CyrillTrans,fish trap,,,"tur, č’ipa",Phonemic
+20-550-513-3,cuda1238,Dargwa (Tsudakhar dialect),389,чIипа,CyrillTrans,fish trap,,,"tur, č’ipa",Phonemic
+20-610-513-1,cuda1238,Dargwa (Tsudakhar dialect),1435,гІяяр вашиз,CyrillTrans,hunt,,,ʕaˤyar wašiz,Phonemic
+20-620-513-1,cuda1238,Dargwa (Tsudakhar dialect),1172,гІярбе алкьунез,CyrillTrans,shoot,,,ʕaˤrbe alq’unez,Phonemic
+20-640-513-1,cuda1238,Dargwa (Tsudakhar dialect),1075,тІимкь,CyrillTrans,trap (noun),,,t’imq’,Phonemic
+20-650-513-1,cuda1238,Dargwa (Tsudakhar dialect),1170,буциз,CyrillTrans,trap (vb),,,buciz,Phonemic
+21-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),1062,закон,CyrillTrans,law,,,zakon,Phonemic
+21-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),1818,суд баркьиз,CyrillTrans,judge (vb),,,sud barq’iz,Phonemic
+21-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),1067,судла хІукму,CyrillTrans,judgment,,,sudla ħukmu,Phonemic
+21-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),861,судйа,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-513-1,cuda1238,Dargwa (Tsudakhar dialect),2020,тІалабчи,CyrillTrans,plaintiff,,,t’alabči,Phonemic
+21-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),1034,жавабчи,CyrillTrans,defendant,,,žawabči,Phonemic
+21-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),1144,бикъри,CyrillTrans,witness,,,biGri,Phonemic
+21-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),1939,хъя баркьиз,CyrillTrans,swear,,,qaˤ barq’iz,Phonemic
+21-250-513-1,cuda1238,Dargwa (Tsudakhar dialect),1712,хъя,CyrillTrans,oath,,,qaˤ,Phonemic
+21-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1814,чеигъиз,CyrillTrans,accuse,,,čeiɣiz,Phonemic
+21-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),484,чеигъиз,CyrillTrans,condemn,,,čeiɣiz,Phonemic
+21-330-513-1,cuda1238,Dargwa (Tsudakhar dialect),983,чеигъиз,CyrillTrans,convict (vb),,,čeiɣiz,Phonemic
+21-340-513-1,cuda1238,Dargwa (Tsudakhar dialect),988,марварез,CyrillTrans,acquit,,,marwarez,Phonemic
+21-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1682,гІяйбла вегІ,CyrillTrans,guilty,,,ʕaˤybla weʕ,Phonemic
+21-360-513-1,cuda1238,Dargwa (Tsudakhar dialect),90,гІяйб акарсе,CyrillTrans,innocent,,,ʕaˤyb akarse,Phonemic
+21-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),390,цегъа,CyrillTrans,"penalty, punishment",,,ceɣa,Phonemic
+21-380-513-1,cuda1238,Dargwa (Tsudakhar dialect),218,арцла чибла,CyrillTrans,fine,,,arcla čibla,Phonemic
+21-390-513-1,cuda1238,Dargwa (Tsudakhar dialect),1281,туснакь,CyrillTrans,"prison, jail",,,tusnaq’,Phonemic
+21-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),845,адим кавщибсе,CyrillTrans,murder,,,adim kawš̄ibse,Phonemic
+21-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),953,зайраркьибле,CyrillTrans,rape,,,zayrarq’ible,Phonemic
+21-460-513-1,cuda1238,Dargwa (Tsudakhar dialect),1889,ца гьадищибле,CyrillTrans,arson,,,ca hadiš̄ible,Phonemic
+21-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),1792,симксе бикъри,CyrillTrans,perjury,,,simkse biGri,Phonemic
+21-510-513-1,cuda1238,Dargwa (Tsudakhar dialect),713,хъулчивяхІиз,CyrillTrans,steal,,,qulčiwaˤħiz,Phonemic
+21-520-513-1,cuda1238,Dargwa (Tsudakhar dialect),1160,хъулчи,CyrillTrans,thief,,,qulči,Phonemic
+22-110-513-1,cuda1238,Dargwa (Tsudakhar dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-513-1,cuda1238,Dargwa (Tsudakhar dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-513-1,cuda1238,Dargwa (Tsudakhar dialect),911,килиса,CyrillTrans,"temple, church",,,kilisa,Phonemic
+22-140-513-1,cuda1238,Dargwa (Tsudakhar dialect),853,михІраб,CyrillTrans,altar,,,miħrab,Phonemic
+22-150-513-1,cuda1238,Dargwa (Tsudakhar dialect),1103,кьурбан,CyrillTrans,"sacrifice, offering",,,q’urban,Phonemic
+22-160-513-1,cuda1238,Dargwa (Tsudakhar dialect),257,сужда баркьиз,CyrillTrans,worship,,,sužda barq’iz,Phonemic
+22-170-513-1,cuda1238,Dargwa (Tsudakhar dialect),24,как баркьиз,CyrillTrans,pray,,,kak barq’iz,Phonemic
+22-180-513-1,cuda1238,Dargwa (Tsudakhar dialect),852,кашиш,CyrillTrans,priest,,,"kašiš, malla",Phonemic
+22-180-513-3,cuda1238,Dargwa (Tsudakhar dialect),852,малла,CyrillTrans,priest,,,"kašiš, malla",Phonemic
+22-190-513-1,cuda1238,Dargwa (Tsudakhar dialect),1702,дурхъасе,CyrillTrans,"holy, sacred",,,durqase,Phonemic
+22-220-513-1,cuda1238,Dargwa (Tsudakhar dialect),304,ваъза-насихІят баркьиз,CyrillTrans,preach,,,waʔza-nasiħaˤt barq’iz,Phonemic
+22-230-513-1,cuda1238,Dargwa (Tsudakhar dialect),391,талихІ баркьиз,CyrillTrans,bless,,,taliħ barq’iz,Phonemic
+22-240-513-1,cuda1238,Dargwa (Tsudakhar dialect),8,нягІяна баркьиз,CyrillTrans,curse,,,naˤʕaˤna barq’iz,Phonemic
+22-260-513-1,cuda1238,Dargwa (Tsudakhar dialect),303,дубурцез,CyrillTrans,fast (vb),,,duburcez,Phonemic
+22-310-513-1,cuda1238,Dargwa (Tsudakhar dialect),1565,алжана,CyrillTrans,heaven,,,alžana,Phonemic
+22-320-513-1,cuda1238,Dargwa (Tsudakhar dialect),878,жагьанаб,CyrillTrans,hell,,,žahanab,Phonemic
+22-350-513-1,cuda1238,Dargwa (Tsudakhar dialect),1973,жин,CyrillTrans,demon (evil spirit),,,"žin, ilbis, šaˤytʼan",Phonemic
+22-350-513-3,cuda1238,Dargwa (Tsudakhar dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"žin, ilbis, šaˤytʼan",Phonemic
+22-350-513-5,cuda1238,Dargwa (Tsudakhar dialect),1973,шяйтІан,CyrillTrans,demon (evil spirit),,,"žin, ilbis, šaˤytʼan",Phonemic
+22-370-513-1,cuda1238,Dargwa (Tsudakhar dialect),1945,къанч,CyrillTrans,idol,,,Ganč,Phonemic
+22-420-513-1,cuda1238,Dargwa (Tsudakhar dialect),392,сихІру,CyrillTrans,"magic, witchcraft, sorcery",,,siħru,Phonemic
+22-430-513-1,cuda1238,Dargwa (Tsudakhar dialect),2137,сихІручи,CyrillTrans,"sorcerer, witch",,,siħruči,Phonemic
+22-440-513-1,cuda1238,Dargwa (Tsudakhar dialect),2138,гьурулгІян,CyrillTrans,"fairy, elf",,,hurulʕaˤn,Phonemic
+22-450-513-1,cuda1238,Dargwa (Tsudakhar dialect),1175,лишан,CyrillTrans,"ghost, phantom",,,"lišan, sipat",Phonemic
+22-450-513-3,cuda1238,Dargwa (Tsudakhar dialect),1175,сипат,CyrillTrans,"ghost, phantom",,,"lišan, sipat",Phonemic
+22-470-513-1,cuda1238,Dargwa (Tsudakhar dialect),107,гІяламат,CyrillTrans,"omen, portent",,,ʕaˤlamat,Phonemic

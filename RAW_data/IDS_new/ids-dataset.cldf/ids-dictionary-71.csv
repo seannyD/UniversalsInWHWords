@@ -1,0 +1,1762 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-71-1,nort2697,Azerbaijani,1852,тез-тез,CyrillTrans,often,,,tez-tez,Phonemic
+14-310-71-1,nort2697,Azerbaijani,1676,һәмишә,CyrillTrans,always,,,"hæmišæ, daim",Phonemic
+14-310-71-3,nort2697,Azerbaijani,1676,даим,CyrillTrans,always,,,"hæmišæ, daim",Phonemic
+14-290-71-1,nort2697,Azerbaijani,790,һазыр,CyrillTrans,ready,,,hazɨr,Phonemic
+14-280-71-1,nort2697,Azerbaijani,1928,дајандырмаг,CyrillTrans,"cease, stop",,,dayandɨrmag,Phonemic
+14-270-71-1,nort2697,Azerbaijani,1766,гуртармаг,CyrillTrans,finish,,,gurtarmag,Phonemic
+14-260-71-1,nort2697,Azerbaijani,743,гуртармаг,CyrillTrans,end (temporal),,,"gurtarmag, bitirmæk",Phonemic
+14-260-71-3,nort2697,Azerbaijani,743,битирмәк,CyrillTrans,end (temporal),,,"gurtarmag, bitirmæk",Phonemic
+14-252-71-1,nort2697,Azerbaijani,1186,давам етмәк,CyrillTrans,"last, endure",,,"davam etmæk, uzanmag",Phonemic
+14-252-71-3,nort2697,Azerbaijani,1186,узанмаг,CyrillTrans,"last, endure",,,"davam etmæk, uzanmag",Phonemic
+14-250-71-1,nort2697,Azerbaijani,1806,башламаг,CyrillTrans,"begin, beginning",,,"bašlamag, bašlanɣɨǯ",Phonemic
+14-250-71-3,nort2697,Azerbaijani,1806,башланғыҹ,CyrillTrans,"begin, beginning",,,"bašlamag, bašlanɣɨǯ",Phonemic
+14-240-71-1,nort2697,Azerbaijani,425,јавашытмаг,CyrillTrans,"retard, delay",,,"yavašɨtmag, yubatmag",Phonemic
+14-240-71-3,nort2697,Azerbaijani,425,јубатмаг,CyrillTrans,"retard, delay",,,"yavašɨtmag, yubatmag",Phonemic
+14-230-71-1,nort2697,Azerbaijani,754,тәләсмәк,CyrillTrans,"hasten, hurry",,,tælæsmæk,Phonemic
+14-220-71-1,nort2697,Azerbaijani,701,јаваш,CyrillTrans,slow,,,yavaš,Phonemic
+14-210-71-1,nort2697,Azerbaijani,1631,һәрәкәтли,CyrillTrans,"swift, fast, quick",,,"hærækætli, tez",Phonemic
+14-210-71-3,nort2697,Azerbaijani,1631,тез,CyrillTrans,"swift, fast, quick",,,"hærækætli, tez",Phonemic
+14-190-71-1,nort2697,Azerbaijani,1963,тезликлә,CyrillTrans,immediately,,,"tezliklæ, ǯæld",Phonemic
+14-190-71-3,nort2697,Azerbaijani,1963,ҹәлд,CyrillTrans,immediately,,,"tezliklæ, ǯæld",Phonemic
+14-180-71-1,nort2697,Azerbaijani,1376,инди,CyrillTrans,now,,,indi,Phonemic
+14-170-71-1,nort2697,Azerbaijani,477,ҝеҹ,CyrillTrans,late,,,gʲeǯ,Phonemic
+14-160-71-1,nort2697,Azerbaijani,672,тез,CyrillTrans,early,,,tez,Phonemic
+14-150-71-1,nort2697,Azerbaijani,1229,гоҹа,CyrillTrans,old,,,"goǯa, köhnæ",Phonemic
+14-150-71-3,nort2697,Azerbaijani,1229,көһнә,CyrillTrans,old,,,"goǯa, köhnæ",Phonemic
+14-140-71-1,nort2697,Azerbaijani,1207,ҝәнҹ,CyrillTrans,young,,,gʲænǯ,Phonemic
+14-120-71-1,nort2697,Azerbaijani,1789,јаш,CyrillTrans,age,,,"yaš, æsr, dövr",Phonemic
+14-120-71-3,nort2697,Azerbaijani,1789,әср,CyrillTrans,age,,,"yaš, æsr, dövr",Phonemic
+14-120-71-5,nort2697,Azerbaijani,1789,дөвр,CyrillTrans,age,,,"yaš, æsr, dövr",Phonemic
+14-130-71-1,nort2697,Azerbaijani,1231,тәзә,CyrillTrans,new,,,tæzæ,Phonemic
+14-110-71-1,nort2697,Azerbaijani,892,вахт,CyrillTrans,time,,,"vaxt, zaman",Phonemic
+14-110-71-3,nort2697,Azerbaijani,892,заман,CyrillTrans,time,,,"vaxt, zaman",Phonemic
+13-440-71-1,nort2697,Azerbaijani,417,үч дәфә,CyrillTrans,three times,,,üč dæfæ,Phonemic
+13-420-71-1,nort2697,Azerbaijani,1859,үчүнҹү,CyrillTrans,third,,,üčünǯü,Phonemic
+13-380-71-1,nort2697,Azerbaijani,1546,ики дәфә,CyrillTrans,two times,,,iki dæfæ,Phonemic
+13-370-71-1,nort2697,Azerbaijani,1888,ҹүт,CyrillTrans,pair,,,ǯüt,Phonemic
+13-360-71-1,nort2697,Azerbaijani,1384,икинҹи,CyrillTrans,second,,,ikinǯi,Phonemic
+13-350-71-1,nort2697,Azerbaijani,1529,ахырынҹы,CyrillTrans,last,,,axɨrɨnǯɨ,Phonemic
+13-340-71-1,nort2697,Azerbaijani,728,биринҹи,CyrillTrans,first,,,birinǯi,Phonemic
+13-330-71-1,nort2697,Azerbaijani,1580,тәк јеҝанә,CyrillTrans,"alone, only",,,"tæk yegʲanæ, vahid",Phonemic
+13-330-71-3,nort2697,Azerbaijani,1580,ваһид,CyrillTrans,"alone, only",,,"tæk yegʲanæ, vahid",Phonemic
+13-240-71-1,nort2697,Azerbaijani,816,јарым,CyrillTrans,half,,,yarɨm,Phonemic
+13-230-71-1,nort2697,Azerbaijani,779,һиссә,CyrillTrans,"part, piece",,,"hissæ, gisim, dilim",Phonemic
+13-230-71-3,nort2697,Azerbaijani,779,гисим,CyrillTrans,"part, piece",,,"hissæ, gisim, dilim",Phonemic
+13-230-71-5,nort2697,Azerbaijani,779,дилим,CyrillTrans,"part, piece",,,"hissæ, gisim, dilim",Phonemic
+13-220-71-1,nort2697,Azerbaijani,1624,баш,CyrillTrans,empty,,,baš,Phonemic
+13-210-71-1,nort2697,Azerbaijani,1429,долу,CyrillTrans,full,,,dolu,Phonemic
+13-190-71-1,nort2697,Azerbaijani,2023,чохлу,CyrillTrans,"multitude, crowd",,,čoxlu,Phonemic
+13-181-71-1,nort2697,Azerbaijani,1241,бир нечә,CyrillTrans,some,,,bir nečæ,Phonemic
+13-170-71-1,nort2697,Azerbaijani,1242,аз,CyrillTrans,"little (quantity), few",,,az,Phonemic
+13-180-71-1,nort2697,Azerbaijani,1881,кифајәт гәдәр,CyrillTrans,enough,,,"kifayæt gædær, xeyli",Phonemic
+13-180-71-3,nort2697,Azerbaijani,1881,хејли,CyrillTrans,enough,,,"kifayæt gædær, xeyli",Phonemic
+13-160-71-1,nort2697,Azerbaijani,1992,чох,CyrillTrans,more,,,"čox, artɨg",Phonemic
+13-160-71-3,nort2697,Azerbaijani,1992,артыг,CyrillTrans,more,,,"čox, artɨg",Phonemic
+13-150-71-1,nort2697,Azerbaijani,1198,чох,CyrillTrans,"much, many",,,"čox, artɨg",Phonemic
+13-150-71-3,nort2697,Azerbaijani,1198,артыг,CyrillTrans,"much, many",,,"čox, artɨg",Phonemic
+13-140-71-1,nort2697,Azerbaijani,98,һамы,CyrillTrans,"every, all",,,hamɨ,Phonemic
+13-107-71-1,nort2697,Azerbaijani,1420,һесабламаг,CyrillTrans,count,,,"hesablamag, saymag",Phonemic
+13-107-71-3,nort2697,Azerbaijani,1420,сајмаг,CyrillTrans,count,,,"hesablamag, saymag",Phonemic
+13-106-71-1,nort2697,Azerbaijani,1843,мин,CyrillTrans,thousand,,,min,Phonemic
+13-105-71-1,nort2697,Azerbaijani,1634,јүз,CyrillTrans,hundred,,,yüz,Phonemic
+13-104-71-1,nort2697,Azerbaijani,1710,ијирми,CyrillTrans,twenty,,,iyirmi,Phonemic
+13-103-71-1,nort2697,Azerbaijani,1709,он беш,CyrillTrans,fifteen,,,on beš,Phonemic
+13-102-71-1,nort2697,Azerbaijani,1707,он ики,CyrillTrans,twelve,,,on iki,Phonemic
+13-101-71-1,nort2697,Azerbaijani,1706,он бир,CyrillTrans,eleven,,,on bir,Phonemic
+13-100-71-1,nort2697,Azerbaijani,1515,он,CyrillTrans,ten,,,on,Phonemic
+13-90-71-1,nort2697,Azerbaijani,1483,доггуз,CyrillTrans,nine,,,dogguz,Phonemic
+13-80-71-1,nort2697,Azerbaijani,1705,сәккиз,CyrillTrans,eight,,,sækkiz,Phonemic
+13-70-71-1,nort2697,Azerbaijani,1704,једди,CyrillTrans,seven,,,yeddi,Phonemic
+13-60-71-1,nort2697,Azerbaijani,1703,алты,CyrillTrans,six,,,altɨ,Phonemic
+13-50-71-1,nort2697,Azerbaijani,493,беш,CyrillTrans,five,,,beš,Phonemic
+13-40-71-1,nort2697,Azerbaijani,1500,дөрд,CyrillTrans,four,,,dörd,Phonemic
+13-20-71-1,nort2697,Azerbaijani,1498,ики,CyrillTrans,two,,,iki,Phonemic
+13-30-71-1,nort2697,Azerbaijani,492,үч,CyrillTrans,three,,,üč,Phonemic
+13-10-71-1,nort2697,Azerbaijani,1493,бир,CyrillTrans,one,,,bir,Phonemic
+13-0-71-1,nort2697,Azerbaijani,1294,сыфыр,CyrillTrans,"zero, nothing",,,sɨfɨr,Phonemic
+12-930-71-1,nort2697,Azerbaijani,1264,дәјишмәк,CyrillTrans,change,,,dæyišmæk,Phonemic
+12-920-71-1,nort2697,Azerbaijani,1558,охшар,CyrillTrans,"like, similar",,,"oxšar, eyni",Phonemic
+12-920-71-3,nort2697,Azerbaijani,1558,ејни,CyrillTrans,"like, similar",,,"oxšar, eyni",Phonemic
+12-840-71-1,nort2697,Azerbaijani,1048,хәтт,CyrillTrans,line,,,"xætt, ǯizgʲi",Phonemic
+12-840-71-3,nort2697,Azerbaijani,1048,ҹизҝи,CyrillTrans,line,,,"xætt, ǯizgʲi",Phonemic
+12-850-71-1,nort2697,Azerbaijani,1667,дешик,CyrillTrans,hole,,,dešik,Phonemic
+12-830-71-1,nort2697,Azerbaijani,1845,күрә,CyrillTrans,"sphere, ball",,,küræ,Phonemic
+12-810-71-1,nort2697,Azerbaijani,1395,јумру,CyrillTrans,round,,,"yumru, gʲirdæ",Phonemic
+12-810-71-3,nort2697,Azerbaijani,1395,ҝирдә,CyrillTrans,round,,,"yumru, gʲirdæ",Phonemic
+12-820-71-1,nort2697,Azerbaijani,1467,даирә,CyrillTrans,circle,,,"dairæ, hændævær",Phonemic
+12-820-71-3,nort2697,Azerbaijani,1467,һәндәвәр,CyrillTrans,circle,,,"dairæ, hændævær",Phonemic
+12-780-71-1,nort2697,Azerbaijani,850,квадрат,CyrillTrans,square,,,"kvadrat, xanæ",Phonemic
+12-780-71-3,nort2697,Azerbaijani,850,ханә,CyrillTrans,square,,,"kvadrat, xanæ",Phonemic
+12-770-71-1,nort2697,Azerbaijani,1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-71-1,nort2697,Azerbaijani,192,күнҹ,CyrillTrans,corner,,,"künǯ, buǯag",Phonemic
+12-760-71-3,nort2697,Azerbaijani,192,буҹаг,CyrillTrans,corner,,,"künǯ, buǯag",Phonemic
+12-750-71-1,nort2697,Azerbaijani,1071,гармаг,CyrillTrans,hook,,,garmag,Phonemic
+12-740-71-1,nort2697,Azerbaijani,297,әјри,CyrillTrans,crooked,,,æyri,Phonemic
+12-730-71-1,nort2697,Azerbaijani,1404,дүз,CyrillTrans,straight,,,düz,Phonemic
+12-710-71-1,nort2697,Azerbaijani,1633,јасты,CyrillTrans,flat,,,"yastɨ, hamar",Phonemic
+12-710-71-3,nort2697,Azerbaijani,1633,һамар,CyrillTrans,flat,,,"yastɨ, hamar",Phonemic
+12-680-71-1,nort2697,Azerbaijani,193,хырда,CyrillTrans,shallow,,,xɨrda,Phonemic
+12-670-71-1,nort2697,Azerbaijani,1593,дәрин,CyrillTrans,deep,,,dærin,Phonemic
+12-650-71-1,nort2697,Azerbaijani,2249,назик,CyrillTrans,thin (in dimension),,,nazik,Phonemic
+12-630-71-1,nort2697,Azerbaijani,1244,јоғун,CyrillTrans,thick (in dimension),,,"yoɣun, galɨn",Phonemic
+12-630-71-3,nort2697,Azerbaijani,1244,галын,CyrillTrans,thick (in dimension),,,"yoɣun, galɨn",Phonemic
+12-620-71-1,nort2697,Azerbaijani,1267,дар,CyrillTrans,narrow,,,"dar, ensiz",Phonemic
+12-620-71-3,nort2697,Azerbaijani,1267,енсиз,CyrillTrans,narrow,,,"dar, ensiz",Phonemic
+12-610-71-1,nort2697,Azerbaijani,1243,енли,CyrillTrans,"wide, broad",,,"enli, gʲeniš",Phonemic
+12-610-71-3,nort2697,Azerbaijani,1243,ҝениш,CyrillTrans,"wide, broad",,,"enli, gʲeniš",Phonemic
+12-590-71-1,nort2697,Azerbaijani,1645,гысса,CyrillTrans,short,,,gɨssa,Phonemic
+12-580-71-1,nort2697,Azerbaijani,711,уҹа,CyrillTrans,tall,,,"uǯa, hündür",Phonemic
+12-580-71-3,nort2697,Azerbaijani,711,һүндүр,CyrillTrans,tall,,,"uǯa, hündür",Phonemic
+12-570-71-1,nort2697,Azerbaijani,1203,узун,CyrillTrans,long,,,uzun,Phonemic
+12-560-71-1,nort2697,Azerbaijani,1246,балаҹа,CyrillTrans,"small, little",,,balaǯa,Phonemic
+12-550-71-1,nort2697,Azerbaijani,1202,бөјүк,CyrillTrans,"large, big",,,böyük,Phonemic
+12-541-71-1,nort2697,Azerbaijani,81,гарыш,CyrillTrans,"span, fathom",,,garɨš,Phonemic
+12-540-71-1,nort2697,Azerbaijani,1506,өлчмәк,CyrillTrans,measure,,,ölčmæk,Phonemic
+12-530-71-1,nort2697,Azerbaijani,479,бөјүмәк,CyrillTrans,grow,,,"böyümæk, yüksælmæk",Phonemic
+12-530-71-3,nort2697,Azerbaijani,479,јүксәлмәк,CyrillTrans,grow,,,"böyümæk, yüksælmæk",Phonemic
+12-480-71-1,nort2697,Azerbaijani,1595,ҹәнуб,CyrillTrans,south,,,ǯænub,Phonemic
+12-470-71-1,nort2697,Azerbaijani,1598,шимал,CyrillTrans,north,,,šimal,Phonemic
+12-460-71-1,nort2697,Azerbaijani,1817,гәрб,CyrillTrans,west,,,gærb,Phonemic
+12-450-71-1,nort2697,Azerbaijani,1877,шәрг,CyrillTrans,east,,,šærg,Phonemic
+12-430-71-1,nort2697,Azerbaijani,1942,јан-јана,CyrillTrans,near (adv),,,"yan-yana, yanašɨ",Phonemic
+12-430-71-3,nort2697,Azerbaijani,1942,јанашы,CyrillTrans,near (adv),,,"yan-yana, yanašɨ",Phonemic
+12-440-71-1,nort2697,Azerbaijani,1406,узаг,CyrillTrans,far (adv),,,uzag,Phonemic
+12-420-71-1,nort2697,Azerbaijani,244,сол (тәрәф),CyrillTrans,left (side),,,sol (tæræf),Phonemic
+12-410-71-1,nort2697,Azerbaijani,1019,сағ (тәрәф),CyrillTrans,right (side),,,saɣ (tæræf),Phonemic
+12-370-71-1,nort2697,Azerbaijani,1093,орта,CyrillTrans,"middle, center",,,"orta, mærkæz",Phonemic
+12-370-71-3,nort2697,Azerbaijani,1093,мәркәз,CyrillTrans,"middle, center",,,"orta, mærkæz",Phonemic
+12-360-71-1,nort2697,Azerbaijani,682,тәрәф,CyrillTrans,side,,,tæræf,Phonemic
+12-353-71-1,nort2697,Azerbaijani,863,гыраг,CyrillTrans,edge,,,"gɨrag, kænar",Phonemic
+12-353-71-3,nort2697,Azerbaijani,863,кәнар,CyrillTrans,edge,,,"gɨrag, kænar",Phonemic
+12-352-71-1,nort2697,Azerbaijani,372,сиври,CyrillTrans,pointed,,,sivri,Phonemic
+12-350-71-1,nort2697,Azerbaijani,742,сон,CyrillTrans,end,,,"son, axɨr",Phonemic
+12-350-71-3,nort2697,Azerbaijani,742,ахыр,CyrillTrans,end,,,"son, axɨr",Phonemic
+12-340-71-1,nort2697,Azerbaijani,690,диб,CyrillTrans,bottom,,,dib,Phonemic
+12-320-71-1,nort2697,Azerbaijani,721,алчаг,CyrillTrans,low,,,alčag,Phonemic
+12-330-71-1,nort2697,Azerbaijani,1753,тәпә,CyrillTrans,top,,,tæpæ,Phonemic
+12-310-71-1,nort2697,Azerbaijani,1265,уҹа,CyrillTrans,high,,,"uǯa, yüksækdæ, hündürdæ",Phonemic
+12-310-71-3,nort2697,Azerbaijani,1265,јүксәкдә,CyrillTrans,high,,,"uǯa, yüksækdæ, hündürdæ",Phonemic
+12-310-71-5,nort2697,Azerbaijani,1265,һүндүрдә,CyrillTrans,high,,,"uǯa, yüksækdæ, hündürdæ",Phonemic
+12-270-71-1,nort2697,Azerbaijani,602,ҝизләтмәк,CyrillTrans,"hide, conceal",,,gʲizlætmæk,Phonemic
+12-250-71-1,nort2697,Azerbaijani,1046,бағламаг,CyrillTrans,"shut, close",,,"baɣlamag, örtmæk",Phonemic
+12-250-71-3,nort2697,Azerbaijani,1046,өртмәк,CyrillTrans,"shut, close",,,"baɣlamag, örtmæk",Phonemic
+12-260-71-1,nort2697,Azerbaijani,761,өртмәк,CyrillTrans,cover,,,örtmæk,Phonemic
+12-240-71-1,nort2697,Azerbaijani,1156,ачмаг,CyrillTrans,open,,,ačmag,Phonemic
+12-232-71-1,nort2697,Azerbaijani,1119,бөлмәк,CyrillTrans,divide,,,bölmæk,Phonemic
+12-230-71-1,nort2697,Azerbaijani,1359,ајырмаг,CyrillTrans,separate,,,ayɨrmag,Phonemic
+12-220-71-1,nort2697,Azerbaijani,1743,бирләшдирмәк,CyrillTrans,"join, unite",,,"birlæšdirmæk, birlæšmæk",Phonemic
+12-220-71-3,nort2697,Azerbaijani,1743,бирләшмәк,CyrillTrans,"join, unite",,,"birlæšdirmæk, birlæšmæk",Phonemic
+12-213-71-1,nort2697,Azerbaijani,1576,јығмаг,CyrillTrans,pile up,,,"yɨɣmag, toplamag, galamag",Phonemic
+12-213-71-3,nort2697,Azerbaijani,1576,топламаг,CyrillTrans,pile up,,,"yɨɣmag, toplamag, galamag",Phonemic
+12-213-71-5,nort2697,Azerbaijani,1576,галамаг,CyrillTrans,pile up,,,"yɨɣmag, toplamag, galamag",Phonemic
+12-212-71-1,nort2697,Azerbaijani,371,ҝөтүрмәк,CyrillTrans,pick up,,,gʲötürmæk,Phonemic
+12-210-71-1,nort2697,Azerbaijani,7,јығмаг,CyrillTrans,"collect, gather",,,yɨɣmag,Phonemic
+12-170-71-1,nort2697,Azerbaijani,838,галыглар,CyrillTrans,"remains, left overs",,,galɨglar,Phonemic
+12-160-71-1,nort2697,Azerbaijani,987,галмаг,CyrillTrans,"remain, stay",,,galmag,Phonemic
+12-150-71-1,nort2697,Azerbaijani,1442,дурмаг,CyrillTrans,stand,,,"durmag, dayanmag",Phonemic
+12-150-71-3,nort2697,Azerbaijani,1442,дајанмаг,CyrillTrans,stand,,,"durmag, dayanmag",Phonemic
+12-140-71-1,nort2697,Azerbaijani,215,узанмаг,CyrillTrans,lie down,,,"uzanmag, yatmag",Phonemic
+12-140-71-3,nort2697,Azerbaijani,215,јатмаг,CyrillTrans,lie down,,,"uzanmag, yatmag",Phonemic
+12-130-71-1,nort2697,Azerbaijani,1416,отурмаг,CyrillTrans,sit,,,"oturmag, æylæšmæk",Phonemic
+12-130-71-3,nort2697,Azerbaijani,1416,әјләшмәк,CyrillTrans,sit,,,"oturmag, æylæšmæk",Phonemic
+12-120-71-1,nort2697,Azerbaijani,998,гојмаг,CyrillTrans,put,,,goymag,Phonemic
+12-110-71-1,nort2697,Azerbaijani,723,јер,CyrillTrans,place,,,yer,Phonemic
+12-80-71-1,nort2697,Azerbaijani,1591,үстүндә,CyrillTrans,"up, above",,,üstündæ,Phonemic
+12-70-71-1,nort2697,Azerbaijani,1485,алт,CyrillTrans,under,,,alt,Phonemic
+12-60-71-1,nort2697,Azerbaijani,762,бајырдан,CyrillTrans,outside,,,bayɨrdan,Phonemic
+12-50-71-1,nort2697,Azerbaijani,1606,ичәрисиндә,CyrillTrans,"inside, in",,,ičærisindæ,Phonemic
+12-41-71-1,nort2697,Azerbaijani,1883,гаршысында,CyrillTrans,front,,,garšɨsɨnda,Phonemic
+12-40-71-1,nort2697,Azerbaijani,1882,габағында,CyrillTrans,before,,,"gabaɣɨnda, -dæk",Phonemic
+12-40-71-3,nort2697,Azerbaijani,1882,-дәк,CyrillTrans,before,,,"gabaɣɨnda, -dæk",Phonemic
+12-30-71-1,nort2697,Azerbaijani,2094,ашағы,CyrillTrans,"down, below",,,"ašaɣɨ, ašaɣɨ istigatætdæ",Phonemic
+12-30-71-3,nort2697,Azerbaijani,2094,ашағы истигатәтдә,CyrillTrans,"down, below",,,"ašaɣɨ, ašaɣɨ istigatætdæ",Phonemic
+12-20-71-1,nort2697,Azerbaijani,1816,јан-јана,CyrillTrans,beside,,,yan-yana,Phonemic
+12-11-71-1,nort2697,Azerbaijani,1686,далында,CyrillTrans,behind,,,"dalɨnda, arxasɨnda",Phonemic
+12-11-71-3,nort2697,Azerbaijani,1686,архасында,CyrillTrans,behind,,,"dalɨnda, arxasɨnda",Phonemic
+12-10-71-1,nort2697,Azerbaijani,1685,сонра,CyrillTrans,after,,,sonra,Phonemic
+11-920-71-1,nort2697,Azerbaijani,1098,чәкмәк,CyrillTrans,weigh,,,čækmæk,Phonemic
+11-910-71-1,nort2697,Azerbaijani,884,бөлүшдүрмәк,CyrillTrans,share (distribute),,,bölüšdürmæk,Phonemic
+11-890-71-1,nort2697,Azerbaijani,1887,уҹуз,CyrillTrans,cheap,,,uǯuz,Phonemic
+11-880-71-1,nort2697,Azerbaijani,1426,баһа,CyrillTrans,"dear (costly, expensive)",,,baha,Phonemic
+11-870-71-1,nort2697,Azerbaijani,657,гијмәт,CyrillTrans,price,,,giymæt,Phonemic
+11-860-71-1,nort2697,Azerbaijani,752,мағаза,CyrillTrans,"store, shop",,,"maɣaza, dükkan",Phonemic
+11-860-71-3,nort2697,Azerbaijani,752,дүккан,CyrillTrans,"store, shop",,,"maɣaza, dükkan",Phonemic
+11-850-71-1,nort2697,Azerbaijani,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-71-1,nort2697,Azerbaijani,1082,таҹир,CyrillTrans,merchant,,,"taǯir, alverči",Phonemic
+11-840-71-3,nort2697,Azerbaijani,1082,алверчи,CyrillTrans,merchant,,,"taǯir, alverči",Phonemic
+11-830-71-1,nort2697,Azerbaijani,2135,алвер,CyrillTrans,"trade, barter",,,"alver, dæyišmæ",Phonemic
+11-830-71-3,nort2697,Azerbaijani,2135,дәјишмә,CyrillTrans,"trade, barter",,,"alver, dæyišmæ",Phonemic
+11-820-71-1,nort2697,Azerbaijani,1571,сатмаг,CyrillTrans,sell,,,satmag,Phonemic
+11-810-71-1,nort2697,Azerbaijani,1869,сатын алмаг,CyrillTrans,buy,,,"satɨn almag, almag",Phonemic
+11-810-71-3,nort2697,Azerbaijani,1869,алмаг,CyrillTrans,buy,,,"satɨn almag, almag",Phonemic
+11-790-71-1,nort2697,Azerbaijani,733,газанмаг,CyrillTrans,earn,,,gazanmag,Phonemic
+11-780-71-1,nort2697,Azerbaijani,1122,әмәк һаггы,CyrillTrans,wages,,,æmæk haggɨ,Phonemic
+11-770-71-1,nort2697,Azerbaijani,856,тутмаг,CyrillTrans,hire,,,"tutmag, kiræyæ almag",Phonemic
+11-770-71-3,nort2697,Azerbaijani,856,кирәјә алмаг,CyrillTrans,hire,,,"tutmag, kiræyæ almag",Phonemic
+11-690-71-1,nort2697,Azerbaijani,873,верҝи,CyrillTrans,"tax, tribute",,,vergʲi,Phonemic
+11-660-71-1,nort2697,Azerbaijani,1081,һесаб,CyrillTrans,"account, reckoning",,,"hesab, say",Phonemic
+11-660-71-3,nort2697,Azerbaijani,1081,сај,CyrillTrans,"account, reckoning",,,"hesab, say",Phonemic
+11-650-71-1,nort2697,Azerbaijani,718,өдәмәк,CyrillTrans,pay (vb),,,ödæmæk,Phonemic
+11-640-71-1,nort2697,Azerbaijani,1914,борҹ,CyrillTrans,debt,,,borǯ,Phonemic
+11-630-71-1,nort2697,Azerbaijani,369,борҹлу олмаг,CyrillTrans,owe,,,borǯlu olmag,Phonemic
+11-620-71-1,nort2697,Azerbaijani,1823,борҹ алмаг,CyrillTrans,borrow,,,borǯ almag,Phonemic
+11-610-71-1,nort2697,Azerbaijani,582,борҹ вермәк,CyrillTrans,lend,,,borǯ vermæk,Phonemic
+11-540-71-1,nort2697,Azerbaijani,1774,хәсис,CyrillTrans,"avaricious, stingy",,,"xæsis, simiǯ",Phonemic
+11-540-71-3,nort2697,Azerbaijani,1774,симиҹ,CyrillTrans,"avaricious, stingy",,,"xæsis, simiǯ",Phonemic
+11-530-71-1,nort2697,Azerbaijani,1934,диләнчи,CyrillTrans,beggar,,,"dilænči, yoxsul",Phonemic
+11-530-71-3,nort2697,Azerbaijani,1934,јохсул,CyrillTrans,beggar,,,"dilænči, yoxsul",Phonemic
+11-520-71-1,nort2697,Azerbaijani,1674,касыб,CyrillTrans,poor,,,kasɨb,Phonemic
+11-510-71-1,nort2697,Azerbaijani,712,варлы,CyrillTrans,rich,,,"varlɨ, zængʲin",Phonemic
+11-510-71-3,nort2697,Azerbaijani,712,зәнҝин,CyrillTrans,rich,,,"varlɨ, zængʲin",Phonemic
+11-440-71-1,nort2697,Azerbaijani,1867,пул,CyrillTrans,coin,,,"pul, sikkæ",Phonemic
+11-440-71-3,nort2697,Azerbaijani,1867,сиккә,CyrillTrans,coin,,,"pul, sikkæ",Phonemic
+11-430-71-1,nort2697,Azerbaijani,1559,пул,CyrillTrans,money,,,pul,Phonemic
+11-340-71-1,nort2697,Azerbaijani,1095,бурахмаг,CyrillTrans,"release, let go",,,buraxmag,Phonemic
+11-330-71-1,nort2697,Azerbaijani,1660,итирмәк,CyrillTrans,lose,,,itirmæk,Phonemic
+11-320-71-1,nort2697,Azerbaijani,719,тапмаг,CyrillTrans,find,,,tapmag,Phonemic
+11-310-71-1,nort2697,Azerbaijani,1468,ахтармаг,CyrillTrans,"seek, look for",,,axtarmag,Phonemic
+11-280-71-1,nort2697,Azerbaijani,44,зәрәр вурмаг,CyrillTrans,"harm, injure, damage",,,zærær vurmag,Phonemic
+11-270-71-1,nort2697,Azerbaijani,681,дағытмаг,CyrillTrans,destroy,,,"daɣɨtmag, sökmæk",Phonemic
+11-270-71-3,nort2697,Azerbaijani,681,сөкмәк,CyrillTrans,destroy,,,"daɣɨtmag, sökmæk",Phonemic
+11-250-71-1,nort2697,Azerbaijani,2008,хилас етмәк,CyrillTrans,"save, rescue",,,"xilas etmæk, gurtarmag",Phonemic
+11-250-71-3,nort2697,Azerbaijani,2008,гуртармаг,CyrillTrans,"save, rescue",,,"xilas etmæk, gurtarmag",Phonemic
+11-240-71-1,nort2697,Azerbaijani,1997,горумаг,CyrillTrans,"preserve, look after",,,"gorumag, saxlamag",Phonemic
+11-240-71-3,nort2697,Azerbaijani,1997,сахламаг,CyrillTrans,"preserve, look after",,,"gorumag, saxlamag",Phonemic
+11-220-71-1,nort2697,Azerbaijani,85,гајтармаг,CyrillTrans,give back,,,"gaytarmag, gʲeri vermæk",Phonemic
+11-220-71-3,nort2697,Azerbaijani,85,ҝери вермәк,CyrillTrans,give back,,,"gaytarmag, gʲeri vermæk",Phonemic
+11-210-71-1,nort2697,Azerbaijani,1447,вермәк,CyrillTrans,give,,,vermæk,Phonemic
+11-180-71-1,nort2697,Azerbaijani,738,әшја,CyrillTrans,thing,,,æšya,Phonemic
+11-170-71-1,nort2697,Azerbaijani,1477,сахламаг,CyrillTrans,"keep, retain",,,saxlamag,Phonemic
+11-160-71-1,nort2697,Azerbaijani,694,алмаг,CyrillTrans,"get, obtain",,,"almag, gæbul etmæk",Phonemic
+11-160-71-3,nort2697,Azerbaijani,694,гәбул етмәк,CyrillTrans,"get, obtain",,,"almag, gæbul etmæk",Phonemic
+11-150-71-1,nort2697,Azerbaijani,1448,тутмаг,CyrillTrans,hold,,,tutmag,Phonemic
+11-140-71-1,nort2697,Azerbaijani,2021,тутмаг,CyrillTrans,"seize, grasp",,,tutmag,Phonemic
+11-130-71-1,nort2697,Azerbaijani,1749,алмаг,CyrillTrans,take,,,almag,Phonemic
+11-120-71-1,nort2697,Azerbaijani,684,јијә олмаг,CyrillTrans,"own, possess",,,"yiyæ olmag, malik olmag",Phonemic
+11-120-71-3,nort2697,Azerbaijani,684,малик олмаг,CyrillTrans,"own, possess",,,"yiyæ olmag, malik olmag",Phonemic
+11-110-71-1,nort2697,Azerbaijani,773,олмаг,CyrillTrans,have,,,olmag,Phonemic
+10-920-71-1,nort2697,Azerbaijani,1922,јанашдырыб бағламаг,CyrillTrans,land (vb),,,"yanašdɨrɨb baɣlamag, yeræ oturmag",Phonemic
+10-920-71-3,nort2697,Azerbaijani,1922,јерә отурмаг,CyrillTrans,land (vb),,,"yanašdɨrɨb baɣlamag, yeræ oturmag",Phonemic
+10-910-71-1,nort2697,Azerbaijani,610,лиман көрпү,CyrillTrans,"harbor, port",,,"liman körpü, liman",Phonemic
+10-910-71-3,nort2697,Azerbaijani,610,лиман,CyrillTrans,"harbor, port",,,"liman körpü, liman",Phonemic
+10-890-71-1,nort2697,Azerbaijani,1870,лөвбәр,CyrillTrans,anchor,,,lövbær,Phonemic
+10-880-71-1,nort2697,Azerbaijani,786,јелкән,CyrillTrans,sail (noun),,,yelkæn,Phonemic
+10-870-71-1,nort2697,Azerbaijani,184,дор,CyrillTrans,mast,,,dor,Phonemic
+10-860-71-1,nort2697,Azerbaijani,108,сүкан,CyrillTrans,rudder,,,sükan,Phonemic
+10-852-71-1,nort2697,Azerbaijani,1849,авар чәкмәк,CyrillTrans,row (vb),,,avar čækmæk,Phonemic
+10-851-71-1,nort2697,Azerbaijani,234,авар,CyrillTrans,paddle (noun),,,"avar, küræk",Phonemic
+10-851-71-3,nort2697,Azerbaijani,234,күрәк,CyrillTrans,paddle (noun),,,"avar, küræk",Phonemic
+10-850-71-1,nort2697,Azerbaijani,108,авар,CyrillTrans,oar,,,"avar, küræk",Phonemic
+10-850-71-3,nort2697,Azerbaijani,108,күрәк,CyrillTrans,oar,,,"avar, küræk",Phonemic
+10-840-71-1,nort2697,Azerbaijani,1664,сал,CyrillTrans,raft,,,"sal, körküǯük",Phonemic
+10-840-71-3,nort2697,Azerbaijani,1664,көркүҹүк,CyrillTrans,raft,,,"sal, körküǯük",Phonemic
+10-832-71-1,nort2697,Azerbaijani,416,гајыг,CyrillTrans,outrigger,,,gayɨg,Phonemic
+10-831-71-1,nort2697,Azerbaijani,1970,каное (јүнҝүл идман гајығы),CyrillTrans,canoe,,,kanoe (yüngʲül idman gayɨɣɨ),Phonemic
+10-830-71-1,nort2697,Azerbaijani,1844,гајыг,CyrillTrans,boat,,,gayɨg,Phonemic
+10-810-71-1,nort2697,Azerbaijani,740,ҝәми,CyrillTrans,ship,,,gʲæmi,Phonemic
+10-780-71-1,nort2697,Azerbaijani,14,бојундуруг,CyrillTrans,yoke,,,"boyundurug, zülm",Phonemic
+10-780-71-3,nort2697,Azerbaijani,14,зүлм,CyrillTrans,yoke,,,"boyundurug, zülm",Phonemic
+10-770-71-1,nort2697,Azerbaijani,1769,ох,CyrillTrans,axle,,,"ox, mehvær",Phonemic
+10-770-71-3,nort2697,Azerbaijani,1769,меһвәр,CyrillTrans,axle,,,"ox, mehvær",Phonemic
+10-760-71-1,nort2697,Azerbaijani,710,тәкәр,CyrillTrans,wheel,,,"tækær, čarx",Phonemic
+10-760-71-3,nort2697,Azerbaijani,710,чарх,CyrillTrans,wheel,,,"tækær, čarx",Phonemic
+10-750-71-1,nort2697,Azerbaijani,122,миник,CyrillTrans,"carriage, wagon, cart",,,"minik, araba",Phonemic
+10-750-71-3,nort2697,Azerbaijani,122,араба,CyrillTrans,"carriage, wagon, cart",,,"minik, araba",Phonemic
+10-740-71-1,nort2697,Azerbaijani,1011,көрпү,CyrillTrans,bridge,,,körpü,Phonemic
+10-720-71-1,nort2697,Azerbaijani,2252,ҹығыр,CyrillTrans,path,,,ǯɨɣɨr,Phonemic
+10-710-71-1,nort2697,Azerbaijani,667,јол,CyrillTrans,road,,,yol,Phonemic
+10-670-71-1,nort2697,Azerbaijani,1452,итәләмәк,CyrillTrans,"push, shove",,,itælæmæk,Phonemic
+10-660-71-1,nort2697,Azerbaijani,367,атла ҝетмәк,CyrillTrans,ride,,,atla gʲetmæk,Phonemic
+10-650-71-1,nort2697,Azerbaijani,741,машында ҝетмәк,CyrillTrans,drive,,,mašɨnda gʲetmæk,Phonemic
+10-640-71-1,nort2697,Azerbaijani,43,апармаг,CyrillTrans,lead (vb),,,aparmag,Phonemic
+10-630-71-1,nort2697,Azerbaijani,1127,ҝөндәрмәк,CyrillTrans,send,,,gʲöndærmæk,Phonemic
+10-620-71-1,nort2697,Azerbaijani,692,ҝәтирмәк,CyrillTrans,bring,,,gʲætirmæk,Phonemic
+10-615-71-1,nort2697,Azerbaijani,415,голтуғунда апармаг,CyrillTrans,carry-underarm,,,goltuɣunda aparmag,Phonemic
+10-614-71-1,nort2697,Azerbaijani,414,апармаг,CyrillTrans,carry-on-head,,,"aparmag, bašɨnda aparmag",Phonemic
+10-614-71-3,nort2697,Azerbaijani,414,башында апармаг,CyrillTrans,carry-on-head,,,"aparmag, bašɨnda aparmag",Phonemic
+10-613-71-1,nort2697,Azerbaijani,413,апармаг,CyrillTrans,carry-on-shoulder,,,"aparmag, čiynindæ aparmag",Phonemic
+10-613-71-3,nort2697,Azerbaijani,413,чијниндә апармаг,CyrillTrans,carry-on-shoulder,,,"aparmag, čiynindæ aparmag",Phonemic
+10-612-71-1,nort2697,Azerbaijani,412,әлдә апармаг,CyrillTrans,carry-in-hand,,,ældæ aparmag,Phonemic
+10-610-71-1,nort2697,Azerbaijani,700,апармаг,CyrillTrans,carry (bear),,,aparmag,Phonemic
+10-570-71-1,nort2697,Azerbaijani,749,ҝирмәк,CyrillTrans,enter,,,"gʲirmæk, daxil olmag",Phonemic
+10-570-71-3,nort2697,Azerbaijani,749,дахил олмаг,CyrillTrans,enter,,,"gʲirmæk, daxil olmag",Phonemic
+10-560-71-1,nort2697,Azerbaijani,1778,јахынлашмаг,CyrillTrans,approach,,,yaxɨnlašmag,Phonemic
+10-550-71-1,nort2697,Azerbaijani,1387,чатмаг,CyrillTrans,"reach, arrive",,,"čatmag, gʲælib čɨxmag",Phonemic
+10-550-71-3,nort2697,Azerbaijani,1387,ҝәлиб чыхмаг,CyrillTrans,"reach, arrive",,,"čatmag, gʲælib čɨxmag",Phonemic
+10-530-71-1,nort2697,Azerbaijani,1047,изләмәк,CyrillTrans,pursue,,,izlæmæk,Phonemic
+10-520-71-1,nort2697,Azerbaijani,1085,изләмәк,CyrillTrans,follow,,,"izlæmæk, dalɨnǯa gʲetmæk",Phonemic
+10-520-71-3,nort2697,Azerbaijani,1085,далынҹа ҝетмәк,CyrillTrans,follow,,,"izlæmæk, dalɨnǯa gʲetmæk",Phonemic
+10-510-71-1,nort2697,Azerbaijani,956,гачмаг,CyrillTrans,flee,,,"gačmag, gačmagačla xilas olunma",Phonemic
+10-510-71-3,nort2697,Azerbaijani,956,гачмагачла хилас олунма,CyrillTrans,flee,,,"gačmag, gačmagačla xilas olunma",Phonemic
+10-491-71-1,nort2697,Azerbaijani,485,итмәк,CyrillTrans,disappear,,,itmæk,Phonemic
+10-490-71-1,nort2697,Azerbaijani,1752,ҝетмәк,CyrillTrans,"go away, depart",,,gʲetmæk,Phonemic
+10-481-71-1,nort2697,Azerbaijani,581,гајытмаг,CyrillTrans,come back,,,gayɨtmag,Phonemic
+10-480-71-1,nort2697,Azerbaijani,1446,ҝәлмәк,CyrillTrans,come,,,gʲælmæk,Phonemic
+10-474-71-1,nort2697,Azerbaijani,1107,чыхмаг,CyrillTrans,go out,,,čɨxmag,Phonemic
+10-473-71-1,nort2697,Azerbaijani,2014,дүшмәк,CyrillTrans,go down,,,"düšmæk, ašaɣɨ gʲetmæk",Phonemic
+10-473-71-3,nort2697,Azerbaijani,2014,ашағы ҝетмәк,CyrillTrans,go down,,,"düšmæk, ašaɣɨ gʲetmæk",Phonemic
+10-472-71-1,nort2697,Azerbaijani,1102,галхмаг,CyrillTrans,climb,,,galxmag,Phonemic
+10-470-71-1,nort2697,Azerbaijani,695,ҝетмәк,CyrillTrans,go,,,gʲetmæk,Phonemic
+10-471-71-1,nort2697,Azerbaijani,705,галхмаг,CyrillTrans,go up,,,"galxmag, yuxarɨ gʲetmæk",Phonemic
+10-471-71-3,nort2697,Azerbaijani,705,јухары ҝетмәк,CyrillTrans,go up,,,"galxmag, yuxarɨ gʲetmæk",Phonemic
+10-460-71-1,nort2697,Azerbaijani,1519,гачмаг,CyrillTrans,run,,,gačmag,Phonemic
+10-451-71-1,nort2697,Azerbaijani,366,ахсамаг,CyrillTrans,limp,,,axsamag,Phonemic
+10-450-71-1,nort2697,Azerbaijani,1443,јеримәк,CyrillTrans,walk,,,"yerimæk, gʲetmæk",Phonemic
+10-450-71-3,nort2697,Azerbaijani,1443,ҝетмәк,CyrillTrans,walk,,,"yerimæk, gʲetmæk",Phonemic
+10-440-71-1,nort2697,Azerbaijani,1879,ојнамаг,CyrillTrans,dance,,,oynamag,Phonemic
+10-431-71-1,nort2697,Azerbaijani,1135,тәпикләмәк,CyrillTrans,kick,,,tæpiklæmæk,Phonemic
+10-430-71-1,nort2697,Azerbaijani,1829,һоппанмаг,CyrillTrans,"jump, leap",,,hoppanmag,Phonemic
+10-420-71-1,nort2697,Azerbaijani,1324,сүрүшмәк,CyrillTrans,"slide, slip",,,sürüšmæk,Phonemic
+10-413-71-1,nort2697,Azerbaijani,296,отурмаг,CyrillTrans,crouch,,,oturmag,Phonemic
+10-412-71-1,nort2697,Azerbaijani,66,диз үстә дурмаг,CyrillTrans,kneel,,,diz üstæ durmag,Phonemic
+10-410-71-1,nort2697,Azerbaijani,96,сүрүнмәк,CyrillTrans,"creep, crawl",,,sürünmæk,Phonemic
+10-380-71-1,nort2697,Azerbaijani,175,үфүрмәк,CyrillTrans,blow,,,"üfürmæk, æsmæk",Phonemic
+10-380-71-3,nort2697,Azerbaijani,175,әсмәк,CyrillTrans,blow,,,"üfürmæk, æsmæk",Phonemic
+10-370-71-1,nort2697,Azerbaijani,1441,учмаг,CyrillTrans,fly (vb),,,učmag,Phonemic
+10-360-71-1,nort2697,Azerbaijani,787,јелкән алтында үзмәк,CyrillTrans,sail (vb),,,yelkæn altɨnda üzmæk,Phonemic
+10-352-71-1,nort2697,Azerbaijani,365,ләпәләнмәк,CyrillTrans,splash,,,"læpælænmæk, dalɣalanmag",Phonemic
+10-352-71-3,nort2697,Azerbaijani,365,далғаланмаг,CyrillTrans,splash,,,"læpælænmæk, dalɣalanmag",Phonemic
+10-351-71-1,nort2697,Azerbaijani,119,ҹуммаг,CyrillTrans,dive,,,"ǯummag, baš vurmag",Phonemic
+10-351-71-3,nort2697,Azerbaijani,119,баш вурмаг,CyrillTrans,dive,,,"ǯummag, baš vurmag",Phonemic
+10-350-71-1,nort2697,Azerbaijani,1439,үзмәк,CyrillTrans,swim,,,üzmæk,Phonemic
+10-340-71-1,nort2697,Azerbaijani,1574,сујун үзү илә үзмәк,CyrillTrans,float,,,suyun üzü ilæ üzmæk,Phonemic
+10-330-71-1,nort2697,Azerbaijani,1088,батмаг,CyrillTrans,sink,,,"batmag, suya batɨrɨlmag",Phonemic
+10-330-71-3,nort2697,Azerbaijani,1088,суја батырылмаг,CyrillTrans,sink,,,"batmag, suya batɨrɨlmag",Phonemic
+10-320-71-1,nort2697,Azerbaijani,2003,ахма,CyrillTrans,flow,,,"axma, sel kimi axma",Phonemic
+10-320-71-3,nort2697,Azerbaijani,2003,сел кими ахма,CyrillTrans,flow,,,"axma, sel kimi axma",Phonemic
+10-260-71-1,nort2697,Azerbaijani,1909,силкәләмәк,CyrillTrans,shake,,,"silkælæmæk, yɨrɣalamag",Phonemic
+10-260-71-3,nort2697,Azerbaijani,1909,јырғаламаг,CyrillTrans,shake,,,"silkælæmæk, yɨrɣalamag",Phonemic
+10-252-71-1,nort2697,Azerbaijani,702,тутмаг,CyrillTrans,catch (ball),,,tutmag,Phonemic
+10-250-71-1,nort2697,Azerbaijani,1456,атмаг,CyrillTrans,throw,,,"atmag, tullamag",Phonemic
+10-250-71-3,nort2697,Azerbaijani,1456,тулламаг,CyrillTrans,throw,,,"atmag, tullamag",Phonemic
+10-240-71-1,nort2697,Azerbaijani,2253,дамҹы илә төкмәк,CyrillTrans,drip,,,"damǯɨ ilæ tökmæk, damǯɨlamag",Phonemic
+10-240-71-3,nort2697,Azerbaijani,2253,дамҹыламаг,CyrillTrans,drip,,,"damǯɨ ilæ tökmæk, damǯɨlamag",Phonemic
+10-230-71-1,nort2697,Azerbaijani,1280,дүшмәк,CyrillTrans,fall,,,düšmæk,Phonemic
+10-220-71-1,nort2697,Azerbaijani,501,галдырмаг,CyrillTrans,"raise, lift",,,galdɨrmag,Phonemic
+10-210-71-1,nort2697,Azerbaijani,568,галхмаг,CyrillTrans,rise,,,"galxmag, čɨxmag",Phonemic
+10-210-71-3,nort2697,Azerbaijani,568,чыхмаг,CyrillTrans,rise,,,"galxmag, čɨxmag",Phonemic
+10-170-71-1,nort2697,Azerbaijani,430,ешмәк,CyrillTrans,twist,,,"ešmæk, sarɨmag",Phonemic
+10-170-71-3,nort2697,Azerbaijani,430,сарымаг,CyrillTrans,twist,,,"ešmæk, sarɨmag",Phonemic
+10-160-71-1,nort2697,Azerbaijani,808,дашҹылама,CyrillTrans,drop (vb),,,dašǯɨlama,Phonemic
+10-150-71-1,nort2697,Azerbaijani,827,фырландырмаг,CyrillTrans,roll,,,fɨrlandɨrmag,Phonemic
+10-140-71-1,nort2697,Azerbaijani,1113,сарымаг,CyrillTrans,"wind, wrap",,,sarɨmag,Phonemic
+10-130-71-1,nort2697,Azerbaijani,1445,ачмаг,CyrillTrans,turn around,,,"ačmag, ačɨlmag dönmæk",Phonemic
+10-130-71-3,nort2697,Azerbaijani,1445,ачылмаг дөнмәк,CyrillTrans,turn around,,,"ačmag, ačɨlmag dönmæk",Phonemic
+10-120-71-1,nort2697,Azerbaijani,1588,чеврилмәк,CyrillTrans,turn over,,,čevrilmæk,Phonemic
+10-110-71-1,nort2697,Azerbaijani,765,тәрпәнмәк,CyrillTrans,move,,,tærpænmæk,Phonemic
+9-890-71-1,nort2697,Azerbaijani,2001,рәнҝләмә,CyrillTrans,paint (vb),,,"rængʲlæmæ, boyama",Phonemic
+9-890-71-3,nort2697,Azerbaijani,2001,бојама,CyrillTrans,paint (vb),,,"rængʲlæmæ, boyama",Phonemic
+9-840-71-1,nort2697,Azerbaijani,1979,кәсәр,CyrillTrans,chisel,,,"kæsær, iskænæ",Phonemic
+9-840-71-3,nort2697,Azerbaijani,1979,искәнә,CyrillTrans,chisel,,,"kæsær, iskænæ",Phonemic
+9-880-71-1,nort2697,Azerbaijani,647,боја,CyrillTrans,paint (noun),,,"boya, rængʲ",Phonemic
+9-880-71-3,nort2697,Azerbaijani,647,рәнҝ,CyrillTrans,paint (noun),,,"boya, rængʲ",Phonemic
+9-830-71-1,nort2697,Azerbaijani,1002,һејкәл,CyrillTrans,statue,,,heykæl,Phonemic
+9-820-71-1,nort2697,Azerbaijani,914,һејкәлтәраш,CyrillTrans,sculptor,,,heykæltæraš,Phonemic
+9-810-71-1,nort2697,Azerbaijani,228,кәсмәк,CyrillTrans,carve,,,kæsmæk,Phonemic
+9-791-71-1,nort2697,Azerbaijani,360,тәзәлмәк,CyrillTrans,fan (vb),,,"tæzælmæk, særiplætmæk",Phonemic
+9-791-71-3,nort2697,Azerbaijani,360,сәрипләтмәк,CyrillTrans,fan (vb),,,"tæzælmæk, særiplætmæk",Phonemic
+9-790-71-1,nort2697,Azerbaijani,1971,јелпик,CyrillTrans,fan (noun),,,"yelpik, yelpæyæn",Phonemic
+9-790-71-3,nort2697,Azerbaijani,1971,јелпәјән,CyrillTrans,fan (noun),,,"yelpik, yelpæyæn",Phonemic
+9-780-71-1,nort2697,Azerbaijani,293,торлу сумка,CyrillTrans,netbag,,,torlu sumka,Phonemic
+9-771-71-1,nort2697,Azerbaijani,292,халча,CyrillTrans,rug,,,"xalča, šal",Phonemic
+9-771-71-3,nort2697,Azerbaijani,292,шал,CyrillTrans,rug,,,"xalča, šal",Phonemic
+9-770-71-1,nort2697,Azerbaijani,195,һәсир,CyrillTrans,mat,,,hæsir,Phonemic
+9-760-71-1,nort2697,Azerbaijani,1539,сәбәт,CyrillTrans,basket,,,sæbæt,Phonemic
+9-750-71-1,nort2697,Azerbaijani,1729,тохумаг,CyrillTrans,"weave, plait",,,"toxumag, hörmæk",Phonemic
+9-750-71-3,nort2697,Azerbaijani,1729,һөрмәк,CyrillTrans,"weave, plait",,,"toxumag, hörmæk",Phonemic
+9-740-71-1,nort2697,Azerbaijani,604,шүшә,CyrillTrans,glass,,,"šüšæ, ayna",Phonemic
+9-740-71-3,nort2697,Azerbaijani,604,ајна,CyrillTrans,glass,,,"šüšæ, ayna",Phonemic
+9-730-71-1,nort2697,Azerbaijani,1399,палчыг,CyrillTrans,clay,,,palčɨg,Phonemic
+9-720-71-1,nort2697,Azerbaijani,289,формаламаг,CyrillTrans,mold (clay etc),,,"formalamag, gæliblæmæk",Phonemic
+9-720-71-3,nort2697,Azerbaijani,289,гәлибләмәк,CyrillTrans,mold (clay etc),,,"formalamag, gæliblæmæk",Phonemic
+9-710-71-1,nort2697,Azerbaijani,359,дулусчу,CyrillTrans,potter,,,dulusču,Phonemic
+9-690-71-1,nort2697,Azerbaijani,358,тәнәкә,CyrillTrans,"tin, tinplate",,,"tænækæ, aɣ dæmir",Phonemic
+9-690-71-3,nort2697,Azerbaijani,358,ағ дәмир,CyrillTrans,"tin, tinplate",,,"tænækæ, aɣ dæmir",Phonemic
+9-680-71-1,nort2697,Azerbaijani,627,гурғушун,CyrillTrans,lead (noun),,,gurɣušun,Phonemic
+9-670-71-1,nort2697,Azerbaijani,621,дәмир,CyrillTrans,iron,,,dæmir,Phonemic
+9-660-71-1,nort2697,Azerbaijani,1825,јез,CyrillTrans,"copper, bronze",,,"yez, tunǯ",Phonemic
+9-660-71-3,nort2697,Azerbaijani,1825,тунҹ,CyrillTrans,"copper, bronze",,,"yez, tunǯ",Phonemic
+9-650-71-1,nort2697,Azerbaijani,759,ҝүмүш,CyrillTrans,silver,,,gʲümüš,Phonemic
+9-640-71-1,nort2697,Azerbaijani,1369,гызыл,CyrillTrans,gold,,,gɨzɨl,Phonemic
+9-630-71-1,nort2697,Azerbaijani,211,төкмәк,CyrillTrans,cast (metals),,,"tökmæk, gælibæ tökmæ",Phonemic
+9-630-71-3,nort2697,Azerbaijani,211,гәлибә төкмә,CyrillTrans,cast (metals),,,"tökmæk, gælibæ tökmæ",Phonemic
+9-620-71-1,nort2697,Azerbaijani,1648,зиндан,CyrillTrans,anvil,,,zindan,Phonemic
+9-610-71-1,nort2697,Azerbaijani,288,дәмирчихана,CyrillTrans,forge,,,dæmirčixana,Phonemic
+9-600-71-1,nort2697,Azerbaijani,1001,дәмирчи,CyrillTrans,"smith, blacksmith",,,dæmirči,Phonemic
+9-560-71-1,nort2697,Azerbaijani,1069,јапышган,CyrillTrans,glue,,,yapɨšgan,Phonemic
+9-500-71-1,nort2697,Azerbaijani,502,мисмар,CyrillTrans,nail,,,"mismar, mɨx",Phonemic
+9-500-71-3,nort2697,Azerbaijani,502,мых,CyrillTrans,nail,,,"mismar, mɨx",Phonemic
+9-490-71-1,nort2697,Azerbaijani,1481,чәкич,CyrillTrans,hammer,,,čækič,Phonemic
+9-480-71-1,nort2697,Azerbaijani,1948,мишар,CyrillTrans,saw,,,"mišar, bɨčgɨ",Phonemic
+9-480-71-3,nort2697,Azerbaijani,1948,бычгы,CyrillTrans,saw,,,"mišar, bɨčgɨ",Phonemic
+9-461-71-1,nort2697,Azerbaijani,46,дешмәк,CyrillTrans,hollow out,,,"dešmæk, oymag",Phonemic
+9-461-71-3,nort2697,Azerbaijani,46,ојмаг,CyrillTrans,hollow out,,,"dešmæk, oymag",Phonemic
+9-460-71-1,nort2697,Azerbaijani,1501,дешик,CyrillTrans,bore,,,dešik,Phonemic
+9-440-71-1,nort2697,Azerbaijani,1840,тикмәк,CyrillTrans,build,,,tikmæk,Phonemic
+9-430-71-1,nort2697,Azerbaijani,1042,дүлҝәр,CyrillTrans,carpenter,,,dülgʲær,Phonemic
+9-422-71-1,nort2697,Azerbaijani,1361,аләт,CyrillTrans,tool,,,alæt,Phonemic
+9-380-71-1,nort2697,Azerbaijani,245,сүпүркә,CyrillTrans,broom,,,süpürkæ,Phonemic
+9-360-71-1,nort2697,Azerbaijani,1453,јумаг,CyrillTrans,wash,,,yumag,Phonemic
+9-370-71-1,nort2697,Azerbaijani,230,сүпүрмәк,CyrillTrans,sweep,,,süpürmæk,Phonemic
+9-350-71-1,nort2697,Azerbaijani,1487,төкмәк,CyrillTrans,pour,,,"tökmæk, tökülmæk",Phonemic
+9-350-71-3,nort2697,Azerbaijani,1487,төкүлмәк,CyrillTrans,pour,,,"tökmæk, tökülmæk",Phonemic
+9-343-71-1,nort2697,Azerbaijani,1414,сығмаг,CyrillTrans,"squeeze, wring",,,sɨɣmag,Phonemic
+9-342-71-1,nort2697,Azerbaijani,1913,әзмәк,CyrillTrans,press,,,"æzmæk, basmag",Phonemic
+9-342-71-3,nort2697,Azerbaijani,1913,басмаг,CyrillTrans,press,,,"æzmæk, basmag",Phonemic
+9-341-71-1,nort2697,Azerbaijani,357,асмаг,CyrillTrans,hang up,,,asmag,Phonemic
+9-340-71-1,nort2697,Azerbaijani,38,јајмаг,CyrillTrans,spread out,,,"yaymag, intišar etdirmæk",Phonemic
+9-340-71-3,nort2697,Azerbaijani,38,интишар етдирмәк,CyrillTrans,spread out,,,"yaymag, intišar etdirmæk",Phonemic
+9-330-71-1,nort2697,Azerbaijani,1455,чәкмәк,CyrillTrans,pull,,,"čækmæk, dartmag",Phonemic
+9-330-71-3,nort2697,Azerbaijani,1455,дартмаг,CyrillTrans,pull,,,"čækmæk, dartmag",Phonemic
+9-320-71-1,nort2697,Azerbaijani,214,дартмаг,CyrillTrans,stretch,,,"dartmag, uzatmag",Phonemic
+9-320-71-3,nort2697,Azerbaijani,214,узатмаг,CyrillTrans,stretch,,,"dartmag, uzatmag",Phonemic
+9-310-71-1,nort2697,Azerbaijani,1449,позмаг,CyrillTrans,"rub, wipe",,,"pozmag, silmæk",Phonemic
+9-310-71-3,nort2697,Azerbaijani,1449,силмәк,CyrillTrans,"rub, wipe",,,"pozmag, silmæk",Phonemic
+9-290-71-1,nort2697,Azerbaijani,291,дәрини сыјырмаг,CyrillTrans,"flay, skin",,,dærini sɨyɨrmag,Phonemic
+9-280-71-1,nort2697,Azerbaijani,1735,ҹырмаг,CyrillTrans,tear,,,"ǯɨrmag, yɨrtmag",Phonemic
+9-280-71-3,nort2697,Azerbaijani,1735,јыртмаг,CyrillTrans,tear,,,"ǯɨrmag, yɨrtmag",Phonemic
+9-270-71-1,nort2697,Azerbaijani,1437,јармаг,CyrillTrans,split,,,yarmag,Phonemic
+9-261-71-1,nort2697,Azerbaijani,588,сындырылмыш,CyrillTrans,broken,,,"sɨndɨrɨlmɨš, gɨrɨlmɨš",Phonemic
+9-261-71-3,nort2697,Azerbaijani,588,гырылмыш,CyrillTrans,broken,,,"sɨndɨrɨlmɨš, gɨrɨlmɨš",Phonemic
+9-260-71-1,nort2697,Azerbaijani,680,гырмаг,CyrillTrans,break,,,"gɨrmag, sɨndɨrmag",Phonemic
+9-260-71-3,nort2697,Azerbaijani,680,сындырмаг,CyrillTrans,break,,,"gɨrmag, sɨndɨrmag",Phonemic
+9-250-71-1,nort2697,Azerbaijani,677,балта,CyrillTrans,ax,,,balta,Phonemic
+9-251-71-1,nort2697,Azerbaijani,290,кәрки,CyrillTrans,adze,,,kærki,Phonemic
+9-240-71-1,nort2697,Azerbaijani,356,гајчы,CyrillTrans,"scissors, shears",,,gayčɨ,Phonemic
+9-230-71-1,nort2697,Azerbaijani,1352,бычаг,CyrillTrans,knife,,,bɨčag,Phonemic
+9-223-71-1,nort2697,Azerbaijani,1434,өлдүрмәк,CyrillTrans,stab,,,"öldürmæk, yarmag",Phonemic
+9-223-71-3,nort2697,Azerbaijani,1434,јармаг,CyrillTrans,stab,,,"öldürmæk, yarmag",Phonemic
+9-222-71-1,nort2697,Azerbaijani,155,кәсмәк,CyrillTrans,"chop, hew",,,"kæsmæk, čapmag",Phonemic
+9-222-71-3,nort2697,Azerbaijani,155,чапмаг,CyrillTrans,"chop, hew",,,"kæsmæk, čapmag",Phonemic
+9-221-71-1,nort2697,Azerbaijani,355,ихтисар етмәк,CyrillTrans,cut down,,,"ixtisar etmæk, gɨsaltmag",Phonemic
+9-221-71-3,nort2697,Azerbaijani,355,гысалтмаг,CyrillTrans,cut down,,,"ixtisar etmæk, gɨsaltmag",Phonemic
+9-220-71-1,nort2697,Azerbaijani,1432,кәсмәк,CyrillTrans,cut,,,kæsmæk,Phonemic
+9-211-71-1,nort2697,Azerbaijani,354,јумругла вурмаг,CyrillTrans,pound with fist,,,yumrugla vurmag,Phonemic
+9-210-71-1,nort2697,Azerbaijani,2133,вурмаг,CyrillTrans,"strike (hit, beat)",,,"vurmag, döymæk",Phonemic
+9-210-71-3,nort2697,Azerbaijani,2133,дөјмәк,CyrillTrans,"strike (hit, beat)",,,"vurmag, döymæk",Phonemic
+9-192-71-1,nort2697,Azerbaijani,760,дүјүн,CyrillTrans,knot (noun),,,düyün,Phonemic
+9-190-71-1,nort2697,Azerbaijani,1218,ип,CyrillTrans,"rope, cord",,,"ip, kændir",Phonemic
+9-190-71-3,nort2697,Azerbaijani,1218,кәндир,CyrillTrans,"rope, cord",,,"ip, kændir",Phonemic
+9-180-71-1,nort2697,Azerbaijani,1627,зәнҹир,CyrillTrans,chain,,,zænǯir,Phonemic
+9-161-71-1,nort2697,Azerbaijani,352,ачмаг,CyrillTrans,untie,,,ačmag,Phonemic
+9-160-71-1,nort2697,Azerbaijani,1917,бағламаг,CyrillTrans,"tie, bind",,,baɣlamag,Phonemic
+9-150-71-1,nort2697,Azerbaijani,1470,чевирмәк,CyrillTrans,fold,,,"čevirmæk, yɨɣmag",Phonemic
+9-150-71-3,nort2697,Azerbaijani,1470,јығмаг,CyrillTrans,fold,,,"čevirmæk, yɨɣmag",Phonemic
+9-140-71-1,nort2697,Azerbaijani,2004,әјмәк,CyrillTrans,bend,,,"æymæk, gatlamag",Phonemic
+9-140-71-3,nort2697,Azerbaijani,2004,гатламаг,CyrillTrans,bend,,,"æymæk, gatlamag",Phonemic
+9-120-71-1,nort2697,Azerbaijani,984,иш,CyrillTrans,work,,,iš,Phonemic
+9-110-71-1,nort2697,Azerbaijani,2575,етмәк,CyrillTrans,"do, make",,,etmæk,Phonemic
+8-980-71-1,nort2697,Azerbaijani,641,ҝөбәләк,CyrillTrans,mushroom,,,gʲöbælæk,Phonemic
+8-970-71-1,nort2697,Azerbaijani,33,ҝиҹиткән,CyrillTrans,nettle,,,gʲiǯitkæn,Phonemic
+8-960-71-1,nort2697,Azerbaijani,348,балыг ҹәһәннәми,CyrillTrans,fish poison (root),,,balɨg ǯæhænnæmi,Phonemic
+8-941-71-1,nort2697,Azerbaijani,146,шәкәр гамышы,CyrillTrans,sugar cane,,,šækær gamɨšɨ,Phonemic
+8-940-71-1,nort2697,Azerbaijani,1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-71-1,nort2697,Azerbaijani,864,габаг,CyrillTrans,"pumpkin, squash",,,gabag,Phonemic
+8-930-71-1,nort2697,Azerbaijani,411,габаг,CyrillTrans,gourd,,,gabag,Phonemic
+8-912-71-1,nort2697,Azerbaijani,410,батат,CyrillTrans,yam,,,batat,Phonemic
+8-910-71-1,nort2697,Azerbaijani,159,батат (ширин картоф),CyrillTrans,sweet potato,,,batat (širin kartof),Phonemic
+8-850-71-1,nort2697,Azerbaijani,346,әнҹир ағаҹы,CyrillTrans,banyan,,,ænǯir aɣaǯɨ,Phonemic
+8-840-71-1,nort2697,Azerbaijani,868,банан ағаҹы,CyrillTrans,banana tree,,,banan aɣaǯɨ,Phonemic
+8-830-71-1,nort2697,Azerbaijani,1126,ситрус мејвәси,CyrillTrans,citrus fruit,,,sitrus meyvæsi,Phonemic
+8-820-71-1,nort2697,Azerbaijani,970,һиндгозу ағаҹы,CyrillTrans,coconut,,,hindgozu aɣaǯɨ,Phonemic
+8-810-71-1,nort2697,Azerbaijani,1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-71-1,nort2697,Azerbaijani,345,битки ширәси,CyrillTrans,sap,,,bitki širæsi,Phonemic
+8-750-71-1,nort2697,Azerbaijani,1204,габыг,CyrillTrans,bark,,,gabɨg,Phonemic
+8-740-71-1,nort2697,Azerbaijani,409,һача будаг,CyrillTrans,forked branch,,,hača budag,Phonemic
+8-730-71-1,nort2697,Azerbaijani,344,ағаҹын ҝөвдәси,CyrillTrans,tree trunk,,,aɣaǯɨn gʲövdæsi,Phonemic
+8-720-71-1,nort2697,Azerbaijani,241,көтүк,CyrillTrans,tree stump,,,kötük,Phonemic
+8-691-71-1,nort2697,Azerbaijani,1124,бору,CyrillTrans,pipe,,,boru,Phonemic
+8-690-71-1,nort2697,Azerbaijani,1689,түтүн түстүсү,CyrillTrans,smoke (tobacco),,,tütün tüstüsü,Phonemic
+8-680-71-1,nort2697,Azerbaijani,974,түтүн,CyrillTrans,tobacco,,,tütün,Phonemic
+8-670-71-1,nort2697,Azerbaijani,343,үзүм тәнәки,CyrillTrans,vine,,,üzüm tænæki,Phonemic
+8-660-71-1,nort2697,Azerbaijani,968,палыд гозасы,CyrillTrans,acorn,,,palɨd gozasɨ,Phonemic
+8-650-71-1,nort2697,Azerbaijani,1915,күкнар,CyrillTrans,fir,,,"küknar, aɣ šam aɣaǯɨ",Phonemic
+8-650-71-3,nort2697,Azerbaijani,1915,ағ шам ағаҹы,CyrillTrans,fir,,,"küknar, aɣ šam aɣaǯɨ",Phonemic
+8-640-71-1,nort2697,Azerbaijani,1740,шам,CyrillTrans,pine,,,šam,Phonemic
+8-630-71-1,nort2697,Azerbaijani,1855,тозағаҹы,CyrillTrans,birch,,,tozaɣaǯɨ,Phonemic
+8-620-71-1,nort2697,Azerbaijani,1950,фыстыг,CyrillTrans,beech,,,fɨstɨg,Phonemic
+8-610-71-1,nort2697,Azerbaijani,644,палыд,CyrillTrans,oak,,,palɨd,Phonemic
+8-600-71-1,nort2697,Azerbaijani,906,ағаҹ,CyrillTrans,tree,,,aɣaǯ,Phonemic
+8-570-71-1,nort2697,Azerbaijani,239,ҝүл,CyrillTrans,flower,,,gʲül,Phonemic
+8-560-71-1,nort2697,Azerbaijani,628,јарпаг,CyrillTrans,leaf,,,yarpag,Phonemic
+8-550-71-1,nort2697,Azerbaijani,1531,будаг,CyrillTrans,branch,,,budag,Phonemic
+8-540-71-1,nort2697,Azerbaijani,670,көк,CyrillTrans,root,,,kök,Phonemic
+8-531-71-1,nort2697,Azerbaijani,1486,јетишдирмәк,CyrillTrans,plant (vb),,,yetišdirmæk,Phonemic
+8-520-71-1,nort2697,Azerbaijani,342,гуру от,CyrillTrans,hay,,,guru ot,Phonemic
+8-530-71-1,nort2697,Azerbaijani,653,битки,CyrillTrans,plant (noun),,,bitki,Phonemic
+8-510-71-1,nort2697,Azerbaijani,606,от,CyrillTrans,grass,,,ot,Phonemic
+8-480-71-1,nort2697,Azerbaijani,926,дүјү,CyrillTrans,rice,,,düyü,Phonemic
+8-470-71-1,nort2697,Azerbaijani,506,гарғыдалы,CyrillTrans,"maize, corn",,,garɣɨdalɨ,Phonemic
+8-460-71-1,nort2697,Azerbaijani,60,јулаф,CyrillTrans,oats,,,yulaf,Phonemic
+8-450-71-1,nort2697,Azerbaijani,23,човдар,CyrillTrans,rye,,,čovdar,Phonemic
+8-430-71-1,nort2697,Azerbaijani,1077,буғда,CyrillTrans,wheat,,,buɣda,Phonemic
+8-440-71-1,nort2697,Azerbaijani,932,арпа,CyrillTrans,barley,,,arpa,Phonemic
+8-420-71-1,nort2697,Azerbaijani,605,тохум,CyrillTrans,"grain (barley, oats etc)",,,"toxum, dæn",Phonemic
+8-420-71-3,nort2697,Azerbaijani,605,дән,CyrillTrans,"grain (barley, oats etc)",,,"toxum, dæn",Phonemic
+8-410-71-1,nort2697,Azerbaijani,611,мәһсул,CyrillTrans,"crop, harvest",,,mæhsul,Phonemic
+8-350-71-1,nort2697,Azerbaijani,223,ахма,CyrillTrans,threshing-floor,,,"axma, ǯæræyan",Phonemic
+8-350-71-3,nort2697,Azerbaijani,223,ҹәрәјан,CyrillTrans,threshing-floor,,,"axma, ǯæræyan",Phonemic
+8-340-71-1,nort2697,Azerbaijani,285,дөјмәк,CyrillTrans,thresh,,,döymæk,Phonemic
+8-330-71-1,nort2697,Azerbaijani,2132,ораг,CyrillTrans,"sickle, scythe",,,"orag, dæryaz",Phonemic
+8-330-71-3,nort2697,Azerbaijani,2132,дәрјаз,CyrillTrans,"sickle, scythe",,,"orag, dæryaz",Phonemic
+8-320-71-1,nort2697,Azerbaijani,190,бичмәк,CyrillTrans,"mow, reap",,,"bičmæk, čalmag",Phonemic
+8-320-71-3,nort2697,Azerbaijani,190,чалмаг,CyrillTrans,"mow, reap",,,"bičmæk, čalmag",Phonemic
+8-311-71-1,nort2697,Azerbaijani,714,тохум,CyrillTrans,seed,,,toxum,Phonemic
+8-310-71-1,nort2697,Azerbaijani,748,сапмәк,CyrillTrans,sow,,,"sapmæk, ækmæk",Phonemic
+8-310-71-3,nort2697,Azerbaijani,748,әкмәк,CyrillTrans,sow,,,"sapmæk, ækmæk",Phonemic
+8-270-71-1,nort2697,Azerbaijani,338,дырмыг,CyrillTrans,rake,,,"dɨrmɨg, čængʲ",Phonemic
+8-270-71-3,nort2697,Azerbaijani,338,чәнҝ,CyrillTrans,rake,,,"dɨrmɨg, čængʲ",Phonemic
+8-260-71-1,nort2697,Azerbaijani,337,чәнҝәл,CyrillTrans,fork,,,"čængʲæl, yaba",Phonemic
+8-260-71-3,nort2697,Azerbaijani,337,јаба,CyrillTrans,fork,,,"čængʲæl, yaba",Phonemic
+8-250-71-1,nort2697,Azerbaijani,284,тоха,CyrillTrans,hoe,,,"toxa, kærki",Phonemic
+8-250-71-3,nort2697,Azerbaijani,284,кәрки,CyrillTrans,hoe,,,"toxa, kærki",Phonemic
+8-240-71-1,nort2697,Azerbaijani,1901,бел,CyrillTrans,shovel,,,"bel, xækændaz",Phonemic
+8-240-71-3,nort2697,Azerbaijani,1901,хәкәндаз,CyrillTrans,shovel,,,"bel, xækændaz",Phonemic
+8-230-71-1,nort2697,Azerbaijani,1176,күрәк,CyrillTrans,spade,,,"küræk, bel",Phonemic
+8-230-71-3,nort2697,Azerbaijani,1176,бел,CyrillTrans,spade,,,"küræk, bel",Phonemic
+8-212-71-1,nort2697,Azerbaijani,1794,әкин јери,CyrillTrans,furrow,,,"ækin yeri, šɨrɨm",Phonemic
+8-212-71-3,nort2697,Azerbaijani,1794,шырым,CyrillTrans,furrow,,,"ækin yeri, šɨrɨm",Phonemic
+8-220-71-1,nort2697,Azerbaijani,1418,дамҹыламаг,CyrillTrans,dig,,,damǯɨlamag,Phonemic
+8-210-71-1,nort2697,Azerbaijani,1921,шумламаг,CyrillTrans,plow,,,šumlamag,Phonemic
+8-170-71-1,nort2697,Azerbaijani,2002,хәндәк,CyrillTrans,ditch,,,"xændæk, kanal",Phonemic
+8-170-71-3,nort2697,Azerbaijani,2002,канал,CyrillTrans,ditch,,,"xændæk, kanal",Phonemic
+8-160-71-1,nort2697,Azerbaijani,1690,һасар,CyrillTrans,fence,,,"hasar, čæpær",Phonemic
+8-160-71-3,nort2697,Azerbaijani,1690,чәпәр,CyrillTrans,fence,,,"hasar, čæpær",Phonemic
+8-150-71-1,nort2697,Azerbaijani,1541,јери беҹәрмәк,CyrillTrans,"cultivate, till",,,yeri beǯærmæk,Phonemic
+8-130-71-1,nort2697,Azerbaijani,586,бағ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-71-1,nort2697,Azerbaijani,212,тарла,CyrillTrans,field (for cultivation),,,"tarla, zæmi",Phonemic
+8-120-71-3,nort2697,Azerbaijani,212,зәми,CyrillTrans,field (for cultivation),,,"tarla, zæmi",Phonemic
+8-110-71-1,nort2697,Azerbaijani,979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-71-1,nort2697,Azerbaijani,901,палчыгдан тикилмиш,CyrillTrans,adobe,,,palčɨgdan tikilmiš,Phonemic
+7-630-71-1,nort2697,Azerbaijani,224,әһәнҝли мәһлул,CyrillTrans,mortar,,,æhængʲli mæhlul,Phonemic
+7-620-71-1,nort2697,Azerbaijani,1006,кәрпиҹ,CyrillTrans,brick,,,kærpiǯ,Phonemic
+7-580-71-1,nort2697,Azerbaijani,876,алагапы,CyrillTrans,arch,,,"alagapɨ, taɣ",Phonemic
+7-580-71-3,nort2697,Azerbaijani,876,тағ,CyrillTrans,arch,,,"alagapɨ, taɣ",Phonemic
+7-610-71-1,nort2697,Azerbaijani,877,бәнна,CyrillTrans,mason,,,bænna,Phonemic
+7-570-71-1,nort2697,Azerbaijani,1227,тахта,CyrillTrans,board,,,taxta,Phonemic
+7-560-71-1,nort2697,Azerbaijani,281,сүтун,CyrillTrans,"post, pole",,,"sütun, diræk",Phonemic
+7-560-71-3,nort2697,Azerbaijani,281,дирәк,CyrillTrans,"post, pole",,,"sütun, diræk",Phonemic
+7-550-71-1,nort2697,Azerbaijani,1132,тир,CyrillTrans,beam,,,"tir, köndælæn tir",Phonemic
+7-550-71-3,nort2697,Azerbaijani,1132,көндәлән тир,CyrillTrans,beam,,,"tir, köndælæn tir",Phonemic
+7-540-71-1,nort2697,Azerbaijani,829,чаты,CyrillTrans,rafter,,,"čatɨ, čatma",Phonemic
+7-540-71-3,nort2697,Azerbaijani,829,чатма,CyrillTrans,rafter,,,"čatɨ, čatma",Phonemic
+7-530-71-1,nort2697,Azerbaijani,280,сөкмә,CyrillTrans,ridgepole,,,"sökmæ, sökülmæ",Phonemic
+7-530-71-3,nort2697,Azerbaijani,280,сөкүлмә,CyrillTrans,ridgepole,,,"sökmæ, sökülmæ",Phonemic
+7-520-71-1,nort2697,Azerbaijani,279,күләш дам,CyrillTrans,thatch,,,külæš dam,Phonemic
+7-510-71-1,nort2697,Azerbaijani,769,дам,CyrillTrans,roof,,,dam,Phonemic
+7-480-71-1,nort2697,Azerbaijani,205,нов,CyrillTrans,trough,,,"nov, navalča",Phonemic
+7-480-71-3,nort2697,Azerbaijani,205,навалча,CyrillTrans,trough,,,"nov, navalča",Phonemic
+7-470-71-1,nort2697,Azerbaijani,745,рәф,CyrillTrans,shelf,,,"ræf, taxča",Phonemic
+7-470-71-3,nort2697,Azerbaijani,745,тахча,CyrillTrans,shelf,,,"ræf, taxča",Phonemic
+7-460-71-1,nort2697,Azerbaijani,1273,шам,CyrillTrans,candle,,,šam,Phonemic
+7-450-71-1,nort2697,Azerbaijani,2131,лампа,CyrillTrans,"lamp, torch",,,"lampa, fænær",Phonemic
+7-450-71-3,nort2697,Azerbaijani,2131,фәнәр,CyrillTrans,"lamp, torch",,,"lampa, fænær",Phonemic
+7-440-71-1,nort2697,Azerbaijani,1775,стол,CyrillTrans,table,,,"stol, masa",Phonemic
+7-440-71-3,nort2697,Azerbaijani,1775,маса,CyrillTrans,table,,,"stol, masa",Phonemic
+7-430-71-1,nort2697,Azerbaijani,1476,стул,CyrillTrans,chair,,,stul,Phonemic
+7-422-71-1,nort2697,Azerbaijani,806,јорған,CyrillTrans,blanket,,,"yorɣan, ædyal",Phonemic
+7-422-71-3,nort2697,Azerbaijani,806,әдјал,CyrillTrans,blanket,,,"yorɣan, ædyal",Phonemic
+7-421-71-1,nort2697,Azerbaijani,1044,јастыг,CyrillTrans,pillow,,,"yastɨg, balɨš",Phonemic
+7-421-71-3,nort2697,Azerbaijani,1044,балыш,CyrillTrans,pillow,,,"yastɨg, balɨš",Phonemic
+7-420-71-1,nort2697,Azerbaijani,1663,чарпајы,CyrillTrans,bed,,,čarpayɨ,Phonemic
+7-370-71-1,nort2697,Azerbaijani,1464,пилләкән,CyrillTrans,ladder,,,"pillækæn, söykæmæ nærdivan",Phonemic
+7-370-71-3,nort2697,Azerbaijani,1464,сөјкәмә нәрдиван,CyrillTrans,ladder,,,"pillækæn, söykæmæ nærdivan",Phonemic
+7-330-71-1,nort2697,Azerbaijani,1305,баҹа,CyrillTrans,chimney,,,baǯa,Phonemic
+7-320-71-1,nort2697,Azerbaijani,859,оҹаг,CyrillTrans,stove,,,"oǯag, peč",Phonemic
+7-320-71-3,nort2697,Azerbaijani,859,печ,CyrillTrans,stove,,,"oǯag, peč",Phonemic
+7-310-71-1,nort2697,Azerbaijani,185,бухары,CyrillTrans,fireplace,,,buxarɨ,Phonemic
+7-270-71-1,nort2697,Azerbaijani,933,дивар,CyrillTrans,wall,,,divar,Phonemic
+7-260-71-1,nort2697,Azerbaijani,1632,пол-дөшәмә,CyrillTrans,floor,,,pol-döšæmæ,Phonemic
+7-250-71-1,nort2697,Azerbaijani,1375,пәнҹәрә,CyrillTrans,window,,,pænǯæræ,Phonemic
+7-240-71-1,nort2697,Azerbaijani,1472,ачар,CyrillTrans,key,,,ačar,Phonemic
+7-231-71-1,nort2697,Azerbaijani,1012,бағлама,CyrillTrans,"latch, door-bolt",,,"baɣlama, siyirmæ",Phonemic
+7-231-71-3,nort2697,Azerbaijani,1012,сијирмә,CyrillTrans,"latch, door-bolt",,,"baɣlama, siyirmæ",Phonemic
+7-230-71-1,nort2697,Azerbaijani,1596,килид,CyrillTrans,lock (noun),,,"kilid, gɨfɨl",Phonemic
+7-230-71-3,nort2697,Azerbaijani,1596,гыфыл,CyrillTrans,lock (noun),,,"kilid, gɨfɨl",Phonemic
+7-221-71-1,nort2697,Azerbaijani,80,чәпинә,CyrillTrans,"doorpost, jamb",,,čæpinæ,Phonemic
+7-210-71-1,nort2697,Azerbaijani,1450,отаг,CyrillTrans,room,,,otag,Phonemic
+7-220-71-1,nort2697,Azerbaijani,1567,гапы,CyrillTrans,"door, gate",,,"gapɨ, darvaza",Phonemic
+7-220-71-3,nort2697,Azerbaijani,1567,дарваза,CyrillTrans,"door, gate",,,"gapɨ, darvaza",Phonemic
+7-180-71-1,nort2697,Azerbaijani,335,јығынчаг еви,CyrillTrans,meeting house,,,yɨɣɨnčag evi,Phonemic
+7-170-71-1,nort2697,Azerbaijani,334,мәтбәх,CyrillTrans,cookhouse,,,mætbæx,Phonemic
+7-160-71-1,nort2697,Azerbaijani,408,кишиләр еви,CyrillTrans,men's house,,,kišilær evi,Phonemic
+7-150-71-1,nort2697,Azerbaijani,736,талвар,CyrillTrans,"yard, court",,,talvar,Phonemic
+7-140-71-1,nort2697,Azerbaijani,1316,чадыр,CyrillTrans,tent,,,čadɨr,Phonemic
+7-131-71-1,nort2697,Azerbaijani,403,јајлаг еви,CyrillTrans,garden-house,,,yaylag evi,Phonemic
+7-130-71-1,nort2697,Azerbaijani,1678,кома,CyrillTrans,hut,,,"koma, daxma",Phonemic
+7-130-71-3,nort2697,Azerbaijani,1678,дахма,CyrillTrans,hut,,,"koma, daxma",Phonemic
+7-120-71-1,nort2697,Azerbaijani,1252,ев,CyrillTrans,house,,,ev,Phonemic
+7-110-71-1,nort2697,Azerbaijani,363,јашамаг,CyrillTrans,"dwell, live",,,yašamag,Phonemic
+6-960-71-1,nort2697,Azerbaijani,1171,ҝүзҝү,CyrillTrans,mirror,,,"gʲüzgʲü, ayna",Phonemic
+6-960-71-3,nort2697,Azerbaijani,1171,ајна,CyrillTrans,mirror,,,"gʲüzgʲü, ayna",Phonemic
+6-950-71-1,nort2697,Azerbaijani,788,сабун,CyrillTrans,soap,,,sabun,Phonemic
+6-940-71-1,nort2697,Azerbaijani,1926,маз,CyrillTrans,ointment,,,"maz, mælhæm",Phonemic
+6-940-71-3,nort2697,Azerbaijani,1926,мәлһәм,CyrillTrans,ointment,,,"maz, mælhæm",Phonemic
+6-930-71-1,nort2697,Azerbaijani,151,үлҝүҹ,CyrillTrans,razor,,,ülgʲüǯ,Phonemic
+6-921-71-1,nort2697,Azerbaijani,333,һөрүк,CyrillTrans,braid,,,hörük,Phonemic
+6-920-71-1,nort2697,Azerbaijani,1821,дараг,CyrillTrans,brush,,,darag,Phonemic
+6-910-71-1,nort2697,Azerbaijani,1475,дараг,CyrillTrans,comb,,,"darag, šana",Phonemic
+6-910-71-3,nort2697,Azerbaijani,1475,шана,CyrillTrans,comb,,,"darag, šana",Phonemic
+6-820-71-1,nort2697,Azerbaijani,1021,дәсмал,CyrillTrans,towel,,,"dæsmal, mæhræba",Phonemic
+6-820-71-3,nort2697,Azerbaijani,1021,мәһрәба,CyrillTrans,towel,,,"dæsmal, mæhræba",Phonemic
+6-810-71-1,nort2697,Azerbaijani,332,ҹиб дәсмалы,CyrillTrans,"handkerchief, rag",,,ǯib dæsmalɨ,Phonemic
+6-790-71-1,nort2697,Azerbaijani,68,татуировка,CyrillTrans,tattoo,,,tatuirovka,Phonemic
+6-780-71-1,nort2697,Azerbaijani,330,папаг,CyrillTrans,"headband, headdress",,,"papag, baš gʲeyimi",Phonemic
+6-780-71-3,nort2697,Azerbaijani,330,баш ҝејими,CyrillTrans,"headband, headdress",,,"papag, baš gʲeyimi",Phonemic
+6-770-71-1,nort2697,Azerbaijani,770,сырға,CyrillTrans,earring,,,"sɨrɣa, tænæ",Phonemic
+6-770-71-3,nort2697,Azerbaijani,770,тәнә,CyrillTrans,earring,,,"sɨrɣa, tænæ",Phonemic
+6-760-71-1,nort2697,Azerbaijani,1860,мунҹуг дәнәси,CyrillTrans,bead,,,munǯug dænæsi,Phonemic
+6-750-71-1,nort2697,Azerbaijani,1961,мунҹуг,CyrillTrans,necklace,,,"munǯug, boyunbaɣɨ",Phonemic
+6-750-71-3,nort2697,Azerbaijani,1961,бојунбағы,CyrillTrans,necklace,,,"munǯug, boyunbaɣɨ",Phonemic
+6-740-71-1,nort2697,Azerbaijani,1754,голбаг,CyrillTrans,bracelet,,,"golbag, bilærzik",Phonemic
+6-740-71-3,nort2697,Azerbaijani,1754,биләрзик,CyrillTrans,bracelet,,,"golbag, bilærzik",Phonemic
+6-730-71-1,nort2697,Azerbaijani,1374,үзүк,CyrillTrans,ring (for finger),,,üzük,Phonemic
+6-720-71-1,nort2697,Azerbaijani,1029,гијмәтли даш,CyrillTrans,jewel,,,"giymætli daš, zærgʲærlik mallarɨ",Phonemic
+6-720-71-3,nort2697,Azerbaijani,1029,зәрҝәрлик маллары,CyrillTrans,jewel,,,"giymætli daš, zærgʲærlik mallarɨ",Phonemic
+6-710-71-1,nort2697,Azerbaijani,917,бәзәмә,CyrillTrans,"ornament, adornment",,,"bæzæmæ, naxɨš, bæzæk æšyalarɨ",Phonemic
+6-710-71-3,nort2697,Azerbaijani,917,нахыш,CyrillTrans,"ornament, adornment",,,"bæzæmæ, naxɨš, bæzæk æšyalarɨ",Phonemic
+6-710-71-5,nort2697,Azerbaijani,917,бәзәк әшјалары,CyrillTrans,"ornament, adornment",,,"bæzæmæ, naxɨš, bæzæk æšyalarɨ",Phonemic
+6-630-71-1,nort2697,Azerbaijani,64,санҹаг,CyrillTrans,pin,,,sanǯag,Phonemic
+6-620-71-1,nort2697,Azerbaijani,757,дүјмә,CyrillTrans,button,,,düymæ,Phonemic
+6-610-71-1,nort2697,Azerbaijani,1851,ҹиб,CyrillTrans,pocket,,,ǯib,Phonemic
+6-590-71-1,nort2697,Azerbaijani,1151,тор,CyrillTrans,veil,,,"tor, duvag",Phonemic
+6-590-71-3,nort2697,Azerbaijani,1151,дуваг,CyrillTrans,veil,,,"tor, duvag",Phonemic
+6-580-71-1,nort2697,Azerbaijani,867,әлҹәк,CyrillTrans,glove,,,ælǯæk,Phonemic
+6-570-71-1,nort2697,Azerbaijani,772,кәмәр,CyrillTrans,"belt, girdle",,,"kæmær, togga",Phonemic
+6-570-71-3,nort2697,Azerbaijani,772,тогга,CyrillTrans,"belt, girdle",,,"kæmær, togga",Phonemic
+6-550-71-1,nort2697,Azerbaijani,2130,шлјапа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-71-1,nort2697,Azerbaijani,875,чәкмәчи,CyrillTrans,"shoemaker, cobbler",,,čækmæči,Phonemic
+6-510-71-1,nort2697,Azerbaijani,1381,туфли,CyrillTrans,shoe,,,tufli,Phonemic
+6-520-71-1,nort2697,Azerbaijani,585,ботинка,CyrillTrans,boot,,,"botinka, čækmæ",Phonemic
+6-520-71-3,nort2697,Azerbaijani,585,чәкмә,CyrillTrans,boot,,,"botinka, čækmæ",Phonemic
+6-490-71-1,nort2697,Azerbaijani,329,ҹораб,CyrillTrans,"stocking, sock",,,ǯorab,Phonemic
+6-480-71-1,nort2697,Azerbaijani,809,шалвар,CyrillTrans,trousers,,,šalvar,Phonemic
+6-461-71-1,nort2697,Azerbaijani,328,јарпаг јубкасы,CyrillTrans,grass-skirt,,,yarpag yubkasɨ,Phonemic
+6-460-71-1,nort2697,Azerbaijani,1600,јубка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-71-1,nort2697,Azerbaijani,2012,јахалыг,CyrillTrans,collar,,,"yaxalɨg, yaxa",Phonemic
+6-450-71-3,nort2697,Azerbaijani,2012,јаха,CyrillTrans,collar,,,"yaxalɨg, yaxa",Phonemic
+6-440-71-1,nort2697,Azerbaijani,1622,көјнәк,CyrillTrans,shirt,,,köynæk,Phonemic
+6-430-71-1,nort2697,Azerbaijani,603,палто,CyrillTrans,coat,,,palto,Phonemic
+6-420-71-1,nort2697,Azerbaijani,474,гадын көјнәји,CyrillTrans,woman's dress,,,gadɨn köynæyi,Phonemic
+6-390-71-1,nort2697,Azerbaijani,157,боја,CyrillTrans,dye,,,boya,Phonemic
+6-410-71-1,nort2697,Azerbaijani,326,бүрүнҹәк,CyrillTrans,cloak,,,"bürünǯæk, plaš",Phonemic
+6-410-71-3,nort2697,Azerbaijani,326,плаш,CyrillTrans,cloak,,,"bürünǯæk, plaš",Phonemic
+6-380-71-1,nort2697,Azerbaijani,1161,сап,CyrillTrans,thread,,,sap,Phonemic
+6-360-71-1,nort2697,Azerbaijani,1382,ијнә,CyrillTrans,needle,,,iynæ,Phonemic
+6-370-71-1,nort2697,Azerbaijani,278,биз,CyrillTrans,awl,,,biz,Phonemic
+6-350-71-1,nort2697,Azerbaijani,1457,тикмәк,CyrillTrans,sew,,,tikmæk,Phonemic
+6-340-71-1,nort2697,Azerbaijani,1787,тохума дәзҝаһы,CyrillTrans,loom,,,toxuma dæzgʲahɨ,Phonemic
+6-330-71-1,nort2697,Azerbaijani,133,һөрмәк,CyrillTrans,weave,,,hörmæk,Phonemic
+6-320-71-1,nort2697,Azerbaijani,277,иј,CyrillTrans,spindle,,,"iy, ox",Phonemic
+6-320-71-3,nort2697,Azerbaijani,277,ох,CyrillTrans,spindle,,,"iy, ox",Phonemic
+6-310-71-1,nort2697,Azerbaijani,121,гулагларыны ҹүтләмәк,CyrillTrans,spin,,,"gulaglarɨnɨ ǯütlæmæk, æyirmæk",Phonemic
+6-310-71-3,nort2697,Azerbaijani,121,әјирмәк,CyrillTrans,spin,,,"gulaglarɨnɨ ǯütlæmæk, æyirmæk",Phonemic
+6-290-71-1,nort2697,Azerbaijani,629,дәри,CyrillTrans,leather,,,dæri,Phonemic
+6-280-71-1,nort2697,Azerbaijani,580,хәз,CyrillTrans,fur,,,xæz,Phonemic
+6-270-71-1,nort2697,Azerbaijani,325,кечә,CyrillTrans,felt,,,"kečæ, fetr",Phonemic
+6-270-71-3,nort2697,Azerbaijani,325,фетр,CyrillTrans,felt,,,"kečæ, fetr",Phonemic
+6-250-71-1,nort2697,Azerbaijani,1641,ипәк,CyrillTrans,silk,,,ipæk,Phonemic
+6-240-71-1,nort2697,Azerbaijani,1850,памбыг,CyrillTrans,cotton,,,"pambɨg, parča",Phonemic
+6-240-71-3,nort2697,Azerbaijani,1850,парча,CyrillTrans,cotton,,,"pambɨg, parča",Phonemic
+6-230-71-1,nort2697,Azerbaijani,916,кәтан,CyrillTrans,"linen, flax",,,kætan,Phonemic
+6-220-71-1,nort2697,Azerbaijani,964,јун,CyrillTrans,wool,,,"yun, yun parča",Phonemic
+6-220-71-3,nort2697,Azerbaijani,964,јун парча,CyrillTrans,wool,,,"yun, yun parča",Phonemic
+6-210-71-1,nort2697,Azerbaijani,1616,парча,CyrillTrans,cloth,,,"parča, mahud",Phonemic
+6-210-71-3,nort2697,Azerbaijani,1616,маһуд,CyrillTrans,cloth,,,"parča, mahud",Phonemic
+6-130-71-1,nort2697,Azerbaijani,881,дәрзи,CyrillTrans,tailor,,,dærzi,Phonemic
+6-120-71-1,nort2697,Azerbaijani,1895,палтар,CyrillTrans,"clothing, clothes",,,paltar,Phonemic
+6-110-71-1,nort2697,Azerbaijani,158,ҝејиндирмәк,CyrillTrans,put on (clothes),,,"gʲeyindirmæk, gʲeyinmæk",Phonemic
+6-110-71-3,nort2697,Azerbaijani,158,ҝејинмәк,CyrillTrans,put on (clothes),,,"gʲeyindirmæk, gʲeyinmæk",Phonemic
+5-971-71-1,nort2697,Azerbaijani,1556,јумурта сарысы,CyrillTrans,egg yolk,,,yumurta sarɨsɨ,Phonemic
+5-970-71-1,nort2697,Azerbaijani,744,јумурта,CyrillTrans,egg,,,yumurta,Phonemic
+5-940-71-1,nort2697,Azerbaijani,404,брага (евдә һазырланмыш пивә),CyrillTrans,fermented drink,,,braga (evdæ hazɨrlanmɨš pivæ),Phonemic
+5-930-71-1,nort2697,Azerbaijani,1639,пивә,CyrillTrans,beer,,,pivæ,Phonemic
+5-920-71-1,nort2697,Azerbaijani,1524,шәраб,CyrillTrans,wine,,,"šærab, čaxɨr",Phonemic
+5-920-71-3,nort2697,Azerbaijani,1524,чахыр,CyrillTrans,wine,,,"šærab, čaxɨr",Phonemic
+5-910-71-1,nort2697,Azerbaijani,941,бал шәрабы,CyrillTrans,mead,,,bal šærabɨ,Phonemic
+5-900-71-1,nort2697,Azerbaijani,731,ички,CyrillTrans,"beverage, drink",,,ički,Phonemic
+5-890-71-1,nort2697,Azerbaijani,1245,кәрә јағы,CyrillTrans,butter,,,kæræ yaɣɨ,Phonemic
+5-880-71-1,nort2697,Azerbaijani,1569,пендир,CyrillTrans,cheese,,,pendir,Phonemic
+5-870-71-1,nort2697,Azerbaijani,93,сағмаг,CyrillTrans,milk (vb),,,saɣmag,Phonemic
+5-850-71-1,nort2697,Azerbaijani,862,гәнд,CyrillTrans,sugar,,,gænd,Phonemic
+5-860-71-1,nort2697,Azerbaijani,635,сүд,CyrillTrans,milk (noun),,,süd,Phonemic
+5-840-71-1,nort2697,Azerbaijani,942,бал,CyrillTrans,honey,,,bal,Phonemic
+5-821-71-1,nort2697,Azerbaijani,919,аҹы истиот,CyrillTrans,chili pepper,,,aǯɨ istiot,Phonemic
+5-820-71-1,nort2697,Azerbaijani,1385,истиот,CyrillTrans,pepper,,,istiot,Phonemic
+5-810-71-1,nort2697,Azerbaijani,1274,дуз,CyrillTrans,salt,,,duz,Phonemic
+5-791-71-1,nort2697,Azerbaijani,323,пиј,CyrillTrans,"grease, fat",,,piy,Phonemic
+5-790-71-1,nort2697,Azerbaijani,1484,битки јағы,CyrillTrans,oil,,,bitki yaɣɨ,Phonemic
+5-780-71-1,nort2697,Azerbaijani,1154,зејтун,CyrillTrans,olive,,,"zeytun, zeytun aɣaǯɨ",Phonemic
+5-780-71-3,nort2697,Azerbaijani,1154,зејтун ағаҹы,CyrillTrans,olive,,,"zeytun, zeytun aɣaǯɨ",Phonemic
+5-760-71-1,nort2697,Azerbaijani,920,үзүм,CyrillTrans,grape,,,üzüm,Phonemic
+5-770-71-1,nort2697,Azerbaijani,191,гоз,CyrillTrans,nut,,,goz,Phonemic
+5-750-71-1,nort2697,Azerbaijani,322,әнҹир,CyrillTrans,fig,,,"ænǯir, ænǯir aɣaǯɨ",Phonemic
+5-750-71-3,nort2697,Azerbaijani,322,әнҹир ағаҹы,CyrillTrans,fig,,,"ænǯir, ænǯir aɣaǯɨ",Phonemic
+5-712-71-1,nort2697,Azerbaijani,1966,салхым,CyrillTrans,bunch,,,"salxɨm, dæstæ",Phonemic
+5-712-71-3,nort2697,Azerbaijani,1966,дәстә,CyrillTrans,bunch,,,"salxɨm, dæstæ",Phonemic
+5-710-71-1,nort2697,Azerbaijani,1507,мејвә,CyrillTrans,fruit,,,meyvæ,Phonemic
+5-700-71-1,nort2697,Azerbaijani,593,картоф,CyrillTrans,potato,,,kartof,Phonemic
+5-660-71-1,nort2697,Azerbaijani,832,пахла,CyrillTrans,bean,,,paxla,Phonemic
+5-650-71-1,nort2697,Azerbaijani,924,тәрәвәз,CyrillTrans,vegetables,,,tærævæz,Phonemic
+5-640-71-1,nort2697,Azerbaijani,1547,суп,CyrillTrans,"soup, broth",,,"sup, šorba",Phonemic
+5-640-71-3,nort2697,Azerbaijani,1547,шорба,CyrillTrans,"soup, broth",,,"sup, šorba",Phonemic
+5-630-71-1,nort2697,Azerbaijani,1874,колбаса,CyrillTrans,sausage,,,"kolbasa, sosiska",Phonemic
+5-630-71-3,nort2697,Azerbaijani,1874,сосиска,CyrillTrans,sausage,,,"kolbasa, sosiska",Phonemic
+5-610-71-1,nort2697,Azerbaijani,634,әт,CyrillTrans,meat,,,æt,Phonemic
+5-590-71-1,nort2697,Azerbaijani,225,дәстҹик,CyrillTrans,pestle,,,dæstǯik,Phonemic
+5-580-71-1,nort2697,Azerbaijani,224,һәвәнҝдәстә,CyrillTrans,mortar (2),,,hævængʲdæstæ,Phonemic
+5-570-71-1,nort2697,Azerbaijani,636,дәјирман,CyrillTrans,mill,,,dæyirman,Phonemic
+5-560-71-1,nort2697,Azerbaijani,1033,әзмәк,CyrillTrans,"crush, grind",,,"æzmæk, xɨrdalamag",Phonemic
+5-560-71-3,nort2697,Azerbaijani,1033,хырдаламаг,CyrillTrans,"crush, grind",,,"æzmæk, xɨrdalamag",Phonemic
+5-550-71-1,nort2697,Azerbaijani,1594,ун,CyrillTrans,"meal, flour",,,un,Phonemic
+5-540-71-1,nort2697,Azerbaijani,274,хәмир јоғурмаг,CyrillTrans,knead,,,xæmir yoɣurmag,Phonemic
+5-530-71-1,nort2697,Azerbaijani,273,хәмир,CyrillTrans,dough,,,xæmir,Phonemic
+5-510-71-1,nort2697,Azerbaijani,1368,чөрәк,CyrillTrans,bread,,,čöræk,Phonemic
+5-490-71-1,nort2697,Azerbaijani,2017,гарышдырмаг,CyrillTrans,"stir, mix",,,garɨšdɨrmag,Phonemic
+5-480-71-1,nort2697,Azerbaijani,1767,сүртмәк,CyrillTrans,scrape,,,"sürtmæk, ovmag",Phonemic
+5-480-71-3,nort2697,Azerbaijani,1767,овмаг,CyrillTrans,scrape,,,"sürtmæk, ovmag",Phonemic
+5-470-71-1,nort2697,Azerbaijani,86,әләмәк,CyrillTrans,"sieve, strain",,,"ælæmæk, süzmæk",Phonemic
+5-470-71-3,nort2697,Azerbaijani,86,сүзмәк,CyrillTrans,"sieve, strain",,,"ælæmæk, süzmæk",Phonemic
+5-460-71-1,nort2697,Azerbaijani,275,тәмизләмәк,CyrillTrans,peel,,,tæmizlæmæk,Phonemic
+5-450-71-1,nort2697,Azerbaijani,1833,ахшам јемәји,CyrillTrans,supper,,,"axšam yemæyi, šam",Phonemic
+5-450-71-3,nort2697,Azerbaijani,1833,шам,CyrillTrans,supper,,,"axšam yemæyi, šam",Phonemic
+5-440-71-1,nort2697,Azerbaijani,1833,наһар,CyrillTrans,dinner,,,"nahar, gʲünorta yemæyi",Phonemic
+5-440-71-3,nort2697,Azerbaijani,1833,ҝүнорта јемәји,CyrillTrans,dinner,,,"nahar, gʲünorta yemæyi",Phonemic
+5-420-71-1,nort2697,Azerbaijani,1322,сәһәр јемәји,CyrillTrans,breakfast,,,sæhær yemæyi,Phonemic
+5-410-71-1,nort2697,Azerbaijani,1526,јемәји алмаг,CyrillTrans,meal (a),,,"yemæyi almag, yemæk",Phonemic
+5-410-71-3,nort2697,Azerbaijani,1526,јемәк,CyrillTrans,meal (a),,,"yemæyi almag, yemæk",Phonemic
+5-391-71-1,nort2697,Azerbaijani,272,маша,CyrillTrans,tongs,,,"maša, kælbætin",Phonemic
+5-391-71-3,nort2697,Azerbaijani,272,кәлбәтин,CyrillTrans,tongs,,,"maša, kælbætin",Phonemic
+5-390-71-1,nort2697,Azerbaijani,1302,чәнҝәл,CyrillTrans,fork (2),,,čængʲæl,Phonemic
+5-380-71-1,nort2697,Azerbaijani,1352,бычаг,CyrillTrans,knife (2),,,bɨčag,Phonemic
+5-370-71-1,nort2697,Azerbaijani,1378,гашыг,CyrillTrans,spoon,,,gašɨg,Phonemic
+5-360-71-1,nort2697,Azerbaijani,271,нәлбәки,CyrillTrans,saucer,,,nælbæki,Phonemic
+5-350-71-1,nort2697,Azerbaijani,476,пијалә,CyrillTrans,"cup, drinking vessel",,,"piyalæ, kasa, gædæh",Phonemic
+5-350-71-3,nort2697,Azerbaijani,476,каса,CyrillTrans,"cup, drinking vessel",,,"piyalæ, kasa, gædæh",Phonemic
+5-350-71-5,nort2697,Azerbaijani,476,гәдәһ,CyrillTrans,"cup, drinking vessel",,,"piyalæ, kasa, gædæh",Phonemic
+5-330-71-1,nort2697,Azerbaijani,1530,каса,CyrillTrans,bowl,,,kasa,Phonemic
+5-340-71-1,nort2697,Azerbaijani,270,сәһәнҝ,CyrillTrans,"pitcher, jug",,,"sæhængʲ, bardag",Phonemic
+5-340-71-3,nort2697,Azerbaijani,270,бардаг,CyrillTrans,"pitcher, jug",,,"sæhængʲ, bardag",Phonemic
+5-320-71-1,nort2697,Azerbaijani,480,нимчә,CyrillTrans,plate,,,"nimčæ, bošgab",Phonemic
+5-320-71-3,nort2697,Azerbaijani,480,бошгаб,CyrillTrans,plate,,,"nimčæ, bošgab",Phonemic
+5-310-71-1,nort2697,Azerbaijani,481,дөврә,CyrillTrans,dish,,,"dövræ, nimčæ, bošgab",Phonemic
+5-310-71-3,nort2697,Azerbaijani,481,нимчә,CyrillTrans,dish,,,"dövræ, nimčæ, bošgab",Phonemic
+5-310-71-5,nort2697,Azerbaijani,481,бошгаб,CyrillTrans,dish,,,"dövræ, nimčæ, bošgab",Phonemic
+5-280-71-1,nort2697,Azerbaijani,31,газан,CyrillTrans,pan,,,gazan,Phonemic
+5-260-71-1,nort2697,Azerbaijani,1462,ҝүвәҹ,CyrillTrans,"pot, cooking vessel",,,"gʲüvæǯ, gazanča",Phonemic
+5-260-71-3,nort2697,Azerbaijani,1462,газанча,CyrillTrans,"pot, cooking vessel",,,"gʲüvæǯ, gazanča",Phonemic
+5-270-71-1,nort2697,Azerbaijani,854,чајдан,CyrillTrans,kettle,,,čaydan,Phonemic
+5-240-71-1,nort2697,Azerbaijani,183,биширмәк,CyrillTrans,bake,,,biširmæk,Phonemic
+5-250-71-1,nort2697,Azerbaijani,1143,оҹаг,CyrillTrans,oven,,,oǯag,Phonemic
+5-230-71-1,nort2697,Azerbaijani,2146,гызартмаг,CyrillTrans,"roast, fry",,,gɨzartmag,Phonemic
+5-220-71-1,nort2697,Azerbaijani,792,гајнатмаг,CyrillTrans,boil (vb),,,gaynatmag,Phonemic
+5-210-71-1,nort2697,Azerbaijani,1100,биширмәк,CyrillTrans,cook,,,biširmæk,Phonemic
+5-190-71-1,nort2697,Azerbaijani,129,богмаг,CyrillTrans,choke,,,bogmag,Phonemic
+5-181-71-1,nort2697,Azerbaijani,897,удмаг,CyrillTrans,swallow,,,udmag,Phonemic
+5-180-71-1,nort2697,Azerbaijani,321,чејнәмәк,CyrillTrans,chew,,,čeynæmæk,Phonemic
+5-160-71-1,nort2697,Azerbaijani,1421,сормаг,CyrillTrans,suck,,,"sormag, hopmag",Phonemic
+5-160-71-3,nort2697,Azerbaijani,1421,һопмаг,CyrillTrans,suck,,,"sormag, hopmag",Phonemic
+5-150-71-1,nort2697,Azerbaijani,848,сусузлуг,CyrillTrans,thirst,,,susuzlug,Phonemic
+5-141-71-1,nort2697,Azerbaijani,199,аҹлыг,CyrillTrans,famine,,,"aǯlɨg, aǯ otigta",Phonemic
+5-141-71-3,nort2697,Azerbaijani,199,аҹ отигта,CyrillTrans,famine,,,"aǯlɨg, aǯ otigta",Phonemic
+5-140-71-1,nort2697,Azerbaijani,1864,аҹлыг,CyrillTrans,hunger,,,aǯlɨg,Phonemic
+5-130-71-1,nort2697,Azerbaijani,1401,ичмәк,CyrillTrans,drink,,,ičmæk,Phonemic
+5-125-71-1,nort2697,Azerbaijani,1728,ҹүрүк,CyrillTrans,rotten,,,ǯürük,Phonemic
+5-124-71-1,nort2697,Azerbaijani,1958,јашыл,CyrillTrans,"green, unripe",,,"yašɨl, yetišmæmiš, kal",Phonemic
+5-124-71-3,nort2697,Azerbaijani,1958,јетишмәмиш,CyrillTrans,"green, unripe",,,"yašɨl, yetišmæmiš, kal",Phonemic
+5-124-71-5,nort2697,Azerbaijani,1958,кал,CyrillTrans,"green, unripe",,,"yašɨl, yetišmæmiš, kal",Phonemic
+5-123-71-1,nort2697,Azerbaijani,178,јетишмиш,CyrillTrans,ripe,,,"yetišmiš, yetkin",Phonemic
+5-123-71-3,nort2697,Azerbaijani,178,јеткин,CyrillTrans,ripe,,,"yetišmiš, yetkin",Phonemic
+5-122-71-1,nort2697,Azerbaijani,1959,нәм,CyrillTrans,raw,,,"næm, yaš",Phonemic
+5-122-71-3,nort2697,Azerbaijani,1959,јаш,CyrillTrans,raw,,,"næm, yaš",Phonemic
+5-121-71-1,nort2697,Azerbaijani,269,суда бишмиш,CyrillTrans,cooked,,,suda bišmiš,Phonemic
+5-120-71-1,nort2697,Azerbaijani,256,јемәк,CyrillTrans,food,,,yemæk,Phonemic
+5-110-71-1,nort2697,Azerbaijani,1336,јемәк,CyrillTrans,eat,,,yemæk,Phonemic
+4-990-71-1,nort2697,Azerbaijani,590,лүт,CyrillTrans,"naked, bare",,,"lüt, čɨlpag",Phonemic
+4-990-71-3,nort2697,Azerbaijani,590,чылпаг,CyrillTrans,"naked, bare",,,"lüt, čɨlpag",Phonemic
+4-970-71-1,nort2697,Azerbaijani,1653,кор,CyrillTrans,blind,,,kor,Phonemic
+4-980-71-1,nort2697,Azerbaijani,1463,сәрхош,CyrillTrans,intoxicated,,,"særxoš, kefli",Phonemic
+4-980-71-3,nort2697,Azerbaijani,1463,кефли,CyrillTrans,intoxicated,,,"særxoš, kefli",Phonemic
+4-960-71-1,nort2697,Azerbaijani,1666,лал,CyrillTrans,mute,,,lal,Phonemic
+4-950-71-1,nort2697,Azerbaijani,996,кар,CyrillTrans,deaf,,,kar,Phonemic
+4-930-71-1,nort2697,Azerbaijani,1125,даз,CyrillTrans,bald,,,daz,Phonemic
+4-940-71-1,nort2697,Azerbaijani,320,ахсамаг,CyrillTrans,lame,,,axsamag,Phonemic
+4-920-71-1,nort2697,Azerbaijani,1564,тәнбәл,CyrillTrans,lazy,,,tænbæl,Phonemic
+4-912-71-1,nort2697,Azerbaijani,168,истираһәт етмәк,CyrillTrans,rest,,,istirahæt etmæk,Phonemic
+4-910-71-1,nort2697,Azerbaijani,1757,јорғун,CyrillTrans,"tired, weary",,,yorɣun,Phonemic
+4-890-71-1,nort2697,Azerbaijani,655,зәһәр,CyrillTrans,poison,,,zæhær,Phonemic
+4-880-71-1,nort2697,Azerbaijani,1372,дәрман,CyrillTrans,"medicine, drug",,,dærman,Phonemic
+4-870-71-1,nort2697,Azerbaijani,597,һәким,CyrillTrans,physician,,,hækim,Phonemic
+4-860-71-1,nort2697,Azerbaijani,499,мүалиҹә етмәк,CyrillTrans,"cure, heal",,,müaliǯæ etmæk,Phonemic
+4-858-71-1,nort2697,Azerbaijani,497,јара јери,CyrillTrans,scar,,,"yara yeri, čapɨg",Phonemic
+4-858-71-3,nort2697,Azerbaijani,497,чапыг,CyrillTrans,scar,,,"yara yeri, čapɨg",Phonemic
+4-857-71-1,nort2697,Azerbaijani,1808,ирин,CyrillTrans,pus,,,irin,Phonemic
+4-856-71-1,nort2697,Azerbaijani,793,чибан,CyrillTrans,boil (noun),,,čiban,Phonemic
+4-855-71-1,nort2697,Azerbaijani,1584,габар,CyrillTrans,blister,,,"gabar, sulug",Phonemic
+4-855-71-3,nort2697,Azerbaijani,1584,сулуг,CyrillTrans,blister,,,"gabar, sulug",Phonemic
+4-854-71-1,nort2697,Azerbaijani,148,ҝиҹишмә,CyrillTrans,itch,,,gʲiǯišmæ,Phonemic
+4-853-71-1,nort2697,Azerbaijani,1903,шиш,CyrillTrans,swelling,,,šiš,Phonemic
+4-852-71-1,nort2697,Azerbaijani,1148,әзмә,CyrillTrans,bruise,,,"æzmæ, zædælæmæ",Phonemic
+4-852-71-3,nort2697,Azerbaijani,1148,зәдәләмә,CyrillTrans,bruise,,,"æzmæ, zædælæmæ",Phonemic
+4-850-71-1,nort2697,Azerbaijani,1109,јара,CyrillTrans,"wound, sore",,,"yara, xora",Phonemic
+4-850-71-3,nort2697,Azerbaijani,1109,хора,CyrillTrans,"wound, sore",,,"yara, xora",Phonemic
+4-843-71-1,nort2697,Azerbaijani,102,сојугдәјмә,CyrillTrans,cold (catarrh),,,soyugdæymæ,Phonemic
+4-842-71-1,nort2697,Azerbaijani,1957,ур,CyrillTrans,goiter,,,"ur, boɣaz uru",Phonemic
+4-842-71-3,nort2697,Azerbaijani,1957,боғаз уру,CyrillTrans,goiter,,,"ur, boɣaz uru",Phonemic
+4-841-71-1,nort2697,Azerbaijani,1534,гыздырма,CyrillTrans,fever,,,"gɨzdɨrma, hæraræt",Phonemic
+4-841-71-3,nort2697,Azerbaijani,1534,һәрарәт,CyrillTrans,fever,,,"gɨzdɨrma, hæraræt",Phonemic
+4-840-71-1,nort2697,Azerbaijani,1847,хәстәлик,CyrillTrans,"sick, sickness",,,"xæstælik, xæstæ",Phonemic
+4-840-71-3,nort2697,Azerbaijani,1847,хәстә,CyrillTrans,"sick, sickness",,,"xæstælik, xæstæ",Phonemic
+4-830-71-1,nort2697,Azerbaijani,1364,соьлале (лыг),CyrillTrans,"well, health",,,"sölale (lɨg), saɣlam, saɣlamlɨg",Phonemic
+4-830-71-3,nort2697,Azerbaijani,1364,сағлам,CyrillTrans,"well, health",,,"sölale (lɨg), saɣlam, saɣlamlɨg",Phonemic
+4-830-71-5,nort2697,Azerbaijani,1364,сағламлыг,CyrillTrans,"well, health",,,"sölale (lɨg), saɣlam, saɣlamlɨg",Phonemic
+4-820-71-1,nort2697,Azerbaijani,1601,зәиф,CyrillTrans,weak,,,"zæif, arɨg, ǯansɨz",Phonemic
+4-820-71-3,nort2697,Azerbaijani,1601,арыг,CyrillTrans,weak,,,"zæif, arɨg, ǯansɨz",Phonemic
+4-820-71-5,nort2697,Azerbaijani,1601,ҹансыз,CyrillTrans,weak,,,"zæif, arɨg, ǯansɨz",Phonemic
+4-810-71-1,nort2697,Azerbaijani,785,гүдрәтли,CyrillTrans,"strong, mighty, powerful",,,"güdrætli, küǯlü, güvvætli",Phonemic
+4-810-71-3,nort2697,Azerbaijani,785,күҹлү,CyrillTrans,"strong, mighty, powerful",,,"güdrætli, küǯlü, güvvætli",Phonemic
+4-810-71-5,nort2697,Azerbaijani,785,гүввәтли,CyrillTrans,"strong, mighty, powerful",,,"güdrætli, küǯlü, güvvætli",Phonemic
+4-790-71-1,nort2697,Azerbaijani,1773,гәбир,CyrillTrans,"grave, tomb",,,"gæbir, mæzar",Phonemic
+4-790-71-3,nort2697,Azerbaijani,1773,мәзар,CyrillTrans,"grave, tomb",,,"gæbir, mæzar",Phonemic
+4-780-71-1,nort2697,Azerbaijani,1719,дәфн етмәк,CyrillTrans,bury (the dead),,,dæfn etmæk,Phonemic
+4-770-71-1,nort2697,Azerbaijani,767,мејит,CyrillTrans,corpse,,,meyit,Phonemic
+4-760-71-1,nort2697,Azerbaijani,1417,өлдүрмәк,CyrillTrans,kill,,,öldürmæk,Phonemic
+4-751-71-1,nort2697,Azerbaijani,1904,суда батмыш адам,CyrillTrans,drowned,,,suda batmɨš adam,Phonemic
+4-750-71-1,nort2697,Azerbaijani,1494,өлмәк,CyrillTrans,"die, dead",,,"ölmæk, ölü, væfat etmæk",Phonemic
+4-750-71-3,nort2697,Azerbaijani,1494,өлү,CyrillTrans,"die, dead",,,"ölmæk, ölü, væfat etmæk",Phonemic
+4-750-71-5,nort2697,Azerbaijani,1494,вәфат етмәк,CyrillTrans,"die, dead",,,"ölmæk, ölü, væfat etmæk",Phonemic
+4-740-71-1,nort2697,Azerbaijani,1422,јашамаг,CyrillTrans,"live, living, life",,,"yašamag, diri, hæyat",Phonemic
+4-740-71-3,nort2697,Azerbaijani,1422,дири,CyrillTrans,"live, living, life",,,"yašamag, diri, hæyat",Phonemic
+4-740-71-5,nort2697,Azerbaijani,1422,һәјат,CyrillTrans,"live, living, life",,,"yašamag, diri, hæyat",Phonemic
+4-732-71-1,nort2697,Azerbaijani,1087,һамилә олмаг,CyrillTrans,conceive,,,hamilæ olmag,Phonemic
+4-730-71-1,nort2697,Azerbaijani,1123,һамилә,CyrillTrans,pregnant,,,hamilæ,Phonemic
+4-720-71-1,nort2697,Azerbaijani,1090,доғулмаг,CyrillTrans,born (to be),,,doɣulmag,Phonemic
+4-710-71-1,nort2697,Azerbaijani,1152,доғмаг,CyrillTrans,beget (of father),,,doɣmag,Phonemic
+4-690-71-1,nort2697,Azerbaijani,138,чиммәк,CyrillTrans,bathe,,,čimmæk,Phonemic
+4-680-71-1,nort2697,Azerbaijani,52,әсмәк,CyrillTrans,shiver,,,æsmæk,Phonemic
+4-670-71-1,nort2697,Azerbaijani,1785,ҹинси әлагәјә ҝирмәк,CyrillTrans,have sexual intercourse,,,ǯinsi ælagæyæ gʲirmæk,Phonemic
+4-660-71-1,nort2697,Azerbaijani,676,нәҹис ифраз етмәк,CyrillTrans,defecate,,,næǯis ifraz etmæk,Phonemic
+4-650-71-1,nort2697,Azerbaijani,592,ишәмәк,CyrillTrans,urinate,,,išæmæk,Phonemic
+4-640-71-1,nort2697,Azerbaijani,1159,газандан азад олмаг,CyrillTrans,break wind,,,gazandan azad olmag,Phonemic
+4-630-71-1,nort2697,Azerbaijani,1602,ојанмаг,CyrillTrans,wake up,,,oyanmag,Phonemic
+4-620-71-1,nort2697,Azerbaijani,1920,арзу етмәк,CyrillTrans,dream,,,"arzu etmæk, yuxu gʲörmæk",Phonemic
+4-620-71-3,nort2697,Azerbaijani,1920,јуху ҝөрмәк,CyrillTrans,dream,,,"arzu etmæk, yuxu gʲörmæk",Phonemic
+4-612-71-1,nort2697,Azerbaijani,1983,хорулдамаг,CyrillTrans,snore,,,xoruldamag,Phonemic
+4-610-71-1,nort2697,Azerbaijani,1585,јатмаг,CyrillTrans,sleep,,,yatmag,Phonemic
+4-591-71-1,nort2697,Azerbaijani,268,ағыз сујуну төкмәк,CyrillTrans,dribble,,,aɣɨz suyunu tökmæk,Phonemic
+4-590-71-1,nort2697,Azerbaijani,319,јаламаг,CyrillTrans,lick,,,yalamag,Phonemic
+4-580-71-1,nort2697,Azerbaijani,1403,дишләмәк,CyrillTrans,bite,,,dišlæmæk,Phonemic
+4-570-71-1,nort2697,Azerbaijani,1278,гусмадан әзаб тәкмә,CyrillTrans,vomit,,,gusmadan æzab tækmæ,Phonemic
+4-560-71-1,nort2697,Azerbaijani,1440,түпүрҹәк,CyrillTrans,spit,,,tüpürǯæk,Phonemic
+4-550-71-1,nort2697,Azerbaijani,126,тәрләмәк,CyrillTrans,perspire,,,tærlæmæk,Phonemic
+4-540-71-1,nort2697,Azerbaijani,1621,асгырмаг,CyrillTrans,sneeze,,,asgɨrmag,Phonemic
+4-530-71-1,nort2697,Azerbaijani,879,өскүрмәк,CyrillTrans,cough,,,öskürmæk,Phonemic
+4-521-71-1,nort2697,Azerbaijani,162,һычгырмаг,CyrillTrans,hiccough,,,hɨčgɨrmag,Phonemic
+4-520-71-1,nort2697,Azerbaijani,1028,әснәмәк,CyrillTrans,"yawn, gape",,,æsnæmæk,Phonemic
+4-510-71-1,nort2697,Azerbaijani,1407,нәфәс,CyrillTrans,"breathe, breath",,,"næfæs, næfæs almag",Phonemic
+4-510-71-3,nort2697,Azerbaijani,1407,нәфәс алмаг,CyrillTrans,"breathe, breath",,,"næfæs, næfæs almag",Phonemic
+4-492-71-1,nort2697,Azerbaijani,1222,сик,CyrillTrans,penis,,,sik,Phonemic
+4-490-71-1,nort2697,Azerbaijani,797,хаја,CyrillTrans,testicle,,,xaya,Phonemic
+4-470-71-1,nort2697,Azerbaijani,804,ушалглыг,CyrillTrans,womb,,,"ušalglɨg, aɣum",Phonemic
+4-470-71-3,nort2697,Azerbaijani,804,ағум,CyrillTrans,womb,,,"ušalglɨg, aɣum",Phonemic
+4-464-71-1,nort2697,Azerbaijani,834,сағры,CyrillTrans,buttocks,,,"saɣrɨ, yan",Phonemic
+4-464-71-3,nort2697,Azerbaijani,834,јан,CyrillTrans,buttocks,,,"saɣrɨ, yan",Phonemic
+4-463-71-1,nort2697,Azerbaijani,1745,буд,CyrillTrans,hip,,,bud,Phonemic
+4-462-71-1,nort2697,Azerbaijani,1681,бел,CyrillTrans,waist,,,bel,Phonemic
+4-461-71-1,nort2697,Azerbaijani,1991,бағырсаглар,CyrillTrans,"intestines, guts",,,baɣɨrsaglar,Phonemic
+4-460-71-1,nort2697,Azerbaijani,819,мә дә,CyrillTrans,stomach,,,mæ dæ,Phonemic
+4-452-71-1,nort2697,Azerbaijani,1744,далаг,CyrillTrans,spleen,,,dalag,Phonemic
+4-451-71-1,nort2697,Azerbaijani,489,бөјрәк,CyrillTrans,kidney,,,böyræk,Phonemic
+4-450-71-1,nort2697,Azerbaijani,1224,гараҹијәр,CyrillTrans,liver,,,garaǯiyær,Phonemic
+4-441-71-1,nort2697,Azerbaijani,688,ағ ҹијәр,CyrillTrans,lung,,,aɣ ǯiyær,Phonemic
+4-440-71-1,nort2697,Azerbaijani,1223,үрәк,CyrillTrans,heart,,,üræk,Phonemic
+4-430-71-1,nort2697,Azerbaijani,1838,ҝөбәк,CyrillTrans,navel,,,gʲöbæk,Phonemic
+4-420-71-1,nort2697,Azerbaijani,154,јелин,CyrillTrans,udder,,,"yelin, æmǯæk",Phonemic
+4-420-71-3,nort2697,Azerbaijani,154,әмҹәк,CyrillTrans,udder,,,"yelin, æmǯæk",Phonemic
+4-412-71-1,nort2697,Azerbaijani,796,мәмәҹик,CyrillTrans,"nipple, teat",,,mæmæǯik,Phonemic
+4-410-71-1,nort2697,Azerbaijani,1402,көкс,CyrillTrans,breast (of woman),,,"köks, sinæ",Phonemic
+4-410-71-3,nort2697,Azerbaijani,1402,синә,CyrillTrans,breast (of woman),,,"köks, sinæ",Phonemic
+4-400-71-1,nort2697,Azerbaijani,1592,дөш гәфәси,CyrillTrans,chest,,,döš gæfæsi,Phonemic
+4-393-71-1,nort2697,Azerbaijani,1201,ләләк,CyrillTrans,feather,,,lælæk,Phonemic
+4-392-71-1,nort2697,Azerbaijani,1257,ганад,CyrillTrans,wing,,,ganad,Phonemic
+4-380-71-1,nort2697,Azerbaijani,1389,бармаг,CyrillTrans,toe,,,barmag,Phonemic
+4-374-71-1,nort2697,Azerbaijani,318,из,CyrillTrans,footprint,,,"iz, ayag izi",Phonemic
+4-374-71-3,nort2697,Azerbaijani,318,ајаг изи,CyrillTrans,footprint,,,"iz, ayag izi",Phonemic
+4-372-71-1,nort2697,Azerbaijani,980,дабан,CyrillTrans,heel,,,daban,Phonemic
+4-371-71-1,nort2697,Azerbaijani,803,топуг,CyrillTrans,ankle,,,topug,Phonemic
+4-370-71-1,nort2697,Azerbaijani,1301,ајағын алты,CyrillTrans,foot,,,"ayaɣɨn altɨ, pænǯæ",Phonemic
+4-370-71-3,nort2697,Azerbaijani,1301,пәнҹә,CyrillTrans,foot,,,"ayaɣɨn altɨ, pænǯæ",Phonemic
+4-360-71-1,nort2697,Azerbaijani,1371,диз,CyrillTrans,knee,,,diz,Phonemic
+4-352-71-1,nort2697,Azerbaijani,498,ајаг балдыры,CyrillTrans,calf of leg,,,ayag baldɨrɨ,Phonemic
+4-351-71-1,nort2697,Azerbaijani,800,омба,CyrillTrans,thigh,,,"omba, bud",Phonemic
+4-351-71-3,nort2697,Azerbaijani,800,буд,CyrillTrans,thigh,,,"omba, bud",Phonemic
+4-350-71-1,nort2697,Azerbaijani,1297,ајаг,CyrillTrans,leg,,,ayag,Phonemic
+4-345-71-1,nort2697,Azerbaijani,72,ҹајнаг,CyrillTrans,claw,,,ǯaynag,Phonemic
+4-344-71-1,nort2697,Azerbaijani,1258,дырнаг,CyrillTrans,fingernail,,,dɨrnag,Phonemic
+4-342-71-1,nort2697,Azerbaijani,1781,баш бармаг,CyrillTrans,thumb,,,baš barmag,Phonemic
+4-340-71-1,nort2697,Azerbaijani,1303,бармаг,CyrillTrans,finger,,,barmag,Phonemic
+4-331-71-1,nort2697,Azerbaijani,1183,овуҹ,CyrillTrans,palm of hand,,,ovuǯ,Phonemic
+4-330-71-1,nort2697,Azerbaijani,1277,әл,CyrillTrans,hand,,,æl,Phonemic
+4-321-71-1,nort2697,Azerbaijani,799,биләк,CyrillTrans,wrist,,,bilæk,Phonemic
+4-320-71-1,nort2697,Azerbaijani,981,дирсәк,CyrillTrans,elbow,,,dirsæk,Phonemic
+4-312-71-1,nort2697,Azerbaijani,1886,голтуг,CyrillTrans,armpit,,,goltug,Phonemic
+4-310-71-1,nort2697,Azerbaijani,1673,әл,CyrillTrans,arm,,,"æl, gol",Phonemic
+4-310-71-3,nort2697,Azerbaijani,1673,гол,CyrillTrans,arm,,,"æl, gol",Phonemic
+4-302-71-1,nort2697,Azerbaijani,1994,көрпүҹүк сүмүјү,CyrillTrans,collarbone,,,körpüǯük sümüyü,Phonemic
+4-301-71-1,nort2697,Azerbaijani,172,күрәк,CyrillTrans,shoulderblade,,,küræk,Phonemic
+4-300-71-1,nort2697,Azerbaijani,1482,чијин,CyrillTrans,shoulder,,,čiyin,Phonemic
+4-290-71-1,nort2697,Azerbaijani,1346,боғаз,CyrillTrans,throat,,,"boɣaz, udlag",Phonemic
+4-290-71-3,nort2697,Azerbaijani,1346,удлаг,CyrillTrans,throat,,,"boɣaz, udlag",Phonemic
+4-281-71-1,nort2697,Azerbaijani,1347,пејсәр,CyrillTrans,nape of neck,,,"peysær, ænsæ",Phonemic
+4-281-71-3,nort2697,Azerbaijani,1347,әнсә,CyrillTrans,nape of neck,,,"peysær, ænsæ",Phonemic
+4-280-71-1,nort2697,Azerbaijani,1333,бојун,CyrillTrans,neck,,,boyun,Phonemic
+4-272-71-1,nort2697,Azerbaijani,1049,азыдиш,CyrillTrans,molartooth,,,azɨdiš,Phonemic
+4-270-71-1,nort2697,Azerbaijani,1380,диш,CyrillTrans,tooth,,,diš,Phonemic
+4-271-71-1,nort2697,Azerbaijani,139,диш әти,CyrillTrans,gums,,,diš æti,Phonemic
+4-260-71-1,nort2697,Azerbaijani,1205,дил,CyrillTrans,tongue,,,dil,Phonemic
+4-250-71-1,nort2697,Azerbaijani,478,додаг,CyrillTrans,lip,,,dodag,Phonemic
+4-241-71-1,nort2697,Azerbaijani,73,димдик,CyrillTrans,beak,,,dimdik,Phonemic
+4-240-71-1,nort2697,Azerbaijani,674,ағыз,CyrillTrans,mouth,,,aɣɨz,Phonemic
+4-232-71-1,nort2697,Azerbaijani,208,селик,CyrillTrans,mucus (nasal),,,"selik, fɨrtɨg",Phonemic
+4-232-71-3,nort2697,Azerbaijani,208,фыртыг,CyrillTrans,mucus (nasal),,,"selik, fɨrtɨg",Phonemic
+4-231-71-1,nort2697,Azerbaijani,1178,бурун наһијәси,CyrillTrans,nostril,,,burun nahiyæsi,Phonemic
+4-230-71-1,nort2697,Azerbaijani,1221,бурун,CyrillTrans,nose,,,burun,Phonemic
+4-222-71-1,nort2697,Azerbaijani,32,күкүрд,CyrillTrans,earwax,,,"kükürd, gulag čirki",Phonemic
+4-222-71-3,nort2697,Azerbaijani,32,гулаг чирки,CyrillTrans,earwax,,,"kükürd, gulag čirki",Phonemic
+4-221-71-1,nort2697,Azerbaijani,18,мәрҹәк,CyrillTrans,earlobe,,,mærǯæk,Phonemic
+4-220-71-1,nort2697,Azerbaijani,1247,гулаг,CyrillTrans,ear,,,gulag,Phonemic
+4-215-71-1,nort2697,Azerbaijani,1655,ҝөзләрини гыјмаг,CyrillTrans,blink,,,gʲözlærini gɨymag,Phonemic
+4-214-71-1,nort2697,Azerbaijani,1540,кирпик,CyrillTrans,eyelash,,,kirpik,Phonemic
+4-213-71-1,nort2697,Azerbaijani,17,ҝөз гапағы,CyrillTrans,eyelid,,,gʲöz gapaɣɨ,Phonemic
+4-212-71-1,nort2697,Azerbaijani,1173,гаш,CyrillTrans,eyebrow,,,gaš,Phonemic
+4-210-71-1,nort2697,Azerbaijani,1248,ҝөз,CyrillTrans,eye,,,gʲöz,Phonemic
+4-208-71-1,nort2697,Azerbaijani,1730,јанаг,CyrillTrans,cheek,,,yanag,Phonemic
+4-209-71-1,nort2697,Azerbaijani,1510,чәнә,CyrillTrans,chin,,,čænæ,Phonemic
+4-205-71-1,nort2697,Azerbaijani,123,алын,CyrillTrans,forehead,,,alɨn,Phonemic
+4-207-71-1,nort2697,Azerbaijani,798,чәнә,CyrillTrans,jaw,,,čænæ,Phonemic
+4-204-71-1,nort2697,Azerbaijani,1560,сифәт,CyrillTrans,face,,,"sifæt, üz",Phonemic
+4-204-71-3,nort2697,Azerbaijani,1560,үз,CyrillTrans,face,,,"sifæt, üz",Phonemic
+4-203-71-1,nort2697,Azerbaijani,1583,бејин,CyrillTrans,brain,,,beyin,Phonemic
+4-201-71-1,nort2697,Azerbaijani,1604,ҝиҹҝаһ,CyrillTrans,"side of head, temple",,,gʲiǯgʲah,Phonemic
+4-202-71-1,nort2697,Azerbaijani,1605,кәллә,CyrillTrans,skull,,,"kællæ, gafa tasɨ",Phonemic
+4-202-71-3,nort2697,Azerbaijani,1605,гафа тасы,CyrillTrans,skull,,,"kællæ, gafa tasɨ",Phonemic
+4-200-71-1,nort2697,Azerbaijani,1256,баш,CyrillTrans,head,,,baš,Phonemic
+4-191-71-1,nort2697,Azerbaijani,805,онурға,CyrillTrans,spine,,,"onurɣa, bel sümüyü",Phonemic
+4-191-71-3,nort2697,Azerbaijani,805,бел сүмүјү,CyrillTrans,spine,,,"onurɣa, bel sümüyü",Phonemic
+4-190-71-1,nort2697,Azerbaijani,1291,арха,CyrillTrans,back,,,"arxa, bel",Phonemic
+4-190-71-3,nort2697,Azerbaijani,1291,бел,CyrillTrans,back,,,"arxa, bel",Phonemic
+4-180-71-1,nort2697,Azerbaijani,1220,гујруг,CyrillTrans,tail,,,guyrug,Phonemic
+4-170-71-1,nort2697,Azerbaijani,1393,бујнуз,CyrillTrans,horn,,,buynuz,Phonemic
+4-162-71-1,nort2697,Azerbaijani,801,габырга,CyrillTrans,rib,,,gabɨrga,Phonemic
+4-160-71-1,nort2697,Azerbaijani,1394,сүмүк,CyrillTrans,bone,,,sümük,Phonemic
+4-151-71-1,nort2697,Azerbaijani,525,вена,CyrillTrans,"vein, artery",,,"vena, arteriya, damar",Phonemic
+4-151-71-3,nort2697,Azerbaijani,525,артерија,CyrillTrans,"vein, artery",,,"vena, arteriya, damar",Phonemic
+4-151-71-5,nort2697,Azerbaijani,525,дамар,CyrillTrans,"vein, artery",,,"vena, arteriya, damar",Phonemic
+4-150-71-1,nort2697,Azerbaijani,946,ган,CyrillTrans,blood,,,gan,Phonemic
+4-146-71-1,nort2697,Azerbaijani,576,кәпәк,CyrillTrans,dandruff,,,kæpæk,Phonemic
+4-145-71-1,nort2697,Azerbaijani,36,алын түкү,CyrillTrans,pubic hair,,,alɨn tükü,Phonemic
+4-144-71-1,nort2697,Azerbaijani,189,түк,CyrillTrans,body hair,,,tük,Phonemic
+4-142-71-1,nort2697,Azerbaijani,678,саггал,CyrillTrans,beard,,,saggal,Phonemic
+4-140-71-1,nort2697,Azerbaijani,1040,сач,CyrillTrans,hair (head),,,sač,Phonemic
+4-130-71-1,nort2697,Azerbaijani,2259,бәдән,CyrillTrans,flesh,,,"bædæn, ǯism",Phonemic
+4-130-71-3,nort2697,Azerbaijani,2259,ҹисм,CyrillTrans,flesh,,,"bædæn, ǯism",Phonemic
+4-120-71-1,nort2697,Azerbaijani,763,дәри,CyrillTrans,"skin, hide",,,dæri,Phonemic
+4-110-71-1,nort2697,Azerbaijani,1480,бәдән,CyrillTrans,body,,,bædæn,Phonemic
+3-980-71-1,nort2697,Azerbaijani,112,тысбаға,CyrillTrans,turtle,,,tɨsbaɣa,Phonemic
+3-970-71-1,nort2697,Azerbaijani,1857,тимсаһ,CyrillTrans,"crocodile, alligator",,,timsah,Phonemic
+3-960-71-1,nort2697,Azerbaijani,632,кәртәнкәлә,CyrillTrans,lizard,,,kærtænkælæ,Phonemic
+3-950-71-1,nort2697,Azerbaijani,503,гурбаға,CyrillTrans,frog,,,gurbaɣa,Phonemic
+3-940-71-1,nort2697,Azerbaijani,1543,илбиз,CyrillTrans,snail,,,ilbiz,Phonemic
+3-930-71-1,nort2697,Azerbaijani,607,шала ҹырҹырама,CyrillTrans,grasshopper,,,šala ǯɨrǯɨrama,Phonemic
+3-920-71-1,nort2697,Azerbaijani,1791,кәпнәк,CyrillTrans,butterfly,,,kæpnæk,Phonemic
+3-910-71-1,nort2697,Azerbaijani,206,ишылдагуш,CyrillTrans,firefly,,,išɨldaguš,Phonemic
+3-850-71-1,nort2697,Azerbaijani,730,илан,CyrillTrans,snake,,,ilan,Phonemic
+3-840-71-1,nort2697,Azerbaijani,1219,гурд (сохулҹан),CyrillTrans,worm,,,gurd (soxulǯan),Phonemic
+3-832-71-1,nort2697,Azerbaijani,1509,ағҹаганад,CyrillTrans,mosquito,,,aɣǯaganad,Phonemic
+3-831-71-1,nort2697,Azerbaijani,95,ағҹаганад,CyrillTrans,"sandfly (midge), gnat",,,"aɣǯaganad, mɨɣmɨɣa",Phonemic
+3-831-71-3,nort2697,Azerbaijani,95,мығмыға,CyrillTrans,"sandfly (midge), gnat",,,"aɣǯaganad, mɨɣmɨɣa",Phonemic
+3-830-71-1,nort2697,Azerbaijani,1504,милчәк,CyrillTrans,fly,,,milčæk,Phonemic
+3-823-71-1,nort2697,Azerbaijani,1517,ары,CyrillTrans,wasp,,,arɨ,Phonemic
+3-822-71-1,nort2697,Azerbaijani,88,ары тәкнәси,CyrillTrans,beehive,,,arɨ tæknæsi,Phonemic
+3-821-71-1,nort2697,Azerbaijani,1931,мум,CyrillTrans,beeswax,,,mum,Phonemic
+3-820-71-1,nort2697,Azerbaijani,665,ары,CyrillTrans,bee,,,arɨ,Phonemic
+3-819-71-1,nort2697,Azerbaijani,1065,һөрүмчәк тору,CyrillTrans,spider web,,,hörümčæk toru,Phonemic
+3-818-71-1,nort2697,Azerbaijani,843,һөрүмчәк,CyrillTrans,spider,,,hörümčæk,Phonemic
+3-817-71-1,nort2697,Azerbaijani,587,гарышга,CyrillTrans,ant,,,garɨšga,Phonemic
+3-816-71-1,nort2697,Azerbaijani,1575,таракан,CyrillTrans,cockroach,,,"tarakan, mætbæxböčæyi",Phonemic
+3-816-71-3,nort2697,Azerbaijani,1575,мәтбәхбөчәји,CyrillTrans,cockroach,,,"tarakan, mætbæxböčæyi",Phonemic
+3-815-71-1,nort2697,Azerbaijani,1538,әгрәб,CyrillTrans,scorpion,,,ægræb,Phonemic
+3-814-71-1,nort2697,Azerbaijani,1974,чохајаглы,CyrillTrans,centipede,,,"čoxayaglɨ, gɨrxayag",Phonemic
+3-814-71-3,nort2697,Azerbaijani,1974,гырхајаг,CyrillTrans,centipede,,,"čoxayaglɨ, gɨrxayag",Phonemic
+3-813-71-1,nort2697,Azerbaijani,232,бирә,CyrillTrans,flea,,,biræ,Phonemic
+3-812-71-1,nort2697,Azerbaijani,267,сиркә,CyrillTrans,nit (louse egg),,,sirkæ,Phonemic
+3-811-71-1,nort2697,Azerbaijani,1392,бит,CyrillTrans,louse,,,bit,Phonemic
+3-810-71-1,nort2697,Azerbaijani,620,һәшәрат,CyrillTrans,insect,,,hæšærat,Phonemic
+3-780-71-1,nort2697,Azerbaijani,1871,дәвә,CyrillTrans,camel,,,dævæ,Phonemic
+3-770-71-1,nort2697,Azerbaijani,1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-71-1,nort2697,Azerbaijani,1350,мејмун,CyrillTrans,monkey,,,meymun,Phonemic
+3-750-71-1,nort2697,Azerbaijani,1936,марал,CyrillTrans,deer,,,maral,Phonemic
+3-740-71-1,nort2697,Azerbaijani,1312,түлкү,CyrillTrans,fox,,,tülkü,Phonemic
+3-730-71-1,nort2697,Azerbaijani,1820,ајы,CyrillTrans,bear,,,ayɨ,Phonemic
+3-720-71-1,nort2697,Azerbaijani,1386,шир,CyrillTrans,lion,,,šir,Phonemic
+3-710-71-1,nort2697,Azerbaijani,522,гурд,CyrillTrans,wolf,,,"gurd, ǯanavar",Phonemic
+3-710-71-3,nort2697,Azerbaijani,522,ҹанавар,CyrillTrans,wolf,,,"gurd, ǯanavar",Phonemic
+3-665-71-1,nort2697,Azerbaijani,1013,анҝвил,CyrillTrans,freshwater eel,,,"angʲvil, mozalan sufræsi",Phonemic
+3-665-71-3,nort2697,Azerbaijani,1013,мозалан суфрәси,CyrillTrans,freshwater eel,,,"angʲvil, mozalan sufræsi",Phonemic
+3-664-71-1,nort2697,Azerbaijani,1910,јыртыҹы балыг,CyrillTrans,stingray,,,yɨrtɨǯɨ balɨg,Phonemic
+3-663-71-1,nort2697,Azerbaijani,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-71-1,nort2697,Azerbaijani,1479,дәниз донузу,CyrillTrans,"porpoise, dolphin",,,"dæniz donuzu, delfin",Phonemic
+3-662-71-3,nort2697,Azerbaijani,1479,делфин,CyrillTrans,"porpoise, dolphin",,,"dæniz donuzu, delfin",Phonemic
+3-661-71-1,nort2697,Azerbaijani,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-71-1,nort2697,Azerbaijani,598,балыггулағы,CyrillTrans,shell,,,"balɨggulaɣɨ, mærǯangulu",Phonemic
+3-655-71-3,nort2697,Azerbaijani,598,мәрҹангулу,CyrillTrans,shell,,,"balɨggulaɣɨ, mærǯangulu",Phonemic
+3-654-71-1,nort2697,Azerbaijani,1916,гәлсәмә,CyrillTrans,gill,,,gælsæmæ,Phonemic
+3-653-71-1,nort2697,Azerbaijani,266,пул,CyrillTrans,fishscale,,,"pul, axča, xal",Phonemic
+3-653-71-3,nort2697,Azerbaijani,266,ахча,CyrillTrans,fishscale,,,"pul, axča, xal",Phonemic
+3-653-71-5,nort2697,Azerbaijani,266,хал,CyrillTrans,fishscale,,,"pul, axča, xal",Phonemic
+3-652-71-1,nort2697,Azerbaijani,213,үзҝәҹ,CyrillTrans,fin (dorsal),,,üzgʲæǯ,Phonemic
+3-650-71-1,nort2697,Azerbaijani,227,балыг,CyrillTrans,fish,,,balɨg,Phonemic
+3-630-71-1,nort2697,Azerbaijani,2139,сичан,CyrillTrans,"mouse, rat",,,"sičan, sičovul",Phonemic
+3-630-71-3,nort2697,Azerbaijani,2139,сичовул,CyrillTrans,"mouse, rat",,,"sičan, sičovul",Phonemic
+3-620-71-1,nort2697,Azerbaijani,1208,(еркәк) пишик,CyrillTrans,cat,,,(erkæk) pišik,Phonemic
+3-614-71-1,nort2697,Azerbaijani,1136,(евдовшаны) кролик,CyrillTrans,rabbit,,,(evdovšanɨ) krolik,Phonemic
+3-610-71-1,nort2697,Azerbaijani,2009,ит,CyrillTrans,dog,,,it,Phonemic
+3-594-71-1,nort2697,Azerbaijani,1853,ҝөјәрчин,CyrillTrans,dove,,,"gʲöyærčin, diši gʲöyærčin",Phonemic
+3-594-71-3,nort2697,Azerbaijani,1853,диши ҝөјәрчин,CyrillTrans,dove,,,"gʲöyærčin, diši gʲöyærčin",Phonemic
+3-596-71-1,nort2697,Azerbaijani,735,бајгуш,CyrillTrans,owl,,,"bayguš, yapalag",Phonemic
+3-596-71-3,nort2697,Azerbaijani,735,јапалаг,CyrillTrans,owl,,,"bayguš, yapalag",Phonemic
+3-593-71-1,nort2697,Azerbaijani,913,алагарға,CyrillTrans,crow,,,alagarɣa,Phonemic
+3-592-71-1,nort2697,Azerbaijani,882,тутугушу,CyrillTrans,parrot,,,tutugušu,Phonemic
+3-591-71-1,nort2697,Azerbaijani,1793,јараса,CyrillTrans,bat,,,yarasa,Phonemic
+3-586-71-1,nort2697,Azerbaijani,1185,ганадлы әждаһа,CyrillTrans,vulture,,,ganadlɨ æždaha,Phonemic
+3-585-71-1,nort2697,Azerbaijani,307,гырғы,CyrillTrans,hawk,,,"gɨrɣɨ, šahin",Phonemic
+3-585-71-3,nort2697,Azerbaijani,307,шаһин,CyrillTrans,hawk,,,"gɨrɣɨ, šahin",Phonemic
+3-584-71-1,nort2697,Azerbaijani,1905,гартал,CyrillTrans,eagle,,,gartal,Phonemic
+3-582-71-1,nort2697,Azerbaijani,950,гағајы,CyrillTrans,seagull,,,gaɣayɨ,Phonemic
+3-583-71-1,nort2697,Azerbaijani,758,гуш,CyrillTrans,heron,,,guš,Phonemic
+3-581-71-1,nort2697,Azerbaijani,937,гуш,CyrillTrans,bird,,,guš,Phonemic
+3-580-71-1,nort2697,Azerbaijani,539,јува,CyrillTrans,nest,,,yuva,Phonemic
+3-570-71-1,nort2697,Azerbaijani,1360,өрдәк,CyrillTrans,duck,,,ördæk,Phonemic
+3-560-71-1,nort2697,Azerbaijani,1187,газ,CyrillTrans,goose,,,gaz,Phonemic
+3-550-71-1,nort2697,Azerbaijani,1318,ҹүҹә,CyrillTrans,chicken,,,"ǯüǯæ, čolpa",Phonemic
+3-550-71-3,nort2697,Azerbaijani,1318,чолпа,CyrillTrans,chicken,,,"ǯüǯæ, čolpa",Phonemic
+3-540-71-1,nort2697,Azerbaijani,1514,тојуг,CyrillTrans,hen,,,toyug,Phonemic
+3-520-71-1,nort2697,Azerbaijani,1511,хоруз,CyrillTrans,"cock, rooster",,,xoruz,Phonemic
+3-470-71-1,nort2697,Azerbaijani,890,гатыр,CyrillTrans,mule,,,gatɨr,Phonemic
+3-500-71-1,nort2697,Azerbaijani,265,ев гушлары,CyrillTrans,fowl,,,ev gušlarɨ,Phonemic
+3-460-71-1,nort2697,Azerbaijani,1862,ешшәк,CyrillTrans,"ass, donkey",,,eššæk,Phonemic
+3-450-71-1,nort2697,Azerbaijani,1647,гулан,CyrillTrans,"foal, colt",,,gulan,Phonemic
+3-440-71-1,nort2697,Azerbaijani,938,мадјан,CyrillTrans,mare,,,madyan,Phonemic
+3-420-71-1,nort2697,Azerbaijani,936,ајғыр,CyrillTrans,stallion,,,ayɣɨr,Phonemic
+3-410-71-1,nort2697,Azerbaijani,615,ат,CyrillTrans,horse (equine),,,at,Phonemic
+3-380-71-1,nort2697,Azerbaijani,1972,кечи баласы,CyrillTrans,kid,,,keči balasɨ,Phonemic
+3-370-71-1,nort2697,Azerbaijani,264,еркәк кечи,CyrillTrans,he-goat,,,erkæk keči,Phonemic
+3-360-71-1,nort2697,Azerbaijani,1502,кечи,CyrillTrans,goat,,,keči,Phonemic
+3-350-71-1,nort2697,Azerbaijani,1337,донуз,CyrillTrans,pig,,,donuz,Phonemic
+3-340-71-1,nort2697,Azerbaijani,1351,донуз,CyrillTrans,sow (2),,,"donuz, anače donuz",Phonemic
+3-340-71-3,nort2697,Azerbaijani,1351,аначе донуз,CyrillTrans,sow (2),,,"donuz, anače donuz",Phonemic
+3-320-71-1,nort2697,Azerbaijani,1348,габан,CyrillTrans,boar,,,gaban,Phonemic
+3-290-71-1,nort2697,Azerbaijani,820,гузу,CyrillTrans,lamb,,,guzu,Phonemic
+3-280-71-1,nort2697,Azerbaijani,1345,гојун,CyrillTrans,ewe,,,goyun,Phonemic
+3-260-71-1,nort2697,Azerbaijani,1344,гоч,CyrillTrans,ram,,,goč,Phonemic
+3-250-71-1,nort2697,Azerbaijani,1331,гојун,CyrillTrans,sheep,,,"goyun, goč",Phonemic
+3-250-71-3,nort2697,Azerbaijani,1331,гоч,CyrillTrans,sheep,,,"goyun, goč",Phonemic
+3-240-71-1,nort2697,Azerbaijani,1989,бузов,CyrillTrans,calf,,,buzov,Phonemic
+3-230-71-1,nort2697,Azerbaijani,1007,инәк,CyrillTrans,cow,,,inæk,Phonemic
+3-220-71-1,nort2697,Azerbaijani,1169,өкүз,CyrillTrans,ox,,,öküz,Phonemic
+3-210-71-1,nort2697,Azerbaijani,1008,өкүз,CyrillTrans,bull,,,öküz,Phonemic
+3-200-71-1,nort2697,Azerbaijani,1153,гарамал,CyrillTrans,cattle (bovine),,,garamal,Phonemic
+3-190-71-1,nort2697,Azerbaijani,851,төвлә,CyrillTrans,"stable, stall",,,"tövlæ, burdag",Phonemic
+3-190-71-3,nort2697,Azerbaijani,851,бурдаг,CyrillTrans,"stable, stall",,,"tövlæ, burdag",Phonemic
+3-180-71-1,nort2697,Azerbaijani,263,чобан,CyrillTrans,herdsman,,,"čoban, naxɨrčɨ",Phonemic
+3-180-71-3,nort2697,Azerbaijani,263,нахырчы,CyrillTrans,herdsman,,,"čoban, naxɨrčɨ",Phonemic
+3-160-71-1,nort2697,Azerbaijani,649,отлаг,CyrillTrans,pasture,,,otlag,Phonemic
+3-150-71-1,nort2697,Azerbaijani,631,мал-гара,CyrillTrans,livestock,,,mal-gara,Phonemic
+3-130-71-1,nort2697,Azerbaijani,2262,гадын үчүн,CyrillTrans,female (adj),,,gadɨn üčün,Phonemic
+3-120-71-1,nort2697,Azerbaijani,2261,киши үчүн,CyrillTrans,male (adj),,,kiši üčün,Phonemic
+3-110-71-1,nort2697,Azerbaijani,619,һејван,CyrillTrans,animal,,,heyvan,Phonemic
+2-960-71-1,nort2697,Azerbaijani,817,онлар,CyrillTrans,they,,,onlar,Phonemic
+2-950-71-1,nort2697,Azerbaijani,1213,сиз,CyrillTrans,you (plural),,,siz,Phonemic
+2-940-71-1,nort2697,Azerbaijani,1212,биз,CyrillTrans,we,,,biz,Phonemic
+2-930-71-1,nort2697,Azerbaijani,262,о,CyrillTrans,he/she/it,,,o,Phonemic
+2-920-71-1,nort2697,Azerbaijani,1215,сән,CyrillTrans,you (singular),,,"sæn, siz",Phonemic
+2-920-71-3,nort2697,Azerbaijani,1215,сиз,CyrillTrans,you (singular),,,"sæn, siz",Phonemic
+2-910-71-1,nort2697,Azerbaijani,1209,мән,CyrillTrans,I,,,mæn,Phonemic
+2-820-71-1,nort2697,Azerbaijani,194,күлфәт,CyrillTrans,family,,,"külfæt, ailæ",Phonemic
+2-820-71-3,nort2697,Azerbaijani,194,аилә,CyrillTrans,family,,,"külfæt, ailæ",Phonemic
+2-810-71-1,nort2697,Azerbaijani,1644,гоһумлар,CyrillTrans,"relatives, kinsmen",,,gohumlar,Phonemic
+2-770-71-1,nort2697,Azerbaijani,1981,дул киши,CyrillTrans,widower,,,dul kiši,Phonemic
+2-760-71-1,nort2697,Azerbaijani,1756,дул гадын,CyrillTrans,widow,,,dul gadɨn,Phonemic
+2-750-71-1,nort2697,Azerbaijani,1149,јетим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-71-1,nort2697,Azerbaijani,1058,өкеј гыз,CyrillTrans,stepdaughter,,,ökey gɨz,Phonemic
+2-730-71-1,nort2697,Azerbaijani,1059,өкеј огул,CyrillTrans,stepson,,,ökey ogul,Phonemic
+2-720-71-1,nort2697,Azerbaijani,236,өкеј ана,CyrillTrans,stepmother,,,ökey ana,Phonemic
+2-710-71-1,nort2697,Azerbaijani,237,өкеј ата,CyrillTrans,stepfather,,,ökey ata,Phonemic
+2-641-71-1,nort2697,Azerbaijani,2264,гардаш арвады,CyrillTrans,daughter-in-law (of a woman),,,"gardaš arvadɨ, gayɨn arvadɨ gʲælin",Phonemic
+2-641-71-3,nort2697,Azerbaijani,2264,гајын арвады ҝәлин,CyrillTrans,daughter-in-law (of a woman),,,"gardaš arvadɨ, gayɨn arvadɨ gʲælin",Phonemic
+2-640-71-1,nort2697,Azerbaijani,2265,ҝәлин,CyrillTrans,daughter-in-law (of a man),,,gʲælin,Phonemic
+2-631-71-1,nort2697,Azerbaijani,2266,језнә,CyrillTrans,son-in-law (of a woman),,,yeznæ,Phonemic
+2-630-71-1,nort2697,Azerbaijani,2267,күрәкән,CyrillTrans,son-in-law (of a man),,,kürækæn,Phonemic
+2-621-71-1,nort2697,Azerbaijani,2257,гајнана,CyrillTrans,mother-in-law (of a woman),,,"gaynana, arvadɨn anasɨ",Phonemic
+2-621-71-3,nort2697,Azerbaijani,2257,арвадын анасы,CyrillTrans,mother-in-law (of a woman),,,"gaynana, arvadɨn anasɨ",Phonemic
+2-620-71-1,nort2697,Azerbaijani,2256,гајнана,CyrillTrans,mother-in-law (of a man),,,gaynana,Phonemic
+2-611-71-1,nort2697,Azerbaijani,2254,гајыната,CyrillTrans,father-in-law (of a woman),,,"gayɨnata, arvadɨn atasɨ",Phonemic
+2-611-71-3,nort2697,Azerbaijani,2254,арвадын атасы,CyrillTrans,father-in-law (of a woman),,,"gayɨnata, arvadɨn atasɨ",Phonemic
+2-610-71-1,nort2697,Azerbaijani,2255,гајыната,CyrillTrans,father-in-law (of a man),,,gayɨnata,Phonemic
+2-570-71-1,nort2697,Azerbaijani,490,нәвә-нәтиҹә,CyrillTrans,descendants,,,nævæ-nætiǯæ,Phonemic
+2-560-71-1,nort2697,Azerbaijani,1669,ата-баба,CyrillTrans,ancestors,,,ata-baba,Phonemic
+2-550-71-1,nort2697,Azerbaijani,1643,дајы оғлу,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-550-71-3,nort2697,Azerbaijani,1643,әми оғлу,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-550-71-5,nort2697,Azerbaijani,1643,гызы,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-550-71-7,nort2697,Azerbaijani,1643,әми гызы,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-550-71-9,nort2697,Azerbaijani,1643,дајы,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-550-71-11,nort2697,Azerbaijani,1643,хала,CyrillTrans,cousin,,,"dayɨ oɣlu, æmi oɣlu, gɨzɨ, æmi gɨzɨ, dayɨ, xala",Phonemic
+2-540-71-1,nort2697,Azerbaijani,1642,гардаш гызы,CyrillTrans,niece,,,"gardaš gɨzɨ, baǯɨ gɨzɨ",Phonemic
+2-540-71-3,nort2697,Azerbaijani,1642,баҹы гызы,CyrillTrans,niece,,,"gardaš gɨzɨ, baǯɨ gɨzɨ",Phonemic
+2-530-71-1,nort2697,Azerbaijani,1063,гардаш оғлу,CyrillTrans,nephew,,,"gardaš oɣlu, baǯɨ oɣlu",Phonemic
+2-530-71-3,nort2697,Azerbaijani,1063,баҹы оғлу,CyrillTrans,nephew,,,"gardaš oɣlu, baǯɨ oɣlu",Phonemic
+2-522-71-1,nort2697,Azerbaijani,170,биби,CyrillTrans,father's sister,,,bibi,Phonemic
+2-520-71-1,nort2697,Azerbaijani,1272,хала,CyrillTrans,aunt,,,"xala, bibi",Phonemic
+2-520-71-3,nort2697,Azerbaijani,1272,биби,CyrillTrans,aunt,,,"xala, bibi",Phonemic
+2-521-71-1,nort2697,Azerbaijani,171,хала,CyrillTrans,mother's sister,,,xala,Phonemic
+2-512-71-1,nort2697,Azerbaijani,1985,әми,CyrillTrans,father's brother,,,"æmi, dayɨ",Phonemic
+2-512-71-3,nort2697,Azerbaijani,1985,дајы,CyrillTrans,father's brother,,,"æmi, dayɨ",Phonemic
+2-511-71-1,nort2697,Azerbaijani,1984,әми,CyrillTrans,mother's brother,,,"æmi, dayɨ",Phonemic
+2-511-71-3,nort2697,Azerbaijani,1984,дајы,CyrillTrans,mother's brother,,,"æmi, dayɨ",Phonemic
+2-510-71-1,nort2697,Azerbaijani,1327,әми,CyrillTrans,uncle,,,"æmi, dayɨ",Phonemic
+2-510-71-3,nort2697,Azerbaijani,1327,дајы,CyrillTrans,uncle,,,"æmi, dayɨ",Phonemic
+2-480-71-1,nort2697,Azerbaijani,1618,нәвә,CyrillTrans,grandson,,,nævæ,Phonemic
+2-490-71-1,nort2697,Azerbaijani,1619,нәвә (гыз),CyrillTrans,granddaughter,,,nævæ (gɨz),Phonemic
+2-471-71-1,nort2697,Azerbaijani,907,гоҹа арвад,CyrillTrans,old woman,,,goǯa arvad,Phonemic
+2-470-71-1,nort2697,Azerbaijani,1496,нәнә,CyrillTrans,grandmother,,,nænæ,Phonemic
+2-461-71-1,nort2697,Azerbaijani,406,гоҹа киши,CyrillTrans,old man,,,goǯa kiši,Phonemic
+2-460-71-1,nort2697,Azerbaijani,1383,бабаҹан,CyrillTrans,grandfather,,,babaǯan,Phonemic
+2-458-71-1,nort2697,Azerbaijani,1005,әкиз,CyrillTrans,twins,,,ækiz,Phonemic
+2-456-71-1,nort2697,Azerbaijani,1640,баҹы-гардаш,CyrillTrans,sibling,,,baǯɨ-gardaš,Phonemic
+2-455-71-1,nort2697,Azerbaijani,1761,кичик баҹы,CyrillTrans,younger sister,,,kičik baǯɨ,Phonemic
+2-454-71-1,nort2697,Azerbaijani,1758,бөјүк баҹы,CyrillTrans,older sister,,,böyük baǯɨ,Phonemic
+2-450-71-1,nort2697,Azerbaijani,1263,баҹы,CyrillTrans,sister,,,baǯɨ,Phonemic
+2-445-71-1,nort2697,Azerbaijani,1760,кичик гардаш,CyrillTrans,younger brother,,,kičik gardaš,Phonemic
+2-444-71-1,nort2697,Azerbaijani,1759,бөјүк гардаш,CyrillTrans,older brother,,,böyük gardaš,Phonemic
+2-440-71-1,nort2697,Azerbaijani,1262,гардаш,CyrillTrans,brother,,,gardaš,Phonemic
+2-430-71-1,nort2697,Azerbaijani,1801,өвладлар,CyrillTrans,offspring (son or daughter),,,"övladlar, ušaglar",Phonemic
+2-430-71-3,nort2697,Azerbaijani,1801,ушаглар,CyrillTrans,offspring (son or daughter),,,"övladlar, ušaglar",Phonemic
+2-420-71-1,nort2697,Azerbaijani,1357,гыз,CyrillTrans,daughter,,,gɨz,Phonemic
+2-410-71-1,nort2697,Azerbaijani,1620,оғул,CyrillTrans,son,,,oɣul,Phonemic
+2-390-71-1,nort2697,Azerbaijani,426,әрли,CyrillTrans,married woman,,,ærli,Phonemic
+2-380-71-1,nort2697,Azerbaijani,424,евли,CyrillTrans,married man,,,evli,Phonemic
+2-370-71-1,nort2697,Azerbaijani,505,валидејнләр,CyrillTrans,parents,,,"valideynlær, ata-ana",Phonemic
+2-370-71-3,nort2697,Azerbaijani,505,ата-ана,CyrillTrans,parents,,,"valideynlær, ata-ana",Phonemic
+2-360-71-1,nort2697,Azerbaijani,1216,ана,CyrillTrans,mother,,,ana,Phonemic
+2-350-71-1,nort2697,Azerbaijani,1217,ата,CyrillTrans,father,,,ata,Phonemic
+2-341-71-1,nort2697,Azerbaijani,1134,ајрылма,CyrillTrans,divorce,,,ayrɨlma,Phonemic
+2-340-71-1,nort2697,Azerbaijani,1259,тој,CyrillTrans,"marriage, wedding",,,"toy, kæbin",Phonemic
+2-340-71-3,nort2697,Azerbaijani,1259,кәбин,CyrillTrans,"marriage, wedding",,,"toy, kæbin",Phonemic
+2-330-71-1,nort2697,Azerbaijani,203,евләнмәк,CyrillTrans,marry,,,"evlænmæk, æræ ketmæk",Phonemic
+2-330-71-3,nort2697,Azerbaijani,203,әрә кетмәк,CyrillTrans,marry,,,"evlænmæk, æræ ketmæk",Phonemic
+2-320-71-1,nort2697,Azerbaijani,1199,арвад,CyrillTrans,wife,,,arvad,Phonemic
+2-310-71-1,nort2697,Azerbaijani,1200,әр,CyrillTrans,husband,,,ær,Phonemic
+2-280-71-1,nort2697,Azerbaijani,1289,ушаг,CyrillTrans,"infant, baby",,,"ušag, körpæ",Phonemic
+2-280-71-3,nort2697,Azerbaijani,1289,көрпә,CyrillTrans,"infant, baby",,,"ušag, körpæ",Phonemic
+2-270-71-1,nort2697,Azerbaijani,1304,бала,CyrillTrans,child,,,bala,Phonemic
+2-261-71-1,nort2697,Azerbaijani,77,ҹаван гыз,CyrillTrans,young woman (adolescent),,,ǯavan gɨz,Phonemic
+2-260-71-1,nort2697,Azerbaijani,1646,кичик гыз,CyrillTrans,girl,,,kičik gɨz,Phonemic
+2-251-71-1,nort2697,Azerbaijani,76,ҹаван оғлан,CyrillTrans,young man (adolescent),,,ǯavan oɣlan,Phonemic
+2-250-71-1,nort2697,Azerbaijani,1366,оғлан,CyrillTrans,boy,,,oɣlan,Phonemic
+2-240-71-1,nort2697,Azerbaijani,1551,диши,CyrillTrans,female,,,diši,Phonemic
+2-230-71-1,nort2697,Azerbaijani,1553,еркәк,CyrillTrans,male,,,erkæk,Phonemic
+2-220-71-1,nort2697,Azerbaijani,962,гадын,CyrillTrans,woman,,,gadɨn,Phonemic
+2-210-71-1,nort2697,Azerbaijani,1554,киши,CyrillTrans,man (vs. woman),,,kiši,Phonemic
+2-100-71-1,nort2697,Azerbaijani,683,адам,CyrillTrans,"person, human being",,,"adam, šæxs",Phonemic
+2-100-71-3,nort2697,Azerbaijani,683,шәхс,CyrillTrans,"person, human being",,,"adam, šæxs",Phonemic
+1-890-71-1,nort2697,Azerbaijani,1188,ағаҹ көмүрү,CyrillTrans,charcoal,,,aɣaǯ kömürü,Phonemic
+1-880-71-1,nort2697,Azerbaijani,10,одун,CyrillTrans,firewood,,,odun,Phonemic
+1-870-71-1,nort2697,Azerbaijani,1133,кибрит,CyrillTrans,match (noun),,,kibrit,Phonemic
+1-861-71-1,nort2697,Azerbaijani,127,сөндүрмәк,CyrillTrans,extinguish,,,söndürmæk,Phonemic
+1-860-71-1,nort2697,Azerbaijani,737,алышдырмаг,CyrillTrans,"light, kindle, ignite",,,alɨšdɨrmag,Phonemic
+1-852-71-1,nort2697,Azerbaijani,1428,јанмаг,CyrillTrans,burn (vb intrans),,,yanmag,Phonemic
+1-851-71-1,nort2697,Azerbaijani,141,јандырмаг,CyrillTrans,burn (vb trans),,,"yandɨrmag, odlamag",Phonemic
+1-851-71-3,nort2697,Azerbaijani,141,одламаг,CyrillTrans,burn (vb trans),,,"yandɨrmag, odlamag",Phonemic
+1-841-71-1,nort2697,Azerbaijani,67,гызғын көмүр,CyrillTrans,embers,,,gɨzɣɨn kömür,Phonemic
+1-840-71-1,nort2697,Azerbaijani,646,күл,CyrillTrans,ashes,,,kül,Phonemic
+1-830-71-1,nort2697,Azerbaijani,778,түстү,CyrillTrans,smoke (noun),,,tüstü,Phonemic
+1-820-71-1,nort2697,Azerbaijani,889,алов,CyrillTrans,flame (noun),,,alov,Phonemic
+1-810-71-1,nort2697,Azerbaijani,221,од,CyrillTrans,fire,,,od,Phonemic
+1-780-71-1,nort2697,Azerbaijani,952,һава,CyrillTrans,weather,,,hava,Phonemic
+1-770-71-1,nort2697,Azerbaijani,617,буз,CyrillTrans,ice,,,"buz, buz baɣlama",Phonemic
+1-770-71-3,nort2697,Azerbaijani,617,буз бағлама,CyrillTrans,ice,,,"buz, buz baɣlama",Phonemic
+1-760-71-1,nort2697,Azerbaijani,784,гар,CyrillTrans,snow (noun),,,gar,Phonemic
+1-750-71-1,nort2697,Azerbaijani,658,јағыш,CyrillTrans,rain (noun),,,yaɣɨš,Phonemic
+1-740-71-1,nort2697,Azerbaijani,249,думан,CyrillTrans,fog,,,"duman, sis",Phonemic
+1-740-71-3,nort2697,Azerbaijani,249,сис,CyrillTrans,fog,,,"duman, sis",Phonemic
+1-720-71-1,nort2697,Azerbaijani,960,күләк,CyrillTrans,wind,,,"külæk, yel",Phonemic
+1-720-71-3,nort2697,Azerbaijani,960,јел,CyrillTrans,wind,,,"külæk, yel",Phonemic
+1-730-71-1,nort2697,Azerbaijani,1489,булуд,CyrillTrans,cloud,,,"bulud, gara bulud",Phonemic
+1-730-71-3,nort2697,Azerbaijani,1489,гара булуд,CyrillTrans,cloud,,,"bulud, gara bulud",Phonemic
+1-710-71-1,nort2697,Azerbaijani,27,һава,CyrillTrans,air,,,hava,Phonemic
+1-640-71-1,nort2697,Azerbaijani,1977,шеһ,CyrillTrans,dew,,,"šeh, šæbnæm",Phonemic
+1-640-71-3,nort2697,Azerbaijani,1977,шәбнәм,CyrillTrans,dew,,,"šeh, šæbnæm",Phonemic
+1-630-71-1,nort2697,Azerbaijani,1388,көлҝә,CyrillTrans,"shade, shadow",,,kölgʲæ,Phonemic
+1-620-71-1,nort2697,Azerbaijani,11,гаранлыг,CyrillTrans,darkness,,,"garanlɨg, zülmæt",Phonemic
+1-620-71-3,nort2697,Azerbaijani,11,зүлмәт,CyrillTrans,darkness,,,"garanlɨg, zülmæt",Phonemic
+1-610-71-1,nort2697,Azerbaijani,630,ишыг,CyrillTrans,light (noun),,,"išɨg, nur",Phonemic
+1-610-71-3,nort2697,Azerbaijani,630,нур,CyrillTrans,light (noun),,,"išɨg, nur",Phonemic
+1-590-71-1,nort2697,Azerbaijani,1733,ҝөј гуршағы,CyrillTrans,rainbow,,,gʲöy guršaɣɨ,Phonemic
+1-580-71-1,nort2697,Azerbaijani,858,фыртына,CyrillTrans,storm,,,fɨrtɨna,Phonemic
+1-560-71-1,nort2697,Azerbaijani,1150,ҝөј ҝурултусу,CyrillTrans,thunder,,,gʲöy gʲurultusu,Phonemic
+1-570-71-1,nort2697,Azerbaijani,2007,шимшәк,CyrillTrans,lightning (as striking),,,šimšæk,Phonemic
+1-550-71-1,nort2697,Azerbaijani,1654,илдырым,CyrillTrans,lightning,,,ildɨrɨm,Phonemic
+1-540-71-1,nort2697,Azerbaijani,1430,улдуз,CyrillTrans,star,,,ulduz,Phonemic
+1-530-71-1,nort2697,Azerbaijani,1313,ај,CyrillTrans,moon,,,ay,Phonemic
+1-520-71-1,nort2697,Azerbaijani,1343,ҝүнәш,CyrillTrans,sun,,,"gʲünæš, kün",Phonemic
+1-520-71-3,nort2697,Azerbaijani,1343,күн,CyrillTrans,sun,,,"gʲünæš, kün",Phonemic
+1-510-71-1,nort2697,Azerbaijani,1732,ҝөј,CyrillTrans,sky,,,gʲöy,Phonemic
+1-450-71-1,nort2697,Azerbaijani,6,зәлзәлә,CyrillTrans,earthquake,,,zælzælæ,Phonemic
+1-440-71-1,nort2697,Azerbaijani,2125,даш,CyrillTrans,"stone, rock",,,"daš, gaya",Phonemic
+1-440-71-3,nort2697,Azerbaijani,2125,гаја,CyrillTrans,"stone, rock",,,"daš, gaya",Phonemic
+1-430-71-1,nort2697,Azerbaijani,1803,ағаҹ,CyrillTrans,wood,,,"aɣaǯ, odun",Phonemic
+1-430-71-3,nort2697,Azerbaijani,1803,одун,CyrillTrans,wood,,,"aɣaǯ, odun",Phonemic
+1-420-71-1,nort2697,Azerbaijani,906,ағаҹ,CyrillTrans,tree (cf 08.600),,,aɣaǯ,Phonemic
+1-410-71-1,nort2697,Azerbaijani,420,мешә,CyrillTrans,"woods, forest",,,mešæ,Phonemic
+1-390-71-1,nort2697,Azerbaijani,943,шәлалә,CyrillTrans,waterfall,,,šælalæ,Phonemic
+1-380-71-1,nort2697,Azerbaijani,1145,батаглыг,CyrillTrans,swamp,,,bataglɨg,Phonemic
+1-370-71-1,nort2697,Azerbaijani,2144,гајнаг,CyrillTrans,"spring, well",,,"gaynag, guyu",Phonemic
+1-370-71-3,nort2697,Azerbaijani,2144,гују,CyrillTrans,"spring, well",,,"gaynag, guyu",Phonemic
+1-362-71-1,nort2697,Azerbaijani,1982,ҝирдаб,CyrillTrans,whirlpool,,,"gʲirdab, burulɣan",Phonemic
+1-362-71-3,nort2697,Azerbaijani,1982,бурулған,CyrillTrans,whirlpool,,,"gʲirdab, burulɣan",Phonemic
+1-360-71-1,nort2697,Azerbaijani,666,чай,CyrillTrans,"river, stream, brook",,,"čay, sel",Phonemic
+1-360-71-3,nort2697,Azerbaijani,666,сел,CyrillTrans,"river, stream, brook",,,"čay, sel",Phonemic
+1-354-71-1,nort2697,Azerbaijani,613,ахым,CyrillTrans,hightide,,,axɨm,Phonemic
+1-353-71-1,nort2697,Azerbaijani,1026,чәкилмә,CyrillTrans,lowtide,,,čækilmæ,Phonemic
+1-352-71-1,nort2697,Azerbaijani,891,дәниз ахымы,CyrillTrans,tide,,,"dæniz axɨmɨ, yɨɣɨmɨ væ čækilmæ",Phonemic
+1-352-71-3,nort2697,Azerbaijani,891,јығымы вә чәкилмә,CyrillTrans,tide,,,"dæniz axɨmɨ, yɨɣɨmɨ væ čækilmæ",Phonemic
+1-350-71-1,nort2697,Azerbaijani,978,ләпә,CyrillTrans,wave,,,"læpæ, dalɣa",Phonemic
+1-350-71-3,nort2697,Azerbaijani,978,далға,CyrillTrans,wave,,,"læpæ, dalɣa",Phonemic
+1-343-71-1,nort2697,Azerbaijani,1662,бурун,CyrillTrans,"headland, point",,,burun,Phonemic
+1-342-71-1,nort2697,Azerbaijani,660,риф,CyrillTrans,reef,,,rif,Phonemic
+1-341-71-1,nort2697,Azerbaijani,623,лагун,CyrillTrans,lagoon,,,lagun,Phonemic
+1-340-71-1,nort2697,Azerbaijani,663,көрфәз,CyrillTrans,"gulf, bay",,,"körfæz, buxta (kičik körfæz)",Phonemic
+1-340-71-3,nort2697,Azerbaijani,663,бухта (кичик көрфәз),CyrillTrans,"gulf, bay",,,"körfæz, buxta (kičik körfæz)",Phonemic
+1-330-71-1,nort2697,Azerbaijani,624,ҝөл,CyrillTrans,lake,,,gʲöl,Phonemic
+1-329-71-1,nort2697,Azerbaijani,645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-71-1,nort2697,Azerbaijani,1768,көпүк,CyrillTrans,foam,,,köpük,Phonemic
+1-323-71-1,nort2697,Azerbaijani,259,ҹошгун,CyrillTrans,rough (of sea),,,ǯošgun,Phonemic
+1-320-71-1,nort2697,Azerbaijani,1474,дәниз,CyrillTrans,sea,,,dæniz,Phonemic
+1-322-71-1,nort2697,Azerbaijani,258,сакит (дәниз),CyrillTrans,calm (of sea),,,sakit (dæniz),Phonemic
+1-310-71-1,nort2697,Azerbaijani,948,су,CyrillTrans,water,,,su,Phonemic
+1-280-71-1,nort2697,Azerbaijani,1155,мағара,CyrillTrans,cave,,,"maɣara, kapa, zaɣa",Phonemic
+1-280-71-3,nort2697,Azerbaijani,1155,капа,CyrillTrans,cave,,,"maɣara, kapa, zaɣa",Phonemic
+1-280-71-5,nort2697,Azerbaijani,1155,заға,CyrillTrans,cave,,,"maɣara, kapa, zaɣa",Phonemic
+1-270-71-1,nort2697,Azerbaijani,113,ғырағи саһил,CyrillTrans,shore,,,ɣɨraɣi sahil,Phonemic
+1-260-71-1,nort2697,Azerbaijani,166,гитә,CyrillTrans,mainland,,,gitæ,Phonemic
+1-250-71-1,nort2697,Azerbaijani,622,ада,CyrillTrans,island,,,ada,Phonemic
+1-240-71-1,nort2697,Azerbaijani,921,вади,CyrillTrans,valley,,,vadi,Phonemic
+1-230-71-1,nort2697,Azerbaijani,652,дүзәнлик,CyrillTrans,"plain, field",,,"düzænlik, čöl",Phonemic
+1-230-71-3,nort2697,Azerbaijani,652,чөл,CyrillTrans,"plain, field",,,"düzænlik, čöl",Phonemic
+1-222-71-1,nort2697,Azerbaijani,618,гаја,CyrillTrans,"cliff, precipice",,,"gaya, sɨldɨrim",Phonemic
+1-222-71-3,nort2697,Azerbaijani,618,сылдырим,CyrillTrans,"cliff, precipice",,,"gaya, sɨldɨrim",Phonemic
+1-220-71-1,nort2697,Azerbaijani,2118,даг,CyrillTrans,"mountain, hill",,,"dag, tæpæ",Phonemic
+1-220-71-3,nort2697,Azerbaijani,2118,тәпә,CyrillTrans,"mountain, hill",,,"dag, tæpæ",Phonemic
+1-214-71-1,nort2697,Azerbaijani,640,палчыг,CyrillTrans,mud,,,palčɨg,Phonemic
+1-215-71-1,nort2697,Azerbaijani,671,гум,CyrillTrans,sand,,,gum,Phonemic
+1-213-71-1,nort2697,Azerbaijani,2,тоз,CyrillTrans,dust,,,toz,Phonemic
+1-212-71-1,nort2697,Azerbaijani,1228,торпаг,CyrillTrans,"earth=ground, soil",,,torpag,Phonemic
+1-210-71-1,nort2697,Azerbaijani,626,өлкә,CyrillTrans,"earth, land",,,ölkæ,Phonemic
+1-100-71-1,nort2697,Azerbaijani,965,дүнја,CyrillTrans,world,,,dünya,Phonemic
+14-330-71-1,nort2697,Azerbaijani,1544,бәʼзән,CyrillTrans,sometimes,,,bæʔzæn,Phonemic
+14-331-71-1,nort2697,Azerbaijani,703,тезликлә,CyrillTrans,soon,,,"tezliklæ, tez, ǯæld",Phonemic
+14-331-71-3,nort2697,Azerbaijani,703,тез,CyrillTrans,soon,,,"tezliklæ, tez, ǯæld",Phonemic
+14-331-71-5,nort2697,Azerbaijani,703,ҹәлд,CyrillTrans,soon,,,"tezliklæ, tez, ǯæld",Phonemic
+14-332-71-1,nort2697,Azerbaijani,418,узунмүддәтли,CyrillTrans,long-time (for a),,,uzunmüddætli,Phonemic
+14-340-71-1,nort2697,Azerbaijani,1656,һеч вахт,CyrillTrans,never,,,heč vaxt,Phonemic
+14-350-71-1,nort2697,Azerbaijani,204,јенә,CyrillTrans,again,,,"yenæ, yenidæn",Phonemic
+14-350-71-3,nort2697,Azerbaijani,204,јенидән,CyrillTrans,again,,,"yenæ, yenidæn",Phonemic
+14-410-71-1,nort2697,Azerbaijani,1225,ҝүндүз,CyrillTrans,day,,,"gʲündüz, gʲün",Phonemic
+14-410-71-3,nort2697,Azerbaijani,1225,ҝүн,CyrillTrans,day,,,"gʲündüz, gʲün",Phonemic
+14-420-71-1,nort2697,Azerbaijani,1233,ҝеҹә,CyrillTrans,night,,,gʲeǯæ,Phonemic
+14-430-71-1,nort2697,Azerbaijani,729,шәфәг,CyrillTrans,dawn,,,šæfæg,Phonemic
+14-440-71-1,nort2697,Azerbaijani,1339,сәһәр,CyrillTrans,morning,,,sæhær,Phonemic
+14-450-71-1,nort2697,Azerbaijani,12,ҝүнорта,CyrillTrans,"noon, midday",,,gʲünorta,Phonemic
+14-451-71-1,nort2697,Azerbaijani,1807,ҝүнортадан солра,CyrillTrans,afternoon,,,gʲünortadan solra,Phonemic
+14-460-71-1,nort2697,Azerbaijani,1629,ахшам,CyrillTrans,evening,,,axšam,Phonemic
+14-470-71-1,nort2697,Azerbaijani,1283,бу ҝүн,CyrillTrans,today,,,bu gʲün,Phonemic
+14-480-71-1,nort2697,Azerbaijani,1329,сабаһ,CyrillTrans,tomorrow,,,sabah,Phonemic
+14-481-71-1,nort2697,Azerbaijani,1179,бириси ҝүн,CyrillTrans,day-after-tomorrow,,,birisi gʲün,Phonemic
+14-490-71-1,nort2697,Azerbaijani,1174,дүнән,CyrillTrans,yesterday,,,dünæn,Phonemic
+14-491-71-1,nort2697,Azerbaijani,1180,сыраға ҝүн,CyrillTrans,day-before-yesterday,,,sɨraɣa gʲün,Phonemic
+14-510-71-1,nort2697,Azerbaijani,1353,саат,CyrillTrans,hour,,,"saʔat, vaxt",Phonemic
+14-510-71-3,nort2697,Azerbaijani,1353,вахт,CyrillTrans,hour,,,"saʔat, vaxt",Phonemic
+14-530-71-1,nort2697,Azerbaijani,1323,саат,CyrillTrans,"clock, timepiece",,,saʔat,Phonemic
+14-610-71-1,nort2697,Azerbaijani,1469,һәфтә,CyrillTrans,week,,,hæftæ,Phonemic
+14-620-71-1,nort2697,Azerbaijani,1699,базар ҝүнү,CyrillTrans,Sunday,,,bazar gʲünü,Phonemic
+14-630-71-1,nort2697,Azerbaijani,1697,базарертәси,CyrillTrans,Monday,,,bazarertæsi,Phonemic
+14-640-71-1,nort2697,Azerbaijani,1695,чәршәнбә ахшамы,CyrillTrans,Tuesday,,,čæršænbæ axšamɨ,Phonemic
+14-650-71-1,nort2697,Azerbaijani,1694,чәршәнбә,CyrillTrans,Wednesday,,,čæršænbæ,Phonemic
+14-660-71-1,nort2697,Azerbaijani,1693,ҹүмә ахшамы,CyrillTrans,Thursday,,,ǯümæ axšamɨ,Phonemic
+14-670-71-1,nort2697,Azerbaijani,1692,ҹүмә,CyrillTrans,Friday,,,ǯümæ,Phonemic
+14-680-71-1,nort2697,Azerbaijani,1700,шәнбә,CyrillTrans,Saturday,,,šænbæ,Phonemic
+14-710-71-1,nort2697,Azerbaijani,1370,ај,CyrillTrans,month,,,ay,Phonemic
+14-730-71-1,nort2697,Azerbaijani,1226,ил,CyrillTrans,year,,,il,Phonemic
+14-740-71-1,nort2697,Azerbaijani,1471,гыш,CyrillTrans,winter,,,gɨš,Phonemic
+14-750-71-1,nort2697,Azerbaijani,1537,баһар,CyrillTrans,spring,,,bahar,Phonemic
+14-760-71-1,nort2697,Azerbaijani,1342,јај,CyrillTrans,summer,,,yay,Phonemic
+14-770-71-1,nort2697,Azerbaijani,1276,пајыз,CyrillTrans,autumn,,,payɨz,Phonemic
+14-780-71-1,nort2697,Azerbaijani,691,илин фәсилләри,CyrillTrans,season,,,ilin fæsillæri,Phonemic
+15-210-71-1,nort2697,Azerbaijani,1587,гохумаг,CyrillTrans,smell (vb intrans),,,goxumag,Phonemic
+15-212-71-1,nort2697,Azerbaijani,375,фысылдамаг,CyrillTrans,sniff,,,fɨsɨldamag,Phonemic
+15-220-71-1,nort2697,Azerbaijani,1586,ијләмәк,CyrillTrans,smell (vb trans),,,iylæmæk,Phonemic
+15-250-71-1,nort2697,Azerbaijani,376,әтир,CyrillTrans,"fragrant, good smelling",,,"ætir, xoš iy",Phonemic
+15-250-71-3,nort2697,Azerbaijani,376,хош иј,CyrillTrans,"fragrant, good smelling",,,"ætir, xoš iy",Phonemic
+15-260-71-1,nort2697,Azerbaijani,42,пис иј,CyrillTrans,"stinking, bad smelling",,,"pis iy, üfunæt",Phonemic
+15-260-71-3,nort2697,Azerbaijani,42,үфунәт,CyrillTrans,"stinking, bad smelling",,,"pis iy, üfunæt",Phonemic
+15-310-71-1,nort2697,Azerbaijani,21,дад,CyrillTrans,taste,,,dad,Phonemic
+15-350-71-1,nort2697,Azerbaijani,717,ширин,CyrillTrans,sweet,,,širin,Phonemic
+15-360-71-1,nort2697,Azerbaijani,1091,дузлу,CyrillTrans,salty,,,duzlu,Phonemic
+15-370-71-1,nort2697,Azerbaijani,887,аҹы,CyrillTrans,bitter,,,aǯɨ,Phonemic
+15-380-71-1,nort2697,Azerbaijani,1906,турш,CyrillTrans,"acid, sour",,,turš,Phonemic
+15-390-71-1,nort2697,Azerbaijani,70,шор,CyrillTrans,brackish,,,šor,Phonemic
+15-410-71-1,nort2697,Azerbaijani,1408,ешитмәк,CyrillTrans,hear,,,ešitmæk,Phonemic
+15-420-71-1,nort2697,Azerbaijani,1608,гулаг асмаг,CyrillTrans,listen,,,gulag asmag,Phonemic
+15-440-71-1,nort2697,Azerbaijani,1811,сәс,CyrillTrans,"sound, noise",,,sæs,Phonemic
+15-450-71-1,nort2697,Azerbaijani,377,бәрк,CyrillTrans,loud,,,"bærk, uǯa",Phonemic
+15-450-71-3,nort2697,Azerbaijani,377,уҹа,CyrillTrans,loud,,,"bærk, uǯa",Phonemic
+15-460-71-1,nort2697,Azerbaijani,1314,раһат,CyrillTrans,"quiet, silence",,,"rahat, sakit",Phonemic
+15-460-71-3,nort2697,Azerbaijani,1314,сакит,CyrillTrans,"quiet, silence",,,"rahat, sakit",Phonemic
+15-510-71-1,nort2697,Azerbaijani,1409,ҝөрмәк,CyrillTrans,see,,,gʲörmæk,Phonemic
+15-520-71-1,nort2697,Azerbaijani,1819,бахмаг,CyrillTrans,"look, look at",,,baxmag,Phonemic
+15-550-71-1,nort2697,Azerbaijani,1039,ҝөстәрмәк,CyrillTrans,show,,,gʲöstærmæk,Phonemic
+15-560-71-1,nort2697,Azerbaijani,708,ишыгланмаг,CyrillTrans,shine,,,išɨglanmag,Phonemic
+15-570-71-1,nort2697,Azerbaijani,679,парлаг,CyrillTrans,bright,,,parlag,Phonemic
+15-610-71-1,nort2697,Azerbaijani,1613,рәнҝ,CyrillTrans,color,,,rængʲ,Phonemic
+15-620-71-1,nort2697,Azerbaijani,250,ишыглы,CyrillTrans,light (in color),,,išɨglɨ,Phonemic
+15-630-71-1,nort2697,Azerbaijani,706,гаранлыг,CyrillTrans,dark (in color),,,"garanlɨg, tünd",Phonemic
+15-630-71-3,nort2697,Azerbaijani,706,түнд,CyrillTrans,dark (in color),,,"garanlɨg, tünd",Phonemic
+15-640-71-1,nort2697,Azerbaijani,1335,ағ,CyrillTrans,white,,,aɣ,Phonemic
+15-650-71-1,nort2697,Azerbaijani,163,гара,CyrillTrans,black,,,gara,Phonemic
+15-660-71-1,nort2697,Azerbaijani,156,гырмызы,CyrillTrans,red,,,gɨrmɨzɨ,Phonemic
+15-670-71-1,nort2697,Azerbaijani,837,ҝөј,CyrillTrans,blue,,,"gʲöy, mavi",Phonemic
+15-670-71-3,nort2697,Azerbaijani,837,мави,CyrillTrans,blue,,,"gʲöy, mavi",Phonemic
+15-680-71-1,nort2697,Azerbaijani,1425,јашыл,CyrillTrans,green,,,yašɨl,Phonemic
+15-690-71-1,nort2697,Azerbaijani,1424,сары,CyrillTrans,yellow,,,sarɨ,Phonemic
+15-710-71-1,nort2697,Azerbaijani,1892,дәјмәк,CyrillTrans,touch,,,"dæymæk, toxunmag",Phonemic
+15-710-71-3,nort2697,Azerbaijani,1892,тохунмаг,CyrillTrans,touch,,,"dæymæk, toxunmag",Phonemic
+15-712-71-1,nort2697,Azerbaijani,378,чимдикләмәк,CyrillTrans,pinch,,,"čimdiklæmæk, sɨxmag",Phonemic
+15-712-71-3,nort2697,Azerbaijani,378,сыхмаг,CyrillTrans,pinch,,,"čimdiklæmæk, sɨxmag",Phonemic
+15-720-71-1,nort2697,Azerbaijani,1079,һисс етмәк,CyrillTrans,feel,,,hiss etmæk,Phonemic
+15-740-71-1,nort2697,Azerbaijani,1884,бәрк,CyrillTrans,hard,,,"bærk, sært",Phonemic
+15-740-71-3,nort2697,Azerbaijani,1884,сәрт,CyrillTrans,hard,,,"bærk, sært",Phonemic
+15-750-71-1,nort2697,Azerbaijani,1856,јумшаг,CyrillTrans,soft,,,"yumšag, mülayim",Phonemic
+15-750-71-3,nort2697,Azerbaijani,1856,мүлајим,CyrillTrans,soft,,,"yumšag, mülayim",Phonemic
+15-760-71-1,nort2697,Azerbaijani,1923,кобут,CyrillTrans,rough,,,kobut,Phonemic
+15-770-71-1,nort2697,Azerbaijani,1234,һамар,CyrillTrans,smooth,,,"hamar, düz",Phonemic
+15-770-71-3,nort2697,Azerbaijani,1234,дүз,CyrillTrans,smooth,,,"hamar, düz",Phonemic
+15-780-71-1,nort2697,Azerbaijani,1396,ити,CyrillTrans,sharp,,,iti,Phonemic
+15-790-71-1,nort2697,Azerbaijani,379,күт,CyrillTrans,"blunt, dull",,,küt,Phonemic
+15-810-71-1,nort2697,Azerbaijani,1210,ағыр,CyrillTrans,heavy,,,aɣɨr,Phonemic
+15-820-71-1,nort2697,Azerbaijani,1052,јүнҝүл,CyrillTrans,light (in weight),,,yüngʲül,Phonemic
+15-830-71-1,nort2697,Azerbaijani,1726,јаш,CyrillTrans,"wet, damp",,,"yaš, islag",Phonemic
+15-830-71-3,nort2697,Azerbaijani,1726,ислаг,CyrillTrans,"wet, damp",,,"yaš, islag",Phonemic
+15-840-71-1,nort2697,Azerbaijani,1398,гуру,CyrillTrans,dry,,,guru,Phonemic
+15-850-71-1,nort2697,Azerbaijani,1286,исти,CyrillTrans,hot,,,"isti, gaynar",Phonemic
+15-850-71-3,nort2697,Azerbaijani,1286,гајнар,CyrillTrans,hot,,,"isti, gaynar",Phonemic
+15-851-71-1,nort2697,Azerbaijani,1232,исти,CyrillTrans,warm,,,"isti, ilɨg",Phonemic
+15-851-71-3,nort2697,Azerbaijani,1232,илыг,CyrillTrans,warm,,,"isti, ilɨg",Phonemic
+15-860-71-1,nort2697,Azerbaijani,1287,сојуг,CyrillTrans,cold,,,soyug,Phonemic
+15-870-71-1,nort2697,Azerbaijani,704,тәмиз,CyrillTrans,clean,,,tæmiz,Phonemic
+15-880-71-1,nort2697,Azerbaijani,1230,чиркли,CyrillTrans,"dirty, soiled",,,"čirkli, palčɨglɨ",Phonemic
+15-880-71-3,nort2697,Azerbaijani,1230,палчыглы,CyrillTrans,"dirty, soiled",,,"čirkli, palčɨglɨ",Phonemic
+15-890-71-1,nort2697,Azerbaijani,380,әзилмиш,CyrillTrans,wrinkled,,,"æzilmiš, yɨɣɨlmɨš",Phonemic
+15-890-71-3,nort2697,Azerbaijani,380,јығылмыш,CyrillTrans,wrinkled,,,"æzilmiš, yɨɣɨlmɨš",Phonemic
+16-110-71-1,nort2697,Azerbaijani,53,руһ,CyrillTrans,"soul, spirit",,,"ruh, ǯan",Phonemic
+16-110-71-3,nort2697,Azerbaijani,53,ҹан,CyrillTrans,"soul, spirit",,,"ruh, ǯan",Phonemic
+16-150-71-1,nort2697,Azerbaijani,1572,тәәҹүбләндирилмиш,CyrillTrans,"surprised, astonished",,,"tæʔæǯüblændirilmiš, tæʔæǯblü gæribælik",Phonemic
+16-150-71-3,nort2697,Azerbaijani,1572,тәәҹблү гәрибәлик,CyrillTrans,"surprised, astonished",,,"tæʔæǯüblændirilmiš, tæʔæǯblü gæribælik",Phonemic
+16-180-71-1,nort2697,Azerbaijani,720,уғур,CyrillTrans,"good fortune, luck",,,"uɣur, müvæffægiyyæt",Phonemic
+16-180-71-3,nort2697,Azerbaijani,720,мүвәффәгијјәт,CyrillTrans,"good fortune, luck",,,"uɣur, müvæffægiyyæt",Phonemic
+16-190-71-1,nort2697,Azerbaijani,56,уғурсузлуг,CyrillTrans,"misfortune, bad luck",,,uɣursuzlug,Phonemic
+16-230-71-1,nort2697,Azerbaijani,1495,бәхтли,CyrillTrans,"joyful, glad, happy",,,"bæxtli, sevinɣli, færæhli",Phonemic
+16-230-71-3,nort2697,Azerbaijani,1495,севинғли,CyrillTrans,"joyful, glad, happy",,,"bæxtli, sevinɣli, færæhli",Phonemic
+16-230-71-5,nort2697,Azerbaijani,1495,фәрәһли,CyrillTrans,"joyful, glad, happy",,,"bæxtli, sevinɣli, færæhli",Phonemic
+16-250-71-1,nort2697,Azerbaijani,1355,ҝүлмәк,CyrillTrans,laugh,,,gʲülmæk,Phonemic
+16-251-71-1,nort2697,Azerbaijani,1451,ҝүлүмсәмәк,CyrillTrans,smile,,,gʲülümsæmæk,Phonemic
+16-260-71-1,nort2697,Azerbaijani,1413,ојнамаг,CyrillTrans,play,,,oynamag,Phonemic
+16-270-71-1,nort2697,Azerbaijani,923,севмәк,CyrillTrans,love,,,sevmæk,Phonemic
+16-290-71-1,nort2697,Azerbaijani,578,өпмәк,CyrillTrans,kiss,,,öpmæk,Phonemic
+16-300-71-1,nort2697,Azerbaijani,928,гуҹагламаг,CyrillTrans,embrace,,,guǯaglamag,Phonemic
+16-310-71-1,nort2697,Azerbaijani,1783,ағры,CyrillTrans,pain,,,aɣrɨ,Phonemic
+16-320-71-1,nort2697,Azerbaijani,1668,гәм,CyrillTrans,"grief, sorrow, sadness",,,"gæm, güssæ",Phonemic
+16-320-71-3,nort2697,Azerbaijani,1668,гүссә,CyrillTrans,"grief, sorrow, sadness",,,"gæm, güssæ",Phonemic
+16-330-71-1,nort2697,Azerbaijani,1000,тәһлүкә,CyrillTrans,"anxiety, worry",,,"tæhlükæ, hæyæǯan",Phonemic
+16-330-71-3,nort2697,Azerbaijani,1000,һәјәҹан,CyrillTrans,"anxiety, worry",,,"tæhlükæ, hæyæǯan",Phonemic
+16-340-71-1,nort2697,Azerbaijani,1875,тәәссүф етмәк,CyrillTrans,"regret, be sorry",,,"tæʔæssüf etmæk, heyifslænmæk",Phonemic
+16-340-71-3,nort2697,Azerbaijani,1875,һејифсләнмәк,CyrillTrans,"regret, be sorry",,,"tæʔæssüf etmæk, heyifslænmæk",Phonemic
+16-350-71-1,nort2697,Azerbaijani,1141,рәһм,CyrillTrans,pity,,,"ræhm, šæfgæt",Phonemic
+16-350-71-3,nort2697,Azerbaijani,1141,шәфгәт,CyrillTrans,pity,,,"ræhm, šæfgæt",Phonemic
+16-370-71-1,nort2697,Azerbaijani,1839,ағламаг,CyrillTrans,"cry, weep",,,"aɣlamag, hɨčgɨrmag",Phonemic
+16-370-71-3,nort2697,Azerbaijani,1839,һычгырмаг,CyrillTrans,"cry, weep",,,"aɣlamag, hɨčgɨrmag",Phonemic
+16-380-71-1,nort2697,Azerbaijani,1651,ҝөз јашы,CyrillTrans,tear (noun),,,gʲöz yašɨ,Phonemic
+16-390-71-1,nort2697,Azerbaijani,716,инилдәмәк,CyrillTrans,groan,,,"inildæmæk, zarɨldamag",Phonemic
+16-390-71-3,nort2697,Azerbaijani,716,зарылдамаг,CyrillTrans,groan,,,"inildæmæk, zarɨldamag",Phonemic
+16-410-71-1,nort2697,Azerbaijani,1607,нифрәт етмәк,CyrillTrans,hate,,,nifræt etmæk,Phonemic
+16-420-71-1,nort2697,Azerbaijani,82,гәзәб,CyrillTrans,anger,,,"gæzæb, aǯɨg, hirs",Phonemic
+16-420-71-3,nort2697,Azerbaijani,82,аҹыг,CyrillTrans,anger,,,"gæzæb, aǯɨg, hirs",Phonemic
+16-420-71-5,nort2697,Azerbaijani,82,һирс,CyrillTrans,anger,,,"gæzæb, aǯɨg, hirs",Phonemic
+16-440-71-1,nort2697,Azerbaijani,40,пахыллыг,CyrillTrans,"envy, jealousy",,,"paxɨllɨg, gɨzganǯlɨg",Phonemic
+16-440-71-3,nort2697,Azerbaijani,40,гызганҹлыг,CyrillTrans,"envy, jealousy",,,"paxɨllɨg, gɨzganǯlɨg",Phonemic
+16-450-71-1,nort2697,Azerbaijani,1776,һәја,CyrillTrans,shame (noun),,,"hæya, abɨr, namus",Phonemic
+16-450-71-3,nort2697,Azerbaijani,1776,абыр,CyrillTrans,shame (noun),,,"hæya, abɨr, namus",Phonemic
+16-450-71-5,nort2697,Azerbaijani,1776,намус,CyrillTrans,shame (noun),,,"hæya, abɨr, namus",Phonemic
+16-480-71-1,nort2697,Azerbaijani,174,мәғрур,CyrillTrans,proud,,,"mæɣrur, vügarlɨ",Phonemic
+16-480-71-3,nort2697,Azerbaijani,174,вүгарлы,CyrillTrans,proud,,,"mæɣrur, vügarlɨ",Phonemic
+16-510-71-1,nort2697,Azerbaijani,1779,гачаг,CyrillTrans,dare,,,"gačag, igʲid",Phonemic
+16-510-71-3,nort2697,Azerbaijani,1779,иҝид,CyrillTrans,dare,,,"gačag, igʲid",Phonemic
+16-520-71-1,nort2697,Azerbaijani,3,ҹәсарәтли,CyrillTrans,brave,,,ǯæsarætli,Phonemic
+16-530-71-1,nort2697,Azerbaijani,781,горху,CyrillTrans,"fear, fright",,,gorxu,Phonemic
+16-540-71-1,nort2697,Azerbaijani,1810,тәһлүкә,CyrillTrans,danger,,,"tæhlükæ, gorxu",Phonemic
+16-540-71-3,nort2697,Azerbaijani,1810,горху,CyrillTrans,danger,,,"tæhlükæ, gorxu",Phonemic
+16-620-71-1,nort2697,Azerbaijani,1784,арзу,CyrillTrans,"desire, want",,,arzu,Phonemic
+16-622-71-1,nort2697,Azerbaijani,1750,сечмәк,CyrillTrans,choose,,,"sečmæk, ayɨrmag",Phonemic
+16-622-71-3,nort2697,Azerbaijani,1750,ајырмаг,CyrillTrans,choose,,,"sečmæk, ayɨrmag",Phonemic
+16-630-71-1,nort2697,Azerbaijani,1092,архајын олмаг,CyrillTrans,hope,,,arxayɨn olmag,Phonemic
+16-650-71-1,nort2697,Azerbaijani,100,садиг,CyrillTrans,faithful,,,"sadig, düzgʲün, sædagætli",Phonemic
+16-650-71-3,nort2697,Azerbaijani,100,дүзҝүн,CyrillTrans,faithful,,,"sadig, düzgʲün, sædagætli",Phonemic
+16-650-71-5,nort2697,Azerbaijani,100,сәдагәтли,CyrillTrans,faithful,,,"sadig, düzgʲün, sædagætli",Phonemic
+16-660-71-1,nort2697,Azerbaijani,1657,индики,CyrillTrans,true,,,"indiki, tam",Phonemic
+16-660-71-3,nort2697,Azerbaijani,1657,там,CyrillTrans,true,,,"indiki, tam",Phonemic
+16-670-71-1,nort2697,Azerbaijani,601,јалан данышмаг,CyrillTrans,"lie, tell lies",,,yalan danɨšmag,Phonemic
+16-680-71-1,nort2697,Azerbaijani,13,алдатмаг,CyrillTrans,deceit,,,aldatmag,Phonemic
+16-690-71-1,nort2697,Azerbaijani,1528,бағышламаг,CyrillTrans,forgive,,,baɣɨšlamag,Phonemic
+16-710-71-1,nort2697,Azerbaijani,1035,јахшы,CyrillTrans,good,,,yaxšɨ,Phonemic
+16-720-71-1,nort2697,Azerbaijani,1292,пис,CyrillTrans,bad,,,pis,Phonemic
+16-730-71-1,nort2697,Azerbaijani,1725,дүз,CyrillTrans,"right, correct",,,düz,Phonemic
+16-740-71-1,nort2697,Azerbaijani,1390,дүзҝүн олмајан,CyrillTrans,wrong,,,"düzgʲün olmayan, yanlɨš",Phonemic
+16-740-71-3,nort2697,Azerbaijani,1390,јанлыш,CyrillTrans,wrong,,,"düzgʲün olmayan, yanlɨš",Phonemic
+16-760-71-1,nort2697,Azerbaijani,134,ҝүнаһ,CyrillTrans,fault,,,"gʲünah, xata, tægsir",Phonemic
+16-760-71-3,nort2697,Azerbaijani,134,хата,CyrillTrans,fault,,,"gʲünah, xata, tægsir",Phonemic
+16-760-71-5,nort2697,Azerbaijani,134,тәгсир,CyrillTrans,fault,,,"gʲünah, xata, tægsir",Phonemic
+16-770-71-1,nort2697,Azerbaijani,1293,сәһф,CyrillTrans,"mistake, error",,,"sæhf, xata",Phonemic
+16-770-71-3,nort2697,Azerbaijani,1293,хата,CyrillTrans,"mistake, error",,,"sæhf, xata",Phonemic
+16-780-71-1,nort2697,Azerbaijani,381,тәгсирләндирмәк,CyrillTrans,blame,,,tægsirlændirmæk,Phonemic
+16-790-71-1,nort2697,Azerbaijani,1687,тәрифләмәк,CyrillTrans,praise,,,tæriflæmæk,Phonemic
+16-810-71-1,nort2697,Azerbaijani,1427,ҝөзәл,CyrillTrans,beautiful,,,"gʲözæl, gæšængʲ",Phonemic
+16-810-71-3,nort2697,Azerbaijani,1427,гәшәнҝ,CyrillTrans,beautiful,,,"gʲözæl, gæšængʲ",Phonemic
+16-820-71-1,nort2697,Azerbaijani,1548,ејбәҹәр,CyrillTrans,ugly,,,eybæǯær,Phonemic
+16-830-71-1,nort2697,Azerbaijani,2018,симиҹ,CyrillTrans,greedy,,,"simiǯ, tamahkar",Phonemic
+16-830-71-3,nort2697,Azerbaijani,2018,тамаһкар,CyrillTrans,greedy,,,"simiǯ, tamahkar",Phonemic
+16-840-71-1,nort2697,Azerbaijani,1310,ағыллы,CyrillTrans,clever,,,"aɣɨllɨ, zækalɨ",Phonemic
+16-840-71-3,nort2697,Azerbaijani,1310,зәкалы,CyrillTrans,clever,,,"aɣɨllɨ, zækalɨ",Phonemic
+17-110-71-1,nort2697,Azerbaijani,1562,ағыл,CyrillTrans,mind,,,"aɣɨl, dærrakæ",Phonemic
+17-110-71-3,nort2697,Azerbaijani,1562,дәрракә,CyrillTrans,mind,,,"aɣɨl, dærrakæ",Phonemic
+17-130-71-1,nort2697,Azerbaijani,1415,дүшүнмәк,CyrillTrans,think (= reflect),,,düšünmæk,Phonemic
+17-140-71-1,nort2697,Azerbaijani,1513,фикирләшмәк,CyrillTrans,think (= be of the opinion),,,"fikirlæšmæk, saymag, hesab etmæk",Phonemic
+17-140-71-3,nort2697,Azerbaijani,1513,сајмаг,CyrillTrans,think (= be of the opinion),,,"fikirlæšmæk, saymag, hesab etmæk",Phonemic
+17-140-71-5,nort2697,Azerbaijani,1513,һесаб етмәк,CyrillTrans,think (= be of the opinion),,,"fikirlæšmæk, saymag, hesab etmæk",Phonemic
+17-150-71-1,nort2697,Azerbaijani,1890,инанмаг,CyrillTrans,believe,,,"inanmag, ye tibar etmæk",Phonemic
+17-150-71-3,nort2697,Azerbaijani,1890,е тибар етмәк,CyrillTrans,believe,,,"inanmag, ye tibar etmæk",Phonemic
+17-160-71-1,nort2697,Azerbaijani,1536,анламаг,CyrillTrans,understand,,,"anlamag, ganmag, baša düšmæk",Phonemic
+17-160-71-3,nort2697,Azerbaijani,1536,ганмаг,CyrillTrans,understand,,,"anlamag, ganmag, baša düšmæk",Phonemic
+17-160-71-5,nort2697,Azerbaijani,1536,баша дүшмәк,CyrillTrans,understand,,,"anlamag, ganmag, baša düšmæk",Phonemic
+17-170-71-1,nort2697,Azerbaijani,1410,билмәк,CyrillTrans,know,,,"bilmæk, tanɨmag",Phonemic
+17-170-71-3,nort2697,Azerbaijani,1410,танымаг,CyrillTrans,know,,,"bilmæk, tanɨmag",Phonemic
+17-171-71-1,nort2697,Azerbaijani,1932,ҝүман етмәк,CyrillTrans,guess,,,gʲüman etmæk,Phonemic
+17-172-71-1,nort2697,Azerbaijani,117,охшатмаг,CyrillTrans,imitate,,,"oxšatmag, bænzætmæk",Phonemic
+17-172-71-3,nort2697,Azerbaijani,117,бәнзәтмәк,CyrillTrans,imitate,,,"oxšatmag, bænzætmæk",Phonemic
+17-180-71-1,nort2697,Azerbaijani,1521,ҝөрсәнмәк,CyrillTrans,seem,,,"gʲörsænmæk, gʲörünmæk",Phonemic
+17-180-71-3,nort2697,Azerbaijani,1521,ҝөрүнмәк,CyrillTrans,seem,,,"gʲörsænmæk, gʲörünmæk",Phonemic
+17-190-71-1,nort2697,Azerbaijani,1609,идеја,CyrillTrans,"idea, notion",,,"ideya, ægidæ, anlayɨš",Phonemic
+17-190-71-3,nort2697,Azerbaijani,1609,әгидә,CyrillTrans,"idea, notion",,,"ideya, ægidæ, anlayɨš",Phonemic
+17-190-71-5,nort2697,Azerbaijani,1609,анлајыш,CyrillTrans,"idea, notion",,,"ideya, ægidæ, anlayɨš",Phonemic
+17-210-71-1,nort2697,Azerbaijani,698,мүдрик,CyrillTrans,wise,,,"müdrik, alim",Phonemic
+17-210-71-3,nort2697,Azerbaijani,698,алим,CyrillTrans,wise,,,"müdrik, alim",Phonemic
+17-220-71-1,nort2697,Azerbaijani,1518,сарсаг,CyrillTrans,"foolish, stupid",,,"sarsag, gʲiǯ",Phonemic
+17-220-71-3,nort2697,Azerbaijani,1518,ҝиҹ,CyrillTrans,"foolish, stupid",,,"sarsag, gʲiǯ",Phonemic
+17-230-71-1,nort2697,Azerbaijani,1899,дәли,CyrillTrans,"insane, crazy",,,"dæli, aɣɨlsɨz",Phonemic
+17-230-71-3,nort2697,Azerbaijani,1899,ағылсыз,CyrillTrans,"insane, crazy",,,"dæli, aɣɨlsɨz",Phonemic
+17-240-71-1,nort2697,Azerbaijani,504,танымаг,CyrillTrans,learn,,,"tanɨmag, öyrænmæk",Phonemic
+17-240-71-3,nort2697,Azerbaijani,504,өјрәнмәк,CyrillTrans,learn,,,"tanɨmag, öyrænmæk",Phonemic
+17-242-71-1,nort2697,Azerbaijani,1929,өјрәнмәк,CyrillTrans,study,,,öyrænmæk,Phonemic
+17-250-71-1,nort2697,Azerbaijani,709,өјрәтмәк,CyrillTrans,teach,,,öyrætmæk,Phonemic
+17-260-71-1,nort2697,Azerbaijani,753,шаҝирд,CyrillTrans,pupil,,,šagʲird,Phonemic
+17-270-71-1,nort2697,Azerbaijani,1038,мүәллим,CyrillTrans,teacher,,,müællim,Phonemic
+17-280-71-1,nort2697,Azerbaijani,673,мәктәб,CyrillTrans,school,,,mæktæb,Phonemic
+17-310-71-1,nort2697,Azerbaijani,707,јадда сахламаг,CyrillTrans,remember,,,yadda saxlamag,Phonemic
+17-320-71-1,nort2697,Azerbaijani,1523,унутмаг,CyrillTrans,forget,,,unutmag,Phonemic
+17-340-71-1,nort2697,Azerbaijani,989,ајдын,CyrillTrans,"clear, plain",,,aydɨn,Phonemic
+17-350-71-1,nort2697,Azerbaijani,1764,анлашылмајан,CyrillTrans,obscure,,,anlašɨlmayan,Phonemic
+17-360-71-1,nort2697,Azerbaijani,1121,сирр,CyrillTrans,secret,,,sirr,Phonemic
+17-370-71-1,nort2697,Azerbaijani,509,инандырылмыш,CyrillTrans,"sure, certain",,,inandɨrɨlmɨš,Phonemic
+17-380-71-1,nort2697,Azerbaijani,1626,анлатмаг,CyrillTrans,explain,,,"anlatmag, izah etmæk",Phonemic
+17-380-71-3,nort2697,Azerbaijani,1626,изаһ етмәк,CyrillTrans,explain,,,"anlatmag, izah etmæk",Phonemic
+17-410-71-1,nort2697,Azerbaijani,1162,нијјәт,CyrillTrans,"intention, purpose",,,"niyyæt, mægsæd, hædæf",Phonemic
+17-410-71-3,nort2697,Azerbaijani,1162,мәгсәд,CyrillTrans,"intention, purpose",,,"niyyæt, mægsæd, hædæf",Phonemic
+17-410-71-5,nort2697,Azerbaijani,1162,һәдәф,CyrillTrans,"intention, purpose",,,"niyyæt, mægsæd, hædæf",Phonemic
+17-420-71-1,nort2697,Azerbaijani,860,сәбәб,CyrillTrans,cause,,,sæbæb,Phonemic
+17-430-71-1,nort2697,Azerbaijani,1308,шүбһә,CyrillTrans,doubt,,,šübhæ,Phonemic
+17-440-71-1,nort2697,Azerbaijani,1841,шүбһәләнмәк,CyrillTrans,suspect,,,šübhælænmæk,Phonemic
+17-441-71-1,nort2697,Azerbaijani,1902,хәјанәт етмәк,CyrillTrans,betray,,,"xæyanæt etmæk, satmag",Phonemic
+17-441-71-3,nort2697,Azerbaijani,1902,сатмаг,CyrillTrans,betray,,,"xæyanæt etmæk, satmag",Phonemic
+17-450-71-1,nort2697,Azerbaijani,643,лүзум,CyrillTrans,"need, necessity",,,"lüzum, ehtiyaǯ",Phonemic
+17-450-71-3,nort2697,Azerbaijani,643,еһтијаҹ,CyrillTrans,"need, necessity",,,"lüzum, ehtiyaǯ",Phonemic
+17-460-71-1,nort2697,Azerbaijani,686,асан,CyrillTrans,easy,,,"asan, yüngʲül",Phonemic
+17-460-71-3,nort2697,Azerbaijani,686,јүнҝүл,CyrillTrans,easy,,,"asan, yüngʲül",Phonemic
+17-470-71-1,nort2697,Azerbaijani,584,чәтин,CyrillTrans,difficult,,,čætin,Phonemic
+17-480-71-1,nort2697,Azerbaijani,1812,чалышмаг,CyrillTrans,"try, attempt",,,čalɨšmag,Phonemic
+17-490-71-1,nort2697,Azerbaijani,488,үсул,CyrillTrans,"way, manner",,,"üsul, gayda",Phonemic
+17-490-71-3,nort2697,Azerbaijani,488,гајда,CyrillTrans,"way, manner",,,"üsul, gayda",Phonemic
+17-510-71-1,nort2697,Azerbaijani,1577,вә,CyrillTrans,and,,,væ,Phonemic
+17-520-71-1,nort2697,Azerbaijani,1157,чүнки,CyrillTrans,because,,,"čünki, ona gʲöræ",Phonemic
+17-520-71-3,nort2697,Azerbaijani,1157,она ҝөрә,CyrillTrans,because,,,"čünki, ona gʲöræ",Phonemic
+17-530-71-1,nort2697,Azerbaijani,1459,әҝәр,CyrillTrans,if,,,ægʲær,Phonemic
+17-540-71-1,nort2697,Azerbaijani,1014,ја,CyrillTrans,or,,,"ya, ya da, yaxud",Phonemic
+17-540-71-3,nort2697,Azerbaijani,1014,ја да,CyrillTrans,or,,,"ya, ya da, yaxud",Phonemic
+17-540-71-5,nort2697,Azerbaijani,1014,јахуд,CyrillTrans,or,,,"ya, ya da, yaxud",Phonemic
+17-550-71-1,nort2697,Azerbaijani,1268,бәли,CyrillTrans,"yes, affirmative",,,bæli,Phonemic
+17-560-71-1,nort2697,Azerbaijani,1269,хејр,CyrillTrans,"no, negative",,,"xeyr, yox",Phonemic
+17-560-71-3,nort2697,Azerbaijani,1269,јох,CyrillTrans,"no, negative",,,"xeyr, yox",Phonemic
+17-610-71-1,nort2697,Azerbaijani,1239,неҹә,CyrillTrans,how?,,,neǯæ,Phonemic
+17-620-71-1,nort2697,Azerbaijani,822,нә гәдәр,CyrillTrans,how many?,,,næ gædær,Phonemic
+17-630-71-1,nort2697,Azerbaijani,531,нечә,CyrillTrans,how much?,,,nečæ,Phonemic
+17-640-71-1,nort2697,Azerbaijani,1236,нә,CyrillTrans,what?,,,næ,Phonemic
+17-650-71-1,nort2697,Azerbaijani,1238,нә вахт,CyrillTrans,when?,,,"næ vaxt, hačan",Phonemic
+17-650-71-3,nort2697,Azerbaijani,1238,һачан,CyrillTrans,when?,,,"næ vaxt, hačan",Phonemic
+17-660-71-1,nort2697,Azerbaijani,1237,һарада,CyrillTrans,where?,,,"harada, haradan",Phonemic
+17-660-71-3,nort2697,Azerbaijani,1237,һарадан,CyrillTrans,where?,,,"harada, haradan",Phonemic
+17-670-71-1,nort2697,Azerbaijani,727,һансы,CyrillTrans,which?,,,hansɨ,Phonemic
+17-680-71-1,nort2697,Azerbaijani,1235,ким,CyrillTrans,who?,,,kim,Phonemic
+17-690-71-1,nort2697,Azerbaijani,1270,нијә,CyrillTrans,why?,,,"niyæ, næyæ gʲöræ",Phonemic
+17-690-71-3,nort2697,Azerbaijani,1270,нәјә ҝөрә,CyrillTrans,why?,,,"niyæ, næyæ gʲöræ",Phonemic
+18-110-71-1,nort2697,Azerbaijani,1363,сәс,CyrillTrans,voice,,,sæs,Phonemic
+18-120-71-1,nort2697,Azerbaijani,1261,охумаг,CyrillTrans,sing,,,"oxumag, ifa etmæk",Phonemic
+18-120-71-3,nort2697,Azerbaijani,1261,ифа етмәк,CyrillTrans,sing,,,"oxumag, ifa etmæk",Phonemic
+18-130-71-1,nort2697,Azerbaijani,715,чығырмаг,CyrillTrans,"shout, cry out",,,"čɨɣɨrmag, gɨšgɨrmag",Phonemic
+18-130-71-3,nort2697,Azerbaijani,715,гышгырмаг,CyrillTrans,"shout, cry out",,,"čɨɣɨrmag, gɨšgɨrmag",Phonemic
+18-150-71-1,nort2697,Azerbaijani,55,пычылдамаг,CyrillTrans,whisper,,,pɨčɨldamag,Phonemic
+18-160-71-1,nort2697,Azerbaijani,128,мыртылдамаг,CyrillTrans,mumble,,,mɨrtɨldamag,Phonemic
+18-170-71-1,nort2697,Azerbaijani,1025,фит чалмаг,CyrillTrans,whistle,,,fit čalmag,Phonemic
+18-180-71-1,nort2697,Azerbaijani,298,зинҝилдәмәк,CyrillTrans,"shriek, screech",,,zingʲildæmæk,Phonemic
+18-190-71-1,nort2697,Azerbaijani,526,уламаг,CyrillTrans,howl,,,ulamag,Phonemic
+18-210-71-1,nort2697,Azerbaijani,1623,данышмаг,CyrillTrans,"speak, talk",,,"danɨšmag, söhbæt etmæk",Phonemic
+18-210-71-3,nort2697,Azerbaijani,1623,сөһбәт етмәк,CyrillTrans,"speak, talk",,,"danɨšmag, söhbæt etmæk",Phonemic
+18-211-71-1,nort2697,Azerbaijani,1866,пәлтәкләмәк,CyrillTrans,"stutter, stammer",,,"pæltæklæmæk, hɨčgɨnmag",Phonemic
+18-211-71-3,nort2697,Azerbaijani,1866,һычгынмаг,CyrillTrans,"stutter, stammer",,,"pæltæklæmæk, hɨčgɨnmag",Phonemic
+18-220-71-1,nort2697,Azerbaijani,1458,демәк,CyrillTrans,say,,,demæk,Phonemic
+18-221-71-1,nort2697,Azerbaijani,1711,әһвалат данышмаг,CyrillTrans,tell story,,,æhvalat danɨšmag,Phonemic
+18-222-71-1,nort2697,Azerbaijani,1115,нитг,CyrillTrans,speech (make a),,,"nitg, nitg söylæmæk",Phonemic
+18-222-71-3,nort2697,Azerbaijani,1115,нитг сөјләмәк,CyrillTrans,speech (make a),,,"nitg, nitg söylæmæk",Phonemic
+18-230-71-1,nort2697,Azerbaijani,48,сусмаг,CyrillTrans,silent (be),,,susmag,Phonemic
+18-240-71-1,nort2697,Azerbaijani,1307,дил,CyrillTrans,language,,,dil,Phonemic
+18-260-71-1,nort2697,Azerbaijani,1599,сөз,CyrillTrans,word,,,söz,Phonemic
+18-280-71-1,nort2697,Azerbaijani,1405,ад,CyrillTrans,name,,,"ad, nam",Phonemic
+18-280-71-3,nort2697,Azerbaijani,1405,нам,CyrillTrans,name,,,"ad, nam",Phonemic
+18-310-71-1,nort2697,Azerbaijani,1309,сорушмаг,CyrillTrans,"ask (question, inquire)",,,sorušmag,Phonemic
+18-320-71-1,nort2697,Azerbaijani,1275,ҹаваб вермәк,CyrillTrans,answer,,,ǯavab vermæk,Phonemic
+18-330-71-1,nort2697,Azerbaijani,2022,танымаг,CyrillTrans,"admit, confess",,,"tanɨmag, sayɨlmag",Phonemic
+18-330-71-3,nort2697,Azerbaijani,2022,сајылмаг,CyrillTrans,"admit, confess",,,"tanɨmag, sayɨlmag",Phonemic
+18-340-71-1,nort2697,Azerbaijani,755,данмаг,CyrillTrans,deny,,,"danmag, inkar etmæk",Phonemic
+18-340-71-3,nort2697,Azerbaijani,755,инкар етмәк,CyrillTrans,deny,,,"danmag, inkar etmæk",Phonemic
+18-350-71-1,nort2697,Azerbaijani,1828,истәмәк,CyrillTrans,"ask, request",,,"istæmæk, dilæmæk",Phonemic
+18-350-71-3,nort2697,Azerbaijani,1828,диләмәк,CyrillTrans,"ask, request",,,"istæmæk, dilæmæk",Phonemic
+18-360-71-1,nort2697,Azerbaijani,1675,вәд етмәк,CyrillTrans,promise,,,"væd etmæk, söz vermæk",Phonemic
+18-360-71-3,nort2697,Azerbaijani,1675,сөз вермәк,CyrillTrans,promise,,,"væd etmæk, söz vermæk",Phonemic
+18-370-71-1,nort2697,Azerbaijani,49,рәдд етмәк,CyrillTrans,refuse,,,"rædd etmæk, imtina etmæk",Phonemic
+18-370-71-3,nort2697,Azerbaijani,49,имтина етмәк,CyrillTrans,refuse,,,"rædd etmæk, imtina etmæk",Phonemic
+18-380-71-1,nort2697,Azerbaijani,83,гадаған етмәк,CyrillTrans,forbid,,,gadaɣan etmæk,Phonemic
+18-390-71-1,nort2697,Azerbaijani,299,данламаг,CyrillTrans,"rebuke, scold",,,"danlamag, söymæk",Phonemic
+18-390-71-3,nort2697,Azerbaijani,299,сөјмәк,CyrillTrans,"rebuke, scold",,,"danlamag, söymæk",Phonemic
+18-410-71-1,nort2697,Azerbaijani,1084,чағырмаг,CyrillTrans,call (=summon),,,čaɣɨrmag,Phonemic
+18-420-71-1,nort2697,Azerbaijani,180,андландырылмаг,CyrillTrans,call (=name),,,andlandɨrɨlmag,Phonemic
+18-430-71-1,nort2697,Azerbaijani,9,елан етмәк,CyrillTrans,announce,,,"elan etmæk, bildirmæk",Phonemic
+18-430-71-3,nort2697,Azerbaijani,9,билдирмәк,CyrillTrans,announce,,,"elan etmæk, bildirmæk",Phonemic
+18-440-71-1,nort2697,Azerbaijani,1192,горхутмаг,CyrillTrans,threaten,,,gorxutmag,Phonemic
+18-450-71-1,nort2697,Azerbaijani,101,ловғаланмаг,CyrillTrans,boast,,,"lovɣalanmag, özünü tæriflæmæk",Phonemic
+18-450-71-3,nort2697,Azerbaijani,101,өзүнү тәрифләмәк,CyrillTrans,boast,,,"lovɣalanmag, özünü tæriflæmæk",Phonemic
+18-510-71-1,nort2697,Azerbaijani,1672,јазмаг,CyrillTrans,write,,,yazmag,Phonemic
+18-520-71-1,nort2697,Azerbaijani,724,охумаг (китаб),CyrillTrans,read,,,oxumag (kitab),Phonemic
+18-560-71-1,nort2697,Azerbaijani,648,кағыз,CyrillTrans,paper,,,kaɣɨz,Phonemic
+18-570-71-1,nort2697,Azerbaijani,794,гәләм,CyrillTrans,pen,,,gælæm,Phonemic
+18-610-71-1,nort2697,Azerbaijani,963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-71-1,nort2697,Azerbaijani,1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-71-1,nort2697,Azerbaijani,777,флејта,CyrillTrans,flute,,,fleyta,Phonemic
+18-720-71-1,nort2697,Azerbaijani,908,барабан,CyrillTrans,drum,,,"baraban, tæbil",Phonemic
+18-720-71-3,nort2697,Azerbaijani,908,тәбил,CyrillTrans,drum,,,"baraban, tæbil",Phonemic
+18-730-71-1,nort2697,Azerbaijani,2136,бору,CyrillTrans,"horn, trumpet",,,"boru, küngʲ",Phonemic
+18-730-71-3,nort2697,Azerbaijani,2136,күнҝ,CyrillTrans,"horn, trumpet",,,"boru, küngʲ",Phonemic
+18-740-71-1,nort2697,Azerbaijani,300,шах-шах,CyrillTrans,rattle,,,"šax-šax, oyunǯag",Phonemic
+18-740-71-3,nort2697,Azerbaijani,300,ојунҹаг,CyrillTrans,rattle,,,"šax-šax, oyunǯag",Phonemic
+19-110-71-1,nort2697,Azerbaijani,1300,өлкә,CyrillTrans,country,,,ölkæ,Phonemic
+19-120-71-1,nort2697,Azerbaijani,89,доғма өлкә,CyrillTrans,one's native country,,,doɣma ölkæ,Phonemic
+19-150-71-1,nort2697,Azerbaijani,1391,шәһәр,CyrillTrans,"city, town",,,šæhær,Phonemic
+19-160-71-1,nort2697,Azerbaijani,930,кәнд,CyrillTrans,village,,,kænd,Phonemic
+19-170-71-1,nort2697,Azerbaijani,1010,сәрһәд,CyrillTrans,boundary,,,"særhæd, hüdud",Phonemic
+19-170-71-3,nort2697,Azerbaijani,1010,һүдуд,CyrillTrans,boundary,,,"særhæd, hüdud",Phonemic
+19-210-71-1,nort2697,Azerbaijani,789,халг,CyrillTrans,people (populace),,,xalg,Phonemic
+19-230-71-1,nort2697,Azerbaijani,302,тајфа,CyrillTrans,"tribe, clan",,,"tayfa, gövi",Phonemic
+19-230-71-3,nort2697,Azerbaijani,302,гөви,CyrillTrans,"tribe, clan",,,"tayfa, gövi",Phonemic
+19-240-71-1,nort2697,Azerbaijani,301,рәһбәр,CyrillTrans,"chief, chieftain",,,"ræhbær, baščɨ",Phonemic
+19-240-71-3,nort2697,Azerbaijani,301,башчы,CyrillTrans,"chief, chieftain",,,"ræhbær, baščɨ",Phonemic
+19-250-71-1,nort2697,Azerbaijani,1296,әса,CyrillTrans,"staff, walking stick",,,"æsa, æl aɣaǯɨ",Phonemic
+19-250-71-3,nort2697,Azerbaijani,1296,әл ағаҹы,CyrillTrans,"staff, walking stick",,,"æsa, æl aɣaǯɨ",Phonemic
+19-310-71-1,nort2697,Azerbaijani,1846,идарә етмәк,CyrillTrans,"rule, govern",,,idaræ etmæk,Phonemic
+19-320-71-1,nort2697,Azerbaijani,1508,крал,CyrillTrans,"king, ruler",,,"kral, padšah",Phonemic
+19-320-71-3,nort2697,Azerbaijani,1508,падшаһ,CyrillTrans,"king, ruler",,,"kral, padšah",Phonemic
+19-330-71-1,nort2697,Azerbaijani,1306,краличә,CyrillTrans,queen,,,"kraličæ, šahzadæ",Phonemic
+19-330-71-3,nort2697,Azerbaijani,1306,шаһзадә,CyrillTrans,queen,,,"kraličæ, šahzadæ",Phonemic
+19-360-71-1,nort2697,Azerbaijani,482,нәҹиб,CyrillTrans,"noble, nobleman",,,"næǯib, mærd, aliǯænab",Phonemic
+19-360-71-3,nort2697,Azerbaijani,482,мәрд,CyrillTrans,"noble, nobleman",,,"næǯib, mærd, aliǯænab",Phonemic
+19-360-71-5,nort2697,Azerbaijani,482,алиҹәнаб,CyrillTrans,"noble, nobleman",,,"næǯib, mærd, aliǯænab",Phonemic
+19-370-71-1,nort2697,Azerbaijani,1032,шәһәр-адам,CyrillTrans,"citizen, subject",,,šæhær-adam,Phonemic
+19-410-71-1,nort2697,Azerbaijani,383,ҹәнаб,CyrillTrans,master,,,"ǯænab, sahibkar",Phonemic
+19-410-71-3,nort2697,Azerbaijani,383,саһибкар,CyrillTrans,master,,,"ǯænab, sahibkar",Phonemic
+19-420-71-1,nort2697,Azerbaijani,812,гул,CyrillTrans,slave,,,"gul, kölæ",Phonemic
+19-420-71-3,nort2697,Azerbaijani,812,көлә,CyrillTrans,slave,,,"gul, kölæ",Phonemic
+19-430-71-1,nort2697,Azerbaijani,255,хадим,CyrillTrans,servant,,,xadim,Phonemic
+19-440-71-1,nort2697,Azerbaijani,384,азад адам (инсан),CyrillTrans,freeman,,,azad adam (insan),Phonemic
+19-450-71-1,nort2697,Azerbaijani,1128,бујурмаг,CyrillTrans,"command, order",,,"buyurmag, æmr etmæk",Phonemic
+19-450-71-3,nort2697,Azerbaijani,1128,әмр етмәк,CyrillTrans,"command, order",,,"buyurmag, æmr etmæk",Phonemic
+19-460-71-1,nort2697,Azerbaijani,1635,табе алмаг,CyrillTrans,obey,,,tabe almag,Phonemic
+19-470-71-1,nort2697,Azerbaijani,1003,иҹазә вермәк,CyrillTrans,"let, permit",,,iǯazæ vermæk,Phonemic
+19-510-71-1,nort2697,Azerbaijani,1325,дост,CyrillTrans,"friend, companion",,,dost,Phonemic
+19-520-71-1,nort2697,Azerbaijani,1358,дүшмән,CyrillTrans,enemy,,,düšmæn,Phonemic
+19-540-71-1,nort2697,Azerbaijani,1332,гоншу,CyrillTrans,neighbor,,,gonšu,Phonemic
+19-550-71-1,nort2697,Azerbaijani,791,јад адам,CyrillTrans,stranger,,,"yad adam, tanɨš olmayan adam",Phonemic
+19-550-71-3,nort2697,Azerbaijani,791,таныш олмајан адам,CyrillTrans,stranger,,,"yad adam, tanɨš olmayan adam",Phonemic
+19-560-71-1,nort2697,Azerbaijani,1782,гонаг,CyrillTrans,guest,,,gonag,Phonemic
+19-570-71-1,nort2697,Azerbaijani,1545,аға,CyrillTrans,host,,,"aɣa, sahibkar",Phonemic
+19-570-71-3,nort2697,Azerbaijani,1545,саһибкар,CyrillTrans,host,,,"aɣa, sahibkar",Phonemic
+19-580-71-1,nort2697,Azerbaijani,1897,көмәк,CyrillTrans,"help, aid",,,"kömæk, yardɨm",Phonemic
+19-580-71-3,nort2697,Azerbaijani,1897,јардым,CyrillTrans,"help, aid",,,"kömæk, yardɨm",Phonemic
+19-590-71-1,nort2697,Azerbaijani,1550,мане алмаг,CyrillTrans,"hinder, prevent",,,mane almag,Phonemic
+19-610-71-1,nort2697,Azerbaijani,1747,адәт,CyrillTrans,custom,,,"adæt, gayda",Phonemic
+19-610-71-3,nort2697,Azerbaijani,1747,гајда,CyrillTrans,custom,,,"adæt, gayda",Phonemic
+19-620-71-1,nort2697,Azerbaijani,1848,далашма,CyrillTrans,"strife, quarrel",,,"dalašma, vurušma",Phonemic
+19-620-71-3,nort2697,Azerbaijani,1848,вурушма,CyrillTrans,"strife, quarrel",,,"dalašma, vurušma",Phonemic
+19-630-71-1,nort2697,Azerbaijani,2024,гәсд,CyrillTrans,"conspiracy, plot",,,"gæsd, dilbirlik",Phonemic
+19-630-71-3,nort2697,Azerbaijani,2024,дилбирлик,CyrillTrans,"conspiracy, plot",,,"gæsd, dilbirlik",Phonemic
+19-650-71-1,nort2697,Azerbaijani,1831,ҝөрүшмәк,CyrillTrans,meet,,,gʲörüšmæk,Phonemic
+19-720-71-1,nort2697,Azerbaijani,1610,фаһишә,CyrillTrans,prostitute,,,"fahišæ, satgɨn",Phonemic
+19-720-71-3,nort2697,Azerbaijani,1610,сатгын,CyrillTrans,prostitute,,,"fahišæ, satgɨn",Phonemic
+20-110-71-1,nort2697,Azerbaijani,1423,савашмаг,CyrillTrans,fight (vb),,,"savašmag, vurušmag",Phonemic
+20-110-71-3,nort2697,Azerbaijani,1423,вурушмаг,CyrillTrans,fight (vb),,,"savašmag, vurušmag",Phonemic
+20-130-71-1,nort2697,Azerbaijani,579,дөјүш,CyrillTrans,"war, battle",,,"döyüš, dava müharibæ",Phonemic
+20-130-71-3,nort2697,Azerbaijani,579,дава мүһарибә,CyrillTrans,"war, battle",,,"döyüš, dava müharibæ",Phonemic
+20-140-71-1,nort2697,Azerbaijani,1338,дүнја,CyrillTrans,peace,,,dünya,Phonemic
+20-150-71-1,nort2697,Azerbaijani,1561,орду,CyrillTrans,army,,,ordu,Phonemic
+20-170-71-1,nort2697,Azerbaijani,1941,әсҝәр,CyrillTrans,soldier,,,æsgʲær,Phonemic
+20-210-71-1,nort2697,Azerbaijani,951,јараг,CyrillTrans,"weapons, arms",,,"yarag, silah",Phonemic
+20-210-71-3,nort2697,Azerbaijani,951,силаһ,CyrillTrans,"weapons, arms",,,"yarag, silah",Phonemic
+20-220-71-1,nort2697,Azerbaijani,1763,дәјәнәк,CyrillTrans,club,,,"dæyænæk, kötæk",Phonemic
+20-220-71-3,nort2697,Azerbaijani,1763,көтәк,CyrillTrans,club,,,"dæyænæk, kötæk",Phonemic
+20-222-71-1,nort2697,Azerbaijani,386,һәрби балта,CyrillTrans,battle-ax,,,hærbi balta,Phonemic
+20-230-71-1,nort2697,Azerbaijani,387,сапанд,CyrillTrans,sling,,,sapand,Phonemic
+20-240-71-1,nort2697,Azerbaijani,994,јај,CyrillTrans,bow,,,"yay, kaman",Phonemic
+20-240-71-3,nort2697,Azerbaijani,994,каман,CyrillTrans,bow,,,"yay, kaman",Phonemic
+20-250-71-1,nort2697,Azerbaijani,977,ох,CyrillTrans,arrow,,,ox,Phonemic
+20-260-71-1,nort2697,Azerbaijani,945,низә,CyrillTrans,spear,,,"nizæ, ǯida, bærk dalašmag",Phonemic
+20-260-71-3,nort2697,Azerbaijani,945,ҹида,CyrillTrans,spear,,,"nizæ, ǯida, bærk dalašmag",Phonemic
+20-260-71-5,nort2697,Azerbaijani,945,бәрк далашмаг,CyrillTrans,spear,,,"nizæ, ǯida, bærk dalašmag",Phonemic
+20-270-71-1,nort2697,Azerbaijani,1535,гылынҹ,CyrillTrans,sword,,,gɨlɨnǯ,Phonemic
+20-280-71-1,nort2697,Azerbaijani,1566,түфәнҝ,CyrillTrans,"gun, cannon",,,"tüfængʲ, top",Phonemic
+20-280-71-3,nort2697,Azerbaijani,1566,топ,CyrillTrans,"gun, cannon",,,"tüfængʲ, top",Phonemic
+20-310-71-1,nort2697,Azerbaijani,1061,јараг-әсләһә,CyrillTrans,armor (defensive),,,yarag-æslæhæ,Phonemic
+20-330-71-1,nort2697,Azerbaijani,1680,дәбилғә,CyrillTrans,helmet,,,"dæbilɣæ, dæmir papag",Phonemic
+20-330-71-3,nort2697,Azerbaijani,1680,дәмир папаг,CyrillTrans,helmet,,,"dæbilɣæ, dæmir papag",Phonemic
+20-340-71-1,nort2697,Azerbaijani,1064,галхан,CyrillTrans,shield,,,galxan,Phonemic
+20-350-71-1,nort2697,Azerbaijani,1938,гала,CyrillTrans,fortress,,,gala,Phonemic
+20-360-71-1,nort2697,Azerbaijani,1671,гала,CyrillTrans,tower,,,gala,Phonemic
+20-410-71-1,nort2697,Azerbaijani,783,гәләбә,CyrillTrans,victory,,,gælæbæ,Phonemic
+20-420-71-1,nort2697,Azerbaijani,782,мәғлубијјәт,CyrillTrans,defeat,,,mæɣlubiyyæt,Phonemic
+20-430-71-1,nort2697,Azerbaijani,722,һүҹум етмәк,CyrillTrans,attack,,,hüǯum etmæk,Phonemic
+20-440-71-1,nort2697,Azerbaijani,1330,өзүнү горумаг,CyrillTrans,defend,,,"özünü gorumag, idaræ etmæk",Phonemic
+20-440-71-3,nort2697,Azerbaijani,1330,идарә етмәк,CyrillTrans,defend,,,"özünü gorumag, idaræ etmæk",Phonemic
+20-450-71-1,nort2697,Azerbaijani,421,ҝери чәкилмәк,CyrillTrans,retreat,,,gʲeri čækilmæk,Phonemic
+20-460-71-1,nort2697,Azerbaijani,1696,тәслим олмаг,CyrillTrans,surrender,,,tæslim olmag,Phonemic
+20-470-71-1,nort2697,Azerbaijani,1072,әсир,CyrillTrans,"captive, prisoner",,,"æsir, dustag",Phonemic
+20-470-71-3,nort2697,Azerbaijani,1072,дустаг,CyrillTrans,"captive, prisoner",,,"æsir, dustag",Phonemic
+20-471-71-1,nort2697,Azerbaijani,1940,мүһафизә дәстәси,CyrillTrans,"guard, sentinel",,,"mühafizæ dæstæsi, garovul",Phonemic
+20-471-71-3,nort2697,Azerbaijani,1940,гаровул,CyrillTrans,"guard, sentinel",,,"mühafizæ dæstæsi, garovul",Phonemic
+20-480-71-1,nort2697,Azerbaijani,1022,таланмыш мал,CyrillTrans,"booty, spoils",,,talanmɨš mal,Phonemic
+20-490-71-1,nort2697,Azerbaijani,65,јолуна пусгу гојмаг,CyrillTrans,ambush,,,yoluna pusgu goymag,Phonemic
+20-510-71-1,nort2697,Azerbaijani,1858,балыгчы,CyrillTrans,fisherman,,,balɨgčɨ,Phonemic
+20-520-71-1,nort2697,Azerbaijani,1074,гармаг,CyrillTrans,fishhook,,,"garmag, tilov",Phonemic
+20-520-71-3,nort2697,Azerbaijani,1074,тилов,CyrillTrans,fishhook,,,"garmag, tilov",Phonemic
+20-530-71-1,nort2697,Azerbaijani,19,тилов ипи,CyrillTrans,fishing line,,,tilov ipi,Phonemic
+20-540-71-1,nort2697,Azerbaijani,388,балыгчылыг тору,CyrillTrans,fishnet,,,balɨgčɨlɨg toru,Phonemic
+20-550-71-1,nort2697,Azerbaijani,389,балыг үчүн тәлә,CyrillTrans,fish trap,,,balɨg üčün tælæ,Phonemic
+20-560-71-1,nort2697,Azerbaijani,2013,ҹазибә,CyrillTrans,bait,,,"ǯazibæ, tælæ yemi",Phonemic
+20-560-71-3,nort2697,Azerbaijani,2013,тәлә јеми,CyrillTrans,bait,,,"ǯazibæ, tælæ yemi",Phonemic
+20-610-71-1,nort2697,Azerbaijani,1435,овчулуг етмәк,CyrillTrans,hunt,,,ovčulug etmæk,Phonemic
+20-620-71-1,nort2697,Azerbaijani,1172,атмаг,CyrillTrans,shoot,,,"atmag, atɨlmag",Phonemic
+20-620-71-3,nort2697,Azerbaijani,1172,атылмаг,CyrillTrans,shoot,,,"atmag, atɨlmag",Phonemic
+20-630-71-1,nort2697,Azerbaijani,161,сәһв етмәк,CyrillTrans,miss (target),,,sæhv etmæk,Phonemic
+20-640-71-1,nort2697,Azerbaijani,1075,тәлә,CyrillTrans,trap (noun),,,"tælæ, hiylæ",Phonemic
+20-640-71-3,nort2697,Azerbaijani,1075,һијлә,CyrillTrans,trap (noun),,,"tælæ, hiylæ",Phonemic
+20-650-71-1,nort2697,Azerbaijani,1170,тутмаг,CyrillTrans,trap (vb),,,tutmag,Phonemic
+21-110-71-1,nort2697,Azerbaijani,1062,ганун,CyrillTrans,law,,,ganun,Phonemic
+21-150-71-1,nort2697,Azerbaijani,1068,мүһакимә,CyrillTrans,court,,,mühаkimæ,Phonemic
+21-160-71-1,nort2697,Azerbaijani,1818,мүһакимә этмәк,CyrillTrans,judge (vb),,,mühakimæ etmæk,Phonemic
+21-170-71-1,nort2697,Azerbaijani,1067,мүһакимәнин һөкмү,CyrillTrans,judgment,,,mühаkimænin hökmü,Phonemic
+21-180-71-1,nort2697,Azerbaijani,861,һаким,CyrillTrans,judge (noun),,,hakim,Phonemic
+21-210-71-1,nort2697,Azerbaijani,2020,тәләбкар,CyrillTrans,plaintiff,,,tælæbkar,Phonemic
+21-220-71-1,nort2697,Azerbaijani,1034,ҹавабдеһ,CyrillTrans,defendant,,,ǯavabdeh,Phonemic
+21-230-71-1,nort2697,Azerbaijani,1144,шаһид,CyrillTrans,witness,,,šahid,Phonemic
+21-240-71-1,nort2697,Azerbaijani,1939,анд ичмәк,CyrillTrans,swear,,,and ičmæk,Phonemic
+21-250-71-1,nort2697,Azerbaijani,1712,анд,CyrillTrans,oath,,,and,Phonemic
+21-310-71-1,nort2697,Azerbaijani,1814,тагсырландырмаг,CyrillTrans,accuse,,,"tagsɨrlandɨrmag, gʲunahkarlandɨrmag",Phonemic
+21-310-71-3,nort2697,Azerbaijani,1814,ҝунаһкарландырмаг,CyrillTrans,accuse,,,"tagsɨrlandɨrmag, gʲunahkarlandɨrmag",Phonemic
+21-320-71-1,nort2697,Azerbaijani,484,писләмәк,CyrillTrans,condemn,,,"pislæmæk, mæhkum etmæk",Phonemic
+21-320-71-3,nort2697,Azerbaijani,484,мәһкум етмәк,CyrillTrans,condemn,,,"pislæmæk, mæhkum etmæk",Phonemic
+21-330-71-1,nort2697,Azerbaijani,983,ҝүнаһкар едилмиш,CyrillTrans,convict (vb),,,gʲünahkar yedilmiš,Phonemic
+21-340-71-1,nort2697,Azerbaijani,988,тәмизә гыхартмаг,CyrillTrans,acquit,,,tæmizæ gɨxartmag,Phonemic
+21-350-71-1,nort2697,Azerbaijani,1682,тагсырлы,CyrillTrans,guilty,,,"tagsɨrlɨ, gʲünahkar",Phonemic
+21-350-71-3,nort2697,Azerbaijani,1682,ҝүнаһкар,CyrillTrans,guilty,,,"tagsɨrlɨ, gʲünahkar",Phonemic
+21-360-71-1,nort2697,Azerbaijani,90,ҝүнаһсыз,CyrillTrans,innocent,,,gʲünahsɨz,Phonemic
+21-370-71-1,nort2697,Azerbaijani,390,ҹәза,CyrillTrans,"penalty, punishment",,,ǯæza,Phonemic
+21-380-71-1,nort2697,Azerbaijani,218,пуллу ҹәримә,CyrillTrans,fine,,,pullu ǯærimæ,Phonemic
+21-390-71-1,nort2697,Azerbaijani,1281,дустагхана,CyrillTrans,"prison, jail",,,"dustagxana, hæbsxana",Phonemic
+21-390-71-3,nort2697,Azerbaijani,1281,һәбсхана,CyrillTrans,"prison, jail",,,"dustagxana, hæbsxana",Phonemic
+21-420-71-1,nort2697,Azerbaijani,845,өлдүрмә,CyrillTrans,murder,,,"öldürmæ, öldürülmæ",Phonemic
+21-420-71-3,nort2697,Azerbaijani,845,өлдүрүлмә,CyrillTrans,murder,,,"öldürmæ, öldürülmæ",Phonemic
+21-430-71-1,nort2697,Azerbaijani,902,зина,CyrillTrans,adultery,,,zina,Phonemic
+21-440-71-1,nort2697,Azerbaijani,953,зорлама,CyrillTrans,rape,,,zorlama,Phonemic
+21-460-71-1,nort2697,Azerbaijani,1889,гәсдән јандырма,CyrillTrans,arson,,,"gæsdæn yandɨrma, od vurma",Phonemic
+21-460-71-3,nort2697,Azerbaijani,1889,од вурма,CyrillTrans,arson,,,"gæsdæn yandɨrma, od vurma",Phonemic
+21-470-71-1,nort2697,Azerbaijani,1792,јаланчы шаһидлик,CyrillTrans,perjury,,,yalančɨ šahidlik,Phonemic
+21-510-71-1,nort2697,Azerbaijani,713,оғурламаг,CyrillTrans,steal,,,oɣurlamag,Phonemic
+21-520-71-1,nort2697,Azerbaijani,1160,оғру,CyrillTrans,thief,,,oɣru,Phonemic
+22-110-71-1,nort2697,Azerbaijani,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-71-1,nort2697,Azerbaijani,1944,Аллаһ,CyrillTrans,God,,,"Allah, Tanrɨ",Phonemic
+22-120-71-3,nort2697,Azerbaijani,1944,Танры,CyrillTrans,God,,,"Allah, Tanrɨ",Phonemic
+22-130-71-1,nort2697,Azerbaijani,911,ибадәтхана,CyrillTrans,"temple, church",,,"ibadætxana, kilsæ",Phonemic
+22-130-71-3,nort2697,Azerbaijani,911,килсә,CyrillTrans,"temple, church",,,"ibadætxana, kilsæ",Phonemic
+22-140-71-1,nort2697,Azerbaijani,853,меһраб,CyrillTrans,altar,,,mehrab,Phonemic
+22-150-71-1,nort2697,Azerbaijani,1103,гурбан (лыг),CyrillTrans,"sacrifice, offering",,,gurban (lɨg),Phonemic
+22-160-71-1,nort2697,Azerbaijani,257,ситајиш етмәк,CyrillTrans,worship,,,sitayiš etmæk,Phonemic
+22-170-71-1,nort2697,Azerbaijani,24,јалвармаг,CyrillTrans,pray,,,"yalvarmag, dua etmæk",Phonemic
+22-170-71-3,nort2697,Azerbaijani,24,дуа етмәк,CyrillTrans,pray,,,"yalvarmag, dua etmæk",Phonemic
+22-180-71-1,nort2697,Azerbaijani,852,кешиш,CyrillTrans,priest,,,kešiš,Phonemic
+22-190-71-1,nort2697,Azerbaijani,1702,мүгәддәс,CyrillTrans,"holy, sacred",,,mügæddæs,Phonemic
+22-220-71-1,nort2697,Azerbaijani,304,вәъз етмәк,CyrillTrans,preach,,,væʔz etmæk,Phonemic
+22-230-71-1,nort2697,Azerbaijani,391,хејир-дуа вермәк,CyrillTrans,bless,,,"xeyir-dua vermæk, uɣurlamag",Phonemic
+22-230-71-3,nort2697,Azerbaijani,391,уғурламаг,CyrillTrans,bless,,,"xeyir-dua vermæk, uɣurlamag",Phonemic
+22-240-71-1,nort2697,Azerbaijani,8,ләънәт етмәк,CyrillTrans,curse,,,"læʔnæt etmæk, garɣɨmag",Phonemic
+22-240-71-3,nort2697,Azerbaijani,8,гарғымаг,CyrillTrans,curse,,,"læʔnæt etmæk, garɣɨmag",Phonemic
+22-260-71-1,nort2697,Azerbaijani,303,оруҹ тутмаг,CyrillTrans,fast (vb),,,oruǯ tutmag,Phonemic
+22-310-71-1,nort2697,Azerbaijani,1565,ҹәннәт,CyrillTrans,heaven,,,"ǯænnæt, ærš",Phonemic
+22-310-71-3,nort2697,Azerbaijani,1565,әрш,CyrillTrans,heaven,,,"ǯænnæt, ærš",Phonemic
+22-320-71-1,nort2697,Azerbaijani,878,ҹәһәннәм,CyrillTrans,hell,,,ǯæhænnæm,Phonemic
+22-350-71-1,nort2697,Azerbaijani,1973,шејтан,CyrillTrans,demon (evil spirit),,,"šeytan, ǯin, iblis",Phonemic
+22-350-71-3,nort2697,Azerbaijani,1973,ҹин,CyrillTrans,demon (evil spirit),,,"šeytan, ǯin, iblis",Phonemic
+22-350-71-5,nort2697,Azerbaijani,1973,иблис,CyrillTrans,demon (evil spirit),,,"šeytan, ǯin, iblis",Phonemic
+22-370-71-1,nort2697,Azerbaijani,1945,бүт,CyrillTrans,idol,,,büt,Phonemic
+22-420-71-1,nort2697,Azerbaijani,392,ҹадуҝәрлик,CyrillTrans,"magic, witchcraft, sorcery",,,"ǯadugʲærlik, sehrbazlɨg",Phonemic
+22-420-71-3,nort2697,Azerbaijani,392,сеһрбазлыг,CyrillTrans,"magic, witchcraft, sorcery",,,"ǯadugʲærlik, sehrbazlɨg",Phonemic
+22-430-71-1,nort2697,Azerbaijani,2137,ҹадуҝәр гадын,CyrillTrans,"sorcerer, witch",,,"ǯadugʲær gadɨn, ǯadugʲær garɨ, kaftar",Phonemic
+22-430-71-3,nort2697,Azerbaijani,2137,ҹадуҝәр гары,CyrillTrans,"sorcerer, witch",,,"ǯadugʲær gadɨn, ǯadugʲær garɨ, kaftar",Phonemic
+22-430-71-5,nort2697,Azerbaijani,2137,кафтар,CyrillTrans,"sorcerer, witch",,,"ǯadugʲær gadɨn, ǯadugʲær garɨ, kaftar",Phonemic
+22-440-71-1,nort2697,Azerbaijani,2138,пәри,CyrillTrans,"fairy, elf",,,"pæri, elf",Phonemic
+22-440-71-3,nort2697,Azerbaijani,2138,елф,CyrillTrans,"fairy, elf",,,"pæri, elf",Phonemic
+22-450-71-1,nort2697,Azerbaijani,1175,хәјаләт,CyrillTrans,"ghost, phantom",,,"xæyalæt, garabasma",Phonemic
+22-450-71-3,nort2697,Azerbaijani,1175,гарабасма,CyrillTrans,"ghost, phantom",,,"xæyalæt, garabasma",Phonemic
+22-470-71-1,nort2697,Azerbaijani,107,әламәт,CyrillTrans,"omen, portent",,,"ælamæt, išaræ",Phonemic
+22-470-71-3,nort2697,Azerbaijani,107,ишарә,CyrillTrans,"omen, portent",,,"ælamæt, išaræ",Phonemic

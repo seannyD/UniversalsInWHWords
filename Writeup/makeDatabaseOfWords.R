@@ -11,3 +11,5 @@ source("makeDataVariables.R")
 alldata = alldata[alldata$glotto %in% names2glotto[colnames(d.wh.m)],]
 
 write.csv(alldata,"../Writeup/SupportingInformation/S2_LexicalData.csv", row.names = F)
+
+write.csv(alldata,"../RAW_data/S2_LexicalData.csv", row.names = F)

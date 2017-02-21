@@ -1,0 +1,81 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw", 
+        {
+            "@language": "en"
+        }
+    ], 
+    "dc:bibliographicCitation ": "Ilya Peiros. 2015. Keme (Kemie variety) dictionary.\nIn: Key, Mary Ritchie & Comrie, Bernard (eds.)\nThe Intercontinental Dictionary Series.\nLeipzig: Max Planck Institute for Evolutionary Anthropology.\n(Available online at http://ids.clld.org/contributions/804, Accessed on 2016-07-18.)\n", 
+    "dc:creator": "Ilya Peiros", 
+    "dc:format": "cldf-1.0", 
+    "dc:identifier": "http://ids.clld.org/contributions/804", 
+    "dc:isPartOf": "http://ids.clld.org/", 
+    "dc:issued": "2015-05-25", 
+    "dc:license": "http://creativecommons.org/licenses/by/4.0/", 
+    "dc:publisher": "Max Planck Institute for Evolutionary Anthropology, Leipzig", 
+    "dc:title": "Keme (Kemie variety)", 
+    "dcat:accessURL": "http://ids.clld.org/download", 
+    "dialect": {
+        "header": true, 
+        "delimiter": ",", 
+        "encoding": "utf-8"
+    }, 
+    "tables": [
+        {
+            "url": "ids-dictionary-804.csv", 
+            "dc:type": "cldf-values", 
+            "tableSchema": {
+                "aboutUrl": "http://ids.clld.org/values/{ID}", 
+                "primaryKey": "ID", 
+                "columns": [
+                    {
+                        "datatype": "string", 
+                        "name": "ID"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Language_ID", 
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Language_ID}"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Language_name"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Parameter_ID", 
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Parameter_ID}"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Value"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Transcription"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Concept"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Source"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "Comment"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "AlternativeValue"
+                    }, 
+                    {
+                        "datatype": "string", 
+                        "name": "AlternativeTranscription"
+                    }
+                ]
+            }
+        }
+    ]
+}

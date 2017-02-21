@@ -1,0 +1,1441 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-70-1,tsak1249,Tsakhur,1852,экІда-экІда,CyrillTrans,often,,,ekʼda-ekʼda,Phonemic
+14-310-70-1,tsak1249,Tsakhur,1676,гьаІмаше,CyrillTrans,always,,,haˤmaše,Phonemic
+14-290-70-1,tsak1249,Tsakhur,790,гьазирын,CyrillTrans,ready,,,hazirɨn,Phonemic
+14-280-70-1,tsak1249,Tsakhur,1928,тамгьаъас,CyrillTrans,"cease, stop",,,tamhaʔas,Phonemic
+14-270-70-1,tsak1249,Tsakhur,1766,къатийхьан,CyrillTrans,finish,,,q̄atiyx̌an,Phonemic
+14-260-70-1,tsak1249,Tsakhur,743,къатихьакас,CyrillTrans,end (temporal),,,q̄atix̌akas,Phonemic
+14-252-70-1,tsak1249,Tsakhur,1186,давамихьес,CyrillTrans,"last, endure",,,dawamix̌es,Phonemic
+14-250-70-1,tsak1249,Tsakhur,1806,гигъапас,CyrillTrans,"begin, beginning",,,giɣapas,Phonemic
+14-240-70-1,tsak1249,Tsakhur,425,даянмишаас,CyrillTrans,"retard, delay",,,dayanmišaʔas,Phonemic
+14-230-70-1,tsak1249,Tsakhur,754,телеамишхьас,CyrillTrans,"hasten, hurry",,,"teleamišx̌as, telesmišxes",Phonemic
+14-230-70-3,tsak1249,Tsakhur,754,телесмишхес,CyrillTrans,"hasten, hurry",,,"teleamišx̌as, telesmišxes",Phonemic
+14-220-70-1,tsak1249,Tsakhur,701,йавашна,CyrillTrans,slow,,,"yawašna, yawašda",Phonemic
+14-220-70-3,tsak1249,Tsakhur,701,йавашда,CyrillTrans,slow,,,"yawašna, yawašda",Phonemic
+14-210-70-1,tsak1249,Tsakhur,1631,дирина,CyrillTrans,"swift, fast, quick",,,dirina,Phonemic
+14-190-70-1,tsak1249,Tsakhur,1963,гьаІшде,CyrillTrans,immediately,,,haˤšde,Phonemic
+14-180-70-1,tsak1249,Tsakhur,1376,гьаІшде,CyrillTrans,now,,,haˤšde,Phonemic
+14-170-70-1,tsak1249,Tsakhur,477,геджда,CyrillTrans,late,,,geǯda,Phonemic
+14-160-70-1,tsak1249,Tsakhur,672,экІда,CyrillTrans,early,,,ekʼda,Phonemic
+14-150-70-1,tsak1249,Tsakhur,1229,кьаІсда,CyrillTrans,old,,,qʼaˤsda,Phonemic
+14-140-70-1,tsak1249,Tsakhur,1207,мекІна,CyrillTrans,young,,,mekʼna,Phonemic
+14-120-70-1,tsak1249,Tsakhur,1789,асар,CyrillTrans,age,,,"asar, sen",Phonemic
+14-120-70-3,tsak1249,Tsakhur,1789,сен,CyrillTrans,age,,,"asar, sen",Phonemic
+14-130-70-1,tsak1249,Tsakhur,1231,тезе,CyrillTrans,new,,,"teze, cedɨp",Phonemic
+14-130-70-3,tsak1249,Tsakhur,1231,цедып,CyrillTrans,new,,,"teze, cedɨp",Phonemic
+14-110-70-1,tsak1249,Tsakhur,892,вахт,CyrillTrans,time,,,waxt,Phonemic
+13-440-70-1,tsak1249,Tsakhur,417,хьебниэлес,CyrillTrans,three times,,,"x̌ebnieles, x̌ebni yaq̄e",Phonemic
+13-440-70-3,tsak1249,Tsakhur,417,хьебни йакъе,CyrillTrans,three times,,,"x̌ebnieles, x̌ebni yaq̄e",Phonemic
+13-420-70-1,tsak1249,Tsakhur,1859,хьебыдъэсын,CyrillTrans,third,,,x̌ebɨdʔesɨn,Phonemic
+13-380-70-1,tsak1249,Tsakhur,1546,кьоІниэлес,CyrillTrans,two times,,,"qʼoˤnieles, q̄oˤniyak̄e",Phonemic
+13-380-70-3,tsak1249,Tsakhur,1546,къоІниякке,CyrillTrans,two times,,,"qʼoˤnieles, q̄oˤniyak̄e",Phonemic
+13-370-70-1,tsak1249,Tsakhur,1888,чуІт,CyrillTrans,pair,,,čuˤt,Phonemic
+13-360-70-1,tsak1249,Tsakhur,1384,кьадэсда,CyrillTrans,second,,,qʼadʔesda,Phonemic
+13-350-70-1,tsak1249,Tsakhur,1529,аІлрейдын,CyrillTrans,last,,,"aˤlreydɨn, axɨredɨn",Phonemic
+13-350-70-3,tsak1249,Tsakhur,1529,ахыредын,CyrillTrans,last,,,"aˤlreydɨn, axɨredɨn",Phonemic
+13-340-70-1,tsak1249,Tsakhur,728,цІеддийн,CyrillTrans,first,,,c’ed̄iyn,Phonemic
+13-330-70-1,tsak1249,Tsakhur,1580,са,CyrillTrans,"alone, only",,,sa,Phonemic
+13-240-70-1,tsak1249,Tsakhur,816,сура,CyrillTrans,half,,,sura,Phonemic
+13-230-70-1,tsak1249,Tsakhur,779,тика,CyrillTrans,"part, piece",,,tika,Phonemic
+13-220-70-1,tsak1249,Tsakhur,1624,кьаран,CyrillTrans,empty,,,qʼaran,Phonemic
+13-210-70-1,tsak1249,Tsakhur,1429,гяцІийн,CyrillTrans,full,,,gyac’iyn,Phonemic
+13-190-70-1,tsak1249,Tsakhur,2023,хедда,CyrillTrans,"multitude, crowd",,,"xed̄a, xet̄a",Phonemic
+13-190-70-3,tsak1249,Tsakhur,2023,хетта,CyrillTrans,"multitude, crowd",,,"xed̄a, xet̄a",Phonemic
+13-181-70-1,tsak1249,Tsakhur,1241,са-кьолле,CyrillTrans,some,,,sa-qʼolle,Phonemic
+13-170-70-1,tsak1249,Tsakhur,1242,гІылда,CyrillTrans,"little (quantity), few",,,ʕɨlda,Phonemic
+13-180-70-1,tsak1249,Tsakhur,1881,чІав,CyrillTrans,enough,,,č’aw,Phonemic
+13-160-70-1,tsak1249,Tsakhur,1992,хедын,CyrillTrans,more,,,xedɨn,Phonemic
+13-150-70-1,tsak1249,Tsakhur,1198,хедда,CyrillTrans,"much, many",,,"xed̄a, xet̄a",Phonemic
+13-150-70-3,tsak1249,Tsakhur,1198,хетта,CyrillTrans,"much, many",,,"xed̄a, xet̄a",Phonemic
+13-140-70-1,tsak1249,Tsakhur,98,гыргын,CyrillTrans,"every, all",,,gɨrgɨn,Phonemic
+13-107-70-1,tsak1249,Tsakhur,1420,гьысабаас,CyrillTrans,count,,,hɨsabaʔas,Phonemic
+13-106-70-1,tsak1249,Tsakhur,1843,аазыр,CyrillTrans,thousand,,,aʔazɨr,Phonemic
+13-105-70-1,tsak1249,Tsakhur,1634,ваІш,CyrillTrans,hundred,,,waˤš,Phonemic
+13-104-70-1,tsak1249,Tsakhur,1710,къад,CyrillTrans,twenty,,,q̄ad,Phonemic
+13-103-70-1,tsak1249,Tsakhur,1709,йицІыхьвад,CyrillTrans,fifteen,,,yic’ɨx̌ʷad,Phonemic
+13-102-70-1,tsak1249,Tsakhur,1707,йицІыкьваІд,CyrillTrans,twelve,,,yic’ɨqʼʷaˤd,Phonemic
+13-101-70-1,tsak1249,Tsakhur,1706,йицІысад,CyrillTrans,eleven,,,yic’ɨsad,Phonemic
+13-100-70-1,tsak1249,Tsakhur,1515,йицІыд,CyrillTrans,ten,,,yic’ɨd,Phonemic
+13-90-70-1,tsak1249,Tsakhur,1483,йичІуд,CyrillTrans,nine,,,yič’ud,Phonemic
+13-80-70-1,tsak1249,Tsakhur,1705,молюд,CyrillTrans,eight,,,molyud,Phonemic
+13-70-70-1,tsak1249,Tsakhur,1704,йигІыд,CyrillTrans,seven,,,yiʕɨd,Phonemic
+13-60-70-1,tsak1249,Tsakhur,1703,йихьыд,CyrillTrans,six,,,"yix̌ɨd, yɨx̌ile",Phonemic
+13-60-70-3,tsak1249,Tsakhur,1703,йыхьиле,CyrillTrans,six,,,"yix̌ɨd, yɨx̌ile",Phonemic
+13-50-70-1,tsak1249,Tsakhur,493,хьод,CyrillTrans,five,,,x̌od,Phonemic
+13-40-70-1,tsak1249,Tsakhur,1500,йокьуд,CyrillTrans,four,,,yoqʼud,Phonemic
+13-20-70-1,tsak1249,Tsakhur,1498,кьоІд,CyrillTrans,two,,,qʼoˤd,Phonemic
+13-30-70-1,tsak1249,Tsakhur,492,хьебыд,CyrillTrans,three,,,x̌ebɨd,Phonemic
+13-10-70-1,tsak1249,Tsakhur,1493,са,CyrillTrans,one,,,sa,Phonemic
+13-0-70-1,tsak1249,Tsakhur,1294,сфыр,CyrillTrans,"zero, nothing",,,sfɨr,Phonemic
+12-930-70-1,tsak1249,Tsakhur,1264,бадалаас,CyrillTrans,change,,,badalaʔas,Phonemic
+12-920-70-1,tsak1249,Tsakhur,1558,акаран,CyrillTrans,"like, similar",,,akaran,Phonemic
+12-840-70-1,tsak1249,Tsakhur,1048,хатІ,CyrillTrans,line,,,xatʼ,Phonemic
+12-850-70-1,tsak1249,Tsakhur,1667,баІдже,CyrillTrans,hole,,,baˤǯe,Phonemic
+12-830-70-1,tsak1249,Tsakhur,1845,гыргыр,CyrillTrans,"sphere, ball",,,gɨrgɨr,Phonemic
+12-810-70-1,tsak1249,Tsakhur,1395,гыргыран,CyrillTrans,round,,,gɨrgɨran,Phonemic
+12-820-70-1,tsak1249,Tsakhur,1467,гыр,CyrillTrans,circle,,,"gɨr, krug",Phonemic
+12-820-70-3,tsak1249,Tsakhur,1467,круг,CyrillTrans,circle,,,"gɨr, krug",Phonemic
+12-780-70-1,tsak1249,Tsakhur,850,квадрат,CyrillTrans,square,,,kwadrat,Phonemic
+12-770-70-1,tsak1249,Tsakhur,1367,хач,CyrillTrans,cross,,,xač,Phonemic
+12-760-70-1,tsak1249,Tsakhur,192,хьошис,CyrillTrans,corner,,,x̌ošis,Phonemic
+12-750-70-1,tsak1249,Tsakhur,1071,къармах,CyrillTrans,hook,,,q̄armax,Phonemic
+12-740-70-1,tsak1249,Tsakhur,297,хъигІоткур,CyrillTrans,crooked,,,qiʕotkur,Phonemic
+12-730-70-1,tsak1249,Tsakhur,1404,дюзуда,CyrillTrans,straight,,,dyuzuda,Phonemic
+12-710-70-1,tsak1249,Tsakhur,1633,кьадан,CyrillTrans,flat,,,qʼadan,Phonemic
+12-680-70-1,tsak1249,Tsakhur,193,хурун,CyrillTrans,shallow,,,xurun,Phonemic
+12-670-70-1,tsak1249,Tsakhur,1593,кІоран,CyrillTrans,deep,,,kʼoran,Phonemic
+12-650-70-1,tsak1249,Tsakhur,2249,кІуІван,CyrillTrans,thin (in dimension),,,"kʼuˤwan, kʼɨˤwan",Phonemic
+12-650-70-3,tsak1249,Tsakhur,2249,кІыІван,CyrillTrans,thin (in dimension),,,"kʼuˤwan, kʼɨˤwan",Phonemic
+12-630-70-1,tsak1249,Tsakhur,1244,кІыххьин,CyrillTrans,thick (in dimension),,,kʼɨxx̌in,Phonemic
+12-620-70-1,tsak1249,Tsakhur,1267,дарын,CyrillTrans,narrow,,,darɨn,Phonemic
+12-610-70-1,tsak1249,Tsakhur,1243,аІкьыІн,CyrillTrans,"wide, broad",,,aˤqʼɨˤn,Phonemic
+12-590-70-1,tsak1249,Tsakhur,1645,джитІан,CyrillTrans,short,,,ǯitʼan,Phonemic
+12-580-70-1,tsak1249,Tsakhur,711,ахтыйн,CyrillTrans,tall,,,axtɨyn,Phonemic
+12-570-70-1,tsak1249,Tsakhur,1203,хылийн,CyrillTrans,long,,,xɨliyn,Phonemic
+12-560-70-1,tsak1249,Tsakhur,1246,кІылин,CyrillTrans,"small, little",,,kʼɨlin,Phonemic
+12-550-70-1,tsak1249,Tsakhur,1202,хедын,CyrillTrans,"large, big",,,xedɨn,Phonemic
+12-540-70-1,tsak1249,Tsakhur,1506,оІлгимишаас,CyrillTrans,measure,,,oˤlgimišaʔas,Phonemic
+12-530-70-1,tsak1249,Tsakhur,479,хаІрхъихьес,CyrillTrans,grow,,,xaˤrqix̌es,Phonemic
+12-480-70-1,tsak1249,Tsakhur,1595,гунай,CyrillTrans,south,,,gunay,Phonemic
+12-470-70-1,tsak1249,Tsakhur,1598,гузай,CyrillTrans,north,,,guzay,Phonemic
+12-460-70-1,tsak1249,Tsakhur,1817,макьриб,CyrillTrans,west,,,maqʼrib,Phonemic
+12-450-70-1,tsak1249,Tsakhur,1877,машрикь,CyrillTrans,east,,,mašriqʼ,Phonemic
+12-430-70-1,tsak1249,Tsakhur,1942,кІане,CyrillTrans,near (adv),,,kʼane,Phonemic
+12-440-70-1,tsak1249,Tsakhur,1406,акьаІна,CyrillTrans,far (adv),,,aqʼaˤna,Phonemic
+12-420-70-1,tsak1249,Tsakhur,244,солун,CyrillTrans,left (side),,,solun,Phonemic
+12-410-70-1,tsak1249,Tsakhur,1019,гьаттахъан,CyrillTrans,right (side),,,hat̄aqan,Phonemic
+12-370-70-1,tsak1249,Tsakhur,1093,марказ,CyrillTrans,"middle, center",,,markaz,Phonemic
+12-360-70-1,tsak1249,Tsakhur,682,къырагъ,CyrillTrans,side,,,q̄ɨraɣ,Phonemic
+12-353-70-1,tsak1249,Tsakhur,863,къырагъ,CyrillTrans,edge,,,q̄ɨraɣ,Phonemic
+12-352-70-1,tsak1249,Tsakhur,372,экІын,CyrillTrans,pointed,,,ekʼɨn,Phonemic
+12-350-70-1,tsak1249,Tsakhur,742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-70-1,tsak1249,Tsakhur,690,диб,CyrillTrans,bottom,,,dib,Phonemic
+12-320-70-1,tsak1249,Tsakhur,721,гьикийда,CyrillTrans,low,,,hikiyda,Phonemic
+12-330-70-1,tsak1249,Tsakhur,1753,кьом,CyrillTrans,top,,,qʼom,Phonemic
+12-310-70-1,tsak1249,Tsakhur,1265,ахтыда,CyrillTrans,high,,,axtɨda,Phonemic
+12-270-70-1,tsak1249,Tsakhur,602,дюгулʼаас,CyrillTrans,"hide, conceal",,,dyugulʲaʔas,Phonemic
+12-250-70-1,tsak1249,Tsakhur,1046,итумаас,CyrillTrans,"shut, close",,,itumaʔas,Phonemic
+12-260-70-1,tsak1249,Tsakhur,761,оІртмишаас,CyrillTrans,cover,,,"oˤrtmišaʔas, ač̄es",Phonemic
+12-260-70-3,tsak1249,Tsakhur,761,аччес,CyrillTrans,cover,,,"oˤrtmišaʔas, ač̄es",Phonemic
+12-240-70-1,tsak1249,Tsakhur,1156,ачмишаъас,CyrillTrans,open,,,ačmišaʔas,Phonemic
+12-232-70-1,tsak1249,Tsakhur,1119,битІалаъас,CyrillTrans,divide,,,bitʼalaʔas,Phonemic
+12-230-70-1,tsak1249,Tsakhur,1359,джураас,CyrillTrans,separate,,,ǯuraʔas,Phonemic
+12-220-70-1,tsak1249,Tsakhur,1743,савалес,CyrillTrans,"join, unite",,,sawales,Phonemic
+12-213-70-1,tsak1249,Tsakhur,1576,саъас,CyrillTrans,pile up,,,saʔas,Phonemic
+12-212-70-1,tsak1249,Tsakhur,371,саъас,CyrillTrans,pick up,,,"saʔas, galxɨmišaʔas",Phonemic
+12-212-70-3,tsak1249,Tsakhur,371,галхымишаас,CyrillTrans,pick up,,,"saʔas, galxɨmišaʔas",Phonemic
+12-210-70-1,tsak1249,Tsakhur,7,саъас,CyrillTrans,"collect, gather",,,saʔas,Phonemic
+12-170-70-1,tsak1249,Tsakhur,838,ахцабы,CyrillTrans,"remains, left overs",,,axcabɨ,Phonemic
+12-160-70-1,tsak1249,Tsakhur,987,ахвас,CyrillTrans,"remain, stay",,,axʷas,Phonemic
+12-150-70-1,tsak1249,Tsakhur,1442,ипеззарас,CyrillTrans,stand,,,ipezzaras,Phonemic
+12-140-70-1,tsak1249,Tsakhur,215,къалихьас,CyrillTrans,lie down,,,q̄alix̌as,Phonemic
+12-130-70-1,tsak1249,Tsakhur,1416,гюурас,CyrillTrans,sit,,,gyuʔuras,Phonemic
+12-120-70-1,tsak1249,Tsakhur,998,гихьес,CyrillTrans,put,,,gix̌es,Phonemic
+12-110-70-1,tsak1249,Tsakhur,723,джига,CyrillTrans,place,,,ǯiga,Phonemic
+12-80-70-1,tsak1249,Tsakhur,1591,оад,CyrillTrans,"up, above",,,oad,Phonemic
+12-70-70-1,tsak1249,Tsakhur,1485,авуд,CyrillTrans,under,,,awud,Phonemic
+12-60-70-1,tsak1249,Tsakhur,762,къад,CyrillTrans,outside,,,q̄ad,Phonemic
+12-50-70-1,tsak1249,Tsakhur,1606,ад,CyrillTrans,"inside, in",,,ad,Phonemic
+12-41-70-1,tsak1249,Tsakhur,1883,гьийд,CyrillTrans,front,,,hiyd,Phonemic
+12-40-70-1,tsak1249,Tsakhur,1882,гьийд,CyrillTrans,before,,,hiyd,Phonemic
+12-30-70-1,tsak1249,Tsakhur,2094,авуд,CyrillTrans,"down, below",,,awud,Phonemic
+12-20-70-1,tsak1249,Tsakhur,1816,кьане,CyrillTrans,beside,,,qʼane,Phonemic
+12-11-70-1,tsak1249,Tsakhur,1686,йикьал,CyrillTrans,behind,,,yiqʼal,Phonemic
+12-10-70-1,tsak1249,Tsakhur,1685,хъигъа,CyrillTrans,after,,,qiɣa,Phonemic
+11-920-70-1,tsak1249,Tsakhur,1098,гетхьес,CyrillTrans,weigh,,,getx̌es,Phonemic
+11-910-70-1,tsak1249,Tsakhur,884,битІалаас,CyrillTrans,share (distribute),,,bitʼalaʔas,Phonemic
+11-890-70-1,tsak1249,Tsakhur,1887,уджузын,CyrillTrans,cheap,,,uǯuzɨn,Phonemic
+11-880-70-1,tsak1249,Tsakhur,1426,гыранын,CyrillTrans,"dear (costly, expensive)",,,gɨranɨn,Phonemic
+11-870-70-1,tsak1249,Tsakhur,657,кьиймат,CyrillTrans,price,,,qʼiymat,Phonemic
+11-860-70-1,tsak1249,Tsakhur,752,дукан,CyrillTrans,"store, shop",,,"dukan, kapratilʲ",Phonemic
+11-860-70-3,tsak1249,Tsakhur,752,капратилʼ,CyrillTrans,"store, shop",,,"dukan, kapratilʲ",Phonemic
+11-850-70-1,tsak1249,Tsakhur,633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-70-1,tsak1249,Tsakhur,1082,алверчий,CyrillTrans,merchant,,,alwerčiy,Phonemic
+11-830-70-1,tsak1249,Tsakhur,2135,алвер,CyrillTrans,"trade, barter",,,alwer,Phonemic
+11-820-70-1,tsak1249,Tsakhur,1571,масса гьивой,CyrillTrans,sell,,,mas̄a hiwoy,Phonemic
+11-810-70-1,tsak1249,Tsakhur,1869,алищес,CyrillTrans,buy,,,ališ̄es,Phonemic
+11-790-70-1,tsak1249,Tsakhur,733,къазанмишаъас,CyrillTrans,earn,,,q̄azanmišaʔas,Phonemic
+11-780-70-1,tsak1249,Tsakhur,1122,доннугъ,CyrillTrans,wages,,,donnuɣ,Phonemic
+11-690-70-1,tsak1249,Tsakhur,873,налог,CyrillTrans,"tax, tribute",,,nalog,Phonemic
+11-660-70-1,tsak1249,Tsakhur,1081,гьысаб,CyrillTrans,"account, reckoning",,,hɨsab,Phonemic
+11-650-70-1,tsak1249,Tsakhur,718,алищес,CyrillTrans,pay (vb),,,ališ̄es,Phonemic
+11-640-70-1,tsak1249,Tsakhur,1914,бордж,CyrillTrans,debt,,,borǯ,Phonemic
+11-630-70-1,tsak1249,Tsakhur,369,борджупы,CyrillTrans,owe,,,borǯupɨ,Phonemic
+11-620-70-1,tsak1249,Tsakhur,1823,борджес алятІуй,CyrillTrans,borrow,,,borǯes alyatʼuy,Phonemic
+11-610-70-1,tsak1249,Tsakhur,582,борджес гьивой,CyrillTrans,lend,,,borǯes hiwoy,Phonemic
+11-540-70-1,tsak1249,Tsakhur,1774,кьытІмыр,CyrillTrans,"avaricious, stingy",,,qʼɨtʼmɨr,Phonemic
+11-530-70-1,tsak1249,Tsakhur,1934,дипенджий,CyrillTrans,beggar,,,dipenǯiy,Phonemic
+11-520-70-1,tsak1249,Tsakhur,1674,касибна,CyrillTrans,poor,,,kasibna,Phonemic
+11-510-70-1,tsak1249,Tsakhur,712,катхуда,CyrillTrans,rich,,,katxuda,Phonemic
+11-440-70-1,tsak1249,Tsakhur,1867,маныт,CyrillTrans,coin,,,"manɨt, manat",Phonemic
+11-440-70-3,tsak1249,Tsakhur,1867,манат,CyrillTrans,coin,,,"manɨt, manat",Phonemic
+11-430-70-1,tsak1249,Tsakhur,1559,пыл,CyrillTrans,money,,,pɨl,Phonemic
+11-340-70-1,tsak1249,Tsakhur,1095,къайиккас,CyrillTrans,"release, let go",,,q̄ayik̄as,Phonemic
+11-330-70-1,tsak1249,Tsakhur,1660,окІанаас,CyrillTrans,lose,,,"okʼanaʔas, aqʼapaʔas",Phonemic
+11-330-70-3,tsak1249,Tsakhur,1660,акьапаас,CyrillTrans,lose,,,"okʼanaʔas, aqʼapaʔas",Phonemic
+11-320-70-1,tsak1249,Tsakhur,719,авайкес,CyrillTrans,find,,,awaykes,Phonemic
+11-310-70-1,tsak1249,Tsakhur,1468,тІабалаас,CyrillTrans,"seek, look for",,,tʼabalaʔas,Phonemic
+11-280-70-1,tsak1249,Tsakhur,44,зиян гьаъас,CyrillTrans,"harm, injure, damage",,,ziyan haʔas,Phonemic
+11-270-70-1,tsak1249,Tsakhur,681,дагъылмишаас,CyrillTrans,destroy,,,daɣɨlmišaʔas,Phonemic
+11-250-70-1,tsak1249,Tsakhur,2008,къатихьанаас,CyrillTrans,"save, rescue",,,q̄atix̌anaʔas,Phonemic
+11-240-70-1,tsak1249,Tsakhur,1997,гьиваджес,CyrillTrans,"preserve, look after",,,hiwaǯes,Phonemic
+11-220-70-1,tsak1249,Tsakhur,85,сакІалаас,CyrillTrans,give back,,,sakʼalaʔas,Phonemic
+11-210-70-1,tsak1249,Tsakhur,1447,гьепес,CyrillTrans,give,,,hepes,Phonemic
+11-180-70-1,tsak1249,Tsakhur,738,кар,CyrillTrans,thing,,,kar,Phonemic
+11-170-70-1,tsak1249,Tsakhur,1477,гьиваджес,CyrillTrans,"keep, retain",,,hiwaǯes,Phonemic
+11-160-70-1,tsak1249,Tsakhur,694,апетІас,CyrillTrans,"get, obtain",,,apetʼas,Phonemic
+11-150-70-1,tsak1249,Tsakhur,1448,аххъас,CyrillTrans,hold,,,axqas,Phonemic
+11-140-70-1,tsak1249,Tsakhur,2021,аххъас,CyrillTrans,"seize, grasp",,,axqas,Phonemic
+11-130-70-1,tsak1249,Tsakhur,1749,апятІас,CyrillTrans,take,,,apyatʼas,Phonemic
+11-120-70-1,tsak1249,Tsakhur,684,ихьес,CyrillTrans,"own, possess",,,ix̌es,Phonemic
+11-110-70-1,tsak1249,Tsakhur,773,ихьес,CyrillTrans,have,,,ix̌es,Phonemic
+10-920-70-1,tsak1249,Tsakhur,1922,гихас,CyrillTrans,land (vb),,,"gixas, hxas",Phonemic
+10-920-70-3,tsak1249,Tsakhur,1922,гьхас,CyrillTrans,land (vb),,,"gixas, hxas",Phonemic
+10-910-70-1,tsak1249,Tsakhur,610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-70-1,tsak1249,Tsakhur,1870,йакорь,CyrillTrans,anchor,,,yakorʲ,Phonemic
+10-880-70-1,tsak1249,Tsakhur,786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-70-1,tsak1249,Tsakhur,184,мачта,CyrillTrans,mast,,,mačta,Phonemic
+10-860-70-1,tsak1249,Tsakhur,108,роль,CyrillTrans,rudder,,,rolʲ,Phonemic
+10-852-70-1,tsak1249,Tsakhur,1849,гьуІзмишхьес,CyrillTrans,row (vb),,,huˤzmišx̌es,Phonemic
+10-851-70-1,tsak1249,Tsakhur,234,къапагъ,CyrillTrans,paddle (noun),,,q̄apaɣ,Phonemic
+10-850-70-1,tsak1249,Tsakhur,108,къапагъ,CyrillTrans,oar,,,q̄apaɣ,Phonemic
+10-840-70-1,tsak1249,Tsakhur,1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-70-1,tsak1249,Tsakhur,416,лодка,CyrillTrans,outrigger,,,lodka,Phonemic
+10-831-70-1,tsak1249,Tsakhur,1970,лодка,CyrillTrans,canoe,,,lodka,Phonemic
+10-830-70-1,tsak1249,Tsakhur,1844,лодка,CyrillTrans,boat,,,lodka,Phonemic
+10-810-70-1,tsak1249,Tsakhur,740,корабль,CyrillTrans,ship,,,"korablʲ, gami",Phonemic
+10-810-70-3,tsak1249,Tsakhur,740,гами,CyrillTrans,ship,,,"korablʲ, gami",Phonemic
+10-780-70-1,tsak1249,Tsakhur,14,вейца,CyrillTrans,yoke,,,weyca,Phonemic
+10-770-70-1,tsak1249,Tsakhur,1769,ох,CyrillTrans,axle,,,ox,Phonemic
+10-760-70-1,tsak1249,Tsakhur,710,текар,CyrillTrans,wheel,,,tekar,Phonemic
+10-750-70-1,tsak1249,Tsakhur,122,аІраба,CyrillTrans,"carriage, wagon, cart",,,aˤraba,Phonemic
+10-740-70-1,tsak1249,Tsakhur,1011,йыІгъ,CyrillTrans,bridge,,,yɨˤɣ,Phonemic
+10-720-70-1,tsak1249,Tsakhur,2252,чухур,CyrillTrans,path,,,čuxur,Phonemic
+10-710-70-1,tsak1249,Tsakhur,667,йаІхъ,CyrillTrans,road,,,yaˤq,Phonemic
+10-670-70-1,tsak1249,Tsakhur,1452,итепемишаас,CyrillTrans,"push, shove",,,itepemišaʔas,Phonemic
+10-660-70-1,tsak1249,Tsakhur,367,балканыл аІпягьас,CyrillTrans,ride,,,balkanɨl aˤpyahas,Phonemic
+10-650-70-1,tsak1249,Tsakhur,741,машине аІпягьас,CyrillTrans,drive,,,mašine aˤpyahas,Phonemic
+10-640-70-1,tsak1249,Tsakhur,43,ыккейс,CyrillTrans,lead (vb),,,ɨk̄eys,Phonemic
+10-630-70-1,tsak1249,Tsakhur,1127,оІтиргьаас,CyrillTrans,send,,,oˤtirhaʔas,Phonemic
+10-620-70-1,tsak1249,Tsakhur,692,аппес,CyrillTrans,bring,,,ap̄es,Phonemic
+10-615-70-1,tsak1249,Tsakhur,415,хьыткапе хъиккес,CyrillTrans,carry-underarm,,,x̌ɨtkape qik̄es,Phonemic
+10-614-70-1,tsak1249,Tsakhur,414,капейп хъиккес,CyrillTrans,carry-on-head,,,kapeyp qik̄es,Phonemic
+10-613-70-1,tsak1249,Tsakhur,413,мыгабишил хъиккес,CyrillTrans,carry-on-shoulder,,,mɨgabišil qik̄es,Phonemic
+10-612-70-1,tsak1249,Tsakhur,412,хыпека хьиккес,CyrillTrans,carry-in-hand,,,xɨpeka x̌ik̄es,Phonemic
+10-610-70-1,tsak1249,Tsakhur,700,хъиккес,CyrillTrans,carry (bear),,,qik̄es,Phonemic
+10-570-70-1,tsak1249,Tsakhur,749,икегІес,CyrillTrans,enter,,,ikeʕes,Phonemic
+10-560-70-1,tsak1249,Tsakhur,1778,депеехъихьес,CyrillTrans,approach,,,depeyeqix̌es,Phonemic
+10-530-70-1,tsak1249,Tsakhur,1047,излемишаас,CyrillTrans,pursue,,,izlemišaʔas,Phonemic
+10-520-70-1,tsak1249,Tsakhur,1085,излемишаас,CyrillTrans,follow,,,izlemišaʔas,Phonemic
+10-510-70-1,tsak1249,Tsakhur,956,гьихвас,CyrillTrans,flee,,,hixʷas,Phonemic
+10-491-70-1,tsak1249,Tsakhur,485,акІанас,CyrillTrans,disappear,,,akʼanas,Phonemic
+10-490-70-1,tsak1249,Tsakhur,1752,аІпягьас,CyrillTrans,"go away, depart",,,aˤpyahas,Phonemic
+10-481-70-1,tsak1249,Tsakhur,581,сакІапас,CyrillTrans,come back,,,sakʼapas,Phonemic
+10-480-70-1,tsak1249,Tsakhur,1446,айрес,CyrillTrans,come,,,ayres,Phonemic
+10-474-70-1,tsak1249,Tsakhur,1107,хъигъечІес,CyrillTrans,go out,,,qiɣeč’es,Phonemic
+10-473-70-1,tsak1249,Tsakhur,2014,гечІес,CyrillTrans,go down,,,geč’es,Phonemic
+10-472-70-1,tsak1249,Tsakhur,1102,хъиртас,CyrillTrans,climb,,,qirtas,Phonemic
+10-470-70-1,tsak1249,Tsakhur,695,аІпягьас,CyrillTrans,go,,,aˤpyahas,Phonemic
+10-471-70-1,tsak1249,Tsakhur,705,ипхъечІес,CyrillTrans,go up,,,ipqeč’es,Phonemic
+10-460-70-1,tsak1249,Tsakhur,1519,къадахьанас,CyrillTrans,run,,,q̄adax̌anas,Phonemic
+10-451-70-1,tsak1249,Tsakhur,366,кьара,CyrillTrans,limp,,,qʼara,Phonemic
+10-450-70-1,tsak1249,Tsakhur,1443,ийкарас,CyrillTrans,walk,,,iykaras,Phonemic
+10-440-70-1,tsak1249,Tsakhur,1879,мыкІаас,CyrillTrans,dance,,,mɨkʼaʔas,Phonemic
+10-431-70-1,tsak1249,Tsakhur,1135,мыкь эвхас (ывхас),CyrillTrans,kick,,,mɨqʼ ewxas (ɨwxas),Phonemic
+10-430-70-1,tsak1249,Tsakhur,1829,къокІапас,CyrillTrans,"jump, leap",,,q̄okʼapas,Phonemic
+10-420-70-1,tsak1249,Tsakhur,1324,гьитигІанаас,CyrillTrans,"slide, slip",,,hitiʕanaʔas,Phonemic
+10-413-70-1,tsak1249,Tsakhur,296,гюурас,CyrillTrans,crouch,,,gyuʔuras,Phonemic
+10-412-70-1,tsak1249,Tsakhur,66,кынгыбы,CyrillTrans,kneel,,,kɨngɨbɨ,Phonemic
+10-410-70-1,tsak1249,Tsakhur,96,гьаргъас,CyrillTrans,"creep, crawl",,,harɣas,Phonemic
+10-380-70-1,tsak1249,Tsakhur,175,цораас,CyrillTrans,blow,,,coraʔas,Phonemic
+10-370-70-1,tsak1249,Tsakhur,1441,апихас,CyrillTrans,fly (vb),,,apixas,Phonemic
+10-360-70-1,tsak1249,Tsakhur,787,гьуІзмишхьес,CyrillTrans,sail (vb),,,huˤzmišx̌es,Phonemic
+10-352-70-1,tsak1249,Tsakhur,365,гьуІзмишхьес,CyrillTrans,splash,,,huˤzmišx̌es,Phonemic
+10-351-70-1,tsak1249,Tsakhur,119,йаІйхаІрас,CyrillTrans,dive,,,yaˤyxaˤras,Phonemic
+10-350-70-1,tsak1249,Tsakhur,1439,гьуІзмишхьес,CyrillTrans,swim,,,huˤzmišx̌es,Phonemic
+10-340-70-1,tsak1249,Tsakhur,1574,гьузмишхьес,CyrillTrans,float,,,huzmišx̌es,Phonemic
+10-330-70-1,tsak1249,Tsakhur,1088,богъшимхьес,CyrillTrans,sink,,,boɣšimx̌es,Phonemic
+10-320-70-1,tsak1249,Tsakhur,2003,аллгьас,CyrillTrans,flow,,,"allhas, allhas araguka",Phonemic
+10-320-70-3,tsak1249,Tsakhur,2003,аллгьас арагука,CyrillTrans,flow,,,"allhas, allhas araguka",Phonemic
+10-260-70-1,tsak1249,Tsakhur,1909,сыпкаламишаас,CyrillTrans,shake,,,sɨpkalamišaʔas,Phonemic
+10-252-70-1,tsak1249,Tsakhur,702,авхъас,CyrillTrans,catch (ball),,,awqas,Phonemic
+10-250-70-1,tsak1249,Tsakhur,1456,гьивохьарас,CyrillTrans,throw,,,hiwox̌aras,Phonemic
+10-240-70-1,tsak1249,Tsakhur,2253,тІянкІ-тІянкІ,CyrillTrans,drip,,,tʼyankʼ-tʼyankʼ,Phonemic
+10-230-70-1,tsak1249,Tsakhur,1280,къаайхьас,CyrillTrans,fall,,,q̄aʔayx̌as,Phonemic
+10-220-70-1,tsak1249,Tsakhur,501,сугъоцас,CyrillTrans,"raise, lift",,,suɣocas,Phonemic
+10-210-70-1,tsak1249,Tsakhur,568,апхъа,CyrillTrans,rise,,,apqa,Phonemic
+10-170-70-1,tsak1249,Tsakhur,430,апишраъас,CyrillTrans,twist,,,apišraʔas,Phonemic
+10-160-70-1,tsak1249,Tsakhur,808,аликорас,CyrillTrans,drop (vb),,,alikoras,Phonemic
+10-150-70-1,tsak1249,Tsakhur,827,аликІараъас,CyrillTrans,roll,,,alikʼaraʔas,Phonemic
+10-140-70-1,tsak1249,Tsakhur,1113,гьикІарас,CyrillTrans,"wind, wrap",,,hikʼaras,Phonemic
+10-130-70-1,tsak1249,Tsakhur,1445,аликІарас,CyrillTrans,turn around,,,alikʼaras,Phonemic
+10-120-70-1,tsak1249,Tsakhur,1588,акикІалас,CyrillTrans,turn over,,,akikʼalas,Phonemic
+10-110-70-1,tsak1249,Tsakhur,765,икьарас,CyrillTrans,move,,,iqʼaras,Phonemic
+9-890-70-1,tsak1249,Tsakhur,2001,цІыцІаъас,CyrillTrans,paint (vb),,,c’ɨc’aʔas,Phonemic
+9-880-70-1,tsak1249,Tsakhur,647,ранг,CyrillTrans,paint (noun),,,rang,Phonemic
+9-830-70-1,tsak1249,Tsakhur,1002,хыІс,CyrillTrans,statue,,,xɨˤs,Phonemic
+9-820-70-1,tsak1249,Tsakhur,914,скульптор,CyrillTrans,sculptor,,,skulʲptor,Phonemic
+9-810-70-1,tsak1249,Tsakhur,228,гатхас,CyrillTrans,carve,,,gatxas,Phonemic
+9-791-70-1,tsak1249,Tsakhur,360,мыц гьаъас,CyrillTrans,fan (vb),,,mɨc haʔas,Phonemic
+9-790-70-1,tsak1249,Tsakhur,1971,мыц,CyrillTrans,fan (noun),,,"mɨc, pɨrpɨray",Phonemic
+9-790-70-3,tsak1249,Tsakhur,1971,пырпырай,CyrillTrans,fan (noun),,,"mɨc, pɨrpɨray",Phonemic
+9-780-70-1,tsak1249,Tsakhur,293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-70-1,tsak1249,Tsakhur,292,габа,CyrillTrans,rug,,,gaba,Phonemic
+9-770-70-1,tsak1249,Tsakhur,195,джеджим,CyrillTrans,mat,,,ǯeǯim,Phonemic
+9-760-70-1,tsak1249,Tsakhur,1539,тІанкІий,CyrillTrans,basket,,,tʼankʼiy,Phonemic
+9-750-70-1,tsak1249,Tsakhur,1729,хъехас,CyrillTrans,"weave, plait",,,qexas,Phonemic
+9-740-70-1,tsak1249,Tsakhur,604,аІйне,CyrillTrans,glass,,,aˤyne,Phonemic
+9-730-70-1,tsak1249,Tsakhur,1399,кІатап,CyrillTrans,clay,,,"kʼatap, ǯulon",Phonemic
+9-730-70-3,tsak1249,Tsakhur,1399,джулон,CyrillTrans,clay,,,"kʼatap, ǯulon",Phonemic
+9-720-70-1,tsak1249,Tsakhur,289,кІалыб гьачІиеъаc,CyrillTrans,mold (clay etc),,,kalɨb hač’iyeʔas,Phonemic
+9-710-70-1,tsak1249,Tsakhur,359,устад,CyrillTrans,potter,,,ustad,Phonemic
+9-690-70-1,tsak1249,Tsakhur,358,дамар,CyrillTrans,"tin, tinplate",,,damar,Phonemic
+9-680-70-1,tsak1249,Tsakhur,627,къургъушин,CyrillTrans,lead (noun),,,q̄urɣušin,Phonemic
+9-670-70-1,tsak1249,Tsakhur,621,йува,CyrillTrans,iron,,,"yuwa, yɨwa",Phonemic
+9-670-70-3,tsak1249,Tsakhur,621,йыва,CyrillTrans,iron,,,"yuwa, yɨwa",Phonemic
+9-660-70-1,tsak1249,Tsakhur,1825,ез,CyrillTrans,"copper, bronze",,,yez,Phonemic
+9-650-70-1,tsak1249,Tsakhur,759,нукІра,CyrillTrans,silver,,,nukʼra,Phonemic
+9-640-70-1,tsak1249,Tsakhur,1369,кІынягъа,CyrillTrans,gold,,,kʼɨnyaɣa,Phonemic
+9-630-70-1,tsak1249,Tsakhur,211,кІалыб гьачІиеъаc,CyrillTrans,cast (metals),,,kalɨb hač’iyeʔas,Phonemic
+9-620-70-1,tsak1249,Tsakhur,1648,зиндан,CyrillTrans,anvil,,,zindan,Phonemic
+9-610-70-1,tsak1249,Tsakhur,288,кІырахана,CyrillTrans,forge,,,kʼɨraxana,Phonemic
+9-600-70-1,tsak1249,Tsakhur,1001,демирчий,CyrillTrans,"smith, blacksmith",,,demirčiy,Phonemic
+9-560-70-1,tsak1249,Tsakhur,1069,кІлей,CyrillTrans,glue,,,kʼley,Phonemic
+9-500-70-1,tsak1249,Tsakhur,502,къадах,CyrillTrans,nail,,,q̄adax,Phonemic
+9-490-70-1,tsak1249,Tsakhur,1481,кІаш,CyrillTrans,hammer,,,kʼaš,Phonemic
+9-480-70-1,tsak1249,Tsakhur,1948,айха,CyrillTrans,saw,,,ayxa,Phonemic
+9-461-70-1,tsak1249,Tsakhur,46,отІалгьауй,CyrillTrans,hollow out,,,otʼalhauy,Phonemic
+9-460-70-1,tsak1249,Tsakhur,1501,баІдже,CyrillTrans,bore,,,"baˤǯe, q̄ač’",Phonemic
+9-460-70-3,tsak1249,Tsakhur,1501,къачІ,CyrillTrans,bore,,,"baˤǯe, q̄ač’",Phonemic
+9-440-70-1,tsak1249,Tsakhur,1840,аляъас,CyrillTrans,build,,,alyaʔas,Phonemic
+9-430-70-1,tsak1249,Tsakhur,1042,устад,CyrillTrans,carpenter,,,ustad,Phonemic
+9-422-70-1,tsak1249,Tsakhur,1361,ыІгьтадж,CyrillTrans,tool,,,ɨˤhtaǯ,Phonemic
+9-380-70-1,tsak1249,Tsakhur,245,хьырис,CyrillTrans,broom,,,x̌ɨris,Phonemic
+9-360-70-1,tsak1249,Tsakhur,1453,гьогъалас,CyrillTrans,wash,,,hoɣalas,Phonemic
+9-370-70-1,tsak1249,Tsakhur,230,хъатхьас,CyrillTrans,sweep,,,qatx̌as,Phonemic
+9-350-70-1,tsak1249,Tsakhur,1487,кІяъас,CyrillTrans,pour,,,kʼyaʔas,Phonemic
+9-343-70-1,tsak1249,Tsakhur,1414,къичІокварас,CyrillTrans,"squeeze, wring",,,q̄ič’okʷaras,Phonemic
+9-342-70-1,tsak1249,Tsakhur,1913,гьочІанас,CyrillTrans,press,,,hoč’anas,Phonemic
+9-341-70-1,tsak1249,Tsakhur,357,гиваханас,CyrillTrans,hang up,,,giwaxanas,Phonemic
+9-340-70-1,tsak1249,Tsakhur,38,сӣмишаас,CyrillTrans,spread out,,,"sīmišaʔas, sīmišx̌es",Phonemic
+9-340-70-3,tsak1249,Tsakhur,38,сӣмишхьес,CyrillTrans,spread out,,,"sīmišaʔas, sīmišx̌es",Phonemic
+9-330-70-1,tsak1249,Tsakhur,1455,цІыцІаас,CyrillTrans,pull,,,c’ɨc’aʔas,Phonemic
+9-320-70-1,tsak1249,Tsakhur,214,цІыцІаас,CyrillTrans,stretch,,,c’ɨc’aʔas,Phonemic
+9-310-70-1,tsak1249,Tsakhur,1449,гьакалаас,CyrillTrans,"rub, wipe",,,hakalaʔas,Phonemic
+9-290-70-1,tsak1249,Tsakhur,291,хъишес,CyrillTrans,"flay, skin",,,qišes,Phonemic
+9-280-70-1,tsak1249,Tsakhur,1735,хъодас,CyrillTrans,tear,,,qodas,Phonemic
+9-270-70-1,tsak1249,Tsakhur,1437,хъахас,CyrillTrans,split,,,qaxas,Phonemic
+9-261-70-1,tsak1249,Tsakhur,588,гьатІкьурийн,CyrillTrans,broken,,,hatʼqʼuriyn,Phonemic
+9-260-70-1,tsak1249,Tsakhur,680,гьакьвараас,CyrillTrans,break,,,haqʼwaraʔas,Phonemic
+9-250-70-1,tsak1249,Tsakhur,677,якІв,CyrillTrans,ax,,,yakʼʷ,Phonemic
+9-251-70-1,tsak1249,Tsakhur,290,якІв,CyrillTrans,adze,,,yakʼʷ,Phonemic
+9-240-70-1,tsak1249,Tsakhur,356,адессе,CyrillTrans,"scissors, shears",,,ades̄e,Phonemic
+9-230-70-1,tsak1249,Tsakhur,1352,чІика,CyrillTrans,knife,,,č’ika,Phonemic
+9-223-70-1,tsak1249,Tsakhur,1434,этаас,CyrillTrans,stab,,,etaʔas,Phonemic
+9-222-70-1,tsak1249,Tsakhur,155,хъахас,CyrillTrans,"chop, hew",,,qaxas,Phonemic
+9-221-70-1,tsak1249,Tsakhur,355,кІыл хъаъас,CyrillTrans,cut down,,,kʼɨl qaʔas,Phonemic
+9-220-70-1,tsak1249,Tsakhur,1432,къацІакІванос,CyrillTrans,cut,,,q̄ac’akʼʷanos,Phonemic
+9-211-70-1,tsak1249,Tsakhur,354,гетас,CyrillTrans,pound with fist,,,getas,Phonemic
+9-210-70-1,tsak1249,Tsakhur,2133,эхаІс,CyrillTrans,"strike (hit, beat)",,,"exaˤs, ɨqaˤs",Phonemic
+9-210-70-3,tsak1249,Tsakhur,2133,ыхъаІс,CyrillTrans,"strike (hit, beat)",,,"exaˤs, ɨqaˤs",Phonemic
+9-192-70-1,tsak1249,Tsakhur,760,витІелʼ,CyrillTrans,knot (noun),,,witʼelʲ,Phonemic
+9-190-70-1,tsak1249,Tsakhur,1218,туІ,CyrillTrans,"rope, cord",,,tuˤ,Phonemic
+9-180-70-1,tsak1249,Tsakhur,1627,зинджир,CyrillTrans,chain,,,zinǯir,Phonemic
+9-161-70-1,tsak1249,Tsakhur,352,агмишаас,CyrillTrans,untie,,,agmišaʔas,Phonemic
+9-160-70-1,tsak1249,Tsakhur,1917,айтІалас,CyrillTrans,"tie, bind",,,aytʼalas,Phonemic
+9-150-70-1,tsak1249,Tsakhur,1470,саас,CyrillTrans,fold,,,saʔas,Phonemic
+9-140-70-1,tsak1249,Tsakhur,2004,кІечІанаас,CyrillTrans,bend,,,kʼeč’anaʔas,Phonemic
+9-120-70-1,tsak1249,Tsakhur,984,иш,CyrillTrans,work,,,iš,Phonemic
+9-110-70-1,tsak1249,Tsakhur,2575,гьаъас,CyrillTrans,"do, make",,,haʔas,Phonemic
+8-980-70-1,tsak1249,Tsakhur,641,коболяк,CyrillTrans,mushroom,,,"kobolyak, cɨk-cɨk",Phonemic
+8-980-70-3,tsak1249,Tsakhur,641,цык-цык,CyrillTrans,mushroom,,,"kobolyak, cɨk-cɨk",Phonemic
+8-970-70-1,tsak1249,Tsakhur,33,магъа,CyrillTrans,nettle,,,maɣa,Phonemic
+8-941-70-1,tsak1249,Tsakhur,146,кьамыш,CyrillTrans,sugar cane,,,qʼamɨš,Phonemic
+8-940-70-1,tsak1249,Tsakhur,1927,нацІ,CyrillTrans,bamboo,,,nac’,Phonemic
+8-931-70-1,tsak1249,Tsakhur,864,кьабах,CyrillTrans,"pumpkin, squash",,,qʼabax,Phonemic
+8-930-70-1,tsak1249,Tsakhur,411,кьабах,CyrillTrans,gourd,,,qʼabax,Phonemic
+8-910-70-1,tsak1249,Tsakhur,159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-70-1,tsak1249,Tsakhur,346,инжилʼа йив,CyrillTrans,banyan,,,inžilʲa yiw,Phonemic
+8-840-70-1,tsak1249,Tsakhur,868,банана йив,CyrillTrans,banana tree,,,banana yiw,Phonemic
+8-830-70-1,tsak1249,Tsakhur,1126,цитрус,CyrillTrans,citrus fruit,,,citrus,Phonemic
+8-820-70-1,tsak1249,Tsakhur,970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-70-1,tsak1249,Tsakhur,1181,палʼма,CyrillTrans,palm tree,,,palʲma,Phonemic
+8-760-70-1,tsak1249,Tsakhur,345,шира,CyrillTrans,sap,,,šira,Phonemic
+8-750-70-1,tsak1249,Tsakhur,1204,кʼапых,CyrillTrans,bark,,,kʲapɨx,Phonemic
+8-740-70-1,tsak1249,Tsakhur,409,аІче,CyrillTrans,forked branch,,,aˤče,Phonemic
+8-730-70-1,tsak1249,Tsakhur,344,гявда,CyrillTrans,tree trunk,,,gyawda,Phonemic
+8-720-70-1,tsak1249,Tsakhur,241,диблема,CyrillTrans,tree stump,,,diblema,Phonemic
+8-691-70-1,tsak1249,Tsakhur,1124,калʼйан,CyrillTrans,pipe,,,kalʲyan,Phonemic
+8-690-70-1,tsak1249,Tsakhur,1689,кума,CyrillTrans,smoke (tobacco),,,kuma,Phonemic
+8-680-70-1,tsak1249,Tsakhur,974,тютюн,CyrillTrans,tobacco,,,tyutyun,Phonemic
+8-670-70-1,tsak1249,Tsakhur,343,тІумылен тагъ,CyrillTrans,vine,,,tʼumɨlen taɣ,Phonemic
+8-660-70-1,tsak1249,Tsakhur,968,муІхъ,CyrillTrans,acorn,,,muˤq,Phonemic
+8-650-70-1,tsak1249,Tsakhur,1915,ел,CyrillTrans,fir,,,yel,Phonemic
+8-640-70-1,tsak1249,Tsakhur,1740,кІунях,CyrillTrans,pine,,,"kʼunyax, qʼonex",Phonemic
+8-640-70-3,tsak1249,Tsakhur,1740,кьонех,CyrillTrans,pine,,,"kʼunyax, qʼonex",Phonemic
+8-630-70-1,tsak1249,Tsakhur,1855,чилʼ,CyrillTrans,birch,,,čilʲ,Phonemic
+8-620-70-1,tsak1249,Tsakhur,1950,цІепелʼ,CyrillTrans,beech,,,c’epelʲ,Phonemic
+8-610-70-1,tsak1249,Tsakhur,644,мухъ,CyrillTrans,oak,,,muq,Phonemic
+8-600-70-1,tsak1249,Tsakhur,906,йив,CyrillTrans,tree,,,yiw,Phonemic
+8-570-70-1,tsak1249,Tsakhur,239,тІетІ,CyrillTrans,flower,,,tʼetʼ,Phonemic
+8-560-70-1,tsak1249,Tsakhur,628,ярпагъ,CyrillTrans,leaf,,,yarpaɣ,Phonemic
+8-550-70-1,tsak1249,Tsakhur,1531,бытагъ,CyrillTrans,branch,,,bɨtaɣ,Phonemic
+8-540-70-1,tsak1249,Tsakhur,670,кок,CyrillTrans,root,,,kok,Phonemic
+8-531-70-1,tsak1249,Tsakhur,1486,аляляъас,CyrillTrans,plant (vb),,,alyalyaʔas,Phonemic
+8-520-70-1,tsak1249,Tsakhur,342,алаф,CyrillTrans,hay,,,alaf,Phonemic
+8-530-70-1,tsak1249,Tsakhur,653,окʼ,CyrillTrans,plant (noun),,,okʲ,Phonemic
+8-510-70-1,tsak1249,Tsakhur,606,окІ,CyrillTrans,grass,,,okʼ,Phonemic
+8-480-70-1,tsak1249,Tsakhur,926,биринз,CyrillTrans,rice,,,birinz,Phonemic
+8-470-70-1,tsak1249,Tsakhur,506,къаргъыдалий,CyrillTrans,"maize, corn",,,q̄arɣɨdaliy,Phonemic
+8-460-70-1,tsak1249,Tsakhur,60,сикІылʼ,CyrillTrans,oats,,,sikʼɨlʲ,Phonemic
+8-450-70-1,tsak1249,Tsakhur,23,сикІылʼ,CyrillTrans,rye,,,sikʼɨlʲ,Phonemic
+8-430-70-1,tsak1249,Tsakhur,1077,сук,CyrillTrans,wheat,,,suk,Phonemic
+8-440-70-1,tsak1249,Tsakhur,932,хьытІа,CyrillTrans,barley,,,x̌ɨtʼa,Phonemic
+8-420-70-1,tsak1249,Tsakhur,605,тахылʼ,CyrillTrans,"grain (barley, oats etc)",,,taxɨlʲ,Phonemic
+8-410-70-1,tsak1249,Tsakhur,611,экʼын,CyrillTrans,"crop, harvest",,,ekʲɨn,Phonemic
+8-350-70-1,tsak1249,Tsakhur,223,атта,CyrillTrans,threshing-floor,,,at̄a,Phonemic
+8-340-70-1,tsak1249,Tsakhur,285,вара аъъес,CyrillTrans,thresh,,,wara aˤʔes,Phonemic
+8-330-70-1,tsak1249,Tsakhur,2132,чин,CyrillTrans,"sickle, scythe",,,"čin, čalgɨ",Phonemic
+8-330-70-3,tsak1249,Tsakhur,2132,чалгы,CyrillTrans,"sickle, scythe",,,"čin, čalgɨ",Phonemic
+8-320-70-1,tsak1249,Tsakhur,190,хъийшалас,CyrillTrans,"mow, reap",,,qiyšalas,Phonemic
+8-311-70-1,tsak1249,Tsakhur,714,тохум,CyrillTrans,seed,,,toxum,Phonemic
+8-310-70-1,tsak1249,Tsakhur,748,эзас,CyrillTrans,sow,,,ezas,Phonemic
+8-270-70-1,tsak1249,Tsakhur,338,чІигъаІр,CyrillTrans,rake,,,č’iɣaˤr,Phonemic
+8-260-70-1,tsak1249,Tsakhur,337,яба,CyrillTrans,fork,,,yaba,Phonemic
+8-250-70-1,tsak1249,Tsakhur,284,кʼлынг,CyrillTrans,hoe,,,kʲlɨng,Phonemic
+8-240-70-1,tsak1249,Tsakhur,1901,куракʼ,CyrillTrans,shovel,,,"kurakʲ, xakandaz",Phonemic
+8-240-70-3,tsak1249,Tsakhur,1901,хакандаз,CyrillTrans,shovel,,,"kurakʲ, xakandaz",Phonemic
+8-230-70-1,tsak1249,Tsakhur,1176,куракʼ,CyrillTrans,spade,,,kurakʲ,Phonemic
+8-212-70-1,tsak1249,Tsakhur,1794,гор,CyrillTrans,furrow,,,gor,Phonemic
+8-220-70-1,tsak1249,Tsakhur,1418,гьикварас,CyrillTrans,dig,,,hikʷaras,Phonemic
+8-210-70-1,tsak1249,Tsakhur,1921,эзас,CyrillTrans,plow,,,ezas,Phonemic
+8-170-70-1,tsak1249,Tsakhur,2002,арх,CyrillTrans,ditch,,,arx,Phonemic
+8-160-70-1,tsak1249,Tsakhur,1690,джабыр,CyrillTrans,fence,,,"ǯabɨr, čapar",Phonemic
+8-160-70-3,tsak1249,Tsakhur,1690,чапар,CyrillTrans,fence,,,"ǯabɨr, čapar",Phonemic
+8-150-70-1,tsak1249,Tsakhur,1541,шумпамишаъуй,CyrillTrans,"cultivate, till",,,šumpamišaʔuy,Phonemic
+8-130-70-1,tsak1249,Tsakhur,586,багъ,CyrillTrans,garden,,,baɣ,Phonemic
+8-120-70-1,tsak1249,Tsakhur,212,нек,CyrillTrans,field (for cultivation),,,nek,Phonemic
+8-110-70-1,tsak1249,Tsakhur,979,бакІиставий,CyrillTrans,farmer,,,"bakʼistawiy, fermer",Phonemic
+8-110-70-3,tsak1249,Tsakhur,979,фермер,CyrillTrans,farmer,,,"bakʼistawiy, fermer",Phonemic
+7-640-70-1,tsak1249,Tsakhur,901,хав,CyrillTrans,adobe,,,xaw,Phonemic
+7-630-70-1,tsak1249,Tsakhur,224,кирадж,CyrillTrans,mortar,,,kiraǯ,Phonemic
+7-620-70-1,tsak1249,Tsakhur,1006,карпич,CyrillTrans,brick,,,karpič,Phonemic
+7-580-70-1,tsak1249,Tsakhur,876,тагъ,CyrillTrans,arch,,,taɣ,Phonemic
+7-610-70-1,tsak1249,Tsakhur,877,устад,CyrillTrans,mason,,,ustad,Phonemic
+7-570-70-1,tsak1249,Tsakhur,1227,кьува,CyrillTrans,board,,,qʼuwa,Phonemic
+7-560-70-1,tsak1249,Tsakhur,281,тир,CyrillTrans,"post, pole",,,tir,Phonemic
+7-550-70-1,tsak1249,Tsakhur,1132,алахьвар,CyrillTrans,beam,,,alax̌ʷar,Phonemic
+7-540-70-1,tsak1249,Tsakhur,829,кьатІ,CyrillTrans,rafter,,,"qʼatʼ, alax̌ar",Phonemic
+7-540-70-3,tsak1249,Tsakhur,829,алахьар,CyrillTrans,rafter,,,"qʼatʼ, alax̌ar",Phonemic
+7-530-70-1,tsak1249,Tsakhur,280,къодгъарас,CyrillTrans,ridgepole,,,"q̄odɣaras, čuy",Phonemic
+7-530-70-3,tsak1249,Tsakhur,280,чуй,CyrillTrans,ridgepole,,,"q̄odɣaras, čuy",Phonemic
+7-520-70-1,tsak1249,Tsakhur,279,даха,CyrillTrans,thatch,,,daxa,Phonemic
+7-510-70-1,tsak1249,Tsakhur,769,даха,CyrillTrans,roof,,,daxa,Phonemic
+7-480-70-1,tsak1249,Tsakhur,205,цаІв,CyrillTrans,trough,,,caˤw,Phonemic
+7-470-70-1,tsak1249,Tsakhur,745,тахче,CyrillTrans,shelf,,,taxče,Phonemic
+7-460-70-1,tsak1249,Tsakhur,1273,гардж,CyrillTrans,candle,,,garǯ,Phonemic
+7-450-70-1,tsak1249,Tsakhur,2131,цырцырай,CyrillTrans,"lamp, torch",,,cɨrcɨray,Phonemic
+7-440-70-1,tsak1249,Tsakhur,1775,курси,CyrillTrans,table,,,kursi,Phonemic
+7-430-70-1,tsak1249,Tsakhur,1476,стул,CyrillTrans,chair,,,stul,Phonemic
+7-422-70-1,tsak1249,Tsakhur,806,йоргъан,CyrillTrans,blanket,,,yorɣan,Phonemic
+7-421-70-1,tsak1249,Tsakhur,1044,къуленик,CyrillTrans,pillow,,,q̄ulenik,Phonemic
+7-420-70-1,tsak1249,Tsakhur,1663,тахт,CyrillTrans,bed,,,"taxt, krawat",Phonemic
+7-420-70-3,tsak1249,Tsakhur,1663,крават,CyrillTrans,bed,,,"taxt, krawat",Phonemic
+7-370-70-1,tsak1249,Tsakhur,1464,мыгыр,CyrillTrans,ladder,,,mɨgɨr,Phonemic
+7-330-70-1,tsak1249,Tsakhur,1305,бухарайн гал,CyrillTrans,chimney,,,buxarayn gal,Phonemic
+7-320-70-1,tsak1249,Tsakhur,859,бол,CyrillTrans,stove,,,bol,Phonemic
+7-310-70-1,tsak1249,Tsakhur,185,бухара,CyrillTrans,fireplace,,,buxara,Phonemic
+7-270-70-1,tsak1249,Tsakhur,933,баруг,CyrillTrans,wall,,,barug,Phonemic
+7-260-70-1,tsak1249,Tsakhur,1632,джил,CyrillTrans,floor,,,ǯil,Phonemic
+7-250-70-1,tsak1249,Tsakhur,1375,къулʼ,CyrillTrans,window,,,q̄ulʲ,Phonemic
+7-240-70-1,tsak1249,Tsakhur,1472,мыкІей,CyrillTrans,key,,,mɨkʼey,Phonemic
+7-231-70-1,tsak1249,Tsakhur,1012,рыза,CyrillTrans,"latch, door-bolt",,,rɨza,Phonemic
+7-230-70-1,tsak1249,Tsakhur,1596,кукпак,CyrillTrans,lock (noun),,,kukpak,Phonemic
+7-221-70-1,tsak1249,Tsakhur,80,черчева,CyrillTrans,"doorpost, jamb",,,čerčewa,Phonemic
+7-210-70-1,tsak1249,Tsakhur,1450,гозʼ,CyrillTrans,room,,,gozʲ,Phonemic
+7-220-70-1,tsak1249,Tsakhur,1567,акка,CyrillTrans,"door, gate",,,"ak̄a, darwaza",Phonemic
+7-220-70-3,tsak1249,Tsakhur,1567,дарваза,CyrillTrans,"door, gate",,,"ak̄a, darwaza",Phonemic
+7-180-70-1,tsak1249,Tsakhur,335,гим,CyrillTrans,meeting house,,,gim,Phonemic
+7-170-70-1,tsak1249,Tsakhur,334,кухна дега,CyrillTrans,cookhouse,,,kuxna dega,Phonemic
+7-160-70-1,tsak1249,Tsakhur,408,утагъ,CyrillTrans,men's house,,,utaɣ,Phonemic
+7-150-70-1,tsak1249,Tsakhur,736,гьайат,CyrillTrans,"yard, court",,,"hayat, mäħli",Phonemic
+7-150-70-3,tsak1249,Tsakhur,736,маьхІли,CyrillTrans,"yard, court",,,"hayat, mäħli",Phonemic
+7-140-70-1,tsak1249,Tsakhur,1316,чадыр,CyrillTrans,tent,,,čadɨr,Phonemic
+7-131-70-1,tsak1249,Tsakhur,403,хав,CyrillTrans,garden-house,,,xaw,Phonemic
+7-130-70-1,tsak1249,Tsakhur,1678,дега,CyrillTrans,hut,,,dega,Phonemic
+7-120-70-1,tsak1249,Tsakhur,1252,хав,CyrillTrans,house,,,xaw,Phonemic
+7-110-70-1,tsak1249,Tsakhur,363,ешемишхьес,CyrillTrans,"dwell, live",,,yešemišx̌es,Phonemic
+6-960-70-1,tsak1249,Tsakhur,1171,наххварий,CyrillTrans,mirror,,,nax̄ʷariy,Phonemic
+6-950-70-1,tsak1249,Tsakhur,788,сапып,CyrillTrans,soap,,,sapɨp,Phonemic
+6-940-70-1,tsak1249,Tsakhur,1926,мазʼ,CyrillTrans,ointment,,,mazʲ,Phonemic
+6-930-70-1,tsak1249,Tsakhur,151,котасын чина,CyrillTrans,razor,,,kotasɨn čina,Phonemic
+6-921-70-1,tsak1249,Tsakhur,333,чалгы,CyrillTrans,braid,,,čalgɨ,Phonemic
+6-920-70-1,tsak1249,Tsakhur,1821,агъаІ,CyrillTrans,brush,,,aɣaˤ,Phonemic
+6-910-70-1,tsak1249,Tsakhur,1475,аІгъа,CyrillTrans,comb,,,aˤɣa,Phonemic
+6-820-70-1,tsak1249,Tsakhur,1021,десмал,CyrillTrans,towel,,,desmal,Phonemic
+6-810-70-1,tsak1249,Tsakhur,332,хъушена ялыгъ,CyrillTrans,"handkerchief, rag",,,qušena yalɨɣ,Phonemic
+6-780-70-1,tsak1249,Tsakhur,330,катар,CyrillTrans,"headband, headdress",,,katar,Phonemic
+6-770-70-1,tsak1249,Tsakhur,770,тене,CyrillTrans,earring,,,tene,Phonemic
+6-760-70-1,tsak1249,Tsakhur,1860,эке,CyrillTrans,bead,,,eke,Phonemic
+6-750-70-1,tsak1249,Tsakhur,1961,экебы,CyrillTrans,necklace,,,ekebɨ,Phonemic
+6-740-70-1,tsak1249,Tsakhur,1754,лехха,CyrillTrans,bracelet,,,lex̄a,Phonemic
+6-730-70-1,tsak1249,Tsakhur,1374,тІуджва,CyrillTrans,ring (for finger),,,tʼuǯʷa,Phonemic
+6-720-70-1,tsak1249,Tsakhur,1029,гыранна кае,CyrillTrans,jewel,,,gɨranna kaye,Phonemic
+6-710-70-1,tsak1249,Tsakhur,917,накьыш,CyrillTrans,"ornament, adornment",,,naqʼɨš,Phonemic
+6-630-70-1,tsak1249,Tsakhur,64,санджах,CyrillTrans,pin,,,sanǯax,Phonemic
+6-620-70-1,tsak1249,Tsakhur,757,кІыч,CyrillTrans,button,,,kʼɨč,Phonemic
+6-610-70-1,tsak1249,Tsakhur,1851,джиб,CyrillTrans,pocket,,,ǯib,Phonemic
+6-590-70-1,tsak1249,Tsakhur,1151,дувагъ,CyrillTrans,veil,,,duwaɣ,Phonemic
+6-580-70-1,tsak1249,Tsakhur,867,хьахьапей,CyrillTrans,glove,,,x̌ax̌apey,Phonemic
+6-570-70-1,tsak1249,Tsakhur,772,чува,CyrillTrans,"belt, girdle",,,čuwa,Phonemic
+6-550-70-1,tsak1249,Tsakhur,2130,шлйапа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-70-1,tsak1249,Tsakhur,875,пинычий,CyrillTrans,"shoemaker, cobbler",,,pinɨčiy,Phonemic
+6-510-70-1,tsak1249,Tsakhur,1381,къелилим,CyrillTrans,shoe,,,q̄elilim,Phonemic
+6-520-70-1,tsak1249,Tsakhur,585,лавгунар,CyrillTrans,boot,,,lawgunar,Phonemic
+6-490-70-1,tsak1249,Tsakhur,329,турсыбы,CyrillTrans,"stocking, sock",,,tursɨbɨ,Phonemic
+6-480-70-1,tsak1249,Tsakhur,809,бада,CyrillTrans,trousers,,,"bada, šalwar",Phonemic
+6-480-70-3,tsak1249,Tsakhur,809,шалвар,CyrillTrans,trousers,,,"bada, šalwar",Phonemic
+6-461-70-1,tsak1249,Tsakhur,328,йубка тарт,CyrillTrans,grass-skirt,,,yubka tart,Phonemic
+6-460-70-1,tsak1249,Tsakhur,1600,йубка тарт,CyrillTrans,skirt,,,yubka tart,Phonemic
+6-450-70-1,tsak1249,Tsakhur,2012,хоІв,CyrillTrans,collar,,,xoˤw,Phonemic
+6-440-70-1,tsak1249,Tsakhur,1622,гурт,CyrillTrans,shirt,,,gurt,Phonemic
+6-430-70-1,tsak1249,Tsakhur,603,пІаптІум,CyrillTrans,coat,,,p’aptʼum,Phonemic
+6-420-70-1,tsak1249,Tsakhur,474,гурт,CyrillTrans,woman's dress,,,gurt,Phonemic
+6-390-70-1,tsak1249,Tsakhur,157,ранг,CyrillTrans,dye,,,rang,Phonemic
+6-410-70-1,tsak1249,Tsakhur,326,плащ,CyrillTrans,cloak,,,plaš̄,Phonemic
+6-380-70-1,tsak1249,Tsakhur,1161,сап,CyrillTrans,thread,,,sap,Phonemic
+6-360-70-1,tsak1249,Tsakhur,1382,вейба,CyrillTrans,needle,,,weyba,Phonemic
+6-370-70-1,tsak1249,Tsakhur,278,раб,CyrillTrans,awl,,,rab,Phonemic
+6-350-70-1,tsak1249,Tsakhur,1457,ихьвас,CyrillTrans,sew,,,ix̌ʷas,Phonemic
+6-340-70-1,tsak1249,Tsakhur,1787,валыг и мыкье,CyrillTrans,loom,,,walɨg i mɨqʼe,Phonemic
+6-330-70-1,tsak1249,Tsakhur,133,члетас,CyrillTrans,weave,,,čletas,Phonemic
+6-320-70-1,tsak1249,Tsakhur,277,тІыбычІ,CyrillTrans,spindle,,,tʼɨbɨč’,Phonemic
+6-310-70-1,tsak1249,Tsakhur,121,илеттас,CyrillTrans,spin,,,ilet̄as,Phonemic
+6-290-70-1,tsak1249,Tsakhur,629,панка,CyrillTrans,leather,,,panka,Phonemic
+6-280-70-1,tsak1249,Tsakhur,580,панка,CyrillTrans,fur,,,panka,Phonemic
+6-270-70-1,tsak1249,Tsakhur,325,кеге,CyrillTrans,felt,,,kege,Phonemic
+6-250-70-1,tsak1249,Tsakhur,1641,ипак,CyrillTrans,silk,,,ipak,Phonemic
+6-240-70-1,tsak1249,Tsakhur,1850,банбак,CyrillTrans,cotton,,,banbak,Phonemic
+6-230-70-1,tsak1249,Tsakhur,916,ганабад парче,CyrillTrans,"linen, flax",,,ganabad parče,Phonemic
+6-220-70-1,tsak1249,Tsakhur,964,хьа,CyrillTrans,wool,,,x̌a,Phonemic
+6-210-70-1,tsak1249,Tsakhur,1616,шал,CyrillTrans,cloth,,,"šal, parče",Phonemic
+6-210-70-3,tsak1249,Tsakhur,1616,парче,CyrillTrans,cloth,,,"šal, parče",Phonemic
+6-130-70-1,tsak1249,Tsakhur,881,карбы иІхъапа,CyrillTrans,tailor,,,karbɨ iˤqapa,Phonemic
+6-120-70-1,tsak1249,Tsakhur,1895,тулбы,CyrillTrans,"clothing, clothes",,,tulbɨ,Phonemic
+6-110-70-1,tsak1249,Tsakhur,158,апяъас,CyrillTrans,put on (clothes),,,apyaʔas,Phonemic
+5-971-70-1,tsak1249,Tsakhur,1556,къыІбын,CyrillTrans,egg yolk,,,q̄ɨˤbɨn,Phonemic
+5-970-70-1,tsak1249,Tsakhur,744,кьукь,CyrillTrans,egg,,,qʼuqʼ,Phonemic
+5-940-70-1,tsak1249,Tsakhur,404,буза,CyrillTrans,fermented drink,,,buza,Phonemic
+5-930-70-1,tsak1249,Tsakhur,1639,пива,CyrillTrans,beer,,,piwa,Phonemic
+5-920-70-1,tsak1249,Tsakhur,1524,чахыр,CyrillTrans,wine,,,čaxɨr,Phonemic
+5-910-70-1,tsak1249,Tsakhur,941,итв,CyrillTrans,mead,,,itʷ,Phonemic
+5-900-70-1,tsak1249,Tsakhur,731,хьян,CyrillTrans,"beverage, drink",,,x̌yan,Phonemic
+5-890-70-1,tsak1249,Tsakhur,1245,хьыналий,CyrillTrans,butter,,,x̌ɨnaliy,Phonemic
+5-880-70-1,tsak1249,Tsakhur,1569,ниссе,CyrillTrans,cheese,,,nis̄e,Phonemic
+5-870-70-1,tsak1249,Tsakhur,93,гяазас,CyrillTrans,milk (vb),,,gyaʔazas,Phonemic
+5-850-70-1,tsak1249,Tsakhur,862,шакар,CyrillTrans,sugar,,,šakar,Phonemic
+5-860-70-1,tsak1249,Tsakhur,635,няк,CyrillTrans,milk (noun),,,nyak,Phonemic
+5-840-70-1,tsak1249,Tsakhur,942,итв,CyrillTrans,honey,,,itʷ,Phonemic
+5-821-70-1,tsak1249,Tsakhur,919,иссиот,CyrillTrans,chili pepper,,,is̄iot,Phonemic
+5-820-70-1,tsak1249,Tsakhur,1385,иссиот,CyrillTrans,pepper,,,is̄iot,Phonemic
+5-810-70-1,tsak1249,Tsakhur,1274,кьев,CyrillTrans,salt,,,qʼew,Phonemic
+5-791-70-1,tsak1249,Tsakhur,323,маъа,CyrillTrans,"grease, fat",,,maʔa,Phonemic
+5-790-70-1,tsak1249,Tsakhur,1484,зетий,CyrillTrans,oil,,,zetiy,Phonemic
+5-780-70-1,tsak1249,Tsakhur,1154,дзайтун,CyrillTrans,olive,,,ʒaytun,Phonemic
+5-760-70-1,tsak1249,Tsakhur,920,тІумулʼ,CyrillTrans,grape,,,tʼumulʲ,Phonemic
+5-770-70-1,tsak1249,Tsakhur,191,хек,CyrillTrans,nut,,,xek,Phonemic
+5-750-70-1,tsak1249,Tsakhur,322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-70-1,tsak1249,Tsakhur,1966,тІуг,CyrillTrans,bunch,,,tʼug,Phonemic
+5-710-70-1,tsak1249,Tsakhur,1507,мейва,CyrillTrans,fruit,,,meywa,Phonemic
+5-700-70-1,tsak1249,Tsakhur,593,кІартІуф,CyrillTrans,potato,,,kʼartʼuf,Phonemic
+5-660-70-1,tsak1249,Tsakhur,832,лубуен,CyrillTrans,bean,,,lubuyen,Phonemic
+5-650-70-1,tsak1249,Tsakhur,924,тараваз,CyrillTrans,vegetables,,,tarawaz,Phonemic
+5-640-70-1,tsak1249,Tsakhur,1547,йыкь,CyrillTrans,"soup, broth",,,yɨqʼ,Phonemic
+5-630-70-1,tsak1249,Tsakhur,1874,ингынавур,CyrillTrans,sausage,,,"ingɨnawur, ičnawur",Phonemic
+5-630-70-3,tsak1249,Tsakhur,1874,ичнавур,CyrillTrans,sausage,,,"ingɨnawur, ičnawur",Phonemic
+5-610-70-1,tsak1249,Tsakhur,634,чуру,CyrillTrans,meat,,,"čuru, čura",Phonemic
+5-610-70-3,tsak1249,Tsakhur,634,чура,CyrillTrans,meat,,,"čuru, čura",Phonemic
+5-590-70-1,tsak1249,Tsakhur,225,дибак,CyrillTrans,pestle,,,dibak,Phonemic
+5-580-70-1,tsak1249,Tsakhur,224,дибак,CyrillTrans,mortar (2),,,dibak,Phonemic
+5-570-70-1,tsak1249,Tsakhur,636,йоххаІ,CyrillTrans,mill,,,yox̄aˤ,Phonemic
+5-560-70-1,tsak1249,Tsakhur,1033,хурхъаъас,CyrillTrans,"crush, grind",,,xurqaʔas,Phonemic
+5-550-70-1,tsak1249,Tsakhur,1594,хоІ,CyrillTrans,"meal, flour",,,xoˤ,Phonemic
+5-540-70-1,tsak1249,Tsakhur,274,вудне,CyrillTrans,knead,,,wudne,Phonemic
+5-530-70-1,tsak1249,Tsakhur,273,хамыр,CyrillTrans,dough,,,xamɨr,Phonemic
+5-510-70-1,tsak1249,Tsakhur,1368,гынест,CyrillTrans,bread,,,"gɨnest, gɨpey",Phonemic
+5-510-70-3,tsak1249,Tsakhur,1368,гыпей,CyrillTrans,bread,,,"gɨnest, gɨpey",Phonemic
+5-490-70-1,tsak1249,Tsakhur,2017,апикІсаас,CyrillTrans,"stir, mix",,,apikʼsaʔas,Phonemic
+5-480-70-1,tsak1249,Tsakhur,1767,гʼокьаІс,CyrillTrans,scrape,,,gʲoqʼaˤs,Phonemic
+5-470-70-1,tsak1249,Tsakhur,86,гицІебхьас,CyrillTrans,"sieve, strain",,,gic’ebx̌as,Phonemic
+5-460-70-1,tsak1249,Tsakhur,275,хъишес,CyrillTrans,peel,,,qišes,Phonemic
+5-450-70-1,tsak1249,Tsakhur,1833,эхьапийн,CyrillTrans,supper,,,ex̌apiyn,Phonemic
+5-440-70-1,tsak1249,Tsakhur,1833,йыкьыІгьпийн,CyrillTrans,dinner,,,yɨqʼɨˤhpiyn,Phonemic
+5-420-70-1,tsak1249,Tsakhur,1322,мичІейдин отхупи,CyrillTrans,breakfast,,,mič’eydin otxupi,Phonemic
+5-410-70-1,tsak1249,Tsakhur,1526,кар охьаныс,CyrillTrans,meal (a),,,kar ox̌anɨs,Phonemic
+5-391-70-1,tsak1249,Tsakhur,272,калʼбатун,CyrillTrans,tongs,,,kalʲbatun,Phonemic
+5-390-70-1,tsak1249,Tsakhur,1302,яба,CyrillTrans,fork (2),,,yaba,Phonemic
+5-380-70-1,tsak1249,Tsakhur,1352,чІыка,CyrillTrans,knife (2),,,č’ɨka,Phonemic
+5-370-70-1,tsak1249,Tsakhur,1378,кІукІ,CyrillTrans,spoon,,,kʼukʼ,Phonemic
+5-360-70-1,tsak1249,Tsakhur,271,белʼма,CyrillTrans,saucer,,,belʲma,Phonemic
+5-350-70-1,tsak1249,Tsakhur,476,курушка,CyrillTrans,"cup, drinking vessel",,,kuruška,Phonemic
+5-330-70-1,tsak1249,Tsakhur,1530,каса,CyrillTrans,bowl,,,kasa,Phonemic
+5-340-70-1,tsak1249,Tsakhur,270,парч,CyrillTrans,"pitcher, jug",,,parč,Phonemic
+5-320-70-1,tsak1249,Tsakhur,480,тІарийкІа,CyrillTrans,plate,,,"tʼariykʼa, ǯam",Phonemic
+5-320-70-3,tsak1249,Tsakhur,480,джам,CyrillTrans,plate,,,"tʼariykʼa, ǯam",Phonemic
+5-310-70-1,tsak1249,Tsakhur,481,тІепикІа,CyrillTrans,dish,,,"tʼepikʼa, gab, ǯam",Phonemic
+5-310-70-3,tsak1249,Tsakhur,481,габ,CyrillTrans,dish,,,"tʼepikʼa, gab, ǯam",Phonemic
+5-310-70-5,tsak1249,Tsakhur,481,джам,CyrillTrans,dish,,,"tʼepikʼa, gab, ǯam",Phonemic
+5-280-70-1,tsak1249,Tsakhur,31,кІумкІум,CyrillTrans,pan,,,kʼumkʼum,Phonemic
+5-260-70-1,tsak1249,Tsakhur,1462,допеш,CyrillTrans,"pot, cooking vessel",,,"dopeš, kumkʲum",Phonemic
+5-260-70-3,tsak1249,Tsakhur,1462,кумкʼум,CyrillTrans,"pot, cooking vessel",,,"dopeš, kumkʲum",Phonemic
+5-270-70-1,tsak1249,Tsakhur,854,чейдан,CyrillTrans,kettle,,,čeydan,Phonemic
+5-240-70-1,tsak1249,Tsakhur,183,кеджес,CyrillTrans,bake,,,"keǯes, qefxes q̄ečes",Phonemic
+5-240-70-3,tsak1249,Tsakhur,183,хъефхес къечес,CyrillTrans,bake,,,"keǯes, qefxes q̄ečes",Phonemic
+5-250-70-1,tsak1249,Tsakhur,1143,пешт,CyrillTrans,oven,,,pešt,Phonemic
+5-230-70-1,tsak1249,Tsakhur,2146,хъеджес,CyrillTrans,"roast, fry",,,qeǯes,Phonemic
+5-220-70-1,tsak1249,Tsakhur,792,хъохьараас,CyrillTrans,boil (vb),,,qox̌araʔas,Phonemic
+5-210-70-1,tsak1249,Tsakhur,1100,хъоххьараъас,CyrillTrans,cook,,,qoxx̌araˤas,Phonemic
+5-190-70-1,tsak1249,Tsakhur,129,богъмушаъас,CyrillTrans,choke,,,"boɣmušaʔas, yalaskas",Phonemic
+5-190-70-3,tsak1249,Tsakhur,129,йаласкас,CyrillTrans,choke,,,"boɣmušaʔas, yalaskas",Phonemic
+5-181-70-1,tsak1249,Tsakhur,897,тогах,CyrillTrans,swallow,,,togax,Phonemic
+5-180-70-1,tsak1249,Tsakhur,321,гечІес,CyrillTrans,chew,,,geč’es,Phonemic
+5-160-70-1,tsak1249,Tsakhur,1421,гехъас,CyrillTrans,suck,,,"geqas, odgiy",Phonemic
+5-160-70-3,tsak1249,Tsakhur,1421,одгий,CyrillTrans,suck,,,"geqas, odgiy",Phonemic
+5-150-70-1,tsak1249,Tsakhur,848,хІинака горхан,CyrillTrans,thirst,,,ћinaka gorxan,Phonemic
+5-141-70-1,tsak1249,Tsakhur,199,мысвалла,CyrillTrans,famine,,,"mɨsʷalla, kʲar idodxuni",Phonemic
+5-141-70-3,tsak1249,Tsakhur,199,кʼар идодхуни,CyrillTrans,famine,,,"mɨsʷalla, kʲar idodxuni",Phonemic
+5-140-70-1,tsak1249,Tsakhur,1864,мысвалла,CyrillTrans,hunger,,,mɨsʷalla,Phonemic
+5-130-70-1,tsak1249,Tsakhur,1401,илʼогъас,CyrillTrans,drink,,,ilʲoɣas,Phonemic
+5-125-70-1,tsak1249,Tsakhur,1728,хъыІчына,CyrillTrans,rotten,,,qɨˤčɨna,Phonemic
+5-124-70-1,tsak1249,Tsakhur,1958,гьидитхьырий,CyrillTrans,"green, unripe",,,"hiditx̌ɨriy, čɨwan",Phonemic
+5-124-70-3,tsak1249,Tsakhur,1958,чыван,CyrillTrans,"green, unripe",,,"hiditx̌ɨriy, čɨwan",Phonemic
+5-123-70-1,tsak1249,Tsakhur,178,гьидхьырийн,CyrillTrans,ripe,,,hidx̌ɨriyn,Phonemic
+5-122-70-1,tsak1249,Tsakhur,1959,чигын,CyrillTrans,raw,,,čigɨn,Phonemic
+5-121-70-1,tsak1249,Tsakhur,269,хъодхьурийн,CyrillTrans,cooked,,,qodx̌uriyn,Phonemic
+5-120-70-1,tsak1249,Tsakhur,256,одхьуний,CyrillTrans,food,,,"odx̌uniy, kɨk",Phonemic
+5-120-70-3,tsak1249,Tsakhur,256,кык,CyrillTrans,food,,,"odx̌uniy, kɨk",Phonemic
+5-110-70-1,tsak1249,Tsakhur,1336,охьанас,CyrillTrans,eat,,,ox̌anas,Phonemic
+4-990-70-1,tsak1249,Tsakhur,590,цІелерна,CyrillTrans,"naked, bare",,,c’elerna,Phonemic
+4-970-70-1,tsak1249,Tsakhur,1653,быркьыІна,CyrillTrans,blind,,,bɨrqʼɨˤna,Phonemic
+4-980-70-1,tsak1249,Tsakhur,1463,къынана,CyrillTrans,intoxicated,,,q̄ɨnana,Phonemic
+4-960-70-1,tsak1249,Tsakhur,1666,лална,CyrillTrans,mute,,,lalna,Phonemic
+4-950-70-1,tsak1249,Tsakhur,996,бошшуна,CyrillTrans,deaf,,,boš̄una,Phonemic
+4-930-70-1,tsak1249,Tsakhur,1125,качал,CyrillTrans,bald,,,kačal,Phonemic
+4-940-70-1,tsak1249,Tsakhur,320,какиха,CyrillTrans,lame,,,kakixa,Phonemic
+4-920-70-1,tsak1249,Tsakhur,1564,амалле,CyrillTrans,lazy,,,amalle,Phonemic
+4-912-70-1,tsak1249,Tsakhur,168,тавсун наа,CyrillTrans,rest,,,tawsun naʔa,Phonemic
+4-910-70-1,tsak1249,Tsakhur,1757,орзулʼна,CyrillTrans,"tired, weary",,,orzulʲna,Phonemic
+4-890-70-1,tsak1249,Tsakhur,655,загьаІр,CyrillTrans,poison,,,"zahaˤr, awɣu",Phonemic
+4-890-70-3,tsak1249,Tsakhur,655,авгъу,CyrillTrans,poison,,,"zahaˤr, awɣu",Phonemic
+4-880-70-1,tsak1249,Tsakhur,1372,дарман,CyrillTrans,"medicine, drug",,,darman,Phonemic
+4-870-70-1,tsak1249,Tsakhur,597,дохтур,CyrillTrans,physician,,,doxtur,Phonemic
+4-860-70-1,tsak1249,Tsakhur,499,маалиджу гьауй,CyrillTrans,"cure, heal",,,"maʔaliǯu hauy, yuk̄aʔa",Phonemic
+4-860-70-3,tsak1249,Tsakhur,499,йуккаа,CyrillTrans,"cure, heal",,,"maʔaliǯu hauy, yuk̄aʔa",Phonemic
+4-858-70-1,tsak1249,Tsakhur,497,чапыгъ,CyrillTrans,scar,,,"čapɨɣ, kɨn",Phonemic
+4-858-70-3,tsak1249,Tsakhur,497,кын,CyrillTrans,scar,,,"čapɨɣ, kɨn",Phonemic
+4-857-70-1,tsak1249,Tsakhur,1808,маш,CyrillTrans,pus,,,maš,Phonemic
+4-856-70-1,tsak1249,Tsakhur,793,кІыбыджий,CyrillTrans,boil (noun),,,kʼɨbɨǯiy,Phonemic
+4-855-70-1,tsak1249,Tsakhur,1584,габар,CyrillTrans,blister,,,gabar,Phonemic
+4-854-70-1,tsak1249,Tsakhur,148,эсмимии,CyrillTrans,itch,,,esmimiʔi,Phonemic
+4-853-70-1,tsak1249,Tsakhur,1903,аІптІахий,CyrillTrans,swelling,,,aˤptʼaxiy,Phonemic
+4-852-70-1,tsak1249,Tsakhur,1148,хъирхьыпʼна,CyrillTrans,bruise,,,qirx̌ɨpʲna,Phonemic
+4-850-70-1,tsak1249,Tsakhur,1109,ыІхна,CyrillTrans,"wound, sore",,,ɨˤxna,Phonemic
+4-843-70-1,tsak1249,Tsakhur,102,мыкІаппа,CyrillTrans,cold (catarrh),,,mɨkʼap̄a,Phonemic
+4-842-70-1,tsak1249,Tsakhur,1957,зоб,CyrillTrans,goiter,,,zob,Phonemic
+4-841-70-1,tsak1249,Tsakhur,1534,исситма,CyrillTrans,fever,,,is̄itma,Phonemic
+4-840-70-1,tsak1249,Tsakhur,1847,чІырына,CyrillTrans,"sick, sickness",,,"č’ɨrɨna, č’ɨrwalla",Phonemic
+4-840-70-3,tsak1249,Tsakhur,1847,чІырвалла,CyrillTrans,"sick, sickness",,,"č’ɨrɨna, č’ɨrwalla",Phonemic
+4-830-70-1,tsak1249,Tsakhur,1364,джан,CyrillTrans,"well, health",,,ǯan,Phonemic
+4-820-70-1,tsak1249,Tsakhur,1601,аІджизна,CyrillTrans,weak,,,aˤǯizna,Phonemic
+4-810-70-1,tsak1249,Tsakhur,785,гуджнана,CyrillTrans,"strong, mighty, powerful",,,guǯnana,Phonemic
+4-790-70-1,tsak1249,Tsakhur,1773,някьв,CyrillTrans,"grave, tomb",,,nyaqʼw,Phonemic
+4-780-70-1,tsak1249,Tsakhur,1719,бастураъас,CyrillTrans,bury (the dead),,,"basturaʔas, q̄eyxes",Phonemic
+4-780-70-3,tsak1249,Tsakhur,1719,къейхес,CyrillTrans,bury (the dead),,,"basturaʔas, q̄eyxes",Phonemic
+4-770-70-1,tsak1249,Tsakhur,767,майит,CyrillTrans,corpse,,,mayit,Phonemic
+4-760-70-1,tsak1249,Tsakhur,1417,гикІас,CyrillTrans,kill,,,gikʼas,Phonemic
+4-751-70-1,tsak1249,Tsakhur,1904,богъмишхьана,CyrillTrans,drowned,,,boɣmišx̌ana,Phonemic
+4-750-70-1,tsak1249,Tsakhur,1494,хъикІас,CyrillTrans,"die, dead",,,"qikʼas, raˤhmatqa, arkʼɨniy, qikʼuna",Phonemic
+4-750-70-3,tsak1249,Tsakhur,1494,раІгьматхъа,CyrillTrans,"die, dead",,,"qikʼas, raˤhmatqa, arkʼɨniy, qikʼuna",Phonemic
+4-750-70-5,tsak1249,Tsakhur,1494,аркІыний,CyrillTrans,"die, dead",,,"qikʼas, raˤhmatqa, arkʼɨniy, qikʼuna",Phonemic
+4-750-70-7,tsak1249,Tsakhur,1494,хъикІуна,CyrillTrans,"die, dead",,,"qikʼas, raˤhmatqa, arkʼɨniy, qikʼuna",Phonemic
+4-740-70-1,tsak1249,Tsakhur,1422,ешемишхьес сагъна,CyrillTrans,"live, living, life",,,"yešemišx̌es saɣna, ɨˤmɨr",Phonemic
+4-740-70-3,tsak1249,Tsakhur,1422,ыІмыр,CyrillTrans,"live, living, life",,,"yešemišx̌es saɣna, ɨˤmɨr",Phonemic
+4-732-70-1,tsak1249,Tsakhur,1087,вухьнена,CyrillTrans,conceive,,,wux̌nena,Phonemic
+4-730-70-1,tsak1249,Tsakhur,1123,вухьнена,CyrillTrans,pregnant,,,wux̌nena,Phonemic
+4-720-70-1,tsak1249,Tsakhur,1090,едике ыхьай,CyrillTrans,born (to be),,,yedike ɨx̌ay,Phonemic
+4-710-70-1,tsak1249,Tsakhur,1152,гьаъа,CyrillTrans,beget (of father),,,haʔas,Phonemic
+4-690-70-1,tsak1249,Tsakhur,138,айхаІрас,CyrillTrans,bathe,,,ayxaˤras,Phonemic
+4-680-70-1,tsak1249,Tsakhur,52,титрамишаъас,CyrillTrans,shiver,,,titramišaʔas,Phonemic
+4-670-70-1,tsak1249,Tsakhur,1785,гьиъиккас,CyrillTrans,have sexual intercourse,,,hiʔik̄as,Phonemic
+4-660-70-1,tsak1249,Tsakhur,676,хыІн гяуй,CyrillTrans,defecate,,,xɨˤn gyauy,Phonemic
+4-650-70-1,tsak1249,Tsakhur,592,цирхь гяуй,CyrillTrans,urinate,,,cirx̌ gyauy,Phonemic
+4-640-70-1,tsak1249,Tsakhur,1159,хьив авгьуй,CyrillTrans,break wind,,,x̌iw awhuy,Phonemic
+4-630-70-1,tsak1249,Tsakhur,1602,оьца кьепхес,CyrillTrans,wake up,,,öca qʼepxes,Phonemic
+4-620-70-1,tsak1249,Tsakhur,1920,някІ къаджий,CyrillTrans,dream,,,nyakʼ q̄aǯiy,Phonemic
+4-612-70-1,tsak1249,Tsakhur,1983,хурх,CyrillTrans,snore,,,xurx,Phonemic
+4-610-70-1,tsak1249,Tsakhur,1585,къапихьас,CyrillTrans,sleep,,,q̄apix̌as,Phonemic
+4-591-70-1,tsak1249,Tsakhur,268,рихь,CyrillTrans,dribble,,,rix̌,Phonemic
+4-590-70-1,tsak1249,Tsakhur,319,миз ывхыІй,CyrillTrans,lick,,,miz ɨwxɨˤy,Phonemic
+4-580-70-1,tsak1249,Tsakhur,1403,аьцайаънас,CyrillTrans,bite,,,äcayaʔnas,Phonemic
+4-570-70-1,tsak1249,Tsakhur,1278,гьапяуй гъаляас,CyrillTrans,vomit,,,hapyauy ɣalyaʔas,Phonemic
+4-560-70-1,tsak1249,Tsakhur,1440,тю,CyrillTrans,spit,,,tyu,Phonemic
+4-550-70-1,tsak1249,Tsakhur,126,шина айирхьуй,CyrillTrans,perspire,,,šina ayirx̌uy,Phonemic
+4-540-70-1,tsak1249,Tsakhur,1621,гягьархъас,CyrillTrans,sneeze,,,gyaharqas,Phonemic
+4-530-70-1,tsak1249,Tsakhur,879,кІосса гьавъуй,CyrillTrans,cough,,,kʼossa hawʔuy,Phonemic
+4-521-70-1,tsak1249,Tsakhur,162,хьытʼкІ,CyrillTrans,hiccough,,,x̌ɨtʲkʼ,Phonemic
+4-520-70-1,tsak1249,Tsakhur,1028,гІалʼбай,CyrillTrans,"yawn, gape",,,"ʕalʲbay, hauy",Phonemic
+4-520-70-3,tsak1249,Tsakhur,1028,гьауй,CyrillTrans,"yawn, gape",,,"ʕalʲbay, hauy",Phonemic
+4-510-70-1,tsak1249,Tsakhur,1407,нафас алятас,CyrillTrans,"breathe, breath",,,nafas alyatas,Phonemic
+4-492-70-1,tsak1249,Tsakhur,1222,ситир,CyrillTrans,penis,,,sitir,Phonemic
+4-490-70-1,tsak1249,Tsakhur,797,кьылыкьбы,CyrillTrans,testicle,,,qʼɨlɨqʼbɨ,Phonemic
+4-470-70-1,tsak1249,Tsakhur,804,акІур,CyrillTrans,womb,,,akʼur,Phonemic
+4-464-70-1,tsak1249,Tsakhur,834,умабы,CyrillTrans,buttocks,,,umabɨ,Phonemic
+4-463-70-1,tsak1249,Tsakhur,1745,буд,CyrillTrans,hip,,,bud,Phonemic
+4-462-70-1,tsak1249,Tsakhur,1681,акІва,CyrillTrans,waist,,,akʼʷa,Phonemic
+4-461-70-1,tsak1249,Tsakhur,1991,ичІапат,CyrillTrans,"intestines, guts",,,ič’apat,Phonemic
+4-460-70-1,tsak1249,Tsakhur,819,вухун,CyrillTrans,stomach,,,wuxun,Phonemic
+4-452-70-1,tsak1249,Tsakhur,1744,зылзам,CyrillTrans,spleen,,,zɨlzam,Phonemic
+4-451-70-1,tsak1249,Tsakhur,489,кІутІун,CyrillTrans,kidney,,,kʼutʼun,Phonemic
+4-450-70-1,tsak1249,Tsakhur,1224,кІыпʼкІам,CyrillTrans,liver,,,kʼɨpʲkʼam,Phonemic
+4-441-70-1,tsak1249,Tsakhur,688,оІпка,CyrillTrans,lung,,,oˤpka,Phonemic
+4-440-70-1,tsak1249,Tsakhur,1223,йикІ,CyrillTrans,heart,,,yikʼ,Phonemic
+4-430-70-1,tsak1249,Tsakhur,1838,дан,CyrillTrans,navel,,,dan,Phonemic
+4-420-70-1,tsak1249,Tsakhur,154,хуІ,CyrillTrans,udder,,,xuˤ,Phonemic
+4-412-70-1,tsak1249,Tsakhur,796,митІи,CyrillTrans,"nipple, teat",,,mitʼi,Phonemic
+4-410-70-1,tsak1249,Tsakhur,1402,муху,CyrillTrans,breast (of woman),,,muxu,Phonemic
+4-400-70-1,tsak1249,Tsakhur,1592,кокси,CyrillTrans,chest,,,koksi,Phonemic
+4-393-70-1,tsak1249,Tsakhur,1201,кукра,CyrillTrans,feather,,,kukra,Phonemic
+4-392-70-1,tsak1249,Tsakhur,1257,къанат,CyrillTrans,wing,,,q̄anat,Phonemic
+4-380-70-1,tsak1249,Tsakhur,1389,тІуб,CyrillTrans,toe,,,tʼub,Phonemic
+4-374-70-1,tsak1249,Tsakhur,318,гов,CyrillTrans,footprint,,,gow,Phonemic
+4-372-70-1,tsak1249,Tsakhur,980,мыІкьпи,CyrillTrans,heel,,,mɨˤqʼpi,Phonemic
+4-371-70-1,tsak1249,Tsakhur,803,быркьыІна кІуне,CyrillTrans,ankle,,,bɨrqʼɨˤna kʼune,Phonemic
+4-370-70-1,tsak1249,Tsakhur,1301,мыкІли,CyrillTrans,foot,,,mɨkʼli,Phonemic
+4-360-70-1,tsak1249,Tsakhur,1371,кьараца,CyrillTrans,knee,,,qʼaraca,Phonemic
+4-352-70-1,tsak1249,Tsakhur,498,зома цец,CyrillTrans,calf of leg,,,zoma cec,Phonemic
+4-351-70-1,tsak1249,Tsakhur,800,ума,CyrillTrans,thigh,,,uma,Phonemic
+4-350-70-1,tsak1249,Tsakhur,1297,къелʼ,CyrillTrans,leg,,,q̄elʲ,Phonemic
+4-345-70-1,tsak1249,Tsakhur,72,хмыч,CyrillTrans,claw,,,xmɨč,Phonemic
+4-344-70-1,tsak1249,Tsakhur,1258,хьубана,CyrillTrans,fingernail,,,x̌ubana,Phonemic
+4-342-70-1,tsak1249,Tsakhur,1781,хебна тІуб,CyrillTrans,thumb,,,xebna tʼub,Phonemic
+4-340-70-1,tsak1249,Tsakhur,1303,тІуб,CyrillTrans,finger,,,tʼub,Phonemic
+4-331-70-1,tsak1249,Tsakhur,1183,кьоІнак,CyrillTrans,palm of hand,,,qʼoˤnak,Phonemic
+4-330-70-1,tsak1249,Tsakhur,1277,патак,CyrillTrans,hand,,,patak,Phonemic
+4-321-70-1,tsak1249,Tsakhur,799,аІгьнабы,CyrillTrans,wrist,,,aˤhnabɨ,Phonemic
+4-320-70-1,tsak1249,Tsakhur,981,хылеккум,CyrillTrans,elbow,,,xɨlek̄um,Phonemic
+4-312-70-1,tsak1249,Tsakhur,1886,хьыткапʼ,CyrillTrans,armpit,,,x̌ɨtkapʲ,Phonemic
+4-310-70-1,tsak1249,Tsakhur,1673,хылʼ,CyrillTrans,arm,,,xɨlʲ,Phonemic
+4-302-70-1,tsak1249,Tsakhur,1994,мыгама тна,CyrillTrans,collarbone,,,mɨgama tna,Phonemic
+4-301-70-1,tsak1249,Tsakhur,172,курак,CyrillTrans,shoulderblade,,,kurak,Phonemic
+4-300-70-1,tsak1249,Tsakhur,1482,мыга,CyrillTrans,shoulder,,,mɨga,Phonemic
+4-290-70-1,tsak1249,Tsakhur,1346,богъаз быгытк,CyrillTrans,throat,,,boɣaz bɨgɨtk,Phonemic
+4-281-70-1,tsak1249,Tsakhur,1347,гардан,CyrillTrans,nape of neck,,,gardan,Phonemic
+4-280-70-1,tsak1249,Tsakhur,1333,гардан,CyrillTrans,neck,,,gardan,Phonemic
+4-272-70-1,tsak1249,Tsakhur,1049,азы,CyrillTrans,molartooth,,,azɨ,Phonemic
+4-270-70-1,tsak1249,Tsakhur,1380,сили,CyrillTrans,tooth,,,sili,Phonemic
+4-271-70-1,tsak1249,Tsakhur,139,хынбы,CyrillTrans,gums,,,xɨnbɨ,Phonemic
+4-260-70-1,tsak1249,Tsakhur,1205,миз,CyrillTrans,tongue,,,miz,Phonemic
+4-250-70-1,tsak1249,Tsakhur,478,пыз,CyrillTrans,lip,,,"pɨz, pɨšni",Phonemic
+4-250-70-3,tsak1249,Tsakhur,478,пышни,CyrillTrans,lip,,,"pɨz, pɨšni",Phonemic
+4-241-70-1,tsak1249,Tsakhur,73,кухІ,CyrillTrans,beak,,,kuћ,Phonemic
+4-240-70-1,tsak1249,Tsakhur,674,гІалʼ,CyrillTrans,mouth,,,ʕalʲ,Phonemic
+4-232-70-1,tsak1249,Tsakhur,208,хъыІшытІ,CyrillTrans,mucus (nasal),,,"qɨˤšɨtʼ, kɨx",Phonemic
+4-232-70-3,tsak1249,Tsakhur,208,кых,CyrillTrans,mucus (nasal),,,"qɨˤšɨtʼ, kɨx",Phonemic
+4-231-70-1,tsak1249,Tsakhur,1178,къушена баІдже,CyrillTrans,nostril,,,q̄ušena baˤǯe,Phonemic
+4-230-70-1,tsak1249,Tsakhur,1221,хъов,CyrillTrans,nose,,,"qow, q̄ow",Phonemic
+4-230-70-3,tsak1249,Tsakhur,1221,къов,CyrillTrans,nose,,,"qow, q̄ow",Phonemic
+4-222-70-1,tsak1249,Tsakhur,32,маш,CyrillTrans,earwax,,,maš,Phonemic
+4-221-70-1,tsak1249,Tsakhur,18,кІырейна митІ,CyrillTrans,earlobe,,,kʼɨreyna mitʼ,Phonemic
+4-220-70-1,tsak1249,Tsakhur,1247,кІыры,CyrillTrans,ear,,,kʼɨrɨ,Phonemic
+4-215-70-1,tsak1249,Tsakhur,1655,цуху кехе,CyrillTrans,blink,,,cuxu kexe,Phonemic
+4-214-70-1,tsak1249,Tsakhur,1540,кІакІ,CyrillTrans,eyelash,,,kʼakʼ,Phonemic
+4-213-70-1,tsak1249,Tsakhur,17,кІакІ,CyrillTrans,eyelid,,,kʼakʼ,Phonemic
+4-212-70-1,tsak1249,Tsakhur,1173,къаш,CyrillTrans,eyebrow,,,q̄aš,Phonemic
+4-210-70-1,tsak1249,Tsakhur,1248,улʼ,CyrillTrans,eye,,,ulʲ,Phonemic
+4-208-70-1,tsak1249,Tsakhur,1730,дан,CyrillTrans,cheek,,,dan,Phonemic
+4-209-70-1,tsak1249,Tsakhur,1510,кьац,CyrillTrans,chin,,,qʼac,Phonemic
+4-205-70-1,tsak1249,Tsakhur,123,лига,CyrillTrans,forehead,,,liga,Phonemic
+4-207-70-1,tsak1249,Tsakhur,798,чене,CyrillTrans,jaw,,,čene,Phonemic
+4-204-70-1,tsak1249,Tsakhur,1560,акьва,CyrillTrans,face,,,aqʼʷa,Phonemic
+4-203-70-1,tsak1249,Tsakhur,1583,маІгь,CyrillTrans,brain,,,maˤh,Phonemic
+4-201-70-1,tsak1249,Tsakhur,1604,кІунтІ,CyrillTrans,"side of head, temple",,,kʼuntʼ,Phonemic
+4-202-70-1,tsak1249,Tsakhur,1605,къафа,CyrillTrans,skull,,,q̄afa,Phonemic
+4-200-70-1,tsak1249,Tsakhur,1256,калле,CyrillTrans,head,,,kalle,Phonemic
+4-191-70-1,tsak1249,Tsakhur,805,сини,CyrillTrans,spine,,,sini,Phonemic
+4-190-70-1,tsak1249,Tsakhur,1291,йыІкь,CyrillTrans,back,,,yɨˤqʼ,Phonemic
+4-180-70-1,tsak1249,Tsakhur,1220,быІт,CyrillTrans,tail,,,bɨˤt,Phonemic
+4-170-70-1,tsak1249,Tsakhur,1393,гач,CyrillTrans,horn,,,gač,Phonemic
+4-162-70-1,tsak1249,Tsakhur,801,мыгылʼен телебы,CyrillTrans,rib,,,mɨgɨlʲen telebɨ,Phonemic
+4-160-70-1,tsak1249,Tsakhur,1394,баркІ,CyrillTrans,bone,,,barkʼ,Phonemic
+4-151-70-1,tsak1249,Tsakhur,525,дамар,CyrillTrans,"vein, artery",,,damar,Phonemic
+4-150-70-1,tsak1249,Tsakhur,946,эб,CyrillTrans,blood,,,eb,Phonemic
+4-146-70-1,tsak1249,Tsakhur,576,хаІрх,CyrillTrans,dandruff,,,xaˤrx,Phonemic
+4-145-70-1,tsak1249,Tsakhur,36,йис,CyrillTrans,pubic hair,,,yis,Phonemic
+4-144-70-1,tsak1249,Tsakhur,189,йис,CyrillTrans,body hair,,,yis,Phonemic
+4-142-70-1,tsak1249,Tsakhur,678,мучІру,CyrillTrans,beard,,,muč’ru,Phonemic
+4-140-70-1,tsak1249,Tsakhur,1040,чІар,CyrillTrans,hair (head),,,č’ar,Phonemic
+4-130-70-1,tsak1249,Tsakhur,2259,чʼан,CyrillTrans,flesh,,,čʲan,Phonemic
+4-120-70-1,tsak1249,Tsakhur,763,къека,CyrillTrans,"skin, hide",,,q̄eka,Phonemic
+4-110-70-1,tsak1249,Tsakhur,1480,джандак,CyrillTrans,body,,,ǯandak,Phonemic
+3-980-70-1,tsak1249,Tsakhur,112,тысбагъа,CyrillTrans,turtle,,,tɨsbaɣa,Phonemic
+3-970-70-1,tsak1249,Tsakhur,1857,крокодил,CyrillTrans,"crocodile, alligator",,,krokodil,Phonemic
+3-960-70-1,tsak1249,Tsakhur,632,баІнек,CyrillTrans,lizard,,,baˤnek,Phonemic
+3-950-70-1,tsak1249,Tsakhur,503,хъырхъыІмит,CyrillTrans,frog,,,qɨrqɨˤmit,Phonemic
+3-940-70-1,tsak1249,Tsakhur,1543,роче,CyrillTrans,snail,,,roče,Phonemic
+3-930-70-1,tsak1249,Tsakhur,607,цІыт,CyrillTrans,grasshopper,,,c’ɨt,Phonemic
+3-920-70-1,tsak1249,Tsakhur,1791,кабай,CyrillTrans,butterfly,,,kabay,Phonemic
+3-910-70-1,tsak1249,Tsakhur,206,ишигъдав,CyrillTrans,firefly,,,išiɣdaw,Phonemic
+3-850-70-1,tsak1249,Tsakhur,730,хоче,CyrillTrans,snake,,,xoče,Phonemic
+3-840-70-1,tsak1249,Tsakhur,1219,абравучІе,CyrillTrans,worm,,,abrawuč’e,Phonemic
+3-832-70-1,tsak1249,Tsakhur,1509,мычак,CyrillTrans,mosquito,,,mɨčak,Phonemic
+3-831-70-1,tsak1249,Tsakhur,95,мычак,CyrillTrans,"sandfly (midge), gnat",,,mɨčak,Phonemic
+3-830-70-1,tsak1249,Tsakhur,1504,тІотІ,CyrillTrans,fly,,,tʼotʼ,Phonemic
+3-823-70-1,tsak1249,Tsakhur,1517,нацахІай,CyrillTrans,wasp,,,nacaћay,Phonemic
+3-822-70-1,tsak1249,Tsakhur,88,геджи,CyrillTrans,beehive,,,geǯi,Phonemic
+3-821-70-1,tsak1249,Tsakhur,1931,мох,CyrillTrans,beeswax,,,mox,Phonemic
+3-820-70-1,tsak1249,Tsakhur,665,тІотІ,CyrillTrans,bee,,,tʼotʼ,Phonemic
+3-819-70-1,tsak1249,Tsakhur,1065,мес,CyrillTrans,spider web,,,mes,Phonemic
+3-818-70-1,tsak1249,Tsakhur,843,диндаранг гиндаранг,CyrillTrans,spider,,,dindarang gindarang,Phonemic
+3-817-70-1,tsak1249,Tsakhur,587,зутхале,CyrillTrans,ant,,,zutxale,Phonemic
+3-816-70-1,tsak1249,Tsakhur,1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-70-1,tsak1249,Tsakhur,1538,аІкъраб,CyrillTrans,scorpion,,,aˤq̄rab,Phonemic
+3-814-70-1,tsak1249,Tsakhur,1974,шокцал челʼнан,CyrillTrans,centipede,,,šokcal čelʲnan,Phonemic
+3-813-70-1,tsak1249,Tsakhur,232,чин,CyrillTrans,flea,,,čin,Phonemic
+3-812-70-1,tsak1249,Tsakhur,267,нат,CyrillTrans,nit (louse egg),,,nat,Phonemic
+3-811-70-1,tsak1249,Tsakhur,1392,вихь,CyrillTrans,louse,,,wix̌,Phonemic
+3-810-70-1,tsak1249,Tsakhur,620,гьаІшарат,CyrillTrans,insect,,,"haˤšarat, bukar",Phonemic
+3-810-70-3,tsak1249,Tsakhur,620,букар,CyrillTrans,insect,,,"haˤšarat, bukar",Phonemic
+3-780-70-1,tsak1249,Tsakhur,1871,дева,CyrillTrans,camel,,,dewa,Phonemic
+3-770-70-1,tsak1249,Tsakhur,1290,фил,CyrillTrans,elephant,,,fil,Phonemic
+3-760-70-1,tsak1249,Tsakhur,1350,маймын,CyrillTrans,monkey,,,maymɨn,Phonemic
+3-750-70-1,tsak1249,Tsakhur,1936,марал,CyrillTrans,deer,,,maral,Phonemic
+3-740-70-1,tsak1249,Tsakhur,1312,сыІва,CyrillTrans,fox,,,sɨˤwa,Phonemic
+3-730-70-1,tsak1249,Tsakhur,1820,сʼо,CyrillTrans,bear,,,sʼo,Phonemic
+3-720-70-1,tsak1249,Tsakhur,1386,аслан,CyrillTrans,lion,,,aslan,Phonemic
+3-710-70-1,tsak1249,Tsakhur,522,джанавар,CyrillTrans,wolf,,,ǯanawar,Phonemic
+3-663-70-1,tsak1249,Tsakhur,957,кит,CyrillTrans,whale,,,kit,Phonemic
+3-662-70-1,tsak1249,Tsakhur,1479,дельфин,CyrillTrans,"porpoise, dolphin",,,delʲfin,Phonemic
+3-661-70-1,tsak1249,Tsakhur,1110,акула,CyrillTrans,shark,,,akula,Phonemic
+3-655-70-1,tsak1249,Tsakhur,598,хаІтен кІырыбы,CyrillTrans,shell,,,xaˤten kʼɨrɨbɨ,Phonemic
+3-654-70-1,tsak1249,Tsakhur,1916,гъаІптамабы,CyrillTrans,gill,,,ɣaˤptamabɨ,Phonemic
+3-653-70-1,tsak1249,Tsakhur,266,къека,CyrillTrans,fishscale,,,q̄eka,Phonemic
+3-652-70-1,tsak1249,Tsakhur,213,къанат,CyrillTrans,fin (dorsal),,,q̄anat,Phonemic
+3-650-70-1,tsak1249,Tsakhur,227,балугъ,CyrillTrans,fish,,,baluɣ,Phonemic
+3-630-70-1,tsak1249,Tsakhur,2139,кьоІв,CyrillTrans,"mouse, rat",,,"qʼoˤw, daptanay",Phonemic
+3-630-70-3,tsak1249,Tsakhur,2139,даптанай,CyrillTrans,"mouse, rat",,,"qʼoˤw, daptanay",Phonemic
+3-620-70-1,tsak1249,Tsakhur,1208,аІбын,CyrillTrans,cat,,,aˤbɨn,Phonemic
+3-614-70-1,tsak1249,Tsakhur,1136,къыІе,CyrillTrans,rabbit,,,q̄ɨˤye,Phonemic
+3-610-70-1,tsak1249,Tsakhur,2009,хва,CyrillTrans,dog,,,xʷa,Phonemic
+3-594-70-1,tsak1249,Tsakhur,1853,хъинерке,CyrillTrans,dove,,,qinerke,Phonemic
+3-596-70-1,tsak1249,Tsakhur,735,байгъуш,CyrillTrans,owl,,,bayɣuš,Phonemic
+3-593-70-1,tsak1249,Tsakhur,913,хъаІн,CyrillTrans,crow,,,qaˤn,Phonemic
+3-592-70-1,tsak1249,Tsakhur,882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-70-1,tsak1249,Tsakhur,1793,чирхІоІ чапап,CyrillTrans,bat,,,čirћoˤ čapap,Phonemic
+3-586-70-1,tsak1249,Tsakhur,1185,карна качир,CyrillTrans,vulture,,,karna kačir,Phonemic
+3-585-70-1,tsak1249,Tsakhur,307,каджир,CyrillTrans,hawk,,,kaǯir,Phonemic
+3-584-70-1,tsak1249,Tsakhur,1905,чапагьан,CyrillTrans,eagle,,,"čapahan, kaǯir",Phonemic
+3-584-70-3,tsak1249,Tsakhur,1905,каджир,CyrillTrans,eagle,,,"čapahan, kaǯir",Phonemic
+3-582-70-1,tsak1249,Tsakhur,950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-70-1,tsak1249,Tsakhur,758,хебна шитІ,CyrillTrans,heron,,,xebna šitʼ,Phonemic
+3-581-70-1,tsak1249,Tsakhur,937,шитІ,CyrillTrans,bird,,,šitʼ,Phonemic
+3-580-70-1,tsak1249,Tsakhur,539,акка,CyrillTrans,nest,,,ak̄a,Phonemic
+3-570-70-1,tsak1249,Tsakhur,1360,оІрдак,CyrillTrans,duck,,,oˤrdak,Phonemic
+3-560-70-1,tsak1249,Tsakhur,1187,къаз,CyrillTrans,goose,,,q̄az,Phonemic
+3-550-70-1,tsak1249,Tsakhur,1318,джудже,CyrillTrans,chicken,,,ǯuǯe,Phonemic
+3-540-70-1,tsak1249,Tsakhur,1514,кІатІе,CyrillTrans,hen,,,kʼatʼe,Phonemic
+3-520-70-1,tsak1249,Tsakhur,1511,дадал,CyrillTrans,"cock, rooster",,,dadal,Phonemic
+3-470-70-1,tsak1249,Tsakhur,890,къатир,CyrillTrans,mule,,,q̄atir,Phonemic
+3-500-70-1,tsak1249,Tsakhur,265,катер,CyrillTrans,fowl,,,kater,Phonemic
+3-460-70-1,tsak1249,Tsakhur,1862,аІмале,CyrillTrans,"ass, donkey",,,aˤmale,Phonemic
+3-450-70-1,tsak1249,Tsakhur,1647,урӣе,CyrillTrans,"foal, colt",,,urīye,Phonemic
+3-440-70-1,tsak1249,Tsakhur,938,мадʼйан,CyrillTrans,mare,,,madʲyan,Phonemic
+3-420-70-1,tsak1249,Tsakhur,936,айгъыр,CyrillTrans,stallion,,,ayɣɨr,Phonemic
+3-410-70-1,tsak1249,Tsakhur,615,балкан,CyrillTrans,horse (equine),,,"balkan, yabɨ",Phonemic
+3-410-70-3,tsak1249,Tsakhur,615,ябы,CyrillTrans,horse (equine),,,"balkan, yabɨ",Phonemic
+3-380-70-1,tsak1249,Tsakhur,1972,чепчий,CyrillTrans,kid,,,"čepčiy, čepič",Phonemic
+3-380-70-3,tsak1249,Tsakhur,1972,чепич,CyrillTrans,kid,,,"čepčiy, čepič",Phonemic
+3-370-70-1,tsak1249,Tsakhur,264,вудра,CyrillTrans,he-goat,,,wudra,Phonemic
+3-360-70-1,tsak1249,Tsakhur,1502,цеІъ,CyrillTrans,goat,,,ceˤʔ,Phonemic
+3-350-70-1,tsak1249,Tsakhur,1337,вок,CyrillTrans,pig,,,wok,Phonemic
+3-340-70-1,tsak1249,Tsakhur,1351,вок,CyrillTrans,sow (2),,,wok,Phonemic
+3-320-70-1,tsak1249,Tsakhur,1348,къабан,CyrillTrans,boar,,,q̄aban,Phonemic
+3-290-70-1,tsak1249,Tsakhur,820,гев,CyrillTrans,lamb,,,gew,Phonemic
+3-280-70-1,tsak1249,Tsakhur,1345,вакІаІ,CyrillTrans,ewe,,,wakʼaˤ,Phonemic
+3-260-70-1,tsak1249,Tsakhur,1344,къарг,CyrillTrans,ram,,,q̄arg,Phonemic
+3-250-70-1,tsak1249,Tsakhur,1331,вакІаІ,CyrillTrans,sheep,,,"wakʼaˤ, waˤq̄a, garm",Phonemic
+3-250-70-3,tsak1249,Tsakhur,1331,ваІкъа,CyrillTrans,sheep,,,"wakʼaˤ, waˤq̄a, garm",Phonemic
+3-250-70-5,tsak1249,Tsakhur,1331,гарм,CyrillTrans,sheep,,,"wakʼaˤ, waˤq̄a, garm",Phonemic
+3-240-70-1,tsak1249,Tsakhur,1989,кьыка,CyrillTrans,calf,,,qʼɨka,Phonemic
+3-230-70-1,tsak1249,Tsakhur,1007,зер,CyrillTrans,cow,,,zer,Phonemic
+3-220-70-1,tsak1249,Tsakhur,1169,яц,CyrillTrans,ox,,,yac,Phonemic
+3-210-70-1,tsak1249,Tsakhur,1008,яц,CyrillTrans,bull,,,"yac, dana",Phonemic
+3-210-70-3,tsak1249,Tsakhur,1008,дана,CyrillTrans,bull,,,"yac, dana",Phonemic
+3-200-70-1,tsak1249,Tsakhur,1153,чавра,CyrillTrans,cattle (bovine),,,čawra,Phonemic
+3-190-70-1,tsak1249,Tsakhur,851,агъып,CyrillTrans,"stable, stall",,,"aɣɨp, yic’a, axar",Phonemic
+3-190-70-3,tsak1249,Tsakhur,851,йицІа,CyrillTrans,"stable, stall",,,"aɣɨp, yic’a, axar",Phonemic
+3-190-70-5,tsak1249,Tsakhur,851,ахар,CyrillTrans,"stable, stall",,,"aɣɨp, yic’a, axar",Phonemic
+3-180-70-1,tsak1249,Tsakhur,263,чобан,CyrillTrans,herdsman,,,"čoban, mexirwan, pešekar",Phonemic
+3-180-70-3,tsak1249,Tsakhur,263,мехирван,CyrillTrans,herdsman,,,"čoban, mexirwan, pešekar",Phonemic
+3-180-70-5,tsak1249,Tsakhur,263,пешекар,CyrillTrans,herdsman,,,"čoban, mexirwan, pešekar",Phonemic
+3-160-70-1,tsak1249,Tsakhur,649,оІруш,CyrillTrans,pasture,,,oˤruš,Phonemic
+3-150-70-1,tsak1249,Tsakhur,631,гьаІйван,CyrillTrans,livestock,,,"haˤywan, kane",Phonemic
+3-150-70-3,tsak1249,Tsakhur,631,кане,CyrillTrans,livestock,,,"haˤywan, kane",Phonemic
+3-130-70-1,tsak1249,Tsakhur,2262,едаршин,CyrillTrans,female (adj),,,yedaršin,Phonemic
+3-120-70-1,tsak1249,Tsakhur,2261,адамейршин,CyrillTrans,male (adj),,,adameyršin,Phonemic
+3-110-70-1,tsak1249,Tsakhur,619,гьаІйван,CyrillTrans,animal,,,haˤywan,Phonemic
+2-960-70-1,tsak1249,Tsakhur,817,манбы,CyrillTrans,they,,,"manbɨ, mamɨ",Phonemic
+2-960-70-3,tsak1249,Tsakhur,817,мамы,CyrillTrans,they,,,"manbɨ, mamɨ",Phonemic
+2-950-70-1,tsak1249,Tsakhur,1213,шу,CyrillTrans,you (plural),,,šu,Phonemic
+2-940-70-1,tsak1249,Tsakhur,1212,ши,CyrillTrans,we,,,ši,Phonemic
+2-930-70-1,tsak1249,Tsakhur,262,мана,CyrillTrans,he/she/it,,,"mana, mana, man",Phonemic
+2-930-70-3,tsak1249,Tsakhur,262,мана,CyrillTrans,he/she/it,,,"mana, mana, man",Phonemic
+2-930-70-5,tsak1249,Tsakhur,262,ман,CyrillTrans,he/she/it,,,"mana, mana, man",Phonemic
+2-920-70-1,tsak1249,Tsakhur,1215,гъу,CyrillTrans,you (singular),,,ɣu,Phonemic
+2-910-70-1,tsak1249,Tsakhur,1209,зы,CyrillTrans,I,,,zɨ,Phonemic
+2-820-70-1,tsak1249,Tsakhur,194,хизан,CyrillTrans,family,,,xizan,Phonemic
+2-810-70-1,tsak1249,Tsakhur,1644,гугьарбы,CyrillTrans,"relatives, kinsmen",,,guharbɨ,Phonemic
+2-770-70-1,tsak1249,Tsakhur,1981,сипІрий,CyrillTrans,widower,,,sip’riy,Phonemic
+2-760-70-1,tsak1249,Tsakhur,1756,сипІрий,CyrillTrans,widow,,,sip’riy,Phonemic
+2-750-70-1,tsak1249,Tsakhur,1149,етим,CyrillTrans,orphan,,,yetim,Phonemic
+2-740-70-1,tsak1249,Tsakhur,1058,двухна йиш,CyrillTrans,stepdaughter,,,dwuxna yiš,Phonemic
+2-730-70-1,tsak1249,Tsakhur,1059,двухна,CyrillTrans,stepson,,,"dwuxna, dix",Phonemic
+2-730-70-3,tsak1249,Tsakhur,1059,дих,CyrillTrans,stepson,,,"dwuxna, dix",Phonemic
+2-720-70-1,tsak1249,Tsakhur,236,двухна ед’,CyrillTrans,stepmother,,,dwuxna yedʲ,Phonemic
+2-710-70-1,tsak1249,Tsakhur,237,двухна дек,CyrillTrans,stepfather,,,dwuxna dek,Phonemic
+2-641-70-1,tsak1249,Tsakhur,2264,сос,CyrillTrans,daughter-in-law (of a woman),,,sos,Phonemic
+2-640-70-1,tsak1249,Tsakhur,2265,сос,CyrillTrans,daughter-in-law (of a man),,,sos,Phonemic
+2-631-70-1,tsak1249,Tsakhur,2266,езна,CyrillTrans,son-in-law (of a woman),,,ezna,Phonemic
+2-630-70-1,tsak1249,Tsakhur,2267,езна,CyrillTrans,son-in-law (of a man),,,yezna,Phonemic
+2-621-70-1,tsak1249,Tsakhur,2257,абай,CyrillTrans,mother-in-law (of a woman),,,abay,Phonemic
+2-620-70-1,tsak1249,Tsakhur,2256,абай,CyrillTrans,mother-in-law (of a man),,,abay,Phonemic
+2-611-70-1,tsak1249,Tsakhur,2254,абаттей,CyrillTrans,father-in-law (of a woman),,,abat̄ey,Phonemic
+2-610-70-1,tsak1249,Tsakhur,2255,абаттей,CyrillTrans,father-in-law (of a man),,,abat̄ey,Phonemic
+2-570-70-1,tsak1249,Tsakhur,490,нетиджебы,CyrillTrans,descendants,,,"netiǯebɨ, kokʲ",Phonemic
+2-570-70-3,tsak1249,Tsakhur,490,кокʼ,CyrillTrans,descendants,,,"netiǯebɨ, kokʲ",Phonemic
+2-560-70-1,tsak1249,Tsakhur,1669,касти дакина дак (асыл),CyrillTrans,ancestors,,,kasti dakina dak (asɨl),Phonemic
+2-550-70-1,tsak1249,Tsakhur,1643,эми огълый,CyrillTrans,cousin,,,"emi oɣlɨy, dayi oɣlɨy, emi q̄ɨzɨy",Phonemic
+2-550-70-3,tsak1249,Tsakhur,1643,дайи огълый,CyrillTrans,cousin,,,"emi oɣlɨy, dayi oɣlɨy, emi q̄ɨzɨy",Phonemic
+2-550-70-5,tsak1249,Tsakhur,1643,эми къызый,CyrillTrans,cousin,,,"emi oɣlɨy, dayi oɣlɨy, emi q̄ɨzɨy",Phonemic
+2-540-70-1,tsak1249,Tsakhur,1642,хыдылʼ,CyrillTrans,niece,,,xɨdɨlʲ,Phonemic
+2-530-70-1,tsak1249,Tsakhur,1063,хыдылʼ,CyrillTrans,nephew,,,xɨdɨlʲ,Phonemic
+2-522-70-1,tsak1249,Tsakhur,170,мамай,CyrillTrans,father's sister,,,mamay,Phonemic
+2-520-70-1,tsak1249,Tsakhur,1272,халай,CyrillTrans,aunt,,,"xalay, mamay",Phonemic
+2-520-70-3,tsak1249,Tsakhur,1272,мамай,CyrillTrans,aunt,,,"xalay, mamay",Phonemic
+2-521-70-1,tsak1249,Tsakhur,171,халай,CyrillTrans,mother's sister,,,xalay,Phonemic
+2-512-70-1,tsak1249,Tsakhur,1985,эмий,CyrillTrans,father's brother,,,emiy,Phonemic
+2-511-70-1,tsak1249,Tsakhur,1984,дайий,CyrillTrans,mother's brother,,,dayiy,Phonemic
+2-510-70-1,tsak1249,Tsakhur,1327,эмий,CyrillTrans,uncle,,,"emiy, dayiy",Phonemic
+2-510-70-3,tsak1249,Tsakhur,1327,дайий,CyrillTrans,uncle,,,"emiy, dayiy",Phonemic
+2-480-70-1,tsak1249,Tsakhur,1618,нева,CyrillTrans,grandson,,,"newa, xɨdɨlʲ",Phonemic
+2-480-70-3,tsak1249,Tsakhur,1618,хыдылʼ,CyrillTrans,grandson,,,"newa, xɨdɨlʲ",Phonemic
+2-490-70-1,tsak1249,Tsakhur,1619,нева,CyrillTrans,granddaughter,,,"newa, xɨdɨlʲ",Phonemic
+2-490-70-3,tsak1249,Tsakhur,1619,хыдылʼ,CyrillTrans,granddaughter,,,"newa, xɨdɨlʲ",Phonemic
+2-471-70-1,tsak1249,Tsakhur,907,къарий,CyrillTrans,old woman,,,q̄ariy,Phonemic
+2-470-70-1,tsak1249,Tsakhur,1496,адей,CyrillTrans,grandmother,,,"adey, qʼaˤsda yedʲ",Phonemic
+2-470-70-3,tsak1249,Tsakhur,1496,кьаІсда ед’,CyrillTrans,grandmother,,,"adey, qʼaˤsda yedʲ",Phonemic
+2-461-70-1,tsak1249,Tsakhur,406,кьаІсда,CyrillTrans,old man,,,qʼaˤsda,Phonemic
+2-460-70-1,tsak1249,Tsakhur,1383,дидей,CyrillTrans,grandfather,,,"didey, q̄asta didey",Phonemic
+2-460-70-3,tsak1249,Tsakhur,1383,къаста дидей,CyrillTrans,grandfather,,,"didey, q̄asta didey",Phonemic
+2-458-70-1,tsak1249,Tsakhur,1005,кьыІмкІалер,CyrillTrans,twins,,,qʼɨˤmkʼaler,Phonemic
+2-456-70-1,tsak1249,Tsakhur,1640,чодж,CyrillTrans,sibling,,,"čoǯ, yiči",Phonemic
+2-456-70-3,tsak1249,Tsakhur,1640,йичи,CyrillTrans,sibling,,,"čoǯ, yiči",Phonemic
+2-455-70-1,tsak1249,Tsakhur,1761,кІылʼна йичи,CyrillTrans,younger sister,,,kʼɨlʲna yiči,Phonemic
+2-454-70-1,tsak1249,Tsakhur,1758,херна йичи,CyrillTrans,older sister,,,xerna yiči,Phonemic
+2-450-70-1,tsak1249,Tsakhur,1263,йичи,CyrillTrans,sister,,,yiči,Phonemic
+2-445-70-1,tsak1249,Tsakhur,1760,кІылʼна чодж,CyrillTrans,younger brother,,,kʼɨlʲna čoǯ,Phonemic
+2-444-70-1,tsak1249,Tsakhur,1759,херна чодж,CyrillTrans,older brother,,,xerna čoǯ,Phonemic
+2-440-70-1,tsak1249,Tsakhur,1262,чодж,CyrillTrans,brother,,,čoǯ,Phonemic
+2-430-70-1,tsak1249,Tsakhur,1801,ушагъар,CyrillTrans,offspring (son or daughter),,,"ušaɣar, kulfatbɨ",Phonemic
+2-430-70-3,tsak1249,Tsakhur,1801,кулфатбы,CyrillTrans,offspring (son or daughter),,,"ušaɣar, kulfatbɨ",Phonemic
+2-420-70-1,tsak1249,Tsakhur,1357,йиш,CyrillTrans,daughter,,,yiš,Phonemic
+2-410-70-1,tsak1249,Tsakhur,1620,дих,CyrillTrans,son,,,dix,Phonemic
+2-390-70-1,tsak1249,Tsakhur,426,адамийсанана,CyrillTrans,married woman,,,adamiysanana,Phonemic
+2-380-70-1,tsak1249,Tsakhur,424,даватбы гьауна,CyrillTrans,married man,,,dawatbɨ hauna,Phonemic
+2-370-70-1,tsak1249,Tsakhur,505,декий едʼ,CyrillTrans,parents,,,dekiy yedʲ,Phonemic
+2-360-70-1,tsak1249,Tsakhur,1216,едʼ,CyrillTrans,mother,,,edʲ,Phonemic
+2-350-70-1,tsak1249,Tsakhur,1217,дек,CyrillTrans,father,,,"dek, dāk",Phonemic
+2-350-70-3,tsak1249,Tsakhur,1217,да̄к,CyrillTrans,father,,,"dek, dāk",Phonemic
+2-341-70-1,tsak1249,Tsakhur,1134,джуравхьай,CyrillTrans,divorce,,,ǯurawx̌ay,Phonemic
+2-340-70-1,tsak1249,Tsakhur,1259,даватбы,CyrillTrans,"marriage, wedding",,,dawatbɨ,Phonemic
+2-330-70-1,tsak1249,Tsakhur,203,даватбы гьыуй,CyrillTrans,marry,,,"dawatbɨ hɨuy, adamiys harkʼɨniy",Phonemic
+2-330-70-3,tsak1249,Tsakhur,203,адамийс гьаркІыний,CyrillTrans,marry,,,"dawatbɨ hɨuy, adamiys harkʼɨniy",Phonemic
+2-320-70-1,tsak1249,Tsakhur,1199,хьунаще,CyrillTrans,wife,,,x̌unaš̄e,Phonemic
+2-310-70-1,tsak1249,Tsakhur,1200,адамий,CyrillTrans,husband,,,adamiy,Phonemic
+2-280-70-1,tsak1249,Tsakhur,1289,чІагъа,CyrillTrans,"infant, baby",,,č’aɣa,Phonemic
+2-270-70-1,tsak1249,Tsakhur,1304,ушагъ,CyrillTrans,child,,,"ušaɣ, kulfa",Phonemic
+2-270-70-3,tsak1249,Tsakhur,1304,кулфа,CyrillTrans,child,,,"ušaɣ, kulfa",Phonemic
+2-261-70-1,tsak1249,Tsakhur,77,ичий,CyrillTrans,young woman (adolescent),,,ičiy,Phonemic
+2-260-70-1,tsak1249,Tsakhur,1646,ичий,CyrillTrans,girl,,,ičiy,Phonemic
+2-251-70-1,tsak1249,Tsakhur,76,джегьил инсан,CyrillTrans,young man (adolescent),,,ǯehil insan,Phonemic
+2-250-70-1,tsak1249,Tsakhur,1366,гаде,CyrillTrans,boy,,,gade,Phonemic
+2-240-70-1,tsak1249,Tsakhur,1551,хьывылʼна,CyrillTrans,female,,,x̌ɨwɨlʲna,Phonemic
+2-230-70-1,tsak1249,Tsakhur,1553,выгІылʼна,CyrillTrans,male,,,wɨʕɨlʲna,Phonemic
+2-220-70-1,tsak1249,Tsakhur,962,хьунаще,CyrillTrans,woman,,,x̌unaš̄e,Phonemic
+2-210-70-1,tsak1249,Tsakhur,1554,адамий,CyrillTrans,man (vs. woman),,,adamiy,Phonemic
+2-100-70-1,tsak1249,Tsakhur,683,инсан,CyrillTrans,"person, human being",,,insan,Phonemic
+1-890-70-1,tsak1249,Tsakhur,1188,гІадыр,CyrillTrans,charcoal,,,ʕadɨr,Phonemic
+1-880-70-1,tsak1249,Tsakhur,10,осбы,CyrillTrans,firewood,,,osbɨ,Phonemic
+1-870-70-1,tsak1249,Tsakhur,1133,ишпишка,CyrillTrans,match (noun),,,išpiška,Phonemic
+1-861-70-1,tsak1249,Tsakhur,127,кІядхъаъас,CyrillTrans,extinguish,,,kʼyadqaʔas,Phonemic
+1-860-70-1,tsak1249,Tsakhur,737,гехьанаас,CyrillTrans,"light, kindle, ignite",,,gex̌anaʔas,Phonemic
+1-852-70-1,tsak1249,Tsakhur,1428,гетхан,CyrillTrans,burn (vb intrans),,,getxan,Phonemic
+1-851-70-1,tsak1249,Tsakhur,141,гʼоххьанаъас,CyrillTrans,burn (vb trans),,,gʲoxx̌anaʔas,Phonemic
+1-841-70-1,tsak1249,Tsakhur,67,коозбы,CyrillTrans,embers,,,koʔozbɨ,Phonemic
+1-840-70-1,tsak1249,Tsakhur,646,йыІхъ,CyrillTrans,ashes,,,yɨˤq,Phonemic
+1-830-70-1,tsak1249,Tsakhur,778,кума,CyrillTrans,smoke (noun),,,kuma,Phonemic
+1-820-70-1,tsak1249,Tsakhur,889,алов,CyrillTrans,flame (noun),,,"alow, yalaw",Phonemic
+1-820-70-3,tsak1249,Tsakhur,889,ялав,CyrillTrans,flame (noun),,,"alow, yalaw",Phonemic
+1-810-70-1,tsak1249,Tsakhur,221,цІа,CyrillTrans,fire,,,c’a,Phonemic
+1-780-70-1,tsak1249,Tsakhur,952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-70-1,tsak1249,Tsakhur,617,мык,CyrillTrans,ice,,,"mɨk, xal",Phonemic
+1-770-70-3,tsak1249,Tsakhur,617,хал,CyrillTrans,ice,,,"mɨk, xal",Phonemic
+1-760-70-1,tsak1249,Tsakhur,784,йиз,CyrillTrans,snow (noun),,,yiz,Phonemic
+1-750-70-1,tsak1249,Tsakhur,658,гʼогъуй,CyrillTrans,rain (noun),,,gʲoɣuy,Phonemic
+1-740-70-1,tsak1249,Tsakhur,249,(думан) чамра,CyrillTrans,fog,,,(duman) čamra,Phonemic
+1-720-70-1,tsak1249,Tsakhur,960,мыц,CyrillTrans,wind,,,mɨc,Phonemic
+1-730-70-1,tsak1249,Tsakhur,1489,бупуд,CyrillTrans,cloud,,,bupud,Phonemic
+1-710-70-1,tsak1249,Tsakhur,27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-70-1,tsak1249,Tsakhur,1977,чий,CyrillTrans,dew,,,čiy,Phonemic
+1-630-70-1,tsak1249,Tsakhur,1388,калга,CyrillTrans,"shade, shadow",,,"kalga, kolʲga",Phonemic
+1-630-70-3,tsak1249,Tsakhur,1388,колʼга,CyrillTrans,"shade, shadow",,,"kalga, kolʲga",Phonemic
+1-620-70-1,tsak1249,Tsakhur,11,мычІахда,CyrillTrans,darkness,,,"mɨč’axda, zulmat",Phonemic
+1-620-70-3,tsak1249,Tsakhur,11,зулмат,CyrillTrans,darkness,,,"mɨč’axda, zulmat",Phonemic
+1-610-70-1,tsak1249,Tsakhur,630,ишыгъ,CyrillTrans,light (noun),,,išɨɣ,Phonemic
+1-590-70-1,tsak1249,Tsakhur,1733,ханевур,CyrillTrans,rainbow,,,xanewur,Phonemic
+1-580-70-1,tsak1249,Tsakhur,858,кулек,CyrillTrans,storm,,,kulek,Phonemic
+1-560-70-1,tsak1249,Tsakhur,1150,гурулдав,CyrillTrans,thunder,,,guruldaw,Phonemic
+1-570-70-1,tsak1249,Tsakhur,2007,гурулдав,CyrillTrans,lightning (as striking),,,guruldaw,Phonemic
+1-550-70-1,tsak1249,Tsakhur,1654,хайбыгадака,CyrillTrans,lightning,,,xaybɨgadaka,Phonemic
+1-540-70-1,tsak1249,Tsakhur,1430,хаІне,CyrillTrans,star,,,xaˤne,Phonemic
+1-530-70-1,tsak1249,Tsakhur,1313,ваз,CyrillTrans,moon,,,waz,Phonemic
+1-520-70-1,tsak1249,Tsakhur,1343,верыгъ,CyrillTrans,sun,,,werɨɣ,Phonemic
+1-510-70-1,tsak1249,Tsakhur,1732,хаІв,CyrillTrans,sky,,,xaˤw,Phonemic
+1-450-70-1,tsak1249,Tsakhur,6,чиебы икыри,CyrillTrans,earthquake,,,čiyebɨ ikɨri,Phonemic
+1-440-70-1,tsak1249,Tsakhur,2125,къае,CyrillTrans,"stone, rock",,,"q̄aye, ganz",Phonemic
+1-440-70-3,tsak1249,Tsakhur,2125,ганз,CyrillTrans,"stone, rock",,,"q̄aye, ganz",Phonemic
+1-430-70-1,tsak1249,Tsakhur,1803,йив,CyrillTrans,wood,,,"yiw, alat, os",Phonemic
+1-430-70-3,tsak1249,Tsakhur,1803,алат,CyrillTrans,wood,,,"yiw, alat, os",Phonemic
+1-430-70-5,tsak1249,Tsakhur,1803,ос,CyrillTrans,wood,,,"yiw, alat, os",Phonemic
+1-420-70-1,tsak1249,Tsakhur,906,юв,CyrillTrans,tree (cf 08.600),,,yuw,Phonemic
+1-410-70-1,tsak1249,Tsakhur,420,чІалаг,CyrillTrans,"woods, forest",,,č’alag,Phonemic
+1-390-70-1,tsak1249,Tsakhur,943,гурудав,CyrillTrans,waterfall,,,gurudaw,Phonemic
+1-380-70-1,tsak1249,Tsakhur,1145,чимам,CyrillTrans,swamp,,,"čimam, alšan",Phonemic
+1-380-70-3,tsak1249,Tsakhur,1145,алшан,CyrillTrans,swamp,,,"čimam, alšan",Phonemic
+1-370-70-1,tsak1249,Tsakhur,2144,булах,CyrillTrans,"spring, well",,,"bulax, apšan, kehriz, garma",Phonemic
+1-370-70-3,tsak1249,Tsakhur,2144,апшан,CyrillTrans,"spring, well",,,"bulax, apšan, kehriz, garma",Phonemic
+1-370-70-5,tsak1249,Tsakhur,2144,кегьриз,CyrillTrans,"spring, well",,,"bulax, apšan, kehriz, garma",Phonemic
+1-370-70-7,tsak1249,Tsakhur,2144,гарма,CyrillTrans,"spring, well",,,"bulax, apšan, kehriz, garma",Phonemic
+1-362-70-1,tsak1249,Tsakhur,1982,гурупдав,CyrillTrans,whirlpool,,,gurupdaw,Phonemic
+1-360-70-1,tsak1249,Tsakhur,666,дама,CyrillTrans,"river, stream, brook",,,"dama, arag",Phonemic
+1-360-70-3,tsak1249,Tsakhur,666,араг,CyrillTrans,"river, stream, brook",,,"dama, arag",Phonemic
+1-350-70-1,tsak1249,Tsakhur,978,мырт,CyrillTrans,wave,,,mɨrt,Phonemic
+1-342-70-1,tsak1249,Tsakhur,660,хьинек авудун ганз,CyrillTrans,reef,,,x̌inek awudun ganz,Phonemic
+1-341-70-1,tsak1249,Tsakhur,623,соткурин хʼян,CyrillTrans,lagoon,,,sotkurin xʲyan,Phonemic
+1-340-70-1,tsak1249,Tsakhur,663,сан,CyrillTrans,"gulf, bay",,,san,Phonemic
+1-330-70-1,tsak1249,Tsakhur,624,голʼ,CyrillTrans,lake,,,"golʲ, ada",Phonemic
+1-330-70-3,tsak1249,Tsakhur,624,ада,CyrillTrans,lake,,,"golʲ, ada",Phonemic
+1-329-70-1,tsak1249,Tsakhur,645,океан,CyrillTrans,ocean,,,okean,Phonemic
+1-324-70-1,tsak1249,Tsakhur,1768,купук,CyrillTrans,foam,,,kupuk,Phonemic
+1-323-70-1,tsak1249,Tsakhur,259,аливкуна,CyrillTrans,rough (of sea),,,aliwkuna,Phonemic
+1-320-70-1,tsak1249,Tsakhur,1474,дерйагь,CyrillTrans,sea,,,deryah,Phonemic
+1-322-70-1,tsak1249,Tsakhur,258,сакитна,CyrillTrans,calm (of sea),,,"sakitna, rayagna",Phonemic
+1-322-70-3,tsak1249,Tsakhur,258,райагна,CyrillTrans,calm (of sea),,,"sakitna, rayagna",Phonemic
+1-310-70-1,tsak1249,Tsakhur,948,хьян,CyrillTrans,water,,,x̌yan,Phonemic
+1-280-70-1,tsak1249,Tsakhur,1155,куйилʼ,CyrillTrans,cave,,,"kuyilʲ, axna",Phonemic
+1-280-70-3,tsak1249,Tsakhur,1155,ахна,CyrillTrans,cave,,,"kuyilʲ, axna",Phonemic
+1-270-70-1,tsak1249,Tsakhur,113,къырах,CyrillTrans,shore,,,q̄ɨrax,Phonemic
+1-260-70-1,tsak1249,Tsakhur,166,дюнейн парге,CyrillTrans,mainland,,,dyuneyn parge,Phonemic
+1-250-70-1,tsak1249,Tsakhur,622,ада,CyrillTrans,island,,,ada,Phonemic
+1-240-70-1,tsak1249,Tsakhur,921,магьал,CyrillTrans,valley,,,mahal,Phonemic
+1-230-70-1,tsak1249,Tsakhur,652,кьадалий,CyrillTrans,"plain, field",,,"qʼadaliy, čol, čuga",Phonemic
+1-230-70-3,tsak1249,Tsakhur,652,чол,CyrillTrans,"plain, field",,,"qʼadaliy, čol, čuga",Phonemic
+1-230-70-5,tsak1249,Tsakhur,652,чуга,CyrillTrans,"plain, field",,,"qʼadaliy, čol, čuga",Phonemic
+1-222-70-1,tsak1249,Tsakhur,618,ганз,CyrillTrans,"cliff, precipice",,,"ganz, q̄oppaɣ kulʲ",Phonemic
+1-222-70-3,tsak1249,Tsakhur,618,къоппагъ кулʼ,CyrillTrans,"cliff, precipice",,,"ganz, q̄oppaɣ kulʲ",Phonemic
+1-220-70-1,tsak1249,Tsakhur,2118,сува,CyrillTrans,"mountain, hill",,,"suwa, tap",Phonemic
+1-220-70-3,tsak1249,Tsakhur,2118,тап,CyrillTrans,"mountain, hill",,,"suwa, tap",Phonemic
+1-214-70-1,tsak1249,Tsakhur,640,баттагъ,CyrillTrans,mud,,,bat̄aɣ,Phonemic
+1-215-70-1,tsak1249,Tsakhur,671,къум,CyrillTrans,sand,,,q̄um,Phonemic
+1-213-70-1,tsak1249,Tsakhur,2,тоз,CyrillTrans,dust,,,toz,Phonemic
+1-212-70-1,tsak1249,Tsakhur,1228,накьв,CyrillTrans,"earth=ground, soil",,,naqʼʷ,Phonemic
+1-210-70-1,tsak1249,Tsakhur,626,чІие,CyrillTrans,"earth, land",,,"č’iye, oˤlka",Phonemic
+1-210-70-3,tsak1249,Tsakhur,626,оІлка,CyrillTrans,"earth, land",,,"č’iye, oˤlka",Phonemic
+1-100-70-1,tsak1249,Tsakhur,965,дюнйе,CyrillTrans,world,,,dyunye,Phonemic
+14-330-70-1,tsak1249,Tsakhur,1544,аІрабир,CyrillTrans,sometimes,,,"aˤrabir, seyrakda",Phonemic
+14-330-70-3,tsak1249,Tsakhur,1544,сейракда,CyrillTrans,sometimes,,,"aˤrabir, seyrakda",Phonemic
+14-331-70-1,tsak1249,Tsakhur,703,сабара вахтыле,CyrillTrans,soon,,,sabara waxtɨle,Phonemic
+14-332-70-1,tsak1249,Tsakhur,418,хыллийн,CyrillTrans,long-time (for a),,,xɨlliyn,Phonemic
+14-340-70-1,tsak1249,Tsakhur,1656,ненкеджад,CyrillTrans,never,,,"nenkeǯad, mɨsaǯad",Phonemic
+14-340-70-3,tsak1249,Tsakhur,1656,мысаджад,CyrillTrans,never,,,"nenkeǯad, mɨsaǯad",Phonemic
+14-350-70-1,tsak1249,Tsakhur,204,мед,CyrillTrans,again,,,med,Phonemic
+14-410-70-1,tsak1249,Tsakhur,1225,йыгъ,CyrillTrans,day,,,yɨɣ,Phonemic
+14-420-70-1,tsak1249,Tsakhur,1233,хаІм,CyrillTrans,night,,,xaˤm,Phonemic
+14-430-70-1,tsak1249,Tsakhur,729,суІпгь,CyrillTrans,dawn,,,suˤph,Phonemic
+14-440-70-1,tsak1249,Tsakhur,1339,мичІейд,CyrillTrans,morning,,,mič’eyd,Phonemic
+14-450-70-1,tsak1249,Tsakhur,12,йыкъыІгьлин,CyrillTrans,"noon, midday",,,yɨq̄ɨˤhlin,Phonemic
+14-451-70-1,tsak1249,Tsakhur,1807,виригъен,CyrillTrans,afternoon,,,wiriɣen,Phonemic
+14-460-70-1,tsak1249,Tsakhur,1629,эхьа,CyrillTrans,evening,,,ex̌a,Phonemic
+14-470-70-1,tsak1249,Tsakhur,1283,къийна,CyrillTrans,today,,,q̄iyna,Phonemic
+14-480-70-1,tsak1249,Tsakhur,1329,къийхъа,CyrillTrans,tomorrow,,,q̄iyqa,Phonemic
+14-481-70-1,tsak1249,Tsakhur,1179,хъыцыхъ,CyrillTrans,day-after-tomorrow,,,qɨcɨq,Phonemic
+14-490-70-1,tsak1249,Tsakhur,1174,санихьа,CyrillTrans,yesterday,,,sanix̌a,Phonemic
+14-491-70-1,tsak1249,Tsakhur,1180,гьигъына,CyrillTrans,day-before-yesterday,,,hiɣɨna,Phonemic
+14-510-70-1,tsak1249,Tsakhur,1353,саъаІт,CyrillTrans,hour,,,saʔaˤt,Phonemic
+14-530-70-1,tsak1249,Tsakhur,1323,саъаІт,CyrillTrans,"clock, timepiece",,,saʔaˤt,Phonemic
+14-610-70-1,tsak1249,Tsakhur,1469,уІлʼджум,CyrillTrans,week,,,uˤlʲǯum,Phonemic
+14-620-70-1,tsak1249,Tsakhur,1699,ваджар,CyrillTrans,Sunday,,,waǯar,Phonemic
+14-630-70-1,tsak1249,Tsakhur,1697,итнайн,CyrillTrans,Monday,,,itnayn,Phonemic
+14-640-70-1,tsak1249,Tsakhur,1695,далаттийн,CyrillTrans,Tuesday,,,dalat̄iyn,Phonemic
+14-650-70-1,tsak1249,Tsakhur,1694,аІрбаъан,CyrillTrans,Wednesday,,,aˤrbaʔan,Phonemic
+14-660-70-1,tsak1249,Tsakhur,1693,оІлʼджуманахоІш,CyrillTrans,Thursday,,,oˤlʲǯumanaxoˤš,Phonemic
+14-670-70-1,tsak1249,Tsakhur,1692,оІлʼджуман йигъ,CyrillTrans,Friday,,,oˤlʲǯuman yiɣ,Phonemic
+14-680-70-1,tsak1249,Tsakhur,1700,сифтйин,CyrillTrans,Saturday,,,siftyin,Phonemic
+14-710-70-1,tsak1249,Tsakhur,1370,ваз,CyrillTrans,month,,,waz,Phonemic
+14-730-70-1,tsak1249,Tsakhur,1226,сен,CyrillTrans,year,,,sen,Phonemic
+14-740-70-1,tsak1249,Tsakhur,1471,кьыІдим,CyrillTrans,winter,,,qʼɨˤdim,Phonemic
+14-750-70-1,tsak1249,Tsakhur,1537,юххьан,CyrillTrans,spring,,,yuxx̌an,Phonemic
+14-760-70-1,tsak1249,Tsakhur,1342,къыІл,CyrillTrans,summer,,,q̄ɨˤl,Phonemic
+14-770-70-1,tsak1249,Tsakhur,1276,цывылʼ,CyrillTrans,autumn,,,cɨwɨlʲ,Phonemic
+14-780-70-1,tsak1249,Tsakhur,691,сенып вахтыбы,CyrillTrans,season,,,senɨp waxtɨbɨ,Phonemic
+15-210-70-1,tsak1249,Tsakhur,1587,эва къа,CyrillTrans,smell (vb intrans),,,ewa q̄a,Phonemic
+15-212-70-1,tsak1249,Tsakhur,375,эва гьаъас,CyrillTrans,sniff,,,ewa haʔas,Phonemic
+15-220-70-1,tsak1249,Tsakhur,1586,эва гьаъас,CyrillTrans,smell (vb trans),,,ewa haʔas,Phonemic
+15-250-70-1,tsak1249,Tsakhur,376,эва,CyrillTrans,"fragrant, good smelling",,,ewa,Phonemic
+15-260-70-1,tsak1249,Tsakhur,42,эва,CyrillTrans,"stinking, bad smelling",,,"ewa, čapalin ewa",Phonemic
+15-260-70-3,tsak1249,Tsakhur,42,чапалин эва,CyrillTrans,"stinking, bad smelling",,,"ewa, čapalin ewa",Phonemic
+15-310-70-1,tsak1249,Tsakhur,21,дад,CyrillTrans,taste,,,dad,Phonemic
+15-350-70-1,tsak1249,Tsakhur,717,иттун,CyrillTrans,sweet,,,it̄un,Phonemic
+15-360-70-1,tsak1249,Tsakhur,1091,кьызман,CyrillTrans,salty,,,qʼɨzman,Phonemic
+15-370-70-1,tsak1249,Tsakhur,887,кьапІын,CyrillTrans,bitter,,,qʼap’ɨn,Phonemic
+15-380-70-1,tsak1249,Tsakhur,1906,чІургІуман,CyrillTrans,"acid, sour",,,č’urʕuman,Phonemic
+15-390-70-1,tsak1249,Tsakhur,70,кьызмадахьинне,CyrillTrans,brackish,,,qʼɨzmadax̌inne,Phonemic
+15-410-70-1,tsak1249,Tsakhur,1408,къайихьес,CyrillTrans,hear,,,q̄ayix̌es,Phonemic
+15-420-70-1,tsak1249,Tsakhur,1608,кІырог гяххъый,CyrillTrans,listen,,,kʼɨrog gyaxqɨy,Phonemic
+15-440-70-1,tsak1249,Tsakhur,1811,сес,CyrillTrans,"sound, noise",,,ses,Phonemic
+15-450-70-1,tsak1249,Tsakhur,377,ахтыйн,CyrillTrans,loud,,,axtɨyn,Phonemic
+15-460-70-1,tsak1249,Tsakhur,1314,сакитна,CyrillTrans,"quiet, silence",,,sakitna,Phonemic
+15-510-70-1,tsak1249,Tsakhur,1409,къаджес,CyrillTrans,see,,,q̄aǯes,Phonemic
+15-520-70-1,tsak1249,Tsakhur,1819,иляллас,CyrillTrans,"look, look at",,,"ilyallas, illyakʼas",Phonemic
+15-520-70-3,tsak1249,Tsakhur,1819,иллякІас,CyrillTrans,"look, look at",,,"ilyallas, illyakʼas",Phonemic
+15-550-70-1,tsak1249,Tsakhur,1039,гьагвас,CyrillTrans,show,,,hagʷas,Phonemic
+15-560-70-1,tsak1249,Tsakhur,708,ишыгъеква,CyrillTrans,shine,,,išɨɣekʷa,Phonemic
+15-570-70-1,tsak1249,Tsakhur,679,алышмишвухьа,CyrillTrans,bright,,,alɨšmišwux̌a,Phonemic
+15-610-70-1,tsak1249,Tsakhur,1613,ранг,CyrillTrans,color,,,rang,Phonemic
+15-620-70-1,tsak1249,Tsakhur,250,ачухун,CyrillTrans,light (in color),,,ačuxun,Phonemic
+15-630-70-1,tsak1249,Tsakhur,706,вущен,CyrillTrans,dark (in color),,,wuš̄en,Phonemic
+15-640-70-1,tsak1249,Tsakhur,1335,джагваран,CyrillTrans,white,,,ǯagʷaran,Phonemic
+15-650-70-1,tsak1249,Tsakhur,163,кІарын,CyrillTrans,black,,,kʼarɨn,Phonemic
+15-660-70-1,tsak1249,Tsakhur,156,чІаІран,CyrillTrans,red,,,č’aˤran,Phonemic
+15-670-70-1,tsak1249,Tsakhur,837,лезан,CyrillTrans,blue,,,lezan,Phonemic
+15-680-70-1,tsak1249,Tsakhur,1425,кІатыпен,CyrillTrans,green,,,"kʼatɨpen, čɨwan",Phonemic
+15-680-70-3,tsak1249,Tsakhur,1425,чыван,CyrillTrans,green,,,"kʼatɨpen, čɨwan",Phonemic
+15-690-70-1,tsak1249,Tsakhur,1424,къыІбын,CyrillTrans,yellow,,,q̄ɨˤbɨn,Phonemic
+15-710-70-1,tsak1249,Tsakhur,1892,хъетас,CyrillTrans,touch,,,qetas,Phonemic
+15-712-70-1,tsak1249,Tsakhur,378,гьочІанас,CyrillTrans,pinch,,,hoč’anas,Phonemic
+15-720-70-1,tsak1249,Tsakhur,1079,ацІахьес,CyrillTrans,feel,,,ac’ax̌es,Phonemic
+15-740-70-1,tsak1249,Tsakhur,1884,утІумын,CyrillTrans,hard,,,utʼumɨn,Phonemic
+15-750-70-1,tsak1249,Tsakhur,1856,къуІвнан,CyrillTrans,soft,,,q̄uˤwnan,Phonemic
+15-760-70-1,tsak1249,Tsakhur,1923,кобутун,CyrillTrans,rough,,,kobutun,Phonemic
+15-770-70-1,tsak1249,Tsakhur,1234,гьамаварын,CyrillTrans,smooth,,,hamawarɨn,Phonemic
+15-780-70-1,tsak1249,Tsakhur,1396,экІын,CyrillTrans,sharp,,,ekʼɨn,Phonemic
+15-790-70-1,tsak1249,Tsakhur,379,барада,CyrillTrans,"blunt, dull",,,barada,Phonemic
+15-810-70-1,tsak1249,Tsakhur,1210,йыкьыІн,CyrillTrans,heavy,,,yɨqʼɨˤn,Phonemic
+15-820-70-1,tsak1249,Tsakhur,1052,сибыкын,CyrillTrans,light (in weight),,,"sibɨkɨn, sibukɨn",Phonemic
+15-820-70-3,tsak1249,Tsakhur,1052,сибукын,CyrillTrans,light (in weight),,,"sibɨkɨn, sibukɨn",Phonemic
+15-830-70-1,tsak1249,Tsakhur,1726,дуран,CyrillTrans,"wet, damp",,,duran,Phonemic
+15-840-70-1,tsak1249,Tsakhur,1398,къурун,CyrillTrans,dry,,,q̄urun,Phonemic
+15-850-70-1,tsak1249,Tsakhur,1286,къуІман,CyrillTrans,hot,,,q̄uˤman,Phonemic
+15-851-70-1,tsak1249,Tsakhur,1232,къуІман,CyrillTrans,warm,,,q̄uˤman,Phonemic
+15-860-70-1,tsak1249,Tsakhur,1287,мыкІан,CyrillTrans,cold,,,mɨkʼan,Phonemic
+15-870-70-1,tsak1249,Tsakhur,704,темизин,CyrillTrans,clean,,,temizin,Phonemic
+15-880-70-1,tsak1249,Tsakhur,1230,чапапин,CyrillTrans,"dirty, soiled",,,čapapin,Phonemic
+15-890-70-1,tsak1249,Tsakhur,380,сачІыдхыІрий,CyrillTrans,wrinkled,,,"sač’ɨdxɨˤriy, sačʷɨdxɨnin",Phonemic
+15-890-70-3,tsak1249,Tsakhur,380,сачвыдхынин,CyrillTrans,wrinkled,,,"sač’ɨdxɨˤriy, sačʷɨdxɨnin",Phonemic
+16-110-70-1,tsak1249,Tsakhur,53,рыІгь,CyrillTrans,"soul, spirit",,,rɨˤh,Phonemic
+16-150-70-1,tsak1249,Tsakhur,1572,матхана,CyrillTrans,"surprised, astonished",,,matxana,Phonemic
+16-180-70-1,tsak1249,Tsakhur,720,игъвалʼ,CyrillTrans,"good fortune, luck",,,iɣʷalʲ,Phonemic
+16-190-70-1,tsak1249,Tsakhur,56,игъвалʼдешвалла,CyrillTrans,"misfortune, bad luck",,,iɣʷalʲdešʷalla,Phonemic
+16-230-70-1,tsak1249,Tsakhur,1495,мадна,CyrillTrans,"joyful, glad, happy",,,madna,Phonemic
+16-250-70-1,tsak1249,Tsakhur,1355,аІхъа нагьаъа,CyrillTrans,laugh,,,aˤqa nahaʔa,Phonemic
+16-251-70-1,tsak1249,Tsakhur,1451,аІхъа наъаъа,CyrillTrans,smile,,,aˤqa naʔaʔa,Phonemic
+16-260-70-1,tsak1249,Tsakhur,1413,гьивагас,CyrillTrans,play,,,hiwagas,Phonemic
+16-270-70-1,tsak1249,Tsakhur,923,ыкийканас,CyrillTrans,love,,,ɨkiykanas,Phonemic
+16-290-70-1,tsak1249,Tsakhur,578,убагьаас,CyrillTrans,kiss,,,ubahaʔas,Phonemic
+16-300-70-1,tsak1249,Tsakhur,928,хуІваайихьас,CyrillTrans,embrace,,,xuˤwaʔayix̌as,Phonemic
+16-310-70-1,tsak1249,Tsakhur,1783,ыкІар,CyrillTrans,pain,,,ɨkʼar,Phonemic
+16-320-70-1,tsak1249,Tsakhur,1668,гъарыбийвалла,CyrillTrans,"grief, sorrow, sadness",,,ɣarɨbiywalla,Phonemic
+16-330-70-1,tsak1249,Tsakhur,1000,орыкыр,CyrillTrans,"anxiety, worry",,,orɨkɨr,Phonemic
+16-340-70-1,tsak1249,Tsakhur,1875,пашманийвалла,CyrillTrans,"regret, be sorry",,,pašmaniywalla,Phonemic
+16-350-70-1,tsak1249,Tsakhur,1141,язухийвалла,CyrillTrans,pity,,,yazuxiywalla,Phonemic
+16-370-70-1,tsak1249,Tsakhur,1839,гешмес,CyrillTrans,"cry, weep",,,"gešmes, geš̄es",Phonemic
+16-370-70-3,tsak1249,Tsakhur,1839,гешшес,CyrillTrans,"cry, weep",,,"gešmes, geš̄es",Phonemic
+16-380-70-1,tsak1249,Tsakhur,1651,нягъ,CyrillTrans,tear (noun),,,nyaɣ,Phonemic
+16-390-70-1,tsak1249,Tsakhur,716,офулдамишхьес,CyrillTrans,groan,,,ofuldamišx̌es,Phonemic
+16-410-70-1,tsak1249,Tsakhur,1607,дикканас,CyrillTrans,hate,,,"dik̄anas, deyk̄anas",Phonemic
+16-410-70-3,tsak1249,Tsakhur,1607,дейкканас,CyrillTrans,hate,,,"dik̄anas, deyk̄anas",Phonemic
+16-420-70-1,tsak1249,Tsakhur,82,гьырс,CyrillTrans,anger,,,"hɨrs, q̄aˤl",Phonemic
+16-420-70-3,tsak1249,Tsakhur,82,къаІл,CyrillTrans,anger,,,"hɨrs, q̄aˤl",Phonemic
+16-440-70-1,tsak1249,Tsakhur,40,пахылитйвалла,CyrillTrans,"envy, jealousy",,,paxɨlitywalla,Phonemic
+16-450-70-1,tsak1249,Tsakhur,1776,аІйиб,CyrillTrans,shame (noun),,,aˤyib,Phonemic
+16-480-70-1,tsak1249,Tsakhur,174,дамах хьад,CyrillTrans,proud,,,damax x̌ad,Phonemic
+16-510-70-1,tsak1249,Tsakhur,1779,игит,CyrillTrans,dare,,,igit,Phonemic
+16-520-70-1,tsak1249,Tsakhur,3,еІкъна,CyrillTrans,brave,,,yeˤq̄na,Phonemic
+16-530-70-1,tsak1249,Tsakhur,781,хъаІркьыний,CyrillTrans,"fear, fright",,,qaˤrqʼɨniy,Phonemic
+16-540-70-1,tsak1249,Tsakhur,1810,хата,CyrillTrans,danger,,,xata,Phonemic
+16-620-70-1,tsak1249,Tsakhur,1784,ыкыйкини,CyrillTrans,"desire, want",,,ɨkɨykini,Phonemic
+16-622-70-1,tsak1249,Tsakhur,1750,къайихкас,CyrillTrans,choose,,,q̄ayixkas,Phonemic
+16-630-70-1,tsak1249,Tsakhur,1092,умудгьаъас,CyrillTrans,hope,,,umudhaʔas,Phonemic
+16-650-70-1,tsak1249,Tsakhur,100,гъирйатнана,CyrillTrans,faithful,,,ɣiryatnana,Phonemic
+16-660-70-1,tsak1249,Tsakhur,1657,гьаІкІена,CyrillTrans,true,,,haˤkʼena,Phonemic
+16-670-70-1,tsak1249,Tsakhur,601,гьоргьаъас,CyrillTrans,"lie, tell lies",,,horhaʔas,Phonemic
+16-680-70-1,tsak1249,Tsakhur,13,гьорбыгьаъас,CyrillTrans,deceit,,,horbɨhaʔas,Phonemic
+16-690-70-1,tsak1249,Tsakhur,1528,багъышгьаъас,CyrillTrans,forgive,,,baɣɨšhaʔas,Phonemic
+16-710-70-1,tsak1249,Tsakhur,1035,югна,CyrillTrans,good,,,yugna,Phonemic
+16-720-70-1,tsak1249,Tsakhur,1292,писда,CyrillTrans,bad,,,"pisda, pisip",Phonemic
+16-720-70-3,tsak1249,Tsakhur,1292,писип,CyrillTrans,bad,,,"pisda, pisip",Phonemic
+16-730-70-1,tsak1249,Tsakhur,1725,дюзна,CyrillTrans,"right, correct",,,dyuzna,Phonemic
+16-740-70-1,tsak1249,Tsakhur,1390,дюзна деш,CyrillTrans,wrong,,,dyuzna deš,Phonemic
+16-760-70-1,tsak1249,Tsakhur,134,саІгьв,CyrillTrans,fault,,,saˤhʷ,Phonemic
+16-770-70-1,tsak1249,Tsakhur,1293,саІгьв,CyrillTrans,"mistake, error",,,saˤhʷ,Phonemic
+16-780-70-1,tsak1249,Tsakhur,381,тахсиргьауй,CyrillTrans,blame,,,"taxsirhauy, taxsir hix̄es",Phonemic
+16-780-70-3,tsak1249,Tsakhur,381,тахсир гьиххес,CyrillTrans,blame,,,"taxsirhauy, taxsir hix̄es",Phonemic
+16-790-70-1,tsak1249,Tsakhur,1687,агуммишаас,CyrillTrans,praise,,,"agummišaʔas, oɣmišaʔas",Phonemic
+16-790-70-3,tsak1249,Tsakhur,1687,огъмишаас,CyrillTrans,praise,,,"agummišaʔas, oɣmišaʔas",Phonemic
+16-810-70-1,tsak1249,Tsakhur,1427,уфтанна,CyrillTrans,beautiful,,,uftanna,Phonemic
+16-820-70-1,tsak1249,Tsakhur,1548,къалап,CyrillTrans,ugly,,,q̄alap,Phonemic
+16-830-70-1,tsak1249,Tsakhur,2018,хасисна,CyrillTrans,greedy,,,xasisna,Phonemic
+16-840-70-1,tsak1249,Tsakhur,1310,аІкІелʼнана,CyrillTrans,clever,,,aˤkʼelʲnana,Phonemic
+17-110-70-1,tsak1249,Tsakhur,1562,аІкІолʼ,CyrillTrans,mind,,,"aˤkʼolʲ, aˤqʼelʲ",Phonemic
+17-110-70-3,tsak1249,Tsakhur,1562,аІкьелʼ,CyrillTrans,mind,,,"aˤkʼolʲ, aˤqʼelʲ",Phonemic
+17-130-70-1,tsak1249,Tsakhur,1415,фыкыррамишес,CyrillTrans,think (= reflect),,,fɨkɨrramišes,Phonemic
+17-140-70-1,tsak1249,Tsakhur,1513,гьысабаас,CyrillTrans,think (= be of the opinion),,,hɨsabaʔas,Phonemic
+17-150-70-1,tsak1249,Tsakhur,1890,инямишхьес,CyrillTrans,believe,,,inyamišx̌es,Phonemic
+17-160-70-1,tsak1249,Tsakhur,1536,къанмишхьай,CyrillTrans,understand,,,q̄anmišx̌ay,Phonemic
+17-170-70-1,tsak1249,Tsakhur,1410,ацІахьес,CyrillTrans,know,,,ac’ax̌es,Phonemic
+17-171-70-1,tsak1249,Tsakhur,1932,фыкыр гьагас,CyrillTrans,guess,,,fɨkɨr hagas,Phonemic
+17-172-70-1,tsak1249,Tsakhur,117,апдамишаъан,CyrillTrans,imitate,,,apdamišaʔan,Phonemic
+17-190-70-1,tsak1249,Tsakhur,1609,фыкыр,CyrillTrans,"idea, notion",,,fɨkɨr,Phonemic
+17-210-70-1,tsak1249,Tsakhur,698,мерд,CyrillTrans,wise,,,merd,Phonemic
+17-220-70-1,tsak1249,Tsakhur,1518,быдала,CyrillTrans,"foolish, stupid",,,"bɨdala, bač’ar",Phonemic
+17-220-70-3,tsak1249,Tsakhur,1518,бачІар,CyrillTrans,"foolish, stupid",,,"bɨdala, bač’ar",Phonemic
+17-230-70-1,tsak1249,Tsakhur,1899,акІепдешда,CyrillTrans,"insane, crazy",,,"akʼepdešda, bačar",Phonemic
+17-230-70-3,tsak1249,Tsakhur,1899,бачар,CyrillTrans,"insane, crazy",,,"akʼepdešda, bačar",Phonemic
+17-240-70-1,tsak1249,Tsakhur,504,ацахес,CyrillTrans,learn,,,"acaxes, q̄akʼaʔas",Phonemic
+17-240-70-3,tsak1249,Tsakhur,504,къакІаас,CyrillTrans,learn,,,"acaxes, q̄akʼaʔas",Phonemic
+17-242-70-1,tsak1249,Tsakhur,1929,хъаІдхъаІс,CyrillTrans,study,,,qaˤdqaˤs,Phonemic
+17-250-70-1,tsak1249,Tsakhur,709,ацІахьес,CyrillTrans,teach,,,ac’ax̌es,Phonemic
+17-260-70-1,tsak1249,Tsakhur,753,шигырт,CyrillTrans,pupil,,,šigɨrt,Phonemic
+17-270-70-1,tsak1249,Tsakhur,1038,мааІллим,CyrillTrans,teacher,,,maʔaˤllim,Phonemic
+17-280-70-1,tsak1249,Tsakhur,673,мактаб,CyrillTrans,school,,,maktab,Phonemic
+17-310-70-1,tsak1249,Tsakhur,707,кІелводон,CyrillTrans,remember,,,kʼelwodon,Phonemic
+17-320-70-1,tsak1249,Tsakhur,1523,кІепиханас,CyrillTrans,forget,,,kʼepixanas,Phonemic
+17-340-70-1,tsak1249,Tsakhur,989,ачухун,CyrillTrans,"clear, plain",,,ačuxun,Phonemic
+17-350-70-1,tsak1249,Tsakhur,1764,дяцІан кар,CyrillTrans,obscure,,,dyac’an kar,Phonemic
+17-360-70-1,tsak1249,Tsakhur,1121,сир,CyrillTrans,secret,,,sir,Phonemic
+17-370-70-1,tsak1249,Tsakhur,509,ацІан,CyrillTrans,"sure, certain",,,ac’an,Phonemic
+17-380-70-1,tsak1249,Tsakhur,1626,башдагьаъас,CyrillTrans,explain,,,bašdahaʔas,Phonemic
+17-410-70-1,tsak1249,Tsakhur,1162,макьсад,CyrillTrans,"intention, purpose",,,"maqʼsad, fɨkɨr",Phonemic
+17-410-70-3,tsak1249,Tsakhur,1162,фыкыр,CyrillTrans,"intention, purpose",,,"maqʼsad, fɨkɨr",Phonemic
+17-420-70-1,tsak1249,Tsakhur,860,сабаб,CyrillTrans,cause,,,sabab,Phonemic
+17-430-70-1,tsak1249,Tsakhur,1308,шак,CyrillTrans,doubt,,,šak,Phonemic
+17-440-70-1,tsak1249,Tsakhur,1841,шак гъаъас,CyrillTrans,suspect,,,šak ɣaʔas,Phonemic
+17-441-70-1,tsak1249,Tsakhur,1902,хъелес,CyrillTrans,betray,,,qeles,Phonemic
+17-450-70-1,tsak1249,Tsakhur,643,эйхьи деш,CyrillTrans,"need, necessity",,,eyx̌i deš,Phonemic
+17-460-70-1,tsak1249,Tsakhur,686,сибыкын,CyrillTrans,easy,,,sibɨkɨn,Phonemic
+17-470-70-1,tsak1249,Tsakhur,584,дагъамын,CyrillTrans,difficult,,,daɣamɨn,Phonemic
+17-490-70-1,tsak1249,Tsakhur,488,кьейд,CyrillTrans,"way, manner",,,qʼeyd,Phonemic
+17-510-70-1,tsak1249,Tsakhur,1577,ва,CyrillTrans,and,,,wa,Phonemic
+17-520-70-1,tsak1249,Tsakhur,1157,няъас ивгье,CyrillTrans,because,,,nyaʔas iwhe,Phonemic
+17-530-70-1,tsak1249,Tsakhur,1459,агар,CyrillTrans,if,,,agar,Phonemic
+17-540-70-1,tsak1249,Tsakhur,1014,е,CyrillTrans,or,,,ye,Phonemic
+17-550-70-1,tsak1249,Tsakhur,1268,гьоо,CyrillTrans,"yes, affirmative",,,hoʔo,Phonemic
+17-560-70-1,tsak1249,Tsakhur,1269,дееш,CyrillTrans,"no, negative",,,"deyeš, deiʔiš",Phonemic
+17-560-70-3,tsak1249,Tsakhur,1269,деииш,CyrillTrans,"no, negative",,,"deyeš, deiʔiš",Phonemic
+17-610-70-1,tsak1249,Tsakhur,1239,нягьад,CyrillTrans,how?,,,"nyahad, nyaqud",Phonemic
+17-610-70-3,tsak1249,Tsakhur,1239,няхъуд,CyrillTrans,how?,,,"nyahad, nyaqud",Phonemic
+17-620-70-1,tsak1249,Tsakhur,822,нимечан,CyrillTrans,how many?,,,"nimečan, nimep",Phonemic
+17-620-70-3,tsak1249,Tsakhur,822,нимеп,CyrillTrans,how many?,,,"nimečan, nimep",Phonemic
+17-630-70-1,tsak1249,Tsakhur,531,нимечан,CyrillTrans,how much?,,,"nimečan, nimep",Phonemic
+17-630-70-3,tsak1249,Tsakhur,531,нимеп,CyrillTrans,how much?,,,"nimečan, nimep",Phonemic
+17-640-70-1,tsak1249,Tsakhur,1236,гьиджо,CyrillTrans,what?,,,hiǯo,Phonemic
+17-650-70-1,tsak1249,Tsakhur,1238,мыса,CyrillTrans,when?,,,mɨsa,Phonemic
+17-660-70-1,tsak1249,Tsakhur,1237,ненгене,CyrillTrans,where?,,,"nengene, nya, nenčepe",Phonemic
+17-660-70-3,tsak1249,Tsakhur,1237,ня,CyrillTrans,where?,,,"nengene, nya, nenčepe",Phonemic
+17-660-70-5,tsak1249,Tsakhur,1237,ненчепе,CyrillTrans,where?,,,"nengene, nya, nenčepe",Phonemic
+17-670-70-1,tsak1249,Tsakhur,727,нягьадын,CyrillTrans,which?,,,nyahadɨn,Phonemic
+17-680-70-1,tsak1249,Tsakhur,1235,вушу,CyrillTrans,who?,,,wušu,Phonemic
+17-690-70-1,tsak1249,Tsakhur,1270,няъас,CyrillTrans,why?,,,nyaʔas,Phonemic
+18-110-70-1,tsak1249,Tsakhur,1363,сес,CyrillTrans,voice,,,ses,Phonemic
+18-120-70-1,tsak1249,Tsakhur,1261,екІвас,CyrillTrans,sing,,,yekʼʷas,Phonemic
+18-130-70-1,tsak1249,Tsakhur,715,гьаІрай,CyrillTrans,"shout, cry out",,,haˤray,Phonemic
+18-150-70-1,tsak1249,Tsakhur,55,кушкуш,CyrillTrans,whisper,,,kuškuš,Phonemic
+18-160-70-1,tsak1249,Tsakhur,128,кушкуш,CyrillTrans,mumble,,,kuškuš,Phonemic
+18-170-70-1,tsak1249,Tsakhur,1025,фитаас,CyrillTrans,whistle,,,fitaʔas,Phonemic
+18-180-70-1,tsak1249,Tsakhur,298,упамашхьес,CyrillTrans,"shriek, screech",,,upamašx̌es,Phonemic
+18-190-70-1,tsak1249,Tsakhur,526,упамашхьес,CyrillTrans,howl,,,upamašx̌es,Phonemic
+18-210-70-1,tsak1249,Tsakhur,1623,йишенаас,CyrillTrans,"speak, talk",,,yišenaʔas,Phonemic
+18-211-70-1,tsak1249,Tsakhur,1866,пелʼтек,CyrillTrans,"stutter, stammer",,,pelʲtek,Phonemic
+18-220-70-1,tsak1249,Tsakhur,1458,эгьес,CyrillTrans,say,,,ehes,Phonemic
+18-221-70-1,tsak1249,Tsakhur,1711,хабар гьишонаъас,CyrillTrans,tell story,,,xabar hišonaʔas,Phonemic
+18-222-70-1,tsak1249,Tsakhur,1115,гьишонхьес,CyrillTrans,speech (make a),,,hišonx̌es,Phonemic
+18-230-70-1,tsak1249,Tsakhur,48,сесмаа,CyrillTrans,silent (be),,,sesmaʔa,Phonemic
+18-240-70-1,tsak1249,Tsakhur,1307,миз,CyrillTrans,language,,,miz,Phonemic
+18-260-70-1,tsak1249,Tsakhur,1599,джуваб,CyrillTrans,word,,,ǯuwab,Phonemic
+18-280-70-1,tsak1249,Tsakhur,1405,до,CyrillTrans,name,,,do,Phonemic
+18-310-70-1,tsak1249,Tsakhur,1309,къигІаныс,CyrillTrans,"ask (question, inquire)",,,"q̄iʕanɨs, q̄idhinas",Phonemic
+18-310-70-3,tsak1249,Tsakhur,1309,къидгьинас,CyrillTrans,"ask (question, inquire)",,,"q̄iʕanɨs, q̄idhinas",Phonemic
+18-320-70-1,tsak1249,Tsakhur,1275,джаваб гьепес,CyrillTrans,answer,,,ǯawab hepes,Phonemic
+18-330-70-1,tsak1249,Tsakhur,2022,гарданахъа апятІуй,CyrillTrans,"admit, confess",,,gardanaqa apyatʼuy,Phonemic
+18-340-70-1,tsak1249,Tsakhur,755,инкараъас,CyrillTrans,deny,,,inkaraʔas,Phonemic
+18-350-70-1,tsak1249,Tsakhur,1828,гьеххъас,CyrillTrans,"ask, request",,,hexqas,Phonemic
+18-360-70-1,tsak1249,Tsakhur,1675,джуваб гьелес,CyrillTrans,promise,,,ǯuwab heles,Phonemic
+18-370-70-1,tsak1249,Tsakhur,49,инкар гьаъас,CyrillTrans,refuse,,,inkar haʔas,Phonemic
+18-380-70-1,tsak1249,Tsakhur,83,гадагъа,CyrillTrans,forbid,,,gadaɣa,Phonemic
+18-390-70-1,tsak1249,Tsakhur,299,гьокас,CyrillTrans,"rebuke, scold",,,hokas,Phonemic
+18-410-70-1,tsak1249,Tsakhur,1084,хъотІалас,CyrillTrans,call (=summon),,,qotʼalas,Phonemic
+18-420-70-1,tsak1249,Tsakhur,180,ивгьес,CyrillTrans,call (=name),,,iwhes,Phonemic
+18-430-70-1,tsak1249,Tsakhur,9,ивгьес,CyrillTrans,announce,,,iwhes,Phonemic
+18-440-70-1,tsak1249,Tsakhur,1192,хъакьанаас,CyrillTrans,threaten,,,qaqʼanaʔas,Phonemic
+18-450-70-1,tsak1249,Tsakhur,101,оганмишхьес,CyrillTrans,boast,,,"oganmišx̌es, ogmišqas",Phonemic
+18-450-70-3,tsak1249,Tsakhur,101,огмишхъас,CyrillTrans,boast,,,"oganmišx̌es, ogmišqas",Phonemic
+18-510-70-1,tsak1249,Tsakhur,1672,окІанас,CyrillTrans,write,,,okʼanas,Phonemic
+18-520-70-1,tsak1249,Tsakhur,724,хъаІдхъас,CyrillTrans,read,,,qaˤdqas,Phonemic
+18-560-70-1,tsak1249,Tsakhur,648,кагъыз,CyrillTrans,paper,,,kaɣɨz,Phonemic
+18-570-70-1,tsak1249,Tsakhur,794,кьалам,CyrillTrans,pen,,,qʼalam,Phonemic
+18-610-70-1,tsak1249,Tsakhur,963,китаб,CyrillTrans,book,,,kitab,Phonemic
+18-670-70-1,tsak1249,Tsakhur,1045,шаир,CyrillTrans,poet,,,šair,Phonemic
+18-710-70-1,tsak1249,Tsakhur,777,дютякІ,CyrillTrans,flute,,,dyutyakʼ,Phonemic
+18-720-70-1,tsak1249,Tsakhur,908,накьра,CyrillTrans,drum,,,naqʼra,Phonemic
+18-730-70-1,tsak1249,Tsakhur,2136,труба,CyrillTrans,"horn, trumpet",,,truba,Phonemic
+19-110-70-1,tsak1249,Tsakhur,1300,оІлка,CyrillTrans,country,,,"oˤlka, hukmat",Phonemic
+19-110-70-3,tsak1249,Tsakhur,1300,гьукмат,CyrillTrans,country,,,"oˤlka, hukmat",Phonemic
+19-120-70-1,tsak1249,Tsakhur,89,ватан,CyrillTrans,one's native country,,,watan,Phonemic
+19-150-70-1,tsak1249,Tsakhur,1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-70-1,tsak1249,Tsakhur,930,хив,CyrillTrans,village,,,xiw,Phonemic
+19-170-70-1,tsak1249,Tsakhur,1010,сергьад,CyrillTrans,boundary,,,serhad,Phonemic
+19-210-70-1,tsak1249,Tsakhur,789,халкь,CyrillTrans,people (populace),,,xalqʼ,Phonemic
+19-230-70-1,tsak1249,Tsakhur,302,тайфа,CyrillTrans,"tribe, clan",,,tayfa,Phonemic
+19-240-70-1,tsak1249,Tsakhur,301,вукъул’,CyrillTrans,"chief, chieftain",,,wuq̄ulʲ,Phonemic
+19-250-70-1,tsak1249,Tsakhur,1296,аІса,CyrillTrans,"staff, walking stick",,,aˤsa,Phonemic
+19-310-70-1,tsak1249,Tsakhur,1846,хъодкауй,CyrillTrans,"rule, govern",,,qodkauy,Phonemic
+19-320-70-1,tsak1249,Tsakhur,1508,паччагь,CyrillTrans,"king, ruler",,,pač̄ah,Phonemic
+19-330-70-1,tsak1249,Tsakhur,1306,ханум,CyrillTrans,queen,,,"xanum, biče",Phonemic
+19-330-70-3,tsak1249,Tsakhur,1306,биче,CyrillTrans,queen,,,"xanum, biče",Phonemic
+19-370-70-1,tsak1249,Tsakhur,1032,шагьарди инсан,CyrillTrans,"citizen, subject",,,šahardi insan,Phonemic
+19-410-70-1,tsak1249,Tsakhur,383,агъа,CyrillTrans,master,,,aɣa,Phonemic
+19-420-70-1,tsak1249,Tsakhur,812,къул,CyrillTrans,slave,,,q̄ul,Phonemic
+19-430-70-1,tsak1249,Tsakhur,255,гьаІшбал,CyrillTrans,servant,,,"haˤšbal, kodq̄ul",Phonemic
+19-430-70-3,tsak1249,Tsakhur,255,кодкъул,CyrillTrans,servant,,,"haˤšbal, kodq̄ul",Phonemic
+19-440-70-1,tsak1249,Tsakhur,384,селишна инсан,CyrillTrans,freeman,,,selišna insan,Phonemic
+19-450-70-1,tsak1249,Tsakhur,1128,амыр гьевлес,CyrillTrans,"command, order",,,amɨr hewles,Phonemic
+19-460-70-1,tsak1249,Tsakhur,1635,мюкІур гьаъас,CyrillTrans,obey,,,myuk’ur haʔas,Phonemic
+19-470-70-1,tsak1249,Tsakhur,1003,иджаза гьелес,CyrillTrans,"let, permit",,,iǯaza heles,Phonemic
+19-510-70-1,tsak1249,Tsakhur,1325,дост,CyrillTrans,"friend, companion",,,"dost, qammaz",Phonemic
+19-510-70-3,tsak1249,Tsakhur,1325,хъаммаз,CyrillTrans,"friend, companion",,,"dost, qammaz",Phonemic
+19-520-70-1,tsak1249,Tsakhur,1358,душман,CyrillTrans,enemy,,,dušman,Phonemic
+19-540-70-1,tsak1249,Tsakhur,1332,къонши,CyrillTrans,neighbor,,,q̄onši,Phonemic
+19-550-70-1,tsak1249,Tsakhur,791,дяцІана инсан,CyrillTrans,stranger,,,dyac’ana insan,Phonemic
+19-560-70-1,tsak1249,Tsakhur,1782,мигьман,CyrillTrans,guest,,,mihman,Phonemic
+19-570-70-1,tsak1249,Tsakhur,1545,йесси,CyrillTrans,host,,,yes̄i,Phonemic
+19-580-70-1,tsak1249,Tsakhur,1897,кумаг,CyrillTrans,"help, aid",,,kumag,Phonemic
+19-590-70-1,tsak1249,Tsakhur,1550,гьидяссарас,CyrillTrans,"hinder, prevent",,,hidyas̄aras,Phonemic
+19-610-70-1,tsak1249,Tsakhur,1747,аІдат,CyrillTrans,custom,,,aˤdat,Phonemic
+19-620-70-1,tsak1249,Tsakhur,1848,саІвуххий,CyrillTrans,"strife, quarrel",,,saˤwux̄iy,Phonemic
+19-630-70-1,tsak1249,Tsakhur,2024,орит,CyrillTrans,"conspiracy, plot",,,orit,Phonemic
+19-650-70-1,tsak1249,Tsakhur,1831,горушмишхьес,CyrillTrans,meet,,,"gorušmišx̌es, gawčes",Phonemic
+19-650-70-3,tsak1249,Tsakhur,1831,гавчес,CyrillTrans,meet,,,"gorušmišx̌es, gawčes",Phonemic
+19-720-70-1,tsak1249,Tsakhur,1610,кьаІгьба,CyrillTrans,prostitute,,,qʼaˤhba,Phonemic
+20-110-70-1,tsak1249,Tsakhur,1423,сачахарас,CyrillTrans,fight (vb),,,sačaxaras,Phonemic
+20-130-70-1,tsak1249,Tsakhur,579,давъий,CyrillTrans,"war, battle",,,dawʔiy,Phonemic
+20-140-70-1,tsak1249,Tsakhur,1338,суІлгь,CyrillTrans,peace,,,suˤlh,Phonemic
+20-150-70-1,tsak1249,Tsakhur,1561,орду,CyrillTrans,army,,,ordu,Phonemic
+20-170-70-1,tsak1249,Tsakhur,1941,эскер,CyrillTrans,soldier,,,esker,Phonemic
+20-210-70-1,tsak1249,Tsakhur,951,ярах,CyrillTrans,"weapons, arms",,,yarax,Phonemic
+20-220-70-1,tsak1249,Tsakhur,1763,дал,CyrillTrans,club,,,dal,Phonemic
+20-222-70-1,tsak1249,Tsakhur,386,давъийн якІв,CyrillTrans,battle-ax,,,dawʔiyn yakʼʷ,Phonemic
+20-240-70-1,tsak1249,Tsakhur,994,вук,CyrillTrans,bow,,,wuk,Phonemic
+20-250-70-1,tsak1249,Tsakhur,977,дарганакь,CyrillTrans,arrow,,,darganaqʼ,Phonemic
+20-260-70-1,tsak1249,Tsakhur,945,ох,CyrillTrans,spear,,,ox,Phonemic
+20-270-70-1,tsak1249,Tsakhur,1535,томпуз,CyrillTrans,sword,,,tompuz,Phonemic
+20-280-70-1,tsak1249,Tsakhur,1566,тюоранг,CyrillTrans,"gun, cannon",,,"tyuorang, tifang",Phonemic
+20-280-70-3,tsak1249,Tsakhur,1566,тифанг,CyrillTrans,"gun, cannon",,,"tyuorang, tifang",Phonemic
+20-310-70-1,tsak1249,Tsakhur,1061,ярахбы,CyrillTrans,armor (defensive),,,yaraxbɨ,Phonemic
+20-330-70-1,tsak1249,Tsakhur,1680,такьий,CyrillTrans,helmet,,,taqʼiy,Phonemic
+20-340-70-1,tsak1249,Tsakhur,1064,талкъан,CyrillTrans,shield,,,talqan,Phonemic
+20-350-70-1,tsak1249,Tsakhur,1938,къала,CyrillTrans,fortress,,,q̄ala,Phonemic
+20-360-70-1,tsak1249,Tsakhur,1671,мырали,CyrillTrans,tower,,,mɨrali,Phonemic
+20-410-70-1,tsak1249,Tsakhur,783,къамхьай,CyrillTrans,victory,,,q̄amx̌ay,Phonemic
+20-420-70-1,tsak1249,Tsakhur,782,къамдехьай,CyrillTrans,defeat,,,q̄amdex̌ay,Phonemic
+20-430-70-1,tsak1249,Tsakhur,722,гьуджумаас,CyrillTrans,attack,,,huǯumaʔas,Phonemic
+20-440-70-1,tsak1249,Tsakhur,1330,къорамихьес,CyrillTrans,defend,,,q̄oramix̌es,Phonemic
+20-450-70-1,tsak1249,Tsakhur,421,йикьалхъа хъахьес,CyrillTrans,retreat,,,yiqʼalqa qax̌es,Phonemic
+20-460-70-1,tsak1249,Tsakhur,1696,дустагъ гирхьуй,CyrillTrans,surrender,,,dustaɣ girx̌uy,Phonemic
+20-470-70-1,tsak1249,Tsakhur,1072,дустагъчий,CyrillTrans,"captive, prisoner",,,dustaɣčiy,Phonemic
+20-471-70-1,tsak1249,Tsakhur,1940,къаравулʼ,CyrillTrans,"guard, sentinel",,,q̄arawulʲ,Phonemic
+20-480-70-1,tsak1249,Tsakhur,1022,давла,CyrillTrans,"booty, spoils",,,dawla,Phonemic
+20-510-70-1,tsak1249,Tsakhur,1858,балугъчий,CyrillTrans,fisherman,,,baluɣčiy,Phonemic
+20-520-70-1,tsak1249,Tsakhur,1074,къармах,CyrillTrans,fishhook,,,q̄armax,Phonemic
+20-530-70-1,tsak1249,Tsakhur,19,лескІа,CyrillTrans,fishing line,,,lesk’a,Phonemic
+20-540-70-1,tsak1249,Tsakhur,388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-70-1,tsak1249,Tsakhur,389,чІанкІ,CyrillTrans,fish trap,,,č’ankʼ,Phonemic
+20-610-70-1,tsak1249,Tsakhur,1435,кьонахъя,CyrillTrans,hunt,,,"qʼonaqya, harqʼɨniy",Phonemic
+20-610-70-3,tsak1249,Tsakhur,1435,гьаркьыний,CyrillTrans,hunt,,,"qʼonaqya, harqʼɨniy",Phonemic
+20-620-70-1,tsak1249,Tsakhur,1172,агьес,CyrillTrans,shoot,,,ahes,Phonemic
+20-630-70-1,tsak1249,Tsakhur,161,хъидертІулна,CyrillTrans,miss (target),,,qidertʼulna,Phonemic
+20-640-70-1,tsak1249,Tsakhur,1075,чІанкІ,CyrillTrans,trap (noun),,,č’ankʼ,Phonemic
+20-650-70-1,tsak1249,Tsakhur,1170,аххъас,CyrillTrans,trap (vb),,,axqas,Phonemic
+21-110-70-1,tsak1249,Tsakhur,1062,къанун,CyrillTrans,law,,,"q̄anun, zakun",Phonemic
+21-110-70-3,tsak1249,Tsakhur,1062,закун,CyrillTrans,law,,,"q̄anun, zakun",Phonemic
+21-150-70-1,tsak1249,Tsakhur,1068,суд,CyrillTrans,court,,,sud,Phonemic
+21-160-70-1,tsak1249,Tsakhur,1818,иш гьевлес,CyrillTrans,judge (vb),,,iš hewles,Phonemic
+21-170-70-1,tsak1249,Tsakhur,1067,судын кьарар,CyrillTrans,judgment,,,sudɨn qʼarar,Phonemic
+21-180-70-1,tsak1249,Tsakhur,861,судья,CyrillTrans,judge (noun),,,sudya,Phonemic
+21-210-70-1,tsak1249,Tsakhur,2020,тІалабкар,CyrillTrans,plaintiff,,,t’alabkar,Phonemic
+21-220-70-1,tsak1249,Tsakhur,1034,джавабкар,CyrillTrans,defendant,,,ǯawabkar,Phonemic
+21-230-70-1,tsak1249,Tsakhur,1144,шагьадкар,CyrillTrans,witness,,,šahadkar,Phonemic
+21-240-70-1,tsak1249,Tsakhur,1939,кьынʼ гьаъас,CyrillTrans,swear,,,qʼɨnʲ haʔas,Phonemic
+21-250-70-1,tsak1249,Tsakhur,1712,кІынʼ,CyrillTrans,oath,,,kʼɨnʲ,Phonemic
+21-310-70-1,tsak1249,Tsakhur,1814,тахсир гьаас,CyrillTrans,accuse,,,taxsir haʔas,Phonemic
+21-320-70-1,tsak1249,Tsakhur,484,тахсир гиххьый,CyrillTrans,condemn,,,taxsir gixqɨy,Phonemic
+21-330-70-1,tsak1249,Tsakhur,983,тахсиркар гьаас,CyrillTrans,convict (vb),,,taxsirkar haʔas,Phonemic
+21-340-70-1,tsak1249,Tsakhur,988,данмишхьес,CyrillTrans,acquit,,,danmišx̌es,Phonemic
+21-350-70-1,tsak1249,Tsakhur,1682,тахсиркар,CyrillTrans,guilty,,,taxsirkar,Phonemic
+21-360-70-1,tsak1249,Tsakhur,90,тахсирдешда,CyrillTrans,innocent,,,taxsirdešda,Phonemic
+21-370-70-1,tsak1249,Tsakhur,390,джаза,CyrillTrans,"penalty, punishment",,,ǯaza,Phonemic
+21-380-70-1,tsak1249,Tsakhur,218,пыпын штраф,CyrillTrans,fine,,,pɨpɨn štraf,Phonemic
+21-390-70-1,tsak1249,Tsakhur,1281,дустагъ,CyrillTrans,"prison, jail",,,dustaɣ,Phonemic
+21-420-70-1,tsak1249,Tsakhur,845,гикІуий,CyrillTrans,murder,,,gikʼuiy,Phonemic
+21-430-70-1,tsak1249,Tsakhur,902,кьагьбевал,CyrillTrans,adultery,,,q’ahbewal,Phonemic
+21-440-70-1,tsak1249,Tsakhur,953,зоррамишайий,CyrillTrans,rape,,,zorramišayiy,Phonemic
+21-460-70-1,tsak1249,Tsakhur,1889,геххьанаас,CyrillTrans,arson,,,gexqanaʔas,Phonemic
+21-470-70-1,tsak1249,Tsakhur,1792,гьорбыгьауй,CyrillTrans,perjury,,,horbɨhauy,Phonemic
+21-510-70-1,tsak1249,Tsakhur,713,хъоІхъас,CyrillTrans,steal,,,qoˤqas,Phonemic
+21-520-70-1,tsak1249,Tsakhur,1160,сихнарий,CyrillTrans,thief,,,sixnariy,Phonemic
+22-110-70-1,tsak1249,Tsakhur,661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-70-1,tsak1249,Tsakhur,1944,ГІыниш,CyrillTrans,God,,,"ʕɨniš, Аllah",Phonemic
+22-120-70-3,tsak1249,Tsakhur,1944,Аллагь,CyrillTrans,God,,,"ʕɨniš, Аllah",Phonemic
+22-130-70-1,tsak1249,Tsakhur,911,килса,CyrillTrans,"temple, church",,,"kilsa, mizer",Phonemic
+22-130-70-3,tsak1249,Tsakhur,911,мизер,CyrillTrans,"temple, church",,,"kilsa, mizer",Phonemic
+22-140-70-1,tsak1249,Tsakhur,853,мигьмар,CyrillTrans,altar,,,mihmar,Phonemic
+22-150-70-1,tsak1249,Tsakhur,1103,кьурбан,CyrillTrans,"sacrifice, offering",,,qʼurban,Phonemic
+22-160-70-1,tsak1249,Tsakhur,257,сужда гьаъас,CyrillTrans,worship,,,sužda haʔas,Phonemic
+22-170-70-1,tsak1249,Tsakhur,24,ыІбадат гьаъас,CyrillTrans,pray,,,ɨˤbadat haʔas,Phonemic
+22-180-70-1,tsak1249,Tsakhur,852,кашиш,CyrillTrans,priest,,,kašiš,Phonemic
+22-190-70-1,tsak1249,Tsakhur,1702,иман гьацІад,CyrillTrans,"holy, sacred",,,Iman hac’ad,Phonemic
+22-220-70-1,tsak1249,Tsakhur,304,насигьаІт,CyrillTrans,preach,,,nasihaˤt,Phonemic
+22-230-70-1,tsak1249,Tsakhur,391,ихтияр гьепес,CyrillTrans,bless,,,"Ixtiyar hepes, ruxsat hepes",Phonemic
+22-230-70-3,tsak1249,Tsakhur,391,рухсат гьепес,CyrillTrans,bless,,,"Ixtiyar hepes, ruxsat hepes",Phonemic
+22-240-70-1,tsak1249,Tsakhur,8,къаргъышаас,CyrillTrans,curse,,,q̄arɣɨšaʔas,Phonemic
+22-260-70-1,tsak1249,Tsakhur,303,ыбадат акъас,CyrillTrans,fast (vb),,,"ɨbadat aq̄as, siw aq̄as",Phonemic
+22-260-70-3,tsak1249,Tsakhur,303,сив акъас,CyrillTrans,fast (vb),,,"ɨbadat aq̄as, siw aq̄as",Phonemic
+22-310-70-1,tsak1249,Tsakhur,1565,хаІйбы,CyrillTrans,heaven,,,"xaˤybɨ, ǯennet",Phonemic
+22-310-70-3,tsak1249,Tsakhur,1565,дженнет,CyrillTrans,heaven,,,"xaˤybɨ, ǯennet",Phonemic
+22-320-70-1,tsak1249,Tsakhur,878,джегьеннем,CyrillTrans,hell,,,ǯehennem,Phonemic
+22-350-70-1,tsak1249,Tsakhur,1973,иблис,CyrillTrans,demon (evil spirit),,,"iblis, šitap",Phonemic
+22-350-70-3,tsak1249,Tsakhur,1973,шитап,CyrillTrans,demon (evil spirit),,,"iblis, šitap",Phonemic
+22-370-70-1,tsak1249,Tsakhur,1945,хач,CyrillTrans,idol,,,xač,Phonemic
+22-420-70-1,tsak1249,Tsakhur,392,джадубы гьауй,CyrillTrans,"magic, witchcraft, sorcery",,,ǯadubɨ hauy,Phonemic
+22-430-70-1,tsak1249,Tsakhur,2137,албишда къарий,CyrillTrans,"sorcerer, witch",,,albišda q̄ariy,Phonemic
+22-440-70-1,tsak1249,Tsakhur,2138,пери,CyrillTrans,"fairy, elf",,,peri,Phonemic
+22-450-70-1,tsak1249,Tsakhur,1175,аІхъ,CyrillTrans,"ghost, phantom",,,aˤq,Phonemic
+22-470-70-1,tsak1249,Tsakhur,107,аІламат,CyrillTrans,"omen, portent",,,aˤlamat,Phonemic

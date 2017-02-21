@@ -1,0 +1,1531 @@
+ID,Language_ID,Language_name,Parameter_ID,Value,Transcription,Concept,Source,Comment,AlternativeValue,AlternativeTranscription
+14-320-31-1,kara1473,Avar (Karakh dialect),1852,хехго,CyrillTrans,often,,,x̄ex̄go,Phonemic
+14-310-31-1,kara1473,Avar (Karakh dialect),1676,кидаго,CyrillTrans,always,,,kidago,Phonemic
+14-290-31-1,kara1473,Avar (Karakh dialect),790,хІадурарав,CyrillTrans,ready,,,ħaduraraw,Phonemic
+14-280-31-1,kara1473,Avar (Karakh dialect),1928,кьуро къутІзабузи,CyrillTrans,"cease, stop",,,ƛ̄ʼuro qʼutʼzabuzi,Phonemic
+14-270-31-1,kara1473,Avar (Karakh dialect),1766,лъугІизабузи,CyrillTrans,finish,,,ɬuʕizabuzi,Phonemic
+14-260-31-1,kara1473,Avar (Karakh dialect),743,лъугІзи,CyrillTrans,end (temporal),,,ɬuʕzi,Phonemic
+14-252-31-1,kara1473,Avar (Karakh dialect),1186,халабахъзи,CyrillTrans,"last, endure",,,xalabaqzi,Phonemic
+14-250-31-1,kara1473,Avar (Karakh dialect),1806,байбихьизи,CyrillTrans,"begin, beginning",,,"baybix̌izi, baybix̌i",Phonemic
+14-250-31-3,kara1473,Avar (Karakh dialect),1806,байбихьи,CyrillTrans,"begin, beginning",,,"baybix̌izi, baybix̌i",Phonemic
+14-240-31-1,kara1473,Avar (Karakh dialect),425,кватІизавизи,CyrillTrans,"retard, delay",,,kʷatʼizawizi,Phonemic
+14-230-31-1,kara1473,Avar (Karakh dialect),754,хІалакун,CyrillTrans,"hasten, hurry",,,ħalakun,Phonemic
+14-220-31-1,kara1473,Avar (Karakh dialect),701,хІинцІав,CyrillTrans,slow,,,ħincʼaw,Phonemic
+14-210-31-1,kara1473,Avar (Karakh dialect),1631,ххеххав,CyrillTrans,"swift, fast, quick",,,x̄ex̄aw,Phonemic
+14-190-31-1,kara1473,Avar (Karakh dialect),1963,гьасагІалъ,CyrillTrans,immediately,,,hasaʕaɬ,Phonemic
+14-180-31-1,kara1473,Avar (Karakh dialect),1376,гьасагІалъ,CyrillTrans,now,,,hasaʕaɬ,Phonemic
+14-170-31-1,kara1473,Avar (Karakh dialect),477,нахъа,CyrillTrans,late,,,naqa,Phonemic
+14-160-31-1,kara1473,Avar (Karakh dialect),672,цебего,CyrillTrans,early,,,cebego,Phonemic
+14-150-31-1,kara1473,Avar (Karakh dialect),1229,хІерав,CyrillTrans,old,,,ħeraw,Phonemic
+14-140-31-1,kara1473,Avar (Karakh dialect),1207,гІолохъанав,CyrillTrans,young,,,ʕoloqanaw,Phonemic
+14-120-31-1,kara1473,Avar (Karakh dialect),1789,ригь,CyrillTrans,age,,,"rih, ʕasru, epoxa",Phonemic
+14-120-31-3,kara1473,Avar (Karakh dialect),1789,гІасру,CyrillTrans,age,,,"rih, ʕasru, epoxa",Phonemic
+14-120-31-5,kara1473,Avar (Karakh dialect),1789,эпоха,CyrillTrans,age,,,"rih, ʕasru, epoxa",Phonemic
+14-130-31-1,kara1473,Avar (Karakh dialect),1231,цІияб,CyrillTrans,new,,,cʼiyab,Phonemic
+14-110-31-1,kara1473,Avar (Karakh dialect),892,заман,CyrillTrans,time,,,zaman,Phonemic
+13-440-31-1,kara1473,Avar (Karakh dialect),417,лъабго нухалъ,CyrillTrans,three times,,,"ɬabgo nuxaɬ, ɬabcʼul",Phonemic
+13-440-31-3,kara1473,Avar (Karakh dialect),417,лъабцІул,CyrillTrans,three times,,,"ɬabgo nuxaɬ, ɬabcʼul",Phonemic
+13-420-31-1,kara1473,Avar (Karakh dialect),1859,лъабабилев,CyrillTrans,third,,,ɬababilew,Phonemic
+13-380-31-1,kara1473,Avar (Karakh dialect),1546,кІиго нухалъ,CyrillTrans,two times,,,"kʼigo nuxaɬ, kʼucʼul",Phonemic
+13-380-31-3,kara1473,Avar (Karakh dialect),1546,кІицІул,CyrillTrans,two times,,,"kʼigo nuxaɬ, kʼucʼul",Phonemic
+13-370-31-1,kara1473,Avar (Karakh dialect),1888,чуч,CyrillTrans,pair,,,"čut, kʼi-kʼi",Phonemic
+13-370-31-3,kara1473,Avar (Karakh dialect),1888,кІи-кІи,CyrillTrans,pair,,,"čut, kʼi-kʼi",Phonemic
+13-360-31-1,kara1473,Avar (Karakh dialect),1384,кІиабилеб,CyrillTrans,second,,,kʼiabileb,Phonemic
+13-350-31-1,kara1473,Avar (Karakh dialect),1529,ахирисеб,CyrillTrans,last,,,axiriseb,Phonemic
+13-340-31-1,kara1473,Avar (Karakh dialect),728,оцебесеб,CyrillTrans,first,,,"ocebeceb, tʼocebeseb",Phonemic
+13-340-31-3,kara1473,Avar (Karakh dialect),728,тІоцебесеб,CyrillTrans,first,,,"ocebeceb, tʼocebeseb",Phonemic
+13-330-31-1,kara1473,Avar (Karakh dialect),1580,цо,CyrillTrans,"alone, only",,,co,Phonemic
+13-240-31-1,kara1473,Avar (Karakh dialect),816,бащадаб,CyrillTrans,half,,,baš̄adab,Phonemic
+13-230-31-1,kara1473,Avar (Karakh dialect),779,къутІи,CyrillTrans,"part, piece",,,qʼutʼi,Phonemic
+13-220-31-1,kara1473,Avar (Karakh dialect),1624,чІубогаб,CyrillTrans,empty,,,čʼubogab,Phonemic
+13-210-31-1,kara1473,Avar (Karakh dialect),1429,цІураб,CyrillTrans,full,,,cʼurab,Phonemic
+13-190-31-1,kara1473,Avar (Karakh dialect),2023,гІемер,CyrillTrans,"multitude, crowd",,,ʕemer,Phonemic
+13-181-31-1,kara1473,Avar (Karakh dialect),1241,чанго,CyrillTrans,some,,,čango,Phonemic
+13-170-31-1,kara1473,Avar (Karakh dialect),1242,дагьго,CyrillTrans,"little (quantity), few",,,dahgo,Phonemic
+13-180-31-1,kara1473,Avar (Karakh dialect),1881,гІвеяб,CyrillTrans,enough,,,ʕʷeyab,Phonemic
+13-160-31-1,kara1473,Avar (Karakh dialect),1992,гІемер,CyrillTrans,more,,,ʕemer,Phonemic
+13-150-31-1,kara1473,Avar (Karakh dialect),1198,гІемер,CyrillTrans,"much, many",,,ʕemer,Phonemic
+13-140-31-1,kara1473,Avar (Karakh dialect),98,киналго,CyrillTrans,"every, all",,,kinalgo,Phonemic
+13-107-31-1,kara1473,Avar (Karakh dialect),1420,малъзи,CyrillTrans,count,,,maɬzi,Phonemic
+13-106-31-1,kara1473,Avar (Karakh dialect),1843,азарго,CyrillTrans,thousand,,,azargo,Phonemic
+13-105-31-1,kara1473,Avar (Karakh dialect),1634,нусго,CyrillTrans,hundred,,,nusgo,Phonemic
+13-104-31-1,kara1473,Avar (Karakh dialect),1710,къого,CyrillTrans,twenty,,,qʼogo,Phonemic
+13-103-31-1,kara1473,Avar (Karakh dialect),1709,анцІила щуго,CyrillTrans,fifteen,,,ancʼila š̄ugo,Phonemic
+13-102-31-1,kara1473,Avar (Karakh dialect),1707,анцІила кІиго,CyrillTrans,twelve,,,ancʼila kʼigo,Phonemic
+13-101-31-1,kara1473,Avar (Karakh dialect),1706,анцІила цо,CyrillTrans,eleven,,,ancʼila co,Phonemic
+13-100-31-1,kara1473,Avar (Karakh dialect),1515,анцІго,CyrillTrans,ten,,,ancʼgo,Phonemic
+13-90-31-1,kara1473,Avar (Karakh dialect),1483,ичІго,CyrillTrans,nine,,,ičʼgo,Phonemic
+13-80-31-1,kara1473,Avar (Karakh dialect),1705,микьго,CyrillTrans,eight,,,miƛ̄ʼgo,Phonemic
+13-70-31-1,kara1473,Avar (Karakh dialect),1704,анкьго,CyrillTrans,seven,,,anƛ̄ʼgo,Phonemic
+13-60-31-1,kara1473,Avar (Karakh dialect),1703,анлъго,CyrillTrans,six,,,anɬgo,Phonemic
+13-50-31-1,kara1473,Avar (Karakh dialect),493,щуго,CyrillTrans,five,,,š̄ugo,Phonemic
+13-40-31-1,kara1473,Avar (Karakh dialect),1500,ункъо,CyrillTrans,four,,,unqʼo,Phonemic
+13-20-31-1,kara1473,Avar (Karakh dialect),1498,кІиго,CyrillTrans,two,,,kʼigo,Phonemic
+13-30-31-1,kara1473,Avar (Karakh dialect),492,лъабго,CyrillTrans,three,,,ɬabgo,Phonemic
+13-10-31-1,kara1473,Avar (Karakh dialect),1493,цо,CyrillTrans,one,,,co,Phonemic
+13-0-31-1,kara1473,Avar (Karakh dialect),1294,нол,CyrillTrans,"zero, nothing",,,nol,Phonemic
+12-930-31-1,kara1473,Avar (Karakh dialect),1264,хисзи,CyrillTrans,change,,,xiszi,Phonemic
+12-920-31-1,kara1473,Avar (Karakh dialect),1558,релълъараб,CyrillTrans,"like, similar",,,reɬ̄arab,Phonemic
+12-840-31-1,kara1473,Avar (Karakh dialect),1048,рахъ,CyrillTrans,line,,,raq,Phonemic
+12-850-31-1,kara1473,Avar (Karakh dialect),1667,каратІ,CyrillTrans,hole,,,karatʼ,Phonemic
+12-830-31-1,kara1473,Avar (Karakh dialect),1845,шар,CyrillTrans,"sphere, ball",,,šar,Phonemic
+12-810-31-1,kara1473,Avar (Karakh dialect),1395,гургинаб,CyrillTrans,round,,,gurginab,Phonemic
+12-820-31-1,kara1473,Avar (Karakh dialect),1467,гор,CyrillTrans,circle,,,gor,Phonemic
+12-780-31-1,kara1473,Avar (Karakh dialect),850,ункъбукІон,CyrillTrans,square,,,unqʼbukʼon,Phonemic
+12-770-31-1,kara1473,Avar (Karakh dialect),1367,хъанч,CyrillTrans,cross,,,qanč,Phonemic
+12-760-31-1,kara1473,Avar (Karakh dialect),192,сибил,CyrillTrans,corner,,,sibil,Phonemic
+12-750-31-1,kara1473,Avar (Karakh dialect),1071,кІичІ,CyrillTrans,hook,,,k’ič’,Phonemic
+12-740-31-1,kara1473,Avar (Karakh dialect),297,кІичІараб,CyrillTrans,crooked,,,kʼičʼarab,Phonemic
+12-730-31-1,kara1473,Avar (Karakh dialect),1404,битІараб,CyrillTrans,straight,,,bitʼarab,Phonemic
+12-710-31-1,kara1473,Avar (Karakh dialect),1633,тІаса битІараб,CyrillTrans,flat,,,t’acabitʼarab,Phonemic
+12-680-31-1,kara1473,Avar (Karakh dialect),193,гьитІинаб,CyrillTrans,shallow,,,hitʼinab,Phonemic
+12-670-31-1,kara1473,Avar (Karakh dialect),1593,гъваридаб,CyrillTrans,deep,,,ɣʷaridab,Phonemic
+12-650-31-1,kara1473,Avar (Karakh dialect),2249,хІалакъаб,CyrillTrans,thin (in dimension),,,ħalaqʼab,Phonemic
+12-630-31-1,kara1473,Avar (Karakh dialect),1244,кьарияб,CyrillTrans,thick (in dimension),,,"ƛ̄ʼariyab, ƛ̄ʼarab",Phonemic
+12-630-31-3,kara1473,Avar (Karakh dialect),1244,кьараб,CyrillTrans,thick (in dimension),,,"ƛ̄ʼariyab, ƛ̄ʼarab",Phonemic
+12-620-31-1,kara1473,Avar (Karakh dialect),1267,къваридаб,CyrillTrans,narrow,,,qʼʷaridab,Phonemic
+12-610-31-1,kara1473,Avar (Karakh dialect),1243,гІебаб,CyrillTrans,"wide, broad",,,ʕebab,Phonemic
+12-590-31-1,kara1473,Avar (Karakh dialect),1645,къокъав,CyrillTrans,short,,,qʼoqʼaw,Phonemic
+12-580-31-1,kara1473,Avar (Karakh dialect),711,ворхІатав,CyrillTrans,tall,,,worħataw,Phonemic
+12-570-31-1,kara1473,Avar (Karakh dialect),1203,халатав,CyrillTrans,long,,,xalataw,Phonemic
+12-560-31-1,kara1473,Avar (Karakh dialect),1246,гьитІинав,CyrillTrans,"small, little",,,hitʼinaw,Phonemic
+12-550-31-1,kara1473,Avar (Karakh dialect),1202,кІудияв,CyrillTrans,"large, big",,,"kʼudiyaw, kʼudaw",Phonemic
+12-550-31-3,kara1473,Avar (Karakh dialect),1202,кІудав,CyrillTrans,"large, big",,,"kʼudiyaw, kʼudaw",Phonemic
+12-540-31-1,kara1473,Avar (Karakh dialect),1506,борцизи,CyrillTrans,measure,,,"borcizi, borczi",Phonemic
+12-540-31-3,kara1473,Avar (Karakh dialect),1506,борцзи,CyrillTrans,measure,,,"borcizi, borczi",Phonemic
+12-530-31-1,kara1473,Avar (Karakh dialect),479,кІудив гІези,CyrillTrans,grow,,,kʼudiw ʕezi,Phonemic
+12-480-31-1,kara1473,Avar (Karakh dialect),1595,къибла,CyrillTrans,south,,,qʼibla,Phonemic
+12-470-31-1,kara1473,Avar (Karakh dialect),1598,север,CyrillTrans,north,,,sewer,Phonemic
+12-460-31-1,kara1473,Avar (Karakh dialect),1817,магъриб,CyrillTrans,west,,,"maɣrib, baqʼ tʼerx̌ul raq",Phonemic
+12-460-31-3,kara1473,Avar (Karakh dialect),1817,бакътІерхьул рахъ,CyrillTrans,west,,,"maɣrib, baqʼ tʼerx̌ul raq",Phonemic
+12-450-31-1,kara1473,Avar (Karakh dialect),1877,машрикъ,CyrillTrans,east,,,"mašriqʼ, baqʼ bak̄ul raq",Phonemic
+12-450-31-3,kara1473,Avar (Karakh dialect),1877,бакъ баккул рахъ,CyrillTrans,east,,,"mašriqʼ, baqʼ bak̄ul raq",Phonemic
+12-430-31-1,kara1473,Avar (Karakh dialect),1942,аскІов,CyrillTrans,near (adv),,,"askʼow, ʕebeq",Phonemic
+12-430-31-3,kara1473,Avar (Karakh dialect),1942,гІебехъ,CyrillTrans,near (adv),,,"askʼow, ʕebeq",Phonemic
+12-440-31-1,kara1473,Avar (Karakh dialect),1406,рикІкІада,CyrillTrans,far (adv),,,rik̄ʼada,Phonemic
+12-420-31-1,kara1473,Avar (Karakh dialect),244,мекъаб (рахъ),CyrillTrans,left (side),,,meqʼab (raq),Phonemic
+12-410-31-1,kara1473,Avar (Karakh dialect),1019,кваранаб (рахъ),CyrillTrans,right (side),,,kʷaranab (raq),Phonemic
+12-370-31-1,kara1473,Avar (Karakh dialect),1093,бакьулъ бакІ,CyrillTrans,"middle, center",,,baƛ̄ʼuɬ bakʼ,Phonemic
+12-360-31-1,kara1473,Avar (Karakh dialect),682,рахъ,CyrillTrans,side,,,raq,Phonemic
+12-353-31-1,kara1473,Avar (Karakh dialect),863,рагІал,CyrillTrans,edge,,,raʕal,Phonemic
+12-352-31-1,kara1473,Avar (Karakh dialect),372,бегІераб,CyrillTrans,pointed,,,beʕerab,Phonemic
+12-350-31-1,kara1473,Avar (Karakh dialect),742,ахир,CyrillTrans,end,,,axir,Phonemic
+12-340-31-1,kara1473,Avar (Karakh dialect),690,ину,CyrillTrans,bottom,,,"inu, tʼinu",Phonemic
+12-340-31-3,kara1473,Avar (Karakh dialect),690,тІину,CyrillTrans,bottom,,,"inu, tʼinu",Phonemic
+12-320-31-1,kara1473,Avar (Karakh dialect),721,гІудобегІан,CyrillTrans,low,,,ʕudobeʕan,Phonemic
+12-330-31-1,kara1473,Avar (Karakh dialect),1753,огь,CyrillTrans,top,,,"oh, tʼoh",Phonemic
+12-330-31-3,kara1473,Avar (Karakh dialect),1753,тІогь,CyrillTrans,top,,,"oh, tʼoh",Phonemic
+12-310-31-1,kara1473,Avar (Karakh dialect),1265,ихедигІан,CyrillTrans,high,,,ixediʕan,Phonemic
+12-270-31-1,kara1473,Avar (Karakh dialect),602,бахчзи,CyrillTrans,"hide, conceal",,,baxčzi,Phonemic
+12-250-31-1,kara1473,Avar (Karakh dialect),1046,къази,CyrillTrans,"shut, close",,,qʼazi,Phonemic
+12-260-31-1,kara1473,Avar (Karakh dialect),761,вахчзи,CyrillTrans,cover,,,waxčzi,Phonemic
+12-240-31-1,kara1473,Avar (Karakh dialect),1156,рагьзи,CyrillTrans,open,,,rahzi,Phonemic
+12-232-31-1,kara1473,Avar (Karakh dialect),1119,бикьзи,CyrillTrans,divide,,,biƛ̄ʼzi,Phonemic
+12-230-31-1,kara1473,Avar (Karakh dialect),1359,батІатІезабузи,CyrillTrans,separate,,,batʼatʼezabuzi,Phonemic
+12-220-31-1,kara1473,Avar (Karakh dialect),1743,данделъизи,CyrillTrans,"join, unite",,,dandeɬizi,Phonemic
+12-213-31-1,kara1473,Avar (Karakh dialect),1576,бакІарзи,CyrillTrans,pile up,,,bakʼarzi,Phonemic
+12-212-31-1,kara1473,Avar (Karakh dialect),371,тІаде гьанкІизи,CyrillTrans,pick up,,,ade hankʼizi,Phonemic
+12-210-31-1,kara1473,Avar (Karakh dialect),7,бакІарзи,CyrillTrans,"collect, gather",,,bakʼarzi,Phonemic
+12-170-31-1,kara1473,Avar (Karakh dialect),838,хутІел,CyrillTrans,"remains, left overs",,,xutʼel,Phonemic
+12-160-31-1,kara1473,Avar (Karakh dialect),987,чІези,CyrillTrans,"remain, stay",,,čʼezi,Phonemic
+12-150-31-1,kara1473,Avar (Karakh dialect),1442,ади вохъун чІези,CyrillTrans,stand,,,adi woqun čʼezi,Phonemic
+12-140-31-1,kara1473,Avar (Karakh dialect),215,вегизи,CyrillTrans,lie down,,,"wegizi, wegzi",Phonemic
+12-140-31-3,kara1473,Avar (Karakh dialect),215,вегзи,CyrillTrans,lie down,,,"wegizi, wegzi",Phonemic
+12-130-31-1,kara1473,Avar (Karakh dialect),1416,гІудочІези,CyrillTrans,sit,,,ʕudočʼezi,Phonemic
+12-120-31-1,kara1473,Avar (Karakh dialect),998,лъези,CyrillTrans,put,,,ɬezi,Phonemic
+12-110-31-1,kara1473,Avar (Karakh dialect),723,бакІ,CyrillTrans,place,,,bakʼ,Phonemic
+12-80-31-1,kara1473,Avar (Karakh dialect),1591,ад,CyrillTrans,"up, above",,,"ad, tʼad",Phonemic
+12-80-31-3,kara1473,Avar (Karakh dialect),1591,тІад,CyrillTrans,"up, above",,,"ad, tʼad",Phonemic
+12-70-31-1,kara1473,Avar (Karakh dialect),1485,ахакь,CyrillTrans,under,,,axaƛ̄ʼ,Phonemic
+12-60-31-1,kara1473,Avar (Karakh dialect),762,къутІиб,CyrillTrans,outside,,,qʼutʼib,Phonemic
+12-50-31-1,kara1473,Avar (Karakh dialect),1606,жаниб,CyrillTrans,"inside, in",,,žanib,Phonemic
+12-41-31-1,kara1473,Avar (Karakh dialect),1883,цебе,CyrillTrans,front,,,cebe,Phonemic
+12-40-31-1,kara1473,Avar (Karakh dialect),1882,цебехун,CyrillTrans,before,,,"cebexun, cebe",Phonemic
+12-40-31-3,kara1473,Avar (Karakh dialect),1882,цебе,CyrillTrans,before,,,"cebexun, cebe",Phonemic
+12-30-31-1,kara1473,Avar (Karakh dialect),2094,аса гъоркьи,CyrillTrans,"down, below",,,asa ɣorƛ̄ʼi,Phonemic
+12-20-31-1,kara1473,Avar (Karakh dialect),1816,гъодухъ,CyrillTrans,beside,,,"ɣoduq, ʕebeq",Phonemic
+12-20-31-3,kara1473,Avar (Karakh dialect),1816,гІебехъ,CyrillTrans,beside,,,"ɣoduq, ʕebeq",Phonemic
+12-11-31-1,kara1473,Avar (Karakh dialect),1686,-хун,CyrillTrans,behind,,,"-xun, naqa",Phonemic
+12-11-31-3,kara1473,Avar (Karakh dialect),1686,нахъа,CyrillTrans,behind,,,"-xun, naqa",Phonemic
+12-10-31-1,kara1473,Avar (Karakh dialect),1685,нахъа,CyrillTrans,after,,,naqa,Phonemic
+11-920-31-1,kara1473,Avar (Karakh dialect),1098,бахІази,CyrillTrans,weigh,,,baħazi,Phonemic
+11-910-31-1,kara1473,Avar (Karakh dialect),884,бикьзи,CyrillTrans,share (distribute),,,biƛ̄ʼzi,Phonemic
+11-890-31-1,kara1473,Avar (Karakh dialect),1887,учузаб,CyrillTrans,cheap,,,učuzab,Phonemic
+11-880-31-1,kara1473,Avar (Karakh dialect),1426,хираяб,CyrillTrans,"dear (costly, expensive)",,,"xirayab, xirab",Phonemic
+11-880-31-3,kara1473,Avar (Karakh dialect),1426,хираб,CyrillTrans,"dear (costly, expensive)",,,"xirayab, xirab",Phonemic
+11-870-31-1,kara1473,Avar (Karakh dialect),657,багьа,CyrillTrans,price,,,baha,Phonemic
+11-860-31-1,kara1473,Avar (Karakh dialect),752,тукан,CyrillTrans,"store, shop",,,tukan,Phonemic
+11-850-31-1,kara1473,Avar (Karakh dialect),633,базар,CyrillTrans,market (place),,,bazar,Phonemic
+11-840-31-1,kara1473,Avar (Karakh dialect),1082,базарган,CyrillTrans,merchant,,,"bazargan, daramči",Phonemic
+11-840-31-3,kara1473,Avar (Karakh dialect),1082,дарамчи,CyrillTrans,merchant,,,"bazargan, daramči",Phonemic
+11-830-31-1,kara1473,Avar (Karakh dialect),2135,даран,CyrillTrans,"trade, barter",,,"daran, xisi",Phonemic
+11-830-31-3,kara1473,Avar (Karakh dialect),2135,хиси,CyrillTrans,"trade, barter",,,"daran, xisi",Phonemic
+11-820-31-1,kara1473,Avar (Karakh dialect),1571,бичзи,CyrillTrans,sell,,,bičzi,Phonemic
+11-810-31-1,kara1473,Avar (Karakh dialect),1869,босзи,CyrillTrans,buy,,,boszi,Phonemic
+11-790-31-1,kara1473,Avar (Karakh dialect),733,гІарац биканзи,CyrillTrans,earn,,,ʕarac bikanzi,Phonemic
+11-780-31-1,kara1473,Avar (Karakh dialect),1122,харж,CyrillTrans,wages,,,xarž,Phonemic
+11-770-31-1,kara1473,Avar (Karakh dialect),856,къарзалъ босзи,CyrillTrans,hire,,,qʼarzaɬ boszi,Phonemic
+11-690-31-1,kara1473,Avar (Karakh dialect),873,магъало,CyrillTrans,"tax, tribute",,,maɣalo,Phonemic
+11-660-31-1,kara1473,Avar (Karakh dialect),1081,хІисаб,CyrillTrans,"account, reckoning",,,ħisab,Phonemic
+11-650-31-1,kara1473,Avar (Karakh dialect),718,мухь кьези,CyrillTrans,pay (vb),,,mux̌ ƛ̄ʼezi,Phonemic
+11-640-31-1,kara1473,Avar (Karakh dialect),1914,налъи,CyrillTrans,debt,,,naɬi,Phonemic
+11-630-31-1,kara1473,Avar (Karakh dialect),369,налъукьи ккези,CyrillTrans,owe,,,naɬuƛ̄ʼi k̄ezi,Phonemic
+11-620-31-1,kara1473,Avar (Karakh dialect),1823,данд кьезегІан босзи,CyrillTrans,borrow,,,dand ƛ̄ʼezeʕan boszi,Phonemic
+11-610-31-1,kara1473,Avar (Karakh dialect),582,налъи гьабун кьези,CyrillTrans,lend,,,naɬi habun ƛ̄ʼezi,Phonemic
+11-540-31-1,kara1473,Avar (Karakh dialect),1774,къарумав,CyrillTrans,"avaricious, stingy",,,qʼarumaw,Phonemic
+11-530-31-1,kara1473,Avar (Karakh dialect),1934,гьардухъан,CyrillTrans,beggar,,,harduqan,Phonemic
+11-520-31-1,kara1473,Avar (Karakh dialect),1674,мискинав,CyrillTrans,poor,,,miskinaw,Phonemic
+11-510-31-1,kara1473,Avar (Karakh dialect),712,бичедав,CyrillTrans,rich,,,bičedaw,Phonemic
+11-440-31-1,kara1473,Avar (Karakh dialect),1867,шагьи,CyrillTrans,coin,,,šahi,Phonemic
+11-430-31-1,kara1473,Avar (Karakh dialect),1559,гІарац,CyrillTrans,money,,,ʕarac,Phonemic
+11-340-31-1,kara1473,Avar (Karakh dialect),1095,биччази,CyrillTrans,"release, let go",,,bič̄azi,Phonemic
+11-330-31-1,kara1473,Avar (Karakh dialect),1660,бохІу инзи,CyrillTrans,lose,,,"boħu inzi, bilizi",Phonemic
+11-330-31-3,kara1473,Avar (Karakh dialect),1660,билизи,CyrillTrans,lose,,,"boħu inzi, bilizi",Phonemic
+11-320-31-1,kara1473,Avar (Karakh dialect),719,батзи,CyrillTrans,find,,,batzi,Phonemic
+11-310-31-1,kara1473,Avar (Karakh dialect),1468,балагьзи,CyrillTrans,"seek, look for",,,balahzi,Phonemic
+11-280-31-1,kara1473,Avar (Karakh dialect),44,зарал гьабузи,CyrillTrans,"harm, injure, damage",,,zaral habuzi,Phonemic
+11-270-31-1,kara1473,Avar (Karakh dialect),681,биханзи,CyrillTrans,destroy,,,"bixanzi, bixzi",Phonemic
+11-270-31-3,kara1473,Avar (Karakh dialect),681,бихзи,CyrillTrans,destroy,,,"bixanzi, bixzi",Phonemic
+11-250-31-1,kara1473,Avar (Karakh dialect),2008,хъусар гьабузи,CyrillTrans,"save, rescue",,,qusar habuzi,Phonemic
+11-240-31-1,kara1473,Avar (Karakh dialect),1997,цІунзи,CyrillTrans,"preserve, look after",,,cʼunzi,Phonemic
+11-220-31-1,kara1473,Avar (Karakh dialect),85,нах вуссанзи,CyrillTrans,give back,,,"nax wus̄anzi, naxe wehzi",Phonemic
+11-220-31-3,kara1473,Avar (Karakh dialect),85,нахе вегьзи,CyrillTrans,give back,,,"nax wus̄anzi, naxe wehzi",Phonemic
+11-210-31-1,kara1473,Avar (Karakh dialect),1447,кьези,CyrillTrans,give,,,ƛ̄ʼezi,Phonemic
+11-180-31-1,kara1473,Avar (Karakh dialect),738,жо,CyrillTrans,thing,,,žo,Phonemic
+11-170-31-1,kara1473,Avar (Karakh dialect),1477,цІунзи,CyrillTrans,"keep, retain",,,cʼunzi,Phonemic
+11-160-31-1,kara1473,Avar (Karakh dialect),694,щвези,CyrillTrans,"get, obtain",,,š̄ʷezi,Phonemic
+11-150-31-1,kara1473,Avar (Karakh dialect),1448,кквези,CyrillTrans,hold,,,k̄ʷezi,Phonemic
+11-140-31-1,kara1473,Avar (Karakh dialect),2021,хъапзи,CyrillTrans,"seize, grasp",,,qapzi,Phonemic
+11-130-31-1,kara1473,Avar (Karakh dialect),1749,босзи,CyrillTrans,take,,,boszi,Phonemic
+11-120-31-1,kara1473,Avar (Karakh dialect),684,букІзи,CyrillTrans,"own, possess",,,bukʼzi,Phonemic
+11-110-31-1,kara1473,Avar (Karakh dialect),773,вегьзи,CyrillTrans,have,,,wehzi,Phonemic
+10-920-31-1,kara1473,Avar (Karakh dialect),1922,гІодо вичази,CyrillTrans,land (vb),,,ʕodo wičazi,Phonemic
+10-910-31-1,kara1473,Avar (Karakh dialect),610,порт,CyrillTrans,"harbor, port",,,port,Phonemic
+10-890-31-1,kara1473,Avar (Karakh dialect),1870,лангар,CyrillTrans,anchor,,,langar,Phonemic
+10-880-31-1,kara1473,Avar (Karakh dialect),786,парус,CyrillTrans,sail (noun),,,parus,Phonemic
+10-870-31-1,kara1473,Avar (Karakh dialect),184,мачта,CyrillTrans,mast,,,"mačta, ħubi",Phonemic
+10-870-31-3,kara1473,Avar (Karakh dialect),184,хІуби,CyrillTrans,mast,,,"mačta, ħubi",Phonemic
+10-860-31-1,kara1473,Avar (Karakh dialect),108,рул,CyrillTrans,rudder,,,rul,Phonemic
+10-852-31-1,kara1473,Avar (Karakh dialect),1849,лълъим ххази,CyrillTrans,row (vb),,,ɬ̄im x̄azi,Phonemic
+10-851-31-1,kara1473,Avar (Karakh dialect),234,раххан,CyrillTrans,paddle (noun),,,rax̄an,Phonemic
+10-850-31-1,kara1473,Avar (Karakh dialect),108,раххан,CyrillTrans,oar,,,rax̄an,Phonemic
+10-840-31-1,kara1473,Avar (Karakh dialect),1664,плот,CyrillTrans,raft,,,plot,Phonemic
+10-832-31-1,kara1473,Avar (Karakh dialect),416,раса,CyrillTrans,outrigger,,,rasa,Phonemic
+10-831-31-1,kara1473,Avar (Karakh dialect),1970,раса,CyrillTrans,canoe,,,rasa,Phonemic
+10-830-31-1,kara1473,Avar (Karakh dialect),1844,раса,CyrillTrans,boat,,,rasa,Phonemic
+10-810-31-1,kara1473,Avar (Karakh dialect),740,гама,CyrillTrans,ship,,,gama,Phonemic
+10-780-31-1,kara1473,Avar (Karakh dialect),14,дагъма,CyrillTrans,yoke,,,daɣma,Phonemic
+10-770-31-1,kara1473,Avar (Karakh dialect),1769,хІос,CyrillTrans,axle,,,ħos,Phonemic
+10-760-31-1,kara1473,Avar (Karakh dialect),710,гьакилбер,CyrillTrans,wheel,,,hakilber,Phonemic
+10-750-31-1,kara1473,Avar (Karakh dialect),122,гьоко,CyrillTrans,"carriage, wagon, cart",,,hoko,Phonemic
+10-740-31-1,kara1473,Avar (Karakh dialect),1011,кьо,CyrillTrans,bridge,,,ƛ̄ʼo,Phonemic
+10-720-31-1,kara1473,Avar (Karakh dialect),2252,нухІ,CyrillTrans,path,,,nuħ,Phonemic
+10-710-31-1,kara1473,Avar (Karakh dialect),667,нухІ,CyrillTrans,road,,,nuħ,Phonemic
+10-670-31-1,kara1473,Avar (Karakh dialect),1452,цузи,CyrillTrans,"push, shove",,,cuzi,Phonemic
+10-660-31-1,kara1473,Avar (Karakh dialect),367,чудад рикІинзи,CyrillTrans,ride,,,čudad rikʼinzi,Phonemic
+10-650-31-1,kara1473,Avar (Karakh dialect),741,машинд ад рикІинзи,CyrillTrans,drive,,,mašind ad rikʼinzi,Phonemic
+10-640-31-1,kara1473,Avar (Karakh dialect),43,бачзи,CyrillTrans,lead (vb),,,bačzi,Phonemic
+10-630-31-1,kara1473,Avar (Karakh dialect),1127,битІзи,CyrillTrans,send,,,bitʼzi,Phonemic
+10-620-31-1,kara1473,Avar (Karakh dialect),692,гьобегьзи,CyrillTrans,bring,,,hobehzi,Phonemic
+10-615-31-1,kara1473,Avar (Karakh dialect),415,къулакь котол гьвези,CyrillTrans,carry-underarm,,,qʼulaƛ̄ʼ kotol hʷezi,Phonemic
+10-614-31-1,kara1473,Avar (Karakh dialect),414,гІадал лъото гьвези,CyrillTrans,carry-on-head,,,"ʕadal ɬoto hʷezi, butʼroda ɬoto hʷezi",Phonemic
+10-614-31-3,kara1473,Avar (Karakh dialect),414,бутІрода лъо гьвези,CyrillTrans,carry-on-head,,,"ʕadal ɬoto hʷezi, butʼroda ɬoto hʷezi",Phonemic
+10-613-31-1,kara1473,Avar (Karakh dialect),413,гъажал лъото гьвези,CyrillTrans,carry-on-shoulder,,,ɣažal ɬoto hʷezi,Phonemic
+10-612-31-1,kara1473,Avar (Karakh dialect),412,кодо (кото) гьвези,CyrillTrans,carry-in-hand,,,kodo (koto) hʷezi,Phonemic
+10-610-31-1,kara1473,Avar (Karakh dialect),700,гьвези,CyrillTrans,carry (bear),,,"hʷezi, boszi",Phonemic
+10-610-31-3,kara1473,Avar (Karakh dialect),700,босзи,CyrillTrans,carry (bear),,,"hʷezi, boszi",Phonemic
+10-570-31-1,kara1473,Avar (Karakh dialect),749,жанух вегьзи,CyrillTrans,enter,,,"žanux wehzi, žani wehzi",Phonemic
+10-570-31-3,kara1473,Avar (Karakh dialect),749,жани вегьзи,CyrillTrans,enter,,,"žanux wehzi, žani wehzi",Phonemic
+10-560-31-1,kara1473,Avar (Karakh dialect),1778,гІагардигІан къази,CyrillTrans,approach,,,ʕagardiʕan qʼazi,Phonemic
+10-550-31-1,kara1473,Avar (Karakh dialect),1387,щвези,CyrillTrans,"reach, arrive",,,"š̄ʷezi, balahzi",Phonemic
+10-550-31-3,kara1473,Avar (Karakh dialect),1387,балагьзи,CyrillTrans,"reach, arrive",,,"š̄ʷezi, balahzi",Phonemic
+10-530-31-1,kara1473,Avar (Karakh dialect),1047,халкквези,CyrillTrans,pursue,,,xalk̄ʷezi,Phonemic
+10-520-31-1,kara1473,Avar (Karakh dialect),1085,халкквези,CyrillTrans,follow,,,xalk̄ʷezi,Phonemic
+10-510-31-1,kara1473,Avar (Karakh dialect),956,лъутзи,CyrillTrans,flee,,,ɬutzi,Phonemic
+10-491-31-1,kara1473,Avar (Karakh dialect),485,бохІу инзи,CyrillTrans,disappear,,,"boħu inzi, bilizi",Phonemic
+10-491-31-3,kara1473,Avar (Karakh dialect),485,билизи,CyrillTrans,disappear,,,"boħu inzi, bilizi",Phonemic
+10-490-31-1,kara1473,Avar (Karakh dialect),1752,нахъе энзи,CyrillTrans,"go away, depart",,,naqe enzi,Phonemic
+10-481-31-1,kara1473,Avar (Karakh dialect),581,тІадвуссзи,CyrillTrans,come back,,,tʼad wus̄zi,Phonemic
+10-480-31-1,kara1473,Avar (Karakh dialect),1446,вегьзи,CyrillTrans,come,,,wehzi,Phonemic
+10-474-31-1,kara1473,Avar (Karakh dialect),1107,къватІиб бахъзи,CyrillTrans,go out,,,qʼʷatʼib baqzi,Phonemic
+10-473-31-1,kara1473,Avar (Karakh dialect),2014,гъоркъе вилъензи,CyrillTrans,go down,,,ɣorqʼe wiɬenzi,Phonemic
+10-472-31-1,kara1473,Avar (Karakh dialect),1102,адух вахъзи,CyrillTrans,climb,,,"adux waqzi, ade waqzi",Phonemic
+10-472-31-3,kara1473,Avar (Karakh dialect),1102,тІаде вахъзи,CyrillTrans,climb,,,"adux waqzi, ade waqzi",Phonemic
+10-470-31-1,kara1473,Avar (Karakh dialect),695,энзи,CyrillTrans,go,,,enzi,Phonemic
+10-471-31-1,kara1473,Avar (Karakh dialect),705,тІаде вилъензи,CyrillTrans,go up,,,ade wiɬenzi,Phonemic
+10-460-31-1,kara1473,Avar (Karakh dialect),1519,векерзи,CyrillTrans,run,,,wekerzi,Phonemic
+10-451-31-1,kara1473,Avar (Karakh dialect),366,лекълъзи,CyrillTrans,limp,,,leqʼɬzi,Phonemic
+10-450-31-1,kara1473,Avar (Karakh dialect),1443,вилъензи,CyrillTrans,walk,,,wiɬenzi,Phonemic
+10-440-31-1,kara1473,Avar (Karakh dialect),1879,васандизи,CyrillTrans,dance,,,wasandzi,Phonemic
+10-431-31-1,kara1473,Avar (Karakh dialect),1135,кьабзи,CyrillTrans,kick,,,ƛ̄ʼabzi,Phonemic
+10-430-31-1,kara1473,Avar (Karakh dialect),1829,кІанцІзи,CyrillTrans,"jump, leap",,,kʼancʼzi,Phonemic
+10-420-31-1,kara1473,Avar (Karakh dialect),1324,хемтІези,CyrillTrans,"slide, slip",,,xemtʼezi,Phonemic
+10-413-31-1,kara1473,Avar (Karakh dialect),296,гІудо кІусзи,CyrillTrans,crouch,,,ʕudo kʼuszi,Phonemic
+10-412-31-1,kara1473,Avar (Karakh dialect),66,накизда чІези,CyrillTrans,kneel,,,nakizda čʼezi,Phonemic
+10-410-31-1,kara1473,Avar (Karakh dialect),96,хъушзи,CyrillTrans,"creep, crawl",,,qušzi,Phonemic
+10-380-31-1,kara1473,Avar (Karakh dialect),175,пуцІузи,CyrillTrans,blow,,,pucʼuzi,Phonemic
+10-370-31-1,kara1473,Avar (Karakh dialect),1441,боржзи,CyrillTrans,fly (vb),,,boržzi,Phonemic
+10-360-31-1,kara1473,Avar (Karakh dialect),787,лълъим хъвази,CyrillTrans,sail (vb),,,ɬim qʷazi,Phonemic
+10-352-31-1,kara1473,Avar (Karakh dialect),365,чучази,CyrillTrans,splash,,,čučazi,Phonemic
+10-351-31-1,kara1473,Avar (Karakh dialect),119,лъадалъ жан вукъзи,CyrillTrans,dive,,,ɬadaɬ žan wuqʼzi,Phonemic
+10-350-31-1,kara1473,Avar (Karakh dialect),1439,лълъим хъвази,CyrillTrans,swim,,,ɬim qʷazi,Phonemic
+10-340-31-1,kara1473,Avar (Karakh dialect),1574,адгу лълъим хъвази,CyrillTrans,float,,,adgu ɬ̄im qʷazi,Phonemic
+10-330-31-1,kara1473,Avar (Karakh dialect),1088,лъадалъ ганкъзи,CyrillTrans,sink,,,ɬadaɬ ganqʼzi,Phonemic
+10-320-31-1,kara1473,Avar (Karakh dialect),2003,чІвахзи,CyrillTrans,flow,,,čʼʷaxzi,Phonemic
+10-260-31-1,kara1473,Avar (Karakh dialect),1909,туркІизи,CyrillTrans,shake,,,turkʼizi,Phonemic
+10-252-31-1,kara1473,Avar (Karakh dialect),702,кквези,CyrillTrans,catch (ball),,,k̄ʷezi,Phonemic
+10-250-31-1,kara1473,Avar (Karakh dialect),1456,рехзи,CyrillTrans,throw,,,rexzi,Phonemic
+10-240-31-1,kara1473,Avar (Karakh dialect),2253,дагь-дагькко тІези,CyrillTrans,drip,,,dah-dahk̄o tʼezi,Phonemic
+10-230-31-1,kara1473,Avar (Karakh dialect),1280,бортизи,CyrillTrans,fall,,,bortizi,Phonemic
+10-220-31-1,kara1473,Avar (Karakh dialect),501,тІаде гьанкІзи,CyrillTrans,"raise, lift",,,ade hankʼzi,Phonemic
+10-210-31-1,kara1473,Avar (Karakh dialect),568,адивохъзи,CyrillTrans,rise,,,"adiwoqzi, adiwaxzi",Phonemic
+10-210-31-3,kara1473,Avar (Karakh dialect),568,тІадивахзи,CyrillTrans,rise,,,"adiwoqzi, adiwaxzi",Phonemic
+10-170-31-1,kara1473,Avar (Karakh dialect),430,кьурзи,CyrillTrans,twist,,,ƛ̄ʼurzi,Phonemic
+10-160-31-1,kara1473,Avar (Karakh dialect),808,бухъизе,CyrillTrans,drop (vb),,,buqizi,Phonemic
+10-150-31-1,kara1473,Avar (Karakh dialect),827,тирзи,CyrillTrans,roll,,,tirzi,Phonemic
+10-140-31-1,kara1473,Avar (Karakh dialect),1113,жемзи,CyrillTrans,"wind, wrap",,,žemzi,Phonemic
+10-130-31-1,kara1473,Avar (Karakh dialect),1445,ричІзи,CyrillTrans,turn around,,,ričʼzi,Phonemic
+10-120-31-1,kara1473,Avar (Karakh dialect),1588,тиризе,CyrillTrans,turn over,,,tirizi,Phonemic
+10-110-31-1,kara1473,Avar (Karakh dialect),765,гьивигьизи,CyrillTrans,move,,,hiwihizi,Phonemic
+9-890-31-1,kara1473,Avar (Karakh dialect),2001,бахъзи,CyrillTrans,paint (vb),,,baqzi,Phonemic
+9-840-31-1,kara1473,Avar (Karakh dialect),1979,лъини,CyrillTrans,chisel,,,ɬini,Phonemic
+9-880-31-1,kara1473,Avar (Karakh dialect),647,сир,CyrillTrans,paint (noun),,,sir,Phonemic
+9-830-31-1,kara1473,Avar (Karakh dialect),1002,статуя,CyrillTrans,statue,,,statuya,Phonemic
+9-820-31-1,kara1473,Avar (Karakh dialect),914,устар,CyrillTrans,sculptor,,,ustar,Phonemic
+9-810-31-1,kara1473,Avar (Karakh dialect),228,къотІзи,CyrillTrans,carve,,,qʼotʼzi,Phonemic
+9-791-31-1,kara1473,Avar (Karakh dialect),360,гьури чІвазабузи,CyrillTrans,fan (vb),,,huri čʼʷazabuzi,Phonemic
+9-790-31-1,kara1473,Avar (Karakh dialect),1971,гьури бан жо,CyrillTrans,fan (noun),,,"huri ban žo, wentilyator",Phonemic
+9-790-31-3,kara1473,Avar (Karakh dialect),1971,вентилятор,CyrillTrans,fan (noun),,,"huri ban žo, wentilyator",Phonemic
+9-780-31-1,kara1473,Avar (Karakh dialect),293,сумка,CyrillTrans,netbag,,,sumka,Phonemic
+9-771-31-1,kara1473,Avar (Karakh dialect),292,дийгьан,CyrillTrans,rug,,,"diyhan, sumalo",Phonemic
+9-771-31-3,kara1473,Avar (Karakh dialect),292,сумало,CyrillTrans,rug,,,"diyhan, sumalo",Phonemic
+9-770-31-1,kara1473,Avar (Karakh dialect),195,турут,CyrillTrans,mat,,,turut,Phonemic
+9-760-31-1,kara1473,Avar (Karakh dialect),1539,чІеп,CyrillTrans,basket,,,čʼep,Phonemic
+9-750-31-1,kara1473,Avar (Karakh dialect),1729,ресарзи,CyrillTrans,"weave, plait",,,resarzi,Phonemic
+9-740-31-1,kara1473,Avar (Karakh dialect),604,цІер,CyrillTrans,glass,,,cʼer,Phonemic
+9-730-31-1,kara1473,Avar (Karakh dialect),1399,хІарщ,CyrillTrans,clay,,,ħarš̄,Phonemic
+9-720-31-1,kara1473,Avar (Karakh dialect),289,куц гьабузи,CyrillTrans,mold (clay etc),,,kuc habuzi,Phonemic
+9-710-31-1,kara1473,Avar (Karakh dialect),359,щигІихъан,CyrillTrans,potter,,,š̄iʕiqan,Phonemic
+9-690-31-1,kara1473,Avar (Karakh dialect),358,махх,CyrillTrans,"tin, tinplate",,,max̄,Phonemic
+9-680-31-1,kara1473,Avar (Karakh dialect),627,тІухьи,CyrillTrans,lead (noun),,,tʼux̌i,Phonemic
+9-670-31-1,kara1473,Avar (Karakh dialect),621,махх,CyrillTrans,iron,,,max̄,Phonemic
+9-660-31-1,kara1473,Avar (Karakh dialect),1825,ез,CyrillTrans,"copper, bronze",,,ez,Phonemic
+9-650-31-1,kara1473,Avar (Karakh dialect),759,гІарац,CyrillTrans,silver,,,ʕarac,Phonemic
+9-640-31-1,kara1473,Avar (Karakh dialect),1369,месед,CyrillTrans,gold,,,mesed,Phonemic
+9-630-31-1,kara1473,Avar (Karakh dialect),211,махх тІези,CyrillTrans,cast (metals),,,max̄ tʼezi,Phonemic
+9-620-31-1,kara1473,Avar (Karakh dialect),1648,бабч,CyrillTrans,anvil,,,babč,Phonemic
+9-610-31-1,kara1473,Avar (Karakh dialect),288,къебелъи,CyrillTrans,forge,,,qʼebeɬi,Phonemic
+9-600-31-1,kara1473,Avar (Karakh dialect),1001,маххул устар,CyrillTrans,"smith, blacksmith",,,max̄ul ustar,Phonemic
+9-560-31-1,kara1473,Avar (Karakh dialect),1069,сину,CyrillTrans,glue,,,sinu,Phonemic
+9-500-31-1,kara1473,Avar (Karakh dialect),502,магІ,CyrillTrans,nail,,,maʕ,Phonemic
+9-490-31-1,kara1473,Avar (Karakh dialect),1481,куртІа,CyrillTrans,hammer,,,kurtʼa,Phonemic
+9-480-31-1,kara1473,Avar (Karakh dialect),1948,хъухъари,CyrillTrans,saw,,,quqari,Phonemic
+9-461-31-1,kara1473,Avar (Karakh dialect),46,бекбекзи,CyrillTrans,hollow out,,,bekbekzi,Phonemic
+9-460-31-1,kara1473,Avar (Karakh dialect),1501,каратІ,CyrillTrans,bore,,,karatʼ,Phonemic
+9-440-31-1,kara1473,Avar (Karakh dialect),1840,бази,CyrillTrans,build,,,bazi,Phonemic
+9-430-31-1,kara1473,Avar (Karakh dialect),1042,устар,CyrillTrans,carpenter,,,ustar,Phonemic
+9-422-31-1,kara1473,Avar (Karakh dialect),1361,алат,CyrillTrans,tool,,,alat,Phonemic
+9-380-31-1,kara1473,Avar (Karakh dialect),245,нихьу,CyrillTrans,broom,,,"nix̌u, qʼačʼ",Phonemic
+9-380-31-3,kara1473,Avar (Karakh dialect),245,къачІ,CyrillTrans,broom,,,"nix̌u, qʼačʼ",Phonemic
+9-360-31-1,kara1473,Avar (Karakh dialect),1453,чурзи,CyrillTrans,wash,,,čurzi,Phonemic
+9-370-31-1,kara1473,Avar (Karakh dialect),230,хьвази,CyrillTrans,sweep,,,x̌ʷazi,Phonemic
+9-350-31-1,kara1473,Avar (Karakh dialect),1487,тІези,CyrillTrans,pour,,,tʼezi,Phonemic
+9-343-31-1,kara1473,Avar (Karakh dialect),1414,цІузи,CyrillTrans,"squeeze, wring",,,cʼuzi,Phonemic
+9-342-31-1,kara1473,Avar (Karakh dialect),1913,цузи,CyrillTrans,press,,,cuzi,Phonemic
+9-341-31-1,kara1473,Avar (Karakh dialect),357,бахІази,CyrillTrans,hang up,,,baħazi,Phonemic
+9-340-31-1,kara1473,Avar (Karakh dialect),38,рагІизабузи,CyrillTrans,spread out,,,"raʕizabuzi, tʼibitʼihabuzi",Phonemic
+9-340-31-3,kara1473,Avar (Karakh dialect),38,тІибитІигьабузи,CyrillTrans,spread out,,,"raʕizabuzi, tʼibitʼihabuzi",Phonemic
+9-330-31-1,kara1473,Avar (Karakh dialect),1455,цІази,CyrillTrans,pull,,,cʼazi,Phonemic
+9-320-31-1,kara1473,Avar (Karakh dialect),214,цІацІабизи,CyrillTrans,stretch,,,cʼacʼabizi,Phonemic
+9-310-31-1,kara1473,Avar (Karakh dialect),1449,бацІзи,CyrillTrans,"rub, wipe",,,bacʼzi,Phonemic
+9-290-31-1,kara1473,Avar (Karakh dialect),291,къехь бахъзи,CyrillTrans,"flay, skin",,,qʼex̌ baqzi,Phonemic
+9-280-31-1,kara1473,Avar (Karakh dialect),1735,тІези,CyrillTrans,tear,,,tʼezi,Phonemic
+9-270-31-1,kara1473,Avar (Karakh dialect),1437,бичІизи,CyrillTrans,split,,,bičʼizi,Phonemic
+9-261-31-1,kara1473,Avar (Karakh dialect),588,бекараб,CyrillTrans,broken,,,bekarab,Phonemic
+9-260-31-1,kara1473,Avar (Karakh dialect),680,бекзи,CyrillTrans,break,,,bekzi,Phonemic
+9-250-31-1,kara1473,Avar (Karakh dialect),677,гІижди,CyrillTrans,ax,,,ʕiždi,Phonemic
+9-251-31-1,kara1473,Avar (Karakh dialect),290,гІатІ,CyrillTrans,adze,,,ʕatʼ,Phonemic
+9-240-31-1,kara1473,Avar (Karakh dialect),356,кІвекьмах,CyrillTrans,"scissors, shears",,,kʼʷeƛ̄ʼmax,Phonemic
+9-230-31-1,kara1473,Avar (Karakh dialect),1352,нус,CyrillTrans,knife,,,nus,Phonemic
+9-223-31-1,kara1473,Avar (Karakh dialect),1434,къазабузи,CyrillTrans,stab,,,qʼazabuzi,Phonemic
+9-222-31-1,kara1473,Avar (Karakh dialect),155,бичІзи,CyrillTrans,"chop, hew",,,bičʼzi,Phonemic
+9-221-31-1,kara1473,Avar (Karakh dialect),355,къокъ гьабузи,CyrillTrans,cut down,,,qʼoqʼ habuzi,Phonemic
+9-220-31-1,kara1473,Avar (Karakh dialect),1432,къотІзи,CyrillTrans,cut,,,qʼotʼzi,Phonemic
+9-211-31-1,kara1473,Avar (Karakh dialect),354,игъед кьабзи,CyrillTrans,pound with fist,,,iɣed ƛ̄ʼabzi,Phonemic
+9-210-31-1,kara1473,Avar (Karakh dialect),2133,кьабзи,CyrillTrans,"strike (hit, beat)",,,ƛ̄ʼabzi,Phonemic
+9-192-31-1,kara1473,Avar (Karakh dialect),760,гарацІ,CyrillTrans,knot (noun),,,garacʼ,Phonemic
+9-190-31-1,kara1473,Avar (Karakh dialect),1218,квар,CyrillTrans,"rope, cord",,,kʷar,Phonemic
+9-180-31-1,kara1473,Avar (Karakh dialect),1627,рахас,CyrillTrans,chain,,,raxas,Phonemic
+9-161-31-1,kara1473,Avar (Karakh dialect),352,бичизи,CyrillTrans,untie,,,bičizi,Phonemic
+9-160-31-1,kara1473,Avar (Karakh dialect),1917,бухьзи,CyrillTrans,"tie, bind",,,bux̌zi,Phonemic
+9-150-31-1,kara1473,Avar (Karakh dialect),1470,сукІзи,CyrillTrans,fold,,,sukʼzi,Phonemic
+9-140-31-1,kara1473,Avar (Karakh dialect),2004,гьетизабизи,CyrillTrans,bend,,,hetʼizabizi,Phonemic
+9-120-31-1,kara1473,Avar (Karakh dialect),984,хІалтІи,CyrillTrans,work,,,ħaltʼi,Phonemic
+9-110-31-1,kara1473,Avar (Karakh dialect),2575,гьабузи,CyrillTrans,"do, make",,,habuzi,Phonemic
+8-980-31-1,kara1473,Avar (Karakh dialect),641,гІурдахІан,CyrillTrans,mushroom,,,"ʕurdaħan, ɣaba",Phonemic
+8-980-31-3,kara1473,Avar (Karakh dialect),641,гъаба,CyrillTrans,mushroom,,,"ʕurdaħan, ɣaba",Phonemic
+8-970-31-1,kara1473,Avar (Karakh dialect),33,мичІчІ,CyrillTrans,nettle,,,mič̄ʼ,Phonemic
+8-941-31-1,kara1473,Avar (Karakh dialect),146,чакарул муцІцІи,CyrillTrans,sugar cane,,,čakarul muc̄ʼi,Phonemic
+8-940-31-1,kara1473,Avar (Karakh dialect),1927,бамбук,CyrillTrans,bamboo,,,bambuk,Phonemic
+8-931-31-1,kara1473,Avar (Karakh dialect),864,хъабахъ,CyrillTrans,"pumpkin, squash",,,qabaq,Phonemic
+8-930-31-1,kara1473,Avar (Karakh dialect),411,хъабахъ,CyrillTrans,gourd,,,qabaq,Phonemic
+8-910-31-1,kara1473,Avar (Karakh dialect),159,батат,CyrillTrans,sweet potato,,,batat,Phonemic
+8-850-31-1,kara1473,Avar (Karakh dialect),346,инжиралъул гъветІ,CyrillTrans,banyan,,,inžiraɬul ɣʷetʼ,Phonemic
+8-840-31-1,kara1473,Avar (Karakh dialect),868,бананалъул гъветІ,CyrillTrans,banana tree,,,bananaɬul ɣʷetʼ,Phonemic
+8-830-31-1,kara1473,Avar (Karakh dialect),1126,цитрусалъул пихъ,CyrillTrans,citrus fruit,,,citrusaɬul piq,Phonemic
+8-820-31-1,kara1473,Avar (Karakh dialect),970,кокос,CyrillTrans,coconut,,,kokos,Phonemic
+8-810-31-1,kara1473,Avar (Karakh dialect),1181,палма,CyrillTrans,palm tree,,,palma,Phonemic
+8-760-31-1,kara1473,Avar (Karakh dialect),345,хурдузул лъим,CyrillTrans,sap,,,xurduzul ɬ̄im,Phonemic
+8-750-31-1,kara1473,Avar (Karakh dialect),1204,хъал,CyrillTrans,bark,,,qal,Phonemic
+8-740-31-1,kara1473,Avar (Karakh dialect),409,кІибикьа гІаркьел,CyrillTrans,forked branch,,,kʼibiƛ̄ʼa ʕarƛ̄ʼel,Phonemic
+8-730-31-1,kara1473,Avar (Karakh dialect),344,гъутІол хІуби,CyrillTrans,tree trunk,,,ɣutʼol ħubi,Phonemic
+8-720-31-1,kara1473,Avar (Karakh dialect),241,гидехІ,CyrillTrans,tree stump,,,gideħ,Phonemic
+8-691-31-1,kara1473,Avar (Karakh dialect),1124,хъалиян,CyrillTrans,pipe,,,qaliyan,Phonemic
+8-690-31-1,kara1473,Avar (Karakh dialect),1689,тамакул кІкІуй,CyrillTrans,smoke (tobacco),,,tamakul k̄ʼuy,Phonemic
+8-680-31-1,kara1473,Avar (Karakh dialect),974,тамаку,CyrillTrans,tobacco,,,tamaku,Phonemic
+8-670-31-1,kara1473,Avar (Karakh dialect),343,цІулбол гІер,CyrillTrans,vine,,,cʼulbol ʕer,Phonemic
+8-660-31-1,kara1473,Avar (Karakh dialect),968,миккицІулакьу,CyrillTrans,acorn,,,mik̄icʼulaƛ̄ʼu,Phonemic
+8-650-31-1,kara1473,Avar (Karakh dialect),1915,йолка,CyrillTrans,fir,,,yolka,Phonemic
+8-640-31-1,kara1473,Avar (Karakh dialect),1740,накІкІигъветІ,CyrillTrans,pine,,,nak̄ʼiɣʷetʼ,Phonemic
+8-630-31-1,kara1473,Avar (Karakh dialect),1855,махІигъветІ,CyrillTrans,birch,,,maħiɣʷetʼ,Phonemic
+8-620-31-1,kara1473,Avar (Karakh dialect),1950,чинари,CyrillTrans,beech,,,činari,Phonemic
+8-610-31-1,kara1473,Avar (Karakh dialect),644,микк,CyrillTrans,oak,,,mik̄,Phonemic
+8-600-31-1,kara1473,Avar (Karakh dialect),906,гъветІ,CyrillTrans,tree,,,ɣʷetʼ,Phonemic
+8-570-31-1,kara1473,Avar (Karakh dialect),239,тІегь,CyrillTrans,flower,,,tʼeh,Phonemic
+8-560-31-1,kara1473,Avar (Karakh dialect),628,амахІ,CyrillTrans,leaf,,,"amaħ, tʼamaħ",Phonemic
+8-560-31-3,kara1473,Avar (Karakh dialect),628,тІамахІ,CyrillTrans,leaf,,,"amaħ, tʼamaħ",Phonemic
+8-550-31-1,kara1473,Avar (Karakh dialect),1531,гІанкьел,CyrillTrans,branch,,,ʕanƛ̄ʼel,Phonemic
+8-540-31-1,kara1473,Avar (Karakh dialect),670,кьибил,CyrillTrans,root,,,ƛ̄ʼibil,Phonemic
+8-531-31-1,kara1473,Avar (Karakh dialect),1486,гІезабузи,CyrillTrans,plant (vb),,,ʕezabuzi,Phonemic
+8-520-31-1,kara1473,Avar (Karakh dialect),342,букъар хер,CyrillTrans,hay,,,buqʼar xer,Phonemic
+8-530-31-1,kara1473,Avar (Karakh dialect),653,чІахІ-хер,CyrillTrans,plant (noun),,,čʼaħ-xer,Phonemic
+8-510-31-1,kara1473,Avar (Karakh dialect),606,хер,CyrillTrans,grass,,,xer,Phonemic
+8-480-31-1,kara1473,Avar (Karakh dialect),926,пиринчІ,CyrillTrans,rice,,,pirinčʼ,Phonemic
+8-470-31-1,kara1473,Avar (Karakh dialect),506,гъадали,CyrillTrans,"maize, corn",,,"ɣadali, cʼorosa roɬ̄",Phonemic
+8-470-31-3,kara1473,Avar (Karakh dialect),506,цІороса ролълъ,CyrillTrans,"maize, corn",,,"ɣadali, cʼorosa roɬ̄",Phonemic
+8-460-31-1,kara1473,Avar (Karakh dialect),60,ниха,CyrillTrans,oats,,,niħa,Phonemic
+8-450-31-1,kara1473,Avar (Karakh dialect),23,бугІа,CyrillTrans,rye,,,buʕa,Phonemic
+8-430-31-1,kara1473,Avar (Karakh dialect),1077,ролълъ,CyrillTrans,wheat,,,roɬ̄,Phonemic
+8-440-31-1,kara1473,Avar (Karakh dialect),932,охъ,CyrillTrans,barley,,,oq,Phonemic
+8-420-31-1,kara1473,Avar (Karakh dialect),605,мугь (охъ,CyrillTrans,"grain (barley, oats etc)",,,"muh (oq, niħa)",Phonemic
+8-420-31-3,kara1473,Avar (Karakh dialect),605,нихІа),CyrillTrans,"grain (barley, oats etc)",,,"muh (oq, niħa)",Phonemic
+8-410-31-1,kara1473,Avar (Karakh dialect),611,хъасел,CyrillTrans,"crop, harvest",,,qasel,Phonemic
+8-350-31-1,kara1473,Avar (Karakh dialect),223,гьоцІи,CyrillTrans,threshing-floor,,,hocʼi,Phonemic
+8-340-31-1,kara1473,Avar (Karakh dialect),285,хинзи,CyrillTrans,thresh,,,xinzi,Phonemic
+8-330-31-1,kara1473,Avar (Karakh dialect),2132,нилъ,CyrillTrans,"sickle, scythe",,,niɬ,Phonemic
+8-320-31-1,kara1473,Avar (Karakh dialect),190,хер хъвази,CyrillTrans,"mow, reap",,,xer qʷazi,Phonemic
+8-311-31-1,kara1473,Avar (Karakh dialect),714,хьом,CyrillTrans,seed,,,x̌om,Phonemic
+8-310-31-1,kara1473,Avar (Karakh dialect),748,хІур хьвези,CyrillTrans,sow,,,ħur x̌ʷezi,Phonemic
+8-270-31-1,kara1473,Avar (Karakh dialect),338,орханжо,CyrillTrans,rake,,,orxanžo,Phonemic
+8-260-31-1,kara1473,Avar (Karakh dialect),337,лъен,CyrillTrans,fork,,,ɬen,Phonemic
+8-250-31-1,kara1473,Avar (Karakh dialect),284,газа,CyrillTrans,hoe,,,gaza,Phonemic
+8-240-31-1,kara1473,Avar (Karakh dialect),1901,гьитІинаб бели,CyrillTrans,shovel,,,hit’inab beli,Phonemic
+8-230-31-1,kara1473,Avar (Karakh dialect),1176,бели,CyrillTrans,spade,,,beli,Phonemic
+8-212-31-1,kara1473,Avar (Karakh dialect),1794,рахъ,CyrillTrans,furrow,,,raq,Phonemic
+8-220-31-1,kara1473,Avar (Karakh dialect),1418,тІанкІзи,CyrillTrans,dig,,,tʼankʼzi,Phonemic
+8-210-31-1,kara1473,Avar (Karakh dialect),1921,хьвези,CyrillTrans,plow,,,x̌ʷezi,Phonemic
+8-170-31-1,kara1473,Avar (Karakh dialect),2002,хъитІ,CyrillTrans,ditch,,,qitʼ,Phonemic
+8-160-31-1,kara1473,Avar (Karakh dialect),1690,чали,CyrillTrans,fence,,,čali,Phonemic
+8-150-31-1,kara1473,Avar (Karakh dialect),1541,ракь бекьзи,CyrillTrans,"cultivate, till",,,raƛ̄ʼ beƛ̄ʼzi,Phonemic
+8-130-31-1,kara1473,Avar (Karakh dialect),586,ахІ,CyrillTrans,garden,,,aħ,Phonemic
+8-120-31-1,kara1473,Avar (Karakh dialect),212,хІур,CyrillTrans,field (for cultivation),,,ħur,Phonemic
+8-110-31-1,kara1473,Avar (Karakh dialect),979,фермер,CyrillTrans,farmer,,,fermer,Phonemic
+7-640-31-1,kara1473,Avar (Karakh dialect),901,хІачул къе,CyrillTrans,adobe,,,ħačul qʼe,Phonemic
+7-630-31-1,kara1473,Avar (Karakh dialect),224,киражул лълъим,CyrillTrans,mortar,,,kiražul ɬ̄im,Phonemic
+7-620-31-1,kara1473,Avar (Karakh dialect),1006,кирпич,CyrillTrans,brick,,,kirpič,Phonemic
+7-580-31-1,kara1473,Avar (Karakh dialect),876,кІамур,CyrillTrans,arch,,,kʼamur,Phonemic
+7-610-31-1,kara1473,Avar (Karakh dialect),877,къадал устар,CyrillTrans,mason,,,qʼadal ustar,Phonemic
+7-570-31-1,kara1473,Avar (Karakh dialect),1227,хъище,CyrillTrans,board,,,qiš̄e,Phonemic
+7-560-31-1,kara1473,Avar (Karakh dialect),281,хІиби,CyrillTrans,"post, pole",,,"ħibi, ħubi",Phonemic
+7-560-31-3,kara1473,Avar (Karakh dialect),281,хІуби,CyrillTrans,"post, pole",,,"ħibi, ħubi",Phonemic
+7-550-31-1,kara1473,Avar (Karakh dialect),1132,чІалу,CyrillTrans,beam,,,čʼalu,Phonemic
+7-540-31-1,kara1473,Avar (Karakh dialect),829,рихІи,CyrillTrans,rafter,,,riħi,Phonemic
+7-530-31-1,kara1473,Avar (Karakh dialect),280,чІирхъи,CyrillTrans,ridgepole,,,čʼirqi,Phonemic
+7-520-31-1,kara1473,Avar (Karakh dialect),279,къамшил охІ (тІохІ),CyrillTrans,thatch,,,qʼamšil oħ (tʼoħ),Phonemic
+7-510-31-1,kara1473,Avar (Karakh dialect),769,охІ,CyrillTrans,roof,,,"oħ, tʼoħ",Phonemic
+7-510-31-3,kara1473,Avar (Karakh dialect),769,тІохІ,CyrillTrans,roof,,,"oħ, tʼoħ",Phonemic
+7-480-31-1,kara1473,Avar (Karakh dialect),205,гумог,CyrillTrans,trough,,,gumog,Phonemic
+7-470-31-1,kara1473,Avar (Karakh dialect),745,кьогъен,CyrillTrans,shelf,,,ƛ̄ʼoɣen,Phonemic
+7-460-31-1,kara1473,Avar (Karakh dialect),1273,хІедул чирах,CyrillTrans,candle,,,ħedul čirax,Phonemic
+7-450-31-1,kara1473,Avar (Karakh dialect),2131,чирах,CyrillTrans,"lamp, torch",,,čirax,Phonemic
+7-440-31-1,kara1473,Avar (Karakh dialect),1775,стол,CyrillTrans,table,,,stol,Phonemic
+7-430-31-1,kara1473,Avar (Karakh dialect),1476,бакІ,CyrillTrans,chair,,,bakʼ,Phonemic
+7-422-31-1,kara1473,Avar (Karakh dialect),806,юргъан,CyrillTrans,blanket,,,yurɣan,Phonemic
+7-421-31-1,kara1473,Avar (Karakh dialect),1044,къаналъу,CyrillTrans,pillow,,,qʼanaɬu,Phonemic
+7-420-31-1,kara1473,Avar (Karakh dialect),1663,тах,CyrillTrans,bed,,,"tax, krawat",Phonemic
+7-420-31-3,kara1473,Avar (Karakh dialect),1663,крават,CyrillTrans,bed,,,"tax, krawat",Phonemic
+7-370-31-1,kara1473,Avar (Karakh dialect),1464,мили,CyrillTrans,ladder,,,"mili, buɬo",Phonemic
+7-370-31-3,kara1473,Avar (Karakh dialect),1464,булъо,CyrillTrans,ladder,,,"mili, buɬo",Phonemic
+7-330-31-1,kara1473,Avar (Karakh dialect),1305,бухари,CyrillTrans,chimney,,,buxari,Phonemic
+7-320-31-1,kara1473,Avar (Karakh dialect),859,печ,CyrillTrans,stove,,,peč,Phonemic
+7-310-31-1,kara1473,Avar (Karakh dialect),185,бухари,CyrillTrans,fireplace,,,buxari,Phonemic
+7-270-31-1,kara1473,Avar (Karakh dialect),933,къе,CyrillTrans,wall,,,qʼe,Phonemic
+7-260-31-1,kara1473,Avar (Karakh dialect),1632,пол,CyrillTrans,floor,,,pol,Phonemic
+7-250-31-1,kara1473,Avar (Karakh dialect),1375,горди,CyrillTrans,window,,,"gordi, gordu",Phonemic
+7-250-31-3,kara1473,Avar (Karakh dialect),1375,горду,CyrillTrans,window,,,"gordi, gordu",Phonemic
+7-240-31-1,kara1473,Avar (Karakh dialect),1472,кІул,CyrillTrans,key,,,kʼul,Phonemic
+7-231-31-1,kara1473,Avar (Karakh dialect),1012,къоно,CyrillTrans,"latch, door-bolt",,,qʼono,Phonemic
+7-230-31-1,kara1473,Avar (Karakh dialect),1596,кІулал,CyrillTrans,lock (noun),,,kʼulal,Phonemic
+7-221-31-1,kara1473,Avar (Karakh dialect),80,нуцІадул нухІди,CyrillTrans,"doorpost, jamb",,,nucʼadul nuħdi,Phonemic
+7-210-31-1,kara1473,Avar (Karakh dialect),1450,рокъ,CyrillTrans,room,,,roqʼ,Phonemic
+7-220-31-1,kara1473,Avar (Karakh dialect),1567,каву,CyrillTrans,"door, gate",,,kawu,Phonemic
+7-180-31-1,kara1473,Avar (Karakh dialect),335,данделъиялъул рокъ,CyrillTrans,meeting house,,,dandeɬiyaɬul roqʼ,Phonemic
+7-170-31-1,kara1473,Avar (Karakh dialect),334,квин гьабун рокъ,CyrillTrans,cookhouse,,,kʷin habun roqʼ,Phonemic
+7-160-31-1,kara1473,Avar (Karakh dialect),408,бихьиназул рокъ,CyrillTrans,men's house,,,bix̌inazul roqʼ,Phonemic
+7-150-31-1,kara1473,Avar (Karakh dialect),736,азбар,CyrillTrans,"yard, court",,,azbar,Phonemic
+7-140-31-1,kara1473,Avar (Karakh dialect),1316,чидир,CyrillTrans,tent,,,"čidir, čadir",Phonemic
+7-140-31-3,kara1473,Avar (Karakh dialect),1316,чадир,CyrillTrans,tent,,,"čidir, čadir",Phonemic
+7-131-31-1,kara1473,Avar (Karakh dialect),403,хІуриб бараб рокъ,CyrillTrans,garden-house,,,ħurib barab roqʼ,Phonemic
+7-130-31-1,kara1473,Avar (Karakh dialect),1678,паж,CyrillTrans,hut,,,paž,Phonemic
+7-120-31-1,kara1473,Avar (Karakh dialect),1252,рокъ,CyrillTrans,house,,,roqʼ,Phonemic
+7-110-31-1,kara1473,Avar (Karakh dialect),363,гІумру гьабузи,CyrillTrans,"dwell, live",,,ʕumru habuzi,Phonemic
+6-960-31-1,kara1473,Avar (Karakh dialect),1171,мутІу,CyrillTrans,mirror,,,"mutʼu, matʼu",Phonemic
+6-960-31-3,kara1473,Avar (Karakh dialect),1171,матІу,CyrillTrans,mirror,,,"mutʼu, matʼu",Phonemic
+6-950-31-1,kara1473,Avar (Karakh dialect),788,сапун,CyrillTrans,soap,,,sapun,Phonemic
+6-940-31-1,kara1473,Avar (Karakh dialect),1926,маз,CyrillTrans,ointment,,,maz,Phonemic
+6-930-31-1,kara1473,Avar (Karakh dialect),151,мигеж кІкІван жо,CyrillTrans,razor,,,migež k̄ʼʷan žo,Phonemic
+6-921-31-1,kara1473,Avar (Karakh dialect),333,нилъ,CyrillTrans,braid,,,niɬ,Phonemic
+6-920-31-1,kara1473,Avar (Karakh dialect),1821,гьукьо,CyrillTrans,brush,,,huƛ̄ʼo,Phonemic
+6-910-31-1,kara1473,Avar (Karakh dialect),1475,гьукьо,CyrillTrans,comb,,,huƛ̄ʼo,Phonemic
+6-820-31-1,kara1473,Avar (Karakh dialect),1021,квербацІ,CyrillTrans,towel,,,kʷerbacʼ,Phonemic
+6-810-31-1,kara1473,Avar (Karakh dialect),332,шумашбацІ,CyrillTrans,"handkerchief, rag",,,šumašbacʼ,Phonemic
+6-780-31-1,kara1473,Avar (Karakh dialect),330,гІадал лъуни угъур,CyrillTrans,"headband, headdress",,,ʕadal ɬuni uɣur,Phonemic
+6-770-31-1,kara1473,Avar (Karakh dialect),770,гІунтІамун жал,CyrillTrans,earring,,,ʕuntʼamun žal,Phonemic
+6-760-31-1,kara1473,Avar (Karakh dialect),1860,махх,CyrillTrans,bead,,,"max̄, max̄al",Phonemic
+6-760-31-3,kara1473,Avar (Karakh dialect),1860,маххал,CyrillTrans,bead,,,"max̄, max̄al",Phonemic
+6-750-31-1,kara1473,Avar (Karakh dialect),1961,маххал,CyrillTrans,necklace,,,max̄al,Phonemic
+6-740-31-1,kara1473,Avar (Karakh dialect),1754,хьурхьин,CyrillTrans,bracelet,,,"x̌urx̌in, kurx̌in",Phonemic
+6-740-31-3,kara1473,Avar (Karakh dialect),1754,курхьин,CyrillTrans,bracelet,,,"x̌urx̌in, kurx̌in",Phonemic
+6-730-31-1,kara1473,Avar (Karakh dialect),1374,баргъич,CyrillTrans,ring (for finger),,,barɣič,Phonemic
+6-720-31-1,kara1473,Avar (Karakh dialect),1029,хираяб гІуцІ,CyrillTrans,jewel,,,xirayab ʕucʼ,Phonemic
+6-710-31-1,kara1473,Avar (Karakh dialect),917,накъиш,CyrillTrans,"ornament, adornment",,,naqʼiš,Phonemic
+6-630-31-1,kara1473,Avar (Karakh dialect),64,тІукІкІин,CyrillTrans,pin,,,tʼuk̄ʼin,Phonemic
+6-620-31-1,kara1473,Avar (Karakh dialect),757,бекІ,CyrillTrans,button,,,"bekʼ, kʼičʼ",Phonemic
+6-620-31-3,kara1473,Avar (Karakh dialect),757,кІичІ,CyrillTrans,button,,,"bekʼ, kʼičʼ",Phonemic
+6-610-31-1,kara1473,Avar (Karakh dialect),1851,чинт,CyrillTrans,pocket,,,čint,Phonemic
+6-590-31-1,kara1473,Avar (Karakh dialect),1151,бадибигъ,CyrillTrans,veil,,,badibiɣ,Phonemic
+6-580-31-1,kara1473,Avar (Karakh dialect),867,кугъел,CyrillTrans,glove,,,"kuɣel, kuɣlal",Phonemic
+6-580-31-3,kara1473,Avar (Karakh dialect),867,кугълал,CyrillTrans,glove,,,"kuɣel, kuɣlal",Phonemic
+6-570-31-1,kara1473,Avar (Karakh dialect),772,къвал,CyrillTrans,"belt, girdle",,,"qʼʷal, ričel",Phonemic
+6-570-31-3,kara1473,Avar (Karakh dialect),772,ричел,CyrillTrans,"belt, girdle",,,"qʼʷal, ričel",Phonemic
+6-550-31-1,kara1473,Avar (Karakh dialect),2130,шляпа,CyrillTrans,"hat, cap",,,šlyapa,Phonemic
+6-540-31-1,kara1473,Avar (Karakh dialect),875,хьатал рокъун чи,CyrillTrans,"shoemaker, cobbler",,,x̌atal roqʼun či,Phonemic
+6-510-31-1,kara1473,Avar (Karakh dialect),1381,хьит,CyrillTrans,shoe,,,x̌it,Phonemic
+6-520-31-1,kara1473,Avar (Karakh dialect),585,хинаб хьит,CyrillTrans,boot,,,xinab x̌it,Phonemic
+6-490-31-1,kara1473,Avar (Karakh dialect),329,ункьал,CyrillTrans,"stocking, sock",,,unƛ̄ʼal,Phonemic
+6-480-31-1,kara1473,Avar (Karakh dialect),809,ужу,CyrillTrans,trousers,,,"užu, tʼažu",Phonemic
+6-480-31-3,kara1473,Avar (Karakh dialect),809,тІажу,CyrillTrans,trousers,,,"užu, tʼažu",Phonemic
+6-461-31-1,kara1473,Avar (Karakh dialect),328,тІамхІазул юбка,CyrillTrans,grass-skirt,,,tʼamħazul yubka,Phonemic
+6-460-31-1,kara1473,Avar (Karakh dialect),1600,юбка,CyrillTrans,skirt,,,yubka,Phonemic
+6-450-31-1,kara1473,Avar (Karakh dialect),2012,кунтил габур,CyrillTrans,collar,,,kuntil gabur,Phonemic
+6-440-31-1,kara1473,Avar (Karakh dialect),1622,кунта,CyrillTrans,shirt,,,kunta,Phonemic
+6-430-31-1,kara1473,Avar (Karakh dialect),603,пальто,CyrillTrans,coat,,,palʲto,Phonemic
+6-420-31-1,kara1473,Avar (Karakh dialect),474,руччабазул кунта,CyrillTrans,woman's dress,,,ruč̄abazul kunta,Phonemic
+6-390-31-1,kara1473,Avar (Karakh dialect),157,сир,CyrillTrans,dye,,,sir,Phonemic
+6-410-31-1,kara1473,Avar (Karakh dialect),326,чухъа,CyrillTrans,cloak,,,čuqa,Phonemic
+6-380-31-1,kara1473,Avar (Karakh dialect),1161,квар,CyrillTrans,thread,,,kʷar,Phonemic
+6-360-31-1,kara1473,Avar (Karakh dialect),1382,тІукІкІин,CyrillTrans,needle,,,tʼuk̄ʼin,Phonemic
+6-370-31-1,kara1473,Avar (Karakh dialect),278,гІебу,CyrillTrans,awl,,,ʕebu,Phonemic
+6-350-31-1,kara1473,Avar (Karakh dialect),1457,бокъзи,CyrillTrans,sew,,,boqʼzi,Phonemic
+6-340-31-1,kara1473,Avar (Karakh dialect),1787,ххам бессуниб станок,CyrillTrans,loom,,,x̄am bes̄unib stanok,Phonemic
+6-330-31-1,kara1473,Avar (Karakh dialect),133,хьухьзи,CyrillTrans,weave,,,x̌ux̌zi,Phonemic
+6-320-31-1,kara1473,Avar (Karakh dialect),277,мергу,CyrillTrans,spindle,,,mergu,Phonemic
+6-310-31-1,kara1473,Avar (Karakh dialect),121,багьзи,CyrillTrans,spin,,,bahzi,Phonemic
+6-290-31-1,kara1473,Avar (Karakh dialect),629,цІоко,CyrillTrans,leather,,,"cʼoko, qʼex̌",Phonemic
+6-290-31-3,kara1473,Avar (Karakh dialect),629,къехь,CyrillTrans,leather,,,"cʼoko, qʼex̌",Phonemic
+6-280-31-1,kara1473,Avar (Karakh dialect),580,къехь,CyrillTrans,fur,,,qʼex̌,Phonemic
+6-270-31-1,kara1473,Avar (Karakh dialect),325,буртна,CyrillTrans,felt,,,burtna,Phonemic
+6-250-31-1,kara1473,Avar (Karakh dialect),1641,ипак,CyrillTrans,silk,,,"ipak, daray",Phonemic
+6-250-31-3,kara1473,Avar (Karakh dialect),1641,дарай,CyrillTrans,silk,,,"ipak, daray",Phonemic
+6-240-31-1,kara1473,Avar (Karakh dialect),1850,квас-квас,CyrillTrans,cotton,,,"kʷas-kʷas, pampaɬul x̄am",Phonemic
+6-240-31-3,kara1473,Avar (Karakh dialect),1850,пампалъул ххам,CyrillTrans,cotton,,,"kʷas-kʷas, pampaɬul x̄am",Phonemic
+6-230-31-1,kara1473,Avar (Karakh dialect),916,лъулъогьушалъул ххам,CyrillTrans,"linen, flax",,,"ɬuɬohušaɬul x̄am, ɬeɬ",Phonemic
+6-230-31-3,kara1473,Avar (Karakh dialect),916,лъелъ,CyrillTrans,"linen, flax",,,"ɬuɬohušaɬul x̄am, ɬeɬ",Phonemic
+6-220-31-1,kara1473,Avar (Karakh dialect),964,кусул ххам,CyrillTrans,wool,,,"kusul x̄am, kʷasul x̄am",Phonemic
+6-220-31-3,kara1473,Avar (Karakh dialect),964,квасул ххам,CyrillTrans,wool,,,"kusul x̄am, kʷasul x̄am",Phonemic
+6-210-31-1,kara1473,Avar (Karakh dialect),1616,ххам,CyrillTrans,cloth,,,x̄am,Phonemic
+6-130-31-1,kara1473,Avar (Karakh dialect),881,ратІлал устар,CyrillTrans,tailor,,,ratʼlal ustar,Phonemic
+6-120-31-1,kara1473,Avar (Karakh dialect),1895,ритІел,CyrillTrans,"clothing, clothes",,,ritʼel,Phonemic
+6-110-31-1,kara1473,Avar (Karakh dialect),158,ад риинзи,CyrillTrans,put on (clothes),,,"ad riʔinzi, tʼad ritʼezi",Phonemic
+6-110-31-3,kara1473,Avar (Karakh dialect),158,тІад ритІези,CyrillTrans,put on (clothes),,,"ad riʔinzi, tʼad ritʼezi",Phonemic
+5-971-31-1,kara1473,Avar (Karakh dialect),1556,хІинил ракІ,CyrillTrans,egg yolk,,,ħinil rakʼ,Phonemic
+5-970-31-1,kara1473,Avar (Karakh dialect),744,хІуно,CyrillTrans,egg,,,ħuno,Phonemic
+5-940-31-1,kara1473,Avar (Karakh dialect),404,чІагІа,CyrillTrans,fermented drink,,,čʼaʕa,Phonemic
+5-930-31-1,kara1473,Avar (Karakh dialect),1639,пиво,CyrillTrans,beer,,,piwo,Phonemic
+5-920-31-1,kara1473,Avar (Karakh dialect),1524,чагъир,CyrillTrans,wine,,,čaɣir,Phonemic
+5-910-31-1,kara1473,Avar (Karakh dialect),941,гьицІил гьекъел,CyrillTrans,mead,,,hicʼil heq’el,Phonemic
+5-900-31-1,kara1473,Avar (Karakh dialect),731,лълъим,CyrillTrans,"beverage, drink",,,ɬ̄im,Phonemic
+5-890-31-1,kara1473,Avar (Karakh dialect),1245,тІитІмаб нахІ,CyrillTrans,butter,,,tʼitʼmab naħ,Phonemic
+5-880-31-1,kara1473,Avar (Karakh dialect),1569,хІан,CyrillTrans,cheese,,,ħan,Phonemic
+5-870-31-1,kara1473,Avar (Karakh dialect),93,бечІзи,CyrillTrans,milk (vb),,,bečʼzi,Phonemic
+5-850-31-1,kara1473,Avar (Karakh dialect),862,чикар,CyrillTrans,sugar,,,"čikar, čakar",Phonemic
+5-850-31-3,kara1473,Avar (Karakh dialect),862,чакар,CyrillTrans,sugar,,,"čikar, čakar",Phonemic
+5-860-31-1,kara1473,Avar (Karakh dialect),635,рахь,CyrillTrans,milk (noun),,,rax̌,Phonemic
+5-840-31-1,kara1473,Avar (Karakh dialect),942,гьуцІо,CyrillTrans,honey,,,hucʼo,Phonemic
+5-821-31-1,kara1473,Avar (Karakh dialect),919,кІал бохІули исиот,CyrillTrans,chili pepper,,,kʼal boħuli isiot,Phonemic
+5-820-31-1,kara1473,Avar (Karakh dialect),1385,исиот,CyrillTrans,pepper,,,isiot,Phonemic
+5-810-31-1,kara1473,Avar (Karakh dialect),1274,цІам,CyrillTrans,salt,,,cʼam,Phonemic
+5-791-31-1,kara1473,Avar (Karakh dialect),323,кьаралъи,CyrillTrans,"grease, fat",,,ƛ̄ʼaraɬi,Phonemic
+5-790-31-1,kara1473,Avar (Karakh dialect),1484,семечкадул нахІ,CyrillTrans,oil,,,semečkadul naħ,Phonemic
+5-780-31-1,kara1473,Avar (Karakh dialect),1154,зайтун,CyrillTrans,olive,,,zaytun,Phonemic
+5-760-31-1,kara1473,Avar (Karakh dialect),920,цІибил,CyrillTrans,grape,,,cʼibil,Phonemic
+5-770-31-1,kara1473,Avar (Karakh dialect),191,микк,CyrillTrans,nut,,,"mik̄, cʼulaƛ̄ʼu",Phonemic
+5-770-31-3,kara1473,Avar (Karakh dialect),191,цІулакьу,CyrillTrans,nut,,,"mik̄, cʼulaƛ̄ʼu",Phonemic
+5-750-31-1,kara1473,Avar (Karakh dialect),322,инжир,CyrillTrans,fig,,,inžir,Phonemic
+5-712-31-1,kara1473,Avar (Karakh dialect),1966,хьоп,CyrillTrans,bunch,,,x̌op,Phonemic
+5-710-31-1,kara1473,Avar (Karakh dialect),1507,гІич,CyrillTrans,fruit,,,ʕič,Phonemic
+5-700-31-1,kara1473,Avar (Karakh dialect),593,кІатІупал,CyrillTrans,potato,,,"kʼatʼupal, ʕurus tʼim",Phonemic
+5-700-31-3,kara1473,Avar (Karakh dialect),593,гІурус тІим,CyrillTrans,potato,,,"kʼatʼupal, ʕurus tʼim",Phonemic
+5-660-31-1,kara1473,Avar (Karakh dialect),832,чар-гьуло,CyrillTrans,bean,,,čar-hulo,Phonemic
+5-650-31-1,kara1473,Avar (Karakh dialect),924,пастІаби,CyrillTrans,vegetables,,,"pastʼabi, piq-mičʼ",Phonemic
+5-650-31-3,kara1473,Avar (Karakh dialect),924,пихъ-мичІ,CyrillTrans,vegetables,,,"pastʼabi, piq-mičʼ",Phonemic
+5-640-31-1,kara1473,Avar (Karakh dialect),1547,каш,CyrillTrans,"soup, broth",,,kaš,Phonemic
+5-630-31-1,kara1473,Avar (Karakh dialect),1874,цІураб бакь,CyrillTrans,sausage,,,cʼurab baƛ̄ʼ,Phonemic
+5-610-31-1,kara1473,Avar (Karakh dialect),634,гьан,CyrillTrans,meat,,,han,Phonemic
+5-590-31-1,kara1473,Avar (Karakh dialect),225,ражибух,CyrillTrans,pestle,,,ražibux,Phonemic
+5-580-31-1,kara1473,Avar (Karakh dialect),224,кверду гьиби,CyrillTrans,mortar (2),,,kʷerdu hibi,Phonemic
+5-570-31-1,kara1473,Avar (Karakh dialect),636,гьиби,CyrillTrans,mill,,,hibi,Phonemic
+5-560-31-1,kara1473,Avar (Karakh dialect),1033,гъурзи,CyrillTrans,"crush, grind",,,ɣurzi,Phonemic
+5-550-31-1,kara1473,Avar (Karakh dialect),1594,гІатІ,CyrillTrans,"meal, flour",,,ʕatʼ,Phonemic
+5-540-31-1,kara1473,Avar (Karakh dialect),274,гІатІ багъарзи,CyrillTrans,knead,,,ʕatʼ baɣarzi,Phonemic
+5-530-31-1,kara1473,Avar (Karakh dialect),273,гІатІ,CyrillTrans,dough,,,ʕatʼ,Phonemic
+5-510-31-1,kara1473,Avar (Karakh dialect),1368,чед,CyrillTrans,bread,,,čed,Phonemic
+5-490-31-1,kara1473,Avar (Karakh dialect),2017,багъарзи,CyrillTrans,"stir, mix",,,baɣarzi,Phonemic
+5-480-31-1,kara1473,Avar (Karakh dialect),1767,зурзи,CyrillTrans,scrape,,,zurzi,Phonemic
+5-470-31-1,kara1473,Avar (Karakh dialect),86,цІалкІизи,CyrillTrans,"sieve, strain",,,"cʼalk’zi, cʼuzi",Phonemic
+5-470-31-3,kara1473,Avar (Karakh dialect),86,цІузи,CyrillTrans,"sieve, strain",,,"cʼalk’zi, cʼuzi",Phonemic
+5-460-31-1,kara1473,Avar (Karakh dialect),275,бацІа гьабузи,CyrillTrans,peel,,,bacʼa habuzi,Phonemic
+5-450-31-1,kara1473,Avar (Karakh dialect),1833,маркІачІул квен,CyrillTrans,supper,,,markʼačʼul kʷen,Phonemic
+5-440-31-1,kara1473,Avar (Karakh dialect),1833,къадиквен,CyrillTrans,dinner,,,qʼadikʷen,Phonemic
+5-420-31-1,kara1473,Avar (Karakh dialect),1322,рогьалъ квен,CyrillTrans,breakfast,,,rohaɬ kʷen,Phonemic
+5-410-31-1,kara1473,Avar (Karakh dialect),1526,квен,CyrillTrans,meal (a),,,"kʷen, kunaй",Phonemic
+5-410-31-3,kara1473,Avar (Karakh dialect),1526,кунай,CyrillTrans,meal (a),,,"kʷen, kunaй",Phonemic
+5-391-31-1,kara1473,Avar (Karakh dialect),272,гъецІ,CyrillTrans,tongs,,,ɣecʼ,Phonemic
+5-390-31-1,kara1473,Avar (Karakh dialect),1302,гІучІ,CyrillTrans,fork (2),,,ʕučʼ,Phonemic
+5-380-31-1,kara1473,Avar (Karakh dialect),1352,нус,CyrillTrans,knife (2),,,nus,Phonemic
+5-370-31-1,kara1473,Avar (Karakh dialect),1378,бугьун,CyrillTrans,spoon,,,buhun,Phonemic
+5-360-31-1,kara1473,Avar (Karakh dialect),271,бурма,CyrillTrans,saucer,,,"burma, nalik",Phonemic
+5-360-31-3,kara1473,Avar (Karakh dialect),271,налик,CyrillTrans,saucer,,,"burma, nalik",Phonemic
+5-350-31-1,kara1473,Avar (Karakh dialect),476,курушка,CyrillTrans,"cup, drinking vessel",,,kuruška,Phonemic
+5-330-31-1,kara1473,Avar (Karakh dialect),1530,рагІ,CyrillTrans,bowl,,,raʕ,Phonemic
+5-340-31-1,kara1473,Avar (Karakh dialect),270,гІуретІ,CyrillTrans,"pitcher, jug",,,ʕuretʼ,Phonemic
+5-320-31-1,kara1473,Avar (Karakh dialect),480,рагІ,CyrillTrans,plate,,,raʕ,Phonemic
+5-310-31-1,kara1473,Avar (Karakh dialect),481,рагІ,CyrillTrans,dish,,,raʕ,Phonemic
+5-280-31-1,kara1473,Avar (Karakh dialect),31,хьаг,CyrillTrans,pan,,,x̌ag,Phonemic
+5-260-31-1,kara1473,Avar (Karakh dialect),1462,хъаг,CyrillTrans,"pot, cooking vessel",,,"qag, xazam",Phonemic
+5-260-31-3,kara1473,Avar (Karakh dialect),1462,хазам,CyrillTrans,"pot, cooking vessel",,,"qag, xazam",Phonemic
+5-270-31-1,kara1473,Avar (Karakh dialect),854,чайник,CyrillTrans,kettle,,,čaynik,Phonemic
+5-240-31-1,kara1473,Avar (Karakh dialect),183,бежзи,CyrillTrans,bake,,,bežzi,Phonemic
+5-250-31-1,kara1473,Avar (Karakh dialect),1143,бежзи,CyrillTrans,oven,,,peč,Phonemic
+5-230-31-1,kara1473,Avar (Karakh dialect),2146,бежзи,CyrillTrans,"roast, fry",,,bežzi,Phonemic
+5-220-31-1,kara1473,Avar (Karakh dialect),792,гьализи,CyrillTrans,boil (vb),,,halizi,Phonemic
+5-210-31-1,kara1473,Avar (Karakh dialect),1100,белъзи,CyrillTrans,cook,,,beɬzi,Phonemic
+5-190-31-1,kara1473,Avar (Karakh dialect),129,гъанкъизи,CyrillTrans,choke,,,ɣanqʼizi,Phonemic
+5-181-31-1,kara1473,Avar (Karakh dialect),897,гІункъзи,CyrillTrans,swallow,,,ʕunqʼzi,Phonemic
+5-180-31-1,kara1473,Avar (Karakh dialect),321,чІимзи,CyrillTrans,chew,,,čʼimzi,Phonemic
+5-160-31-1,kara1473,Avar (Karakh dialect),1421,хІахІзи,CyrillTrans,suck,,,"ħaħzi, cʼuzi",Phonemic
+5-160-31-3,kara1473,Avar (Karakh dialect),1421,цІузи,CyrillTrans,suck,,,"ħaħzi, cʼuzi",Phonemic
+5-150-31-1,kara1473,Avar (Karakh dialect),848,гІекълъи,CyrillTrans,thirst,,,ʕeqʼɬi,Phonemic
+5-141-31-1,kara1473,Avar (Karakh dialect),199,ракъунчІей,CyrillTrans,famine,,,"raqʼunčʼey, raqʼi",Phonemic
+5-141-31-3,kara1473,Avar (Karakh dialect),199,ракъи,CyrillTrans,famine,,,"raqʼunčʼey, raqʼi",Phonemic
+5-140-31-1,kara1473,Avar (Karakh dialect),1864,вакъи,CyrillTrans,hunger,,,waqʼi,Phonemic
+5-130-31-1,kara1473,Avar (Karakh dialect),1401,гьекъези,CyrillTrans,drink,,,"heqʼezi, qʼulozi",Phonemic
+5-130-31-3,kara1473,Avar (Karakh dialect),1401,къулози,CyrillTrans,drink,,,"heqʼezi, qʼulozi",Phonemic
+5-125-31-1,kara1473,Avar (Karakh dialect),1728,махІцараб,CyrillTrans,rotten,,,maħcarab,Phonemic
+5-124-31-1,kara1473,Avar (Karakh dialect),1958,гІурччинаб,CyrillTrans,"green, unripe",,,"ʕurč̄inab, barš̄čʼab",Phonemic
+5-124-31-3,kara1473,Avar (Karakh dialect),1958,барщчІаб,CyrillTrans,"green, unripe",,,"ʕurč̄inab, barš̄čʼab",Phonemic
+5-123-31-1,kara1473,Avar (Karakh dialect),178,барщараб,CyrillTrans,ripe,,,barš̄arab,Phonemic
+5-122-31-1,kara1473,Avar (Karakh dialect),1959,гІатІаб,CyrillTrans,raw,,,"ʕatʼab, bežčʼab",Phonemic
+5-122-31-3,kara1473,Avar (Karakh dialect),1959,бежчІаб,CyrillTrans,raw,,,"ʕatʼab, bežčʼab",Phonemic
+5-121-31-1,kara1473,Avar (Karakh dialect),269,белъараб,CyrillTrans,cooked,,,beɬarab,Phonemic
+5-120-31-1,kara1473,Avar (Karakh dialect),256,квен,CyrillTrans,food,,,kʷen,Phonemic
+5-110-31-1,kara1473,Avar (Karakh dialect),1336,кунази,CyrillTrans,eat,,,"kunazi, kʼaldib žo ɬezi",Phonemic
+5-110-31-3,kara1473,Avar (Karakh dialect),1336,кІалдиб жо лъези,CyrillTrans,eat,,,"kunazi, kʼaldib žo ɬezi",Phonemic
+4-990-31-1,kara1473,Avar (Karakh dialect),590,гІицІав,CyrillTrans,"naked, bare",,,"ʕicʼaw, tuloħučoraw",Phonemic
+4-990-31-3,kara1473,Avar (Karakh dialect),590,тулохІучорав,CyrillTrans,"naked, bare",,,"ʕicʼaw, tuloħučoraw",Phonemic
+4-970-31-1,kara1473,Avar (Karakh dialect),1653,беццав,CyrillTrans,blind,,,bec̄aw,Phonemic
+4-980-31-1,kara1473,Avar (Karakh dialect),1463,гьекъарав,CyrillTrans,intoxicated,,,"heqʼaraw, mextaraw",Phonemic
+4-980-31-3,kara1473,Avar (Karakh dialect),1463,мехтарав,CyrillTrans,intoxicated,,,"heqʼaraw, mextaraw",Phonemic
+4-960-31-1,kara1473,Avar (Karakh dialect),1666,мацІ лъаларев,CyrillTrans,mute,,,macʼ ɬalarew,Phonemic
+4-950-31-1,kara1473,Avar (Karakh dialect),996,гІинкъав,CyrillTrans,deaf,,,ʕinqʼaw,Phonemic
+4-930-31-1,kara1473,Avar (Karakh dialect),1125,бетІер цІвакарав,CyrillTrans,bald,,,betʼer cʼʷakaraw,Phonemic
+4-940-31-1,kara1473,Avar (Karakh dialect),320,лекълъзи,CyrillTrans,lame,,,leqʼɬzi,Phonemic
+4-920-31-1,kara1473,Avar (Karakh dialect),1564,кІвахІалав,CyrillTrans,lazy,,,kʼʷaħalaw,Phonemic
+4-912-31-1,kara1473,Avar (Karakh dialect),168,рахІат гьабузи,CyrillTrans,rest,,,raħat habuzi,Phonemic
+4-910-31-1,kara1473,Avar (Karakh dialect),1757,свакарав,CyrillTrans,"tired, weary",,,sʷakaraw,Phonemic
+4-890-31-1,kara1473,Avar (Karakh dialect),655,загьру,CyrillTrans,poison,,,zahru,Phonemic
+4-880-31-1,kara1473,Avar (Karakh dialect),1372,дару,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-31-3,kara1473,Avar (Karakh dialect),1372,дарман,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-880-31-5,kara1473,Avar (Karakh dialect),1372,сабаб,CyrillTrans,"medicine, drug",,,"daru, darman, sabab",Phonemic
+4-870-31-1,kara1473,Avar (Karakh dialect),597,тохтур,CyrillTrans,physician,,,"toxtur, wrač",Phonemic
+4-870-31-3,kara1473,Avar (Karakh dialect),597,врач,CyrillTrans,physician,,,"toxtur, wrač",Phonemic
+4-860-31-1,kara1473,Avar (Karakh dialect),499,мадарлъзи гьавузи,CyrillTrans,"cure, heal",,,madarɬzi hawuzi,Phonemic
+4-858-31-1,kara1473,Avar (Karakh dialect),497,гІуж,CyrillTrans,scar,,,ʕuž,Phonemic
+4-857-31-1,kara1473,Avar (Karakh dialect),1808,рецІ,CyrillTrans,pus,,,recʼ,Phonemic
+4-856-31-1,kara1473,Avar (Karakh dialect),793,рецІ квей,CyrillTrans,boil (noun),,,recʼ kʷey,Phonemic
+4-855-31-1,kara1473,Avar (Karakh dialect),1584,лъадал къучІа,CyrillTrans,blister,,,ɬadal qʼučʼa,Phonemic
+4-854-31-1,kara1473,Avar (Karakh dialect),148,сороди,CyrillTrans,itch,,,sorodi,Phonemic
+4-853-31-1,kara1473,Avar (Karakh dialect),1903,гьорой,CyrillTrans,swelling,,,horoy,Phonemic
+4-852-31-1,kara1473,Avar (Karakh dialect),1148,цІай кей,CyrillTrans,bruise,,,cʼay key,Phonemic
+4-850-31-1,kara1473,Avar (Karakh dialect),1109,ругъун,CyrillTrans,"wound, sore",,,ruɣun,Phonemic
+4-843-31-1,kara1473,Avar (Karakh dialect),102,унти,CyrillTrans,cold (catarrh),,,unti,Phonemic
+4-842-31-1,kara1473,Avar (Karakh dialect),1957,мукъулукъ,CyrillTrans,goiter,,,muqʼuluqʼ,Phonemic
+4-841-31-1,kara1473,Avar (Karakh dialect),1534,цІа,CyrillTrans,fever,,,"cʼa, cʼadužani ɬezi",Phonemic
+4-841-31-3,kara1473,Avar (Karakh dialect),1534,цІадужани лъези,CyrillTrans,fever,,,"cʼa, cʼadužani ɬezi",Phonemic
+4-840-31-1,kara1473,Avar (Karakh dialect),1847,унтарав,CyrillTrans,"sick, sickness",,,"untaraw, unti",Phonemic
+4-840-31-3,kara1473,Avar (Karakh dialect),1847,унти,CyrillTrans,"sick, sickness",,,"untaraw, unti",Phonemic
+4-830-31-1,kara1473,Avar (Karakh dialect),1364,хІал бугав,CyrillTrans,"well, health",,,"ħal bugаw, saxɬi bugaw, saxaw, saxɬi",Phonemic
+4-830-31-3,kara1473,Avar (Karakh dialect),1364,сахлъи бугав,CyrillTrans,"well, health",,,"ħal bugаw, saxɬi bugaw, saxaw, saxɬi",Phonemic
+4-830-31-5,kara1473,Avar (Karakh dialect),1364,cахав,CyrillTrans,"well, health",,,"ħal bugаw, saxɬi bugaw, saxaw, saxɬi",Phonemic
+4-830-31-7,kara1473,Avar (Karakh dialect),1364,сахлъи,CyrillTrans,"well, health",,,"ħal bugаw, saxɬi bugaw, saxaw, saxɬi",Phonemic
+4-820-31-1,kara1473,Avar (Karakh dialect),1601,рухІ гьечІав,CyrillTrans,weak,,,"ruħ hečʼaw, zaʕipaw",Phonemic
+4-820-31-3,kara1473,Avar (Karakh dialect),1601,загІипав,CyrillTrans,weak,,,"ruħ hečʼaw, zaʕipaw",Phonemic
+4-810-31-1,kara1473,Avar (Karakh dialect),785,бергьарав,CyrillTrans,"strong, mighty, powerful",,,"berharaw, q’uwataw",Phonemic
+4-810-31-3,kara1473,Avar (Karakh dialect),785,къуватав,CyrillTrans,"strong, mighty, powerful",,,"berharaw, q’uwataw",Phonemic
+4-790-31-1,kara1473,Avar (Karakh dialect),1773,хІуб,CyrillTrans,"grave, tomb",,,ħub,Phonemic
+4-780-31-1,kara1473,Avar (Karakh dialect),1719,вукъзи,CyrillTrans,bury (the dead),,,"wuqʼzi, ħabaɬ ɬezi",Phonemic
+4-780-31-3,kara1473,Avar (Karakh dialect),1719,хІабалъ лъези,CyrillTrans,bury (the dead),,,"wuqʼzi, ħabaɬ ɬezi",Phonemic
+4-770-31-1,kara1473,Avar (Karakh dialect),767,жаназа,CyrillTrans,corpse,,,žanaza,Phonemic
+4-760-31-1,kara1473,Avar (Karakh dialect),1417,чІвази,CyrillTrans,kill,,,čʼʷazi,Phonemic
+4-751-31-1,kara1473,Avar (Karakh dialect),1904,ганкъурав,CyrillTrans,drowned,,,"ganqʼuraw, ganqʼuraw či",Phonemic
+4-751-31-3,kara1473,Avar (Karakh dialect),1904,ганкъурав чи,CyrillTrans,drowned,,,"ganqʼuraw, ganqʼuraw či",Phonemic
+4-750-31-1,kara1473,Avar (Karakh dialect),1494,хІварав,CyrillTrans,"die, dead",,,"ħʷaraw, ħʷezi",Phonemic
+4-750-31-3,kara1473,Avar (Karakh dialect),1494,хІвези,CyrillTrans,"die, dead",,,"ħʷaraw, ħʷezi",Phonemic
+4-740-31-1,kara1473,Avar (Karakh dialect),1422,гІумру,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habuzi, čʼaguyab",Phonemic
+4-740-31-3,kara1473,Avar (Karakh dialect),1422,гІумру гьабузи,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habuzi, čʼaguyab",Phonemic
+4-740-31-5,kara1473,Avar (Karakh dialect),1422,чІагуяб,CyrillTrans,"live, living, life",,,"ʕumru, ʕumru habuzi, čʼaguyab",Phonemic
+4-732-31-1,kara1473,Avar (Karakh dialect),1087,лъимер ккези,CyrillTrans,conceive,,,ɬimer k̄ezi,Phonemic
+4-730-31-1,kara1473,Avar (Karakh dialect),1123,къинай,CyrillTrans,pregnant,,,qʼinay,Phonemic
+4-720-31-1,kara1473,Avar (Karakh dialect),1090,лъимер гьабузи,CyrillTrans,born (to be),,,ɬimer habuzi,Phonemic
+4-710-31-1,kara1473,Avar (Karakh dialect),1152,инсуд гьабузи,CyrillTrans,beget (of father),,,insud habuzi,Phonemic
+4-690-31-1,kara1473,Avar (Karakh dialect),138,чурдази,CyrillTrans,bathe,,,čurdazi,Phonemic
+4-680-31-1,kara1473,Avar (Karakh dialect),52,суродзи,CyrillTrans,shiver,,,suroʒi,Phonemic
+4-670-31-1,kara1473,Avar (Karakh dialect),1785,йехІзи,CyrillTrans,have sexual intercourse,,,yeħzi,Phonemic
+4-660-31-1,kara1473,Avar (Karakh dialect),676,гъвес бази,CyrillTrans,defecate,,,ɣʷes bazi,Phonemic
+4-650-31-1,kara1473,Avar (Karakh dialect),592,кІуш бази,CyrillTrans,urinate,,,kʼuš bazi,Phonemic
+4-640-31-1,kara1473,Avar (Karakh dialect),1159,махІ бичази,CyrillTrans,break wind,,,maħ bičazi,Phonemic
+4-630-31-1,kara1473,Avar (Karakh dialect),1602,ворчІзи,CyrillTrans,wake up,,,worčʼzi,Phonemic
+4-620-31-1,kara1473,Avar (Karakh dialect),1920,макьу бихьзи,CyrillTrans,dream,,,maƛ̄ʼu bix̌zi,Phonemic
+4-612-31-1,kara1473,Avar (Karakh dialect),1983,хъарази,CyrillTrans,snore,,,qarazi,Phonemic
+4-610-31-1,kara1473,Avar (Karakh dialect),1585,кьитІзи,CyrillTrans,sleep,,,ƛ̄ʼitʼzi,Phonemic
+4-591-31-1,kara1473,Avar (Karakh dialect),268,туй бичази,CyrillTrans,dribble,,,tuy bičazi,Phonemic
+4-590-31-1,kara1473,Avar (Karakh dialect),319,бацІанзи,CyrillTrans,lick,,,"bacʼanzi, čʼekʼzi",Phonemic
+4-590-31-3,kara1473,Avar (Karakh dialect),319,чІекІзи,CyrillTrans,lick,,,"bacʼanzi, čʼekʼzi",Phonemic
+4-580-31-1,kara1473,Avar (Karakh dialect),1403,хІанчІзи,CyrillTrans,bite,,,ħančʼzi,Phonemic
+4-570-31-1,kara1473,Avar (Karakh dialect),1278,рукІес жо рехзи,CyrillTrans,vomit,,,rukʼes žo rexzi,Phonemic
+4-560-31-1,kara1473,Avar (Karakh dialect),1440,туй чІвази,CyrillTrans,spit,,,"tuy čʼʷazi, tuy",Phonemic
+4-560-31-3,kara1473,Avar (Karakh dialect),1440,туй,CyrillTrans,spit,,,"tuy čʼʷazi, tuy",Phonemic
+4-550-31-1,kara1473,Avar (Karakh dialect),126,гІелбази,CyrillTrans,perspire,,,"ʕelbazi, ʕetʼbazi",Phonemic
+4-550-31-3,kara1473,Avar (Karakh dialect),126,гІетІбази,CyrillTrans,perspire,,,"ʕelbazi, ʕetʼbazi",Phonemic
+4-540-31-1,kara1473,Avar (Karakh dialect),1621,чинхъзи,CyrillTrans,sneeze,,,činqzi,Phonemic
+4-530-31-1,kara1473,Avar (Karakh dialect),879,ухІудзи,CyrillTrans,cough,,,uħuʒi,Phonemic
+4-521-31-1,kara1473,Avar (Karakh dialect),162,гьекІдизи,CyrillTrans,hiccough,,,hekʼdizi,Phonemic
+4-520-31-1,kara1473,Avar (Karakh dialect),1028,гьакІкІази,CyrillTrans,"yawn, gape",,,hak̄ʼazi,Phonemic
+4-510-31-1,kara1473,Avar (Karakh dialect),1407,хІухьел цІази,CyrillTrans,"breathe, breath",,,"ħux̌el cʼazi, ħux̌el",Phonemic
+4-510-31-3,kara1473,Avar (Karakh dialect),1407,хІухьел,CyrillTrans,"breathe, breath",,,"ħux̌el cʼazi, ħux̌el",Phonemic
+4-492-31-1,kara1473,Avar (Karakh dialect),1222,мехьер,CyrillTrans,penis,,,mex̌er,Phonemic
+4-490-31-1,kara1473,Avar (Karakh dialect),797,хІуно,CyrillTrans,testicle,,,ħuno,Phonemic
+4-470-31-1,kara1473,Avar (Karakh dialect),804,лъимадул рокъ,CyrillTrans,womb,,,ɬimadul roqʼ,Phonemic
+4-464-31-1,kara1473,Avar (Karakh dialect),834,роцІул кІуркьби,CyrillTrans,buttocks,,,rocʼul kʼurƛ̄ʼbi,Phonemic
+4-463-31-1,kara1473,Avar (Karakh dialect),1745,рохкъутІи,CyrillTrans,hip,,,"roxqʼutʼi, mač̄ʼ",Phonemic
+4-463-31-3,kara1473,Avar (Karakh dialect),1745,мачІчІ,CyrillTrans,hip,,,"roxqʼutʼi, mač̄ʼ",Phonemic
+4-462-31-1,kara1473,Avar (Karakh dialect),1681,рачелкъай,CyrillTrans,waist,,,račelqʼay,Phonemic
+4-461-31-1,kara1473,Avar (Karakh dialect),1991,бицадаб бакь,CyrillTrans,"intestines, guts",,,bicadab baƛ̄ʼ,Phonemic
+4-460-31-1,kara1473,Avar (Karakh dialect),819,кунил рокъ,CyrillTrans,stomach,,,kunil roqʼ,Phonemic
+4-452-31-1,kara1473,Avar (Karakh dialect),1744,къечІ,CyrillTrans,spleen,,,qʼečʼ,Phonemic
+4-451-31-1,kara1473,Avar (Karakh dialect),489,бугІрул,CyrillTrans,kidney,,,"buʕrul, baʕaržal",Phonemic
+4-451-31-3,kara1473,Avar (Karakh dialect),489,багІаржал,CyrillTrans,kidney,,,"buʕrul, baʕaržal",Phonemic
+4-450-31-1,kara1473,Avar (Karakh dialect),1224,тІул,CyrillTrans,liver,,,tʼul,Phonemic
+4-441-31-1,kara1473,Avar (Karakh dialect),688,угьер,CyrillTrans,lung,,,"uher, huer",Phonemic
+4-441-31-3,kara1473,Avar (Karakh dialect),688,гьуэр,CyrillTrans,lung,,,"uher, huer",Phonemic
+4-440-31-1,kara1473,Avar (Karakh dialect),1223,ракІ,CyrillTrans,heart,,,rakʼ,Phonemic
+4-430-31-1,kara1473,Avar (Karakh dialect),1838,цІину,CyrillTrans,navel,,,cʼinu,Phonemic
+4-420-31-1,kara1473,Avar (Karakh dialect),154,хьуду,CyrillTrans,udder,,,x̌udu,Phonemic
+4-412-31-1,kara1473,Avar (Karakh dialect),796,гага,CyrillTrans,"nipple, teat",,,gaga,Phonemic
+4-410-31-1,kara1473,Avar (Karakh dialect),1402,керен,CyrillTrans,breast (of woman),,,"keren, gagabi",Phonemic
+4-410-31-3,kara1473,Avar (Karakh dialect),1402,гагаби,CyrillTrans,breast (of woman),,,"keren, gagabi",Phonemic
+4-400-31-1,kara1473,Avar (Karakh dialect),1592,керен,CyrillTrans,chest,,,keren,Phonemic
+4-393-31-1,kara1473,Avar (Karakh dialect),1201,хІули,CyrillTrans,feather,,,ħuli,Phonemic
+4-392-31-1,kara1473,Avar (Karakh dialect),1257,милъир,CyrillTrans,wing,,,miɬir,Phonemic
+4-380-31-1,kara1473,Avar (Karakh dialect),1389,бохил килищ,CyrillTrans,toe,,,boxil kiliš̄,Phonemic
+4-374-31-1,kara1473,Avar (Karakh dialect),318,бохил лъалкІ,CyrillTrans,footprint,,,boxil ɬalkʼ,Phonemic
+4-372-31-1,kara1473,Avar (Karakh dialect),980,игъе,CyrillTrans,heel,,,iɣe,Phonemic
+4-371-31-1,kara1473,Avar (Karakh dialect),803,бохил уду,CyrillTrans,ankle,,,boxil udu,Phonemic
+4-370-31-1,kara1473,Avar (Karakh dialect),1301,хІетІе,CyrillTrans,foot,,,ħetʼe,Phonemic
+4-360-31-1,kara1473,Avar (Karakh dialect),1371,наку,CyrillTrans,knee,,,naku,Phonemic
+4-352-31-1,kara1473,Avar (Karakh dialect),498,бохил микьир,CyrillTrans,calf of leg,,,boxil miƛ̄ʼir,Phonemic
+4-351-31-1,kara1473,Avar (Karakh dialect),800,мачІчІ,CyrillTrans,thigh,,,mač̄ʼ,Phonemic
+4-350-31-1,kara1473,Avar (Karakh dialect),1297,бох,CyrillTrans,leg,,,box,Phonemic
+4-345-31-1,kara1473,Avar (Karakh dialect),72,малъ,CyrillTrans,claw,,,maɬ,Phonemic
+4-344-31-1,kara1473,Avar (Karakh dialect),1258,малъ,CyrillTrans,fingernail,,,maɬ,Phonemic
+4-342-31-1,kara1473,Avar (Karakh dialect),1781,кІудакилищ,CyrillTrans,thumb,,,kʼudakiliš̄,Phonemic
+4-340-31-1,kara1473,Avar (Karakh dialect),1303,килищ,CyrillTrans,finger,,,kiliš̄,Phonemic
+4-331-31-1,kara1473,Avar (Karakh dialect),1183,хъат,CyrillTrans,palm of hand,,,qat,Phonemic
+4-330-31-1,kara1473,Avar (Karakh dialect),1277,квер,CyrillTrans,hand,,,kʷer,Phonemic
+4-321-31-1,kara1473,Avar (Karakh dialect),799,кверзул рищи,CyrillTrans,wrist,,,kʷerzul riš̄i,Phonemic
+4-320-31-1,kara1473,Avar (Karakh dialect),981,гІункрукь,CyrillTrans,elbow,,,ʕunkruƛ̄ʼ,Phonemic
+4-312-31-1,kara1473,Avar (Karakh dialect),1886,къундукьбакІ,CyrillTrans,armpit,,,"qʼunduƛ̄ʼbakʼ, qʼʷalaƛ̄ʼbakʼ",Phonemic
+4-312-31-3,kara1473,Avar (Karakh dialect),1886,къвалакьбакІ,CyrillTrans,armpit,,,"qʼunduƛ̄ʼbakʼ, qʼʷalaƛ̄ʼbakʼ",Phonemic
+4-310-31-1,kara1473,Avar (Karakh dialect),1673,квер,CyrillTrans,arm,,,kʷer,Phonemic
+4-302-31-1,kara1473,Avar (Karakh dialect),1994,сулогІучІ,CyrillTrans,collarbone,,,suloʕučʼ,Phonemic
+4-301-31-1,kara1473,Avar (Karakh dialect),172,бугьналага,CyrillTrans,shoulderblade,,,"buhnalaga, ɣež",Phonemic
+4-301-31-3,kara1473,Avar (Karakh dialect),172,гъеж,CyrillTrans,shoulderblade,,,"buhnalaga, ɣež",Phonemic
+4-300-31-1,kara1473,Avar (Karakh dialect),1482,гъеж,CyrillTrans,shoulder,,,ɣež,Phonemic
+4-290-31-1,kara1473,Avar (Karakh dialect),1346,мукъулукъ,CyrillTrans,throat,,,muqʼuluqʼ,Phonemic
+4-281-31-1,kara1473,Avar (Karakh dialect),1347,гъванща,CyrillTrans,nape of neck,,,ɣʷanš̄a,Phonemic
+4-280-31-1,kara1473,Avar (Karakh dialect),1333,габур,CyrillTrans,neck,,,gabur,Phonemic
+4-272-31-1,kara1473,Avar (Karakh dialect),1049,гІус,CyrillTrans,molartooth,,,ʕus,Phonemic
+4-270-31-1,kara1473,Avar (Karakh dialect),1380,гІус,CyrillTrans,tooth,,,"ʕus, sa",Phonemic
+4-270-31-3,kara1473,Avar (Karakh dialect),1380,са,CyrillTrans,tooth,,,"ʕus, sa",Phonemic
+4-271-31-1,kara1473,Avar (Karakh dialect),139,кІвач,CyrillTrans,gums,,,kʼʷač,Phonemic
+4-260-31-1,kara1473,Avar (Karakh dialect),1205,мацІ,CyrillTrans,tongue,,,macʼ,Phonemic
+4-250-31-1,kara1473,Avar (Karakh dialect),478,кІветІ,CyrillTrans,lip,,,kʼʷetʼ,Phonemic
+4-241-31-1,kara1473,Avar (Karakh dialect),73,хІинчІикІал,CyrillTrans,beak,,,ħinčʼikʼal,Phonemic
+4-240-31-1,kara1473,Avar (Karakh dialect),674,кІал,CyrillTrans,mouth,,,kʼal,Phonemic
+4-232-31-1,kara1473,Avar (Karakh dialect),208,хІахІ,CyrillTrans,mucus (nasal),,,ħaħ,Phonemic
+4-231-31-1,kara1473,Avar (Karakh dialect),1178,шумшул къалал,CyrillTrans,nostril,,,šumšul qʼalal,Phonemic
+4-230-31-1,kara1473,Avar (Karakh dialect),1221,хумах,CyrillTrans,nose,,,xumax,Phonemic
+4-222-31-1,kara1473,Avar (Karakh dialect),32,гІинзул хІецІ,CyrillTrans,earwax,,,ʕinzul ħecʼ,Phonemic
+4-221-31-1,kara1473,Avar (Karakh dialect),18,чІухІил каш,CyrillTrans,earlobe,,,čʼuħil kaš,Phonemic
+4-220-31-1,kara1473,Avar (Karakh dialect),1247,гІин,CyrillTrans,ear,,,ʕin,Phonemic
+4-215-31-1,kara1473,Avar (Karakh dialect),1655,къинкІзи,CyrillTrans,blink,,,qʼinkʼzi,Phonemic
+4-214-31-1,kara1473,Avar (Karakh dialect),1540,тІелхІал,CyrillTrans,eyelash,,,tʼelħal,Phonemic
+4-213-31-1,kara1473,Avar (Karakh dialect),17,бердуамагІ,CyrillTrans,eyelid,,,berduamaʕ,Phonemic
+4-212-31-1,kara1473,Avar (Karakh dialect),1173,кьенсер,CyrillTrans,eyebrow,,,"ƛ̄ʼenser, ƛ̄ʼunsrul",Phonemic
+4-212-31-3,kara1473,Avar (Karakh dialect),1173,кьунсрул,CyrillTrans,eyebrow,,,"ƛ̄ʼenser, ƛ̄ʼunsrul",Phonemic
+4-210-31-1,kara1473,Avar (Karakh dialect),1248,бер,CyrillTrans,eye,,,ber,Phonemic
+4-208-31-1,kara1473,Avar (Karakh dialect),1730,кІикьин,CyrillTrans,cheek,,,kʼiƛ̄ʼin,Phonemic
+4-209-31-1,kara1473,Avar (Karakh dialect),1510,мегеж,CyrillTrans,chin,,,megež,Phonemic
+4-205-31-1,kara1473,Avar (Karakh dialect),123,нодо,CyrillTrans,forehead,,,nodo,Phonemic
+4-207-31-1,kara1473,Avar (Karakh dialect),798,нилъухІама,CyrillTrans,jaw,,,"niɬuħama, niɬadul ħama",Phonemic
+4-207-31-3,kara1473,Avar (Karakh dialect),798,нилъадул хІама,CyrillTrans,jaw,,,"niɬuħama, niɬadul ħama",Phonemic
+4-204-31-1,kara1473,Avar (Karakh dialect),1560,гьумер,CyrillTrans,face,,,humer,Phonemic
+4-203-31-1,kara1473,Avar (Karakh dialect),1583,гІадалнахІ,CyrillTrans,brain,,,ʕadalnaħ,Phonemic
+4-201-31-1,kara1473,Avar (Karakh dialect),1604,хІехь,CyrillTrans,"side of head, temple",,,ħex̌,Phonemic
+4-202-31-1,kara1473,Avar (Karakh dialect),1605,гвангвара,CyrillTrans,skull,,,gʷangʷara,Phonemic
+4-200-31-1,kara1473,Avar (Karakh dialect),1256,бетІер,CyrillTrans,head,,,betʼer,Phonemic
+4-191-31-1,kara1473,Avar (Karakh dialect),805,мугъаракьа,CyrillTrans,spine,,,"muɣaraƛ̄ʼa, muɣzal hod",Phonemic
+4-191-31-3,kara1473,Avar (Karakh dialect),805,мугъзал гьод,CyrillTrans,spine,,,"muɣaraƛ̄ʼa, muɣzal hod",Phonemic
+4-190-31-1,kara1473,Avar (Karakh dialect),1291,мугъ,CyrillTrans,back,,,muɣ,Phonemic
+4-180-31-1,kara1473,Avar (Karakh dialect),1220,магъ,CyrillTrans,tail,,,maɣ,Phonemic
+4-170-31-1,kara1473,Avar (Karakh dialect),1393,лълъар,CyrillTrans,horn,,,ɬ̄ar,Phonemic
+4-162-31-1,kara1473,Avar (Karakh dialect),801,хьабулахъгІучІ,CyrillTrans,rib,,,x̌abulaqʕučʼ,Phonemic
+4-160-31-1,kara1473,Avar (Karakh dialect),1394,ракьа,CyrillTrans,bone,,,raƛ̄ʼa,Phonemic
+4-151-31-1,kara1473,Avar (Karakh dialect),525,бидурихь,CyrillTrans,"vein, artery",,,bidurix̌,Phonemic
+4-150-31-1,kara1473,Avar (Karakh dialect),946,би,CyrillTrans,blood,,,bi,Phonemic
+4-146-31-1,kara1473,Avar (Karakh dialect),576,бакълачІин,CyrillTrans,dandruff,,,baqʼlačʼin,Phonemic
+4-145-31-1,kara1473,Avar (Karakh dialect),36,пехІ,CyrillTrans,pubic hair,,,peħ,Phonemic
+4-144-31-1,kara1473,Avar (Karakh dialect),189,чорхода бижараб рас,CyrillTrans,body hair,,,čorxoda bižarab ras,Phonemic
+4-142-31-1,kara1473,Avar (Karakh dialect),678,мегеж,CyrillTrans,beard,,,megež,Phonemic
+4-140-31-1,kara1473,Avar (Karakh dialect),1040,ботІрода бижараб рас,CyrillTrans,hair (head),,,botʼroda bižarab ras,Phonemic
+4-130-31-1,kara1473,Avar (Karakh dialect),2259,черх,CyrillTrans,flesh,,,čerx,Phonemic
+4-120-31-1,kara1473,Avar (Karakh dialect),763,къехь,CyrillTrans,"skin, hide",,,qʼex̌,Phonemic
+4-110-31-1,kara1473,Avar (Karakh dialect),1480,черх,CyrillTrans,body,,,čerx,Phonemic
+3-980-31-1,kara1473,Avar (Karakh dialect),112,алакъвекъ,CyrillTrans,turtle,,,alaqʼʷeqʼ,Phonemic
+3-970-31-1,kara1473,Avar (Karakh dialect),1857,гІаждагь,CyrillTrans,"crocodile, alligator",,,ʕaždah,Phonemic
+3-960-31-1,kara1473,Avar (Karakh dialect),632,кьинчу,CyrillTrans,lizard,,,"ƛ̄ʼinču, ƛ̄ʼenš̄ru",Phonemic
+3-960-31-3,kara1473,Avar (Karakh dialect),632,кьенщру,CyrillTrans,lizard,,,"ƛ̄ʼinču, ƛ̄ʼenš̄ru",Phonemic
+3-950-31-1,kara1473,Avar (Karakh dialect),503,къверкъ,CyrillTrans,frog,,,qʼʷerqʼ,Phonemic
+3-940-31-1,kara1473,Avar (Karakh dialect),1543,цІадихІама,CyrillTrans,snail,,,"cʼadiħama, cʼadalħama",Phonemic
+3-940-31-3,kara1473,Avar (Karakh dialect),1543,цІадалхІама,CyrillTrans,snail,,,"cʼadiħama, cʼadalħama",Phonemic
+3-930-31-1,kara1473,Avar (Karakh dialect),607,гарцІ,CyrillTrans,grasshopper,,,garcʼ,Phonemic
+3-920-31-1,kara1473,Avar (Karakh dialect),1791,мочокь,CyrillTrans,butterfly,,,"močoƛ̄ʼ, kʼalakʼučʼ",Phonemic
+3-920-31-3,kara1473,Avar (Karakh dialect),1791,кІалакІучІ,CyrillTrans,butterfly,,,"močoƛ̄ʼ, kʼalakʼučʼ",Phonemic
+3-910-31-1,kara1473,Avar (Karakh dialect),206,кокру,CyrillTrans,firefly,,,kokru,Phonemic
+3-850-31-1,kara1473,Avar (Karakh dialect),730,бурухь,CyrillTrans,snake,,,burux̌,Phonemic
+3-840-31-1,kara1473,Avar (Karakh dialect),1219,гІаршбурухь,CyrillTrans,worm,,,ʕaršburux̌,Phonemic
+3-832-31-1,kara1473,Avar (Karakh dialect),1509,кІкІара,CyrillTrans,mosquito,,,k̄ʼara,Phonemic
+3-831-31-1,kara1473,Avar (Karakh dialect),95,кІкІара,CyrillTrans,"sandfly (midge), gnat",,,k̄ʼara,Phonemic
+3-830-31-1,kara1473,Avar (Karakh dialect),1504,щветІ,CyrillTrans,fly,,,"š̄ʷetʼ, tʼutʼ",Phonemic
+3-830-31-3,kara1473,Avar (Karakh dialect),1504,тІутІ,CyrillTrans,fly,,,"š̄ʷetʼ, tʼutʼ",Phonemic
+3-823-31-1,kara1473,Avar (Karakh dialect),1517,rьужу-най,CyrillTrans,wasp,,,"ƛ̄ʼužu-nay, ƛ̄ʼož",Phonemic
+3-823-31-3,kara1473,Avar (Karakh dialect),1517,кьож,CyrillTrans,wasp,,,"ƛ̄ʼužu-nay, ƛ̄ʼož",Phonemic
+3-822-31-1,kara1473,Avar (Karakh dialect),88,наязул тІала,CyrillTrans,beehive,,,nayazul tʼala,Phonemic
+3-821-31-1,kara1473,Avar (Karakh dialect),1931,хІой,CyrillTrans,beeswax,,,ħoy,Phonemic
+3-820-31-1,kara1473,Avar (Karakh dialect),665,най,CyrillTrans,bee,,,nay,Phonemic
+3-819-31-1,kara1473,Avar (Karakh dialect),1065,гьумил квар,CyrillTrans,spider web,,,"humil kʷar, xanxra",Phonemic
+3-819-31-3,kara1473,Avar (Karakh dialect),1065,ханхра,CyrillTrans,spider web,,,"humil kʷar, xanxra",Phonemic
+3-818-31-1,kara1473,Avar (Karakh dialect),843,гьум,CyrillTrans,spider,,,hum,Phonemic
+3-817-31-1,kara1473,Avar (Karakh dialect),587,цІунцІра,CyrillTrans,ant,,,cʼuncʼra,Phonemic
+3-816-31-1,kara1473,Avar (Karakh dialect),1575,таракан,CyrillTrans,cockroach,,,tarakan,Phonemic
+3-815-31-1,kara1473,Avar (Karakh dialect),1538,илигуг,CyrillTrans,scorpion,,,iligug,Phonemic
+3-814-31-1,kara1473,Avar (Karakh dialect),1974,хІатІалгІемер,CyrillTrans,centipede,,,ħatʼalʕemer,Phonemic
+3-813-31-1,kara1473,Avar (Karakh dialect),232,чІетІ,CyrillTrans,flea,,,čʼetʼ,Phonemic
+3-812-31-1,kara1473,Avar (Karakh dialect),267,нацІхІоно,CyrillTrans,nit (louse egg),,,"nacʼħono, tʼaha",Phonemic
+3-812-31-3,kara1473,Avar (Karakh dialect),267,тІагьа,CyrillTrans,nit (louse egg),,,"nacʼħono, tʼaha",Phonemic
+3-811-31-1,kara1473,Avar (Karakh dialect),1392,нацІ,CyrillTrans,louse,,,nacʼ,Phonemic
+3-810-31-1,kara1473,Avar (Karakh dialect),620,хІутІ-хъумур,CyrillTrans,insect,,,ħutʼ-qumur,Phonemic
+3-780-31-1,kara1473,Avar (Karakh dialect),1871,варани,CyrillTrans,camel,,,warani,Phonemic
+3-770-31-1,kara1473,Avar (Karakh dialect),1290,пил,CyrillTrans,elephant,,,pil,Phonemic
+3-760-31-1,kara1473,Avar (Karakh dialect),1350,маймалак,CyrillTrans,monkey,,,maymalak,Phonemic
+3-750-31-1,kara1473,Avar (Karakh dialect),1936,ритІучІ,CyrillTrans,deer,,,ritʼučʼ,Phonemic
+3-740-31-1,kara1473,Avar (Karakh dialect),1312,цер,CyrillTrans,fox,,,cer,Phonemic
+3-730-31-1,kara1473,Avar (Karakh dialect),1820,ци,CyrillTrans,bear,,,ci,Phonemic
+3-720-31-1,kara1473,Avar (Karakh dialect),1386,гъалбацІ,CyrillTrans,lion,,,ɣalbacʼ,Phonemic
+3-710-31-1,kara1473,Avar (Karakh dialect),522,бацІ,CyrillTrans,wolf,,,bacʼ,Phonemic
+3-664-31-1,kara1473,Avar (Karakh dialect),1910,ралъдал кето,CyrillTrans,stingray,,,raɬdal keto,Phonemic
+3-663-31-1,kara1473,Avar (Karakh dialect),957,кІуда ччугІа,CyrillTrans,whale,,,"kʼuda č̄uʕa, kit",Phonemic
+3-663-31-3,kara1473,Avar (Karakh dialect),957,кит,CyrillTrans,whale,,,"kʼuda č̄uʕa, kit",Phonemic
+3-662-31-1,kara1473,Avar (Karakh dialect),1479,ралъдал булъон,CyrillTrans,"porpoise, dolphin",,,"raɬdal buɬon, deljfin",Phonemic
+3-662-31-3,kara1473,Avar (Karakh dialect),1479,дельфин,CyrillTrans,"porpoise, dolphin",,,"raɬdal buɬon, deljfin",Phonemic
+3-661-31-1,kara1473,Avar (Karakh dialect),1110,кІуда ччугІа,CyrillTrans,shark,,,"kʼuda č̄uʕa, akula",Phonemic
+3-661-31-3,kara1473,Avar (Karakh dialect),1110,акула,CyrillTrans,shark,,,"kʼuda č̄uʕa, akula",Phonemic
+3-655-31-1,kara1473,Avar (Karakh dialect),598,ччугІигІундал,CyrillTrans,shell,,,č̄uʕiʕundal,Phonemic
+3-654-31-1,kara1473,Avar (Karakh dialect),1916,къукъби,CyrillTrans,gill,,,qʼuqʼbi,Phonemic
+3-653-31-1,kara1473,Avar (Karakh dialect),266,ччугІил хъал,CyrillTrans,fishscale,,,č̄uʕil qal,Phonemic
+3-652-31-1,kara1473,Avar (Karakh dialect),213,ччугІил милъир,CyrillTrans,fin (dorsal),,,č̄uʕil miɬir,Phonemic
+3-650-31-1,kara1473,Avar (Karakh dialect),227,ччугІа,CyrillTrans,fish,,,č̄uʕa,Phonemic
+3-630-31-1,kara1473,Avar (Karakh dialect),2139,гІункІкІ,CyrillTrans,"mouse, rat",,,ʕunk̄ʼ,Phonemic
+3-620-31-1,kara1473,Avar (Karakh dialect),1208,кету,CyrillTrans,cat,,,ketu,Phonemic
+3-614-31-1,kara1473,Avar (Karakh dialect),1136,гІанкІ,CyrillTrans,rabbit,,,ʕankʼ,Phonemic
+3-610-31-1,kara1473,Avar (Karakh dialect),2009,гьве,CyrillTrans,dog,,,"hʷe, hoy",Phonemic
+3-610-31-3,kara1473,Avar (Karakh dialect),2009,гьой,CyrillTrans,dog,,,"hʷe, hoy",Phonemic
+3-594-31-1,kara1473,Avar (Karakh dialect),1853,микки,CyrillTrans,dove,,,mik̄i,Phonemic
+3-596-31-1,kara1473,Avar (Karakh dialect),735,руз,CyrillTrans,owl,,,ruz,Phonemic
+3-593-31-1,kara1473,Avar (Karakh dialect),913,гъеду,CyrillTrans,crow,,,ɣedu,Phonemic
+3-592-31-1,kara1473,Avar (Karakh dialect),882,папугай,CyrillTrans,parrot,,,papugay,Phonemic
+3-591-31-1,kara1473,Avar (Karakh dialect),1793,боржаниб гІункІ,CyrillTrans,bat,,,boržanib ʕunkʼ,Phonemic
+3-586-31-1,kara1473,Avar (Karakh dialect),1185,хъвек,CyrillTrans,vulture,,,qʷek,Phonemic
+3-585-31-1,kara1473,Avar (Karakh dialect),307,хъиргъу,CyrillTrans,hawk,,,qirɣu,Phonemic
+3-584-31-1,kara1473,Avar (Karakh dialect),1905,цІцІум,CyrillTrans,eagle,,,c̄ʼum,Phonemic
+3-582-31-1,kara1473,Avar (Karakh dialect),950,чайка,CyrillTrans,seagull,,,čayka,Phonemic
+3-583-31-1,kara1473,Avar (Karakh dialect),758,лакълакъ,CyrillTrans,heron,,,laqʼlaqʼ,Phonemic
+3-581-31-1,kara1473,Avar (Karakh dialect),937,хІинчІ,CyrillTrans,bird,,,ħinčʼ,Phonemic
+3-580-31-1,kara1473,Avar (Karakh dialect),539,бусен,CyrillTrans,nest,,,busen,Phonemic
+3-570-31-1,kara1473,Avar (Karakh dialect),1360,урдек,CyrillTrans,duck,,,urdek,Phonemic
+3-560-31-1,kara1473,Avar (Karakh dialect),1187,хъаз,CyrillTrans,goose,,,qaz,Phonemic
+3-550-31-1,kara1473,Avar (Karakh dialect),1318,гІанкІудул тІинчІ,CyrillTrans,chicken,,,ʕankʼudul tʼinčʼ,Phonemic
+3-540-31-1,kara1473,Avar (Karakh dialect),1514,гІанкІу,CyrillTrans,hen,,,ʕankʼu,Phonemic
+3-520-31-1,kara1473,Avar (Karakh dialect),1511,хІелеку,CyrillTrans,"cock, rooster",,,ħeleku,Phonemic
+3-470-31-1,kara1473,Avar (Karakh dialect),890,гІурцІем,CyrillTrans,mule,,,ʕurcʼem,Phonemic
+3-500-31-1,kara1473,Avar (Karakh dialect),265,гІанкІу-хІелеку,CyrillTrans,fowl,,,ʕankʼu-ħeleku,Phonemic
+3-460-31-1,kara1473,Avar (Karakh dialect),1862,хІама,CyrillTrans,"ass, donkey",,,ħama,Phonemic
+3-450-31-1,kara1473,Avar (Karakh dialect),1647,май,CyrillTrans,"foal, colt",,,"мay, tay",Phonemic
+3-450-31-3,kara1473,Avar (Karakh dialect),1647,тай,CyrillTrans,"foal, colt",,,"мay, tay",Phonemic
+3-440-31-1,kara1473,Avar (Karakh dialect),938,гІала,CyrillTrans,mare,,,"ʕala, ču",Phonemic
+3-440-31-3,kara1473,Avar (Karakh dialect),938,чу,CyrillTrans,mare,,,"ʕala, ču",Phonemic
+3-420-31-1,kara1473,Avar (Karakh dialect),936,барти,CyrillTrans,stallion,,,barti,Phonemic
+3-410-31-1,kara1473,Avar (Karakh dialect),615,чу,CyrillTrans,horse (equine),,,ču,Phonemic
+3-380-31-1,kara1473,Avar (Karakh dialect),1972,цІедулинчІ,CyrillTrans,kid,,,"cʼedulinčʼ, cʼedultʼinčʼ",Phonemic
+3-380-31-3,kara1473,Avar (Karakh dialect),1972,цІедултІинчІ,CyrillTrans,kid,,,"cʼedulinčʼ, cʼedultʼinčʼ",Phonemic
+3-370-31-1,kara1473,Avar (Karakh dialect),264,дегІен,CyrillTrans,he-goat,,,deʕen,Phonemic
+3-360-31-1,kara1473,Avar (Karakh dialect),1502,цІе,CyrillTrans,goat,,,cʼe,Phonemic
+3-350-31-1,kara1473,Avar (Karakh dialect),1337,булъон,CyrillTrans,pig,,,buɬon,Phonemic
+3-340-31-1,kara1473,Avar (Karakh dialect),1351,цІуяб булъон,CyrillTrans,sow (2),,,cʼuyab buɬon,Phonemic
+3-320-31-1,kara1473,Avar (Karakh dialect),1348,хъабан,CyrillTrans,boar,,,qaban,Phonemic
+3-290-31-1,kara1473,Avar (Karakh dialect),820,кьигІер,CyrillTrans,lamb,,,ƛ̄ʼiʕer,Phonemic
+3-280-31-1,kara1473,Avar (Karakh dialect),1345,чахъу,CyrillTrans,ewe,,,"čaqu, ʕi",Phonemic
+3-280-31-3,kara1473,Avar (Karakh dialect),1345,гІи,CyrillTrans,ewe,,,"čaqu, ʕi",Phonemic
+3-260-31-1,kara1473,Avar (Karakh dialect),1344,куй,CyrillTrans,ram,,,kuy,Phonemic
+3-250-31-1,kara1473,Avar (Karakh dialect),1331,лемаг,CyrillTrans,sheep,,,"lemag, ʕi, čaqu, ħuħ, kuy",Phonemic
+3-250-31-3,kara1473,Avar (Karakh dialect),1331,гІи,CyrillTrans,sheep,,,"lemag, ʕi, čaqu, ħuħ, kuy",Phonemic
+3-250-31-5,kara1473,Avar (Karakh dialect),1331,чахъу,CyrillTrans,sheep,,,"lemag, ʕi, čaqu, ħuħ, kuy",Phonemic
+3-250-31-7,kara1473,Avar (Karakh dialect),1331,хІухІ,CyrillTrans,sheep,,,"lemag, ʕi, čaqu, ħuħ, kuy",Phonemic
+3-250-31-9,kara1473,Avar (Karakh dialect),1331,куй,CyrillTrans,sheep,,,"lemag, ʕi, čaqu, ħuħ, kuy",Phonemic
+3-240-31-1,kara1473,Avar (Karakh dialect),1989,бече,CyrillTrans,calf,,,"beče, biħče",Phonemic
+3-240-31-3,kara1473,Avar (Karakh dialect),1989,бихІче,CyrillTrans,calf,,,"beče, biħče",Phonemic
+3-230-31-1,kara1473,Avar (Karakh dialect),1007,гІака,CyrillTrans,cow,,,ʕaka,Phonemic
+3-220-31-1,kara1473,Avar (Karakh dialect),1169,оц,CyrillTrans,ox,,,oc,Phonemic
+3-210-31-1,kara1473,Avar (Karakh dialect),1008,оц,CyrillTrans,bull,,,"oc, buɣa",Phonemic
+3-210-31-3,kara1473,Avar (Karakh dialect),1008,бугъа,CyrillTrans,bull,,,"oc, buɣa",Phonemic
+3-200-31-1,kara1473,Avar (Karakh dialect),1153,чІегІер хІайван,CyrillTrans,cattle (bovine),,,čʼeʕer ħaywan,Phonemic
+3-190-31-1,kara1473,Avar (Karakh dialect),851,чваял ахІулеб бакІ,CyrillTrans,"stable, stall",,,"čʷayal aħuleb bakʼ, boƛ̄ʼ",Phonemic
+3-190-31-3,kara1473,Avar (Karakh dialect),851,бокь,CyrillTrans,"stable, stall",,,"čʷayal aħuleb bakʼ, boƛ̄ʼ",Phonemic
+3-180-31-1,kara1473,Avar (Karakh dialect),263,вехь,CyrillTrans,herdsman,,,wex̌,Phonemic
+3-160-31-1,kara1473,Avar (Karakh dialect),649,авлахъ,CyrillTrans,pasture,,,awlaq,Phonemic
+3-150-31-1,kara1473,Avar (Karakh dialect),631,боцІцІи,CyrillTrans,livestock,,,"boc̄’I, ħaywan",Phonemic
+3-150-31-3,kara1473,Avar (Karakh dialect),631,хІайван,CyrillTrans,livestock,,,"boc̄’I, ħaywan",Phonemic
+3-130-31-1,kara1473,Avar (Karakh dialect),2262,чІужугІаданалъул,CyrillTrans,female (adj),,,čʼužuʕadanaɬul,Phonemic
+3-120-31-1,kara1473,Avar (Karakh dialect),2261,бихьинчиясул,CyrillTrans,male (adj),,,bix̌inčiyasul,Phonemic
+3-110-31-1,kara1473,Avar (Karakh dialect),619,хІайван,CyrillTrans,animal,,,ħaywan,Phonemic
+2-960-31-1,kara1473,Avar (Karakh dialect),817,гъал,CyrillTrans,they,,,ɣal,Phonemic
+2-950-31-1,kara1473,Avar (Karakh dialect),1213,нуж,CyrillTrans,you (plural),,,nuž,Phonemic
+2-942-31-1,kara1473,Avar (Karakh dialect),1130,ниж,CyrillTrans,we (exclusive),,,niž,Phonemic
+2-941-31-1,kara1473,Avar (Karakh dialect),1131,нилъ,CyrillTrans,we (inclusive),,,niɬ,Phonemic
+2-940-31-1,kara1473,Avar (Karakh dialect),1212,нилъ,CyrillTrans,we,,,niɬ,Phonemic
+2-930-31-1,kara1473,Avar (Karakh dialect),262,гъай,CyrillTrans,he/she/it,,,"ɣay, ɣaw, ɣob",Phonemic
+2-930-31-3,kara1473,Avar (Karakh dialect),262,гъав,CyrillTrans,he/she/it,,,"ɣay, ɣaw, ɣob",Phonemic
+2-930-31-5,kara1473,Avar (Karakh dialect),262,гъоб,CyrillTrans,he/she/it,,,"ɣay, ɣaw, ɣob",Phonemic
+2-920-31-1,kara1473,Avar (Karakh dialect),1215,мун,CyrillTrans,you (singular),,,"mun, nuž",Phonemic
+2-920-31-3,kara1473,Avar (Karakh dialect),1215,нуж,CyrillTrans,you (singular),,,"mun, nuž",Phonemic
+2-910-31-1,kara1473,Avar (Karakh dialect),1209,дун,CyrillTrans,I,,,dun,Phonemic
+2-820-31-1,kara1473,Avar (Karakh dialect),194,хъизан,CyrillTrans,family,,,qizan,Phonemic
+2-810-31-1,kara1473,Avar (Karakh dialect),1644,гІагарлъи,CyrillTrans,"relatives, kinsmen",,,ʕagarɬi,Phonemic
+2-770-31-1,kara1473,Avar (Karakh dialect),1981,къоролав,CyrillTrans,widower,,,qʼorolaw,Phonemic
+2-760-31-1,kara1473,Avar (Karakh dialect),1756,къоролай,CyrillTrans,widow,,,qʼorolay,Phonemic
+2-750-31-1,kara1473,Avar (Karakh dialect),1149,бесдал лъимер,CyrillTrans,orphan,,,"besdal ɬimer, itim",Phonemic
+2-750-31-3,kara1473,Avar (Karakh dialect),1149,итим,CyrillTrans,orphan,,,"besdal ɬimer, itim",Phonemic
+2-740-31-1,kara1473,Avar (Karakh dialect),1058,бестІал яс,CyrillTrans,stepdaughter,,,bestʼal yas,Phonemic
+2-730-31-1,kara1473,Avar (Karakh dialect),1059,бестІал вас,CyrillTrans,stepson,,,bestʼal was,Phonemic
+2-720-31-1,kara1473,Avar (Karakh dialect),236,бесдал эбел,CyrillTrans,stepmother,,,besdal ebel,Phonemic
+2-710-31-1,kara1473,Avar (Karakh dialect),237,бесдал эмен,CyrillTrans,stepfather,,,besdal emen,Phonemic
+2-641-31-1,kara1473,Avar (Karakh dialect),2264,нус,CyrillTrans,daughter-in-law (of a woman),,,nus,Phonemic
+2-640-31-1,kara1473,Avar (Karakh dialect),2265,нус,CyrillTrans,daughter-in-law (of a man),,,nus,Phonemic
+2-631-31-1,kara1473,Avar (Karakh dialect),2266,дурц,CyrillTrans,son-in-law (of a woman),,,durc,Phonemic
+2-630-31-1,kara1473,Avar (Karakh dialect),2267,дурц,CyrillTrans,son-in-law (of a man),,,durc,Phonemic
+2-621-31-1,kara1473,Avar (Karakh dialect),2257,якьад,CyrillTrans,mother-in-law (of a woman),,,yaƛ̄ʼad,Phonemic
+2-620-31-1,kara1473,Avar (Karakh dialect),2256,якьад,CyrillTrans,mother-in-law (of a man),,,yaƛ̄ʼad,Phonemic
+2-611-31-1,kara1473,Avar (Karakh dialect),2254,вакьад,CyrillTrans,father-in-law (of a woman),,,waƛ̄ʼad,Phonemic
+2-610-31-1,kara1473,Avar (Karakh dialect),2255,вакьад,CyrillTrans,father-in-law (of a man),,,waƛ̄ʼad,Phonemic
+2-570-31-1,kara1473,Avar (Karakh dialect),490,наслуби,CyrillTrans,descendants,,,naslubi,Phonemic
+2-560-31-1,kara1473,Avar (Karakh dialect),1669,умумул,CyrillTrans,ancestors,,,umumul,Phonemic
+2-550-31-1,kara1473,Avar (Karakh dialect),1643,вацгІал,CyrillTrans,cousin,,,"wacʕal, yacʕal",Phonemic
+2-550-31-3,kara1473,Avar (Karakh dialect),1643,йацгІал,CyrillTrans,cousin,,,"wacʕal, yacʕal",Phonemic
+2-540-31-1,kara1473,Avar (Karakh dialect),1642,вацасcул яс,CyrillTrans,niece,,,"wacas̄ul yas, yacaɬul yas",Phonemic
+2-540-31-3,kara1473,Avar (Karakh dialect),1642,яцалъул яс,CyrillTrans,niece,,,"wacas̄ul yas, yacaɬul yas",Phonemic
+2-530-31-1,kara1473,Avar (Karakh dialect),1063,вацасcул вас,CyrillTrans,nephew,,,"wacas̄ul was, yacaɬul was",Phonemic
+2-530-31-3,kara1473,Avar (Karakh dialect),1063,яцалъул вас,CyrillTrans,nephew,,,"wacas̄ul was, yacaɬul was",Phonemic
+2-522-31-1,kara1473,Avar (Karakh dialect),170,ункъал,CyrillTrans,father's sister,,,"unqʼal, dadal yac, ensul yac",Phonemic
+2-522-31-3,kara1473,Avar (Karakh dialect),170,дадал яц энсул яц,CyrillTrans,father's sister,,,"unqʼal, dadal yac, ensul yac",Phonemic
+2-520-31-1,kara1473,Avar (Karakh dialect),1272,ункъал,CyrillTrans,aunt,,,"unqʼal, babal yac, ebelaɬul yac, dadal yac, ensul yac",Phonemic
+2-520-31-3,kara1473,Avar (Karakh dialect),1272,бабал яц,CyrillTrans,aunt,,,"unqʼal, babal yac, ebelaɬul yac, dadal yac, ensul yac",Phonemic
+2-520-31-5,kara1473,Avar (Karakh dialect),1272,эбелалъул яц,CyrillTrans,aunt,,,"unqʼal, babal yac, ebelaɬul yac, dadal yac, ensul yac",Phonemic
+2-520-31-7,kara1473,Avar (Karakh dialect),1272,дадал яц,CyrillTrans,aunt,,,"unqʼal, babal yac, ebelaɬul yac, dadal yac, ensul yac",Phonemic
+2-520-31-9,kara1473,Avar (Karakh dialect),1272,энсул яц,CyrillTrans,aunt,,,"unqʼal, babal yac, ebelaɬul yac, dadal yac, ensul yac",Phonemic
+2-521-31-1,kara1473,Avar (Karakh dialect),171,ункъал,CyrillTrans,mother's sister,,,"babal yac, unqʼal, ebelaɬul yac",Phonemic
+2-521-31-3,kara1473,Avar (Karakh dialect),171,бабал яц,CyrillTrans,mother's sister,,,"babal yac, unqʼal, ebelaɬul yac",Phonemic
+2-521-31-5,kara1473,Avar (Karakh dialect),171,эбелалъул яц,CyrillTrans,mother's sister,,,"babal yac, unqʼal, ebelaɬul yac",Phonemic
+2-512-31-1,kara1473,Avar (Karakh dialect),1985,вуци,CyrillTrans,father's brother,,,"wuci, dadal wac, ensul wac",Phonemic
+2-512-31-3,kara1473,Avar (Karakh dialect),1985,дадал вац,CyrillTrans,father's brother,,,"wuci, dadal wac, ensul wac",Phonemic
+2-512-31-5,kara1473,Avar (Karakh dialect),1985,энсул вац,CyrillTrans,father's brother,,,"wuci, dadal wac, ensul wac",Phonemic
+2-511-31-1,kara1473,Avar (Karakh dialect),1984,вуци,CyrillTrans,mother's brother,,,"wuci, babal wac, ebelaɬul wac",Phonemic
+2-511-31-3,kara1473,Avar (Karakh dialect),1984,бабал вац,CyrillTrans,mother's brother,,,"wuci, babal wac, ebelaɬul wac",Phonemic
+2-511-31-5,kara1473,Avar (Karakh dialect),1984,эбелалъул вац,CyrillTrans,mother's brother,,,"wuci, babal wac, ebelaɬul wac",Phonemic
+2-510-31-1,kara1473,Avar (Karakh dialect),1327,вуци,CyrillTrans,uncle,,,"wuci, babal wac, ebelaɬul wac, babal wac, ensul wac",Phonemic
+2-510-31-3,kara1473,Avar (Karakh dialect),1327,бабал вац,CyrillTrans,uncle,,,"wuci, babal wac, ebelaɬul wac, babal wac, ensul wac",Phonemic
+2-510-31-5,kara1473,Avar (Karakh dialect),1327,эбелалъул вац,CyrillTrans,uncle,,,"wuci, babal wac, ebelaɬul wac, babal wac, ensul wac",Phonemic
+2-510-31-7,kara1473,Avar (Karakh dialect),1327,дадал вац,CyrillTrans,uncle,,,"wuci, babal wac, ebelaɬul wac, babal wac, ensul wac",Phonemic
+2-510-31-9,kara1473,Avar (Karakh dialect),1327,энсул вац,CyrillTrans,uncle,,,"wuci, babal wac, ebelaɬul wac, babal wac, ensul wac",Phonemic
+2-480-31-1,kara1473,Avar (Karakh dialect),1618,васасcул вас,CyrillTrans,grandson,,,"wasas̄ul was, yasaɬul was",Phonemic
+2-480-31-3,kara1473,Avar (Karakh dialect),1618,ясалъул вас,CyrillTrans,grandson,,,"wasas̄ul was, yasaɬul was",Phonemic
+2-490-31-1,kara1473,Avar (Karakh dialect),1619,васасcул яс,CyrillTrans,granddaughter,,,"wasas̄ul yas, yasaɬul yas",Phonemic
+2-490-31-3,kara1473,Avar (Karakh dialect),1619,ясалъул яс,CyrillTrans,granddaughter,,,"wasas̄ul yas, yasaɬul yas",Phonemic
+2-471-31-1,kara1473,Avar (Karakh dialect),907,хІерай,CyrillTrans,old woman,,,"ħeray, ħeray čʼužu",Phonemic
+2-471-31-3,kara1473,Avar (Karakh dialect),907,хІерай чІужу,CyrillTrans,old woman,,,"ħeray, ħeray čʼužu",Phonemic
+2-470-31-1,kara1473,Avar (Karakh dialect),1496,кІудабаба,CyrillTrans,grandmother,,,kʼudababa,Phonemic
+2-461-31-1,kara1473,Avar (Karakh dialect),406,хІерав,CyrillTrans,old man,,,"ħeraw, ħeraw či",Phonemic
+2-461-31-3,kara1473,Avar (Karakh dialect),406,херав чи,CyrillTrans,old man,,,"ħeraw, ħeraw či",Phonemic
+2-460-31-1,kara1473,Avar (Karakh dialect),1383,кІудадада,CyrillTrans,grandfather,,,kʼudadada,Phonemic
+2-458-31-1,kara1473,Avar (Karakh dialect),1005,кІигьарурал,CyrillTrans,twins,,,kʼiharural,Phonemic
+2-456-31-1,kara1473,Avar (Karakh dialect),1640,вац,CyrillTrans,sibling,,,"wac, yac",Phonemic
+2-456-31-3,kara1473,Avar (Karakh dialect),1640,яц,CyrillTrans,sibling,,,"wac, yac",Phonemic
+2-455-31-1,kara1473,Avar (Karakh dialect),1761,тІинай яц,CyrillTrans,younger sister,,,tʼinay yac,Phonemic
+2-454-31-1,kara1473,Avar (Karakh dialect),1758,кІудай яц,CyrillTrans,older sister,,,kʼuday yac,Phonemic
+2-450-31-1,kara1473,Avar (Karakh dialect),1263,яц,CyrillTrans,sister,,,yac,Phonemic
+2-445-31-1,kara1473,Avar (Karakh dialect),1760,тІинав вац,CyrillTrans,younger brother,,,tʼinaw wac,Phonemic
+2-444-31-1,kara1473,Avar (Karakh dialect),1759,кІудав вац,CyrillTrans,older brother,,,kʼudaw wac,Phonemic
+2-440-31-1,kara1473,Avar (Karakh dialect),1262,вац,CyrillTrans,brother,,,wac,Phonemic
+2-430-31-1,kara1473,Avar (Karakh dialect),1801,лъимал,CyrillTrans,offspring (son or daughter),,,"ɬimal, naslo",Phonemic
+2-430-31-3,kara1473,Avar (Karakh dialect),1801,насло,CyrillTrans,offspring (son or daughter),,,"ɬimal, naslo",Phonemic
+2-420-31-1,kara1473,Avar (Karakh dialect),1357,яс,CyrillTrans,daughter,,,yas,Phonemic
+2-410-31-1,kara1473,Avar (Karakh dialect),1620,вас,CyrillTrans,son,,,was,Phonemic
+2-390-31-1,kara1473,Avar (Karakh dialect),426,росасе арай,CyrillTrans,married woman,,,rosase aray,Phonemic
+2-380-31-1,kara1473,Avar (Karakh dialect),424,чІужу ячарав,CyrillTrans,married man,,,čʼužu yačaraw,Phonemic
+2-370-31-1,kara1473,Avar (Karakh dialect),505,эбел-эмен,CyrillTrans,parents,,,ebel-emen,Phonemic
+2-360-31-1,kara1473,Avar (Karakh dialect),1216,эбел,CyrillTrans,mother,,,"ebel, baba",Phonemic
+2-360-31-3,kara1473,Avar (Karakh dialect),1216,баба,CyrillTrans,mother,,,"ebel, baba",Phonemic
+2-350-31-1,kara1473,Avar (Karakh dialect),1217,эмен,CyrillTrans,father,,,"emen, dada",Phonemic
+2-350-31-3,kara1473,Avar (Karakh dialect),1217,дада,CyrillTrans,father,,,"emen, dada",Phonemic
+2-341-31-1,kara1473,Avar (Karakh dialect),1134,ратІалъи,CyrillTrans,divorce,,,"ratʼaɬi, rihin bix̄i",Phonemic
+2-341-31-3,kara1473,Avar (Karakh dialect),1134,ригьин биххи,CyrillTrans,divorce,,,"ratʼaɬi, rihin bix̄i",Phonemic
+2-340-31-1,kara1473,Avar (Karakh dialect),1259,бертин,CyrillTrans,"marriage, wedding",,,"bertin, rihin",Phonemic
+2-340-31-3,kara1473,Avar (Karakh dialect),1259,ригьин,CyrillTrans,"marriage, wedding",,,"bertin, rihin",Phonemic
+2-330-31-1,kara1473,Avar (Karakh dialect),203,росасе инзи,CyrillTrans,marry,,,"rosase inzi, rihin habuzi",Phonemic
+2-330-31-3,kara1473,Avar (Karakh dialect),203,ригьин гьабузи,CyrillTrans,marry,,,"rosase inzi, rihin habuzi",Phonemic
+2-320-31-1,kara1473,Avar (Karakh dialect),1199,чІижу,CyrillTrans,wife,,,"čʼižu, xizan",Phonemic
+2-320-31-3,kara1473,Avar (Karakh dialect),1199,хизан,CyrillTrans,wife,,,"čʼižu, xizan",Phonemic
+2-310-31-1,kara1473,Avar (Karakh dialect),1200,рос,CyrillTrans,husband,,,"ros, betʼerhanči",Phonemic
+2-310-31-3,kara1473,Avar (Karakh dialect),1200,бетІергьанчи,CyrillTrans,husband,,,"ros, betʼerhanči",Phonemic
+2-280-31-1,kara1473,Avar (Karakh dialect),1289,лъимер,CyrillTrans,"infant, baby",,,ɬimer,Phonemic
+2-270-31-1,kara1473,Avar (Karakh dialect),1304,лъимер,CyrillTrans,child,,,ɬimer,Phonemic
+2-261-31-1,kara1473,Avar (Karakh dialect),77,яс,CyrillTrans,young woman (adolescent),,,yas,Phonemic
+2-260-31-1,kara1473,Avar (Karakh dialect),1646,яс,CyrillTrans,girl,,,yas,Phonemic
+2-251-31-1,kara1473,Avar (Karakh dialect),76,гІулохъанчи,CyrillTrans,young man (adolescent),,,ʕuloqanči,Phonemic
+2-250-31-1,kara1473,Avar (Karakh dialect),1366,вас,CyrillTrans,boy,,,was,Phonemic
+2-240-31-1,kara1473,Avar (Karakh dialect),1551,цІуяб (хІайван),CyrillTrans,female,,,cʼuyab (ħaywan),Phonemic
+2-230-31-1,kara1473,Avar (Karakh dialect),1553,бихьинаб (хІайван),CyrillTrans,male,,,bix̌inab (ħaywan),Phonemic
+2-220-31-1,kara1473,Avar (Karakh dialect),962,чІужугІадан,CyrillTrans,woman,,,"čʼužuʕadan, ruč̄abay",Phonemic
+2-220-31-3,kara1473,Avar (Karakh dialect),962,руччабай,CyrillTrans,woman,,,"čʼužuʕadan, ruč̄abay",Phonemic
+2-210-31-1,kara1473,Avar (Karakh dialect),1554,бихьинчи,CyrillTrans,man (vs. woman),,,bix̌inči,Phonemic
+2-100-31-1,kara1473,Avar (Karakh dialect),683,гІадам,CyrillTrans,"person, human being",,,"ʕadam, či",Phonemic
+2-100-31-3,kara1473,Avar (Karakh dialect),683,чи,CyrillTrans,"person, human being",,,"ʕadam, či",Phonemic
+1-890-31-1,kara1473,Avar (Karakh dialect),1188,тІуччи,CyrillTrans,charcoal,,,tʼuč̄i,Phonemic
+1-880-31-1,kara1473,Avar (Karakh dialect),10,цІул,CyrillTrans,firewood,,,cʼul,Phonemic
+1-870-31-1,kara1473,Avar (Karakh dialect),1133,спичка,CyrillTrans,match (noun),,,spička,Phonemic
+1-861-31-1,kara1473,Avar (Karakh dialect),127,сезабузи,CyrillTrans,extinguish,,,sezabuzi,Phonemic
+1-860-31-1,kara1473,Avar (Karakh dialect),737,цІабази,CyrillTrans,"light, kindle, ignite",,,cʼabazi,Phonemic
+1-852-31-1,kara1473,Avar (Karakh dialect),1428,бухІзи,CyrillTrans,burn (vb intrans),,,buħzi,Phonemic
+1-851-31-1,kara1473,Avar (Karakh dialect),141,бухІзи,CyrillTrans,burn (vb trans),,,buħzi,Phonemic
+1-841-31-1,kara1473,Avar (Karakh dialect),67,бухІараб тІуччи,CyrillTrans,embers,,,buħarab tʼuč̄i,Phonemic
+1-840-31-1,kara1473,Avar (Karakh dialect),646,рухъо,CyrillTrans,ashes,,,ruqo,Phonemic
+1-830-31-1,kara1473,Avar (Karakh dialect),778,кІкІуй,CyrillTrans,smoke (noun),,,k̄ʼuy,Phonemic
+1-820-31-1,kara1473,Avar (Karakh dialect),889,цІа,CyrillTrans,flame (noun),,,cʼa,Phonemic
+1-810-31-1,kara1473,Avar (Karakh dialect),221,цІа,CyrillTrans,fire,,,cʼa,Phonemic
+1-780-31-1,kara1473,Avar (Karakh dialect),952,гьава,CyrillTrans,weather,,,hawa,Phonemic
+1-770-31-1,kara1473,Avar (Karakh dialect),617,цІер чІвай,CyrillTrans,ice,,,cʼer čʼʷay,Phonemic
+1-760-31-1,kara1473,Avar (Karakh dialect),784,гІазу,CyrillTrans,snow (noun),,,ʕazu,Phonemic
+1-750-31-1,kara1473,Avar (Karakh dialect),658,цІад,CyrillTrans,rain (noun),,,cʼad,Phonemic
+1-740-31-1,kara1473,Avar (Karakh dialect),249,накІ,CyrillTrans,fog,,,nakʼ,Phonemic
+1-720-31-1,kara1473,Avar (Karakh dialect),960,гьури,CyrillTrans,wind,,,huri,Phonemic
+1-730-31-1,kara1473,Avar (Karakh dialect),1489,накІал,CyrillTrans,cloud,,,nakʼal,Phonemic
+1-710-31-1,kara1473,Avar (Karakh dialect),27,гьава,CyrillTrans,air,,,hawa,Phonemic
+1-640-31-1,kara1473,Avar (Karakh dialect),1977,щуб,CyrillTrans,dew,,,š̄ub,Phonemic
+1-630-31-1,kara1473,Avar (Karakh dialect),1388,расад,CyrillTrans,"shade, shadow",,,rasad,Phonemic
+1-620-31-1,kara1473,Avar (Karakh dialect),11,бецІлъи,CyrillTrans,darkness,,,becʼɬi,Phonemic
+1-610-31-1,kara1473,Avar (Karakh dialect),630,канлъи,CyrillTrans,light (noun),,,kanɬi,Phonemic
+1-590-31-1,kara1473,Avar (Karakh dialect),1733,нур,CyrillTrans,rainbow,,,nur,Phonemic
+1-580-31-1,kara1473,Avar (Karakh dialect),858,ралъад багъари,CyrillTrans,storm,,,"raɬad baɣari, raɬdal huri",Phonemic
+1-580-31-3,kara1473,Avar (Karakh dialect),858,рaлъдал гьури,CyrillTrans,storm,,,"raɬad baɣari, raɬdal huri",Phonemic
+1-560-31-1,kara1473,Avar (Karakh dialect),1150,зоб гъугъай,CyrillTrans,thunder,,,zob ɣuɣay,Phonemic
+1-570-31-1,kara1473,Avar (Karakh dialect),2007,пири,CyrillTrans,lightning (as striking),,,piri,Phonemic
+1-550-31-1,kara1473,Avar (Karakh dialect),1654,пири,CyrillTrans,lightning,,,piri,Phonemic
+1-540-31-1,kara1473,Avar (Karakh dialect),1430,цІва,CyrillTrans,star,,,cʼʷa,Phonemic
+1-530-31-1,kara1473,Avar (Karakh dialect),1313,моцІ,CyrillTrans,moon,,,mocʼ,Phonemic
+1-520-31-1,kara1473,Avar (Karakh dialect),1343,бакъ,CyrillTrans,sun,,,baqʼ,Phonemic
+1-510-31-1,kara1473,Avar (Karakh dialect),1732,зоб,CyrillTrans,sky,,,zob,Phonemic
+1-450-31-1,kara1473,Avar (Karakh dialect),6,ракь багъари,CyrillTrans,earthquake,,,raƛ̄ʼ baɣari,Phonemic
+1-440-31-1,kara1473,Avar (Karakh dialect),2125,гамачІ,CyrillTrans,"stone, rock",,,"gamačʼ, ƛ̄ʼuri",Phonemic
+1-440-31-3,kara1473,Avar (Karakh dialect),2125,кьури,CyrillTrans,"stone, rock",,,"gamačʼ, ƛ̄ʼuri",Phonemic
+1-430-31-1,kara1473,Avar (Karakh dialect),1803,цІул,CyrillTrans,wood,,,"cʼul, ɣʷetʼ",Phonemic
+1-430-31-3,kara1473,Avar (Karakh dialect),1803,гъветІ,CyrillTrans,wood,,,"cʼul, ɣʷetʼ",Phonemic
+1-420-31-1,kara1473,Avar (Karakh dialect),906,гъветІ,CyrillTrans,tree (cf 08.600),,,ɣʷetʼ,Phonemic
+1-410-31-1,kara1473,Avar (Karakh dialect),420,рохь,CyrillTrans,"woods, forest",,,rox̌,Phonemic
+1-390-31-1,kara1473,Avar (Karakh dialect),943,чвахел,CyrillTrans,waterfall,,,čʷaxel,Phonemic
+1-380-31-1,kara1473,Avar (Karakh dialect),1145,хьуцІ,CyrillTrans,swamp,,,x̌ucʼ,Phonemic
+1-370-31-1,kara1473,Avar (Karakh dialect),2144,ут,CyrillTrans,"spring, well",,,"ut, qʼulʕa, ic̄",Phonemic
+1-370-31-3,kara1473,Avar (Karakh dialect),2144,къулгІа,CyrillTrans,"spring, well",,,"ut, qʼulʕa, ic̄",Phonemic
+1-370-31-5,kara1473,Avar (Karakh dialect),2144,ицц,CyrillTrans,"spring, well",,,"ut, qʼulʕa, ic̄",Phonemic
+1-362-31-1,kara1473,Avar (Karakh dialect),1982,лъадал жаниб сори,CyrillTrans,whirlpool,,,ɬadal žanib sori,Phonemic
+1-360-31-1,kara1473,Avar (Karakh dialect),666,гІор,CyrillTrans,"river, stream, brook",,,"ʕor, čʷaxi, ɬar",Phonemic
+1-360-31-3,kara1473,Avar (Karakh dialect),666,чвахи,CyrillTrans,"river, stream, brook",,,"ʕor, čʷaxi, ɬar",Phonemic
+1-360-31-5,kara1473,Avar (Karakh dialect),666,лъар,CyrillTrans,"river, stream, brook",,,"ʕor, čʷaxi, ɬar",Phonemic
+1-354-31-1,kara1473,Avar (Karakh dialect),613,лълъим ади бегьи,CyrillTrans,hightide,,,ɬ̄im adi behi,Phonemic
+1-353-31-1,kara1473,Avar (Karakh dialect),1026,лълъим нахъи (аса) ин,CyrillTrans,lowtide,,,ɬ̄im naqi (asa) in,Phonemic
+1-352-31-1,kara1473,Avar (Karakh dialect),891,лълъим ади бегьи ва нахъи (аса) ин,CyrillTrans,tide,,,ɬ̄im adi behi wa naqi (asa) in,Phonemic
+1-350-31-1,kara1473,Avar (Karakh dialect),978,карачел,CyrillTrans,wave,,,karačel,Phonemic
+1-343-31-1,kara1473,Avar (Karakh dialect),1662,квачІ,CyrillTrans,"headland, point",,,"kʷačʼ, raƛ̄ʼul butʼa",Phonemic
+1-343-31-3,kara1473,Avar (Karakh dialect),1662,ракьул бутІа,CyrillTrans,"headland, point",,,"kʷačʼ, raƛ̄ʼul butʼa",Phonemic
+1-340-31-1,kara1473,Avar (Karakh dialect),663,ралъдал квачІ,CyrillTrans,"gulf, bay",,,raɬdal kʷačʼ,Phonemic
+1-330-31-1,kara1473,Avar (Karakh dialect),624,хІир,CyrillTrans,lake,,,ħir,Phonemic
+1-329-31-1,kara1473,Avar (Karakh dialect),645,кІудаб ралъад,CyrillTrans,ocean,,,kʼudab raɬad,Phonemic
+1-324-31-1,kara1473,Avar (Karakh dialect),1768,пулоп,CyrillTrans,foam,,,pulop,Phonemic
+1-323-31-1,kara1473,Avar (Karakh dialect),259,гьалагаб,CyrillTrans,rough (of sea),,,halagab,Phonemic
+1-320-31-1,kara1473,Avar (Karakh dialect),1474,ралъад,CyrillTrans,sea,,,raɬad,Phonemic
+1-322-31-1,kara1473,Avar (Karakh dialect),258,гІудобиччараб,CyrillTrans,calm (of sea),,,ʕudobič̄arab,Phonemic
+1-310-31-1,kara1473,Avar (Karakh dialect),948,лълъим,CyrillTrans,water,,,ɬ̄im,Phonemic
+1-280-31-1,kara1473,Avar (Karakh dialect),1155,нухъо,CyrillTrans,cave,,,nuqo,Phonemic
+1-270-31-1,kara1473,Avar (Karakh dialect),113,рагІаллъи,CyrillTrans,shore,,,raʕaɬʔi,Phonemic
+1-260-31-1,kara1473,Avar (Karakh dialect),166,кантинент,CyrillTrans,mainland,,,kantinent,Phonemic
+1-250-31-1,kara1473,Avar (Karakh dialect),622,чІинкІиллъи,CyrillTrans,island,,,čʼinkʼiɬʔi,Phonemic
+1-240-31-1,kara1473,Avar (Karakh dialect),921,гІурумухъ,CyrillTrans,valley,,,ʕurumuq,Phonemic
+1-230-31-1,kara1473,Avar (Karakh dialect),652,майдан,CyrillTrans,"plain, field",,,"maydan, ħur",Phonemic
+1-230-31-3,kara1473,Avar (Karakh dialect),652,хІур,CyrillTrans,"plain, field",,,"maydan, ħur",Phonemic
+1-222-31-1,kara1473,Avar (Karakh dialect),618,кьури,CyrillTrans,"cliff, precipice",,,"ƛ̄ʼuri, k̄ʼal, ʕusi",Phonemic
+1-222-31-3,kara1473,Avar (Karakh dialect),618,кІкІал,CyrillTrans,"cliff, precipice",,,"ƛ̄ʼuri, k̄ʼal, ʕusi",Phonemic
+1-222-31-5,kara1473,Avar (Karakh dialect),618,гІуси,CyrillTrans,"cliff, precipice",,,"ƛ̄ʼuri, k̄ʼal, ʕusi",Phonemic
+1-220-31-1,kara1473,Avar (Karakh dialect),2118,мегІер,CyrillTrans,"mountain, hill",,,"meʕer, š̄ob, ƛ̄ʼuri",Phonemic
+1-220-31-3,kara1473,Avar (Karakh dialect),2118,щоб,CyrillTrans,"mountain, hill",,,"meʕer, š̄ob, ƛ̄ʼuri",Phonemic
+1-220-31-5,kara1473,Avar (Karakh dialect),2118,кьури,CyrillTrans,"mountain, hill",,,"meʕer, š̄ob, ƛ̄ʼuri",Phonemic
+1-214-31-1,kara1473,Avar (Karakh dialect),640,чуроклъи,CyrillTrans,mud,,,čurokɬi,Phonemic
+1-215-31-1,kara1473,Avar (Karakh dialect),671,хІари,CyrillTrans,sand,,,ħari,Phonemic
+1-213-31-1,kara1473,Avar (Karakh dialect),2,хІур,CyrillTrans,dust,,,ħur,Phonemic
+1-212-31-1,kara1473,Avar (Karakh dialect),1228,ракь,CyrillTrans,"earth=ground, soil",,,raƛ̄ʼ,Phonemic
+1-210-31-1,kara1473,Avar (Karakh dialect),626,ракь,CyrillTrans,"earth, land",,,"raƛ̄ʼ, ħukumat, ulka",Phonemic
+1-210-31-3,kara1473,Avar (Karakh dialect),626,хІукумат,CyrillTrans,"earth, land",,,"raƛ̄ʼ, ħukumat, ulka",Phonemic
+1-210-31-5,kara1473,Avar (Karakh dialect),626,улка,CyrillTrans,"earth, land",,,"raƛ̄ʼ, ħukumat, ulka",Phonemic
+1-100-31-1,kara1473,Avar (Karakh dialect),965,дунял,CyrillTrans,world,,,dunyal,Phonemic
+14-330-31-1,kara1473,Avar (Karakh dialect),1544,кьуро-кьуро,CyrillTrans,sometimes,,,ƛ̄ʼuro-ƛ̄ʼuro,Phonemic
+14-331-31-1,kara1473,Avar (Karakh dialect),703,гІемер мех бачІугу,CyrillTrans,soon,,,ʕemer mex bačʼugu,Phonemic
+14-332-31-1,kara1473,Avar (Karakh dialect),418,халатаб,CyrillTrans,long-time (for a),,,xalatab,Phonemic
+14-340-31-1,kara1473,Avar (Karakh dialect),1656,кихІидаги,CyrillTrans,never,,,kiħidagi,Phonemic
+14-350-31-1,kara1473,Avar (Karakh dialect),204,жиги,CyrillTrans,again,,,"žigi, naqigi",Phonemic
+14-350-31-3,kara1473,Avar (Karakh dialect),204,нахъиги,CyrillTrans,again,,,"žigi, naqigi",Phonemic
+14-410-31-1,kara1473,Avar (Karakh dialect),1225,къо,CyrillTrans,day,,,qʼo,Phonemic
+14-420-31-1,kara1473,Avar (Karakh dialect),1233,сордо,CyrillTrans,night,,,sordo,Phonemic
+14-430-31-1,kara1473,Avar (Karakh dialect),729,хъахІлъи баниб мех,CyrillTrans,dawn,,,qaħɬi banib mex,Phonemic
+14-440-31-1,kara1473,Avar (Karakh dialect),1339,рогьалъ,CyrillTrans,morning,,,rohaɬ,Phonemic
+14-450-31-1,kara1473,Avar (Karakh dialect),12,къадимех,CyrillTrans,"noon, midday",,,qʼadimex,Phonemic
+14-451-31-1,kara1473,Avar (Karakh dialect),1807,къадинахъ,CyrillTrans,afternoon,,,qʼadinaq,Phonemic
+14-460-31-1,kara1473,Avar (Karakh dialect),1629,сордо,CyrillTrans,evening,,,"sordo, qʼasi mex",Phonemic
+14-460-31-3,kara1473,Avar (Karakh dialect),1629,къаси мех,CyrillTrans,evening,,,"sordo, qʼasi mex",Phonemic
+14-470-31-1,kara1473,Avar (Karakh dialect),1283,жакъа,CyrillTrans,today,,,žaqʼa,Phonemic
+14-480-31-1,kara1473,Avar (Karakh dialect),1329,митер,CyrillTrans,tomorrow,,,miter,Phonemic
+14-481-31-1,kara1473,Avar (Karakh dialect),1179,митерчІол,CyrillTrans,day-after-tomorrow,,,miterčʼol,Phonemic
+14-490-31-1,kara1473,Avar (Karakh dialect),1174,сон,CyrillTrans,yesterday,,,son,Phonemic
+14-491-31-1,kara1473,Avar (Karakh dialect),1180,цирегану,CyrillTrans,day-before-yesterday,,,cireganu,Phonemic
+14-510-31-1,kara1473,Avar (Karakh dialect),1353,сагІат,CyrillTrans,hour,,,saʕat,Phonemic
+14-530-31-1,kara1473,Avar (Karakh dialect),1323,сагІат,CyrillTrans,"clock, timepiece",,,saʕat,Phonemic
+14-610-31-1,kara1473,Avar (Karakh dialect),1469,анкь,CyrillTrans,week,,,anƛ̄ʼ,Phonemic
+14-620-31-1,kara1473,Avar (Karakh dialect),1699,гьатІан,CyrillTrans,Sunday,,,hatʼan,Phonemic
+14-630-31-1,kara1473,Avar (Karakh dialect),1697,итни,CyrillTrans,Monday,,,itni,Phonemic
+14-640-31-1,kara1473,Avar (Karakh dialect),1695,талат,CyrillTrans,Tuesday,,,talat,Phonemic
+14-650-31-1,kara1473,Avar (Karakh dialect),1694,арбагІ,CyrillTrans,Wednesday,,,arbaʕ,Phonemic
+14-660-31-1,kara1473,Avar (Karakh dialect),1693,хамиз,CyrillTrans,Thursday,,,xamiz,Phonemic
+14-670-31-1,kara1473,Avar (Karakh dialect),1692,рузман,CyrillTrans,Friday,,,ruzman,Phonemic
+14-680-31-1,kara1473,Avar (Karakh dialect),1700,шамат,CyrillTrans,Saturday,,,šamat,Phonemic
+14-710-31-1,kara1473,Avar (Karakh dialect),1370,моцІ,CyrillTrans,month,,,mocʼ,Phonemic
+14-730-31-1,kara1473,Avar (Karakh dialect),1226,сон,CyrillTrans,year,,,son,Phonemic
+14-740-31-1,kara1473,Avar (Karakh dialect),1471,кьин,CyrillTrans,winter,,,ƛ̄ʼin,Phonemic
+14-750-31-1,kara1473,Avar (Karakh dialect),1537,их,CyrillTrans,spring,,,ix,Phonemic
+14-760-31-1,kara1473,Avar (Karakh dialect),1342,ригІи,CyrillTrans,summer,,,riʕi,Phonemic
+14-770-31-1,kara1473,Avar (Karakh dialect),1276,хасел,CyrillTrans,autumn,,,xasel,Phonemic
+14-780-31-1,kara1473,Avar (Karakh dialect),691,лъагІалил заман,CyrillTrans,season,,,ɬaʕalil zaman,Phonemic
+15-210-31-1,kara1473,Avar (Karakh dialect),1587,махІ чІвази,CyrillTrans,smell (vb intrans),,,maħ čʼazi,Phonemic
+15-212-31-1,kara1473,Avar (Karakh dialect),375,хІахІ чІвази,CyrillTrans,sniff,,,"ħaħ čʼwazi, maħ suntʼzi",Phonemic
+15-212-31-3,kara1473,Avar (Karakh dialect),375,махІ сунтІзи,CyrillTrans,sniff,,,"ħaħ čʼwazi, maħ suntʼzi",Phonemic
+15-220-31-1,kara1473,Avar (Karakh dialect),1586,махІ сунтІзи,CyrillTrans,smell (vb trans),,,maħ suntʼzi,Phonemic
+15-250-31-1,kara1473,Avar (Karakh dialect),376,лъикІаб махІ,CyrillTrans,"fragrant, good smelling",,,ɬikʼab maħ,Phonemic
+15-260-31-1,kara1473,Avar (Karakh dialect),42,чикинаб махІ,CyrillTrans,"stinking, bad smelling",,,čikinab maħ,Phonemic
+15-310-31-1,kara1473,Avar (Karakh dialect),21,тІагІам,CyrillTrans,taste,,,tʼaʕam,Phonemic
+15-350-31-1,kara1473,Avar (Karakh dialect),717,гьуинаб,CyrillTrans,sweet,,,huinab,Phonemic
+15-360-31-1,kara1473,Avar (Karakh dialect),1091,цІамхІалаб,CyrillTrans,salty,,,cʼamħalab,Phonemic
+15-370-31-1,kara1473,Avar (Karakh dialect),887,кьогІаб,CyrillTrans,bitter,,,ƛ̄ʼoʕab,Phonemic
+15-380-31-1,kara1473,Avar (Karakh dialect),1906,цІекаб,CyrillTrans,"acid, sour",,,cʼekab,Phonemic
+15-390-31-1,kara1473,Avar (Karakh dialect),70,цІамхІалаб,CyrillTrans,brackish,,,cʼamħalab,Phonemic
+15-410-31-1,kara1473,Avar (Karakh dialect),1408,регІзи,CyrillTrans,hear,,,reʕzi,Phonemic
+15-420-31-1,kara1473,Avar (Karakh dialect),1608,гІинчІвази,CyrillTrans,listen,,,ʕinčʼwazi,Phonemic
+15-440-31-1,kara1473,Avar (Karakh dialect),1811,сас,CyrillTrans,"sound, noise",,,sas,Phonemic
+15-450-31-1,kara1473,Avar (Karakh dialect),377,сас кІудаб,CyrillTrans,loud,,,sas kʼudab,Phonemic
+15-460-31-1,kara1473,Avar (Karakh dialect),1314,рахІатав,CyrillTrans,"quiet, silence",,,raħataw,Phonemic
+15-510-31-1,kara1473,Avar (Karakh dialect),1409,бехьзи,CyrillTrans,see,,,bex̌zi,Phonemic
+15-520-31-1,kara1473,Avar (Karakh dialect),1819,валагьзи,CyrillTrans,"look, look at",,,walahzi,Phonemic
+15-550-31-1,kara1473,Avar (Karakh dialect),1039,бихьизабузи,CyrillTrans,show,,,bix̌izabuzi,Phonemic
+15-560-31-1,kara1473,Avar (Karakh dialect),708,рукІози,CyrillTrans,shine,,,rukʼozi,Phonemic
+15-570-31-1,kara1473,Avar (Karakh dialect),679,канаб,CyrillTrans,bright,,,kanab,Phonemic
+15-610-31-1,kara1473,Avar (Karakh dialect),1613,кьер,CyrillTrans,color,,,ƛ̄ʼer,Phonemic
+15-620-31-1,kara1473,Avar (Karakh dialect),250,канаб,CyrillTrans,light (in color),,,kanab,Phonemic
+15-630-31-1,kara1473,Avar (Karakh dialect),706,бецІаб,CyrillTrans,dark (in color),,,becʼab,Phonemic
+15-640-31-1,kara1473,Avar (Karakh dialect),1335,хъахІаб,CyrillTrans,white,,,qaħab,Phonemic
+15-650-31-1,kara1473,Avar (Karakh dialect),163,чІигІераб,CyrillTrans,black,,,čʼiʕerab,Phonemic
+15-660-31-1,kara1473,Avar (Karakh dialect),156,багІараб,CyrillTrans,red,,,baʕarab,Phonemic
+15-670-31-1,kara1473,Avar (Karakh dialect),837,хъахІилаб,CyrillTrans,blue,,,qaħilab,Phonemic
+15-680-31-1,kara1473,Avar (Karakh dialect),1425,гІурччинаб,CyrillTrans,green,,,ʕurč̄inab,Phonemic
+15-690-31-1,kara1473,Avar (Karakh dialect),1424,мачІаб,CyrillTrans,yellow,,,mačʼab,Phonemic
+15-710-31-1,kara1473,Avar (Karakh dialect),1892,хъатзи,CyrillTrans,touch,,,qatzi,Phonemic
+15-712-31-1,kara1473,Avar (Karakh dialect),378,къинтІ бази,CyrillTrans,pinch,,,qʼintʼ bazi,Phonemic
+15-720-31-1,kara1473,Avar (Karakh dialect),1079,лъази,CyrillTrans,feel,,,ɬazi,Phonemic
+15-740-31-1,kara1473,Avar (Karakh dialect),1884,къвакІураб,CyrillTrans,hard,,,qʼʷakʼurab,Phonemic
+15-750-31-1,kara1473,Avar (Karakh dialect),1856,тамахав,CyrillTrans,soft,,,tamaxaw,Phonemic
+15-760-31-1,kara1473,Avar (Karakh dialect),1923,хъачІаб,CyrillTrans,rough,,,qačʼab,Phonemic
+15-770-31-1,kara1473,Avar (Karakh dialect),1234,битІураб,CyrillTrans,smooth,,,"bitʼurab, cʼʷakurab",Phonemic
+15-770-31-3,kara1473,Avar (Karakh dialect),1234,цІвакураб,CyrillTrans,smooth,,,"bitʼurab, cʼʷakurab",Phonemic
+15-780-31-1,kara1473,Avar (Karakh dialect),1396,бигІераб,CyrillTrans,sharp,,,biʕerab,Phonemic
+15-790-31-1,kara1473,Avar (Karakh dialect),379,эпаб,CyrillTrans,"blunt, dull",,,epab,Phonemic
+15-810-31-1,kara1473,Avar (Karakh dialect),1210,бакІаб,CyrillTrans,heavy,,,bakʼab,Phonemic
+15-820-31-1,kara1473,Avar (Karakh dialect),1052,алдагьаб,CyrillTrans,light (in weight),,,aldahab,Phonemic
+15-830-31-1,kara1473,Avar (Karakh dialect),1726,хІекараб,CyrillTrans,"wet, damp",,,ħekarab,Phonemic
+15-840-31-1,kara1473,Avar (Karakh dialect),1398,букъараб,CyrillTrans,dry,,,buqʼarab,Phonemic
+15-850-31-1,kara1473,Avar (Karakh dialect),1286,бухІараб,CyrillTrans,hot,,,buħarab,Phonemic
+15-851-31-1,kara1473,Avar (Karakh dialect),1232,хинаб,CyrillTrans,warm,,,xinab,Phonemic
+15-860-31-1,kara1473,Avar (Karakh dialect),1287,цІурораб,CyrillTrans,cold,,,cʼurorab,Phonemic
+15-870-31-1,kara1473,Avar (Karakh dialect),704,бацІадаб,CyrillTrans,clean,,,bacʼadab,Phonemic
+15-880-31-1,kara1473,Avar (Karakh dialect),1230,чорокаб,CyrillTrans,"dirty, soiled",,,čorokab,Phonemic
+15-890-31-1,kara1473,Avar (Karakh dialect),380,букІкІараб,CyrillTrans,wrinkled,,,buk̄ʼarab,Phonemic
+16-110-31-1,kara1473,Avar (Karakh dialect),53,рухІ,CyrillTrans,"soul, spirit",,,ruħ,Phonemic
+16-150-31-1,kara1473,Avar (Karakh dialect),1572,хІикмалъарав,CyrillTrans,"surprised, astonished",,,ħikmaɬaraw,Phonemic
+16-180-31-1,kara1473,Avar (Karakh dialect),720,талихІ,CyrillTrans,"good fortune, luck",,,taliħ,Phonemic
+16-190-31-1,kara1473,Avar (Karakh dialect),56,талихІкъей,CyrillTrans,"misfortune, bad luck",,,taliħqʼey,Phonemic
+16-230-31-1,kara1473,Avar (Karakh dialect),1495,вохарав,CyrillTrans,"joyful, glad, happy",,,"woxaraw, taliħaw",Phonemic
+16-230-31-3,kara1473,Avar (Karakh dialect),1495,талихІав,CyrillTrans,"joyful, glad, happy",,,"woxaraw, taliħaw",Phonemic
+16-250-31-1,kara1473,Avar (Karakh dialect),1355,велъзи,CyrillTrans,laugh,,,weɬzi,Phonemic
+16-251-31-1,kara1473,Avar (Karakh dialect),1451,велъзи,CyrillTrans,smile,,,weɬzi,Phonemic
+16-260-31-1,kara1473,Avar (Karakh dialect),1413,хІази,CyrillTrans,play,,,ħazi,Phonemic
+16-270-31-1,kara1473,Avar (Karakh dialect),923,вокьизи,CyrillTrans,love,,,woƛ̄ʼizi,Phonemic
+16-290-31-1,kara1473,Avar (Karakh dialect),578,убач гьабузи,CyrillTrans,kiss,,,"ubač habuzi, baʕzi",Phonemic
+16-290-31-3,kara1473,Avar (Karakh dialect),578,багІзи,CyrillTrans,kiss,,,"ubač habuzi, baʕzi",Phonemic
+16-300-31-1,kara1473,Avar (Karakh dialect),928,къвал бази,CyrillTrans,embrace,,,qʼʷal bazi,Phonemic
+16-310-31-1,kara1473,Avar (Karakh dialect),1783,унти,CyrillTrans,pain,,,unti,Phonemic
+16-320-31-1,kara1473,Avar (Karakh dialect),1668,къварилъи,CyrillTrans,"grief, sorrow, sadness",,,qʼʷariɬi,Phonemic
+16-330-31-1,kara1473,Avar (Karakh dialect),1000,ахІи,CyrillTrans,"anxiety, worry",,,aħi,Phonemic
+16-340-31-1,kara1473,Avar (Karakh dialect),1875,гурхІзи,CyrillTrans,"regret, be sorry",,,gurħzi,Phonemic
+16-350-31-1,kara1473,Avar (Karakh dialect),1141,гурхІел,CyrillTrans,pity,,,gurħel,Phonemic
+16-370-31-1,kara1473,Avar (Karakh dialect),1839,гІандзи,CyrillTrans,"cry, weep",,,ʕanʒi,Phonemic
+16-380-31-1,kara1473,Avar (Karakh dialect),1651,магІу,CyrillTrans,tear (noun),,,maʕu,Phonemic
+16-390-31-1,kara1473,Avar (Karakh dialect),716,угьдзи,CyrillTrans,groan,,,uhʒi,Phonemic
+16-410-31-1,kara1473,Avar (Karakh dialect),1607,гІилечІ вехьзи,CyrillTrans,hate,,,ʕilečʼ wex̌zi,Phonemic
+16-420-31-1,kara1473,Avar (Karakh dialect),82,ццим,CyrillTrans,anger,,,c̄im,Phonemic
+16-440-31-1,kara1473,Avar (Karakh dialect),40,урхІи,CyrillTrans,"envy, jealousy",,,"urħi, šakdari",Phonemic
+16-440-31-3,kara1473,Avar (Karakh dialect),40,шакдари,CyrillTrans,"envy, jealousy",,,"urħi, šakdari",Phonemic
+16-450-31-1,kara1473,Avar (Karakh dialect),1776,намус,CyrillTrans,shame (noun),,,"namus, nič",Phonemic
+16-450-31-3,kara1473,Avar (Karakh dialect),1776,нич,CyrillTrans,shame (noun),,,"namus, nič",Phonemic
+16-480-31-1,kara1473,Avar (Karakh dialect),174,чІухІав,CyrillTrans,proud,,,čʼuħaw,Phonemic
+16-510-31-1,kara1473,Avar (Karakh dialect),1779,чІвакьурав,CyrillTrans,dare,,,čʼʷaƛ̄ʼuraw,Phonemic
+16-520-31-1,kara1473,Avar (Karakh dialect),3,бахІарчияв,CyrillTrans,brave,,,baħarčiyaw,Phonemic
+16-530-31-1,kara1473,Avar (Karakh dialect),781,хІинкъи,CyrillTrans,"fear, fright",,,ħinqʼi,Phonemic
+16-540-31-1,kara1473,Avar (Karakh dialect),1810,хІинкъи,CyrillTrans,danger,,,"ħinqʼi, balah",Phonemic
+16-540-31-3,kara1473,Avar (Karakh dialect),1810,балагь,CyrillTrans,danger,,,"ħinqʼi, balah",Phonemic
+16-620-31-1,kara1473,Avar (Karakh dialect),1784,мурад,CyrillTrans,"desire, want",,,murad,Phonemic
+16-622-31-1,kara1473,Avar (Karakh dialect),1750,бищзи,CyrillTrans,choose,,,"biš̄zi, wiš̄zi",Phonemic
+16-622-31-3,kara1473,Avar (Karakh dialect),1750,вищзи,CyrillTrans,choose,,,"biš̄zi, wiš̄zi",Phonemic
+16-630-31-1,kara1473,Avar (Karakh dialect),1092,божи гьабузи,CyrillTrans,hope,,,boži habuzi,Phonemic
+16-650-31-1,kara1473,Avar (Karakh dialect),100,ритІухъаб,CyrillTrans,faithful,,,ritʼuqab,Phonemic
+16-660-31-1,kara1473,Avar (Karakh dialect),1657,унго-унгаяб,CyrillTrans,true,,,ungo-ungayab,Phonemic
+16-670-31-1,kara1473,Avar (Karakh dialect),601,мацІ бицзи,CyrillTrans,"lie, tell lies",,,mac̄ʼ biczi,Phonemic
+16-680-31-1,kara1473,Avar (Karakh dialect),13,мацІ бицзи,CyrillTrans,deceit,,,mac̄ʼ biczi,Phonemic
+16-690-31-1,kara1473,Avar (Karakh dialect),1528,аса лъугьинзи,CyrillTrans,forgive,,,asa ɬuhinzi,Phonemic
+16-710-31-1,kara1473,Avar (Karakh dialect),1035,лъикІав,CyrillTrans,good,,,ɬikʼaw,Phonemic
+16-720-31-1,kara1473,Avar (Karakh dialect),1292,квешав,CyrillTrans,bad,,,kʷešaw,Phonemic
+16-730-31-1,kara1473,Avar (Karakh dialect),1725,битІураб,CyrillTrans,"right, correct",,,bitʼurab,Phonemic
+16-740-31-1,kara1473,Avar (Karakh dialect),1390,мекъаб,CyrillTrans,wrong,,,meqʼab,Phonemic
+16-760-31-1,kara1473,Avar (Karakh dialect),134,пиша,CyrillTrans,fault,,,piša,Phonemic
+16-770-31-1,kara1473,Avar (Karakh dialect),1293,гъалатІ,CyrillTrans,"mistake, error",,,ɣalatʼ,Phonemic
+16-780-31-1,kara1473,Avar (Karakh dialect),381,гІайиб гьабузи,CyrillTrans,blame,,,ʕayib habuzi,Phonemic
+16-790-31-1,kara1473,Avar (Karakh dialect),1687,бецзи,CyrillTrans,praise,,,beczi,Phonemic
+16-810-31-1,kara1473,Avar (Karakh dialect),1427,берцинав,CyrillTrans,beautiful,,,bercinaw,Phonemic
+16-820-31-1,kara1473,Avar (Karakh dialect),1548,гІилечІав,CyrillTrans,ugly,,,ʕilečʼaw,Phonemic
+16-830-31-1,kara1473,Avar (Karakh dialect),2018,къарумав,CyrillTrans,greedy,,,qʼarumaw,Phonemic
+16-840-31-1,kara1473,Avar (Karakh dialect),1310,цІодорав,CyrillTrans,clever,,,cʼodoraw,Phonemic
+17-110-31-1,kara1473,Avar (Karakh dialect),1562,гІакълу,CyrillTrans,mind,,,ʕaqʼlu,Phonemic
+17-130-31-1,kara1473,Avar (Karakh dialect),1415,ургъзи,CyrillTrans,think (= reflect),,,urɣzi,Phonemic
+17-140-31-1,kara1473,Avar (Karakh dialect),1513,рикІзи,CyrillTrans,think (= be of the opinion),,,rikʼzi,Phonemic
+17-150-31-1,kara1473,Avar (Karakh dialect),1890,божзи,CyrillTrans,believe,,,božzi,Phonemic
+17-160-31-1,kara1473,Avar (Karakh dialect),1536,бичІчІзи,CyrillTrans,understand,,,bič̄ʼzi,Phonemic
+17-170-31-1,kara1473,Avar (Karakh dialect),1410,лъази,CyrillTrans,know,,,ɬazi,Phonemic
+17-171-31-1,kara1473,Avar (Karakh dialect),1932,ккези,CyrillTrans,guess,,,k̄ezi,Phonemic
+17-172-31-1,kara1473,Avar (Karakh dialect),117,хосзи,CyrillTrans,imitate,,,xoszi,Phonemic
+17-180-31-1,kara1473,Avar (Karakh dialect),1521,ккези,CyrillTrans,seem,,,k̄ezi,Phonemic
+17-190-31-1,kara1473,Avar (Karakh dialect),1609,бичІчІи,CyrillTrans,"idea, notion",,,"bič̄ʼi, pikru",Phonemic
+17-190-31-3,kara1473,Avar (Karakh dialect),1609,пикру,CyrillTrans,"idea, notion",,,"bič̄ʼi, pikru",Phonemic
+17-210-31-1,kara1473,Avar (Karakh dialect),698,гІакъилав,CyrillTrans,wise,,,ʕaqʼilaw,Phonemic
+17-220-31-1,kara1473,Avar (Karakh dialect),1518,гІантав,CyrillTrans,"foolish, stupid",,,ʕantaw,Phonemic
+17-230-31-1,kara1473,Avar (Karakh dialect),1899,гІакълуялдаса арав,CyrillTrans,"insane, crazy",,,"ʕaqʼluyaldasa araw, ʕantaw, ʕadalaw",Phonemic
+17-230-31-3,kara1473,Avar (Karakh dialect),1899,гІантав,CyrillTrans,"insane, crazy",,,"ʕaqʼluyaldasa araw, ʕantaw, ʕadalaw",Phonemic
+17-230-31-5,kara1473,Avar (Karakh dialect),1899,гІадалав,CyrillTrans,"insane, crazy",,,"ʕaqʼluyaldasa araw, ʕantaw, ʕadalaw",Phonemic
+17-240-31-1,kara1473,Avar (Karakh dialect),504,цІалзи,CyrillTrans,learn,,,cʼalzi,Phonemic
+17-242-31-1,kara1473,Avar (Karakh dialect),1929,лъазабузи,CyrillTrans,study,,,ɬazabuzi,Phonemic
+17-250-31-1,kara1473,Avar (Karakh dialect),709,цІалзи,CyrillTrans,teach,,,cʼalzi,Phonemic
+17-260-31-1,kara1473,Avar (Karakh dialect),753,цІалдохъан,CyrillTrans,pupil,,,cʼaldoqan,Phonemic
+17-270-31-1,kara1473,Avar (Karakh dialect),1038,мугІалим,CyrillTrans,teacher,,,muʕalim,Phonemic
+17-280-31-1,kara1473,Avar (Karakh dialect),673,ушкол,CyrillTrans,school,,,uškol,Phonemic
+17-310-31-1,kara1473,Avar (Karakh dialect),707,ракІалде щвези,CyrillTrans,remember,,,rakʼalde š̄ʷezi,Phonemic
+17-320-31-1,kara1473,Avar (Karakh dialect),1523,кІочон инзи,CyrillTrans,forget,,,kʼočon inzi,Phonemic
+17-340-31-1,kara1473,Avar (Karakh dialect),989,бичІбугеб,CyrillTrans,"clear, plain",,,bičʼbugeb,Phonemic
+17-350-31-1,kara1473,Avar (Karakh dialect),1764,бичІчІулареб,CyrillTrans,obscure,,,bič̄ʼulareb,Phonemic
+17-360-31-1,kara1473,Avar (Karakh dialect),1121,балъголъи,CyrillTrans,secret,,,baɬgoɬi,Phonemic
+17-370-31-1,kara1473,Avar (Karakh dialect),509,ракІ чІараб,CyrillTrans,"sure, certain",,,rakʼ čʼarab,Phonemic
+17-380-31-1,kara1473,Avar (Karakh dialect),1626,бичІизабузи,CyrillTrans,explain,,,bičʼizabuzi,Phonemic
+17-410-31-1,kara1473,Avar (Karakh dialect),1162,мурад,CyrillTrans,"intention, purpose",,,"murad, xiyal",Phonemic
+17-410-31-3,kara1473,Avar (Karakh dialect),1162,хиял,CyrillTrans,"intention, purpose",,,"murad, xiyal",Phonemic
+17-420-31-1,kara1473,Avar (Karakh dialect),860,гІилла,CyrillTrans,cause,,,"ʕilla, bahana",Phonemic
+17-420-31-3,kara1473,Avar (Karakh dialect),860,багьана,CyrillTrans,cause,,,"ʕilla, bahana",Phonemic
+17-430-31-1,kara1473,Avar (Karakh dialect),1308,шаклъи,CyrillTrans,doubt,,,šakɬi,Phonemic
+17-440-31-1,kara1473,Avar (Karakh dialect),1841,шаклъизи,CyrillTrans,suspect,,,šakɬizi,Phonemic
+17-441-31-1,kara1473,Avar (Karakh dialect),1902,къутІиб чІвази,CyrillTrans,betray,,,qʼutʼib čʼʷazi,Phonemic
+17-450-31-1,kara1473,Avar (Karakh dialect),643,къурагІил,CyrillTrans,"need, necessity",,,qʼuraʕil,Phonemic
+17-460-31-1,kara1473,Avar (Karakh dialect),686,алдагьаб,CyrillTrans,easy,,,"aldahab, tʼadahab",Phonemic
+17-460-31-3,kara1473,Avar (Karakh dialect),686,тІадагьаб,CyrillTrans,easy,,,"aldahab, tʼadahab",Phonemic
+17-470-31-1,kara1473,Avar (Karakh dialect),584,захІматаб,CyrillTrans,difficult,,,zaħmatab,Phonemic
+17-480-31-1,kara1473,Avar (Karakh dialect),1812,хІалбихьи,CyrillTrans,"try, attempt",,,ħalbix̌i,Phonemic
+17-490-31-1,kara1473,Avar (Karakh dialect),488,къагІида,CyrillTrans,"way, manner",,,qʼaʕida,Phonemic
+17-510-31-1,kara1473,Avar (Karakh dialect),1577,ва,CyrillTrans,and,,,"wa, -gi",Phonemic
+17-510-31-3,kara1473,Avar (Karakh dialect),1577,ги,CyrillTrans,and,,,"wa, -gi",Phonemic
+17-520-31-1,kara1473,Avar (Karakh dialect),1157,щизе гурулъи,CyrillTrans,because,,,š̄ize guruɬi,Phonemic
+17-530-31-1,kara1473,Avar (Karakh dialect),1459,нагагь,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-530-31-3,kara1473,Avar (Karakh dialect),1459,-ни,CyrillTrans,if,,,"nagah, -ni",Phonemic
+17-540-31-1,kara1473,Avar (Karakh dialect),1014,я,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-540-31-3,kara1473,Avar (Karakh dialect),1014,яги,CyrillTrans,or,,,"ya, yagi",Phonemic
+17-550-31-1,kara1473,Avar (Karakh dialect),1268,э,CyrillTrans,"yes, affirmative",,,e,Phonemic
+17-560-31-1,kara1473,Avar (Karakh dialect),1269,гуро,CyrillTrans,"no, negative",,,guro,Phonemic
+17-610-31-1,kara1473,Avar (Karakh dialect),1239,кин,CyrillTrans,how?,,,kin,Phonemic
+17-620-31-1,kara1473,Avar (Karakh dialect),822,чан,CyrillTrans,how many?,,,čan,Phonemic
+17-630-31-1,kara1473,Avar (Karakh dialect),531,чан,CyrillTrans,how much?,,,čan,Phonemic
+17-640-31-1,kara1473,Avar (Karakh dialect),1236,щиб,CyrillTrans,what?,,,š̄ib,Phonemic
+17-650-31-1,kara1473,Avar (Karakh dialect),1238,кида,CyrillTrans,when?,,,kida,Phonemic
+17-660-31-1,kara1473,Avar (Karakh dialect),1237,киса,CyrillTrans,where?,,,kisa,Phonemic
+17-670-31-1,kara1473,Avar (Karakh dialect),727,кинаб,CyrillTrans,which?,,,kinab,Phonemic
+17-680-31-1,kara1473,Avar (Karakh dialect),1235,щив,CyrillTrans,who?,,,š̄iw,Phonemic
+17-690-31-1,kara1473,Avar (Karakh dialect),1270,щизе,CyrillTrans,why?,,,š̄ize,Phonemic
+18-110-31-1,kara1473,Avar (Karakh dialect),1363,сас,CyrillTrans,voice,,,sas,Phonemic
+18-120-31-1,kara1473,Avar (Karakh dialect),1261,ахІзи,CyrillTrans,sing,,,aħzi,Phonemic
+18-130-31-1,kara1473,Avar (Karakh dialect),715,ахІи бази,CyrillTrans,"shout, cry out",,,aħi bazi,Phonemic
+18-150-31-1,kara1473,Avar (Karakh dialect),55,шурзи,CyrillTrans,whisper,,,šurzi,Phonemic
+18-160-31-1,kara1473,Avar (Karakh dialect),128,борбордзи,CyrillTrans,mumble,,,borborʒi,Phonemic
+18-170-31-1,kara1473,Avar (Karakh dialect),1025,шутІзи,CyrillTrans,whistle,,,šutʼzi,Phonemic
+18-180-31-1,kara1473,Avar (Karakh dialect),298,цІицІидзи,CyrillTrans,"shriek, screech",,,cʼicʼiʒi,Phonemic
+18-190-31-1,kara1473,Avar (Karakh dialect),526,гІавусдзи,CyrillTrans,howl,,,ʕawusʒi,Phonemic
+18-210-31-1,kara1473,Avar (Karakh dialect),1623,абзи,CyrillTrans,"speak, talk",,,"abzi, gudezi",Phonemic
+18-210-31-3,kara1473,Avar (Karakh dialect),1623,гудези,CyrillTrans,"speak, talk",,,"abzi, gudezi",Phonemic
+18-211-31-1,kara1473,Avar (Karakh dialect),1866,гьакІзи,CyrillTrans,"stutter, stammer",,,hakʼzi,Phonemic
+18-220-31-1,kara1473,Avar (Karakh dialect),1458,абзи,CyrillTrans,say,,,abzi,Phonemic
+18-221-31-1,kara1473,Avar (Karakh dialect),1711,хабар бицзи,CyrillTrans,tell story,,,xabar bicizi,Phonemic
+18-222-31-1,kara1473,Avar (Karakh dialect),1115,гвед гьабузи,CyrillTrans,speech (make a),,,gʷed habuzi,Phonemic
+18-230-31-1,kara1473,Avar (Karakh dialect),48,кІалкъази,CyrillTrans,silent (be),,,kʼalqʼazi,Phonemic
+18-240-31-1,kara1473,Avar (Karakh dialect),1307,мацІ,CyrillTrans,language,,,mac̄ʼ,Phonemic
+18-260-31-1,kara1473,Avar (Karakh dialect),1599,рагІи,CyrillTrans,word,,,raʕi,Phonemic
+18-280-31-1,kara1473,Avar (Karakh dialect),1405,цІар,CyrillTrans,name,,,cʼar,Phonemic
+18-310-31-1,kara1473,Avar (Karakh dialect),1309,цІухзи,CyrillTrans,"ask (question, inquire)",,,"cʼuxzi, hiqʼzi",Phonemic
+18-310-31-3,kara1473,Avar (Karakh dialect),1309,гьикъзи,CyrillTrans,"ask (question, inquire)",,,"cʼuxzi, hiqʼzi",Phonemic
+18-320-31-1,kara1473,Avar (Karakh dialect),1275,жаваб кьези,CyrillTrans,answer,,,žawab ƛ̄ʼezi,Phonemic
+18-330-31-1,kara1473,Avar (Karakh dialect),2022,мукІурлъзи,CyrillTrans,"admit, confess",,,mukʼurɬzi,Phonemic
+18-340-31-1,kara1473,Avar (Karakh dialect),755,инкар гьабзи,CyrillTrans,deny,,,inkar habuzi,Phonemic
+18-350-31-1,kara1473,Avar (Karakh dialect),1828,гьарзи,CyrillTrans,"ask, request",,,harzi,Phonemic
+18-360-31-1,kara1473,Avar (Karakh dialect),1675,рагІи кьези,CyrillTrans,promise,,,raʕi ƛ̄ʼezi,Phonemic
+18-370-31-1,kara1473,Avar (Karakh dialect),49,нахъчІвази,CyrillTrans,refuse,,,naqčʼwazi,Phonemic
+18-380-31-1,kara1473,Avar (Karakh dialect),83,огъзи,CyrillTrans,forbid,,,oɣzi,Phonemic
+18-390-31-1,kara1473,Avar (Karakh dialect),299,гудези,CyrillTrans,"rebuke, scold",,,"gudezi, qʼeħzi",Phonemic
+18-390-31-3,kara1473,Avar (Karakh dialect),299,къехІзи,CyrillTrans,"rebuke, scold",,,"gudezi, qʼeħzi",Phonemic
+18-410-31-1,kara1473,Avar (Karakh dialect),1084,ахІзи,CyrillTrans,call (=summon),,,aħzi,Phonemic
+18-420-31-1,kara1473,Avar (Karakh dialect),180,абзи,CyrillTrans,call (=name),,,abzi,Phonemic
+18-430-31-1,kara1473,Avar (Karakh dialect),9,лъазабузи,CyrillTrans,announce,,,ɬazabuzi,Phonemic
+18-440-31-1,kara1473,Avar (Karakh dialect),1192,ихІанзи вази,CyrillTrans,threaten,,,"iħanzi wazi, ħenqʼzawuzi",Phonemic
+18-440-31-3,kara1473,Avar (Karakh dialect),1192,хІенкъзавузи,CyrillTrans,threaten,,,"iħanzi wazi, ħenqʼzawuzi",Phonemic
+18-450-31-1,kara1473,Avar (Karakh dialect),101,вецардзи,CyrillTrans,boast,,,wecarʒi,Phonemic
+18-510-31-1,kara1473,Avar (Karakh dialect),1672,хъвази,CyrillTrans,write,,,qʷazi,Phonemic
+18-520-31-1,kara1473,Avar (Karakh dialect),724,цІалзи,CyrillTrans,read,,,cʼalzi,Phonemic
+18-560-31-1,kara1473,Avar (Karakh dialect),648,кагъат,CyrillTrans,paper,,,kaɣat,Phonemic
+18-570-31-1,kara1473,Avar (Karakh dialect),794,ручка,CyrillTrans,pen,,,"ručka, qʼalam",Phonemic
+18-570-31-3,kara1473,Avar (Karakh dialect),794,къалам,CyrillTrans,pen,,,"ručka, qʼalam",Phonemic
+18-610-31-1,kara1473,Avar (Karakh dialect),963,ехь,CyrillTrans,book,,,"ex̌, tʼex̌",Phonemic
+18-610-31-3,kara1473,Avar (Karakh dialect),963,тІехь,CyrillTrans,book,,,"ex̌, tʼex̌",Phonemic
+18-670-31-1,kara1473,Avar (Karakh dialect),1045,кечІхІван чи,CyrillTrans,poet,,,"kečʼ ħʷan či, šaʕir",Phonemic
+18-670-31-3,kara1473,Avar (Karakh dialect),1045,шагІир,CyrillTrans,poet,,,"kečʼ ħʷan či, šaʕir",Phonemic
+18-710-31-1,kara1473,Avar (Karakh dialect),777,щвантІих,CyrillTrans,flute,,,"š̄wantʼix, zurna",Phonemic
+18-710-31-3,kara1473,Avar (Karakh dialect),777,зурна,CyrillTrans,flute,,,"š̄wantʼix, zurna",Phonemic
+18-720-31-1,kara1473,Avar (Karakh dialect),908,къали,CyrillTrans,drum,,,qʼali,Phonemic
+18-730-31-1,kara1473,Avar (Karakh dialect),2136,мущу,CyrillTrans,"horn, trumpet",,,muš̄u,Phonemic
+18-740-31-1,kara1473,Avar (Karakh dialect),300,кІубокІун жо,CyrillTrans,rattle,,,kʼubokʼun žo,Phonemic
+19-110-31-1,kara1473,Avar (Karakh dialect),1300,улка,CyrillTrans,country,,,ulka,Phonemic
+19-120-31-1,kara1473,Avar (Karakh dialect),89,гІагІараб улка,CyrillTrans,one's native country,,,"ʕaʕarab ulka, wat’an",Phonemic
+19-120-31-3,kara1473,Avar (Karakh dialect),89,ватІан,CyrillTrans,one's native country,,,"ʕaʕarab ulka, wat’an",Phonemic
+19-150-31-1,kara1473,Avar (Karakh dialect),1391,шагьар,CyrillTrans,"city, town",,,šahar,Phonemic
+19-160-31-1,kara1473,Avar (Karakh dialect),930,росу,CyrillTrans,village,,,rosu,Phonemic
+19-170-31-1,kara1473,Avar (Karakh dialect),1010,гІурхъи,CyrillTrans,boundary,,,ʕurqi,Phonemic
+19-210-31-1,kara1473,Avar (Karakh dialect),789,халкъ,CyrillTrans,people (populace),,,"xalqʼ, umat",Phonemic
+19-210-31-3,kara1473,Avar (Karakh dialect),789,умат,CyrillTrans,people (populace),,,"xalqʼ, umat",Phonemic
+19-230-31-1,kara1473,Avar (Karakh dialect),302,тухум,CyrillTrans,"tribe, clan",,,tuxum,Phonemic
+19-240-31-1,kara1473,Avar (Karakh dialect),301,цевехъан,CyrillTrans,"chief, chieftain",,,ceweqan,Phonemic
+19-250-31-1,kara1473,Avar (Karakh dialect),1296,ил,CyrillTrans,"staff, walking stick",,,"il, tʼil, ʕansa",Phonemic
+19-250-31-3,kara1473,Avar (Karakh dialect),1296,тІил,CyrillTrans,"staff, walking stick",,,"il, tʼil, ʕansa",Phonemic
+19-250-31-5,kara1473,Avar (Karakh dialect),1296,гІанса,CyrillTrans,"staff, walking stick",,,"il, tʼil, ʕansa",Phonemic
+19-310-31-1,kara1473,Avar (Karakh dialect),1846,ханлъи гьабузи,CyrillTrans,"rule, govern",,,xanɬi habuzi,Phonemic
+19-320-31-1,kara1473,Avar (Karakh dialect),1508,хан,CyrillTrans,"king, ruler",,,"xan, padišah, pača",Phonemic
+19-320-31-3,kara1473,Avar (Karakh dialect),1508,падишагь,CyrillTrans,"king, ruler",,,"xan, padišah, pača",Phonemic
+19-320-31-5,kara1473,Avar (Karakh dialect),1508,пача,CyrillTrans,"king, ruler",,,"xan, padišah, pača",Phonemic
+19-330-31-1,kara1473,Avar (Karakh dialect),1306,ханасул бика,CyrillTrans,queen,,,xanasul bika,Phonemic
+19-360-31-1,kara1473,Avar (Karakh dialect),482,ракІ гІатІидав,CyrillTrans,"noble, nobleman",,,rakʼ ʕatʼidaw,Phonemic
+19-370-31-1,kara1473,Avar (Karakh dialect),1032,шагьаралъул чи,CyrillTrans,"citizen, subject",,,šaharaɬul či,Phonemic
+19-410-31-1,kara1473,Avar (Karakh dialect),383,хужаин,CyrillTrans,master,,,"xužain, betʼerhan",Phonemic
+19-410-31-3,kara1473,Avar (Karakh dialect),383,бетІергьан,CyrillTrans,master,,,"xužain, betʼerhan",Phonemic
+19-420-31-1,kara1473,Avar (Karakh dialect),812,лагъ,CyrillTrans,slave,,,laɣ,Phonemic
+19-430-31-1,kara1473,Avar (Karakh dialect),255,цеве тарав чи,CyrillTrans,servant,,,cewe taraw či,Phonemic
+19-440-31-1,kara1473,Avar (Karakh dialect),384,эрекенав гІадан,CyrillTrans,freeman,,,erekenaw ʕadan,Phonemic
+19-450-31-1,kara1473,Avar (Karakh dialect),1128,амру (буюрухъ) кьези,CyrillTrans,"command, order",,,amru (buyuruq) ƛ̄ʼezi,Phonemic
+19-460-31-1,kara1473,Avar (Karakh dialect),1635,мукІурлъзи,CyrillTrans,obey,,,mukʼurɬzi,Phonemic
+19-470-31-1,kara1473,Avar (Karakh dialect),1003,биччази,CyrillTrans,"let, permit",,,bič̄azi,Phonemic
+19-510-31-1,kara1473,Avar (Karakh dialect),1325,гьудул,CyrillTrans,"friend, companion",,,hudul,Phonemic
+19-520-31-1,kara1473,Avar (Karakh dialect),1358,тушман,CyrillTrans,enemy,,,tušman,Phonemic
+19-540-31-1,kara1473,Avar (Karakh dialect),1332,мадугьал,CyrillTrans,neighbor,,,maduhal,Phonemic
+19-550-31-1,kara1473,Avar (Karakh dialect),791,лъанарав чи,CyrillTrans,stranger,,,ɬanaraw či,Phonemic
+19-560-31-1,kara1473,Avar (Karakh dialect),1782,гьобол,CyrillTrans,guest,,,hobol,Phonemic
+19-570-31-1,kara1473,Avar (Karakh dialect),1545,беълегьан,CyrillTrans,host,,,"beʔlehan, betʼerhan",Phonemic
+19-570-31-3,kara1473,Avar (Karakh dialect),1545,бетІергьан,CyrillTrans,host,,,"beʔlehan, betʼerhan",Phonemic
+19-580-31-1,kara1473,Avar (Karakh dialect),1897,кумак,CyrillTrans,"help, aid",,,kumak,Phonemic
+19-590-31-1,kara1473,Avar (Karakh dialect),1550,гьукъзи,CyrillTrans,"hinder, prevent",,,huqʼzi,Phonemic
+19-610-31-1,kara1473,Avar (Karakh dialect),1747,гІадат,CyrillTrans,custom,,,ʕadat,Phonemic
+19-620-31-1,kara1473,Avar (Karakh dialect),1848,дагІба,CyrillTrans,"strife, quarrel",,,"daʕba, qʼec",Phonemic
+19-620-31-3,kara1473,Avar (Karakh dialect),1848,къец,CyrillTrans,"strife, quarrel",,,"daʕba, qʼec",Phonemic
+19-630-31-1,kara1473,Avar (Karakh dialect),2024,гъоркьчІел,CyrillTrans,"conspiracy, plot",,,ɣorƛ̄ʼčʼel,Phonemic
+19-650-31-1,kara1473,Avar (Karakh dialect),1831,данчІвази,CyrillTrans,meet,,,dančʼʷazi,Phonemic
+19-720-31-1,kara1473,Avar (Karakh dialect),1610,къахІба,CyrillTrans,prostitute,,,qʼaħba,Phonemic
+20-110-31-1,kara1473,Avar (Karakh dialect),1423,рагъзи,CyrillTrans,fight (vb),,,raɣzi,Phonemic
+20-130-31-1,kara1473,Avar (Karakh dialect),579,рагъ,CyrillTrans,"war, battle",,,raɣ,Phonemic
+20-140-31-1,kara1473,Avar (Karakh dialect),1338,рекъел,CyrillTrans,peace,,,reqʼel,Phonemic
+20-150-31-1,kara1473,Avar (Karakh dialect),1561,аскар,CyrillTrans,army,,,"askar, armiya, bo",Phonemic
+20-150-31-3,kara1473,Avar (Karakh dialect),1561,армия,CyrillTrans,army,,,"askar, armiya, bo",Phonemic
+20-150-31-5,kara1473,Avar (Karakh dialect),1561,бо,CyrillTrans,army,,,"askar, armiya, bo",Phonemic
+20-170-31-1,kara1473,Avar (Karakh dialect),1941,салдат,CyrillTrans,soldier,,,saldat,Phonemic
+20-210-31-1,kara1473,Avar (Karakh dialect),951,ярагъ,CyrillTrans,"weapons, arms",,,yaraɣ,Phonemic
+20-220-31-1,kara1473,Avar (Karakh dialect),1763,ил,CyrillTrans,club,,,"il, tʼil",Phonemic
+20-220-31-3,kara1473,Avar (Karakh dialect),1763,тІил,CyrillTrans,club,,,"il, tʼil",Phonemic
+20-222-31-1,kara1473,Avar (Karakh dialect),386,гІижди,CyrillTrans,battle-ax,,,ʕiždi,Phonemic
+20-230-31-1,kara1473,Avar (Karakh dialect),387,гамачІ рехулеб рагъул алат,CyrillTrans,sling,,,gamač rexuleb raɣui alat,Phonemic
+20-240-31-1,kara1473,Avar (Karakh dialect),994,чІорбутІ,CyrillTrans,bow,,,čʼorbutʼ,Phonemic
+20-250-31-1,kara1473,Avar (Karakh dialect),977,чІор,CyrillTrans,arrow,,,čʼor,Phonemic
+20-260-31-1,kara1473,Avar (Karakh dialect),945,чІор,CyrillTrans,spear,,,čʼor,Phonemic
+20-270-31-1,kara1473,Avar (Karakh dialect),1535,ханжар,CyrillTrans,sword,,,xanžar,Phonemic
+20-280-31-1,kara1473,Avar (Karakh dialect),1566,туманкІ,CyrillTrans,"gun, cannon",,,"tumankʼ, ʕarada",Phonemic
+20-280-31-3,kara1473,Avar (Karakh dialect),1566,гІарада,CyrillTrans,"gun, cannon",,,"tumankʼ, ʕarada",Phonemic
+20-310-31-1,kara1473,Avar (Karakh dialect),1061,маххул ритІел,CyrillTrans,armor (defensive),,,max̄ul ritʼel,Phonemic
+20-330-31-1,kara1473,Avar (Karakh dialect),1680,маххул тІагъур,CyrillTrans,helmet,,,max̄ul tʼaɣur,Phonemic
+20-340-31-1,kara1473,Avar (Karakh dialect),1064,талкъан,CyrillTrans,shield,,,talqʼan,Phonemic
+20-350-31-1,kara1473,Avar (Karakh dialect),1938,хъала,CyrillTrans,fortress,,,qala,Phonemic
+20-360-31-1,kara1473,Avar (Karakh dialect),1671,си,CyrillTrans,tower,,,si,Phonemic
+20-410-31-1,kara1473,Avar (Karakh dialect),783,бергьенлъи,CyrillTrans,victory,,,berhenɬi,Phonemic
+20-420-31-1,kara1473,Avar (Karakh dialect),782,къей,CyrillTrans,defeat,,,qʼey,Phonemic
+20-430-31-1,kara1473,Avar (Karakh dialect),722,ади кІанцІзи,CyrillTrans,attack,,,adi kʼancʼzi,Phonemic
+20-440-31-1,kara1473,Avar (Karakh dialect),1330,цІунзи,CyrillTrans,defend,,,cʼunzi,Phonemic
+20-450-31-1,kara1473,Avar (Karakh dialect),421,нахъи къази,CyrillTrans,retreat,,,naqi qʼazi,Phonemic
+20-460-31-1,kara1473,Avar (Karakh dialect),1696,кудор инзи,CyrillTrans,surrender,,,kudor inzi,Phonemic
+20-470-31-1,kara1473,Avar (Karakh dialect),1072,асирчи,CyrillTrans,"captive, prisoner",,,"asirči, tusnaqalda tʼamuraw či",Phonemic
+20-470-31-3,kara1473,Avar (Karakh dialect),1072,туснахъалда тІамурав,CyrillTrans,"captive, prisoner",,,"asirči, tusnaqalda tʼamuraw či",Phonemic
+20-471-31-1,kara1473,Avar (Karakh dialect),1940,хъаравул,CyrillTrans,"guard, sentinel",,,qarawul,Phonemic
+20-480-31-1,kara1473,Avar (Karakh dialect),1022,бикъураб боцІи,CyrillTrans,"booty, spoils",,,"biqʼurab bocʼi, dawla",Phonemic
+20-480-31-3,kara1473,Avar (Karakh dialect),1022,давла,CyrillTrans,"booty, spoils",,,"biqʼurab bocʼi, dawla",Phonemic
+20-490-31-1,kara1473,Avar (Karakh dialect),65,гъоркьчІел гьабузи,CyrillTrans,ambush,,,ɣorƛ̄ʼčʼel habuzi,Phonemic
+20-510-31-1,kara1473,Avar (Karakh dialect),1858,ччугІихъан,CyrillTrans,fisherman,,,č̄uʕiqan,Phonemic
+20-520-31-1,kara1473,Avar (Karakh dialect),1074,ччугІа ккун жо,CyrillTrans,fishhook,,,č̄uʕa k̄un žo,Phonemic
+20-530-31-1,kara1473,Avar (Karakh dialect),19,рахъал,CyrillTrans,fishing line,,,"raqal, leska",Phonemic
+20-530-31-3,kara1473,Avar (Karakh dialect),19,леска,CyrillTrans,fishing line,,,"raqal, leska",Phonemic
+20-540-31-1,kara1473,Avar (Karakh dialect),388,сетка,CyrillTrans,fishnet,,,setka,Phonemic
+20-550-31-1,kara1473,Avar (Karakh dialect),389,гъалмах,CyrillTrans,fish trap,,,ɣalmax,Phonemic
+20-610-31-1,kara1473,Avar (Karakh dialect),1435,чан гьабузи,CyrillTrans,hunt,,,čan habuzi,Phonemic
+20-620-31-1,kara1473,Avar (Karakh dialect),1172,кьвагьзи,CyrillTrans,shoot,,,ƛ̄ʼʷahzi,Phonemic
+20-630-31-1,kara1473,Avar (Karakh dialect),161,щвечІого хутІзи,CyrillTrans,miss (target),,,š̄ʷečʼogo xutʼzi,Phonemic
+20-640-31-1,kara1473,Avar (Karakh dialect),1075,къор,CyrillTrans,trap (noun),,,qʼor,Phonemic
+20-650-31-1,kara1473,Avar (Karakh dialect),1170,къород кквези,CyrillTrans,trap (vb),,,qʼorod k̄ʷezi,Phonemic
+21-110-31-1,kara1473,Avar (Karakh dialect),1062,гІадлу,CyrillTrans,law,,,"ʕadlu, zakon",Phonemic
+21-110-31-3,kara1473,Avar (Karakh dialect),1062,закон,CyrillTrans,law,,,"ʕadlu, zakon",Phonemic
+21-150-31-1,kara1473,Avar (Karakh dialect),1068,низам,CyrillTrans,court,,,"nizam, sud",Phonemic
+21-150-31-3,kara1473,Avar (Karakh dialect),1068,суд,CyrillTrans,court,,,"nizam, sud",Phonemic
+21-160-31-1,kara1473,Avar (Karakh dialect),1818,низам гьабузи,CyrillTrans,judge (vb),,,"nizam habuzi, sud habuzi",Phonemic
+21-160-31-3,kara1473,Avar (Karakh dialect),1818,суд гьабузи,CyrillTrans,judge (vb),,,"nizam habuzi, sud habuzi",Phonemic
+21-170-31-1,kara1473,Avar (Karakh dialect),1067,судалъул хІукму,CyrillTrans,judgment,,,sudaɬul ħukmu,Phonemic
+21-180-31-1,kara1473,Avar (Karakh dialect),861,суд гьабун чи,CyrillTrans,judge (noun),,,"sud habun či, sudya",Phonemic
+21-180-31-3,kara1473,Avar (Karakh dialect),861,судья,CyrillTrans,judge (noun),,,"sud habun či, sudya",Phonemic
+21-210-31-1,kara1473,Avar (Karakh dialect),2020,гІарзачи,CyrillTrans,plaintiff,,,ʕarzači,Phonemic
+21-220-31-1,kara1473,Avar (Karakh dialect),1034,жаваб кьун чи,CyrillTrans,defendant,,,žawab ƛ̄ʼun či,Phonemic
+21-230-31-1,kara1473,Avar (Karakh dialect),1144,нугІ,CyrillTrans,witness,,,nuʕ,Phonemic
+21-240-31-1,kara1473,Avar (Karakh dialect),1939,гьедзи,CyrillTrans,swear,,,heʒi,Phonemic
+21-250-31-1,kara1473,Avar (Karakh dialect),1712,гьа,CyrillTrans,oath,,,"ha, hedi",Phonemic
+21-250-31-3,kara1473,Avar (Karakh dialect),1712,гьеди,CyrillTrans,oath,,,"ha, hedi",Phonemic
+21-310-31-1,kara1473,Avar (Karakh dialect),1814,гІайиб чІвази,CyrillTrans,accuse,,,ʕayib čʼʷazi,Phonemic
+21-320-31-1,kara1473,Avar (Karakh dialect),484,хІукму къотІзи,CyrillTrans,condemn,,,ħukmu qʼotʼzi,Phonemic
+21-330-31-1,kara1473,Avar (Karakh dialect),983,гІайиб ккезабузи,CyrillTrans,convict (vb),,,ʕayib k̄ezabuzi,Phonemic
+21-340-31-1,kara1473,Avar (Karakh dialect),988,ритІухъ гьавузи,CyrillTrans,acquit,,,ritʼuq hawuzi,Phonemic
+21-350-31-1,kara1473,Avar (Karakh dialect),1682,гІайибав,CyrillTrans,guilty,,,ʕayibaw,Phonemic
+21-360-31-1,kara1473,Avar (Karakh dialect),90,гІайиб гьечІав,CyrillTrans,innocent,,,ʕayib hečʼaw,Phonemic
+21-370-31-1,kara1473,Avar (Karakh dialect),390,гІадлу гьабуй,CyrillTrans,"penalty, punishment",,,ʕadlu habuy,Phonemic
+21-380-31-1,kara1473,Avar (Karakh dialect),218,гІарцул гІакІа,CyrillTrans,fine,,,ʕarcul ʕakʼa,Phonemic
+21-390-31-1,kara1473,Avar (Karakh dialect),1281,туснахъ,CyrillTrans,"prison, jail",,,tusnaq,Phonemic
+21-420-31-1,kara1473,Avar (Karakh dialect),845,чІвай,CyrillTrans,murder,,,čʼʷay,Phonemic
+21-430-31-1,kara1473,Avar (Karakh dialect),902,хъахІбалъи,CyrillTrans,adultery,,,qaħbaɬi,Phonemic
+21-440-31-1,kara1473,Avar (Karakh dialect),953,инжит гьайи,CyrillTrans,rape,,,inžit hayi,Phonemic
+21-460-31-1,kara1473,Avar (Karakh dialect),1889,цІа бази,CyrillTrans,arson,,,cʼa bazi,Phonemic
+21-470-31-1,kara1473,Avar (Karakh dialect),1792,мицІе нугІлъи,CyrillTrans,perjury,,,micʼe nuʕɬi,Phonemic
+21-510-31-1,kara1473,Avar (Karakh dialect),713,бикъизи,CyrillTrans,steal,,,biqʼizi,Phonemic
+21-520-31-1,kara1473,Avar (Karakh dialect),1160,цІогьор,CyrillTrans,thief,,,cʼohor,Phonemic
+22-110-31-1,kara1473,Avar (Karakh dialect),661,дин,CyrillTrans,religion,,,din,Phonemic
+22-120-31-1,kara1473,Avar (Karakh dialect),1944,Аллагь,CyrillTrans,God,,,Allah,Phonemic
+22-130-31-1,kara1473,Avar (Karakh dialect),911,килис,CyrillTrans,"temple, church",,,kilis,Phonemic
+22-140-31-1,kara1473,Avar (Karakh dialect),853,михІмар,CyrillTrans,altar,,,miħmar,Phonemic
+22-150-31-1,kara1473,Avar (Karakh dialect),1103,къурбан,CyrillTrans,"sacrifice, offering",,,q’urban,Phonemic
+22-160-31-1,kara1473,Avar (Karakh dialect),257,къулизи,CyrillTrans,worship,,,qʼulizi,Phonemic
+22-170-31-1,kara1473,Avar (Karakh dialect),24,как бази,CyrillTrans,pray,,,kak bazi,Phonemic
+22-180-31-1,kara1473,Avar (Karakh dialect),852,дибир,CyrillTrans,priest,,,"dibir, kašiši",Phonemic
+22-180-31-3,kara1473,Avar (Karakh dialect),852,кашиш,CyrillTrans,priest,,,"dibir, kašiši",Phonemic
+22-190-31-1,kara1473,Avar (Karakh dialect),1702,илагьияб,CyrillTrans,"holy, sacred",,,ilahiyab,Phonemic
+22-220-31-1,kara1473,Avar (Karakh dialect),304,вагІза гьабузи,CyrillTrans,preach,,,waʕza habuzi,Phonemic
+22-230-31-1,kara1473,Avar (Karakh dialect),391,изну кьези,CyrillTrans,bless,,,iznu ƛ̄ʼezi,Phonemic
+22-240-31-1,kara1473,Avar (Karakh dialect),8,хьиндези,CyrillTrans,curse,,,x̌indezi,Phonemic
+22-260-31-1,kara1473,Avar (Karakh dialect),303,кІал кквези,CyrillTrans,fast (vb),,,kʼal k̄ʷezi,Phonemic
+22-310-31-1,kara1473,Avar (Karakh dialect),1565,алжан,CyrillTrans,heaven,,,alžan,Phonemic
+22-320-31-1,kara1473,Avar (Karakh dialect),878,жудахІ,CyrillTrans,hell,,,žudaħ,Phonemic
+22-350-31-1,kara1473,Avar (Karakh dialect),1973,илбис,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-350-31-3,kara1473,Avar (Karakh dialect),1973,шайтІан,CyrillTrans,demon (evil spirit),,,"ilbis, šaytʼan",Phonemic
+22-370-31-1,kara1473,Avar (Karakh dialect),1945,хъанч,CyrillTrans,idol,,,qanč,Phonemic
+22-420-31-1,kara1473,Avar (Karakh dialect),392,сихІрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-420-31-3,kara1473,Avar (Karakh dialect),392,макрулъи,CyrillTrans,"magic, witchcraft, sorcery",,,"siħruɬi, makruɬi",Phonemic
+22-430-31-1,kara1473,Avar (Karakh dialect),2137,хъартай,CyrillTrans,"sorcerer, witch",,,qartay,Phonemic
+22-440-31-1,kara1473,Avar (Karakh dialect),2138,хІурулгІин,CyrillTrans,"fairy, elf",,,ħurulʕin,Phonemic
+22-450-31-1,kara1473,Avar (Karakh dialect),1175,рухІ,CyrillTrans,"ghost, phantom",,,ruh,Phonemic
+22-470-31-1,kara1473,Avar (Karakh dialect),107,гІаламат,CyrillTrans,"omen, portent",,,ʕalamat,Phonemic
