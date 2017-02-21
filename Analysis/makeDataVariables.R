@@ -17,32 +17,32 @@ areas.d.wh = area[d.wh.glotto]
 
 #Defining variables
 
-initial.glotto = l.details[l.details$InterrogativePosition=="1 Initial interrogative phrase" & !is.na(l.details$InterrogativePosition) & l.details$InterrogativePosition!="",]$glotto
+#initial.glotto = l.details[l.details$InterrogativePosition=="1 Initial interrogative phrase" & !is.na(l.details$InterrogativePosition) & l.details$InterrogativePosition!="",]$glotto
 
-non.initial.glotto = l.details[l.details$InterrogativePosition!="1 Initial interrogative phrase" & !is.na(l.details$InterrogativePosition) & l.details$InterrogativePosition!="",]$glotto
+#non.initial.glotto = l.details[l.details$InterrogativePosition!="1 Initial interrogative phrase" & !is.na(l.details$InterrogativePosition) & l.details$InterrogativePosition!="",]$glotto
 
-d.wh.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% initial.glotto,]
-d.wh.initial.m = data.frame.to.matrix(d.wh.initial)
+#d.wh.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% initial.glotto,]
+#d.wh.initial.m = data.frame.to.matrix(d.wh.initial)
 
-d.wh.non.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% non.initial.glotto,]
-d.wh.non.initial.m = data.frame.to.matrix(d.wh.non.initial)
+#d.wh.non.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% non.initial.glotto,]
+#d.wh.non.initial.m = data.frame.to.matrix(d.wh.non.initial)
 
 #Define variables with grammars positioning info
-initial.grammar.glotto = l.details[l.details$walsandgrammars=="1 Initial interrogative phrase" & !is.na(l.details$walsandgrammars) & l.details$walsandgrammars!="",]$glotto
+#initial.grammar.glotto = l.details[l.details$walsandgrammars=="1 Initial interrogative phrase" & !is.na(l.details$walsandgrammars) & l.details$walsandgrammars!="",]$glotto
 
-non.initial.grammar.glotto = l.details[l.details$walsandgrammars=="2 Not initial interrogative phrase" & !is.na(l.details$walsandgrammars) & l.details$walsandgrammars!="",]$glotto
+#non.initial.grammar.glotto = l.details[l.details$walsandgrammars=="2 Not initial interrogative phrase" & !is.na(l.details$walsandgrammars) & l.details$walsandgrammars!="",]$glotto
 
-d.wh.grammar.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% initial.grammar.glotto,]
-d.wh.grammar.initial.m = data.frame.to.matrix(d.wh.grammar.initial)
+#d.wh.grammar.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% initial.grammar.glotto,]
+#d.wh.grammar.initial.m = data.frame.to.matrix(d.wh.grammar.initial)
 
-d.wh.grammar.non.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% non.initial.grammar.glotto,]
-d.wh.grammar.non.initial.m = data.frame.to.matrix(d.wh.grammar.non.initial)
+#d.wh.grammar.non.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% non.initial.grammar.glotto,]
+#d.wh.grammar.non.initial.m = data.frame.to.matrix(d.wh.grammar.non.initial)
 
 
 #Define variables with possible positioning info
-initial.possible.glotto = l.details[l.details$possiblegrammars=="1 Initial interrogative phrase" & !is.na(l.details$possiblegrammars) & l.details$possiblegrammars!="",]$glotto
+initial.possible.glotto = l.details[l.details$qpos=="1 Initial interrogative phrase" & !is.na(l.details$qpos) & l.details$qpos!="",]$glotto
 
-non.initial.possible.glotto = l.details[l.details$possiblegrammars=="2 Not initial interrogative phrase" & !is.na(l.details$possiblegrammars) & l.details$possiblegrammars!="",]$glotto
+non.initial.possible.glotto = l.details[l.details$qpos=="2 Not initial interrogative phrase" & !is.na(l.details$qpos) & l.details$qpos!="",]$glotto
 
 d.wh.possible.initial = alldata[alldata$meaning.id.fixed %in% whwords & alldata$glotto %in% initial.possible.glotto,]
 d.wh.possible.initial.m = data.frame.to.matrix(d.wh.possible.initial)
@@ -65,18 +65,18 @@ d.random=alldata[!alldata$meaning.id.fixed %in% whwords,]
 d.random.m=data.frame.to.matrix(d.random)
 
 # Random - positioning WALS
-d.random.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% initial.glotto,]
-d.random.initial.m = data.frame.to.matrix(d.random.initial)
+#d.random.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% initial.glotto,]
+#d.random.initial.m = data.frame.to.matrix(d.random.initial)
 
-d.random.non.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% non.initial.glotto,]
-d.random.non.initial.m = data.frame.to.matrix(d.random.non.initial)
+#d.random.non.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% non.initial.glotto,]
+#d.random.non.initial.m = data.frame.to.matrix(d.random.non.initial)
 
 # Random- positioning Grammars
-d.random.grammar.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% initial.grammar.glotto,]
-d.random.grammar.initial.m = data.frame.to.matrix(d.random.grammar.initial)
+#d.random.grammar.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% initial.grammar.glotto,]
+#d.random.grammar.initial.m = data.frame.to.matrix(d.random.grammar.initial)
 
-d.random.grammar.non.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% non.initial.grammar.glotto,]
-d.random.grammar.non.initial.m = data.frame.to.matrix(d.random.grammar.non.initial)
+#d.random.grammar.non.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% non.initial.grammar.glotto,]
+#d.random.grammar.non.initial.m = data.frame.to.matrix(d.random.grammar.non.initial)
 
 # Random- positioning Possible
 d.random.possible.initial = alldata[(!alldata$meaning.id.fixed %in% whwords) & alldata$glotto %in% initial.possible.glotto,]
@@ -116,36 +116,36 @@ d.wh.vowelsOnly.m = t(apply(d.wh.m,1,function(X){
 
 #WALS
   #consonants
-d.wh.initial.consonantsOnly.m = t(apply(d.wh.initial.m,1,function(X){
-  gsub(consRegExpr,"",X)
-}))
-d.wh.non.initial.consonantsOnly.m = t(apply(d.wh.non.initial.m,1,function(X){
-  gsub(consRegExpr,"",X)
-}))
+#d.wh.initial.consonantsOnly.m = t(apply(d.wh.initial.m,1,function(X){
+#  gsub(consRegExpr,"",X)
+#}))
+#d.wh.non.initial.consonantsOnly.m = t(apply(d.wh.non.initial.m,1,function(X){
+#  gsub(consRegExpr,"",X)
+#}))
   #vowels
-d.wh.initial.vowelsOnly.m = t(apply(d.wh.initial.m,1,function(X){
-  gsub(vowRegExpr,"",X)
-}))
-d.wh.non.initial.vowelsOnly.m = t(apply(d.wh.non.initial.m,1,function(X){
-  gsub(vowRegExpr,"",X)
-}))
+#d.wh.initial.vowelsOnly.m = t(apply(d.wh.initial.m,1,function(X){
+#  gsub(vowRegExpr,"",X)
+#}))
+#d.wh.non.initial.vowelsOnly.m = t(apply(d.wh.non.initial.m,1,function(X){
+#  gsub(vowRegExpr,"",X)
+#}))
 
 #Grammar
   #consonants
-d.wh.grammar.initial.consonantsOnly.m = t(apply(d.wh.grammar.initial.m,1,function(X){
-  gsub(consRegExpr,"",X)
-}))
-d.wh.grammar.non.initial.consonantsOnly.m = t(apply(d.wh.grammar.non.initial.m,1,function(X){
-  gsub(consRegExpr,"",X)
-}))
+#d.wh.grammar.initial.consonantsOnly.m = t(apply(d.wh.grammar.initial.m,1,function(X){
+#  gsub(consRegExpr,"",X)
+#}))
+#d.wh.grammar.non.initial.consonantsOnly.m = t(apply(d.wh.grammar.non.initial.m,1,function(X){
+#  gsub(consRegExpr,"",X)
+#}))
 
   #vowels
-d.wh.grammar.initial.vowelsOnly.m = t(apply(d.wh.grammar.initial.m,1,function(X){
-  gsub(vowRegExpr,"",X)
-}))
-d.wh.grammar.non.initial.vowelsOnly.m = t(apply(d.wh.grammar.non.initial.m,1,function(X){
-  gsub(vowRegExpr,"",X)
-}))
+# d.wh.grammar.initial.vowelsOnly.m = t(apply(d.wh.grammar.initial.m,1,function(X){
+#   gsub(vowRegExpr,"",X)
+# }))
+# d.wh.grammar.non.initial.vowelsOnly.m = t(apply(d.wh.grammar.non.initial.m,1,function(X){
+#   gsub(vowRegExpr,"",X)
+# }))
 
 #Possible
   #Consonants

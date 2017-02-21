@@ -58,7 +58,7 @@ g$fam = g[match(g$family_pk,g$pk),]$name
 g$fam[is.na(g$family_pk)] = g$name[is.na(g$family_pk)]
 rownames(g) = g$id
 
-l.details$family = g[match(l.details$glotto, g$id),]$fam
+l.details$langFam = g[match(l.details$glotto, g$id),]$fam
 
 l.details$latitude = g[l.details$glotto,]$latitude
 l.details$longitude = g[l.details$glotto,]$longitude
