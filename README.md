@@ -22,6 +22,12 @@ Alldata_simple.csv
 RAW_data/Data_clean_up2.csv (manually created)
 RAW_data/Grammars.csv (manually created)
 
+# Get languages in analysis by running:
+Analysis/RestrictionsApplied.R
+# Then 
+Processing/addGeoDataToLangList.R
+
+
 ####
 # Analysis
 
@@ -30,4 +36,4 @@ Analysis/RestrictionsApplied.R
 grammars.R
 makeDataVariables.R
 
-# (these three are included in most RunAnalysis/* files)
+# (these three are included in most RunAnalysis* files)

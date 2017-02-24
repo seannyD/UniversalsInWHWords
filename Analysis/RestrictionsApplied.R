@@ -46,6 +46,7 @@ sel = (is.na(alldata$word.simple) | nchar(alldata$word.simple)==0) & !is.na(alld
 alldata[sel,]$word.simple = he.she.it.words[alldata[sel,]$Language]
 
 langs.with.hesheit = unique(alldata[!is.na(alldata$meaning.id.fixed) & !is.na(alldata$word.simple) & alldata$meaning.id.fixed==2.93,]$Language)
+
 langs.without.hesheit = setdiff(unique(alldata$Language), langs.with.hesheit)
 he.she.it.words = he.she.it.words[langs.without.hesheit]
 langs.without.hesheit = langs.without.hesheit[!is.na(he.she.it.words)]
@@ -55,7 +56,7 @@ extraPronounRows = data.frame(
     meaning.id=2.93,
     meaning='he/she/it',
     word = he.she.it.words,
-    Source = "XX",
+    Source = tapply(alldata$Source,alldata$Language,head,n=1)[langs.without.hesheit],
     Language = langs.without.hesheit,
     iso = tapply(alldata$iso,alldata$Language,head,n=1)[langs.without.hesheit],
     glotto = tapply(alldata$glotto,alldata$Language,head,n=1)[langs.without.hesheit],

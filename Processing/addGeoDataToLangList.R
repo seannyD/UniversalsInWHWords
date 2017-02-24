@@ -15,44 +15,6 @@ l.details[l.details$glotto=="enap1235",]$area = 'NE South America'
 l.details[l.details$glotto=="sion1247",]$area = 'Andean'
 
 
-area.fixes = matrix(c(
-  "cent2050","African Savannah",
-  "maha1287","Indic",
-#  "nucl1241","Southeast Asia",  # Li of Baoding
-  "plat1254","Southeast Asia",
-  "oroq1238","N Coast Asia",
-#  "gela1265","Southeast Asia",
-  "nucl1655","SE South America",
-  "west2376","Europe",
-  "gheg1238","Europe",
-  "olda1245","Greater Mesopotamia",
-  "sout2996","Andean",
-  "pano1254","NE South America",
-  "chew1245","Oceania",
-  "chad1240","Southeast Asia",
-  "zaca1242","Mesoamerica",
-  "iyow1239","SE South America",
-  "nort2740","Southeast Asia",
-  "lang1316","Southeast Asia",
-  "limo1249","Mesoamerica",
-  "maon1241","Southeast Asia",
-  "nege1244","Mesoamerica",
-  "noot1238","Alaska-Oregon",
-  "polc1243","African Savannah",
-  "sout2746","Southeast Asia",
-  "tokh1242","Europe",
-  "tokh1243","Europe",
-  "trin1274","NE South America",
-  "yavi1244","NE South America",
-  "minz1236","Southeast Asia"
-),nrow=2)
-
-area.fixes = area.fixes[,area.fixes[1,] %in% l.details$glotto]
-
-for(i in 1:ncol(area.fixes)){
-  l.details[l.details$glotto == area.fixes[1,i],]$area = area.fixes[2,i]
-}
-
 g = read.csv("~/Documents/MPI/Glottolog/glottolog-languoid.csv/languoid.csv",stringsAsFactors=F)
 g$fam = g[match(g$family_pk,g$pk),]$name
 g$fam[is.na(g$family_pk)] = g$name[is.na(g$family_pk)]
@@ -93,6 +55,20 @@ for(i in 1:ncol(geo.fix)){
   l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$longitude = geo.fix[3,i]
 }
 
+
+# Use autotup geo position to find closest area
+library(fields)
+missing = cbind(as.numeric(l.details[is.na(l.details$area),]$longitude),
+      as.numeric(l.details[is.na(l.details$area),]$latitude))
+autotyp.loc = cbind(autotyp.geography$longitude,
+                    autotyp.geography$latitude)
+
+distx = rdist.earth(missing,autotyp.loc)
+closest.match = as.character(autotyp.geography[apply(distx,1,function(X){which(X==min(X,na.rm = T))[1]}),]$area)
+l.details[is.na(l.details$area),]$area = closest.match
+
+
+
 wals = read.csv("../Analysis/SubjectVerbOrder/wals-language.csv/language.csv", stringsAsFactors = F, fileEncoding = 'utf-8')
 wals$glottocode[!is.na(wals$glottocode) & wals$glottocode==''] = NA
 l.details$WALS.qpos = wals[match(l.details$glotto, wals$glottocode),]$X93A.Position.of.Interrogative.Phrases.in.Content.Questions
@@ -114,6 +90,6 @@ l.details$qpos = l.details$WALS.qpos
 l.details[is.na(l.details$qpos),]$qpos = l.details[is.na(l.details$qpos),]$S.qpos
 
 
-l.details = l.details[order(l.details$area,l.details$langFam, l.details$Language)]
+l.details = l.details[order(l.details$area,l.details$langFam, l.details$Language),]
 
 write.csv(l.details, file="../Analysis/LangsInAnalysis_withGeoData.csv", fileEncoding = 'utf-8', row.names = F)

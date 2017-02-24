@@ -47,6 +47,4 @@ Alldata$domain <- floor(Alldata$language_pk)
 Alldata[Alldata$Language=="Carib",]$Language="Kali'na"
 
 
-
-
 write.csv(Alldata,file="Alldata.csv",fileEncoding='utf-8')
