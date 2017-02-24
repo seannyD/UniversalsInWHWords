@@ -11,6 +11,7 @@ IDS$analyzability = NA
 WOLD<-read.csv("WOLDlist.csv", stringsAsFactors=F, fileEncoding='utf-8')
 WOLD = WOLD[!is.na(WOLD$glotto),]
 WOLD = WOLD[!is.na(WOLD$language_pk),]
+WOLD = WOLD[,names(WOLD)!="originalWord"]
 
 SB<-read.csv("SBlist.csv", stringsAsFactors=F, fileEncoding='utf-8')
 SB$analyzability = NA
@@ -22,8 +23,13 @@ numSourcesPerLang = tapply(Alldata$Source, Alldata$glotto, function(X){length(un
 oneSource = names(numSourcesPerLang[numSourcesPerLang==1])
 moreThanOneSource = names(numSourcesPerLang[numSourcesPerLang>1])
 
+for(i in moreThanOneSource){
+  print(i)
+  print(table(Alldata[Alldata$glotto==i,]$Source))
+}
+
 keep.spakbanken = ("nepa1252")
-keep.WOLD = c("wich1264",'thai1261','mapu1245','haus1257')
+keep.WOLD = c("wich1264",'thai1261','mapu1245','haus1257', 'arch1244','bezh1248' )
 keep.WOLD.but.add.IDS = c('hawa1245')
 presentMeanings = unique(Alldata[Alldata$glotto=='hawa1245' & Alldata$Source=='WOLD',]$language_pk)
 

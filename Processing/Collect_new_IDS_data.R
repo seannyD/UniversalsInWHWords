@@ -8,12 +8,16 @@ idsLangs = data.frame()
 for(file in files){
   dx = read.csv(paste("../RAW_data/IDS_new/ids-dataset.cldf/",file,sep=''), stringsAsFactors = F, fileEncoding = "UTF-8", encoding = 'UTF-8')
   
+  if("AlternateTranscription" %in% names(dx)){
+    print ("!!!!!!!")
+  }
+  
   useLang= F
   
   if(!is.na(dx$Transcription[1]) & dx$Transcription[1] == "Phonemic"){
     useLang = T
   }else {
-    if("AlternateTranscription" %in% names(dx)){
+    if("AlternativeTranscription" %in% names(dx)){
       dx = dx[dx$AlternativeTranscription == "Phonemic",]
       dx$Value = dx$AlternativeValue
       useLang = T
@@ -29,7 +33,7 @@ for(file in files){
     dx = dx[!is.na(dx$Value),]
     
     # Check more than 500 meanings
-    if(nrow(dx)>500){
+    if(nrow(dx)>200){
       dx = data.frame(language_pk=dx$meaning.ids, 
                  meaning=dx$Concept, 
                  word=dx$Value,

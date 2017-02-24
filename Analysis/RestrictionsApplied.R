@@ -27,9 +27,58 @@ alldata <- alldata[nchar(alldata$word)>0,]
 # take out lines with no glotto code
 alldata <- alldata[!is.na(alldata$glotto),]
 
+
+# Restriction: No creoles or reconstructed langauges
+# Languages must have their own glottocode (removes dialects)
+
 #Take out following langauges:
-deleteLang<-c("Old Chinese","Classical Greek","Unidentified", "Classical Arabic","Slavic","Mongolic","Suriname Portuguese",'Shan',"Nung-Fengshan",'Jamaican Creole (Limonese Creole dialect)',"Seychelles Creole","Proto Polynesian","Ancient Aramaic")
-# (Shan is removed because we also have another dialect of the same glottocode, basically same for Nung-Fengshan)
+deleteLang<-c(
+          # Reconstructed
+              "Old Chinese",
+              "Classical Greek",
+              "Unidentified", 
+              "Classical Arabic",
+              "Slavic",
+              "Mongolic",
+              "Proto Polynesian",
+              "Ancient Aramaic",
+          # Creoles
+              'Jamaican Creole (Limonese Creole dialect)',
+              "Seychelles Creole",
+              "Suriname Portuguese",
+          # Duplicated dialects
+              'Shan', # we also have another dialect of the same glottocode
+              "Nung-Fengshan", # We have another version of the dialect
+              "Kumyk (Dorgeli dialect)", # Using plain "Kumyk" instead of these
+              "Kumyk (Kajtak dialect)",
+              "Kumyk (Kajtak Tumenler dialect)",
+              "Kumyk (Karabudakhkent dialect)",
+              "Kumyk (Ter Bragun dialect)",
+              "Akhvakh (Northern dialect)", # Using southern dialect
+              "Avar (Kusur dialect)",
+              "Botlikh (Miarso dialect)",
+              "Chechen (Akkin dialect)",
+              "Dargwa (Tsudakhar dialect, Tanty subdialect)",
+              "Dargwa (Gapshima dialect)",
+              "Dargwa (Gapshima Shukti dialect)",
+              "Dargwa (Gubden dialect)",
+              "Dargwa (Kadar dialect)",
+              "Dargwa (Megeb dialect)",
+              "Dargwa (Mekegi dialect)",
+              "Dargwa (Mugi dialect)",
+              "Dargwa (Muiri dialect)",
+              "Dargwa (Sirkhi dialect)",
+              "Dargwa (Usisha dialect)", 
+              "Rutul (Mukhrek) dialect",
+              "Lak (Arakul dialect)",
+              "Lak (Balkhar dialect)",
+              "Lak (Shali dialect)",
+              "Lezgi (Mikrakh dialect)",
+              "Azerbaijani (Terekeme dialect)",
+              "Rutul (Borchino Khnow dialect)",
+              "Tsakhur (Gelmets dialect)"
+              )
+
 
 alldata <- alldata[!alldata$Language %in% deleteLang,]
 
@@ -106,6 +155,10 @@ whwordsbylang<-tapply(alldata[alldata$meaning.id.fixed %in% whwords,]$glotto, al
 
   # define threshold (mean proportion of wh-words available) for word count (id meanings) for langauge to be included.
 min_crit<-min(whwordsbylang/(length(unique(alldata$glotto))))
+
+ # Override with fixed proportion
+min_crit = 0.75
+
 prop_meaningsbylang<-meaningsbylang/(length(unique(alldata$glotto)))
 
 randommeanings<-as.numeric(names(prop_meaningsbylang)[prop_meaningsbylang>=min_crit])
@@ -146,6 +199,14 @@ overlap.glotto <-names(overlap.lang)[overlap.lang>1]
 # 	
 # 
 # }
+
+# Final restriction: Must have more than 400 meanings
+
+numMeaningsPerLang = tapply(alldata$meaning.id.fixed, alldata$glotto, function(X){length(unique(X))})
+
+
+
+alldata = alldata[!alldata$glotto %in% names(numMeaningsPerLang[numMeaningsPerLang<400]),]
 
 allx =alldata[,c("Language",'glotto','Source')]
 write.csv(allx[!duplicated(allx),],file = 'LangsInAnalysis.csv', row.names = F, fileEncoding = 'utf-8')

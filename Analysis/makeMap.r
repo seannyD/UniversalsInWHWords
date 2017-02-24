@@ -4,14 +4,16 @@ try(setwd("~/Documents/MPI/SemanticsPragmatics/2015Course/Projects/Slonimska/New
 
 # load data and filter unwanted languages
 # (creates variable 'alldata')
-source("RestrictionsApplied.R") # also loads PermutationTools.R
-source("grammars.R")
-source("makeDataVariables.R")
+#source("RestrictionsApplied.R") # also loads PermutationTools.R
+#source("grammars.R")
+#source("makeDataVariables.R")
 
-d.wh.glotto = names2glotto[colnames(d.wh.m)]
+#d.wh.glotto = names2glotto[colnames(d.wh.m)]
 
 
-l.details2 = l.details[l.details$glotto %in% d.wh.glotto,]
+l.details2 = read.csv("LangsInAnalysis_withGeoData.csv")
+
+#l.details2 = l.details[l.details$glotto %in% d.wh.glotto,]
 l.details2 = l.details2[!duplicated(l.details2$glotto),]
 library(maps)
 library(maptools)
@@ -21,7 +23,7 @@ points(l.details2$longitude,l.details2$latitude,col=rgb(1,0,0),  pch= 16)
 
 library(ggplot2)
 
-set.seed(15)
+set.seed(120)
 cols = sample(rainbow(length(unique(l.details2$area)), alpha = 0.75))
 
 l.details2$area.colour = cols[as.numeric(as.factor(l.details2$area))]

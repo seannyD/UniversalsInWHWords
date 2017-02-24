@@ -22,8 +22,16 @@ rownames(g) = g$id
 
 l.details$langFam = g[match(l.details$glotto, g$id),]$fam
 
+# Tzotsil is "bookkeeping", real glotto should be tzot1259
+l.details[l.details$glotto=='tzot1264',]$langFam = "Mayan"
+
 l.details$latitude = g[l.details$glotto,]$latitude
 l.details$longitude = g[l.details$glotto,]$longitude
+
+# wrong lat/long
+l.details[l.details$glotto=='rotu1241',c("latitude",'longitude')] = c(-12.5008,177.066)
+l.details[l.details$glotto=='hawa1245',]$latitude = 19.6297
+l.details[l.details$glotto=='hawa1245',]$longitude = -155.43
 
 #l.details[!is.na(l.details$glotto) & l.details$glotto=='nucl1241',c("longitude","latitude")] = c(115.33,38.87)
 
@@ -45,8 +53,13 @@ geo.fix =matrix(c(
   'sout1528',21.92, 44.32,
   'east2283', 45, 40,
   'west2348', 45, 40,
-  'sout2745', 102.99,14.33,
-  'east1436', 83.39,27.87
+  'sout2745', 14.33,102.99,
+  'east1436', 27.87,83.39,
+  'tzot1264', 16.64,-92.74,
+  'inxo1238', 46.00, 42.27,
+  'xvar1237', 46.00, 42.27,
+  'khoc1238', 46.03, 42.12,
+  'tlya1238', 46.03, 42.12
 ),nrow=3)
 
 geo.fix = geo.fix[,geo.fix[1,] %in% l.details$glotto]
@@ -54,6 +67,20 @@ for(i in 1:ncol(geo.fix)){
   l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$latitude = geo.fix[2,i]
   l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$longitude = geo.fix[3,i]
 }
+
+l.details[grepl("Avar ", l.details$Language),c('longitude','latitude')]= c(46.558, 41.7047)
+l.details[grepl("Dargwa ", l.details$Language),c('longitude','latitude')]= c(47.4388 , 42.4257)
+l.details[grepl("Lezgian ", l.details$Language),c('longitude','latitude')]= c(47.8951,  41.5157)
+l.details[grepl("Andi ", l.details$Language),c('longitude','latitude')]= c(46.2919  ,42.8078)
+l.details[grepl("Karata ", l.details$Language),c('longitude','latitude')]= c(46.3151 , 42.6501)
+l.details[grepl("Tsez ", l.details$Language),c('longitude','latitude')]= c(45.8096,  42.2646)
+l.details[grepl("Tabasaran ", l.details$Language),c('longitude','latitude')]= c(47.8379 , 42.0198)
+l.details[grepl("Aghul ", l.details$Language),c('longitude','latitude')]= c(47.5843 , 41.9242)
+l.details[grepl("Chamalal ", l.details$Language),c('longitude','latitude')]= c(45.995,  42.5024)
+l.details[grepl("Bezhta ", l.details$Language),c('longitude','latitude')]= c(45.995,  42.5024)
+l.details[grepl("Rutul ", l.details$Language),c('longitude','latitude')]= c(47.3244,  41.6187)
+
+l.details[is.na(l.details$longitude),c("Language",'glotto')]
 
 
 # Use autotup geo position to find closest area
@@ -68,6 +95,17 @@ closest.match = as.character(autotyp.geography[apply(distx,1,function(X){which(X
 l.details[is.na(l.details$area),]$area = closest.match
 
 
+# Check long differences?
+ax = autotyp.geography[autotyp.geography$glottolog_LID.2014 %in% l.details$glotto,c("longitude",'latitude')]
+ax.rn = autotyp.geography[autotyp.geography$glottolog_LID.2014 %in% l.details$glotto,c("glottolog_LID.2014")]
+lx = l.details[l.details$glotto %in% autotyp.geography$glottolog_LID.2014,c("longitude",'latitude')]
+lx.rn = l.details[l.details$glotto %in% autotyp.geography$glottolog_LID.2014,c('glotto')]
+lx[,1] = as.numeric(lx[,1])
+lx[,2] = as.numeric(lx[,2])
+distx2 = rdist.earth(ax[match(lx.rn,ax.rn),],lx)
+distx3 = diag(distx2)
+lx.rn[which(distx3>1000)]
+
 
 wals = read.csv("../Analysis/SubjectVerbOrder/wals-language.csv/language.csv", stringsAsFactors = F, fileEncoding = 'utf-8')
 wals$glottocode[!is.na(wals$glottocode) & wals$glottocode==''] = NA
@@ -79,6 +117,10 @@ c.grammars = read.csv("../RAW_data/Grammars.csv", stringsAsFactors = F)
 c.grammars[c.grammars$Positioning=='',]$Positioning = NA
 c.grammars[c.grammars$Possible.Positioning=='',]$Possible.Positioning = NA
 c.grammars[is.na(c.grammars$Possible.Positioning),]$Possible.Positioning = c.grammars[is.na(c.grammars$Possible.Positioning),]$Positioning
+
+c.grammars[c.grammars$Glotto=='tzot1259',]$Glotto = 'tzot1264'
+c.grammars[c.grammars$Glotto=='gheg1238',]$Glotto = 'tosk1239'
+c.grammars[c.grammars$Glotto=='croa1245',]$Glotto = 'sout1528'
 
 c.grammars[!c.grammars$Glotto %in% l.details$glotto,c("X",'IDS',"Glotto")]
 

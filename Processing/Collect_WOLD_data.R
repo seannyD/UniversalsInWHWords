@@ -6,7 +6,7 @@ try(setwd("~/Documents/MPI/SemanticsPragmatics/2015Course/Projects/Slonimska/New
 
 
 #Get rid of unnecessary columns
-AllWOLDdata<-read.csv("word_processed_transcribed.csv",stringsAsFactors=F,encoding='utf-8')
+AllWOLDdata<-read.csv("WOLD_words_transcribed.csv",stringsAsFactors=F,encoding='utf-8')
 AllWOLDdata$age_score<-NULL
 AllWOLDdata$simplicity_score<-NULL
 AllWOLDdata$borrowed<-NULL

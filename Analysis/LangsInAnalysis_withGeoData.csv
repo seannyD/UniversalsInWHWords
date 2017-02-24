@@ -3,7 +3,6 @@
 "Polci","polc1243","IDS","African Savannah","Afro-Asiatic","10.0258","9.53362",NA,NA,NA
 "Kanuri","cent2050","WOLD","African Savannah","Saharan","11.8863","16.3918","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Northern Haida","nort2938","IDS","Alaska-Oregon","Haida","54.6931","-132.465",NA,NA,NA
-"Thai (Korat variety)","sout2745","IDS","Alaska-Oregon","Tai-Kadai","102.99","14.33",NA,NA,NA
 "Tsimshian","nucl1649","IDS","Alaska-Oregon","Tsimshian","54.6214","-130.496","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Nuu-chah-nulth","nuuc1236","IDS","Alaska-Oregon","Wakashan","47.4623893","-118.3132951",NA,NA,NA
 "Mapudungun","mapu1245","WOLD","Andean","Araucanian","-38.7392","-71.277","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
@@ -21,7 +20,7 @@
 "Zuni","zuni1245","IDS","Basin and Plains","Zuni","35.0056","-108.782","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Karok","karo1304","IDS","California","Karok","41.8228","-123.315",NA,NA,NA
 "Basque","basq1248","IDS","Europe","Basque","43.2787","-1.31622",NA,"2 Not initial interrogative phrase","2 Not initial interrogative phrase"
-"Albanian (Tosk variety)","tosk1239","IDS","Europe","Indo-European","41","20",NA,NA,NA
+"Albanian (Tosk variety)","tosk1239","IDS","Europe","Indo-European","41","20",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Breton","bret1244","IDS","Europe","Indo-European","48.2452","-3.78934","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Bulgarian","bulg1262","IDS","Europe","Indo-European","43.3646","25.047","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Dutch","dutc1256","WOLD","Europe","Indo-European","52","5",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
@@ -33,14 +32,60 @@
 "Selice Romani","west2376","WOLD","Europe","Indo-European","48.090278","17.97",NA,NA,NA
 "Spanish","stan1288","IDS","Europe","Indo-European","40.4414","-1.11788","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Yiddish","east2295","IDS","Europe","Indo-European","51.75","19.42",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
+"Hungarian","hung1274","IDS","Europe","Uralic","46.9069","19.6555","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Gawwada","gaww1239","WOLD","Greater Abyssinia","Afro-Asiatic","5.37869","37.2737",NA,NA,NA
-"Elamite","elam1244","IDS","Greater Mesopotamia","Elamite","31.1833","48.2333",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Armenian (Eastern variety)","east2283","IDS","Greater Mesopotamia","Indo-European","45","40",NA,NA,NA
 "Armenian (Western variety)","west2348","IDS","Greater Mesopotamia","Indo-European","45","40",NA,NA,NA
+"Judeo-Tat","jude1256","IDS","Greater Mesopotamia","Indo-European","32.33","34.75",NA,NA,NA
 "Persian","west2369","IDS","Greater Mesopotamia","Indo-European","28.6593","55.1586","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
-"Serbo-Croatian","sout1528","IDS","Greater Mesopotamia","Indo-European","21.92","44.32",NA,NA,NA
+"Serbo-Croatian","sout1528","IDS","Greater Mesopotamia","Indo-European","21.92","44.32",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
+"Aghul","aghu1253","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.9242","47.5843",NA,NA,NA
+"Aghul (Koshan dialect)","kosh1245","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.9242","47.5843",NA,NA,NA
+"Akhvakh (Southern dialect)","akhv1239","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4003","46.3037",NA,NA,NA
+"Andi","andi1255","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.8078","46.2919",NA,NA,NA
+"Andi (Muni dialect)","muni1255","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.8078","46.2919",NA,NA,NA
 "Archi","arch1244","WOLD","Greater Mesopotamia","Nakh-Daghestanian","42.3239","46.8267","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Avar","avar1256","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.7047","46.558","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Avar (Antsukh dialect)","ancu1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.7047","41.7047",NA,NA,NA
+"Avar (Hid dialect)","hidd1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.7047","41.7047",NA,NA,NA
+"Avar (Karakh dialect)","kara1473","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.7047","41.7047",NA,NA,NA
+"Bagvalal","bagv1239","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.3966","46.1041",NA,NA,NA
 "Bezhta","bezh1248","WOLD","Greater Mesopotamia","Nakh-Daghestanian","42.1206","46.0332",NA,NA,NA
+"Bezhta (Tlyadal dialect, Karauzek subdialect)","tlya1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.5024","42.5024",NA,NA,NA
+"Botlikh","botl1242","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.7658","46.1944",NA,NA,NA
+"Budukh","budu1248","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.2272","48.3353",NA,NA,NA
+"Chamalal","cham1309","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.5024","45.995",NA,NA,NA
+"Chamalal (Gigatli dialect)","giga1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.5024","45.995",NA,NA,NA
+"Chechen","chec1245","IDS","Greater Mesopotamia","Nakh-Daghestanian","43.5","45.5","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Dargwa","darg1241","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4257","47.4388",NA,NA,NA
+"Dargwa (Itsari dialect)","itsa1239","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4257","42.4257",NA,NA,NA
+"Dargwa (Khajdak dialect)","kajt1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4257","42.4257",NA,NA,NA
+"Dargwa (Tsudakhar dialect)","cuda1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4257","42.4257",NA,NA,NA
+"Godoberi","ghod1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.7428","46.2252",NA,NA,NA
+"Hinuq","hinu1240","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.4502","45.8064",NA,NA,NA
+"Hunzib","hunz1247","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.0808","46.1369",NA,NA,NA
+"Ingush","ingu1240","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.9525","44.158",NA,NA,NA
+"Karata","kara1474","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.6501","46.3151",NA,NA,NA
+"Karata (Tokitin dialect)","toki1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.6501","46.3151",NA,NA,NA
+"Khinalug","khin1240","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.1801","48.0571","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Khwarshi (Inkhokvari dialect)","inxo1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","46","42.27",NA,NA,NA
+"Khwarshi (Khwarshi dialect)","xvar1237","IDS","Greater Mesopotamia","Nakh-Daghestanian","46","42.27",NA,NA,NA
+"Kryz","kryt1240","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.1811","48.1846",NA,NA,NA
+"Lak","lakk1252","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.1328","47.0809",NA,NA,NA
+"Lezgian","lezg1247","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.5157","47.8951","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Lezgian (Quba dialect)","quba1246","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.5157","47.8951",NA,NA,NA
+"Rutul","rutu1240","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.6187","47.3244",NA,NA,NA
+"Rutul (Shinaz dialect)","shin1265","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.6187","41.6187",NA,NA,NA
+"Tabasaran (Northern dialect Khanag subdialect)","taba1259","IDS","Greater Mesopotamia","Nakh-Daghestanian","47.8379","47.8379",NA,NA,NA
+"Tabasaran (Southern dialect)","sout2752","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.0198","42.0198",NA,NA,NA
+"Tindi","tind1238","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.3316","45.9227",NA,NA,NA
+"Tsakhur","tsak1249","IDS","Greater Mesopotamia","Nakh-Daghestanian","41.5916","46.8858",NA,NA,NA
+"Tsez (Mokok dialect) ","dido1241","IDS","Greater Mesopotamia","Nakh-Daghestanian","45.8096","45.8096",NA,NA,NA
+"Tsez (Sagada dialect)","saga1261","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.2646","42.2646",NA,NA,NA
+"Tsova-Tush","bats1242","IDS","Greater Mesopotamia","Nakh-Daghestanian","42.1806","45.344","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Udi","udii1243","IDS","Greater Mesopotamia","Nakh-Daghestanian","40.9","47.7236",NA,NA,NA
+"Azerbaijani","nort2697","IDS","Greater Mesopotamia","Turkic","40.9777","46.4737","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Kumyk","kumy1244","IDS","Greater Mesopotamia","Turkic","43","47",NA,NA,NA
 "Khasi","khas1269","Sprakbanken","Indic","Austroasiatic","24.977","91.9998","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Tamil","tami1289","IDS","Indic","Dravidian","10.520219","78.825989","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Telugu","telu1262","IDS","Indic","Dravidian","16.4529","78.7024","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
@@ -48,16 +93,25 @@
 "Hindi","hind1269","IDS","Indic","Indo-European","25","77","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Mahasu Pahari (Kotghari dialect)","maha1287","IDS","Indic","Indo-European","31.0088","77.5317",NA,NA,NA
 "Marathi","mara1378","IDS","Indic","Indo-European","17.9344","76.6665","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Nepali","east1436","IDS","Indic","Indo-European","27.87","83.39",NA,NA,NA
 "Punjabi","west2386","IDS","Indic","Indo-European","30.0948","75.3474",NA,NA,NA
 "Punjabi","panj1256","Sprakbanken","Indic","Indo-European","30.0368","75.6702","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Tocharian B","tokh1243","IDS","Indic","Indo-European","39.5708233","71.3739565",NA,NA,NA
 "Nepali","nepa1252","Sprakbanken","Indic","Nepali","27.5947","87.6201","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Manange","mana1288","WOLD","Indic","Sino-Tibetan","28.6416","84.0515",NA,NA,NA
-"Nepali","east1436","IDS","Inner Asia","Indo-European","83.39","27.87",NA,NA,NA
 "Russian","russ1263","IDS","Inner Asia","Indo-European","59","50","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Tocharian A","tokh1242","IDS","Inner Asia","Indo-European","40.333402","87.248417",NA,NA,NA
+"Avar (Andalal dialect)","anda1281","IDS","Inner Asia","Nakh-Daghestanian","46.558","46.558",NA,NA,NA
+"Avar (Batlukh dialect)","batl1238","IDS","Inner Asia","Nakh-Daghestanian","46.558","46.558",NA,NA,NA
+"Avar (Zakataly dialect)","zaka1239","IDS","Inner Asia","Nakh-Daghestanian","46.558","46.558",NA,NA,NA
+"Bezhta (Khasharkhota dialect)","khoc1238","IDS","Inner Asia","Nakh-Daghestanian","45.995","45.995",NA,NA,NA
+"Dargwa (Chirag dialect)","chir1284","IDS","Inner Asia","Nakh-Daghestanian","47.4388","47.4388",NA,NA,NA
+"Dargwa (Kubachi dialect)","kuba1248","IDS","Inner Asia","Nakh-Daghestanian","47.4388","47.4388",NA,NA,NA
+"Dargwa (Urakhi dialect)","urax1238","IDS","Inner Asia","Nakh-Daghestanian","47.4388","47.4388",NA,NA,NA
+"Rutul (Ikhrek dialect)","ixre1238","IDS","Inner Asia","Nakh-Daghestanian","47.3244","47.3244",NA,NA,NA
 "Tibetan","tibe1272","IDS","Inner Asia","Sino-Tibetan","28.3681","90.1872",NA,NA,NA
 "Oroqen","oroq1238","WOLD","Inner Asia","Tungusic","50.6319","125.017",NA,NA,NA
+"Nogai","noga1249","IDS","Inner Asia","Turkic","43.5917","46.6618",NA,NA,NA
 "Sakha","yaku1245","WOLD","Inner Asia","Turkic","61.6974","133.98",NA,"2 Not initial interrogative phrase","2 Not initial interrogative phrase"
 "Erzya Mordvin","erzy1239","IDS","Inner Asia","Uralic","52.8548","45.3901",NA,NA,NA
 "Estonian","esto1258","IDS","Inner Asia","Uralic","59.5478","22.8209","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
@@ -74,7 +128,7 @@
 "Ket","kett1243","WOLD","Inner Asia","Yeniseian","63.7551","87.5466","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Negerhollands","nege1244","IDS","Mesoamerica","Indo-European","18.3416","-64.8922",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Q'eqchi'","kekc1242","WOLD","Mesoamerica","Mayan","15.3788","-89.2452",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
-"Zinacantán Tzotzil","tzot1259","WOLD","Mesoamerica","Mayan","16.6362","-92.7388",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
+"Zinacantán Tzotzil","tzot1264","WOLD","Mesoamerica","Mayan","16.64","-92.74",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Chatino (Zacatepec variety)","zaca1242","IDS","Mesoamerica","Otomanguean","16.08","-97.3069",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Otomi","mezq1235","WOLD","Mesoamerica","Otomanguean","20.2274","-99.5564","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Seri","seri1257","IDS","Mesoamerica","Seri","28.9877","-112.384","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
@@ -91,11 +145,14 @@
 "Wapishana","wapi1253","IDS","NE South America","Arawakan","2.58744","-59.8021",NA,NA,NA
 "Waurá","waur1244","IDS","NE South America","Arawakan","-13.296","-53.6971",NA,NA,NA
 "Yavitero","yavi1244","IDS","NE South America","Arawakan","9.8194","-67.4283",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
+"De'kwana","maqu1238","IDS","NE South America","Cariban","4.70705","-64.3877","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Kali'na","gali1262","WOLD","NE South America","Cariban","5.83772","-56.8323",NA,NA,NA
 "Macushi","macu1259","IDS","NE South America","Cariban","4.31861","-60.2209","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Panare","enap1235","IDS","NE South America","Cariban","6.95035","-65.8483",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Wai Wai","waiw1244","IDS","NE South America","Cariban","1.50881","-59.1417",NA,NA,NA
 "Cayuvava","cayu1262","IDS","NE South America","Cayubaba","-13.2482","-65.4822",NA,NA,NA
+"Barí","bari1297","IDS","NE South America","Chibchan","9.08497","-72.9353",NA,NA,NA
+"Muisca","chib1270","IDS","NE South America","Chibchan","6.24999","-74.1666",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Saramaccan","sara1340","WOLD","NE South America","Indo-European","4.54729","-54.0238",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Itonama","iton1250","IDS","NE South America","Itonama","-12.8043","-64.3575",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Mosetén","mose1249","IDS","NE South America","Mosetén-Chimané","-14.6445","-67.8376","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
@@ -121,8 +178,8 @@
 "Ninam (Shirishana variety)","nina1238","IDS","NE South America","Yanomam","4.03894","-62.7801","1 Initial interrogative phrase",NA,"1 Initial interrogative phrase"
 "Yanomámi","yano1262","IDS","NE South America","Yanomam","2.48999","-62.8522",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Yuwana","yuwa1244","IDS","NE South America","Yuwana","5.63879","-65.4267",NA,NA,NA
-"Hawaiian","hawa1245","IDS","Oceania","Austronesian","19.6297","-155.43","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
-"Hawaiian","hawa1245","WOLD","Oceania","Austronesian","19.6297","-155.43","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Hawaiian","hawa1245","IDS","Oceania","Austronesian","19.6297","19.6297","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Hawaiian","hawa1245","WOLD","Oceania","Austronesian","-155.43","-155.43","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Maori","maor1246","IDS","Oceania","Austronesian","-38.2881","176.541","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Rapa Nui","rapa1244","IDS","Oceania","Austronesian","-27.113","-109.342",NA,"1 Initial interrogative phrase","1 Initial interrogative phrase"
 "Rotuman","rotu1241","IDS","Oceania","Austronesian","-12.5008","177.066","2 Not initial interrogative phrase","2 Not initial interrogative phrase","2 Not initial interrogative phrase"
@@ -171,4 +228,5 @@
 "Tai Khün","khun1259","IDS","Southeast Asia","Tai-Kadai","19.6062","99.3363","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
 "Tai Lü","luuu1242","IDS","Southeast Asia","Tai-Kadai","21.0321","101.282",NA,"2 Not initial interrogative phrase","2 Not initial interrogative phrase"
 "Thai","thai1261","WOLD","Southeast Asia","Tai-Kadai","14.192","100.671","2 Not initial interrogative phrase",NA,"2 Not initial interrogative phrase"
+"Thai (Korat variety)","sout2745","IDS","Southeast Asia","Tai-Kadai","14.33","102.99",NA,NA,NA
 "Zhuang-Longzhou","zuoj1238","IDS","Southeast Asia","Tai-Kadai","21.8375","107.362",NA,NA,NA
