@@ -56,8 +56,19 @@ deleteLang<-c(
               "Kumyk (Ter Bragun dialect)",
               "Akhvakh (Northern dialect)", # Using southern dialect
               "Avar (Kusur dialect)",
+          "Avar (Andalal dialect)",
+          "Avar (Antsukh dialect)",
+          "Avar (Batlukh dialect)",
+          "Avar (Hid dialect)",
+          "Avar (Karakh dialect)",
+          "Avar (Zakataly dialect)",
+          "Bezhta (Khasharkhota dialect)",
+          "Bezhta (Tlyadal dialect, Karauzek subdialect)",
+          "Bulang",
+          "Bulang-3",
               "Botlikh (Miarso dialect)",
               "Chechen (Akkin dialect)",
+          "Chamalal (Gigatli dialect)",
               "Dargwa (Tsudakhar dialect, Tanty subdialect)",
               "Dargwa (Gapshima dialect)",
               "Dargwa (Gapshima Shukti dialect)",
@@ -68,15 +79,38 @@ deleteLang<-c(
               "Dargwa (Mugi dialect)",
               "Dargwa (Muiri dialect)",
               "Dargwa (Sirkhi dialect)",
-              "Dargwa (Usisha dialect)", 
+              "Dargwa (Usisha dialect)",
+          "Dargwa (Chirag dialect)",
+          "Dargwa (Itsari dialect)",
+          "Dargwa (Khajdak dialect)",
+          "Dargwa (Kubachi dialect)",
+          "Dargwa (Tsudakhar dialect)",
+          "Dargwa (Urakhi dialect)",
               "Rutul (Mukhrek) dialect",
               "Lak (Arakul dialect)",
               "Lak (Balkhar dialect)",
               "Lak (Shali dialect)",
               "Lezgi (Mikrakh dialect)",
+          "Karata (Tokitin dialect)",
+          "Khwarshi (Khwarshi dialect)",
+          "Lezgian (Quba dialect)",
+          "Mang VN",
+          "Rutul (Ikhrek dialect)",
+          "Rutul (Shinaz dialect)",
+          "Sanapaná (Angaité dialect)",
+          "Tabasaran (Northern dialect Khanag subdialect)",
+          "Tsez (Sagada dialect)",
               "Azerbaijani (Terekeme dialect)",
               "Rutul (Borchino Khnow dialect)",
-              "Tsakhur (Gelmets dialect)"
+              "Tsakhur (Gelmets dialect)",
+              "Aghul (Koshan dialect)",
+          "Andi (Muni dialect)",
+          "Armenian (Western variety)",
+          "KNB (a Pearic variety)",
+          'Proto Polynesian',
+          'LiHa',
+          'Tum',
+          'Kme-2 (Kemie variety)'
               )
 
 
@@ -209,7 +243,8 @@ numMeaningsPerLang = tapply(alldata$meaning.id.fixed, alldata$glotto, function(X
 alldata = alldata[!alldata$glotto %in% names(numMeaningsPerLang[numMeaningsPerLang<400]),]
 
 allx =alldata[,c("Language",'glotto','Source')]
-write.csv(allx[!duplicated(allx),],file = 'LangsInAnalysis.csv', row.names = F, fileEncoding = 'utf-8')
+allx = allx[!duplicated(allx),]
+write.csv(allx,file = 'LangsInAnalysis.csv', row.names = F, fileEncoding = 'utf-8')
 
 # remove objects we don't need
 loaded.functions <- as.vector(lsf.str())

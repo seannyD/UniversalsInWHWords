@@ -29,7 +29,7 @@ for(i in moreThanOneSource){
 }
 
 keep.spakbanken = ("nepa1252")
-keep.WOLD = c("wich1264",'thai1261','mapu1245','haus1257', 'arch1244','bezh1248' )
+keep.WOLD = c("wich1264",'thai1261','mapu1245','haus1257', 'arch1244','bezh1248','viet1252')
 keep.WOLD.but.add.IDS = c('hawa1245')
 presentMeanings = unique(Alldata[Alldata$glotto=='hawa1245' & Alldata$Source=='WOLD',]$language_pk)
 

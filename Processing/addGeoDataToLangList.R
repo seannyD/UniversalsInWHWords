@@ -1,3 +1,5 @@
+# Add geographical data, langauge family and initial wh-question grammar data.
+
 try(setwd("~/Documents/MPI/SemanticsPragmatics/2015Course/Projects/Slonimska/NewAnalysis/Pragmatics_Slonimska/Processing"))
 
 l.details = read.csv("../Analysis/LangsInAnalysis.csv", fileEncoding = 'utf-8', encoding = 'utf-8', stringsAsFactors = F)
@@ -59,7 +61,15 @@ geo.fix =matrix(c(
   'inxo1238', 46.00, 42.27,
   'xvar1237', 46.00, 42.27,
   'khoc1238', 46.03, 42.12,
-  'tlya1238', 46.03, 42.12
+  'tlya1238', 46.03, 42.12,
+   'west2394', 12.52, 102.51,
+  'cuoi1242',19.36, 105.36, # Cuoi
+  'khap1242',17.91, 105.53,
+  #'cuoi1242',18.78, 104.77, # LiHa
+  'mali1278',17.91, 105.53,
+  'suri1265',14.47, 103.86
+  #'cuoi1242',18.78, 104.77 # Tum,
+  
 ),nrow=3)
 
 geo.fix = geo.fix[,geo.fix[1,] %in% l.details$glotto]
@@ -68,17 +78,17 @@ for(i in 1:ncol(geo.fix)){
   l.details[!is.na(l.details$glotto) & l.details$glotto == geo.fix[1,i],]$longitude = geo.fix[3,i]
 }
 
-l.details[grepl("Avar ", l.details$Language),c('longitude','latitude')]= c(46.558, 41.7047)
-l.details[grepl("Dargwa ", l.details$Language),c('longitude','latitude')]= c(47.4388 , 42.4257)
-l.details[grepl("Lezgian ", l.details$Language),c('longitude','latitude')]= c(47.8951,  41.5157)
-l.details[grepl("Andi ", l.details$Language),c('longitude','latitude')]= c(46.2919  ,42.8078)
-l.details[grepl("Karata ", l.details$Language),c('longitude','latitude')]= c(46.3151 , 42.6501)
-l.details[grepl("Tsez ", l.details$Language),c('longitude','latitude')]= c(45.8096,  42.2646)
-l.details[grepl("Tabasaran ", l.details$Language),c('longitude','latitude')]= c(47.8379 , 42.0198)
-l.details[grepl("Aghul ", l.details$Language),c('longitude','latitude')]= c(47.5843 , 41.9242)
-l.details[grepl("Chamalal ", l.details$Language),c('longitude','latitude')]= c(45.995,  42.5024)
-l.details[grepl("Bezhta ", l.details$Language),c('longitude','latitude')]= c(45.995,  42.5024)
-l.details[grepl("Rutul ", l.details$Language),c('longitude','latitude')]= c(47.3244,  41.6187)
+l.details[grepl("Avar ", l.details$Language),c('longitude','latitude')]= list(46.558, 41.7047)
+l.details[grepl("Dargwa ", l.details$Language),c('longitude','latitude')]= list(47.4388 , 42.4257)
+l.details[grepl("Lezgian ", l.details$Language),c('longitude','latitude')]= list(47.8951,  41.5157)
+l.details[grepl("Andi ", l.details$Language),c('longitude','latitude')]= list(46.2919  ,42.8078)
+l.details[grepl("Karata ", l.details$Language),c('longitude','latitude')]= list(46.3151 , 42.6501)
+l.details[grepl("Tsez ", l.details$Language),c('longitude','latitude')]= list(45.8096,  42.2646)
+l.details[grepl("Tabasaran ", l.details$Language),c('longitude','latitude')]= list(47.8379 , 42.0198)
+l.details[grepl("Aghul ", l.details$Language),c('longitude','latitude')]= list(47.5843 , 41.9242)
+l.details[grepl("Chamalal ", l.details$Language),c('longitude','latitude')]= list(45.995,  42.5024)
+l.details[grepl("Bezhta ", l.details$Language),c('longitude','latitude')]= list(45.995,  42.5024)
+l.details[grepl("Rutul ", l.details$Language),c('longitude','latitude')]= list(47.3244,  41.6187)
 
 l.details[is.na(l.details$longitude),c("Language",'glotto')]
 
@@ -128,10 +138,16 @@ c.grammars[!c.grammars$Glotto %in% l.details$glotto,c("X",'IDS',"Glotto")]
 
 l.details$S.qpos = c.grammars[match(l.details$glotto, c.grammars$Glotto),]$Possible.Positioning
 
+ogl = read.table("../RAW_data/grammarCheck/OldGrammarLangs.tab", sep='\t', stringsAsFactors = F,
+                 header = T)
+
+ogl[!ogl$Glottolog.id %in% l.details$glotto,]
+
+
 l.details$qpos = l.details$WALS.qpos
 l.details[is.na(l.details$qpos),]$qpos = l.details[is.na(l.details$qpos),]$S.qpos
 
 
-l.details = l.details[order(l.details$area,l.details$langFam, l.details$Language),]
+l.details = l.details[order(l.details$langFam, l.details$area, l.details$Language),]
 
 write.csv(l.details, file="../Analysis/LangsInAnalysis_withGeoData.csv", fileEncoding = 'utf-8', row.names = F)

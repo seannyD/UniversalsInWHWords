@@ -84,7 +84,7 @@ dx.son$glotto = lang2glotto[dx.son$language]
 dx.son$family = l.details[match(dx.son$glotto,l.details$glotto),]$langFam
 dx.son$area = l.details[match(dx.son$glotto,l.details$glotto),]$area
 dx.son$area = l.details[match(dx.son$glotto,l.details$glotto),]$area
-dx.son$initial = l.details[match(dx.son$glotto,l.details$glotto),]$possiblegrammars == "1 Initial interrogative phrase"
+dx.son$initial = l.details[match(dx.son$glotto,l.details$glotto),]$qpos == "1 Initial interrogative phrase"
 
 write.csv(dx.son, "../Results/SimplifiedPhonology/Sonority/Sonority.csv")
 
@@ -162,7 +162,7 @@ edit.d$glotto = lang2glotto[edit.d$language]
 edit.d$family = l.details[match(edit.d$glotto,l.details$glotto),]$langFam
 edit.d$area = l.details[match(edit.d$glotto,l.details$glotto),]$area
 edit.d$area = l.details[match(edit.d$glotto,l.details$glotto),]$area
-edit.d$initial = l.details[match(edit.d$glotto,l.details$glotto),]$possiblegrammars == "1 Initial interrogative phrase"
+edit.d$initial = l.details[match(edit.d$glotto,l.details$glotto),]$qpos == "1 Initial interrogative phrase"
 
 write.csv(edit.d, "../Results/SimplifiedPhonology/Detectability/EditDistance.csv")
 sum(edit.d$p < 0.05)
@@ -207,14 +207,8 @@ m0 = lmer(sonority.first~ 1 + (1|language) + (1|family) + (1|area), data=dx.son)
 m1 = lmer(sonority.first~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son)
 anova(m0,m1)
 
-m0 = lmer(sonority.first.cons~ 1 + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
-m1 = lmer(sonority.first.cons~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
-m2 = lmer(sonority.first.cons~ 1 + wh + initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
-m3 = lmer(sonority.first.cons~ 1 + wh * initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
-anova(m0,m1,m2,m3)
-
-
 # For initial languages only
+
 m0 = lmer(sonority~ 1 + (1|language) + (1|family) + (1|area), data=dx.son[dx.son$initial,])
 m1 = lmer(sonority~ 1 + wh + (1|language) + (1|family) + (1|area), data=dx.son[dx.son$initial,])
 anova(m0,m1)
@@ -248,3 +242,5 @@ m1 = lmer(sonority.first.cons~ 1 + wh + (1|language) + (1|family) + (1|area), da
 m2 = lmer(sonority.first.cons~ 1 + wh + initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
 m3 = lmer(sonority.first.cons~ 1 + wh * initial + (1|language) + (1|family) + (1|area), data=dx.son[!is.na(dx.son$initial),])
 anova(m0,m1,m2,m3)
+
+save.image(file="sonority.RData")

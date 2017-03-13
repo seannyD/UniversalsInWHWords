@@ -1,173 +1,229 @@
 "","p","z","language","glotto","family","area","initial"
-"1",0.85,1.00236178033479,"Aché_Phonemic","ache1246","Tupian","SE South America",NA
-"2",0.104,-1.09122608013508,"Aguaruna_Phonemic","agua1253","Jivaroan","Andean",NA
-"3",0.006,-2.13533193344786,"Albanian._Tosk_Phonemic","gheg1238","Indo-European","Europe",TRUE
-"4",0.962,2.21606881927278,"Aramaic_Ancient_Phonemic","olda1245","Afro-Asiatic","Greater Mesopotamia",NA
-"5",0.329,-0.520714829422572,"Araona_Phonemic","arao1248","Tacanan","NE South America",NA
-"6",0.121,-1.01523827258008,"Archi","arch1244","Nakh-Daghestanian","Greater Mesopotamia",FALSE
-"7",0.011,-1.66870673514831,"Armenian._Eastern_Phonemic","nucl1235","Indo-European","Greater Mesopotamia",FALSE
-"8",0.775,0.658742304526163,"Aymara_Phonemic","sout2996","Aymara","Andean",FALSE
-"9",0.941,1.79055003866416,"Ayoreo_Phonemic","ayor1240","Zamucoan","SE South America",FALSE
-"10",0.008,-1.74011833904832,"Barí_Phonemic","bari1297","Chibchan","NE South America",NA
-"11",0.24,-0.737626701217152,"Basque_Phonemic","basq1248","Basque","Europe",FALSE
-"12",0.171,-0.91079303951836,"Bengali","beng1280","Indo-European","Indic",FALSE
-"13",0.001,-3.03691189235362,"Bezhta","bezh1248","Nakh-Daghestanian","Greater Mesopotamia",NA
-"14",0.098,-1.13281236718363,"Breton_Phonemic","bret1244","Indo-European","Europe",TRUE
-"15",0.161,-0.921734452134105,"Bulgarian_Phonemic","bulg1262","Indo-European","Europe",TRUE
-"16",0.898,1.2898709609281,"Carib_De.kwana_Phonemic","maqu1238","Cariban","NE South America",TRUE
-"17",0.996,3.58533676179341,"Catuquina_Phonemic","pano1254","Panoan","NE South America",TRUE
-"18",0.008,-2.03574899284866,"Cavineña_Phonemic","cavi1250","Tacanan","NE South America",TRUE
-"19",0.009,-1.97268347760437,"Cayapa_Phonemic","chac1249","Barbacoan","Andean",TRUE
-"20",0.812,0.728612998976953,"Cayuvava_Phonemic","cayu1262","Cayubaba","NE South America",NA
-"21",0.564,0.000800610505148168,"Ceq Wong","chew1245","Austroasiatic","Oceania",NA
-"22",0.942,1.72483465618443,"Chácobo_Phonemic","chac1251","Panoan","NE South America",TRUE
-"23",0.534,-0.0114886943929227,"Chadong_Phonemic","chad1240","Tai-Kadai","Southeast Asia",FALSE
-"24",0.856,1.00255823926604,"Chatino._Zacatepec_Phonemic","zaca1242","Otomanguean","Mesoamerica",TRUE
-"25",0.783,0.67051753613058,"Chipaya_Phonemic","chip1262","Uru-Chipaya","Andean",TRUE
-"26",0.981,2.58717884742289,"Chiriguano_Phonemic","east2555","Tupian","SE South America",NA
-"27",0.032,-1.54835331302754,"Chorote_Phonemic","iyow1239","Matacoan","SE South America",NA
-"28",0.304,-0.601218069204665,"Cofán_Phonemic","cofa1242","Cofán","Andean",NA
-"29",0.038,-1.58261857255766,"Colorado_Phonemic","colo1256","Barbacoan","Andean",NA
-"30",0.608,0.139147618652249,"Dehong_Phonemic","khun1259","Tai-Kadai","Southeast Asia",FALSE
-"31",0.063,-1.38717058028935,"Dutch","dutc1256","Indo-European","Europe",TRUE
-"32",0.892,1.23625716025807,"Embera_Phonemic","nort2972","Chocoan","Andean",TRUE
-"33",0.505,-0.113624664430125,"English","stan1293","Indo-European","Europe",TRUE
-"34",0.499,-0.163901892190426,"Epena_Phonemic","epen1239","Chocoan","Andean",TRUE
-"35",0.001,-3.01824320686784,"Erza_Mordvin_Phonemic","erzy1239","Uralic","Inner Asia",NA
-"36",0.556,0.0111858380273537,"Ese_Ejja_Phonemic","esee1248","Tacanan","NE South America",TRUE
-"37",0.036,-1.46571317968117,"Estonian_Phonemic","esto1258","Uralic","Inner Asia",TRUE
-"38",0.683,0.370573901975702,"Finnish_Phonemic","finn1318","Uralic","Inner Asia",TRUE
-"39",0.048,-1.26140233705517,"Gawwada","gaww1239","Afro-Asiatic","Greater Abyssinia",NA
-"40",0.024,-1.52389130639192,"Goajiro_Phonemic","wayu1243","Arawakan","NE South America",TRUE
-"41",0.411,-0.319059985972046,"Guaraní_Phonemic","para1311","Tupian","SE South America",FALSE
-"42",0.602,0.119285942793832,"Gününa_Küne_Phonemic","puel1244","Puelche","SE South America",NA
-"43",0.091,-1.16898293717328,"Gurindji","guri1247","Pama-Nyungan","N Australia",NA
-"44",0.389,-0.376162130788759,"Haida_Northern_Phonemic","nort2938","Haida","Alaska-Oregon",FALSE
-"45",0.001,-2.59972552415241,"Hausa_Phonemic","haus1257","Afro-Asiatic","African Savannah",FALSE
-"46",0.019,-1.74565090338403,"Hawaiian_Phonemic","hawa1245","Austronesian","Oceania",FALSE
-"47",0.001,-2.72501233508268,"Hungarian_Phonemic","hung1274","Uralic","Europe",FALSE
-"48",0.86,1.07852853110452,"Hup","hupd1244","Nadahup","NE South America",TRUE
-"49",0.062,-1.34813462909672,"Ignaciano_Phonemic","igna1246","Arawakan","NE South America",TRUE
-"50",0.285,-0.595885647163371,"Imbabura Quechua","imba1240","Quechuan","Andean",TRUE
-"51",0.06,-1.37036692897064,"Indonesian","indo1316","Austronesian","Southeast Asia",FALSE
-"52",0.003,-2.16214470465615,"Iraqw","iraq1241","Afro-Asiatic","S Africa",FALSE
-"53",0.292,-0.593925415080961,"Itonama_Phonemic","iton1250","Itonama","NE South America",TRUE
-"54",0.029,-1.62674720396413,"Japanese","nucl1643","Japonic","N Coast Asia",FALSE
-"55",0.608,0.0962539514298906,"Kaingáng_Phonemic","kain1272","Nuclear-Macro-Je","SE South America",FALSE
-"56",0.668,0.29209320219824,"Kali'na","gali1262","Cariban","NE South America",NA
-"57",0.282,-0.634493284064512,"Kanuri","cent2050","Saharan","African Savannah",TRUE
-"58",0.184,-0.867873759706875,"Karok_Phonemic","karo1304","Karok","California",NA
-"59",0.034,-1.33120469050111,"Ket","kett1243","Yeniseian","Inner Asia",FALSE
-"60",0.279,-0.597914744195771,"Khamuang_of_Chiang_Mai_Phonemic","nort2740","Tai-Kadai","Southeast Asia",FALSE
-"61",0.001,-2.4309558375184,"Khanty_Phonemic","khan1273","Uralic","Inner Asia",FALSE
-"62",0.003,-2.16989043012177,"Khasi","khas1269","Austroasiatic","Indic",FALSE
-"63",0.031,-1.41871195868708,"Kildin Saami","kild1236","Uralic","Inner Asia",NA
-"64",0.001,-2.43511297390411,"Komi_Phonemic","komi1268","Uralic","Inner Asia",NA
-"65",0.024,-1.67463986404526,"Kotgarhi","maha1287","Indo-European","Indic",NA
-"66",0.496,-0.138174137379732,"Lakkia_Phonemic","lakk1238","Tai-Kadai","Southeast Asia",NA
-"67",0.009,-2.01757381035585,"Langja_Buyang_Phonemic","lang1316","Tai-Kadai","Southeast Asia",NA
-"68",0.001,-2.6777363542715,"Lappish_North_Saami_Phonemic","nort2671","Uralic","Inner Asia",TRUE
-"69",0.044,-1.48345561059591,"Lengua_Phonemic","leng1262","Lengua-Mascoy","SE South America",NA
-"70",0.117,-1.13594315965612,"Li_of_Baoding_Phonemic","nucl1241","Tai-Kadai","Southeast Asia",NA
-"71",0.01,-1.78721572998799,"Limonese_Creole_Phonemic","limo1249","Indo-European","Mesoamerica",NA
-"72",0.001,-2.32208967966075,"Lower Sorbian","lowe1385","Indo-European","Europe",NA
-"73",0.891,1.28285990016162,"Maca_Phonemic","maca1260","Matacoan","SE South America",NA
-"74",0.56,-0.00519116930576004,"Macushi_Phonemic","macu1259","Cariban","NE South America",TRUE
-"75",0.001,-3.63118927416625,"Malagasy","plat1254","Austronesian","Southeast Asia",TRUE
-"76",0.794,0.792716262806076,"Manange","mana1288","Sino-Tibetan","Indic",NA
-"77",0.779,0.657294009197073,"Mandarin Chinese","mand1415","Sino-Tibetan","Southeast Asia",FALSE
-"78",0.001,-2.68272836714015,"Mansi_Phonemic","mans1258","Uralic","Inner Asia",FALSE
-"79",0.614,0.165063340392346,"Maonan_Phonemic","maon1241","Tai-Kadai","Southeast Asia",FALSE
-"80",0.195,-0.793501636420339,"Maori_Phonemic","maor1246","Austronesian","Oceania",FALSE
-"81",0.539,0.00533981833540416,"Mapudungun_Phonemic","mapu1245","Araucanian","Andean",FALSE
-"82",0.001,-2.14361922863382,"Marathi","mara1378","Indo-European","Indic",FALSE
-"83",0.004,-2.16540891549062,"Mari_Phonemic","east2328","Uralic","Inner Asia",NA
-"84",0.004,-2.04759545303609,"Mashco_Piro_Phonemic","mash1270","Arawakan","NE South America",NA
-"85",0.297,-0.573088237054419,"Mocoví_Phonemic","moco1246","Guaicuruan","SE South America",TRUE
-"86",0.32,-0.535836595863065,"Mosetén_Phonemic","mose1249","Mosetén-Chimané","NE South America",TRUE
-"87",0.622,0.230482577989308,"Movima_Phonemic","movi1243","Movima","NE South America",TRUE
-"88",0.001,-3.19601642613154,"Muisca_Phonemic","chib1270","Chibchan","NE South America",TRUE
-"89",0.973,2.15707874248007,"Mulam_Phonemic","mula1253","Tai-Kadai","Southeast Asia",NA
-"90",0.001,-3.08369882714032,"Nahuatl_Sierra_de_Zacapoaxtla_Phonemic","high1278","Uto-Aztecan","Mesoamerica",NA
-"91",0.25,-0.693014548477287,"Negerhollands_Phonemic","nege1244","Indo-European","Mesoamerica",TRUE
-"92",0.001,-2.89405673934162,"Nenets_Phonemic","nene1249","Uralic","Inner Asia",NA
-"93",0.383,-0.369225183249046,"Nepali","nepa1252","Nepali","Indic",FALSE
-"94",0.986,2.65844943188831,"Ninam_Shirishana_Phonemic","nina1238","Yanomam","NE South America",TRUE
-"95",0.76,0.679191767444537,"Nivaclé_Phonemic","niva1238","Matacoan","SE South America",NA
-"96",0.168,-0.904088755707508,"Nootka_Phonemic","noot1238","Wakashan","Alaska-Oregon",TRUE
-"97",0.443,-0.212368415984643,"Nung.Fengshan_Phonemic","nung1282","Sino-Tibetan","Southeast Asia",NA
-"98",0.702,0.414135908349735,"Nung.Ninbei_Phonemic","nung1283","Tai-Kadai","Southeast Asia",FALSE
-"99",0.105,-1.20411651230604,"Old High German","oldh1241","Indo-European","Europe",TRUE
-"100",0.001,-3.68190279212601,"Oroqen","oroq1238","Tungusic","N Coast Asia",NA
-"101",0.209,-0.815759577027041,"Otomi","mezq1235","Otomanguean","Mesoamerica",TRUE
-"102",0.005,-2.17741407253524,"Páez_Phonemic","paez1247","Páez","NE South America",NA
-"103",0.45,-0.260946731909233,"Panare_Phonemic","enap1235","Cariban","NE South America",TRUE
-"104",0.001,-3.0539035861969,"Persian_Phonemic","west2369","Indo-European","Greater Mesopotamia",FALSE
-"105",0.973,2.48535647233443,"Pilagá_Phonemic","pila1245","Guaicuruan","SE South America",TRUE
-"106",1,5.06486010383149,"Polci_Phonemic","polc1243","Afro-Asiatic","African Savannah",NA
-"107",0.907,1.40742324135771,"Puinave_Phonemic","puin1248","Puinave","NE South America",TRUE
-"108",0.371,-0.419585270589552,"Punjabi","panj1256","Indo-European","Indic",FALSE
-"109",0.001,-2.3638909770428,"Q'eqchi'","kekc1242","Mayan","Mesoamerica",TRUE
-"110",0.998,4.91404458646053,"Qau_Kelao_Phonemic","gela1265","Tai-Kadai","Southeast Asia",NA
-"111",0.651,0.278897508360752,"Qawasqar_Phonemic","qawa1238","Kawesqar","SE South America",NA
-"112",0.089,-1.24566986745673,"Rapa_Nui_Phonemic","rapa1244","Austronesian","Oceania",TRUE
-"113",0.064,-1.32228646801878,"Romani_Phonemic","roma1329","Indo-European","Inner Asia",NA
-"114",0.001,-3.40101719263816,"Romanian","roma1327","Indo-European","Europe",TRUE
-"115",0.551,-0.0303752339864588,"Rotuman_Phonemic","rotu1241","Austronesian","Oceania",FALSE
-"116",0.023,-1.42881719397069,"Russian_Phonemic","russ1263","Indo-European","Inner Asia",TRUE
-"117",0.054,-1.45147290167217,"Sakha","yaku1245","Turkic","Inner Asia",FALSE
-"118",0.338,-0.476697111931259,"Sanapaná_Dialect_Angaité_Phonemic","nucl1655","Lengua-Mascoy","SE South America",NA
-"119",0.482,-0.165723495890539,"Saramaccan","sara1340","Indo-European","NE South America",TRUE
-"120",0.001,-2.98991252076487,"Selice Romani","west2376","Indo-European","Europe",NA
-"121",0.999,3.89392333745746,"Selknam_Phonemic","onaa1245","Chonan","SE South America",NA
-"122",0.003,-2.15841770656413,"Selkup_Phonemic","selk1253","Uralic","Inner Asia",FALSE
-"123",0.223,-0.774978086715273,"Serbo.Croatian_Phonemic","croa1245","Indo-European","Europe",TRUE
-"124",0.426,-0.354519768542214,"Seri_Phonemic","seri1257","Seri","Mesoamerica",FALSE
-"125",0.854,0.958672132640984,"Seychelles Creole","sese1246","Indo-European","S Africa",TRUE
-"126",0.001,-2.56852380463802,"Shan_Dialect_Northern_Shan_Phonemic","shan1277","Tai-Kadai","Southeast Asia",NA
-"127",0.962,2.02869346645453,"Shipibo.Conibo_Phonemic","ship1254","Panoan","NE South America",FALSE
-"128",0.316,-0.50684984273247,"Siona_Phonemic","sion1247","Tucanoan","NE South America",TRUE
-"129",0.523,-0.0458494520558813,"Sirionó_Phonemic","siri1273","Tupian","NE South America",TRUE
-"130",0.5,-0.1209004168961,"Southern_Kam_Phonemic","kami1255","Tai-Kadai","Southeast Asia",NA
-"131",0.002,-2.25319348847021,"Southern_Tai_of_Songkhla_Phonemic","sout2746","Tai-Kadai","Southeast Asia",NA
-"132",0.091,-1.10436211425488,"Spanish_Phonemic","stan1288","Indo-European","Europe",TRUE
-"133",0.109,-1.12294675198234,"Sui_Phonemic","suii1243","Tai-Kadai","Southeast Asia",NA
-"134",0.479,-0.208785241836286,"Swahili","swah1253","Atlantic-Congo","S Africa",FALSE
-"135",0.548,-0.0461472588445342,"Tacana_Phonemic","taca1256","Tacanan","NE South America",TRUE
-"136",0.315,-0.561763032502171,"Tai_Lue_Phonemic","luuu1242","Tai-Kadai","Southeast Asia",FALSE
-"137",0.091,-1.18067729120137,"Takia","taki1248","Austronesian","N Coast New Guinea",NA
-"138",0.001,-2.56338062153194,"Tamil","tami1289","Dravidian","Indic",FALSE
-"139",0.08,-1.23072611169876,"Tarifiyt Berber","tari1263","Afro-Asiatic","N Africa",TRUE
-"140",0.374,-0.390211213026339,"Tehuelche_Phonemic","tehu1242","Chonan","SE South America",TRUE
-"141",0.079,-1.22389099626184,"Telugu","telu1262","Dravidian","Indic",FALSE
-"142",0.514,-0.0366500394022558,"Thai_Dialect_Korat_Phonemic","thai1261","Tai-Kadai","Southeast Asia",FALSE
-"143",0.001,-2.78418984841631,"Tibetan","tibe1272","Sino-Tibetan","Inner Asia",NA
-"144",0.551,0.0437179981350262,"Toba_Phonemic","toba1269","Guaicuruan","SE South America",TRUE
-"145",0.359,-0.396323191454698,"Tokharian_A_Phonemic","tokh1242","Indo-European","Europe",NA
-"146",0.008,-1.90272375399356,"Tokharian_B_Phonemic","tokh1243","Indo-European","Europe",NA
-"147",0.254,-0.68584582109557,"Trinitario_Phonemic","trin1274","Arawakan","NE South America",TRUE
-"148",0.98,2.49368824375079,"Trumai_Phonemic","trum1247","Trumai","NE South America",TRUE
-"149",0.021,-1.65895141323416,"Tsimshian_Phonemic","nucl1649","Tsimshian","Alaska-Oregon",FALSE
-"150",0.163,-0.900866640288847,"Tuamotuan_Phonemic","tuam1242","Austronesian","Oceania",NA
-"151",0.38,-0.37530176285325,"Tuyuca_Phonemic","tuyu1244","Tucanoan","NE South America",TRUE
-"152",0.012,-1.7720915897233,"Udmurt_Phonemic","udmu1245","Uralic","Inner Asia",NA
-"153",0.097,-1.2612802644048,"Vietnamese","viet1252","Austroasiatic","Southeast Asia",FALSE
-"154",0.021,-1.66884072883026,"Wai_Wai_Phonemic","waiw1244","Cariban","NE South America",NA
-"155",0.094,-1.15366878728156,"Waorani_Phonemic","waor1240","Waorani","NE South America",NA
-"156",0.931,1.69325831451967,"Wapishana_Phonemic","wapi1253","Arawakan","NE South America",NA
-"157",0.173,-0.919068422467207,"Waurá_Phonemic","waur1244","Arawakan","NE South America",NA
-"158",0.989,2.82763996821438,"Wayampi_Phonemic","waya1270","Tupian","NE South America",TRUE
-"159",0.833,0.862026108689498,"White Hmong","hmon1333","Hmong-Mien","Southeast Asia",NA
-"160",0.954,1.95247904508268,"Wichí_Phonemic","wich1264","Matacoan","SE South America",TRUE
-"161",0.65,0.290872444180901,"Yagán_Phonemic","yama1264","Yámana","SE South America",FALSE
-"162",0.736,0.430683035014036,"Yagua_Phonemic","yagu1244","Peba-Yagua","NE South America",TRUE
-"163",0.868,1.14319379710792,"Yaminahua_Phonemic","yami1256","Panoan","NE South America",TRUE
-"164",0.998,3.54203054032175,"Yanomámi_Phonemic","yano1262","Yanomam","NE South America",TRUE
-"165",0.279,-0.597135967615515,"Yaqui","yaqu1251","Uto-Aztecan","Mesoamerica",FALSE
-"166",0.543,-0.0038213695443916,"Yaruro_Phonemic","pume1238","Pumé","NE South America",NA
-"167",0.001,-2.57057990444704,"Yavitero_Phonemic","yavi1244","Arawakan","NE South America",TRUE
-"168",0.087,-1.19242122209465,"Yiddish_Phonemic","east2295","Indo-European","Europe",TRUE
-"169",0.517,-0.129943220428747,"Yuwana_Phonemic","yuwa1244","Yuwana","NE South America",NA
-"170",0.002,-2.45335942257136,"Zhuang.Longzhou_Phonemic","minz1236","Tai-Kadai","Southeast Asia",NA
-"171",0.477,-0.155306458404573,"Zinacantán Tzotzil","tzot1259","Mayan","Mesoamerica",TRUE
-"172",0.441,-0.253683342347562,"Zuni_Phonemic","zuni1245","Zuni","Basin and Plains",TRUE
+"1",0.697,0.345349498716179,"Aché","ache1246","Tupian","SE South America",NA
+"2",0.806,0.822217633140387,"Aghul","aghu1253","Nakh-Daghestanian","Greater Mesopotamia",NA
+"3",0.003,-2.2123765506341,"Aghul (Koshan dialect)","kosh1245","Nakh-Daghestanian","Greater Mesopotamia",NA
+"4",0.613,0.063035413970144,"Aguaruna","agua1253","Jivaroan","Andean",NA
+"5",0.209,-0.84848951026073,"Akhvakh (Southern dialect)","akhv1239","Nakh-Daghestanian","Greater Mesopotamia",NA
+"6",0.012,-1.82234888916553,"Albanian (Tosk variety)","tosk1239","Indo-European","Europe",TRUE
+"7",0.528,-0.0808759225056006,"Andi","andi1255","Nakh-Daghestanian","Greater Mesopotamia",NA
+"8",0.089,-1.2477107217686,"Andi (Muni dialect)","muni1255","Nakh-Daghestanian","Greater Mesopotamia",NA
+"9",0.279,-0.623788260948947,"Araona","arao1248","Tacanan","NE South America",NA
+"10",0.586,0.10434866701236,"Archi","arch1244","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"11",0.475,-0.217104598783958,"Armenian (Eastern variety)","east2283","Indo-European","Greater Mesopotamia",NA
+"12",0.358,-0.474168763043809,"Armenian (Western variety)","west2348","Indo-European","Greater Mesopotamia",NA
+"13",0.344,-0.462288419642605,"Avar","avar1256","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"14",0.296,-0.588530174283063,"Avar (Andalal dialect)","anda1281","Nakh-Daghestanian","Inner Asia",NA
+"15",0.792,0.749996432314933,"Avar (Antsukh dialect)","ancu1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"16",0.007,-1.91181301450546,"Avar (Batlukh dialect)","batl1238","Nakh-Daghestanian","Inner Asia",NA
+"17",0.127,-1.04662596144697,"Avar (Hid dialect)","hidd1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"18",0.716,0.423268121490772,"Avar (Karakh dialect)","kara1473","Nakh-Daghestanian","Greater Mesopotamia",NA
+"19",0.311,-0.515176481731184,"Avar (Zakataly dialect)","zaka1239","Nakh-Daghestanian","Inner Asia",NA
+"20",0.638,0.261878153142657,"Aymara","cent2142","Aymara","Andean",FALSE
+"21",0.967,2.36567770492661,"Ayoreo","ayor1240","Zamucoan","SE South America",FALSE
+"22",0.435,-0.269551598505985,"Azerbaijani","nort2697","Turkic","Greater Mesopotamia",FALSE
+"23",0.12,-1.07895069381641,"Bagvalal","bagv1239","Nakh-Daghestanian","Greater Mesopotamia",NA
+"24",0.376,-0.397240021465894,"Barí","bari1297","Chibchan","NE South America",NA
+"25",0.366,-0.416092547930122,"Basque","basq1248","Basque","Europe",FALSE
+"26",0.478,-0.164540185012718,"Bengali","beng1280","Indo-European","Indic",FALSE
+"27",0.098,-1.20933262053255,"Bezhta","bezh1248","Nakh-Daghestanian","Greater Mesopotamia",NA
+"28",0.636,0.229897256343667,"Bezhta (Khasharkhota dialect)","khoc1238","Nakh-Daghestanian","Inner Asia",NA
+"29",0.166,-0.8919259585195,"Bezhta (Tlyadal dialect, Karauzek subdialect)","tlya1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"30",0.175,-0.863230281694439,"Botlikh","botl1242","Nakh-Daghestanian","Greater Mesopotamia",NA
+"31",0.127,-1.03797181007806,"Breton","bret1244","Indo-European","Europe",TRUE
+"32",0.303,-0.559861522288793,"Budukh","budu1248","Nakh-Daghestanian","Greater Mesopotamia",NA
+"33",0.245,-0.673738785593678,"Bulgarian","bulg1262","Indo-European","Europe",TRUE
+"34",0.943,1.8012786104644,"Catuquina","pano1254","Panoan","NE South America",TRUE
+"35",0.259,-0.62109844825176,"Cavineña","cavi1250","Tacanan","NE South America",TRUE
+"36",0.043,-1.39865757079789,"Cayapa","chac1249","Barbacoan","Andean",TRUE
+"37",0.376,-0.432792064099038,"Cayuvava","cayu1262","Cayubaba","NE South America",NA
+"38",0.098,-1.16330869670293,"Ceq Wong","chew1245","Austroasiatic","Southeast Asia",NA
+"39",0.807,0.797044575964649,"Chácobo","chac1251","Panoan","NE South America",TRUE
+"40",0.546,-0.0142212127237189,"Chamalal","cham1309","Nakh-Daghestanian","Greater Mesopotamia",NA
+"41",0.379,-0.400748802003508,"Chamalal (Gigatli dialect)","giga1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"42",0.593,0.0843307158808036,"Chatino (Zacatepec variety)","zaca1242","Otomanguean","Mesoamerica",TRUE
+"43",0.001,-2.40649465324447,"Chechen","chec1245","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"44",0.329,-0.525074466097675,"Chipaya","chip1262","Uru-Chipaya","Andean",TRUE
+"45",0.839,0.844599702178939,"Chiriguano","east2555","Tupian","SE South America",NA
+"46",0.001,-2.5852702381439,"Chorote","iyoj1235","Matacoan","SE South America",NA
+"47",0.001,-2.38219139416275,"Cofán","cofa1242","Cofán","Andean",NA
+"48",0.229,-0.727384530907902,"Colorado","colo1256","Barbacoan","Andean",NA
+"49",0.949,1.66532156347545,"Dargwa","darg1241","Nakh-Daghestanian","Greater Mesopotamia",NA
+"50",0.067,-1.31080758794542,"Dargwa (Chirag dialect)","chir1284","Nakh-Daghestanian","Inner Asia",NA
+"51",0.97,1.98690955687052,"Dargwa (Itsari dialect)","itsa1239","Nakh-Daghestanian","Greater Mesopotamia",NA
+"52",0.964,1.95244611024315,"Dargwa (Khajdak dialect)","kajt1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"53",0.502,-0.112644889002513,"Dargwa (Kubachi dialect)","kuba1248","Nakh-Daghestanian","Inner Asia",NA
+"54",0.899,1.41678565365689,"Dargwa (Tsudakhar dialect)","cuda1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"55",0.632,0.28484128509798,"Dargwa (Urakhi dialect)","urax1238","Nakh-Daghestanian","Inner Asia",NA
+"56",0.804,0.695194692754711,"De'kwana","maqu1238","Cariban","NE South America",TRUE
+"57",0.1,-1.11170883213378,"Dehong","tain1252","Tai-Kadai","Southeast Asia",NA
+"58",0.485,-0.103160864063289,"Dutch","dutc1256","Indo-European","Europe",TRUE
+"59",0.931,1.63895610726286,"Ecun Buyang","lang1316","Tai-Kadai","Southeast Asia",NA
+"60",0.738,0.50150455561662,"Embera","nort2972","Chocoan","Andean",TRUE
+"61",0.48,-0.178564910666262,"English","stan1293","Indo-European","Europe",TRUE
+"62",0.191,-0.811586011428375,"Epena","epen1239","Chocoan","Andean",TRUE
+"63",0.027,-1.61927649724391,"Erzya Mordvin","erzy1239","Uralic","Inner Asia",NA
+"64",0.159,-0.999085711440242,"Ese Ejja","esee1248","Tacanan","NE South America",TRUE
+"65",0.735,0.498799219388642,"Estonian","esto1258","Uralic","Inner Asia",TRUE
+"66",0.902,1.31507545304537,"Finnish","finn1318","Uralic","Inner Asia",TRUE
+"67",0.001,-2.49729837475011,"Gawwada","gaww1239","Afro-Asiatic","Greater Abyssinia",NA
+"68",0.016,-1.73850605805748,"Goajiro","wayu1243","Arawakan","NE South America",TRUE
+"69",0.34,-0.487005297360425,"Godoberi","ghod1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"70",0.014,-1.87733299915512,"Guaraní","para1311","Tupian","SE South America",FALSE
+"71",0.17,-0.934460483385341,"Gününa Küne","puel1244","Puelche","SE South America",NA
+"72",0.19,-0.846421901284956,"Gurindji","guri1247","Pama-Nyungan","N Australia",NA
+"73",0.001,-2.85510357755451,"Hausa","haus1257","Afro-Asiatic","African Savannah",FALSE
+"74",0.015,-1.72920023485658,"Hawaiian","hawa1245","Austronesian","Oceania",FALSE
+"75",0.145,-1.01310150939019,"Hindi","hind1269","Indo-European","Indic",FALSE
+"76",0.325,-0.515178593953197,"Hinuq","hinu1240","Nakh-Daghestanian","Greater Mesopotamia",NA
+"77",0.859,1.05757166932228,"Hlai (Baoting variety)","hlai1239","Tai-Kadai","Southeast Asia",NA
+"78",0.006,-1.89286798265164,"Hungarian","hung1274","Uralic","Europe",FALSE
+"79",0.114,-1.09503878613016,"Hunzib","hunz1247","Nakh-Daghestanian","Greater Mesopotamia",NA
+"80",0.493,-0.0813964197896238,"Hup","hupd1244","Nadahup","NE South America",TRUE
+"81",0.001,-3.06632572016563,"Ignaciano","igna1246","Arawakan","NE South America",TRUE
+"82",0.248,-0.726718967047648,"Imbabura Quechua","imba1240","Quechuan","Andean",TRUE
+"83",0.128,-1.04823580470872,"Indonesian","indo1316","Austronesian","Southeast Asia",FALSE
+"84",0.028,-1.66137084077468,"Ingush","ingu1240","Nakh-Daghestanian","Greater Mesopotamia",NA
+"85",0.037,-1.52728596840072,"Iraqw","iraq1241","Afro-Asiatic","S Africa",FALSE
+"86",0.546,0.0547619812098589,"Itonama","iton1250","Itonama","NE South America",TRUE
+"87",0.261,-0.660060293626481,"Japanese","nucl1643","Japonic","N Coast Asia",FALSE
+"88",0.823,0.850787270097552,"Judeo-Tat","jude1256","Indo-European","Greater Mesopotamia",NA
+"89",0.249,-0.695270973597262,"Kaingáng","kain1272","Nuclear-Macro-Je","SE South America",FALSE
+"90",0.056,-1.42187896285877,"Kali'na","gali1262","Cariban","NE South America",NA
+"91",0.569,0.0820997046747553,"Kanuri","cent2050","Saharan","African Savannah",TRUE
+"92",0.336,-0.510344828744848,"Karata","kara1474","Nakh-Daghestanian","Greater Mesopotamia",NA
+"93",0.567,0.0550913067491386,"Karata (Tokitin dialect)","toki1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"94",0.165,-0.926523013891313,"Karok","karo1304","Karok","California",NA
+"95",0.051,-1.29805035286687,"Ket","kett1243","Yeniseian","Inner Asia",FALSE
+"96",0.997,3.4129148641989,"Khamuang (Chiang Mai variety)","nort2740","Tai-Kadai","Southeast Asia",NA
+"97",0.445,-0.300958686392809,"Khanty","khan1273","Uralic","Inner Asia",FALSE
+"98",0.001,-3.03872052413718,"Khasi","khas1269","Austroasiatic","Indic",FALSE
+"99",0.845,1.0065640574428,"Khinalug","khin1240","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"100",0.009,-2.05585825861637,"Khwarshi (Inkhokvari dialect)","inxo1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"101",0.116,-1.1028753456602,"Khwarshi (Khwarshi dialect)","xvar1237","Nakh-Daghestanian","Greater Mesopotamia",NA
+"102",0.229,-0.764773700991128,"Kildin Saami","kild1236","Uralic","Inner Asia",NA
+"103",0.131,-0.997883811268315,"Komi","komi1268","Uralic","Inner Asia",NA
+"104",0.638,0.247029314206649,"Kryz","kryt1240","Nakh-Daghestanian","Greater Mesopotamia",NA
+"105",0.603,0.154432170906801,"Kumyk","kumy1244","Turkic","Greater Mesopotamia",NA
+"106",0.787,0.733192937248046,"Kunza","kunz1244","Kunza","Andean",NA
+"107",0.696,0.43136248267599,"Lak","lakk1252","Nakh-Daghestanian","Greater Mesopotamia",NA
+"108",0.201,-0.796328033038091,"Lakkia","lakk1238","Tai-Kadai","Southeast Asia",NA
+"109",0.204,-0.797690778195391,"Langja Buyang","emab1235","Tai-Kadai","Southeast Asia",NA
+"110",0.381,-0.387700592786991,"Lengua","leng1262","Lengua-Mascoy","SE South America",NA
+"111",0.504,-0.174863688993372,"Lezgian","lezg1247","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"112",0.821,0.859077449480805,"Lezgian (Quba dialect)","quba1246","Nakh-Daghestanian","Greater Mesopotamia",NA
+"113",0.238,-0.752616968917906,"Lower Sorbian","lowe1385","Indo-European","Europe",NA
+"114",0.309,-0.557814500908617,"Maca","maca1260","Matacoan","SE South America",NA
+"115",0.619,0.132888840272185,"Macushi","macu1259","Cariban","NE South America",TRUE
+"116",0.065,-1.32491434751428,"Mahasu Pahari (Kotghari dialect)","maha1287","Indo-European","Indic",NA
+"117",0.346,-0.479742714586612,"Malagasy","plat1254","Austronesian","Southeast Asia",TRUE
+"118",0.803,0.790937965937813,"Manange","mana1288","Sino-Tibetan","Indic",NA
+"119",0.892,1.2040429545567,"Mandarin Chinese","mand1415","Sino-Tibetan","Southeast Asia",NA
+"120",0.491,-0.117432638782593,"Mansi","mans1258","Uralic","Inner Asia",FALSE
+"121",0.009,-1.66366480203967,"Maori","maor1246","Austronesian","Oceania",FALSE
+"122",0.448,-0.234947844769329,"Mapudungun","mapu1245","Araucanian","Andean",FALSE
+"123",0.475,-0.247726040569588,"Marathi","mara1378","Indo-European","Indic",FALSE
+"124",0.071,-1.26197396439019,"Mari","east2328","Uralic","Inner Asia",NA
+"125",0.091,-1.11075209703811,"Mashco Piro","mash1270","Arawakan","NE South America",NA
+"126",0.001,-2.99501515887765,"Mocoví","moco1246","Guaicuruan","SE South America",TRUE
+"127",0.387,-0.381515908598194,"Mosetén","mose1249","Mosetén-Chimané","NE South America",TRUE
+"128",0.252,-0.665050325119883,"Movima","movi1243","Movima","NE South America",TRUE
+"129",0.006,-2.33784924743098,"Muisca","chib1270","Chibchan","NE South America",TRUE
+"130",0.095,-1.24010068693328,"Nahuatl (Sierra de Zacapoaxtla variety)","high1278","Uto-Aztecan","Mesoamerica",NA
+"131",0.186,-0.804675374561225,"Negerhollands","nege1244","Indo-European","Mesoamerica",TRUE
+"132",0.088,-1.27539334695185,"Nenets","nene1249","Uralic","Inner Asia",NA
+"133",0.761,0.586806494802029,"Nepali","nepa1252","Nepali","Indic",FALSE
+"134",0.991,2.89994228327305,"Ninam (Shirishana variety)","nina1238","Yanomam","NE South America",TRUE
+"135",0.535,-0.0128903384508772,"Nivaclé","niva1238","Matacoan","SE South America",NA
+"136",0.431,-0.314229439221191,"Nogai","noga1249","Turkic","Inner Asia",NA
+"137",0.489,-0.192762411236274,"Northern Haida","nort2938","Haida","Alaska-Oregon",NA
+"138",0.139,-1.01664133067543,"Northern Saami","nort2671","Uralic","Inner Asia",TRUE
+"139",0.96,1.88494303583835,"Nung-Lazhai","guib1244","Tai-Kadai","Southeast Asia",NA
+"140",0.867,1.1705234109741,"Nung-Ninbei","nung1283","Tai-Kadai","Southeast Asia",FALSE
+"141",0.06,-1.26088024112397,"Nuu-chah-nulth","nuuc1236","Wakashan","Alaska-Oregon",NA
+"142",0.46,-0.216705748904111,"Old High German","oldh1241","Indo-European","Europe",TRUE
+"143",0.002,-2.41130774506213,"Oroqen","oroq1238","Tungusic","Inner Asia",NA
+"144",0.549,-0.0178287433317625,"Otomi","mezq1235","Otomanguean","Mesoamerica",TRUE
+"145",0.281,-0.622865333449882,"Páez","paez1247","Páez","NE South America",NA
+"146",0.121,-1.01314165487017,"Panare","enap1235","Cariban","NE South America",TRUE
+"147",0.019,-1.63641534638162,"Persian","west2369","Indo-European","Greater Mesopotamia",FALSE
+"148",0.954,1.88890514588099,"Pilagá","pila1245","Guaicuruan","SE South America",TRUE
+"149",0.991,2.90807327291028,"Polci","polc1243","Afro-Asiatic","African Savannah",NA
+"150",0.62,0.139009168095618,"Puinave","puin1248","Puinave","NE South America",TRUE
+"151",0.597,0.10796351269392,"Punjabi","west2386","Indo-European","Indic",NA
+"152",0.123,-1.10562765900853,"Q'eqchi'","kekc1242","Mayan","Mesoamerica",TRUE
+"153",0.929,1.54677350930938,"Qau Kelao","qaua1234","Tai-Kadai","Southeast Asia",NA
+"154",0.128,-1.12780064203931,"Qawasqar","qawa1238","Kawesqar","SE South America",NA
+"155",0.027,-1.66026659858726,"Rapa Nui","rapa1244","Austronesian","Oceania",TRUE
+"156",0.031,-1.39383691291789,"Romani","vlax1238","Indo-European","Europe",NA
+"157",0.162,-0.913518471943637,"Romanian","roma1327","Indo-European","Europe",NA
+"158",0.301,-0.512738760743206,"Rotuman","rotu1241","Austronesian","Oceania",FALSE
+"159",0.234,-0.747903786105476,"Russian","russ1263","Indo-European","Inner Asia",TRUE
+"160",0.31,-0.551984507581341,"Rutul","rutu1240","Nakh-Daghestanian","Greater Mesopotamia",NA
+"161",0.197,-0.830076084333406,"Rutul (Ikhrek dialect)","ixre1238","Nakh-Daghestanian","Inner Asia",NA
+"162",0.036,-1.59270171077282,"Rutul (Shinaz dialect)","shin1265","Nakh-Daghestanian","Greater Mesopotamia",NA
+"163",0.03,-1.56919505620928,"Sakha","yaku1245","Turkic","Inner Asia",FALSE
+"164",0.275,-0.642506207889396,"Sanapaná (Angaité dialect)","anga1295","Lengua-Mascoy","SE South America",NA
+"165",0.695,0.346657196496042,"Sanapaná (Enlhet dialect)","sana1281","Lengua-Mascoy","SE South America",NA
+"166",0.957,2.01416544938428,"Sanchong Kelao","gree1278","Tai-Kadai","Southeast Asia",NA
+"167",0.586,0.0886520449249906,"Saramaccan","sara1340","Indo-European","NE South America",TRUE
+"168",0.067,-1.24083301255273,"Selice Romani","west2376","Indo-European","Europe",NA
+"169",0.989,2.72995189359461,"Selknam","onaa1245","Chonan","SE South America",NA
+"170",0.604,0.132078234836274,"Selkup","selk1253","Uralic","Inner Asia",FALSE
+"171",0.584,0.0113081023106367,"Serbo-Croatian","sout1528","Indo-European","Greater Mesopotamia",TRUE
+"172",0.201,-0.812961330467605,"Seri","seri1257","Seri","Mesoamerica",FALSE
+"173",0.309,-0.525363789061986,"Shan (Northern Shan dialect)","shan1277","Tai-Kadai","Southeast Asia",NA
+"174",0.941,1.81497267231429,"Shipibo-Conibo","ship1254","Panoan","NE South America",FALSE
+"175",0.278,-0.617059341136866,"Siona","sion1247","Tucanoan","Andean",TRUE
+"176",0.003,-2.39286374877414,"Sirionó","siri1273","Tupian","NE South America",TRUE
+"177",0.898,1.25089392894872,"Southern Tai (Songkhla variety)","sout2746","Tai-Kadai","Southeast Asia",NA
+"178",0.377,-0.423981022384461,"Spanish","stan1288","Indo-European","Europe",TRUE
+"179",0.978,2.50373380945985,"Sui","suii1243","Tai-Kadai","Southeast Asia",NA
+"180",0.169,-0.908918660797842,"Swahili","swah1253","Atlantic-Congo","S Africa",FALSE
+"181",0.429,-0.338695869676082,"Tabasaran (Northern dialect Khanag subdialect)","taba1259","Nakh-Daghestanian","Greater Mesopotamia",NA
+"182",0.284,-0.629189413919481,"Tabasaran (Southern dialect)","sout2752","Nakh-Daghestanian","Greater Mesopotamia",NA
+"183",0.115,-1.00596173327766,"Tacana","taca1256","Tacanan","NE South America",TRUE
+"184",0.703,0.387245296821483,"Tai Khün","khun1259","Tai-Kadai","Southeast Asia",FALSE
+"185",0.238,-0.728163945080261,"Tai Lü","luuu1242","Tai-Kadai","Southeast Asia",FALSE
+"186",0.235,-0.782357106573719,"Takia","taki1248","Austronesian","N Coast New Guinea",NA
+"187",0.542,-0.016613156375485,"Tamil","tami1289","Dravidian","Indic",FALSE
+"188",0.142,-0.968581839359623,"Tarifiyt Berber","tari1263","Afro-Asiatic","N Africa",TRUE
+"189",0.356,-0.466751489409331,"Tehuelche","tehu1242","Chonan","SE South America",TRUE
+"190",0.022,-1.70539933524166,"Telugu","telu1262","Dravidian","Indic",FALSE
+"191",0.881,1.14861454396694,"Thai","thai1261","Tai-Kadai","Southeast Asia",FALSE
+"192",0.973,2.15058915705764,"Thai (Korat variety)","sout2745","Tai-Kadai","Southeast Asia",NA
+"193",0.001,-3.44030504821426,"Tibetan","tibe1272","Sino-Tibetan","Inner Asia",NA
+"194",0.75,0.534901333603388,"Tindi","tind1238","Nakh-Daghestanian","Greater Mesopotamia",NA
+"195",0.098,-1.17149508728676,"Toba","toba1269","Guaicuruan","SE South America",TRUE
+"196",0.904,1.38549273759145,"Tocharian A","tokh1242","Indo-European","Inner Asia",NA
+"197",0.097,-1.1812864499715,"Tocharian B","tokh1243","Indo-European","Indic",NA
+"198",0.369,-0.433175024411198,"Trinitario","trin1274","Arawakan","NE South America",TRUE
+"199",0.992,2.82180150734439,"Trumai","trum1247","Trumai","NE South America",TRUE
+"200",0.413,-0.32327702229836,"Tsakhur","tsak1249","Nakh-Daghestanian","Greater Mesopotamia",NA
+"201",0.075,-1.32023553232834,"Tsez (Mokok dialect) ","dido1241","Nakh-Daghestanian","Greater Mesopotamia",NA
+"202",0.218,-0.787149890426909,"Tsez (Sagada dialect)","saga1261","Nakh-Daghestanian","Greater Mesopotamia",NA
+"203",0.033,-1.57075739937798,"Tsimshian","nucl1649","Tsimshian","Alaska-Oregon",FALSE
+"204",0.016,-1.77690197002583,"Tsova-Tush","bats1242","Nakh-Daghestanian","Greater Mesopotamia",FALSE
+"205",0.313,-0.576508653528451,"Tuamotuan","tuam1242","Austronesian","Oceania",NA
+"206",0.033,-1.20746785651045,"Tuyuca","tuyu1244","Tucanoan","NE South America",TRUE
+"207",0.679,0.300020703117002,"Udi","udii1243","Nakh-Daghestanian","Greater Mesopotamia",NA
+"208",0.119,-1.03139176998897,"Udmurt","udmu1245","Uralic","Inner Asia",NA
+"209",0.602,0.171636122695632,"Vietnamese","viet1252","Austroasiatic","Southeast Asia",FALSE
+"210",0.181,-0.917341846508072,"Wai Wai","waiw1244","Cariban","NE South America",NA
+"211",0.185,-0.839997211073446,"Waorani","waor1240","Waorani","NE South America",NA
+"212",0.801,0.769582857853503,"Wapishana","wapi1253","Arawakan","NE South America",NA
+"213",0.907,1.44190330198116,"Waurá","waur1244","Arawakan","NE South America",NA
+"214",0.853,1.0592559692712,"Wayampi","waya1270","Tupian","NE South America",TRUE
+"215",0.909,1.35734831441423,"White Hmong","hmon1333","Hmong-Mien","Southeast Asia",NA
+"216",0.008,-1.99551498145176,"Wichí","wich1264","Matacoan","SE South America",TRUE
+"217",0.614,0.216209187317743,"Yagán","yama1264","Yámana","SE South America",FALSE
+"218",0.767,0.580072151976926,"Yagua","yagu1244","Peba-Yagua","NE South America",TRUE
+"219",0.552,-0.0316604969792284,"Yaminahua","yami1256","Panoan","NE South America",TRUE
+"220",1,4.32884108195245,"Yanomámi","yano1262","Yanomam","NE South America",TRUE
+"221",0.014,-1.72984509224314,"Yaqui","yaqu1251","Uto-Aztecan","Mesoamerica",FALSE
+"222",0.357,-0.466829678428315,"Yaruro","pume1238","Pumé","NE South America",NA
+"223",0.001,-2.65472094327891,"Yavitero","yavi1244","Arawakan","NE South America",TRUE
+"224",0.437,-0.335279695732771,"Yiddish","east2295","Indo-European","Europe",TRUE
+"225",0.323,-0.54341598596801,"Yuwana","yuwa1244","Yuwana","NE South America",NA
+"226",0.688,0.31681524059856,"Zhuang-Longzhou","zuoj1238","Tai-Kadai","Southeast Asia",NA
+"227",0.362,-0.429438972582998,"Zinacantán Tzotzil","tzot1264","Mayan","Mesoamerica",TRUE
+"228",0.623,0.127494317878159,"Zuni","zuni1245","Zuni","Basin and Plains",TRUE

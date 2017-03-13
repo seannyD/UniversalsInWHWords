@@ -109,3 +109,25 @@ runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.
 runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_firstSegments_RandomIndependentSample",T)
 
 
+
+
+######
+# LMER analysis of initial vs non-initial languages
+
+initial.e = getWordListEntropy(d.wh.possible.initial.m, T)
+non.initial.e = getWordListEntropy(d.wh.possible.non.initial.m, T)
+
+dx = data.frame(e = c(initial.e,non.initial.e),
+                qpos = c(rep('initial',length(initial.e)),rep('non.initial',length(non.initial.e))),
+                family = c(families.d.wh.possible.initial,families.d.wh.possible.non.initial),
+                area = c(areas.d.wh.possible.initial, areas.d.wh.possible.non.initial)
+)
+
+dx$e.norm = dx$e - mean(dx$e)
+
+
+library(lme4)
+
+m0 = lmer(e.norm ~ 1 + (1+qpos|family) + (1+qpos|area), data=dx)
+m1 = lmer(e.norm ~ 1 + qpos + (1+qpos|family) + (1+qpos|area), data=dx)
+anova(m0,m1)

@@ -65,6 +65,7 @@ z.score = (trueDetectability - apply(permDetectability,1,mean)) / apply(permDete
 
 mean(z.score)
 # -0.5382705
+# -0.5300793
 
 # proportion of samples perm prob > wh prob
 # (we predict that perm prob should be more than wh prob)
@@ -72,14 +73,16 @@ p.values = rowSums(permDetectability > trueDetectability) / ncol(permDetectabili
 p.values[p.values==0] = 1/nperm 
 sum(z.score < 0)/length(z.score)
 #0.9360465
+#0.9517544   (217 out of 228)
 sum(p.values>0.95 & z.score<0)/length(p.values)
 #0.6802326
+#0.6973684 (159 out of 228)
 
 detect.d = data.frame(lang=colnames(d.wh.m), detect=trueDetectability, p= p.values,z=z.score,stringsAsFactors=F,xnum = 1:length(trueDetectability))
 
 lang2glotto = tapply(alldata$glotto,alldata$Language,sample,size=1)
 
-detect.d$interrogative.position = l.details[match(lang2glotto[detect.d$lang], l.details$glotto),]$possiblegrammars
+detect.d$interrogative.position = l.details[match(lang2glotto[detect.d$lang], l.details$glotto),]$qpos
 
 detect.d$initialInterrogative = detect.d$interrogative.position=="1 Initial interrogative phrase"
 detect.d$initialInterrogative[detect.d$initialInterrogative==""] = NA
@@ -108,7 +111,7 @@ legend(-45,0.12,legend=c("Wh-word detectability","Random words detectability"), 
 
 
 mostDetectable = detect.d[which(detect.d$z==min(detect.d$z)),]$lang
-# Gurindji 
+# Yaminahua
 
 # Get profile of most detectable language
 xRand = table(substr(d.random.m[,which(colnames(d.random.m)==mostDetectable)],1,1))
@@ -150,6 +153,7 @@ random.detectability.fam = replicate(10000, getRandIndepSampleDiff(
 hist(random.detectability.fam)
 sum(random.detectability.fam<=0) / length(random.detectability.fam)
 # 0.9953
+#0.6167
 
 
 limit2 = min(length(unique(dx[dx$initialInterrogative,]$area)),
@@ -167,6 +171,7 @@ random.detectability.area = replicate(10000, getRandIndepSampleDiff(
 hist(random.detectability.area)
 sum(random.detectability.area<=0) / length(random.detectability.area)
 # 0.9145
+# 0.7452
 
 
 
@@ -194,6 +199,19 @@ t.test(detect.d$z~detect.d$initialInterrogative)
 #   mean in group FALSE  mean in group TRUE 
 # -0.4368377          -0.6372453 
 
+
+# Welch Two Sample t-test
+# 
+# data:  detect.d$z by detect.d$initialInterrogative
+# t = 1.0786, df = 103.74, p-value = 0.2833
+# alternative hypothesis: true difference in means is not equal to 0
+# 95 percent confidence interval:
+#   -0.04417511  0.14953986
+# sample estimates:
+#   mean in group FALSE  mean in group TRUE 
+# -0.5687443          -0.6214267 
+
+
 cutoff.h = mean(detect.d$z) + (2* sd(detect.d$z))
 cutoff.l = mean(detect.d$z) - (2* sd(detect.d$z))
 
@@ -212,6 +230,17 @@ t.test(detect.d[detect.d$z < cutoff.h & detect.d$z>cutoff.l,]$z~detect.d[detect.
 #   mean in group FALSE  mean in group TRUE 
 # -0.5909012          -0.6798878 
 
+
+# Welch Two Sample t-test
+# 
+# data:  detect.d[detect.d$z < cutoff.h & detect.d$z > cutoff.l, ]$z by detect.d[detect.d$z < cutoff.h & detect.d$z > cutoff.l, ]$initialInterrogative
+# t = 2.6217, df = 90.705, p-value = 0.01026
+# alternative hypothesis: true difference in means is not equal to 0
+# 95 percent confidence interval:
+#   0.01691355 0.12269438
+# sample estimates:
+#   mean in group FALSE  mean in group TRUE 
+# -0.5959750          -0.6657789 
 
 
 
@@ -233,6 +262,7 @@ permDiff = replicate(npermDiff, {
 # P value:
 1 - sum(trueDiff < permDiff) / npermDiff
 # 0.0342
+# 0.1504
 
 
 hist(dx$z)
@@ -269,6 +299,12 @@ anova(m0,m1)
 # m1  5 -81.024 -67.754 45.512  -91.024 1.3194      1     0.2507
 
 
+# m0: z ~ 1 + (1 | langFam) + (1 | area)
+# m1: z ~ initialInterrogative + (1 | langFam) + (1 | area)
+# Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)
+# m0  4 -132.76 -122.18 70.380  -140.76                         
+# m1  5 -130.99 -117.77 70.494  -140.99 0.2272      1     0.6336
+
 summary(m1)
 
 # Linear mixed model fit by REML ['lmerMod']
@@ -296,3 +332,30 @@ summary(m1)
 # Correlation of Fixed Effects:
 #   (Intr)
 # intlIntTRUE -0.501
+
+
+# Linear mixed model fit by REML ['lmerMod']
+# Formula: z ~ initialInterrogative + (1 | langFam) + (1 | area)
+# Data: dx[dx$z < cutoff.h & dx$z > cutoff.l, ]
+# 
+# REML criterion at convergence: -130.3
+# 
+# Scaled residuals: 
+#   Min       1Q   Median       3Q      Max 
+# -2.06246 -0.50899 -0.01398  0.56038  2.55902 
+# 
+# Random effects:
+#   Groups   Name        Variance Std.Dev.
+# langFam  (Intercept) 0.001391 0.03729 
+# area     (Intercept) 0.007330 0.08561 
+# Residual             0.011521 0.10733 
+# Number of obs: 104, groups:  langFam, 47; area, 16
+# 
+# Fixed effects:
+#   Estimate Std. Error t value
+# (Intercept)              -0.60753    0.02992 -20.303
+# initialInterrogativeTRUE -0.01312    0.02942  -0.446
+# 
+# Correlation of Fixed Effects:
+#   (Intr)
+# intlIntTRUE -0.437

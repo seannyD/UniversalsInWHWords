@@ -185,6 +185,14 @@ Alldata$word.clean = gsub("\\+","",Alldata$word.clean)
 
 # weird character
 Alldata$word.clean = gsub("έ",'ε',Alldata$word.clean)
+Alldata$word.clean = gsub("Y",'y',Alldata$word.clean)
+Alldata$word.clean = gsub("\u0241",'ʔ',Alldata$word.clean)
+Alldata$word.clean = gsub("А",'a',Alldata$word.clean)
+Alldata$word.clean = gsub("O",'o',Alldata$word.clean)
+Alldata$word.clean = gsub("О",'o',Alldata$word.clean)
+Alldata$word.clean = gsub("Т",'t',Alldata$word.clean)
+Alldata$word.clean = gsub("X",'t',Alldata$word.clean)
+
 
 # dollar sign is end of line matcher
 Alldata$word.clean = gsub("\\$","ʃ",Alldata$word.clean)

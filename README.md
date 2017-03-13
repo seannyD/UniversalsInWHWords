@@ -1,10 +1,9 @@
 #Process raw WOLD data:
 
-extractWOLDdata2.r
-addTranscriptions.r
-Collect_WOLD_data.R
+Collect_new_WOLD_data.R
+addTranscriptions_new.R
 
-Collect_IDS_data.R
+Collect_new_IDS_data.R
 
 Collect_Spraakbanken_data.R
 
