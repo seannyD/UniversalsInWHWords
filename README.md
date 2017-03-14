@@ -1,7 +1,7 @@
 # A test of universals in wh words
 
 
-The full dataset contains 430,000 entries from 314 languages, collected from IDS, WOLD and Sprakbanken.
+The full dataset contains 430,000 entries from 314 languages. 
 
 https://github.com/seannyD/UniversalsInWHWords/blob/master/Processing/CleanedAndSimplifiedData/Alldata_simple.csv
 
@@ -9,8 +9,21 @@ I've also written a script that restricts the data to non-creole, non-reconstruc
 
 https://github.com/seannyD/UniversalsInWHWords/blob/master/Analysis/RestrictionsApplied.R
 
+The following script will produce a matrix where rows are meanings and columns are languages:
 
-word: original transcription
+```
+#(in Analysis/)
+
+source("PermutationTools.r")
+
+alldata<-read.csv("../Processing/CleanedAndSimplifiedData/Alldata_simple.csv", stringsAsFactors=F)
+
+d = data.frame.to.matrix(alldata)
+```
+
+#  Data format
+
+word: Original transcription.  Note that there can be multiple words per entry, separated by ";"
 
 word.clean: original transcription with characters normalised
 
@@ -31,7 +44,7 @@ Source: source of the data.  Some languages were covered in more than one databa
 
 # Workflow for producing the data:
 
-# Process raw WOLD data:
+## Process raw WOLD data:
 
 Collect_new_WOLD_data.R
 addTranscriptions_new.R
@@ -40,30 +53,30 @@ Collect_new_IDS_data.R
 
 Collect_Spraakbanken_data.R
 
-# Merge WOLD, IDS AND SB
+## Merge WOLD, IDS AND SB
 List_merge.R
 
-# Simplify data
+## Simplify data
 simplifyData.R    -->> Processing/CleanedAndSimplifiedData/Alldata_simple.csv
 
 
 
-# End up with these files:
+## End up with these files:
 
 Alldata_simple.csv
 RAW_data/Data_clean_up2.csv (manually created)
 RAW_data/Grammars.csv (manually created)
 
-# Get languages in analysis by running:
+## Get languages in analysis by running:
 Analysis/RestrictionsApplied.R
-# Then 
+
+## Then 
 Processing/addGeoDataToLangList.R
 
 
-####
 # Analysis
 
-#Select data:
+# Select data:
 Analysis/RestrictionsApplied.R
 grammars.R
 makeDataVariables.R
