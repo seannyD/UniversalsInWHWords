@@ -1,7 +1,7 @@
 # A test of universals in wh words
 
 
-The full dataset contains 430,000 entries from 314 languages. 
+The full dataset contains 430,000 entries from 314 languages, taken from the IDS, the WOLD and Sprakbanken. 
 
 https://github.com/seannyD/UniversalsInWHWords/blob/master/Processing/CleanedAndSimplifiedData/Alldata_simple.csv
 
