@@ -1,4 +1,37 @@
-#Process raw WOLD data:
+# A test of universals in wh words
+
+
+The full dataset contains 430,000 entries from 314 languages, collected from IDS, WOLD and Sprakbanken.
+
+https://github.com/seannyD/UniversalsInWHWords/blob/master/Processing/CleanedAndSimplifiedData/Alldata_simple.csv
+
+I've also written a script that restricts the data to non-creole, non-reconstructed, non-dialect-level distinctions, and only concepts that are well covered.  e.g. someone went crazy over Nakh-Daghestanian languages and documented 10 varieties of the same language, which is quite unbalanced considering the rest of the coverage.  This dataset is 1000 concepts in 230 languages:
+
+https://github.com/seannyD/UniversalsInWHWords/blob/master/Analysis/RestrictionsApplied.R
+
+
+word: original transcription
+
+word.clean: original transcription with characters normalised
+
+word.simple: simplified orthography, paying attention only to place and manner of articulation (no tones, no vowel length, no aspiration/nasality/palatalisation).  We were mainly interested in consonants, so vowels are very simplified.
+
+meaning: the original meaning (can differ for the same meaning ID)
+
+meaning.id: the original meaning ID (see WOLD/IDS)
+
+meaning.id.fixed: we fixed and normalised some meaning IDs.
+
+domain: meaning domain.
+
+analyzability: For WOLD data, whether the word can be analysed into sub-parts
+
+Source: source of the data.  Some languages were covered in more than one database, we prioritised WOLD since it has analysability data.
+
+
+# Workflow for producing the data:
+
+# Process raw WOLD data:
 
 Collect_new_WOLD_data.R
 addTranscriptions_new.R
