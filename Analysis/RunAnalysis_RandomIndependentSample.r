@@ -128,6 +128,6 @@ dx$e.norm = dx$e - mean(dx$e)
 
 library(lme4)
 
-m0 = lmer(e.norm ~ 1 + (1+qpos|family) + (1+qpos|area), data=dx)
-m1 = lmer(e.norm ~ 1 + qpos + (1+qpos|family) + (1+qpos|area), data=dx)
+m0 = lmer(e.norm ~ 1 + (1|family) + (1|area), data=dx)
+m1 = lmer(e.norm ~ 1 + qpos + (1|family) + (1|area), data=dx)
 anova(m0,m1)

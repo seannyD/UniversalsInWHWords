@@ -41,11 +41,13 @@ deleteLang<-c(
               "Slavic",
               "Mongolic",
               "Proto Polynesian",
+              "Proto Austronesian",
               "Ancient Aramaic",
           # Creoles
               'Jamaican Creole (Limonese Creole dialect)',
               "Seychelles Creole",
               "Suriname Portuguese",
+              "Negerhollands",
           # Duplicated dialects
               'Shan', # we also have another dialect of the same glottocode
               "Nung-Fengshan", # We have another version of the dialect
@@ -107,7 +109,6 @@ deleteLang<-c(
           "Andi (Muni dialect)",
           "Armenian (Western variety)",
           "KNB (a Pearic variety)",
-          'Proto Polynesian',
           'LiHa',
           'Tum',
           'Kme-2 (Kemie variety)'
