@@ -1,24 +1,24 @@
-AllLangs_Vowels_allSegments : True =  0.396474774793518 , Mean of permutations =  0.461937394691346 . True > permutation in  0 out of 10000 permutations. 
+AllLangs_Vowels_allSegments : True =  0.396622168566933 , Mean of permutations =  0.468146545112706 . True > permutation in  0 out of 10000 permutations. 
 
 
-AllLangs_Vowels_firstSegments : True =  0.410976903480738 , Mean of permutations =  0.602097612425856 . True > permutation in  0 out of 10000 permutations. 
+AllLangs_Vowels_firstSegments : True =  0.421343545191385 , Mean of permutations =  0.604572990101532 . True > permutation in  0 out of 10000 permutations. 
 
 
-AllLangs_Consonants_allSegments : True =  0.567367705926389 , Mean of permutations =  0.698240355206539 . True > permutation in  0 out of 10000 permutations. 
+AllLangs_Consonants_allSegments : True =  0.571551286656807 , Mean of permutations =  0.702175721627574 . True > permutation in  0 out of 10000 permutations. 
 
 
-AllLangs_Consonants_firstSegments : True =  0.456661797736801 , Mean of permutations =  0.802597754432043 . True > permutation in  0 out of 10000 permutations. 
+AllLangs_Consonants_firstSegments : True =  0.487245299302159 , Mean of permutations =  0.816267126600064 . True > permutation in  0 out of 10000 permutations. 
 
 
-VowelsVersusConsonantsDifference_allSegments : True =  0.170892931132872 , Mean of permutations =  -0.000176326399794777 . True > permutation in  10000 out of 10000 permutations. 
-    Number of permutations with difference greater than 0 =  4981 out of 10000 
+VowelsVersusConsonantsDifference_allSegments : True =  0.174929118089874 , Mean of permutations =  -0.000136386336880436 . True > permutation in  10000 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  4942 out of 10000 
     Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  10000 out of 10000 
-    t =  -22.3563410668734 , df =  452.631415397508 , p =  3.91063129920176e-75 
+    t =  -23.3901651856817 , df =  444.392253989082 , p =  1.8438582400002e-79 
 
 
-VowelsVersusConsonantsDifference_firstSegments : True =  0.045684894256063 , Mean of permutations =  -0.000165243256904448 . True > permutation in  9932 out of 10000 permutations. 
-    Number of permutations with difference greater than 0 =  4991 out of 10000 
-    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  9855 out of 10000 
-    t =  -2.51345260906395 , df =  425.174182126461 , p =  0.0123242905193964 
+VowelsVersusConsonantsDifference_firstSegments : True =  0.0659017541107736 , Mean of permutations =  0.000104409027027018 . True > permutation in  9997 out of 10000 permutations. 
+    Number of permutations with difference greater than 0 =  5089 out of 10000 
+    Number of permutations where absolute difference in true entropies is greater than the absolute difference in permuted entropies =  9994 out of 10000 
+    t =  -3.37466321300734 , df =  415.506414010585 , p =  0.000808508921305932 
 
 

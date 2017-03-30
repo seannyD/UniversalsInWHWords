@@ -93,7 +93,8 @@ detect.d$area = l.details[match(lang2glotto[detect.d$lang], l.details$glotto),]$
 
 write.csv(detect.d,file="../Results/SimplifiedPhonology/Detectability/RandomConcepts/detectability_randomConcepts_firstSegments.csv")
 
-# detect.d = read.csv("../Results/SimplifiedPhonology/Detectability/RandomConcepts/detectability_randomConcepts_firstSegments.csv", stringsAsFactors=F)
+#detect.d = read.csv("../Results/SimplifiedPhonology/Detectability/RandomConcepts/detectability_randomConcepts_firstSegments.csv")
+
 
 par(mfrow=c(3,3))
 for(i in 1:9){
@@ -123,6 +124,8 @@ xWh/sum(xWh)
 
 # Test interrogative order
 dx = detect.d[!is.na(detect.d$initialInterrogative),]
+dx = dx[!dx$interrogative.position=='3 Mixed',]
+dx = dx[!duplicated(dx$lang),]
 
 ##########
 # Random independent sample
@@ -152,8 +155,7 @@ random.detectability.fam = replicate(10000, getRandIndepSampleDiff(
 
 hist(random.detectability.fam)
 sum(random.detectability.fam<=0) / length(random.detectability.fam)
-# 0.9953
-#0.6167
+# 0.7182
 
 
 limit2 = min(length(unique(dx[dx$initialInterrogative,]$area)),
@@ -171,7 +173,7 @@ random.detectability.area = replicate(10000, getRandIndepSampleDiff(
 hist(random.detectability.area)
 sum(random.detectability.area<=0) / length(random.detectability.area)
 # 0.9145
-# 0.7452
+# 0.7548
 
 
 
@@ -203,13 +205,13 @@ t.test(detect.d$z~detect.d$initialInterrogative)
 # Welch Two Sample t-test
 # 
 # data:  detect.d$z by detect.d$initialInterrogative
-# t = 1.0786, df = 103.74, p-value = 0.2833
+# t = 1.2165, df = 109, p-value = 0.2264
 # alternative hypothesis: true difference in means is not equal to 0
 # 95 percent confidence interval:
-#   -0.04417511  0.14953986
+#   -0.03538043  0.14783455
 # sample estimates:
 #   mean in group FALSE  mean in group TRUE 
-# -0.5687443          -0.6214267 
+# -0.5691511          -0.6253782
 
 
 cutoff.h = mean(detect.d$z) + (2* sd(detect.d$z))
@@ -262,7 +264,7 @@ permDiff = replicate(npermDiff, {
 # P value:
 1 - sum(trueDiff < permDiff) / npermDiff
 # 0.0342
-# 0.1504
+# 0.2144
 
 
 hist(dx$z)
@@ -298,12 +300,12 @@ anova(m0,m1)
 # m0  4 -81.704 -71.089 44.852  -89.704                         
 # m1  5 -81.024 -67.754 45.512  -91.024 1.3194      1     0.2507
 
-
+# 
 # m0: z ~ 1 + (1 | langFam) + (1 | area)
 # m1: z ~ initialInterrogative + (1 | langFam) + (1 | area)
 # Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)
-# m0  4 -132.76 -122.18 70.380  -140.76                         
-# m1  5 -130.99 -117.77 70.494  -140.99 0.2272      1     0.6336
+# m0  4 -133.56 -122.84 70.782  -141.56                         
+# m1  5 -131.83 -118.42 70.916  -141.83 0.2684      1     0.6044
 
 summary(m1)
 
@@ -338,24 +340,24 @@ summary(m1)
 # Formula: z ~ initialInterrogative + (1 | langFam) + (1 | area)
 # Data: dx[dx$z < cutoff.h & dx$z > cutoff.l, ]
 # 
-# REML criterion at convergence: -130.3
+# REML criterion at convergence: -131.2
 # 
 # Scaled residuals: 
 #   Min       1Q   Median       3Q      Max 
-# -2.06246 -0.50899 -0.01398  0.56038  2.55902 
+# -1.92530 -0.58954 -0.05192  0.55554  3.01118 
 # 
 # Random effects:
 #   Groups   Name        Variance Std.Dev.
-# langFam  (Intercept) 0.001391 0.03729 
-# area     (Intercept) 0.007330 0.08561 
-# Residual             0.011521 0.10733 
-# Number of obs: 104, groups:  langFam, 47; area, 16
+# langFam  (Intercept) 0.000153 0.01237 
+# area     (Intercept) 0.007470 0.08643 
+# Residual             0.013073 0.11434 
+# Number of obs: 108, groups:  langFam, 45; area, 16
 # 
 # Fixed effects:
 #   Estimate Std. Error t value
-# (Intercept)              -0.60753    0.02992 -20.303
-# initialInterrogativeTRUE -0.01312    0.02942  -0.446
+# (Intercept)              -0.60482    0.03015  -20.06
+# initialInterrogativeTRUE -0.01385    0.03009   -0.46
 # 
 # Correlation of Fixed Effects:
 #   (Intr)
-# intlIntTRUE -0.437
+# intlIntTRUE -0.468

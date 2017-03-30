@@ -60,6 +60,19 @@ getStats3 = function(filenames,base='',label=filenames[1],lessThan=F){
   return(dx)
 }
 
+getRealE = function(filenames,base='',label=filenames[1],lessThan=F){
+
+  d = do.call(rbind, lapply(paste(base,filenames,sep=''), function(x) read.csv(x, stringsAsFactors = FALSE)))
+  if(ncol(d)==2){
+    trueV = mean(d[d$Type=="True",2])
+    permV = d[d$Type=="Perm",2]
+  } else{
+    trueV = 0
+    permV = d[,1]
+  }
+  return(trueV)
+}
+
 addLine = function(label){
   return(data.frame(Test=label,filename="Filename",meanPerm="Mean",p="p",z="z", stringsAsFactors = F))
 }
@@ -109,6 +122,11 @@ wh1st = rbind(
 t2 = makeTable(wh1st, "Results for wh words, first segments",baseF,172)
 
 
+
+####
+
+
+
 action = rbind(
  # addLine("Basic action words"),
   getStats3("AllLangs_allSegments_ActionDomain.csv",baseF , "All segments"),
@@ -132,7 +150,7 @@ pronoun = rbind(
   getStats3("AllLangs_allSegments_Pronouns.csv",baseF , "All segments"),
   getStats3("AllLangs_firstSegments_Pronouns.csv",baseF , "First segments"),
   getStats3("AllLangs_allSegments_PronounDomain_byFamilyAndArea.csv", baseF, "All segments, permute within families and areas"),
-  getStats3("AllLangs_allSegments_PronounDomain_byFamilyAndArea.csv", baseF, "First segments, permute within families and areas")
+  getStats3("AllLangs_firstSegments_PronounDomain_byFamilyAndArea.csv", baseF, "First segments, permute within families and areas")
 )
 t5 = makeTable(pronoun, "Results for pronouns",baseF,172)
 
@@ -140,6 +158,8 @@ t5 = makeTable(pronoun, "Results for pronouns",baseF,172)
 baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomConcepts/RandomConceptPermutationTest/"
 files = list.files(baseF)
 files =files[grepl("\\.csv",files)]
+
+getRealE(files[grepl("Permutation_Domain_byFamily_and_Area_firstSegments_",files)], baseF)
 
 
 random2random = rbind(
@@ -161,6 +181,8 @@ cat( paste(t1,t2,t3,t4,t5,t6,sep="\n"), file=outFile)
 baseF = "../Results/SimplifiedPhonology/PermutationResults/RandomConcepts/"
 files = list.files(baseF)
 files =files[grepl("\\.csv",files)]
+
+getRealE()
 
 wh2random = rbind(
   getStats3("Comparison_WH_Random_allSegments.csv",baseF,"All segments"),
@@ -248,11 +270,24 @@ RISx2 = rbind(
 )
 
 
-tb3 = makeTable(RISx2, "Random independent samples tests, comparing wh words by consonants or vowels separately.",baseF)
+tb3 = makeTable(RISx2, "Random independent samples tests, comparing wh words by consonants or vowels separately (controlling for language family).",baseF)
+
+##
+RISx3 = rbind(
+  getStats3(files[grepl("ConsonantsInitial_3_allSegments_Area_RandomIndependentSample",files)],baseF,"Wh words, all consonants", T),
+  getStats3(files[grepl("ConsonantsInitial_3_firstSegments_Area_RandomIndependentSample",files)],baseF,"Wh words, first consonant", T),
+  getStats3(files[grepl("VowelsInitial_3_allSegments_Area_RandomIndependentSample",files)],baseF,"Wh words, all vowels", T),
+  getStats3(files[grepl("VowelsInitial_3_firstSegments_Area_RandomIndependentSample",files)],baseF,"Wh words, first vowel", T)
+)
+
+
+tb3Area = makeTable(RISx3, "Random independent samples tests, comparing wh words by consonants or vowels separately (controlling for geogrpahic area).",baseF)
 
 
 outFile4 = "../Results/SimplifiedPhonology/tables/Summary/SummaryTables4.tex"
 cat(tb3, file=outFile4)
+cat("\n\n\n",file=outFile4,append=T)
+cat(tb3Area, file=outFile4,append = T)
 
 ########
 

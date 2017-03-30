@@ -44,13 +44,13 @@
 
 In several languages the same form is listed under more than one question-word concept.  This decreases the entropy score, so it is reasonable to ask whether the results are driven by this effect.  However, this is a difficult criticism to address.  In an extreme reading, our hypothesis would predict that a language would have identical forms for all wh-words.  Therefore, removing the duplicates removes part of the effect we are trying to detect.  
 
-Also, we made the following assumptions about the data: Empty cells indicate that the language has no lexicalised form for the concept.  Duplicated forms mean that they use the same form for both concepts.  So, if the language really only had one concept for ?how? and ?what?, then it would receive only one entry.  Duplicate entries suggest that speakers have separate concepts, but identical forms.  In this case, we think it?s fair to count them as separate entries.
+Also, we made the following assumptions about the data: Empty cells indicate that the language has no lexicalised form for the concept.  Duplicated forms mean that they use the same form for both concepts.  So, if the language really only had one concept for \emph{how} and \emph{what}, then it would receive only one entry.  Duplicate entries suggest that speakers have separate concepts, but identical forms.  In this case, we think it is fair to count them as separate entries.
 
 Actually implementing this check is also difficult.  A lot of time was put into cleaning and simplifying the representations of words, often on a language-by-language basis.  Forms that look identical in the final data may actually be phonemically different in their raw form.  It is also not clear, if a language has a duplicate form, which concept to exclude (making study 1 difficult to repeat exactly).
 
 Still, the results below are based on a dataset with duplicates within languages removed (conservatively based on the cleaned forms, see testDuplicated.R).  Duplicate forms for other concepts were not removed.  
 
-When removing duplicates, the mean entropy of wh words first segments was 0.46 (compared to 0.43 with duplicates), and when looking at all segments it was 0.59 (compared to 0.58 with duplicates).  The results below do not differ much from the original results, so we conclude that the effects in the main paper are not driven by an artefact of duplicated forms. 
+When removing duplicates, the mean entropy of wh words first segments was 0.48 (compared to 0.46 with duplicates), and when looking at all segments it was 0.59 (compared to 0.57 with duplicates).  The results below do not differ much from the original results, so we conclude that the effects in the main paper are not driven by an artefact of duplicated forms. 
 
 \input{SummaryTables_noDuplicates.tex}
 

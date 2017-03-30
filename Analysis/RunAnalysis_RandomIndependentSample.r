@@ -108,6 +108,19 @@ runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.
 #rx
 runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, families.d.wh.possible.initial,families.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_firstSegments_RandomIndependentSample",T)
 
+###
+# Vowels/Consonants, controlling for areas
+set.seed(3278)
+runComparison.randomSample(d.wh.possible.initial.consonantsOnly.m,d.wh.possible.non.initial.consonantsOnly.m, areas.d.wh.possible.initial,areas.d.wh.possible.non.initial,"InterrogativeOrder/ConsonantsInitial_3_allSegments_Area_RandomIndependentSample",F)
+
+runComparison.randomSample(d.wh.possible.initial.consonantsOnly.m,d.wh.possible.non.initial.consonantsOnly.m, areas.d.wh.possible.initial,areas.d.wh.possible.non.initial,"InterrogativeOrder/ConsonantsInitial_3_firstSegments_Area_RandomIndependentSample",T)
+
+
+runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m, areas.d.wh.possible.initial,areas.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_allSegments_Area_RandomIndependentSample",F)
+
+#rx
+runComparison.randomSample(d.wh.possible.initial.vowelsOnly.m,d.wh.possible.non.initial.vowelsOnly.m,areas.d.wh.possible.initial,areas.d.wh.possible.non.initial,"InterrogativeOrder/VowelsInitial_3_firstSegments_Area_RandomIndependentSample",T)
+
 
 
 

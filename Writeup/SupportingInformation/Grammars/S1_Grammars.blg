@@ -3,48 +3,49 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: S1_Grammars.aux
 The style file: apalike.bst
 Database file #1: grammarRefs.bib
+Warning--I didn't find a database entry for ""
 Warning--can't use both author and editor fields in wals-93
 Warning--empty chapter and pages in wals-93
 Warning--empty publisher in zucker_yiddish1994.pdf
-You've used 48 entries,
+You've used 37 entries,
             1935 wiz_defined-function locations,
-            781 strings with 10773 characters,
-and the built_in function-call counts, 17188 in all, are:
-= -- 1655
-> -- 498
-< -- 77
-+ -- 162
-- -- 142
-* -- 1249
-:= -- 2970
-add.period$ -- 161
-call.type$ -- 48
-change.case$ -- 264
-chr.to.int$ -- 46
-cite$ -- 51
-duplicate$ -- 834
-empty$ -- 1357
-format.name$ -- 198
-if$ -- 3555
+            710 strings with 8988 characters,
+and the built_in function-call counts, 12942 in all, are:
+= -- 1250
+> -- 363
+< -- 58
++ -- 121
+- -- 103
+* -- 931
+:= -- 2254
+add.period$ -- 124
+call.type$ -- 37
+change.case$ -- 201
+chr.to.int$ -- 35
+cite$ -- 40
+duplicate$ -- 629
+empty$ -- 1021
+format.name$ -- 146
+if$ -- 2663
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 69
-newline$ -- 244
-num.names$ -- 170
-pop$ -- 309
+missing$ -- 53
+newline$ -- 189
+num.names$ -- 129
+pop$ -- 234
 preamble$ -- 1
-purify$ -- 296
+purify$ -- 227
 quote$ -- 0
-skip$ -- 634
+skip$ -- 479
 stack$ -- 0
-substring$ -- 937
-swap$ -- 191
-text.length$ -- 31
+substring$ -- 696
+swap$ -- 137
+text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 232
+type$ -- 178
 warning$ -- 3
-while$ -- 135
+while$ -- 101
 width$ -- 0
-write$ -- 666
-(There were 3 warnings)
+write$ -- 514
+(There were 4 warnings)

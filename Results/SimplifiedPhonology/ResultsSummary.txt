@@ -16,3 +16,9 @@ AllLangs_allSegments_byArea : True =  0.571684148317015 , Mean of permutations =
 AllLangs_firstSegment_byArea : True =  0.454410577875287 , Mean of permutations =  0.71422966668275 . True > permutation in  0 out of 10000 permutations. 
 
 
+AllLangs_allSegments_byAreaAndFamily : True =  0.571684148317015 , Mean of permutations =  0.608038248704227 . True > permutation in  0 out of 10000 permutations. 
+
+
+AllLangs_firstSegment_byAreaAndFamily : True =  0.454410577875287 , Mean of permutations =  0.58127003582052 . True > permutation in  0 out of 10000 permutations. 
+
+

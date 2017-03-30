@@ -75,13 +75,6 @@ d$SV[d$SV=="3 No dominant order"] = NA
 d$SV = d$SV == "1 SV"
 
 
-
-
-d$Af = d$X26A.Prefixing.vs..Suffixing.in.Inflectional.Morphology
-d$Af[d$Af %in% c("1 Little affixation","4 Equal prefixing and suffixing","")]=NA
-d$Af = as.numeric(factor(d$Af))
-
-
 ```
 
 Contingency table of initial interrogative phrase by basic word order:

@@ -119,9 +119,37 @@ lx.rn[which(distx3>1000)]
 
 wals = read.csv("../Analysis/SubjectVerbOrder/wals-language.csv/language.csv", stringsAsFactors = F, fileEncoding = 'utf-8')
 wals$glottocode[!is.na(wals$glottocode) & wals$glottocode==''] = NA
-l.details$WALS.qpos = wals[match(l.details$glotto, wals$glottocode),]$X93A.Position.of.Interrogative.Phrases.in.Content.Questions
 
-l.details$WALS.qpos[l.details$WALS.qpos==''] = NA
+l.details$wals.code = wals[match(l.details$glotto, wals$glottocode),]$wals_code
+
+g2wals  = t(matrix(c(
+  'east2283',"arm",
+  'zaca1242','cya',
+  'nuuc1236','nuu',
+  'iyoj1235','crt',
+  'inxo1238','khv',
+  'sout2752','tbs',
+  'east1436','nep',
+  'west2386','pan',
+  'chon1284','ksn',
+  'pear1247','ksn',
+  'west2394','ksn',
+  'suri1265','khm'), nrow=2))
+
+for(i in 1:nrow(g2wals)){
+  l.details[l.details$glotto==g2wals[i,1],]$wals.code = 
+    g2wals[i,2]
+}
+l.details$wals.code[!is.na(l.details$wals.code) & (l.details$wals.code=='')] = NA
+
+l.details$basicWordOrder = wals[match(l.details$wals.code, wals$wals_code),]$X81A.Order.of.Subject..Object.and.Verb
+l.details$basicWordOrder[!is.na(l.details$basicWordOrder) & l.details$basicWordOrder==''] = NA
+
+l.details$WALS.qpos = wals[match(l.details$wals.code, wals$wals_code),]$X93A.Position.of.Interrogative.Phrases.in.Content.Questions
+
+l.details$WALS.qpos[!is.na(l.details$WALS.qpos) & l.details$WALS.qpos==''] = NA
+
+
 
 c.grammars = read.csv("../RAW_data/Grammars.csv", stringsAsFactors = F)
 c.grammars[c.grammars$Positioning=='',]$Positioning = NA

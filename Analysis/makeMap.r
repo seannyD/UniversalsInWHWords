@@ -24,7 +24,7 @@ points(l.details2$longitude,l.details2$latitude,col=rgb(1,0,0),  pch= 16)
 library(ggplot2)
 
 set.seed(120)
-cols = sample(rainbow(length(unique(l.details2$area)), alpha = 0.75))
+cols = sample(rainbow(length(unique(l.details2$area)), alpha = 0.5))
 
 l.details2$area.colour = cols[as.numeric(as.factor(l.details2$area))]
 l.details2$area.colour[l.details2$area=="Indic"] = 'black'

@@ -1,11 +1,11 @@
 "run","meanPerm","p","z"
-"Comparison_WH_Random_firstSegments.csv",0.78,"1",-28.1
-"Comparison_WH_Domain_firstSegments_concept_9.csv",0.75,"< 0.000005",-15.09
-"Comparison_WH_BodyDomain_firstSegments.csv",0.679090824151223,"< 0.0001",8.85
-"Comparison_WH_BasicActionsDomain_firstSegments.csv",0.704034680106207,"< 0.0001",9.88
-"Comparison_WH_PronounDomain_firstSegments.csv",0.629236718735536,"< 0.0001",7.96
-"Comparison_WH_Random_unanalyzable_firstSegments.csv",0.84,"1",-10.43
-"Comparison_WH_Domain_unanalyzable_allSegments_concept_9.csv",0.72,"0.04722",-1.53
-"Comparison_WH_BodyDomain_unanalyzable_firstSegments.csv",0.785735199989641,"< 0.0001",3.83
-"Comparison_WH_BasicActionsDomain_unanalyzable_firstSegments.csv",0.808877556974937,"0.0002",3.54
-"Comparison_WH_PronounDomain_unanalyzable_firstSegments.csv",0.676141703078518,"0.029",1.88
+"Comparison_WH_Random_firstSegments.csv",0.79,"1",-27.47
+"Comparison_WH_Domain_firstSegments_concept_9.csv",0.76,"< 0.00000476190476190476",-14.4
+"Comparison_WH_BodyDomain_firstSegments.csv",0.693339931015251,"< 0.0001",10.31
+"Comparison_WH_BasicActionsDomain_firstSegments.csv",0.698961913090847,"< 0.0001",11.04
+"Comparison_WH_PronounDomain_firstSegments.csv",0.64243342135344,"< 0.0001",8.91
+"Comparison_WH_Random_unanalyzable_firstSegments.csv",0.83,"1",-12.97
+"Comparison_WH_Domain_unanalyzable_allSegments_concept_9.csv",0.7,"0.0111619047619048",-3.13
+"Comparison_WH_BodyDomain_unanalyzable_firstSegments.csv",0.751940073229224,"< 0.0001",3.88
+"Comparison_WH_BasicActionsDomain_unanalyzable_firstSegments.csv",0.758223177572134,"0.0001",3.65
+"Comparison_WH_PronounDomain_unanalyzable_firstSegments.csv",0.671848002908597,"0.0054",2.53
