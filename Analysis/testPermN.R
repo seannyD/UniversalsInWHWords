@@ -153,3 +153,4 @@ res = replicate(1000,sampleMin(d.PronounConcepts.m2, d.wh.m))
 sum(res >= 0) / sum(!is.na(res))
 
 (0 - mean(res,na.rm=T)) / sd(res,na.rm=T)
+1/1
