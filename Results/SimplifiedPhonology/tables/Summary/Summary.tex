@@ -54,8 +54,37 @@ When removing duplicates, the mean entropy of wh words first segments was 0.48 (
 
 \input{SummaryTables_noDuplicates.tex}
 
+\clearpage
+\newpage
 
+\section{Controlling for number of words in permutation tests}
 
+The permutation tests where interrogative words were compared to random words worked by keeping the number of concepts equal in both sets.  So, for example, the $E_f$ score would be calculated for the entries for 9 interrogative concepts and for 9 random concepts.  One concern here is that this might compare different numbers of words.  For example, the 9 interrogative concepts might contain 10 unique words (due to multiple words in 1 entry), while the 9 random concepts might contain 8 unique words (due to missing data).  Since larger samples are more likely to produce extreme values, it's possible that this was affecting the results.
+
+(We note that often the interrogative set had more words per language than many of the other sets, and in this case a random additional word is more likely to increase the entropy than decrease it, so the prediction would be that controlling for number of concepts is conservative)
+
+We re-ran the test from study 2, but keeping the number of unique words in each language the same.  So, for example, if language X had 8 unique interrogative words, then 8 words were selected from the random set.  However, the languages in the sample had between 5 and 25 unique words for interrogatives (median = 10.8, sd = 3), so it was impossible to keep both the number of concepts and the number of words equal.  So, the procedure worked like this:  For each language $L_i$ from $L_1$ to $L_{226}$, the number of unique interrogative words was obtained, call this $U_{L_i}$.  The data for random concepts was organised as a matrix, with rows representing concepts and columns representing languages.  The order of rows was randomly permuted.  For each column, the first $U_{L_i}$ words in the matrix were taken as the corresponding set of words.  In this way, each language had a set of interrogative words, and an equal number of random words, with most languages being matched on concepts as far as it was possible.
+
+Table \ref{tab:ControlNRes} below shows the results of the tests, comparing the original tests (controlling for number of concepts) to the test controlling for number of words.  The latter results in a more extreme result than the original (more in favour of our hypothesis), for both first segments and all segments.  Thus, we argue that the results in the paper are not driven by comparing different numbers of words.
+
+\begin{table}[htdp]
+\begin{center}
+\begin{tabular}{llll}
+\hline
+& Controlling for ... & p & z \\
+\hline
+First segments & Number of concepts & $< $ 0.001 & -27.93 \\
+ & Number of words & $<$  0.001 & -34.13 \\
+All segments & Number of concepts & $<$  0.001 & -8.49 \\
+ & Number of words & $<$  0.001 & -9.34 \\
+\end{tabular}
+\end{center}
+\label{tab:ControlNRes}
+\end{table}%
+
+We also performed an additional test comparing the mean $E_f$ for interrogative words to the mean $E_f$ for pronouns.  In this test, a sample of words from each set was taken for each language, so that the size of the sample was the minimum number of words available.  So, if a language had 9 interrogative words and 6 pronoun words, a random sample of 6 interrogative words was taken from the full set of 9.  Mean $E_f$ was calculated for both sets, and the difference taken. This was repeated 1000 times.  
+
+As in the original experiment, we found that interrogative words were more similar (smaller $E_f$) than pronouns (for first segments: mean difference in $E_f$ = -0.15, p $<$ 0.001, z = 24.67).
 
 \bibliographystyle{apalike}
 \bibliography{/Users/sgroberts/Documents/PhD/Biblography}
